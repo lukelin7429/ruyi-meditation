@@ -9,37 +9,19 @@ page, the Threes onward one discourse to a page.
 | AN 1 | 31 | 31 | 0 | 1.1-10–1.616-627 | **complete** |
 | AN 2 | 19 | 19 | 0 | 2.1-10–2.310-479 | **complete** |
 | AN 3 | 158 | 158 | 0 | 3.1–3.183-352 | **complete** |
-| AN 4 | 278 | 200 | 78 | 4.1–4.200 | 4.201 |
-| AN 5 | 271 | 2 | 269 | — | 5.1 |
-| AN 6 | 125 | 2 | 123 | — | 6.1 |
-| AN 7 | 101 | 1 | 100 | — | 7.1 |
+| AN 4 | 278 | 278 | 0 | 4.1–4.304-783 | **complete** |
+| AN 5 | 271 | 271 | 0 | 5.1–5.308-1152 | **complete** |
+| AN 6 | 125 | 125 | 0 | 6.1–6.170-649 | **complete** |
+| AN 7 | 101 | 53 | 48 | 7.1–7.53 | 7.54 |
 | AN 8 | 96 | 2 | 94 | — | 8.1 |
 | AN 9 | 82 | 1 | 81 | — | 9.1 |
 | AN 10 | 211 | 2 | 209 | — | 10.1 |
 | AN 11 | 36 | 1 | 35 | — | 11.1 |
-| **Total** | **1408** | **419** | **989** | | |
+| **Total** | **1408** | **941** | **467** | | |
 
-## AN 4 — 78 still to do
+## AN 7 — 48 still to do
 
-Missing: 201–277, 304
-
-## AN 5 — 269 still to do
-
-Missing: 1–27, 29–56, 58–257, 264–265, 272–273, 286–287, 293–294, 303–308
-
-Already published out of order (pre-existing pages): 5.28, 5.57
-
-## AN 6 — 123 still to do
-
-Missing: 1–15, 17–62, 64–120, 140–143, 170
-
-Already published out of order (pre-existing pages): 6.16, 6.63
-
-## AN 7 — 100 still to do
-
-Missing: 1–5, 7–96, 615–618, 645
-
-Already published out of order (pre-existing pages): 7.6
+Missing: 54–96, 615–618, 645
 
 ## AN 8 — 94 still to do
 

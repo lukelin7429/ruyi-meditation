@@ -7206,3 +7206,2026 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# The chapter's own title, Mahāyaññavagga ("A Great Sacrifice"), names AN
+# 7.47's narrative rather than describing the chapter's actual span: only one
+# discourse here involves a sacrifice. This chapter closes AN 7's First Fifty
+# (Paṭhamapaṇṇāsaka, AN 7.1-53); the Second Fifty has not yet been mapped.
+# --------------------------------------------------------------------------- #
+VAGGA_5 = "<em>Mahāyaññavagga</em> &mdash; the fifth chapter of the Sevens, closing its First Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.44 — Sattaviññāṇaṭṭhitisutta
+# --------------------------------------------------------------------------- #
+page(
+    44, "Sattaviññāṇaṭṭhiti", "Planes of Consciousness",
+    vagga=VAGGA_5,
+    meta_title="AN 7.44 — Planes of Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sattaviññāṇaṭṭhitisutta, the Buddha's bare list of seven planes of "
+        "consciousness spanning the human realm up to the dimension of nothingness. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare doctrinal list, seven planes each defined by a pair of "
+                 "terms &mdash; diversity or unity of body, diversity or unity of "
+                 "perception &mdash; followed by three formless attainments"),
+        ("Length", "~1 minute to read"),
+        ("Wider canon", "The same seven planes reappear, folded into a larger list of "
+                        "nine abodes of beings (navasattāvāsā), at DN 15 and DN 33; "
+                        "this discourse gives only the seven that Ru-Yi's reading guide "
+                        "for those texts would need on its own"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short but dense, "
+                       "a cosmological map best read slowly, one plane at a time"),
+    ],
+    why=(
+        "AN 7.44 opens this chapter with a cosmological map: seven planes of "
+        "consciousness, sorted by whether the beings there share one body-type or many, "
+        "one mode of perception or many, climbing from the human realm through three "
+        "levels tied to the four absorptions and on to three of the four formless "
+        "attainments."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Consciousness &mdash; not consciousness in general, but the specific "
+            "settled conditions in which beings are reborn &mdash; sorts into seven "
+            "planes, each named by whether its beings' bodies are diverse or uniform "
+            "and whether their perceptions are diverse or uniform."]),
+        ("The first four planes: body and perception, crossed two ways", [
+            "The first plane covers beings diverse in both body and perception "
+            "&mdash; humans, some gods, and some beings in the lower realms, the "
+            "widest and most familiar plane. The second plane, diverse body but "
+            "unified perception, names the gods of the Divinity's host reborn there "
+            "through the first absorption. The third, unified body but diverse "
+            "perception, names the gods of streaming radiance. The fourth, unified in "
+            "both, names the gods of universal beauty &mdash; each pairing worked "
+            "through systematically rather than left to the reader to infer."]),
+        ("The last three planes: beyond form entirely", [
+            "The fifth through seventh planes leave body out of the reckoning "
+            "altogether, since these beings have gone totally beyond perceptions of "
+            "form: the dimension of infinite space, the dimension of infinite "
+            "consciousness, and the dimension of nothingness &mdash; three of the four "
+            "formless attainments, each defined by what perception it has moved "
+            "beyond rather than by any bodily comparison."]),
+        ("What this list leaves out, and why it matters", [
+            "The fuller doctrinal picture found elsewhere in the canon (DN 15, DN 33) "
+            "adds two more abodes to make nine: non-percipient beings, who have no "
+            "consciousness at all and so cannot count as a plane of consciousness by "
+            "definition, and the dimension of neither perception nor non-perception, "
+            "too subtle for even this fine-grained classification to pin down as "
+            "clearly one thing or its opposite. This discourse's seven are exactly the "
+            "planes that classification of this kind can actually reach."]),
+    ],
+    terms=[
+        ("viññāṇaṭṭhiti",
+         "&ldquo;plane&rdquo; or &ldquo;station&rdquo; of consciousness &mdash; a "
+         "settled condition of rebirth classified by the character of body and "
+         "perception shared there, not consciousness as a faculty in general."),
+        ("nānattakāyā nānattasaññino",
+         "&ldquo;diverse in body, diverse in perception&rdquo; &mdash; the first "
+         "plane's defining pair, covering humans and much of the god and lower "
+         "realms at once."),
+        ("ekattakāyā ekattasaññino",
+         "&ldquo;unified in body, unified in perception&rdquo; &mdash; the fourth "
+         "plane, the gods of universal beauty (subhakiṇha), reborn through the third "
+         "absorption."),
+        ("ākāsānañcāyatana, viññāṇañcāyatana, ākiñcaññāyatana",
+         "&ldquo;the dimension of infinite space, of infinite consciousness, of "
+         "nothingness&rdquo; &mdash; the fifth through seventh planes, three of the "
+         "four formless attainments named in sequence."),
+        ("navasattāvāsā",
+         "&ldquo;the nine abodes of beings&rdquo; &mdash; the larger classification "
+         "at DN 15 and DN 33 that folds these seven planes in alongside two further "
+         "abodes this discourse does not include."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's bare enumeration of the seven planes, "
+        "with no dialogue frame. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven planes, announced"),
+        ("p", "&sect;1", "an7.44:1.1-1.2"),
+        ("h3", "Planes one through four: body and perception crossed two ways"),
+        ("p", "&sect;2", "an7.44:1.3-4.2"),
+        ("h3", "Planes five through seven: beyond form, into the formless"),
+        ("p", "&sect;3", "an7.44:5.1-8.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse classify as “planes of consciousness”?",
+         "opts": [
+             "Different types of meditation technique",
+             "Settled conditions of rebirth, classified by whether beings there share "
+             "one body-type or many, and one mode of perception or many",
+             "The seven factors of awakening",
+             "Seven stages of a single meditator's progress in one lifetime"],
+         "correct": 1,
+         "expl": "A cosmological classification of rebirth, not a meditation method."},
+        {"q": "What defines the first, widest plane of consciousness?",
+         "opts": [
+             "Unified body, unified perception",
+             "Diverse in body and diverse in perception — covering humans, some gods, "
+             "and some beings in the lower realms at once",
+             "Beings who have gone totally beyond perceptions of form",
+             "Non-percipient beings with no consciousness at all"],
+         "correct": 1,
+         "expl": "The broadest plane, spanning much of the human, divine, and lower "
+                 "realms together."},
+        {"q": "What do the fifth through seventh planes have in common?",
+         "opts": [
+             "They are all named by comparing bodies",
+             "They leave body out of the reckoning entirely, being three of the four "
+             "formless attainments — infinite space, infinite consciousness, and "
+             "nothingness",
+             "They are all planes reached only through the first absorption",
+             "They are identical to the first four planes"],
+         "correct": 1,
+         "expl": "Formless attainments defined by what perception has been left "
+                 "behind, not by any bodily comparison."},
+        {"q": "According to the guide, what does the fuller nine-abode list at DN 15 "
+              "and DN 33 add that this discourse's seven leave out?",
+         "opts": [
+             "Nothing — the lists are identical",
+             "Non-percipient beings, who have no consciousness at all, and the "
+             "dimension of neither perception nor non-perception, too subtle to "
+             "classify this way",
+             "Three more formless attainments not mentioned here",
+             "A tenth and eleventh plane of consciousness"],
+         "correct": 1,
+         "expl": "Two further abodes that fall outside what this particular "
+                 "classification can pin down."},
+        {"q": "Which gods does the guide name for the fourth plane, unified in both "
+              "body and perception?",
+         "opts": [
+             "The gods of streaming radiance",
+             "The gods of universal beauty, reborn through the third absorption",
+             "The gods of the Divinity's host",
+             "The gods of the Four Great Kings"],
+         "correct": 1,
+         "expl": "Subhakiṇha devas, the fourth plane's named example."},
+        {"q": "How is this discourse delivered?",
+         "opts": [
+             "As a dialogue with a brahmin visitor",
+             "As a bare doctrinal list, with no dialogue frame or narrative setting "
+             "given",
+             "As a story about a laywoman's attainments",
+             "As a set of verses"],
+         "correct": 1,
+         "expl": "Direct address to the mendicants, opening this chapter without "
+                 "narrative framing."},
+    ],
+    marginalia=[
+        ("Seven planes, sorted", [
+            "by diversity or unity",
+            "of body, and of",
+            "perception, in turn",
+        ]),
+        ("Four bodily, three formless", [
+            "planes one through four span",
+            "the four absorptions;",
+            "five through seven leave form behind",
+        ]),
+        ("A map, not the whole map", [
+            "two abodes elsewhere",
+            "in the canon sit outside",
+            "what this list reaches",
+        ]),
+        ("Cross-references", [
+            "AN 6.142 &middot; earlier, the six perceptions building toward direct "
+            "knowledge of greed",
+            "DN 15, DN 33 &middot; outside this project, the fuller nine-abode "
+            "classification",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.44/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.142.html">AN 6.142 &middot; Direct Knowledge of Greed by Means '
+        "of Perception</a> &mdash; earlier, this project's most recent extended "
+        "treatment of a saññā list.",
+        '<a href="an-7.43.html">AN 7.43 &middot; Graduation (2nd)</a> &mdash; closing '
+        "the previous chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.45 — Samādhiparikkhārasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, "Samādhiparikkhāra", "Prerequisites for Immersion",
+    vagga=VAGGA_5,
+    meta_title="AN 7.45 — Prerequisites for Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samādhiparikkhārasutta, naming the noble eightfold path's first seven "
+        "factors as the prerequisites that make right immersion itself possible. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence doctrinal definition, naming seven factors and "
+                 "then defining what unifying the mind around them is called"),
+        ("Length", "under 1 minute to read"),
+        ("Wider canon", "The same definition of right immersion &ldquo;with its "
+                        "vital conditions&rdquo; and &ldquo;with its "
+                        "prerequisites&rdquo; recurs at MN 117, where it anchors that "
+                        "discourse's account of the noble eightfold path as two "
+                        "distinct tiers, mundane and transcendent"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "formulaic, worth reading against the eightfold path rather "
+                       "than in isolation"),
+    ],
+    why=(
+        "AN 7.45 takes the noble eightfold path's first seven factors &mdash; every "
+        "one of them except right immersion itself &mdash; and names them as that "
+        "path's own prerequisites: unifying the mind around all seven together is "
+        "what &ldquo;noble right immersion&rdquo; actually means."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Right immersion is not a factor that stands alone; it is what results "
+            "when a mind is unified around the other seven path factors together "
+            "&mdash; right view, purpose, speech, action, livelihood, effort, and "
+            "mindfulness &mdash; taken as its prerequisites."]),
+        ("Seven factors, one list, no new content", [
+            "The seven named here are not a new formula: they are the noble "
+            "eightfold path itself, minus its own eighth factor. This discourse's "
+            "entire content is the claim that these seven, taken together as "
+            "conditions, are what right immersion is unified around &mdash; nothing "
+            "is added to the path's usual eight factors, only a claim about how the "
+            "eighth depends on the other seven."]),
+        ("&ldquo;With its vital conditions&rdquo; and &ldquo;with its "
+         "prerequisites&rdquo;", [
+            "The discourse closes by giving this unification two names at once: "
+            "noble right immersion &ldquo;with its vital condition&rdquo; "
+            "(saupaniso) and &ldquo;with its prerequisite&rdquo; (saparikkhāro). "
+            "Both phrases point to the same claim &mdash; that immersion of this "
+            "kind cannot be isolated from the ethical and cognitive factors that "
+            "precede and support it."]),
+        ("Why this matters for how immersion is practiced", [
+            "Read against the wider path, this discourse pushes back against "
+            "treating meditative immersion as a free-standing technique separable "
+            "from view, speech, action, and livelihood. The claim is structural: "
+            "immersion that is genuinely noble is, by definition, immersion built on "
+            "these seven conditions, not immersion achieved despite their absence."]),
+    ],
+    terms=[
+        ("samādhiparikkhārā",
+         "&ldquo;prerequisites for immersion&rdquo; &mdash; this discourse's own "
+         "title, naming what the seven factors are called in relation to right "
+         "immersion."),
+        ("sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, "
+         "sammāvāyāmo, sammāsati",
+         "&ldquo;right view, right purpose, right speech, right action, right "
+         "livelihood, right effort, right mindfulness&rdquo; &mdash; the noble "
+         "eightfold path's first seven factors, named here as a set."),
+        ("cittassekaggatā",
+         "&ldquo;unification of mind&rdquo; &mdash; the discourse's own definition "
+         "of what results when these seven factors converge as its prerequisites."),
+        ("saupaniso, saparikkhāro",
+         "&ldquo;with its vital condition&rdquo;, &ldquo;with its "
+         "prerequisite&rdquo; &mdash; the two names this discourse gives to noble "
+         "right immersion once its supporting seven factors are counted in."),
+        ("ariyo sammāsamādhi",
+         "&ldquo;noble right immersion&rdquo; &mdash; the eighth path factor, whose "
+         "full definition this short discourse supplies by naming what precedes it."),
+    ],
+    text_intro=(
+        "The discourse in full, a single compact definition. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven prerequisites, and what their unification is called"),
+        ("p", "&sect;1", "an7.45:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven factors does this discourse name as prerequisites for "
+              "immersion?",
+         "opts": [
+             "The seven factors of awakening",
+             "Right view, right purpose, right speech, right action, right "
+             "livelihood, right effort, and right mindfulness",
+             "The seven planes of consciousness from the previous discourse",
+             "Faith, energy, mindfulness, immersion, and wisdom, plus two more"],
+         "correct": 1,
+         "expl": "The noble eightfold path's first seven factors, named as a set."},
+        {"q": "According to the guide, is this discourse introducing a new formula?",
+         "opts": [
+             "Yes, seven entirely new qualities not found elsewhere",
+             "No — it is the noble eightfold path itself, minus its own eighth "
+             "factor, with a claim added about how the eighth depends on the other "
+             "seven",
+             "Yes, a replacement for the eightfold path",
+             "No, it simply repeats the seven planes of consciousness"],
+         "correct": 1,
+         "expl": "No new content — a structural claim about the path's existing "
+                 "seven factors."},
+        {"q": "What two names does the discourse give to right immersion once its "
+              "seven prerequisites are counted in?",
+         "opts": [
+             "Mundane and transcendent",
+             "&ldquo;With its vital conditions&rdquo; and &ldquo;with its "
+             "prerequisites&rdquo;",
+             "Weak and strong",
+             "First and second absorption"],
+         "correct": 1,
+         "expl": "saupaniso and saparikkhāro, two phrases for the same claim."},
+        {"q": "Where does this same definition of right immersion recur, according "
+              "to the guide?",
+         "opts": [
+             "Nowhere else in the canon",
+             "MN 117, anchoring that discourse's account of the eightfold path as "
+             "mundane and transcendent tiers",
+             "DN 15 only",
+             "AN 6.31 only"],
+         "correct": 1,
+         "expl": "A cross-reference to the Mahācattarisaka's fuller treatment of the "
+                 "same phrase."},
+        {"q": "What does the guide say this discourse pushes back against?",
+         "opts": [
+             "Nothing in particular",
+             "Treating meditative immersion as a free-standing technique separable "
+             "from view, speech, action, and livelihood",
+             "The value of meditation altogether",
+             "The existence of the eightfold path"],
+         "correct": 1,
+         "expl": "A structural point about immersion depending on the other seven "
+                 "factors, not standing apart from them."},
+        {"q": "How long is this discourse?",
+         "opts": [
+             "A single compact definition, under a minute to read",
+             "A lengthy narrative with multiple interlocutors",
+             "A set of ten verses",
+             "The longest discourse in this chapter"],
+         "correct": 0,
+         "expl": "One of the shortest discourses in the Sevens, a single-sentence "
+                 "definition."},
+    ],
+    marginalia=[
+        ("Seven, not eight", [
+            "the path's first seven",
+            "factors, named as what",
+            "immersion depends on",
+        ]),
+        ("Two names, one claim", [
+            "with its vital conditions,",
+            "with its prerequisites —",
+            "immersion cannot stand alone",
+        ]),
+        ("A structural claim", [
+            "not a new technique,",
+            "a definition of what",
+            "noble immersion already means",
+        ]),
+        ("Cross-references", [
+            "AN 7.44 &middot; previous, the seven planes of consciousness",
+            "MN 117 &middot; outside this project, the fuller treatment of this same "
+            "definition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.45/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.44.html">AN 7.44 &middot; Planes of Consciousness</a> '
+        "&mdash; previous, opening this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.46 — Paṭhamaaggisutta
+# --------------------------------------------------------------------------- #
+page(
+    46, "Paṭhamaaggi", "Fires (1st)",
+    vagga=VAGGA_5,
+    meta_title="AN 7.46 — Fires (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaaggisutta, the Buddha's bare list of seven fires — three to be "
+        "abandoned, three to be tended, and one to be handled with plain "
+        "practicality. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of seven fires, named without commentary or "
+                 "explanation of any one of them"),
+        ("Length", "under 1 minute to read"),
+        ("Companion discourse", "AN 7.47 immediately following gives the same seven "
+                                "fires in full narrative and doctrinal detail, in "
+                                "the classic short-then-long pairing this book has "
+                                "used repeatedly since AN 7.3/7.4"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a bare list, "
+                       "meant to be read alongside its companion discourse rather "
+                       "than puzzled over alone"),
+    ],
+    why=(
+        "AN 7.46 names seven fires in a single breath &mdash; three inner fires to "
+        "be abandoned, three outer fires (or rather, three relationships figured as "
+        "fires) worth tending, and an actual wood fire needing nothing more than "
+        "ordinary handling &mdash; setting up the fuller treatment AN 7.47 gives the "
+        "same seven immediately afterward."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of seven things this discourse calls fires, three are the fires of "
+            "greed, hate, and delusion; three are figurative fires naming people "
+            "worth tending like a sacred flame &mdash; parents, one's own household, "
+            "and worthy ascetics; and the seventh is simply a wood fire, included to "
+            "round out the list of seven rather than to make any doctrinal point."]),
+        ("Three fires to abandon", [
+            "The fires of greed, hate, and delusion head the list, matching this "
+            "book's most familiar three-part diagnosis of what corrupts the mind, "
+            "here given the specific image of something that burns rather than "
+            "merely afflicts."]),
+        ("Three fires to tend", [
+            "The next three are fires only in a figurative sense: the fire of those "
+            "worthy of offerings dedicated to the gods (one's parents), a "
+            "householder's fire (one's dependents), and the fire of those worthy of "
+            "a religious donation (ascetics and brahmins who live well). Naming a "
+            "relationship a fire worth tending, rather than a duty to discharge, "
+            "carries its own claim about how seriously these relationships deserve "
+            "to be taken."]),
+        ("One fire that is just a fire", [
+            "The seventh, a plain wood fire, breaks the pattern entirely: it is not "
+            "a metaphor for anything. AN 7.47's fuller version explains that this "
+            "one alone should simply be fanned, watched over, extinguished, or set "
+            "aside as the moment requires &mdash; the only item on the list that "
+            "carries no ethical weight at all."]),
+    ],
+    terms=[
+        ("aggi",
+         "&ldquo;fire&rdquo; &mdash; this discourse's organizing image, applied "
+         "across three registers: literal inner defilement, figurative worthy "
+         "relationship, and literal household fire."),
+        ("rāgaggi, dosaggi, mohaggi",
+         "&ldquo;the fire of greed, the fire of hate, the fire of delusion&rdquo; "
+         "&mdash; the three fires to be abandoned, this book's usual three root "
+         "afflictions given a burning image."),
+        ("āhuneyyaggi",
+         "&ldquo;the fire of those worthy of offerings dedicated to the gods&rdquo; "
+         "&mdash; AN 7.47 identifies this as one's own parents."),
+        ("gahapataggi, dakkhiṇeyyaggi",
+         "&ldquo;a householder's fire, the fire of those worthy of a religious "
+         "donation&rdquo; &mdash; AN 7.47 identifies these as one's household "
+         "and self-restrained ascetics and brahmins in turn."),
+        ("kaṭṭhaggi",
+         "&ldquo;a wood fire&rdquo; &mdash; the seventh and only literal, non-"
+         "figurative fire on the list."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven fires, named"),
+        ("p", "&sect;1", "an7.46:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many registers does this discourse's image of &ldquo;fire&rdquo; "
+              "operate across, according to the guide?",
+         "opts": [
+             "One — all seven are the same kind of fire",
+             "Three — literal inner defilement, figurative worthy relationship, and "
+             "an actual household fire",
+             "Two — only inner and outer fires",
+             "Four — one for each of the four elements"],
+         "correct": 1,
+         "expl": "Greed/hate/delusion, three worthy relationships, and one plain "
+                 "wood fire."},
+        {"q": "Which three fires does this discourse say should be abandoned?",
+         "opts": [
+             "The fires of greed, hate, and delusion",
+             "The fires of parents, household, and ascetics",
+             "The seven planes of consciousness",
+             "The four absorptions"],
+         "correct": 0,
+         "expl": "This book's familiar three root afflictions, given a burning "
+                 "image."},
+        {"q": "According to the guide, who does AN 7.47's fuller treatment identify "
+              "as the &ldquo;fire of those worthy of offerings dedicated to the "
+              "gods&rdquo;?",
+         "opts": [
+             "Ascetics and brahmins",
+             "One's own parents",
+             "The village elders",
+             "The Buddha himself"],
+         "correct": 1,
+         "expl": "Āhuneyyaggi names one's parents, per AN 7.47's expansion."},
+        {"q": "What is distinctive about the seventh fire, the wood fire, according "
+              "to the guide?",
+         "opts": [
+             "It carries the heaviest ethical weight of all seven",
+             "It is the only item on the list that is not a metaphor for anything, "
+             "carrying no ethical weight at all",
+             "It should be abandoned like the first three",
+             "It represents the Buddha himself"],
+         "correct": 1,
+         "expl": "A literal fire needing only ordinary practical handling."},
+        {"q": "What discourse immediately follows this one with the same seven "
+              "fires in fuller detail?",
+         "opts": ["AN 7.44", "AN 7.45", "AN 7.47", "AN 7.53"],
+         "correct": 2,
+         "expl": "The classic short-then-long pairing, as with AN 7.3/7.4 and AN "
+                 "7.5/7.6 earlier in this book."},
+        {"q": "How is this discourse delivered?",
+         "opts": [
+             "As a dialogue with a brahmin",
+             "As a bare list with no commentary or explanation of any single fire",
+             "As a set of verses",
+             "As a story about a laywoman"],
+         "correct": 1,
+         "expl": "The Buddha states the list without elaborating; AN 7.47 supplies "
+                 "the explanation."},
+    ],
+    marginalia=[
+        ("Seven fires, three kinds", [
+            "three to abandon,",
+            "three to tend,",
+            "one just a fire",
+        ]),
+        ("A relationship, called a fire", [
+            "parents, household,",
+            "worthy ascetics —",
+            "each named worth tending",
+        ]),
+        ("The odd one out", [
+            "a plain wood fire,",
+            "no metaphor at all,",
+            "just fan it or set it aside",
+        ]),
+        ("Cross-references", [
+            "AN 7.47 &middot; next, the same seven fires in full narrative detail",
+            "AN 7.45 &middot; earlier, this chapter's other single-sentence "
+            "definition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.46/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.45.html">AN 7.45 &middot; Prerequisites for Immersion</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.47 — Dutiyaaggisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, "Dutiyaaggi", "Fires (2nd)",
+    vagga=VAGGA_5,
+    meta_title="AN 7.47 — Fires (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaaggisutta, in which the Buddha redirects a brahmin's animal "
+        "sacrifice toward the seven fires of AN 7.46, ending with 2,500 animals "
+        "set free. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near a great sacrifice the brahmin Uggatasarīra has prepared, "
+                    "with 2,500 animals &mdash; five hundred each of bulls, "
+                    "bullocks, heifers, goats, and rams &mdash; already led to the "
+                    "sacrificial post"),
+        ("Speakers", "The brahmin Uggatasarīra, Venerable Ānanda, and the Buddha"),
+        ("Form", "A narrative dialogue expanding AN 7.46's bare list of seven "
+                 "fires into full doctrinal and practical detail, closing with the "
+                 "brahmin's own decision"),
+        ("Length", "~5 minutes to read"),
+        ("Companion discourse", "AN 7.46 immediately before gives the same seven "
+                                "fires as a bare list, in the classic short-then-"
+                                "long pairing this book has used since AN 7.3/7.4"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear "
+                       "narrative arc, worth reading for both its doctrine and its "
+                       "outcome"),
+    ],
+    why=(
+        "AN 7.47 finds the Buddha at the site of an animal sacrifice already under "
+        "way, and rather than simply condemning it, redirects the brahmin "
+        "Uggatasarīra toward AN 7.46's seven fires &mdash; three to abandon, three "
+        "to tend, one needing only practical care &mdash; ending with Uggatasarīra "
+        "freeing all 2,500 animals with his own hands."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Before a single animal is slaughtered, the person preparing the "
+            "sacrifice has already raised three unskillful knives &mdash; of body, "
+            "speech, and mind &mdash; against themselves, and the fires genuinely "
+            "worth honoring are not the sacrificial fire at all, but the fires of "
+            "greed, hate, and delusion to be abandoned, and one's parents, "
+            "household, and worthy ascetics to be tended instead."]),
+        ("Ānanda's correction, before the Buddha speaks a word", [
+            "Uggatasarīra opens by asking the Buddha to simply confirm what he has "
+            "already heard &mdash; that kindling the sacrificial fire is very "
+            "fruitful &mdash; three times over, and three times the Buddha only "
+            "says he too has heard this, without endorsing it. It is Ānanda who "
+            "intervenes, telling Uggatasarīra he is asking the wrong question "
+            "entirely, and coaching him to ask for advice instead. Only then does "
+            "the Buddha actually teach."]),
+        ("Three unskillful knives, raised before the fire is even lit", [
+            "The Buddha's first move is to name a cost that precedes the sacrifice "
+            "itself: even before kindling the fire, one raises a mental knife in "
+            "wishing for the animals' slaughter, a verbal knife in saying so aloud, "
+            "and a bodily knife in personally undertaking the preparations &mdash; "
+            "three unskillful knives, all self-inflicted, before a single animal "
+            "has died."]),
+        ("The seven fires of AN 7.46, now explained in full", [
+            "The Buddha then works through AN 7.46's seven fires one by one: greed, "
+            "hate, and delusion should be given up because a person ruled by them "
+            "does bad by body, speech, and mind and is reborn badly as a result; "
+            "one's parents (the fire of those worthy of offerings dedicated to the "
+            "gods), one's household (a householder's fire), and self-restrained "
+            "ascetics and brahmins (the fire of those worthy of a religious "
+            "donation) should be honored and cared for; and the actual wood fire "
+            "should simply be fanned, watched over, extinguished, or set aside as "
+            "practical need requires &mdash; the only item on the list needing no "
+            "ethical judgment at all."]),
+        ("The outcome: 2,500 animals, set free", [
+            "Uggatasarīra does not merely praise the teaching. He declares himself a "
+            "lay follower for life and then, in his own words, sets free all five "
+            "hundred each of bulls, bullocks, heifers, goats, and rams &mdash; 2,500 "
+            "animals in total &mdash; wishing them grass to eat, cool water to "
+            "drink, and a cool breeze, closing this discourse with an act rather "
+            "than only a statement of faith."]),
+    ],
+    terms=[
+        ("tīṇi akusalāni sattisatāni",
+         "&ldquo;three unskillful knives&rdquo; &mdash; of body, speech, and mind, "
+         "raised even before the sacrificial fire is kindled."),
+        ("rāgaggi, dosaggi, mohaggi",
+         "&ldquo;the fire of greed, hate, delusion&rdquo; &mdash; the three fires "
+         "this discourse says should be given up and shunned, not cultivated."),
+        ("āhuneyyaggi, gahapataggi, dakkhiṇeyyaggi",
+         "&ldquo;the fire of those worthy of offerings dedicated to the gods, a "
+         "householder's fire, the fire of those worthy of a religious donation"
+         "&rdquo; &mdash; identified here in turn as parents, household, and "
+         "self-restrained ascetics and brahmins."),
+        ("kaṭṭhaggi",
+         "&ldquo;a wood fire&rdquo; &mdash; to be fanned, watched over with "
+         "equanimity, extinguished, or set aside, from time to time, as practical "
+         "need requires."),
+        ("Uggatasarīra",
+         "the brahmin whose already-prepared animal sacrifice is this discourse's "
+         "occasion, and who ends it by freeing every animal himself."),
+    ],
+    text_intro=(
+        "The discourse in full: the sacrifice already under way, Ānanda's "
+        "correction, the three unskillful knives, the seven fires explained, and "
+        "Uggatasarīra's own act of releasing every animal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The sacrifice, and Uggatasarīra's opening question"),
+        ("p", "&sect;1", "an7.47:1.1-2.7"),
+        ("h3", "Ānanda's correction, and the Buddha's invitation to teach"),
+        ("p", "&sect;2", "an7.47:3.1-4.4"),
+        ("h3", "Three unskillful knives, raised before the fire is even lit"),
+        ("p", "&sect;3", "an7.47:5.1-7.4"),
+        ("h3", "Three fires to abandon, and why"),
+        ("p", "&sect;4", "an7.47:8.1-11.5"),
+        ("h3", "Three fires to tend, identified in turn"),
+        ("p", "&sect;5", "an7.47:12.1-15.4"),
+        ("h3", "The wood fire, and Uggatasarīra's own act of release"),
+        ("p", "&sect;6", "an7.47:16.1-17.5"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond the first three times Uggatasarīra asks "
+              "him to confirm that the sacrificial fire is fruitful?",
+         "opts": [
+             "He directly endorses the sacrifice",
+             "He only says he too has heard this, without endorsing it — Ānanda has "
+             "to intervene before real teaching begins",
+             "He refuses to answer at all",
+             "He immediately condemns Uggatasarīra"],
+         "correct": 1,
+         "expl": "A pointedly non-committal reply, until Ānanda redirects the "
+                 "question."},
+        {"q": "According to this discourse, when are the three unskillful knives "
+              "first raised?",
+         "opts": [
+             "Only after the animals are actually slaughtered",
+             "Even before kindling the sacrificial fire and raising the sacrificial "
+             "post at all",
+             "Only in a future rebirth",
+             "They are never actually raised in this story"],
+         "correct": 1,
+         "expl": "The cost begins with the intention, before any animal is "
+                 "touched."},
+        {"q": "Who does the Buddha identify as the &ldquo;fire of those worthy of "
+              "offerings dedicated to the gods&rdquo;?",
+         "opts": [
+             "Kings and rulers",
+             "One's own mother and father",
+             "The sacrificial animals themselves",
+             "Wandering ascetics of any kind"],
+         "correct": 1,
+         "expl": "Parents, since it is from them one has been incubated and "
+                 "produced."},
+        {"q": "What does the Buddha say should be done with the actual wood fire, "
+              "as distinct from the six figurative fires?",
+         "opts": [
+             "It should be abandoned entirely, like greed, hate, and delusion",
+             "It should, from time to time, be fanned, watched over with equanimity, "
+             "extinguished, or set aside",
+             "It should be worshipped as a deity",
+             "It should never be lit at all"],
+         "correct": 1,
+         "expl": "Plain practical handling, the only item on the list carrying no "
+                 "ethical weight."},
+        {"q": "How does this discourse actually end?",
+         "opts": [
+             "With the sacrifice proceeding as originally planned",
+             "With Uggatasarīra declaring himself a lay follower and freeing all "
+             "2,500 animals with his own hands",
+             "With the Buddha refusing to speak further",
+             "With no resolution given at all"],
+         "correct": 1,
+         "expl": "An act, not only a statement of faith — every animal set free."},
+        {"q": "What earlier discourse gives these same seven fires as a bare list, "
+              "without this narrative?",
+         "opts": ["AN 7.44", "AN 7.45", "AN 7.46", "AN 7.20"],
+         "correct": 2,
+         "expl": "AN 7.46, the short half of this chapter's short-then-long pairing."},
+    ],
+    marginalia=[
+        ("2,500 animals", [
+            "already led to",
+            "the sacrificial post",
+            "when this discourse opens",
+        ]),
+        ("Three knives, before the fire", [
+            "of body, speech, mind —",
+            "raised in the intention",
+            "before any animal dies",
+        ]),
+        ("Fires worth tending instead", [
+            "parents, household,",
+            "self-restrained ascetics —",
+            "named fires worth honoring",
+        ]),
+        ("Cross-references", [
+            "AN 7.46 &middot; previous, the same seven fires as a bare list",
+            "AN 7.45 &middot; earlier, this chapter's other single-sentence "
+            "definition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.47/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.46.html">AN 7.46 &middot; Fires (1st)</a> &mdash; previous, '
+        "the same seven fires as a bare list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.48 — Paṭhamasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    48, "Paṭhamasaññā", "Perceptions in Brief",
+    vagga=VAGGA_5,
+    meta_title="AN 7.48 — Perceptions in Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasaññāsutta, the Buddha's bare list of seven perceptions to "
+        "develop, with freedom from death as their objective. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of seven perceptions, named without the extended "
+                 "similes and self-checks AN 7.49 gives each one"),
+        ("Length", "under 1 minute to read"),
+        ("Companion discourse", "AN 7.49 immediately following works through the "
+                                "same seven perceptions one at a time, with a simile "
+                                "and a self-check for how to tell whether each has "
+                                "been genuinely developed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a bare list, "
+                       "best read as a table of contents for its companion "
+                       "discourse"),
+    ],
+    why=(
+        "AN 7.48 names seven perceptions worth developing &mdash; from ugliness "
+        "and death through to not-self in suffering &mdash; in a single breath, "
+        "with freedom from death named as their shared objective and culmination, "
+        "setting up AN 7.49's discourse-length treatment of the same seven."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven perceptions, developed and cultivated, are very fruitful and "
+            "beneficial, with freedom from death as their objective and "
+            "culmination: the perceptions of ugliness, death, the repulsiveness of "
+            "food, dissatisfaction with the whole world, impermanence, suffering in "
+            "impermanence, and not-self in suffering."]),
+        ("A single sequence, moving from the concrete to the abstract", [
+            "The seven move in a deliberate order: ugliness and death are the most "
+            "concrete, aimed directly at the body; food's repulsiveness and the "
+            "world's dissatisfying nature widen the frame outward; impermanence, "
+            "suffering rooted in impermanence, and not-self rooted in suffering "
+            "close the sequence with the three characteristics that, worked through "
+            "in this order, build toward the discourse's stated goal of freedom "
+            "from death."]),
+        ("&ldquo;Freedom from death&rdquo; as a shared destination", [
+            "Each of the seven is a different angle of approach, but this discourse "
+            "names one destination for all of them together: amata, the deathless, "
+            "named here as both the objective aimed at and the culmination reached "
+            "when any of the seven is fully developed."]),
+        ("Why this discourse stays this short", [
+            "Nothing here is explained: no simile is given for any of the seven, "
+            "and no self-check is offered for telling whether a perception has "
+            "actually been developed. AN 7.49 supplies exactly that, working "
+            "through the same list one perception at a time &mdash; this discourse "
+            "is deliberately the bare list its companion expands."]),
+    ],
+    terms=[
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; the mode of noticing and construing "
+         "experience that each of these seven items trains, distinct from "
+         "philosophical view or doctrinal belief."),
+        ("asubhasaññā, maraṇasaññā",
+         "&ldquo;the perception of ugliness, the perception of death&rdquo; "
+         "&mdash; the first two and most body-directed of the seven."),
+        ("āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā",
+         "&ldquo;the perception of the repulsiveness of food, the perception of "
+         "dissatisfaction with the whole world&rdquo; &mdash; the third and fourth, "
+         "widening the frame beyond the body."),
+        ("aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā",
+         "&ldquo;the perception of impermanence, of suffering in impermanence, of "
+         "not-self in suffering&rdquo; &mdash; the closing three, building one "
+         "characteristic on the last."),
+        ("amatogadhā amatapariyosānā",
+         "&ldquo;having freedom from death as their objective and "
+         "culmination&rdquo; &mdash; the shared destination this discourse names "
+         "for all seven perceptions together."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven perceptions, named, with freedom from death as their goal"),
+        ("p", "&sect;1", "an7.48:1.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What shared objective does this discourse name for all seven "
+              "perceptions?",
+         "opts": [
+             "Rebirth as a god",
+             "Freedom from death, as both objective and culmination",
+             "Wealth and long life",
+             "Skill in debate"],
+         "correct": 1,
+         "expl": "Amata, the deathless, named as the destination all seven aim at."},
+        {"q": "According to the guide, how does the order of the seven perceptions "
+              "move?",
+         "opts": [
+             "Randomly, with no discernible pattern",
+             "From the most concrete, body-directed perceptions toward the most "
+             "abstract closing three",
+             "From most abstract to most concrete",
+             "Alphabetically by Pali term"],
+         "correct": 1,
+         "expl": "Ugliness and death first, then wider dissatisfaction, then the "
+                 "three characteristics closing the list."},
+        {"q": "What does this discourse NOT provide for any of its seven "
+              "perceptions, according to the guide?",
+         "opts": [
+             "Their names",
+             "Any simile or self-check for whether each has actually been "
+             "developed",
+             "A stated objective",
+             "A count of how many there are"],
+         "correct": 1,
+         "expl": "No explanation is given here — AN 7.49 supplies the similes and "
+                 "self-checks."},
+        {"q": "Which three perceptions close this discourse's list?",
+         "opts": [
+             "Ugliness, death, and food's repulsiveness",
+             "Impermanence, suffering in impermanence, and not-self in suffering",
+             "Faith, energy, and wisdom",
+             "The four absorptions"],
+         "correct": 1,
+         "expl": "The three characteristics, each building on the last."},
+        {"q": "What discourse immediately follows this one with the same seven "
+              "perceptions worked through individually?",
+         "opts": ["AN 7.47", "AN 7.49", "AN 7.50", "AN 7.44"],
+         "correct": 1,
+         "expl": "AN 7.49, the long half of this pairing."},
+        {"q": "How is this discourse delivered?",
+         "opts": [
+             "As a dialogue with a brahmin",
+             "As a bare list with no similes or explanations attached",
+             "As a story about a laywoman",
+             "As a set of verses"],
+         "correct": 1,
+         "expl": "A table of contents for AN 7.49's fuller treatment."},
+    ],
+    marginalia=[
+        ("Seven perceptions, one goal", [
+            "each a different angle,",
+            "all aimed at",
+            "freedom from death",
+        ]),
+        ("Concrete to abstract", [
+            "ugliness and death first,",
+            "then the world,",
+            "then the three characteristics",
+        ]),
+        ("A table of contents", [
+            "no similes here —",
+            "just the bare list,",
+            "expanded next",
+        ]),
+        ("Cross-references", [
+            "AN 7.49 &middot; next, the same seven perceptions in full detail",
+            "AN 6.142 &middot; earlier, a different saññā list building toward "
+            "direct knowledge of greed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.48/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.47.html">AN 7.47 &middot; Fires (2nd)</a> &mdash; previous.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.49 — Dutiyasaññāsutta
+#
+# Unlike this book's usual short/long pairs, the source text itself abbreviates
+# the middle five perceptions (death, food, world, impermanence, suffering-in-
+# impermanence) with SuttaCentral's own peyyāla ellipsis, leaving most of their
+# segments blank in translation-en-sujato.json; only perceptions 1 and 7 are
+# given in full, each with its own distinct simile. This is not a multi-sutta
+# merged page like an-3.183-352.html -- it is a single sutta whose own source
+# file abbreviates itself -- so segments() over the ordinary per-perception
+# spans handles it without any special casing; the blank segments simply
+# contribute nothing to joined().
+# --------------------------------------------------------------------------- #
+page(
+    49, "Dutiyasaññā", "Perceptions in Detail",
+    vagga=VAGGA_5,
+    meta_title="AN 7.49 — Perceptions in Detail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasaññāsutta, working through AN 7.48's seven perceptions one at a "
+        "time, with a chicken-feather simile and a self-check for the first, and "
+        "a distinct freedom-from-conceit description for the last. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same seven perceptions as AN 7.48, each introduced with "
+                 "&ldquo;that's what I said, but why did I say it?&rdquo; and "
+                 "answered in turn; the source text itself abbreviates five of the "
+                 "seven answers with its own internal ellipsis"),
+        ("Length", "~4 minutes to read"),
+        ("Companion discourse", "AN 7.48 immediately before gives the same seven "
+                                "perceptions as a bare list"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; only two of "
+                       "the seven answers are given in full; the other five are "
+                       "genuinely abbreviated in the source, not omitted by this "
+                       "reading guide"),
+    ],
+    why=(
+        "AN 7.49 takes AN 7.48's seven perceptions and asks, for each one in "
+        "turn, why the Buddha said developing it is so fruitful &mdash; but the "
+        "source text itself only answers the question in full for the first "
+        "(ugliness) and the seventh (not-self in suffering), abbreviating the "
+        "middle five with its own peyyāla ellipsis rather than repeating the "
+        "same simile five more times."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each of AN 7.48's seven perceptions is introduced with the same "
+            "question &mdash; &ldquo;that's what I said, but why did I say "
+            "it?&rdquo; &mdash; and answered by naming what craving or discomfort "
+            "the mind draws back from once that perception is well developed, with "
+            "a self-check for telling a genuinely developed perception from an "
+            "undeveloped one."]),
+        ("The perception of ugliness, given in full", [
+            "The first perception gets the discourse's complete treatment: a "
+            "mendicant who often meditates on ugliness finds their mind drawing "
+            "back from sexual intercourse, compared to a chicken's feather or a "
+            "scrap of sinew thrown into a fire, which shrivels and rolls up rather "
+            "than stretching out. A two-sided self-check follows &mdash; if the "
+            "mind is still drawn to intercourse rather than repulsed, the "
+            "perception is undeveloped; if it draws back, development has been "
+            "achieved."]),
+        ("Five perceptions, genuinely abbreviated in the source itself", [
+            "The next five &mdash; death, the repulsiveness of food, "
+            "dissatisfaction with the whole world, impermanence, and suffering "
+            "rooted in impermanence &mdash; each name what the mind draws back "
+            "from (the desire to be reborn, craving for tastes, the world's shiny "
+            "things, material things and honors and fame) but then abbreviate the "
+            "chicken-feather simile and the two-sided self-check with an ellipsis, "
+            "trusting the reader to supply what perception 1 already spelled out "
+            "in full. This is the source text's own shorthand, not a gap in this "
+            "reading guide."]),
+        ("The perception of not-self in suffering, given in full again", [
+            "The seventh and final perception breaks from the abbreviated middle "
+            "five to receive its own complete description, and a different one: "
+            "not a chicken-feather simile but a direct account of a heart rid of "
+            "I-making, mine-making, and conceit, gone beyond discrimination, "
+            "peaceful and well freed &mdash; the discourse's fullest statement of "
+            "what full liberation from these seven perceptions actually looks "
+            "like."]),
+    ],
+    terms=[
+        ("kiñcetaṁ paṭicca vuttaṁ",
+         "&ldquo;why did I say it?&rdquo; &mdash; the question repeated before "
+         "each of the seven perceptions is explained in turn."),
+        ("kukkuṭapattaṁ vā nhārudaddulaṁ vā aggimhi pakkhittaṁ",
+         "&ldquo;a chicken's feather or a scrap of sinew thrown in a fire&rdquo; "
+         "&mdash; the simile given in full for the perception of ugliness, and "
+         "abbreviated by ellipsis for the five perceptions that follow it."),
+        ("methunadhammasamāpatti",
+         "&ldquo;sexual intercourse&rdquo; &mdash; what the mind reinforced with "
+         "the perception of ugliness draws back from, this discourse's first and "
+         "fullest example."),
+        ("abhāvitā, subhāvitā",
+         "&ldquo;undeveloped&rdquo;, &ldquo;well developed&rdquo; &mdash; the "
+         "two-sided self-check's own verdict, repeated for the perception of "
+         "ugliness and left to be supplied by the reader for the abbreviated five."),
+        ("ahaṅkāramamaṅkāramānāpagataṁ",
+         "&ldquo;rid of I-making, mine-making, and conceit&rdquo; &mdash; the "
+         "distinct, non-abbreviated description given for the seventh perception, "
+         "not-self in suffering."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source text's own abbreviation of "
+        "five of the seven answers. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven perceptions, and their shared goal, restated"),
+        ("p", "&sect;1", "an7.49:1.1-1.4"),
+        ("h3", "The perception of ugliness, why it was said, in full"),
+        ("p", "&sect;2", "an7.49:2.1-3.8"),
+        ("h3", "The perception of death, in brief"),
+        ("p", "&sect;3", "an7.49:4.1-5.8"),
+        ("h3", "The perception of the repulsiveness of food, in brief"),
+        ("p", "&sect;4", "an7.49:6.1-7.8"),
+        ("h3", "The perception of dissatisfaction with the whole world, in brief"),
+        ("p", "&sect;5", "an7.49:8.1-9.8"),
+        ("h3", "The perception of impermanence, in brief"),
+        ("p", "&sect;6", "an7.49:10.1-11.8"),
+        ("h3", "The perception of suffering in impermanence, in brief"),
+        ("p", "&sect;7", "an7.49:12.1-13.8"),
+        ("h3", "The perception of not-self in suffering, why it was said, in full"),
+        ("p", "&sect;8", "an7.49:14.1-16.5"),
+        ("h3", "Closing"),
+        ("p", "&sect;9", "an7.49:17.1"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse ask about each of AN 7.48's seven "
+              "perceptions in turn?",
+         "opts": [
+             "How many people have developed it",
+             "That's what I said, but why did I say it? — asking what the "
+             "perception actually accomplishes",
+             "How long it takes to develop",
+             "Whether it is easier than the other six"],
+         "correct": 1,
+         "expl": "A recurring formula, repeated before each perception's answer."},
+        {"q": "According to the guide, how many of the seven perceptions receive "
+              "the discourse's complete, non-abbreviated treatment?",
+         "opts": [
+             "All seven, in full detail",
+             "Only two — ugliness (the first) and not-self in suffering (the "
+             "seventh) — with the middle five abbreviated by the source text's own "
+             "ellipsis",
+             "None; the whole discourse is abbreviated",
+             "Only the last one"],
+         "correct": 1,
+         "expl": "The source text itself elides the middle five, not this reading "
+                 "guide."},
+        {"q": "What simile does this discourse give for the perception of "
+              "ugliness?",
+         "opts": [
+             "A boat crossing a flood",
+             "A chicken's feather or a scrap of sinew thrown into a fire, which "
+             "shrivels and rolls up rather than stretching out",
+             "A lotus rising above muddy water",
+             "A raft, to be set down once the far shore is reached"],
+         "correct": 1,
+         "expl": "The discourse's one fully spelled-out simile, referenced by "
+                 "ellipsis for the five perceptions that follow it."},
+        {"q": "What two-sided self-check does the discourse offer for the "
+              "perception of ugliness?",
+         "opts": [
+             "There is no self-check offered at all",
+             "If the mind still draws to intercourse rather than repulsion, the "
+             "perception is undeveloped; if it draws back, it is well developed",
+             "A written examination administered by another mendicant",
+             "Whether the mendicant can recite the perception from memory"],
+         "correct": 1,
+         "expl": "A first-person diagnostic, left implicit for the abbreviated "
+                 "five that follow."},
+        {"q": "How does the seventh perception, not-self in suffering, differ from "
+              "the perception of ugliness in how it is described?",
+         "opts": [
+             "It uses the identical chicken-feather simile",
+             "It uses a different, non-abbreviated description — a heart rid of "
+             "I-making, mine-making, and conceit, gone beyond discrimination",
+             "It is not described at all",
+             "It is described only by a single word"],
+         "correct": 1,
+         "expl": "A distinct full treatment, not a repetition of perception 1's "
+                 "simile."},
+        {"q": "What earlier discourse in this chapter gives these same seven "
+              "perceptions as a bare list?",
+         "opts": ["AN 7.44", "AN 7.46", "AN 7.48", "AN 7.45"],
+         "correct": 2,
+         "expl": "AN 7.48, the short half of this pairing."},
+    ],
+    marginalia=[
+        ("Two in full, five abbreviated", [
+            "ugliness and not-self —",
+            "the other five",
+            "elided by the source itself",
+        ]),
+        ("A chicken's feather in fire", [
+            "shrivels, rolls up,",
+            "doesn't stretch out —",
+            "the mind draws back the same way",
+        ]),
+        ("A different close", [
+            "not-self in suffering",
+            "gets its own account:",
+            "rid of I-making entirely",
+        ]),
+        ("Cross-references", [
+            "AN 7.48 &middot; previous, the same seven perceptions as a bare list",
+            "AN 7.50 &middot; next, seven sexual yokes and their own drawing-back",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.49/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.48.html">AN 7.48 &middot; Perceptions in Brief</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.50 — Methunasutta
+# --------------------------------------------------------------------------- #
+page(
+    50, "Methuna", "Sex",
+    vagga=VAGGA_5,
+    meta_title="AN 7.50 — Sex | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Methunasutta, in which the Buddha answers a brahmin's blunt question "
+        "about chastity by naming seven sexual yokes, from physical touch to the "
+        "subtle wish to be reborn as a god. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "An unnamed location; the brahmin Jānussoṇi approaches the "
+                    "Buddha directly, with no monastery named"),
+        ("Speakers", "The brahmin Jānussoṇi and the Buddha"),
+        ("Form", "A blunt question and answer, working through seven "
+                 "progressively subtler ways chastity can be broken, tainted, or "
+                 "marred, without ever involving actual intercourse"),
+        ("Length", "~3 minutes to read"),
+        ("Recurring interlocutor", "Jānussoṇi appears elsewhere across the "
+                                   "canon questioning the Buddha; here the "
+                                   "question is as direct as it gets, and the "
+                                   "Buddha's claim to intact chastity is equally "
+                                   "direct"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear, "
+                       "escalating structure, worth reading alongside AN 7.51's "
+                       "different angle on the same underlying subject"),
+    ],
+    why=(
+        "AN 7.50 has the brahmin Jānussoṇi ask the Buddha, point-blank, whether "
+        "he claims to be chaste, and the Buddha answers by naming seven ways "
+        "chastity can be broken, tainted, or marred short of intercourse itself "
+        "&mdash; from consenting to a massage, through gazing and recollection, to "
+        "the subtlest yoke of all: practicing celibacy while wishing to be reborn "
+        "among the gods."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant can avoid intercourse entirely and still be yoked by sex "
+            "in seven possible ways, each one enjoyed and found rewarding even "
+            "without physical union, and the Buddha declares he did not announce "
+            "his own awakening until every one of the seven had been given up in "
+            "him, without exception."]),
+        ("A direct question, a direct claim", [
+            "Jānussoṇi does not ease into his question: he asks outright whether "
+            "the Buddha claims to be chaste, and the Buddha answers just as "
+            "directly &mdash; intact, impeccable, spotless, unmarred, full and "
+            "pure &mdash; before Jānussoṇi presses further, asking what would "
+            "actually count as a break in that claim."]),
+        ("Seven yokes, each one short of intercourse itself", [
+            "The Buddha's answer moves through seven items in ascending "
+            "subtlety: consenting to be anointed, massaged, bathed, or rubbed by "
+            "a woman; giggling, playing, and having fun with women; gazing into a "
+            "woman's eyes; listening through a wall to women laughing, chatting, "
+            "singing, or crying; recalling past times spent laughing and having "
+            "fun with women; and watching a householder or their child enjoying "
+            "the five kinds of sensual stimulation. Each is described identically "
+            "&mdash; enjoyed, liked, found rewarding &mdash; and each counts as a "
+            "break, taint, stain, or mar in chastity, yoking one to sex without "
+            "any actual sexual contact taking place."]),
+        ("The seventh and subtlest yoke: aspiring to a god's pleasures", [
+            "The seventh yoke is the most surprising: not seeing a householder "
+            "enjoy sensual pleasure, but living the chaste life while wishing to "
+            "be reborn among the gods through one's own precepts or austerities. "
+            "Even this forward-looking wish for future pleasure, entirely absent "
+            "any present sensual contact, still counts as being yoked by sex, "
+            "since it is enjoyed and found rewarding in exactly the same way as "
+            "the other six."]),
+        ("Only when every yoke was given up", [
+            "The discourse closes with the Buddha's own account of his path to "
+            "awakening: as long as he saw even one of these seven sexual yokes "
+            "still present in himself, he did not announce his supreme "
+            "awakening; only once every one of the seven had been given up, "
+            "without exception, did he make that announcement, followed "
+            "immediately by the knowledge that his freedom was unshakable and "
+            "this was his last rebirth."]),
+    ],
+    terms=[
+        ("brahmacārī",
+         "&ldquo;chaste&rdquo;, one living the chaste life &mdash; the claim "
+         "Jānussoṇi asks the Buddha to confirm or deny at the discourse's opening."),
+        ("methunasaṁyoga",
+         "&ldquo;sexual yoke&rdquo; &mdash; this discourse's own title-word, "
+         "naming each of the seven ways chastity can be broken short of actual "
+         "intercourse."),
+        ("khaṇḍaṁ, chiddaṁ, sabalaṁ, kammāsaṁ",
+         "&ldquo;a break, taint, stain, or mar&rdquo; &mdash; the fourfold "
+         "description repeated for each of the seven yokes in turn."),
+        ("pañcahi kāmaguṇehi samappitaṁ samaṅgībhūtaṁ paricārayamānaṁ",
+         "&ldquo;supplied and provided with the five kinds of sensual "
+         "stimulation&rdquo; &mdash; what the sixth yoke watches a householder or "
+         "their child enjoying."),
+        ("iminā ahaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā "
+         "bhavissāmi devaññataro vā",
+         "&ldquo;by this precept or observance or fervent austerity or spiritual "
+         "practice, may I become one of the gods!&rdquo; &mdash; the seventh and "
+         "subtlest yoke, chastity practiced with an eye on future divine "
+         "pleasure."),
+    ],
+    text_intro=(
+        "The discourse in full: Jānussoṇi's question, the Buddha's claim, and "
+        "the seven sexual yokes named one by one. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Jānussoṇi's question, and the Buddha's claim to intact chastity"),
+        ("p", "&sect;1", "an7.50:1.1-1.7"),
+        ("h3", "The first yoke: consenting to be touched"),
+        ("p", "&sect;2", "an7.50:2.1-2.5"),
+        ("h3", "The second: giggling and playing with women"),
+        ("p", "&sect;3", "an7.50:3.1-3.2"),
+        ("h3", "The third and fourth: gazing into eyes, listening through a wall"),
+        ("p", "&sect;4", "an7.50:4.1-5.2"),
+        ("h3", "The fifth and sixth: recalling past pleasure, watching another's "
+               "enjoyment"),
+        ("p", "&sect;5", "an7.50:6.1-7.2"),
+        ("h3", "The seventh, subtlest yoke: chastity aimed at a god's pleasures"),
+        ("p", "&sect;6", "an7.50:8.1-8.5"),
+        ("h3", "Only once every yoke was given up"),
+        ("p", "&sect;7", "an7.50:9.1-10.3"),
+        ("h3", "Jānussoṇi's response"),
+        ("p", "&sect;8", "an7.50:11.1-11.2"),
+    ],
+    quiz=[
+        {"q": "What question does the brahmin Jānussoṇi ask the Buddha at the "
+              "opening of this discourse?",
+         "opts": [
+             "Whether he approves of animal sacrifice",
+             "Whether Mister Gotama claims to be chaste",
+             "Whether the eightfold path has eight or seven factors",
+             "Whether he has ever broken a precept"],
+         "correct": 1,
+         "expl": "A blunt, direct question, met with an equally direct answer."},
+        {"q": "Does the Buddha's list of seven sexual yokes require actual "
+              "intercourse to have taken place?",
+         "opts": [
+             "Yes, every one of the seven requires intercourse",
+             "No — none of the seven involves actual intercourse; each is a "
+             "subtler form of being yoked by sex",
+             "Only the first yoke requires intercourse",
+             "The discourse does not specify"],
+         "correct": 1,
+         "expl": "From consenting to touch through to a future-oriented wish, none "
+                 "involves intercourse itself."},
+        {"q": "What is the seventh and, according to the guide, most surprising "
+              "yoke?",
+         "opts": [
+             "Actual sexual intercourse",
+             "Living the chaste life while wishing, through one's own precepts or "
+             "austerities, to be reborn among the gods",
+             "Refusing to speak to women at all",
+             "Eating food prepared by a woman"],
+         "correct": 1,
+         "expl": "A forward-looking wish for future pleasure, still counted as "
+                 "being yoked by sex."},
+        {"q": "According to the discourse's closing account, when did the Buddha "
+              "announce his supreme awakening?",
+         "opts": [
+             "As soon as he began practicing austerities",
+             "Only once every one of the seven sexual yokes had been given up in "
+             "him, without exception",
+             "Before he had given up any of the seven yokes",
+             "He never made such an announcement"],
+         "correct": 1,
+         "expl": "A precondition stated without qualification — every one of the "
+                 "seven, not most of them."},
+        {"q": "What does the sixth yoke involve?",
+         "opts": [
+             "Reading scripture",
+             "Watching a householder or their child enjoying the five kinds of "
+             "sensual stimulation",
+             "Teaching the Dhamma to laypeople",
+             "Fasting for a full day"],
+         "correct": 1,
+         "expl": "A vicarious enjoyment, watching rather than directly "
+                 "participating."},
+        {"q": "How does Jānussoṇi respond after hearing the Buddha's answer?",
+         "opts": [
+             "He rejects the teaching outright",
+             "He declares himself a lay follower who has gone for refuge for life",
+             "He asks the Buddha to repeat the entire list",
+             "He remains silent and leaves without comment"],
+         "correct": 1,
+         "expl": "The discourse's standard closing formula for a satisfied "
+                 "questioner."},
+    ],
+    marginalia=[
+        ("Seven yokes, no intercourse", [
+            "from a massage's consent",
+            "to a forward wish",
+            "for a god's pleasures",
+        ]),
+        ("Not until all seven", [
+            "were given up",
+            "did the Buddha announce",
+            "his own awakening",
+        ]),
+        ("The subtlest yoke", [
+            "chastity practiced",
+            "while still wishing",
+            "for pleasure to come",
+        ]),
+        ("Cross-references", [
+            "AN 7.51 &middot; next, a different angle on the same underlying "
+            "subject",
+            "AN 7.49 &middot; previous, the perception of ugliness drawing the "
+            "mind back from intercourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.50/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.49.html">AN 7.49 &middot; Perceptions in Detail</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.51 — Saṁyogasutta
+#
+# A thematic echo of AN 7.50, not a numbered Paṭhama/Dutiya pair with it: this
+# discourse shares no narrative frame, no interlocutor, and no vocabulary with
+# 7.50, only the underlying subject of what draws men and women toward each
+# other. Worth flagging as a case where two discourses on the same theme sit
+# adjacent without being a formal companion pair.
+# --------------------------------------------------------------------------- #
+page(
+    51, "Saṁyoga", "Yoking and Unyoking",
+    vagga=VAGGA_5,
+    meta_title="AN 7.51 — Yoking and Unyoking | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saṁyogasutta, an exposition on how women and men yoke themselves to "
+        "each other by dwelling on their own femininity or masculinity, and how "
+        "that yoke can be undone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A symmetrical doctrinal exposition, working through a woman's "
+                 "case and then a man's case in mirror-image structure, for both "
+                 "yoking and unyoking"),
+        ("Length", "~2 minutes to read"),
+        ("Relation to AN 7.50", "A thematic echo, not a formal Paṭhama/Dutiya "
+                                "pair — this discourse shares no narrative frame "
+                                "or interlocutor with AN 7.50, only the same "
+                                "underlying subject of attraction between women "
+                                "and men"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean "
+                       "mirror structure, straightforward once the pattern is "
+                       "seen"),
+    ],
+    why=(
+        "AN 7.51 offers an exposition on yoking and unyoking that works entirely "
+        "by a mirrored structure: a woman who dwells on her own femininity is "
+        "drawn to a man's masculinity and desires to be yoked to him, and a man "
+        "who dwells on his own masculinity is drawn to a woman's femininity in "
+        "exactly the same way &mdash; with unyoking described as the same "
+        "structure run in reverse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Yoking between women and men begins inward, not outward: a woman "
+            "who focuses on and takes pleasure in her own feminine qualities is "
+            "thereby drawn to focus on and take pleasure in a man's masculine "
+            "qualities, and desires to be yoked to him &mdash; and the same "
+            "structure holds for a man focusing on his own masculinity."]),
+        ("Six qualities, named for each side of the mirror", [
+            "The discourse names six specific qualities for each side: moves, "
+            "appearance, ways, desires, voice, and adornment &mdash; feminine for "
+            "a woman's own self-focus and for the man she is drawn to describe by "
+            "contrast, masculine for a man's own self-focus and for the woman he "
+            "is drawn to. The same six-item list runs through all four cases "
+            "&mdash; a woman's yoking, a man's yoking, a woman's unyoking, a "
+            "man's unyoking &mdash; with only the direction of attention and its "
+            "presence or absence changing."]),
+        ("Yoking begins with the self, not the other", [
+            "The order of the exposition is deliberate: a woman first focuses on "
+            "her own femininity and is stimulated by it, and only then turns to "
+            "focus on a man's masculinity. Attraction to another is presented as "
+            "downstream of an already-established pleasure taken in one's own "
+            "gendered qualities, not as an independent starting point."]),
+        ("Unyoking as the identical structure, simply undone", [
+            "The discourse's second half does not describe a different mechanism "
+            "for freedom from this yoke; it restates the same structure with each "
+            "step negated &mdash; not focusing on one's own qualities, not being "
+            "stimulated, not focusing on the other's qualities, not desiring to "
+            "be yoked &mdash; making the path out of the yoke exactly as "
+            "structured as the path into it."]),
+    ],
+    terms=[
+        ("saṁyogavisaṁyoga",
+         "&ldquo;yoking and unyoking&rdquo; &mdash; this discourse's own title, "
+         "naming the paired exposition it delivers."),
+        ("itthatta, purisatta",
+         "&ldquo;femininity&rdquo;, &ldquo;masculinity&rdquo; &mdash; the "
+         "quality each side of the mirror focuses on in itself before being "
+         "drawn to its counterpart in the other."),
+        ("itthākappa, itthākāra, itthākhāya, itthicchandā, itthissara, itthālaṅkāra",
+         "&ldquo;feminine moves, appearance, ways, desires, voice, and "
+         "adornment&rdquo; &mdash; the six-item list applied to women throughout "
+         "this discourse's four mirrored cases."),
+        ("ye hi keci, bhikkhave, sattā itthiyā abhiratā, sabbe te purisassa "
+         "saṁyuttā",
+         "&ldquo;sentient beings who relish their femininity are yoked to "
+         "men&rdquo; &mdash; the discourse's own stated conclusion for the "
+         "yoking half of a woman's case."),
+        ("nātivattati",
+         "&ldquo;does not transcend&rdquo; &mdash; the verb marking a failure to "
+         "move beyond one's own gendered self-focus, mirrored by "
+         "&ldquo;transcends&rdquo; in the unyoking half."),
+    ],
+    text_intro=(
+        "The discourse in full, its mirrored exposition of yoking and unyoking "
+        "for both a woman's case and a man's case. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The teaching announced"),
+        ("p", "&sect;1", "an7.51:1.1-1.3"),
+        ("h3", "Yoking: a woman focused on her own femininity, desiring a man"),
+        ("p", "&sect;2", "an7.51:2.1-2.10"),
+        ("h3", "Yoking: a man focused on his own masculinity, desiring a woman"),
+        ("p", "&sect;3", "an7.51:3.1-3.11"),
+        ("h3", "Unyoking: a woman not focused on her own femininity"),
+        ("p", "&sect;4", "an7.51:4.1-4.11"),
+        ("h3", "Unyoking: a man not focused on his own masculinity"),
+        ("p", "&sect;5", "an7.51:5.1-5.12"),
+    ],
+    quiz=[
+        {"q": "According to this discourse, what does a woman's yoking to a man "
+              "begin with?",
+         "opts": [
+             "Directly noticing a man's masculine qualities, with no self-focus "
+             "involved",
+             "Focusing on and taking pleasure in her own feminine qualities first, "
+             "which then draws her to a man's masculine qualities",
+             "A formal ceremony",
+             "Nothing — the discourse says yoking has no discernible cause"],
+         "correct": 1,
+         "expl": "An inward starting point, with attraction to another presented "
+                 "as downstream of it."},
+        {"q": "How many specific qualities does the discourse name for each side "
+              "of its mirror — feminine and masculine?",
+         "opts": ["Three", "Four", "Six — moves, appearance, ways, desires, voice, "
+                  "and adornment", "Eight"],
+         "correct": 2,
+         "expl": "A fixed six-item list, applied consistently across all four "
+                 "cases."},
+        {"q": "How does the discourse describe unyoking, according to the guide?",
+         "opts": [
+             "As an entirely different mechanism from yoking",
+             "As the identical structure of yoking, with each step simply negated",
+             "As something achieved only through a teacher's direct intervention",
+             "The discourse does not describe unyoking at all"],
+         "correct": 1,
+         "expl": "Not focusing, not being stimulated, not desiring to be yoked — "
+                 "the same steps, reversed."},
+        {"q": "What is this discourse's relationship to AN 7.50, according to the "
+              "guide?",
+         "opts": [
+             "A formal Paṭhama/Dutiya pair sharing the same narrative frame",
+             "A thematic echo only — no shared narrative frame or interlocutor, "
+             "just the same underlying subject",
+             "A direct continuation of the same conversation",
+             "An unrelated discourse on an entirely different topic"],
+         "correct": 1,
+         "expl": "Adjacent in theme, not a formally paired companion discourse."},
+        {"q": "How is this discourse delivered?",
+         "opts": [
+             "As a dialogue with a brahmin",
+             "As a direct doctrinal exposition to the mendicants, with no "
+             "narrative frame",
+             "As a story about a laywoman",
+             "As a set of verses"],
+         "correct": 1,
+         "expl": "The Buddha announces the exposition and delivers it directly, "
+                 "with no interlocutor named."},
+        {"q": "What does the discourse conclude about sentient beings who relish "
+              "their own femininity?",
+         "opts": [
+             "They are entirely free from any yoke",
+             "They are yoked to men",
+             "They are yoked to women",
+             "The discourse draws no conclusion"],
+         "correct": 1,
+         "expl": "The discourse's own stated conclusion for the yoking half of a "
+                 "woman's case."},
+    ],
+    marginalia=[
+        ("Inward first, outward second", [
+            "self-focus on one's own",
+            "gender comes before",
+            "attraction to the other",
+        ]),
+        ("Six qualities, four cases", [
+            "moves, appearance, ways,",
+            "desires, voice, adornment —",
+            "run through yoking and unyoking alike",
+        ]),
+        ("The same steps, reversed", [
+            "unyoking is not",
+            "a different path —",
+            "it is yoking's steps undone",
+        ]),
+        ("Cross-references", [
+            "AN 7.50 &middot; previous, a thematic echo on the same underlying "
+            "subject",
+            "AN 7.52 &middot; next, seven kinds of motivation behind giving a "
+            "gift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.51/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.50.html">AN 7.50 &middot; Sex</a> &mdash; previous, a '
+        "thematic echo rather than a formal companion pair.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.52 — Dānamahapphalasutta
+# --------------------------------------------------------------------------- #
+page(
+    52, "Dānamahapphala", "A Very Fruitful Gift",
+    vagga=VAGGA_5,
+    meta_title="AN 7.52 — A Very Fruitful Gift | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dānamahapphalasutta, in which the Buddha answers Sāriputta by naming "
+        "seven motivations behind an identical gift, from self-interested "
+        "investment to giving as an ornament for the mind. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Campā, on the banks of the Gaggarā Lotus Pond; lay "
+                    "followers of Campā first approach Venerable Sāriputta, then "
+                    "return with him on the next sabbath day to the Buddha"),
+        ("Speakers", "Lay followers of Campā, Venerable Sāriputta, and the "
+                     "Buddha"),
+        ("Form", "A two-stage narrative frame leading into Sāriputta's question "
+                 "and the Buddha's answer, which names seven motivations for "
+                 "giving the identical gift, describing the outcome of the "
+                 "first and seventh in full and abbreviating the middle five"),
+        ("Length", "~4 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "question is simple, but tracking exactly which "
+                       "motivation produces which outcome rewards a careful "
+                       "read"),
+    ],
+    why=(
+        "AN 7.52 has Sāriputta ask the Buddha why one person's gift might be "
+        "unfruitful while another person's exactly identical gift is very "
+        "fruitful, and the Buddha answers by naming seven different motivations "
+        "behind giving &mdash; the same gift, given for reasons ranging from "
+        "self-interested investment to using generosity as an ornament for the "
+        "mind &mdash; each motivation producing a genuinely different result."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Two people can give the identical gift and receive entirely "
+            "different fruits, because what actually determines a gift's fruit "
+            "is not the gift itself but the state of mind behind it &mdash; and "
+            "this discourse ranks seven such states of mind from least to most "
+            "refined."]),
+        ("A double approach, before the question is even asked", [
+            "The lay followers of Campā first ask Sāriputta for a Dhamma talk, "
+            "are told to return on the next sabbath, and only then does Sāriputta "
+            "bring them to the Buddha and pose the question himself &mdash; a "
+            "two-stage narrative that delays the actual teaching until an entire "
+            "second scene."]),
+        ("The first motivation: giving as an investment", [
+            "The least refined motivation treats a gift as an investment, given "
+            "with the mind tied to it, expecting to keep it and enjoy it in a "
+            "future life. Someone who gives this way, the Buddha says, is reborn "
+            "in the company of the gods of the Four Great Kings &mdash; and "
+            "returns to this place once that result is spent."]),
+        ("Five further motivations, named but not fully spelled out", [
+            "Between the first and the seventh, the Buddha names five further "
+            "motivations in ascending refinement &mdash; giving because it's good "
+            "to give, because it continues a family tradition, out of simple "
+            "reciprocity, in emulation of the ancient sages, or because giving "
+            "itself makes the mind clear and joyful &mdash; each introduced with "
+            "the same formula and then abbreviated by the source text's own "
+            "ellipsis rather than given a separately spelled-out result."]),
+        ("The seventh motivation: giving as an ornament for the mind", [
+            "The most refined motivation gives no thought at all to the joy or "
+            "clarity giving produces, but simply as an adornment and requisite "
+            "for the mind &mdash; and this motivation alone, among all seven, "
+            "leads to rebirth among the gods of the Divinity's host as a "
+            "non-returner, someone who does not come back to this place at all."]),
+    ],
+    terms=[
+        ("dānamahapphala",
+         "&ldquo;a very fruitful gift&rdquo; &mdash; this discourse's own title, "
+         "naming what distinguishes a fruitful gift from an unfruitful one."),
+        ("sannidhipekkho... paṭiggahetvā paribhuñjissāmī&rsquo;ti dānaṁ deti",
+         "&ldquo;gives a gift as an investment... [thinking] &lsquo;I'll enjoy "
+         "this in my next life&rsquo;&rdquo; &mdash; the least refined of the "
+         "seven motivations."),
+        ("cittālaṅkāracittaparikkhāranti dānaṁ deti",
+         "&ldquo;gives a gift thinking, &lsquo;this is an adornment and "
+         "requisite for the mind&rsquo;&rdquo; &mdash; the most refined "
+         "motivation, the only one leading to non-return."),
+        ("cātumahārājikānaṁ devānaṁ sahabyataṁ",
+         "&ldquo;the company of the gods of the Four Great Kings&rdquo; &mdash; "
+         "the destination of the least refined motivation, a rebirth that is "
+         "eventually spent and returned from."),
+        ("brahmakāyikānaṁ devānaṁ sahabyataṁ... anāgāmī hoti",
+         "&ldquo;among the gods of the Divinity's host... a non-returner&rdquo; "
+         "&mdash; the destination of the most refined motivation, a rebirth not "
+         "returned from."),
+    ],
+    text_intro=(
+        "The discourse in full: the two-stage approach to the Buddha, "
+        "Sāriputta's question, and all seven motivations for giving, from "
+        "investment to mind-adornment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting: lay followers of Campā ask for a teaching"),
+        ("p", "&sect;1", "an7.52:1.1-1.7"),
+        ("h3", "The next sabbath, and Sāriputta's question to the Buddha"),
+        ("p", "&sect;2", "an7.52:2.1-3.6"),
+        ("h3", "The first motivation: giving as an investment"),
+        ("p", "&sect;3", "an7.52:4.1-4.4"),
+        ("h3", "Its result: rebirth among the Four Great Kings, then return"),
+        ("p", "&sect;4", "an7.52:5.1-5.3"),
+        ("h3", "Five further motivations, in ascending refinement"),
+        ("p", "&sect;5", "an7.52:6.1-10.3"),
+        ("h3", "The seventh motivation: giving as an ornament for the mind"),
+        ("p", "&sect;6", "an7.52:11.1-11.5"),
+        ("h3", "Its result: rebirth among the Divinity's host, and no return"),
+        ("p", "&sect;7", "an7.52:12.1-12.13"),
+        ("h3", "Sāriputta's question, answered"),
+        ("p", "&sect;8", "an7.52:13.1-13.2"),
+    ],
+    quiz=[
+        {"q": "What question does Sāriputta ask the Buddha in this discourse?",
+         "opts": [
+             "Whether giving is ever worthwhile at all",
+             "How the same gift, given by two different people, could be "
+             "unfruitful in one case and very fruitful in the other",
+             "Whether monks should accept gifts from laypeople",
+             "How many kinds of gifts there are"],
+         "correct": 1,
+         "expl": "A question about what makes an identical gift's fruit differ."},
+        {"q": "What does the least refined motivation, giving as an investment, "
+              "lead to?",
+         "opts": [
+             "Rebirth among the gods of the Divinity's host as a non-returner",
+             "Rebirth in the company of the gods of the Four Great Kings, with a "
+             "return to this place once that result is spent",
+             "Immediate awakening",
+             "No result at all"],
+         "correct": 1,
+         "expl": "A temporary result, eventually spent and returned from."},
+        {"q": "According to the guide, how are the five motivations between the "
+              "first and the seventh treated in the source text?",
+         "opts": [
+             "Each is given its own fully spelled-out result, just like the first "
+             "and seventh",
+             "Each is named with the same introductory formula, then abbreviated "
+             "by the source text's own ellipsis rather than given a separate "
+             "result",
+             "They are omitted from the discourse entirely",
+             "They are given in reverse order of refinement"],
+         "correct": 1,
+         "expl": "Named but not separately spelled out, unlike the first and "
+                 "seventh motivations."},
+        {"q": "What is the seventh and most refined motivation for giving?",
+         "opts": [
+             "Giving out of family tradition",
+             "Giving as an ornament and requisite for the mind, without regard for "
+             "the joy or clarity it produces",
+             "Giving expecting a future reward",
+             "Giving only when asked directly"],
+         "correct": 1,
+         "expl": "The most refined motivation, and the only one leading to "
+                 "non-return."},
+        {"q": "What result does the seventh motivation lead to?",
+         "opts": [
+             "Rebirth in the human realm only",
+             "Rebirth among the gods of the Divinity's host as a non-returner, who "
+             "does not return to this place",
+             "The same result as the first motivation",
+             "No rebirth of any kind"],
+         "correct": 1,
+         "expl": "A rebirth not returned from, unlike the first motivation's "
+                 "temporary result."},
+        {"q": "How does the narrative reach the Buddha in this discourse?",
+         "opts": [
+             "The lay followers approach the Buddha directly with no intermediary",
+             "In two stages: the lay followers first ask Sāriputta, are told to "
+             "return on the next sabbath, and only then are brought to the Buddha",
+             "The Buddha visits the lay followers uninvited",
+             "There is no narrative frame at all"],
+         "correct": 1,
+         "expl": "A delayed, two-scene approach before the actual teaching begins."},
+    ],
+    marginalia=[
+        ("Same gift, different fruit", [
+            "what differs is not",
+            "the gift itself,",
+            "but the mind behind it",
+        ]),
+        ("Seven motivations, ranked", [
+            "from self-interested",
+            "investment up to",
+            "an ornament for the mind",
+        ]),
+        ("One returns, one doesn't", [
+            "the Four Great Kings' realm,",
+            "then a return —",
+            "or non-return, for the mind-adornment gift",
+        ]),
+        ("Cross-references", [
+            "AN 7.51 &middot; previous, yoking and unyoking between women and men",
+            "AN 7.53 &middot; next, closing this chapter's First Fifty with Nanda's "
+            "Mother",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.52/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.51.html">AN 7.51 &middot; Yoking and Unyoking</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.53 — Nandamātāsutta
+#
+# This closes both Mahāyaññavagga and AN 7's First Fifty (Paṭhamapaṇṇāsaka,
+# AN 7.1-53). Per the lesson from AN 7.20 (see the note above ch.3): the
+# `further` list below points only backward, never forward to AN 7.54, since
+# the Second Fifty has not been mapped or written yet.
+# --------------------------------------------------------------------------- #
+page(
+    53, "Nandamātā", "Nanda&rsquo;s Mother",
+    vagga=VAGGA_5,
+    meta_title="AN 7.53 — Nanda's Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nandamātāsutta, closing AN 7's First Fifty with the laywoman Nanda's "
+        "Mother revealing seven incredible qualities to Sāriputta, including "
+        "the four absorptions at will and the five lower fetters already given "
+        "up. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Veḷukaṇṭa, in the home of the laywoman Veḷukaṇṭakī, Nanda's "
+                    "Mother, as Venerables Sāriputta and Mahāmoggallāna arrive "
+                    "there wandering with a large Saṅgha through the Southern "
+                    "Hills"),
+        ("Speakers", "Nanda's Mother, the great king Vessavaṇa, and Venerable "
+                     "Sāriputta"),
+        ("Form", "A narrative opening with an overheard recitation and a deity's "
+                 "request, followed by Sāriputta drawing out seven incredible "
+                 "and amazing qualities from Nanda's Mother one at a time"),
+        ("Length", "~6 minutes to read"),
+        ("Closing this chapter, and AN 7's First Fifty", "The last discourse of "
+                                                          "Mahāyaññavagga, and "
+                                                          "the last of AN 7.1-53, "
+                                                          "the Sevens' First "
+                                                          "Fifty"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a warm, "
+                       "clearly structured narrative, one of this book's most "
+                       "vivid portraits of a named lay disciple"),
+    ],
+    why=(
+        "AN 7.53 closes this chapter, and AN 7's entire First Fifty, with one of "
+        "the canon's fullest portraits of a laywoman's attainment: Nanda's "
+        "Mother is overheard reciting by a great king of the gods, hosts the "
+        "Saṅgha the next day on his instruction, and then, questioned by "
+        "Sāriputta, reveals seven incredible and amazing qualities culminating "
+        "in the four absorptions at will and the five lower fetters already "
+        "given up &mdash; the marks of a non-returner, still living as a "
+        "householder."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A laywoman, without ever leaving her household, can attain what "
+            "monastic teaching usually treats as the province of the ordained: "
+            "the four absorptions at will and freedom from the five lower "
+            "fetters, the very definition of a non-returner &mdash; and this "
+            "discourse spells that out through seven successive qualities rather "
+            "than a single statement."]),
+        ("A deity overhears, and asks a favor", [
+            "The discourse opens with Nanda's Mother reciting verses of &ldquo;"
+            "The Way to the Far Shore&rdquo; at dawn, overheard by the great king "
+            "Vessavaṇa passing by on business of his own. He applauds her, "
+            "reveals himself as her brother in a manner of speaking, and asks a "
+            "favor in return for the pleasure her recitation gave him: that when "
+            "she serves the mendicant Saṅgha the next day, she dedicate the "
+            "religious donation to him."]),
+        ("Sāriputta's question, and the first incredible quality", [
+            "When Sāriputta asks how she knew the Saṅgha was coming, her answer "
+            "&mdash; recounting the conversation with Vessavaṇa in full &mdash; "
+            "prompts his own comment that it is incredible and amazing she "
+            "converses face to face with so mighty and illustrious a godling. "
+            "This exchange itself supplies the first of the seven qualities, "
+            "before she has claimed anything for herself."]),
+        ("Six more qualities, each introduced the same way", [
+            "Nanda's Mother then volunteers six further qualities, each opened "
+            "with the same formula &mdash; &ldquo;this is not my only incredible "
+            "and amazing quality; there is another&rdquo; &mdash; equanimity at "
+            "her only son's execution, equanimity at her husband's posthumous "
+            "revelation of his rebirth, unbroken fidelity to her husband even in "
+            "thought since their marriage, never deliberately breaking a precept "
+            "since declaring herself a lay follower, entering all four "
+            "absorptions at will, and having given up every one of the five "
+            "lower fetters."]),
+        ("The seventh quality names what all the others point toward", [
+            "The final quality &mdash; no trace remaining of the five lower "
+            "fetters &mdash; is the technical definition of a non-returner, the "
+            "third of the four stages of awakening. Read backward, the six "
+            "qualities before it &mdash; equanimity through grief, unbroken "
+            "fidelity and precepts, mastery of the four absorptions &mdash; are "
+            "less a list of separate virtues than the visible signs of a mind "
+            "that had, in fact, already reached that far."]),
+        ("Closing this chapter, and AN 7's First Fifty", [
+            "Sāriputta closes the discourse by teaching her further and taking "
+            "his leave, and with that this chapter, Mahāyaññavagga, and AN 7's "
+            "entire First Fifty &mdash; fifty-three discourses running from AN "
+            "7.1 to AN 7.53 &mdash; come to an end. The Second Fifty has not yet "
+            "been mapped or written."]),
+    ],
+    terms=[
+        ("Nandamātā, Veḷukaṇṭakī",
+         "&ldquo;Nanda's Mother&rdquo;, &ldquo;the woman of Veḷukaṇṭa&rdquo; "
+         "&mdash; this discourse's central figure, named by her son and her "
+         "town rather than by a personal name of her own."),
+        ("Vessavaṇo mahārājā",
+         "&ldquo;the great king Vessavaṇa&rdquo; &mdash; a deity who overhears "
+         "her recitation and initiates the exchange that opens this discourse."),
+        ("Pārāyanaṁ",
+         "&ldquo;The Way to the Far Shore&rdquo; &mdash; the verses Nanda's "
+         "Mother is reciting at dawn when Vessavaṇa passes by; a text also known "
+         "independently elsewhere in the canon."),
+        ("acchariyaṁ abbhutaṁ",
+         "&ldquo;incredible, amazing&rdquo; &mdash; the phrase Sāriputta repeats "
+         "after each of Nanda's Mother's seven qualities."),
+        ("orambhāgiyāni saṁyojanāni",
+         "&ldquo;the five lower fetters&rdquo; &mdash; identity view, doubt, "
+         "attachment to precepts and observances, sensual desire, and ill will; "
+         "their complete absence is this discourse's seventh and final quality, "
+         "and the technical mark of a non-returner."),
+    ],
+    text_intro=(
+        "The discourse in full: King Vessavaṇa's request, the meal for the "
+        "Saṅgha, and all seven of Nanda's Mother's incredible and amazing "
+        "qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting: two chief disciples travel through the Southern "
+               "Hills"),
+        ("p", "&sect;1", "an7.53:1.1-1.3"),
+        ("h3", "King Vessavaṇa overhears her recitation, and makes a request"),
+        ("p", "&sect;2", "an7.53:2.1-3.9"),
+        ("h3", "Nanda's Mother prepares to receive the Saṅgha"),
+        ("p", "&sect;3", "an7.53:4.1-4.9"),
+        ("h3", "Sāriputta asks how she knew they were coming"),
+        ("p", "&sect;4", "an7.53:5.1-6.10"),
+        ("h3", "The first quality: conversing with a great king of the gods"),
+        ("p", "&sect;5", "an7.53:7.1-7.2"),
+        ("h3", "The second and third: equanimity at her son's death, her "
+               "husband's rebirth"),
+        ("p", "&sect;6", "an7.53:8.1-9.7"),
+        ("h3", "The fourth and fifth: unbroken fidelity, unbroken precepts"),
+        ("p", "&sect;7", "an7.53:10.1-11.4"),
+        ("h3", "The sixth and seventh: the four absorptions at will, and the "
+               "five lower fetters gone"),
+        ("p", "&sect;8", "an7.53:12.1-13.4"),
+        ("h3", "Sāriputta teaches her further, and departs"),
+        ("p", "&sect;9", "an7.53:14.1"),
+    ],
+    quiz=[
+        {"q": "What does the great king Vessavaṇa ask of Nanda's Mother, after "
+              "overhearing her dawn recitation?",
+         "opts": [
+             "That she stop reciting the verses",
+             "That when she serves the mendicant Saṅgha the next day, she "
+             "dedicate the religious donation to him",
+             "That she become his student",
+             "That she leave Veḷukaṇṭa entirely"],
+         "correct": 1,
+         "expl": "A favor asked in return for the pleasure her recitation gave "
+                 "him."},
+        {"q": "How many incredible and amazing qualities does this discourse's "
+              "narrative and Nanda's Mother's own testimony together establish, "
+              "matching this book of Sevens?",
+         "opts": ["Five", "Six", "Seven — one from the Vessavaṇa exchange itself, "
+                  "and six she volunteers afterward", "Ten"],
+         "correct": 2,
+         "expl": "One quality established by the opening narrative, six more "
+                 "self-declared, totaling seven."},
+        {"q": "What does Nanda's Mother say about her reaction to her only son's "
+              "execution?",
+         "opts": [
+             "She was devastated for years afterward",
+             "She can't recall getting upset when he was arrested, imprisoned, "
+             "or killed",
+             "She does not mention her son at all",
+             "She sought revenge against the rulers responsible"],
+         "correct": 1,
+         "expl": "Equanimity through the loss of her only son, the second of her "
+                 "seven qualities."},
+        {"q": "What is the seventh and final quality Nanda's Mother names?",
+         "opts": [
+             "Skill in reciting verses",
+             "That she does not see any of the five lower fetters that she "
+             "hasn't given up",
+             "Wealth and social standing",
+             "Knowledge of many languages"],
+         "correct": 1,
+         "expl": "The technical mark of a non-returner, the third of the four "
+                 "stages of awakening."},
+        {"q": "According to the guide, what does the seventh quality suggest "
+              "about the six qualities that come before it?",
+         "opts": [
+             "They are unrelated to it",
+             "They read as the visible signs of a mind that had already reached "
+             "that far, rather than a list of separate, unrelated virtues",
+             "They are more advanced than the seventh quality",
+             "They contradict the seventh quality"],
+         "correct": 1,
+         "expl": "Equanimity, fidelity, precepts, and absorption read together as "
+                 "signs of the same underlying attainment."},
+        {"q": "What does this discourse close, according to the guide?",
+         "opts": [
+             "Only this individual discourse, with more chapters of the Sevens "
+             "still ahead in an already-mapped sequence",
+             "This chapter, Mahāyaññavagga, and AN 7's entire First Fifty (AN "
+             "7.1 through 7.53) — with the Second Fifty not yet mapped or "
+             "written",
+             "The entire Aṅguttara Nikāya",
+             "Nothing; it is a mid-chapter discourse"],
+         "correct": 1,
+         "expl": "The last discourse of the First Fifty, closing both the "
+                 "chapter and that larger fifty-discourse span."},
+    ],
+    marginalia=[
+        ("A deity overhears", [
+            "Vessavaṇa, passing by,",
+            "stops to hear her",
+            "dawn recitation",
+        ]),
+        ("Seven qualities, in sequence", [
+            "from conversing with a god",
+            "to unbroken precepts",
+            "to the four absorptions at will",
+        ]),
+        ("A householder, a non-returner", [
+            "the five lower fetters",
+            "already given up —",
+            "without ever leaving home",
+        ]),
+        ("Cross-references", [
+            "AN 7.52 &middot; previous, seven motivations behind an identical "
+            "gift",
+            "AN 7.1 &middot; earlier, opening this book's First Fifty, now closed "
+            "here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.53/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.52.html">AN 7.52 &middot; A Very Fruitful Gift</a> '
+        "&mdash; previous.",
+        '<a href="an-7.1.html">AN 7.1 &middot; Pleasing (1st)</a> &mdash; '
+        "earlier, opening this book's First Fifty, now closed here.",
+    ],
+)
+
