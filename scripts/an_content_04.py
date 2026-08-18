@@ -10,7 +10,7 @@ INDEX_HEADING = "Catukka Nipāta — The Fours"
 # Threes module has reached; the Threes are now complete (158/158), so this
 # is fixed at their final page.
 HEAD = ("an-3.183-352.html", "AN 3.183&ndash;352 &middot; Overcoming Greed, and So On")
-TAIL = ("an-5.28.html", "AN 5.28 &middot; With Five Factors")
+TAIL = ("an-5.1.html", "AN 5.1 &middot; In Brief")
 INDEX_EXTRA = [
     ("an-4.13", "Padhāna", "Effort"),
     ("an-4.55", "Samajīvina", "Equality"),
