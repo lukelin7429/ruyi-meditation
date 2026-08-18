@@ -23282,3 +23282,965 @@ PAGES.append({
         "page, this same figure&rsquo;s own discourse.",
     ],
 })
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 13 — Rāgapeyyāla (AN 6.140–649), closing the Sixes
+# --------------------------------------------------------------------------- #
+# This project's largest peyyāla: 510 discourses across five pages, matching
+# bilara-data's own file boundaries exactly (140/141/142 individual;
+# 143-169 and 170-649 merged). Structure verified directly against the root
+# Pāli before writing: AN 6.140-142 give three six-item lists in full, each
+# developed "for direct knowledge of greed"; AN 6.143-169 (27 discourses)
+# run the same three lists against nine further verbs, still for greed
+# alone; AN 6.170-649 (480 discourses) run the identical three lists against
+# ten verbs (direct knowledge plus the same nine) across sixteen further
+# defilements, closing both this chapter and the Chakka Nipāta itself.
+# --------------------------------------------------------------------------- #
+VAGGA_13 = "<em>Rāgapeyyāla</em> &mdash; the thirteenth and final chapter of the Sixes"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.140 — (Untitled Discourse on Greed, 1st)
+# --------------------------------------------------------------------------- #
+page(
+    140, "Rāgapariññā", "Untitled Discourse on Greed (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 6.140 — Untitled Discourse on Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN 6.140, opening the "
+        "Sixes' final chapter with the six unsurpassable things, developed for direct "
+        "knowledge of greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, developed for direct knowledge of one named "
+                 "defilement — the first of three such lists opening this chapter's massive "
+                 "closing peyyāla"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of a brief and an elaborated version of the six "
+                              "unsurpassable things recurs across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in itself, but "
+                       "opening the mechanism behind this chapter's five hundred ten "
+                       "discourses"),
+    ],
+    why=(
+        "Rāgapeyyāla, &lsquo;Abbreviated Texts Beginning With Greed,&rsquo; opens this "
+        "chapter and closes the entire Sixes: a bare instruction that &ldquo;for insight into "
+        "greed, six things should be developed,&rdquo; naming the six unsurpassable things "
+        "&mdash; already given in full at AN 6.30 in the earlier First Fifty &mdash; as the "
+        "first of three lists this chapter will cross-multiply against defilements and verbs "
+        "to generate five hundred ten discourses from a handful of sentences."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, six things should be developed: the unsurpassable "
+            "seeing, listening, acquisition, training, service, and recollection."]),
+        ("Content already given in full at AN 6.30", [
+            "The six unsurpassable things (chaḷanuttariya) &mdash; dassanānuttariya, "
+            "savanānuttariya, lābhānuttariya, sikkhānuttariya, pāricariyānuttariya, and "
+            "anussatānuttariya &mdash; were already spelled out in full detail at AN 6.30, "
+            "which itself completed the brief/elaborated pair begun at AN 6.8 in the earlier "
+            "First Fifty. This discourse assumes that fuller treatment and simply names the "
+            "list as a target for greed specifically."]),
+        ("The first of three lists this chapter will multiply", [
+            "AN 6.141 and 6.142, immediately following, give two further six-item lists "
+            "&mdash; the six recollections and six perceptions &mdash; each likewise developed "
+            "&ldquo;for direct knowledge of greed.&rdquo; Together, these three lists become "
+            "this chapter's entire combinatorial apparatus, crossed against verbs and further "
+            "defilements across the pages that follow."]),
+        ("Why 'direct knowledge' specifically", [
+            "Abhiññā, &ldquo;direct knowledge,&rdquo; is the first and most immediate of the "
+            "several verbs this chapter will eventually apply to each list &mdash; a starting "
+            "point of simply knowing a defilement clearly, before the fuller sequence of "
+            "understanding, ending, and letting go developed at AN 6.143&ndash;169 and beyond."]),
+    ],
+    terms=[
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the first defilement this entire chapter's apparatus "
+         "addresses, and the term this chapter, <em>Rāgapeyyāla</em>, takes its name from."),
+        ("abhiññā",
+         "&ldquo;direct knowledge&rdquo; &mdash; the first verb this chapter's lists are "
+         "developed for, before nine further verbs are introduced at AN 6.143&ndash;169."),
+        ("chaḷanuttariya",
+         "&ldquo;the six unsurpassable things&rdquo; &mdash; seeing, listening, acquisition, "
+         "training, service, and recollection, already given in full at AN 6.30."),
+        ("dassanānuttariya, savanānuttariya, lābhānuttariya",
+         "&ldquo;the unsurpassable seeing, listening, acquisition&rdquo; &mdash; the first "
+         "three of the six unsurpassable things named in this discourse."),
+        ("sikkhānuttariya, pāricariyānuttariya, anussatānuttariya",
+         "&ldquo;the unsurpassable training, service, recollection&rdquo; &mdash; the "
+         "remaining three, closing this discourse's list."),
+    ],
+    text_intro=(
+        "The discourse in full: the six unsurpassable things, developed for direct knowledge "
+        "of greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things developed for direct knowledge of greed"),
+        ("p", "&sect;1", "an6.140:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What six things does this discourse name as developed for direct knowledge of "
+              "greed?",
+         "opts": [
+             "The five hindrances",
+             "The six unsurpassable things: seeing, listening, acquisition, training, "
+             "service, and recollection",
+             "The three fetters of AN 6.89",
+             "The three poisons of AN 6.107"],
+         "correct": 1,
+         "expl": "A list already given in full detail earlier in this collection."},
+        {"q": "Where was this exact list already spelled out in full detail?",
+         "opts": [
+             "Nowhere else in this collection",
+             "At AN 6.30 in the earlier First Fifty, completing a brief/elaborated pair begun "
+             "at AN 6.8",
+             "At AN 6.107, among the three poisons",
+             "At AN 6.85, on mental management"],
+         "correct": 1,
+         "expl": "This discourse assumes that fuller treatment rather than repeating it."},
+        {"q": "What role does this discourse play for the rest of this chapter, according to "
+              "the guide?",
+         "opts": [
+             "An isolated, standalone teaching",
+             "The first of three lists that become this chapter's entire combinatorial "
+             "apparatus, crossed against verbs and further defilements in the pages that "
+             "follow",
+             "A conclusion to material already fully covered",
+             "An unrelated digression"],
+         "correct": 1,
+         "expl": "The opening piece of a system generating five hundred ten discourses from a "
+                 "handful of lists."},
+        {"q": "What does <em>abhiññā</em> mean, and what is its role in this chapter?",
+         "opts": [
+             "'Letting go' — the final verb in this chapter's sequence",
+             "'Direct knowledge' — the first and most immediate verb, before nine further "
+             "verbs are introduced later in this chapter",
+             "A synonym for greed itself",
+             "A term unrelated to this chapter's structure"],
+         "correct": 1,
+         "expl": "The starting point of a longer verb sequence developed across this chapter."},
+        {"q": "Is a setting stated for AN 6.140?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, opening this chapter."},
+        {"q": "What does this chapter's title, Rāgapeyyāla, mean?",
+         "opts": [
+             "'The Chapter on Deities'",
+             "'Abbreviated Texts Beginning With Greed'",
+             "'The Chapter on Perfection'",
+             "'The Chapter on Coolness'"],
+         "correct": 1,
+         "expl": "This chapter's own name, describing its entire compressed method."},
+    ],
+    marginalia=[
+        ("The six unsurpassable things", [
+            "seeing &middot; listening",
+            "&middot; acquisition &middot; training",
+            "&middot; service &middot; recollection",
+        ]),
+        ("Already given in full", [
+            "at AN 6.30,",
+            "completing a brief/",
+            "elaborated pair from AN 6.8",
+        ]),
+        ("The first of three lists", [
+            "this entire chapter's",
+            "apparatus is built from —",
+            "two more follow immediately",
+        ]),
+        ("Cross-references", [
+            "AN 6.8/6.30 &middot; earlier, this list's brief/elaborated pair, First Fifty",
+            "AN 6.141 &middot; next, a second list for greed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.140/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.30.html">AN 6.30 &middot; The Unsurpassable Things</a> &mdash; earlier, '
+        "this list given in full, First Fifty.",
+        '<a href="an-6.141.html">AN 6.141 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; next, the six recollections for direct knowledge of greed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.141 — (Untitled Discourse on Greed, 2nd)
+# --------------------------------------------------------------------------- #
+page(
+    141, "Rāgapariññā2", "Untitled Discourse on Greed (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 6.141 — Untitled Discourse on Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN 6.141, the second of "
+        "three lists opening this chapter: the six recollections, developed for direct "
+        "knowledge of greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, developed for direct knowledge of greed — the "
+                 "second of three lists opening this chapter's apparatus"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The six recollections recur as a standard meditation set across "
+                              "the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a list already met "
+                       "repeatedly in this collection, worth checking rather than assuming its "
+                       "fifth appearance is identical in every detail"),
+    ],
+    why=(
+        "AN 6.141 names the six recollections &mdash; of the Buddha, the teaching, the "
+        "Saṅgha, ethics, generosity, and the deities &mdash; as the second list &ldquo;for "
+        "direct knowledge of greed,&rdquo; content this collection has now met in close but "
+        "not always identical variants at AN 6.9&ndash;10, 6.25, and 6.26, making this at "
+        "least a fifth occurrence of this same underlying set."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, six things should be developed: the recollection "
+            "of the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities."]),
+        ("A list this collection has already met, checked, and found variable", [
+            "The reading guide for AN 6.25 and 6.26 already established that this collection's "
+            "six recollections recur with genuinely different closing formulas across at least "
+            "four earlier appearances (AN 6.9&ndash;10, 6.25, 6.26), each requiring word-for-"
+            "word comparison rather than assumed identity. This discourse's own bare listing "
+            "&mdash; buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, "
+            "devatānussati &mdash; states the six terms without any of the earlier discourses' "
+            "elaboration, making direct comparison of content beyond the six names themselves "
+            "not possible from this discourse alone."]),
+        ("The second of three lists, not a repeat of the first", [
+            "Where AN 6.140 named the six unsurpassable things, this discourse names an "
+            "entirely different set of six &mdash; the recollections &mdash; both developed "
+            "for the identical target, direct knowledge of greed. The chapter's apparatus "
+            "depends on these three lists remaining genuinely distinct from one another, not "
+            "on any relationship between them beyond sharing this chapter's structure."]),
+        ("One target so far, many to come", [
+            "Every list on this page and its two companions applies to greed alone. AN "
+            "6.170&ndash;649, later in this chapter, will apply these same three lists to "
+            "sixteen further defilements &mdash; hate, delusion, and fourteen more &mdash; "
+            "vastly expanding the single target established here."]),
+    ],
+    terms=[
+        ("buddhānussati, dhammānussati, saṅghānussati",
+         "&ldquo;recollection of the Buddha, the teaching, the Saṅgha&rdquo; &mdash; the "
+         "first three of the six recollections, already met in fuller form at AN 6.9&ndash;10, "
+         "6.25, and 6.26."),
+        ("sīlānussati, cāgānussati, devatānussati",
+         "&ldquo;recollection of ethics, generosity, the deities&rdquo; &mdash; the remaining "
+         "three recollections, closing this discourse's list."),
+        ("chalanussati",
+         "&ldquo;the six recollections&rdquo; &mdash; this discourse's own list, a set this "
+         "collection has now met in at least five separate discourses."),
+        ("abhiññā",
+         "&ldquo;direct knowledge&rdquo; &mdash; the target this list, like AN 6.140's, is "
+         "developed for."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the single defilement every list in this opening trio "
+         "addresses, before this chapter's later expansion to sixteen further defilements."),
+    ],
+    text_intro=(
+        "The discourse in full: the six recollections, developed for direct knowledge of "
+        "greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things developed for direct knowledge of greed"),
+        ("p", "&sect;1", "an6.141:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What six things does this discourse name?",
+         "opts": [
+             "The six unsurpassable things, repeating AN 6.140",
+             "The six recollections: of the Buddha, the teaching, the Saṅgha, ethics, "
+             "generosity, and the deities",
+             "The three fetters of AN 6.89",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "A different list from AN 6.140's, applied to the same target."},
+        {"q": "How many times, counting this discourse, has this collection now stated some "
+              "version of the six recollections?",
+         "opts": [
+             "Once",
+             "At least a fifth occurrence, after AN 6.9–10, 6.25, and 6.26",
+             "Twice",
+             "This is the first appearance of this list"],
+         "correct": 1,
+         "expl": "A list this collection has repeatedly checked and found variable across its "
+                 "earlier appearances."},
+        {"q": "Why can't this discourse's version be directly compared in full detail to the "
+              "earlier appearances, according to the guide?",
+         "opts": [
+             "It can be fully compared and is identical in every respect",
+             "This discourse states only the six bare terms, without the elaboration the "
+             "earlier discourses (AN 6.9–10, 6.25, 6.26) included in their closing formulas",
+             "It uses entirely different Pāli terms unrelated to the earlier appearances",
+             "No comparison is possible for any reason"],
+         "correct": 1,
+         "expl": "A bare listing here, versus fuller treatment in this collection's earlier "
+                 "discourses on the same theme."},
+        {"q": "What does the guide say about the relationship between this chapter's three "
+              "opening lists?",
+         "opts": [
+             "They are all restatements of the same content",
+             "They are genuinely distinct sets of six, sharing only their common target "
+             "(direct knowledge of greed) and their role in this chapter's combinatorial "
+             "structure",
+             "Only two of the three lists are actually different",
+             "The lists have no relationship to each other or to the chapter"],
+         "correct": 1,
+         "expl": "Three distinct lists forming this chapter's entire generative apparatus."},
+        {"q": "What expansion does the guide say comes later in this chapter, beyond greed "
+              "alone?",
+         "opts": [
+             "No further expansion — greed is the only target throughout",
+             "AN 6.170–649 will apply these same three lists to sixteen further defilements",
+             "A shift to an entirely different set of lists",
+             "A return to the six unsurpassable things only"],
+         "correct": 1,
+         "expl": "The vast combinatorial expansion this chapter builds toward."},
+        {"q": "Is a setting stated for AN 6.141?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.140 immediately before it."},
+    ],
+    marginalia=[
+        ("The six recollections", [
+            "Buddha &middot; teaching &middot;",
+            "Saṅgha &middot; ethics &middot;",
+            "generosity &middot; deities",
+        ]),
+        ("A fifth appearance, checked", [
+            "already met at AN 6.9–10,",
+            "6.25, 6.26 — variable",
+            "closing formulas each time",
+        ]),
+        ("Second of three lists", [
+            "distinct from AN 6.140,",
+            "same target: direct",
+            "knowledge of greed alone",
+        ]),
+        ("Cross-references", [
+            "AN 6.9/10, 6.25, 6.26 &middot; earlier, this list's four prior appearances",
+            "AN 6.142 &middot; next, the third list for greed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.141/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.140.html">AN 6.140 &middot; Untitled Discourse on Greed (1st)</a> '
+        "&mdash; previous, the first of this chapter's three lists.",
+        '<a href="an-6.142.html">AN 6.142 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; next, the six perceptions for direct knowledge of greed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.142 — (Untitled Discourse on Greed, 3rd)
+# --------------------------------------------------------------------------- #
+page(
+    142, "Rāgapariññā3", "Untitled Discourse on Greed (3rd)",
+    vagga=VAGGA_13,
+    meta_title="AN 6.142 — Untitled Discourse on Greed (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN 6.142, the third of "
+        "three lists opening this chapter: six graduated perceptions, developed for direct "
+        "knowledge of greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list of graduated perceptions, closing the trio of lists "
+                 "this chapter's entire apparatus is built from"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The graduated sequence from impermanence through cessation "
+                              "recurs widely across the Chinese Āgamas' insight-meditation "
+                              "material; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the most structurally "
+                       "distinctive of this chapter's three lists, each item explicitly built "
+                       "on the one before it"),
+    ],
+    why=(
+        "AN 6.142 closes this chapter's opening trio with a list unlike either of its "
+        "companions: six perceptions in explicit sequence, each naming the next in terms of "
+        "the one before &mdash; impermanence, then suffering in what is impermanent, then "
+        "not-self in what is suffering, then giving up, fading away, and cessation &mdash; "
+        "developed, like AN 6.140 and 6.141, for direct knowledge of greed."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, six things should be developed: the perception of "
+            "impermanence, of suffering in impermanence, of not-self in suffering, of giving "
+            "up, of fading away, and of cessation."]),
+        ("A chain, not six independent items", [
+            "Unlike AN 6.140 and 6.141's lists of six parallel items, this discourse's six "
+            "perceptions are explicitly nested: not merely suffering, but suffering "
+            "specifically in what has been seen as impermanent; not merely not-self, but "
+            "not-self specifically in what has been seen as suffering. Each perception "
+            "presupposes the one stated before it, building a single graduated insight rather "
+            "than naming six separate objects."]),
+        ("Related to, but distinct from, this collection's earlier three-characteristics "
+         "material", [
+            "AN 6.98&ndash;101 and 6.102&ndash;104 earlier in this collection separately "
+            "treated impermanence, suffering, and not-self, each as its own discourse or "
+            "aspirational sequence. This discourse's contribution is not those same three "
+            "characteristics repeated, but a specific graduated chain building through them "
+            "toward giving up, fading away, and cessation &mdash; three further terms not "
+            "treated individually at AN 6.98&ndash;104."]),
+        ("The third list, completing this chapter's apparatus", [
+            "With AN 6.140's six unsurpassable things, AN 6.141's six recollections, and this "
+            "discourse's six graduated perceptions now all given in full, this chapter has "
+            "everything it needs to generate its remaining hundreds of discourses through "
+            "compression alone."]),
+    ],
+    terms=[
+        ("aniccasaññā",
+         "&ldquo;the perception of impermanence&rdquo; &mdash; the first and foundational "
+         "perception in this discourse's graduated sequence."),
+        ("anicce dukkhasaññā",
+         "&ldquo;the perception of suffering in impermanence&rdquo; &mdash; the second "
+         "perception, explicitly nested within the first rather than standing alone."),
+        ("dukkhe anattasaññā",
+         "&ldquo;the perception of not-self in suffering&rdquo; &mdash; the third perception, "
+         "nested within the second in turn."),
+        ("pahānasaññā, virāgasaññā, nirodhasaññā",
+         "&ldquo;the perception of giving up, of fading away, of cessation&rdquo; &mdash; the "
+         "final three perceptions, extending the graduated chain beyond the three "
+         "characteristics toward release."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the single target this list, like AN 6.140 and 6.141's, "
+         "is developed for."),
+    ],
+    text_intro=(
+        "The discourse in full: six graduated perceptions, developed for direct knowledge of "
+        "greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things developed for direct knowledge of greed"),
+        ("p", "&sect;1", "an6.142:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How do this discourse's six perceptions differ structurally from AN 6.140 and "
+              "6.141's lists, according to the guide?",
+         "opts": [
+             "No structural difference — all three lists are six parallel, independent items",
+             "This list is explicitly nested: each perception is defined in terms of the one "
+             "before it, rather than naming six independent objects",
+             "This list has fewer than six items",
+             "This list repeats AN 6.140's content exactly"],
+         "correct": 1,
+         "expl": "A graduated chain, not a flat list of six parallel terms."},
+        {"q": "What are the first three perceptions in this discourse's sequence?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Impermanence, suffering in impermanence, and not-self in suffering",
+             "The three poisons of AN 6.107",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "Each nested within the one before it, not three independent items."},
+        {"q": "How does this discourse's content relate to AN 6.98–104 earlier in this "
+              "collection, according to the guide?",
+         "opts": [
+             "It is an exact restatement of that earlier material",
+             "It is related but distinct — a specific graduated chain through the three "
+             "characteristics toward giving up, fading away, and cessation, terms not treated "
+             "individually at AN 6.98–104",
+             "It has no relationship to that earlier material at all",
+             "It contradicts AN 6.98–104's teaching"],
+         "correct": 1,
+         "expl": "A different structural treatment of related but not identical content."},
+        {"q": "What three terms close this discourse's sequence, beyond the three "
+              "characteristics?",
+         "opts": [
+             "Faith, ethics, and wisdom",
+             "Giving up, fading away, and cessation",
+             "Seeing, listening, and acquisition",
+             "The Buddha, the teaching, and the Saṅgha"],
+         "correct": 1,
+         "expl": "Extending the graduated chain toward release, beyond impermanence, "
+                 "suffering, and not-self alone."},
+        {"q": "What does this discourse complete, according to the guide?",
+         "opts": [
+             "Nothing further — an isolated teaching",
+             "This chapter's opening trio of three lists, giving this chapter everything it "
+             "needs to generate its remaining hundreds of discourses through compression",
+             "The entire Sixes collection",
+             "A return to material already fully covered elsewhere"],
+         "correct": 1,
+         "expl": "The third and final list this chapter's combinatorial apparatus depends on."},
+        {"q": "Is a setting stated for AN 6.142?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.140 and 6.141 before it."},
+    ],
+    marginalia=[
+        ("Six nested perceptions", [
+            "impermanence &rarr;",
+            "suffering in it &rarr;",
+            "not-self in that &rarr; giving up &rarr; fading &rarr; cessation",
+        ]),
+        ("A chain, not six items", [
+            "each perception defined",
+            "in terms of the one",
+            "stated immediately before it",
+        ]),
+        ("The apparatus now complete", [
+            "three lists given in full —",
+            "AN 6.140, 141, 142 —",
+            "ready for combinatorial expansion",
+        ]),
+        ("Cross-references", [
+            "AN 6.98–104 &middot; earlier, related but distinct three-characteristics material",
+            "AN 6.143–169 &middot; next, these three lists crossed with nine further verbs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.142/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.141.html">AN 6.141 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; previous, the second of this chapter's three lists.",
+        '<a href="an-6.143-169.html">AN 6.143&ndash;169 &middot; Untitled Discourses on '
+        "Greed, Etc.</a> &mdash; next, these three lists crossed with nine further verbs.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.143–169 — Rāgapariññādisutta (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-6.143-169",
+    "index_pali": "Rāgapariññādi",
+    "nav_title": "Untitled Discourses on Greed, Etc.",
+    "source": "an6/an6.143-169",
+    "crumb": "AN 6.143&ndash;169",
+    "meta_title": "AN 6.143–169 — Untitled Discourses on Greed, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for AN 6.143–169, "
+        "twenty-seven discourses compressed into one sentence: the three lists already given "
+        "in full, developed for nine further ways of relating to greed. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 6.143&ndash;169",
+    "title": "Untitled Discourses on Greed, Etc.",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; continuing the thirteenth and final chapter of "
+                "the Sixes, its abbreviation-series at full speed",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One compressed formula, running nine verbs against the three six-item lists "
+                 "already given in full at AN 6.140&ndash;142, representing twenty-seven "
+                 "individually numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This same nine-verb, near-synonym technique for describing the "
+                              "abandoning of a defilement recurs across the Chinese Āgamas' "
+                              "own abbreviation series; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the compression is nearly "
+                       "total; nothing in it is new content, and that is the point worth "
+                       "understanding"),
+    ],
+    "why": (
+        "AN 6.140&ndash;142 gave three six-item lists in full, each developed for direct "
+        "knowledge of greed. This block represents what the source gives next: the identical "
+        "three lists, developed for nine further ways of relating to greed &mdash; complete "
+        "understanding, complete ending, giving up, ending, vanishing, fading away, "
+        "cessation, giving away, and letting go. Three lists times nine verbs is twenty-seven "
+        "individually numbered discourses, all compressed by the source into a single "
+        "sentence &mdash; the identical apparatus this series already met at AN 4.277&ndash;"
+        "303, closing the Fours."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same three six-item lists already given in full &mdash; the unsurpassable "
+            "things, the recollections, the graduated perceptions &mdash; are developed not "
+            "only for direct knowledge of greed but for nine further ways of relating to it: "
+            "understanding it completely, ending it completely, giving it up, ending it, and "
+            "so on through letting it go."]),
+        ("Nothing new, deliberately", [
+            "Every piece of content this block represents has already appeared in full at AN "
+            "6.140&ndash;142. What changes across these twenty-seven discourses is only the "
+            "verb governing the relationship between the list and greed: <em>pariññāya</em>, "
+            "for complete understanding; <em>parikkhayāya</em>, for complete ending; "
+            "<em>pahānāya</em>, for giving up; <em>khayāya</em>, for ending; "
+            "<em>vayāya</em>, for vanishing; <em>virāgāya</em>, for fading away; "
+            "<em>nirodhāya</em>, for cessation; <em>cāgāya</em>, for giving away; and "
+            "<em>paṭinissaggāya</em>, for letting go."]),
+        ("The identical device already met closing the Fours", [
+            "This nine-verb sequence, crossed against three lists already given in full, is "
+            "not a new technique invented for the Sixes: it is the same apparatus this "
+            "series already read in full at AN 4.277&ndash;303, closing the Book of the "
+            "Fours' own Rāgapeyyāla. The specific three lists differ (there, the four "
+            "establishments of mindfulness and two further fourfold sets; here, the "
+            "unsurpassable things, the recollections, and the graduated perceptions), but "
+            "the nine-verb multiplication device is identical."]),
+        ("How twenty-seven discourses become one page", [
+            "Three lists times nine verbs is twenty-seven combinations, each technically its "
+            "own numbered discourse in the traditional count, AN 6.143 through AN 6.169. The "
+            "bilara-data source this site draws from compresses the entire run into a single "
+            "continuous line using the peyyāla convention this chapter is named for, on the "
+            "assumption that a reader who has followed AN 6.140&ndash;142 can supply the full "
+            "expansion for every remaining combination without needing each one spelled out."]),
+    ],
+    "terms": [
+        ("pariññā, parikkhaya, pahāna, khaya, vaya, virāga, nirodha, cāga, paṭinissagga",
+         "complete understanding, complete ending, giving up, ending, vanishing, fading "
+         "away, cessation, giving away, and letting go &mdash; nine near-synonyms for the "
+         "release of a defilement, run here against the same three lists as AN "
+         "6.140&ndash;142."),
+        ("peyyāla",
+         "&ldquo;repetition-series, abbreviation&rdquo; &mdash; the device that lets "
+         "twenty-seven discourses share one continuous formula rather than being spelled "
+         "out in full twenty-seven times."),
+        ("abhiññā",
+         "&ldquo;direct knowledge&rdquo; &mdash; the verb already used at AN "
+         "6.140&ndash;142, the first in what becomes a ten-verb sequence once this block's "
+         "nine further verbs are counted alongside it."),
+        ("rāga",
+         "&ldquo;greed&rdquo; &mdash; the single target of this block's content, and the "
+         "term this chapter, Rāgapeyyāla, takes its name from."),
+        ("AN 4.277–303",
+         "the structurally identical block already read in this series closing the Fours' "
+         "own Rāgapeyyāla — the same nine-verb device, applied there to different underlying "
+         "lists."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: the same three six-item lists, "
+        "developed for nine further ways of relating to greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The compressed formula"),
+        ("p", "&sect;1", "an6.143-169:1.1-1.9"),
+    ],
+    "quiz": [
+        {"q": "What three lists does this block's content develop, and where were they given "
+              "in full?",
+         "opts": [
+             "New lists, introduced for the first time on this page",
+             "The six unsurpassable things, the six recollections, and the six graduated "
+             "perceptions, given in full at AN 6.140–142",
+             "The five precepts",
+             "The four foundations of mindfulness"],
+         "correct": 1,
+         "expl": "This block represents nine further verbs applied to those same three "
+                 "lists."},
+        {"q": "How many verbs does this block apply to greed, beyond the direct knowledge of "
+              "AN 6.140–142?",
+         "opts": [
+             "Three",
+             "Nine: complete understanding, complete ending, giving up, ending, vanishing, "
+             "fading away, cessation, giving away, and letting go",
+             "Twenty-seven separate verbs",
+             "One"],
+         "correct": 1,
+         "expl": "Three lists times nine verbs equals the twenty-seven discourses this block "
+                 "represents."},
+        {"q": "Where has this exact nine-verb, three-list combinatorial device already "
+              "appeared in this series?",
+         "opts": [
+             "Nowhere else — this is an entirely new technique",
+             "At AN 4.277–303, closing the Book of the Fours with the identical apparatus "
+             "applied to different underlying lists",
+             "Only within the Sixes itself, earlier",
+             "In the Threes, applied to the exact same three lists"],
+         "correct": 1,
+         "expl": "The same multiplication device, reused across nipātas with different "
+                 "specific content."},
+        {"q": "How many individually numbered discourses does this block's single formula "
+              "represent?",
+         "opts": [
+             "Three",
+             "Twenty-seven, AN 6.143 through AN 6.169",
+             "Nine",
+             "Five hundred ten"],
+         "correct": 1,
+         "expl": "Compressed by the source into one continuous line using the peyyāla "
+                 "convention."},
+        {"q": "Why does the source compress twenty-seven discourses into a single line rather "
+              "than spelling each one out?",
+         "opts": [
+             "Because the content was lost",
+             "On the assumption that a reader who has followed AN 6.140–142 can supply the "
+             "full expansion for every remaining combination",
+             "Because the discourses are considered unimportant",
+             "Because this site chose to omit content"],
+         "correct": 1,
+         "expl": "Nothing is lost in the compression; the pattern is fully predictable once "
+                 "seen."},
+        {"q": "What is <em>paṭinissagga</em>, the ninth and final verb in this block's "
+              "sequence?",
+         "opts": [
+             "Complete understanding",
+             "Letting go",
+             "Vanishing",
+             "Cessation"],
+         "correct": 1,
+         "expl": "The last of the nine near-synonyms applied to greed on this page."},
+        {"q": "What single defilement does this entire block's content address?",
+         "opts": [
+             "All seventeen defilements this chapter eventually covers",
+             "Greed alone, rāga",
+             "Hate alone",
+             "No specific defilement is named"],
+         "correct": 1,
+         "expl": "The chapter's own name, Rāgapeyyāla, is built on this same term."},
+    ],
+    "marginalia": [
+        ("Nine verbs, one movement", [
+            "understanding &middot; ending",
+            "giving up &middot; ending &middot; vanishing",
+            "fading &middot; cessation &middot; giving away &middot; letting go",
+        ]),
+        ("Three lists, already given", [
+            "unsurpassable things &middot;",
+            "recollections &middot;",
+            "graduated perceptions",
+        ]),
+        ("The math", [
+            "3 lists &times; 9 verbs",
+            "= 27 discourses, one formula",
+        ]),
+        ("Cross-references", [
+            "AN 4.277–303 &middot; earlier nipāta, the identical device closing the Fours",
+            "AN 6.170–649 &middot; next, sixteen further defilements added",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an6.143-169/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.142.html">AN 6.142 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; previous, the third of the three lists this block develops further.",
+        '<a href="an-4.277-303.html">AN 4.277&ndash;303 &middot; Complete Understanding, and '
+        "So On</a> &mdash; earlier nipāta, the identical nine-verb device closing the Fours.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.170–649 — Dosādisutta (merged page, closing the Sixes)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-6.170-649",
+    "index_pali": "Dosādi",
+    "nav_title": "Insight into Hate, and So On",
+    "source": "an6/an6.170-649",
+    "crumb": "AN 6.170&ndash;649",
+    "meta_title": "AN 6.170–649 — Insight into Hate, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Sixes' final four "
+        "hundred eighty discourses, compressed into one sentence: sixteen further "
+        "defilements, ten verbs, three six-item lists, closing the entire Chakka Nipāta. From "
+        "Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 6.170&ndash;649",
+    "title": "Insight into Hate, and So On",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; closing the thirteenth and final chapter of the "
+                "Sixes, and the Chakka Nipāta itself",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, cross-multiplying sixteen defilements against ten verbs "
+                 "against three six-item lists, representing four hundred eighty individually "
+                 "numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Extended lists of secondary defilements alongside the three "
+                              "root poisons are a recurring feature of Abhidharma-adjacent "
+                              "material across traditions; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the single most "
+                       "compressed page in this collection, and the one that ends the Sixes"),
+    ],
+    "why": (
+        "One sentence stands for four hundred eighty discourses. Sixteen defilements beyond "
+        "greed &mdash; hate, delusion, anger, and thirteen further, increasingly specific "
+        "faults, closing on negligence &mdash; each developed for the same ten ways of "
+        "relating to a defilement already run against greed at AN 6.140&ndash;169, each of "
+        "those ten crossed against the same three six-item lists given in full at AN "
+        "6.140&ndash;142. This is the most extreme compression in this entire collection, and "
+        "it is also the discourse that closes the Book of the Sixes."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same three six-item lists, developed for the same ten ways of relating to a "
+            "defilement, are now run against sixteen further defilements beyond greed: hate, "
+            "delusion, anger, hostility, disparagement, rivalry, jealousy, stinginess, "
+            "deceit, fraud, obstinacy, aggression, conceit, arrogance, vanity, and "
+            "negligence."]),
+        ("The complete list, and where it has been seen before — twice", [
+            "<em>Dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, "
+            "sāṭheyya, thambha, sārambha, māna, atimāna, mada, pamāda</em> &mdash; sixteen "
+            "defilements, running from the two remaining root poisons through increasingly "
+            "specific interpersonal and characterological faults, closing on negligence. "
+            "This is not a list composed fresh for the Sixes. Together with greed, this "
+            "identical seventeen-item roster, in this same order, already closed both the "
+            "Threes at AN 3.183&ndash;352 and the Fours at AN 4.304&ndash;783 &mdash; the "
+            "same list, reused wholesale for a structurally identical closing device in a "
+            "third nipāta running."]),
+        ("Ten verbs, three lists, sixteen targets", [
+            "Each of the sixteen defilements is developed against the identical ten-verb "
+            "sequence already run against greed across AN 6.140&ndash;169: direct knowledge, "
+            "complete understanding, complete ending, giving up, ending, vanishing, fading "
+            "away, cessation, giving away, and letting go. Each of those ten is in turn "
+            "crossed against the three six-item lists given in full at AN 6.140&ndash;142: "
+            "the unsurpassable things, the recollections, and the graduated perceptions. "
+            "Sixteen times ten times three is four hundred eighty &mdash; the largest single "
+            "combinatorial block in this entire series to date, and it survives in the "
+            "source as one sentence."]),
+        ("The Book of the Sixes, finished", [
+            "The final line of this block, following the formula's own close, is "
+            "&ldquo;Rāgapeyyālaṁ niṭṭhitaṁ&rdquo; &mdash; &ldquo;the Rāgapeyyāla is "
+            "finished&rdquo; &mdash; immediately followed by &ldquo;Chakkanipātapāḷi "
+            "niṭṭhitā&rdquo;: &ldquo;the text of the Book of the Sixes is finished.&rdquo; "
+            "This is not merely a chapter closing, of the kind this series has met twelve "
+            "times since AN 6.1. It is the close of the entire Chakka Nipāta &mdash; the "
+            "collection this build-out has read since AN 6.1, one discourse and then one "
+            "chapter at a time, now complete from its first page to its last, including the "
+            "final five hundred ten discourses this page and its two predecessors represent "
+            "in compressed form rather than as individual pages."]),
+        ("A closing without the earlier puzzle", [
+            "Unlike the Fours' own closing block at AN 4.304&ndash;783, whose colophon "
+            "carried a genuinely puzzling repeated paṇṇāsaka marker this series left "
+            "honestly unresolved, this block's close is comparatively simple: no paṇṇāsaka "
+            "marker appears here at all, only the chapter-closing and nipāta-closing lines "
+            "in sequence, with nothing requiring a similar caveat."]),
+    ],
+    "terms": [
+        ("dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, sāṭheyya, "
+         "thambha, sārambha, māna, atimāna, mada, pamāda",
+         "hate, delusion, anger, hostility, disparagement, rivalry, jealousy, stinginess, "
+         "deceit, fraud, obstinacy, aggression, conceit, arrogance, vanity, and negligence "
+         "&mdash; the sixteen defilements this page addresses, identical to the sixteen "
+         "already closing both the Threes and the Fours."),
+        ("Rāgapeyyālaṁ niṭṭhitaṁ",
+         "&ldquo;the Rāgapeyyāla is finished&rdquo; &mdash; the colophon closing this "
+         "chapter specifically, immediately preceding the larger nipāta-closing marker."),
+        ("Chakkanipātapāḷi niṭṭhitā",
+         "&ldquo;the text of the Book of the Sixes is finished&rdquo; &mdash; the closing "
+         "line of the entire nipāta this build-out has read from AN 6.1 to this page."),
+        ("chaḷanuttariya, chalanussati, chasaññā",
+         "the six unsurpassable things, the six recollections, and the six graduated "
+         "perceptions &mdash; the three lists given in full at AN 6.140&ndash;142 and "
+         "assumed throughout this entire chapter, including this closing block."),
+        ("AN 3.183–352, AN 4.304–783",
+         "the structurally identical closing blocks already read in this series, sharing "
+         "this page's exact seventeen-item defilement roster (with greed) across three "
+         "different nipātas."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: sixteen defilements, ten verbs, "
+        "and the three six-item lists already given in full, closing the Sixes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The compressed formula, closing the Sixes"),
+        ("p", "&sect;1", "an6.170-649:1.1-1.26"),
+        ("h3", "The closing formula, and the two colophons"),
+        ("p", "&sect;2", "an6.170-649:1.27-1.30"),
+    ],
+    "quiz": [
+        {"q": "How many defilements does this page's formula address, beyond greed?",
+         "opts": [
+             "Three",
+             "Sixteen: hate, delusion, anger, and thirteen further, increasingly specific "
+             "faults, closing on negligence",
+             "Nine",
+             "Thirty"],
+         "correct": 1,
+         "expl": "Continuing the list AN 6.140–169 already began with greed alone."},
+        {"q": "Where else in this series has this exact seventeen-item list of defilements "
+              "(greed plus these sixteen) already appeared?",
+         "opts": [
+             "Nowhere else",
+             "At AN 3.183–352 and AN 4.304–783, closing the Threes and the Fours with "
+             "structurally identical devices",
+             "Only within the Sixes itself",
+             "This is the list's first appearance anywhere"],
+         "correct": 1,
+         "expl": "The identical roster, reused wholesale for the same closing purpose across "
+                 "three separate nipātas."},
+        {"q": "How many total discourses does this page's single formula represent?",
+         "opts": [
+             "Twenty-seven",
+             "Four hundred eighty: sixteen defilements times ten verbs times three six-item "
+             "lists",
+             "Sixteen",
+             "Fifty-one"],
+         "correct": 1,
+         "expl": "The largest single combinatorial block in this entire collection."},
+        {"q": "What does the final line of this block announce?",
+         "opts": [
+             "The end of only this chapter",
+             "Chakkanipātapāḷi niṭṭhitā, 'the text of the Book of the Sixes is finished' "
+             "— the close of the entire nipāta",
+             "The beginning of a new nipāta within the same page",
+             "An error in transmission"],
+         "correct": 1,
+         "expl": "The collection read from AN 6.1 through this page, now complete."},
+        {"q": "How does this block's colophon compare to the Fours' own closing block's "
+              "colophon at AN 4.304–783, according to the guide?",
+         "opts": [
+             "Identical, including the same puzzling repeated paṇṇāsaka marker",
+             "Comparatively simple — no paṇṇāsaka marker appears here at all, unlike the "
+             "genuinely puzzling repetition the Fours' guide left honestly unresolved",
+             "This block has no colophon at all",
+             "This block's colophon is far more complex"],
+         "correct": 1,
+         "expl": "A simpler close, without the earlier nipāta's unresolved puzzle."},
+        {"q": "How many verbs does each of the sixteen defilements get crossed against on "
+              "this page?",
+         "opts": [
+             "Three",
+             "Ten: direct knowledge, complete understanding, complete ending, giving up, "
+             "ending, vanishing, fading away, cessation, giving away, and letting go",
+             "Twenty-seven",
+             "One"],
+         "correct": 1,
+         "expl": "The identical ten-verb sequence already run against greed across AN "
+                 "6.140–169."},
+        {"q": "What three six-item lists does every combination on this page ultimately "
+              "reduce to?",
+         "opts": [
+             "The five precepts, the ten courses of action, and the eightfold path",
+             "The unsurpassable things, the recollections, and the graduated perceptions",
+             "Three entirely new lists introduced only on this page",
+             "The four noble truths, repeated three times"],
+         "correct": 1,
+         "expl": "Given in full at AN 6.140–142, and assumed without restatement through "
+                 "every discourse since."},
+        {"q": "What nipāta comes next, after the Sixes conclude?",
+         "opts": [
+             "A return to the Fives",
+             "The Sattaka Nipāta, the Book of the Sevens",
+             "No further nipāta exists",
+             "The Fours, repeated"],
+         "correct": 1,
+         "expl": "The traditional sequence of nipātas by increasing numerical size."},
+    ],
+    "marginalia": [
+        ("Sixteen defilements, one list reused", [
+            "hate, delusion, anger...",
+            "identical to AN 3.183–352",
+            "and AN 4.304–783's roster",
+        ]),
+        ("The full arithmetic", [
+            "16 defilements &times; 10 verbs",
+            "&times; 3 lists = 480",
+        ]),
+        ("510 discourses total", [
+            "3 (AN 6.140–142) +",
+            "27 (AN 6.143–169) +",
+            "480 (this page) = 510",
+        ]),
+        ("The Sixes, finished", [
+            "Rāgapeyyālaṁ niṭṭhitaṁ —",
+            "Chakkanipātapāḷi",
+            "niṭṭhitā: the nipāta complete",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an6.170-649/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.143-169.html">AN 6.143&ndash;169 &middot; Untitled Discourses on '
+        "Greed, Etc.</a> &mdash; previous, the smaller block this page's apparatus continues "
+        "from.",
+        '<a href="an-4.304-783.html">AN 4.304&ndash;783 &middot; Insight into Hate, and So '
+        "On</a> &mdash; earlier nipāta, sharing this page's identical seventeen-item "
+        "defilement list.",
+    ],
+})
+
+
