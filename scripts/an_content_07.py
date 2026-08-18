@@ -13804,3 +13804,1917 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# AN 7.75-82: eight discourses built from only four distinct content
+# variants, crossed with two framing verbs (hoti "is" vs sobhati "shines
+# as"). All eight share four opening items (offense/not-offense/light/
+# serious) and a closing item (freed by wisdom); only items 5-6 vary:
+#   Variant A (75, 79): ethical, restrained in the monastic code
+#   Variant B (76, 80): both monastic codes mastered in detail
+#   Variant C (77, 81): firm and unfaltering in the training
+#   Variant D (78, 82): recollects past lives + clairvoyance -- this variant
+#     DROPS the "four absorptions at will" item entirely rather than adding
+#     a ninth item, unlike A/B/C which keep it as item 6. Worth flagging so
+#     as not to assume the four-jhana item is constant across all eight.
+# --------------------------------------------------------------------------- #
+VAGGA_8 = "<em>Vinayavagga</em> &mdash; the eighth chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.75 — Paṭhamavinayadharasutta
+# --------------------------------------------------------------------------- #
+page(
+    75, "Paṭhamavinayadhara", "An Expert in the Monastic Law (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.75 — An Expert in the Monastic Law (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamavinayadharasutta, opening a set of eight closely related "
+        "discourses on what makes a mendicant an expert in the monastic "
+        "law. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list of seven qualities, the "
+                 "first of eight closely related discourses in this "
+                 "chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Part of a set of eight", "AN 7.75-82 share four opening items and "
+                                   "a closing item; only one middle item "
+                                   "varies across four content variants, "
+                                   "each stated twice with a different verb "
+                                   "(&ldquo;is&rdquo; an expert here, "
+                                   "&ldquo;shines as&rdquo; one at AN "
+                                   "7.79-82)"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and formulaic, best read as part of its full set of "
+                       "eight"),
+    ],
+    why=(
+        "AN 7.75 opens a set of eight closely related discourses defining "
+        "an expert in the monastic law, naming four items every version in "
+        "the set shares, one item that varies across four content "
+        "variants, and a closing pair every version also shares &mdash; "
+        "here specifying ethical, restrained conduct as the variable item."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows what is and isn't an offense, knows "
+            "what is a light or a serious offense, is ethical and "
+            "restrained in the monastic code, gets the four absorptions at "
+            "will, and realizes undefiled freedom in this very life is an "
+            "expert in the monastic law."]),
+        ("Four items shared by all eight discourses in this set", [
+            "Knowing what is an offense, what is not an offense, what is a "
+            "light offense, and what is a serious offense open every one "
+            "of AN 7.75 through 7.82 identically &mdash; a foundation of "
+            "technical knowledge about the monastic code that every "
+            "version of &ldquo;expert in the monastic law&rdquo; in this "
+            "set requires."]),
+        ("One item that varies, four ways, across the set", [
+            "This discourse specifies the fifth item as being ethical, "
+            "restrained in the monastic code, conducting oneself well, "
+            "and seeing danger in the slightest fault &mdash; one of four "
+            "different fifth items this chapter cycles through across its "
+            "set of eight, the others being mastery of both monastic "
+            "codes in detail, being firm and unfaltering in training, and "
+            "recollecting past lives paired with clairvoyance."]),
+        ("A closing pair shared by all eight", [
+            "Getting the four absorptions at will and realizing undefiled "
+            "freedom of heart and wisdom in this very life close this "
+            "discourse and (with one exception among the set of eight, "
+            "noted at AN 7.78) every other version as well &mdash; "
+            "combining technical Vinaya knowledge with genuine meditative "
+            "and liberating attainment as what &ldquo;expert in the "
+            "monastic law&rdquo; actually requires, rather than legal "
+            "knowledge alone."]),
+    ],
+    terms=[
+        ("vinayadhara",
+         "&ldquo;an expert in the monastic law&rdquo; &mdash; this "
+         "discourse's own title and the quality all eight discourses in "
+         "this set define."),
+        ("āpatti, anāpatti",
+         "&ldquo;an offense&rdquo;, &ldquo;not an offense&rdquo; &mdash; "
+         "the first two of four opening items shared by all eight "
+         "discourses in this set."),
+        ("lahukā āpatti, garukā āpatti",
+         "&ldquo;a light offense&rdquo;, &ldquo;a serious offense&rdquo; "
+         "&mdash; the third and fourth shared opening items."),
+        ("sīlavā hoti pātimokkhasaṁvarasaṁvuto",
+         "&ldquo;ethical, restrained in the monastic code&rdquo; &mdash; "
+         "this discourse's own variant for the fifth, variable item."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the sixth item, shared by this discourse and most others "
+         "in the set."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of an expert in the monastic law"),
+        ("p", "&sect;1", "an7.75:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What four items open every one of AN 7.75 through 7.82 "
+              "identically?",
+         "opts": [
+             "The four absorptions",
+             "Knowing what is an offense, what is not an offense, what is "
+             "a light offense, and what is a serious offense",
+             "The four noble truths",
+             "The four kinds of sustenance"],
+         "correct": 1,
+         "expl": "A shared technical foundation across the entire set of "
+                 "eight discourses."},
+        {"q": "What does this specific discourse name as its fifth, "
+              "variable item?",
+         "opts": [
+             "Recollecting past lives",
+             "Being ethical, restrained in the monastic code, and seeing "
+             "danger in the slightest fault",
+             "Mastery of both monastic codes",
+             "Being firm and unfaltering in training"],
+         "correct": 1,
+         "expl": "One of four different fifth items this chapter's set of "
+                 "eight cycles through."},
+        {"q": "According to the guide, how many different content variants "
+              "does this fifth item cycle through across the full set of "
+              "eight discourses?",
+         "opts": ["Two", "Three", "Four", "Eight, all different"],
+         "correct": 2,
+         "expl": "Four distinct variants, each stated twice with a "
+                 "different framing verb."},
+        {"q": "What two items close this discourse?",
+         "opts": [
+             "The five lower fetters and non-return",
+             "Getting the four absorptions at will, and realizing "
+             "undefiled freedom of heart and wisdom in this very life",
+             "Wealth and long life",
+             "Knowing assemblies and knowing individuals"],
+         "correct": 1,
+         "expl": "A shared closing pair combining meditative attainment "
+                 "with genuine liberation."},
+        {"q": "According to the guide, is legal knowledge of the monastic "
+              "code alone enough to be called an expert in it here?",
+         "opts": [
+             "Yes, technical knowledge alone is sufficient",
+             "No — the discourse also requires genuine meditative and "
+             "liberating attainment",
+             "The discourse does not address this question",
+             "No, only meditative attainment matters, with no legal "
+             "knowledge required"],
+         "correct": 1,
+         "expl": "A combination of technical and attained qualities, not "
+                 "legal knowledge alone."},
+        {"q": "What framing verb does this discourse use, distinguishing "
+              "it from AN 7.79-82's otherwise similar discourses?",
+         "opts": [
+             "\"Shines as\" an expert",
+             "\"Is\" an expert",
+             "\"Becomes\" an expert",
+             "\"Claims to be\" an expert"],
+         "correct": 1,
+         "expl": "\"Is\" (hoti) here, versus \"shines as\" (sobhati) in the "
+                 "chapter's second set of four."},
+    ],
+    marginalia=[
+        ("Four shared, one varies", [
+            "offense, not-offense,",
+            "light, serious — then",
+            "one item that changes",
+        ]),
+        ("Four variants, twice each", [
+            "ethical conduct, mastery,",
+            "firmness, or past-life sight —",
+            "each stated is and shines-as",
+        ]),
+        ("Not legal knowledge alone", [
+            "technical Vinaya skill",
+            "paired with real",
+            "meditative attainment",
+        ]),
+        ("Cross-references", [
+            "AN 7.74 &middot; earlier, closing the previous chapter",
+            "AN 7.79 &middot; next but three, this same variant restated "
+            "with &ldquo;shines as&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.75/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.74.html">AN 7.74 &middot; About Araka</a> '
+        "&mdash; previous, closing the previous chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.76 — Dutiyavinayadharasutta
+# --------------------------------------------------------------------------- #
+page(
+    76, "Dutiyavinayadhara", "An Expert in the Monastic Law (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.76 — An Expert in the Monastic Law (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyavinayadharasutta, the second of eight closely related "
+        "discourses, this one specifying mastery of both monastic codes as "
+        "its variable item. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, sharing four opening items "
+                 "and a closing pair with AN 7.75, differing only in its "
+                 "fifth item"),
+        ("Length", "under 1 minute to read"),
+        ("Part of a set of eight", "This discourse gives the second of "
+                                   "four content variants for the fifth "
+                                   "item in AN 7.75-82's set, here mastery "
+                                   "of both monastic codes"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and formulaic, best read alongside AN 7.75 for the "
+                       "shared structure"),
+    ],
+    why=(
+        "AN 7.76 restates AN 7.75's structure with a different fifth item: "
+        "instead of ethical restraint, this discourse specifies that both "
+        "monastic codes have been passed down in detail, well analyzed, "
+        "well mastered, and well evaluated, both in their rules and "
+        "accompanying material."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, has "
+            "thoroughly mastered both monastic codes in detail, gets the "
+            "four absorptions at will, and realizes undefiled freedom in "
+            "this very life is an expert in the monastic law."]),
+        ("The same four opening items as AN 7.75", [
+            "Knowing what is an offense, what is not, what is light, and "
+            "what is serious open this discourse identically to AN 7.75 "
+            "and every other discourse in this set of eight &mdash; the "
+            "shared technical foundation this chapter builds each variant "
+            "on top of."]),
+        ("This variant's own fifth item: mastery of both codes", [
+            "Where AN 7.75 named ethical restraint, this discourse instead "
+            "specifies textual mastery: both monastic codes &mdash; for "
+            "monks and for nuns &mdash; passed down in detail, well "
+            "analyzed, well mastered, and well evaluated, in both their "
+            "rules and their accompanying explanatory material. This shifts "
+            "the emphasis from lived restraint toward comprehensive "
+            "textual command of the law itself."]),
+        ("The same closing pair as AN 7.75", [
+            "Getting the four absorptions at will and realizing undefiled "
+            "freedom of heart and wisdom in this very life close this "
+            "discourse exactly as they closed AN 7.75, confirming that "
+            "whichever fifth item a version of this set names, the "
+            "requirement for genuine meditative and liberating attainment "
+            "stays constant."]),
+    ],
+    terms=[
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the four opening items shared with AN "
+         "7.75 and every other discourse in this set."),
+        ("ubhayāni pātimokkhāni vitthārena svāgatāni",
+         "&ldquo;both monastic codes... passed down in detail&rdquo; "
+         "&mdash; this discourse's own variant for the fifth item, "
+         "specifying textual mastery."),
+        ("suvibhattāni, suppavattīni, suvinicchitāni",
+         "&ldquo;well analyzed, well mastered, well evaluated&rdquo; "
+         "&mdash; the threefold description of how thoroughly both codes "
+         "must be known."),
+        ("suttaso anubyañjanaso",
+         "&ldquo;in both the rules and accompanying material&rdquo; "
+         "&mdash; specifying that mastery extends beyond the bare rules "
+         "themselves to their explanatory detail."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the shared sixth item, identical to AN 7.75's."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of an expert in the monastic law"),
+        ("p", "&sect;1", "an7.76:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's fifth item differ from AN 7.75's?",
+         "opts": [
+             "It is identical to AN 7.75's",
+             "It specifies mastery of both monastic codes in detail, rather "
+             "than ethical restraint",
+             "It specifies recollection of past lives",
+             "It removes the fifth item entirely"],
+         "correct": 1,
+         "expl": "A shift from lived restraint to comprehensive textual "
+                 "mastery."},
+        {"q": "What does \"both monastic codes\" refer to?",
+         "opts": [
+             "Two versions of the same rule",
+             "The codes for monks and for nuns",
+             "Ancient and modern versions of the Vinaya",
+             "Two unrelated legal systems"],
+         "correct": 1,
+         "expl": "The parallel codes governing the two branches of the "
+                 "monastic community."},
+        {"q": "What three qualities describe how thoroughly both codes "
+              "must be known, according to this discourse?",
+         "opts": [
+             "Quickly, casually, and partially",
+             "Well analyzed, well mastered, well evaluated",
+             "Loudly, publicly, and repeatedly",
+             "Secretly, individually, and privately"],
+         "correct": 1,
+         "expl": "A threefold description of comprehensive textual "
+                 "command."},
+        {"q": "Do the four opening items and closing pair differ from AN "
+              "7.75's?",
+         "opts": [
+             "Yes, completely different",
+             "No — they are identical; only the fifth item changes",
+             "Only the opening items differ",
+             "Only the closing pair differs"],
+         "correct": 1,
+         "expl": "A shared frame across the set, with only the middle item "
+                 "varying."},
+        {"q": "What does \"in both the rules and accompanying material\" "
+              "specify about this mastery?",
+         "opts": [
+             "That only the bare rules need be known",
+             "That mastery extends beyond the bare rules to their "
+             "explanatory detail as well",
+             "That the rules and material are unrelated",
+             "That accompanying material is optional"],
+         "correct": 1,
+         "expl": "A comprehensive standard, not limited to the rules alone."},
+        {"q": "What is this discourse's relationship to AN 7.80?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical content variant, restated there with "
+             "\"shines as\" instead of \"is\"",
+             "A direct contradiction",
+             "AN 7.80 uses a completely different fifth item"],
+         "correct": 1,
+         "expl": "The same variant, appearing a second time with a "
+                 "different framing verb."},
+    ],
+    marginalia=[
+        ("Textual mastery, this time", [
+            "both monastic codes,",
+            "rules and their detail,",
+            "well analyzed throughout",
+        ]),
+        ("Four shared, one changed", [
+            "same opening items,",
+            "same closing pair —",
+            "only the fifth item shifts",
+        ]),
+        ("A different emphasis", [
+            "not lived restraint,",
+            "but comprehensive",
+            "command of the texts themselves",
+        ]),
+        ("Cross-references", [
+            "AN 7.75 &middot; previous, this set's first variant",
+            "AN 7.80 &middot; next but three, this same variant restated "
+            "with &ldquo;shines as&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.76/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.75.html">AN 7.75 &middot; An Expert in the Monastic '
+        "Law (1st)</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.77 — Tatiyavinayadharasutta
+# --------------------------------------------------------------------------- #
+page(
+    77, "Tatiyavinayadhara", "An Expert in the Monastic Law (3rd)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.77 — An Expert in the Monastic Law (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyavinayadharasutta, the third of eight closely related "
+        "discourses, this one specifying being firm and unfaltering in "
+        "training. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, sharing four opening items "
+                 "and a closing pair with AN 7.75-76, differing only in "
+                 "its fifth item"),
+        ("Length", "under 1 minute to read"),
+        ("Part of a set of eight", "This discourse gives the third of "
+                                   "four content variants for the fifth "
+                                   "item, here being firm and unfaltering "
+                                   "in the training"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "shortest and most compact of this set's four "
+                       "variants"),
+    ],
+    why=(
+        "AN 7.77 gives the third of this chapter's four fifth-item "
+        "variants: rather than ethical restraint or textual mastery, this "
+        "discourse simply names being firm and unfaltering in the "
+        "training itself &mdash; the most compact of the four."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, is "
+            "firm and unfaltering in the training, gets the four "
+            "absorptions at will, and realizes undefiled freedom in this "
+            "very life is an expert in the monastic law."]),
+        ("The same shared frame", [
+            "The four opening items and the closing pair of four "
+            "absorptions and undefiled freedom are identical to AN 7.75 "
+            "and AN 7.76 &mdash; this discourse's only distinctive content "
+            "is its fifth item."]),
+        ("The most compact of the four variants", [
+            "Where AN 7.75 described ethical restraint at some length and "
+            "AN 7.76 described textual mastery in three qualifying terms, "
+            "this discourse's fifth item is the shortest of the set: "
+            "simply firm and unfaltering (ṭhito, asaṁhīro) in the "
+            "training, without further elaboration &mdash; a quality of "
+            "steadiness itself, rather than any specific content being "
+            "steady about."]),
+        ("Steadiness as its own distinct quality", [
+            "Placed alongside ethical restraint and textual mastery, "
+            "firmness in training reads as a third, distinct axis: not "
+            "what a mendicant knows or how they behave in specific "
+            "situations, but whether their commitment to training itself "
+            "holds steady under pressure &mdash; a quality that could, in "
+            "principle, accompany either of the other two variants without "
+            "being reducible to them."]),
+    ],
+    terms=[
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items."),
+        ("vinaye ṭhito hoti asaṁhīro",
+         "&ldquo;firm and unfaltering in the training&rdquo; &mdash; this "
+         "discourse's own fifth item, the shortest of the set's four "
+         "variants."),
+        ("asaṁhīro",
+         "&ldquo;unfaltering&rdquo;, more literally &ldquo;not to be "
+         "carried away or shaken&rdquo; &mdash; the specific quality of "
+         "steadiness this item names."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the shared sixth item."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; &mdash; the "
+         "shared closing attainment, undefiled and realized in this very "
+         "life."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of an expert in the monastic law"),
+        ("p", "&sect;1", "an7.77:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's fifth item?",
+         "opts": [
+             "Mastery of both monastic codes",
+             "Being firm and unfaltering in the training",
+             "Recollecting past lives",
+             "Ethical restraint in the monastic code"],
+         "correct": 1,
+         "expl": "The third of four variants, and the most compact."},
+        {"q": "How does this discourse's fifth item compare in length to "
+              "AN 7.75's and AN 7.76's, according to the guide?",
+         "opts": [
+             "It is the longest of the three",
+             "It is the shortest — a single quality of steadiness, without "
+             "further elaboration",
+             "They are all exactly the same length",
+             "This discourse has no fifth item at all"],
+         "correct": 1,
+         "expl": "A compact quality of firmness, contrasted with the "
+                 "fuller descriptions in AN 7.75 and 7.76."},
+        {"q": "According to the guide, what kind of quality is firmness in "
+              "training, as distinct from ethical restraint or textual "
+              "mastery?",
+         "opts": [
+             "Identical to ethical restraint",
+             "A distinct axis — steadiness of commitment itself, rather "
+             "than specific knowledge or behavior",
+             "Identical to textual mastery",
+             "Not actually a quality at all"],
+         "correct": 1,
+         "expl": "A quality about steadiness under pressure, not about "
+                 "specific content known or done."},
+        {"q": "What four items open this discourse, shared with the rest "
+              "of the set?",
+         "opts": [
+             "The four noble truths",
+             "Knowing what is an offense, not an offense, light, and "
+             "serious",
+             "The four absorptions",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "The shared technical foundation across all eight "
+                 "discourses in this set."},
+        {"q": "What is this discourse's relationship to AN 7.81?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical content variant, restated there with "
+             "\"shines as\" instead of \"is\"",
+             "A direct contradiction",
+             "AN 7.81 uses a different fifth item"],
+         "correct": 1,
+         "expl": "The same variant, appearing again with a different "
+                 "framing verb."},
+        {"q": "What two items close this discourse?",
+         "opts": [
+             "The four absorptions at will, and undefiled freedom of heart "
+             "and wisdom realized in this very life",
+             "The five lower fetters and non-return",
+             "Wealth and a good rebirth",
+             "Knowing assemblies and knowing individuals"],
+         "correct": 0,
+         "expl": "The shared closing pair across this entire set of eight."},
+    ],
+    marginalia=[
+        ("The shortest variant", [
+            "just firm, unfaltering —",
+            "no further elaboration",
+            "needed for this item",
+        ]),
+        ("A third distinct axis", [
+            "not knowledge, not conduct,",
+            "but steadiness itself,",
+            "under whatever pressure comes",
+        ]),
+        ("Same frame, third fifth item", [
+            "four opening items,",
+            "closing pair unchanged —",
+            "only this one item shifts",
+        ]),
+        ("Cross-references", [
+            "AN 7.76 &middot; previous, this set's second variant",
+            "AN 7.81 &middot; next but three, this same variant restated "
+            "with &ldquo;shines as&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.77/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.76.html">AN 7.76 &middot; An Expert in the Monastic '
+        "Law (2nd)</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.78 — Catutthavinayadharasutta
+#
+# The one variant that DROPS the "four absorptions at will" item rather than
+# adding a ninth: past-life recollection and clairvoyance take BOTH the
+# fifth and sixth slots, so this discourse's seven items run offense/not-
+# offense/light/serious/past-lives/clairvoyance/freed-by-wisdom, with no
+# separate four-jhānas item at all.
+# --------------------------------------------------------------------------- #
+page(
+    78, "Catutthavinayadhara", "An Expert in the Monastic Law (4th)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.78 — An Expert in the Monastic Law (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Catutthavinayadharasutta, the fourth and most different of this "
+        "chapter's set of eight, replacing the four-absorptions item with "
+        "past-life recollection and clairvoyance. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, sharing four opening items "
+                 "with AN 7.75-77 but structurally different in its "
+                 "middle: two items replace what is elsewhere a single "
+                 "fifth item plus a separate four-absorptions item"),
+        ("Length", "under 1 minute to read"),
+        ("The set's real outlier", "Unlike AN 7.75-77's fifth-item "
+                                   "variants, which all keep the four-"
+                                   "absorptions item as a separate sixth "
+                                   "item, this discourse's past-life "
+                                   "recollection and clairvoyance together "
+                                   "occupy both the fifth and sixth slots, "
+                                   "dropping the four-absorptions item "
+                                   "entirely"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "but structurally distinct from its three siblings, "
+                       "worth checking carefully rather than assuming it "
+                       "simply swaps one word"),
+    ],
+    why=(
+        "AN 7.78 gives the fourth and structurally most different of this "
+        "chapter's variants: rather than adding recollection of past lives "
+        "and clairvoyance as one more item alongside the four absorptions, "
+        "this discourse uses them to fill both the fifth and sixth slots, "
+        "dropping the four-absorptions item that every other discourse in "
+        "this set of eight keeps."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, "
+            "recollects their many past lives in detail, understands with "
+            "clairvoyance how beings pass on according to their deeds, and "
+            "realizes undefiled freedom in this very life is an expert in "
+            "the monastic law &mdash; with no separate mention of the four "
+            "absorptions at all."]),
+        ("The same four opening items, then a real structural difference", [
+            "Knowing what is an offense, what is not, what is light, and "
+            "what is serious open this discourse exactly as they open AN "
+            "7.75-77. But where those three discourses each name one "
+            "fifth item and then add the four absorptions as a separate "
+            "sixth item, this discourse instead gives recollection of past "
+            "lives as its fifth item and clairvoyance as its sixth "
+            "&mdash; two of the higher knowledges standing in for both "
+            "slots at once, with no room left for the four-absorptions "
+            "item its siblings all share."]),
+        ("Two higher knowledges, not one variable quality", [
+            "Recollecting many kinds of past lives, complete with features "
+            "and details, and understanding through purified, superhuman "
+            "clairvoyance how sentient beings are reborn according to "
+            "their deeds are both counted among the higher knowledges "
+            "(abhiññā) elsewhere in the canon &mdash; here paired together "
+            "as what distinguishes this fourth variant from its three "
+            "siblings, rather than either one alone filling the usual "
+            "single variable slot."]),
+        ("Why this variant reads differently from the other three", [
+            "AN 7.75-77's three variants all describe qualities a "
+            "mendicant might cultivate through ethical and meditative "
+            "discipline in fairly ordinary terms &mdash; restraint, "
+            "textual mastery, firmness. This fourth variant instead "
+            "reaches for two specifically supernormal knowledges, giving "
+            "this discourse's picture of an &ldquo;expert in the monastic "
+            "law&rdquo; a noticeably different, more exalted character "
+            "than its three siblings."]),
+    ],
+    terms=[
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items."),
+        ("anekavihitaṁ pubbenivāsaṁ anussarati",
+         "&ldquo;recollects their many kinds of past lives, with features "
+         "and details&rdquo; &mdash; this discourse's fifth item, filling "
+         "the slot that ethical restraint, textual mastery, or firmness "
+         "occupy in the other three variants."),
+        ("dibbena cakkhunā visuddhena atikkantamānusakena",
+         "&ldquo;with clairvoyance that is purified and "
+         "superhuman&rdquo; &mdash; this discourse's sixth item, replacing "
+         "the four-absorptions item found in AN 7.75-77."),
+        ("yathākammūpage satte pajānāti",
+         "&ldquo;understands how sentient beings pass on according to "
+         "their deeds&rdquo; &mdash; what the clairvoyance in this "
+         "discourse's sixth item actually discerns."),
+        ("abhiññā",
+         "&ldquo;higher knowledge&rdquo; &mdash; the broader canonical "
+         "category both past-life recollection and clairvoyance belong "
+         "to, not named explicitly in this discourse's own text but "
+         "useful context for its two central items."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of an expert in the monastic law"),
+        ("p", "&sect;1", "an7.78:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What are this discourse's fifth and sixth items?",
+         "opts": [
+             "Ethical restraint and the four absorptions",
+             "Recollecting past lives, and clairvoyance discerning how "
+             "beings are reborn according to their deeds",
+             "Textual mastery and firmness in training",
+             "The five lower fetters and non-return"],
+         "correct": 1,
+         "expl": "Two higher knowledges, together replacing the pattern "
+                 "found in this set's other three variants."},
+        {"q": "According to the guide, how does this discourse structurally "
+              "differ from AN 7.75-77?",
+         "opts": [
+             "It is structurally identical, only swapping one word",
+             "Its two items fill both the fifth and sixth slots, dropping "
+             "the four-absorptions item that AN 7.75-77 all keep as a "
+             "separate sixth item",
+             "It has no fifth or sixth item at all",
+             "It adds a ninth item rather than replacing anything"],
+         "correct": 1,
+         "expl": "A genuine structural difference, not just a substituted "
+                 "word."},
+        {"q": "Is the four-absorptions item present anywhere in this "
+              "discourse?",
+         "opts": [
+             "Yes, exactly as in AN 7.75-77",
+             "No — it is dropped entirely, replaced by two higher-"
+             "knowledge items instead",
+             "It appears twice",
+             "The discourse does not mention absorption at all, even "
+             "implicitly"],
+         "correct": 1,
+         "expl": "A real absence, not merely a different phrasing of the "
+                 "same content."},
+        {"q": "What broader canonical category do past-life recollection "
+              "and clairvoyance both belong to, according to the guide?",
+         "opts": [
+             "The five lower fetters",
+             "The higher knowledges (abhiññā)",
+             "The four undeclared points",
+             "The seven awakening factors"],
+         "correct": 1,
+         "expl": "A recognized category of supernormal attainments, though "
+                 "not named explicitly within this discourse's own text."},
+        {"q": "According to the guide, what character does this variant "
+              "give to \"expert in the monastic law\" compared to its "
+              "three siblings?",
+         "opts": [
+             "An identical, unremarkable character",
+             "A noticeably more exalted character, reaching for "
+             "specifically supernormal knowledges rather than ordinary "
+             "ethical or meditative discipline",
+             "A less demanding character than the other three",
+             "No character at all; the discourse is purely technical"],
+         "correct": 1,
+         "expl": "A shift toward the supernormal, distinct from the more "
+                 "ordinary qualities described elsewhere in the set."},
+        {"q": "What is this discourse's relationship to AN 7.82?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical content variant, restated there with "
+             "\"shines as\" instead of \"is\"",
+             "A direct contradiction",
+             "AN 7.82 restores the four-absorptions item"],
+         "correct": 1,
+         "expl": "The same structurally distinct variant, appearing again "
+                 "with a different framing verb."},
+    ],
+    marginalia=[
+        ("Two knowledges, not one item", [
+            "past lives recollected,",
+            "clairvoyance discerning",
+            "how beings are reborn",
+        ]),
+        ("The four absorptions, missing", [
+            "unlike its three siblings,",
+            "this variant drops that item",
+            "entirely, without replacement",
+        ]),
+        ("A more exalted picture", [
+            "not ordinary restraint",
+            "or textual mastery —",
+            "specifically supernormal knowledge",
+        ]),
+        ("Cross-references", [
+            "AN 7.77 &middot; previous, this set's third variant",
+            "AN 7.82 &middot; next but three, this same variant restated "
+            "with &ldquo;shines as&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.78/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.77.html">AN 7.77 &middot; An Expert in the Monastic '
+        "Law (3rd)</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.79 — Paṭhamavinayadharasobhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    79, "Paṭhamavinayadharasobhana", "Shines as an Expert in the Monastic Law (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.79 — Shines as an Expert in the Monastic Law (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamavinayadharasobhanasutta, restating AN 7.75's ethical-"
+        "restraint variant with &ldquo;shines as&rdquo; in place of "
+        "&ldquo;is&rdquo;. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, word for word identical "
+                 "to AN 7.75 except for one verb"),
+        ("Length", "under 1 minute to read"),
+        ("One word changed", "This discourse's only difference from AN "
+                             "7.75 is its verb: sobhati, &ldquo;shines "
+                             "as&rdquo;, in place of hoti, &ldquo;"
+                             "is&rdquo; &mdash; opening this chapter's "
+                             "second set of four otherwise identical "
+                             "discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "simplest possible variation on an already brief "
+                       "discourse"),
+    ],
+    why=(
+        "AN 7.79 restates AN 7.75's ethical-restraint variant word for "
+        "word, changing only its governing verb from &ldquo;is&rdquo; an "
+        "expert in the monastic law to &ldquo;shines as&rdquo; one, "
+        "opening this chapter's second set of four discourses."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, is "
+            "ethical and restrained in the monastic code, gets the four "
+            "absorptions at will, and realizes undefiled freedom in this "
+            "very life shines as an expert in the monastic law."]),
+        ("Identical content to AN 7.75, one verb changed", [
+            "Every item in this discourse &mdash; the four opening "
+            "categories of offense, ethical restraint as the fifth item, "
+            "the four absorptions, and undefiled freedom &mdash; is word "
+            "for word identical to AN 7.75. The only change is the closing "
+            "and opening verb: sobhati, &ldquo;shines as&rdquo;, replacing "
+            "hoti, &ldquo;is&rdquo;."]),
+        ("What the shift from &ldquo;is&rdquo; to &ldquo;shines as&rdquo; "
+         "suggests", [
+            "&ldquo;Is&rdquo; states a simple fact of classification; "
+            "&ldquo;shines as&rdquo; adds a visible, radiant quality to "
+            "that same fact &mdash; suggesting not just that these seven "
+            "qualities qualify someone as an expert, but that possessing "
+            "them makes that expertise outwardly evident, recognizable to "
+            "others rather than merely true in some private sense."]),
+        ("A second set of four, mirroring the first exactly", [
+            "This discourse opens AN 7.79-82 as an exact structural mirror "
+            "of AN 7.75-78: the same four content variants, in the same "
+            "order, differing from their counterparts by this single verb "
+            "alone &mdash; confirming that this chapter's repetition is "
+            "deliberate and systematic rather than incidental."]),
+    ],
+    terms=[
+        ("sobhati",
+         "&ldquo;shines as&rdquo; &mdash; this discourse's own governing "
+         "verb, replacing AN 7.75's hoti, &ldquo;is&rdquo;."),
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items, identical "
+         "to AN 7.75."),
+        ("sīlavā hoti pātimokkhasaṁvarasaṁvuto",
+         "&ldquo;ethical, restrained in the monastic code&rdquo; &mdash; "
+         "this discourse's fifth item, identical to AN 7.75's."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the shared sixth item."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; &mdash; the "
+         "shared closing attainment."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of one who shines as an expert in the "
+               "monastic law"),
+        ("p", "&sect;1", "an7.79:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is the only difference between this discourse and AN "
+              "7.75?",
+         "opts": [
+             "Entirely different content",
+             "A single governing verb — \"shines as\" (sobhati) in place "
+             "of \"is\" (hoti)",
+             "A different fifth item",
+             "A different closing pair"],
+         "correct": 1,
+         "expl": "Word-for-word identical content apart from this one "
+                 "verb."},
+        {"q": "According to the guide, what does the shift from "
+              "\"is\" to \"shines as\" suggest?",
+         "opts": [
+             "Nothing different at all",
+             "That possessing these qualities makes the expertise "
+             "outwardly evident and recognizable to others, not just "
+             "privately true",
+             "That the qualities themselves are different",
+             "That this discourse contradicts AN 7.75"],
+         "correct": 1,
+         "expl": "A visible, radiant quality added to the same underlying "
+                 "classification."},
+        {"q": "What is this discourse's fifth item?",
+         "opts": [
+             "Firmness in training",
+             "Ethical, restrained conduct in the monastic code",
+             "Recollecting past lives",
+             "Mastery of both monastic codes"],
+         "correct": 1,
+         "expl": "The same ethical-restraint variant as AN 7.75."},
+        {"q": "How does this discourse relate to the structure of AN "
+              "7.75-78?",
+         "opts": [
+             "It bears no relation to them",
+             "It opens an exact structural mirror of that set, with the "
+             "same four content variants in the same order",
+             "It introduces entirely new content variants",
+             "It combines all four variants into one discourse"],
+         "correct": 1,
+         "expl": "A systematic second pass through the same four variants."},
+        {"q": "What four items open this discourse?",
+         "opts": [
+             "The four noble truths",
+             "Knowing what is an offense, not an offense, light, and "
+             "serious",
+             "The four right efforts",
+             "The four kinds of sustenance"],
+         "correct": 1,
+         "expl": "The shared opening across all eight discourses in this "
+                 "set."},
+        {"q": "According to the guide, is this chapter's repetition "
+              "accidental?",
+         "opts": [
+             "Yes, entirely accidental",
+             "No — the systematic pairing of four variants with two verbs "
+             "confirms it is deliberate",
+             "The guide does not address this",
+             "The repetition is a translation error"],
+         "correct": 1,
+         "expl": "A deliberate, systematic structure across all eight "
+                 "discourses."},
+    ],
+    marginalia=[
+        ("One verb, changed", [
+            "\"is\" becomes \"shines as\" —",
+            "otherwise identical",
+            "to AN 7.75",
+        ]),
+        ("Visible, not just true", [
+            "shines as suggests",
+            "outward recognition,",
+            "not private classification alone",
+        ]),
+        ("A second set of four begins", [
+            "the same four variants,",
+            "same order, mirrored",
+            "with this one changed word",
+        ]),
+        ("Cross-references", [
+            "AN 7.78 &middot; previous, closing the first set of four",
+            "AN 7.75 &middot; earlier, the identical content with "
+            "&ldquo;is&rdquo; in place of &ldquo;shines as&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.79/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.78.html">AN 7.78 &middot; An Expert in the Monastic '
+        "Law (4th)</a> &mdash; previous.",
+        '<a href="an-7.75.html">AN 7.75 &middot; An Expert in the Monastic '
+        "Law (1st)</a> &mdash; earlier, the identical content with "
+        "&ldquo;is&rdquo; in place of &ldquo;shines as&rdquo;.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.80 — Dutiyavinayadharasobhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    80, "Dutiyavinayadharasobhana", "Shines as an Expert in the Monastic Law (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.80 — Shines as an Expert in the Monastic Law (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyavinayadharasobhanasutta, restating AN 7.76's textual-"
+        "mastery variant with &ldquo;shines as&rdquo; in place of "
+        "&ldquo;is&rdquo;. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, word for word identical "
+                 "to AN 7.76 except for one verb"),
+        ("Length", "under 1 minute to read"),
+        ("One word changed", "Identical to AN 7.76's textual-mastery "
+                             "variant, with sobhati, &ldquo;shines "
+                             "as&rdquo;, replacing hoti, &ldquo;is&rdquo;"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "identical in difficulty to its counterpart, AN "
+                       "7.76"),
+    ],
+    why=(
+        "AN 7.80 restates AN 7.76's textual-mastery variant &mdash; both "
+        "monastic codes passed down in detail, well analyzed, well "
+        "mastered, well evaluated &mdash; with &ldquo;shines as&rdquo; in "
+        "place of &ldquo;is&rdquo;, the second discourse in this chapter's "
+        "mirrored second set of four."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, has "
+            "mastered both monastic codes in detail, gets the four "
+            "absorptions at will, and realizes undefiled freedom in this "
+            "very life shines as an expert in the monastic law."]),
+        ("Identical content to AN 7.76, one verb changed", [
+            "Every item here &mdash; the four opening categories, "
+            "thorough mastery of both codes as the fifth item, the four "
+            "absorptions, and undefiled freedom &mdash; matches AN 7.76 "
+            "word for word, differing only in its governing verb."]),
+        ("The second of four variants, now in its second telling", [
+            "Where AN 7.79 restated the ethical-restraint variant, this "
+            "discourse restates the textual-mastery variant: both codes "
+            "well analyzed, well mastered, well evaluated, in both rules "
+            "and accompanying material &mdash; the same emphasis on "
+            "comprehensive textual command as AN 7.76, now paired with "
+            "&ldquo;shines as&rdquo; rather than &ldquo;is&rdquo;."]),
+        ("Confirming the set's systematic structure", [
+            "Taken together, AN 7.75-76 and AN 7.79-80 form a clean "
+            "two-by-two structure: two content variants (ethical restraint, "
+            "textual mastery), each stated with both governing verbs "
+            "&mdash; a pattern that continues through the remaining two "
+            "variants at AN 7.77-78 and AN 7.81-82."]),
+    ],
+    terms=[
+        ("sobhati",
+         "&ldquo;shines as&rdquo; &mdash; this discourse's governing "
+         "verb, matching AN 7.79's and AN 7.81-82's."),
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items."),
+        ("ubhayāni pātimokkhāni vitthārena svāgatāni",
+         "&ldquo;both monastic codes... passed down in detail&rdquo; "
+         "&mdash; this discourse's fifth item, identical to AN 7.76's."),
+        ("suvibhattāni, suppavattīni, suvinicchitāni",
+         "&ldquo;well analyzed, well mastered, well evaluated&rdquo; "
+         "&mdash; the threefold description of textual command, shared "
+         "with AN 7.76."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the shared sixth item."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of one who shines as an expert in the "
+               "monastic law"),
+        ("p", "&sect;1", "an7.80:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's fifth item?",
+         "opts": [
+             "Ethical restraint",
+             "Mastery of both monastic codes in detail",
+             "Firmness in training",
+             "Recollecting past lives"],
+         "correct": 1,
+         "expl": "The same textual-mastery variant as AN 7.76."},
+        {"q": "What is the only difference between this discourse and AN "
+              "7.76?",
+         "opts": [
+             "Entirely different content",
+             "A single governing verb — \"shines as\" in place of \"is\"",
+             "A different fifth item",
+             "The four opening items differ"],
+         "correct": 1,
+         "expl": "Word-for-word identical apart from this one verb."},
+        {"q": "According to the guide, what two-by-two structure do AN "
+              "7.75-76 and 7.79-80 together form?",
+         "opts": [
+             "No structure at all — random repetition",
+             "Two content variants, each stated with both governing verbs "
+             "(\"is\" and \"shines as\")",
+             "Four unrelated content variants",
+             "A single variant repeated four times identically"],
+         "correct": 1,
+         "expl": "A systematic crossing of two variants with two verbs."},
+        {"q": "What three qualities describe the thoroughness of textual "
+              "mastery in this discourse?",
+         "opts": [
+             "Quick, casual, and partial",
+             "Well analyzed, well mastered, well evaluated",
+             "Loud, public, and repeated",
+             "Secret, individual, and private"],
+         "correct": 1,
+         "expl": "The same threefold description as AN 7.76."},
+        {"q": "What is this discourse's relationship to the remaining two "
+              "variants at AN 7.77-78 and 7.81-82?",
+         "opts": [
+             "Unrelated entirely",
+             "The same systematic pattern continues through those "
+             "variants as well",
+             "Those variants use a completely different structure",
+             "This discourse replaces the need for those variants"],
+         "correct": 1,
+         "expl": "A consistent pattern spanning the entire set of eight."},
+        {"q": "What four items open this discourse, shared across the "
+              "entire set of eight?",
+         "opts": [
+             "The four noble truths",
+             "Knowing what is an offense, not an offense, light, and "
+             "serious",
+             "The four right efforts",
+             "The four bases of psychic power"],
+         "correct": 1,
+         "expl": "The shared technical foundation across all eight "
+                 "discourses."},
+    ],
+    marginalia=[
+        ("Textual mastery, restated", [
+            "same three qualities —",
+            "analyzed, mastered, evaluated —",
+            "now with \"shines as\"",
+        ]),
+        ("A two-by-two structure", [
+            "two variants so far,",
+            "each with both verbs —",
+            "confirming the pattern is deliberate",
+        ]),
+        ("Second of four, second telling", [
+            "AN 7.76's content,",
+            "restated here",
+            "with one word changed",
+        ]),
+        ("Cross-references", [
+            "AN 7.79 &middot; previous, this set's first variant restated",
+            "AN 7.76 &middot; earlier, the identical content with "
+            "&ldquo;is&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.80/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.79.html">AN 7.79 &middot; Shines as an Expert in '
+        "the Monastic Law (1st)</a> &mdash; previous.",
+        '<a href="an-7.76.html">AN 7.76 &middot; An Expert in the Monastic '
+        "Law (2nd)</a> &mdash; earlier, the identical content with "
+        "&ldquo;is&rdquo;.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.81 — Tatiyavinayadharasobhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    81, "Tatiyavinayadharasobhana", "Shines as an Expert in the Monastic Law (3rd)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.81 — Shines as an Expert in the Monastic Law (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyavinayadharasobhanasutta, restating AN 7.77's firmness "
+        "variant with &ldquo;shines as&rdquo; in place of &ldquo;is&rdquo;. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, word for word identical "
+                 "to AN 7.77 except for one verb"),
+        ("Length", "under 1 minute to read"),
+        ("One word changed", "Identical to AN 7.77's firmness variant, "
+                             "with sobhati, &ldquo;shines as&rdquo;, "
+                             "replacing hoti, &ldquo;is&rdquo;"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "shortest variant, restated"),
+    ],
+    why=(
+        "AN 7.81 restates AN 7.77's most compact variant &mdash; simply "
+        "firm and unfaltering in the training &mdash; with &ldquo;shines "
+        "as&rdquo; in place of &ldquo;is&rdquo;, the third discourse in "
+        "this chapter's mirrored second set of four."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, is "
+            "firm and unfaltering in the training, gets the four "
+            "absorptions at will, and realizes undefiled freedom in this "
+            "very life shines as an expert in the monastic law."]),
+        ("Identical content to AN 7.77, one verb changed", [
+            "This discourse's fifth item &mdash; firm and unfaltering in "
+            "the training, without further elaboration &mdash; matches AN "
+            "7.77's exactly, as do the shared four opening items and the "
+            "closing pair; only the governing verb changes."]),
+        ("The third of four variants, restated", [
+            "Following AN 7.79's restatement of ethical restraint and AN "
+            "7.80's restatement of textual mastery, this discourse "
+            "restates the firmness variant &mdash; the shortest and most "
+            "compact of the set's four, now appearing a second time."]),
+        ("One variant left to complete the mirror", [
+            "With this discourse, three of the four content variants have "
+            "now each appeared twice; only the fourth &mdash; past-life "
+            "recollection paired with clairvoyance, and structurally "
+            "distinct from the other three &mdash; remains to complete "
+            "this chapter's systematic set of eight at AN 7.82."]),
+    ],
+    terms=[
+        ("sobhati",
+         "&ldquo;shines as&rdquo; &mdash; this discourse's governing "
+         "verb, matching AN 7.79-80's and AN 7.82's."),
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items."),
+        ("vinaye ṭhito hoti asaṁhīro",
+         "&ldquo;firm and unfaltering in the training&rdquo; &mdash; this "
+         "discourse's fifth item, identical to AN 7.77's."),
+        ("catunnaṁ jhānānaṁ... nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want&rdquo; "
+         "&mdash; the shared sixth item."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; &mdash; the "
+         "shared closing attainment."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of one who shines as an expert in the "
+               "monastic law"),
+        ("p", "&sect;1", "an7.81:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's fifth item?",
+         "opts": [
+             "Mastery of both monastic codes",
+             "Being firm and unfaltering in the training",
+             "Recollecting past lives",
+             "Ethical restraint"],
+         "correct": 1,
+         "expl": "The same firmness variant as AN 7.77."},
+        {"q": "What is the only difference between this discourse and AN "
+              "7.77?",
+         "opts": [
+             "Entirely different content",
+             "A single governing verb — \"shines as\" in place of \"is\"",
+             "A different closing pair",
+             "The four opening items differ"],
+         "correct": 1,
+         "expl": "Word-for-word identical apart from this one verb."},
+        {"q": "According to the guide, how many of the four content "
+              "variants have now appeared twice, once this discourse is "
+              "included?",
+         "opts": ["One", "Two", "Three", "All four"],
+         "correct": 2,
+         "expl": "Ethical restraint, textual mastery, and firmness — with "
+                 "only the fourth variant remaining."},
+        {"q": "Which variant remains to complete this chapter's set of "
+              "eight after this discourse?",
+         "opts": [
+             "Ethical restraint",
+             "Past-life recollection paired with clairvoyance, at AN 7.82",
+             "Textual mastery",
+             "No variant remains; the set is already complete"],
+         "correct": 1,
+         "expl": "The fourth and structurally distinct variant, still to "
+                 "come."},
+        {"q": "What four items open this discourse, shared across the "
+              "entire set of eight?",
+         "opts": [
+             "The four noble truths",
+             "Knowing what is an offense, not an offense, light, and "
+             "serious",
+             "The four right efforts",
+             "The four kinds of sustenance"],
+         "correct": 1,
+         "expl": "The shared technical foundation across all eight "
+                 "discourses."},
+        {"q": "What two items close this discourse?",
+         "opts": [
+             "The four absorptions at will, and undefiled freedom of heart "
+             "and wisdom",
+             "The five lower fetters and non-return",
+             "Wealth and a good rebirth",
+             "Knowing assemblies and individuals"],
+         "correct": 0,
+         "expl": "The shared closing pair across this entire set of eight."},
+    ],
+    marginalia=[
+        ("The shortest variant, again", [
+            "firm, unfaltering —",
+            "no elaboration needed,",
+            "now with \"shines as\"",
+        ]),
+        ("Three of four, restated", [
+            "restraint, mastery, firmness —",
+            "each now told twice,",
+            "one variant still to come",
+        ]),
+        ("One left to complete the mirror", [
+            "past-life sight and",
+            "clairvoyance together —",
+            "the set's real outlier, next",
+        ]),
+        ("Cross-references", [
+            "AN 7.80 &middot; previous, this set's second variant restated",
+            "AN 7.77 &middot; earlier, the identical content with "
+            "&ldquo;is&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.81/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.80.html">AN 7.80 &middot; Shines as an Expert in '
+        "the Monastic Law (2nd)</a> &mdash; previous.",
+        '<a href="an-7.77.html">AN 7.77 &middot; An Expert in the Monastic '
+        "Law (3rd)</a> &mdash; earlier, the identical content with "
+        "&ldquo;is&rdquo;.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.82 — Catutthavinayadharasobhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Catutthavinayadharasobhana", "Shines as an Expert in the Monastic Law (4th)",
+    vagga=VAGGA_8,
+    meta_title="AN 7.82 — Shines as an Expert in the Monastic Law (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Catutthavinayadharasobhanasutta, closing this chapter's set of "
+        "eight by restating AN 7.78's outlier variant with &ldquo;shines "
+        "as&rdquo; in place of &ldquo;is&rdquo;. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-paragraph bare list, word for word identical "
+                 "to AN 7.78 except for one verb, closing this chapter's "
+                 "set of eight closely related discourses"),
+        ("Length", "under 1 minute to read"),
+        ("Closing the set of eight", "The fourth and final restatement, "
+                                     "completing the two-by-two structure "
+                                     "of four content variants crossed "
+                                     "with two governing verbs"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "structurally distinct like its counterpart AN "
+                       "7.78, closing this set"),
+    ],
+    why=(
+        "AN 7.82 restates AN 7.78's structurally distinct variant "
+        "&mdash; past-life recollection and clairvoyance filling both the "
+        "fifth and sixth slots, with no separate four-absorptions item "
+        "&mdash; using &ldquo;shines as&rdquo; in place of &ldquo;is&rdquo;, "
+        "completing this chapter's set of eight."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the four categories of offense, "
+            "recollects their many past lives in detail, understands with "
+            "clairvoyance how beings pass on according to their deeds, "
+            "and realizes undefiled freedom in this very life shines as "
+            "an expert in the monastic law."]),
+        ("Identical content to AN 7.78, one verb changed", [
+            "This discourse's fifth and sixth items &mdash; past-life "
+            "recollection and clairvoyance together, with no separate "
+            "four-absorptions item &mdash; match AN 7.78 exactly, "
+            "differing only in the governing verb, just as AN 7.79-81 "
+            "each restated their own counterpart."]),
+        ("The set of eight, now complete", [
+            "With this discourse, all four content variants &mdash; "
+            "ethical restraint, textual mastery, firmness in training, "
+            "and the paired higher knowledges &mdash; have each appeared "
+            "twice, once as something a mendicant &ldquo;is&rdquo; and "
+            "once as something they &ldquo;shine as&rdquo;, completing a "
+            "deliberate two-by-four structure across AN 7.75-82."]),
+        ("Why this outlier variant closes the set", [
+            "Placing the most structurally distinct variant &mdash; the "
+            "one that drops the four-absorptions item for two higher "
+            "knowledges instead &mdash; at the very end of both the "
+            "&ldquo;is&rdquo; set and the &ldquo;shines as&rdquo; set "
+            "gives this chapter's opening eight discourses a matched, "
+            "symmetrical shape: three ordinary variants followed by one "
+            "more exalted one, twice over."]),
+    ],
+    terms=[
+        ("sobhati",
+         "&ldquo;shines as&rdquo; &mdash; this discourse's governing "
+         "verb, closing the pattern shared with AN 7.79-81."),
+        ("āpatti, anāpatti, lahukā āpatti, garukā āpatti",
+         "&ldquo;an offense, not an offense, a light offense, a serious "
+         "offense&rdquo; &mdash; the shared four opening items."),
+        ("anekavihitaṁ pubbenivāsaṁ anussarati",
+         "&ldquo;recollects their many kinds of past lives&rdquo; "
+         "&mdash; this discourse's fifth item, identical to AN 7.78's."),
+        ("dibbena cakkhunā visuddhena atikkantamānusakena",
+         "&ldquo;with clairvoyance that is purified and "
+         "superhuman&rdquo; &mdash; this discourse's sixth item, again "
+         "replacing the four-absorptions item found in the set's other "
+         "three variants."),
+        ("yathākammūpage satte pajānāti",
+         "&ldquo;understands how sentient beings pass on according to "
+         "their deeds&rdquo; &mdash; what this discourse's clairvoyance "
+         "item discerns."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list, closing this "
+        "chapter's set of eight. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of one who shines as an expert in the "
+               "monastic law"),
+        ("p", "&sect;1", "an7.82:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What are this discourse's fifth and sixth items?",
+         "opts": [
+             "Ethical restraint and the four absorptions",
+             "Recollecting past lives, and clairvoyance discerning how "
+             "beings are reborn according to their deeds",
+             "Textual mastery and firmness",
+             "The five lower fetters and non-return"],
+         "correct": 1,
+         "expl": "The same structurally distinct variant as AN 7.78."},
+        {"q": "What is the only difference between this discourse and AN "
+              "7.78?",
+         "opts": [
+             "Entirely different content",
+             "A single governing verb — \"shines as\" in place of \"is\"",
+             "This discourse restores the four-absorptions item",
+             "The four opening items differ"],
+         "correct": 1,
+         "expl": "Word-for-word identical apart from this one verb."},
+        {"q": "According to the guide, what structure does this discourse "
+              "complete?",
+         "opts": [
+             "No particular structure",
+             "A two-by-four structure — four content variants, each "
+             "appearing once as \"is\" and once as \"shines as\"",
+             "A single variant repeated eight times identically",
+             "Eight completely unrelated content variants"],
+         "correct": 1,
+         "expl": "The full systematic pairing across all eight discourses "
+                 "in this set."},
+        {"q": "According to the guide, why might this outlier variant be "
+              "placed at the end of both sets of four?",
+         "opts": [
+             "By accident, with no discernible reason",
+             "To give the set a symmetrical shape — three ordinary "
+             "variants followed by one more exalted one, twice over",
+             "Because it is the least important variant",
+             "Because the compilers ran out of other material"],
+         "correct": 1,
+         "expl": "A deliberate structural choice, mirrored in both halves "
+                 "of the set."},
+        {"q": "Is the four-absorptions item present in this discourse?",
+         "opts": [
+             "Yes, exactly as in the other seven discourses in this set",
+             "No — it is dropped, replaced by two higher-knowledge items, "
+             "exactly as in its counterpart AN 7.78",
+             "It appears twice",
+             "The discourse does not mention meditation at all"],
+         "correct": 1,
+         "expl": "The same structural absence as AN 7.78."},
+        {"q": "What does this discourse's completion mark for this "
+              "chapter?",
+         "opts": [
+             "Nothing in particular",
+             "The end of this set of eight closely related discourses on "
+             "expertise in the monastic law",
+             "The end of the entire chapter",
+             "The beginning of a new set of eight"],
+         "correct": 1,
+         "expl": "The close of AN 7.75-82's matched set, with two "
+                 "different discourses still to come in this chapter."},
+    ],
+    marginalia=[
+        ("Two knowledges, once more", [
+            "past lives recollected,",
+            "clairvoyance discerning —",
+            "no four-absorptions item here either",
+        ]),
+        ("The set of eight, complete", [
+            "four variants, two verbs each —",
+            "a deliberate",
+            "two-by-four structure",
+        ]),
+        ("Ordinary three, exalted one", [
+            "restraint, mastery, firmness,",
+            "then higher knowledge —",
+            "the same shape, twice over",
+        ]),
+        ("Cross-references", [
+            "AN 7.81 &middot; previous, this set's third variant restated",
+            "AN 7.78 &middot; earlier, the identical content with "
+            "&ldquo;is&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.82/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.81.html">AN 7.81 &middot; Shines as an Expert in '
+        "the Monastic Law (3rd)</a> &mdash; previous.",
+        '<a href="an-7.78.html">AN 7.78 &middot; An Expert in the Monastic '
+        "Law (4th)</a> &mdash; earlier, the identical content with "
+        "&ldquo;is&rdquo;.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.83 — Satthusāsanasutta
+# --------------------------------------------------------------------------- #
+page(
+    83, "Satthusāsana", "The Teacher&rsquo;s Instructions",
+    vagga=VAGGA_8,
+    meta_title="AN 7.83 — The Teacher's Instructions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Satthusāsanasutta, in which the Buddha answers Upāli's request "
+        "for a brief teaching with a criterion for recognizing genuine "
+        "teaching wherever it is found. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Upāli and the Buddha"),
+        ("Form", "A brief request, met with a criterion stated twice in "
+                 "mirror image, negative then positive"),
+        ("Length", "under 1 minute to read"),
+        ("Wider canon", "This discourse's sevenfold criterion for "
+                        "recognizing genuine teaching closely parallels the "
+                        "better-known eightfold version at AN 8.53 (the "
+                        "Gotamī Sutta), which adds a criterion about being "
+                        "unburdensome to that discourse's own list"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "but conceptually significant, worth reading as a "
+                       "criterion rather than a specific doctrine"),
+    ],
+    why=(
+        "AN 7.83 has Upāli &mdash; foremost among the Buddha's disciples in "
+        "expertise on the monastic law &mdash; ask for a single brief "
+        "teaching to live by, and receive not a specific doctrine but a "
+        "criterion: whatever leads solely to disillusionment, dispassion, "
+        "cessation, peace, insight, awakening, and extinguishment is the "
+        "teaching, the training, and the Teacher's instructions, and "
+        "whatever doesn't is categorically none of these."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Rather than handing Upāli a specific doctrine to memorize, the "
+            "Buddha gives him a test: whatever leads solely to "
+            "disillusionment, dispassion, cessation, peace, insight, "
+            "awakening, and extinguishment counts, categorically, as the "
+            "teaching, the training, and the Teacher's instructions, and "
+            "whatever does not lead solely to these seven counts as none "
+            "of them."]),
+        ("Upāli's specific request, and why it matters who asks it", [
+            "Upāli asks for a teaching brief enough to take into solitary, "
+            "diligent retreat &mdash; a request that carries particular "
+            "weight given Upāli's own role as the disciple most expert in "
+            "the monastic law, a role this very chapter has just spent "
+            "eight discourses defining in technical detail."]),
+        ("A criterion, not a content list", [
+            "What the Buddha actually supplies is not a list of specific "
+            "teachings to follow but a method for testing any teaching, "
+            "from any source, against seven outcomes it must lead to "
+            "&ldquo;solely&rdquo; (ekantena) &mdash; a qualifier that "
+            "rules out anything merely compatible with these seven or "
+            "useful alongside other goals as well."]),
+        ("Stated twice, in exact mirror image", [
+            "The Buddha gives the criterion once negatively &mdash; things "
+            "that don't lead solely to these seven are categorically not "
+            "the teaching, the training, or the Teacher's instructions "
+            "&mdash; and once positively, in identical structure, for "
+            "things that do. The mirrored repetition itself underscores "
+            "that this is meant as an exhaustive, either-or test rather "
+            "than a matter of degree."]),
+        ("A criterion that outlives any single formulation", [
+            "Because this discourse defines &ldquo;the teaching&rdquo; by "
+            "what it accomplishes rather than by its specific wording or "
+            "source, it functions as a check against later or unfamiliar "
+            "material as much as against material already known &mdash; "
+            "close in spirit to the parallel eightfold criterion at AN "
+            "8.53, addressed to Mahāpajāpatī Gotamī rather than Upāli."]),
+    ],
+    terms=[
+        ("saṅkhittena dhammaṁ desetu",
+         "&ldquo;teach me Dhamma in brief&rdquo; &mdash; Upāli's own "
+         "request, framing this discourse's entire exchange."),
+        ("ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya "
+         "sambodhāya nibbānāya",
+         "&ldquo;solely to disillusionment, dispassion, cessation, peace, "
+         "insight, awakening, and extinguishment&rdquo; &mdash; the seven "
+         "outcomes this discourse's entire criterion turns on."),
+        ("ekaṁsena dhāreyyāsi",
+         "&ldquo;categorically, you should remember&rdquo; &mdash; the "
+         "phrase introducing both the negative and positive halves of the "
+         "criterion, marking it as exhaustive rather than partial."),
+        ("eso dhammo eso vinayo etaṁ satthusāsanaṁ",
+         "&ldquo;the teaching, the training, and the Teacher's "
+         "instructions&rdquo; &mdash; this discourse's own title-phrase, "
+         "the positive verdict for whatever passes the sevenfold test."),
+        ("Upāli",
+         "the disciple foremost in expertise on the monastic law, whose "
+         "request opens this discourse immediately after this chapter's "
+         "eight discourses on that very expertise."),
+    ],
+    text_intro=(
+        "The discourse in full: Upāli's request, and the criterion given "
+        "in mirror image, negative then positive. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upāli's request for a brief teaching"),
+        ("p", "&sect;1", "an7.83:1.1-2.1"),
+        ("h3", "What is not the teaching, the training, or the Teacher's "
+               "instructions"),
+        ("p", "&sect;2", "an7.83:2.2-2.5"),
+        ("h3", "What is the teaching, the training, and the Teacher's "
+               "instructions"),
+        ("p", "&sect;3", "an7.83:2.6-2.9"),
+    ],
+    quiz=[
+        {"q": "What does Upāli ask the Buddha for at the opening of this "
+              "discourse?",
+         "opts": [
+             "A detailed explanation of every Vinaya rule",
+             "A brief teaching he can take into solitary, diligent retreat",
+             "Permission to ordain new disciples",
+             "A ruling on a specific disciplinary case"],
+         "correct": 1,
+         "expl": "A request for brevity, from the disciple most expert in "
+                 "the monastic law."},
+        {"q": "What seven outcomes does the Buddha's criterion turn on?",
+         "opts": [
+             "Wealth, fame, and long life",
+             "Disillusionment, dispassion, cessation, peace, insight, "
+             "awakening, and extinguishment",
+             "The four absorptions and three higher knowledges",
+             "The five lower fetters"],
+         "correct": 1,
+         "expl": "The seven outcomes any genuine teaching must lead to "
+                 "\"solely\" according to this discourse."},
+        {"q": "According to the guide, what does the Buddha actually give "
+              "Upāli — a specific doctrine, or something else?",
+         "opts": [
+             "A specific doctrine to memorize word for word",
+             "A criterion, a method for testing any teaching against seven "
+             "required outcomes",
+             "A direct refusal to answer",
+             "A list of Vinaya rules"],
+         "correct": 1,
+         "expl": "A test applicable to any teaching, not a fixed content "
+                 "list."},
+        {"q": "What does the qualifier \"solely\" (ekantena) rule out, "
+              "according to the guide?",
+         "opts": [
+             "Nothing in particular",
+             "Anything merely compatible with these seven outcomes or "
+             "useful alongside other, different goals as well",
+             "All meditation practices",
+             "All forms of Vinaya study"],
+         "correct": 1,
+         "expl": "A strict, exclusive standard rather than mere "
+                 "compatibility."},
+        {"q": "How is the criterion structured in this discourse?",
+         "opts": [
+             "Stated once, briefly",
+             "Stated twice in exact mirror image — negatively, then "
+             "positively",
+             "Stated seven separate times",
+             "Left implicit, never directly stated"],
+         "correct": 1,
+         "expl": "A deliberate mirrored repetition, underscoring an "
+                 "exhaustive either-or test."},
+        {"q": "According to the guide, what parallel discourse elsewhere in "
+              "the canon gives a closely related eightfold criterion?",
+         "opts": [
+             "AN 6.31", "AN 8.53, the Gotamī Sutta", "MN 117",
+             "DN 15"],
+         "correct": 1,
+         "expl": "A close parallel addressed to Mahāpajāpatī Gotamī rather "
+                 "than Upāli."},
+    ],
+    marginalia=[
+        ("A request for brevity", [
+            "from Upāli himself,",
+            "the disciple most expert",
+            "in the monastic law",
+        ]),
+        ("A test, not a doctrine", [
+            "seven required outcomes,",
+            "applicable to any",
+            "teaching, from any source",
+        ]),
+        ("Mirrored, exhaustively", [
+            "stated once negatively,",
+            "once positively —",
+            "an either-or criterion",
+        ]),
+        ("Cross-references", [
+            "AN 7.82 &middot; previous, closing the set of eight "
+            "vinayadhara discourses",
+            "AN 7.84 &middot; next, the seven principles for settling "
+            "disciplinary issues",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.83/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.82.html">AN 7.82 &middot; Shines as an Expert in '
+        "the Monastic Law (4th)</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.84 — Adhikaraṇasamathasutta
+#
+# Closes ch.8 Vinayavagga. Per the standing lesson from AN 7.20 (see the
+# note above ch.3): the `further` list below points only backward, never
+# forward to AN 7.85, since ch.9 has not been written yet. This discourse's
+# seven principles are among the most cited formulas in the entire Vinaya,
+# recited at the close of every Pātimokkha ceremony.
+# --------------------------------------------------------------------------- #
+page(
+    84, "Adhikaraṇasamatha", "Settlement of Disciplinary Issues",
+    vagga=VAGGA_8,
+    meta_title="AN 7.84 — Settlement of Disciplinary Issues | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Adhikaraṇasamathasutta, closing this chapter with the seven "
+        "principles for settling any disciplinary issue — among the most "
+        "cited formulas in the entire Vinaya. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list of seven named procedures, with no "
+                 "explanation of any one of them"),
+        ("Length", "under 1 minute to read"),
+        ("Among the most cited formulas in the Vinaya", "These seven "
+                                                         "principles are "
+                                                         "recited at the "
+                                                         "close of every "
+                                                         "Pātimokkha "
+                                                         "ceremony and "
+                                                         "appear throughout "
+                                                         "the Vinaya "
+                                                         "Piṭaka's own "
+                                                         "procedural "
+                                                         "chapters in far "
+                                                         "greater detail "
+                                                         "than this bare "
+                                                         "list gives"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "in this telling, but each named principle names an "
+                       "entire elaborate legal procedure documented at "
+                       "length elsewhere"),
+    ],
+    why=(
+        "AN 7.84 closes this chapter with seven named principles for "
+        "settling any disciplinary issue that might arise &mdash; from "
+        "face-to-face verdicts and majority decisions to the deliberately "
+        "informal &ldquo;covering over as if with grass&rdquo; &mdash; a "
+        "bare list that names, without explaining, some of the most "
+        "consequential procedural machinery in the entire monastic legal "
+        "system."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven principles exist for settling any disciplinary issue "
+            "that arises in the monastic community, ranging from a "
+            "straightforward face-to-face verdict through majority "
+            "decision to a final option that deliberately closes off "
+            "further investigation of a dispute too tangled to resolve "
+            "any other way."]),
+        ("Seven named procedures, listed without elaboration", [
+            "A face-to-face resolution to be applied; a resolution "
+            "through recollection to be granted, for an accused mendicant "
+            "whose memory of innocence is trusted; a resolution because "
+            "of past insanity to be granted, excusing conduct during a "
+            "period of genuine unsoundness of mind; acting according to "
+            "what has been admitted, resolving a case by the accused's own "
+            "confession; majority decision, when a formal vote settles "
+            "what discussion alone cannot; further penalty, an additional "
+            "measure imposed on a particularly obstinate offender; and "
+            "covering over as if with grass, a final resort for disputes "
+            "so tangled and divisive that formal investigation would do "
+            "more harm than leaving them covered over and closed."]),
+        ("From individual verdicts to community-wide amnesty", [
+            "The seven move from procedures addressing a single accused "
+            "individual's specific case toward the final principle, which "
+            "operates differently: &ldquo;covering over as if with "
+            "grass&rdquo; is used for disputes that have divided an entire "
+            "community so deeply that continuing to investigate would "
+            "cause more harm than closing the matter without a definitive "
+            "verdict at all, a recognition that not every dispute is best "
+            "served by pursuing it to a final, provable conclusion."]),
+        ("A bare list naming an elaborate legal system", [
+            "This discourse gives no procedure for how any of the seven "
+            "is actually to be carried out; each one names an entire "
+            "elaborate procedure documented at length in the Vinaya "
+            "Piṭaka's own chapters, where the specific steps, conditions, "
+            "and safeguards for applying each principle are worked out in "
+            "far more technical detail than a single Numbered Discourse "
+            "could hold."]),
+    ],
+    terms=[
+        ("adhikaraṇasamatha",
+         "&ldquo;settlement of disciplinary issues&rdquo; &mdash; this "
+         "discourse's own title, and the general category all seven "
+         "named principles serve."),
+        ("sammukhāvinaya",
+         "&ldquo;resolution face-to-face&rdquo; &mdash; the first "
+         "principle, a verdict reached with the accused party present."),
+        ("sativinaya, amūḷhavinaya",
+         "&ldquo;resolution through recollection&rdquo;, &ldquo;resolution "
+         "because of past insanity&rdquo; &mdash; the second and third "
+         "principles, each granted rather than simply applied."),
+        ("paṭiññātakaraṇa, yebhuyyasikā, tassapāpiyasikā",
+         "&ldquo;acting according to what has been admitted&rdquo;, "
+         "&ldquo;majority decision&rdquo;, &ldquo;further penalty&rdquo; "
+         "&mdash; the fourth through sixth principles."),
+        ("tiṇavatthāraka",
+         "&ldquo;covering over as if with grass&rdquo; &mdash; the "
+         "seventh and final principle, a deliberate closing of a dispute "
+         "too divisive to pursue to a definitive verdict."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list closing this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven principles for settling any disciplinary issue"),
+        ("p", "&sect;1", "an7.84:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse present its seven principles?",
+         "opts": [
+             "With a detailed procedure for each one",
+             "As a bare list, naming each principle without explaining how "
+             "it is actually carried out",
+             "As a narrative with named individuals",
+             "As a set of verses"],
+         "correct": 1,
+         "expl": "A bare naming — the Vinaya Piṭaka's own chapters supply "
+                 "the procedural detail."},
+        {"q": "What is the fourth principle, resolving a case by the "
+              "accused's own confession?",
+         "opts": [
+             "Majority decision",
+             "Acting according to what has been admitted",
+             "Covering over as if with grass",
+             "Resolution through recollection"],
+         "correct": 1,
+         "expl": "Paṭiññātakaraṇa, settling a case on the accused's own "
+                 "admission."},
+        {"q": "What does the seventh and final principle, \"covering over "
+              "as if with grass,\" address?",
+         "opts": [
+             "Minor, easily resolved individual offenses",
+             "Disputes so tangled and divisive that formal investigation "
+             "would cause more harm than closing the matter without a "
+             "definitive verdict",
+             "Cases involving physical injury only",
+             "Disputes between different monasteries"],
+         "correct": 1,
+         "expl": "A deliberate closing of especially divisive disputes, "
+                 "not a routine procedure."},
+        {"q": "According to the guide, how does the sequence of seven "
+              "principles move?",
+         "opts": [
+             "Randomly, with no discernible order",
+             "From procedures addressing a single accused individual's "
+             "case toward a final principle operating at the level of an "
+             "entire divided community",
+             "From most severe to least severe punishment only",
+             "Alphabetically by Pali term"],
+         "correct": 1,
+         "expl": "A movement from individual verdicts to community-wide "
+                 "resolution."},
+        {"q": "According to the guide, how often are these seven "
+              "principles recited in monastic practice?",
+         "opts": [
+             "Never, outside this one discourse",
+             "At the close of every Pātimokkha ceremony",
+             "Only once a year",
+             "Only when a dispute actually arises"],
+         "correct": 1,
+         "expl": "A recurring, standard part of the regular monastic "
+                 "recitation."},
+        {"q": "What does \"resolution because of past insanity\" excuse?",
+         "opts": [
+             "All future misconduct permanently",
+             "Conduct during a period of genuine unsoundness of mind",
+             "Only offenses committed by senior mendicants",
+             "Nothing; this principle grants no excuse"],
+         "correct": 1,
+         "expl": "A specific, bounded excuse tied to a documented period "
+                 "of genuine mental unsoundness."},
+    ],
+    marginalia=[
+        ("Seven procedures, bare-named", [
+            "face-to-face, recollection,",
+            "past insanity, confession,",
+            "majority, penalty, grass-covering",
+        ]),
+        ("Individual case to community", [
+            "the first six settle",
+            "one person's matter;",
+            "the last settles a whole dispute",
+        ]),
+        ("A name for an entire system", [
+            "each principle points to",
+            "elaborate procedure",
+            "documented at length elsewhere",
+        ]),
+        ("Cross-references", [
+            "AN 7.83 &middot; previous, the Teacher's Instructions",
+            "AN 7.65 &middot; earlier, this book's other dependency-chain "
+            "discourse toward freedom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.84/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.83.html">AN 7.83 &middot; The Teacher&rsquo;s '
+        "Instructions</a> &mdash; previous.",
+    ],
+)
+
