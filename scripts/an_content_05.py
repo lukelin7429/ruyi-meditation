@@ -36649,3 +36649,1939 @@ page(
         "opening discourse.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.181 — Āraññikasutta
+# --------------------------------------------------------------------------- #
+VAGGA_19 = "<em>Araññavagga</em> &mdash; the nineteenth chapter of the Fives"
+
+page(
+    181, "Āraññika", "Wilderness Dwellers",
+    vagga=VAGGA_19,
+    meta_title="AN 5.181 — Wilderness Dwellers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Āraññikasutta, opening the Araññavagga — five reasons someone might live in "
+        "the wilderness, and why only one of them is genuinely praiseworthy. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a five-item list of motives, then a declaration of which is best, "
+                 "illustrated by a simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a new "
+                       "chapter with a template all ten discourses share"),
+    ],
+    why=(
+        "This chapter opens with a genuinely important distinction: the same outward "
+        "ascetic practice &mdash; here, living in the wilderness &mdash; can be "
+        "undertaken from folly, vanity, mental illness, or mere imitation, and only one "
+        "of five possible motives makes it praiseworthy. This template repeats, in "
+        "varying detail, across all ten discourses in this chapter."),
+    guide=[
+        ("A new chapter, a shared template", [
+            "The Araññavagga (&ldquo;Wilderness Dwellers&rdquo;) catalogs ten austere "
+            "practices later systematized in the commentarial tradition as "
+            "<em>dhutaṅga</em>. This opening discourse establishes a five-motive "
+            "analysis that all ten discourses in this chapter apply, in progressively "
+            "abbreviated form, to their own particular practice."]),
+        ("Five reasons for the same behavior", [
+            "Stupidity and folly; corrupt, showy wishes; madness and mental disorder; "
+            "because the practice is praised by the Buddhas and their disciples; or "
+            "genuinely for the sake of having few wishes, contentment, self-effacement, "
+            "seclusion, and simplicity &mdash; five entirely different motives that can "
+            "produce the identical outward behavior."]),
+        ("Only the last is praised", [
+            "Of these five, only the wilderness-dweller motivated by genuine "
+            "renunciation &mdash; few wishes, contentment, simplicity &mdash; is called "
+            "&lsquo;the foremost, best, chief, highest, and finest&rsquo; of the five. "
+            "Notably, even the motive of imitating what &lsquo;the Buddhas and their "
+            "disciples praise&rsquo; falls short of this standard: praiseworthy "
+            "practice, undertaken for the wrong internal reason, still isn't the best."]),
+        ("The milk-to-cream-of-ghee simile", [
+            "Milk becomes curds, curds become butter, butter becomes ghee, and ghee "
+            "becomes cream of ghee &mdash; the most refined product of a five-stage "
+            "process &mdash; illustrating how the genuinely-motivated wilderness "
+            "dweller stands to the other four as the most refined product stands to "
+            "its raw material."]),
+        ("A template for the whole chapter", [
+            "This same five-motive analysis and simile is repeated in full only once "
+            "more, at this chapter's closing discourse, AN 5.190. The eight discourses "
+            "in between apply it to eight further practices, in steadily more "
+            "compressed form &mdash; the source text itself abbreviating what it "
+            "considers already established here."]),
+        ("Form over motive, a recurring project theme", [
+            "This concern with genuine internal motive over mere external form echoes "
+            "earlier discourses in this collection, such as AN 5.165's five reasons for "
+            "asking a question &mdash; the same underlying insight, that identical "
+            "behavior can spring from very different, and not equally admirable, "
+            "sources."]),
+    ],
+    terms=[
+        ("āraññika",
+         "&ldquo;a wilderness dweller&rdquo; &mdash; this discourse's title concept, "
+         "one who lives away from settled areas."),
+        ("appicchataṁ, santuṭṭhiṁ, sallekhaṁ, pavivekaṁ",
+         "&ldquo;few wishes, contentment, self-effacement, seclusion&rdquo; &mdash; the "
+         "genuine motive this discourse praises above the other four."),
+        ("pāpiccho icchāpakato",
+         "&ldquo;of corrupt, showy wishes&rdquo; &mdash; one of the four lesser motives, "
+         "practicing for appearance's sake."),
+        ("vaṇṇitaṁ buddhehi buddhasāvakehi",
+         "&ldquo;praised by the Buddhas and their disciples&rdquo; &mdash; imitating "
+         "praiseworthy behavior without the underlying genuine motive."),
+        ("sappimaṇḍo",
+         "&ldquo;cream of ghee&rdquo; &mdash; the most refined product in this "
+         "discourse's five-stage dairy simile, standing for the best of the five "
+         "motives."),
+    ],
+    text_intro=(
+        "The discourse in full: the five motives for wilderness dwelling, and the best "
+        "of the five. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of wilderness dweller"),
+        ("p", "&sect;1", "an5.181:1.1-1.5"),
+        ("h3", "The best of the five, in simile"),
+        ("p", "&sect;2", "an5.181:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Araññavagga, 'Wilderness Dwellers'",
+             "Upāsakavagga, 'A Lay Follower'",
+             "Kimilavagga, 'With Kimbila'",
+             "Brāhmaṇavagga, 'Brahmins'"],
+         "correct": 0,
+         "expl": "This session's nineteenth chapter."},
+        {"q": "What five motives does this discourse name for living in the wilderness?",
+         "opts": [
+             "Stupidity, corrupt wishes, madness, imitating praised behavior, and genuine renunciation",
+             "Wealth, poverty, illness, old age, and youth",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Five different motives that can produce the identical outward behavior."},
+        {"q": "Which of the five motives does this discourse praise as best?",
+         "opts": [
+             "Genuine renunciation — few wishes, contentment, and simplicity",
+             "Imitating what the Buddhas and disciples praise",
+             "Madness and mental disorder",
+             "Corrupt, showy wishes"],
+         "correct": 0,
+         "expl": "Even praiseworthy imitation falls short of this standard."},
+        {"q": "What does the milk-to-cream-of-ghee simile illustrate?",
+         "opts": [
+             "How the best-motivated practitioner stands to the others as the most refined product stands to its raw material",
+             "The proper diet for wilderness dwellers",
+             "The dangers of dairy products",
+             "A method for churning butter"],
+         "correct": 0,
+         "expl": "A five-stage refinement process, mirroring the five motives."},
+        {"q": "What does 'sappimaṇḍo' mean?",
+         "opts": [
+             "Cream of ghee, the most refined product in the simile",
+             "Fresh milk, the simile's starting point",
+             "A type of monastic robe",
+             "A formal meditation posture"],
+         "correct": 0,
+         "expl": "Standing for the best of the five motives."},
+        {"q": "What does this chapter's shared template do across its remaining discourses?",
+         "opts": [
+             "Applies this same five-motive analysis to nine further ascetic practices, in progressively compressed form",
+             "Abandons this analysis entirely after this discourse",
+             "Applies it only to lay followers",
+             "Contradicts this discourse's conclusion in each subsequent case"],
+         "correct": 0,
+         "expl": "The source text itself abbreviates what's already established here."},
+        {"q": "What earlier discourse in this collection shares this concern with motive over external form?",
+         "opts": [
+             "AN 5.165, Asking Questions",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth",
+             "AN 5.1, Trainee"],
+         "correct": 0,
+         "expl": "The same underlying insight about identical behavior, different sources."},
+        {"q": "What does 'pāpiccho icchāpakato' describe?",
+         "opts": [
+             "Corrupt, showy wishes — practicing for appearance's sake",
+             "Genuine humility",
+             "A formal ordination requirement",
+             "A meditation technique"],
+         "correct": 0,
+         "expl": "One of the four lesser motives named in this discourse."},
+        {"q": "How many later discourses in this chapter restate the full five-motive analysis?",
+         "opts": [
+             "Just one — AN 5.190, this chapter's closing discourse",
+             "All nine of the remaining discourses",
+             "None — the analysis is never repeated",
+             "Three additional discourses"],
+         "correct": 0,
+         "expl": "The rest apply the template in increasingly compressed form."},
+        {"q": "What are dhutaṅga, as later commentarial tradition names them?",
+         "opts": [
+             "Austere practices like the ten this chapter catalogs",
+             "A formal ordination ceremony",
+             "The four noble truths",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "This chapter's ten discourses catalog practices later systematized under this term."},
+    ],
+    marginalia=[
+        ("Five motives, one practice", [
+            "folly &middot; vanity &middot;",
+            "madness &middot; imitation",
+            "&middot; genuine renunciation",
+        ]),
+        ("The most refined product", [
+            "milk, curds, butter,",
+            "ghee, cream of ghee",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āraññika</span>",
+            "&mdash; a wilderness",
+            "dweller",
+        ]),
+        ("Cross-references", [
+            "AN 5.190 &middot; this chapter's closing discourse, restating the full "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.181/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.180.html">AN 5.180 &middot; About Gavesī</a> &mdash; the '
+        "previous chapter's closing discourse.",
+        '<a href="an-5.182.html">AN 5.182 &middot; Robes</a> &mdash; next: the same '
+        "template, applied to rag-robe wearing.",
+        '<a href="an-5.190.html">AN 5.190 &middot; Those Who Eat Only From the '
+        "Almsbowl</a> &mdash; this chapter's closer, restating this discourse's full "
+        "template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.182 — Cīvarasutta
+# --------------------------------------------------------------------------- #
+page(
+    182, "Cīvara", "Robes",
+    vagga=VAGGA_19,
+    meta_title="AN 5.182 — Robes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Cīvarasutta — the same five-motive template from AN 5.181, now applied to "
+        "wearing rag robes, in the source's own abbreviated form. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-motive list, abbreviated in the source itself"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, abbreviated "
+                       "by the source"),
+    ],
+    why=(
+        "The same five-motive analysis from AN 5.181, applied to wearing rag robes "
+        "(<em>paṁsukūlika</em>) &mdash; robes made from discarded, salvaged cloth "
+        "rather than cloth received as a gift &mdash; already compressed in the source "
+        "text itself, which abbreviates the middle three motives with an ellipsis."),
+    guide=[
+        ("An abbreviated repetition, by design", [
+            "The source text spells out the first and last motives (stupidity, and "
+            "genuine few-wishes) but replaces the middle three (corrupt wishes, "
+            "madness, imitation) with an ellipsis marker (&lsquo;&hellip;pe&hellip;&rsquo;), "
+            "trusting the reader to recall the full pattern from AN 5.181."]),
+        ("What rag-robe wearing actually meant", [
+            "<em>Paṁsukūlika</em> robes were sewn from cloth salvaged from rubbish "
+            "heaps, charnel grounds, or roadsides &mdash; genuinely discarded material, "
+            "not cloth donated new. Choosing this over offered cloth was a direct, "
+            "visible renunciation of even a basic comfort most people take for "
+            "granted."]),
+        ("The same five motives apply", [
+            "As with wilderness dwelling, someone might wear rag robes from folly, "
+            "vanity, mental disturbance, mere imitation of respected practitioners, or "
+            "genuine renunciation &mdash; and only the last, per AN 5.181's unstated "
+            "but implied conclusion, is genuinely praiseworthy."]),
+        ("Why the source doesn't restate the 'best' declaration", [
+            "Unlike AN 5.181 and AN 5.190, this discourse doesn't include the closing "
+            "declaration of which motive is best, nor the milk-to-ghee simile &mdash; "
+            "the compilers evidently judged that having stated it fully once, for both "
+            "the first and last practices in this ten-part list, restating it for every "
+            "middle practice would be needless repetition."]),
+        ("What follows", [
+            "AN 5.183 and AN 5.184 apply this same compressed template to two further "
+            "practices &mdash; dwelling at the root of a tree, and dwelling in a "
+            "charnel ground &mdash; before the pattern compresses even further "
+            "starting at AN 5.185."]),
+    ],
+    terms=[
+        ("paṁsukūlika",
+         "&ldquo;a rag-robe wearer&rdquo; &mdash; one who wears robes sewn from "
+         "discarded, salvaged cloth rather than cloth received as a gift."),
+        ("pe",
+         "the standard abbreviation marker, here compressing the middle three motives "
+         "from AN 5.181 into an ellipsis."),
+        ("mandattā momūhattā",
+         "&ldquo;from stupidity and folly&rdquo; &mdash; the first motive, spelled out "
+         "even in this abbreviated form."),
+        ("idamatthitaṁyeva nissāya",
+         "&ldquo;for the sake of this very reason&rdquo; &mdash; part of the formula "
+         "for genuine renunciation, the fifth and best motive."),
+        ("cīvara",
+         "&ldquo;robe&rdquo; &mdash; this discourse's title concept, one of the four "
+         "basic monastic requisites."),
+    ],
+    text_intro=(
+        "The discourse in full, as compressed in the source itself. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of rag-robe wearer"),
+        ("p", "&sect;1", "an5.182:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does 'paṁsukūlika' describe?",
+         "opts": [
+             "One who wears robes sewn from discarded, salvaged cloth",
+             "One who wears only new, gifted robes",
+             "A senior mendicant's formal title",
+             "A type of ordination ceremony"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does the source text present this discourse's content?",
+         "opts": [
+             "Abbreviated, with the middle three motives replaced by an ellipsis",
+             "In full, identical in length to AN 5.181",
+             "Entirely in verse",
+             "As a narrative with dialogue"],
+         "correct": 0,
+         "expl": "Trusting the reader to recall the full pattern from AN 5.181."},
+        {"q": "Where did rag-robe cloth traditionally come from?",
+         "opts": [
+             "Rubbish heaps, charnel grounds, or roadsides — genuinely discarded material",
+             "Cloth specially woven for this purpose",
+             "Cloth purchased at market",
+             "Cloth donated exclusively by kings"],
+         "correct": 0,
+         "expl": "A visible renunciation of even a basic comfort."},
+        {"q": "What does this discourse's abbreviated structure omit that AN 5.181 includes?",
+         "opts": [
+             "The closing declaration of which motive is best, and the milk-to-ghee simile",
+             "The list of five motives entirely",
+             "The title of the discourse",
+             "Any reference to the Buddha"],
+         "correct": 0,
+         "expl": "Judged needless repetition after AN 5.181's full statement."},
+        {"q": "What does 'pe' signal in this discourse's Pali text?",
+         "opts": [
+             "A standard abbreviation marker, compressing repeated content",
+             "A formal ordination requirement",
+             "A type of meditation technique",
+             "A colophon closing a chapter"],
+         "correct": 0,
+         "expl": "Compressing the middle three motives into an ellipsis."},
+        {"q": "Which motive is spelled out first, even in this abbreviated form?",
+         "opts": [
+             "Stupidity and folly (mandattā momūhattā)",
+             "Genuine renunciation only",
+             "Madness and mental disorder",
+             "Corrupt, showy wishes"],
+         "correct": 0,
+         "expl": "The first of the five motives, retained despite the overall compression."},
+        {"q": "What two discourses immediately follow, applying this same compressed template?",
+         "opts": [
+             "AN 5.183 (tree-root dwelling) and AN 5.184 (charnel-ground dwelling)",
+             "AN 5.190 and AN 5.191",
+             "AN 5.161 and AN 5.162",
+             "AN 5.100 and AN 5.106"],
+         "correct": 0,
+         "expl": "Two further ascetic practices, before the pattern compresses even further."},
+        {"q": "What happens to this template's level of compression starting at AN 5.185?",
+         "opts": [
+             "It compresses even further, to a single abbreviated line",
+             "It expands back to AN 5.181's full length",
+             "It disappears entirely",
+             "It switches to verse form"],
+         "correct": 0,
+         "expl": "An increasingly minimal presentation for the remaining practices."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What is one of the four basic monastic requisites this discourse concerns?",
+         "opts": [
+             "Robes (cīvara)",
+             "Weapons",
+             "Livestock",
+             "Currency"],
+         "correct": 0,
+         "expl": "This discourse's title concept, cīvara."},
+    ],
+    marginalia=[
+        ("Genuinely discarded cloth", [
+            "from rubbish heaps,",
+            "charnel grounds, roadsides",
+        ]),
+        ("Compressed by the source", [
+            "middle three motives",
+            "reduced to an ellipsis",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">paṁsukūlika</span>",
+            "&mdash; a rag-robe",
+            "wearer",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.182/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+        '<a href="an-5.183.html">AN 5.183 &middot; Dwelling at the Root of a Tree</a> '
+        "&mdash; next: the same template, applied to another ascetic practice.",
+        '<a href="an-5.190.html">AN 5.190 &middot; Those Who Eat Only From the '
+        "Almsbowl</a> &mdash; this chapter's closer, restating the full template once "
+        "more.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.183 — Rukkhamūlikasutta
+# --------------------------------------------------------------------------- #
+page(
+    183, "Rukkhamūlika", "Dwelling at the Root of a Tree",
+    vagga=VAGGA_19,
+    meta_title="AN 5.183 — Dwelling at the Root of a Tree | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Rukkhamūlikasutta — the same five-motive template, applied to dwelling at "
+        "the root of a tree rather than in built shelter. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-motive list, abbreviated in the source itself"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, abbreviated "
+                       "by the source"),
+    ],
+    why=(
+        "The same five-motive template again, applied to dwelling at the root of a "
+        "tree (<em>rukkhamūlika</em>) rather than in a built shelter &mdash; one of the "
+        "most basic renunciations of physical comfort in this catalog, and one "
+        "explicitly recommended to newly ordained mendicants elsewhere in the "
+        "monastic tradition."),
+    guide=[
+        ("A practice recommended at ordination", [
+            "Dwelling at the root of a tree is traditionally named as one of the four "
+            "supports (<em>nissaya</em>) a mendicant is told to rely on immediately "
+            "after ordination, alongside rag robes, almsfood, and fermented urine as "
+            "medicine &mdash; making this practice's inclusion here especially "
+            "pointed: even a baseline expectation can be undertaken for the wrong "
+            "reasons."]),
+        ("The same five motives, the same compression", [
+            "As with AN 5.182, the source text spells out only the first and last of "
+            "the five motives, trusting the reader to supply the remaining three "
+            "(corrupt wishes, madness, imitation) from AN 5.181's full statement."]),
+        ("Minimal shelter, maximal exposure", [
+            "Unlike a built dwelling, the root of a tree offers no walls, no door, and "
+            "only partial protection from weather &mdash; a deliberate exposure to "
+            "discomfort and the elements, consistent with this whole chapter's "
+            "concern for simplicity over comfort."]),
+        ("Still, only one motive is praised", [
+            "Even this basic, traditionally expected practice doesn't escape the "
+            "chapter's underlying point: undertaking it from folly, vanity, mental "
+            "disturbance, or mere imitation doesn't make it praiseworthy, regardless "
+            "of how ordinary or expected the practice itself might be."]),
+        ("What follows", [
+            "AN 5.184 applies this same template to a far more confronting practice: "
+            "dwelling in a charnel ground, among the dead."]),
+    ],
+    terms=[
+        ("rukkhamūlika",
+         "&ldquo;one who dwells at the root of a tree&rdquo; &mdash; this discourse's "
+         "title concept."),
+        ("nissaya",
+         "&ldquo;support, reliance&rdquo; &mdash; the four basic supports a newly "
+         "ordained mendicant is traditionally told to rely on, including tree-root "
+         "dwelling."),
+        ("pe",
+         "the standard abbreviation marker, compressing the middle three motives from "
+         "AN 5.181."),
+        ("mandattā momūhattā",
+         "&ldquo;from stupidity and folly&rdquo; &mdash; the first motive, spelled out "
+         "despite the overall compression."),
+        ("idamatthitaṁyeva nissāya",
+         "&ldquo;for the sake of this very reason&rdquo; &mdash; part of the fifth, "
+         "genuinely praiseworthy motive."),
+    ],
+    text_intro=(
+        "The discourse in full, as compressed in the source itself. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of tree-root dweller"),
+        ("p", "&sect;1", "an5.183:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does 'rukkhamūlika' describe?",
+         "opts": [
+             "One who dwells at the root of a tree, rather than in a built shelter",
+             "One who cultivates trees for a living",
+             "A formal title for a senior mendicant",
+             "One who avoids all outdoor spaces"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What tradition names tree-root dwelling as one of the four basic supports for a newly ordained mendicant?",
+         "opts": [
+             "The nissaya tradition, alongside rag robes, almsfood, and medicine",
+             "A tradition unique to this discourse alone",
+             "A tradition applying only to senior mendicants",
+             "A lay-only practice with no monastic connection"],
+         "correct": 0,
+         "expl": "Making its inclusion here especially pointed — even a baseline expectation."},
+        {"q": "How does the source text present this discourse's content?",
+         "opts": [
+             "Abbreviated, with the middle three motives replaced by an ellipsis",
+             "In full, identical in length to AN 5.181",
+             "As a narrative with named characters",
+             "Entirely in verse"],
+         "correct": 0,
+         "expl": "Matching AN 5.182's same compressed structure."},
+        {"q": "What does dwelling at the root of a tree offer, unlike a built dwelling?",
+         "opts": [
+             "No walls, no door, and only partial protection from weather",
+             "Complete protection from all weather conditions",
+             "Formal legal ownership of the land",
+             "Guaranteed privacy from all visitors"],
+         "correct": 0,
+         "expl": "A deliberate exposure to discomfort and the elements."},
+        {"q": "Does being a traditionally expected practice exempt tree-root dwelling from this chapter's five-motive analysis?",
+         "opts": [
+             "No — even ordinary or expected practices can be undertaken for the wrong reasons",
+             "Yes — expected practices are automatically praiseworthy",
+             "The discourse doesn't address this question",
+             "Only newly ordained mendicants are subject to the analysis"],
+         "correct": 0,
+         "expl": "This chapter's underlying point applies regardless of how expected a practice is."},
+        {"q": "What does 'nissaya' mean?",
+         "opts": [
+             "Support, reliance — the basic requisites a newly ordained mendicant relies on",
+             "A formal accusation",
+             "A type of alms round",
+             "A colophon closing a chapter"],
+         "correct": 0,
+         "expl": "The traditional four supports, including tree-root dwelling."},
+        {"q": "What discourse follows, applying this template to a more confronting practice?",
+         "opts": [
+             "AN 5.184, Charnel Ground Dwellers",
+             "AN 5.190, Those Who Eat Only From the Almsbowl",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Dwelling among the dead, in a charnel ground."},
+        {"q": "What motive does this discourse's abbreviated structure still spell out first?",
+         "opts": [
+             "Stupidity and folly",
+             "Only genuine renunciation, with all others omitted",
+             "Madness alone",
+             "Corrupt wishes alone"],
+         "correct": 0,
+         "expl": "Retained despite the overall compression, as in AN 5.182."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What other three requisites accompany tree-root dwelling in the traditional four supports?",
+         "opts": [
+             "Rag robes, almsfood, and fermented urine as medicine",
+             "Gold, silver, and land",
+             "Weapons, armor, and horses",
+             "Books, ink, and paper"],
+         "correct": 0,
+         "expl": "The traditional baseline expectations for a newly ordained mendicant."},
+    ],
+    marginalia=[
+        ("A baseline expectation", [
+            "one of the four",
+            "supports at ordination",
+        ]),
+        ("Minimal shelter", [
+            "no walls, no door,",
+            "only partial cover",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nissaya</span>",
+            "&mdash; the four basic",
+            "supports",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.183/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.182.html">AN 5.182 &middot; Robes</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.184.html">AN 5.184 &middot; Charnel Ground Dwellers</a> &mdash; '
+        "next: the same template, applied to a far more confronting practice.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.184 — Sosānikasutta
+# --------------------------------------------------------------------------- #
+page(
+    184, "Sosānika", "Charnel Ground Dwellers",
+    vagga=VAGGA_19,
+    meta_title="AN 5.184 — Charnel Ground Dwellers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sosānikasutta — the same five-motive template, applied to dwelling among "
+        "the dead, the most confronting practice in this chapter's catalog. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-motive list, abbreviated in the source itself"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, abbreviated "
+                       "by the source"),
+    ],
+    why=(
+        "The same five-motive template, now applied to the most viscerally "
+        "confronting practice in this catalog: dwelling in a charnel ground "
+        "(<em>sosānika</em>), deliberately living among decomposing corpses as a "
+        "direct meditation on death and impermanence."),
+    guide=[
+        ("The most confronting practice in this catalog", [
+            "Of the ten practices this chapter names, charnel-ground dwelling is the "
+            "most directly confrontational: living among the dead and decomposing, "
+            "rather than merely renouncing comfort or shelter, as the previous three "
+            "discourses have concerned."]),
+        ("A direct support for death-contemplation", [
+            "Elsewhere in the early texts, charnel grounds are named as sites for "
+            "meditation on the body's decay (<em>asubha</em>) &mdash; observing "
+            "corpses in progressive stages of decomposition to loosen attachment to "
+            "one's own body. Dwelling there permanently intensifies that practice from "
+            "an occasional exercise into a constant condition of life."]),
+        ("Same five motives, same warning", [
+            "Even this starkest of practices doesn't escape the chapter's central "
+            "warning: someone might dwell among the dead from genuine morbid "
+            "fascination, disturbed mental states, a wish to be seen as especially "
+            "austere, or mere imitation &mdash; and only genuine renunciation redeems "
+            "it, exactly as with the gentler practices already covered."]),
+        ("Why extremity doesn't guarantee sincerity", [
+            "If anything, this discourse's placement fourth in the sequence makes the "
+            "chapter's point more forcefully: the more extreme or striking a practice "
+            "looks from the outside, the more, not less, its outward intensity can "
+            "mask an unworthy internal motive &mdash; vanity and morbid folly can "
+            "produce charnel-ground dwelling just as easily as genuine renunciation "
+            "can."]),
+        ("What follows", [
+            "AN 5.185 begins this template's steepest compression yet, reducing the "
+            "next five discourses to a single abbreviated line each."]),
+    ],
+    terms=[
+        ("sosānika",
+         "&ldquo;one who dwells in a charnel ground&rdquo; &mdash; this discourse's "
+         "title concept."),
+        ("asubha",
+         "&ldquo;the unattractive, decaying&rdquo; &mdash; the meditation on bodily "
+         "decay traditionally supported by charnel-ground practice."),
+        ("pe",
+         "the standard abbreviation marker, compressing the middle three motives from "
+         "AN 5.181."),
+        ("mandattā momūhattā",
+         "&ldquo;from stupidity and folly&rdquo; &mdash; the first motive, spelled out "
+         "despite the overall compression."),
+        ("idamatthitaṁyeva nissāya",
+         "&ldquo;for the sake of this very reason&rdquo; &mdash; part of the fifth, "
+         "genuinely praiseworthy motive."),
+    ],
+    text_intro=(
+        "The discourse in full, as compressed in the source itself. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of charnel-ground dweller"),
+        ("p", "&sect;1", "an5.184:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does 'sosānika' describe?",
+         "opts": [
+             "One who dwells in a charnel ground, among the dead",
+             "One who tends graves as a profession",
+             "One who avoids all contact with death",
+             "A formal funeral officiant"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does this practice compare to the previous three in this chapter?",
+         "opts": [
+             "It is the most viscerally confronting, going beyond renouncing comfort to living among the dead",
+             "It is the mildest, involving no real hardship",
+             "It is identical in every respect to tree-root dwelling",
+             "It has no connection to the chapter's other practices"],
+         "correct": 0,
+         "expl": "A direct meditation on death and impermanence, made a constant condition of life."},
+        {"q": "What is 'asubha'?",
+         "opts": [
+             "Meditation on the body's decay, traditionally supported by charnel-ground practice",
+             "A formal ordination requirement",
+             "A type of monastic robe",
+             "A ceremonial donation"],
+         "correct": 0,
+         "expl": "Observing corpses in decomposition to loosen attachment to one's own body."},
+        {"q": "Why does this discourse's placement make the chapter's central point more forceful?",
+         "opts": [
+             "The more extreme a practice looks, the more its intensity can mask an unworthy motive",
+             "Extreme practices are automatically praiseworthy regardless of motive",
+             "This discourse contradicts the chapter's earlier conclusions",
+             "Extremity has no relevance to the chapter's argument"],
+         "correct": 0,
+         "expl": "Vanity and morbid folly can produce charnel-ground dwelling as easily as genuine renunciation."},
+        {"q": "How does the source text present this discourse's content?",
+         "opts": [
+             "Abbreviated, with the middle three motives replaced by an ellipsis",
+             "In full, identical in length to AN 5.181",
+             "As an extended narrative with dialogue",
+             "Entirely in verse"],
+         "correct": 0,
+         "expl": "Matching the same compressed structure as AN 5.182-183."},
+        {"q": "What happens to this template's compression starting at AN 5.185?",
+         "opts": [
+             "It compresses even further, to a single abbreviated line per discourse",
+             "It expands back to full length",
+             "It disappears entirely",
+             "It switches to a narrative format"],
+         "correct": 0,
+         "expl": "The steepest compression in this chapter begins there."},
+        {"q": "What does charnel-ground dwelling intensify, compared to occasional visits for meditation?",
+         "opts": [
+             "The death-contemplation practice, from an occasional exercise into a constant condition",
+             "The comfort and convenience of monastic life",
+             "Formal legal ownership of burial grounds",
+             "Social status among lay donors"],
+         "correct": 0,
+         "expl": "Permanent dwelling rather than occasional visitation."},
+        {"q": "What motive does this discourse's abbreviated structure still spell out first?",
+         "opts": [
+             "Stupidity and folly",
+             "Only genuine renunciation",
+             "Madness alone",
+             "Imitation alone"],
+         "correct": 0,
+         "expl": "Retained despite the overall compression."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What is this discourse's central warning, shared with the rest of the chapter?",
+         "opts": [
+             "Only genuine renunciation, not outward intensity, makes a practice praiseworthy",
+             "Charnel-ground dwelling should never be attempted under any circumstances",
+             "Only senior mendicants may attempt any of these ten practices",
+             "External practices are entirely irrelevant to spiritual progress"],
+         "correct": 0,
+         "expl": "This chapter's consistent theme, applied here to its starkest example."},
+    ],
+    marginalia=[
+        ("The most confronting practice", [
+            "living among the",
+            "decomposing dead",
+        ]),
+        ("Intensity isn't sincerity", [
+            "extremity can mask",
+            "an unworthy motive",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">asubha</span>",
+            "&mdash; meditation on",
+            "bodily decay",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.184/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.183.html">AN 5.183 &middot; Dwelling at the Root of a Tree</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.185.html">AN 5.185 &middot; Open Air Dwellers</a> &mdash; next: '
+        "this template's steepest compression begins.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.185 — Abbhokāsikasutta
+# --------------------------------------------------------------------------- #
+page(
+    185, "Abbhokāsika", "Open Air Dwellers",
+    vagga=VAGGA_19,
+    meta_title="AN 5.185 — Open Air Dwellers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Abbhokāsikasutta — the same five-motive template, applied to dwelling "
+        "entirely in the open air, compressed by the source to a single line. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line, the steepest compression in this chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely short, "
+                       "compressed by the source itself"),
+    ],
+    why=(
+        "The source text itself gives this discourse only a single abbreviated line "
+        "&mdash; the steepest compression in this chapter's ten-part catalog &mdash; "
+        "trusting the reader entirely to supply the full five-motive pattern already "
+        "given at AN 5.181."),
+    guide=[
+        ("A single surviving line", [
+            "Where AN 5.182&ndash;184 each retained at least the discourse's opening "
+            "and closing frame, this discourse and the four that follow are reduced in "
+            "the source itself to one line: &lsquo;These five dwell in the open "
+            "air&hellip;&rsquo;, followed immediately by an ellipsis. This is the "
+            "compilers' own choice, not an omission on this guide's part."]),
+        ("Open-air dwelling, beyond even tree-root shelter", [
+            "<em>Abbhokāsika</em> goes a step further than dwelling at a tree's root "
+            "(AN 5.183): no shelter at all, not even a tree's partial cover from rain "
+            "or sun &mdash; full, direct exposure to weather as a matter of ordinary "
+            "life."]),
+        ("The same five motives still apply", [
+            "Even reduced to a single line, this discourse presupposes the same "
+            "analysis given in full at AN 5.181: someone might dwell in the open air "
+            "from folly, vanity, disturbed mental states, mere imitation, or genuine "
+            "renunciation, and only the last is praised."]),
+        ("Why this compression is worth noticing, not skipping past", [
+            "The extremity of this compression is itself informative: by the fifth "
+            "practice in this catalog, the compilers judged the pattern so thoroughly "
+            "established that spelling it out even in the partial way used for "
+            "AN 5.182&ndash;184 had become unnecessary. Reading these five thin "
+            "entries side by side with AN 5.181's full statement shows the underlying "
+            "structure most clearly."]),
+        ("What follows", [
+            "AN 5.186&ndash;189 continue this same single-line compression, applied to "
+            "four further practices, before AN 5.190 closes the chapter by restating "
+            "the full template one final time."]),
+    ],
+    terms=[
+        ("abbhokāsika",
+         "&ldquo;one who dwells in the open air&rdquo; &mdash; this discourse's title "
+         "concept, without any shelter at all."),
+        ("pe",
+         "the standard abbreviation marker; here the entire five-motive analysis is "
+         "reduced to this single mark."),
+        ("āraññika",
+         "&ldquo;wilderness dweller&rdquo; &mdash; AN 5.181's practice, this "
+         "discourse's closest relative in this catalog."),
+        ("appicchataṁ",
+         "&ldquo;few wishes&rdquo; &mdash; part of the fifth, genuinely praiseworthy "
+         "motive established at AN 5.181, presupposed here."),
+        ("dhutaṅga",
+         "the later commentarial term for the whole catalog of austere practices this "
+         "chapter documents, including this one."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Open air dwellers"),
+        ("p", "&sect;1", "an5.185:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'abbhokāsika' describe?",
+         "opts": [
+             "One who dwells entirely in the open air, without shelter",
+             "One who dwells only in cities",
+             "One who avoids all outdoor exposure",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, ending in an ellipsis",
+             "The full five-motive analysis, identical to AN 5.181",
+             "A lengthy narrative with dialogue",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "The steepest compression in this chapter's catalog."},
+        {"q": "How does open-air dwelling compare to tree-root dwelling (AN 5.183)?",
+         "opts": [
+             "It goes further — no shelter at all, not even a tree's partial cover",
+             "It is identical in every respect",
+             "It offers more protection than tree-root dwelling",
+             "It has no relation to tree-root dwelling"],
+         "correct": 0,
+         "expl": "Full, direct exposure to weather as a matter of ordinary life."},
+        {"q": "Whose choice does this discourse's extreme brevity reflect?",
+         "opts": [
+             "The compilers of the source text itself, not an omission by this guide",
+             "A modern editorial decision",
+             "An accidental loss of the original text",
+             "A deliberate censorship of the content"],
+         "correct": 0,
+         "expl": "The compilers judged the pattern already thoroughly established by this point."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The same five-motive analysis given in full at AN 5.181",
+             "An entirely different analysis unique to open-air dwelling",
+             "That open-air dwelling has no connection to motive at all",
+             "A rejection of AN 5.181's conclusions"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the full pattern."},
+        {"q": "What is informative about reading this discourse's compression alongside AN 5.181's full statement?",
+         "opts": [
+             "It shows the underlying five-motive structure most clearly",
+             "It shows the two discourses are entirely unrelated",
+             "It proves the compilers made an error",
+             "It shows open-air dwelling was considered unimportant"],
+         "correct": 0,
+         "expl": "The extremity of compression is itself informative about how the chapter is structured."},
+        {"q": "What four discourses follow, continuing this same single-line compression?",
+         "opts": [
+             "AN 5.186-189",
+             "AN 5.191-194",
+             "AN 5.161-164",
+             "AN 5.100-103"],
+         "correct": 0,
+         "expl": "Before AN 5.190 restates the full template one final time."},
+        {"q": "What later discourse in this chapter restates the full five-motive template?",
+         "opts": [
+             "AN 5.190, this chapter's closing discourse",
+             "AN 5.186",
+             "AN 5.187",
+             "No later discourse restates it"],
+         "correct": 0,
+         "expl": "A final full statement, bookending AN 5.181's opening one."},
+        {"q": "What does 'dhutaṅga' name?",
+         "opts": [
+             "The later commentarial term for this whole catalog of austere practices",
+             "A formal ordination ceremony",
+             "A type of monastic robe",
+             "A specific meditation posture"],
+         "correct": 0,
+         "expl": "Including open-air dwelling among its members."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+    ],
+    marginalia=[
+        ("A single surviving line", [
+            "the source's own",
+            "choice, not an omission",
+        ]),
+        ("Beyond even a tree's cover", [
+            "full, direct exposure",
+            "to the weather",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">abbhokāsika</span>",
+            "&mdash; an open-air",
+            "dweller",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.185/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.184.html">AN 5.184 &middot; Charnel Ground Dwellers</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.186.html">AN 5.186 &middot; Those Who Never Lie Down</a> &mdash; '
+        "next: this same single-line compression, continued.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.186 — Nesajjikasutta
+# --------------------------------------------------------------------------- #
+page(
+    186, "Nesajjika", "Those Who Never Lie Down",
+    vagga=VAGGA_19,
+    meta_title="AN 5.186 — Those Who Never Lie Down | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nesajjikasutta — the same five-motive template, applied to never lying "
+        "down, sitting up through sleep as through waking hours. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely short, "
+                       "compressed by the source itself"),
+    ],
+    why=(
+        "A practice that shifts this catalog from where one dwells to how one's body "
+        "is held at all times: never lying down at all, remaining seated through both "
+        "waking hours and sleep &mdash; compressed, like AN 5.185, to a single "
+        "abbreviated line."),
+    guide=[
+        ("From dwelling to bodily posture", [
+            "AN 5.181&ndash;185 concerned where a mendicant dwells; "
+            "<em>nesajjika</em> shifts the catalog's focus to bodily posture itself "
+            "&mdash; never lying down, sitting up through sleep exactly as through "
+            "waking hours."]),
+        ("A direct challenge to bodily comfort", [
+            "Unlike shelter-related practices, this one has no exception for rest: it "
+            "removes even the most basic physical relief of lying flat, treating sleep "
+            "itself as something to be undertaken without the comfort most people "
+            "assume it requires."]),
+        ("The same compression, the same presupposition", [
+            "As with AN 5.185, the source text reduces this discourse to a single "
+            "line ending in ellipsis, presupposing the reader's familiarity with "
+            "AN 5.181's full five-motive statement rather than restating it."]),
+        ("The same warning, applied here too", [
+            "Never lying down might look like an unusually demanding, and therefore "
+            "unusually sincere, form of practice &mdash; but this chapter's "
+            "consistent point holds here as everywhere else: the same austere posture "
+            "can be adopted from folly, vanity, disturbed mind, or mere imitation, not "
+            "only from genuine renunciation."]),
+        ("What follows", [
+            "AN 5.187 continues this same compression, applied to sleeping wherever a "
+            "mat happens to be laid, without seeking a preferred spot."]),
+    ],
+    terms=[
+        ("nesajjika",
+         "&ldquo;one who never lies down&rdquo; &mdash; this discourse's title "
+         "concept, remaining seated at all times, including through sleep."),
+        ("pe",
+         "the standard abbreviation marker, reducing this discourse's content to a "
+         "single line."),
+        ("appicchataṁ",
+         "&ldquo;few wishes&rdquo; &mdash; part of the fifth, genuinely praiseworthy "
+         "motive established at AN 5.181, presupposed here."),
+        ("dhutaṅga",
+         "the later commentarial term for the whole catalog of austere practices this "
+         "chapter documents, including this one."),
+        ("mandattā momūhattā",
+         "&ldquo;from stupidity and folly&rdquo; &mdash; the first of the five "
+         "motives, presupposed even where not spelled out."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Those who never lie down"),
+        ("p", "&sect;1", "an5.186:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'nesajjika' describe?",
+         "opts": [
+             "One who never lies down, remaining seated even through sleep",
+             "One who never sits, remaining standing at all times",
+             "One who sleeps only during the day",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What does this discourse's focus shift from, compared to AN 5.181-185?",
+         "opts": [
+             "From where one dwells to how one's body is held at all times",
+             "From ethics to wisdom",
+             "From monastics to laypeople",
+             "From narrative to pure doctrine"],
+         "correct": 0,
+         "expl": "A shift from dwelling-place to bodily posture."},
+        {"q": "What basic physical relief does this practice remove?",
+         "opts": [
+             "The comfort of lying flat, even during sleep",
+             "The ability to eat any food at all",
+             "The ability to speak with others",
+             "The ability to walk any distance"],
+         "correct": 0,
+         "expl": "Treating sleep itself as something undertaken without assumed comfort."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, ending in an ellipsis",
+             "The full five-motive analysis in detail",
+             "A lengthy narrative",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "Matching AN 5.185's same extreme compression."},
+        {"q": "Does this practice's apparent demandingness exempt it from the chapter's five-motive warning?",
+         "opts": [
+             "No — even this demanding posture can be adopted from folly, vanity, or imitation",
+             "Yes — demanding practices are automatically praiseworthy",
+             "The discourse doesn't address this question",
+             "Only genuine renunciation could ever produce this practice"],
+         "correct": 0,
+         "expl": "This chapter's consistent point holds regardless of a practice's apparent difficulty."},
+        {"q": "What discourse follows, continuing this same compression?",
+         "opts": [
+             "AN 5.187, Those Who Sleep Wherever a Mat is Laid",
+             "AN 5.190, Those Who Eat Only From the Almsbowl",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Applying the same single-line compression to a related practice."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-motive analysis given in detail at AN 5.181",
+             "A rejection of AN 5.181's five-motive analysis",
+             "An entirely unrelated set of motives unique to this practice",
+             "That posture has no bearing on spiritual practice"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the pattern from earlier in the chapter."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What does 'dhutaṅga' name?",
+         "opts": [
+             "The later commentarial term for this catalog of austere practices",
+             "A formal ordination ceremony",
+             "A meditation retreat schedule",
+             "A type of alms bowl"],
+         "correct": 0,
+         "expl": "Including never-lying-down among its members."},
+        {"q": "What earlier discourse in this chapter states the five-motive pattern this discourse presupposes?",
+         "opts": [
+             "AN 5.181, Wilderness Dwellers",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "This chapter's opening discourse, stated in full."},
+    ],
+    marginalia=[
+        ("From dwelling to posture", [
+            "how the body is held,",
+            "not just where",
+        ]),
+        ("No relief, even at night", [
+            "seated through sleep",
+            "as through waking",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nesajjika</span>",
+            "&mdash; one who never",
+            "lies down",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.186/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.185.html">AN 5.185 &middot; Open Air Dwellers</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.187.html">AN 5.187 &middot; Those Who Sleep Wherever a Mat is '
+        "Laid</a> &mdash; next: this same compression, continued.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.187 — Yathāsanthatikasutta
+# --------------------------------------------------------------------------- #
+page(
+    187, "Yathāsanthatika", "Those Who Sleep Wherever a Mat is Laid",
+    vagga=VAGGA_19,
+    meta_title="AN 5.187 — Those Who Sleep Wherever a Mat is Laid | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Yathāsanthatikasutta — the same five-motive template, applied to accepting "
+        "whatever sleeping place is assigned, without seeking a preferred spot. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely short, "
+                       "compressed by the source itself"),
+    ],
+    why=(
+        "A practice concerned not with hardship itself but with indifference to "
+        "one's assigned circumstances: accepting whatever sleeping place happens to "
+        "be laid out, without campaigning for a preferred spot &mdash; a subtler "
+        "renunciation than the more visibly austere practices around it."),
+    guide=[
+        ("Indifference to circumstance, not hardship itself", [
+            "Unlike open-air dwelling or never lying down, <em>yathāsanthatika</em> "
+            "doesn't necessarily involve physical hardship at all &mdash; it concerns "
+            "accepting whatever sleeping place is assigned, rather than seeking out or "
+            "angling for a more desirable one, whether that assigned place turns out "
+            "comfortable or not."]),
+        ("A practice about wanting, not about deprivation", [
+            "This makes it a genuinely distinct kind of renunciation from its "
+            "neighbors in this catalog: not the deliberate acceptance of discomfort, "
+            "but the deliberate absence of preference and maneuvering &mdash; letting "
+            "go of the wish to control one's own circumstances, rather than choosing "
+            "harsher circumstances outright."]),
+        ("The same compression, the same presupposition", [
+            "As with AN 5.185&ndash;186, the source reduces this discourse to a "
+            "single line, presupposing AN 5.181's full statement of the five "
+            "underlying motives rather than restating it here."]),
+        ("A motive-check even for subtle practices", [
+            "Even this quieter, less visibly dramatic practice isn't automatically "
+            "praiseworthy: someone might accept whatever spot is assigned from "
+            "genuine indifference to comfort, or equally from apathy, disturbed mind, "
+            "or performative unconcern meant to be noticed by others."]),
+        ("What follows", [
+            "AN 5.188 continues this compression, applied to eating only in one "
+            "sitting per day &mdash; the catalog's shift from dwelling and posture "
+            "toward eating practices."]),
+    ],
+    terms=[
+        ("yathāsanthatika",
+         "&ldquo;one who sleeps wherever a mat is laid&rdquo; &mdash; this "
+         "discourse's title concept, accepting an assigned sleeping place without "
+         "preference."),
+        ("santhata",
+         "&ldquo;a laid-out mat or sleeping place&rdquo; &mdash; whatever spot is "
+         "assigned, accepted as it comes."),
+        ("pe",
+         "the standard abbreviation marker, reducing this discourse's content to a "
+         "single line."),
+        ("appicchataṁ",
+         "&ldquo;few wishes&rdquo; &mdash; part of the fifth, genuinely praiseworthy "
+         "motive established at AN 5.181, presupposed here."),
+        ("dhutaṅga",
+         "the later commentarial term for the whole catalog of austere practices this "
+         "chapter documents, including this one."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Those who sleep wherever a mat is laid"),
+        ("p", "&sect;1", "an5.187:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'yathāsanthatika' describe?",
+         "opts": [
+             "One who accepts whatever sleeping place is assigned, without seeking a preferred spot",
+             "One who sleeps only outdoors",
+             "One who never sleeps at all",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does this practice differ from open-air dwelling or never lying down?",
+         "opts": [
+             "It doesn't necessarily involve physical hardship — it concerns indifference to circumstance",
+             "It is identical to both in every respect",
+             "It involves far greater physical hardship than either",
+             "It has no connection to either practice"],
+         "correct": 0,
+         "expl": "A subtler renunciation, concerned with wanting rather than deprivation."},
+        {"q": "What does this practice let go of, according to the guide?",
+         "opts": [
+             "The wish to control one's own circumstances",
+             "All forms of physical comfort entirely",
+             "The ability to sleep at all",
+             "Contact with other mendicants"],
+         "correct": 0,
+         "expl": "Rather than choosing harsher circumstances outright."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, ending in an ellipsis",
+             "The full five-motive analysis in detail",
+             "An extended narrative",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "Matching AN 5.185-186's same compression."},
+        {"q": "Is this quieter practice automatically exempt from the chapter's motive-check?",
+         "opts": [
+             "No — it could spring from genuine indifference, or equally from apathy or performative unconcern",
+             "Yes — subtle practices are always sincerely motivated",
+             "The discourse doesn't address this",
+             "Only visibly dramatic practices are subject to the motive-check"],
+         "correct": 0,
+         "expl": "Even quiet, undramatic practices aren't automatically praiseworthy."},
+        {"q": "What discourse follows, shifting the catalog toward eating practices?",
+         "opts": [
+             "AN 5.188, Those Who Eat in One Sitting",
+             "AN 5.190, Those Who Eat Only From the Almsbowl",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A shift from dwelling and posture toward eating practices."},
+        {"q": "What does 'santhata' mean?",
+         "opts": [
+             "A laid-out mat or sleeping place",
+             "A formal accusation",
+             "A monastic robe",
+             "A meditation posture"],
+         "correct": 0,
+         "expl": "Whatever spot is assigned, accepted as it comes."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-motive analysis given at AN 5.181",
+             "A rejection of AN 5.181's analysis",
+             "An entirely unrelated set of motives",
+             "That circumstance has no bearing on practice"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the earlier pattern."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What does 'dhutaṅga' name?",
+         "opts": [
+             "The later commentarial term for this catalog of austere practices",
+             "A formal ordination ceremony",
+             "A type of monastic robe",
+             "A specific meditation posture"],
+         "correct": 0,
+         "expl": "Including this practice among its members."},
+    ],
+    marginalia=[
+        ("Indifference, not deprivation", [
+            "letting go of the wish",
+            "to control circumstance",
+        ]),
+        ("A subtler renunciation", [
+            "no hardship required,",
+            "just no preference",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">yathāsanthatika</span>",
+            "&mdash; wherever a mat",
+            "is laid",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's full statement of the five-motive "
+            "template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.187/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.186.html">AN 5.186 &middot; Those Who Never Lie Down</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.188.html">AN 5.188 &middot; Those Who Eat in One Sitting</a> '
+        "&mdash; next: this catalog shifts toward eating practices.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.188 — Ekāsanikasutta
+# --------------------------------------------------------------------------- #
+page(
+    188, "Ekāsanika", "Those Who Eat in One Sitting",
+    vagga=VAGGA_19,
+    meta_title="AN 5.188 — Those Who Eat in One Sitting | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ekāsanikasutta — the same five-motive template, applied to eating only once "
+        "per sitting each day, the catalog's shift toward eating practices. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely short, "
+                       "compressed by the source itself"),
+    ],
+    why=(
+        "This chapter's catalog turns from dwelling and posture to eating practices: "
+        "taking only one sitting's worth of food per day, rather than eating across "
+        "multiple sittings &mdash; the first of three consecutive food-related "
+        "practices closing out this catalog before AN 5.190's full restatement."),
+    guide=[
+        ("The catalog turns to food", [
+            "AN 5.181&ndash;187 concerned dwelling-places and bodily posture; "
+            "<em>ekāsanika</em> begins this catalog's final movement, toward how a "
+            "mendicant eats &mdash; specifically, taking food only once per day, in a "
+            "single sitting, rather than returning for a second helping later."]),
+        ("A discipline against habitual return", [
+            "The practice isn't primarily about eating less in total, but about "
+            "refusing to return to food once a sitting has ended &mdash; a discipline "
+            "against the ordinary habit of eating whenever hunger or opportunity "
+            "arises, replaced by a single bounded occasion each day."]),
+        ("The same compression, the same presupposition", [
+            "As with the four discourses before it, the source reduces this one to a "
+            "single abbreviated line, presupposing AN 5.181's full five-motive "
+            "statement rather than restating it."]),
+        ("Connecting to lay practice elsewhere in this collection", [
+            "Cross-ref AN 5.180's Gavesī, whose third self-imposed upgrade &mdash; "
+            "eating in one part of the day, abstaining from food at night or the "
+            "wrong time &mdash; closely parallels this practice, showing the same "
+            "underlying discipline appearing as both a formal ascetic category here "
+            "and a voluntary lay commitment there."]),
+        ("What follows", [
+            "AN 5.189 continues this catalog's food-related turn, applied to refusing "
+            "food offered once a meal has already begun."]),
+    ],
+    terms=[
+        ("ekāsanika",
+         "&ldquo;one who eats in one sitting&rdquo; &mdash; this discourse's title "
+         "concept, taking food only once per day."),
+        ("pe",
+         "the standard abbreviation marker, reducing this discourse's content to a "
+         "single line."),
+        ("appicchataṁ",
+         "&ldquo;few wishes&rdquo; &mdash; part of the fifth, genuinely praiseworthy "
+         "motive established at AN 5.181, presupposed here."),
+        ("ekabhattika",
+         "&ldquo;eating in one part of the day&rdquo; &mdash; the closely related "
+         "commitment Gavesī makes at AN 5.180."),
+        ("dhutaṅga",
+         "the later commentarial term for the whole catalog of austere practices this "
+         "chapter documents, including this one."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Those who eat in one sitting"),
+        ("p", "&sect;1", "an5.188:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'ekāsanika' describe?",
+         "opts": [
+             "One who eats only once per day, in a single sitting",
+             "One who never eats at all",
+             "One who eats standing rather than sitting",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What shift does this discourse mark in the chapter's catalog?",
+         "opts": [
+             "From dwelling and posture to eating practices",
+             "From monastics to laypeople exclusively",
+             "From prose to verse",
+             "From the Buddha's voice to Sāriputta's"],
+         "correct": 0,
+         "expl": "The catalog's final movement, concerning food."},
+        {"q": "What is this practice primarily a discipline against?",
+         "opts": [
+             "Habitual return to food once a sitting has ended",
+             "Eating any food whatsoever",
+             "Accepting almsfood from laypeople",
+             "Sharing food with other mendicants"],
+         "correct": 0,
+         "expl": "A single bounded occasion, rather than eating whenever opportunity arises."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, ending in an ellipsis",
+             "The full five-motive analysis in detail",
+             "An extended narrative",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "Matching the same compression as AN 5.185-187."},
+        {"q": "What earlier discourse in this collection parallels this practice in lay life?",
+         "opts": [
+             "AN 5.180, About Gavesī — his third self-imposed upgrade",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "Eating in one part of the day, abstaining from food at night."},
+        {"q": "What discourse follows, continuing this catalog's food-related turn?",
+         "opts": [
+             "AN 5.189, Refusers of Late Food",
+             "AN 5.190, Those Who Eat Only From the Almsbowl",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Refusing food offered once a meal has already begun."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-motive analysis given at AN 5.181",
+             "A rejection of AN 5.181's analysis",
+             "An entirely unrelated set of motives",
+             "That eating practices have no bearing on spiritual progress"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the earlier pattern."},
+        {"q": "What does 'ekabhattika' mean?",
+         "opts": [
+             "Eating in one part of the day",
+             "Never eating at all",
+             "Eating only meat",
+             "A formal fasting ceremony"],
+         "correct": 0,
+         "expl": "Gavesī's closely related lay commitment at AN 5.180."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What is this practice primarily NOT about, according to the guide?",
+         "opts": [
+             "Eating less in total — it's about not returning to food once a sitting has ended",
+             "Discipline of any kind",
+             "Any connection to the five-motive analysis",
+             "Monastic life generally"],
+         "correct": 0,
+         "expl": "A discipline against habitual return, not necessarily reduced quantity."},
+    ],
+    marginalia=[
+        ("The catalog turns to food", [
+            "from dwelling and",
+            "posture, to eating",
+        ]),
+        ("A bounded occasion", [
+            "no return once the",
+            "sitting has ended",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ekāsanika</span>",
+            "&mdash; one who eats",
+            "in one sitting",
+        ]),
+        ("Cross-references", [
+            "AN 5.180 &middot; Gavesī's closely related lay commitment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.188/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.187.html">AN 5.187 &middot; Those Who Sleep Wherever a Mat is '
+        "Laid</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.189.html">AN 5.189 &middot; Refusers of Late Food</a> &mdash; '
+        "next: this catalog's food-related turn, continued.",
+        '<a href="an-5.180.html">AN 5.180 &middot; About Gavesī</a> &mdash; a closely '
+        "related lay commitment, eating in one part of the day.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.189 — Khalupacchābhattikasutta
+# --------------------------------------------------------------------------- #
+page(
+    189, "Khalupacchābhattika", "Refusers of Late Food",
+    vagga=VAGGA_19,
+    meta_title="AN 5.189 — Refusers of Late Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Khalupacchābhattikasutta — the same five-motive template, applied to "
+        "refusing food offered after the meal has already begun. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely short, "
+                       "compressed by the source itself"),
+    ],
+    why=(
+        "A close companion to AN 5.188's one-sitting discipline: refusing any "
+        "further food offered once a meal has already begun, even if more is offered "
+        "within that same sitting &mdash; closing the loophole a one-sitting rule "
+        "alone might leave open."),
+    guide=[
+        ("Closing a loophole", [
+            "AN 5.188's one-sitting rule concerns not returning to food after a "
+            "sitting ends. This practice, <em>khalupacchābhattika</em>, is narrower "
+            "still: refusing additional food even within the same sitting, once the "
+            "meal has already started &mdash; a stricter, complementary discipline."]),
+        ("A refusal, not merely a limit", [
+            "Where several of this catalog's practices concern where or how a "
+            "mendicant lives, this one concerns an active refusal in the moment: "
+            "turning away food that's being offered, even when hunger or generosity "
+            "would make accepting it easy."]),
+        ("The same compression, the same presupposition", [
+            "As with the three discourses before it, the source reduces this "
+            "discourse to a single abbreviated line, presupposing AN 5.181's full "
+            "five-motive statement."]),
+        ("The last of the abbreviated stubs", [
+            "This is the final discourse in this chapter reduced to a single line "
+            "&mdash; AN 5.190, immediately following, restores the full template one "
+            "last time, closing the chapter as AN 5.181 opened it."]),
+        ("A practice about restraint mid-action", [
+            "Read alongside AN 5.188, this practice highlights a subtler point: real "
+            "renunciation sometimes isn't about refusing an activity altogether, but "
+            "about knowing exactly where to stop once it's already underway."]),
+    ],
+    terms=[
+        ("khalupacchābhattika",
+         "&ldquo;one who refuses food offered after the meal has begun&rdquo; "
+         "&mdash; this discourse's title concept."),
+        ("pe",
+         "the standard abbreviation marker, reducing this discourse's content to a "
+         "single line."),
+        ("ekāsanika",
+         "&ldquo;one who eats in one sitting&rdquo; &mdash; AN 5.188's closely "
+         "related, complementary practice."),
+        ("appicchataṁ",
+         "&ldquo;few wishes&rdquo; &mdash; part of the fifth, genuinely praiseworthy "
+         "motive established at AN 5.181, presupposed here."),
+        ("dhutaṅga",
+         "the later commentarial term for the whole catalog of austere practices this "
+         "chapter documents, including this one."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Refusers of late food"),
+        ("p", "&sect;1", "an5.189:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'khalupacchābhattika' describe?",
+         "opts": [
+             "One who refuses food offered after the meal has already begun",
+             "One who eats only before dawn",
+             "One who never accepts almsfood at all",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does this practice relate to AN 5.188's one-sitting rule?",
+         "opts": [
+             "It closes a loophole — refusing further food even within the same sitting",
+             "It contradicts AN 5.188 entirely",
+             "It has no relation to AN 5.188",
+             "It applies only to laypeople, unlike AN 5.188"],
+         "correct": 0,
+         "expl": "A stricter, complementary discipline."},
+        {"q": "What kind of act does this practice primarily concern?",
+         "opts": [
+             "An active refusal in the moment, turning away food already being offered",
+             "A permanent avoidance of a particular location",
+             "A formal legal proceeding",
+             "A meditation technique unrelated to food"],
+         "correct": 0,
+         "expl": "Distinct from the more passive where-or-how practices earlier in this catalog."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, ending in an ellipsis",
+             "The full five-motive analysis in detail",
+             "An extended narrative",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "The same compression as AN 5.185-188."},
+        {"q": "What position does this discourse occupy in the chapter's compression pattern?",
+         "opts": [
+             "The last discourse reduced to a single line before the template is restored",
+             "The first discourse in the entire chapter",
+             "The only discourse with no connection to AN 5.181",
+             "A discourse unrelated to the ascetic-practice catalog"],
+         "correct": 0,
+         "expl": "AN 5.190 immediately restores the full template."},
+        {"q": "What subtler point does this practice highlight, read alongside AN 5.188?",
+         "opts": [
+             "Real renunciation sometimes means knowing where to stop once an activity is already underway",
+             "Renunciation always means total avoidance of an activity",
+             "Food-related practices are less significant than dwelling-related ones",
+             "This practice has no genuine renunciatory significance"],
+         "correct": 0,
+         "expl": "Restraint mid-action, not only refusal at the outset."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-motive analysis given at AN 5.181",
+             "A rejection of AN 5.181's analysis",
+             "An entirely unrelated set of motives",
+             "That eating practices have no bearing on motive"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the earlier pattern."},
+        {"q": "What discourse follows, restoring the full template one final time?",
+         "opts": [
+             "AN 5.190, Those Who Eat Only From the Almsbowl",
+             "AN 5.191, the first discourse of the next chapter",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Closing this chapter as AN 5.181 opened it."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Araññavagga",
+             "Upāsakavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Wilderness Dwellers', this session's nineteenth chapter."},
+        {"q": "What does 'dhutaṅga' name?",
+         "opts": [
+             "The later commentarial term for this catalog of austere practices",
+             "A formal ordination ceremony",
+             "A type of monastic robe",
+             "A specific meditation posture"],
+         "correct": 0,
+         "expl": "Including this practice among its members."},
+    ],
+    marginalia=[
+        ("Closing a loophole", [
+            "refusing further food,",
+            "even mid-sitting",
+        ]),
+        ("Restraint mid-action", [
+            "knowing where to",
+            "stop, not just refusing",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">khalupacchābhattika</span>",
+            "&mdash; refusing food",
+            "offered late",
+        ]),
+        ("Cross-references", [
+            "AN 5.188 &middot; this practice's closely related, complementary rule",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.189/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.188.html">AN 5.188 &middot; Those Who Eat in One Sitting</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.190.html">AN 5.190 &middot; Those Who Eat Only From the '
+        "Almsbowl</a> &mdash; next: this chapter's closer, restoring the full "
+        "template.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; this '
+        "chapter's full statement of the five-motive template.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.190 — Pattapiṇḍikasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    190, "Pattapiṇḍika", "Those Who Eat Only From the Almsbowl",
+    vagga=VAGGA_19,
+    meta_title="AN 5.190 — Those Who Eat Only From the Almsbowl | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pattapiṇḍikasutta, closing the Araññavagga — the full five-motive template "
+        "restored, applied to eating only from the almsbowl, with no extra dishes. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the full five-item list restored, with the closing simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closing this "
+                       "chapter's template in full"),
+    ],
+    why=(
+        "This chapter closes exactly as it opened: the full five-motive analysis, "
+        "restored in complete detail, now applied to eating only from the almsbowl "
+        "itself &mdash; no separate dishes, no extra containers, only what fits in the "
+        "single bowl a mendicant carries."),
+    guide=[
+        ("Bookending AN 5.181", [
+            "After eight discourses of progressively steeper compression, this "
+            "closing discourse restores the full pattern in complete detail, exactly "
+            "matching AN 5.181's structure: the five motives spelled out in full, the "
+            "declaration of which is best, and the milk-to-cream-of-ghee simile "
+            "repeated verbatim."]),
+        ("Only the almsbowl, nothing more", [
+            "<em>Pattapiṇḍika</em> means eating only from the almsbowl itself, mixing "
+            "whatever food is received into that single container rather than using "
+            "separate plates or dishes &mdash; the most literal application of "
+            "&lsquo;few possessions&rsquo; to eating, using only the one vessel a "
+            "mendicant already carries."]),
+        ("The same five motives, one final time", [
+            "Stupidity and folly; corrupt, showy wishes; madness and mental disorder; "
+            "imitating what's praised; or genuine renunciation &mdash; the identical "
+            "five motives named at AN 5.181, restated here word for word, and "
+            "concluding with the same judgment: only the last is genuinely best."]),
+        ("The chapter's real subject, restated at both ends", [
+            "By restoring the full analysis at both the first and last discourse in "
+            "this ten-part catalog, the compilers make the chapter's real subject "
+            "unmistakable: not any particular ascetic practice, but the single "
+            "underlying question of motive that applies equally to all ten."]),
+        ("Closing the chapter", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. Araññavaggo "
+            "catuttho&rsquo; (&lsquo;The tenth. The fourth chapter on wilderness "
+            "dwellers&rsquo;), followed by an uddāna verse naming this chapter's ten "
+            "discourses in brief &mdash; the same summarizing mechanism explained in "
+            "full at AN 5.10."]),
+    ],
+    terms=[
+        ("pattapiṇḍika",
+         "&ldquo;one who eats only from the almsbowl&rdquo; &mdash; this discourse's "
+         "title concept, using no separate dishes."),
+        ("patta",
+         "&ldquo;almsbowl&rdquo; &mdash; the single vessel a mendicant carries, and "
+         "the only container this practice permits for eating."),
+        ("appicchataṁ, santuṭṭhiṁ, sallekhaṁ, pavivekaṁ",
+         "&ldquo;few wishes, contentment, self-effacement, seclusion&rdquo; &mdash; "
+         "the genuine motive this discourse restates as best, word for word from AN "
+         "5.181."),
+        ("sappimaṇḍo",
+         "&ldquo;cream of ghee&rdquo; &mdash; the closing simile's most refined "
+         "product, repeated verbatim from AN 5.181."),
+        ("dhutaṅga",
+         "the later commentarial term for this whole chapter's catalog of ten austere "
+         "practices, bookended by this discourse and AN 5.181."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter with the complete template "
+        "restored. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of almsbowl-only eater"),
+        ("p", "&sect;1", "an5.190:1.1-1.5"),
+        ("h3", "The best of the five, in simile"),
+        ("p", "&sect;2", "an5.190:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What does 'pattapiṇḍika' describe?",
+         "opts": [
+             "One who eats only from the almsbowl, using no separate dishes",
+             "One who never carries an almsbowl at all",
+             "One who eats only foods offered by a single donor",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does this discourse's structure compare to AN 5.181's?",
+         "opts": [
+             "It restores the full pattern in complete detail, exactly matching AN 5.181",
+             "It remains as compressed as AN 5.185-189",
+             "It introduces an entirely new analysis unrelated to AN 5.181",
+             "It contradicts AN 5.181's conclusions"],
+         "correct": 0,
+         "expl": "Bookending the chapter with a matching full statement."},
+        {"q": "What are the five motives restated in full here?",
+         "opts": [
+             "Stupidity, corrupt wishes, madness, imitation, and genuine renunciation",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five precepts",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Identical to AN 5.181's five motives, restated word for word."},
+        {"q": "What simile closes this discourse, repeated from AN 5.181?",
+         "opts": [
+             "The milk-to-cream-of-ghee simile",
+             "The tamed-bull simile",
+             "The rag-picker simile",
+             "The lotus-pond simile"],
+         "correct": 0,
+         "expl": "Repeated verbatim, illustrating the best of the five motives."},
+        {"q": "What does this discourse's restoration of the full template, at both ends of the chapter, make unmistakable?",
+         "opts": [
+             "That the chapter's real subject is motive, not any particular ascetic practice",
+             "That only the first and last practices in the catalog matter",
+             "That the eight middle discourses should be disregarded entirely",
+             "That ascetic practice has no connection to motive at all"],
+         "correct": 0,
+         "expl": "A single underlying question, applying equally to all ten practices."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Araññavaggo catuttho.'",
+             "'Dasamaṁ. Saddhammavaggo paṭhamo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Brāhmaṇavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The fourth chapter on wilderness dwellers.'"},
+        {"q": "What is 'patta'?",
+         "opts": [
+             "The almsbowl, the single vessel this practice permits for eating",
+             "A separate serving dish",
+             "A formal ordination requirement",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The one container a mendicant already carries."},
+        {"q": "What mechanism does the closing uddāna verse use, already explained earlier in this project?",
+         "opts": [
+             "A summary verse naming this chapter's ten discourses in brief, explained in full at AN 5.10",
+             "A formal legal proceeding",
+             "A newly introduced technique unique to this chapter",
+             "A narrative epilogue"],
+         "correct": 0,
+         "expl": "The same summarizing mechanism used throughout this project."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Brāhmaṇavagga",
+             "Kimilavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "AN 5.191 begins this collection's twentieth chapter."},
+        {"q": "What is the most literal application of 'few possessions' this discourse describes?",
+         "opts": [
+             "Using only the one vessel a mendicant already carries, with no separate dishes",
+             "Owning no robes at all",
+             "Refusing all almsfood permanently",
+             "Living without any shelter whatsoever"],
+         "correct": 0,
+         "expl": "Mixing whatever food is received into the single almsbowl."},
+    ],
+    marginalia=[
+        ("The full template, restored", [
+            "matching AN 5.181's",
+            "structure exactly",
+        ]),
+        ("One vessel, nothing more", [
+            "no separate dishes,",
+            "just the almsbowl",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">patta</span>",
+            "&mdash; the almsbowl",
+        ]),
+        ("Cross-references", [
+            "AN 5.181 &middot; this chapter's opening discourse, matched word for word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.190/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.189.html">AN 5.189 &middot; Refusers of Late Food</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.181.html">AN 5.181 &middot; Wilderness Dwellers</a> &mdash; '
+        "this chapter's opening discourse, matched word for word.",
+        '<a href="an-5.180.html">AN 5.180 &middot; About Gavesī</a> &mdash; a related '
+        "lay commitment to eating discipline, in the previous chapter.",
+    ],
+)
