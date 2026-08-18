@@ -20960,3 +20960,1628 @@ page(
         "this discourse's three conceits.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 11 — Tikavagga (AN 6.107–116), continuing the Second Fifty
+# --------------------------------------------------------------------------- #
+VAGGA_11 = "<em>Tikavagga</em> &mdash; the eleventh chapter of the Sixes, continuing the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.107 — Rāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    107, "Rāga", "Greed",
+    vagga=VAGGA_11,
+    meta_title="AN 6.107 — Greed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Rāgasutta, opening "
+        "the Sixes' eleventh chapter with the template this entire chapter repeats: three "
+        "things to give up, three antidotes to develop. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A fixed template — three things named, three antidotes to develop against "
+                 "them, one to one — opening a chapter of ten discourses sharing this exact "
+                 "grammatical shape"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of ugliness-perception, love, and wisdom as "
+                              "antidotes to greed, hate, and delusion recurs widely across the "
+                              "Chinese Āgamas' meditation instructions; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and highly "
+                       "formulaic, opening a chapter built entirely from ten instances of one "
+                       "template"),
+    ],
+    why=(
+        "Tikavagga, &lsquo;Triads,&rsquo; opens on the theme its name promises: the three "
+        "poisons &mdash; greed, hate, and delusion &mdash; paired one to one with three named "
+        "antidotes: the perception of ugliness against greed, love against hate, and wisdom "
+        "against delusion. Every discourse in this chapter repeats this exact template, "
+        "naming three things and their three matched antidotes, differing only in content."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up greed, hatred, and delusion, one should develop the perception of "
+            "ugliness, love, and wisdom, one antidote matched to each poison in turn."]),
+        ("A one-to-one matching, not a general remedy", [
+            "The discourse does not offer a single cure for all three poisons but pairs each "
+            "with its own specific antidote &mdash; ugliness-perception targets greed "
+            "specifically, love targets hate specifically, wisdom targets delusion "
+            "specifically &mdash; a structural principle this entire chapter will repeat with "
+            "different content nine more times."]),
+        ("The three poisons, this literature's most basic diagnosis", [
+            "Rāga, dosa, and moha &mdash; greed, hatred, and delusion &mdash; are among the "
+            "most fundamental categories in this literature's account of what drives unwholesome "
+            "action, already implicit throughout this collection's other discourses without "
+            "being named together as a fixed triad until this chapter makes the naming "
+            "explicit."]),
+        ("Ten discourses, one template, checked individually", [
+            "Given this chapter's shared template, each of its ten discourses requires the "
+            "same caution already earned repeatedly in this collection: sharing the discourse's "
+            "grammatical shape does not mean sharing its specific triad, and each page in this "
+            "chapter names its own distinct three things and three antidotes."]),
+    ],
+    terms=[
+        ("rāga, dosa, moha",
+         "&ldquo;greed, hatred, delusion&rdquo; &mdash; the three poisons, this discourse's "
+         "opening triad and this literature's most basic diagnostic category."),
+        ("asubhasaññā",
+         "&ldquo;the perception of ugliness&rdquo; &mdash; the antidote matched to greed, a "
+         "standard meditation subject counteracting attraction."),
+        ("mettā",
+         "&ldquo;love,&rdquo; loving-kindness &mdash; the antidote matched to hatred."),
+        ("paññā",
+         "&ldquo;wisdom&rdquo; &mdash; the antidote matched to delusion, closing this "
+         "discourse's list."),
+        ("tika",
+         "&ldquo;triad,&rdquo; a set of three &mdash; this chapter's own title term, naming "
+         "the fixed 3+3 template every discourse here repeats."),
+    ],
+    text_intro=(
+        "The discourse in full: the three poisons and their three matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.107:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.107:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse name, and what does this chapter's title "
+              "mean?",
+         "opts": [
+             "The five hindrances; the chapter is titled 'Hindrances'",
+             "Greed, hatred, and delusion; the chapter is titled Tikavagga, 'the Chapter on "
+             "Triads'",
+             "Faith, energy, wisdom; the chapter is titled 'Faculties'",
+             "The three fetters; the chapter is titled 'Fetters'"],
+         "correct": 1,
+         "expl": "This chapter's own namesake structure, a fixed 3+3 template repeated ten "
+                 "times."},
+        {"q": "How are the three antidotes matched to the three poisons?",
+         "opts": [
+             "A single antidote addresses all three poisons at once",
+             "One to one — ugliness-perception against greed, love against hate, wisdom "
+             "against delusion",
+             "The antidotes are unrelated to the specific poisons named",
+             "Each antidote addresses two poisons simultaneously"],
+         "correct": 1,
+         "expl": "A specific, targeted pairing rather than one general remedy."},
+        {"q": "What caution does the guide draw for this entire chapter, given its shared "
+              "template?",
+         "opts": [
+             "That all ten discourses in this chapter share identical content",
+             "That sharing a grammatical shape does not mean sharing a specific triad — each "
+             "discourse names its own distinct three things and three antidotes",
+             "That only this discourse is worth reading in the chapter",
+             "That the template itself is unimportant"],
+         "correct": 1,
+         "expl": "A caution earned repeatedly by this collection's other same-shape, "
+                 "different-content discourses."},
+        {"q": "What are rāga, dosa, and moha, according to the guide?",
+         "opts": [
+             "Three minor, rarely mentioned concepts",
+             "The three poisons, among the most fundamental categories in this literature's "
+             "account of what drives unwholesome action",
+             "Three synonyms for the same single concept",
+             "Terms unrelated to unwholesome action"],
+         "correct": 1,
+         "expl": "This literature's most basic diagnostic triad, made explicit here."},
+        {"q": "Is a setting stated for AN 6.107?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>asubhasaññā</em> mean?",
+         "opts": ["Loving-kindness", "The perception of ugliness", "Wisdom", "Mindfulness of breathing"],
+         "correct": 1,
+         "expl": "The antidote matched specifically to greed."},
+    ],
+    marginalia=[
+        ("Three poisons, three antidotes", [
+            "greed &rarr; ugliness-perception",
+            "hate &rarr; love",
+            "delusion &rarr; wisdom",
+        ]),
+        ("A fixed template, repeated", [
+            "'there are three things...",
+            "develop three things' —",
+            "ten discourses, one shape",
+        ]),
+        ("The most basic diagnosis", [
+            "rāga, dosa, moha —",
+            "implicit throughout,",
+            "named as a triad here",
+        ]),
+        ("Cross-references", [
+            "AN 6.106 &middot; previous, closing the last chapter",
+            "AN 6.108 &middot; next, the same template applied to conduct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.107/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.106.html">AN 6.106 &middot; Craving</a> &mdash; previous, closing the '
+        "last chapter.",
+        '<a href="an-6.108.html">AN 6.108 &middot; Bad Conduct</a> &mdash; next, the same '
+        "template applied to conduct of body, speech, and mind.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.108 — Duccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    108, "Duccarita", "Bad Conduct",
+    vagga=VAGGA_11,
+    meta_title="AN 6.108 — Bad Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Duccaritasutta, "
+        "applying this chapter's shared template to bad conduct of body, speech, and mind. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template — three things named, three antidotes "
+                 "developed — applied to the three doors of action"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The threefold division of conduct into bodily, verbal, and "
+                              "mental action recurs throughout the Chinese Āgamas and Vinaya "
+                              "literature; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "naming the three doors of action rather than an inward state"),
+    ],
+    why=(
+        "AN 6.108 applies AN 6.107's exact template to a different, more externally "
+        "observable register: bad conduct by way of body, speech, and mind, reversed one to "
+        "one by good conduct in each of the same three domains &mdash; the three "
+        "&ldquo;doors&rdquo; through which action is traditionally classified in this "
+        "literature."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up bad conduct of body, speech, and mind, one should develop good conduct "
+            "of body, speech, and mind, each antidote matched exactly to its corresponding "
+            "poor conduct."]),
+        ("The three doors of action, not the three poisons", [
+            "Where AN 6.107 named three inward motivations (greed, hate, delusion), this "
+            "discourse names three outward channels through which any motivation, wholesome "
+            "or not, expresses itself &mdash; kāya, vacī, and mano, body, speech, and mind, the "
+            "standard threefold classification of karmic action in this literature."]),
+        ("The simplest possible antidote structure", [
+            "Unlike AN 6.107's distinct antidotes (ugliness-perception, love, wisdom) matched "
+            "to distinct poisons, this discourse's antidotes are simply the direct positive "
+            "counterpart of each named fault &mdash; good bodily conduct against bad bodily "
+            "conduct, and so on &mdash; the most literal possible instance of this chapter's "
+            "template."]),
+        ("A conduct-level companion to AN 6.107's inward triad", [
+            "Read together, AN 6.107 and 6.108 suggest two complementary registers this "
+            "chapter will continue to alternate between: inward states requiring a specifically "
+            "matched antidote, and outward conduct requiring simply its own direct reversal."]),
+    ],
+    terms=[
+        ("kāyaduccarita, vacīduccarita, manoduccarita",
+         "&ldquo;bad conduct by way of body, speech, mind&rdquo; &mdash; this discourse's "
+         "opening triad, the three standard doors of karmic action."),
+        ("kāyasucarita, vacīsucarita, manosucarita",
+         "&ldquo;good conduct by way of body, speech, mind&rdquo; &mdash; the antidote triad, "
+         "the direct positive counterpart of each named fault."),
+        ("duccarita",
+         "&ldquo;bad conduct,&rdquo; misconduct &mdash; this discourse's own title term."),
+        ("kāya, vacī, mano",
+         "&ldquo;body, speech, mind&rdquo; &mdash; the three doors through which action is "
+         "traditionally classified in this literature."),
+        ("tika",
+         "&ldquo;triad&rdquo; &mdash; this chapter's shared structural principle, here applied "
+         "to the three doors of action rather than the three poisons."),
+    ],
+    text_intro=(
+        "The discourse in full: bad conduct of body, speech, and mind, and its direct "
+        "reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.108:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.108:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse name, unlike AN 6.107's three poisons?",
+         "opts": [
+             "The same three poisons, restated",
+             "Bad conduct of body, speech, and mind — the three doors through which any "
+             "motivation expresses itself outwardly",
+             "The five hindrances",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "Outward channels of action, rather than AN 6.107's inward motivations."},
+        {"q": "How does this discourse's antidote structure differ from AN 6.107's, according "
+              "to the guide?",
+         "opts": [
+             "Identical — distinct antidotes matched to distinct faults",
+             "Simpler — each antidote is the direct positive counterpart of its named fault, "
+             "rather than a distinctly different remedy",
+             "This discourse has no antidotes at all",
+             "The antidotes are unrelated to the faults named"],
+         "correct": 1,
+         "expl": "The most literal possible instance of this chapter's template."},
+        {"q": "What two complementary registers does the guide say AN 6.107 and 6.108 "
+              "together suggest?",
+         "opts": [
+             "No meaningful distinction between the two",
+             "Inward states requiring a specifically matched antidote, and outward conduct "
+             "requiring simply its own direct reversal",
+             "Both discourses concern only outward conduct",
+             "Both discourses concern only inward states"],
+         "correct": 1,
+         "expl": "Two registers this chapter continues to alternate between across its ten "
+                 "discourses."},
+        {"q": "What are the three standard 'doors' of karmic action named in this discourse?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Kāya, vacī, mano — body, speech, and mind",
+             "The five aggregates",
+             "The three realms of existence"],
+         "correct": 1,
+         "expl": "The standard threefold classification of action in this literature."},
+        {"q": "Is a setting stated for AN 6.108?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.107 immediately before it."},
+        {"q": "What does <em>duccarita</em> mean?",
+         "opts": ["Good conduct", "Bad conduct, misconduct", "Wisdom", "Restraint"],
+         "correct": 1,
+         "expl": "This discourse's own title term, negated by its antidote triad."},
+    ],
+    marginalia=[
+        ("Three doors of action", [
+            "bad conduct of body,",
+            "speech, mind &rarr; good conduct",
+            "of body, speech, mind",
+        ]),
+        ("The simplest antidote form", [
+            "each remedy is just",
+            "the direct positive",
+            "counterpart of its fault",
+        ]),
+        ("Two registers alternating", [
+            "AN 6.107: inward states —",
+            "AN 6.108: outward",
+            "conduct, this chapter's two modes",
+        ]),
+        ("Cross-references", [
+            "AN 6.107 &middot; previous, the inward triad this discourse complements",
+            "AN 6.109 &middot; next, returning to an inward register: thoughts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.108/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.107.html">AN 6.107 &middot; Greed</a> &mdash; previous, the same '
+        "template applied to the three poisons.",
+        '<a href="an-6.109.html">AN 6.109 &middot; Thoughts</a> &mdash; next, opening a '
+        "three-discourse family sharing one triad across three registers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.109 — Vitakkasutta
+# --------------------------------------------------------------------------- #
+page(
+    109, "Vitakka", "Thoughts",
+    vagga=VAGGA_11,
+    meta_title="AN 6.109 — Thoughts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vitakkasutta, opening "
+        "a three-discourse family that applies the identical sensual/malicious/cruel triad to "
+        "thought, perception, and element in turn. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied here to thought — the first of "
+                 "three discourses restating the identical sensual/malicious/cruel triad "
+                 "across three different psychological registers"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The threefold antidote of renunciation, good will, and "
+                              "harmlessness against sensual, malicious, and cruel thought "
+                              "recurs widely across the Chinese Āgamas' treatment of right "
+                              "thought; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the same triad and "
+                       "antidotes already met at AN 6.74 and 6.75, worth checking for identity "
+                       "rather than assuming a fresh list"),
+    ],
+    why=(
+        "AN 6.109 opens a genuinely rare case in this collection: three consecutive "
+        "discourses &mdash; this one, AN 6.110, and AN 6.111 &mdash; restating the identical "
+        "content, sensual, malicious, and cruel, reversed by renunciation, good will, and "
+        "harmlessness, applied first to thought, then to perception, then to a third register, "
+        "&ldquo;element,&rdquo; not yet met by this name in this collection."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up sensual, malicious, and cruel thoughts, one should develop thoughts of "
+            "renunciation, good will, and harmlessness, each antidote matched to its "
+            "corresponding thought."]),
+        ("Content already met twice before, in this exact wording", [
+            "Checked term by term against AN 6.74 and 6.75 earlier in this collection, this "
+            "discourse's triad and antidotes are identical: kāma/byāpāda/vihiṁsā thought, "
+            "reversed by nekkhamma/abyāpāda/avihiṁsā thought. This is the third time this "
+            "collection has met this exact content, now recast into Tikavagga's 3+3 template."]),
+        ("A third register about to be added", [
+            "AN 6.74 and 6.75 treated this content as blocking the first absorption and "
+            "present happiness respectively. This discourse and its two immediate companions "
+            "instead present it under the antidote structure common to this entire chapter, "
+            "with AN 6.110 restating it for perception and AN 6.111 for a third, previously "
+            "unnamed register, dhātu."]),
+        ("Why the same triad recurs across so many registers", [
+            "That this exact sensual/malicious/cruel triad recurs at AN 6.74, 6.75, 6.109, and "
+            "6.110 (with a further variant at 6.111) suggests this literature treats it as a "
+            "single underlying disposition expressing itself at multiple levels &mdash; as "
+            "thought, as perception, and (at AN 6.111) as a more fundamental "
+            "&ldquo;element&rdquo; &mdash; rather than three unrelated occurrences of a "
+            "coincidentally similar list."]),
+    ],
+    terms=[
+        ("kāmavitakka, byāpādavitakka, vihiṁsāvitakka",
+         "&ldquo;sensual, malicious, and cruel thought&rdquo; &mdash; identical to the "
+         "blocking triad already met at AN 6.74 and 6.75."),
+        ("nekkhammavitakka, abyāpādavitakka, avihiṁsāvitakka",
+         "&ldquo;thoughts of renunciation, good will, and harmlessness&rdquo; &mdash; "
+         "identical to AN 6.75's antidote triad, here recast as this chapter's antidotes."),
+        ("vitakka",
+         "&ldquo;thought,&rdquo; applied thought &mdash; this discourse's own register, the "
+         "first of three this same content is applied to across AN 6.109–111."),
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; the register AN 6.110 will apply this identical "
+         "content to next."),
+        ("dhātu",
+         "&ldquo;element&rdquo; &mdash; the third and previously unmet register AN 6.111 will "
+         "apply this content to."),
+    ],
+    text_intro=(
+        "The discourse in full: sensual, malicious, and cruel thoughts, and their three "
+        "matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.109:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.109:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's triad and antidotes compare to AN 6.74 and 6.75's, "
+              "checked term by term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — the same sensual, malicious, and cruel thoughts, reversed by "
+             "renunciation, good will, and harmlessness — this is the third time this exact "
+             "content has appeared in this collection",
+             "Only half the items overlap",
+             "No relationship between the discourses at all"],
+         "correct": 1,
+         "expl": "Content already met twice before, now recast into this chapter's template."},
+        {"q": "What two further discourses does this one open a family with?",
+         "opts": [
+             "AN 6.112 and 6.113",
+             "AN 6.110 and 6.111, restating the identical content applied to perception and "
+             "then to a third register, element",
+             "AN 6.107 and 6.108",
+             "There is no related family of discourses"],
+         "correct": 1,
+         "expl": "A genuinely rare case of the same specific content restated three times in "
+                 "immediate succession."},
+        {"q": "What does the guide suggest is the significance of this triad recurring across "
+              "so many registers in this collection?",
+         "opts": [
+             "Nothing — it is simply an accident of composition",
+             "That this literature treats it as a single underlying disposition expressing "
+             "itself at multiple levels — thought, perception, and a more fundamental element "
+             "— rather than coincidental repetition",
+             "That the later occurrences are corrupted copies of the first",
+             "That only one of the several occurrences is authentic"],
+         "correct": 1,
+         "expl": "A disposition expressing itself across registers, not a coincidence."},
+        {"q": "What target did AN 6.74 and 6.75 apply this same content to, unlike this "
+              "discourse?",
+         "opts": [
+             "Nothing — those discourses had no stated target",
+             "The first absorption (AN 6.74) and present happiness and rebirth (AN 6.75), "
+             "rather than this chapter's antidote structure",
+             "The same antidote structure as this discourse",
+             "A completely unrelated topic in both cases"],
+         "correct": 1,
+         "expl": "The same content serving different rhetorical purposes across three "
+                 "discourses in two different chapters."},
+        {"q": "Is a setting stated for AN 6.109?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>dhātu</em> mean, and where does it appear in this family?",
+         "opts": [
+             "'Perception' — appearing at AN 6.110",
+             "'Element' — a third, previously unmet register this content will be applied to "
+             "at AN 6.111",
+             "'Thought' — the register of this discourse itself",
+             "A term unrelated to this family of discourses"],
+         "correct": 1,
+         "expl": "The third register in this rare three-discourse restatement."},
+    ],
+    marginalia=[
+        ("The same triad again", [
+            "sensual, malicious,",
+            "cruel — identical to",
+            "AN 6.74 and 6.75",
+        ]),
+        ("A three-register family", [
+            "thought (6.109),",
+            "perception (6.110),",
+            "element (6.111) — same content",
+        ]),
+        ("One disposition, several levels", [
+            "not coincidence —",
+            "the same underlying",
+            "tendency, multiply expressed",
+        ]),
+        ("Cross-references", [
+            "AN 6.74/6.75 &middot; earlier, this exact content under different targets",
+            "AN 6.110 &middot; next, the same content applied to perception",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.109/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.75.html">AN 6.75 &middot; Suffering</a> &mdash; earlier, the same '
+        "content applied to present happiness and rebirth.",
+        '<a href="an-6.110.html">AN 6.110 &middot; Perceptions</a> &mdash; next, the '
+        "identical content applied to perception.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.110 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    110, "Saññā", "Perceptions",
+    vagga=VAGGA_11,
+    meta_title="AN 6.110 — Perceptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saññāsutta, the "
+        "second of a three-discourse family restating the identical sensual/malicious/cruel "
+        "triad, now applied to perception. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied here to perception — the second of "
+                 "three discourses restating one identical triad"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The threefold antidote of renunciation, good will, and "
+                              "harmlessness against sensual, malicious, and cruel perception "
+                              "recurs widely across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; identical content to AN "
+                       "6.109, one register shifted"),
+    ],
+    why=(
+        "AN 6.110 restates AN 6.109's exact content &mdash; sensual, malicious, and cruel, "
+        "reversed by renunciation, good will, and harmlessness &mdash; changing only the "
+        "register from thought (vitakka) to perception (saññā), the fourth appearance of this "
+        "identical triad within this collection, now counting AN 6.74, 6.75, and 6.109."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up sensual, malicious, and cruel perceptions, one should develop "
+            "perceptions of renunciation, good will, and harmlessness, each antidote matched "
+            "to its corresponding perception."]),
+        ("The fourth appearance of one exact triad", [
+            "Checked word for word, this discourse's content is identical to AN 6.109's, with "
+            "vitakka (thought) replaced throughout by saññā (perception) &mdash; the fourth "
+            "time this collection has stated this exact kāma/byāpāda/vihiṁsā content, after "
+            "AN 6.74, 6.75, and 6.109."]),
+        ("Thought and perception, distinguished elsewhere in this collection", [
+            "AN 6.74's own reading guide already distinguished vitakka as the more active, "
+            "verbal register of mental activity from saññā's more basic act of recognizing or "
+            "labeling experience &mdash; a distinction this discourse's restatement preserves "
+            "by keeping the two registers as genuinely separate discourses rather than merging "
+            "them into one."]),
+        ("One register remaining", [
+            "With thought and perception both now treated, AN 6.111 completes this "
+            "three-discourse family by applying the identical content to dhātu, "
+            "&ldquo;element,&rdquo; a term this discourse's own list has not yet used."]),
+    ],
+    terms=[
+        ("kāmasaññā, byāpādasaññā, vihiṁsāsaññā",
+         "&ldquo;sensual, malicious, and cruel perception&rdquo; &mdash; identical to the "
+         "blocking triad already met at AN 6.74, 6.75, and (as thought) AN 6.109."),
+        ("nekkhammasaññā, abyāpādasaññā, avihiṁsāsaññā",
+         "&ldquo;perceptions of renunciation, good will, and harmlessness&rdquo; &mdash; "
+         "identical in content to AN 6.109's antidote triad, restated for perception."),
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; this discourse's own register, the second of three "
+         "this content is applied to across AN 6.109–111."),
+        ("vitakka",
+         "&ldquo;thought&rdquo; &mdash; the register AN 6.109 applied this identical content "
+         "to immediately before this discourse."),
+        ("dhātu",
+         "&ldquo;element&rdquo; &mdash; the third and final register AN 6.111 will apply this "
+         "content to next."),
+    ],
+    text_intro=(
+        "The discourse in full: sensual, malicious, and cruel perceptions, and their three "
+        "matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.110:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.110:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 6.109's, checked word for "
+              "word?",
+         "opts": [
+             "Entirely different content",
+             "Identical, with vitakka (thought) replaced throughout by saññā (perception) — "
+             "the fourth appearance of this exact triad in this collection",
+             "Only the antidote triad is shared",
+             "Only the blocking triad is shared"],
+         "correct": 1,
+         "expl": "One register swapped, otherwise word-for-word identical to its immediate "
+                 "predecessor."},
+        {"q": "How many times has this collection now stated this exact "
+              "kāma/byāpāda/vihiṁsā content, counting this discourse?",
+         "opts": ["Once", "Twice", "Four times — AN 6.74, 6.75, 6.109, and this discourse", "Six times"],
+         "correct": 2,
+         "expl": "A content this collection returns to across multiple registers and "
+                 "contexts."},
+        {"q": "What distinction does the guide draw on from AN 6.74's earlier reading guide?",
+         "opts": [
+             "No distinction is drawn",
+             "That vitakka is the more active, verbal register of mental activity, while "
+             "saññā is the more basic act of recognizing or labeling experience — a "
+             "distinction this restatement preserves by keeping them separate",
+             "That the two terms are perfect synonyms with no meaningful difference",
+             "That saññā is more active than vitakka"],
+         "correct": 1,
+         "expl": "A distinction maintained by treating thought and perception as genuinely "
+                 "separate discourses."},
+        {"q": "What register remains to complete this three-discourse family?",
+         "opts": [
+             "Nothing further — the family is complete with two discourses",
+             "Dhātu, 'element,' taken up next at AN 6.111",
+             "A return to thought, restated a third time",
+             "A shift to an entirely unrelated topic"],
+         "correct": 1,
+         "expl": "AN 6.111 completes the family with a third register."},
+        {"q": "Is a setting stated for AN 6.110?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.109 immediately before it."},
+        {"q": "What does <em>vihiṁsāsaññā</em> mean?",
+         "opts": ["Sensual perception", "Malicious perception", "Cruel perception", "Perception of renunciation"],
+         "correct": 2,
+         "expl": "The third of the three blocking perceptions named in this discourse."},
+    ],
+    marginalia=[
+        ("One register swapped", [
+            "thought (6.109) becomes",
+            "perception (6.110) —",
+            "otherwise word for word identical",
+        ]),
+        ("The fourth appearance", [
+            "of this exact triad —",
+            "AN 6.74, 6.75, 6.109,",
+            "and now this discourse",
+        ]),
+        ("Kept separate, not merged", [
+            "thought and perception",
+            "distinguished elsewhere —",
+            "two discourses, not one",
+        ]),
+        ("Cross-references", [
+            "AN 6.109 &middot; previous, this same content applied to thought",
+            "AN 6.111 &middot; next, completing the family with 'element'",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.110/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.109.html">AN 6.109 &middot; Thoughts</a> &mdash; previous, this same '
+        "content applied to thought.",
+        '<a href="an-6.111.html">AN 6.111 &middot; Elements</a> &mdash; next, completing this '
+        "family with a third register.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.111 — Dhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    111, "Dhātu", "Elements",
+    vagga=VAGGA_11,
+    meta_title="AN 6.111 — Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dhātusutta, closing a "
+        "three-discourse family by applying the identical sensual/malicious/cruel triad to "
+        "the register of 'element'. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied here to 'element' — the third and "
+                 "final discourse in a family restating one identical triad"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The treatment of sensuality, malice, and cruelty as "
+                              "&ldquo;elements&rdquo; recurs in related forms across the "
+                              "Chinese Āgamas' Abhidharma-adjacent material; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this family with "
+                       "its most abstract register, dhātu, worth distinguishing from this "
+                       "term's more common cosmological or physical senses"),
+    ],
+    why=(
+        "AN 6.111 closes the three-discourse family begun at AN 6.109, restating the same "
+        "sensual/malicious/cruel content a fifth time overall in this collection, now cast as "
+        "three dhātu, &ldquo;elements&rdquo; &mdash; the most abstract of the three registers "
+        "this content has been applied to, naming sensuality, malice, and cruelty as "
+        "fundamental constituents rather than episodes of thought or perception."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the elements of sensuality, malice, and cruelty, one should develop "
+            "the elements of renunciation, good will, and harmlessness, each antidote matched "
+            "to its corresponding element."]),
+        ("Dhātu here, distinguished from its more common senses", [
+            "Elsewhere in this literature, dhātu most often names the four or six physical "
+            "elements, or the eighteen sensory elements of experience. This discourse's usage "
+            "&mdash; the &ldquo;element of sensuality,&rdquo; kāmadhātu, and its two companions "
+            "&mdash; instead names sensuality, malice, and cruelty as basic constituent "
+            "tendencies, a narrower and more specific application of the term than its usual "
+            "range."]),
+        ("The fifth appearance, and the family's completion", [
+            "Counting AN 6.74, 6.75, 6.109, and 6.110, this is the fifth time this collection "
+            "has stated this exact kāma/byāpāda/vihiṁsā content &mdash; and, with thought, "
+            "perception, and now element all treated, the most registers this content has been "
+            "applied across."]),
+        ("From episode to constituent", [
+            "Where thought and perception name specific arisings &mdash; a thought that "
+            "occurs, a perception that colors an experience &mdash; 'element' names something "
+            "more like a standing tendency or raw material from which such episodes are drawn, "
+            "the most fundamental of the three registers this family has moved through."]),
+    ],
+    terms=[
+        ("kāmadhātu, byāpādadhātu, vihiṁsādhātu",
+         "&ldquo;the element of sensuality, malice, cruelty&rdquo; &mdash; this discourse's "
+         "own triad, distinct from dhātu's more common physical or sensory senses elsewhere."),
+        ("nekkhammadhātu, abyāpādadhātu, avihiṁsādhātu",
+         "&ldquo;the element of renunciation, good will, harmlessness&rdquo; &mdash; the "
+         "antidote triad, completing this content's fifth appearance in this collection."),
+        ("dhātu",
+         "&ldquo;element&rdquo; &mdash; this discourse's own register, here naming a basic "
+         "constituent tendency rather than a physical or sensory category."),
+        ("vitakka, saññā",
+         "&ldquo;thought, perception&rdquo; &mdash; the two registers this same content was "
+         "applied to at AN 6.109 and 6.110 immediately before this discourse."),
+        ("tika",
+         "&ldquo;triad&rdquo; &mdash; this chapter's structural principle, here closing its "
+         "richest cross-register family of restatements."),
+    ],
+    text_intro=(
+        "The discourse in full: the elements of sensuality, malice, and cruelty, and their "
+        "three matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.111:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.111:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's usage of dhātu compare to its more common sense "
+              "elsewhere in this literature, according to the guide?",
+         "opts": [
+             "Identical — dhātu always means the same thing everywhere",
+             "A narrower, more specific application — sensuality, malice, and cruelty as basic "
+             "constituent tendencies, rather than dhātu's more common physical or sensory "
+             "senses",
+             "Unrelated to dhātu's meaning anywhere else",
+             "A term used only in this one discourse across the entire canon"],
+         "correct": 1,
+         "expl": "A specific, narrower use of a term more commonly applied to physical or "
+                 "sensory elements."},
+        {"q": "How many times, counting this discourse, has this collection now stated this "
+              "exact kāma/byāpāda/vihiṁsā content?",
+         "opts": ["Twice", "Three times", "Five times — AN 6.74, 6.75, 6.109, 6.110, and this discourse", "Once"],
+         "correct": 2,
+         "expl": "The most-repeated specific content across registers in this collection so "
+                 "far."},
+        {"q": "How does the guide distinguish 'element' from 'thought' and 'perception' as "
+              "registers for this same content?",
+         "opts": [
+             "No distinction — all three are identical in meaning",
+             "Thought and perception name specific arisings, while element names something "
+             "more like a standing tendency or raw material from which such episodes are drawn",
+             "Element is less fundamental than thought or perception",
+             "The three registers are entirely unrelated"],
+         "correct": 1,
+         "expl": "A movement from episode to underlying constituent across this three-"
+                 "discourse family."},
+        {"q": "What completes with this discourse?",
+         "opts": [
+             "Nothing — more discourses in this family follow",
+             "The three-discourse family begun at AN 6.109, having now applied one identical "
+             "triad across thought, perception, and element",
+             "The entire chapter",
+             "The entire collection"],
+         "correct": 1,
+         "expl": "The richest cross-register restatement family in this collection so far, now "
+                 "complete."},
+        {"q": "Is a setting stated for AN 6.111?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.109 and 6.110 before it."},
+        {"q": "What does <em>byāpādadhātu</em> mean?",
+         "opts": ["The element of sensuality", "The element of malice", "The element of cruelty", "The element of renunciation"],
+         "correct": 1,
+         "expl": "The second of the three blocking elements named in this discourse."},
+    ],
+    marginalia=[
+        ("A fifth appearance", [
+            "of the same triad —",
+            "AN 6.74, 75, 109,",
+            "110, and now this discourse",
+        ]),
+        ("A narrower sense of dhātu", [
+            "not physical elements —",
+            "sensuality, malice,",
+            "cruelty as constituent tendencies",
+        ]),
+        ("From episode to constituent", [
+            "thought, then perception,",
+            "now element — moving",
+            "toward what underlies both",
+        ]),
+        ("Cross-references", [
+            "AN 6.109/6.110 &middot; earlier, this same content across thought and perception",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.111/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.110.html">AN 6.110 &middot; Perceptions</a> &mdash; previous, this same '
+        "content applied to perception.",
+        '<a href="an-6.112.html">AN 6.112 &middot; Gratification</a> &mdash; next, a return '
+        "to distinct, unrepeated content.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.112 — Assādasutta
+# --------------------------------------------------------------------------- #
+page(
+    112, "Assāda", "Gratification",
+    vagga=VAGGA_11,
+    meta_title="AN 6.112 — Gratification | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Assādasutta, applying "
+        "this chapter's template to three views — gratification, self, and wrong view — "
+        "reversed by the three characteristics and right view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, returning to distinct content after "
+                 "AN 6.109–111's three-discourse restatement"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of impermanence-perception, not-self-perception, "
+                              "and right view against three named wrong views recurs widely "
+                              "across the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names three distinct wrong "
+                       "views rather than a single repeated content, drawing together several "
+                       "threads from earlier in this collection"),
+    ],
+    why=(
+        "AN 6.112 returns this chapter to distinct content after AN 6.109&ndash;111's rare "
+        "three-discourse restatement: the view that things are gratifying, the theory of a "
+        "self, and wrong view generally, reversed by the perception of impermanence, the "
+        "perception of not-self, and right view &mdash; drawing together several strands "
+        "already met separately earlier in this collection."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the view that things are gratifying, the theory of self, and wrong "
+            "view, one should develop the perception of impermanence, the perception of "
+            "not-self, and right view, each antidote matched to its corresponding wrong view."]),
+        ("Three wrong views, each already met individually", [
+            "Regarding conditions as gratifying and regarding anything as self were already "
+            "named as blocking perceptions at AN 6.98&ndash;100 (there as pleasure- and "
+            "self-view specifically); this discourse groups a version of both together with a "
+            "third, more general wrong view, reversed by antidotes already named at AN 6.93 as "
+            "what one accomplished in view cannot fall back into."]),
+        ("Impermanence and not-self perceptions, not suffering-perception", [
+            "Where AN 6.98&ndash;101's chain named all three characteristics (impermanence, "
+            "suffering, not-self) as separately blocking the sure path, this discourse's two "
+            "perceptual antidotes name only impermanence and not-self, pairing them instead "
+            "with right view generally rather than with a perception of suffering "
+            "specifically."]),
+        ("A discourse drawing threads together, not introducing new content", [
+            "Nearly every element of this discourse's two triads &mdash; gratification-view, "
+            "self-view, wrong view, impermanence-perception, not-self-perception, right view "
+            "&mdash; has appeared individually elsewhere in this collection; this discourse's "
+            "contribution is the specific one-to-one pairing under Tikavagga's shared "
+            "template, not new doctrinal content."]),
+    ],
+    terms=[
+        ("assādadiṭṭhi",
+         "&ldquo;the view that things are gratifying&rdquo; &mdash; the discourse's own title "
+         "term, the first of the three wrong views named."),
+        ("attavāda",
+         "&ldquo;the theory of self&rdquo; &mdash; the second wrong view, connecting to "
+         "self-view already treated at AN 6.89–91 and 6.93."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the third and most general item, already met at AN "
+         "6.81 as one of six things delivering someone to hell."),
+        ("aniccasaññā, anattasaññā",
+         "&ldquo;the perception of impermanence, the perception of not-self&rdquo; &mdash; "
+         "two of the three antidotes, drawing on perceptions already named individually at AN "
+         "6.98, 6.100, and 6.102–104."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the third antidote, the direct reversal of wrong "
+         "view generally."),
+    ],
+    text_intro=(
+        "The discourse in full: three wrong views and their three matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.112:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.112:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What three wrong views does this discourse name?",
+         "opts": [
+             "The five hindrances",
+             "The view that things are gratifying, the theory of self, and wrong view "
+             "generally",
+             "The three fetters of AN 6.89",
+             "The three poisons of AN 6.107"],
+         "correct": 1,
+         "expl": "Three distinct views, each already met individually elsewhere in this "
+                 "collection."},
+        {"q": "How does this discourse relate to AN 6.109–111's pattern immediately before "
+              "it?",
+         "opts": [
+             "It continues restating the identical sensual/malicious/cruel content",
+             "It returns to distinct content, breaking the rare three-discourse restatement "
+             "pattern of AN 6.109–111",
+             "It has no relationship to what precedes it",
+             "It restates AN 6.109's content a sixth time"],
+         "correct": 1,
+         "expl": "A return to this chapter's more typical pattern of distinct content per "
+                 "discourse."},
+        {"q": "According to the guide, what is this discourse's actual contribution, given "
+              "that most of its individual elements appear elsewhere in this collection?",
+         "opts": [
+             "Entirely new doctrinal content not found anywhere else",
+             "The specific one-to-one pairing of these elements under this chapter's shared "
+             "template, drawing together threads already present individually elsewhere",
+             "A direct contradiction of earlier discourses",
+             "Nothing of note — the discourse is simply redundant"],
+         "correct": 1,
+         "expl": "A synthesis and structural pairing, not a new teaching from scratch."},
+        {"q": "How does this discourse's two perceptual antidotes differ from AN 6.98–101's "
+              "full treatment of the three characteristics?",
+         "opts": [
+             "Identical — all three characteristics are named",
+             "This discourse names only impermanence and not-self, pairing them with right "
+             "view generally rather than a perception of suffering specifically",
+             "This discourse names only suffering",
+             "No perceptual antidotes are named at all"],
+         "correct": 1,
+         "expl": "Two of the three characteristics, paired differently than in AN 6.98–101's "
+                 "fuller chain."},
+        {"q": "Where else in this collection has 'wrong view' (micchādiṭṭhi) already appeared "
+              "as a named item?",
+         "opts": [
+             "Nowhere else in this collection",
+             "At AN 6.81, as one of six things delivering someone to hell",
+             "Only in this discourse",
+             "At AN 6.107, among the three poisons"],
+         "correct": 1,
+         "expl": "A term this collection has already used in a different context earlier."},
+        {"q": "Is a setting stated for AN 6.112?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+    ],
+    marginalia=[
+        ("Three wrong views", [
+            "gratification-view &middot;",
+            "self-view &middot; wrong view",
+            "generally — reversed by three antidotes",
+        ]),
+        ("Threads drawn together", [
+            "each element already met",
+            "elsewhere — this discourse's",
+            "own contribution is the pairing",
+        ]),
+        ("Two characteristics, not three", [
+            "impermanence, not-self —",
+            "paired with right view,",
+            "not a perception of suffering",
+        ]),
+        ("Cross-references", [
+            "AN 6.98–101 &middot; earlier, the fuller three-characteristics chain",
+            "AN 6.81 &middot; earlier, wrong view among six things leading to hell",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.112/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.111.html">AN 6.111 &middot; Elements</a> &mdash; previous, closing the '
+        "three-register restatement family.",
+        '<a href="an-6.113.html">AN 6.113 &middot; Discontent</a> &mdash; next, three '
+        "distinct conduct-level faults and their antidotes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.113 — Aratisutta
+# --------------------------------------------------------------------------- #
+page(
+    113, "Arati", "Discontent",
+    vagga=VAGGA_11,
+    meta_title="AN 6.113 — Discontent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aratisutta, applying "
+        "this chapter's template to discontent, cruelty, and unprincipled conduct. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied to a fresh triad of practical faults"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of rejoicing, harmlessness, and principled conduct "
+                              "as antidotes recurs widely across the Chinese Āgamas' practical "
+                              "ethical instruction; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "distinct content from every discourse in this chapter so far"),
+    ],
+    why=(
+        "AN 6.113 names three practical faults &mdash; discontent, cruelty, and unprincipled "
+        "conduct &mdash; reversed by rejoicing, harmlessness, and principled conduct, distinct "
+        "content from every discourse in this chapter before it, checked term by term against "
+        "AN 6.107&ndash;112's several triads."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up discontent, cruelty, and unprincipled conduct, one should develop "
+            "rejoicing, harmlessness, and principled conduct, each antidote matched to its "
+            "corresponding fault."]),
+        ("Harmlessness recurring, in a new pairing", [
+            "Avihiṁsā, harmlessness, already appeared as an antidote to cruel thought at AN "
+            "6.75 and 6.109&ndash;111; here it is paired specifically against cruelty "
+            "(vihiṁsā) named as a standalone item, rather than against a cruel thought, "
+            "perception, or element."]),
+        ("Rejoicing, a term new to this chapter's antidotes", [
+            "Pāmojja, &ldquo;rejoicing,&rdquo; opens this discourse's antidote triad as a term "
+            "not yet used elsewhere in Tikavagga's several lists so far, matched specifically "
+            "against discontent (arati), the discourse's own title term."]),
+        ("Principled and unprincipled conduct, a general closing pair", [
+            "The discourse's third pairing &mdash; dhammikatā against adhammacariyā, "
+            "principled against unprincipled conduct &mdash; functions as a general closing "
+            "term covering whatever specific misconduct the first two items do not already "
+            "name, broader in scope than either discontent or cruelty individually."]),
+    ],
+    terms=[
+        ("arati",
+         "&ldquo;discontent&rdquo; &mdash; this discourse's own title term and opening "
+         "blocking item."),
+        ("vihiṁsā",
+         "&ldquo;cruelty&rdquo; &mdash; the second blocking item, here named as a standalone "
+         "fault rather than a form of thought, perception, or element as at AN 6.109–111."),
+        ("adhammacariyā",
+         "&ldquo;unprincipled conduct&rdquo; &mdash; the third and most general blocking item, "
+         "covering misconduct beyond the first two named faults."),
+        ("pāmojja",
+         "&ldquo;rejoicing&rdquo; &mdash; the antidote matched to discontent, a term not yet "
+         "used in this chapter's antidote lists before this discourse."),
+        ("dhammikatā",
+         "&ldquo;principled conduct&rdquo; &mdash; the third antidote, the general reversal of "
+         "unprincipled conduct."),
+    ],
+    text_intro=(
+        "The discourse in full: discontent, cruelty, and unprincipled conduct, and their "
+        "three matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.113:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.113:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse name as blocking items?",
+         "opts": [
+             "The three poisons of AN 6.107",
+             "Discontent, cruelty, and unprincipled conduct",
+             "The three fetters of AN 6.89",
+             "Sensual, malicious, and cruel thought"],
+         "correct": 1,
+         "expl": "Distinct content from every earlier discourse in this chapter, checked term "
+                 "by term."},
+        {"q": "How does this discourse's treatment of cruelty (vihiṁsā) differ from AN "
+              "6.109–111's, according to the guide?",
+         "opts": [
+             "Identical treatment in every respect",
+             "Here named as a standalone fault, rather than as a form of thought, perception, "
+             "or element as at AN 6.109–111",
+             "This discourse does not mention cruelty at all",
+             "Cruelty is only mentioned in the reversal, not the blocking list"],
+         "correct": 1,
+         "expl": "The same underlying concept applied yet another way across this chapter."},
+        {"q": "What antidote is matched specifically to discontent (arati)?",
+         "opts": ["Wisdom", "Rejoicing (pāmojja)", "Right view", "Mindfulness of breathing"],
+         "correct": 1,
+         "expl": "A term new to this chapter's antidote lists at this point."},
+        {"q": "What does the guide say about the discourse's third pairing, principled versus "
+              "unprincipled conduct?",
+         "opts": [
+             "It is identical in scope to the first two pairings",
+             "It functions as a general closing term covering whatever misconduct the first "
+             "two items do not already name, broader in scope than either discontent or "
+             "cruelty individually",
+             "It has no relationship to the rest of the discourse",
+             "It concerns only meditation technique"],
+         "correct": 1,
+         "expl": "A broader, catch-all closing pair rather than a third specific fault."},
+        {"q": "Is a setting stated for AN 6.113?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>dhammikatā</em> mean?",
+         "opts": ["Unprincipled conduct", "Principled conduct", "Rejoicing", "Cruelty"],
+         "correct": 1,
+         "expl": "The third antidote, the direct reversal of unprincipled conduct."},
+    ],
+    marginalia=[
+        ("Three practical faults", [
+            "discontent &middot; cruelty",
+            "&middot; unprincipled conduct —",
+            "reversed by rejoicing, harmlessness, principle",
+        ]),
+        ("Cruelty, yet again reframed", [
+            "here a standalone fault,",
+            "not thought, perception,",
+            "or element as at AN 6.109–111",
+        ]),
+        ("A new antidote term", [
+            "pāmojja, rejoicing —",
+            "not yet used in this",
+            "chapter's antidotes before now",
+        ]),
+        ("Cross-references", [
+            "AN 6.109–111 &middot; earlier, cruelty under three other registers",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.113/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.112.html">AN 6.112 &middot; Gratification</a> &mdash; previous, three '
+        "wrong views and their antidotes.",
+        '<a href="an-6.114.html">AN 6.114 &middot; Contentment</a> &mdash; next, negated '
+        "qualities and their direct positive reversal.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.114 — Santuṭṭhitāsutta
+# --------------------------------------------------------------------------- #
+page(
+    114, "Santuṭṭhitā", "Contentment",
+    vagga=VAGGA_11,
+    meta_title="AN 6.114 — Contentment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Santuṭṭhitāsutta, "
+        "applying this chapter's template to lack of contentment, lack of situational "
+        "awareness, and having many wishes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied to three negated qualities reversed "
+                 "by their direct positive counterparts"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of contentment, situational awareness, and few "
+                              "wishes recurs widely across the Chinese Āgamas' treatment of "
+                              "moderate living; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the simplest antidote "
+                       "structure in this chapter so far, each antidote a bare negation "
+                       "reversed"),
+    ],
+    why=(
+        "AN 6.114 names three qualities each already framed as an absence &mdash; lack of "
+        "contentment, lack of situational awareness, having many wishes &mdash; reversed by "
+        "simply removing the negation: contentment, situational awareness, and having few "
+        "wishes, the most literal antidote structure this chapter has used since AN 6.108's "
+        "conduct discourse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up lack of contentment, lack of situational awareness, and having many "
+            "wishes, one should develop contentment, situational awareness, and having few "
+            "wishes."]),
+        ("Named as absences, not active faults", [
+            "Two of this discourse's three blocking items are explicitly framed as lacks "
+            "(asantuṭṭhitā, asampajañña) rather than as present vices &mdash; a pattern this "
+            "collection already met at AN 6.65's list of absences blocking non-return, though "
+            "the specific qualities named here are different."]),
+        ("Few wishes, echoing this collection's ascetic ideal", [
+            "Appicchatā, &ldquo;having few wishes,&rdquo; already appeared as the reversal of "
+            "&ldquo;many desires&rdquo; at AN 6.84's closing discourse of Arahattavagga, "
+            "connecting this discourse's third item to a theme already established earlier in "
+            "the Second Fifty."]),
+        ("The simplest possible antidote form, again", [
+            "As with AN 6.108's conduct discourse, this discourse's antidotes are each the "
+            "bare positive counterpart of their named fault, requiring no separate explanation "
+            "of why a particular remedy addresses a particular problem &mdash; contentment "
+            "simply is the absence of its own lack."]),
+    ],
+    terms=[
+        ("asantuṭṭhitā",
+         "&ldquo;lack of contentment&rdquo; &mdash; the discourse's opening item, framed as an "
+         "absence."),
+        ("asampajañña",
+         "&ldquo;lack of situational awareness&rdquo; &mdash; the second item, echoing "
+         "satisampajañña already met as a positive pairing at AN 6.77."),
+        ("mahicchatā",
+         "&ldquo;having many wishes&rdquo; &mdash; the third blocking item, reversed by its "
+         "direct opposite."),
+        ("appicchatā",
+         "&ldquo;having few wishes&rdquo; &mdash; the antidote to many wishes, already met as "
+         "a reversal at AN 6.84 closing the previous chapter's predecessor."),
+        ("santuṭṭhi, sampajañña",
+         "&ldquo;contentment, situational awareness&rdquo; &mdash; the first two antidotes, "
+         "each the bare positive counterpart of its named lack."),
+    ],
+    text_intro=(
+        "The discourse in full: lack of contentment, lack of situational awareness, and "
+        "having many wishes, and their direct positive reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.114:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.114:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "How are two of this discourse's three blocking items framed, according to the "
+              "guide?",
+         "opts": [
+             "As active vices requiring a distinct remedy",
+             "As explicit absences (lack of contentment, lack of situational awareness) rather "
+             "than present faults",
+             "As physical illnesses",
+             "As forms of wrong view"],
+         "correct": 1,
+         "expl": "A pattern already met at AN 6.65's list of absences blocking non-return."},
+        {"q": "Where else in this collection has 'having few wishes' (appicchatā) already "
+              "appeared?",
+         "opts": [
+             "Nowhere else in this collection",
+             "At AN 6.84, closing Arahattavagga, as the reversal of 'many desires'",
+             "At AN 6.107, among the three poisons",
+             "At AN 6.96, among the six rare things"],
+         "correct": 1,
+         "expl": "A connection to a theme already established earlier in the Second Fifty."},
+        {"q": "How does the guide describe this discourse's antidote structure?",
+         "opts": [
+             "Highly complex, requiring distinct explanation for each antidote",
+             "The simplest possible form, again — each antidote is simply the bare positive "
+             "counterpart of its named fault, as with AN 6.108's conduct discourse",
+             "Entirely unrelated antidotes chosen arbitrarily",
+             "No antidotes are given at all"],
+         "correct": 1,
+         "expl": "The most literal instance of this chapter's template since AN 6.108."},
+        {"q": "What does <em>asampajañña</em> echo from earlier in this chapter's "
+              "predecessor?",
+         "opts": [
+             "Nothing — an entirely new term",
+             "Satisampajañña, already met as a positive pairing at AN 6.77",
+             "The five hindrances",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "A term this collection has already used, here appearing in its negated "
+                 "form."},
+        {"q": "Is a setting stated for AN 6.114?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>mahicchatā</em> mean?",
+         "opts": ["Having few wishes", "Having many wishes", "Contentment", "Situational awareness"],
+         "correct": 1,
+         "expl": "The third blocking item, reversed by appicchatā, its direct opposite."},
+    ],
+    marginalia=[
+        ("Three named absences", [
+            "lack of contentment &middot;",
+            "lack of situational",
+            "awareness &middot; having many wishes",
+        ]),
+        ("Echoing AN 6.84", [
+            "appicchatā —",
+            "few wishes, already",
+            "met as a reversal there",
+        ]),
+        ("The simplest antidote form", [
+            "each remedy just the",
+            "bare positive counterpart",
+            "of its own named lack",
+        ]),
+        ("Cross-references", [
+            "AN 6.84 &middot; earlier, source of this discourse's 'few wishes' antidote",
+            "AN 6.65 &middot; earlier, a similar list of named absences",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.114/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.113.html">AN 6.113 &middot; Discontent</a> &mdash; previous, a related '
+        "but distinct set of practical faults.",
+        '<a href="an-6.115.html">AN 6.115 &middot; Hard to Admonish</a> &mdash; next, three '
+        "faults concerning correction and company.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.115 — Dovacassatāsutta
+# --------------------------------------------------------------------------- #
+page(
+    115, "Dovacassatā", "Hard to Admonish",
+    vagga=VAGGA_11,
+    meta_title="AN 6.115 — Hard to Admonish | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dovacassatāsutta, "
+        "applying this chapter's template to being hard to admonish, bad friendship, and a "
+        "scattered mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, applied to three faults spanning "
+                 "correction, company, and meditation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of being easy to admonish with mindfulness of "
+                              "breathing as a specific antidote recurs widely across the "
+                              "Chinese Āgamas' meditation instructions; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the only discourse in this "
+                       "chapter naming a specific meditation practice as one of its three "
+                       "antidotes"),
+    ],
+    why=(
+        "AN 6.115 names three faults spanning three different domains &mdash; being hard to "
+        "admonish, bad friendship, a scattered mind &mdash; reversed by being easy to "
+        "admonish, good friendship, and, distinctively, mindfulness of breathing: the only "
+        "discourse in this chapter to name a specific meditation technique rather than a "
+        "general quality as one of its three antidotes."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up being hard to admonish, bad friendship, and a scattered mind, one "
+            "should develop being easy to admonish, good friendship, and mindfulness of "
+            "breathing."]),
+        ("Two familiar terms from this chapter's namesake discourse", [
+            "Sovacassatā (being easy to admonish) and kalyāṇamittatā (good friendship) were "
+            "already named together as the fifth and sixth items of AN 6.69's respect formula "
+            "&mdash; itself one variant among several such formulas met across this "
+            "collection's earlier chapters, here isolated as the first two of this discourse's "
+            "own antidote triad."]),
+        ("A concrete technique closes the list, unlike this chapter's other discourses", [
+            "Every other antidote across AN 6.107&ndash;114 names a general quality &mdash; "
+            "wisdom, love, contentment, rejoicing &mdash; but this discourse's third antidote, "
+            "ānāpānassati, mindfulness of breathing, names a specific, describable meditation "
+            "practice, distinct in kind from this chapter's usual abstractions."]),
+        ("A scattered mind, met without technique elsewhere", [
+            "Vikkhittacittatā, a scattered mind, is reversed nowhere else in this collection by "
+            "a named technique this specific &mdash; earlier discourses on mental discipline, "
+            "such as AN 6.85's fourfold management of mind, spoke of restraining, exerting, "
+            "encouraging, and watching the mind, but stopped short of naming one concrete "
+            "practice as the entire remedy."]),
+    ],
+    terms=[
+        ("dovacassatā, sovacassatā",
+         "&ldquo;being hard to admonish, being easy to admonish&rdquo; &mdash; this "
+         "discourse's own title term and its direct antidote, echoing AN 6.69's respect "
+         "formula."),
+        ("pāpamittatā, kalyāṇamittatā",
+         "&ldquo;bad friendship, good friendship&rdquo; &mdash; the second pairing, also "
+         "echoing AN 6.69, and connecting to AN 6.67's chain on friendship earlier in this "
+         "collection."),
+        ("vikkhittacittatā",
+         "&ldquo;a scattered mind&rdquo; &mdash; the third blocking item, the only fault in "
+         "this discourse reversed by a specific named technique rather than a general "
+         "quality."),
+        ("ānāpānassati",
+         "&ldquo;mindfulness of breathing&rdquo; &mdash; the third antidote, the only concrete "
+         "meditation practice named across this chapter's several triads."),
+        ("tika",
+         "&ldquo;triad&rdquo; &mdash; this chapter's structural principle, here spanning "
+         "three distinct domains: correction, company, and meditation."),
+    ],
+    text_intro=(
+        "The discourse in full: being hard to admonish, bad friendship, and a scattered mind, "
+        "and their three matched antidotes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.115:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.115:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this collection already named two of this "
+              "discourse's antidotes together, according to the guide?",
+         "opts": [
+             "AN 6.107, among the three poisons",
+             "AN 6.69, whose respect formula named sovacassatā and kalyāṇamittatā as its "
+             "fifth and sixth items",
+             "AN 6.85, on mental management",
+             "AN 6.96, among the six rare things"],
+         "correct": 1,
+         "expl": "Terms isolated here as two of three antidotes, previously part of a larger "
+                 "six-item formula."},
+        {"q": "What makes this discourse's third antidote distinct from every other antidote "
+              "in this chapter, according to the guide?",
+         "opts": [
+             "Nothing distinct — all antidotes in this chapter are identical in kind",
+             "It names a specific, describable meditation practice (mindfulness of breathing) "
+             "rather than a general quality like wisdom or contentment",
+             "It is the only antidote that fails to address its corresponding fault",
+             "It is borrowed word for word from AN 6.85"],
+         "correct": 1,
+         "expl": "The only concrete technique among this chapter's several abstract antidote "
+                 "triads."},
+        {"q": "How does this discourse's treatment of a scattered mind compare to AN 6.85's "
+              "earlier discussion of mental management, according to the guide?",
+         "opts": [
+             "Identical in every respect",
+             "AN 6.85 spoke of four general techniques (restraining, exerting, encouraging, "
+             "watching) without naming one concrete practice; this discourse names mindfulness "
+             "of breathing specifically as the entire remedy",
+             "AN 6.85 also names mindfulness of breathing specifically",
+             "The two discourses concern entirely unrelated topics"],
+         "correct": 1,
+         "expl": "A specific technique named here, where AN 6.85 stayed at the level of "
+                 "general management principles."},
+        {"q": "What earlier discourse does this discourse's second pairing, bad and good "
+              "friendship, connect to?",
+         "opts": [
+             "AN 6.67's chain on friendship, earlier in this collection",
+             "AN 6.107's three poisons",
+             "AN 6.98's chain on impermanence",
+             "No earlier discourse concerns friendship"],
+         "correct": 0,
+         "expl": "A theme this collection has treated at length before, in a different form."},
+        {"q": "Is a setting stated for AN 6.115?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>vikkhittacittatā</em> mean?",
+         "opts": ["Being hard to admonish", "Bad friendship", "A scattered mind", "Mindfulness of breathing"],
+         "correct": 2,
+         "expl": "The third blocking item, uniquely reversed by a named meditation technique."},
+    ],
+    marginalia=[
+        ("Three domains at once", [
+            "correction &middot; company",
+            "&middot; meditation — hard to",
+            "admonish, bad friends, scattered mind",
+        ]),
+        ("Two terms from AN 6.69", [
+            "sovacassatā,",
+            "kalyāṇamittatā —",
+            "isolated from a larger formula",
+        ]),
+        ("A concrete technique, uniquely", [
+            "mindfulness of breathing —",
+            "the only named practice",
+            "among this chapter's antidotes",
+        ]),
+        ("Cross-references", [
+            "AN 6.69 &middot; earlier, source of two of this discourse's antidote terms",
+            "AN 6.67 &middot; earlier, the chain on friendship",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.115/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.114.html">AN 6.114 &middot; Contentment</a> &mdash; previous, another '
+        "conduct-level triad.",
+        '<a href="an-6.116.html">AN 6.116 &middot; Restlessness</a> &mdash; next, closing this '
+        "chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.116 — Uddhaccasutta
+# --------------------------------------------------------------------------- #
+page(
+    116, "Uddhacca", "Restlessness",
+    vagga=VAGGA_11,
+    meta_title="AN 6.116 — Restlessness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uddhaccasutta, "
+        "closing this chapter with restlessness, lack of restraint, and negligence, reversed "
+        "by serenity, restraint, and diligence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "This chapter's shared template, closing its ten-discourse run of one "
+                 "template with a final distinct triad"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of serenity, restraint, and diligence against "
+                              "restlessness, lack of restraint, and negligence recurs widely "
+                              "across the Chinese Āgamas' meditation instructions; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "closing this chapter on three familiar terms from elsewhere in this "
+                       "collection"),
+    ],
+    why=(
+        "AN 6.116 closes Tikavagga's ten-discourse run of one shared template: restlessness, "
+        "lack of restraint, and negligence, reversed by serenity, restraint, and diligence "
+        "&mdash; each term already met individually earlier in this collection, here drawn "
+        "together into this chapter's final triad."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up restlessness, lack of restraint, and negligence, one should develop "
+            "serenity, restraint, and diligence."]),
+        ("Restlessness, one half of a hindrance already split apart", [
+            "Uddhacca, restlessness, already appeared paired with kukkucca, remorse, as one of "
+            "the five hindrances at AN 6.73 and, split further, individually at AN 6.66; here "
+            "it stands alone, reversed specifically by samatha, serenity or calm, rather than "
+            "by any of its earlier pairings."]),
+        ("Diligence, echoing this chapter's namesake theme of decline", [
+            "Appamāda, diligence, and its opposite pamāda, negligence, already appeared "
+            "throughout this collection &mdash; including as one of the six items blocking "
+            "arahantship at AN 6.66 &mdash; a term recurring often enough across this "
+            "collection that its reappearance here closes this chapter on a familiar, "
+            "well-established note rather than fresh content."]),
+        ("Closing a chapter built from ten variations on one template", [
+            "With this discourse, Tikavagga's ten discourses have named ten distinct triads "
+            "&mdash; the three poisons, the three doors of conduct, one triad restated across "
+            "three registers, three wrong views, and five further triads spanning discontent, "
+            "contentment, correction, and now restlessness &mdash; all sharing the identical "
+            "3+3 grammatical template while differing, in every case checked, in specific "
+            "content."]),
+    ],
+    terms=[
+        ("uddhacca",
+         "&ldquo;restlessness&rdquo; &mdash; this discourse's own title term and opening "
+         "blocking item, already met paired with remorse as a hindrance at AN 6.73."),
+        ("asaṁvara",
+         "&ldquo;lack of restraint&rdquo; &mdash; the second blocking item, reversed by "
+         "saṁvara, restraint."),
+        ("pamāda, appamāda",
+         "&ldquo;negligence, diligence&rdquo; &mdash; the third pairing, a term recurring "
+         "often throughout this collection, including at AN 6.66."),
+        ("samatha",
+         "&ldquo;serenity,&rdquo; calm &mdash; the antidote to restlessness, distinct from "
+         "this discourse's other two, more general antidotes."),
+        ("tika",
+         "&ldquo;triad&rdquo; &mdash; this chapter's shared structural principle, here closing "
+         "its tenth and final instance."),
+    ],
+    text_intro=(
+        "The discourse in full: restlessness, lack of restraint, and negligence, and their "
+        "three matched antidotes, closing this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three things to give up"),
+        ("p", "&sect;1", "an6.116:1.1-1.4"),
+        ("h3", "Three things to develop against them"),
+        ("p", "&sect;2", "an6.116:1.5-1.8"),
+    ],
+    quiz=[
+        {"q": "What three things does this discourse name, closing this chapter?",
+         "opts": [
+             "The three poisons of AN 6.107, restated",
+             "Restlessness, lack of restraint, and negligence",
+             "The three fetters of AN 6.89",
+             "Sensual, malicious, and cruel thought"],
+         "correct": 1,
+         "expl": "A final, distinct triad closing this chapter's ten-discourse run."},
+        {"q": "Where has 'restlessness' (uddhacca) already appeared in this collection, "
+              "according to the guide?",
+         "opts": [
+             "Nowhere else in this collection",
+             "Paired with remorse as one of the five hindrances at AN 6.73, and split further "
+             "at AN 6.66",
+             "Only as an antidote, never as a blocking item",
+             "At AN 6.107, among the three poisons"],
+         "correct": 1,
+         "expl": "A term this collection has already treated in more than one earlier "
+                 "discourse."},
+        {"q": "How does the guide summarize this chapter's overall structure, now that it is "
+              "complete?",
+         "opts": [
+             "Ten discourses repeating the identical content throughout",
+             "Ten discourses sharing one identical 3+3 grammatical template while differing, "
+             "in every case checked, in specific content",
+             "No discernible pattern across the chapter's ten discourses",
+             "Only two discourses actually share the template; the rest are unrelated"],
+         "correct": 1,
+         "expl": "One shared shape, ten distinct fillings, checked individually throughout."},
+        {"q": "What antidote is matched specifically to restlessness?",
+         "opts": ["Wisdom", "Serenity (samatha)", "Right view", "Mindfulness of breathing"],
+         "correct": 1,
+         "expl": "A distinct antidote from this discourse's other two, more general reversals."},
+        {"q": "Where has 'diligence' (appamāda) and its opposite already appeared in this "
+              "collection?",
+         "opts": [
+             "Nowhere else",
+             "Throughout this collection, including as one of the six items blocking "
+             "arahantship at AN 6.66",
+             "Only in this discourse",
+             "Only as a synonym for restlessness"],
+         "correct": 1,
+         "expl": "A well-established term recurring often enough that its reappearance here "
+                 "closes the chapter on familiar ground."},
+        {"q": "Is a setting stated for AN 6.116?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses, closing Tikavagga."},
+    ],
+    marginalia=[
+        ("Three final items", [
+            "restlessness &middot; lack",
+            "of restraint &middot; negligence —",
+            "reversed by serenity, restraint, diligence",
+        ]),
+        ("Terms already met before", [
+            "restlessness at AN 6.73,",
+            "diligence throughout —",
+            "closing on familiar ground",
+        ]),
+        ("This chapter's full pattern", [
+            "ten discourses, one",
+            "shared 3+3 template,",
+            "ten genuinely distinct triads",
+        ]),
+        ("Cross-references", [
+            "AN 6.66/6.73 &middot; earlier, restlessness under two other pairings",
+            "AN 6.107 &middot; earlier, opening this chapter's run of ten triads",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.116/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.115.html">AN 6.115 &middot; Hard to Admonish</a> &mdash; previous, the '
+        "only antidote naming a concrete meditation technique.",
+        '<a href="an-6.107.html">AN 6.107 &middot; Greed</a> &mdash; back to this '
+        "chapter&rsquo;s opening, for contrast with the chapter now closing.",
+    ],
+)
