@@ -26821,3 +26821,1967 @@ page(
         "chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.131 — Paṭhamacakkānuvattanasutta
+# --------------------------------------------------------------------------- #
+VAGGA_14 = "<em>Rājavagga</em> &mdash; the fourteenth chapter of the Fives"
+
+page(
+    131, "Paṭhamacakkānuvattana", "Wielding Power (1st)",
+    vagga=VAGGA_14,
+    meta_title="AN 5.131 — Wielding Power (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamacakkānuvattanasutta, opening the Rājavagga — the five qualities that let a "
+        "wheel-turning monarch rule unopposed, mapped onto the Buddha rolling forth the "
+        "Wheel of Dhamma. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a royal simile, mapped directly onto the Buddha's own teaching authority"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; introduces this "
+                       "chapter's recurring royal imagery"),
+    ],
+    why=(
+        "This chapter opens with its recurring image: the wheel-turning monarch "
+        "(<em>cakkavattī</em>), an ideal universal ruler whose power is unopposable "
+        "specifically because it is principled. The same five-fold knowledge that makes his "
+        "rule unassailable is mapped directly onto the Buddha's own rolling-forth of the "
+        "Wheel of Dhamma."),
+    guide=[
+        ("The wheel-turning monarch", [
+            "<em>Cakkavattī</em> names a legendary ideal universal monarch, whose rule is "
+            "described as unopposable by any human enemy &mdash; but only when wielded "
+            "&lsquo;in a principled manner&rsquo; (<em>dhammeneva</em>)."]),
+        ("Five kinds of knowledge", [
+            "Knowing what is right, knowing principle, knowing moderation, knowing the right "
+            "time, and knowing the assembly &mdash; five practical, situational competencies, "
+            "not military strength or wealth."]),
+        ("The same five, mapped onto the Buddha", [
+            "The discourse states directly that the Realized One, in the same way, "
+            "&lsquo;rolls forth the supreme Wheel of Dhamma&rsquo; only in a principled "
+            "manner, possessing the identical five qualities &mdash; and that this wheel "
+            "cannot be rolled back by any ascetic, brahmin, god, Māra, or divinity."]),
+        ("A direct, structural parallel", [
+            "This isn't a loose metaphor; the discourse names the identical five terms for "
+            "both the monarch and the Buddha, letting the parallel between temporal and "
+            "spiritual authority stand as exact as the text can make it."]),
+        ("What comes next", [
+            "AN 5.132 restates this same formula for the monarch's eldest son continuing his "
+            "father's rule &mdash; and, in a striking move, names Sāriputta directly as the "
+            "one who continues the Buddha's own Wheel of Dhamma."]),
+    ],
+    terms=[
+        ("cakkavattī",
+         "&ldquo;wheel-turning monarch&rdquo; &mdash; the legendary ideal universal ruler "
+         "this chapter's imagery centers on."),
+        ("dhammacakka",
+         "&ldquo;the Wheel of Dhamma&rdquo; &mdash; the Buddha's own teaching authority, "
+         "mapped directly onto the monarch's wheel."),
+        ("atthaññū",
+         "&ldquo;knowing what is right&rdquo; &mdash; the first of the five qualities."),
+        ("kālaññū",
+         "&ldquo;knowing the right time&rdquo; &mdash; the fourth quality."),
+        ("parisaññū",
+         "&ldquo;knowing the assembly&rdquo; &mdash; the fifth quality, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the monarch's five qualities, then their identical mapping "
+        "onto the Buddha. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The wheel-turning monarch's five factors"),
+        ("p", "&sect;1", "an5.131:1.1-2.4"),
+        ("h3", "The Buddha's Wheel of Dhamma"),
+        ("p", "&sect;2", "an5.131:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does 'cakkavattī' name?",
+         "opts": [
+             "A legendary ideal universal monarch",
+             "A senior mendicant",
+             "A monastic attendant",
+             "A wilderness-dweller"],
+         "correct": 0,
+         "expl": "This chapter's recurring central image."},
+        {"q": "Under what condition is the monarch's power unopposable?",
+         "opts": [
+             "Only through military strength",
+             "Only when wielded in a principled manner",
+             "Only through wealth",
+             "Only through inherited status"],
+         "correct": 1,
+         "expl": "Dhammeneva — 'only in a principled manner'."},
+        {"q": "What are the five qualities named?",
+         "opts": [
+             "Knowing what is right, principle, moderation, the right time, and the assembly",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Atthaññū, dhammaññū, mattaññū, kālaññū, parisaññū."},
+        {"q": "What is this discourse's image for the Buddha's teaching authority?",
+         "opts": [
+             "A fortress",
+             "The Wheel of Dhamma, rolled forth just as a monarch's wheel",
+             "A lion's roar",
+             "A ship at sea"],
+         "correct": 1,
+         "expl": "Dhammacakka, mapped directly onto the monarch's wheel."},
+        {"q": "Is the parallel between monarch and Buddha loose, or structurally exact?",
+         "opts": [
+             "Loose and merely suggestive",
+             "Structurally exact — the identical five terms are used for both",
+             "There is no real parallel drawn",
+             "Only the outcome, not the qualities, is shared"],
+         "correct": 1,
+         "expl": "The same five-term list, applied word for word to both figures."},
+        {"q": "According to whom can the monarch's wheel not be undermined?",
+         "opts": [
+             "Only fellow kings",
+             "Any human enemy",
+             "Only foreign armies",
+             "Only rebellious subjects"],
+         "correct": 1,
+         "expl": "Kenaci manussabhūtena paccatthikena — any human enemy."},
+        {"q": "According to whom can the Buddha's Wheel of Dhamma not be rolled back?",
+         "opts": [
+             "Only rival ascetics",
+             "Any ascetic, brahmin, god, Māra, divinity, or anyone in the world",
+             "Only kings",
+             "Only demons"],
+         "correct": 1,
+         "expl": "A broader, cosmic scope than the monarch's purely human rivals."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Andhakavindavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "The fourteenth chapter, 'Kings'."},
+        {"q": "What is the fourth of the five qualities?",
+         "opts": [
+             "Knowing what is right",
+             "Knowing the right time",
+             "Knowing principle",
+             "Knowing the assembly"],
+         "correct": 1,
+         "expl": "Kālaññū."},
+        {"q": "What does AN 5.132 restate this same formula for?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The monarch's eldest son, and Sāriputta continuing the Buddha's Wheel of Dhamma",
+             "A completely different topic",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "A named disciple, applied concretely rather than left general."},
+    ],
+    marginalia=[
+        ("Two wheels, one formula", [
+            "the monarch's rule &middot;",
+            "the Buddha's teaching",
+            "&mdash; identical qualities",
+        ]),
+        ("Five kinds of knowledge", [
+            "what is right &middot;",
+            "principle &middot; moderation",
+            "&middot; timing &middot; assembly",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">cakkavattī</span>",
+            "&mdash; wheel-turning",
+            "monarch",
+        ]),
+        ("Cross-references", [
+            "AN 5.132 &middot; next: Sāriputta named directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.131/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.132.html">AN 5.132 &middot; Wielding Power (2nd)</a> &mdash; next: '
+        "the same formula, applied to a monarch&rsquo;s heir and to S&#257;riputta by name.",
+        '<a href="an-5.99.html">AN 5.99 &middot; The Lion</a> &mdash; another extended '
+        "simile in this nip&#257;ta naming the Buddha's teaching authority.",
+        '<a href="an-5.140.html">AN 5.140 &middot; A Listener</a> &mdash; this '
+        "chapter&rsquo;s closing discourse, another royal-elephant simile.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.132 — Dutiyacakkānuvattanasutta
+# --------------------------------------------------------------------------- #
+page(
+    132, "Dutiyacakkānuvattana", "Wielding Power (2nd)",
+    vagga=VAGGA_14,
+    meta_title="AN 5.132 — Wielding Power (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyacakkānuvattanasutta — AN 5.131's formula restated for a monarch's heir, then "
+        "applied by name to Sāriputta continuing the Wheel of Dhamma. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same royal simile, now applied to a successor and to a named disciple"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with a notable "
+                       "concrete application"),
+    ],
+    why=(
+        "AN 5.131's formula restated for succession: the same five qualities that let a "
+        "monarch's eldest son continue his father's rule, mapped &mdash; unusually by name "
+        "&mdash; onto Sāriputta continuing to roll the Wheel of Dhamma the Buddha himself set "
+        "in motion."),
+    guide=[
+        ("From founder to successor", [
+            "Where AN 5.131 concerned the monarch and the Buddha directly, this discourse "
+            "concerns continuation: the eldest son who keeps his father's power turning, and "
+            "the disciple who keeps the Buddha's own teaching turning."]),
+        ("The identical five qualities", [
+            "Knowing what is right, principle, moderation, the right time, and the assembly "
+            "&mdash; unchanged from AN 5.131, now describing what makes a successor "
+            "legitimate rather than merely inherited."]),
+        ("Sāriputta, named directly", [
+            "Unlike most figurative discourses in this nipāta, which stay general, this "
+            "discourse names an actual disciple: Sāriputta, traditionally recognized as the "
+            "Buddha's foremost disciple in wisdom, is said to &lsquo;rightly keep rolling the "
+            "supreme Wheel of Dhamma&rsquo; that the Buddha rolled forth."]),
+        ("A concrete, rather than abstract, application", [
+            "Most of this chapter's royal similes describe a general type &mdash; &lsquo;a "
+            "mendicant with these qualities&rsquo;. This discourse breaks that pattern, "
+            "grounding the simile in a specific, named individual."]),
+        ("What comes next", [
+            "AN 5.133 turns to a different question: who is the wheel-turning monarch's own "
+            "king?"]),
+    ],
+    terms=[
+        ("jeṭṭho putto",
+         "&ldquo;eldest son&rdquo; &mdash; the monarch's legitimate successor."),
+        ("Sāriputta",
+         "the disciple named directly in this discourse, traditionally the Buddha's "
+         "foremost in wisdom."),
+        ("anuppavatteti",
+         "&ldquo;continues to roll forth&rdquo; &mdash; what both the son and Sāriputta do "
+         "with what was already set in motion."),
+        ("sammadeva",
+         "&ldquo;rightly&rdquo; &mdash; qualifying how Sāriputta continues the Wheel of "
+         "Dhamma."),
+        ("dhammacakka",
+         "the Wheel of Dhamma, continued rather than newly rolled forth."),
+    ],
+    text_intro=(
+        "The discourse in full: the monarch's heir, and Sāriputta continuing the Wheel of "
+        "Dhamma. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The wheel-turning monarch's eldest son"),
+        ("p", "&sect;1", "an5.132:1.1-2.4"),
+        ("h3", "Sāriputta continues the Wheel of Dhamma"),
+        ("p", "&sect;2", "an5.132:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse concern, compared to AN 5.131?",
+         "opts": [
+             "The founding act itself",
+             "Continuation — a successor keeping something already set in motion",
+             "An unrelated topic",
+             "The end of the Buddha's teaching career"],
+         "correct": 1,
+         "expl": "Succession, rather than founding."},
+        {"q": "Who is named directly in this discourse, unlike most figurative discourses in this nipāta?",
+         "opts": [
+             "Ānanda",
+             "Sāriputta",
+             "Moggallāna",
+             "Devadatta"],
+         "correct": 1,
+         "expl": "A concrete application, not left general."},
+        {"q": "What is Sāriputta traditionally recognized as?",
+         "opts": [
+             "The Buddha's foremost disciple in wisdom",
+             "The Buddha's personal attendant",
+             "A rival teacher",
+             "A lay supporter"],
+         "correct": 0,
+         "expl": "Named here continuing the Buddha's own Wheel of Dhamma."},
+        {"q": "What are the five qualities, unchanged from AN 5.131?",
+         "opts": [
+             "Knowing what is right, principle, moderation, the right time, and the assembly",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Ethics, immersion, wisdom, freedom, knowledge-and-vision of freedom",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Identical to the previous discourse's formula."},
+        {"q": "What does 'anuppavatteti' mean?",
+         "opts": [
+             "Continues to roll forth",
+             "Rolls forth for the first time",
+             "Reverses direction",
+             "Comes to a halt"],
+         "correct": 0,
+         "expl": "What both the son and Sāriputta do with an already-moving wheel."},
+        {"q": "What word qualifies how Sāriputta continues the Wheel of Dhamma?",
+         "opts": [
+             "Sammadeva, 'rightly'",
+             "Akusala, 'unskillfully'",
+             "Dukkha, 'painfully'",
+             "Bhaya, 'fearfully'"],
+         "correct": 0,
+         "expl": "A term of approval and correctness."},
+        {"q": "Why is this discourse unusual, compared to most of this nipāta's figurative discourses?",
+         "opts": [
+             "It uses no simile at all",
+             "It names a specific, actual individual rather than staying general",
+             "It is set in a new location",
+             "It abandons the royal imagery entirely"],
+         "correct": 1,
+         "expl": "Grounding the simile in a named disciple."},
+        {"q": "Whose power is the monarch's eldest son said to continue?",
+         "opts": [
+             "His own, entirely new",
+             "The power his father set in motion",
+             "A rival king's",
+             "No power in particular"],
+         "correct": 1,
+         "expl": "Pitarā pavattitaṁ cakkaṁ — the wheel set in motion by his father."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's royal imagery."},
+        {"q": "What does AN 5.133 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Who is the wheel-turning monarch's own king",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "A striking claim about what governs even the ideal ruler."},
+    ],
+    marginalia=[
+        ("Continuation, not founding", [
+            "the son &middot;",
+            "S&#257;riputta —",
+            "keeping the wheel turning",
+        ]),
+        ("A named disciple", [
+            "unusual for this",
+            "collection's similes",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anuppavatteti</span>",
+            "&mdash; continues",
+            "to roll forth",
+        ]),
+        ("Cross-references", [
+            "AN 5.131 &middot; the founding formula",
+            "AN 5.133 &middot; next: the monarch's own king",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.132/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.131.html">AN 5.131 &middot; Wielding Power (1st)</a> &mdash; the '
+        "previous discourse, this formula's founding form.",
+        '<a href="an-5.133.html">AN 5.133 &middot; A Principled King</a> &mdash; next: '
+        "what governs even the ideal ruler.",
+        '<a href="an-5.100.html">AN 5.100 &middot; With Kakudha</a> &mdash; another '
+        "discourse naming a specific disciple, Moggall&#257;na.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.133 — Dhammarājāsutta
+# --------------------------------------------------------------------------- #
+page(
+    133, "Dhammarājā", "A Principled King",
+    vagga=VAGGA_14,
+    meta_title="AN 5.133 — A Principled King | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dhammarājāsutta — "
+        "even a wheel-turning monarch has his own king: principle itself, mapped onto the "
+        "Buddha's concentric protection of the fourfold assembly. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "A dialogue: an unnamed mendicant questions the Buddha; the Buddha's "
+                     "extended answer"),
+        ("Form", "a brief dialogue opening onto an extended royal simile, in concentric "
+                 "circles"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a striking claim, "
+                       "carefully unpacked"),
+    ],
+    why=(
+        "A striking claim: even the most powerful legendary monarch is subject to something "
+        "higher than himself. Asked who the wheel-turning monarch's own king is, the Buddha "
+        "answers in a single word &mdash; principle (<em>dhamma</em>) &mdash; then unpacks "
+        "what that means in concentric circles of protection, mapped onto his own care for "
+        "the fourfold assembly."),
+    guide=[
+        ("A monarch's own king", [
+            "The Buddha states that even a wheel-turning monarch, however just and "
+            "principled, doesn't wield power without having his own king. A mendicant asks "
+            "who that could possibly be, and the Buddha answers directly: &lsquo;It is "
+            "principle&rsquo; (<em>dhamma</em>)."]),
+        ("Protection in concentric circles", [
+            "The just king is described providing protection relying on principle first for "
+            "his own household, then in expanding circles: aristocrats and vassals, troops, "
+            "brahmins and householders, the people of town and country, ascetics and "
+            "brahmins, and finally even beasts and birds &mdash; only once this whole "
+            "structure of protection is established does he &lsquo;wield power only in a "
+            "principled manner&rsquo;."]),
+        ("The same structure, mapped onto the Buddha", [
+            "The Buddha describes himself, in the same terms, providing &lsquo;just "
+            "protection and security&rsquo; for the fourfold assembly &mdash; monks, nuns, "
+            "laymen, and laywomen &mdash; through explicit instruction on what bodily, "
+            "verbal, and mental conduct, what livelihood, and even what village or town, "
+            "should or shouldn't be cultivated."]),
+        ("Protection as instruction, not force", [
+            "Where the monarch's protection is largely physical &mdash; security, defense "
+            "&mdash; the Buddha's &lsquo;protection&rsquo; for his own assembly consists "
+            "entirely of explicit ethical and practical guidance, restated identically for "
+            "each of the four groups in turn."]),
+        ("What comes next", [
+            "AN 5.134 shifts to a different question: what makes an anointed king, or a "
+            "mendicant, feel genuinely at home no matter what region they find themselves "
+            "in."]),
+    ],
+    terms=[
+        ("dhammarājā",
+         "&ldquo;a principled king&rdquo; &mdash; both the wheel-turning monarch and the "
+         "Buddha, described in identical terms."),
+        ("dhamma",
+         "&ldquo;principle&rdquo; &mdash; the Buddha's one-word answer to who governs even "
+         "the ideal monarch."),
+        ("rakkhāvaraṇagutti",
+         "&ldquo;protection and security&rdquo; &mdash; provided in concentric circles, by "
+         "both the monarch and the Buddha."),
+        ("kāyakamma / vacīkamma / manokamma",
+         "bodily, verbal, and mental action &mdash; the categories of the Buddha's explicit "
+         "instruction to the fourfold assembly."),
+        ("dhammaddhajo dhammaketu dhammādhipateyyo",
+         "&ldquo;having principle as flag, banner, and authority&rdquo; &mdash; describing "
+         "the king's, and the Buddha's, relationship to principle itself."),
+    ],
+    text_intro=(
+        "The discourse in full: the dialogue on the monarch's own king, then the concentric "
+        "circles of protection mapped onto the Buddha's care for the fourfold assembly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Who is the monarch's own king?"),
+        ("p", "&sect;1", "an5.133:1.1-1.4"),
+        ("h3", "The monarch's concentric protection"),
+        ("p", "&sect;2", "an5.133:2.1-3.3"),
+        ("h3", "The Buddha's protection of the fourfold assembly"),
+        ("p", "&sect;3", "an5.133:4.1-6.2"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha state even a just and principled monarch does not lack?",
+         "opts": [
+             "Wealth",
+             "His own king",
+             "An army",
+             "A commander"],
+         "correct": 1,
+         "expl": "The discourse's opening, striking claim."},
+        {"q": "What does the Buddha answer when asked who this king is?",
+         "opts": [
+             "The gods",
+             "Principle (dhamma)",
+             "The monarch's own father",
+             "The people themselves"],
+         "correct": 1,
+         "expl": "A single-word answer, then unpacked at length."},
+        {"q": "In what order does the monarch provide protection?",
+         "opts": [
+             "Randomly, with no particular order",
+             "In concentric circles, starting with his own household and expanding outward",
+             "Only for his own family, never further",
+             "Only for foreign visitors"],
+         "correct": 1,
+         "expl": "Household, then aristocrats and vassals, troops, and outward to beasts and birds."},
+        {"q": "Who, besides human groups, does the monarch's protection extend to?",
+         "opts": [
+             "No one beyond human subjects",
+             "Beasts and birds",
+             "Only foreign kings",
+             "Only his own bloodline"],
+         "correct": 1,
+         "expl": "The outermost circle of the monarch's stated protection."},
+        {"q": "Who does the Buddha's own 'protection' extend to, in the same structure?",
+         "opts": [
+             "Only monks",
+             "The fourfold assembly — monks, nuns, laymen, and laywomen",
+             "Only kings and nobles",
+             "Only his own relatives"],
+         "correct": 1,
+         "expl": "Restated identically for each of the four groups."},
+        {"q": "What form does the Buddha's 'protection' take, unlike the monarch's?",
+         "opts": [
+             "Physical defense and military force",
+             "Explicit ethical and practical instruction — what to cultivate or not",
+             "Financial support",
+             "Formal decrees with legal penalties"],
+         "correct": 1,
+         "expl": "Guidance on bodily, verbal, and mental conduct, livelihood, and location."},
+        {"q": "What five categories does the Buddha's instruction to each group cover?",
+         "opts": [
+             "Bodily action, verbal action, mental action, livelihood, and choice of village or town",
+             "Wealth, family, health, ethics, and view",
+             "The five hindrances",
+             "The five lower fetters"],
+         "correct": 0,
+         "expl": "The same fivefold instruction repeated for each of the four groups."},
+        {"q": "What does 'dhammaddhajo dhammaketu dhammādhipateyyo' describe?",
+         "opts": [
+             "Having principle as one's flag, banner, and authority",
+             "A specific battle formation",
+             "A type of royal crown",
+             "A monastic robe pattern"],
+         "correct": 0,
+         "expl": "The king's, and the Buddha's, relationship to principle itself."},
+        {"q": "What only happens once the king has established this whole structure of protection?",
+         "opts": [
+             "He collects taxes",
+             "He wields power only in a principled manner",
+             "He goes to war",
+             "He retires from rule"],
+         "correct": 1,
+         "expl": "Protection precedes legitimate power, in this discourse's own logic."},
+        {"q": "What does AN 5.134 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "What makes a king or mendicant feel at home in any region",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A different question about royal and monastic security."},
+    ],
+    marginalia=[
+        ("Even the king has a king", [
+            "principle itself —",
+            "dhamma, governing",
+            "the governor",
+        ]),
+        ("Concentric protection", [
+            "household &rarr; court",
+            "&rarr; people &rarr; even",
+            "beasts and birds",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">rakkhāvaraṇagutti</span>",
+            "&mdash; protection",
+            "and security",
+        ]),
+        ("Cross-references", [
+            "AN 5.131&ndash;132 &middot; the wheel-turning formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.133/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.131.html">AN 5.131 &middot; Wielding Power (1st)</a> &mdash; the '
+        "wheel-turning formula this discourse builds on.",
+        '<a href="an-5.134.html">AN 5.134 &middot; In Whatever Region</a> &mdash; next: '
+        "royal and monastic security, from a different angle.",
+        '<a href="an-5.114.html">AN 5.114 &middot; At Andhakavinda</a> &mdash; another '
+        "discourse of direct, quoted instruction to a specific audience.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.134 — Yassaṁdisaṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    134, "Yassaṁdisaṁ", "In Whatever Region",
+    vagga=VAGGA_14,
+    meta_title="AN 5.134 — In Whatever Region | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Yassaṁdisaṁsutta — four royal qualities bring glory to fruition; four monastic "
+        "qualities bring freedom to fruition, wherever one happens to live. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a royal simile with a distinctive internal structure: four factors "
+                 "producing a fifth, as fruition"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a subtle five-factor "
+                       "logic, worth following closely"),
+    ],
+    why=(
+        "A subtler structure than most five-item lists in this nipāta: four royal qualities "
+        "&mdash; noble birth, wealth, military power, a wise commander &mdash; don't simply "
+        "sit alongside a fifth, glory; they are said to bring glory to fruition. The same "
+        "logic maps four monastic qualities onto freedom itself as their fruition."),
+    guide=[
+        ("Living in one's own realm, anywhere", [
+            "An anointed king, this discourse says, lives &lsquo;in his own realm&rsquo; no "
+            "matter what region he happens to be in &mdash; a striking image of security that "
+            "doesn't depend on location."]),
+        ("Four factors, not five parallel qualities", [
+            "Impeccable birth back seven generations, wealth with full treasuries, military "
+            "power with an obedient army, and an astute commander are named &mdash; but the "
+            "discourse states explicitly that these four &lsquo;bring his glory to "
+            "fruition&rsquo;, rather than simply listing glory as a fifth, equal item."]),
+        ("The mendicant's parallel, quality by quality", [
+            "Ethical restraint corresponds to noble birth; deep learning corresponds to a "
+            "full treasury; energy corresponds to military power; wisdom &mdash; specifically "
+            "the wisdom of arising and passing away, noble and penetrative &mdash; corresponds "
+            "to a wise commander. These four are said to bring freedom (<em>vimutti</em>) to "
+            "fruition."]),
+        ("Why this internal logic matters", [
+            "Glory and freedom aren't presented as separate achievements alongside the other "
+            "four; they are what the other four, taken together, actually produce. The "
+            "structure suggests these qualities aren't a checklist but a genuine causal "
+            "sequence."]),
+        ("What comes next", [
+            "AN 5.135 turns to a related but distinct structure: a prince's own first-person "
+            "reasoning for why he should aspire to the throne, mapped onto a mendicant's "
+            "reasoning for aspiring to full liberation."]),
+    ],
+    terms=[
+        ("yasa",
+         "&ldquo;glory&rdquo; &mdash; what the king's four qualities bring to fruition."),
+        ("vimutti",
+         "&ldquo;freedom&rdquo; &mdash; what the mendicant's four qualities bring to "
+         "fruition, in direct parallel."),
+        ("pariṇāyaka",
+         "&ldquo;commander&rdquo; &mdash; astute, competent, and able to think through past, "
+         "future, and present issues; paralleled by wisdom."),
+        ("udayatthagāminiyā paññāya",
+         "the wisdom of arising and passing away &mdash; the mendicant's parallel to the "
+         "king's commander."),
+        ("vimuttacitto",
+         "&ldquo;with mind freed&rdquo; &mdash; how a mendicant with these qualities lives, "
+         "wherever they are."),
+    ],
+    text_intro=(
+        "The discourse in full: four royal qualities bringing glory to fruition, then four "
+        "monastic qualities bringing freedom to fruition. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The anointed king's four factors, and glory"),
+        ("p", "&sect;1", "an5.134:1.1-2.9"),
+        ("h3", "The mendicant's four qualities, and freedom"),
+        ("p", "&sect;2", "an5.134:3.1-3.14"),
+    ],
+    quiz=[
+        {"q": "What striking claim does this discourse make about an anointed king, wherever he travels?",
+         "opts": [
+             "He is always at risk from enemies",
+             "He lives in his own realm, no matter what region he is in",
+             "He must always be accompanied by his army",
+             "He becomes a stranger outside his own kingdom"],
+         "correct": 1,
+         "expl": "A security that doesn't depend on location."},
+        {"q": "How many royal factors are named, and what do they produce?",
+         "opts": [
+             "Five equal factors, with no particular relationship",
+             "Four factors, said to bring a fifth — glory — to fruition",
+             "Three factors, unrelated to each other",
+             "Two factors only"],
+         "correct": 1,
+         "expl": "A causal, not merely additive, structure."},
+        {"q": "What are the four royal factors?",
+         "opts": [
+             "Noble birth, wealth, military power, an astute commander",
+             "Faith, ethics, learning, wisdom",
+             "Kindness, patience, generosity, honesty",
+             "Speed, strength, cunning, luck"],
+         "correct": 0,
+         "expl": "Each corresponding to a monastic parallel."},
+        {"q": "What does noble birth correspond to, in the mendicant's parallel list?",
+         "opts": [
+             "Ethical restraint",
+             "Deep learning",
+             "Wisdom",
+             "Energy"],
+         "correct": 0,
+         "expl": "Sīlavā, paralleling impeccable seven-generation lineage."},
+        {"q": "What does the king's wealth and treasury correspond to?",
+         "opts": [
+             "Deep learning",
+             "Ethical restraint",
+             "Military power",
+             "A wise commander"],
+         "correct": 0,
+         "expl": "Bahussuta, a full store of learning rather than wealth."},
+        {"q": "What does the king's wise commander correspond to?",
+         "opts": [
+             "Energy",
+             "Wisdom, specifically the wisdom of arising and passing away",
+             "Ethical restraint",
+             "Deep learning"],
+         "correct": 1,
+         "expl": "Udayatthagāminiyā paññāya."},
+        {"q": "What do the mendicant's four qualities bring to fruition?",
+         "opts": [
+             "Glory",
+             "Freedom (vimutti)",
+             "Wealth",
+             "Fame"],
+         "correct": 1,
+         "expl": "The direct parallel to the king's glory."},
+        {"q": "Why does the discourse's internal logic matter?",
+         "opts": [
+             "It doesn't matter; the structure is arbitrary",
+             "It suggests these qualities aren't a checklist but a genuine causal sequence",
+             "It proves the list is incomplete",
+             "It shows the two halves of the simile don't actually match"],
+         "correct": 1,
+         "expl": "Four factors producing a fifth, not five parallel items."},
+        {"q": "How does this discourse describe a mendicant with these qualities living, wherever they are?",
+         "opts": [
+             "Anxious and displaced",
+             "With mind freed (vimuttacitto)",
+             "Dependent on local supporters",
+             "Restricted to a single monastery"],
+         "correct": 1,
+         "expl": "The direct parallel to the king living 'in his own realm'."},
+        {"q": "What does AN 5.135 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A prince's first-person reasoning for aspiring to the throne, mapped onto spiritual aspiration",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A related but distinct structure."},
+    ],
+    marginalia=[
+        ("Four factors, one fruition", [
+            "birth &middot; wealth &middot;",
+            "power &middot; commander",
+            "&rarr; glory",
+        ]),
+        ("The monastic parallel", [
+            "ethics &middot; learning &middot;",
+            "energy &middot; wisdom",
+            "&rarr; freedom",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vimuttacitto</span>",
+            "&mdash; with mind",
+            "freed, anywhere",
+        ]),
+        ("Cross-references", [
+            "AN 5.87 &middot; a related complete-portrait discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.134/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.133.html">AN 5.133 &middot; A Principled King</a> &mdash; the '
+        "previous discourse.",
+        '<a href="an-5.135.html">AN 5.135 &middot; Aspiration (1st)</a> &mdash; next: a '
+        "prince's first-person reasoning, mapped onto spiritual aspiration.",
+        '<a href="an-5.87.html">AN 5.87 &middot; Ethical</a> &mdash; a related, earlier '
+        "complete-portrait discourse in this nip&#257;ta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.135 — Paṭhamapatthanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    135, "Paṭhamapatthanā", "Aspiration (1st)",
+    vagga=VAGGA_14,
+    meta_title="AN 5.135 — Aspiration (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamapatthanāsutta — a prince's first-person reasoning for aspiring to the "
+        "throne, mapped onto a mendicant's reasoning for aspiring to end the defilements. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an internal monologue, repeated as direct first-person speech after each "
+                 "of five qualities"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a distinctive, "
+                       "motivating rhetorical structure"),
+    ],
+    why=(
+        "A distinctive rhetorical device: a prince rehearses, in his own first-person voice, "
+        "five reasons he should aspire to the throne, each closing with &lsquo;why shouldn't "
+        "I?&rsquo; The identical structure is then mapped onto a mendicant reasoning their "
+        "way toward full liberation."),
+    guide=[
+        ("Five royal qualifications", [
+            "An anointed king's eldest son is described as impeccably born, physically "
+            "attractive, beloved by his parents, beloved by the people of town and country, "
+            "and skilled in the traditional royal arts &mdash; riding, driving a chariot, "
+            "archery, swordsmanship."]),
+        ("An internal monologue, in his own voice", [
+            "Rather than simply listing these five as external facts, the discourse gives "
+            "them as the prince's own first-person self-address: "
+            "&lsquo;I'm well born&hellip; why shouldn't I aspire to kingship?&rsquo;, "
+            "repeated after each of the five qualities in turn."]),
+        ("The mendicant's parallel monologue", [
+            "The same rhetorical structure is mapped onto a mendicant reasoning toward the "
+            "ending of defilements: faith in the Buddha's awakening (quoted in the standard "
+            "recollection formula), good health fit for meditation, honesty with the teacher "
+            "and companions, roused energy, and penetrative wisdom &mdash; each closing with "
+            "&lsquo;why shouldn't I aspire to end the defilements?&rsquo;"]),
+        ("Using legitimate confidence as a template", [
+            "This structure treats a prince's confident, self-justifying ambition not as "
+            "something to be suspicious of, but as a genuinely useful template: the same "
+            "internal logic &mdash; naming one's own real qualifications and asking why not "
+            "&mdash; is offered as a legitimate way to motivate spiritual aspiration."]),
+        ("What comes next", [
+            "AN 5.136 repeats this exact structure for a lesser royal ambition &mdash; "
+            "becoming viceroy rather than king &mdash; while the spiritual aspiration mapped "
+            "onto it remains the same: full liberation."]),
+    ],
+    terms=[
+        ("patthanā",
+         "&ldquo;aspiration&rdquo; &mdash; this discourse's central concept, expressed as "
+         "first-person self-address."),
+        ("kasmāhaṁ&hellip;na pattheyyaṁ",
+         "&ldquo;why shouldn't I aspire to&hellip;?&rdquo; &mdash; the refrain repeated after "
+         "each quality."),
+        ("saddahati tathāgatassa bodhiṁ",
+         "&ldquo;has faith in the Realized One's awakening&rdquo; &mdash; quoted in the "
+         "standard recollection formula."),
+        ("asaṭho amāyāvī",
+         "&ldquo;not devious or deceitful&rdquo; &mdash; honesty with the teacher and "
+         "companions, the mendicant's third quality."),
+        ("āsavānaṁ khayaṁ patthana",
+         "aspiring to the ending of defilements &mdash; the mendicant's ultimate goal, "
+         "paralleling the prince's aspiration to kingship."),
+    ],
+    text_intro=(
+        "The discourse in full: the prince's first-person monologue, then the mendicant's "
+        "parallel reasoning toward liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The prince's five qualifications"),
+        ("p", "&sect;1", "an5.135:1.1-1.7"),
+        ("h3", "The prince's own reasoning"),
+        ("p", "&sect;2", "an5.135:2.1-2.12"),
+        ("h3", "The mendicant's five qualities"),
+        ("p", "&sect;3", "an5.135:3.1-3.8"),
+        ("h3", "The mendicant's own reasoning"),
+        ("p", "&sect;4", "an5.135:4.1-4.13"),
+    ],
+    quiz=[
+        {"q": "What rhetorical device does this discourse use?",
+         "opts": [
+             "A third-person narrative",
+             "A first-person internal monologue, repeated after each quality",
+             "A formal debate between two speakers",
+             "A series of unrelated proverbs"],
+         "correct": 1,
+         "expl": "The prince's own self-address, then the mendicant's."},
+        {"q": "What refrain closes each of the prince's five self-statements?",
+         "opts": [
+             "'This too shall pass'",
+             "'Why shouldn't I aspire to kingship?'",
+             "'I must be humble'",
+             "'This is not for me'"],
+         "correct": 1,
+         "expl": "Kasmāhaṁ rajjaṁ na pattheyyaṁ."},
+        {"q": "Name one of the prince's five qualifications.",
+         "opts": [
+             "Impeccable birth",
+             "Ownership of many elephants",
+             "Foreign alliances",
+             "Religious devotion"],
+         "correct": 0,
+         "expl": "One of five self-named qualifications."},
+        {"q": "What is the mendicant's ultimate aspiration, paralleling the prince's aspiration to kingship?",
+         "opts": [
+             "Wealth",
+             "Ending the defilements",
+             "Fame among laypeople",
+             "Becoming a teacher"],
+         "correct": 1,
+         "expl": "Āsavānaṁ khayaṁ patthana."},
+        {"q": "What is the first of the mendicant's five qualities?",
+         "opts": [
+             "Faith in the Realized One's awakening",
+             "Physical strength",
+             "Wealth",
+             "Fame"],
+         "correct": 0,
+         "expl": "Quoted in the standard recollection-of-the-Buddha formula."},
+        {"q": "What does 'asaṭho amāyāvī' describe?",
+         "opts": [
+             "Not devious or deceitful, honest with teacher and companions",
+             "Physically strong",
+             "Wealthy and generous",
+             "Skilled in debate"],
+         "correct": 0,
+         "expl": "The mendicant's third quality."},
+        {"q": "How does this discourse treat the prince's confident, self-justifying ambition?",
+         "opts": [
+             "As something inherently suspicious",
+             "As a legitimate template for motivating spiritual aspiration",
+             "As a moral failing to be corrected",
+             "As irrelevant to the spiritual parallel"],
+         "correct": 1,
+         "expl": "Naming real qualifications and asking 'why not' as a genuine motivator."},
+        {"q": "What is the fifth of the mendicant's five qualities?",
+         "opts": [
+             "Wisdom — the wisdom of arising and passing away",
+             "Wealth",
+             "Physical beauty",
+             "Royal lineage"],
+         "correct": 0,
+         "expl": "Paññavā, closing the list."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's royal imagery."},
+        {"q": "What does AN 5.136 do with this same structure?",
+         "opts": [
+             "Abandons it entirely",
+             "Repeats it for a lesser royal ambition — viceroy rather than king",
+             "Applies it only to nuns",
+             "Moves to a colophon"],
+         "correct": 1,
+         "expl": "The spiritual aspiration mapped onto it remains full liberation."},
+    ],
+    marginalia=[
+        ("Why shouldn't I?", [
+            "a prince's own",
+            "confident self-address,",
+            "repeated five times",
+        ]),
+        ("Legitimate ambition, as template", [
+            "not suspicious,",
+            "but genuinely",
+            "motivating",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">patthanā</span>",
+            "&mdash; aspiration",
+        ]),
+        ("Cross-references", [
+            "AN 5.136 &middot; next: the same structure, a lesser ambition",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.135/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.134.html">AN 5.134 &middot; In Whatever Region</a> &mdash; the '
+        "previous discourse.",
+        '<a href="an-5.136.html">AN 5.136 &middot; Aspiration (2nd)</a> &mdash; next: the '
+        "same structure, applied to a lesser royal ambition.",
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; another discourse where the Buddha's own health formula appears.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.136 — Dutiyapatthanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    136, "Dutiyapatthanā", "Aspiration (2nd)",
+    vagga=VAGGA_14,
+    meta_title="AN 5.136 — Aspiration (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyapatthanāsutta — a prince's reasoning for aspiring to become viceroy, mapped "
+        "onto the identical goal of ending the defilements. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same first-person monologue structure as AN 5.135, applied to a "
+                 "lesser royal ambition"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar structure, "
+                       "worth noting what stays the same"),
+    ],
+    why=(
+        "AN 5.135's structure repeated for a lesser royal ambition &mdash; becoming viceroy "
+        "rather than king &mdash; but the spiritual aspiration mapped onto it remains "
+        "unchanged: full liberation, ending the defilements, exactly as before."),
+    guide=[
+        ("A lesser royal aspiration", [
+            "Where AN 5.135's prince aspired to kingship itself, this discourse's prince "
+            "aspires to a lesser position: viceroy (<em>oparajja</em>), second to the "
+            "throne."]),
+        ("Overlapping but distinct qualifications", [
+            "Impeccable birth, physical attractiveness, and being beloved by his parents are "
+            "shared with AN 5.135. But this discourse replaces being beloved by &lsquo;town "
+            "and country&rsquo; with being beloved by the armed forces, and replaces skill in "
+            "royal arts with practical intelligence &mdash; astuteness, competence, and the "
+            "ability to think through past, future, and present issues."]),
+        ("The identical closing goal, despite the lesser royal ambition", [
+            "Even though the outer simile aspires to something less than full kingship, the "
+            "spiritual application remains exactly the same: ending the defilements, not "
+            "some lesser spiritual attainment."]),
+        ("A different five monastic qualities from AN 5.135", [
+            "This discourse's mendicant reasons from ethical restraint, deep learning, "
+            "mindfulness firmly established in the four kinds of mindfulness meditation "
+            "(<em>satipaṭṭhāna</em>), energy, and wisdom &mdash; a noticeably different set "
+            "from AN 5.135's faith, health, honesty, energy, and wisdom."]),
+        ("What comes next", [
+            "AN 5.137 turns to something quite different: a short, almost proverb-like list "
+            "of five who sleep little at night."]),
+    ],
+    terms=[
+        ("oparajja",
+         "&ldquo;viceroy&rdquo; &mdash; second to the throne, this discourse's lesser royal "
+         "aspiration."),
+        ("paṇḍito viyatto medhāvī",
+         "astute, competent, and intelligent &mdash; the viceroy candidate's practical "
+         "wisdom quality."),
+        ("catūsu satipaṭṭhānesu suppatiṭṭhitacitto",
+         "&ldquo;mind firmly established in the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; this discourse's distinctive third quality, absent from AN 5.135."),
+        ("balakāya",
+         "the armed forces &mdash; whose affection replaces AN 5.135's 'town and country' in "
+         "this discourse's list."),
+        ("āsavānaṁ khayaṁ patthana",
+         "aspiring to end the defilements &mdash; unchanged as the ultimate spiritual goal."),
+    ],
+    text_intro=(
+        "The discourse in full: the prince's reasoning toward viceroyship, then the "
+        "mendicant's parallel reasoning toward liberation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The prince's qualifications for viceroyship"),
+        ("p", "&sect;1", "an5.136:1.1-2.12"),
+        ("h3", "The mendicant's five qualities"),
+        ("p", "&sect;2", "an5.136:3.1-4.12"),
+    ],
+    quiz=[
+        {"q": "What royal aspiration does this discourse's prince hold, unlike AN 5.135's?",
+         "opts": [
+             "Kingship itself",
+             "Viceroy, second to the throne",
+             "No aspiration at all",
+             "Becoming a military general only"],
+         "correct": 1,
+         "expl": "Oparajja, a lesser position than full kingship."},
+        {"q": "What replaces AN 5.135's 'beloved by town and country' in this discourse's list?",
+         "opts": [
+             "Beloved by the armed forces",
+             "Beloved by foreign kings",
+             "Beloved by merchants",
+             "Nothing; the item is simply removed"],
+         "correct": 0,
+         "expl": "Balakāyassa piyo — beloved by the armed forces."},
+        {"q": "What replaces AN 5.135's skill in royal arts?",
+         "opts": [
+             "Practical intelligence — astuteness, competence, thinking through past, future, present",
+             "Physical strength alone",
+             "Wealth",
+             "Religious devotion"],
+         "correct": 0,
+         "expl": "Paṇḍito viyatto medhāvī."},
+        {"q": "Despite the lesser royal ambition in this discourse, what does the spiritual application remain?",
+         "opts": [
+             "A lesser attainment than AN 5.135's",
+             "Exactly the same — ending the defilements",
+             "Rebirth as a deity",
+             "Community leadership"],
+         "correct": 1,
+         "expl": "The ultimate goal is unchanged despite the lesser outer simile."},
+        {"q": "What distinctive third quality appears in this discourse's mendicant list, absent from AN 5.135?",
+         "opts": [
+             "Mindfulness firmly established in the four kinds of mindfulness meditation",
+             "Physical beauty",
+             "Royal lineage",
+             "Wealth"],
+         "correct": 0,
+         "expl": "Satipaṭṭhāna, replacing AN 5.135's health and honesty items."},
+        {"q": "What are the five monastic qualities in this discourse's list?",
+         "opts": [
+             "Ethics, learning, mindfulness, energy, wisdom",
+             "Faith, health, honesty, energy, wisdom",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "A noticeably different set from AN 5.135's."},
+        {"q": "What refrain closes each of the mendicant's five self-statements?",
+         "opts": [
+             "'This too shall pass'",
+             "'Why shouldn't I aspire to end the defilements?'",
+             "'I must be humble'",
+             "'This is beyond me'"],
+         "correct": 1,
+         "expl": "Kasmāhaṁ āsavānaṁ khayaṁ na pattheyyaṁ, unchanged from AN 5.135."},
+        {"q": "What structural device does this discourse share with AN 5.135?",
+         "opts": [
+             "A third-person narrative only",
+             "The first-person internal monologue, repeated after each quality",
+             "No shared structure at all",
+             "A formal courtroom debate"],
+         "correct": 1,
+         "expl": "The same rhetorical device, applied to a different royal ambition."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's royal imagery."},
+        {"q": "What does AN 5.137 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A short list of five who sleep little at night",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A striking shift in register."},
+    ],
+    marginalia=[
+        ("A lesser throne, the same goal", [
+            "viceroy, not king —",
+            "but liberation,",
+            "unchanged",
+        ]),
+        ("A different monastic five", [
+            "ethics &middot; learning",
+            "&middot; mindfulness &middot;",
+            "energy &middot; wisdom",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">satipaṭṭhāna</span>",
+            "&mdash; the four kinds",
+            "of mindfulness meditation",
+        ]),
+        ("Cross-references", [
+            "AN 5.135 &middot; the same structure, kingship itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.136/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.135.html">AN 5.135 &middot; Aspiration (1st)</a> &mdash; this '
+        "discourse&rsquo;s twin, aspiring to kingship itself.",
+        '<a href="an-5.137.html">AN 5.137 &middot; Little Sleep</a> &mdash; next: a '
+        "striking shift in register.",
+        '<a href="an-5.90.html">AN 5.90 &middot; A Trainee (2nd)</a> &mdash; where '
+        "satipa&#7789;&#7789;h&#257;na-adjacent material previously appeared in this "
+        "nip&#257;ta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.137 — Appaṁsupatisutta
+# --------------------------------------------------------------------------- #
+page(
+    137, "Appaṁsupati", "Little Sleep",
+    vagga=VAGGA_14,
+    meta_title="AN 5.137 — Little Sleep | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Appaṁsupatisutta — five who sleep little at night, staying mostly awake: desire, "
+        "greed, royal duty, and a mendicant's longing for freedom, placed side by side. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare list, almost proverb-like in its brevity and imagery"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short and vividly "
+                       "recognizable"),
+    ],
+    why=(
+        "One of this collection's more folk-observational discourses: a woman longing for a "
+        "man, a man longing for a woman, a thief longing for loot, a king busy with duties, "
+        "and a mendicant longing for freedom &mdash; five kinds of restless, wakeful "
+        "yearning, placed side by side without ranking or moralizing."),
+    guide=[
+        ("Five kinds of wakeful yearning", [
+            "A woman longing for a man; a man longing for a woman; a thief longing for their "
+            "loot; a king busy with his duties; and a mendicant longing for freedom from the "
+            "yoke &mdash; each said to sleep little at night, staying mostly awake."]),
+        ("No ranking among the four worldly examples", [
+            "The discourse doesn't moralize about or rank the first four items; romantic "
+            "desire, greed, and royal duty are simply named as sharing the same "
+            "insomnia-producing intensity, without further comment on their relative worth."]),
+        ("The mendicant's longing, placed alongside the others", [
+            "The fifth item &mdash; a mendicant longing for freedom from the yoke "
+            "(<em>visaṁyoga</em>, release from bondage) &mdash; is presented structurally "
+            "identical to the other four: an intense, wakeful yearning, not qualitatively "
+            "different in kind, only in its object."]),
+        ("Royal duty, echoing this chapter's title", [
+            "The fourth example, a king busy with his duties, directly echoes this chapter's "
+            "own title and recurring royal imagery, this time from an unusually intimate, "
+            "human angle: even an ideal ruler doesn't sleep well."]),
+        ("What comes next", [
+            "AN 5.138 returns to elephant imagery: a royal elephant that nominally counts as "
+            "&lsquo;royal&rsquo; despite being practically useless."]),
+    ],
+    terms=[
+        ("appaṁ rattiyā supati, bahuṁ jaggati",
+         "&ldquo;sleeps little at night, stays mostly awake&rdquo; &mdash; the refrain "
+         "describing all five figures."),
+        ("purisādhippāya / itthādhippāya",
+         "longing for a man / longing for a woman &mdash; the first two figures."),
+        ("ādānādhippāya",
+         "longing for one's loot &mdash; the thief's motivating desire."),
+        ("rājakaraṇīyesu yutto",
+         "&ldquo;busy with royal duties&rdquo; &mdash; the king's occupying concern."),
+        ("visaṁyogādhippāya",
+         "&ldquo;longing for freedom from the yoke&rdquo; &mdash; the mendicant's motivating "
+         "aspiration."),
+    ],
+    text_intro=(
+        "The discourse in full: five figures who sleep little, staying mostly awake. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five who sleep little"),
+        ("p", "&sect;1", "an5.137:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What five figures does this discourse name?",
+         "opts": [
+             "A woman longing for a man, a man for a woman, a thief for loot, a king busy with duties, a mendicant longing for freedom",
+             "Five kinds of teacher",
+             "Five kinds of warrior",
+             "Five kinds of nun"],
+         "correct": 0,
+         "expl": "Five figures sharing wakeful, restless yearning."},
+        {"q": "What do all five figures have in common, according to this discourse?",
+         "opts": [
+             "They all commit crimes",
+             "They sleep little at night, staying mostly awake",
+             "They are all royalty",
+             "They are all mendicants"],
+         "correct": 1,
+         "expl": "The shared refrain across all five."},
+        {"q": "Does the discourse rank or moralize among the four worldly examples?",
+         "opts": [
+             "Yes, it condemns them explicitly",
+             "No — they are simply named side by side without ranking",
+             "It praises them all equally",
+             "It only mentions three, not four"],
+         "correct": 1,
+         "expl": "Placed without further comment on relative worth."},
+        {"q": "What does 'visaṁyogādhippāya' mean?",
+         "opts": [
+             "Longing for freedom from the yoke",
+             "Longing for wealth",
+             "Longing for fame",
+             "Longing for a meal"],
+         "correct": 0,
+         "expl": "The mendicant's motivating aspiration."},
+        {"q": "How is the mendicant's longing presented, relative to the other four?",
+         "opts": [
+             "As categorically superior in kind",
+             "As structurally identical — an intense yearning, differing only in its object",
+             "As entirely unrelated to the others",
+             "As the discourse's only real subject, with the others merely background"],
+         "correct": 1,
+         "expl": "The same intensity of wakeful yearning, applied to a different object."},
+        {"q": "Which figure directly echoes this chapter's own title and recurring imagery?",
+         "opts": [
+             "The woman",
+             "The king busy with duties",
+             "The thief",
+             "The man"],
+         "correct": 1,
+         "expl": "Continuing the Rājavagga's royal thread from a human angle."},
+        {"q": "What does the thief long for?",
+         "opts": [
+             "Freedom",
+             "Their loot",
+             "A spouse",
+             "Fame"],
+         "correct": 1,
+         "expl": "Ādānādhippāya."},
+        {"q": "How long is this discourse, relative to others in this nipāta?",
+         "opts": [
+             "One of the longest",
+             "Among the shortest, a bare list with vivid imagery",
+             "Exactly average length",
+             "The longest in this chapter"],
+         "correct": 1,
+         "expl": "Brief and proverb-like."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter on kings."},
+        {"q": "What does AN 5.138 return to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Elephant imagery — a royal elephant nominally royal despite being useless",
+             "A narrative about nuns",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "A new figurative thread within this chapter."},
+    ],
+    marginalia=[
+        ("Five wakeful yearnings", [
+            "desire &middot; desire",
+            "&middot; loot &middot; duty",
+            "&middot; freedom",
+        ]),
+        ("No ranking given", [
+            "placed side by side,",
+            "without moralizing",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">visaṁyoga</span>",
+            "&mdash; freedom",
+            "from the yoke",
+        ]),
+        ("Cross-references", [
+            "AN 5.131&ndash;136 &middot; this chapter's royal imagery",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.137/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.136.html">AN 5.136 &middot; Aspiration (2nd)</a> &mdash; the '
+        "previous discourse.",
+        '<a href="an-5.138.html">AN 5.138 &middot; Eating Food</a> &mdash; next: a return '
+        "to elephant imagery.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; another '
+        "discourse in this nip&#257;ta touching on desire and restlessness.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.138 — Bhattādakasutta
+# --------------------------------------------------------------------------- #
+page(
+    138, "Bhattādaka", "Eating Food",
+    vagga=VAGGA_14,
+    meta_title="AN 5.138 — Eating Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhattādakasutta — "
+        "a royal elephant remains formally 'royal' despite total practical uselessness, "
+        "mapped onto a mendicant who merely occupies the role. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a wry elephant simile, questioning what a formal title actually secures"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, with a pointed, "
+                       "almost satirical edge"),
+    ],
+    why=(
+        "A wry, pointed discourse: a royal elephant that eats food, takes up space, drops "
+        "dung, and wears its ticket is still formally &lsquo;reckoned&rsquo; a royal "
+        "elephant &mdash; even if it's practically useless. The same is said of a mendicant "
+        "who merely occupies the role without functioning within it."),
+    guide=[
+        ("A formal title, emptied of substance", [
+            "A royal bull elephant that eats food, takes up space, drops dung, and takes a "
+            "ticket &mdash; the bare minimum of formal occupancy &mdash; is &lsquo;still "
+            "reckoned a royal bull elephant&rsquo;, regardless of whether it actually "
+            "functions as one."]),
+        ("The single disqualifying quality", [
+            "What makes such an elephant practically useless, despite its formal status, is "
+            "the same <em>akkhama</em> pentad already seen at AN 5.85 and 5.113: inability to "
+            "endure sights, sounds, smells, tastes, and touches."]),
+        ("The mendicant's parallel", [
+            "A mendicant with this same inability is described in nearly identical terms: "
+            "eating food, taking up space, trampling beds and chairs, and taking a ticket "
+            "&mdash; still formally &lsquo;reckoned a mendicant&rsquo;, whatever their actual "
+            "practical value."]),
+        ("The wit of the comparison", [
+            "This discourse's real point lands with a certain dryness: being formally "
+            "counted in a role is entirely compatible with total practical uselessness within "
+            "it, so long as one merely occupies the costume rather than fulfilling the "
+            "function."]),
+        ("A fourth appearance of this pentad", [
+            "This is the third time in this nipāta that the akkhama/khama sense-tolerance "
+            "pentad has appeared, after AN 5.85 (social standing) and AN 5.113 (right "
+            "immersion) &mdash; each time with a different consequence attached to the same "
+            "underlying quality."]),
+        ("What comes next", [
+            "AN 5.139 gives the fullest, most elaborate treatment of this same pentad yet, "
+            "unpacking each item through a vivid battle scenario."]),
+    ],
+    terms=[
+        ("rañño nāgo",
+         "&ldquo;a royal bull elephant&rdquo; &mdash; this discourse's figurative subject."),
+        ("saṅkhaṁ gacchati",
+         "&ldquo;is reckoned as, counted as&rdquo; &mdash; naming formal status regardless of "
+         "actual function."),
+        ("bhattādaka",
+         "&ldquo;eating food&rdquo; &mdash; this discourse's title, the bare minimum of "
+         "formal occupancy."),
+        ("akkhama",
+         "unable to endure &mdash; the disqualifying quality, reused from AN 5.85 and 5.113."),
+        ("mañcapīṭhamaddano",
+         "&ldquo;trampling beds and chairs&rdquo; &mdash; the mendicant's parallel to the "
+         "elephant's dung-dropping, a mark of practical uselessness."),
+    ],
+    text_intro=(
+        "The discourse in full: a formally 'royal' elephant, and a formally 'mendicant' "
+        "counterpart, both practically useless despite their titles. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A royal elephant in name only"),
+        ("p", "&sect;1", "an5.138:1.1-1.4"),
+        ("h3", "A mendicant in name only"),
+        ("p", "&sect;2", "an5.138:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say about an elephant that merely eats, takes up space, drops dung, and wears its ticket?",
+         "opts": [
+             "It is disqualified from being called a royal elephant",
+             "It is still 'reckoned' a royal elephant, regardless of actual usefulness",
+             "It is executed",
+             "It is promoted to a higher rank"],
+         "correct": 1,
+         "expl": "Formal status, independent of practical function."},
+        {"q": "What single quality disqualifies such an elephant from being practically useful?",
+         "opts": [
+             "Inability to endure sights, sounds, smells, tastes, and touches",
+             "Old age",
+             "Small size",
+             "Poor eyesight"],
+         "correct": 0,
+         "expl": "The akkhama pentad, reused from earlier discourses."},
+        {"q": "What does the mendicant's parallel behavior include?",
+         "opts": [
+             "Eating food, taking up space, trampling furniture, wearing the ticket",
+             "Teaching extensively",
+             "Living in the wilderness",
+             "Refusing all almsfood"],
+         "correct": 0,
+         "expl": "The mendicant's equivalent bare minimum of formal occupancy."},
+        {"q": "What is the discourse's real point, described with a certain dryness?",
+         "opts": [
+             "That titles are meaningless and should be abolished",
+             "That formal status is compatible with total practical uselessness within a role",
+             "That elephants and mendicants are identical",
+             "That only elephants can hold formal titles"],
+         "correct": 1,
+         "expl": "Occupying the costume rather than fulfilling the function."},
+        {"q": "Where has the akkhama pentad appeared twice before in this nipāta?",
+         "opts": [
+             "AN 5.85 and AN 5.113",
+             "AN 5.1 and AN 5.71",
+             "AN 5.99 and AN 5.100",
+             "AN 5.90 and AN 5.114"],
+         "correct": 0,
+         "expl": "Social standing and right immersion, respectively."},
+        {"q": "What does 'saṅkhaṁ gacchati' mean?",
+         "opts": [
+             "Is reckoned, counted as",
+             "Is executed",
+             "Is exiled",
+             "Is celebrated"],
+         "correct": 0,
+         "expl": "Naming formal status independent of function."},
+        {"q": "What does 'mañcapīṭhamaddano' describe?",
+         "opts": [
+             "Teaching skillfully",
+             "Trampling beds and chairs",
+             "Reciting scripture",
+             "Living in seclusion"],
+         "correct": 1,
+         "expl": "A mark of practical uselessness, paralleling the elephant's dung-dropping."},
+        {"q": "What tone does this discourse take, compared to most of this nipāta?",
+         "opts": [
+             "Purely solemn and grave",
+             "Wry and pointed, almost satirical",
+             "Entirely neutral and clinical",
+             "Celebratory"],
+         "correct": 1,
+         "expl": "A pointed edge, worth noticing."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Gilānavagga",
+             "Rājavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's royal-elephant imagery."},
+        {"q": "What does AN 5.139 do with this same pentad?",
+         "opts": [
+             "Abandons it entirely",
+             "Gives its fullest treatment yet, through vivid battle scenarios",
+             "Reduces it to a single item",
+             "Applies it only to nuns"],
+         "correct": 1,
+         "expl": "The most elaborate version of this recurring formula."},
+    ],
+    marginalia=[
+        ("A title, emptied of substance", [
+            "still 'reckoned'",
+            "royal, despite",
+            "total uselessness",
+        ]),
+        ("The disqualifying quality", [
+            "akkhama —",
+            "unable to endure",
+            "sense contact",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saṅkhaṁ gacchati</span>",
+            "&mdash; is reckoned,",
+            "counted as",
+        ]),
+        ("Cross-references", [
+            "AN 5.85 / 5.113 &middot; this pentad's earlier appearances",
+            "AN 5.139 &middot; next: this pentad's fullest treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.138/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.85.html">AN 5.85 &middot; Cannot Endure</a> &mdash; this '
+        "pentad&rsquo;s first appearance in this nip&#257;ta, framed as social standing.",
+        '<a href="an-5.113.html">AN 5.113 &middot; Right Immersion</a> &mdash; this '
+        "pentad&rsquo;s second appearance, framed as meditative capacity.",
+        '<a href="an-5.139.html">AN 5.139 &middot; Cannot Endure</a> &mdash; next: this '
+        "same pentad, elaborated in full battle detail.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.139 — Akkhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    139, "Akkhama", "Cannot Endure",
+    vagga=VAGGA_14,
+    meta_title="AN 5.139 — Cannot Endure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Akkhamasutta — "
+        "this nipāta's fullest treatment of the sense-endurance pentad, each item unpacked "
+        "through a vivid, expanded battle scene. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended simile — the akkhama/khama pentad, each item given its own "
+                 "vivid battle vignette"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long, vivid, and worth "
+                       "comparing with this pentad's three earlier appearances"),
+    ],
+    why=(
+        "This nipāta's fourth and fullest treatment of the sense-endurance pentad already "
+        "seen at AN 5.85, 5.113, and 5.138: here, each of the five items gets its own vivid, "
+        "expanded battle scene &mdash; sighting enemy divisions, hearing war-drums, smelling "
+        "other elephants, missing meals, being struck by arrows &mdash; mapped onto a "
+        "mendicant's own sense-contact failures."),
+    guide=[
+        ("Not worthy, this time, rather than merely useless", [
+            "Where AN 5.138 said an elephant with this failing is still &lsquo;reckoned&rsquo; "
+            "royal despite uselessness, this discourse makes a stronger claim: an elephant "
+            "with the akkhama pentad is explicitly not worthy of a king, not fit to serve, "
+            "and not reckoned a factor of kingship at all."]),
+        ("Five battle scenes, in full", [
+            "Faltering at the mere sight of enemy elephant, cavalry, chariot, or infantry "
+            "divisions; faltering at the sound of those divisions or the thunder of war-drums "
+            "and horns; faltering at the smell of other battle-hardened elephants' waste; "
+            "faltering after missing several meals; faltering when struck by several swift "
+            "arrows &mdash; each explained in its own right, not merely named."]),
+        ("The mendicant's parallel, sense by sense", [
+            "For each of the five senses, a mendicant who is &lsquo;aroused by a desirable "
+            "[sight/sound/smell/taste/touch]&rsquo; and unable to still the mind is said to "
+            "lack the corresponding endurance &mdash; making the mendicant not worthy of "
+            "offerings, not the supreme field of merit."]),
+        ("A fourth treatment, most fully unpacked", [
+            "Compare this discourse's elaboration directly with its three earlier, bare "
+            "appearances: AN 5.85 named the five sense objects with no explanation at all; AN "
+            "5.113 did the same, with immersion as the stake; AN 5.138 named them briefly "
+            "alongside the elephant's formal status. This discourse alone explains, in full "
+            "narrative detail, what each failure actually looks like."]),
+        ("The mirrored positive, in equal detail", [
+            "The discourse then repeats the entire structure in reverse: an elephant who "
+            "endures each battle scenario is worthy of a king, and a mendicant who isn't "
+            "aroused by desirable sense objects, able to still the mind each time, is worthy "
+            "of offerings &mdash; both halves given the same full elaboration as the "
+            "negative."]),
+        ("What comes next", [
+            "AN 5.140 closes the chapter with a different elephant simile entirely, built "
+            "from five active verbs &mdash; listening, destroying, protecting, enduring, and "
+            "going &mdash; rather than this discourse's single passive capacity."]),
+    ],
+    terms=[
+        ("rājāraho / rājabhoggo",
+         "&ldquo;worthy of a king&rdquo; / &ldquo;fit to serve a king&rdquo; &mdash; the "
+         "verdict at stake in this discourse, stronger than AN 5.138's mere 'reckoning'."),
+        ("saṅgāmagato",
+         "&ldquo;gone to battle&rdquo; &mdash; the setting for each of the elephant's five "
+         "vignettes."),
+        ("sārajjati",
+         "&ldquo;is aroused, infatuated&rdquo; &mdash; the mendicant's parallel failure at "
+         "each sense contact."),
+        ("cittaṁ samādahituṁ",
+         "&ldquo;to still the mind&rdquo; &mdash; what the mendicant fails, or succeeds, at "
+         "doing when confronted with a desirable sense object."),
+        ("āhuneyya",
+         "&ldquo;worthy of offerings&rdquo; &mdash; the standard formula naming full "
+         "worthiness of veneration, at stake in the mendicant's half."),
+    ],
+    text_intro=(
+        "The discourse in full: the akkhama pentad's fullest elaboration, five battle scenes "
+        "and their sense-contact parallels, then the identical structure reversed for "
+        "khama. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not worthy of a king"),
+        ("p", "&sect;1", "an5.139:1.1-1.3"),
+        ("h3", "Cannot endure sights, sounds, smells"),
+        ("p", "&sect;2", "an5.139:2.1-4.3"),
+        ("h3", "Cannot endure tastes and touches"),
+        ("p", "&sect;3", "an5.139:5.1-7.1"),
+        ("h3", "Not worthy of offerings"),
+        ("p", "&sect;4", "an5.139:8.1-14.1"),
+        ("h3", "Worthy of a king"),
+        ("p", "&sect;5", "an5.139:15.1-21.1"),
+        ("h3", "Worthy of offerings"),
+        ("p", "&sect;6", "an5.139:22.1-28.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's verdict differ from AN 5.138's for the same failing?",
+         "opts": [
+             "It is identical",
+             "Stronger — explicitly not worthy of a king at all, not merely 'reckoned' as one",
+             "Weaker",
+             "The two discourses address unrelated topics"],
+         "correct": 1,
+         "expl": "Na rājāraho — a stronger disqualification."},
+        {"q": "What triggers the elephant's failure at sight, in this discourse's battle scene?",
+         "opts": [
+             "Seeing enemy elephant, cavalry, chariot, or infantry divisions",
+             "Seeing its own trainer",
+             "Seeing food",
+             "Seeing rain"],
+         "correct": 0,
+         "expl": "The first of five expanded battle vignettes."},
+        {"q": "What triggers the elephant's failure at smell?",
+         "opts": [
+             "The smell of flowers",
+             "The smell of other battle-hardened elephants' waste",
+             "The smell of smoke",
+             "The smell of rain"],
+         "correct": 1,
+         "expl": "A specific, vivid detail unique to this fuller treatment."},
+        {"q": "What is the mendicant's parallel failure at each sense contact?",
+         "opts": [
+             "Physical illness",
+             "Being aroused by a desirable sense object, unable to still the mind",
+             "Falling asleep",
+             "Forgetting the teaching"],
+         "correct": 1,
+         "expl": "Sārajjati, na sakkoti cittaṁ samādahituṁ."},
+        {"q": "How does this discourse's treatment compare to AN 5.85 and 5.113's?",
+         "opts": [
+             "Identical in every detail",
+             "The fullest elaboration — each item unpacked with vivid narrative detail",
+             "Much shorter and less detailed",
+             "Entirely unrelated content"],
+         "correct": 1,
+         "expl": "The fourth and most fully explained treatment of this pentad."},
+        {"q": "What happens to the discourse's structure in its second half?",
+         "opts": [
+             "It simply ends",
+             "The entire structure is repeated in reverse, for khama (endurance)",
+             "It shifts to an unrelated topic",
+             "It becomes a colophon"],
+         "correct": 1,
+         "expl": "Both negative and positive halves given equal elaboration."},
+        {"q": "What verdict is given for a mendicant who can endure all five sense contacts?",
+         "opts": [
+             "Worthy of offerings, the supreme field of merit for the world",
+             "No particular verdict",
+             "Ordinary status only",
+             "Disqualification from teaching"],
+         "correct": 0,
+         "expl": "The full 'worthy of offerings' formula."},
+        {"q": "What does 'saṅgāmagato' mean?",
+         "opts": [
+             "Gone to battle",
+             "Returned home",
+             "Newly trained",
+             "Retired from service"],
+         "correct": 0,
+         "expl": "The setting for each of the elephant's five vignettes."},
+        {"q": "How many total treatments of the akkhama/khama pentad appear in this nipāta, counting this discourse?",
+         "opts": [
+             "Two",
+             "Four — AN 5.85, 5.113, 5.138, and this discourse",
+             "Six",
+             "Only this one"],
+         "correct": 1,
+         "expl": "Social standing, right immersion, formal reckoning, and now full battle elaboration."},
+        {"q": "What does AN 5.140 close this chapter with instead?",
+         "opts": [
+             "A repeat of this same pentad",
+             "A different elephant simile, built from five active verbs",
+             "A colophon with no further content",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "Listening, destroying, protecting, enduring, and going."},
+    ],
+    marginalia=[
+        ("Five battle scenes, in full", [
+            "sight &middot; sound &middot;",
+            "smell &middot; taste &middot;",
+            "touch — each unpacked",
+        ]),
+        ("This pentad's fourth appearance", [
+            "AN 5.85 &middot; 5.113",
+            "&middot; 5.138 &middot;",
+            "this discourse, fullest",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sārajjati</span>",
+            "&mdash; is aroused,",
+            "infatuated",
+        ]),
+        ("Cross-references", [
+            "AN 5.85 / 5.113 / 5.138 &middot; this pentad's earlier appearances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.139/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.138.html">AN 5.138 &middot; Eating Food</a> &mdash; the previous '
+        "discourse, this pentad's brief, wry treatment.",
+        '<a href="an-5.140.html">AN 5.140 &middot; A Listener</a> &mdash; next: this '
+        "chapter's closing discourse, a different elephant simile.",
+        '<a href="an-5.75.html">AN 5.75 &middot; Warriors (1st)</a> &mdash; another '
+        "extended, battle-imagery simile in this nip&#257;ta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.140 — Sotasutta
+# --------------------------------------------------------------------------- #
+page(
+    140, "Sota", "A Listener",
+    vagga=VAGGA_14,
+    meta_title="AN 5.140 — A Listener | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sotasutta, closing "
+        "the Rājavagga — a battle-trained elephant's five active qualities mapped with "
+        "precision onto a mendicant's path all the way to nibbāna. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended simile built from five active verbs, each explained in vivid "
+                 "battle and practice detail"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the chapter's most "
+                       "carefully mapped closing simile"),
+    ],
+    why=(
+        "This chapter's second and closing elephant simile, built from an entirely different "
+        "structure than AN 5.138&ndash;139's passive endurance: five active verbs &mdash; "
+        "listening, destroying, protecting, enduring, and going &mdash; each mapped with real "
+        "precision onto a mendicant's path all the way to nibbāna itself."),
+    guide=[
+        ("Five active qualities, not one passive capacity", [
+            "Unlike AN 5.138&ndash;139's akkhama/khama pentad, this discourse names five "
+            "distinct active verbs a worthy royal elephant performs: it listens, destroys, "
+            "protects, endures, and goes."]),
+        ("Listening and destroying", [
+            "The elephant listens by wholeheartedly attending to its trainer's commands, "
+            "whether familiar or new; the mendicant's parallel is attentive listening to the "
+            "Dhamma being taught. The elephant destroys enemy combatants in battle; the "
+            "mendicant &lsquo;destroys&rsquo; arisen sensual, malicious, or cruel thoughts, "
+            "using the standard eradication formula &mdash; giving up, getting rid of, "
+            "calming, eliminating, obliterating."]),
+        ("Protecting and enduring", [
+            "The elephant protects its own body parts in battle; the mendicant's "
+            "&lsquo;protecting&rsquo; is the full sense-restraint formula already given at AN "
+            "5.76 &mdash; not getting caught up in the features and details of what is seen "
+            "or heard. The elephant endures blows and battle-noise; the mendicant endures an "
+            "expanded list: cold, heat, hunger, thirst, biting insects, rude criticism, and "
+            "severe physical pain &mdash; broader than AN 5.138&ndash;139's purely sensory "
+            "akkhama."]),
+        ("Going fast, all the way to nibbāna", [
+            "The elephant swiftly goes wherever its trainer directs, familiar territory or "
+            "not. The mendicant's parallel is remarkable: swiftly going in a direction "
+            "&lsquo;never gone before in all this long time&rsquo; &mdash; the stilling of "
+            "all activities, the letting go of all attachments, the ending of craving, "
+            "fading away, cessation, extinguishment. The elephant's disciplined advance "
+            "becomes, in the final mapping, nibbāna itself."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Rājavaggo catuttho&rsquo; (the tenth discourse, the "
+            "fourth Rājavagga by the traditional count) follows the mechanism explained in "
+            "full at AN 5.10."]),
+        ("The uddāna's opening lines", [
+            "The mnemonic verse names this chapter's discourses by key terms: "
+            "<em>cakkānuvattanā</em> (wielding power), <em>rājā</em> (a principled king), "
+            "<em>yassaṁdisaṁ</em> (in whatever region), and the two aspiration discourses, "
+            "trailing into the verse's remaining, untranslated lines."]),
+    ],
+    terms=[
+        ("sotā",
+         "&ldquo;listener&rdquo; &mdash; this discourse's title term and first quality."),
+        ("hantā",
+         "&ldquo;destroyer&rdquo; &mdash; mapped onto eradicating arisen unwholesome "
+         "thoughts."),
+        ("rakkhitā",
+         "&ldquo;protector&rdquo; &mdash; mapped onto the full sense-restraint formula, "
+         "reused from AN 5.76."),
+        ("khantā",
+         "&ldquo;endurer&rdquo; &mdash; mapped onto an expanded list including physical "
+         "hardship, rude criticism, and severe pain."),
+        ("gantā",
+         "&ldquo;goer&rdquo; &mdash; mapped onto swift movement toward nibbāna itself."),
+    ],
+    text_intro=(
+        "The discourse in full: five active qualities of a worthy royal elephant, each "
+        "mapped onto a corresponding mendicant quality all the way to nibbāna. The chapter's "
+        "closing colophon and Pāli mnemonic verse are part of the source but are not "
+        "translated text, and are described rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five active qualities of a worthy elephant"),
+        ("p", "&sect;1", "an5.140:1.1-1.3"),
+        ("h3", "Listening"),
+        ("p", "&sect;2", "an5.140:2.1-2.5"),
+        ("h3", "Destroying"),
+        ("p", "&sect;3", "an5.140:3.1-3.3"),
+        ("h3", "Protecting"),
+        ("p", "&sect;4", "an5.140:4.1-4.3"),
+        ("h3", "Enduring"),
+        ("p", "&sect;5", "an5.140:5.1-5.3"),
+        ("h3", "Going fast"),
+        ("p", "&sect;6", "an5.140:6.1-6.5"),
+        ("h3", "The mendicant's parallel, in full"),
+        ("p", "&sect;7", "an5.140:8.1-14.1"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse use, unlike AN 5.138–139's pentad?",
+         "opts": [
+             "The same akkhama/khama pentad, repeated",
+             "Five distinct active verbs — listening, destroying, protecting, enduring, going",
+             "A single passive capacity only",
+             "No structure; a pure narrative"],
+         "correct": 1,
+         "expl": "A different five-term structure entirely."},
+        {"q": "What does the mendicant's 'listening' correspond to?",
+         "opts": [
+             "Attentive listening to the Dhamma being taught",
+             "Listening for enemy approach",
+             "Listening to music",
+             "Listening to complaints"],
+         "correct": 0,
+         "expl": "Paralleling the elephant's attention to its trainer."},
+        {"q": "What does the mendicant's 'destroying' correspond to?",
+         "opts": [
+             "Physical combat",
+             "Eradicating arisen sensual, malicious, or cruel thoughts",
+             "Destroying enemy property",
+             "Winning arguments"],
+         "correct": 1,
+         "expl": "The standard eradication formula applied to unwholesome thoughts."},
+        {"q": "What does the mendicant's 'protecting' correspond to, reused from an earlier discourse?",
+         "opts": [
+             "The full sense-restraint formula from AN 5.76",
+             "Physical armor",
+             "A bodyguard",
+             "A fortified dwelling"],
+         "correct": 0,
+         "expl": "Not getting caught up in the features and details of sense experience."},
+        {"q": "How does the mendicant's 'enduring' differ from AN 5.138–139's akkhama pentad?",
+         "opts": [
+             "It is identical",
+             "It is broader — including physical hardship, rude criticism, and severe pain, not just sensory arousal",
+             "It is narrower",
+             "It doesn't mention endurance at all"],
+         "correct": 1,
+         "expl": "An expanded list beyond purely sensory endurance."},
+        {"q": "What does the mendicant's 'going fast' correspond to?",
+         "opts": [
+             "Physical travel between monasteries",
+             "Swift movement toward nibbāna itself",
+             "Fast walking meditation",
+             "Rapid teaching of new students"],
+         "correct": 1,
+         "expl": "The stilling of all activities, described via the extinguishment formula."},
+        {"q": "What direction is nibbāna described as, in this discourse's mapping?",
+         "opts": [
+             "A direction gone many times before",
+             "A direction never gone before in all this long time",
+             "A direction only kings can reach",
+             "A direction requiring physical travel"],
+         "correct": 1,
+         "expl": "The elephant's swift advance into new territory, mapped onto nibbāna."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Rājavaggo catuttho.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.130, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the fourth Rājavagga."},
+        {"q": "What does the chapter's mnemonic verse name in its opening lines?",
+         "opts": [
+             "A list of unrelated place names",
+             "This chapter's discourses, by their key terms, in order",
+             "The names of the Buddha's chief disciples",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Cakkānuvattanā, rājā, yassaṁdisaṁ, and the two aspiration discourses."},
+        {"q": "What chapter comes next in the Fives, after this one closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 15, Tikaṇḍakīvagga, AN 5.141–150",
+             "A return to Gilānavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("Five active qualities", [
+            "listen &middot; destroy",
+            "&middot; protect &middot;",
+            "endure &middot; go",
+        ]),
+        ("An elephant's advance, and nibbāna", [
+            "swift movement into",
+            "territory never",
+            "entered before",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gantā</span>",
+            "&mdash; goer, mapped",
+            "onto nibb&#257;na",
+        ]),
+        ("Cross-references", [
+            "AN 5.76 &middot; the sense-restraint formula, reused here",
+            "AN 5.10 &middot; the colophon convention, explained",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.140/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.139.html">AN 5.139 &middot; Cannot Endure</a> &mdash; the previous '
+        "discourse, this chapter's other elaborated elephant simile.",
+        '<a href="an-5.76.html">AN 5.76 &middot; Warriors (2nd)</a> &mdash; where this '
+        "discourse's sense-restraint formula was first given in full.",
+        '<a href="an-5.131.html">AN 5.131 &middot; Wielding Power (1st)</a> &mdash; back to '
+        "this chapter&rsquo;s opening, closing the loop.",
+    ],
+)
