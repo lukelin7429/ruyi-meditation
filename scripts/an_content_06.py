@@ -15446,3 +15446,1755 @@ page(
         "Fifty's opening, for contrast with the chapter now closing.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 8 — Arahattavagga (AN 6.75–84), continuing the Second Fifty
+# --------------------------------------------------------------------------- #
+VAGGA_8 = "<em>Arahattavagga</em> &mdash; the eighth chapter of the Sixes, continuing the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.75 — Dukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    75, "Dukkha", "Suffering",
+    vagga=VAGGA_8,
+    meta_title="AN 6.75 — Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dukkhasutta, opening "
+        "the Sixes' eighth chapter with the same blocking list as AN 6.74 but a different "
+        "target and an explicit positive reversal. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal — the reversal "
+                 "naming positive replacements rather than simple negation"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The thought/perception triad of renunciation, good will, and "
+                              "harmlessness recurs widely across the Chinese Āgamas' treatment "
+                              "of right thought; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "opening a new chapter with a list already met at this chapter's own "
+                       "predecessor"),
+    ],
+    why=(
+        "AN 6.75 opens Chapter 8, &lsquo;Perfection,&rsquo; with a list checked word for word "
+        "against AN 6.74's closing discourse: the same six unwholesome thoughts and perceptions "
+        "&mdash; sensual, malicious, and cruel &mdash; block not the first absorption this time, "
+        "but a happy present life and a good rebirth. And where AN 6.74 stated its reversal as "
+        "bare negation, this discourse names the positive replacements outright: renunciation, "
+        "good will, and harmlessness."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sensual, malicious, and cruel thoughts and perceptions bring an unhappy life and a "
+            "bad rebirth; thoughts and perceptions of renunciation, good will, and harmlessness "
+            "bring a happy life and a good rebirth."]),
+        ("The same blocking list, a different target", [
+            "Checked term by term, this discourse's blocking list &mdash; kāma/byāpāda/vihiṁsā "
+            "thought and perception &mdash; is identical to AN 6.74's, which closed the "
+            "previous chapter. There, the stake was the first absorption; here, it is ordinary "
+            "present-life happiness and future rebirth. The same six items are read as "
+            "consequential for two different outcomes across two different chapters."]),
+        ("A reversal that names its replacement, not just its absence", [
+            "AN 6.74 reversed its list by simply repeating &ldquo;after giving up these six "
+            "qualities.&rdquo; This discourse instead names what replaces each unwholesome item: "
+            "renunciation (nekkhamma) replacing sensual thought, good will (abyāpāda) replacing "
+            "malice, and harmlessness (avihiṁsā) replacing cruelty &mdash; the positive triad "
+            "already named as Soṇa's own dedications' foundation earlier in this collection."]),
+        ("Stakes stated twice: this life and the next", [
+            "Both halves of the discourse name two consequences together &mdash; how a "
+            "mendicant lives now (&ldquo;with distress, anguish, and fever&rdquo; or without "
+            "them) and what follows at death. The teaching does not treat present unhappiness "
+            "and future rebirth as separate questions but as two faces of the same six "
+            "qualities."]),
+    ],
+    terms=[
+        ("kāmavitakka, byāpādavitakka, vihiṁsāvitakka",
+         "&ldquo;sensual, malicious, and cruel thought&rdquo; &mdash; identical to AN 6.74's "
+         "blocking list, here applied to present happiness and rebirth rather than the first "
+         "absorption."),
+        ("nekkhammavitakka, abyāpādavitakka, avihiṁsāvitakka",
+         "&ldquo;thoughts of renunciation, good will, and harmlessness&rdquo; &mdash; the "
+         "explicit positive replacements this discourse names, where AN 6.74 gave only "
+         "negation."),
+        ("sadaraṁ sāghātaṁ sapariḷāhaṁ",
+         "&ldquo;with distress, anguish, and fever&rdquo; &mdash; the present-life consequence "
+         "of the unwholesome six, stated alongside the future consequence of rebirth."),
+        ("kāyassa bhedā paraṁ maraṇā",
+         "&ldquo;when the body breaks up, after death&rdquo; &mdash; the standard formula "
+         "introducing the discourse's second, future-facing consequence."),
+        ("duggati, sugati",
+         "&ldquo;bad rebirth, good rebirth&rdquo; &mdash; the two destinations this discourse's "
+         "two lists respectively lead toward."),
+    ],
+    text_intro=(
+        "The discourse in full: six qualities leading to present suffering and bad rebirth, and "
+        "their six replacements leading to happiness and good rebirth. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six qualities leading to suffering"),
+        ("p", "&sect;1", "an6.75:1.1-1.4"),
+        ("h3", "Six qualities leading to happiness"),
+        ("p", "&sect;2", "an6.75:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.75's blocking list compare to AN 6.74's, checked term by term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — the same sensual, malicious, and cruel thoughts and perceptions — but "
+             "applied to a different target",
+             "Only partially overlapping, sharing three of six items",
+             "The two discourses share no relationship at all"],
+         "correct": 1,
+         "expl": "The same six items read as consequential for two different outcomes across "
+                 "two different chapters."},
+        {"q": "What does this discourse's blocking list lead to, unlike AN 6.74's?",
+         "opts": [
+             "The first absorption specifically, as in AN 6.74",
+             "An unhappy present life and a bad rebirth, rather than blocking a specific "
+             "meditative attainment",
+             "Nothing — the list has no stated consequence here",
+             "Rebirth as a deity specifically"],
+         "correct": 1,
+         "expl": "A shift from a specific meditative attainment to ordinary present-life "
+                 "happiness and future rebirth."},
+        {"q": "How does this discourse's reversal differ from AN 6.74's, according to the "
+              "guide?",
+         "opts": [
+             "It is identical, simply restating 'after giving up these six qualities'",
+             "It names explicit positive replacements — renunciation, good will, and "
+             "harmlessness — rather than only negating the unwholesome six",
+             "It provides no reversal at all",
+             "It reverses only three of the six items"],
+         "correct": 1,
+         "expl": "Positive replacements named outright, not mere absence of the unwholesome "
+                 "triad."},
+        {"q": "What two consequences does each half of the discourse name together?",
+         "opts": [
+             "Only a future rebirth, with no present-life consequence",
+             "How a mendicant lives now (with or without distress, anguish, and fever) and what "
+             "follows at death",
+             "Only present-life happiness, with no rebirth consequence",
+             "Consequences for other mendicants only, not oneself"],
+         "correct": 1,
+         "expl": "Present unhappiness/happiness and future rebirth treated as two faces of the "
+                 "same six qualities."},
+        {"q": "What does this chapter's title, Arahattavagga, translate as?",
+         "opts": ["The Chapter on Deities", "The Chapter on Perfection", "The Chapter on Immersion", "The Chapter on Friendship"],
+         "correct": 1,
+         "expl": "This chapter's own title, matching AN 6.76's discourse title exactly."},
+        {"q": "Where else in this collection have renunciation, good will, and harmlessness "
+              "appeared as a positive triad, according to the guide?",
+         "opts": [
+             "Nowhere else in this collection",
+             "As part of the foundation of Soṇa's own dedications, earlier in this series",
+             "Only in the Tens, not the Sixes",
+             "As the five hindrances' direct opposites"],
+         "correct": 1,
+         "expl": "A positive triad this series has met before, not introduced fresh here."},
+        {"q": "Is a setting stated for AN 6.75?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>avihiṁsāvitakka</em> mean?",
+         "opts": ["Cruel thought", "Thought of harmlessness", "Malicious thought", "Sensual thought"],
+         "correct": 1,
+         "expl": "The third of the three positive replacement thoughts named in this "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("Same blocking list as 6.74", [
+            "sensual, malicious,",
+            "cruel — thought and",
+            "perception, checked term by term",
+        ]),
+        ("A different target this time", [
+            "not the first absorption —",
+            "present happiness",
+            "and future rebirth",
+        ]),
+        ("A named, not merely negated, reversal", [
+            "renunciation, good will,",
+            "harmlessness — replacing,",
+            "not just removing",
+        ]),
+        ("Cross-references", [
+            "AN 6.74 &middot; previous, source of this discourse's blocking list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.75/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.74.html">AN 6.74 &middot; First Absorption (2nd)</a> &mdash; previous, '
+        "source of this discourse's blocking list, applied there to a different target.",
+        '<a href="an-6.76.html">AN 6.76 &middot; Perfection</a> &mdash; next, sharing its '
+        "title with AN 6.66 but not its content.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.76 — Arahattasutta
+# --------------------------------------------------------------------------- #
+page(
+    76, "Arahatta", "Perfection",
+    vagga=VAGGA_8,
+    meta_title="AN 6.76 — Perfection | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for this chapter's own "
+        "Arahattasutta, naming six kinds of conceit and its opposites, sharing its title with "
+        "AN 6.66 but nothing of its content. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The theme of conceit (māna) in its several forms recurs widely "
+                              "across the Chinese Āgamas and Abhidharma literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "sharing its exact title with an earlier, unrelated discourse"),
+    ],
+    why=(
+        "This is the second discourse in this series titled &lsquo;Perfection&rsquo; "
+        "(Arahattasutta) &mdash; AN 6.66, in the earlier Devatāvagga, was the first. Checked "
+        "term by term, the two share nothing beyond a title and the fact that this chapter, "
+        "Arahattavagga, is itself named for the same word: this discourse's blocking list is "
+        "six varieties of conceit, not AN 6.66's meditative hindrances plus lack of faith."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up conceit, an inferiority complex, a superiority complex, "
+            "overestimation, obstinacy, and groveling, perfection cannot be realized; giving up "
+            "all six makes it realizable."]),
+        ("A second, unrelated 'Perfection'", [
+            "AN 6.66's six blocking items were dullness, drowsiness, restlessness, remorse, "
+            "lack of faith, and negligence — meditative hindrances plus one ethical deficit. "
+            "This discourse's six are entirely different: varieties of conceit and its inverse "
+            "distortions. Sharing a title twice within one collection, as already seen with "
+            "this chapter's own name matching AN 6.76's title, is not evidence of shared "
+            "content."]),
+        ("Six faces of one underlying distortion", [
+            "Rather than six unrelated items, the list reads as six ways self-assessment can go "
+            "wrong: conceit (māna, thinking oneself better), an inferiority complex (omāna, "
+            "thinking oneself worse), a superiority complex (atimāna, an inflated version of "
+            "conceit), overestimation (adhimāna, mistaking attainment not yet reached for "
+            "attainment achieved), obstinacy (thambha), and groveling (sārambha, or self-abasing "
+            "excess). Each names a different way the measuring of oneself against others, or "
+            "against one's own attainment, can distort."]),
+        ("Why conceit specifically obstructs perfection", [
+            "Arahantship is elsewhere in this literature described as the uprooting of the very "
+            "conceit &lsquo;I am&rsquo; (asmimāna) at its subtlest level; this discourse's list "
+            "of six conceit-variants can be read as naming the coarser and more easily "
+            "recognized forms that same underlying tendency takes before it is fully "
+            "uprooted."]),
+    ],
+    terms=[
+        ("māna",
+         "&ldquo;conceit&rdquo; &mdash; thinking oneself better than another, the first and "
+         "namesake item of this discourse's six varieties."),
+        ("omāna, atimāna",
+         "&ldquo;an inferiority complex, a superiority complex&rdquo; &mdash; thinking oneself "
+         "worse, and an inflated form of conceit, the second and third items."),
+        ("adhimāna",
+         "&ldquo;overestimation&rdquo; &mdash; mistaking an attainment not yet reached for one "
+         "already achieved, the fourth item."),
+        ("thambha, sārambha",
+         "&ldquo;obstinacy, groveling&rdquo; &mdash; the fifth and sixth items, closing the "
+         "list."),
+        ("asmimāna",
+         "&ldquo;the conceit &lsquo;I am&rsquo;&rdquo; &mdash; the subtlest form of conceit, "
+         "described elsewhere as fully uprooted only at arahantship itself."),
+    ],
+    text_intro=(
+        "The discourse in full: six varieties of conceit that block perfection, and their six "
+        "reversals. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block perfection"),
+        ("p", "&sect;1", "an6.76:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.76:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this series shares this discourse's exact title, "
+              "'Perfection' (Arahattasutta)?",
+         "opts": ["AN 6.31", "AN 6.66, in the earlier Devatāvagga", "AN 6.55", "There is no earlier discourse with this title"],
+         "correct": 1,
+         "expl": "A second, unrelated discourse of the same name within this collection."},
+        {"q": "How much content is shared between AN 6.66 and AN 6.76, checked term by term?",
+         "opts": [
+             "All six blocking items are identical",
+             "Nothing beyond the shared title — AN 6.66 named meditative hindrances plus lack "
+             "of faith, while this discourse names six varieties of conceit",
+             "Half of the six items overlap",
+             "Only the reversal half is shared"],
+         "correct": 1,
+         "expl": "A title shared twice is not evidence of shared content."},
+        {"q": "What six things does this discourse actually name as blocking perfection?",
+         "opts": [
+             "Dullness, drowsiness, restlessness, remorse, lack of faith, negligence",
+             "Conceit, an inferiority complex, a superiority complex, overestimation, "
+             "obstinacy, and groveling",
+             "The five hindrances plus doubt",
+             "Lack of faith, conscience, prudence, laziness, unmindfulness, witlessness"],
+         "correct": 1,
+         "expl": "Six varieties of conceit and its distortions, unrelated to AN 6.66's list."},
+        {"q": "According to the guide, what unifies these six items?",
+         "opts": [
+             "They are six unrelated ethical faults with no common thread",
+             "They read as six ways self-assessment against oneself or others can go wrong, "
+             "from conceit to overestimation to obstinacy",
+             "They are six stages of a single meditation technique",
+             "They apply only to lay followers"],
+         "correct": 1,
+         "expl": "Six faces of one underlying distortion in how one measures oneself."},
+        {"q": "What does <em>adhimāna</em> mean?",
+         "opts": [
+             "Thinking oneself worse than others",
+             "Mistaking an attainment not yet reached for one already achieved",
+             "Complete freedom from all conceit",
+             "An inflated form of ordinary conceit"],
+         "correct": 1,
+         "expl": "The fourth item, a specific and easily overlooked form of overestimation."},
+        {"q": "How does the guide connect this discourse's list to arahantship itself?",
+         "opts": [
+             "It sees no connection at all",
+             "Arahantship is described elsewhere as uprooting the conceit 'I am' (asmimāna) at "
+             "its subtlest level, and this list can be read as naming its coarser, earlier "
+             "forms",
+             "The list describes something unrelated to conceit entirely",
+             "Only lay followers experience any of these six items"],
+         "correct": 1,
+         "expl": "Coarser, more easily recognized forms of the same tendency finally uprooted "
+                 "at full awakening."},
+        {"q": "Is a setting stated for AN 6.76?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.75 immediately before it."},
+        {"q": "What does <em>thambha</em> mean?",
+         "opts": ["Groveling", "Obstinacy", "Overestimation", "An inferiority complex"],
+         "correct": 1,
+         "expl": "The fifth item on this discourse's six-item list."},
+    ],
+    marginalia=[
+        ("Six varieties of conceit", [
+            "conceit &middot; inferiority",
+            "&middot; superiority complex",
+            "overestimation &middot; obstinacy &middot; groveling",
+        ]),
+        ("A shared title, no shared content", [
+            "AN 6.66 and AN 6.76",
+            "both 'Perfection' —",
+            "entirely different lists",
+        ]),
+        ("Coarser forms of asmimāna", [
+            "the conceit 'I am',",
+            "fully uprooted only",
+            "at arahantship itself",
+        ]),
+        ("Cross-references", [
+            "AN 6.66 &middot; the earlier, unrelated discourse of the same title",
+            "AN 6.75 &middot; previous, opening this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.76/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.66.html">AN 6.66 &middot; Perfection</a> &mdash; the earlier, unrelated '
+        "discourse of the same title.",
+        '<a href="an-6.77.html">AN 6.77 &middot; Superhuman States</a> &mdash; next, a '
+        "different six-item list on the same chapter's theme.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.77 — Uttarimanussadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    77, "Uttarimanussadhamma", "Superhuman States",
+    vagga=VAGGA_8,
+    meta_title="AN 6.77 — Superhuman States | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Uttarimanussadhammasutta, naming six conduct-level obstacles to a superhuman "
+        "distinction in knowledge and vision. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of unguarded senses and excess in eating with "
+                              "failure to progress recurs widely across the Chinese Āgamas' "
+                              "monastic-conduct material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "returning to concrete conduct after two discourses on inward states"),
+    ],
+    why=(
+        "After AN 6.75's thoughts and AN 6.76's conceit, this discourse returns to the register "
+        "of concrete daily conduct: lack of mindfulness and situational awareness, not "
+        "guarding the sense doors, eating too much, fawning, and flattery block a "
+        "&ldquo;superhuman distinction in knowledge and vision worthy of the noble ones&rdquo; "
+        "&mdash; the discourse's own term for realizations beyond the ordinary human range."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up lack of mindfulness and situational awareness, unguarded senses, "
+            "eating too much, fawning, and flattery, a superhuman distinction in knowledge and "
+            "vision cannot be realized; giving up all these makes it realizable."]),
+        ("Familiar items from elsewhere in this series", [
+            "Not guarding the sense doors and eating without moderation already appeared "
+            "together at AN 6.31's list of a trainee's causes of decline, in the earlier First "
+            "Fifty. Their reappearance here, applied to a different and more elevated target, "
+            "shows the same conduct-level failures treated as consequential across more than "
+            "one register of attainment."]),
+        ("Two items naming insincerity specifically", [
+            "Fawning (lapanā) and flattery (unnaḷā, sometimes rendered differently across "
+            "translations) close the list with something distinct from the other four: not a "
+            "failure of restraint but a failure of honesty in how one presents oneself to "
+            "others, suggesting the superhuman distinction this discourse concerns is blocked "
+            "as much by self-presentation as by sense-discipline."]),
+        ("'Superhuman' as this discourse's own term, not an overclaim", [
+            "Uttarimanussadhamma, &ldquo;superhuman state,&rdquo; is the discourse's own "
+            "technical term for meditative and realizational attainments beyond the ordinary "
+            "human range — the same term whose false claim is treated with particular gravity "
+            "elsewhere in the monastic code, underscoring how seriously this list's stakes are "
+            "meant to be taken."]),
+    ],
+    terms=[
+        ("uttarimanussadhamma",
+         "&ldquo;superhuman state&rdquo; &mdash; the discourse's own term for attainments "
+         "beyond the ordinary human range, whose false claim carries particular gravity "
+         "elsewhere in the monastic code."),
+        ("satisampajañña",
+         "&ldquo;mindfulness and situational awareness&rdquo; &mdash; the first item, whose "
+         "lack opens this discourse's list."),
+        ("indriyesu aguttadvāratā, bhojane amattaññutā",
+         "&ldquo;not guarding the sense doors, eating without moderation&rdquo; &mdash; two "
+         "items already met at AN 6.31 in the earlier First Fifty, applied here to a different "
+         "target."),
+        ("lapanā",
+         "&ldquo;fawning&rdquo; &mdash; one of two closing items naming a failure of honest "
+         "self-presentation rather than restraint."),
+        ("ariyānaṁ ñāṇadassanavisesa",
+         "&ldquo;a distinction in knowledge and vision worthy of the noble ones&rdquo; &mdash; "
+         "the full formula this discourse's six items are said to block."),
+    ],
+    text_intro=(
+        "The discourse in full: six conduct-level obstacles to a superhuman distinction in "
+        "knowledge and vision, and their reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block superhuman distinction"),
+        ("p", "&sect;1", "an6.77:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.77:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'uttarimanussadhamma' mean, and what is notable about the term?",
+         "opts": [
+             "'Ordinary human state' — a term of no particular gravity",
+             "'Superhuman state' — the discourse's own term for attainments beyond the "
+             "ordinary human range, whose false claim carries particular gravity elsewhere in "
+             "the monastic code",
+             "A term applying only to deities, never to mendicants",
+             "A term meaning simply 'good conduct'"],
+         "correct": 1,
+         "expl": "This discourse's own technical term, not an informal description."},
+        {"q": "Which two items on this discourse's list already appeared together at AN 6.31?",
+         "opts": [
+             "Lack of mindfulness and fawning",
+             "Not guarding the sense doors, and eating without moderation",
+             "Flattery and situational awareness",
+             "None of the six items appeared earlier in this series"],
+         "correct": 1,
+         "expl": "Met earlier at AN 6.31's list of a trainee's causes of decline, in the First "
+                 "Fifty, now applied to a different and more elevated target."},
+        {"q": "What do the two closing items, fawning and flattery, name that the other four "
+              "do not, according to the guide?",
+         "opts": [
+             "Nothing distinct — all six are the same kind of failure",
+             "A failure of honest self-presentation to others, rather than a failure of "
+             "restraint",
+             "A failure specific to lay followers only",
+             "A form of physical illness"],
+         "correct": 1,
+         "expl": "Insincerity in self-presentation, distinct from sense-discipline or "
+                 "moderation."},
+        {"q": "What attainment does this discourse's six-item list block?",
+         "opts": [
+             "The first absorption specifically",
+             "A superhuman distinction in knowledge and vision worthy of the noble ones",
+             "Ordinary ethical conduct",
+             "Rebirth as a human being"],
+         "correct": 1,
+         "expl": "The discourse's own stated stakes, named explicitly in both halves."},
+        {"q": "Is a setting stated for AN 6.77?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other formulaic discourses."},
+        {"q": "What does <em>satisampajañña</em> mean?",
+         "opts": ["Fawning and flattery", "Mindfulness and situational awareness", "Eating in moderation", "Guarding the sense doors"],
+         "correct": 1,
+         "expl": "The first item, whose lack opens this discourse's list."},
+        {"q": "How does the guide characterize this discourse's register compared to AN 6.75 "
+              "and 6.76?",
+         "opts": [
+             "Identical in register — all three concern inward mental states only",
+             "A return to concrete daily conduct, after AN 6.75's thoughts and AN 6.76's "
+             "conceit",
+             "This discourse concerns only doctrinal categories, unlike the two before it",
+             "There is no meaningful difference in register between the three"],
+         "correct": 1,
+         "expl": "Sense-discipline, eating, and honest self-presentation — concrete conduct, "
+                 "not inward states."},
+        {"q": "What is the discourse's overall structure?",
+         "opts": [
+             "A narrated story",
+             "Two matched six-item lists, blockage and reversal, with no further elaboration",
+             "A dialogue with a deity",
+             "A set of verses only"],
+         "correct": 1,
+         "expl": "The same compressed shape as this chapter's other formulaic discourses."},
+    ],
+    marginalia=[
+        ("Six conduct-level obstacles", [
+            "no mindfulness &middot; unguarded",
+            "senses &middot; overeating",
+            "&middot; fawning &middot; flattery",
+        ]),
+        ("Two items recur from AN 6.31", [
+            "unguarded senses,",
+            "immoderate eating —",
+            "same conduct, higher stakes",
+        ]),
+        ("A term of particular gravity", [
+            "uttarimanussadhamma —",
+            "false claim treated gravely",
+            "elsewhere in the code",
+        ]),
+        ("Cross-references", [
+            "AN 6.31 &middot; earlier, source of two shared items, First Fifty",
+            "AN 6.76 &middot; previous, six varieties of conceit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.77/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.76.html">AN 6.76 &middot; Perfection</a> &mdash; previous, six '
+        "varieties of conceit.",
+        '<a href="an-6.78.html">AN 6.78 &middot; Joy and Happiness</a> &mdash; next, a single '
+        "six-item list with no separate reversal half.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.78 — Sukhasomanassasutta
+# --------------------------------------------------------------------------- #
+page(
+    78, "Sukhasomanassa", "Joy and Happiness",
+    vagga=VAGGA_8,
+    meta_title="AN 6.78 — Joy and Happiness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sukhasomanassasutta, naming six things a mendicant delights in that bring joy and lay "
+        "the groundwork for ending the defilements. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list stated only positively, with no paired negative half "
+                 "— the first such discourse in this chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of joy in the teaching with laying the groundwork "
+                              "for liberation recurs widely across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and entirely "
+                       "positive, the first one-sided list in this chapter"),
+    ],
+    why=(
+        "Every discourse in this chapter so far has paired a blocking list with its reversal. "
+        "AN 6.78 breaks that pattern: it states only what a mendicant who enjoys six things "
+        "&mdash; the teaching, meditation, giving up, seclusion, kindness, and "
+        "non-proliferation &mdash; experiences, with no corresponding list of what blocks joy "
+        "stated separately."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who enjoys the teaching, meditation, giving up, seclusion, kindness, "
+            "and non-proliferation is full of joy and happiness in this very life, having laid "
+            "the groundwork for ending the defilements."]),
+        ("The chapter's first one-sided list", [
+            "Every discourse from AN 6.75 through 6.77 named a blocking six paired with an "
+            "enabling six. This discourse states only the positive side, with no explicit "
+            "negative list given for contrast — the implicit opposite (not enjoying these six "
+            "things) is left for the reader to infer rather than spelled out."]),
+        ("Six objects of delight, not six practices", [
+            "The list names what a mendicant enjoys (abhirati) rather than six practices to be "
+            "performed: the teaching (dhamma), meditation (bhāvanā), giving up (pahāna), "
+            "seclusion (paviveka), kindness (abyāpajjha, sometimes rendered "
+            "&ldquo;non-affliction&rdquo;), and non-proliferation (nippapañca) &mdash; the "
+            "last of these the same term whose relishing was the decisive item at AN 6.14 and "
+            "6.15, here inverted from a trap to a source of joy."]),
+        ("Present joy as groundwork, not proof, of liberation", [
+            "The discourse is careful to state its outcome in two parts: joy and happiness "
+            "&ldquo;in this very life,&rdquo; and separately, having &ldquo;laid the groundwork "
+            "for ending the defilements&rdquo; &mdash; a foundation, not the ending itself. The "
+            "six delights bring a felt happiness now and a condition favorable to further "
+            "progress, without the discourse claiming that progress has already been "
+            "completed."]),
+    ],
+    terms=[
+        ("abhirati",
+         "&ldquo;enjoyment, delight&rdquo; &mdash; the discourse's own framing for its six-item "
+         "list, delight rather than duty."),
+        ("nippapañca",
+         "&ldquo;non-proliferation&rdquo; &mdash; the sixth and closing item, the same term "
+         "whose relishing (the opposite orientation) was the decisive trap named at AN 6.14 "
+         "and 6.15 earlier in this series."),
+        ("pahāna, paviveka",
+         "&ldquo;giving up, seclusion&rdquo; &mdash; the third and fourth items, echoing "
+         "seclusion's role as a precondition already met in AN 6.68's chain earlier in this "
+         "collection."),
+        ("abyāpajjha",
+         "&ldquo;kindness,&rdquo; non-affliction &mdash; the fifth item, echoing the same term "
+         "among Soṇa's own six dedications at AN 6.55."),
+        ("āsavakkhayāya ca padhāniyaṅgaṁ",
+         "&ldquo;laid the groundwork for ending the defilements&rdquo; &mdash; the discourse's "
+         "second, distinct outcome, a foundation rather than a claim of completed liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: six things a mendicant delights in, bringing joy and laying "
+        "the groundwork for ending the defilements. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things a mendicant delights in"),
+        ("p", "&sect;1", "an6.78:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.78's structure break the pattern set by AN 6.75 through 6.77?",
+         "opts": [
+             "It follows the identical blockage/reversal pattern",
+             "It states only a positive, one-sided list, with no explicit paired negative list "
+             "of what blocks joy",
+             "It contains no list at all",
+             "It reverses the usual order, stating the reversal first"],
+         "correct": 1,
+         "expl": "The chapter's first discourse without a stated negative half."},
+        {"q": "What six things does a mendicant enjoy, according to this discourse?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom, and liberation",
+             "The teaching, meditation, giving up, seclusion, kindness, and non-proliferation",
+             "Food, sleep, company, talk, work, and possessions",
+             "The five hindrances and their absence"],
+         "correct": 1,
+         "expl": "Six objects of delight, not six practices to perform."},
+        {"q": "Where else in this series has 'non-proliferation' (papañca/nippapañca) appeared, "
+              "and how does its role differ here?",
+         "opts": [
+             "Nowhere else in this series",
+             "At AN 6.14 and 6.15, where relishing proliferation was the decisive trap; here "
+             "the same term appears inverted, as a source of joy rather than a danger",
+             "Only as a synonym for the five hindrances",
+             "As a term unrelated to proliferation"],
+         "correct": 1,
+         "expl": "The same term's opposite orientation, from trap to delight."},
+        {"q": "What two distinct outcomes does the discourse name?",
+         "opts": [
+             "Only future rebirth, with no present-life consequence",
+             "Joy and happiness in this very life, and separately, having laid the groundwork "
+             "for ending the defilements",
+             "Only the complete ending of defilements",
+             "Wealth and social status"],
+         "correct": 1,
+         "expl": "A felt present happiness and a foundation for further progress, not a claim "
+                 "of completed liberation."},
+        {"q": "Is a setting stated for AN 6.78?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>abyāpajjha</em> mean, and where else has it appeared in this "
+              "series?",
+         "opts": [
+             "'Cruelty' — appearing nowhere else",
+             "'Kindness,' non-affliction — echoing one of Soṇa's own six dedications at AN 6.55",
+             "'Wisdom' — appearing at AN 6.31",
+             "A term unique to this discourse"],
+         "correct": 1,
+         "expl": "A term this series has already met, applied here as one of six objects of "
+                 "delight."},
+        {"q": "What is 'the groundwork for ending the defilements,' according to the guide?",
+         "opts": [
+             "A claim that the defilements have already been fully ended",
+             "A foundation favorable to further progress, distinct from the ending itself",
+             "An unrelated, separate attainment",
+             "A synonym for the first absorption"],
+         "correct": 1,
+         "expl": "Careful phrasing distinguishing groundwork laid from completion claimed."},
+    ],
+    marginalia=[
+        ("Six objects of delight", [
+            "the teaching &middot; meditation",
+            "giving up &middot; seclusion",
+            "kindness &middot; non-proliferation",
+        ]),
+        ("The chapter's first one-sided list", [
+            "no paired negative —",
+            "only what a mendicant",
+            "enjoys, stated once",
+        ]),
+        ("Nippapañca, inverted", [
+            "at AN 6.14/6.15, a trap —",
+            "here, delighted in",
+            "as a source of joy",
+        ]),
+        ("Cross-references", [
+            "AN 6.14/6.15 &middot; earlier, where the same term named a danger, not a delight",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.78/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.77.html">AN 6.77 &middot; Superhuman States</a> &mdash; previous, a '
+        "paired blockage/reversal list, unlike this discourse's single positive one.",
+        '<a href="an-6.79.html">AN 6.79 &middot; Achievement</a> &mdash; next, a return to '
+        "the paired blockage/reversal pattern.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.79 — Adhigamasutta
+# --------------------------------------------------------------------------- #
+page(
+    79, "Adhigama", "Achievement",
+    vagga=VAGGA_8,
+    meta_title="AN 6.79 — Achievement | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Adhigamasutta, "
+        "naming three skills plus three practical habits that determine whether skillful "
+        "qualities can be acquired or increased. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, returning to this "
+                 "chapter's paired pattern after AN 6.78's single positive list"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The theme of skill in progress and regress as conditions for "
+                              "further development recurs widely across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; abstract in its first half, "
+                       "naming categories of skill rather than concrete practices"),
+    ],
+    why=(
+        "AN 6.79 returns to this chapter's paired blockage/reversal pattern after AN 6.78's "
+        "single list, and shares a structural family resemblance with AN 6.71 earlier in this "
+        "collection: a mendicant's ability to &ldquo;acquire more skillful qualities or "
+        "increase the skillful qualities they've already acquired&rdquo; depends on three "
+        "kinds of skill &mdash; in progress, regress, and means &mdash; joined to three "
+        "further habits of enthusiasm, protection, and persistence."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without skill in progress, regress, and means, and without generating enthusiasm, "
+            "protecting what's achieved, and persisting in the task, a mendicant cannot acquire "
+            "or increase skillful qualities; possessing all six makes that acquisition and "
+            "increase possible."]),
+        ("Three skills of discernment, three habits of practice", [
+            "The list splits cleanly into two halves of three: knowing what constitutes "
+            "progress (āyakusala), regress (apāyakusala), and the means to develop further "
+            "(upāyakusala) is a matter of discernment, while generating enthusiasm, protecting "
+            "what has been achieved, and persisting in the task is a matter of sustained "
+            "effort. Neither half alone is stated as sufficient."]),
+        ("A structural cousin of AN 6.71", [
+            "This discourse's shape closely resembles AN 6.71's fourfold-discernment-plus-"
+            "careful-practice structure earlier in this chapter's predecessor, though the "
+            "specific categories named differ: AN 6.71 spoke of what worsens, steadies, "
+            "distinguishes, and penetrates a given quality, while this discourse speaks of "
+            "progress, regress, and means toward acquiring skillful qualities generally."]),
+        ("Protecting, not only acquiring", [
+            "The discourse's third practical habit &mdash; protecting skillful qualities "
+            "already achieved (anurakkhaṇā) &mdash; treats what has already been gained as "
+            "something that can still be lost without ongoing care, not as a permanent "
+            "possession once attained."]),
+    ],
+    terms=[
+        ("āyakusala, apāyakusala, upāyakusala",
+         "&ldquo;skilled in progress, skilled in regress, skilled in means&rdquo; &mdash; the "
+         "first three, discernment-based items."),
+        ("chandaṁ janeti",
+         "&ldquo;generates enthusiasm&rdquo; &mdash; the fourth item, aimed at skillful "
+         "qualities not yet achieved."),
+        ("anurakkhaṇā",
+         "&ldquo;protection&rdquo; &mdash; the fifth item, guarding skillful qualities already "
+         "achieved rather than assuming them secure."),
+        ("sātaccakiriyā",
+         "&ldquo;persisting in the task&rdquo; &mdash; the sixth and closing item."),
+        ("kusala dhamma",
+         "&ldquo;skillful qualities&rdquo; &mdash; the discourse's own general term for what is "
+         "to be acquired and increased, left unspecified as to particular content."),
+    ],
+    text_intro=(
+        "The discourse in full: three skills of discernment and three habits of practice that "
+        "determine whether skillful qualities can be acquired or increased. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that prevent acquiring skillful qualities"),
+        ("p", "&sect;1", "an6.79:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.79:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's list divide into two halves, according to the guide?",
+         "opts": [
+             "Six identical items, not divisible into halves",
+             "Three items of discernment (progress, regress, means) and three items of "
+             "sustained practice (enthusiasm, protection, persistence)",
+             "Three ethical items and three doctrinal items",
+             "The list has no internal division"],
+         "correct": 1,
+         "expl": "Discernment alone, or effort alone, is not stated as sufficient — both "
+                 "halves are required."},
+        {"q": "What does this discourse's list determine, according to its opening line?",
+         "opts": [
+             "Whether a mendicant can enter the first absorption",
+             "Whether a mendicant can acquire more skillful qualities, or increase the "
+             "skillful qualities already acquired",
+             "Whether a mendicant is reborn well",
+             "Whether a mendicant can teach others"],
+         "correct": 1,
+         "expl": "The discourse's own stated stakes, general rather than tied to one specific "
+                 "attainment."},
+        {"q": "What earlier discourse does this one structurally resemble, according to the "
+              "guide?",
+         "opts": [
+             "AN 6.55, With Soṇa",
+             "AN 6.71, Capable of Realizing — though the specific categories named differ "
+             "between the two",
+             "AN 6.69, A God",
+             "AN 6.31, A Trainee"],
+         "correct": 1,
+         "expl": "A shared discernment-plus-practice structure, applied to different specific "
+                 "categories."},
+        {"q": "What does 'protecting' skillful qualities already achieved imply, according to "
+              "the guide?",
+         "opts": [
+             "That once achieved, skillful qualities can never be lost",
+             "That what has already been gained can still be lost without ongoing care, not a "
+             "permanent possession once attained",
+             "That protection is unnecessary once enthusiasm is present",
+             "That only newly acquired qualities need protecting"],
+         "correct": 1,
+         "expl": "Ongoing care treated as necessary, not a one-time achievement."},
+        {"q": "Is a setting stated for AN 6.79?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other formulaic discourses."},
+        {"q": "What does <em>upāyakusala</em> mean?",
+         "opts": ["Skilled in regress", "Skilled in means", "Skilled in progress", "Skilled in teaching"],
+         "correct": 1,
+         "expl": "The third of the three discernment-based items."},
+        {"q": "How does this discourse's structure compare to AN 6.78, immediately before it?",
+         "opts": [
+             "Identical — both are one-sided positive lists",
+             "A return to the paired blockage/reversal pattern, after AN 6.78's single "
+             "positive list broke from it",
+             "This discourse also has no reversal half",
+             "There is no relationship between the two"],
+         "correct": 1,
+         "expl": "The chapter's default paired pattern resumes here."},
+    ],
+    marginalia=[
+        ("Three skills, three habits", [
+            "progress &middot; regress",
+            "&middot; means — plus enthusiasm,",
+            "protection, persistence",
+        ]),
+        ("A structural cousin", [
+            "of AN 6.71's",
+            "discernment-plus-practice",
+            "shape, different categories",
+        ]),
+        ("Gains still need guarding", [
+            "protection named",
+            "as its own item —",
+            "nothing is permanent by default",
+        ]),
+        ("Cross-references", [
+            "AN 6.71 &middot; earlier, the structurally similar discourse",
+            "AN 6.78 &middot; previous, the chapter's one exception to this pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.79/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.78.html">AN 6.78 &middot; Joy and Happiness</a> &mdash; previous, the '
+        "chapter's one one-sided list.",
+        '<a href="an-6.80.html">AN 6.80 &middot; Greatness</a> &mdash; next, another '
+        "single-list discourse, positive throughout.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.80 — Mahantattasutta
+# --------------------------------------------------------------------------- #
+page(
+    80, "Mahantatta", "Greatness",
+    vagga=VAGGA_8,
+    meta_title="AN 6.80 — Greatness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahantattasutta, "
+        "naming six qualities of energetic engagement that soon bring great and abundant good "
+        "qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list stated only positively, like AN 6.78, with no paired "
+                 "negative half"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The imagery of being 'full of light' as a description of "
+                              "energetic practice recurs widely across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and entirely "
+                       "positive, this chapter's second one-sided list"),
+    ],
+    why=(
+        "AN 6.80 is this chapter's second one-sided list, after AN 6.78: a mendicant who is "
+        "&ldquo;full of light, full of practice, full of inspiration, and full of eagerness,&rdquo; "
+        "who does not slack off in developing skillful qualities, and who &ldquo;reaches "
+        "further,&rdquo; soon acquires great and abundant good qualities &mdash; stated once, "
+        "with no separate negative list given."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant full of light, practice, inspiration, and eagerness, who does not "
+            "slack off in developing skillful qualities and reaches further, soon acquires "
+            "great and abundant good qualities."]),
+        ("Four qualities of fullness, then two of momentum", [
+            "The list's first four items &mdash; full of light (obhāsabahula), practice, "
+            "inspiration, and eagerness &mdash; describe an inward state of energetic "
+            "readiness, while the closing two &mdash; not slacking off, and reaching further "
+            "&mdash; describe sustained forward motion. The list moves from inner condition to "
+            "outward momentum across its six items."]),
+        ("'Full of light' as figurative energy, not literal vision", [
+            "Obhāsabahula, &ldquo;full of light,&rdquo; is read in this tradition as figurative "
+            "&mdash; a mind bright with energetic clarity &mdash; rather than a claim of "
+            "literally perceiving light, distinguishing it from the specific visual phenomena "
+            "described in some meditation manuals as arising during concentrated practice."]),
+        ("The chapter's second exception, not a coincidence", [
+            "That both of this chapter's one-sided discourses, AN 6.78 and AN 6.80, describe "
+            "positive inward states &mdash; joy and delight in one case, energetic brightness "
+            "in the other &mdash; rather than conduct to be corrected, suggests the paired "
+            "blockage/reversal form is reserved in this chapter for items that can plausibly go "
+            "wrong, while purely energetic or joyful qualities are simply described without a "
+            "stated opposite."]),
+    ],
+    terms=[
+        ("mahantatta",
+         "&ldquo;greatness&rdquo; &mdash; the discourse's own title, the outcome its six "
+         "qualities are said to soon produce."),
+        ("obhāsabahula",
+         "&ldquo;full of light&rdquo; &mdash; the first item, read figuratively as energetic "
+         "mental clarity rather than a literal visual phenomenon."),
+        ("ussoḷhībahula",
+         "&ldquo;full of practice,&rdquo; full of exertion &mdash; the second item, naming "
+         "sustained effort directly."),
+        ("uttari appaṭivāṇī",
+         "&ldquo;they reach further&rdquo; &mdash; the sixth and closing item, naming outward "
+         "momentum rather than an inward state."),
+        ("kusala dhamma",
+         "&ldquo;skillful qualities&rdquo; &mdash; the same general term used at AN 6.79, here "
+         "described as developed without slacking off rather than merely acquired."),
+    ],
+    text_intro=(
+        "The discourse in full: six qualities of energetic engagement that soon bring great "
+        "and abundant good qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six qualities that bring greatness"),
+        ("p", "&sect;1", "an6.80:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does AN 6.80's structure compare to AN 6.78's, and to the rest of this "
+              "chapter?",
+         "opts": [
+             "It follows the usual paired blockage/reversal pattern",
+             "Like AN 6.78, it is a one-sided positive list with no paired negative half — "
+             "this chapter's second such exception",
+             "It has no list at all",
+             "It is identical in content to AN 6.78"],
+         "correct": 1,
+         "expl": "The chapter's second one-sided discourse, after AN 6.78."},
+        {"q": "What does <em>obhāsabahula</em> mean, and how is it read according to the "
+              "guide?",
+         "opts": [
+             "'Full of darkness' — a description of ignorance to be overcome",
+             "'Full of light' — read figuratively as energetic mental clarity, not a literal "
+             "visual phenomenon",
+             "A term with no clear meaning",
+             "'Full of doubt'"],
+         "correct": 1,
+         "expl": "Figurative brightness of mind, distinguished from literal visual experiences "
+                 "described elsewhere in meditation manuals."},
+        {"q": "How does the guide describe the list's internal movement across its six items?",
+         "opts": [
+             "No discernible movement — six unrelated items",
+             "From an inward state of energetic readiness (the first four items) to sustained "
+             "outward momentum (the closing two)",
+             "From outward momentum to inward stillness",
+             "The items are presented in random order with no pattern"],
+         "correct": 1,
+         "expl": "Inner condition, then forward motion — a directional structure across the "
+                 "list."},
+        {"q": "What does the guide suggest connects AN 6.78 and AN 6.80 as this chapter's two "
+              "one-sided discourses?",
+         "opts": [
+             "Nothing — the two are unrelated coincidences",
+             "Both describe positive inward states rather than conduct to be corrected, "
+             "suggesting the paired form is reserved for items that can plausibly go wrong",
+             "Both concern only deities",
+             "Both are the chapter's longest discourses"],
+         "correct": 1,
+         "expl": "A plausible pattern: purely joyful or energetic qualities described without a "
+                 "stated opposite."},
+        {"q": "Is a setting stated for AN 6.80?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does the discourse's sixth and final item, 'they reach further,' describe?",
+         "opts": [
+             "An inward state of energetic readiness",
+             "Outward momentum, sustained forward progress rather than an inner condition",
+             "A specific meditative attainment",
+             "A form of physical travel"],
+         "correct": 1,
+         "expl": "The closing item shifts from inward fullness to outward, sustained motion."},
+        {"q": "What outcome does this discourse's six-item list produce?",
+         "opts": [
+             "Only the first absorption",
+             "Great and abundant good qualities, acquired soon",
+             "Rebirth as a deity specifically",
+             "Freedom from all future teaching duties"],
+         "correct": 1,
+         "expl": "The discourse's own stated and immediate outcome."},
+    ],
+    marginalia=[
+        ("Four qualities, then momentum", [
+            "full of light, practice,",
+            "inspiration, eagerness —",
+            "then: no slacking, reaching further",
+        ]),
+        ("Light as figurative clarity", [
+            "not a literal vision —",
+            "a mind bright with",
+            "energetic readiness",
+        ]),
+        ("This chapter's second exception", [
+            "AN 6.78 and 6.80:",
+            "both positive states,",
+            "neither paired with a reversal",
+        ]),
+        ("Cross-references", [
+            "AN 6.78 &middot; earlier, this chapter's other one-sided list",
+            "AN 6.79 &middot; previous, a return to the paired pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.80/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.79.html">AN 6.79 &middot; Achievement</a> &mdash; previous, a paired '
+        "blockage/reversal discourse.",
+        '<a href="an-6.81.html">AN 6.81 &middot; Hell (1st)</a> &mdash; next, the first of a '
+        "titled pair on hell and heaven.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.81 — Paṭhamanirayasutta
+# --------------------------------------------------------------------------- #
+page(
+    81, "Paṭhamaniraya", "Hell (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 6.81 — Hell (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamanirayasutta, "
+        "naming four acts plus corrupt wishes and wrong view as what delivers someone to hell "
+        "or heaven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, opening a titled "
+                 "pair with AN 6.82"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The four acts of killing, stealing, sexual misconduct, and "
+                              "lying as a fixed ethical core recur throughout the Chinese "
+                              "Āgamas' precept material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and direct, naming "
+                       "familiar precept-breaking acts rather than abstract categories"),
+    ],
+    why=(
+        "AN 6.81 shifts register again: rather than meditative attainment or the acquisition "
+        "of skillful qualities, its stakes are stated as bluntly as this collection ever states "
+        "them &mdash; placed in hell, or in heaven, &ldquo;as if delivered there.&rdquo; Four "
+        "familiar acts (killing, stealing, sexual misconduct, lying) are joined by two further "
+        "items, corrupt wishes and wrong view, closing the list on an internal disposition "
+        "rather than a further outward act."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Killing, stealing, sexual misconduct, and lying, joined by corrupt wishes and "
+            "wrong view, places someone in hell; abstaining from the four acts, joined by few "
+            "desires and right view, places someone in heaven."]),
+        ("Four acts, but not the standard five precepts", [
+            "The list's first four items match four of the five lay precepts, but the fifth "
+            "precept &mdash; abstaining from intoxicants &mdash; is absent, replaced instead by "
+            "two items of internal disposition: corrupt wishes (pāpicchā) and wrong view "
+            "(micchādiṭṭhi). The list's structure is four outward acts plus two inward "
+            "orientations, not the standard five precepts restated."]),
+        ("'As if delivered there' — an unusually direct formula", [
+            "The phrase &ldquo;placed... as if delivered there&rdquo; (nikkhitto evaṁ "
+            "nirayeti) states the connection between conduct and destination with unusual "
+            "bluntness for this collection, framing rebirth almost as an automatic mechanical "
+            "consequence rather than a probabilistic tendency."]),
+        ("A titled pair with AN 6.82", [
+            "This discourse and its immediate successor share the identical opening and "
+            "closing formula and the identical first four items &mdash; killing, stealing, "
+            "sexual misconduct, and lying &mdash; differing only in their fifth and sixth "
+            "items: corrupt wishes and wrong view here, versus greed and rudeness in AN 6.82. "
+            "The pairing recalls this collection's other &lsquo;first/second&rsquo; pairs, such "
+            "as AN 6.73/6.74, where a shared title and target conceal a genuine difference in "
+            "content."]),
+    ],
+    terms=[
+        ("pāṇātipāta, adinnādāna, kāmesumicchācāra, musāvāda",
+         "&ldquo;killing living creatures, stealing, sexual misconduct, lying&rdquo; &mdash; "
+         "the first four items, matching four of the five standard lay precepts."),
+        ("pāpicchā",
+         "&ldquo;corrupt wishes&rdquo; &mdash; the fifth item, an inward orientation rather "
+         "than an outward act."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the sixth and closing item, this discourse's own "
+         "term for the disposition that (with AN 6.82) most distinguishes it from its paired "
+         "companion."),
+        ("appicchā, sammādiṭṭhi",
+         "&ldquo;few desires, right view&rdquo; &mdash; the reversal's fifth and sixth items, "
+         "the direct opposites of corrupt wishes and wrong view."),
+        ("nikkhitto evaṁ nirayeti / saggeti",
+         "&ldquo;placed in hell / heaven, as if delivered there&rdquo; &mdash; the discourse's "
+         "own unusually direct formula connecting conduct to destination."),
+    ],
+    text_intro=(
+        "The discourse in full: four acts plus corrupt wishes and wrong view delivering "
+        "someone to hell, and their reversal delivering someone to heaven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that deliver someone to hell"),
+        ("p", "&sect;1", "an6.81:1.1-1.4"),
+        ("h3", "Six things that deliver someone to heaven"),
+        ("p", "&sect;2", "an6.81:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four acts open this discourse's six-item list?",
+         "opts": [
+             "The five lay precepts in full",
+             "Killing living creatures, stealing, sexual misconduct, and lying",
+             "Fawning, flattery, laziness, and negligence",
+             "The four kinds of unwholesome thought"],
+         "correct": 1,
+         "expl": "Matching four of the five standard lay precepts, but not all five."},
+        {"q": "Which standard lay precept is notably absent from this discourse's list, "
+              "according to the guide?",
+         "opts": [
+             "Not killing living creatures",
+             "Abstaining from intoxicants — replaced instead by corrupt wishes and wrong view",
+             "Not stealing",
+             "Not lying"],
+         "correct": 1,
+         "expl": "Four acts plus two inward orientations, not the five precepts restated."},
+        {"q": "How does the guide describe the discourse's formula 'placed in hell, as if "
+              "delivered there'?",
+         "opts": [
+             "As vague and non-committal about the connection between conduct and destination",
+             "As unusually direct, framing rebirth almost as an automatic mechanical "
+             "consequence rather than a probabilistic tendency",
+             "As a metaphor with no bearing on actual rebirth",
+             "As identical in phrasing to every other discourse in this collection"],
+         "correct": 1,
+         "expl": "Blunt phrasing, distinct in directness from much of this collection's other "
+                 "formulas."},
+        {"q": "How does AN 6.81 differ from its immediate companion, AN 6.82, according to the "
+              "guide?",
+         "opts": [
+             "The two are word-for-word identical",
+             "They share an identical opening/closing formula and first four items, differing "
+             "only in their fifth and sixth items — corrupt wishes and wrong view here, versus "
+             "greed and rudeness there",
+             "They concern entirely unrelated topics",
+             "AN 6.82 has no reversal half"],
+         "correct": 1,
+         "expl": "A titled pair recalling AN 6.73/6.74's shared-title, different-content "
+                 "structure."},
+        {"q": "What does <em>pāpicchā</em> mean?",
+         "opts": ["Wrong view", "Corrupt wishes", "Few desires", "Right view"],
+         "correct": 1,
+         "expl": "The fifth item, an inward disposition rather than an outward act."},
+        {"q": "Is a setting stated for AN 6.81?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What are the reversal's fifth and sixth items?",
+         "opts": [
+             "Greed and rudeness",
+             "Few desires and right view",
+             "Faith and wisdom",
+             "Generosity and ethics"],
+         "correct": 1,
+         "expl": "The direct opposites of corrupt wishes and wrong view."},
+    ],
+    marginalia=[
+        ("Four acts, two orientations", [
+            "killing &middot; stealing",
+            "&middot; misconduct &middot; lying —",
+            "plus corrupt wishes, wrong view",
+        ]),
+        ("Not the five precepts", [
+            "intoxicants absent —",
+            "replaced by two",
+            "inward dispositions",
+        ]),
+        ("A blunt formula", [
+            "'as if delivered there' —",
+            "unusually direct",
+            "for this collection",
+        ]),
+        ("Cross-references", [
+            "AN 6.82 &middot; next, this discourse's titled companion",
+            "AN 6.73/6.74 &middot; earlier, a similar shared-title pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.80.html">AN 6.80 &middot; Greatness</a> &mdash; previous, this '
+        "chapter's other one-sided positive list.",
+        '<a href="an-6.82.html">AN 6.82 &middot; Hell (2nd)</a> &mdash; next, this '
+        "discourse&rsquo;s titled companion, differing in its fifth and sixth items.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.82 — Dutiyanirayasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Dutiyaniraya", "Hell (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 6.82 — Hell (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyanirayasutta, "
+        "sharing AN 6.81's four acts and formula but closing on greed and rudeness rather than "
+        "corrupt wishes and wrong view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, closing the "
+                 "titled pair opened by AN 6.81"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of greed with rudeness as a joint obstacle recurs in "
+                              "related forms across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and direct, sharing "
+                       "four of six items with the discourse immediately before it"),
+    ],
+    why=(
+        "AN 6.82 repeats AN 6.81's opening formula, closing formula, and first four items "
+        "&mdash; killing, stealing, sexual misconduct, lying &mdash; word for word, changing "
+        "only the fifth and sixth: greed (giddha) and rudeness (anādariya) here, in place of "
+        "corrupt wishes and wrong view. Checked side by side, the two discourses are near "
+        "duplicates with one deliberate substitution."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Killing, stealing, sexual misconduct, and lying, joined by greed and rudeness, "
+            "places someone in hell; abstaining from the four acts, joined by lack of greed "
+            "and courtesy, places someone in heaven."]),
+        ("Four items shared exactly, two items substituted", [
+            "Checked term by term against AN 6.81, the first four items of both lists are "
+            "identical. Only the fifth and sixth change: AN 6.81 closed on corrupt wishes and "
+            "wrong view, an internal orientation toward wanting and toward truth; this "
+            "discourse closes on greed and rudeness, an internal orientation toward "
+            "possessions and toward other people."]),
+        ("From doctrinal wrongness to interpersonal coarseness", [
+            "Where AN 6.81's closing pair concerned wrong view, a distinctly doctrinal failure, "
+            "this discourse's closing pair concerns rudeness (anādariya), a failure of ordinary "
+            "consideration toward others. The two discourses, read together, suggest hell is "
+            "reached by more than one route beyond the shared four acts &mdash; through "
+            "distorted belief, or through simple lack of regard for other people."]),
+        ("Why the canon keeps such close pairs", [
+            "As with AN 6.73/6.74 and AN 6.65/6.66 earlier in this collection, near-duplicate "
+            "discourses differing in only one or two items are not redundancy to smooth over "
+            "but a technique this series has now met repeatedly: the shared frame lets a small "
+            "substitution carry the entire weight of what differs between the two teachings."]),
+    ],
+    terms=[
+        ("pāṇātipāta, adinnādāna, kāmesumicchācāra, musāvāda",
+         "&ldquo;killing living creatures, stealing, sexual misconduct, lying&rdquo; &mdash; "
+         "identical to AN 6.81's first four items."),
+        ("giddha",
+         "&ldquo;greedy&rdquo; &mdash; the fifth item here, replacing AN 6.81's corrupt "
+         "wishes."),
+        ("anādariya",
+         "&ldquo;rude,&rdquo; lacking consideration &mdash; the sixth and closing item, "
+         "replacing AN 6.81's wrong view."),
+        ("agiddha, sādariya",
+         "&ldquo;not greedy, considerate&rdquo; &mdash; the reversal's fifth and sixth items, "
+         "the direct opposites closing this discourse's heaven-bound list."),
+        ("nikkhitto evaṁ nirayeti / saggeti",
+         "&ldquo;placed in hell / heaven, as if delivered there&rdquo; &mdash; identical to AN "
+         "6.81's formula, unchanged between the two discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: four acts plus greed and rudeness delivering someone to hell, "
+        "and their reversal delivering someone to heaven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that deliver someone to hell"),
+        ("p", "&sect;1", "an6.82:1.1-1.4"),
+        ("h3", "Six things that deliver someone to heaven"),
+        ("p", "&sect;2", "an6.82:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many of AN 6.82's six items are identical to AN 6.81's, checked term by "
+              "term?",
+         "opts": ["None", "The first four — killing, stealing, sexual misconduct, and lying", "All six", "Only two"],
+         "correct": 1,
+         "expl": "Near-duplicate discourses, differing only in their fifth and sixth items."},
+        {"q": "What replaces AN 6.81's 'corrupt wishes and wrong view' in this discourse's "
+              "list?",
+         "opts": [
+             "Laziness and negligence",
+             "Greed (giddha) and rudeness (anādariya)",
+             "Doubt and restlessness",
+             "Fawning and flattery"],
+         "correct": 1,
+         "expl": "One deliberate substitution, carrying the entire difference between the two "
+                 "discourses."},
+        {"q": "How does the guide characterize the shift from AN 6.81's closing pair to this "
+              "discourse's?",
+         "opts": [
+             "No meaningful difference at all",
+             "A shift from a doctrinal failure (wrong view) to a failure of ordinary "
+             "consideration toward others (rudeness)",
+             "A shift from ethical conduct to meditative attainment",
+             "A shift toward praising greed as acceptable"],
+         "correct": 1,
+         "expl": "Two different routes to the same destination, beyond the shared four acts."},
+        {"q": "According to the guide, what does this discourse's relationship to AN 6.81 "
+              "illustrate?",
+         "opts": [
+             "A copying error in the source text",
+             "A technique this collection has used repeatedly — a shared frame letting a small "
+             "substitution carry the entire weight of what differs between two teachings",
+             "That the two discourses should be merged into one",
+             "That only one of the two is considered authoritative"],
+         "correct": 1,
+         "expl": "A device already met at AN 6.65/6.66 and AN 6.73/6.74 earlier in this "
+                 "collection."},
+        {"q": "Is a setting stated for AN 6.82?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, identical in form to AN 6.81's."},
+        {"q": "What does <em>anādariya</em> mean?",
+         "opts": ["Greed", "Rudeness, lacking consideration", "Wrong view", "Corrupt wishes"],
+         "correct": 1,
+         "expl": "The sixth and closing item, replacing AN 6.81's wrong view."},
+        {"q": "What is identical between AN 6.81 and AN 6.82's opening and closing formulas?",
+         "opts": [
+             "Nothing is shared between the two",
+             "Both formulas are word for word identical — 'placed in hell/heaven, as if "
+             "delivered there'",
+             "Only the opening formula is shared",
+             "Only the closing formula is shared"],
+         "correct": 1,
+         "expl": "An unchanged shared frame around the one substituted pair of items."},
+    ],
+    marginalia=[
+        ("Four items shared exactly", [
+            "killing &middot; stealing",
+            "&middot; misconduct &middot; lying —",
+            "identical to AN 6.81",
+        ]),
+        ("One substitution", [
+            "wrong view &rarr; rudeness,",
+            "corrupt wishes &rarr; greed —",
+            "the entire difference",
+        ]),
+        ("Two routes to hell", [
+            "distorted belief,",
+            "or plain lack of regard",
+            "for other people",
+        ]),
+        ("Cross-references", [
+            "AN 6.81 &middot; previous, this discourse's near-duplicate companion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.81.html">AN 6.81 &middot; Hell (1st)</a> &mdash; previous, this '
+        "discourse's near-duplicate companion.",
+        '<a href="an-6.83.html">AN 6.83 &middot; The Best Thing</a> &mdash; next, a return to '
+        "this chapter's own theme of perfection.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.83 — Aggadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    83, "Aggadhamma", "The Best Thing",
+    vagga=VAGGA_8,
+    meta_title="AN 6.83 — The Best Thing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aggadhammasutta, "
+        "naming five qualities plus concern for body and life as what blocks or enables "
+        "perfection, the best thing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, returning to this "
+                 "chapter's own theme of perfection"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of faith, conscience, prudence, energy, and wisdom "
+                              "as a fixed positive set recurs widely across the Chinese Āgamas; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a familiar five-item set "
+                       "from elsewhere in the canon, paired here with a distinct sixth item on "
+                       "attachment to body and life"),
+    ],
+    why=(
+        "AN 6.83 returns explicitly to this chapter's own title: &ldquo;a mendicant with six "
+        "qualities can't realize the best thing, perfection&rdquo; &mdash; aggaṁ arahattaṁ, the "
+        "discourse's own doubled phrase for the same attainment named throughout this chapter. "
+        "Its blocking list combines a familiar five-item set (faithless, shameless, imprudent, "
+        "lazy, witless) with a sixth, distinct item: being concerned with one's own body and "
+        "life."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who is faithless, shameless, imprudent, lazy, and witless, and "
+            "concerned with their body and life, cannot realize perfection; one who is "
+            "faithful, conscientious, prudent, energetic, and wise, with no such concern, can."]),
+        ("A five-item set met before, with wisdom replacing conscience's usual partner", [
+            "Faith, conscience, prudence, energy, and wisdom form a recognizable positive set "
+            "across this literature, close in shape to the five spiritual faculties "
+            "(indriya) though not identical to them term for term — here energy stands in "
+            "where the more familiar formula names mindfulness or immersion."]),
+        ("A sixth item naming attachment, not a fault of conduct", [
+            "&ldquo;Concerned with their body and their life&rdquo; (kāyasitāya jīvitasitāya) "
+            "names something categorically different from the other five: not a missing virtue "
+            "but an attachment actively held, the fear of losing body and life that the "
+            "reversal's &ldquo;no concern&rdquo; directly answers."]),
+        ("'The best thing' as this discourse's own doubled phrase", [
+            "Aggadhamma, &ldquo;the best thing,&rdquo; is glossed by the discourse itself as "
+            "arahatta, perfection &mdash; the same term titling this entire chapter and shared "
+            "with AN 6.66 and AN 6.76. A fourth discourse in this collection converges on the "
+            "same target attainment while, checked term by term, naming its own distinct "
+            "six-item path to blocking or enabling it."]),
+    ],
+    terms=[
+        ("assaddha, ahirika, anottappī, kusīta, duppañña",
+         "&ldquo;faithless, shameless, imprudent, lazy, witless&rdquo; &mdash; the first five "
+         "items, a recognizable positive/negative set close in shape to the five spiritual "
+         "faculties though not identical to them term for term."),
+        ("kāyasitāya jīvitasitāya",
+         "&ldquo;concerned with their body and their life&rdquo; &mdash; the sixth item, "
+         "naming an attachment actively held rather than a missing virtue."),
+        ("aggadhamma",
+         "&ldquo;the best thing&rdquo; &mdash; the discourse's own title, glossed within the "
+         "text itself as arahatta, perfection."),
+        ("saddha, hirimā, ottappī, āraddhavīriya, paññavā",
+         "&ldquo;faithful, conscientious, prudent, energetic, wise&rdquo; &mdash; the "
+         "reversal's first five items, direct opposites of the blocking set."),
+        ("anapekkho kāyena jīvitena",
+         "&ldquo;with no concern for body or life&rdquo; &mdash; the reversal's sixth item, "
+         "directly answering the blocking list's attachment."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities plus concern for body and life blocking "
+        "perfection, and their reversal enabling it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block perfection"),
+        ("p", "&sect;1", "an6.83:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.83:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's title, 'the best thing' (aggadhamma), refer to, "
+              "according to the discourse itself?",
+         "opts": [
+             "An unspecified, unnamed attainment",
+             "Arahatta, perfection — the same term titling this entire chapter",
+             "The first absorption specifically",
+             "Rebirth as a deity"],
+         "correct": 1,
+         "expl": "Glossed within the text itself, converging with AN 6.66 and AN 6.76 on the "
+                 "same target attainment."},
+        {"q": "What five items open this discourse's blocking list?",
+         "opts": [
+             "The five hindrances",
+             "Faithless, shameless, imprudent, lazy, and witless",
+             "Killing, stealing, sexual misconduct, lying, and drinking",
+             "Dullness, drowsiness, restlessness, remorse, and doubt"],
+         "correct": 1,
+         "expl": "A recognizable positive/negative set close in shape to the five spiritual "
+                 "faculties."},
+        {"q": "How does the guide describe the sixth item, concern for body and life, compared "
+              "to the first five?",
+         "opts": [
+             "Identical in kind to the first five — a missing virtue",
+             "Categorically different — an attachment actively held, rather than a missing "
+             "virtue",
+             "Unrelated to the discourse's overall teaching",
+             "A synonym for laziness"],
+         "correct": 1,
+         "expl": "Fear of losing body and life, directly answered by the reversal's stated "
+                 "absence of that concern."},
+        {"q": "How many discourses in this collection have now converged on 'perfection' "
+              "(arahatta) as their target attainment while naming distinct blocking lists?",
+         "opts": [
+             "Only this one",
+             "At least four — AN 6.66, AN 6.76, and now AN 6.83, each with checked, distinct "
+             "content",
+             "Every discourse in the entire collection",
+             "Exactly two"],
+         "correct": 1,
+         "expl": "A recurring target, reached (or blocked) by genuinely different routes each "
+                 "time."},
+        {"q": "Is a setting stated for AN 6.83?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does <em>anottappī</em> mean?",
+         "opts": ["Faithless", "Imprudent", "Lazy", "Witless"],
+         "correct": 1,
+         "expl": "The third of the five items opening this discourse's blocking list."},
+        {"q": "What does the reversal's sixth item, 'no concern for body or life,' directly "
+              "answer?",
+         "opts": [
+             "The blocking list's laziness specifically",
+             "The blocking list's attachment to body and life, its sixth item",
+             "Nothing — the reversal has only five items",
+             "The blocking list's lack of faith"],
+         "correct": 1,
+         "expl": "A direct structural opposite, item for item, including the sixth."},
+    ],
+    marginalia=[
+        ("Five familiar items", [
+            "faithless &middot; shameless",
+            "&middot; imprudent &middot; lazy",
+            "&middot; witless — close to the five faculties",
+        ]),
+        ("A sixth item: attachment", [
+            "concern for body",
+            "and life — held, not",
+            "merely a missing virtue",
+        ]),
+        ("A fourth 'perfection'", [
+            "aggadhamma glossed",
+            "as arahatta —",
+            "same target, distinct list",
+        ]),
+        ("Cross-references", [
+            "AN 6.66/6.76 &middot; earlier, other discourses converging on the same target",
+            "AN 6.82 &middot; previous, closing the hell/heaven pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.82.html">AN 6.82 &middot; Hell (2nd)</a> &mdash; previous, closing the '
+        "hell/heaven pair.",
+        '<a href="an-6.84.html">AN 6.84 &middot; Day and Night</a> &mdash; next, closing this '
+        "chapter on growth and decline.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.84 — Rattidivasasutta
+# --------------------------------------------------------------------------- #
+page(
+    84, "Rattidivasa", "Day and Night",
+    vagga=VAGGA_8,
+    meta_title="AN 6.84 — Day and Night | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Rattidivasasutta, "
+        "closing this chapter with six qualities determining growth or decline in skillful "
+        "qualities day and night. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, closing this "
+                 "chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of contentment with the four requisites and the "
+                              "four faithful/ethical/mindful/wise qualities recurs widely "
+                              "across the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "closing the chapter on a compact six-item list"),
+    ],
+    why=(
+        "AN 6.84 closes Arahattavagga with a discourse pairing having many desires and "
+        "discontent with the four requisites &mdash; robes, almsfood, lodgings, and medicine "
+        "&mdash; against four further qualities (faithless, unethical, unmindful, witless), "
+        "and states the stakes in an unusual temporal frame: growth or decline in skillful "
+        "qualities, measured &ldquo;whether by day or by night.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant with many desires, discontent with any kind of robes, almsfood, "
+            "lodgings, and medicine, and faithless, unethical, unmindful, and witless, can "
+            "expect decline rather than growth in skillful qualities, day or night; the "
+            "reversal of all six brings growth rather than decline."]),
+        ("Contentment named first, ethical qualities following", [
+            "The list opens not with an ethical failing but with a disposition toward "
+            "material provisions: many desires (mahiccha) and discontent (asantuṭṭha) with "
+            "&ldquo;any kind&rdquo; of the four basic requisites. Only after this does the list "
+            "turn to faith, ethics, mindfulness, and wisdom &mdash; suggesting contentment with "
+            "material provision is treated here as a precondition for the more familiar "
+            "ethical qualities that follow it, not a separate, unrelated concern."]),
+        ("'Whether by day or by night' — an unusual temporal frame", [
+            "Most discourses in this chapter state their outcome without any temporal "
+            "qualification. This discourse's closing phrase, &ldquo;whether by day or by "
+            "night&rdquo; (rattiṁ vā divā vā), makes explicit what is elsewhere left implicit: "
+            "that growth or decline in skillful qualities is not confined to formal meditation "
+            "sessions but proceeds continuously, at every hour."]),
+        ("Closing the chapter on the same register it opened with", [
+            "Arahattavagga opened at AN 6.75 with thoughts and perceptions determining present "
+            "happiness and future rebirth, and closes here with contentment and ethical "
+            "qualities determining growth or decline across all hours &mdash; both discourses "
+            "framing their six items as operating continuously, in the texture of an ordinary "
+            "day, rather than only within formal practice."]),
+    ],
+    terms=[
+        ("mahiccha, asantuṭṭha",
+         "&ldquo;many desires, discontent&rdquo; &mdash; the first two items, naming a "
+         "disposition toward material provisions rather than an ethical failing directly."),
+        ("cīvara, piṇḍapāta, senāsana, gilānappaccayabhesajjaparikkhāra",
+         "&ldquo;robes, almsfood, lodgings, medicines and supplies for the sick&rdquo; &mdash; "
+         "the four basic requisites, named in full as what a discontented mendicant is "
+         "dissatisfied with."),
+        ("assaddha, dussīla, muṭṭhassati, duppañña",
+         "&ldquo;faithless, unethical, unmindful, witless&rdquo; &mdash; the remaining four "
+         "items, following the material disposition named first."),
+        ("rattiṁ vā divā vā",
+         "&ldquo;whether by day or by night&rdquo; &mdash; the discourse's own closing "
+         "temporal frame, making explicit that growth or decline proceeds continuously."),
+        ("appiccha, santuṭṭha",
+         "&ldquo;few desires, content&rdquo; &mdash; the reversal's first two items, the direct "
+         "opposites opening this discourse's growth-bound list."),
+    ],
+    text_intro=(
+        "The discourse in full: contentment and four ethical qualities determining growth or "
+        "decline in skillful qualities, day and night. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that bring decline"),
+        ("p", "&sect;1", "an6.84:1.1-1.4"),
+        ("h3", "Six things that bring growth"),
+        ("p", "&sect;2", "an6.84:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What two items open this discourse's list, before its four ethical qualities?",
+         "opts": [
+             "Faithlessness and unethical conduct",
+             "Many desires and discontent with any kind of the four requisites",
+             "Lack of mindfulness and wisdom",
+             "Killing and stealing"],
+         "correct": 1,
+         "expl": "A disposition toward material provisions, named before the more familiar "
+                 "ethical qualities."},
+        {"q": "According to the guide, what does opening the list with contentment (rather "
+              "than an ethical quality) suggest?",
+         "opts": [
+             "That contentment is unrelated to the rest of the list",
+             "That contentment with material provision is treated as a precondition for the "
+             "ethical qualities that follow, not a separate concern",
+             "That the list is presented in a random, meaningless order",
+             "That ethical qualities are more important than contentment"],
+         "correct": 1,
+         "expl": "A structural ordering that implies precondition, not mere coincidence."},
+        {"q": "What does the discourse's closing phrase 'whether by day or by night' make "
+              "explicit, according to the guide?",
+         "opts": [
+             "That growth or decline only occurs during formal meditation sessions",
+             "That growth or decline in skillful qualities proceeds continuously, at every "
+             "hour, not confined to formal practice",
+             "That the teaching applies only to nighttime practice",
+             "Nothing — the phrase is purely decorative"],
+         "correct": 1,
+         "expl": "An unusual temporal frame most other discourses in this chapter leave "
+                 "implicit."},
+        {"q": "How does the guide connect this discourse to AN 6.75, which opened the chapter?",
+         "opts": [
+             "No connection is drawn between the two",
+             "Both frame their six items as operating continuously, in the texture of an "
+             "ordinary day, rather than only within formal practice",
+             "AN 6.75 and AN 6.84 share an identical six-item list",
+             "AN 6.84 directly contradicts AN 6.75's teaching"],
+         "correct": 1,
+         "expl": "A chapter bookended by two discourses concerned with continuous, ordinary-life "
+                 "operation rather than formal practice alone."},
+        {"q": "What four requisites are named in full in this discourse?",
+         "opts": [
+             "Food, water, shelter, and clothing",
+             "Robes, almsfood, lodgings, and medicines and supplies for the sick",
+             "Faith, ethics, mindfulness, and wisdom",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "The standard four basic requisites of monastic life."},
+        {"q": "Is a setting stated for AN 6.84?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses, closing "
+                 "Arahattavagga."},
+        {"q": "What does <em>muṭṭhassati</em> mean?",
+         "opts": ["Faithless", "Unmindful", "Witless", "Unethical"],
+         "correct": 1,
+         "expl": "The third of the four ethical qualities following the two material-disposition "
+                 "items."},
+    ],
+    marginalia=[
+        ("Contentment, then ethics", [
+            "many desires,",
+            "discontent — then faith,",
+            "ethics, mindfulness, wisdom",
+        ]),
+        ("A continuous frame", [
+            "'whether by day",
+            "or by night' —",
+            "growth or decline, every hour",
+        ]),
+        ("Bookending the chapter", [
+            "AN 6.75 opened on",
+            "continuous operation;",
+            "AN 6.84 closes the same way",
+        ]),
+        ("Cross-references", [
+            "AN 6.75 &middot; the chapter's opening discourse, on the same continuous register",
+            "AN 6.83 &middot; previous, this chapter's own 'perfection' discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.83.html">AN 6.83 &middot; The Best Thing</a> &mdash; previous, this '
+        "chapter's own discourse on perfection.",
+        '<a href="an-6.75.html">AN 6.75 &middot; Suffering</a> &mdash; back to this chapter’s '
+        "opening, for contrast with the chapter now closing.",
+    ],
+)
