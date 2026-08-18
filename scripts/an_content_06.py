@@ -2141,3 +2141,1991 @@ page(
         "chapter's opening, whose worthiness formula recurs in the Saṅgha recollection here.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 2 — Sāraṇīyavagga (AN 6.11–20)
+# --------------------------------------------------------------------------- #
+VAGGA_2 = "<em>Sāraṇīyavagga</em> &mdash; the second chapter of the Sixes"
+SETTING_NONE = "None stated in the source"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.11 — Paṭhamasāraṇīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Paṭhamasāraṇīya", "Warm-hearted (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 6.11 — Warm-hearted (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasāraṇīyasutta, "
+        "opening the Sixes' second chapter with the six qualities that build warmth and cohesion "
+        "in a spiritual community. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of six qualities, each closed with &lsquo;this is a warm-hearted "
+                 "quality&rsquo;"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "This six-item list of communal virtues recurs at MN 48 and "
+                              "elsewhere across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short, practical list about "
+                       "communal life rather than solitary practice"),
+    ],
+    why=(
+        "The Sixes' second chapter opens on a different register from the first: not "
+        "attainments or similes, but the ordinary texture of living well among other "
+        "practitioners. Six qualities are named <em>sāraṇīya</em>, warm-hearted or "
+        "&ldquo;conducive to affection&rdquo; &mdash; kindness in body, speech, and mind toward "
+        "one&rsquo;s spiritual companions, sharing material goods without holding back, and "
+        "living by shared ethics and shared view. Nothing here concerns solitary meditation; "
+        "everything concerns how a community of practitioners actually holds together."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six things build warmth and belonging among spiritual companions: bodily kindness, "
+            "verbal kindness, and mental kindness, both openly and privately; sharing material "
+            "goods without holding anything back; living by shared ethical precepts; and living "
+            "by a shared, liberating view."]),
+        ("Three kindnesses, in every register", [
+            "The first three items form a matched set &mdash; kindness of body, speech, and "
+            "mind &mdash; each specified as holding &ldquo;both in public and in private,&rdquo; "
+            "<em>āvi ceva raho ca</em>. The repetition of this phrase across all three items "
+            "insists that warmth toward companions is not a performance for others to see; it "
+            "must hold when no one is watching as much as when everyone is."]),
+        ("A community's economy: sharing to the alms-bowl itself", [
+            "The fourth item is startlingly concrete: sharing without reservation even "
+            "&ldquo;the food placed in the alms-bowl.&rdquo; For a mendicant whose entire "
+            "material life is a bowl of gathered food, this names the smallest and most "
+            "immediate possible act of non-possessiveness, not an abstract principle about "
+            "generosity in general."]),
+        ("Ethics and view: the pair that closes the list", [
+            "The fifth and sixth items shift from interpersonal conduct to shared standards: "
+            "living by the same ethical precepts as one's companions, and holding the same "
+            "&ldquo;noble and emancipating&rdquo; view that leads to the ending of suffering. A "
+            "community held together only by mutual kindness, without a shared ethical and "
+            "doctrinal foundation, is not quite what this list describes; both registers are "
+            "named as necessary."]),
+        ("A companion discourse follows immediately", [
+            "AN 6.12, next, restates this identical list of six with one addition: an explicit "
+            "closing formula naming what each quality produces &mdash; fondness, respect, "
+            "inclusion, harmony, unity, freedom from dispute. Read together, the two discourses "
+            "give first the bare list, then its social payoff, in the same brief-then-detailed "
+            "pattern this series has already met at AN 5.1/5.2 and AN 6.9/6.10."]),
+    ],
+    terms=[
+        ("sāraṇīya",
+         "&ldquo;warm-hearted,&rdquo; &ldquo;conducive to affection&rdquo; &mdash; the quality "
+         "named of each of the six items, and this chapter's own title."),
+        ("mettaṁ kāyakammaṁ",
+         "&ldquo;loving-kindness in bodily action&rdquo; &mdash; the first of the six, physical "
+         "conduct rooted in <em>mettā</em>."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companion,&rdquo; &ldquo;fellow practitioner of the holy life&rdquo; "
+         "&mdash; the community these six qualities are directed toward."),
+        ("āvi ceva raho ca",
+         "&ldquo;both openly and privately&rdquo; &mdash; the phrase repeated across the first "
+         "three items, insisting warmth must hold whether or not one is observed."),
+        ("diṭṭhi",
+         "&ldquo;view&rdquo; &mdash; the sixth item, a shared understanding described as "
+         "&ldquo;noble and emancipating,&rdquo; leading its holder to the ending of suffering."),
+    ],
+    text_intro=(
+        "The discourse in full: the six warm-hearted qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The six warm-hearted qualities"),
+        ("p", "&sect;1", "an6.11:1.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What six qualities does AN 6.11 name as sāraṇīya, warm-hearted?",
+         "opts": [
+             "Bodily, verbal, and mental kindness; sharing material goods; shared ethics; and "
+             "shared view",
+             "The five faculties plus liberation",
+             "Seeing, listening, acquisition, training, service, recollection",
+             "Six kinds of meditative absorption"],
+         "correct": 0,
+         "expl": "Three kindnesses, communal sharing, and shared ethics and view."},
+        {"q": "What phrase is repeated across the first three items (bodily, verbal, mental "
+              "kindness)?",
+         "opts": [
+             "'For the ending of defilements'",
+             "'Both in public and in private' (āvi ceva raho ca)",
+             "'Worthy of offerings'",
+             "'Neither happy nor sad'"],
+         "correct": 1,
+         "expl": "Insisting that warmth must hold whether or not one is observed."},
+        {"q": "How concrete is the fourth item, about sharing material goods?",
+         "opts": [
+             "It speaks only in the abstract about generosity in general",
+             "It specifies sharing even the food placed in the alms-bowl itself",
+             "It applies only to money, not to food",
+             "It is left undefined"],
+         "correct": 1,
+         "expl": "The smallest, most immediate possible act of non-possessiveness for a "
+                 "mendicant."},
+        {"q": "What do the fifth and sixth items add beyond the first four?",
+         "opts": [
+             "Nothing — they simply repeat the earlier items",
+             "A shift from interpersonal conduct to shared standards: common ethical precepts and "
+             "a shared, liberating view",
+             "A requirement to live in physical isolation",
+             "A rule against speaking to laypeople"],
+         "correct": 1,
+         "expl": "Both a communal-conduct register and a shared-standards register are named as "
+                 "necessary."},
+        {"q": "What does <em>sabrahmacārī</em> mean?",
+         "opts": [
+             "A senior teacher", "A spiritual companion, a fellow practitioner", "An enemy of "
+             "the teaching", "A lay donor"],
+         "correct": 1,
+         "expl": "The community these six qualities of warmth are directed toward."},
+        {"q": "How does AN 6.12, the next discourse, relate to AN 6.11?",
+         "opts": [
+             "It contradicts AN 6.11's list",
+             "It restates the identical six-item list, adding an explicit closing formula naming "
+             "what each quality produces",
+             "It replaces the list with an entirely different set of six qualities",
+             "It is unrelated in content"],
+         "correct": 1,
+         "expl": "A brief-then-detailed pair, as this series has already met more than once."},
+        {"q": "What broader pattern does the AN 6.11/6.12 pairing match, according to the guide?",
+         "opts": [
+             "It is unprecedented in this series",
+             "The same brief-then-detailed structure already seen at AN 5.1/5.2 and AN 6.9/6.10",
+             "It matches only the thoroughbred simile at AN 6.5-6.7",
+             "It matches the peyyāla compression technique"],
+         "correct": 1,
+         "expl": "A recurring compositional device across this whole series."},
+        {"q": "Is a setting stated for AN 6.11?",
+         "opts": [
+             "Yes, at Sāvatthī",
+             "No — none is stated in the source",
+             "Yes, at Kapilavatthu",
+             "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare list with no scene-setting clause, opening the chapter's second vagga."},
+        {"q": "What does the sixth item's 'view' lead to, according to the text?",
+         "opts": [
+             "Rebirth as a deity",
+             "The complete ending of suffering",
+             "Material prosperity",
+             "Fame among other mendicants"],
+         "correct": 1,
+         "expl": "Described as noble and emancipating, delivering its holder to the end of "
+                 "suffering."},
+        {"q": "What register does this discourse concern, compared to most of chapter 1?",
+         "opts": [
+             "Solitary meditative attainment, like chapter 1's opening discourses",
+             "The ordinary, practical texture of living well within a community of practitioners",
+             "Cosmology and the realms of rebirth",
+             "Debate technique with wanderers of other sects"],
+         "correct": 1,
+         "expl": "A shift from attainments and similes to communal life."},
+    ],
+    marginalia=[
+        ("The six warm-hearted qualities", [
+            "1&ndash;3. bodily, verbal,",
+            "mental kindness",
+            "4. sharing goods",
+            "5. shared ethics",
+            "6. shared view",
+        ]),
+        ("Open and private", [
+            "<span class=\"pali\">āvi ceva raho ca</span>",
+            "repeated three times —",
+            "warmth unwatched, too",
+        ]),
+        ("Down to the alms-bowl", [
+            "sharing extends to",
+            "the very food gathered",
+            "that morning",
+        ]),
+        ("Cross-references", [
+            "AN 6.12 &middot; next, the same list expanded",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.12.html">AN 6.12 &middot; Warm-hearted (2nd)</a> &mdash; next, the same '
+        "six qualities with their social effects made explicit.",
+        '<a href="an-6.10.html">AN 6.10 &middot; With Mahānāma</a> &mdash; previous, closing the '
+        "chapter's first unit.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.12 — Dutiyasāraṇīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Dutiyasāraṇīya", "Warm-hearted (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 6.12 — Warm-hearted (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasāraṇīyasutta, "
+        "restating the six warm-hearted qualities of AN 6.11 with their social effect made "
+        "explicit: fondness, harmony, unity, and freedom from dispute. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same six-item list as AN 6.11, each item now closed with an explicit "
+                 "statement of its social effect"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 6.11, this list recurs at MN 48 and elsewhere across "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a direct expansion of the "
+                       "previous discourse"),
+    ],
+    why=(
+        "AN 6.11 named six warm-hearted qualities and stopped. AN 6.12 states the identical six "
+        "&mdash; the wording of each item is unchanged &mdash; but now closes each with a named "
+        "consequence: the quality &ldquo;makes for fondness and respect, conducing to inclusion, "
+        "harmony, and unity, without dispute.&rdquo; Nothing new is added to what the six "
+        "qualities are; what changes is an explicit statement of what they are said to be "
+        "for."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same six warm-hearted qualities named at AN 6.11 &mdash; kindness in body, "
+            "speech, and mind; sharing material goods; shared ethics; shared view &mdash; each "
+            "&ldquo;make for fondness and respect, conducing to inclusion, harmony, and unity, "
+            "without dispute.&rdquo;"]),
+        ("What the closing formula adds", [
+            "AN 6.11 left the payoff of these six qualities implicit, trusting the reader to "
+            "infer that kindness and sharing build community. AN 6.12 states it outright, in a "
+            "five-part formula &mdash; fondness, respect, inclusion, harmony, unity &mdash; that "
+            "recurs elsewhere in the canon (notably at MN 48, the Kosambī discourse on "
+            "communal harmony) as a fixed description of what holds a monastic community "
+            "together without internal conflict."]),
+        ("Naming outcomes changes the emphasis, not the content", [
+            "It would be a misreading to treat AN 6.12 as a separate teaching from AN 6.11. "
+            "Every one of the six qualities and its wording matches exactly; only the closing "
+            "clause is added. The pairing works like AN 6.3 and 6.4's faculties-and-powers pair: "
+            "one discourse states the material, the next restates it under a slightly different "
+            "framing, without claiming to add new content."]),
+        ("Harmony as a stated goal, not an accident", [
+            "By naming &ldquo;without dispute&rdquo; as a direct consequence of these six "
+            "qualities, the discourse implies the reverse as well, though it does not say so "
+            "directly: a community lacking these qualities is at risk of the fondness, "
+            "inclusion, and harmony they produce breaking down. The text stops short of drawing "
+            "that inference explicitly, and this guide does not extend it further than the "
+            "text itself warrants."]),
+        ("Closing the chapter's opening pair", [
+            "With AN 6.11 and 6.12 complete, the chapter turns from communal virtues to a "
+            "different subject entirely: the six <em>nissāraṇīyā dhātuyo</em>, elements of "
+            "escape, at AN 6.13 &mdash; a return to the solitary meditative register of "
+            "chapter 1, now naming what liberates a mind from six specific afflictions."]),
+    ],
+    terms=[
+        ("pemanīya",
+         "&ldquo;conducive to fondness&rdquo; &mdash; the first outcome named for each of the "
+         "six qualities."),
+        ("garuka",
+         "&ldquo;conducive to respect&rdquo; &mdash; the second outcome, paired with fondness "
+         "throughout the formula."),
+        ("saṅgahāya",
+         "&ldquo;for inclusion,&rdquo; &ldquo;for being drawn together&rdquo; &mdash; the third "
+         "outcome named."),
+        ("sāmaggiyā",
+         "&ldquo;for unity,&rdquo; &ldquo;for concord&rdquo; &mdash; the fifth outcome, closing "
+         "the formula alongside freedom from dispute."),
+        ("sāraṇīya",
+         "&ldquo;warm-hearted&rdquo; &mdash; unchanged from AN 6.11, still naming each of the "
+         "six qualities themselves."),
+    ],
+    text_intro=(
+        "The discourse in full: the six warm-hearted qualities, now with their social effect "
+        "stated explicitly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The six warm-hearted qualities, and their effect"),
+        ("p", "&sect;1", "an6.12:1.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What does AN 6.12 add to AN 6.11's list of six qualities?",
+         "opts": [
+             "A seventh new quality",
+             "An explicit closing formula naming each quality's social effect: fondness, "
+             "respect, inclusion, harmony, and unity, without dispute",
+             "A warning against practicing them incorrectly",
+             "A restriction limiting them to senior mendicants only"],
+         "correct": 1,
+         "expl": "The six qualities themselves are worded identically to AN 6.11."},
+        {"q": "Where else does this same five-part outcome formula recur in the canon, according "
+              "to the guide?",
+         "opts": [
+             "Nowhere else — it is unique to this discourse",
+             "Notably at MN 48, the Kosambī discourse on communal harmony",
+             "Only in the Vinaya",
+             "Only in later commentarial literature"],
+         "correct": 1,
+         "expl": "A fixed description recurring elsewhere for what holds a community together."},
+        {"q": "How does the guide characterize the relationship between AN 6.11 and AN 6.12?",
+         "opts": [
+             "Two entirely unrelated teachings",
+             "The same six qualities and wording, with an outcome clause added — not new "
+             "content, a shift in framing, like the AN 6.3/6.4 faculties-and-powers pairing",
+             "AN 6.12 contradicts AN 6.11",
+             "AN 6.12 doubles the number of qualities named"],
+         "correct": 1,
+         "expl": "A restatement under a different framing, not a separate teaching."},
+        {"q": "What inference does the guide explicitly decline to draw from the 'without "
+              "dispute' outcome?",
+         "opts": [
+             "That the six qualities are unimportant",
+             "That a community lacking these qualities risks the reverse — breakdown of "
+             "fondness, inclusion, and harmony — though the text itself does not state this "
+             "directly",
+             "That mendicants who dispute should be expelled",
+             "That the formula applies only to lay communities"],
+         "correct": 1,
+         "expl": "The guide is careful not to extend the text's claims further than stated."},
+        {"q": "What comes next in the chapter, after this opening pair on communal virtues?",
+         "opts": [
+             "A return to the thoroughbred simile",
+             "AN 6.13, the six elements of escape — a different subject, back in a solitary "
+             "meditative register",
+             "The chapter ends here",
+             "A repeat of the worthiness formula"],
+         "correct": 1,
+         "expl": "A shift from communal life to what liberates the mind from specific afflictions."},
+        {"q": "What does <em>sāmaggiyā</em> mean?",
+         "opts": ["Fondness", "Respect", "Unity, concord", "Dispute"],
+         "correct": 2,
+         "expl": "The fifth outcome named in the closing formula, paired with freedom from "
+                 "dispute."},
+        {"q": "Is a setting stated for AN 6.12?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Kapilavatthu", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "Matching AN 6.11, no scene-setting clause is given."},
+        {"q": "What does <em>pemanīya</em> mean?",
+         "opts": ["Conducive to dispute", "Conducive to fondness", "Conducive to isolation", "Conducive to fear"],
+         "correct": 1,
+         "expl": "The first of the five named outcomes."},
+        {"q": "Do the wordings of the six qualities themselves differ between AN 6.11 and AN "
+              "6.12?",
+         "opts": [
+             "Yes, substantially",
+             "No — they are worded identically; only the closing outcome clause is new",
+             "Only the fourth quality differs",
+             "AN 6.12 drops two of the six qualities"],
+         "correct": 1,
+         "expl": "A direct restatement, not a revision."},
+        {"q": "What broader pattern does this pairing exemplify, according to the guide?",
+         "opts": [
+             "A unique, unprecedented structure in this series",
+             "A discourse stating material plainly, followed by a companion restating it under a "
+             "different framing — as with AN 6.3's faculties and AN 6.4's powers",
+             "The peyyāla compression technique",
+             "A contradiction requiring resolution"],
+         "correct": 1,
+         "expl": "A recurring compositional device in this collection."},
+    ],
+    marginalia=[
+        ("The added outcomes", [
+            "fondness &middot; respect",
+            "inclusion &middot; harmony",
+            "unity &middot; no dispute",
+        ]),
+        ("Same six qualities", [
+            "wording unchanged",
+            "from AN 6.11 —",
+            "only the outcome is new",
+        ]),
+        ("A recurring pattern", [
+            "AN 6.3/6.4: faculties,",
+            "then powers — same",
+            "restate-and-reframe move",
+        ]),
+        ("Cross-references", [
+            "AN 6.11 &middot; previous, the bare list",
+            "AN 6.13 &middot; next, elements of escape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.11.html">AN 6.11 &middot; Warm-hearted (1st)</a> &mdash; previous, the '
+        "same six qualities without the outcome clause.",
+        '<a href="an-6.13.html">AN 6.13 &middot; Elements of Escape</a> &mdash; next, a new '
+        "six-item list on liberation from specific afflictions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.13 — Nissāraṇīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Nissāraṇīya", "Elements of Escape",
+    vagga=VAGGA_2,
+    meta_title="AN 6.13 — Elements of Escape | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nissāraṇīyasutta, which "
+        "insists that love, compassion, rejoicing, equanimity, the signless release, and the "
+        "uprooting of self-conceit are each already complete escapes from their opposing "
+        "affliction. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Six parallel scenarios: a mendicant's mistaken claim, a scripted correction, "
+                 "and a stated principle of escape"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "The four <em>brahmavihāra</em> and the two further liberations "
+                              "named here recur widely in related forms across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a technical discourse "
+                       "combining six distinct meditative liberations with a distinctive "
+                       "argumentative form"),
+    ],
+    why=(
+        "AN 6.13 has an unusual shape: six times, it scripts a mendicant's mistaken report "
+        "&mdash; &ldquo;I&rsquo;ve developed this liberation fully, yet somehow the opposing "
+        "affliction still occupies my mind&rdquo; &mdash; and six times gives the same scripted "
+        "correction: that claim cannot be true, because it misrepresents the Buddha, and it is "
+        "impossible for the affliction to remain once its stated escape has genuinely been "
+        "developed. The discourse is less a description of six liberations than an argument "
+        "about what &ldquo;fully developed&rdquo; must mean, if these liberations are what the "
+        "canon says they are."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six specific meditative liberations &mdash; love, compassion, rejoicing, "
+            "equanimity, the signless release, and the uprooting of the conceit &ldquo;I "
+            "am&rdquo; &mdash; are each declared the complete escape from one named affliction; "
+            "if the affliction remains, the discourse insists, the liberation was not actually "
+            "developed as claimed."]),
+        ("Six pairs, one form repeated", [
+            "Love (<em>mettā</em>) is escape from ill will. Compassion (<em>karuṇā</em>) is "
+            "escape from the thought of harming. Rejoicing (<em>muditā</em>) is escape from "
+            "discontent. Equanimity (<em>upekkhā</em>) is escape from desire. The signless "
+            "release of the heart is escape from the mind's following after signs. And the "
+            "uprooting of the conceit &ldquo;I am&rdquo; is escape from the dart of doubt and "
+            "indecision. The first four are the standard <em>brahmavihāra</em>, the four "
+            "&ldquo;divine abodes&rdquo;; the last two extend the list into subtler territory, "
+            "concerning perception itself and the root sense of self."]),
+        ("An argument about logical necessity, not just description", [
+            "What makes this discourse distinctive is its form: rather than simply listing six "
+            "liberations, it dramatizes a mendicant claiming success while still reporting the "
+            "very affliction the practice is meant to end, then has that claim flatly refused. "
+            "The refusal is not framed as encouragement to try harder; it is framed as a "
+            "conceptual impossibility &mdash; &ldquo;it's impossible, it cannot happen&rdquo; "
+            "&mdash; treating the relationship between cause and effect here as necessary, not "
+            "merely probable."]),
+        ("A caution this reading guide should itself observe", [
+            "It would be easy to read this discourse as license to doubt one's own progress at "
+            "the first sign of a lingering unwholesome thought. The text does not say that; its "
+            "target is a mendicant's declarative claim of complete and settled development, not "
+            "the ordinary, gradual experience of a quality growing stronger over time. A single "
+            "arising of ill will does not, on this discourse's own terms, prove that love has "
+            "not been cultivated at all &mdash; only that it has not yet reached the described "
+            "completion."]),
+        ("Why 'elements of escape', not simply 'liberations'", [
+            "The term <em>nissāraṇīyā dhātuyo</em>, elements of escape, frames each of the six "
+            "not as a state to rest in for its own sake but as a specific way out of a specific "
+            "trap. Read this way, the four brahmavihāra function here less as devotional or "
+            "purely ethical cultivations and more as precise antidotes, each aimed at one named "
+            "obstruction."]),
+    ],
+    terms=[
+        ("nissāraṇīyā dhātuyo",
+         "&ldquo;elements of escape&rdquo; &mdash; the discourse's own title, framing each "
+         "liberation as a way out of a specific affliction."),
+        ("mettā cetovimutti",
+         "&ldquo;the heart's release by love&rdquo; &mdash; the first of the six, declared the "
+         "escape from ill will."),
+        ("karuṇā cetovimutti",
+         "&ldquo;the heart's release by compassion&rdquo; &mdash; the second, declared the "
+         "escape from the thought of harming."),
+        ("animittā cetovimutti",
+         "&ldquo;the signless release of the heart&rdquo; &mdash; the fifth, declared the escape "
+         "from the mind's following after signs."),
+        ("asmimāna",
+         "&ldquo;the conceit &lsquo;I am&rsquo;&rdquo; &mdash; whose uprooting is declared, "
+         "sixth, the escape from the dart of doubt and indecision."),
+    ],
+    text_intro=(
+        "The discourse in full: six scripted claims and corrections, naming each liberation as "
+        "the escape from one affliction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Love, as escape from ill will"),
+        ("p", "&sect;1", "an6.13:1.1-1.9"),
+        ("h3", "Compassion, as escape from the thought of harming"),
+        ("p", "&sect;2", "an6.13:2.1-2.7"),
+        ("h3", "Rejoicing, as escape from discontent"),
+        ("p", "&sect;3", "an6.13:3.1-3.7"),
+        ("h3", "Equanimity, as escape from desire"),
+        ("p", "&sect;4", "an6.13:4.1-4.7"),
+        ("h3", "The signless release, as escape from following signs"),
+        ("p", "&sect;5", "an6.13:5.1-5.7"),
+        ("h3", "Uprooting the conceit &lsquo;I am&rsquo;, as escape from doubt"),
+        ("p", "&sect;6", "an6.13:6.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What is the discourse's scripted response when a mendicant claims to have fully "
+              "developed love, yet reports ill will still occupying their mind?",
+         "opts": [
+             "That they should try a different meditation object",
+             "That the claim is flatly rejected as impossible — genuine development of love "
+             "cannot coexist with remaining ill will",
+             "That some ill will is normal and acceptable",
+             "That they should ask a senior mendicant for advice"],
+         "correct": 1,
+         "expl": "'It's impossible, reverend, it cannot happen' — a claim of logical necessity, "
+                 "not mere encouragement."},
+        {"q": "What are the first four of the six elements of escape?",
+         "opts": [
+             "The five faculties plus one power",
+             "Love, compassion, rejoicing, and equanimity — the four brahmavihāra",
+             "Faith, energy, mindfulness, and immersion",
+             "Seeing, hearing, smelling, and tasting"],
+         "correct": 1,
+         "expl": "The standard four 'divine abodes', each paired with a specific affliction here."},
+        {"q": "What are the fifth and sixth elements, extending beyond the four brahmavihāra?",
+         "opts": [
+             "Two more brahmavihāra not usually counted",
+             "The signless release of the heart, and the uprooting of the conceit 'I am'",
+             "Recollection of the Buddha and the Saṅgha",
+             "The five faculties and five powers"],
+         "correct": 1,
+         "expl": "Extending the list into subtler territory concerning perception and the root "
+                 "sense of self."},
+        {"q": "According to the guide, what should this discourse NOT be read as licensing?",
+         "opts": [
+             "Practicing the four brahmavihāra at all",
+             "Doubting one's own gradual progress at the first sign of a lingering unwholesome "
+             "thought — the text targets a declarative claim of complete development, not "
+             "ordinary gradual growth",
+             "Ever claiming any spiritual attainment",
+             "Teaching these liberations to others"],
+         "correct": 1,
+         "expl": "A single arising of ill will does not, on the text's own terms, prove love has "
+                 "not been cultivated at all."},
+        {"q": "What does the term <em>nissāraṇīyā dhātuyo</em>, 'elements of escape', frame each "
+              "liberation as?",
+         "opts": [
+             "A state to rest in for its own sake, with no further purpose",
+             "A precise antidote aimed at one named obstruction, a specific way out of a "
+             "specific trap",
+             "A purely devotional practice unrelated to liberation",
+             "An optional supplement to the main path"],
+         "correct": 1,
+         "expl": "Framing the brahmavihāra here as targeted antidotes, not open-ended cultivations."},
+        {"q": "What does compassion (karuṇā) serve as the escape from, per this discourse?",
+         "opts": ["Discontent", "Desire", "The thought of harming", "Doubt and indecision"],
+         "correct": 2,
+         "expl": "The second of the six pairs."},
+        {"q": "What is distinctive about this discourse's argumentative form, compared to a "
+              "simple list?",
+         "opts": [
+             "It uses only similes, no direct statements",
+             "It dramatizes a mistaken claim and a scripted refutation six times, treating the "
+             "relationship between liberation and affliction as a logical necessity",
+             "It is written entirely in verse",
+             "It features a debate between two named mendicants"],
+         "correct": 1,
+         "expl": "Not mere description, but an argument about what 'fully developed' must mean."},
+        {"q": "What is the sixth affliction named, and what escapes it?",
+         "opts": [
+             "Ill will, escaped by love",
+             "The dart of doubt and indecision, escaped by uprooting the conceit 'I am'",
+             "Desire, escaped by equanimity",
+             "Discontent, escaped by rejoicing"],
+         "correct": 1,
+         "expl": "The final pair, extending past the four brahmavihāra and the signless release."},
+        {"q": "Is a setting stated for AN 6.13?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Kapilavatthu", "Yes, among the Kosalans"],
+         "correct": 1,
+         "expl": "Matching AN 6.11 and 6.12, no scene-setting clause is given."},
+        {"q": "What does the discourse say happens to a mendicant who makes such a mistaken "
+              "claim, according to the scripted correction?",
+         "opts": [
+             "Nothing — the claim is simply accepted",
+             "They are told the claim misrepresents the Buddha, and misrepresentation of the "
+             "Buddha is not good",
+             "They are expelled from the community",
+             "They are praised for their honesty"],
+         "correct": 1,
+         "expl": "The correction frames the false claim as a misrepresentation of what the "
+                 "Buddha actually taught, not merely a personal error."},
+    ],
+    marginalia=[
+        ("The six escapes", [
+            "love &rarr; ill will",
+            "compassion &rarr; harming",
+            "rejoicing &rarr; discontent",
+            "equanimity &rarr; desire",
+            "signless &rarr; signs",
+            "no-self &rarr; doubt",
+        ]),
+        ("The scripted form", [
+            "claim of full development",
+            "+ lingering affliction",
+            "= impossible, refused",
+        ]),
+        ("Not license to doubt", [
+            "targets a declared claim,",
+            "not ordinary gradual",
+            "growth in practice",
+        ]),
+        ("Cross-references", [
+            "AN 6.12 &middot; previous, communal warmth",
+            "AN 6.14 &middot; next, a good death",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.14.html">AN 6.14 &middot; A Good Death</a> &mdash; next, Sāriputta on what '
+        "makes a mendicant's death good or otherwise.",
+        '<a href="an-6.11.html">AN 6.11 &middot; Warm-hearted (1st)</a> &mdash; earlier in this '
+        "chapter, a different register of six qualities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.14 — Bhaddakasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Bhaddaka", "A Good Death",
+    vagga=VAGGA_2,
+    meta_title="AN 6.14 — A Good Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhaddakasutta, in "
+        "which Sāriputta names six things — work, talk, sleep, company, closeness, and "
+        "proliferation — that determine whether a mendicant dies well. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Sāriputta, addressing the mendicants"),
+        ("Form", "Two matched formulas &mdash; how life is lived so as not to have a good death, "
+                 "and so as to have one &mdash; closed with four verse lines"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The theme of a death free of regret through non-attachment "
+                              "recurs in related forms across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the central term, "
+                       "<em>papañca</em>, carries real philosophical weight and resists a single "
+                       "English word"),
+    ],
+    why=(
+        "AN 6.14 is spoken by Sāriputta, not the Buddha &mdash; the first discourse in this "
+        "chapter with a named speaker. His subject is blunt: what determines whether a "
+        "mendicant has a &ldquo;good death,&rdquo; <em>bhaddaka maraṇa</em>. His answer turns on "
+        "a single Pāli term, <em>papañca</em>, usually rendered &ldquo;proliferation&rdquo; "
+        "&mdash; the mind's tendency to elaborate, embellish, and multiply itself around whatever "
+        "it engages with. A mendicant who relishes six things, culminating in this "
+        "proliferation, does not die well; one who does not relish them does."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who relishes work, talk, sleep, company, closeness, and proliferation "
+            "does not have a good death; one who does not relish these six things does."]),
+        ("Six items building toward one culmination", [
+            "The list moves from concrete activities to something more abstract: work "
+            "(<em>kamma</em>), talk (<em>bhassa</em>), sleep (<em>niddā</em>), company "
+            "(<em>saṅgaṇikā</em>), closeness (<em>saṁsagga</em>), and finally "
+            "<em>papañca</em>, proliferation. The first five are recognizable distractions from "
+            "meditative life; the sixth names something subtler happening within the mind "
+            "itself, and the discourse's own closing verse singles it out as the decisive term, "
+            "not merely the sixth item in a list."]),
+        ("What 'proliferation' names", [
+            "<em>Papañca</em> is one of the canon's harder technical terms to render in "
+            "English. It names the mind's tendency, once a perception has arisen, to spin "
+            "outward into elaboration &mdash; associations, conceptual complications, and the "
+            "sense of a self standing at the center of it all. Elsewhere in the canon (notably "
+            "MN 18) it is explicitly linked to how ordinary perception generates the very "
+            "concepts a person then becomes entangled in and fights over. Here, it is simply "
+            "named as the last and most consequential of six things worth not relishing."]),
+        ("Two labels for two ways of living", [
+            "The discourse gives each way of living its own name: a mendicant who relishes "
+            "these six is called one &ldquo;who enjoys substantial reality "
+            "(<em>sakkāya</em>),&rdquo; who has not given it up &ldquo;to rightly make an end of "
+            "suffering&rdquo;; one who does not relish them is called one &ldquo;who delights in "
+            "extinguishment,&rdquo; who has given up substantial reality for that same end. "
+            "<em>Sakkāya</em>, usually translated &ldquo;identity&rdquo; or "
+            "&ldquo;substantial reality,&rdquo; is the same term at the root of "
+            "<em>sakkāyadiṭṭhi</em>, identity view, one of the fetters binding beings to "
+            "repeated existence."]),
+        ("A death that is 'good' in a specific, technical sense", [
+            "The discourse is not offering general advice about a peaceful passing in the "
+            "ordinary sense. &ldquo;Good death&rdquo; here is inseparable from what has or has "
+            "not been given up during life; it names whether one dies still entangled in "
+            "proliferation and identity, or dies having already let them go. The closing verse "
+            "makes this explicit, calling extinguishment &ldquo;the supreme sanctuary from the "
+            "yoke,&rdquo; not a description of a serene final moment for its own sake."]),
+    ],
+    terms=[
+        ("bhaddaka maraṇa",
+         "&ldquo;a good death&rdquo; &mdash; the discourse's own title and subject, defined "
+         "entirely in terms of what has been relinquished during life."),
+        ("papañca",
+         "&ldquo;proliferation&rdquo; &mdash; the mind's tendency to elaborate and multiply "
+         "around what it perceives; the sixth and culminating item in this discourse's list."),
+        ("sakkāya",
+         "&ldquo;substantial reality,&rdquo; &ldquo;identity&rdquo; &mdash; what one who "
+         "relishes the six listed things is said to enjoy and not give up."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; what one who does not relish the six things is "
+         "said to delight in instead, named in the closing verse as the supreme sanctuary."),
+        ("yogakkhema",
+         "&ldquo;sanctuary from the yoke,&rdquo; &ldquo;security from bondage&rdquo; &mdash; the "
+         "closing verse's description of what proliferation, given up, makes possible."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta on what makes a mendicant's death good or otherwise, "
+        "closing in verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta addresses the mendicants"),
+        ("p", "&sect;1", "an6.14:1.1-1.4"),
+        ("h3", "Living so as not to have a good death"),
+        ("p", "&sect;2", "an6.14:2.1-3.4"),
+        ("h3", "Living so as to have a good death"),
+        ("p", "&sect;3", "an6.14:4.1-5.4"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;4", "an6.14:6.1-7.4"),
+    ],
+    quiz=[
+        {"q": "Who speaks AN 6.14?",
+         "opts": ["The Buddha", "Sāriputta, addressing the mendicants", "Mahānāma the Sakyan", "Ānanda"],
+         "correct": 1,
+         "expl": "The first discourse in this chapter with a named speaker other than the "
+                 "Buddha."},
+        {"q": "What six things does a mendicant who does not have a good death relish?",
+         "opts": [
+             "The six sense doors",
+             "Work, talk, sleep, company, closeness, and proliferation",
+             "The five faculties and one power",
+             "Seeing, listening, acquisition, training, service, recollection"],
+         "correct": 1,
+         "expl": "Kamma, bhassa, niddā, saṅgaṇikā, saṁsagga, and papañca."},
+        {"q": "What does the guide say about the sixth item, papañca, compared to the first five?",
+         "opts": [
+             "It is the least important of the six",
+             "The closing verse singles it out as the decisive term, not merely the last item in "
+             "a list — naming something subtler happening within the mind itself",
+             "It is identical in meaning to 'sleep'",
+             "It only applies to lay followers"],
+         "correct": 1,
+         "expl": "The first five are recognizable distractions; papañca names the mind's own "
+                 "elaborating tendency."},
+        {"q": "How does the guide describe what 'papañca' names?",
+         "opts": [
+             "Physical exhaustion from overwork",
+             "The mind's tendency, once a perception arises, to spin outward into elaboration, "
+             "association, and a sense of self at the center of it all",
+             "A formal debate technique",
+             "A type of unwholesome speech only"],
+         "correct": 1,
+         "expl": "Linked elsewhere in the canon (MN 18) to how ordinary perception generates the "
+                 "concepts a person becomes entangled in."},
+        {"q": "What is a mendicant who relishes these six things called?",
+         "opts": [
+             "One who delights in extinguishment",
+             "One who enjoys substantial reality (sakkāya), who has not given it up to end "
+             "suffering",
+             "A stream-enterer",
+             "A fully awakened Buddha"],
+         "correct": 1,
+         "expl": "Contrasted with one who does not relish them, called one who delights in "
+                 "extinguishment."},
+        {"q": "What does the guide clarify about the sense of 'good death' used here?",
+         "opts": [
+             "It means dying peacefully in the ordinary sense, regardless of one's practice",
+             "It is inseparable from what has or has not been given up during life — whether one "
+             "dies entangled in proliferation and identity, or having already let them go",
+             "It refers only to the physical manner of death",
+             "It has no relation to spiritual practice at all"],
+         "correct": 1,
+         "expl": "The closing verse calls extinguishment 'the supreme sanctuary from the yoke,' "
+                 "not a description of a serene final moment alone."},
+        {"q": "What does <em>sakkāya</em> relate to elsewhere in the canon?",
+         "opts": [
+             "It is unrelated to any other canonical term",
+             "It is the root term in sakkāyadiṭṭhi, identity view, one of the fetters binding "
+             "beings to repeated existence",
+             "It refers only to physical possessions",
+             "It names a type of meditative absorption"],
+         "correct": 1,
+         "expl": "A term with real technical weight beyond this single discourse."},
+        {"q": "Is a setting stated for AN 6.14?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "Sāriputta 'addresses the mendicants' with no location given."},
+        {"q": "What does <em>yogakkhema</em> mean?",
+         "opts": [
+             "A type of formal debate",
+             "Sanctuary or security from the yoke — bondage",
+             "A meditative posture",
+             "A ceremonial offering"],
+         "correct": 1,
+         "expl": "The closing verse's term for what giving up proliferation makes possible."},
+        {"q": "How does AN 6.15, the next discourse, relate to AN 6.14?",
+         "opts": [
+             "It is entirely unrelated in theme",
+             "It restates a very similar teaching using the image of a 'bed one must lie in', "
+             "framed around dying free of or tormented by regret",
+             "It contradicts AN 6.14's teaching",
+             "It is spoken by a different figure with no connection to Sāriputta's teaching here"],
+         "correct": 1,
+         "expl": "A closely related companion discourse, also on relishing versus not relishing "
+                 "the same six things."},
+    ],
+    marginalia=[
+        ("The six things", [
+            "work &middot; talk &middot; sleep",
+            "company &middot; closeness",
+            "<span class=\"pali\">papañca</span>proliferation",
+        ]),
+        ("Two labels", [
+            "relishes them: enjoys",
+            "<span class=\"pali\">sakkāya</span>, substantial reality",
+            "doesn't: delights in nibbāna",
+        ]),
+        ("A technical death", [
+            "not a peaceful passing",
+            "in the ordinary sense —",
+            "defined by what's given up",
+        ]),
+        ("Cross-references", [
+            "AN 6.13 &middot; previous, elements of escape",
+            "AN 6.15 &middot; next, a close companion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.15.html">AN 6.15 &middot; Regret</a> &mdash; next, the same teaching '
+        "recast around the image of the bed one must lie in.",
+        '<a href="an-6.13.html">AN 6.13 &middot; Elements of Escape</a> &mdash; previous, a '
+        "different discourse on liberation from affliction.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.15 — Anutappiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Anutappiya", "Regret",
+    vagga=VAGGA_2,
+    # an-6.16.html is an already-published page, not part of this module's
+    # PAGES; chain() would otherwise skip straight from 6.15 to 6.17. Set the
+    # hand-off explicitly here and mirror it with prev= on AN 6.17's page(),
+    # matching the mid-run old-page splice used for AN 4.13.
+    next=("an-6.16.html", "AN 6.16 &middot; Nakula&rsquo;s Father"),
+    meta_title="AN 6.15 — Regret | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Anutappiyasutta, "
+        "Sāriputta's close companion to AN 6.14, recasting the same teaching around the image "
+        "of the bed one must lie in. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Sāriputta, addressing the mendicants"),
+        ("Form", "The same two matched formulas as AN 6.14, framed with the proverb-like image "
+                 "of &lsquo;as you make your bed, so you must lie in it&rsquo;"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "As with AN 6.14, this theme recurs in related forms across the "
+                              "Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a direct companion to AN "
+                       "6.14, sharing its central term <em>papañca</em>"),
+    ],
+    why=(
+        "AN 6.15 restates AN 6.14 almost exactly &mdash; the same six things, the same two "
+        "outcomes, the same closing verses &mdash; wrapped in a different opening image: "
+        "&ldquo;as a mendicant makes their bed, so they must lie in it.&rdquo; Where AN 6.14 "
+        "asked whether death is good or not, AN 6.15 asks whether it comes with regret or "
+        "without. The two questions turn out, in this pairing, to be the same question asked "
+        "twice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who relishes work, talk, sleep, company, closeness, and proliferation "
+            "makes a bed they must lie in, dying tormented by regret; one who does not relish "
+            "these six things dies free of regret."]),
+        ("A proverb doing the work of an argument", [
+            "&ldquo;As you make your bed, so you must lie in it&rdquo; is a piece of ordinary "
+            "proverbial wisdom, not a specialized Buddhist formula &mdash; its force depends on "
+            "being instantly recognizable. Placed at the head of this discourse, it reframes "
+            "AN 6.14's abstract terms (substantial reality, extinguishment) as something more "
+            "immediate: the plain, almost folk-wisdom observation that how one lives determines "
+            "how one ends up, without needing technical vocabulary to make the point land."]),
+        ("What changes from AN 6.14, and what does not", [
+            "Every one of the six items, both closing labels (&ldquo;enjoys substantial "
+            "reality&rdquo; and &ldquo;delights in extinguishment&rdquo;), and all four lines of "
+            "closing verse are shared word for word with AN 6.14. Only the frame differs: "
+            "&ldquo;good death&rdquo; becomes &ldquo;free of regret,&rdquo; and the discourse "
+            "opens on the bed-image rather than announcing its topic directly."]),
+        ("Regret as the felt texture of an unexamined life", [
+            "Where &ldquo;good death&rdquo; names a technical, almost clinical distinction "
+            "&mdash; has substantial reality been given up or not &mdash; &ldquo;regret&rdquo; "
+            "names how that same distinction is actually experienced by the person living, and "
+            "dying, through it. The pairing suggests these are not two different consequences "
+            "of relishing proliferation, but one consequence described twice: once from the "
+            "outside, in terms of what has or has not been relinquished, and once from within, "
+            "in terms of how it feels."]),
+        ("Why the canon keeps two such close discourses", [
+            "As with the thoroughbred triad at AN 6.5&ndash;6.7, restating near-identical "
+            "material under a different frame is itself a technique this series has met "
+            "repeatedly, not a redundancy to smooth over. A reader who has just absorbed AN "
+            "6.14's more abstract framing meets the identical content again here in an "
+            "immediately graspable proverb &mdash; two doors into the same room."]),
+    ],
+    terms=[
+        ("anutappiya",
+         "&ldquo;to be regretted,&rdquo; &ldquo;causing remorse&rdquo; &mdash; the discourse's "
+         "own title, naming the felt consequence AN 6.14 described more abstractly."),
+        ("yathā kataṁ tathā seyyaṁ",
+         "&ldquo;as one has made [the bed], so one must lie [in it]&rdquo; &mdash; the "
+         "proverbial image opening the discourse, reframing AN 6.14's teaching."),
+        ("papañca",
+         "&ldquo;proliferation&rdquo; &mdash; unchanged from AN 6.14, still the culminating and "
+         "decisive item among the six."),
+        ("sakkāya",
+         "&ldquo;substantial reality,&rdquo; &ldquo;identity&rdquo; &mdash; unchanged from AN "
+         "6.14, what one who relishes the six things is said to enjoy."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; unchanged from AN 6.14, named again in the shared "
+         "closing verses as the supreme sanctuary from the yoke."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta's bed-image companion to AN 6.14, sharing its closing "
+        "verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta addresses the mendicants"),
+        ("p", "&sect;1", "an6.15:1.1-1.3"),
+        ("h3", "Making a bed that leads to regret"),
+        ("p", "&sect;2", "an6.15:2.1-2.8"),
+        ("h3", "Making a bed that leads to no regret"),
+        ("p", "&sect;3", "an6.15:3.1-4.8"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;4", "an6.15:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What proverbial image opens AN 6.15?",
+         "opts": [
+             "A ship navigating a storm",
+             "As a mendicant makes their bed, so they must lie in it",
+             "A tree bearing fruit according to its roots",
+             "A river flowing to the sea"],
+         "correct": 1,
+         "expl": "An instantly recognizable piece of ordinary proverbial wisdom, not a "
+                 "specialized formula."},
+        {"q": "How much of AN 6.14's content is shared word for word with AN 6.15?",
+         "opts": [
+             "None — it is an entirely different teaching",
+             "The six items, both closing labels, and all four lines of closing verse — only the "
+             "opening frame differs",
+             "Only the six items, with different closing verses",
+             "Only the closing verses, with a different list of six items"],
+         "correct": 1,
+         "expl": "A near-total restatement with a changed frame: 'good death' becomes 'free of "
+                 "regret.'"},
+        {"q": "According to the guide, what is the relationship between 'good death' (AN 6.14) "
+              "and 'free of regret' (AN 6.15)?",
+         "opts": [
+             "Two entirely separate and unrelated consequences",
+             "Not two different consequences, but one consequence described twice — once "
+             "externally, in terms of what's relinquished, and once from within, as how it feels",
+             "'Free of regret' contradicts 'good death'",
+             "They apply to different kinds of practitioners"],
+         "correct": 1,
+         "expl": "A technical distinction and its felt, experiential texture, given as one "
+                 "teaching in two frames."},
+        {"q": "What does the guide compare this AN 6.14/6.15 pairing to elsewhere in the chapter?",
+         "opts": [
+             "The worthiness formula of AN 6.1",
+             "The thoroughbred triad at AN 6.5–6.7 — near-identical material restated under a "
+             "different frame as a technique, not mere redundancy",
+             "The six superhuman knowledges of AN 6.2",
+             "It has no parallel elsewhere in the chapter"],
+         "correct": 1,
+         "expl": "A recurring compositional device: the same content through more than one door."},
+        {"q": "Who speaks AN 6.15?",
+         "opts": ["The Buddha", "Sāriputta, addressing the mendicants", "Mahānāma the Sakyan", "Ānanda"],
+         "correct": 1,
+         "expl": "Matching AN 6.14, its immediate companion."},
+        {"q": "What does <em>anutappiya</em> mean?",
+         "opts": [
+             "Free from all suffering",
+             "To be regretted, causing remorse",
+             "Worthy of praise",
+             "Impossible to achieve"],
+         "correct": 1,
+         "expl": "The discourse's own title, naming the felt consequence of an unexamined life."},
+        {"q": "What remains the culminating, decisive item among the six things named, as in AN "
+              "6.14?",
+         "opts": ["Sleep", "Company", "Papañca, proliferation", "Talk"],
+         "correct": 2,
+         "expl": "Unchanged between the two companion discourses."},
+        {"q": "Is a setting stated for AN 6.15?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "Matching AN 6.14, Sāriputta 'addresses the mendicants' with no location given."},
+        {"q": "What comes immediately after AN 6.15 in the chapter's sequence?",
+         "opts": [
+             "AN 6.16, an already-published page not regenerated by this module",
+             "The chapter ends at AN 6.15",
+             "A return to the thoroughbred simile",
+             "AN 6.20, skipping several discourses"],
+         "correct": 0,
+         "expl": "An-6.16.html, 'Nakula's Father', was published in this series' earlier "
+                 "eighteen-page selection and is not rebuilt here."},
+        {"q": "What does the guide say about reading these two discourses as separate teachings?",
+         "opts": [
+             "They should be read as unrelated, independent teachings",
+             "They are best read as one teaching given twice — an abstract framing and an "
+             "immediately graspable proverbial one, two doors into the same room",
+             "AN 6.15 supersedes and replaces AN 6.14",
+             "Only one of the two is considered authoritative"],
+         "correct": 1,
+         "expl": "A close companion pair, not a contradiction or redundancy to resolve."},
+    ],
+    marginalia=[
+        ("The shared teaching", [
+            "same six things",
+            "same two outcomes",
+            "same closing verses",
+        ]),
+        ("Only the frame changes", [
+            "AN 6.14: good death",
+            "AN 6.15: free of regret",
+            "— one lesson, two doors",
+        ]),
+        ("A proverb's force", [
+            "‘as you make your bed,",
+            "so you must lie in it’ —",
+            "instantly recognizable",
+        ]),
+        ("Cross-references", [
+            "AN 6.14 &middot; previous, the companion",
+            "AN 6.16 &middot; next, an earlier page",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.14.html">AN 6.14 &middot; A Good Death</a> &mdash; previous, the same '
+        "teaching under its more abstract framing.",
+        '<a href="an-6.17.html">AN 6.17 &middot; Sleep</a> &mdash; further ahead, past the '
+        "already-published AN 6.16.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.17 — Soppasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Soppa", "Sleep",
+    vagga=VAGGA_2,
+    prev=("an-6.16.html", "AN 6.16 &middot; Nakula&rsquo;s Father"),
+    meta_title="AN 6.17 — Sleep | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Soppasutta, in which "
+        "the Buddha finds junior mendicants sleeping late and asks whether any king, official, "
+        "or ascetic ever gained lasting standing by indulging in sleep. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery — a fresh statement of "
+                    "setting, the first since AN 6.10"),
+        ("Speakers", "The Buddha, questioning the mendicants directly"),
+        ("Form", "A narrated scene, a series of three parallel rhetorical questions, and a "
+                 "closing injunction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Narrative admonitions against oversleeping recur in related forms "
+                              "across the Chinese Āgamas and Vinaya literature; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; an accessible narrative "
+                       "discourse naming ten senior disciples by name"),
+    ],
+    why=(
+        "AN 6.17 is a story, not a formula: senior disciples meditate through much of the "
+        "night and retire; junior mendicants, newly gone forth, sleep until sunrise, snoring. "
+        "The Buddha, seeing this with clairvoyance, asks the assembly three parallel questions "
+        "&mdash; about a king, an official, and finally an ascetic or brahmin &mdash; each asking "
+        "whether such a figure ever kept their position, or reached freedom, by indulging "
+        "freely in sleep. The chapter's second discourse with a concrete narrative setting, it "
+        "names ten of the Buddha's most senior disciples in a single roll call."),
+    guide=[
+        ("The teaching in one sentence", [
+            "No king, official, or ascetic has ever kept their standing, or reached the ending "
+            "of defilements, by indulging freely in sleep; mendicants should therefore guard "
+            "their senses, eat moderately, and stay dedicated to wakefulness, especially in the "
+            "hours the senior disciples had just used for meditation."]),
+        ("A roll call of ten senior disciples", [
+            "Sāriputta, Mahāmoggallāna, Mahākassapa, Mahākaccāna, Mahākoṭṭhita, Mahācunda, "
+            "Mahākappina, Anuruddha, Revata, and Ānanda are named together, each simply "
+            "understood to have &ldquo;done the same&rdquo; as Sāriputta: emerging from "
+            "retreat, coming to the assembly hall, and later returning to meditate alone after "
+            "the Buddha withdrew. The list functions as a marker of exemplary practice by name "
+            "recognition &mdash; a reader familiar with these figures from elsewhere in the "
+            "canon understands at once what kind of mendicant is being contrasted with the "
+            "sleeping juniors."]),
+        ("Three questions, one escalating structure", [
+            "The Buddha's three rhetorical questions move from worldly power to spiritual "
+            "attainment: first a king who rules his whole life while indulging in sleep, then "
+            "a string of lesser officials down to a guild head who keeps his position the same "
+            "way, and finally an ascetic or brahmin who reaches the ending of defilements while "
+            "indulging in sleep, ungoverned senses, and overeating. Each question receives the "
+            "same answer &mdash; &ldquo;No, sir&rdquo; &mdash; escalating from a claim about "
+            "ordinary worldly success to a claim about the highest attainment the tradition "
+            "describes, treating both as subject to the identical rule."]),
+        ("Not a blanket condemnation of sleep", [
+            "The discourse does not instruct mendicants to forgo sleep altogether; even the "
+            "Buddha himself is described spending part of the night sitting in meditation "
+            "before entering his own dwelling, implying rest afterward. What it targets is "
+            "indulgence &mdash; sleeping &ldquo;as much as one likes,&rdquo; past the point rest "
+            "requires, at the cost of the hours a serious practitioner would otherwise use."]),
+        ("Why this discourse follows AN 6.14 and 6.15", [
+            "Sleep was the third item named in both preceding discourses' list of six things "
+            "not worth relishing. AN 6.17 can be read as a concrete illustration of that "
+            "abstract item &mdash; not a list entry any longer, but a specific early-morning "
+            "scene in which some mendicants relish it and others, by contrast, do not."]),
+    ],
+    terms=[
+        ("soppa",
+         "&ldquo;sleep&rdquo; &mdash; the discourse's own title, and the specific indulgence its "
+         "narrative concerns."),
+        ("dibbacakkhu",
+         "&ldquo;clairvoyance,&rdquo; &ldquo;the divine eye&rdquo; &mdash; the faculty by which "
+         "the Buddha is said to have seen the junior mendicants sleeping."),
+        ("navā pabbajitā",
+         "&ldquo;newly gone forth&rdquo; &mdash; how the discourse describes the sleeping "
+         "mendicants, distinguishing them from the ten senior disciples named."),
+        ("bodhipakkhiyā dhammā",
+         "&ldquo;qualities on the side of awakening&rdquo; &mdash; what the closing injunction "
+         "asks mendicants to develop in the evening and toward dawn, instead of sleeping."),
+        ("indriyāni aguttāni",
+         "&ldquo;sense doors unguarded&rdquo; &mdash; one of the conditions the Buddha lists as "
+         "incompatible with reaching the ending of defilements while indulging in sleep."),
+    ],
+    text_intro=(
+        "The discourse in full: the sleeping juniors, the Buddha's three questions, and his "
+        "closing injunction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The senior disciples meditate; the juniors sleep"),
+        ("p", "&sect;1", "an6.17:1.1-1.18"),
+        ("h3", "Where are the senior disciples?"),
+        ("p", "&sect;2", "an6.17:2.1-2.19"),
+        ("h3", "Three questions: king, official, ascetic"),
+        ("p", "&sect;3", "an6.17:3.1-4.7"),
+        ("h3", "The injunction"),
+        ("p", "&sect;4", "an6.17:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha find when he checks on the mendicants after his own period "
+              "of meditation?",
+         "opts": [
+             "All the mendicants have already gone to sleep",
+             "Junior mendicants, newly gone forth, sleeping until sunrise and snoring, after the "
+             "senior disciples had returned to their own dwellings",
+             "The mendicants are all still meditating",
+             "The mendicants have left the monastery"],
+         "correct": 1,
+         "expl": "Seen with his clairvoyance, contrasted with the ten senior disciples named "
+                 "earlier."},
+        {"q": "How many senior disciples are named in the roll call at the start of this "
+              "discourse?",
+         "opts": ["Five", "Ten", "Two", "Twenty"],
+         "correct": 1,
+         "expl": "Sāriputta, Mahāmoggallāna, Mahākassapa, Mahākaccāna, Mahākoṭṭhita, Mahācunda, "
+                 "Mahākappina, Anuruddha, Revata, and Ānanda."},
+        {"q": "What three figures does the Buddha ask about in his rhetorical questions?",
+         "opts": [
+             "A farmer, a merchant, and a scholar",
+             "A king (and various officials down to a guild head), and finally an ascetic or "
+             "brahmin",
+             "Three different kings from different countries",
+             "Three of his own senior disciples"],
+         "correct": 1,
+         "expl": "An escalation from worldly power to the highest spiritual attainment, each "
+                 "receiving the same answer."},
+        {"q": "What is the answer given to each of the three questions?",
+         "opts": [
+             "'Yes, sir' — such cases are common",
+             "'No, sir' — no one has kept worldly standing or reached the ending of defilements "
+             "by indulging freely in sleep",
+             "The mendicants refuse to answer",
+             "Different answers are given to each question"],
+         "correct": 1,
+         "expl": "The same negative answer applies whether the claim concerns worldly power or "
+                 "the highest attainment."},
+        {"q": "Does the discourse instruct mendicants to forgo sleep entirely?",
+         "opts": [
+             "Yes, sleep is condemned outright",
+             "No — even the Buddha is shown resting after meditating; the target is indulgence, "
+             "sleeping 'as much as one likes,' not rest itself",
+             "Only senior disciples are permitted to sleep",
+             "The text does not address this question at all"],
+         "correct": 1,
+         "expl": "A caution against excess, not a blanket prohibition."},
+        {"q": "How does the guide connect AN 6.17 to AN 6.14 and 6.15?",
+         "opts": [
+             "There is no connection between them",
+             "Sleep was the third item in both discourses' list of six things not worth "
+             "relishing; AN 6.17 illustrates that abstract item with a concrete scene",
+             "AN 6.17 contradicts the teaching of AN 6.14 and 6.15",
+             "AN 6.17 replaces the six-item list with a new one"],
+         "correct": 1,
+         "expl": "A concrete narrative illustration following two more abstract, formula-based "
+                 "discourses."},
+        {"q": "What is significant about AN 6.17's setting, compared to the discourses "
+              "immediately before it in this chapter?",
+         "opts": [
+             "It is the first discourse in the chapter to state a setting at all",
+             "It restates the setting fresh at Sāvatthī, the first such restatement since AN 6.10",
+             "It is set at an entirely new location never mentioned before",
+             "Its setting is left deliberately unstated, like AN 6.11–6.15"],
+         "correct": 1,
+         "expl": "AN 6.11 through 6.15 gave no setting at all; AN 6.17 restates Sāvatthī "
+                 "explicitly."},
+        {"q": "What faculty does the Buddha use to see the sleeping junior mendicants?",
+         "opts": ["Clairaudience", "Clairvoyance, the divine eye", "Mind-reading", "Recollection of past lives"],
+         "correct": 1,
+         "expl": "Dibbacakkhu, already named among the six superhuman knowledges at AN 6.2."},
+        {"q": "What does the closing injunction ask mendicants to do?",
+         "opts": [
+             "Sleep even less than the junior mendicants already did",
+             "Guard their sense doors, eat in moderation, be dedicated to wakefulness, and "
+             "pursue the qualities on the side of awakening in the evening and toward dawn",
+             "Report any mendicant seen sleeping to a senior disciple",
+             "Meditate only during daylight hours"],
+         "correct": 1,
+         "expl": "A positive training instruction, not merely a prohibition."},
+        {"q": "What does <em>navā pabbajitā</em> mean?",
+         "opts": [
+             "Senior disciples of long standing",
+             "Newly gone forth — recently ordained mendicants",
+             "Lay followers who have not yet ordained",
+             "Mendicants who have left the community"],
+         "correct": 1,
+         "expl": "How the discourse describes the sleeping mendicants, distinct from the ten "
+                 "named seniors."},
+    ],
+    marginalia=[
+        ("Ten named seniors", [
+            "Sāriputta &middot; Mahāmoggallāna",
+            "Mahākassapa &middot; Mahākaccāna",
+            "Mahākoṭṭhita &middot; Mahācunda",
+            "Mahākappina &middot; Anuruddha",
+            "Revata &middot; Ānanda",
+        ]),
+        ("Three questions", [
+            "a king who indulges",
+            "officials down to a guild head",
+            "an ascetic reaching awakening",
+        ]),
+        ("Not against sleep itself", [
+            "even the Buddha rests",
+            "after meditating —",
+            "the target is indulgence",
+        ]),
+        ("Cross-references", [
+            "AN 6.14/6.15 &middot; sleep as one of six",
+            "AN 6.2 &middot; clairvoyance defined",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.18.html">AN 6.18 &middot; A Fish Dealer</a> &mdash; next, a difficult '
+        "discourse on livelihood and intention.",
+        '<a href="an-6.16.html">AN 6.16 &middot; Nakula&rsquo;s Father</a> &mdash; previous, an '
+        "earlier-published page in this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.18 — Macchabandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Macchabandha", "A Fish Dealer",
+    vagga=VAGGA_2,
+    meta_title="AN 6.18 — A Fish Dealer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Macchabandhasutta, in "
+        "which the Buddha uses the sight of a fish dealer to argue that killing livelihoods "
+        "never lead to prosperity, and extends the logic, briefly and starkly, to killing "
+        "people. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "On the road in the land of the Kosalans, at the sight of a fish dealer "
+                    "selling fish he had killed himself"),
+        ("Speakers", "The Buddha, addressing the mendicants traveling with him"),
+        ("Form", "A series of parallel rhetorical questions about killing-based livelihoods, "
+                 "closing with an explicit and severe extension to killing human beings"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Teachings against killing-based livelihood recur widely across "
+                              "the Chinese Āgamas and Vinaya literature; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short in length but harsh in "
+                       "content, closing on a line about killing people that this guide will not "
+                       "soften"),
+    ],
+    why=(
+        "This discourse is one of the harder texts to read plainly in this series so far. The "
+        "Buddha, seeing a fish dealer at work, asks whether killing-based trades ever produce "
+        "real prosperity, and after each denial supplies the same explanation: because the "
+        "practitioner regards the creature being led to slaughter with bad intentions. The "
+        "final line extends this reasoning explicitly to a person who regards <em>human "
+        "beings</em> brought to slaughter with the same bad intentions, naming that as grounds "
+        "for a bad rebirth. This reading guide states what the text says without softening it, "
+        "and without pretending the discourse settles every question a modern reader might "
+        "bring to it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Livelihoods built on killing &mdash; a fish dealer, a butcher of cattle, sheep, "
+            "pigs, or poultry, a deer-hunter &mdash; have never, in the Buddha's own claimed "
+            "experience, produced wealth, fine transport, or a large fortune, because the "
+            "practitioner regards the beings led to slaughter with bad intentions; the "
+            "discourse then states, starkly, that the same holds far worse for someone who "
+            "regards human beings brought to slaughter the same way."]),
+        ("What the discourse actually argues, and what it does not", [
+            "The argument is not that killing-based work is poorly paid as an economic "
+            "observation; it is a claim about karmic consequence, stated through a rhetorical "
+            "pattern of denial (&ldquo;have you ever seen or heard&hellip; No, sir&rdquo;) "
+            "repeated across five kinds of livelihood. The stated reason each time is identical: "
+            "&ldquo;because when the [animals] are led to the slaughter he regards them with bad "
+            "intentions.&rdquo; The discourse locates the harm in the killer's own state of "
+            "mind at the moment of killing, not in some external judgment about the trade "
+            "itself."]),
+        ("The final line, read directly", [
+            "The closing sentence &mdash; &ldquo;how much worse is someone who regards human "
+            "beings brought to the slaughter with bad intentions&rdquo; &mdash; almost certainly "
+            "refers to an executioner or a similar figure whose work is literally the killing "
+            "of condemned people, a recognized occupation named elsewhere in the canon among "
+            "livelihoods incompatible with the path. It is not a general statement about anger "
+            "toward other people in ordinary life. Even read this narrowly, it remains a severe "
+            "claim &mdash; that such a person is, on this discourse's own terms, reborn "
+            "&ldquo;in a place of loss, a bad place, the underworld, hell&rdquo; &mdash; and this "
+            "guide does not attempt to make that claim gentler than the text states it."]),
+        ("A note on what this discourse does not settle", [
+            "Readers today reasonably ask harder questions than this short text answers: what "
+            "of livelihoods that cause death indirectly, or unintentionally, or at industrial "
+            "scale and distance from any single killer's state of mind? The discourse is "
+            "narrowly built around a specific, visible act &mdash; a person directly killing "
+            "an animal or, in the closing line, a person &mdash; and its reasoning turns on the "
+            "killer's own regard in that moment. Extending it to other, less direct cases is an "
+            "inference a reader might draw, not a claim this short text makes explicitly."]),
+        ("Continuing the chapter's turn toward mortality", [
+            "Coming directly after AN 6.14, 6.15, and 6.17, all concerned in different ways with "
+            "how a mendicant relates to death, AN 6.18 shifts the lens outward: not a "
+            "mendicant's own dying, but the taking of life by others, witnessed on the road. The "
+            "chapter's final two discourses, AN 6.19 and 6.20, return the lens fully inward, to "
+            "a mendicant's own mindfulness of death."]),
+    ],
+    terms=[
+        ("macchabandha",
+         "&ldquo;fish dealer,&rdquo; literally &ldquo;fish binder/catcher&rdquo; &mdash; the "
+         "figure whose trade opens the discourse and gives it its title."),
+        ("vadhāya nīyamāne",
+         "&ldquo;being led to slaughter&rdquo; &mdash; the discourse's recurring phrase, applied "
+         "first to animals and then, in the closing line, to human beings."),
+        ("pāpakaṁ cittaṁ paccupaṭṭhāpeti",
+         "&ldquo;regards with bad intentions&rdquo; &mdash; the discourse's stated cause of harm "
+         "in every case, locating the fault in the killer's mental state."),
+        ("apāya",
+         "&ldquo;place of loss&rdquo; &mdash; one of the terms in the fourfold description of "
+         "the bad rebirth named at the discourse's close: place of loss, bad place, underworld, "
+         "hell."),
+        ("kosala",
+         "the Kosalan lands &mdash; where the Buddha was wandering with a large Saṅgha when the "
+         "encounter with the fish dealer occurred."),
+    ],
+    text_intro=(
+        "The discourse in full, without abridgment: the fish dealer, the parallel questions "
+        "about other killing trades, and the closing line about human beings. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The fish dealer on the road"),
+        ("p", "&sect;1", "an6.18:1.1-1.6"),
+        ("h3", "The fish dealer and the cattle butcher"),
+        ("p", "&sect;2", "an6.18:2.1-3.9"),
+        ("h3", "Sheep, pigs, poultry, deer — and the closing line"),
+        ("p", "&sect;3", "an6.18:4.1-4.16"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha see that prompts this discourse?",
+         "opts": [
+             "A farmer plowing a field",
+             "A fish dealer selling fish he had killed himself",
+             "A group of mendicants arguing",
+             "A merchant cheating a customer"],
+         "correct": 1,
+         "expl": "The sight leads the Buddha to leave the road and address the mendicants "
+                 "traveling with him."},
+        {"q": "What claim does the Buddha make about killing-based livelihoods?",
+         "opts": [
+             "That they are illegal and should be reported",
+             "That he has never seen or heard of such a livelihood producing wealth, fine "
+             "transport, or a large fortune",
+             "That they are acceptable as long as performed skillfully",
+             "That only fish dealers, not other killing trades, are affected"],
+         "correct": 1,
+         "expl": "Repeated across fish dealer, cattle butcher, and butchers of sheep, pigs, "
+                 "poultry, and deer-hunters."},
+        {"q": "What reason does the discourse give, each time, for why these livelihoods do not "
+              "prosper?",
+         "opts": [
+             "Because society condemns such trades",
+             "Because the practitioner regards the animals led to slaughter with bad intentions",
+             "Because the work is physically exhausting",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "The discourse locates the harm in the killer's own state of mind at the moment "
+                 "of killing."},
+        {"q": "How does the guide interpret the discourse's closing line about human beings "
+              "'brought to the slaughter'?",
+         "opts": [
+             "As a general statement about feeling anger toward other people in ordinary life",
+             "As almost certainly referring to an executioner or similar figure whose work is "
+             "literally killing condemned people — a recognized occupation named elsewhere in "
+             "the canon, not a claim about ordinary interpersonal anger",
+             "As a later scribal error that should be disregarded",
+             "As referring to soldiers in battle specifically"],
+         "correct": 1,
+         "expl": "A narrow reading tied to the discourse's own logic, not stretched beyond what "
+                 "the text states."},
+        {"q": "What does the guide say this discourse does NOT settle?",
+         "opts": [
+             "Everything a modern reader might ask — the discourse is treated as fully "
+             "comprehensive",
+             "Harder questions about livelihoods that cause death indirectly, unintentionally, "
+             "or at industrial scale and distance from any single killer's state of mind",
+             "The discourse settles nothing at all and should be disregarded",
+             "Whether killing is ever acceptable under any circumstances"],
+         "correct": 1,
+         "expl": "The guide is explicit that extending the text's narrow reasoning to other "
+                 "cases is an inference, not a claim the text itself makes."},
+        {"q": "What does the discourse say happens to someone who regards human beings brought "
+              "to slaughter with bad intentions?",
+         "opts": [
+             "Nothing — the text stops short of any consequence",
+             "They are reborn in a place of loss, a bad place, the underworld, hell",
+             "They are simply advised to change professions",
+             "They are praised for their honesty about their work"],
+         "correct": 1,
+         "expl": "A severe claim the guide states directly rather than softening."},
+        {"q": "How does this discourse relate to the chapter's surrounding material on death?",
+         "opts": [
+             "It is entirely unrelated to any surrounding theme",
+             "It shifts the chapter's lens outward — from a mendicant's own dying (AN 6.14, "
+             "6.15) to the taking of life by others, before AN 6.19–20 return inward to a "
+             "mendicant's own mindfulness of death",
+             "It replaces the death theme with an economic argument only",
+             "It directly continues AN 6.17's narrative about sleeping mendicants"],
+         "correct": 1,
+         "expl": "A pivot point within the chapter's broader concern with mortality."},
+        {"q": "What five killing-trades are named before the closing line about human beings?",
+         "opts": [
+             "Farmer, merchant, blacksmith, potter, weaver",
+             "Fish dealer, cattle butcher, sheep butcher, pig butcher, poultry butcher, and "
+             "deer-hunter",
+             "Soldier, executioner, jailer, tax collector, moneylender",
+             "Only the fish dealer is named"],
+         "correct": 1,
+         "expl": "Six killing-based livelihoods in total, each receiving the identical "
+                 "question-and-denial pattern."},
+        {"q": "Where is AN 6.18 set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove",
+             "On the road, while the Buddha was wandering in the land of the Kosalans with a "
+             "large Saṅgha",
+             "At Kapilavatthu, among the Sakyans",
+             "At Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "A traveling scene, prompted directly by what the Buddha and the mendicants "
+                 "encountered on the road."},
+        {"q": "What does the guide say about its own approach to this discourse's harsh content?",
+         "opts": [
+             "It omits the difficult closing line entirely",
+             "It states what the text says without softening it, while being explicit about what "
+             "the text does and does not claim",
+             "It argues the text is mistranslated and should be corrected",
+             "It refuses to discuss the discourse's content at all"],
+         "correct": 1,
+         "expl": "A direct, honest reading rather than a smoothed-over paraphrase."},
+    ],
+    marginalia=[
+        ("Six killing trades", [
+            "fish dealer &middot; cattle",
+            "sheep &middot; pigs &middot; poultry",
+            "deer-hunter",
+        ]),
+        ("The stated cause", [
+            "not the trade itself,",
+            "but bad intentions at",
+            "the moment of killing",
+        ]),
+        ("The closing line", [
+            "extended, starkly, to",
+            "one who kills people —",
+            "likely an executioner",
+        ]),
+        ("What this text doesn't settle", [
+            "indirect or distant",
+            "causes of death —",
+            "not addressed here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.19.html">AN 6.19 &middot; Mindfulness of Death (1st)</a> &mdash; next, '
+        "returning to a mendicant's own relationship with mortality.",
+        '<a href="an-6.17.html">AN 6.17 &middot; Sleep</a> &mdash; previous, a different '
+        "narrative discourse from the same road-and-monastery setting.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.19 — Paṭhamamaraṇassatisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, "Paṭhamamaraṇassati", "Mindfulness of Death (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 6.19 — Mindfulness of Death (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamamaraṇassatisutta, "
+        "in which seven mendicants each report their own practice of mindfulness of death, and "
+        "the Buddha ranks their answers as negligent or diligent. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, in the brick house — a fresh setting, shared with AN 6.20"),
+        ("Speakers", "The Buddha and seven unnamed mendicants, in turn"),
+        ("Form", "A question put to the assembly, seven individual answers, and the Buddha's "
+                 "own ranking of them into two grades"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Mindfulness of death (maraṇasati/maraṇānusmṛti) is a widely "
+                              "attested practice across the Chinese Āgamas and later Buddhist "
+                              "literature; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a clear, escalating dialogue "
+                       "structure, easy to follow despite its serious subject"),
+    ],
+    why=(
+        "The Buddha asks the assembly directly whether they develop mindfulness of death, and "
+        "seven mendicants answer in turn, each naming a shorter span of assumed remaining life: "
+        "a day and a night, then a day, then the time to eat a meal, then four or five "
+        "mouthfuls, then a single mouthful, then finally the time of one breath. All seven "
+        "describe what sounds like the same practice at different scales &mdash; and the "
+        "Buddha's verdict is that only the last two count as genuinely diligent. This discourse "
+        "gives its own criterion for what makes mindfulness of death rigorous rather than "
+        "merely notional."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of seven mendicants who each report developing mindfulness of death by reflecting "
+            "on how much they could accomplish if they had only some short remaining span of "
+            "life, the Buddha calls the five who named a day and night down to a few mouthfuls "
+            "negligent, and only the two who named a single mouthful or a single breath "
+            "diligent."]),
+        ("A single practice, tested at shrinking scales", [
+            "Every one of the seven answers follows the identical form: &ldquo;Oh, if I'd only "
+            "live for &hellip;, I'd focus on the Buddha's instructions and I could really "
+            "achieve a lot.&rdquo; What varies is only the assumed remaining span &mdash; a day "
+            "and night, a day, a meal, four or five mouthfuls, one mouthful, one breath. The "
+            "discourse does not ask mendicants to imagine different content; it asks how short a "
+            "span they are willing to take seriously as possibly their last."]),
+        ("Where the Buddha draws the line, and why", [
+            "The cutoff falls between &ldquo;four or five mouthfuls&rdquo; and &ldquo;a single "
+            "mouthful&rdquo; &mdash; a distinction that might look arbitrary stated baldly, but "
+            "the discourse's own logic is about the interval between successive checks. A "
+            "mendicant who only reflects on death across the span of an entire meal has, within "
+            "that meal, many moments where the reflection has gone stale; one who reflects at "
+            "the scale of a single mouthful, or a single breath, is renewing the reflection "
+            "continuously enough that negligence has no room to creep in between checks."]),
+        ("Negligence, not the content of the reflection, is being judged", [
+            "It would be a misreading to conclude the Buddha is dismissing the first five "
+            "mendicants' sincerity or effort. He does not question whether they meant what they "
+            "said; the discourse explicitly names their practice &ldquo;slack&rdquo; "
+            "(<em>pamattā</em>) rather than false or insincere. The distinction drawn is about "
+            "rigor of application, not honesty of intention."]),
+        ("Setting up AN 6.20's fuller method", [
+            "This discourse names a criterion &mdash; frequency of renewal &mdash; without "
+            "describing what a mendicant actually reflects on beyond the bare formula of wishing "
+            "for more time. AN 6.20, immediately following and sharing this discourse's setting "
+            "at Ñātika, supplies that fuller content: a nightly and daily checklist of specific "
+            "causes of death and unabandoned unskillful qualities, with its own simile of "
+            "urgency, clothes or head on fire."]),
+    ],
+    terms=[
+        ("maraṇassati",
+         "&ldquo;mindfulness of death&rdquo; &mdash; the practice this discourse and its "
+         "companion, AN 6.20, both concern."),
+        ("amatogadha",
+         "not named directly in this discourse but the term elsewhere for what mindfulness of "
+         "death is said to have as its objective: &ldquo;freedom from death,&rdquo; here "
+         "rendered simply as its stated culmination."),
+        ("pamatta",
+         "&ldquo;negligent,&rdquo; &ldquo;slack&rdquo; &mdash; the Buddha's verdict on the five "
+         "mendicants whose reflection spans a day and night down to a few mouthfuls."),
+        ("appamatta",
+         "&ldquo;diligent,&rdquo; &ldquo;heedful&rdquo; &mdash; the verdict on the two "
+         "mendicants whose reflection renews at the scale of a single mouthful or a single "
+         "breath."),
+        ("āsavānaṁ khayāya",
+         "&ldquo;for the ending of defilements&rdquo; &mdash; the stated purpose toward which "
+         "diligent mendicants are said to keenly develop mindfulness of death."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's question, seven mendicants' answers, and his "
+        "ranking of them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Ñātika: the Buddha's question"),
+        ("p", "&sect;1", "an6.19:1.1-1.7"),
+        ("h3", "Seven mendicants answer in turn"),
+        ("p", "&sect;2", "an6.19:2.1-7.6"),
+        ("h3", "The Buddha's verdict: negligent and diligent"),
+        ("p", "&sect;3", "an6.19:8.1-16.3"),
+    ],
+    quiz=[
+        {"q": "What form do all seven mendicants' answers share?",
+         "opts": [
+             "Each names a completely different practice",
+             "Each follows the identical form: wishing for a short remaining span of life in "
+             "order to focus on the Buddha's instructions, varying only the length of that span",
+             "Each recites a different verse",
+             "Each describes a different meditative absorption"],
+         "correct": 1,
+         "expl": "A day and night, a day, a meal, several mouthfuls, one mouthful, one breath — "
+                 "the same structure at shrinking scales."},
+        {"q": "Where does the Buddha draw the line between negligent and diligent practice?",
+         "opts": [
+             "Between a day and night and a single day",
+             "Between four or five mouthfuls and a single mouthful",
+             "There is no line drawn — all seven are equally praised",
+             "Between a single breath and a single mouthful"],
+         "correct": 1,
+         "expl": "The five longer spans are called negligent; the shortest two, single mouthful "
+                 "and single breath, are called diligent."},
+        {"q": "According to the guide, what is the actual logic behind where this line falls?",
+         "opts": [
+             "It is arbitrary and the text gives no reasoning",
+             "It concerns the interval between successive checks — a longer span leaves room for "
+             "the reflection to go stale before it's renewed",
+             "It reflects seniority among the mendicants",
+             "It is based on which mendicant spoke first"],
+         "correct": 1,
+         "expl": "Frequency of renewal, not merely sincerity, is what separates the two grades."},
+        {"q": "Does the Buddha's verdict question the first five mendicants' sincerity?",
+         "opts": [
+             "Yes — he accuses them of lying",
+             "No — the discourse explicitly calls their practice 'slack' rather than false or "
+             "insincere; the distinction is about rigor, not honesty of intention",
+             "The text does not address this question",
+             "Yes — he expels them from the assembly"],
+         "correct": 1,
+         "expl": "A judgment about application, not about the mendicants' truthfulness."},
+        {"q": "What does <em>pamatta</em> mean?",
+         "opts": ["Diligent, heedful", "Negligent, slack", "Awakened", "Compassionate"],
+         "correct": 1,
+         "expl": "The Buddha's verdict on the five longer-span answers."},
+        {"q": "Where is AN 6.19 set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Ñātika, in the brick house",
+             "Kapilavatthu, among the Sakyans",
+             "On the road in the land of the Kosalans"],
+         "correct": 1,
+         "expl": "A fresh setting, shared with the discourse immediately following, AN 6.20."},
+        {"q": "What does AN 6.20 add that AN 6.19 does not supply?",
+         "opts": [
+             "Nothing — the two discourses are identical",
+             "A fuller method: specific causes of death and unabandoned unskillful qualities to "
+             "check nightly and daily, with its own simile of urgency",
+             "A contradiction of AN 6.19's criterion",
+             "An entirely unrelated teaching on generosity"],
+         "correct": 1,
+         "expl": "AN 6.19 names a criterion (frequency); AN 6.20 supplies detailed content."},
+        {"q": "What is mindfulness of death said to have as its objective and culmination?",
+         "opts": [
+             "Rebirth as a deity", "Freedom from death", "Material prosperity", "Fame among "
+             "other mendicants"],
+         "correct": 1,
+         "expl": "Stated at the discourse's opening, before the seven mendicants answer."},
+        {"q": "How many mendicants answer the Buddha's question in this discourse?",
+         "opts": ["Three", "Five", "Seven", "Ten"],
+         "correct": 2,
+         "expl": "Seven separate answers, each at a shorter assumed span than the last."},
+        {"q": "What is the shortest span named by any of the seven mendicants?",
+         "opts": [
+             "A single day",
+             "The time it takes to breathe out after breathing in, or breathe in after breathing "
+             "out",
+             "A single mouthful of food",
+             "An hour"],
+         "correct": 1,
+         "expl": "The seventh and final answer, paired with 'a single mouthful' as the two "
+                 "diligent grades."},
+    ],
+    marginalia=[
+        ("Seven spans named", [
+            "day &amp; night &middot; a day",
+            "one meal &middot; 4&ndash;5 bites",
+            "one bite &middot; one breath",
+        ]),
+        ("The cutoff", [
+            "negligent: day down to",
+            "several mouthfuls",
+            "diligent: one bite, one breath",
+        ]),
+        ("What's being judged", [
+            "not sincerity —",
+            "frequency of renewal,",
+            "how long between checks",
+        ]),
+        ("Cross-references", [
+            "AN 6.18 &middot; previous, a hard discourse",
+            "AN 6.20 &middot; next, the fuller method",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.20.html">AN 6.20 &middot; Mindfulness of Death (2nd)</a> &mdash; next, '
+        "closing the chapter with the fuller method.",
+        '<a href="an-6.18.html">AN 6.18 &middot; A Fish Dealer</a> &mdash; previous, a difficult '
+        "discourse on livelihood and killing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.20 — Dutiyamaraṇassatisutta
+# --------------------------------------------------------------------------- #
+page(
+    20, "Dutiyamaraṇassati", "Mindfulness of Death (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 6.20 — Mindfulness of Death (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyamaraṇassatisutta, "
+        "closing the Sāraṇīyavagga with the full method of mindfulness of death: a nightly and "
+        "daily checklist, and the simile of clothes or head on fire. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Ñātika, in the brick house — restated fresh, matching AN 6.19"),
+        ("Speakers", SPEAKER),
+        ("Form", "A named method, given twice &mdash; once for evening, once for morning "
+                 "&mdash; each with an identical simile of urgency"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "As with AN 6.19, mindfulness of death recurs widely across the "
+                              "Chinese Āgamas and later literature; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a fuller, more procedural "
+                       "teaching than AN 6.19, worth reading slowly for its structure"),
+    ],
+    why=(
+        "AN 6.19 named a criterion &mdash; how frequently the reflection on death is renewed "
+        "&mdash; without saying what, specifically, a mendicant should reflect on. AN 6.20, "
+        "closing the chapter, supplies that content in full: as day turns to night, and again as "
+        "night turns to day, a mendicant runs through the many ordinary ways death could arrive "
+        "&mdash; snakebite, a fall, food poisoning, illness &mdash; and asks whether any "
+        "unabandoned unskillful quality would obstruct their progress if death came before the "
+        "next check. What follows from that question, in either direction, is stated with the "
+        "same urgency twice: extraordinary effort if the answer is yes, sustained joyful "
+        "practice if the answer is no."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Twice daily &mdash; as day passes into night, and as night passes into day &mdash; a "
+            "mendicant should reflect on the many ordinary causes of death, check whether any "
+            "unabandoned unskillful quality would be an obstacle if death came before the next "
+            "check, and respond either with extraordinary urgency to give up such qualities or "
+            "with rapture and joy in continued skillful training."]),
+        ("A concrete, unglamorous list of causes", [
+            "The discourse does not speak abstractly of mortality; it names specific, mundane "
+            "hazards &mdash; snakebite, scorpion or centipede sting, stumbling off a cliff, food "
+            "poisoning, disturbance of bile, phlegm, or the bodily &ldquo;winds&rdquo; &mdash; the "
+            "kind of dangers any person, not only a mendicant, might reasonably imagine facing "
+            "on an ordinary night or day. Death here is not a distant abstraction to be "
+            "philosophized about but a near, mundane possibility to be checked against, twice "
+            "within one day."]),
+        ("The question that follows the reflection", [
+            "Naming causes of death is only the first step; the discourse's actual instruction "
+            "is the question that follows: &ldquo;Are there any bad, unskillful qualities that I "
+            "haven't given up, which might be an obstacle to my progress if I die "
+            "tonight?&rdquo; &mdash; or, in the morning version, &ldquo;today.&rdquo; Mindfulness "
+            "of death, on this discourse's terms, is not primarily about dwelling on death "
+            "itself; it is a device for surfacing exactly what remains unfinished in one's own "
+            "practice, on a fixed and frequent schedule."]),
+        ("The simile: clothes or head on fire", [
+            "For a mendicant who finds unabandoned unskillful qualities upon checking, the "
+            "discourse prescribes a response measured against a stock canonical image of "
+            "maximum urgency: someone whose clothes or head have caught fire would apply "
+            "&ldquo;extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, "
+            "and situational awareness&rdquo; to extinguish it, and giving up unskillful "
+            "qualities should be met with the identical seven-part urgency."]),
+        ("Closing the chapter on a doubled structure", [
+            "AN 6.20 states its method twice &mdash; evening and morning &mdash; in nearly "
+            "identical wording, closing the Sāraṇīyavagga on a note of sustained, twice-daily "
+            "practice rather than a single teaching given once. The chapter that opened on "
+            "warmth between spiritual companions closes, ten discourses later, on what a "
+            "mendicant owes to their own unfinished practice, checked against the plain fact "
+            "that today or tonight might be the last chance to address it."]),
+    ],
+    terms=[
+        ("maraṇassati",
+         "&ldquo;mindfulness of death&rdquo; &mdash; unchanged in name from AN 6.19, now given "
+         "its full method."),
+        ("antarāyika",
+         "&ldquo;an obstacle,&rdquo; &ldquo;obstructive&rdquo; &mdash; what an unabandoned "
+         "unskillful quality is said to be, to a mendicant's progress, if death arrived before "
+         "it were given up."),
+        ("ussukkaṁ āpajjeyya",
+         "&ldquo;should apply extraordinary effort&rdquo; &mdash; the instruction following a "
+         "positive check, paired with the fire simile."),
+        ("pāmojja",
+         "&ldquo;rapture and joy&rdquo; &mdash; what a mendicant who finds no unabandoned "
+         "unskillful qualities is instructed to meditate with instead, training day and night in "
+         "skillful qualities."),
+        ("amatogadha",
+         "&ldquo;freedom from death as its objective and culmination&rdquo; &mdash; the closing "
+         "restatement, shared with AN 6.19, of what mindfulness of death is ultimately for."),
+    ],
+    text_intro=(
+        "The discourse in full: the evening reflection and the morning reflection, each closing "
+        "with the fire simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Ñātika: the question restated"),
+        ("p", "&sect;1", "an6.20:1.1-1.4"),
+        ("h3", "The evening reflection"),
+        ("p", "&sect;2", "an6.20:2.1-4.2"),
+        ("h3", "The morning reflection"),
+        ("p", "&sect;3", "an6.20:5.1-7.2"),
+        ("h3", "The conclusion"),
+        ("p", "&sect;4", "an6.20:8.1"),
+    ],
+    quiz=[
+        {"q": "How often does AN 6.20 instruct a mendicant to run through its reflection?",
+         "opts": [
+             "Once, at the start of practice",
+             "Twice daily — as day passes into night, and as night passes into day",
+             "Only on special observance days",
+             "Once a week"],
+         "correct": 1,
+         "expl": "A doubled structure, evening and morning, in nearly identical wording."},
+        {"q": "What kind of causes of death does the discourse name?",
+         "opts": [
+             "Abstract philosophical categories of impermanence",
+             "Concrete, mundane hazards — snakebite, scorpion or centipede sting, a fall, food "
+             "poisoning, bodily disturbances",
+             "Only death by old age",
+             "Only death in battle"],
+         "correct": 1,
+         "expl": "Ordinary dangers anyone might imagine facing on a given night or day."},
+        {"q": "What is the actual question a mendicant is instructed to ask after naming these "
+              "causes?",
+         "opts": [
+             "Whether they are afraid to die",
+             "Whether there are any unabandoned unskillful qualities that would be an obstacle "
+             "to their progress if death came before the next check",
+             "Whether their meditation cushion needs replacing",
+             "Whether other mendicants are more advanced than they are"],
+         "correct": 1,
+         "expl": "A device for surfacing what remains unfinished in one's own practice, checked "
+                 "on a fixed schedule."},
+        {"q": "What simile does the discourse use for the urgency required if unskillful "
+              "qualities are found?",
+         "opts": [
+             "A boat crossing a flood",
+             "Someone whose clothes or head have caught fire, applying extraordinary "
+             "enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational "
+             "awareness to extinguish it",
+             "A farmer plowing a field before the rains",
+             "A physician diagnosing an illness"],
+         "correct": 1,
+         "expl": "A stock canonical image of maximum urgency, applied here to giving up "
+                 "unskillful qualities."},
+        {"q": "What should a mendicant do if the check finds no unabandoned unskillful "
+              "qualities?",
+         "opts": [
+             "Stop practicing mindfulness of death entirely",
+             "Meditate with rapture and joy, training day and night in skillful qualities",
+             "Report their attainment to the Buddha immediately",
+             "Begin teaching other mendicants"],
+         "correct": 1,
+         "expl": "A positive outcome met with sustained joyful practice, not complacency."},
+        {"q": "According to the guide, what is mindfulness of death primarily about, on this "
+              "discourse's terms?",
+         "opts": [
+             "Dwelling on death itself as an end in its own right",
+             "A device for surfacing exactly what remains unfinished in one's own practice, on a "
+             "fixed and frequent schedule",
+             "Preparing funeral arrangements",
+             "Convincing others of the inevitability of death"],
+         "correct": 1,
+         "expl": "Not morbid dwelling, but a practical checking device."},
+        {"q": "Where is AN 6.20 set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Ñātika, in the brick house — matching AN 6.19",
+             "Kapilavatthu",
+             "On the road among the Kosalans"],
+         "correct": 1,
+         "expl": "A fresh restatement of the same setting shared with AN 6.19."},
+        {"q": "What relationship does the guide draw between AN 6.19 and AN 6.20?",
+         "opts": [
+             "They are unrelated teachings placed together by coincidence",
+             "AN 6.19 names a criterion of frequency without content; AN 6.20 supplies the full "
+             "method and content of what to actually reflect on",
+             "AN 6.20 contradicts AN 6.19's ranking of negligent and diligent practice",
+             "AN 6.20 is addressed only to lay followers, unlike AN 6.19"],
+         "correct": 1,
+         "expl": "A companion pair completing one teaching across two discourses."},
+        {"q": "What does the guide say about how the chapter closes?",
+         "opts": [
+             "On an unrelated note, disconnected from its opening",
+             "On a note of sustained, twice-daily practice — moving from the chapter's opening "
+             "concern with warmth between companions to what a mendicant owes their own "
+             "unfinished practice",
+             "With a warning against ever practicing mindfulness of death",
+             "By repeating the worthiness formula from AN 6.1"],
+         "correct": 1,
+         "expl": "A shift in register across the chapter's ten discourses, from communal warmth "
+                 "to individual urgency."},
+        {"q": "What does <em>antarāyika</em> mean?",
+         "opts": ["Helpful, supportive", "An obstacle, obstructive", "Joyful", "Compassionate"],
+         "correct": 1,
+         "expl": "What an unabandoned unskillful quality is said to be to a mendicant's "
+                 "progress."},
+    ],
+    marginalia=[
+        ("Twice daily", [
+            "evening: day into night",
+            "morning: night into day",
+            "same method, restated",
+        ]),
+        ("Mundane causes named", [
+            "snakebite &middot; sting",
+            "a fall &middot; food poisoning",
+            "bodily disturbance",
+        ]),
+        ("The fire simile", [
+            "clothes or head aflame —",
+            "extraordinary urgency,",
+            "applied to practice",
+        ]),
+        ("Cross-references", [
+            "AN 6.19 &middot; previous, the criterion",
+            "AN 6.11 &middot; the chapter's opening theme",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.20/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.19.html">AN 6.19 &middot; Mindfulness of Death (1st)</a> &mdash; previous, '
+        "the criterion this discourse fills out with full content.",
+        '<a href="an-6.11.html">AN 6.11 &middot; Warm-hearted (1st)</a> &mdash; this '
+        "chapter&rsquo;s opening, for contrast with where it closes.",
+    ],
+)
