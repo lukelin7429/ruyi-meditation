@@ -1973,3 +1973,2005 @@ page(
         "opening this same chapter.",
     ],
 )
+
+
+VAGGA_2 = "<em>Mahāvagga</em> &mdash; the second chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.11 — Verañjasutta — opens ch.2 Mahāvagga
+# --------------------------------------------------------------------------- #
+page(
+    11, "Verañja", "At Verañjā",
+    vagga=VAGGA_2,
+    meta_title="AN 8.11 — At Verañjā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Verañjasutta, opening this chapter with the brahmin Verañja's eight "
+        "hostile epithets for the Buddha, each accepted and reinterpreted, "
+        "followed by the Buddha's own first-person account of his awakening. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Verañjā, at the root of a neem tree dedicated to Naḷeru "
+                    "&mdash; a location unique to this discourse and the next"),
+        ("Speakers", "The brahmin Verañja and the Buddha, in direct dialogue"),
+        ("Form", "Eight hostile epithets, each accepted in a reinterpreted "
+                 "sense and then set aside, followed by the chicken-and-egg "
+                 "simile and the Buddha's own first-person account of the "
+                 "three knowledges of his awakening night"),
+        ("Length", "~6 minutes to read"),
+        ("A famous, substantial discourse", "This opens the chapter's own "
+                                            "title theme, and is among the "
+                                            "tradition's most-cited first-"
+                                            "person accounts of the Buddha's "
+                                            "own awakening"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; long, with "
+                       "eight repeated exchanges and then a sustained "
+                       "first-person narrative of deep meditative attainment"),
+    ],
+    why=(
+        "The brahmin Verañja confronts the Buddha with eight hostile "
+        "epithets &mdash; that he lacks taste, is indelicate, teaches "
+        "inaction, teaches annihilation, is disgusted, is an exterminator, is "
+        "a mortifier, and is immature &mdash; and the Buddha accepts each one "
+        "in a sense of his own choosing, entirely different from what Verañja "
+        "meant, before giving a chicken-and-egg simile and his own first-"
+        "person account of the three knowledges that broke him free of "
+        "ignorance."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each of Verañja's eight hostile epithets can rightly be said of "
+            "the Buddha &mdash; but only in a sense of the Buddha's own "
+            "choosing, always about abandoning what is unskillful, never in "
+            "the accusatory sense Verañja intended; and the Buddha's own "
+            "claim to be the eldest and first in the world rests on his "
+            "direct account of the three knowledges realized on the night of "
+            "his awakening."]),
+        ("Eight epithets, eight reinterpretations", [
+            "Verañja calls the Buddha, in turn: lacking taste, indelicate, a "
+            "teacher of inaction, a teacher of annihilation, disgusted, an "
+            "exterminator, a mortifier, and immature. Each time, the Buddha "
+            "agrees &mdash; but redefines the term around abandoning craving, "
+            "delight, or unskillful conduct, cut off at the root like a palm "
+            "stump, then closes with the same refrain: &ldquo;but that's not "
+            "what you're talking about.&rdquo;"]),
+        ("The chicken-and-egg simile, and a claim to be eldest", [
+            "Having set aside all eight accusations, the Buddha turns the "
+            "conversation with a simile: of many eggs incubated together, the "
+            "chick that breaks out first is rightly called the eldest, not "
+            "the youngest. In a population lost in ignorance, swaddled in "
+            "their shells, the Buddha claims to be the one who broke the egg "
+            "of ignorance first, making him the eldest and first in the "
+            "world."]),
+        ("Three knowledges, told in the Buddha's own words", [
+            "The Buddha then narrates, in first person, the four "
+            "absorptions and the three knowledges of his awakening night: "
+            "recollection of his own past lives in the first watch, the "
+            "death and rebirth of other beings according to their deeds in "
+            "the middle watch, and the ending of the defilements in the last "
+            "watch &mdash; each called a &ldquo;breaking out,&rdquo; like a "
+            "chick from its shell. Verañja, persuaded, goes for refuge as a "
+            "lay follower for life."]),
+    ],
+    terms=[
+        ("rasapaṭisaṁvedī, arasarūpo",
+         "&ldquo;lacks taste, indelicate&rdquo; &mdash; the first two of "
+         "Verañja's eight epithets, each reinterpreted around the Buddha's "
+         "own abandonment of taste and delight for sense objects."),
+        ("akiriyavādo, ucchedavādo",
+         "&ldquo;teacher of inaction, teacher of annihilationism&rdquo; "
+         "&mdash; the third and fourth epithets, redefined around the "
+         "cessation of unskillful qualities and defilements, not doctrine "
+         "denying moral consequence."),
+        ("jegucchī, venayiko, tapassī, apagabbho",
+         "&ldquo;disgusted, exterminator, mortifier, immature&rdquo; &mdash; "
+         "the remaining four epithets, each reinterpreted the same way, "
+         "closing with the recurring refrain that this isn't what Verañja "
+         "meant."),
+        ("jeṭṭho seṭṭho lokassa",
+         "&ldquo;the eldest and first in the world&rdquo; &mdash; the "
+         "Buddha's own claim, following the chicken-and-egg simile, to have "
+         "been the first to break out of ignorance."),
+        ("tisso vijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; recollection of past "
+         "lives, the death and rebirth of beings, and the ending of "
+         "defilements, the three &ldquo;breakings-out&rdquo; of the "
+         "awakening night, told here in the Buddha's own first-person voice."),
+    ],
+    text_intro=(
+        "The discourse in full: Verañja's eight epithets, the chicken-and-egg "
+        "simile, and the Buddha's own account of his awakening. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and Verañja's opening accusation"),
+        ("p", "&sect;1", "an8.11:1.1-2.7"),
+        ("h3", "Eight epithets, each reinterpreted"),
+        ("p", "&sect;2", "an8.11:3.1-10.7"),
+        ("h3", "The chicken-and-egg simile"),
+        ("p", "&sect;3", "an8.11:11.1-12.2"),
+        ("h3", "The four absorptions"),
+        ("p", "&sect;4", "an8.11:13.1-13.5"),
+        ("h3", "The three knowledges"),
+        ("p", "&sect;5", "an8.11:14.1-19.3"),
+        ("h3", "Verañja goes for refuge"),
+        ("p", "&sect;6", "an8.11:20.1-20.6"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond to each of Verañja's eight hostile "
+              "epithets?",
+         "opts": [
+             "By denying every one of them",
+             "By accepting each one, but only in a sense of his own choosing "
+             "— always about abandoning what is unskillful, never what "
+             "Verañja meant",
+             "By ignoring the accusations entirely",
+             "By becoming angry and ending the conversation"],
+         "correct": 1,
+         "expl": "Acceptance with reinterpretation, closing each with 'but "
+                 "that's not what you're talking about.'"},
+        {"q": "What does the chicken-and-egg simile illustrate?",
+         "opts": [
+             "That age should always be respected",
+             "That the chick first to break out of its shell is rightly "
+             "called the eldest — as the Buddha claims to be, breaking the "
+             "egg of ignorance first",
+             "That eggs should never be disturbed",
+             "That Verañja himself is the eldest"],
+         "correct": 1,
+         "expl": "A claim to priority based on who broke free first, not on "
+                 "chronological birth order."},
+        {"q": "What are the three knowledges the Buddha describes realizing "
+              "on his awakening night?",
+         "opts": [
+             "The four noble truths, the eightfold path, and dependent "
+             "origination",
+             "Recollection of his own past lives, the death and rebirth of "
+             "other beings according to their deeds, and the ending of the "
+             "defilements",
+             "The five aggregates, the six senses, and the seven awakening "
+             "factors",
+             "Three kinds of miraculous power"],
+         "correct": 1,
+         "expl": "One knowledge per watch of the night, each called a "
+                 "'breaking out.'"},
+        {"q": "What happens at the end of this discourse?",
+         "opts": [
+             "Verañja leaves unconvinced",
+             "Verañja goes for refuge to the Buddha, the teaching, and the "
+             "Saṅgha as a lay follower for life",
+             "Verañja challenges the Buddha to a debate",
+             "The discourse ends without resolution"],
+         "correct": 1,
+         "expl": "A full conversion, closing the dialogue."},
+        {"q": "According to the guide, what does the Buddha's response to "
+              "each epithet consistently reinterpret it around?",
+         "opts": [
+             "Physical strength and endurance",
+             "Abandoning craving, delight, or unskillful conduct — cut off "
+             "at the root like a palm stump",
+             "Wealth and social status",
+             "Skill in public debate"],
+         "correct": 1,
+         "expl": "A consistent redefinition around inner abandonment, not "
+                 "the accusatory sense intended."},
+        {"q": "What does 'teacher of annihilationism' come to mean, in the "
+              "Buddha's own reinterpretation?",
+         "opts": [
+             "Denying any afterlife or moral consequence",
+             "Teaching the annihilation of greed, hate, and delusion",
+             "Teaching that the self is annihilated at death",
+             "Advocating for the destruction of property"],
+         "correct": 1,
+         "expl": "Not metaphysical annihilationism, but the ending of "
+                 "defilements."},
+    ],
+    marginalia=[
+        ("Eight epithets, reclaimed", [
+            "lacks taste, indelicate,",
+            "teacher of inaction, annihilation —",
+            "each redefined, each set aside",
+        ]),
+        ("The chick that breaks out first", [
+            "not born first, but freed first —",
+            "the egg of ignorance broken —",
+            "'I am the eldest in the world'",
+        ]),
+        ("Three knowledges, one night", [
+            "past lives · beings' rebirth ·",
+            "the ending of defilements —",
+            "three watches, three breakings-out",
+        ]),
+        ("Cross-references", [
+            "AN 8.10 &middot; earlier, closing the previous chapter",
+            "AN 8.12 &middot; next, the same eight epithets echoed for "
+            "General Sīha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.10.html">AN 8.10 &middot; Trash</a> &mdash; earlier, closing the '
+        "previous chapter.",
+        '<a href="an-8.12.html">AN 8.12 &middot; With Sīha</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.12 — Sīhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Sīha", "With Sīha",
+    vagga=VAGGA_2,
+    meta_title="AN 8.12 — With Sīha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sīhasutta, in which the Jain general Sīha overcomes his teachers' "
+        "warnings to visit the Buddha, hears eight epithets reinterpreted "
+        "once again, converts, and weathers a Jain smear campaign over a "
+        "meal of meat. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked "
+                    "roof, then General Sīha's own home"),
+        ("Speakers", "General Sīha, the Jain ascetic of the Ñātika clan, and "
+                     "the Buddha"),
+        ("Form", "A three-part narrative — Sīha's twice-thwarted resolve to "
+                 "visit the Buddha, eight epithets reinterpreted as in AN "
+                 "8.11 but with a different eighth term, and a conversion "
+                 "narrative including a public smear over a meal of meat"),
+        ("Length", "~7 minutes to read"),
+        ("A named historical convert, not an anonymous inquirer", "General "
+                                                                   "Sīha is a "
+                                                                   "known "
+                                                                   "figure in "
+                                                                   "the "
+                                                                   "tradition, "
+                                                                   "and this "
+                                                                   "discourse "
+                                                                   "is among "
+                                                                   "the fuller "
+                                                                   "narrative "
+                                                                   "conversion "
+                                                                   "accounts "
+                                                                   "in the "
+                                                                   "canon"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "longest discourse in this chapter, with several named "
+                       "characters and a complete step-by-step conversion "
+                       "narrative"),
+    ],
+    why=(
+        "General Sīha, a Jain disciple, is twice talked out of visiting the "
+        "Buddha by his own teacher's warning that the Buddha teaches "
+        "inaction, but on the third occasion goes anyway, hears the same "
+        "eight reinterpreted epithets met at AN 8.11 (with ambition replacing "
+        "the first two), converts after a graduated teaching culminating in "
+        "the vision of the Dhamma, and hosts the Buddha for a meal that Jain "
+        "ascetics falsely claim involved a specially slaughtered calf."),
+    guide=[
+        ("The teaching in one sentence", [
+            "General Sīha, overcoming his own teacher's repeated warning "
+            "that the Buddha teaches only inaction, hears from the Buddha "
+            "himself that each of eight labels &mdash; inaction, action, "
+            "annihilationism, disgust, extermination, mortification, "
+            "immaturity, and ambition &mdash; can rightly be said of him, but "
+            "each in a specific reinterpreted sense, and converts after a "
+            "graduated teaching."]),
+        ("Thwarted twice, then going anyway", [
+            "Twice, hearing prominent Licchavis praise the Buddha, Sīha "
+            "resolves to visit him, and twice his own Jain teacher warns him "
+            "off with the claim that the Buddha teaches a doctrine of "
+            "inaction. On the third occasion, Sīha reasons that the Jains "
+            "can do nothing to him either way, and goes without even taking "
+            "leave of his teacher."]),
+        ("The same eight epithets, with different substitutions", [
+            "Sīha asks directly whether the reports that the Buddha teaches "
+            "inaction are accurate. The Buddha answers with the same "
+            "structure as AN 8.11 &mdash; each label true in a "
+            "reinterpreted sense &mdash; but this list swaps AN 8.11's "
+            "opening pair (lacking taste, indelicate) for action as a "
+            "positive counterpart to inaction, and closes not with "
+            "immaturity but with ambition, reinterpreted as ambition for "
+            "the highest solace."]),
+        ("Conversion, and a public smear survived", [
+            "Taught step by step &mdash; generosity, ethics, heaven, the "
+            "drawbacks of sensuality, and finally the four noble truths "
+            "&mdash; Sīha attains the vision of the Dhamma and goes for "
+            "refuge three times, undeterred even when the Buddha "
+            "unexpectedly urges him to keep supporting the Jain ascetics too. "
+            "When Jain ascetics later spread a false rumor that Sīha "
+            "slaughtered an animal specially for the Buddha's meal, Sīha "
+            "dismisses it outright, and the meal proceeds."]),
+    ],
+    terms=[
+        ("akiriyavādo, kiriyavādo",
+         "&ldquo;doctrine of inaction, doctrine of action&rdquo; &mdash; the "
+         "accusation that first stops Sīha from visiting the Buddha, and the "
+         "first pair of epithets the Buddha addresses directly."),
+        ("dhammadesanāya cittaṁ pasādesi",
+         "the step-by-step teaching that inspires Sīha's mind &mdash; "
+         "generosity, ethical conduct, and heaven, then the drawbacks of "
+         "sensual pleasure, then the four noble truths."),
+        ("virajaṁ vītamalaṁ dhammacakkhuṁ udapādi",
+         "&ldquo;the stainless, immaculate vision of the Dhamma arose&rdquo; "
+         "&mdash; Sīha's own moment of stream-entry, compared to a clean "
+         "cloth properly absorbing dye."),
+        ("appekacce niggaṇhitabbaṁ maññanti",
+         "part of the Jain ascetics' false public claim about the meal, "
+         "&ldquo;a fat calf slaughtered specially&rdquo; &mdash; a smear "
+         "Sīha dismisses without hesitation."),
+        ("ussāhī, ussoḷhī",
+         "&ldquo;ambitious&rdquo; &mdash; the eighth and final epithet in "
+         "this discourse's list, reinterpreted as ambition for offering "
+         "solace, replacing AN 8.11's closing term, immaturity."),
+    ],
+    text_intro=(
+        "The discourse in full: Sīha's twice-thwarted resolve, his question "
+        "and the Buddha's eight-part answer, and his conversion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sīha's resolve, twice thwarted"),
+        ("p", "&sect;1", "an8.12:1.1-6.5"),
+        ("h3", "Sīha visits the Buddha, and asks directly"),
+        ("p", "&sect;2", "an8.12:7.1-8.4"),
+        ("h3", "Eight labels, named"),
+        ("p", "&sect;3", "an8.12:9.1-16.2"),
+        ("h3", "Eight labels, explained"),
+        ("p", "&sect;4", "an8.12:17.1-24.4"),
+        ("h3", "Sīha goes for refuge, three times"),
+        ("p", "&sect;5", "an8.12:25.1-27.12"),
+        ("h3", "Conversion, and the meal"),
+        ("p", "&sect;6", "an8.12:28.1-33.3"),
+    ],
+    quiz=[
+        {"q": "What twice stops General Sīha from visiting the Buddha?",
+         "opts": [
+             "Illness", "His own Jain teacher's warning that the Buddha "
+                        "teaches only a doctrine of inaction",
+             "Bad weather", "A direct order from the king"],
+         "correct": 1,
+         "expl": "A repeated warning, overcome only on the third occasion."},
+        {"q": "How does this discourse's list of eight labels differ from AN "
+              "8.11's list for the same accusation pattern?",
+         "opts": [
+             "It is completely different, sharing nothing with AN 8.11",
+             "It swaps AN 8.11's opening pair for 'action' and closes with "
+             "'ambition' instead of 'immaturity'",
+             "It has only four items instead of eight",
+             "It is word-for-word identical"],
+         "correct": 1,
+         "expl": "The same structure and most terms, with specific "
+                 "substitutions."},
+        {"q": "What teaching sequence leads to Sīha's vision of the Dhamma?",
+         "opts": [
+             "A single abrupt statement with no preparation",
+             "A graduated teaching — generosity, ethics, and heaven, the "
+             "drawbacks of sensuality, then the four noble truths",
+             "Silent meditation with no verbal teaching at all",
+             "A debate Sīha must first win"],
+         "correct": 1,
+         "expl": "The standard graduated teaching, compared to a clean cloth "
+                 "absorbing dye."},
+        {"q": "What does the Buddha unexpectedly urge Sīha to do, even after "
+              "his conversion?",
+         "opts": [
+             "Abandon his family",
+             "Continue supporting the Jain ascetics his family has long "
+             "sponsored",
+             "Give up all his wealth immediately",
+             "Never speak to a Jain again"],
+         "correct": 1,
+         "expl": "A counterintuitive instruction that further deepens Sīha's "
+                 "confidence in the Buddha."},
+        {"q": "What false claim do Jain ascetics spread about Sīha's meal for "
+              "the Buddha?",
+         "opts": [
+             "That the food was poisoned",
+             "That Sīha slaughtered a fat calf specially for the Buddha's "
+             "meal",
+             "That the meal was never actually served",
+             "That the Buddha refused to eat it"],
+         "correct": 1,
+         "expl": "A smear campaign Sīha dismisses immediately as untruthful."},
+        {"q": "What moment is compared to a clean cloth properly absorbing "
+              "dye?",
+         "opts": [
+             "Sīha's initial resolve to visit the Buddha",
+             "The arising of Sīha's stainless, immaculate vision of the "
+             "Dhamma",
+             "The preparation of the meal",
+             "The Jain ascetics' announcement"],
+         "correct": 1,
+         "expl": "Sīha's own moment of stream-entry, at the end of the "
+                 "graduated teaching."},
+    ],
+    marginalia=[
+        ("Thwarted twice, then going", [
+            "warned off by his own teacher —",
+            "twice turned back, then reasons:",
+            "'what can they do to me?'",
+        ]),
+        ("Eight labels, one swapped", [
+            "inaction, action, disgust,",
+            "extermination, mortification —",
+            "ambition closes it this time",
+        ]),
+        ("A smear, dismissed outright", [
+            "'a calf slaughtered specially' —",
+            "false, hollow, untruthful —",
+            "Sīha doesn't flinch",
+        ]),
+        ("Cross-references", [
+            "AN 8.11 &middot; previous, the same eight-epithet structure for "
+            "Verañja",
+            "AN 8.13 &middot; next, a very different register: a royal "
+            "thoroughbred",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.11.html">AN 8.11 &middot; At Verañjā</a> &mdash; previous, the same '
+        "eight-epithet structure.",
+        '<a href="an-8.13.html">AN 8.13 &middot; A Thoroughbred</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.13 — Assājānīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Assājānīya", "A Thoroughbred",
+    vagga=VAGGA_2,
+    meta_title="AN 8.13 — A Thoroughbred | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Assājānīyasutta, mapping eight factors that make a royal "
+        "thoroughbred worthy of a king onto eight parallel qualities that "
+        "make a mendicant the supreme field of merit for the world. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "An eight-factor simile — the fine royal thoroughbred "
+                 "&mdash; mapped point for point onto eight qualities of a "
+                 "mendicant worthy of offerings"),
+        ("Length", "~2 minutes to read"),
+        ("The noble eightfold path, embedded mid-list", "The seventh factor, "
+                                                         "&ldquo;always walks "
+                                                         "in a straight "
+                                                         "path,&rdquo; is "
+                                                         "explicitly glossed "
+                                                         "as the noble "
+                                                         "eightfold path "
+                                                         "itself, an eight-"
+                                                         "item structure "
+                                                         "nested inside this "
+                                                         "chapter's own "
+                                                         "eight-item simile"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear "
+                       "point-for-point simile, easy to follow once the "
+                       "horse-to-mendicant mapping is seen"),
+    ],
+    why=(
+        "AN 8.13 lists eight factors that make a fine royal thoroughbred "
+        "worthy of a king &mdash; good breeding, good origin, careful "
+        "eating, disgust at filth, gentleness, showing his tricks openly, "
+        "reliably carrying his load, walking a straight path, and enduring "
+        "strength &mdash; then maps each, point for point, onto eight "
+        "qualities that make a mendicant the supreme field of merit for the "
+        "world."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as a fine royal thoroughbred with eight factors is worthy "
+            "of a king, a mendicant with eight parallel qualities &mdash; "
+            "ethical restraint, careful eating, disgust at bad conduct, "
+            "gentleness, openness about their own faults, reliable training, "
+            "walking the noble eightfold path, and energetic endurance "
+            "&mdash; is worthy of offerings and the supreme field of merit "
+            "for the world."]),
+        ("Eight factors of a fine horse", [
+            "Good birth on both sides, bred in the right region, careful "
+            "eating without mess, disgust at soiling himself, gentleness "
+            "with other horses, openly showing his trainer his tricks and "
+            "feints so they can be corrected, reliably carrying his load "
+            "regardless of what others do, walking a straight path, and "
+            "remaining strong even to the point of death."]),
+        ("The same eight, mapped to a mendicant", [
+            "Each equine factor becomes a monastic parallel: good breeding "
+            "becomes ethical restraint; careful eating becomes eating "
+            "without complaint whether the food is coarse or fine; disgust "
+            "at filth becomes disgust at bad conduct; showing tricks to a "
+            "trainer becomes openly showing one's own faults to sensible "
+            "companions so they can be corrected; and reliable strength "
+            "becomes an explicit vow to keep trying even at the cost of "
+            "skin, sinew, bone, blood, and flesh."]),
+        ("A straight path, glossed as the eightfold path itself", [
+            "Where the horse simply walks in a straight line, the mendicant "
+            "parallel names exactly what that straight path is: right view, "
+            "right purpose, right speech, right action, right livelihood, "
+            "right effort, right mindfulness, and right immersion &mdash; "
+            "the noble eightfold path, embedded as a second eight-item "
+            "structure inside this discourse's own eightfold simile."]),
+    ],
+    terms=[
+        ("ājānīyo",
+         "&ldquo;thoroughbred&rdquo; &mdash; this discourse's own title "
+         "term, a horse of proven fine breeding, matched against a "
+         "mendicant's own worthiness."),
+        ("ubhato sujāto hoti mātito ca pitito ca",
+         "&ldquo;well born on both the mother's and the father's "
+         "sides&rdquo; &mdash; the horse's first factor, paralleled by the "
+         "mendicant's own ethical restraint rather than literal ancestry."),
+        ("bhinnesu sikkhāpadesu tikicchaṁ dasseti sāraṇīyehi "
+         "sabrahmacārīhi",
+         "&ldquo;openly shows their tricks, bluffs, ruses, and feints to "
+         "their sensible spiritual companions&rdquo; &mdash; the "
+         "seventh-factor parallel, honesty about one's own faults rather "
+         "than concealment."),
+        ("ujuṁyeva maggaṁ gacchati",
+         "&ldquo;always walks in a straight path&rdquo; &mdash; the eighth "
+         "factor, explicitly glossed for the mendicant as the noble "
+         "eightfold path itself."),
+        ("āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ "
+         "puññakkhettaṁ lokassa",
+         "&ldquo;worthy of offerings dedicated to the gods... the supreme "
+         "field of merit for the world&rdquo; &mdash; the standing "
+         "description this book has already applied elsewhere, here earned "
+         "through the eight-factor thoroughbred simile."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight factors of a fine thoroughbred, and "
+        "their eight mendicant parallels. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight factors of a fine royal thoroughbred"),
+        ("p", "&sect;1", "an8.13:1.1-1.17"),
+        ("h3", "The same eight, mapped to a mendicant"),
+        ("p", "&sect;2", "an8.13:2.1-2.19"),
+    ],
+    quiz=[
+        {"q": "What does this discourse compare a mendicant worthy of "
+              "offerings to?",
+         "opts": [
+             "A well-tuned lute", "A fine royal thoroughbred with eight "
+                                   "factors",
+             "A lotus flower", "A ship crossing the ocean"],
+         "correct": 1,
+         "expl": "A point-for-point equine simile, mapped onto eight "
+                 "monastic qualities."},
+        {"q": "What does the horse's factor of 'openly showing tricks to a "
+              "trainer' become in the mendicant parallel?",
+         "opts": [
+             "Concealing one's faults from others",
+             "Openly showing one's own faults to sensible spiritual "
+             "companions so they can be corrected",
+             "Refusing all correction",
+             "Publicly shaming other mendicants"],
+         "correct": 1,
+         "expl": "Honesty about one's own faults, not concealment."},
+        {"q": "What is the horse's eighth factor, 'always walks in a "
+              "straight path,' explicitly glossed as for the mendicant?",
+         "opts": [
+             "Walking meditation practice",
+             "The noble eightfold path — right view through right "
+             "immersion",
+             "A literal straight road to the monastery",
+             "Avoiding all travel"],
+         "correct": 1,
+         "expl": "An eight-item structure nested inside this discourse's own "
+                 "eightfold simile."},
+        {"q": "What does the mendicant parallel to the horse's 'enduring "
+              "strength even to death' consist of?",
+         "opts": [
+             "Physical exercise routines",
+             "An explicit vow to keep trying until success, even at the "
+             "cost of skin, sinew, bone, blood, and flesh",
+             "Fasting for extended periods",
+             "Competing with other mendicants"],
+         "correct": 1,
+         "expl": "Energetic determination, stated in the mendicant's own "
+                 "words."},
+        {"q": "What closing description does this discourse apply to a "
+              "mendicant with all eight qualities?",
+         "opts": [
+             "Wealthy and well-connected",
+             "Worthy of offerings, hospitality, and religious donation — the "
+             "supreme field of merit for the world",
+             "Physically the strongest in the Saṅgha",
+             "Guaranteed a favorable rebirth only"],
+         "correct": 1,
+         "expl": "The standing description this book has applied to worthy "
+                 "individuals elsewhere."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Vesālī",
+             "No setting is stated in the source", "Yes, at Campā"],
+         "correct": 2,
+         "expl": "A bare formula, like several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight factors of a fine horse", [
+            "well bred, careful eating,",
+            "disgusted by filth, gentle,",
+            "open, reliable, straight, strong",
+        ]),
+        ("Mapped to a mendicant", [
+            "breeding becomes ethics,",
+            "tricks shown become honesty —",
+            "point for point, horse to monk",
+        ]),
+        ("An eightfold path within eight", [
+            "'walks a straight path' becomes",
+            "right view through right immersion —",
+            "one eight nested in another",
+        ]),
+        ("Cross-references", [
+            "AN 8.12 &middot; previous, General Sīha's conversion",
+            "AN 8.14 &middot; next, a very different horse simile — this "
+            "time about failure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.12.html">AN 8.12 &middot; With Sīha</a> &mdash; previous.',
+        '<a href="an-8.14.html">AN 8.14 &middot; A Wild Colt</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.14 — Assakhaḷuṅkasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Assakhaḷuṅka", "A Wild Colt",
+    vagga=VAGGA_2,
+    meta_title="AN 8.14 — A Wild Colt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Assakhaḷuṅkasutta, mapping eight defects in an untrained horse onto "
+        "eight distinct ways a mendicant can respond badly when accused of "
+        "an offense, related to but structurally different from AN 8.10's "
+        "trash simile. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight named defects in an untrained horse, each mapped one "
+                 "for one onto eight distinct bad responses to an "
+                 "accusation of a monastic offense"),
+        ("Length", "~3 minutes to read"),
+        ("Not AN 8.10's trash simile", "AN 8.10 gave a single type of "
+                                       "corrupt individual through four "
+                                       "different similes; this discourse "
+                                       "gives eight genuinely distinct "
+                                       "behavioral patterns, each mapped "
+                                       "one for one to a specific horse "
+                                       "defect, not four similes for one "
+                                       "type"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; eight "
+                       "parallel structures, repetitive but each pairing "
+                       "distinct once read closely"),
+    ],
+    why=(
+        "AN 8.14 names eight defects in wild, untrained colts &mdash; "
+        "backing up, wrecking the chariot, shaking off the pole, veering off "
+        "track, rearing up, ignoring the trainer, standing stock still, and "
+        "sitting down &mdash; and maps each, one for one, onto eight "
+        "distinct ways a mendicant accused of an offense can respond badly, "
+        "from claiming not to remember to resigning the training in a huff."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as eight kinds of wild, untrained colt resist a trainer's "
+            "command in eight distinct ways, a mendicant accused of an "
+            "offense can respond badly in eight distinct ways &mdash; from "
+            "evasive forgetting to hostile counter-accusation to abrupt "
+            "resignation &mdash; each compared to a specific horse defect."]),
+        ("Eight defects, eight distinct responses", [
+            "Unlike a repeated refrain applied to one behavior, this "
+            "discourse pairs eight genuinely different horse defects with "
+            "eight genuinely different human responses: backing up pairs "
+            "with claiming not to remember the offense; wrecking the hub "
+            "pairs with insulting the accuser's competence; shaking off the "
+            "pole pairs with counter-accusing the accuser of their own "
+            "offense; veering off track pairs with the same evasive "
+            "distraction tactic met at AN 8.10."]),
+        ("Not AN 8.10's single corrupt type, restructured", [
+            "AN 8.10 built four similes &mdash; bad barley, winnowed chaff, "
+            "rotten wood, trash &mdash; around one recurring type of corrupt "
+            "individual, recognized only once exposed. This discourse takes "
+            "a different structural approach entirely: eight distinct "
+            "behavioral patterns, each earning its own horse-defect "
+            "comparison, not four variations on a single portrait."]),
+        ("From gesticulating to resignation", [
+            "The remaining pairings: rearing up pairs with gesticulating "
+            "wildly while speaking before the Saṅgha; ignoring the trainer "
+            "pairs with a guilty mendicant simply going wherever they want; "
+            "standing stock still pairs with frustrating the Saṅgha through "
+            "silence; and sitting down pairs with abruptly resigning the "
+            "training and taunting, &ldquo;are you happy now?&rdquo;"]),
+    ],
+    terms=[
+        ("assakhaḷuṅko",
+         "&ldquo;wild colt&rdquo; &mdash; this discourse's own title term, "
+         "an untrained horse resistant to its trainer's commands."),
+        ("codito codito āpattiṁ apassanto assati paṭicarati",
+         "&ldquo;evades it by saying they don't remember&rdquo; &mdash; the "
+         "first of the eight bad responses, paired with a colt that backs "
+         "up and spins the chariot."),
+        ("codakaññeva paccāropeti",
+         "&ldquo;retorts to the accuser: you've fallen into such-and-such an "
+         "offense&rdquo; &mdash; a counter-accusation, paired with a colt "
+         "that shakes off the draft-pole and tramples it."),
+        ("aññenaññaṁ paṭicarati, bahiddhā kathaṁ apanāmeti, kopañca "
+         "dosañca appaccayañca pātukaroti",
+         "&ldquo;dodges the issue, distracts the discussion with irrelevant "
+         "points, and displays annoyance, hate, and bitterness&rdquo; "
+         "&mdash; the same evasive tactic named in AN 8.10, here paired with "
+         "a colt veering off track."),
+        ("sikkhaṁ paccakkhāya hīnāyāvattissāmi",
+         "&ldquo;I'll resign the training and return to a lesser life&rdquo; "
+         "&mdash; the eighth and final bad response, an abrupt resignation "
+         "paired with a colt that simply sits down."),
+    ],
+    text_intro=(
+        "The discourse in full: eight defects in wild colts, and their eight "
+        "distinct human parallels. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight defects in wild colts"),
+        ("p", "&sect;1", "an8.14:1.1-9.4"),
+        ("h3", "Eight defects in people, matched one for one"),
+        ("p", "&sect;2", "an8.14:10.1-17.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from AN 8.10's "
+              "trash simile, according to the guide?",
+         "opts": [
+             "They are structurally identical",
+             "AN 8.10 gives four similes for one recurring corrupt type; "
+             "this discourse gives eight genuinely distinct behaviors, each "
+             "mapped one for one to a specific horse defect",
+             "This discourse has no similes at all",
+             "AN 8.10 involves horses instead of barley"],
+         "correct": 1,
+         "expl": "One type through four similes, versus eight distinct "
+                 "types through eight parallel pairings."},
+        {"q": "What is the first of the eight bad responses to an "
+              "accusation, and its matching horse defect?",
+         "opts": [
+             "Immediate confession, paired with a well-trained horse",
+             "Evading by claiming not to remember, paired with a colt that "
+             "backs up and spins the chariot",
+             "Silent agreement, paired with a resting horse",
+             "Public apology, paired with a galloping horse"],
+         "correct": 1,
+         "expl": "The first of eight distinct pairings, not a repeated "
+                 "refrain."},
+        {"q": "What evasive tactic does this discourse share with AN 8.10?",
+         "opts": [
+             "No shared tactic at all",
+             "Dodging the issue, distracting with irrelevant points, and "
+             "displaying annoyance, hate, and bitterness",
+             "Both involve accusations of theft",
+             "Both are set at the same location"],
+         "correct": 1,
+         "expl": "The identical evasive phrase, paired here with a colt "
+                 "veering off track."},
+        {"q": "What is the eighth and final bad response?",
+         "opts": [
+             "Formally apologizing to the Saṅgha",
+             "Abruptly resigning the training and taunting, 'are you happy "
+             "now?'",
+             "Requesting a formal hearing",
+             "Reporting the accuser to outside authorities"],
+         "correct": 1,
+         "expl": "Paired with a colt that simply sits down, refusing to "
+                 "move at all."},
+        {"q": "What does gesticulating wildly while speaking before the "
+              "Saṅgha get compared to?",
+         "opts": [
+             "A calm, well-trained horse", "A colt that rears up and "
+                                            "strikes out with its fore-legs",
+             "A horse standing still", "A horse carrying a heavy load"],
+         "correct": 1,
+         "expl": "One of the eight distinct pairings in this discourse's "
+                 "structure."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Campā"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight colts, eight defects", [
+            "backs up · wrecks the hub ·",
+            "shakes off the pole · veers off ·",
+            "rears · ignores · stands · sits",
+        ]),
+        ("Eight distinct responses, not four similes", [
+            "unlike AN 8.10's",
+            "one type through four images —",
+            "here, eight genuinely different",
+        ]),
+        ("From forgetting to resignation", [
+            "'I don't remember' —",
+            "to 'are you happy now?' —",
+            "eight ways to respond badly",
+        ]),
+        ("Cross-references", [
+            "AN 8.13 &middot; previous, a thoroughbred's eight virtues",
+            "AN 8.10 &middot; earlier, the trash simile this discourse "
+            "relates to but structurally differs from",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.13.html">AN 8.13 &middot; A Thoroughbred</a> &mdash; previous.',
+        '<a href="an-8.15.html">AN 8.15 &middot; Stains</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.15 — Malasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Mala", "Stains",
+    vagga=VAGGA_2,
+    meta_title="AN 8.15 — Stains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Malasutta, a short, pithy list of eight everyday stains — of "
+        "hymns, houses, beauty, guards, women, givers, and the world itself "
+        "— crowned by ignorance as the worst stain of all. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item prose list, immediately restated in verse "
+                 "with minor rephrasing"),
+        ("Length", "under 1 minute to read"),
+        ("A domestic, everyday register", "Unlike this chapter's grander "
+                                          "similes and narratives, this "
+                                          "discourse draws its seven "
+                                          "ordinary stains from daily life "
+                                          "&mdash; hymns, houses, beauty, "
+                                          "guards, women, givers &mdash; "
+                                          "before naming ignorance as worse "
+                                          "than all of them combined"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "aphoristic, easy to read but each pairing rewards a "
+                       "second look"),
+    ],
+    why=(
+        "AN 8.15 names eight stains &mdash; failing to rehearse spoils "
+        "hymns, neglect spoils houses, laziness spoils beauty, negligence "
+        "spoils a guard, misconduct spoils a woman, stinginess spoils a "
+        "giver, and bad unskillful qualities are a stain on this world and "
+        "the next &mdash; then names a stain worse than all seven "
+        "combined: ignorance."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven everyday things each have their own particular stain "
+            "&mdash; unrehearsed hymns, neglected houses, lazy beauty, a "
+            "negligent guard, a misbehaving woman, a stingy giver, and bad "
+            "qualities staining this world and the next &mdash; but "
+            "ignorance is worse than all of them, the worst stain of all."]),
+        ("Seven domestic stains, each specific to its object", [
+            "Each of the first seven pairings names a stain that belongs "
+            "specifically to one thing: a hymn is stained by not being "
+            "rehearsed, a house by neglect, beauty by laziness, a guard's "
+            "post by negligence, a woman's standing by misconduct, and a "
+            "giver's generosity by stinginess &mdash; each stain the "
+            "specific failure that spoils that specific thing's own "
+            "purpose."]),
+        ("The seventh item widens the frame", [
+            "Where the first six stains are narrow and domestic, the "
+            "seventh breaks the pattern's scale: bad, unskillful qualities "
+            "generally are named as a stain not on any one object but on "
+            "this world and the next world both &mdash; a bridge from small "
+            "household failures to something with consequences beyond a "
+            "single lifetime."]),
+        ("Ignorance, worse than the rest combined", [
+            "The list's climax names an eighth stain that isn't simply "
+            "another item alongside the first seven, but is explicitly "
+            "ranked above them: worse than any of these, ignorance is "
+            "called the worst stain of all &mdash; the discourse's own "
+            "verse repeats this ranking word for word."]),
+    ],
+    terms=[
+        ("malaṁ",
+         "&ldquo;stain&rdquo; &mdash; this discourse's own title term, "
+         "applied to seven specific objects and then, worst of all, to "
+         "ignorance itself."),
+        ("asajjhāyamalā mantā",
+         "&ldquo;not rehearsing is the stain of hymns&rdquo; &mdash; the "
+         "first pairing, a specific failure of practice spoiling a specific "
+         "skill."),
+        ("anuṭṭhānamalā gharā",
+         "&ldquo;neglect is the stain of houses&rdquo; &mdash; the second "
+         "pairing, extending the same logic from spoken skill to physical "
+         "upkeep."),
+        ("pāpo dhammo ubhayattha malaṁ",
+         "&ldquo;bad, unskillful qualities are a stain in this world and "
+         "the next&rdquo; &mdash; the seventh item, widening the list's "
+         "scale from domestic objects to consequences beyond a single "
+         "life."),
+        ("tato malā malataraṁ avijjā paramaṁ malaṁ",
+         "&ldquo;worse than any of these is ignorance, the worst stain of "
+         "all&rdquo; &mdash; the discourse's own climactic ranking, repeated "
+         "word for word in both the prose list and the closing verse."),
+    ],
+    text_intro=(
+        "The discourse in full: eight stains in prose, then restated in "
+        "verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight stains, in prose"),
+        ("p", "&sect;1", "an8.15:1.1-1.11"),
+        ("h3", "The same eight, in verse"),
+        ("p", "&sect;2", "an8.15:2.1-2.4"),
+        ("p", "&sect;3", "an8.15:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What stains a hymn, according to this discourse?",
+         "opts": [
+             "Speaking too loudly", "Not rehearsing it",
+             "Learning it from an unqualified teacher", "Reciting it too "
+                                                          "often"],
+         "correct": 1,
+         "expl": "The first of seven specific, domestic stains."},
+        {"q": "How does the guide describe the seventh item in this list, "
+              "compared to the first six?",
+         "opts": [
+             "It is identical in scale to the first six",
+             "It widens the frame — bad unskillful qualities stain not one "
+             "object but this world and the next",
+             "It is unrelated to the rest of the list",
+             "It only applies to monastics"],
+         "correct": 1,
+         "expl": "A bridge from small domestic failures to consequences "
+                 "beyond one lifetime."},
+        {"q": "What is named as worse than all seven other stains combined?",
+         "opts": [
+             "Poverty", "Ignorance, the worst stain of all",
+             "Old age", "Physical illness"],
+         "correct": 1,
+         "expl": "The discourse's climactic ranking, repeated word for word "
+                 "in the closing verse."},
+        {"q": "What stains a giver, according to this discourse?",
+         "opts": [
+             "Giving too much", "Stinginess",
+             "Giving to the wrong recipient", "Giving in public"],
+         "correct": 1,
+         "expl": "The sixth of seven specific pairings, each naming a "
+                 "particular failure."},
+        {"q": "How is the eight-item list structured?",
+         "opts": [
+             "As a blocking list matched by its reversal",
+             "As a bare prose list, immediately restated in verse with "
+             "minor rephrasing",
+             "As a dialogue between two characters",
+             "As a long narrative"],
+         "correct": 1,
+         "expl": "Brief and aphoristic, prose followed by verse."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Vesālī",
+             "No setting is stated in the source", "Yes, at Rājagaha"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Seven domestic stains", [
+            "unrehearsed hymns, neglected",
+            "houses, lazy beauty,",
+            "a negligent guard, a stingy giver",
+        ]),
+        ("From household to two worlds", [
+            "the seventh item widens:",
+            "bad qualities stain not one thing",
+            "but this world and the next",
+        ]),
+        ("Ignorance, worst of all", [
+            "worse than the other seven —",
+            "the climax of the list,",
+            "repeated once more in verse",
+        ]),
+        ("Cross-references", [
+            "AN 8.14 &middot; previous, eight ways to respond badly to an "
+            "accusation",
+            "AN 8.16 &middot; next, the qualities that make a mendicant "
+            "worthy of going on a mission",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.14.html">AN 8.14 &middot; A Wild Colt</a> &mdash; previous.',
+        '<a href="an-8.16.html">AN 8.16 &middot; Going on a Mission</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.16 — Dūteyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Dūteyya", "Going on a Mission",
+    vagga=VAGGA_2,
+    meta_title="AN 8.16 — Going on a Mission | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dūteyyasutta, naming five qualities that make a mendicant fit to "
+        "serve as an envoy, then holding up Venerable Sāriputta by name as "
+        "someone who embodies them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A general list of qualities stated once, then restated as a "
+                 "portrait of a single named individual, closing with three "
+                 "summary verses"),
+        ("Length", "under 1 minute to read"),
+        ("A count worth checking closely", "The source's own list names five "
+                                            "qualities in prose &mdash; "
+                                            "learning and educating, "
+                                            "memorizing, understanding, "
+                                            "skill at what's on topic, and "
+                                            "not causing quarrels &mdash; "
+                                            "not eight discrete items, "
+                                            "despite this discourse's place "
+                                            "in the Book of the Eights"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "naming a real disciple by name rather than staying "
+                       "purely abstract"),
+    ],
+    why=(
+        "AN 8.16 names the qualities that make a mendicant worthy of going "
+        "on a mission &mdash; learning and teaching well, remembering "
+        "accurately, understanding and helping others understand, staying "
+        "on topic, and not causing quarrels &mdash; and then says Venerable "
+        "Sāriputta has exactly these qualities, naming him directly as the "
+        "model."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant worthy of going on a mission learns and teaches "
+            "well, remembers accurately, understands and helps others "
+            "understand, stays skillfully on topic, and doesn't cause "
+            "quarrels &mdash; and Venerable Sāriputta is named directly as "
+            "someone who has exactly these qualities."]),
+        ("A general principle, then a named embodiment", [
+            "Unlike most of this chapter's discourses, which stay entirely "
+            "abstract, this one follows its general statement with a "
+            "second, nearly identical restatement naming Sāriputta by name "
+            "&mdash; the Buddha's own foremost disciple in wisdom &mdash; as "
+            "someone who actually has these qualities, not merely a "
+            "hypothetical mendicant who might."]),
+        ("A count that doesn't cleanly reach eight", [
+            "Despite its place in the Book of the Eights, the source's own "
+            "list of qualities for a worthy envoy numbers five in the "
+            "prose, not eight: learns and educates others, memorizes and "
+            "remembers, understands and helps others understand, is skilled "
+            "at what's on and off topic, and doesn't cause quarrels. This "
+            "discourse belongs to this nipāta by placement, not by "
+            "presenting a clean eightfold list."]),
+        ("Composure under pressure, added in verse", [
+            "The closing verses add a further dimension beyond the prose "
+            "list: such a mendicant doesn't tremble arriving at an assembly "
+            "of fierce debaters, doesn't miss out words or conceal "
+            "instructions, and their words aren't poisoned even when "
+            "questioned closely &mdash; composure and precision under "
+            "pressure, not just competence in calm conditions."]),
+    ],
+    terms=[
+        ("dūteyyaṁ gantuṁ",
+         "&ldquo;going on a mission&rdquo; &mdash; this discourse's own "
+         "title-phrase, the role a qualified mendicant is fit to serve."),
+        ("sussūsati saussūsāpeti",
+         "&ldquo;learns and educates others&rdquo; &mdash; the first "
+         "quality named, both receiving and transmitting the teaching."),
+        ("ṭhānāṭhānakusalo",
+         "&ldquo;skilled at knowing what's on topic and what isn't&rdquo; "
+         "&mdash; the fourth quality, discernment about relevance in "
+         "discussion."),
+        ("na ca bhaṇḍanakārako",
+         "&ldquo;doesn't cause quarrels&rdquo; &mdash; the fifth and final "
+         "quality named in the prose list."),
+        ("sāriputto",
+         "Venerable Sāriputta, named directly as embodying all the "
+         "qualities of a mendicant worthy of going on a mission."),
+    ],
+    text_intro=(
+        "The discourse in full: the qualities of a worthy envoy, restated for "
+        "Sāriputta, and three closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The qualities, general and then named for Sāriputta"),
+        ("p", "&sect;1", "an8.16:1.1-1.8"),
+        ("h3", "Closing verses: composure under pressure"),
+        ("p", "&sect;2", "an8.16:2.1-2.4"),
+        ("p", "&sect;3", "an8.16:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do after stating its general list of "
+              "qualities?",
+         "opts": [
+             "Nothing further; the discourse ends there",
+             "It restates the same qualities, this time naming Venerable "
+             "Sāriputta directly as someone who has them",
+             "It contradicts the general list",
+             "It lists eight additional qualities"],
+         "correct": 1,
+         "expl": "A general principle followed by a named embodiment, "
+                 "unusual for this chapter."},
+        {"q": "According to the guide, how many qualities does the source's "
+              "own prose list actually name?",
+         "opts": [
+             "Exactly eight, matching this chapter's usual theme",
+             "Five — despite this discourse's place in the Book of the "
+             "Eights",
+             "Three", "Twelve"],
+         "correct": 1,
+         "expl": "A discourse included by placement, not by presenting a "
+                 "clean eightfold list."},
+        {"q": "What do the closing verses add beyond the prose list?",
+         "opts": [
+             "A warning against ever going on a mission",
+             "Composure under pressure — not trembling before fierce "
+             "debaters, and speaking without poisoned words even when "
+             "questioned closely",
+             "A description of the envoy's clothing",
+             "A list of forbidden topics"],
+         "correct": 1,
+         "expl": "Precision and composure under difficult conditions, not "
+                 "just competence when calm."},
+        {"q": "Who is named directly as embodying these qualities?",
+         "opts": [
+             "Venerable Ānanda", "Venerable Sāriputta",
+             "Venerable Mahāmoggallāna", "General Sīha"],
+         "correct": 1,
+         "expl": "The Buddha's own foremost disciple in wisdom, named by "
+                 "name."},
+        {"q": "What is the fifth quality named in the prose list?",
+         "opts": [
+             "Physical strength", "Not causing quarrels",
+             "Wealth", "Skill in debate alone"],
+         "correct": 1,
+         "expl": "Closing the list of five qualities named for a worthy "
+                 "envoy."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Five qualities, named twice", [
+            "learns, remembers,",
+            "understands, stays on topic,",
+            "doesn't cause quarrels",
+        ]),
+        ("Not abstract — Sāriputta", [
+            "the general principle",
+            "restated with a real name —",
+            "the Buddha's own foremost disciple",
+        ]),
+        ("A count that doesn't reach eight", [
+            "five qualities in prose,",
+            "not eight — included here",
+            "by placement, not by count",
+        ]),
+        ("Cross-references", [
+            "AN 8.15 &middot; previous, eight everyday stains",
+            "AN 8.17 &middot; next, a very different subject: how a woman "
+            "catches a man",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.16/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.15.html">AN 8.15 &middot; Stains</a> &mdash; previous.',
+        '<a href="an-8.17.html">AN 8.17 &middot; Catching (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.17 — Paṭhamabandhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Paṭhamabandhana", "Catching (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 8.17 — Catching (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamabandhanasutta, an eight-item list of the features a woman "
+        "uses to catch a man, closing with the claim that touch is the "
+        "surest catch of all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item list, closing with a single ranking "
+                 "statement"),
+        ("Length", "under 1 minute to read"),
+        ("The first half of a gender-mirrored pair", "This discourse and AN "
+                                                      "8.18 immediately "
+                                                      "following present the "
+                                                      "identical eight "
+                                                      "features and identical "
+                                                      "closing claim, with "
+                                                      "only the subject and "
+                                                      "object of "
+                                                      "&ldquo;catching&rdquo; "
+                                                      "reversed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "direct; this reading guide presents the content "
+                       "honestly without softening its frank treatment of "
+                       "attraction"),
+    ],
+    why=(
+        "AN 8.17 names eight features &mdash; weeping, laughing, speaking, "
+        "appearance, gifts of wildflowers, scents, tastes, and touches "
+        "&mdash; that a woman uses to catch a man, closing with the claim "
+        "that of all eight, being caught by touch is the surest catch of "
+        "all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A woman catches a man using eight features &mdash; weeping, "
+            "laughing, speaking, appearance, gifts of wildflowers, scents, "
+            "tastes, and touches &mdash; but of all eight, those caught by "
+            "touch are said to be the most thoroughly caught."]),
+        ("A frank, unsentimental catalog", [
+            "This discourse doesn't moralize or instruct; it simply "
+            "catalogs eight means of attraction and capture, from "
+            "expressive behavior (weeping, laughing, speaking) through "
+            "physical presentation (appearance) to direct sensory "
+            "offering (flowers, scents, tastes, touches), without editorial "
+            "comment on any of the eight."]),
+        ("Touch, singled out as strongest", [
+            "The discourse's only evaluative move is its closing line: "
+            "among all eight means of catching, being caught by touch is "
+            "called being &ldquo;well and truly caught.&rdquo; The list "
+            "moves from the least physically direct (weeping, laughing) "
+            "toward the most direct (touch), and the closing line confirms "
+            "that gradient by naming the final item as strongest."]),
+        ("Paired with AN 8.18, the mirror image", [
+            "This is the first half of a matched pair. AN 8.18, immediately "
+            "following, presents the identical eight features and identical "
+            "closing claim, with only the subject and object reversed: a "
+            "man catching a woman rather than a woman catching a man &mdash; "
+            "a symmetrical treatment, not a one-sided portrait of either "
+            "gender."]),
+    ],
+    terms=[
+        ("bandhati",
+         "&ldquo;catches, binds&rdquo; &mdash; the discourse's own key "
+         "verb, and the root of its Pāli title, Paṭhamabandhanasutta, "
+         "&ldquo;the first discourse on binding.&rdquo;"),
+        ("rodanena, hasanena, bhaṇitena",
+         "&ldquo;with weeping, laughing, speaking&rdquo; &mdash; the first "
+         "three of the eight features, all expressive behaviors rather than "
+         "physical gifts."),
+        ("vanabhaṅgena",
+         "&ldquo;gifts of wildflowers&rdquo; &mdash; the fifth feature, "
+         "opening the list's shift from behavior toward direct sensory "
+         "offering."),
+        ("gandhena, rasena, phoṭṭhabbena",
+         "&ldquo;with scents, tastes, and touches&rdquo; &mdash; the final "
+         "three features, closing the list at its most physically direct."),
+        ("phassabandhanā ye baddhā, susaṅkhātā tesaṁ bandhanā",
+         "&ldquo;those beings who are caught by touch are well and truly "
+         "caught&rdquo; &mdash; the discourse's own closing ranking, singling "
+         "out touch as the strongest of the eight."),
+    ],
+    text_intro=(
+        "The discourse in full: eight features that catch, and touch named "
+        "strongest of all. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight features that catch"),
+        ("p", "&sect;1", "an8.17:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What eight features does this discourse name?",
+         "opts": [
+             "The five hindrances plus three more",
+             "Weeping, laughing, speaking, appearance, gifts of "
+             "wildflowers, scents, tastes, and touches",
+             "The seven factors of awakening plus one",
+             "Eight monastic requisites"],
+         "correct": 1,
+         "expl": "A catalog moving from expressive behavior to direct "
+                 "sensory offering."},
+        {"q": "Which of the eight features is singled out as strongest?",
+         "opts": [
+             "Weeping", "Touch — those caught by it are 'well and truly "
+                         "caught'",
+             "Appearance", "Speaking"],
+         "correct": 1,
+         "expl": "The discourse's only evaluative move, closing the list."},
+        {"q": "How does this discourse relate to AN 8.18, immediately "
+              "following it?",
+         "opts": [
+             "No relation at all",
+             "AN 8.18 presents the identical eight features and closing "
+             "claim, with the subject and object of 'catching' reversed",
+             "AN 8.18 contradicts this discourse entirely",
+             "AN 8.18 is set centuries later"],
+         "correct": 1,
+         "expl": "A symmetrical, gender-mirrored pair, not a one-sided "
+                 "portrait."},
+        {"q": "How does the guide characterize this discourse's approach to "
+              "its subject?",
+         "opts": [
+             "Heavily moralizing and instructive",
+             "A frank, unsentimental catalog without editorial comment, "
+             "apart from the closing ranking",
+             "Entirely metaphorical, not about literal attraction",
+             "Addressed only to laypeople"],
+         "correct": 1,
+         "expl": "Presented without softening, as this reading guide notes "
+                 "explicitly."},
+        {"q": "What is the discourse's own Pāli title term, and what does it "
+              "mean?",
+         "opts": [
+             "Mettā, 'love'", "Bandhana, 'binding, catching'",
+             "Paññā, 'wisdom'", "Sīla, 'ethics'"],
+         "correct": 1,
+         "expl": "The root of this discourse's Pāli title, "
+                 "Paṭhamabandhanasutta."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Vesālī",
+             "No setting is stated in the source", "Yes, at Rājagaha"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight features that catch", [
+            "weeping, laughing, speaking,",
+            "appearance, flowers, scents,",
+            "tastes, and touches",
+        ]),
+        ("Touch, named strongest", [
+            "of all eight means of catching,",
+            "the discourse's only ranking:",
+            "touch catches most thoroughly",
+        ]),
+        ("A mirrored pair follows", [
+            "the identical eight features,",
+            "the identical closing line —",
+            "next, reversed: man catching woman",
+        ]),
+        ("Cross-references", [
+            "AN 8.16 &middot; previous, the qualities of a worthy envoy",
+            "AN 8.18 &middot; next, the mirror image of this same list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.16.html">AN 8.16 &middot; Going on a Mission</a> &mdash; previous.',
+        '<a href="an-8.18.html">AN 8.18 &middot; Catching (2nd)</a> &mdash; next, the mirror '
+        "image of this same list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.18 — Dutiyabandhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Dutiyabandhana", "Catching (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 8.18 — Catching (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyabandhanasutta, the mirror image of AN 8.17: the identical "
+        "eight features a man uses to catch a woman, closing with the same "
+        "ranking of touch as the surest catch. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical eight-item list and closing ranking as AN "
+                 "8.17, with subject and object reversed"),
+        ("Length", "under 1 minute to read"),
+        ("A deliberate mirror, not a variant", "Every one of the eight "
+                                               "features and the closing "
+                                               "line match AN 8.17 word for "
+                                               "word; only 'a woman catches "
+                                               "a man' becomes 'a man "
+                                               "catches a woman,' a "
+                                               "symmetry this reading guide "
+                                               "treats as the discourse's "
+                                               "own point"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; identical "
+                       "in structure to AN 8.17, read together as a pair"),
+    ],
+    why=(
+        "AN 8.18 restates AN 8.17's eight features &mdash; weeping, "
+        "laughing, speaking, appearance, gifts of wildflowers, scents, "
+        "tastes, and touches &mdash; and its closing claim that touch is "
+        "the surest catch, with only the direction of &ldquo;catching&rdquo; "
+        "reversed: a man catching a woman, rather than a woman catching a "
+        "man."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A man catches a woman using the same eight features named in "
+            "AN 8.17 &mdash; weeping, laughing, speaking, appearance, gifts "
+            "of wildflowers, scents, tastes, and touches &mdash; and, as in "
+            "AN 8.17, those caught by touch are said to be the most "
+            "thoroughly caught."]),
+        ("A deliberate, exact mirror", [
+            "Nothing in this discourse's content differs from AN 8.17 "
+            "except the direction of the verb: where AN 8.17 says a woman "
+            "catches a man, this discourse says a man catches a woman. "
+            "Every one of the eight features and the closing evaluative "
+            "line are otherwise identical, word for word."]),
+        ("Symmetry as the discourse's own point", [
+            "Read as a pair, AN 8.17 and AN 8.18 make a claim through their "
+            "very structure: attraction and capture by these eight means "
+            "run in both directions equally, not as a fault attributed to "
+            "one gender and a vulnerability attributed to the other. "
+            "Neither discourse singles out women or men as the sole agent "
+            "or the sole target."]),
+        ("Touch, ranked strongest again", [
+            "As in AN 8.17, the discourse's only evaluative move comes at "
+            "the close: of the eight features, touch is named the surest "
+            "catch, &ldquo;those beings who are caught by touch are well "
+            "and truly caught&rdquo; &mdash; the identical closing line, "
+            "unchanged by the reversal of subject and object."]),
+    ],
+    terms=[
+        ("bandhati",
+         "&ldquo;catches, binds&rdquo; &mdash; the same key verb as AN "
+         "8.17, and the root of this discourse's own Pāli title, "
+         "Dutiyabandhanasutta, &ldquo;the second discourse on binding.&rdquo;"),
+        ("rodanena, hasanena, bhaṇitena",
+         "&ldquo;with weeping, laughing, speaking&rdquo; &mdash; the "
+         "identical first three features named in AN 8.17, unchanged here."),
+        ("ākappena",
+         "&ldquo;appearance&rdquo; &mdash; the fourth feature, physical "
+         "presentation, identical in both discourses of this pair."),
+        ("gandhena, rasena, phoṭṭhabbena",
+         "&ldquo;with scents, tastes, and touches&rdquo; &mdash; the final "
+         "three features, closing this list exactly as they closed AN "
+         "8.17's."),
+        ("phassabandhanā ye baddhā, susaṅkhātā tesaṁ bandhanā",
+         "&ldquo;those beings who are caught by touch are well and truly "
+         "caught&rdquo; &mdash; the identical closing ranking as AN 8.17, "
+         "unchanged by the reversal of who catches whom."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight features as AN 8.17, with a "
+        "man catching a woman. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight features that catch"),
+        ("p", "&sect;1", "an8.18:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 8.17's?",
+         "opts": [
+             "Entirely different content",
+             "Identical in every feature and the closing line, except that "
+             "the direction of catching is reversed — a man catches a woman "
+             "rather than a woman catching a man",
+             "This discourse has ten features instead of eight",
+             "This discourse has no closing ranking"],
+         "correct": 1,
+         "expl": "A deliberate, exact mirror, not an independent variant."},
+        {"q": "According to the guide, what claim does the pairing of AN "
+              "8.17 and AN 8.18 make through its very structure?",
+         "opts": [
+             "That only women can catch men",
+             "That attraction and capture by these eight means run in both "
+             "directions equally, not as a fault attributed to one gender "
+             "alone",
+             "That only men can catch women",
+             "That neither gender can be caught at all"],
+         "correct": 1,
+         "expl": "A symmetrical treatment, neither discourse singling out "
+                 "one gender as sole agent or target."},
+        {"q": "Which feature is again ranked as the surest catch?",
+         "opts": [
+             "Appearance", "Touch",
+             "Weeping", "Gifts of wildflowers"],
+         "correct": 1,
+         "expl": "The identical closing line as AN 8.17, unchanged by the "
+                 "reversal."},
+        {"q": "What does this discourse's own Pāli title mean?",
+         "opts": [
+             "'The discourse on wisdom'",
+             "'The second discourse on binding'",
+             "'The discourse on the ocean'",
+             "'The discourse on stains'"],
+         "correct": 1,
+         "expl": "Dutiyabandhanasutta, paired with AN 8.17's "
+                 "Paṭhamabandhanasutta."},
+        {"q": "How many of the eight features differ from AN 8.17's list?",
+         "opts": [
+             "All eight are different",
+             "None — all eight are identical, word for word",
+             "Four are different",
+             "Only the first feature differs"],
+         "correct": 1,
+         "expl": "A complete, word-for-word match apart from the reversed "
+                 "subject and object."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Vesālī",
+             "No setting is stated in the source", "Yes, at Campā"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.17's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("The identical eight, reversed", [
+            "weeping, laughing, speaking,",
+            "appearance, flowers, scents,",
+            "tastes, and touches — man to woman now",
+        ]),
+        ("Symmetry as the point", [
+            "not one gender's fault —",
+            "the pairing itself argues:",
+            "both directions, equally",
+        ]),
+        ("Touch, ranked strongest again", [
+            "the same closing line",
+            "as AN 8.17's own —",
+            "unchanged by the reversal",
+        ]),
+        ("Cross-references", [
+            "AN 8.17 &middot; previous, the mirror image of this same list",
+            "AN 8.19 &middot; next, a very different register: the ocean's "
+            "eight wonders",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.17.html">AN 8.17 &middot; Catching (1st)</a> &mdash; previous, the '
+        "mirror image of this same list.",
+        '<a href="an-8.19.html">AN 8.19 &middot; With Pahārāda</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.19 — Pahārādasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, "Pahārāda", "With Pahārāda",
+    vagga=VAGGA_2,
+    meta_title="AN 8.19 — With Pahārāda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pahārādasutta, one of the tradition's most famous similes: eight "
+        "incredible things the titans love about the ocean, matched point "
+        "for point against eight incredible things mendicants love about "
+        "the teaching and training. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Verañjā, at the root of the same neem tree named in AN "
+                    "8.11, this time with the titan-lord Pahārāda as "
+                    "interlocutor"),
+        ("Speakers", "Pahārāda, lord of titans, and the Buddha"),
+        ("Form", "A question-and-answer exchange, eight qualities of the "
+                 "ocean matched point for point against eight qualities of "
+                 "the Buddha's own teaching and training"),
+        ("Length", "~5 minutes to read"),
+        ("One of the tradition's best-known similes", "This ocean-and-"
+                                                       "Dhamma comparison is "
+                                                       "among the most widely "
+                                                       "cited extended "
+                                                       "similes in the "
+                                                       "canon, recurring in "
+                                                       "the Vinaya's own "
+                                                       "account of the "
+                                                       "uposatha and echoed "
+                                                       "again at AN 8.20, "
+                                                       "immediately following"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; eight "
+                       "parallel points, each requiring its own comparison "
+                       "to be held in mind"),
+    ],
+    why=(
+        "Asked why the titans love the ocean, Pahārāda names eight "
+        "incredible and amazing features &mdash; its gradual slope, its "
+        "steady shoreline, its rejection of carcasses, how great rivers "
+        "lose their names on entering it, its constant volume, its single "
+        "taste of salt, its many treasures, and the great beings that live "
+        "in it &mdash; and the Buddha matches each, point for point, against "
+        "an equally incredible feature of his own teaching and training."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as the ocean has eight incredible and amazing qualities "
+            "that make the titans love it, the Buddha's own teaching and "
+            "training has eight parallel qualities &mdash; gradual "
+            "training, unbreakable rules, expelling the corrupt, erasing "
+            "caste distinctions, a single taste of freedom, spiritual "
+            "treasures, and noble beings within it &mdash; that make the "
+            "mendicants love it."]),
+        ("The ocean's eight qualities", [
+            "A gradual slope with no sudden precipice; a consistent "
+            "shoreline that never overflows its bounds; refusing to "
+            "accommodate a corpse, carrying it quickly to shore; great "
+            "rivers losing their separate names and clans on entering it; "
+            "never emptying or overfilling despite every stream and "
+            "rainfall; a single uniform taste of salt; abundant treasures "
+            "such as pearls and gems; and enormous life-forms living "
+            "within it."]),
+        ("Each quality, matched to the teaching", [
+            "Gradual slope becomes gradual training toward awakening, not "
+            "sudden penetration. An unbreaking shoreline becomes training "
+            "rules disciples won't break even at the cost of their own "
+            "life. Rejecting a corpse becomes the Saṅgha's swift expulsion "
+            "of the corrupt. Rivers losing their names becomes people of "
+            "all four classes losing their former caste on going forth, "
+            "becoming simply &ldquo;ascetics who follow the Sakyan.&rdquo;"]),
+        ("From constant volume to noble beings within", [
+            "Never emptying or filling becomes the element of "
+            "extinguishment neither shrinking nor swelling no matter how "
+            "many attain it. A single taste of salt becomes a single taste "
+            "of freedom. The ocean's treasures become the mindfulness "
+            "meditations, right efforts, and other factors of awakening. "
+            "And the ocean's great life-forms become the four pairs of "
+            "noble persons, from stream-enterer to the perfected one, "
+            "living within the teaching itself."]),
+    ],
+    terms=[
+        ("acchariyo abbhuto dhammo",
+         "&ldquo;incredible and amazing thing&rdquo; &mdash; the standing "
+         "description applied to all eight qualities of both the ocean and "
+         "the teaching."),
+        ("anupubbasikkhā anupubbakiriyā anupubbapaṭipadā",
+         "&ldquo;gradual training, progress, and practice&rdquo; &mdash; the "
+         "teaching's own first parallel, matched against the ocean's "
+         "gradual slope without abrupt precipice."),
+        ("na kuṇapaṁ mahāsamuddo vasati",
+         "&ldquo;the ocean doesn't accommodate a carcass&rdquo; &mdash; the "
+         "third ocean quality, matched against the Saṅgha's swift expulsion "
+         "of a corrupt individual, even one sitting in its very midst."),
+        ("samuddo ... ekaraso loṇaraso",
+         "&ldquo;the ocean has just one taste, the taste of salt&rdquo; "
+         "&mdash; the sixth quality, matched against the teaching's own "
+         "&ldquo;one taste, the taste of freedom&rdquo; (vimuttiraso)."),
+        ("sotāpanno ca sotāpattiphalasacchikiriyāya paṭipanno",
+         "the four pairs of noble persons &mdash; stream-enterer through the "
+         "perfected one &mdash; matched against the ocean's own great "
+         "life-forms, some hundreds of leagues long."),
+    ],
+    text_intro=(
+        "The discourse in full: Pahārāda's eight qualities of the ocean, and "
+        "the Buddha's eight parallel qualities of the teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The question, and the ocean's eight qualities"),
+        ("p", "&sect;1", "an8.19:1.1-9.4"),
+        ("h3", "The teaching's eight parallel qualities"),
+        ("p", "&sect;2", "an8.19:10.1-19.1"),
+    ],
+    quiz=[
+        {"q": "What eight qualities does Pahārāda name as reasons the "
+              "titans love the ocean?",
+         "opts": [
+             "Its color, temperature, depth, and four more physical traits",
+             "Gradual slope, steady shoreline, rejecting carcasses, rivers "
+             "losing their names, constant volume, one taste, treasures, "
+             "and great beings",
+             "Its size alone",
+             "Eight named sea gods"],
+         "correct": 1,
+         "expl": "Eight incredible and amazing features, each matched to a "
+                 "quality of the teaching."},
+        {"q": "What does the ocean's refusal to accommodate a carcass match "
+              "in the teaching?",
+         "opts": [
+             "Funeral rites for deceased mendicants",
+             "The Saṅgha's swift expulsion of a corrupt individual, even one "
+             "sitting in its very midst",
+             "A prohibition against eating meat",
+             "Cremation practices"],
+         "correct": 1,
+         "expl": "A quick, decisive removal, matched point for point to the "
+                 "ocean's own behavior."},
+        {"q": "What does rivers losing their names on entering the ocean "
+              "match in the teaching?",
+         "opts": [
+             "Nothing; this quality has no parallel",
+             "People of all four classes losing their former caste "
+             "identities on going forth, becoming simply 'ascetics who "
+             "follow the Sakyan'",
+             "Rivers are mentioned only metaphorically with no application",
+             "The renaming of monasteries"],
+         "correct": 1,
+         "expl": "A dissolution of caste distinction upon entering the "
+                 "monastic life."},
+        {"q": "What is the ocean's 'single taste,' and what does it match?",
+         "opts": [
+             "The taste of sweetness, matching the taste of generosity",
+             "The taste of salt, matching the teaching's single taste of "
+             "freedom",
+             "The taste of bitterness, matching the taste of renunciation",
+             "No taste is mentioned"],
+         "correct": 1,
+         "expl": "Ekaraso loṇaraso matched against vimuttiraso, one taste "
+                 "of freedom."},
+        {"q": "What do the ocean's great life-forms match in the teaching?",
+         "opts": [
+             "Nothing; this quality is purely descriptive",
+             "The four pairs of noble persons, from the stream-enterer "
+             "through the perfected one",
+             "The Buddha's own physical appearance",
+             "Wealthy lay donors"],
+         "correct": 1,
+         "expl": "Noble beings living within the teaching, paralleling "
+                 "enormous beings living within the ocean."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Verañjā, at the same neem tree "
+                                          "named in AN 8.11",
+             "Rājagaha, on Vulture's Peak", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "The same location as AN 8.11, this time with the "
+                 "titan-lord Pahārāda."},
+    ],
+    marginalia=[
+        ("Eight wonders of the ocean", [
+            "gradual slope, steady shore,",
+            "no carcass, rivers renamed,",
+            "one taste, treasures, great beings",
+        ]),
+        ("Matched point for point", [
+            "the ocean's own eight",
+            "become eight of the teaching —",
+            "gradual training, one taste of freedom",
+        ]),
+        ("Caste dissolved on entering", [
+            "as rivers lose their names",
+            "in the ocean's single body —",
+            "so castes dissolve, going forth",
+        ]),
+        ("Cross-references", [
+            "AN 8.18 &middot; previous, the mirror image of catching",
+            "AN 8.20 &middot; next, this same eightfold ocean simile, "
+            "reused in a very different setting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.18.html">AN 8.18 &middot; Catching (2nd)</a> &mdash; previous.',
+        '<a href="an-8.20.html">AN 8.20 &middot; Sabbath</a> &mdash; next, closing this '
+        "chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.20 — Uposathasutta — closes ch.2 Mahāvagga
+# --------------------------------------------------------------------------- #
+page(
+    20, "Uposatha", "Sabbath",
+    vagga=VAGGA_2,
+    meta_title="AN 8.20 — Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Uposathasutta, closing this chapter with the Buddha's refusal to "
+        "recite the monastic code before an impure assembly, Mahāmoggallāna "
+        "ejecting the offender by force, and the same eight ocean wonders "
+        "met at AN 8.19 recalled by explicit cross-reference. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra's mother in "
+                    "the Eastern Monastery, on the sabbath night"),
+        ("Speakers", "Venerable Ānanda, the Buddha, and Venerable "
+                     "Mahāmoggallāna"),
+        ("Form", "A narrative in three watches of the night, then the same "
+                 "eight ocean qualities as AN 8.19, this time compressed by "
+                 "an explicit textual cross-reference rather than restated "
+                 "in full"),
+        ("Length", "~4 minutes to read"),
+        ("A named cross-reference, not a generic peyyāla", "Where this "
+                                                            "project has met "
+                                                            "many peyyāla "
+                                                            "compressions "
+                                                            "using ellipsis, "
+                                                            "this discourse's "
+                                                            "own source text "
+                                                            "explicitly says "
+                                                            "&ldquo;tell in "
+                                                            "full as in the "
+                                                            "previous "
+                                                            "discourse&rdquo; "
+                                                            "&mdash; a direct "
+                                                            "citation of AN "
+                                                            "8.19 by name, "
+                                                            "not a generic "
+                                                            "abbreviation "
+                                                            "formula"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a vivid "
+                       "narrative core, with a compressed doctrinal close "
+                       "that rewards having just read AN 8.19"),
+    ],
+    why=(
+        "Three times Ānanda asks the Buddha to recite the monastic code to "
+        "the assembled monks on the sabbath night, and three times the "
+        "Buddha stays silent, until he reveals the assembly is impure; "
+        "Mahāmoggallāna scans the Saṅgha's minds, finds the offender, and "
+        "physically ejects him when he refuses to leave, after which the "
+        "Buddha declares he will never again recite the code himself, and "
+        "recalls the same eight ocean wonders met at AN 8.19 by name."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha refuses three times to recite the monastic code "
+            "while an unethical, corrupt individual sits undetected within "
+            "the assembly; once Mahāmoggallāna physically ejects that "
+            "person, the Buddha declares he will never personally recite "
+            "the code again, since it's impossible for a Realized One to "
+            "recite it in an impure assembly &mdash; itself an instance of "
+            "the ocean's refusal to accommodate a corpse, the very quality "
+            "named at AN 8.19."]),
+        ("Three requests, three silences", [
+            "In each of the night's three watches, Ānanda formally requests "
+            "the recitation, describing the lateness of the hour with "
+            "escalating detail. Each time the Buddha simply stays silent, "
+            "building tension until, on the third request, he finally "
+            "names the problem: the assembly itself is not pure."]),
+        ("Mahāmoggallāna scans, confronts, and ejects", [
+            "Rather than the Buddha naming the offender directly, "
+            "Mahāmoggallāna uses his own power to encompass the minds of "
+            "everyone present, locates the unethical individual sitting in "
+            "the Saṅgha's very midst, and asks him to leave three times. "
+            "When the man stays silent all three times, Mahāmoggallāna "
+            "takes him by the arm and physically ejects him, bolting the "
+            "door behind him."]),
+        ("The ocean simile recalled by explicit citation", [
+            "Having declared he will never again personally recite the "
+            "code, the Buddha explains why by returning to the same eight "
+            "wonders of the ocean and the teaching met at AN 8.19 &mdash; "
+            "but this time the source text itself abbreviates by instructing "
+            "the reciter to &ldquo;tell in full as in the previous "
+            "discourse,&rdquo; a direct, named citation rather than a "
+            "generic ellipsis, giving only the first and eighth items in "
+            "full here."]),
+    ],
+    terms=[
+        ("uposatho",
+         "&ldquo;sabbath&rdquo; &mdash; this discourse's own title term, "
+         "the observance day on which the monastic code is recited before "
+         "the assembled Saṅgha."),
+        ("na parisuddhā, ānanda, parisā",
+         "&ldquo;Ānanda, the assembly is not pure&rdquo; &mdash; the "
+         "Buddha's own terse revelation, breaking his third silence."),
+        ("cetasā cetoparivitakkamaññāya",
+         "&ldquo;encompassing the minds of everyone in the Saṅgha&rdquo; "
+         "&mdash; Mahāmoggallāna's own method for locating the offender the "
+         "Buddha had detected but not named."),
+        ("bāhāyaṁ gahetvā bahi dvārakoṭṭhakā nikkhāmetvā "
+         "sūcighaṭikaṁ daṁsetvā",
+         "&ldquo;took that individual by the arm, ejected him out the gate, "
+         "and bolted the door&rdquo; &mdash; Mahāmoggallāna's own decisive, "
+         "physical resolution after three silent refusals to leave."),
+        ("vitthārena purimasuttantasadisaṁ kātabbaṁ",
+         "&ldquo;tell in full as in the previous discourse&rdquo; &mdash; "
+         "the source text's own explicit cross-reference to AN 8.19, a "
+         "named citation rather than a generic peyyāla ellipsis."),
+    ],
+    text_intro=(
+        "The discourse in full: three requests and silences, "
+        "Mahāmoggallāna's ejection of the offender, and the ocean simile "
+        "recalled by citation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three requests, three silences"),
+        ("p", "&sect;1", "an8.20:1.1-2.10"),
+        ("h3", "Mahāmoggallāna finds and ejects the offender"),
+        ("p", "&sect;2", "an8.20:3.1-5.6"),
+        ("h3", "The Buddha's declaration, and the ocean simile recalled"),
+        ("p", "&sect;3", "an8.20:6.1-9.11"),
+    ],
+    quiz=[
+        {"q": "What happens each time Ānanda asks the Buddha to recite the "
+              "monastic code, for the first two of three requests?",
+         "opts": [
+             "The Buddha immediately agrees",
+             "The Buddha stays silent, without explanation",
+             "The Buddha refuses angrily",
+             "The Buddha asks Ānanda to recite it instead"],
+         "correct": 1,
+         "expl": "Silence, building tension until the third request finally "
+                 "gets an answer."},
+        {"q": "How does Mahāmoggallāna locate the offender the Buddha had "
+              "detected but not named?",
+         "opts": [
+             "By asking each monk individually",
+             "By encompassing the minds of everyone in the Saṅgha with his "
+             "own power",
+             "By waiting for the offender to confess",
+             "By consulting the monastic register"],
+         "correct": 1,
+         "expl": "A direct use of Mahāmoggallāna's own mind-reading ability."},
+        {"q": "What does the Buddha declare after the offender is ejected?",
+         "opts": [
+             "That the sabbath observance should be abolished",
+             "That he will never again personally recite the monastic "
+             "code, since a Realized One cannot recite it in an impure "
+             "assembly",
+             "That Mahāmoggallāna should be punished for using force",
+             "That the offender should be readmitted"],
+         "correct": 1,
+         "expl": "A lasting policy change, framed as an instance of the "
+                 "ocean's own refusal to accommodate a corpse."},
+        {"q": "How does this discourse's source text handle the eight ocean "
+              "qualities, compared to a generic peyyāla ellipsis?",
+         "opts": [
+             "By restating all eight in full a second time",
+             "By explicitly instructing the reciter to 'tell in full as in "
+             "the previous discourse' — a direct, named citation of AN 8.19",
+             "By omitting the ocean simile entirely",
+             "By replacing it with an unrelated teaching"],
+         "correct": 1,
+         "expl": "A named cross-reference, distinct from this project's more "
+                 "common generic abbreviation formulas."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Verañjā, at the neem tree",
+             "Sāvatthī, in the stilt longhouse of Migāra's mother in the "
+             "Eastern Monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A specific setting on the sabbath night, distinct from AN "
+                 "8.19's own location."},
+        {"q": "How many times does Mahāmoggallāna ask the offender to leave "
+              "before physically ejecting him?",
+         "opts": [
+             "Once", "Three times, met each time with silence",
+             "Five times", "He never asks; he ejects him immediately"],
+         "correct": 1,
+         "expl": "Three silent refusals, echoing the discourse's own "
+                 "pattern of threes."},
+    ],
+    marginalia=[
+        ("Three requests, three silences", [
+            "each watch of the night,",
+            "Ānanda asks — silence,",
+            "until: 'the assembly is not pure'",
+        ]),
+        ("Mahāmoggallāna acts decisively", [
+            "scans every mind present,",
+            "asks three times, then ejects —",
+            "by the arm, out the gate, bolted",
+        ]),
+        ("Closing this chapter, by citation", [
+            "the ocean's eight wonders",
+            "recalled, not restated —",
+            "'tell in full as before'",
+        ]),
+        ("Cross-references", [
+            "AN 8.19 &middot; previous, and cited here by name",
+            "AN 8.11 &middot; earlier, opening this chapter at the same "
+            "neem tree Pahārāda's discourse named",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.20/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.19.html">AN 8.19 &middot; With Pahārāda</a> &mdash; previous, and cited '
+        "here by name.",
+        '<a href="an-8.11.html">AN 8.11 &middot; At Verañjā</a> &mdash; earlier, opening this '
+        "same chapter.",
+    ],
+)
