@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AN 6.54 — About Dhammika | Ru-Yi Meditation Center</title>
+<meta name="description" content="A reading guide, full English text, and self-check quiz for the Dhammikasutta, closing the Sixes' First Fifty as a mendicant banished from seven monasteries for abuse learns, through the parable of a felled banyan tree, what an ascetic's duty actually is. From Ru-Yi Meditation Center.">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon-16.png">
+  <link rel="icon" href="../../assets/images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/apple-touch-icon.png">
+  <meta name="theme-color" content="#559986">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", sans-serif; background: #fff; color: #1a1a1a; line-height: 1.7; font-size: 20px; -webkit-font-smoothing: antialiased; }
+  .container { max-width: 720px; margin: 0 auto; padding: 48px 24px 96px; }
+  .crumb { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6b6b; margin-bottom: 28px; }
+  .crumb a { color: #6b6b6b; text-decoration: none; } .crumb a:hover { color: #1a1a1a; }
+  .crumb span { color: #b8b8b8; margin: 0 8px; }
+  .sutta-number { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.18em; color: #6b6b6b; text-transform: uppercase; margin-bottom: 12px; }
+  h1 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: clamp(38px, 5vw, 50px); font-weight: 400; line-height: 1.18; letter-spacing: -0.01em; margin-bottom: 14px; color: #1a1a1a; }
+  .subtitle { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 24px; font-style: italic; color: #4a4a4a; margin-bottom: 40px; }
+  .glance { background: #f3f5f7; border-left: 3px solid #1a1d23; padding: 22px 26px; margin-bottom: 56px; font-size: 18px; line-height: 1.7; }
+  .glance dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 16px; }
+  .glance dt { color: #6b6b6b; font-weight: 600; } .glance dd { color: #1a1d23; }
+  .tabs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 8px 0 48px; position: sticky; top: 0; background: #fff; padding: 14px 0 16px; z-index: 10; }
+  .tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 20px 22px 22px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease; }
+  .tab-num { font-family: Georgia, "Times New Roman", serif; font-size: 13px; letter-spacing: 0.18em; color: #a64018; margin-bottom: 8px; font-weight: 400; }
+  .tab-label { font-family: Georgia, "Times New Roman", serif; font-size: 23px; font-weight: 600; color: #1a1d23; line-height: 1.2; margin-bottom: 8px; transition: color 0.18s ease; }
+  .tab-sub { font-size: 14.5px; color: #6b6b6b; letter-spacing: 0.01em; line-height: 1.45; }
+  .tab:hover { border-color: #b8431c; background: #fafbfc; transform: translateY(-1px); box-shadow: 0 2px 6px rgba(140, 47, 18, 0.08); }
+  .tab:hover .tab-label { color: #1a1a1a; }
+  .tab.active { background: #f3f5f7; border-color: #b8431c; box-shadow: 0 3px 12px rgba(140, 47, 18, 0.14); }
+  .tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .tab.active .tab-num { color: #8c2f12; font-weight: 600; } .tab.active .tab-label { color: #1a1a1a; }
+  @media (max-width: 640px) { .tabs { grid-template-columns: 1fr; gap: 10px; padding: 8px 0 12px; } .tab { padding: 16px 18px 18px; } .tab-label { font-size: 21px; } }
+  [data-panel] { display: none; } [data-panel].active { display: block; }
+  section { margin-bottom: 56px; }
+  h2 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 31px; font-weight: 400; margin-bottom: 18px; color: #1a1d23; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; }
+  h3 { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 22px; font-weight: 600; margin: 28px 0 10px; color: #1a1d23; }
+  p { margin-bottom: 14px; color: #1a1d23; } p:last-child { margin-bottom: 0; }
+  .lede { font-size: 21px; color: #1a1a1a; border-left: 2px solid #b8431c; padding-left: 18px; margin: 0 0 24px; }
+  ul, ol { margin: 0 0 16px 22px; } li { margin-bottom: 8px; color: #1a1d23; } li strong { color: #1a1a1a; }
+  table { width: 100%; border-collapse: collapse; margin: 18px 0 24px; font-size: 18px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #dee2e6; vertical-align: top; }
+  th { background: #f3f5f7; color: #1a1d23; font-weight: 600; font-size: 17px; letter-spacing: 0.02em; }
+  .terms { background: #f5f6f8; border: 1px solid #dee2e6; padding: 20px 24px; border-radius: 4px; font-size: 18px; }
+  .terms .term { margin-bottom: 14px; } .terms .term:last-child { margin-bottom: 0; }
+  .terms .pali-word { font-family: Georgia, serif; font-style: italic; font-weight: 600; color: #1a1a1a; }
+  .text-intro { background: #fafbfc; border-left: 3px solid #b8431c; padding: 14px 20px; margin-bottom: 20px; font-size: 17px; color: #4a4a4a; line-height: 1.65; }
+  .text-block { font-family: Georgia, "Times New Roman", "PingFang TC", serif; font-size: 21px; line-height: 1.85; color: #1a1a1a; }
+  .text-block p { margin-bottom: 14px; }
+  .segno { display: inline-block; color: #a64018; font-family: Georgia, serif; font-size: 15px; font-style: italic; margin-right: 8px; vertical-align: 2px; }
+  .compact { background: #f3f5f7; border-left: 2px solid #d8dadf; padding: 14px 20px; margin: 18px 0; font-family: -apple-system, sans-serif; font-size: 17px; color: #6b6b6b; line-height: 1.7; font-style: italic; }
+  .compact strong { color: #1a1d23; font-style: normal; font-weight: 600; }
+  .ending-mark { text-align: center; color: #b8431c; letter-spacing: 0.8em; margin: 32px 0 0; font-size: 21px; }
+  .quiz { background: #f5f6f8; border: 1px solid #dee2e6; border-radius: 6px; padding: 28px 26px; }
+  .quiz .q { padding: 18px 0 20px; border-bottom: 1px solid #dee2e6; }
+  .quiz .q:first-of-type { padding-top: 4px; } .quiz .q:last-of-type { border-bottom: none; padding-bottom: 4px; }
+  .quiz .q-num { display: inline-block; font-family: Georgia, serif; font-size: 15px; letter-spacing: 0.1em; color: #b8431c; text-transform: uppercase; margin-bottom: 6px; }
+  .quiz .q-text { font-size: 19px; color: #1a1a1a; margin-bottom: 14px; line-height: 1.55; }
+  .quiz .opt { display: block; width: 100%; text-align: left; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 11px 16px; margin-bottom: 8px; font-size: 18px; color: #1a1d23; cursor: pointer; font-family: inherit; line-height: 1.5; transition: background 0.12s, border-color 0.12s; }
+  .quiz .opt:hover:not(:disabled) { background: #f3f5f7; border-color: #b8431c; }
+  .quiz .opt:disabled { cursor: default; }
+  .quiz .opt.correct { background: #f0f7ee; border-color: #6ba368; color: #2d5a2a; }
+  .quiz .opt.wrong { background: #fbf1ef; border-color: #c87b6f; color: #7a3a31; }
+  .quiz .opt.correct::after { content: "  \2713"; color: #6ba368; font-weight: 700; }
+  .quiz .opt.wrong::after { content: "  \2717"; color: #c87b6f; font-weight: 700; }
+  .quiz .expl { display: none; margin-top: 12px; padding: 12px 16px; background: #fafbfc; border-left: 2px solid #b8431c; font-size: 17px; color: #4a4a4a; line-height: 1.65; border-radius: 0 4px 4px 0; }
+  .quiz .expl.show { display: block; } .quiz .expl strong { color: #1a1d23; }
+  .score-bar { margin-top: 20px; padding: 14px 18px; background: #fff; border: 1px solid #dee2e6; border-radius: 4px; font-size: 17px; color: #4a4a4a; text-align: center; }
+  .score-bar strong { color: #1a1d23; font-size: 19px; }
+  .resources { font-size: 18px; }
+  .resources a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  .resources a:hover { color: #6b6b6b; } .resources li { margin-bottom: 10px; }
+  footer { margin-top: 80px; padding-top: 28px; border-top: 1px solid #dee2e6; font-size: 17px; color: #6b6b6b; text-align: center; }
+  footer a { color: #6b6b6b; text-decoration: underline; text-underline-offset: 3px; } footer a:hover { color: #1a1a1a; }
+  .nav-prev-next { display: flex; justify-content: space-between; margin: 48px 0 0; padding: 24px 0 0; border-top: 1px solid #dee2e6; font-size: 17px; }
+  .nav-prev-next a { color: #1a1d23; text-decoration: none; }
+  .nav-prev-next .label { display: block; color: #b8b8b8; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
+  .nav-prev-next .next { text-align: right; }
+  @media (min-width: 1100px) {
+    .container { max-width: 1380px; display: grid; grid-template-columns: 220px 1fr 240px; grid-template-areas: "header header header" "sidebar main marginalia" "footer footer footer"; column-gap: 48px; padding-top: 32px; }
+    .pv-header { grid-area: header; } .pv-sidebar { grid-area: sidebar; } .pv-main { grid-area: main; min-width: 0; } .pv-marginalia { grid-area: marginalia; } .pv-footer { grid-area: footer; }
+    .pv-main .tabs { display: none !important; }
+    .pv-sidebar, .pv-marginalia { position: sticky; top: 64px; align-self: start; }
+  }
+  .side-tabs { display: flex; flex-direction: column; gap: 8px; }
+  .side-tab { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 14px 16px; border: 1.5px solid #dee2e6; border-radius: 6px; background: #fff; cursor: pointer; font-family: inherit; position: relative; overflow: hidden; transition: all 0.18s; }
+  .side-tab:hover { border-color: #b8431c; background: #fafbfc; }
+  .side-tab.active { background: #f5f6f8; border-color: #b8431c; }
+  .side-tab.active::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #b8431c; }
+  .side-tab-num { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.18em; color: #b8a070; margin-bottom: 4px; }
+  .side-tab.active .side-tab-num { color: #8c2f12; font-weight: 600; }
+  .side-tab-label { font-family: 'Playfair Display', Georgia, serif; font-size: 17px; font-weight: 600; color: #2a2725; }
+  .marginalia-block { padding: 18px 20px; background: #f5f6f8; border-radius: 6px; border-left: 3px solid #b8431c; }
+  .marginalia-block + .marginalia-block { margin-top: 24px; }
+  .marginalia-block .m-label { font-family: 'Playfair Display', Georgia, serif; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: #8c2f12; font-weight: 700; margin-bottom: 12px; }
+  .marginalia-block ul { list-style: none; padding: 0; margin: 0; font-size: 14px; line-height: 1.55; }
+  .marginalia-block li { padding: 7px 0; border-bottom: 1px solid #dee2e6; color: #4a4a4a; }
+  .marginalia-block li:last-child { border-bottom: none; }
+  .marginalia-block li .pali { font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 600; color: #2a2725; display: block; margin-bottom: 2px; font-size: 15px; }
+  @media (max-width: 1099px) { .pv-sidebar, .pv-marginalia { display: none; } }
+</style>
+<style id="ruyi-topbar">
+.site-header{background:#fff;border-bottom:1px solid #e7e7ea;position:static;font-family:'Inter',sans-serif;}
+.site-header *{box-sizing:border-box;}
+.site-header .header-inner{max-width:1280px;margin:0 auto;padding:0 56px;display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:32px;}
+.site-header .brand{display:inline-flex;align-items:center;gap:12px;text-decoration:none;color:inherit;}
+.site-header .brand:hover{text-decoration:none;}
+.site-header .brand-logo{height:44px;width:44px;display:block;flex-shrink:0;}
+.site-header .brand-name{font-family:'Playfair Display',serif;font-size:19px;font-weight:500;color:#1a1a1a;letter-spacing:.005em;line-height:1.1;}
+.site-header .brand-name em{display:block;font-style:italic;font-weight:400;color:#559986;font-size:12px;letter-spacing:.18em;text-transform:uppercase;margin-top:2px;}
+.site-header .site-nav{display:flex;gap:32px;}
+.site-header .site-nav a{font-size:15px;font-weight:500;color:#4a4d53;text-decoration:none;letter-spacing:.01em;padding:4px 0;position:relative;}
+.site-header .site-nav a:hover{color:#8c2f12;text-decoration:none;}
+.site-header .site-nav a.active{color:#1a1a1a;}
+.site-header .site-nav a.active::after{content:"";position:absolute;left:0;right:0;bottom:-22px;height:2px;background:#b8431c;}
+@media (max-width:720px){.site-header .header-inner{padding:0 22px;min-height:64px;gap:14px;flex-wrap:wrap;}.site-header .brand-name{display:none;}.site-header .site-nav{gap:16px;}.site-header .site-nav a{font-size:14px;}.site-header .site-nav a.active::after{display:none;}}
+</style>
+  <link rel="stylesheet" href="/assets/css/search.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand">
+      <img src="/logos/ruyi-logo-green.png" alt="Ru-Yi Meditation Center" class="brand-logo">
+      <span class="brand-name">Ru-Yi <em>Meditation Center</em></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/columns/">Columns</a>
+      <a href="/dharma/" class="active">Dharma</a>
+      <a href="/english-school/">English School</a>
+      <a href="/community/">Community</a>
+    </nav>
+    <button type="button" class="nav-search-btn" id="siteSearchBtn" aria-label="Search this site" title="Search (press /)"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg><span class="nav-search-label">Search</span><kbd>/</kbd></button>
+  </div>
+</header>
+
+
+<div class="container">
+  <div class="pv-header">
+
+  <nav class="crumb">
+    <a href="../../">Ru-Yi Meditation Center</a><span>&rsaquo;</span><a href="../">The Discourses</a><span>&rsaquo;</span><a href="./">Aṅguttara Nikāya</a><span>&rsaquo;</span>AN 6.54
+  </nav>
+
+  <div class="sutta-number">Aṅguttara Nikāya · Discourse 6.54</div>
+  <h1>About Dhammika</h1>
+  <p class="subtitle"><em>Dhammikasutta</em> &mdash; <em>Dhammikavagga</em> &mdash; the fifth chapter of the Sixes</p>
+
+  <div class="glance">
+    <dl>
+      <dt>Setting</dt><dd>Rājagaha, on Vulture's Peak Mountain</dd>
+      <dt>Speakers</dt><dd>The Buddha, addressing Venerable Dhammika, who has just arrived</dd>
+      <dt>Form</dt><dd>A frame narrative of repeated banishment, a bird simile, an extended parable of a banyan tree, and its direct application</dd>
+      <dt>Length</dt><dd>~7 minutes to read</dd>
+      <dt>Northern parallel</dt><dd>Parables of a tree failing its community after being wronged by one person recur in related form across Buddhist narrative literature broadly, including the Chinese Āgamas; this reading guide does not assert a specific matching sutra number</dd>
+      <dt>Difficulty</dt><dd>&starf;&starf;&starf;&#9734;&#9734; &mdash; the longest and most narratively complex discourse in this chapter, closing the First Fifty on an extended parable rather than a formula</dd>
+    </dl>
+  </div>
+
+  <section>
+    <h2>Why this discourse</h2>
+    <p class="lede">
+      Venerable Dhammika abuses every visiting mendicant at every one of the seven monasteries in his native land, and is banished from each in turn, finally banished from all seven at once. With nowhere left to go, he seeks out the Buddha &mdash; who responds not with reproach but with a bird simile and then a long parable about a magnificent banyan tree, felled by a storm after its resident deity, angered by one person's disrespect, wished it would stop bearing fruit for everyone. The parable's point turns out to be exactly Dhammika's own situation, examined from an unexpected angle.
+    </p>
+  </section>
+
+  </div>
+
+
+  <aside class="pv-sidebar">
+    <div class="side-tabs">
+      <button class="side-tab tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+        <span class="side-tab-num">01</span>
+        <span class="side-tab-label">Reading Guide</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="text" role="tab" aria-selected="false">
+        <span class="side-tab-num">02</span>
+        <span class="side-tab-label">The Text</span>
+      </button>
+      <button class="side-tab tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+        <span class="side-tab-num">03</span>
+        <span class="side-tab-label">Self-Check</span>
+      </button>
+    </div>
+  </aside>
+
+  <main class="pv-main">
+  <div class="tabs" role="tablist">
+    <button class="tab active" type="button" data-tab="guide" role="tab" aria-selected="true">
+      <span class="tab-num">01</span>
+      <span class="tab-label">Reading Guide</span>
+      <span class="tab-sub">Structured commentary &amp; key terms</span>
+    </button>
+    <button class="tab" type="button" data-tab="text" role="tab" aria-selected="false">
+      <span class="tab-num">02</span>
+      <span class="tab-label">The Text</span>
+      <span class="tab-sub">Full translation</span>
+    </button>
+    <button class="tab" type="button" data-tab="quiz" role="tab" aria-selected="false">
+      <span class="tab-num">03</span>
+      <span class="tab-label">Self-Check</span>
+      <span class="tab-sub">10-question quiz, instant feedback</span>
+    </button>
+  </div>
+
+  <section data-panel="guide" class="active">
+    <h2>Reading guide</h2>
+
+    <h3>The teaching in one sentence</h3>
+    <p>
+      An ascetic's actual duty is not to retaliate when abused, annoyed, or argued with &mdash; and Dhammika, banished from seven monasteries for doing the opposite, is shown through the parable of a banyan tree that a single guardian's overreaction to one bad actor can cost an entire community what it depended on.
+    </p>
+
+    <h3>The bird released from a ship, first</h3>
+    <p>
+      Before the main parable, the Buddha offers a smaller image: sea-merchants release a land-spotting bird from a ship out of sight of land; it searches every direction, and returns to the ship only if it finds no land anywhere. Applied to Dhammika, banished everywhere else, coming to the Buddha is framed not as a special honor sought but as the last remaining option after every other has been exhausted &mdash; a notably unflattering opening to what becomes an extended teaching.
+    </p>
+
+    <h3>The banyan tree: shared abundance, undone by one bad actor</h3>
+    <p>
+      King Koravya's royal banyan tree fed an entire community &mdash; king, troops, townspeople, ascetics, even animals, each from their own trunk, unguarded and undamaged by mutual restraint &mdash; until one person ate his fill, then broke off a branch out of simple carelessness on his way out. The tree's resident deity, outraged, wished the tree would bear no more fruit for anyone, and it stopped.
+    </p>
+
+    <h3>Sakka's question, and the deity's true fault</h3>
+    <p>
+      When the felled, fruitless tree is uprooted by a storm Sakka arranges, the grieving deity is asked a pointed question: did you stand by a tree's duty? A tree's duty, Sakka explains, is to let anyone take root, bark, leaves, flowers, or fruit as needed, without displeasure &mdash; even from someone who takes more than their share. The deity's fault was not misjudging the one bad actor, but withdrawing shared abundance from everyone in response to one person's carelessness.
+    </p>
+
+    <h3>The application, and the six teachers who follow</h3>
+    <p>
+      The Buddha states the parallel to Dhammika directly: were you standing by an ascetic's duty &mdash; not retaliating when abused &mdash; when the lay followers banished you? Dhammika admits he was not. The Buddha then names six ancient teachers, each with hundreds of disciples, and states that insulting any one of them with malicious intent brims with wickedness &mdash; but insulting a single individual &ldquo;accomplished in view,&rdquo; a fellow spiritual companion, brims with even more, because &ldquo;any injury done by those outside of the Buddhist community does not compare with what is done to one's own spiritual companions.&rdquo;
+    </p>
+  </section>
+
+  <section data-panel="guide" class="active">
+    <h2>Key terms</h2>
+    <div class="terms">
+      <div class="term">
+        <span class="pali-word">assaddhamma</span> &mdash; not directly named in this English rendering but the implicit charge against Dhammika's own conduct: behavior contrary to the true teaching, specifically retaliation.
+      </div>
+      <div class="term">
+        <span class="pali-word">samaṇadhamma</span> &mdash; &ldquo;an ascetic's duty&rdquo; &mdash; the specific standard Dhammika is asked whether he upheld, defined as not retaliating when abused, annoyed, or argued with.
+      </div>
+      <div class="term">
+        <span class="pali-word">rukkhadhamma</span> &mdash; &ldquo;a tree's duty&rdquo; &mdash; Sakka's parallel standard for the tree-deity: letting all take what they need from roots, bark, leaves, flowers, or fruit without displeasure.
+      </div>
+      <div class="term">
+        <span class="pali-word">suppatiṭṭhita</span> &mdash; &ldquo;well planted&rdquo; &mdash; the name of King Koravya's royal banyan tree, before it lost its fruit and was later restored.
+      </div>
+      <div class="term">
+        <span class="pali-word">diṭṭhisampanna</span> &mdash; &ldquo;accomplished in view&rdquo; &mdash; the discourse's term for the single individual whose insult brims with even more wickedness than insulting six famous non-Buddhist teachers together.
+      </div>
+    </div>
+  </section>
+
+  <section data-panel="text">
+    <h2>The text</h2>
+    <div class="text-intro">
+      The discourse in full: Dhammika's repeated banishment, the bird simile, the banyan tree parable, and its direct application. Translation: Bhikkhu Sujato (CC0, SuttaCentral).
+    </div>
+
+    <div class="text-block">
+
+      <h3>Banished from seven monasteries</h3>
+
+      <p><span class="segno">&sect;1</span>At one time the Buddha was staying near Rājagaha, on the Vulture&rsquo;s Peak Mountain. Now at that time Venerable Dhammika was a resident in all seven monasteries of his native land. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery. Then the local lay followers thought to themselves, &ldquo;We have supplied the mendicant Saṅgha with robes, almsfood, lodgings, and medicines and supplies for the sick. But the visiting mendicants don&rsquo;t stay. They leave, abandoning the monastery. What is the cause, what is the reason for this?&rdquo; Then the local lay followers thought to themselves, &ldquo;This Venerable Dhammika abuses visiting mendicants; he insults, harms, attacks, and harasses them. The visiting mendicants who were treated in this way do not stay. They leave, abandoning the monastery. Why don&rsquo;t we banish Venerable Dhammika?&rdquo; Then the local lay followers went up to Venerable Dhammika and said to him, &ldquo;Sir, please leave this monastery. You&rsquo;ve stayed here long enough.&rdquo; Then Venerable Dhammika left and went to another monastery. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery. Then the local lay followers thought to themselves: &hellip; They said to Venerable Dhammika, &ldquo;Sir, please leave this monastery. You&rsquo;ve stayed here long enough.&rdquo; Then Venerable Dhammika left and went to another monastery. There he abused visiting mendicants; he insulted, harmed, attacked, and harassed them. The visiting mendicants who were treated in this way did not stay. They left, abandoning the monastery. Then the local lay followers thought to themselves, &ldquo;Why don&rsquo;t we banish Venerable Dhammika from all seven monasteries in our native land?&rdquo; Then the local lay followers went up to Venerable Dhammika and said to him, &ldquo;Sir, please leave all seven monasteries in our native land.&rdquo; Then Venerable Dhammika thought, &ldquo;I&rsquo;ve been banished by the local lay followers from all seven monasteries in my native land. Where am I to go now?&rdquo; He thought, &ldquo;Why don&rsquo;t I go to see the Buddha?&rdquo;</p>
+
+      <h3>The bird released from a ship</h3>
+
+      <p><span class="segno">&sect;2</span>Then Venerable Dhammika took his bowl and robe and set out for Rājagaha. Eventually he came to Rājagaha and the Vulture&rsquo;s Peak. He went up to the Buddha, bowed, and sat down to one side. The Buddha said to him, &ldquo;So, Brahmin Dhammika, where have you come from?&rdquo; &ldquo;Sir, I&rsquo;ve been banished by the local lay followers from all seven monasteries in my native land.&rdquo; &ldquo;Enough, Brahmin Dhammika, what&rsquo;s that to you? Now that you&rsquo;ve been banished from all of those places, you have come to me. Once upon a time, some sea-merchants set sail for the ocean deeps, taking with them a land-spotting bird. When their ship was out of sight of land, they released the bird. It flew right away to the east, the west, the north, the south, upwards, and in-between. If it saw land on any side, it went there and stayed. But if it saw no land on any side it returned to the ship. In the same way, now that you&rsquo;ve been banished from all of those places, you have come to me.</p>
+
+      <h3>The banyan tree, and Sakka's storm</h3>
+
+      <p><span class="segno">&sect;3</span>Once upon a time, King Koravya had a royal banyan tree with five trunks called &lsquo;Well Planted&rsquo;. It was shady and lovely. Its canopy spread over twelve leagues, while the network of roots spread for five leagues. Its fruits were as large as a rice pot. And they were as sweet as pure wild honey. The king and harem made use of one trunk, the troops another, the people of town and country another, ascetics and brahmins another, and beasts and birds another. No-one guarded the fruit, yet no-one damaged another&rsquo;s fruits. Then a certain person ate as much as he liked of the fruit, then broke off a branch and left. Then the deity haunting the royal banyan tree thought, &lsquo;Oh lord, how incredible, how amazing! How wicked this person is, to eat as much as they like, then break off a branch and leave! Why don&rsquo;t I make sure that the royal banyan tree gives no fruit in future?&rsquo; Then the royal banyan tree gave no more fruit. Then King Koravya went up to Sakka, lord of gods, and said to him, &lsquo;Please good fellow, you should know that the royal banyan tree called Well Planted gives no fruit.&rsquo; Then Sakka used his psychic powers to will that a violent storm come. And it felled and uprooted the royal banyan tree. Then the deity haunting the tree stood to one side, miserable and sad, weeping, with a tearful face. Then Sakka went up to that deity, and said, &lsquo;Why, god, are you standing to one side, miserable and sad, weeping, with a tearful face?&rsquo; &lsquo;Because, my good fellow, a violent storm came and felled and uprooted my home.&rsquo; &lsquo;Well, did you stand by your tree&rsquo;s duty when the storm came?&rsquo; &lsquo;But my good fellow, how does a tree stand by its duty?&rsquo; &lsquo;It&rsquo;s when those who need the tree&rsquo;s roots, bark, leaves, flowers, or fruit take what they need. Yet the deity is not displeased or upset because of this. This is how a tree stands by its duty.&rsquo; &lsquo;I was not standing by a tree&rsquo;s duty when the storm came and felled and uprooted my home.&rsquo; &lsquo;God, if you were to stand by a tree&rsquo;s duty, your home may be as it was before.&rsquo; &lsquo;I will stand by a tree&rsquo;s duty! May my home be as it was before!&rsquo; Then Sakka used his psychic power to will that a violent storm come. And it raised up that mighty banyan tree and the bark of the roots was healed. In the same way, Brahmin Dhammika, were you standing by an ascetic&rsquo;s duty when the local lay followers banished you from all seven of the monasteries in your native land?&rdquo; &ldquo;But sir, how do I stand by an ascetic&rsquo;s duty?&rdquo; &ldquo;When someone abuses, annoys, or argues with an ascetic, the ascetic doesn&rsquo;t abuse, annoy, or argue back at them. That&rsquo;s how an ascetic stands by an ascetic&rsquo;s duty.&rdquo; &ldquo;I was not standing by an ascetic&rsquo;s duty when the local lay followers banished me from all seven of the monasteries in my native land.&rdquo; &ldquo;Once upon a time, there was a teacher named Sunetta. He was a religious founder and was free of desire for sensual pleasures.</p>
+
+      <h3>The application, and six ancient teachers</h3>
+
+      <p><span class="segno">&sect;4</span>He had many hundreds of disciples. He taught them the path to rebirth in the company of Divinity. Those lacking confidence in Sunetta were&mdash;when their body broke up, after death&mdash;reborn in a place of loss, a bad place, the underworld, hell. Those full of confidence in Sunetta were&mdash;when their body broke up, after death&mdash;reborn in a good place, a heavenly realm. Once upon a time there was a teacher named Mūgapakkha &hellip; Aranemi &hellip; Kuddālaka &hellip; Hatthipāla &hellip; Jotipāla. He was a religious founder and was free of desire for sensual pleasures. He had many hundreds of disciples. He taught them the way to rebirth in the company of Divinity. Those lacking confidence in Jotipāla were&mdash;when their body broke up, after death&mdash;reborn in a place of loss, a bad place, the underworld, hell. Those full of confidence in Jotipāla were&mdash;when their body broke up, after death&mdash;reborn in a good place, a heavenly realm. What do you think, Brahmin Dhammika? If someone with malicious intent were to abuse and insult these six teachers with their hundreds of followers, would they not brim with much wickedness?&rdquo; &ldquo;Yes, sir.&rdquo; &ldquo;They would indeed. But someone who abuses and insults a single individual accomplished in view with malicious intent brims even more with wickedness. Why is that? Brahmin Dhammika, I say that any injury done by those outside of the Buddhist community does not compare with what is done to one&rsquo;s own spiritual companions. So you should train like this: &lsquo;We will have no malicious intent for those who we want to have as our spiritual companions.&rsquo; That is how you should train.</p>
+
+      <h3>The closing verses</h3>
+
+      <p><span class="segno">&sect;5</span>Sunetta and Mūgapakkha, and Aranemi the brahmin, Hatthipāla the student, and Kuddālaka were Teachers. And Jotipāla Govinda was priest for seven kings. These six famous teachers, harmless ones of the past, were free of putrefaction, compassionate, gone beyond the fetter of sensuality. Detached from sensual desire, they were reborn in the realm of divinity. Many hundreds of their disciples were also free of putrefaction-stench, compassionate, gone beyond the fetter of sensuality. Detached from sensual desire, they were reborn in the realm of divinity. One who insults with malicious intent these non-Buddhist seers, free of desire, immersed in samādhi; such a man brims with much wickedness. But one who insults with malicious intent a single individual accomplished in view, a mendicant disciple of the Buddha; that man brims even more with wickedness. You shouldn&rsquo;t attack a holy person, who has given up the grounds for views. This individual is called the seventh of the noble Saṅgha. They&rsquo;re not free of desire for sensual pleasures, and their faculties are still immature: faith, mindfulness, and energy, serenity and discernment. If you attack such a mendicant, you first hurt yourself. Having hurt yourself, you harm the other. But if you protect yourself, the other is also protected. So you should protect yourself. An astute person is always uninjured.&rdquo;</p>
+
+      <div class="ending-mark">&middot; &middot; &middot;</div>
+
+    </div>
+  </section>
+
+  <section data-panel="quiz">
+    <h2>Self-check quiz</h2>
+    <p style="font-size:15px; color:#6b6b6b; margin-bottom:20px;">Ten questions. Click an answer to see immediate feedback. No score is recorded &mdash; this is for your own checking.</p>
+
+    <div class="quiz" id="quiz">
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 1 of 10</span>
+        <div class="q-text">Why is Venerable Dhammika banished from all seven monasteries in his native land?</div>
+        <button class="opt">For breaking a monastic precept related to food</button>
+        <button class="opt">For abusing, insulting, and harassing visiting mendicants, causing them to leave each monastery</button>
+        <button class="opt">For refusing to teach the Dhamma</button>
+        <button class="opt">For traveling without permission</button>
+        <div class="expl"><strong>Correct: B.</strong> A pattern repeated at each of seven monasteries in turn, before total banishment.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 2 of 10</span>
+        <div class="q-text">What does the bird-released-from-a-ship simile suggest about Dhammika's arrival at the Buddha?</div>
+        <button class="opt">That he sought out the Buddha as a special honor from the start</button>
+        <button class="opt">That coming to the Buddha was the last remaining option after every other place had been exhausted, like a bird returning to the ship only when it finds no land anywhere</button>
+        <button class="opt">That the Buddha specifically summoned him</button>
+        <button class="opt">That the bird symbolizes Dhammika's psychic powers</button>
+        <div class="expl"><strong>Correct: B.</strong> A notably unflattering opening to the teaching that follows.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 3 of 10</span>
+        <div class="q-text">What happened to King Koravya's banyan tree, and why?</div>
+        <button class="opt">It was cut down by woodcutters for timber</button>
+        <button class="opt">Its resident deity, angered that one person ate his fill and carelessly broke off a branch, wished the tree would bear no more fruit for anyone</button>
+        <button class="opt">It died of natural causes over many years</button>
+        <button class="opt">It was struck by lightning with no prior cause</button>
+        <div class="expl"><strong>Correct: B.</strong> One person's carelessness led the deity to withdraw abundance from the entire community.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 4 of 10</span>
+        <div class="q-text">According to Sakka, what was the tree-deity's actual fault?</div>
+        <button class="opt">Failing to identify the bad actor and punish them directly</button>
+        <button class="opt">Not standing by a tree's duty — withdrawing shared abundance from everyone in response to one person's carelessness, rather than tolerating what was taken without displeasure</button>
+        <button class="opt">Being too generous with the tree's fruit</button>
+        <button class="opt">Allowing animals to eat the fruit at all</button>
+        <div class="expl"><strong>Correct: B.</strong> A tree's duty is to let all take what they need without becoming displeased, even from someone taking more than their share.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 5 of 10</span>
+        <div class="q-text">How does the Buddha apply this parable directly to Dhammika?</div>
+        <button class="opt">He declares the parable unrelated to Dhammika's situation</button>
+        <button class="opt">He asks whether Dhammika was standing by an ascetic's duty — not retaliating when abused — when the lay followers banished him; Dhammika admits he was not</button>
+        <button class="opt">He praises Dhammika's conduct as entirely justified</button>
+        <button class="opt">He tells Dhammika to return and confront the lay followers</button>
+        <div class="expl"><strong>Correct: B.</strong> A direct parallel: the tree-deity's overreaction mirrors Dhammika's own retaliation against visiting mendicants.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 6 of 10</span>
+        <div class="q-text">What claim does the Buddha make about insulting the six ancient teachers versus insulting a single individual 'accomplished in view'?</div>
+        <button class="opt">Insulting the six teachers is always worse</button>
+        <button class="opt">Insulting a single individual accomplished in view — a fellow spiritual companion — brims with even more wickedness, because injury from outside the community doesn't compare to injury done within it</button>
+        <button class="opt">Both are equally wrong, with no distinction</button>
+        <button class="opt">Neither is considered wrong at all</button>
+        <div class="expl"><strong>Correct: B.</strong> A pointed claim about harm done within one's own spiritual community.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 7 of 10</span>
+        <div class="q-text">What is <em>samaṇadhamma</em>, an ascetic's duty, defined as in this discourse?</div>
+        <button class="opt">Begging for alms daily</button>
+        <button class="opt">Not retaliating — not abusing, annoying, or arguing back — when abused, annoyed, or argued with by someone else</button>
+        <button class="opt">Living in complete silence</button>
+        <button class="opt">Teaching the Dhamma to as many people as possible</button>
+        <div class="expl"><strong>Correct: B.</strong> The specific standard Dhammika is asked whether he upheld.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 8 of 10</span>
+        <div class="q-text">Where is AN 6.54 set?</div>
+        <button class="opt">Sāvatthī, in Jeta's Grove</button>
+        <button class="opt">Rājagaha, on Vulture's Peak Mountain</button>
+        <button class="opt">The land of the Cetis, at Sahajāti</button>
+        <button class="opt">Near Kimbilā</button>
+        <div class="expl"><strong>Correct: B.</strong> The location Dhammika finally reaches after being banished from all seven monasteries.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 9 of 10</span>
+        <div class="q-text">What happens to the banyan tree after Sakka's second storm?</div>
+        <button class="opt">It remains destroyed permanently</button>
+        <button class="opt">It is raised back up and the bark of its roots is healed, once the deity commits to standing by a tree's duty</button>
+        <button class="opt">A new tree grows in its place</button>
+        <button class="opt">The tree is moved to a different location</button>
+        <div class="expl"><strong>Correct: B.</strong> Restoration follows the deity's genuine commitment to the standard Sakka named.</div>
+      </div>
+
+      <div class="q" data-correct="1">
+        <span class="q-num">Question 10 of 10</span>
+        <div class="q-text">What makes AN 6.54 distinctive within this chapter, according to the guide?</div>
+        <button class="opt">It is the shortest discourse in the chapter</button>
+        <button class="opt">It is the longest and most narratively complex discourse in the chapter, closing the First Fifty on an extended parable rather than a formula</button>
+        <button class="opt">It is the only discourse spoken by a deity</button>
+        <button class="opt">It contains no verse content at all</button>
+        <div class="expl"><strong>Correct: B.</strong> A capstone narrative closing out the Sixes' first major structural division.</div>
+      </div>
+
+      <div class="score-bar" id="score-bar">Answered <strong id="answered-count">0</strong> of 10 &middot; Correct <strong id="correct-count">0</strong></div>
+    </div>
+  </section>
+
+  </main>
+
+  <aside class="pv-marginalia">
+    <div class="marginalia-block">
+      <div class="m-label">A repeated pattern</div>
+      <ul>
+        <li>banished from one</li>
+        <li>monastery after another —</li>
+        <li>seven, then all at once</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">The banyan tree</div>
+      <ul>
+        <li>shared by all, until</li>
+        <li>one careless act —</li>
+        <li>the deity withholds it all</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">A tree's actual duty</div>
+      <ul>
+        <li>let all take what they need</li>
+        <li>without displeasure —</li>
+        <li>not withdraw everything</li>
+      </ul>
+    </div>
+    <div class="marginalia-block">
+      <div class="m-label">Closing the First Fifty</div>
+      <ul>
+        <li>AN 6.1&ndash;54 complete —</li>
+        <li>the Second Fifty begins</li>
+        <li>at AN 6.55, Mahāvagga</li>
+      </ul>
+    </div>
+  </aside>
+
+  <div class="pv-footer">
+  <section>
+    <h2>Further reading</h2>
+    <ul class="resources">
+      <li><a href="https://suttacentral.net/an6.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment.</li>
+      <li><a href="an-6.53.html">AN 6.53 &middot; Diligence</a> &mdash; previous, closing this chapter's run of brahmin dialogues.</li>
+      <li><a href="an-6.43.html">AN 6.43 &middot; The Giant</a> &mdash; this chapter&rsquo;s opening, for contrast with where it closes.</li>
+    </ul>
+  </section>
+
+  <div class="nav-prev-next">
+    <a href="an-6.53.html"><span class="label">&larr; Previous</span>AN 6.53 &middot; Diligence</a>
+    <a href="an-7.6.html" class="next"><span class="label">Next &rarr;</span>AN 7.6 &middot; Wealth in Detail</a>
+  </div>
+
+  <footer>
+    <p>A series at <a href="../../">Ru-Yi Meditation Center</a></p>
+    <p style="margin-top:6px;">English translation &copy; Bhikkhu Sujato, released CC0. Reading guide written for Ru-Yi Meditation Center.</p>
+  </footer>
+  </div>
+
+
+</div>
+<script>
+(function() {
+  var tabs = document.querySelectorAll('.tab[data-tab]');
+  var panels = document.querySelectorAll('[data-panel]');
+
+  function showTab(name, opts) {
+    opts = opts || {};
+    var found = false;
+    tabs.forEach(function(tab) {
+      var isActive = tab.dataset.tab === name;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      if (isActive) found = true;
+    });
+    if (!found) return;
+    panels.forEach(function(panel) {
+      panel.classList.toggle('active', panel.dataset.panel === name);
+    });
+    if (opts.updateHash !== false) { history.replaceState(null, '', '#' + name); }
+    if (opts.scroll) { var tabBar = document.querySelector('.tabs'); if (tabBar) tabBar.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  }
+
+  tabs.forEach(function(tab) { tab.addEventListener('click', function() { showTab(tab.dataset.tab, { scroll: true }); }); });
+
+  var initialHash = window.location.hash.replace('#', '');
+  if (['guide', 'text', 'quiz'].indexOf(initialHash) !== -1) { showTab(initialHash, { updateHash: false }); }
+
+  var quiz = document.getElementById('quiz');
+  var answeredEl = document.getElementById('answered-count');
+  var correctEl = document.getElementById('correct-count');
+  var answered = 0, correct = 0;
+
+  quiz.querySelectorAll('.q').forEach(function(q) {
+    var correctIndex = parseInt(q.dataset.correct, 10);
+    var opts = q.querySelectorAll('.opt');
+    var expl = q.querySelector('.expl');
+    opts.forEach(function(btn, idx) {
+      btn.addEventListener('click', function() {
+        if (q.dataset.answered) return;
+        q.dataset.answered = '1';
+        opts.forEach(function(b) { b.disabled = true; });
+        if (idx === correctIndex) { btn.classList.add('correct'); correct++; }
+        else { btn.classList.add('wrong'); opts[correctIndex].classList.add('correct'); }
+        expl.classList.add('show');
+        answered++;
+        answeredEl.textContent = answered;
+        correctEl.textContent = correct;
+      });
+    });
+  });
+})();
+</script>
+
+  <script defer src="/assets/js/search.js"></script>
+</body>
+</html>
