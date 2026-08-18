@@ -7,11 +7,10 @@ INDEX_HEADING = "Chakka Nipāta — The Sixes"
 # an-6.16.html and an-6.63.html were published before this series began working
 # in order, in the earlier eighteen-page selection; they are listed in the
 # index by INDEX_EXTRA and are not generated here. HEAD points at the last
-# page the Fives module reached. TAIL points at the nearest already-published
-# page beyond the Sixes -- an-7.6.html, from the same earlier selection --
-# until the Sevens module exists and TAIL can move to its own first page.
+# page the Fives module reached. TAIL now points at the Sevens module's own
+# first page, an-7.1.html.
 HEAD = ("an-5.308-1152.html", "AN 5.308&ndash;1152 &middot; Untitled Discourses on Greed, and So On")
-TAIL = ("an-7.6.html", "AN 7.6 &middot; Wealth in Detail")
+TAIL = ("an-7.1.html", "AN 7.1 &middot; Pleasing (1st)")
 INDEX_EXTRA = [
     ("an-6.16", "Nakulapitā", "Nakula's Father"),
     ("an-6.63", "Nibbedhika", "Penetrative"),
