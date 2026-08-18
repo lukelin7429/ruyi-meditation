@@ -46597,3 +46597,2010 @@ page(
         "speeches.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.231 — Āvāsikasutta
+# --------------------------------------------------------------------------- #
+VAGGA_24 = "<em>Āvāsikavagga</em> &mdash; the twenty-fourth chapter of the Fives"
+
+page(
+    231, "Āvāsika", "A Resident Mendicant",
+    vagga=VAGGA_24,
+    meta_title="AN 5.231 — A Resident Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Āvāsikasutta, opening the Āvāsikavagga — five qualities that make a "
+        "monastery's resident mendicant admirable, or not. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, unadmirable then admirable"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "opening a new chapter on residential leadership"),
+    ],
+    why=(
+        "This chapter opens by naming a specific monastic role &mdash; the "
+        "<em>āvāsika</em>, a mendicant who resides at and helps steward a "
+        "particular monastery &mdash; and asking directly what makes someone "
+        "in that role genuinely admirable, or genuinely not."),
+    guide=[
+        ("A new chapter on residential stewardship", [
+            "The Āvāsikavagga (&ldquo;A Resident Mendicant&rdquo;) turns "
+            "from this collection's recent concern with travel and dwelling "
+            "length to a specific role: the mendicant who resides "
+            "semi-permanently at one monastery, with responsibilities "
+            "distinct from a purely wandering practitioner's."]),
+        ("Five qualities of an unadmirable resident", [
+            "Not accomplished in presentation and duties; not learned, and "
+            "not remembering what's learned; not self-effacing, and not "
+            "enjoying self-effacement; not a good, articulate speaker; and "
+            "witless, dull, and idiotic &mdash; a picture of someone simply "
+            "unequipped for the role, in ability and in temperament alike."]),
+        ("Five matching qualities of an admirable resident", [
+            "The clean mirror: accomplished in presentation and duties, "
+            "learned and retentive, self-effacing and genuinely drawn to "
+            "self-effacement, an articulate speaker, and wise, bright, and "
+            "clever."]),
+        ("Presentation and duties, an unusual opening item", [
+            "The first quality &mdash; being &lsquo;accomplished in "
+            "presentation&rsquo; (<em>ākappasampanna</em>) alongside "
+            "diligent in duties &mdash; is a notably practical, "
+            "less-doctrinal starting point, worth noticing precisely "
+            "because a residential steward's role has a visible, public "
+            "dimension a purely wandering mendicant's doesn't."]),
+        ("What follows", [
+            "AN 5.232 shifts from bare admirability to something more "
+            "specific: what makes a resident mendicant genuinely dear and "
+            "beloved to their spiritual companions."]),
+    ],
+    terms=[
+        ("āvāsika",
+         "&ldquo;a resident mendicant&rdquo; &mdash; this chapter's title "
+         "concept, one who resides and helps steward a particular "
+         "monastery."),
+        ("ākappasampanna, vattasampanna",
+         "&ldquo;accomplished in presentation, accomplished in "
+         "duties&rdquo; &mdash; the first quality, notably practical "
+         "rather than purely doctrinal."),
+        ("bahussuto, sutadharo",
+         "&ldquo;very learned, retentive of what's learned&rdquo; &mdash; "
+         "the second quality."),
+        ("paṭisallekhitā, paṭisallānārāmo",
+         "&ldquo;self-effacing, delighting in self-effacement&rdquo; "
+         "&mdash; the third quality."),
+        ("bhāvanīya, abhāvanīya",
+         "&ldquo;admirable&rdquo; and &ldquo;not admirable&rdquo; &mdash; "
+         "this discourse's central distinction."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities of an unadmirable resident "
+        "mendicant, and five of an admirable one. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of an unadmirable resident mendicant"),
+        ("p", "&sect;1", "an5.231:1.1-1.8"),
+        ("h3", "Five qualities of an admirable resident mendicant"),
+        ("p", "&sect;2", "an5.231:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Āvāsikavagga, 'A Resident Mendicant'",
+             "Dīghacārikavagga, 'Long Wandering'",
+             "Duccaritavagga, 'Bad Conduct'",
+             "Upasampadāvagga, 'Ordination'"],
+         "correct": 0,
+         "expl": "This session's twenty-fourth chapter."},
+        {"q": "What role does 'āvāsika' name?",
+         "opts": [
+             "A mendicant who resides semi-permanently at one monastery, with stewardship responsibilities",
+             "A mendicant who never stays anywhere",
+             "A formally ordained novice only",
+             "A lay donor supporting a monastery"],
+         "correct": 0,
+         "expl": "Distinct from a purely wandering practitioner's role."},
+        {"q": "What five qualities make a resident mendicant unadmirable?",
+         "opts": [
+             "Poor presentation and duty-performance, being unlearned, not self-effacing, poor speech, and witlessness",
+             "The five precepts broken",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A picture of being unequipped in ability and temperament alike."},
+        {"q": "What is notable about the first quality named, 'ākappasampanna'?",
+         "opts": [
+             "It's a practical, visible-presentation quality, unlike purely doctrinal concerns elsewhere",
+             "It concerns only formal ordination status",
+             "It has no relevance to a residential role specifically",
+             "It concerns only meditative attainment"],
+         "correct": 0,
+         "expl": "A residential steward's role has a visible, public dimension."},
+        {"q": "What does 'paṭisallekhitā, paṭisallānārāmo' mean?",
+         "opts": [
+             "Self-effacing, and delighting in self-effacement",
+             "Boastful, and delighting in praise",
+             "Wealthy, and delighting in possessions",
+             "Formally accused, and resentful of it"],
+         "correct": 0,
+         "expl": "The third quality of an admirable resident mendicant."},
+        {"q": "What does 'bahussuto, sutadharo' mean?",
+         "opts": [
+             "Very learned, and retentive of what's learned",
+             "Unlearned, and forgetful",
+             "Wealthy, and generous",
+             "Newly ordained, and inexperienced"],
+         "correct": 0,
+         "expl": "The second quality named in both lists."},
+        {"q": "What discourse follows, shifting to a more specific concern?",
+         "opts": [
+             "AN 5.232, Liked — what makes a resident mendicant dear to companions",
+             "AN 5.240, Stinginess (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Moving from bare admirability to being genuinely beloved."},
+        {"q": "What does 'bhāvanīya' mean?",
+         "opts": [
+             "Admirable",
+             "Not admirable",
+             "Formally ordained",
+             "Newly arrived"],
+         "correct": 0,
+         "expl": "This discourse's central positive quality."},
+        {"q": "What does this chapter turn to, compared to the previous chapter's concern with travel?",
+         "opts": [
+             "A specific residential monastic role, with stewardship responsibilities",
+             "An entirely unrelated topic with no connection to monastic life",
+             "Rules for lay ordination specifically",
+             "The proper method for formal debate"],
+         "correct": 0,
+         "expl": "The āvāsika, distinct from a wandering mendicant."},
+    ],
+    marginalia=[
+        ("Five admirable qualities", [
+            "presentation &middot;",
+            "learning &middot; self-",
+            "effacement &middot;",
+            "speech &middot; wisdom",
+        ]),
+        ("A visible, public role", [
+            "presentation matters",
+            "for a steward",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āvāsika</span>",
+            "&mdash; a resident",
+            "mendicant",
+        ]),
+        ("Cross-references", [
+            "AN 5.232 &middot; next: what makes a resident mendicant "
+            "genuinely beloved",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.231/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.230.html">AN 5.230 &middot; Black Snakes (2nd)</a> '
+        "&mdash; the previous chapter's closing discourse.",
+        '<a href="an-5.232.html">AN 5.232 &middot; Liked</a> &mdash; next: '
+        "what makes a resident mendicant dear to their companions.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; where '
+        "a related fivefold formula for a senior mendicant's standing first "
+        "appears.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.232 — Piyasutta
+# --------------------------------------------------------------------------- #
+page(
+    232, "Piya", "Liked",
+    vagga=VAGGA_24,
+    meta_title="AN 5.232 — Liked | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Piyasutta — the same fivefold formula from AN 5.166's senior "
+        "mendicant, reused here for what makes a resident mendicant dear to "
+        "their companions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "classical formula, already familiar from this "
+                       "nipāta"),
+    ],
+    why=(
+        "A discourse reusing a formula this project has already encountered "
+        "once: the exact five qualities Upavāṇa named for a beloved senior "
+        "mendicant at AN 5.166, applied here without adjustment to a "
+        "resident mendicant instead."),
+    guide=[
+        ("Five qualities, already established elsewhere", [
+            "Ethical and restrained in the monastic code; very learned, "
+            "having thoroughly mastered the teachings; an articulate, "
+            "well-spoken speaker; easily accomplished in the four "
+            "absorptions; and having realized freedom of heart and freedom "
+            "by wisdom through the ending of defilements &mdash; the same "
+            "five qualities, in the same order, that Upavāṇa named for a "
+            "senior mendicant at AN 5.166."]),
+        ("A shift in audience, not content", [
+            "Where AN 5.166 asked what makes a <em>senior</em> mendicant "
+            "beloved, this discourse asks the identical question of a "
+            "<em>resident</em> mendicant &mdash; two different roles, the "
+            "same underlying standard applied to each."]),
+        ("Ethical restraint through to full liberation", [
+            "The five items trace a complete arc: basic ethical discipline, "
+            "doctrinal mastery, articulate communication, meditative "
+            "accomplishment, and finally full liberation itself &mdash; not "
+            "a checklist of separate virtues, but a single trajectory from "
+            "foundation to culmination."]),
+        ("Full liberation as the final requirement, worth noticing", [
+            "The fifth item sets a genuinely high bar: not merely admirable "
+            "conduct, but complete freedom from defilements &mdash; "
+            "suggesting that being truly beloved by one's spiritual "
+            "companions is, in this formula's view, inseparable from "
+            "genuine attainment, not simply likability."]),
+        ("What follows", [
+            "AN 5.233 takes this same formula and modifies its final item, "
+            "replacing full liberation with the ability to teach and "
+            "inspire others &mdash; a shift worth watching for as this "
+            "chapter continues to vary a shared core."]),
+    ],
+    terms=[
+        ("sīlavā, pātimokkhasaṁvarasaṁvuto",
+         "&ldquo;ethical, restrained in the monastic code&rdquo; &mdash; "
+         "the first quality, foundational discipline."),
+        ("bahussuto sutadharo sutasannicayo",
+         "&ldquo;very learned, retentive, and accumulating what's "
+         "learned&rdquo; &mdash; the second quality, doctrinal mastery."),
+        ("kalyāṇavāco, kalyāṇavākkaraṇo",
+         "&ldquo;a good speaker, articulate&rdquo; &mdash; the third "
+         "quality."),
+        ("catunnaṁ jhānānaṁ nikāmalābhī",
+         "&ldquo;easily accomplished in the four absorptions&rdquo; "
+         "&mdash; the fourth quality."),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+         "&ldquo;the undefiled freedom of heart and freedom by wisdom, "
+         "through the ending of defilements&rdquo; &mdash; the fifth and "
+         "final quality, full liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities making a resident mendicant "
+        "dear to their companions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of a beloved resident mendicant"),
+        ("p", "&sect;1", "an5.232:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "Where does this exact five-item formula already appear in this nipāta?",
+         "opts": [
+             "AN 5.166, in Upavāṇa's answer about a senior mendicant",
+             "Nowhere else in this collection",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "Reused here without adjustment, for a different role."},
+        {"q": "What five qualities does this discourse name?",
+         "opts": [
+             "Ethical restraint, learning, articulate speech, meditative accomplishment, and full liberation",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A complete arc from foundational discipline to culmination."},
+        {"q": "What shift does this discourse make relative to AN 5.166?",
+         "opts": [
+             "The audience — resident mendicant rather than senior mendicant — while content stays the same",
+             "An entirely different set of five qualities",
+             "A rejection of AN 5.166's conclusions",
+             "A shift from prose to verse"],
+         "correct": 0,
+         "expl": "The same standard applied to a different role."},
+        {"q": "What does the fifth and final item, full liberation, suggest about this formula?",
+         "opts": [
+             "Being truly beloved is, in this view, inseparable from genuine attainment, not simply likability",
+             "Liberation is entirely irrelevant to being liked",
+             "Only likability matters, regardless of attainment",
+             "The fifth item is a later, unrelated addition"],
+         "correct": 0,
+         "expl": "A genuinely high bar, not a checklist of surface virtues."},
+        {"q": "What does 'kalyāṇavāco, kalyāṇavākkaraṇo' mean?",
+         "opts": [
+             "A good, articulate speaker",
+             "A poor, mumbling speaker",
+             "One who never speaks at all",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "The third quality in this discourse's list."},
+        {"q": "What does 'āsavānaṁ khayā' refer to?",
+         "opts": [
+             "The ending of defilements",
+             "The beginning of monastic training",
+             "A formal accusation",
+             "A type of meditation retreat"],
+         "correct": 0,
+         "expl": "Part of the fifth quality, full liberation."},
+        {"q": "What discourse follows, modifying this formula's final item?",
+         "opts": [
+             "AN 5.233, Beautification — replacing liberation with teaching ability",
+             "AN 5.240, Stinginess (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A shift worth watching for as this chapter varies its shared core."},
+        {"q": "What does 'sīlavā, pātimokkhasaṁvarasaṁvuto' mean?",
+         "opts": [
+             "Ethical, restrained in the monastic code",
+             "Unethical, unrestrained",
+             "Wealthy, generous",
+             "Newly ordained, inexperienced"],
+         "correct": 0,
+         "expl": "The first, foundational quality named."},
+        {"q": "How is this five-item list best understood — as five separate virtues or as something else?",
+         "opts": [
+             "A single trajectory from foundation to culmination, not separate unrelated virtues",
+             "Five entirely independent, unrelated qualities",
+             "A random, unordered list with no coherence",
+             "A description of five different individuals"],
+         "correct": 0,
+         "expl": "Basic discipline through to full liberation, in sequence."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("A reused formula", [
+            "the same five items",
+            "as AN 5.166",
+        ]),
+        ("Foundation to culmination", [
+            "discipline, learning,",
+            "speech, meditation,",
+            "liberation",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anāsavaṁ cetovimuttiṁ</span>",
+            "&mdash; undefiled",
+            "freedom of heart",
+        ]),
+        ("Cross-references", [
+            "AN 5.166 &middot; this exact formula's first appearance, for a "
+            "senior mendicant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.232/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.231.html">AN 5.231 &middot; A Resident Mendicant</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.233.html">AN 5.233 &middot; Beautification</a> '
+        "&mdash; next: this same formula, with teaching ability replacing "
+        "liberation.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; '
+        "where this exact five-item formula first appears, for a senior "
+        "mendicant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.233 — Sobhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    233, "Sobhana", "Beautification",
+    vagga=VAGGA_24,
+    meta_title="AN 5.233 — Beautification | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sobhanasutta — the same formula as AN 5.232, with teaching ability "
+        "replacing full liberation as what makes a resident mendicant "
+        "genuinely grace a monastery. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "variant restatement, one item changed"),
+    ],
+    why=(
+        "The same three opening qualities as AN 5.232, but this discourse "
+        "replaces its closing item &mdash; full liberation &mdash; with "
+        "something more outwardly active: the ability to educate, "
+        "encourage, fire up, and inspire others with a Dhamma talk."),
+    guide=[
+        ("Three unchanged qualities", [
+            "As in AN 5.232, this discourse begins with ethical restraint, "
+            "extensive learning, and articulate speech &mdash; the same "
+            "foundation shared across this chapter's related lists."]),
+        ("Teaching ability, not personal attainment, as the fourth item", [
+            "Where AN 5.232 named the four absorptions as its fourth "
+            "quality, this discourse instead names the capacity "
+            "(<em>paṭibala</em>) to educate, encourage, fire up, and "
+            "inspire whoever approaches with a Dhamma talk &mdash; an "
+            "outwardly directed teaching skill, not an inward meditative "
+            "state."]),
+        ("Four absorptions retained as the fifth item", [
+            "The four absorptions, displaced from the fourth position, "
+            "reappear here as the fifth and final item &mdash; still part "
+            "of the formula, but no longer its culmination, replaced in "
+            "that role by teaching capacity."]),
+        ("What 'gracing the monastery' actually names", [
+            "<em>Āvāsaṁ sobheti</em>, &lsquo;graces the monastery&rsquo;, "
+            "is a vivid, almost aesthetic phrase &mdash; suggesting that a "
+            "resident mendicant's presence can genuinely improve a "
+            "monastery's character, much as this discourse's four-part "
+            "teaching skill (<em>sandassetuṁ samādapetuṁ samuttejetuṁ "
+            "sampahaṁsetuṁ</em>) is a set phrase used elsewhere in the "
+            "early texts for skillful Dhamma instruction generally."]),
+        ("A chapter building a family of related lists", [
+            "Cross-ref AN 5.232 immediately preceding: together, these two "
+            "discourses suggest this formula's core (ethics, learning, "
+            "speech) is stable, while its final item shifts depending on "
+            "what specific outcome &mdash; being beloved, or beautifying a "
+            "monastery &mdash; is being explained."]),
+    ],
+    terms=[
+        ("āvāsaṁ sobheti",
+         "&ldquo;graces the monastery&rdquo; &mdash; this discourse's "
+         "title concept, a vivid, almost aesthetic phrase."),
+        ("paṭibalo",
+         "&ldquo;capable, able&rdquo; &mdash; qualifying the fourth "
+         "quality, teaching capacity."),
+        ("sandassetuṁ samādapetuṁ samuttejetuṁ sampahaṁsetuṁ",
+         "&ldquo;to educate, encourage, fire up, and inspire&rdquo; "
+         "&mdash; a set phrase for skillful Dhamma instruction, used "
+         "elsewhere in the early texts."),
+        ("dhammiyā kathāya",
+         "&ldquo;with a Dhamma talk&rdquo; &mdash; the means by which the "
+         "fourth quality's teaching effect is achieved."),
+        ("catunnaṁ jhānānaṁ nikāmalābhī",
+         "&ldquo;easily accomplished in the four absorptions&rdquo; "
+         "&mdash; retained here as the fifth item, no longer the "
+         "formula's culmination."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities that make a resident "
+        "mendicant grace their monastery. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities that grace a monastery"),
+        ("p", "&sect;1", "an5.233:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse share unchanged with AN 5.232?",
+         "opts": [
+             "Ethical restraint, extensive learning, and articulate speech",
+             "The five precepts",
+             "The four noble truths",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "A shared foundation across this chapter's related lists."},
+        {"q": "What does this discourse name as its fourth quality, replacing AN 5.232's item there?",
+         "opts": [
+             "The capacity to educate, encourage, fire up, and inspire others with a Dhamma talk",
+             "Full liberation through the ending of defilements",
+             "Great physical strength",
+             "Formal royal appointment"],
+         "correct": 0,
+         "expl": "An outwardly directed teaching skill, not an inward attainment."},
+        {"q": "What happens to the four absorptions in this discourse, compared to AN 5.232?",
+         "opts": [
+             "They're retained but moved to the fifth position, no longer the formula's culmination",
+             "They're removed from the list entirely",
+             "They remain the fourth item, unchanged",
+             "They're doubled to eight absorptions"],
+         "correct": 0,
+         "expl": "Displaced from fourth to fifth, replaced in the culminating role."},
+        {"q": "What does 'āvāsaṁ sobheti' mean?",
+         "opts": [
+             "Graces the monastery",
+             "Destroys the monastery",
+             "Abandons the monastery",
+             "Formally purchases the monastery"],
+         "correct": 0,
+         "expl": "A vivid, almost aesthetic phrase, this discourse's title concept."},
+        {"q": "What does 'sandassetuṁ samādapetuṁ samuttejetuṁ sampahaṁsetuṁ' describe?",
+         "opts": [
+             "A set phrase for skillful Dhamma instruction, used elsewhere in the early texts",
+             "A formal ordination ceremony",
+             "A type of monastic robe",
+             "A ceremonial donation"],
+         "correct": 0,
+         "expl": "Educating, encouraging, firing up, and inspiring listeners."},
+        {"q": "What does 'paṭibalo' mean?",
+         "opts": [
+             "Capable, able",
+             "Incapable, unable",
+             "Newly ordained",
+             "Formally accused"],
+         "correct": 0,
+         "expl": "Qualifying the fourth quality, teaching capacity."},
+        {"q": "What does the comparison between AN 5.232 and AN 5.233 suggest?",
+         "opts": [
+             "The core (ethics, learning, speech) is stable, while the final item shifts by outcome",
+             "The two discourses share nothing in common at all",
+             "AN 5.233 entirely contradicts AN 5.232",
+             "Every item is identical between the two discourses"],
+         "correct": 0,
+         "expl": "The formula flexes depending on what specific outcome is being explained."},
+        {"q": "What does 'dhammiyā kathāya' mean?",
+         "opts": [
+             "With a Dhamma talk",
+             "With formal silence",
+             "With a written text only",
+             "With a ceremonial gesture"],
+         "correct": 0,
+         "expl": "The means by which the fourth quality's teaching effect is achieved."},
+        {"q": "What discourse immediately precedes this one, sharing most of its structure?",
+         "opts": [
+             "AN 5.232, Liked",
+             "AN 5.240, Stinginess (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The two discourses form a related pair."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Same foundation, new peak", [
+            "ethics, learning,",
+            "speech, then teaching",
+            "skill",
+        ]),
+        ("Absorptions, displaced", [
+            "still present, no longer",
+            "the culmination",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āvāsaṁ sobheti</span>",
+            "&mdash; graces the",
+            "monastery",
+        ]),
+        ("Cross-references", [
+            "AN 5.232 &middot; this discourse's companion, sharing three of "
+            "five items",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.233/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.232.html">AN 5.232 &middot; Liked</a> &mdash; this '
+        "discourse's companion, sharing three of five items.",
+        '<a href="an-5.234.html">AN 5.234 &middot; Very Helpful</a> &mdash; '
+        "next: a more practical variant, including physical upkeep.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; the '
+        "original source of this formula's shared opening three items.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.234 — Bahūpakārasutta
+# --------------------------------------------------------------------------- #
+page(
+    234, "Bahūpakāra", "Very Helpful",
+    vagga=VAGGA_24,
+    meta_title="AN 5.234 — Very Helpful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bahūpakārasutta — a genuinely practical variant, naming physical "
+        "repairs and hospitality logistics alongside a resident mendicant's "
+        "spiritual qualities. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "genuinely practical variant"),
+    ],
+    why=(
+        "The most concretely practical of this chapter's related lists: "
+        "alongside ethics and learning, this discourse names physical "
+        "repair work and hospitality logistics as what makes a resident "
+        "mendicant &lsquo;very helpful&rsquo; to their monastery."),
+    guide=[
+        ("Two familiar qualities, then a genuine departure", [
+            "This discourse opens with the same ethical restraint and "
+            "extensive learning already seen at AN 5.232&ndash;233, but "
+            "then departs sharply from either discourse's remaining items."]),
+        ("Literal physical maintenance", [
+            "The third quality is unambiguously concrete: repairing what is "
+            "decayed and damaged (<em>khaṇḍaphullaṁ paṭisaṅkharoti</em>) "
+            "&mdash; genuine physical upkeep of the monastery's buildings "
+            "and grounds, not a doctrinal or meditative quality at all."]),
+        ("Hospitality logistics, spelled out in direct quotation", [
+            "The fourth quality is equally practical: when a large visiting "
+            "Saṅgha arrives from abroad, going to the laypeople and "
+            "announcing, in words quoted directly, &lsquo;A large "
+            "mendicant Saṅgha is arriving with mendicants from abroad. "
+            "Make merit! Now is the time to make merit!&rsquo; &mdash; "
+            "genuine logistical initiative connecting visiting monastics "
+            "with lay donors."]),
+        ("The four absorptions, retained once more", [
+            "As in AN 5.233, the four absorptions close the list as the "
+            "fifth item &mdash; a spiritual accomplishment sitting "
+            "alongside, not above, the discourse's genuinely hands-on "
+            "concerns."]),
+        ("What genuine helpfulness looks like, according to this list", [
+            "Read as a whole, this discourse suggests real usefulness to a "
+            "monastery isn't only about personal spiritual attainment "
+            "&mdash; it includes literal maintenance work and proactive "
+            "hospitality coordination, treated here as equally worth "
+            "naming alongside ethics, learning, and meditation."]),
+    ],
+    terms=[
+        ("khaṇḍaphullaṁ paṭisaṅkharoti",
+         "&ldquo;repairs what is decayed and damaged&rdquo; &mdash; the "
+         "third quality, genuine physical maintenance work."),
+        ("nānāverajjakā bhikkhū",
+         "&ldquo;mendicants from abroad&rdquo; &mdash; the visiting "
+         "monastics whose arrival prompts the fourth quality's "
+         "announcement."),
+        ("karotha puññāni, samayo puññāni kātuṁ",
+         "&ldquo;make merit! now is the time to make merit!&rdquo; "
+         "&mdash; the direct quotation this discourse gives for the "
+         "announcement to laypeople."),
+        ("bahūpakāro",
+         "&ldquo;very helpful&rdquo; &mdash; this discourse's title "
+         "concept, the outcome all five qualities together produce."),
+        ("catunnaṁ jhānānaṁ nikāmalābhī",
+         "&ldquo;easily accomplished in the four absorptions&rdquo; "
+         "&mdash; the fifth item, retained from AN 5.233."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities that make a resident "
+        "mendicant very helpful to their monastery. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of a very helpful resident mendicant"),
+        ("p", "&sect;1", "an5.234:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What two qualities does this discourse share with AN 5.232-233?",
+         "opts": [
+             "Ethical restraint and extensive learning",
+             "The four absorptions and full liberation",
+             "Physical repair work and hospitality logistics",
+             "Nothing at all — the lists are entirely unrelated"],
+         "correct": 0,
+         "expl": "Before this discourse departs sharply from either discourse's remaining items."},
+        {"q": "What does the third quality, 'khaṇḍaphullaṁ paṭisaṅkharoti', concern?",
+         "opts": [
+             "Literally repairing what is decayed and damaged — physical maintenance work",
+             "A meditative attainment",
+             "A doctrinal teaching",
+             "A formal legal proceeding"],
+         "correct": 0,
+         "expl": "Genuine physical upkeep, not a doctrinal or meditative quality."},
+        {"q": "What direct quotation does this discourse give for the fourth quality's announcement?",
+         "opts": [
+             "'A large mendicant Saṅgha is arriving with mendicants from abroad. Make merit!'",
+             "'Do not disturb the resident mendicants under any circumstances'",
+             "'All donations must be given only in the morning'",
+             "No direct quotation is given"],
+         "correct": 0,
+         "expl": "Genuine logistical initiative connecting visitors with lay donors."},
+        {"q": "What is the fifth item in this discourse's list?",
+         "opts": [
+             "The four absorptions, easily accomplished",
+             "Full liberation from defilements",
+             "Teaching capacity",
+             "Formal royal appointment"],
+         "correct": 0,
+         "expl": "Retained from AN 5.233, alongside more practical concerns."},
+        {"q": "What does this discourse suggest about genuine usefulness to a monastery?",
+         "opts": [
+             "It includes literal maintenance and hospitality coordination, not only spiritual attainment",
+             "Only meditative attainment matters, nothing practical",
+             "Only physical labor matters, with no spiritual component",
+             "Usefulness has no connection to any of these five qualities"],
+         "correct": 0,
+         "expl": "Practical concerns treated as equally worth naming."},
+        {"q": "What does 'nānāverajjakā bhikkhū' mean?",
+         "opts": [
+             "Mendicants from abroad",
+             "Only locally ordained mendicants",
+             "Formally expelled mendicants",
+             "Lay donors visiting a monastery"],
+         "correct": 0,
+         "expl": "The visiting monastics whose arrival prompts the announcement."},
+        {"q": "What does 'bahūpakāro' mean?",
+         "opts": [
+             "Very helpful",
+             "Very unhelpful",
+             "Formally ordained",
+             "Newly arrived"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "How does this discourse's third and fourth items compare to AN 5.232's corresponding items?",
+         "opts": [
+             "They're genuinely different — concrete, practical actions rather than doctrinal or teaching qualities",
+             "They are identical in every respect",
+             "AN 5.232 has no third or fourth item at all",
+             "This discourse simply repeats AN 5.232 word for word"],
+         "correct": 0,
+         "expl": "A sharp departure into hands-on, logistical concerns."},
+        {"q": "What does 'karotha puññāni, samayo puññāni kātuṁ' mean?",
+         "opts": [
+             "'Make merit! Now is the time to make merit!'",
+             "'Do not make any offerings today'",
+             "'Wait until tomorrow to give donations'",
+             "'This monastery accepts no further visitors'"],
+         "correct": 0,
+         "expl": "The direct quotation encouraging lay merit-making."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Genuinely practical qualities", [
+            "physical repair &middot;",
+            "hospitality",
+            "announcements",
+        ]),
+        ("Usefulness, broadly defined", [
+            "not only spiritual",
+            "attainment",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">khaṇḍaphullaṁ paṭisaṅkharoti</span>",
+            "&mdash; repairing what's",
+            "decayed",
+        ]),
+        ("Cross-references", [
+            "AN 5.232&ndash;233 &middot; the related lists this discourse "
+            "departs from",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.234/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.233.html">AN 5.233 &middot; Beautification</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.235.html">AN 5.235 &middot; A Sympathetic '
+        "Mendicant</a> &mdash; next: a warmer, pastoral-care variant.",
+        '<a href="an-5.232.html">AN 5.232 &middot; Liked</a> &mdash; the '
+        "related list this discourse's opening two qualities share.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.235 — Anukampasutta
+# --------------------------------------------------------------------------- #
+page(
+    235, "Anukampa", "A Sympathetic Mendicant",
+    vagga=VAGGA_24,
+    meta_title="AN 5.235 — A Sympathetic Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anukampasutta — a warmly pastoral discourse, including a specific "
+        "deathbed mindfulness exhortation and the discipline of never "
+        "wasting an offering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "warm, genuinely pastoral discourse"),
+    ],
+    why=(
+        "The warmest of this chapter's related lists: alongside teaching "
+        "and hospitality, this discourse describes visiting the sick with a "
+        "specific deathbed exhortation, and a simple, striking discipline "
+        "&mdash; eating whatever is offered, coarse or fine, without ever "
+        "treating a gift given in faith as wasted."),
+    guide=[
+        ("Sympathy, defined by five specific actions", [
+            "Encouraging laypeople in higher ethics; equipping them to see "
+            "the truth of the teachings; visiting the sick and prompting "
+            "their mindfulness; announcing visiting Saṅghas to encourage "
+            "merit-making; and eating whatever food is offered without "
+            "waste &mdash; five concrete pastoral practices, not an "
+            "abstract feeling."]),
+        ("A specific deathbed exhortation, quoted directly", [
+            "The third quality includes an actual phrase given to the "
+            "sick: &lsquo;Establish your mindfulness, good fellows, in what "
+            "is worthy&rsquo; (<em>arahaggataṁ satiṁ upaṭṭhāpetha</em>) "
+            "&mdash; a specific, practical instruction for someone facing "
+            "illness or possibly death, not vague reassurance."]),
+        ("The same hospitality announcement as AN 5.234", [
+            "The fourth quality is identical to AN 5.234's practical "
+            "announcement about visiting Saṅghas &mdash; showing that "
+            "&lsquo;sympathy&rsquo; and &lsquo;helpfulness&rsquo;, in this "
+            "chapter's view, genuinely overlap in at least this one "
+            "concrete action."]),
+        ("Never wasting a gift given in faith", [
+            "The closing quality is a discipline of receiving, not giving: "
+            "eating whatever food is offered, coarse or fine, out of "
+            "respect for the donor's faith &mdash; treating even a modest "
+            "offering as something that shouldn't be scorned or discarded."]),
+        ("A genuinely relational picture of sympathy", [
+            "Read together, these five qualities describe sympathy as "
+            "something enacted through specific, repeated actions across a "
+            "lay community's whole life cycle &mdash; ethical guidance, "
+            "doctrinal instruction, care during illness, hospitality, and "
+            "respectful receiving &mdash; rather than as a private "
+            "sentiment."]),
+    ],
+    terms=[
+        ("adhisīle samādapeti",
+         "&ldquo;encourages them in higher ethics&rdquo; &mdash; the first "
+         "quality of a sympathetic resident mendicant."),
+        ("dhammadassane niveseti",
+         "&ldquo;equips them to see the truth of the teachings&rdquo; "
+         "&mdash; the second quality."),
+        ("arahaggataṁ satiṁ upaṭṭhāpetha",
+         "&ldquo;establish your mindfulness in what is worthy&rdquo; "
+         "&mdash; the specific deathbed exhortation quoted for the third "
+         "quality."),
+        ("saddhādeyyaṁ na vinipāteti",
+         "&ldquo;doesn't waste a gift given in faith&rdquo; &mdash; the "
+         "closing quality, a discipline of respectful receiving."),
+        ("lūkhaṁ vā paṇītaṁ vā",
+         "&ldquo;coarse or fine&rdquo; &mdash; describing the range of food "
+         "accepted without discrimination."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities that make a resident "
+        "mendicant genuinely sympathetic to lay people. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities of a sympathetic resident mendicant"),
+        ("p", "&sect;1", "an5.235:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse name for a sympathetic resident mendicant?",
+         "opts": [
+             "Encouraging ethics, teaching truth, visiting the sick, announcing visitors, and accepting offerings without waste",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Five concrete pastoral practices, not an abstract feeling."},
+        {"q": "What does this discourse quote directly for visiting someone who is sick?",
+         "opts": [
+             "'Establish your mindfulness, good fellows, in what is worthy'",
+             "'You will certainly recover soon'",
+             "'Do not worry about anything at all'",
+             "No direct quotation is given"],
+         "correct": 0,
+         "expl": "A specific, practical instruction, not vague reassurance."},
+        {"q": "What quality does this discourse share word-for-word with AN 5.234?",
+         "opts": [
+             "The announcement encouraging laypeople to make merit when a Saṅgha visits",
+             "Full liberation through the ending of defilements",
+             "Physical repair of the monastery",
+             "Nothing at all — the two discourses are entirely unrelated"],
+         "correct": 0,
+         "expl": "Sympathy and helpfulness genuinely overlap in this one action."},
+        {"q": "What does the closing quality describe?",
+         "opts": [
+             "Eating whatever food is offered, coarse or fine, without wasting a gift given in faith",
+             "Refusing all food offered by laypeople",
+             "Only accepting the finest available food",
+             "A formal fasting requirement"],
+         "correct": 0,
+         "expl": "A discipline of respectful receiving, not giving."},
+        {"q": "What does 'lūkhaṁ vā paṇītaṁ vā' mean?",
+         "opts": [
+             "Coarse or fine",
+             "Only expensive food",
+             "Only free food",
+             "A formal ceremonial meal"],
+         "correct": 0,
+         "expl": "Describing the full range of food accepted without discrimination."},
+        {"q": "What does 'adhisīle samādapeti' mean?",
+         "opts": [
+             "Encourages them in higher ethics",
+             "Discourages all ethical practice",
+             "Formally accuses them of wrongdoing",
+             "Refuses to engage with laypeople at all"],
+         "correct": 0,
+         "expl": "The first quality of a sympathetic resident mendicant."},
+        {"q": "What does 'dhammadassane niveseti' mean?",
+         "opts": [
+             "Equips them to see the truth of the teachings",
+             "Prevents them from ever learning the teachings",
+             "Formally examines their conduct",
+             "Requires them to memorize scripture verbatim"],
+         "correct": 0,
+         "expl": "The second quality named."},
+        {"q": "How does this guide describe the overall picture of sympathy this discourse presents?",
+         "opts": [
+             "Something enacted through specific actions across a lay community's whole life cycle, not a private sentiment",
+             "A purely internal feeling with no outward expression",
+             "A quality relevant only during a single life event",
+             "A formal legal obligation unrelated to genuine care"],
+         "correct": 0,
+         "expl": "Ethical guidance, teaching, illness-care, hospitality, and respectful receiving together."},
+        {"q": "What does 'saddhādeyyaṁ na vinipāteti' mean?",
+         "opts": [
+             "Doesn't waste a gift given in faith",
+             "Always wastes gifts given in faith",
+             "Refuses to accept any gifts at all",
+             "Formally returns all gifts received"],
+         "correct": 0,
+         "expl": "A discipline of respectful receiving, closing this discourse's list."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Five pastoral practices", [
+            "ethics &middot; teaching",
+            "&middot; sick-visiting &middot;",
+            "hospitality &middot;",
+            "respectful receiving",
+        ]),
+        ("A specific deathbed word", [
+            "establish mindfulness",
+            "in what is worthy",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saddhādeyya</span>",
+            "&mdash; a gift given",
+            "in faith",
+        ]),
+        ("Cross-references", [
+            "AN 5.234 &middot; the identical hospitality-announcement "
+            "quality, shared word for word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.235/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.234.html">AN 5.234 &middot; Very Helpful</a> &mdash; '
+        "the previous discourse, sharing this hospitality-announcement "
+        "quality.",
+        '<a href="an-5.236.html">AN 5.236 &middot; Deserving Criticism '
+        "(1st)</a> &mdash; next: a sharp turn toward hell and heaven.",
+        '<a href="an-5.199.html">AN 5.199 &middot; Families</a> &mdash; a '
+        "related earlier discourse on ethical renunciates visiting "
+        "households.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.236 — Paṭhamaavaṇṇārahasutta
+# --------------------------------------------------------------------------- #
+page(
+    236, "Paṭhamaavaṇṇāraha", "Deserving Criticism (1st)",
+    vagga=VAGGA_24,
+    meta_title="AN 5.236 — Deserving Criticism (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaavaṇṇārahasutta — five qualities of careless, unexamined "
+        "judgment that place a resident mendicant in hell, opening a "
+        "three-part trio. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, hell then heaven"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "first of a three-part trio building toward this "
+                       "chapter's close"),
+    ],
+    why=(
+        "This chapter's tone shifts sharply: from qualities that make a "
+        "resident mendicant admirable or helpful to a stark warning about "
+        "careless, unexamined judgment &mdash; praising the wrong people, "
+        "criticizing the wrong people, and misdirecting others' faith &mdash; "
+        "with hell as the stated consequence."),
+    guide=[
+        ("Careless judgment, examined item by item", [
+            "Without examining or scrutinizing, praising those who deserve "
+            "criticism; without examining, criticizing those who deserve "
+            "praise; without examining, arousing faith in dubious things; "
+            "without examining, failing to arouse faith in things genuinely "
+            "inspiring; and wasting a gift given in faith."]),
+        ("The recurring failure: no examination at all", [
+            "The Pali phrase <em>ananuvicca apariyogāhetvā</em>, "
+            "&lsquo;without examining or scrutinizing&rsquo;, repeats "
+            "across the first four items &mdash; the discourse's real "
+            "target isn't wrong judgment as such, but judgment made "
+            "carelessly, without the basic diligence of actually looking "
+            "closely first."]),
+        ("Praise, criticism, and faith, all treated as public acts", [
+            "Each of the four judgment-items concerns something said "
+            "publicly &mdash; who gets praised, who gets criticized, what "
+            "gets endorsed as trustworthy &mdash; recognizing that a "
+            "resident mendicant's careless words genuinely shape how a lay "
+            "community allocates its trust and support."]),
+        ("Five matching benefits, through actual examination", [
+            "The positive mirror is simple: doing the same four "
+            "assessments, but after genuine examination and scrutiny "
+            "(<em>anuvicca pariyogāhetvā</em>) &mdash; not different "
+            "conclusions necessarily, but conclusions actually earned "
+            "through care."]),
+        ("Opening a three-part trio", [
+            "AN 5.237 and AN 5.238, immediately following, share this "
+            "discourse's opening two items but progressively add "
+            "stinginess as an additional theme &mdash; a structure worth "
+            "watching unfold across all three discourses."]),
+    ],
+    terms=[
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; the "
+         "repeated diagnosis across this discourse's negative items."),
+        ("anuvicca pariyogāhetvā",
+         "&ldquo;after examining and scrutinizing&rdquo; &mdash; the "
+         "positive counterpart, the same assessments made with genuine "
+         "care."),
+        ("avaṇṇāraha, vaṇṇāraha",
+         "&ldquo;deserving of criticism&rdquo; and &ldquo;deserving of "
+         "praise&rdquo; &mdash; this discourse's title concept."),
+        ("appasādanīya, pasādanīya",
+         "&ldquo;dubious, uninspiring&rdquo; and &ldquo;inspiring, "
+         "trustworthy&rdquo; &mdash; the objects of misplaced or "
+         "well-placed faith."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered&rdquo; &mdash; the same phrase "
+         "for automatic, unavoidable consequence already seen at AN "
+         "5.173."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities placing a resident "
+        "mendicant in hell, and five placing them in heaven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities placed in hell"),
+        ("p", "&sect;1", "an5.236:1.1-1.8"),
+        ("h3", "Five qualities placed in heaven"),
+        ("p", "&sect;2", "an5.236:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What phrase repeats across this discourse's four negative judgment-items?",
+         "opts": [
+             "'Without examining or scrutinizing' (ananuvicca apariyogāhetvā)",
+             "'After careful consideration'",
+             "'With malicious intent'",
+             "'In accordance with the Vinaya'"],
+         "correct": 0,
+         "expl": "The real target isn't wrong judgment, but careless judgment."},
+        {"q": "What five qualities place a resident mendicant in hell, per this discourse?",
+         "opts": [
+             "Careless praise of the wrong people, careless criticism, misplaced and withheld faith, and wasting a gift",
+             "The five precepts broken",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A picture of unexamined public judgment."},
+        {"q": "What do the four judgment-items have in common, according to this guide?",
+         "opts": [
+             "Each concerns something said publicly, shaping how a community allocates trust",
+             "Each concerns only private, internal thought",
+             "Each applies only to formal legal proceedings",
+             "None of the four items have anything in common"],
+         "correct": 0,
+         "expl": "Careless words genuinely shape lay support and trust."},
+        {"q": "What is the positive counterpart phrase for the discourse's negative diagnosis?",
+         "opts": [
+             "'After examining and scrutinizing' (anuvicca pariyogāhetvā)",
+             "'Without any consideration at all'",
+             "'By formal decree'",
+             "'Regardless of the evidence'"],
+         "correct": 0,
+         "expl": "Not necessarily different conclusions, but conclusions actually earned."},
+        {"q": "What does 'avaṇṇāraha' mean?",
+         "opts": [
+             "Deserving of criticism",
+             "Deserving of praise",
+             "Formally accused",
+             "Newly ordained"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What discourses follow, sharing this one's opening two items?",
+         "opts": [
+             "AN 5.237 and AN 5.238, adding stinginess as an additional theme",
+             "No discourse shares any content with this one",
+             "AN 5.240 alone",
+             "AN 5.231 and AN 5.232"],
+         "correct": 0,
+         "expl": "A three-part trio, progressively building."},
+        {"q": "What does 'appasādanīya' mean?",
+         "opts": [
+             "Dubious, uninspiring",
+             "Genuinely trustworthy",
+             "Formally verified",
+             "Widely respected"],
+         "correct": 0,
+         "expl": "The object of misplaced faith in this discourse's negative list."},
+        {"q": "What does 'yathābhataṁ nikkhitto' mean, and where else does it appear?",
+         "opts": [
+             "'Placed as if delivered' — the same phrase for automatic consequence already at AN 5.173",
+             "'Formally acquitted' — unique to this discourse",
+             "'Gradually reformed' — also at AN 5.180",
+             "'Permanently expelled' — also at AN 5.211"],
+         "correct": 0,
+         "expl": "Automatic, unavoidable consequence."},
+        {"q": "What is the fifth item, common to both the negative and positive lists?",
+         "opts": [
+             "Wasting, or not wasting, a gift given in faith",
+             "Formal expulsion from the Saṅgha",
+             "Physical illness",
+             "Loss of wealth"],
+         "correct": 0,
+         "expl": "Closing both the negative and positive lists."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Careless judgment", [
+            "praise, criticism, and",
+            "faith, all misdirected",
+        ]),
+        ("Words shape trust", [
+            "public speech affects",
+            "a whole community",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ananuvicca apariyogāhetvā</span>",
+            "&mdash; without",
+            "examining",
+        ]),
+        ("Cross-references", [
+            "AN 5.237&ndash;238 &middot; next: this same opening, building "
+            "toward stinginess",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.236/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.235.html">AN 5.235 &middot; A Sympathetic '
+        "Mendicant</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.237.html">AN 5.237 &middot; Deserving Criticism '
+        "(2nd)</a> &mdash; next: this same opening, with stinginess added.",
+        '<a href="an-5.173.html">AN 5.173 &middot; Hell</a> &mdash; the '
+        "earlier discourse sharing this same phrase for automatic "
+        "consequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.237 — Dutiyaavaṇṇārahasutta
+# --------------------------------------------------------------------------- #
+page(
+    237, "Dutiyaavaṇṇāraha", "Deserving Criticism (2nd)",
+    vagga=VAGGA_24,
+    meta_title="AN 5.237 — Deserving Criticism (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaavaṇṇārahasutta — the same careless-judgment opening as AN "
+        "5.236, now paired with stinginess over monasteries and patronage. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, hell then heaven"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "second of a three-part trio"),
+    ],
+    why=(
+        "The middle discourse of this trio, keeping AN 5.236's opening "
+        "careless-judgment pair but replacing its remaining items with "
+        "stinginess over monasteries and over patronage relationships "
+        "&mdash; introducing this chapter's other recurring theme into the "
+        "sequence."),
+    guide=[
+        ("Two items unchanged from AN 5.236", [
+            "Praising, without examination, those who deserve criticism; "
+            "and criticizing, without examination, those who deserve "
+            "praise &mdash; the same opening diagnosis of careless public "
+            "judgment."]),
+        ("Two new items: stinginess, introduced", [
+            "In place of AN 5.236's remaining three items, this discourse "
+            "names being stingy and avaricious regarding monasteries "
+            "(<em>āvāsamacchariya</em>), and stingy and avaricious "
+            "regarding families &mdash; the patronage relationships a "
+            "mendicant depends on &mdash; already named in this project's "
+            "earlier classical stinginess formula at AN 5.223&ndash;224."]),
+        ("A closing item retained", [
+            "Wasting a gift given in faith closes this discourse's list "
+            "too, exactly as in AN 5.236 &mdash; the one item shared by "
+            "every discourse in this three-part trio."]),
+        ("Careless judgment and stinginess, a genuine combination", [
+            "Read together, this discourse suggests two distinct failures "
+            "&mdash; poor judgment about others, and possessive attachment "
+            "to one's own resources &mdash; can compound each other in the "
+            "same person, both landing on the same severe consequence."]),
+        ("Building toward the trio's fullest version", [
+            "AN 5.238, immediately following, adds a third stinginess item "
+            "&mdash; material things &mdash; continuing this trio's "
+            "progressive expansion before AN 5.239&ndash;240 drop the "
+            "judgment items entirely and complete the classical five-part "
+            "stinginess list on its own."]),
+    ],
+    terms=[
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; "
+         "unchanged from AN 5.236, the shared opening diagnosis."),
+        ("āvāsamacchariya, āvāsapaligedhī",
+         "&ldquo;stinginess and avarice regarding monasteries&rdquo; "
+         "&mdash; the first stinginess item introduced in this trio."),
+        ("kulamacchariya, kulapaligedhī",
+         "&ldquo;stinginess and avarice regarding families&rdquo; &mdash; "
+         "hoarding patronage relationships, the second stinginess item."),
+        ("saddhādeyyaṁ vinipāteti",
+         "&ldquo;wastes a gift given in faith&rdquo; &mdash; the closing "
+         "item, shared across all three discourses in this trio."),
+        ("paligedhī",
+         "&ldquo;avarice, greedy attachment&rdquo; &mdash; an intensifier "
+         "paired with each stinginess term in this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: careless judgment paired with stinginess "
+        "over monasteries and families. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities placed in hell"),
+        ("p", "&sect;1", "an5.237:1.1-1.8"),
+        ("h3", "Five qualities placed in heaven"),
+        ("p", "&sect;2", "an5.237:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What two items does this discourse share unchanged with AN 5.236?",
+         "opts": [
+             "Careless praise and criticism, without examination",
+             "The four absorptions and full liberation",
+             "Physical repair work and hospitality announcements",
+             "Nothing at all — the two discourses share no content"],
+         "correct": 0,
+         "expl": "The same opening diagnosis of careless public judgment."},
+        {"q": "What new theme does this discourse introduce, replacing AN 5.236's remaining items?",
+         "opts": [
+             "Stinginess over monasteries and over patronage families",
+             "Physical illness",
+             "Loss of wealth through negligence",
+             "Formal expulsion from the Saṅgha"],
+         "correct": 0,
+         "expl": "Already named in this project's earlier classical stinginess formula."},
+        {"q": "Where else in this nipāta does this classical stinginess formula first appear?",
+         "opts": [
+             "AN 5.223-224, in the previous chapter",
+             "Nowhere else in this collection",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20"],
+         "correct": 0,
+         "expl": "The same underlying formula, now applied specifically to residents."},
+        {"q": "What item closes every discourse in this three-part trio?",
+         "opts": [
+             "Wasting a gift given in faith",
+             "The four absorptions",
+             "Formal ordination",
+             "Full liberation from defilements"],
+         "correct": 0,
+         "expl": "The one item shared across AN 5.236-238."},
+        {"q": "What does 'āvāsapaligedhī' mean?",
+         "opts": [
+             "Avarice, greedy attachment, regarding monasteries",
+             "Generosity regarding monasteries",
+             "Formal ownership of a monastery",
+             "A physical repair to a monastery"],
+         "correct": 0,
+         "expl": "An intensifier paired with stinginess in this discourse."},
+        {"q": "What does this discourse suggest about combining careless judgment with stinginess?",
+         "opts": [
+             "Two distinct failures can compound each other, both landing on the same severe consequence",
+             "The two failures are entirely unrelated and never occur together",
+             "Stinginess alone determines the outcome, regardless of judgment",
+             "Careless judgment alone determines the outcome, regardless of stinginess"],
+         "correct": 0,
+         "expl": "Poor judgment about others, and possessive attachment to resources."},
+        {"q": "What does 'kulamacchariya' mean?",
+         "opts": [
+             "Stinginess regarding families — hoarding patronage relationships",
+             "Stinginess regarding material possessions only",
+             "Generosity toward families",
+             "A formal marriage arrangement"],
+         "correct": 0,
+         "expl": "The second stinginess item in this discourse's list."},
+        {"q": "What discourse follows, adding a third stinginess item?",
+         "opts": [
+             "AN 5.238, Deserving Criticism (3rd)",
+             "AN 5.240, Stinginess (2nd)",
+             "AN 5.231, A Resident Mendicant",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Continuing this trio's progressive expansion."},
+        {"q": "What eventually happens to the 'careless judgment' items later in this chapter?",
+         "opts": [
+             "They're dropped entirely, and AN 5.239-240 complete the classical five-part stinginess list on its own",
+             "They remain unchanged through every remaining discourse",
+             "They're expanded into ten items",
+             "They disappear without any replacement content"],
+         "correct": 0,
+         "expl": "A structural shift completing this chapter's build-up."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Judgment plus stinginess", [
+            "careless praise and",
+            "criticism, now with",
+            "possessiveness",
+        ]),
+        ("Two failures compounding", [
+            "poor judgment, and",
+            "attachment to resources",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āvāsamacchariya</span>",
+            "&mdash; stinginess",
+            "over monasteries",
+        ]),
+        ("Cross-references", [
+            "AN 5.223&ndash;224 &middot; this stinginess formula's earlier "
+            "appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.237/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.236.html">AN 5.236 &middot; Deserving Criticism '
+        "(1st)</a> &mdash; the previous discourse in this trio.",
+        '<a href="an-5.238.html">AN 5.238 &middot; Deserving Criticism '
+        "(3rd)</a> &mdash; next: a third stinginess item added.",
+        '<a href="an-5.223.html">AN 5.223 &middot; Overstaying</a> &mdash; '
+        "this classical stinginess formula's earlier appearance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.238 — Tatiyaavaṇṇārahasutta
+# --------------------------------------------------------------------------- #
+page(
+    238, "Tatiyaavaṇṇāraha", "Deserving Criticism (3rd)",
+    vagga=VAGGA_24,
+    meta_title="AN 5.238 — Deserving Criticism (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyaavaṇṇārahasutta — the third and final discourse in this "
+        "trio, adding stinginess over material things and dropping the "
+        "closing gift-wasting item. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, hell then heaven"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "third and final discourse in a three-part trio"),
+    ],
+    why=(
+        "The third and final discourse in this chapter's trio, keeping the "
+        "same careless-judgment opening but now naming three full items of "
+        "stinginess &mdash; monasteries, patronage families, and material "
+        "things &mdash; the fullest stinginess list this trio reaches "
+        "before the gift-wasting item drops away entirely."),
+    guide=[
+        ("The same opening, one final time", [
+            "As in AN 5.236&ndash;237, this discourse begins with careless, "
+            "unexamined praise of those deserving criticism, and careless "
+            "criticism of those deserving praise &mdash; the shared "
+            "foundation of this entire trio."]),
+        ("Three stinginess items, not two", [
+            "Where AN 5.237 named stinginess over monasteries and "
+            "families, this discourse adds a third: stinginess over "
+            "material things (<em>lābhamacchariya</em>) &mdash; continuing "
+            "this trio's progressive build toward the full classical "
+            "five-item list."]),
+        ("A quieter closing item than 5.236-237", [
+            "Unlike its two companions, this discourse's list has five "
+            "items without needing the separate &lsquo;wasting a gift "
+            "given in faith&rsquo; clause &mdash; the two judgment items "
+            "plus three stinginess items already total five on their own."]),
+        ("A trio's internal logic, now visible in full", [
+            "Read across all three discourses: AN 5.236 pairs careless "
+            "judgment with faith-related failures alone; AN 5.237 adds two "
+            "stinginess items; AN 5.238 adds a third &mdash; a genuine "
+            "progression, not simple repetition, building steadily toward "
+            "something larger."]),
+        ("What comes next", [
+            "AN 5.239 and AN 5.240 complete this build-up decisively, "
+            "dropping the careless-judgment items entirely and presenting "
+            "the classical five-part stinginess formula on its own terms "
+            "&mdash; the destination this trio has been building toward."]),
+    ],
+    terms=[
+        ("ananuvicca apariyogāhetvā",
+         "&ldquo;without examining or scrutinizing&rdquo; &mdash; the "
+         "shared opening diagnosis across all three discourses in this "
+         "trio."),
+        ("āvāsamacchariya, kulamacchariya",
+         "&ldquo;stinginess over monasteries, stinginess over "
+         "families&rdquo; &mdash; the two stinginess items carried over "
+         "from AN 5.237."),
+        ("lābhamacchariya",
+         "&ldquo;stinginess over material things&rdquo; &mdash; the third "
+         "stinginess item, newly added in this discourse."),
+        ("vaṇṇārahassa vaṇṇaṁ, avaṇṇārahassa avaṇṇaṁ",
+         "&ldquo;praise for those deserving praise, criticism for those "
+         "deserving criticism&rdquo; &mdash; the positive counterpart's "
+         "correctly matched judgments."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; the theme this trio "
+         "progressively builds toward its full classical treatment."),
+    ],
+    text_intro=(
+        "The discourse in full: careless judgment paired with three "
+        "stinginess items. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities placed in hell"),
+        ("p", "&sect;1", "an5.238:1.1-1.8"),
+        ("h3", "Five qualities placed in heaven"),
+        ("p", "&sect;2", "an5.238:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What opening does this discourse share with AN 5.236-237?",
+         "opts": [
+             "Careless, unexamined praise and criticism",
+             "The four absorptions",
+             "Physical repair work",
+             "Nothing at all — the three discourses are unrelated"],
+         "correct": 0,
+         "expl": "The shared foundation of this entire trio."},
+        {"q": "What third stinginess item does this discourse add, beyond AN 5.237's two?",
+         "opts": [
+             "Stinginess over material things (lābhamacchariya)",
+             "Stinginess over praise",
+             "Stinginess over the teaching itself",
+             "No third item is added"],
+         "correct": 0,
+         "expl": "Continuing this trio's progressive build toward the full classical list."},
+        {"q": "How does this discourse's list reach five items, differently from AN 5.236-237?",
+         "opts": [
+             "Two judgment items plus three stinginess items, without a separate gift-wasting clause",
+             "It has only four items total",
+             "It repeats the gift-wasting clause twice",
+             "It has six items instead of five"],
+         "correct": 0,
+         "expl": "The math works out differently than its two companion discourses."},
+        {"q": "What progression does this guide identify across AN 5.236-238?",
+         "opts": [
+             "A genuine build-up — zero, then two, then three stinginess items",
+             "Simple, identical repetition with no development",
+             "A decline from five items to one item",
+             "An entirely random, unordered set of variations"],
+         "correct": 0,
+         "expl": "Building steadily toward something larger."},
+        {"q": "What do AN 5.239-240 do, completing this trio's build-up?",
+         "opts": [
+             "Drop the judgment items entirely and present the full classical five-part stinginess formula",
+             "Return to AN 5.236's exact original content",
+             "Introduce an entirely unrelated new theme",
+             "Repeat AN 5.238 exactly"],
+         "correct": 0,
+         "expl": "The destination this trio has been building toward."},
+        {"q": "What does 'lābhamacchariya' mean?",
+         "opts": [
+             "Stinginess over material things",
+             "Generosity with material things",
+             "A formal legal claim to property",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The newly added third stinginess item."},
+        {"q": "What does 'ananuvicca apariyogāhetvā' mean?",
+         "opts": [
+             "Without examining or scrutinizing",
+             "After careful, thorough examination",
+             "With formal legal authority",
+             "In accordance with tradition"],
+         "correct": 0,
+         "expl": "The shared diagnostic phrase across this whole trio."},
+        {"q": "What stinginess items were already present in AN 5.237, before this discourse's addition?",
+         "opts": [
+             "Monasteries and families (patronage)",
+             "Material things and praise",
+             "The teaching itself and praise",
+             "No stinginess items were present in AN 5.237"],
+         "correct": 0,
+         "expl": "This discourse adds material things as a third."},
+        {"q": "What consequence does this discourse's negative list lead to?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth in heaven",
+             "No particular consequence",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "Matching the pattern of AN 5.236-237."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Three stinginess items now", [
+            "monasteries &middot;",
+            "families &middot;",
+            "material things",
+        ]),
+        ("A trio's visible progression", [
+            "zero, then two, then",
+            "three stinginess items",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">lābhamacchariya</span>",
+            "&mdash; stinginess over",
+            "material things",
+        ]),
+        ("Cross-references", [
+            "AN 5.239&ndash;240 &middot; next: this trio's destination, the "
+            "full classical formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.238/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.237.html">AN 5.237 &middot; Deserving Criticism '
+        "(2nd)</a> &mdash; the previous discourse in this trio.",
+        '<a href="an-5.239.html">AN 5.239 &middot; Stinginess (1st)</a> '
+        "&mdash; next: the judgment items dropped, stinginess alone.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; the '
+        "classical five-part stinginess formula this trio builds toward.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.239 — Paṭhamamacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    239, "Paṭhamamacchariya", "Stinginess (1st)",
+    vagga=VAGGA_24,
+    meta_title="AN 5.239 — Stinginess (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamamacchariyasutta — stinginess alone, without the careless-"
+        "judgment items, now covering four of the five classical domains. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, hell then heaven"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "first of a closing pair"),
+    ],
+    why=(
+        "This discourse marks the structural turn this chapter's trio had "
+        "been building toward: the careless-judgment items disappear "
+        "entirely, and stinginess &mdash; now covering four of the five "
+        "classical domains &mdash; stands entirely on its own."),
+    guide=[
+        ("Judgment items dropped, stinginess alone", [
+            "Unlike AN 5.236&ndash;238, this discourse names no careless "
+            "praise or criticism at all &mdash; its full five items "
+            "concern stinginess and a single related consequence, nothing "
+            "else."]),
+        ("Four of the five classical stinginess domains", [
+            "Stinginess regarding monasteries, families, material things, "
+            "and now praise (<em>vaṇṇamacchariya</em>) &mdash; four of the "
+            "five domains from AN 5.223&ndash;224's classical formula, one "
+            "short of the complete list."]),
+        ("A closing item retained from the earlier trio", [
+            "Wasting a gift given in faith closes this discourse's list, "
+            "exactly as in AN 5.236&ndash;238 &mdash; the one element "
+            "carried through every discourse across this chapter's second "
+            "half."]),
+        ("A four-domain stinginess, one domain short", [
+            "The single classical domain still missing here is stinginess "
+            "with the teaching itself (<em>dhammamacchariya</em>) &mdash; "
+            "already flagged in this project as the most surprising item "
+            "in the full formula, since it treats hoarding spiritual "
+            "knowledge as comparable to hoarding possessions."]),
+        ("One discourse remains to complete the set", [
+            "AN 5.240, this chapter's closing discourse, adds exactly that "
+            "missing domain, completing the full classical five-part "
+            "stinginess formula this whole trio-and-pair sequence has been "
+            "building toward."]),
+    ],
+    terms=[
+        ("āvāsamacchariya, kulamacchariya, lābhamacchariya",
+         "&ldquo;stinginess over monasteries, families, and material "
+         "things&rdquo; &mdash; the first three domains, carried over "
+         "from AN 5.237&ndash;238."),
+        ("vaṇṇamacchariya",
+         "&ldquo;stinginess over praise&rdquo; &mdash; the fourth domain, "
+         "newly added in this discourse."),
+        ("dhammamacchariya",
+         "&ldquo;stinginess over the teaching&rdquo; &mdash; the one "
+         "classical domain still missing here, added only at AN 5.240."),
+        ("saddhādeyyaṁ vinipāteti",
+         "&ldquo;wastes a gift given in faith&rdquo; &mdash; the closing "
+         "item, retained from the earlier trio."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; now the sole organizing theme "
+         "of this discourse's list, with careless judgment dropped "
+         "entirely."),
+    ],
+    text_intro=(
+        "The discourse in full: four domains of stinginess, standing on "
+        "their own. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities placed in hell"),
+        ("p", "&sect;1", "an5.239:1.1-1.8"),
+        ("h3", "Five qualities placed in heaven"),
+        ("p", "&sect;2", "an5.239:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What structural change does this discourse make, compared to AN 5.236-238?",
+         "opts": [
+             "It drops the careless-judgment items entirely, naming only stinginess and a related consequence",
+             "It adds ten new items to the list",
+             "It removes stinginess entirely",
+             "It repeats AN 5.236 word for word"],
+         "correct": 0,
+         "expl": "A structural turn this chapter's trio had been building toward."},
+        {"q": "How many of the five classical stinginess domains does this discourse cover?",
+         "opts": [
+             "Four — monasteries, families, material things, and praise",
+             "All five, including the teaching itself",
+             "Only two",
+             "None — this discourse doesn't concern stinginess at all"],
+         "correct": 0,
+         "expl": "One domain short of the complete classical formula."},
+        {"q": "What domain does this discourse newly add, beyond AN 5.237-238's items?",
+         "opts": [
+             "Stinginess over praise (vaṇṇamacchariya)",
+             "Stinginess over the teaching",
+             "Stinginess over food",
+             "No new domain is added"],
+         "correct": 0,
+         "expl": "The fourth of five classical stinginess domains."},
+        {"q": "What domain is still missing from this discourse's list?",
+         "opts": [
+             "Stinginess over the teaching (dhammamacchariya)",
+             "Stinginess over monasteries",
+             "Stinginess over families",
+             "Stinginess over material things"],
+         "correct": 0,
+         "expl": "Added only at AN 5.240, completing the classical formula."},
+        {"q": "What item closes this discourse's list, carried over from the earlier trio?",
+         "opts": [
+             "Wasting a gift given in faith",
+             "The four absorptions",
+             "Full liberation",
+             "Formal expulsion"],
+         "correct": 0,
+         "expl": "The one element carried through every discourse across this chapter's second half."},
+        {"q": "What was previously flagged as the most surprising domain in this classical formula?",
+         "opts": [
+             "Stinginess over the teaching, treating hoarded spiritual knowledge like hoarded possessions",
+             "Stinginess over material things, since it's the most ordinary",
+             "Stinginess over praise, since praise seems trivial",
+             "Stinginess over monasteries, since it's purely institutional"],
+         "correct": 0,
+         "expl": "Already noted at AN 5.224, this project's earlier full treatment."},
+        {"q": "What discourse completes the missing fifth domain?",
+         "opts": [
+             "AN 5.240, this chapter's closing discourse",
+             "AN 5.231, this chapter's opening discourse",
+             "AN 5.236, earlier in this chapter",
+             "No discourse in this chapter completes it"],
+         "correct": 0,
+         "expl": "Finishing the full classical five-part stinginess formula."},
+        {"q": "What does 'vaṇṇamacchariya' mean?",
+         "opts": [
+             "Stinginess over praise",
+             "Stinginess over color or appearance",
+             "Generosity with praise",
+             "A formal legal claim"],
+         "correct": 0,
+         "expl": "The newly added fourth domain in this discourse."},
+        {"q": "What consequence does this discourse's negative list lead to?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth in heaven",
+             "No particular consequence",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "Matching the pattern of the preceding trio."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āvāsikavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "'A Resident Mendicant', this session's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Four of five domains", [
+            "monasteries &middot;",
+            "families &middot; things",
+            "&middot; praise",
+        ]),
+        ("One domain still missing", [
+            "the teaching itself,",
+            "at AN 5.240",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vaṇṇamacchariya</span>",
+            "&mdash; stinginess",
+            "over praise",
+        ]),
+        ("Cross-references", [
+            "AN 5.224 &middot; the full classical formula this discourse "
+            "nearly completes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.239/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.238.html">AN 5.238 &middot; Deserving Criticism '
+        "(3rd)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.240.html">AN 5.240 &middot; Stinginess (2nd)</a> '
+        "&mdash; next: this chapter's closer, completing the full formula.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; the '
+        "full classical formula this discourse nearly completes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.240 — Dutiyamacchariyasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    240, "Dutiyamacchariya", "Stinginess (2nd)",
+    vagga=VAGGA_24,
+    meta_title="AN 5.240 — Stinginess (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyamacchariyasutta, closing the Āvāsikavagga — the complete "
+        "classical five-part stinginess formula, presented for a resident "
+        "mendicant, leading directly to hell or heaven. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, hell then heaven"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "closing the chapter with the fullest treatment"),
+    ],
+    why=(
+        "This chapter closes exactly where its trio of preceding discourses "
+        "had been steadily building: the complete classical five-part "
+        "stinginess formula &mdash; monasteries, families, material things, "
+        "praise, and the teaching itself &mdash; presented cleanly for a "
+        "resident mendicant, leading directly to hell or heaven."),
+    guide=[
+        ("The full five domains of stinginess, at last", [
+            "Stinginess regarding monasteries, families, material things, "
+            "praise, and the teaching itself &mdash; the identical five-part "
+            "formula already given its fullest treatment at AN 5.224, now "
+            "presented one final time as this chapter's actual closing "
+            "content."]),
+        ("A visible destination, not a coincidence", [
+            "Read across AN 5.236&ndash;240, this chapter's second half "
+            "traces a deliberate build: zero stinginess items, then two, "
+            "then three, then four, and now finally all five &mdash; a "
+            "structural choice, not simply five loosely related "
+            "discourses placed side by side."]),
+        ("Five matching benefits, the clean negation", [
+            "Freedom from stinginess in all five domains &mdash; monasteries, "
+            "families, material things, praise, and the teaching &mdash; "
+            "leading to heaven, closing this discourse and this chapter on "
+            "its positive counterpart."]),
+        ("Stinginess as this chapter's real closing concern", [
+            "It's worth noting how this chapter actually ends: not on its "
+            "opening concern with what makes a resident mendicant admirable "
+            "or helpful, but on the narrower, sharper question of what a "
+            "resident mendicant refuses to share &mdash; space, patronage, "
+            "goods, recognition, and knowledge itself."]),
+        ("Closing the chapter", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. "
+            "Āvāsikavaggo catuttho&rsquo; (&lsquo;The tenth. The fourth "
+            "chapter on a resident mendicant&rsquo;), followed by an "
+            "uddāna verse naming this chapter's ten discourses in brief "
+            "&mdash; the same summarizing mechanism explained in full at "
+            "AN 5.10."]),
+    ],
+    terms=[
+        ("āvāsamacchariya, kulamacchariya, lābhamacchariya, "
+         "vaṇṇamacchariya, dhammamacchariya",
+         "&ldquo;stinginess over monasteries, families, material things, "
+         "praise, and the teaching&rdquo; &mdash; the complete classical "
+         "five-part formula, closing this chapter."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered&rdquo; &mdash; the same phrase "
+         "for automatic consequence used throughout this chapter's "
+         "closing discourses."),
+        ("dhammamacchariya",
+         "&ldquo;stinginess over the teaching&rdquo; &mdash; the fifth "
+         "and final domain, completing what AN 5.239 left incomplete."),
+        ("āvāsika",
+         "&ldquo;a resident mendicant&rdquo; &mdash; this chapter's title "
+         "concept throughout, from opening to close."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; the theme this chapter's "
+         "second half has steadily built toward, in its full and final "
+         "form."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter: the complete "
+        "classical five-part stinginess formula. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities placed in hell"),
+        ("p", "&sect;1", "an5.240:1.1-1.8"),
+        ("h3", "Five qualities placed in heaven"),
+        ("p", "&sect;2", "an5.240:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What five domains of stinginess does this discourse name in full?",
+         "opts": [
+             "Monasteries, families, material things, praise, and the teaching",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The complete classical formula, first given in full at AN 5.224."},
+        {"q": "What build-up does this chapter's second half trace, from AN 5.236 to AN 5.240?",
+         "opts": [
+             "Zero stinginess items, then two, then three, then four, then all five",
+             "A random, unordered set of unrelated discourses",
+             "A steady decline from five items to zero",
+             "Identical repetition with no development at all"],
+         "correct": 0,
+         "expl": "A deliberate structural progression, not coincidence."},
+        {"q": "What is genuinely notable about how this chapter actually closes?",
+         "opts": [
+             "On the narrower question of what a resident mendicant refuses to share, not its opening concern with admirability",
+             "By returning to AN 5.231's exact opening content",
+             "On a completely unrelated topic with no connection to the chapter",
+             "By introducing a new chapter mid-discourse"],
+         "correct": 0,
+         "expl": "A shift from broad admirability to a sharper, specific failure."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Āvāsikavaggo catuttho.'",
+             "'Dasamaṁ. Dīghacārikavaggo tatiyo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Duccaritavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The fourth chapter on a resident mendicant.'"},
+        {"q": "What does 'dhammamacchariya' mean, and what role does it play in this chapter's sequence?",
+         "opts": [
+             "'Stinginess over the teaching' — the fifth domain, completing what AN 5.239 left incomplete",
+             "'Generosity with the teaching' — unrelated to stinginess",
+             "A formal ordination requirement",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The final domain this chapter's build-up reaches."},
+        {"q": "What mechanism does the closing uddāna verse use?",
+         "opts": [
+             "A summary verse naming this chapter's ten discourses in brief, explained in full at AN 5.10",
+             "A formal legal proceeding",
+             "A newly introduced technique unique to this chapter",
+             "A narrative epilogue with named characters"],
+         "correct": 0,
+         "expl": "The same summarizing mechanism used throughout this project."},
+        {"q": "What does 'yathābhataṁ nikkhitto' mean?",
+         "opts": [
+             "Placed as if delivered — automatic, unavoidable consequence",
+             "Formally acquitted of all wrongdoing",
+             "Gradually reformed over time",
+             "Permanently expelled without possibility of return"],
+         "correct": 0,
+         "expl": "The phrase used throughout this chapter's closing discourses."},
+        {"q": "What is the positive counterpart to this discourse's five stinginess items?",
+         "opts": [
+             "Freedom from stinginess in all five domains, leading to heaven",
+             "An entirely different set of five qualities",
+             "Only two of the five items reversed",
+             "No positive counterpart is given"],
+         "correct": 0,
+         "expl": "The clean negation, closing both this discourse and the chapter."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Duccaritavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla",
+             "Sikkhāpadapeyyāla"],
+         "correct": 0,
+         "expl": "AN 5.241 begins this collection's twenty-fifth chapter."},
+        {"q": "Where else in this nipāta does this exact complete stinginess formula appear?",
+         "opts": [
+             "AN 5.224, in the previous chapter",
+             "Nowhere else in this collection",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20"],
+         "correct": 0,
+         "expl": "This discourse's content is a familiar formula, applied here to a resident mendicant."},
+    ],
+    marginalia=[
+        ("The complete formula, at last", [
+            "monasteries &middot;",
+            "families &middot; things",
+            "&middot; praise &middot;",
+            "the teaching",
+        ]),
+        ("A chapter's real closing note", [
+            "not admirability, but",
+            "what one won't share",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dhammamacchariya</span>",
+            "&mdash; stinginess over",
+            "the teaching",
+        ]),
+        ("Cross-references", [
+            "AN 5.224 &middot; this same complete formula's earlier "
+            "appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.240/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.239.html">AN 5.239 &middot; Stinginess (1st)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.231.html">AN 5.231 &middot; A Resident Mendicant</a> '
+        "&mdash; this chapter's opening discourse.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; this '
+        "same complete stinginess formula's earlier appearance.",
+    ],
+)
