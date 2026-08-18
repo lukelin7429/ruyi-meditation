@@ -48604,3 +48604,2025 @@ page(
         "same complete stinginess formula's earlier appearance.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.241 — Paṭhamaduccaritasutta
+# --------------------------------------------------------------------------- #
+VAGGA_25 = "<em>Duccaritavagga</em> &mdash; the twenty-fifth chapter of the Fives"
+
+page(
+    241, "Paṭhamaduccarita", "Bad Conduct (1st)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.241 — Bad Conduct (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaduccaritasutta, opening the Duccaritavagga — the same five "
+        "drawbacks of bad conduct already given at AN 5.217, restated to "
+        "open a new chapter. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "opening a new chapter with a familiar formula"),
+    ],
+    why=(
+        "This chapter opens with a discourse whose content this project has "
+        "already encountered, word for word, at AN 5.217: the same five "
+        "drawbacks of bad conduct, and five benefits of good conduct, now "
+        "given under a new, more general title to open a chapter devoted "
+        "entirely to conduct."),
+    guide=[
+        ("A new chapter on conduct in general", [
+            "The Duccaritavagga (&ldquo;Bad Conduct&rdquo;) opens a "
+            "chapter that will move from conduct in general to its three "
+            "specific channels &mdash; bodily, verbal, and mental &mdash; "
+            "before closing on two more distinctive discourses."]),
+        ("An identical formula to AN 5.217", [
+            "Self-blame; criticism from sensible people after examination; "
+            "a bad reputation; a confused death; and rebirth in hell "
+            "&mdash; the exact five drawbacks already given at AN 5.217's "
+            "&lsquo;Unimpressive Conduct (1st)&rsquo;, word for word, under "
+            "this chapter's more general title."]),
+        ("Five matching benefits, also unchanged", [
+            "The positive mirror is likewise identical: no self-blame, "
+            "praise after examination, a good reputation, an unconfused "
+            "death, and rebirth in heaven."]),
+        ("Why the same content, retitled", [
+            "This isn't a copying error; it reflects how this collection "
+            "treats a single well-established formula as applicable under "
+            "more than one heading &mdash; here, &lsquo;bad conduct&rsquo; "
+            "in the most general sense, serving as this new chapter's "
+            "foundational statement."]),
+        ("What follows", [
+            "AN 5.242&ndash;244 immediately narrow this general formula "
+            "down to conduct's three specific channels &mdash; body, "
+            "speech, and mind &mdash; each treated as its own discourse."]),
+    ],
+    terms=[
+        ("duccarita, sucarita",
+         "&ldquo;bad conduct&rdquo; and &ldquo;good conduct&rdquo; &mdash; "
+         "this chapter's title concepts, in their most general form."),
+        ("attāpi attānaṁ upavadati",
+         "&ldquo;you blame yourself&rdquo; &mdash; the first drawback, "
+         "identical to AN 5.217's opening item."),
+        ("anuvicca viññū garahanti / pasaṁsanti",
+         "&ldquo;sensible people criticize / praise you, after "
+         "examination&rdquo; &mdash; the second item in each list."),
+        ("sammūḷho kālaṁ karoti, asammūḷho kālaṁ karoti",
+         "&ldquo;dies confused&rdquo; and &ldquo;dies without "
+         "confusion&rdquo; &mdash; the fourth item in each list."),
+        ("kāyassa bhedā paraṁ maraṇā",
+         "&ldquo;when the body breaks up, after death&rdquo; &mdash; "
+         "introducing the fifth and final item, rebirth."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of bad conduct, and five "
+        "benefits of good conduct. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of bad conduct"),
+        ("p", "&sect;1", "an5.241:1.1-1.8"),
+        ("h3", "Five benefits of good conduct"),
+        ("p", "&sect;2", "an5.241:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Duccaritavagga, 'Bad Conduct'",
+             "Āvāsikavagga, 'A Resident Mendicant'",
+             "Upasampadāvagga, 'Ordination'",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "This session's twenty-fifth chapter."},
+        {"q": "Where else in this collection does this exact five-item formula already appear?",
+         "opts": [
+             "AN 5.217, 'Unimpressive Conduct (1st)', word for word",
+             "Nowhere else in this collection",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "Identical content, restated under a new, more general title."},
+        {"q": "What five drawbacks does this discourse name for bad conduct?",
+         "opts": [
+             "Self-blame, criticism, bad reputation, confused death, and rebirth in hell",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A progression from private conscience to public judgment to final consequence."},
+        {"q": "Why might this collection reuse identical content under a new title?",
+         "opts": [
+             "A single well-established formula can serve as a foundational statement under more than one heading",
+             "It is always a copying error in the source text",
+             "The two discourses actually have entirely different content",
+             "This collection never reuses content elsewhere"],
+         "correct": 0,
+         "expl": "Here, opening a chapter devoted entirely to conduct."},
+        {"q": "What discourses follow, narrowing this general formula down?",
+         "opts": [
+             "AN 5.242-244, applying the same structure to bodily, verbal, and mental conduct",
+             "AN 5.250 immediately, skipping ahead",
+             "No further discourse addresses conduct specifically",
+             "AN 5.161, an unrelated topic"],
+         "correct": 0,
+         "expl": "The chapter's three specific channels of conduct."},
+        {"q": "What does 'anuvicca viññū garahanti' mean?",
+         "opts": [
+             "Sensible people criticize you, after examination",
+             "Sensible people praise you unconditionally",
+             "No one takes any notice of your conduct",
+             "A formal legal verdict is issued"],
+         "correct": 0,
+         "expl": "The second drawback, considered judgment rather than casual reaction."},
+        {"q": "What is the final drawback of bad conduct named in this discourse?",
+         "opts": [
+             "Rebirth in hell",
+             "Rebirth in heaven",
+             "No particular consequence",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "Closing the negative list."},
+        {"q": "What structural pattern does this chapter follow overall?",
+         "opts": [
+             "General conduct, then its three channels, each given twice, then two distinctive closing discourses",
+             "A single unbroken narrative with no repeated structure",
+             "Ten entirely unrelated topics with no organizing theme",
+             "A purely poetic composition with no doctrinal content"],
+         "correct": 0,
+         "expl": "Body, speech, and mind, treated systematically."},
+        {"q": "What does 'sammūḷho kālaṁ karoti' mean?",
+         "opts": [
+             "Dies confused, feeling lost",
+             "Dies peacefully, at ease",
+             "Achieves liberation at death",
+             "Is reborn immediately as a deity"],
+         "correct": 0,
+         "expl": "The fourth drawback, before rebirth in hell."},
+        {"q": "What is this discourse's structural form?",
+         "opts": [
+             "Two paired five-item lists, drawbacks then benefits",
+             "A single five-item list with no positive mirror",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "The same balanced structure as its earlier appearance at AN 5.217."},
+    ],
+    marginalia=[
+        ("An identical formula", [
+            "reused word for word",
+            "from AN 5.217",
+        ]),
+        ("A foundational restatement", [
+            "opening this new",
+            "chapter on conduct",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">duccarita</span>",
+            "&mdash; bad conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.217 &middot; this same formula's first appearance in "
+            "this project",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.241/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.240.html">AN 5.240 &middot; Stinginess (2nd)</a> '
+        "&mdash; the previous chapter's closing discourse.",
+        '<a href="an-5.242.html">AN 5.242 &middot; Bad Bodily Conduct '
+        "(1st)</a> &mdash; next: this same formula, narrowed to bodily "
+        "conduct.",
+        '<a href="an-5.217.html">AN 5.217 &middot; Unimpressive Conduct '
+        "(1st)</a> &mdash; this exact formula's first appearance in this "
+        "project.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.242 — Paṭhamakāyaduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    242, "Paṭhamakāyaduccarita", "Bad Bodily Conduct (1st)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.242 — Bad Bodily Conduct (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamakāyaduccaritasutta — AN 5.241's formula narrowed to bodily "
+        "conduct specifically, compressed by the source to a single "
+        "abbreviated line. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line, the source's own extreme "
+                 "compression"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "extremely short, compressed by the source itself"),
+    ],
+    why=(
+        "The first of this chapter's three conduct-channels, and the "
+        "shortest possible statement of it: the source text compresses "
+        "this discourse to a single line, trusting the reader to supply "
+        "AN 5.241's full five-item pattern, applied specifically to "
+        "bodily conduct."),
+    guide=[
+        ("A single surviving line", [
+            "Unlike AN 5.241's full statement, this discourse is reduced "
+            "in the source itself to one abbreviated line: &lsquo;drawbacks "
+            "in bad bodily conduct&hellip;benefits in good bodily "
+            "conduct&hellip;&rsquo;, with the actual five-item content "
+            "omitted entirely. This is the compilers' own choice, not an "
+            "omission on this guide's part."]),
+        ("Narrowing conduct to its bodily channel", [
+            "<em>Kāyaduccarita</em> names conduct specifically expressed "
+            "through the body &mdash; one of the three classical channels "
+            "of action (body, speech, mind) that together comprise the "
+            "full scope of conduct AN 5.241 addressed in general terms."]),
+        ("The same five items, presupposed", [
+            "Even reduced to a single line, this discourse presupposes AN "
+            "5.241's full five-item pattern: self-blame, criticism, "
+            "reputation, confused death, and hell for bodily misconduct; "
+            "the clean mirror for bodily good conduct."]),
+        ("Why this compression is worth noticing", [
+            "By the second discourse in this chapter, the compilers "
+            "judged the underlying five-item pattern so firmly established "
+            "that spelling it out again, even for a genuinely distinct "
+            "conduct-channel, had become unnecessary &mdash; a structural "
+            "choice, not a loss of content."]),
+        ("What follows", [
+            "AN 5.243 continues this same single-line compression, "
+            "applied to verbal conduct; AN 5.244 then breaks the pattern, "
+            "spelling out at least the positive half in full."]),
+    ],
+    terms=[
+        ("kāyaduccarita, kāyasucarita",
+         "&ldquo;bad bodily conduct&rdquo; and &ldquo;good bodily "
+         "conduct&rdquo; &mdash; this discourse's title concepts."),
+        ("pe",
+         "the standard abbreviation marker; here the entire five-item "
+         "analysis is reduced to this single mark, twice over."),
+        ("kāya, vacī, mano",
+         "&ldquo;body, speech, mind&rdquo; &mdash; the three classical "
+         "channels of conduct this chapter addresses in turn."),
+        ("duccarita",
+         "&ldquo;bad conduct&rdquo; &mdash; this chapter's title concept, "
+         "narrowed here to its bodily expression specifically."),
+        ("ādīnavā, ānisaṁsā",
+         "&ldquo;drawbacks&rdquo; and &ldquo;benefits&rdquo; &mdash; the "
+         "two halves this discourse's single line compresses together."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated "
+        "line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad and good bodily conduct"),
+        ("p", "&sect;1", "an5.242:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'kāyaduccarita' mean?",
+         "opts": [
+             "Bad bodily conduct",
+             "Good verbal conduct",
+             "Bad mental conduct",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept, narrowing AN 5.241's general formula."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, with the actual content omitted entirely",
+             "The full ten-item pattern spelled out in detail",
+             "A lengthy narrative with dialogue",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "The compilers' own choice, not an omission by this guide."},
+        {"q": "What three classical channels of conduct does this chapter address in turn?",
+         "opts": [
+             "Body, speech, and mind",
+             "Wealth, status, and reputation",
+             "Faith, ethics, and wisdom",
+             "Past, present, and future"],
+         "correct": 0,
+         "expl": "This discourse addresses the first, bodily conduct."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-item pattern already given at AN 5.241",
+             "An entirely unrelated set of items",
+             "A rejection of AN 5.241's conclusions",
+             "That bodily conduct has no bearing on outcomes"],
+         "correct": 0,
+         "expl": "Self-blame, criticism, reputation, confused death, and hell — or their mirror."},
+        {"q": "What does this discourse's extreme compression suggest, by this point in the chapter?",
+         "opts": [
+             "The compilers judged the pattern already firmly established, making full restatement unnecessary",
+             "The topic was considered unimportant",
+             "An accidental loss of the original text",
+             "A deliberate censorship of the content"],
+         "correct": 0,
+         "expl": "A structural choice, not a loss of content."},
+        {"q": "What discourse follows, continuing this same single-line compression?",
+         "opts": [
+             "AN 5.243, applied to verbal conduct",
+             "AN 5.250, this chapter's closer",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The second channel of conduct, given the same treatment."},
+        {"q": "What discourse breaks this compression pattern, spelling out at least part of its content?",
+         "opts": [
+             "AN 5.244, giving the positive half in full",
+             "AN 5.242 itself",
+             "AN 5.243",
+             "No later discourse breaks the pattern"],
+         "correct": 0,
+         "expl": "The third channel, mental conduct, given fuller treatment."},
+        {"q": "What does 'pe' signal in this discourse's Pali text?",
+         "opts": [
+             "A standard abbreviation marker, compressing repeated content",
+             "A formal ordination requirement",
+             "A type of meditation technique",
+             "A colophon closing a chapter"],
+         "correct": 0,
+         "expl": "Used twice in this discourse's single surviving line."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+        {"q": "What does 'ādīnavā, ānisaṁsā' mean together?",
+         "opts": [
+             "Drawbacks, and benefits — the two halves this line compresses",
+             "Only drawbacks, with no benefits ever named",
+             "Only benefits, with no drawbacks ever named",
+             "A formal legal term unrelated to conduct"],
+         "correct": 0,
+         "expl": "Both halves compressed into this single abbreviated statement."},
+    ],
+    marginalia=[
+        ("A single surviving line", [
+            "the source's own",
+            "choice, not an omission",
+        ]),
+        ("The first of three channels", [
+            "body, then speech,",
+            "then mind",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kāyaduccarita</span>",
+            "&mdash; bad bodily",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.241 &middot; this chapter's full statement of the "
+            "five-item template",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.242/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.241.html">AN 5.241 &middot; Bad Conduct (1st)</a> '
+        "&mdash; this chapter's full statement of the five-item template.",
+        '<a href="an-5.243.html">AN 5.243 &middot; Bad Verbal Conduct '
+        "(1st)</a> &mdash; next: this same compression, applied to speech.",
+        '<a href="an-5.244.html">AN 5.244 &middot; Bad Mental Conduct '
+        "(1st)</a> &mdash; where at least the positive half is spelled "
+        "out in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.243 — Paṭhamavacīduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    243, "Paṭhamavacīduccarita", "Bad Verbal Conduct (1st)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.243 — Bad Verbal Conduct (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamavacīduccaritasutta — AN 5.241's formula narrowed to verbal "
+        "conduct, compressed by the source to a single abbreviated line. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line, matching AN 5.242's "
+                 "compression"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "extremely short, compressed by the source itself"),
+    ],
+    why=(
+        "The second of this chapter's conduct-channels, treated with the "
+        "same extreme compression as AN 5.242: verbal conduct, reduced to "
+        "a single line, presupposing AN 5.241's full five-item pattern "
+        "without restating it."),
+    guide=[
+        ("Speech, the second channel of conduct", [
+            "<em>Vacīduccarita</em> names conduct expressed specifically "
+            "through speech &mdash; the second of the three classical "
+            "channels this chapter addresses, following bodily conduct at "
+            "AN 5.242."]),
+        ("The same single-line treatment", [
+            "As with AN 5.242, this discourse's entire content is a "
+            "single abbreviated line: &lsquo;drawbacks in bad verbal "
+            "conduct&hellip;benefits in good verbal conduct&hellip;&rsquo;, "
+            "with the specific five-item content left entirely "
+            "unstated."]),
+        ("A connection to this collection's fuller speech-ethics teachings", [
+            "Cross-ref AN 5.198's and AN 5.214's earlier, much fuller "
+            "treatments of speech &mdash; the five factors of well-spoken "
+            "words, and the drawbacks of talking too much. This "
+            "discourse's compression relies on those earlier, richer "
+            "discussions having already established the general concern "
+            "with speech's ethical weight."]),
+        ("Why speech gets this same brief treatment", [
+            "Speech might seem to deserve more detailed treatment than "
+            "bodily conduct, given how much of this collection concerns "
+            "careful, examined speech &mdash; yet this discourse treats it "
+            "with identical brevity, suggesting the compilers saw no need "
+            "to elaborate what the collection had already established "
+            "elsewhere."]),
+        ("What follows", [
+            "AN 5.244 completes this first trio of specific conduct-"
+            "channels, and finally breaks the compression pattern by "
+            "spelling out its positive half in full."]),
+    ],
+    terms=[
+        ("vacīduccarita, vacīsucarita",
+         "&ldquo;bad verbal conduct&rdquo; and &ldquo;good verbal "
+         "conduct&rdquo; &mdash; this discourse's title concepts."),
+        ("pe",
+         "the standard abbreviation marker, compressing this discourse's "
+         "entire content to a single line."),
+        ("musā, pisuṇaṁ, pharusaṁ, samphappalāpaṁ",
+         "false, backbiting, harsh, and nonsensical speech &mdash; the "
+         "classical fourfold content this discourse's compressed content "
+         "presumably concerns, already spelled out at AN 5.214."),
+        ("vacī",
+         "&ldquo;speech, verbal&rdquo; &mdash; the second of the three "
+         "classical conduct-channels."),
+        ("subhāsitā",
+         "&ldquo;well spoken&rdquo; &mdash; the standard this discourse's "
+         "presupposed positive half concerns, already treated in full at "
+         "AN 5.198."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated "
+        "line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad and good verbal conduct"),
+        ("p", "&sect;1", "an5.243:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does 'vacīduccarita' mean?",
+         "opts": [
+             "Bad verbal conduct",
+             "Good bodily conduct",
+             "Bad mental conduct",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept, the second conduct-channel."},
+        {"q": "How much of this discourse survives in the source text?",
+         "opts": [
+             "A single abbreviated line, matching AN 5.242's compression",
+             "The full ten-item pattern spelled out in detail",
+             "A lengthy narrative with dialogue",
+             "Two full verses"],
+         "correct": 0,
+         "expl": "The same extreme compression as the previous discourse."},
+        {"q": "What earlier discourses in this collection give speech ethics fuller treatment?",
+         "opts": [
+             "AN 5.198 (well-spoken words) and AN 5.214 (talking too much)",
+             "No earlier discourse addresses speech at all",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20"],
+         "correct": 0,
+         "expl": "This discourse's brevity relies on those established discussions."},
+        {"q": "What does this discourse's compression suggest, despite speech's importance elsewhere in this collection?",
+         "opts": [
+             "The compilers saw no need to elaborate what had already been established elsewhere",
+             "Speech is considered unimportant in this collection",
+             "This discourse contradicts everything said about speech elsewhere",
+             "Speech has no connection to conduct generally"],
+         "correct": 0,
+         "expl": "Identical brevity to bodily conduct, despite speech's prominence elsewhere."},
+        {"q": "What is 'vacī' the term for?",
+         "opts": [
+             "Speech, verbal expression",
+             "Bodily action",
+             "Mental intention",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The second of the three classical conduct-channels."},
+        {"q": "What classical fourfold content does this discourse's compression presumably concern?",
+         "opts": [
+             "False, backbiting, harsh, and nonsensical speech",
+             "The five precepts",
+             "The four noble truths",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "Already spelled out in full at AN 5.214."},
+        {"q": "What discourse follows, finally breaking this compression pattern?",
+         "opts": [
+             "AN 5.244, spelling out its positive half in full",
+             "AN 5.250, this chapter's closer",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The third channel, mental conduct, given fuller treatment."},
+        {"q": "What does 'subhāsitā' mean?",
+         "opts": [
+             "Well spoken",
+             "Poorly spoken",
+             "Formally silenced",
+             "Newly composed"],
+         "correct": 0,
+         "expl": "The standard this discourse's presupposed positive half concerns."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+        {"q": "What does this discourse's single line presuppose?",
+         "opts": [
+             "The full five-item pattern already given at AN 5.241",
+             "An entirely unrelated set of items",
+             "A rejection of AN 5.241's conclusions",
+             "That verbal conduct has no bearing on outcomes"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply the earlier pattern."},
+    ],
+    marginalia=[
+        ("The second of three channels", [
+            "body, then speech,",
+            "then mind",
+        ]),
+        ("Relying on earlier treatments", [
+            "AN 5.198 and 5.214",
+            "already covered speech",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vacīduccarita</span>",
+            "&mdash; bad verbal",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.198 &middot; AN 5.214 &middot; this collection's fuller "
+            "speech-ethics teachings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.243/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.242.html">AN 5.242 &middot; Bad Bodily Conduct '
+        "(1st)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.244.html">AN 5.244 &middot; Bad Mental Conduct '
+        "(1st)</a> &mdash; next: this trio's final channel, given fuller "
+        "treatment.",
+        '<a href="an-5.198.html">AN 5.198 &middot; Well-Spoken Words</a> '
+        "&mdash; a fuller earlier treatment of speech ethics.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.244 — Paṭhamamanoduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    244, "Paṭhamamanoduccarita", "Bad Mental Conduct (1st)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.244 — Bad Mental Conduct (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamamanoduccaritasutta — this trio's final channel, where the "
+        "source finally breaks its compression to spell out the positive "
+        "half in full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a compressed negative half, then the positive half "
+                 "spelled out in full"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "partial break from this trio's compression"),
+    ],
+    why=(
+        "Completing this chapter's trio of specific conduct-channels, this "
+        "discourse breaks partway from AN 5.242&ndash;243's extreme "
+        "compression: the negative half stays abbreviated, but the "
+        "positive half &mdash; good mental conduct &mdash; is spelled out "
+        "in full."),
+    guide=[
+        ("Mind, the third and final channel", [
+            "<em>Manoduccarita</em> names conduct at the level of mental "
+            "intention itself &mdash; the third of the three classical "
+            "channels, completing the trio begun with bodily conduct at "
+            "AN 5.242 and verbal conduct at AN 5.243."]),
+        ("Still compressed, but only partway", [
+            "The negative half remains a single abbreviated line, exactly "
+            "as in the two previous discourses. But this discourse then "
+            "breaks pattern, spelling out the positive half's full "
+            "five-item list rather than leaving it equally compressed."]),
+        ("Good mental conduct, given in full", [
+            "No self-blame; praise from sensible people after examination; "
+            "a good reputation; dying without confusion; and rebirth in "
+            "heaven &mdash; AN 5.241's exact positive formula, now applied "
+            "specifically to mental conduct and stated word for word."]),
+        ("Why break the pattern here, and not earlier", [
+            "This discourse closes the first full pass through all three "
+            "conduct-channels. Spelling out at least one complete example "
+            "&mdash; even if only its positive half &mdash; before the "
+            "whole three-channel sequence repeats at AN 5.245&ndash;248 "
+            "gives the reader one clear anchor for what the compressed "
+            "discourses around it are actually claiming."]),
+        ("A second pass follows", [
+            "AN 5.245 restarts this entire sequence with a genuinely "
+            "different variant &mdash; the same general structure, but "
+            "with different closing consequences &mdash; before AN "
+            "5.246&ndash;248 apply that new variant to the same three "
+            "conduct-channels in turn."]),
+    ],
+    terms=[
+        ("manoduccarita, manosucarita",
+         "&ldquo;bad mental conduct&rdquo; and &ldquo;good mental "
+         "conduct&rdquo; &mdash; this discourse's title concepts, the "
+         "third classical conduct-channel."),
+        ("pe",
+         "the standard abbreviation marker, still compressing this "
+         "discourse's negative half."),
+        ("attāpi attānaṁ na upavadati",
+         "&ldquo;you don't blame yourself&rdquo; &mdash; the first item "
+         "of the positive half, spelled out in full here."),
+        ("kalyāṇo kittisaddo abbhuggacchati",
+         "&ldquo;you get a good reputation&rdquo; &mdash; the third item "
+         "of the positive half."),
+        ("sugatiṁ saggaṁ lokaṁ upapajjati",
+         "&ldquo;reborn in a good place, a heavenly realm&rdquo; &mdash; "
+         "the fifth and final item, closing the positive half."),
+    ],
+    text_intro=(
+        "The discourse in full: bad mental conduct compressed, good "
+        "mental conduct spelled out. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad mental conduct"),
+        ("p", "&sect;1", "an5.244:1.1-1.1"),
+        ("h3", "Five benefits of good mental conduct"),
+        ("p", "&sect;2", "an5.244:1.2-1.8"),
+    ],
+    quiz=[
+        {"q": "What does 'manoduccarita' mean?",
+         "opts": [
+             "Bad mental conduct",
+             "Good bodily conduct",
+             "Bad verbal conduct",
+             "A formal ordination title"],
+         "correct": 0,
+         "expl": "This discourse's title concept, the third conduct-channel."},
+        {"q": "How does this discourse break from AN 5.242-243's pattern?",
+         "opts": [
+             "The negative half stays compressed, but the positive half is spelled out in full",
+             "Both halves are spelled out in full",
+             "Both halves remain equally compressed",
+             "The discourse is identical to AN 5.242 in every respect"],
+         "correct": 0,
+         "expl": "A partial break, not a complete one."},
+        {"q": "What five items does this discourse's positive half name in full?",
+         "opts": [
+             "No self-blame, praise after examination, good reputation, unconfused death, and heaven",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "AN 5.241's exact positive formula, applied to mental conduct."},
+        {"q": "Why might this discourse break the compression pattern at this specific point?",
+         "opts": [
+             "It closes the first full pass through all three conduct-channels, giving one clear anchor",
+             "It is simply a random editorial choice with no logic",
+             "The source text was damaged at this point",
+             "This discourse has no connection to the surrounding chapter"],
+         "correct": 0,
+         "expl": "One complete example before the whole sequence repeats."},
+        {"q": "What discourse follows, restarting the whole sequence with a variant?",
+         "opts": [
+             "AN 5.245, with different closing consequences",
+             "AN 5.250, this chapter's closer",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A second pass through general conduct, then its three channels again."},
+        {"q": "What does 'attāpi attānaṁ na upavadati' mean?",
+         "opts": [
+             "You don't blame yourself",
+             "You blame yourself excessively",
+             "You blame another person falsely",
+             "You formally accuse a companion"],
+         "correct": 0,
+         "expl": "The first item of the positive half, spelled out here."},
+        {"q": "What is 'mano' the term for?",
+         "opts": [
+             "Mind, mental intention",
+             "The physical body",
+             "Speech, verbal expression",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The third of the three classical conduct-channels."},
+        {"q": "What is the closing item of this discourse's positive half?",
+         "opts": [
+             "Rebirth in a good place, a heavenly realm",
+             "Rebirth in hell",
+             "No particular consequence",
+             "Formal expulsion"],
+         "correct": 0,
+         "expl": "Closing both this list and this chapter's first full pass."},
+        {"q": "What does 'kalyāṇo kittisaddo abbhuggacchati' mean?",
+         "opts": [
+             "You get a good reputation",
+             "You get a bad reputation",
+             "No one notices your conduct at all",
+             "A formal legal verdict is issued"],
+         "correct": 0,
+         "expl": "The third item of the positive half."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+    ],
+    marginalia=[
+        ("The third and final channel", [
+            "completing body,",
+            "speech, and mind",
+        ]),
+        ("A partial break in pattern", [
+            "negative stays brief,",
+            "positive spelled out",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">manoduccarita</span>",
+            "&mdash; bad mental",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.241 &middot; the full formula this discourse's positive "
+            "half restates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.244/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.243.html">AN 5.243 &middot; Bad Verbal Conduct '
+        "(1st)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.245.html">AN 5.245 &middot; Bad Conduct (2nd)</a> '
+        "&mdash; next: a second pass, with a genuinely different variant.",
+        '<a href="an-5.241.html">AN 5.241 &middot; Bad Conduct (1st)</a> '
+        "&mdash; the full formula this discourse's positive half restates.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.245 — Dutiyaduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    245, "Dutiyaduccarita", "Bad Conduct (2nd)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.245 — Bad Conduct (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaduccaritasutta — a genuine content variant of AN 5.241, "
+        "replacing death and rebirth with drifting toward false teachings. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "a genuinely distinct variant"),
+    ],
+    why=(
+        "Unlike AN 5.242&ndash;244's mere compressions, this discourse is "
+        "a genuine content variant: it opens this chapter's second full "
+        "pass by keeping AN 5.241's first three items but replacing its "
+        "closing death-and-rebirth consequence with something entirely "
+        "different &mdash; drifting away from the true teaching itself."),
+    guide=[
+        ("Three items unchanged, from AN 5.241", [
+            "Self-blame, criticism from sensible people after examination, "
+            "and a bad reputation &mdash; the same opening three "
+            "consequences of bad conduct already given in this chapter's "
+            "opening discourse."]),
+        ("A genuinely different closing pair", [
+            "In place of a confused death and rebirth in hell, this "
+            "discourse names something doctrinal rather than cosmological: "
+            "drifting away from the true teaching, and settling instead on "
+            "untrue teachings &mdash; bad conduct's consequence framed as "
+            "intellectual and spiritual drift, not only future rebirth."]),
+        ("Five matching benefits, with the same doctrinal ending", [
+            "The positive mirror follows suit: no self-blame, praise, good "
+            "reputation, and then drifting away from untrue teachings to "
+            "settle instead on the true teaching."]),
+        ("Two consequences for the same conduct", [
+            "Read alongside AN 5.241, this discourse suggests bad conduct "
+            "carries at least two distinct kinds of cost: an eventual "
+            "cosmic consequence (hell or heaven), and a more immediate "
+            "intellectual one &mdash; a corrupted or purified relationship "
+            "to the teaching itself, in this very life."]),
+        ("Opening a second full pass", [
+            "AN 5.246&ndash;248 will now apply this new "
+            "doctrinal-drift ending to the three specific conduct-channels "
+            "in turn, exactly as AN 5.242&ndash;244 applied AN 5.241's "
+            "original ending."]),
+    ],
+    terms=[
+        ("saddhammā vuṭṭhāti, asaddhamme patiṭṭhāti",
+         "&ldquo;drifts away from the true teaching, settles on untrue "
+         "teachings&rdquo; &mdash; the genuinely new closing pair this "
+         "discourse introduces."),
+        ("asaddhammā vuṭṭhāti, saddhamme patiṭṭhāti",
+         "&ldquo;drifts away from untrue teachings, settles on the true "
+         "teaching&rdquo; &mdash; the mirrored positive consequence."),
+        ("attāpi attānaṁ upavadati",
+         "&ldquo;you blame yourself&rdquo; &mdash; the first item, "
+         "unchanged from AN 5.241."),
+        ("saddhamma, asaddhamma",
+         "&ldquo;the true teaching&rdquo; and &ldquo;untrue "
+         "teaching&rdquo; &mdash; this discourse's central doctrinal "
+         "stakes."),
+        ("duccarita, sucarita",
+         "&ldquo;bad conduct&rdquo; and &ldquo;good conduct&rdquo; "
+         "&mdash; unchanged title concepts, this chapter's shared "
+         "subject."),
+    ],
+    text_intro=(
+        "The discourse in full: bad conduct's consequences, closing this "
+        "time on drifting away from the teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of bad conduct"),
+        ("p", "&sect;1", "an5.245:1.1-1.8"),
+        ("h3", "Five benefits of good conduct"),
+        ("p", "&sect;2", "an5.245:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What three items does this discourse share unchanged with AN 5.241?",
+         "opts": [
+             "Self-blame, criticism from sensible people, and a bad reputation",
+             "Confused death, hell, and heaven",
+             "Drifting away from the true teaching and settling on untrue teachings",
+             "Nothing at all — the two discourses share no content"],
+         "correct": 0,
+         "expl": "The same opening three consequences of bad conduct."},
+        {"q": "What does this discourse replace AN 5.241's death-and-rebirth ending with?",
+         "opts": [
+             "Drifting away from the true teaching and settling on untrue teachings",
+             "Physical illness and financial loss",
+             "Formal expulsion from the Saṅgha",
+             "Nothing — this discourse has no closing items at all"],
+         "correct": 0,
+         "expl": "A doctrinal, intellectual consequence rather than a cosmological one."},
+        {"q": "What does this discourse suggest about bad conduct's consequences, read alongside AN 5.241?",
+         "opts": [
+             "At least two distinct kinds of cost — an eventual cosmic one, and a more immediate doctrinal one",
+             "Only one single consequence exists, and the two discourses contradict each other",
+             "Bad conduct has no genuine consequences at all",
+             "The doctrinal consequence entirely replaces the cosmic one"],
+         "correct": 0,
+         "expl": "Corrupted or purified relationship to the teaching, in this very life."},
+        {"q": "What does 'saddhammā vuṭṭhāti' mean?",
+         "opts": [
+             "Drifts away from the true teaching",
+             "Settles firmly on the true teaching",
+             "Never encounters the teaching at all",
+             "Formally renounces monastic life"],
+         "correct": 0,
+         "expl": "Part of this discourse's newly introduced closing pair."},
+        {"q": "What does 'asaddhamme patiṭṭhāti' mean?",
+         "opts": [
+             "Settles on untrue teachings",
+             "Settles on the true teaching",
+             "Rejects all teachings entirely",
+             "Formally examines a teaching before accepting it"],
+         "correct": 0,
+         "expl": "The negative closing item, paired with drifting away from truth."},
+        {"q": "What discourses follow, applying this new ending to specific conduct-channels?",
+         "opts": [
+             "AN 5.246-248, the second pass through body, speech, and mind",
+             "No discourse applies this ending elsewhere",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Mirroring how AN 5.242-244 applied AN 5.241's original ending."},
+        {"q": "What is this discourse's positive closing pair?",
+         "opts": [
+             "Drifting away from untrue teachings, settling on the true teaching",
+             "Rebirth in heaven and freedom from illness",
+             "Formal praise from a king",
+             "Immediate liberation from all defilements"],
+         "correct": 0,
+         "expl": "The mirror of the negative closing pair."},
+        {"q": "What does 'saddhamma' mean?",
+         "opts": [
+             "The true teaching",
+             "A formal legal code",
+             "A type of monastic robe",
+             "A ceremonial donation"],
+         "correct": 0,
+         "expl": "This discourse's central doctrinal stake."},
+        {"q": "What position does this discourse hold within this chapter's overall structure?",
+         "opts": [
+             "It opens a second full pass through general conduct and its three channels",
+             "It closes the chapter entirely",
+             "It has no relation to the chapter's structure at all",
+             "It is identical in every respect to AN 5.241"],
+         "correct": 0,
+         "expl": "A genuine variant, not a repeat."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+    ],
+    marginalia=[
+        ("Three items unchanged", [
+            "self-blame &middot;",
+            "criticism &middot;",
+            "reputation",
+        ]),
+        ("A new, doctrinal ending", [
+            "drift toward or away",
+            "from the teaching",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saddhammā vuṭṭhāti</span>",
+            "&mdash; drifting away",
+            "from the teaching",
+        ]),
+        ("Cross-references", [
+            "AN 5.241 &middot; this discourse's companion, sharing three "
+            "of five items",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.245/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.244.html">AN 5.244 &middot; Bad Mental Conduct '
+        "(1st)</a> &mdash; the previous discourse, closing this chapter's "
+        "first pass.",
+        '<a href="an-5.246.html">AN 5.246 &middot; Bad Bodily Conduct '
+        "(2nd)</a> &mdash; next: this new variant, applied to bodily "
+        "conduct.",
+        '<a href="an-5.241.html">AN 5.241 &middot; Bad Conduct (1st)</a> '
+        "&mdash; this discourse's companion, sharing three of five items.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.246 — Dutiyakāyaduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    246, "Dutiyakāyaduccarita", "Bad Bodily Conduct (2nd)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.246 — Bad Bodily Conduct (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyakāyaduccaritasutta — AN 5.245's doctrinal-drift variant "
+        "applied to bodily conduct, compressed to a single line. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line, matching this chapter's "
+                 "earlier compressions"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "extremely short, compressed by the source itself"),
+    ],
+    why=(
+        "Opening this chapter's second pass through the three conduct-"
+        "channels, this discourse applies AN 5.245's doctrinal-drift "
+        "variant to bodily conduct &mdash; compressed, exactly as AN "
+        "5.242 was, to a single abbreviated line."),
+    guide=[
+        ("The same compression, a different presupposed ending", [
+            "This discourse's single line is structurally identical to AN "
+            "5.242's, but now presupposes AN 5.245's variant &mdash; "
+            "drifting toward or away from the true teaching &mdash; rather "
+            "than AN 5.241's death-and-rebirth ending."]),
+        ("Bodily conduct, given the same brief treatment twice", [
+            "Across this chapter, bodily conduct receives identical "
+            "minimal treatment in both passes: a single compressed line "
+            "at AN 5.242, and the same again here, differing only in "
+            "which underlying five-item formula the reader is expected to "
+            "supply."]),
+        ("Reading this discourse requires holding both formulas in mind", [
+            "To understand what this discourse actually claims, a reader "
+            "needs to recall not one but two prior discourses: AN 5.245's "
+            "specific doctrinal-drift wording, applied here specifically "
+            "to conduct expressed through the body."]),
+        ("A structural mirror of this chapter's first half", [
+            "AN 5.246&ndash;248 mirror AN 5.242&ndash;244's exact "
+            "arrangement &mdash; two single-line compressions followed by "
+            "a discourse spelling out at least the positive half &mdash; "
+            "applied now to the second variant rather than the first."]),
+        ("What follows", [
+            "AN 5.247 continues this same compression for verbal conduct, "
+            "before AN 5.248 completes the second pass by spelling out its "
+            "positive half in full, exactly as AN 5.244 did for the first."]),
+    ],
+    terms=[
+        ("kāyaduccarita, kāyasucarite",
+         "&ldquo;bad bodily conduct&rdquo; and &ldquo;good bodily "
+         "conduct&rdquo; &mdash; this discourse's title concepts, unchanged "
+         "from AN 5.242."),
+        ("pe",
+         "the standard abbreviation marker, compressing this discourse's "
+         "entire content, as at AN 5.242."),
+        ("saddhammā vuṭṭhāti, asaddhamme patiṭṭhāti",
+         "&ldquo;drifts away from the true teaching, settles on untrue "
+         "teachings&rdquo; &mdash; the variant ending this discourse "
+         "presupposes, from AN 5.245."),
+        ("kāya",
+         "&ldquo;body&rdquo; &mdash; the first of the three classical "
+         "conduct-channels, given the same brief treatment in both passes."),
+        ("dutiya",
+         "&ldquo;second&rdquo; &mdash; marking this discourse as the "
+         "second pass through this specific channel."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated "
+        "line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad and good bodily conduct"),
+        ("p", "&sect;1", "an5.246:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's single line presuppose, differently from AN 5.242?",
+         "opts": [
+             "AN 5.245's doctrinal-drift ending, rather than AN 5.241's death-and-rebirth ending",
+             "An entirely unrelated set of five items",
+             "A rejection of both AN 5.241 and AN 5.245",
+             "Nothing at all — it presupposes no prior content"],
+         "correct": 0,
+         "expl": "The same compression structure, a different underlying formula."},
+        {"q": "How does bodily conduct's treatment compare across this chapter's two passes?",
+         "opts": [
+             "Identical minimal treatment both times — a single compressed line in each case",
+             "Full treatment in the first pass, compressed in the second",
+             "Compressed in the first pass, full treatment in the second",
+             "Bodily conduct only appears once, not twice"],
+         "correct": 0,
+         "expl": "Differing only in which underlying formula is presupposed."},
+        {"q": "What does understanding this discourse require of the reader?",
+         "opts": [
+             "Recalling two prior discourses — AN 5.245's specific wording, applied here to bodily conduct",
+             "No prior context is needed at all",
+             "Only AN 5.241 needs to be recalled",
+             "Only AN 5.242 needs to be recalled"],
+         "correct": 0,
+         "expl": "The variant formula, applied to a specific channel."},
+        {"q": "What pattern do AN 5.246-248 mirror from earlier in this chapter?",
+         "opts": [
+             "AN 5.242-244's exact arrangement, applied to the second variant",
+             "An entirely new, unrelated pattern",
+             "AN 5.249-250's pattern instead",
+             "No mirrored pattern exists"],
+         "correct": 0,
+         "expl": "Two compressions followed by a discourse spelling out the positive half."},
+        {"q": "What discourse follows, continuing this same compression?",
+         "opts": [
+             "AN 5.247, applied to verbal conduct",
+             "AN 5.250, this chapter's closer",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The second channel, given the same treatment in this second pass."},
+        {"q": "What does 'kāyaduccarite' mean?",
+         "opts": [
+             "In bad bodily conduct",
+             "In good verbal conduct",
+             "In bad mental conduct",
+             "In a formal ordination ceremony"],
+         "correct": 0,
+         "expl": "This discourse's title concept, unchanged from AN 5.242."},
+        {"q": "What does 'dutiya' mean in this discourse's title?",
+         "opts": [
+             "Second — marking this as the second pass through bodily conduct",
+             "First",
+             "Third",
+             "Final"],
+         "correct": 0,
+         "expl": "Distinguishing this discourse from AN 5.242's first-pass treatment."},
+        {"q": "What discourse completes this second pass by spelling out its positive half?",
+         "opts": [
+             "AN 5.248, mirroring AN 5.244's role in the first pass",
+             "AN 5.246 itself",
+             "AN 5.247",
+             "No discourse completes this second pass"],
+         "correct": 0,
+         "expl": "The mental-conduct discourse, closing this second trio."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+        {"q": "What does 'pe' signal in this discourse's Pali text?",
+         "opts": [
+             "A standard abbreviation marker, compressing the discourse's content",
+             "A formal ordination requirement",
+             "A type of meditation technique",
+             "A colophon closing a chapter"],
+         "correct": 0,
+         "expl": "The same marker used throughout this chapter's compressed discourses."},
+    ],
+    marginalia=[
+        ("Same compression, new formula", [
+            "presupposing AN 5.245,",
+            "not AN 5.241",
+        ]),
+        ("A second pass begins", [
+            "mirroring the first",
+            "trio's arrangement",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kāyaduccarita</span>",
+            "&mdash; bad bodily",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.245 &middot; the variant formula this discourse "
+            "presupposes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.246/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.245.html">AN 5.245 &middot; Bad Conduct (2nd)</a> '
+        "&mdash; the variant formula this discourse presupposes.",
+        '<a href="an-5.247.html">AN 5.247 &middot; Bad Verbal Conduct '
+        "(2nd)</a> &mdash; next: this same compression, applied to speech.",
+        '<a href="an-5.242.html">AN 5.242 &middot; Bad Bodily Conduct '
+        "(1st)</a> &mdash; this same channel's first-pass treatment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.247 — Dutiyavacīduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    247, "Dutiyavacīduccarita", "Bad Verbal Conduct (2nd)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.247 — Bad Verbal Conduct (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyavacīduccaritasutta — AN 5.245's doctrinal-drift variant "
+        "applied to verbal conduct, compressed to a single line. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single abbreviated line, matching this chapter's "
+                 "earlier compressions"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "extremely short, compressed by the source itself"),
+    ],
+    why=(
+        "The second channel in this chapter's second pass, applying AN "
+        "5.245's doctrinal-drift variant to verbal conduct with the same "
+        "extreme compression already seen at AN 5.243's first-pass "
+        "treatment of speech."),
+    guide=[
+        ("A mirror of AN 5.243, with a different underlying formula", [
+            "This discourse's single line matches AN 5.243's structure "
+            "exactly, but now presupposes AN 5.245's variant ending "
+            "&mdash; drifting toward or away from the true teaching "
+            "&mdash; rather than AN 5.241's death-and-rebirth "
+            "consequence."]),
+        ("Speech and doctrinal drift, a genuinely fitting pairing", [
+            "Though this discourse offers no elaboration, the pairing of "
+            "verbal conduct specifically with drifting toward or away from "
+            "the true teaching makes intuitive sense: speech is the "
+            "primary medium through which the teaching itself is "
+            "transmitted, learned, and eroded, as this project's earlier "
+            "discourses on listening and recitation (AN 5.151&ndash;156) "
+            "have already explored at length."]),
+        ("A pattern completing its second full cycle", [
+            "With this discourse, the chapter has now given both variant "
+            "endings (AN 5.241's and AN 5.245's) to both bodily and verbal "
+            "conduct, in each case via the same minimal single-line "
+            "treatment &mdash; leaving only mental conduct's second-pass "
+            "statement still to come."]),
+        ("Consistency across an otherwise uneven chapter", [
+            "Despite this chapter's genuinely uneven pacing &mdash; full "
+            "statements, partial statements, and bare stubs, mixed "
+            "together &mdash; the underlying logic remains fully "
+            "consistent: every discourse either states or presupposes one "
+            "of exactly two five-item formulas, applied to one of four "
+            "possible subjects."]),
+        ("What follows", [
+            "AN 5.248 completes this second pass, breaking the "
+            "compression one final time to spell out mental conduct's "
+            "positive half in full, exactly as AN 5.244 did before it."]),
+    ],
+    terms=[
+        ("vacīduccarita, vacīsucarite",
+         "&ldquo;bad verbal conduct&rdquo; and &ldquo;good verbal "
+         "conduct&rdquo; &mdash; this discourse's title concepts, unchanged "
+         "from AN 5.243."),
+        ("pe",
+         "the standard abbreviation marker, compressing this discourse's "
+         "entire content."),
+        ("saddhammā vuṭṭhāti, asaddhamme patiṭṭhāti",
+         "&ldquo;drifts away from the true teaching, settles on untrue "
+         "teachings&rdquo; &mdash; the variant ending this discourse "
+         "presupposes, from AN 5.245."),
+        ("vacī",
+         "&ldquo;speech, verbal&rdquo; &mdash; the second of the three "
+         "classical conduct-channels."),
+        ("dutiya",
+         "&ldquo;second&rdquo; &mdash; marking this discourse as the "
+         "second pass through this specific channel."),
+    ],
+    text_intro=(
+        "The discourse as it survives in the source: a single abbreviated "
+        "line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad and good verbal conduct"),
+        ("p", "&sect;1", "an5.247:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What discourse does this one structurally mirror, with a different underlying formula?",
+         "opts": [
+             "AN 5.243, the first-pass treatment of verbal conduct",
+             "AN 5.250, this chapter's closer",
+             "AN 5.249, on a charnel ground",
+             "AN 5.161, an unrelated topic"],
+         "correct": 0,
+         "expl": "Identical compression, applying AN 5.245's variant instead of AN 5.241's."},
+        {"q": "Why does the guide suggest speech pairs fittingly with doctrinal drift?",
+         "opts": [
+             "Speech is the primary medium through which the teaching is transmitted, learned, and eroded",
+             "There is no genuine connection between speech and doctrine",
+             "This pairing is purely arbitrary with no underlying logic",
+             "Speech has no relevance to how teachings are preserved"],
+         "correct": 0,
+         "expl": "Already explored at length in AN 5.151-156."},
+        {"q": "What does this discourse complete, in terms of this chapter's overall pattern?",
+         "opts": [
+             "Both variant endings now applied to both bodily and verbal conduct",
+             "The entire chapter's content",
+             "Nothing — this discourse stands alone with no connection to the rest",
+             "Only the first-pass treatment, not the second"],
+         "correct": 0,
+         "expl": "Leaving only mental conduct's second-pass statement still to come."},
+        {"q": "What does this guide say about this chapter's overall consistency, despite its uneven pacing?",
+         "opts": [
+             "Every discourse states or presupposes one of exactly two formulas, applied to one of four subjects",
+             "The chapter has no underlying logic connecting its discourses",
+             "Each discourse introduces an entirely unrelated new formula",
+             "Only the compressed discourses follow any consistent logic"],
+         "correct": 0,
+         "expl": "A fully consistent structure beneath apparently uneven treatment."},
+        {"q": "What discourse follows, completing this second pass?",
+         "opts": [
+             "AN 5.248, spelling out mental conduct's positive half in full",
+             "AN 5.249, on a charnel ground",
+             "AN 5.161, an unrelated topic",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Mirroring AN 5.244's role in the first pass."},
+        {"q": "What does 'vacīduccarite' mean?",
+         "opts": [
+             "In bad verbal conduct",
+             "In good bodily conduct",
+             "In bad mental conduct",
+             "In a formal ordination ceremony"],
+         "correct": 0,
+         "expl": "This discourse's title concept, unchanged from AN 5.243."},
+        {"q": "What earlier discourses in this project explore speech and the teaching's transmission at length?",
+         "opts": [
+             "AN 5.151-156",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20",
+             "No earlier discourses address this connection"],
+         "correct": 0,
+         "expl": "The 'sure path' and 'decline of the true teaching' discourses."},
+        {"q": "What does 'saddhammā vuṭṭhāti' mean?",
+         "opts": [
+             "Drifts away from the true teaching",
+             "Settles firmly on the true teaching",
+             "Never encounters the teaching at all",
+             "Formally renounces monastic life"],
+         "correct": 0,
+         "expl": "Part of the variant ending this discourse presupposes."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+        {"q": "What does 'dutiya' mean in this discourse's title?",
+         "opts": [
+             "Second — marking this as the second pass through verbal conduct",
+             "First",
+             "Third",
+             "Final"],
+         "correct": 0,
+         "expl": "Distinguishing this discourse from AN 5.243's first-pass treatment."},
+    ],
+    marginalia=[
+        ("Same compression, new formula", [
+            "presupposing AN 5.245,",
+            "not AN 5.241",
+        ]),
+        ("A fitting pairing", [
+            "speech, and the",
+            "teaching's transmission",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vacīduccarita</span>",
+            "&mdash; bad verbal",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.151&ndash;156 &middot; this project's fuller treatment "
+            "of speech and the teaching's survival",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.247/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.246.html">AN 5.246 &middot; Bad Bodily Conduct '
+        "(2nd)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.248.html">AN 5.248 &middot; Bad Mental Conduct '
+        "(2nd)</a> &mdash; next: this second pass's final discourse, "
+        "spelled out in part.",
+        '<a href="an-5.243.html">AN 5.243 &middot; Bad Verbal Conduct '
+        "(1st)</a> &mdash; this same channel's first-pass treatment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.248 — Dutiyamanoduccaritasutta
+# --------------------------------------------------------------------------- #
+page(
+    248, "Dutiyamanoduccarita", "Bad Mental Conduct (2nd)",
+    vagga=VAGGA_25,
+    meta_title="AN 5.248 — Bad Mental Conduct (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyamanoduccaritasutta — completing this chapter's second pass, "
+        "spelling out mental conduct's positive half around the "
+        "doctrinal-drift ending. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a compressed negative half, then the positive half "
+                 "spelled out in full"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "partial break from this pass's compression, "
+                       "mirroring AN 5.244"),
+    ],
+    why=(
+        "Completing this chapter's second pass through conduct's three "
+        "channels, this discourse mirrors AN 5.244's role exactly: the "
+        "negative half stays compressed, but mental conduct's positive "
+        "half &mdash; this time built around drifting toward the true "
+        "teaching &mdash; is spelled out in full."),
+    guide=[
+        ("Mind, the third channel, a second time", [
+            "As with the first pass, mental conduct closes this chapter's "
+            "second pass through the three conduct-channels, receiving "
+            "fuller treatment than its two companions in the same round."]),
+        ("The negative half still compressed", [
+            "As in every other discourse in this chapter's second pass, "
+            "the negative half remains a single abbreviated line, "
+            "presupposing bad mental conduct's connection to drifting away "
+            "from the true teaching and settling on untrue ones."]),
+        ("The positive half, spelled out in full", [
+            "No self-blame; praise from sensible people after examination; "
+            "a good reputation; drifting away from untrue teachings; and "
+            "settling firmly on the true teaching &mdash; AN 5.245's exact "
+            "positive formula, now applied specifically to mental conduct "
+            "and stated word for word."]),
+        ("A closing anchor for the second pass, as AN 5.244 was for the first", [
+            "Just as AN 5.244 gave one full example before this chapter "
+            "moved to a new variant, this discourse gives one full example "
+            "of the second variant before the chapter turns to its final "
+            "two, genuinely distinctive discourses."]),
+        ("What follows", [
+            "AN 5.249 and AN 5.250 close this chapter with its two most "
+            "vivid, non-formulaic discourses &mdash; a striking charnel-"
+            "ground simile, and a genuinely humane warning about "
+            "over-attaching one's faith to a single individual."]),
+    ],
+    terms=[
+        ("manoduccarite",
+         "&ldquo;in bad mental conduct&rdquo; &mdash; the compressed "
+         "opening of this discourse, unchanged from AN 5.244's negative "
+         "half."),
+        ("pe",
+         "the standard abbreviation marker, still compressing this "
+         "discourse's negative half."),
+        ("asaddhammā vuṭṭhāti, saddhamme patiṭṭhāti",
+         "&ldquo;drifts away from untrue teachings, settles on the true "
+         "teaching&rdquo; &mdash; the positive closing pair, spelled out "
+         "here in full."),
+        ("kalyāṇo kittisaddo abbhuggacchati",
+         "&ldquo;you get a good reputation&rdquo; &mdash; the third item "
+         "of the positive half, shared with AN 5.244's formula."),
+        ("manosucarite",
+         "&ldquo;in good mental conduct&rdquo; &mdash; this discourse's "
+         "positive title concept, fully treated here."),
+    ],
+    text_intro=(
+        "The discourse in full: bad mental conduct compressed, good "
+        "mental conduct spelled out, around the doctrinal-drift ending. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bad mental conduct"),
+        ("p", "&sect;1", "an5.248:1.1-1.1"),
+        ("h3", "Five benefits of good mental conduct"),
+        ("p", "&sect;2", "an5.248:1.2-1.8"),
+    ],
+    quiz=[
+        {"q": "What discourse does this one mirror exactly, in role and structure?",
+         "opts": [
+             "AN 5.244, closing the first pass with a partial break from compression",
+             "AN 5.249, on a charnel ground",
+             "AN 5.250, this chapter's closer",
+             "AN 5.241, this chapter's opening discourse"],
+         "correct": 0,
+         "expl": "Both discourses spell out mental conduct's positive half in full."},
+        {"q": "What formula does this discourse's positive half spell out, differently from AN 5.244's?",
+         "opts": [
+             "AN 5.245's variant — drifting toward the true teaching, not the death-and-rebirth formula",
+             "An entirely new, third formula never seen before",
+             "The exact same formula as AN 5.244, with no differences",
+             "No positive half is given at all in this discourse"],
+         "correct": 0,
+         "expl": "The doctrinal-drift ending, closing this second pass."},
+        {"q": "What five items does this discourse's positive half name in full?",
+         "opts": [
+             "No self-blame, praise after examination, good reputation, drifting from untrue teachings, and settling on the true teaching",
+             "The five precepts",
+             "Rebirth in hell and heaven",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "AN 5.245's exact positive formula, applied to mental conduct."},
+        {"q": "What role does this discourse play in this chapter's structure?",
+         "opts": [
+             "A closing anchor for the second pass, mirroring AN 5.244's role in the first",
+             "The chapter's true opening discourse",
+             "An entirely unrelated addition with no structural role",
+             "A repeat of AN 5.241 word for word"],
+         "correct": 0,
+         "expl": "One full example before turning to the chapter's final two discourses."},
+        {"q": "What does 'asaddhammā vuṭṭhāti' mean?",
+         "opts": [
+             "Drifts away from untrue teachings",
+             "Drifts away from the true teaching",
+             "Never encounters any teaching at all",
+             "Formally renounces monastic life"],
+         "correct": 0,
+         "expl": "The first item of this discourse's positive closing pair."},
+        {"q": "What discourses follow, closing this chapter with distinctive content?",
+         "opts": [
+             "AN 5.249 (a charnel ground) and AN 5.250 (faith in individuals)",
+             "No further discourses follow in this chapter",
+             "AN 5.241 and AN 5.242, repeated again",
+             "AN 5.161 and AN 5.162, an unrelated pair"],
+         "correct": 0,
+         "expl": "This chapter's two most vivid, non-formulaic closing discourses."},
+        {"q": "What does 'saddhamme patiṭṭhāti' mean?",
+         "opts": [
+             "Settles on the true teaching",
+             "Settles on untrue teachings",
+             "Rejects all teachings entirely",
+             "Formally examines a teaching before accepting it"],
+         "correct": 0,
+         "expl": "The closing item of this discourse's positive half."},
+        {"q": "How does the negative half of this discourse compare to its positive half?",
+         "opts": [
+             "The negative half stays compressed; only the positive half is spelled out in full",
+             "Both halves are spelled out in full",
+             "Both halves remain equally compressed",
+             "This discourse has no negative half at all"],
+         "correct": 0,
+         "expl": "A partial break in the compression pattern, as at AN 5.244."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+        {"q": "What is 'mano' the term for?",
+         "opts": [
+             "Mind, mental intention",
+             "The physical body",
+             "Speech, verbal expression",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The third of the three classical conduct-channels, given fuller treatment here."},
+    ],
+    marginalia=[
+        ("A closing anchor, again", [
+            "one full example",
+            "before this chapter turns",
+        ]),
+        ("The doctrinal-drift formula", [
+            "spelled out in full",
+            "for mental conduct",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">manosucarita</span>",
+            "&mdash; good mental",
+            "conduct",
+        ]),
+        ("Cross-references", [
+            "AN 5.244 &middot; this discourse's structural counterpart, "
+            "closing the first pass",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.248/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.247.html">AN 5.247 &middot; Bad Verbal Conduct '
+        "(2nd)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.249.html">AN 5.249 &middot; A Charnel Ground</a> '
+        "&mdash; next: this chapter's most vivid closing discourse.",
+        '<a href="an-5.244.html">AN 5.244 &middot; Bad Mental Conduct '
+        "(1st)</a> &mdash; this discourse's structural counterpart in the "
+        "first pass.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.249 — Sivathikasutta
+# --------------------------------------------------------------------------- #
+page(
+    249, "Sivathika", "A Charnel Ground",
+    vagga=VAGGA_25,
+    meta_title="AN 5.249 — A Charnel Ground | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sivathikasutta — a vivid charnel-ground simile applied to a "
+        "person's own chosen conduct, worth reading alongside this "
+        "collection's earlier gendered similes. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended simile, applied to conduct rather than "
+                 "identity"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vivid "
+                       "and worth reading against this collection's "
+                       "harder passages"),
+    ],
+    why=(
+        "This discourse uses the same rhetorical structure as AN "
+        "5.229&ndash;230's Black Snake similes &mdash; naming five "
+        "qualities of an unpleasant thing, then applying them directly to "
+        "a person &mdash; but grounds the comparison entirely in someone's "
+        "own chosen conduct, applicable to anyone, rather than in an "
+        "unchangeable identity."),
+    guide=[
+        ("Five drawbacks of a literal charnel ground", [
+            "Filthy, stinking, frightening, a gathering place for savage "
+            "spirits, and a weeping place for many people &mdash; the "
+            "genuine, unpleasant qualities of a place where the dead were "
+            "left, in the ancient Indian context this discourse draws on."]),
+        ("Applied to a person &mdash; by their conduct, not their identity", [
+            "&lsquo;In the same way&rsquo;, the discourse says, an "
+            "individual (<em>puggala</em>, a gender-neutral term) with "
+            "filthy conduct by body, speech, and mind shares these same "
+            "five qualities &mdash; but crucially, the basis of the "
+            "comparison is explicitly named as their own conduct, "
+            "something chosen and changeable, not an inherited or "
+            "unchangeable trait."]),
+        ("Each quality explained through its actual social mechanism", [
+            "Unlike AN 5.229's bare assertion, this discourse walks "
+            "through exactly how each quality manifests: filthy conduct "
+            "produces a bad reputation (&lsquo;stinking&rsquo;); "
+            "good-hearted companions avoid such a person from a distance "
+            "(&lsquo;frightening&rsquo;); they end up living only among "
+            "others of similarly poor character (&lsquo;gathering place "
+            "for savage spirits&rsquo;); and companions who witness this "
+            "openly lament having to live alongside them "
+            "(&lsquo;weeping place&rsquo;)."]),
+        ("A meaningful contrast with AN 5.229-230", [
+            "Read against this project's earlier treatment of AN "
+            "5.229&ndash;230, this discourse's structure is genuinely "
+            "different in one crucial respect: it applies its unflattering "
+            "comparison to a person's own actions, available to anyone "
+            "regardless of who they are, rather than asserting the "
+            "comparison as true of an entire class of people by nature."]),
+        ("Still worth reading carefully", [
+            "This discourse remains a harsh comparison, and this guide "
+            "doesn't soften that; but the difference between "
+            "&lsquo;these are the consequences of choices anyone could "
+            "make&rsquo; and &lsquo;this is what a whole group of people "
+            "inherently is&rsquo; is a real and significant one, worth "
+            "naming explicitly rather than passing over."]),
+    ],
+    terms=[
+        ("sivathika",
+         "&ldquo;a charnel ground&rdquo; &mdash; this discourse's title "
+         "concept, a place where the dead were left in the ancient Indian "
+         "context."),
+        ("sivathikūpama puggala",
+         "&ldquo;an individual like a charnel ground&rdquo; &mdash; the "
+         "comparison's direct object, explicitly grounded in conduct, "
+         "using the gender-neutral term for &lsquo;person&rsquo;."),
+        ("asuci kāyakammena, vacīkammena, manokammena samannāgato",
+         "&ldquo;possessing filthy conduct by body, speech, and mind&rdquo; "
+         "&mdash; the explicit basis of the comparison, one's own actions."),
+        ("pesalā sabrahmacārī",
+         "&ldquo;good-hearted spiritual companions&rdquo; &mdash; those "
+         "who avoid, and later lament having to live with, such a person."),
+        ("vāḷānaṁ amanussānaṁ āvāso",
+         "&ldquo;a gathering place for savage spirits&rdquo; &mdash; both "
+         "the charnel ground's literal danger and, applied to a person, "
+         "their tendency to gather with others of similar character."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of a charnel ground, and "
+        "the same five, explained, for a person of filthy conduct. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of a charnel ground"),
+        ("p", "&sect;1", "an5.249:1.1-1.4"),
+        ("h3", "The same five, applied to a person's conduct"),
+        ("p", "&sect;2", "an5.249:2.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse name for a literal charnel ground?",
+         "opts": [
+             "Filthy, stinking, frightening, a gathering place for spirits, and a weeping place",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The genuine, unpleasant qualities of the place this discourse describes."},
+        {"q": "What is explicitly named as the basis of comparison to a person?",
+         "opts": [
+             "Their own conduct by body, speech, and mind — something chosen and changeable",
+             "Their birth, family, or social class",
+             "Their gender specifically",
+             "No basis is given at all"],
+         "correct": 0,
+         "expl": "A crucial difference from this project's earlier, harder similes."},
+        {"q": "How does this discourse explain 'stinking', applied to a person?",
+         "opts": [
+             "Filthy conduct produces a bad reputation",
+             "Physical illness from poor hygiene",
+             "A formal legal penalty",
+             "No explanation is given for this quality"],
+         "correct": 0,
+         "expl": "Each quality is walked through its actual social mechanism, unlike AN 5.229's bare assertion."},
+        {"q": "How does this discourse's structure differ meaningfully from AN 5.229-230's?",
+         "opts": [
+             "It grounds its comparison in conduct available to anyone, not an unchangeable class-based trait",
+             "It uses an entirely different, unrelated rhetorical structure",
+             "It offers no comparison to a person at all",
+             "There is no meaningful difference between the two"],
+         "correct": 0,
+         "expl": "A real and significant distinction, worth naming explicitly."},
+        {"q": "What term does this discourse use for the person being compared, and what does that term signal?",
+         "opts": [
+             "Puggala, a gender-neutral term for 'individual'",
+             "Mātugāma, a term specific to women",
+             "A term applying only to monastics",
+             "A term applying only to a specific named person"],
+         "correct": 0,
+         "expl": "Distinct from AN 5.229-230's demographic-specific comparison."},
+        {"q": "How does 'good-hearted companions' respond to this discourse's 'frightening' quality?",
+         "opts": [
+             "They avoid such a person from a distance",
+             "They actively seek out such a person's company",
+             "They report the person to formal authorities",
+             "They ignore the person's conduct entirely"],
+         "correct": 0,
+         "expl": "The social mechanism explaining this discourse's third quality."},
+        {"q": "How does this discourse explain 'a gathering place for savage spirits', applied to a person?",
+         "opts": [
+             "They end up living only among others of similarly poor character",
+             "They are literally haunted by spirits",
+             "They attract wild animals",
+             "No explanation is given for this quality"],
+         "correct": 0,
+         "expl": "A social consequence, not a supernatural claim about the person."},
+        {"q": "Does this guide describe this discourse as gentle or free of harshness?",
+         "opts": [
+             "No — it remains a harsh comparison, though a genuinely different kind than AN 5.229-230's",
+             "Yes — this discourse is presented as entirely mild and inoffensive",
+             "The guide avoids commenting on the discourse's tone at all",
+             "The discourse is described as purely celebratory"],
+         "correct": 0,
+         "expl": "The distinction is real, but the comparison itself is still harsh."},
+        {"q": "What does 'pesalā sabrahmacārī' mean?",
+         "opts": [
+             "Good-hearted spiritual companions",
+             "Hostile rivals",
+             "Formal legal witnesses",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "Those who avoid, and later lament living with, a person of filthy conduct."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Duccaritavagga",
+             "Āvāsikavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "'Bad Conduct', this session's twenty-fifth chapter."},
+    ],
+    marginalia=[
+        ("Five explained qualities", [
+            "filthy &middot; stinking",
+            "&middot; frightening &middot;",
+            "isolating &middot;",
+            "lamented",
+        ]),
+        ("Conduct, not identity", [
+            "grounded in choices,",
+            "not who someone is",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">puggala</span>",
+            "&mdash; individual,",
+            "a gender-neutral term",
+        ]),
+        ("Cross-references", [
+            "AN 5.229&ndash;230 &middot; a harder simile, worth reading "
+            "against this discourse's structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.249/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.248.html">AN 5.248 &middot; Bad Mental Conduct '
+        "(2nd)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.250.html">AN 5.250 &middot; Faith in Individuals</a> '
+        "&mdash; next: this chapter's closer, on the risks of devotion to "
+        "one person.",
+        '<a href="an-5.229.html">AN 5.229 &middot; Black Snakes (1st)</a> '
+        "&mdash; a harder simile, worth reading against this discourse's "
+        "structure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.250 — Puggalappasādasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    250, "Puggalappasāda", "Faith in Individuals",
+    vagga=VAGGA_25,
+    meta_title="AN 5.250 — Faith in Individuals | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Puggalappasādasutta, closing the Duccaritavagga — a humane "
+        "warning against attaching one's faith to a single person rather "
+        "than the teaching itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a repeated causal chain, applied to five triggering "
+                 "events"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "genuinely humane, worth reading slowly"),
+    ],
+    why=(
+        "This chapter closes with a quietly humane teaching: attaching "
+        "one's faith too personally to a single individual, rather than "
+        "to the teaching itself, leaves that faith genuinely vulnerable "
+        "&mdash; because the person one is devoted to is fallible and "
+        "mortal, and losing them can needlessly damage one's whole "
+        "relationship to practice."),
+    guide=[
+        ("A repeated chain, five triggers", [
+            "The same causal chain repeats for five different events "
+            "affecting someone a devotee has grown personally attached "
+            "to: being formally suspended by the Saṅgha for an offense; "
+            "being demoted to sit at the end of the line for a lesser "
+            "offense; leaving for another region; disrobing; or dying."]),
+        ("The chain itself", [
+            "Learning of the event, the devotee thinks, &lsquo;this "
+            "individual dear and beloved to me&rsquo; has suffered this "
+            "&mdash; and, on account of that personal attachment, loses "
+            "much of their faith in mendicants generally, stops "
+            "associating with other mendicants, stops hearing the true "
+            "teaching, and eventually falls away from the true teaching "
+            "entirely."]),
+        ("The problem isn't faith itself, but its object", [
+            "This discourse isn't warning against faith or devotion as "
+            "such; it's naming a specific structural risk: when faith "
+            "attaches primarily to one fallible person rather than to the "
+            "teaching, that person's ordinary human failures &mdash; "
+            "misconduct, departure, or death &mdash; become able to derail "
+            "someone's entire practice."]),
+        ("From a formal offense to the most final loss", [
+            "The five triggers escalate in a telling way: from a "
+            "correctable disciplinary matter (suspension, demotion) "
+            "through voluntary departures (leaving, disrobing) to death "
+            "itself &mdash; the same underlying vulnerability, shown "
+            "across an entire range of ordinary and extraordinary losses."]),
+        ("Closing this chapter, and closing on a genuinely gentle note", [
+            "After this chapter's harsher passages, closing on a "
+            "discourse this attentive to the psychological reality of "
+            "grief and disillusionment is a deliberate note to end on. "
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. "
+            "Duccaritavaggo pañcamo&rsquo;, and an uddāna verse naming "
+            "this chapter's ten discourses in brief, the mechanism "
+            "explained in full at AN 5.10."]),
+    ],
+    terms=[
+        ("puggalappasāda",
+         "&ldquo;faith placed in an individual&rdquo; &mdash; this "
+         "discourse's title concept, the specific risk it names."),
+        ("saṅgho ukkhipati",
+         "&ldquo;the Saṅgha suspends them&rdquo; &mdash; the first, most "
+         "formal triggering event."),
+        ("piyo manāpo",
+         "&ldquo;dear and beloved&rdquo; &mdash; the devotee's own "
+         "description of the person they've attached their faith to."),
+        ("saddhammā parihāyati",
+         "&ldquo;falls away from the true teaching&rdquo; &mdash; the "
+         "chain's final, most severe consequence, repeated across all "
+         "five triggers."),
+        ("disāpakkanto, vibbhanto, kālaṅkato",
+         "&ldquo;leaves for another region, disrobes, passes away&rdquo; "
+         "&mdash; three further triggering events, abbreviated in the "
+         "source as following the identical pattern."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter: the risks of "
+        "attaching one's faith to a single person. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Devoted to one who is suspended, or set at the end of the line"),
+        ("p", "&sect;1", "an5.250:1.1-2.8"),
+        ("h3", "Devoted to one who leaves, disrobes, or dies"),
+        ("p", "&sect;2", "an5.250:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What five events trigger this discourse's repeated causal chain?",
+         "opts": [
+             "Suspension, demotion, leaving for another region, disrobing, or dying",
+             "The five precepts broken",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Five different ways the object of someone's personal devotion can be lost."},
+        {"q": "What does the devotee eventually experience, according to this discourse's repeated chain?",
+         "opts": [
+             "Losing faith in mendicants generally and falling away from the true teaching",
+             "Immediate liberation from all defilements",
+             "A formal legal penalty",
+             "Increased confidence and deeper practice"],
+         "correct": 0,
+         "expl": "A cascading loss triggered by attachment to one person."},
+        {"q": "What is this discourse actually warning against, according to this guide?",
+         "opts": [
+             "Attaching faith primarily to one fallible person, rather than to the teaching itself",
+             "Faith and devotion in any form whatsoever",
+             "Following any teacher at all",
+             "Formal ordination itself"],
+         "correct": 0,
+         "expl": "A specific structural risk, not a rejection of faith as such."},
+        {"q": "What pattern do the five triggering events follow?",
+         "opts": [
+             "An escalation from correctable disciplinary matters through voluntary departures to death itself",
+             "A random, unordered set with no progression",
+             "A decline from most severe to least severe",
+             "All five events are identical in severity"],
+         "correct": 0,
+         "expl": "The same underlying vulnerability across a range of losses."},
+        {"q": "What does 'piyo manāpo' mean?",
+         "opts": [
+             "Dear and beloved",
+             "Formally accused",
+             "Newly ordained",
+             "Physically distant"],
+         "correct": 0,
+         "expl": "The devotee's own description of the person they've attached their faith to."},
+        {"q": "What does 'saṅgho ukkhipati' mean?",
+         "opts": [
+             "The Saṅgha suspends them",
+             "The Saṅgha praises them",
+             "The Saṅgha formally ordains them",
+             "The Saṅgha sends them abroad"],
+         "correct": 0,
+         "expl": "The first and most formal of the five triggering events."},
+        {"q": "How does this guide characterize this discourse's tone, closing this chapter?",
+         "opts": [
+             "Genuinely humane, attentive to the psychological reality of grief and disillusionment",
+             "Harsh and condemnatory, matching the chapter's earlier severity",
+             "Purely legalistic, with no emotional dimension",
+             "Dismissive of the devotee's experience"],
+         "correct": 0,
+         "expl": "A deliberate, gentler note to close the chapter on."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Duccaritavaggo pañcamo.'",
+             "'Dasamaṁ. Āvāsikavaggo catuttho.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Upasampadāvaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The fifth chapter on bad conduct.'"},
+        {"q": "What does 'saddhammā parihāyati' mean?",
+         "opts": [
+             "Falls away from the true teaching",
+             "Settles firmly on the true teaching",
+             "Never encounters any teaching at all",
+             "Formally renounces monastic life"],
+         "correct": 0,
+         "expl": "The chain's final, most severe consequence."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Upasampadāvagga",
+             "Sammutipeyyāla",
+             "Sikkhāpadapeyyāla",
+             "Rāgapeyyāla"],
+         "correct": 0,
+         "expl": "AN 5.251 begins this collection's twenty-sixth chapter."},
+    ],
+    marginalia=[
+        ("Five ways to lose a devotee's anchor", [
+            "suspension &middot;",
+            "demotion &middot;",
+            "departure &middot;",
+            "disrobing &middot; death",
+        ]),
+        ("Faith's object matters", [
+            "a fallible person, versus",
+            "the teaching itself",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">puggalappasāda</span>",
+            "&mdash; faith placed",
+            "in an individual",
+        ]),
+        ("Cross-references", [
+            "AN 5.10 &middot; the uddāna mechanism, explained there in "
+            "full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.250/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.249.html">AN 5.249 &middot; A Charnel Ground</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.241.html">AN 5.241 &middot; Bad Conduct (1st)</a> '
+        "&mdash; this chapter's opening discourse.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; '
+        "another discourse on the risks and rewards of devotion to a "
+        "senior figure.",
+    ],
+)
