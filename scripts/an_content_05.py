@@ -50626,3 +50626,1752 @@ page(
         "senior figure.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.251 — Upasampādetabbasutta
+# --------------------------------------------------------------------------- #
+VAGGA_26 = "<em>Upasampadāvagga</em> &mdash; the twenty-sixth chapter of the Fives"
+
+page(
+    251, "Upasampādetabba", "Who Should Give Ordination",
+    vagga=VAGGA_26,
+    meta_title="AN 5.251 — Who Should Give Ordination | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Upasampādetabbasutta, "
+        "opening the Upasampadāvagga — the same asekha standard first met at AN 5.108, now set "
+        "as the qualification for who may perform ordination. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item qualification list, stated once"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Vinaya literature across traditions sets qualifications for "
+                              "who may serve as a preceptor at ordination; this reading guide "
+                              "does not assert a specific matching text"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a new "
+                       "chapter with a formula already met once before"),
+    ],
+    why=(
+        "This chapter turns from conduct in general to a narrower and more institutional "
+        "question: who is qualified to perform specific roles within the monastic community. "
+        "This opening discourse sets the standard for the most consequential of these roles, "
+        "conferring ordination itself, and it does so by reaching back to a formula this "
+        "series has already met once, at AN 5.108: the complete, adept-level pentad of ethics, "
+        "immersion, wisdom, freedom, and the knowledge and vision of freedom."),
+    guide=[
+        ("A new chapter on monastic qualification", [
+            "The Upasampadāvagga (&ldquo;Ordination&rdquo;) moves from conduct's general and "
+            "specific channels, the previous chapter's subject, to a different kind of "
+            "question: who within the community is fit to perform particular roles &mdash; "
+            "conferring ordination, standing as a mendicant's dependence-teacher, or taking a "
+            "novice as personal attendant."]),
+        ("The asekha pentad, returning from AN 5.108", [
+            "The standard given here is not new. It is the identical five-item &lsquo;asekha&rsquo; "
+            "formula already given in full at <a href=\"an-5.108.html\">AN 5.108</a>: complete, "
+            "adept-level ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+            "freedom &mdash; there offered as a general description of one beyond training, "
+            "here applied for the first time as a specific institutional qualification."]),
+        ("Why this standard, for this role specifically", [
+            "The logic is direct: conferring ordination is initiating another person into the "
+            "very path this pentad describes as complete. The discourse sets the bar at nothing "
+            "less than having already walked that path to its end &mdash; not partial "
+            "attainment, but the full spectrum in each of the five components."]),
+        ("Two more roles, the same standard", [
+            "AN 5.252 and AN 5.253 apply this identical formula to two further roles &mdash; "
+            "giving dependence, and taking on a novice attendant &mdash; without varying a "
+            "single term."]),
+        ("What follows", [
+            "AN 5.254 turns from qualification to a different subject entirely: the five kinds "
+            "of stinginess, which will occupy most of the remainder of this chapter."]),
+    ],
+    terms=[
+        ("upasampadā",
+         "&ldquo;ordination&rdquo;, specifically full admission to the monastic community "
+         "&mdash; this chapter's title concept."),
+        ("asekha",
+         "&ldquo;an adept&rdquo;, one who has completed the training entirely &mdash; the "
+         "qualifying standard, already met at AN 5.108."),
+        ("sīlakkhandha, samādhikkhandha, paññākkhandha",
+         "the complete aggregates, or entire spectrums, of ethics, immersion, and wisdom."),
+        ("vimuttikkhandha",
+         "the entire spectrum of freedom."),
+        ("vimuttiñāṇadassanakkhandha",
+         "the entire spectrum of the knowledge and vision of freedom &mdash; the fifth and "
+         "final component."),
+    ],
+    text_intro=(
+        "The discourse in full: the five-item asekha standard, and the single role it "
+        "qualifies a mendicant for. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The standard for giving ordination"),
+        ("p", "&sect;1", "an5.251:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Upasampadāvagga, 'Ordination'",
+             "Duccaritavagga, 'Bad Conduct'",
+             "Sammutipeyyāla",
+             "Sikkhāpadapeyyāla"],
+         "correct": 0,
+         "expl": "This session's twenty-sixth chapter."},
+        {"q": "Where does this exact five-item asekha standard already appear in this collection?",
+         "opts": [
+             "AN 5.108, describing one beyond training in general",
+             "Nowhere else in this collection",
+             "AN 5.1",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "There a general description; here a specific institutional qualification."},
+        {"q": "What five components make up the asekha standard?",
+         "opts": [
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom, each complete",
+             "Faith, conscience, prudence, energy, and wisdom",
+             "The five precepts",
+             "The five aggregates of clinging"],
+         "correct": 0,
+         "expl": "The complete-spectrum pentad, not the trainee's partial powers."},
+        {"q": "What role does this discourse specifically qualify a mendicant for?",
+         "opts": [
+             "Giving ordination (upasampadā)",
+             "Teaching meditation",
+             "Serving as a novice",
+             "Leading chanting"],
+         "correct": 0,
+         "expl": "The most consequential of the three roles this chapter addresses."},
+        {"q": "What is the guide's stated logic for why this exact standard applies to ordination?",
+         "opts": [
+             "Conferring ordination initiates another into the very path this pentad describes as already complete",
+             "No reason is given anywhere",
+             "It is an arbitrary bureaucratic requirement",
+             "Only seniority in years matters, not attainment"],
+         "correct": 0,
+         "expl": "Not partial attainment, but full completion in each component."},
+        {"q": "What does 'asekha' mean, as contrasted with 'sekha'?",
+         "opts": [
+             "One who has completed the training entirely, contrasted with a trainee still in progress",
+             "A synonym for 'novice'",
+             "A rank senior only in years of ordination",
+             "A term with no contrast term in this collection"],
+         "correct": 0,
+         "expl": "The distinction already established at AN 5.89&ndash;90 and AN 5.108."},
+        {"q": "What two further roles do AN 5.252 and AN 5.253 apply this identical standard to?",
+         "opts": [
+             "Giving dependence, and taking on a novice attendant",
+             "Teaching Abhidhamma and leading retreats",
+             "Collecting alms and cooking",
+             "Building monasteries and managing funds"],
+         "correct": 0,
+         "expl": "The same five-item formula, unchanged, for two more institutional roles."},
+        {"q": "What does 'khandha' emphasize in each of the five components?",
+         "opts": [
+             "Completeness and totality, rather than simple possession",
+             "A numerical count only",
+             "A physical body part",
+             "A geographic location"],
+         "correct": 0,
+         "expl": "Already noted at AN 5.108: the entire spectrum, not partial accomplishment."},
+        {"q": "What subject does AN 5.254 turn to next?",
+         "opts": [
+             "The five kinds of stinginess",
+             "The five precepts",
+             "The five aggregates",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "A new subject occupying most of the rest of this chapter."},
+        {"q": "How is this discourse's form described?",
+         "opts": [
+             "A single five-item qualification list, stated once",
+             "A long narrative with multiple speakers",
+             "A poem in verse",
+             "A dialogue between two mendicants"],
+         "correct": 0,
+         "expl": "Short and direct, typical of this chapter's opening discourses."},
+    ],
+    marginalia=[
+        ("The asekha standard, returning", [
+            "sīla, samādhi, paññā,",
+            "vimutti, vimuttiñāṇadassana",
+        ]),
+        ("Not partial, but complete", [
+            "each khandha in full",
+            "&mdash; the entire spectrum",
+        ]),
+        ("Three roles, one standard", [
+            "AN 5.251&ndash;253:",
+            "ordain, mentor, attend",
+        ]),
+        ("A new chapter begins", [
+            "from conduct in general",
+            "to institutional qualification",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.251/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.108.html">AN 5.108 &middot; An Adept</a> &mdash; this same asekha '
+        "standard's earlier appearance, there general, here institutional.",
+        '<a href="an-5.1.html">AN 5.1 &middot; In Brief</a> &mdash; the sekha powers this '
+        "fully-trained asekha standard completes, opening this entire book.",
+        '<a href="an-5.252.html">AN 5.252 &middot; Who Should Give Dependence</a> &mdash; next, '
+        "the identical standard applied to a second role.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.252 — Nissayasutta
+# --------------------------------------------------------------------------- #
+page(
+    252, "Nissaya", "Who Should Give Dependence",
+    vagga=VAGGA_26,
+    meta_title="AN 5.252 — Who Should Give Dependence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nissayasutta — AN "
+        "5.251's asekha standard applied to a second role, the mendicant a newly ordained "
+        "trainee depends on for guidance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-item qualification list as AN 5.251, one role changed"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closely paired "
+                       "with AN 5.251"),
+    ],
+    why=(
+        "The identical asekha standard from AN 5.251, now applied to a second role: giving "
+        "<em>nissaya</em>, the dependence a newly ordained mendicant lives under while still "
+        "developing competence. The source itself treats the two discourses as close enough "
+        "to elide the repeated middle portion with its standard abbreviation mark."),
+    guide=[
+        ("The second of three roles", [
+            "Where <a href=\"an-5.251.html\">AN 5.251</a> set the standard for who may give "
+            "ordination, this discourse sets the identical standard for who may accept a "
+            "newly ordained mendicant into <em>nissaya</em> &mdash; a period of guided "
+            "dependence on a senior mendicant."]),
+        ("What nissaya names", [
+            "Nissaya is the relationship in which a mendicant still building competence lives "
+            "under a senior's guidance, consulting them on questions of conduct and training "
+            "rather than acting alone. The role this discourse qualifies is the senior side of "
+            "that relationship."]),
+        ("One formula, elided in the source", [
+            "The Pali source states the five components only once in full, then abbreviates "
+            "the rest with its standard peyyāla mark, since the wording is otherwise identical "
+            "to AN 5.251. This reading guide gives the English in full, as Sujato's translation "
+            "already restates it without abbreviation."]),
+        ("Why the same standard applies here too", [
+            "The reasoning carries over directly from AN 5.251: a mendicant who has not yet "
+            "completed ethics, immersion, wisdom, freedom, and the knowledge and vision of "
+            "freedom is not positioned to guide another mendicant's own development in exactly "
+            "those five areas."]),
+        ("What follows", [
+            "AN 5.253 applies the same standard a third time, to the narrower and more "
+            "domestic role of having a novice as personal attendant."]),
+    ],
+    terms=[
+        ("nissaya",
+         "&ldquo;dependence&rdquo; &mdash; the guided relationship this discourse's title "
+         "names, and this chapter's second qualified role."),
+        ("peyyāla",
+         "the standard abbreviation mark the source uses here for the elided, near-identical "
+         "repeated text, already explained at AN 5.108."),
+        ("asekha",
+         "&ldquo;an adept&rdquo;, one who has completed the training entirely &mdash; the "
+         "standard carried over unchanged from AN 5.251."),
+        ("pañcahi dhammehi samannāgata",
+         "&ldquo;endowed with five qualities&rdquo; &mdash; the formula's recurring opening "
+         "phrase across this chapter's first six discourses."),
+        ("vimuttiñāṇadassanakkhandha",
+         "the entire spectrum of the knowledge and vision of freedom &mdash; the fifth and "
+         "final component, unchanged from AN 5.251."),
+    ],
+    text_intro=(
+        "The discourse in full, as Sujato's translation restates it without the source's own "
+        "abbreviation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The standard for giving dependence"),
+        ("p", "&sect;1", "an5.252:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What role does this discourse qualify a mendicant for?",
+         "opts": [
+             "Giving nissaya, dependence, to a newly ordained mendicant",
+             "Giving ordination",
+             "Teaching only senior mendicants",
+             "Collecting almsfood"],
+         "correct": 0,
+         "expl": "The second of this chapter's three qualified roles."},
+        {"q": "What standard does this discourse use?",
+         "opts": [
+             "The identical asekha standard as AN 5.251, unchanged",
+             "A completely different, lower standard",
+             "No standard at all is given",
+             "A standard based only on years since ordination"],
+         "correct": 0,
+         "expl": "The same five-item pentad, carried over without variation."},
+        {"q": "What does 'nissaya' name, according to this discourse's guide?",
+         "opts": [
+             "A guided relationship in which a mendicant still building competence depends on a senior",
+             "A type of monastery building",
+             "A formal ordination ceremony",
+             "A specific meditation technique"],
+         "correct": 0,
+         "expl": "The senior side of this relationship is what the discourse qualifies."},
+        {"q": "How does the Pali source treat this discourse's five-item formula, compared to AN 5.251?",
+         "opts": [
+             "States it once in full, then abbreviates the rest with the standard peyyāla mark",
+             "Restates every word in full with no abbreviation",
+             "Omits the formula entirely",
+             "Uses a completely different formula"],
+         "correct": 0,
+         "expl": "The wording is otherwise identical, so the source elides it."},
+        {"q": "Why does the English text on this page appear in full rather than abbreviated?",
+         "opts": [
+             "Sujato's translation already restates it without abbreviation",
+             "This reading guide invents text not present in the source",
+             "The Pali source never abbreviates anything",
+             "AN 5.251 has no relationship to this discourse"],
+         "correct": 0,
+         "expl": "The translation follows the source's meaning, not its typographic shorthand."},
+        {"q": "What is the guide's stated reasoning for applying the same standard to this role?",
+         "opts": [
+             "One who has not completed the five components is not positioned to guide another's development in exactly those areas",
+             "No reasoning is given anywhere in the guide",
+             "Seniority in years is the only relevant factor",
+             "The standard is arbitrary and unexplained"],
+         "correct": 0,
+         "expl": "Carried over directly from the logic already given at AN 5.251."},
+        {"q": "What does 'peyyāla' refer to?",
+         "opts": [
+             "The source's standard abbreviation mark for elided, repeated text",
+             "A specific meditation posture",
+             "A type of monastic robe",
+             "A formal debate format"],
+         "correct": 0,
+         "expl": "Already explained at AN 5.108, and cited briefly here rather than reargued."},
+        {"q": "What third role does AN 5.253 apply this same standard to?",
+         "opts": [
+             "Having a novice as personal attendant",
+             "Leading formal chanting",
+             "Managing monastery funds",
+             "Teaching lay devotees exclusively"],
+         "correct": 0,
+         "expl": "The narrowest and most domestic of the chapter's three roles."},
+        {"q": "How many of the five components does this discourse change from AN 5.251?",
+         "opts": [
+             "None — the pentad is identical, only the qualified role changes",
+             "All five",
+             "Two of the five",
+             "Exactly one, replacing wisdom with generosity"],
+         "correct": 0,
+         "expl": "A structurally identical page differing only in the role named."},
+        {"q": "What is this discourse's overall form?",
+         "opts": [
+             "The same five-item qualification list as AN 5.251, one role changed",
+             "A long narrative involving several named individuals",
+             "A set of similes with no direct statement",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Structurally paired with AN 5.251 and AN 5.253."},
+    ],
+    marginalia=[
+        ("The same pentad again", [
+            "sīla, samādhi, paññā,",
+            "vimutti, vimuttiñāṇadassana",
+        ]),
+        ("A new role, not a new standard", [
+            "AN 5.251: ordination",
+            "AN 5.252: nissaya",
+        ]),
+        ("The source's own shorthand", [
+            "stated once in full,",
+            "then peyyāla",
+        ]),
+        ("Guiding requires having arrived", [
+            "not partial progress",
+            "but the completed path",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.252/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.251.html">AN 5.251 &middot; Who Should Give Ordination</a> &mdash; the '
+        "previous discourse, and this identical standard's first institutional application.",
+        '<a href="an-5.108.html">AN 5.108 &middot; An Adept</a> &mdash; the asekha '
+        "pentad&rsquo;s original, general statement.",
+        '<a href="an-5.253.html">AN 5.253 &middot; Who Should Have a Novice as Attendant</a> '
+        "&mdash; next, the same standard applied a third time.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.253 — Sāmaṇerasutta
+# --------------------------------------------------------------------------- #
+page(
+    253, "Sāmaṇera", "Who Should Have a Novice as Attendant",
+    vagga=VAGGA_26,
+    meta_title="AN 5.253 — Who Should Have a Novice as Attendant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāmaṇerasutta — AN "
+        "5.251's asekha standard applied a third time, closing this chapter's opening triad "
+        "of role-qualification discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-item qualification list as AN 5.251&ndash;252, one role changed"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closing the "
+                       "opening triad"),
+    ],
+    why=(
+        "The same asekha standard a third time, now qualifying who may have a "
+        "<em>sāmaṇera</em>, a novice, as personal attendant &mdash; the narrowest and most "
+        "domestic of the three roles this chapter opens with, and the last to be governed by "
+        "this particular formula before the chapter turns to stinginess."),
+    guide=[
+        ("Closing the opening triad", [
+            "This discourse completes the set begun at <a href=\"an-5.251.html\">AN 5.251</a> "
+            "and continued at <a href=\"an-5.252.html\">AN 5.252</a>: three institutional roles "
+            "&mdash; ordaining, mentoring through nissaya, and now taking a novice as personal "
+            "attendant &mdash; all governed by the identical asekha pentad."]),
+        ("Why the same standard extends this far", [
+            "A novice attendant lives in the closest daily proximity to the mendicant they "
+            "serve, absorbing habits and conduct as much by example as by instruction. The "
+            "discourse treats this ordinary, domestic-sounding role as carrying the same "
+            "weight as ordination and nissaya, requiring the identical completed standard."]),
+        ("A pattern this project has tracked before", [
+            "The concern that a novice or junior absorbs a senior's example, for good or ill, "
+            "echoes the <em>diṭṭhānugati</em> &mdash; imitation &mdash; formula already tracked "
+            "across this chapter's predecessors, from AN 5.79 to AN 5.218: what a senior does, "
+            "a junior tends to follow."]),
+        ("No further variation in this triad", [
+            "Across all three discourses &mdash; AN 5.251, 5.252, and this one &mdash; not one "
+            "of the five components changes. Only the role named at the very end of each "
+            "sentence varies."]),
+        ("What follows", [
+            "AN 5.254 turns the chapter to an entirely different subject: the five kinds of "
+            "stinginess, reopening a formula this project has already tracked since AN 5.224."]),
+    ],
+    terms=[
+        ("sāmaṇera",
+         "&ldquo;novice&rdquo; &mdash; a mendicant not yet fully ordained, this chapter's "
+         "title concept's junior counterpart."),
+        ("upaṭṭhāpetabba",
+         "&ldquo;should attend on&rdquo; &mdash; the specific verb this discourse uses for the "
+         "attendant relationship."),
+        ("diṭṭhānugati",
+         "&ldquo;imitation&rdquo; &mdash; the pattern of a junior following a senior's "
+         "example, already tracked across AN 5.79&ndash;218."),
+        ("asekha",
+         "&ldquo;an adept&rdquo;, one who has completed the training entirely &mdash; the "
+         "standard unchanged across all three discourses in this triad."),
+        ("sīlakkhandha, samādhikkhandha, paññākkhandha, vimuttikkhandha, "
+         "vimuttiñāṇadassanakkhandha",
+         "the five complete aggregates named identically at AN 5.251, 5.252, and here."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five-item asekha standard, closing the chapter's "
+        "opening triad. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The standard for having a novice attendant"),
+        ("p", "&sect;1", "an5.253:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What role does this discourse qualify a mendicant for?",
+         "opts": [
+             "Having a sāmaṇera, a novice, as personal attendant",
+             "Giving ordination",
+             "Giving nissaya",
+             "Leading a monastery"],
+         "correct": 0,
+         "expl": "The third and final role in this chapter's opening triad."},
+        {"q": "What standard does this discourse apply?",
+         "opts": [
+             "The identical asekha pentad as AN 5.251 and AN 5.252",
+             "A lower standard, since the role seems minor",
+             "No standard, since novices choose freely",
+             "A standard based on the novice's own qualities, not the senior's"],
+         "correct": 0,
+         "expl": "Not one of the five components varies across all three discourses."},
+        {"q": "Why does the guide say this domestic-sounding role carries the same weight as ordination?",
+         "opts": [
+             "A novice attendant lives in close daily proximity, absorbing habits and conduct by example as much as instruction",
+             "It does not actually carry the same weight",
+             "The source explicitly ranks it above ordination",
+             "No explanation for the standard is offered"],
+         "correct": 0,
+         "expl": "Closeness of daily contact, not formal rank, is the guide's stated reasoning."},
+        {"q": "What earlier-tracked formula does the guide connect to this discourse's concern?",
+         "opts": [
+             "Diṭṭhānugati, imitation, tracked from AN 5.79 to AN 5.218",
+             "The five hindrances",
+             "The four right efforts",
+             "Macchariya, stinginess"],
+         "correct": 0,
+         "expl": "A junior following a senior's example, for good or ill."},
+        {"q": "How many of the five asekha components change across AN 5.251, 5.252, and this discourse?",
+         "opts": [
+             "None — only the role named at the end of each sentence varies",
+             "All five change with each discourse",
+             "Exactly one changes each time",
+             "Two of the five alternate"],
+         "correct": 0,
+         "expl": "A structurally identical triad differing only in its final term."},
+        {"q": "What does 'sāmaṇera' mean?",
+         "opts": [
+             "A novice, not yet fully ordained",
+             "A fully ordained senior mendicant",
+             "A lay devotee",
+             "A monastery's chief administrator"],
+         "correct": 0,
+         "expl": "The junior counterpart to this chapter's ordained-mendicant standard."},
+        {"q": "What subject does AN 5.254 turn to after this triad closes?",
+         "opts": [
+             "The five kinds of stinginess",
+             "A fourth qualified role",
+             "The four noble truths",
+             "A narrative involving King Pasenadi"],
+         "correct": 0,
+         "expl": "A formula this project has already tracked since AN 5.224."},
+        {"q": "What verb does this discourse use for the novice's relationship to the senior mendicant?",
+         "opts": [
+             "Upaṭṭhāpetabba, 'should attend on'",
+             "Upasampādetabba, 'should be ordained'",
+             "Nissayo dātabbo, 'dependence should be given'",
+             "Pahātabba, 'should be given up'"],
+         "correct": 0,
+         "expl": "The specific attendant-relationship verb naming this discourse's role."},
+        {"q": "What connects all three discourses in this opening triad?",
+         "opts": [
+             "The identical asekha standard, applied to three different institutional roles",
+             "Three entirely unrelated formulas",
+             "A shared narrative setting with named individuals",
+             "A shared simile involving a snake"],
+         "correct": 0,
+         "expl": "AN 5.251&ndash;253 form a single structural set."},
+        {"q": "What is this discourse's overall form?",
+         "opts": [
+             "The same five-item qualification list as AN 5.251&ndash;252, one role changed",
+             "A long dialogue with multiple interlocutors",
+             "A set of unrelated similes",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Closing the triad with no structural variation."},
+    ],
+    marginalia=[
+        ("The triad, complete", [
+            "AN 5.251&ndash;253:",
+            "ordain, mentor, attend",
+        ]),
+        ("One formula, three roles", [
+            "the asekha pentad,",
+            "unchanged throughout",
+        ]),
+        ("A concern met before", [
+            "diṭṭhānugati &mdash;",
+            "imitation, AN 5.79&ndash;218",
+        ]),
+        ("What comes next", [
+            "AN 5.254: stinginess,",
+            "a formula from AN 5.224",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.253/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.252.html">AN 5.252 &middot; Who Should Give Dependence</a> &mdash; the '
+        "previous discourse in this triad.",
+        '<a href="an-5.251.html">AN 5.251 &middot; Who Should Give Ordination</a> &mdash; this '
+        "chapter's opening discourse, and this identical standard's first appearance here.",
+        '<a href="an-5.254.html">AN 5.254 &middot; Five Kinds of Stinginess</a> &mdash; next, '
+        "a new subject for the remainder of this chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.254 — Pañcamacchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    254, "Pañcamacchariya", "Five Kinds of Stinginess",
+    vagga=VAGGA_26,
+    meta_title="AN 5.254 — Five Kinds of Stinginess | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pañcamacchariyasutta "
+        "— the same five-domain stinginess formula already given in full at AN 5.224, restated "
+        "here to open a new run of discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a bare five-item list, with a closing ranking of the worst item"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, reopening a "
+                       "formula already met at AN 5.224"),
+    ],
+    why=(
+        "The chapter turns from institutional qualification to stinginess &mdash; the same "
+        "five-domain <em>macchariya</em> formula this project has already tracked in full at "
+        "AN 5.224 and built up progressively across AN 5.236&ndash;240. This discourse restates "
+        "the complete five-item list once more, and adds a ranking this project has not yet "
+        "seen: which of the five is worst."),
+    guide=[
+        ("A formula already tracked", [
+            "Stinginess with dwellings, families, material things, praise, and the teachings "
+            "&mdash; the identical five-domain list first given in full at "
+            "<a href=\"an-5.224.html\">AN 5.224</a>, and built up one domain at a time across "
+            "<a href=\"an-5.236.html\">AN 5.236&ndash;240</a>. This discourse does not build "
+            "the list again; it restates it complete, from the start."]),
+        ("A new element: a ranking", [
+            "Where AN 5.224 and the AN 5.236&ndash;240 sequence presented the five domains as "
+            "a flat set, this discourse closes with a comparison the earlier discourses did "
+            "not make: stinginess with the teaching is named the most contemptible of the "
+            "five."]),
+        ("Why the teaching ranks worst", [
+            "The discourse gives no argument for the ranking; it simply states it. Read "
+            "against this collection's broader treatment of the Dhamma as something meant to "
+            "be shared rather than hoarded, withholding the teaching itself &mdash; rather "
+            "than a dwelling, a family connection, material goods, or praise &mdash; blocks "
+            "another person's access to the very thing that could end their suffering, not "
+            "merely their comfort."]),
+        ("Setting up what follows", [
+            "This restated, complete list becomes the shared material for the run of "
+            "discourses that follows: AN 5.255 reframes it as the holy life's very purpose, "
+            "and AN 5.256 onward turn it into an attainment-blocking formula."]),
+        ("What follows", [
+            "AN 5.255 restates the same five domains once more, this time as what the "
+            "spiritual life is lived to give up entirely."]),
+    ],
+    terms=[
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; this discourse's subject, and the identical term "
+         "already tracked from AN 5.224."),
+        ("āvāsamacchariya, kulamacchariya, lābhamacchariya, vaṇṇamacchariya, dhammamacchariya",
+         "stinginess with dwellings, families, material things, praise, and the teachings "
+         "&mdash; the complete five-domain list, unchanged from AN 5.224."),
+        ("paṭikuṭṭha",
+         "&ldquo;contemptible&rdquo; or &ldquo;condemned&rdquo; &mdash; the term ranking "
+         "stinginess with the teaching as worst among the five."),
+        ("dhammamacchariya",
+         "stinginess specifically with the teachings &mdash; here singled out and ranked "
+         "above the other four."),
+        ("asekha",
+         "&ldquo;an adept&rdquo; &mdash; the standard governing AN 5.251&ndash;253, now left "
+         "behind as this chapter turns to a new subject."),
+    ],
+    text_intro=(
+        "The discourse in full: the five domains of stinginess, restated complete, with a "
+        "ranking of the worst. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five kinds of stinginess, ranked"),
+        ("p", "&sect;1", "an5.254:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "Where does this exact five-domain stinginess list first appear in full in this collection?",
+         "opts": [
+             "AN 5.224",
+             "AN 5.108",
+             "This is a completely new list",
+             "AN 5.1"],
+         "correct": 0,
+         "expl": "Also built up progressively across AN 5.236&ndash;240."},
+        {"q": "What five domains of stinginess does this discourse name?",
+         "opts": [
+             "Dwellings, families, material things, praise, and the teachings",
+             "Food, robes, medicine, lodging, and money",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Identical to the AN 5.224 and AN 5.236&ndash;240 list."},
+        {"q": "What new element does this discourse add that AN 5.224 and AN 5.236&ndash;240 did not?",
+         "opts": [
+             "A ranking naming stinginess with the teaching as the most contemptible of the five",
+             "A sixth domain of stinginess",
+             "A narrative setting with named individuals",
+             "A simile involving a snake"],
+         "correct": 0,
+         "expl": "The earlier discourses presented the five as a flat, unranked set."},
+        {"q": "Does the discourse give an explicit argument for why the teaching ranks worst?",
+         "opts": [
+             "No, it simply states the ranking without argument",
+             "Yes, a lengthy argument spanning several paragraphs",
+             "Yes, through a parable about a king",
+             "The ranking is attributed to a named disciple, not the Buddha"],
+         "correct": 0,
+         "expl": "The guide supplies its own reading rather than one stated in the text."},
+        {"q": "What reading does the guide offer for why withholding the teaching ranks worst?",
+         "opts": [
+             "It blocks access to what could end another's suffering, not merely their comfort",
+             "It is the only form of stinginess mentioned anywhere in this collection",
+             "The guide offers no reading at all",
+             "It ranks worst only because it is listed last"],
+         "correct": 0,
+         "expl": "Read against this collection's broader view of the Dhamma as meant to be shared."},
+        {"q": "How does AN 5.255 use this same five-domain list?",
+         "opts": [
+             "Reframes it as the very purpose the spiritual life is lived to give it up",
+             "Replaces it with an entirely different list",
+             "Ignores stinginess entirely",
+             "Reduces it to only two domains"],
+         "correct": 0,
+         "expl": "The next discourse in this developing sequence."},
+        {"q": "What formula governed the immediately preceding three discourses, AN 5.251&ndash;253?",
+         "opts": [
+             "The asekha pentad qualifying ordination, nissaya, and novice attendance",
+             "The same stinginess formula as this discourse",
+             "The four noble truths",
+             "A narrative involving King Pasenadi"],
+         "correct": 0,
+         "expl": "Left behind as the chapter turns to this new subject."},
+        {"q": "What does 'dhammamacchariya' mean?",
+         "opts": [
+             "Stinginess specifically with the teachings",
+             "Stinginess with material things",
+             "Generosity with the teachings",
+             "A synonym for 'asekha'"],
+         "correct": 0,
+         "expl": "The domain singled out and ranked worst by this discourse."},
+        {"q": "How is this discourse's form described?",
+         "opts": [
+             "A bare five-item list, with a closing ranking of the worst item",
+             "A long narrative with multiple speakers",
+             "A poem in verse",
+             "A dialogue with a wanderer"],
+         "correct": 0,
+         "expl": "Short and direct, restating rather than building the list."},
+        {"q": "What role does this restated list play for the discourses that follow it in this chapter?",
+         "opts": [
+             "It becomes the shared material developed further across AN 5.255&ndash;271",
+             "It has no further relevance to this chapter",
+             "It is contradicted by the very next discourse",
+             "It applies only to lay Buddhists, not mendicants"],
+         "correct": 0,
+         "expl": "Reused as the basis for the giving-up formula and the attainment-blocking formula to come."},
+    ],
+    marginalia=[
+        ("A formula returning", [
+            "the five domains,",
+            "first complete at AN 5.224",
+        ]),
+        ("New here: a ranking", [
+            "worst of the five:",
+            "stinginess with the teaching",
+        ]),
+        ("Why the teaching ranks worst", [
+            "blocks access to what",
+            "could end another's suffering",
+        ]),
+        ("Material for what follows", [
+            "AN 5.255&ndash;271 all build",
+            "on this same restated list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.254/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; this identical five-domain '
+        "formula's first full statement.",
+        '<a href="an-5.236.html">AN 5.236 &middot; Stinginess (1st)</a> &mdash; the progressive '
+        "five-discourse build of this same formula.",
+        '<a href="an-5.255.html">AN 5.255 &middot; Giving Up Stinginess</a> &mdash; next, the '
+        "same list reframed as the holy life's own purpose.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.255 — Macchariyappahānasutta
+# --------------------------------------------------------------------------- #
+page(
+    255, "Macchariyappahāna", "Giving Up Stinginess",
+    vagga=VAGGA_26,
+    meta_title="AN 5.255 — Giving Up Stinginess | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Macchariyappahānasutta — the same five-domain stinginess list from AN 5.254, reframed "
+        "as the very reason the holy life is lived. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same five-item list as AN 5.254, reframed around a single verb of purpose"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, restating AN "
+                       "5.254's list under a new frame"),
+    ],
+    why=(
+        "The same five stinginess domains from AN 5.254, restated once more, but under a "
+        "different and stronger frame: not simply a list, and not ranked, but named directly "
+        "as what the entire holy life (<em>brahmacariya</em>) is lived in order to abandon."),
+    guide=[
+        ("The same list, a stronger claim", [
+            "Dwellings, families, material things, praise, and the teachings &mdash; the "
+            "identical five domains from <a href=\"an-5.254.html\">AN 5.254</a>. What changes "
+            "here is not the list but the claim made about it: this discourse states that the "
+            "spiritual life itself is lived (<em>vussati</em>) specifically to give up and cut "
+            "out (<em>pahānāya samucchedāya</em>) these five."]),
+        ("A purpose statement, not a ranking", [
+            "AN 5.254 closed by ranking the five; this discourse instead makes a purpose "
+            "claim, repeating the identical &lsquo;given up and cut out&rsquo; formula across "
+            "all five domains individually before restating it once more for the set as a "
+            "whole."]),
+        ("Two verbs, both strong", [
+            "<em>Pahāna</em> (giving up) and <em>samuccheda</em> (cutting out, uprooting) are "
+            "paired throughout, not left as a single softer verb. The discourse is not "
+            "describing gradual reduction; it names complete removal as the standard."]),
+        ("Framing the whole holy life around five specific faults", [
+            "Naming five particular faults as the very purpose of an entire spiritual life is "
+            "a strong claim. It sits alongside other places in this collection where a single "
+            "narrow concern is treated as encapsulating the whole of practice, rather than "
+            "diminishing the discourse's ambition, this framing raises the stakes of the "
+            "ordinary-sounding fault of stinginess."]),
+        ("What follows", [
+            "AN 5.256 turns the same five domains into a direct attainment-blocking formula: "
+            "stinginess not yet given up prevents entering the first absorption."]),
+    ],
+    terms=[
+        ("brahmacariya",
+         "&ldquo;the holy life&rdquo; &mdash; the entire spiritual path, here said to be lived "
+         "specifically to abandon these five stinginess domains."),
+        ("pahānāya samucchedāya",
+         "&ldquo;to give up and cut out&rdquo; &mdash; the paired verb formula naming complete "
+         "removal, not gradual reduction."),
+        ("vussati",
+         "&ldquo;is lived&rdquo; &mdash; the verb naming the holy life itself as the vehicle "
+         "for this abandonment."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; the identical five-domain formula carried over "
+         "unchanged from AN 5.254."),
+        ("samuccheda",
+         "&ldquo;cutting out&rdquo; or &ldquo;uprooting&rdquo; &mdash; a stronger image than "
+         "simple relinquishment, implying removal at the root."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five domains, reframed as the holy life's own "
+        "purpose. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The purpose of the holy life"),
+        ("p", "&sect;1", "an5.255:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five domains does this discourse name?",
+         "opts": [
+             "Dwellings, families, material things, praise, and the teachings",
+             "The five hindrances",
+             "The five precepts",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Identical to AN 5.254's list, unchanged."},
+        {"q": "How does this discourse's claim differ from AN 5.254's?",
+         "opts": [
+             "It names the five as the very purpose the holy life is lived to abandon, rather than ranking them",
+             "It introduces an entirely new sixth domain",
+             "It reverses the list, calling stinginess a virtue",
+             "It makes no new claim at all"],
+         "correct": 0,
+         "expl": "AN 5.254 ranked the five; this discourse frames them as the practice's purpose."},
+        {"q": "What two verbs does the discourse pair for how these five should be handled?",
+         "opts": [
+             "Pahāna (giving up) and samuccheda (cutting out)",
+             "Sampanna (accomplished) and vaḍḍhati (grows)",
+             "Bhāveti (develops) and pajānāti (understands)",
+             "Only one verb appears, with no pairing"],
+         "correct": 0,
+         "expl": "Both name complete removal, not gradual reduction."},
+        {"q": "What does 'brahmacariya' mean in this discourse?",
+         "opts": [
+             "The holy life, the entire spiritual path",
+             "A single meditation session",
+             "A type of monastic robe",
+             "A formal debate"],
+         "correct": 0,
+         "expl": "Said here to be lived specifically to abandon these five stinginess domains."},
+        {"q": "What does the guide say about naming five specific faults as the holy life's whole purpose?",
+         "opts": [
+             "It is a strong claim, raising rather than diminishing the stakes of an ordinary-sounding fault",
+             "It is dismissed by the guide as an exaggeration",
+             "It contradicts every other discourse in this collection",
+             "The guide finds it entirely unremarkable"],
+         "correct": 0,
+         "expl": "Read alongside other places in this collection where a narrow concern encapsulates the whole of practice."},
+        {"q": "What does 'samuccheda' add beyond simple relinquishment?",
+         "opts": [
+             "An image of removal at the root, not gradual reduction",
+             "A meaning opposite to 'pahāna'",
+             "A reference to a specific meditation posture",
+             "Nothing; it is a synonym with no added force"],
+         "correct": 0,
+         "expl": "Paired with pahāna throughout the discourse."},
+        {"q": "What does AN 5.256 do with this same five-domain list next?",
+         "opts": [
+             "Turns it into a direct formula blocking entry to the first absorption",
+             "Drops the list entirely",
+             "Reduces it to three domains",
+             "Applies it only to lay Buddhists"],
+         "correct": 0,
+         "expl": "The next stage in this chapter's developing treatment of stinginess."},
+        {"q": "How is this discourse's form described?",
+         "opts": [
+             "The same five-item list as AN 5.254, reframed around a single verb of purpose",
+             "A long narrative involving several named individuals",
+             "A poem in verse",
+             "A dialogue between two mendicants"],
+         "correct": 0,
+         "expl": "Restating rather than expanding the list itself."},
+        {"q": "What did AN 5.254 do with this five-domain list that this discourse does not repeat?",
+         "opts": [
+             "Rank stinginess with the teaching as the most contemptible",
+             "State the list in Pali only, with no English",
+             "Attribute the list to a disciple rather than the Buddha",
+             "Reduce the list to two domains"],
+         "correct": 0,
+         "expl": "This discourse instead makes a purpose claim rather than a ranking."},
+        {"q": "What formula is repeated individually for each of the five domains before being restated for the set as a whole?",
+         "opts": [
+             "'Given up and cut out' (pahānāya samucchedāya)",
+             "'Endowed with five qualities' (pañcahi dhammehi samannāgata)",
+             "'Worthy of offerings'",
+             "'Placed as if delivered' (yathābhataṁ nikkhitto)"],
+         "correct": 0,
+         "expl": "The paired-verb purpose formula, run across each domain."},
+    ],
+    marginalia=[
+        ("The same list, reframed", [
+            "not ranked this time,",
+            "but named as the path's purpose",
+        ]),
+        ("Two strong verbs", [
+            "pahāna &mdash; giving up",
+            "samuccheda &mdash; cutting out",
+        ]),
+        ("A whole life, five faults", [
+            "the holy life itself",
+            "lived to abandon these five",
+        ]),
+        ("What comes next", [
+            "AN 5.256: stinginess",
+            "blocks the first absorption",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.255/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.254.html">AN 5.254 &middot; Five Kinds of Stinginess</a> &mdash; the '
+        "previous discourse, and this identical list's ranked statement.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; this '
+        "formula&rsquo;s original, full statement.",
+        '<a href="an-5.256.html">AN 5.256 &middot; The First Absorption</a> &mdash; next, the '
+        "same list turned into an attainment-blocking formula.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.256 — Paṭhamajhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    256, "Paṭhamajhāna", "The First Absorption",
+    vagga=VAGGA_26,
+    meta_title="AN 5.256 — The First Absorption | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamajhānasutta — "
+        "the same five stinginess domains from AN 5.254&ndash;255, now stated directly as what "
+        "blocks or enables entering the first absorption. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a paired block/enable statement, the same five items run twice"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a "
+                       "seven-fold sequence continued at AN 5.257&ndash;263"),
+    ],
+    why=(
+        "The same five stinginess domains from AN 5.254&ndash;255, now stated as a direct "
+        "attainment condition: not giving them up blocks entry to the first absorption; "
+        "giving them up enables it. This discourse opens a sequence that continues immediately "
+        "at AN 5.257&ndash;263, where the identical formula is run against six further "
+        "attainments in a single merged, peyyāla-compressed page."),
+    guide=[
+        ("From purpose to direct obstruction", [
+            "AN 5.255 named these five domains as what the holy life is lived to abandon; this "
+            "discourse states the consequence of not abandoning them directly: without giving "
+            "up stinginess with dwellings, families, material things, praise, and the "
+            "teachings, a mendicant cannot enter and remain in the first absorption."]),
+        ("A paired structure", [
+            "The discourse states the block first, then the identical five items again as "
+            "what, once given up, enables the same attainment &mdash; the same "
+            "&lsquo;without giving up ... but after giving up ...&rsquo; pairing this "
+            "collection has used elsewhere for attainment-blocking formulas."]),
+        ("The first of seven parallel attainments", [
+            "This discourse names only the first absorption. AN 5.257&ndash;263, a single "
+            "merged page in the source, immediately extends the identical formula to six "
+            "further attainments: the second, third, and fourth absorptions, and the fruits of "
+            "stream-entry, once-return, non-return, and full awakening."]),
+        ("Why this belongs with the ordination triad above it", [
+            "Read together with AN 5.251&ndash;253, this discourse and its extension complete "
+            "a picture of why the chapter opened on ordination standards: the very domains a "
+            "trainee must relinquish to progress in meditation are the same domains this "
+            "chapter has just finished ranking, reframing, and now weaponizing against "
+            "attainment itself."]),
+        ("What follows", [
+            "AN 5.257&ndash;263 exists in the source as a single file covering seven "
+            "sutta-numbers, not seven individual files; this reading guide presents it as one "
+            "merged page, following the same treatment already used for the largest "
+            "compressed blocks closing the Threes and Fours."]),
+    ],
+    terms=[
+        ("paṭhama jhāna",
+         "&ldquo;the first absorption&rdquo;, the first of the four jhānas &mdash; this "
+         "discourse's named attainment."),
+        ("abhabbo",
+         "&ldquo;incapable of&rdquo; or &ldquo;unable to&rdquo; &mdash; the term marking the "
+         "block, before the enable pairing reverses it to bhabbo."),
+        ("upasampajja viharituṁ",
+         "&ldquo;to enter and remain in&rdquo; &mdash; the standard phrase for absorption "
+         "attainment across this collection."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; the identical five-domain formula carried over "
+         "unchanged from AN 5.254&ndash;255."),
+        ("bhabbo",
+         "&ldquo;capable of&rdquo; or &ldquo;able to&rdquo; &mdash; the term marking the "
+         "enabling half of the pair, once the five domains are given up."),
+    ],
+    text_intro=(
+        "The discourse in full: the five stinginess domains as a direct block, then as a "
+        "direct enabler, of the first absorption. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "What blocks the first absorption"),
+        ("p", "&sect;1", "an5.256:1.1-1.4"),
+        ("h3", "What enables it"),
+        ("p", "&sect;2", "an5.256:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What attainment does this discourse name?",
+         "opts": [
+             "The first absorption (paṭhama jhāna)",
+             "Full awakening directly",
+             "Stream-entry",
+             "The fourth absorption"],
+         "correct": 0,
+         "expl": "The first of seven attainments this formula will eventually cover."},
+        {"q": "What five items block entry to the first absorption, according to this discourse?",
+         "opts": [
+             "Stinginess with dwellings, families, material things, praise, and the teachings",
+             "The five hindrances",
+             "The five precepts",
+             "Faith, conscience, prudence, energy, and wisdom"],
+         "correct": 0,
+         "expl": "The identical five domains carried over from AN 5.254&ndash;255."},
+        {"q": "What structure does this discourse use?",
+         "opts": [
+             "A paired block/enable statement, the same five items run twice",
+             "A single unpaired statement with no reversal",
+             "A narrative with a named interlocutor",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Without giving up the five, blocked; after giving them up, enabled."},
+        {"q": "How does AN 5.257&ndash;263 extend this discourse's formula?",
+         "opts": [
+             "Runs the identical five-domain formula against six further attainments: three more absorptions and four fruits",
+             "Introduces an entirely unrelated formula",
+             "Reduces the five domains to three",
+             "Applies the formula only to lay followers"],
+         "correct": 0,
+         "expl": "A single merged page in the source covering seven sutta-numbers."},
+        {"q": "Why does this discourse and its extension connect back to AN 5.251&ndash;253?",
+         "opts": [
+             "The same domains a trainee must relinquish to progress in meditation are the domains this chapter has just ranked and reframed",
+             "There is no connection between them",
+             "AN 5.251&ndash;253 explicitly forbid meditation",
+             "The connection is only coincidental numbering"],
+         "correct": 0,
+         "expl": "The guide reads the chapter's two halves as forming one coherent picture."},
+        {"q": "How does bilara-data represent AN 5.257&ndash;263?",
+         "opts": [
+             "As a single file covering seven sutta-numbers, not seven individual files",
+             "As seven fully separate individual files",
+             "It does not exist at all in the source",
+             "As a single file covering only two sutta-numbers"],
+         "correct": 0,
+         "expl": "Matching the merged-page treatment already used for the largest compressed blocks in the Threes and Fours."},
+        {"q": "What term marks the 'blocked' half of this discourse's pairing?",
+         "opts": [
+             "Abhabbo, 'incapable of'",
+             "Bhabbo, 'capable of'",
+             "Asekha, 'an adept'",
+             "Sekha, 'a trainee'"],
+         "correct": 0,
+         "expl": "Reversed to 'bhabbo' once the five domains are given up."},
+        {"q": "What phrase does the discourse use for entering an absorption?",
+         "opts": [
+             "Upasampajja viharituṁ, 'to enter and remain in'",
+             "Pahānāya samucchedāya, 'to give up and cut out'",
+             "Yathābhataṁ nikkhitto, 'placed as if delivered'",
+             "Diṭṭhānugati, 'imitation'"],
+         "correct": 0,
+         "expl": "The standard absorption-attainment phrase across this collection."},
+        {"q": "What did AN 5.255 name these same five domains as, one discourse earlier?",
+         "opts": [
+             "What the holy life is lived to abandon",
+             "The five precepts",
+             "A ranking of the worst stinginess",
+             "An unrelated formula about ordination"],
+         "correct": 0,
+         "expl": "This discourse restates the consequence of not abandoning them, directly."},
+        {"q": "How many total attainments does the seven-fold sequence beginning here eventually cover?",
+         "opts": [
+             "Seven: four absorptions and three of the four path-fruits, plus the fourth already counted",
+             "Only one, this discourse alone",
+             "Three",
+             "Twelve"],
+         "correct": 0,
+         "expl": "First absorption here, then second through fourth absorption and four fruits at AN 5.257&ndash;263."},
+    ],
+    marginalia=[
+        ("From purpose to obstruction", [
+            "AN 5.255: purpose",
+            "AN 5.256: direct block",
+        ]),
+        ("The pairing", [
+            "abhabbo &mdash; blocked",
+            "bhabbo &mdash; enabled",
+        ]),
+        ("The first of seven", [
+            "1st jhāna here;",
+            "six more at AN 5.257&ndash;263",
+        ]),
+        ("A merged page ahead", [
+            "seven sutta-numbers,",
+            "one bilara-data file",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.256/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.255.html">AN 5.255 &middot; Giving Up Stinginess</a> &mdash; the '
+        "previous discourse, naming these same five domains as the holy life&rsquo;s purpose.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; this shared formula&rsquo;s '
+        "original, full statement.",
+        '<a href="an-5.257-263.html">AN 5.257&ndash;263 &middot; The Second Absorption, and So '
+        "On</a> &mdash; next, the identical formula run against six further attainments.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.257–263 — Dutiyajhānasuttādisattaka (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.257-263",
+    "index_pali": "Dutiyajhānādi",
+    "nav_title": "The Second Absorption, and So On",
+    "source": "an5/an5.257-263",
+    "crumb": "AN 5.257&ndash;263",
+    "meta_title": "AN 5.257–263 — The Second Absorption, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for seven discourses "
+        "compressed into one: the same five stinginess domains from AN 5.256, run against "
+        "six further attainments from the second absorption through full awakening. From "
+        "Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.257&ndash;263",
+    "title": "The Second Absorption, and So On",
+    "subtitle": "<em>Dutiyajhānasuttādisattaka</em> &mdash; a merged page, continuing the "
+                "twenty-sixth chapter of the Fives",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "one paired block/enable statement, the same five stinginess domains cross-run "
+                 "against seven attainments &mdash; representing seven individually numbered "
+                 "discourses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, but modest in "
+                       "scale next to the largest blocks in this series"),
+    ],
+    "why": (
+        "Seven discourses stand behind one sentence. AN 5.256 named the first absorption "
+        "alone; this page runs the identical five-item stinginess formula against the second, "
+        "third, and fourth absorptions, and against the fruits of stream-entry, once-return, "
+        "non-return, and full awakening &mdash; the standard four-jhāna-plus-four-fruit "
+        "sequence this collection uses whenever it wants to name every stage of the path at "
+        "once. In bilara-data this entire stretch survives as a single file, an5.257-263, "
+        "rather than seven separate ones &mdash; the same merged-file convention already met "
+        "at the close of the Threes and Fours, here on a far smaller scale."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical five stinginess domains from AN 5.256 &mdash; dwellings, families, "
+            "material things, praise, and the teachings &mdash; are now run against six further "
+            "attainments beyond the first absorption: the second, third, and fourth "
+            "absorptions, and the fruits of stream-entry, once-return, non-return, and full "
+            "awakening."]),
+        ("Why these seven, and in this order", [
+            "Four jhānas followed by four path-fruits, with the first jhāna already given its "
+            "own page at AN 5.256, is a sequence this collection reuses whenever it wants to "
+            "name the entire graduated path from initial absorption to final liberation in one "
+            "gesture. The same five obstructing qualities are said to block, and their removal "
+            "to enable, every stage in that sequence without exception."]),
+        ("A merged page, not a hand-written summary", [
+            "AN 5.257 through AN 5.263 have no individual files in bilara-data; the source "
+            "itself compresses them into a single file under this hyphenated name, with the "
+            "Pali using its own peyyāla mark for the repeated middle portion. This page follows "
+            "that file exactly rather than writing seven near-identical pages by hand."]),
+        ("A count the source confirms", [
+            "This page's title in Pali, <em>Dutiyajhānasuttādisattaka</em>, names itself "
+            "directly: &lsquo;the second-absorption discourse and so on, a group of seven&rsquo;. "
+            "The number in the source's own title matches the seven sutta-numbers, 257 through "
+            "263, this single page represents."]),
+        ("Scale, compared to the largest blocks in this series", [
+            "This is the same merged-file mechanism already used for "
+            "<a href=\"an-4.304-783.html\">AN 4.304&ndash;783</a>, which compressed four "
+            "hundred eighty discourses into one page. This page compresses only seven &mdash; "
+            "modest by comparison, but the same underlying convention: where bilara-data has "
+            "no individual file for a stretch of sutta-numbers, this series represents that "
+            "stretch as a single page rather than inventing individual pages the source does "
+            "not provide."]),
+        ("What follows", [
+            "AN 5.264 restates the whole first-absorption formula once more, with one of the "
+            "five domains replaced &mdash; and AN 5.265&ndash;271 then extends that variant "
+            "formula across the identical seven-attainment sequence, in a second merged page."]),
+    ],
+    "terms": [
+        ("dutiya jhāna, tatiya jhāna, catuttha jhāna",
+         "the second, third, and fourth absorptions &mdash; three of the six attainments this "
+         "page adds beyond AN 5.256's first absorption."),
+        ("sotāpattiphala, sakadāgāmiphala, anāgāmiphala",
+         "the fruits of stream-entry, once-return, and non-return &mdash; three of the four "
+         "path-fruits named here."),
+        ("arahatta",
+         "full awakening, arahantship &mdash; the seventh and final attainment in this page's "
+         "sequence, and the summary term the passage closes on."),
+        ("…pe…",
+         "the Pali source's own peyyāla mark, compressing the repeated middle portion of this "
+         "seven-fold sequence into a single line."),
+        ("Dutiyajhānasuttādisattaka",
+         "&ldquo;the second-absorption discourse and so on, a group of seven&rdquo; &mdash; "
+         "this page's Pali title, naming its own scope directly."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: the five stinginess domains, run "
+        "against seven attainments in sequence. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "What blocks each attainment"),
+        ("p", "&sect;1", "an5.257-263:1.1-1.4"),
+        ("h3", "What enables each attainment"),
+        ("p", "&sect;2", "an5.257-263:2.1-2.4"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this one page represent?",
+         "opts": [
+             "Seven: AN 5.257 through AN 5.263",
+             "One",
+             "Four hundred eighty",
+             "Twenty-one"],
+         "correct": 0,
+         "expl": "Confirmed by the Pali title's own word, 'sattaka', 'a group of seven'."},
+        {"q": "What five domains block or enable each of the seven attainments on this page?",
+         "opts": [
+             "Stinginess with dwellings, families, material things, praise, and the teachings",
+             "The five hindrances",
+             "The five precepts",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The identical formula carried over unchanged from AN 5.256."},
+        {"q": "What seven attainments does this page's formula cover?",
+         "opts": [
+             "The second, third, and fourth absorptions, and the fruits of stream-entry, once-return, non-return, and full awakening",
+             "The four noble truths and three trainings",
+             "Seven distinct meditation postures",
+             "Seven named disciples' individual attainments"],
+         "correct": 0,
+         "expl": "The standard four-jhāna-plus-four-fruit sequence, minus the first jhāna already given its own page at AN 5.256."},
+        {"q": "How does bilara-data represent AN 5.257 through AN 5.263?",
+         "opts": [
+             "As a single merged file, not seven individual files",
+             "As seven fully separate individual files",
+             "These sutta-numbers do not exist in bilara-data at all",
+             "As part of AN 5.256's own file"],
+         "correct": 0,
+         "expl": "The source's own compression, followed here rather than invented by hand."},
+        {"q": "What earlier merged page in this series uses the identical convention?",
+         "opts": [
+             "AN 4.304&ndash;783, compressing four hundred eighty discourses into one page",
+             "AN 5.1, which has no merging at all",
+             "AN 5.108",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "The same mechanism, here on a much smaller scale: seven sutta-numbers, not hundreds."},
+        {"q": "What does the Pali title 'Dutiyajhānasuttādisattaka' mean?",
+         "opts": [
+             "'The second-absorption discourse and so on, a group of seven'",
+             "'The complete ending of all suffering'",
+             "'A discourse for householders only'",
+             "'The final chapter of the Fives'"],
+         "correct": 0,
+         "expl": "Confirming the page's own seven-item scope directly in its Pali name."},
+        {"q": "What does '…pe…' mark in the Pali source?",
+         "opts": [
+             "The standard peyyāla abbreviation for repeated, near-identical middle text",
+             "A scribal error",
+             "The end of the entire nipāta",
+             "A quotation from a different discourse"],
+         "correct": 0,
+         "expl": "Already explained at AN 5.108, and cited here rather than re-explained."},
+        {"q": "What formula does AN 5.264 restate next, with one change?",
+         "opts": [
+             "The first-absorption formula, with one of the five stinginess domains replaced",
+             "An entirely unrelated formula about generosity",
+             "The asekha ordination standard",
+             "A narrative involving King Pasenadi"],
+         "correct": 0,
+         "expl": "Opening a second, parallel run through the same seven-attainment sequence."},
+        {"q": "What attainment did AN 5.256, immediately before this page, cover alone?",
+         "opts": [
+             "The first absorption",
+             "Full awakening",
+             "Stream-entry",
+             "All seven attainments at once"],
+         "correct": 0,
+         "expl": "This page picks up from the second absorption onward."},
+        {"q": "What is the guide's stated principle for when this series represents a stretch of sutta-numbers as one merged page?",
+         "opts": [
+             "When bilara-data has no individual file for that stretch, rather than inventing pages the source does not provide",
+             "Whenever a chapter runs longer than ten discourses",
+             "Whenever the content seems repetitive to the guide's own judgment",
+             "Never; every sutta-number always gets its own page"],
+         "correct": 0,
+         "expl": "The page follows the source's own file structure exactly."},
+    ],
+    "marginalia": [
+        ("Seven discourses, one page", [
+            "AN 5.257&ndash;263,",
+            "a single bilara-data file",
+        ]),
+        ("The same five domains", [
+            "dwellings, families, things,",
+            "praise, and the teachings",
+        ]),
+        ("Four jhānas, four fruits", [
+            "2nd, 3rd, 4th absorption,",
+            "then all four path-fruits",
+        ]),
+        ("A small-scale precedent", [
+            "the same mechanism as",
+            "AN 4.304&ndash;783, at 1/68th the size",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.257-263/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.256.html">AN 5.256 &middot; The First Absorption</a> &mdash; the '
+        "previous discourse, and this identical formula's first attainment.",
+        '<a href="an-4.304-783.html">AN 4.304&ndash;783 &middot; Insight into Hate, and So '
+        "On</a> &mdash; the much larger merged page this same convention was first used for, "
+        "closing the Fours.",
+        '<a href="an-5.264.html">AN 5.264 &middot; Another Discourse on the First '
+        "Absorption</a> &mdash; next, the same first-absorption formula with one domain "
+        "replaced.",
+    ],
+})
+
+# --------------------------------------------------------------------------- #
+# AN 5.264 — Aparapaṭhamajhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    264, "Aparapaṭhamajhāna", "Another Discourse on the First Absorption",
+    vagga=VAGGA_26,
+    meta_title="AN 5.264 — Another Discourse on the First Absorption | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aparapaṭhamajhānasutta — AN 5.256's formula restated with one domain replaced: "
+        "ingratitude standing in place of stinginess with the teachings. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same paired block/enable statement as AN 5.256, one item substituted"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a second "
+                       "parallel run through the same seven-attainment sequence"),
+    ],
+    why=(
+        "AN 5.256's formula restated almost word for word, with a single substitution: the "
+        "fifth item, stinginess with the teachings, is replaced by ingratitude and "
+        "thanklessness. The other four stinginess domains &mdash; dwellings, families, "
+        "material things, praise &mdash; carry over unchanged."),
+    guide=[
+        ("One item replaced", [
+            "Where AN 5.256 named dwellings, families, material things, praise, and the "
+            "teachings, this discourse keeps the first four and replaces the fifth: instead of "
+            "stinginess with the teachings, the blocking and enabling condition is "
+            "<em>akataññutā akataveditā</em>, ingratitude and thanklessness."]),
+        ("Not, strictly, a fifth stinginess", [
+            "The source's frame sentence calls this set of five simply &lsquo;qualities&rsquo; "
+            "(<em>dhamme</em>), not &lsquo;stinginesses&rsquo; (<em>macchariyāni</em>) as AN "
+            "5.254 explicitly did. Ingratitude is a distinct fault from stinginess, deliberately "
+            "substituted into the same five-slot formula rather than presented as a sixth kind "
+            "of stinginess."]),
+        ("Why ingratitude belongs beside stinginess here", [
+            "Both faults share a common shape: a failure to acknowledge and pass on what has "
+            "been received, whether a teaching, a kindness, or a benefit already given. Read "
+            "beside AN 5.254's ranking of stinginess with the teachings as worst, this "
+            "substitution suggests ingratitude is treated as functionally comparable &mdash; "
+            "another way of refusing to honor what one has already been given."]),
+        ("Setting up a second merged page", [
+            "Just as AN 5.256 opened the seven-fold sequence completed at AN 5.257&ndash;263, "
+            "this discourse opens an identical seven-fold sequence, using the ingratitude "
+            "variant, completed immediately after at AN 5.265&ndash;271."]),
+        ("What follows", [
+            "AN 5.265&ndash;271, another merged page, runs this ingratitude-variant formula "
+            "against the same six further attainments already covered at AN 5.257&ndash;263."]),
+    ],
+    terms=[
+        ("akataññutā akataveditā",
+         "&ldquo;ingratitude and thanklessness&rdquo; &mdash; the substituted fifth item, "
+         "replacing stinginess with the teachings."),
+        ("dhamme",
+         "&ldquo;qualities&rdquo; &mdash; the frame term this discourse uses for its five-item "
+         "set, deliberately not 'macchariyāni', stinginesses."),
+        ("paṭhama jhāna",
+         "&ldquo;the first absorption&rdquo; &mdash; the same attainment named at AN 5.256, "
+         "unchanged here."),
+        ("kataññū katavedī",
+         "&ldquo;grateful and thankful&rdquo; &mdash; the positive counterpart implied by this "
+         "discourse's negated fault, though not stated in this passage itself."),
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; the four domains that do carry over unchanged from "
+         "AN 5.256: dwellings, families, material things, and praise."),
+    ],
+    text_intro=(
+        "The discourse in full: the same block/enable pairing as AN 5.256, with ingratitude "
+        "replacing stinginess with the teachings. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "What blocks the first absorption"),
+        ("p", "&sect;1", "an5.264:1.1-1.4"),
+        ("h3", "What enables it"),
+        ("p", "&sect;2", "an5.264:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single item does this discourse change from AN 5.256's formula?",
+         "opts": [
+             "Replaces stinginess with the teachings with ingratitude and thanklessness",
+             "Replaces the first absorption with the fourth absorption",
+             "Replaces all five items with entirely new ones",
+             "Changes nothing at all"],
+         "correct": 0,
+         "expl": "The other four domains carry over unchanged."},
+        {"q": "What four items carry over unchanged from AN 5.256?",
+         "opts": [
+             "Stinginess with dwellings, families, material things, and praise",
+             "The four noble truths",
+             "The four absorptions",
+             "Faith, energy, mindfulness, and immersion"],
+         "correct": 0,
+         "expl": "Only the fifth item changes."},
+        {"q": "What Pali term does this discourse use for its five-item set, and why does the guide flag it?",
+         "opts": [
+             "'Dhamme', 'qualities' — not 'macchariyāni', stinginesses, since ingratitude is a distinct fault",
+             "'Macchariyāni', explicitly calling all five stinginess",
+             "No frame term is used at all",
+             "'Asekha', the adept standard from AN 5.251"],
+         "correct": 0,
+         "expl": "A deliberate substitution into the formula's slot, not a claim that ingratitude is a sixth stinginess."},
+        {"q": "What common shape does the guide propose links stinginess and ingratitude here?",
+         "opts": [
+             "Both are a failure to acknowledge and pass on what has already been received",
+             "No connection is proposed; the guide calls it arbitrary",
+             "Both involve physical violence",
+             "Both are exclusively lay-follower faults"],
+         "correct": 0,
+         "expl": "Read beside AN 5.254's ranking of withholding the teaching as the worst stinginess."},
+        {"q": "What attainment does this discourse name?",
+         "opts": [
+             "The first absorption, the same as AN 5.256",
+             "Full awakening",
+             "Stream-entry",
+             "All seven attainments at once"],
+         "correct": 0,
+         "expl": "Opening a second parallel run through the same seven-fold sequence."},
+        {"q": "What merged page does this discourse's formula extend into next?",
+         "opts": [
+             "AN 5.265&ndash;271, running the ingratitude variant against six further attainments",
+             "AN 5.257&ndash;263, repeating the original formula",
+             "No further extension follows",
+             "AN 5.272, an entirely new chapter"],
+         "correct": 0,
+         "expl": "Mirroring exactly how AN 5.256 led into AN 5.257&ndash;263."},
+        {"q": "What does 'akataññutā akataveditā' mean?",
+         "opts": [
+             "Ingratitude and thanklessness",
+             "Complete freedom and liberation",
+             "Stinginess with material things",
+             "The entire spectrum of ethics"],
+         "correct": 0,
+         "expl": "The substituted fifth item in this variant formula."},
+        {"q": "What positive counterpart does the guide note is implied but not stated in this passage?",
+         "opts": [
+             "Kataññū katavedī, 'grateful and thankful'",
+             "Asekha, 'an adept'",
+             "Sekha, 'a trainee'",
+             "Bhabbo, 'capable of'"],
+         "correct": 0,
+         "expl": "Named in the guide as the implied opposite, though the passage itself only negates the fault."},
+        {"q": "What structure does this discourse share with AN 5.256?",
+         "opts": [
+             "The identical paired block/enable statement, one item substituted",
+             "A completely different narrative structure",
+             "A dialogue with a named wanderer",
+             "A poem in verse"],
+         "correct": 0,
+         "expl": "Word for word except for the single substituted item."},
+        {"q": "How many stinginess domains, strictly speaking, remain in this discourse's five-item set?",
+         "opts": [
+             "Four — the fifth slot is filled by a distinct fault, ingratitude, not a fifth stinginess",
+             "Five, unchanged from AN 5.254",
+             "Zero; the formula abandons stinginess entirely",
+             "Six"],
+         "correct": 0,
+         "expl": "The guide's point about the frame term 'dhamme' rather than 'macchariyāni'."},
+    ],
+    marginalia=[
+        ("One item swapped", [
+            "teachings &rarr; ingratitude",
+            "four domains unchanged",
+        ]),
+        ("Not a sixth stinginess", [
+            "framed as 'dhamme',",
+            "not 'macchariyāni'",
+        ]),
+        ("A shared shape", [
+            "failing to acknowledge",
+            "and pass on what's received",
+        ]),
+        ("A second sequence opens", [
+            "mirrors AN 5.256 &rarr; 257-263,",
+            "now with the ingratitude variant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.264/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.256.html">AN 5.256 &middot; The First Absorption</a> &mdash; the '
+        "original formula this discourse restates with one item replaced.",
+        '<a href="an-5.254.html">AN 5.254 &middot; Five Kinds of Stinginess</a> &mdash; where '
+        "stinginess with the teachings was ranked worst, a ranking this substitution echoes.",
+        '<a href="an-5.265-271.html">AN 5.265&ndash;271 &middot; Another Discourse on the '
+        "Second Absorption, and So On</a> &mdash; next, this variant formula's seven-fold "
+        "extension.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.265–271 — Aparadutiyajhānasuttādi (merged page, closes the chapter)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.265-271",
+    "index_pali": "Aparadutiyajhānādi",
+    "nav_title": "Another Discourse on the Second Absorption, and So On",
+    "source": "an5/an5.265-271",
+    "crumb": "AN 5.265&ndash;271",
+    "meta_title": "AN 5.265–271 — Another Discourse on the Second Absorption, and So On | "
+                  "Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for seven more discourses "
+        "compressed into one, closing the Upasampadāvagga — AN 5.264's ingratitude variant, "
+        "run against the same six further attainments already covered at AN 5.257–263. From "
+        "Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.265&ndash;271",
+    "title": "Another Discourse on the Second Absorption, and So On",
+    "subtitle": "<em>Aparadutiyajhānasuttādi</em> &mdash; a merged page, closing the "
+                "twenty-sixth chapter of the Fives",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "one paired block/enable statement, the ingratitude-variant formula cross-run "
+                 "against seven attainments &mdash; representing seven individually numbered "
+                 "discourses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, closing this "
+                       "chapter's second and final seven-fold sequence"),
+    ],
+    "why": (
+        "This page closes the Upasampadāvagga exactly as AN 5.257&ndash;263 closed its own "
+        "first half: seven more discourses compressed into one file. AN 5.264's variant "
+        "formula &mdash; four stinginess domains plus ingratitude, in place of the fifth "
+        "stinginess &mdash; is now run against the second, third, and fourth absorptions, and "
+        "the fruits of stream-entry, once-return, non-return, and full awakening, mirroring "
+        "AN 5.257&ndash;263's sequence precisely."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The ingratitude-variant formula from AN 5.264 &mdash; stinginess with dwellings, "
+            "families, material things, and praise, plus ingratitude and thanklessness in the "
+            "fifth slot &mdash; is run against the same six further attainments AN 5.257&ndash;"
+            "263 already covered: the second, third, and fourth absorptions, and the fruits of "
+            "stream-entry, once-return, non-return, and full awakening."]),
+        ("A precise mirror of the chapter's first merged page", [
+            "This page's relationship to AN 5.264 is exactly AN 5.257&ndash;263's relationship "
+            "to AN 5.256: the same seven-attainment extension, applied to a five-item formula "
+            "one discourse earlier gave for the first absorption alone."]),
+        ("Two parallel tracks, seven attainments each", [
+            "Read together, AN 5.256/257&ndash;263 and AN 5.264/265&ndash;271 form two "
+            "complete, parallel tracks through the identical seven attainments, differing only "
+            "in whether the fifth blocking condition is stinginess with the teachings or "
+            "ingratitude. Fourteen sutta-numbers, two underlying formulas, one shared "
+            "structure."]),
+        ("The chapter's closing colophon", [
+            "The source's closing line for this passage, <em>Ekavīsatimaṁ</em>, gives the "
+            "ordinal &lsquo;twenty-first&rsquo; &mdash; the count of discourses in this "
+            "chapter from AN 5.251 through AN 5.271, confirming this chapter's own scope "
+            "exactly as the colophon mechanism has confirmed chapter counts before, first "
+            "explained in full at AN 5.10."]),
+        ("A chapter of two distinct halves", [
+            "Looking back across the whole Upasampadāvagga: three discourses on institutional "
+            "qualification (AN 5.251&ndash;253), then six discourses and two merged pages on "
+            "stinginess as an attainment-blocking condition (AN 5.254&ndash;271) &mdash; two "
+            "halves connected by the same underlying concern, that certain unrelinquished "
+            "qualities close off both institutional roles and meditative attainments alike."]),
+        ("What follows", [
+            "AN 5.272 opens the Sammutipeyyāla, this book's twenty-seventh chapter, moving to "
+            "a new subject: formal authorization by the community."]),
+    ],
+    "terms": [
+        ("Aparadutiyajhānasuttādi",
+         "&ldquo;another second-absorption discourse and so on&rdquo; &mdash; this page's Pali "
+         "title, naming it as the ingratitude-variant counterpart to AN 5.257&ndash;263."),
+        ("Ekavīsatimaṁ",
+         "&ldquo;the twenty-first&rdquo; &mdash; the closing colophon's ordinal, confirming "
+         "twenty-one discourses from AN 5.251 through this page's final sutta-number."),
+        ("akataññutā akataveditā",
+         "&ldquo;ingratitude and thanklessness&rdquo; &mdash; the substituted fifth item "
+         "carried over unchanged from AN 5.264."),
+        ("arahatta",
+         "full awakening &mdash; the final and seventh attainment in both this page's sequence "
+         "and its AN 5.257&ndash;263 counterpart."),
+        ("Upasampadāvagga",
+         "&ldquo;Ordination&rdquo; &mdash; this chapter's title, closing here after two "
+         "distinct halves on qualification and on stinginess."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: the ingratitude-variant five items, "
+        "run against seven attainments, closing this chapter. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "What blocks each attainment"),
+        ("p", "&sect;1", "an5.265-271:1.1-1.4"),
+        ("h3", "What enables each attainment"),
+        ("p", "&sect;2", "an5.265-271:2.1-2.4"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this page represent?",
+         "opts": [
+             "Seven: AN 5.265 through AN 5.271",
+             "One",
+             "Twenty-one",
+             "Four hundred eighty"],
+         "correct": 0,
+         "expl": "Mirroring AN 5.257&ndash;263's identical seven-discourse scope."},
+        {"q": "What formula does this page run against seven attainments?",
+         "opts": [
+             "AN 5.264's ingratitude variant: four stinginess domains plus ingratitude and thanklessness",
+             "AN 5.256's original formula, stinginess with the teachings included",
+             "An entirely new, unrelated formula",
+             "The asekha ordination standard from AN 5.251"],
+         "correct": 0,
+         "expl": "Carried over unchanged from AN 5.264, exactly as AN 5.257&ndash;263 carried over AN 5.256's formula."},
+        {"q": "What is this page's precise structural relationship to AN 5.257&ndash;263?",
+         "opts": [
+             "An exact mirror: the same seven-attainment extension, applied to a variant formula instead of the original",
+             "No relationship at all",
+             "This page contains twice as many attainments",
+             "This page uses a completely different attainment sequence"],
+         "correct": 0,
+         "expl": "Two parallel tracks through the identical seven attainments."},
+        {"q": "What does the closing colophon 'Ekavīsatimaṁ' confirm?",
+         "opts": [
+             "'The twenty-first' — the count of discourses in this chapter, AN 5.251 through AN 5.271",
+             "The total number of chapters in the Fives",
+             "Nothing verifiable",
+             "The number of attainments in the four-jhāna sequence alone"],
+         "correct": 0,
+         "expl": "Confirming this chapter's scope, using the colophon mechanism explained in full at AN 5.10."},
+        {"q": "How does the guide describe the Upasampadāvagga's overall structure, looking back across the whole chapter?",
+         "opts": [
+             "Two halves: three discourses on institutional qualification, then stinginess as an attainment-blocking condition",
+             "Ten discourses of entirely unrelated content",
+             "A single unbroken narrative with named characters",
+             "Purely a repetition of material from the Duccaritavagga"],
+         "correct": 0,
+         "expl": "Connected by the shared concern that unrelinquished qualities close off both roles and attainments."},
+        {"q": "What chapter opens next, after this page closes the Upasampadāvagga?",
+         "opts": [
+             "The Sammutipeyyāla, moving to formal authorization by the community",
+             "A return to the Duccaritavagga",
+             "The Rāgapeyyāla, the largest chapter in the Fives",
+             "No further chapter follows in the Fives"],
+         "correct": 0,
+         "expl": "AN 5.272, this book's twenty-seventh chapter."},
+        {"q": "What seven attainments does this page's formula cover?",
+         "opts": [
+             "The second, third, and fourth absorptions, and the fruits of stream-entry, once-return, non-return, and full awakening",
+             "The seven factors of awakening",
+             "Seven named disciples' individual attainments",
+             "The four noble truths and three trainings"],
+         "correct": 0,
+         "expl": "Identical in scope to AN 5.257&ndash;263, differing only in the underlying five-item formula."},
+        {"q": "What does 'Aparadutiyajhānasuttādi' mean?",
+         "opts": [
+             "'Another second-absorption discourse and so on'",
+             "'The final ending of the entire Fives'",
+             "'A discourse for householders only'",
+             "'The twenty-first chapter'"],
+         "correct": 0,
+         "expl": "Naming this page as the ingratitude-variant counterpart to AN 5.257&ndash;263."},
+        {"q": "How many total sutta-numbers do the two merged pages in this chapter, AN 5.257&ndash;263 and AN 5.265&ndash;271, together represent?",
+         "opts": [
+             "Fourteen",
+             "Two",
+             "Four hundred eighty",
+             "Twenty-one"],
+         "correct": 0,
+         "expl": "Seven each, two parallel tracks through the identical seven-attainment sequence."},
+        {"q": "What underlying concern does the guide say connects this chapter's two halves?",
+         "opts": [
+             "Certain unrelinquished qualities close off both institutional roles and meditative attainments alike",
+             "No connection exists; the two halves are entirely unrelated",
+             "Both halves concern only lay Buddhists",
+             "Both halves are about physical monastery construction"],
+         "correct": 0,
+         "expl": "Read across AN 5.251&ndash;253's qualification standard and AN 5.254&ndash;271's stinginess formula."},
+    ],
+    "marginalia": [
+        ("A mirror of AN 5.257-263", [
+            "same seven attainments,",
+            "the ingratitude variant instead",
+        ]),
+        ("Fourteen discourses, two pages", [
+            "AN 5.257&ndash;263",
+            "and AN 5.265&ndash;271",
+        ]),
+        ("The chapter's own count", [
+            "Ekavīsatimaṁ &mdash;",
+            "twenty-one, confirmed",
+        ]),
+        ("Two halves, one chapter", [
+            "qualification (251-253),",
+            "then stinginess (254-271)",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.265-271/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.264.html">AN 5.264 &middot; Another Discourse on the First '
+        "Absorption</a> &mdash; the previous discourse, and this page's underlying formula.",
+        '<a href="an-5.257-263.html">AN 5.257&ndash;263 &middot; The Second Absorption, and '
+        "So On</a> &mdash; this page's exact structural counterpart, one chapter section "
+        "earlier.",
+        '<a href="an-5.251.html">AN 5.251 &middot; Who Should Give Ordination</a> &mdash; this '
+        "chapter's opening discourse, twenty-one discourses before its close here.",
+    ],
+})
