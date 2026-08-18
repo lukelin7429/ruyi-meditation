@@ -5159,3 +5159,2050 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# Chapter 4 — Devatāvagga (AN 7.32–43)
+# --------------------------------------------------------------------------- #
+# Not to be confused with the two earlier chapters of this same name in the
+# Sixes (AN 6.31-42 and AN 6.65-74). Unlike those two, THIS Devatāvagga opens
+# with an actual deity at its very first discourse.
+VAGGA_4 = "<em>Devatāvagga</em> &mdash; the fourth chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.32 — Appamādagāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, "Appamādagārava", "Respect for Diligence",
+    vagga=VAGGA_4,
+    meta_title="AN 7.32 — Respect for Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Appamādagāravasutta, opening this chapter with an actual deity — unlike the two "
+        "earlier chapters of the same name in the Sixes — naming a seven-item respect "
+        "formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_1),
+        ("Speakers", "A glorious deity, speaking to the Buddha at night; the Buddha, "
+                     "retelling it to the mendicants the next morning, closing with verse"),
+        ("Form", "A deity's nighttime visit, restated as a closing verse — the first of "
+                 "four discourses in this chapter sharing a five-item core respect "
+                 "formula"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Nighttime deity visitations delivering formulas of respect "
+                              "to the Buddha recur widely across the Saṁyutta and its "
+                              "Chinese Āgama parallels; this reading guide does not assert "
+                              "a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a formula already met "
+                       "several times in this series, worth checking term by term rather "
+                       "than assuming identity"),
+    ],
+    why=(
+        "This chapter, Devatāvagga, is the third discourse-chapter of this exact name in "
+        "this series &mdash; after two chapters of the same title in the Sixes, neither "
+        "of which opened with an actual deity. This one does: a glorious deity visits the "
+        "Buddha by night and names seven things that prevent a trainee's decline &mdash; "
+        "respect for the Teacher, the teaching, the Saṅgha, the training, and immersion, "
+        "plus diligence and hospitality &mdash; a five-item core already met four times in "
+        "the Sixes, now extended by one further item and closing on two new terms."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Respect for the Teacher, the teaching, the Saṅgha, the training, and "
+            "immersion, together with diligence and hospitality, prevents a mendicant "
+            "trainee's decline."]),
+        ("A fifth variant of a formula already met four times", [
+            "This chapter's own reading guides will trace this &ldquo;respect&rdquo; "
+            "formula's core &mdash; Teacher, teaching, Saṅgha, training &mdash; through "
+            "four prior appearances at AN 6.32, 6.33, 6.40, and 6.69 in the previous "
+            "nipāta, each with a different fifth-and-sixth pair. This discourse both "
+            "extends the four-item core to five (adding immersion) and closes on a "
+            "genuinely new pair: diligence (appamāda) and hospitality (pāricariyā), "
+            "matching neither of the four Sixes variants."]),
+        ("A five-item core, not four, in this nipāta", [
+            "Where every appearance of this formula in the Sixes kept its core at four "
+            "items (Teacher, teaching, Saṅgha, training), this discourse and its three "
+            "companions in this chapter (AN 7.33&ndash;35) all extend that core to five by "
+            "adding immersion &mdash; a structural shift specific to how this formula "
+            "recurs in the Sevens."]),
+        ("The deity's approval, and the Buddha's own added verse", [
+            "As at AN 6.69, the deity's statement earns only the Buddha's silent approval "
+            "before it departs; here the Buddha adds something AN 6.69 did not, closing "
+            "his retelling to the mendicants with an original verse restating the same "
+            "seven items and adding a further claim: a mendicant who respects all seven "
+            "&ldquo;has drawn near to extinguishment.&rdquo;"]),
+    ],
+    terms=[
+        ("satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā",
+         "&ldquo;respect for the Teacher, the teaching, the Saṅgha, the training, and "
+         "immersion&rdquo; &mdash; this discourse's five-item core, one item larger than "
+         "every appearance of this formula in the Sixes."),
+        ("appamāda",
+         "&ldquo;diligence&rdquo; &mdash; the sixth item, this discourse's own title term, "
+         "new to this formula's several appearances."),
+        ("pāricariyā",
+         "&ldquo;hospitality&rdquo; &mdash; the seventh and closing item, likewise new to "
+         "this formula compared to its four earlier variants."),
+        ("nibbānassa santike",
+         "&ldquo;drawn near to extinguishment&rdquo; &mdash; the Buddha's own added claim "
+         "in his closing verse, absent from AN 6.69's otherwise similar structure."),
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; the population this formula protects from decline, "
+         "consistent across all four variants of this formula met so far."),
+    ],
+    text_intro=(
+        "The discourse in full: a deity's nighttime visit, and the Buddha's retelling "
+        "with an added closing verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A deity's nighttime visit"),
+        ("p", "&sect;1", "an7.32:1.1-2.7"),
+        ("h3", "The Buddha's retelling, with a closing verse"),
+        ("p", "&sect;2", "an7.32:3.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How many prior appearances has this 'respect' formula's core already had in "
+              "this series, before this discourse?",
+         "opts": [
+             "None — this is the first appearance",
+             "Four, at AN 6.32, 6.33, 6.40, and 6.69, each with a different fifth-and-"
+             "sixth pair",
+             "Only once, at AN 6.69",
+             "Ten times"],
+         "correct": 1,
+         "expl": "A formula this series has now met and checked repeatedly across two "
+                 "nipātas."},
+        {"q": "How does this discourse's core differ structurally from every Sixes "
+              "appearance of the same formula?",
+         "opts": [
+             "No structural difference at all",
+             "This discourse extends the four-item Sixes core (Teacher, teaching, Saṅgha, "
+             "training) to five items by adding immersion",
+             "This discourse reduces the core to three items",
+             "The core is entirely different content"],
+         "correct": 1,
+         "expl": "A shift specific to how this formula recurs in the Sevens."},
+        {"q": "What two items close this discourse's list, distinguishing it from all four "
+              "Sixes variants?",
+         "opts": [
+             "Conscience and prudence",
+             "Diligence (appamāda) and hospitality (pāricariyā)",
+             "Being easy to admonish and good friendship",
+             "Diligence and hospitality applied to four assemblies"],
+         "correct": 1,
+         "expl": "A genuinely new pair, matching none of the four earlier variants."},
+        {"q": "What does the guide say is unique about this discourse compared to AN "
+              "6.69's otherwise similar structure?",
+         "opts": [
+             "Nothing is different",
+             "The Buddha adds his own closing verse, including the claim that a mendicant "
+             "who respects all seven 'has drawn near to extinguishment'",
+             "This discourse has no deity at all",
+             "The deity never departs in this discourse"],
+         "correct": 1,
+         "expl": "An added poetic claim absent from AN 6.69's version."},
+        {"q": "What is notable about this chapter's title compared to the two earlier "
+              "Devatāvagga chapters in the Sixes?",
+         "opts": [
+             "This chapter also opens without a deity, matching both earlier chapters",
+             "This is the first Devatāvagga in this series to open with an actual deity "
+             "at its very first discourse",
+             "This chapter has an entirely different title",
+             "Deities never appear anywhere in this chapter"],
+         "correct": 1,
+         "expl": "A departure from the pattern of both earlier same-named chapters."},
+        {"q": "Is a setting stated for AN 7.32?",
+         "opts": ["Yes, at Sāvatthī, in Jeta's Grove", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 0,
+         "expl": "The book's standard opening setting, stated fresh here."},
+    ],
+    marginalia=[
+        ("A five-item core", [
+            "Teacher, teaching, Saṅgha,",
+            "training, immersion —",
+            "one item larger than the Sixes",
+        ]),
+        ("A new closing pair", [
+            "diligence, hospitality —",
+            "matching none of the",
+            "four earlier variants",
+        ]),
+        ("A fifth occurrence, checked", [
+            "AN 6.32, 33, 40, 69,",
+            "and now this discourse —",
+            "five distinct closing pairs",
+        ]),
+        ("Cross-references", [
+            "AN 6.32/33/40/69 &middot; earlier nipāta, this formula's four prior "
+            "appearances",
+            "AN 7.33 &middot; next, a sixth variant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.32/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.69.html">AN 6.69 &middot; A God</a> &mdash; earlier nipāta, the '
+        "closest structural precedent for this discourse.",
+        '<a href="an-7.33.html">AN 7.33 &middot; Respect for Conscience</a> &mdash; next, '
+        "a sixth variant of this same formula.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.33 — Hirigāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    33, "Hirigārava", "Respect for Conscience",
+    vagga=VAGGA_4,
+    meta_title="AN 7.33 — Respect for Conscience | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Hirigāravasutta, a sixth variant of this series' recurring respect formula, "
+        "closing on conscience and prudence rather than AN 7.32's diligence and "
+        "hospitality. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, retelling a deity's nighttime visit to the mendicants "
+                     "the following day"),
+        ("Form", "The identical five-item core as AN 7.32, closing on a different pair, "
+                 "restated in verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of conscience and prudence as a joint "
+                              "safeguard against decline recurs widely across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same five-item "
+                       "core as AN 7.32, closing on yet another distinct pair"),
+    ],
+    why=(
+        "AN 7.33 repeats AN 7.32's five-item core &mdash; respect for the Teacher, the "
+        "teaching, the Saṅgha, the training, and immersion &mdash; but closes on a "
+        "different pair entirely: conscience (hiri, this discourse's own title term) and "
+        "prudence, echoing AN 6.33's closing pair from the Sixes rather than AN 7.32's "
+        "diligence and hospitality."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Respect for the Teacher, the teaching, the Saṅgha, the training, and "
+            "immersion, together with conscience and prudence, prevents a mendicant "
+            "trainee's decline."]),
+        ("The same core, a different closing pair than its immediate predecessor", [
+            "Checked term by term against AN 7.32, this discourse's first five items are "
+            "identical; only the sixth and seventh change, from diligence and hospitality "
+            "to conscience (hiri) and prudence (ottappa) &mdash; a substitution that "
+            "matches AN 6.33's closing pair from the Sixes exactly, though applied here to "
+            "the extended five-item core rather than the Sixes' four-item one."]),
+        ("A sixth documented variant of this recurring formula", [
+            "Counting AN 6.32, 6.33, 6.40, and 6.69 from the previous nipāta, plus AN "
+            "7.32 immediately before this discourse, this is the sixth time this series "
+            "has met some version of the &ldquo;respect&rdquo; formula, each requiring "
+            "individual verification of its closing pair rather than assumption from the "
+            "shared opening."]),
+        ("No original closing verse this time", [
+            "Unlike AN 7.32, which added an original closing verse with the phrase "
+            "&ldquo;drawn near to extinguishment,&rdquo; this discourse's verse simply "
+            "restates the seven items in poetic form without that additional claim, "
+            "closing on &ldquo;it is impossible for them to decline; they have drawn near "
+            "to extinguishment&rdquo; &mdash; in fact repeating the same phrase, but as "
+            "part of the verse's direct restatement rather than an added original "
+            "flourish."]),
+    ],
+    terms=[
+        ("satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā",
+         "the same five-item core as AN 7.32: respect for the Teacher, the teaching, the "
+         "Saṅgha, the training, and immersion."),
+        ("hiri",
+         "&ldquo;conscience&rdquo; &mdash; this discourse's own title term and sixth "
+         "item, matching AN 6.33's closing pair from the Sixes."),
+        ("ottappa",
+         "&ldquo;prudence&rdquo; &mdash; the seventh and closing item, completing the "
+         "pair already met at AN 6.33."),
+        ("appamāda, pāricariyā",
+         "&ldquo;diligence, hospitality&rdquo; &mdash; AN 7.32's own closing pair, absent "
+         "from this discourse's version."),
+        ("nibbānassa santike",
+         "&ldquo;drawn near to extinguishment&rdquo; &mdash; the closing verse's phrase, "
+         "shared with AN 7.32 though functioning here as direct restatement rather than "
+         "an added claim."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's retelling of a deity's visit, closing on "
+        "conscience and prudence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha retells the deity's visit"),
+        ("p", "&sect;1", "an7.33:1.1-2.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.33:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's seven items are identical to AN 7.32's, "
+              "checked term by term?",
+         "opts": [
+             "None", "Five — only the sixth and seventh items differ", "All seven", "Only two"],
+         "correct": 1,
+         "expl": "The same five-item core, closing on a different pair."},
+        {"q": "What pair closes this discourse's list, and where has it already appeared "
+              "in this series?",
+         "opts": [
+             "Diligence and hospitality, new to this series",
+             "Conscience (hiri) and prudence (ottappa), matching AN 6.33's closing pair "
+             "from the Sixes",
+             "Easy to admonish and good friendship, matching AN 6.69",
+             "A pair not found anywhere else in this series"],
+         "correct": 1,
+         "expl": "A pair already documented once before, in the previous nipāta."},
+        {"q": "How many total variants of this 'respect' formula has this series now met, "
+              "counting this discourse?",
+         "opts": [
+             "Two", "Six — AN 6.32, 6.33, 6.40, 6.69, AN 7.32, and this discourse", "Three", "This is the only variant"],
+         "correct": 1,
+         "expl": "A formula requiring individual verification at every appearance, now "
+                 "met six times."},
+        {"q": "How does this discourse's closing verse compare to AN 7.32's, according to "
+              "the guide?",
+         "opts": [
+             "Identical original content added by the Buddha in both cases",
+             "This discourse's verse restates the seven items without AN 7.32's added "
+             "original flourish, though it shares the same 'drawn near to extinguishment' "
+             "phrase as part of its direct restatement",
+             "This discourse has no closing verse at all",
+             "The two verses share no language in common"],
+         "correct": 1,
+         "expl": "A shared phrase functioning differently in each discourse's structure."},
+        {"q": "Is a setting stated for AN 7.33?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.32's fresh setting."},
+        {"q": "What does <em>hiri</em> mean?",
+         "opts": ["Prudence", "Conscience", "Diligence", "Hospitality"],
+         "correct": 1,
+         "expl": "This discourse's own title term, the sixth item on its list."},
+    ],
+    marginalia=[
+        ("Five items shared with 7.32", [
+            "Teacher, teaching, Saṅgha,",
+            "training, immersion —",
+            "identical core",
+        ]),
+        ("A different closing pair", [
+            "conscience, prudence —",
+            "matching AN 6.33's",
+            "pair from the Sixes",
+        ]),
+        ("A sixth documented variant", [
+            "AN 6.32, 33, 40, 69,",
+            "AN 7.32, and now",
+            "this discourse — six closing pairs",
+        ]),
+        ("Cross-references", [
+            "AN 6.33 &middot; earlier nipāta, source of this discourse's closing pair",
+            "AN 7.32 &middot; previous, sharing this discourse's five-item core",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.33/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.33.html">AN 6.33 &middot; Non-decline (2nd)</a> &mdash; earlier '
+        "nipāta, source of this discourse's closing pair.",
+        '<a href="an-7.34.html">AN 7.34 &middot; Easy to Admonish (1st)</a> &mdash; next, '
+        "a seventh variant of this formula.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.34 — Paṭhamasovacassatāsutta
+# --------------------------------------------------------------------------- #
+page(
+    34, "Paṭhamasovacassatā", "Easy to Admonish (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.34 — Easy to Admonish (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasovacassatāsutta, a seventh variant of this series' respect formula, "
+        "closing on being easy to admonish and good friendship — the same pair already "
+        "met at AN 6.69. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, retelling a deity's nighttime visit to the mendicants"),
+        ("Form", "The identical five-item core as AN 7.32/33, closing on a pair already "
+                 "met once before in this series"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Being easy to admonish paired with good friendship as a "
+                              "joint safeguard recurs widely across the Chinese Āgamas' "
+                              "monastic conduct material; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same five-item "
+                       "core as its two predecessors, closing on a pair this series has "
+                       "specifically met once before, at AN 6.69"),
+    ],
+    why=(
+        "AN 7.34 repeats AN 7.32/33's five-item core and closes on a pair this series has "
+        "met once before, at AN 6.69 in the previous nipāta: being easy to admonish "
+        "(sovacassatā, this discourse's own title term) and good friendship &mdash; the "
+        "same closing pair, now applied to the extended five-item core rather than AN "
+        "6.69's four-item one."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Respect for the Teacher, the teaching, the Saṅgha, the training, and "
+            "immersion, together with being easy to admonish and good friendship, "
+            "prevents a mendicant trainee's decline."]),
+        ("A closing pair matching AN 6.69 exactly", [
+            "Sovacassatā (being easy to admonish) and kalyāṇamittatā (good friendship) "
+            "were already named together as the fifth and sixth items of AN 6.69's own "
+            "respect formula in the Sixes. This discourse repeats that exact pair, making "
+            "it the first of this series' several 'respect' variants to reuse a closing "
+            "pair rather than introduce a new one."]),
+        ("Seven appearances, now with a genuine repeat", [
+            "Counting AN 6.32, 6.33, 6.40, 6.69, AN 7.32, and 7.33, this is the seventh "
+            "time this series has met some version of the respect formula &mdash; and the "
+            "first time a closing pair has repeated exactly rather than varying, "
+            "confirming that this formula's closing items form a limited, recurring set "
+            "rather than an inexhaustible supply of fresh substitutions."]),
+        ("AN 7.35, immediately following, restates this exact same list", [
+            "Unlike the pattern of AN 7.32/33 introducing new pairs, AN 7.35 will repeat "
+            "this discourse's exact seven items again, differing only in how the teaching "
+            "closes: with Sāriputta's detailed exposition rather than a summary verse."]),
+    ],
+    terms=[
+        ("satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā",
+         "the same five-item core as AN 7.32 and 7.33: respect for the Teacher, the "
+         "teaching, the Saṅgha, the training, and immersion."),
+        ("sovacassatā",
+         "&ldquo;being easy to admonish&rdquo; &mdash; this discourse's own title term "
+         "and sixth item, matching AN 6.69's closing pair exactly."),
+        ("kalyāṇamittatā",
+         "&ldquo;good friendship&rdquo; &mdash; the seventh and closing item, likewise "
+         "matching AN 6.69."),
+        ("hiri, ottappa",
+         "&ldquo;conscience, prudence&rdquo; &mdash; AN 7.33's own closing pair, absent "
+         "from this discourse's version."),
+        ("appamāda, pāricariyā",
+         "&ldquo;diligence, hospitality&rdquo; &mdash; AN 7.32's closing pair, likewise "
+         "absent here."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's retelling of a deity's visit, closing on "
+        "being easy to admonish and good friendship. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha retells the deity's visit"),
+        ("p", "&sect;1", "an7.34:1.1-2.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.34:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What closing pair does this discourse share exactly with an earlier "
+              "discourse in this series?",
+         "opts": [
+             "Diligence and hospitality, matching AN 7.32",
+             "Being easy to admonish and good friendship, matching AN 6.69 exactly",
+             "Conscience and prudence, matching AN 6.33",
+             "A pair unique to this discourse alone"],
+         "correct": 1,
+         "expl": "The first exact repeat of a closing pair among this series' respect "
+                 "formula variants."},
+        {"q": "What does the guide say this exact repeat confirms about this formula's "
+              "closing items?",
+         "opts": [
+             "That every appearance must have a new, unique pair",
+             "That the closing items form a limited, recurring set rather than an "
+             "inexhaustible supply of fresh substitutions",
+             "That this discourse is a copying error",
+             "That only three closing pairs exist in the entire canon"],
+         "correct": 1,
+         "expl": "A finite pool of pairs the tradition draws from repeatedly."},
+        {"q": "How many times has this series now met some version of the respect "
+              "formula, counting this discourse?",
+         "opts": [
+             "Three", "Seven — AN 6.32, 6.33, 6.40, 6.69, AN 7.32, 7.33, and this discourse", "One", "Twelve"],
+         "correct": 1,
+         "expl": "A formula this series has tracked carefully across two nipātas."},
+        {"q": "What does AN 7.35, immediately following, do with this discourse's exact "
+              "content?",
+         "opts": [
+             "Introduces an entirely new list",
+             "Restates the identical seven items, differing only in closing with "
+             "Sāriputta's detailed exposition rather than a summary verse",
+             "Contradicts this discourse's teaching",
+             "Has no relationship to this discourse at all"],
+         "correct": 1,
+         "expl": "Same content, different closing treatment — echoing AN 6.69's own "
+                 "structure."},
+        {"q": "Is a setting stated for AN 7.34?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.33 immediately before it."},
+        {"q": "What does <em>sovacassatā</em> mean?",
+         "opts": ["Good friendship", "Being easy to admonish", "Diligence", "Conscience"],
+         "correct": 1,
+         "expl": "This discourse's own title term and sixth item."},
+    ],
+    marginalia=[
+        ("Five items shared", [
+            "Teacher, teaching, Saṅgha,",
+            "training, immersion —",
+            "identical to AN 7.32/33",
+        ]),
+        ("A repeated closing pair", [
+            "easy to admonish,",
+            "good friendship —",
+            "exactly matching AN 6.69",
+        ]),
+        ("A finite pool, confirmed", [
+            "the first exact repeat",
+            "among this formula's",
+            "several closing-pair variants",
+        ]),
+        ("Cross-references", [
+            "AN 6.69 &middot; earlier nipāta, source of this discourse's exact closing "
+            "pair",
+            "AN 7.35 &middot; next, this exact content with a different closing treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.34/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.69.html">AN 6.69 &middot; A God</a> &mdash; earlier nipāta, source '
+        "of this discourse's exact closing pair.",
+        '<a href="an-7.35.html">AN 7.35 &middot; Easy to Admonish (2nd)</a> &mdash; next, '
+        "this exact content closing with Sāriputta's exposition instead.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.35 — Dutiyasovacassatāsutta
+# --------------------------------------------------------------------------- #
+page(
+    35, "Dutiyasovacassatā", "Easy to Admonish (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.35 — Easy to Admonish (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasovacassatāsutta, restating AN 7.34's identical seven items and closing "
+        "with Sāriputta's detailed exposition, confirmed word for word by the Buddha. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, retelling a deity's visit; Venerable Sāriputta, "
+                     "supplying the detailed meaning; the Buddha, confirming it in full"),
+        ("Form", "The identical content as AN 7.34, closing with a brief-statement/"
+                 "detailed-explanation exchange rather than a verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Sāriputta expanding a brief statement into its detailed "
+                              "meaning, confirmed word for word by the Buddha, recurs as a "
+                              "recognizable genre across the Chinese Āgamas; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the same content as "
+                       "AN 7.34, given its fullest possible treatment through Sāriputta's "
+                       "exposition"),
+    ],
+    why=(
+        "AN 7.35 restates AN 7.34's identical seven items &mdash; the same five-item core "
+        "plus being easy to admonish and good friendship &mdash; but closes not with a "
+        "verse, as AN 7.34 did, but with the same brief-statement/detailed-explanation "
+        "exchange already met at AN 6.69: Sāriputta supplies the meaning of the deity's "
+        "brief report, and the Buddha confirms it word for word."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Respect for the Teacher, the teaching, the Saṅgha, the training, and "
+            "immersion, together with being easy to admonish and good friendship, "
+            "prevents a mendicant trainee's decline, each item fulfilled by personally "
+            "holding it, encouraging others toward it, and praising those who have it."]),
+        ("Identical content, a genuinely different closing structure", [
+            "Checked term by term, this discourse's seven items are identical to AN "
+            "7.34's. What differs entirely is what happens after the deity's report: "
+            "rather than the Buddha adding a closing verse, Sāriputta steps forward to "
+            "explain the brief statement's detailed meaning, exactly as he did at AN "
+            "6.69."]),
+        ("The three-part fulfillment formula, applied to seven items instead of six", [
+            "Sāriputta's explanation gives each of the seven items the identical "
+            "treatment already met at AN 6.69: personally holding it, praising it, "
+            "encouraging others who lack it, and praising those who already have it "
+            "&ldquo;at the right time, truthfully and correctly&rdquo; &mdash; the same "
+            "three-part structure, now run across one more item than its Sixes "
+            "precedent."]),
+        ("The Buddha's confirmation, unchanged from AN 6.69's pattern", [
+            "As at AN 6.69, the Buddha does not correct or add to Sāriputta's "
+            "explanation; he repeats it in full and calls it &ldquo;good, good&rdquo; "
+            "&mdash; the same structure of confirmation by exact echo, now completing "
+            "this chapter's fourth and final respect-formula variant."]),
+    ],
+    terms=[
+        ("satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, "
+         "samādhigāravatā, sovacassatā, kalyāṇamittatā",
+         "the identical seven items already given at AN 7.34: the five-item respect "
+         "core, being easy to admonish, and good friendship."),
+        ("saṅkhittena bhāsitassa vitthārena attho",
+         "&ldquo;the detailed meaning of what was stated in brief&rdquo; &mdash; the "
+         "exact exchange already met at AN 6.69, here run across seven items instead of "
+         "six."),
+        ("attanā ca... vaṇṇavādī",
+         "&ldquo;personally... and praises such&rdquo; &mdash; the first part of the "
+         "three-part fulfillment formula applied to each of the seven items."),
+        ("samādāpeti",
+         "&ldquo;encourages&rdquo; &mdash; the second part, encouraging other mendicants "
+         "who lack a given quality to develop it."),
+        ("sādhu sādhu",
+         "&ldquo;good, good&rdquo; &mdash; the Buddha's confirmation of Sāriputta's "
+         "explanation, repeated in full rather than corrected."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's retelling, Sāriputta's detailed "
+        "explanation, and the Buddha's confirmation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha retells the deity's visit"),
+        ("p", "&sect;1", "an7.35:1.1-2.4"),
+        ("h3", "Sāriputta's detailed explanation"),
+        ("p", "&sect;2", "an7.35:2.5-2.14"),
+        ("h3", "The Buddha's confirmation"),
+        ("p", "&sect;3", "an7.35:3.1-3.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 7.34's, checked term by "
+              "term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — the same seven items — but closing with a different structure",
+             "Only five of seven items overlap",
+             "No relationship between the two discourses"],
+         "correct": 1,
+         "expl": "Same content, differently closed."},
+        {"q": "What closes this discourse, unlike AN 7.34's summary verse?",
+         "opts": [
+             "Nothing — the discourse simply ends",
+             "The same brief-statement/detailed-explanation exchange already met at AN "
+             "6.69, with Sāriputta supplying the meaning and the Buddha confirming it",
+             "A dialogue with a different deity",
+             "A dispute between two mendicants"],
+         "correct": 1,
+         "expl": "A recognizable genre already established once before in this series."},
+        {"q": "What three-part treatment does Sāriputta give each of the seven items?",
+         "opts": [
+             "Only personal practice, with nothing further",
+             "Personally holding it, encouraging others who lack it, and praising others "
+             "who already have it",
+             "Only teaching it publicly",
+             "Renouncing it before taking it up again"],
+         "correct": 1,
+         "expl": "The identical three-part structure already met at AN 6.69, now applied "
+                 "to seven items."},
+        {"q": "How does the Buddha respond to Sāriputta's explanation?",
+         "opts": [
+             "He corrects several points",
+             "He repeats it in full and calls it 'good, good' — confirmation by exact "
+             "echo, unchanged from AN 6.69's pattern",
+             "He rejects it entirely",
+             "He remains silent"],
+         "correct": 1,
+         "expl": "The identical confirmation structure already established at AN 6.69."},
+        {"q": "What does this discourse complete, according to the guide?",
+         "opts": [
+             "Nothing further — an isolated teaching",
+             "This chapter's fourth and final respect-formula variant",
+             "The entire chapter",
+             "The entire Sevens collection"],
+         "correct": 1,
+         "expl": "The last of four respect-formula discourses opening this chapter."},
+        {"q": "Is a setting stated for AN 7.35?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 7.34 immediately before it."},
+    ],
+    marginalia=[
+        ("Identical seven items", [
+            "same five-item core",
+            "plus easy to admonish,",
+            "good friendship — as AN 7.34",
+        ]),
+        ("A different closing structure", [
+            "not a summary verse —",
+            "Sāriputta's detailed",
+            "exposition, as at AN 6.69",
+        ]),
+        ("Confirmation by exact echo", [
+            "'good, good, Sāriputta' —",
+            "the Buddha repeats,",
+            "not corrects, the explanation",
+        ]),
+        ("Cross-references", [
+            "AN 7.34 &middot; previous, this discourse's identical content",
+            "AN 6.69 &middot; earlier nipāta, this closing structure's precedent",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.35/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.34.html">AN 7.34 &middot; Easy to Admonish (1st)</a> &mdash; '
+        "previous, this discourse's identical content.",
+        '<a href="an-6.69.html">AN 6.69 &middot; A God</a> &mdash; earlier nipāta, this '
+        "closing structure's precedent.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.36 — Paṭhamamittasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, "Paṭhamamitta", "A Friend (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.36 — A Friend (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamamittasutta, naming seven qualities of a friend worth associating with, "
+        "closing on verse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, closing on verse — the first of two "
+                 "genuinely different discourses on friendship in this chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of giving what is hard to give with keeping "
+                              "secrets as marks of true friendship recurs widely across "
+                              "the Chinese Āgamas' ethical material; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and concrete, "
+                       "naming qualities recognizable from ordinary experience rather "
+                       "than technical categories"),
+    ],
+    why=(
+        "AN 7.36 shifts this chapter's register entirely, from deity-delivered respect "
+        "formulas to the ordinary, recognizable qualities of a true friend: giving what "
+        "is hard to give, doing what is hard to do, enduring what is hard to endure, "
+        "sharing and keeping secrets, and standing by someone in times of trouble or "
+        "loss."),
+    guide=[
+        ("The teaching in one sentence", [
+            "One should associate with a friend who gives what is hard to give, does "
+            "what is hard to do, endures what is hard to endure, shares and keeps "
+            "secrets, and doesn't abandon or look down on you in times of trouble or "
+            "loss."]),
+        ("Difficulty as the list's own organizing thread", [
+            "The first three items are explicitly framed around what is hard "
+            "(dukkara): giving what is hard to give, doing what is hard to do, enduring "
+            "what is hard to endure &mdash; friendship tested against exactly the "
+            "circumstances where lesser relationships would fail."]),
+        ("Reciprocal trust, at the list's center", [
+            "The fourth and fifth items concern secrets specifically: a true friend both "
+            "reveals their own secrets to you and keeps the secrets you share with them "
+            "&mdash; trust running in both directions, not a one-sided disclosure."]),
+        ("Loyalty in decline, closing the list", [
+            "The final two items name what a true friend does not do: abandon you in "
+            "times of trouble, or look down on you in times of loss &mdash; naming "
+            "friendship's real test as what happens precisely when a person has least to "
+            "offer in return."]),
+    ],
+    terms=[
+        ("dukkaraṁ dadāti, dukkaraṁ karoti, dukkaraṁ khamati",
+         "&ldquo;gives what is hard to give, does what is hard to do, endures what is "
+         "hard to endure&rdquo; &mdash; the first three items, explicitly framed around "
+         "difficulty."),
+        ("guyhamassa āvi karoti, guyhamassa pariguhati",
+         "&ldquo;reveals their secrets to you, keeps your secrets&rdquo; &mdash; the "
+         "fourth and fifth items, trust running in both directions."),
+        ("āpadāsu na jahati",
+         "&ldquo;doesn't abandon you in times of trouble&rdquo; &mdash; the sixth item."),
+        ("khīṇena nātimaññati",
+         "&ldquo;doesn't look down on you in times of loss&rdquo; &mdash; the seventh and "
+         "closing item."),
+        ("mitta",
+         "&ldquo;friend&rdquo; &mdash; this discourse's own subject, defined here through "
+         "seven concrete, recognizable qualities."),
+    ],
+    text_intro=(
+        "The discourse in full: seven qualities of a friend worth associating with, "
+        "closing on verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of a friend"),
+        ("p", "&sect;1", "an7.36:1.1-1.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.36:2.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What organizes the first three items on this discourse's list, according "
+              "to the guide?",
+         "opts": [
+             "Physical strength", "Difficulty (dukkara) — giving, doing, and enduring "
+             "what is hard", "Wealth and status", "Scriptural learning"],
+         "correct": 1,
+         "expl": "Friendship tested against circumstances where lesser relationships "
+                 "would fail."},
+        {"q": "What do the fourth and fifth items concern?",
+         "opts": [
+             "Physical gifts only",
+             "Secrets — a friend both reveals their own secrets and keeps yours, trust "
+             "running in both directions",
+             "Formal religious vows",
+             "Public praise"],
+         "correct": 1,
+         "expl": "Reciprocal trust, not one-sided disclosure."},
+        {"q": "What do the final two items name, according to the guide?",
+         "opts": [
+             "What a friend gains from the relationship",
+             "What a true friend does not do — abandon you in trouble, or look down on "
+             "you in loss — naming friendship's real test",
+             "A friend's religious beliefs",
+             "A friend's physical appearance"],
+         "correct": 1,
+         "expl": "The test of friendship precisely when a person has least to offer in "
+                 "return."},
+        {"q": "How does this discourse's register compare to this chapter's opening four "
+              "discourses (AN 7.32–35)?",
+         "opts": [
+             "Identical register throughout",
+             "A shift from deity-delivered respect formulas to ordinary, recognizable "
+             "qualities of friendship",
+             "This discourse also involves a deity",
+             "No discernible difference in register"],
+         "correct": 1,
+         "expl": "Concrete, everyday qualities rather than technical or formulaic content."},
+        {"q": "Is a setting stated for AN 7.36?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, despite its concrete, relatable subject matter."},
+        {"q": "What does the discourse's closing verse do?",
+         "opts": [
+             "Introduces new content not in the prose list",
+             "Restates the same seven qualities poetically, closing with an "
+             "encouragement to keep company with such a friend",
+             "Contradicts the prose list",
+             "Concerns an entirely different topic"],
+         "correct": 1,
+         "expl": "A poetic restatement reinforcing the same seven qualities."},
+    ],
+    marginalia=[
+        ("Seven marks of friendship", [
+            "gives, does, endures",
+            "what's hard &middot; shares, keeps",
+            "secrets &middot; loyal in trouble, loss",
+        ]),
+        ("Tested by difficulty", [
+            "not comfort — a friend",
+            "proven by what's hard",
+            "to give, do, and endure",
+        ]),
+        ("A register shift", [
+            "from deity-delivered",
+            "formulas to ordinary,",
+            "recognizable human qualities",
+        ]),
+        ("Cross-references", [
+            "AN 7.37 &middot; next, a second, genuinely different list on friendship",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.36/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.35.html">AN 7.35 &middot; Easy to Admonish (2nd)</a> &mdash; '
+        "previous, closing this chapter's respect-formula discourses.",
+        '<a href="an-7.37.html">AN 7.37 &middot; A Friend (2nd)</a> &mdash; next, a '
+        "genuinely different seven-item list on friendship.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.37 — Dutiyamittasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, "Dutiyamitta", "A Friend (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.37 — A Friend (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyamittasutta, a genuinely different seven-item list on friendship, worth "
+        "staying close to even if they send you away. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, closing on verse — checked against AN 7.36 "
+                 "and found genuinely distinct"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of a friend who admonishes with one who "
+                              "accepts admonishment recurs widely across the Chinese "
+                              "Āgamas' treatment of spiritual companionship; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names qualities of "
+                       "correction and honesty rather than AN 7.36's qualities of "
+                       "loyalty and difficulty"),
+    ],
+    why=(
+        "AN 7.37, sharing its title's shape with AN 7.36 (&lsquo;A Friend&rsquo;), names "
+        "an entirely different seven-item list, checked term by term: a friend worth "
+        "staying close to even if they drive you away is likable, respected, admonishes "
+        "you and accepts admonishment, speaks on deep matters, and never urges you "
+        "toward bad conduct."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A friend with seven qualities &mdash; likable, respected, an admonisher who "
+            "accepts admonishment, one who speaks on deep matters, and one who never "
+            "urges bad conduct &mdash; is worth associating with, even if they drive you "
+            "away."]),
+        ("Checked against AN 7.36: no shared items", [
+            "Unlike several of this chapter's other same-titled pairs, this discourse "
+            "and AN 7.36 share no items at all when checked term by term. Where AN "
+            "7.36's list concerned loyalty tested by difficulty and secrecy, this "
+            "discourse's list concerns honesty, correction, and depth of conversation "
+            "&mdash; genuinely different criteria for the same underlying relationship."]),
+        ("A friend worth keeping even when they push you away", [
+            "The discourse's most striking claim is its opening qualifier: such a friend "
+            "is worth staying close to &ldquo;even if they drive you away&rdquo; &mdash; "
+            "suggesting that being pushed away by someone with these seven qualities is "
+            "not itself evidence the friendship has failed, but potentially part of what "
+            "makes them worth keeping."]),
+        ("Mutual admonishment, not one-directional correction", [
+            "The list's central pair &mdash; admonishing you and accepting "
+            "admonishment &mdash; describes a friend capable of both giving and "
+            "receiving correction, rather than someone who only points out others' faults "
+            "while remaining above correction themselves."]),
+    ],
+    terms=[
+        ("piya, garu",
+         "&ldquo;likable, respected&rdquo; &mdash; the first two items, opening this "
+         "discourse's list."),
+        ("vattā ca hoti vacanakkhamo ca",
+         "&ldquo;admonishes you and accepts admonishment&rdquo; &mdash; the discourse's "
+         "central pair, describing mutual rather than one-directional correction."),
+        ("gambhīrañca kathaṁ kattā",
+         "&ldquo;speaks on deep matters&rdquo; &mdash; the sixth item, naming "
+         "conversational depth as a mark of true friendship."),
+        ("no ca aṭṭhāne niyojaye",
+         "&ldquo;doesn't urge you to do bad things&rdquo; &mdash; the seventh and closing "
+         "item."),
+        ("api pabbājayamānena",
+         "&ldquo;even if they drive you away&rdquo; &mdash; the discourse's opening "
+         "qualifier, its most striking claim about this kind of friend's worth."),
+    ],
+    text_intro=(
+        "The discourse in full: seven qualities of a friend worth staying close to even "
+        "if they drive you away, closing on verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities of a friend"),
+        ("p", "&sect;1", "an7.37:1.1-1.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.37:2.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's seven-item list compare to AN 7.36's, checked "
+              "term by term?",
+         "opts": [
+             "Identical content, just reworded",
+             "No shared items at all — genuinely different criteria for the same "
+             "underlying relationship",
+             "Half the items overlap",
+             "Only the closing item is shared"],
+         "correct": 1,
+         "expl": "Two same-titled discourses sharing no specific content, checked "
+                 "carefully."},
+        {"q": "What is the discourse's most striking claim, according to the guide?",
+         "opts": [
+             "That such a friend should never be trusted",
+             "That such a friend is worth staying close to 'even if they drive you away' "
+             "— being pushed away is not itself evidence the friendship has failed",
+             "That such a friend will never disagree with you",
+             "That friendship always ends badly"],
+         "correct": 1,
+         "expl": "A striking reframing of what being sent away might actually mean."},
+        {"q": "What does the central pair, 'admonishes you and accepts admonishment,' "
+              "describe?",
+         "opts": [
+             "A friend who only criticizes others",
+             "Mutual correction — a friend capable of both giving and receiving "
+             "admonishment, not someone who remains above correction themselves",
+             "A friend who never speaks critically",
+             "A formal teacher-student relationship only"],
+         "correct": 1,
+         "expl": "Correction flowing in both directions, not one-sided judgment."},
+        {"q": "What does the seventh item concern?",
+         "opts": [
+             "Wealth and generosity",
+             "Never urging you toward bad conduct",
+             "Physical strength",
+             "Formal religious training"],
+         "correct": 1,
+         "expl": "The closing item, protecting against a friend's harmful influence."},
+        {"q": "Is a setting stated for AN 7.37?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.36 immediately before it."},
+        {"q": "What does <em>gambhīrañca kathaṁ kattā</em> mean?",
+         "opts": [
+             "Speaks only casually", "Speaks on deep matters", "Never speaks at all", "Speaks only about wealth"],
+         "correct": 1,
+         "expl": "Conversational depth, named as a mark of true friendship."},
+    ],
+    marginalia=[
+        ("Seven different qualities", [
+            "likable, respected &middot;",
+            "admonishes, accepts",
+            "admonishment &middot; deep talk &middot; no bad urging",
+        ]),
+        ("No overlap with AN 7.36", [
+            "checked term by term —",
+            "genuinely different",
+            "criteria for the same relationship",
+        ]),
+        ("Worth keeping, even when pushed away", [
+            "'even if they",
+            "drive you away' —",
+            "a striking reframing",
+        ]),
+        ("Cross-references", [
+            "AN 7.36 &middot; previous, a same-titled but content-distinct companion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.37/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.36.html">AN 7.36 &middot; A Friend (1st)</a> &mdash; previous, a '
+        "same-titled but content-distinct companion.",
+        '<a href="an-7.38.html">AN 7.38 &middot; Textual Analysis (1st)</a> &mdash; next, '
+        "a shift to seven qualities for realizing textual analysis.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.38 — Paṭhamapaṭisambhidāsutta
+# --------------------------------------------------------------------------- #
+page(
+    38, "Paṭhamapaṭisambhidā", "Textual Analysis (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.38 — Textual Analysis (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamapaṭisambhidāsutta, naming seven qualities of mental discernment that let "
+        "a mendicant soon realize the four kinds of textual analysis. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, stated once with no reversal, the first of a "
+                 "brief/Sāriputta-example pair"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The four kinds of textual analysis (paṭisambhidā) as a "
+                              "standard technical set recur throughout the Chinese Āgamas "
+                              "and Abhidharma literature; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; names precise "
+                       "technical distinctions in mental observation, denser than this "
+                       "chapter's other discourses"),
+    ],
+    why=(
+        "AN 7.38 names seven qualities of precise mental observation &mdash; recognizing "
+        "sluggishness, an internally constricted mind, an externally scattered mind, "
+        "watching feelings, perceptions, and thoughts arise and pass, and properly "
+        "grasping the whole pattern of qualities encountered &mdash; that let a "
+        "mendicant soon realize the four kinds of textual analysis through their own "
+        "insight."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who recognizes sluggishness, an internally constricted mind, an "
+            "externally scattered mind, and who watches feelings, perceptions, and "
+            "thoughts arise and pass while properly grasping the whole pattern of "
+            "qualities encountered, will soon realize the four kinds of textual "
+            "analysis."]),
+        ("Paṭisambhidā, a specific analytical attainment", [
+            "The four kinds of textual analysis &mdash; of meaning, of the teaching, of "
+            "language, and of eloquent expression &mdash; are a standard set of "
+            "analytical capacities in this literature, treated here as reachable through "
+            "sustained precise attention rather than through learning alone."]),
+        ("Three named obstacles to attention, immediately followed by their remedy", [
+            "The list's first three items each name a specific way attention can go "
+            "wrong &mdash; sluggish, too internally constricted, or too externally "
+            "scattered &mdash; framed as things to truly understand rather than simply "
+            "avoid, implying accurate recognition of a distorted state is itself part of "
+            "the practice."]),
+        ("Watching three processes arise, remain, and pass", [
+            "The middle three items apply an identical threefold observation &mdash; as "
+            "they arise, as they remain, as they go away &mdash; to feelings, "
+            "perceptions, and thoughts in turn, a repeated analytical structure applied "
+            "across three different objects of experience."]),
+    ],
+    terms=[
+        ("paṭisambhidā",
+         "&ldquo;textual analysis&rdquo; &mdash; the fourfold analytical attainment "
+         "(meaning, teaching, language, eloquent expression) this discourse's seven "
+         "qualities are said to produce."),
+        ("līnattaṁ cittassa",
+         "&ldquo;mental sluggishness&rdquo; &mdash; the first quality, recognizing a "
+         "specific way attention can go wrong."),
+        ("ajjhattaṁ saṅkhittaṁ, bahiddhā vikkhittaṁ",
+         "&ldquo;internally constricted mind, externally scattered mind&rdquo; &mdash; "
+         "the second and third qualities, two further specific distortions."),
+        ("uppādañca vayañca",
+         "&ldquo;as they arise... as they go away&rdquo; &mdash; the threefold "
+         "observation applied to feelings, perceptions, and thoughts in turn."),
+        ("suggahitā... sumanasikatā... suppaṭividdhā paññāya",
+         "&ldquo;properly grasped... borne in mind... penetrated with wisdom&rdquo; "
+         "&mdash; the seventh and closing quality, a comprehensive grasp of the whole "
+         "pattern of qualities encountered."),
+    ],
+    text_intro=(
+        "The discourse in full: seven qualities of precise mental observation leading to "
+        "textual analysis. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities leading to textual analysis"),
+        ("p", "&sect;1", "an7.38:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What does <em>paṭisambhidā</em> name, and what does this discourse claim "
+              "produces it?",
+         "opts": [
+             "A physical healing power, produced by chanting",
+             "The fourfold analytical attainment (meaning, teaching, language, eloquent "
+             "expression), produced through sustained precise attention",
+             "A form of psychic power unrelated to analysis",
+             "A synonym for the four noble truths"],
+         "correct": 1,
+         "expl": "A specific technical set of analytical capacities."},
+        {"q": "What do the first three items on this discourse's list have in common, "
+              "according to the guide?",
+         "opts": [
+             "They are unrelated to attention entirely",
+             "Each names a specific way attention can go wrong — sluggish, internally "
+             "constricted, or externally scattered — framed as things to truly understand",
+             "They describe three different physical postures",
+             "They concern only sense-restraint"],
+         "correct": 1,
+         "expl": "Accurate recognition of distorted states, not merely their avoidance."},
+        {"q": "What threefold observation applies to feelings, perceptions, and thoughts "
+              "in the middle three items?",
+         "opts": [
+             "Whether they are wholesome or unwholesome",
+             "As they arise, as they remain, and as they go away",
+             "Whether they are strong or weak",
+             "Whether they belong to oneself or another"],
+         "correct": 1,
+         "expl": "A repeated analytical structure applied across three objects of "
+                 "experience."},
+        {"q": "What does the discourse open a pair with, according to the guide?",
+         "opts": [
+             "No further discourse relates to this one",
+             "AN 7.39, applying the identical seven-item list specifically to Sāriputta's "
+             "own attainment",
+             "A return to the respect formula",
+             "A dispute among sectarians"],
+         "correct": 1,
+         "expl": "A brief/Sāriputta-example pair, a pattern this chapter will repeat."},
+        {"q": "Is a setting stated for AN 7.38?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.37 immediately before it."},
+        {"q": "What does the seventh and final quality involve?",
+         "opts": [
+             "Ignoring most encountered qualities",
+             "Properly grasping, focusing on, bearing in mind, and penetrating with "
+             "wisdom the whole pattern of qualities encountered",
+             "Avoiding all mental qualities entirely",
+             "Only memorizing scripture"],
+         "correct": 1,
+         "expl": "A comprehensive analytical grasp, closing the list."},
+    ],
+    marginalia=[
+        ("Seven qualities of attention", [
+            "recognizing sluggishness,",
+            "constriction, scattering &middot;",
+            "watching feelings, perceptions, thoughts",
+        ]),
+        ("A specific analytical goal", [
+            "paṭisambhidā —",
+            "fourfold textual analysis,",
+            "meaning, teaching, language, expression",
+        ]),
+        ("Recognition, not just avoidance", [
+            "distorted states named",
+            "and understood, not",
+            "simply pushed away",
+        ]),
+        ("Cross-references", [
+            "AN 7.39 &middot; next, this same list applied to Sāriputta specifically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.38/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.37.html">AN 7.37 &middot; A Friend (2nd)</a> &mdash; previous, '
+        "closing this chapter's two discourses on friendship.",
+        '<a href="an-7.39.html">AN 7.39 &middot; Textual Analysis (2nd)</a> &mdash; next, '
+        "this same list applied to Sāriputta specifically.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.39 — Dutiyapaṭisambhidāsutta
+# --------------------------------------------------------------------------- #
+page(
+    39, "Dutiyapaṭisambhidā", "Textual Analysis (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.39 — Textual Analysis (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyapaṭisambhidāsutta, restating AN 7.38's identical seven qualities as "
+        "Sāriputta's own personal attainment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical seven-item list as AN 7.38, restated as one named "
+                 "individual's personal attainment"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Naming a senior disciple's personal attainment of a "
+                              "generally-taught quality recurs widely across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same content as "
+                       "AN 7.38, made concrete through a specific named example"),
+    ],
+    why=(
+        "AN 7.39 restates AN 7.38's identical seven qualities, but shifts from a general "
+        "teaching addressed to mendicants to a specific claim about Venerable "
+        "Sāriputta's own realization &mdash; the same analytical capacities named "
+        "generally in the discourse before this one, now grounded in one named "
+        "individual's demonstrated attainment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Having the same seven qualities already named at AN 7.38, Sāriputta "
+            "realized the four kinds of textual analysis and lives having achieved them "
+            "with his own insight."]),
+        ("Identical content, shifted from general to particular", [
+            "Checked term by term, this discourse's seven qualities are the same "
+            "recognizing sluggishness, constriction, scattering, and threefold "
+            "observation of feelings, perceptions, and thoughts already given at AN "
+            "7.38. The only change is grammatical: third-person singular past tense "
+            "about Sāriputta, rather than a general present-tense teaching to "
+            "mendicants."]),
+        ("Sāriputta as a demonstrated case, not a new teaching", [
+            "This discourse does not argue that Sāriputta's path to textual analysis "
+            "differed from the general teaching; it instead offers him as confirmation "
+            "that the general teaching actually works, grounding an abstract capacity in "
+            "a concrete, already-attained example."]),
+        ("A pattern repeated across this chapter", [
+            "AN 7.40 and 7.41, immediately following, will repeat this exact "
+            "general-teaching-then-Sāriputta-example structure for a different "
+            "attainment: mastery of the mind through skill in immersion."]),
+    ],
+    terms=[
+        ("Sāriputta",
+         "one of the Buddha's chief disciples, named here as the concrete example of "
+         "AN 7.38's general teaching successfully realized."),
+        ("līnattaṁ cittassa, ajjhattaṁ saṅkhittaṁ, bahiddhā vikkhittaṁ",
+         "the same three named distortions of attention already met at AN 7.38, "
+         "restated here as qualities Sāriputta himself recognized."),
+        ("vedanā, saññā, vitakka",
+         "&ldquo;feelings, perceptions, thoughts&rdquo; &mdash; the same three objects "
+         "of threefold observation already applied at AN 7.38."),
+        ("sāmaṁ paccakkhāya",
+         "&ldquo;with his own insight&rdquo; &mdash; the discourse's closing phrase, "
+         "identical to AN 7.38's own closing claim, now applied specifically to "
+         "Sāriputta."),
+        ("paṭisambhidā",
+         "&ldquo;textual analysis&rdquo; &mdash; the same fourfold attainment named at "
+         "AN 7.38, here confirmed as something Sāriputta has actually realized."),
+    ],
+    text_intro=(
+        "The discourse in full: the same seven qualities as AN 7.38, restated as "
+        "Sāriputta's own attainment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta's seven qualities"),
+        ("p", "&sect;1", "an7.39:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 7.38's, checked term by "
+              "term?",
+         "opts": [
+             "Entirely different content",
+             "Identical seven qualities, shifted from a general teaching to a specific "
+             "claim about Sāriputta's own realization",
+             "Only half the items overlap",
+             "This discourse names no qualities at all"],
+         "correct": 1,
+         "expl": "The same content, grounded in one named individual's attainment."},
+        {"q": "What role does Sāriputta play in this discourse, according to the guide?",
+         "opts": [
+             "He rejects AN 7.38's teaching as incorrect",
+             "He serves as a demonstrated case confirming AN 7.38's general teaching "
+             "actually works, not a new or different teaching",
+             "He teaches something entirely unrelated to AN 7.38",
+             "He is only mentioned in passing, without further significance"],
+         "correct": 1,
+         "expl": "A concrete example grounding an abstract capacity."},
+        {"q": "What pattern does this discourse establish, continued later in this "
+              "chapter?",
+         "opts": [
+             "No further pattern follows",
+             "AN 7.40 and 7.41 will repeat this same general-teaching-then-Sāriputta-"
+             "example structure for a different attainment",
+             "A return to the respect formula",
+             "A shift to lay followers"],
+         "correct": 1,
+         "expl": "A structural device this chapter uses more than once."},
+        {"q": "What three objects receive the identical threefold observation already met "
+              "at AN 7.38?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Feelings, perceptions, and thoughts",
+             "The Buddha, the teaching, the Saṅgha",
+             "Body, speech, and mind"],
+         "correct": 1,
+         "expl": "The same three objects of experience already named in the general "
+                 "teaching."},
+        {"q": "Is a setting stated for AN 7.39?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.38 immediately before it."},
+        {"q": "What is the only significant change between AN 7.38 and this discourse?",
+         "opts": [
+             "The entire content is different",
+             "A grammatical shift from general present-tense teaching to third-person "
+             "past tense about a specific named individual",
+             "The number of qualities changes from seven to six",
+             "The target attainment changes entirely"],
+         "correct": 1,
+         "expl": "The same content, differently grammatically framed."},
+    ],
+    marginalia=[
+        ("The same seven qualities", [
+            "recognizing sluggishness,",
+            "constriction, scattering —",
+            "identical to AN 7.38",
+        ]),
+        ("General teaching to example", [
+            "AN 7.38: taught to",
+            "mendicants generally —",
+            "AN 7.39: Sāriputta's own case",
+        ]),
+        ("Confirmation, not new content", [
+            "Sāriputta grounds",
+            "the abstract teaching",
+            "in a demonstrated attainment",
+        ]),
+        ("Cross-references", [
+            "AN 7.38 &middot; previous, this discourse's identical general teaching",
+            "AN 7.40/41 &middot; next, the same structure repeated for mastery of mind",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.39/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.38.html">AN 7.38 &middot; Textual Analysis (1st)</a> &mdash; '
+        "previous, this discourse's identical general teaching.",
+        '<a href="an-7.40.html">AN 7.40 &middot; Mastery of the Mind (1st)</a> &mdash; '
+        "next, the same general-teaching-then-example structure applied to immersion.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.40 — Paṭhamavasasutta
+# --------------------------------------------------------------------------- #
+page(
+    40, "Paṭhamavasa", "Mastery of the Mind (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.40 — Mastery of the Mind (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamavasasutta, naming seven skills in immersion that let a mendicant master "
+        "their own mind rather than be mastered by it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list of immersion-related skills, stated once with "
+                 "no reversal — the first of a brief/Sāriputta-example pair"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Skill across entering, remaining in, and emerging from "
+                              "meditative absorption as a technical framework recurs "
+                              "throughout the Chinese Āgamas' meditation instructions; "
+                              "this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a dense technical "
+                       "vocabulary of specific immersion-related skills"),
+    ],
+    why=(
+        "AN 7.40 names seven skills specifically related to immersion &mdash; skilled at "
+        "immersion generally, skilled in entering it, remaining in it, emerging from it, "
+        "skilled in its positivity, its territory, and skilled in projecting a mind "
+        "purified by it &mdash; that together let a mendicant master their own mind "
+        "rather than be mastered by it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant skilled at immersion, skilled in entering it, remaining in it, "
+            "emerging from it, skilled in its positivity, its territory, and skilled in "
+            "projecting a mind purified by it, masters their mind and is not mastered by "
+            "it."]),
+        ("An extension of AN 6.72's three immersion skills", [
+            "AN 6.72 in the previous nipāta named three specific skills &mdash; entering, "
+            "remaining in, emerging from immersion &mdash; as producing strength in "
+            "immersion. This discourse names those same three skills as three of a "
+            "larger seven, adding overall skill at immersion itself, plus skill in its "
+            "positivity, territory, and purified projection."]),
+        ("Mastering the mind, not merely developing immersion", [
+            "The discourse's stated goal is broader than immersion for its own sake: "
+            "&ldquo;masters their mind and is not mastered by it&rdquo; frames these "
+            "seven skills as producing genuine control over one's own mental states, "
+            "with immersion as the specific means rather than the final end in itself."]),
+        ("Four new, more specialized skills beyond AN 6.72's three", [
+            "Vasībhāva (overall mastery), abhirādhana (positivity or favorable "
+            "development), gocara (the proper territory or range of immersion), and "
+            "abhinīhāra (projecting a purified mind toward a chosen object) extend the "
+            "three-skill core into a more comprehensive and specialized sevenfold "
+            "mastery."]),
+    ],
+    terms=[
+        ("samādhikusala",
+         "&ldquo;skilled at immersion&rdquo; &mdash; the first, general item, before the "
+         "list turns to more specific skills."),
+        ("samāpattikusala, ṭhitikusala, vuṭṭhānakusala",
+         "&ldquo;skilled in entering, remaining in, emerging from immersion&rdquo; "
+         "&mdash; the same three skills already named at AN 6.72 in the previous nipāta, "
+         "here forming three of seven rather than the entirety of the list."),
+        ("abhirādhanākusala",
+         "&ldquo;skilled in positivity for immersion&rdquo; &mdash; the fifth item, a "
+         "term new to this discourse."),
+        ("gocarakusala",
+         "&ldquo;skilled in the territory of immersion&rdquo; &mdash; the sixth item, "
+         "naming skill in immersion's proper range or scope."),
+        ("abhinīhārakusala",
+         "&ldquo;skilled in projecting the mind purified by immersion&rdquo; &mdash; the "
+         "seventh and closing item."),
+    ],
+    text_intro=(
+        "The discourse in full: seven skills in immersion that let a mendicant master "
+        "their own mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven skills in immersion"),
+        ("p", "&sect;1", "an7.40:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three of this discourse's seven skills already appeared at AN 6.72 in "
+              "the previous nipāta?",
+         "opts": [
+             "Skill in positivity, territory, and purified projection",
+             "Skill in entering, remaining in, and emerging from immersion",
+             "Skill at immersion generally, and two others",
+             "None of the seven skills appeared before"],
+         "correct": 1,
+         "expl": "The same three skills AN 6.72 named as producing strength in "
+                 "immersion."},
+        {"q": "What is the discourse's stated goal, broader than immersion for its own "
+              "sake?",
+         "opts": [
+             "Attaining the first absorption only",
+             "Mastering one's own mind, rather than being mastered by it — immersion as "
+             "the means, not the final end",
+             "Achieving physical health",
+             "Gaining a reputation as a skilled teacher"],
+         "correct": 1,
+         "expl": "Genuine control over mental states, with immersion as the specific "
+                 "vehicle."},
+        {"q": "What four skills does this discourse add beyond AN 6.72's three?",
+         "opts": [
+             "Faith, energy, mindfulness, and wisdom",
+             "Overall skill at immersion, plus skill in its positivity, territory, and "
+             "purified projection",
+             "The four foundations of mindfulness",
+             "Nothing further is added"],
+         "correct": 1,
+         "expl": "A more comprehensive and specialized sevenfold expansion."},
+        {"q": "What does the discourse open a pair with, according to the guide?",
+         "opts": [
+             "No further discourse relates to this one",
+             "AN 7.41, applying this identical list specifically to Sāriputta's own "
+             "attainment",
+             "A return to the respect formula",
+             "A dispute among sectarians"],
+         "correct": 1,
+         "expl": "The same brief/Sāriputta-example pattern already met at AN 7.38/39."},
+        {"q": "Is a setting stated for AN 7.40?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.39 immediately before it."},
+        {"q": "What does <em>gocarakusala</em> mean?",
+         "opts": [
+             "Skilled in entering immersion",
+             "Skilled in the territory of immersion",
+             "Skilled at immersion generally",
+             "Skilled in emerging from immersion"],
+         "correct": 1,
+         "expl": "The sixth item, naming skill in immersion's proper range."},
+    ],
+    marginalia=[
+        ("Seven skills in immersion", [
+            "overall skill &middot; entering,",
+            "remaining, emerging &middot;",
+            "positivity &middot; territory &middot; projection",
+        ]),
+        ("Extending AN 6.72's three", [
+            "entering, remaining,",
+            "emerging — now three",
+            "of seven, not the whole list",
+        ]),
+        ("Mastery, not immersion alone", [
+            "'masters their mind,",
+            "not mastered by it' —",
+            "immersion as means, not end",
+        ]),
+        ("Cross-references", [
+            "AN 6.72 &middot; earlier nipāta, source of three of these seven skills",
+            "AN 7.41 &middot; next, this same list applied to Sāriputta specifically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.40/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.72.html">AN 6.72 &middot; Strength</a> &mdash; earlier nipāta, '
+        "source of three of these seven skills.",
+        '<a href="an-7.41.html">AN 7.41 &middot; Mastery of the Mind (2nd)</a> &mdash; '
+        "next, this same list applied to Sāriputta specifically.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.41 — Dutiyavasasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, "Dutiyavasa", "Mastery of the Mind (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.41 — Mastery of the Mind (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyavasasutta, restating AN 7.40's identical seven skills as Sāriputta's own "
+        "personal mastery of mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical seven-item list as AN 7.40, restated as Sāriputta's own "
+                 "personal attainment — matching AN 7.38/39's exact structural pattern"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Naming Sāriputta specifically as an exemplar of "
+                              "meditative mastery recurs across the Chinese Āgamas; this "
+                              "reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same content as "
+                       "AN 7.40, grounded in one named individual's attainment"),
+    ],
+    why=(
+        "AN 7.41 completes this chapter's second general-teaching-then-Sāriputta-"
+        "example pair, restating AN 7.40's identical seven immersion skills as "
+        "Sāriputta's own demonstrated mastery &mdash; the same structural move already "
+        "made once before at AN 7.38/39 for textual analysis, now repeated for mastery "
+        "of the mind."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Having the same seven immersion skills already named at AN 7.40, Sāriputta "
+            "has mastered his mind and is not mastered by it."]),
+        ("A structural echo of AN 7.38/39, now for a different attainment", [
+            "Checked side by side, this discourse and AN 7.38/39 share an identical "
+            "compositional move: a general teaching to mendicants, followed immediately "
+            "by the identical content restated as Sāriputta's own personal case, marking "
+            "this as a deliberate pattern in how this chapter presents its content rather "
+            "than a coincidence."]),
+        ("Two attainments, one exemplar", [
+            "Sāriputta now stands, within this single chapter, as the demonstrated "
+            "example for two distinct attainments: the four kinds of textual analysis "
+            "(AN 7.39) and mastery of the mind through immersion (this discourse) "
+            "&mdash; a double role underscoring his standing as the paradigmatic senior "
+            "disciple in this literature."]),
+        ("Closing this chapter's paired-example discourses", [
+            "With this discourse, this chapter's two general-teaching-then-example pairs "
+            "(AN 7.38/39 and AN 7.40/41) are complete; AN 7.42 and 7.43, immediately "
+            "following, will use named individuals differently &mdash; not as confirming "
+            "examples of an already-stated teaching, but as questioners prompting a "
+            "teaching not yet given."]),
+    ],
+    terms=[
+        ("Sāriputta",
+         "the same chief disciple already named at AN 7.39, here demonstrating a second "
+         "distinct attainment within this chapter."),
+        ("samādhikusala, samāpattikusala, ṭhitikusala, vuṭṭhānakusala",
+         "the same first four skills already named at AN 7.40: skilled at immersion "
+         "generally, and skilled in entering, remaining in, and emerging from it."),
+        ("abhirādhanākusala, gocarakusala, abhinīhārakusala",
+         "the same remaining three skills already named at AN 7.40: skilled in "
+         "positivity, territory, and purified projection."),
+        ("cittaṁ vasaṁ vatteti, na ca cittassa vasena vattati",
+         "&ldquo;masters his mind and is not mastered by it&rdquo; &mdash; the "
+         "discourse's closing claim, identical to AN 7.40's stated goal, now confirmed "
+         "in Sāriputta's own case."),
+        ("vasa",
+         "&ldquo;mastery&rdquo; &mdash; this discourse's own title term, shared with AN "
+         "7.40."),
+    ],
+    text_intro=(
+        "The discourse in full: the same seven skills as AN 7.40, restated as "
+        "Sāriputta's own mastery of mind. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta's seven skills"),
+        ("p", "&sect;1", "an7.41:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What structural move does this discourse share with AN 7.38/39, according "
+              "to the guide?",
+         "opts": [
+             "No relationship at all",
+             "A general teaching followed immediately by the identical content restated "
+             "as Sāriputta's own personal case — a deliberate pattern, not a coincidence",
+             "Both discourses reject the general teaching",
+             "Both discourses concern entirely different attainments with no shared "
+             "structure"],
+         "correct": 1,
+         "expl": "The same compositional device used twice within this chapter."},
+        {"q": "What two distinct attainments does Sāriputta demonstrate within this single "
+              "chapter?",
+         "opts": [
+             "Only mastery of the mind",
+             "The four kinds of textual analysis (AN 7.39) and mastery of the mind "
+             "through immersion (this discourse)",
+             "Only textual analysis",
+             "Neither attainment is actually his own"],
+         "correct": 1,
+         "expl": "A double role underscoring his standing as the paradigmatic senior "
+                 "disciple."},
+        {"q": "What does this discourse complete, according to the guide?",
+         "opts": [
+             "Nothing further — an isolated teaching",
+             "This chapter's two general-teaching-then-example pairs (AN 7.38/39 and AN "
+             "7.40/41)",
+             "The entire chapter",
+             "The entire Sevens collection"],
+         "correct": 1,
+         "expl": "The second of two matched pairs using this identical structure."},
+        {"q": "How will AN 7.42 and 7.43 use named individuals differently, according to "
+              "the guide?",
+         "opts": [
+             "Identically to this discourse's pattern",
+             "Not as confirming examples of an already-stated teaching, but as "
+             "questioners prompting a teaching not yet given",
+             "Named individuals do not appear in AN 7.42/43 at all",
+             "As deities rather than mendicants"],
+         "correct": 1,
+         "expl": "A shift in how named individuals function within this chapter's "
+                 "remaining discourses."},
+        {"q": "Is a setting stated for AN 7.41?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.40 immediately before it."},
+        {"q": "What does this discourse's closing claim state about Sāriputta?",
+         "opts": [
+             "That he has failed to master his mind",
+             "That he masters his mind and is not mastered by it, identical to AN 7.40's "
+             "stated goal",
+             "That he has abandoned immersion practice",
+             "Nothing specific is claimed about him"],
+         "correct": 1,
+         "expl": "The general teaching's goal, confirmed in one named individual's case."},
+    ],
+    marginalia=[
+        ("The same seven skills", [
+            "overall skill &middot; entering,",
+            "remaining, emerging &middot;",
+            "positivity, territory, projection",
+        ]),
+        ("Sāriputta's double role", [
+            "textual analysis (7.39)",
+            "and mastery of mind (7.41) —",
+            "the paradigmatic disciple",
+        ]),
+        ("Closing two matched pairs", [
+            "AN 7.38/39 and",
+            "AN 7.40/41 — the same",
+            "general-teaching-then-example device",
+        ]),
+        ("Cross-references", [
+            "AN 7.40 &middot; previous, this discourse's identical general teaching",
+            "AN 7.39 &middot; earlier, Sāriputta's other attainment within this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.41/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.40.html">AN 7.40 &middot; Mastery of the Mind (1st)</a> &mdash; '
+        "previous, this discourse's identical general teaching.",
+        '<a href="an-7.39.html">AN 7.39 &middot; Textual Analysis (2nd)</a> &mdash; '
+        "earlier, Sāriputta's other attainment within this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.42 — Paṭhamaniddasasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, "Paṭhamaniddasa", "Graduation (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.42 — Graduation (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaniddasasutta, in which Sāriputta questions a sectarian claim about a "
+        "twelve-year rule for graduation, and the Buddha rejects it in favor of "
+        "AN 7.20's seven qualifications. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove; Sāriputta first visits a sectarian "
+                    "hermitage before returning to question the Buddha"),
+        ("Speakers", "Wanderers of other religions (reported), Venerable Sāriputta, and "
+                     "the Buddha"),
+        ("Form", "A narrated visit to a rival hermitage, a deliberately withheld "
+                 "reaction, and a direct question brought back to the Buddha for "
+                 "resolution"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Debates over whether spiritual attainment can be measured "
+                              "by years of practice recur across the Chinese Āgamas' "
+                              "polemic against rival ascetic traditions; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a narrative discourse "
+                       "rejecting a fixed-year rule in favor of content already given in "
+                       "full at AN 7.20"),
+    ],
+    why=(
+        "AN 7.42 stages a direct confrontation between two accounts of spiritual "
+        "maturity: wanderers of other religions claim that anyone who lives the "
+        "spiritual life a full twelve years is qualified to be called a "
+        "&ldquo;graduate.&rdquo; Sāriputta, hearing this, neither approves nor "
+        "disputes it on the spot, but brings the question directly to the Buddha, who "
+        "rejects the premise outright and restates the seven qualifications for "
+        "graduation already given in full at AN 7.20."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant cannot be called a &ldquo;graduate&rdquo; solely for having "
+            "completed a fixed number of years; the same seven qualifications for "
+            "graduation already given at AN 7.20 are what actually qualify someone, "
+            "whether that takes twelve, twenty-four, thirty-six, or forty-eight years."]),
+        ("Deliberate restraint before an outside claim", [
+            "Sāriputta's response to the wanderers' twelve-year rule is notably "
+            "careful: he &ldquo;neither approved nor rejected&rdquo; the statement on "
+            "the spot, choosing instead to verify it against the Buddha's own teaching "
+            "before forming a judgment &mdash; a model of not reacting to an unfamiliar "
+            "claim until its source has been properly checked."]),
+        ("The Buddha's answer reuses AN 7.20's content exactly", [
+            "Checked term by term, the seven qualifications the Buddha gives here are "
+            "identical to AN 7.20's own list: keen enthusiasm sustained toward the "
+            "training, examining the teachings, getting rid of desires, retreat, "
+            "energy, mindfulness and alertness, and theoretical penetration, each "
+            "qualified by not losing that enthusiasm in the future."]),
+        ("Years as a possible outcome, never the qualifying cause", [
+            "The Buddha's closing lines name several possible durations &mdash; twelve, "
+            "twenty-four, thirty-six, or forty-eight years &mdash; explicitly as "
+            "however long graduation might in fact take for a given individual, not as "
+            "a fixed threshold anyone automatically crosses. Duration becomes a "
+            "consequence of these seven qualities' presence, not their substitute."]),
+    ],
+    terms=[
+        ("aññatitthiyā paribbājakā",
+         "&ldquo;wanderers of other religions&rdquo; &mdash; the rival ascetic "
+         "practitioners whose fixed-year claim Sāriputta hears and questions."),
+        ("dvādasavassāni",
+         "&ldquo;twelve years&rdquo; &mdash; the wanderers' claimed threshold for "
+         "graduate status, rejected as a sufficient criterion on its own."),
+        ("niddasavatthu",
+         "&ldquo;qualifications for graduation&rdquo; &mdash; this discourse's own "
+         "central term, identical to AN 7.20's, naming actual criteria rather than "
+         "elapsed time."),
+        ("sāmaṁ paccakkhāya",
+         "&ldquo;after realizing them with my own insight&rdquo; &mdash; the Buddha's "
+         "own stated basis for these seven qualifications, distinguishing them from an "
+         "arbitrary convention like a fixed year-count."),
+        ("dvādasa vā vassāni catucattārīsaṁ vā vassāni",
+         "&ldquo;twelve years... or forty-eight years&rdquo; &mdash; the range of "
+         "durations the Buddha names as possible outcomes, never as the qualifying "
+         "cause itself."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta's visit to a sectarian hermitage, his question "
+        "to the Buddha, and the Buddha's rejection of a fixed-year rule. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta hears the wanderers' claim"),
+        ("p", "&sect;1", "an7.42:1.1-2.4"),
+        ("h3", "Sāriputta questions the Buddha"),
+        ("p", "&sect;2", "an7.42:3.1-4.2"),
+        ("h3", "The Buddha's answer: seven qualifications, not a fixed year-count"),
+        ("p", "&sect;3", "an7.42:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "What claim do the wanderers of other religions make, that Sāriputta hears "
+              "at their hermitage?",
+         "opts": [
+             "That no one can ever become a graduate",
+             "That anyone who lives the spiritual life a full twelve years is qualified "
+             "to be called a 'graduate'",
+             "That only the Buddha himself can graduate",
+             "That graduation requires exactly one hundred years"],
+         "correct": 1,
+         "expl": "A fixed-duration criterion the Buddha will go on to reject."},
+        {"q": "How does Sāriputta respond to this claim on the spot, according to the "
+              "guide?",
+         "opts": [
+             "He immediately agrees with it",
+             "He neither approves nor rejects it, choosing to verify it against the "
+             "Buddha's own teaching before forming a judgment",
+             "He immediately and publicly refutes it",
+             "He ignores the wanderers entirely and leaves without a word"],
+         "correct": 1,
+         "expl": "Deliberate restraint before an unfamiliar claim, verified rather than "
+                 "reacted to."},
+        {"q": "How does the Buddha's answer compare to AN 7.20's content, checked term by "
+              "term?",
+         "opts": [
+             "Entirely different qualifications",
+             "Identical — the same seven qualifications for graduation already given in "
+             "full at AN 7.20",
+             "Only three of seven items overlap",
+             "The Buddha refuses to answer the question at all"],
+         "correct": 1,
+         "expl": "Content this series has already met once before, reused here to "
+                 "answer a direct challenge."},
+        {"q": "What role do the specific year-counts (twelve, twenty-four, thirty-six, "
+              "forty-eight) play in the Buddha's answer, according to the guide?",
+         "opts": [
+             "They are the actual qualifying criteria",
+             "Possible outcomes or durations, never the qualifying cause itself — a "
+             "consequence of the seven qualities' presence, not their substitute",
+             "They are dismissed as entirely irrelevant",
+             "They apply only to lay followers"],
+         "correct": 1,
+         "expl": "Duration as a possible consequence, not a threshold anyone "
+                 "automatically crosses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kosambī, at Ghosita's Monastery",
+             "Sāvatthī, in Jeta's Grove",
+             "Vesālī, at the Sārandada Shrine",
+             "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "This book's standard opening setting, distinct from AN 7.43's Kosambī "
+                 "setting."},
+        {"q": "What does <em>niddasavatthu</em> mean, and where else has it appeared in "
+              "this book?",
+         "opts": [
+             "'Fixed duration' — a new term for this discourse",
+             "'Qualifications for graduation' — the same term and content already given "
+             "in full at AN 7.20",
+             "A term unrelated to graduation",
+             "'Sectarian claim' — describing only the wanderers' position"],
+         "correct": 1,
+         "expl": "This discourse's central term, reused word for word from AN 7.20."},
+    ],
+    marginalia=[
+        ("A rival claim challenged", [
+            "'twelve years qualifies",
+            "anyone as a graduate' —",
+            "the wanderers' fixed rule",
+        ]),
+        ("Restraint, then verification", [
+            "Sāriputta neither",
+            "approves nor rejects —",
+            "checks with the Buddha first",
+        ]),
+        ("AN 7.20's content, reused", [
+            "the same seven",
+            "qualifications, now",
+            "answering a direct challenge",
+        ]),
+        ("Cross-references", [
+            "AN 7.20 &middot; earlier, this discourse's seven qualifications given in "
+            "full",
+            "AN 7.43 &middot; next, the same narrative structure, different content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.42/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.20.html">AN 7.20 &middot; Qualifications for Graduation</a> '
+        "&mdash; earlier, this discourse's seven qualifications given in full.",
+        '<a href="an-7.43.html">AN 7.43 &middot; Graduation (2nd)</a> &mdash; next, the '
+        "same narrative structure with a genuinely different answer.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.43 — Dutiyaniddasasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, "Dutiyaniddasa", "Graduation (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 7.43 — Graduation (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaniddasasutta, closing this chapter as Ānanda repeats Sāriputta's "
+        "question, but the Buddha answers with AN 7.25's seven qualities rather than AN "
+        "7.20's list. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, at Ghosita's Monastery; Ānanda visits a sectarian "
+                    "hermitage before returning to question the Buddha, echoing AN "
+                    "7.42's narrative but in a different city"),
+        ("Speakers", "Wanderers of other religions (reported), Venerable Ānanda, and the "
+                     "Buddha"),
+        ("Form", "The identical narrative structure as AN 7.42, with a different named "
+                 "questioner, setting, and closing answer"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The repetition of a narrative structure with two "
+                              "different senior disciples recurs across the Chinese "
+                              "Āgamas' treatment of the same underlying question; this "
+                              "reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the same narrative "
+                       "shape as AN 7.42, worth checking whether the Buddha's actual "
+                       "answer is identical or genuinely different"),
+    ],
+    why=(
+        "AN 7.43 closes this chapter with a narrative matching AN 7.42's shape almost "
+        "exactly &mdash; a senior disciple visits a sectarian hermitage, hears the same "
+        "twelve-year claim, brings it to the Buddha &mdash; but checked term by term, "
+        "the Buddha's actual answer here is not AN 7.42's seven qualifications from AN "
+        "7.20. It is instead the seven personal qualities already met at AN 7.25: "
+        "faithful, conscientious, prudent, learned, energetic, mindful, and wise."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant cannot be called a &ldquo;graduate&rdquo; solely for having "
+            "completed a fixed number of years; being faithful, conscientious, "
+            "prudent, learned, energetic, mindful, and wise is what actually "
+            "qualifies someone, whether that takes twelve, twenty-four, thirty-six, or "
+            "forty-eight years."]),
+        ("The same frame, a genuinely different answer", [
+            "Ānanda's visit to Ghosita's Monastery at Kosambī, his restraint before the "
+            "wanderers' claim, and his question to the Buddha all mirror AN 7.42's "
+            "structure precisely. What changes is the Buddha's actual answer: not the "
+            "niddasavatthu list reused from AN 7.20, but the personal-quality list "
+            "already met at AN 7.25 &mdash; a shared narrative shell around two "
+            "genuinely different specific teachings."]),
+        ("Two disciples, two settings, two answers", [
+            "AN 7.42 features Sāriputta at Sāvatthī, answered with AN 7.20's content; "
+            "this discourse features Ānanda at Kosambī, answered with AN 7.25's content "
+            "&mdash; a matched pair distinguished by disciple, city, and answer alike, "
+            "not merely a single detail changed."]),
+        ("Closing this chapter, and this book's opening structural device", [
+            "This discourse closes Devatāvagga on the same note AN 7.42 opened it with: "
+            "a rejection of counting years as a substitute for actual qualities, "
+            "restated with a second complete list, confirming that this book's several "
+            "sevenfold formulas for graduation, wealth, power, and non-decline all "
+            "circle back to closely related clusters of the same underlying virtues."]),
+    ],
+    terms=[
+        ("Ānanda",
+         "the Buddha's attendant, here playing the role Sāriputta played at AN 7.42, "
+         "questioning the same sectarian claim in a different city."),
+        ("Kosambī, Ghositārāma",
+         "&ldquo;Kosambī, Ghosita's Monastery&rdquo; &mdash; this discourse's setting, "
+         "distinct from AN 7.42's Sāvatthī."),
+        ("saddha, hirimā, ottappī, bahussuta, āraddhavīriya, satimā, paññavā",
+         "&ldquo;faithful, conscientious, prudent, learned, energetic, mindful, "
+         "wise&rdquo; &mdash; the seven qualities the Buddha names here, identical to "
+         "AN 7.25's own list rather than AN 7.42's niddasavatthu."),
+        ("niddasavatthu",
+         "&ldquo;qualifications for graduation&rdquo; &mdash; AN 7.42's own answer, "
+         "notably absent from this discourse despite the shared narrative frame."),
+        ("dvādasa vā vassāni... catucattārīsaṁ vā vassāni",
+         "the same range of possible durations already named at AN 7.42, closing this "
+         "discourse identically despite its different specific answer."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's visit to a sectarian hermitage, his question to "
+        "the Buddha, and the Buddha's answer, drawing on a different seven-item list "
+        "than AN 7.42's. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and Ānanda hears the wanderers' claim"),
+        ("p", "&sect;1", "an7.43:1.1-2.2"),
+        ("h3", "Ānanda questions the Buddha"),
+        ("p", "&sect;2", "an7.43:3.1-6.2"),
+        ("h3", "The Buddha's answer: seven qualities, not a fixed year-count"),
+        ("p", "&sect;3", "an7.43:7.1-8.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's narrative shape compare to AN 7.42's?",
+         "opts": [
+             "Entirely different narrative",
+             "Nearly identical — a senior disciple visits a sectarian hermitage, hears "
+             "the same twelve-year claim, and brings it to the Buddha",
+             "This discourse has no narrative frame at all",
+             "The two discourses share no similarity whatsoever"],
+         "correct": 1,
+         "expl": "The same structural shell, with several specific details changed."},
+        {"q": "What seven qualities does the Buddha actually name here, checked against "
+              "AN 7.42's answer?",
+         "opts": [
+             "The identical niddasavatthu list from AN 7.20, reused word for word",
+             "A genuinely different list — faithful, conscientious, prudent, learned, "
+             "energetic, mindful, and wise — matching AN 7.25 instead",
+             "No specific qualities are named at all",
+             "The five spiritual faculties only"],
+         "correct": 1,
+         "expl": "A different specific teaching despite the shared narrative frame."},
+        {"q": "What details distinguish this discourse from AN 7.42 beyond the Buddha's "
+              "answer, according to the guide?",
+         "opts": [
+             "Nothing else differs",
+             "The named disciple (Ānanda rather than Sāriputta) and the setting (Kosambī "
+             "rather than Sāvatthī)",
+             "Only the setting differs; the disciple is identical",
+             "Only the disciple differs; the setting is identical"],
+         "correct": 1,
+         "expl": "A matched pair differing in disciple, city, and answer together."},
+        {"q": "What does the guide say this discourse confirms about this book's several "
+              "sevenfold formulas?",
+         "opts": [
+             "That they are all entirely unrelated to each other",
+             "That formulas for graduation, wealth, power, and non-decline circle back "
+             "to closely related clusters of the same underlying virtues",
+             "That only one sevenfold formula is ever actually valid",
+             "That this book contains no repeated themes at all"],
+         "correct": 1,
+         "expl": "A closing note connecting this chapter to this book's recurring "
+                 "vocabulary of virtues."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Kosambī, at Ghosita's Monastery", "Vesālī, at the Sārandada Shrine", "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "A setting distinct from AN 7.42's Sāvatthī, in a discourse otherwise "
+                 "matching its structure."},
+        {"q": "What earlier discourse's content does the Buddha's answer here match "
+              "exactly?",
+         "opts": ["AN 7.20", "AN 7.25", "AN 7.5", "AN 7.36"],
+         "correct": 1,
+         "expl": "The seven personal qualities already given at AN 7.25 earlier in this "
+                 "book."},
+    ],
+    marginalia=[
+        ("The same challenge, again", [
+            "Ānanda hears the",
+            "wanderers' twelve-year",
+            "claim, at Kosambī this time",
+        ]),
+        ("A different answer", [
+            "not AN 7.20's list —",
+            "AN 7.25's seven",
+            "personal qualities instead",
+        ]),
+        ("A matched pair, three changes", [
+            "different disciple,",
+            "different city,",
+            "different specific answer",
+        ]),
+        ("Cross-references", [
+            "AN 7.42 &middot; previous, this discourse's near-identical narrative "
+            "companion",
+            "AN 7.25 &middot; earlier, source of this discourse's actual seven "
+            "qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.43/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.42.html">AN 7.42 &middot; Graduation (1st)</a> &mdash; previous, '
+        "this discourse's near-identical narrative companion.",
+        '<a href="an-7.25.html">AN 7.25 &middot; Non-Decline for Mendicants (3rd)</a> '
+        "&mdash; earlier, source of this discourse's actual seven qualities.",
+    ],
+)
+
