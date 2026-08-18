@@ -17672,3 +17672,470 @@ page(
         "&mdash; previous.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.10 Āhuneyyavagga (AN 7.95-614) begins here -- the first of AN 7's two
+# megachapters. AN 7.95 is an independent bilara-data file; AN 7.96-614 (519
+# discourses) is a single merged peyyāla file, handled below per the
+# established an5.308-1152/an6.170-649 precedent: PAGES.append({...}) with a
+# plain dict, not the page() helper, since the slug is not purely numeric.
+#
+# AN 7.95's own sevenfold typology is NOT identical to AN 7.55's: AN 7.55
+# splits antarāparinibbāyī into three graded sub-types (7 total with
+# arahantship counted separately); AN 7.95 counts antarāparinibbāyī as ONE
+# type and adds arahantship-in-this-life plus a "defilements and life end
+# together" type at the top (7 total: 2 + the traditional 5 non-returner
+# grades). Worth not conflating the two "sevens".
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Āhuneyyavagga</em> &mdash; the tenth chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.95 — (untitled root; Sujato: Observing Impermanence in the Eye)
+# --------------------------------------------------------------------------- #
+page(
+    95, "Aniccānupassī", "Observing Impermanence in the Eye",
+    vagga=VAGGA_10,
+    meta_title="AN 7.95 — Observing Impermanence in the Eye | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN "
+        "7.95, opening AN 7's largest chapter with seven individuals "
+        "worthy of offerings, sorted by how observing impermanence in the "
+        "eye culminates. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare sevenfold typology, the first of what becomes an "
+                 "enormous peyyāla spanning the rest of this chapter"),
+        ("Length", "~2 minutes to read"),
+        ("Not AN 7.55's typology", "This discourse's seven individuals "
+                                   "differ from AN 7.55's seven non-"
+                                   "returner destinies: here "
+                                   "antarāparinibbāyī counts as a single "
+                                   "type rather than three graded "
+                                   "sub-types, with arahantship-in-this-"
+                                   "life and a &ldquo;defilements and life "
+                                   "end together&rdquo; type filling the "
+                                   "remaining two slots"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a chapter whose remaining 519 discourses "
+                       "will multiply this discourse's own practice "
+                       "against many further objects and characteristics"),
+    ],
+    why=(
+        "AN 7.95 opens AN 7's largest chapter by naming seven individuals "
+        "worthy of offerings, sorted by how far someone who meditates "
+        "observing impermanence in the eye actually gets &mdash; from "
+        "full arahantship in this very life down through five traditional "
+        "grades of non-return &mdash; and its single practice, observing "
+        "impermanence in the eye, is what the chapter's remaining 519 "
+        "discourses will multiply against dozens of further objects and "
+        "seven further characteristics."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven individuals are worthy of offerings, hospitality, "
+            "religious donation, and veneration, distinguished entirely "
+            "by how far their practice of observing impermanence in the "
+            "eye &mdash; constantly, continually, and without interruption "
+            "&mdash; actually carries them, from complete arahantship down "
+            "through five recognized grades of non-return."]),
+        ("One practice, sorted into seven possible outcomes", [
+            "Every one of the seven individuals shares the identical "
+            "starting practice: meditating observing impermanence in the "
+            "eye, perceiving and experiencing impermanence there "
+            "constantly and without interruption, applying the mind and "
+            "fathoming with wisdom. What differs between the seven is "
+            "purely how far that single practice actually reaches."]),
+        ("The first two: arahantship now, or exactly at death", [
+            "The first individual realizes undefiled freedom of heart and "
+            "wisdom in this very life &mdash; full arahantship, reached "
+            "while still alive. The second reaches the identical freedom, "
+            "but at the exact moment defilements end and life ends "
+            "together, rather than living on afterward with that freedom "
+            "already realized."]),
+        ("The remaining five: traditional grades of non-return", [
+            "The third through seventh individuals are the five "
+            "traditional non-returner types this book has met before at "
+            "AN 7.55, though counted somewhat differently here: extinguished "
+            "between one life and the next (counted as a single type "
+            "rather than AN 7.55's three graded sub-types), extinguished "
+            "upon landing, extinguished without extra effort, extinguished "
+            "with extra effort, and heading upstream to the Akaniṭṭha "
+            "realm."]),
+        ("A single object, opening a chapter of enormous scale", [
+            "This discourse treats only one object (the eye) and one "
+            "characteristic (impermanence). The chapter's remaining 519 "
+            "discourses, compressed into a single following page, run "
+            "this exact same sevenfold analysis against dozens of further "
+            "objects &mdash; the other five sense faculties, their "
+            "objects, the six consciousnesses, contacts, feelings, "
+            "perceptions, intentions, cravings, thoughts, considerations, "
+            "and the five aggregates &mdash; crossed against seven further "
+            "characteristics beyond impermanence itself."]),
+    ],
+    terms=[
+        ("āhuneyyā, pāhuneyyā, dakkhiṇeyyā, añjalikaraṇīyā, anuttaraṁ "
+         "puññakkhettaṁ",
+         "&ldquo;worthy of offerings dedicated to the gods, worthy of "
+         "hospitality, worthy of a religious donation, worthy of "
+         "greeting with cupped palms, and the supreme field of merit"
+         "&rdquo; &mdash; the standing description applied to all seven "
+         "individuals, and this chapter's own title-phrase."),
+        ("cakkhusmiṁ aniccānupassī viharati",
+         "&ldquo;meditates observing impermanence in the eye&rdquo; "
+         "&mdash; the single shared practice all seven individuals "
+         "begin from, and the seed of the entire chapter's coming "
+         "expansion."),
+        ("āsavapariyādānañca hoti jīvitapariyādānañca",
+         "&ldquo;their defilements and their life come to an end at "
+         "exactly the same time&rdquo; &mdash; the second individual's "
+         "distinctive outcome, arahantship reached at the moment of "
+         "death rather than lived with afterward."),
+        ("antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī, "
+         "sasaṅkhāraparinibbāyī, uddhaṁsoto akaniṭṭhagāmī",
+         "the five traditional non-returner grades filling the third "
+         "through seventh slots, already met in more elaborated form at "
+         "AN 7.55."),
+        ("peyyāla",
+         "the abbreviation convention this discourse's remaining chapter "
+         "relies on at massive scale, letting a single formula stand for "
+         "hundreds of individually numbered discourses without "
+         "restating each one in full."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven individuals, sorted by how far "
+        "observing impermanence in the eye actually carries them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven individuals worthy of offerings, introduced"),
+        ("p", "&sect;1", "an7.95:1.1-1.2"),
+        ("h3", "The first: arahantship in this very life"),
+        ("p", "&sect;2", "an7.95:1.3-1.5"),
+        ("h3", "The second: defilements and life ending together"),
+        ("p", "&sect;3", "an7.95:2.1-2.3"),
+        ("h3", "The third through seventh: five grades of non-return"),
+        ("p", "&sect;4", "an7.95:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "What single practice do all seven individuals in this "
+              "discourse share as their starting point?",
+         "opts": [
+             "Loving-kindness meditation",
+             "Meditating observing impermanence in the eye, constantly "
+             "and without interruption",
+             "Reciting the monastic code",
+             "Giving generously to the Saṅgha"],
+         "correct": 1,
+         "expl": "One shared practice, sorted into seven possible "
+                 "outcomes by how far it carries each individual."},
+        {"q": "What distinguishes the second individual from the first?",
+         "opts": [
+             "The second individual fails to attain anything",
+             "The second reaches the identical freedom, but exactly when "
+             "defilements and life end together, rather than living on "
+             "afterward",
+             "The second individual is reborn as a deity instead",
+             "There is no difference between them"],
+         "correct": 1,
+         "expl": "Arahantship reached at the moment of death, rather than "
+                 "realized and then lived with."},
+        {"q": "According to the guide, how does this discourse's sevenfold "
+              "typology differ from AN 7.55's?",
+         "opts": [
+             "They are identical in every respect",
+             "AN 7.95 counts antarāparinibbāyī as a single type rather "
+             "than AN 7.55's three graded sub-types, filling the "
+             "remaining slots with arahantship-now and simultaneous-"
+             "ending instead",
+             "AN 7.95 has no non-returner types at all",
+             "AN 7.55 does not mention non-returners"],
+         "correct": 1,
+         "expl": "Two related but distinct sevenfold breakdowns, worth "
+                 "not conflating."},
+        {"q": "What does this discourse's remaining chapter do with its "
+              "single object and characteristic (the eye, impermanence)?",
+         "opts": [
+             "Nothing further; the chapter ends here",
+             "Multiplies the same sevenfold analysis against dozens of "
+             "further objects and seven further characteristics, "
+             "compressed into one following page",
+             "Contradicts this discourse's own analysis",
+             "Repeats this exact discourse without variation"],
+         "correct": 1,
+         "expl": "The seed of an enormous combinatorial expansion covering "
+                 "519 further discourses."},
+        {"q": "What five traditional grades fill the third through seventh "
+              "slots?",
+         "opts": [
+             "The five lower fetters",
+             "The five non-returner grades: antarāparinibbāyī, "
+             "upahaccaparinibbāyī, asaṅkhāraparinibbāyī, "
+             "sasaṅkhāraparinibbāyī, and heading upstream to Akaniṭṭha",
+             "The five spiritual faculties",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "The traditional non-returner typology, already met in "
+                 "more elaborated form at AN 7.55."},
+        {"q": "What are all seven individuals in this discourse called?",
+         "opts": [
+             "Wheel-turning monarchs",
+             "Worthy of offerings, hospitality, religious donation, and "
+             "veneration — the supreme field of merit for the world",
+             "Bodhisattvas",
+             "Ordinary lay followers"],
+         "correct": 1,
+         "expl": "This chapter's own title-phrase, applied to all seven "
+                 "individuals alike."},
+    ],
+    marginalia=[
+        ("One practice, seven outcomes", [
+            "observing impermanence",
+            "in the eye alone —",
+            "sorted by how far it carries",
+        ]),
+        ("Not quite AN 7.55's seven", [
+            "antarā counted once here,",
+            "not three graded types —",
+            "two different sevens, worth distinguishing",
+        ]),
+        ("The seed of a vast expansion", [
+            "one object, one trait —",
+            "the next page multiplies this",
+            "across hundreds of further discourses",
+        ]),
+        ("Cross-references", [
+            "AN 7.94 &middot; earlier, closing the previous chapter",
+            "AN 7.55 &middot; earlier, this book's other, differently "
+            "structured seven-type non-returner typology",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.95/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.94.html">AN 7.94 &middot; Good Qualities</a> '
+        "&mdash; previous, closing the previous chapter.",
+        '<a href="an-7.55.html">AN 7.55 &middot; Places People Are '
+        "Reborn</a> &mdash; earlier, this book's other, differently "
+        "structured non-returner typology.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.96-614 — closing ch.10 Āhuneyyavagga. Per the standing lesson from AN
+# 7.20 (see the note above ch.3): the `further` list below points only
+# backward, never forward to AN 7.615, since ch.11 has not been written yet.
+# The source's own closing verse (segments 13.1-16.7) gives an explicit
+# numerical count in Pali -- unusually, unlike this project's other peyyāla
+# closings, which end wordlessly -- but has no English translation in
+# bilara-data, so it is discussed in the guide rather than quoted in the text
+# block. SuttaCentral catalogs this range as AN 7.96-614; the verse's own
+# arithmetic gives 528 as the chapter's total sutta count, a minor
+# editorial-vs-source discrepancy noted honestly rather than forced to
+# reconcile.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-7.96-614",
+    "index_pali": "Dukkhādi",
+    "nav_title": "Observing Suffering in the Eye, and So On",
+    "source": "an7/an7.96-614",
+    "crumb": "AN 7.96&ndash;614",
+    "meta_title": "AN 7.96–614 — Observing Suffering in the Eye, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for this chapter's "
+        "closing block, compressing several hundred discourses into one formula: seven "
+        "further characteristics, run across dozens of objects from the six senses "
+        "through the five aggregates. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 7.96&ndash;614",
+    "title": "Observing Suffering in the Eye, and So On",
+    "subtitle": "<em>Āhuneyyavagga</em>, continued &mdash; closing the tenth chapter of the Sevens",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One formula, cross-multiplying seven further characteristics against "
+                 "dozens of objects &mdash; the five remaining senses, their objects, "
+                 "consciousnesses, contacts, feelings, perceptions, intentions, cravings, "
+                 "thoughts, considerations, and the five aggregates &mdash; representing "
+                 "several hundred individually numbered discourses"),
+        ("Length", "~3 minutes to read"),
+        ("An unusual closing verse", "This block's own closing verse, in the source Pali, "
+                                     "gives an explicit numerical count of its total "
+                                     "discourses &mdash; unlike this project's other "
+                                     "peyyāla closings, which simply end &mdash; but it "
+                                     "has no English translation in the source data, so "
+                                     "this reading guide discusses rather than quotes it"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a large combinatorial "
+                       "block, easier to follow by tracking the two axes (objects, "
+                       "characteristics) than by trying to hold every individual "
+                       "combination in mind at once"),
+    ],
+    "why": (
+        "AN 7.96&ndash;614 takes AN 7.95's single practice &mdash; observing impermanence "
+        "in the eye, sorted into seven types of individual worthy of offerings &mdash; and "
+        "multiplies it across seven further characteristics and dozens of further objects, "
+        "compressing what would be several hundred individually numbered discourses into "
+        "one formula, closing this chapter."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same sevenfold typology of individuals worthy of offerings that AN 7.95 "
+            "built from observing impermanence in the eye is run again for suffering, "
+            "not-self, ending, vanishing, fading away, cessation, and letting go, and "
+            "again for the eye's five sibling senses, their objects, and a long further "
+            "list of mental factors and the five aggregates &mdash; the identical "
+            "sevenfold outcome structure, multiplied across an enormous field of possible "
+            "objects and characteristics."]),
+        ("Seven further characteristics, beyond impermanence itself", [
+            "Where AN 7.95 addressed only impermanence, this block adds suffering, "
+            "not-self, ending, vanishing, fading away, cessation, and letting go &mdash; "
+            "seven further ways of observing the same objects, each triggering the "
+            "identical sevenfold sorting of individuals into arahantship-now, "
+            "simultaneous-ending, and the five non-returner grades."]),
+        ("Dozens of objects, moving outward from the senses", [
+            "The formula moves through the eye's five sibling senses (ear, nose, tongue, "
+            "body, mind), their six objects (sights, sounds, smells, tastes, touches, "
+            "ideas), the six consciousnesses, six contacts, six feelings born of contact, "
+            "six perceptions, six intentions, six cravings, six thoughts, and six "
+            "considerations &mdash; ten categories of six items each &mdash; before "
+            "closing on the five aggregates, both as a whole and individually."]),
+        ("An unusually explicit closing count", [
+            "Most of this project's peyyāla closings end with a bare chapter-closing "
+            "colophon and nothing more. This block's own closing verse is different: it "
+            "gives an explicit numerical accounting of its own scope in Pali verse, "
+            "naming a total sutta count for the chapter. That verse has no English "
+            "translation in the source data this project draws on, so its precise "
+            "arithmetic is not quoted in the text below &mdash; but its presence at all is "
+            "itself notable, a rare case of a compressed block counting itself out loud "
+            "rather than simply trailing off."]),
+        ("A range and a count that do not quite match, noted honestly", [
+            "SuttaCentral catalogs this block's span as AN 7.96&ndash;614, roughly 519 "
+            "discourses; the closing verse's own Pali arithmetic yields a total of 528 for "
+            "the chapter as a whole. This reading guide notes the discrepancy honestly "
+            "rather than forcing the two figures to reconcile &mdash; a difference likely "
+            "owed to how editorial sutta-numbering and the source's own internal count "
+            "draw their boundaries slightly differently, not to any error in either "
+            "figure."]),
+    ],
+    "terms": [
+        ("dukkhānupassī, anattānupassī",
+         "&ldquo;observing suffering&rdquo;, &ldquo;observing not-self&rdquo; &mdash; the "
+         "second and third of the seven further characteristics this block adds to AN "
+         "7.95's impermanence."),
+        ("khayānupassī, vayānupassī, virāgānupassī, nirodhānupassī, paṭinissaggānupassī",
+         "&ldquo;observing ending, vanishing, fading away, cessation, letting go&rdquo; "
+         "&mdash; the remaining five characteristics, completing the set of seven."),
+        ("cakkhu, sota, ghāna, jivhā, kāya, mano",
+         "&ldquo;eye, ear, nose, tongue, body, mind&rdquo; &mdash; the six sense faculties, "
+         "the first object-category this block's formula runs through."),
+        ("pañcakkhandhā",
+         "&ldquo;the five aggregates&rdquo; &mdash; form, feeling, perception, choices, "
+         "and consciousness, the closing object-category of this block's formula."),
+        ("āhuneyyā... anuttaraṁ puññakkhettaṁ lokassa",
+         "&ldquo;worthy of offerings... the supreme field of merit for the world&rdquo; "
+         "&mdash; the standing description repeated for every one of the seven "
+         "individuals across every combination this block represents."),
+    ],
+    "text_intro": (
+        "The formula as the source presents it, running the seven further characteristics "
+        "across the six sense doors and their many associated factors, then the five "
+        "aggregates. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The eye, and the six further sense doors"),
+        ("p", "&sect;1", "an7.96-614:1.1-6.6"),
+        ("h3", "Mental factors and the five aggregates, completing the formula"),
+        ("p", "&sect;2", "an7.96-614:7.1-12.13"),
+    ],
+    "quiz": [
+        {"q": "What does this block add to AN 7.95's single characteristic, impermanence?",
+         "opts": [
+             "Nothing; it repeats AN 7.95 unchanged",
+             "Seven further characteristics: suffering, not-self, ending, vanishing, "
+             "fading away, cessation, and letting go",
+             "A single additional characteristic only",
+             "An entirely different sevenfold typology of individuals"],
+         "correct": 1,
+         "expl": "The identical sevenfold outcome structure, now triggered by seven "
+                 "further ways of observing the same objects."},
+        {"q": "Besides the senses and their objects, what other categories does this "
+              "block's formula run through?",
+         "opts": [
+             "Only the five aggregates",
+             "The six consciousnesses, contacts, feelings, perceptions, intentions, "
+             "cravings, thoughts, and considerations, then the five aggregates",
+             "Only the four absorptions",
+             "The seven awakening factors"],
+         "correct": 1,
+         "expl": "Ten categories of six items each, closing on the five aggregates."},
+        {"q": "According to the guide, what is unusual about this block's own closing "
+              "verse compared to this project's other peyyāla closings?",
+         "opts": [
+             "It simply trails off with no further content, like the others",
+             "It gives an explicit numerical accounting of the chapter's total sutta "
+             "count in Pali verse, though untranslated in the source data used here",
+             "It is written in a different language entirely",
+             "It contradicts everything stated earlier in the chapter"],
+         "correct": 1,
+         "expl": "A rare case of a compressed block counting itself out loud, though its "
+                 "precise arithmetic isn't quoted here since no English translation exists "
+                 "for it."},
+        {"q": "What discrepancy does the guide note honestly rather than forcing to "
+              "reconcile?",
+         "opts": [
+             "No discrepancy exists",
+             "SuttaCentral's cataloged range (roughly 519 discourses) versus the closing "
+             "verse's own arithmetic (528 total)",
+             "A contradiction between AN 7.95 and this block's content",
+             "A missing chapter number"],
+         "correct": 1,
+         "expl": "A minor difference likely owed to how editorial numbering and the "
+                 "source's own internal count draw boundaries slightly differently."},
+        {"q": "What description is repeated for every one of the seven individuals across "
+              "every combination in this block?",
+         "opts": [
+             "Wheel-turning monarch",
+             "Worthy of offerings, hospitality, religious donation, and veneration — the "
+             "supreme field of merit for the world",
+             "Freed both ways",
+             "Knower of assemblies"],
+         "correct": 1,
+         "expl": "The same standing description this chapter opened with at AN 7.95, "
+                 "repeated across the entire expansion."},
+        {"q": "What chapter does this block close?",
+         "opts": [
+             "Vinayavagga",
+             "Āhuneyyavagga, the tenth chapter of the Sevens",
+             "Mahāvagga",
+             "Samaṇavagga"],
+         "correct": 1,
+         "expl": "The first of AN 7's two remaining megachapters, now complete."},
+    ],
+    "marginalia": [
+        ("Seven more characteristics", [
+            "suffering, not-self, ending,",
+            "vanishing, fading away,",
+            "cessation, letting go",
+        ]),
+        ("Ten categories, six each", [
+            "senses, objects, consciousness,",
+            "contact, feeling, perception,",
+            "intention, craving, thought, consideration",
+        ]),
+        ("A verse that counts itself", [
+            "unlike other closings here,",
+            "this one states a total —",
+            "untranslated, but present",
+        ]),
+        ("528 or 519?", [
+            "the verse says 528;",
+            "SuttaCentral catalogs 519 —",
+            "noted honestly, not forced to match",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an7.96-614/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.95.html">AN 7.95 &middot; Observing Impermanence in the Eye</a> '
+        "&mdash; previous, this block's single-object, single-characteristic seed.",
+    ],
+})
