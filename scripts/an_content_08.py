@@ -3975,3 +3975,1816 @@ page(
         "same chapter.",
     ],
 )
+
+
+VAGGA_3 = "<em>Gahapativagga</em> &mdash; the third chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.21 — Uggasutta (Vesālī) — opens ch.3 Gahapativagga
+# --------------------------------------------------------------------------- #
+page(
+    21, "Ugga", "With Ugga of Vesālī",
+    vagga=VAGGA_3,
+    meta_title="AN 8.21 — With Ugga of Vesālī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Uggasutta, opening a new chapter of lay-follower portraits: the "
+        "householder Ugga of Vesālī describes, in his own words, the eight "
+        "amazing qualities the Buddha praised him for. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked "
+                    "roof"),
+        ("Speakers", "The Buddha, an unnamed mendicant, and the householder "
+                     "Ugga of Vesālī, relayed through a messenger structure"),
+        ("Form", "The Buddha names a praise without explaining it, a "
+                 "mendicant investigates, and the householder himself "
+                 "supplies and numbers his own eight qualities in first "
+                 "person"),
+        ("Length", "~4 minutes to read"),
+        ("A new chapter, a new register", "This opens Gahapativagga, the "
+                                          "Chapter on Householders, "
+                                          "beginning a run of discourses "
+                                          "praising named lay disciples "
+                                          "rather than teaching doctrine "
+                                          "directly to mendicants"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "relay narrative with a first-person list embedded "
+                       "inside it"),
+    ],
+    why=(
+        "The Buddha tells the mendicants that the householder Ugga of "
+        "Vesālī has eight amazing qualities, without saying what they are, "
+        "then leaves; a mendicant goes to ask Ugga directly, and Ugga "
+        "&mdash; not knowing what the Buddha meant either &mdash; supplies "
+        "his own list: being inspired at first sight of the Buddha, "
+        "stream-entry, giving away a beloved wife without regret, "
+        "unreserved generosity, careful reverence, attentive listening, "
+        "composure around visiting deities, and having already given up "
+        "the five lower fetters."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ugga of Vesālī's eight amazing qualities &mdash; inspired at "
+            "first sight, converted through the graduated teaching, giving "
+            "away a beloved wife without regret, unreserved generosity, "
+            "careful homage and listening, composure before visiting "
+            "deities, and freedom from the five lower fetters &mdash; turn "
+            "out to be exactly what Ugga himself lists, unprompted, when "
+            "asked what the Buddha might have meant."]),
+        ("A relay, not a direct teaching", [
+            "The Buddha names Ugga's praiseworthy qualities but withholds "
+            "their content and immediately withdraws. It falls to an "
+            "unnamed mendicant, and then to Ugga himself, to fill in what "
+            "the Buddha left unsaid &mdash; a structure this chapter will "
+            "repeat with other named householders."]),
+        ("Freedom that doesn't announce itself", [
+            "The eighth and final quality Ugga names is striking for its "
+            "confidence: of the five lower fetters, he says, he doesn't see "
+            "any that he hasn't given up &mdash; a direct claim to the "
+            "attainment of non-return, stated plainly by a layperson still "
+            "living a full householder's life."]),
+        ("Composure before both people and deities", [
+            "Two of Ugga's eight qualities describe emotional evenness under "
+            "circumstances that might unsettle most people: giving away a "
+            "cherished young wife without any recorded upset, and receiving "
+            "visits from deities who confirm the Buddha's teaching without "
+            "being swept up in the excitement of the visit itself."]),
+    ],
+    terms=[
+        ("acchariyabbhutadhammā",
+         "&ldquo;amazing and incredible qualities&rdquo; &mdash; the "
+         "standing phrase applied to Ugga and to every householder praised "
+         "in this new chapter."),
+        ("virajaṁ vītamalaṁ dhammacakkhuṁ udapādi",
+         "&ldquo;the stainless, immaculate vision of the Dhamma arose&rdquo; "
+         "&mdash; Ugga's own moment of stream-entry, following the same "
+         "graduated teaching met at AN 8.12 for General Sīha."),
+        ("pañcasu orambhāgiyesu saṁyojanesu",
+         "&ldquo;of the five lower fetters&rdquo; &mdash; the set Ugga "
+         "claims to have entirely given up, the mark of a non-returner."),
+        ("kalyāṇakāmo",
+         "part of Ugga's own generosity, shared &ldquo;without "
+         "reserve&rdquo; with people of good, ethical character &mdash; "
+         "generosity aimed specifically, not indiscriminately."),
+        ("sādhu sādhu, bhikkhu",
+         "&ldquo;good, good, mendicant!&rdquo; &mdash; the Buddha's own "
+         "confirmation, closing the discourse by verifying that Ugga's self-"
+         "report matches exactly what he had in mind."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's unexplained praise, and Ugga's "
+        "own account of his eight qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's unexplained praise"),
+        ("p", "&sect;1", "an8.21:1.1-2.2"),
+        ("h3", "Ugga names his own eight qualities"),
+        ("p", "&sect;2", "an8.21:3.1-10.2"),
+        ("h3", "The Buddha confirms Ugga's own account"),
+        ("p", "&sect;3", "an8.21:11.1-13.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure work?",
+         "opts": [
+             "The Buddha teaches the eight qualities directly to the "
+             "mendicants",
+             "The Buddha names a praise without explaining it, and Ugga "
+             "himself supplies and numbers his own eight qualities when "
+             "asked",
+             "Ugga refuses to discuss his own qualities",
+             "The mendicant invents the list himself"],
+         "correct": 1,
+         "expl": "A relay structure, with the householder's own first-person "
+                 "account filling in what the Buddha left unsaid."},
+        {"q": "What does Ugga claim about the five lower fetters?",
+         "opts": [
+             "That he has never heard of them",
+             "That he doesn't see any that he hasn't given up",
+             "That he plans to give them up eventually",
+             "That only monastics can give them up"],
+         "correct": 1,
+         "expl": "A direct claim to non-return, stated by a layperson still "
+                 "living a householder's life."},
+        {"q": "What does Ugga do when his eldest wife asks to be given to "
+              "another man?",
+         "opts": [
+             "He refuses her request",
+             "He arranges it himself, and doesn't recall getting upset "
+             "while doing so",
+             "He becomes angry and disowns her",
+             "He asks the Buddha to intervene"],
+         "correct": 1,
+         "expl": "One of the eight qualities: emotional evenness under "
+                 "circumstances that might unsettle most people."},
+        {"q": "What confirms that Ugga's own list matches what the Buddha "
+              "had in mind?",
+         "opts": [
+             "Nothing; the discourse leaves it unresolved",
+             "The Buddha's closing statement, verifying the mendicant's "
+             "report matches exactly",
+             "A vote among the mendicants",
+             "Ugga's own guess, later proven wrong"],
+         "correct": 1,
+         "expl": "'Good, good, mendicant!' — direct confirmation closing the "
+                 "discourse."},
+        {"q": "What chapter does this discourse open, and what does it "
+              "shift toward?",
+         "opts": [
+             "Devatāvagga, shifting toward deity visits",
+             "Gahapativagga, the Chapter on Householders, shifting toward "
+             "portraits of named lay disciples",
+             "Rāgapeyyāla, shifting toward abbreviated formulas",
+             "No chapter shift occurs"],
+         "correct": 1,
+         "expl": "A new register: praising named lay disciples rather than "
+                 "teaching doctrine directly to mendicants."},
+        {"q": "How does Ugga describe his own generosity?",
+         "opts": [
+             "Given only to his immediate family",
+             "Shared without reserve with ethical people of good character",
+             "Given only once a year",
+             "Kept entirely private"],
+         "correct": 1,
+         "expl": "The fourth of his eight self-described qualities."},
+    ],
+    marginalia=[
+        ("Eight qualities, self-reported", [
+            "inspired at first sight,",
+            "stream-entry, a wife given",
+            "without regret, generosity",
+        ]),
+        ("A relay, not a direct teaching", [
+            "the Buddha names, withholds —",
+            "a mendicant asks, and Ugga",
+            "supplies his own account",
+        ]),
+        ("Freedom, plainly claimed", [
+            "no lower fetter remains —",
+            "a householder's direct claim",
+            "to the fruit of non-return",
+        ]),
+        ("Cross-references", [
+            "AN 8.20 &middot; earlier, closing the previous chapter",
+            "AN 8.22 &middot; next, the same relay structure for a "
+            "different householder",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.20.html">AN 8.20 &middot; Sabbath</a> &mdash; earlier, closing the '
+        "previous chapter.",
+        '<a href="an-8.22.html">AN 8.22 &middot; With Uggata of Elephant Village</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.22 — Uggasutta (Hatthigāma)
+# --------------------------------------------------------------------------- #
+page(
+    22, "Uggata", "With Uggata of Elephant Village",
+    vagga=VAGGA_3,
+    meta_title="AN 8.22 — With Uggata of Elephant Village | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "second Ugga-pattern discourse, in which the householder Uggata of "
+        "Elephant Village lists his own eight amazing qualities, sharing "
+        "most items with AN 8.21 but diverging in tone and confidence "
+        "toward the close. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Elephant Village, in the land of the Vajjis"),
+        ("Speakers", "The Buddha, an unnamed mendicant, and the householder "
+                     "Uggata of Elephant Village"),
+        ("Form", "The identical relay structure as AN 8.21, with five nearly "
+                 "identical opening qualities and three that diverge"),
+        ("Length", "~4 minutes to read"),
+        ("A paired discourse, not a repeat", "This shares its narrative "
+                                             "frame and five of its eight "
+                                             "qualities word for word with "
+                                             "AN 8.21, but items six through "
+                                             "eight genuinely differ, and "
+                                             "Uggata's own opening detail "
+                                             "&mdash; sobering up mid-party "
+                                             "at first sight of the Buddha "
+                                             "&mdash; is unique to him"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; best read "
+                       "alongside AN 8.21 to see exactly where the two "
+                       "portraits diverge"),
+    ],
+    why=(
+        "Following the same relay structure as AN 8.21, the householder "
+        "Uggata of Elephant Village lists his own eight amazing qualities "
+        "&mdash; sobering up at first sight of the Buddha mid-celebration, "
+        "stream-entry, giving away a wife without regret, unreserved "
+        "generosity, careful reverence and reciprocal teaching, impartial "
+        "giving to the Saṅgha regardless of individual monks' reported "
+        "attainments, composure before deities, and a modest, conditional "
+        "claim about his own likely destination after death."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Uggata of Elephant Village's eight qualities largely match "
+            "Ugga of Vesālī's from AN 8.21, but diverge from item six "
+            "onward: impartial generosity toward mendicants regardless of "
+            "their reported spiritual rank, and a hedged, conditional claim "
+            "about non-return rather than Ugga's flat assertion."]),
+        ("A vivid, unique opening detail", [
+            "Unlike Ugga's plain first sight of the Buddha, Uggata's own "
+            "account adds a specific circumstance: he was partying in the "
+            "Dragon's Park when he first saw the Buddha at a distance, and "
+            "sobered up on the spot &mdash; a detail found nowhere in AN "
+            "8.21, individualizing this otherwise closely parallel "
+            "portrait."]),
+        ("Impartial giving, a genuinely new sixth quality", [
+            "Where Ugga's sixth quality was about listening carefully and "
+            "teaching back if untaught, Uggata's sixth is about something "
+            "AN 8.21 doesn't mention at all: even when deities tell him "
+            "which visiting mendicants have attained which specific "
+            "spiritual ranks, he doesn't let that knowledge skew his "
+            "giving, offering to the Saṅgha impartially rather than "
+            "favoring the more advanced."]),
+        ("A hedged claim, not a flat one", [
+            "Where Ugga states outright that he has given up all five lower "
+            "fetters, Uggata's eighth quality is phrased far more "
+            "cautiously: if he dies before the Buddha, it would be &ldquo;no "
+            "wonder&rdquo; if the Buddha declared him free of any fetter "
+            "binding him to this world &mdash; a conditional, deferential "
+            "way of pointing at the same attainment Ugga claims directly."]),
+    ],
+    terms=[
+        ("nāgavanuyyāne kīḷamāno",
+         "&ldquo;partying in the Dragon's Park&rdquo; &mdash; Uggata's own "
+         "circumstance at first sight of the Buddha, unique to this "
+         "discourse among the Ugga-pattern pair."),
+        ("ubhatobhāgavimutto",
+         "&ldquo;freed both ways&rdquo; &mdash; one of several technical "
+         "terms deities are said to report about individual visiting "
+         "mendicants, the discrimination Uggata's sixth quality resists "
+         "acting on."),
+        ("samacittataṁ",
+         "&ldquo;impartially&rdquo; &mdash; the manner of Uggata's own "
+         "giving to the Saṅgha, regardless of what deities report about "
+         "individual recipients' attainments."),
+        ("na me ambhāgiyaṁ saṁyojanaṁ siyā",
+         "&ldquo;bound by no fetter that might return him to this "
+         "world&rdquo; &mdash; the Buddha's hypothetical declaration Uggata "
+         "invokes conditionally, rather than claiming the attainment "
+         "outright as Ugga does."),
+        ("acchariyabbhutadhammā",
+         "&ldquo;amazing and incredible qualities&rdquo; &mdash; the same "
+         "standing phrase applied throughout this chapter's householder "
+         "portraits."),
+    ],
+    text_intro=(
+        "The discourse in full: Uggata's own account of his eight "
+        "qualities, diverging from Ugga's from item six onward. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's unexplained praise"),
+        ("p", "&sect;1", "an8.22:1.1-2.2"),
+        ("h3", "Uggata names his own eight qualities"),
+        ("p", "&sect;2", "an8.22:3.1-10.3"),
+        ("h3", "The Buddha confirms Uggata's own account"),
+        ("p", "&sect;3", "an8.22:11.1-13.3"),
+    ],
+    quiz=[
+        {"q": "What unique detail opens Uggata's own account of his first "
+              "quality, not found in Ugga's version at AN 8.21?",
+         "opts": [
+             "He was meditating alone in a forest",
+             "He was partying in the Dragon's Park and sobered up at first "
+             "sight of the Buddha",
+             "He was traveling on business",
+             "He was asleep and dreamed of the Buddha"],
+         "correct": 1,
+         "expl": "A vivid, individualizing detail unique to this discourse."},
+        {"q": "How does Uggata's sixth quality differ from Ugga's?",
+         "opts": [
+             "They are identical",
+             "Uggata's is about giving impartially to mendicants regardless "
+             "of their reported spiritual rank, a quality Ugga's account "
+             "doesn't include",
+             "Uggata has no sixth quality at all",
+             "Uggata's sixth quality is about physical strength"],
+         "correct": 1,
+         "expl": "A genuinely new element, not present in AN 8.21's "
+                 "parallel list."},
+        {"q": "How does Uggata's eighth quality differ from Ugga's flat "
+              "claim to have given up all five lower fetters?",
+         "opts": [
+             "Uggata makes the identical flat claim",
+             "Uggata phrases it conditionally — 'no wonder' if the Buddha "
+             "declared him free of any binding fetter after his death",
+             "Uggata denies having attained anything",
+             "Uggata claims a higher attainment than Ugga"],
+         "correct": 1,
+         "expl": "A hedged, deferential claim rather than a direct "
+                 "assertion."},
+        {"q": "How many of the eight qualities are shared nearly word for "
+              "word between this discourse and AN 8.21?",
+         "opts": [
+             "None", "About five, before the two accounts diverge",
+             "All eight, with no differences", "Only one"],
+         "correct": 1,
+         "expl": "A paired discourse, not a repeat — shared frame, "
+                 "diverging content from item six onward."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī, at the Great Wood", "Elephant Village, in the land of "
+                                          "the Vajjis",
+             "Sāvatthī, in Jeta's Grove", "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "A different location from AN 8.21's Vesālī setting."},
+        {"q": "What confirms Uggata's own account matches what the Buddha "
+              "had in mind?",
+         "opts": [
+             "Nothing; the discourse leaves it unresolved",
+             "The Buddha's closing statement, the same confirmation pattern "
+             "as AN 8.21",
+             "A public vote", "Uggata's own uncertainty, never resolved"],
+         "correct": 1,
+         "expl": "The identical confirmation structure as the previous "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("A party, then sobered", [
+            "in the Dragon's Park, at first sight —",
+            "unique among the Ugga pair,",
+            "individualizing this portrait",
+        ]),
+        ("Impartial giving, added", [
+            "regardless of deities' reports",
+            "on visiting monks' attainments —",
+            "a quality Ugga's list lacks",
+        ]),
+        ("A hedged claim, not a flat one", [
+            "'no wonder,' Uggata says —",
+            "conditional, deferential,",
+            "unlike Ugga's direct assertion",
+        ]),
+        ("Cross-references", [
+            "AN 8.21 &middot; previous, the same relay structure for a "
+            "different householder",
+            "AN 8.23 &middot; next, a third householder — this time judged "
+            "by what he doesn't want known",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.21.html">AN 8.21 &middot; With Ugga of Vesālī</a> &mdash; previous.',
+        '<a href="an-8.23.html">AN 8.23 &middot; With Hatthaka (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.23 — Paṭhamahatthakasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Paṭhamahatthaka", "With Hatthaka (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 8.23 — With Hatthaka (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamahatthakasutta, in which the Buddha names seven qualities of "
+        "the householder Hatthaka of Āḷavī, and Hatthaka's own reluctance "
+        "to have them confirmed publicly becomes the eighth quality itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Āḷavī, at Āḷavī's premier shrine"),
+        ("Speakers", "The Buddha, an unnamed mendicant, and the householder "
+                     "Hatthaka of Āḷavī"),
+        ("Form", "Seven qualities named directly by the Buddha, confirmed "
+                 "word for word by a visiting mendicant, and an eighth "
+                 "quality that emerges only from Hatthaka's own reluctance"),
+        ("Length", "~2 minutes to read"),
+        ("The eighth quality is the withholding itself", "Unlike AN 8.21 "
+                                                          "and 8.22, where "
+                                                          "the householder "
+                                                          "supplies his own "
+                                                          "full list, here "
+                                                          "the Buddha names "
+                                                          "only seven "
+                                                          "qualities outright "
+                                                          "&mdash; the eighth "
+                                                          "is revealed only "
+                                                          "because Hatthaka "
+                                                          "doesn't want it "
+                                                          "known"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, "
+                       "with an elegant structural twist in its closing "
+                       "lines"),
+    ],
+    why=(
+        "The Buddha names seven qualities of the householder Hatthaka of "
+        "Āḷavī &mdash; faithful, ethical, conscientious, prudent, learned, "
+        "generous, and wise &mdash; and when a mendicant confirms the list "
+        "with Hatthaka directly, Hatthaka's first concern is only whether "
+        "any lay people were present to overhear it; the Buddha then names "
+        "this very reluctance itself as the eighth quality, fewness of "
+        "wishes."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Hatthaka of Āḷavī has seven named qualities &mdash; faith, "
+            "ethics, conscience, prudence, learning, generosity, and wisdom "
+            "&mdash; and an eighth that isn't named directly at all: his "
+            "own reluctance to have his good qualities made known to "
+            "others, which the Buddha identifies as fewness of wishes, the "
+            "eighth quality itself."]),
+        ("Seven qualities, stated and confirmed", [
+            "Unlike the Ugga-pattern discourses just before it, this one "
+            "opens with the Buddha naming all seven qualities directly and "
+            "in full, which the visiting mendicant then repeats back to "
+            "Hatthaka word for word, and Hatthaka confirms without "
+            "elaboration."]),
+        ("A question that reveals the eighth quality", [
+            "Hatthaka's only response to hearing his own seven qualities "
+            "confirmed is to ask whether any lay people were present when "
+            "the Buddha named them &mdash; relieved to learn none were. "
+            "This single question, not any positive statement, is what "
+            "reveals the quality the Buddha completes the list with."]),
+        ("Fewness of wishes, demonstrated rather than described", [
+            "Rather than defining appicchatā, fewness of wishes, "
+            "abstractly, this discourse lets Hatthaka demonstrate it "
+            "directly: he doesn't want his own good qualities publicized, "
+            "and that very not-wanting is what earns him the eighth and "
+            "final place on a list the Buddha had originally left "
+            "incomplete."]),
+    ],
+    terms=[
+        ("saddho, sīlavā, hirimā, ottappī, bahussuto, cāgavā, paññavā",
+         "&ldquo;faithful, ethical, conscientious, prudent, learned, "
+         "generous, and wise&rdquo; &mdash; the seven qualities the Buddha "
+         "names outright, stated once and confirmed once without variation."),
+        ("api nu kho, bhante, na koci odātavasano upāsako sammukhā ahosī",
+         "&ldquo;I trust that no white-clothed lay people were present?"
+         "&rdquo; &mdash; Hatthaka's own question, the moment that reveals "
+         "his reluctance rather than any positive statement."),
+        ("appicchova samāno na icchati attano guṇaṁ paresaṁ vidito",
+         "&ldquo;that gentleman has few wishes; he doesn't want his own "
+         "good qualities to be made known to others&rdquo; &mdash; the "
+         "Buddha's own explanation of the eighth quality, drawn directly "
+         "from Hatthaka's question."),
+        ("appicchatā",
+         "&ldquo;fewness of wishes&rdquo; &mdash; the eighth and final "
+         "quality named, demonstrated through Hatthaka's own reluctance "
+         "rather than defined abstractly."),
+        ("acchariyabbhutadhammā",
+         "&ldquo;amazing and incredible qualities&rdquo; &mdash; the "
+         "standing phrase this chapter applies to each of its named "
+         "householders."),
+    ],
+    text_intro=(
+        "The discourse in full: seven named qualities, and an eighth "
+        "revealed through Hatthaka's own reluctance. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities, named by the Buddha"),
+        ("p", "&sect;1", "an8.23:1.1-1.14"),
+        ("h3", "A mendicant confirms the list with Hatthaka"),
+        ("p", "&sect;2", "an8.23:2.1-4.2"),
+        ("h3", "The eighth quality, revealed"),
+        ("p", "&sect;3", "an8.23:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from AN 8.21 and "
+              "8.22?",
+         "opts": [
+             "It is structurally identical to both",
+             "The Buddha names the qualities directly here, rather than "
+             "leaving the householder to supply his own full list",
+             "Hatthaka refuses to participate at all",
+             "There is no mendicant intermediary"],
+         "correct": 1,
+         "expl": "Seven stated directly and confirmed, unlike the earlier "
+                 "relay-and-self-report structure."},
+        {"q": "What is Hatthaka's only response upon hearing his seven "
+              "qualities confirmed?",
+         "opts": [
+             "He immediately lists an eighth quality himself",
+             "He asks whether any lay people were present to overhear it",
+             "He denies having any of the seven qualities",
+             "He asks for a ninth quality to be added"],
+         "correct": 1,
+         "expl": "A single question, not a positive statement, that reveals "
+                 "the eighth quality."},
+        {"q": "What does the Buddha name as Hatthaka's eighth quality?",
+         "opts": [
+             "Physical strength", "Fewness of wishes — not wanting his own "
+                                   "good qualities made known to others",
+             "Wealth", "Skill in debate"],
+         "correct": 1,
+         "expl": "Demonstrated through Hatthaka's own reluctance, not stated "
+                 "as an abstract virtue."},
+        {"q": "What are the seven qualities the Buddha names directly?",
+         "opts": [
+             "The five precepts plus two more",
+             "Faithful, ethical, conscientious, prudent, learned, generous, "
+             "and wise",
+             "The seven factors of awakening",
+             "Physical beauty, wealth, and social standing"],
+         "correct": 1,
+         "expl": "Stated once by the Buddha, then confirmed word for word by "
+                 "the visiting mendicant."},
+        {"q": "According to the guide, how does this discourse demonstrate "
+              "fewness of wishes rather than merely define it?",
+         "opts": [
+             "By giving a long abstract explanation",
+             "By letting Hatthaka's own not-wanting-to-be-known stand as "
+             "the demonstration itself",
+             "By contrasting it with wealth",
+             "It doesn't demonstrate it at all"],
+         "correct": 1,
+         "expl": "The reluctance itself, not a description of it, earns "
+                 "Hatthaka the eighth quality."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī, at the Great Wood", "Āḷavī, at Āḷavī's premier shrine",
+             "Sāvatthī, in Jeta's Grove", "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "The same location this discourse shares with AN 8.24, "
+                 "immediately following."},
+    ],
+    marginalia=[
+        ("Seven, named directly", [
+            "faithful, ethical, conscientious,",
+            "prudent, learned, generous,",
+            "and wise — stated, then confirmed",
+        ]),
+        ("A question reveals the eighth", [
+            "'were any lay people there?' —",
+            "not a claim, but a worry —",
+            "that worry becomes the answer",
+        ]),
+        ("Fewness of wishes, demonstrated", [
+            "not defined, but shown:",
+            "not wanting one's own virtue known",
+            "is the very virtue itself",
+        ]),
+        ("Cross-references", [
+            "AN 8.22 &middot; previous, the second Ugga-pattern householder",
+            "AN 8.24 &middot; next, the same Hatthaka, now with all eight "
+            "qualities named together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.22.html">AN 8.22 &middot; With Uggata of Elephant Village</a> &mdash; '
+        "previous.",
+        '<a href="an-8.24.html">AN 8.24 &middot; With Hatthaka (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.24 — Dutiyahatthakasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, "Dutiyahatthaka", "With Hatthaka (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 8.24 — With Hatthaka (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyahatthakasutta, in which Hatthaka explains how the four ways "
+        "of being inclusive let him gather a congregation of five hundred, "
+        "and the Buddha then names his full eight qualities together for "
+        "the first time, folding in the fewness of wishes met at AN 8.23. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Āḷavī, at Āḷavī's premier shrine, the same location as "
+                    "AN 8.23"),
+        ("Speakers", "Hatthaka of Āḷavī, escorted by around five hundred lay "
+                     "followers, and the Buddha"),
+        ("Form", "A question about leadership answered with a fourfold "
+                 "teaching, followed by the Buddha's own summary naming "
+                 "Hatthaka's full eight qualities in a single list"),
+        ("Length", "~2 minutes to read"),
+        ("The eighth quality, now stated outright", "AN 8.23 revealed "
+                                                     "fewness of wishes only "
+                                                     "obliquely, through "
+                                                     "Hatthaka's own "
+                                                     "reluctance; this "
+                                                     "discourse folds it "
+                                                     "directly into a "
+                                                     "single eight-item list, "
+                                                     "confirming what the "
+                                                     "earlier discourse only "
+                                                     "implied"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "with a practical teaching on leadership followed by "
+                       "a summary list"),
+    ],
+    why=(
+        "Arriving with roughly five hundred lay followers, Hatthaka "
+        "explains to the Buddha that he gathers such a large congregation "
+        "using the four ways of being inclusive &mdash; giving, kindly "
+        "words, taking care of people, and treating them equally &mdash; "
+        "though he adds candidly that his own family's wealth helps too; "
+        "after Hatthaka leaves, the Buddha names his full eight qualities "
+        "together, this time explicitly including fewness of wishes as the "
+        "eighth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Hatthaka gathers his large congregation through the four ways "
+            "of being inclusive &mdash; giving, kindly speech, caring for "
+            "people, and treating them equally &mdash; a method the Buddha "
+            "confirms as universal across past, present, and future; "
+            "afterward, the Buddha names Hatthaka's full eight qualities "
+            "together, now explicitly including fewness of wishes."]),
+        ("The four ways of being inclusive, applied practically", [
+            "Asked directly how he brings together such a large following, "
+            "Hatthaka doesn't describe an abstract virtue but a practical "
+            "method: reading what each person responds to &mdash; a gift, "
+            "kind words, being cared for, or equal treatment &mdash; and "
+            "giving each what draws them in."]),
+        ("An honest caveat about wealth", [
+            "Hatthaka doesn't let his answer stand as purely idealistic. He "
+            "adds, unprompted, that his family's wealth also plays a role: "
+            "people wouldn't give a poor person the same hearing they give "
+            "him &mdash; a candid acknowledgment the Buddha doesn't correct "
+            "or soften."]),
+        ("Eight qualities, finally listed as one", [
+            "Where AN 8.23 revealed the eighth quality only through "
+            "Hatthaka's own reluctance to be praised, this discourse closes "
+            "by having the Buddha state all eight together in a single "
+            "list &mdash; faithful, ethical, conscientious, prudent, "
+            "learned, generous, wise, and having few wishes &mdash; "
+            "confirming directly what the earlier discourse only implied."]),
+    ],
+    terms=[
+        ("cattārime saṅgahavatthū",
+         "&ldquo;the four ways of being inclusive&rdquo; &mdash; dāna "
+         "(giving), peyyavajja (kindly words), atthacariyā (taking care of "
+         "people), and samānattatā (treating people equally), the method "
+         "Hatthaka credits for his large congregation."),
+        ("dānena saṅgaṇhāmi",
+         "&ldquo;I include them by giving a gift&rdquo; &mdash; the first "
+         "of the four ways, matched to whichever people respond to "
+         "material generosity."),
+        ("aḍḍhā kho pana me, bhante, kulāni",
+         "&ldquo;my family is wealthy&rdquo; &mdash; Hatthaka's own candid "
+         "addition, acknowledging a factor beyond the four ways of being "
+         "inclusive."),
+        ("yepi te, bhikkhave, ahesuṁ atītamaddhānaṁ mahantaṁ parisaṁ "
+         "saṅgaṇhiṁsu",
+         "&ldquo;whether in the past, future, or present, all those who "
+         "have brought together a large congregation&rdquo; &mdash; the "
+         "Buddha's own confirmation that Hatthaka's method is universal, "
+         "not particular to him."),
+        ("appicchatā",
+         "&ldquo;fewness of wishes&rdquo; &mdash; the eighth quality, here "
+         "stated directly as part of a single eight-item list, confirming "
+         "what AN 8.23 only demonstrated obliquely."),
+    ],
+    text_intro=(
+        "The discourse in full: the four ways of being inclusive, and "
+        "Hatthaka's full eight qualities named together. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "How Hatthaka gathers a large congregation"),
+        ("p", "&sect;1", "an8.24:1.1-1.18"),
+        ("h3", "The Buddha names Hatthaka's full eight qualities"),
+        ("p", "&sect;2", "an8.24:2.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What method does Hatthaka credit for gathering roughly five "
+              "hundred lay followers?",
+         "opts": [
+             "Wealth alone",
+             "The four ways of being inclusive — giving, kindly words, "
+             "taking care of people, and treating them equally",
+             "Strict discipline and punishment",
+             "Public debate and argument"],
+         "correct": 1,
+         "expl": "A practical method matched to what draws each person in."},
+        {"q": "What candid addition does Hatthaka make to his own answer?",
+         "opts": [
+             "That he actually dislikes leading a congregation",
+             "That his family's wealth also plays a role, since people "
+             "wouldn't give a poor person the same hearing",
+             "That the method never actually works",
+             "That he learned it from a rival teacher"],
+         "correct": 1,
+         "expl": "An honest caveat the Buddha doesn't correct or soften."},
+        {"q": "How does the Buddha respond to Hatthaka's explanation of the "
+              "four ways of being inclusive?",
+         "opts": [
+             "He rejects it as insufficient",
+             "He confirms it as universal — used by all who have gathered "
+             "large congregations across past, present, and future",
+             "He says only wealthy people can use this method",
+             "He changes the subject entirely"],
+         "correct": 1,
+         "expl": "A general confirmation, not limited to Hatthaka's own "
+                 "case."},
+        {"q": "How does this discourse's closing list of eight qualities "
+              "relate to AN 8.23?",
+         "opts": [
+             "It contradicts AN 8.23 entirely",
+             "It states all eight together directly, including fewness of "
+             "wishes, confirming what AN 8.23 only revealed obliquely",
+             "It omits fewness of wishes entirely",
+             "It has no relation to AN 8.23"],
+         "correct": 1,
+         "expl": "A direct statement of what the earlier discourse "
+                 "demonstrated through Hatthaka's own reluctance."},
+        {"q": "What are the four ways of being inclusive?",
+         "opts": [
+             "Generosity, ethics, patience, and wisdom",
+             "Giving, kindly words, taking care of people, and treating "
+             "them equally",
+             "Faith, effort, mindfulness, and immersion",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Dāna, peyyavajja, atthacariyā, and samānattatā, named "
+                 "directly by Hatthaka."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī, at the Great Wood", "Āḷavī, at Āḷavī's premier "
+                                          "shrine, the same location as AN "
+                                          "8.23",
+             "Sāvatthī, in Jeta's Grove", "Elephant Village"],
+         "correct": 1,
+         "expl": "The same setting shared with the previous discourse."},
+    ],
+    marginalia=[
+        ("Four ways of being inclusive", [
+            "giving, kindly words,",
+            "taking care, treating equally —",
+            "matched to what draws each person",
+        ]),
+        ("An honest caveat", [
+            "'my family is wealthy too' —",
+            "Hatthaka doesn't overclaim,",
+            "and the Buddha doesn't correct him",
+        ]),
+        ("Eight, finally stated together", [
+            "faithful through wise, then:",
+            "'and has few wishes' — the eighth",
+            "now named outright, not implied",
+        ]),
+        ("Cross-references", [
+            "AN 8.23 &middot; previous, where fewness of wishes was only "
+            "revealed obliquely",
+            "AN 8.25 &middot; next, a very different question: how is a lay "
+            "follower even defined?",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.23.html">AN 8.23 &middot; With Hatthaka (1st)</a> &mdash; previous.',
+        '<a href="an-8.25.html">AN 8.25 &middot; With Mahānāma</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.25 — Mahānāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Mahānāma", "With Mahānāma",
+    vagga=VAGGA_3,
+    meta_title="AN 8.25 — With Mahānāma | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Mahānāmasutta, in which the Sakyan Mahānāma asks the Buddha to "
+        "define a lay follower in four increasingly demanding senses, from "
+        "bare refuge to practicing for the benefit of both oneself and "
+        "others. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, in the land of the Sakyans, at the "
+                    "Banyan Tree Monastery"),
+        ("Speakers", "Mahānāma the Sakyan and the Buddha, in direct "
+                     "question-and-answer"),
+        ("Form", "Four successive questions, each answer built by adding a "
+                 "further condition onto the one before it"),
+        ("Length", "~2 minutes to read"),
+        ("A ladder of definitions, not a single one", "This discourse "
+                                                       "doesn't give one "
+                                                       "definition of a lay "
+                                                       "follower but four, "
+                                                       "each stricter than "
+                                                       "the last, ending "
+                                                       "with an eightfold "
+                                                       "list of qualities "
+                                                       "held and actively "
+                                                       "encouraged in others"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean, "
+                       "escalating structure, easy to follow across its four "
+                       "stages"),
+    ],
+    why=(
+        "Mahānāma asks the Buddha, in four successive questions, how a lay "
+        "follower is defined at all, then what makes one ethical, then what "
+        "distinguishes a lay follower practicing only for their own "
+        "benefit from one practicing for the benefit of both themselves and "
+        "others &mdash; the answer to the fourth turning on eight qualities, "
+        "each one held and actively encouraged in other people too."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A lay follower is simply someone who has gone for refuge to "
+            "the Buddha, the teaching, and the Saṅgha; an ethical lay "
+            "follower additionally keeps the five precepts; but a lay "
+            "follower practicing for the benefit of both themselves and "
+            "others holds eight further qualities and actively encourages "
+            "other people to develop the same eight."]),
+        ("Four questions, each stricter than the last", [
+            "Mahānāma's four questions build a ladder: first, what makes "
+            "someone a lay follower at all (refuge alone); second, what "
+            "makes that lay follower ethical (the five precepts); third, "
+            "what does self-benefiting-only practice look like; and fourth, "
+            "what does practice benefiting both oneself and others look "
+            "like."]),
+        ("The same eight qualities, with and without encouraging others", [
+            "The third and fourth answers share an identical eightfold "
+            "list &mdash; accomplishment in faith, ethical conduct, "
+            "generosity, liking to see mendicants, liking to hear the true "
+            "teaching, readily memorizing what's heard, examining its "
+            "meaning, and practicing in line with the teaching &mdash; "
+            "differing only in whether the lay follower also encourages "
+            "other people to develop each one."]),
+        ("The single variable that changes everything", [
+            "Structurally, this discourse makes a precise point: the "
+            "content of one's own practice can be identical in both cases "
+            "&mdash; same eight qualities, equally accomplished &mdash; and "
+            "still differ entirely in whether it counts as benefiting only "
+            "oneself or benefiting both oneself and others, depending "
+            "purely on the single added factor of encouraging others."]),
+    ],
+    terms=[
+        ("upāsako",
+         "&ldquo;lay follower&rdquo; &mdash; this discourse's own subject, "
+         "defined in the most minimal sense as simply someone who has gone "
+         "for refuge."),
+        ("sīlavā upāsako",
+         "&ldquo;an ethical lay follower&rdquo; &mdash; the second, "
+         "stricter definition, adding the five precepts to bare refuge."),
+        ("attahitāya paṭipanno no parahitāya",
+         "&ldquo;practicing to benefit themselves, not others&rdquo; "
+         "&mdash; the third definition, an eightfold list held privately, "
+         "without encouraging others to develop the same qualities."),
+        ("attahitāya ca paṭipanno parahitāya ca",
+         "&ldquo;practicing to benefit both themselves and others&rdquo; "
+         "&mdash; the fourth and final definition, the identical eightfold "
+         "list, now actively encouraged in other people too."),
+        ("saddhāsampanno, sīlasampanno, cāgasampanno",
+         "&ldquo;accomplished in faith, ethical conduct, and "
+         "generosity&rdquo; &mdash; the first three of the eight shared "
+         "qualities running through both the third and fourth definitions."),
+    ],
+    text_intro=(
+        "The discourse in full: four successive questions, each answer "
+        "building on the one before it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What defines a lay follower?"),
+        ("p", "&sect;1", "an8.25:1.1-1.5"),
+        ("h3", "What defines an ethical lay follower?"),
+        ("p", "&sect;2", "an8.25:2.1-2.3"),
+        ("h3", "Practicing for one's own benefit only"),
+        ("p", "&sect;3", "an8.25:3.1-3.10"),
+        ("h3", "Practicing for the benefit of both oneself and others"),
+        ("p", "&sect;4", "an8.25:4.1-4.10"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha define a lay follower in the most basic "
+              "sense?",
+         "opts": [
+             "Someone who has taken monastic ordination",
+             "Someone who has gone for refuge to the Buddha, the teaching, "
+             "and the Saṅgha",
+             "Someone who has kept the five precepts for a full year",
+             "Someone born into a Buddhist family"],
+         "correct": 1,
+         "expl": "The most minimal definition, refuge alone."},
+        {"q": "What distinguishes an 'ethical lay follower' from a bare lay "
+              "follower?",
+         "opts": [
+             "Nothing further is required",
+             "Keeping the five precepts — not killing, stealing, sexual "
+             "misconduct, lying, or intoxicants",
+             "Taking full monastic vows",
+             "Donating a specific amount of wealth"],
+         "correct": 1,
+         "expl": "The second, stricter definition in this discourse's "
+                 "ladder."},
+        {"q": "What is the single factor that distinguishes 'practicing for "
+              "one's own benefit only' from 'practicing for the benefit of "
+              "both oneself and others'?",
+         "opts": [
+             "An entirely different set of qualities",
+             "The identical eight qualities, but whether the lay follower "
+             "also actively encourages others to develop the same eight",
+             "Wealth alone",
+             "Physical location"],
+         "correct": 1,
+         "expl": "A single added variable — encouraging others — not a "
+                 "different content of practice."},
+        {"q": "What are among the eight shared qualities named in both the "
+              "third and fourth definitions?",
+         "opts": [
+             "Physical strength and endurance",
+             "Faith, ethical conduct, generosity, liking to see mendicants "
+             "and hear the teaching, memorizing and examining it, and "
+             "practicing in line with it",
+             "Wealth, status, and family lineage",
+             "Skill in debate and public speaking"],
+         "correct": 1,
+         "expl": "An eightfold list running through both the third and "
+                 "fourth definitions."},
+        {"q": "How many successive questions does Mahānāma ask in this "
+              "discourse?",
+         "opts": [
+             "One", "Four, each building a stricter definition than the last",
+             "Eight", "Two"],
+         "correct": 1,
+         "expl": "A ladder of four increasingly demanding definitions."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Kapilavatthu, in the land of the "
+                                          "Sakyans, at the Banyan Tree "
+                                          "Monastery",
+             "Rājagaha, on Vulture's Peak", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "Mahānāma's own homeland, among his fellow Sakyans."},
+    ],
+    marginalia=[
+        ("Four questions, four rungs", [
+            "refuge alone · then ethics ·",
+            "then self-benefit only ·",
+            "then benefit for self and others",
+        ]),
+        ("The same eight, twice", [
+            "faith, ethics, generosity,",
+            "hearing and examining the teaching —",
+            "identical in both definitions",
+        ]),
+        ("One variable changes everything", [
+            "not a different practice,",
+            "but whether it's encouraged",
+            "in others too",
+        ]),
+        ("Cross-references", [
+            "AN 8.24 &middot; previous, Hatthaka's full eight qualities "
+            "named together",
+            "AN 8.26 &middot; next, the same four questions asked again, "
+            "this time by Jīvaka",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.24.html">AN 8.24 &middot; With Hatthaka (2nd)</a> &mdash; previous.',
+        '<a href="an-8.26.html">AN 8.26 &middot; With Jīvaka</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.26 — Jīvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    26, "Jīvaka", "With Jīvaka",
+    vagga=VAGGA_3,
+    meta_title="AN 8.26 — With Jīvaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Jīvakasutta, in which the royal physician Jīvaka Komārabhacca asks "
+        "the Buddha the identical four questions Mahānāma asked at AN 8.25, "
+        "receiving the same ladder of definitions for a lay follower. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in Jīvaka's own Mango Grove"),
+        ("Speakers", "Jīvaka Komārabhacca and the Buddha"),
+        ("Form", "The identical four-question structure as AN 8.25, "
+                 "compressed in its own source text by an internal "
+                 "ellipsis across the middle two questions"),
+        ("Length", "~2 minutes to read"),
+        ("The same teaching, a different asker", "Jīvaka Komārabhacca, the "
+                                                  "physician credited with "
+                                                  "treating the Buddha "
+                                                  "himself, receives the "
+                                                  "identical four-part "
+                                                  "answer Mahānāma received "
+                                                  "at AN 8.25, in his own "
+                                                  "mango grove near Rājagaha"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "best read as a direct companion to AN 8.25"),
+    ],
+    why=(
+        "Jīvaka Komārabhacca, the physician, asks the Buddha the same four "
+        "questions Mahānāma asked at AN 8.25 &mdash; how a lay follower is "
+        "defined, what makes one ethical, and what distinguishes practicing "
+        "only for oneself from practicing for both oneself and others "
+        "&mdash; and receives word for word the same answers."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Jīvaka receives the identical four-part definition of a lay "
+            "follower that Mahānāma received at AN 8.25: refuge alone, "
+            "refuge plus the five precepts, an eightfold list of qualities "
+            "held privately, and the same eight actively encouraged in "
+            "others as well."]),
+        ("A different asker, the same teaching", [
+            "Where AN 8.25 features Mahānāma the Sakyan, a member of the "
+            "Buddha's own extended clan, this discourse features Jīvaka "
+            "Komārabhacca, the renowned physician associated elsewhere in "
+            "the tradition with treating the Buddha's own ailments &mdash; "
+            "a different social position, the same four questions, the "
+            "same four answers."]),
+        ("Compressed by the source's own ellipsis", [
+            "Unlike AN 8.25, which spells out all four answers in full, "
+            "this discourse's own source text compresses the middle two "
+            "answers &mdash; the definition of an ethical lay follower and "
+            "much of the third definition &mdash; using an internal "
+            "ellipsis, trusting the reader to supply what AN 8.25 already "
+            "gave in full."]),
+        ("Why the same teaching recurs with a new name", [
+            "This discourse doesn't add new content to AN 8.25's teaching; "
+            "its interest lies in who receives it. A physician known for "
+            "treating bodies receives the same graduated ladder toward "
+            "benefiting both oneself and others that a Sakyan nobleman "
+            "received &mdash; the same path, open regardless of "
+            "profession or social standing."]),
+    ],
+    terms=[
+        ("upāsako",
+         "&ldquo;lay follower&rdquo; &mdash; the identical subject and "
+         "identical first definition as AN 8.25: refuge to the Buddha, the "
+         "teaching, and the Saṅgha."),
+        ("jīvako komārabhacco",
+         "Jīvaka Komārabhacca, the royal physician who asks these "
+         "questions in his own mango grove, a figure elsewhere in the "
+         "tradition associated with the Buddha's own medical care."),
+        ("attahitāya paṭipanno no parahitāya",
+         "&ldquo;practicing to benefit themselves, not others&rdquo; "
+         "&mdash; the same eightfold private list as AN 8.25, here "
+         "compressed by the source's own internal ellipsis."),
+        ("attahitāya ca paṭipanno parahitāya ca",
+         "&ldquo;practicing to benefit both themselves and others&rdquo; "
+         "&mdash; the same eightfold list, spelled out in full for this "
+         "discourse's own closing answer."),
+        ("saddhāsampanno ... sīlasampanno ... cāgasampanno",
+         "&ldquo;accomplished in faith ... ethical conduct ... "
+         "generosity&rdquo; &mdash; the shared eight qualities running "
+         "through both this discourse and AN 8.25 alike."),
+    ],
+    text_intro=(
+        "The discourse in full: the same four questions Mahānāma asked, this "
+        "time from the physician Jīvaka. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What defines a lay follower?"),
+        ("p", "&sect;1", "an8.26:1.1-1.5"),
+        ("h3", "What defines an ethical lay follower?"),
+        ("p", "&sect;2", "an8.26:2.1-2.3"),
+        ("h3", "Practicing for one's own benefit only"),
+        ("p", "&sect;3", "an8.26:3.1-3.4"),
+        ("h3", "Practicing for the benefit of both oneself and others"),
+        ("p", "&sect;4", "an8.26:4.1-4.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 8.25?",
+         "opts": [
+             "It contradicts AN 8.25's teaching entirely",
+             "It presents the identical four questions and answers, asked "
+             "this time by the physician Jīvaka rather than Mahānāma",
+             "It has no relation to AN 8.25",
+             "It only covers the first of the four questions"],
+         "correct": 1,
+         "expl": "The same teaching, given to a different asker in a "
+                 "different setting."},
+        {"q": "Who is Jīvaka Komārabhacca?",
+         "opts": [
+             "A member of the Buddha's own Sakyan clan",
+             "A physician, associated elsewhere in the tradition with "
+             "treating the Buddha's own ailments",
+             "A rival ascetic teacher", "A king's general"],
+         "correct": 1,
+         "expl": "A renowned physician, asking in his own mango grove."},
+        {"q": "How does this discourse's source text handle the middle two "
+              "answers, compared to AN 8.25?",
+         "opts": [
+             "It expands them with new detail",
+             "It compresses them using an internal ellipsis, trusting the "
+             "reader to supply what AN 8.25 already gave in full",
+             "It omits them entirely",
+             "It replaces them with unrelated content"],
+         "correct": 1,
+         "expl": "A self-abbreviation, relying on the fuller text just "
+                 "given at AN 8.25."},
+        {"q": "According to the guide, what is this discourse's real point "
+              "in repeating AN 8.25's teaching?",
+         "opts": [
+             "To correct an error in AN 8.25",
+             "That the same graduated path is open regardless of "
+             "profession or social standing — a physician receives it just "
+             "as a nobleman did",
+             "To test whether Jīvaka understood the first discourse",
+             "There is no particular point; it is a simple duplicate"],
+         "correct": 1,
+         "expl": "The interest lies in who receives the teaching, not in "
+                 "new content."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kapilavatthu, at the Banyan Tree Monastery",
+             "Rājagaha, in Jīvaka's own Mango Grove",
+             "Sāvatthī, in Jeta's Grove", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A location named for Jīvaka himself, distinct from AN "
+                 "8.25's setting."},
+        {"q": "What is the single factor distinguishing the third and "
+              "fourth definitions, as in AN 8.25?",
+         "opts": [
+             "An entirely different set of qualities",
+             "Whether the lay follower also actively encourages others to "
+             "develop the same eight qualities",
+             "Wealth alone",
+             "Physical location"],
+         "correct": 1,
+         "expl": "The identical single variable met at AN 8.25."},
+    ],
+    marginalia=[
+        ("The same four questions", [
+            "refuge · then ethics ·",
+            "self-benefit only ·",
+            "benefit for self and others",
+        ]),
+        ("A different asker", [
+            "not a Sakyan nobleman —",
+            "a physician, in his own",
+            "mango grove near Rājagaha",
+        ]),
+        ("Compressed by its own ellipsis", [
+            "trusting the reader",
+            "to recall AN 8.25's answer —",
+            "the middle two questions abbreviated",
+        ]),
+        ("Cross-references", [
+            "AN 8.25 &middot; previous, the same four questions in full, "
+            "asked by Mahānāma",
+            "AN 8.27 &middot; next, a very different register: proverbial "
+            "'powers' of different beings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.25.html">AN 8.25 &middot; With Mahānāma</a> &mdash; previous.',
+        '<a href="an-8.27.html">AN 8.27 &middot; Powers (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.27 — Paṭhamabalasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, "Paṭhamabala", "Powers (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 8.27 — Powers (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamabalasutta, a proverbial list of eight different 'powers' "
+        "belonging to eight different kinds of being, from a baby's crying "
+        "to an ascetic's patience — unrelated in content to AN 8.28 despite "
+        "sharing its title numbering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item proverbial list, one power matched to "
+                 "one kind of being, with no further explanation"),
+        ("Length", "under 1 minute to read"),
+        ("A title pair with unrelated content", "AN 8.27 and 8.28 share "
+                                                 "only their Paṭhama/Dutiya "
+                                                 "title numbering and the "
+                                                 "word &ldquo;power&rdquo; "
+                                                 "&mdash; this discourse is a "
+                                                 "folk-wisdom catalog of "
+                                                 "social types, while AN "
+                                                 "8.28 is Sāriputta's own "
+                                                 "technical account of an "
+                                                 "arahant's inner powers, "
+                                                 "with no shared content "
+                                                 "between them"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and proverbial, more social observation than "
+                       "meditative instruction"),
+    ],
+    why=(
+        "AN 8.27 names eight different &ldquo;powers&rdquo; belonging to "
+        "eight different kinds of being &mdash; crying is the power of "
+        "babies, anger the power of ladies, weapons the power of bandits, "
+        "authority the power of rulers, complaining the power of fools, "
+        "reason the power of the astute, reflection the power of the "
+        "learned, and patience the power of ascetics and brahmins &mdash; "
+        "without further comment or moral evaluation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight different kinds of being each rely on a characteristic "
+            "&ldquo;power&rdquo; distinct to their situation: babies on "
+            "crying, ladies on anger, bandits on weapons, rulers on "
+            "authority, fools on complaining, the astute on reason, the "
+            "learned on reflection, and ascetics and brahmins on patience."]),
+        ("A proverb, not a teaching with commentary", [
+            "Unlike most discourses in this book, AN 8.27 offers no "
+            "explanation, no praise, and no criticism of any of the eight "
+            "pairings. It simply states them, in the manner of a folk "
+            "proverb observing how different kinds of people or beings get "
+            "what they want."]),
+        ("A title pair that shares nothing but a number", [
+            "AN 8.27 and AN 8.28, immediately following, are titled "
+            "&ldquo;Powers (1st)&rdquo; and &ldquo;Powers (2nd)&rdquo; as "
+            "though they were a matched pair like AN 8.17/8.18 or 8.23/8.24 "
+            "&mdash; but their content shares nothing beyond the word "
+            "&ldquo;power&rdquo; itself. This is worth noticing explicitly: "
+            "not every Paṭhama/Dutiya title pair in this collection carries "
+            "paired content."]),
+        ("Patience, closing the list at its highest register", [
+            "The list moves through a rough social hierarchy &mdash; from "
+            "an infant's helpless crying through a ruler's institutional "
+            "authority to reasoning and reflection &mdash; and closes with "
+            "patience as the characteristic power of ascetics and "
+            "brahmins, placing spiritual endurance at the top of this "
+            "particular proverbial ladder."]),
+    ],
+    terms=[
+        ("balāni",
+         "&ldquo;powers&rdquo; &mdash; this discourse's own title term, "
+         "used here in a loose, proverbial sense rather than the technical "
+         "sense met at AN 8.28."),
+        ("rodanaṁ bālassa balaṁ",
+         "&ldquo;crying is the power of babies&rdquo; &mdash; the first "
+         "pairing, opening the list at its most helpless register."),
+        ("āyudhaṁ corānaṁ balaṁ",
+         "&ldquo;weapons are the power of bandits&rdquo; &mdash; the third "
+         "pairing, naming a power that is coercive rather than social or "
+         "reflective."),
+        ("upanijjhāyanā paṇḍitassa balaṁ",
+         "&ldquo;reflection is the power of the learned&rdquo; &mdash; the "
+         "seventh pairing, distinguished from the sixth item's bare "
+         "reason by its more deliberate, considered quality."),
+        ("khantībalaṁ samaṇabrāhmaṇānaṁ",
+         "&ldquo;patience is the power of ascetics and brahmins&rdquo; "
+         "&mdash; the eighth and closing pairing, placing spiritual "
+         "endurance at the top of the list's rough hierarchy."),
+    ],
+    text_intro=(
+        "The discourse in full: eight powers, matched to eight kinds of "
+        "being. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight powers, eight kinds of being"),
+        ("p", "&sect;1", "an8.27:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What are the eight 'powers' this discourse names?",
+         "opts": [
+             "The five spiritual faculties plus three more",
+             "Crying (babies), anger (ladies), weapons (bandits), "
+             "authority (rulers), complaining (fools), reason (astute), "
+             "reflection (learned), and patience (ascetics and brahmins)",
+             "The seven factors of awakening plus one",
+             "Eight monastic requisites"],
+         "correct": 1,
+         "expl": "A proverbial catalog matching one power to one kind of "
+                 "being."},
+        {"q": "How does this discourse present its eight pairings?",
+         "opts": [
+             "With extensive doctrinal commentary on each",
+             "Without explanation, praise, or criticism — stated plainly, "
+             "in the manner of a folk proverb",
+             "As a set of instructions to be followed",
+             "As a warning against each of the eight"],
+         "correct": 1,
+         "expl": "A bare observational list, not a teaching with "
+                 "commentary."},
+        {"q": "According to the guide, how does this discourse relate to AN "
+              "8.28, despite sharing its title numbering?",
+         "opts": [
+             "They share identical content",
+             "They share only the word 'power' and the Paṭhama/Dutiya "
+             "numbering — the actual content is unrelated",
+             "AN 8.28 directly contradicts this discourse",
+             "AN 8.28 is a longer version of this same list"],
+         "correct": 1,
+         "expl": "A rare title pair without paired content, worth noticing "
+                 "explicitly."},
+        {"q": "What is named as the power of ascetics and brahmins, closing "
+              "the list?",
+         "opts": [
+             "Wealth", "Patience",
+             "Physical strength", "Political influence"],
+         "correct": 1,
+         "expl": "The eighth and final pairing, placing spiritual endurance "
+                 "at the top of the list's rough hierarchy."},
+        {"q": "What is named as the power of bandits?",
+         "opts": [
+             "Cunning alone", "Weapons",
+             "Wealth", "Speed"],
+         "correct": 1,
+         "expl": "A coercive power, distinct from the social or reflective "
+                 "powers named elsewhere in the list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight powers, eight beings", [
+            "crying · anger · weapons ·",
+            "authority · complaining ·",
+            "reason · reflection · patience",
+        ]),
+        ("A proverb, not a teaching", [
+            "no praise, no criticism —",
+            "stated plainly, the way",
+            "an old saying simply is",
+        ]),
+        ("A title pair, unrelated content", [
+            "'Powers (1st)' and '(2nd)' —",
+            "the same word, different subjects —",
+            "worth not assuming they match",
+        ]),
+        ("Cross-references", [
+            "AN 8.26 &middot; previous, Jīvaka's own four questions",
+            "AN 8.28 &middot; next, a genuinely different 'powers' — an "
+            "arahant's own, named by Sāriputta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.26.html">AN 8.26 &middot; With Jīvaka</a> &mdash; previous.',
+        '<a href="an-8.28.html">AN 8.28 &middot; Powers (2nd)</a> &mdash; next, unrelated in '
+        "content despite the shared title.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.28 — Dutiyabalasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, "Dutiyabala", "Powers (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 8.28 — Powers (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyabalasutta, in which Venerable Sāriputta answers the Buddha's "
+        "own question by naming eight powers that qualify a mendicant who "
+        "has ended the defilements to claim arahantship. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, questioning, and Venerable Sāriputta, "
+                     "answering"),
+        ("Form", "A direct question from the Buddha, answered by Sāriputta "
+                 "with an eight-item list, the last four compressed by "
+                 "internal ellipsis into a single unbroken group"),
+        ("Length", "~2 minutes to read"),
+        ("A technical 'powers,' not a proverbial one", "Unlike AN 8.27's "
+                                                        "folk catalog, this "
+                                                        "discourse's "
+                                                        "&ldquo;powers&rdquo; "
+                                                        "are specific "
+                                                        "meditative insights "
+                                                        "and factors of the "
+                                                        "path that ground an "
+                                                        "arahant's own claim "
+                                                        "to complete freedom"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "final four items compress several major doctrinal "
+                       "categories rapidly, worth reading closely"),
+    ],
+    why=(
+        "Asked by the Buddha how many powers qualify a mendicant who has "
+        "ended the defilements to claim arahantship, Sāriputta names eight: "
+        "clear insight into impermanence, seeing sensual pleasures as a pit "
+        "of glowing coals, a mind inclined to seclusion, and the "
+        "cultivation of the four kinds of mindfulness meditation, the four "
+        "bases of psychic power, the five faculties, the seven awakening "
+        "factors, and the noble eightfold path."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has ended the defilements has eight powers "
+            "that qualify the claim &ldquo;my defilements have ended&rdquo;: "
+            "clearly seeing all conditions as impermanent, seeing sensual "
+            "pleasures as a pit of glowing coals, a mind inclined to "
+            "seclusion, and the full development of the four kinds of "
+            "mindfulness meditation, the four bases of psychic power, the "
+            "five faculties, the seven awakening factors, and the noble "
+            "eightfold path."]),
+        ("Sāriputta answers a direct question from the Buddha", [
+            "Rather than the Buddha teaching this list to the mendicants "
+            "directly, the Buddha poses the question to Sāriputta by name, "
+            "and it is Sāriputta's own answer that constitutes the entire "
+            "discourse &mdash; one of several places in this book where the "
+            "Buddha's foremost disciple in wisdom speaks in his own voice."]),
+        ("Three insights, then five factor-groups", [
+            "The first three powers are individual insights: seeing "
+            "impermanence clearly, seeing sensuality as dangerous as glowing "
+            "coals, and a mind that naturally inclines toward seclusion. "
+            "The remaining five powers are not individual insights but "
+            "entire groups of practice factors, compressed by the source's "
+            "own internal ellipsis into a single flowing list."]),
+        ("The full architecture of practice, named in one breath", [
+            "The final five powers name, in sequence, the four kinds of "
+            "mindfulness meditation, the four bases of psychic power, the "
+            "five faculties, the seven awakening factors, and the noble "
+            "eightfold path &mdash; the same major groupings this project "
+            "has already met named together at AN 7.71 as the full "
+            "thirty-seven factors of awakening, here folded into a single "
+            "power among eight."]),
+    ],
+    terms=[
+        ("khīṇāsavo",
+         "&ldquo;a mendicant who has ended the defilements&rdquo; &mdash; "
+         "an arahant, the subject of Sāriputta's entire answer."),
+        ("sabbe saṅkhārā aniccato yathābhūtaṁ sammappaññāya sudiṭṭhā "
+         "honti",
+         "&ldquo;has clearly seen with right wisdom all conditions as truly "
+         "impermanent&rdquo; &mdash; the first power, an insight into "
+         "impermanence itself."),
+        ("aṅgārakāsūpamā kāmā yathābhūtaṁ sammappaññāya sudiṭṭhā "
+         "honti",
+         "&ldquo;has clearly seen with right wisdom that sensual pleasures "
+         "are truly like a pit of glowing coals&rdquo; &mdash; the second "
+         "power, a vivid simile for the danger of sensuality."),
+        ("vivekaninnaṁ cittaṁ hoti vivekapoṇaṁ vivekapabbhāraṁ",
+         "&ldquo;the mind slants, slopes, and inclines to seclusion&rdquo; "
+         "&mdash; the third power, describing a settled orientation rather "
+         "than an occasional state."),
+        ("cattāro satipaṭṭhānā ... cattāro iddhipādā ... "
+         "pañcindriyāni ... satta bojjhaṅgā ... ariyo aṭṭhaṅgiko "
+         "maggo",
+         "the four kinds of mindfulness meditation, the four bases of "
+         "psychic power, the five faculties, the seven awakening factors, "
+         "and the noble eightfold path &mdash; the remaining five powers, "
+         "together spanning the full thirty-seven factors of awakening."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's question, and Sāriputta's own "
+        "eight-power answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's question to Sāriputta"),
+        ("p", "&sect;1", "an8.28:1.1-2.1"),
+        ("h3", "Three insights"),
+        ("p", "&sect;2", "an8.28:2.2-4.3"),
+        ("h3", "Five factor-groups, in one breath"),
+        ("p", "&sect;3", "an8.28:5.1-7.2"),
+    ],
+    quiz=[
+        {"q": "Who answers the Buddha's question in this discourse?",
+         "opts": [
+             "The Buddha answers his own question",
+             "Venerable Sāriputta, speaking in his own voice",
+             "Venerable Ānanda", "General Sīha"],
+         "correct": 1,
+         "expl": "One of several discourses where Sāriputta's own answer "
+                 "constitutes the entire teaching."},
+        {"q": "What is the second power Sāriputta names?",
+         "opts": [
+             "Skill in debate",
+             "Clearly seeing with right wisdom that sensual pleasures are "
+             "truly like a pit of glowing coals",
+             "Physical endurance",
+             "Wealth given up entirely"],
+         "correct": 1,
+         "expl": "A vivid simile for the danger of sensuality, the second "
+                 "of three individual insights."},
+        {"q": "How does the guide describe the difference between this "
+              "discourse's 'powers' and AN 8.27's?",
+         "opts": [
+             "They are identical in every respect",
+             "This discourse's powers are specific meditative insights and "
+             "path factors grounding an arahant's claim, unlike AN 8.27's "
+             "proverbial social catalog",
+             "AN 8.27 also concerns arahantship",
+             "There is no difference at all"],
+         "correct": 1,
+         "expl": "A technical, doctrinal sense of 'power,' distinct from AN "
+                 "8.27's folk-proverb register."},
+        {"q": "What do the final five powers name together?",
+         "opts": [
+             "Five unrelated miscellaneous qualities",
+             "The four kinds of mindfulness meditation, the four bases of "
+             "psychic power, the five faculties, the seven awakening "
+             "factors, and the noble eightfold path — spanning the full "
+             "thirty-seven factors of awakening",
+             "Five different meditation postures",
+             "Five monastic requisites"],
+         "correct": 1,
+         "expl": "The major groupings already met assembled together at AN "
+                 "7.71, here folded into a single power."},
+        {"q": "What claim do these eight powers qualify a mendicant to "
+              "make?",
+         "opts": [
+             "'I am the wisest in the Saṅgha'",
+             "'My defilements have ended'",
+             "'I will become a Buddha'",
+             "'I have never made a mistake'"],
+         "correct": 1,
+         "expl": "The Buddha's own opening question, answered fully by "
+                 "Sāriputta's eight powers."},
+        {"q": "What is the third power, describing the arahant's mind?",
+         "opts": [
+             "A mind fixed on wealth",
+             "A mind that slants, slopes, and inclines toward seclusion",
+             "A mind focused on debate",
+             "A mind seeking fame"],
+         "correct": 1,
+         "expl": "A settled orientation toward seclusion, not an occasional "
+                 "state."},
+    ],
+    marginalia=[
+        ("Three insights, named first", [
+            "impermanence, seen clearly —",
+            "sensuality like glowing coals —",
+            "a mind inclined to seclusion",
+        ]),
+        ("Five factor-groups, in one breath", [
+            "mindfulness, psychic power,",
+            "faculties, awakening factors,",
+            "the noble eightfold path",
+        ]),
+        ("Sāriputta answers directly", [
+            "not the Buddha teaching outright —",
+            "his foremost disciple in wisdom",
+            "speaks the entire discourse",
+        ]),
+        ("Cross-references", [
+            "AN 8.27 &middot; previous, a proverbial 'powers' unrelated in "
+            "content",
+            "AN 8.29 &middot; next, the eight lost opportunities for "
+            "spiritual practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.28/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.27.html">AN 8.27 &middot; Powers (1st)</a> &mdash; previous, unrelated '
+        "in content despite the shared title.",
+        '<a href="an-8.29.html">AN 8.29 &middot; Lost Opportunities</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.29 — Akkhaṇasutta — closes new content for ch.3 Gahapativagga.
+# an-8.30.html already exists (earlier eighteen-page selection); splice in
+# with an explicit next=, per the an-6.16/an-6.63/an-7.6/an-7.5 precedent.
+# --------------------------------------------------------------------------- #
+page(
+    29, "Akkhaṇa", "Lost Opportunities",
+    vagga=VAGGA_3,
+    meta_title="AN 8.29 — Lost Opportunities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Akkhaṇasutta, naming eight wasted circumstances for spiritual "
+        "practice and the single narrow opportunity that isn't wasted, "
+        "closing with verses on the rarity of a Buddha's arising. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight wasted circumstances, each pairing a Buddha's "
+                 "arising with an obstacle that squanders it, followed by "
+                 "the single circumstance that isn't wasted and ten closing "
+                 "verses"),
+        ("Length", "~4 minutes to read"),
+        ("Closing this chapter's new content", "This is the last discourse "
+                                               "newly built for this "
+                                               "chapter; AN 8.30, "
+                                               "immediately following, "
+                                               "already exists from this "
+                                               "site's earlier eighteen-page "
+                                               "selection and closes the "
+                                               "chapter itself"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; eight "
+                       "parallel structures followed by a sustained closing "
+                       "verse sequence"),
+    ],
+    why=(
+        "AN 8.29 names eight circumstances in which a Realized One's "
+        "arising in the world is wasted &mdash; rebirth in hell, as an "
+        "animal, as a ghost, among long-lived gods, in the borderlands, or "
+        "as a human with wrong view or with dullness even in a central "
+        "country, and even a Buddha's non-arising when someone is otherwise "
+        "perfectly positioned &mdash; against the single narrow window in "
+        "which the opportunity is not wasted at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Of eight circumstances that waste the rare opportunity of a "
+            "Realized One's arising in the world &mdash; four unfortunate "
+            "rebirths, life in the borderlands, wrong view, dullness, or a "
+            "Buddha's own non-arising &mdash; only one narrow window "
+            "combines every necessary condition: a Buddha has arisen, a "
+            "person is reborn in a central country, and that person is "
+            "wise enough to distinguish good teaching from bad."]),
+        ("Seven wasted rebirths, and an eighth wasted circumstance", [
+            "The first seven lost opportunities all begin the same way "
+            "&mdash; a Realized One has arisen in the world &mdash; and "
+            "then name a circumstance that squanders that arising: rebirth "
+            "in hell, as an animal, as a ghost, among long-lived gods "
+            "unable to hear teaching, in remote borderlands teaching never "
+            "reaches, or as a human in a central country who either holds "
+            "wrong view or is simply too dull to tell good teaching from "
+            "bad."]),
+        ("The eighth lost opportunity inverts the pattern", [
+            "Where the first seven all begin with a Buddha having arisen, "
+            "the eighth reverses the condition entirely: a person is born "
+            "wise, bright, and capable in a central country, but no "
+            "Realized One has arisen in the world at all &mdash; showing "
+            "that even ideal personal readiness is wasted without the "
+            "teaching itself being available."]),
+        ("One narrow window, and verses on its rarity", [
+            "Only one combination avoids every obstacle: a Buddha has "
+            "arisen, teaching in a way that leads to peace and awakening, "
+            "and a person is reborn in a central country with the wisdom "
+            "to distinguish well-spoken teaching from poorly spoken "
+            "teaching. The closing verses press the urgency of this rare "
+            "coincidence, warning that missing it invites long regret, "
+            "&ldquo;like the merchant in the story of the past.&rdquo;"]),
+    ],
+    terms=[
+        ("akkhaṇo",
+         "&ldquo;lost opportunity, wrong time&rdquo; &mdash; this "
+         "discourse's own title term, a circumstance in which spiritual "
+         "practice cannot take root even when a Buddha has arisen."),
+        ("majjhimesu janapadesu paccājāto hoti",
+         "&ldquo;reborn in a central country&rdquo; &mdash; a necessary but "
+         "not sufficient condition, required alongside a Buddha's arising "
+         "and personal wisdom for the one opportunity that isn't wasted."),
+        ("micchādiṭṭhiko hoti viparītadassano",
+         "&ldquo;has wrong view and distorted perspective&rdquo; &mdash; "
+         "the sixth lost opportunity, denying moral consequence and the "
+         "afterlife even while born in a favorable location."),
+        ("duppañño hoti eḷamūgo",
+         "&ldquo;witless, dull, idiotic&rdquo; &mdash; the seventh lost "
+         "opportunity, unable to distinguish good teaching from bad even "
+         "under otherwise favorable conditions."),
+        ("khaṇo yathā bhaddaṁ tathā vadanti",
+         "part of the closing verses' warning &mdash; that only rare "
+         "occasions see a Realized One arise, and missing the moment "
+         "brings regret &ldquo;like the merchant in the story of the "
+         "past.&rdquo;"),
+    ],
+    text_intro=(
+        "The discourse in full: eight lost opportunities, the one "
+        "opportunity that isn't wasted, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four wasted rebirths"),
+        ("p", "&sect;1", "an8.29:1.1-4.2"),
+        ("h3", "Borderlands, wrong view, and dullness"),
+        ("p", "&sect;2", "an8.29:5.1-7.3"),
+        ("h3", "The eighth lost opportunity, inverted"),
+        ("p", "&sect;3", "an8.29:8.1-9.1"),
+        ("h3", "The one opportunity that isn't wasted"),
+        ("p", "&sect;4", "an8.29:10.1-10.5"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;5", "an8.29:11.1-20.4"),
+    ],
+    quiz=[
+        {"q": "What do the first seven lost opportunities all share as a "
+              "starting condition?",
+         "opts": [
+             "A person's own choice to reject the teaching",
+             "A Realized One has arisen in the world",
+             "A famine or natural disaster",
+             "The absence of any teacher at all"],
+         "correct": 1,
+         "expl": "Each of the first seven pairs a Buddha's arising with a "
+                 "circumstance that wastes it."},
+        {"q": "How does the eighth lost opportunity differ in structure from "
+              "the first seven?",
+         "opts": [
+             "It is identical in structure to the others",
+             "It reverses the condition — a person is born wise and "
+             "well-placed, but no Realized One has arisen at all",
+             "It doesn't involve rebirth in any form",
+             "It is the only opportunity that isn't actually wasted"],
+         "correct": 1,
+         "expl": "Even ideal personal readiness is wasted without the "
+                 "teaching being available at all."},
+        {"q": "What three conditions together make up the single "
+              "opportunity that isn't wasted?",
+         "opts": [
+             "Wealth, health, and a long life",
+             "A Buddha has arisen and teaches, a person is reborn in a "
+             "central country, and that person is wise enough to tell good "
+             "teaching from bad",
+             "Physical strength, courage, and patience",
+             "Royal birth, education, and fame"],
+         "correct": 1,
+         "expl": "A narrow window combining every necessary condition at "
+                 "once."},
+        {"q": "What does the sixth lost opportunity name, for someone born "
+              "in a central country?",
+         "opts": [
+             "Physical illness",
+             "Wrong view and a distorted perspective, denying moral "
+             "consequence and the afterlife",
+             "Poverty", "Old age"],
+         "correct": 1,
+         "expl": "Favorable birth alone doesn't guarantee the view needed "
+                 "to benefit from a Buddha's teaching."},
+        {"q": "What do the closing verses warn happens to someone who misses "
+              "this rare opportunity?",
+         "opts": [
+             "Nothing of consequence",
+             "Long regret, compared to a merchant in a story of the past, "
+             "and continued transmigration through birth and death",
+             "Immediate awakening regardless",
+             "A second chance guaranteed in the same lifetime"],
+         "correct": 1,
+         "expl": "The verses press the urgency of a coincidence the "
+                 "discourse calls rare."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Seven wasted rebirths", [
+            "hell, animal, ghost realm,",
+            "long-lived gods, borderlands,",
+            "wrong view, or simple dullness",
+        ]),
+        ("The eighth, inverted", [
+            "wise, well-placed, ready —",
+            "but no Buddha has arisen —",
+            "readiness alone isn't enough",
+        ]),
+        ("One narrow window", [
+            "a Buddha teaching, a person",
+            "born well, and wise enough",
+            "to tell good teaching from bad",
+        ]),
+        ("Cross-references", [
+            "AN 8.28 &middot; previous, Sāriputta's own eight powers",
+            "AN 8.21 &middot; earlier, opening this chapter's run of "
+            "householder portraits",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.28.html">AN 8.28 &middot; Powers (2nd)</a> &mdash; previous.',
+        '<a href="an-8.21.html">AN 8.21 &middot; With Ugga of Vesālī</a> &mdash; earlier, '
+        "opening this chapter's run of householder portraits.",
+    ],
+    next=("an-8.30.html", "AN 8.30 &middot; Anuruddha and the Great Thoughts"),
+)
