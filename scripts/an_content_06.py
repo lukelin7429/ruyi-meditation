@@ -4129,3 +4129,2129 @@ page(
         "chapter&rsquo;s opening, for contrast with where it closes.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 3 — Anuttariyavagga (AN 6.21–30)
+# --------------------------------------------------------------------------- #
+VAGGA_3 = "<em>Anuttariyavagga</em> &mdash; the third chapter of the Sixes"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.21 — Sāmakasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, "Sāmaka", "At Sāma Village",
+    vagga=VAGGA_3,
+    meta_title="AN 6.21 — At Sāma Village | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sāmakasutta, opening "
+        "the Sixes' third chapter when a deity reports three causes of a mendicant's decline, "
+        "and the Buddha adds three more. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In the land of the Sakyans, near the little village of Sāma, by a lotus "
+                    "pond"),
+        ("Speakers", "A deity, reporting to the Buddha; then the Buddha, addressing the "
+                     "mendicants"),
+        ("Form", "A deity's nighttime visit and report, approved by the Buddha, followed by his "
+                 "own addition of three further qualities"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Deity-visit narratives reporting on mendicant conduct recur "
+                              "across the Saṁyutta and its Chinese counterparts; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short narrative opening a "
+                       "chapter built mostly from formulaic material"),
+    ],
+    why=(
+        "The Sixes' third chapter opens, unusually, with a deity rather than the Buddha "
+        "speaking first: a glorious being, lighting up an entire lotus pond, reports three "
+        "qualities that lead a mendicant to decline &mdash; relishing work, talk, and sleep, the "
+        "same trio named in AN 6.14, 6.15, and 6.17. The Buddha approves what the deity said, "
+        "and the next morning adds three further qualities of his own, completing the chapter's "
+        "opening six."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six qualities lead to a mendicant's decline: relishing work, talk, and sleep "
+            "(reported by a deity), and enjoying company, being hard to admonish, and having bad "
+            "friends (added by the Buddha)."]),
+        ("A deity as the initial teacher", [
+            "It is the deity, not the Buddha, who first names the three qualities of decline "
+            "&mdash; a structure this series has not yet met. The Buddha's role in that first "
+            "exchange is only to approve: &ldquo;that's what that deity said, and the teacher "
+            "approved.&rdquo; Only afterward, addressing the mendicants directly, does he add "
+            "content of his own, framing the deity's report as essentially correct but "
+            "incomplete."]),
+        ("A familiar trio, extended by three more", [
+            "Work, talk, and sleep are exactly the three items opening the longer six-item list "
+            "of AN 6.14 and 6.15 (work, talk, sleep, company, closeness, proliferation). Here "
+            "the Buddha's three additions &mdash; enjoyment of company, being hard to admonish, "
+            "and having bad friends &mdash; move from personal habits to relational ones, "
+            "rounding the list out to six causes of decline that span both an individual's "
+            "conduct and their choice of company."]),
+        ("A stern opening line", [
+            "The Buddha's response to the deity's report is notably blunt: &ldquo;It's "
+            "unfortunate for those of you who even the deities know are declining in skillful "
+            "qualities.&rdquo; The line implies these six qualities of decline were visible "
+            "enough, in at least some of the assembled mendicants, for a passing deity to "
+            "notice and report on &mdash; a rare moment in this series where an outside "
+            "observer's judgment prompts the teaching, rather than a question or a bare "
+            "formula."]),
+        ("Setting up the chapter's second discourse", [
+            "AN 6.22, immediately following, restates this same six-item structure in its "
+            "positive form &mdash; not what causes decline, but what prevents it &mdash; without "
+            "the narrative frame of a deity's visit. Read together, the two discourses form "
+            "another brief pairing of stated-negative and stated-positive, a pattern with "
+            "precedent already in AN 6.11/6.12."]),
+    ],
+    terms=[
+        ("parihāna",
+         "&ldquo;decline&rdquo; &mdash; what the six qualities named in this discourse are said "
+         "to lead a mendicant toward."),
+        ("devatā",
+         "&ldquo;deity&rdquo; &mdash; the being who visits the Buddha at night and first names "
+         "three of the six qualities."),
+        ("dovacassatā",
+         "&ldquo;being hard to admonish&rdquo; &mdash; the second of the Buddha's three added "
+         "qualities."),
+        ("pāpamittatā",
+         "&ldquo;having bad friends&rdquo; &mdash; the third of the Buddha's additions, closing "
+         "the six-item list."),
+        ("satthā anumodi",
+         "&ldquo;the teacher approved&rdquo; &mdash; the discourse's phrase for the Buddha's "
+         "endorsement of the deity's report, before he adds his own three qualities."),
+    ],
+    text_intro=(
+        "The discourse in full: the deity's nighttime report, and the Buddha's three additional "
+        "qualities the next morning. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Sāma Village: a deity's visit"),
+        ("p", "&sect;1", "an6.21:1.1-2.7"),
+        ("h3", "The Buddha's three further qualities"),
+        ("p", "&sect;2", "an6.21:3.1-5.1"),
+    ],
+    quiz=[
+        {"q": "Who first names three qualities that lead to a mendicant's decline?",
+         "opts": [
+             "The Buddha alone", "A deity, visiting at night, whom the Buddha then approves", "Sāriputta", "Mahākaccāna"],
+         "correct": 1,
+         "expl": "An unusual structure for this series — a deity teaches first, and is approved."},
+        {"q": "What three qualities does the deity report?",
+         "opts": [
+             "Enjoying company, being hard to admonish, having bad friends",
+             "Relishing work, talk, and sleep",
+             "Faith, energy, and wisdom",
+             "The six sense doors"],
+         "correct": 1,
+         "expl": "The same three items opening the longer list at AN 6.14 and 6.15."},
+        {"q": "What three qualities does the Buddha add the next morning?",
+         "opts": [
+             "Relishing work, talk, and sleep",
+             "Enjoyment of company, being hard to admonish, and having bad friends",
+             "The five faculties plus liberation",
+             "Seeing, listening, and acquisition"],
+         "correct": 1,
+         "expl": "A shift from personal habits to relational ones, completing six causes of "
+                 "decline."},
+        {"q": "How does the guide characterize the Buddha's response to the deity's report?",
+         "opts": [
+             "Dismissive — he corrects the deity outright",
+             "Approving but incomplete — he endorses what was said, then adds three qualities of "
+             "his own",
+             "He ignores the deity entirely",
+             "He questions whether the deity is trustworthy"],
+         "correct": 1,
+         "expl": "'That's what that deity said, and the teacher approved' — then he supplements it."},
+        {"q": "What does the Buddha's opening line to the mendicants imply?",
+         "opts": [
+             "That the six qualities of decline are purely hypothetical",
+             "That these qualities were visible enough in at least some mendicants for a passing "
+             "deity to notice and report on",
+             "That the deity fabricated the report",
+             "That decline is impossible for any mendicant"],
+         "correct": 1,
+         "expl": "'It's unfortunate for those of you who even the deities know are declining...'"},
+        {"q": "How does AN 6.22 relate to AN 6.21?",
+         "opts": [
+             "It contradicts AN 6.21's list",
+             "It restates the same six-item structure in positive form — what prevents decline, "
+             "rather than what causes it",
+             "It is entirely unrelated in content",
+             "It replaces the six qualities with an unrelated new list"],
+         "correct": 1,
+         "expl": "A stated-negative and stated-positive pairing, with precedent at AN 6.11/6.12."},
+        {"q": "Where is AN 6.21 set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "In the land of the Sakyans, near the little village of Sāma, by a lotus pond",
+             "Ñātika, in the brick house",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "A fresh, specific setting opening the chapter's third vagga."},
+        {"q": "What does <em>parihāna</em> mean?",
+         "opts": ["Awakening", "Decline", "Generosity", "Recollection"],
+         "correct": 1,
+         "expl": "What the six named qualities are said to lead a mendicant toward."},
+        {"q": "How many of the six causes of decline overlap with AN 6.14/6.15's longer list?",
+         "opts": [
+             "None", "All six", "Three — work, talk, and sleep, the first half of AN 6.14/6.15's "
+             "list", "Only one"],
+         "correct": 2,
+         "expl": "The deity's three items match the opening of the longer six-item list "
+                 "elsewhere in this chapter's predecessor."},
+        {"q": "What role does the Buddha play in the first half of this discourse?",
+         "opts": [
+             "He teaches the deity directly",
+             "He listens and approves what the deity says, without adding content until the next "
+             "morning",
+             "He refuses to engage with the deity at all",
+             "He asks the deity further questions on the spot"],
+         "correct": 1,
+         "expl": "His own addition comes only afterward, addressing the mendicants."},
+    ],
+    marginalia=[
+        ("The deity's three", [
+            "work &middot; talk &middot; sleep",
+        ]),
+        ("The Buddha's three", [
+            "enjoying company",
+            "hard to admonish",
+            "bad friends",
+        ]),
+        ("An unusual structure", [
+            "a deity teaches first,",
+            "the Buddha approves,",
+            "then adds his own three",
+        ]),
+        ("Cross-references", [
+            "AN 6.14/6.15 &middot; the same trio, extended",
+            "AN 6.22 &middot; next, the positive form",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.22.html">AN 6.22 &middot; Non-decline</a> &mdash; next, the same '
+        "structure in positive form.",
+        '<a href="an-6.14.html">AN 6.14 &middot; A Good Death</a> &mdash; earlier, where work, '
+        "talk, and sleep first opened a longer six-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.22 — Aparihāniyasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, "Aparihāniya", "Non-decline",
+    vagga=VAGGA_3,
+    meta_title="AN 6.22 — Non-decline | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aparihāniyasutta, "
+        "restating AN 6.21's six causes of decline in their positive form as six principles "
+        "that prevent it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare list of six qualities, each negated or reversed from AN 6.21's six "
+                 "causes of decline"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "As with AN 6.21, this theme recurs across the Saṁyutta and its "
+                              "Chinese counterparts; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a direct mirror of the "
+                       "preceding discourse"),
+    ],
+    why=(
+        "AN 6.22 takes AN 6.21's six causes of decline and states their opposite: not relishing "
+        "work, talk, sleep, or company; being easy to admonish; and having good friends. Where "
+        "AN 6.21 arrived at its list through a deity's report and the Buddha's addition, AN 6.22 "
+        "states the same material directly, without narrative frame, as six principles that "
+        "prevent decline rather than cause it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six principles prevent a mendicant's decline: not relishing work, talk, sleep, and "
+            "company, being easy to admonish, and having good friends."]),
+        ("A precise mirror, not a new list", [
+            "Each of AN 6.22's six items is the direct negation or reversal of one item from AN "
+            "6.21: not relishing work/talk/sleep/company (reversing the first four), being easy "
+            "to admonish (<em>sovacassatā</em>, reversing <em>dovacassatā</em>), and having good "
+            "friends (<em>kalyāṇamittatā</em>, reversing <em>pāpamittatā</em>). Nothing new is "
+            "introduced; the list is constructed entirely by inversion."]),
+        ("Why state the inversion at all", [
+            "It might seem redundant to state the reverse of an already-given list. But doing so "
+            "makes explicit what is otherwise only implied: readers are not left to infer the "
+            "positive form of AN 6.21's warning for themselves. The canon's preference for "
+            "stating both a warning and its positive counterpart directly, rather than trusting "
+            "an audience to invert it mentally, recurs across this collection."]),
+        ("Losing the narrative frame", [
+            "AN 6.21 was a story: a deity's nighttime visit, the Buddha's approval, his own "
+            "addition the next morning. AN 6.22 strips all of that away, presenting the same "
+            "six-item structure as a bare formula with no scene at all. The content survives the "
+            "loss of its narrative wrapping intact &mdash; suggesting the story in AN 6.21 was "
+            "occasion, not substance."]),
+        ("A pattern already familiar from this chapter's predecessor", [
+            "This positive-restatement move already appeared at AN 6.11/6.12 in the previous "
+            "chapter, though there the second discourse added an outcome clause rather than "
+            "simply inverting the first. Here the technique is starker: pure inversion, term for "
+            "term, with no elaboration beyond the reversal itself."]),
+    ],
+    terms=[
+        ("aparihāniya",
+         "&ldquo;non-declining,&rdquo; &ldquo;conducive to non-decline&rdquo; &mdash; the "
+         "discourse's own title, and the quality named of all six items together."),
+        ("sovacassatā",
+         "&ldquo;being easy to admonish&rdquo; &mdash; reversing AN 6.21's "
+         "<em>dovacassatā</em>, hard to admonish."),
+        ("kalyāṇamittatā",
+         "&ldquo;having good friends&rdquo; &mdash; reversing AN 6.21's "
+         "<em>pāpamittatā</em>, bad friends."),
+        ("kammārāmatā",
+         "&ldquo;relishing work&rdquo; &mdash; the quality negated as the first item here, "
+         "matching AN 6.21's first cause of decline."),
+        ("saṅgaṇikārāmatā",
+         "&ldquo;relishing company&rdquo; &mdash; the fourth quality negated, closing the "
+         "personal-habit half of the list before the two relational items."),
+    ],
+    text_intro=(
+        "The discourse in full: the six principles that prevent decline. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The six principles that prevent decline"),
+        ("p", "&sect;1", "an6.22:1.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What six principles does AN 6.22 name as preventing decline?",
+         "opts": [
+             "Not relishing work, talk, sleep, and company; being easy to admonish; having good "
+             "friends",
+             "Faith, energy, mindfulness, immersion, and wisdom",
+             "The six sense doors",
+             "Seeing, listening, acquisition, training, service, recollection"],
+         "correct": 0,
+         "expl": "The direct inversion of AN 6.21's six causes of decline."},
+        {"q": "How is AN 6.22's list constructed, according to the guide?",
+         "opts": [
+             "As an entirely new set of qualities unrelated to AN 6.21",
+             "Entirely by inversion — each item is the direct negation or reversal of one item "
+             "from AN 6.21",
+             "By adding three new items to AN 6.21's original three",
+             "By removing half of AN 6.21's items"],
+         "correct": 1,
+         "expl": "Nothing new is introduced beyond the reversal itself."},
+        {"q": "What does AN 6.22 lack, compared to AN 6.21?",
+         "opts": [
+             "A closing formula",
+             "Any narrative frame — no deity, no scene, just a bare formula",
+             "Six distinct qualities",
+             "Any relation to decline at all"],
+         "correct": 1,
+         "expl": "The content survives the loss of its narrative wrapping intact."},
+        {"q": "What does the guide suggest this implies about AN 6.21's deity narrative?",
+         "opts": [
+             "That the deity's report was false",
+             "That the story was occasion, not substance — the teaching stands independently of "
+             "its narrative frame",
+             "That AN 6.22 should be read before AN 6.21",
+             "That deities cannot actually teach the Dhamma"],
+         "correct": 1,
+         "expl": "The same six-item structure holds with or without the narrative wrapping."},
+        {"q": "What earlier pairing in this chapter's predecessor does the guide compare this "
+              "to?",
+         "opts": [
+             "AN 6.5-6.7's thoroughbred triad",
+             "AN 6.11/6.12 — though there the second discourse added an outcome clause rather "
+             "than simply inverting the first",
+             "AN 6.1/6.2's worthiness formula",
+             "AN 6.9/6.10's recollections"],
+         "correct": 1,
+         "expl": "A similar stated-negative/stated-positive move, though executed differently."},
+        {"q": "What does <em>sovacassatā</em> mean?",
+         "opts": ["Hard to admonish", "Easy to admonish", "Relishing sleep", "Having bad friends"],
+         "correct": 1,
+         "expl": "The direct reversal of AN 6.21's dovacassatā."},
+        {"q": "Is a setting stated for AN 6.22?",
+         "opts": ["Yes, near Sāma village", "No — none is stated", "Yes, at Isipatana", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula with no scene at all."},
+        {"q": "What does <em>kalyāṇamittatā</em> mean?",
+         "opts": ["Bad friendship", "Good friendship", "Solitary practice", "Hard to admonish"],
+         "correct": 1,
+         "expl": "The sixth and final item, reversing pāpamittatā."},
+        {"q": "How many of the six items concern personal habits versus relational qualities?",
+         "opts": [
+             "All six concern personal habits",
+             "Four personal-habit items (work, talk, sleep, company), followed by two relational "
+             "items (easy to admonish, good friends)",
+             "All six concern relationships with other people",
+             "Three and three, evenly split"],
+         "correct": 1,
+         "expl": "Matching the structure of AN 6.21's six causes of decline."},
+        {"q": "What comes next in the chapter, after this pair on decline and non-decline?",
+         "opts": [
+             "AN 6.23, on six terms describing the danger of sensual pleasures",
+             "The chapter ends here",
+             "A return to the thoroughbred simile",
+             "AN 6.30, skipping ahead"],
+         "correct": 0,
+         "expl": "A shift to a different, more technical subject."},
+    ],
+    marginalia=[
+        ("Six inversions", [
+            "not relishing: work,",
+            "talk, sleep, company",
+            "+ easy to admonish,",
+            "good friends",
+        ]),
+        ("Pure reversal", [
+            "no new content —",
+            "each item negates",
+            "one from AN 6.21",
+        ]),
+        ("Frame stripped away", [
+            "no deity, no scene,",
+            "just the bare formula",
+        ]),
+        ("Cross-references", [
+            "AN 6.21 &middot; previous, the causes",
+            "AN 6.23 &middot; next, terms for danger",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.21.html">AN 6.21 &middot; At Sāma Village</a> &mdash; previous, the same '
+        "six qualities stated as causes of decline.",
+        '<a href="an-6.23.html">AN 6.23 &middot; Dangers</a> &mdash; next, six terms for the '
+        "danger of sensual pleasures.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.23 — Bhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Bhaya", "Dangers",
+    vagga=VAGGA_3,
+    meta_title="AN 6.23 — Dangers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhayasutta, which "
+        "gives six terms — danger, suffering, disease, boil, chain, and bog — as synonyms for "
+        "sensual pleasures, and explains why each name fits. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Six terms named in a row, a single explanation applied to all six, and a "
+                 "closing pair of verses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Synonym-lists for the danger of sensual pleasure recur across "
+                              "the Chinese Āgamas; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but each of the six "
+                       "terms is doing real argumentative work, not simply piling up synonyms"),
+    ],
+    why=(
+        "AN 6.23 is unusual among this chapter's six-item lists: rather than naming six "
+        "qualities, practices, or occasions, it names six words &mdash; danger, suffering, "
+        "disease, boil, chain, and bog &mdash; and argues that all six are legitimate terms for "
+        "one thing, sensual pleasures. A single explanation, repeated for all six, does the "
+        "argumentative work: someone caught by sensual greed is not freed from any of these six "
+        "conditions, in this life or lives to come, and so all six names genuinely apply."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Danger, suffering, disease, boil, chain (or snare), and bog are all terms for "
+            "sensual pleasures, because someone besotted by sensual greed and shackled by "
+            "lustful desire is not freed from any of these six conditions, in this life or "
+            "lives to come."]),
+        ("Six words, one argument", [
+            "The discourse does not explain each term separately with its own distinct "
+            "rationale. It states all six terms, then gives a single explanation that covers "
+            "all six at once: entanglement in sensual desire keeps a person unfree from danger, "
+            "unfree from suffering, unfree from disease, and so on through the whole list. The "
+            "six words function less as six separate insights than as six angles on one claim, "
+            "repeated with variation for emphasis."]),
+        ("Words chosen for their ordinary force", [
+            "None of the six terms is a specialized doctrinal term coined for this discourse; "
+            "each is a plain word for something anyone would want to avoid &mdash; a boil, a "
+            "chain, a bog to be mired in. The argument's persuasive weight rests on this "
+            "ordinariness: rather than asserting sensual pleasure is bad by definition, the "
+            "discourse claims it deserves the same visceral aversion a listener already feels "
+            "toward disease or a suppurating wound."]),
+        ("A change of state, not a permanent verdict", [
+            "The closing verses describe not a condemnation without exit but a contrast between "
+            "two conditions: &ldquo;ordinary people&rdquo; remain attached to what these six "
+            "words describe, while &ldquo;the unattached,&rdquo; seeing the danger in grasping, "
+            "are freed with the ending of birth and death. The six terms describe a condition "
+            "that can be left, not an unalterable feature of sensual experience itself."]),
+        ("A different kind of six-item list", [
+            "Compared to the qualities, practices, and occasions named elsewhere in this "
+            "chapter, AN 6.23's list is unusual in being a list of words rather than a list of "
+            "things to do or cultivate. Its place among the Sixes depends only on there being "
+            "six terms offered, not on any six-fold structure in the underlying teaching about "
+            "sensual pleasure itself."]),
+    ],
+    terms=[
+        ("kāma",
+         "&ldquo;sensual pleasure,&rdquo; &ldquo;sensuality&rdquo; &mdash; what all six terms in "
+         "this discourse are said to name."),
+        ("bhaya",
+         "&ldquo;danger,&rdquo; &ldquo;fear&rdquo; &mdash; the first of the six terms, and the "
+         "discourse's own title."),
+        ("gaṇḍa",
+         "&ldquo;boil&rdquo; &mdash; the fourth term, chosen for the visceral aversion a boil "
+         "ordinarily provokes."),
+        ("paṅka",
+         "&ldquo;bog,&rdquo; &ldquo;mire&rdquo; &mdash; the sixth and final term, an image of "
+         "being stuck and slowly sinking."),
+        ("anupāya",
+         "not itself a term from this discourse, but the state described in its closing verses "
+         "as reached by &ldquo;the unattached,&rdquo; freed from grasping and its consequences."),
+    ],
+    text_intro=(
+        "The discourse in full: the six terms, the shared explanation, and the closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six terms for sensual pleasures"),
+        ("p", "&sect;1", "an6.23:1.1-1.6"),
+        ("h3", "Why these terms apply"),
+        ("p", "&sect;2", "an6.23:2.1-2.8"),
+        ("h3", "The closing verses"),
+        ("p", "&sect;3", "an6.23:3.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What six terms does AN 6.23 give as synonyms for sensual pleasures?",
+         "opts": [
+             "Danger, suffering, disease, boil, chain (snare), and bog",
+             "Faith, energy, mindfulness, immersion, wisdom, and liberation",
+             "Work, talk, sleep, company, closeness, and proliferation",
+             "The six sense doors"],
+         "correct": 0,
+         "expl": "Bhaya, dukkha, roga, gaṇḍa, and so on."},
+        {"q": "What single explanation does the discourse give for all six terms applying?",
+         "opts": [
+             "Each term has its own distinct, separately argued rationale",
+             "One explanation covers all six: someone besotted by sensual greed is not freed "
+             "from any of these six conditions, in this life or lives to come",
+             "The terms are simply asserted with no explanation given",
+             "Different deities gave different explanations for each term"],
+         "correct": 1,
+         "expl": "The six words function as six angles on one claim, not six separate insights."},
+        {"q": "According to the guide, why were these six particular words chosen?",
+         "opts": [
+             "They are specialized doctrinal terms unique to this discourse",
+             "They are plain, ordinary words for things anyone would want to avoid, drawing on "
+             "visceral aversion already felt toward disease or a wound",
+             "They were chosen at random to fill out the number six",
+             "They are all synonyms for physical illness only"],
+         "correct": 1,
+         "expl": "The argument's force rests on the words' ordinariness, not technical precision."},
+        {"q": "What do the closing verses describe, according to the guide?",
+         "opts": [
+             "A permanent, unalterable feature of sensual experience with no exit possible",
+             "A contrast between two conditions — ordinary people remaining attached, and the "
+             "unattached being freed with the ending of birth and death",
+             "A condemnation of all pleasure of any kind",
+             "A description only of monastic life, with no relevance to laypeople"],
+         "correct": 1,
+         "expl": "The six terms describe a condition that can be left, not a fixed verdict."},
+        {"q": "How does the guide characterize this list compared to others in the chapter?",
+         "opts": [
+             "Identical in structure to every other six-item list in this chapter",
+             "Unusual — a list of words rather than qualities, practices, or occasions; its "
+             "place among the Sixes depends only on there being six terms offered",
+             "It is not actually a list of six items at all",
+             "It concerns meditation technique exclusively, like AN 6.24"],
+         "correct": 1,
+         "expl": "A different kind of six-fold structure from the rest of the chapter."},
+        {"q": "What does <em>gaṇḍa</em> mean?",
+         "opts": ["Chain", "Boil", "Bog", "Danger"],
+         "correct": 1,
+         "expl": "The fourth of the six terms, chosen for its visceral force."},
+        {"q": "What does <em>paṅka</em> mean?",
+         "opts": ["Disease", "Suffering", "Bog, mire", "Danger"],
+         "correct": 2,
+         "expl": "The sixth and final term, an image of being stuck and sinking."},
+        {"q": "Is a setting stated for AN 6.23?",
+         "opts": ["Yes, at Sāma village", "No — none is stated", "Yes, at Isipatana", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula continuing this chapter's pattern."},
+        {"q": "What is <em>kāma</em>?",
+         "opts": [
+             "A specific meditative attainment",
+             "Sensual pleasure, sensuality — what all six terms in this discourse name",
+             "A synonym for the Saṅgha",
+             "A type of monastic robe"],
+         "correct": 1,
+         "expl": "The single subject all six words are claimed to genuinely describe."},
+        {"q": "What does the guide say about who is 'freed' according to the closing verses?",
+         "opts": [
+             "No one can ever be freed from what these six terms describe",
+             "The unattached, who see the danger in grasping and are freed with the ending of "
+             "birth and death",
+             "Only deities are capable of such freedom",
+             "Freedom is achieved automatically with age"],
+         "correct": 1,
+         "expl": "A stated path out of the condition the six terms describe, not a closed verdict."},
+    ],
+    marginalia=[
+        ("The six terms", [
+            "danger &middot; suffering",
+            "disease &middot; boil",
+            "chain &middot; bog",
+        ]),
+        ("One shared reason", [
+            "besotted by desire,",
+            "unfree from all six —",
+            "in this life and beyond",
+        ]),
+        ("Ordinary words, chosen", [
+            "not technical jargon —",
+            "visceral, familiar",
+            "aversion, redirected",
+        ]),
+        ("Cross-references", [
+            "AN 6.22 &middot; previous, non-decline",
+            "AN 6.24 &middot; next, immersion and Himalaya",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.24.html">AN 6.24 &middot; The Himalaya</a> &mdash; next, six qualities of '
+        "skill in immersion.",
+        '<a href="an-6.22.html">AN 6.22 &middot; Non-decline</a> &mdash; previous, a different '
+        "register of six-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.24 — Himavantasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, "Himavanta", "The Himalaya",
+    vagga=VAGGA_3,
+    meta_title="AN 6.24 — The Himalaya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Himavantasutta, which "
+        "names six kinds of skill in immersion powerful enough, the Buddha says, to shatter the "
+        "Himalaya itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single hyperbolic claim, then a bare list of six technical skills"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The six kinds of skill in immersion (samādhi) named here recur "
+                              "in related technical form across the Chinese Āgamas and "
+                              "Abhidharma literature; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, but each of the six "
+                       "terms names a distinct, specific meditative skill worth distinguishing "
+                       "from the others"),
+    ],
+    why=(
+        "AN 6.24 opens on hyperbole: a mendicant with six qualities could shatter the Himalaya, "
+        "the king of mountains &mdash; and the discourse immediately undercuts the extravagance "
+        "of that image with a dry aside, &ldquo;let alone this wretched ignorance,&rdquo; "
+        "implying that dismantling ignorance is, if anything, the lesser task. What follows is a "
+        "compact taxonomy of skill in immersion: not simply the ability to enter absorption, but "
+        "six distinct competencies covering the whole arc of working with it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant skilled in entering immersion, remaining in it, emerging from it, "
+            "readying the mind for it, knowing its proper territory, and directing a mind "
+            "purified by it toward a goal, could &mdash; the discourse claims &mdash; shatter "
+            "the Himalaya itself, let alone something as comparatively minor as ignorance."]),
+        ("Six competencies, not one ability", [
+            "&ldquo;Skill in immersion&rdquo; might suggest a single capacity, but the "
+            "discourse breaks it into six distinguishable skills: entering (<em>samāpatti"
+            "</em>), remaining steady once in (<em>ṭhiti</em>), emerging cleanly "
+            "(<em>vuṭṭhāna</em>), readiness or fitness for it (<em>kallita</em>), knowing its "
+            "proper scope or territory (<em>gocara</em>), and directing a purified mind toward "
+            "a chosen aim (<em>abhinīhāra</em>). A meditator might have some of these "
+            "competencies without others &mdash; able to enter absorption easily, for instance, "
+            "but not to emerge from it cleanly, or not to direct the resulting clarity toward a "
+            "specific purpose."]),
+        ("What the mountain-shattering claim is doing", [
+            "This is not a literal claim about geology. The Himalaya functions here as the "
+            "canon's stock image of maximum physical immovability &mdash; the largest, most "
+            "fixed thing a listener could imagine &mdash; used precisely so the discourse can "
+            "then deflate it: shattering something that solid is treated as a lesser feat than "
+            "overturning ignorance, the actual target these six skills serve. The hyperbole "
+            "exists to be undercut, not to be taken at face value."]),
+        ("A technical vocabulary this series has not yet needed", [
+            "Earlier discourses on immersion in this series (the faculties and powers at AN "
+            "6.3&ndash;6.4, or immersion as one item within larger lists) treated it as a single "
+            "named quality among others. AN 6.24 is the first discourse in this series to open "
+            "immersion itself up into component skills, treating meditative competence as "
+            "something with distinguishable parts rather than a single yes-or-no capacity."]),
+        ("A short discourse with no closing formula", [
+            "Unlike most of this chapter's list-discourses, AN 6.24 closes immediately after "
+            "restating its opening claim, with no further explanation of the six terms, no "
+            "quiz-friendly closing verse, and no attached worthiness formula. The six terms are "
+            "left, deliberately or simply because the source text is this short, to stand as "
+            "bare technical vocabulary for a reader to carry forward."]),
+    ],
+    terms=[
+        ("samādhissa samāpattikusalo",
+         "&ldquo;skilled in entering immersion&rdquo; &mdash; the first of the six, the ability "
+         "to enter absorption."),
+        ("samādhissa ṭhitikusalo",
+         "&ldquo;skilled in remaining in immersion&rdquo; &mdash; the second, sustaining "
+         "steadiness once absorbed."),
+        ("samādhissa vuṭṭhānakusalo",
+         "&ldquo;skilled in emerging from immersion&rdquo; &mdash; the third, the ability to "
+         "come out of absorption cleanly and at will."),
+        ("samādhissa gocarakusalo",
+         "&ldquo;skilled in the territory of immersion&rdquo; &mdash; the fifth, knowing "
+         "immersion's proper scope or domain."),
+        ("samādhissa abhinīhārakusalo",
+         "&ldquo;skilled in projecting the mind purified by immersion&rdquo; &mdash; the sixth "
+         "and final skill, directing the resulting clarity toward a chosen aim."),
+    ],
+    text_intro=(
+        "The discourse in full: the mountain-shattering claim, and the six skills in immersion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Shattering the Himalaya"),
+        ("p", "&sect;1", "an6.24:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the discourse claim a mendicant with six qualities could shatter?",
+         "opts": [
+             "A large boulder",
+             "The Himalaya, the king of mountains — 'let alone this wretched ignorance'",
+             "A city wall",
+             "An iron chain"],
+         "correct": 1,
+         "expl": "Hyperbole used to deflate itself — ignorance is the actual, comparatively "
+                 "lesser target."},
+        {"q": "What six skills in immersion does the discourse name?",
+         "opts": [
+             "Entering, remaining, emerging, positivity/readiness, territory, and projecting the "
+             "purified mind",
+             "Faith, energy, mindfulness, immersion, and wisdom",
+             "Seeing, listening, acquisition, training, service, recollection",
+             "The four brahmavihāra plus two further liberations"],
+         "correct": 0,
+         "expl": "Samāpatti, ṭhiti, vuṭṭhāna, kallita, gocara, abhinīhāra."},
+        {"q": "According to the guide, why might a meditator have some of these six skills "
+              "without others?",
+         "opts": [
+             "The six skills are identical and always develop together",
+             "They are distinguishable competencies — one might enter absorption easily but not "
+             "emerge cleanly, or not direct the resulting clarity toward a purpose",
+             "Only fully awakened beings can have any of the six",
+             "The discourse denies this is possible"],
+         "correct": 1,
+         "expl": "A taxonomy of distinct skills, not a single unified ability."},
+        {"q": "What function does the Himalaya image serve, according to the guide?",
+         "opts": [
+             "A literal geological claim the discourse expects readers to believe",
+             "The canon's stock image of maximum physical immovability, used precisely so it can "
+             "be deflated by comparison to overturning ignorance",
+             "A reference to an actual event in the Buddha's life",
+             "A warning against mountain travel"],
+         "correct": 1,
+         "expl": "The hyperbole exists to be undercut, not taken at face value."},
+        {"q": "How does AN 6.24 treat immersion differently from earlier discourses in this "
+              "series?",
+         "opts": [
+             "It is the first discourse in this series to open immersion into distinguishable "
+             "component skills, rather than treating it as one named quality among others",
+             "It denies immersion has any value",
+             "It treats immersion identically to how AN 6.3-6.4 treated it",
+             "It replaces immersion with a different concept entirely"],
+         "correct": 0,
+         "expl": "A finer-grained taxonomy than the faculties/powers pairing earlier in this "
+                 "chapter's predecessor."},
+        {"q": "What does <em>vuṭṭhānakusalo</em> mean?",
+         "opts": [
+             "Skilled in entering immersion",
+             "Skilled in emerging from immersion",
+             "Skilled in the territory of immersion",
+             "Skilled in remaining in immersion"],
+         "correct": 1,
+         "expl": "The third of the six skills, the ability to come out of absorption cleanly."},
+        {"q": "What is notable about how AN 6.24 closes, compared to most of this chapter's "
+              "discourses?",
+         "opts": [
+             "It ends with an elaborate closing verse",
+             "It closes immediately after restating its opening claim, with no further "
+             "explanation, quiz-friendly verse, or attached worthiness formula",
+             "It ends with a dialogue between two mendicants",
+             "It closes with the fourfold worthiness formula from AN 6.1"],
+         "correct": 1,
+         "expl": "A notably terse discourse, even by this chapter's standards."},
+        {"q": "Is a setting stated for AN 6.24?",
+         "opts": ["Yes, near Sāma village", "No — none is stated", "Yes, at Isipatana", "Yes, at Kapilavatthu"],
+         "correct": 1,
+         "expl": "Continuing this chapter's frequent bare-formula pattern."},
+        {"q": "What does <em>abhinīhāra</em> mean in this context?",
+         "opts": [
+             "Entering absorption",
+             "Directing a mind purified by immersion toward a chosen aim",
+             "Remaining steady in absorption",
+             "The territory or scope of immersion"],
+         "correct": 1,
+         "expl": "The sixth and final skill, closing the list."},
+        {"q": "What is the discourse's actual target, despite its dramatic opening image?",
+         "opts": [
+             "Literal mountains", "Ignorance (avijjā)", "Sensual pleasure", "Physical illness"],
+         "correct": 1,
+         "expl": "'Let alone this wretched ignorance' names the real, comparatively lesser task."},
+    ],
+    marginalia=[
+        ("Six skills in immersion", [
+            "entering &middot; remaining",
+            "emerging &middot; readiness",
+            "territory &middot; projecting",
+        ]),
+        ("A deflated hyperbole", [
+            "shatter the Himalaya —",
+            "'let alone ignorance',",
+            "the real, lesser target",
+        ]),
+        ("Distinct competencies", [
+            "one skill without",
+            "the others is possible —",
+            "not a single ability",
+        ]),
+        ("Cross-references", [
+            "AN 6.3/6.4 &middot; faculties and powers",
+            "AN 6.25 &middot; next, recollection again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.25.html">AN 6.25 &middot; Topics for Recollection</a> &mdash; next, a '
+        "third telling of the six recollections met earlier at AN 6.9-6.10.",
+        '<a href="an-6.23.html">AN 6.23 &middot; Dangers</a> &mdash; previous, a different '
+        "register of six-item teaching.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.25 — Anussatiṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Anussatiṭṭhāna", "Topics for Recollection",
+    vagga=VAGGA_3,
+    meta_title="AN 6.25 — Topics for Recollection | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for this chapter's own "
+        "Anussatiṭṭhānasutta, a third telling of the six recollections already met at AN "
+        "6.9-6.10, self-contained and closing on how they purify a mind of greed. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same six recollections as AN 6.9/6.10, stated here as one self-contained "
+                 "discourse rather than split into a bare list and its expansion"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "As with AN 6.9/6.10, the six recollections recur widely across "
+                              "the Chinese Āgamas and later Mahāyāna devotional practice; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; largely familiar material "
+                       "from earlier in this nipāta, worth reading for what is added, not just "
+                       "repeated"),
+    ],
+    why=(
+        "This is the third time this series has encountered the six recollections &mdash; of "
+        "the Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities &mdash; after "
+        "AN 6.9's bare list and AN 6.10's full expansion via Mahānāma's question. AN 6.25 gives "
+        "them a third telling, this time as one self-contained discourse with no interlocutor "
+        "and no bare-list companion of its own. It is not identical to AN 6.10, though "
+        "&mdash; it closes each recollection differently, on how the practice purifies a mind "
+        "of greed, rather than on the five-step chain from joy to immersion that closed AN "
+        "6.10's account."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are six topics for recollection &mdash; the Buddha, the teaching, the "
+            "Saṅgha, one's own ethics, one's own generosity, and the deities &mdash; each of "
+            "which, recollected, leaves the mind free of greed, hate, and delusion and unswerving, "
+            "having left greed behind."]),
+        ("What is genuinely the same as AN 6.9/6.10", [
+            "The six topics themselves, their order, and the content of each formula &mdash; "
+            "the nine-epithet description of the Buddha, the four-part description of the "
+            "teaching, and so on &mdash; match AN 6.10 closely. A reader who has already read "
+            "AN 6.10 will recognize this material immediately rather than encountering it fresh."]),
+        ("What is genuinely different, checked directly against the Pāli", [
+            "Unlike AN 6.10, which closed its account of Buddha- and deity-recollection with "
+            "the five-step chain from joy through rapture, tranquility, and bliss to immersion, "
+            "AN 6.25 closes each recollection instead with: &ldquo;their mind is quite "
+            "unswerving. They've left behind greed; they're free of it and have risen above "
+            "it. 'Greed' is a term for the five kinds of sensual stimulation. Relying on this, "
+            "some sentient beings are purified in this way.&rdquo; This is a different closing "
+            "formula, not a paraphrase of AN 6.10's, and this guide follows its own earlier "
+            "caution against assuming similar-sounding formulas are identical without checking "
+            "directly."]),
+        ("A discourse complete in itself", [
+            "Where AN 6.9 was deliberately a bare list awaiting AN 6.10's expansion, AN 6.25 "
+            "needs no companion; it states the six topics and their effect fully, in a single "
+            "self-contained teaching, with no named interlocutor prompting it and no second "
+            "discourse required to complete it."]),
+        ("A third telling still to come a fourth time", [
+            "AN 6.26, immediately following, gives these same six recollections yet again "
+            "&mdash; a fourth telling in this nipāta alone, this time spoken by Mahākaccāna as "
+            "praise for the Buddha's teaching, with its own distinct addition not present here "
+            "or at AN 6.9/6.10."]),
+    ],
+    terms=[
+        ("anussatiṭṭhāna",
+         "&ldquo;topic for recollection&rdquo; &mdash; the discourse's own title, shared with "
+         "AN 6.9."),
+        ("avecappasanna",
+         "not directly named in this discourse's English but implicit in &ldquo;quite "
+         "unswerving&rdquo; &mdash; confirmed confidence, based directly on what has been "
+         "recollected."),
+        ("kāmaguṇa",
+         "&ldquo;kinds of sensual stimulation&rdquo; &mdash; what this discourse specifies "
+         "&ldquo;greed&rdquo; is a term for, in its distinctive closing clause."),
+        ("visujjhanti",
+         "&ldquo;are purified&rdquo; &mdash; the verb closing this discourse's account of each "
+         "recollection, not present in AN 6.10's closing formula."),
+        ("buddhānussati",
+         "recollection of the Buddha &mdash; the first of the six, its nine-epithet formula "
+         "matching AN 6.10 closely."),
+    ],
+    text_intro=(
+        "The discourse in full: the six recollections, each closing on how it purifies a mind "
+        "of greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Recollection of the Buddha"),
+        ("p", "&sect;1", "an6.25:1.1-1.8"),
+        ("h3", "Recollection of the teaching"),
+        ("p", "&sect;2", "an6.25:2.1-2.3"),
+        ("h3", "Recollection of the Saṅgha"),
+        ("p", "&sect;3", "an6.25:3.1-3.3"),
+        ("h3", "Recollection of ethics"),
+        ("p", "&sect;4", "an6.25:4.1-4.2"),
+        ("h3", "Recollection of generosity"),
+        ("p", "&sect;5", "an6.25:5.1-5.4"),
+        ("h3", "Recollection of the deities, and the conclusion"),
+        ("p", "&sect;6", "an6.25:6.1-8.1"),
+    ],
+    quiz=[
+        {"q": "How many times has this series now encountered the six recollections, counting "
+              "this discourse?",
+         "opts": ["Once", "Twice", "A third time, after AN 6.9's bare list and AN 6.10's "
+                  "expansion", "A fourth time"],
+         "correct": 2,
+         "expl": "AN 6.26, immediately following, will make it a fourth."},
+        {"q": "What genuinely matches between this discourse and AN 6.10?",
+         "opts": [
+             "Nothing at all — they are unrelated lists",
+             "The six topics themselves, their order, and the content of each recollection "
+             "formula, such as the nine-epithet description of the Buddha",
+             "Only the setting matches",
+             "Only the closing clause matches"],
+         "correct": 1,
+         "expl": "A reader of AN 6.10 will recognize this core material immediately."},
+        {"q": "What is genuinely different about this discourse's closing formula, checked "
+              "directly against the source?",
+         "opts": [
+             "Nothing — it is a word-for-word repeat of AN 6.10's closing",
+             "It closes on purification from greed and names greed 'a term for the five kinds of "
+             "sensual stimulation,' rather than AN 6.10's five-step chain from joy to immersion",
+             "It adds a sixth recollection not present in AN 6.10",
+             "It removes the recollection of the deities entirely"],
+         "correct": 1,
+         "expl": "A distinct closing formula, verified directly rather than assumed from "
+                 "surface similarity."},
+        {"q": "What caution does the guide explicitly apply to itself here?",
+         "opts": [
+             "None — it assumes the two discourses are identical",
+             "Its own earlier caution against assuming similar-sounding formulas are identical "
+             "without checking directly against the Pāli",
+             "A caution against ever comparing two discourses",
+             "A caution that recollection practices are ineffective"],
+         "correct": 1,
+         "expl": "Consistent with the lesson already applied elsewhere in this series about "
+                 "not conflating formulas that merely sound alike."},
+        {"q": "Does AN 6.25 require a companion discourse to complete its teaching, unlike AN "
+              "6.9?",
+         "opts": [
+             "Yes, it requires AN 6.26 to be complete",
+             "No — it is a discourse complete in itself, stating the six topics and their "
+             "effect fully with no named interlocutor",
+             "Yes, it requires AN 6.10",
+             "It is deliberately left incomplete"],
+         "correct": 1,
+         "expl": "Unlike AN 6.9's bare list awaiting AN 6.10's expansion."},
+        {"q": "What does <em>kāmaguṇa</em> mean, as used in this discourse's closing clause?",
+         "opts": [
+             "A term for ethical precepts",
+             "Kinds of sensual stimulation — what 'greed' is specified as a term for",
+             "A term for the deities",
+             "A meditative attainment"],
+         "correct": 1,
+         "expl": "Part of this discourse's distinctive closing formula, not found in AN 6.10's."},
+        {"q": "Who speaks AN 6.25?",
+         "opts": ["Sāriputta", "The Buddha", "Mahākaccāna", "Ānanda"],
+         "correct": 1,
+         "expl": "Unlike AN 6.26, immediately following, which is spoken by Mahākaccāna."},
+        {"q": "Is a setting stated for AN 6.25?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Kapilavatthu", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "Continuing this chapter's bare-formula pattern."},
+        {"q": "What comes immediately after AN 6.25?",
+         "opts": [
+             "AN 6.26, a fourth telling of the same six recollections, spoken by Mahākaccāna",
+             "AN 6.30, skipping ahead",
+             "The chapter ends here",
+             "A return to the thoroughbred simile"],
+         "correct": 0,
+         "expl": "This nipāta returns to the six recollections yet again, with a new speaker and "
+                 "a new addition."},
+        {"q": "How many recollections does this discourse name in total?",
+         "opts": ["Five", "Six", "Seven", "Ten"],
+         "correct": 1,
+         "expl": "The Buddha, the teaching, the Saṅgha, ethics, generosity, and the deities."},
+    ],
+    marginalia=[
+        ("Same six topics", [
+            "the Buddha &middot; the teaching",
+            "the Saṅgha &middot; ethics",
+            "generosity &middot; the deities",
+        ]),
+        ("A different closing", [
+            "not AN 6.10's joy-to-",
+            "immersion chain — instead,",
+            "purification from greed",
+        ]),
+        ("Checked, not assumed", [
+            "similar-sounding ≠",
+            "identical — verified",
+            "against the Pāli directly",
+        ]),
+        ("Cross-references", [
+            "AN 6.9/6.10 &middot; the first telling",
+            "AN 6.26 &middot; next, a fourth telling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.26.html">AN 6.26 &middot; With Mahākaccāna</a> &mdash; next, a fourth '
+        "telling with its own distinct addition.",
+        '<a href="an-6.10.html">AN 6.10 &middot; With Mahānāma</a> &mdash; the first full '
+        "expansion of these six recollections, for direct comparison.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.26 — Mahākaccānasutta
+# --------------------------------------------------------------------------- #
+page(
+    26, "Mahākaccāna", "With Mahākaccāna",
+    vagga=VAGGA_3,
+    meta_title="AN 6.26 — With Mahākaccāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mahākaccānasutta, a "
+        "fourth telling of the six recollections, framed by Mahākaccāna as praise for the "
+        "Buddha and adding a space-like heart to two of the six. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Mahākaccāna, addressing the mendicants"),
+        ("Form", "An opening exclamation of wonder, the six recollections restated, and a "
+                 "closing repetition of the same exclamation"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "As with AN 6.9/6.10 and AN 6.25, the six recollections recur "
+                              "widely across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the fourth appearance of "
+                       "familiar material, worth reading for its distinctive framing and one "
+                       "genuine addition"),
+    ],
+    why=(
+        "This is the fourth time this series has met the six recollections in this nipāta "
+        "alone, and its framing is the most distinctive yet: Mahākaccāna, not the Buddha, "
+        "speaks, opening and closing with an exclamation of wonder at how the Buddha &ldquo;has "
+        "found an opening amid confinement&rdquo; in these six practices. And unlike AN 6.9, "
+        "6.10, or 6.25, this version adds one genuinely new element, checked directly against "
+        "the text: for the recollections of the Buddha and of the deities, the practitioner is "
+        "said to meditate &ldquo;with a heart just like space, abundant, expansive, limitless, "
+        "free of enmity and ill will.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Mahākaccāna praises the six recollections &mdash; of the Buddha, the teaching, the "
+            "Saṅgha, ethics, generosity, and the deities &mdash; as an opening the Buddha found "
+            "amid confinement, restating them with an added space-like quality of heart for two "
+            "of the six."]),
+        ("Praise, not instruction", [
+            "Unlike every earlier telling of these six recollections, this discourse is framed "
+            "as one senior disciple's declaration of wonder to his peers, not as teaching handed "
+            "down from the Buddha in response to a question. Mahākaccāna's opening and closing "
+            "lines &mdash; &ldquo;it's incredible, reverends, it's amazing&rdquo; &mdash; bracket "
+            "the entire recitation, turning what elsewhere reads as instruction into testimony."]),
+        ("&lsquo;An opening amid confinement&rsquo;", [
+            "Mahākaccāna's own description of what these six recollections accomplish is worth "
+            "pausing on: not merely useful practices, but something the Buddha &ldquo;found&rdquo; "
+            "&mdash; an opening, a way out, discovered within what would otherwise be a closed "
+            "and confining situation. This image is not present in AN 6.9, 6.10, or 6.25's "
+            "framing of the same six topics, and it recasts recollection as a specific kind of "
+            "discovery rather than a general-purpose calming technique."]),
+        ("The one genuine addition, verified against the Pāli", [
+            "For the recollections of the Buddha and of the deities &mdash; but not for the "
+            "teaching, the Saṅgha, ethics, or generosity &mdash; this version adds: &ldquo;that "
+            "noble disciple meditates with a heart just like space, abundant, expansive, "
+            "limitless, free of enmity and ill will.&rdquo; This phrase does not appear in AN "
+            "6.9, 6.10, or 6.25's accounts of these same recollections. Its selective placement, "
+            "on the first and last of the six rather than all of them, mirrors AN 6.10's own "
+            "structure, where only the Buddha- and deity-recollections received the full "
+            "five-step chain while the middle four were elided."]),
+        ("Four tellings, four different closings", [
+            "Set beside AN 6.9's bare list, AN 6.10's five-step chain from joy to immersion, and "
+            "AN 6.25's purification-from-greed formula, this fourth telling's space-like-heart "
+            "addition makes clear that &ldquo;the six recollections&rdquo; in this nipāta is not "
+            "one fixed text repeated four times, but one core list dressed in four distinct "
+            "framings and closings across four separate discourses."]),
+    ],
+    terms=[
+        ("ākāsasama",
+         "&ldquo;just like space&rdquo; &mdash; this discourse's distinctive addition, "
+         "describing the heart cultivated through Buddha- and deity-recollection here."),
+        ("abbhokāsakato",
+         "not a term from this discourse directly, but the general sense of "
+         "&ldquo;opened out&rdquo; that Mahākaccāna's own image of &ldquo;an opening amid "
+         "confinement&rdquo; evokes."),
+        ("acchariyaṁ abbhutaṁ",
+         "&ldquo;incredible, amazing&rdquo; &mdash; Mahākaccāna's opening and closing "
+         "exclamation, bracketing the entire discourse."),
+        ("okāsādhigamo",
+         "&ldquo;found an opening&rdquo; &mdash; Mahākaccāna's description of what the Buddha "
+         "achieved &ldquo;amid confinement&rdquo; through these six recollections."),
+        ("anussatiṭṭhāna",
+         "&ldquo;topic for recollection&rdquo; &mdash; the shared term across all four tellings "
+         "of this list in this nipāta."),
+    ],
+    text_intro=(
+        "The discourse in full: Mahākaccāna's praise, the six recollections with the space-like "
+        "heart addition, and his closing exclamation repeated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mahākaccāna's opening exclamation"),
+        ("p", "&sect;1", "an6.26:1.1-1.7"),
+        ("h3", "Recollection of the Buddha"),
+        ("p", "&sect;2", "an6.26:2.1-2.8"),
+        ("h3", "Recollection of the teaching, the Saṅgha, ethics, and generosity"),
+        ("p", "&sect;3", "an6.26:3.1-6.4"),
+        ("h3", "Recollection of the deities, and the closing exclamation"),
+        ("p", "&sect;4", "an6.26:7.1-8.2"),
+    ],
+    quiz=[
+        {"q": "Who speaks AN 6.26?",
+         "opts": ["The Buddha", "Mahākaccāna, addressing the mendicants", "Sāriputta", "Ānanda"],
+         "correct": 1,
+         "expl": "The fourth telling of the six recollections in this nipāta, and the first "
+                 "framed as praise rather than instruction."},
+        {"q": "How is this discourse framed, compared to AN 6.9, 6.10, and 6.25?",
+         "opts": [
+             "Identically, as direct teaching from the Buddha",
+             "As one senior disciple's declaration of wonder to his peers, bracketed by "
+             "'incredible... amazing', turning the recitation into testimony rather than "
+             "instruction",
+             "As a formal debate between two mendicants",
+             "As a silent meditation with no spoken content"],
+         "correct": 1,
+         "expl": "A distinctive frame not present in the three earlier tellings."},
+        {"q": "What does Mahākaccāna say the Buddha 'found' through these six recollections?",
+         "opts": [
+             "A new monastery site",
+             "An opening amid confinement",
+             "A cure for physical illness",
+             "A new set of ethical precepts"],
+         "correct": 1,
+         "expl": "An image not present in the earlier framings of the same six topics."},
+        {"q": "What genuine addition does this telling make to two of the six recollections, "
+              "verified directly against the source?",
+         "opts": [
+             "A seventh recollection not found elsewhere",
+             "For the Buddha- and deity-recollections specifically, meditating 'with a heart "
+             "just like space, abundant, expansive, limitless, free of enmity and ill will'",
+             "A requirement to fast before recollecting",
+             "A warning against practicing more than one recollection per day"],
+         "correct": 1,
+         "expl": "Not present in AN 6.9, 6.10, or 6.25's accounts of the same recollections."},
+        {"q": "Which recollections receive this space-like-heart addition?",
+         "opts": [
+             "All six equally",
+             "Only the Buddha- and deity-recollections — the first and last of the six, not the "
+             "middle four",
+             "Only the middle four",
+             "None — this is a misreading"],
+         "correct": 1,
+         "expl": "Mirroring AN 6.10's own structure, where only the first and last received full "
+                 "treatment."},
+        {"q": "What does the guide conclude about 'the six recollections' across these four "
+              "discourses?",
+         "opts": [
+             "It is one fixed text, repeated identically four times",
+             "It is one core list of six topics dressed in four distinct framings and closings "
+             "across four separate discourses",
+             "The four tellings actually name different topics entirely",
+             "Only one of the four tellings is considered authentic"],
+         "correct": 1,
+         "expl": "A shared core, varied treatment — verified by direct comparison rather than "
+                 "assumed."},
+        {"q": "What does <em>acchariyaṁ abbhutaṁ</em> mean?",
+         "opts": [
+             "'It is forbidden'", "'Incredible, amazing'", "'Please explain further'", "'I "
+             "disagree'"],
+         "correct": 1,
+         "expl": "Mahākaccāna's opening and closing exclamation, bracketing the whole discourse."},
+        {"q": "Is a setting stated for AN 6.26?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Isipatana", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "Continuing this chapter's bare-formula pattern, though the speaker is named."},
+        {"q": "How many times has this series now encountered the six recollections, counting "
+              "this discourse?",
+         "opts": ["Two", "Three", "Four — AN 6.9, 6.10, 6.25, and this discourse", "Five"],
+         "correct": 2,
+         "expl": "The most repeated single teaching so far in this nipāta."},
+        {"q": "What comes next in the chapter, after this fourth telling?",
+         "opts": [
+             "AN 6.27, on the proper occasions for approaching an esteemed mendicant",
+             "The chapter ends here",
+             "A fifth telling of the six recollections",
+             "A return to the thoroughbred simile"],
+         "correct": 0,
+         "expl": "A shift to a new subject after four consecutive tellings of one teaching."},
+    ],
+    marginalia=[
+        ("Four tellings so far", [
+            "AN 6.9: bare list",
+            "AN 6.10: joy to immersion",
+            "AN 6.25: purified of greed",
+            "AN 6.26: space-like heart",
+        ]),
+        ("Praise, not instruction", [
+            "Mahākaccāna's own",
+            "wonder — 'an opening",
+            "amid confinement'",
+        ]),
+        ("Where the addition falls", [
+            "Buddha- and deity-",
+            "recollection only —",
+            "not the middle four",
+        ]),
+        ("Cross-references", [
+            "AN 6.25 &middot; previous, the third telling",
+            "AN 6.10 &middot; the first full expansion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.27.html">AN 6.27 &middot; Proper Occasions (1st)</a> &mdash; next, when '
+        "to approach an esteemed mendicant for guidance.",
+        '<a href="an-6.25.html">AN 6.25 &middot; Topics for Recollection</a> &mdash; previous, '
+        "the third telling, for direct comparison.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.27 — Paṭhamasamayasutta
+# --------------------------------------------------------------------------- #
+page(
+    27, "Paṭhamasamaya", "Proper Occasions (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 6.27 — Proper Occasions (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Paṭhamasamayasutta, "
+        "answering a mendicant's question about when to approach an esteemed senior for "
+        "guidance: five hindrances and one further gap in understanding. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, answering a mendicant's question"),
+        ("Form", "A question, and a list of six occasions, five following one template and the "
+                 "sixth slightly different"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Guidance on when to seek out a senior teacher recurs across "
+                              "monastic literature broadly, including the Chinese Āgamas and "
+                              "Vinaya; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a clear, practically useful "
+                       "list with an easily followed template"),
+    ],
+    why=(
+        "A mendicant asks a direct, practical question: how many occasions are there for going "
+        "to see an esteemed mendicant? The Buddha answers with six, five of them built from an "
+        "identical template &mdash; naming one of the five hindrances (sensual desire, ill "
+        "will, dullness and drowsiness, restlessness and remorse, doubt) as the specific "
+        "obstruction that warrants a visit &mdash; and a sixth, structurally similar but "
+        "concerning not an obstruction but a gap in understanding: not knowing what meditation "
+        "subject to focus on."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are six occasions for approaching an esteemed mendicant: when one's heart is "
+            "overcome by each of the five hindrances in turn, and when one does not understand "
+            "what meditation to focus on in order to end the defilements without delay."]),
+        ("The five hindrances, as five of the six occasions", [
+            "The discourse's first five occasions map directly onto the standard five "
+            "hindrances (<em>nīvaraṇa</em>) named throughout the canon as obstacles to "
+            "meditative progress: sensual desire, ill will, dullness and drowsiness, "
+            "restlessness and remorse, and doubt. Each occasion follows the identical script: "
+            "the mendicant reports being &ldquo;overcome and mired&rdquo; in the hindrance and "
+            "not understanding &ldquo;the escape&rdquo; from it, asks for teaching, and receives "
+            "it."]),
+        ("A sixth occasion of a different kind", [
+            "The sixth occasion breaks the pattern: it is not one of the five hindrances but a "
+            "gap in direction &mdash; not knowing what specific meditation subject to take up "
+            "&ldquo;in order to end the defilements without delay.&rdquo; Where the first five "
+            "concern removing an active obstruction, the sixth concerns supplying a missing "
+            "positive direction. The list moves, in its final item, from troubleshooting to "
+            "guidance."]),
+        ("What 'esteemed mendicant' implies about the community", [
+            "The discourse assumes, without arguing for it, that some mendicants are recognized "
+            "as worth seeking out specifically for this kind of help &mdash; "
+            "<em>manobhāvanīya</em>, literally &ldquo;one who develops the mind,&rdquo; often "
+            "rendered &ldquo;esteemed&rdquo; or &ldquo;inspiring.&rdquo; The list presupposes a "
+            "community with recognized, approachable seniors, not simply peers of equal "
+            "standing."]),
+        ("Setting up a companion discourse on the same question", [
+            "AN 6.28, immediately following, revisits this exact question &mdash; how many "
+            "occasions are there for going to see an esteemed mendicant &mdash; but through a "
+            "narrative in which several senior mendicants initially misunderstand the question "
+            "entirely, debating the best <em>time of day</em> rather than the right "
+            "<em>circumstance</em>, before Mahākaccāna corrects them with the very answer given "
+            "here."]),
+    ],
+    terms=[
+        ("manobhāvanīya",
+         "&ldquo;esteemed,&rdquo; literally &ldquo;one who develops the mind&rdquo; &mdash; the "
+         "discourse's term for the mendicant worth approaching for guidance."),
+        ("nīvaraṇa",
+         "&ldquo;hindrance&rdquo; &mdash; the standard canonical term for the five obstacles "
+         "named across this discourse's first five occasions."),
+        ("thinamiddha",
+         "&ldquo;dullness and drowsiness&rdquo; &mdash; the third hindrance named, the occasion "
+         "for the third visit."),
+        ("uddhaccakukkucca",
+         "&ldquo;restlessness and remorse&rdquo; &mdash; the fourth hindrance named, the "
+         "occasion for the fourth visit."),
+        ("kammaṭṭhāna",
+         "not directly named in this English translation but the standard term for "
+         "&ldquo;meditation subject&rdquo; &mdash; what the sixth occasion concerns not "
+         "knowing."),
+    ],
+    text_intro=(
+        "The discourse in full: a mendicant's question, and the Buddha's six occasions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A mendicant's question"),
+        ("p", "&sect;1", "an6.27:1.1-1.3"),
+        ("h3", "The first occasion: sensual desire"),
+        ("p", "&sect;2", "an6.27:2.1-2.6"),
+        ("h3", "The sixth occasion: not knowing what to meditate on"),
+        ("p", "&sect;3", "an6.27:7.1-8.1"),
+    ],
+    quiz=[
+        {"q": "What question does a mendicant ask the Buddha at the start of this discourse?",
+         "opts": [
+             "How many topics for recollection are there",
+             "How many occasions there are for going to see an esteemed mendicant",
+             "How many kinds of psychic power exist",
+             "How many chapters are in the Sixes"],
+         "correct": 1,
+         "expl": "A direct, practical question about seeking guidance."},
+        {"q": "What do the first five occasions have in common?",
+         "opts": [
+             "They all concern financial matters",
+             "Each names one of the five standard hindrances — sensual desire, ill will, "
+             "dullness and drowsiness, restlessness and remorse, and doubt",
+             "They all require traveling to a different monastery",
+             "They apply only to newly ordained mendicants"],
+         "correct": 1,
+         "expl": "Following an identical template of being 'overcome and mired' in each "
+                 "hindrance."},
+        {"q": "How does the sixth occasion differ from the first five?",
+         "opts": [
+             "It is identical to the first occasion",
+             "It concerns not knowing what meditation subject to focus on, rather than being "
+             "actively obstructed by a hindrance — supplying missing direction rather than "
+             "removing an obstruction",
+             "It only applies to senior mendicants",
+             "It does not involve seeking guidance at all"],
+         "correct": 1,
+         "expl": "A shift from troubleshooting an obstruction to seeking positive direction."},
+        {"q": "What does <em>manobhāvanīya</em> mean?",
+         "opts": [
+             "A newly ordained mendicant",
+             "'Esteemed,' literally 'one who develops the mind' — the kind of senior worth "
+             "approaching for guidance",
+             "A lay donor",
+             "A wandering ascetic of another sect"],
+         "correct": 1,
+         "expl": "The discourse's term for the figure these six occasions concern approaching."},
+        {"q": "What does the discourse assume about the community, according to the guide?",
+         "opts": [
+             "That all mendicants are of exactly equal standing with no recognized seniors",
+             "That some mendicants are recognized as worth seeking out specifically for "
+             "guidance — a community with approachable seniors, not simply peers",
+             "That mendicants should never seek help from others",
+             "That only the Buddha himself can give this kind of guidance"],
+         "correct": 1,
+         "expl": "The list presupposes recognized, approachable seniors within the community."},
+        {"q": "What are the five hindrances named across this discourse's first five occasions?",
+         "opts": [
+             "Faith, energy, mindfulness, immersion, wisdom",
+             "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt",
+             "Danger, suffering, disease, boil, bog",
+             "Work, talk, sleep, company, closeness"],
+         "correct": 1,
+         "expl": "The standard canonical list of nīvaraṇa."},
+        {"q": "How does AN 6.28, the next discourse, relate to this one?",
+         "opts": [
+             "It is entirely unrelated",
+             "It revisits the exact same question through a narrative where senior mendicants "
+             "initially misunderstand it, before Mahākaccāna supplies this discourse's answer",
+             "It contradicts this discourse's list of six occasions",
+             "It replaces the question with a different one about meditation technique"],
+         "correct": 1,
+         "expl": "A companion discourse built around the same question, differently framed."},
+        {"q": "Is a setting stated for AN 6.27?",
+         "opts": ["Yes, at Isipatana", "No — none is stated", "Yes, near Sāma village", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare question-and-answer with no scene given."},
+        {"q": "What is the stated goal of the sixth occasion's guidance?",
+         "opts": [
+             "To end the defilements without delay",
+             "To gain worldly wealth",
+             "To become a senior mendicant more quickly",
+             "To avoid ever meditating on unpleasant subjects"],
+         "correct": 0,
+         "expl": "The specific aim named for seeking guidance on a meditation subject."},
+        {"q": "What does <em>thinamiddha</em> mean?",
+         "opts": ["Doubt", "Restlessness and remorse", "Dullness and drowsiness", "Ill will"],
+         "correct": 2,
+         "expl": "The third of the five hindrances, occasioning the third visit."},
+    ],
+    marginalia=[
+        ("Six occasions", [
+            "1&ndash;5. each hindrance:",
+            "desire, ill will, dullness,",
+            "restlessness, doubt",
+            "6. no meditation subject",
+        ]),
+        ("Same script, five times", [
+            "'overcome and mired' —",
+            "ask, and receive",
+            "the escape",
+        ]),
+        ("The sixth breaks the pattern", [
+            "not removing an obstacle,",
+            "but supplying missing",
+            "positive direction",
+        ]),
+        ("Cross-references", [
+            "AN 6.28 &middot; next, the narrative variant",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.28.html">AN 6.28 &middot; Proper Occasions (2nd)</a> &mdash; next, the '
+        "same six occasions reached through a debate among senior mendicants.",
+        '<a href="an-6.26.html">AN 6.26 &middot; With Mahākaccāna</a> &mdash; previous, the same '
+        "figure who resolves the companion discourse's debate.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.28 — Dutiyasamayasutta
+# --------------------------------------------------------------------------- #
+page(
+    28, "Dutiyasamaya", "Proper Occasions (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 6.28 — Proper Occasions (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasamayasutta, in "
+        "which senior mendicants debate the best time of day to visit a teacher, mistaking the "
+        "question, until Mahākaccāna recites what the Buddha actually taught. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Near Varanasi, in the deer park at Isipatana"),
+        ("Speakers", "Several unnamed senior mendicants, then Mahākaccāna"),
+        ("Form", "A misdirected debate among peers, three proposed answers each rejected in "
+                 "turn, and a correction citing the Buddha directly"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "Narrative correctives of a misunderstood question recur in "
+                              "related forms across the Chinese Āgamas; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; an accessible narrative "
+                       "whose real interest is in what the debate gets wrong, not merely what "
+                       "the final answer is"),
+    ],
+    why=(
+        "AN 6.27 gave the Buddha's own answer to a simple question. AN 6.28 dramatizes what "
+        "happens when the same question circulates without him: a group of senior mendicants at "
+        "Isipatana ask each other how many occasions there are for visiting an esteemed "
+        "mendicant, and three of them answer in turn &mdash; each proposing a specific time of "
+        "day, each rejected by the next speaker on practical grounds &mdash; before Mahākaccāna "
+        "points out that they have all misread the question and recites, from memory, the "
+        "six-occasion answer already given at AN 6.27."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Three senior mendicants each propose a specific time of day as the proper occasion "
+            "for visiting an esteemed mendicant, each proposal rejected by the next speaker on "
+            "practical grounds, until Mahākaccāna corrects the whole discussion by reciting the "
+            "Buddha's actual six-occasion answer: not a time of day at all, but five hindrances "
+            "and one gap in understanding."]),
+        ("Three proposed times, three practical objections", [
+            "The first mendicant proposes just after the midday meal, freshly returned from "
+            "almsround; the second objects that fatigue from walking and eating has not yet "
+            "faded, and proposes late afternoon instead; the third objects that the mind is "
+            "still absorbed in the day's meditation subject at that hour, and proposes dawn. "
+            "Each answer is plausible on its own practical terms, and each is overturned by an "
+            "equally practical objection &mdash; the debate never resolves on its own footing."]),
+        ("A shared misreading, not three competing answers", [
+            "What the three mendicants share is not disagreement about content but a common "
+            "misconstrual of the question itself: they treat &ldquo;occasion&rdquo; "
+            "(<em>samaya</em>) as meaning a time of day, when the Buddha's own answer, cited "
+            "moments later, treats it as meaning a circumstance &mdash; a specific inner state "
+            "calling for guidance, regardless of what hour it occurs in. The debate is not "
+            "wrong in its practical observations about fatigue and mental absorption; it is "
+            "answering a question no one actually asked."]),
+        ("Mahākaccāna's correction, cited as received teaching", [
+            "Mahākaccāna does not argue against the three proposals directly, or offer a fourth "
+            "time of day. He instead says, &ldquo;I have heard and learned this in the presence "
+            "of the Buddha,&rdquo; and recites the identical six occasions given at AN 6.27 "
+            "&mdash; word for word, checked directly against the source. His authority here "
+            "rests entirely on accurate transmission, not on his own reasoning; he settles the "
+            "debate by supplying what the Buddha actually said, not by out-arguing his peers."]),
+        ("Why this pairing matters for how the canon transmits teaching", [
+            "Read beside AN 6.27, this discourse dramatizes a real risk in oral transmission: "
+            "even senior, well-intentioned practitioners can drift from a teaching's actual "
+            "content toward a superficially similar but different question, simply by "
+            "discussing it among themselves without a fixed reference. The corrective is not "
+            "better reasoning but accurate memory of what was actually taught."]),
+    ],
+    terms=[
+        ("samaya",
+         "&ldquo;occasion,&rdquo; here at the center of the discourse's misunderstanding "
+         "&mdash; mistaken for a time of day rather than a circumstance."),
+        ("piṇḍapātapaṭikkanta",
+         "&ldquo;returned from almsround&rdquo; &mdash; the first proposed occasion, rejected "
+         "for the fatigue of the meal and the walk."),
+        ("paṭisallānā vuṭṭhita",
+         "&ldquo;come out of retreat&rdquo; &mdash; the late-afternoon proposal, rejected "
+         "because the meditator is still absorbed in the day's subject."),
+        ("kammaṭṭhāna",
+         "&ldquo;meditation subject&rdquo; &mdash; what the second objection says still "
+         "occupies the mind in late afternoon, making that hour unsuitable on the debaters' own "
+         "terms."),
+        ("sutaṁ me idaṁ, āvuso, bhagavato santike",
+         "&ldquo;I have heard and learned this in the presence of the Buddha&rdquo; &mdash; "
+         "Mahākaccāna's formula introducing his correction, grounding it in direct transmission."),
+    ],
+    text_intro=(
+        "The discourse in full: the senior mendicants' misdirected debate, and Mahākaccāna's "
+        "correction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "At Isipatana: the question arises"),
+        ("p", "&sect;1", "an6.28:1.1-1.3"),
+        ("h3", "Three proposed times of day, each rejected"),
+        ("p", "&sect;2", "an6.28:2.1-5.3"),
+        ("h3", "Mahākaccāna's correction"),
+        ("p", "&sect;3", "an6.28:6.1-6.3"),
+        ("h3", "The six occasions, recited from memory"),
+        ("p", "&sect;4", "an6.28:7.1-13.2"),
+    ],
+    quiz=[
+        {"q": "What question do the senior mendicants at Isipatana discuss?",
+         "opts": [
+             "How many recollections there are",
+             "How many occasions there are for going to see an esteemed mendicant — the same "
+             "question already answered at AN 6.27",
+             "How to enter the four absorptions",
+             "How many hindrances there are"],
+         "correct": 1,
+         "expl": "Discussed independently, without reference back to the Buddha's own answer."},
+        {"q": "What kind of answers do the first three mendicants propose?",
+         "opts": [
+             "Three different lists of hindrances",
+             "Three different times of day — after the midday meal, late afternoon, and dawn — "
+             "each rejected by the next speaker on practical grounds",
+             "Three different locations to visit",
+             "They all agree immediately on the same answer"],
+         "correct": 1,
+         "expl": "Each proposal plausible on its own terms, each overturned by a practical "
+                 "objection."},
+        {"q": "What do the three mendicants share, according to the guide, beneath their "
+              "disagreement?",
+         "opts": [
+             "Nothing — they are answering entirely unrelated questions",
+             "A common misconstrual of 'occasion' (samaya) as a time of day, rather than a "
+             "circumstance or inner state calling for guidance",
+             "All three are correct and Mahākaccāna is mistaken",
+             "They are debating a completely different topic from AN 6.27"],
+         "correct": 1,
+         "expl": "Answering a question no one actually asked, however sound their individual "
+                 "practical points."},
+        {"q": "How does Mahākaccāna resolve the debate?",
+         "opts": [
+             "By proposing a fourth, better time of day",
+             "By citing direct transmission — 'I have heard and learned this in the presence of "
+             "the Buddha' — and reciting the six occasions from AN 6.27 word for word",
+             "By declaring all three mendicants wrong without offering an alternative",
+             "By asking the Buddha to intervene in person"],
+         "correct": 1,
+         "expl": "His authority rests on accurate memory of the actual teaching, not on winning "
+                 "the argument."},
+        {"q": "What broader point about oral transmission does this pairing illustrate, "
+              "according to the guide?",
+         "opts": [
+             "That senior mendicants are infallible",
+             "That even senior, well-intentioned practitioners can drift toward a superficially "
+             "similar but different question when discussing a teaching without a fixed "
+             "reference — the corrective is accurate memory, not better reasoning",
+             "That debate among mendicants should never occur",
+             "That written texts are more reliable than oral memory"],
+         "correct": 1,
+         "expl": "A dramatization of a real risk in how teachings circulate and drift."},
+        {"q": "Where is AN 6.28 set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Near Varanasi, in the deer park at Isipatana",
+             "Near the little village of Sāma",
+             "At Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "A fresh, specific setting for this narrative discourse."},
+        {"q": "What objection is raised against the first proposed time (just after the midday "
+              "meal)?",
+         "opts": [
+             "It is too early in the morning",
+             "The fatigue from walking and eating has not yet faded away",
+             "No mendicants are awake at that hour",
+             "It violates monastic discipline"],
+         "correct": 1,
+         "expl": "A practical objection, not a claim that the question itself was misunderstood."},
+        {"q": "What objection is raised against the late-afternoon proposal?",
+         "opts": [
+             "It is too dark to travel safely",
+             "The meditator is still absorbed in the day's meditation subject at that hour",
+             "It coincides with the meal time",
+             "No objection is raised to this proposal"],
+         "correct": 1,
+         "expl": "Also a practical objection about mental state, still missing the deeper "
+                 "misunderstanding Mahākaccāna later identifies."},
+        {"q": "What does <em>samaya</em> mean in the context of this discourse's central "
+              "confusion?",
+         "opts": [
+             "It unambiguously means 'time of day' throughout the canon",
+             "'Occasion' — capable of meaning either a time of day or a circumstance, and the "
+             "debate's error is assuming the former when the Buddha meant the latter",
+             "A term exclusively for meditative absorption",
+             "A synonym for 'esteemed mendicant'"],
+         "correct": 1,
+         "expl": "The word's ambiguity is exactly what drives the mendicants' shared "
+                 "misunderstanding."},
+        {"q": "How does this discourse relate to AN 6.27?",
+         "opts": [
+             "It contradicts AN 6.27's answer",
+             "It dramatizes how the very question AN 6.27 answered can be misconstrued when "
+             "discussed without reference back to the original teaching",
+             "It is entirely unrelated to AN 6.27",
+             "It replaces AN 6.27's six occasions with a new list of three"],
+         "correct": 1,
+         "expl": "A companion narrative built around the same underlying question and answer."},
+    ],
+    marginalia=[
+        ("Three rejected proposals", [
+            "after the meal —",
+            "too fatigued",
+            "late afternoon —",
+            "still absorbed",
+            "dawn — the one",
+            "left unrejected, until",
+        ]),
+        ("The shared error", [
+            "'occasion' mistaken",
+            "for time of day,",
+            "not circumstance",
+        ]),
+        ("Mahākaccāna's method", [
+            "not better argument —",
+            "accurate recitation",
+            "of what was actually taught",
+        ]),
+        ("Cross-references", [
+            "AN 6.27 &middot; the original answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.28/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.29.html">AN 6.29 &middot; With Udāyī</a> &mdash; next, another discourse '
+        "turning on a question misunderstood.",
+        '<a href="an-6.27.html">AN 6.27 &middot; Proper Occasions (1st)</a> &mdash; previous, '
+        "the Buddha's own original answer to this same question.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.29 — Udāyīsutta
+# --------------------------------------------------------------------------- #
+page(
+    29, "Udāyī", "With Udāyī",
+    vagga=VAGGA_3,
+    meta_title="AN 6.29 — With Udāyī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Udāyīsutta, where the "
+        "same phrase 'topics for recollection' names an entirely different list — absorption, "
+        "light, the body, the charnel ground, and mindful activity — not the six recollections "
+        "met earlier in this chapter. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, Udāyī, and Ānanda"),
+        ("Form", "A repeated question, a silent and then mistaken answer, a correct answer from "
+                 "Ānanda, and the Buddha's own addition"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "Meditation-object lists of this kind recur widely across the "
+                              "Chinese Āgamas and later meditation manuals; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; demanding both for its "
+                       "technical content and for the terminological trap at its center"),
+    ],
+    why=(
+        "This discourse uses the identical Pāli term, <em>anussatiṭṭhāna</em>, "
+        "&ldquo;topic for recollection,&rdquo; that named the six recollections at AN 6.9, "
+        "6.10, 6.25, and 6.26 &mdash; and then names a completely different list under that "
+        "same term: not the Buddha, the teaching, the Saṅgha, ethics, generosity, and the "
+        "deities, but the absorptions, the perception of light, contemplation of the body, "
+        "contemplation of a corpse in decay, and mindful attention to ordinary activity. Two "
+        "distinct six-item (here, five-plus-one) lists share one name. A reader who assumes "
+        "&ldquo;topics for recollection&rdquo; always means the same content, on the strength of "
+        "the shared term alone, will get this discourse wrong."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Asked how many topics for recollection there are, Udāyī answers wrongly with only "
+            "one (recollection of past lives); Ānanda then correctly names five &mdash; the "
+            "absorptions, the perception of light, contemplation of the body's parts, "
+            "contemplation of a decaying corpse, and the fourth absorption &mdash; and the "
+            "Buddha adds a sixth: mindful attention to ordinary activity."]),
+        ("Why this list is not the six recollections met earlier", [
+            "This is worth stating as plainly as possible, having checked the Pāli directly: "
+            "the term <em>anussatiṭṭhāna</em> is shared with AN 6.9, 6.10, 6.25, and 6.26, but "
+            "the content named here shares nothing with that list. Where the earlier four "
+            "discourses concerned recollecting the Triple Gem, one's own ethics and generosity, "
+            "and the deities, this discourse concerns meditative techniques &mdash; absorption "
+            "states, a light-based perception practice, body contemplation, and charnel-ground "
+            "reflection. The canon uses one general term, &ldquo;subject for recollection,&rdquo; "
+            "for more than one specific enumerated list, and this discourse and AN 6.9/6.10/6.25/"
+            "6.26 should not be read as variants of a single fixed teaching."]),
+        ("Udāyī's mistake, and the Buddha's sharp response", [
+            "Asked the question three times, Udāyī stays silent twice, then finally answers with "
+            "only past-life recollection &mdash; itself a real recollection practice, but not "
+            "what the Buddha's question was probing for, and offered as if it were a complete "
+            "answer rather than one item among several. The Buddha's response is uncharacteristically "
+            "blunt: he tells Ānanda directly, in Udāyī's hearing, that &ldquo;this futile man "
+            "Udāyī is not committed to the higher mind,&rdquo; before turning to Ānanda for the "
+            "actual answer."]),
+        ("Ānanda's five, and the Buddha's addition of a sixth", [
+            "Ānanda names five topics, each closing with a stated outcome: the first three "
+            "absorptions, leading to blissful meditation in this life; the perception of light, "
+            "leading to knowledge and vision; contemplation of the body's parts, leading to "
+            "giving up sensual desire; contemplation of a corpse's stages of decay, leading to "
+            "uprooting the conceit &ldquo;I am&rdquo;; and the fourth absorption, leading to "
+            "penetration of the elements. The Buddha praises this answer and adds a sixth "
+            "himself: mindfully going, returning, standing, sitting, lying down, and working, "
+            "leading to mindfulness and situational awareness in ordinary activity."]),
+        ("A caution this guide applies to itself, again", [
+            "Encountering a discourse whose title and central term match earlier pages so "
+            "closely, the temptation is to summarize it as &ldquo;another version of the six "
+            "recollections&rdquo; and move on. Direct comparison of the actual content shows "
+            "that would be wrong. This is the same caution already applied at AN 6.25, restated "
+            "here because the resemblance in this case is closer &mdash; identical title, "
+            "identical central term &mdash; and so the risk of conflating them without checking "
+            "is correspondingly greater."]),
+    ],
+    terms=[
+        ("anussatiṭṭhāna",
+         "&ldquo;topic for recollection&rdquo; &mdash; the term shared with AN 6.9/6.10/6.25/"
+         "6.26, here naming an entirely different five-plus-one item list."),
+        ("dummedha",
+         "&ldquo;futile,&rdquo; &ldquo;witless&rdquo; &mdash; the Buddha's blunt description of "
+         "Udāyī, spoken to Ānanda in Udāyī's own hearing."),
+        ("ālokasaññā",
+         "&ldquo;perception of light&rdquo; &mdash; the second of Ānanda's five topics, said to "
+         "lead to knowledge and vision."),
+        ("asubhasaññā",
+         "not named directly by this term in the translation but the standard canonical name "
+         "for contemplation of the body's impurity, Ānanda's third topic."),
+        ("satisampajañña",
+         "&ldquo;mindfulness and situational awareness&rdquo; &mdash; what the Buddha's added "
+         "sixth topic, mindful attention to ordinary activity, is said to lead to."),
+    ],
+    text_intro=(
+        "The discourse in full: Udāyī's silence and mistaken answer, Ānanda's five topics, and "
+        "the Buddha's addition of a sixth. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's question, and Udāyī's silence"),
+        ("p", "&sect;1", "an6.29:1.1-1.9"),
+        ("h3", "Ānanda intervenes; Udāyī's mistaken answer"),
+        ("p", "&sect;2", "an6.29:2.1-2.5"),
+        ("h3", "The Buddha's rebuke, and Ānanda's five topics"),
+        ("p", "&sect;3", "an6.29:3.1-10.3"),
+        ("h3", "The Buddha adds a sixth"),
+        ("p", "&sect;4", "an6.29:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use, shared with AN 6.9, 6.10, 6.25, and 6.26?",
+         "opts": [
+             "Sāraṇīya, warm-hearted",
+             "Anussatiṭṭhāna, topic for recollection",
+             "Anuttariya, unsurpassable",
+             "Nissāraṇīya, elements of escape"],
+         "correct": 1,
+         "expl": "The same term, but naming an entirely different list here."},
+        {"q": "Does this discourse's list of 'topics for recollection' match the six "
+              "recollections (Buddha, teaching, Saṅgha, ethics, generosity, deities) met at AN "
+              "6.9/6.10/6.25/6.26?",
+         "opts": [
+             "Yes, it is the same list under a different framing",
+             "No — checked directly against the Pāli, the content shares nothing with that "
+             "list; this discourse names meditative techniques instead",
+             "It is a partial overlap of three items",
+             "The discourse does not actually name any topics"],
+         "correct": 1,
+         "expl": "One shared term, two genuinely different enumerated lists — not variants of "
+                 "one teaching."},
+        {"q": "How does Udāyī answer the Buddha's question, and why is it wrong?",
+         "opts": [
+             "He answers correctly with all six recollections",
+             "After staying silent twice, he names only recollection of past lives — a real "
+             "practice, but offered as a complete answer rather than one item among several",
+             "He refuses to answer at all, even when pressed",
+             "He gives an answer with ten items instead of six"],
+         "correct": 1,
+         "expl": "Incomplete and mistaking the scope of the actual question."},
+        {"q": "How does the Buddha respond to Udāyī's answer?",
+         "opts": [
+             "He praises Udāyī's answer as correct",
+             "He bluntly tells Ānanda, in Udāyī's hearing, that 'this futile man Udāyī is not "
+             "committed to the higher mind,' then turns to Ānanda for the real answer",
+             "He ignores the answer and changes the subject",
+             "He asks Udāyī to elaborate further"],
+         "correct": 1,
+         "expl": "An uncharacteristically sharp rebuke in this series so far."},
+        {"q": "What five topics does Ānanda name?",
+         "opts": [
+             "The Buddha, teaching, Saṅgha, ethics, and generosity",
+             "The first three absorptions, the perception of light, contemplation of the body's "
+             "parts, contemplation of a decaying corpse, and the fourth absorption",
+             "The five faculties",
+             "Seeing, listening, acquisition, training, and service"],
+         "correct": 1,
+         "expl": "Each closing with its own stated outcome, from blissful meditation to "
+                 "uprooting the conceit 'I am'."},
+        {"q": "What sixth topic does the Buddha add to Ānanda's five?",
+         "opts": [
+             "Recollection of the deities",
+             "Mindfully going, returning, standing, sitting, lying down, and working — leading "
+             "to mindfulness and situational awareness",
+             "A seventh absorption",
+             "Recollection of one's own past lives"],
+         "correct": 1,
+         "expl": "Extending ordinary daily activity itself into the domain of mindful practice."},
+        {"q": "What caution does the guide apply to itself in reading this discourse?",
+         "opts": [
+             "None — it assumes the title alone settles the content",
+             "The same caution applied at AN 6.25, restated here because the resemblance — "
+             "identical title and central term — makes the risk of wrongly conflating the two "
+             "lists greater",
+             "A caution against ever comparing two discourses with similar titles",
+             "A caution that Ānanda's answer should be doubted"],
+         "correct": 1,
+         "expl": "Direct comparison of content, not reliance on a shared label, is what settles "
+                 "the question."},
+        {"q": "What outcome does contemplation of a decaying corpse lead to, according to "
+              "Ānanda?",
+         "opts": [
+             "Blissful meditation in this life",
+             "Uprooting the conceit 'I am'",
+             "Knowledge and vision",
+             "Giving up sensual desire"],
+         "correct": 1,
+         "expl": "The fourth of Ānanda's five topics."},
+        {"q": "Is a setting stated for AN 6.29?",
+         "opts": ["Yes, at Isipatana", "No — none is stated", "Yes, near Sāma village", "Yes, at Kapilavatthu"],
+         "correct": 1,
+         "expl": "Continuing this chapter's frequent bare-formula pattern."},
+        {"q": "What outcome does the perception of light lead to?",
+         "opts": ["Uprooting the conceit 'I am'", "Knowledge and vision", "Blissful meditation", "Penetration of the elements"],
+         "correct": 1,
+         "expl": "The second of Ānanda's five topics, ālokasaññā."},
+    ],
+    marginalia=[
+        ("Not the same list", [
+            "same term as AN 6.9/",
+            "6.10/6.25/6.26 —",
+            "entirely different content",
+        ]),
+        ("Ānanda's five", [
+            "1st&ndash;3rd absorption",
+            "perception of light",
+            "body &middot; corpse decay",
+            "4th absorption",
+        ]),
+        ("The Buddha's sixth", [
+            "mindful in every",
+            "ordinary activity —",
+            "going, sitting, working",
+        ]),
+        ("Cross-references", [
+            "AN 6.9/6.10/6.25/6.26 &middot; the other list",
+            "AN 6.30 &middot; next, unsurpassable expanded",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.30.html">AN 6.30 &middot; Unsurpassable</a> &mdash; next, closing the '
+        "chapter with the full expansion of AN 6.8's list.",
+        '<a href="an-6.25.html">AN 6.25 &middot; Topics for Recollection</a> &mdash; for direct '
+        "comparison with the six recollections this discourse does not repeat.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.30 — Anuttariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    30, "Anuttariya", "Unsurpassable",
+    vagga=VAGGA_3,
+    meta_title="AN 6.30 — Unsurpassable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Anuttariyasutta, "
+        "closing the chapter with the full expansion of AN 6.8's bare list of six unsurpassable "
+        "things, each contrasted with an ordinary counterpart. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Six matched contrasts, each naming an ordinary version of the item and then "
+                 "its unsurpassable counterpart, closed with a summary verse"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "This same six-item unsurpassable list and its expansion recur at "
+                              "MN 30 and across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long by this chapter's "
+                       "standards, but built from one repeated contrast pattern across all six "
+                       "items"),
+    ],
+    why=(
+        "AN 6.8, back in this nipāta's first chapter, named six unsurpassable things &mdash; "
+        "seeing, listening, acquisition, training, service, recollection &mdash; and stopped, "
+        "offering no explanation. AN 6.30, closing this chapter, is that explanation: for each "
+        "of the six, an ordinary version is named and acknowledged as real (&ldquo;there is "
+        "such a seeing, I don't deny it&rdquo;), then judged &ldquo;low, crude, ordinary, "
+        "ignoble, and pointless,&rdquo; before the unsurpassable version is defined, in every "
+        "case, as directed toward the Buddha or his disciples."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For each of six activities &mdash; seeing, hearing, acquiring, training, serving, "
+            "and recollecting &mdash; there is an ordinary version aimed at worldly things, and "
+            "an unsurpassable version aimed at a Realized One or his disciple; only the latter "
+            "leads toward disillusionment, dispassion, and extinguishment."]),
+        ("A repeated, six-fold contrast", [
+            "Every item follows the same pattern: an ordinary object is named (an elephant or "
+            "jewel to see, drums or singing to hear, a child or wealth to acquire, riding or "
+            "archery to train in, an aristocrat or brahmin to serve, a child or wealth to "
+            "recollect), acknowledged without denial, then judged pointless and incapable of "
+            "leading to awakening; the unsurpassable counterpart replaces the worldly object "
+            "with a Realized One or disciple in every single case."]),
+        ("The one qualification worth noting", [
+            "The ordinary version of each item is not condemned as false or nonexistent "
+            "&mdash; &ldquo;there is such a seeing, I don't deny it&rdquo; is repeated for each "
+            "&mdash; only as failing to accomplish what the unsurpassable version accomplishes. "
+            "The discourse's target is not the existence of worldly seeing, hearing, or "
+            "acquisition, but their insufficiency as a vehicle toward disillusionment and "
+            "extinguishment."]),
+        ("This is what AN 6.8 was withholding", [
+            "This page can now say directly what AN 6.8's guide could only anticipate from "
+            "elsewhere in the canon: AN 6.30, within this very nipāta, supplies the unpacking "
+            "AN 6.8 left bare. The unsurpassable seeing is going, with settled faith, to see a "
+            "Realized One or disciple; the unsurpassable hearing is going to hear their "
+            "teaching; the unsurpassable acquisition is acquiring faith in them; the "
+            "unsurpassable training is training in higher ethics, mind, and wisdom under their "
+            "guidance; the unsurpassable service is serving them; and the unsurpassable "
+            "recollection is recollecting them."]),
+        ("Closing both this chapter and a long-open thread", [
+            "AN 6.30 closes the Anuttariyavagga by returning to and completing its own chapter "
+            "title's promise &mdash; and, at the same time, closes a thread left open since AN "
+            "6.8 in the previous chapter. Few discourses in this nipāta so far have this "
+            "double function, answering both their immediate chapter's material and an earlier "
+            "chapter's unfinished list."]),
+    ],
+    terms=[
+        ("anuttariya",
+         "&ldquo;unsurpassable&rdquo; &mdash; unchanged from AN 6.8, now defined for each of "
+         "the six items in turn."),
+        ("hīna",
+         "&ldquo;low,&rdquo; &ldquo;inferior&rdquo; &mdash; part of the fivefold judgment "
+         "(&ldquo;low, crude, ordinary, ignoble, pointless&rdquo;) passed on each ordinary "
+         "version."),
+        ("pasādabahula",
+         "not a single Pāli compound in this translation but the sense of &ldquo;settled faith "
+         "and fondness&rdquo; that defines every unsurpassable version's approach to a Realized "
+         "One or disciple."),
+        ("adhisīla adhicitta adhipaññā",
+         "&ldquo;higher ethics, the higher mind, and the higher wisdom&rdquo; &mdash; what the "
+         "unsurpassable training specifically consists of."),
+        ("nibbidā virāga nirodha",
+         "&ldquo;disillusionment, dispassion, cessation&rdquo; &mdash; part of the sevenfold "
+         "outcome the ordinary versions are said not to lead to, and the unsurpassable versions "
+         "do."),
+    ],
+    text_intro=(
+        "The discourse in full: the six unsurpassable things, each contrasted with its ordinary "
+        "counterpart, closing in verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The six unsurpassable things, named"),
+        ("p", "&sect;1", "an6.30:1.1-1.3"),
+        ("h3", "The unsurpassable seeing"),
+        ("p", "&sect;2", "an6.30:2.1-2.7"),
+        ("h3", "The unsurpassable hearing"),
+        ("p", "&sect;3", "an6.30:3.1-3.7"),
+        ("h3", "The unsurpassable acquisition"),
+        ("p", "&sect;4", "an6.30:4.1-4.7"),
+        ("h3", "The unsurpassable training"),
+        ("p", "&sect;5", "an6.30:5.1-5.7"),
+        ("h3", "The unsurpassable service"),
+        ("p", "&sect;6", "an6.30:6.1-6.7"),
+        ("h3", "The unsurpassable recollection, and the closing verses"),
+        ("p", "&sect;7", "an6.30:7.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What relationship does AN 6.30 have to AN 6.8, in the previous chapter?",
+         "opts": [
+             "No relationship — a coincidental repeated title",
+             "AN 6.30 supplies the full explanation AN 6.8 left as a bare, unexplained list",
+             "AN 6.30 contradicts AN 6.8's list",
+             "AN 6.30 replaces AN 6.8's six items with a different six"],
+         "correct": 1,
+         "expl": "The same six terms — seeing, listening, acquisition, training, service, "
+                 "recollection — now defined in full."},
+        {"q": "What pattern does every one of the six items follow?",
+         "opts": [
+             "A pure denial that the ordinary version exists at all",
+             "The ordinary version is named and acknowledged as real, judged low and pointless, "
+             "then the unsurpassable version is defined as directed toward a Realized One or "
+             "disciple",
+             "Each item is explained with a completely different structure",
+             "Only the unsurpassable version is mentioned, with no ordinary counterpart"],
+         "correct": 1,
+         "expl": "'There is such a seeing, I don't deny it' — repeated for each of the six."},
+        {"q": "What is the discourse's actual target, according to the guide?",
+         "opts": [
+             "The claim that worldly seeing, hearing, or acquisition don't exist",
+             "Not the existence of the ordinary versions, but their insufficiency as a vehicle "
+             "toward disillusionment and extinguishment",
+             "A prohibition on ever seeing or hearing ordinary things",
+             "A claim that only mendicants may see or hear anything at all"],
+         "correct": 1,
+         "expl": "The ordinary version is acknowledged, not denied — only judged inadequate for "
+                 "the stated goal."},
+        {"q": "What defines the unsurpassable version of each of the six items?",
+         "opts": [
+             "Greater intensity of the same ordinary activity",
+             "In every single case, being directed toward a Realized One or his disciple, "
+             "approached with settled faith and devotion",
+             "Performing the activity in complete solitude",
+             "Performing the activity only at dawn"],
+         "correct": 1,
+         "expl": "Seeing, hearing, acquiring, training, serving, and recollecting a Realized One "
+                 "or disciple, specifically."},
+        {"q": "What does the unsurpassable training specifically consist of?",
+         "opts": [
+             "Archery and swordsmanship at an elite level",
+             "The higher ethics, the higher mind, and the higher wisdom, in the teaching and "
+             "training proclaimed by a Realized One",
+             "Elephant and horse riding",
+             "Formal debate technique"],
+         "correct": 1,
+         "expl": "Contrasted with the ordinary training in worldly skills named earlier in the "
+                 "same item."},
+        {"q": "What double function does the guide attribute to AN 6.30?",
+         "opts": [
+             "It has no special function beyond closing this chapter",
+             "It closes both this chapter's own material and completes a thread left open since "
+             "AN 6.8 in the previous chapter — few discourses in this nipāta serve both roles",
+             "It only relates to discourses outside this nipāta entirely",
+             "It functions only as a repeat of AN 6.8 with no new content"],
+         "correct": 1,
+         "expl": "Answering both its immediate chapter and an earlier chapter's unfinished list."},
+        {"q": "What is the ordinary version of 'unsurpassable acquisition'?",
+         "opts": [
+             "Acquiring faith in a Realized One",
+             "Acquiring a child, a wife, wealth, or a diverse spectrum of things",
+             "Acquiring the five faculties",
+             "Acquiring merit through generosity alone"],
+         "correct": 1,
+         "expl": "The worldly counterpart, acknowledged but judged insufficient."},
+        {"q": "Is a setting stated for AN 6.30?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Isipatana", "Yes, near Sāma village"],
+         "correct": 1,
+         "expl": "A bare formula closing this chapter, continuing its frequent pattern."},
+        {"q": "What fivefold judgment does the discourse pass on each ordinary version?",
+         "opts": [
+             "'Excellent, valuable, rare, noble, and meaningful'",
+             "'Low, crude, ordinary, ignoble, and pointless'",
+             "'Dangerous, forbidden, unclean, shameful, and criminal'",
+             "No judgment is passed on the ordinary versions"],
+         "correct": 1,
+         "expl": "Applied identically across the items where this fuller judgment is given."},
+        {"q": "What canonical text elsewhere gives a closely related unpacking of this same "
+              "six-item list, according to the guide?",
+         "opts": [
+             "The Vinaya Piṭaka", "MN 30", "The Dhammapada", "SN 5.2"],
+         "correct": 1,
+         "expl": "Named already in AN 6.8's own reading guide, before AN 6.30's in-nipāta "
+                 "expansion was reached."},
+    ],
+    marginalia=[
+        ("Six unsurpassable, expanded", [
+            "seeing &middot; hearing",
+            "acquisition &middot; training",
+            "service &middot; recollection",
+        ]),
+        ("The repeated pattern", [
+            "ordinary version: real,",
+            "but low and pointless",
+            "unsurpassable: toward",
+            "a Realized One",
+        ]),
+        ("Closing a long thread", [
+            "AN 6.8 left this bare —",
+            "this page is what",
+            "it was waiting for",
+        ]),
+        ("Cross-references", [
+            "AN 6.8 &middot; the original bare list",
+            "AN 6.21 &middot; this chapter's opening",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.30/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.8.html">AN 6.8 &middot; Unsurpassable</a> &mdash; the original bare list, '
+        "now fully explained.",
+        '<a href="an-6.29.html">AN 6.29 &middot; With Udāyī</a> &mdash; previous, closing this '
+        "chapter's run of recollection-themed discourses.",
+    ],
+)
