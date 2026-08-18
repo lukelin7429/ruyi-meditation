@@ -32653,3 +32653,1996 @@ page(
         "chapter's opening discourse.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.161 — Paṭhamaāghātapaṭivinayasutta
+# --------------------------------------------------------------------------- #
+VAGGA_17 = "<em>Āghātavagga</em> &mdash; the seventeenth chapter of the Fives"
+
+page(
+    161, "Paṭhamaāghātapaṭivinaya", "Getting Rid of Resentment (1st)",
+    vagga=VAGGA_17,
+    meta_title="AN 5.161 — Getting Rid of Resentment (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaāghātapaṭivinayasutta, opening the Āghātavagga — five concrete ways to "
+        "dissolve resentment toward anyone, from loving-kindness to reflecting on kamma. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a new "
+                       "chapter"),
+    ],
+    why=(
+        "This chapter opens with a directly practical concern: not doctrine for its own "
+        "sake, but five concrete techniques for dissolving resentment toward a specific "
+        "person &mdash; three meditative, one a deliberate redirection of attention, and "
+        "one a doctrinal reflection on kamma-ownership."),
+    guide=[
+        ("A new chapter: resentment", [
+            "The Āghātavagga (&ldquo;Resentment&rdquo;) shifts from the previous chapter's "
+            "concern with the true teaching's institutional survival to something more "
+            "immediate: what to do when resentment (<em>āghāta</em>) toward a specific "
+            "individual has already arisen."]),
+        ("Three meditative reversals", [
+            "Developing love (<em>mettā</em>), compassion (<em>karuṇā</em>), and equanimity "
+            "(<em>upekkhā</em>) toward the resented individual &mdash; three of the four "
+            "classical divine abodes (<em>brahmavihāra</em>). Notably absent is the fourth, "
+            "sympathetic joy (<em>muditā</em>), which fits awkwardly with an object of "
+            "resentment in a way the other three don't."]),
+        ("A fourth technique: simply not attending", [
+            "Disregarding the person entirely, paying them no attention &mdash; a more "
+            "blunt, non-meditative technique than the three divine abodes: not "
+            "transforming the feeling toward them, but simply withdrawing attention from "
+            "them altogether."]),
+        ("The fifth: kamma-ownership", [
+            "Reflecting explicitly on the resented person as &lsquo;the owner of their "
+            "deeds, heir to their deeds&rsquo; &mdash; the same kamma-ownership formula "
+            "used elsewhere for reflection on one's own mortality and moral responsibility, "
+            "here redirected toward someone who has provoked resentment, reframing them as "
+            "simply another being subject to the same universal law."]),
+        ("What follows", [
+            "AN 5.162 gives this same theme a far richer treatment: five types of person, "
+            "each paired with an elaborate simile for how to relate to their mixture of "
+            "virtue and fault."]),
+    ],
+    terms=[
+        ("āghāta",
+         "&ldquo;resentment&rdquo; &mdash; this chapter's title concept, the object all "
+         "ten discourses address."),
+        ("mettā, karuṇā, upekkhā",
+         "love, compassion, and equanimity &mdash; three of the four brahmavihāras, used "
+         "here as direct antidotes to resentment."),
+        ("asatiamanasikāra",
+         "&ldquo;disregard, paying no attention&rdquo; &mdash; the fourth, non-meditative "
+         "technique."),
+        ("kammassakatā",
+         "&ldquo;ownership of deeds&rdquo; &mdash; reflecting that the resented person is "
+         "heir to their own kamma, good or bad."),
+        ("kammadāyādo",
+         "&ldquo;heir to their deeds&rdquo; &mdash; part of the kamma-ownership formula "
+         "applied to the resented individual."),
+    ],
+    text_intro=(
+        "The discourse in full: five ways to completely get rid of resentment toward "
+        "anyone. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ways to get rid of resentment"),
+        ("p", "&sect;1", "an5.161:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Āghātavagga, 'Resentment'",
+             "Saddhammavagga, 'The True Teaching'",
+             "Kimilavagga, 'With Kimbila'",
+             "Upāsakavagga, 'A Lay Follower'"],
+         "correct": 0,
+         "expl": "This session's seventeenth chapter."},
+        {"q": "What three brahmavihāras does this discourse name as antidotes to resentment?",
+         "opts": [
+             "Love, compassion, and equanimity",
+             "Love, joy, and generosity",
+             "Compassion, wisdom, and faith",
+             "Equanimity, learning, and ethics"],
+         "correct": 0,
+         "expl": "Mettā, karuṇā, and upekkhā — three of the four brahmavihāras."},
+        {"q": "Which of the four brahmavihāras is notably absent from this list?",
+         "opts": [
+             "Muditā, sympathetic joy",
+             "Mettā, love",
+             "Karuṇā, compassion",
+             "Upekkhā, equanimity"],
+         "correct": 0,
+         "expl": "It fits awkwardly with an object of resentment."},
+        {"q": "What does 'asatiamanasikāra' describe?",
+         "opts": [
+             "Disregarding the person, paying them no attention at all",
+             "Meditating intensively on the person",
+             "Publicly confronting the person",
+             "Formally reporting the person to the Saṅgha"],
+         "correct": 0,
+         "expl": "A blunt, non-meditative technique — simply withdrawing attention."},
+        {"q": "What does the fifth technique involve?",
+         "opts": [
+             "Reflecting that the resented person is owner and heir of their own deeds",
+             "Publicly forgiving the person in front of witnesses",
+             "Avoiding the person's company entirely",
+             "Requesting the Buddha to intervene directly"],
+         "correct": 0,
+         "expl": "The kamma-ownership reflection, redirected toward the resented individual."},
+        {"q": "What does 'kammadāyādo' mean?",
+         "opts": [
+             "Heir to one's own deeds",
+             "Free from all kamma",
+             "A skilled meditation teacher",
+             "One who has renounced action"],
+         "correct": 0,
+         "expl": "Part of the kamma-ownership formula."},
+        {"q": "How does the fourth technique differ from the first three?",
+         "opts": [
+             "It doesn't transform the feeling toward the person — it simply withdraws attention",
+             "It requires formal ordination first",
+             "It can only be used by senior mendicants",
+             "It is identical to the first technique"],
+         "correct": 0,
+         "expl": "A more blunt approach than the meditative reversals."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no negative/positive mirror",
+             "Two paired five-item lists",
+             "A narrative with dialogue",
+             "A colophon closing a chapter"],
+         "correct": 0,
+         "expl": "Unlike many AN 5 discourses, no negation is mirrored here."},
+        {"q": "What does AN 5.162 add to this same theme?",
+         "opts": [
+             "Five types of person, each paired with an elaborate simile",
+             "A narrative about King Pasenadi",
+             "A colophon closing the chapter",
+             "A discussion of the five aggregates"],
+         "correct": 0,
+         "expl": "A far richer treatment of the same underlying concern."},
+        {"q": "What shift does this chapter mark from the previous one?",
+         "opts": [
+             "From the teaching's institutional survival to a more immediate interpersonal concern",
+             "From prose to verse",
+             "From the Buddha's voice to Sāriputta's, for every discourse",
+             "From monks to nuns"],
+         "correct": 0,
+         "expl": "Though several later discourses in this chapter are voiced by Sāriputta."},
+    ],
+    marginalia=[
+        ("Five techniques", [
+            "love &middot; compassion &middot;",
+            "equanimity &middot; disregard",
+            "&middot; kamma-reflection",
+        ]),
+        ("A notable omission", [
+            "muditā, sympathetic joy,",
+            "is left out",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āghāta</span>",
+            "&mdash; resentment",
+        ]),
+        ("Cross-references", [
+            "AN 5.162 &middot; next: five types of person, with elaborate similes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.161/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.162.html">AN 5.162 &middot; Getting Rid of Resentment (2nd)</a> '
+        "&mdash; next: five types of person, each with its own simile.",
+        '<a href="an-5.160.html">AN 5.160 &middot; Hard to Get Rid Of</a> &mdash; the '
+        "previous chapter's closing discourse.",
+        '<a href="an-5.167.html">AN 5.167 &middot; Accusation</a> &mdash; later in this '
+        "chapter, on giving and receiving criticism with an even temper.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.162 — Dutiyaāghātapaṭivinayasutta
+# --------------------------------------------------------------------------- #
+page(
+    162, "Dutiyaāghātapaṭivinaya", "Getting Rid of Resentment (2nd)",
+    vagga=VAGGA_17,
+    meta_title="AN 5.162 — Getting Rid of Resentment (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Dutiyaāghātapaṭivinayasutta — five types of person and five vivid similes for "
+        "how to relate to each one's mixture of virtue and fault. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants"),
+        ("Form", "five types of person, each paired with an elaborate simile"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long, but vividly "
+                       "illustrated"),
+    ],
+    why=(
+        "One of this nipāta's richest single discourses: Sāriputta names five types of "
+        "person, defined by how their bodily and verbal conduct combine with whether they "
+        "occasionally show an opening and clarity of heart &mdash; and gives each type its "
+        "own unforgettable simile for how to relate to it without resentment."),
+    guide=[
+        ("Sāriputta takes the teacher's seat", [
+            "Unlike AN 5.161, this discourse is voiced entirely by Sāriputta, addressing "
+            "the mendicants directly &mdash; the first of several discourses in this "
+            "chapter where a senior disciple, not the Buddha, delivers the teaching."]),
+        ("Five types, by a two-part measure", [
+            "Each type is defined by combining two variables: whether bodily and verbal "
+            "conduct are pure or impure, and whether the person occasionally experiences "
+            "an &lsquo;opening and clarity of heart&rsquo; (<em>cetaso vivaraṁ cetaso "
+            "pasādaṁ</em>) &mdash; a capacity for genuine goodness beneath imperfect "
+            "conduct."]),
+        ("Five similes, one per type", [
+            "A rag-picker salvaging the intact part of a torn cloth (impure body, pure "
+            "speech); a thirsty traveler drinking from a moss-covered pond by pushing the "
+            "moss aside (impure speech, pure body); a thirsty traveler drinking carefully "
+            "from a cow's hoofprint so as not to stir the mud (impure in both, but "
+            "sometimes clear-hearted); compassion for a sick, unattended traveler on a "
+            "lonely road (impure in both, never clear-hearted); and bathing at leisure in "
+            "a clean, shaded lotus pond (pure in both, often clear-hearted)."]),
+        ("The common thread: partial attention", [
+            "In every case but the last, the technique is the same: deliberately attend "
+            "to whatever genuine good is present in the person, and set aside, without "
+            "denying, whatever is impure &mdash; salvaging what's usable rather than "
+            "rejecting the whole person for their worst quality."]),
+        ("A closing line on trust", [
+            "The discourse closes with a single observation, distinct from the five "
+            "similes: relying on someone who is impressive all around, the mind becomes "
+            "confident &mdash; naming, by contrast, what makes the fifth type's case "
+            "simplest of all."]),
+    ],
+    terms=[
+        ("cetaso vivaraṁ cetaso pasādaṁ",
+         "&ldquo;an opening and clarity of heart&rdquo; &mdash; the capacity for genuine "
+         "goodness this discourse looks for beneath imperfect conduct."),
+        ("aparisuddhakāyasamācāro",
+         "&ldquo;impure in bodily conduct&rdquo; &mdash; one of the two conduct-variables "
+         "defining each type."),
+        ("paṁsukūlika",
+         "a mendicant who wears rag-robes, salvaged from discarded cloth &mdash; the "
+         "practitioner in this discourse's first simile."),
+        ("samantapāsādikaṁ puggalaṁ",
+         "&ldquo;an individual who is impressive all around&rdquo; &mdash; the discourse's "
+         "closing observation on trust."),
+        ("āghāta",
+         "&ldquo;resentment&rdquo; &mdash; what all five techniques in this discourse are "
+         "meant to dissolve."),
+    ],
+    text_intro=(
+        "The discourse in full: five types of person, and the simile for each. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five kinds of individual"),
+        ("p", "&sect;1", "an5.162:1.1-2.12"),
+        ("h3", "Impure body, pure speech: the rag-picker"),
+        ("p", "&sect;2", "an5.162:3.1-3.4"),
+        ("h3", "Impure speech, pure body: the mossy pond"),
+        ("p", "&sect;3", "an5.162:4.1-4.6"),
+        ("h3", "Impure in both, sometimes clear-hearted: the cow's hoofprint"),
+        ("p", "&sect;4", "an5.162:5.1-5.12"),
+        ("h3", "Impure in both, never clear-hearted: the sick traveler"),
+        ("p", "&sect;5", "an5.162:6.1-6.14"),
+        ("h3", "Pure in both, often clear-hearted: the clean lotus pond"),
+        ("p", "&sect;6", "an5.162:7.1-8.5"),
+        ("h3", "Closing"),
+        ("p", "&sect;7", "an5.162:9.1-9.1"),
+    ],
+    quiz=[
+        {"q": "Who delivers this discourse?",
+         "opts": [
+             "Venerable Sāriputta, addressing the mendicants",
+             "The Buddha, addressing King Pasenadi",
+             "Venerable Ānanda, addressing Sāriputta",
+             "A group of lay followers"],
+         "correct": 0,
+         "expl": "One of several Sāriputta-voiced discourses in this chapter."},
+        {"q": "What two variables define each of the five types of person?",
+         "opts": [
+             "Purity of bodily/verbal conduct, and whether they occasionally show clarity of heart",
+             "Age and gender",
+             "Wealth and social status",
+             "Length of ordination"],
+         "correct": 0,
+         "expl": "A two-part measure combining outward conduct and inner capacity."},
+        {"q": "What does the rag-picker simile illustrate?",
+         "opts": [
+             "Relating to someone with impure bodily conduct but pure speech, by salvaging what's usable",
+             "How to properly sew monastic robes",
+             "The dangers of material attachment",
+             "A method for begging alms"],
+         "correct": 0,
+         "expl": "Tearing out the intact part of a torn cloth, discarding the rest."},
+        {"q": "What does the mossy pond simile illustrate?",
+         "opts": [
+             "Relating to someone with impure speech but pure bodily conduct",
+             "The dangers of contaminated water",
+             "A meditation on impermanence",
+             "The proper conduct for alms rounds"],
+         "correct": 0,
+         "expl": "Pushing the moss aside to drink the water beneath."},
+        {"q": "What does the cow's-hoofprint simile illustrate?",
+         "opts": [
+             "Relating carefully to someone impure in both body and speech, but sometimes clear-hearted",
+             "A method for finding safe drinking water while traveling",
+             "The Buddha's teaching on patience",
+             "A parable about humility"],
+         "correct": 0,
+         "expl": "Drinking carefully from a small pool, so as not to stir up the mud."},
+        {"q": "What does the sick-traveler simile illustrate?",
+         "opts": [
+             "Compassion for someone impure in both body and speech who never shows clarity of heart",
+             "The importance of medical care for mendicants",
+             "A warning against traveling alone",
+             "The five kinds of illness"],
+         "correct": 0,
+         "expl": "Responding with sympathy rather than resentment, even to the least promising case."},
+        {"q": "What does the clean lotus pond simile illustrate?",
+         "opts": [
+             "Someone pure in both body and speech, who often shows clarity of heart",
+             "The most difficult type of person to deal with",
+             "A place unsuitable for meditation",
+             "The dangers of complacency"],
+         "correct": 0,
+         "expl": "Bathing at leisure — the simplest, most straightforward case."},
+        {"q": "What does 'cetaso vivaraṁ cetaso pasādaṁ' mean?",
+         "opts": [
+             "An opening and clarity of heart",
+             "A closed, defensive mind",
+             "Formal monastic ordination",
+             "A state of deep grief"],
+         "correct": 0,
+         "expl": "The capacity for genuine goodness this discourse looks for."},
+        {"q": "What common technique runs through the first four similes?",
+         "opts": [
+             "Deliberately attending to whatever genuine good is present, setting aside what's impure without denying it",
+             "Avoiding the person entirely",
+             "Publicly confronting their faults",
+             "Reporting them to a senior mendicant"],
+         "correct": 0,
+         "expl": "Salvaging what's usable rather than rejecting the whole person."},
+        {"q": "What does the discourse's closing line observe?",
+         "opts": [
+             "Relying on someone impressive all around, the mind becomes confident",
+             "All five types of person are equally difficult",
+             "Resentment can never truly be overcome",
+             "Only monastics can practice these five techniques"],
+         "correct": 0,
+         "expl": "A final note distinguishing the fifth, simplest case."},
+    ],
+    marginalia=[
+        ("Five types, five similes", [
+            "rag-picker &middot; mossy",
+            "pond &middot; hoofprint &middot;",
+            "sick traveler &middot; clean",
+            "pond",
+        ]),
+        ("Salvage, don't reject", [
+            "attend to the good,",
+            "set aside the rest",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">cetaso vivaraṁ</span>",
+            "&mdash; an opening",
+            "of heart",
+        ]),
+        ("Cross-references", [
+            "AN 5.161 &middot; this same theme's simpler, five-technique treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.162/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.161.html">AN 5.161 &middot; Getting Rid of Resentment (1st)</a> '
+        "&mdash; the previous discourse, this same theme in simpler form.",
+        '<a href="an-5.163.html">AN 5.163 &middot; Discussions</a> &mdash; next: '
+        "Sāriputta on fitness for spiritual companionship.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; later in this '
+        "chapter, a narrative dispute where Sāriputta&rsquo;s own conduct is put to the "
+        "test.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.163 — Sākacchasutta
+# --------------------------------------------------------------------------- #
+page(
+    163, "Sākaccha", "Discussions",
+    vagga=VAGGA_17,
+    meta_title="AN 5.163 — Discussions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Sākacchasutta — the five-part formula of ethics, immersion, wisdom, freedom, and "
+        "the knowledge and vision of freedom, applied to fitness for discussion. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants"),
+        ("Form", "single five-item list"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, term-dense"),
+    ],
+    why=(
+        "Sāriputta names the classical fivefold body of the teaching &mdash; ethics, "
+        "immersion, wisdom, freedom, and the knowledge and vision of freedom &mdash; as "
+        "the standard for who is genuinely fit to hold a discussion with fellow "
+        "practitioners: not personal accomplishment alone, but the ability to field "
+        "questions about it."),
+    guide=[
+        ("Fitness for discussion, precisely defined", [
+            "This discourse doesn't ask simply whether someone has attained these five "
+            "qualities, but whether they can also answer questions that come up when "
+            "discussing them &mdash; a double bar, combining personal accomplishment with "
+            "the capacity to articulate and defend it."]),
+        ("The fivefold body of the teaching", [
+            "Ethics (<em>sīla</em>), immersion (<em>samādhi</em>), wisdom "
+            "(<em>paññā</em>), freedom (<em>vimutti</em>), and the knowledge and vision of "
+            "freedom (<em>vimuttiñāṇadassana</em>) &mdash; a classical five-part "
+            "progression from moral conduct through meditative stability, insight, "
+            "liberation itself, and finally reflective certainty about that liberation."]),
+        ("A demanding standard", [
+            "Each item requires two things at once: being personally accomplished in it, "
+            "and being able to field others' questions about accomplishment in it &mdash; "
+            "ruling out both the merely knowledgeable non-practitioner and the genuinely "
+            "accomplished but inarticulate practitioner."]),
+        ("Sāriputta as the standard-setter", [
+            "This is the first of several discourses in this chapter voiced by Sāriputta "
+            "rather than the Buddha, addressing the mendicants directly on matters of "
+            "communal practice and conduct."]),
+        ("A twin discourse follows", [
+            "AN 5.164 restates this exact same five-part formula, changing only what "
+            "it qualifies someone for: not discussion, but sharing a common way of "
+            "life."]),
+    ],
+    terms=[
+        ("sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana",
+         "ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom "
+         "&mdash; the classical fivefold body of the teaching."),
+        ("sākaccha",
+         "&ldquo;discussion&rdquo; &mdash; this discourse's title concept, the fitness "
+         "being defined."),
+        ("sampanno",
+         "&ldquo;accomplished, complete&rdquo; &mdash; the state required in each of the "
+         "five qualities."),
+        ("pañhaṁ byākattā",
+         "&ldquo;one who answers questions&rdquo; &mdash; the second, articulative "
+         "requirement alongside personal accomplishment."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo; &mdash; fellow practitioners, the audience "
+         "this fitness is measured against."),
+    ],
+    text_intro=(
+        "The discourse in full: the fivefold standard for fitness to discuss the teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Fit to discuss the teaching"),
+        ("p", "&sect;1", "an5.163:1.1-2.8"),
+    ],
+    quiz=[
+        {"q": "Who delivers this discourse?",
+         "opts": [
+             "Venerable Sāriputta, addressing the mendicants",
+             "The Buddha, addressing a king",
+             "Venerable Ānanda, addressing Sāriputta",
+             "A group of laypeople"],
+         "correct": 0,
+         "expl": "One of several Sāriputta-voiced discourses in this chapter."},
+        {"q": "What five qualities make up the fivefold body of the teaching named here?",
+         "opts": [
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana."},
+        {"q": "What double requirement does this discourse set for each of the five qualities?",
+         "opts": [
+             "Being personally accomplished in it, and being able to answer questions about it",
+             "Being ordained for at least ten years",
+             "Having taught it to at least one other person",
+             "Having written it down formally"],
+         "correct": 0,
+         "expl": "Combining personal accomplishment with articulative capacity."},
+        {"q": "What does 'vimuttiñāṇadassana' mean?",
+         "opts": [
+             "The knowledge and vision of freedom",
+             "The four noble truths",
+             "A formal meditation posture",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "The fifth and final item in the fivefold body of the teaching."},
+        {"q": "What kind of person does this discourse's double requirement rule out?",
+         "opts": [
+             "Both the merely knowledgeable non-practitioner and the accomplished but inarticulate practitioner",
+             "Only newly ordained mendicants",
+             "Only laypeople",
+             "No one — the standard is purely theoretical"],
+         "correct": 0,
+         "expl": "Accomplishment alone, or articulateness alone, isn't sufficient."},
+        {"q": "What does 'sākaccha' mean?",
+         "opts": [
+             "Discussion",
+             "Silence",
+             "Ordination",
+             "Almsgiving"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What is the first item in the fivefold sequence?",
+         "opts": [
+             "Sīla, ethics",
+             "Paññā, wisdom",
+             "Vimutti, freedom",
+             "Samādhi, immersion"],
+         "correct": 0,
+         "expl": "The sequence begins with moral conduct."},
+        {"q": "What discourse immediately follows, reusing this exact same five-part formula?",
+         "opts": [
+             "AN 5.164, Sharing a Way of Life",
+             "AN 5.170, With Bhaddaji",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The same formula, applied to a different kind of fitness."},
+        {"q": "What does AN 5.164 change about this formula?",
+         "opts": [
+             "What it qualifies someone for — sharing a way of life, not discussion",
+             "The number of qualities, from five to seven",
+             "The speaker, from Sāriputta to Ānanda",
+             "Nothing at all — it is word-for-word identical in every respect"],
+         "correct": 0,
+         "expl": "The same fivefold standard, differently applied."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āghātavagga",
+             "Saddhammavagga",
+             "Upāsakavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'Resentment', this session's seventeenth chapter."},
+    ],
+    marginalia=[
+        ("The fivefold body of teaching", [
+            "ethics &middot; immersion",
+            "&middot; wisdom &middot;",
+            "freedom &middot; knowledge",
+            "of freedom",
+        ]),
+        ("A double bar", [
+            "accomplished in it, AND",
+            "able to defend it",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sākaccha</span>",
+            "&mdash; discussion",
+        ]),
+        ("Cross-references", [
+            "AN 5.164 &middot; next: this same formula, for sharing a way of life",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.163/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.162.html">AN 5.162 &middot; Getting Rid of Resentment (2nd)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.164.html">AN 5.164 &middot; Sharing a Way of Life</a> &mdash; next: '
+        "the same five-part formula, applied to communal living.",
+        '<a href="an-5.169.html">AN 5.169 &middot; Quick-witted</a> &mdash; later in this '
+        "chapter, a different fivefold standard for skillful speech.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.164 — Sājīvasutta
+# --------------------------------------------------------------------------- #
+page(
+    164, "Sājīva", "Sharing a Way of Life",
+    vagga=VAGGA_17,
+    meta_title="AN 5.164 — Sharing a Way of Life | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Sājīvasutta — the identical fivefold formula from AN 5.163, reapplied to fitness "
+        "for sharing a common life with spiritual companions. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants"),
+        ("Form", "single five-item list, identical to AN 5.163"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a direct "
+                       "restatement"),
+    ],
+    why=(
+        "The exact same fivefold formula as AN 5.163, reapplied: not fitness to discuss "
+        "the teaching, but fitness to share a common way of life "
+        "(<em>sājīva</em>) with spiritual companions &mdash; a subtle but real shift, from "
+        "verbal exchange to sustained communal existence."),
+    guide=[
+        ("An identical formula, a different application", [
+            "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom "
+            "&mdash; the same fivefold body of the teaching as AN 5.163, with the same "
+            "double requirement (personal accomplishment plus the ability to field "
+            "questions about it)."]),
+        ("Discussion versus shared life", [
+            "The distinction between this discourse and its immediate predecessor is "
+            "worth sitting with: AN 5.163 asks who is fit for verbal exchange about the "
+            "teaching, while this discourse asks who is fit for something more "
+            "demanding &mdash; actually living alongside others day to day."]),
+        ("Why the same formula serves both", [
+            "That the identical five-part standard qualifies someone for both suggests a "
+            "view in which genuine spiritual accomplishment and articulate self-"
+            "understanding aren't separable from trustworthy communal conduct &mdash; "
+            "someone accomplished enough to discuss the teaching well is, on this view, "
+            "also accomplished enough to be lived with well."]),
+        ("An abbreviated opening", [
+            "The source text itself marks this discourse's opening as an abbreviation "
+            "(&lsquo;&hellip;pe&hellip;&rsquo;) of AN 5.163's, signaling that the "
+            "compilers themselves treated these as a deliberately paired restatement, not "
+            "two independently composed discourses."]),
+        ("What follows", [
+            "AN 5.165 shifts from these standards for fitness to a different concern "
+            "entirely: the five reasons someone might ask a question at all."]),
+    ],
+    terms=[
+        ("sājīva",
+         "&ldquo;a shared way of life&rdquo; &mdash; this discourse's title concept, "
+         "distinct from AN 5.163's sākaccha (discussion)."),
+        ("sīla, samādhi, paññā, vimutti, vimuttiñāṇadassana",
+         "ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom "
+         "&mdash; the identical fivefold formula reused from AN 5.163."),
+        ("alaṁsājīvo",
+         "&ldquo;fit to share a life with&rdquo; &mdash; the specific standard this "
+         "discourse names."),
+        ("pe",
+         "the standard abbreviation marker in the source text, indicating a passage "
+         "identical to one given earlier in full."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo; &mdash; those with whom this shared way of "
+         "life is measured."),
+    ],
+    text_intro=(
+        "The discourse in full: the same fivefold standard, now for fitness to share a "
+        "life with others. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Fit to share a way of life"),
+        ("p", "&sect;1", "an5.164:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What formula does this discourse reuse from AN 5.163?",
+         "opts": [
+             "The identical fivefold body of the teaching",
+             "An entirely new set of five qualities",
+             "The nine teaching genres",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom."},
+        {"q": "What does 'sājīva' mean?",
+         "opts": [
+             "A shared way of life",
+             "A formal discussion",
+             "A meditation retreat",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "This discourse's title concept, distinct from AN 5.163's 'discussion'."},
+        {"q": "What distinguishes this discourse's application of the formula from AN 5.163's?",
+         "opts": [
+             "It qualifies someone for shared communal life, not verbal discussion",
+             "It requires ten additional qualities",
+             "It applies only to newly ordained mendicants",
+             "It removes the requirement for personal accomplishment"],
+         "correct": 0,
+         "expl": "A shift from verbal exchange to sustained day-to-day coexistence."},
+        {"q": "How does the source text itself mark this discourse's opening?",
+         "opts": [
+             "With an abbreviation marker, signaling it repeats AN 5.163's opening",
+             "With an entirely new narrative frame",
+             "With a formal colophon",
+             "With a direct quotation from the Buddha"],
+         "correct": 0,
+         "expl": "The compilers treated this as a deliberate paired restatement."},
+        {"q": "What view does using the identical formula for both discussion and communal life suggest?",
+         "opts": [
+             "That spiritual accomplishment and articulate understanding aren't separable from trustworthy communal conduct",
+             "That discussion and communal life require entirely unrelated qualities",
+             "That only senior mendicants may live communally",
+             "That the two discourses are unrelated in content"],
+         "correct": 0,
+         "expl": "One and the same standard serves both, on this view."},
+        {"q": "Who delivers this discourse?",
+         "opts": [
+             "Venerable Sāriputta",
+             "The Buddha",
+             "Venerable Ānanda",
+             "Venerable Udāyī"],
+         "correct": 0,
+         "expl": "Continuing the pattern set at AN 5.162-163."},
+        {"q": "What is 'vimuttiñāṇadassana'?",
+         "opts": [
+             "The knowledge and vision of freedom, the fifth item in this formula",
+             "A type of monastic robe",
+             "A ceremony for new ordinands",
+             "A specific meditation posture"],
+         "correct": 0,
+         "expl": "The final, most reflective item in the fivefold sequence."},
+        {"q": "What discourse follows, shifting to a different concern entirely?",
+         "opts": [
+             "AN 5.165, Asking Questions",
+             "AN 5.170, With Bhaddaji",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The five reasons someone might ask a question."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Āghātavagga",
+             "Saddhammavagga",
+             "Kimilavagga",
+             "Araññavagga"],
+         "correct": 0,
+         "expl": "'Resentment', this session's seventeenth chapter."},
+        {"q": "What double requirement does the fivefold formula still carry here?",
+         "opts": [
+             "Personal accomplishment plus the ability to answer questions about it",
+             "Formal ordination plus seniority",
+             "Wealth plus generosity",
+             "Physical health plus stamina"],
+         "correct": 0,
+         "expl": "Unchanged from its use at AN 5.163."},
+    ],
+    marginalia=[
+        ("Same formula, new use", [
+            "not discussion &mdash;",
+            "shared daily life",
+        ]),
+        ("An abbreviated opening", [
+            "marked in the source",
+            "as repeating AN 5.163",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sājīva</span>",
+            "&mdash; a shared way",
+            "of life",
+        ]),
+        ("Cross-references", [
+            "AN 5.163 &middot; the identical formula, for fitness to discuss the teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.164/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.163.html">AN 5.163 &middot; Discussions</a> &mdash; the previous '
+        "discourse, this same formula applied to verbal exchange.",
+        '<a href="an-5.165.html">AN 5.165 &middot; Asking Questions</a> &mdash; next: '
+        "the five reasons someone might ask a question at all.",
+        '<a href="an-5.161.html">AN 5.161 &middot; Getting Rid of Resentment (1st)</a> '
+        "&mdash; this chapter's opening discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.165 — Pañhapucchāsutta
+# --------------------------------------------------------------------------- #
+page(
+    165, "Pañhapucchā", "Asking Questions",
+    vagga=VAGGA_17,
+    meta_title="AN 5.165 — Asking Questions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Pañhapucchāsutta — five reasons anyone ever asks a question, and Sāriputta's own "
+        "declared motive for asking his. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants"),
+        ("Form", "single five-item list, plus a personal declaration"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but sharply "
+                       "self-aware"),
+    ],
+    why=(
+        "A brief but pointed piece of self-examination: Sāriputta names five reasons "
+        "anyone might ever ask a question of another &mdash; ranging from genuine "
+        "confusion to outright hostility &mdash; and then declares, without elaboration, "
+        "which one motivates his own questions."),
+    guide=[
+        ("Five motives behind any question", [
+            "Stupidity and folly (simply not understanding); corrupt, showy wishes "
+            "(<em>pāpiccha</em>, wanting to be seen asking); a wish to disparage the "
+            "person answering; a genuine wish to understand; or a specific, more "
+            "generous fifth motive."]),
+        ("The fifth motive, spelled out", [
+            "&lsquo;If they correctly answer the question I ask, it's good. If not, I'll "
+            "correctly answer it for them&rsquo; &mdash; a stance that treats the "
+            "question itself as secondary to making sure the correct answer gets said, "
+            "by whoever ends up saying it."]),
+        ("A rare first-person admission", [
+            "Sāriputta doesn't merely list the five motives abstractly; he states plainly "
+            "that this fifth motive is his own, in every question he asks &mdash; a "
+            "notably direct piece of self-disclosure for this collection, where teachers "
+            "usually instruct rather than confess their own motives."]),
+        ("Why this matters for listeners, not just askers", [
+            "Read alongside AN 5.157's discourse on inappropriate talk, this discourse "
+            "completes a picture: just as a topic can be raised well or badly depending on "
+            "who's listening, a question can be asked well or badly depending on why it's "
+            "being asked &mdash; and both matter for a healthy exchange."]),
+        ("What follows", [
+            "AN 5.166 turns from this brief reflection on motive to a full narrative: a "
+            "doctrinal dispute where Sāriputta's own claim is challenged three times over."]),
+    ],
+    terms=[
+        ("mandattā momūhattā",
+         "&ldquo;from stupidity and folly&rdquo; &mdash; the first, least self-aware "
+         "motive for asking a question."),
+        ("pāpiccho icchāpakato",
+         "&ldquo;from corrupt wishes, of wishful temperament&rdquo; &mdash; asking to be "
+         "seen or to show off, rather than to learn."),
+        ("paribhavaṁ",
+         "&ldquo;to disparage&rdquo; &mdash; asking a question in order to belittle the "
+         "person answering it."),
+        ("aññātukāmo",
+         "&ldquo;wanting to understand&rdquo; &mdash; the fourth, straightforwardly "
+         "genuine motive."),
+        ("pañhapucchā",
+         "&ldquo;asking a question&rdquo; &mdash; this discourse's title concept."),
+    ],
+    text_intro=(
+        "The discourse in full: five reasons for asking a question, and Sāriputta's own "
+        "declared reason. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five reasons for asking a question"),
+        ("p", "&sect;1", "an5.165:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "Who delivers this discourse?",
+         "opts": [
+             "Venerable Sāriputta, addressing the mendicants",
+             "The Buddha, addressing King Pasenadi",
+             "Venerable Ānanda, addressing Sāriputta",
+             "Venerable Upavāṇa"],
+         "correct": 0,
+         "expl": "Continuing this chapter's pattern of Sāriputta-voiced teaching."},
+        {"q": "What is the first of the five reasons named for asking a question?",
+         "opts": [
+             "Stupidity and folly",
+             "A wish to understand",
+             "A generous, corrective motive",
+             "A formal test of another's knowledge"],
+         "correct": 0,
+         "expl": "Simply not understanding, the least self-aware motive."},
+        {"q": "What does 'pāpiccho icchāpakato' describe?",
+         "opts": [
+             "Asking from corrupt, showy wishes",
+             "Asking with genuine curiosity",
+             "Asking out of compassion",
+             "Refusing to ask any question at all"],
+         "correct": 0,
+         "expl": "Wanting to be seen or to show off, rather than to learn."},
+        {"q": "What does 'paribhavaṁ' describe as a motive for asking?",
+         "opts": [
+             "Asking in order to disparage or belittle the person answering",
+             "Asking to praise the person answering",
+             "Asking anonymously",
+             "Asking on behalf of someone else"],
+         "correct": 0,
+         "expl": "A hostile motive for questioning."},
+        {"q": "What is the fifth motive, which Sāriputta declares as his own?",
+         "opts": [
+             "Wanting the correct answer said, whether by the one asked or by oneself afterward",
+             "Wanting to embarrass the one being asked",
+             "Wanting to avoid ever answering questions oneself",
+             "Wanting to test a newcomer's patience"],
+         "correct": 0,
+         "expl": "Treating the question as secondary to the correct answer getting said."},
+        {"q": "What is notable about how Sāriputta presents this fifth motive?",
+         "opts": [
+             "He states plainly that it is his own motive in every question he asks",
+             "He denies ever asking questions himself",
+             "He attributes it only to the Buddha",
+             "He claims it applies to no one, including himself"],
+         "correct": 0,
+         "expl": "A direct, first-person piece of self-disclosure, unusual in this collection."},
+        {"q": "What earlier discourse does this one complete a picture with, on well-conducted exchange?",
+         "opts": [
+             "AN 5.157, Inappropriate Talk",
+             "AN 5.100, With Cunda",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "Both a topic and a question can be raised well or badly, depending on why."},
+        {"q": "What does 'aññātukāmo' mean?",
+         "opts": [
+             "Wanting to understand",
+             "Not wanting to know anything",
+             "Wanting to teach, not ask",
+             "Wanting to remain silent"],
+         "correct": 0,
+         "expl": "The fourth, straightforwardly genuine motive."},
+        {"q": "What discourse follows, turning to a full narrative dispute?",
+         "opts": [
+             "AN 5.166, Cessation",
+             "AN 5.170, With Bhaddaji",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A doctrinal dispute where Sāriputta's own claim is challenged three times."},
+        {"q": "How many total motives for asking a question does this discourse name?",
+         "opts": [
+             "Five",
+             "Three",
+             "Seven",
+             "Two"],
+         "correct": 0,
+         "expl": "From stupidity through disparagement to genuine understanding and beyond."},
+    ],
+    marginalia=[
+        ("Five motives", [
+            "folly &middot; showing off",
+            "&middot; disparagement &middot;",
+            "understanding &middot;",
+            "ensuring the answer",
+        ]),
+        ("A rare confession", [
+            "Sāriputta names his",
+            "own motive directly",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">paribhavaṁ</span>",
+            "&mdash; to disparage",
+        ]),
+        ("Cross-references", [
+            "AN 5.157 &middot; a companion concern, on when a topic is well or badly raised",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.165/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.164.html">AN 5.164 &middot; Sharing a Way of Life</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; next: a full '
+        "narrative where Sāriputta&rsquo;s own claim faces threefold challenge.",
+        '<a href="an-5.157.html">AN 5.157 &middot; Inappropriate Talk</a> &mdash; a '
+        "companion concern, on when raising a topic helps or harms.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.166 — Nirodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    166, "Nirodha", "Cessation",
+    vagga=VAGGA_17,
+    meta_title="AN 5.166 — Cessation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nirodhasutta — Sāriputta's claim about cessation, Udāyī's threefold rejection, "
+        "the Buddha's rebuke, and Ānanda's own confession of timidity. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Sāriputta, Udāyī, Ānanda, Upavāṇa, and the Buddha"),
+        ("Form", "extended narrative with dialogue, no five-item list"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; long, doctrinally and "
+                       "dramatically dense"),
+    ],
+    why=(
+        "One of this collection's most dramatic narratives: Sāriputta makes a doctrinal "
+        "claim, is flatly rejected three times over by Venerable Udāyī &mdash; twice, in "
+        "front of the whole assembly and then again in front of the Buddha &mdash; and "
+        "falls silent, only for the Buddha to reveal that Udāyī never understood the term "
+        "he was arguing about."),
+    guide=[
+        ("Sāriputta's claim, and Udāyī's threefold rejection", [
+            "Sāriputta states: a mendicant accomplished in ethics, immersion, and wisdom "
+            "might enter and emerge from the cessation of perception and feeling "
+            "(<em>saññāvedayitanirodha</em>) &mdash; and if they don't reach full "
+            "enlightenment in this life, they might be reborn among a certain host of "
+            "mind-made gods (<em>manomayakāya</em>) and enter that same cessation there "
+            "too. Udāyī rejects this outright, three times running, with no other "
+            "mendicant speaking up to support Sāriputta."]),
+        ("Before the Buddha, rejected again", [
+            "Getting no support, Sāriputta goes to the Buddha and restates his claim in "
+            "front of him &mdash; and Udāyī rejects it a second set of three times, even "
+            "there. Sāriputta, receiving no backing even in the Buddha's presence, falls "
+            "silent rather than pressing the point further."]),
+        ("The Buddha corrects Udāyī, and rebukes Ānanda", [
+            "The Buddha asks Udāyī directly what he even believes a &lsquo;mind-made "
+            "body&rsquo; is. Udāyī answers: the formless gods, made of perception &mdash; "
+            "revealing he was arguing against a claim he'd fundamentally misunderstood, "
+            "since the mind-made gods in question are not formless at all. The Buddha "
+            "calls him &lsquo;an incompetent fool&rsquo;, then turns to Ānanda and rebukes "
+            "him for silently watching a senior mendicant be harassed without showing any "
+            "compassion for him."]),
+        ("Ānanda's own timidity, and Upavāṇa's answer", [
+            "After the Buddha restates and confirms Sāriputta's original claim to the "
+            "assembly and withdraws, Ānanda &mdash; visibly shaken by the Buddha's rebuke "
+            "&mdash; goes to Venerable Upavāṇa and admits he now feels "
+            "&lsquo;overcome by timidity&rsquo; (<em>sārajjaṁ okkantaṁ</em>) himself, "
+            "predicting correctly that the Buddha will raise the matter again that "
+            "evening. When he does, he asks Upavāṇa what makes a senior mendicant dear and "
+            "respected; Upavāṇa answers with five qualities (ethical conduct, deep "
+            "learning, eloquent speech, easy mastery of the four absorptions, and the "
+            "ending of defilements), which the Buddha affirms &mdash; adding that without "
+            "these five, mere old age commands no real respect at all."]),
+        ("Udāyī, seen two ways", [
+            "Cross-ref AN 5.159, where this same Udāyī is shown confidently and evidently "
+            "capably teaching Dhamma to a large lay assembly at this very location. Here, "
+            "just seven discourses later, he's shown confidently asserting something "
+            "false three times over without grasping the term at stake &mdash; a pointed "
+            "reminder that confident teaching and genuine understanding aren't always the "
+            "same thing."]),
+        ("Ānanda's timidity, echoing AN 5.158", [
+            "The exact phrase Ānanda uses for his own state &mdash; <em>sārajjaṁ "
+            "okkantaṁ</em>, &lsquo;overcome by timidity&rsquo; &mdash; is the identical "
+            "term from AN 5.158's bare pentad on what overcomes a mendicant with timidity. "
+            "Here that abstract term is dramatized directly: even Ānanda, the most "
+            "learned of the Buddha's disciples, experiences it after witnessing a fellow "
+            "senior mendicant harassed and being rebuked himself for his silence."]),
+    ],
+    terms=[
+        ("saññāvedayitanirodha",
+         "&ldquo;the cessation of perception and feeling&rdquo; &mdash; the attainment at "
+         "the center of this discourse's dispute."),
+        ("manomayakāya",
+         "&ldquo;mind-made body&rdquo; &mdash; the kind of rebirth Sāriputta's claim "
+         "depends on, and the term Udāyī fundamentally misunderstands."),
+        ("bālassa abyattassa",
+         "&ldquo;incompetent fool&rdquo; &mdash; the Buddha's blunt rebuke of Udāyī."),
+        ("sārajjaṁ okkantaṁ",
+         "&ldquo;overcome by timidity&rdquo; &mdash; Ānanda's own admitted state, the "
+         "identical phrase used abstractly at AN 5.158."),
+        ("piyo ca manāpo ca garu ca bhāvanīyo ca",
+         "&ldquo;dear, beloved, respected, and admired&rdquo; &mdash; the standing Upavāṇa "
+         "is asked to define for a senior mendicant."),
+    ],
+    text_intro=(
+        "The discourse in full: the dispute, the Buddha's correction, and Ānanda's "
+        "confession. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta's claim, and Udāyī's threefold rejection"),
+        ("p", "&sect;1", "an5.166:1.1-4.3"),
+        ("h3", "Before the Buddha, rejected again"),
+        ("p", "&sect;2", "an5.166:5.1-9.4"),
+        ("h3", "The Buddha corrects Udāyī, and rebukes Ānanda"),
+        ("p", "&sect;3", "an5.166:10.1-12.7"),
+        ("h3", "Ānanda's own timidity, and Upavāṇa's answer"),
+        ("p", "&sect;4", "an5.166:13.1-15.4"),
+    ],
+    quiz=[
+        {"q": "What does Sāriputta claim in this discourse?",
+         "opts": [
+             "A mendicant accomplished in ethics, immersion, and wisdom might enter cessation, and might do so again after rebirth among mind-made gods",
+             "All mendicants automatically reach enlightenment within one lifetime",
+             "Cessation of perception and feeling is impossible for anyone to attain",
+             "Only the Buddha himself can enter cessation"],
+         "correct": 0,
+         "expl": "The claim at the center of the discourse's dispute."},
+        {"q": "How many times does Udāyī reject Sāriputta's claim in total, across both settings?",
+         "opts": [
+             "Six times — three before the assembly, three more before the Buddha",
+             "Once only",
+             "He never actually rejects it",
+             "Ten times"],
+         "correct": 0,
+         "expl": "Three times, then again three times in front of the Buddha."},
+        {"q": "What does the Buddha discover when he asks Udāyī what a 'mind-made body' means?",
+         "opts": [
+             "Udāyī fundamentally misunderstands the term — he thinks it means the formless gods",
+             "Udāyī has a perfectly correct understanding",
+             "The term has no fixed meaning at all",
+             "Udāyī refuses to answer"],
+         "correct": 0,
+         "expl": "He was arguing against a claim he had misunderstood from the start."},
+        {"q": "What does the Buddha call Udāyī after this exchange?",
+         "opts": [
+             "An incompetent fool",
+             "A wise and careful thinker",
+             "The most learned mendicant present",
+             "A future arahant"],
+         "correct": 0,
+         "expl": "A blunt rebuke, following the exposed misunderstanding."},
+        {"q": "What does the Buddha rebuke Ānanda for?",
+         "opts": [
+             "Silently watching a senior mendicant be harassed without showing compassion",
+             "Speaking too much during the dispute",
+             "Supporting Udāyī's rejection",
+             "Leaving the assembly early"],
+         "correct": 0,
+         "expl": "Ānanda's silence during Sāriputta's harassment."},
+        {"q": "What does Ānanda admit to Venerable Upavāṇa afterward?",
+         "opts": [
+             "That he now feels 'overcome by timidity' himself",
+             "That he agrees entirely with Udāyī",
+             "That he plans to leave the monastic life",
+             "That he no longer respects the Buddha"],
+         "correct": 0,
+         "expl": "Sārajjaṁ okkantaṁ — the identical phrase from AN 5.158."},
+        {"q": "Where else does the exact phrase 'sārajjaṁ okkantaṁ' appear in this nipāta?",
+         "opts": [
+             "AN 5.158, in its abstract, bare-list form",
+             "Nowhere else — it is unique to this discourse",
+             "AN 5.100",
+             "AN 5.10"],
+         "correct": 0,
+         "expl": "Here dramatized directly in Ānanda's own admitted experience."},
+        {"q": "What five qualities does Upavāṇa name as making a senior mendicant dear and respected?",
+         "opts": [
+             "Ethical conduct, deep learning, eloquent speech, mastery of the four absorptions, and the ending of defilements",
+             "Wealth, status, age, physical strength, and popularity",
+             "Faith, ethics, learning, generosity, and wisdom",
+             "Speed of ordination, family background, height, and eloquence"],
+         "correct": 0,
+         "expl": "The Buddha affirms this exact five-item answer."},
+        {"q": "What does the Buddha add after affirming Upavāṇa's answer?",
+         "opts": [
+             "Without these five qualities, mere old age commands no real respect at all",
+             "Only the Buddha himself possesses all five qualities",
+             "These five qualities are impossible for anyone to attain",
+             "Age alone is sufficient for respect, regardless of conduct"],
+         "correct": 0,
+         "expl": "Broken teeth, gray hair, and wrinkled skin alone earn nothing."},
+        {"q": "How does this discourse's portrayal of Udāyī contrast with AN 5.159's?",
+         "opts": [
+             "AN 5.159 shows him capably teaching a large lay assembly; here he confidently asserts something false without understanding the term at stake",
+             "The two discourses portray Udāyī identically",
+             "AN 5.159 shows him being rebuked, and this discourse shows him teaching well",
+             "Udāyī does not appear at all in AN 5.159"],
+         "correct": 0,
+         "expl": "A pointed reminder that confident teaching and genuine understanding aren't always the same."},
+    ],
+    marginalia=[
+        ("Rejected six times", [
+            "three before the",
+            "assembly, three more",
+            "before the Buddha",
+        ]),
+        ("A misunderstood term", [
+            "Udāyī never grasped",
+            "what &lsquo;mind-made",
+            "body&rsquo; meant",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">sārajjaṁ okkantaṁ</span>",
+            "&mdash; overcome",
+            "by timidity",
+        ]),
+        ("Cross-references", [
+            "AN 5.158 &middot; the same phrase, in abstract form",
+            "AN 5.159 &middot; the same Udāyī, shown teaching capably",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.166/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.158.html">AN 5.158 &middot; Timidity</a> &mdash; the same phrase, '
+        "sārajjaṁ okkantaṁ, in its abstract, bare-list form.",
+        '<a href="an-5.159.html">AN 5.159 &middot; With Udāyī</a> &mdash; the same Udāyī, '
+        "shown teaching a large lay assembly capably.",
+        '<a href="an-5.165.html">AN 5.165 &middot; Asking Questions</a> &mdash; the '
+        "previous discourse in this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.167 — Codanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    167, "Codanā", "Accusation",
+    vagga=VAGGA_17,
+    meta_title="AN 5.167 — Accusation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Codanāsutta — five things an accuser should establish first, and how the "
+        "accused should ground themselves in truth and an even temper. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta; the Buddha responds at the close"),
+        ("Form", "several paired five-item lists, plus a two-item grounding and closing "
+                 "dialogue"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long, but genuinely "
+                       "practical"),
+    ],
+    why=(
+        "A detailed, genuinely useful teaching on the ethics of criticism within a "
+        "community: what an accuser owes the person they're accusing, how both the "
+        "properly and improperly accused should be met, and how the accused themselves "
+        "should respond &mdash; grounded in nothing more than truth and an even temper."),
+    guide=[
+        ("Five things an accuser should establish", [
+            "Before accusing anyone of anything, a mendicant should resolve: I will speak "
+            "at the right time, not the wrong time; truthfully, not falsely; gently, not "
+            "harshly; beneficially, not harmfully; and lovingly, not from secret hate "
+            "&mdash; five conditions on the accuser's own conduct, established before a "
+            "word is spoken."]),
+        ("Reassuring the improperly accused, chastening the improper accuser", [
+            "When someone is accused at the wrong time, falsely, harshly, harmfully, or "
+            "with secret hate, Sāriputta says they should be reassured they have no reason "
+            "to feel remorse &mdash; while the one who made such an accusation should, by "
+            "the same five criteria, be given reason to feel remorse instead."]),
+        ("Chastening the properly accused, reassuring the proper accuser", [
+            "The mirror case: someone accused at the right time, truthfully, gently, "
+            "beneficially, and lovingly should be given reason to feel remorse (since the "
+            "accusation was accurate and fair), while whoever made that proper accusation "
+            "should be reassured they did nothing wrong. The stated purpose is practical: "
+            "so that no mendicant learns to think false accusations are acceptable, and so "
+            "that mendicants keep making true ones."]),
+        ("Grounding yourself in truth and an even temper", [
+            "Regardless of how one is accused &mdash; fairly or unfairly, gently or "
+            "harshly &mdash; Sāriputta says the accused should ground themselves in just "
+            "two things: truth and an unshakeable temper (<em>sacca</em> and "
+            "<em>akuppa</em>). If the accusation is accurate, say so plainly; if it isn't, "
+            "say that plainly too &mdash; neither defensive denial nor reflexive "
+            "self-blame, just an accurate report."]),
+        ("Two kinds of mendicants, and the Buddha's exhortation", [
+            "When the Buddha objects that some &lsquo;futile people&rsquo; won't "
+            "respectfully take even this good advice, Sāriputta distinguishes those "
+            "ordained merely to earn a livelihood (who won't listen) from genuine "
+            "gentlemen ordained out of faith (who will). The Buddha agrees, and tells "
+            "Sāriputta to leave the first group be and focus his advising and instructing "
+            "on the second &mdash; closing with the exhortation to draw spiritual "
+            "companions away from false teachings and ground them in true ones."]),
+        ("A companion to AN 5.161's resentment techniques", [
+            "Where AN 5.161&ndash;162 addressed resentment already arisen toward "
+            "someone, this discourse addresses the moment of conflict itself &mdash; how "
+            "to criticize well, and how to receive criticism well, before resentment has "
+            "the chance to take root at all."]),
+    ],
+    terms=[
+        ("codanā",
+         "&ldquo;accusation&rdquo; &mdash; this discourse's title concept, both giving "
+         "and receiving it."),
+        ("kālena, bhūtena, saṇhena, atthasaṁhitena, mettacitto",
+         "at the right time, truthfully, gently, beneficially, lovingly &mdash; the five "
+         "conditions an accuser should meet."),
+        ("avippaṭisāra / vippaṭisāra",
+         "the absence, or presence, of reason to feel remorse &mdash; the outcome "
+         "depending on whether an accusation was proper or improper."),
+        ("sacca, akuppa",
+         "truth and an even, unshakeable temper &mdash; the two things Sāriputta says the "
+         "accused should ground themselves in, regardless of how they're accused."),
+        ("kulaputta",
+         "&ldquo;a gentleman&rdquo; &mdash; here, one who went forth out of genuine faith, "
+         "distinguished from those ordained merely to earn a livelihood."),
+    ],
+    text_intro=(
+        "The discourse in full: how to accuse well, how to be accused well, and how to "
+        "respond either way. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things an accuser should establish"),
+        ("p", "&sect;1", "an5.167:1.1-2.7"),
+        ("h3", "Reassuring the improperly accused, chastening the improper accuser"),
+        ("p", "&sect;2", "an5.167:3.1-5.9"),
+        ("h3", "Chastening the properly accused, reassuring the proper accuser"),
+        ("p", "&sect;3", "an5.167:6.1-8.9"),
+        ("h3", "Grounding yourself in truth and an even temper"),
+        ("p", "&sect;4", "an5.167:9.1-9.10"),
+        ("h3", "Two kinds of mendicants"),
+        ("p", "&sect;5", "an5.167:10.1-14.5"),
+    ],
+    quiz=[
+        {"q": "What five things should an accuser establish before making an accusation?",
+         "opts": [
+             "Speaking at the right time, truthfully, gently, beneficially, and lovingly",
+             "Speaking loudly, quickly, publicly, formally, and repeatedly",
+             "Speaking only to senior mendicants",
+             "Speaking only in the Buddha's presence"],
+         "correct": 0,
+         "expl": "Five conditions on the accuser's own conduct."},
+        {"q": "How should someone accused improperly (at the wrong time, falsely, harshly) be treated?",
+         "opts": [
+             "Reassured they have no reason to feel remorse",
+             "Given reason to feel remorse regardless",
+             "Formally expelled from the community",
+             "Ignored entirely"],
+         "correct": 0,
+         "expl": "The accusation's impropriety, not the accused's conduct, is at fault."},
+        {"q": "What is the stated purpose of chastening someone who makes an improper accusation?",
+         "opts": [
+             "So that no other mendicant learns to think false accusations are acceptable",
+             "To publicly humiliate them",
+             "To have them expelled from the Saṅgha",
+             "There is no stated purpose"],
+         "correct": 0,
+         "expl": "A community-preserving rationale, not mere punishment."},
+        {"q": "What two things should the accused ground themselves in, regardless of how they're accused?",
+         "opts": [
+             "Truth and an even temper",
+             "Silence and withdrawal",
+             "Anger and self-defense",
+             "Formal appeal to a senior mendicant"],
+         "correct": 0,
+         "expl": "Sacca and akuppa — an accurate, unshaken response either way."},
+        {"q": "What should the accused say if an accusation is accurate?",
+         "opts": [
+             "Say plainly that the quality in question is found in them",
+             "Deny it regardless of accuracy",
+             "Remain completely silent",
+             "Immediately leave the community"],
+         "correct": 0,
+         "expl": "Neither defensive denial nor reflexive self-blame — an accurate report."},
+        {"q": "When the Buddha objects that some people won't respectfully take this advice, how does Sāriputta respond?",
+         "opts": [
+             "By distinguishing those ordained merely for a livelihood from genuine gentlemen ordained out of faith",
+             "By insisting everyone will always listen",
+             "By recommending the advice be withdrawn entirely",
+             "By blaming the Buddha for the objection"],
+         "correct": 0,
+         "expl": "Two very different kinds of mendicant, with very different receptiveness."},
+        {"q": "What does the Buddha tell Sāriputta to do about the two groups?",
+         "opts": [
+             "Leave the unreceptive group be, and focus advising on the genuine gentlemen",
+             "Expel the unreceptive group immediately",
+             "Treat both groups identically regardless of receptiveness",
+             "Stop advising anyone at all"],
+         "correct": 0,
+         "expl": "A pragmatic allocation of teaching effort."},
+        {"q": "What closing exhortation does the Buddha give Sāriputta?",
+         "opts": [
+             "To draw spiritual companions away from false teachings and ground them in true ones",
+             "To stop teaching entirely and meditate in seclusion",
+             "To formally expel all unreceptive mendicants",
+             "To report directly to the Buddha before advising anyone"],
+         "correct": 0,
+         "expl": "This discourse's closing instruction to Sāriputta."},
+        {"q": "How does this discourse relate to AN 5.161-162's techniques for resentment?",
+         "opts": [
+             "It addresses the moment of conflict itself, before resentment has a chance to take root",
+             "It contradicts those discourses entirely",
+             "It repeats those discourses word for word",
+             "It has no relation to them at all"],
+         "correct": 0,
+         "expl": "A companion concern: preventing resentment rather than dissolving it after the fact."},
+        {"q": "What does 'kulaputta' mean in this discourse's context?",
+         "opts": [
+             "A gentleman ordained out of genuine faith, as opposed to for a livelihood",
+             "A formally expelled mendicant",
+             "A layperson who has never ordained",
+             "A senior mendicant of at least twenty years' standing"],
+         "correct": 0,
+         "expl": "The receptive group Sāriputta is told to focus his advising on."},
+    ],
+    marginalia=[
+        ("Five conditions for an accuser", [
+            "right time &middot; truth",
+            "&middot; gentleness &middot;",
+            "benefit &middot; love",
+        ]),
+        ("Two things for the accused", [
+            "truth, and an",
+            "unshakeable temper",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">akuppa</span>",
+            "&mdash; unshakeable,",
+            "even-tempered",
+        ]),
+        ("Cross-references", [
+            "AN 5.161&ndash;162 &middot; preventing resentment, versus dissolving it "
+            "after the fact",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.167/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.166.html">AN 5.166 &middot; Cessation</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.168.html">AN 5.168 &middot; Ethics</a> &mdash; next: the causal '
+        "chain from ethics through to freedom.",
+        '<a href="an-5.161.html">AN 5.161 &middot; Getting Rid of Resentment (1st)</a> '
+        "&mdash; this chapter's opening discourse, on dissolving resentment already "
+        "arisen.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.168 — Sīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    168, "Sīla", "Ethics",
+    vagga=VAGGA_17,
+    meta_title="AN 5.168 — Ethics | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sāriputta's "
+        "Sīlasutta — the causal chain from ethics through immersion, true knowledge, "
+        "disillusionment, and freedom, illustrated by a tree's branches and foliage. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants"),
+        ("Form", "a five-step causal chain, illustrated by a single tree simile"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a classical causal "
+                       "sequence"),
+    ],
+    why=(
+        "Sāriputta traces the classical liberation sequence as a causal chain, each link "
+        "a &lsquo;vital condition&rsquo; for the next: without ethics, right immersion is "
+        "impossible; without immersion, true knowledge is impossible; and so on up to "
+        "freedom itself &mdash; illustrated by a single, elegant tree simile."),
+    guide=[
+        ("A five-link causal chain", [
+            "Ethics (<em>sīla</em>) is a vital condition (<em>upanisā</em>) for right "
+            "immersion (<em>sammāsamādhi</em>); right immersion for true knowledge and "
+            "vision (<em>yathābhūtañāṇadassana</em>); true knowledge and vision for "
+            "disillusionment and dispassion (<em>nibbidāvirāga</em>); and disillusionment "
+            "and dispassion for the knowledge and vision of freedom "
+            "(<em>vimuttiñāṇadassana</em>)."]),
+        ("Destroyed at the root", [
+            "An unethical person, lacking ethics, has already &lsquo;destroyed&rsquo; the "
+            "vital condition for right immersion &mdash; and because each link in the "
+            "chain depends on the one before it, that single failure cascades forward, "
+            "destroying the condition for every subsequent stage as well."]),
+        ("The tree simile", [
+            "A tree lacking branches and foliage cannot bring its shoots, bark, softwood, "
+            "and heartwood to fullness &mdash; a single, economical image for how a "
+            "missing foundational stage prevents everything built on top of it from "
+            "maturing, however much apparent effort goes into the later stages alone."]),
+        ("The chain fulfilled", [
+            "The positive mirror runs the same five links forward: ethics fulfilled "
+            "gives immersion its vital condition fulfilled, and so on up to the "
+            "knowledge and vision of freedom &mdash; with the tree, fully branched and "
+            "foliaged, bringing all its parts to fullness in turn."]),
+        ("A classical formula, elegantly compressed", [
+            "This upanisā (&lsquo;vital condition&rsquo;) sequence is one of the most "
+            "recognizable causal chains in the early texts, tracing how liberation "
+            "unfolds stage by stage rather than arising all at once &mdash; this "
+            "discourse states it with unusual economy, in five links and one simile."]),
+    ],
+    terms=[
+        ("upanisā",
+         "&ldquo;vital condition&rdquo; &mdash; this discourse's key structural term, "
+         "naming each link's dependence on the one before it."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the second link, dependent on ethics."),
+        ("yathābhūtañāṇadassana",
+         "&ldquo;true knowledge and vision&rdquo; &mdash; seeing things as they actually "
+         "are, the third link."),
+        ("nibbidāvirāga",
+         "&ldquo;disillusionment and dispassion&rdquo; &mdash; the fourth link, arising "
+         "from true knowledge and vision."),
+        ("vimuttiñāṇadassana",
+         "&ldquo;the knowledge and vision of freedom&rdquo; &mdash; the chain's final "
+         "link, reflective certainty about one's own liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: the chain destroyed by lacking ethics, and fulfilled by "
+        "having it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The chain destroyed"),
+        ("p", "&sect;1", "an5.168:1.1-1.11"),
+        ("h3", "The chain fulfilled"),
+        ("p", "&sect;2", "an5.168:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What does 'upanisā' mean in this discourse?",
+         "opts": [
+             "A vital condition — each link's dependence on the one before it",
+             "A type of meditation posture",
+             "A formal ordination ceremony",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "This discourse's key structural term."},
+        {"q": "What is the first link in this five-part causal chain?",
+         "opts": [
+             "Sīla, ethics",
+             "Vimuttiñāṇadassana, the knowledge and vision of freedom",
+             "Nibbidāvirāga, disillusionment and dispassion",
+             "Sammāsamādhi, right immersion"],
+         "correct": 0,
+         "expl": "The chain's foundational first link."},
+        {"q": "What happens when the first link, ethics, is missing?",
+         "opts": [
+             "The vital condition for every subsequent stage is destroyed as well, since each depends on the one before",
+             "Only the final stage is affected",
+             "Nothing — the stages are entirely independent",
+             "The chain simply reverses direction"],
+         "correct": 0,
+         "expl": "A single failure cascades forward through the whole sequence."},
+        {"q": "What does the tree simile illustrate?",
+         "opts": [
+             "A missing foundational stage prevents everything built on it from maturing",
+             "Trees are a common alms-offering",
+             "The impermanence of physical objects",
+             "The proper technique for pruning branches"],
+         "correct": 0,
+         "expl": "Shoots, bark, softwood, and heartwood fail to reach fullness without branches and foliage."},
+        {"q": "What is 'yathābhūtañāṇadassana'?",
+         "opts": [
+             "True knowledge and vision, seeing things as they actually are",
+             "A formal debate technique",
+             "A type of monastic robe",
+             "The nine teaching genres"],
+         "correct": 0,
+         "expl": "The third link in the causal chain."},
+        {"q": "What is 'nibbidāvirāga'?",
+         "opts": [
+             "Disillusionment and dispassion",
+             "Excessive attachment",
+             "A meditation retreat",
+             "A formal accusation"],
+         "correct": 0,
+         "expl": "The fourth link, arising from true knowledge and vision."},
+        {"q": "What is the chain's final link?",
+         "opts": [
+             "Vimuttiñāṇadassana, the knowledge and vision of freedom",
+             "Sīla, ethics",
+             "Sammāsamādhi, right immersion",
+             "Yathābhūtañāṇadassana, true knowledge and vision"],
+         "correct": 0,
+         "expl": "Reflective certainty about one's own liberation, the sequence's endpoint."},
+        {"q": "How does the positive mirror of this chain work?",
+         "opts": [
+             "Ethics fulfilled gives each subsequent link its vital condition fulfilled in turn",
+             "It describes an entirely unrelated five-part sequence",
+             "It reverses the order of the negative chain",
+             "It applies only to fully liberated arahants"],
+         "correct": 0,
+         "expl": "The same five links, running forward as fulfillment rather than destruction."},
+        {"q": "Who delivers this discourse?",
+         "opts": [
+             "Venerable Sāriputta",
+             "The Buddha",
+             "Venerable Ānanda",
+             "Venerable Upavāṇa"],
+         "correct": 0,
+         "expl": "Continuing this chapter's pattern of Sāriputta-voiced teaching."},
+        {"q": "What broader tradition does this discourse's causal-chain formula belong to?",
+         "opts": [
+             "One of early Buddhism's most recognizable sequences for how liberation unfolds stage by stage",
+             "A uniquely late addition with no wider parallel",
+             "A formula found only in this single discourse",
+             "A purely poetic device with no doctrinal content"],
+         "correct": 0,
+         "expl": "Stated here with unusual economy, in five links and one simile."},
+    ],
+    marginalia=[
+        ("Five-link chain", [
+            "ethics &middot; immersion",
+            "&middot; true knowledge &middot;",
+            "dispassion &middot; freedom",
+        ]),
+        ("One failure, cascading", [
+            "each link depends",
+            "on the one before it",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">upanisā</span>",
+            "&mdash; vital",
+            "condition",
+        ]),
+        ("Cross-references", [
+            "AN 5.163&ndash;164 &middot; the related fivefold sīla/samādhi/paññā/vimutti "
+            "formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.168/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.167.html">AN 5.167 &middot; Accusation</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.169.html">AN 5.169 &middot; Quick-witted</a> &mdash; next: Ānanda '
+        "and Sāriputta on skillful speech.",
+        '<a href="an-5.163.html">AN 5.163 &middot; Discussions</a> &mdash; the related '
+        "fivefold sīla/samādhi/paññā/vimutti/vimuttiñāṇadassana formula.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.169 — Khippanisantisutta
+# --------------------------------------------------------------------------- #
+page(
+    169, "Khippanisanti", "Quick-witted",
+    vagga=VAGGA_17,
+    meta_title="AN 5.169 — Quick-witted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Khippanisantisutta — Ānanda and Sāriputta's mutual exchange defining what makes "
+        "a mendicant quick-witted, learning well and forgetting nothing. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", "Venerable Ānanda and Venerable Sāriputta, in dialogue"),
+        ("Form", "a question deflected, then a five-item answer, then mutual praise"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a warm "
+                       "exchange between equals"),
+    ],
+    why=(
+        "A brief, genuinely warm exchange between the Buddha's two chief disciples: "
+        "Sāriputta deflects Ānanda's question back to him, Ānanda answers with a "
+        "five-part definition of skillful learning, and Sāriputta praises the answer as "
+        "an exact description of Ānanda himself."),
+    guide=[
+        ("A question, deflected", [
+            "Ānanda asks Sāriputta how to define a mendicant who is &lsquo;quick-witted, "
+            "learns well, learns much, and doesn't forget what they've learned&rsquo; "
+            "&mdash; and Sāriputta, rather than answering, redirects the question back to "
+            "Ānanda, citing his own renowned learning."]),
+        ("Five kinds of skill", [
+            "Ānanda answers with a five-part formula: being skilled in the meaning "
+            "(<em>attha</em>), skilled in the teaching itself (<em>dhamma</em>), skilled "
+            "in definition (<em>byañjana</em>), skilled in phrasing "
+            "(<em>nirutti</em>), and skilled in sequence (<em>pubbāpara</em>) &mdash; five "
+            "distinct dimensions of genuine command over a body of teaching, not simply "
+            "memorization."]),
+        ("Praise in return", [
+            "Sāriputta calls Ānanda's answer &lsquo;incredible&rsquo; and "
+            "&lsquo;amazing&rsquo;, then explicitly declares that these same five "
+            "qualities describe Ānanda himself &mdash; turning a request for a definition "
+            "into a direct compliment, grounded in the answer's own content."]),
+        ("A companion pair with AN 5.170", [
+            "This discourse and the next form a matched pair: in each, Ānanda puts a "
+            "question to a companion, who initially deflects it back to Ānanda as the "
+            "more learned party, before the exchange resolves into a substantive answer."]),
+        ("Learning as more than retention", [
+            "Read alongside AN 5.163's fivefold body of the teaching, this discourse "
+            "reframes what &lsquo;learning well&rsquo; actually requires: not simply "
+            "remembering words, but commanding meaning, phrasing, and the internal order "
+            "of a teaching all at once."]),
+    ],
+    terms=[
+        ("khippanisanti",
+         "&ldquo;quick-witted&rdquo; &mdash; this discourse's title concept, the quality "
+         "being defined."),
+        ("atthakusalo",
+         "&ldquo;skilled in the meaning&rdquo; &mdash; the first of five kinds of skill "
+         "Ānanda names."),
+        ("dhammakusalo",
+         "&ldquo;skilled in the teaching&rdquo; &mdash; command of the teaching's actual "
+         "content."),
+        ("niruttikusalo",
+         "&ldquo;skilled in phrasing&rdquo; &mdash; command of how a teaching is "
+         "expressed in words."),
+        ("pubbāparakusalo",
+         "&ldquo;skilled in sequence&rdquo; &mdash; command of a teaching's internal "
+         "order, what precedes and follows what."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's five-part definition of skillful learning, and "
+        "Sāriputta's praise. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's definition"),
+        ("p", "&sect;1", "an5.169:1.1-3.2"),
+        ("h3", "Sāriputta's praise"),
+        ("p", "&sect;2", "an5.169:3.3-3.6"),
+    ],
+    quiz=[
+        {"q": "Who initiates this discourse's exchange?",
+         "opts": [
+             "Venerable Ānanda, asking Sāriputta a question",
+             "The Buddha, addressing both disciples",
+             "Venerable Sāriputta, asking Ānanda a question",
+             "A group of lay followers"],
+         "correct": 0,
+         "expl": "Ānanda asks how to define a quick-witted mendicant."},
+        {"q": "How does Sāriputta initially respond to Ānanda's question?",
+         "opts": [
+             "He deflects it back to Ānanda, citing Ānanda's own renowned learning",
+             "He answers immediately in full",
+             "He refuses to engage with the question at all",
+             "He reports the question to the Buddha first"],
+         "correct": 0,
+         "expl": "A redirection, not a refusal."},
+        {"q": "What five kinds of skill does Ānanda name in his answer?",
+         "opts": [
+             "Meaning, teaching, definition, phrasing, and sequence",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Attha, dhamma, byañjana, nirutti, pubbāpara-kusala."},
+        {"q": "What does 'atthakusalo' mean?",
+         "opts": [
+             "Skilled in the meaning",
+             "Skilled in ordination procedure",
+             "Skilled in almsgiving",
+             "Skilled in debate alone"],
+         "correct": 0,
+         "expl": "The first of the five kinds of skill Ānanda names."},
+        {"q": "What does 'pubbāparakusalo' mean?",
+         "opts": [
+             "Skilled in sequence, the internal order of a teaching",
+             "Skilled in memorizing numbers",
+             "Skilled in formal debate",
+             "Skilled in physical endurance"],
+         "correct": 0,
+         "expl": "Command of what precedes and follows what within a teaching."},
+        {"q": "How does Sāriputta respond to Ānanda's answer?",
+         "opts": [
+             "He calls it incredible and amazing, and declares these five qualities describe Ānanda himself",
+             "He corrects it as mistaken",
+             "He remains silent",
+             "He asks the Buddha to judge it instead"],
+         "correct": 0,
+         "expl": "Praise grounded directly in the answer's own content."},
+        {"q": "What discourse forms a matched pair with this one?",
+         "opts": [
+             "AN 5.170, With Bhaddaji",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth"],
+         "correct": 0,
+         "expl": "Both feature Ānanda putting a question that's initially deflected back to him."},
+        {"q": "What earlier discourse does this one connect to on the theme of genuine learning?",
+         "opts": [
+             "AN 5.163, Discussions",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth",
+             "AN 5.1, Trainee"],
+         "correct": 0,
+         "expl": "The fivefold sīla/samādhi/paññā/vimutti/vimuttiñāṇadassana formula."},
+        {"q": "What does this discourse suggest 'learning well' actually requires?",
+         "opts": [
+             "Commanding meaning, phrasing, and internal order, not simply remembering words",
+             "Only memorization, nothing more",
+             "Formal ordination for at least twenty years",
+             "Physical stamina alone"],
+         "correct": 0,
+         "expl": "Five distinct dimensions of genuine command over a teaching."},
+        {"q": "What tone characterizes this exchange between Ānanda and Sāriputta?",
+         "opts": [
+             "Warm and mutually respectful",
+             "Hostile and adversarial",
+             "Formal and distant",
+             "Dismissive on both sides"],
+         "correct": 0,
+         "expl": "A genuine exchange between the Buddha's two chief disciples."},
+    ],
+    marginalia=[
+        ("Five kinds of skill", [
+            "meaning &middot; teaching",
+            "&middot; definition &middot;",
+            "phrasing &middot; sequence",
+        ]),
+        ("Deflected, then answered", [
+            "Sāriputta redirects to",
+            "Ānanda, who answers",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">khippanisanti</span>",
+            "&mdash; quick-witted",
+        ]),
+        ("Cross-references", [
+            "AN 5.170 &middot; next: a matched exchange, Ānanda with Bhaddaji",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.169/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.168.html">AN 5.168 &middot; Ethics</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.170.html">AN 5.170 &middot; With Bhaddaji</a> &mdash; next: a '
+        "matched exchange, closing this chapter.",
+        '<a href="an-5.163.html">AN 5.163 &middot; Discussions</a> &mdash; a related '
+        "fivefold standard, on fitness for discussing the teaching.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.170 — Bhaddajisutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    170, "Bhaddaji", "With Bhaddaji",
+    vagga=VAGGA_17,
+    meta_title="AN 5.170 — With Bhaddaji | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhaddajisutta, closing the Āghātavagga — Bhaddaji's cosmological answer on the "
+        "best sight, sound, and happiness, reframed by Ānanda as liberation itself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_159),
+        ("Speakers", "Venerable Ānanda and Venerable Bhaddaji, in dialogue"),
+        ("Form", "a cosmological answer, then a radical reframing; closes the chapter"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; doctrinally rich, a "
+                       "striking close"),
+    ],
+    why=(
+        "This chapter's closing discourse asks what's genuinely best &mdash; the best "
+        "sight, sound, happiness, perception, and state of existence &mdash; and gives "
+        "two very different answers: Bhaddaji's careful citation of the received "
+        "cosmological hierarchy, and Ānanda's quiet reframing of &lsquo;best&rsquo; as "
+        "liberation itself, wherever and however it occurs."),
+    guide=[
+        ("A fourth Kosambī narrative", [
+            "Cross-ref AN 5.100, 5.106, and 5.159, all also set at Kosambī's Ghosita's "
+            "Monastery &mdash; this is the fourth discourse in this nipāta sharing that "
+            "setting, and the second in this chapter alone to feature Ānanda in dialogue "
+            "with a named companion."]),
+        ("Bhaddaji's cosmological answer", [
+            "Asked for the best sight, sound, happiness, perception, and state of "
+            "existence, Bhaddaji answers by citing the received hierarchy of heavenly "
+            "realms: seeing Brahmā is the best sight; hearing the streaming-radiance "
+            "gods' spontaneous cry of bliss is the best sound; the universal-beauty gods' "
+            "contentment is the best happiness; rebirth in the dimension of nothingness "
+            "is the best perception; and the dimension of neither perception nor "
+            "non-perception is the best state of existence."]),
+        ("A deflection, and a reframing", [
+            "When Ānanda asks whether this matches common opinion, Bhaddaji deflects the "
+            "question back to Ānanda, as at AN 5.169. Ānanda then gives a genuinely "
+            "different answer: what is best in each category is simply whatever "
+            "occasion &mdash; whatever seeing, hearing, feeling, perceiving, or state of "
+            "existence &mdash; coincides with the ending of defilements, without delay."]),
+        ("Undercutting the cosmological hierarchy", [
+            "Ānanda's answer doesn't reject Bhaddaji's citation as false, but reframes "
+            "the whole question: no heavenly realm, however exalted, is intrinsically "
+            "&lsquo;best&rsquo; &mdash; liberation itself is what makes any sight, sound, "
+            "or state genuinely best, wherever it happens to occur."]),
+        ("Closing the chapter, and the nipāta's midpoint", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. Āghātavaggo "
+            "dutiyo&rsquo;, followed by an uddāna verse naming this chapter's ten "
+            "discourses in brief &mdash; the same summarizing mechanism explained in full "
+            "at AN 5.10."]),
+    ],
+    terms=[
+        ("brahmā abhibhū anabhibhūto",
+         "&ldquo;the Divinity, the vanquisher, the unvanquished&rdquo; &mdash; the being "
+         "Bhaddaji names as the best sight."),
+        ("ābhassarā",
+         "&ldquo;of streaming radiance&rdquo; &mdash; gods whose spontaneous exclamation "
+         "of bliss Bhaddaji names as the best sound."),
+        ("subhakiṇhā",
+         "&ldquo;of universal beauty&rdquo; &mdash; gods whose contentment Bhaddaji names "
+         "as the best happiness."),
+        ("āsavānaṁ khayo",
+         "&ldquo;the ending of the defilements&rdquo; &mdash; the single criterion "
+         "Ānanda substitutes for Bhaddaji's entire cosmological hierarchy."),
+        ("anantarā",
+         "&ldquo;without delay, immediately&rdquo; &mdash; qualifying how closely each "
+         "&lsquo;best&rsquo; thing coincides with liberation in Ānanda's answer."),
+    ],
+    text_intro=(
+        "The discourse in full: Bhaddaji's cosmological answer, and Ānanda's reframing. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bhaddaji's cosmological answer"),
+        ("p", "&sect;1", "an5.170:1.1-2.10"),
+        ("h3", "Ānanda's reformulation: liberation itself"),
+        ("p", "&sect;2", "an5.170:3.1-4.5"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kosambī, at Ghosita's Monastery",
+             "Sāvatthī, at Jeta's Grove",
+             "Rājagaha, at the Bamboo Grove",
+             "Kapilavatthu"],
+         "correct": 0,
+         "expl": "The fourth discourse in this nipāta set at this location."},
+        {"q": "What five things does Ānanda ask Bhaddaji to name the best of?",
+         "opts": [
+             "Sight, sound, happiness, perception, and state of existence",
+             "Wealth, status, health, family, and reputation",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The question opening this discourse."},
+        {"q": "What does Bhaddaji name as the best sight?",
+         "opts": [
+             "Seeing Brahmā, the Divinity",
+             "Seeing the Buddha directly",
+             "Seeing one's own past lives",
+             "Seeing a fully blossomed lotus"],
+         "correct": 0,
+         "expl": "The first item in his cosmological citation."},
+        {"q": "What does Bhaddaji name as the best sound?",
+         "opts": [
+             "The streaming-radiance gods' spontaneous cry of bliss",
+             "The Buddha's own voice teaching Dhamma",
+             "Complete silence",
+             "The sound of a temple bell"],
+         "correct": 0,
+         "expl": "'Oh, what bliss! Oh, what bliss!'"},
+        {"q": "How does Ānanda's answer differ from Bhaddaji's?",
+         "opts": [
+             "It substitutes the ending of defilements for the entire cosmological hierarchy",
+             "It is word-for-word identical to Bhaddaji's",
+             "It denies that anything can be called 'best'",
+             "It focuses only on physical health"],
+         "correct": 0,
+         "expl": "A single criterion replacing Bhaddaji's citation of heavenly realms."},
+        {"q": "What is Ānanda's criterion for what makes something 'best' in each category?",
+         "opts": [
+             "Whatever coincides with the ending of defilements, without delay",
+             "Whatever is most cosmologically exalted",
+             "Whatever a majority of people agree on",
+             "Whatever the Buddha personally experienced"],
+         "correct": 0,
+         "expl": "Āsavānaṁ khayo — liberation itself, wherever it occurs."},
+        {"q": "Does Ānanda's answer reject Bhaddaji's citation as false?",
+         "opts": [
+             "No — it reframes the whole question rather than disputing the facts cited",
+             "Yes, it declares Bhaddaji's answer entirely mistaken",
+             "Yes, it denies the heavenly realms Bhaddaji names even exist",
+             "The text doesn't address this"],
+         "correct": 0,
+         "expl": "Liberation, not cosmological rank, is what makes something genuinely best."},
+        {"q": "What pattern does this discourse share with AN 5.169?",
+         "opts": [
+             "Ānanda's question is initially deflected back to him by his companion",
+             "Both discourses feature identical content",
+             "Both are set at Sāvatthī",
+             "Neither features Ānanda"],
+         "correct": 0,
+         "expl": "A matched pair of exchanges closing this chapter."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Āghātavaggo dutiyo.'",
+             "'Dasamaṁ. Saddhammavaggo paṭhamo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Upāsakavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The second chapter on resentment.'"},
+        {"q": "What chapter comes next, opening with a lay follower?",
+         "opts": [
+             "Upāsakavagga",
+             "Araññavagga",
+             "Brāhmaṇavagga",
+             "Kimilavagga"],
+         "correct": 0,
+         "expl": "AN 5.171 begins this collection's eighteenth chapter."},
+    ],
+    marginalia=[
+        ("Two answers to 'what is best'", [
+            "cosmological rank,",
+            "versus liberation",
+            "itself",
+        ]),
+        ("Fourth Kosambī narrative", [
+            "after AN 5.100, 5.106,",
+            "and 5.159",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āsavānaṁ khayo</span>",
+            "&mdash; the ending of",
+            "the defilements",
+        ]),
+        ("Cross-references", [
+            "AN 5.169 &middot; the same deflect-then-answer pattern, with Sāriputta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.170/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.169.html">AN 5.169 &middot; Quick-witted</a> &mdash; the previous '
+        "discourse, this same deflect-then-answer pattern with Sāriputta.",
+        '<a href="an-5.159.html">AN 5.159 &middot; With Udāyī</a> &mdash; another '
+        "discourse set at this same Kosambī monastery.",
+        '<a href="an-5.161.html">AN 5.161 &middot; Getting Rid of Resentment (1st)</a> '
+        "&mdash; this chapter's opening discourse.",
+    ],
+)
