@@ -22585,3 +22585,700 @@ page(
         "chapter&rsquo;s opening, for contrast with the chapter now closing.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 12 — Sāmaññavagga (AN 6.117–139), continuing the Second Fifty
+# --------------------------------------------------------------------------- #
+VAGGA_12 = "<em>Sāmaññavagga</em> &mdash; the twelfth chapter of the Sixes, continuing the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.117 — Kāyānupassīsutta
+# --------------------------------------------------------------------------- #
+page(
+    117, "Kāyānupassī", "Observing the Body",
+    vagga=VAGGA_12,
+    meta_title="AN 6.117 — Observing the Body | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kāyānupassīsutta, "
+        "applying a familiar six-item list — already met as a trainee's causes of decline — to "
+        "meditation on the body specifically. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched six-item lists, cause and its direct reversal, opening this "
+                 "chapter with content already met earlier in this collection"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of sense-restraint and moderate eating with "
+                              "successful meditation on the body recurs widely across the "
+                              "Chinese Āgamas' satipaṭṭhāna material; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the same list already met "
+                       "at AN 6.31, worth checking for identity rather than assuming fresh "
+                       "content"),
+    ],
+    why=(
+        "Sāmaññavagga, &lsquo;The Ascetic Life,&rsquo; opens by naming a blocking list already "
+        "met in full at AN 6.31 in the earlier First Fifty &mdash; relishing work, talk, "
+        "sleep, and company, not guarding the sense doors, and eating too much &mdash; now "
+        "applied specifically to whether a mendicant can meditate observing an aspect of the "
+        "body."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up relishing work, talk, sleep, and company, not guarding the "
+            "sense doors, and eating too much, meditation observing an aspect of the body is "
+            "impossible; giving up all six makes it possible."]),
+        ("Identical content to AN 6.31, a different target", [
+            "Checked term by term against AN 6.31's list of a trainee's causes of decline, "
+            "this discourse's six items are word for word identical. Only the target changes: "
+            "AN 6.31 spoke of decline generally, while this discourse names one specific "
+            "consequence, the ability to practice kāyānupassanā, observation of the body, the "
+            "first of the four establishments of mindfulness."]),
+        ("The first of a foundation-by-foundation series", [
+            "This discourse treats only the body specifically; AN 6.118 immediately following "
+            "takes up the identical blocking list and applies it, via compression, to all four "
+            "foundations of mindfulness together &mdash; body, feelings, mind, and "
+            "principles."]),
+        ("Why this list recurs at the threshold of meditation", [
+            "That this exact six-item list &mdash; already met blocking a trainee's general "
+            "progress at AN 6.31, and here blocking a specific meditation practice &mdash; "
+            "suggests these six habits are treated in this literature as prerequisites cutting "
+            "across multiple specific attainments, not merely one narrow obstacle."]),
+    ],
+    terms=[
+        ("kāyānupassanā",
+         "&ldquo;observation of the body,&rdquo; meditation on the body &mdash; the first of "
+         "the four establishments of mindfulness, this discourse's specific target."),
+        ("kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā",
+         "&ldquo;relishing work, talk, sleep, and company&rdquo; &mdash; the first four "
+         "blocking items, identical to AN 6.31's list of a trainee's causes of decline."),
+        ("indriyesu aguttadvāratā, bhojane amattaññutā",
+         "&ldquo;not guarding the sense doors, eating without moderation&rdquo; &mdash; the "
+         "remaining two blocking items, likewise identical to AN 6.31."),
+        ("satipaṭṭhāna",
+         "&ldquo;establishment of mindfulness&rdquo; &mdash; the broader fourfold framework "
+         "this discourse's target, kāyānupassanā, belongs to."),
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; the population AN 6.31 named this identical list for, "
+         "already defined earlier in this series."),
+    ],
+    text_intro=(
+        "The discourse in full: six things blocking meditation on the body, and their "
+        "reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six things that block meditation on the body"),
+        ("p", "&sect;1", "an6.117:1.1-1.4"),
+        ("h3", "Six things that enable it"),
+        ("p", "&sect;2", "an6.117:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's blocking list compare to AN 6.31's, checked term by "
+              "term?",
+         "opts": [
+             "Entirely different content",
+             "Word for word identical — relishing work, talk, sleep, and company, not "
+             "guarding the sense doors, and eating too much",
+             "Only three of six items overlap",
+             "No relationship between the two discourses"],
+         "correct": 1,
+         "expl": "The same six items already met at AN 6.31 in the earlier First Fifty."},
+        {"q": "What specific consequence does this discourse name, unlike AN 6.31's more "
+              "general framing?",
+         "opts": [
+             "Rebirth destination",
+             "The ability to meditate observing an aspect of the body, the first of the four "
+             "establishments of mindfulness",
+             "Realizing perfection specifically",
+             "Nothing specific — the two discourses are framed identically"],
+         "correct": 1,
+         "expl": "A narrower, specific target applied to content that was general at AN 6.31."},
+        {"q": "What does the guide say this recurrence suggests about the six-item list?",
+         "opts": [
+             "That it is a coincidental repetition with no significance",
+             "That these six habits are treated as prerequisites cutting across multiple "
+             "specific attainments, not merely one narrow obstacle",
+             "That AN 6.31 and this discourse contradict each other",
+             "That the list only applies to advanced meditators"],
+         "correct": 1,
+         "expl": "A foundational list recurring at more than one point in this collection's "
+                 "structure."},
+        {"q": "What does this discourse open a series toward, according to the guide?",
+         "opts": [
+             "Nothing further — an isolated, standalone discourse",
+             "AN 6.118, which applies the identical list to all four foundations of "
+             "mindfulness together via compression",
+             "A return to AN 6.31's exact wording with no further development",
+             "A shift to an entirely unrelated topic"],
+         "correct": 1,
+         "expl": "The first of a foundation-by-foundation treatment, expanded in the next "
+                 "discourse."},
+        {"q": "Is a setting stated for AN 6.117?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>kāyānupassanā</em> mean?",
+         "opts": ["Observation of feelings", "Observation of the body", "Observation of the mind", "Observation of principles"],
+         "correct": 1,
+         "expl": "The first of the four establishments of mindfulness, this discourse's stated "
+                 "target."},
+    ],
+    marginalia=[
+        ("Identical to AN 6.31", [
+            "relishing work, talk,",
+            "sleep, company &middot; unguarded",
+            "senses &middot; overeating",
+        ]),
+        ("A new, specific target", [
+            "not decline generally —",
+            "meditation on the body,",
+            "the first foundation of mindfulness",
+        ]),
+        ("Opening a series", [
+            "AN 6.118 extends",
+            "this list to all four",
+            "foundations, compressed",
+        ]),
+        ("Cross-references", [
+            "AN 6.31 &middot; earlier, source of this discourse's identical six-item list",
+            "AN 6.118 &middot; next, the same list across all four foundations",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.117/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.31.html">AN 6.31 &middot; A Trainee</a> &mdash; earlier, source of this '
+        "discourse's identical six-item list.",
+        '<a href="an-6.118.html">AN 6.118 &middot; Observing Principles, Etc.</a> &mdash; '
+        "next, the same list applied to all four foundations of mindfulness.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.118 — Dhammānupassīsutta
+# --------------------------------------------------------------------------- #
+page(
+    118, "Dhammānupassī", "Observing Principles, Etc.",
+    vagga=VAGGA_12,
+    meta_title="AN 6.118 — Observing Principles, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dhammānupassīsutta, "
+        "extending AN 6.117's six-item list across all twelve variations of the four "
+        "foundations of mindfulness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical six-item blocking list, compressed via Pāli ellipsis across "
+                 "all twelve internal/external/both variations of the four foundations of "
+                 "mindfulness"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The internal/external/both threefold treatment of each "
+                              "foundation of mindfulness recurs throughout the Chinese Āgamas' "
+                              "satipaṭṭhāna material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compact on the page but "
+                       "compressing twelve full variations, worth reading slowly against the "
+                       "underlying pattern"),
+    ],
+    why=(
+        "AN 6.118 takes AN 6.117's exact blocking list and extends it, via the Pāli ellipsis "
+        "&ldquo;…&rdquo;, across all twelve variations of the four foundations of mindfulness "
+        "&mdash; body, feelings, mind, and principles, each considered internally, externally, "
+        "and both together &mdash; naming only the twelfth and final variation, "
+        "&ldquo;principles internally and externally,&rdquo; in full."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up the same six things already named at AN 6.117, none of the "
+            "twelve variations of the four foundations of mindfulness &mdash; body, feelings, "
+            "mind, and principles, each observed internally, externally, and both &mdash; can "
+            "be practiced."]),
+        ("Twelve variations, compressed to one sentence", [
+            "The four foundations (body, feelings, mind, principles) times three modes "
+            "(internally, externally, internally and externally) yield twelve distinct "
+            "objects of meditation; the source spells out only the first, &ldquo;body "
+            "internally,&rdquo; and the last, &ldquo;principles internally and "
+            "externally,&rdquo; eliding the ten variations in between with &ldquo;…&rdquo;."]),
+        ("The same blocking list, unchanged across every variation", [
+            "Whatever the specific object of meditation &mdash; body, feelings, mind, or "
+            "principles, in any of the three modes &mdash; the same six blocking items already "
+            "spelled out at AN 6.117 apply without modification, suggesting these six habits "
+            "are treated as a single threshold condition for the entire satipaṭṭhāna "
+            "framework, not a separate requirement for each of its twelve variations."]),
+        ("Internal, external, and both together", [
+            "The threefold internal/external/both structure applied to each foundation "
+            "&mdash; observing one's own body, then another's, then both &mdash; is a "
+            "recurring analytical device in this literature's treatment of the four "
+            "foundations, here assumed rather than explained, on the expectation that a "
+            "reader already knows the full satipaṭṭhāna formula from elsewhere."]),
+    ],
+    terms=[
+        ("kāya, vedanā, citta, dhammā",
+         "&ldquo;body, feelings, mind, principles&rdquo; &mdash; the four foundations of "
+         "mindfulness, the objects this discourse's twelve variations apply to."),
+        ("ajjhattaṁ, bahiddhā, ajjhattabahiddhā",
+         "&ldquo;internally, externally, internally and externally&rdquo; &mdash; the three "
+         "modes multiplying the four foundations into twelve total variations."),
+        ("…pe…",
+         "the Pāli ellipsis mark, standing in here for ten of the twelve variations, with only "
+         "the first and last spelled out."),
+        ("dhammānupassanā",
+         "&ldquo;observation of principles&rdquo; &mdash; the fourth foundation, and the "
+         "discourse's own title term, naming the final and most abstract of the four "
+         "foundations."),
+        ("kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu "
+         "aguttadvāratā, bhojane amattaññutā",
+         "the same six blocking items as AN 6.117, unchanged across every one of this "
+         "discourse's twelve variations."),
+    ],
+    text_intro=(
+        "The discourse in full: six things blocking all twelve variations of the four "
+        "foundations of mindfulness. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Twelve variations, blocked by the same six things"),
+        ("p", "&sect;1", "an6.118:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "How many total variations of the four foundations of mindfulness does this "
+              "discourse's compressed list cover?",
+         "opts": [
+             "Four",
+             "Twelve — four foundations times three modes (internally, externally, both)",
+             "Six",
+             "Twenty-seven"],
+         "correct": 1,
+         "expl": "Body, feelings, mind, and principles, each in three modes."},
+        {"q": "How does the source compress these twelve variations onto the page?",
+         "opts": [
+             "Each of the twelve is spelled out individually in full",
+             "Only the first ('body internally') and last ('principles internally and "
+             "externally') are spelled out, with '…' eliding the ten in between",
+             "None of the twelve variations are named at all",
+             "Only the four foundations are named, without the threefold mode"],
+         "correct": 1,
+         "expl": "A compression technique this collection has used before, applied here across "
+                 "a longer sequence."},
+        {"q": "What does the guide say about the six blocking items across all twelve "
+              "variations?",
+         "opts": [
+             "A different six items block each variation",
+             "The same six items, unchanged, apply to every variation — a single threshold "
+             "condition for the entire satipaṭṭhāna framework rather than twelve separate "
+             "requirements",
+             "No blocking items are named for most variations",
+             "Only the first variation has a stated blocking list"],
+         "correct": 1,
+         "expl": "One shared precondition underlying the entire fourfold, threefold-multiplied "
+                 "structure."},
+        {"q": "What are the three modes multiplying each foundation into three variations?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Internally, externally, and internally and externally",
+             "Past, present, and future",
+             "Beginning, middle, and end"],
+         "correct": 1,
+         "expl": "A recurring analytical device applied to each of the four foundations."},
+        {"q": "Is a setting stated for AN 6.118?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.117 immediately before it."},
+        {"q": "What does <em>dhammānupassanā</em> mean, and what does this discourse's title "
+              "reference?",
+         "opts": [
+             "'Observation of the body' — the first foundation",
+             "'Observation of principles' — the fourth and final foundation, the last "
+             "variation this discourse spells out in full",
+             "'Observation of feelings' — the second foundation",
+             "A term unrelated to the four foundations"],
+         "correct": 1,
+         "expl": "The final, most abstract foundation, and the discourse's own title term."},
+    ],
+    marginalia=[
+        ("Twelve variations", [
+            "body, feelings, mind,",
+            "principles &times; internal,",
+            "external, both — 4 &times; 3 = 12",
+        ]),
+        ("Only first and last spelled out", [
+            "'body internally' ...",
+            "'principles internally",
+            "and externally' — ten elided",
+        ]),
+        ("One threshold, not twelve", [
+            "the same six items",
+            "block every variation —",
+            "a single shared precondition",
+        ]),
+        ("Cross-references", [
+            "AN 6.117 &middot; previous, the same six items applied to body alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.117.html">AN 6.117 &middot; Observing the Body</a> &mdash; previous, '
+        "the same six items applied to body alone.",
+        '<a href="an-6.119.html">AN 6.119 &middot; About Tapussa</a> &mdash; next, a shift to '
+        "a named lay follower's own six qualities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.119 — Tapussasutta
+# --------------------------------------------------------------------------- #
+page(
+    119, "Tapussa", "About Tapussa",
+    vagga=VAGGA_12,
+    meta_title="AN 6.119 — About Tapussa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tapussasutta, naming "
+        "six qualities of confidence that let the householder Tapussa see freedom from death "
+        "while still a layperson. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, describing a named lay disciple's own attainment"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Tapussa is named in the Vinaya and elsewhere as one of the "
+                              "first two lay disciples to take refuge, offering the newly "
+                              "awakened Buddha his first meal; this reading guide does not "
+                              "assert a specific matching sutra number in the Chinese Āgamas"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, naming a historical "
+                       "figure and opening a series of named lay disciples continued through "
+                       "AN 6.120&ndash;139"),
+    ],
+    why=(
+        "AN 6.119 shifts this chapter's register from abstract lists to a named individual: "
+        "the householder Tapussa, traditionally remembered as one of the first two lay "
+        "disciples to take refuge in the Buddha, said here to be &ldquo;certain about the "
+        "Realized One&rdquo; and to have &ldquo;seen freedom from death&rdquo; through six "
+        "qualities of experiential confidence and attainment, entirely as a layperson."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Through experiential confidence in the Buddha, the teaching, and the Saṅgha, and "
+            "through noble ethics, knowledge, and freedom, the householder Tapussa is certain "
+            "about the Realized One and lives having realized freedom from death."]),
+        ("Four familiar factors, plus two more", [
+            "The first four items &mdash; confidence in the Buddha, the teaching, the Saṅgha, "
+            "and noble ethics &mdash; are the standard four factors of stream-entry "
+            "(sotāpattiyaṅga) found throughout this literature; this discourse adds two "
+            "further items, noble knowledge and noble freedom, extending beyond the usual "
+            "four-item formula."]),
+        ("A lay attainment, stated without qualification", [
+            "The discourse makes no distinction between what a layperson versus a mendicant "
+            "can attain through these six qualities &mdash; Tapussa is said to have &ldquo;seen "
+            "freedom from death and lived having realized freedom from death,&rdquo; language "
+            "elsewhere applied to advanced attainment, applied here directly to a householder "
+            "without any qualifying caveat about lay status."]),
+        ("Opening a naming convention this chapter continues at length", [
+            "This discourse is the first of a set naming individual lay disciples by name as "
+            "possessing this identical six-item attainment; AN 6.120&ndash;139 continues with "
+            "nineteen further named householders and lay followers, compressed into a single "
+            "page via the same peyyāla convention already met throughout this collection."]),
+    ],
+    terms=[
+        ("Tapussa",
+         "the householder this discourse names, traditionally remembered (with Bhallika, "
+         "named next at AN 6.120) as one of the first two lay disciples to take refuge, "
+         "offering the newly awakened Buddha his first meal."),
+        ("aveccappasāda",
+         "&ldquo;experiential confidence,&rdquo; unwavering confidence &mdash; the quality "
+         "named toward the Buddha, the teaching, and the Saṅgha, the first three of six "
+         "items."),
+        ("ariya sīla, ariya ñāṇa, ariya vimutti",
+         "&ldquo;noble ethics, noble knowledge, noble freedom&rdquo; &mdash; the remaining "
+         "three items, extending the standard four-factor stream-entry formula by two."),
+        ("amataddasa",
+         "&ldquo;one who sees freedom from death,&rdquo; a seer of the deathless &mdash; the "
+         "discourse's description of Tapussa's attainment."),
+        ("sotāpattiyaṅga",
+         "&ldquo;factor of stream-entry&rdquo; &mdash; the standard four-item set (confidence "
+         "in the Triple Gem plus noble ethics) this discourse's first four items match, before "
+         "adding two further items."),
+    ],
+    text_intro=(
+        "The discourse in full: the householder Tapussa's six qualities of confidence and "
+        "attainment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Tapussa's six qualities"),
+        ("p", "&sect;1", "an6.119:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Who is Tapussa, according to the guide?",
+         "opts": [
+             "A senior monastic disciple",
+             "A householder traditionally remembered as one of the first two lay disciples to "
+             "take refuge, offering the newly awakened Buddha his first meal",
+             "A king mentioned only in this discourse",
+             "A deity, not a human figure"],
+         "correct": 1,
+         "expl": "A historically significant lay figure, not a mendicant."},
+        {"q": "What four of this discourse's six items match the standard factors of "
+              "stream-entry?",
+         "opts": [
+             "The five hindrances",
+             "Confidence in the Buddha, the teaching, the Saṅgha, and noble ethics",
+             "The three poisons of AN 6.107",
+             "The four foundations of mindfulness"],
+         "correct": 1,
+         "expl": "The standard sotāpattiyaṅga formula, extended here by two further items."},
+        {"q": "What two items does this discourse add beyond the standard four-factor "
+              "stream-entry formula?",
+         "opts": [
+             "Wisdom and energy",
+             "Noble knowledge and noble freedom",
+             "Faith and generosity",
+             "Nothing is added — only four items are named"],
+         "correct": 1,
+         "expl": "A six-item extension of the more familiar four-item formula."},
+        {"q": "How does the discourse frame Tapussa's attainment as a layperson, according to "
+              "the guide?",
+         "opts": [
+             "With an explicit caveat that lay attainment is inherently limited",
+             "Without qualification — language elsewhere applied to advanced attainment is "
+             "applied directly to this householder with no caveat about lay status",
+             "As entirely different in kind from any mendicant's attainment",
+             "The discourse does not describe any specific attainment"],
+         "correct": 1,
+         "expl": "A lay attainment stated in the same terms used for advanced realization "
+                 "elsewhere."},
+        {"q": "What does this discourse open, according to the guide?",
+         "opts": [
+             "An isolated, standalone teaching with no continuation",
+             "A naming convention continued at AN 6.120–139, listing nineteen further named "
+             "lay disciples with the identical attainment",
+             "A shift back to abstract lists with no named individuals",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "The first of twenty named lay disciples across this chapter's closing "
+                 "discourses."},
+        {"q": "Is a setting stated for AN 6.119?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, despite naming a specific historical individual."},
+    ],
+    marginalia=[
+        ("Six qualities", [
+            "confidence in Buddha,",
+            "teaching, Saṅgha &middot; noble",
+            "ethics, knowledge, freedom",
+        ]),
+        ("A historical figure", [
+            "Tapussa — one of",
+            "the first two lay disciples",
+            "to take refuge, tradition holds",
+        ]),
+        ("Lay attainment, unqualified", [
+            "'seen freedom from death' —",
+            "language used elsewhere",
+            "for advanced realization",
+        ]),
+        ("Cross-references", [
+            "AN 6.120–139 &middot; next, nineteen further named lay disciples, same attainment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.118.html">AN 6.118 &middot; Observing Principles, Etc.</a> &mdash; '
+        "previous, closing this chapter's abstract-list discourses.",
+        '<a href="an-6.120-139.html">AN 6.120&ndash;139 &middot; About Bhallika, and So '
+        "On</a> &mdash; next, nineteen further named lay disciples with this identical "
+        "attainment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.120–139 — Bhallikādisutta (merged page, closing this chapter)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-6.120-139",
+    "index_pali": "Bhallikādi",
+    "nav_title": "About Bhallika, and So On",
+    "source": "an6/an6.120-139",
+    "crumb": "AN 6.120&ndash;139",
+    "meta_title": "AN 6.120–139 — About Bhallika, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for AN 6.120–139, twenty "
+        "individually numbered discourses naming nineteen further lay disciples alongside "
+        "Tapussa, each with the identical six qualities. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 6.120&ndash;139",
+    "title": "About Bhallika, and So On",
+    "subtitle": "<em>Bhallikādisutta</em> &mdash; closing the twelfth chapter of the Sixes, "
+                "compressed via peyyāla",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One compressed formula naming twenty lay disciples in sequence, each with "
+                 "the identical six-item attainment already spelled out in full at AN 6.119, "
+                 "representing twenty individually numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "Several of these lay disciples — Anāthapiṇḍika, Citta of "
+                              "Macchikāsaṇḍa, Jīvaka Komārabhacca — are prominent figures "
+                              "recurring across the Chinese Āgamas' own lay-disciple material; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number for this compressed block as a whole"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a simple roll call in "
+                       "content, but naming twenty historical figures worth reading slowly "
+                       "rather than skimming past"),
+    ],
+    "why": (
+        "AN 6.119 named Tapussa's six qualities of confidence and attainment in full; this "
+        "block represents what the source text gives next: the identical six-item attainment "
+        "restated for nineteen further named householders and lay followers &mdash; Bhallika, "
+        "Anāthapiṇḍika, Citta of Macchikāsaṇḍa, and sixteen more, closing with Sāragga "
+        "&mdash; twenty discourses in total (counting Tapussa's own, already given separately) "
+        "compressed by the source into a single continuous roll call."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same six qualities named in full for Tapussa at AN 6.119 &mdash; "
+            "experiential confidence in the Buddha, the teaching, and the Saṅgha, and noble "
+            "ethics, knowledge, and freedom &mdash; are restated for nineteen further named "
+            "lay disciples: Bhallika, Sudatta Anāthapiṇḍika, Citta of Macchikāsaṇḍa, Hatthaka "
+            "of Āḷavī, Mahānāma the Sakyan, Ugga of Vesālī, Uggata, Sūrambaṭṭha, Jīvaka "
+            "Komārabhacca, Nakula's father, Tavakaṇṇika, Pūraṇa, Isidatta, Sandhāna, Vijaya, "
+            "Vijayamāhita, Meṇḍaka, and the lay followers Vāseṭṭha, Ariṭṭha, and Sāragga."]),
+        ("A roll call of recognizable figures, not anonymous names", [
+            "Several names on this list are prominent elsewhere in the canon: Anāthapiṇḍika, "
+            "the wealthy donor of Jeta's Grove where much of this collection's own action "
+            "takes place; Citta of Macchikāsaṇḍa, celebrated elsewhere as a model lay teacher "
+            "in his own right; Jīvaka Komārabhacca, the physician associated with the "
+            "Buddha's own medical care; and Nakula's father, whose page (an-6.16.html) was "
+            "published earlier in this series' original eighteen-page selection, before this "
+            "systematic build-out began."]),
+        ("Twenty discourses, one continuous frame", [
+            "Each name in this list technically opens its own numbered discourse, AN 6.120 "
+            "through AN 6.139, sharing the identical six-item content and closing formula, "
+            "differing only in whose attainment is being described. The bilara-data source "
+            "compresses all twenty into one continuous line using the peyyāla convention "
+            "already met throughout this collection, naming each figure once and eliding the "
+            "repeated formula between them with &ldquo;…&rdquo;."]),
+        ("A closing colophon marking the chapter's end", [
+            "The source text closes this block with its own double marker: "
+            "&ldquo;Tevīsatimaṁ,&rdquo; &ldquo;the twenty-third,&rdquo; counting this "
+            "chapter's full run of individually written and compressed discourses together, "
+            "followed immediately by &ldquo;Sāmaññavaggo dvādasamo,&rdquo; &ldquo;Sāmaññavagga, "
+            "the twelfth&rdquo; &mdash; explicitly marking the close of this, the twelfth "
+            "chapter of the Sixes, with the Second Fifty's largest and final compressed block, "
+            "Rāgapeyyāla, still to come."]),
+    ],
+    "terms": [
+        ("Bhallika, Sudatta Anāthapiṇḍika",
+         "the first two names in this list; Bhallika is traditionally paired with Tapussa as "
+         "one of the first two lay disciples, while Anāthapiṇḍika is the wealthy donor of "
+         "Jeta's Grove, the setting named or implied throughout much of this collection."),
+        ("Citta gahapati, Jīvaka Komārabhacca",
+         "Citta of Macchikāsaṇḍa, celebrated elsewhere in the canon as a model lay teacher in "
+         "his own right, and Jīvaka Komārabhacca, the physician associated with the Buddha's "
+         "own medical care."),
+        ("Nakulapitā",
+         "&ldquo;Nakula's father,&rdquo; whose own discourse (AN 6.16) was published earlier "
+         "in this series' original eighteen-page selection, before this systematic build-out "
+         "of the Sixes began."),
+        ("aveccappasāda, ariya sīla, ariya ñāṇa, ariya vimutti",
+         "the same six qualities named in full at AN 6.119, restated identically for each of "
+         "the nineteen further names in this block."),
+        ("Tevīsatimaṁ; Sāmaññavaggo dvādasamo",
+         "&ldquo;the twenty-third [discourse of this chapter]&rdquo;; &ldquo;Sāmaññavagga, the "
+         "twelfth [chapter]&rdquo; &mdash; the source colophon's double marker, closing both "
+         "this compressed block and the chapter itself."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: nineteen further named lay "
+        "disciples, each with Tapussa's identical six qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nineteen further names, one shared attainment"),
+        ("p", "&sect;1", "an6.120-139:1.1-1.23"),
+    ],
+    "quiz": [
+        {"q": "What content does this block represent, and where was it first given in full?",
+         "opts": [
+             "Entirely new content, introduced here for the first time",
+             "The identical six qualities named in full for Tapussa at AN 6.119, restated for "
+             "nineteen further named lay disciples",
+             "A different six-item list for each named individual",
+             "A summary of every discourse in this chapter"],
+         "correct": 1,
+         "expl": "One shared attainment, restated by name nineteen further times."},
+        {"q": "Which of the following named figures is celebrated elsewhere in the canon as a "
+              "model lay teacher in his own right?",
+         "opts": [
+             "Jīvaka Komārabhacca", "Citta of Macchikāsaṇḍa", "Mahānāma the Sakyan", "Sāragga"],
+         "correct": 1,
+         "expl": "A recognizable figure, not an anonymous name in a bare list."},
+        {"q": "Which named figure was already published as its own page earlier in this "
+              "series, before this systematic build-out began?",
+         "opts": [
+             "Anāthapiṇḍika", "Nakula's father (Nakulapitā), at AN 6.16", "Jīvaka Komārabhacca", "Bhallika"],
+         "correct": 1,
+         "expl": "A page from this series' original eighteen-page selection, predating this "
+                 "chapter-by-chapter build-out."},
+        {"q": "How many total discourses does this compressed block represent, and how are "
+              "they framed in the source?",
+         "opts": [
+             "One single discourse only",
+             "Twenty discourses, AN 6.120 through AN 6.139, compressed into one continuous "
+             "line via the peyyāla convention",
+             "Nineteen discourses, with no compression at all",
+             "Two hundred discourses"],
+         "correct": 1,
+         "expl": "Each name technically opens its own numbered discourse, sharing identical "
+                 "content."},
+        {"q": "What does the source colophon 'Sāmaññavaggo dvādasamo' mark?",
+         "opts": [
+             "The opening of a new chapter",
+             "The close of Sāmaññavagga, the twelfth chapter of the Sixes",
+             "The midpoint of the Second Fifty",
+             "The end of the entire Sixes collection"],
+         "correct": 1,
+         "expl": "An explicit chapter-closing marker, with Rāgapeyyāla still to come."},
+        {"q": "Who is Anāthapiṇḍika, named second in this list?",
+         "opts": [
+             "A physician associated with the Buddha's medical care",
+             "The wealthy donor of Jeta's Grove, the setting named or implied throughout much "
+             "of this collection",
+             "A king mentioned only in this discourse",
+             "A deity, not a human figure"],
+         "correct": 1,
+         "expl": "One of the most prominent lay figures in this entire literature."},
+        {"q": "Is a setting stated for this compressed block?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.119 immediately before it."},
+    ],
+    "marginalia": [
+        ("Twenty named disciples", [
+            "Tapussa (6.119) plus",
+            "nineteen more, ending",
+            "with Sāragga — one attainment",
+        ]),
+        ("Recognizable figures", [
+            "Anāthapiṇḍika &middot;",
+            "Citta of Macchikāsaṇḍa &middot;",
+            "Jīvaka Komārabhacca",
+        ]),
+        ("A double closing marker", [
+            "'the twenty-third' —",
+            "and 'Sāmaññavagga,",
+            "the twelfth' — chapter closed",
+        ]),
+        ("Cross-references", [
+            "AN 6.119 &middot; previous, Tapussa's own attainment given in full",
+            "AN 6.16 &middot; earlier page, Nakula's father's own discourse",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an6.120-139/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.119.html">AN 6.119 &middot; About Tapussa</a> &mdash; previous, the '
+        "attainment this block restates nineteen further times.",
+        '<a href="an-6.16.html">AN 6.16 &middot; Nakula&rsquo;s Father</a> &mdash; an earlier '
+        "page, this same figure&rsquo;s own discourse.",
+    ],
+})
