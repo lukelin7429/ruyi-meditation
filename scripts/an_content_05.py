@@ -30729,3 +30729,1927 @@ page(
         "chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.151 — Paṭhamasammattaniyāmasutta
+# --------------------------------------------------------------------------- #
+VAGGA_16 = "<em>Saddhammavagga</em> &mdash; the sixteenth chapter of the Fives"
+
+page(
+    151, "Paṭhamasammattaniyāma", "The Sure Path (1st)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.151 — The Sure Path (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasammattaniyāmasutta, opening the Saddhammavagga — how a listener's own "
+        "internal state can nullify even genuinely good teaching. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, on what determines whether hearing the "
+                 "teaching actually takes hold"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a new "
+                       "chapter's central concern"),
+    ],
+    why=(
+        "This chapter opens with a striking claim: even genuinely good teaching, "
+        "&lsquo;the true teaching&rsquo; itself, can fail to take hold if the listener's own "
+        "internal state prevents it &mdash; &lsquo;stepping into the sure path&rsquo; toward "
+        "skillful qualities depends as much on how one listens as on what is being taught."),
+    guide=[
+        ("The sure path, and what blocks it", [
+            "<em>Niyāma</em> names a fixed, sure course &mdash; a point past which progress "
+            "toward skillful qualities becomes settled. This discourse names five qualities "
+            "that prevent someone from stepping onto that path, even while genuinely "
+            "listening to true teaching."]),
+        ("Three kinds of disparagement", [
+            "Disparaging the talk itself, disparaging the speaker, and &mdash; notably "
+            "&mdash; disparaging oneself. Self-disparagement is included alongside contempt "
+            "for the teacher or teaching, suggesting low self-regard disqualifies a listener "
+            "just as thoroughly as arrogance does."]),
+        ("Distraction and irrational attention", [
+            "Listening with a scattered, disunified mind, and applying the mind "
+            "irrationally (<em>ayoniso manasikāra</em>) round out the list &mdash; naming "
+            "basic attentional and interpretive failures alongside the three forms of "
+            "contempt."]),
+        ("The mirrored positive", [
+            "Not disparaging the talk, speaker, or oneself; listening with an unscattered, "
+            "unified mind; and applying the mind rationally &mdash; the clean negation, "
+            "opening the path this discourse names."]),
+        ("What comes next", [
+            "AN 5.152 restates the same opening three-item pattern, swapping the closing two "
+            "items for intellectual capacity and a specific epistemic failure: believing one "
+            "knows what one doesn't."]),
+    ],
+    terms=[
+        ("niyāma",
+         "&ldquo;the sure path&rdquo; &mdash; a fixed course toward skillful qualities, this "
+         "discourse's central concept."),
+        ("kathaṁ paribhoti / kathikaṁ paribhoti / attānaṁ paribhoti",
+         "disparaging the talk, the speaker, or oneself &mdash; the three forms of contempt "
+         "named."),
+        ("vikkhittacitta",
+         "&ldquo;scattered, disunified mind&rdquo; &mdash; the fourth disqualifying quality."),
+        ("ayoniso manasikāra",
+         "&ldquo;irrational attention&rdquo; &mdash; applying the mind without proper "
+         "reflection."),
+        ("saddhamma",
+         "&ldquo;the true teaching&rdquo; &mdash; this chapter's title concept, at stake "
+         "throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities that block the sure path, and their "
+        "opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unable to step into the sure path"),
+        ("p", "&sect;1", "an5.151:1.1-1.4"),
+        ("h3", "Able to step into the sure path"),
+        ("p", "&sect;2", "an5.151:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'niyāma' name?",
+         "opts": [
+             "A fixed, sure course toward skillful qualities",
+             "A type of monastic robe",
+             "A specific meditation posture",
+             "A monastery building"],
+         "correct": 0,
+         "expl": "This discourse's central concept."},
+        {"q": "What three kinds of disparagement does this discourse name?",
+         "opts": [
+             "The talk, the speaker, and oneself",
+             "Only the speaker",
+             "Only oneself",
+             "The talk and a third party"],
+         "correct": 0,
+         "expl": "Self-disparagement included alongside contempt for talk and speaker."},
+        {"q": "Why is self-disparagement's inclusion notable?",
+         "opts": [
+             "It isn't actually included",
+             "It suggests low self-regard disqualifies a listener as much as arrogance does",
+             "It contradicts the rest of the list",
+             "It applies only to senior mendicants"],
+         "correct": 1,
+         "expl": "A subtle psychological observation."},
+        {"q": "What does 'ayoniso manasikāra' mean?",
+         "opts": [
+             "Irrational, unreflective attention",
+             "Careful, rational attention",
+             "Complete inattention",
+             "Excessive concentration"],
+         "correct": 0,
+         "expl": "One of the five disqualifying qualities."},
+        {"q": "What does 'vikkhittacitta' describe?",
+         "opts": [
+             "A scattered, disunified mind",
+             "A focused, unified mind",
+             "A joyful mind",
+             "A fearful mind"],
+         "correct": 0,
+         "expl": "The fourth disqualifying quality."},
+        {"q": "According to this discourse, what determines whether teaching takes hold?",
+         "opts": [
+             "Only the quality of the teaching itself",
+             "The listener's own internal state, alongside the teaching",
+             "Only the speaker's reputation",
+             "Only external circumstances"],
+         "correct": 1,
+         "expl": "Even genuinely good teaching can fail to take hold."},
+        {"q": "How is the positive list constructed relative to the negative one?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Tikaṇḍakīvagga",
+             "Saddhammavagga",
+             "Rājavagga",
+             "Gilānavagga"],
+         "correct": 1,
+         "expl": "The sixteenth chapter, 'The True Teaching'."},
+        {"q": "What does 'saddhamma' mean?",
+         "opts": [
+             "The true teaching",
+             "A monastic rule",
+             "A meditation technique",
+             "A type of offering"],
+         "correct": 0,
+         "expl": "This chapter's title concept."},
+        {"q": "What does AN 5.152 do with this discourse's opening three-item pattern?",
+         "opts": [
+             "Discards it entirely",
+             "Keeps it, swapping the closing two items for intellectual capacity and overestimation",
+             "Applies it only to nuns",
+             "Moves immediately to a colophon"],
+         "correct": 1,
+         "expl": "A companion discourse continuing this chapter's opening pattern."},
+    ],
+    marginalia=[
+        ("Three kinds of disparagement", [
+            "the talk &middot; the",
+            "speaker &middot; oneself",
+        ]),
+        ("Even good teaching can fail", [
+            "the listener's own",
+            "state matters just as much",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">niyāma</span>",
+            "&mdash; the sure",
+            "path",
+        ]),
+        ("Cross-references", [
+            "AN 5.152 &middot; next: the same opening pattern, continued",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.151/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.152.html">AN 5.152 &middot; The Sure Path (2nd)</a> &mdash; next: '
+        "the same opening pattern, continued.",
+        '<a href="an-5.160.html">AN 5.160 &middot; Hard to Get Rid Of</a> &mdash; this '
+        "chapter&rsquo;s closing discourse.",
+        '<a href="an-5.114.html">AN 5.114 &middot; At Andhakavinda</a> &mdash; another '
+        "discourse on how newcomers should be encouraged to listen and learn.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.152 — Dutiyasammattaniyāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    152, "Dutiyasammattaniyāma", "The Sure Path (2nd)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.152 — The Sure Path (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasammattaniyāmasutta — the same disparagement pattern, now paired with "
+        "dullness and false certainty about one's own knowledge. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, sharing AN 5.151's opening pattern"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, introducing a "
+                       "specific epistemic vice"),
+    ],
+    why=(
+        "AN 5.151's three-item disparagement pattern, continued: this discourse swaps the "
+        "closing two items for intellectual dullness and a specific epistemic failure "
+        "&mdash; believing oneself to know what one doesn't, the same overestimation "
+        "already flagged at AN 5.93, now applied to any knowledge claim rather than "
+        "specifically spiritual attainment."),
+    guide=[
+        ("The same three-item opening", [
+            "Disparaging the talk, the speaker, and oneself &mdash; unchanged from AN "
+            "5.151."]),
+        ("Dullness, and false certainty", [
+            "This discourse replaces AN 5.151's distraction and irrational attention with "
+            "two different failures: being witless, dull, and idiotic, and thinking one "
+            "knows what one doesn't (<em>anaññāte aññātamānī</em>)."]),
+        ("A familiar epistemic vice, generalized", [
+            "This same false certainty &mdash; <em>adhimāna</em>, overestimating one's "
+            "attainment &mdash; was already flagged at AN 5.93 in a specifically spiritual "
+            "context. Here it's stated more generally: believing oneself to know what one "
+            "simply doesn't, applicable to any knowledge claim, not only claims about "
+            "spiritual attainment."]),
+        ("The mirrored positive", [
+            "Not disparaging the talk, speaker, or self; being wise, bright, and clever; and "
+            "not overestimating one's own knowledge."]),
+        ("What comes next", [
+            "AN 5.153 completes this three-discourse sequence with its most serious "
+            "version: active hostility and even antagonism toward the teacher, not merely "
+            "distraction or dullness."]),
+    ],
+    terms=[
+        ("kathaṁ paribhoti / kathikaṁ paribhoti / attānaṁ paribhoti",
+         "disparaging the talk, the speaker, or oneself &mdash; unchanged from AN 5.151."),
+        ("jaḷo eḷamūgo",
+         "&ldquo;dull and idiotic&rdquo; &mdash; describing the witless listener."),
+        ("anaññāte aññātamānī",
+         "&ldquo;thinking one knows what one doesn't&rdquo; &mdash; a specific epistemic "
+         "failure, false certainty."),
+        ("adhimāna",
+         "overestimation, first flagged at AN 5.93 in a spiritual-attainment context, "
+         "generalized here to any knowledge claim."),
+        ("ajaḷo aneḷamūgo",
+         "&ldquo;bright and clever&rdquo; &mdash; the positive counterpart to dullness."),
+    ],
+    text_intro=(
+        "The discourse in full: the same opening pattern, paired with dullness and false "
+        "certainty. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unable to step into the sure path"),
+        ("p", "&sect;1", "an5.152:1.1-1.4"),
+        ("h3", "Able to step into the sure path"),
+        ("p", "&sect;2", "an5.152:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What opening pattern does this discourse share with AN 5.151?",
+         "opts": [
+             "Disparaging the talk, speaker, and oneself",
+             "The five hindrances",
+             "The five precepts",
+             "The eightfold path"],
+         "correct": 0,
+         "expl": "The same three-item pattern, unchanged."},
+        {"q": "What two items does this discourse swap in, unlike AN 5.151's distraction and irrational attention?",
+         "opts": [
+             "Dullness, and false certainty about one's own knowledge",
+             "Wealth and poverty",
+             "Faith and doubt",
+             "Generosity and stinginess"],
+         "correct": 0,
+         "expl": "Jaḷo eḷamūgo, and anaññāte aññātamānī."},
+        {"q": "What does 'anaññāte aññātamānī' mean?",
+         "opts": [
+             "Thinking one knows what one doesn't",
+             "Genuine humility about one's limits",
+             "Excessive modesty",
+             "Refusing to make any claims at all"],
+         "correct": 0,
+         "expl": "A specific epistemic failure, false certainty."},
+        {"q": "Where did this same underlying vice — overestimation — first appear in this nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.93",
+             "AN 5.71",
+             "AN 5.99"],
+         "correct": 1,
+         "expl": "Declarations, in a specifically spiritual-attainment context."},
+        {"q": "How does this discourse's use of overestimation differ from AN 5.93's?",
+         "opts": [
+             "It is identical, applied only to spiritual attainment",
+             "It is generalized to any knowledge claim, not only spiritual attainment",
+             "It denies overestimation is ever a problem",
+             "It applies only to teachers"],
+         "correct": 1,
+         "expl": "A broader application of the same underlying epistemic vice."},
+        {"q": "What does 'jaḷo eḷamūgo' mean?",
+         "opts": [
+             "Dull and idiotic",
+             "Bright and clever",
+             "Faithful and devoted",
+             "Wealthy and generous"],
+         "correct": 0,
+         "expl": "One of the two swapped-in negative qualities."},
+        {"q": "What is the positive counterpart to dullness in this discourse's list?",
+         "opts": [
+             "Ajaḷo aneḷamūgo, 'bright and clever'",
+             "Saddho, 'faithful'",
+             "Sīlavā, 'ethical'",
+             "Kalyāṇamitta, 'good friend'"],
+         "correct": 0,
+         "expl": "The mirrored positive quality."},
+        {"q": "How is the positive list constructed relative to the negative one?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Tikaṇḍakīvagga",
+             "Saddhammavagga",
+             "Rājavagga",
+             "Gilānavagga"],
+         "correct": 1,
+         "expl": "Continuing this chapter's concern with genuine listening."},
+        {"q": "What does AN 5.153 complete this sequence with?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Its most serious version — active hostility and antagonism toward the teacher",
+             "A narrative about nuns",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "The third and final discourse in this three-part sequence."},
+    ],
+    marginalia=[
+        ("Same opening, new closing pair", [
+            "disparagement, then",
+            "dullness &amp; false",
+            "certainty",
+        ]),
+        ("A familiar vice, generalized", [
+            "adhimāna, from AN 5.93,",
+            "now for any",
+            "knowledge claim",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anaññāte aññātamānī</span>",
+            "&mdash; thinking one",
+            "knows what one doesn't",
+        ]),
+        ("Cross-references", [
+            "AN 5.93 &middot; this vice's earlier, spiritual-attainment framing",
+            "AN 5.153 &middot; next: this sequence's most serious version",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.152/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.151.html">AN 5.151 &middot; The Sure Path (1st)</a> &mdash; the '
+        "previous discourse, this sequence's opening.",
+        '<a href="an-5.153.html">AN 5.153 &middot; The Sure Path (3rd)</a> &mdash; next: '
+        "this sequence's most serious version.",
+        '<a href="an-5.93.html">AN 5.93 &middot; Declarations</a> &mdash; where '
+        "overestimation first appeared in a spiritual-attainment context.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.153 — Tatiyasammattaniyāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    153, "Tatiyasammattaniyāma", "The Sure Path (3rd)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.153 — The Sure Path (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyasammattaniyāmasutta, closing this three-discourse sequence with its most "
+        "serious version: active hostility toward the teacher. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, closing a three-discourse sequence"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but the most "
+                       "pointed of the three"),
+    ],
+    why=(
+        "The third and most serious discourse in this opening sequence: beyond mere "
+        "distraction or dullness, this one names active hostility &mdash; even an intent "
+        "to attack the teacher &mdash; as a listening-disqualifier, completing an "
+        "escalating three-part portrait of bad listening."),
+    guide=[
+        ("The same three-item opening, again", [
+            "Disparaging the talk, the speaker, and oneself &mdash; unchanged for the third "
+            "time running."]),
+        ("Fault-finding, and outright hostility", [
+            "This discourse's distinctive additions: listening bent only on finding fault "
+            "(<em>makkhī</em>), a hostile fault-finding mind, and being antagonistic toward "
+            "the teacher, actively looking for an opening to attack them "
+            "(<em>randhagavesī</em> &mdash; literally &lsquo;seeking a weakness&rsquo;)."]),
+        ("Dullness and overestimation return", [
+            "The closing two items repeat AN 5.152's pair: witless/dull/idiotic, and "
+            "thinking one knows what one doesn't."]),
+        ("Three escalating profiles of bad listening", [
+            "Read together, this three-discourse sequence traces an arc: AN 5.151 "
+            "(distraction and self-disparagement), AN 5.152 (dullness and false certainty), "
+            "AN 5.153 (active hostility and even aggression). Each version keeps the same "
+            "three-item core while escalating what surrounds it."]),
+        ("The mirrored positive, and what follows", [
+            "The clean negation, as in both previous discourses. This sequence now closes; "
+            "AN 5.154 shifts from an individual listener's disposition to the institutional "
+            "survival of the teaching itself."]),
+    ],
+    terms=[
+        ("makkhī",
+         "&ldquo;bent on fault-finding&rdquo; &mdash; a hostile, contrarian listening "
+         "stance."),
+        ("randhagavesī",
+         "&ldquo;seeking an opening/weakness&rdquo; &mdash; actively looking to attack the "
+         "teacher, this discourse's most severe addition."),
+        ("kathaṁ paribhoti / kathikaṁ paribhoti / attānaṁ paribhoti",
+         "disparaging the talk, the speaker, or oneself &mdash; unchanged across all three "
+         "discourses in this sequence."),
+        ("anaññāte aññātamānī",
+         "&ldquo;thinking one knows what one doesn't&rdquo; &mdash; repeating AN 5.152's "
+         "epistemic failure."),
+        ("niyāma",
+         "&ldquo;the sure path&rdquo; &mdash; the shared concept across all three "
+         "discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: the closing, most severe version of this three-part "
+        "sequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unable to step into the sure path"),
+        ("p", "&sect;1", "an5.153:1.1-1.4"),
+        ("h3", "Able to step into the sure path"),
+        ("p", "&sect;2", "an5.153:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What makes this discourse the most severe of the three-part sequence?",
+         "opts": [
+             "It names active hostility, even an intent to attack the teacher",
+             "It is far longer than the other two",
+             "It applies only to nuns",
+             "It denies the sure path exists"],
+         "correct": 0,
+         "expl": "Randhagavesī — actively seeking an opening to attack."},
+        {"q": "What does 'randhagavesī' literally mean?",
+         "opts": [
+             "Seeking an opening or weakness",
+             "Seeking the truth",
+             "Seeking a teacher",
+             "Seeking liberation"],
+         "correct": 0,
+         "expl": "This discourse's most severe addition."},
+        {"q": "What does 'makkhī' describe?",
+         "opts": [
+             "Listening bent only on finding fault",
+             "Listening with genuine curiosity",
+             "Listening in silence",
+             "Refusing to listen at all"],
+         "correct": 0,
+         "expl": "A hostile, contrarian listening stance."},
+        {"q": "What three-item pattern does this discourse share with AN 5.151 and 5.152?",
+         "opts": [
+             "Disparaging the talk, the speaker, and oneself",
+             "The five hindrances",
+             "The five precepts",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Unchanged across all three discourses."},
+        {"q": "Which closing pair does this discourse repeat from AN 5.152?",
+         "opts": [
+             "Dullness, and thinking one knows what one doesn't",
+             "Generosity and stinginess",
+             "Faith and doubt",
+             "Wealth and poverty"],
+         "correct": 0,
+         "expl": "Witless/dull/idiotic, and false certainty."},
+        {"q": "How does this three-discourse sequence escalate, read in order?",
+         "opts": [
+             "Distraction, then dullness, then active hostility",
+             "It doesn't escalate — all three are identical",
+             "Hostility, then distraction, then dullness",
+             "It moves from monks to nuns"],
+         "correct": 0,
+         "expl": "AN 5.151, 5.152, 5.153 in sequence."},
+        {"q": "What does this discourse's positive list consist of?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The clean negation of the negative five",
+             "Only the first three items negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "As in both previous discourses."},
+        {"q": "What shared concept runs through all three 'sure path' discourses?",
+         "opts": [
+             "Niyāma, the fixed course toward skillful qualities",
+             "Kamma, action and its result",
+             "Anicca, impermanence",
+             "Metta, loving-kindness"],
+         "correct": 0,
+         "expl": "This sequence's title concept throughout."},
+        {"q": "What does AN 5.154 shift the focus to?",
+         "opts": [
+             "The institutional survival of the teaching itself",
+             "A narrative about King Pasenadi",
+             "The five aggregates",
+             "Rules for ordination"],
+         "correct": 0,
+         "expl": "From an individual listener's disposition to the teaching's collective preservation."},
+        {"q": "What chapter do all three 'sure path' discourses open?",
+         "opts": [
+             "Saddhammavagga",
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Upāsakavagga"],
+         "correct": 0,
+         "expl": "'The True Teaching', this session's chapter."},
+    ],
+    marginalia=[
+        ("The most severe version", [
+            "randhagavesī &mdash;",
+            "seeking an opening",
+            "to attack",
+        ]),
+        ("Three escalating profiles", [
+            "distraction, then dullness,",
+            "then hostility",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">makkhī</span>",
+            "&mdash; bent on",
+            "fault-finding",
+        ]),
+        ("Cross-references", [
+            "AN 5.151&ndash;152 &middot; this sequence's earlier, milder versions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.153/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.152.html">AN 5.152 &middot; The Sure Path (2nd)</a> &mdash; the '
+        "previous discourse in this sequence.",
+        '<a href="an-5.154.html">AN 5.154 &middot; The Decline of the True Teaching '
+        "(1st)</a> &mdash; next: from an individual listener to the teaching's "
+        "institutional survival.",
+        '<a href="an-5.151.html">AN 5.151 &middot; The Sure Path (1st)</a> &mdash; this '
+        "sequence's opening discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.154 — Paṭhamasaddhammasammosasutta
+# --------------------------------------------------------------------------- #
+page(
+    154, "Paṭhamasaddhammasammosa", "The Decline of the True Teaching (1st)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.154 — The Decline of the True Teaching (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasaddhammasammosasutta — a five-stage chain from hearing through practice, "
+        "each stage's neglect threatening the teaching's survival. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, on the collective survival of the teaching"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening this "
+                       "chapter's title concern"),
+    ],
+    why=(
+        "A shift in scale: from an individual listener's disposition (AN 5.151&ndash;153) "
+        "to the true teaching's collective, historical survival &mdash; naming a five-stage "
+        "chain from hearing through memorization through comprehension through practice, "
+        "each link a separate point of possible failure."),
+    guide=[
+        ("From individual to institutional", [
+            "The previous three discourses concerned one listener's internal state. This "
+            "discourse and its two companions (AN 5.155&ndash;156) concern something larger: "
+            "the true teaching's (<em>saddhamma</em>) survival across time, as a collective, "
+            "historical matter rather than a personal listening experience."]),
+        ("A five-stage transmission chain", [
+            "Mendicants not carefully listening, not memorizing, not remembering, not "
+            "examining the meaning, and not practicing in line with the understood meaning "
+            "and teaching &mdash; five sequential stages, each a distinct point where "
+            "transmission can fail."]),
+        ("Why sequence matters", [
+            "The five items build on each other: one must first listen carefully to "
+            "memorize accurately; memorize to remember; remember to examine meaning; "
+            "understand meaning to practice accordingly. A break at any stage propagates "
+            "forward."]),
+        ("The mirrored positive", [
+            "Careful listening, memorizing, remembering, examining meaning, and practicing "
+            "accordingly &mdash; the clean negation, framed as what sustains the teaching."]),
+        ("Two more decline-discourses to come", [
+            "AN 5.155 names a second decline-formula, concerning engagement with the "
+            "ninefold teaching genres; AN 5.156 gives the fullest version, including "
+            "textual corruption and Saṅgha schism."]),
+    ],
+    terms=[
+        ("saddhammasammosa",
+         "&ldquo;the decline/confusion of the true teaching&rdquo; &mdash; this trio of "
+         "discourses' shared title concern."),
+        ("suṇanti",
+         "&ldquo;they listen&rdquo; &mdash; the first stage of the transmission chain."),
+        ("pariyāpuṇanti",
+         "&ldquo;they memorize&rdquo; &mdash; the second stage."),
+        ("atthaṁ upaparikkhanti",
+         "&ldquo;they examine the meaning&rdquo; &mdash; the fourth stage, comprehension."),
+        ("dhammānudhammaṁ paṭipajjanti",
+         "&ldquo;they practice in line with the teaching&rdquo; &mdash; the fifth and final "
+         "stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the five-stage transmission chain, and its breakdown. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Causing the true teaching's decline"),
+        ("p", "&sect;1", "an5.154:1.1-1.4"),
+        ("h3", "Sustaining the true teaching"),
+        ("p", "&sect;2", "an5.154:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What shift does this discourse mark, compared to AN 5.151-153?",
+         "opts": [
+             "From an individual listener's disposition to the teaching's collective survival",
+             "From monks to nuns",
+             "From prose to verse",
+             "From the Buddha's voice to Ānanda's"],
+         "correct": 0,
+         "expl": "A move in scale from personal to institutional."},
+        {"q": "What are the five stages of this discourse's transmission chain, in order?",
+         "opts": [
+             "Listening, memorizing, remembering, examining meaning, practicing accordingly",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Giving, receiving, storing, teaching, forgetting",
+             "Ordination, training, teaching, retiring, dying"],
+         "correct": 0,
+         "expl": "Five sequential transmission stages."},
+        {"q": "Why does sequence matter in this five-stage chain?",
+         "opts": [
+             "Each stage depends on the one before it — a break propagates forward",
+             "The stages are entirely independent of each other",
+             "The order is arbitrary and interchangeable",
+             "Only the final stage actually matters"],
+         "correct": 0,
+         "expl": "Listening enables memorizing, memorizing enables remembering, and so on."},
+        {"q": "What does 'saddhammasammosa' name?",
+         "opts": [
+             "The decline or confusion of the true teaching",
+             "A specific meditation technique",
+             "A type of monastic robe",
+             "A ceremony for new ordinands"],
+         "correct": 0,
+         "expl": "This trio of discourses' shared concern."},
+        {"q": "What does 'pariyāpuṇanti' mean?",
+         "opts": [
+             "They memorize",
+             "They listen",
+             "They forget",
+             "They teach"],
+         "correct": 0,
+         "expl": "The second stage of the transmission chain."},
+        {"q": "What does 'dhammānudhammaṁ paṭipajjanti' mean?",
+         "opts": [
+             "They practice in line with the teaching",
+             "They recite from memory",
+             "They debate the meaning",
+             "They travel to teach others"],
+         "correct": 0,
+         "expl": "The fifth and final stage."},
+        {"q": "How many discourses in this chapter concern the teaching's decline?",
+         "opts": [
+             "Three — AN 5.154, 5.155, and 5.156",
+             "Just this one",
+             "Five",
+             "Ten"],
+         "correct": 0,
+         "expl": "A trio, of which this is the first."},
+        {"q": "What does AN 5.155's decline-formula concern?",
+         "opts": [
+             "Engagement with the ninefold teaching genres",
+             "Rules for begging alms",
+             "The five aggregates",
+             "A narrative about a schism"],
+         "correct": 0,
+         "expl": "The second of the three decline discourses."},
+        {"q": "What does AN 5.156 add that the other two decline-discourses don't?",
+         "opts": [
+             "Textual corruption and Saṅgha schism",
+             "A story about King Pasenadi",
+             "Rules for nuns specifically",
+             "A discussion of rebirth in hell"],
+         "correct": 0,
+         "expl": "The fullest, most serious of the three."},
+        {"q": "What is the positive list in this discourse?",
+         "opts": [
+             "The clean negation of the five decline-causing failures",
+             "An entirely different five qualities",
+             "Only the final stage restated",
+             "A longer, twelve-item list"],
+         "correct": 0,
+         "expl": "Careful listening, memorizing, remembering, examining, and practicing."},
+    ],
+    marginalia=[
+        ("Five-stage chain", [
+            "listen &middot; memorize &middot;",
+            "remember &middot; examine &middot;",
+            "practice",
+        ]),
+        ("A break propagates forward", [
+            "each stage depends",
+            "on the one before it",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saddhammasammosa</span>",
+            "&mdash; the teaching's",
+            "decline",
+        ]),
+        ("Cross-references", [
+            "AN 5.155&ndash;156 &middot; next: two more decline-formulas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.154/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.153.html">AN 5.153 &middot; The Sure Path (3rd)</a> &mdash; the '
+        "previous discourse, closing the individual-listener sequence.",
+        '<a href="an-5.155.html">AN 5.155 &middot; The Decline of the True Teaching '
+        "(2nd)</a> &mdash; next: a second decline-formula, on the ninefold genres.",
+        '<a href="an-5.156.html">AN 5.156 &middot; The Decline of the True Teaching '
+        "(3rd)</a> &mdash; this trio's fullest, most serious version.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.155 — Dutiyasaddhammasammosasutta
+# --------------------------------------------------------------------------- #
+page(
+    155, "Dutiyasaddhammasammosa", "The Decline of the True Teaching (2nd)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.155 — The Decline of the True Teaching (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasaddhammasammosasutta — five modes of engagement with the ninefold "
+        "teaching genres, each a separate point of possible failure. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, reusing the ninefold genre classification"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but reuses a "
+                       "term-heavy list"),
+    ],
+    why=(
+        "A second decline-formula, this time built around the ninefold teaching genres "
+        "already named twice before in this nipāta &mdash; naming five distinct modes of "
+        "engagement with that memorized material, each a separate point where "
+        "transmission can fail."),
+    guide=[
+        ("The ninefold genres, a third appearance", [
+            "Sutta, geyya, veyyākaraṇa, gāthā, udāna, itivuttaka, jātaka, abbhutadhamma, "
+            "and vedalla &mdash; the same nine-part classification of the teaching's "
+            "literary forms first named at AN 5.73, and returned to at AN 5.79 (where "
+            "vedalla specifically was flagged as declining)."]),
+        ("Five modes of engagement, not five genres", [
+            "This discourse doesn't repeat the nine-genre list itself as its main content; "
+            "instead it names five distinct activities concerning that memorized material: "
+            "not memorizing it, not explaining it in detail to others, not making others "
+            "recite it, not rehearsing it oneself, and not mentally considering it."]),
+        ("Five separate failure points", [
+            "Memorizing, teaching, prompting recitation in others, personal rehearsal, and "
+            "reflection &mdash; five genuinely distinct modes of engagement, meaning the "
+            "teaching's preservation can fail through the neglect of any single one, even "
+            "if the others are maintained."]),
+        ("The mirrored positive", [
+            "Memorizing, explaining in detail, making others recite, rehearsing, and "
+            "mentally considering &mdash; the clean negation."]),
+        ("What comes next", [
+            "AN 5.156 gives this trio's fullest treatment, including textual corruption, "
+            "senior-mendicant laxity, and Saṅgha schism."]),
+    ],
+    terms=[
+        ("sutta, geyya, veyyākaraṇa, gāthā, udāna, itivuttaka, jātaka, abbhutadhamma, "
+         "vedalla",
+         "the ninefold classification of the teaching's literary genres, first named at AN "
+         "5.73."),
+        ("pariyāpuṇanti",
+         "&ldquo;they memorize&rdquo; &mdash; the first of the five engagement-modes here."),
+        ("vitthārena paresaṁ desenti",
+         "&ldquo;they explain in detail to others&rdquo; &mdash; teaching, as distinct from "
+         "mere memorization."),
+        ("vāceti",
+         "&ldquo;makes [others] recite&rdquo; &mdash; prompting others' own memorization, "
+         "not just one's own."),
+        ("cetasā anuvitakketi anuvicāreti",
+         "&ldquo;mentally considers and reflects on&rdquo; &mdash; the final engagement-"
+         "mode, private reflection."),
+    ],
+    text_intro=(
+        "The discourse in full: five modes of engagement with the memorized teaching, and "
+        "their neglect. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Causing the true teaching's decline"),
+        ("p", "&sect;1", "an5.155:1.1-5.3"),
+        ("h3", "Sustaining the true teaching"),
+        ("p", "&sect;2", "an5.155:6.1-10.3"),
+    ],
+    quiz=[
+        {"q": "What classification does this discourse reuse from AN 5.73 and AN 5.79?",
+         "opts": [
+             "The ninefold teaching genres",
+             "The five aggregates",
+             "The eightfold path",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Sutta, geyya, veyyākaraṇa, and six more genre-terms."},
+        {"q": "What are this discourse's five items actually about?",
+         "opts": [
+             "Five modes of engagement with the memorized teaching material",
+             "The nine genres themselves, restated",
+             "Five rules for ordination",
+             "Five qualities of a good speaker"],
+         "correct": 0,
+         "expl": "Memorizing, teaching, prompting recitation, rehearsing, reflecting."},
+        {"q": "What does 'vāceti' mean in this context?",
+         "opts": [
+             "Making others recite",
+             "Reciting alone in silence",
+             "Refusing to teach",
+             "Translating into another language"],
+         "correct": 0,
+         "expl": "Prompting others' own memorization, distinct from teaching them."},
+        {"q": "Why does this discourse name five separate engagement-modes rather than one?",
+         "opts": [
+             "Because preservation can fail through neglect of any single mode, even if others continue",
+             "Because the five are entirely redundant with each other",
+             "Because only the first mode actually matters",
+             "Because five is simply a stylistic convention with no substantive point"],
+         "correct": 0,
+         "expl": "Each is a genuinely distinct point of possible failure."},
+        {"q": "Where was vedalla, one of the nine genres, previously flagged as declining?",
+         "opts": [
+             "AN 5.79",
+             "AN 5.10",
+             "AN 5.1",
+             "AN 5.50"],
+         "correct": 0,
+         "expl": "The second appearance of this ninefold list in this nipāta."},
+        {"q": "What does 'cetasā anuvitakketi anuvicāreti' mean?",
+         "opts": [
+             "Mentally considering and reflecting on the teaching",
+             "Publicly debating the teaching",
+             "Writing the teaching down",
+             "Forgetting the teaching over time"],
+         "correct": 0,
+         "expl": "The final of the five engagement-modes, private reflection."},
+        {"q": "How is this discourse's positive list constructed?",
+         "opts": [
+             "The clean negation of the five neglected engagement-modes",
+             "An entirely different five qualities",
+             "A restatement of the nine genres",
+             "A twelve-item expanded list"],
+         "correct": 0,
+         "expl": "Memorizing, teaching, prompting recitation, rehearsing, reflecting — all present."},
+        {"q": "What relationship does this discourse have to AN 5.154?",
+         "opts": [
+             "A second, related decline-formula in the same three-discourse trio",
+             "A direct contradiction of AN 5.154",
+             "An unrelated narrative discourse",
+             "A repetition of AN 5.154 word for word"],
+         "correct": 0,
+         "expl": "The second of three 'decline of the true teaching' discourses."},
+        {"q": "What does AN 5.156 add beyond this discourse and AN 5.154?",
+         "opts": [
+             "Textual corruption, senior-mendicant laxity, and Saṅgha schism",
+             "A story about a lay follower",
+             "Rules specific to nuns",
+             "A discussion of the four elements"],
+         "correct": 0,
+         "expl": "This trio's fullest, most serious treatment."},
+        {"q": "What chapter do these decline-discourses belong to?",
+         "opts": [
+             "Saddhammavagga",
+             "Kimilavagga",
+             "Upāsakavagga",
+             "Āghātavagga"],
+         "correct": 0,
+         "expl": "'The True Teaching', this session's chapter."},
+    ],
+    marginalia=[
+        ("Five engagement-modes", [
+            "memorize &middot; teach &middot;",
+            "prompt recitation &middot;",
+            "rehearse &middot; reflect",
+        ]),
+        ("The ninefold genres, again", [
+            "third appearance in",
+            "this nipāta",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vāceti</span>",
+            "&mdash; makes others",
+            "recite",
+        ]),
+        ("Cross-references", [
+            "AN 5.73 &middot; AN 5.79 &middot; this ninefold list's earlier appearances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.155/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.154.html">AN 5.154 &middot; The Decline of the True Teaching '
+        "(1st)</a> &mdash; the previous discourse in this trio.",
+        '<a href="an-5.156.html">AN 5.156 &middot; The Decline of the True Teaching '
+        "(3rd)</a> &mdash; next: this trio's fullest version.",
+        '<a href="an-5.79.html">AN 5.79 &middot; Untrue Teachings (2nd)</a> &mdash; where '
+        "vedalla, one of these nine genres, was flagged as declining.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.156 — Tatiyasaddhammasammosasutta
+# --------------------------------------------------------------------------- #
+page(
+    156, "Tatiyasaddhammasammosa", "The Decline of the True Teaching (3rd)",
+    vagga=VAGGA_16,
+    meta_title="AN 5.156 — The Decline of the True Teaching (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyasaddhammasammosasutta — this trio's fullest treatment, naming textual "
+        "corruption, senior-mendicant laxity, and Saṅgha schism. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, closing this three-discourse trio"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the trio's most "
+                       "serious and varied list"),
+    ],
+    why=(
+        "The fullest of the three decline-discourses, naming textual corruption, a "
+        "difficult-to-teach temperament, the death of unreplaced senior scholars, "
+        "leadership by indulgence rather than example, and finally Saṅgha schism &mdash; "
+        "the same institutional-decline concern raised at AN 5.79 and dramatized at AN "
+        "5.88, now given its most complete five-factor treatment."),
+    guide=[
+        ("Misremembered words, distorted meaning", [
+            "The first item: mendicants memorize a discourse incorrectly, with misplaced "
+            "words and phrases, so that the meaning itself is misinterpreted &mdash; textual "
+            "corruption at its source, distinct from AN 5.154&ndash;155's concern with "
+            "neglecting transmission altogether."]),
+        ("Hard to admonish", [
+            "The second: mendicants who are hard to admonish, impatient, and unwilling to "
+            "receive instruction respectfully &mdash; a temperament that blocks correction "
+            "even when errors are caught."]),
+        ("Cut off at the root", [
+            "The third, and perhaps the most poignant: the most learned mendicants not "
+            "carefully making others recite what they know, so that when they die, those "
+            "discourses are &lsquo;cut off at the root, with no one to preserve "
+            "them&rsquo; &mdash; a stark image of irrecoverable loss."]),
+        ("Leadership by example, or its absence", [
+            "The fourth: senior mendicants who are indulgent and slack, so that others "
+            "imitate them (<em>diṭṭhānugati</em> &mdash; the same imitation mechanism named "
+            "at AN 5.79 and AN 5.88, cited verbatim here)."]),
+        ("Schism, and its cost to confidence", [
+            "The fifth: schism in the Saṅgha, with members abusing, insulting, excluding, "
+            "and forsaking one another &mdash; undermining confidence not only among "
+            "outsiders but even among some who remain within the community. Cross-ref AN "
+            "5.79's abstract warning about schism and AN 5.88's single personified case; "
+            "this discourse gives the fullest institutional mechanism of the three."]),
+    ],
+    terms=[
+        ("dunnikkhittañca padabyañjanaṁ",
+         "&ldquo;incorrectly placed words and phrases&rdquo; &mdash; textual corruption "
+         "distorting meaning."),
+        ("dubbaco",
+         "&ldquo;hard to admonish&rdquo; &mdash; a temperament resistant to correction."),
+        ("samūlaṁ pana taṁ suttantaṁ chinnaṁ bhavati appaṭisaraṇaṁ",
+         "&ldquo;cut off at the root, with no one to preserve it&rdquo; &mdash; describing a "
+         "discourse lost when its sole knowledgeable holder dies."),
+        ("diṭṭhānugati āpajjanti",
+         "&ldquo;fall into imitation&rdquo; &mdash; followers copying senior mendicants' "
+         "laxity, the same mechanism named at AN 5.79 and AN 5.88."),
+        ("saṅghabheda",
+         "&ldquo;schism in the Saṅgha&rdquo; &mdash; this discourse's final and most severe "
+         "item."),
+    ],
+    text_intro=(
+        "The discourse in full: five causes of the true teaching's decline, from textual "
+        "corruption to schism. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Causing the true teaching's decline"),
+        ("p", "&sect;1", "an5.156:1.1-5.5"),
+        ("h3", "Sustaining the true teaching"),
+        ("p", "&sect;2", "an5.156:6.1-10.5"),
+    ],
+    quiz=[
+        {"q": "What is the first cause of decline this discourse names?",
+         "opts": [
+             "Misremembering a discourse's words, distorting its meaning",
+             "Refusing to ordain new mendicants",
+             "Eating after noon",
+             "Traveling too often"],
+         "correct": 0,
+         "expl": "Textual corruption at its source."},
+        {"q": "What does 'cut off at the root, with no one to preserve it' describe?",
+         "opts": [
+             "A discourse lost when its sole knowledgeable holder dies without teaching it to others",
+             "A tree damaged by weather",
+             "A monastery destroyed by fire",
+             "A schism between two factions"],
+         "correct": 0,
+         "expl": "The third item, on unreplaced senior scholars."},
+        {"q": "What does 'diṭṭhānugati āpajjanti' mean, and where else has it appeared?",
+         "opts": [
+             "'Falling into imitation' — also named at AN 5.79 and AN 5.88",
+             "'Achieving liberation' — unique to this discourse",
+             "'Breaking a precept' — also at AN 5.100",
+             "'Giving a teaching' — also at AN 5.73"],
+         "correct": 0,
+         "expl": "The same imitation mechanism, cited verbatim from earlier discourses."},
+        {"q": "What is the fifth and final cause of decline named here?",
+         "opts": [
+             "Schism in the Saṅgha",
+             "Excessive almsgiving",
+             "Overly long meditation retreats",
+             "A dispute over robes"],
+         "correct": 0,
+         "expl": "Members abusing, insulting, excluding, and forsaking one another."},
+        {"q": "Whose confidence does Saṅgha schism undermine, according to this discourse?",
+         "opts": [
+             "Both outsiders and some who remain within the community",
+             "Only outsiders",
+             "Only the schismatics themselves",
+             "No one — confidence is unaffected"],
+         "correct": 0,
+         "expl": "A cost extending beyond the immediate parties."},
+        {"q": "How does this discourse relate to AN 5.79 and AN 5.88 on the topic of schism?",
+         "opts": [
+             "It gives the fullest institutional mechanism, after AN 5.79's abstract warning and AN 5.88's single personified case",
+             "It contradicts both earlier discourses",
+             "It is entirely unrelated to either",
+             "It is a word-for-word repetition of AN 5.88"],
+         "correct": 0,
+         "expl": "The third and most complete treatment of this recurring concern."},
+        {"q": "What does 'dubbaco' describe?",
+         "opts": [
+             "Being hard to admonish, resistant to correction",
+             "Being easy to teach",
+             "Being generous with donations",
+             "Being skilled in debate"],
+         "correct": 0,
+         "expl": "The second cause of decline."},
+        {"q": "How many total causes of decline does this discourse name?",
+         "opts": [
+             "Five",
+             "Three",
+             "Nine",
+             "Two"],
+         "correct": 0,
+         "expl": "Textual corruption, hard-to-admonish temperament, unreplaced scholars, senior laxity, and schism."},
+        {"q": "Why is this discourse called the trio's fullest treatment?",
+         "opts": [
+             "It combines textual, temperamental, institutional, and relational causes of decline in one list",
+             "It is the only one with a positive mirror list",
+             "It is written entirely in verse",
+             "It is addressed only to nuns"],
+         "correct": 0,
+         "expl": "The most varied and serious of the three decline-discourses."},
+        {"q": "What discourse immediately follows, shifting from institutional decline to conversational tact?",
+         "opts": [
+             "AN 5.157, Inappropriate Talk",
+             "AN 5.160, Hard to Get Rid Of",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Reusing the saddhā/sīla/suta/cāga/paññā pentad in a new context."},
+    ],
+    marginalia=[
+        ("Five causes of decline", [
+            "corrupted text &middot; hard",
+            "to admonish &middot; lost",
+            "scholars &middot; lax elders",
+            "&middot; schism",
+        ]),
+        ("Cut off at the root", [
+            "a discourse lost when",
+            "its only holder dies",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">saṅghabheda</span>",
+            "&mdash; schism in",
+            "the Saṅgha",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; AN 5.88 &middot; this discourse's fuller treatment of schism "
+            "and imitation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.156/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.155.html">AN 5.155 &middot; The Decline of the True Teaching '
+        "(2nd)</a> &mdash; the previous discourse in this trio.",
+        '<a href="an-5.88.html">AN 5.88 &middot; A Bad Friend</a> &mdash; a single '
+        "personified case of the laxity and imitation named here.",
+        '<a href="an-5.157.html">AN 5.157 &middot; Inappropriate Talk</a> &mdash; next: '
+        "from institutional decline to a pentad&rsquo;s use in conversational tact.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.157 — Dukkathāsutta
+# --------------------------------------------------------------------------- #
+page(
+    157, "Dukkathā", "Inappropriate Talk",
+    vagga=VAGGA_16,
+    meta_title="AN 5.157 — Inappropriate Talk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dukkathāsutta — "
+        "a guide to conversational tact, naming exactly which topic triggers defensive "
+        "hostility in someone who lacks the corresponding virtue. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, reusing the faith/ethics/learning/generosity/"
+                 "wisdom pentad"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but socially "
+                       "perceptive"),
+    ],
+    why=(
+        "A recurring pentad returns for what may be its most practically-oriented framing "
+        "yet: not a list of qualities to cultivate, but a guide to conversational tact, "
+        "naming exactly which topic triggers defensive hostility in someone who lacks the "
+        "corresponding virtue, and explaining why."),
+    guide=[
+        ("Inappropriate talk, defined by mismatch", [
+            "It's <em>dukkathā</em> (inappropriate talk) to discuss faith, ethics, learning, "
+            "generosity, or wisdom with someone who lacks that particular quality &mdash; "
+            "not because the topic is forbidden, but because raising it with the wrong "
+            "person produces a specific, predictable harm."]),
+        ("Why the mismatch causes real pain", [
+            "The mechanism given is precise: such a person becomes angry, hostile, and "
+            "bitter, because they don't recognize that quality's resulting rapture and joy "
+            "in themselves. This isn't simply &lsquo;don't insult people&rsquo; &mdash; it's "
+            "a specific claim about why unwelcome praise of an absent virtue produces "
+            "genuine distress rather than mere awkwardness."]),
+        ("This nipāta's most recurring pentad", [
+            "Faith, ethics, learning, generosity, and wisdom (<em>saddhā/sīla/suta/cāga/"
+            "paññā</em>) has now appeared across this nipāta at AN 5.40, 5.46&ndash;47, "
+            "5.63&ndash;64, and 5.91, in each case as a list of qualities worth cultivating. "
+            "This may be its single most practically-oriented use: not what to have, but how "
+            "to talk about it."]),
+        ("Appropriate talk, mirrored", [
+            "By contrast, it's <em>sukathā</em> (appropriate talk) to discuss each quality "
+            "with someone who already has it &mdash; producing rapture and joy rather than "
+            "hostility, because the listener recognizes the quality in themselves."]),
+        ("A practical takeaway", [
+            "Read as advice rather than doctrine, this discourse suggests attentiveness to "
+            "an audience's actual situation before praising a virtue in their presence "
+            "&mdash; a small but genuinely useful piece of social awareness embedded in a "
+            "doctrinal list."]),
+    ],
+    terms=[
+        ("dukkathā",
+         "&ldquo;inappropriate talk&rdquo; &mdash; raising a topic with someone whose "
+         "situation makes it counterproductive."),
+        ("sukathā",
+         "&ldquo;appropriate talk&rdquo; &mdash; the same topic, raised with someone it "
+         "actually fits."),
+        ("saddhā, sīla, suta, cāga, paññā",
+         "faith, ethics, learning, generosity, wisdom &mdash; this nipāta's most recurring "
+         "five-part list, previously at AN 5.40, 5.46&ndash;47, 5.63&ndash;64, and 5.91."),
+        ("kupito hoti anattamano byāpajjati",
+         "&ldquo;becomes angry, displeased, and hostile&rdquo; &mdash; the specific reaction "
+         "this discourse predicts."),
+        ("pāmojja",
+         "&ldquo;joy, gladness&rdquo; &mdash; the positive result when the topic actually "
+         "fits the listener."),
+    ],
+    text_intro=(
+        "The discourse in full: five topics, and the mismatch that makes each one "
+        "inappropriate or appropriate. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Inappropriate talk"),
+        ("p", "&sect;1", "an5.157:1.1-6.6"),
+        ("h3", "Appropriate talk"),
+        ("p", "&sect;2", "an5.157:7.1-12.6"),
+    ],
+    quiz=[
+        {"q": "What does 'dukkathā' mean?",
+         "opts": [
+             "Inappropriate talk — raising a topic with the wrong audience",
+             "Slanderous speech",
+             "Talk that is simply false",
+             "A formal Dhamma sermon"],
+         "correct": 0,
+         "expl": "This discourse's central concept."},
+        {"q": "Why is it inappropriate to discuss faith with a faithless person, according to this discourse?",
+         "opts": [
+             "It produces anger and hostility, since they don't recognize that quality's joy in themselves",
+             "Faith is a forbidden topic for anyone",
+             "It is simply against monastic etiquette",
+             "The Buddha never discussed faith with anyone"],
+         "correct": 0,
+         "expl": "A specific psychological mechanism, not a blanket prohibition."},
+        {"q": "What five-part pentad does this discourse reuse?",
+         "opts": [
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The five precepts",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Saddhā/sīla/suta/cāga/paññā — this nipāta's most recurring five-part list."},
+        {"q": "Where else in this nipāta has this same pentad appeared?",
+         "opts": [
+             "AN 5.40, 5.46-47, 5.63-64, and 5.91",
+             "Only in this discourse",
+             "AN 5.1 through AN 5.10",
+             "Only in the final chapter"],
+         "correct": 0,
+         "expl": "Its most recurring content block across the collection."},
+        {"q": "What makes this discourse's use of the pentad distinctive?",
+         "opts": [
+             "It's framed as a guide to conversational tact, not a list to cultivate",
+             "It denies the pentad has any value",
+             "It applies the pentad only to nuns",
+             "It replaces the pentad with an entirely new list"],
+         "correct": 0,
+         "expl": "Perhaps its most practically-oriented framing yet."},
+        {"q": "What does 'sukathā' mean?",
+         "opts": [
+             "Appropriate talk — the same topic, raised with a fitting audience",
+             "A type of chanting",
+             "Silence during meditation",
+             "A formal debate"],
+         "correct": 0,
+         "expl": "The mirrored positive of dukkathā."},
+        {"q": "What emotional result does 'sukathā' produce, according to this discourse?",
+         "opts": [
+             "Rapture and joy, since the listener recognizes the quality in themselves",
+             "Anger and hostility",
+             "Complete indifference",
+             "Confusion"],
+         "correct": 0,
+         "expl": "The opposite reaction from dukkathā's mismatch."},
+        {"q": "What practical takeaway does this discourse suggest?",
+         "opts": [
+             "Attentiveness to an audience's actual situation before praising a virtue in their presence",
+             "Never discuss any virtue with anyone",
+             "Only discuss virtues with senior mendicants",
+             "Virtues should never be praised at all"],
+         "correct": 0,
+         "expl": "A piece of social awareness embedded in a doctrinal list."},
+        {"q": "What does 'kupito hoti anattamano byāpajjati' describe?",
+         "opts": [
+             "Becoming angry, displeased, and hostile",
+             "Becoming joyful and at ease",
+             "Falling asleep during a talk",
+             "Requesting further teaching"],
+         "correct": 0,
+         "expl": "The specific reaction this discourse predicts from a mismatch."},
+        {"q": "What discourse follows, reusing this same underlying pentad in a different framing?",
+         "opts": [
+             "AN 5.158, Timidity",
+             "AN 5.160, Hard to Get Rid Of",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Sharing AN 5.101's exact Pali title, Sārajjasutta."},
+    ],
+    marginalia=[
+        ("Mismatch causes real pain", [
+            "not awkwardness &mdash;",
+            "genuine hostility",
+        ]),
+        ("This nipāta's most-repeated list", [
+            "faith &middot; ethics &middot;",
+            "learning &middot; generosity",
+            "&middot; wisdom",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dukkathā</span>",
+            "&mdash; inappropriate",
+            "talk",
+        ]),
+        ("Cross-references", [
+            "AN 5.40 &middot; 5.46&ndash;47 &middot; 5.63&ndash;64 &middot; 5.91 &middot; "
+            "this pentad's earlier appearances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.157/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.91.html">AN 5.91 &middot; Present Among the Community (2nd)</a> '
+        "&mdash; this pentad's most recent prior appearance.",
+        '<a href="an-5.156.html">AN 5.156 &middot; The Decline of the True Teaching '
+        "(3rd)</a> &mdash; the previous discourse in this chapter.",
+        '<a href="an-5.158.html">AN 5.158 &middot; Timidity</a> &mdash; next: the same '
+        "underlying pentad, reframed as self-assurance versus timidity.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.158 — Sārajjasutta
+# --------------------------------------------------------------------------- #
+page(
+    158, "Sārajja", "Timidity",
+    vagga=VAGGA_16,
+    meta_title="AN 5.158 — Timidity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sārajjasutta — "
+        "the same Pali title as AN 5.101, restating this nipāta's most-recurring pentad in "
+        "its simplest, barest form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, in the bare-list form"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a direct "
+                       "restatement"),
+    ],
+    why=(
+        "This discourse shares its exact Pali title, Sārajjasutta, with AN 5.101 &mdash; "
+        "and the same underlying pentad, addressing the identical quality-set (faith, "
+        "ethics, learning, energy, wisdom) in its simplest, barest form: what makes a "
+        "mendicant timid, and what makes one self-assured."),
+    guide=[
+        ("Same title, same pentad, different framing", [
+            "AN 5.101 (&ldquo;Assurance&rdquo;) addressed self-assurance specifically for a "
+            "trainee (<em>sekha</em>), through a more elaborate contrast-formula. This "
+            "discourse restates the identical underlying quality-set &mdash; faith, ethics, "
+            "learning, energy, wisdom &mdash; for a mendicant generally, in the simplest "
+            "possible bare-list form."]),
+        ("Overcome by timidity", [
+            "Lacking faith, ethics, learning, energy, or wisdom, a mendicant is described as "
+            "&lsquo;overcome by timidity&rsquo; (<em>sārajjaṁ okkanto</em>) &mdash; a vivid "
+            "phrase suggesting timidity as something one falls into or is overtaken by, "
+            "rather than a trait one simply has."]),
+        ("Self-assured", [
+            "Possessing all five, a mendicant is <em>visārada</em>, self-assured &mdash; a "
+            "different Pali term from AN 5.101's <em>vesārajja</em>, though closely related "
+            "in sense, both naming confident ease rather than anxious hesitation."]),
+        ("This nipāta's most-repeated pentad", [
+            "Cross-ref this quality-set's full trail: as sekhabala at AN 5.2, and in various "
+            "combinations at AN 5.101, and now here &mdash; arguably the single most-"
+            "repeated content block across the entire nipāta, in one form or another."]),
+        ("What closes the chapter", [
+            "AN 5.159 gives this nipāta's third Kosambī-set narrative discourse; AN 5.160 "
+            "closes the chapter with a bare, more ambivalent list of things hard to "
+            "relinquish once they arise."]),
+    ],
+    terms=[
+        ("sārajjaṁ okkanto",
+         "&ldquo;overcome by timidity&rdquo; &mdash; the state a mendicant falls into, "
+         "lacking the five qualities."),
+        ("visārada",
+         "&ldquo;self-assured&rdquo; &mdash; the positive state, a term related to but "
+         "distinct from AN 5.101's vesārajja."),
+        ("saddhā, sīla, suta, vīriya, paññā",
+         "faith, ethics, learning, energy, wisdom &mdash; the same quality-set as AN "
+         "5.101's sekha-directed formula, restated here in bare form."),
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; the specific audience of AN 5.101's version of this "
+         "same quality-set."),
+        ("Sārajjasutta",
+         "the exact Pali title shared by both this discourse and AN 5.101, though the "
+         "English translated titles diverge (&ldquo;Timidity&rdquo; here, &ldquo;"
+         "Assurance&rdquo; there)."),
+    ],
+    text_intro=(
+        "The discourse in full: what overcomes a mendicant with timidity, and what makes "
+        "one self-assured. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Overcome by timidity"),
+        ("p", "&sect;1", "an5.158:1.1-1.4"),
+        ("h3", "Self-assured"),
+        ("p", "&sect;2", "an5.158:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What discourse shares this one's exact Pali title, Sārajjasutta?",
+         "opts": [
+             "AN 5.101",
+             "AN 5.73",
+             "AN 5.10",
+             "AN 5.1"],
+         "correct": 0,
+         "expl": "Same Pali title, different English translated title."},
+        {"q": "How do the two Sārajjasutta discourses differ?",
+         "opts": [
+             "AN 5.101 addresses a trainee through an elaborate contrast-formula; this one restates the same quality-set for a mendicant generally, in bare-list form",
+             "They are entirely unrelated in content",
+             "AN 5.158 is much longer than AN 5.101",
+             "AN 5.101 concerns nuns specifically"],
+         "correct": 0,
+         "expl": "Same underlying pentad, different framing and audience."},
+        {"q": "What does 'sārajjaṁ okkanto' mean?",
+         "opts": [
+             "Overcome by timidity",
+             "Filled with confidence",
+             "Freed from all fear",
+             "Ordained as a mendicant"],
+         "correct": 0,
+         "expl": "The state described when the five qualities are absent."},
+        {"q": "What does 'visārada' mean?",
+         "opts": [
+             "Self-assured",
+             "Timid and hesitant",
+             "Newly ordained",
+             "Skilled in debate only"],
+         "correct": 0,
+         "expl": "The positive state, related to but distinct from AN 5.101's vesārajja."},
+        {"q": "What five qualities make up this discourse's pentad?",
+         "opts": [
+             "Faith, ethics, learning, energy, wisdom",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Note: energy, not generosity — distinct from the AN 5.157 pentad."},
+        {"q": "How does this discourse's pentad differ from AN 5.157's dukkathā pentad?",
+         "opts": [
+             "This one has energy (vīriya) in place of generosity (cāga)",
+             "They are identical in every respect",
+             "This one has no wisdom item",
+             "They share no items at all"],
+         "correct": 0,
+         "expl": "A related but distinct five-item quality-set."},
+        {"q": "Who is AN 5.101's version of this quality-set specifically addressed to?",
+         "opts": [
+             "A sekha, a trainee",
+             "A fully liberated arahant",
+             "A lay follower",
+             "A king"],
+         "correct": 0,
+         "expl": "The audience distinguishing AN 5.101's framing from this discourse's."},
+        {"q": "What term does AN 5.101 use for 'self-assurance', distinct from this discourse's term?",
+         "opts": [
+             "Vesārajja",
+             "Sārajja",
+             "Adhimāna",
+             "Diṭṭhānugati"],
+         "correct": 0,
+         "expl": "A closely related but distinct Pali term."},
+        {"q": "What discourse follows, this nipāta's third narrative set at Kosambī?",
+         "opts": [
+             "AN 5.159, With Udāyī",
+             "AN 5.160, Hard to Get Rid Of",
+             "AN 5.100, With Cunda",
+             "AN 5.106"],
+         "correct": 0,
+         "expl": "After AN 5.100 and AN 5.106, both also set at Ghosita's Monastery."},
+        {"q": "What discourse closes this chapter?",
+         "opts": [
+             "AN 5.160, Hard to Get Rid Of",
+             "AN 5.159, With Udāyī",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.101, Assurance"],
+         "correct": 0,
+         "expl": "A bare, more ambivalent closing list."},
+    ],
+    marginalia=[
+        ("Same title, two discourses", [
+            "Sārajjasutta &mdash;",
+            "AN 5.101 and 5.158",
+        ]),
+        ("Falling into timidity", [
+            "sārajjaṁ okkanto &mdash;",
+            "overtaken, not simply",
+            "possessed",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">visārada</span>",
+            "&mdash; self-assured",
+        ]),
+        ("Cross-references", [
+            "AN 5.101 &middot; the sekha-directed version of this same quality-set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.158/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.101.html">AN 5.101 &middot; Assurance</a> &mdash; the same Pali '
+        "title, Sārajjasutta, addressed to a trainee through a fuller contrast-formula.",
+        '<a href="an-5.157.html">AN 5.157 &middot; Inappropriate Talk</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.159.html">AN 5.159 &middot; With Udāyī</a> &mdash; next: this '
+        "nipāta&rsquo;s third narrative discourse set at Kosambī.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.159 — Udāyīsutta
+# --------------------------------------------------------------------------- #
+SETTING_159 = "Kosambī, at Ghosita&rsquo;s Monastery"
+
+page(
+    159, "Udāyī", "With Udāyī",
+    vagga=VAGGA_16,
+    meta_title="AN 5.159 — With Udāyī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Udāyīsutta — a "
+        "practical five-point checklist for anyone about to teach, given after Ānanda "
+        "reports on a fellow monk's crowded Dhamma talk. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_159),
+        ("Speakers", "Ānanda reporting to the Buddha; the Buddha responding"),
+        ("Form", "narrative frame, then a five-point first-person checklist for teachers"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a narrative, "
+                       "practically oriented"),
+    ],
+    why=(
+        "This nipāta's third narrative discourse set at Kosambī&rsquo;s Ghosita&rsquo;s "
+        "Monastery: Ānanda notices a fellow senior monk, Udāyī, teaching a large lay "
+        "assembly, and the Buddha's response is a genuinely practical, first-person "
+        "checklist for anyone about to teach."),
+    guide=[
+        ("The third Kosambī narrative", [
+            "Cross-ref AN 5.100 and AN 5.106, both also set at Ghosita&rsquo;s Monastery "
+            "in Kosambī &mdash; this is the third such narrative discourse in this nipāta "
+            "sharing that setting."]),
+        ("Ānanda as observant reporter", [
+            "As at AN 5.100 and AN 5.106, Ānanda again plays the role of the attentive "
+            "observer, bringing something he's noticed to the Buddha's attention &mdash; "
+            "here, not a complaint, but simply information: Venerable Udāyī is teaching "
+            "Dhamma to a large lay assembly."]),
+        ("Teaching Dhamma isn't easy", [
+            "The Buddha's response opens with a caution: teaching the Dhamma to others "
+            "isn't a simple matter. He then names five things a teacher should establish "
+            "in themselves first, before attempting to teach at all."]),
+        ("Five first-person commitments", [
+            "&lsquo;I will teach step by step&rsquo; (graduated, not all at once); &lsquo;I "
+            "will teach showing the method/reasoning&rsquo; (making the logic visible, not "
+            "simply asserting conclusions); &lsquo;I will teach out of kindness&rsquo;; "
+            "&lsquo;I will not teach while secretly hoping to profit&rsquo; "
+            "(<em>āmisantaro</em>); and &lsquo;I will teach without harming myself or "
+            "others.&rsquo;"]),
+        ("A reused term for hidden self-interest", [
+            "Cross-ref AN 5.124, where <em>āmisantaro</em> (material-benefit motivation) "
+            "was named as disqualifying for a carer attending the sick; the identical "
+            "concern and term appear here, applied instead to teaching."]),
+    ],
+    terms=[
+        ("anupubbiṁ kathaṁ kathessāmī",
+         "&ldquo;I will teach step by step&rdquo; &mdash; graduated instruction, the first "
+         "commitment."),
+        ("pariyāyadassāvī",
+         "&ldquo;showing the method/reasoning&rdquo; &mdash; making the logic of a teaching "
+         "visible, not simply asserting conclusions."),
+        ("anuddayataṁ paṭicca",
+         "&ldquo;out of kindness&rdquo; &mdash; the motivation named for the third "
+         "commitment."),
+        ("āmisantaro",
+         "&ldquo;with hidden hope of material gain&rdquo; &mdash; the same disqualifying "
+         "motivation named at AN 5.124 for a carer, reused here for a teacher."),
+        ("attavyābādhāya parabyābādhāya",
+         "&ldquo;for the affliction of oneself or others&rdquo; &mdash; the harm a teacher "
+         "commits to avoiding."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's report, and the Buddha's five-point checklist for "
+        "teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's report"),
+        ("p", "&sect;1", "an5.159:1.1-1.6"),
+        ("h3", "Establishing five things before teaching"),
+        ("p", "&sect;2", "an5.159:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kosambī, at Ghosita's Monastery",
+             "Sāvatthī, at Jeta's Grove",
+             "Rājagaha, at the Bamboo Grove",
+             "Kapilavatthu, at the Banyan Tree Monastery"],
+         "correct": 0,
+         "expl": "This nipāta's third narrative set at this location."},
+        {"q": "How many discourses in this nipāta are set at Kosambī's Ghosita's Monastery, including this one?",
+         "opts": [
+             "Three — AN 5.100, 5.106, and 5.159",
+             "Just this one",
+             "Five",
+             "Ten"],
+         "correct": 0,
+         "expl": "Cross-ref AN 5.100 and AN 5.106."},
+        {"q": "What does Ānanda report to the Buddha in this discourse?",
+         "opts": [
+             "Venerable Udāyī is teaching Dhamma to a large lay assembly",
+             "A monastery has been damaged",
+             "A mendicant has broken a precept",
+             "A dispute over almsfood"],
+         "correct": 0,
+         "expl": "Simple information, not a complaint."},
+        {"q": "What does the Buddha say about teaching Dhamma to others?",
+         "opts": [
+             "It isn't a simple or easy matter",
+             "It requires no particular care",
+             "It should never be attempted by anyone but the Buddha",
+             "It should only be done in writing"],
+         "correct": 0,
+         "expl": "The Buddha's opening caution."},
+        {"q": "What does 'I will teach step by step' commit a teacher to?",
+         "opts": [
+             "Graduated, sequential instruction rather than presenting everything at once",
+             "Teaching only advanced students",
+             "Repeating the same points endlessly",
+             "Teaching only in formal ceremonies"],
+         "correct": 0,
+         "expl": "The first of five first-person commitments."},
+        {"q": "What does 'pariyāyadassāvī' mean?",
+         "opts": [
+             "Showing the method or reasoning behind a teaching",
+             "Teaching only through stories",
+             "Refusing to explain reasoning",
+             "Teaching silently, without words"],
+         "correct": 0,
+         "expl": "Making the logic visible, not simply asserting conclusions."},
+        {"q": "What does 'āmisantaro' mean, and where else has it appeared?",
+         "opts": [
+             "'With hidden hope of material gain' — also disqualifying a carer at AN 5.124",
+             "'With great compassion' — a positive quality throughout",
+             "'Recently ordained' — a neutral descriptor",
+             "'Skilled in debate' — unique to this discourse"],
+         "correct": 0,
+         "expl": "The same disqualifying motivation, reused from a caregiving context."},
+        {"q": "What is the fifth commitment named in this discourse?",
+         "opts": [
+             "Teaching without harming oneself or others",
+             "Teaching only to monastics",
+             "Teaching for material reward",
+             "Teaching only in one's own language"],
+         "correct": 0,
+         "expl": "The final of the five first-person commitments."},
+        {"q": "What role does Ānanda play in this discourse, consistent with AN 5.100 and 5.106?",
+         "opts": [
+             "The observant reporter, bringing something noticed to the Buddha's attention",
+             "The primary teacher of the assembly",
+             "A skeptic questioning the Buddha's teaching",
+             "A newly ordained mendicant"],
+         "correct": 0,
+         "expl": "A recurring narrative role across this nipāta's Kosambī set."},
+        {"q": "What discourse closes this chapter, immediately following this one?",
+         "opts": [
+             "AN 5.160, Hard to Get Rid Of",
+             "AN 5.151, The Sure Path (1st)",
+             "AN 5.100, With Cunda",
+             "AN 6.16, Nakula's Father"],
+         "correct": 0,
+         "expl": "This chapter's final discourse."},
+    ],
+    marginalia=[
+        ("Third Kosambī narrative", [
+            "after AN 5.100",
+            "and 5.106",
+        ]),
+        ("Five commitments for a teacher", [
+            "step by step &middot; showing",
+            "method &middot; kindness &middot;",
+            "no hidden gain &middot; no harm",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">āmisantaro</span>",
+            "&mdash; hidden hope",
+            "of material gain",
+        ]),
+        ("Cross-references", [
+            "AN 5.124 &middot; the same disqualifying motivation, for a carer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.159/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.100.html">AN 5.100 &middot; With Cunda</a> &mdash; this '
+        "nipāta&rsquo;s first narrative discourse set at Kosambī&rsquo;s "
+        "Ghosita&rsquo;s Monastery.",
+        '<a href="an-5.124.html">AN 5.124 &middot; Nursing (2nd)</a> &mdash; where '
+        "&lsquo;āmisantaro&rsquo; first disqualified a carer&rsquo;s motivation.",
+        '<a href="an-5.158.html">AN 5.158 &middot; Timidity</a> &mdash; the previous '
+        "discourse in this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.160 — Duppaṭivinodayasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    160, "Duppaṭivinodaya", "Hard to Get Rid Of",
+    vagga=VAGGA_16,
+    meta_title="AN 5.160 — Hard to Get Rid Of | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Duppaṭivinodayasutta, closing the Saddhammavagga — the three poisons alongside "
+        "two more mundane compulsions, all hard to relinquish once they've arisen. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror; closes the chapter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, but tonally "
+                       "distinctive"),
+    ],
+    why=(
+        "A curious, almost wry closing list: the three classic poisons sit alongside two "
+        "much more mundane, non-moral impulses &mdash; the urge to speak up once inspired, "
+        "and the urge to travel once departure crosses the mind &mdash; suggesting a more "
+        "general observation about mental momentum than a purely ethical teaching."),
+    guide=[
+        ("Five things hard to relinquish", [
+            "Greed (<em>rāga</em>), hatred (<em>dosa</em>), and delusion "
+            "(<em>moha</em>) &mdash; the three classic poisons &mdash; joined by two "
+            "further items: the feeling of being inspired to speak "
+            "(<em>paṭibhāna</em>), and thoughts of traveling (<em>gamikacitta</em>), "
+            "once either has arisen."]),
+        ("No positive mirror, this time", [
+            "Unlike nearly every other discourse in this chapter, this one offers no "
+            "negated positive list &mdash; simply a bare five-item description, ending the "
+            "chapter on a single, unmirrored observation."]),
+        ("An unexpected inclusion: paṭibhāna", [
+            "<em>Paṭibhāna</em> &mdash; inspiration, eloquence, the inventive "
+            "responsiveness of a ready speaker &mdash; is treated positively elsewhere in "
+            "this collection (see AN 5.86). Here it's grouped with the three poisons as "
+            "something &lsquo;hard to get rid of&rsquo; once it arises, suggesting the "
+            "discourse's real concern is not the moral valence of an impulse, but simply "
+            "how difficult certain mental states are to relinquish once underway."]),
+        ("A psychological rather than purely ethical observation", [
+            "Read this way, the list isn't a straightforward catalogue of vices: greed, "
+            "hatred, and delusion are morally weighted, while an inspired urge to speak or "
+            "a settled intention to travel are not inherently unwholesome at all &mdash; "
+            "the shared thread is momentum, not moral status."]),
+        ("Closing the chapter", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. Saddhammavaggo "
+            "paṭhamo&rsquo; (&lsquo;The tenth. The first chapter on the true "
+            "teaching&rsquo;), followed by an uddāna verse naming this chapter's ten "
+            "discourses in brief &mdash; the same summarizing mechanism explained in full "
+            "at AN 5.10."]),
+        ("What comes next", [
+            "AN 5.161 opens the Āghātavagga (&ldquo;Resentment&rdquo;), this collection's "
+            "next chapter."]),
+    ],
+    terms=[
+        ("duppaṭivinodaya",
+         "&ldquo;hard to get rid of&rdquo; &mdash; this discourse's title concept, "
+         "describing all five items."),
+        ("rāga, dosa, moha",
+         "greed, hatred, delusion &mdash; the three classic poisons, the list's first three "
+         "items."),
+        ("paṭibhāna",
+         "inspiration or eloquence; positively framed at AN 5.86, here grouped instead with "
+         "the poisons as hard to relinquish."),
+        ("gamikacitta",
+         "&ldquo;the thought of traveling&rdquo; &mdash; a settled intention to depart, the "
+         "list's fifth item."),
+        ("uddāna",
+         "the summary verse closing a chapter, naming its discourses in brief; the "
+         "mechanism explained in full at AN 5.10."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five things hard to get rid of"),
+        ("p", "&sect;1", "an5.160:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse name as hard to get rid of, once arisen?",
+         "opts": [
+             "Greed, hatred, delusion, inspiration to speak, and thoughts of traveling",
+             "The five hindrances",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Three poisons plus two more mundane compulsions."},
+        {"q": "What makes this discourse's list structurally unusual for this chapter?",
+         "opts": [
+             "It offers no negated positive mirror list",
+             "It has ten items instead of five",
+             "It is written entirely in verse",
+             "It applies only to nuns"],
+         "correct": 0,
+         "expl": "A bare, unmirrored five-item list."},
+        {"q": "How is 'paṭibhāna' treated elsewhere in this collection, and how does that differ from its treatment here?",
+         "opts": [
+             "Positively at AN 5.86; here grouped with the poisons as hard to relinquish",
+             "It never appears elsewhere in this collection",
+             "Negatively everywhere it appears",
+             "As a synonym for greed throughout"],
+         "correct": 0,
+         "expl": "A notable shift in framing for the same term."},
+        {"q": "What does this discourse's inclusion of paṭibhāna and gamikacitta alongside the three poisons suggest?",
+         "opts": [
+             "A concern with mental momentum generally, not only moral valence",
+             "That eloquence is always a vice",
+             "That travel is always forbidden for mendicants",
+             "A scribal error unrelated to the discourse's real content"],
+         "correct": 0,
+         "expl": "Not every item is morally weighted the same way."},
+        {"q": "What does 'gamikacitta' mean?",
+         "opts": [
+             "The thought or intention of traveling",
+             "The thought of ordaining",
+             "The thought of eating",
+             "The thought of teaching"],
+         "correct": 0,
+         "expl": "The list's fifth item, a settled intention to depart."},
+        {"q": "What are the three classic poisons named in this discourse?",
+         "opts": [
+             "Rāga, dosa, moha — greed, hatred, delusion",
+             "Saddhā, sīla, paññā — faith, ethics, wisdom",
+             "Sutta, geyya, gāthā — three teaching genres",
+             "Anicca, dukkha, anattā — three characteristics"],
+         "correct": 0,
+         "expl": "Greed, hatred, and delusion, the list's first three items."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Saddhammavaggo paṭhamo.'",
+             "'Dasamaṁ. Kimilavaggo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Āghātavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The first chapter on the true teaching.'"},
+        {"q": "What is an 'uddāna'?",
+         "opts": [
+             "A summary verse naming a chapter's discourses in brief",
+             "A formal ordination ceremony",
+             "A type of alms bowl",
+             "A meditation posture"],
+         "correct": 0,
+         "expl": "The mechanism explained in full at AN 5.10."},
+        {"q": "What chapter does this discourse close?",
+         "opts": [
+             "Saddhammavagga",
+             "Kimilavagga",
+             "Upāsakavagga",
+             "Brāhmaṇavagga"],
+         "correct": 0,
+         "expl": "'The True Teaching', this session's sixteenth chapter."},
+        {"q": "What chapter comes next, opening with 'Resentment'?",
+         "opts": [
+             "Āghātavagga",
+             "Araññavagga",
+             "Duccaritavagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "AN 5.161 begins this collection's seventeenth chapter."},
+    ],
+    marginalia=[
+        ("Five things hard to relinquish", [
+            "greed &middot; hatred &middot;",
+            "delusion &middot; inspiration",
+            "&middot; travel-thoughts",
+        ]),
+        ("A tonal shift", [
+            "paṭibhāna, usually",
+            "positive, here grouped",
+            "with the poisons",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gamikacitta</span>",
+            "&mdash; the thought",
+            "of traveling",
+        ]),
+        ("Cross-references", [
+            "AN 5.86 &middot; where paṭibhāna is framed positively",
+            "AN 5.10 &middot; the uddāna mechanism, explained there in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.160/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.159.html">AN 5.159 &middot; With Udāyī</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.86.html">AN 5.86 &middot; A Trainee (2nd)</a> &mdash; where '
+        "paṭibhāna is framed as a positive quality.",
+        '<a href="an-5.151.html">AN 5.151 &middot; The Sure Path (1st)</a> &mdash; this '
+        "chapter's opening discourse.",
+    ],
+)
