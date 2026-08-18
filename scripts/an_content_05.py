@@ -52801,3 +52801,802 @@ PAGES.append({
         "smaller scale.",
     ],
 })
+# --------------------------------------------------------------------------- #
+# AN 5.286 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+VAGGA_28 = "<em>Sikkhāpadapeyyāla</em> &mdash; the twenty-eighth chapter of the Fives"
+
+page(
+    286, "Bhikkhu", "A Monk",
+    vagga=VAGGA_28,
+    meta_title="AN 5.286 — A Monk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhikkhusutta, "
+        "opening the Sikkhāpadapeyyāla — the same five precepts already given in full at AN "
+        "5.145, restated for a monk specifically, opening a catalog of persons. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, identical to AN 5.145's formula"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The five precepts (pañcasīla) are foundational across all "
+                              "Buddhist traditions; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the most familiar "
+                       "formula in the tradition, opening a new chapter's catalog"),
+    ],
+    why=(
+        "The five precepts, already given in full at AN 5.145, restated once more &mdash; but "
+        "this time addressed specifically to a monk, opening a new chapter that will run the "
+        "identical formula across a lengthening catalog of persons: monastics, lay followers, "
+        "and finally rival ascetic groups outside the tradition entirely."),
+    guide=[
+        ("A new chapter, a familiar formula", [
+            "The Sikkhāpadapeyyāla (&ldquo;Abbreviated Texts on Training Rules&rdquo;) opens "
+            "with the identical five precepts already given in full at "
+            "<a href=\"an-5.145.html\">AN 5.145</a>: not killing, not stealing, not engaging "
+            "in sexual misconduct, not lying, and not consuming intoxicants."]),
+        ("Named for a specific audience", [
+            "AN 5.145 stated the formula without naming a specific class of person. This "
+            "discourse addresses it explicitly to <em>bhikkhu</em>, a monk &mdash; the first "
+            "entry in what becomes, across this chapter, a lengthening roster of who the "
+            "identical five-item standard applies to."]),
+        ("The hell/heaven verdict, again", [
+            "The discourse closes each half with the familiar &lsquo;placed as if delivered "
+            "there&rsquo; formula (<em>yathābhataṁ nikkhitto</em>), already tracked across "
+            "this project since AN 5.173, and used identically at AN 5.145 for this same "
+            "five-precept content."]),
+        ("What the catalog will cover", [
+            "AN 5.287&ndash;292 immediately extends this identical formula to six further "
+            "categories within and around the monastic community: nuns, trainee nuns, novice "
+            "monks, novice nuns, laymen, and laywomen."]),
+        ("What follows", [
+            "AN 5.287&ndash;292, a single merged page in the source, restates this same "
+            "five-item standard for those six further categories, closing on the explicit "
+            "wording for a laywoman."]),
+    ],
+    terms=[
+        ("pañcasīla",
+         "&ldquo;the five precepts&rdquo; &mdash; the identical formula already given in full "
+         "at AN 5.145, restated here for a monk."),
+        ("bhikkhu",
+         "&ldquo;monk&rdquo; &mdash; the first named category in this chapter's catalog of "
+         "persons."),
+        ("pāṇātipātī, adinnādāyī, abrahmacārī, musāvādī, surāmerayamajjapamādaṭṭhāyī",
+         "kills living creatures, steals, has sex, lies, and consumes intoxicants &mdash; the "
+         "five precepts in negative, violated form."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; the rebirth-verdict image already "
+         "tracked since AN 5.173, and already paired with this exact formula at AN 5.145."),
+        ("abrahmacariyā",
+         "&ldquo;sexual activity&rdquo; &mdash; for a monk under full celibate vows, any "
+         "sexual activity at all, unlike the narrower &lsquo;sexual misconduct&rsquo; wording "
+         "used for lay followers elsewhere in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the five precepts, negative and positive, addressed "
+        "specifically to a monk. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities that lead to hell"),
+        ("p", "&sect;1", "an5.286:1.1-1.4"),
+        ("h3", "Five qualities that lead to heaven"),
+        ("p", "&sect;2", "an5.286:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Sikkhāpadapeyyāla, 'Abbreviated Texts on Training Rules'",
+             "Sammutipeyyāla",
+             "Rāgapeyyāla",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "This session's twenty-eighth chapter."},
+        {"q": "Where does this exact five-precept formula already appear in full in this collection?",
+         "opts": [
+             "AN 5.145, stated without naming a specific class of person",
+             "Nowhere else in this collection",
+             "AN 5.1",
+             "AN 5.224"],
+         "correct": 0,
+         "expl": "There general; here addressed specifically to a monk."},
+        {"q": "What five precepts does this discourse name, in their violated form?",
+         "opts": [
+             "Killing, stealing, sexual activity, lying, and consuming intoxicants",
+             "The five hindrances",
+             "The five kinds of stinginess",
+             "The four biases"],
+         "correct": 0,
+         "expl": "The classic pañcasīla, in negative form."},
+        {"q": "What audience does this discourse specifically address?",
+         "opts": [
+             "A monk (bhikkhu)",
+             "A layperson only",
+             "A rival ascetic",
+             "No specific audience is named"],
+         "correct": 0,
+         "expl": "The first entry in this chapter's lengthening catalog of persons."},
+        {"q": "What verdict formula closes each half of this discourse?",
+         "opts": [
+             "'Placed as if delivered there' (yathābhataṁ nikkhitto)",
+             "'Given up and cut out' (pahānāya samucchedāya)",
+             "'Endowed with five qualities' only, with no verdict",
+             "A verdict formula unique to this discourse alone"],
+         "correct": 0,
+         "expl": "Already tracked since AN 5.173, and already paired with this content at AN 5.145."},
+        {"q": "How does 'abrahmacariyā', used here for a monk, differ from wording used elsewhere in this chapter?",
+         "opts": [
+             "It covers any sexual activity at all, not the narrower 'sexual misconduct' used for lay followers",
+             "It means the exact opposite of sexual activity",
+             "There is no difference in wording anywhere in this chapter",
+             "It refers only to non-sexual physical contact"],
+         "correct": 0,
+         "expl": "Reflecting a monk's full celibate vows, distinct from lay-follower wording."},
+        {"q": "What six further categories does AN 5.287&ndash;292 extend this formula to?",
+         "opts": [
+             "Nuns, trainee nuns, novice monks, novice nuns, laymen, and laywomen",
+             "Six different rival ascetic sects",
+             "Six different animals",
+             "Six kinds of stinginess"],
+         "correct": 0,
+         "expl": "Community-internal categories, both monastic and lay."},
+        {"q": "How is AN 5.287&ndash;292 represented in bilara-data?",
+         "opts": [
+             "As a single merged file, not six individual files",
+             "As six fully separate individual files",
+             "These sutta-numbers do not exist in bilara-data at all",
+             "As part of AN 5.286's own file"],
+         "correct": 0,
+         "expl": "Matching the merged-page convention already used earlier in this book."},
+        {"q": "What does 'pañcasīla' mean?",
+         "opts": [
+             "'The five precepts' — the formula this discourse restates for a monk",
+             "'The five hindrances'",
+             "'The four noble truths'",
+             "'The three trainings'"],
+         "correct": 0,
+         "expl": "Likely the single most widely known ethical formula in the tradition."},
+        {"q": "How is this discourse's overall form described?",
+         "opts": [
+             "Two paired five-item lists, identical to AN 5.145's formula",
+             "A long narrative with multiple speakers",
+             "A poem in verse",
+             "A dialogue with a wanderer"],
+         "correct": 0,
+         "expl": "Restating rather than varying the content itself."},
+    ],
+    marginalia=[
+        ("A formula returning", [
+            "the five precepts,",
+            "first full at AN 5.145",
+        ]),
+        ("Named for a monk", [
+            "bhikkhu &mdash; the first",
+            "of a lengthening catalog",
+        ]),
+        ("The familiar verdict", [
+            "yathābhataṁ nikkhitto &mdash;",
+            "hell, then heaven",
+        ]),
+        ("A catalog begins", [
+            "monastics, then lay followers,",
+            "then rival ascetics",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.286/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.145.html">AN 5.145 &middot; Hell</a> &mdash; this identical formula&rsquo;s '
+        "original, general statement.",
+        '<a href="an-5.173.html">AN 5.173 &middot; A Trainer of Elephants</a> &mdash; the '
+        "'placed as if delivered there' image's first appearance in this project.",
+        '<a href="an-5.287-292.html">AN 5.287&ndash;292 &middot; A Nun, and So On</a> &mdash; '
+        "next, the identical formula extended to six further categories.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.287–292 — Bhikkhunīsuttādi (merged page)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.287-292",
+    "index_pali": "Bhikkhunīsuttādi",
+    "nav_title": "A Nun, and So On",
+    "source": "an5/an5.287-292",
+    "crumb": "AN 5.287&ndash;292",
+    "meta_title": "AN 5.287–292 — A Nun, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for six discourses "
+        "compressed into one: AN 5.286's five-precept formula, extended across six "
+        "categories of the fourfold assembly and its trainees. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.287&ndash;292",
+    "title": "A Nun, and So On",
+    "subtitle": "<em>Bhikkhunīsuttādi</em> &mdash; a merged page, continuing the "
+                "twenty-eighth chapter of the Fives",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "the same paired five-item formula as AN 5.286, run across six named "
+                 "categories &mdash; representing six individually numbered discourses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, extending "
+                       "AN 5.286 across the fourfold assembly"),
+    ],
+    "why": (
+        "Six discourses stand behind one file. AN 5.286 named a monk alone; this page runs "
+        "the identical five-precept formula across a nun, a trainee nun, a novice monk, a "
+        "novice nun, a layman, and a laywoman &mdash; covering the entire fourfold assembly "
+        "of monks and nuns, laymen and laywomen, plus the two intermediate trainee stages "
+        "specific to women's ordination."),
+    "guide": [
+        ("The teaching, run across six categories", [
+            "The identical five precepts from <a href=\"an-5.286.html\">AN 5.286</a> &mdash; "
+            "not killing, stealing, engaging in sexual misconduct, lying, or consuming "
+            "intoxicants &mdash; restated once for each of six categories: nun, trainee nun, "
+            "novice monk, novice nun, layman, and laywoman."]),
+        ("The fourfold assembly, plus two trainee stages", [
+            "Together with AN 5.286's monk, this page's six categories complete the standard "
+            "fourfold assembly of the tradition &mdash; monks, nuns, laymen, laywomen &mdash; "
+            "and add the two intermediate ordination stages specific to women training toward "
+            "full ordination: novice nun and probationary trainee nun (<em>sikkhamānā</em>), "
+            "a stage with no exact male equivalent in this formula."]),
+        ("One term change for lay and female-monastic categories", [
+            "Where AN 5.286 used <em>abrahmacārī</em>, covering any sexual activity at all "
+            "under a monk's full celibate vows, this page's categories use "
+            "<em>kāmesumicchācārinī</em>, &lsquo;sexual misconduct&rsquo; specifically &mdash; "
+            "the narrower standard appropriate to those not bound by full monastic celibacy."]),
+        ("The source's own compression, and this page's choice", [
+            "The Pali source states the formula in full only for the final category, "
+            "laywoman, eliding the preceding five with its peyyāla mark; this page's English "
+            "text follows Sujato's translation, which likewise gives the explicit wording only "
+            "for laywoman while naming all six categories in the discourse's opening line."]),
+        ("What follows", [
+            "AN 5.293 turns outside the Buddhist community entirely, to an Ājīvaka ascetic "
+            "&mdash; and, notably, states only the hell half of the formula, with no matching "
+            "heaven statement."]),
+    ],
+    "terms": [
+        ("bhikkhunī, sikkhamānā",
+         "nun, and probationary trainee nun &mdash; the intermediate ordination stage "
+         "specific to women, with no exact male equivalent in this formula."),
+        ("sāmaṇera, sāmaṇerī",
+         "novice monk and novice nun &mdash; the junior monastic categories this page adds."),
+        ("upāsaka, upāsikā",
+         "layman and laywoman &mdash; completing the fourfold assembly alongside monk and "
+         "nun."),
+        ("kāmesumicchācārinī",
+         "&ldquo;sexual misconduct&rdquo; &mdash; the narrower standard used for these six "
+         "categories, distinct from a fully ordained monk's <em>abrahmacārī</em>."),
+        ("yathābhataṁ nikkhittā",
+         "&ldquo;placed as if delivered there&rdquo;, in feminine grammatical form &mdash; the "
+         "same verdict image as AN 5.286, agreeing with the female subjects this page "
+         "explicitly states in full."),
+    ],
+    "text_intro": (
+        "The formula as the source states it: the six categories named, with laywoman given "
+        "in explicit full wording. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six categories that lead to hell"),
+        ("p", "&sect;1", "an5.287-292:1.1-1.4"),
+        ("h3", "Six categories that lead to heaven"),
+        ("p", "&sect;2", "an5.287-292:2.1-2.4"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this one page represent?",
+         "opts": [
+             "Six: AN 5.287 through AN 5.292",
+             "One",
+             "Nine",
+             "Seventeen"],
+         "correct": 0,
+         "expl": "Confirmed by the six categories named in the discourse's opening line."},
+        {"q": "What six categories does this page cover?",
+         "opts": [
+             "Nun, trainee nun, novice monk, novice nun, layman, and laywoman",
+             "Six different rival ascetic sects",
+             "Six kinds of stinginess",
+             "Six named individual disciples"],
+         "correct": 0,
+         "expl": "Together with AN 5.286's monk, completing the fourfold assembly plus two trainee stages."},
+        {"q": "What does 'sikkhamānā' name, and what does the guide note about it?",
+         "opts": [
+             "A probationary trainee nun, an intermediate ordination stage with no exact male equivalent in this formula",
+             "A fully ordained nun with no distinguishing features",
+             "A synonym for 'upāsikā', laywoman",
+             "A term unrelated to ordination"],
+         "correct": 0,
+         "expl": "One of the two women-specific trainee stages this page adds to AN 5.286's single category."},
+        {"q": "What term change distinguishes this page's formula from AN 5.286's?",
+         "opts": [
+             "'Kāmesumicchācārinī' (sexual misconduct) replaces AN 5.286's 'abrahmacārī' (any sexual activity)",
+             "The five precepts are entirely different",
+             "No change at all occurs anywhere",
+             "The hell/heaven verdict formula is dropped entirely"],
+         "correct": 0,
+         "expl": "Reflecting the narrower standard for those not bound by full monastic celibacy."},
+        {"q": "How does the Pali source state this six-category formula?",
+         "opts": [
+             "In full only for the final category, laywoman, eliding the rest with its peyyāla mark",
+             "In full for every one of the six categories separately",
+             "It omits all six categories entirely",
+             "Only in verse form"],
+         "correct": 0,
+         "expl": "This page's English follows Sujato's translation, matching that same compression."},
+        {"q": "What does AN 5.293 do differently from this page and AN 5.286?",
+         "opts": [
+             "States only the hell half of the formula, with no matching heaven statement",
+             "States only the heaven half, with no hell statement",
+             "Uses an entirely unrelated formula",
+             "Adds a sixth precept not found elsewhere"],
+         "correct": 0,
+         "expl": "Turning outside the Buddhist community to an Ājīvaka ascetic, next in this chapter."},
+        {"q": "What four groups make up the traditional 'fourfold assembly' this page helps complete?",
+         "opts": [
+             "Monks, nuns, laymen, and laywomen",
+             "Kings, ministers, brahmins, and merchants",
+             "Stream-enterers, once-returners, non-returners, and arahants",
+             "Teachers, students, parents, and children"],
+         "correct": 0,
+         "expl": "Together with AN 5.286's monk, this page's six categories cover it, plus two additional trainee stages."},
+        {"q": "What verdict image closes each half of this page's formula?",
+         "opts": [
+             "'Placed as if delivered there' (yathābhataṁ nikkhittā), in feminine grammatical form",
+             "A verdict formula unique to this page alone",
+             "No verdict formula is used",
+             "'Given up and cut out'"],
+         "correct": 0,
+         "expl": "The same image as AN 5.286, agreeing grammatically with the female subjects stated in full."},
+        {"q": "How is AN 5.287 through AN 5.292 represented in bilara-data?",
+         "opts": [
+             "As a single merged file, not six individual files",
+             "As six fully separate individual files",
+             "These sutta-numbers do not exist in bilara-data at all",
+             "As part of AN 5.286's own file"],
+         "correct": 0,
+         "expl": "The source's own compression, followed here exactly."},
+        {"q": "What five precepts does this page's formula name, in violated form?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and consuming intoxicants",
+             "The five hindrances",
+             "The four biases",
+             "The five kinds of stinginess"],
+         "correct": 0,
+         "expl": "Identical in substance to AN 5.286 and AN 5.145, with one term adjusted."},
+    ],
+    "marginalia": [
+        ("Six categories, one file", [
+            "AN 5.287&ndash;292,",
+            "a single bilara-data source",
+        ]),
+        ("The fourfold assembly, completed", [
+            "nun, trainee nun,",
+            "novice monk, novice nun,",
+        ]),
+        ("Plus layman and laywoman", [
+            "completing all four groups",
+            "monk, nun, layman, laywoman",
+        ]),
+        ("One term adjusted", [
+            "misconduct, not any sexual activity",
+            "&mdash; the standard for these six",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.287-292/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.286.html">AN 5.286 &middot; A Monk</a> &mdash; the previous discourse, '
+        "and this identical formula's first category.",
+        '<a href="an-5.145.html">AN 5.145 &middot; Hell</a> &mdash; the five precepts&rsquo; '
+        "original, general statement.",
+        '<a href="an-5.293.html">AN 5.293 &middot; An Ājīvaka</a> &mdash; next, the same '
+        "formula turned outside the Buddhist community, with only its hell half stated.",
+    ],
+})
+
+# --------------------------------------------------------------------------- #
+# AN 5.293 — Ājīvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    293, "Ājīvaka", "An Ājīvaka",
+    vagga=VAGGA_28,
+    meta_title="AN 5.293 — An Ājīvaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ājīvakasutta — the "
+        "same five precepts, now addressed to a rival ascetic outside the Buddhist "
+        "community, with only the hell half of the formula stated. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list leading to hell; no matching heaven statement is "
+                 "given"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, and notably "
+                       "asymmetric compared to AN 5.286&ndash;292"),
+    ],
+    why=(
+        "The identical five precepts, now addressed to an <em>Ājīvaka</em>, a member of a "
+        "rival ascetic movement contemporary with early Buddhism. What changes is not the "
+        "content but the shape: where AN 5.286&ndash;292 each paired a hell statement with a "
+        "matching heaven statement for every category, this discourse states only the hell "
+        "half. No positive counterpart is given for an Ājīvaka who keeps these five "
+        "precepts."),
+    guide=[
+        ("The same formula, one audience further", [
+            "Killing living creatures, stealing, having sex, lying, and consuming intoxicants "
+            "&mdash; the identical five precepts already run across <a href=\"an-5.286.html\">"
+            "AN 5.286</a> and <a href=\"an-5.287-292.html\">AN 5.287&ndash;292</a>, now stated "
+            "for an Ājīvaka, a wanderer belonging to a specific non-Buddhist ascetic movement "
+            "of the period."]),
+        ("An asymmetry worth stating plainly", [
+            "Every discourse in this chapter so far has paired a hell verdict with an "
+            "identically structured heaven verdict for the same category. This discourse "
+            "breaks that pattern: only the hell half is given, in bilara-data's own text, "
+            "with no corresponding heaven statement anywhere in the file for this "
+            "sutta-number."]),
+        ("What this discourse does not claim", [
+            "This is not the same as a claim that no Ājīvaka who avoids these five faults goes "
+            "to heaven; the text simply does not address that case here. This reading guide "
+            "states the asymmetry as the source presents it, without supplying a heaven "
+            "statement the text itself does not give."]),
+        ("A pattern that continues immediately", [
+            "AN 5.294&ndash;302, the merged page that follows, repeats this same one-sided "
+            "structure across nine further named rival ascetic and wanderer groups &mdash; "
+            "every one of them stated only in hell-bound form."]),
+        ("What follows", [
+            "AN 5.294&ndash;302 closes this chapter with the identical formula run across "
+            "nine more named outsider groups, in the source's own heavily compressed, "
+            "peyyāla-marked form."]),
+    ],
+    terms=[
+        ("Ājīvaka",
+         "a member of a specific non-Buddhist ascetic movement contemporary with early "
+         "Buddhism, distinct from the Jain and wanderer groups named at AN 5.294&ndash;302."),
+        ("pāṇātipātī, adinnādāyī, abrahmacārī, musāvādī, surāmerayamajjapamādaṭṭhāyī",
+         "kills living creatures, steals, has sex, lies, and consumes intoxicants &mdash; the "
+         "identical five-item formula carried over unchanged."),
+        ("yathābhataṁ nikkhitto",
+         "&ldquo;placed as if delivered there&rdquo; &mdash; here applied only to the hell "
+         "half of the formula, with no matching heaven statement in this discourse."),
+        ("bhikkhave",
+         "&ldquo;mendicants&rdquo; &mdash; the discourse's stated audience remains the "
+         "Buddhist community, even while its subject is an outsider ascetic."),
+        ("pañcasīla",
+         "&ldquo;the five precepts&rdquo; &mdash; unchanged in content from AN 5.145 and AN "
+         "5.286&ndash;292, applied here without a positive counterpart."),
+    ],
+    text_intro=(
+        "The discourse in full, exactly as the source gives it: only the hell half of the "
+        "formula. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities that lead to hell"),
+        ("p", "&sect;1", "an5.293:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse specifically addressed to as its subject?",
+         "opts": [
+             "An Ājīvaka, a member of a specific non-Buddhist rival ascetic movement",
+             "A Buddhist monk",
+             "A Buddhist laywoman",
+             "A Jain ascetic"],
+         "correct": 0,
+         "expl": "Distinct from the Jain and other wanderer groups named at AN 5.294&ndash;302."},
+        {"q": "What structural change distinguishes this discourse from AN 5.286&ndash;292?",
+         "opts": [
+             "Only the hell half of the formula is stated, with no matching heaven statement",
+             "It uses an entirely different five-item formula",
+             "It adds a sixth precept not found elsewhere",
+             "It states only the heaven half, with no hell statement"],
+         "correct": 0,
+         "expl": "Every prior discourse in this chapter paired both halves; this one breaks that pattern."},
+        {"q": "What five precepts does this discourse name, unchanged from earlier in this chapter?",
+         "opts": [
+             "Killing, stealing, sexual activity, lying, and consuming intoxicants",
+             "The five hindrances",
+             "The four biases",
+             "An entirely new set of precepts"],
+         "correct": 0,
+         "expl": "Identical content to AN 5.286 and AN 5.287&ndash;292."},
+        {"q": "What does the guide explicitly say this discourse's asymmetry does NOT claim?",
+         "opts": [
+             "That no Ājīvaka who avoids these five faults goes to heaven — the text simply does not address that case",
+             "That every Ājīvaka is condemned regardless of conduct",
+             "That the five precepts apply only to Buddhists",
+             "That Ājīvakas cannot be reborn at all"],
+         "correct": 0,
+         "expl": "The guide states the asymmetry as the source presents it, without inventing a missing statement."},
+        {"q": "What continues this same one-sided pattern immediately afterward?",
+         "opts": [
+             "AN 5.294&ndash;302, applying it to nine further named outsider groups",
+             "No further discourse repeats this pattern",
+             "AN 5.287&ndash;292, already covered",
+             "A return to the paired hell/heaven structure at the very next discourse"],
+         "correct": 0,
+         "expl": "Every one of the nine groups at AN 5.294&ndash;302 is likewise stated only in hell-bound form."},
+        {"q": "Who does the discourse's grammatical audience, 'bhikkhave', remain, even though its subject is an outsider?",
+         "opts": [
+             "The Buddhist mendicant community",
+             "The Ājīvaka ascetics themselves, addressed directly",
+             "Laypeople of all traditions",
+             "No audience is specified at all"],
+         "correct": 0,
+         "expl": "The Buddha addresses his own community about a group outside it."},
+        {"q": "What verdict image does this discourse use for its stated hell outcome?",
+         "opts": [
+             "'Placed as if delivered there' (yathābhataṁ nikkhitto)",
+             "'Given up and cut out'",
+             "'Endowed with five qualities', with no verdict image",
+             "A unique image not used elsewhere in this chapter"],
+         "correct": 0,
+         "expl": "The same image already used at AN 5.286 and AN 5.287&ndash;292 for both halves."},
+        {"q": "How does this discourse's form compare to AN 5.286's?",
+         "opts": [
+             "Half the length: a single five-item list leading to hell, with no positive pairing",
+             "Identical in every respect, including a full heaven statement",
+             "Entirely unrelated in structure",
+             "Longer, with additional qualifications"],
+         "correct": 0,
+         "expl": "AN 5.286 paired hell and heaven statements; this discourse gives only one."},
+        {"q": "What does 'pañcasīla' mean?",
+         "opts": [
+             "'The five precepts'",
+             "'The five hindrances'",
+             "'The four biases'",
+             "'The three trainings'"],
+         "correct": 0,
+         "expl": "The formula's standard name, unchanged in content throughout this chapter."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Sikkhāpadapeyyāla",
+             "Sammutipeyyāla",
+             "Rāgapeyyāla",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "The twenty-eighth chapter of the Fives, now extending outside the Buddhist community."},
+    ],
+    marginalia=[
+        ("The same formula, once more", [
+            "the five precepts,",
+            "unchanged in content",
+        ]),
+        ("An asymmetry, stated plainly", [
+            "hell half given;",
+            "no heaven statement follows",
+        ]),
+        ("What the text doesn't claim", [
+            "not stated: no path",
+            "to heaven for this group",
+        ]),
+        ("A pattern continuing", [
+            "nine more outsider groups,",
+            "all hell-only, next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.293/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.287-292.html">AN 5.287&ndash;292 &middot; A Nun, and So On</a> &mdash; '
+        "the previous page, where every category received both a hell and a heaven statement.",
+        '<a href="an-5.145.html">AN 5.145 &middot; Hell</a> &mdash; this shared formula&rsquo;s '
+        "original, general statement.",
+        '<a href="an-5.294-302.html">AN 5.294&ndash;302 &middot; A Jain Ascetic, and So '
+        "On</a> &mdash; next, this same hell-only pattern across nine further outsider "
+        "groups, closing this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.294–302 — Nigaṇṭhasuttādi (merged page, closes the chapter)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-5.294-302",
+    "index_pali": "Nigaṇṭhasuttādi",
+    "nav_title": "A Jain Ascetic, and So On",
+    "source": "an5/an5.294-302",
+    "crumb": "AN 5.294&ndash;302",
+    "meta_title": "AN 5.294–302 — A Jain Ascetic, and So On | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for nine discourses "
+        "compressed into one, closing the Sikkhāpadapeyyāla — the same five precepts, run "
+        "hell-only across nine named rival ascetic and wanderer groups. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 5.294&ndash;302",
+    "title": "A Jain Ascetic, and So On",
+    "subtitle": "<em>Nigaṇṭhasuttādi</em> &mdash; a merged page, closing the twenty-eighth "
+                "chapter of the Fives",
+    "glance": [
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list leading to hell, run across nine named outsider "
+                 "groups &mdash; representing nine individually numbered discourses; no "
+                 "heaven statement is given for any of them"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, closing this "
+                       "chapter and continuing AN 5.293's asymmetric pattern"),
+    ],
+    "why": (
+        "Nine discourses stand behind one file, closing this chapter. AN 5.293 stated the "
+        "hell-only pattern for a single outsider group, the Ājīvakas; this page runs the "
+        "identical five precepts across nine further named groups &mdash; Jain ascetics, "
+        "disciples of the shavelings, matted-hair ascetics, wanderers generally, followers of "
+        "Māgaṇḍiya, trident-bearing ascetics, followers of the unobstructed, followers of "
+        "Gotama, and performers of rituals for the gods &mdash; every one of them stated only "
+        "in hell-bound form, with no matching heaven statement anywhere in the file."),
+    "guide": [
+        ("Nine outsider groups, one formula", [
+            "The identical five precepts from AN 5.286&ndash;293 &mdash; killing, stealing, "
+            "sexual misconduct, lying, consuming intoxicants &mdash; run once each across "
+            "nine named non-Buddhist groups current in the period: Jain ascetics "
+            "(<em>nigaṇṭha</em>), disciples of the shavelings, matted-hair ascetics, "
+            "wanderers generally (<em>paribbājaka</em>), followers of Māgaṇḍiya, "
+            "trident-bearing ascetics, followers of the unobstructed, followers of Gotama, and "
+            "performers of rituals for the gods."]),
+        ("The asymmetry, continued at scale", [
+            "Every one of these nine groups receives only the hell half of the formula, "
+            "exactly as AN 5.293 gave for the Ājīvakas alone. No heaven statement appears for "
+            "any of the nine categories in bilara-data's file for this stretch."]),
+        ("An identity worth flagging honestly", [
+            "&lsquo;Followers of Gotama&rsquo; (<em>gotamako</em>) appears in this very list "
+            "of outsider groups. &lsquo;Gotama&rsquo; was the Buddha's own clan name, and this "
+            "reading guide does not have a confident resolution for whether this item names a "
+            "rival splinter group that took his name, a different teacher also called Gotama, "
+            "or something else; it is recorded as a genuine puzzle rather than smoothed into "
+            "false certainty."]),
+        ("What this page does not claim", [
+            "As with AN 5.293, the absence of a heaven statement for these nine groups is not "
+            "the same as an explicit denial that any of their members reach a good rebirth; "
+            "the source simply does not state that case here, and this reading guide does not "
+            "supply text the source withholds."]),
+        ("The chapter's own closing count", [
+            "The colophon closing this file gives the ordinal <em>Sattarasamaṁ</em>, "
+            "&lsquo;the seventeenth&rsquo; &mdash; the total discourse count of this chapter "
+            "from AN 5.286 through this page's final sutta-number, one plus six plus one plus "
+            "nine, and closes immediately with <em>Sikkhāpadapeyyālaṁ niṭṭhitaṁ</em>, "
+            "&lsquo;the Sikkhāpadapeyyāla is finished&rsquo;."]),
+        ("What follows", [
+            "AN 5.303 opens the Rāgapeyyāla, this book's twenty-ninth and final chapter, "
+            "already flagged as containing the single largest merged page in this entire "
+            "project: an5.308-1152, covering eight hundred forty-five discourses at once."]),
+    ],
+    "terms": [
+        ("nigaṇṭha, jaṭilaka, paribbājaka",
+         "Jain ascetic, matted-hair ascetic, and wanderer &mdash; three of the nine outsider "
+         "groups named on this page."),
+        ("gotamako",
+         "&ldquo;follower of Gotama&rdquo; &mdash; an item this guide flags as a genuine, "
+         "unresolved puzzle, given that Gotama was the Buddha's own clan name."),
+        ("devadhammiko",
+         "&ldquo;performer of rituals for the gods&rdquo; &mdash; the ninth and final group "
+         "named, closing the list."),
+        ("Sattarasamaṁ",
+         "&ldquo;the seventeenth&rdquo; &mdash; the closing colophon's running count for this "
+         "entire chapter, AN 5.286 through this page's final discourse."),
+        ("Sikkhāpadapeyyālaṁ niṭṭhitaṁ",
+         "&ldquo;the Sikkhāpadapeyyāla is finished&rdquo; &mdash; the colophon closing this "
+         "chapter, immediately after the count."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: nine outsider groups, each stated "
+        "only in hell-bound form. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine outsider groups, all hell-bound"),
+        ("p", "&sect;1", "an5.294-302:1.1-1.4"),
+    ],
+    "quiz": [
+        {"q": "How many individually numbered discourses does this one page represent?",
+         "opts": [
+             "Nine: AN 5.294 through AN 5.302",
+             "One",
+             "Seventeen",
+             "Six"],
+         "correct": 0,
+         "expl": "Confirmed by the nine groups named in the discourse's opening line."},
+        {"q": "What nine groups does this page name?",
+         "opts": [
+             "Jain ascetics, disciples of the shavelings, matted-hair ascetics, wanderers, followers of Māgaṇḍiya, trident-bearing ascetics, followers of the unobstructed, followers of Gotama, and performers of rituals for the gods",
+             "Nine named individual disciples of the Buddha",
+             "Nine Buddhist monastic offices",
+             "Nine kinds of stinginess"],
+         "correct": 0,
+         "expl": "Non-Buddhist ascetic and wanderer groups current in the period."},
+        {"q": "What structural pattern does this page continue from AN 5.293?",
+         "opts": [
+             "Only the hell half of the formula is stated, with no heaven statement for any of the nine groups",
+             "Both hell and heaven statements are given for every group",
+             "Only the heaven half is stated",
+             "No verdict formula is used at all"],
+         "correct": 0,
+         "expl": "Extending AN 5.293's single-group asymmetry across nine further groups."},
+        {"q": "What genuine puzzle does the guide flag about 'gotamako', 'follower of Gotama'?",
+         "opts": [
+             "Whether it names a rival splinter group, a different teacher also called Gotama, or something else — left unresolved rather than smoothed into false certainty",
+             "No puzzle exists; the guide asserts a confident, single answer",
+             "It obviously refers to the Buddha's own direct disciples",
+             "The term does not appear anywhere in the source"],
+         "correct": 0,
+         "expl": "Gotama was the Buddha's own clan name, making this item's identity genuinely unclear."},
+        {"q": "What does the guide explicitly say this page's hell-only pattern does NOT claim?",
+         "opts": [
+             "An explicit denial that any member of these nine groups reaches a good rebirth",
+             "That any of these nine groups actually exist historically",
+             "That the five precepts apply to Buddhists only",
+             "That these nine groups are identical to each other"],
+         "correct": 0,
+         "expl": "The source simply does not state the heaven case; the guide does not invent it."},
+        {"q": "What does the closing colophon 'Sattarasamaṁ' confirm?",
+         "opts": [
+             "'The seventeenth' — this chapter's total discourse count, AN 5.286 through this page's final sutta-number",
+             "The total number of chapters in the Fives",
+             "Nothing verifiable",
+             "The number of outsider groups named on this page alone"],
+         "correct": 0,
+         "expl": "One (AN 5.286) plus six (287-292) plus one (293) plus nine (294-302) equals seventeen."},
+        {"q": "What does 'Sikkhāpadapeyyālaṁ niṭṭhitaṁ' announce?",
+         "opts": [
+             "That this entire chapter, the Sikkhāpadapeyyāla, is finished",
+             "That the entire Book of the Fives is finished",
+             "That only this single page is finished, with more of the chapter still ahead",
+             "Nothing; it is untranslatable"],
+         "correct": 0,
+         "expl": "Immediately following the chapter's own discourse-count colophon."},
+        {"q": "What chapter opens next, after this page closes the Sikkhāpadapeyyāla?",
+         "opts": [
+             "The Rāgapeyyāla, already flagged as containing this project's single largest merged page",
+             "A return to the Sammutipeyyāla",
+             "The Upasampadāvagga",
+             "No further chapter follows in the Fives"],
+         "correct": 0,
+         "expl": "AN 5.303, this book's twenty-ninth and final chapter."},
+        {"q": "How is AN 5.294 through AN 5.302 represented in bilara-data?",
+         "opts": [
+             "As a single merged file, not nine individual files",
+             "As nine fully separate individual files",
+             "These sutta-numbers do not exist in bilara-data at all",
+             "As part of AN 5.293's own file"],
+         "correct": 0,
+         "expl": "The source's own compression, followed here exactly."},
+        {"q": "What five precepts does this page's formula name, unchanged from earlier in this chapter?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and consuming intoxicants",
+             "The five hindrances",
+             "The four biases",
+             "An entirely new set introduced only for outsiders"],
+         "correct": 0,
+         "expl": "Identical content throughout this entire chapter, applied to progressively wider audiences."},
+    ],
+    "marginalia": [
+        ("Nine groups, one file", [
+            "AN 5.294&ndash;302,",
+            "a single bilara-data source",
+        ]),
+        ("Hell-only, at scale", [
+            "no heaven statement",
+            "for any of the nine",
+        ]),
+        ("A name worth pausing on", [
+            "'follower of Gotama' &mdash;",
+            "identity left genuinely open",
+        ]),
+        ("The chapter's own count", [
+            "Sattarasamaṁ &mdash;",
+            "seventeen, confirmed",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an5.294-302/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.293.html">AN 5.293 &middot; An Ājīvaka</a> &mdash; the previous '
+        "discourse, and this same hell-only pattern's first single-group appearance.",
+        '<a href="an-5.286.html">AN 5.286 &middot; A Monk</a> &mdash; this '
+        "chapter&rsquo;s opening discourse, and this shared formula&rsquo;s first, fully "
+        "paired statement.",
+        '<a href="an-5.257-263.html">AN 5.257&ndash;263 &middot; The Second Absorption, and '
+        "So On</a> &mdash; an earlier merged page in this book, the same convention at a "
+        "comparable scale.",
+    ],
+})
