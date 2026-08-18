@@ -3255,3 +3255,1907 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# Chapter 3 — Vajjisattakavagga (AN 7.21–31)
+# --------------------------------------------------------------------------- #
+VAGGA_3 = "<em>Vajjisattakavagga</em> &mdash; the third chapter of the Sevens"
+SETTING_VESALI = "Vesālī, at the Sārandada Shrine; stated at the head of AN 7.21"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.21 — Sārandadasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, "Sārandada", "At the Sārandada Shrine",
+    vagga=VAGGA_3,
+    meta_title="AN 7.21 — At the Sārandada Shrine | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sārandadasutta, in which the Buddha teaches the Licchavis of Vesālī the seven "
+        "principles that prevent the Vajjian confederacy's decline — one of this "
+        "collection's most historically significant discourses. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_VESALI),
+        ("Speakers", "The Buddha, addressing several Licchavis of the Vajjian confederacy"),
+        ("Form", "A full narrative frame opening a chapter, followed by seven political "
+                 "and communal principles stated in sequence"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "This teaching's companion narrative recurs at the opening of "
+                              "the Mahāparinibbāna-sutta tradition across both Pāli and "
+                              "Chinese Āgama versions of the Buddha's final journey; this "
+                              "reading guide does not assert a specific matching sutra "
+                              "number for this particular discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; historically and "
+                       "politically significant content, addressed to a specific "
+                       "confederacy rather than to mendicants"),
+    ],
+    why=(
+        "AN 7.21 opens this chapter with one of this collection's most historically "
+        "resonant teachings: seven principles that, as long as the Vajjis follow them, "
+        "guarantee the confederacy's growth rather than decline &mdash; frequent "
+        "assembly, harmony in meeting and acting, respect for established tradition and "
+        "elders, protection of women from abduction, proper maintenance of shrines, and "
+        "hospitality toward holy people. This same teaching, and its narrative "
+        "consequences, opens the traditional account of the Buddha's final journey."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as the Vajjis meet frequently, act in harmony, uphold their ancient "
+            "traditions, honor their elders, protect their women from abduction, maintain "
+            "their shrines properly, and shelter holy people, they can expect growth, not "
+            "decline."]),
+        ("A political teaching, not a monastic one", [
+            "Unlike almost every other discourse in this collection, this teaching is "
+            "addressed not to mendicants but to the Licchavis, a ruling clan within the "
+            "Vajjian confederacy &mdash; a rare instance of the Buddha offering direct "
+            "counsel on the durability of a political community rather than a spiritual "
+            "one."]),
+        ("Seven principles spanning governance, tradition, and protection", [
+            "The list moves through distinct registers: procedural (frequent, harmonious "
+            "assembly), legal (not altering established decrees), social (honoring "
+            "elders), specifically protective (not abducting women), religious (maintaining "
+            "shrines and their offerings), and hospitable (sheltering perfected ones) "
+            "&mdash; a comprehensive account of what holds a community together across "
+            "several distinct dimensions at once."]),
+        ("The narrative this teaching opens", [
+            "This discourse's teaching becomes the pivot of a story continued at AN 7.22: "
+            "King Ajātasattu of Magadha, planning to invade the Vajjis, sends his minister "
+            "to learn whether they still follow these seven principles &mdash; the "
+            "Buddha's answer determining, in the traditional account, whether that "
+            "invasion could succeed by force alone."]),
+    ],
+    terms=[
+        ("Licchavi",
+         "one of the ruling clans of the Vajjian confederacy, centered at Vesālī, the "
+         "discourse's addressees."),
+        ("aparihāniyā dhammā",
+         "&ldquo;principles that prevent decline&rdquo; &mdash; this teaching's own name "
+         "for its seven items, recurring as this chapter's central organizing theme "
+         "across several further discourses."),
+        ("porāṇaṁ vajjidhammaṁ",
+         "&ldquo;the ancient Vajjian tradition&rdquo; &mdash; what the third principle "
+         "instructs the Vajjis to uphold without addition or removal."),
+        ("vajjicetiyāni",
+         "&ldquo;Vajjian shrines&rdquo; &mdash; both inner and outer, whose proper "
+         "maintenance and traditional offerings the sixth principle addresses."),
+        ("arahant",
+         "&ldquo;perfected one&rdquo; &mdash; the holy people the seventh principle "
+         "instructs the Vajjis to shelter and protect, so that more might come and those "
+         "already present might live in comfort."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven principles that prevent the Vajjian "
+        "confederacy's decline. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the Buddha's introduction"),
+        ("p", "&sect;1", "an7.21:1.1-1.7"),
+        ("h3", "The seven principles, in sequence"),
+        ("p", "&sect;2", "an7.21:2.1-8.3"),
+        ("h3", "The closing summary"),
+        ("p", "&sect;3", "an7.21:9.1-9.2"),
+    ],
+    quiz=[
+        {"q": "Who does the Buddha address this teaching to, unlike almost every other "
+              "discourse in this collection?",
+         "opts": [
+             "A group of mendicants at Jeta's Grove",
+             "The Licchavis, a ruling clan of the Vajjian confederacy",
+             "A group of deities",
+             "A single wealthy householder"],
+         "correct": 1,
+         "expl": "A rare instance of political rather than monastic counsel."},
+        {"q": "What is the first of the seven principles named?",
+         "opts": [
+             "Not abducting women or girls",
+             "Meeting frequently and having many meetings",
+             "Maintaining shrines properly",
+             "Sheltering perfected ones"],
+         "correct": 1,
+         "expl": "A procedural principle opening the list."},
+        {"q": "What does the guide say the seven principles span, taken together?",
+         "opts": [
+             "Only religious ritual",
+             "Several distinct registers — procedural, legal, social, protective, "
+             "religious, and hospitable — a comprehensive account of communal durability",
+             "Only military strategy",
+             "Only economic policy"],
+         "correct": 1,
+         "expl": "A multi-dimensional account of what holds a community together."},
+        {"q": "What narrative does this discourse's teaching open, according to the guide?",
+         "opts": [
+             "No further narrative connects to this discourse",
+             "AN 7.22, where King Ajātasattu of Magadha, planning to invade the Vajjis, "
+             "sends a minister to learn whether they still follow these principles",
+             "A story about a different confederacy entirely",
+             "A dispute among the mendicants"],
+         "correct": 1,
+         "expl": "The teaching's political stakes made explicit in the discourse "
+                 "immediately following."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Sārandada Shrine",
+             "Sāvatthī, in Jeta's Grove",
+             "Kapilavatthu"],
+         "correct": 1,
+         "expl": "The setting stated at the head of this discourse and this chapter."},
+        {"q": "What does the fifth principle specifically protect?",
+         "opts": [
+             "Property boundaries",
+             "Women and girls of the clans, from forcible abduction",
+             "Trade agreements",
+             "Royal succession"],
+         "correct": 1,
+         "expl": "A specifically protective principle among the seven."},
+    ],
+    marginalia=[
+        ("Seven principles of the Vajjis", [
+            "frequent assembly &middot;",
+            "harmony &middot; tradition &middot;",
+            "elders &middot; protection &middot; shrines &middot; hospitality",
+        ]),
+        ("Political, not monastic", [
+            "addressed to the",
+            "Licchavis directly —",
+            "rare in this collection",
+        ]),
+        ("Opening a famous narrative", [
+            "the same teaching opens",
+            "the traditional account",
+            "of the Buddha's final journey",
+        ]),
+        ("Cross-references", [
+            "AN 7.22 &middot; next, the political stakes made explicit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.21/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.20.html">AN 7.20 &middot; Qualifications for Graduation</a> &mdash; '
+        "previous, closing the last chapter.",
+        '<a href="an-7.22.html">AN 7.22 &middot; With Vassakāra</a> &mdash; next, this '
+        "teaching's political stakes made explicit.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.22 — Vassakārasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, "Vassakāra", "With Vassakāra",
+    vagga=VAGGA_3,
+    meta_title="AN 7.22 — With Vassakāra | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vassakārasutta, in which King Ajātasattu's minister questions the Buddha before "
+        "an invasion of the Vajjis, and the Buddha confirms the seven principles of "
+        "non-decline are still followed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on Vulture's Peak Mountain; stated at the head of this "
+                    "discourse, distinct from AN 7.21's setting at Vesālī"),
+        ("Speakers", "King Ajātasattu of Magadha (reported), his minister Vassakāra, the "
+                     "Buddha, and Venerable Ānanda, confirming each principle in turn"),
+        ("Form", "A framed narrative: a king's declared intention to invade, a minister "
+                 "sent to question the Buddha, and a question-and-answer confirmation of "
+                 "AN 7.21's seven principles, restated in full"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "King Ajātasattu's planned invasion of the Vajjis and this "
+                              "exchange with the Buddha recur at the opening of the "
+                              "Mahāparinibbāna-sutta tradition across both Pāli and Chinese "
+                              "Āgama versions; this reading guide does not assert a specific "
+                              "matching sutra number for this particular discourse"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; this chapter's longest "
+                       "and most narratively developed discourse, embedding real political "
+                       "stakes in its restatement of AN 7.21's teaching"),
+    ],
+    why=(
+        "AN 7.22 gives AN 7.21's teaching genuine dramatic stakes: King Ajātasattu of "
+        "Magadha, declaring he will &ldquo;wipe out&rdquo; the Vajjis, sends his minister "
+        "Vassakāra to the Buddha under cover of a courteous greeting. Rather than "
+        "answering Vassakāra directly, the Buddha turns to Ānanda and asks, one by one, "
+        "whether each of the seven principles is still being followed &mdash; and "
+        "Vassakāra, overhearing, draws his own conclusion: the Vajjis cannot be defeated "
+        "in open war."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as the Vajjis continue following the same seven principles already "
+            "taught at AN 7.21, they can expect growth, not decline &mdash; and, as "
+            "Vassakāra himself concludes, cannot be defeated by King Ajātasattu in open "
+            "war."]),
+        ("A king's intentions, reported rather than declared to the Buddha", [
+            "Ajātasattu never appears before the Buddha directly. His threat &mdash; "
+            "&ldquo;I shall wipe out these Vajjis... lay ruin and devastation upon "
+            "them&rdquo; &mdash; reaches the Buddha only through Vassakāra's careful "
+            "relay, opened by an elaborate show of courtesy that sits uneasily beside the "
+            "violence of the message it precedes."]),
+        ("An indirect answer, addressed to Ānanda rather than to Vassakāra", [
+            "Rather than responding to Vassakāra's question directly, the Buddha turns to "
+            "Ānanda, standing behind him fanning him, and asks seven times in sequence: "
+            "&ldquo;Have you heard that the Vajjis...?&rdquo; Ānanda's simple confirmation "
+            "&mdash; &ldquo;I have heard that, sir&rdquo; &mdash; becomes the actual "
+            "vehicle for restating each principle, with Vassakāra left to draw his own "
+            "conclusion from an exchange not addressed to him at all."]),
+        ("Vassakāra's own political verdict", [
+            "The discourse's final judgment comes not from the Buddha but from "
+            "Vassakāra himself: &ldquo;If the Vajjis follow even a single one of these "
+            "principles they can expect growth, not decline. How much more so all seven! "
+            "King Ajātasattu cannot defeat the Vajjis in war, unless by bribery or by "
+            "sowing dissension.&rdquo; The discourse ends without confirming whether that "
+            "verdict held &mdash; a warning about the specific vulnerability (division "
+            "from within) that the historical record suggests Magadha eventually "
+            "exploited."]),
+    ],
+    terms=[
+        ("Ajātasattu",
+         "the king of Magadha whose declared intention to invade the Vajjis opens this "
+         "discourse, never appearing before the Buddha himself."),
+        ("Vassakāra",
+         "the brahmin chief minister of Magadha, sent to question the Buddha under cover "
+         "of a courteous royal greeting."),
+        ("aparihāniyā dhammā",
+         "&ldquo;principles that prevent decline&rdquo; &mdash; the same seven principles "
+         "given in full at AN 7.21, restated here through Ānanda's confirmations."),
+        ("mittabhedā vā upalāpanāya vā",
+         "&ldquo;by bribery or by sowing dissension&rdquo; &mdash; Vassakāra's own named "
+         "exception, the one path to victory he grants the king still remains open."),
+        ("Sārandada",
+         "the shrine near Vesālī where the Buddha names as having first taught this "
+         "teaching, referring back explicitly to AN 7.21."),
+    ],
+    text_intro=(
+        "The discourse in full: King Ajātasattu's declared intention, Vassakāra's "
+        "mission, and the Buddha's sevenfold confirmation through Ānanda. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ajātasattu's declared intention"),
+        ("p", "&sect;1", "an7.22:1.1-2.9"),
+        ("h3", "Vassakāra delivers the message"),
+        ("p", "&sect;2", "an7.22:3.1-4.5"),
+        ("h3", "The Buddha's sevenfold confirmation through Ānanda"),
+        ("p", "&sect;3", "an7.22:5.1-11.4"),
+        ("h3", "Vassakāra's own conclusion"),
+        ("p", "&sect;4", "an7.22:12.1-12.6"),
+    ],
+    quiz=[
+        {"q": "Who does the Buddha address his sevenfold confirmation to, rather than "
+              "answering Vassakāra directly?",
+         "opts": [
+             "King Ajātasattu himself, summoned to appear",
+             "Venerable Ānanda, standing behind him fanning him",
+             "The assembled Licchavis",
+             "Vassakāra directly, in a formal address"],
+         "correct": 1,
+         "expl": "An indirect answer, leaving Vassakāra to draw his own conclusion."},
+        {"q": "What does Ajātasattu declare his intention to do?",
+         "opts": [
+             "Form an alliance with the Vajjis",
+             "'Wipe out' the Vajjis, laying 'ruin and devastation' upon them",
+             "Send a gift to the Vajjian confederacy",
+             "Study under the Buddha himself"],
+         "correct": 1,
+         "expl": "A stated threat of conquest, opening this discourse's political stakes."},
+        {"q": "What conclusion does Vassakāra draw at the discourse's close?",
+         "opts": [
+             "That the Vajjis are already defeated",
+             "That the Vajjis cannot be defeated in open war, only by bribery or sowing "
+             "dissension",
+             "That King Ajātasattu should abandon Magadha entirely",
+             "That the Buddha has refused to answer at all"],
+         "correct": 1,
+         "expl": "A political verdict, with one specific vulnerability named as the "
+                 "exception."},
+        {"q": "How does this discourse's setting differ from AN 7.21's?",
+         "opts": [
+             "Identical setting, at Vesālī",
+             "Rājagaha, on Vulture's Peak Mountain, distinct from AN 7.21's Vesālī setting",
+             "No setting is given for either discourse",
+             "Sāvatthī, in Jeta's Grove"],
+         "correct": 1,
+         "expl": "A different location, though the same teaching is recalled within it."},
+        {"q": "What does the guide note about the tone of Vassakāra's approach to the "
+              "Buddha?",
+         "opts": [
+             "Openly hostile from the start",
+             "An elaborate show of courtesy sitting uneasily beside the violence of the "
+             "message it precedes",
+             "Complete indifference to protocol",
+             "A direct challenge to a debate"],
+         "correct": 1,
+         "expl": "Courteous form carrying a genuinely threatening content."},
+        {"q": "How many times does the Buddha ask Ānanda a version of 'have you heard "
+              "that...'?",
+         "opts": ["Once", "Three times", "Seven times, once for each principle", "Ten times"],
+         "correct": 2,
+         "expl": "One question for each of the seven principles from AN 7.21."},
+    ],
+    marginalia=[
+        ("A king's threat, relayed", [
+            "'I shall wipe out",
+            "these Vajjis' —",
+            "delivered through a minister",
+        ]),
+        ("An indirect confirmation", [
+            "seven questions to Ānanda,",
+            "not answers to",
+            "Vassakāra directly",
+        ]),
+        ("One named vulnerability", [
+            "'unless by bribery",
+            "or by sowing dissension' —",
+            "Vassakāra's own verdict",
+        ]),
+        ("Cross-references", [
+            "AN 7.21 &middot; previous, the seven principles given in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.22/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.21.html">AN 7.21 &middot; At the Sārandada Shrine</a> &mdash; '
+        "previous, the seven principles given in full.",
+        '<a href="an-7.23.html">AN 7.23 &middot; Non-Decline for Mendicants (1st)</a> '
+        "&mdash; next, the same template adapted for the Saṅgha.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.23 — Paṭhamasattakasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Paṭhamasattaka", "Non-Decline for Mendicants (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 7.23 — Non-Decline for Mendicants (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasattakasutta, adapting AN 7.21's Vajjian template of seven principles "
+        "that prevent decline for the mendicant Saṅgha specifically. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on Vulture's Peak Mountain; stated at the head of this "
+                    "discourse"),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "The identical seven-part template as AN 7.21, with items four through "
+                 "seven substituted for the mendicant Saṅgha specifically"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The application of the Vajjian non-decline template to "
+                              "monastic communal life recurs at the opening of the "
+                              "Mahāparinibbāna-sutta tradition across both Pāli and Chinese "
+                              "Āgama versions; this reading guide does not assert a specific "
+                              "matching sutra number for this particular discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the first of five "
+                       "discourses in this chapter applying the non-decline template to "
+                       "mendicants specifically, each with genuinely different content"),
+    ],
+    why=(
+        "AN 7.23 takes AN 7.21's exact template &mdash; seven principles that prevent "
+        "decline &mdash; and applies it for the first time to the mendicant Saṅgha "
+        "specifically: the first three items (frequent harmonious assembly, not altering "
+        "established rules) carry over almost unchanged, while the final four are "
+        "substituted for concerns proper to monastic life: honoring senior mendicants, "
+        "resisting craving for future lives, dwelling in wilderness, and individually "
+        "established mindfulness."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as mendicants meet frequently, act in harmony, uphold the training "
+            "rules, honor their seniors, resist craving for future lives, take care to "
+            "dwell in wilderness, and individually establish mindfulness, they can expect "
+            "growth, not decline."]),
+        ("Three items carried over nearly unchanged", [
+            "Frequent assembly, harmonious meeting and action, and not altering "
+            "established rules &mdash; the first three items &mdash; transfer from the "
+            "Vajjian confederacy to the Saṅgha with only the subject changed: "
+            "&ldquo;training rules&rdquo; (sikkhāpada) replaces &ldquo;ancient Vajjian "
+            "traditions,&rdquo; but the underlying structural concern for procedural "
+            "continuity is identical."]),
+        ("Four items substituted for monastic-specific concerns", [
+            "Where AN 7.21 named honoring Vajjian elders, protecting women from abduction, "
+            "maintaining shrines, and sheltering perfected ones, this discourse "
+            "substitutes: honoring senior mendicants, resisting the sway of craving for "
+            "future lives, taking care to dwell in wilderness lodgings, and individually "
+            "establishing mindfulness so good-hearted companions may come and stay "
+            "comfortably &mdash; concerns with no direct analogue in the political "
+            "original."]),
+        ("The first of five variations, not a single fixed list", [
+            "This discourse is only the first of five discourses (AN 7.23&ndash;27) each "
+            "offering a genuinely different seven-item list under the identical "
+            "&ldquo;principles that prevent decline&rdquo; framing &mdash; a caution this "
+            "series has now met repeatedly: the shared opening formula does not predict "
+            "shared content in what follows it."]),
+    ],
+    terms=[
+        ("sikkhāpada",
+         "&ldquo;training rule&rdquo; &mdash; replacing AN 7.21's &ldquo;ancient Vajjian "
+         "tradition&rdquo; in this discourse's third principle."),
+        ("theravāda",
+         "senior mendicants &ldquo;of long standing, long gone forth, fathers and leaders "
+         "of the Saṅgha&rdquo; &mdash; replacing AN 7.21's Vajjian elders in the fourth "
+         "principle."),
+        ("āyatiṁ ponobbhavikāya taṇhāya",
+         "&ldquo;craving for future lives&rdquo; &mdash; the fifth principle, resisting "
+         "its sway, with no direct counterpart in AN 7.21's political list."),
+        ("araññavanapatthāni pantāni senāsanāni",
+         "&ldquo;wilderness lodgings&rdquo; &mdash; the sixth principle, a specifically "
+         "monastic concern for dwelling place."),
+        ("paccattaññeva satiṁ upaṭṭhāpenti",
+         "&ldquo;individually establish mindfulness&rdquo; &mdash; the seventh and "
+         "closing principle, echoing AN 7.21's concern for hospitality but reframed as an "
+         "inward practice rather than an external provision."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven principles that prevent decline, adapted for "
+        "the mendicant Saṅgha. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The introduction"),
+        ("p", "&sect;1", "an7.23:1.1-1.7"),
+        ("h3", "The seven principles for mendicants"),
+        ("p", "&sect;2", "an7.23:2.1-9.1"),
+    ],
+    quiz=[
+        {"q": "Which three items carry over from AN 7.21 nearly unchanged, according to "
+              "the guide?",
+         "opts": [
+             "Protecting women, maintaining shrines, sheltering perfected ones",
+             "Frequent assembly, harmonious meeting and action, and not altering "
+             "established rules",
+             "Honoring elders, resisting craving, dwelling in wilderness",
+             "None — every item is substituted"],
+         "correct": 1,
+         "expl": "A procedural core transferring from confederacy to Saṅgha with only the "
+                 "subject changed."},
+        {"q": "What four items does this discourse substitute for AN 7.21's elder-honoring, "
+              "women's protection, shrine-maintenance, and hospitality?",
+         "opts": [
+             "Faith, wisdom, generosity, and ethics",
+             "Honoring senior mendicants, resisting craving for future lives, dwelling in "
+             "wilderness, and individually establishing mindfulness",
+             "The five hindrances plus two more",
+             "The seven factors of awakening"],
+         "correct": 1,
+         "expl": "Concerns specific to monastic life, with no direct political analogue."},
+        {"q": "What caution does the guide draw about this discourse's position among AN "
+              "7.23–27?",
+         "opts": [
+             "That all five discourses share identical content",
+             "That this is only the first of five discourses sharing the identical opening "
+             "formula but offering genuinely different seven-item lists",
+             "That only this discourse actually concerns non-decline",
+             "That the other four discourses contradict this one"],
+         "correct": 1,
+         "expl": "A shared opening formula that does not predict shared specific content."},
+        {"q": "What replaces 'ancient Vajjian tradition' in this discourse's third "
+              "principle?",
+         "opts": [
+             "Nothing — the item is dropped entirely",
+             "Sikkhāpada, training rules",
+             "Shrine maintenance",
+             "Royal decree"],
+         "correct": 1,
+         "expl": "The same structural concern for procedural continuity, differently "
+                 "specified."},
+        {"q": "Is a setting stated for AN 7.23?",
+         "opts": ["Yes, at Rājagaha, on Vulture's Peak Mountain", "No — none is stated", "Yes, at Sāvatthī", "Yes, at Vesālī"],
+         "correct": 0,
+         "expl": "The same setting as AN 7.22 immediately before it."},
+        {"q": "What does the seventh principle concern?",
+         "opts": [
+             "Maintaining shrines",
+             "Individually establishing mindfulness, so good-hearted companions may come "
+             "and stay comfortably",
+             "Protecting women from abduction",
+             "Royal succession"],
+         "correct": 1,
+         "expl": "An inward practice replacing AN 7.21's external hospitality provision."},
+    ],
+    marginalia=[
+        ("Three items carried over", [
+            "frequent assembly &middot;",
+            "harmony &middot; unaltered",
+            "training rules — near-identical to AN 7.21",
+        ]),
+        ("Four items substituted", [
+            "honoring seniors &middot;",
+            "resisting craving &middot;",
+            "wilderness dwelling &middot; mindfulness",
+        ]),
+        ("First of five variations", [
+            "AN 7.23–27 share one",
+            "opening formula,",
+            "each with genuinely different content",
+        ]),
+        ("Cross-references", [
+            "AN 7.21 &middot; earlier, the template this discourse adapts",
+            "AN 7.24 &middot; next, a second variant for mendicants",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.23/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.21.html">AN 7.21 &middot; At the Sārandada Shrine</a> &mdash; '
+        "earlier, the template this discourse adapts.",
+        '<a href="an-7.24.html">AN 7.24 &middot; Non-Decline for Mendicants (2nd)</a> '
+        "&mdash; next, a second, genuinely different variant.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.24 — Dutiyasattakasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, "Dutiyasattaka", "Non-Decline for Mendicants (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 7.24 — Non-Decline for Mendicants (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasattakasutta, a second non-decline variant naming seven items closely "
+        "matching this collection's familiar 'trainee decline' formula, plus two further "
+        "items. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, sharing its opening four items with content "
+                 "already met repeatedly in this collection"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of relishing work, talk, sleep, and company "
+                              "with a mendicant's decline recurs throughout the Chinese "
+                              "Āgamas' monastic-conduct material; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; opens with content "
+                       "already familiar from earlier in this series, closing on three new "
+                       "items"),
+    ],
+    why=(
+        "AN 7.24 names seven principles opening with content already met repeatedly in "
+        "this collection &mdash; not relishing work, talk, sleep, or company &mdash; the "
+        "same core already spelled out at AN 6.31 and AN 6.117&ndash;118 in the previous "
+        "nipāta, now joined by three further items: no corrupt wishes, no bad friends, "
+        "and not stopping halfway after a trifling distinction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as mendicants don't relish work, talk, sleep, or company, don't have "
+            "corrupt wishes, don't keep bad friends, and don't stop halfway after some "
+            "trifling attainment, they can expect growth, not decline."]),
+        ("Four items already met, checked against their earlier appearances", [
+            "Not relishing work, talk, sleep, and company is, checked term by term, the "
+            "same core already named at AN 6.31 (there, a trainee's causes of decline) and "
+            "AN 6.117&ndash;118 (there, blocking meditation on the foundations of "
+            "mindfulness) &mdash; a third context in which this same four-item core "
+            "appears, now under the Vajjian non-decline framing."]),
+        ("Three further items, new to this recurring core", [
+            "Corrupt wishes (pāpicchā), bad friendship (pāpamittatā), and stopping "
+            "halfway after a trifling distinction extend the familiar four-item core into "
+            "a full seven, adding concerns about aspiration, company, and premature "
+            "satisfaction not present in either of the four-item core's earlier "
+            "appearances."]),
+        ("A warning against premature satisfaction, this discourse's own contribution", [
+            "The seventh item &mdash; not stopping halfway after achieving some trifling "
+            "distinction (oramattena visesādhigamena antarā vosānaṁ āpajjati) &mdash; "
+            "names a danger specific to progress itself: mistaking an early or partial "
+            "attainment for the completed goal, and settling there rather than continuing "
+            "further."]),
+    ],
+    terms=[
+        ("kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā",
+         "&ldquo;relishing work, talk, sleep, and company&rdquo; &mdash; the same core "
+         "already met at AN 6.31 and AN 6.117–118, now appearing a third time under this "
+         "chapter's non-decline framing."),
+        ("pāpicchatā",
+         "&ldquo;corrupt wishes&rdquo; &mdash; the fifth item, falling under their sway."),
+        ("pāpamittatā",
+         "&ldquo;bad friendship&rdquo; &mdash; the sixth item, echoing AN 7.10's own "
+         "closing pair earlier in this book."),
+        ("oramattena visesādhigamena antarā vosānaṁ āpajjati",
+         "&ldquo;stops halfway after achieving some trifling distinction&rdquo; &mdash; "
+         "the seventh and closing item, a warning against mistaking partial progress for "
+         "completion."),
+        ("aparihāniyā dhammā",
+         "&ldquo;principles that prevent decline&rdquo; &mdash; this chapter's recurring "
+         "framing, here applied to a list drawing on already-familiar content."),
+    ],
+    text_intro=(
+        "The discourse in full: seven principles combining a familiar four-item core with "
+        "three further items. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven principles"),
+        ("p", "&sect;1", "an7.24:1.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What four-item core opens this discourse's list, and where has it already "
+              "appeared in this collection?",
+         "opts": [
+             "The five hindrances, appearing nowhere else",
+             "Not relishing work, talk, sleep, and company — already met at AN 6.31 and AN "
+             "6.117–118 in the previous nipāta",
+             "The three poisons, appearing only once before",
+             "The seven fetters of AN 7.8"],
+         "correct": 1,
+         "expl": "A third context for this recurring four-item core, now under this "
+                 "chapter's non-decline framing."},
+        {"q": "What three items does this discourse add beyond the familiar four-item "
+              "core?",
+         "opts": [
+             "Faith, wisdom, and energy",
+             "No corrupt wishes, no bad friends, and not stopping halfway after a trifling "
+             "distinction",
+             "The three fetters",
+             "The four foundations of mindfulness"],
+         "correct": 1,
+         "expl": "New concerns extending a familiar core into a full seven."},
+        {"q": "What does the seventh item, 'stops halfway after achieving some trifling "
+              "distinction,' warn against, according to the guide?",
+         "opts": [
+             "Working too hard toward the goal",
+             "Mistaking an early or partial attainment for the completed goal, and settling "
+             "there rather than continuing",
+             "Talking too much about one's attainments",
+             "Neglecting to eat enough"],
+         "correct": 1,
+         "expl": "A specific danger arising from progress itself, not from failure to "
+                 "progress."},
+        {"q": "Where else in this book has the sixth item, bad friendship, already "
+              "appeared as a closing item?",
+         "opts": [
+             "Nowhere else in this book",
+             "At AN 7.10, closing that discourse's own substituted pair",
+             "At AN 7.5, among the seven kinds of wealth",
+             "At AN 7.14, among the seven noble individuals"],
+         "correct": 1,
+         "expl": "A theme this book has already returned to once before."},
+        {"q": "Is a setting stated for AN 7.24?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.23's fresh setting."},
+        {"q": "What does <em>pāpamittatā</em> mean?",
+         "opts": ["Corrupt wishes", "Bad friendship", "Wilderness dwelling", "Trifling distinction"],
+         "correct": 1,
+         "expl": "The sixth item on this discourse's seven-item list."},
+    ],
+    marginalia=[
+        ("A familiar four-item core", [
+            "work, talk, sleep,",
+            "company — same as",
+            "AN 6.31 and AN 6.117–118",
+        ]),
+        ("Three new items added", [
+            "corrupt wishes &middot;",
+            "bad friends &middot;",
+            "stopping halfway too soon",
+        ]),
+        ("A warning against premature stop", [
+            "mistaking partial progress",
+            "for the completed goal —",
+            "settling there instead of continuing",
+        ]),
+        ("Cross-references", [
+            "AN 6.31/6.117–118 &middot; earlier nipāta, this same four-item core",
+            "AN 7.10 &middot; earlier, bad friendship's earlier appearance in this book",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.24/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.23.html">AN 7.23 &middot; Non-Decline for Mendicants (1st)</a> '
+        "&mdash; previous, the first variant of this chapter's mendicant series.",
+        '<a href="an-7.25.html">AN 7.25 &middot; Non-Decline for Mendicants (3rd)</a> '
+        "&mdash; next, a third variant naming seven personal qualities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.25 — Tatiyasattakasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Tatiyasattaka", "Non-Decline for Mendicants (3rd)",
+    vagga=VAGGA_3,
+    meta_title="AN 7.25 — Non-Decline for Mendicants (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tatiyasattakasutta, a third non-decline variant naming seven personal qualities "
+        "closely echoing AN 7.5's seven kinds of wealth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list of personal qualities, the third variant in "
+                 "this chapter's mendicant series"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "Faith, conscience, prudence, learning, energy, "
+                              "mindfulness, and wisdom as a fixed positive set recur widely "
+                              "across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, echoing but not "
+                       "duplicating AN 7.5's seven kinds of wealth"),
+    ],
+    why=(
+        "AN 7.25 names seven personal qualities &mdash; faithful, conscientious, prudent, "
+        "learned, energetic, mindful, and wise &mdash; six of which match AN 7.5's seven "
+        "kinds of wealth almost exactly, differing only in that this list drops "
+        "generosity and ethics, replacing them with mindfulness, and reframes the "
+        "remaining items as qualities of character rather than kinds of wealth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as mendicants are faithful, conscientious, prudent, learned, "
+            "energetic, mindful, and wise, they can expect growth, not decline."]),
+        ("Close to, but not identical to, AN 7.5's seven kinds of wealth", [
+            "Checked term by term against AN 7.5's list &mdash; faith, ethics, "
+            "conscience, prudence, learning, generosity, wisdom &mdash; this discourse "
+            "shares five items exactly (faith, conscience, prudence, learning, wisdom) but "
+            "drops ethics and generosity, adding mindfulness and energy in their place: a "
+            "close relative, not a restatement."]),
+        ("Wealth reframed as character, and decline as its opposite", [
+            "AN 7.5 framed these qualities as forms of wealth, prosperity a person "
+            "possesses. This discourse instead frames the same core cluster as what "
+            "prevents decline &mdash; the identical inward qualities read once as "
+            "possession and once as protection, depending on which discourse's frame is "
+            "applied."]),
+        ("The third of five variants, continuing this chapter's pattern", [
+            "Following AN 7.23's political-template adaptation and AN 7.24's familiar "
+            "four-item-core expansion, this discourse offers yet a third distinct "
+            "approach to the same &ldquo;principles that prevent decline&rdquo; framing "
+            "&mdash; a set of personal virtues rather than communal procedures or specific "
+            "conduct."]),
+    ],
+    terms=[
+        ("saddha, hirimā, ottappī",
+         "&ldquo;faithful, conscientious, prudent&rdquo; &mdash; the first three "
+         "qualities, matching AN 7.5's wealth list exactly."),
+        ("bahussuta",
+         "&ldquo;learned&rdquo; &mdash; the fourth quality, matching AN 7.5's "
+         "&ldquo;learning&rdquo; (suta)."),
+        ("āraddhavīriya, satimā, paññavā",
+         "&ldquo;energetic, mindful, wise&rdquo; &mdash; the fifth, sixth, and seventh "
+         "qualities, with energy and mindfulness new to this list compared to AN 7.5."),
+        ("sīla, cāga",
+         "&ldquo;ethics, generosity&rdquo; &mdash; two of AN 7.5's seven kinds of wealth, "
+         "absent from this discourse's version."),
+        ("aparihāniyā dhammā",
+         "&ldquo;principles that prevent decline&rdquo; &mdash; this discourse's own "
+         "framing, distinct from AN 7.5's framing of the same core cluster as wealth."),
+    ],
+    text_intro=(
+        "The discourse in full: seven personal qualities that prevent a mendicant's "
+        "decline. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven qualities"),
+        ("p", "&sect;1", "an7.25:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's seven items match AN 7.5's seven kinds of "
+              "wealth exactly?",
+         "opts": [
+             "All seven",
+             "Five — faith, conscience, prudence, learning, and wisdom — with ethics and "
+             "generosity dropped in favor of mindfulness and energy",
+             "None",
+             "Only two"],
+         "correct": 1,
+         "expl": "A close relative of AN 7.5's list, not a restatement."},
+        {"q": "What two items does this discourse drop from AN 7.5's list, and what "
+              "replaces them?",
+         "opts": [
+             "Faith and wisdom, replaced by nothing",
+             "Ethics and generosity, replaced by mindfulness and energy",
+             "Learning and prudence, replaced by faith and wisdom",
+             "Nothing is dropped or replaced"],
+         "correct": 1,
+         "expl": "A genuine, checked difference despite the strong overlap."},
+        {"q": "How does this discourse's framing differ from AN 7.5's, according to the "
+              "guide?",
+         "opts": [
+             "No difference in framing at all",
+             "AN 7.5 frames these qualities as wealth possessed; this discourse frames a "
+             "closely related cluster as what prevents decline",
+             "This discourse frames the qualities as physical health",
+             "AN 7.5 frames the qualities negatively, this discourse positively"],
+         "correct": 1,
+         "expl": "Possession versus protection, two frames for closely related qualities."},
+        {"q": "What position does this discourse occupy in this chapter's series of "
+              "mendicant non-decline variants?",
+         "opts": [
+             "The first", "The third, following AN 7.23's political adaptation and AN "
+             "7.24's expanded familiar core", "The fifth and final", "It does not belong "
+             "to this series"],
+         "correct": 1,
+         "expl": "A third distinct approach to the shared 'non-decline' framing."},
+        {"q": "Is a setting stated for AN 7.25?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.24 immediately before it."},
+        {"q": "What does <em>bahussuta</em> mean?",
+         "opts": ["Energetic", "Learned", "Mindful", "Wise"],
+         "correct": 1,
+         "expl": "The fourth quality, matching AN 7.5's 'learning' item exactly."},
+    ],
+    marginalia=[
+        ("Seven personal qualities", [
+            "faith &middot; conscience &middot;",
+            "prudence &middot; learning &middot;",
+            "energy &middot; mindfulness &middot; wisdom",
+        ]),
+        ("Close to AN 7.5, not identical", [
+            "five items match exactly —",
+            "ethics, generosity dropped;",
+            "mindfulness, energy added",
+        ]),
+        ("Possession vs. protection", [
+            "AN 7.5: wealth possessed —",
+            "AN 7.25: what prevents",
+            "decline — same core, two frames",
+        ]),
+        ("Cross-references", [
+            "AN 7.5 &middot; earlier, the closely related seven kinds of wealth",
+            "AN 7.24 &middot; previous, the second variant in this series",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.25/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.5.html">AN 7.5 &middot; Wealth in Brief</a> &mdash; earlier, the '
+        "closely related seven kinds of wealth.",
+        '<a href="an-7.26.html">AN 7.26 &middot; Awakening Factors</a> &mdash; next, a '
+        "fourth variant naming the seven factors of awakening.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.26 — Bojjhaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    26, "Bojjhaṅga", "Awakening Factors",
+    vagga=VAGGA_3,
+    meta_title="AN 7.26 — Awakening Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bojjhaṅgasutta, a fourth non-decline variant naming the seven factors of "
+        "awakening — one of this literature's most fundamental fixed lists. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, the fourth variant in this chapter's "
+                 "mendicant series, naming one of this literature's most standard "
+                 "technical sets"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The seven factors of awakening (bojjhaṅga) as a fixed set "
+                              "recur as one of the most standard technical lists across the "
+                              "Chinese Āgamas and Abhidharma literature; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names one of this "
+                       "literature's most fundamental fixed lists, here folded into this "
+                       "chapter's non-decline framing"),
+    ],
+    why=(
+        "AN 7.26 names the seven factors of awakening &mdash; mindfulness, investigation "
+        "of principles, energy, rapture, tranquility, immersion, and equanimity &mdash; "
+        "as principles that prevent decline, folding one of this literature's most "
+        "fundamental and widely recurring technical lists into this chapter's Vajjian-"
+        "derived framing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as mendicants develop the awakening factors of mindfulness, "
+            "investigation of principles, energy, rapture, tranquility, immersion, and "
+            "equanimity, they can expect growth, not decline."]),
+        ("A standard set, given a new frame", [
+            "The seven awakening factors (satta bojjhaṅgā) are among the most frequently "
+            "recurring fixed lists in this literature, appearing across meditation "
+            "instructions, analyses of the path, and accounts of realization. This "
+            "discourse's contribution is not the list itself but its placement within "
+            "this chapter's non-decline framing, alongside AN 7.21's political "
+            "principles and AN 7.23&ndash;25's other mendicant variants."]),
+        ("A developmental sequence, not seven independent items", [
+            "Unlike several other seven-item lists in this chapter, the awakening "
+            "factors are traditionally understood as unfolding in sequence: mindfulness "
+            "grounds investigation, investigation fuels energy, energy gives rise to "
+            "rapture, rapture leads to tranquility, tranquility supports immersion, and "
+            "immersion matures into equanimity &mdash; each factor a precondition for the "
+            "one following it."]),
+        ("The fourth of five variants, still within reach of a shared root", [
+            "Though the awakening factors are a fixed, independently well-known "
+            "technical set, their appearance here as the fourth of five &ldquo;non-"
+            "decline&rdquo; variants for mendicants keeps them within this chapter's "
+            "broader argument: whatever specific content is named, following it "
+            "consistently is what prevents decline, whether that content is political "
+            "procedure, personal virtue, or the classic architecture of awakening "
+            "itself."]),
+    ],
+    terms=[
+        ("bojjhaṅga",
+         "&ldquo;awakening factor&rdquo; &mdash; this discourse's own term for its "
+         "seven-item list, one of the most standard technical sets in this literature."),
+        ("sati sambojjhaṅga, dhammavicaya sambojjhaṅga",
+         "&ldquo;the awakening factor of mindfulness, of investigation of "
+         "principles&rdquo; &mdash; the first two factors, grounding the sequence that "
+         "follows."),
+        ("vīriya, pīti sambojjhaṅga",
+         "&ldquo;energy, rapture&rdquo; &mdash; the third and fourth factors, arising in "
+         "sequence from the first two."),
+        ("passaddhi, samādhi sambojjhaṅga",
+         "&ldquo;tranquility, immersion&rdquo; &mdash; the fifth and sixth factors, "
+         "settling the energetic factors that precede them."),
+        ("upekkhā sambojjhaṅga",
+         "&ldquo;equanimity&rdquo; &mdash; the seventh and culminating factor, maturing "
+         "from stable immersion."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven factors of awakening, as principles that "
+        "prevent decline. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven awakening factors"),
+        ("p", "&sect;1", "an7.26:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What seven factors does this discourse name?",
+         "opts": [
+             "The five hindrances plus two more",
+             "Mindfulness, investigation of principles, energy, rapture, tranquility, "
+             "immersion, and equanimity",
+             "The seven fetters of AN 7.8",
+             "The seven kinds of wealth of AN 7.5"],
+         "correct": 1,
+         "expl": "One of the most standard fixed lists in this entire literature."},
+        {"q": "What does this discourse contribute, given that the seven awakening "
+              "factors are already a well-known independent list, according to the "
+              "guide?",
+         "opts": [
+             "An entirely new list unrelated to the standard bojjhaṅga",
+             "Not the list itself, but its placement within this chapter's non-decline "
+             "framing, alongside the political and personal-quality variants already met",
+             "A denial that these seven factors are genuinely awakening factors",
+             "Nothing — the discourse is entirely redundant"],
+         "correct": 1,
+         "expl": "A familiar list given a new organizing frame."},
+        {"q": "How are the seven awakening factors traditionally understood to relate to "
+              "each other, according to the guide?",
+         "opts": [
+             "As seven entirely independent, unordered items",
+             "As a developmental sequence, each factor a precondition for the one "
+             "following it",
+             "As seven synonyms for the same single state",
+             "As seven items that must all arise simultaneously"],
+         "correct": 1,
+         "expl": "Mindfulness grounding investigation, investigation fueling energy, and "
+                 "so on through equanimity."},
+        {"q": "What position does this discourse occupy in this chapter's mendicant "
+              "non-decline series?",
+         "opts": [
+             "The first", "The fourth of five", "The last of five", "It does not belong "
+             "to this series"],
+         "correct": 1,
+         "expl": "Following AN 7.23, 7.24, and 7.25, with one further variant still to "
+                 "come."},
+        {"q": "Is a setting stated for AN 7.26?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.25 immediately before it."},
+        {"q": "What is the seventh and culminating awakening factor?",
+         "opts": ["Rapture", "Tranquility", "Equanimity", "Investigation of principles"],
+         "correct": 2,
+         "expl": "Maturing from the stable immersion the sixth factor establishes."},
+    ],
+    marginalia=[
+        ("The seven awakening factors", [
+            "mindfulness &middot; investigation",
+            "&middot; energy &middot; rapture &middot;",
+            "tranquility &middot; immersion &middot; equanimity",
+        ]),
+        ("A standard list, new frame", [
+            "already well-known —",
+            "here folded into this",
+            "chapter's non-decline argument",
+        ]),
+        ("A developmental sequence", [
+            "each factor grounds",
+            "the one that follows,",
+            "not seven independent items",
+        ]),
+        ("Cross-references", [
+            "AN 7.25 &middot; previous, the third variant naming personal qualities",
+            "AN 7.27 &middot; next, the fifth and final variant naming perceptions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.26/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.25.html">AN 7.25 &middot; Non-Decline for Mendicants (3rd)</a> '
+        "&mdash; previous, the third variant naming personal qualities.",
+        '<a href="an-7.27.html">AN 7.27 &middot; Perceptions</a> &mdash; next, the fifth '
+        "and final variant naming seven perceptions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.27 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    27, "Saññā", "Perceptions",
+    vagga=VAGGA_3,
+    meta_title="AN 7.27 — Perceptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saññāsutta, "
+        "closing this chapter's mendicant non-decline series with seven perceptions "
+        "related to, but distinct from, AN 6.142's six perceptions in the previous "
+        "nipāta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list of perceptions, closing this chapter's series "
+                 "of five mendicant non-decline variants"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The graduated sequence of perceptions from impermanence "
+                              "through cessation recurs widely across the Chinese Āgamas' "
+                              "insight-meditation material; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this chapter's "
+                       "series, related to but distinct from AN 6.142's six perceptions in "
+                       "the previous nipāta"),
+    ],
+    why=(
+        "AN 7.27 closes this chapter's five-discourse mendicant series with seven "
+        "perceptions &mdash; impermanence, not-self, ugliness, drawbacks, giving up, "
+        "fading away, and cessation &mdash; a list checked against AN 6.142's six "
+        "perceptions in the previous nipāta and found related but genuinely distinct, "
+        "not a simple restatement with one item added."),
+    guide=[
+        ("The teaching in one sentence", [
+            "As long as mendicants develop the perception of impermanence, not-self, "
+            "ugliness, drawbacks, giving up, fading away, and cessation, they can expect "
+            "growth, not decline."]),
+        ("Checked against AN 6.142: related, not identical", [
+            "AN 6.142's six perceptions were impermanence, suffering-in-impermanence, "
+            "not-self-in-suffering, giving up, fading away, and cessation &mdash; an "
+            "explicitly nested chain where each perception built on the one before it. "
+            "This discourse's seven drop the nested suffering-in-impermanence and "
+            "not-self-in-suffering structure, naming impermanence and not-self as flat, "
+            "independent items instead, and add two new items, ugliness and drawbacks, "
+            "not present in AN 6.142's version at all."]),
+        ("Ugliness and drawbacks, new to this specific formula", [
+            "Asubha (ugliness, the standard antidote to attraction already met at AN "
+            "6.107) and ādīnava (drawbacks, seeing the danger or fault in something) "
+            "extend the list into more concretely corrective territory, beyond the "
+            "purely descriptive impermanence and not-self."]),
+        ("Closing the chapter's series on insight rather than procedure", [
+            "Where AN 7.21's original template concerned communal procedure and AN "
+            "7.23&ndash;25 concerned conduct and character, this closing variant, like AN "
+            "7.26 before it, concerns internal cultivation &mdash; ending this chapter's "
+            "run of non-decline discourses on the register of meditative insight rather "
+            "than external behavior."]),
+    ],
+    terms=[
+        ("aniccasaññā, anattasaññā",
+         "&ldquo;the perception of impermanence, of not-self&rdquo; &mdash; the first two "
+         "items, named as flat independent perceptions here rather than AN 6.142's nested "
+         "chain."),
+        ("asubhasaññā",
+         "&ldquo;the perception of ugliness&rdquo; &mdash; the third item, the same "
+         "antidote to greed already met at AN 6.107, new to this specific formula."),
+        ("ādīnavasaññā",
+         "&ldquo;the perception of drawbacks&rdquo; &mdash; the fourth item, seeing the "
+         "danger or fault in conditioned existence, likewise new to this formula."),
+        ("pahānasaññā, virāgasaññā, nirodhasaññā",
+         "&ldquo;the perception of giving up, of fading away, of cessation&rdquo; "
+         "&mdash; the closing three items, matching AN 6.142's own closing three exactly."),
+        ("aparihāniyā dhammā",
+         "&ldquo;principles that prevent decline&rdquo; &mdash; this chapter's recurring "
+         "framing, closing its mendicant series on this seventh and final variant."),
+    ],
+    text_intro=(
+        "The discourse in full: seven perceptions that prevent a mendicant's decline. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven perceptions"),
+        ("p", "&sect;1", "an7.27:1.1-3.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's seven perceptions compare to AN 6.142's six, "
+              "checked term by term?",
+         "opts": [
+             "Identical, with one item simply added",
+             "Related but distinct — this list drops AN 6.142's nested "
+             "suffering-in-impermanence structure, names impermanence and not-self as flat "
+             "items, and adds ugliness and drawbacks",
+             "Entirely unrelated content",
+             "This discourse has no perceptions in common with AN 6.142 at all"],
+         "correct": 1,
+         "expl": "A genuine variant, not a simple restatement with an item appended."},
+        {"q": "What two items does this discourse add that were absent from AN 6.142's "
+              "version?",
+         "opts": [
+             "Faith and wisdom",
+             "Ugliness (asubha) and drawbacks (ādīnava)",
+             "Suffering and self",
+             "The three fetters"],
+         "correct": 1,
+         "expl": "New, more concretely corrective items extending beyond pure description."},
+        {"q": "Which three closing items does this discourse share exactly with AN "
+              "6.142?",
+         "opts": [
+             "Impermanence, not-self, ugliness",
+             "Giving up, fading away, cessation",
+             "Drawbacks, giving up, fading away",
+             "None of the items are shared"],
+         "correct": 1,
+         "expl": "The final three items, matching AN 6.142's closing sequence exactly."},
+        {"q": "How does the guide characterize this discourse's register compared to AN "
+              "7.21 and AN 7.23–25?",
+         "opts": [
+             "Identical register throughout",
+             "Internal cultivation and meditative insight, closing this chapter's series "
+             "on a different note than the communal procedure or conduct of the earlier "
+             "variants",
+             "Purely political, like AN 7.21",
+             "This discourse has no discernible register"],
+         "correct": 1,
+         "expl": "A close on meditative insight, following AN 7.26's similar register."},
+        {"q": "Is a setting stated for AN 7.27?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, closing this chapter's five-discourse mendicant series."},
+        {"q": "Where else has <em>asubhasaññā</em>, the perception of ugliness, already "
+              "appeared in this collection?",
+         "opts": [
+             "Nowhere else",
+             "At AN 6.107, as the antidote matched specifically to greed",
+             "At AN 7.14, among the seven noble individuals",
+             "At AN 7.5, among the seven kinds of wealth"],
+         "correct": 1,
+         "expl": "A term already established earlier in this series, applied here within a "
+                 "new formula."},
+    ],
+    marginalia=[
+        ("Seven perceptions", [
+            "impermanence &middot; not-self",
+            "&middot; ugliness &middot; drawbacks",
+            "&middot; giving up &middot; fading away &middot; cessation",
+        ]),
+        ("Related, not identical, to AN 6.142", [
+            "nested chain flattened,",
+            "ugliness and drawbacks",
+            "added — a genuine variant",
+        ]),
+        ("Closing on insight", [
+            "AN 7.26/27 both",
+            "concern cultivation,",
+            "closing this series inward",
+        ]),
+        ("Cross-references", [
+            "AN 6.142 &middot; earlier nipāta, the related six-item chain",
+            "AN 7.26 &middot; previous, the fourth variant naming awakening factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.27/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.26.html">AN 7.26 &middot; Awakening Factors</a> &mdash; previous, '
+        "the fourth variant in this chapter's mendicant series.",
+        '<a href="an-6.142.html">AN 6.142 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; earlier nipāta, the related but distinct six-item perception chain.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.28 — Paṭhamaparihānisutta
+# --------------------------------------------------------------------------- #
+page(
+    28, "Paṭhamaparihāni", "Non-decline for a Mendicant Trainee",
+    vagga=VAGGA_3,
+    meta_title="AN 7.28 — Non-decline for a Mendicant Trainee | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaparihānisutta, restating AN 6.31's familiar decline list with a new "
+        "seventh item about deferring to senior mendicants on Saṅgha business. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_1),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched seven-item lists, cause and its direct reversal, opening "
+                 "with content already met at AN 6.31 and this chapter's own AN 7.24"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The pairing of humility before senior monastics with a "
+                              "trainee's stability recurs widely across the Chinese "
+                              "Āgamas' monastic-conduct material; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a familiar six-item "
+                       "core plus one new item, shifting this chapter's language from "
+                       "'principles that prevent decline' back to a more familiar "
+                       "blockage-and-reversal form"),
+    ],
+    why=(
+        "AN 7.28 returns to Jeta's Grove and to this collection's familiar four-item core "
+        "&mdash; relishing work, talk, sleep, and company &mdash; joined by not guarding "
+        "the sense doors and eating too much, already met at AN 6.31 and this chapter's "
+        "own AN 7.24, now closing on a new seventh item: getting involved in Saṅgha "
+        "business a trainee should have deferred to their seniors."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant trainee who relishes work, talk, sleep, and company, doesn't "
+            "guard the sense doors, eats too much, and involves themselves in Saṅgha "
+            "business better left to senior mendicants declines; the seven reversals "
+            "prevent that decline."]),
+        ("Six items already familiar, checked against their earlier appearances", [
+            "The first six items are, checked term by term, identical to AN 6.31's list "
+            "of a trainee's causes of decline in the previous nipāta, and closely "
+            "overlapping with AN 7.24's own four-item core earlier in this chapter &mdash; "
+            "content this series has now met at least three times across two nipātas."]),
+        ("A new seventh item: knowing when not to step in", [
+            "The seventh and only new item concerns a specific failure of deference: "
+            "when Saṅgha business arises, a trainee who fails to reflect that senior "
+            "mendicants &ldquo;of long standing, long gone forth, responsible... will be "
+            "known for taking care of this&rdquo; gets needlessly involved, rather than "
+            "trusting the community's existing structure of responsibility."]),
+        ("A return to blockage-and-reversal, after five 'non-decline' variants", [
+            "Unlike AN 7.21 and 7.23&ndash;27's single positive list of principles that "
+            "prevent decline, this discourse returns to the paired blockage/reversal "
+            "structure familiar from the Sixes, stating both what leads to a trainee's "
+            "decline and its direct opposite in full."]),
+    ],
+    terms=[
+        ("sekha",
+         "&ldquo;trainee&rdquo; &mdash; this discourse's specific subject, echoing AN "
+         "6.31's identical population, already defined earlier in this series."),
+        ("kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu "
+         "aguttadvāratā, bhojane amattaññutā",
+         "the same six items already met at AN 6.31: relishing work, talk, sleep, and "
+         "company, not guarding the sense doors, and eating too much."),
+        ("saṅghakaraṇīya",
+         "&ldquo;Saṅgha business&rdquo; &mdash; the occasion for this discourse's new "
+         "seventh item, a trainee's failure to defer to responsible seniors."),
+        ("cirapabbajita, saṅghapitaro, saṅghapariṇāyaka",
+         "&ldquo;long gone forth, fathers and leaders of the Saṅgha&rdquo; &mdash; the "
+         "senior mendicants a trainee should trust to handle communal responsibilities."),
+        ("parihāni, aparihāni",
+         "&ldquo;decline, non-decline&rdquo; &mdash; this discourse's own framing, a "
+         "return to the paired form after this chapter's run of single positive lists."),
+    ],
+    text_intro=(
+        "The discourse in full: seven things leading to a trainee's decline, and their "
+        "reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven things that lead to a trainee's decline"),
+        ("p", "&sect;1", "an7.28:1.1-1.8"),
+        ("h3", "Seven things that don't"),
+        ("p", "&sect;2", "an7.28:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How do this discourse's first six items compare to AN 6.31's list, checked "
+              "term by term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — relishing work, talk, sleep, and company, not guarding the sense "
+             "doors, and eating too much",
+             "Only two items overlap",
+             "No relationship between the two discourses"],
+         "correct": 1,
+         "expl": "Content this series has now met at least three times across two "
+                 "nipātas."},
+        {"q": "What does this discourse's new seventh item concern?",
+         "opts": [
+             "A specific meditation technique",
+             "A trainee needlessly getting involved in Saṅgha business better left to "
+             "responsible senior mendicants",
+             "Eating too little food",
+             "Refusing to speak with laypeople"],
+         "correct": 1,
+         "expl": "A failure of deference and trust in the community's existing "
+                 "structure."},
+        {"q": "How does this discourse's structure differ from AN 7.21 and 7.23–27's, "
+              "according to the guide?",
+         "opts": [
+             "Identical structure throughout",
+             "A return to the paired blockage/reversal form, after this chapter's run of "
+             "single positive 'non-decline' lists",
+             "This discourse has no reversal at all",
+             "This discourse is a bare list with no elaboration"],
+         "correct": 1,
+         "expl": "The familiar Sixes-style structure returning after five single-list "
+                 "variants."},
+        {"q": "What senior mendicants is a trainee instructed to trust with Saṅgha "
+              "business?",
+         "opts": [
+             "Only the most recently ordained",
+             "Those of long standing, long gone forth, fathers and leaders of the Saṅgha",
+             "Lay donors specifically",
+             "No particular group is named"],
+         "correct": 1,
+         "expl": "An existing structure of communal responsibility the trainee should "
+                 "trust rather than override."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, at the Sārandada Shrine",
+             "No setting is given"],
+         "correct": 1,
+         "expl": "A return to this book's opening setting, after this chapter's Rājagaha "
+                 "and Vesālī discourses."},
+        {"q": "Who is the specific subject of this discourse?",
+         "opts": [
+             "Lay followers generally",
+             "A mendicant trainee (sekha) specifically",
+             "Fully awakened arahants",
+             "King Ajātasattu's ministers"],
+         "correct": 1,
+         "expl": "The same population already defined and addressed at AN 6.31."},
+    ],
+    marginalia=[
+        ("Six familiar items", [
+            "work, talk, sleep,",
+            "company &middot; unguarded senses",
+            "&middot; overeating — as AN 6.31",
+        ]),
+        ("A new seventh item", [
+            "getting involved in",
+            "Saṅgha business better",
+            "left to responsible seniors",
+        ]),
+        ("Back to blockage/reversal", [
+            "after five single-list",
+            "'non-decline' variants —",
+            "the familiar paired form returns",
+        ]),
+        ("Cross-references", [
+            "AN 6.31 &middot; earlier nipāta, this discourse's six-item source",
+            "AN 7.24 &middot; earlier, the same core within this chapter's own series",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.28/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.27.html">AN 7.27 &middot; Perceptions</a> &mdash; previous, closing '
+        "this chapter's mendicant non-decline series.",
+        '<a href="an-6.31.html">AN 6.31 &middot; A Trainee</a> &mdash; earlier nipāta, this '
+        "discourse's six-item source.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.29 — Dutiyaparihānisutta
+# --------------------------------------------------------------------------- #
+page(
+    29, "Dutiyaparihāni", "Non-decline for a Lay Follower",
+    vagga=VAGGA_3,
+    meta_title="AN 7.29 — Non-decline for a Lay Follower | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaparihānisutta, opening a three-discourse family on a lay follower's "
+        "decline, given in full prose and verse — the fullest of three near-identical "
+        "treatments. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched seven-item lists plus a closing verse restatement, the "
+                 "fullest of three discourses sharing this identical content"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "The pairing of suspicion toward mendicants with a lay "
+                              "follower's spiritual decline recurs widely across the "
+                              "Chinese Āgamas' lay-conduct material; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; opens a three-"
+                       "discourse family restating identical content under three "
+                       "different titles"),
+    ],
+    why=(
+        "AN 7.29 shifts this chapter's final attention from mendicants to lay followers: "
+        "seven things that lead to a lay follower's decline &mdash; missing chances to "
+        "see mendicants, neglecting the teaching, not training in higher ethics, "
+        "suspicion toward mendicants, hostile listening, seeking donees outside the "
+        "Buddhist community, and serving them first &mdash; given here in full prose and "
+        "closing verse, the fullest of three discourses (AN 7.29&ndash;31) that will "
+        "restate this identical content under three different titles."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A lay follower who misses seeing mendicants, neglects the teaching, doesn't "
+            "train in higher ethics, is suspicious of mendicants, listens with a "
+            "fault-finding mind, and serves those outside the Buddhist community first "
+            "declines; the seven reversals prevent that decline."]),
+        ("Seven items concerning the lay-mendicant relationship specifically", [
+            "Unlike this chapter's mendicant-focused discourses, every item on this list "
+            "concerns how a lay follower relates to mendicants and the wider Buddhist "
+            "community &mdash; access, attentiveness, trust, and where support is "
+            "directed &mdash; rather than any inward meditative quality."]),
+        ("A closing verse restating the entire teaching", [
+            "Unusually for this collection's shorter formulaic discourses, this one "
+            "closes with a full verse restatement of both the decline and non-decline "
+            "halves, ending each with the same refrain: a lay follower who practices the "
+            "decline-causing seven &ldquo;falls away from the true teaching,&rdquo; while "
+            "one who practices the reversal &ldquo;doesn't fall away.&rdquo;"]),
+        ("The first of three near-identical discourses", [
+            "AN 7.30 and 7.31, immediately following, restate this exact seven-item "
+            "content under two further titles &mdash; &ldquo;failures&rdquo; and "
+            "&ldquo;downfalls&rdquo; &mdash; a genre convention this series has now met "
+            "repeatedly: the same content given more than one name, each presumably "
+            "carrying slightly different connotations in the source tradition even where "
+            "the underlying list is identical."]),
+    ],
+    terms=[
+        ("upāsaka",
+         "&ldquo;lay follower&rdquo; &mdash; this discourse's specific subject, a marked "
+         "shift from this chapter's otherwise mendicant-focused non-decline series."),
+        ("bhikkhūnaṁ dassanaṁ na labhati",
+         "&ldquo;misses out on seeing the mendicants&rdquo; &mdash; the first item, an "
+         "issue of access and opportunity rather than inward quality."),
+        ("aññatra bāhirakā dakkhiṇeyyaṁ gavesati",
+         "&ldquo;seeks outside of the Buddhist community for those worthy of religious "
+         "donations&rdquo; &mdash; the sixth item, echoing similar concerns already met at "
+         "AN 6.93 in the previous nipāta."),
+        ("saddhammā parihāyati",
+         "&ldquo;falls away from the true teaching&rdquo; &mdash; the closing verse's "
+         "refrain, naming the ultimate stake of this discourse's seven items."),
+        ("parihāni, aparihāni",
+         "&ldquo;decline, non-decline&rdquo; &mdash; the same framing already met at AN "
+         "7.28, now applied to lay followers rather than mendicant trainees."),
+    ],
+    text_intro=(
+        "The discourse in full: seven things leading to a lay follower's decline, their "
+        "reversal, and a closing verse restating both. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven things that lead to a lay follower's decline"),
+        ("p", "&sect;1", "an7.29:1.1-2.12"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.29:3.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What population does this discourse concern, marking a shift from this "
+              "chapter's earlier mendicant-focused discourses?",
+         "opts": [
+             "Senior mendicants specifically",
+             "Lay followers (upāsaka)",
+             "Deities",
+             "Government ministers"],
+         "correct": 1,
+         "expl": "A shift in population, though the 'non-decline' framing continues."},
+        {"q": "What do all seven items on this discourse's list concern, according to the "
+              "guide?",
+         "opts": [
+             "Inward meditative states exclusively",
+             "How a lay follower relates to mendicants and the wider Buddhist community — "
+             "access, attentiveness, trust, and where support is directed",
+             "Physical health and diet",
+             "Political administration"],
+         "correct": 1,
+         "expl": "The lay-mendicant relationship specifically, not inward cultivation."},
+        {"q": "What unusual feature does this discourse have, compared to many of this "
+              "collection's shorter formulaic discourses?",
+         "opts": [
+             "No content beyond a bare list",
+             "A closing verse restating the entire teaching, ending each half with a "
+             "shared refrain about falling away from, or not falling away from, the true "
+             "teaching",
+             "A dialogue between two named individuals",
+             "A dispute among the mendicants"],
+         "correct": 1,
+         "expl": "A fuller poetic restatement, unusual for this collection's briefer "
+                 "list-form discourses."},
+        {"q": "What does this discourse open, according to the guide?",
+         "opts": [
+             "An isolated, standalone teaching",
+             "The first of three discourses (AN 7.29–31) restating this exact content "
+             "under two further titles",
+             "The chapter's final discourse",
+             "A contradiction of AN 7.28's teaching"],
+         "correct": 1,
+         "expl": "A genre convention already met with this collection's other near-"
+                 "identical discourse trios."},
+        {"q": "Is a setting stated for AN 7.29?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, following AN 7.28's fresh setting."},
+        {"q": "What does the sixth item, seeking donees outside the Buddhist community, "
+              "echo from earlier in this series?",
+         "opts": [
+             "Nothing similar appears elsewhere",
+             "A similar concern already met at AN 6.93 in the previous nipāta",
+             "AN 7.14's classification of noble persons",
+             "AN 7.5's seven kinds of wealth"],
+         "correct": 1,
+         "expl": "A theme this series has addressed before, in a different specific "
+                 "context."},
+    ],
+    marginalia=[
+        ("Seven items on lay decline", [
+            "missing mendicants &middot;",
+            "neglecting teaching &middot;",
+            "no ethics training &middot; suspicion &middot; hostile listening &middot; "
+            "wrong donees",
+        ]),
+        ("The lay-Saṅgha relationship", [
+            "access, attentiveness,",
+            "trust, and where",
+            "support is actually directed",
+        ]),
+        ("A full verse restatement", [
+            "unusual fullness —",
+            "'falls away' /",
+            "'doesn't fall away' as refrain",
+        ]),
+        ("Cross-references", [
+            "AN 7.30/31 &middot; next, restating this same content under two further "
+            "titles",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.29/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.28.html">AN 7.28 &middot; Non-decline for a Mendicant Trainee</a> '
+        "&mdash; previous, the same 'non-decline' framing applied to mendicant trainees.",
+        '<a href="an-7.30.html">AN 7.30 &middot; Failures for a Lay Follower</a> &mdash; '
+        "next, the identical content restated, heavily compressed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.30 — Vipattisutta
+# --------------------------------------------------------------------------- #
+page(
+    30, "Vipatti", "Failures for a Lay Follower",
+    vagga=VAGGA_3,
+    meta_title="AN 7.30 — Failures for a Lay Follower | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vipattisutta, restating AN 7.29's identical seven-item content under a new "
+        "title, compressed almost entirely via Pāli ellipsis. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical content as AN 7.29, compressed to a bare title-change via "
+                 "Pāli ellipsis — the second of three near-identical discourses"),
+        ("Length", "under 15 seconds to read"),
+        ("Northern parallel", "The pairing of 'failure' (vipatti) and 'accomplishment' "
+                              "(sampadā) as a technical vocabulary pair recurs across the "
+                              "Chinese Āgamas' treatment of lay conduct; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; almost entirely "
+                       "elided, pointing back to AN 7.29 for its full content"),
+    ],
+    why=(
+        "AN 7.30 restates AN 7.29's identical seven-item content on a lay follower's "
+        "spiritual condition, but under an entirely different technical vocabulary: "
+        "vipatti, &ldquo;failure,&rdquo; and its reversal sampadā, "
+        "&ldquo;accomplishment,&rdquo; rather than parihāni, &ldquo;decline,&rdquo; and "
+        "aparihāni, &ldquo;non-decline.&rdquo; The source compresses the entire "
+        "discourse to almost nothing, assuming AN 7.29's full content throughout."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are seven failures for a lay follower, and seven accomplishments "
+            "&mdash; the identical seven items already given in full at AN 7.29, now "
+            "under different technical names."]),
+        ("A vocabulary shift, not a content shift", [
+            "Checked against AN 7.29, this discourse's content is unchanged; only the "
+            "governing terms differ. Vipatti and sampadā are a standard paired "
+            "vocabulary in this literature's ethical analysis, distinct from parihāni "
+            "and aparihāni but describing, in this instance, exactly the same seven-item "
+            "reality."]),
+        ("Almost total compression", [
+            "The source text gives only the bare announcement &mdash; &ldquo;these seven "
+            "failures for a lay follower... these seven accomplishments for a lay "
+            "follower&rdquo; &mdash; before eliding everything else with "
+            "&ldquo;…,&rdquo; trusting a reader who has just read AN 7.29 to supply the "
+            "entire remaining content without difficulty."]),
+        ("The second of three, with one more restatement to come", [
+            "AN 7.31, immediately following, will restate this identical content a third "
+            "time under yet another title, this time spelled out again in full rather "
+            "than elided &mdash; completing a genre pattern already met at AN 6.89&ndash;"
+            "91 in the previous nipāta, where one identical list was restated three times "
+            "under three different governing verbs or terms."]),
+    ],
+    terms=[
+        ("vipatti",
+         "&ldquo;failure&rdquo; &mdash; this discourse's own title term, replacing AN "
+         "7.29's parihāni, decline, though naming the identical seven-item content."),
+        ("sampadā",
+         "&ldquo;accomplishment&rdquo; &mdash; the reversal's governing term, replacing "
+         "AN 7.29's aparihāni, non-decline."),
+        ("…pe…",
+         "the Pāli ellipsis mark, standing in here for the entirety of AN 7.29's "
+         "seven-item content on both sides, blocking and enabling."),
+        ("upāsaka",
+         "&ldquo;lay follower&rdquo; &mdash; the same subject as AN 7.29, unchanged "
+         "across this vocabulary shift."),
+        ("aparihāni",
+         "&ldquo;non-decline&rdquo; &mdash; AN 7.29's own governing term for the same "
+         "content this discourse instead calls sampadā."),
+    ],
+    text_intro=(
+        "The formula exactly as the source compresses it: the identical content as AN "
+        "7.29, under new technical names. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The compressed formula"),
+        ("p", "&sect;1", "an7.30:1.1-1.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 7.29's, checked against "
+              "the source?",
+         "opts": [
+             "Entirely different content",
+             "Unchanged — the identical seven items, now governed by different technical "
+             "terms (vipatti/sampadā rather than parihāni/aparihāni)",
+             "Only half the items overlap",
+             "This discourse has no content at all"],
+         "correct": 1,
+         "expl": "A vocabulary shift, not a content shift."},
+        {"q": "What two terms govern this discourse's blocking and enabling halves?",
+         "opts": [
+             "Parihāni and aparihāni, identical to AN 7.29",
+             "Vipatti (failure) and sampadā (accomplishment)",
+             "Duccarita and sucarita",
+             "Micchā and sammā"],
+         "correct": 1,
+         "expl": "A standard paired vocabulary distinct from AN 7.29's own terms."},
+        {"q": "How compressed is this discourse's own text?",
+         "opts": [
+             "Fully spelled out, matching AN 7.29's length",
+             "Almost total compression — only the bare announcement is given before '…' "
+             "elides everything else",
+             "Only the closing verse is given",
+             "The discourse has no text at all"],
+         "correct": 1,
+         "expl": "A reader who has just read AN 7.29 can supply the entire remaining "
+                 "content."},
+        {"q": "What earlier discourse trio in this series does the guide compare this "
+              "pattern to?",
+         "opts": [
+             "AN 6.65/6.66",
+             "AN 6.89–91, one identical list restated three times under different "
+             "governing terms",
+             "AN 6.73/6.74",
+             "AN 7.23–27"],
+         "correct": 1,
+         "expl": "A genre convention already met once before in the previous nipāta."},
+        {"q": "Is a setting stated for AN 7.30?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, as compressed as the rest of this discourse."},
+        {"q": "What comes next in this three-discourse family, according to the guide?",
+         "opts": [
+             "The family ends here",
+             "AN 7.31, restating this identical content a third time under yet another "
+             "title, spelled out again in full",
+             "A return to mendicant-focused content",
+             "A shift to an unrelated topic"],
+         "correct": 1,
+         "expl": "One further restatement completes this three-part family."},
+    ],
+    marginalia=[
+        ("A vocabulary shift only", [
+            "vipatti, sampadā —",
+            "not parihāni, aparihāni —",
+            "identical underlying content",
+        ]),
+        ("Near-total compression", [
+            "bare announcement,",
+            "then '…' for the",
+            "entire remaining content",
+        ]),
+        ("Second of a three-part family", [
+            "AN 7.29 (full),",
+            "AN 7.30 (elided),",
+            "AN 7.31 (full) — one more to come",
+        ]),
+        ("Cross-references", [
+            "AN 7.29 &middot; previous, this discourse's full template",
+            "AN 6.89–91 &middot; earlier nipāta, the same three-restatement pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.30/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.29.html">AN 7.29 &middot; Non-decline for a Lay Follower</a> '
+        "&mdash; previous, this discourse's full template.",
+        '<a href="an-7.31.html">AN 7.31 &middot; Downfalls for a Lay Follower</a> &mdash; '
+        "next, the same content restated a third time, spelled out in full.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.31 — Parābhavasutta
+# --------------------------------------------------------------------------- #
+page(
+    31, "Parābhava", "Downfalls for a Lay Follower",
+    vagga=VAGGA_3,
+    meta_title="AN 7.31 — Downfalls for a Lay Follower | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Parābhavasutta, closing this chapter and its lay-follower trilogy by restating "
+        "AN 7.29's identical content a third time, spelled out in full under a new "
+        "title. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical content as AN 7.29, spelled out in full a third time "
+                 "under a new governing vocabulary — closing this chapter"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "'Ruin' or 'downfall' (parābhava) as a technical term for "
+                              "spiritual failure recurs across the Chinese Āgamas, most "
+                              "famously in verse-form discourses on decline; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this chapter "
+                       "and its lay-follower trilogy, spelled out in full for the third "
+                       "and final time"),
+    ],
+    why=(
+        "AN 7.31 closes this chapter by restating AN 7.29's identical seven-item content "
+        "a third time, now under parābhava and its reversal, &ldquo;downfall&rdquo; and "
+        "&ldquo;success&rdquo; &mdash; a third governing vocabulary (after AN 7.29's "
+        "parihāni/aparihāni and AN 7.30's vipatti/sampadā) for the identical underlying "
+        "seven-item reality, spelled out here in full, closing verses included, rather "
+        "than elided as AN 7.30 was."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are seven downfalls for a lay follower, and seven successes &mdash; "
+            "the identical seven items already given at AN 7.29 and AN 7.30, now under a "
+            "third governing vocabulary."]),
+        ("A third name for one identical reality", [
+            "Parābhava (downfall, ruin) and its reversal join parihāni/aparihāni (decline/"
+            "non-decline) and vipatti/sampadā (failure/accomplishment) as a third paired "
+            "vocabulary applied to this exact seven-item content &mdash; three genuinely "
+            "different technical framings the tradition considered each worth stating in "
+            "its own right, exactly the pattern already noted at AN 7.11/7.12's treatment "
+            "of fetters and underlying tendencies earlier in this book."]),
+        ("Spelled out fully, unlike AN 7.30", [
+            "Where AN 7.30 compressed its entire content to a bare announcement, this "
+            "discourse spells out all seven items, their reversal, and the same closing "
+            "verse already met at AN 7.29 &mdash; the third statement in this trilogy "
+            "given the fullest possible treatment alongside the first."]),
+        ("Closing this chapter on lay practice, after opening on political ethics", [
+            "Vajjisattakavagga opened at AN 7.21 with counsel for an entire confederacy's "
+            "political survival and closes here with a single lay follower's spiritual "
+            "condition &mdash; the same underlying concern, prevention of decline, "
+            "scaled from an entire nation down to one person's relationship with the "
+            "Buddhist community."]),
+    ],
+    terms=[
+        ("parābhava",
+         "&ldquo;downfall, ruin&rdquo; &mdash; this discourse's own title term, the third "
+         "governing vocabulary applied to AN 7.29's identical seven-item content."),
+        ("sampatti",
+         "&ldquo;success&rdquo; &mdash; the reversal's governing term in this discourse, "
+         "distinct from AN 7.29's aparihāni and AN 7.30's sampadā though naming the same "
+         "underlying reversal."),
+        ("bhikkhūnaṁ dassanaṁ na labhati, dhammassavanaṁ na labhati",
+         "&ldquo;misses out on seeing the mendicants, misses out on hearing the "
+         "teaching&rdquo; &mdash; the first two items, identical across all three "
+         "discourses of this trilogy."),
+        ("saddhammā parihāyati",
+         "&ldquo;falls away from the true teaching&rdquo; &mdash; the closing verse's "
+         "refrain, identical word for word to AN 7.29's own closing verse."),
+        ("Vajjisattakavagga",
+         "&ldquo;the Vajji Seven&rdquo; &mdash; this chapter's own title, closing here "
+         "after moving from an entire confederacy's political survival to one lay "
+         "follower's spiritual condition."),
+    ],
+    text_intro=(
+        "The discourse in full: seven downfalls for a lay follower, seven successes, and "
+        "the same closing verse already met at AN 7.29. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven downfalls, and seven successes"),
+        ("p", "&sect;1", "an7.31:1.1-4.4"),
+        ("h3", "The closing verse"),
+        ("p", "&sect;2", "an7.31:5.1-10.3"),
+    ],
+    quiz=[
+        {"q": "How many different technical vocabularies has this exact seven-item "
+              "content now been given, counting this discourse?",
+         "opts": [
+             "One", "Two", "Three — parihāni/aparihāni at AN 7.29, vipatti/sampadā at AN "
+             "7.30, and parābhava/sampatti here", "Five"],
+         "correct": 2,
+         "expl": "The same content given three distinct technical framings, each "
+                 "presumably worth its own statement to the tradition."},
+        {"q": "How does this discourse's treatment compare to AN 7.30's, in terms of how "
+              "fully it is spelled out?",
+         "opts": [
+             "Identical — both are heavily elided",
+             "This discourse is spelled out fully, including the closing verse, unlike AN "
+             "7.30's near-total compression",
+             "This discourse is even more compressed than AN 7.30",
+             "Neither discourse contains any content"],
+         "correct": 1,
+         "expl": "The third statement given the fullest possible treatment, matching AN "
+                 "7.29's own fullness."},
+        {"q": "What earlier discourse in this book does the guide compare this three-"
+              "vocabulary pattern to?",
+         "opts": [
+             "AN 7.1/7.2",
+             "AN 7.11/7.12, treating fetters and underlying tendencies as distinct "
+             "technical categories for identical content",
+             "AN 7.14",
+             "AN 7.21"],
+         "correct": 1,
+         "expl": "A pattern already met once before within this same book."},
+        {"q": "How does the guide describe this chapter's overall arc, from AN 7.21 to "
+              "this closing discourse?",
+         "opts": [
+             "No discernible arc across the chapter",
+             "From an entire confederacy's political survival (AN 7.21) to one lay "
+             "follower's spiritual condition (this discourse) — the same underlying "
+             "concern with preventing decline, at different scales",
+             "A strictly chronological narrative with no thematic connection",
+             "Every discourse in the chapter is identical"],
+         "correct": 1,
+         "expl": "One theme, prevention of decline, scaled from a nation to a single "
+                 "person."},
+        {"q": "Is a setting stated for AN 7.31?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 7.29 and 7.30 before it."},
+        {"q": "What does the closing verse's refrain state?",
+         "opts": [
+             "A lay follower who practices the seven items 'falls away from' or 'doesn't "
+             "fall away from' the true teaching — identical word for word to AN 7.29's "
+             "verse",
+             "An entirely new refrain not found in AN 7.29",
+             "No verse closes this discourse",
+             "A refrain about mendicants specifically, not lay followers"],
+         "correct": 0,
+         "expl": "The same closing verse already met at AN 7.29, restated here word for "
+                 "word."},
+    ],
+    marginalia=[
+        ("A third vocabulary", [
+            "parābhava, sampatti —",
+            "after parihāni/aparihāni",
+            "and vipatti/sampadā",
+        ]),
+        ("Spelled out fully, again", [
+            "unlike AN 7.30's",
+            "compression — matching",
+            "AN 7.29's full treatment",
+        ]),
+        ("From nation to person", [
+            "AN 7.21: an entire",
+            "confederacy — AN 7.31:",
+            "one lay follower's condition",
+        ]),
+        ("Cross-references", [
+            "AN 7.29/7.30 &middot; earlier, this same content's first two statements",
+            "AN 7.11/7.12 &middot; earlier, a similar three-name pattern",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.31/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.30.html">AN 7.30 &middot; Failures for a Lay Follower</a> &mdash; '
+        "previous, this same content's compressed second statement.",
+        '<a href="an-7.21.html">AN 7.21 &middot; At the Sārandada Shrine</a> &mdash; back '
+        "to this chapter&rsquo;s opening, for contrast with the chapter now closing.",
+    ],
+)
+
