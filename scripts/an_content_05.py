@@ -28785,3 +28785,1947 @@ page(
         "this chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.141 — Avajānātisutta
+# --------------------------------------------------------------------------- #
+VAGGA_15 = "<em>Tikaṇḍakīvagga</em> &mdash; the fifteenth chapter of the Fives"
+
+page(
+    141, "Avajānāti", "Scorn",
+    vagga=VAGGA_15,
+    meta_title="AN 5.141 — Scorn | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Avajānātisutta, "
+        "opening the Tikaṇḍakīvagga — five recognizable ways generosity, intimacy, gossip, "
+        "fickleness, and dullness curdle into contempt. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare list of five character types, with no paired positive "
+                 "counterpart"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; sharp, recognizable "
+                       "psychological observation"),
+    ],
+    why=(
+        "A new chapter opens with five recognizable character failings, given without a "
+        "paired positive counterpart: two of them describe how generosity and long "
+        "acquaintance themselves can curdle into contempt, a genuinely sharp piece of "
+        "psychological observation."),
+    guide=[
+        ("Five individuals, one list only", [
+            "Unlike most paired discourses in this nipāta, this one gives only the negative "
+            "list: one who gives then scorns, one who lives together then scorns, one who is "
+            "gullible for gossip, one who is impulsive, and one who is dull and stupid."]),
+        ("Giving then scorning", [
+            "A person gives another robes, almsfood, lodging, and medicine, then thinks "
+            "&lsquo;I give; this one receives&rsquo; &mdash; and scorns the recipient for "
+            "having received. The generosity itself becomes the ground for contempt, rather "
+            "than the receiver's gratitude or the giver's own satisfaction."]),
+        ("Living together then scorning", [
+            "The identical pattern applied to intimacy rather than generosity: after living "
+            "closely with someone for two or three years, familiarity itself breeds "
+            "contempt, rather than closeness or affection."]),
+        ("Gullibility, fickleness, and dullness", [
+            "The remaining three round out the portrait: someone too quick to believe "
+            "whatever praise or criticism they hear about a third party; someone fickle in "
+            "faith, devotion, fondness, and confidence; and someone who simply doesn't know "
+            "the difference between skillful and unskillful, blameworthy and blameless, "
+            "inferior and superior qualities."]),
+        ("What comes next", [
+            "AN 5.142 turns to a more structured psychological portrait: a genuine "
+            "four-quadrant matrix of wrongdoing and regret, each type given individually "
+            "tailored counseling advice."]),
+    ],
+    terms=[
+        ("datvā avajānāti",
+         "&ldquo;gives, then scorns&rdquo; &mdash; the first character type, where "
+         "generosity itself becomes the ground for contempt."),
+        ("saṁvāsena avajānāti",
+         "&ldquo;lives together, then scorns&rdquo; &mdash; the identical pattern applied to "
+         "long acquaintance."),
+        ("ādheyyamukho",
+         "&ldquo;gullible for gossip&rdquo; &mdash; too quick to believe praise or criticism "
+         "of a third party."),
+        ("lolo",
+         "&ldquo;impulsive, fickle&rdquo; &mdash; unstable in faith, devotion, fondness, and "
+         "confidence."),
+        ("mando momūho",
+         "&ldquo;dull and stupid&rdquo; &mdash; unable to distinguish skillful from "
+         "unskillful, blameworthy from blameless."),
+    ],
+    text_intro=(
+        "The discourse in full: five character types, each explained in turn. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five individuals found in the world"),
+        ("p", "&sect;1", "an5.141:1.1-1.3"),
+        ("h3", "Giving then scorning"),
+        ("p", "&sect;2", "an5.141:2.1-2.7"),
+        ("h3", "Living together then scorning"),
+        ("p", "&sect;3", "an5.141:3.1-3.4"),
+        ("h3", "Gullible, impulsive, and dull"),
+        ("p", "&sect;4", "an5.141:4.1-6.4"),
+    ],
+    quiz=[
+        {"q": "Unlike most paired discourses in this nipāta, what does this discourse give?",
+         "opts": [
+             "Only the negative list, with no positive counterpart",
+             "Only the positive list",
+             "Two negative lists",
+             "A narrative with no list at all"],
+         "correct": 0,
+         "expl": "A single, unmirrored catalog of five character types."},
+        {"q": "What does 'datvā avajānāti' describe?",
+         "opts": [
+             "Giving generously without expectation",
+             "Giving, then scorning the recipient for having received",
+             "Refusing to give at all",
+             "Giving only to strangers"],
+         "correct": 1,
+         "expl": "Generosity itself becoming the ground for contempt."},
+        {"q": "What does 'saṁvāsena avajānāti' describe?",
+         "opts": [
+             "Living together then scorning, after two or three years",
+             "Refusing to live with anyone",
+             "Living alone permanently",
+             "Living together and growing closer"],
+         "correct": 0,
+         "expl": "The identical pattern applied to long acquaintance."},
+        {"q": "What is shared between the first two character types?",
+         "opts": [
+             "Nothing; they are unrelated",
+             "Both show something positive — generosity, closeness — curdling into contempt",
+             "Both involve theft",
+             "Both involve physical violence"],
+         "correct": 1,
+         "expl": "A genuinely sharp piece of psychological observation."},
+        {"q": "What does 'ādheyyamukho' describe?",
+         "opts": [
+             "Gullible for gossip, quick to believe praise or criticism of others",
+             "Extremely cautious about rumors",
+             "Never speaking about others",
+             "Only trusting close friends"],
+         "correct": 0,
+         "expl": "The third character type."},
+        {"q": "What does 'lolo' mean?",
+         "opts": [
+             "Steadfast and reliable",
+             "Impulsive, fickle in faith and devotion",
+             "Physically strong",
+             "Deeply learned"],
+         "correct": 1,
+         "expl": "The fourth character type."},
+        {"q": "What does 'mando momūho' describe?",
+         "opts": [
+             "Dull and stupid, unable to distinguish skillful from unskillful",
+             "Wise and discerning",
+             "Physically weak",
+             "Excessively cautious"],
+         "correct": 0,
+         "expl": "The fifth and final character type."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Andhakavindavagga"],
+         "correct": 1,
+         "expl": "The fifteenth chapter, 'At Tikaṇḍakī'."},
+        {"q": "Does this discourse claim generosity or intimacy are themselves bad?",
+         "opts": [
+             "Yes, explicitly",
+             "No — it names the specific way these good things can curdle into contempt",
+             "The discourse doesn't address this",
+             "It claims only intimacy is problematic"],
+         "correct": 1,
+         "expl": "A pattern of contempt arising from what should produce closeness."},
+        {"q": "What does AN 5.142 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A four-quadrant matrix of wrongdoing and regret, with tailored counseling",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A more structured psychological portrait."},
+    ],
+    marginalia=[
+        ("Five character failings", [
+            "giving &rarr; scorn &middot;",
+            "closeness &rarr; scorn",
+            "&middot; gullibility &middot; &hellip;",
+        ]),
+        ("When good things curdle", [
+            "generosity and",
+            "intimacy, becoming",
+            "grounds for contempt",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ādheyyamukho</span>",
+            "&mdash; gullible",
+            "for gossip",
+        ]),
+        ("Cross-references", [
+            "AN 5.142 &middot; next: a structured counseling matrix",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.141/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.142.html">AN 5.142 &middot; Transgression</a> &mdash; next: a '
+        "structured, individually tailored counseling framework.",
+        '<a href="an-5.150.html">AN 5.150 &middot; Temporarily Free (2nd)</a> &mdash; this '
+        "chapter&rsquo;s closing discourse.",
+        '<a href="an-5.111.html">AN 5.111 &middot; Visiting Families</a> &mdash; another '
+        "discourse on subtle boundary-overstepping in relationships.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.142 — Ārabhatisutta
+# --------------------------------------------------------------------------- #
+page(
+    142, "Ārabhati", "Transgression",
+    vagga=VAGGA_15,
+    meta_title="AN 5.142 — Transgression | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ārabhatisutta — a "
+        "four-quadrant matrix of wrongdoing and regret, each type given individually "
+        "tailored counseling toward becoming like the fifth, ideal individual. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a four-quadrant matrix plus an ideal fifth type, each of the four given "
+                 "individually quoted counseling advice"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a genuinely structured, "
+                       "pastoral counseling framework"),
+    ],
+    why=(
+        "A genuine four-quadrant matrix: crossing whether someone transgresses "
+        "(<em>ārabhati</em>) with whether they feel regret (<em>vippaṭisāra</em>) produces "
+        "four combinations, none of which alone is the ideal &mdash; since the fifth, ideal "
+        "type also requires understanding liberation itself, a dimension the other four all "
+        "lack."),
+    guide=[
+        ("Four combinations, one ideal fifth", [
+            "Someone who transgresses and regrets it; someone who transgresses and doesn't "
+            "regret it; someone who doesn't transgress yet still regrets; and someone who "
+            "neither transgresses nor regrets &mdash; four possible combinations, all four of "
+            "which still fail to understand where arisen unskillful qualities cease without "
+            "remainder. Only a fifth type, who neither transgresses nor regrets and does "
+            "understand that liberation, is the genuine ideal."]),
+        ("Neither absence of wrongdoing nor mere regret is sufficient", [
+            "The matrix makes an important point plain: not committing wrongdoing (the "
+            "fourth type) isn't enough on its own if genuine liberating understanding is "
+            "still absent; and feeling regret (the third type) doesn't indicate virtue "
+            "either, without that same understanding."]),
+        ("Individually tailored counseling", [
+            "Each of the four lesser types is given specific, quoted advice matched exactly "
+            "to their combination: the first is told their transgression-born and "
+            "regret-born defilements are both present and growing, and advised to give up "
+            "both; the second, whose regret doesn't grow, is advised to give up only the "
+            "transgression-born defilements; the third, who has no transgression-born "
+            "defilements but whose regret grows, is advised to get rid of just the regret; "
+            "the fourth, who has neither, is simply advised to develop mind and wisdom "
+            "directly."]),
+        ("The same closing formula, every time", [
+            "Each piece of advice closes with the identical promise: &lsquo;in this way "
+            "you'll become just like the fifth individual&rsquo; &mdash; framing the whole "
+            "exercise as a genuinely pastoral, individualized path toward the same shared "
+            "goal."]),
+        ("What comes next", [
+            "AN 5.143 shifts entirely to a vivid narrative: the Buddha's encounter with the "
+            "Licchavis at the Sārandada Shrine."]),
+    ],
+    terms=[
+        ("ārabhati",
+         "&ldquo;transgresses, undertakes wrongdoing&rdquo; &mdash; the first axis of this "
+         "discourse's matrix."),
+        ("vippaṭisāra",
+         "&ldquo;regret&rdquo; &mdash; the second axis."),
+        ("ārambhajā āsavā",
+         "&ldquo;defilements born of transgression&rdquo; &mdash; named explicitly in the "
+         "counseling advice."),
+        ("vippaṭisārajā āsavā",
+         "&ldquo;defilements born of regret&rdquo; &mdash; the second kind of defilement "
+         "named."),
+        ("cittaṁ paññañca bhāveti",
+         "&ldquo;develops the mind and wisdom&rdquo; &mdash; the advice given to every type, "
+         "in some form, as the path forward."),
+    ],
+    text_intro=(
+        "The discourse in full: the four-quadrant matrix, then each type's individually "
+        "quoted counseling advice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five individuals"),
+        ("p", "&sect;1", "an5.142:1.1-5.2"),
+        ("h3", "Counseling the first: transgresses and regrets"),
+        ("p", "&sect;2", "an5.142:6.1-6.5"),
+        ("h3", "Counseling the second: transgresses without regret"),
+        ("p", "&sect;3", "an5.142:7.1-7.5"),
+        ("h3", "Counseling the third: doesn't transgress, yet regrets"),
+        ("p", "&sect;4", "an5.142:8.1-8.5"),
+        ("h3", "Counseling the fourth: neither transgresses nor regrets"),
+        ("p", "&sect;5", "an5.142:9.1-10.1"),
+    ],
+    quiz=[
+        {"q": "What two axes form this discourse's matrix?",
+         "opts": [
+             "Whether one transgresses, and whether one feels regret",
+             "Whether one is rich, and whether one is generous",
+             "Whether one is ordained, and whether one is senior",
+             "Whether one is male or female, and whether one is learned"],
+         "correct": 0,
+         "expl": "Ārabhati and vippaṭisāra."},
+        {"q": "Is not committing wrongdoing (the fourth type) sufficient on its own, according to this discourse?",
+         "opts": [
+             "Yes, entirely sufficient",
+             "No — it isn't enough if liberating understanding is still absent",
+             "The discourse doesn't address this",
+             "Only for senior mendicants"],
+         "correct": 1,
+         "expl": "All four combinations lack the fifth type's understanding."},
+        {"q": "Does feeling regret indicate virtue on its own, according to this discourse?",
+         "opts": [
+             "Yes, always",
+             "No — the third type feels regret but still lacks understanding",
+             "Only if publicly confessed",
+             "The discourse doesn't mention regret"],
+         "correct": 1,
+         "expl": "Regret alone doesn't equal the ideal."},
+        {"q": "What distinguishes the fifth, ideal individual from the other four?",
+         "opts": [
+             "Greater wealth",
+             "Understanding where arisen unskillful qualities cease without remainder",
+             "Higher social status",
+             "More years of ordination"],
+         "correct": 1,
+         "expl": "The dimension the other four all lack."},
+        {"q": "What is the first type advised to do?",
+         "opts": [
+             "Give up both transgression-born and regret-born defilements",
+             "Give up only regret",
+             "Give up only transgression",
+             "Do nothing further"],
+         "correct": 0,
+         "expl": "Since both are present and growing in this case."},
+        {"q": "What is the fourth type — who neither transgresses nor regrets — advised to do?",
+         "opts": [
+             "Nothing further is needed",
+             "Simply develop mind and wisdom directly",
+             "Confess publicly",
+             "Begin transgressing to test their resolve"],
+         "correct": 1,
+         "expl": "Since neither kind of defilement is present, only direct development remains."},
+        {"q": "What closing formula follows each piece of individualized advice?",
+         "opts": [
+             "'This too shall pass'",
+             "'In this way you'll become just like the fifth individual'",
+             "'You must be punished'",
+             "'This cannot be helped'"],
+         "correct": 1,
+         "expl": "The same promise, repeated for all four types."},
+        {"q": "What does 'ārambhajā āsavā' mean?",
+         "opts": [
+             "Defilements born of transgression",
+             "Defilements born of wisdom",
+             "Defilements born of generosity",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "Named explicitly in the counseling advice."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's structured character-portraits."},
+        {"q": "What does AN 5.143 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A vivid narrative involving the Licchavis at the Sārandada Shrine",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "A striking shift to concrete narrative."},
+    ],
+    marginalia=[
+        ("A four-quadrant matrix", [
+            "transgress? &middot;",
+            "regret? &mdash; four",
+            "combinations",
+        ]),
+        ("Neither is sufficient alone", [
+            "no wrongdoing,",
+            "or mere regret,",
+            "without understanding",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">vippaṭisāra</span>",
+            "&mdash; regret",
+        ]),
+        ("Cross-references", [
+            "AN 5.143 &middot; next: a vivid narrative shift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.142/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.141.html">AN 5.141 &middot; Scorn</a> &mdash; the previous discourse.',
+        '<a href="an-5.143.html">AN 5.143 &middot; At Sārandada</a> &mdash; next: a vivid '
+        "narrative involving the Licchavis.",
+        '<a href="an-5.106.html">AN 5.106 &middot; With &#256;nanda</a> &mdash; another '
+        "discourse using a structured, escalating counseling format.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.143 — Sārandadasutta
+# --------------------------------------------------------------------------- #
+page(
+    143, "Sārandada", "At Sārandada",
+    vagga=VAGGA_15,
+    meta_title="AN 5.143 — At Sārandada | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sārandadasutta — "
+        "the Buddha overhears the Licchavis discussing five worldly treasures, gently "
+        "rebukes their fixation, and offers five spiritual treasures, ending with gratitude "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Sārandada Shrine &mdash; a specific, named location and a "
+                    "specific historical clan, the Licchavis"),
+        ("Speakers", "The Licchavis, discussing among themselves; the Buddha's direct "
+                     "response"),
+        ("Form", "a vivid narrative, two parallel five-item lists commenting on each other"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; concrete, memorable, and "
+                       "unusually direct in its rebuke"),
+    ],
+    why=(
+        "This chapter's most concrete social setting: the Licchavis, an actual historical "
+        "clan, gathered at a named shrine discussing how rare five worldly treasures are. "
+        "The Buddha, overhearing, gently rebukes their fixation on sensual pleasures and "
+        "offers his own contrasting list &mdash; closing with gratitude itself named as a "
+        "treasure as rare as a Buddha's own appearance in the world."),
+    guide=[
+        ("A concrete historical setting", [
+            "Around five hundred Licchavis &mdash; a real clan associated with Vesālī "
+            "&mdash; are gathered at the Sārandada Shrine, discussing how rare the "
+            "appearance of five treasures is: the elephant-treasure, the horse-treasure, the "
+            "jewel-treasure, the woman-treasure, and the householder-treasure."]),
+        ("An invitation, and a gentle rebuke", [
+            "The Licchavis, seeing the Buddha pass on his almsround, send a lookout and "
+            "invite him to join them. After hearing what they'd been discussing, the Buddha "
+            "responds directly: &lsquo;You Licchavis are so fixated on sensual pleasures, "
+            "that's the only discussion that came up!&rsquo; &mdash; a notably direct, mild "
+            "rebuke before he offers his own list."]),
+        ("Five spiritual treasures, item for item", [
+            "The appearance of a Realized One; a teacher who proclaims the teaching and "
+            "training a Realized One has taught; an individual who understands that "
+            "teaching; an individual who practices in line with it; and an individual who is "
+            "grateful and thankful (<em>kataññū katavedī</em>) &mdash; five items matching "
+            "the worldly list's five-slot structure, letting the two comment on each other."]),
+        ("Gratitude, the striking final item", [
+            "The closing item deserves particular attention: gratitude itself is named as a "
+            "rare treasure, placed on the same level as the appearance of a Realized One in "
+            "the world &mdash; a memorable, deliberately startling claim about how rare "
+            "genuine gratitude actually is."]),
+        ("What comes next", [
+            "AN 5.144 gives this chapter its own title, at a different named location: a "
+            "sophisticated teaching on deliberately practicing perception against its "
+            "natural grain."]),
+    ],
+    terms=[
+        ("Licchavī",
+         "the Licchavis &mdash; a real historical clan associated with Vesālī."),
+        ("Sārandada cetiya",
+         "the Sārandada Shrine, this discourse's named setting."),
+        ("ratana",
+         "&ldquo;treasure&rdquo; &mdash; the shared frame for both the worldly and spiritual "
+         "five-item lists."),
+        ("kāmādhimutta",
+         "&ldquo;fixated on sensual pleasures&rdquo; &mdash; the Buddha's direct "
+         "characterization of the Licchavis' discussion."),
+        ("kataññū katavedī",
+         "&ldquo;grateful and thankful&rdquo; &mdash; the fifth spiritual treasure, this "
+         "discourse's memorable closing claim."),
+    ],
+    text_intro=(
+        "The discourse in full: the Licchavis' discussion, the Buddha's arrival and rebuke, "
+        "and his own contrasting list of five treasures. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Licchavis' discussion"),
+        ("p", "&sect;1", "an5.143:1.1-1.7"),
+        ("h3", "An invitation to the shrine"),
+        ("p", "&sect;2", "an5.143:2.1-4.5"),
+        ("h3", "Five spiritual treasures"),
+        ("p", "&sect;3", "an5.143:5.1-5.9"),
+    ],
+    quiz=[
+        {"q": "Who are the Licchavis?",
+         "opts": [
+             "A fictional group invented for this discourse",
+             "A real historical clan associated with Vesālī",
+             "A group of nuns",
+             "A rival monastic order"],
+         "correct": 1,
+         "expl": "This discourse's concrete historical setting."},
+        {"q": "What five 'treasures' were the Licchavis discussing?",
+         "opts": [
+             "Elephant, horse, jewel, woman, and householder-treasures",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Robes, almsfood, lodging, medicine, praise",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Rare worldly treasures, the topic that prompted the Buddha's response."},
+        {"q": "How does the Buddha respond upon hearing what they'd been discussing?",
+         "opts": [
+             "He praises their discussion wholeheartedly",
+             "He directly, mildly rebukes their fixation on sensual pleasures",
+             "He refuses to comment",
+             "He leaves without speaking"],
+         "correct": 1,
+         "expl": "An unusually direct rebuke before offering his own list."},
+        {"q": "What is the first of the Buddha's five spiritual treasures?",
+         "opts": [
+             "The appearance of a Realized One",
+             "Wealth",
+             "Physical beauty",
+             "Royal lineage"],
+         "correct": 0,
+         "expl": "Matching the worldly list's five-slot structure."},
+        {"q": "What is the fifth and final spiritual treasure?",
+         "opts": [
+             "An individual who is grateful and thankful",
+             "An individual who is wealthy",
+             "An individual who is physically strong",
+             "An individual who is famous"],
+         "correct": 0,
+         "expl": "Kataññū katavedī, this discourse's memorable closing claim."},
+        {"q": "What is striking about placing gratitude as the fifth treasure?",
+         "opts": [
+             "Nothing; it is an ordinary claim",
+             "It places genuine gratitude on the same rarity-level as a Buddha's own appearance",
+             "It contradicts the rest of the list",
+             "It is later retracted"],
+         "correct": 1,
+         "expl": "A deliberately startling, memorable claim."},
+        {"q": "How do the worldly and spiritual lists relate structurally?",
+         "opts": [
+             "They share no structural relationship",
+             "Both are five-item lists, letting the two comment on each other by their shared shape",
+             "The spiritual list has only three items",
+             "The worldly list is longer"],
+         "correct": 1,
+         "expl": "A deliberate five-for-five contrast."},
+        {"q": "Who invites the Buddha to the Sārandada Shrine?",
+         "opts": [
+             "A lone mendicant",
+             "The Licchavis, via a lookout sent to the road",
+             "Ānanda",
+             "No one; he arrives unannounced"],
+         "correct": 1,
+         "expl": "A specific, concrete narrative sequence."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter on Tikaṇḍakī."},
+        {"q": "What does AN 5.144 give this chapter, at a different named location?",
+         "opts": [
+             "A colophon",
+             "The chapter's own title, and a sophisticated perceptual-flexibility teaching",
+             "A narrative about nuns",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "This chapter's title discourse."},
+    ],
+    marginalia=[
+        ("Five worldly, five spiritual", [
+            "elephant &middot; horse",
+            "&hellip; vs. Buddha &middot;",
+            "teacher &middot; gratitude",
+        ]),
+        ("A direct, mild rebuke", [
+            "'so fixated on",
+            "sensual pleasures'",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kataññū katavedī</span>",
+            "&mdash; grateful",
+            "and thankful",
+        ]),
+        ("Cross-references", [
+            "AN 5.144 &middot; next: this chapter's own title discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.143/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.142.html">AN 5.142 &middot; Transgression</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.144.html">AN 5.144 &middot; At Tikaṇḍakī</a> &mdash; next: this '
+        "chapter's own title discourse.",
+        '<a href="an-5.100.html">AN 5.100 &middot; With Kakudha</a> &mdash; another '
+        "concrete narrative discourse, set at Kosamb&#299;.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.144 — Tikaṇḍakīsutta
+# --------------------------------------------------------------------------- #
+page(
+    144, "Tikaṇḍakī", "At Tikaṇḍakī",
+    vagga=VAGGA_15,
+    meta_title="AN 5.144 — At Tikaṇḍakī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Tikaṇḍakīsutta, "
+        "this chapter's title discourse — deliberately practicing perception against its "
+        "natural grain, culminating in equanimity toward both. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāketa, in Tikaṇḍakī Wood &mdash; a new location, stated explicitly, "
+                    "giving this chapter its name"),
+        ("Speakers", SPEAKER),
+        ("Form", "a systematic meditation teaching, each of five variations explained by "
+                 "its own stated purpose"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a genuinely "
+                       "sophisticated, counterintuitive practice"),
+    ],
+    why=(
+        "This chapter's title discourse, appearing fourth rather than at the close: a "
+        "sophisticated, deliberately counterintuitive teaching on training the mind to "
+        "perceive the repulsive as unrepulsive and the unrepulsive as repulsive &mdash; "
+        "practicing against the grain of habitual reaction, on purpose, culminating in "
+        "equanimity toward both."),
+    guide=[
+        ("Five deliberate perceptual exercises", [
+            "A mendicant would do well to meditate, from time to time, perceiving: the "
+            "repulsive in the unrepulsive; the unrepulsive in the repulsive; the repulsive in "
+            "both; the unrepulsive in both; and finally, staying equanimous, mindful, and "
+            "aware, shunning both altogether."]),
+        ("Practicing against the grain, on purpose", [
+            "This isn't simply cultivating one fixed, correct perception. The first four "
+            "exercises deliberately train the mind to see things the opposite of how they "
+            "ordinarily present themselves &mdash; a form of cognitive and perceptual "
+            "flexibility, practiced as its own discipline."]),
+        ("Each exercise given its own explicit purpose", [
+            "Perceiving the repulsive in the unrepulsive: so that greed doesn't arise for "
+            "things that arouse greed. Perceiving the unrepulsive in the repulsive: so that "
+            "hate doesn't arise for things that provoke hate. The third and fourth combine "
+            "both purposes, in either order."]),
+        ("The fifth exercise, transcending the whole practice", [
+            "The final variation moves beyond both perceptual reversals into equanimity "
+            "itself, targeting all three roots at once &mdash; so that neither greed, hate, "
+            "nor delusion arises &lsquo;in any way at all&rsquo;, toward anything whatsoever."]),
+        ("A rare, explicit teaching on flexibility itself", [
+            "Most meditation instructions in this collection cultivate a single correct "
+            "perception directly. This discourse instead teaches the capacity to shift "
+            "perception deliberately in either direction, as a skill in its own right, before "
+            "resting in equanimity that needs neither."]),
+        ("What comes next", [
+            "AN 5.145 returns to a familiar, foundational formula: the five precepts, stated "
+            "in their plainest form as the discourse's title, &lsquo;Hell&rsquo;, suggests."]),
+    ],
+    terms=[
+        ("paṭikūla / appaṭikūla",
+         "repulsive / unrepulsive &mdash; the two poles this discourse's perceptual "
+         "exercises work between."),
+        ("kālena kālaṁ",
+         "&ldquo;from time to time&rdquo; &mdash; qualifying how often, not constantly, this "
+         "practice is recommended."),
+        ("upekkhako&hellip;sato sampajāno",
+         "&ldquo;equanimous&hellip;mindful and aware&rdquo; &mdash; the fifth, culminating "
+         "disposition."),
+        ("rāga / dosa / moha",
+         "greed, hatred, delusion &mdash; the three roots the fifth exercise addresses all "
+         "at once."),
+        ("atthavasa",
+         "&ldquo;reason, purpose&rdquo; &mdash; the term introducing each exercise's stated "
+         "rationale."),
+    ],
+    text_intro=(
+        "The discourse in full: five deliberate perceptual exercises, each explained by its "
+        "own stated purpose. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five ways of meditating"),
+        ("p", "&sect;1", "an5.144:2.1-2.5"),
+        ("h3", "Why perceive the repulsive in the unrepulsive"),
+        ("p", "&sect;2", "an5.144:3.1-3.3"),
+        ("h3", "Why perceive the unrepulsive in the repulsive"),
+        ("p", "&sect;3", "an5.144:4.1-4.3"),
+        ("h3", "Why perceive the repulsive in both"),
+        ("p", "&sect;4", "an5.144:5.1-5.3"),
+        ("h3", "Why perceive the unrepulsive in both"),
+        ("p", "&sect;5", "an5.144:6.1-6.3"),
+        ("h3", "Why rest in equanimity, shunning both"),
+        ("p", "&sect;6", "an5.144:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī",
+             "Sāketa, in Tikaṇḍakī Wood",
+             "Sāvatthī",
+             "Kosambī"],
+         "correct": 1,
+         "expl": "A new location, giving this chapter its name."},
+        {"q": "What is the first of the five perceptual exercises?",
+         "opts": [
+             "Perceiving the repulsive in the unrepulsive",
+             "Perceiving only what is repulsive",
+             "Avoiding all perception entirely",
+             "Perceiving only what is pleasant"],
+         "correct": 0,
+         "expl": "Deliberately reversing ordinary perception."},
+        {"q": "What does this discourse teach, beyond cultivating one fixed 'correct' perception?",
+         "opts": [
+             "Nothing different from other meditation instructions",
+             "Deliberate perceptual flexibility — training the mind to shift in either direction",
+             "That perception should never be questioned",
+             "That only negative perceptions are useful"],
+         "correct": 1,
+         "expl": "A rare, explicit teaching on cognitive flexibility as its own skill."},
+        {"q": "Why should a mendicant perceive the repulsive in the unrepulsive?",
+         "opts": [
+             "So that greed doesn't arise for things that arouse greed",
+             "So that hate doesn't arise",
+             "For no particular reason",
+             "To become more critical of others"],
+         "correct": 0,
+         "expl": "The first exercise's explicit stated purpose."},
+        {"q": "Why should a mendicant perceive the unrepulsive in the repulsive?",
+         "opts": [
+             "So that hate doesn't arise for things that provoke hate",
+             "So that greed doesn't arise",
+             "To become more attached to unpleasant things",
+             "For no particular reason"],
+         "correct": 0,
+         "expl": "The second exercise's stated purpose."},
+        {"q": "What does the fifth, final exercise address, unlike the first four?",
+         "opts": [
+             "Only greed",
+             "All three roots — greed, hatred, and delusion — at once",
+             "Only hatred",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "Transcending both perceptual reversals into full equanimity."},
+        {"q": "How often is this practice recommended?",
+         "opts": [
+             "Constantly, without exception",
+             "From time to time (kālena kālaṁ), not constantly",
+             "Only once in a lifetime",
+             "Only during illness"],
+         "correct": 1,
+         "expl": "A periodic practice, not a fixed constant state."},
+        {"q": "What disposition characterizes the fifth exercise?",
+         "opts": [
+             "Anger and rejection",
+             "Equanimity, mindfulness, and awareness",
+             "Excitement and enthusiasm",
+             "Confusion"],
+         "correct": 1,
+         "expl": "Upekkhako, sato, sampajāno."},
+        {"q": "What chapter does this discourse title?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Andhakavindavagga"],
+         "correct": 1,
+         "expl": "This chapter's own title discourse."},
+        {"q": "What does AN 5.145 return to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The five precepts, in their plainest form",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "Foundational ethical material, stated simply."},
+    ],
+    marginalia=[
+        ("Five deliberate exercises", [
+            "reversing perception,",
+            "on purpose,",
+            "as a discipline",
+        ]),
+        ("Each with its own purpose", [
+            "so greed, hatred,",
+            "or delusion",
+            "doesn't arise",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">upekkhako</span>",
+            "&mdash; equanimous,",
+            "the fifth disposition",
+        ]),
+        ("Cross-references", [
+            "AN 5.145 &middot; next: the five precepts, plainly stated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.144/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.143.html">AN 5.143 &middot; At Sārandada</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.145.html">AN 5.145 &middot; Hell</a> &mdash; next: the five '
+        "precepts, in their plainest form.",
+        '<a href="an-5.121.html">AN 5.121 &middot; Sick</a> &mdash; another discourse in '
+        "this nip&#257;ta at a specific, named location.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.145 — Nirayasutta
+# --------------------------------------------------------------------------- #
+page(
+    145, "Niraya", "Hell",
+    vagga=VAGGA_15,
+    meta_title="AN 5.145 — Hell | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nirayasutta — the "
+        "five precepts, Buddhism's most widely known ethical formula, stated here in their "
+        "plainest, most compact form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, stated with unusual compactness"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the most widely known "
+                       "ethical formula in the tradition"),
+    ],
+    why=(
+        "This is the five precepts (<em>pañcasīla</em>) &mdash; likely the single most "
+        "widely known ethical formula in the entire Buddhist tradition &mdash; stated here "
+        "in their plainest, most compact form, in negative and positive versions, closing "
+        "with the same hell/heaven verdict formula used at AN 5.115&ndash;120."),
+    guide=[
+        ("The five precepts, in negative form", [
+            "Killing living creatures, stealing, sexual misconduct, lying, and consuming "
+            "intoxicants &mdash; five actions this discourse states plainly lead to hell, "
+            "&lsquo;as if delivered there&rsquo;."]),
+        ("A foundational formula, stated with unusual simplicity", [
+            "Unlike this nipāta's often more elaborate five-item constructions &mdash; "
+            "battle similes, escalating dialogues, four-quadrant matrices &mdash; this "
+            "discourse gives the tradition's most basic ethical foundation in its simplest "
+            "possible form, without further elaboration on any single item."]),
+        ("The mirrored positive", [
+            "Abstaining from each of the same five actions, closing with the identical "
+            "verdict formula placing someone in heaven &lsquo;as if delivered there&rsquo;."]),
+        ("Why this belongs in a nipāta of otherwise elaborate teaching", [
+            "This discourse's plainness is itself worth noting: even within a collection "
+            "full of extended similes and structured frameworks, the tradition's most basic "
+            "lay ethical foundation earns its own place, stated without any need for further "
+            "unpacking."]),
+        ("What comes next", [
+            "AN 5.146 turns to a practical question within the monastic community itself: "
+            "what makes a mendicant friend worth associating with, or not."]),
+    ],
+    terms=[
+        ("pāṇātipātī / pāṇātipātā paṭivirato",
+         "killing living creatures / abstaining from killing &mdash; the first precept, in "
+         "negative and positive form."),
+        ("adinnādāyī",
+         "&ldquo;stealing&rdquo; &mdash; taking what isn't given, the second precept."),
+        ("kāmesumicchācārī",
+         "&ldquo;sexual misconduct&rdquo; &mdash; the third precept."),
+        ("musāvādī",
+         "&ldquo;lying&rdquo; &mdash; the fourth precept."),
+        ("surāmerayamajjapamādaṭṭhāyī",
+         "&ldquo;consuming beer, wine, and liquor intoxicants&rdquo; &mdash; the fifth "
+         "precept."),
+    ],
+    text_intro=(
+        "The discourse in full: the five precepts, in negative and positive form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Placed in hell"),
+        ("p", "&sect;1", "an5.145:1.1-1.4"),
+        ("h3", "Placed in heaven"),
+        ("p", "&sect;2", "an5.145:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What foundational ethical formula does this discourse state?",
+         "opts": [
+             "The five precepts",
+             "The eightfold path",
+             "The four noble truths",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Pañcasīla, in negative and positive form."},
+        {"q": "What is the first precept, in its negative form?",
+         "opts": [
+             "Killing living creatures",
+             "Stealing",
+             "Lying",
+             "Consuming intoxicants"],
+         "correct": 0,
+         "expl": "Pāṇātipātī."},
+        {"q": "What is the fifth precept?",
+         "opts": [
+             "Sexual misconduct",
+             "Lying",
+             "Consuming beer, wine, and liquor intoxicants",
+             "Stealing"],
+         "correct": 2,
+         "expl": "Surāmerayamajjapamādaṭṭhāyī."},
+        {"q": "How is this discourse's presentation different from most of this nipāta's five-item lists?",
+         "opts": [
+             "It is far more elaborate",
+             "It is unusually simple and compact, with no further unpacking of any item",
+             "It uses an extended narrative",
+             "It uses a battle simile"],
+         "correct": 1,
+         "expl": "The tradition's most basic ethical foundation, stated plainly."},
+        {"q": "What verdict formula does this discourse share with AN 5.115–120?",
+         "opts": [
+             "'Soon penetrates the unshakable'",
+             "'Placed there as if delivered', for hell or heaven",
+             "'Worthy of offerings'",
+             "'At ease in any quarter'"],
+         "correct": 1,
+         "expl": "The same recurring stock phrase."},
+        {"q": "What does 'kāmesumicchācārī' mean?",
+         "opts": [
+             "Sexual misconduct",
+             "Stealing",
+             "Lying",
+             "Killing"],
+         "correct": 0,
+         "expl": "The third precept."},
+        {"q": "How is the 'heaven' list constructed relative to the 'hell' list?",
+         "opts": [
+             "An entirely different set of five items",
+             "The simple negation — abstaining from each of the same five actions",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What does 'adinnādāyī' mean?",
+         "opts": [
+             "Stealing, taking what isn't given",
+             "Generous giving",
+             "Refusing all gifts",
+             "Speaking harshly"],
+         "correct": 0,
+         "expl": "The second precept."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's varied character portraits."},
+        {"q": "What does AN 5.146 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "What makes a mendicant friend worth associating with",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "A practical question within the monastic community."},
+    ],
+    marginalia=[
+        ("The five precepts", [
+            "killing &middot; stealing",
+            "&middot; misconduct &middot;",
+            "lying &middot; intoxicants",
+        ]),
+        ("Plainness, deliberately", [
+            "the most basic",
+            "formula, stated",
+            "without elaboration",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">pañcasīla</span>",
+            "&mdash; the five",
+            "precepts",
+        ]),
+        ("Cross-references", [
+            "AN 5.115&ndash;120 &middot; the same verdict formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.145/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.144.html">AN 5.144 &middot; At Tikaṇḍakī</a> &mdash; the previous '
+        "discourse, this chapter's own title piece.",
+        '<a href="an-5.146.html">AN 5.146 &middot; A Friend</a> &mdash; next: fitness for '
+        "companionship within the monastic community.",
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; the same hell/heaven '
+        "verdict formula's earlier appearance in this nip&#257;ta.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.146 — Mittasutta
+# --------------------------------------------------------------------------- #
+page(
+    146, "Mitta", "A Friend",
+    vagga=VAGGA_15,
+    meta_title="AN 5.146 — A Friend | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mittasutta — five "
+        "warning signs of a mendicant friend not worth associating with, centered on "
+        "restlessness and conflict. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, on fitness for monastic companionship"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical, everyday "
+                       "guidance"),
+    ],
+    why=(
+        "Practical criteria for choosing companions within the monastic community: a "
+        "friend to avoid is marked by restless, conflict-prone busyness &mdash; starting "
+        "projects, taking up disputes, clashing with seniors, wandering aimlessly &mdash; "
+        "regardless of any stated bad intent."),
+    guide=[
+        ("A friend not worth associating with", [
+            "Starting up work projects; taking up disciplinary issues; conflicting with "
+            "leading mendicants; liking long and aimless wandering; and being unable to give "
+            "an inspiring Dhamma talk from time to time."]),
+        ("A shared thread: restless, conflict-prone busyness", [
+            "Four of the five items name different flavors of the same underlying pattern: "
+            "a kind of restless engagement &mdash; with projects, disputes, seniors, or "
+            "travel &mdash; that unsettles rather than steadies. None of the four requires "
+            "any stated bad intent to count as a warning sign."]),
+        ("The fifth criterion, familiar from elsewhere", [
+            "The final item &mdash; ability to give an inspiring Dhamma talk &mdash; recurs "
+            "from AN 5.124's carer discourse, where the same competence was named as part of "
+            "what makes someone fit to care for a sick person."]),
+        ("The mirrored positive", [
+            "A worthwhile friend avoids all four restless patterns and is able to educate, "
+            "encourage, and inspire with genuine Dhamma talk."]),
+        ("What comes next", [
+            "AN 5.147 turns to a different question about generosity: not whether one "
+            "gives, but the manner in which a gift is given."]),
+    ],
+    terms=[
+        ("kammantaṁ kāreti",
+         "&ldquo;starts up work projects&rdquo; &mdash; the first warning sign."),
+        ("adhikaraṇaṁ ādiyati",
+         "&ldquo;takes up disciplinary issues&rdquo; &mdash; the second."),
+        ("pāmokkhesu bhikkhūsu paṭiviruddho",
+         "&ldquo;conflicts with leading mendicants&rdquo; &mdash; the third."),
+        ("dīghacārikaṁ anavatthacārikaṁ anuyutto",
+         "&ldquo;devoted to long and aimless wandering&rdquo; &mdash; the fourth."),
+        ("dhammiyā kathāya sandassetuṁ",
+         "&ldquo;to educate with a Dhamma talk&rdquo; &mdash; the fifth criterion, reused "
+         "from AN 5.124."),
+    ],
+    text_intro=(
+        "The discourse in full: five warning signs of a friend to avoid, and their "
+        "opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A friend not to associate with"),
+        ("p", "&sect;1", "an5.146:1.1-1.4"),
+        ("h3", "A friend to associate with"),
+        ("p", "&sect;2", "an5.146:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five qualities mark a mendicant friend not worth associating with?",
+         "opts": [
+             "Starting projects, taking up disputes, conflicting with seniors, aimless wandering, inability to inspire",
+             "Faith, ethics, learning, generosity, wisdom",
+             "The five hindrances",
+             "The five precepts, violated"],
+         "correct": 0,
+         "expl": "Five warning signs of a poor companion."},
+        {"q": "What underlying pattern do four of the five items share?",
+         "opts": [
+             "Physical illness",
+             "Restless, conflict-prone busyness",
+             "Excessive generosity",
+             "Excessive silence"],
+         "correct": 1,
+         "expl": "A kind of unsettling engagement, in four different forms."},
+        {"q": "Does any of the four restless-busyness items require stated bad intent?",
+         "opts": [
+             "Yes, all four require malicious intent",
+             "No — none requires bad intent to count as a warning sign",
+             "Only the first requires intent",
+             "The discourse doesn't address intent"],
+         "correct": 1,
+         "expl": "The pattern itself is the warning, regardless of motive."},
+        {"q": "Where did this discourse's fifth criterion previously appear in this nipāta?",
+         "opts": [
+             "AN 5.124's carer discourse",
+             "AN 5.99's lion simile",
+             "AN 5.1",
+             "AN 5.71"],
+         "correct": 0,
+         "expl": "The same competence named there for a sick person's carer."},
+        {"q": "What does 'kammantaṁ kāreti' mean?",
+         "opts": [
+             "Starts up work projects",
+             "Refuses all work",
+             "Teaches extensively",
+             "Meditates constantly"],
+         "correct": 0,
+         "expl": "The first warning sign."},
+        {"q": "What does 'adhikaraṇaṁ ādiyati' mean?",
+         "opts": [
+             "Avoids all conflict",
+             "Takes up disciplinary issues",
+             "Teaches meditation",
+             "Gives generously"],
+         "correct": 1,
+         "expl": "The second warning sign."},
+        {"q": "What does 'dīghacārikaṁ anavatthacārikaṁ anuyutto' describe?",
+         "opts": [
+             "Devotion to long and aimless wandering",
+             "Staying in one place permanently",
+             "Studying scripture",
+             "Practicing generosity"],
+         "correct": 0,
+         "expl": "The fourth warning sign."},
+        {"q": "How is the positive list constructed relative to the negative one?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing this chapter's practical guidance."},
+        {"q": "What does AN 5.147 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The manner in which a gift is given",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A different dimension of generosity."},
+    ],
+    marginalia=[
+        ("Restless busyness, four ways", [
+            "projects &middot;",
+            "disputes &middot; conflict",
+            "&middot; aimless wandering",
+        ]),
+        ("No bad intent required", [
+            "the pattern itself",
+            "is the warning sign",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">adhikaraṇa</span>",
+            "&mdash; disciplinary",
+            "issues, disputes",
+        ]),
+        ("Cross-references", [
+            "AN 5.124 &middot; the shared fifth criterion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.146/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.145.html">AN 5.145 &middot; Hell</a> &mdash; the previous discourse.',
+        '<a href="an-5.147.html">AN 5.147 &middot; Gifts of an Untrue Person</a> &mdash; '
+        "next: the manner of giving, rather than the fact of it.",
+        '<a href="an-5.124.html">AN 5.124 &middot; A Carer (2nd)</a> &mdash; where this '
+        "discourse's fifth criterion first appeared.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.147 — Asappurisadānasutta
+# --------------------------------------------------------------------------- #
+page(
+    147, "Asappurisadāna", "Gifts of an Untrue Person",
+    vagga=VAGGA_15,
+    meta_title="AN 5.147 — Gifts of an Untrue Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Asappurisadānasutta — even genuine material generosity can be undermined by the "
+        "manner of giving: carelessly, thoughtlessly, or with the dregs. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, concerning the manner rather than the fact of "
+                 "giving"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a practical distinction "
+                       "worth noticing"),
+    ],
+    why=(
+        "A discourse about how a gift is given, not whether one gives at all: even genuine "
+        "material generosity can be undermined by carelessness, thoughtlessness, refusal to "
+        "give with one's own hand, giving only the dregs, or giving without regard for "
+        "consequences."),
+    guide=[
+        ("The manner, not the fact, of giving", [
+            "This discourse doesn't ask whether someone gives; it asks how. Five specific "
+            "manners of giving are named as belonging to an &lsquo;untrue person&rsquo; "
+            "(<em>asappurisa</em>), regardless of whether the gift itself is genuine."]),
+        ("Five careless manners", [
+            "Giving carelessly; giving thoughtlessly; not giving with one's own hand; giving "
+            "the dregs or leftovers; and giving without any consideration for consequences."]),
+        ("The mirrored positive", [
+            "Giving carefully, thoughtfully, with one's own hand, not the dregs, and with "
+            "consideration for consequences &mdash; the exact opposite manner in each "
+            "respect."]),
+        ("A distinct discourse from its immediate successor", [
+            "AN 5.148 shares this discourse's &lsquo;true person&rsquo; title concept but "
+            "names an entirely different five-item list, worth noting explicitly so the two "
+            "aren't conflated: this discourse concerns the manner of giving, while AN 5.148 "
+            "names five distinct motivations and their distinct karmic results."]),
+        ("What comes next", [
+            "AN 5.148 gives its own, different five gifts of a true person, this time each "
+            "with its own specific karmic fruit."]),
+    ],
+    terms=[
+        ("asappurisa",
+         "&ldquo;an untrue, bad person&rdquo; &mdash; literally &lsquo;not a good "
+         "person&rsquo;, this discourse's subject."),
+        ("asakkaccaṁ deti",
+         "&ldquo;gives carelessly&rdquo; &mdash; the first manner named."),
+        ("asahatthā deti",
+         "&ldquo;doesn't give with one's own hand&rdquo; &mdash; the third manner."),
+        ("apaviddhaṁ deti",
+         "&ldquo;gives the dregs, leftovers&rdquo; &mdash; the fourth manner."),
+        ("anāgamanadiṭṭhiko deti",
+         "&ldquo;gives without consideration for consequences&rdquo; &mdash; the fifth "
+         "manner."),
+    ],
+    text_intro=(
+        "The discourse in full: five careless manners of giving, and their opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Gifts of an untrue person"),
+        ("p", "&sect;1", "an5.147:1.1-1.4"),
+        ("h3", "Gifts of a true person"),
+        ("p", "&sect;2", "an5.147:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse concern, unlike whether one gives at all?",
+         "opts": [
+             "The manner in which a gift is given",
+             "The recipient's worthiness",
+             "The size of the gift",
+             "The timing of the gift"],
+         "correct": 0,
+         "expl": "Even genuine generosity can be undermined by how it is given."},
+        {"q": "What does 'asakkaccaṁ deti' mean?",
+         "opts": [
+             "Gives carelessly",
+             "Gives carefully",
+             "Refuses to give",
+             "Gives generously"],
+         "correct": 0,
+         "expl": "The first careless manner."},
+        {"q": "What does 'asahatthā deti' mean?",
+         "opts": [
+             "Doesn't give with one's own hand",
+             "Gives with both hands",
+             "Refuses all gifts",
+             "Gives publicly"],
+         "correct": 0,
+         "expl": "The third careless manner."},
+        {"q": "What does 'apaviddhaṁ deti' mean?",
+         "opts": [
+             "Gives the dregs or leftovers",
+             "Gives the finest quality",
+             "Gives nothing at all",
+             "Gives excessively"],
+         "correct": 0,
+         "expl": "The fourth careless manner."},
+        {"q": "How is the 'true person' list constructed relative to the 'untrue person' list?",
+         "opts": [
+             "An entirely different five items",
+             "The simple negation — the opposite manner in each respect",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What does 'anāgamanadiṭṭhiko deti' mean?",
+         "opts": [
+             "Gives without consideration for consequences",
+             "Gives with careful foresight",
+             "Refuses to give",
+             "Gives only to strangers"],
+         "correct": 0,
+         "expl": "The fifth careless manner."},
+        {"q": "How does this discourse relate to AN 5.148, which shares its title concept?",
+         "opts": [
+             "They are identical in content",
+             "They name entirely different five-item lists, worth distinguishing carefully",
+             "AN 5.148 simply repeats this discourse",
+             "There is no relationship between them"],
+         "correct": 1,
+         "expl": "Manner of giving, versus motivation and karmic result."},
+        {"q": "What does 'asappurisa' mean?",
+         "opts": [
+             "An untrue, bad person",
+             "A wealthy person",
+             "A senior mendicant",
+             "A wilderness-dweller"],
+         "correct": 0,
+         "expl": "Literally 'not a good person'."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's practical guidance."},
+        {"q": "What does AN 5.148 give, with a different structure from this discourse?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Five different gifts of a true person, each with its own distinct karmic result",
+             "A repeat of this same list",
+             "The lion simile"],
+         "correct": 1,
+         "expl": "Five distinct motivations, five distinct fruits."},
+    ],
+    marginalia=[
+        ("Five careless manners", [
+            "careless &middot;",
+            "thoughtless &middot; not",
+            "by hand &middot; dregs",
+        ]),
+        ("The manner, not the fact", [
+            "even genuine",
+            "generosity, undermined",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">asappurisa</span>",
+            "&mdash; an untrue,",
+            "bad person",
+        ]),
+        ("Cross-references", [
+            "AN 5.148 &middot; a different 'true person' gift-list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.147/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.146.html">AN 5.146 &middot; A Friend</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.148.html">AN 5.148 &middot; Gifts of a True Person</a> &mdash; next: '
+        "a different five-item gift-list, with distinct karmic results.",
+        '<a href="an-5.109.html">AN 5.109 &middot; All Four Quarters</a> &mdash; another '
+        "discourse in this nip&#257;ta on contentment with material things.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.148 — Sappurisadānasutta
+# --------------------------------------------------------------------------- #
+page(
+    148, "Sappurisadāna", "Gifts of a True Person",
+    vagga=VAGGA_15,
+    meta_title="AN 5.148 — Gifts of a True Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sappurisadānasutta — five distinct motivations for giving, each earning its own "
+        "specific karmic fruit beyond mere wealth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list, each item given its own distinct, specific "
+                 "karmic result"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a distinctive "
+                       "cause-and-effect structure, worth following closely"),
+    ],
+    why=(
+        "Unlike AN 5.147's simple hell/heaven-style structure, this discourse gives each of "
+        "five distinct motivations for giving its own specific karmic fruit &mdash; beauty "
+        "for faith-driven giving, an attentive household for careful giving, timely "
+        "abundance for timely giving, refined enjoyment for giving with no strings attached, "
+        "and protection from loss for giving that harms no one."),
+    guide=[
+        ("Five motivations, sharing one common result", [
+            "Giving out of faith; giving carefully; giving at the right time; giving with no "
+            "strings attached; and giving without damaging oneself or others &mdash; all "
+            "five, this discourse says, produce wealth wherever their result manifests."]),
+        ("But each also earns its own distinct additional fruit", [
+            "Faith-driven giving additionally brings physical beauty. Careful giving "
+            "additionally brings a household &mdash; children, spouse, servants, workers "
+            "&mdash; that actively wants to listen and understand. Timely giving brings "
+            "one's own needs met precisely when they arise. Giving with no strings attached "
+            "brings a mind inclined to enjoy the five refined kinds of sensual stimulation. "
+            "Harmless giving brings protection of one's own property from fire, flood, "
+            "rulers, bandits, or unloved heirs."]),
+        ("A structure distinct from AN 5.147's", [
+            "This discourse shares its title concept, &lsquo;true person&rsquo; "
+            "(<em>sappurisa</em>), with AN 5.147, but names an entirely different five-item "
+            "list: not the manner of giving, but the motivation behind it, each with its own "
+            "matched consequence rather than a single shared verdict."]),
+        ("Cause matched to consequence", [
+            "The mapping is worth appreciating for its specificity: no strings attached "
+            "brings enjoyment of what one gives away freely; harming no one in the act of "
+            "giving brings protection of what remains; care in giving is answered by "
+            "attentiveness in one's own household. Each fruit echoes the particular quality "
+            "of the giving that produced it."]),
+        ("What comes next", [
+            "AN 5.149 returns to a familiar formula, applied to a specific category of "
+            "mendicant: what leads to decline for someone whose liberation is temporary "
+            "rather than fixed."]),
+    ],
+    terms=[
+        ("saddhāya dānaṁ deti",
+         "&ldquo;gives a gift out of faith&rdquo; &mdash; the first motivation, additionally "
+         "yielding physical beauty."),
+        ("anuggahitacitto",
+         "&ldquo;with no strings attached&rdquo;, not expecting reciprocity &mdash; the "
+         "fourth motivation."),
+        ("attānañca parañca anupahacca",
+         "&ldquo;without damaging oneself or others&rdquo; &mdash; the fifth motivation."),
+        ("pañca kāmaguṇa",
+         "the five refined kinds of sensual stimulation &mdash; the fruit of giving with no "
+         "strings attached."),
+        ("bhogānaṁ upaghāta",
+         "&ldquo;damage to one's property&rdquo; &mdash; what harmless giving specifically "
+         "protects against."),
+    ],
+    text_intro=(
+        "The discourse in full: five motivations for giving, each with its own distinct "
+        "karmic fruit. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five gifts of a true person"),
+        ("p", "&sect;1", "an5.148:1.1-1.3"),
+        ("h3", "Giving out of faith"),
+        ("p", "&sect;2", "an5.148:2.1"),
+        ("h3", "Giving carefully"),
+        ("p", "&sect;3", "an5.148:3.1-3.2"),
+        ("h3", "Giving at the right time"),
+        ("p", "&sect;4", "an5.148:4.1-4.2"),
+        ("h3", "Giving with no strings attached"),
+        ("p", "&sect;5", "an5.148:5.1-5.2"),
+        ("h3", "Giving without harming self or others"),
+        ("p", "&sect;6", "an5.148:6.1-6.3"),
+    ],
+    quiz=[
+        {"q": "What common result do all five motivations for giving share?",
+         "opts": [
+             "Wealth, wherever the result manifests",
+             "Physical illness",
+             "Rebirth as a deity only",
+             "Nothing in common"],
+         "correct": 0,
+         "expl": "The shared baseline result across all five."},
+        {"q": "What additional fruit does giving out of faith bring?",
+         "opts": [
+             "Physical beauty",
+             "A household that listens attentively",
+             "Timely abundance",
+             "Protection from loss"],
+         "correct": 0,
+         "expl": "The first motivation's distinct additional result."},
+        {"q": "What additional fruit does giving carefully bring?",
+         "opts": [
+             "Physical beauty",
+             "A household that actively wants to listen and understand",
+             "Protection from fire and flood",
+             "Nothing beyond wealth"],
+         "correct": 1,
+         "expl": "Children, spouse, servants, and workers who listen."},
+        {"q": "What additional fruit does giving with no strings attached bring?",
+         "opts": [
+             "A mind inclined to enjoy the five refined kinds of sensual stimulation",
+             "Physical beauty",
+             "Protection from bandits",
+             "A large household"],
+         "correct": 0,
+         "expl": "Enjoyment matching the freedom of the original giving."},
+        {"q": "What additional fruit does harmless giving bring?",
+         "opts": [
+             "Physical beauty",
+             "Protection of one's property from fire, flood, rulers, bandits, or unloved heirs",
+             "A large family",
+             "Fame"],
+         "correct": 1,
+         "expl": "Protection echoing the harmlessness of the original giving."},
+        {"q": "How does this discourse's structure differ from AN 5.147's?",
+         "opts": [
+             "They are identical in structure",
+             "Each motivation here has its own distinct, matched karmic fruit, rather than a shared verdict",
+             "This discourse has no positive content at all",
+             "AN 5.147 has more items"],
+         "correct": 1,
+         "expl": "Specific cause-and-effect mapping, not a single shared outcome."},
+        {"q": "What does 'anuggahitacitto' mean?",
+         "opts": [
+             "With no strings attached, not expecting reciprocity",
+             "Given reluctantly",
+             "Given publicly",
+             "Given to strangers only"],
+         "correct": 0,
+         "expl": "The fourth motivation."},
+        {"q": "What general principle does the cause-and-fruit mapping illustrate?",
+         "opts": [
+             "That all giving produces identical results",
+             "That each fruit echoes the particular quality of the giving that produced it",
+             "That giving has no consequences at all",
+             "That only wealthy people can give meaningfully"],
+         "correct": 1,
+         "expl": "A specific, matched cause-and-consequence structure."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's practical guidance on giving."},
+        {"q": "What does AN 5.149 return to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A familiar decline-formula, applied to a specific mendicant category",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "Samayavimutta, a mendicant whose liberation is temporary rather than fixed."},
+    ],
+    marginalia=[
+        ("Five motivations, matched fruits", [
+            "faith &rarr; beauty &middot;",
+            "care &rarr; listening",
+            "&middot; no strings &rarr; enjoyment",
+        ]),
+        ("Cause echoing consequence", [
+            "each fruit reflects",
+            "the quality of",
+            "the giving itself",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anuggahitacitto</span>",
+            "&mdash; no strings",
+            "attached",
+        ]),
+        ("Cross-references", [
+            "AN 5.147 &middot; a different 'true person' gift-list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.148/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.147.html">AN 5.147 &middot; Gifts of an Untrue Person</a> &mdash; '
+        "the previous discourse, on the manner rather than the motivation of giving.",
+        '<a href="an-5.149.html">AN 5.149 &middot; Temporarily Free (1st)</a> &mdash; next: '
+        "a decline-formula for a specific category of mendicant.",
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; where the '
+        "underlying decline-formula AN 5.149 reuses first appeared.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.149 — Paṭhamasamayavimuttasutta
+# --------------------------------------------------------------------------- #
+page(
+    149, "Paṭhamasamayavimutta", "Temporarily Free (1st)",
+    vagga=VAGGA_15,
+    meta_title="AN 5.149 — Temporarily Free (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasamayavimuttasutta — AN 5.89's decline formula reused for samayavimutta, a "
+        "mendicant whose freedom is temporary rather than fixed. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, a reused formula applied to a distinct "
+                 "technical category"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar material, one "
+                       "distinct new term to understand"),
+    ],
+    why=(
+        "This discourse reuses AN 5.89's exact five-item decline list verbatim, but applies "
+        "it to a narrower, specific category: a mendicant who is <em>samayavimutta</em> "
+        "&mdash; temporarily or conditionally free, whose liberation depends on supportive "
+        "circumstances and can be lost through neglect."),
+    guide=[
+        ("A recognized, distinct category of freedom", [
+            "<em>Samayavimutta</em> names a mendicant whose freedom is temporary or "
+            "conditional, distinct from unconditional, permanent liberation "
+            "(<em>asamayavimutta</em>). This category's freedom depends on supportive "
+            "circumstances continuing, which is precisely what makes its potential decline "
+            "worth naming."]),
+        ("The identical five factors from AN 5.89", [
+            "Relishing work, talk, sleep, and company, and not reviewing the extent of one's "
+            "mind's freedom &mdash; word for word the same list already used at AN 5.89 for "
+            "a trainee's (<em>sekha</em>) decline, now applied to this distinct category."]),
+        ("Why the same list fits both categories", [
+            "Both a trainee and a temporarily-free mendicant share the same vulnerability: "
+            "their attainment is not yet fixed, and the same restless, unreviewed habits "
+            "that threaten a trainee's progress threaten a temporarily-free mendicant's own "
+            "continued freedom."]),
+        ("The mirrored positive", [
+            "Not relishing work, talk, sleep, or company, and reviewing the extent of one's "
+            "mind's freedom &mdash; the identical negation already used at AN 5.89."]),
+        ("What comes next", [
+            "AN 5.150 closes this chapter with a companion discourse for this same "
+            "samayavimutta category, replacing two of the five factors with more concrete "
+            "practical ones."]),
+    ],
+    terms=[
+        ("samayavimutta",
+         "&ldquo;temporarily, conditionally free&rdquo; &mdash; a mendicant whose "
+         "liberation depends on supportive circumstances, distinct from permanent freedom."),
+        ("kammārāmatā",
+         "relishing work &mdash; the first decline factor, reused from AN 5.89."),
+        ("saṅgaṇikārāmatā",
+         "relishing company &mdash; the fourth decline factor."),
+        ("yathāvimuttaṁ cittaṁ paccavekkhati",
+         "reviewing the extent of one's mind's freedom &mdash; the fifth factor."),
+        ("asamayavimutta",
+         "&ldquo;unconditionally, permanently free&rdquo; &mdash; the contrasting category "
+         "this discourse's subject is distinguished from."),
+    ],
+    text_intro=(
+        "The discourse in full: five decline factors reused from AN 5.89, applied to a "
+        "temporarily-free mendicant. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What leads to decline"),
+        ("p", "&sect;1", "an5.149:1.1-1.4"),
+        ("h3", "What does not lead to decline"),
+        ("p", "&sect;2", "an5.149:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'samayavimutta' mean?",
+         "opts": [
+             "Permanently, unconditionally free",
+             "Temporarily or conditionally free",
+             "Never free",
+             "A senior mendicant"],
+         "correct": 1,
+         "expl": "This discourse's specific subject category."},
+        {"q": "Where did this discourse's exact five-item decline list previously appear?",
+         "opts": [
+             "AN 5.89",
+             "AN 5.1",
+             "AN 5.71",
+             "AN 5.99"],
+         "correct": 0,
+         "expl": "Reused word for word, applied to a different category."},
+        {"q": "What category did AN 5.89's decline list originally describe?",
+         "opts": [
+             "A senior mendicant",
+             "A trainee (sekha)",
+             "A wilderness-dweller",
+             "A carer"],
+         "correct": 1,
+         "expl": "Now reapplied to a temporarily-free mendicant."},
+        {"q": "What do both categories share, according to this discourse's guide?",
+         "opts": [
+             "Nothing in common",
+             "Vulnerability — their attainment isn't yet fixed, and can be lost through the same restless habits",
+             "Both are permanently liberated",
+             "Both are newly ordained"],
+         "correct": 1,
+         "expl": "A shared underlying vulnerability."},
+        {"q": "What is the fourth decline factor?",
+         "opts": [
+             "Relishing company",
+             "Relishing food",
+             "Relishing travel",
+             "Relishing silence"],
+         "correct": 0,
+         "expl": "Saṅgaṇikārāmatā."},
+        {"q": "What is the fifth decline factor?",
+         "opts": [
+             "Not reviewing the extent of one's mind's freedom",
+             "Excessive fasting",
+             "Poor almsround timing",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "Yathāvimuttaṁ cittaṁ na paccavekkhati."},
+        {"q": "What does 'asamayavimutta' name, in contrast to this discourse's subject?",
+         "opts": [
+             "Permanent, unconditional freedom",
+             "A trainee still in progress",
+             "A senior mendicant",
+             "A lay follower"],
+         "correct": 0,
+         "expl": "The contrasting category."},
+        {"q": "How is the 'non-decline' list constructed relative to the decline list?",
+         "opts": [
+             "An entirely new set of five factors",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image, matching AN 5.89's pattern."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Rājavagga",
+             "Tikaṇḍakīvagga",
+             "Gilānavagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter's varied material."},
+        {"q": "What does AN 5.150 do with this same category?",
+         "opts": [
+             "Abandons it entirely",
+             "Gives a companion discourse, replacing two factors with more concrete ones",
+             "Applies it only to nuns",
+             "Moves to a colophon immediately"],
+         "correct": 1,
+         "expl": "This chapter's closing discourse."},
+    ],
+    marginalia=[
+        ("A reused formula, new category", [
+            "AN 5.89's sekha list,",
+            "now for samayavimutta",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">samayavimutta</span>",
+            "&mdash; temporarily,",
+            "conditionally free",
+        ]),
+        ("Shared vulnerability", [
+            "attainment not yet",
+            "fixed, still at risk",
+        ]),
+        ("Cross-references", [
+            "AN 5.89 &middot; this list's original, trainee-specific form",
+            "AN 5.150 &middot; next: a companion discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.149/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.89.html">AN 5.89 &middot; A Trainee (1st)</a> &mdash; where this '
+        "exact decline formula first appeared.",
+        '<a href="an-5.148.html">AN 5.148 &middot; Gifts of a True Person</a> &mdash; the '
+        "previous discourse.",
+        '<a href="an-5.150.html">AN 5.150 &middot; Temporarily Free (2nd)</a> &mdash; next: '
+        "a companion discourse, closing this chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.150 — Dutiyasamayavimuttasutta
+# --------------------------------------------------------------------------- #
+page(
+    150, "Dutiyasamayavimutta", "Temporarily Free (2nd)",
+    vagga=VAGGA_15,
+    meta_title="AN 5.150 — Temporarily Free (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasamayavimuttasutta, closing the Tikaṇḍakīvagga — a companion decline formula "
+        "for the same temporarily-free mendicant, with two factors replaced by concrete "
+        "practical ones. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, a variant decline formula, closing the "
+                 "chapter's own colophon"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar, closing "
+                       "material"),
+    ],
+    why=(
+        "This chapter's closing discourse gives a companion formula for AN 5.149's same "
+        "temporarily-free mendicant, keeping three of the five decline factors and "
+        "replacing &lsquo;relishing company&rsquo; and &lsquo;not reviewing freedom&rsquo; "
+        "with two more concrete practical failures: not guarding the sense doors, and "
+        "lacking moderation in eating."),
+    guide=[
+        ("Three shared factors, two replaced", [
+            "This discourse keeps AN 5.149's first three items unchanged &mdash; relishing "
+            "work, talk, and sleep &mdash; but replaces relishing company and not reviewing "
+            "one's freedom with two more concrete practical failures."]),
+        ("Not guarding the sense doors", [
+            "<em>Indriyesu aguttadvāratā</em>, failing to guard the sense doors, names the "
+            "absence of the fuller sense-restraint practice already given in full at AN "
+            "5.76 and reused at AN 5.140."]),
+        ("Lacking moderation in eating", [
+            "<em>Bhojane amattaññutā</em>, not knowing moderation in eating, is the "
+            "discourse's fifth factor &mdash; a concrete, bodily practice absent from AN "
+            "5.149's more introspective closing item."]),
+        ("The mirrored positive", [
+            "Not relishing work, talk, or sleep; guarding the sense doors; and having "
+            "moderation in eating &mdash; the negation of all five, matching this chapter's "
+            "recurring pattern."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Tikaṇḍakīvaggo pañcamo&rsquo; (the tenth "
+            "discourse, the fifth Tikaṇḍakīvagga by the traditional count) follows the "
+            "mechanism explained in full at AN 5.10."]),
+        ("The uddāna's opening lines", [
+            "The mnemonic verse names this chapter's discourses by key terms: "
+            "<em>datvā avajānāti</em> (giving then scorning), <em>ārabhati</em> "
+            "(transgression), <em>Sārandada</em>, <em>tikaṇḍa</em>, <em>niraya</em> (hell), "
+            "<em>mitta</em> (friend), <em>asappurisa/sappurisa</em>, and "
+            "<em>samayavimutta</em>, trailing into the verse's remaining, untranslated "
+            "lines."]),
+    ],
+    terms=[
+        ("indriyesu aguttadvāratā",
+         "&ldquo;not guarding the sense doors&rdquo; &mdash; the absence of the fuller "
+         "sense-restraint formula given at AN 5.76."),
+        ("bhojane amattaññutā",
+         "&ldquo;not knowing moderation in eating&rdquo; &mdash; the fifth decline factor "
+         "here."),
+        ("samayavimutta",
+         "temporarily, conditionally free &mdash; the shared subject of this discourse and "
+         "AN 5.149."),
+        ("Tikaṇḍakīvaggo pañcamo",
+         "&ldquo;the fifth Tikaṇḍakīvagga&rdquo; &mdash; this chapter's closing colophon."),
+        ("kammārāmatā / bhassārāmatā / niddārāmatā",
+         "relishing work, talk, and sleep &mdash; the three factors shared unchanged with "
+         "AN 5.149."),
+    ],
+    text_intro=(
+        "The discourse in full: a companion decline formula, closing this chapter. The "
+        "chapter's closing colophon and Pāli mnemonic verse are part of the source but are "
+        "not translated text, and are described rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "What leads to decline"),
+        ("p", "&sect;1", "an5.150:1.1-1.4"),
+        ("h3", "What does not lead to decline"),
+        ("p", "&sect;2", "an5.150:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many of AN 5.149's five decline factors does this discourse keep unchanged?",
+         "opts": [
+             "None",
+             "Three — relishing work, talk, and sleep",
+             "All five",
+             "Only one"],
+         "correct": 1,
+         "expl": "The first three items, shared with AN 5.149."},
+        {"q": "What two factors does this discourse substitute for AN 5.149's final two?",
+         "opts": [
+             "Not guarding the sense doors, and lacking moderation in eating",
+             "Wrong view and wrong intention",
+             "Jealousy and stinginess",
+             "Physical illness and old age"],
+         "correct": 0,
+         "expl": "Two concrete practical failures, in place of company and self-review."},
+        {"q": "What does 'indriyesu aguttadvāratā' name the absence of?",
+         "opts": [
+             "The fuller sense-restraint formula given at AN 5.76",
+             "The five precepts",
+             "The eightfold path",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Reused and referenced from an earlier discourse."},
+        {"q": "What does 'bhojane amattaññutā' mean?",
+         "opts": [
+             "Not knowing moderation in eating",
+             "Refusing all food",
+             "Eating only at specific times",
+             "Sharing food generously"],
+         "correct": 0,
+         "expl": "This discourse's fifth decline factor."},
+        {"q": "What subject category do this discourse and AN 5.149 share?",
+         "opts": [
+             "A senior mendicant",
+             "Samayavimutta, a temporarily-free mendicant",
+             "A wilderness-dweller",
+             "A carer"],
+         "correct": 1,
+         "expl": "Two companion discourses on the same category."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Tikaṇḍakīvaggo pañcamo.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.140, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the fifth Tikaṇḍakīvagga."},
+        {"q": "What earlier discourse in this nipāta first explained this project's convention for chapter-closing colophons?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.10",
+             "AN 5.71",
+             "AN 5.90"],
+         "correct": 1,
+         "expl": "Cited here rather than re-explained."},
+        {"q": "What does the chapter's mnemonic verse name in its opening lines?",
+         "opts": [
+             "A list of unrelated place names",
+             "This chapter's discourses, by their key terms, in order",
+             "The names of the Buddha's chief disciples",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "Datvā avajānāti, ārabhati, Sārandada, tikaṇḍa, niraya, mitta, and more."},
+        {"q": "How is the positive list constructed relative to the decline list?",
+         "opts": [
+             "An entirely new set of five factors",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image, matching this chapter's recurring pattern."},
+        {"q": "What chapter comes next in the Fives, after this one closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 16, Saddhammavagga, AN 5.151–160",
+             "A return to Rājavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("Three shared, two replaced", [
+            "work &middot; talk &middot;",
+            "sleep — then sense",
+            "doors &amp; eating",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">bhojane amattaññutā</span>",
+            "&mdash; lacking",
+            "moderation in eating",
+        ]),
+        ("Two decline formulas, one category", [
+            "AN 5.149 &middot;",
+            "this discourse",
+        ]),
+        ("Cross-references", [
+            "AN 5.76 &middot; the sense-restraint formula, reused here",
+            "AN 5.10 &middot; the colophon convention, explained",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.150/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.149.html">AN 5.149 &middot; Temporarily Free (1st)</a> &mdash; the '
+        "previous, companion discourse.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this '
+        "same chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.141.html">AN 5.141 &middot; Scorn</a> &mdash; back to this '
+        "chapter&rsquo;s opening, closing the loop.",
+    ],
+)
