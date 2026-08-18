@@ -11582,3 +11582,2225 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+VAGGA_7 = "<em>Mahāvagga</em> &mdash; the seventh chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.65 — Hirīottappasutta
+# --------------------------------------------------------------------------- #
+page(
+    65, "Hirīottappa", "Conscience and Prudence",
+    vagga=VAGGA_7,
+    meta_title="AN 7.65 — Conscience and Prudence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Hirīottappasutta, a six-link dependency chain running from "
+        "conscience and prudence up to knowledge and vision of freedom, "
+        "illustrated by a tree's branches and foliage. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A six-link dependency chain, stated once destroyed and "
+                 "once fulfilled, each with its own tree simile"),
+        ("Length", "~2 minutes to read"),
+        ("Wider canon", "This compact six-link chain shares its underlying "
+                        "logic — each factor as the vital condition for the "
+                        "next — with the longer Upanisā Sutta (SN 12.23) "
+                        "outside this project's scope, which traces a "
+                        "similar dependency chain through more links"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a chain "
+                       "of six abstract terms, easier to follow with the "
+                       "tree simile held in mind"),
+    ],
+    why=(
+        "AN 7.65 traces a six-link chain from conscience and prudence up to "
+        "knowledge and vision of freedom, showing that destroying any early "
+        "link destroys every vital condition that would have depended on "
+        "it, using a tree without branches or foliage as its governing "
+        "image."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Conscience and prudence are the vital condition for sense "
+            "restraint, which is the vital condition for ethical conduct, "
+            "which is the vital condition for right immersion, which is the "
+            "vital condition for true knowledge and vision, which is the "
+            "vital condition for disillusionment and dispassion, which is "
+            "the vital condition for knowledge and vision of freedom "
+            "&mdash; a six-step chain where destroying any link destroys "
+            "everything downstream of it."]),
+        ("A tree without branches or foliage", [
+            "The negative half of the chain is illustrated by a tree "
+            "lacking branches and foliage, whose shoots, bark, softwood, "
+            "and heartwood cannot grow to fullness &mdash; a single image "
+            "for how the absence of an early-stage condition (branches and "
+            "foliage, standing for conscience and prudence) prevents "
+            "everything that structurally depends on it from developing, no "
+            "matter how much later growth might otherwise be possible."]),
+        ("The identical chain, fulfilled rather than destroyed", [
+            "The discourse then states the entire six-link chain again, "
+            "this time as fulfillment rather than destruction: conscience "
+            "and prudence fulfilled fulfills the condition for sense "
+            "restraint, and so on up to knowledge and vision of freedom "
+            "&mdash; paired with a tree complete with branches and foliage, "
+            "whose shoots, bark, softwood, and heartwood grow to fullness."]),
+        ("Why conscience and prudence anchor the whole chain", [
+            "Placing conscience and prudence at the very base of a chain "
+            "leading all the way to freedom makes a specific claim: the "
+            "capacity to feel a check on wrongdoing, whether from internal "
+            "conscience or concern for consequences, is not a minor virtue "
+            "alongside immersion and wisdom but the foundation that "
+            "everything else structurally depends on being present."]),
+    ],
+    terms=[
+        ("hiri, ottappa",
+         "&ldquo;conscience, prudence&rdquo; &mdash; the chain's first link, "
+         "and this discourse's own title."),
+        ("indriyasaṁvara",
+         "&ldquo;sense restraint&rdquo; &mdash; the second link, whose vital "
+         "condition is conscience and prudence."),
+        ("sīla, sammāsamādhi",
+         "&ldquo;ethical conduct, right immersion&rdquo; &mdash; the third "
+         "and fourth links in the chain."),
+        ("yathābhūtañāṇadassana, nibbidāvirāga",
+         "&ldquo;true knowledge and vision, disillusionment and "
+         "dispassion&rdquo; &mdash; the fifth and sixth links, leading "
+         "toward the chain's final term."),
+        ("vimuttiñāṇadassana",
+         "&ldquo;knowledge and vision of freedom&rdquo; &mdash; the chain's "
+         "final link, the vital condition ultimately dependent on "
+         "conscience and prudence at its base."),
+    ],
+    text_intro=(
+        "The discourse in full, both halves of the chain with their tree "
+        "similes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The chain of destroyed conditions"),
+        ("p", "&sect;1", "an7.65:1.1-1.6"),
+        ("h3", "A tree without branches or foliage"),
+        ("p", "&sect;2", "an7.65:1.7-1.14"),
+        ("h3", "The chain fulfilled"),
+        ("p", "&sect;3", "an7.65:2.1-2.6"),
+        ("h3", "A tree complete with branches and foliage"),
+        ("p", "&sect;4", "an7.65:2.7-2.9"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as the vital condition at the "
+              "very base of its six-link chain?",
+         "opts": [
+             "Right immersion",
+             "Conscience and prudence",
+             "Knowledge and vision of freedom",
+             "Ethical conduct"],
+         "correct": 1,
+         "expl": "The chain's first link, and this discourse's own title."},
+        {"q": "What happens to the rest of the chain if an early link is "
+              "destroyed, according to this discourse?",
+         "opts": [
+             "Nothing; the later links are unaffected",
+             "Every vital condition downstream of the destroyed link is "
+             "destroyed as well",
+             "Only the very last link is affected",
+             "The chain reverses direction"],
+         "correct": 1,
+         "expl": "A strict dependency structure — destroying an early "
+                 "condition undermines everything built on it."},
+        {"q": "What image illustrates the chain's negative, destroyed half?",
+         "opts": [
+             "A raft crossing a flood",
+             "A tree lacking branches and foliage, whose shoots, bark, "
+             "softwood, and heartwood cannot grow to fullness",
+             "A spark from an iron pot",
+             "A chicken incubating eggs"],
+         "correct": 1,
+         "expl": "A single governing image for how an early absence "
+                 "prevents everything downstream from developing."},
+        {"q": "What is the chain's final link, reached only if every "
+              "earlier condition is fulfilled?",
+         "opts": [
+             "Sense restraint",
+             "Knowledge and vision of freedom",
+             "Conscience and prudence",
+             "A good rebirth"],
+         "correct": 1,
+         "expl": "The chain's culmination, dependent on every link before "
+                 "it."},
+        {"q": "According to the guide, what claim does placing conscience "
+              "and prudence at the chain's base make?",
+         "opts": [
+             "That conscience and prudence are minor, dispensable virtues",
+             "That the capacity to feel a check on wrongdoing is the "
+             "foundation everything else structurally depends on",
+             "That immersion is more fundamental than conscience",
+             "That the chain has no real starting point"],
+         "correct": 1,
+         "expl": "A foundational role for what might otherwise seem like a "
+                 "modest ethical quality."},
+        {"q": "Where else does the guide point to a similar dependency-"
+              "chain structure in the wider canon?",
+         "opts": [
+             "Nowhere else",
+             "SN 12.23 (the Upanisā Sutta), which traces a similar chain "
+             "through more links",
+             "DN 33 only",
+             "MN 117 only"],
+         "correct": 1,
+         "expl": "A cross-reference to a longer chain built on the same "
+                 "underlying logic."},
+    ],
+    marginalia=[
+        ("Six links, one chain", [
+            "conscience and prudence",
+            "at the base, freedom",
+            "at the very end",
+        ]),
+        ("Destroy the base, lose it all", [
+            "everything downstream",
+            "depends structurally",
+            "on what comes before it",
+        ]),
+        ("A tree, two ways", [
+            "without branches, stunted;",
+            "complete with foliage,",
+            "growing to fullness",
+        ]),
+        ("Cross-references", [
+            "AN 7.64 &middot; earlier, closing the previous chapter",
+            "AN 7.67 &middot; next, the citadel simile's seven good "
+            "qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.65/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.64.html">AN 7.64 &middot; Irritable</a> &mdash; '
+        "previous, closing the previous chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.66 — Sattasūriyasutta
+#
+# The Sunetta story told here in the third person is the SAME autobiographical
+# content AN 7.62 told in the Buddha's own first-person voice (seven years of
+# love, seven eons unreturned, thirty-six times Sakka, many wheel-turning-
+# monarch rebirths) -- this discourse reveals it as a past-life identification:
+# the Buddha himself was Sunetta. AN 7.73 features a DIFFERENT Sunetta episode
+# (one of seven ancient teachers, briefly listed) -- three discourses, two
+# distinct Sunetta contents, worth not conflating.
+# --------------------------------------------------------------------------- #
+page(
+    66, "Sattasūriya", "The Seven Suns",
+    vagga=VAGGA_7,
+    meta_title="AN 7.66 — The Seven Suns | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sattasūriyasutta, the Buddha's cosmological vision of seven suns "
+        "consuming the world entirely, followed by the story of the teacher "
+        "Sunetta — later revealed as the Buddha's own past life. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, in Ambapālī's Mango Grove"),
+        ("Speakers", SPEAKER),
+        ("Form", "An escalating seven-stage cosmological vision, followed by "
+                 "a narrative about a past teacher and a closing verse"),
+        ("Length", "~6 minutes to read"),
+        ("Not the same Sunetta episode as AN 7.73", "This discourse tells "
+                                                     "the Sunetta story in "
+                                                     "full, revealing him as "
+                                                     "the Buddha's own past "
+                                                     "life; AN 7.73 features "
+                                                     "a different, much "
+                                                     "briefer Sunetta episode "
+                                                     "as one name in a list "
+                                                     "of seven ancient "
+                                                     "teachers"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; vivid "
+                       "and memorable cosmological imagery, worth reading "
+                       "for both the vision and the autobiographical turn "
+                       "midway through"),
+    ],
+    why=(
+        "AN 7.66 pictures the world's end in seven escalating stages, each "
+        "marked by a new sun appearing until the earth itself burns away "
+        "without even ash remaining, then turns to the story of an ancient "
+        "teacher named Sunetta who lived immensely long through the power "
+        "of loving-kindness &mdash; and was still not free from suffering, "
+        "because four things remained not understood."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Conditions are impermanent, unstable, and unreliable enough "
+            "that even Sineru, the king of mountains, and the great earth "
+            "itself will eventually burn away without a trace, and this "
+            "should be quite enough to produce disillusionment, dispassion, "
+            "and freedom regarding all conditions."]),
+        ("Seven suns, each stage more total than the last", [
+            "A prolonged drought withers plants and seeds; a second sun "
+            "dries up streams and pools; a third dries the great rivers by "
+            "name; a fourth dries the great lakes that feed them; a fifth "
+            "reduces the entire ocean, described in vivid stages, down to "
+            "not enough water to wet a toe; a sixth makes the earth and "
+            "Sineru smoke and smolder like a freshly lit kiln; and a "
+            "seventh sets the earth and Sineru ablaze in one continuous "
+            "mass of fire, burning so completely that, like burning ghee or "
+            "oil, no soot or ash is left behind."]),
+        ("Who would believe this, except one who has seen the truth", [
+            "The vision closes with a pointed question: who would ever "
+            "think or believe that this solid earth and towering Sineru "
+            "will burn, crumble, and cease to exist, except someone who has "
+            "actually seen the truth of impermanence directly? The "
+            "cosmological scale of the claim is itself part of the "
+            "teaching &mdash; ordinary intuition resists it."]),
+        ("The teacher Sunetta, and a familiar story retold in the third "
+         "person", [
+            "The discourse then tells of Sunetta, an ancient teacher free "
+            "of sensual desire with many hundreds of disciples, who "
+            "developed a mind of love for seven years and, as a direct "
+            "result, went seven cosmic eons without returning to this "
+            "world, becoming the Great Divinity, Sakka thirty-six times, "
+            "and a wheel-turning monarch many hundreds of times &mdash; the "
+            "identical content AN 7.62 gave in the Buddha's own first-"
+            "person voice, now told about a named past figure instead."]),
+        ("Even that vast a life was not enough, and why", [
+            "Despite this immense lifespan across many exalted forms, "
+            "Sunetta was still not free from rebirth, old age, death, and "
+            "suffering &mdash; because four things remained not understood "
+            "and not penetrated: noble ethics, immersion, wisdom, and "
+            "freedom. The discourse's closing lines have the Buddha state "
+            "that these four have now been understood and penetrated, "
+            "identifying Gotama the renowned with the very teacher whose "
+            "story was just told: Sunetta was the Buddha's own past life, "
+            "and the two accounts &mdash; this one and AN 7.62's &mdash; "
+            "are the same claim told two different ways."]),
+    ],
+    terms=[
+        ("saṅkhārā aniccā... anicce... adhuvā",
+         "&ldquo;conditions are impermanent... unstable... "
+         "unreliable&rdquo; &mdash; the discourse's opening claim, "
+         "illustrated by everything that follows."),
+        ("Sineru",
+         "the king of mountains at the center of this cosmology, 84,000 "
+         "leagues in every dimension, whose eventual burning without a "
+         "trace anchors this discourse's central image."),
+        ("sattamo suriyo",
+         "&ldquo;a seventh sun&rdquo; &mdash; the culminating stage, "
+         "setting the earth and Sineru ablaze so completely that no soot "
+         "or ash remains."),
+        ("Sunetta",
+         "an ancient teacher, free of sensual desire, whose story of "
+         "seven years of loving-kindness and its vast consequences is "
+         "later revealed to be the Buddha's own past life."),
+        ("ariyaṁ sīlaṁ, ariyaṁ samādhiṁ, ariyaṁ paññaṁ, ariyaṁ vimuttiṁ",
+         "&ldquo;noble ethics, noble immersion, noble wisdom, noble "
+         "freedom&rdquo; &mdash; the four things Sunetta had not "
+         "understood, whose understanding the Buddha claims for himself at "
+         "this discourse's close."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven-stage vision of the world's end, "
+        "then the story of Sunetta and its closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Conditions are impermanent"),
+        ("p", "&sect;1", "an7.66:1.1-2.4"),
+        ("h3", "Sineru, and a long drought"),
+        ("p", "&sect;2", "an7.66:3.1-3.6"),
+        ("h3", "The second through fourth suns: streams, rivers, and lakes "
+               "run dry"),
+        ("p", "&sect;3", "an7.66:4.1-6.5"),
+        ("h3", "The fifth sun: the ocean itself recedes to nothing"),
+        ("p", "&sect;4", "an7.66:7.1-7.9"),
+        ("h3", "The sixth and seventh suns: the earth itself burns away"),
+        ("p", "&sect;5", "an7.66:8.1-9.11"),
+        ("h3", "Who would believe this, except one who has seen the truth"),
+        ("p", "&sect;6", "an7.66:10.1-10.2"),
+        ("h3", "Once, the teacher Sunetta"),
+        ("p", "&sect;7", "an7.66:11.1-12.2"),
+        ("h3", "Sunetta's own practice, and its vast but incomplete result"),
+        ("p", "&sect;8", "an7.66:13.1-13.11"),
+        ("h3", "Why even that was not enough"),
+        ("p", "&sect;9", "an7.66:14.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What ultimately happens to Sineru, the king of mountains, "
+              "and the great earth by the time the seventh sun appears?",
+         "opts": [
+             "They remain untouched",
+             "They erupt in one burning mass of fire and burn so completely "
+             "that no soot or ash is left behind",
+             "They sink into the ocean",
+             "They are frozen solid"],
+         "correct": 1,
+         "expl": "The most total possible destruction, likened to burning "
+                 "ghee or oil leaving no residue."},
+        {"q": "What happens to the ocean when the fifth sun appears?",
+         "opts": [
+             "It rises and floods the land",
+             "Its water progressively recedes until there is not even "
+             "enough left to wet a toe",
+             "It turns to ice",
+             "Nothing changes"],
+         "correct": 1,
+         "expl": "A vivid, staged reduction described in fathoms, palm-tree "
+                 "depths, and finally almost nothing."},
+        {"q": "Who does the discourse say would believe that the earth and "
+              "Sineru will eventually burn away?",
+         "opts": [
+             "No one at all, ever",
+             "Someone who has actually seen the truth of impermanence "
+             "directly",
+             "Only kings and rulers",
+             "Everyone believes this readily"],
+         "correct": 1,
+         "expl": "A claim resisted by ordinary intuition, accessible only "
+                 "through direct insight."},
+        {"q": "According to the guide, what is the relationship between this "
+              "discourse's Sunetta story and AN 7.62's account of seven "
+              "years of loving-kindness?",
+         "opts": [
+             "They are entirely unrelated stories",
+             "The identical content, told in AN 7.62 in the Buddha's own "
+             "first-person voice and here about a named past teacher, later "
+             "revealed to be the same figure",
+             "This discourse contradicts AN 7.62 directly",
+             "AN 7.62 is a summary of this longer discourse"],
+         "correct": 1,
+         "expl": "The same claim about seven years of love and its "
+                 "consequences, told two different ways."},
+        {"q": "Despite his immense lifespan across many exalted rebirths, "
+              "why was Sunetta still not free from suffering?",
+         "opts": [
+             "He was never actually reborn as claimed",
+             "Because four things — noble ethics, immersion, wisdom, and "
+             "freedom — remained not understood and not penetrated",
+             "Because he lacked sufficient wealth",
+             "The discourse gives no reason"],
+         "correct": 1,
+         "expl": "A specific fourfold gap, later claimed as closed by the "
+                 "Buddha himself."},
+        {"q": "According to the guide, how does AN 7.73's Sunetta material "
+              "differ from this discourse's?",
+         "opts": [
+             "They are identical in every detail",
+             "AN 7.73 features a much briefer episode, one name among a "
+             "list of seven ancient teachers, rather than this discourse's "
+             "full story",
+             "AN 7.73 does not mention Sunetta at all",
+             "AN 7.73 contradicts this discourse's claim about Sunetta"],
+         "correct": 1,
+         "expl": "Two different appearances of the same name, worth not "
+                 "conflating."},
+    ],
+    marginalia=[
+        ("Seven suns, one ending", [
+            "drought, then dried rivers,",
+            "the ocean gone dry,",
+            "the earth itself ablaze",
+        ]),
+        ("No ash, no soot", [
+            "burning so total",
+            "it leaves nothing behind —",
+            "like ghee or oil consumed",
+        ]),
+        ("A past life, revealed", [
+            "Sunetta's own story",
+            "turns out, at the close,",
+            "to have been the Buddha's own",
+        ]),
+        ("Cross-references", [
+            "AN 7.62 &middot; earlier, the same content in the Buddha's own "
+            "first-person voice",
+            "AN 7.73 &middot; next but one, a different, much briefer "
+            "Sunetta episode",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.66/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.65.html">AN 7.65 &middot; Conscience and Prudence</a> '
+        "&mdash; previous.",
+        '<a href="an-7.62.html">AN 7.62 &middot; Don&rsquo;t Fear Good '
+        "Deeds</a> &mdash; earlier, the same content in the Buddha's own "
+        "first-person voice.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.67 — Nagaropamasutta
+#
+# The seven qualities mapped onto the citadel (faith/conscience/prudence/
+# learning/energy/mindfulness/wisdom) are the same hiri/ottappa-based list
+# already used at AN 7.25 and AN 7.43 -- a third appearance, distinct from AN
+# 7.60's sīlavā/pavivitta variant.
+# --------------------------------------------------------------------------- #
+page(
+    67, "Nagaropama", "The Simile of the Citadel",
+    vagga=VAGGA_7,
+    meta_title="AN 7.67 — The Simile of the Citadel | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nagaropamasutta, mapping a frontier citadel's seven defenses and "
+        "four kinds of sustenance onto a noble disciple's seven qualities "
+        "and the four absorptions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "An extended, point-by-point simile: a citadel's seven "
+                 "defensive features and four kinds of sustenance, each "
+                 "mapped one-to-one onto a noble disciple's own qualities "
+                 "and attainments"),
+        ("Length", "~7 minutes to read"),
+        ("A familiar list, a third time", "This discourse's seven "
+                                          "qualities — faith, conscience, "
+                                          "prudence, learning, energy, "
+                                          "mindfulness, wisdom — are the "
+                                          "same hiri/ottappa-based list "
+                                          "already met at AN 7.25 and AN "
+                                          "7.43, now appearing a third time"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; long "
+                       "but mechanically regular, once the citadel-to-"
+                       "disciple mapping is clear"),
+    ],
+    why=(
+        "AN 7.67 builds an extended simile in two matched halves: first a "
+        "king's frontier citadel, secure against any external foe when it "
+        "has seven essential defenses and four kinds of sustenance on hand, "
+        "then a noble disciple, secure against Māra when they have the "
+        "matching seven qualities and can enter the four absorptions at "
+        "will."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple who has seven good qualities and can enter "
+            "the four absorptions whenever they want, without trouble or "
+            "difficulty, is as secure against Māra as a well-provisioned "
+            "frontier citadel is against any external enemy."]),
+        ("Seven essentials, and what a citadel needs them for", [
+            "A citadel is secure when it has a pillar with deep, "
+            "unshakable foundations; a deep, wide moat; a high, wide "
+            "patrol path; stores of both projectile and hand-held weapons; "
+            "many kinds of armed forces; an astute gatekeeper who admits "
+            "the known and excludes strangers; and a high, wide, plastered "
+            "wall &mdash; seven features working together to defend those "
+            "within and repel those outside."]),
+        ("Four kinds of sustenance, so a siege cannot starve it out", [
+            "Beyond structural defense, a secure citadel also keeps four "
+            "kinds of supplies on hand without trouble: hay, wood, and "
+            "water; rice and barley; sesame, green gram, and black gram; "
+            "and medicines such as ghee, oil, honey, and salt &mdash; "
+            "ensuring comfort and endurance regardless of how long a siege "
+            "might last."]),
+        ("Each citadel feature mapped exactly onto a disciple's quality", [
+            "The second half of the discourse maps every element "
+            "one-to-one: faith in the Buddha's awakening as the unshakable "
+            "pillar; conscience as the moat; prudence as the patrol path; "
+            "broad learning of the teachings as the weapon stores; energy "
+            "as the armed forces; mindfulness as the gatekeeper, admitting "
+            "what belongs and excluding what doesn't; and wisdom into "
+            "arising and passing away as the wall itself &mdash; each "
+            "quality, like its citadel counterpart, described as what "
+            "lets a disciple give up the unskillful and develop the "
+            "skillful."]),
+        ("The four absorptions, mapped onto the four kinds of sustenance", [
+            "The four kinds of stored supplies map onto the four "
+            "absorptions in turn, each described as being &ldquo;for their "
+            "own enjoyment, relief, and comfort, and for alighting upon "
+            "extinguishment&rdquo; &mdash; framing meditative absorption "
+            "not as an escape from the citadel's defensive posture but as "
+            "the very sustenance that lets a disciple, like a "
+            "well-provisioned citadel, hold out against anything Māra "
+            "might attempt."]),
+    ],
+    terms=[
+        ("nagaropama",
+         "&ldquo;the simile of the citadel&rdquo; &mdash; this discourse's "
+         "own title, naming its governing extended image."),
+        ("esikā",
+         "&ldquo;a pillar&rdquo; with deep, unshakable foundations &mdash; "
+         "the citadel's first essential, mapped onto a disciple's faith."),
+        ("saddhā, hirī, ottappaṁ, bahussuta, vīriya, sati, paññā",
+         "&ldquo;faith, conscience, prudence, learning, energy, "
+         "mindfulness, wisdom&rdquo; &mdash; the seven qualities mapped "
+         "onto the citadel's seven essentials, the same list already met "
+         "at AN 7.25 and AN 7.43."),
+        ("cattāro āhārā",
+         "&ldquo;four kinds of sustenance&rdquo; &mdash; hay/wood/water, "
+         "rice/barley, sesame/gram, and medicines, mapped onto the four "
+         "absorptions."),
+        ("na māravasaṁ gacchati",
+         "&ldquo;cannot be overrun by Māra&rdquo; &mdash; the discourse's "
+         "own description of a disciple who possesses all seven qualities "
+         "and all four absorptions at will."),
+    ],
+    text_intro=(
+        "The discourse in full: the citadel's seven essentials and four "
+        "kinds of sustenance, then the matching disciple's seven qualities "
+        "and four absorptions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A citadel's seven essentials"),
+        ("p", "&sect;1", "an7.67:1.1-8.3"),
+        ("h3", "A citadel's four kinds of sustenance"),
+        ("p", "&sect;2", "an7.67:9.1-12.3"),
+        ("h3", "The same structure, applied to a noble disciple"),
+        ("p", "&sect;3", "an7.67:13.1-13.5"),
+        ("h3", "The first four qualities: faith, conscience, prudence, "
+               "learning"),
+        ("p", "&sect;4", "an7.67:14.1-17.6"),
+        ("h3", "The fifth through seventh: energy, mindfulness, wisdom"),
+        ("p", "&sect;5", "an7.67:18.1-20.7"),
+        ("h3", "The four absorptions, mapped to the four kinds of "
+               "sustenance"),
+        ("p", "&sect;6", "an7.67:21.1-24.5"),
+        ("h3", "Closing"),
+        ("p", "&sect;7", "an7.67:25.1-25.2"),
+    ],
+    quiz=[
+        {"q": "What makes a king's frontier citadel unable to be overrun, "
+              "according to this discourse?",
+         "opts": [
+             "Sheer size alone",
+             "Being well provided with seven essential defenses and four "
+             "kinds of sustenance available without trouble",
+             "Having the largest army in the region",
+             "Location alone, regardless of its defenses"],
+         "correct": 1,
+         "expl": "Structural defenses plus reliable supply, working "
+                 "together."},
+        {"q": "What does the pillar with deep, unshakable foundations map "
+              "onto in the disciple half of this simile?",
+         "opts": [
+             "Wisdom", "Faith in the Buddha's awakening", "Mindfulness",
+             "Energy"],
+         "correct": 1,
+         "expl": "The first essential, mapped onto the first of seven "
+                 "qualities."},
+        {"q": "According to the guide, how many times has this exact "
+              "seven-quality list (faith, conscience, prudence, learning, "
+              "energy, mindfulness, wisdom) now appeared in this book?",
+         "opts": [
+             "Only once, here",
+             "A third time — also met at AN 7.25 and AN 7.43",
+             "Five times",
+             "It has never appeared before"],
+         "correct": 1,
+         "expl": "The hiri/ottappa-based version, distinct from AN 7.60's "
+                 "sīlavā/pavivitta variant."},
+        {"q": "What does mindfulness map onto in the citadel simile?",
+         "opts": [
+             "The wall", "The gatekeeper, who admits what belongs and "
+             "excludes what doesn't", "The moat", "The weapon stores"],
+         "correct": 1,
+         "expl": "A gatekeeping function, distinguishing what should and "
+                 "shouldn't be let in."},
+        {"q": "What do the four kinds of sustenance map onto in the "
+              "disciple half of the simile?",
+         "opts": [
+             "The four undeclared points",
+             "The four absorptions, each for the disciple's own enjoyment, "
+             "relief, and comfort, and for alighting upon extinguishment",
+             "The four right efforts",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Meditative absorption framed as sustaining supply, not "
+                 "escape from defense."},
+        {"q": "What is a disciple who has all seven qualities and all four "
+              "absorptions at will called, according to this discourse?",
+         "opts": [
+             "A wheel-turning monarch",
+             "One who cannot be overrun by Māra, the Wicked One",
+             "A perfected teacher like Sunetta",
+             "A gatekeeper"],
+         "correct": 1,
+         "expl": "The discourse's closing description, mirroring the "
+                 "citadel's own security against external foes."},
+    ],
+    marginalia=[
+        ("A citadel, defended", [
+            "pillar, moat, patrol path,",
+            "weapons, forces, gatekeeper,",
+            "wall — seven essentials",
+        ]),
+        ("Supplied against any siege", [
+            "hay and water, grain,",
+            "beans, and medicine —",
+            "four kinds, always on hand",
+        ]),
+        ("Mapped, one to one", [
+            "each citadel feature",
+            "becomes a disciple's quality —",
+            "faith the pillar, wisdom the wall",
+        ]),
+        ("Cross-references", [
+            "AN 7.66 &middot; previous, the seven suns and Sunetta's story",
+            "AN 7.25 &middot; earlier, the same seven-quality list's first "
+            "appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.67/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.66.html">AN 7.66 &middot; The Seven Suns</a> '
+        "&mdash; previous.",
+        '<a href="an-7.25.html">AN 7.25 &middot; Non-Decline for Mendicants '
+        "(3rd)</a> &mdash; earlier, this same seven-quality list's first "
+        "appearance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.68 — Dhammaññūsutta
+# --------------------------------------------------------------------------- #
+page(
+    68, "Dhammaññū", "One Who Knows the Teachings",
+    vagga=VAGGA_7,
+    meta_title="AN 7.68 — One Who Knows the Teachings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dhammaññūsutta, seven kinds of knowing that make a mendicant the "
+        "supreme field of merit for the world, closing with seven cascading "
+        "pairs distinguishing individuals. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Six qualities defined by the same repeated formula, then "
+                 "a seventh developed through seven cascading pairs of "
+                 "contrasted individuals"),
+        ("Length", "~5 minutes to read"),
+        ("Wider canon", "This sevenfold list of a well-rounded teacher's "
+                        "qualities is one of the canon's most frequently "
+                        "cited descriptions of what makes someone worth "
+                        "learning from, echoed in discussions of teaching "
+                        "skill elsewhere in the Numbered Discourses"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formulaic and clear, though the seventh quality's "
+                       "cascading pairs reward careful tracking"),
+    ],
+    why=(
+        "AN 7.68 names seven kinds of knowing that together make a "
+        "mendicant worthy of offerings and the supreme field of merit for "
+        "the world &mdash; knowing the teachings, their meaning, oneself, "
+        "moderation, timing, assemblies, and finally individuals, this last "
+        "one developed through seven cascading pairs of increasingly "
+        "refined distinctions."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who knows the teachings, knows their meaning, has "
+            "self-knowledge, knows moderation, knows the right time, knows "
+            "assemblies, and knows individuals high and low is worthy of "
+            "offerings, hospitality, religious donation, and veneration "
+            "&mdash; the supreme field of merit for the world."]),
+        ("Six qualities, one repeated formula", [
+            "The first six qualities each follow an identical shape: a "
+            "question asking how a mendicant is said to have this "
+            "quality, a definition, and then the same conditional "
+            "structure &mdash; if a mendicant lacked this, they would not "
+            "be called by this quality's name, but because they have it, "
+            "they are. Knowing the teachings covers the nine genres of "
+            "textual material; knowing the meaning covers correctly "
+            "matching statements to what they mean; self-knowledge covers "
+            "accurately gauging one's own faith, ethics, learning, "
+            "generosity, wisdom, and eloquence; knowing moderation covers "
+            "requisites; knowing the right time covers when to recite, "
+            "question, meditate, or retreat; and knowing assemblies covers "
+            "reading a room correctly across different social settings."]),
+        ("The seventh quality: seven cascading pairs", [
+            "Knowing individuals high and low is developed differently "
+            "from the other six &mdash; not through a single definition "
+            "but through seven pairs of contrasted individuals, each pair "
+            "nested inside the last: of those who like to see the noble "
+            "ones, some like to hear the true teaching and some don't; of "
+            "those who like to hear it, some actively listen and some "
+            "don't; of those who actively listen, some remember what "
+            "they've heard and some don't; of those who remember, some "
+            "examine its meaning and some don't; of those who examine it, "
+            "some practice accordingly and some don't; and of those who "
+            "practice, some benefit only themselves while others benefit "
+            "both themselves and others."]),
+        ("A funnel of increasingly rare qualities", [
+            "Each pair narrows the field: starting from everyone who likes "
+            "to see the noble ones, the cascading distinctions filter down "
+            "through hearing, listening, remembering, examining, and "
+            "practicing, until only those who practice for the benefit of "
+            "both themselves and others remain at the far end &mdash; a "
+            "structure that makes the point that genuine, complete "
+            "engagement with the teaching is the rare exception at every "
+            "successive stage, not the default outcome of any earlier "
+            "stage."]),
+    ],
+    terms=[
+        ("dhammaññū, atthaññū, attaññū",
+         "&ldquo;one who knows the teachings, one who knows the meaning, "
+         "one who has self-knowledge&rdquo; &mdash; the first three of "
+         "seven kinds of knowing."),
+        ("mattaññū, kālaññū, parisaññū",
+         "&ldquo;one who knows moderation, one who knows the right time, "
+         "one who knows assemblies&rdquo; &mdash; the fourth through sixth."),
+        ("puggalaparoparaññū",
+         "&ldquo;one who knows individuals high and low&rdquo; &mdash; the "
+         "seventh and most elaborately developed quality, built from seven "
+         "cascading pairs."),
+        ("dakkhiṇeyyo āhuneyyo pāhuneyyo añjalikaraṇīyo anuttaraṁ "
+         "puññakkhettaṁ",
+         "&ldquo;worthy of offerings dedicated to the gods, worthy of "
+         "hospitality, worthy of a religious donation, worthy of "
+         "veneration with cupped palms, and the supreme field of "
+         "merit&rdquo; &mdash; what a mendicant with all seven qualities "
+         "is called."),
+        ("garahamānā, pasaṁsamānā",
+         "&ldquo;reprehensible... praiseworthy&rdquo; &mdash; the verdict "
+         "attached to each side of the seventh quality's seven cascading "
+         "pairs."),
+    ],
+    text_intro=(
+        "The discourse in full: the first six qualities, then the seventh "
+        "developed through seven cascading pairs. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities worthy of offerings"),
+        ("p", "&sect;1", "an7.68:1.1-1.3"),
+        ("h3", "Knowing the teachings, and knowing their meaning"),
+        ("p", "&sect;2", "an7.68:2.1-3.8"),
+        ("h3", "Self-knowledge, knowing moderation, and knowing the right "
+               "time"),
+        ("p", "&sect;3", "an7.68:4.1-6.8"),
+        ("h3", "Knowing assemblies"),
+        ("p", "&sect;4", "an7.68:7.1-7.11"),
+        ("h3", "Knowing individuals: seven cascading pairs"),
+        ("p", "&sect;5", "an7.68:8.1-14.6"),
+        ("h3", "Closing"),
+        ("p", "&sect;6", "an7.68:15.1-16.2"),
+    ],
+    quiz=[
+        {"q": "What does &ldquo;self-knowledge&rdquo; mean in this "
+              "discourse's third quality?",
+         "opts": [
+             "Knowing one's own name and family history",
+             "Accurately gauging the extent of one's own faith, ethics, "
+             "learning, generosity, wisdom, and eloquence",
+             "Knowing the exact time of one's own death",
+             "Knowing one's past lives"],
+         "correct": 1,
+         "expl": "A specific, six-part self-assessment, not general "
+                 "self-awareness."},
+        {"q": "How is the seventh quality, knowing individuals, developed "
+              "differently from the first six?",
+         "opts": [
+             "It follows the identical single-definition formula as the "
+             "others",
+             "Through seven cascading pairs of contrasted individuals, each "
+             "pair nested inside the last",
+             "It is not actually explained at all",
+             "Through a single simile"],
+         "correct": 1,
+         "expl": "A distinct, more elaborate structure than the other six "
+                 "qualities."},
+        {"q": "What does the first of the seven cascading pairs "
+              "distinguish?",
+         "opts": [
+             "Those who are wealthy from those who are poor",
+             "Those who like to see the noble ones from those who don't",
+             "Those who are ordained from those who are lay",
+             "Those who are old from those who are young"],
+         "correct": 1,
+         "expl": "The starting point of the cascade, narrowing at each "
+                 "subsequent pair."},
+        {"q": "According to the guide, what happens to the field of "
+              "individuals as the seven pairs cascade?",
+         "opts": [
+             "It stays exactly the same size throughout",
+             "It narrows at each stage, until only those who practice for "
+             "the benefit of both themselves and others remain at the end",
+             "It grows larger with each pair",
+             "The pairs are unrelated to each other"],
+         "correct": 1,
+         "expl": "A funnel structure, making complete engagement the rare "
+                 "outcome at every stage."},
+        {"q": "What is the final, most refined pair in this cascading "
+              "sequence?",
+         "opts": [
+             "Those who like to see the noble ones versus those who don't",
+             "Those who practice to benefit only themselves versus those "
+             "who practice to benefit both themselves and others",
+             "Those who remember teachings versus those who don't",
+             "Those who are ordained versus lay followers"],
+         "correct": 1,
+         "expl": "The cascade's final, most demanding distinction."},
+        {"q": "What is a mendicant with all seven qualities called, "
+              "according to this discourse?",
+         "opts": [
+             "A wheel-turning monarch",
+             "Worthy of offerings, hospitality, religious donation, "
+             "veneration, and the supreme field of merit for the world",
+             "One who cannot be overrun by Māra",
+             "A gatekeeper"],
+         "correct": 1,
+         "expl": "The discourse's closing description of complete worth as "
+                 "a recipient of generosity."},
+    ],
+    marginalia=[
+        ("Six, by one formula", [
+            "teachings, meaning, self,",
+            "moderation, timing,",
+            "assemblies — each defined alike",
+        ]),
+        ("The seventh, a cascade", [
+            "seven pairs, nested,",
+            "narrowing at each step",
+            "toward the rarest quality",
+        ]),
+        ("Benefiting both", [
+            "the cascade's final pair:",
+            "not just oneself,",
+            "but oneself and others together",
+        ]),
+        ("Cross-references", [
+            "AN 7.67 &middot; previous, the citadel simile's seven "
+            "qualities",
+            "AN 7.69 &middot; next, the Shady Orchid Tree's seven stages",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.68/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.67.html">AN 7.67 &middot; The Simile of the '
+        "Citadel</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.69 — Pāricchattakasutta
+# --------------------------------------------------------------------------- #
+page(
+    69, "Pāricchattaka", "The Shady Orchid Tree",
+    vagga=VAGGA_7,
+    meta_title="AN 7.69 — The Shady Orchid Tree | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pāricchattakasutta, matching the heavenly Shady Orchid Tree's seven "
+        "stages of blossoming to a disciple's path from renunciation to "
+        "arahantship. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A nature simile in seven stages, matched one-to-one "
+                 "against a disciple's path, closing with a cry of "
+                 "celebration passed upward through every realm of gods"),
+        ("Length", "~4 minutes to read"),
+        ("The tree itself", "The Pāricchattaka, or Shady Orchid Tree, "
+                            "belongs to the thirty-three gods and appears "
+                            "elsewhere in the canon as a mark of their "
+                            "realm's beauty; here its blossoming cycle "
+                            "becomes a full simile for the path"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "gentle, vivid nature image, one of the more "
+                       "purely beautiful similes in this book"),
+    ],
+    why=(
+        "AN 7.69 tracks the heavenly Shady Orchid Tree through seven stages "
+        "from browning leaves to full blossom, each stage delighting the "
+        "gods of the thirty-three, and matches every stage to a disciple's "
+        "own progress from first considering renunciation through to "
+        "arahantship."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as the gods of the thirty-three grow elated at each "
+            "successive stage of the Shady Orchid Tree's yearly cycle from "
+            "browning leaves to full blossom, a disciple's progress from "
+            "renunciation through the four absorptions to arahantship "
+            "follows the same seven-stage arc, ending in a comparable "
+            "celebration."]),
+        ("Seven stages of one tree's yearly cycle", [
+            "The leaves turn brown, then fall, then the foliage begins to "
+            "regrow, then the tree becomes ready to grow flowers and "
+            "leaves separately, then buds begin to form, then the buds "
+            "burst, and finally the tree fully blossoms &mdash; radiance "
+            "spreading fifty leagues, fragrance wafting a hundred, and the "
+            "gods amusing themselves at its root for four heavenly months, "
+            "each stage announced by the gods' own anticipatory delight."]),
+        ("The same seven stages, now a disciple's path", [
+            "Planning to go forth matches the leaves turning brown; "
+            "actually shaving the head, donning ocher robes, and going "
+            "forth matches the leaves falling; the first absorption "
+            "matches the foliage regrowing; the second matches readiness "
+            "to grow flowers and leaves separately; the third matches buds "
+            "forming; the fourth matches the buds bursting; and realizing "
+            "the undefiled freedom of heart and wisdom &mdash; full "
+            "arahantship &mdash; matches the tree's full blossom."]),
+        ("A cry that rises through every realm of gods in turn", [
+            "When a mendicant reaches that final stage, the earth gods "
+            "raise a cry announcing the achievement by name and lineage, "
+            "and that same cry is heard and repeated upward through the "
+            "gods of the four great kings, the thirty-three, Yama's realm, "
+            "the joyful gods, the gods who love to create, the gods who "
+            "control what is created by others, and finally the gods of "
+            "the Divinity's host &mdash; reaching the realm of divinity "
+            "itself within a single moment, matching the tree's own "
+            "radiance and fragrance spreading outward at full blossom."]),
+    ],
+    terms=[
+        ("Pāricchattaka",
+         "the Shady Orchid Tree, or Coral Tree, belonging to the gods of "
+         "the thirty-three &mdash; this discourse's governing image and "
+         "own title."),
+        ("pattapaṇḍutā",
+         "&ldquo;leaves turning brown&rdquo; &mdash; the tree's first "
+         "stage, matched to a disciple first planning to go forth."),
+        ("kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā",
+         "&ldquo;shaving off hair and beard, dressing in ocher robes&rdquo; "
+         "&mdash; the act of going forth, matched to the tree's leaves "
+         "falling."),
+        ("sabbaso pātubhūtā",
+         "&ldquo;fully blossomed&rdquo; &mdash; the tree's final stage, "
+         "matched to a disciple's full realization of undefiled freedom of "
+         "heart and wisdom."),
+        ("saddaṁ anussāveti",
+         "&ldquo;raises the cry&rdquo; &mdash; what the earth gods do on "
+         "witnessing an arahant's attainment, a cry then relayed upward "
+         "through every successive realm of gods."),
+    ],
+    text_intro=(
+        "The discourse in full: the Shady Orchid Tree's seven stages, the "
+        "matching disciple's path, and the cry that rises through every "
+        "realm of gods. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Shady Orchid Tree, stage by stage"),
+        ("p", "&sect;1", "an7.69:1.1-7.2"),
+        ("h3", "A disciple's path, matched to the tree"),
+        ("p", "&sect;2", "an7.69:8.1-14.2"),
+        ("h3", "The cry that rises through every realm of gods"),
+        ("p", "&sect;3", "an7.69:15.1-16.10"),
+    ],
+    quiz=[
+        {"q": "What do the gods of the thirty-three do at each successive "
+              "stage of the Shady Orchid Tree's cycle?",
+         "opts": [
+             "They grow anxious and worried",
+             "They grow elated, anticipating the next stage to come",
+             "They ignore the tree entirely",
+             "They attempt to prevent the next stage"],
+         "correct": 1,
+         "expl": "Anticipatory delight repeated at every one of the seven "
+                 "stages."},
+        {"q": "What does the tree's full blossom, with radiance and "
+              "fragrance spreading widely, match in the disciple's path?",
+         "opts": [
+             "First considering renunciation",
+             "Full arahantship — realizing the undefiled freedom of heart "
+             "and wisdom in this very life",
+             "Ordination itself",
+             "The first absorption"],
+         "correct": 1,
+         "expl": "The culminating stage on both sides of the simile."},
+        {"q": "What happens when a mendicant reaches that final stage, "
+              "according to this discourse?",
+         "opts": [
+             "Nothing further is described",
+             "The earth gods raise a cry announcing the achievement, "
+             "relayed upward through every successive realm of gods to the "
+             "realm of divinity",
+             "Only the Buddha is informed",
+             "The mendicant must announce it themselves"],
+         "correct": 1,
+         "expl": "A cascading celebration passed from realm to realm within "
+                 "a single moment."},
+        {"q": "What does the first absorption match in the tree's cycle?",
+         "opts": [
+             "The leaves turning brown",
+             "The foliage beginning to regrow",
+             "The full blossom",
+             "The buds bursting"],
+         "correct": 1,
+         "expl": "The third of seven matched stages, following ordination "
+                 "itself."},
+        {"q": "According to the guide, what kind of tree is the "
+              "Pāricchattaka?",
+         "opts": [
+             "An ordinary tree found in human villages",
+             "A heavenly tree belonging to the gods of the thirty-three, "
+             "known elsewhere in the canon as a mark of their realm's "
+             "beauty",
+             "A tree found only in hell realms",
+             "A mythical tree with no canonical basis"],
+         "correct": 1,
+         "expl": "A well-known feature of the Tāvatiṃsa heaven, borrowed "
+                 "here as an extended simile."},
+        {"q": "How many stages does this discourse match between the tree's "
+              "cycle and the disciple's path?",
+         "opts": ["Four", "Five", "Seven", "Twelve"],
+         "correct": 2,
+         "expl": "Seven matched stages, from renunciation through to full "
+                 "arahantship."},
+    ],
+    marginalia=[
+        ("A tree, celebrated in stages", [
+            "leaves brown, then fall,",
+            "foliage regrows, buds form,",
+            "burst, then full blossom",
+        ]),
+        ("A path, matched exactly", [
+            "renunciation, going forth,",
+            "four absorptions in turn,",
+            "then full arahantship",
+        ]),
+        ("A cry, rising realm by realm", [
+            "earth gods announce it first,",
+            "then every heaven in turn,",
+            "up to the realm of divinity",
+        ]),
+        ("Cross-references", [
+            "AN 7.68 &middot; previous, seven kinds of knowing",
+            "AN 7.70 &middot; next, Sāriputta's own private reflection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.69/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.68.html">AN 7.68 &middot; One Who Knows the '
+        "Teachings</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.70 — Sakkaccasutta
+#
+# The same seven-item list as AN 7.59 (Teacher/teaching/Saṅgha/training/
+# immersion/diligence/hospitality) -- a second appearance within this chapter
+# alone, this time worked out by Sāriputta himself as a dependency chain
+# structurally similar to AN 7.65's hiri/ottappa chain.
+# --------------------------------------------------------------------------- #
+page(
+    70, "Sakkacca", "Honor",
+    vagga=VAGGA_7,
+    meta_title="AN 7.70 — Honor | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sakkaccasutta, in which Sāriputta works out on his own retreat "
+        "which seven things a mendicant should honor, then has the Buddha "
+        "confirm his reasoning point by point. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Opens in Sāriputta's private retreat, then moves to "
+                    "the Buddha in the late afternoon"),
+        ("Speakers", "Venerable Sāriputta, reasoning first to himself, then "
+                     "presenting his conclusions to the Buddha"),
+        ("Form", "Sāriputta's own solitary reasoning, a decision to seek "
+                 "confirmation, and then a three-part logical chain — "
+                 "impossibility without, impossibility while disrespecting, "
+                 "and possibility with respect — each stated once by "
+                 "Sāriputta and then confirmed by the Buddha"),
+        ("Length", "~5 minutes to read"),
+        ("The same seven items as AN 7.59", "Teacher, teaching, Saṅgha, "
+                                            "training, immersion, "
+                                            "diligence, and hospitality — "
+                                            "identical to the list AN 7.59 "
+                                            "gave earlier in this book, now "
+                                            "worked out independently by "
+                                            "Sāriputta rather than stated by "
+                                            "the Buddha directly"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "content is simple but the logical structure, "
+                       "repeated three ways, rewards careful tracking"),
+    ],
+    why=(
+        "AN 7.70 has Sāriputta work out, entirely on his own during private "
+        "retreat, that a mendicant should honor the same seven things AN "
+        "7.59 named &mdash; then, rather than trusting his own conclusion "
+        "silently, bring it to the Buddha to be confirmed and made better "
+        "known as purified, using the image of taking a gold ingot to a "
+        "smith."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant should honor, respect, and rely on the Teacher, "
+            "the teaching, the Saṅgha, the training, immersion, diligence, "
+            "and hospitality in order to give up the unskillful and "
+            "develop the skillful &mdash; the same seven items AN 7.59 "
+            "named, here reached independently by Sāriputta's own "
+            "reflection."]),
+        ("A private conclusion, brought forward rather than kept", [
+            "Sāriputta reaches his sevenfold conclusion alone in retreat, "
+            "then reasons that even though these qualities are already "
+            "pure and bright in him, telling the Buddha will not only keep "
+            "them purified but make them better known as purified &mdash; "
+            "comparing this to someone who takes an already-pure gold "
+            "ingot to a smith anyway, simply so its purity becomes "
+            "recognized rather than merely private."]),
+        ("A chain of dependency, stated three related ways", [
+            "Once the Buddha confirms the seven items, Sāriputta unpacks "
+            "their detailed meaning as a strict dependency chain: it is "
+            "quite impossible to respect the teaching without respecting "
+            "the Teacher first, impossible to respect the Saṅgha without "
+            "respecting the Teacher and teaching first, and so on through "
+            "all seven &mdash; then the same chain restated as what "
+            "respecting an earlier item makes impossible to disrespect "
+            "later, and again as what respecting each earlier item makes "
+            "possible for the next."]),
+        ("The Buddha's confirmation, item for item", [
+            "Rather than simply approving Sāriputta's answer as a whole, "
+            "the Buddha explicitly restates the entire three-part chain "
+            "himself, confirming Sāriputta's understanding is correct in "
+            "every particular &mdash; a structure closely paralleling AN "
+            "7.65's own chain of destroyed and fulfilled conditions, "
+            "though built from a different seven items."]),
+        ("Why bring a private insight forward at all", [
+            "The discourse's frame &mdash; private reflection, a reasoned "
+            "decision to seek confirmation, then that confirmation given "
+            "in full &mdash; models something beyond the seven-item content "
+            "itself: even a correct, independently reached insight gains "
+            "something real from being tested against the Teacher rather "
+            "than simply trusted and left unspoken."]),
+    ],
+    terms=[
+        ("paṭisallāna",
+         "&ldquo;private retreat&rdquo; &mdash; the setting in which "
+         "Sāriputta first works out this discourse's sevenfold conclusion "
+         "on his own."),
+        ("satthari, dhamme, saṅghe, sikkhāya, samādhismiṁ, appamāde, "
+         "paṭisanthāre",
+         "&ldquo;the Teacher, the teaching, the Saṅgha, the training, "
+         "immersion, diligence, hospitality&rdquo; &mdash; the seven items, "
+         "identical to AN 7.59's own list."),
+        ("jātarūpaṁ suddhaṁ pariyodātaṁ",
+         "&ldquo;a gold ingot, pure and bright&rdquo; &mdash; the simile "
+         "Sāriputta uses to explain why he brings an already-correct "
+         "private insight to the Buddha for confirmation."),
+        ("aṭṭhānametaṁ anavakāso",
+         "&ldquo;it is quite impossible&rdquo; &mdash; the recurring phrase "
+         "opening each link of Sāriputta's dependency chain."),
+        ("sādhu sādhu, Sāriputta",
+         "&ldquo;good, good, Sāriputta!&rdquo; &mdash; the Buddha's "
+         "response both before and after Sāriputta's detailed exposition, "
+         "confirming the conclusion at both ends of the discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta's private reflection, his "
+        "decision to seek confirmation, the Buddha's initial approval, and "
+        "Sāriputta's three-part dependency chain confirmed in detail. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta's private reflection: seven things worth "
+               "honoring"),
+        ("p", "&sect;1", "an7.70:1.1-1.10"),
+        ("h3", "Why he decides to tell the Buddha"),
+        ("p", "&sect;2", "an7.70:2.1-3.1"),
+        ("h3", "The Buddha confirms: the same seven things"),
+        ("p", "&sect;3", "an7.70:4.1-5.8"),
+        ("h3", "Sāriputta's exposition: a chain of dependent respect"),
+        ("p", "&sect;4", "an7.70:6.1-16.1"),
+        ("h3", "The Buddha's confirmation, restated in full"),
+        ("p", "&sect;5", "an7.70:17.1-23.1"),
+    ],
+    quiz=[
+        {"q": "Where does Sāriputta first reach his sevenfold conclusion in "
+              "this discourse?",
+         "opts": [
+             "In a public assembly",
+             "Alone, during private retreat",
+             "In a dream",
+             "While traveling with the Buddha"],
+         "correct": 1,
+         "expl": "An independently reached insight, worked out in "
+                 "solitude."},
+        {"q": "Why does Sāriputta decide to bring his already-correct "
+              "conclusion to the Buddha rather than simply trusting it "
+              "himself?",
+         "opts": [
+             "He doubts his own conclusion is correct",
+             "So it will not only remain purified in him but become better "
+             "known as purified, like taking an already-pure gold ingot to "
+             "a smith",
+             "Because mendicants are forbidden from private reflection",
+             "He has no particular reason"],
+         "correct": 1,
+         "expl": "A reason about recognition and confirmation, not doubt "
+                 "about correctness."},
+        {"q": "According to the guide, how does this discourse's seven-item "
+              "list relate to AN 7.59's?",
+         "opts": [
+             "They share no items in common",
+             "They are identical — Teacher, teaching, Saṅgha, training, "
+             "immersion, diligence, and hospitality",
+             "This list has only three items",
+             "This list replaces AN 7.59's list entirely"],
+         "correct": 1,
+         "expl": "The same seven items, reached this time through "
+                 "Sāriputta's own independent reasoning."},
+        {"q": "How many ways does Sāriputta restate the same dependency "
+              "logic across the seven items?",
+         "opts": [
+             "Once only",
+             "Three related ways — impossibility without, impossibility "
+             "while disrespecting, and possibility with respect",
+             "Seven separate times, once per item",
+             "The discourse contains no repeated structure"],
+         "correct": 1,
+         "expl": "The same underlying chain, stated from three related "
+                 "angles."},
+        {"q": "How does the Buddha respond to Sāriputta's detailed "
+              "exposition?",
+         "opts": [
+             "He rejects it and offers a different answer",
+             "He explicitly restates the entire three-part chain himself, "
+             "confirming it in every particular",
+             "He remains silent",
+             "He changes the subject"],
+         "correct": 1,
+         "expl": "A full, detailed confirmation rather than a brief "
+                 "approval."},
+        {"q": "According to the guide, what does this discourse's overall "
+              "frame model, beyond its seven-item content?",
+         "opts": [
+             "That private reflection is worthless",
+             "That even a correct, independently reached insight gains "
+             "something real from being tested against the Teacher rather "
+             "than left unspoken",
+             "That mendicants should never consult the Buddha directly",
+             "Nothing beyond the specific seven items"],
+         "correct": 1,
+         "expl": "A point about confirmation and shared verification, not "
+                 "just about the content itself."},
+    ],
+    marginalia=[
+        ("Worked out alone, first", [
+            "in private retreat,",
+            "Sāriputta reaches",
+            "the same seven items as AN 7.59",
+        ]),
+        ("A gold ingot, shown to a smith", [
+            "already pure —",
+            "brought forward anyway,",
+            "to be recognized as such",
+        ]),
+        ("One chain, three angles", [
+            "impossible without,",
+            "impossible while disrespecting,",
+            "possible once respect is given",
+        ]),
+        ("Cross-references", [
+            "AN 7.69 &middot; previous, the Shady Orchid Tree's seven "
+            "stages",
+            "AN 7.59 &middot; earlier, this same seven-item list's first "
+            "appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.70/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.69.html">AN 7.69 &middot; The Shady Orchid Tree</a> '
+        "&mdash; previous.",
+        '<a href="an-7.59.html">AN 7.59 &middot; With Kimbila</a> '
+        "&mdash; earlier, this same seven-item list's first appearance.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.71 — Bhāvanāsutta
+#
+# The seven-item list named as "undeveloped in what" here IS the 37
+# bodhipakkhiyā dhammā (the canon's full set of qualities contributing to
+# awakening), grouped into its standard seven categories: four kinds of
+# mindfulness meditation, four right efforts, four bases of psychic power,
+# five faculties, five powers, seven awakening factors, and the noble
+# eightfold path (4+4+4+5+5+7+8=37). First explicit appearance of this
+# named collective grouping in this project so far -- worth flagging.
+# --------------------------------------------------------------------------- #
+page(
+    71, "Bhāvanā", "Committed to Development",
+    vagga=VAGGA_7,
+    meta_title="AN 7.71 — Committed to Development | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhāvanāsutta, naming the thirty-seven qualities that contribute to "
+        "awakening as what wishing alone cannot substitute for, illustrated "
+        "by unincubated eggs and a worn adze handle. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A negative and positive statement about wishing versus "
+                 "developing, each with a chicken-and-eggs simile, followed "
+                 "by two further similes about gradual, imperceptible "
+                 "progress"),
+        ("Length", "~3 minutes to read"),
+        ("The full thirty-seven, named as a set", "The seven-part list this "
+                                                   "discourse calls "
+                                                   "&ldquo;undeveloped in"
+                                                   "&rdquo; is the complete "
+                                                   "thirty-seven qualities "
+                                                   "contributing to "
+                                                   "awakening — four "
+                                                   "mindfulness meditations, "
+                                                   "four right efforts, four "
+                                                   "bases of psychic power, "
+                                                   "five faculties, five "
+                                                   "powers, seven awakening "
+                                                   "factors, and the noble "
+                                                   "eightfold path"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "similes are simple and memorable; the underlying "
+                       "seven-category list is worth having open "
+                       "separately"),
+    ],
+    why=(
+        "AN 7.71 states plainly that a mendicant who is not committed to "
+        "development can wish all they like for freedom from defilements "
+        "and it will not happen, because that freedom depends on "
+        "developing a specific set of seven categories of qualities, "
+        "totaling thirty-seven, illustrated by a hen who wishes her "
+        "unincubated eggs would hatch."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Wishing for freedom from defilements accomplishes nothing on "
+            "its own; what actually produces that freedom is development "
+            "of a specific, named set of qualities, and a mendicant who "
+            "has genuinely developed them may reach that same freedom "
+            "without even needing to wish for it."]),
+        ("The full thirty-seven, named as a set", [
+            "What must be developed is given as seven categories in one "
+            "breath: the four kinds of mindfulness meditation, the four "
+            "right efforts, the four bases of psychic power, the five "
+            "faculties, the five powers, the seven awakening factors, and "
+            "the noble eightfold path &mdash; the complete thirty-seven "
+            "qualities contributing to awakening (bodhipakkhiyā dhammā), "
+            "here named together as a single group rather than treated "
+            "individually."]),
+        ("A hen who wishes without sitting on her eggs", [
+            "A hen with eight, ten, or twelve eggs who has not properly "
+            "sat on them to keep them warm cannot make her chicks hatch "
+            "safely no matter how much she might wish it &mdash; the "
+            "wishing changes nothing, because what the chicks actually "
+            "need is the incubation itself, not the hen's desire for the "
+            "outcome."]),
+        ("The same simile, reversed", [
+            "A hen who has properly incubated her eggs need not even wish "
+            "for her chicks to hatch safely; they can do so regardless, "
+            "because the actual condition &mdash; sustained incubation "
+            "&mdash; has already been met. The discourse restates its "
+            "entire opening claim this way, showing that development, once "
+            "genuinely present, makes the wish itself beside the point."]),
+        ("Progress too gradual to notice, until it's done", [
+            "Two further similes describe how this development actually "
+            "unfolds: a carpenter's adze handle worn smooth by handling, "
+            "with no way to say how much wore away today, yesterday, or "
+            "before &mdash; only that it has worn away; and a ship's ropes, "
+            "weathered by six months in water and then by wind, sun, and "
+            "rain on dry land, that collapse and rot away not from any "
+            "single dramatic event but from sustained, imperceptible "
+            "exposure. A mendicant committed to development wears away "
+            "their fetters the same gradual way."]),
+    ],
+    terms=[
+        ("bhāvanānuyoga",
+         "&ldquo;committed to development&rdquo; &mdash; this discourse's "
+         "own title, and the condition its opening claim turns on."),
+        ("cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā",
+         "&ldquo;the four kinds of mindfulness meditation, the four right "
+         "efforts, the four bases of psychic power&rdquo; &mdash; the "
+         "first three of seven categories making up the full thirty-seven."),
+        ("pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko "
+         "maggo",
+         "&ldquo;the five faculties, the five powers, the seven awakening "
+         "factors, the noble eightfold path&rdquo; &mdash; the remaining "
+         "four categories, completing the count of thirty-seven."),
+        ("anadhigatā",
+         "&ldquo;undeveloped&rdquo; &mdash; the diagnosis this discourse "
+         "gives for why wishing alone does not produce freedom from "
+         "defilements."),
+        ("vāsijaṭamaya",
+         "&ldquo;the handle of his adze&rdquo; &mdash; worn smooth by "
+         "gradual, day-by-day handling too fine to track, the simile for "
+         "how development actually accumulates."),
+    ],
+    text_intro=(
+        "The discourse in full: the negative and positive statements about "
+        "wishing versus development, each with the hen-and-eggs simile, "
+        "followed by the adze-handle and ship's-ropes similes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Without development, the wish is not enough"),
+        ("p", "&sect;1", "an7.71:1.1-2.14"),
+        ("h3", "With development, the wish is not even needed"),
+        ("p", "&sect;2", "an7.71:3.1-4.14"),
+        ("h3", "The carpenter's adze handle, and the ship's ropes"),
+        ("p", "&sect;3", "an7.71:5.1-6.2"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say happens if a mendicant who is "
+              "not committed to development simply wishes for freedom from "
+              "defilements?",
+         "opts": [
+             "The wish alone brings about that freedom",
+             "Nothing — their mind is not freed from defilements, because "
+             "the necessary qualities remain undeveloped",
+             "The wish makes things worse",
+             "The discourse does not address this question"],
+         "correct": 1,
+         "expl": "Wishing changes nothing without the underlying "
+                 "development."},
+        {"q": "According to the guide, what is the full seven-category list "
+              "this discourse names as needing development?",
+         "opts": [
+             "The four noble truths only",
+             "The complete thirty-seven qualities contributing to "
+             "awakening — four mindfulness meditations, four right "
+             "efforts, four bases of psychic power, five faculties, five "
+             "powers, seven awakening factors, and the noble eightfold "
+             "path",
+             "Only the noble eightfold path",
+             "The seven planes of consciousness"],
+         "correct": 1,
+         "expl": "The bodhipakkhiyā dhammā, named here as a single unified "
+                 "set."},
+        {"q": "What does the hen with unincubated eggs illustrate?",
+         "opts": [
+             "That wishing alone cannot substitute for the actual "
+             "condition — sustained incubation — that produces the desired "
+             "result",
+             "That eggs always hatch regardless of care",
+             "That hens should not sit on their eggs",
+             "Nothing related to development"],
+         "correct": 0,
+         "expl": "A direct parallel to wishing for freedom without actually "
+                 "developing its conditions."},
+        {"q": "What happens once a hen HAS properly incubated her eggs, "
+              "according to the discourse's reversed simile?",
+         "opts": [
+             "The eggs still fail to hatch",
+             "The chicks can hatch safely even without the hen needing to "
+             "wish for it, since the actual condition has already been met",
+             "The eggs must be incubated a second time",
+             "Nothing changes from the first simile"],
+         "correct": 1,
+         "expl": "Once the real condition is met, wishing becomes "
+                 "unnecessary."},
+        {"q": "What do the carpenter's adze handle and the ship's ropes "
+              "similes illustrate about development, according to the "
+              "guide?",
+         "opts": [
+             "That development happens instantly, in a single dramatic "
+             "event",
+             "That development unfolds gradually and imperceptibly, worn "
+             "away or weathered over time rather than tracked day by day",
+             "That development is impossible to achieve",
+             "That tools and ropes are unrelated to meditation"],
+         "correct": 1,
+         "expl": "Cumulative, imperceptible wear rather than any single "
+                 "noticeable event."},
+        {"q": "How many total qualities make up the set this discourse "
+              "names as needing development?",
+         "opts": ["Seven", "Twenty-one", "Thirty-seven", "Fifty"],
+         "correct": 2,
+         "expl": "Seven categories totaling thirty-seven individual "
+                 "qualities."},
+    ],
+    marginalia=[
+        ("Wishing is not enough", [
+            "freedom depends on",
+            "actual development,",
+            "not on wanting it to happen",
+        ]),
+        ("Thirty-seven, in seven groups", [
+            "mindfulness, efforts, power,",
+            "faculties, strengths,",
+            "awakening factors, the path",
+        ]),
+        ("Worn away, unnoticed", [
+            "an adze handle, ship's ropes —",
+            "progress too gradual",
+            "to track day by day",
+        ]),
+        ("Cross-references", [
+            "AN 7.70 &middot; previous, Sāriputta's own chain of dependent "
+            "respect",
+            "AN 7.65 &middot; earlier, a different six-link dependency "
+            "chain toward freedom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.71/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.70.html">AN 7.70 &middot; Honor</a> &mdash; '
+        "previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.72 — Aggikkhandhopamasutta
+#
+# Deliberately visceral rhetoric, read straight, not softened: the Buddha
+# uses graphic physical torment as a rhetorical baseline to make an ethical
+# point about unearned social and material honor, not as literal advocacy of
+# self-harm. Presented in full per this project's standing practice for
+# difficult canonical material.
+# --------------------------------------------------------------------------- #
+page(
+    72, "Aggikkhandhopama", "The Simile of the Great Mass of Fire",
+    vagga=VAGGA_7,
+    meta_title="AN 7.72 — The Simile of the Great Mass of Fire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aggikkhandhopamasutta, in which the Buddha declares it better for "
+        "an unethical mendicant to suffer extreme physical torment than to "
+        "accept unearned honor and requisites. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "On the road in the land of the Kosalans, where the "
+                    "Buddha stops the Saṅgha's journey on seeing a great "
+                    "mass of fire burning beside the path"),
+        ("Speakers", "The Buddha and the assembled mendicants"),
+        ("Form", "Seven parallel comparisons, each pitting an extreme "
+                 "physical torment against an ordinary social or material "
+                 "honor, with the Buddha declaring the torment preferable "
+                 "each time for an unethical mendicant"),
+        ("Length", "~7 minutes to read"),
+        ("Read straight, not softened", "This discourse's imagery is "
+                                        "deliberately visceral; it functions "
+                                        "as rhetorical baseline for an "
+                                        "ethical point about unearned honor, "
+                                        "not as literal advocacy of self-"
+                                        "harm, and is presented here in full"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "graphic and demanding content, among the most "
+                       "intense in this project so far"),
+    ],
+    why=(
+        "AN 7.72 has the Buddha halt beside a blazing fire on the road and "
+        "declare, seven times over, that it would be better for an "
+        "unethical mendicant to suffer death or agonizing physical torment "
+        "than to accept the touch, veneration, reverence, robes, almsfood, "
+        "lodging, or dwellings offered by faithful donors while lacking "
+        "the ethical conduct those gifts presuppose."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For a mendicant who is unethical, corrupt, and only "
+            "pretending to be a genuine ascetic, physical torment "
+            "&mdash; however extreme &mdash; causes only death or pain in "
+            "this life, while accepting honor and material support they "
+            "have not earned causes lasting harm culminating in a bad "
+            "rebirth, making the torment the objectively lesser harm."]),
+        ("A fire beside the road becomes an occasion for teaching", [
+            "The discourse begins with an ordinary observation on an "
+            "ordinary journey: a great mass of fire burning beside the "
+            "road. Rather than simply walking past it, the Buddha stops "
+            "the whole Saṅgha, sits down, and uses it as the anchor for "
+            "seven consecutive comparisons that grow more elaborate and "
+            "physically specific as the discourse proceeds."]),
+        ("Seven comparisons, matched to seven kinds of unearned benefit", [
+            "Each comparison pits a specific, graphically described "
+            "torment &mdash; embracing the fire itself, a rope tightened "
+            "around the shins to the marrow, a sword through the chest, a "
+            "red-hot iron sheet wrapped around the body, a red-hot copper "
+            "ball forced down the throat, a red-hot iron bed, being thrust "
+            "into a red-hot copper pot &mdash; against a correspondingly "
+            "ordinary benefit: physical touch, being bowed to, being "
+            "revered with cupped palms, and receiving robes, almsfood, "
+            "lodging, and dwellings given in faith. The pattern is fixed: "
+            "the mendicants agree the ordinary benefit sounds obviously "
+            "preferable, and the Buddha corrects them every time."]),
+        ("Why the correction: this life's pain versus a bad rebirth", [
+            "The Buddha's reasoning is consistent across all seven: "
+            "physical torment might result in death or severe pain, but it "
+            "does not by itself cause a bad rebirth, while accepting "
+            "unearned honor and requisites while unethical brings lasting "
+            "harm and suffering that does lead there. The comparison is "
+            "not a claim that torment is good, but that a bad rebirth is "
+            "categorically worse than any amount of this-life suffering, "
+            "however extreme."]),
+        ("A closing exhortation, and its immediate, dramatic effect", [
+            "The discourse closes with a practical exhortation &mdash; "
+            "training so that the services rendered to a mendicant are "
+            "genuinely fruitful for the giver, and reflecting on what is "
+            "good for oneself, for others, and for both is reason enough "
+            "for diligence &mdash; and then records an unusually dramatic "
+            "immediate reaction: sixty monks vomited hot blood on hearing "
+            "it, sixty resigned the training as too hard, and sixty were "
+            "freed from defilements on the spot, a threefold outcome the "
+            "text records without further comment."]),
+    ],
+    terms=[
+        ("aggikkhandha",
+         "&ldquo;a great mass of fire&rdquo; &mdash; the burning image the "
+         "Buddha encounters on the road and uses as this discourse's "
+         "anchor, and its own title."),
+        ("dussīlo pāpadhammo asuci saṅkassarasamācāro",
+         "&ldquo;unethical... of bad qualities, filthy, with suspicious "
+         "behavior&rdquo; &mdash; the specific kind of mendicant this "
+         "discourse's warnings are directed at, not mendicants in general."),
+        ("mahāsāvajjataraṁ",
+         "&ldquo;brings him lasting harm and suffering&rdquo; &mdash; the "
+         "recurring verdict on accepting unearned honor or requisites, "
+         "contrasted with physical torment's more limited this-life "
+         "consequence."),
+        ("saddhādeyyaṁ",
+         "&ldquo;given in faith&rdquo; &mdash; the qualifier attached to "
+         "each of the four material requisites (robes, almsfood, lodging, "
+         "dwellings), naming exactly what an unethical recipient has not "
+         "actually earned."),
+        ("lohitaṁ mukhato uggañchi",
+         "&ldquo;vomited hot blood from their mouths&rdquo; &mdash; part "
+         "of this discourse's dramatic closing account of sixty monks' "
+         "immediate reaction, alongside sixty who disrobed and sixty who "
+         "were freed."),
+    ],
+    text_intro=(
+        "The discourse in full: the fire beside the road, all seven "
+        "comparisons in sequence, the closing exhortation, and its "
+        "dramatic immediate outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha sees a great mass of fire"),
+        ("p", "&sect;1", "an7.72:1.1-1.7"),
+        ("h3", "First and second comparisons: touch, and receiving "
+               "veneration"),
+        ("p", "&sect;2", "an7.72:2.1-6.4"),
+        ("h3", "Third and fourth: receiving reverence, and receiving a "
+               "robe"),
+        ("p", "&sect;3", "an7.72:7.1-10.4"),
+        ("h3", "Fifth and sixth: receiving almsfood, and receiving a bed"),
+        ("p", "&sect;4", "an7.72:11.1-14.4"),
+        ("h3", "The seventh: receiving a dwelling"),
+        ("p", "&sect;5", "an7.72:15.1-16.4"),
+        ("h3", "The closing exhortation, and its immediate outcome"),
+        ("p", "&sect;6", "an7.72:17.1-18.5"),
+    ],
+    quiz=[
+        {"q": "What prompts this discourse's teaching?",
+         "opts": [
+             "A question from a mendicant",
+             "The Buddha seeing a great mass of fire burning beside the "
+             "road during an ordinary journey",
+             "A dispute among the mendicants",
+             "A visit from a deity"],
+         "correct": 1,
+         "expl": "An ordinary sight turned into the anchor for an extended "
+                 "teaching."},
+        {"q": "Who does this discourse's warning specifically target, "
+              "according to the guide?",
+         "opts": [
+             "All mendicants without exception",
+             "Specifically an unethical mendicant, of bad qualities, only "
+             "pretending to be a genuine ascetic",
+             "Laypeople who give donations",
+             "Only newly ordained mendicants"],
+         "correct": 1,
+         "expl": "A pointed warning aimed at a specific kind of corrupt "
+                 "recipient, not mendicants generally."},
+        {"q": "According to the Buddha's reasoning, why is physical torment "
+              "preferable to unearned honor for an unethical mendicant?",
+         "opts": [
+             "Because torment is actually pleasant",
+             "Because torment causes only death or pain in this life, "
+             "while accepting unearned honor brings lasting harm leading to "
+             "a bad rebirth",
+             "Because the Buddha enjoys watching suffering",
+             "There is no stated reason"],
+         "correct": 1,
+         "expl": "A comparison between this-life suffering and a "
+                 "categorically worse outcome, not an endorsement of "
+                 "torment itself."},
+        {"q": "According to the guide, how should this discourse's graphic "
+              "imagery be understood?",
+         "opts": [
+             "As literal advocacy that mendicants should seek out physical "
+             "torment",
+             "As deliberately visceral rhetoric serving as a baseline for "
+             "an ethical point about unearned honor, not literal advocacy "
+             "of self-harm",
+             "As a later addition with no canonical authority",
+             "As purely metaphorical with no ethical content at all"],
+         "correct": 1,
+         "expl": "Forceful rhetoric making an ethical point, not a literal "
+                 "instruction."},
+        {"q": "What four material requisites does this discourse's later "
+              "comparisons address, each qualified as \"given in faith\"?",
+         "opts": [
+             "Books, tools, money, and land",
+             "Robes, almsfood, lodging, and dwellings",
+             "Weapons, armor, horses, and chariots",
+             "Gold, silver, jewels, and silk"],
+         "correct": 1,
+         "expl": "The standard four monastic requisites, each requiring "
+                 "genuine ethical worthiness to accept."},
+        {"q": "What happened immediately after this discourse was spoken, "
+              "according to its closing account?",
+         "opts": [
+             "Nothing in particular occurred",
+             "Sixty monks vomited hot blood, sixty resigned the training as "
+             "too hard, and sixty were freed from defilements",
+             "The entire assembly left in silence",
+             "The Buddha immediately retracted the teaching"],
+         "correct": 1,
+         "expl": "An unusually dramatic threefold reaction, recorded "
+                 "without further comment."},
+    ],
+    marginalia=[
+        ("A fire beside the road", [
+            "an ordinary sight,",
+            "turned into the anchor",
+            "for seven comparisons",
+        ]),
+        ("This life's pain, or worse", [
+            "torment ends in death;",
+            "unearned honor",
+            "leads somewhere worse than that",
+        ]),
+        ("A dramatic reaction", [
+            "sixty vomited blood,",
+            "sixty disrobed,",
+            "sixty were freed on the spot",
+        ]),
+        ("Cross-references", [
+            "AN 7.71 &middot; previous, the thirty-seven qualities "
+            "contributing to awakening",
+            "AN 7.58 &middot; earlier, the Buddha's own account of purity "
+            "in the same four areas of conduct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.72/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.71.html">AN 7.71 &middot; Committed to '
+        "Development</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.73 — Sunettasutta
+#
+# A different, much briefer Sunetta episode than AN 7.66's: here Sunetta is
+# just the first of seven ancient teachers listed in a peyyāla chain (their
+# biographical template elided for the middle five, spelled out again only
+# for the last, Araka), used to make a point about insulting a stream-enterer
+# -- not the seven-years-of-love story AN 7.66 developed in full.
+# --------------------------------------------------------------------------- #
+page(
+    73, "Sunetta", "About Sunetta",
+    vagga=VAGGA_7,
+    meta_title="AN 7.73 — About Sunetta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sunettasutta, naming seven ancient teachers with hundreds of "
+        "disciples each, then declaring that insulting a single stream-"
+        "enterer is worse than insulting all seven combined. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A list of seven ancient teachers in an identical "
+                 "biographical template, elided for the middle five and "
+                 "spelled out for the first and last, leading into a "
+                 "single comparative claim"),
+        ("Length", "~2 minutes to read"),
+        ("Not AN 7.66's Sunetta story", "This discourse's Sunetta is only "
+                                        "the first name in a list of seven, "
+                                        "given a single templated sentence "
+                                        "&mdash; not the developed story of "
+                                        "seven years of loving-kindness and "
+                                        "many rebirths that AN 7.66 told in "
+                                        "full"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "short discourse building to a single, pointed "
+                       "comparison"),
+    ],
+    why=(
+        "AN 7.73 names seven ancient teachers, each free of sensual desire "
+        "and each with hundreds of disciples whose confidence or lack of it "
+        "determined their rebirth, only to declare that insulting a single "
+        "individual accomplished in view brims with more wickedness than "
+        "insulting all seven of these teachers and their followers "
+        "combined."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Malicious insult directed at a single individual accomplished "
+            "in view &mdash; a stream-enterer, one's own spiritual "
+            "companion &mdash; generates more wickedness than the same "
+            "malice directed at seven legendary teachers and all their "
+            "hundreds of disciples combined, because harm from outside the "
+            "Buddhist community never compares to harm done to one's own "
+            "companions."]),
+        ("Seven teachers, one template, mostly elided", [
+            "Sunetta, Mūgapakkha, Aranemi, Kuddālaka, Hatthipāla, "
+            "Jotipāla, and Araka are named in sequence, each described "
+            "with the identical sentence: a religious founder free of "
+            "desire for sensual pleasures, with many hundreds of "
+            "disciples, teaching the path to rebirth in the company of "
+            "Divinity, and producing hell for those who lacked confidence "
+            "in him and heaven for those who had it. Only the first "
+            "(Sunetta) and the last (Araka) are given in full; the middle "
+            "five are elided by the source text's own ellipsis, trusting "
+            "the reader to supply the identical template."]),
+        ("A question posed, then answered emphatically", [
+            "The Buddha asks whether someone who maliciously abused and "
+            "insulted these seven teachers, with their combined hundreds "
+            "of disciples, would brim with much wickedness, and the "
+            "mendicants agree readily &mdash; before the Buddha corrects "
+            "the scale entirely: insulting a single stream-enterer is "
+            "worse still."]),
+        ("Why one's own companion outweighs seven legendary teachers", [
+            "The stated reason is not about the stream-enterer's personal "
+            "merit exceeding seven ancient founders', but about "
+            "relationship: injury from outside the Buddhist community "
+            "never compares to injury done to one's own spiritual "
+            "companions. The discourse closes with a single, direct "
+            "training: to have no malicious intent for one's spiritual "
+            "companions at all."]),
+    ],
+    terms=[
+        ("satthā titthakaro",
+         "&ldquo;a religious founder&rdquo; &mdash; the description shared "
+         "by all seven named teachers, each an independent founder rather "
+         "than a follower of another tradition."),
+        ("Sunetta, Mūgapakkha, Aranemi, Kuddālaka, Hatthipāla, Jotipāla, "
+         "Araka",
+         "the seven named ancient teachers, sharing an identical "
+         "biographical template, only the first and last given in full."),
+        ("diṭṭhisampanno puggalo",
+         "&ldquo;a single individual accomplished in view&rdquo; &mdash; a "
+         "stream-enterer, whose insult this discourse ranks above insulting "
+         "all seven teachers and their followers combined."),
+        ("na tathā bāhirakaṁ vadhaṁ vā bandhaṁ vā",
+         "&ldquo;any injury done by those outside of the Buddhist "
+         "community does not compare&rdquo; &mdash; the discourse's own "
+         "stated reason for its central comparison."),
+        ("sabrahmacārīsu āghātaṁ",
+         "&ldquo;malicious intent for our spiritual companions&rdquo; "
+         "&mdash; what this discourse's closing training instructs "
+         "mendicants to be entirely without."),
+    ],
+    text_intro=(
+        "The discourse in full: all seven teachers named, the comparative "
+        "question and answer, and the closing training. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Once, the teacher Sunetta"),
+        ("p", "&sect;1", "an7.73:1.1-1.5"),
+        ("h3", "Six more teachers, the same pattern, down to Araka"),
+        ("p", "&sect;2", "an7.73:2.1-2.10"),
+        ("h3", "Which is worse: insulting seven great teachers, or one "
+               "accomplished disciple"),
+        ("p", "&sect;3", "an7.73:3.1-3.7"),
+        ("h3", "The training that follows"),
+        ("p", "&sect;4", "an7.73:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How many ancient teachers does this discourse name, and how "
+              "are their biographies given?",
+         "opts": [
+             "Three teachers, each given a unique biography",
+             "Seven teachers, sharing an identical template, with only the "
+             "first and last given in full and the middle five elided",
+             "One teacher only",
+             "Seven teachers, each with a completely different biography"],
+         "correct": 1,
+         "expl": "A peyyāla-style list, trusting the reader to supply the "
+                 "elided middle template."},
+        {"q": "According to the guide, how does this discourse's Sunetta "
+              "material differ from AN 7.66's?",
+         "opts": [
+             "They are identical accounts",
+             "This discourse gives Sunetta only a single templated "
+             "sentence as one of seven names, not AN 7.66's developed "
+             "story of seven years of loving-kindness",
+             "This discourse does not mention Sunetta at all",
+             "AN 7.66 does not mention Sunetta"],
+         "correct": 1,
+         "expl": "Two very different appearances of the same name, worth "
+                 "not conflating."},
+        {"q": "What comparison does the Buddha draw at this discourse's "
+              "center?",
+         "opts": [
+             "That insulting the seven teachers is impossible",
+             "That insulting a single individual accomplished in view "
+             "brims with more wickedness than insulting all seven teachers "
+             "and their hundreds of disciples combined",
+             "That the seven teachers were themselves wicked",
+             "That no comparison can be made between the two"],
+         "correct": 1,
+         "expl": "A deliberately startling scale comparison, favoring the "
+                 "single stream-enterer's greater weight."},
+        {"q": "What reason does the discourse give for this comparison?",
+         "opts": [
+             "No reason is given",
+             "Injury from outside the Buddhist community never compares to "
+             "injury done to one's own spiritual companions",
+             "The seven teachers were not actually enlightened",
+             "Stream-enterers cannot actually be insulted"],
+         "correct": 1,
+         "expl": "A claim about relationship and community, not about "
+                 "comparative personal merit."},
+        {"q": "What single training does this discourse close with?",
+         "opts": [
+             "To seek out the seven ancient teachers",
+             "To have no malicious intent for one's spiritual companions",
+             "To insult outsiders freely",
+             "To avoid all human contact"],
+         "correct": 1,
+         "expl": "A direct, practical instruction following from the "
+                 "discourse's central comparison."},
+        {"q": "What determines whether a disciple of these seven teachers "
+              "was reborn well or badly, according to the discourse?",
+         "opts": [
+             "Their wealth",
+             "Whether they had confidence in their teacher or lacked it",
+             "Their age at death",
+             "Their birthplace"],
+         "correct": 1,
+         "expl": "Confidence in the teacher, not any other factor, "
+                 "determines the stated outcome."},
+    ],
+    marginalia=[
+        ("Seven names, one template", [
+            "Sunetta, then five more,",
+            "elided identically,",
+            "down to Araka",
+        ]),
+        ("A startling comparison", [
+            "insulting seven teachers",
+            "and their followers —",
+            "still less than insulting one stream-enterer",
+        ]),
+        ("Harm close to home", [
+            "outside injury",
+            "never compares to",
+            "harming one's own companions",
+        ]),
+        ("Cross-references", [
+            "AN 7.72 &middot; previous, the great mass of fire",
+            "AN 7.66 &middot; earlier, this book's other, much fuller "
+            "Sunetta episode",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.73/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.72.html">AN 7.72 &middot; The Simile of the Great '
+        "Mass of Fire</a> &mdash; previous.",
+        '<a href="an-7.66.html">AN 7.66 &middot; The Seven Suns</a> '
+        "&mdash; earlier, this book's other, much fuller Sunetta episode.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.74 — Arakasutta
+#
+# Closes ch.7 Mahāvagga. Per the standing lesson from AN 7.20 (see the note
+# above ch.3): the `further` list below points only backward, never forward
+# to AN 7.75, since ch.8 has not been written yet.
+# --------------------------------------------------------------------------- #
+page(
+    74, "Araka", "About Araka",
+    vagga=VAGGA_7,
+    meta_title="AN 7.74 — About Araka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Arakasutta, closing this chapter with seven famous similes for "
+        "life's brevity, a note on ancient long lifespans, and the "
+        "arithmetic of a hundred years. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, quoting the ancient teacher Araka's own "
+                     "words"),
+        ("Form", "Seven similes in a fixed pattern, followed by a "
+                 "historical contrast and a detailed numerical breakdown of "
+                 "a hundred-year lifespan"),
+        ("Length", "~6 minutes to read"),
+        ("Closing this chapter", "The last discourse of Mahāvagga, picking "
+                                 "up Araka, the seventh and final name from "
+                                 "AN 7.73's list of ancient teachers, and "
+                                 "developing his teaching in full"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vivid, "
+                       "memorable similes paired with careful arithmetic, "
+                       "closing on one of the canon's most quoted "
+                       "exhortations"),
+    ],
+    why=(
+        "AN 7.74 closes this chapter by developing Araka &mdash; the last "
+        "of AN 7.73's seven ancient teachers &mdash; in full: seven similes "
+        "for how briefly human life lasts, a striking historical note that "
+        "even a 60,000-year lifespan didn't stop Araka from teaching this "
+        "urgency, and a careful count of just how few days, months, and "
+        "meals a hundred-year human life actually contains."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Human life is short, brief, and fleeting, full of suffering "
+            "and distress, so one should be thoughtful, wake up, do what's "
+            "good, and lead the spiritual life, since no one born can "
+            "escape death &mdash; a refrain repeated after seven different "
+            "similes, then given exact arithmetic to make its urgency "
+            "concrete rather than merely poetic."]),
+        ("Seven similes, one repeated refrain", [
+            "Life is compared to a dewdrop on a grass tip, vanishing when "
+            "the sun rises; a bubble in heavy rain, gone as soon as it "
+            "forms; a line drawn in water, vanishing right away; a "
+            "mountain river that never turns back, not for a moment; a "
+            "glob of spit easily spat from the tongue's tip; a scrap of "
+            "meat tossed into an iron cauldron heated all day, gone at "
+            "once; and a cow being led step by step closer to slaughter "
+            "&mdash; each image followed by the same call to be thoughtful "
+            "and lead the spiritual life."]),
+        ("Even a 60,000-year lifespan wasn't long enough to wait", [
+            "The discourse then places Araka's urgency in a startling "
+            "historical frame: in his own era, human beings lived 60,000 "
+            "years, girls could marry at five hundred, and people had only "
+            "six afflictions &mdash; cold, heat, hunger, thirst, and the "
+            "need to relieve themselves. Even with a lifespan and ease "
+            "modern readers can barely imagine, Araka still taught that "
+            "life was too short and fleeting to delay practice."]),
+        ("Doing the arithmetic on a hundred years", [
+            "The Buddha then applies the same urgency to the present, "
+            "where a long life is barely a hundred years, and breaks that "
+            "span down with exact figures: three hundred seasons, twelve "
+            "hundred months, 2,400 fortnights, 36,000 days, and 72,000 "
+            "meals &mdash; a hundred years converted into a countable, "
+            "finite number of actual meals, making an abstract span of "
+            "time into something that can be numbered and therefore felt "
+            "as genuinely limited."]),
+        ("The closing instruction: don't regret it later", [
+            "Having counted the lifespan down to its meals and named what "
+            "prevents even eating them &mdash; anger, pain, sickness, "
+            "sabbath observance, or simply being unable to get food "
+            "&mdash; the Buddha closes with one of the canon's most quoted "
+            "exhortations: here are roots of trees, here are empty huts; "
+            "practice absorption, don't be negligent, don't regret it "
+            "later. This is his instruction, given out of sympathy, as "
+            "what a teacher who wants the best for their disciples should "
+            "do."]),
+    ],
+    terms=[
+        ("appamattā, jāgaratha",
+         "&ldquo;be thoughtful, and wake up!&rdquo; &mdash; the recurring "
+         "call following each of Araka's seven similes for life's brevity."),
+        ("tiṇagge udabindu",
+         "&ldquo;a drop of dew on a grass tip&rdquo; &mdash; the first and "
+         "gentlest of the seven similes, vanishing as soon as the sun "
+         "rises."),
+        ("gāvī vajjhabhūmiṁ nīyamānā",
+         "&ldquo;a cow being led to the slaughterhouse&rdquo; &mdash; the "
+         "seventh and starkest simile, each step bringing it visibly "
+         "closer to death."),
+        ("vassasataṁ āyu",
+         "&ldquo;a hundred years [is] the lifespan&rdquo; &mdash; the "
+         "contemporary span the Buddha then breaks down into exact seasons, "
+         "months, fortnights, days, and meals."),
+        ("mā pacchā vippaṭisārino ahuvattha",
+         "&ldquo;don't regret it later&rdquo; &mdash; part of this "
+         "discourse's closing instruction, immediately following the "
+         "arithmetic of a hundred years."),
+    ],
+    text_intro=(
+        "The discourse in full: Araka's seven similes, the historical note "
+        "on ancient lifespans, the arithmetic of a hundred years, and the "
+        "closing instruction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Once, the teacher Araka"),
+        ("p", "&sect;1", "an7.74:1.1-1.4"),
+        ("h3", "Seven similes for how briefly life lasts"),
+        ("p", "&sect;2", "an7.74:2.1-8.2"),
+        ("h3", "Even with a 60,000-year lifespan, Araka taught this way"),
+        ("p", "&sect;3", "an7.74:9.1-9.5"),
+        ("h3", "These days: the arithmetic of a hundred years"),
+        ("p", "&sect;4", "an7.74:10.1-10.13"),
+        ("h3", "What prevents eating, and the closing instruction"),
+        ("p", "&sect;5", "an7.74:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How many similes does Araka use to illustrate how briefly "
+              "human life lasts?",
+         "opts": ["Three", "Five", "Seven", "Ten"],
+         "correct": 2,
+         "expl": "Seven images, from a dewdrop to a cow led to slaughter, "
+                 "each followed by the same refrain."},
+        {"q": "According to this discourse, how long did human beings live "
+              "in Araka's own era, and how many afflictions did they have?",
+         "opts": [
+             "A hundred years, with many afflictions",
+             "60,000 years, with only six afflictions — cold, heat, "
+             "hunger, thirst, and the need to relieve themselves",
+             "A thousand years, with no afflictions at all",
+             "The discourse gives no such figures"],
+         "correct": 1,
+         "expl": "A striking historical contrast, making Araka's urgency "
+                 "even more pointed."},
+        {"q": "Into how many meals does the Buddha break down a hundred-"
+              "year human lifespan?",
+         "opts": ["7,200", "36,000", "72,000", "100,000"],
+         "correct": 2,
+         "expl": "A precise, countable number, turning an abstract span "
+                 "into something concretely finite."},
+        {"q": "What does the Buddha name as things that can prevent someone "
+              "from even eating one of those counted meals?",
+         "opts": [
+             "Nothing can prevent eating",
+             "Anger, pain, sickness, sabbath observance, or being unable to "
+             "get food",
+             "Only illness",
+             "Only travel"],
+         "correct": 1,
+         "expl": "Several ordinary, everyday interruptions, underscoring "
+                 "how few meals are truly guaranteed."},
+        {"q": "What is this discourse's closing instruction?",
+         "opts": [
+             "To accumulate wealth before practicing",
+             "Here are roots of trees, here are empty huts; practice "
+             "absorption, don't be negligent, don't regret it later",
+             "To wait for a more convenient time to practice",
+             "To avoid meditation entirely"],
+         "correct": 1,
+         "expl": "One of the canon's most quoted exhortations, closing this "
+                 "chapter."},
+        {"q": "Whose teaching does this discourse develop in full, "
+              "according to the guide?",
+         "opts": [
+             "Sunetta's",
+             "Araka's — the last of the seven ancient teachers named "
+             "briefly in AN 7.73",
+             "Jotipāla's",
+             "The Buddha's own original teaching, unconnected to AN 7.73"],
+         "correct": 1,
+         "expl": "The seventh name from AN 7.73's list, picked up and "
+                 "developed at full length here."},
+    ],
+    marginalia=[
+        ("Seven images of brevity", [
+            "dewdrop, bubble, water-line,",
+            "river, spit, meat in a cauldron,",
+            "a cow led to slaughter",
+        ]),
+        ("Even 60,000 years wasn't enough", [
+            "few afflictions, long life —",
+            "still too short, Araka said,",
+            "to delay practice",
+        ]),
+        ("72,000 meals, counted", [
+            "a hundred years,",
+            "broken down to seasons,",
+            "months, days, and meals",
+        ]),
+        ("Cross-references", [
+            "AN 7.73 &middot; previous, all seven teachers named, Araka "
+            "last among them",
+            "AN 7.62 &middot; earlier, another teacher's biography later "
+            "revealed as the Buddha's own past life",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.74/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.73.html">AN 7.73 &middot; About Sunetta</a> '
+        "&mdash; previous.",
+    ],
+)
+
