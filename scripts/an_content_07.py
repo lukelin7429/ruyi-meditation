@@ -9229,3 +9229,2356 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# Dutiyapaṇṇāsaka (the Second Fifty) begins here, AN 7.54-1124. Structure
+# confirmed via the SuttaCentral menu API: six chapters -- Abyākatavagga
+# (7.54-64), Mahāvagga (7.65-74), Vinayavagga (7.75-84), Samaṇavagga (7.85-94),
+# Āhuneyyavagga (7.95-614, a single sutta plus one 519-discourse merged
+# peyyāla page), and Rāgapeyyāla (7.615-1124, three individual suttas plus a
+# 27-discourse merge and a 480-discourse merge -- numbers matching AN 6 ch.13's
+# Rāgapeyyāla almost exactly). All bilara-data files for 7.54-64 confirmed
+# independent, no compression.
+# --------------------------------------------------------------------------- #
+VAGGA_6 = "<em>Abyākatavagga</em> &mdash; the sixth chapter of the Sevens, opening its Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.54 — Abyākatasutta
+# --------------------------------------------------------------------------- #
+page(
+    54, "Abyākata", "The Undeclared Points",
+    vagga=VAGGA_6,
+    meta_title="AN 7.54 — The Undeclared Points | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Abyākatasutta, opening AN 7's Second Fifty with why a learned noble "
+        "disciple has no doubts about the four classic undeclared questions "
+        "about a realized one after death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "A question and answer, working through the same four-part "
+                 "reasoning twice, once diagnosing the problem as views and "
+                 "once as regret"),
+        ("Length", "~3 minutes to read"),
+        ("Wider canon", "The four undeclared questions about a realized one "
+                        "after death are among the best known of the classic "
+                        "unanswered questions, discussed at length in MN 63 and "
+                        "MN 72 and raised by the wanderer Vacchagotta elsewhere "
+                        "in the canon"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a compact "
+                       "but conceptually dense discourse, worth reading twice "
+                       "for its parallel structure"),
+    ],
+    why=(
+        "AN 7.54 opens this book's Second Fifty with a mendicant's question "
+        "about the four undeclared points concerning a realized one after "
+        "death, and the Buddha's answer runs through the same diagnosis twice "
+        "&mdash; first as a matter of views, then again as a matter of regret "
+        "&mdash; before naming the cause of a learned disciple's freedom from "
+        "doubt about them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A learned noble disciple has no doubts about the four undeclared "
+            "points &mdash; whether a realized one still exists, no longer "
+            "exists, both, or neither after death &mdash; because they "
+            "understand views themselves: their origin, their cessation, and "
+            "the practice leading to that cessation, rather than trying to "
+            "settle the four questions directly."]),
+        ("Four questions, called misconceptions before they are even argued", [
+            "The discourse does not debate which of the four positions about a "
+            "realized one after death is correct. It calls all four a "
+            "misconception (diṭṭhigataṁ) from the outset, then explains why: an "
+            "unlearned ordinary person doesn't understand views themselves, so "
+            "their views grow, while a learned disciple who does understand "
+            "views lets them cease &mdash; the cure targets the underlying "
+            "activity of view-holding, not the specific content of any one "
+            "view."]),
+        ("The same structure, run twice", [
+            "Having diagnosed the four questions as a matter of views, the "
+            "discourse runs the identical structure a second time, this time "
+            "diagnosing them as a matter of regret (vippaṭisāra) &mdash; the "
+            "same four misconceptions, the same contrast between an unlearned "
+            "person whose regrets grow and a learned disciple whose regrets "
+            "cease, and the same conclusion that a learned disciple neither "
+            "answers nor declares the undeclared points, and doesn't shake or "
+            "tremble over them."]),
+        ("Craving, perception, conceiving, proliferation, grasping", [
+            "Between the two full passages, the discourse briefly names five "
+            "further angles the four questions can be reduced to &mdash; that "
+            "each is just about craving, just about perception, a conceiving, a "
+            "proliferation, just about grasping &mdash; each abbreviated by the "
+            "source text's own ellipsis rather than spelled out, listing the "
+            "different roots this same fixation can be traced to before the "
+            "discourse moves on to the regret passage."]),
+    ],
+    terms=[
+        ("abyākatavatthu",
+         "&ldquo;the undeclared points&rdquo; &mdash; this discourse's own "
+         "title, the classic set of questions the Buddha consistently declined "
+         "to answer directly."),
+        ("hoti tathāgato paraṁ maraṇā... na hoti... hoti ca na ca hoti... neva "
+         "hoti na na hoti",
+         "&ldquo;a realized one still exists after death... no longer exists... "
+         "both... neither&rdquo; &mdash; the four undeclared positions this "
+         "discourse addresses."),
+        ("diṭṭhigataṁ",
+         "&ldquo;a misconception&rdquo;, literally &ldquo;a going into "
+         "view&rdquo; &mdash; the diagnosis this discourse gives all four "
+         "positions before explaining how views themselves are understood and "
+         "let go of."),
+        ("vippaṭisāra",
+         "&ldquo;regret&rdquo; &mdash; the second diagnosis this discourse "
+         "applies to the same four positions, run through the identical "
+         "structure as the first."),
+        ("na kampati na vedhati na pavedhati na santāsaṁ āpajjati",
+         "&ldquo;doesn't shake, tremble, quake, or get nervous&rdquo; &mdash; "
+         "the discourse's description of a learned disciple's stability "
+         "regarding the undeclared points."),
+    ],
+    text_intro=(
+        "The discourse in full, both passages diagnosing the four undeclared "
+        "points, first as views, then as regret. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A mendicant's question"),
+        ("p", "&sect;1", "an7.54:1.1-1.2"),
+        ("h3", "First diagnosis: the four points as a matter of views"),
+        ("p", "&sect;2", "an7.54:2.1-3.8"),
+        ("h3", "Five further angles, in brief"),
+        ("p", "&sect;3", "an7.54:4.1-4.5"),
+        ("h3", "Second diagnosis: the four points as a matter of regret"),
+        ("p", "&sect;4", "an7.54:4.6-5.7"),
+    ],
+    quiz=[
+        {"q": "What question does the unnamed mendicant ask the Buddha at the "
+              "opening of this discourse?",
+         "opts": [
+             "How to develop the four absorptions",
+             "What is the cause, what is the reason why a learned noble "
+             "disciple has no doubts regarding the undeclared points",
+             "How many undeclared points there are",
+             "Whether the Buddha claims omniscience"],
+         "correct": 1,
+         "expl": "A question about the cause of freedom from doubt, not about "
+                 "the content of the four positions themselves."},
+        {"q": "How does the discourse characterize all four of the undeclared "
+              "positions about a realized one after death?",
+         "opts": [
+             "As four equally valid options",
+             "As a misconception (diṭṭhigataṁ), regardless of which of the four "
+             "is chosen",
+             "As only the third position being false",
+             "As a question the discourse leaves genuinely open"],
+         "correct": 1,
+         "expl": "All four positions are called a misconception from the "
+                 "outset, rather than debated on their merits."},
+        {"q": "According to the guide, how many times does the discourse run "
+              "through essentially the same structure?",
+         "opts": [
+             "Once only",
+             "Twice — first diagnosing the four points as a matter of views, "
+             "then again as a matter of regret",
+             "Four times, once per undeclared position",
+             "Seven times"],
+         "correct": 1,
+         "expl": "An identical structure, applied to two different diagnoses in "
+                 "turn."},
+        {"q": "What five further angles does the discourse briefly name between "
+              "its two main passages?",
+         "opts": [
+             "The five spiritual faculties",
+             "That the four points are just about craving, perception, a "
+             "conceiving, a proliferation, or just about grasping",
+             "The five lower fetters",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "Five different roots the same fixation can be traced to, each "
+                 "abbreviated by the source text's own ellipsis."},
+        {"q": "Where else in the canon does the guide point to for further "
+              "discussion of these same four undeclared questions?",
+         "opts": ["DN 15 and DN 33 only", "MN 63 and MN 72, and elsewhere in "
+                  "connection with the wanderer Vacchagotta", "SN 5.2 only",
+                  "This is the only canonical discussion of the topic"],
+         "correct": 1,
+         "expl": "Among the best known of the classic unanswered questions, "
+                 "discussed at length elsewhere in the canon."},
+        {"q": "What does a learned noble disciple do regarding the undeclared "
+              "points, according to this discourse?",
+         "opts": [
+             "Argues forcefully for one of the four positions",
+             "Neither answers nor declares them, and doesn't shake, tremble, or "
+             "get nervous regarding them",
+             "Refuses to discuss the topic at all",
+             "Claims certainty about all four simultaneously"],
+         "correct": 1,
+         "expl": "Stability without needing to settle the four questions "
+                 "directly."},
+    ],
+    marginalia=[
+        ("Four questions, one diagnosis", [
+            "still exists, doesn't,",
+            "both, or neither —",
+            "all four called a misconception",
+        ]),
+        ("The cure targets the holding", [
+            "not which position",
+            "is correct, but",
+            "how views themselves arise and cease",
+        ]),
+        ("The same structure, twice", [
+            "views, then regret —",
+            "identical reasoning,",
+            "run through a second time",
+        ]),
+        ("Cross-references", [
+            "AN 7.53 &middot; earlier, closing this book's First Fifty",
+            "AN 7.55 &middot; next, seven places people are reborn",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.54/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.53.html">AN 7.53 &middot; Nanda&rsquo;s Mother</a> '
+        "&mdash; previous, closing this book's First Fifty.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.55 — Purisagatisutta
+#
+# The classic sevenfold non-returner typology (satta anāgāmī): three grades
+# of antarāparinibbāyī distinguished only by how far the spark simile's spark
+# travels before going out, then upahaccaparinibbāyī, asaṅkhāraparinibbāyī,
+# sasaṅkhāraparinibbāyī, and uddhaṁsota akaniṭṭhagāmī -- with a full arahant's
+# extinguishment named as an eighth, superior attainment beyond all seven.
+# --------------------------------------------------------------------------- #
+page(
+    55, "Purisagati", "Places People Are Reborn",
+    vagga=VAGGA_6,
+    meta_title="AN 7.55 — Places People Are Reborn | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Purisagatisutta, working through the seven destinies of a non-"
+        "returner with a single spark simile, then naming full arahantship as "
+        "an eighth attainment beyond all seven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One simile — a spark struck from an iron pot heated all "
+                 "day — run through seven small variations, each variation "
+                 "naming a different one of the seven destinies"),
+        ("Length", "~4 minutes to read"),
+        ("Wider canon", "This sevenfold typology of the non-returner recurs "
+                        "elsewhere in the canon, including the Puggalapaññatti; "
+                        "this discourse is one of its fullest tellings, using "
+                        "the spark simile to distinguish all seven at once"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "underlying typology is technical; the simile makes the "
+                       "distinctions easier to hold in mind than the bare "
+                       "Pali terms alone"),
+    ],
+    why=(
+        "AN 7.55 takes a single simile &mdash; a spark struck from an iron pot "
+        "heated all day, and how far it travels before going out &mdash; and "
+        "varies it seven ways to distinguish seven different destinies open to "
+        "a non-returner, before naming a further, superior extinguishment "
+        "reserved for full arahantship."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has developed equanimity toward existence but not "
+            "yet fully realized the peaceful state beyond it will, with the "
+            "ending of the five lower fetters, reach one of seven possible "
+            "destinies &mdash; distinguished from each other only by how "
+            "quickly or gradually that final extinguishment occurs."]),
+        ("One practice, one partial attainment, shared by all seven", [
+            "All seven cases begin identically: a mendicant practices seeing "
+            "existence as something to be given up, gains equanimity, is "
+            "unattached to life, and sees with right wisdom that a peaceful "
+            "state lies beyond &mdash; but has not yet totally realized that "
+            "state, nor completely given up the underlying tendencies of "
+            "conceit, desire for continued existence, and ignorance. What "
+            "differs between the seven is only what happens next."]),
+        ("Three grades of one destiny, told through a traveling spark", [
+            "The first three destinies share the same name and outcome "
+            "&mdash; extinguished between one life and the next &mdash; and "
+            "are distinguished from each other only by how the spark simile is "
+            "phrased: a spark that simply goes out, a spark that flies off and "
+            "goes out, and a spark that flies off, floats further, and goes "
+            "out before landing. The doctrine names these three grades early, "
+            "middle, and late within the interval between lives, though the "
+            "discourse itself states the distinction only through the "
+            "simile's small variations."]),
+        ("Four further destinies, each with its own named outcome", [
+            "The fourth destiny is extinguished specifically upon landing, "
+            "rather than in the interval before. The fifth is extinguished "
+            "without extra effort, its spark falling on a small heap of grass "
+            "or twigs that catches, smokes, and burns itself out unfed. The "
+            "sixth is extinguished with extra effort, the same process on a "
+            "larger heap. The seventh heads upstream to the Akaniṭṭha realm, "
+            "its spark growing into a fire that burns through plants and trees "
+            "until it reaches a clearing, road, cliff, water, or parkland "
+            "where it is finally extinguished."]),
+        ("An eighth case, beyond all seven", [
+            "The discourse closes by naming a further attainment that is not "
+            "one of the seven destinies at all: complete extinguishment with "
+            "no fuel for grasping, in which the underlying tendencies are "
+            "totally given up and the undefiled freedom of heart and wisdom "
+            "are realized in this very life. This is full arahantship, "
+            "distinguished from every one of the seven non-returner destinies "
+            "by not requiring a further rebirth of any kind to complete it."]),
+    ],
+    terms=[
+        ("purisagati",
+         "&ldquo;a place people are reborn&rdquo;, or &ldquo;a person's "
+         "destiny&rdquo; &mdash; this discourse's own title, naming its seven "
+         "subjects."),
+        ("antarāparinibbāyī",
+         "&ldquo;extinguished between one life and the next&rdquo; &mdash; the "
+         "shared name for the first three destinies, distinguished from each "
+         "other only by the spark simile's small variations."),
+        ("upahaccaparinibbāyī",
+         "&ldquo;extinguished upon landing&rdquo; &mdash; the fourth destiny, "
+         "distinguished from the first three by extinguishment occurring at "
+         "landing rather than in the interval before."),
+        ("asaṅkhāraparinibbāyī, sasaṅkhāraparinibbāyī",
+         "&ldquo;extinguished without extra effort&rdquo;, &ldquo;extinguished "
+         "with extra effort&rdquo; &mdash; the fifth and sixth destinies, "
+         "distinguished by the size of the heap of grass or twigs the "
+         "traveling spark falls upon."),
+        ("uddhaṁsoto akaniṭṭhagāmī",
+         "&ldquo;heading upstream, going to the Akaniṭṭha realm&rdquo; "
+         "&mdash; the seventh and most gradual destiny, its spark growing "
+         "into a fire that spreads far before finally being extinguished."),
+    ],
+    text_intro=(
+        "The discourse in full: the shared starting point, all seven "
+        "destinies through the spark simile's variations, and the eighth case "
+        "of complete extinguishment beyond them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven places announced"),
+        ("p", "&sect;1", "an7.55:1.1-1.5"),
+        ("h3", "The first three: extinguished between one life and the next, "
+               "by degrees"),
+        ("p", "&sect;2", "an7.55:2.1-4.7"),
+        ("h3", "The fourth: extinguished upon landing"),
+        ("p", "&sect;3", "an7.55:5.1-5.7"),
+        ("h3", "The fifth and sixth: extinguished without, and with, extra "
+               "effort"),
+        ("p", "&sect;4", "an7.55:6.1-7.8"),
+        ("h3", "The seventh: heading upstream to the Akaniṭṭha realm"),
+        ("p", "&sect;5", "an7.55:8.1-8.11"),
+        ("h3", "Beyond all seven: complete extinguishment with no fuel for "
+               "grasping"),
+        ("p", "&sect;6", "an7.55:9.1-9.8"),
+    ],
+    quiz=[
+        {"q": "What single simile does this discourse use to distinguish all "
+              "seven destinies?",
+         "opts": [
+             "A raft crossing a flood",
+             "A spark struck from an iron pot heated all day, and how far it "
+             "travels before going out",
+             "A lotus growing out of muddy water",
+             "A chariot with well-fitted wheels"],
+         "correct": 1,
+         "expl": "One image, varied seven ways to distinguish seven outcomes."},
+        {"q": "What do all seven destinies have in common as their starting "
+              "point?",
+         "opts": [
+             "Full arahantship already achieved",
+             "A mendicant who has gained equanimity and sees a peaceful state "
+             "beyond, but has not yet totally realized it or given up the "
+             "underlying tendencies of conceit, desire for existence, and "
+             "ignorance",
+             "No shared starting point at all",
+             "Ordination as a mendicant for at least twelve years"],
+         "correct": 1,
+         "expl": "The differences lie entirely in what happens after this "
+                 "shared partial attainment."},
+        {"q": "How are the first three destinies distinguished from each other, "
+              "according to the guide?",
+         "opts": [
+             "They are not actually distinguished — they are identical in "
+             "every respect",
+             "Only by the spark simile's small variations, describing early, "
+             "middle, and late extinguishment within the interval between "
+             "lives",
+             "By the mendicant's age at death",
+             "By which country they were born in"],
+         "correct": 1,
+         "expl": "Three grades of the same destiny, told through the same "
+                 "image with minor changes."},
+        {"q": "What distinguishes the fifth and sixth destinies from each "
+              "other?",
+         "opts": [
+             "The direction the spark travels",
+             "The size of the heap of grass or twigs the spark falls upon — "
+             "small for the fifth, large for the sixth",
+             "Whether the spark is red or blue",
+             "The time of day the spark is struck"],
+         "correct": 1,
+         "expl": "Extinguished without extra effort versus with extra effort, "
+                 "keyed to the size of what catches fire."},
+        {"q": "What does this discourse name as an eighth case, beyond all "
+              "seven destinies?",
+         "opts": [
+             "Rebirth as a Great Divinity",
+             "Complete extinguishment with no fuel for grasping — full "
+             "arahantship, realized in this very life without requiring "
+             "further rebirth",
+             "A return to the human realm",
+             "Nothing; the discourse only ever describes seven cases"],
+         "correct": 1,
+         "expl": "A further attainment distinguished from all seven by needing "
+                 "no further rebirth to complete it."},
+        {"q": "According to the guide, where else does this sevenfold "
+              "typology of the non-returner appear in the wider canon?",
+         "opts": [
+             "Nowhere else; this discourse is unique",
+             "The Puggalapaññatti, among other places",
+             "Only in the Vinaya",
+             "Only in the Jātaka collection"],
+         "correct": 1,
+         "expl": "A recognized typology given one of its fullest tellings "
+                 "here."},
+    ],
+    marginalia=[
+        ("One spark, seven paths", [
+            "how far it travels",
+            "before going out",
+            "distinguishes all seven",
+        ]),
+        ("Three grades, one name", [
+            "extinguished between",
+            "one life and the next —",
+            "early, middle, or late",
+        ]),
+        ("An eighth case, beyond", [
+            "not one of the seven —",
+            "full arahantship,",
+            "no further rebirth needed",
+        ]),
+        ("Cross-references", [
+            "AN 7.54 &middot; previous, the four undeclared points",
+            "AN 6.89&ndash;91 &middot; earlier, the same five lower fetters "
+            "under three different verb framings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.55/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.54.html">AN 7.54 &middot; The Undeclared Points</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.56 — Tissabrahmāsutta
+#
+# A different sevenfold typology from AN 7.55's seven non-returner destinies:
+# this discourse classifies practitioners by TYPE OF LIBERATION (freed both
+# ways, freed by wisdom, direct witness, attained to view, freed by faith, a
+# follower of teachings, and the signless meditator) rather than by destiny
+# after death. Adjacent in this chapter, easy to conflate -- worth flagging.
+# --------------------------------------------------------------------------- #
+page(
+    56, "Tissabrahmā", "Tissa the Divinity",
+    vagga=VAGGA_6,
+    meta_title="AN 7.56 — Tissa the Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tissabrahmāsutta, in which Moggallāna visits a deity to learn how "
+        "gods can tell whether a mendicant still has residue, and the Buddha "
+        "supplies the one type Tissa left out. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Opens on the Vulture's Peak near Rājagaha, then moves to "
+                    "a realm of divinity as Venerable Mahāmoggallāna travels "
+                    "there directly"),
+        ("Speakers", "Two unnamed deities, the Buddha, Venerable "
+                     "Mahāmoggallāna, and Tissa the Divinity, a mendicant "
+                     "recently reborn as a god"),
+        ("Form", "A narrative frame — an overheard report about freed nuns, "
+                 "Moggallāna's own curiosity, and a journey to question a "
+                 "former mendicant now reborn a deity — wrapped around a "
+                 "sevenfold doctrinal classification"),
+        ("Length", "~6 minutes to read"),
+        ("Not to be confused with AN 7.55's typology", "AN 7.55 classifies "
+                                                        "non-returners by "
+                                                        "destiny after death; "
+                                                        "this discourse "
+                                                        "classifies "
+                                                        "practitioners by type "
+                                                        "of liberation — two "
+                                                        "different sevens, "
+                                                        "adjacent in this "
+                                                        "chapter"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a vivid "
+                       "narrative carrying a technical typology, worth reading "
+                       "for the story as much as the doctrine"),
+    ],
+    why=(
+        "AN 7.56 has Moggallāna travel bodily to a realm of divinity to ask a "
+        "recently deceased mendicant, now Tissa the Divinity, which gods can "
+        "tell whether a person still has residue &mdash; and when Tissa's "
+        "answer covers only six of seven types, the Buddha himself supplies "
+        "the seventh, the signless meditator, back on the Vulture's Peak."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whether a particular class of gods can recognize a mendicant's "
+            "attainment depends on that class's own degree of contentment "
+            "with divine life, and the mendicant's own attainment sorts into "
+            "seven possible types, six of which Tissa the Divinity knows and "
+            "one of which only the Buddha supplies."]),
+        ("An unremarked report sets the story in motion", [
+            "Two glorious deities visit the Buddha late at night simply to "
+            "report that certain nuns are freed, one adding that they are "
+            "freed with no residue at all. The Buddha approves without further "
+            "comment, and the deities vanish &mdash; but this brief, "
+            "unexplained exchange is what prompts Moggallāna's own curiosity "
+            "about which gods actually know such things."]),
+        ("Only some gods of the Divinity's host actually know", [
+            "Tissa's first substantive answer already complicates the "
+            "question: not every god of the Divinity's host can tell whether "
+            "a person has residue or not. Those content with their own "
+            "divine lifespan, beauty, happiness, glory, and sovereignty, and "
+            "who have not truly understood any escape beyond it, do not know; "
+            "only those gods dissatisfied with their own divine condition and "
+            "who do understand an escape beyond it actually know."]),
+        ("Six types of liberation, worked through in turn", [
+            "Tissa then works through six types the gods can recognize: freed "
+            "both ways, freed by wisdom, a direct witness, one attained to "
+            "view, one freed by faith, and a follower of teachings &mdash; the "
+            "first three given in full, the next three elided by the source "
+            "text's own ellipsis and only the last, the follower of "
+            "teachings, spelled out completely."]),
+        ("The seventh type Tissa left out, supplied by the Buddha himself", [
+            "When Moggallāna reports back, the Buddha immediately notes what "
+            "Tissa left out: the seventh individual, the signless meditator, "
+            "one who, not focusing on any signs, enters and remains in the "
+            "signless immersion of the heart. Moggallāna's own question "
+            "prompts the Buddha to supply, in person, exactly the gap in a "
+            "deity's otherwise thorough answer."]),
+    ],
+    terms=[
+        ("sāvasesa, anavasesa",
+         "&ldquo;with residue&rdquo;, &ldquo;with no residue&rdquo; &mdash; "
+         "the distinction the deities report about the freed nuns, and the "
+         "question Moggallāna wants to understand how the gods can tell."),
+        ("ubhatobhāgavimutto, paññāvimutto, kāyasakkhī",
+         "&ldquo;freed both ways&rdquo;, &ldquo;freed by wisdom&rdquo;, "
+         "&ldquo;a direct witness&rdquo; &mdash; the first three of the seven "
+         "types of liberation, given in full detail by Tissa."),
+        ("diṭṭhippatto, saddhāvimutto, dhammānusārī",
+         "&ldquo;attained to view&rdquo;, &ldquo;freed by faith&rdquo;, "
+         "&ldquo;a follower of teachings&rdquo; &mdash; the fourth through "
+         "sixth types, elided by the source text's own ellipsis except for "
+         "the last."),
+        ("animittaṁ cetosamādhiṁ upasampajja viharati",
+         "&ldquo;enters and remains in the signless immersion of the "
+         "heart&rdquo; &mdash; the seventh type, the signless meditator, "
+         "supplied by the Buddha after Tissa's answer left it out."),
+        ("iddhi",
+         "psychic power, exercised here as Moggallāna travels to the realm of "
+         "divinity &ldquo;as easily as a strong person would extend or "
+         "contract their arm,&rdquo; the same simile used for this kind of "
+         "travel elsewhere in the canon."),
+    ],
+    text_intro=(
+        "The discourse in full: the deities' unremarked report, Moggallāna's "
+        "journey, Tissa's six types of liberation, and the Buddha's own "
+        "answer supplying the seventh. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Two deities report the nuns' freedom, unremarked upon"),
+        ("p", "&sect;1", "an7.56:1.1-1.9"),
+        ("h3", "Moggallāna wonders which gods would know"),
+        ("p", "&sect;2", "an7.56:2.1-3.7"),
+        ("h3", "Moggallāna visits Tissa the Divinity"),
+        ("p", "&sect;3", "an7.56:4.1-4.14"),
+        ("h3", "Not all the gods of the Divinity's host know"),
+        ("p", "&sect;4", "an7.56:5.1-6.6"),
+        ("h3", "The first three types: freed both ways, freed by wisdom, "
+               "a direct witness"),
+        ("p", "&sect;5", "an7.56:7.1-9.7"),
+        ("h3", "Three more, mostly elided: attained to view, freed by faith, "
+               "a follower of teachings"),
+        ("p", "&sect;6", "an7.56:10.1-10.9"),
+        ("h3", "Moggallāna reports back, and the missing seventh"),
+        ("p", "&sect;7", "an7.56:11.1-12.6"),
+        ("h3", "The seventh type: the signless meditator"),
+        ("p", "&sect;8", "an7.56:13.1-13.7"),
+    ],
+    quiz=[
+        {"q": "What prompts Moggallāna's own question about which gods know a "
+              "person's degree of freedom?",
+         "opts": [
+             "A direct question from the Buddha",
+             "Overhearing two deities report, unremarked upon, that certain "
+             "nuns are freed, one adding that they are freed with no residue",
+             "A dream Moggallāna had",
+             "A challenge from a rival ascetic"],
+         "correct": 1,
+         "expl": "A brief, unexplained exchange that sparks his own curiosity."},
+        {"q": "According to Tissa, do all the gods of the Divinity's host know "
+              "whether a person has residue or not?",
+         "opts": [
+             "Yes, every one of them knows",
+             "No — only those gods dissatisfied with their own divine "
+             "condition and who understand an escape beyond it actually know",
+             "None of them know",
+             "Only gods who have never been human know"],
+         "correct": 1,
+         "expl": "Knowing depends on the god's own degree of contentment with "
+                 "divine life."},
+        {"q": "How many types of liberation does Tissa actually cover in his "
+              "answer to Moggallāna?",
+         "opts": ["All seven", "Six — leaving out the seventh, the signless "
+                  "meditator", "Only three", "None"],
+         "correct": 1,
+         "expl": "A gap the Buddha himself notices and fills back on the "
+                 "Vulture's Peak."},
+        {"q": "Who supplies the seventh type, the signless meditator, that "
+              "Tissa left out?",
+         "opts": [
+             "Tissa the Divinity, in a follow-up message",
+             "The Buddha himself, after Moggallāna reports back",
+             "Another deity entirely",
+             "The seventh type is never actually supplied"],
+         "correct": 1,
+         "expl": "The Buddha notices the gap immediately and supplies it in "
+                 "person."},
+        {"q": "According to the guide, how does this discourse's sevenfold "
+              "typology differ from AN 7.55's?",
+         "opts": [
+             "They are identical typologies",
+             "AN 7.55 classifies non-returners by destiny after death; this "
+             "discourse classifies practitioners by type of liberation",
+             "This discourse has no typology at all",
+             "AN 7.55 has no typology at all"],
+         "correct": 1,
+         "expl": "Two different sevens, adjacent in the same chapter, worth "
+                 "distinguishing carefully."},
+        {"q": "How does Moggallāna travel to the realm of divinity?",
+         "opts": [
+             "By an ordinary journey on foot",
+             "Using psychic power, as easily as a strong person would extend "
+             "or contract their arm",
+             "He does not actually travel there in this discourse",
+             "By being carried by the deities"],
+         "correct": 1,
+         "expl": "A standard canonical simile for this kind of psychic travel."},
+    ],
+    marginalia=[
+        ("An unremarked report", [
+            "two deities mention",
+            "freed nuns, in passing —",
+            "and Moggallāna wonders why",
+        ]),
+        ("Not every god knows", [
+            "only those dissatisfied",
+            "with their own divine life",
+            "can tell who else is free",
+        ]),
+        ("Six given, one missing", [
+            "Tissa answers six types —",
+            "the Buddha himself",
+            "supplies the seventh",
+        ]),
+        ("Cross-references", [
+            "AN 7.55 &middot; previous, a different sevenfold typology by "
+            "destiny rather than liberation-type",
+            "AN 7.57 &middot; next, General Sīha and the visible fruits of "
+            "giving",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.56/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.55.html">AN 7.55 &middot; Places People Are Reborn</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.57 — Sīhasenāpatisutta
+# --------------------------------------------------------------------------- #
+page(
+    57, "Sīhasenāpati", "General Sīha",
+    vagga=VAGGA_6,
+    meta_title="AN 7.57 — General Sīha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sīhasenāpatisutta, in which the Buddha leads General Sīha through "
+        "seven visible fruits of giving before Sīha names the one further "
+        "fruit he takes on faith alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked "
+                    "roof"),
+        ("Speakers", "General Sīha and the Buddha"),
+        ("Form", "A counter-question method: rather than answering directly, "
+                 "the Buddha has Sīha compare two people and draw his own "
+                 "conclusions across seven questions, the last of which "
+                 "Sīha's own closing summary sets apart as unverifiable the "
+                 "same way as the other six"),
+        ("Length", "~4 minutes to read"),
+        ("A known figure", "General Sīha appears elsewhere in the canon in "
+                           "connection with generosity and his own conversion "
+                           "to the Buddha's teaching; this discourse shows him "
+                           "already an established, confident donor"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clean, "
+                       "escalating structure built entirely from repeated "
+                       "questions"),
+    ],
+    why=(
+        "AN 7.57 has General Sīha ask the Buddha to point out a fruit of "
+        "giving visible in this very life, and rather than simply listing "
+        "one, the Buddha leads him through seven comparisons between a "
+        "stingy person and a generous donor, before Sīha's own closing "
+        "summary sets the seventh apart as a fruit he can only take on "
+        "faith."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six fruits of giving are directly verifiable by anyone paying "
+            "attention to how the perfected ones actually treat a generous "
+            "donor versus a stingy one in this very life, while a seventh "
+            "fruit &mdash; a good rebirth after death &mdash; cannot be "
+            "confirmed the same way and has to be taken on faith instead."]),
+        ("A counter-question, not a direct answer", [
+            "Sīha asks for a visible fruit of giving, and the Buddha responds "
+            "by asking Sīha's own opinion instead: comparing a faithless, "
+            "stingy, abusive person against a faithful donor who loves "
+            "charity, which one will the perfected ones show sympathy for "
+            "first, approach first, receive alms from first, teach first, "
+            "and think well of? Sīha answers each himself, the Buddha never "
+            "needing to state the conclusion directly."]),
+        ("Seven comparisons, one predictable answer each time", [
+            "The pattern actually repeats seven times with only the specific "
+            "question changing &mdash; sympathy, approach, receiving alms, "
+            "being taught, reputation, confidence entering any assembly, and "
+            "finally a good rebirth after death &mdash; and Sīha's answer is "
+            "the same generous donor every time. Only afterward, in his own "
+            "summary, does Sīha set the seventh apart from the other six as a "
+            "fruit he cannot verify the same way."]),
+        ("Sīha's own testimony: six fruits he knows, one he doesn't", [
+            "Sīha then recites his own experience of all six fruits in the "
+            "first person &mdash; he is shown sympathy first, approached "
+            "first, has his alms received first, is taught first, has a good "
+            "reputation, and enters any assembly with confidence &mdash; and "
+            "states plainly that for these six he doesn't need to rely on "
+            "faith in the Buddha, since he knows them from direct experience. "
+            "But for the seventh fruit, a good rebirth after death, he admits "
+            "he doesn't know it the same way, and relies on faith instead "
+            "&mdash; a distinction the Buddha confirms rather than "
+            "smooths over."]),
+    ],
+    terms=[
+        ("diṭṭheva dhamme dānaphalaṁ",
+         "&ldquo;a fruit of giving apparent in the present life&rdquo; "
+         "&mdash; Sīha's opening request, and this discourse's central "
+         "subject."),
+        ("assaddho maccharī kadariyo paribhāsako",
+         "&ldquo;faithless, stingy, miserly, and abusive&rdquo; &mdash; the "
+         "contrasting figure compared against the faithful donor across all "
+         "seven of the discourse's questions."),
+        ("saddho dāyako dānapati",
+         "&ldquo;a faithful donor who loves charity&rdquo; &mdash; the "
+         "figure Sīha names first in every one of the seven comparisons."),
+        ("arahanto",
+         "&ldquo;the perfected ones&rdquo; &mdash; whose actual behavior "
+         "toward the two contrasting figures supplies the discourse's "
+         "directly observable evidence."),
+        ("saddhāya anugantvā",
+         "&ldquo;relying on faith&rdquo; &mdash; the phrase Sīha uses for "
+         "the one fruit of giving, a good rebirth after death, that cannot "
+         "be confirmed the same way as the other six."),
+    ],
+    text_intro=(
+        "The discourse in full: Sīha's question, the Buddha's seven "
+        "counter-questions, and Sīha's own first-person testimony "
+        "distinguishing six known fruits from one taken on faith. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sīha's question"),
+        ("p", "&sect;1", "an7.57:1.1-1.4"),
+        ("h3", "The Buddha's counter-question: two people, compared"),
+        ("p", "&sect;2", "an7.57:2.1-2.6"),
+        ("h3", "Seven comparisons, one at a time"),
+        ("p", "&sect;3", "an7.57:3.1-9.4"),
+        ("h3", "Sīha's own testimony: six fruits known, one taken on faith"),
+        ("p", "&sect;4", "an7.57:10.1-10.16"),
+    ],
+    quiz=[
+        {"q": "What does General Sīha ask the Buddha at the opening of this "
+              "discourse?",
+         "opts": [
+             "Whether giving is ever worthwhile",
+             "Whether the Buddha can point out a fruit of giving apparent in "
+             "the present life",
+             "How to become a general",
+             "Whether he should ordain as a mendicant"],
+         "correct": 1,
+         "expl": "A request for a visible, this-life fruit, not a promise "
+                 "about the next life."},
+        {"q": "How does the Buddha respond to Sīha's question?",
+         "opts": [
+             "By listing a single fruit directly",
+             "By asking Sīha's own opinion, comparing a stingy person against "
+             "a generous donor across seven questions, letting Sīha draw the "
+             "conclusions himself",
+             "By refusing to answer",
+             "By quoting a verse"],
+         "correct": 1,
+         "expl": "A counter-question method rather than a direct statement."},
+        {"q": "According to Sīha's own testimony, how many of the seven fruits "
+              "of giving does he say he knows directly, without relying on "
+              "faith?",
+         "opts": [
+             "All seven",
+             "Six — everything except a good rebirth after death, which he "
+             "takes on faith",
+             "None",
+             "Only one"],
+         "correct": 1,
+         "expl": "A clear line between what is directly verifiable in this "
+                 "life and what requires faith."},
+        {"q": "Why does Sīha say he relies on faith for the seventh fruit, a "
+              "good rebirth after death?",
+         "opts": [
+             "Because the Buddha refuses to discuss it",
+             "Because it cannot be confirmed the same way as the other six, "
+             "which he can observe directly in this life",
+             "Because he doesn't believe in rebirth at all",
+             "Because giving has no effect on rebirth"],
+         "correct": 1,
+         "expl": "A fruit outside the reach of direct, this-life verification."},
+        {"q": "How does the Buddha respond to Sīha's closing distinction "
+              "between what he knows and what he takes on faith?",
+         "opts": [
+             "He corrects Sīha, saying rebirth is also directly knowable",
+             "He confirms it: \"That's so true, Sīha! That's so true!\"",
+             "He remains silent",
+             "He changes the subject entirely"],
+         "correct": 1,
+         "expl": "A confirmation, not a smoothing-over of the distinction "
+                 "Sīha draws."},
+        {"q": "According to the guide, what is General Sīha known for "
+              "elsewhere in the canon?",
+         "opts": [
+             "Military conquest only",
+             "Generosity and his own conversion to the Buddha's teaching",
+             "Opposing the Buddha's teaching",
+             "Founding a rival religious order"],
+         "correct": 1,
+         "expl": "An established figure connected to giving and faith "
+                 "elsewhere in the canon."},
+    ],
+    marginalia=[
+        ("A question turned back", [
+            "Sīha asks for a fruit —",
+            "the Buddha asks him",
+            "to compare two people instead",
+        ]),
+        ("Seven questions, one answer", [
+            "sympathy, approach, alms,",
+            "teaching, reputation, confidence,",
+            "rebirth — the generous donor, every time",
+        ]),
+        ("Six known, one on faith", [
+            "this life's fruits, directly seen;",
+            "the next life's fruit,",
+            "taken on faith alone",
+        ]),
+        ("Cross-references", [
+            "AN 7.56 &middot; previous, a different sevenfold typology by "
+            "liberation-type",
+            "AN 7.52 &middot; earlier, seven motivations behind an identical "
+            "gift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.57/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.56.html">AN 7.56 &middot; Tissa the Divinity</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.58 — Arakkheyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    58, "Arakkheyya", "Nothing to Hide",
+    vagga=VAGGA_6,
+    meta_title="AN 7.58 — Nothing to Hide | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Arakkheyyasutta, the Buddha's own account of four areas where he has "
+        "nothing to hide and three grounds on which he is irreproachable. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A first-person doctrinal statement in two parts, four items "
+                 "then three, together making this chapter's seven"),
+        ("Length", "~3 minutes to read"),
+        ("Wider canon", "The three grounds of irreproachability given here "
+                        "overlap with the Buddha's four kinds of self-"
+                        "confidence (vesārajja) described at greater length in "
+                        "MN 12, though this discourse's specific fourfold-plus-"
+                        "threefold structure is its own"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "confident, first-person statement, unusually direct "
+                       "even by this book's standards"),
+    ],
+    why=(
+        "AN 7.58 has the Buddha speak about himself directly: four areas "
+        "&mdash; bodily, verbal, and mental conduct, and livelihood &mdash; "
+        "where he has nothing to hide from anyone, and three further grounds "
+        "&mdash; his teaching, his path to extinguishment, and his hundreds of "
+        "accomplished disciples &mdash; on which he declares himself "
+        "irreproachable by anyone in the world."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha states plainly that in four areas of his own conduct "
+            "he has nothing to hide, thinking &lsquo;don't let others find "
+            "this out about me,&rsquo; and that on three further grounds no "
+            "one &mdash; ascetic, brahmin, god, Māra, or the Divinity &mdash; "
+            "has any legitimate basis to scold him."]),
+        ("Four areas, the same formula repeated", [
+            "Bodily, verbal, and mental conduct, and livelihood: each is "
+            "named pure, and each is followed by the identical claim that the "
+            "Buddha has no misconduct in that area to hide, with the same "
+            "imagined anxious thought &mdash; &lsquo;don't let others find "
+            "this out about me&rsquo; &mdash; explicitly absent."]),
+        ("Three further grounds, argued rather than merely asserted", [
+            "The three grounds of irreproachability are not simple "
+            "assertions: each is followed by the Buddha's own reasoning for "
+            "why no legitimate scolding is possible &mdash; his teaching is "
+            "well explained, the practice he has described for his disciples "
+            "genuinely leads to extinguishment as demonstrated by their own "
+            "realization, and many hundreds of his disciples have in fact "
+            "realized the undefiled freedom of heart and wisdom. Each ground "
+            "closes with the same declaration: seeing no such reason for "
+            "reproach, he lives secure, fearless, and self-assured."]),
+        ("A first-person register, unusual even for this book", [
+            "Most of this book's discourses report what the Buddha taught "
+            "others; this one has him describe his own standing directly, in "
+            "the first person, without a questioner prompting it. The claim "
+            "is not modest, but it is also not merely asserted &mdash; each "
+            "of the seven items comes with its own stated reason, open in "
+            "principle to challenge from &ldquo;anyone else in the "
+            "world.&rdquo;"]),
+    ],
+    terms=[
+        ("arakkheyya",
+         "&ldquo;nothing to hide&rdquo;, or more literally &ldquo;not "
+         "needing to be guarded&rdquo; &mdash; this discourse's own title, "
+         "naming the four areas of conduct requiring no concealment."),
+        ("kāyasamācāro, vacīsamācāro, manosamācāro, ājīvo",
+         "&ldquo;bodily behavior, verbal behavior, mental behavior, "
+         "livelihood&rdquo; &mdash; the four areas of purity, each given the "
+         "identical &ldquo;nothing to hide&rdquo; formula in turn."),
+        ("anupavajja",
+         "&ldquo;irreproachable&rdquo; &mdash; the second half of this "
+         "discourse's own title-pair, describing the three further grounds on "
+         "which no legitimate scolding is possible."),
+        ("khemappatto, abhaya, vesārajjappatto",
+         "&ldquo;secure, fearless, self-assured&rdquo; &mdash; the phrase "
+         "closing each of the three grounds of irreproachability."),
+        ("samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṁ",
+         "&ldquo;any ascetic, brahmin, god, Māra, or the Divinity, or anyone "
+         "else in the world&rdquo; &mdash; the exhaustive list of who might "
+         "legitimately scold the Buddha, and by this discourse's claim, "
+         "cannot."),
+    ],
+    text_intro=(
+        "The discourse in full: the four areas of nothing-to-hide conduct, "
+        "and the three grounds of irreproachability. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four areas where the Realized One has nothing to hide"),
+        ("p", "&sect;1", "an7.58:1.1-5.1"),
+        ("h3", "The first ground: the teaching well explained"),
+        ("p", "&sect;2", "an7.58:6.1-6.6"),
+        ("h3", "The second ground: a practice that genuinely leads to "
+               "extinguishment"),
+        ("p", "&sect;3", "an7.58:7.1-7.6"),
+        ("h3", "The third ground: many hundreds of accomplished disciples"),
+        ("p", "&sect;4", "an7.58:8.1-10.1"),
+    ],
+    quiz=[
+        {"q": "What formula is repeated for each of the four areas of conduct "
+              "in this discourse's first half?",
+         "opts": [
+             "A different formula for each of the four",
+             "That behavior in that area is pure, and the Buddha has no "
+             "misconduct there to hide, thinking &lsquo;don't let others find "
+             "this out about me&rsquo;",
+             "A list of punishments for misconduct",
+             "A comparison to a wheel-turning monarch"],
+         "correct": 1,
+         "expl": "The identical formula, applied to body, speech, mind, and "
+                 "livelihood in turn."},
+        {"q": "What is the first of the three grounds of irreproachability?",
+         "opts": [
+             "Physical strength",
+             "That the Buddha has explained the teaching well, with no "
+             "legitimate reason for anyone to scold him about it",
+             "Royal patronage",
+             "Age and seniority"],
+         "correct": 1,
+         "expl": "A claim about the teaching itself, argued rather than merely "
+                 "asserted."},
+        {"q": "What is the third ground of irreproachability?",
+         "opts": [
+             "Wealth accumulated over a lifetime",
+             "That many hundreds of his disciples have realized the undefiled "
+             "freedom of heart and wisdom in this very life",
+             "Victory in philosophical debate",
+             "Recognition by kings"],
+         "correct": 1,
+         "expl": "Evidence in the form of his disciples' own realization, not "
+                 "merely a claim about himself."},
+        {"q": "According to the guide, what makes this discourse's register "
+              "unusual for this book?",
+         "opts": [
+             "It is written in verse throughout",
+             "It has the Buddha describe his own standing directly, in the "
+             "first person, without a questioner prompting it",
+             "It features no mendicants at all",
+             "It is the shortest discourse in the collection"],
+         "correct": 1,
+         "expl": "A first-person self-description, distinct from most of this "
+                 "book's reported teachings to others."},
+        {"q": "Who does this discourse name as unable to legitimately scold "
+              "the Buddha?",
+         "opts": [
+             "Only other ascetics",
+             "Any ascetic, brahmin, god, Māra, or the Divinity, or anyone "
+             "else in the world",
+             "Only his own disciples",
+             "No one is named"],
+         "correct": 1,
+         "expl": "An exhaustive list, spanning human and divine critics alike."},
+        {"q": "What phrase closes each of the three grounds of "
+              "irreproachability?",
+         "opts": [
+             "\"This too is how those gods know\"",
+             "\"Since I see no such reason, I live secure, fearless, and "
+             "self-assured\"",
+             "\"That's so true!\"",
+             "\"Which one of these are you?\""],
+         "correct": 1,
+         "expl": "The same closing declaration, repeated identically for all "
+                 "three grounds."},
+    ],
+    marginalia=[
+        ("Four areas, nothing hidden", [
+            "body, speech, mind,",
+            "livelihood — each pure,",
+            "each with nothing to conceal",
+        ]),
+        ("Three grounds, argued", [
+            "not mere assertion —",
+            "each ground gives",
+            "its own stated reason",
+        ]),
+        ("Secure, fearless, self-assured", [
+            "the same closing line,",
+            "repeated three times,",
+            "for three different grounds",
+        ]),
+        ("Cross-references", [
+            "AN 7.57 &middot; previous, General Sīha and the visible fruits of "
+            "giving",
+            "AN 7.59 &middot; next, why the true teaching does or doesn't "
+            "last",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.58/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.57.html">AN 7.57 &middot; General Sīha</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.59 — Kimilasutta
+#
+# The recurring "respect formula" first seen across AN 6 (6.32/33/40/69, four
+# constant items plus two that vary) reappears here scaled to seven items for
+# this nipata: Teacher, teaching, Saṅgha, training, immersion, diligence, and
+# hospitality -- the same four-item core, now extended by three rather than
+# two. Worth flagging as the formula's item-count itself tracking the nipata.
+# --------------------------------------------------------------------------- #
+page(
+    59, "Kimila", "With Kimbila",
+    vagga=VAGGA_6,
+    meta_title="AN 7.59 — With Kimbila | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kimilasutta, in which the Buddha tells Venerable Kimbila that the "
+        "true teaching's endurance after his own passing depends on seven "
+        "kinds of respect. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kimbilā, in the Freshwater Mangrove Wood"),
+        ("Speakers", "Venerable Kimbila and the Buddha"),
+        ("Form", "A mirrored pair of questions and answers, the second simply "
+                 "the first with every negative reversed to a positive"),
+        ("Length", "under 1 minute to read"),
+        ("A familiar formula, rescaled", "The four-part core of this "
+                                         "discourse's seven-item list &mdash; "
+                                         "respect for the Teacher, the "
+                                         "teaching, the Saṅgha, and the "
+                                         "training &mdash; is the same core "
+                                         "this book has met before in the "
+                                         "Sixes, there extended to six items; "
+                                         "here it is extended to seven"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short, "
+                       "mirrored pair, easy to read in one sitting"),
+    ],
+    why=(
+        "AN 7.59 has Venerable Kimbila ask why the true teaching does not "
+        "last long after the Buddha's final quenching, and the Buddha "
+        "answers with a single cause &mdash; a lack of respect for seven "
+        "things &mdash; before Kimbila asks the mirror question and receives "
+        "the mirror answer: maintaining that same sevenfold respect is what "
+        "makes the teaching endure."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whether the true teaching fades quickly or lasts long after the "
+            "Buddha's final quenching depends on one thing: whether the "
+            "fourfold community &mdash; monks, nuns, laymen, and laywomen "
+            "&mdash; maintains respect and reverence for seven things, or "
+            "lets that respect lapse."]),
+        ("A four-item core, extended to seven for this nipata", [
+            "The seven objects of respect are the Teacher, the teaching, the "
+            "Saṅgha, the training, immersion, diligence, and hospitality. The "
+            "first four are the same constant core this book has encountered "
+            "before, extended in the Sixes to six items with two varying "
+            "additions across several discourses; here, in the Sevens, the "
+            "same core is extended to seven, with immersion added ahead of "
+            "diligence and hospitality."]),
+        ("A single cause, stated by negation and then by its mirror", [
+            "The discourse gives its cause of decline first &mdash; a lack of "
+            "respect for these seven &mdash; in response to Kimbila's first "
+            "question, then simply reverses every element of that same answer "
+            "when Kimbila asks the mirror question about what makes the "
+            "teaching endure. Nothing new is introduced in the second half; "
+            "the same seven items, and the same causal structure, now stated "
+            "positively."]),
+        ("Kimbila, and the setting at Kimbilā", [
+            "Venerable Kimbila's own name and the location, Kimbilā, share "
+            "the same root, and this brief exchange is the only appearance "
+            "this book gives him &mdash; a single, focused question about "
+            "what will happen to the teaching once its founder is gone, "
+            "answered with a single, symmetrical cause."]),
+    ],
+    terms=[
+        ("saddhammassa ṭhitiyā",
+         "&ldquo;for the true teaching's endurance&rdquo; &mdash; the "
+         "underlying concern behind Kimbila's question, and the theme this "
+         "discourse's answer addresses directly."),
+        ("satthari agāravā appatissā",
+         "&ldquo;lack respect and reverence for the Teacher&rdquo; &mdash; "
+         "the first and constant item in this discourse's sevenfold formula, "
+         "shared with its AN 6 predecessors."),
+        ("dhamme, saṅghe, sikkhāya",
+         "&ldquo;for the teaching, for the Saṅgha, for the training&rdquo; "
+         "&mdash; the second through fourth items, completing the four-part "
+         "constant core."),
+        ("samādhismiṁ, appamāde, paṭisanthāre",
+         "&ldquo;for immersion, for diligence, for hospitality&rdquo; "
+         "&mdash; the three items extending the core to seven for this "
+         "nipata, with immersion newly added ahead of the pair this book has "
+         "seen vary elsewhere."),
+        ("parinibbute bhagavati",
+         "&ldquo;after the final quenching of the Blessed One&rdquo; "
+         "&mdash; the temporal frame both of Kimbila's question and the "
+         "Buddha's answer, addressing the teaching's fate after his own "
+         "death."),
+    ],
+    text_intro=(
+        "The discourse in full, both mirrored halves. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Kimbila's question: why the teaching fades"),
+        ("p", "&sect;1", "an7.59:1.1-2.2"),
+        ("h3", "The mirror question: why the teaching endures"),
+        ("p", "&sect;2", "an7.59:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What question does Venerable Kimbila ask the Buddha at the "
+              "opening of this discourse?",
+         "opts": [
+             "How to attain the four absorptions",
+             "What is the cause, what is the reason why the true teaching "
+             "does not last long after the Buddha's final quenching",
+             "Whether the Buddha will appoint a successor",
+             "How many mendicants are currently ordained"],
+         "correct": 1,
+         "expl": "A question about the teaching's future endurance, not about "
+                 "personal attainment."},
+        {"q": "According to the guide, what four items form the constant core "
+              "of this discourse's sevenfold formula?",
+         "opts": [
+             "The four absorptions",
+             "Respect for the Teacher, the teaching, the Saṅgha, and the "
+             "training",
+             "The four undeclared points",
+             "The four kinds of nutriment"],
+         "correct": 1,
+         "expl": "The same four-item core this book has met before, now "
+                 "extended further."},
+        {"q": "How does this discourse's seven-item formula compare to the "
+              "similar formula seen earlier in this book's Sixes, according "
+              "to the guide?",
+         "opts": [
+             "It is completely unrelated",
+             "The same four-item core, there extended to six items, here "
+             "extended to seven, with immersion newly added",
+             "It removes items rather than adding them",
+             "It is identical in every respect, with no change at all"],
+         "correct": 1,
+         "expl": "The formula's extension count tracks the nipata it appears "
+                 "in."},
+        {"q": "How does the discourse answer Kimbila's second, mirror "
+              "question about why the teaching endures?",
+         "opts": [
+             "With an entirely new set of seven items",
+             "By simply reversing every element of the first answer — "
+             "maintaining respect for the same seven things, rather than "
+             "lacking it",
+             "By refusing to answer",
+             "By naming only three items instead of seven"],
+         "correct": 1,
+         "expl": "The identical structure and items, stated positively rather "
+                 "than negatively."},
+        {"q": "Where is this discourse set?",
+         "opts": ["Sāvatthī", "Kimbilā, in the Freshwater Mangrove Wood",
+                  "Vesālī", "Rājagaha"],
+         "correct": 1,
+         "expl": "A location sharing its name's root with Kimbila's own name."},
+        {"q": "How many times does this book feature Venerable Kimbila, "
+              "according to the guide?",
+         "opts": ["Many times across several chapters", "Only this one brief "
+                  "exchange", "Never by name", "Ten times"],
+         "correct": 1,
+         "expl": "A single, focused appearance, asking one question about the "
+                 "teaching's future."},
+    ],
+    marginalia=[
+        ("One cause, two directions", [
+            "lacking respect,",
+            "the teaching fades;",
+            "maintaining it, endures",
+        ]),
+        ("Four core, three added", [
+            "Teacher, teaching, Saṅgha,",
+            "training — plus immersion,",
+            "diligence, hospitality",
+        ]),
+        ("The formula, rescaled", [
+            "six items in the Sixes,",
+            "seven items here —",
+            "the count matches the nipata",
+        ]),
+        ("Cross-references", [
+            "AN 7.58 &middot; previous, the Buddha's own nothing-to-hide "
+            "self-description",
+            "AN 6.69 &middot; earlier, the same four-item core extended to "
+            "six for its own nipata",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.59/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.58.html">AN 7.58 &middot; Nothing to Hide</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.60 — Sattadhammasutta
+#
+# A near-identical-looking list to AN 7.25's seven personal qualities (also
+# reused at AN 7.43): saddha/bahussuta/āraddhavīriya/satimā/paññavā recur, but
+# this list swaps in sīlavā (ethical) and pavivitta (secluded) where AN 7.25
+# had hiri/ottappa (conscientious/prudent) -- checked term by term, not the
+# same seven despite five shared items.
+# --------------------------------------------------------------------------- #
+page(
+    60, "Sattadhamma", "Seven Qualities",
+    vagga=VAGGA_6,
+    meta_title="AN 7.60 — Seven Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sattadhammasutta, a bare list of seven qualities for soon realizing "
+        "the spiritual path's culmination — five shared with, but two "
+        "different from, AN 7.25's earlier list. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, with no narrative or "
+                 "explanation attached"),
+        ("Length", "under 1 minute to read"),
+        ("Not the same list as AN 7.25", "Five of the seven items recur from "
+                                         "AN 7.25's earlier list of personal "
+                                         "qualities, but the other two differ "
+                                         "&mdash; this list swaps in ethical "
+                                         "conduct and seclusion where AN 7.25 "
+                                         "had conscience and prudence"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a brief "
+                       "list, best read with AN 7.25 open alongside for "
+                       "comparison"),
+    ],
+    why=(
+        "AN 7.60 names seven qualities that let a mendicant soon realize the "
+        "spiritual path's supreme culmination &mdash; five of them the same "
+        "as AN 7.25's earlier list of personal qualities, but two genuinely "
+        "different, worth checking term by term rather than assuming this is "
+        "simply that earlier list recurring."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who is faithful, ethical, learned, secluded, "
+            "energetic, mindful, and wise soon realizes the supreme "
+            "culmination of the spiritual path in this very life, achieving "
+            "with their own insight the goal for which gentlemen rightly go "
+            "forth from the lay life to homelessness."]),
+        ("Five items shared with AN 7.25, checked term by term", [
+            "Faithful (saddha), learned (bahussuta), energetic "
+            "(āraddhavīriya), mindful (satimā), and wise (paññavā) all recur "
+            "exactly from AN 7.25's earlier list of seven personal qualities "
+            "&mdash; the same list later reused again at AN 7.43. Five "
+            "shared items out of seven is enough overlap to invite the "
+            "assumption that this is simply the same list returning a third "
+            "time."]),
+        ("Two items that are not the same list at all", [
+            "Checked term by term against AN 7.25, two items differ: this "
+            "discourse names ethical conduct (sīlavā) and seclusion "
+            "(pavivitta) where AN 7.25 named conscience (hiri) and prudence "
+            "(ottappa). Five shared items make the difference easy to miss, "
+            "but the two discourses are not the same formula &mdash; this is "
+            "a genuinely distinct sevenfold list that happens to overlap "
+            "heavily with an earlier one."]),
+        ("Why the difference matters", [
+            "Swapping conscience and prudence &mdash; the two qualities most "
+            "concerned with restraint in the face of wrongdoing &mdash; for "
+            "ethical conduct and seclusion shifts this list's emphasis "
+            "toward outward discipline and withdrawal from company, rather "
+            "than the inward moral sensitivity AN 7.25 emphasized. A reader "
+            "moving quickly between the two discourses, trusting only the "
+            "five matching English words, would miss this shift entirely."]),
+    ],
+    terms=[
+        ("saddha, bahussuta, āraddhavīriya, satimā, paññavā",
+         "&ldquo;faithful, learned, energetic, mindful, wise&rdquo; &mdash; "
+         "the five items this list shares with AN 7.25's earlier seven "
+         "personal qualities."),
+        ("sīlavā",
+         "&ldquo;ethical&rdquo; &mdash; one of the two items distinguishing "
+         "this list from AN 7.25's, replacing that discourse's hiri "
+         "(conscience)."),
+        ("pavivitta",
+         "&ldquo;secluded&rdquo; &mdash; the other distinguishing item, "
+         "replacing AN 7.25's ottappa (prudence)."),
+        ("sāmaññaphala",
+         "&ldquo;the culmination of the spiritual path&rdquo; &mdash; more "
+         "literally &ldquo;the fruit of the ascetic life,&rdquo; the goal "
+         "this list's seven qualities lead to soon."),
+        ("agārasmā anagāriyaṁ pabbajitā",
+         "&ldquo;gone forth from the lay life to homelessness&rdquo; "
+         "&mdash; the standard phrase for ordination, framing this "
+         "discourse's stated goal."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualities, named"),
+        ("p", "&sect;1", "an7.60:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's seven qualities are identical to "
+              "AN 7.25's earlier list of personal qualities?",
+         "opts": [
+             "All seven",
+             "Five — faithful, learned, energetic, mindful, and wise",
+             "None at all",
+             "Only one"],
+         "correct": 1,
+         "expl": "A substantial overlap, but not a complete match."},
+        {"q": "According to the guide, what two qualities does this list have "
+              "that AN 7.25's list does not?",
+         "opts": [
+             "Conscience and prudence",
+             "Ethical conduct (sīlavā) and seclusion (pavivitta)",
+             "Faith and wisdom",
+             "Immersion and diligence"],
+         "correct": 1,
+         "expl": "Where AN 7.25 had hiri and ottappa, this list has sīlavā "
+                 "and pavivitta instead."},
+        {"q": "Why does the guide caution against assuming this is simply AN "
+              "7.25's list recurring?",
+         "opts": [
+             "Because there is no overlap at all between the two lists",
+             "Because five shared items out of seven make the two genuinely "
+             "different items easy to miss without checking term by term",
+             "Because AN 7.25 does not actually exist",
+             "Because this list has only three items"],
+         "correct": 1,
+         "expl": "Heavy overlap is exactly what makes a real difference easy "
+                 "to overlook."},
+        {"q": "According to the guide, what shift in emphasis does swapping "
+              "conscience and prudence for ethical conduct and seclusion "
+              "produce?",
+         "opts": [
+             "No shift at all",
+             "A shift toward outward discipline and withdrawal from company, "
+             "rather than inward moral sensitivity",
+             "A shift away from ethics entirely",
+             "A shift toward social engagement"],
+         "correct": 1,
+         "expl": "Two different emphases, despite five shared surface terms."},
+        {"q": "What goal does this discourse say these seven qualities lead "
+              "to?",
+         "opts": [
+             "Wealth and long life",
+             "Soon realizing the supreme culmination of the spiritual path in "
+             "this very life",
+             "Rebirth as a deity",
+             "Skill in debate"],
+         "correct": 1,
+         "expl": "The stated goal of going forth from the lay life to "
+                 "homelessness, achieved with one's own insight."},
+        {"q": "How is this discourse delivered?",
+         "opts": [
+             "As a dialogue with a brahmin",
+             "As a bare list with no narrative or explanation attached",
+             "As a story about a laywoman",
+             "As a set of verses"],
+         "correct": 1,
+         "expl": "A single-sentence definition, like several other short "
+                 "discourses in this book."},
+    ],
+    marginalia=[
+        ("Five the same, two different", [
+            "faithful, learned, energetic,",
+            "mindful, wise — plus",
+            "two swapped-in qualities",
+        ]),
+        ("Not AN 7.25 again", [
+            "sīlavā and pavivitta,",
+            "not hiri and ottappa —",
+            "checked term by term",
+        ]),
+        ("A shift in emphasis", [
+            "outward discipline",
+            "and withdrawal, not",
+            "inward moral sensitivity",
+        ]),
+        ("Cross-references", [
+            "AN 7.59 &middot; previous, seven kinds of respect for the "
+            "teaching's endurance",
+            "AN 7.25 &middot; earlier, the five-shared-item list this "
+            "discourse is not quite the same as",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.60/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.59.html">AN 7.59 &middot; With Kimbila</a> &mdash; '
+        "previous.",
+        '<a href="an-7.25.html">AN 7.25 &middot; Non-Decline for Mendicants '
+        "(3rd)</a> &mdash; earlier, the list this discourse is not quite the "
+        "same as.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.61 — Pacalāyamānasutta
+#
+# One of the canon's most practically quoted meditation-instruction texts:
+# the Buddha's eight successive remedies for a drowsy meditator. Note the
+# count is eight, not seven -- this discourse sits in the Sevens by position
+# in the collection, not because every list inside it is sevenfold.
+# --------------------------------------------------------------------------- #
+page(
+    61, "Pacalāyamāna", "Nodding Off",
+    vagga=VAGGA_6,
+    meta_title="AN 7.61 — Nodding Off | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pacalāyamānasutta, in which the Buddha personally visits a drowsy "
+        "Moggallāna with eight successive remedies, then two further "
+        "trainings and a definition of full freedom. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Opens at Crocodile's Bellow in the land of the Bhaggas, "
+                    "then the Buddha travels directly to Moggallāna near "
+                    "Kallavāḷamutta Village in the land of the Magadhans"),
+        ("Speakers", "The Buddha and Venerable Mahāmoggallāna"),
+        ("Form", "A escalating list of remedies, each introduced with "
+                 "&ldquo;but what if that doesn't work?&rdquo;, followed by "
+                 "two further trainings and a closing question and answer"),
+        ("Length", "~5 minutes to read"),
+        ("Not actually eight sevens", "This discourse's central teaching is "
+                                      "eight successive remedies for "
+                                      "drowsiness, not seven — it sits in "
+                                      "this book by its position in the "
+                                      "collection, not because every list "
+                                      "inside it has seven items"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; one of "
+                       "the canon's most practically quoted meditation "
+                       "instructions, worth reading slowly, one remedy at a "
+                       "time"),
+    ],
+    why=(
+        "AN 7.61 has the Buddha travel in person to a drowsy Moggallāna and "
+        "work through eight successive remedies for meditative drowsiness, "
+        "each tried only if the last one failed, before adding two further "
+        "trainings on approaching families and avoiding arguments, and "
+        "closing with Moggallāna's own question about how to define complete "
+        "freedom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "When a meditator nods off, there is a graduated sequence of "
+            "remedies to try, each one attempted only if the previous one "
+            "failed, moving from subtle shifts of attention through physical "
+            "actions to, as a last resort, a supervised nap in a specific "
+            "posture with a firm intention to rise quickly."]),
+        ("Eight remedies, tried one after another", [
+            "The sequence runs: stop focusing on whatever perception you "
+            "were meditating on when drowsiness struck; if that fails, think "
+            "through the teaching as memorized; if that fails, rehearse it "
+            "aloud in detail; if that fails, pinch your ears and rub your "
+            "limbs; if that fails, stand up, flush your eyes with water, and "
+            "look at the stars; if that fails, develop a radiant mind by "
+            "focusing on the perception of light; if that fails, walk "
+            "mindfully with attention turned inward; and if none of that "
+            "works, lie down in the lion's posture, mindful of the time to "
+            "rise, with the firm resolve not to indulge in the pleasure of "
+            "lying down."]),
+        ("Two further trainings, on a different subject entirely", [
+            "Having finished with drowsiness, the Buddha adds two further "
+            "trainings unconnected to sleepiness: not approaching "
+            "households with a vain, self-important attitude, since being "
+            "ignored by a busy family then breeds resentment, restlessness, "
+            "and a mind far from immersion; and not getting drawn into "
+            "arguments, since arguments generate talk, and talk generates "
+            "the same restlessness and loss of restraint."]),
+        ("A qualified view on closeness", [
+            "The Buddha then clarifies that he does not blanket-praise or "
+            "blanket-criticize closeness with others: closeness with "
+            "laypeople and renunciates is not praised, while closeness with "
+            "quiet, remote lodgings suited for retreat is &mdash; a "
+            "distinction that reframes the drowsiness and family-approaching "
+            "advice together as parts of one consistent view about what "
+            "supports immersion."]),
+        ("Moggallāna's question, and a definition of complete freedom", [
+            "The discourse closes with Moggallāna asking for a brief "
+            "definition of one who is freed through the ending of craving, "
+            "and the Buddha answers by tracing a chain: hearing that nothing "
+            "is worth insisting on, directly knowing and completely "
+            "understanding all things, meeting any feeling with observation "
+            "of impermanence, dispassion, cessation, and letting go, "
+            "grasping at nothing, becoming free of anxiety, and personally "
+            "becoming extinguished."]),
+    ],
+    terms=[
+        ("pacalāyamāna",
+         "&ldquo;nodding off&rdquo; &mdash; this discourse's own title, "
+         "naming Moggallāna's state when the Buddha finds him."),
+        ("sīhaseyyaṁ kappeyyāsi",
+         "&ldquo;lie down in the lion's posture&rdquo; &mdash; on the right "
+         "side, one foot on the other, mindful and aware, the eighth and "
+         "final remedy, reserved for when every other method has failed."),
+        ("uddhataṁ mānasaṁ",
+         "&ldquo;a head swollen with vanity&rdquo; &mdash; the attitude this "
+         "discourse warns against when approaching a family's home."),
+        ("na kiñci loke upādiyati",
+         "&ldquo;doesn't grasp at anything in the world&rdquo; &mdash; a "
+         "step in the closing chain defining one who is freed through the "
+         "ending of craving."),
+        ("taṇhāsaṅkhayavimutto",
+         "&ldquo;freed through the ending of craving&rdquo; &mdash; the "
+         "attainment Moggallāna asks the Buddha to briefly define, closing "
+         "this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's visit, all eight remedies for "
+        "drowsiness, two further trainings, a note on closeness, and the "
+        "closing definition of complete freedom. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha visits the drowsy Moggallāna"),
+        ("p", "&sect;1", "an7.61:1.1-2.2"),
+        ("h3", "Eight remedies for drowsiness, one after another"),
+        ("p", "&sect;2", "an7.61:2.3-9.4"),
+        ("h3", "Two more trainings: not courting families, not arguing"),
+        ("p", "&sect;3", "an7.61:10.1-11.4"),
+        ("h3", "On closeness: not all of it is praised, not all criticized"),
+        ("p", "&sect;4", "an7.61:11.5-11.8"),
+        ("h3", "Moggallāna's question: how to define complete freedom"),
+        ("p", "&sect;5", "an7.61:12.1-12.2"),
+        ("h3", "The Buddha's answer: nothing worth insisting on"),
+        ("p", "&sect;6", "an7.61:13.1-13.10"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha find out that Moggallāna is nodding off?",
+         "opts": [
+             "Another mendicant reports it to him",
+             "He sees Moggallāna with his own purified, superhuman "
+             "clairvoyance, then travels there in person",
+             "Moggallāna sends a message asking for help",
+             "He does not actually visit Moggallāna in this discourse"],
+         "correct": 1,
+         "expl": "A direct, personal visit prompted by the Buddha's own "
+                 "clairvoyant perception."},
+        {"q": "How many successive remedies for drowsiness does the Buddha "
+              "give, according to the guide?",
+         "opts": [
+             "Seven, matching this book's usual count",
+             "Eight — this discourse sits in the Sevens by its position in "
+             "the collection, not because this particular list has seven "
+             "items",
+             "Three",
+             "Twelve"],
+         "correct": 1,
+         "expl": "A count worth noting explicitly, since it does not match "
+                 "this book's usual sevenfold pattern."},
+        {"q": "What is the eighth and final remedy, reserved for when "
+              "nothing else has worked?",
+         "opts": [
+             "Fasting for a full day",
+             "Lying down in the lion's posture, mindful of the time to rise, "
+             "resolved not to indulge in the pleasure of lying down",
+             "Leaving the monastery entirely",
+             "Reciting the entire scriptures from memory"],
+         "correct": 1,
+         "expl": "A supervised, mindful rest, not an indefinite sleep."},
+        {"q": "What does the Buddha warn happens if a mendicant approaches a "
+              "family's home with a vain, self-important attitude?",
+         "opts": [
+             "Nothing in particular",
+             "Being ignored by a busy family breeds resentment, restlessness, "
+             "and a mind far from immersion",
+             "The family will always welcome them warmly",
+             "It guarantees a good meal"],
+         "correct": 1,
+         "expl": "A chain from vanity through disappointment to restlessness "
+                 "and lost restraint."},
+        {"q": "Does the Buddha say he blanket-praises or blanket-criticizes "
+              "closeness with others?",
+         "opts": [
+             "He blanket-praises all closeness",
+             "Neither — he does not praise closeness with laypeople and "
+             "renunciates, but does praise closeness with quiet lodgings "
+             "suited for retreat",
+             "He blanket-criticizes all closeness",
+             "The discourse does not address this question"],
+         "correct": 1,
+         "expl": "A qualified, specific view rather than a blanket rule."},
+        {"q": "What question does Moggallāna ask that closes this discourse?",
+         "opts": [
+             "How to overcome drowsiness a second time",
+             "How to briefly define a mendicant who is freed through the "
+             "ending of craving, having reached the ultimate goal",
+             "Whether he should return to lay life",
+             "How many mendicants are currently enlightened"],
+         "correct": 1,
+         "expl": "A question about the furthest point of the path, answered "
+                 "with a traced chain of insight."},
+    ],
+    marginalia=[
+        ("The Buddha comes in person", [
+            "seeing Moggallāna nod off",
+            "with clairvoyance,",
+            "and traveling there directly",
+        ]),
+        ("Eight remedies, in order", [
+            "from a shift of attention",
+            "to pinched ears, starlight,",
+            "to a mindful lion's-posture rest",
+        ]),
+        ("Not all closeness alike", [
+            "not laypeople and renunciates,",
+            "but quiet, remote lodgings —",
+            "a qualified view, not a blanket one",
+        ]),
+        ("Cross-references", [
+            "AN 7.60 &middot; previous, seven qualities for soon realizing "
+            "the path",
+            "AN 7.62 &middot; next, the Buddha's own account of seven years "
+            "of loving-kindness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.61/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.60.html">AN 7.60 &middot; Seven Qualities</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.62 — Mettasutta
+# --------------------------------------------------------------------------- #
+page(
+    62, "Metta", "Don&rsquo;t Fear Good Deeds",
+    vagga=VAGGA_6,
+    meta_title="AN 7.62 — Don't Fear Good Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Mettasutta, the Buddha's own autobiographical account of seven "
+        "years of loving-kindness and the many eons of exalted rebirths that "
+        "followed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A prose account followed by a verse recap of the same "
+                 "content, in the Buddha's own first-person voice"),
+        ("Length", "~4 minutes to read"),
+        ("Wider canon", "This autobiographical telling is distinct from the "
+                        "more famous discourse on loving-kindness's ethical "
+                        "and spiritual superiority to ritual merit-making "
+                        "found at Iti 27; this discourse instead traces one "
+                        "specific practice through many lifetimes of "
+                        "consequence"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward prose and verse, notable more for "
+                       "its scale than its complexity"),
+    ],
+    why=(
+        "AN 7.62 has the Buddha recall, in his own voice, developing a mind "
+        "of love for seven years and the consequence that followed: seven "
+        "eons without returning to this world, repeated rebirths as a Great "
+        "Divinity, as Sakka thirty-six times, and as a wheel-turning monarch "
+        "many hundreds of times, offered as evidence that good deeds are "
+        "nothing to fear."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Good deeds should not be feared, because &ldquo;good deeds&rdquo; "
+            "is simply another name for happiness, and the Buddha offers his "
+            "own past as proof: seven years of developing a mind of love "
+            "produced consequences stretching across seven cosmic eons and "
+            "many exalted rebirths."]),
+        ("Seven years of practice, seven eons of consequence", [
+            "The proportion is deliberately stark: seven years of "
+            "loving-kindness meditation, weighed against seven entire eons "
+            "of the cosmos contracting and expanding during which the "
+            "Buddha, in that past life, did not return to this world at "
+            "all &mdash; going to the realm of streaming radiance as the "
+            "cosmos contracted, and to an empty mansion of divinity as it "
+            "expanded, over and over."]),
+        ("Three exalted identities, each repeated many times", [
+            "Within that span, the account names three distinct exalted "
+            "identities occupied repeatedly: the Divinity, the Great "
+            "Divinity, wielder of power; Sakka, lord of the gods, thirty-six "
+            "times; and a wheel-turning monarch, many hundreds of times, "
+            "ruling by principle rather than force, possessing the seven "
+            "treasures and over a thousand valiant sons."]),
+        ("A prose account, then the same story again in verse", [
+            "Having told the story once in prose, the discourse retells "
+            "essentially the same account in verse, adding little new "
+            "content but reinforcing the scale of the claim through "
+            "repetition and closing with an explicit exhortation: someone "
+            "who desires self-knowledge and aspires to greatness should "
+            "respect the true teaching and remember the instructions of the "
+            "Buddhas."]),
+        ("Not the more famous discourse on loving-kindness", [
+            "This discourse should not be confused with the widely quoted "
+            "teaching that a mind of love outshines any amount of "
+            "ritual merit-making, found at Iti 27 outside this project's "
+            "scope. This discourse's approach is autobiographical rather "
+            "than comparative, tracing one practice's fruit across an "
+            "explicit span of lifetimes rather than ranking it against "
+            "other practices."]),
+    ],
+    terms=[
+        ("puññāni",
+         "&ldquo;good deeds&rdquo; &mdash; this discourse's own opening "
+         "subject, immediately glossed as simply another word for "
+         "happiness."),
+        ("mettaṁ cittaṁ bhāvesiṁ sattavassāni",
+         "&ldquo;I developed a mind of love for seven years&rdquo; &mdash; "
+         "the specific practice this discourse's entire account of exalted "
+         "rebirths is traced back to."),
+        ("saṁvaṭṭavivaṭṭāni... nāgamāsiṁ",
+         "&ldquo;for [seven] eons of the cosmos contracting and "
+         "expanding... I didn't return [to this world]&rdquo; &mdash; the "
+         "cosmological scale of the consequence this discourse claims for "
+         "seven years of practice."),
+        ("cakkavattī rājā dhammiko dhammarājā",
+         "&ldquo;a wheel-turning monarch, a just and principled king&rdquo; "
+         "&mdash; one of the three exalted identities this account names, "
+         "held many hundreds of times."),
+        ("asāhasena adaṇḍena asatthena",
+         "&ldquo;without rod or sword&rdquo;, ruling &ldquo;by principle, "
+         "through non-violent action&rdquo; &mdash; the qualifying detail "
+         "distinguishing the wheel-turning monarch's conquest from ordinary "
+         "military conquest."),
+    ],
+    text_intro=(
+        "The discourse in full: the prose account, then the same content "
+        "retold in verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Don't fear good deeds"),
+        ("p", "&sect;1", "an7.62:1.1-1.7"),
+        ("h3", "As the Divinity, as Sakka, as a wheel-turning monarch"),
+        ("p", "&sect;2", "an7.62:2.1-2.7"),
+        ("h3", "In verse: seven years of love, seven eons away"),
+        ("p", "&sect;3", "an7.62:3.1-4.4"),
+        ("h3", "In verse: Great Divinity, lord of gods, wheel-turning monarch"),
+        ("p", "&sect;4", "an7.62:5.1-6.4"),
+        ("h3", "In verse: without rod or sword, born into wealth"),
+        ("p", "&sect;5", "an7.62:7.1-8.4"),
+        ("h3", "In verse: the cause of greatness, and who it might inspire"),
+        ("p", "&sect;6", "an7.62:9.1-11.4"),
+        ("h3", "The closing exhortation"),
+        ("p", "&sect;7", "an7.62:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say &ldquo;good deeds&rdquo; is "
+              "simply another term for?",
+         "opts": ["Suffering", "Happiness", "Wealth", "Rebirth"],
+         "correct": 1,
+         "expl": "The opening claim the rest of the discourse offers as "
+                 "evidence for."},
+        {"q": "What specific practice does the Buddha say he developed for "
+              "seven years?",
+         "opts": [
+             "The perception of ugliness",
+             "A mind of love (mettā)",
+             "The four absorptions",
+             "Insight into impermanence"],
+         "correct": 1,
+         "expl": "Loving-kindness meditation, the practice this discourse's "
+                 "entire account traces back to."},
+        {"q": "What consequence does the Buddha say followed those seven "
+              "years of practice?",
+         "opts": [
+             "Immediate awakening",
+             "Seven eons of the cosmos contracting and expanding during "
+             "which he did not return to this world",
+             "Nothing in particular",
+             "Rebirth as an animal"],
+         "correct": 1,
+         "expl": "A deliberately stark proportion — seven years weighed "
+                 "against seven cosmic eons."},
+        {"q": "How many times does the account say the Buddha, in that past "
+              "life, was Sakka, lord of the gods?",
+         "opts": ["Once", "Seven times", "Thirty-six times", "A thousand "
+                  "times"],
+         "correct": 2,
+         "expl": "One of three named exalted identities, each occupied "
+                 "repeatedly."},
+        {"q": "How does the wheel-turning monarch in this account rule, "
+              "according to the text?",
+         "opts": [
+             "By military conquest and force",
+             "By principle, without rod or sword, through non-violent "
+             "action",
+             "Through fear and intimidation",
+             "By delegating entirely to advisors"],
+         "correct": 1,
+         "expl": "A qualifying detail distinguishing this conquest from "
+                 "ordinary military rule."},
+        {"q": "According to the guide, how does this discourse differ from "
+              "the more famous loving-kindness discourse at Iti 27?",
+         "opts": [
+             "They are the same discourse",
+             "This one is autobiographical, tracing one practice's fruit "
+             "across lifetimes, rather than comparative ranking of practices",
+             "This discourse rejects the value of loving-kindness",
+             "Iti 27 is set in this same location"],
+         "correct": 1,
+         "expl": "Two different approaches to the same underlying practice, "
+                 "worth not conflating."},
+    ],
+    marginalia=[
+        ("A stark proportion", [
+            "seven years of practice,",
+            "seven cosmic eons",
+            "of consequence",
+        ]),
+        ("Three exalted identities", [
+            "Great Divinity, Sakka",
+            "thirty-six times, and",
+            "a wheel-turning monarch, many times",
+        ]),
+        ("Told twice, prose then verse", [
+            "the same account,",
+            "repeated in verse",
+            "for emphasis and scale",
+        ]),
+        ("Cross-references", [
+            "AN 7.61 &middot; previous, eight remedies for a drowsy "
+            "meditator",
+            "AN 7.63 &middot; next, seven kinds of wife, told to Sujātā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.62/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.61.html">AN 7.61 &middot; Nodding Off</a> &mdash; '
+        "previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.63 — Bhariyāsutta
+#
+# Difficult content, read straight, no softening: this discourse's typology
+# of wives reflects the ancient patriarchal household this text comes from,
+# and is presented here without endorsement, following this project's
+# standing practice for AN 4.80/85/67/95/99 and similar passages.
+# --------------------------------------------------------------------------- #
+page(
+    63, "Bhariyā", "Kinds of Wives",
+    vagga=VAGGA_6,
+    meta_title="AN 7.63 — Kinds of Wives | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhariyāsutta, in which the Buddha addresses a disrespectful "
+        "daughter-in-law directly with a typology of seven kinds of wife — "
+        "presented here with the ancient household context it comes from, "
+        "not softened. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The home of the householder Anāthapiṇḍika, where the "
+                    "Buddha has come for a meal"),
+        ("Speakers", "Anāthapiṇḍika, his daughter-in-law Sujātā, and the "
+                     "Buddha, who addresses Sujātā directly"),
+        ("Form", "A prose frame leading into seven verse portraits, then a "
+                 "closing verse sorting all seven into two destinies"),
+        ("Length", "~4 minutes to read"),
+        ("Read in context, not softened", "This discourse's typology of "
+                                          "wives reflects the household "
+                                          "structure of its own time and "
+                                          "place; it is presented here in "
+                                          "full, without endorsement, "
+                                          "following this project's standing "
+                                          "practice for similarly dated "
+                                          "material elsewhere in this book"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward language describing a value system "
+                       "worth reading critically rather than taking as "
+                       "timeless prescription"),
+    ],
+    why=(
+        "AN 7.63 has the Buddha walk into a household disrupted by a "
+        "colossal racket, learn that the cause is a disrespectful daughter-"
+        "in-law, and address her directly with a typology of seven kinds of "
+        "wife, ranging from a killer and a thief through to a mother, "
+        "sister, comrade, and bondservant &mdash; before Sujātā chooses, for "
+        "herself, the seventh and final type."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A man can have seven kinds of wife, distinguished by how she "
+            "treats him and his household, three of them destructive enough "
+            "to lead their bearer to a bad rebirth and four of them, in "
+            "different registers of care and loyalty, leading to a good "
+            "one &mdash; and the Buddha asks the disruptive Sujātā, "
+            "directly, which kind she is."]),
+        ("A racket, and its stated cause", [
+            "The discourse opens on an ordinary household visit disrupted by "
+            "noise loud enough that the Buddha compares it to fishermen "
+            "hauling in a catch. Anāthapiṇḍika's explanation is specific: "
+            "his daughter-in-law Sujātā, brought from a wealthy family, does "
+            "not obey her mother-in-law, father-in-law, or husband, and does "
+            "not show the Buddha respect either &mdash; a household conflict "
+            "the Buddha then addresses by speaking to her directly rather "
+            "than through her father-in-law."]),
+        ("Seven portraits, three destructive and four not", [
+            "A wife like a killer, lusting for others and wishing her "
+            "husband dead; a wife like a thief, taking what her husband "
+            "earns; and a wife like a lord, idle and harsh while he works "
+            "&mdash; these three are named together and said to set course "
+            "for hell. A wife like a mother, caring and protective of what "
+            "he has earned; a wife like a sister, respectful and "
+            "conscientious; a wife like a comrade, delighted to see him and "
+            "of good character; and a wife like a bondservant, enduring "
+            "without anger and doing as he says &mdash; these four are named "
+            "together and said to set course for a good place."]),
+        ("Read in context, not softened", [
+            "This typology comes from an ancient household structure in "
+            "which a wife's worth is measured against her husband's "
+            "authority and property, and grouping &ldquo;mother,&rdquo; "
+            "&ldquo;sister,&rdquo; &ldquo;comrade,&rdquo; and "
+            "&ldquo;bondservant&rdquo; together as equally praiseworthy "
+            "reflects assumptions a contemporary reader may not share. This "
+            "reading guide presents the text as it stands rather than "
+            "softening or explaining it away; the underlying moral targets "
+            "&mdash; cruelty, theft, and contempt on one side, care, "
+            "respect, and loyalty on the other &mdash; are more durable than "
+            "the specific household roles used to illustrate them."]),
+        ("Sujātā's own answer, unprompted toward any particular choice", [
+            "When the Buddha repeats his question at the end, Sujātā answers "
+            "for herself: she asks to be remembered from that day forward as "
+            "a wife like a bondservant. The discourse does not have the "
+            "Buddha correct, praise, or comment on her specific choice among "
+            "the four positively framed types; her own answer closes the "
+            "discourse without further remark."]),
+    ],
+    terms=[
+        ("bhariyā",
+         "&ldquo;wife&rdquo; &mdash; this discourse's own title and organizing "
+         "category, sorted into seven kinds by the verses that follow."),
+        ("vadhakabhariyā, corabhariyā, ayyabhariyā",
+         "&ldquo;a wife like a killer, a wife like a thief, a wife like a "
+         "lord&rdquo; &mdash; the three types said to set course for hell."),
+        ("mātubhariyā, bhaginibhariyā, sakhibhariyā, dāsibhariyā",
+         "&ldquo;a wife like a mother, a sister, a comrade, a "
+         "bondservant&rdquo; &mdash; the four types said to set course for a "
+         "good place."),
+        ("Sujātā",
+         "Anāthapiṇḍika's daughter-in-law, addressed directly by the Buddha "
+         "and the one who, at the discourse's close, names her own choice "
+         "among the seven."),
+        ("dāsibhariyā",
+         "&ldquo;a wife like a bondservant&rdquo; &mdash; the seventh type, "
+         "and the one Sujātā chooses for herself in the discourse's final "
+         "line."),
+    ],
+    text_intro=(
+        "The discourse in full: the racket, Anāthapiṇḍika's explanation, "
+        "the Buddha's direct question to Sujātā, all seven verse portraits, "
+        "and her own closing answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A racket in Anāthapiṇḍika's home"),
+        ("p", "&sect;1", "an7.63:1.1-2.3"),
+        ("h3", "The Buddha questions Sujātā directly"),
+        ("p", "&sect;2", "an7.63:3.1-4.10"),
+        ("h3", "Seven kinds of wife, in verse"),
+        ("p", "&sect;3", "an7.63:5.1-11.5"),
+        ("h3", "Which kind leads where"),
+        ("p", "&sect;4", "an7.63:12.1-13.4"),
+        ("h3", "Sujātā's own answer"),
+        ("p", "&sect;5", "an7.63:14.1-14.3"),
+    ],
+    quiz=[
+        {"q": "What does Anāthapiṇḍika say is causing the colossal racket in "
+              "his home?",
+         "opts": [
+             "Thieves breaking in",
+             "His daughter-in-law Sujātā, who does not obey her in-laws or "
+             "husband and does not show the Buddha respect",
+             "A festival celebration",
+             "A dispute among the servants"],
+         "correct": 1,
+         "expl": "A specific household conflict, named directly rather than "
+                 "left vague."},
+        {"q": "How does the Buddha respond to hearing about the household "
+              "conflict?",
+         "opts": [
+             "He leaves without comment",
+             "He addresses Sujātā directly, teaching her the seven kinds of "
+             "wife",
+             "He scolds Anāthapiṇḍika instead",
+             "He refuses to get involved"],
+         "correct": 1,
+         "expl": "A direct address to Sujātā herself, not mediated through "
+                 "her father-in-law."},
+        {"q": "Which three types of wife does this discourse say set course "
+              "for hell?",
+         "opts": [
+             "Mother, sister, and comrade",
+             "A wife like a killer, a wife like a thief, and a wife like a "
+             "lord",
+             "All seven types equally",
+             "None; the discourse names no negative destiny"],
+         "correct": 1,
+         "expl": "Three destructive types, grouped together and named "
+                 "explicitly."},
+        {"q": "According to the guide, how should this discourse's typology "
+              "be read?",
+         "opts": [
+             "As a timeless, unproblematic prescription to be followed "
+             "literally today",
+             "In the context of the ancient household structure it comes "
+             "from, without softening it, while recognizing its underlying "
+             "moral targets — cruelty and theft versus care and loyalty — "
+             "outlast the specific roles used to illustrate them",
+             "As entirely irrelevant and not worth reading",
+             "As a text with no connection to its historical setting"],
+         "correct": 1,
+         "expl": "Honest engagement with dated material, neither softened "
+                 "nor dismissed."},
+        {"q": "Which type of wife does Sujātā choose for herself at the "
+              "discourse's close?",
+         "opts": [
+             "A wife like a killer",
+             "A wife like a bondservant",
+             "A wife like a lord",
+             "She refuses to answer"],
+         "correct": 1,
+         "expl": "Her own stated choice, left without further comment from "
+                 "the Buddha."},
+        {"q": "Does the Buddha correct, praise, or comment on Sujātā's "
+              "specific choice, according to the guide?",
+         "opts": [
+             "He strongly praises her choice at length",
+             "He corrects her, insisting on a different type",
+             "The discourse does not have him comment further; her own "
+             "answer closes the discourse without remark",
+             "He rejects her answer entirely"],
+         "correct": 2,
+         "expl": "The text ends on her own words, with no further response "
+                 "recorded."},
+    ],
+    marginalia=[
+        ("A racket, and its cause", [
+            "loud as fishermen",
+            "hauling in a catch —",
+            "a household conflict, named directly",
+        ]),
+        ("Three destructive, four not", [
+            "killer, thief, lord —",
+            "mother, sister, comrade,",
+            "bondservant — two different destinies",
+        ]),
+        ("Context, not softened", [
+            "an ancient household's",
+            "own value system,",
+            "read here without endorsement",
+        ]),
+        ("Cross-references", [
+            "AN 7.62 &middot; previous, the Buddha's account of seven years "
+            "of loving-kindness",
+            "AN 7.64 &middot; next, closing this chapter with the effects of "
+            "anger",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.63/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.62.html">AN 7.62 &middot; Don&rsquo;t Fear Good Deeds</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.64 — Kodhanasutta
+#
+# Closes ch.6 Abyākatavagga. Per the standing lesson from AN 7.20 (see the
+# note above ch.3): the `further` list below points only backward, never
+# forward to AN 7.65, since ch.7 has not been written yet.
+# --------------------------------------------------------------------------- #
+page(
+    64, "Kodhana", "Irritable",
+    vagga=VAGGA_6,
+    meta_title="AN 7.64 — Irritable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kodhanasutta, closing this chapter with seven things an enemy "
+        "wishes on an irritable person, followed by extensive verses on "
+        "anger's harms. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A prose list of seven parallel items, each with its own "
+                 "reason, followed by an extended verse passage on anger's "
+                 "harms, up to and including self-harm"),
+        ("Length", "~6 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "prose is formulaic and easy to follow; the closing "
+                       "verses are more demanding and, in places, "
+                       "unflinching about anger's extremes"),
+    ],
+    why=(
+        "AN 7.64 closes this chapter by naming seven things an enemy "
+        "actually wishes for an enemy &mdash; ugliness, bad sleep, thwarted "
+        "needs, lost wealth, lost fame, lost friends, and a bad rebirth "
+        "&mdash; and then shows that an irritable person, without any "
+        "enemy's help at all, brings every one of them on themselves."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An enemy wishes seven specific harms on an enemy, and an "
+            "irritable person, purely through their own anger, brings every "
+            "one of those seven harms on themselves without an enemy having "
+            "to do anything at all."]),
+        ("A fixed structure, seven times over", [
+            "Each of the seven items follows the same shape: what an enemy "
+            "wishes for an enemy, why an enemy wishes it, and how an "
+            "irritable person brings it about unaided &mdash; becoming ugly "
+            "despite being bathed and well dressed, sleeping badly on a "
+            "luxurious couch, mistaking what they need for what they don't "
+            "and the reverse, losing wealth to seizure, losing "
+            "diligence-earned fame, losing friends and family who withdraw "
+            "from a distance, and finally doing bad by body, speech, and "
+            "mind in a way that leads to a bad rebirth."]),
+        ("The prose list gives way to a longer verse meditation", [
+            "Having completed the sevenfold list in prose, the discourse "
+            "shifts into an extended verse passage that restates and "
+            "deepens the same themes &mdash; anger destroying what took "
+            "effort to build, leaving only blind darkness, betraying itself "
+            "in a sulking expression like a fire's smoky plume, and leaving "
+            "no island refuge anywhere for the person it overcomes."]),
+        ("The verses do not stop at ordinary harms", [
+            "The closing verses go further than the prose list, naming the "
+            "most extreme acts anger can drive a person to: killing one's "
+            "own parents, killing a spiritual attainer, killing an ordinary "
+            "person, and several named methods of killing oneself. The "
+            "discourse does not soften this material; it presents anger's "
+            "logical extreme directly, as a warning rather than an "
+            "exaggeration for effect."]),
+        ("The remedy: cutting it out by self-control, wisdom, and energy", [
+            "The discourse closes by naming anger as a snare of death hidden "
+            "in the heart, to be cut out through self-control, wisdom, "
+            "energy, and right ideas &mdash; ending, after this chapter's "
+            "long look at anger's harms, with the undefiled fully "
+            "extinguished, free of anger, despair, and greed."]),
+    ],
+    terms=[
+        ("kodhana",
+         "&ldquo;irritable&rdquo; &mdash; this discourse's own title, "
+         "naming the person its seven items and closing verses describe."),
+        ("verī",
+         "&ldquo;an enemy&rdquo; &mdash; the figure whose wishes structure "
+         "each of the seven items, each introduced as something an enemy "
+         "wants for an enemy."),
+        ("kodhābhibhūto pariyādinnacitto",
+         "&ldquo;overcome and overwhelmed by anger&rdquo; &mdash; the "
+         "recurring description of the irritable person across all seven "
+         "items."),
+        ("na koci dīpo bhavati kutoci",
+         "&ldquo;has no island refuge anywhere&rdquo; &mdash; the verses' "
+         "description of someone fully overcome by anger."),
+        ("maccupāso hi so kodho hadayasmiṁ nilīyati",
+         "&ldquo;the snare of death in the form of anger lies hidden in the "
+         "heart&rdquo; &mdash; the verses' closing image, before naming "
+         "self-control, wisdom, energy, and right ideas as the remedy."),
+    ],
+    text_intro=(
+        "The discourse in full: all seven things an enemy wishes on an "
+        "enemy, and the extended closing verses on anger's harms and their "
+        "remedy. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first three: ugliness, bad sleep, thwarted needs"),
+        ("p", "&sect;1", "an7.64:1.1-3.7"),
+        ("h3", "The fourth through sixth: lost wealth, lost fame, lost "
+               "friends"),
+        ("p", "&sect;2", "an7.64:4.1-6.6"),
+        ("h3", "The seventh: a bad rebirth"),
+        ("p", "&sect;3", "an7.64:7.1-8.1"),
+        ("h3", "In verse: anger's visible harms"),
+        ("p", "&sect;4", "an7.64:9.1-16.4"),
+        ("h3", "In verse: anger's most extreme harms"),
+        ("p", "&sect;5", "an7.64:17.1-22.4"),
+        ("h3", "In verse: cutting it out, and full extinguishment"),
+        ("p", "&sect;6", "an7.64:23.1-25.4"),
+    ],
+    quiz=[
+        {"q": "What is the basic structure of this discourse's seven items?",
+         "opts": [
+             "A random, unconnected list",
+             "What an enemy wishes for an enemy, why an enemy wishes it, and "
+             "how an irritable person brings it about unaided",
+             "Seven questions with no answers given",
+             "A dialogue between two named individuals"],
+         "correct": 1,
+         "expl": "The same three-part shape repeated across all seven items."},
+        {"q": "According to this discourse, does an irritable person need an "
+              "actual enemy to bring these seven harms upon themselves?",
+         "opts": [
+             "Yes, an enemy must actively cause each harm",
+             "No — an irritable person brings all seven harms on themselves "
+             "purely through their own anger, without an enemy's help",
+             "Only the first harm requires an enemy's involvement",
+             "The discourse does not address this question"],
+         "correct": 1,
+         "expl": "The discourse's central irony: anger does an enemy's work "
+                 "unassisted."},
+        {"q": "According to the guide, how do the closing verses relate to "
+              "the prose list that precedes them?",
+         "opts": [
+             "They contradict the prose list entirely",
+             "They restate and deepen the same themes, then go further, "
+             "naming anger's most extreme possible acts including killing "
+             "one's own parents and oneself",
+             "They introduce an entirely unrelated topic",
+             "They simply repeat the prose list word for word"],
+         "correct": 1,
+         "expl": "An escalation from ordinary social harms to anger's most "
+                 "extreme consequences."},
+        {"q": "Does this discourse soften its description of anger's most "
+              "extreme consequences, according to the guide?",
+         "opts": [
+             "Yes, it avoids the topic entirely",
+             "No — it presents anger's logical extreme directly, as a "
+             "warning rather than exaggeration for effect",
+             "It only hints at extreme consequences without naming them",
+             "It reassures the reader that such extremes never actually "
+             "happen"],
+         "correct": 1,
+         "expl": "Unflinching, direct treatment of a difficult subject."},
+        {"q": "What remedy does the discourse's closing verses name for "
+              "anger?",
+         "opts": [
+             "Suppressing it silently without addressing it",
+             "Cutting it out through self-control, wisdom, energy, and right "
+             "ideas",
+             "Redirecting it toward a different target",
+             "No remedy is offered"],
+         "correct": 1,
+         "expl": "A stated path from anger's harms to the undefiled, fully "
+                 "extinguished."},
+        {"q": "What image does the discourse use for anger, just before "
+              "naming its remedy?",
+         "opts": [
+             "A raft to be set down",
+             "A snare of death hidden in the heart",
+             "A lotus rising from mud",
+             "A well-fitted chariot"],
+         "correct": 1,
+         "expl": "A striking closing image, immediately followed by the "
+                 "remedy for cutting it out."},
+    ],
+    marginalia=[
+        ("An enemy's own wishes", [
+            "ugliness, bad sleep,",
+            "lost wealth and fame —",
+            "anger delivers them unaided",
+        ]),
+        ("Beyond ordinary harm", [
+            "the verses go further:",
+            "anger's most extreme",
+            "acts, named without flinching",
+        ]),
+        ("A snare, and its cutting", [
+            "hidden in the heart —",
+            "cut out by self-control,",
+            "wisdom, energy, right ideas",
+        ]),
+        ("Cross-references", [
+            "AN 7.63 &middot; previous, seven kinds of wife",
+            "AN 6.86&ndash;88 &middot; earlier, a different set of things "
+            "sharing an identical closing formula but different content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.64/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.63.html">AN 7.63 &middot; Kinds of Wives</a> '
+        "&mdash; previous.",
+    ],
+)
+
