@@ -19130,3 +19130,1833 @@ page(
         "chapter&rsquo;s opening, for contrast with the chapter now closing.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Chapter 10 — Ānisaṁsavagga (AN 6.96–106), continuing the Second Fifty
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Ānisaṁsavagga</em> &mdash; the tenth chapter of the Sixes, continuing the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.96 — Pātubhāvasutta
+# --------------------------------------------------------------------------- #
+page(
+    96, "Pātubhāva", "Appearance",
+    vagga=VAGGA_10,
+    meta_title="AN 6.96 — Appearance | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Pātubhāvasutta, "
+        "opening the Sixes' tenth chapter with six things whose appearance in the world is "
+        "rare. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, stated once with no paired negative half"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The rarity of a Buddha's appearance recurs as a standard theme "
+                              "across the Chinese Āgamas; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and entirely "
+                       "positive, opening this new chapter"),
+    ],
+    why=(
+        "Chapter 10, &lsquo;Benefit,&rsquo; opens not with a benefit but with a list of "
+        "rarities: a Buddha, a teacher of a Buddha's teaching, rebirth in a civilized region, "
+        "unimpaired senses, intelligence, and enthusiasm for skillful qualities &mdash; six "
+        "conditions whose simultaneous appearance the discourse treats as rare enough to be "
+        "worth naming outright."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The appearance of a Buddha, a teacher of a Buddha's teaching, rebirth in a "
+            "civilized region, unimpaired senses, intelligence, and enthusiasm for skillful "
+            "qualities is rare in the world."]),
+        ("A list moving from cosmic to personal", [
+            "The six items descend in scope: a fully awakened Buddha's appearance is a matter "
+            "of vast cosmic rarity, a teacher who proclaims that Buddha's teaching narrows the "
+            "field further, and the remaining four items &mdash; favorable rebirth, intact "
+            "senses, intelligence, enthusiasm &mdash; are all conditions of an individual "
+            "listener, each independently rare and jointly rarer still."]),
+        ("Why 'rare' rather than 'valuable'", [
+            "The discourse does not argue for these six things' worth directly; it simply "
+            "states their rarity, implying the argument for valuing them lies in that rarity "
+            "itself &mdash; a listener who happens to possess all six conditions at once is "
+            "being told, implicitly, not to take the coincidence for granted."]),
+        ("Opening a chapter titled 'Benefit' with what makes benefit possible", [
+            "Read against this chapter's title, Ānisaṁsavagga, this opening discourse can be "
+            "seen as naming the rare preconditions without which none of the chapter's later "
+            "discourses on the benefits of practice could even become relevant to a given "
+            "listener."]),
+    ],
+    terms=[
+        ("pātubhāva",
+         "&ldquo;appearance&rdquo; &mdash; the discourse's own title, the rare arising of each "
+         "of the six conditions named."),
+        ("Tathāgato araham sammāsambuddho",
+         "&ldquo;a Realized One, a perfected one, a fully awakened Buddha&rdquo; &mdash; the "
+         "first and rarest of the six conditions."),
+        ("majjhimesu janapadesu paccājāti",
+         "&ldquo;rebirth in a civilized region&rdquo; &mdash; the third condition, a favorable "
+         "circumstance of birth."),
+        ("indriyānaṁ avekallatā",
+         "&ldquo;unimpaired sense faculties&rdquo; &mdash; the fourth condition, an individual "
+         "circumstance of body."),
+        ("kusalesu dhammesu chando",
+         "&ldquo;enthusiasm for skillful qualities&rdquo; &mdash; the sixth and final "
+         "condition, an individual disposition of mind."),
+    ],
+    text_intro=(
+        "The discourse in full: six things whose appearance in the world is rare. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six rare things"),
+        ("p", "&sect;1", "an6.96:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What six things does this discourse name as rare in the world?",
+         "opts": [
+             "The five hindrances",
+             "A Buddha, a teacher of a Buddha's teaching, rebirth in a civilized region, "
+             "unimpaired senses, intelligence, and enthusiasm for skillful qualities",
+             "The three fetters of AN 6.89",
+             "Faith, energy, mindfulness, immersion, and wisdom"],
+         "correct": 1,
+         "expl": "Six conditions descending from cosmic rarity to individual circumstance."},
+        {"q": "How does the guide describe the list's overall movement?",
+         "opts": [
+             "No discernible movement — six unrelated items",
+             "From cosmic rarity (a Buddha's appearance) down to conditions of an individual "
+             "listener (rebirth, senses, intelligence, enthusiasm)",
+             "From individual conditions up to cosmic rarity",
+             "The items are presented in reverse chronological order"],
+         "correct": 1,
+         "expl": "A descent in scope across the six items."},
+        {"q": "What does the discourse argue for these six things' worth, according to the "
+              "guide?",
+         "opts": [
+             "An extended philosophical argument for their value",
+             "No direct argument — it states their rarity, implying the case for valuing them "
+             "lies in that rarity itself",
+             "A comparison with the five hindrances",
+             "Nothing — the discourse makes no claim about their worth"],
+         "correct": 1,
+         "expl": "Rarity stated as its own implicit argument for not taking these conditions "
+                 "for granted."},
+        {"q": "How does the guide connect this opening discourse to the chapter's title, "
+              "'Benefit'?",
+         "opts": [
+             "No connection is drawn",
+             "As naming the rare preconditions without which the chapter's later discourses on "
+             "benefits of practice could not become relevant to a given listener",
+             "As directly contradicting the chapter's theme",
+             "As describing benefits themselves rather than preconditions"],
+         "correct": 1,
+         "expl": "A chapter titled 'Benefit' opening on what makes benefit possible at all."},
+        {"q": "Is a setting stated for AN 6.96?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>majjhimesu janapadesu paccājāti</em> mean?",
+         "opts": ["Unimpaired sense faculties", "Rebirth in a civilized region", "Enthusiasm for skillful qualities", "A Buddha's appearance"],
+         "correct": 1,
+         "expl": "The third condition, a favorable circumstance of birth."},
+        {"q": "Does AN 6.96 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single positive list, stated once",
+             "Yes, but only a partial one",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "A one-sided list, like AN 6.78 and 6.80 earlier in this chapter's "
+                 "predecessor."},
+    ],
+    marginalia=[
+        ("Six rare things", [
+            "a Buddha's appearance",
+            "&middot; a teacher &middot; good rebirth",
+            "&middot; senses &middot; intelligence &middot; enthusiasm",
+        ]),
+        ("Cosmic to individual", [
+            "from a Buddha's rarity",
+            "down to one listener's",
+            "own favorable conditions",
+        ]),
+        ("Rarity as its own argument", [
+            "no case made for worth —",
+            "only for not taking",
+            "the coincidence for granted",
+        ]),
+        ("Cross-references", [
+            "AN 6.95 &middot; previous, closing the last chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.96/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.95.html">AN 6.95 &middot; Things That Can&rsquo;t Be Done (4th)</a> '
+        "&mdash; previous, closing the last chapter.",
+        '<a href="an-6.97.html">AN 6.97 &middot; Benefit</a> &mdash; next, this chapter&rsquo;s '
+        "own namesake discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.97 — Ānisaṁsasutta
+# --------------------------------------------------------------------------- #
+page(
+    97, "Ānisaṁsa", "Benefit",
+    vagga=VAGGA_10,
+    meta_title="AN 6.97 — Benefit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ānisaṁsasutta, this "
+        "chapter's own namesake discourse, naming six benefits of realizing the fruit of "
+        "stream-entry. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list, stated once with no paired negative half"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The benefits of stream-entry as a fixed enumerated set recur "
+                              "widely across the Chinese Āgamas' treatment of the noble stages; "
+                              "this reading guide does not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, naming this "
+                       "chapter's own titular term directly"),
+    ],
+    why=(
+        "AN 6.97 gives this chapter its name: ānisaṁsa, &ldquo;benefit,&rdquo; here the six "
+        "concrete benefits of realizing the fruit of stream-entry &mdash; being bound for the "
+        "true teaching, immunity from decline, limited suffering, distinct knowledge, and "
+        "clear sight of causation, closing on the same causal insight already named as AN "
+        "6.95's reason for its own rejections."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Realizing the fruit of stream-entry brings six benefits: being bound for the true "
+            "teaching, freedom from decline, only limited future suffering, distinct "
+            "knowledge, and clear sight of causes and their arisen phenomena."]),
+        ("This chapter's own title, stated directly", [
+            "Where AN 6.96 opened on rarity and left the chapter's titular term implicit, this "
+            "discourse names ānisaṁsa outright as its subject &mdash; the clearest possible "
+            "instance in this chapter of a discourse converging exactly with its chapter's own "
+            "name, following a pattern already met with Arahattavagga and Sītivagga."]),
+        ("'Suffer only for a limited period' — not the ending of suffering", [
+            "The discourse's third benefit does not claim the stream-enterer suffers no "
+            "further at all, but that whatever suffering remains is bounded: at most seven "
+            "more lives, the same ceiling already named at AN 6.92 earlier in this collection, "
+            "under a different discourse and framing."]),
+        ("Causal insight, echoing AN 6.95's closing reason", [
+            "The discourse's final benefit &mdash; having &ldquo;clearly seen causes and the "
+            "phenomena that arise from causes&rdquo; &mdash; repeats word for word AN 6.95's "
+            "own stated reason, closing the previous chapter, for why the accomplished cannot "
+            "fall back on false theories of causation. The same insight functions there as an "
+            "explanation and here as a named benefit in its own right."]),
+    ],
+    terms=[
+        ("ānisaṁsa",
+         "&ldquo;benefit&rdquo; &mdash; this chapter's own title, and this discourse's central "
+         "term, named directly for the only time so far in this chapter."),
+        ("sotāpattiphala",
+         "&ldquo;the fruit of stream-entry&rdquo; &mdash; the attainment this discourse's six "
+         "benefits are said to follow from."),
+        ("saddhammaparāyaṇa",
+         "&ldquo;bound for the true teaching&rdquo; &mdash; the first benefit, an assured "
+         "future orientation toward the teaching."),
+        ("aparihānadhamma",
+         "&ldquo;not liable to decline&rdquo; &mdash; the second benefit, echoing the theme of "
+         "irreversibility already met at AN 6.91."),
+        ("hetu ca hetusamuppannā ca dhammā sudiṭṭhā",
+         "&ldquo;causes and the phenomena that arise from causes have been clearly seen&rdquo; "
+         "&mdash; the sixth and final benefit, identical in wording to AN 6.95's closing "
+         "reason."),
+    ],
+    text_intro=(
+        "The discourse in full: six benefits of realizing the fruit of stream-entry. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six benefits of stream-entry"),
+        ("p", "&sect;1", "an6.97:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What is notable about this discourse's relationship to its chapter's title, "
+              "according to the guide?",
+         "opts": [
+             "No relationship — the discourse is unrelated to the chapter's title",
+             "It names ānisaṁsa, 'benefit,' directly as its subject — the clearest instance in "
+             "this chapter of a discourse matching its chapter's own name",
+             "It argues against the chapter's title",
+             "The chapter's title was chosen after this discourse and bears no connection"],
+         "correct": 1,
+         "expl": "A pattern already met with Arahattavagga and Sītivagga converging on their "
+                 "own titular terms."},
+        {"q": "What does the third benefit, 'you suffer only for a limited period,' actually "
+              "claim, according to the guide?",
+         "opts": [
+             "That the stream-enterer suffers no further at all",
+             "That whatever suffering remains is bounded — at most seven more lives, the same "
+             "ceiling already named at AN 6.92",
+             "That suffering increases temporarily before ending",
+             "Nothing specific about the duration of suffering"],
+         "correct": 1,
+         "expl": "A bounded, not eliminated, remaining suffering — echoing AN 6.92's numerical "
+                 "ceiling."},
+        {"q": "What does this discourse's final benefit share word for word with an earlier "
+              "discourse?",
+         "opts": [
+             "Nothing is shared with any earlier discourse",
+             "AN 6.95's closing reason for why the accomplished cannot fall back on false "
+             "causal theories — here named as a benefit rather than an explanation",
+             "AN 6.87's five heinous deeds",
+             "AN 6.76's six varieties of conceit"],
+         "correct": 1,
+         "expl": "The same causal insight, functioning as explanation there and as a named "
+                 "benefit here."},
+        {"q": "What six benefits does this discourse list in total?",
+         "opts": [
+             "The five hindrances plus doubt",
+             "Being bound for the true teaching, freedom from decline, limited suffering, "
+             "distinct knowledge, and clear sight of causation",
+             "Faith, energy, mindfulness, immersion, and wisdom",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "The discourse's own complete list of stream-entry's benefits."},
+        {"q": "Is a setting stated for AN 6.97?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.96 immediately before it."},
+        {"q": "What does <em>aparihānadhamma</em> mean, and what earlier discourse does it "
+              "echo?",
+         "opts": [
+             "'Bound to decline' — echoing nothing earlier",
+             "'Not liable to decline' — echoing the theme of irreversibility already met at AN "
+             "6.91",
+             "'Free from all suffering' — a new theme not met before",
+             "A term unrelated to decline or stability"],
+         "correct": 1,
+         "expl": "A continuation of stream-entry's irreversibility, already established "
+                 "earlier in this chapter's predecessor."},
+        {"q": "Does AN 6.97 include a paired reversal or negative half?",
+         "opts": [
+             "Yes, a full reversal is given",
+             "No — a single positive list, stated once, like AN 6.96 before it",
+             "Yes, but only a partial one",
+             "The discourse consists only of a reversal"],
+         "correct": 1,
+         "expl": "Matching AN 6.96's one-sided form."},
+    ],
+    marginalia=[
+        ("Six benefits of stream-entry", [
+            "bound for the teaching",
+            "&middot; no decline &middot; bounded",
+            "suffering &middot; distinct knowledge &middot; causal insight",
+        ]),
+        ("This chapter's own name", [
+            "ānisaṁsa, stated",
+            "directly — matching",
+            "Arahattavagga, Sītivagga",
+        ]),
+        ("Bounded, not ended", [
+            "'limited period' —",
+            "at most seven lives,",
+            "same ceiling as AN 6.92",
+        ]),
+        ("Cross-references", [
+            "AN 6.95 &middot; earlier, source of this discourse's closing benefit",
+            "AN 6.91/92 &middot; earlier, related themes of irreversibility and rebirth ceiling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.97/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.96.html">AN 6.96 &middot; Appearance</a> &mdash; previous, opening this '
+        "chapter.",
+        '<a href="an-6.98.html">AN 6.98 &middot; Impermanence</a> &mdash; next, opening a '
+        "four-discourse chain on regarding conditions rightly.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.98 — Aniccasutta
+# --------------------------------------------------------------------------- #
+page(
+    98, "Anicca", "Impermanence",
+    vagga=VAGGA_10,
+    meta_title="AN 6.98 — Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Aniccasutta, opening "
+        "a four-discourse chain in which regarding any condition as permanent blocks the noble "
+        "fruits. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A three-link causal chain, stated once as blockage and once as its reversal "
+                 "— the fullest, unelided version of a pattern repeated with variation across "
+                 "AN 6.99–101"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The claim that regarding conditions as permanent blocks right "
+                              "view recurs widely across the Chinese Āgamas' treatment of the "
+                              "three characteristics; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a chain argument stated in "
+                       "full, serving as the template for three variations that follow"),
+    ],
+    why=(
+        "AN 6.98 opens a four-discourse chain with AN 6.99, 6.100, and 6.101: a mendicant who "
+        "regards any condition as permanent cannot accept views conforming with the teaching, "
+        "cannot step onto the sure path, and cannot realize any of the four fruits from "
+        "stream-entry through perfection &mdash; stated here in full, with AN 6.99 and 6.100 "
+        "taking up the same chain via Pāli elision pointing back to this template."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who regards any condition as permanent cannot accept views "
+            "conforming with the teaching, step onto the sure path, or realize any of the four "
+            "fruits; regarding all conditions as impermanent makes all three possible."]),
+        ("A three-link chain, echoing AN 6.67/6.68 in form", [
+            "Like AN 6.67 and 6.68 earlier in this chapter's predecessor, this discourse links "
+            "each step as the precondition for the next: right view depends on regarding "
+            "conditions rightly, the sure path depends on right view, and the four fruits "
+            "depend on the sure path &mdash; a single wrong perception blocking everything "
+            "downstream of it."]),
+        ("All four fruits named together, not one", [
+            "Where earlier discourses in this collection often named a single target "
+            "attainment, this discourse's final link names all four at once &mdash; stream-"
+            "entry, once-return, non-return, and perfection &mdash; treating the same "
+            "underlying perceptual distortion as an obstacle to the entire path, not merely "
+            "its first stage."]),
+        ("The template for what follows", [
+            "AN 6.99 and 6.100 restate this exact chain with only their opening perception "
+            "changed, using the Pāli ellipsis &ldquo;…pe…&rdquo; to abbreviate everything "
+            "after that opening clause &mdash; a compression this collection has already met "
+            "at AN 4.214&ndash;219, here applied across three consecutive discourses at once."]),
+    ],
+    terms=[
+        ("saṅkhāraṁ niccato samanupassati",
+         "&ldquo;regards a condition as permanent&rdquo; &mdash; the discourse's opening "
+         "perceptual error, blocking everything that follows in the chain."),
+        ("dhammānudhammappaṭipadā",
+         "&ldquo;views that conform with the teaching&rdquo; &mdash; the chain's first "
+         "dependent link, already met in this exact phrase at AN 6.88."),
+        ("niyāmaṁ okkamati",
+         "&ldquo;steps onto the sure path&rdquo; &mdash; the chain's second link, echoing the "
+         "identical phrase from AN 6.86–88's triplet earlier in this chapter."),
+        ("sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā arahattaṁ vā",
+         "&ldquo;the fruit of stream-entry, once-return, non-return, or perfection&rdquo; "
+         "&mdash; the chain's final link, naming all four fruits of the path together."),
+        ("…pe…",
+         "the Pāli ellipsis mark, signaling that AN 6.99 and 6.100 repeat this discourse's "
+         "chain unchanged beyond their own opening clause."),
+    ],
+    text_intro=(
+        "The discourse in full: regarding conditions as permanent, blocking right view, the "
+        "sure path, and the four fruits, and the reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Regarding conditions as permanent blocks the path"),
+        ("p", "&sect;1", "an6.98:1.1-1.3"),
+        ("h3", "Regarding conditions as impermanent enables it"),
+        ("p", "&sect;2", "an6.98:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What three links make up this discourse's chain?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "Views conforming with the teaching, stepping onto the sure path, and realizing "
+             "the four fruits",
+             "The five hindrances",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "Each link stated as the precondition for the one after it."},
+        {"q": "What perceptual error opens this discourse's blocking chain?",
+         "opts": [
+             "Doubt about the teaching",
+             "Regarding any condition as permanent",
+             "Disrespect toward the Teacher",
+             "Craving for sensual pleasure"],
+         "correct": 1,
+         "expl": "A single wrong perception, blocking everything downstream of it."},
+        {"q": "How many fruits does the chain's final link name together, unlike many earlier "
+              "discourses in this collection naming a single target?",
+         "opts": ["Only one", "All four — stream-entry, once-return, non-return, and perfection", "Two", "None specifically"],
+         "correct": 1,
+         "expl": "The entire path's four fruits, not merely its first stage."},
+        {"q": "What earlier discourses in this collection does the guide say this discourse "
+              "echoes in form?",
+         "opts": [
+             "AN 6.14 and 6.15",
+             "AN 6.67 and 6.68, both multi-link causal chains",
+             "AN 6.32 and 6.33",
+             "AN 6.85 alone"],
+         "correct": 1,
+         "expl": "A chain-argument shape already met earlier in this same chapter's "
+                 "predecessor."},
+        {"q": "How does AN 6.99 and 6.100 relate to this discourse, according to the guide?",
+         "opts": [
+             "They are entirely unrelated discourses",
+             "They restate this exact chain with only their opening perception changed, using "
+             "Pāli ellipsis to abbreviate the rest",
+             "They contradict this discourse's teaching",
+             "They add additional links not present here"],
+         "correct": 1,
+         "expl": "A compression technique already met at AN 4.214–219 in this collection."},
+        {"q": "Is a setting stated for AN 6.98?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other formulaic discourses."},
+        {"q": "What does <em>niyāmaṁ okkamati</em> mean, and where else has it appeared?",
+         "opts": [
+             "'Falls from the path' — a new term",
+             "'Steps onto the sure path' — the identical phrase from AN 6.86–88's triplet "
+             "earlier in this chapter",
+             "'Realizes perfection' — appearing only here",
+             "A term unrelated to the path"],
+         "correct": 1,
+         "expl": "A phrase this chapter has already used in a different context."},
+    ],
+    marginalia=[
+        ("A three-link chain", [
+            "regarding conditions",
+            "as permanent &rarr; no right",
+            "view &rarr; no sure path &rarr; no fruits",
+        ]),
+        ("All four fruits at once", [
+            "stream-entry, once-return,",
+            "non-return, perfection —",
+            "the whole path, not one stage",
+        ]),
+        ("A template for what follows", [
+            "AN 6.99/6.100 repeat",
+            "this chain via Pāli",
+            "ellipsis, opening clause changed",
+        ]),
+        ("Cross-references", [
+            "AN 6.67/6.68 &middot; earlier, similar chain-argument discourses",
+            "AN 6.99 &middot; next, the same chain applied to suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.98/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.97.html">AN 6.97 &middot; Benefit</a> &mdash; previous, this '
+        "chapter&rsquo;s namesake discourse.",
+        '<a href="an-6.99.html">AN 6.99 &middot; Suffering</a> &mdash; next, the same chain '
+        "applied to a different perception.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.99 — Dukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    99, "Dukkha", "Suffering",
+    vagga=VAGGA_10,
+    meta_title="AN 6.99 — Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for this chapter's own "
+        "Dukkhasutta, applying AN 6.98's chain to regarding conditions as pleasurable, sharing "
+        "its title with AN 6.75 but not its content. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same three-link chain as AN 6.98, compressed via Pāli ellipsis after a "
+                 "changed opening clause"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The claim that regarding conditions as pleasurable blocks right "
+                              "view recurs widely across the Chinese Āgamas' treatment of the "
+                              "three characteristics; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical chain to AN "
+                       "6.98, compressed by elision, and sharing its exact title with an "
+                       "unrelated earlier discourse"),
+    ],
+    why=(
+        "AN 6.99 is the second discourse in this series titled &lsquo;Suffering&rsquo; "
+        "(Dukkhasutta) &mdash; AN 6.75, in the earlier Arahattavagga, was the first. The two "
+        "share nothing beyond a title: this discourse applies AN 6.98's exact chain to a new "
+        "opening perception, regarding any condition as pleasurable, compressed via Pāli "
+        "ellipsis to just the changed opening clause."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who regards any condition as pleasurable cannot accept views "
+            "conforming with the teaching, step onto the sure path, or realize any of the four "
+            "fruits; regarding all conditions as suffering makes all three possible."]),
+        ("A second, unrelated 'Suffering'", [
+            "AN 6.75's blocking list was six unwholesome thoughts and perceptions bringing "
+            "present distress and bad rebirth. This discourse's content is entirely different: "
+            "a single perceptual error about conditions blocking the sure path and the four "
+            "fruits. A title repeated within this collection, once again, does not indicate "
+            "shared content."]),
+        ("Only the opening clause is spelled out", [
+            "Checked against the Pāli source, this discourse's text reads &ldquo;regards any "
+            "condition as pleasurable …pe…&rdquo; &mdash; the ellipsis standing in for AN "
+            "6.98's entire chain, unchanged, from &ldquo;cannot accept views conforming with "
+            "the teaching&rdquo; through the four fruits."]),
+        ("Suffering as the second of the three characteristics", [
+            "Where AN 6.98 addressed the perception of permanence, this discourse addresses "
+            "the perception of pleasure &mdash; the second of the three characteristics "
+            "(impermanence, suffering, non-self) this literature treats as fundamental, with "
+            "AN 6.100 to follow completing the set with not-self."]),
+    ],
+    terms=[
+        ("saṅkhāraṁ sukhato samanupassati",
+         "&ldquo;regards a condition as pleasurable&rdquo; &mdash; this discourse's own "
+         "opening perceptual error, the only content spelled out before the Pāli ellipsis."),
+        ("…pe…",
+         "the Pāli ellipsis mark standing in for AN 6.98's entire chain, repeated here "
+         "unchanged."),
+        ("sabbasaṅkhāre dukkhato samanupassati",
+         "&ldquo;regards all conditions as suffering&rdquo; &mdash; this discourse's reversal, "
+         "likewise the only spelled-out content in its half."),
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; the second of the three characteristics, and this "
+         "discourse's own title term, shared with the unrelated AN 6.75 earlier in this "
+         "collection."),
+        ("dhammānudhammappaṭipadā",
+         "&ldquo;views that conform with the teaching&rdquo; &mdash; the first link of the "
+         "elided chain, spelled out in full at AN 6.98."),
+    ],
+    text_intro=(
+        "The discourse in full: regarding conditions as pleasurable, blocking the path via "
+        "AN 6.98's chain, and the reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Regarding conditions as pleasurable blocks the path"),
+        ("p", "&sect;1", "an6.99:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What earlier discourse in this collection shares this discourse's exact title, "
+              "'Suffering' (Dukkhasutta)?",
+         "opts": ["AN 6.55", "AN 6.75, in the earlier Arahattavagga", "AN 6.31", "There is no earlier discourse with this title"],
+         "correct": 1,
+         "expl": "A second, unrelated discourse of the same name within this collection."},
+        {"q": "What perceptual error does this discourse apply AN 6.98's chain to?",
+         "opts": [
+             "Regarding conditions as permanent, the same as AN 6.98",
+             "Regarding any condition as pleasurable",
+             "Regarding conditions as self",
+             "Regarding extinguishment as suffering"],
+         "correct": 1,
+         "expl": "A new opening clause, with the rest of the chain compressed via elision."},
+        {"q": "How is this discourse's text structured in the Pāli source, according to the "
+              "guide?",
+         "opts": [
+             "Fully spelled out, identical in length to AN 6.98",
+             "Only the opening clause is spelled out; '…pe…' stands in for the rest of AN "
+             "6.98's chain, unchanged",
+             "No text is given at all",
+             "A completely different chain, unrelated to AN 6.98"],
+         "correct": 1,
+         "expl": "A compression technique pointing back to AN 6.98's fuller template."},
+        {"q": "Which of the three characteristics does this discourse address, and what "
+              "completes the set?",
+         "opts": [
+             "Impermanence; AN 6.98 completes the set",
+             "Suffering, the second of the three; AN 6.100 completes the set with not-self",
+             "Not-self; AN 6.101 completes the set",
+             "None of the three characteristics are addressed"],
+         "correct": 1,
+         "expl": "Impermanence at AN 6.98, suffering here, not-self to follow at AN 6.100."},
+        {"q": "Is a setting stated for AN 6.99?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.98 immediately before it."},
+        {"q": "How much content does AN 6.99 share with AN 6.75, checked term by term?",
+         "opts": [
+             "All six items are identical",
+             "Nothing beyond the shared title — entirely different content",
+             "Half the content overlaps",
+             "Only the reversal half is shared"],
+         "correct": 1,
+         "expl": "A title shared twice within this collection is not evidence of shared "
+                 "content."},
+    ],
+    marginalia=[
+        ("A changed opening clause", [
+            "regarding conditions",
+            "as pleasurable —",
+            "rest of the chain elided",
+        ]),
+        ("A shared title, no shared content", [
+            "AN 6.75 and AN 6.99",
+            "both 'Suffering' —",
+            "entirely different discourses",
+        ]),
+        ("The second characteristic", [
+            "impermanence (6.98),",
+            "suffering (6.99),",
+            "not-self to follow (6.100)",
+        ]),
+        ("Cross-references", [
+            "AN 6.75 &middot; the earlier, unrelated discourse of the same title",
+            "AN 6.98 &middot; previous, source of this discourse's elided chain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.99/en/sujato" target="_blank" rel="noopener">Full Sujato translation on '
+        "SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.75.html">AN 6.75 &middot; Suffering</a> &mdash; the earlier, unrelated '
+        "discourse of the same title.",
+        '<a href="an-6.100.html">AN 6.100 &middot; Not-Self</a> &mdash; next, completing the '
+        "three characteristics.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.100 — Anattasutta
+# --------------------------------------------------------------------------- #
+page(
+    100, "Anatta", "Not-Self",
+    vagga=VAGGA_10,
+    meta_title="AN 6.100 — Not-Self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Anattasutta, "
+        "completing the three characteristics by applying AN 6.98's chain to regarding "
+        "anything as self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same three-link chain as AN 6.98 and 6.99, compressed via Pāli ellipsis "
+                 "after a changed opening clause"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The rejection of self-view as an obstacle to right view recurs "
+                              "throughout the Chinese Āgamas and Abhidharma literature; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; identical chain to AN "
+                       "6.98 and 6.99, completing the set of three characteristics"),
+    ],
+    why=(
+        "AN 6.100 completes the three-discourse variation on AN 6.98's chain, applying it now "
+        "to the third and final characteristic: regarding anything &mdash; not merely "
+        "conditions, but any thing at all &mdash; as self blocks the sure path and the four "
+        "fruits exactly as impermanence and pleasure did before it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who regards any thing as self cannot accept views conforming with the "
+            "teaching, step onto the sure path, or realize any of the four fruits; regarding "
+            "all things as not-self makes all three possible."]),
+        ("A subtle scope shift: 'any thing,' not 'any condition'", [
+            "Where AN 6.98 and 6.99 spoke of saṅkhāra, conditions, this discourse widens its "
+            "opening clause to dhamma, any thing whatsoever &mdash; a scope broad enough to "
+            "include even the unconditioned, extinguishment itself, setting up the more "
+            "specific treatment of that exact case at AN 6.101 immediately following."]),
+        ("Completing the three characteristics", [
+            "Impermanence (AN 6.98), suffering (AN 6.99), and now not-self complete the "
+            "standard threefold characterization of conditioned existence (tilakkhaṇa) this "
+            "literature treats as fundamental &mdash; the same three misapprehensions "
+            "identified as blocking accomplishment in view at AN 6.93 earlier in this chapter's "
+            "predecessor, here each given its own discourse."]),
+        ("The three fetters' self-view, echoed again", [
+            "This discourse's rejection of self-view connects directly to sakkāyadiṭṭhi, "
+            "substantialist view, the first of the three fetters already met at AN 6.89–91 "
+            "&mdash; the same underlying error named there as a fetter to be abandoned and "
+            "here as a perception to be corrected."]),
+    ],
+    terms=[
+        ("dhammaṁ attato samanupassati",
+         "&ldquo;regards a thing as self&rdquo; &mdash; this discourse's opening perceptual "
+         "error, widened in scope from AN 6.98/6.99's saṅkhāra to dhamma, any thing "
+         "whatsoever."),
+        ("sabbadhamme anattato samanupassati",
+         "&ldquo;regards all things as not-self&rdquo; &mdash; this discourse's reversal."),
+        ("tilakkhaṇa",
+         "&ldquo;the three characteristics&rdquo; &mdash; impermanence, suffering, and "
+         "not-self, completed by this discourse as the third and final term."),
+        ("sakkāyadiṭṭhi",
+         "&ldquo;substantialist view&rdquo; &mdash; the fetter already met at AN 6.89–91, "
+         "directly connected to this discourse's rejection of self-view."),
+        ("…pe…",
+         "the Pāli ellipsis mark, again standing in for AN 6.98's chain, unchanged beyond "
+         "this discourse's own opening clause."),
+    ],
+    text_intro=(
+        "The discourse in full: regarding any thing as self, blocking the path via AN 6.98's "
+        "chain, and the reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Regarding anything as self blocks the path"),
+        ("p", "&sect;1", "an6.100:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What subtle scope difference does this discourse's opening clause have compared "
+              "to AN 6.98 and 6.99, according to the guide?",
+         "opts": [
+             "No difference — identical scope",
+             "It widens from saṅkhāra (conditions) to dhamma (any thing whatsoever), a scope "
+             "broad enough to include even the unconditioned",
+             "It narrows the scope to only physical objects",
+             "It removes all reference to scope entirely"],
+         "correct": 1,
+         "expl": "A widened scope setting up AN 6.101's treatment of extinguishment "
+                 "specifically."},
+        {"q": "What three discourses together complete this collection's treatment of the "
+              "three characteristics?",
+         "opts": [
+             "AN 6.89, 90, and 91",
+             "AN 6.98 (impermanence), 6.99 (suffering), and 6.100 (not-self)",
+             "AN 6.92, 93, and 94",
+             "AN 6.75, 76, and 77"],
+         "correct": 1,
+         "expl": "Impermanence, suffering, and not-self — the standard threefold "
+                 "characterization of conditioned existence."},
+        {"q": "What earlier fetter does this discourse's rejection of self-view directly "
+              "connect to, according to the guide?",
+         "opts": [
+             "Doubt (vicikicchā)",
+             "Sakkāyadiṭṭhi, substantialist view, the first of the three fetters met at AN "
+             "6.89–91",
+             "Misapprehension of precepts and observances",
+             "No connection is drawn to any earlier fetter"],
+         "correct": 1,
+         "expl": "The same underlying error named as a fetter there and a perception here."},
+        {"q": "What earlier discourse in this chapter's predecessor also identified these "
+              "three misapprehensions together, according to the guide?",
+         "opts": [
+             "AN 6.85", "AN 6.93, naming permanence-view, happiness-view, and self-view as blocking accomplishment in view", "AN 6.76", "AN 6.55"],
+         "correct": 1,
+         "expl": "The same three characteristics, here each given its own individual "
+                 "discourse."},
+        {"q": "Is a setting stated for AN 6.100?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.98 and 6.99 before it."},
+        {"q": "What does <em>dhammaṁ attato samanupassati</em> mean?",
+         "opts": ["Regards a condition as permanent", "Regards a thing as self", "Regards suffering as pleasurable", "Regards extinguishment as painful"],
+         "correct": 1,
+         "expl": "This discourse's own opening perceptual error."},
+    ],
+    marginalia=[
+        ("A widened scope", [
+            "not just conditions —",
+            "any thing at all,",
+            "setting up AN 6.101",
+        ]),
+        ("Completing the three", [
+            "characteristics —",
+            "impermanence, suffering,",
+            "and now not-self",
+        ]),
+        ("Connecting to AN 6.89's fetter", [
+            "sakkāyadiṭṭhi —",
+            "the same error, named",
+            "there as fetter, here as perception",
+        ]),
+        ("Cross-references", [
+            "AN 6.89–91 &middot; earlier, the same self-view fetter",
+            "AN 6.101 &middot; next, applying the chain to extinguishment specifically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.100/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.99.html">AN 6.99 &middot; Suffering</a> &mdash; previous, the same '
+        "chain applied to pleasure.",
+        '<a href="an-6.101.html">AN 6.101 &middot; Extinguished</a> &mdash; next, applying a '
+        "related argument to extinguishment specifically.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.101 — Nibbānasutta
+# --------------------------------------------------------------------------- #
+page(
+    101, "Nibbāna", "Extinguished",
+    vagga=VAGGA_10,
+    meta_title="AN 6.101 — Extinguished | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nibbānasutta, closing "
+        "this chain by naming extinguishment itself, rather than conditioned things, as the "
+        "object of a blocking misperception. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same three-link chain as AN 6.98–100, spelled out in full rather than "
+                 "elided, and applied uniquely to the unconditioned rather than to conditions"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The claim that extinguishment is peaceful rather than a form of "
+                              "suffering or annihilation recurs widely across the Chinese "
+                              "Āgamas' polemic against nihilist misreadings of nibbāna; this "
+                              "reading guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this four-discourse "
+                       "set with its most conceptually distinct variation, applied to the "
+                       "unconditioned rather than the conditioned"),
+    ],
+    why=(
+        "AN 6.101 closes this four-discourse set with a genuine departure from its pattern: "
+        "rather than misregarding a conditioned thing, this discourse addresses regarding "
+        "extinguishment itself &mdash; the unconditioned &mdash; as suffering, spelling out "
+        "the full chain again rather than eliding it, since its opening clause no longer "
+        "matches AN 6.98's template closely enough for simple abbreviation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who regards extinguishment as suffering cannot accept views "
+            "conforming with the teaching, step onto the sure path, or realize any of the four "
+            "fruits; regarding extinguishment as pleasurable makes all three possible."]),
+        ("Why this discourse is spelled out, not elided", [
+            "AN 6.99 and 6.100 could be compressed because their opening clauses shared AN "
+            "6.98's exact grammatical structure, applied to saṅkhāra or dhamma. This "
+            "discourse's opening &mdash; regarding nibbāna, not any conditioned or general "
+            "thing, as suffering &mdash; departs enough from that template that the source "
+            "spells out both halves in full rather than eliding them."]),
+        ("A misperception in the opposite direction from the first three", [
+            "AN 6.98–100 each named a positive misperception applied wrongly to something "
+            "impermanent (seeing permanence, pleasure, or self where none exists). This "
+            "discourse instead names a negative misperception applied wrongly to something "
+            "genuinely peaceful: seeing suffering in what this literature holds to be the "
+            "supreme peace."]),
+        ("Guarding against a specific, recurring misreading", [
+            "Regarding extinguishment as a form of suffering, loss, or annihilation is "
+            "addressed elsewhere in this literature as a common misreading of what "
+            "extinguishment actually is; this discourse treats correcting that specific "
+            "misperception as itself a precondition for the sure path, alongside the three "
+            "characteristics named in the discourses immediately before it."]),
+    ],
+    terms=[
+        ("nibbānaṁ dukkhato samanupassati",
+         "&ldquo;regards extinguishment as suffering&rdquo; &mdash; this discourse's opening "
+         "misperception, a departure from AN 6.98–100's template significant enough to be "
+         "spelled out in full rather than elided."),
+        ("nibbānaṁ sukhato samanupassati",
+         "&ldquo;regards extinguishment as pleasurable&rdquo; &mdash; the reversal, correcting "
+         "the opening misperception."),
+        ("saṅkhata, asaṅkhata",
+         "&ldquo;conditioned, unconditioned&rdquo; &mdash; the underlying distinction this "
+         "discourse turns on, applying the same chain to the unconditioned that AN 6.98–100 "
+         "applied to conditioned things."),
+        ("santaṁ",
+         "&ldquo;peaceful&rdquo; &mdash; a standard descriptor for extinguishment elsewhere in "
+         "this literature, directly opposed to the misperception this discourse corrects."),
+        ("dhammānudhammappaṭipadā",
+         "&ldquo;views that conform with the teaching&rdquo; &mdash; the chain's first link, "
+         "spelled out here identically to AN 6.98's full version."),
+    ],
+    text_intro=(
+        "The discourse in full: regarding extinguishment as suffering, blocking the path, and "
+        "the reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Regarding extinguishment as suffering blocks the path"),
+        ("p", "&sect;1", "an6.101:1.1-1.3"),
+        ("h3", "Regarding extinguishment as peaceful enables it"),
+        ("p", "&sect;2", "an6.101:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's target differ from AN 6.98, 6.99, and 6.100's?",
+         "opts": [
+             "No difference — identical target",
+             "It addresses extinguishment itself, the unconditioned, rather than a conditioned "
+             "thing misregarded as permanent, pleasurable, or self",
+             "It addresses only physical objects",
+             "It has no stated target at all"],
+         "correct": 1,
+         "expl": "A genuine departure from this set's pattern, applied to the unconditioned."},
+        {"q": "Why is this discourse spelled out in full rather than elided like AN 6.99 and "
+              "6.100, according to the guide?",
+         "opts": [
+             "For no particular reason — the source is inconsistent",
+             "Its opening clause departs enough from AN 6.98's exact template that simple "
+             "elision would not clearly convey the change in target",
+             "Because it is the longest discourse in the set",
+             "Because it was composed by a different author"],
+         "correct": 1,
+         "expl": "A structural difference significant enough to require full spelling-out."},
+        {"q": "How does this discourse's misperception differ in direction from AN 6.98–100's, "
+              "according to the guide?",
+         "opts": [
+             "Identical in direction — seeing something as more than it is",
+             "The opposite direction: where AN 6.98–100 wrongly see permanence, pleasure, or "
+             "self where none exists, this discourse wrongly sees suffering in what is "
+             "genuinely peaceful",
+             "This discourse names no misperception at all",
+             "Both directions are identical in every discourse of this set"],
+         "correct": 1,
+         "expl": "A misperception running the opposite way — seeing suffering where there is "
+                 "peace, not seeing stability where there is none."},
+        {"q": "What common misreading does this discourse address, according to the guide?",
+         "opts": [
+             "That extinguishment is too easily attained",
+             "That extinguishment is a form of suffering, loss, or annihilation",
+             "That extinguishment does not exist at all",
+             "That extinguishment is identical to ordinary pleasure"],
+         "correct": 1,
+         "expl": "A misreading addressed elsewhere in this literature, corrected here as a "
+                 "precondition for the sure path."},
+        {"q": "Is a setting stated for AN 6.101?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chain's other discourses."},
+        {"q": "What does <em>santaṁ</em> mean, and how does it relate to this discourse?",
+         "opts": [
+             "'Suffering' — the misperception this discourse corrects",
+             "'Peaceful' — a standard descriptor for extinguishment, directly opposed to the "
+             "misperception this discourse corrects",
+             "'Impermanent' — unrelated to this discourse's teaching",
+             "A term with no bearing on extinguishment"],
+         "correct": 1,
+         "expl": "The reversal's implicit standard for how extinguishment is properly "
+                 "regarded."},
+    ],
+    marginalia=[
+        ("The unconditioned, not conditions", [
+            "extinguishment itself —",
+            "a genuine departure",
+            "from AN 6.98–100's target",
+        ]),
+        ("Spelled out, not elided", [
+            "the opening clause",
+            "differs enough to need",
+            "full text, not '…pe…'",
+        ]),
+        ("A misperception reversed", [
+            "seeing suffering",
+            "where there is peace —",
+            "not stability where there is none",
+        ]),
+        ("Cross-references", [
+            "AN 6.98–100 &middot; earlier, the same chain applied to conditioned things",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.101/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.100.html">AN 6.100 &middot; Not-Self</a> &mdash; previous, closing the '
+        "chain's treatment of conditioned things.",
+        '<a href="an-6.102.html">AN 6.102 &middot; Transience</a> &mdash; next, a companion '
+        "triplet on the benefits of these same perceptions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.102 — Anavatthitasutta
+# --------------------------------------------------------------------------- #
+page(
+    102, "Anavatthita", "Transience",
+    vagga=VAGGA_10,
+    meta_title="AN 6.102 — Transience | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Anavatthitasutta, "
+        "naming six first-person benefits sufficient to establish the perception of "
+        "impermanence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list of first-person aspirational statements, opening a "
+                 "companion triplet to AN 6.98–100"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The cultivation of the perception of impermanence through "
+                              "reflection on its benefits recurs widely across the Chinese "
+                              "Āgamas' meditation instructions; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a first-person list of "
+                       "aspirations rather than a third-person chain, a shift in rhetorical "
+                       "register from AN 6.98"),
+    ],
+    why=(
+        "AN 6.102 opens a companion triplet to AN 6.98&ndash;100: where those three discourses "
+        "argued in the third person that misperceiving conditions blocks the path, this "
+        "discourse and its two companions, AN 6.103 and 6.104, list first-person benefits "
+        "&mdash; things a practitioner can say to themselves &mdash; sufficient motivation to "
+        "establish the same right perceptions those earlier discourses required."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seeing six benefits is enough to establish the perception of impermanence in all "
+            "conditions: things will appear transient, the mind will not delight in the world, "
+            "will rise above it, will incline to extinguishment, the fetters will be given up, "
+            "and the ascetic life's ultimate goal will be achieved."]),
+        ("A shift from argument to aspiration", [
+            "AN 6.98's chain argued that misperceiving conditions blocks specific outcomes; "
+            "this discourse instead lists six first-person statements &mdash; &ldquo;my mind "
+            "will not delight anywhere in the world,&rdquo; &ldquo;I will achieve the ultimate "
+            "goal&rdquo; &mdash; framed as benefits a practitioner might rehearse to themselves "
+            "as sufficient motivation, a register closer to encouragement than to logical "
+            "necessity."]),
+        ("A sequence from perception to attainment", [
+            "The six statements move in order: perceiving transience, disengaging the mind "
+            "from delight in the world, rising above the world, inclining toward "
+            "extinguishment, giving up the fetters, and finally achieving the ultimate goal "
+            "&mdash; each benefit building toward the next rather than standing as six "
+            "independent items."]),
+        ("A companion, not a repeat, of AN 6.98", [
+            "Checked against AN 6.98, this discourse shares only its general topic, "
+            "impermanence &mdash; the earlier discourse's chain (right view, sure path, four "
+            "fruits) and this discourse's aspirational sequence (delight, transcendence, "
+            "extinguishment, fetters, goal) are two distinct treatments of the same "
+            "perception, not one restated as the other."]),
+    ],
+    terms=[
+        ("anavatthitasaññā",
+         "&ldquo;the perception of impermanence,&rdquo; the perception of transience &mdash; "
+         "the discourse's own title and central aim."),
+        ("cittaṁ na ramati",
+         "&ldquo;my mind will not delight&rdquo; &mdash; the second of the six first-person "
+         "benefits, disengaging delight from the world."),
+        ("nibbānaninnaṁ bhavissati cittaṁ",
+         "&ldquo;my heart will incline to extinguishment&rdquo; &mdash; the fourth benefit, "
+         "naming the mind's direction rather than its final arrival."),
+        ("saṁyojanāni pahānaṁ gacchissanti",
+         "&ldquo;my fetters will be given up&rdquo; &mdash; the fifth benefit, echoing the "
+         "fetters already named at AN 6.89–91."),
+        ("sāmaññatthaṁ ārādhessāmi",
+         "&ldquo;I will achieve the ultimate goal of the ascetic life&rdquo; &mdash; the "
+         "sixth and final benefit, the sequence's culmination."),
+    ],
+    text_intro=(
+        "The discourse in full: six first-person benefits sufficient to establish the "
+        "perception of impermanence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six benefits of the perception of impermanence"),
+        ("p", "&sect;1", "an6.102:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's rhetorical register differ from AN 6.98's, according "
+              "to the guide?",
+         "opts": [
+             "No difference — both are identical third-person chains",
+             "AN 6.98 argues in the third person that misperception blocks specific outcomes; "
+             "this discourse lists first-person statements a practitioner might rehearse as "
+             "motivation",
+             "This discourse is entirely third-person, unlike AN 6.98",
+             "The two discourses share no relationship to impermanence at all"],
+         "correct": 1,
+         "expl": "A shift from logical argument to aspirational encouragement."},
+        {"q": "How do this discourse's six benefits relate to each other, according to the "
+              "guide?",
+         "opts": [
+             "Six entirely independent, unordered items",
+             "A sequence building from perceiving transience through disengagement, "
+             "transcendence, inclination toward extinguishment, giving up fetters, to the "
+             "ultimate goal",
+             "A random list with no discernible order",
+             "Six repetitions of the identical statement"],
+         "correct": 1,
+         "expl": "Each benefit building toward the next rather than standing alone."},
+        {"q": "What earlier discourse's content does this discourse's fifth benefit, 'my "
+              "fetters will be given up,' echo?",
+         "opts": [
+             "AN 6.85's mental management techniques",
+             "AN 6.89–91's three fetters",
+             "AN 6.76's varieties of conceit",
+             "AN 6.87's five heinous deeds"],
+         "correct": 1,
+         "expl": "A connection to fetters already named earlier in this chapter's predecessor."},
+        {"q": "How does the guide characterize this discourse's relationship to AN 6.98?",
+         "opts": [
+             "An exact restatement of AN 6.98's chain",
+             "A companion sharing only the general topic of impermanence — two distinct "
+             "treatments of the same perception, not one restated as the other",
+             "A direct contradiction of AN 6.98's teaching",
+             "Entirely unrelated to AN 6.98 in every respect"],
+         "correct": 1,
+         "expl": "Two different rhetorical approaches to the same underlying perception."},
+        {"q": "Is a setting stated for AN 6.102?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+        {"q": "What does this discourse's title term, anavatthitasaññā, mean?",
+         "opts": ["The perception of self", "The perception of impermanence/transience", "The perception of suffering", "The perception of peace"],
+         "correct": 1,
+         "expl": "This discourse's central aim, established through its six named benefits."},
+    ],
+    marginalia=[
+        ("Six aspirational benefits", [
+            "transience perceived &middot;",
+            "no delight in the world",
+            "&middot; rising above it &middot; fetters given up",
+        ]),
+        ("Argument to aspiration", [
+            "AN 6.98: a chain of",
+            "necessity — AN 6.102:",
+            "first-person motivation",
+        ]),
+        ("A building sequence", [
+            "perception, disengagement,",
+            "transcendence, inclination,",
+            "fetters given up, the goal",
+        ]),
+        ("Cross-references", [
+            "AN 6.98 &middot; earlier, the same topic argued differently",
+            "AN 6.103 &middot; next, the same treatment applied to suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.102/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.101.html">AN 6.101 &middot; Extinguished</a> &mdash; previous, closing '
+        "the earlier chain on the three characteristics.",
+        '<a href="an-6.103.html">AN 6.103 &middot; With a Drawn Sword</a> &mdash; next, the '
+        "same treatment applied to suffering.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.103 — Ukkhittāsikasutta
+# --------------------------------------------------------------------------- #
+page(
+    103, "Ukkhittāsika", "With a Drawn Sword",
+    vagga=VAGGA_10,
+    meta_title="AN 6.103 — With a Drawn Sword | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ukkhittāsikasutta, "
+        "naming six first-person benefits, opened by a striking simile, sufficient to "
+        "establish the perception of suffering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list of first-person aspirational statements, the second "
+                 "of a companion triplet to AN 6.98–100"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The simile of a killer with a drawn sword as an image of urgent "
+                              "disillusionment recurs in related forms across the Chinese "
+                              "Āgamas; this reading guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; opens with the chapter's "
+                       "most vivid image, framing disillusionment in unusually stark terms"),
+    ],
+    why=(
+        "AN 6.103 takes its title from the discourse's own opening image: the perception of "
+        "disillusionment established for all conditions &ldquo;like a killer with a drawn "
+        "sword,&rdquo; among the most visceral similes in this collection, followed by five "
+        "further benefits leading to peace, uprooted tendencies, and having served the "
+        "Teacher with love."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seeing six benefits is enough to establish the perception of suffering in all "
+            "conditions: disillusionment established as if by a killer with a drawn sword, the "
+            "mind rising above the world, seeing extinguishment as peaceful, uprooting "
+            "underlying tendencies, fulfilling one's duty, and having served the Teacher with "
+            "love."]),
+        ("A simile unlike anything else in this chapter", [
+            "&ldquo;Like a killer with a drawn sword&rdquo; (ukkhittāsiko vadhako viya) frames "
+            "disillusionment not as a gentle insight but as something urgent and inescapable "
+            "&mdash; the discourse's own title, and its most memorable image, standing apart "
+            "from this chapter's otherwise measured, formulaic language."]),
+        ("Underlying tendencies, a term new to this collection so far", [
+            "&ldquo;My underlying tendencies will be uprooted&rdquo; (anusayā samugghātaṁ "
+            "gacchanti) introduces anusaya, a term for deeply rooted dispositional "
+            "defilements distinct from the fetters (saṁyojana) already met at AN 6.89&ndash;91 "
+            "&mdash; a further layer of what stream-entry and the higher stages progressively "
+            "remove."]),
+        ("Service to the Teacher, closing on gratitude rather than attainment", [
+            "The discourse's sixth benefit &mdash; &ldquo;I will have served my Teacher with "
+            "love&rdquo; &mdash; is the only item across this triplet framed as a relational "
+            "outcome rather than a personal attainment, closing this discourse's list on "
+            "devotion rather than a further stage of realization."]),
+    ],
+    terms=[
+        ("ukkhittāsiko vadhako viya",
+         "&ldquo;like a killer with a drawn sword&rdquo; &mdash; the discourse's own title and "
+         "opening image, an unusually visceral simile for urgent disillusionment."),
+        ("nibbidāsaññā",
+         "&ldquo;the perception of disillusionment&rdquo; &mdash; what this discourse's "
+         "opening simile is said to establish."),
+        ("anusaya",
+         "&ldquo;underlying tendency&rdquo; &mdash; a term for deeply rooted dispositional "
+         "defilements, distinct from the fetters (saṁyojana) already met at AN 6.89–91."),
+        ("kiccakārī",
+         "&ldquo;I will fulfill my duty&rdquo; &mdash; the fifth benefit, echoing the language "
+         "of a completed task rather than an inward realization."),
+        ("satthu pemaṁ pañcaggahitaṁ",
+         "&ldquo;I will have served my Teacher with love&rdquo; &mdash; the sixth and closing "
+         "benefit, the only relational rather than attainment-focused item in this triplet."),
+    ],
+    text_intro=(
+        "The discourse in full: six first-person benefits, opened by a striking simile, "
+        "sufficient to establish the perception of suffering. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six benefits of the perception of suffering"),
+        ("p", "&sect;1", "an6.103:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What image opens this discourse and gives it its title?",
+         "opts": [
+             "A boat crossing a flood",
+             "The perception of disillusionment established as if by a killer with a drawn "
+             "sword",
+             "A tree bearing fruit",
+             "A harp's strings"],
+         "correct": 1,
+         "expl": "One of the most visceral similes in this collection, distinct from this "
+                 "chapter's otherwise measured language."},
+        {"q": "What new term does this discourse introduce, distinct from the fetters "
+              "(saṁyojana) already met at AN 6.89–91?",
+         "opts": [
+             "Nīvaraṇa, hindrance",
+             "Anusaya, underlying tendency — a term for deeply rooted dispositional "
+             "defilements",
+             "Āsava, defilement",
+             "No new term is introduced"],
+         "correct": 1,
+         "expl": "A further layer of what stream-entry and the higher stages progressively "
+                 "remove."},
+        {"q": "What makes this discourse's sixth benefit, 'I will have served my Teacher with "
+              "love,' distinct from the others in this triplet, according to the guide?",
+         "opts": [
+             "It is identical in kind to the other five benefits",
+             "It is the only item framed as a relational outcome rather than a personal "
+             "attainment",
+             "It concerns a specific meditative technique",
+             "It has no relationship to the rest of the list"],
+         "correct": 1,
+         "expl": "A closing note of devotion rather than a further stage of realization."},
+        {"q": "Which perception does this discourse's six benefits establish, and how does "
+              "this differ from AN 6.102's?",
+         "opts": [
+             "The perception of impermanence, identical to AN 6.102",
+             "The perception of suffering (nibbidāsaññā), applying the same triplet form to a "
+             "different characteristic than AN 6.102's impermanence",
+             "The perception of not-self",
+             "No perception is named"],
+         "correct": 1,
+         "expl": "The second discourse in a companion triplet to AN 6.98–100."},
+        {"q": "Is a setting stated for AN 6.103?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses despite its "
+                 "unusually vivid opening image."},
+        {"q": "What does <em>anusaya</em> mean?",
+         "opts": ["Fetter", "Underlying tendency", "Hindrance", "Defilement obstructing deeds"],
+         "correct": 1,
+         "expl": "Deeply rooted dispositional defilements, a term newly introduced in this "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("A visceral opening image", [
+            "'like a killer",
+            "with a drawn sword' —",
+            "urgent, inescapable disillusionment",
+        ]),
+        ("A new term: anusaya", [
+            "underlying tendencies,",
+            "distinct from the fetters",
+            "already met at AN 6.89–91",
+        ]),
+        ("Closing on devotion", [
+            "'served my Teacher",
+            "with love' — relational,",
+            "not merely attainment",
+        ]),
+        ("Cross-references", [
+            "AN 6.89–91 &middot; earlier, the fetters distinct from this discourse's anusaya",
+            "AN 6.102 &middot; previous, the same triplet form applied to impermanence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.103/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.102.html">AN 6.102 &middot; Transience</a> &mdash; previous, the same '
+        "triplet form applied to impermanence.",
+        '<a href="an-6.104.html">AN 6.104 &middot; Not Determined by Anything</a> &mdash; '
+        "next, completing the triplet with not-self.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.104 — Atammayasutta
+# --------------------------------------------------------------------------- #
+page(
+    104, "Atammaya", "Not Determined by Anything",
+    vagga=VAGGA_10,
+    meta_title="AN 6.104 — Not Determined by Anything | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Atammayasutta, "
+        "closing this triplet with six first-person benefits sufficient to establish the "
+        "perception of not-self. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single six-item list of first-person aspirational statements, closing this "
+                 "triplet's companion to AN 6.98–100"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The cessation of 'I-making' and 'mine-making' as marks of "
+                              "not-self insight recurs widely across the Chinese Āgamas' "
+                              "treatment of anattā; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes the triplet, naming "
+                       "the cessation of self-making directly rather than through simile"),
+    ],
+    why=(
+        "AN 6.104 closes the triplet begun at AN 6.102, applying the same first-person "
+        "aspirational form to not-self: freedom from being determined by anything in the "
+        "world, the stopping of I-making and mine-making, and closing on the same distinct "
+        "knowledge and causal insight already named as benefits of stream-entry at AN 6.97."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seeing six benefits is enough to establish the perception of not-self in all "
+            "things: freedom from being determined by anything in the world, the stopping of "
+            "I-making and mine-making, distinct knowledge, and clear sight of causes and their "
+            "arisen phenomena."]),
+        ("I-making and mine-making, named as processes to stop", [
+            "&ldquo;My I-making will stop&rdquo; and &ldquo;my mine-making will stop&rdquo; "
+            "(ahaṅkāra, mamaṅkāra) name not-self not as an abstract metaphysical claim but as "
+            "the cessation of two specific, ongoing mental activities &mdash; the continuous "
+            "construction of a sense of &lsquo;I&rsquo; and &lsquo;mine&rsquo; this discourse "
+            "treats as something that can stop, not merely be seen through."]),
+        ("Reusing AN 6.97's exact closing benefits", [
+            "This discourse's final two benefits &mdash; distinct knowledge and having clearly "
+            "seen causes and their arisen phenomena &mdash; repeat, word for word, two of AN "
+            "6.97's six benefits of stream-entry, connecting this triplet's aspirational "
+            "sequence directly to that earlier discourse's concrete attainment."]),
+        ("Atammaya, this discourse's own closing term", [
+            "The discourse's title, atammaya, &ldquo;not made of that,&rdquo; names a "
+            "freedom from being determined or fashioned by any of the six sense objects "
+            "&mdash; a term this triplet's English rendering gives as &ldquo;not determined by "
+            "anything in the world,&rdquo; the first of the six benefits and the discourse's "
+            "own namesake state."]),
+    ],
+    terms=[
+        ("atammaya",
+         "&ldquo;not made of that,&rdquo; not determined by anything &mdash; the discourse's "
+         "own title, naming freedom from being fashioned by any sense object."),
+        ("ahaṅkāra, mamaṅkāra",
+         "&ldquo;I-making, mine-making&rdquo; &mdash; the second and third benefits, naming "
+         "not-self as the cessation of ongoing mental activities rather than an abstract "
+         "claim."),
+        ("aññā",
+         "&ldquo;distinct knowledge&rdquo; &mdash; the fifth benefit, identical in wording to "
+         "one of AN 6.97's six benefits of stream-entry."),
+        ("hetu ca hetusamuppannā ca dhammā sudiṭṭhā",
+         "&ldquo;causes and the phenomena that arise from causes have been clearly seen&rdquo; "
+         "&mdash; the sixth and closing benefit, repeating word for word AN 6.95's and AN "
+         "6.97's identical phrase."),
+        ("anattasaññā",
+         "&ldquo;the perception of not-self&rdquo; &mdash; the discourse's stated aim, "
+         "completing this triplet's set of three characteristics alongside AN 6.102 and "
+         "6.103."),
+    ],
+    text_intro=(
+        "The discourse in full: six first-person benefits sufficient to establish the "
+        "perception of not-self. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six benefits of the perception of not-self"),
+        ("p", "&sect;1", "an6.104:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's title, atammaya, name?",
+         "opts": [
+             "A specific meditative posture",
+             "'Not made of that' — freedom from being determined or fashioned by any sense "
+             "object",
+             "A synonym for the five hindrances",
+             "The fourth fruit of the path"],
+         "correct": 1,
+         "expl": "The discourse's own namesake state, its first listed benefit."},
+        {"q": "How does this discourse frame not-self, according to the guide?",
+         "opts": [
+             "As an abstract metaphysical claim only",
+             "As the cessation of specific, ongoing mental activities — I-making and "
+             "mine-making — something that can stop, not merely be seen through",
+             "As identical to the fetters of AN 6.89",
+             "As unrelated to any process of mind"],
+         "correct": 1,
+         "expl": "Ahaṅkāra and mamaṅkāra named as processes with an end, not static "
+                 "conditions."},
+        {"q": "What does this discourse share word for word with AN 6.97's benefits of "
+              "stream-entry?",
+         "opts": [
+             "Nothing is shared between the two",
+             "Its final two benefits — distinct knowledge and clearly seeing causes and their "
+             "arisen phenomena",
+             "All six benefits are identical",
+             "Only the discourse's title is shared"],
+         "correct": 1,
+         "expl": "A direct connection between this triplet's aspirational sequence and an "
+                 "earlier discourse's concrete attainment."},
+        {"q": "What three discourses together complete this chapter's triplet on the benefits "
+              "of the three characteristics?",
+         "opts": [
+             "AN 6.98, 99, and 100",
+             "AN 6.102, 103, and 104",
+             "AN 6.89, 90, and 91",
+             "AN 6.92, 93, and 94"],
+         "correct": 1,
+         "expl": "Impermanence, suffering, and not-self, each given first-person aspirational "
+                 "treatment."},
+        {"q": "Is a setting stated for AN 6.104?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Ñātika"],
+         "correct": 1,
+         "expl": "A bare formula, matching this triplet's other two discourses."},
+        {"q": "What does <em>mamaṅkāra</em> mean?",
+         "opts": ["I-making", "Mine-making", "Fetter-breaking", "Cause-seeing"],
+         "correct": 1,
+         "expl": "The third benefit, the specific process of constructing a sense of "
+                 "'mine.'"},
+    ],
+    marginalia=[
+        ("Six benefits of not-self", [
+            "not determined by",
+            "anything &middot; I-making stops",
+            "&middot; mine-making stops &middot; distinct knowledge",
+        ]),
+        ("Not-self as a process", [
+            "I-making, mine-making —",
+            "named as ongoing",
+            "activities that can stop",
+        ]),
+        ("Echoing AN 6.97 exactly", [
+            "distinct knowledge,",
+            "causes clearly seen —",
+            "the same words, reused",
+        ]),
+        ("Cross-references", [
+            "AN 6.97 &middot; earlier, source of this discourse's closing two benefits",
+            "AN 6.102/103 &middot; earlier, the same triplet form applied to impermanence and "
+            "suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.104/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.103.html">AN 6.103 &middot; With a Drawn Sword</a> &mdash; previous, '
+        "the same triplet form applied to suffering.",
+        '<a href="an-6.105.html">AN 6.105 &middot; States of Existence</a> &mdash; next, a '
+        "shift to giving up the three realms and training in three higher disciplines.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.105 — Bhavasutta
+# --------------------------------------------------------------------------- #
+page(
+    105, "Bhava", "States of Existence",
+    vagga=VAGGA_10,
+    meta_title="AN 6.105 — States of Existence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Bhavasutta, pairing "
+        "three states of existence to give up with three trainings to undertake, closing on a "
+        "formula shared with AN 6.106. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A 3+3 structure — three things to give up, three things to train in — "
+                 "closing on a formula shared word for word with AN 6.106"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The three higher trainings (adhisīla, adhicitta, adhipaññā) as "
+                              "a fixed set recur throughout the Chinese Āgamas and Abhidharma "
+                              "literature; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a 3+3 structure rather "
+                       "than this chapter's usual six-item lists, closing on a formula shared "
+                       "with the discourse immediately following"),
+    ],
+    why=(
+        "AN 6.105 departs from this chapter's usual six-item form: three states of existence "
+        "to be given up (the sensual realm, the realm of luminous form, the formless realm) "
+        "paired with three trainings to be undertaken (the higher ethics, the higher mind, the "
+        "higher wisdom), closing on a formula &mdash; &ldquo;cut off craving, cast off the "
+        "fetters, and by rightly comprehending conceit made an end of suffering&rdquo; "
+        "&mdash; repeated word for word at AN 6.106 immediately following."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has given up existence in the sensual, form, and formless realms, "
+            "and trained in the higher ethics, higher mind, and higher wisdom, is called one "
+            "who has cut off craving, cast off the fetters, and by rightly comprehending "
+            "conceit made an end of suffering."]),
+        ("Three realms, already named at AN 6.67", [
+            "The sensual realm, the realm of luminous form, and the formless realm &mdash; the "
+            "same three domains a chain earlier in this chapter's predecessor, at AN 6.67, "
+            "named as what a mendicant's freedom from desire ultimately reaches, here restated "
+            "as three states of existence to be given up outright rather than merely desired "
+            "less."]),
+        ("A 3+3 structure, not this chapter's usual six", [
+            "Where most discourses in this chapter state a flat six-item list, this discourse "
+            "explicitly pairs two triads under separate headings &mdash; what to give up, and "
+            "what to train in &mdash; a structure closer to AN 6.79's split discernment/"
+            "practice list than to the chapter's more common undifferentiated six."]),
+        ("A closing formula shared with AN 6.106", [
+            "The exact phrase closing this discourse &mdash; &ldquo;cut off craving, cast off "
+            "the fetters, and by rightly comprehending conceit made an end of suffering&rdquo; "
+            "&mdash; recurs word for word at AN 6.106, framing two discourses with entirely "
+            "different specific content (three realms plus three trainings here, three "
+            "cravings plus three conceits there) as arriving at the identical description of "
+            "the accomplished mendicant."]),
+    ],
+    terms=[
+        ("kāmabhava, rūpabhava, arūpabhava",
+         "&ldquo;existence in the sensual realm, the realm of luminous form, the formless "
+         "realm&rdquo; &mdash; the three states of existence to be given up, already named as "
+         "a chain's final target at AN 6.67."),
+        ("adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā",
+         "&ldquo;the training in the higher ethics, the higher mind, the higher wisdom&rdquo; "
+         "&mdash; the standard three higher trainings, here paired with the three states of "
+         "existence given up."),
+        ("taṇhacchida",
+         "&ldquo;one who has cut off craving&rdquo; &mdash; the first term of the discourse's "
+         "closing formula, shared word for word with AN 6.106."),
+        ("vivattayissati saṁyojanaṁ",
+         "&ldquo;cast off the fetters&rdquo; &mdash; the closing formula's second term, "
+         "connecting to the fetters already met at AN 6.89–91."),
+        ("mānābhisamayā",
+         "&ldquo;by rightly comprehending conceit&rdquo; &mdash; the closing formula's third "
+         "term, connecting to the six varieties of conceit already met at AN 6.76."),
+    ],
+    text_intro=(
+        "The discourse in full: three states of existence given up, three trainings "
+        "undertaken, and the closing formula describing the accomplished mendicant. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three states of existence to give up, three trainings to undertake"),
+        ("p", "&sect;1", "an6.105:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What structure does AN 6.105 use, unlike most discourses in this chapter?",
+         "opts": [
+             "A flat six-item list, identical to most other discourses here",
+             "A 3+3 structure — three states of existence to give up, paired separately with "
+             "three trainings to undertake",
+             "A four-link causal chain",
+             "A single one-item statement"],
+         "correct": 1,
+         "expl": "Two explicitly separated triads, rather than an undifferentiated six."},
+        {"q": "Where else in this collection have the three states of existence — sensual, "
+              "form, and formless — already appeared, according to the guide?",
+         "opts": [
+             "Nowhere else in this collection",
+             "At AN 6.67, as the final target of a chain concerning freedom from desire",
+             "At AN 6.87, among the five heinous deeds",
+             "At AN 6.96, among the six rare things"],
+         "correct": 1,
+         "expl": "Restated here as states to be given up outright, rather than merely desired "
+                 "less."},
+        {"q": "What formula closes this discourse, and where else does it recur?",
+         "opts": [
+             "A formula unique to this discourse, appearing nowhere else",
+             "'Cut off craving, cast off the fetters, and by rightly comprehending conceit "
+             "made an end of suffering' — recurring word for word at AN 6.106",
+             "The same formula as AN 6.97's benefits of stream-entry",
+             "The formula from AN 6.86–88's triplet"],
+         "correct": 1,
+         "expl": "An identical closing description applied to two discourses with entirely "
+                 "different specific content."},
+        {"q": "What are the three higher trainings named in this discourse?",
+         "opts": [
+             "Faith, energy, and wisdom",
+             "The higher ethics, the higher mind, and the higher wisdom",
+             "Giving, ethics, and meditation",
+             "Restraint, exertion, and equanimity"],
+         "correct": 1,
+         "expl": "The standard threefold training set (adhisīla, adhicitta, adhipaññā)."},
+        {"q": "What earlier discourse does the closing formula's third term, 'rightly "
+              "comprehending conceit,' connect to?",
+         "opts": [
+             "AN 6.85's mental management techniques",
+             "AN 6.76's six varieties of conceit",
+             "AN 6.67's chain on friendship",
+             "AN 6.96's rare things"],
+         "correct": 1,
+         "expl": "A connection to conceit's several forms already treated at length earlier in "
+                 "this chapter's predecessor."},
+        {"q": "Is a setting stated for AN 6.105?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other discourses."},
+    ],
+    marginalia=[
+        ("Three realms given up", [
+            "sensual &middot; form &middot;",
+            "formless — already named",
+            "as a target at AN 6.67",
+        ]),
+        ("Three higher trainings", [
+            "the higher ethics,",
+            "the higher mind,",
+            "the higher wisdom",
+        ]),
+        ("A shared closing formula", [
+            "cut off craving,",
+            "cast off fetters, conceit",
+            "comprehended — echoed at AN 6.106",
+        ]),
+        ("Cross-references", [
+            "AN 6.67 &middot; earlier, source of this discourse's three realms",
+            "AN 6.106 &middot; next, sharing this discourse's exact closing formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.105/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.104.html">AN 6.104 &middot; Not Determined by Anything</a> &mdash; '
+        "previous, closing the perception triplet.",
+        '<a href="an-6.106.html">AN 6.106 &middot; Craving</a> &mdash; next, sharing this '
+        "discourse's exact closing formula over different content.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 6.106 — Taṇhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    106, "Taṇhā", "Craving",
+    vagga=VAGGA_10,
+    meta_title="AN 6.106 — Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Taṇhāsutta, closing "
+        "this chapter and the Sixes' Second Fifty with three cravings and three conceits, "
+        "sharing AN 6.105's exact closing formula. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A 3+3 structure — three cravings, three conceits — closing on the identical "
+                 "formula shared word for word with AN 6.105"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The three cravings (for sensual pleasure, for existence, for "
+                              "non-existence) as a fixed set recur throughout the Chinese "
+                              "Āgamas and Abhidharma literature; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this chapter and "
+                       "the Second Fifty's tenth chapter with the same 3+3 form as its "
+                       "immediate predecessor"),
+    ],
+    why=(
+        "AN 6.106 closes Ānisaṁsavagga, and with it the tenth of the Second Fifty's thirteen "
+        "chapters: three cravings (for sensual pleasure, for existence, and for "
+        "non-existence) paired with three conceits (conceit, an inferiority complex, a "
+        "superiority complex) &mdash; genuinely different content from AN 6.105, yet closing "
+        "on the identical formula word for word."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has given up craving for sensual pleasure, for existence, and for "
+            "non-existence, and the conceits of superiority, inferiority, and conceit itself, "
+            "is called one who has cut off craving, cast off the fetters, and by rightly "
+            "comprehending conceit made an end of suffering."]),
+        ("Three conceits, drawn directly from AN 6.76's six", [
+            "Māna (conceit), omāna (an inferiority complex), and atimāna (a superiority "
+            "complex) are the first three of the six varieties of conceit already named in "
+            "full at AN 6.76 earlier in this chapter's predecessor &mdash; this discourse "
+            "isolates exactly half that list, without its remaining three items "
+            "(overestimation, obstinacy, groveling)."]),
+        ("Three cravings, a standard threefold set", [
+            "Kāmataṇhā, bhavataṇhā, and vibhavataṇhā &mdash; craving for sensual pleasure, for "
+            "continued existence, and for the cessation of existence &mdash; form the standard "
+            "threefold division of craving recurring throughout this literature's treatment of "
+            "the second noble truth, here paired with the isolated half of AN 6.76's conceit "
+            "list."]),
+        ("An identical formula, closing two discourses with different content", [
+            "That AN 6.105 and 6.106 &mdash; one on three realms and three trainings, the "
+            "other on three cravings and three conceits &mdash; arrive at the identical "
+            "closing description suggests this formula functions as a general marker of "
+            "accomplishment applicable across more than one specific path of practice, closing "
+            "this chapter on a note of convergence rather than a single final teaching."]),
+    ],
+    terms=[
+        ("kāmataṇhā, bhavataṇhā, vibhavataṇhā",
+         "&ldquo;craving for sensual pleasure, for existence, for non-existence&rdquo; "
+         "&mdash; the standard threefold division of craving underlying the second noble "
+         "truth."),
+        ("māna, omāna, atimāna",
+         "&ldquo;conceit, an inferiority complex, a superiority complex&rdquo; &mdash; the "
+         "first three of AN 6.76's six varieties of conceit, isolated here as this discourse's "
+         "second triad."),
+        ("taṇhacchida",
+         "&ldquo;one who has cut off craving&rdquo; &mdash; the closing formula's first term, "
+         "identical to AN 6.105's."),
+        ("mānābhisamayā antamakāsi dukkhassa",
+         "&ldquo;by rightly comprehending conceit, made an end of suffering&rdquo; &mdash; "
+         "the closing formula's final clause, shared word for word with AN 6.105, closing this "
+         "chapter."),
+        ("Dutiyapaṇṇāsaka",
+         "&ldquo;the Second Fifty&rdquo; &mdash; the larger division of the Sixes this "
+         "chapter's close, at AN 6.106, completes the tenth of thirteen chapters within."),
+    ],
+    text_intro=(
+        "The discourse in full: three cravings and three conceits given up, closing on the "
+        "same formula as AN 6.105. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three cravings and three conceits to give up"),
+        ("p", "&sect;1", "an6.106:1.1-1.11"),
+        ("h3", "The accomplished mendicant, described"),
+        ("p", "&sect;2", "an6.106:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What three conceits does this discourse name, and where do they come from?",
+         "opts": [
+             "Six entirely new items, unrelated to any earlier discourse",
+             "Māna, omāna, and atimāna — exactly the first three of AN 6.76's six varieties "
+             "of conceit, isolated here without the remaining three",
+             "The five hindrances",
+             "The three fetters of AN 6.89"],
+         "correct": 1,
+         "expl": "Half of AN 6.76's earlier list, checked term by term against it."},
+        {"q": "What three cravings does this discourse name?",
+         "opts": [
+             "Craving for food, sleep, and company",
+             "Craving for sensual pleasure, for existence, and for non-existence",
+             "Craving for wealth, status, and praise",
+             "Craving for the four fruits of the path"],
+         "correct": 1,
+         "expl": "The standard threefold division underlying this literature's second noble "
+                 "truth."},
+        {"q": "How does this discourse's closing formula compare to AN 6.105's?",
+         "opts": [
+             "Entirely different wording",
+             "Identical word for word, despite the two discourses naming entirely different "
+             "specific content",
+             "Similar but with one term changed",
+             "AN 6.106 has no closing formula"],
+         "correct": 1,
+         "expl": "The same closing description applied across two discourses with different "
+                 "content."},
+        {"q": "What does the guide suggest this shared formula's recurrence indicates?",
+         "opts": [
+             "That AN 6.105 and 6.106 are actually the same discourse duplicated by error",
+             "That the formula functions as a general marker of accomplishment applicable "
+             "across more than one specific path of practice",
+             "That one of the two discourses is not authentic",
+             "Nothing — the recurrence has no significance"],
+         "correct": 1,
+         "expl": "A convergence in closing description, not evidence of a single specific "
+                 "teaching."},
+        {"q": "What does this discourse's close mark for the larger structure of the Sixes?",
+         "opts": [
+             "The end of the entire Sixes collection",
+             "The close of Ānisaṁsavagga, the tenth of the Second Fifty's thirteen chapters",
+             "The midpoint of the First Fifty",
+             "The opening of a new nipāta entirely"],
+         "correct": 1,
+         "expl": "Ten chapters of the Second Fifty complete, with three further chapters "
+                 "remaining before the Sixes conclude."},
+        {"q": "Is a setting stated for AN 6.106?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 6.105 and this chapter's other discourses."},
+    ],
+    marginalia=[
+        ("Three cravings, three conceits", [
+            "sensual &middot; existence &middot;",
+            "non-existence — conceit,",
+            "inferiority, superiority",
+        ]),
+        ("Half of AN 6.76's list", [
+            "the first three items",
+            "of six varieties",
+            "of conceit, isolated here",
+        ]),
+        ("The same formula, again", [
+            "cut off craving,",
+            "cast off fetters —",
+            "identical to AN 6.105",
+        ]),
+        ("Cross-references", [
+            "AN 6.76 &middot; earlier, source of this discourse's three conceits",
+            "AN 6.105 &middot; previous, sharing this discourse's exact closing formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an6.106/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-6.105.html">AN 6.105 &middot; States of Existence</a> &mdash; previous, '
+        "sharing this discourse's exact closing formula.",
+        '<a href="an-6.76.html">AN 6.76 &middot; Perfection</a> &mdash; earlier, source of '
+        "this discourse's three conceits.",
+    ],
+)
