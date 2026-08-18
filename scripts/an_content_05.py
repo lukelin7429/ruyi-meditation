@@ -44566,3 +44566,2034 @@ page(
         "framing.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.221 — Paṭhamadīghacārikasutta
+# --------------------------------------------------------------------------- #
+VAGGA_23 = "<em>Dīghacārikavagga</em> &mdash; the twenty-third chapter of the Fives"
+
+page(
+    221, "Paṭhamadīghacārika", "Long Wandering (1st)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.221 — Long Wandering (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamadīghacārikasutta, opening the Dīghacārikavagga — five drawbacks "
+        "of constant, aimless wandering, paired with the benefits of a "
+        "reasonable amount of travel. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "opening a new chapter with practical guidance"),
+    ],
+    why=(
+        "This chapter opens with a genuinely balanced piece of practical "
+        "guidance: not a condemnation of wandering itself, but a measured "
+        "case for moderation, naming what's lost by wandering constantly and "
+        "aimlessly, and what's gained by a reasonable amount instead."),
+    guide=[
+        ("A new chapter on the practicalities of travel", [
+            "The Dīghacārikavagga (&ldquo;Long Wandering&rdquo;) opens a "
+            "chapter concerned with the practical costs and benefits of how a "
+            "mendicant moves through the world &mdash; travel, dwelling "
+            "length, and the social entanglements each brings."]),
+        ("Five drawbacks of constant wandering", [
+            "Not learning new things; not clarifying what's already learned; "
+            "lacking confidence in some of what's learned; contracting severe "
+            "illness; and having no friends &mdash; a picture of instability "
+            "undermining both intellectual and social continuity."]),
+        ("Five matching benefits", [
+            "The positive mirror: learning new things, clarifying what's "
+            "known, gaining confidence in what's learned, avoiding severe "
+            "illness, and having friends &mdash; the rewards of "
+            "<em>samavatthacāra</em>, a reasonable, measured amount of "
+            "travel."]),
+        ("Not a case against wandering, but against excess", [
+            "The title's careful phrasing &mdash; <em>dīghacārikaṁ "
+            "anavatthacārikaṁ</em>, &lsquo;long and aimless wandering&rsquo; "
+            "&mdash; makes clear the concern isn't travel itself, which the "
+            "wandering mendicant tradition depends on, but travel without "
+            "purpose or settled rhythm."]),
+        ("What follows", [
+            "AN 5.222 restates this same basic structure with a different "
+            "middle emphasis, shifting from learning to spiritual "
+            "achievement &mdash; a matched pair, in the same style as this "
+            "nipāta's earlier paired discourses."]),
+    ],
+    terms=[
+        ("dīghacārikaṁ anavatthacārikaṁ",
+         "&ldquo;long and aimless wandering&rdquo; &mdash; this discourse's "
+         "title concept, the negative behavior described."),
+        ("samavatthacāra",
+         "&ldquo;a reasonable, measured amount of wandering&rdquo; &mdash; "
+         "the positive counterpart."),
+        ("assutaṁ na suṇāti",
+         "&ldquo;doesn't learn new things&rdquo; &mdash; the first drawback "
+         "of constant wandering."),
+        ("gāḷhaṁ rogātaṅkaṁ phusati",
+         "&ldquo;contracts a severe illness&rdquo; &mdash; a physical cost "
+         "of instability, appearing in both this discourse and AN 5.222."),
+        ("mittavā",
+         "&ldquo;having friends&rdquo; &mdash; the final benefit of "
+         "moderate wandering, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of constant wandering, and "
+        "five benefits of a reasonable amount. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of long, aimless wandering"),
+        ("p", "&sect;1", "an5.221:1.1-1.4"),
+        ("h3", "Five benefits of a reasonable amount of wandering"),
+        ("p", "&sect;2", "an5.221:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Dīghacārikavagga, 'Long Wandering'",
+             "Akkosakavagga, 'Abuse'",
+             "Āvāsikavagga, 'A Resident Mendicant'",
+             "Duccaritavagga, 'Bad Conduct'"],
+         "correct": 0,
+         "expl": "This session's twenty-third chapter."},
+        {"q": "What five drawbacks does this discourse name for constant, aimless wandering?",
+         "opts": [
+             "Not learning new things, not clarifying what's known, lacking confidence, severe illness, and no friends",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A picture of instability undermining intellectual and social continuity."},
+        {"q": "What does the discourse's careful phrasing, 'long AND aimless wandering', suggest?",
+         "opts": [
+             "The concern isn't travel itself, but travel without purpose or settled rhythm",
+             "All travel is condemned outright",
+             "Only short trips are ever acceptable",
+             "Wandering has no connection to learning or friendship at all"],
+         "correct": 0,
+         "expl": "The wandering mendicant tradition depends on travel; this discourse targets excess."},
+        {"q": "What does 'samavatthacāra' mean?",
+         "opts": [
+             "A reasonable, measured amount of wandering",
+             "Complete cessation of all travel",
+             "Wandering only at night",
+             "A formal pilgrimage requirement"],
+         "correct": 0,
+         "expl": "The positive counterpart to constant, aimless wandering."},
+        {"q": "What is the final benefit named for a reasonable amount of wandering?",
+         "opts": [
+             "Having friends",
+             "Great wealth",
+             "Formal ordination",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "Closing the list of five benefits."},
+        {"q": "What does 'gāḷhaṁ rogātaṅkaṁ phusati' mean?",
+         "opts": [
+             "Contracts a severe illness",
+             "Achieves perfect health",
+             "Loses all possessions",
+             "Gains many friends"],
+         "correct": 0,
+         "expl": "A physical cost of instability, shared with AN 5.222."},
+        {"q": "What discourse follows, restating this structure with a different emphasis?",
+         "opts": [
+             "AN 5.222, Long Wandering (2nd)",
+             "AN 5.230, Black Snakes (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Shifting from learning to spiritual achievement."},
+        {"q": "What does 'assutaṁ na suṇāti' mean?",
+         "opts": [
+             "Doesn't learn new things",
+             "Learns everything immediately",
+             "Refuses to teach others",
+             "Forgets only what's already known"],
+         "correct": 0,
+         "expl": "The first drawback of constant wandering."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "Two paired five-item lists, drawbacks then benefits",
+             "A single five-item list with no positive mirror",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "A balanced, measured teaching."},
+        {"q": "What broader concern does this chapter address, beginning with this discourse?",
+         "opts": [
+             "The practical costs and benefits of how a mendicant moves through the world",
+             "The proper method for formal debate",
+             "The five precepts specifically",
+             "Rules for lay ordination"],
+         "correct": 0,
+         "expl": "Travel, dwelling length, and social entanglements."},
+    ],
+    marginalia=[
+        ("Five drawbacks of excess", [
+            "no new learning &middot;",
+            "no clarity &middot; no",
+            "confidence &middot;",
+            "illness &middot; no friends",
+        ]),
+        ("Moderation, not prohibition", [
+            "against aimlessness,",
+            "not travel itself",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">samavatthacāra</span>",
+            "&mdash; a reasonable",
+            "amount of wandering",
+        ]),
+        ("Cross-references", [
+            "AN 5.222 &middot; next: the same structure, a different middle "
+            "emphasis",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.221/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.220.html">AN 5.220 &middot; About Madhurā</a> &mdash; the '
+        "previous chapter's closing discourse.",
+        '<a href="an-5.222.html">AN 5.222 &middot; Long Wandering (2nd)</a> '
+        "&mdash; next: the same structure, a different middle emphasis.",
+        '<a href="an-5.223.html">AN 5.223 &middot; Overstaying</a> &mdash; later '
+        "in this chapter, the companion concern of staying too long in one "
+        "place.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.222 — Dutiyadīghacārikasutta
+# --------------------------------------------------------------------------- #
+page(
+    222, "Dutiyadīghacārika", "Long Wandering (2nd)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.222 — Long Wandering (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyadīghacārikasutta — the same structure as AN 5.221, restated "
+        "with spiritual achievement in place of learning. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, identical frame to AN 5.221"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a "
+                       "variant restatement"),
+    ],
+    why=(
+        "The second of this pair of wandering discourses, keeping AN 5.221's "
+        "opening and closing items unchanged but replacing its concern with "
+        "learning with a concern for spiritual achievement itself &mdash; "
+        "the same instability, measured against practice rather than study."),
+    guide=[
+        ("The same frame, a different middle concern", [
+            "As in AN 5.221, contracting severe illness and lacking friends "
+            "close the list unchanged. What changes is the opening three "
+            "items: rather than learning, this discourse names spiritual "
+            "achievement (<em>adhigama</em>) as what constant wandering "
+            "undermines."]),
+        ("Five drawbacks of instability for practice", [
+            "Not achieving what's unachieved; what's achieved falling away; "
+            "and losing confidence in some of what's achieved &mdash; "
+            "echoing AN 5.212's language for a disruptive Saṅgha member, now "
+            "applied to the disruption caused by one's own restless travel."]),
+        ("Five matching benefits", [
+            "Achieving the unachieved; what's achieved not falling away; "
+            "confidence in what's achieved; avoiding severe illness; and "
+            "having friends &mdash; the exact mirror, closing the same way "
+            "as AN 5.221."]),
+        ("Learning and achievement, two related costs of the same instability", [
+            "Read together, AN 5.221 and AN 5.222 suggest constant wandering "
+            "damages practice on two fronts: intellectually, by preventing "
+            "sustained learning, and experientially, by preventing sustained "
+            "meditative progress &mdash; the same root problem, shown from "
+            "two angles."]),
+        ("A matched pair, in this nipāta's established style", [
+            "This close pairing &mdash; identical frame, varied middle "
+            "&mdash; follows the same pattern already seen at AN 5.215&ndash;216 "
+            "and elsewhere: a single underlying concern given two "
+            "complementary statements rather than one exhaustive list."]),
+    ],
+    terms=[
+        ("anadhigataṁ nādhigacchati",
+         "&ldquo;doesn't achieve the unachieved&rdquo; &mdash; the first "
+         "drawback, echoing AN 5.212's language for a disruptive Saṅgha "
+         "member."),
+        ("adhigatā parihāyati",
+         "&ldquo;what's achieved falls away&rdquo; &mdash; the second "
+         "drawback, actual spiritual regression."),
+        ("adhigatenekaccena avisārado",
+         "&ldquo;lacking confidence in some of what's achieved&rdquo; "
+         "&mdash; the third drawback."),
+        ("gāḷhaṁ rogātaṅkaṁ phusati, mittavā",
+         "&ldquo;contracts severe illness, has friends&rdquo; &mdash; the "
+         "two items unchanged from AN 5.221."),
+        ("samavatthacāra",
+         "&ldquo;a reasonable, measured amount of wandering&rdquo; &mdash; "
+         "the shared positive counterpart across both discourses."),
+    ],
+    text_intro=(
+        "The discourse in full: the same structure as AN 5.221, with "
+        "spiritual achievement in place of learning. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of long, aimless wandering"),
+        ("p", "&sect;1", "an5.222:1.1-1.4"),
+        ("h3", "Five benefits of a reasonable amount of wandering"),
+        ("p", "&sect;2", "an5.222:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What stays unchanged between this discourse and AN 5.221?",
+         "opts": [
+             "The final two items: contracting severe illness and lacking friends",
+             "Every single item in the list",
+             "Nothing at all — the two discourses are unrelated",
+             "Only the title, with completely different content"],
+         "correct": 0,
+         "expl": "The frame stays the same; only the opening three items vary."},
+        {"q": "What does this discourse replace 'learning' with as its central concern?",
+         "opts": [
+             "Spiritual achievement (adhigama)",
+             "Material wealth",
+             "Physical health",
+             "Social reputation"],
+         "correct": 0,
+         "expl": "Instability measured against practice rather than study."},
+        {"q": "What does 'anadhigataṁ nādhigacchati' mean, and where else does similar language appear?",
+         "opts": [
+             "'Doesn't achieve the unachieved' — echoing AN 5.212's language for a disruptive Saṅgha member",
+             "'Achieves everything immediately' — unique to this discourse",
+             "'Forgets everything learned' — echoing AN 5.221 exactly",
+             "'Gains great wealth' — unrelated to any other discourse"],
+         "correct": 0,
+         "expl": "The same phrasing used for someone who starts fights and disputes."},
+        {"q": "What does 'adhigatā parihāyati' mean?",
+         "opts": [
+             "What's achieved falls away",
+             "What's achieved is doubled",
+             "Nothing has ever been achieved",
+             "Achievement is permanent regardless of conduct"],
+         "correct": 0,
+         "expl": "Actual spiritual regression, the second drawback."},
+        {"q": "Read together, what do AN 5.221 and AN 5.222 suggest about constant wandering?",
+         "opts": [
+             "It damages practice both intellectually (learning) and experientially (meditative progress)",
+             "It has no genuine drawbacks at all",
+             "It only affects physical health, nothing else",
+             "The two discourses contradict each other directly"],
+         "correct": 0,
+         "expl": "The same root problem, shown from two angles."},
+        {"q": "What earlier matched pair in this nipāta does this same structure resemble?",
+         "opts": [
+             "AN 5.215-216, on tolerance and intolerance",
+             "A pattern found nowhere else in this collection",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20"],
+         "correct": 0,
+         "expl": "Identical frame, varied middle — a recurring structural choice."},
+        {"q": "What does 'adhigatenekaccena avisārado' mean?",
+         "opts": [
+             "Lacking confidence in some of what's achieved",
+             "Full confidence in everything achieved",
+             "Never having achieved anything at all",
+             "Formally renouncing all future achievement"],
+         "correct": 0,
+         "expl": "The third drawback in this discourse's version."},
+        {"q": "What is the final benefit named for a reasonable amount of wandering?",
+         "opts": [
+             "Having friends",
+             "Great wealth",
+             "Formal ordination",
+             "Immediate liberation"],
+         "correct": 0,
+         "expl": "Unchanged from AN 5.221's closing item."},
+        {"q": "What discourse follows, shifting from wandering to a related concern about dwelling length?",
+         "opts": [
+             "AN 5.223, Overstaying",
+             "AN 5.230, Black Snakes (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five drawbacks of staying too long in one place."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Same frame, new middle", [
+            "achievement, not",
+            "learning",
+        ]),
+        ("Two fronts of the same problem", [
+            "intellectual, and",
+            "meditative regression",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">adhigama</span>",
+            "&mdash; spiritual",
+            "achievement",
+        ]),
+        ("Cross-references", [
+            "AN 5.221 &middot; this discourse's companion, sharing the same "
+            "frame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.222/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.221.html">AN 5.221 &middot; Long Wandering (1st)</a> '
+        "&mdash; this discourse's companion, sharing the same frame.",
+        '<a href="an-5.223.html">AN 5.223 &middot; Overstaying</a> &mdash; next: '
+        "the companion concern of staying too long in one place.",
+        '<a href="an-5.212.html">AN 5.212 &middot; Starting Fights</a> &mdash; '
+        "where this same language for stalled achievement first appears.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.223 — Atinivāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    223, "Atinivāsa", "Overstaying",
+    vagga=VAGGA_23,
+    meta_title="AN 5.223 — Overstaying | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Atinivāsasutta — five drawbacks of overstaying in one dwelling, from "
+        "accumulating possessions to becoming attached to the place itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "the mirror concern to this chapter's wandering "
+                       "discourses"),
+    ],
+    why=(
+        "The mirror concern to AN 5.221&ndash;222's wandering discourses: "
+        "just as too much movement has its costs, so does staying in one "
+        "place too long &mdash; accumulating possessions, taking on too many "
+        "duties, and finally becoming genuinely attached to a dwelling one "
+        "should be ready to leave."),
+    guide=[
+        ("Five drawbacks of overstaying", [
+            "Accumulating a lot of stuff and storing it up; accumulating a "
+            "lot of medicine and storing it up; taking on so many duties and "
+            "responsibilities that one becomes indispensably capable in "
+            "everything needed; mixing too closely and inappropriately with "
+            "laypeople and other renunciates; and, closing the list, "
+            "genuinely missing the place when finally leaving it."]),
+        ("Material accumulation, then social entanglement, then attachment", [
+            "The five drawbacks build in a clear sequence: first material "
+            "(possessions, medicine), then social (excessive duties, "
+            "inappropriate closeness with laypeople), and finally emotional "
+            "&mdash; the culminating attachment that makes leaving genuinely "
+            "difficult."]),
+        ("Five matching benefits", [
+            "The clean mirror: not accumulating excess possessions or "
+            "medicine, not becoming indispensably burdened with duties, not "
+            "mixing inappropriately with laypeople, and leaving a dwelling "
+            "without reluctance when the time comes."]),
+        ("A companion concern to this chapter's opening pair", [
+            "Cross-ref AN 5.221&ndash;222: together, these three discourses "
+            "sketch a single balanced ideal &mdash; neither constant, "
+            "aimless wandering nor prolonged, entangling residence, but "
+            "movement and settling both practiced with moderation."]),
+        ("What follows", [
+            "AN 5.224 continues with the same title, &lsquo;overstaying&rsquo;, "
+            "but names an entirely different set of five drawbacks: the five "
+            "kinds of stinginess."]),
+    ],
+    terms=[
+        ("atinivāsa",
+         "&ldquo;overstaying&rdquo; &mdash; this discourse's title concept, "
+         "remaining in one dwelling too long."),
+        ("bahubhaṇḍo, bahubhaṇḍasannicayo",
+         "&ldquo;having lots of stuff, storing it up&rdquo; &mdash; the "
+         "first drawback, material accumulation."),
+        ("saṁsaṭṭho viharati gahaṭṭhapabbajitehi",
+         "&ldquo;mixing closely with laypeople and renunciates&rdquo; "
+         "&mdash; the fourth, social drawback."),
+        ("sāpekkho pakkamati",
+         "&ldquo;leaves with reluctance, missing the place&rdquo; &mdash; "
+         "the fifth and culminating drawback, genuine attachment."),
+        ("samavatthavāsa",
+         "&ldquo;staying for a reasonable length of time&rdquo; &mdash; the "
+         "positive counterpart to overstaying."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of overstaying, and five "
+        "benefits of staying a reasonable length of time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of overstaying"),
+        ("p", "&sect;1", "an5.223:1.1-1.4"),
+        ("h3", "Five benefits of staying a reasonable length of time"),
+        ("p", "&sect;2", "an5.223:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks does this discourse name for overstaying in a dwelling?",
+         "opts": [
+             "Accumulating possessions and medicine, excessive duties, inappropriate closeness with laypeople, and reluctance to leave",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A sequence from material accumulation to emotional attachment."},
+        {"q": "What sequence do the five drawbacks build through, according to this guide?",
+         "opts": [
+             "Material accumulation, then social entanglement, then emotional attachment",
+             "A random, unordered list with no progression",
+             "A decline from most to least significant",
+             "Purely physical concerns throughout"],
+         "correct": 0,
+         "expl": "Culminating in genuine attachment to the place."},
+        {"q": "What does 'sāpekkho pakkamati' mean?",
+         "opts": [
+             "Leaves with reluctance, missing the place",
+             "Leaves eagerly, without a second thought",
+             "Refuses to ever leave",
+             "Formally requests permission to stay longer"],
+         "correct": 0,
+         "expl": "The fifth and culminating drawback, genuine attachment."},
+        {"q": "How does this discourse relate to AN 5.221-222?",
+         "opts": [
+             "It's the mirror concern — staying too long, rather than wandering too much",
+             "It directly contradicts those discourses",
+             "It has no relation to those discourses at all",
+             "It repeats those discourses word for word"],
+         "correct": 0,
+         "expl": "Together sketching a single balanced ideal."},
+        {"q": "What ideal do AN 5.221-223 together suggest?",
+         "opts": [
+             "Neither constant wandering nor prolonged residence, but both practiced with moderation",
+             "Only constant wandering is ever acceptable",
+             "Only permanent residence is ever acceptable",
+             "Neither wandering nor settling has any spiritual significance"],
+         "correct": 0,
+         "expl": "A balanced middle path between two extremes."},
+        {"q": "What does 'bahubhaṇḍo, bahubhaṇḍasannicayo' mean?",
+         "opts": [
+             "Having lots of stuff, and storing it up",
+             "Having very little, and giving it away",
+             "A formal ordination requirement",
+             "A type of meditation retreat"],
+         "correct": 0,
+         "expl": "The first drawback, material accumulation."},
+        {"q": "What does this discourse's fourth drawback concern?",
+         "opts": [
+             "Mixing too closely and inappropriately with laypeople and other renunciates",
+             "Excessive physical exercise",
+             "Formal legal disputes",
+             "A dietary restriction"],
+         "correct": 0,
+         "expl": "The social drawback, before the culminating attachment."},
+        {"q": "What does 'samavatthavāsa' mean?",
+         "opts": [
+             "Staying for a reasonable length of time",
+             "Never staying anywhere at all",
+             "A permanent, unmovable residence",
+             "A formal pilgrimage requirement"],
+         "correct": 0,
+         "expl": "The positive counterpart to overstaying."},
+        {"q": "What discourse follows, sharing this discourse's title but naming different content?",
+         "opts": [
+             "AN 5.224, Stingy",
+             "AN 5.230, Black Snakes (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "The five kinds of stinginess, under the same title 'overstaying'."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Material, then social, then emotional", [
+            "possessions &middot;",
+            "duties &middot;",
+            "closeness &middot;",
+            "attachment",
+        ]),
+        ("A balanced ideal", [
+            "neither wandering,",
+            "nor overstaying",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">atinivāsa</span>",
+            "&mdash; overstaying",
+        ]),
+        ("Cross-references", [
+            "AN 5.221&ndash;222 &middot; the mirror concern, on excessive "
+            "wandering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.223/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.222.html">AN 5.222 &middot; Long Wandering (2nd)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; next: the '
+        "same title, a different set of five drawbacks.",
+        '<a href="an-5.221.html">AN 5.221 &middot; Long Wandering (1st)</a> '
+        "&mdash; the mirror concern, on excessive wandering.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.224 — Maccharīsutta
+# --------------------------------------------------------------------------- #
+page(
+    224, "Maccharī", "Stingy",
+    vagga=VAGGA_23,
+    meta_title="AN 5.224 — Stingy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Maccharīsutta — the classical five kinds of stinginess, framed here "
+        "as a drawback of overstaying rather than a standalone vice. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a "
+                       "classical formula in an unexpected frame"),
+    ],
+    why=(
+        "Sharing its title with AN 5.223 but naming entirely different "
+        "content, this discourse gives the classical five kinds of "
+        "stinginess &mdash; over dwellings, patronage, possessions, praise, "
+        "and even the teaching itself &mdash; framing them, notably, as "
+        "consequences of overstaying rather than a standalone vice."),
+    guide=[
+        ("The five classical objects of stinginess", [
+            "Stinginess with dwellings (<em>āvāsamacchariya</em>); with "
+            "families, meaning the patronage relationships a mendicant "
+            "depends on (<em>kulamacchariya</em>); with material things "
+            "(<em>lābhamacchariya</em>); with praise "
+            "(<em>vaṇṇamacchariya</em>); and, most strikingly, with the "
+            "teaching itself (<em>dhammamacchariya</em>)."]),
+        ("Stinginess with the teaching, the most surprising item", [
+            "The fifth item is genuinely pointed: hoarding the Dhamma, "
+            "unwilling to share it freely, treated as a form of stinginess "
+            "on par with hoarding possessions or a comfortable dwelling "
+            "&mdash; a reminder that even spiritual knowledge can be grasped "
+            "at rather than offered."]),
+        ("Overstaying as the cause, not simply the occasion", [
+            "This discourse's framing is worth noticing carefully: these "
+            "five stingy attitudes are named as drawbacks specifically "
+            "<em>of overstaying</em>, not as an independent character flaw "
+            "&mdash; suggesting prolonged residence itself, with its "
+            "accumulated possessions and settled relationships, is where "
+            "these forms of possessiveness actually take root."]),
+        ("Five matching benefits", [
+            "Not being stingy in any of the five domains &mdash; the clean "
+            "negation, presented as a benefit of staying only a reasonable "
+            "length of time, per AN 5.223's positive framing."]),
+        ("A formula with a wider life beyond this discourse", [
+            "This exact five-kind classification of stinginess appears "
+            "elsewhere in the early texts as a standalone teaching in its "
+            "own right; this discourse's distinctive move is placing it "
+            "specifically within the context of dwelling-length, rather "
+            "than presenting it independently."]),
+    ],
+    terms=[
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; this discourse's central "
+         "concept, named across five distinct objects."),
+        ("āvāsamacchariya",
+         "&ldquo;stinginess with dwellings&rdquo; &mdash; the first of the "
+         "five classical objects."),
+        ("kulamacchariya",
+         "&ldquo;stinginess with families&rdquo; &mdash; referring to the "
+         "patronage relationships supporting a mendicant."),
+        ("dhammamacchariya",
+         "&ldquo;stinginess with the teaching&rdquo; &mdash; the fifth and "
+         "most pointed item, hoarding spiritual knowledge itself."),
+        ("samavatthavāsa",
+         "&ldquo;staying for a reasonable length of time&rdquo; &mdash; the "
+         "positive framing this discourse's benefits are attributed to."),
+    ],
+    text_intro=(
+        "The discourse in full: the five kinds of stinginess, framed as "
+        "drawbacks of overstaying. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of stinginess"),
+        ("p", "&sect;1", "an5.224:1.1-1.4"),
+        ("h3", "Freedom from stinginess"),
+        ("p", "&sect;2", "an5.224:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five kinds of stinginess does this discourse name?",
+         "opts": [
+             "Dwellings, families (patronage), material things, praise, and the teaching",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The classical five-part classification of stinginess."},
+        {"q": "What is genuinely striking about the fifth item, 'dhammamacchariya'?",
+         "opts": [
+             "It treats hoarding the teaching itself as a form of stinginess, on par with hoarding possessions",
+             "It has no connection to the other four items",
+             "It applies only to laypeople, never to mendicants",
+             "It concerns only formal ordination requirements"],
+         "correct": 0,
+         "expl": "A reminder that even spiritual knowledge can be grasped at."},
+        {"q": "How does this discourse frame these five kinds of stinginess?",
+         "opts": [
+             "As drawbacks specifically of overstaying, not as an independent character flaw",
+             "As entirely unrelated to dwelling length",
+             "As virtues to be cultivated",
+             "As applicable only to laypeople"],
+         "correct": 0,
+         "expl": "Prolonged residence as where possessiveness takes root."},
+        {"q": "What does 'āvāsamacchariya' mean?",
+         "opts": [
+             "Stinginess with dwellings",
+             "Generosity with dwellings",
+             "A formal ordination requirement",
+             "A type of meditation"],
+         "correct": 0,
+         "expl": "The first of the five classical objects of stinginess."},
+        {"q": "What does 'kulamacchariya' refer to?",
+         "opts": [
+             "Stinginess with families — hoarding patronage relationships a mendicant depends on",
+             "Stinginess with formal titles",
+             "A refusal to marry",
+             "A dietary restriction"],
+         "correct": 0,
+         "expl": "The second of the five objects."},
+        {"q": "Where else does this exact five-kind classification of stinginess appear, according to this guide?",
+         "opts": [
+             "Elsewhere in the early texts, as a standalone teaching in its own right",
+             "Nowhere else in the early Buddhist canon",
+             "Only in later commentarial literature",
+             "Only within this single discourse"],
+         "correct": 0,
+         "expl": "This discourse's distinctive move is its dwelling-length framing."},
+        {"q": "How does this discourse relate to AN 5.223?",
+         "opts": [
+             "It shares the same title, 'overstaying', but names entirely different content",
+             "It is word-for-word identical to AN 5.223",
+             "It directly contradicts AN 5.223's conclusions",
+             "It has no relation to AN 5.223 at all"],
+         "correct": 0,
+         "expl": "A different, complementary treatment of the same title."},
+        {"q": "What does 'vaṇṇamacchariya' mean?",
+         "opts": [
+             "Stinginess with praise",
+             "Stinginess with color or appearance",
+             "A formal legal proceeding",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The fourth of the five classical objects of stinginess."},
+        {"q": "What is this discourse's positive counterpart?",
+         "opts": [
+             "Freedom from all five kinds of stinginess",
+             "An entirely different set of five qualities",
+             "Only two of the five items reversed",
+             "No positive counterpart is given"],
+         "correct": 0,
+         "expl": "The clean negation across all five domains."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Five objects of stinginess", [
+            "dwellings &middot;",
+            "patronage &middot;",
+            "things &middot; praise &middot;",
+            "the teaching itself",
+        ]),
+        ("Prolonged stay, its root", [
+            "possessiveness takes",
+            "hold over time",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dhammamacchariya</span>",
+            "&mdash; hoarding the",
+            "teaching",
+        ]),
+        ("Cross-references", [
+            "AN 5.223 &middot; this discourse's companion, sharing the same "
+            "title",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.224/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.223.html">AN 5.223 &middot; Overstaying</a> &mdash; this '
+        "discourse's companion, sharing the same title.",
+        '<a href="an-5.225.html">AN 5.225 &middot; Visiting Families (1st)</a> '
+        "&mdash; next: a shift to disciplinary drawbacks of visiting "
+        "families.",
+        '<a href="an-5.175.html">AN 5.175 &middot; Corpse-worker</a> &mdash; '
+        "another discourse concerned with where a lay follower directs "
+        "generosity.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.225 — Paṭhamakulūpakasutta
+# --------------------------------------------------------------------------- #
+page(
+    225, "Paṭhamakulūpaka", "Visiting Families (1st)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.225 — Visiting Families (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamakulūpakasutta — five specific disciplinary offenses a "
+        "mendicant risks when visiting lay households, grounded directly in "
+        "the monastic code. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "grounded directly in specific monastic rules"),
+    ],
+    why=(
+        "A discourse grounded directly in the disciplinary code: five "
+        "specific offenses a mendicant genuinely risks committing when "
+        "visiting lay households, four of them named with the precision of "
+        "actual Vinaya rules rather than general moral exhortation."),
+    guide=[
+        ("Four offenses with real procedural specificity", [
+            "Wandering without leave; sitting privately with someone of the "
+            "opposite sex; sitting in a hidden place with someone of the "
+            "opposite sex; and teaching more than five or six sentences to "
+            "someone of the opposite sex &mdash; each named with the kind of "
+            "procedural precision found in the monastic code itself, not "
+            "general moral language."]),
+        ("A striking, specific numerical limit", [
+            "The third rule's specificity is worth pausing on: not a vague "
+            "caution against &lsquo;too much&rsquo; teaching, but a "
+            "concrete limit of five or six sentences &mdash; a genuinely "
+            "precise boundary, reflecting how carefully this area of "
+            "conduct was regulated."]),
+        ("A fifth item, more general", [
+            "The list closes with something less procedural: simply having "
+            "a lot of sensual thoughts &mdash; naming the underlying "
+            "psychological risk that the four specific rules exist to guard "
+            "against."]),
+        ("No positive mirror given", [
+            "Unlike most of this chapter's paired lists, this discourse "
+            "offers no counterpart benefits &mdash; only the bare "
+            "enumeration of risks, without further elaboration or "
+            "reassurance."]),
+        ("A companion discourse follows", [
+            "AN 5.226, immediately following, moves from these specific "
+            "procedural risks to a different kind of teaching entirely: a "
+            "step-by-step causal chain showing how repeated, close contact "
+            "leads toward exactly the outcome these rules are meant to "
+            "prevent."]),
+    ],
+    terms=[
+        ("kulūpaka",
+         "&ldquo;one who visits families&rdquo; &mdash; this discourse's "
+         "title concept and central subject."),
+        ("anāmantacāra",
+         "&ldquo;wandering without leave&rdquo; &mdash; the first named "
+         "offense, a specific procedural violation."),
+        ("raho nisajjā, paṭicchanne āsane",
+         "&ldquo;sitting privately, sitting in a hidden place&rdquo; "
+         "&mdash; with someone of the opposite sex, the second and third "
+         "named offenses."),
+        ("uttari chappañcavācāhi dhammaṁ desento",
+         "&ldquo;teaching more than five or six sentences&rdquo; &mdash; a "
+         "concrete, specific numerical limit."),
+        ("kāmasaṅkappabahulo",
+         "&ldquo;having a lot of sensual thoughts&rdquo; &mdash; the fifth, "
+         "more general drawback closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: five specific drawbacks a mendicant risks "
+        "when visiting families. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of visiting families"),
+        ("p", "&sect;1", "an5.225:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What kind of language does this discourse use for its first four items?",
+         "opts": [
+             "The precision of actual monastic disciplinary rules, not general moral exhortation",
+             "Purely poetic, symbolic language",
+             "Vague, general moral advice with no specifics",
+             "A narrative with named characters"],
+         "correct": 0,
+         "expl": "Grounded directly in the disciplinary code."},
+        {"q": "What specific numerical limit does this discourse name?",
+         "opts": [
+             "Teaching more than five or six sentences to someone of the opposite sex",
+             "Visiting no more than three families per day",
+             "Speaking no more than ten words total",
+             "Staying no longer than one hour per visit"],
+         "correct": 0,
+         "expl": "A genuinely precise boundary, reflecting careful regulation."},
+        {"q": "What does 'anāmantacāra' mean?",
+         "opts": [
+             "Wandering without leave",
+             "Wandering with proper permission",
+             "Refusing to travel at all",
+             "A formal ordination ceremony"],
+         "correct": 0,
+         "expl": "The first named offense, a procedural violation."},
+        {"q": "What is the fifth and final item in this discourse's list?",
+         "opts": [
+             "Having a lot of sensual thoughts",
+             "A formal legal proceeding",
+             "Loss of wealth",
+             "A physical illness"],
+         "correct": 0,
+         "expl": "The underlying psychological risk the specific rules guard against."},
+        {"q": "How does this discourse differ structurally from most of this chapter's other discourses?",
+         "opts": [
+             "It offers no positive mirror at all, only the bare enumeration of risks",
+             "It is the only discourse in the chapter with a positive mirror",
+             "It contains no five-item list at all",
+             "It is written entirely in verse"],
+         "correct": 0,
+         "expl": "No counterpart benefits given, unlike most paired lists in this chapter."},
+        {"q": "What does 'raho nisajjā' and 'paṭicchanne āsane' both concern?",
+         "opts": [
+             "Sitting privately, and sitting in a hidden place, with someone of the opposite sex",
+             "Formal legal testimony",
+             "The proper method for teaching a large assembly",
+             "Rules for almsgiving"],
+         "correct": 0,
+         "expl": "The second and third named offenses."},
+        {"q": "What does 'kāmasaṅkappabahulo' mean?",
+         "opts": [
+             "Having a lot of sensual thoughts",
+             "Having no thoughts whatsoever",
+             "Formally renouncing all thought",
+             "Achieving complete mental clarity"],
+         "correct": 0,
+         "expl": "The fifth, more general drawback closing the list."},
+        {"q": "What discourse follows, moving to a different kind of teaching?",
+         "opts": [
+             "AN 5.226, Visiting Families (2nd) — a step-by-step causal chain",
+             "AN 5.230, Black Snakes (2nd)",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Showing how repeated contact leads toward the outcome these rules prevent."},
+        {"q": "What does 'kulūpaka' mean?",
+         "opts": [
+             "One who visits families",
+             "One who avoids all families",
+             "A formal title for a senior mendicant",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "This discourse's title concept."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Four specific offenses", [
+            "unauthorized travel &middot;",
+            "private sitting &middot;",
+            "hidden sitting &middot;",
+            "over-length teaching",
+        ]),
+        ("A precise numerical limit", [
+            "five or six",
+            "sentences, no more",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kulūpaka</span>",
+            "&mdash; one who visits",
+            "families",
+        ]),
+        ("Cross-references", [
+            "AN 5.226 &middot; next: the same concern, as a causal chain",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.225/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.224.html">AN 5.224 &middot; Stingy</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.226.html">AN 5.226 &middot; Visiting Families (2nd)</a> '
+        "&mdash; next: the same concern, presented as a causal chain.",
+        '<a href="an-5.192.html">AN 5.192 &middot; With the Brahmin Doṇa</a> '
+        "&mdash; another discourse naming precise, procedural rules for "
+        "conduct.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.226 — Dutiyakulūpakasutta
+# --------------------------------------------------------------------------- #
+page(
+    226, "Dutiyakulūpaka", "Visiting Families (2nd)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.226 — Visiting Families (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyakulūpakasutta — a step-by-step causal chain from seeing to "
+        "closeness to intimacy to being swamped by lust, and what follows "
+        "from there. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a four-step causal chain, then a threefold branching "
+                 "outcome"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "compact but genuinely serious psychological chain"),
+    ],
+    why=(
+        "Where AN 5.225 named specific disciplinary offenses, this "
+        "discourse maps the underlying psychological process those rules "
+        "exist to interrupt: a compact, four-step chain from ordinary "
+        "seeing to being genuinely swamped by lust, with three possible "
+        "endings once that point is reached."),
+    guide=[
+        ("A causal chain, not a flat list", [
+            "Unlike this chapter's usual five-item enumerations, this "
+            "discourse is structured as a genuine sequence: frequent "
+            "seeing leads to closeness; closeness, once established, leads "
+            "to intimacy; intimacy, once established, leads to being "
+            "overcome by lust &mdash; each stage explicitly building on the "
+            "one before it."]),
+        ("The precise phrase: 'seeing them, you become close'", [
+            "The chain's mechanism is stated almost clinically: "
+            "<em>dassane sati saṁsaggo</em>, &lsquo;given seeing, there is "
+            "closeness&rsquo; &mdash; not condemning ordinary contact "
+            "itself, but naming the specific progression by which repeated, "
+            "unguarded contact tends to develop on its own."]),
+        ("Three possible outcomes, once the mind is swamped", [
+            "Once lust has genuinely overcome the mind, the discourse names "
+            "three things that can be expected: leading the spiritual life "
+            "dissatisfied; committing one of the corrupt offenses "
+            "(<em>saṅkiliṭṭha āpatti</em>, the same term from AN 5.211); or "
+            "abandoning the training entirely and returning to lay life."]),
+        ("Prevention through interrupting the chain early", [
+            "Read alongside AN 5.225's specific procedural rules, this "
+            "discourse's real teaching is that those rules function as "
+            "early interruptions of a process that, left unchecked, tends "
+            "to escalate on its own &mdash; the value of the rules lies in "
+            "where in the chain they intervene."]),
+        ("An honest acknowledgment, not a claim about certainty", [
+            "The discourse's language throughout is one of expectation "
+            "(<em>pāṭikaṅkha</em>, &lsquo;can be expected&rsquo;), not "
+            "inevitability &mdash; describing a strong tendency this "
+            "specific psychological chain produces, not an unavoidable "
+            "outcome."]),
+    ],
+    terms=[
+        ("abhiṇhadassana",
+         "&ldquo;frequent seeing&rdquo; &mdash; the chain's opening "
+         "condition."),
+        ("saṁsagga, vissāsa",
+         "&ldquo;closeness, intimacy&rdquo; &mdash; the second and third "
+         "stages of the chain, each building on the one before."),
+        ("otāra",
+         "&ldquo;being overcome, swamped&rdquo; &mdash; the chain's final "
+         "stage, when lust genuinely takes hold of the mind."),
+        ("saṅkiliṭṭha āpatti",
+         "&ldquo;a corrupt offense&rdquo; &mdash; one of three possible "
+         "outcomes, the same term already seen at AN 5.211."),
+        ("sikkhaṁ paccakkhāya hīnāyāvattati",
+         "&ldquo;resigns the training and returns to a lesser life&rdquo; "
+         "&mdash; the most severe of the three possible outcomes named."),
+    ],
+    text_intro=(
+        "The discourse in full: the causal chain from seeing to being "
+        "swamped by lust, and what follows. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "From seeing to being overcome"),
+        ("p", "&sect;1", "an5.226:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from most others in this chapter?",
+         "opts": [
+             "It's a genuine causal chain, each stage building on the one before, not a flat five-item list",
+             "It is identical in structure to every other discourse in this chapter",
+             "It contains no sequence or progression at all",
+             "It is written entirely as a dialogue"],
+         "correct": 0,
+         "expl": "Seeing leads to closeness, closeness to intimacy, intimacy to being overcome."},
+        {"q": "What does 'dassane sati saṁsaggo' mean?",
+         "opts": [
+             "Given seeing, there is closeness",
+             "Given seeing, there is immediate liberation",
+             "Given seeing, nothing further happens",
+             "Given seeing, formal expulsion follows"],
+         "correct": 0,
+         "expl": "The chain's mechanism, stated almost clinically."},
+        {"q": "What three outcomes does this discourse name once lust has overcome the mind?",
+         "opts": [
+             "Dissatisfaction with the spiritual life, a corrupt offense, or abandoning the training",
+             "Immediate liberation, wealth, and fame",
+             "Formal punishment by kings",
+             "No outcomes are named at all"],
+         "correct": 0,
+         "expl": "Three possible endings once the chain reaches its final stage."},
+        {"q": "What does 'saṅkiliṭṭha āpatti' mean, and where else does it appear in this nipāta?",
+         "opts": [
+             "'A corrupt offense' — the same term already used at AN 5.211",
+             "'A formal compliment' — unique to this discourse",
+             "'A physical illness' — also at AN 5.207",
+             "'A type of robe' — also at AN 5.182"],
+         "correct": 0,
+         "expl": "One of three possible outcomes named here."},
+        {"q": "What does this discourse's real teaching suggest about AN 5.225's specific rules?",
+         "opts": [
+             "They function as early interruptions of a process that tends to escalate on its own",
+             "They are unrelated to any underlying psychological process",
+             "They are unnecessary given this discourse's teaching",
+             "They apply only after lust has already fully taken hold"],
+         "correct": 0,
+         "expl": "The value of the rules lies in where in the chain they intervene."},
+        {"q": "What does 'pāṭikaṅkha' suggest about how this discourse frames its conclusions?",
+         "opts": [
+             "As a strong tendency or expectation, not an absolute inevitability",
+             "As a guaranteed, unavoidable outcome in every case",
+             "As something that never actually occurs",
+             "As a formal legal verdict"],
+         "correct": 0,
+         "expl": "Describing a tendency, not a certainty."},
+        {"q": "What does 'otāra' mean?",
+         "opts": [
+             "Being overcome, swamped",
+             "Being completely free and unaffected",
+             "A formal ordination requirement",
+             "A type of meditation technique"],
+         "correct": 0,
+         "expl": "The chain's final stage, when lust genuinely takes hold."},
+        {"q": "What is the most severe of the three outcomes this discourse names?",
+         "opts": [
+             "Resigning the training and returning to a lesser, lay life",
+             "Simple dissatisfaction with practice",
+             "A minor verbal correction",
+             "Temporary illness"],
+         "correct": 0,
+         "expl": "The full abandonment of monastic training."},
+        {"q": "What does this discourse NOT condemn, according to the guide?",
+         "opts": [
+             "Ordinary contact itself — it names a specific progression from repeated, unguarded contact",
+             "Any form of contact whatsoever, under any circumstances",
+             "The training itself",
+             "Almsgiving by laypeople"],
+         "correct": 0,
+         "expl": "The concern is the specific unguarded progression, not contact as such."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("A four-step chain", [
+            "seeing &rarr; closeness",
+            "&rarr; intimacy &rarr;",
+            "overwhelmed",
+        ]),
+        ("Three possible endings", [
+            "dissatisfaction &middot;",
+            "a corrupt offense &middot;",
+            "leaving the training",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">otāra</span>",
+            "&mdash; being overcome,",
+            "swamped",
+        ]),
+        ("Cross-references", [
+            "AN 5.225 &middot; the specific procedural rules this chain's "
+            "logic underlies",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.226/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.225.html">AN 5.225 &middot; Visiting Families (1st)</a> '
+        "&mdash; the previous discourse, the specific rules this chain's "
+        "logic underlies.",
+        '<a href="an-5.227.html">AN 5.227 &middot; Riches</a> &mdash; next: a '
+        "shift to the drawbacks and benefits of material wealth.",
+        '<a href="an-5.211.html">AN 5.211 &middot; An Abuser</a> &mdash; where '
+        "&lsquo;saṅkiliṭṭha āpatti&rsquo; first appears in this chapter's "
+        "stretch of the collection.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.227 — Bhogasutta
+# --------------------------------------------------------------------------- #
+page(
+    227, "Bhoga", "Riches",
+    vagga=VAGGA_23,
+    meta_title="AN 5.227 — Riches | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhogasutta — a balanced teaching on wealth: five things that can "
+        "seize it away, and five genuinely legitimate uses for it. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a "
+                       "genuinely balanced teaching"),
+    ],
+    why=(
+        "A refreshingly even-handed teaching on wealth, addressed most "
+        "plausibly to lay listeners: not a condemnation of riches, but a "
+        "clear-eyed naming of what can take them away, paired with an "
+        "equally clear naming of what they're genuinely good for."),
+    guide=[
+        ("Five things wealth is vulnerable to", [
+            "Fire, water, kings, thieves, and unloved heirs &mdash; all of "
+            "them able to claim a share of one's wealth. The list is "
+            "notably impersonal: natural disaster, political power, crime, "
+            "and even one's own family's discontent are treated as equally "
+            "real threats to accumulated riches."]),
+        ("Wealth's vulnerability, not its inherent evil", [
+            "Nothing in this list condemns wealth itself; it simply states "
+            "plainly that wealth is never fully secure, subject to loss "
+            "from multiple directions at once &mdash; a sober assessment "
+            "rather than a moral judgment."]),
+        ("Five genuinely legitimate uses", [
+            "Making oneself happy; making one's parents happy; making "
+            "one's dependents &mdash; children, partners, and household "
+            "staff &mdash; happy; making friends and colleagues happy; and "
+            "establishing religious donations to ascetics and brahmins "
+            "that lead toward heaven."]),
+        ("A widening circle of beneficiaries", [
+            "Read in order, the five uses trace a widening circle: "
+            "oneself, then parents, then one's own household and "
+            "dependents, then friends and colleagues, and finally a "
+            "religious donation extending beyond one's own immediate "
+            "circle entirely &mdash; wealth's legitimate use moving "
+            "outward, not staying confined to the individual."]),
+        ("A model for wealth this collection doesn't often give", [
+            "Unlike some discourses elsewhere in this collection that treat "
+            "material accumulation with real suspicion (see AN 5.213's "
+            "concern with negligence, or AN 5.223's concern with "
+            "over-accumulation in a monastic dwelling), this discourse "
+            "offers a straightforwardly positive account of wealth "
+            "properly used &mdash; worth reading alongside those more "
+            "cautionary discourses, not in place of them."]),
+    ],
+    terms=[
+        ("aggisādhāraṇā, udakasādhāraṇā bhogā",
+         "&ldquo;wealth shared with fire, shared with water&rdquo; &mdash; "
+         "naming fire and flood as forces that can claim a portion of "
+         "one's riches."),
+        ("rājasādhāraṇā, corasādhāraṇā bhogā",
+         "&ldquo;wealth shared with kings, shared with thieves&rdquo; "
+         "&mdash; political and criminal claims on accumulated wealth."),
+        ("appiyehi dāyādehi sādhāraṇā bhogā",
+         "&ldquo;wealth shared with unloved heirs&rdquo; &mdash; the fifth "
+         "and most personal vulnerability, one's own family."),
+        ("puttadāradāsakammakaraporisa",
+         "&ldquo;children, partners, bondservants, workers, and "
+         "staff&rdquo; &mdash; the household dependents named in the third "
+         "legitimate use."),
+        ("uddhaggikaṁ dakkhiṇaṁ",
+         "&ldquo;an uplifting religious donation&rdquo; &mdash; the fifth "
+         "and outermost legitimate use, extending beyond one's immediate "
+         "circle."),
+    ],
+    text_intro=(
+        "The discourse in full: five things wealth is vulnerable to, and "
+        "five legitimate uses for it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of riches"),
+        ("p", "&sect;1", "an5.227:1.1-1.4"),
+        ("h3", "Five benefits of riches"),
+        ("p", "&sect;2", "an5.227:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five things does this discourse name as able to claim a share of one's wealth?",
+         "opts": [
+             "Fire, water, kings, thieves, and unloved heirs",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A notably impersonal list of threats to accumulated riches."},
+        {"q": "Does this discourse's opening list condemn wealth itself?",
+         "opts": [
+             "No — it states plainly that wealth is never fully secure, without moral judgment",
+             "Yes — it declares wealth inherently evil",
+             "Yes — it forbids anyone from ever accumulating wealth",
+             "The discourse doesn't address this question"],
+         "correct": 0,
+         "expl": "A sober assessment of vulnerability, not a moral condemnation."},
+        {"q": "What five legitimate uses of wealth does this discourse name?",
+         "opts": [
+             "Making oneself, parents, dependents, friends happy, and religious donation",
+             "Only hoarding wealth indefinitely",
+             "Only giving wealth away entirely, keeping nothing",
+             "Only using wealth for political influence"],
+         "correct": 0,
+         "expl": "A widening circle of legitimate beneficiaries."},
+        {"q": "What pattern do the five legitimate uses trace, read in order?",
+         "opts": [
+             "A widening circle — oneself, then parents, then dependents, then friends, then beyond one's own circle",
+             "A narrowing circle, ending with oneself alone",
+             "A random, unordered list with no pattern",
+             "All five uses concern only oneself"],
+         "correct": 0,
+         "expl": "Wealth's legitimate use moving outward, not staying confined to the individual."},
+        {"q": "What does 'puttadāradāsakammakaraporisa' name?",
+         "opts": [
+             "Children, partners, bondservants, workers, and staff — household dependents",
+             "The five precepts",
+             "The four noble truths",
+             "A formal ordination requirement"],
+         "correct": 0,
+         "expl": "The third legitimate use of wealth."},
+        {"q": "What earlier discourses in this nipāta treat material accumulation with more suspicion?",
+         "opts": [
+             "AN 5.213 (negligence) and AN 5.223 (over-accumulation in a monastic dwelling)",
+             "No earlier discourse addresses material accumulation at all",
+             "AN 5.100 and AN 5.106",
+             "AN 5.10 and AN 5.20"],
+         "correct": 0,
+         "expl": "Worth reading alongside this discourse's more positive account."},
+        {"q": "What does 'appiyehi dāyādehi sādhāraṇā bhogā' mean?",
+         "opts": [
+             "Wealth shared with unloved heirs — the most personal vulnerability named",
+             "Wealth shared only with beloved friends",
+             "Wealth that can never be inherited",
+             "Wealth protected from all forms of loss"],
+         "correct": 0,
+         "expl": "The fifth drawback, naming one's own family as a source of loss."},
+        {"q": "What does 'uddhaggikaṁ dakkhiṇaṁ' mean?",
+         "opts": [
+             "An uplifting religious donation",
+             "A formal legal payment",
+             "A type of monastic robe",
+             "A tax owed to a king"],
+         "correct": 0,
+         "expl": "The fifth and outermost legitimate use of wealth."},
+        {"q": "Who is this discourse most plausibly addressed to?",
+         "opts": [
+             "Lay listeners, given its concern with household wealth and family",
+             "Only fully liberated arahants",
+             "Only kings and nobility",
+             "Only newly ordained mendicants"],
+         "correct": 0,
+         "expl": "A genuinely balanced teaching on lay wealth."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Five threats to wealth", [
+            "fire &middot; water &middot;",
+            "kings &middot; thieves &middot;",
+            "unloved heirs",
+        ]),
+        ("A widening circle of use", [
+            "self, family,",
+            "dependents, friends,",
+            "and beyond",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">uddhaggikaṁ dakkhiṇaṁ</span>",
+            "&mdash; an uplifting",
+            "donation",
+        ]),
+        ("Cross-references", [
+            "AN 5.213 &middot; AN 5.223 &middot; more cautionary treatments "
+            "of wealth elsewhere",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.227/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.226.html">AN 5.226 &middot; Visiting Families (2nd)</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.228.html">AN 5.228 &middot; Eating Late</a> &mdash; next: '
+        "a shift to a household's meal timing.",
+        '<a href="an-5.213.html">AN 5.213 &middot; Ethics</a> &mdash; a more '
+        "cautionary earlier discourse on wealth and negligence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.228 — Ussūrabhattasutta
+# --------------------------------------------------------------------------- #
+page(
+    228, "Ussūrabhatta", "Eating Late",
+    vagga=VAGGA_23,
+    meta_title="AN 5.228 — Eating Late | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ussūrabhattasutta — five practical costs a household bears from "
+        "eating meals late in the day, addressed to laypeople rather than "
+        "mendicants. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "genuinely household-focused"),
+    ],
+    why=(
+        "Addressed to a household rather than a mendicant, this discourse "
+        "names five practical costs of eating meals late in the day "
+        "&mdash; social, religious, and even nutritional &mdash; treating "
+        "domestic scheduling as a genuine matter of consequence, not merely "
+        "a private preference."),
+    guide=[
+        ("Five parties affected by a late meal", [
+            "Guests aren't served on time; the deities who accept "
+            "spirit-offerings aren't served on time; ascetics and brahmins "
+            "who eat only once a day aren't served on time; household "
+            "servants and workers perform their duties neglectfully; and "
+            "the meal itself, eaten at the wrong time, isn't nutritious."]),
+        ("Guests, deities, and religious visitors together", [
+            "The first three items form a striking sequence: the same "
+            "consequence &mdash; being kept waiting &mdash; falls on human "
+            "guests, on deities receiving ritual offerings, and on "
+            "disciplined religious visitors alike, treating all three as "
+            "genuinely comparable obligations a household owes."]),
+        ("A concern for mendicants who eat only once a day", [
+            "The third item is worth noticing specifically: ascetics and "
+            "brahmins who eat only once a day, at a fixed time, are "
+            "directly harmed by a household's lateness in a way someone "
+            "eating flexibly wouldn't be &mdash; a practical consequence of "
+            "the very discipline named at AN 5.188."]),
+        ("The final item, purely physical", [
+            "The fifth drawback closes on something entirely different "
+            "from the first four &mdash; not a social or religious "
+            "failure, but a nutritional one: food eaten outside its "
+            "proper time simply isn't as nourishing."]),
+        ("Five matching benefits", [
+            "The clean mirror: guests, deities, and disciplined religious "
+            "visitors all served promptly; servants performing their "
+            "duties attentively; and food eaten at the proper time being "
+            "genuinely nutritious."]),
+    ],
+    terms=[
+        ("ussūrabhatta",
+         "&ldquo;eating late in the day&rdquo; &mdash; this discourse's "
+         "title concept, the household failure described."),
+        ("balipaṭiggāhikā devatā",
+         "&ldquo;deities who accept spirit-offerings&rdquo; &mdash; the "
+         "second party a late household meal fails to serve on time."),
+        ("ekabhattikā rattūparatā viratā vikālabhojanā",
+         "&ldquo;those who eat in one part of the day, abstaining from "
+         "night and wrong-time eating&rdquo; &mdash; the disciplined "
+         "religious visitors named, echoing AN 5.188's practice."),
+        ("dāsakammakaraporisā",
+         "&ldquo;bondservants, workers, and staff&rdquo; &mdash; the "
+         "household dependents affected by a late meal's disruption."),
+        ("samayabhatta",
+         "&ldquo;eating at a proper time&rdquo; &mdash; the positive "
+         "counterpart, this discourse's title concept in reverse."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of a household eating late, "
+        "and five benefits of eating at a proper time. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of eating late"),
+        ("p", "&sect;1", "an5.228:1.1-1.8"),
+        ("h3", "Five benefits of eating at a proper time"),
+        ("p", "&sect;2", "an5.228:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse most directly addressed to?",
+         "opts": [
+             "A household, rather than a mendicant",
+             "Only fully liberated arahants",
+             "Only kings and their courts",
+             "Only newly ordained mendicants"],
+         "correct": 0,
+         "expl": "Treating domestic meal scheduling as a genuine matter of consequence."},
+        {"q": "What three parties does a late household meal fail to serve on time?",
+         "opts": [
+             "Guests, deities receiving offerings, and disciplined religious visitors",
+             "Only formal government officials",
+             "Only immediate family members",
+             "Only fellow mendicants"],
+         "correct": 0,
+         "expl": "Three comparable obligations a household owes."},
+        {"q": "What does the third item specifically concern?",
+         "opts": [
+             "Ascetics and brahmins who eat only once a day, directly harmed by lateness",
+             "Ascetics who eat freely at any time",
+             "A formal legal dispute",
+             "A physical illness unrelated to eating"],
+         "correct": 0,
+         "expl": "A practical consequence of the discipline named at AN 5.188."},
+        {"q": "What does the fifth drawback concern, distinct from the first four?",
+         "opts": [
+             "A purely nutritional failure — food eaten at the wrong time isn't as nourishing",
+             "Another social obligation, like the first three",
+             "A formal legal penalty",
+             "A religious ritual failure"],
+         "correct": 0,
+         "expl": "Closing on something entirely different from social or religious concerns."},
+        {"q": "What does 'balipaṭiggāhikā devatā' mean?",
+         "opts": [
+             "Deities who accept spirit-offerings",
+             "Household servants",
+             "Formal government officials",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The second party affected by a late household meal."},
+        {"q": "What earlier discourse in this nipāta does the third item's practice echo?",
+         "opts": [
+             "AN 5.188, Those Who Eat in One Sitting",
+             "AN 5.100, With Cunda",
+             "AN 5.10, Growth",
+             "AN 5.1, Trainee"],
+         "correct": 0,
+         "expl": "The one-meal-a-day discipline, harmed by household lateness."},
+        {"q": "What does 'dāsakammakaraporisā' mean?",
+         "opts": [
+             "Bondservants, workers, and staff",
+             "Only free citizens",
+             "Only formal government employees",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The household dependents affected by a late meal's disruption."},
+        {"q": "What does 'samayabhatta' mean?",
+         "opts": [
+             "Eating at a proper time",
+             "Eating at any time whatsoever",
+             "Refusing all food entirely",
+             "A formal ordination requirement"],
+         "correct": 0,
+         "expl": "The positive counterpart, this discourse's title concept in reverse."},
+        {"q": "What does this discourse's structure suggest about domestic scheduling?",
+         "opts": [
+             "It's a genuine matter of consequence, not merely a private preference",
+             "It has no bearing on anyone outside the household",
+             "It concerns only the household's own comfort",
+             "It is purely a matter of personal taste"],
+         "correct": 0,
+         "expl": "Affecting guests, deities, religious visitors, servants, and nutrition."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("Five affected parties", [
+            "guests &middot; deities",
+            "&middot; religious",
+            "visitors &middot; servants",
+            "&middot; the food itself",
+        ]),
+        ("Three comparable obligations", [
+            "human, divine, and",
+            "religious guests alike",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">ussūrabhatta</span>",
+            "&mdash; eating late",
+            "in the day",
+        ]),
+        ("Cross-references", [
+            "AN 5.188 &middot; the one-meal-a-day discipline this discourse's "
+            "third item concerns",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.228/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.227.html">AN 5.227 &middot; Riches</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.229.html">AN 5.229 &middot; Black Snakes (1st)</a> '
+        "&mdash; next: this chapter's most difficult discourse, worth reading "
+        "with care.",
+        '<a href="an-5.188.html">AN 5.188 &middot; Those Who Eat in One '
+        "Sitting</a> &mdash; the discipline this discourse's third item "
+        "concerns.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.229 — Paṭhamakaṇhasappasutta
+# --------------------------------------------------------------------------- #
+page(
+    229, "Paṭhamakaṇhasappa", "Black Snakes (1st)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.229 — Black Snakes (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamakaṇhasappasutta — a discourse addressed to celibate monks "
+        "that applies five qualities of a venomous snake directly to women, "
+        "read here with full honesty about its harshness and its specific "
+        "audience. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an animal simile, applied directly rather than metaphorically"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; genuinely "
+                       "difficult, worth reading with care"),
+    ],
+    why=(
+        "One of the most difficult discourses in this collection: five "
+        "qualities of a venomous black snake are named, and then applied "
+        "directly &mdash; not as metaphor, but as flat assertion &mdash; to "
+        "women as a class. This guide states plainly what the text says, "
+        "names exactly who it's addressed to, and doesn't soften or endorse "
+        "it."),
+    guide=[
+        ("What the text actually says", [
+            "The discourse names five qualities of a black snake &mdash; "
+            "filthy, stinking, cowardly, frightening, and treacherous "
+            "&mdash; and then states, using the identical five terms with "
+            "no further argument, that a woman (<em>mātugāma</em>) has "
+            "these same five qualities. There is no simile-marker softening "
+            "the comparison; the same words are simply reapplied."]),
+        ("Who this is addressed to", [
+            "The audience is explicit throughout: <em>bhikkhave</em>, "
+            "mendicants &mdash; specifically celibate monks, for whom "
+            "sexual attachment represented a direct threat to their vow. "
+            "This is not a claim offered to laypeople, to married couples, "
+            "or as a general statement about women's worth; it is a piece "
+            "of monastic-disciplinary rhetoric, addressed to a narrow, "
+            "specific audience with a specific anxiety."]),
+        ("Continuous with this chapter's disciplinary concern, not a new theme", [
+            "Read immediately after AN 5.225&ndash;226 &mdash; the specific "
+            "Vinaya rules on visiting families, and the causal chain from "
+            "seeing to being overcome by lust &mdash; this discourse "
+            "dramatizes the same underlying anxiety into simile form, "
+            "rather than introducing an unrelated new subject."]),
+        ("Assertion without argument", [
+            "Notably, this discourse offers no explanation for why these "
+            "five qualities are said to apply; it simply names the shared "
+            "terms as if the comparison were self-evidently true. AN 5.230, "
+            "which follows, does eventually gloss what several of the terms "
+            "are meant to mean &mdash; explanation that is itself no less "
+            "worth examining critically."]),
+        ("Reading this honestly", [
+            "This guide's practice throughout this project has been to "
+            "state plainly what difficult source material actually says, "
+            "without erasing it and without pretending it says something "
+            "gentler than it does. This discourse is a genuine case in "
+            "point: a demeaning, generalizing comparison, arising from a "
+            "specific historical anxiety about celibacy, presented here for "
+            "what it is rather than smoothed over."]),
+    ],
+    terms=[
+        ("kaṇhasappa",
+         "&ldquo;black snake&rdquo; &mdash; this discourse's title concept, "
+         "the source of the comparison directly applied to women."),
+        ("asuci, duggandho",
+         "&ldquo;filthy, stinking&rdquo; &mdash; the first two of the five "
+         "shared terms."),
+        ("sabhīru, sappaṭibhayo",
+         "&ldquo;cowardly, frightening&rdquo; &mdash; the third and fourth "
+         "shared terms."),
+        ("mittadubbhī",
+         "&ldquo;treacherous&rdquo; &mdash; the fifth shared term, "
+         "elaborated further in AN 5.230."),
+        ("mātugāma",
+         "&ldquo;woman, womenfolk&rdquo; &mdash; the object of comparison, "
+         "a common term for women in a monastic-disciplinary register."),
+    ],
+    text_intro=(
+        "The discourse in full, presented without alteration: five "
+        "qualities of a black snake, applied directly to women. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of a black snake"),
+        ("p", "&sect;1", "an5.229:1.1-1.4"),
+        ("h3", "The same five, applied to a woman"),
+        ("p", "&sect;2", "an5.229:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse literally do with its snake simile?",
+         "opts": [
+             "Applies the identical five terms directly to women, with no argument given",
+             "Uses the snake only as a loose metaphor, softened by comparison markers",
+             "Explicitly denies any connection between the snake and women",
+             "Applies the terms only to a single named individual"],
+         "correct": 0,
+         "expl": "A flat, direct assertion, not a softened metaphor."},
+        {"q": "Who is this discourse explicitly addressed to?",
+         "opts": [
+             "Mendicants specifically — celibate monks, for whom sexual attachment threatened their vow",
+             "Laypeople generally, with no specific audience",
+             "Married couples specifically",
+             "Women themselves, as direct instruction"],
+         "correct": 0,
+         "expl": "A narrow, specific monastic-disciplinary audience, not a universal claim."},
+        {"q": "How should this discourse's comparison be understood, according to this guide?",
+         "opts": [
+             "As monastic-disciplinary rhetoric addressing a specific historical anxiety, not a universal claim about women's worth",
+             "As this guide's own endorsed view of women",
+             "As a claim intended for married laypeople",
+             "As entirely unrelated to any specific historical context"],
+         "correct": 0,
+         "expl": "Named plainly for what it is, without softening or endorsement."},
+        {"q": "What five qualities does this discourse name for a black snake?",
+         "opts": [
+             "Filthy, stinking, cowardly, frightening, and treacherous",
+             "Fast, strong, colorful, quiet, and gentle",
+             "The five precepts",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "The five terms then reapplied directly to women."},
+        {"q": "What earlier discourses in this chapter does this one continue from, rather than introduce as a new theme?",
+         "opts": [
+             "AN 5.225-226, on visiting families and the causal chain toward lust",
+             "AN 5.219, on fire",
+             "AN 5.220, on the city of Madhurā",
+             "AN 5.213, on ethics"],
+         "correct": 0,
+         "expl": "Dramatizing the same underlying monastic anxiety into simile form."},
+        {"q": "Does this discourse explain why these five qualities are said to apply to women?",
+         "opts": [
+             "No — it offers no argument, simply asserting the shared terms",
+             "Yes — it gives a detailed, reasoned explanation",
+             "Yes — it cites external evidence for each quality",
+             "It explicitly retracts the claim within the same discourse"],
+         "correct": 0,
+         "expl": "AN 5.230, which follows, eventually glosses some of the terms."},
+        {"q": "What does 'mittadubbhī' mean?",
+         "opts": [
+             "Treacherous",
+             "Loyal, trustworthy",
+             "Generous",
+             "Formally accused"],
+         "correct": 0,
+         "expl": "The fifth shared term, elaborated further in AN 5.230."},
+        {"q": "What has this guide's consistent practice been for genuinely difficult source material, according to this discourse's treatment?",
+         "opts": [
+             "Stating plainly what the text says, without erasing it or pretending it says something gentler",
+             "Omitting difficult material entirely from the guide",
+             "Rewriting difficult material to make it more palatable",
+             "Endorsing difficult material as this guide's own view"],
+         "correct": 0,
+         "expl": "Naming the material honestly, neither erased nor endorsed."},
+        {"q": "What does 'mātugāma' mean?",
+         "opts": [
+             "Woman, womenfolk — a common term in a monastic-disciplinary register",
+             "A formal ordination title",
+             "A type of monastic robe",
+             "A specific named individual"],
+         "correct": 0,
+         "expl": "The object of comparison throughout this discourse."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Dīghacārikavagga",
+             "Akkosakavagga",
+             "Āvāsikavagga",
+             "Duccaritavagga"],
+         "correct": 0,
+         "expl": "'Long Wandering', this session's twenty-third chapter."},
+    ],
+    marginalia=[
+        ("A direct assertion", [
+            "the same five terms,",
+            "no softening",
+        ]),
+        ("A narrow, specific audience", [
+            "celibate monks,",
+            "not a universal claim",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">mātugāma</span>",
+            "&mdash; woman,",
+            "womenfolk",
+        ]),
+        ("Cross-references", [
+            "AN 5.225&ndash;226 &middot; the same underlying disciplinary "
+            "anxiety, in procedural rules",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.229/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.228.html">AN 5.228 &middot; Eating Late</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.230.html">AN 5.230 &middot; Black Snakes (2nd)</a> '
+        "&mdash; next: this chapter's closing discourse, elaborating the same "
+        "comparison.",
+        '<a href="an-5.226.html">AN 5.226 &middot; Visiting Families (2nd)</a> '
+        "&mdash; the causal chain this discourse's anxiety continues from.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.230 — Dutiyakaṇhasappasutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    230, "Dutiyakaṇhasappa", "Black Snakes (2nd)",
+    vagga=VAGGA_23,
+    meta_title="AN 5.230 — Black Snakes (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyakaṇhasappasutta, closing the Dīghacārikavagga — a second, "
+        "more elaborated version of AN 5.229's snake comparison, glossed "
+        "here with the same honesty about its harshness. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an animal simile, elaborated with explicit gloss"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; genuinely "
+                       "difficult, worth reading with care"),
+    ],
+    why=(
+        "This chapter closes on its most elaborated version of AN 5.229's "
+        "comparison: a second set of five snake-qualities, now with an "
+        "explicit gloss attached to three of them &mdash; making explicit "
+        "what the first discourse left merely asserted, and worth engaging "
+        "with directly rather than passing over."),
+    guide=[
+        ("A second set of five terms", [
+            "This discourse names five different qualities of a black "
+            "snake &mdash; irritable, holding grudges, venomous, "
+            "fork-tongued, and treacherous &mdash; again applied directly "
+            "to women with the identical terms and no separate argument."]),
+        ("This time, an explicit gloss", [
+            "Unlike AN 5.229, this discourse goes further, explaining three "
+            "of the five terms directly: a woman's &lsquo;venom&rsquo; is "
+            "explained as usually being &lsquo;very lustful&rsquo;; her "
+            "&lsquo;forked tongue&rsquo; as usually backbiting "
+            "(<em>pisuṇavācā</em>, the same wrong-speech term named at AN "
+            "5.214); and her &lsquo;treachery&rsquo; as usually being "
+            "unfaithful in marriage."]),
+        ("What the specific glosses reveal", [
+            "Read plainly, the three glossed vices &mdash; sexual desire, "
+            "divisive speech, and marital infidelity &mdash; map closely "
+            "onto exactly what a celibate male monastic community would "
+            "fear most: sexual temptation itself, gossip threatening "
+            "communal harmony, and betrayal undermining the lay-patronage "
+            "relationships monastics depended on. The comparison reveals "
+            "at least as much about the anxieties of its intended audience "
+            "as it claims to reveal about its actual subject."]),
+        ("A qualifying word, easy to miss", [
+            "Each gloss is introduced with <em>yebhuyyena</em>, "
+            "&lsquo;usually, for the most part&rsquo; &mdash; a hedge "
+            "worth noting, even though it does nothing to soften the "
+            "sweeping, ungrounded nature of the underlying claim."]),
+        ("Closing this chapter, and closing honestly", [
+            "The chapter ends here, on its harshest note, with the "
+            "colophon &lsquo;Dasamaṁ. Dīghacārikavaggo tatiyo&rsquo; and an "
+            "uddāna verse naming this chapter's ten discourses in brief, "
+            "the same mechanism explained in full at AN 5.10. This guide "
+            "closes its own treatment the same way it has approached every "
+            "difficult passage across this project: honestly, without "
+            "smoothing over what the text plainly says."]),
+    ],
+    terms=[
+        ("kodhano, upanāhī",
+         "&ldquo;irritable, holding grudges&rdquo; &mdash; the first two of "
+         "this discourse's second set of five shared terms."),
+        ("ghoraviso, dujjivho",
+         "&ldquo;venomous, fork-tongued&rdquo; &mdash; the third and "
+         "fourth terms, each given an explicit gloss below."),
+        ("tibbarāgā",
+         "&ldquo;very lustful&rdquo; &mdash; the gloss given for "
+         "&lsquo;venom&rsquo;."),
+        ("pisuṇavācā",
+         "&ldquo;backbiting, divisive speech&rdquo; &mdash; the gloss "
+         "given for &lsquo;forked tongue&rsquo;, the same wrong-speech "
+         "term already named at AN 5.214."),
+        ("yebhuyyena",
+         "&ldquo;usually, for the most part&rdquo; &mdash; the qualifying "
+         "word introducing each of the three glosses."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter and presented without "
+        "alteration: a second set of five qualities, glossed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five more drawbacks of a black snake"),
+        ("p", "&sect;1", "an5.230:1.1-1.4"),
+        ("h3", "The same five, applied to a woman, and explained"),
+        ("p", "&sect;2", "an5.230:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "What five qualities does this discourse's second list name for a black snake?",
+         "opts": [
+             "Irritable, holding grudges, venomous, fork-tongued, and treacherous",
+             "Filthy, stinking, cowardly, frightening, and treacherous",
+             "The five precepts",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "A different set of five terms from AN 5.229's list."},
+        {"q": "How does this discourse go further than AN 5.229?",
+         "opts": [
+             "It explicitly glosses three of the five terms with specific meanings",
+             "It retracts the entire comparison",
+             "It applies the comparison only to a single named woman",
+             "It omits the direct application to women entirely"],
+         "correct": 0,
+         "expl": "Making explicit what AN 5.229 left merely asserted."},
+        {"q": "What gloss does this discourse give for 'venom'?",
+         "opts": [
+             "Usually being very lustful",
+             "Usually being generous",
+             "Usually being wealthy",
+             "Usually being physically strong"],
+         "correct": 0,
+         "expl": "Tibbarāgā, the first of three explicit glosses."},
+        {"q": "What gloss does this discourse give for 'forked tongue'?",
+         "opts": [
+             "Usually backbiting — the same wrong-speech term from AN 5.214",
+             "Usually speaking two languages",
+             "Usually remaining completely silent",
+             "Usually giving formal speeches"],
+         "correct": 0,
+         "expl": "Pisuṇavācā, reusing terminology already established elsewhere."},
+        {"q": "What do the three glossed vices — lust, divisive speech, and infidelity — reveal, according to this guide?",
+         "opts": [
+             "At least as much about the anxieties of the intended monastic audience as about the stated subject",
+             "A fully objective, independently verified assessment of women's conduct",
+             "Nothing about the audience or context at all",
+             "A claim with no connection to monastic concerns"],
+         "correct": 0,
+         "expl": "Mapping closely onto exactly what a celibate male community would fear most."},
+        {"q": "What does 'yebhuyyena' mean, and what does this guide say about it?",
+         "opts": [
+             "'Usually, for the most part' — a hedge that doesn't soften the sweeping, ungrounded nature of the claim",
+             "'Always, without exception' — making the claim more absolute",
+             "'Never' — effectively negating the claim entirely",
+             "A term with no bearing on how the claim should be read"],
+         "correct": 0,
+         "expl": "A qualifying word worth noting, though it doesn't resolve the underlying problem."},
+        {"q": "What gloss does this discourse give for 'treachery'?",
+         "opts": [
+             "Usually being unfaithful in marriage",
+             "Usually being completely loyal",
+             "Usually avoiding all relationships",
+             "Usually holding formal positions of authority"],
+         "correct": 0,
+         "expl": "Aticārinī, the third of the discourse's explicit glosses."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Dīghacārikavaggo tatiyo.'",
+             "'Dasamaṁ. Akkosakavaggo dutiyo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Āvāsikavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The third chapter on long wandering.'"},
+        {"q": "How does this guide describe its own approach to closing this chapter's treatment?",
+         "opts": [
+             "Honestly, without smoothing over what the text plainly says, consistent with its approach throughout this project",
+             "By omitting the discourse's content from the guide entirely",
+             "By endorsing the discourse's claims as accurate",
+             "By treating the discourse as unrelated to the rest of the chapter"],
+         "correct": 0,
+         "expl": "The same consistent practice applied to every difficult passage in this project."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Āvāsikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga",
+             "Sammutipeyyāla"],
+         "correct": 0,
+         "expl": "AN 5.231 begins this collection's twenty-fourth chapter."},
+    ],
+    marginalia=[
+        ("Three explicit glosses", [
+            "venom = lust &middot;",
+            "forked tongue =",
+            "backbiting &middot;",
+            "treachery = infidelity",
+        ]),
+        ("Revealing the audience's own fears", [
+            "sexual temptation,",
+            "gossip, betrayal",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">yebhuyyena</span>",
+            "&mdash; usually, for",
+            "the most part",
+        ]),
+        ("Cross-references", [
+            "AN 5.214 &middot; pisuṇavācā's earlier appearance among the "
+            "four wrong speeches",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.230/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.229.html">AN 5.229 &middot; Black Snakes (1st)</a> '
+        "&mdash; the previous discourse, this same comparison's first, "
+        "unexplained statement.",
+        '<a href="an-5.221.html">AN 5.221 &middot; Long Wandering (1st)</a> '
+        "&mdash; this chapter's opening discourse.",
+        '<a href="an-5.214.html">AN 5.214 &middot; Someone Who Talks a Lot</a> '
+        "&mdash; where pisuṇavācā first appears among the four wrong "
+        "speeches.",
+    ],
+)
