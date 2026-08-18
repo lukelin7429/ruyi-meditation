@@ -40629,3 +40629,1964 @@ page(
         "discourse in this chapter on a mind&rsquo;s freedom from obstruction.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.201 — Kimilasutta
+# --------------------------------------------------------------------------- #
+VAGGA_21 = "<em>Kimilavagga</em> &mdash; the twenty-first chapter of the Fives"
+SETTING_201 = "Kimbilā, in the Freshwater Mangrove Wood"
+
+page(
+    201, "Kimila", "With Kimbila",
+    vagga=VAGGA_21,
+    meta_title="AN 5.201 — With Kimbila | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kimilasutta, opening the Kimilavagga — why the true teaching survives or "
+        "fades after the Buddha's death, explained through mutual respect. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_201),
+        ("Speakers", "Venerable Kimbila, questioning the Buddha"),
+        ("Form", "two paired five-item lists, both naming the same five objects of "
+                 "respect"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, opening a "
+                       "new chapter with a new setting"),
+    ],
+    why=(
+        "Venerable Kimbila puts the same question this collection has already "
+        "addressed institutionally at AN 5.154&ndash;156, but frames it differently: "
+        "not what activities preserve the teaching, but what basic disposition "
+        "&mdash; respect, toward five specific things &mdash; determines whether it "
+        "survives at all."),
+    guide=[
+        ("A new chapter, a new setting", [
+            "The Kimilavagga opens with a full narrative reintroduction at Kimbilā, "
+            "in the Freshwater Mangrove Wood &mdash; a location not previously used "
+            "in this nipāta, and the only discourse in this chapter to open with a "
+            "named questioner and dialogue frame."]),
+        ("A question already asked, reframed", [
+            "Kimbila's question &mdash; why doesn't the true teaching last long "
+            "after the Buddha's final quenching (<em>parinibbāna</em>)? &mdash; "
+            "revisits the same underlying concern as AN 5.154&ndash;156's "
+            "&lsquo;decline of the true teaching&rsquo; trio, but shifts the "
+            "diagnostic lens from specific transmission activities (listening, "
+            "memorizing, reciting) to something more basic: respect itself."]),
+        ("Five objects of respect", [
+            "The answer names five things whose absence, or presence, of "
+            "<em>gārava</em> (respect) and <em>appatissā</em>/<em>sappatissā</em> "
+            "(deference) among monks, nuns, laymen, and laywomen determines the "
+            "teaching's fate: the Teacher, the teaching itself, the Saṅgha, the "
+            "training, and &mdash; notably, closing the list &mdash; one another."]),
+        ("Respect for each other, not only for institutions", [
+            "The fifth item is worth pausing on: alongside respect for the Buddha, "
+            "the Dhamma, the Saṅgha, and the training &mdash; four institutional or "
+            "doctrinal objects &mdash; the list closes with something interpersonal: "
+            "respect among the four assemblies themselves, for each other directly."]),
+        ("A companion typology to two later discourses", [
+            "Cross-ref AN 5.205 and AN 5.206, later in this chapter: both name "
+            "obstacles to spiritual effort built around doubt or attachment "
+            "regarding these same objects &mdash; Teacher, teaching, Saṅgha, "
+            "training &mdash; suggesting this five-part frame runs through more of "
+            "this chapter than just its opening discourse."]),
+    ],
+    terms=[
+        ("saddhammo na ciraṭṭhitiko",
+         "&ldquo;the true teaching does not last long&rdquo; &mdash; Kimbila's "
+         "opening concern, echoing AN 5.154&ndash;156's earlier treatment."),
+        ("gārava, appatissā",
+         "&ldquo;respect&rdquo; and &ldquo;lacking deference&rdquo; &mdash; the "
+         "central disposition this discourse names as decisive."),
+        ("satthari, dhamme, saṅghe, sikkhāya, aññamaññaṁ",
+         "&ldquo;toward the Teacher, the teaching, the Saṅgha, the training, and "
+         "each other&rdquo; &mdash; the five objects of respect this discourse "
+         "names."),
+        ("tathāgate parinibbute",
+         "&ldquo;after the Realized One's final quenching&rdquo; &mdash; the "
+         "specific historical moment this discourse's question concerns."),
+        ("bhikkhū bhikkhuniyo upāsakā upāsikāyo",
+         "&ldquo;monks, nuns, laymen, and laywomen&rdquo; &mdash; the four "
+         "assemblies whose collective respect or disrespect is at stake."),
+    ],
+    text_intro=(
+        "The discourse in full: why the true teaching fades, and why it endures. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why the true teaching doesn't last"),
+        ("p", "&sect;1", "an5.201:1.3-1.5"),
+        ("h3", "Why it does last"),
+        ("p", "&sect;2", "an5.201:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What question does Venerable Kimbila ask the Buddha?",
+         "opts": [
+             "Why the true teaching doesn't last long after the Buddha's final quenching",
+             "Why rain sometimes fails to fall",
+             "Why some mendicants wear rag robes",
+             "Why some brahmins have abandoned ancient customs"],
+         "correct": 0,
+         "expl": "Revisiting a concern already addressed at AN 5.154-156."},
+        {"q": "What five objects of respect does the Buddha name as decisive?",
+         "opts": [
+             "The Teacher, the teaching, the Saṅgha, the training, and each other",
+             "Wealth, status, family, health, and reputation",
+             "The five precepts",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Whether these five are respected determines the teaching's fate."},
+        {"q": "How does this discourse's diagnostic lens differ from AN 5.154-156's?",
+         "opts": [
+             "It shifts from specific transmission activities to a more basic disposition — respect itself",
+             "It denies any connection to the teaching's survival",
+             "It applies only to monastics, not lay followers",
+             "It contradicts AN 5.154-156's conclusions entirely"],
+         "correct": 0,
+         "expl": "A different angle on the same underlying institutional concern."},
+        {"q": "What is notable about the fifth object of respect named?",
+         "opts": [
+             "It's interpersonal — respect among the four assemblies for each other, not only for institutions",
+             "It is identical to the first four items",
+             "It applies only to the Buddha personally",
+             "It concerns respect for kings and secular authority"],
+         "correct": 0,
+         "expl": "Alongside four institutional or doctrinal objects."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kimbilā, in the Freshwater Mangrove Wood",
+             "Sāvatthī, Jeta's Grove",
+             "Kosambī, Ghosita's Monastery",
+             "Vesālī, the Great Wood"],
+         "correct": 0,
+         "expl": "A location not previously used in this nipāta."},
+        {"q": "What four groups does this discourse name as needing to maintain respect?",
+         "opts": [
+             "Monks, nuns, laymen, and laywomen",
+             "Kings, brahmins, merchants, and laborers",
+             "Teachers, students, parents, and children",
+             "Only senior mendicants"],
+         "correct": 0,
+         "expl": "The four traditional Buddhist assemblies."},
+        {"q": "What does 'tathāgate parinibbute' mean?",
+         "opts": [
+             "After the Realized One's final quenching (death)",
+             "During the Realized One's teaching career",
+             "Before the Realized One's awakening",
+             "At the Realized One's ordination"],
+         "correct": 0,
+         "expl": "The specific historical moment this discourse's question concerns."},
+        {"q": "What later discourses in this chapter share this same five-object frame?",
+         "opts": [
+             "AN 5.205 and AN 5.206",
+             "AN 5.207 and AN 5.208",
+             "No later discourse shares this frame",
+             "Only AN 5.210"],
+         "correct": 0,
+         "expl": "Both naming obstacles built around doubt or attachment regarding these same objects."},
+        {"q": "What does the positive half of this discourse describe?",
+         "opts": [
+             "Maintaining respect and reverence toward all five objects preserves the teaching",
+             "An entirely different set of conditions from the negative half",
+             "Only monastics maintaining respect, regardless of laypeople",
+             "A purely ritual requirement unrelated to attitude"],
+         "correct": 0,
+         "expl": "The clean mirror of the negative statement."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga"],
+         "correct": 0,
+         "expl": "This session's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Five objects of respect", [
+            "Teacher &middot; teaching",
+            "&middot; Saṅgha &middot;",
+            "training &middot; each other",
+        ]),
+        ("A question already raised", [
+            "revisiting AN 5.154",
+            "&ndash;156's concern",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gārava</span>",
+            "&mdash; respect",
+        ]),
+        ("Cross-references", [
+            "AN 5.154&ndash;156 &middot; this same concern, addressed institutionally",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.201/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.200.html">AN 5.200 &middot; Elements of Escape</a> &mdash; the '
+        "previous chapter's closing discourse.",
+        '<a href="an-5.202.html">AN 5.202 &middot; Listening to the Teaching</a> '
+        "&mdash; next: five benefits of hearing the Dhamma.",
+        '<a href="an-5.154.html">AN 5.154 &middot; The Decline of the True Teaching '
+        "(1st)</a> &mdash; the same underlying concern, addressed institutionally.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.202 — Dhammassavanasutta
+# --------------------------------------------------------------------------- #
+page(
+    202, "Dhammassavana", "Listening to the Teaching",
+    vagga=VAGGA_21,
+    meta_title="AN 5.202 — Listening to the Teaching | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dhammassavanasutta — five distinct benefits of listening to the teaching, "
+        "from learning something new to inspired confidence. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, precisely "
+                       "itemized"),
+    ],
+    why=(
+        "A short but precisely structured discourse: five genuinely distinct "
+        "benefits of listening to the teaching, moving from new information through "
+        "clarification and doubt-resolution to a corrected view and, finally, "
+        "confidence itself."),
+    guide=[
+        ("Five distinct benefits, not one restated", [
+            "Learning something not yet heard; clarifying what's already been "
+            "heard; getting over uncertainty; correcting one's views; and inspiring "
+            "confidence in the mind &mdash; five genuinely separate effects, not "
+            "five ways of saying the same thing."]),
+        ("A progression from information to disposition", [
+            "Read in order, the five benefits move from the purely informational "
+            "(new content, clarified content) through the epistemic (resolving "
+            "doubt, correcting error) to something more affective: confidence "
+            "itself, arising last, as a kind of culmination rather than a starting "
+            "point."]),
+        ("Not all listening is equal", [
+            "By naming these five as benefits specifically of listening, the "
+            "discourse implies a contrast &mdash; not every act of hearing words "
+            "produces all five effects; genuine listening does. The list functions "
+            "as a quiet standard for what listening well should actually deliver."]),
+        ("A brief, standalone statement", [
+            "Unlike the richer treatments of listening and its failures elsewhere "
+            "in this collection (AN 5.151&ndash;156's concern with listening "
+            "quality and transmission), this discourse states its point once, "
+            "without narrative frame or elaboration."]),
+        ("What follows", [
+            "AN 5.203 shifts entirely, from the benefits of hearing the teaching to "
+            "a vivid simile: a fine royal thoroughbred, and the five qualities that "
+            "make a mendicant equally worthy of honor."]),
+    ],
+    terms=[
+        ("dhammassavana",
+         "&ldquo;listening to the teaching&rdquo; &mdash; this discourse's title "
+         "concept and central subject."),
+        ("assutaṁ suṇāti",
+         "&ldquo;learns something not yet heard&rdquo; &mdash; the first, purely "
+         "informational benefit."),
+        ("sutaṁ pariyodāpeti",
+         "&ldquo;clarifies what's been heard&rdquo; &mdash; the second benefit, "
+         "refining rather than adding content."),
+        ("kaṅkhaṁ vitarati",
+         "&ldquo;gets over uncertainty&rdquo; &mdash; the third, epistemic benefit."),
+        ("cittamassa pasīdati",
+         "&ldquo;inspires confidence in the mind&rdquo; &mdash; the fifth and "
+         "final benefit, an affective culmination."),
+    ],
+    text_intro=(
+        "The discourse in full: five benefits of listening to the teaching. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five benefits of listening to the teaching"),
+        ("p", "&sect;1", "an5.202:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five benefits of listening to the teaching does this discourse name?",
+         "opts": [
+             "Learning something new, clarifying what's known, resolving doubt, correcting views, and inspiring confidence",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Five genuinely distinct effects of listening well."},
+        {"q": "What does 'assutaṁ suṇāti' mean?",
+         "opts": [
+             "Learning something not yet heard",
+             "Forgetting what was previously learned",
+             "Refusing to listen at all",
+             "Teaching others what one has learned"],
+         "correct": 0,
+         "expl": "The first, purely informational benefit."},
+        {"q": "How do the five benefits progress, read in order?",
+         "opts": [
+             "From purely informational, through epistemic, to an affective culmination in confidence",
+             "From confidence to information, in reverse order",
+             "They don't progress — all five are identical",
+             "From doctrine to pure emotion with no middle stage"],
+         "correct": 0,
+         "expl": "Confidence arises last, as a kind of culmination."},
+        {"q": "What does 'kaṅkhaṁ vitarati' mean?",
+         "opts": [
+             "Getting over uncertainty",
+             "Increasing doubt",
+             "Refusing to ask questions",
+             "Formal ordination"],
+         "correct": 0,
+         "expl": "The third, epistemic benefit named."},
+        {"q": "What does this discourse's naming of these five as benefits of listening imply?",
+         "opts": [
+             "Not every act of hearing words produces all five — genuine listening does",
+             "Any exposure to sound automatically produces all five benefits",
+             "Listening has no genuine benefits at all",
+             "Only monastics can benefit from listening"],
+         "correct": 0,
+         "expl": "A quiet standard for what listening well should deliver."},
+        {"q": "What does 'cittamassa pasīdati' mean?",
+         "opts": [
+             "Inspires confidence in the mind",
+             "Causes the mind to become agitated",
+             "Produces physical fatigue",
+             "Leads to formal debate"],
+         "correct": 0,
+         "expl": "The fifth and final benefit, an affective culmination."},
+        {"q": "How does this discourse's treatment compare to AN 5.151-156's concern with listening?",
+         "opts": [
+             "Much briefer — a single standalone statement without narrative frame or elaboration",
+             "Much longer and more elaborated",
+             "Entirely unrelated in subject matter",
+             "Identical in length and structure"],
+         "correct": 0,
+         "expl": "A concise five-item list, not an extended treatment."},
+        {"q": "What does 'sutaṁ pariyodāpeti' mean?",
+         "opts": [
+             "Clarifying what's already been heard",
+             "Forgetting what's already been heard",
+             "Teaching what's already been heard to others",
+             "Writing down what's already been heard"],
+         "correct": 0,
+         "expl": "Refining rather than adding new content."},
+        {"q": "What discourse follows, shifting to a vivid animal simile?",
+         "opts": [
+             "AN 5.203, A Thoroughbred",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five qualities of a fine royal horse, applied to a mendicant."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive/negative mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "One of this nipāta's briefer, more direct discourses."},
+    ],
+    marginalia=[
+        ("Five benefits", [
+            "new learning &middot;",
+            "clarity &middot; certainty",
+            "&middot; corrected view &middot;",
+            "confidence",
+        ]),
+        ("Not every hearing counts", [
+            "genuine listening",
+            "delivers all five",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dhammassavana</span>",
+            "&mdash; listening to",
+            "the teaching",
+        ]),
+        ("Cross-references", [
+            "AN 5.151&ndash;156 &middot; a fuller earlier treatment of listening "
+            "and its failures",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.202/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.201.html">AN 5.201 &middot; With Kimbila</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.203.html">AN 5.203 &middot; A Thoroughbred</a> &mdash; next: '
+        "five qualities of a fine horse, applied to a mendicant.",
+        '<a href="an-5.151.html">AN 5.151 &middot; The Sure Path (1st)</a> &mdash; a '
+        "fuller earlier treatment of what makes listening actually take hold.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.203 — Assājānīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    203, "Assājānīya", "A Thoroughbred",
+    vagga=VAGGA_21,
+    meta_title="AN 5.203 — A Thoroughbred | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Assājānīyasutta — five qualities of a fine royal horse, applied directly "
+        "to what makes a mendicant worthy of the world's highest honor. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "an extended animal simile, then its direct application"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a vivid "
+                       "simile discourse"),
+    ],
+    why=(
+        "A vivid, straightforward simile: the five qualities that make a royal "
+        "thoroughbred horse worthy of a king are named, one by one, as the exact "
+        "same five qualities that make a mendicant &lsquo;the supreme field of "
+        "merit for the world&rsquo;."),
+    guide=[
+        ("A fine royal thoroughbred", [
+            "A horse worthy of serving a king &mdash; and reckoned, the discourse "
+            "says, as itself &lsquo;a factor of kingship&rsquo; &mdash; has five "
+            "qualities: integrity (<em>ajjava</em>), speed (<em>java</em>), "
+            "tenderness (<em>maddava</em>), patience (<em>khanti</em>), and "
+            "gentleness (<em>soracca</em>)."]),
+        ("The same five, applied directly", [
+            "Without adaptation or reinterpretation, the discourse applies these "
+            "exact same five terms to a mendicant, naming them as what makes "
+            "someone worthy of offerings, hospitality, religious donation, "
+            "veneration, and status as the highest field of merit in the world."]),
+        ("A simile that doesn't need translating", [
+            "Unlike similes elsewhere in this collection that require some "
+            "adaptation to move from the physical image to the human quality, this "
+            "one is unusually direct: integrity, speed, tenderness, patience, and "
+            "gentleness mean essentially the same thing whether describing a horse "
+            "or a person, needing no reinterpretation to carry across."]),
+        ("Speed, among four gentler qualities", [
+            "Four of the five &mdash; integrity, tenderness, patience, gentleness "
+            "&mdash; are qualities of temperament. The second, speed "
+            "(<em>java</em>), stands out as something more like capability or "
+            "readiness &mdash; worth noticing as the one item in this list that "
+            "isn't purely about disposition."]),
+        ("A companion to this project's other animal similes", [
+            "This discourse joins a recurring pattern across this nipāta of using "
+            "animal similes &mdash; lions, elephants, and now a royal horse &mdash; "
+            "to make abstract qualities vivid and memorable through a single, "
+            "concrete image."]),
+    ],
+    terms=[
+        ("assājānīya",
+         "&ldquo;a thoroughbred horse&rdquo; &mdash; this discourse's title "
+         "concept and central simile."),
+        ("ajjava, java, maddava, khanti, soracca",
+         "integrity, speed, tenderness, patience, and gentleness &mdash; the five "
+         "qualities shared between the thoroughbred and the mendicant."),
+        ("rañño aṅgaṁ",
+         "&ldquo;a factor of kingship&rdquo; &mdash; how the discourse describes "
+         "a horse possessing all five qualities."),
+        ("āhuneyyo, pāhuneyyo, dakkhiṇeyyo, añjalikaraṇīyo",
+         "&ldquo;worthy of offerings, hospitality, religious donation, and "
+         "veneration&rdquo; &mdash; the honors a mendicant with these five "
+         "qualities is said to deserve."),
+        ("anuttaraṁ puññakkhettaṁ lokassa",
+         "&ldquo;the supreme field of merit for the world&rdquo; &mdash; the "
+         "culminating description of such a mendicant."),
+    ],
+    text_intro=(
+        "The discourse in full: the fine thoroughbred, and the mendicant with the "
+        "same five qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A fine thoroughbred"),
+        ("p", "&sect;1", "an5.203:1.1-2.3"),
+        ("h3", "A mendicant, the same five factors"),
+        ("p", "&sect;2", "an5.203:2.4-3.3"),
+    ],
+    quiz=[
+        {"q": "What five qualities make a royal thoroughbred worthy of a king?",
+         "opts": [
+             "Integrity, speed, tenderness, patience, and gentleness",
+             "Strength, size, color, breed, and age",
+             "The five precepts",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Ajjava, java, maddava, khanti, soracca."},
+        {"q": "How does this discourse apply the horse's five qualities to a mendicant?",
+         "opts": [
+             "Directly, using the exact same five terms without adaptation",
+             "By translating each quality into an entirely different human virtue",
+             "By reducing the five qualities to only two",
+             "By rejecting the comparison as inappropriate"],
+         "correct": 0,
+         "expl": "An unusually direct simile, needing little reinterpretation."},
+        {"q": "What does a mendicant with these five qualities become worthy of, according to this discourse?",
+         "opts": [
+             "Offerings, hospitality, religious donation, veneration, and status as the supreme field of merit",
+             "Formal ordination alone",
+             "Only material wealth",
+             "Exemption from all monastic rules"],
+         "correct": 0,
+         "expl": "The full honor a mendicant can receive, per this discourse."},
+        {"q": "Which of the five qualities is described as 'a factor of kingship' in a horse?",
+         "opts": [
+             "All five together, when fully present in a horse",
+             "Only speed alone",
+             "Only integrity alone",
+             "None of the five, individually or together"],
+         "correct": 0,
+         "expl": "A horse with all five qualities is reckoned itself as such a factor."},
+        {"q": "What makes 'java' (speed) stand out among the other four qualities?",
+         "opts": [
+             "It's more about capability or readiness, not purely temperament like the others",
+             "It is identical in meaning to the other four",
+             "It applies only to horses, never to mendicants",
+             "It is the only quality mentioned in this discourse"],
+         "correct": 0,
+         "expl": "The one item in this list that isn't purely dispositional."},
+        {"q": "What does 'ajjava' mean?",
+         "opts": [
+             "Integrity",
+             "Speed",
+             "Gentleness",
+             "Patience"],
+         "correct": 0,
+         "expl": "The first of the five shared qualities."},
+        {"q": "What broader pattern does this discourse join in this collection?",
+         "opts": [
+             "A recurring use of animal similes to make abstract qualities vivid and memorable",
+             "A pattern unique to this single discourse alone",
+             "A rejection of all animal comparisons elsewhere in the collection",
+             "A pattern found only in this specific chapter"],
+         "correct": 0,
+         "expl": "Lions, elephants, and now a royal horse."},
+        {"q": "What does 'anuttaraṁ puññakkhettaṁ lokassa' mean?",
+         "opts": [
+             "The supreme field of merit for the world",
+             "A formal royal title",
+             "A type of monastic robe",
+             "A meditation retreat location"],
+         "correct": 0,
+         "expl": "The culminating description of a mendicant with all five qualities."},
+        {"q": "What does 'soracca' mean?",
+         "opts": [
+             "Gentleness",
+             "Speed",
+             "Integrity",
+             "Patience"],
+         "correct": 0,
+         "expl": "The fifth of the five shared qualities."},
+        {"q": "What discourse follows, shifting to another short list?",
+         "opts": [
+             "AN 5.204, Powers",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five powers: faith, conscience, prudence, energy, wisdom."},
+    ],
+    marginalia=[
+        ("Five shared qualities", [
+            "integrity &middot; speed",
+            "&middot; tenderness &middot;",
+            "patience &middot;",
+            "gentleness",
+        ]),
+        ("A simile needing no translation", [
+            "the same words fit",
+            "horse and mendicant",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">assājānīya</span>",
+            "&mdash; a thoroughbred",
+            "horse",
+        ]),
+        ("Cross-references", [
+            "AN 5.204 &middot; next: five powers, another short doctrinal list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.203/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.202.html">AN 5.202 &middot; Listening to the Teaching</a> '
+        "&mdash; the previous discourse in this chapter.",
+        '<a href="an-5.204.html">AN 5.204 &middot; Powers</a> &mdash; next: the five '
+        "powers, faith through wisdom.",
+        '<a href="an-5.2.html">AN 5.2 &middot; In Detail</a> &mdash; an earlier '
+        "discourse in this nipāta sharing this exact same five-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.204 — Balasutta
+# --------------------------------------------------------------------------- #
+page(
+    204, "Bala", "Powers",
+    vagga=VAGGA_21,
+    meta_title="AN 5.204 — Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Balasutta — the five powers of faith, conscience, prudence, energy, and "
+        "wisdom, in their bare, undeveloped form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; extremely brief, "
+                       "a bare terminological statement"),
+    ],
+    why=(
+        "The bare list, without commentary: five powers &mdash; faith, conscience, "
+        "prudence, energy, and wisdom &mdash; the same exact five-item set already "
+        "given its full treatment at this nipāta's very first chapter, restated here "
+        "in its simplest possible form."),
+    guide=[
+        ("The same five powers as this nipāta's opening chapter", [
+            "Faith (<em>saddhā</em>), conscience (<em>hiri</em>), prudence "
+            "(<em>ottappa</em>), energy (<em>vīriya</em>), and wisdom "
+            "(<em>paññā</em>) &mdash; this is the identical five-item formula "
+            "given detailed treatment at AN 5.2, near this nipāta's very "
+            "beginning."]),
+        ("Restated at maximum brevity", [
+            "Where AN 5.2 named each power's classical formula in full &mdash; the "
+            "specific recollections and reflections that constitute each one "
+            "&mdash; this discourse simply lists the five terms and stops, offering "
+            "no elaboration at all."]),
+        ("A different formula from the more famous five bala", [
+            "Worth noting: this isn't the more commonly cited &lsquo;five "
+            "powers&rsquo; formula found elsewhere in the early texts (faith, "
+            "energy, mindfulness, immersion, wisdom); this nipāta's variant "
+            "substitutes conscience and prudence for mindfulness and immersion "
+            "&mdash; a genuine difference worth noting rather than assuming this "
+            "is simply the standard list under a different name."]),
+        ("Why a bare restatement, this late in the collection", [
+            "Appearing here, well past this nipāta's opening treatment, this "
+            "discourse's brevity functions almost as a checkpoint &mdash; a "
+            "reminder of foundational terminology, trusting the reader to recall "
+            "the fuller explanation already given rather than repeating it."]),
+        ("What follows", [
+            "AN 5.205 turns from these five powers, which strengthen practice, to "
+            "their opposite concern: five specific obstacles that prevent the mind "
+            "from inclining toward effort at all."]),
+    ],
+    terms=[
+        ("saddhābalaṁ",
+         "&ldquo;the power of faith&rdquo; &mdash; the first of the five powers, "
+         "given its full formula at AN 5.2."),
+        ("hiribalaṁ, ottappabalaṁ",
+         "&ldquo;the power of conscience&rdquo; and &ldquo;the power of "
+         "prudence&rdquo; &mdash; the two powers distinguishing this nipāta's "
+         "variant from the more commonly cited five-power formula."),
+        ("vīriyabalaṁ",
+         "&ldquo;the power of energy&rdquo; &mdash; the fourth power in this "
+         "list."),
+        ("paññābalaṁ",
+         "&ldquo;the power of wisdom&rdquo; &mdash; the fifth and final power."),
+        ("bala",
+         "&ldquo;power, strength&rdquo; &mdash; this discourse's title concept, "
+         "applied to all five qualities named."),
+    ],
+    text_intro=(
+        "The discourse in full: the five powers, stated without elaboration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five powers"),
+        ("p", "&sect;1", "an5.204:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five powers does this discourse name?",
+         "opts": [
+             "Faith, conscience, prudence, energy, and wisdom",
+             "Faith, energy, mindfulness, immersion, and wisdom",
+             "The five precepts",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "The identical formula already given full treatment at AN 5.2."},
+        {"q": "Where else in this nipāta does this exact same five-item formula appear in full?",
+         "opts": [
+             "AN 5.2, near this nipāta's very beginning",
+             "Nowhere else in this collection",
+             "AN 5.100, With Cunda",
+             "AN 5.161, Getting Rid of Resentment (1st)"],
+         "correct": 0,
+         "expl": "A detailed treatment already given far earlier."},
+        {"q": "How does this discourse's treatment differ from AN 5.2's?",
+         "opts": [
+             "It offers no elaboration at all — a bare list, without the classical formulas",
+             "It is far more detailed than AN 5.2",
+             "It names an entirely different five qualities",
+             "It rejects AN 5.2's conclusions entirely"],
+         "correct": 0,
+         "expl": "Maximum brevity, trusting the reader to recall the fuller explanation."},
+        {"q": "How does this nipāta's five-power formula differ from the more commonly cited version elsewhere in the early texts?",
+         "opts": [
+             "It substitutes conscience and prudence for mindfulness and immersion",
+             "It is completely identical in every respect",
+             "It has only three items instead of five",
+             "It applies only to laypeople, not monastics"],
+         "correct": 0,
+         "expl": "A genuine variant, not simply the standard list under a different name."},
+        {"q": "What does 'hiribalaṁ' mean?",
+         "opts": [
+             "The power of conscience",
+             "The power of wisdom",
+             "The power of faith",
+             "The power of energy"],
+         "correct": 0,
+         "expl": "One of the two powers distinguishing this nipāta's variant formula."},
+        {"q": "What function does this discourse's brevity serve, appearing this late in the collection?",
+         "opts": [
+             "Almost as a checkpoint, reminding the reader of foundational terminology already explained",
+             "It indicates the topic is unimportant",
+             "It signals an error in the source text",
+             "It means the topic is entirely new and unexplained elsewhere"],
+         "correct": 0,
+         "expl": "Trusting the reader to recall the fuller explanation from AN 5.2."},
+        {"q": "What does 'ottappabalaṁ' mean?",
+         "opts": [
+             "The power of prudence",
+             "The power of speed",
+             "The power of gentleness",
+             "The power of integrity"],
+         "correct": 0,
+         "expl": "The third power named in this list."},
+        {"q": "What does 'vīriyabalaṁ' mean?",
+         "opts": [
+             "The power of energy",
+             "The power of faith",
+             "The power of conscience",
+             "The power of wisdom"],
+         "correct": 0,
+         "expl": "The fourth power in this five-item list."},
+        {"q": "What discourse follows, turning to obstacles that prevent effort?",
+         "opts": [
+             "AN 5.205, Hard-heartedness",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five specific obstacles preventing the mind from inclining toward effort."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga"],
+         "correct": 0,
+         "expl": "'With Kimbila', this session's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Five powers, restated", [
+            "faith &middot; conscience",
+            "&middot; prudence &middot;",
+            "energy &middot; wisdom",
+        ]),
+        ("A variant formula", [
+            "conscience and prudence,",
+            "not mindfulness and",
+            "immersion",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">bala</span>",
+            "&mdash; power, strength",
+        ]),
+        ("Cross-references", [
+            "AN 5.2 &middot; this same formula's full treatment, near this "
+            "nipāta's beginning",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.204/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.203.html">AN 5.203 &middot; A Thoroughbred</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.205.html">AN 5.205 &middot; Hard-heartedness</a> &mdash; next: '
+        "five obstacles that prevent the mind from inclining toward effort.",
+        '<a href="an-5.2.html">AN 5.2 &middot; In Detail</a> &mdash; this same '
+        "formula's full treatment, near this nipāta's beginning.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.205 — Cetokhilasutta
+# --------------------------------------------------------------------------- #
+page(
+    205, "Cetokhila", "Hard-heartedness",
+    vagga=VAGGA_21,
+    meta_title="AN 5.205 — Hard-heartedness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Cetokhilasutta — five kinds of doubt and resentment that leave the mind "
+        "unwilling to incline toward keen, sustained effort. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five parallel structures, each ending in the same diagnostic "
+                 "formula"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a classical "
+                       "formula, worth reading slowly"),
+    ],
+    why=(
+        "A classical, precisely repeated diagnostic: five specific states of doubt "
+        "or resentment, each one shown to produce the identical result &mdash; a "
+        "mind that simply won't incline toward keenness, commitment, persistence, "
+        "and striving, no matter how much effort is nominally being made."),
+    guide=[
+        ("Four kinds of doubt, one kind of resentment", [
+            "Doubt about the Teacher; doubt about the teaching; doubt about the "
+            "Saṅgha; doubt about the training; and, differently from the first "
+            "four, anger and resentment toward one's spiritual companions, closed "
+            "off and unhappy with them."]),
+        ("A direct echo of AN 5.201's five objects", [
+            "The first four kinds of hard-heartedness map exactly onto four of AN "
+            "5.201's five objects of respect &mdash; Teacher, teaching, Saṅgha, "
+            "training &mdash; recast here not as things to respect or disrespect, "
+            "but as things one might doubt, with the same practical consequence "
+            "either way: a mind that won't engage."]),
+        ("The same closing formula, five times over", [
+            "Each of the five is stated with the identical diagnostic ending: "
+            "&lsquo;their mind doesn't incline toward keenness, commitment, "
+            "persistence, and striving&rsquo; &mdash; a deliberate repetition "
+            "underscoring that all five, despite their different objects, produce "
+            "exactly the same practical paralysis."]),
+        ("Cetokhila, a vivid image", [
+            "<em>Khila</em> means barren, hardened ground &mdash; unreceptive soil "
+            "that won't take seed no matter how much is planted. Applied to the "
+            "heart, the image is precise: not an absence of effort, but a "
+            "condition in which effort itself can't take root."]),
+        ("A companion list follows immediately", [
+            "AN 5.206 pairs directly with this discourse: where hard-heartedness "
+            "names doubt and resentment as what blocks the mind, the "
+            "&lsquo;shackles of the heart&rsquo; that follow name attachment and "
+            "craving as producing the identical result."]),
+    ],
+    terms=[
+        ("cetokhila",
+         "&ldquo;hard-heartedness&rdquo; &mdash; literally barren, unreceptive "
+         "ground applied to the heart, this discourse's title concept."),
+        ("kaṅkhati vicikicchati",
+         "&ldquo;has doubts, is uncertain&rdquo; &mdash; the state named for the "
+         "first four kinds of hard-heartedness."),
+        ("kupito hoti anattamano āhatacitto",
+         "&ldquo;angry and upset, resentful and closed off&rdquo; &mdash; the "
+         "fifth kind, directed toward spiritual companions rather than doctrine "
+         "or institution."),
+        ("cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya",
+         "&ldquo;the mind doesn't incline toward keenness, commitment, "
+         "persistence, and striving&rdquo; &mdash; the identical diagnostic "
+         "formula closing all five kinds."),
+        ("sabrahmacārī",
+         "&ldquo;spiritual companions&rdquo; &mdash; the object of the fifth "
+         "kind of hard-heartedness."),
+    ],
+    text_intro=(
+        "The discourse in full: five kinds of hard-heartedness, and their shared "
+        "consequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of hard-heartedness"),
+        ("p", "&sect;1", "an5.205:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What are the five kinds of hard-heartedness this discourse names?",
+         "opts": [
+             "Doubt about the Teacher, the teaching, the Saṅgha, the training, and resentment toward companions",
+             "The five precepts broken",
+             "The five aggregates misunderstood",
+             "Five kinds of physical illness"],
+         "correct": 0,
+         "expl": "Four kinds of doubt, plus one kind of interpersonal resentment."},
+        {"q": "What does each of the five kinds of hard-heartedness produce, according to this discourse?",
+         "opts": [
+             "A mind that doesn't incline toward keenness, commitment, persistence, and striving",
+             "Immediate physical illness",
+             "Formal expulsion from the Saṅgha",
+             "Five entirely different, unrelated outcomes"],
+         "correct": 0,
+         "expl": "The identical diagnostic formula, repeated for all five."},
+        {"q": "How do the first four kinds of hard-heartedness relate to AN 5.201's five objects of respect?",
+         "opts": [
+             "They map exactly onto four of those same five objects — Teacher, teaching, Saṅgha, training",
+             "They have no relation to AN 5.201 whatsoever",
+             "They contradict AN 5.201's conclusions directly",
+             "They apply to entirely different objects not mentioned there"],
+         "correct": 0,
+         "expl": "Recast as objects of doubt rather than respect."},
+        {"q": "What does 'khila' mean, as part of 'cetokhila'?",
+         "opts": [
+             "Barren, hardened ground — unreceptive soil that won't take seed",
+             "A sharp weapon",
+             "A formal accusation",
+             "A meditation posture"],
+         "correct": 0,
+         "expl": "A precise image applied to the heart in this discourse's title."},
+        {"q": "How does the fifth kind of hard-heartedness differ from the first four?",
+         "opts": [
+             "It's directed at spiritual companions, an interpersonal resentment rather than doctrinal doubt",
+             "It applies only to laypeople",
+             "It is identical to the first four in every respect",
+             "It has no connection to the mind's inclination toward effort"],
+         "correct": 0,
+         "expl": "Anger and closed-off resentment, rather than uncertainty about doctrine or institution."},
+        {"q": "What discourse pairs directly with this one, following immediately after?",
+         "opts": [
+             "AN 5.206, Shackles — attachment and craving producing the identical result",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A companion list, replacing doubt with attachment as the obstacle."},
+        {"q": "What does 'sabrahmacārī' mean?",
+         "opts": [
+             "Spiritual companions",
+             "A formal accuser",
+             "A senior teacher",
+             "A newly ordained novice"],
+         "correct": 0,
+         "expl": "The object of the fifth kind of hard-heartedness."},
+        {"q": "What is the practical consequence this discourse identifies, regardless of which of the five is present?",
+         "opts": [
+             "A mind that simply won't engage, no matter how much effort is nominally being made",
+             "Formal legal punishment",
+             "Immediate loss of ordination",
+             "Physical exhaustion"],
+         "correct": 0,
+         "expl": "Effort itself can't take root, exactly as barren ground won't take seed."},
+        {"q": "What does 'kaṅkhati vicikicchati' describe?",
+         "opts": [
+             "Having doubts, being uncertain",
+             "Feeling confident and settled",
+             "Formal ordination",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "The state named for the first four kinds of hard-heartedness."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga"],
+         "correct": 0,
+         "expl": "'With Kimbila', this session's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Four doubts, one resentment", [
+            "Teacher &middot; teaching",
+            "&middot; Saṅgha &middot;",
+            "training &middot; companions",
+        ]),
+        ("Barren ground", [
+            "effort itself can't",
+            "take root",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">cetokhila</span>",
+            "&mdash; hard-heartedness",
+        ]),
+        ("Cross-references", [
+            "AN 5.201 &middot; the same five objects, framed there as respect "
+            "rather than doubt",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.205/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.204.html">AN 5.204 &middot; Powers</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.206.html">AN 5.206 &middot; Shackles</a> &mdash; next: a '
+        "companion list, on attachment rather than doubt.",
+        '<a href="an-5.201.html">AN 5.201 &middot; With Kimbila</a> &mdash; the same '
+        "five objects, framed there as respect rather than doubt.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.206 — Vinibandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    206, "Vinibandha", "Shackles",
+    vagga=VAGGA_21,
+    meta_title="AN 5.206 — Shackles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vinibandhasutta — five shackles of the heart, from sensual desire to a "
+        "subtly self-interested wish for rebirth as a god. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "five parallel structures, each ending in the same diagnostic "
+                 "formula"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; escalates to a "
+                       "genuinely subtle final item"),
+    ],
+    why=(
+        "A companion to AN 5.205's hard-heartedness, naming five shackles of "
+        "attachment rather than doubt &mdash; and closing with its most subtle "
+        "item: renunciation itself, undertaken not for liberation but in secret "
+        "hope of a heavenly rebirth."),
+    guide=[
+        ("The same diagnostic formula, a different cause", [
+            "As with AN 5.205, each shackle is shown to produce the identical "
+            "result: a mind that doesn't incline toward keenness, commitment, "
+            "persistence, and striving. Where hard-heartedness names doubt and "
+            "resentment as the cause, this discourse names attachment."]),
+        ("Sensuality, the body, and form", [
+            "Not being free of desire for sensual pleasures generally; not being "
+            "free of desire specifically for one's own body; and not being free of "
+            "desire for external form &mdash; three progressively more subtle "
+            "objects of the same underlying attachment."]),
+        ("Indulgence in comfort", [
+            "The fourth shackle names a specific, concrete behavior: eating until "
+            "full, then indulging in the pleasures of sleeping, lying down, and "
+            "drowsing &mdash; ordinary bodily comfort-seeking, named as a genuine "
+            "obstacle to sustained practice."]),
+        ("The most subtle shackle: renunciation for the wrong reason", [
+            "The fifth shackle is the most striking: leading the spiritual life "
+            "while secretly hoping, through one's ethics or austerity or "
+            "discipline, to be reborn as a god &mdash; renunciation itself, "
+            "genuinely practiced in outward form, corrupted from within by a "
+            "subtly self-interested motive."]),
+        ("A companion note on the fourth shackle's phrase", [
+            "Cross-ref AN 5.192's brahmin typology, where <em>devasama</em> "
+            "(equal to a god) names a genuinely praiseworthy path involving "
+            "rebirth in a heavenly realm through disciplined household life. This "
+            "discourse's fifth shackle names something related but distinct: "
+            "wanting that outcome specifically, as the motive behind renunciation "
+            "&mdash; the difference between a genuine outcome and a corrupting "
+            "wish for it."]),
+    ],
+    terms=[
+        ("cetasovinibandha",
+         "&ldquo;shackle of the heart&rdquo; &mdash; this discourse's title "
+         "concept, five forms of attachment that prevent sustained effort."),
+        ("kāmesu avītarāgo",
+         "&ldquo;not free of desire for sensual pleasures&rdquo; &mdash; the "
+         "first, most general shackle."),
+        ("seyyasukhaṁ passasukhaṁ middhasukhaṁ",
+         "&ldquo;the pleasures of sleeping, lying down, and drowsing&rdquo; "
+         "&mdash; the specific comfort-seeking named in the fourth shackle."),
+        ("aññataraṁ devanikāyaṁ paṇidhāya",
+         "&ldquo;hoping to be reborn in one of the orders of gods&rdquo; &mdash; "
+         "the secret motive corrupting the fifth and most subtle shackle."),
+        ("cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya",
+         "&ldquo;the mind doesn't incline toward keenness, commitment, "
+         "persistence, and striving&rdquo; &mdash; the identical diagnostic "
+         "formula shared with AN 5.205."),
+    ],
+    text_intro=(
+        "The discourse in full: five shackles of the heart, from sensuality to a "
+        "secret hope for heaven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five shackles of the heart"),
+        ("p", "&sect;1", "an5.206:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What five shackles of the heart does this discourse name?",
+         "opts": [
+             "Desire for sensual pleasures, for the body, for form, comfort-seeking, and hoping for heavenly rebirth",
+             "The five precepts broken",
+             "Five kinds of doubt about doctrine",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Five forms of attachment, escalating in subtlety."},
+        {"q": "How does this discourse relate to AN 5.205?",
+         "opts": [
+             "A companion list, naming attachment rather than doubt as the obstacle to effort",
+             "A direct contradiction of AN 5.205's conclusions",
+             "An entirely unrelated topic",
+             "A word-for-word repetition of AN 5.205"],
+         "correct": 0,
+         "expl": "Both use the identical diagnostic formula for their conclusion."},
+        {"q": "What does the fourth shackle describe?",
+         "opts": [
+             "Eating until full, then indulging in sleeping, lying down, and drowsing",
+             "Refusing all food entirely",
+             "A formal accusation against a companion",
+             "Doubt about the Buddha's teaching"],
+         "correct": 0,
+         "expl": "Ordinary bodily comfort-seeking, named as a genuine obstacle."},
+        {"q": "What makes the fifth shackle the most subtle of the five?",
+         "opts": [
+             "It corrupts genuine outward renunciation from within, through a secret hope for heavenly rebirth",
+             "It involves no actual practice at all",
+             "It applies only to laypeople",
+             "It is identical to the first shackle"],
+         "correct": 0,
+         "expl": "Renunciation practiced outwardly, undermined by an inward motive."},
+        {"q": "How does this discourse's fifth shackle relate to AN 5.192's 'devasama' brahmin?",
+         "opts": [
+             "It names the corrupting wish for that same outcome, distinct from the outcome genuinely achieved through disciplined practice",
+             "The two discourses describe identical, praiseworthy paths",
+             "AN 5.192 condemns devasama entirely",
+             "There is no meaningful connection between the two"],
+         "correct": 0,
+         "expl": "The difference between a genuine outcome and a corrupting wish for it."},
+        {"q": "What does 'kāmesu avītarāgo' mean?",
+         "opts": [
+             "Not free of desire for sensual pleasures",
+             "Fully free of all desire",
+             "Formally ordained",
+             "Skilled in debate"],
+         "correct": 0,
+         "expl": "The first, most general shackle in this discourse's list."},
+        {"q": "What three progressively subtle objects does this discourse name for the first three shackles?",
+         "opts": [
+             "Sensual pleasures generally, one's own body, and external form",
+             "Wealth, status, and reputation",
+             "Food, clothing, and shelter",
+             "Family, friends, and teachers"],
+         "correct": 0,
+         "expl": "Escalating subtlety within the same underlying attachment."},
+        {"q": "What does 'aññataraṁ devanikāyaṁ paṇidhāya' mean?",
+         "opts": [
+             "Hoping to be reborn in one of the orders of gods",
+             "Rejecting all belief in gods",
+             "Formally worshipping a specific deity",
+             "Renouncing family relationships"],
+         "correct": 0,
+         "expl": "The secret motive corrupting the fifth and most subtle shackle."},
+        {"q": "What diagnostic formula does this discourse share with AN 5.205?",
+         "opts": [
+             "The mind doesn't incline toward keenness, commitment, persistence, and striving",
+             "The mind becomes immediately liberated",
+             "The mind experiences physical illness",
+             "The mind is formally expelled from the Saṅgha"],
+         "correct": 0,
+         "expl": "Identical wording, closing all five items in both discourses."},
+        {"q": "What discourse follows, turning to an entirely practical, everyday concern?",
+         "opts": [
+             "AN 5.207, Porridge",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "Five benefits of rice porridge, a shift to mundane monastic life."},
+    ],
+    marginalia=[
+        ("Five escalating attachments", [
+            "sensuality &middot; body",
+            "&middot; form &middot;",
+            "comfort &middot;",
+            "secret hope for heaven",
+        ]),
+        ("The most subtle shackle", [
+            "renunciation, corrupted",
+            "from within",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">cetasovinibandha</span>",
+            "&mdash; shackle of",
+            "the heart",
+        ]),
+        ("Cross-references", [
+            "AN 5.205 &middot; this discourse's companion list, on doubt rather "
+            "than attachment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.206/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.205.html">AN 5.205 &middot; Hard-heartedness</a> &mdash; the '
+        "previous discourse, this same diagnostic applied to doubt.",
+        '<a href="an-5.207.html">AN 5.207 &middot; Porridge</a> &mdash; next: a shift '
+        "to the entirely practical, benefits of rice porridge.",
+        '<a href="an-5.192.html">AN 5.192 &middot; With the Brahmin Doṇa</a> &mdash; '
+        "devasama, the genuine outcome this discourse's fifth shackle wrongly "
+        "hopes for.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.207 — Yāgusutta
+# --------------------------------------------------------------------------- #
+page(
+    207, "Yāgu", "Porridge",
+    vagga=VAGGA_21,
+    meta_title="AN 5.207 — Porridge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Yāgusutta — five plainly practical benefits of rice porridge, part of "
+        "this collection's recurring attention to ordinary monastic life. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive/negative mirror"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "entirely practical"),
+    ],
+    why=(
+        "A refreshingly mundane discourse: five plain, physical benefits of rice "
+        "porridge &mdash; a reminder that this collection's attention extends to "
+        "the ordinary texture of monastic life, not only doctrine and meditation."),
+    guide=[
+        ("Five physical benefits, stated plainly", [
+            "Porridge wards off hunger, quenches thirst, settles wind (digestive "
+            "gas), cleans the bladder, and helps digestion &mdash; five concrete, "
+            "bodily benefits, with no doctrinal framing at all."]),
+        ("A discourse about food, taken at face value", [
+            "Unlike the many discourses in this collection that use food or "
+            "eating as a springboard for a spiritual point, this one simply "
+            "describes porridge's practical value &mdash; useful information for "
+            "anyone managing a mendicant's diet and health, offered without "
+            "further interpretation."]),
+        ("Part of a recognizable genre", [
+            "This discourse belongs to a small, recognizable genre within this "
+            "collection: brief, practical teachings on daily monastic "
+            "maintenance, alongside this chapter's own AN 5.208 on chew sticks "
+            "and AN 5.210 on sleep."]),
+        ("Why practical teachings sit alongside profound ones", [
+            "This chapter places a discourse on porridge just three positions "
+            "after AN 5.200's teaching on the cessation of selfhood, and just "
+            "before further discourses on mindful sleep and vocal recitation "
+            "&mdash; a reminder that this collection doesn't rank its content by "
+            "doctrinal weight; ordinary bodily maintenance sits comfortably "
+            "alongside liberation itself."]),
+        ("What follows", [
+            "AN 5.208 continues in this same practical register, with a paired "
+            "list of drawbacks and benefits concerning dental hygiene."]),
+    ],
+    terms=[
+        ("yāgu",
+         "&ldquo;rice porridge, gruel&rdquo; &mdash; this discourse's title "
+         "concept and subject."),
+        ("khuddaṁ paṭihanati",
+         "&ldquo;wards off hunger&rdquo; &mdash; the first of the five plain "
+         "benefits."),
+        ("pipāsaṁ paṭivineti",
+         "&ldquo;quenches thirst&rdquo; &mdash; the second benefit."),
+        ("vātaṁ anulometi",
+         "&ldquo;settles the wind&rdquo; &mdash; referring to digestive gas, the "
+         "third benefit."),
+        ("āmāvasesaṁ pāceti",
+         "&ldquo;helps digestion&rdquo; &mdash; the fifth and final benefit "
+         "named."),
+    ],
+    text_intro=(
+        "The discourse in full: five plain benefits of rice porridge. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five benefits of porridge"),
+        ("p", "&sect;1", "an5.207:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What five benefits of porridge does this discourse name?",
+         "opts": [
+             "Warding off hunger, quenching thirst, settling wind, cleaning the bladder, and aiding digestion",
+             "The five precepts",
+             "The five aggregates",
+             "Faith, ethics, learning, generosity, wisdom"],
+         "correct": 0,
+         "expl": "Five concrete, physical benefits."},
+        {"q": "How does this discourse's treatment of food differ from many others in this collection?",
+         "opts": [
+             "It describes porridge's value plainly, without using it as a springboard for a spiritual point",
+             "It uses porridge as an elaborate metaphor for liberation",
+             "It condemns eating porridge as unwholesome",
+             "It denies porridge has any physical benefit at all"],
+         "correct": 0,
+         "expl": "Practical information, offered without further interpretation."},
+        {"q": "What genre within this collection does this discourse belong to?",
+         "opts": [
+             "Brief, practical teachings on daily monastic maintenance",
+             "Elaborate doctrinal treatises",
+             "Narrative discourses with named characters",
+             "Poetic verse compositions"],
+         "correct": 0,
+         "expl": "Alongside AN 5.208's chew sticks and AN 5.210's sleep hygiene."},
+        {"q": "What does this discourse's placement, near AN 5.200's teaching on selfhood, suggest?",
+         "opts": [
+             "This collection doesn't rank content by doctrinal weight — ordinary maintenance sits alongside liberation",
+             "Practical teachings are considered more important than doctrinal ones",
+             "The compilers made an editorial mistake in ordering",
+             "Only advanced practitioners should read practical teachings"],
+         "correct": 0,
+         "expl": "A comfortable coexistence of the mundane and the profound."},
+        {"q": "What does 'khuddaṁ paṭihanati' mean?",
+         "opts": [
+             "Wards off hunger",
+             "Quenches thirst",
+             "Settles digestive wind",
+             "Aids digestion"],
+         "correct": 0,
+         "expl": "The first of the five benefits named."},
+        {"q": "What does 'vātaṁ anulometi' mean?",
+         "opts": [
+             "Settles the wind (digestive gas)",
+             "Quenches thirst",
+             "Cleans the bladder",
+             "Aids digestion"],
+         "correct": 0,
+         "expl": "The third of the five benefits."},
+        {"q": "What discourse follows, continuing in this same practical register?",
+         "opts": [
+             "AN 5.208, Chew Sticks",
+             "AN 5.210, Unmindful",
+             "AN 5.161, Getting Rid of Resentment (1st)",
+             "AN 5.100, With Cunda"],
+         "correct": 0,
+         "expl": "A paired list on dental hygiene."},
+        {"q": "What does 'yāgu' mean?",
+         "opts": [
+             "Rice porridge, gruel",
+             "A formal ordination requirement",
+             "A type of monastic robe",
+             "A ceremonial donation"],
+         "correct": 0,
+         "expl": "This discourse's title concept and subject."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive/negative mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "One of this nipāta's most straightforwardly practical entries."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga"],
+         "correct": 0,
+         "expl": "'With Kimbila', this session's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Five plain benefits", [
+            "hunger &middot; thirst",
+            "&middot; digestive wind",
+            "&middot; the bladder &middot;",
+            "digestion",
+        ]),
+        ("No spiritual framing at all", [
+            "just useful, practical",
+            "information",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">yāgu</span>",
+            "&mdash; rice porridge",
+        ]),
+        ("Cross-references", [
+            "AN 5.208 &middot; next: another practical discourse, on dental "
+            "hygiene",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.207/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.206.html">AN 5.206 &middot; Shackles</a> &mdash; the previous '
+        "discourse in this chapter.",
+        '<a href="an-5.208.html">AN 5.208 &middot; Chew Sticks</a> &mdash; next: '
+        "another practical discourse, on dental hygiene.",
+        '<a href="an-5.210.html">AN 5.210 &middot; Unmindful</a> &mdash; this '
+        "chapter's closer, on the practicalities of mindful sleep.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.208 — Dantakaṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    208, "Dantakaṭṭha", "Chew Sticks",
+    vagga=VAGGA_21,
+    meta_title="AN 5.208 — Chew Sticks | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dantakaṭṭhasutta — five drawbacks of neglecting dental hygiene, and five "
+        "matching benefits of using a chew stick. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "entirely practical"),
+    ],
+    why=(
+        "A companion to AN 5.207's porridge discourse, equally practical: five "
+        "drawbacks of neglecting the traditional chew stick, and the five exactly "
+        "matching benefits of using one &mdash; basic dental hygiene, treated with "
+        "the same structural care as any doctrinal teaching."),
+    guide=[
+        ("Five drawbacks of neglect", [
+            "Not using a chew stick is bad for the eyes, causes bad breath, "
+            "leaves the taste-buds unclean, lets bile and phlegm cover one's "
+            "food, and spoils the appetite &mdash; five concrete physical "
+            "consequences."]),
+        ("Five matching benefits", [
+            "Using one is good for the eyes, prevents bad breath, cleans the "
+            "taste-buds, keeps bile and phlegm from covering food, and helps "
+            "food agree with the body &mdash; the clean, exact mirror of the "
+            "drawback list, item for item."]),
+        ("A dantakaṭṭha, in context", [
+            "A <em>dantakaṭṭha</em> was a small twig or stick, chewed to fray "
+            "one end into bristles and used to clean the teeth &mdash; the "
+            "traditional dental-hygiene tool this discourse recommends, still "
+            "used in various forms across South and Southeast Asia today."]),
+        ("The same schema as doctrinal teachings, applied to hygiene", [
+            "This discourse's structure &mdash; five drawbacks, then their exact "
+            "five-item mirror as benefits &mdash; is identical to the format used "
+            "throughout this collection for doctrinal and ethical content, "
+            "applied here without adjustment to a matter of basic bodily care."]),
+        ("A companion to AN 5.207", [
+            "Together with the previous discourse on porridge, this pairing "
+            "reflects this chapter's genuine interest in the practical, physical "
+            "conditions of a mendicant's daily life &mdash; not everything in "
+            "this collection concerns liberation directly."]),
+    ],
+    terms=[
+        ("dantakaṭṭha",
+         "&ldquo;a chew stick&rdquo; &mdash; a small twig chewed into bristles, "
+         "used for dental hygiene, this discourse's title concept."),
+        ("acakkhussaṁ",
+         "&ldquo;not good for the eyes&rdquo; &mdash; the first drawback of "
+         "neglect, and its mirrored benefit."),
+        ("rasaharaṇiyo",
+         "&ldquo;taste-buds&rdquo; &mdash; whether cleaned or left unclean, "
+         "depending on chew-stick use."),
+        ("pittaṁ semhaṁ",
+         "&ldquo;bile and phlegm&rdquo; &mdash; substances said to cover food "
+         "when dental hygiene is neglected."),
+        ("bhattamassa chādeti",
+         "&ldquo;food agrees with them&rdquo; &mdash; the fifth benefit of using "
+         "a chew stick."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of neglecting dental hygiene, and "
+        "five matching benefits. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of not using chew sticks"),
+        ("p", "&sect;1", "an5.208:1.1-1.4"),
+        ("h3", "Five benefits of using them"),
+        ("p", "&sect;2", "an5.208:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What is a 'dantakaṭṭha'?",
+         "opts": [
+             "A small twig chewed into bristles, used for dental hygiene",
+             "A formal ordination requirement",
+             "A type of monastic robe",
+             "A ceremonial food offering"],
+         "correct": 0,
+         "expl": "This discourse's title concept and central subject."},
+        {"q": "What five drawbacks does neglecting dental hygiene cause, according to this discourse?",
+         "opts": [
+             "Bad eyes, bad breath, unclean taste-buds, food covered by bile and phlegm, and lost appetite",
+             "The five precepts broken",
+             "Five kinds of physical illness unrelated to teeth",
+             "Formal expulsion from the Saṅgha"],
+         "correct": 0,
+         "expl": "Five concrete physical consequences of neglect."},
+        {"q": "How does the benefits list relate to the drawbacks list?",
+         "opts": [
+             "It is the exact, clean mirror of the drawbacks, item for item",
+             "It names an entirely different set of five items",
+             "It contradicts the drawbacks list",
+             "Only three of the five items are mirrored"],
+         "correct": 0,
+         "expl": "The same five concerns, reversed."},
+        {"q": "What does 'rasaharaṇiyo' refer to?",
+         "opts": [
+             "Taste-buds",
+             "The bladder",
+             "The eyes",
+             "The appetite"],
+         "correct": 0,
+         "expl": "Whether cleaned or left unclean, depending on chew-stick use."},
+        {"q": "What structural pattern does this discourse share with much doctrinal content in this collection?",
+         "opts": [
+             "A five-item list, mirrored exactly as its positive counterpart",
+             "A long narrative with dialogue",
+             "A colophon closing a chapter",
+             "A verse composition"],
+         "correct": 0,
+         "expl": "Applied here to a matter of basic bodily care."},
+        {"q": "What does 'pittaṁ semhaṁ' mean?",
+         "opts": [
+             "Bile and phlegm",
+             "Bread and water",
+             "Robes and bowls",
+             "Faith and confidence"],
+         "correct": 0,
+         "expl": "Substances said to cover food when dental hygiene is neglected."},
+        {"q": "What discourse does this pair with, forming a practical duo in this chapter?",
+         "opts": [
+             "AN 5.207, Porridge",
+             "AN 5.201, With Kimbila",
+             "AN 5.192, With the Brahmin Doṇa",
+             "AN 5.161, Getting Rid of Resentment (1st)"],
+         "correct": 0,
+         "expl": "Together reflecting this chapter's interest in daily physical life."},
+        {"q": "What does 'acakkhussaṁ' mean?",
+         "opts": [
+             "Not good for the eyes",
+             "Not good for the ears",
+             "Not good for the throat",
+             "Not good for the hands"],
+         "correct": 0,
+         "expl": "The first drawback of neglecting a chew stick."},
+        {"q": "What does this discourse's use of a strict doctrinal-style schema for hygiene suggest?",
+         "opts": [
+             "This collection doesn't reserve careful structure only for profound topics",
+             "Hygiene topics are considered more important than doctrine",
+             "The schema is unique to hygiene-related content only",
+             "The discourse is a later, unauthentic addition"],
+         "correct": 0,
+         "expl": "The same careful structure applied without adjustment."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Kimilavagga",
+             "Brāhmaṇavagga",
+             "Akkosakavagga",
+             "Dīghacārikavagga"],
+         "correct": 0,
+         "expl": "'With Kimbila', this session's twenty-first chapter."},
+    ],
+    marginalia=[
+        ("Five drawbacks, five benefits", [
+            "eyes &middot; breath &middot;",
+            "taste-buds &middot;",
+            "clean food &middot;",
+            "appetite",
+        ]),
+        ("An exact mirror", [
+            "each drawback matched",
+            "to its own benefit",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">dantakaṭṭha</span>",
+            "&mdash; a chew stick",
+        ]),
+        ("Cross-references", [
+            "AN 5.207 &middot; a companion practical discourse, on porridge",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.208/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.207.html">AN 5.207 &middot; Porridge</a> &mdash; the previous '
+        "discourse, a companion piece of practical guidance.",
+        '<a href="an-5.209.html">AN 5.209 &middot; The Sound of Singing</a> &mdash; '
+        "next: drawbacks of reciting the teaching with a singing voice.",
+        '<a href="an-5.210.html">AN 5.210 &middot; Unmindful</a> &mdash; this '
+        "chapter's closer, on the practicalities of mindful sleep.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.209 — Gītassarasutta
+# --------------------------------------------------------------------------- #
+page(
+    209, "Gītassara", "The Sound of Singing",
+    vagga=VAGGA_21,
+    meta_title="AN 5.209 — The Sound of Singing | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gītassarasutta — five drawbacks of reciting the teaching with a "
+        "drawn-out singing voice, from self-indulgence to setting a bad "
+        "precedent. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "single five-item list, no positive mirror"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, a "
+                       "practical warning"),
+    ],
+    why=(
+        "A genuinely specific piece of practical guidance: five distinct problems "
+        "with reciting the teaching in a drawn-out, musical singing voice, moving "
+        "from personal vanity through public criticism to a lasting institutional "
+        "consequence."),
+    guide=[
+        ("Five drawbacks, in escalating scope", [
+            "Relishing the sound of one's own voice; others relishing it too; "
+            "householders complaining that these ascetics &lsquo;sing just like "
+            "us&rsquo;; concentration breaking apart while chasing the melody; "
+            "and, closing the list, those who come after imitating the "
+            "example."]),
+        ("Vanity, both ways", [
+            "The first two drawbacks name a shared vanity: not just the reciter "
+            "enjoying their own voice, but listeners enjoying it too &mdash; "
+            "turning the teaching's recitation into something closer to a "
+            "performance both parties are drawn to for its own sake."]),
+        ("A specific, quoted public complaint", [
+            "The third drawback is unusually concrete: an actual line of "
+            "criticism attributed to householders, comparing the Buddhist "
+            "ascetics' singing recitation unfavorably to ordinary popular song "
+            "&mdash; a real reputational cost, not an abstract concern."]),
+        ("Concentration lost to the melody", [
+            "The fourth names something more internal: enjoying the tune itself "
+            "breaks one's immersion (<em>samādhi</em>) &mdash; the very "
+            "attention that recitation is meant to support gets displaced by "
+            "attention to the performance."]),
+        ("Imitation, the final and most lasting cost", [
+            "The fifth drawback closes with <em>diṭṭhānugati</em> &mdash; "
+            "&lsquo;those who come after follow the example&rsquo; &mdash; the "
+            "same imitation-mechanism already flagged at AN 5.79, AN 5.88, and "
+            "AN 5.156. A single reciter's self-indulgence, on this view, doesn't "
+            "stay contained to one person; it becomes a precedent others simply "
+            "copy."]),
+    ],
+    terms=[
+        ("gītassara",
+         "&ldquo;a singing voice&rdquo; &mdash; specifically the drawn-out, "
+         "musical recitation style this discourse warns against."),
+        ("sārajjati",
+         "&ldquo;relishes, delights in&rdquo; &mdash; the shared vanity named in "
+         "the first two drawbacks, on the part of both reciter and listener."),
+        ("samaṇā sakyaputtiyā",
+         "&ldquo;these ascetics who follow the Sakyan&rdquo; &mdash; the "
+         "householders' quoted complaint, comparing Buddhist reciters to "
+         "ordinary singers."),
+        ("samādhissa bhaṅgo",
+         "&ldquo;a breakup of immersion&rdquo; &mdash; the fourth drawback, "
+         "concentration displaced by attention to the melody."),
+        ("diṭṭhānugatiṁ āpajjati",
+         "&ldquo;falls into imitation&rdquo; &mdash; the same mechanism already "
+         "named at AN 5.79, AN 5.88, and AN 5.156."),
+    ],
+    text_intro=(
+        "The discourse in full: five drawbacks of reciting the teaching with a "
+        "singing voice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of a singing voice"),
+        ("p", "&sect;1", "an5.209:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks does this discourse name for reciting the teaching with a singing voice?",
+         "opts": [
+             "Self-indulgence, others' indulgence, public complaint, broken concentration, and imitation by later reciters",
+             "The five precepts broken",
+             "Five kinds of physical illness",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Five distinct problems, escalating in scope."},
+        {"q": "What specific complaint does this discourse attribute to householders?",
+         "opts": [
+             "'These ascetics who follow the Sakyan, sing just like us!'",
+             "'These ascetics never recite the teaching at all'",
+             "'These ascetics recite in a language we don't understand'",
+             "No specific complaint is quoted"],
+         "correct": 0,
+         "expl": "An unusually concrete, quoted public criticism."},
+        {"q": "What does the fourth drawback describe?",
+         "opts": [
+             "Concentration breaking apart while chasing the melody",
+             "A formal accusation from a senior mendicant",
+             "Physical illness caused by singing",
+             "A dispute over the correct wording of a text"],
+         "correct": 0,
+         "expl": "Attention to performance displacing the attention recitation should support."},
+        {"q": "What mechanism does the fifth drawback name, already seen elsewhere in this collection?",
+         "opts": [
+             "Diṭṭhānugati — those who come after imitating the example",
+             "Cetokhila — hard-heartedness",
+             "Nissāraṇīya — escape",
+             "Vinibandha — a shackle of the heart"],
+         "correct": 0,
+         "expl": "The same imitation-mechanism from AN 5.79, 5.88, and 5.156."},
+        {"q": "What does this discourse suggest about a single reciter's self-indulgence?",
+         "opts": [
+             "It doesn't stay contained to one person — it becomes a precedent others copy",
+             "It has no effect on anyone besides the reciter",
+             "It is always harmless and inconsequential",
+             "It only affects listeners, never later reciters"],
+         "correct": 0,
+         "expl": "The lasting, institutional cost named in the fifth drawback."},
+        {"q": "What does 'sārajjati' mean in this context?",
+         "opts": [
+             "Relishes, delights in",
+             "Refuses, rejects",
+             "Forgets entirely",
+             "Formally accuses"],
+         "correct": 0,
+         "expl": "The shared vanity of both reciter and listener."},
+        {"q": "What does 'samādhissa bhaṅgo' mean?",
+         "opts": [
+             "A breakup of immersion, concentration",
+             "A formal legal dispute",
+             "A physical injury",
+             "A type of monastic robe"],
+         "correct": 0,
+         "expl": "The fourth drawback of a drawn-out singing voice."},
+        {"q": "Where else in this nipāta does 'diṭṭhānugati' appear?",
+         "opts": [
+             "AN 5.79, AN 5.88, and AN 5.156",
+             "Nowhere else in this collection",
+             "Only in this discourse",
+             "AN 5.100 and AN 5.106"],
+         "correct": 0,
+         "expl": "A recurring concern with imitation across this nipāta."},
+        {"q": "What structural form does this discourse take?",
+         "opts": [
+             "A single five-item list, with no positive mirror",
+             "Two paired five-item lists",
+             "An extended narrative with dialogue",
+             "A closing colophon only"],
+         "correct": 0,
+         "expl": "A bare warning, without a mirrored positive statement."},
+        {"q": "What does 'samaṇā sakyaputtiyā' mean?",
+         "opts": [
+             "Ascetics who follow the Sakyan (the Buddha)",
+             "Ascetics who reject all teachers",
+             "A formal title for a senior mendicant",
+             "A type of lay follower"],
+         "correct": 0,
+         "expl": "How householders refer to Buddhist mendicants in this discourse's quoted complaint."},
+    ],
+    marginalia=[
+        ("Five escalating drawbacks", [
+            "self-indulgence &middot;",
+            "others' indulgence &middot;",
+            "complaint &middot; broken",
+            "focus &middot; imitation",
+        ]),
+        ("A real, quoted complaint", [
+            "&lsquo;sing just like",
+            "us&rsquo;",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">diṭṭhānugati</span>",
+            "&mdash; falling into",
+            "imitation",
+        ]),
+        ("Cross-references", [
+            "AN 5.79 &middot; AN 5.88 &middot; AN 5.156 &middot; this same "
+            "imitation mechanism, elsewhere",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.209/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.208.html">AN 5.208 &middot; Chew Sticks</a> &mdash; the '
+        "previous discourse in this chapter.",
+        '<a href="an-5.210.html">AN 5.210 &middot; Unmindful</a> &mdash; next: this '
+        "chapter's closer, on the practicalities of mindful sleep.",
+        '<a href="an-5.156.html">AN 5.156 &middot; The Decline of the True '
+        "Teaching (3rd)</a> &mdash; the same diṭṭhānugati imitation mechanism, "
+        "in a different context.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.210 — Muṭṭhassatisutta (chapter closer)
+# --------------------------------------------------------------------------- #
+page(
+    210, "Muṭṭhassati", "Unmindful",
+    vagga=VAGGA_21,
+    meta_title="AN 5.210 — Unmindful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Muṭṭhassatisutta, closing the Kimilavagga — five drawbacks of falling "
+        "asleep unmindfully, and five benefits of falling asleep with mindful "
+        "awareness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, drawbacks then benefits"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, "
+                       "closing the chapter with a practical teaching"),
+    ],
+    why=(
+        "This chapter closes exactly as it spent much of its second half: with "
+        "genuinely practical guidance &mdash; here, mindfulness treated as "
+        "something that should carry through the moment of falling asleep, not "
+        "only through waking practice."),
+    guide=[
+        ("Five drawbacks of unmindful sleep", [
+            "Falling asleep unmindful and unaware leads to sleeping badly, waking "
+            "up miserable, having bad dreams, going unprotected by protective "
+            "deities, and experiencing nocturnal emission &mdash; five concrete "
+            "physical and experiential costs."]),
+        ("Five matching benefits", [
+            "Falling asleep with mindfulness and full awareness produces the "
+            "exact mirror: sleeping at ease, waking up happy, no bad dreams, "
+            "protective deities watching over the sleeper, and no nocturnal "
+            "emission &mdash; the same five concerns, reversed."]),
+        ("Mindfulness as a bridge into sleep, not just waking practice", [
+            "This discourse's real content is a genuinely practical point: "
+            "mindfulness isn't only for seated meditation or daytime awareness "
+            "&mdash; the specific manner of falling asleep, mindful or careless, "
+            "is itself treated as a meaningful practice with real consequences."]),
+        ("Deities and dreams, alongside bodily effects", [
+            "Alongside plainly physical outcomes (sleep quality, nocturnal "
+            "emission), this discourse also names protective deities and dream "
+            "content as genuine effects of mindful or unmindful sleep &mdash; the "
+            "same willingness, seen elsewhere in this project, to state the "
+            "text's own cosmology plainly rather than filtering it out."]),
+        ("Closing the chapter", [
+            "The chapter closes with its colophon, &lsquo;Dasamaṁ. Kimilavaggo "
+            "paṭhamo&rsquo; (&lsquo;The tenth. The first chapter on "
+            "Kimbila&rsquo;), followed by an uddāna verse naming this chapter's "
+            "ten discourses in brief &mdash; the same summarizing mechanism "
+            "explained in full at AN 5.10."]),
+    ],
+    terms=[
+        ("muṭṭhassati asampajāna",
+         "&ldquo;unmindful and unaware&rdquo; &mdash; the state this discourse's "
+         "title concept describes, and its negative condition."),
+        ("upaṭṭhitassati sampajāna",
+         "&ldquo;mindful and aware&rdquo; &mdash; the positive counterpart, "
+         "carried into the moment of falling asleep."),
+        ("pāpakaṁ supinaṁ passati",
+         "&ldquo;has bad dreams&rdquo; &mdash; one of the five drawbacks of "
+         "unmindful sleep."),
+        ("devatā rakkhanti",
+         "&ldquo;deities protect [them]&rdquo; &mdash; one of the five benefits "
+         "of mindful sleep."),
+        ("asuci muccati",
+         "&ldquo;emits semen&rdquo; &mdash; the fifth drawback of unmindful "
+         "sleep, and its avoidance the fifth benefit of mindful sleep."),
+    ],
+    text_intro=(
+        "The discourse in full, closing this chapter: five drawbacks of "
+        "unmindful sleep, and five benefits of mindful sleep. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five drawbacks of unmindful sleep"),
+        ("p", "&sect;1", "an5.210:1.1-1.4"),
+        ("h3", "Five benefits of mindful sleep"),
+        ("p", "&sect;2", "an5.210:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What five drawbacks does this discourse name for falling asleep unmindfully?",
+         "opts": [
+             "Sleeping badly, waking miserable, bad dreams, no protection from deities, and nocturnal emission",
+             "The five precepts broken",
+             "Five kinds of physical illness unrelated to sleep",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Five concrete physical and experiential costs."},
+        {"q": "How does the benefits list relate to the drawbacks list?",
+         "opts": [
+             "It is the exact mirror, item for item",
+             "It names an entirely unrelated five benefits",
+             "Only two of the five items are mirrored",
+             "It contradicts the drawbacks list"],
+         "correct": 0,
+         "expl": "The same five concerns, reversed through mindful sleep."},
+        {"q": "What is this discourse's real, practical point?",
+         "opts": [
+             "Mindfulness should carry through the moment of falling asleep, not only waking practice",
+             "Sleep should be avoided entirely by serious practitioners",
+             "Only monastics need to worry about sleep quality",
+             "Dreams have no genuine significance whatsoever"],
+         "correct": 0,
+         "expl": "The manner of falling asleep is itself treated as a meaningful practice."},
+        {"q": "What does this discourse name alongside plainly physical outcomes like sleep quality?",
+         "opts": [
+             "Protective deities and dream content",
+             "Formal legal consequences",
+             "Financial outcomes",
+             "Social status changes"],
+         "correct": 0,
+         "expl": "Stating the text's own cosmology plainly, as elsewhere in this project."},
+        {"q": "What does 'muṭṭhassati asampajāna' mean?",
+         "opts": [
+             "Unmindful and unaware",
+             "Mindful and fully aware",
+             "Formally ordained",
+             "Physically exhausted"],
+         "correct": 0,
+         "expl": "The negative condition this discourse's title concept describes."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "'Dasamaṁ. Kimilavaggo paṭhamo.'",
+             "'Dasamaṁ. Brāhmaṇavaggo pañcamo.'",
+             "No colophon appears in this chapter",
+             "'Ekādasamaṁ. Akkosakavaggo.'"],
+         "correct": 0,
+         "expl": "'The tenth. The first chapter on Kimbila.'"},
+        {"q": "What does 'devatā rakkhanti' mean?",
+         "opts": [
+             "Deities protect [the sleeper]",
+             "Deities abandon [the sleeper]",
+             "A formal accusation",
+             "A type of meditation retreat"],
+         "correct": 0,
+         "expl": "One of the five benefits of mindful sleep."},
+        {"q": "What mechanism does the closing uddāna verse use?",
+         "opts": [
+             "A summary verse naming this chapter's ten discourses in brief, explained in full at AN 5.10",
+             "A formal legal proceeding",
+             "A newly introduced technique unique to this chapter",
+             "A narrative epilogue with named characters"],
+         "correct": 0,
+         "expl": "The same summarizing mechanism used throughout this project."},
+        {"q": "What chapter comes next?",
+         "opts": [
+             "Akkosakavagga",
+             "Dīghacārikavagga",
+             "Duccaritavagga",
+             "Upasampadāvagga"],
+         "correct": 0,
+         "expl": "AN 5.211 begins this collection's twenty-second chapter."},
+        {"q": "What does 'asuci muccati' mean?",
+         "opts": [
+             "Emits semen (nocturnal emission)",
+             "Wakes up refreshed",
+             "Has vivid, pleasant dreams",
+             "Sleeps through the entire night undisturbed"],
+         "correct": 0,
+         "expl": "The fifth drawback of unmindful sleep, avoided through mindful sleep."},
+    ],
+    marginalia=[
+        ("Five drawbacks, five benefits", [
+            "sleep quality &middot;",
+            "waking mood &middot;",
+            "dreams &middot; protection",
+            "&middot; nocturnal emission",
+        ]),
+        ("Mindfulness into sleep itself", [
+            "not only for waking",
+            "practice",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">upaṭṭhitassati</span>",
+            "&mdash; mindful,",
+            "with awareness",
+        ]),
+        ("Cross-references", [
+            "AN 5.10 &middot; the uddāna mechanism, explained there in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.210/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.209.html">AN 5.209 &middot; The Sound of Singing</a> &mdash; '
+        "the previous discourse in this chapter.",
+        '<a href="an-5.201.html">AN 5.201 &middot; With Kimbila</a> &mdash; this '
+        "chapter&rsquo;s opening discourse.",
+        '<a href="an-5.207.html">AN 5.207 &middot; Porridge</a> &mdash; a companion '
+        "discourse in this chapter&rsquo;s practical, everyday register.",
+    ],
+)
