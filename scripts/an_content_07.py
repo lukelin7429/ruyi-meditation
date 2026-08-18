@@ -1540,3 +1540,1718 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# Chapter 2 — Anusayavagga (AN 7.11–20)
+# --------------------------------------------------------------------------- #
+VAGGA_2 = "<em>Anusayavagga</em> &mdash; the second chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.11 — Paṭhamaanusayasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Paṭhamaanusaya", "Underlying Tendencies (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 7.11 — Underlying Tendencies (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaanusayasutta, naming seven underlying tendencies identical in content to "
+        "AN 7.8's fetters but classified under a different technical category. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list, stated bare — opening this chapter with content "
+                 "already met once in this book under a different name"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "The sevenfold underlying tendencies (anusaya) as a distinct "
+                              "technical category from the fetters recurs throughout the "
+                              "Chinese Āgamas' Abhidharma-adjacent material; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; content already met at "
+                       "AN 7.8, now presented under a genuinely different technical term"),
+    ],
+    why=(
+        "Anusayavagga, &lsquo;Tendencies,&rsquo; opens with a list checked term by term "
+        "against AN 7.8's seven fetters from the previous chapter: sensual desire, "
+        "aversion, views, doubt, conceit, desire for continued existence, and ignorance "
+        "&mdash; the identical seven items, now named anusaya, &ldquo;underlying "
+        "tendencies,&rdquo; rather than saṁyojana, &ldquo;fetters.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are seven underlying tendencies: sensual desire, aversion, views, "
+            "doubt, conceit, desire for continued existence, and ignorance."]),
+        ("The same seven items, a different technical category", [
+            "Fetter (saṁyojana) and underlying tendency (anusaya) are distinct technical "
+            "terms in this literature's broader Abhidhamma-adjacent vocabulary: a fetter "
+            "binds a being to the cycle of rebirth, while an underlying tendency describes "
+            "a defilement's latent, dormant potential to arise even when not currently "
+            "active. That this discourse applies the identical seven-item content to both "
+            "categories suggests the two terms describe the same underlying defilements "
+            "from two different angles &mdash; as bonds, and as latent potentials &mdash; "
+            "rather than naming two different sets of things."]),
+        ("A chapter title matching its content directly", [
+            "Unlike several chapter titles already met across this series that describe "
+            "later content more than their opening discourse, Anusayavagga names its own "
+            "subject directly at this, its very first discourse."]),
+        ("Opening a pair matching AN 7.8/7.9's exact shape", [
+            "AN 7.12, immediately following, will do for this discourse's anusaya list "
+            "exactly what AN 7.9 already did for AN 7.8's saṁyojana list: state its "
+            "purpose and complete removal, closing on the identical formula already met "
+            "twice in this series."]),
+    ],
+    terms=[
+        ("anusaya",
+         "&ldquo;underlying tendency&rdquo; &mdash; this chapter's own title term, "
+         "describing a defilement's latent, dormant potential to arise."),
+        ("kāmarāga, paṭigha",
+         "&ldquo;sensual desire, aversion&rdquo; &mdash; the first two items, matching AN "
+         "7.8's first two fetters in substance though named slightly differently in Pāli."),
+        ("diṭṭhi, vicikicchā, māna",
+         "&ldquo;views, doubt, conceit&rdquo; &mdash; the third, fourth, and fifth items, "
+         "identical in wording to AN 7.8's fetters."),
+        ("bhavarāga, avijjā",
+         "&ldquo;desire for continued existence, ignorance&rdquo; &mdash; the sixth and "
+         "seventh items, closing this list exactly as they closed AN 7.8's."),
+        ("saṁyojana",
+         "&ldquo;fetter&rdquo; &mdash; the distinct technical category AN 7.8 in the "
+         "previous chapter applied to this identical seven-item content."),
+    ],
+    text_intro=(
+        "The discourse in full: the seven underlying tendencies, named bare. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven underlying tendencies"),
+        ("p", "&sect;1", "an7.11:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's seven-item list compare to AN 7.8's fetters, "
+              "checked term by term?",
+         "opts": [
+             "Entirely different content",
+             "Identical — the same seven items, now classified as underlying tendencies "
+             "(anusaya) rather than fetters (saṁyojana)",
+             "Only three items overlap",
+             "No relationship between the two lists"],
+         "correct": 1,
+         "expl": "The same defilements, described under a different technical category."},
+        {"q": "What does the guide say distinguishes 'fetter' from 'underlying tendency' as "
+              "technical terms?",
+         "opts": [
+             "They are complete synonyms with no distinction",
+             "A fetter binds a being to rebirth, while an underlying tendency describes a "
+             "defilement's latent, dormant potential to arise — two angles on the same "
+             "content",
+             "They refer to two entirely unrelated sets of defilements",
+             "Only underlying tendencies are ever actually removed"],
+         "correct": 1,
+         "expl": "Two different technical angles on what may be the same underlying "
+                 "defilements."},
+        {"q": "How does this discourse's relationship to its chapter's title compare to "
+              "several earlier chapter titles in this series?",
+         "opts": [
+             "Identical pattern — the title describes later content, not this opening "
+             "discourse",
+             "This chapter's title, Anusayavagga, matches its own subject directly at this "
+             "very first discourse, unlike several earlier chapters",
+             "The chapter has no relationship to any of its own discourses",
+             "This chapter has no title at all"],
+         "correct": 1,
+         "expl": "A direct match, rather than the delayed-title pattern already met "
+                 "elsewhere."},
+        {"q": "What does this discourse open a pair with, according to the guide?",
+         "opts": [
+             "Nothing further — an isolated teaching",
+             "AN 7.12, which will do for this list exactly what AN 7.9 already did for AN "
+             "7.8's fetters — state its purpose and complete removal",
+             "A return to the seven kinds of wealth",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "A pair matching AN 7.8/7.9's exact shape, now applied to a different "
+                 "technical category."},
+        {"q": "Is a setting stated for AN 7.11?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, opening this new chapter."},
+        {"q": "What does <em>bhavarāga</em> mean?",
+         "opts": ["Sensual desire", "Desire for continued existence", "Ignorance", "Conceit"],
+         "correct": 1,
+         "expl": "The sixth item, closing this list exactly as it closed AN 7.8's fetters."},
+    ],
+    marginalia=[
+        ("Seven underlying tendencies", [
+            "sensual desire &middot;",
+            "aversion &middot; views &middot; doubt",
+            "&middot; conceit &middot; desire for existence &middot; ignorance",
+        ]),
+        ("Identical to AN 7.8's fetters", [
+            "same seven items —",
+            "a different technical",
+            "category, not different content",
+        ]),
+        ("Two angles, one content", [
+            "fetter: what binds",
+            "to rebirth — tendency:",
+            "latent potential to arise",
+        ]),
+        ("Cross-references", [
+            "AN 7.8/7.9 &middot; earlier, this same content as fetters",
+            "AN 7.12 &middot; next, this list's purpose and full removal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.11/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.8.html">AN 7.8 &middot; Fetters</a> &mdash; earlier, this same '
+        "content classified as fetters.",
+        '<a href="an-7.12.html">AN 7.12 &middot; Underlying Tendencies (2nd)</a> &mdash; '
+        "next, this list's purpose and complete removal.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.12 — Dutiyaanusayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Dutiyaanusaya", "Underlying Tendencies (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 7.12 — Underlying Tendencies (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaanusayasutta, stating the purpose and complete removal of AN 7.11's seven "
+        "underlying tendencies, closing on the same formula already met twice before. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical seven-item list as AN 7.11, elaborated with a statement of "
+                 "purpose and the same closing formula already met twice in this series"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The image of an underlying tendency cut off 'at the root, "
+                              "like a palm stump' recurs widely across the Chinese Āgamas' "
+                              "descriptions of complete abandonment; this reading guide does "
+                              "not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; restates AN 7.11's bare "
+                       "list with the fullest statement of purpose in this chapter so far"),
+    ],
+    why=(
+        "AN 7.12 does for AN 7.11's seven underlying tendencies exactly what AN 7.9 "
+        "already did for AN 7.8's seven fetters: states their removal as the entire "
+        "purpose of the spiritual life, uses the identical &ldquo;cut off at the root, "
+        "like a palm stump&rdquo; image for complete elimination, and closes on the same "
+        "formula &mdash; now met a third time in this series."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The entire spiritual life is lived to give up and cut out the seven "
+            "underlying tendencies &mdash; sensual desire, aversion, views, doubt, conceit, "
+            "desire to be reborn, and ignorance &mdash; cutting them off at the root so "
+            "they can never arise again."]),
+        ("A structural twin of AN 7.9, applied to a different category", [
+            "Checked side by side, this discourse and AN 7.9 share their entire "
+            "structure &mdash; the statement of purpose, the palm-stump image, the closing "
+            "formula &mdash; differing only in whether the seven items being removed are "
+            "named as fetters or as underlying tendencies."]),
+        ("A third appearance of this closing formula", [
+            "&ldquo;Cut off craving, cast off the fetters, and by rightly comprehending "
+            "conceit has made an end of suffering&rdquo; now closes AN 6.105, AN 6.106, and "
+            "AN 7.9 in the previous nipāta and chapter, and this discourse makes a fourth "
+            "appearance &mdash; the same formula applied across four discourses with "
+            "different specific content in every case, spanning two nipātas."]),
+        ("Why fetters and tendencies each get their own pair", [
+            "That this chapter gives underlying tendencies the identical bare-list-plus-"
+            "elaboration treatment the previous chapter already gave fetters, rather than "
+            "simply noting the overlap and moving on, suggests the tradition considered "
+            "each technical category worth stating fully in its own right, even where the "
+            "specific content named is identical."]),
+    ],
+    terms=[
+        ("brahmacariya",
+         "&ldquo;the spiritual life&rdquo; &mdash; this discourse's framing for the entire "
+         "purpose the seven underlying tendencies' removal serves, identical to AN 7.9's "
+         "framing."),
+        ("mūlaghacca, tālāvatthukata",
+         "&ldquo;cut off at the root, made like a palm stump&rdquo; &mdash; the same image "
+         "for complete, irreversible removal already met at AN 7.9."),
+        ("kāmarāga, paṭigha, diṭṭhi, vicikicchā, māna, bhavarāga, avijjā",
+         "identical to AN 7.11's seven underlying tendencies: sensual desire, aversion, "
+         "views, doubt, conceit, desire to be reborn, and ignorance."),
+        ("taṇhacchida, mānābhisamayā antamakāsi dukkhassa",
+         "&ldquo;one who has cut off craving... by rightly comprehending conceit, made an "
+         "end of suffering&rdquo; &mdash; the closing formula's fourth appearance in this "
+         "series, after AN 6.105, AN 6.106, and AN 7.9."),
+        ("anusaya",
+         "&ldquo;underlying tendency&rdquo; &mdash; the technical category this discourse "
+         "addresses, structurally paired with AN 7.9's treatment of fetters."),
+    ],
+    text_intro=(
+        "The discourse in full: the purpose and complete removal of the seven underlying "
+        "tendencies. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The purpose of the spiritual life"),
+        ("p", "&sect;1", "an7.12:1.1-1.9"),
+        ("h3", "Complete removal, and the closing formula"),
+        ("p", "&sect;2", "an7.12:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to AN 7.9's, checked side by "
+              "side?",
+         "opts": [
+             "Entirely different structure",
+             "The identical structure — statement of purpose, palm-stump image, closing "
+             "formula — differing only in whether the seven items are named as fetters or "
+             "underlying tendencies",
+             "Only the closing formula is shared",
+             "No relationship between the two discourses"],
+         "correct": 1,
+         "expl": "A structural twin of AN 7.9, applied to a different technical category."},
+        {"q": "How many times has this discourse's closing formula now appeared in this "
+              "series, counting this discourse?",
+         "opts": [
+             "Once", "Twice", "A fourth appearance, after AN 6.105, AN 6.106, and AN 7.9", "Never before"],
+         "correct": 2,
+         "expl": "The same formula spanning two nipātas and four discourses with different "
+                 "specific content each time."},
+        {"q": "According to the guide, why might fetters and underlying tendencies each get "
+              "their own bare-list-plus-elaboration pair, despite identical content?",
+         "opts": [
+             "It is simply a copying error",
+             "The tradition may have considered each technical category worth stating "
+             "fully in its own right, even where the specific content named is identical",
+             "The two pairs actually have entirely different content",
+             "Only one of the two pairs is authentic"],
+         "correct": 1,
+         "expl": "A deliberate choice to treat each category on its own terms."},
+        {"q": "What image describes complete removal in this discourse?",
+         "opts": [
+             "A river reaching the sea",
+             "Cut off at the root, made like a palm stump — unable to arise again",
+             "A flower blooming and fading",
+             "A bird returning to a ship"],
+         "correct": 1,
+         "expl": "The same image already met at AN 7.9, describing total, irreversible "
+                 "elimination."},
+        {"q": "Is a setting stated for AN 7.12?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching AN 7.11 immediately before it."},
+        {"q": "What is the entire purpose the spiritual life is said to serve, according to "
+              "this discourse?",
+         "opts": [
+             "Acquiring merit for a good rebirth",
+             "Giving up and cutting out the seven underlying tendencies",
+             "Gaining a reputation as a skilled teacher",
+             "Accumulating scriptural knowledge"],
+         "correct": 1,
+         "expl": "The highest possible framing this literature gives to a single teaching."},
+    ],
+    marginalia=[
+        ("A structural twin of AN 7.9", [
+            "same purpose statement,",
+            "same palm-stump image,",
+            "same closing formula",
+        ]),
+        ("The formula's fourth appearance", [
+            "AN 6.105, AN 6.106,",
+            "AN 7.9, and now",
+            "this discourse — two nipātas",
+        ]),
+        ("Each category, fully stated", [
+            "fetters and tendencies",
+            "both get their own pair,",
+            "despite identical content",
+        ]),
+        ("Cross-references", [
+            "AN 7.11 &middot; previous, the bare version of this same list",
+            "AN 7.9 &middot; earlier, this discourse's structural twin",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.12/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.11.html">AN 7.11 &middot; Underlying Tendencies (1st)</a> &mdash; '
+        "previous, the bare version of this same list.",
+        '<a href="an-7.13.html">AN 7.13 &middot; A Family</a> &mdash; next, a shift to '
+        "practical conduct toward lay households.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.13 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Kula", "A Family",
+    vagga=VAGGA_2,
+    meta_title="AN 7.13 — A Family | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kulasutta, naming "
+        "seven factors that make visiting a lay household worthwhile or not, a shift from "
+        "doctrinal categories to everyday practical conduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two matched seven-item lists, cause and its direct reversal, addressing "
+                 "practical etiquette rather than doctrinal categories"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Guidance on which lay households are worth a mendicant's "
+                              "visit recurs widely across the Chinese Āgamas' monastic "
+                              "conduct material; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a concrete, practical "
+                       "list, a clear register shift after this chapter's two doctrinal "
+                       "discourses"),
+    ],
+    why=(
+        "AN 7.13 shifts abruptly from AN 7.11 and 7.12's underlying tendencies to something "
+        "entirely practical: seven factors of hospitality &mdash; whether a family rises "
+        "politely, bows, offers a seat, shares openly, gives generously, offers fine "
+        "things, and gives carefully &mdash; that determine whether visiting, or even "
+        "sitting down once arrived, is worthwhile at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Visiting a family that doesn't rise politely, hides what they have, gives "
+            "little even when they have much, gives coarse things even when they have "
+            "fine things, and gives carelessly is not worthwhile; a family with the seven "
+            "direct opposites is worth visiting."]),
+        ("A sharp register shift within this chapter", [
+            "Where AN 7.11 and 7.12 concerned abstract underlying tendencies removed only "
+            "at advanced stages of practice, this discourse concerns the concrete, everyday "
+            "question of hospitality &mdash; whether a family rises to greet a visitor, "
+            "what quality of goods they offer, and how carefully they give. This chapter's "
+            "'Tendencies' title, like several others already met in this series, does not "
+            "describe every discourse within it equally."]),
+        ("Not merely material generosity, but its manner", [
+            "The list's final three items concern not whether a family gives at all, but "
+            "how: giving little despite having much, giving coarse things despite having "
+            "fine things, and giving carelessly rather than carefully. The discourse's "
+            "concern is the quality and attentiveness of generosity, not simply its "
+            "occurrence."]),
+        ("'Worthwhile' as the discourse's own practical stake", [
+            "The discourse frames its stakes not in terms of merit, karma, or spiritual "
+            "attainment, but simply worth (na... alaṁ) &mdash; whether a visit, or even "
+            "remaining seated once arrived, is a good use of a mendicant's time, a "
+            "strikingly pragmatic framing for this collection."]),
+    ],
+    terms=[
+        ("kula",
+         "&ldquo;family, household&rdquo; &mdash; this discourse's own subject, the lay "
+         "household a mendicant might visit."),
+        ("paccuṭṭhāti, abhivādeti, āsanaṁ dadāti",
+         "&ldquo;rises, bows, offers a seat&rdquo; &mdash; the first three factors of "
+         "hospitality named."),
+        ("santaṁ pi na denti",
+         "&ldquo;even when they have much they give little&rdquo; &mdash; one of the "
+         "discourse's items concerning the manner, not mere occurrence, of generosity."),
+        ("sakkaccaṁ deti, asakkaccaṁ na deti",
+         "&ldquo;gives carefully, not carelessly&rdquo; &mdash; the seventh and closing "
+         "item, on attentiveness in giving."),
+        ("alaṁ",
+         "&ldquo;worthwhile, enough&rdquo; &mdash; the discourse's own practical framing "
+         "for its stakes, distinct from the doctrinal framing of the two discourses before "
+         "it."),
+    ],
+    text_intro=(
+        "The discourse in full: seven factors of hospitality determining whether visiting "
+        "a family is worthwhile, and their reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven factors that make a family not worth visiting"),
+        ("p", "&sect;1", "an7.13:1.1-1.4"),
+        ("h3", "Seven factors that make a family worth visiting"),
+        ("p", "&sect;2", "an7.13:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What kind of content does this discourse address, unlike AN 7.11 and 7.12 "
+              "immediately before it?",
+         "opts": [
+             "Abstract underlying tendencies, identical to the two before it",
+             "Concrete, practical hospitality — whether a family rises politely, shares "
+             "openly, and gives carefully",
+             "The four noble truths",
+             "A doctrinal dispute between two mendicants"],
+         "correct": 1,
+         "expl": "A sharp register shift from doctrinal category to everyday etiquette."},
+        {"q": "What do the list's final three items concern, according to the guide?",
+         "opts": [
+             "Whether a family gives at all",
+             "The manner of giving — quantity relative to means, quality of goods offered, "
+             "and attentiveness — not merely whether generosity occurs",
+             "A family's religious beliefs",
+             "The family's physical dwelling"],
+         "correct": 1,
+         "expl": "Quality and care in generosity, not simply its bare occurrence."},
+        {"q": "How does this discourse frame its own stakes, according to the guide?",
+         "opts": [
+             "In terms of merit and karma specifically",
+             "Pragmatically, in terms of worth (alaṁ) — whether a visit is a good use of a "
+             "mendicant's time",
+             "In terms of eventual rebirth destination",
+             "The discourse states no particular stakes"],
+         "correct": 1,
+         "expl": "A strikingly practical framing distinct from this discourse's doctrinal "
+                 "neighbors."},
+        {"q": "What does the guide say about this chapter's title, 'Tendencies,' in light of "
+              "this discourse?",
+         "opts": [
+             "The title perfectly describes every discourse in the chapter equally",
+             "Like several chapter titles already met in this series, it does not describe "
+             "every discourse within it equally — this one concerns hospitality, not "
+             "underlying tendencies",
+             "This discourse actually belongs to a different chapter",
+             "The chapter has no discernible title"],
+         "correct": 1,
+         "expl": "A pattern of chapter titles not uniformly matching every discourse, "
+                 "already met elsewhere in this series."},
+        {"q": "Is a setting stated for AN 7.13?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, despite its concrete practical subject matter."},
+        {"q": "What are the first three factors of hospitality named in this discourse?",
+         "opts": [
+             "Faith, wisdom, and generosity",
+             "Rising politely, bowing, and offering a seat",
+             "Giving food, water, and shelter",
+             "Reciting scripture, chanting, and meditating"],
+         "correct": 1,
+         "expl": "Basic courtesies opening the list, before it turns to the manner of "
+                 "material generosity."},
+    ],
+    marginalia=[
+        ("Seven factors of hospitality", [
+            "rising, bowing, offering",
+            "a seat &middot; sharing openly",
+            "&middot; giving generously, carefully",
+        ]),
+        ("A sharp register shift", [
+            "abstract tendencies (7.11/12)",
+            "to concrete etiquette —",
+            "'Tendencies' doesn't describe everything",
+        ]),
+        ("The manner, not just occurrence", [
+            "not whether a family",
+            "gives, but how much,",
+            "how fine, how carefully",
+        ]),
+        ("Cross-references", [
+            "AN 7.11/7.12 &middot; previous, this chapter's doctrinal opening pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.13/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.12.html">AN 7.12 &middot; Underlying Tendencies (2nd)</a> &mdash; '
+        "previous, this chapter's doctrinal opening pair.",
+        '<a href="an-7.14.html">AN 7.14 &middot; Individuals</a> &mdash; next, seven types '
+        "of noble persons worthy of offerings.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.14 — Puggalasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Puggala", "Individuals",
+    vagga=VAGGA_2,
+    meta_title="AN 7.14 — Individuals | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Puggalasutta, "
+        "naming seven types of noble persons classified by their path and liberation, "
+        "worthy of offerings and veneration. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list of person-types, stated once with no reversal"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The sevenfold classification of noble persons by mode of "
+                              "liberation and stage of practice recurs throughout the "
+                              "Chinese Āgamas and Abhidharma literature; this reading guide "
+                              "does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the first of a "
+                       "recurring blurb family in this chapter — four further discourses "
+                       "share this exact summary phrase but not this exact list"),
+    ],
+    why=(
+        "AN 7.14 opens the first of five discourses in this chapter sharing the identical "
+        "summary phrase, &ldquo;worthy of offerings... the supreme field of merit for the "
+        "world&rdquo; &mdash; but this discourse's own seven-item list is genuinely its "
+        "own: seven classifications of noble persons by mode of liberation and stage of "
+        "practice, from the one freed both ways down to the follower by faith."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven individuals are worthy of offerings and veneration, the supreme field "
+            "of merit for the world: the one freed both ways, the one freed by wisdom, the "
+            "direct witness, the one attained to view, the one freed by faith, the "
+            "follower of teachings, and the follower by faith."]),
+        ("A checked caution for this chapter's remaining pages", [
+            "AN 7.16, 7.17, 7.18, and 7.19, later in this chapter, all share this exact "
+            "summary phrase &mdash; but checked term by term, none of their seven-item "
+            "lists matches this discourse's classification by mode of liberation. Each "
+            "shares only the concluding formula, not the specific content, a pattern this "
+            "series has met repeatedly and must verify rather than assume here."]),
+        ("Seven positions on a spectrum, not seven unrelated types", [
+            "The list moves from the most complete attainment (ubhatobhāgavimutta, freed "
+            "both ways, combining the deepest concentration with wisdom) down through "
+            "progressively less complete combinations of the same underlying qualities "
+            "&mdash; faith, wisdom, direct experience &mdash; ending with saddhānusārī, the "
+            "follower by faith, who has not yet directly verified the teaching for "
+            "themselves but proceeds on trust."]),
+        ("Worthy regardless of stage, not only the most advanced", [
+            "That all seven, from the fully liberated down to the faith-follower still "
+            "early in the path, are named together as equally worthy of offerings "
+            "suggests worthiness here is not reserved for the highest attainment alone, "
+            "but extends across a genuine spectrum of genuine progress."]),
+    ],
+    terms=[
+        ("ubhatobhāgavimutta",
+         "&ldquo;freed both ways&rdquo; &mdash; the first and most complete of the seven, "
+         "combining the deepest immersion attainments with liberating wisdom."),
+        ("paññāvimutta, kāyasakkhī",
+         "&ldquo;freed by wisdom, the direct witness&rdquo; &mdash; the second and third "
+         "classifications, each combining wisdom and direct experience differently."),
+        ("diṭṭhippatta, saddhāvimutta",
+         "&ldquo;attained to view, freed by faith&rdquo; &mdash; the fourth and fifth "
+         "classifications."),
+        ("dhammānusārī, saddhānusārī",
+         "&ldquo;the follower of teachings, the follower by faith&rdquo; &mdash; the sixth "
+         "and seventh, least advanced classifications, proceeding by inference or trust "
+         "rather than direct verification."),
+        ("dakkhiṇeyya, āhuneyya",
+         "&ldquo;worthy of a religious donation, worthy of offerings&rdquo; &mdash; two of "
+         "several honorific terms this discourse's summary phrase applies to all seven "
+         "classifications."),
+    ],
+    text_intro=(
+        "The discourse in full: seven types of noble persons, classified by mode of "
+        "liberation and stage of practice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven individuals worthy of offerings"),
+        ("p", "&sect;1", "an7.14:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven classifications does this discourse name?",
+         "opts": [
+             "The seven fetters of AN 7.8",
+             "Seven types of noble persons by mode of liberation: freed both ways, freed "
+             "by wisdom, direct witness, attained to view, freed by faith, follower of "
+             "teachings, follower by faith",
+             "The seven kinds of wealth of AN 7.5",
+             "The seven powers of AN 7.3"],
+         "correct": 1,
+         "expl": "A spectrum of noble attainment, from most to least complete."},
+        {"q": "What caution does the guide draw regarding this chapter's later discourses?",
+         "opts": [
+             "That every discourse sharing this summary phrase shares identical content",
+             "That AN 7.16, 17, 18, and 19 all share this discourse's exact summary phrase "
+             "but, checked term by term, name genuinely different seven-item lists",
+             "That no other discourse in this chapter shares any similar phrasing",
+             "That this discourse's list is repeated word for word later in the chapter"],
+         "correct": 1,
+         "expl": "A shared closing formula does not guarantee shared specific content, a "
+                 "pattern requiring individual verification."},
+        {"q": "How does the guide describe the movement across this discourse's seven "
+              "classifications?",
+         "opts": [
+             "Seven entirely unrelated, unrankable types",
+             "A spectrum from the most complete attainment (freed both ways) down through "
+             "progressively less complete combinations, ending with the follower by faith",
+             "A strictly chronological life story of one person",
+             "Seven types with no relationship to liberation at all"],
+         "correct": 1,
+         "expl": "A graduated spectrum, not seven independent categories."},
+        {"q": "What does the discourse suggest by naming all seven, from most to least "
+              "advanced, as equally worthy of offerings?",
+         "opts": [
+             "That only the most advanced type is actually worthy",
+             "That worthiness extends across a genuine spectrum of progress, not reserved "
+             "for the highest attainment alone",
+             "That the list is purely theoretical with no practical bearing",
+             "That the least advanced type is actually the most worthy"],
+         "correct": 1,
+         "expl": "Worthiness spanning the whole spectrum of genuine practice."},
+        {"q": "Is a setting stated for AN 7.14?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other list-form discourses."},
+        {"q": "What does <em>saddhānusārī</em> mean?",
+         "opts": ["Freed both ways", "The follower by faith", "The direct witness", "Freed by wisdom"],
+         "correct": 1,
+         "expl": "The seventh and least advanced classification, proceeding on trust rather "
+                 "than direct verification."},
+    ],
+    marginalia=[
+        ("Seven noble persons", [
+            "freed both ways &middot;",
+            "by wisdom &middot; direct witness",
+            "&middot; view-attained &middot; faith-freed &middot; two followers",
+        ]),
+        ("A spectrum, not seven types", [
+            "most to least complete",
+            "attainment — faith, wisdom,",
+            "direct experience combined variably",
+        ]),
+        ("A shared phrase, watch for later", [
+            "AN 7.16/17/18/19 share",
+            "this exact summary —",
+            "check each list individually",
+        ]),
+        ("Cross-references", [
+            "AN 7.16 &middot; later this chapter, a genuinely different list sharing this "
+            "phrase",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.14/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.13.html">AN 7.13 &middot; A Family</a> &mdash; previous, practical '
+        "conduct toward lay households.",
+        '<a href="an-7.15.html">AN 7.15 &middot; A Simile With Water</a> &mdash; next, a '
+        "different sevenfold classification of persons entirely.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.15 — Udakūpamāsutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Udakūpamā", "A Simile With Water",
+    vagga=VAGGA_2,
+    meta_title="AN 7.15 — A Simile With Water | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Udakūpamāsutta, mapping seven types of people onto seven stages of drowning and "
+        "swimming — from the worldling who sinks and stays under to the arahant standing "
+        "on solid ground. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "An extended simile: seven types of people in water, each explained in "
+                 "turn and mapped onto a specific stage of spiritual progress"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "The water simile for stages of spiritual progress, from "
+                              "complete submersion to standing on the far shore, recurs "
+                              "widely across the Chinese Āgamas; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; this chapter's longest "
+                       "and most fully developed discourse, mapping a memorable image onto "
+                       "the entire path from worldling to arahant"),
+    ],
+    why=(
+        "AN 7.15 is a genuinely different sevenfold classification from AN 7.14's, despite "
+        "both concerning seven types of people: here, seven people are compared to seven "
+        "positions in water &mdash; sinking and staying under, rising then sinking, rising "
+        "then staying put, rising then seeing and discerning, rising then crossing over, "
+        "rising then finding a foothold, and finally standing on solid ground on the far "
+        "shore &mdash; each explicitly mapped onto a specific stage from complete "
+        "unwholesomeness through full awakening."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven people are like seven positions in water: one sinks and stays under "
+            "(exclusively unwholesome), one rises then sinks (fleeting faith that "
+            "dwindles), one rises then stays put (stable but undeveloped faith), one rises "
+            "then sees and discerns (stream-entry), one rises then crosses over "
+            "(once-return), one rises then finds a foothold (non-return), and one has "
+            "risen, crossed over, and stands on solid ground on the far shore (full "
+            "awakening)."]),
+        ("A genuinely different list from AN 7.14, sharing only the number seven", [
+            "Checked term by term, this discourse's seven water-positions have nothing in "
+            "common with AN 7.14's seven modes of liberation beyond both classifying "
+            "spiritual progress into seven stages. Where AN 7.14 named technical "
+            "categories (freed both ways, freed by wisdom, and so on), this discourse uses "
+            "an extended, unified image, tracking one continuous scene of rising, sinking, "
+            "and swimming rather than naming discrete types."]),
+        ("The middle five stages, defined by faith's fate", [
+            "Types two through six all begin identically: &ldquo;rising up,&rdquo; the "
+            "person thinks, &ldquo;it's good to have faith, conscience, prudence, energy, "
+            "and wisdom regarding skillful qualities.&rdquo; What distinguishes each stage "
+            "is what happens to that faith afterward &mdash; whether it dwindles away "
+            "(type 2), merely holds steady (type 3), or becomes the basis for progressively "
+            "ending fetters through stream-entry, once-return, and non-return (types 4 "
+            "through 6)."]),
+        ("Types 6 and 7, the closing pair", [
+            "Type 6, ending the five lower fetters, describes the non-returner, reborn "
+            "spontaneously and never returning to this world. Type 7, the discourse's "
+            "final and most complete image, describes one who has &ldquo;risen up, crossed "
+            "over, and gone to the far shore, a brahmin who stands on solid ground&rdquo; "
+            "&mdash; realizing the undefiled freedom of heart and wisdom, the arahant's "
+            "full awakening."]),
+    ],
+    terms=[
+        ("udakūpamā",
+         "&ldquo;simile with water&rdquo; &mdash; this discourse's own title, its unifying "
+         "extended image."),
+        ("sakiṁ nimujjitvā nimuggova tiṭṭhati",
+         "&ldquo;sinks under once and stays under&rdquo; &mdash; the first and lowest "
+         "type, exclusively dark, unskillful qualities."),
+        ("ummujjitvā apāraṅgato pāraṅgato tiṭṭhati thale titthaṁ brāhmaṇo",
+         "&ldquo;has risen up, crossed over, gone to the far shore, a brahmin who stands "
+         "on solid ground&rdquo; &mdash; the seventh and final type, the arahant's full "
+         "awakening."),
+        ("saddhā, hiri, ottappa, vīriya, paññā",
+         "&ldquo;faith, conscience, prudence, energy, wisdom&rdquo; &mdash; the five "
+         "qualities each of types two through six reflects on gaining, distinguished by "
+         "what happens to them afterward."),
+        ("sotāpanna, sakadāgāmī, anāgāmī",
+         "&ldquo;stream-enterer, once-returner, non-returner&rdquo; &mdash; the three "
+         "noble stages types four, five, and six are explicitly identified with."),
+    ],
+    text_intro=(
+        "The discourse in full: seven people compared to seven positions in water, each "
+        "explained and mapped onto a stage of spiritual progress. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven types, introduced"),
+        ("p", "&sect;1", "an7.15:1.1-1.9"),
+        ("h3", "Type 1: sinks under once and stays under"),
+        ("p", "&sect;2", "an7.15:2.1-2.3"),
+        ("h3", "Type 2: rises then sinks under"),
+        ("p", "&sect;3", "an7.15:3.1-3.10"),
+        ("h3", "Type 3: rises then stays put"),
+        ("p", "&sect;4", "an7.15:4.1-4.11"),
+        ("h3", "Type 4: rises then sees and discerns (stream-entry)"),
+        ("p", "&sect;5", "an7.15:5.1-5.7"),
+        ("h3", "Type 5: rises then crosses over (once-return)"),
+        ("p", "&sect;6", "an7.15:6.1-6.7"),
+        ("h3", "Type 6: rises then finds a foothold (non-return)"),
+        ("p", "&sect;7", "an7.15:7.1-7.7"),
+        ("h3", "Type 7: crosses to the far shore (full awakening)"),
+        ("p", "&sect;8", "an7.15:8.1-9.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's classification compare to AN 7.14's, both naming "
+              "seven types of people?",
+         "opts": [
+             "Identical content, just reworded",
+             "Genuinely different — this discourse uses an extended water image tracking "
+             "one continuous scene, rather than naming discrete technical categories as AN "
+             "7.14 did",
+             "This discourse has no actual classification at all",
+             "Only the number seven differs between the two"],
+         "correct": 1,
+         "expl": "Two distinct sevenfold classifications sharing only the number seven."},
+        {"q": "What distinguishes types two through six from each other, according to the "
+              "guide?",
+         "opts": [
+             "Nothing — they are identical",
+             "What happens to the same initial faith afterward — whether it dwindles, "
+             "merely holds steady, or becomes the basis for progressively ending fetters",
+             "The order in which they appear in the discourse only",
+             "Which specific deity they encounter"],
+         "correct": 1,
+         "expl": "A single starting reflection, diverging by what follows it."},
+        {"q": "What does type 1, sinking and staying under, represent?",
+         "opts": [
+             "A stream-enterer",
+             "Someone with exclusively dark, unskillful qualities",
+             "An arahant",
+             "A once-returner"],
+         "correct": 1,
+         "expl": "The lowest position in this discourse's water simile."},
+        {"q": "What does type 7, the discourse's final image, represent?",
+         "opts": [
+             "A stream-enterer only",
+             "Full awakening — one who has risen, crossed over, and stands on solid ground "
+             "on the far shore, realizing undefiled freedom of heart and wisdom",
+             "A worldling with no spiritual progress",
+             "A non-returner, not yet fully awakened"],
+         "correct": 1,
+         "expl": "The arahant, the discourse's most complete image."},
+        {"q": "What three noble stages are types 4, 5, and 6 explicitly identified with?",
+         "opts": [
+             "The three fetters of AN 7.8",
+             "Stream-entry, once-return, and non-return",
+             "The three poisons",
+             "Faith, wisdom, and energy"],
+         "correct": 1,
+         "expl": "A direct mapping onto three of the four traditional stages of "
+                 "awakening."},
+        {"q": "Is a setting stated for AN 7.15?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, despite this discourse's extended narrative simile."},
+        {"q": "What happens to type 2's faith, distinguishing it from type 3?",
+         "opts": [
+             "It grows stronger over time, unlike type 3's",
+             "It dwindles away, where type 3's faith merely holds steady, neither "
+             "dwindling nor growing",
+             "Both types' faith is identical in every respect",
+             "Type 2 has no faith at all"],
+         "correct": 1,
+         "expl": "A fine distinction between fleeting and merely stable, still-undeveloped "
+                 "faith."},
+    ],
+    marginalia=[
+        ("Seven positions in water", [
+            "sinks &middot; rises-sinks",
+            "&middot; stays put &middot; sees, discerns",
+            "&middot; crosses &middot; finds foothold &middot; far shore",
+        ]),
+        ("Mapped onto the path", [
+            "worldling &middot; fading faith",
+            "&middot; stable faith &middot; stream-enterer",
+            "&middot; once-returner &middot; non-returner &middot; arahant",
+        ]),
+        ("One reflection, five outcomes", [
+            "'good to have faith,",
+            "conscience...' — then",
+            "diverging by what follows",
+        ]),
+        ("Cross-references", [
+            "AN 7.14 &middot; previous, a genuinely different sevenfold classification",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.15/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.14.html">AN 7.14 &middot; Individuals</a> &mdash; previous, a '
+        "genuinely different sevenfold classification.",
+        '<a href="an-7.16.html">AN 7.16 &middot; Observing Impermanence</a> &mdash; next, '
+        "sharing AN 7.14's summary phrase but not its content.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.16 — Aniccānupassīsutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Aniccānupassī", "Observing Impermanence",
+    vagga=VAGGA_2,
+    meta_title="AN 7.16 — Observing Impermanence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aniccānupassīsutta, opening a tetrad of discourses classifying seven types of "
+        "people who meditate on impermanence, by how and when their defilements finally "
+        "end. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Seven types of meditators on impermanence, classified by the manner and "
+                 "timing of their final liberation — opening a tetrad sharing AN 7.14's "
+                 "summary phrase with genuinely different content"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "The sevenfold classification of non-returners by manner of "
+                              "final attainment (antarā-parinibbāyī and its companions) "
+                              "recurs throughout the Chinese Āgamas and Abhidharma "
+                              "literature; this reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a third, genuinely "
+                       "distinct sevenfold classification in this chapter, worth checking "
+                       "against AN 7.14 rather than assuming identity from the shared "
+                       "closing phrase"),
+    ],
+    why=(
+        "AN 7.16 shares AN 7.14's exact closing phrase &mdash; &ldquo;worthy of "
+        "offerings... the supreme field of merit for the world&rdquo; &mdash; but names a "
+        "third, genuinely distinct sevenfold classification: seven types of people who "
+        "meditate observing impermanence in all conditions, distinguished by exactly how "
+        "and when their defilements come to a final end, from full arahantship in this "
+        "very life through six further variations on non-return."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Seven people meditate observing impermanence in all conditions, distinguished "
+            "by how their defilements finally end: the first realizes full awakening in "
+            "this very life; the second ends defilements and life at the same moment; the "
+            "remaining five, having ended the five lower fetters, are extinguished in one "
+            "of five different specific ways."]),
+        ("Checked against AN 7.14: a genuinely different list", [
+            "AN 7.14 classified seven persons by mode of liberation (freed both ways, "
+            "freed by wisdom, and so on) without reference to any specific meditation "
+            "practice. This discourse instead specifies one meditation object, "
+            "impermanence, and classifies seven outcomes by the precise manner and timing "
+            "of final liberation &mdash; a different organizing principle entirely, "
+            "despite the identical closing formula."]),
+        ("Two full types, then five compressed variations", [
+            "This discourse spells out its first two types in some detail &mdash; full "
+            "awakening in this life, and awakening simultaneous with death &mdash; then "
+            "compresses the remaining five types, all sharing the ending of the five "
+            "lower fetters, into a single dense passage naming five specific manners of "
+            "the non-returner's extinguishment: between one life and the next, upon "
+            "landing, without extra effort, with extra effort, and heading upstream to the "
+            "Akaniṭṭha realm."]),
+        ("Opening a tetrad, not a lone discourse", [
+            "AN 7.17, 7.18, and 7.19, immediately following, will each repeat this exact "
+            "sevenfold structure &mdash; two full types plus five compressed variations "
+            "&mdash; changing only the meditation object: suffering, not-self, and finally "
+            "the happiness of extinguishment itself."]),
+    ],
+    terms=[
+        ("aniccānupassī",
+         "&ldquo;observing impermanence&rdquo; &mdash; this discourse's own title and "
+         "meditation object, the first of four such objects this tetrad will use."),
+        ("diṭṭheva dhamme aññā",
+         "&ldquo;realizing the undefiled freedom... in this very life&rdquo; &mdash; the "
+         "first type, full arahantship attained before death."),
+        ("upapajjavedanīye āsavā parikkhīṇā",
+         "&ldquo;defilements and life come to an end at exactly the same time&rdquo; "
+         "&mdash; the second type, an ending simultaneous with death itself."),
+        ("antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī, "
+         "sasaṅkhāraparinibbāyī, uddhaṁsota akaniṭṭhagāmī",
+         "the five specific manners of the non-returner's extinguishment named for types "
+         "three through seven: between lives, upon landing, without extra effort, with "
+         "extra effort, and heading upstream to the Akaniṭṭha realm."),
+        ("āhuneyyā... anuttaraṁ puññakkhettaṁ lokassa",
+         "&ldquo;worthy of offerings... the supreme field of merit for the world&rdquo; "
+         "&mdash; the closing formula shared word for word with AN 7.14, despite this "
+         "discourse's entirely different seven-item content."),
+    ],
+    text_intro=(
+        "The discourse in full: seven types of meditators on impermanence, classified by "
+        "how and when their defilements end. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first individual: full awakening in this life"),
+        ("p", "&sect;1", "an7.16:1.1-1.5"),
+        ("h3", "The second individual: ending simultaneous with death"),
+        ("p", "&sect;2", "an7.16:2.1-2.3"),
+        ("h3", "The third through seventh individuals: five manners of non-return"),
+        ("p", "&sect;3", "an7.16:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's classification compare to AN 7.14's, despite "
+              "sharing its exact closing phrase?",
+         "opts": [
+             "Identical content, just reworded",
+             "A genuinely different organizing principle — classifying seven outcomes by "
+             "the manner and timing of final liberation through impermanence-meditation, "
+             "rather than AN 7.14's modes of liberation",
+             "This discourse has no actual seven-item list",
+             "The two discourses concern entirely unrelated topics with no overlap "
+             "whatsoever"],
+         "correct": 1,
+         "expl": "A shared closing formula, genuinely different specific content."},
+        {"q": "What distinguishes the first two types in this discourse?",
+         "opts": [
+             "Nothing — they are identical",
+             "The first realizes full awakening in this very life; the second ends "
+             "defilements and life simultaneously",
+             "The first is a stream-enterer, the second a once-returner",
+             "Both types describe the same non-returner"],
+         "correct": 1,
+         "expl": "Two distinct timings of the highest attainment relative to death."},
+        {"q": "What do types three through seven all share in common?",
+         "opts": [
+             "None have ended any fetters",
+             "All have ended the five lower fetters, differing only in the specific manner "
+             "of their extinguishment",
+             "All are full arahants already",
+             "All are worldlings with no attainment"],
+         "correct": 1,
+         "expl": "Five variations on the non-returner's mode of final extinguishment."},
+        {"q": "What does this discourse open, according to the guide?",
+         "opts": [
+             "An isolated, standalone teaching",
+             "A tetrad — AN 7.17, 7.18, and 7.19 will repeat this exact structure with "
+             "different meditation objects: suffering, not-self, and the happiness of "
+             "extinguishment",
+             "A return to AN 7.14's exact content",
+             "The chapter's final discourse"],
+         "correct": 1,
+         "expl": "The template for three further discourses sharing this same sevenfold "
+                 "structure."},
+        {"q": "Is a setting stated for AN 7.16?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Isipatana"],
+         "correct": 1,
+         "expl": "A bare formula, matching this chapter's other list-form discourses."},
+        {"q": "What meditation object does this discourse specify, unlike AN 7.14?",
+         "opts": [
+             "Suffering", "Impermanence", "Not-self", "The happiness of extinguishment"],
+         "correct": 1,
+         "expl": "The first of four meditation objects this tetrad will use in turn."},
+    ],
+    marginalia=[
+        ("Seven outcomes of one practice", [
+            "meditating on impermanence —",
+            "arahant in this life,",
+            "or death-simultaneous, or 5 modes of non-return",
+        ]),
+        ("Same phrase, different list", [
+            "shares AN 7.14's exact",
+            "closing formula —",
+            "a genuinely distinct classification",
+        ]),
+        ("Opening a tetrad", [
+            "AN 7.17, 18, 19",
+            "repeat this structure —",
+            "suffering, not-self, extinguishment",
+        ]),
+        ("Cross-references", [
+            "AN 7.14 &middot; earlier, sharing this exact closing phrase, different content",
+            "AN 7.17 &middot; next, the same structure applied to suffering",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.16/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.14.html">AN 7.14 &middot; Individuals</a> &mdash; earlier, sharing '
+        "this discourse's exact closing phrase over different content.",
+        '<a href="an-7.17.html">AN 7.17 &middot; Observing Suffering</a> &mdash; next, the '
+        "identical structure applied to suffering.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.17 — Dukkhānupassīsutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Dukkhānupassī", "Observing Suffering",
+    vagga=VAGGA_2,
+    meta_title="AN 7.17 — Observing Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dukkhānupassīsutta, restating AN 7.16's exact sevenfold structure with suffering "
+        "as the meditation object, compressed almost entirely via Pāli ellipsis. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical sevenfold structure as AN 7.16, compressed to a single "
+                 "changed opening clause via Pāli ellipsis"),
+        ("Length", "under 30 seconds to read"),
+        ("Northern parallel", "The application of the same liberation-classification "
+                              "structure to multiple meditation objects in sequence recurs "
+                              "across the Chinese Āgamas' abbreviation series; this reading "
+                              "guide does not assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; almost entirely elided, "
+                       "pointing back to AN 7.16 for its full content"),
+    ],
+    why=(
+        "AN 7.17 restates AN 7.16's entire sevenfold structure &mdash; two full types plus "
+        "five compressed variations of non-return &mdash; changing only the meditation "
+        "object from impermanence to suffering, and compresses the entire discourse to "
+        "barely more than its opening clause via the Pāli ellipsis &ldquo;…pe…&rdquo;."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same seven outcomes already detailed at AN 7.16 for impermanence-"
+            "meditation apply identically to suffering-meditation: full awakening in this "
+            "life, ending simultaneous with death, or one of five manners of non-return."]),
+        ("Almost total compression", [
+            "Where AN 7.16 spelled out its content across three sections, this discourse's "
+            "source text gives only the opening clause &mdash; &ldquo;meditates observing "
+            "suffering in all conditions&rdquo; &mdash; before eliding everything else with "
+            "&ldquo;…pe….&rdquo; A reader who has read AN 7.16 can supply the entire "
+            "remaining content without difficulty."]),
+        ("Suffering as the second of four objects", [
+            "This tetrad, opened at AN 7.16 with impermanence, continues here with "
+            "suffering, the second of the three characteristics already met together at "
+            "AN 6.98&ndash;101 and AN 6.142 in the previous nipāta, now applied "
+            "individually to this chapter's sevenfold liberation-classification."]),
+        ("The same care required, despite the brevity", [
+            "Though this discourse's own text is nearly empty of content, the underlying "
+            "teaching it represents is the full sevenfold classification already detailed "
+            "at AN 7.16 &mdash; brevity here reflects compression, not a genuinely "
+            "different or lesser teaching."]),
+    ],
+    terms=[
+        ("dukkhānupassī",
+         "&ldquo;observing suffering&rdquo; &mdash; this discourse's own title and "
+         "meditation object, replacing AN 7.16's impermanence."),
+        ("…pe…",
+         "the Pāli ellipsis mark, standing in here for nearly the entirety of AN 7.16's "
+         "sevenfold structure, unchanged beyond the opening clause."),
+        ("dukkha",
+         "&ldquo;suffering&rdquo; &mdash; the second of the three characteristics, "
+         "following impermanence at AN 7.16 and preceding not-self at AN 7.18."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; the source colophon's ordinal marking this "
+         "discourse's position within its chapter."),
+        ("āhuneyyā... anuttaraṁ puññakkhettaṁ lokassa",
+         "the same closing formula shared across AN 7.14 and this entire tetrad, assumed "
+         "here without being spelled out."),
+    ],
+    text_intro=(
+        "The formula exactly as the source compresses it: the same sevenfold structure as "
+        "AN 7.16, applied to suffering. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The compressed formula"),
+        ("p", "&sect;1", "an7.17:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's content represent?",
+         "opts": [
+             "An entirely new sevenfold classification",
+             "The identical sevenfold structure as AN 7.16, with suffering replacing "
+             "impermanence as the meditation object",
+             "A four-item list unrelated to AN 7.16",
+             "A repeat of AN 7.14's content"],
+         "correct": 1,
+         "expl": "The same seven outcomes, compressed to a changed opening clause."},
+        {"q": "How compressed is this discourse's own text?",
+         "opts": [
+             "Fully spelled out, matching AN 7.16's length",
+             "Almost total compression — only the opening clause is given before '…pe…' "
+             "elides the rest",
+             "Only the closing formula is given",
+             "The discourse has no text at all"],
+         "correct": 1,
+         "expl": "A reader who has read AN 7.16 can supply the entire remaining content."},
+        {"q": "What position does suffering occupy within this tetrad's four meditation "
+              "objects?",
+         "opts": [
+             "First, opening the tetrad",
+             "Second, following impermanence at AN 7.16 and preceding not-self at AN 7.18",
+             "Third",
+             "Fourth and final"],
+         "correct": 1,
+         "expl": "The second of four objects this tetrad applies to the same sevenfold "
+                 "structure."},
+        {"q": "Does this discourse's brevity indicate a lesser or different teaching, "
+              "according to the guide?",
+         "opts": [
+             "Yes, a significantly reduced teaching",
+             "No — brevity here reflects compression alone; the underlying teaching is the "
+             "full sevenfold classification already detailed at AN 7.16",
+             "Yes, this discourse contradicts AN 7.16",
+             "The discourse has no relationship to AN 7.16 at all"],
+         "correct": 1,
+         "expl": "Compression, not reduction — the same content, differently presented."},
+        {"q": "Is a setting stated for AN 7.17?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, as compressed as the rest of this discourse's content."},
+        {"q": "What does <em>dukkhānupassī</em> mean?",
+         "opts": ["Observing impermanence", "Observing suffering", "Observing not-self", "Observing happiness"],
+         "correct": 1,
+         "expl": "This discourse's own title and meditation object."},
+    ],
+    marginalia=[
+        ("Nearly total elision", [
+            "only the opening clause",
+            "spelled out — '…pe…'",
+            "for the rest of AN 7.16's structure",
+        ]),
+        ("Suffering, the second object", [
+            "impermanence (7.16),",
+            "suffering (7.17),",
+            "not-self and happiness to follow",
+        ]),
+        ("Compression, not reduction", [
+            "the full sevenfold",
+            "classification still applies —",
+            "only the presentation is brief",
+        ]),
+        ("Cross-references", [
+            "AN 7.16 &middot; previous, this discourse's full template",
+            "AN 7.18 &middot; next, the same structure applied to not-self",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.17/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.16.html">AN 7.16 &middot; Observing Impermanence</a> &mdash; '
+        "previous, this discourse's full template.",
+        '<a href="an-7.18.html">AN 7.18 &middot; Observing Not-self</a> &mdash; next, the '
+        "same structure applied to not-self.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.18 — Anattānupassīsutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Anattānupassī", "Observing Not-self",
+    vagga=VAGGA_2,
+    meta_title="AN 7.18 — Observing Not-self | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anattānupassīsutta, the most compressed discourse in this collection so far — a "
+        "single elided clause applying AN 7.16's sevenfold structure to not-self. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical sevenfold structure as AN 7.16, compressed to a single "
+                 "elided line"),
+        ("Length", "under 15 seconds to read"),
+        ("Northern parallel", "The extension of a liberation-classification structure "
+                              "across the three characteristics recurs across the Chinese "
+                              "Āgamas' abbreviation series; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the single most "
+                       "compressed discourse in this collection to date, one elided line "
+                       "and an ordinal"),
+    ],
+    why=(
+        "AN 7.18 compresses even further than AN 7.17: a single line, &ldquo;meditates "
+        "observing not-self in all things,&rdquo; followed immediately by &ldquo;…pe….&rdquo; "
+        "and the source's own ordinal marker. This is the briefest discourse in this "
+        "collection so far, shorter even than AN 6.90 within the previous nipāta."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same seven outcomes already detailed at AN 7.16 apply identically to "
+            "not-self meditation: full awakening in this life, ending simultaneous with "
+            "death, or one of five manners of non-return."]),
+        ("The briefest discourse in this collection to date", [
+            "AN 6.90, within the previous nipāta, held the record for this collection's "
+            "shortest discourse: one sentence beyond title and setting. This discourse is "
+            "shorter still &mdash; a single clause naming its meditation object, followed "
+            "by the ellipsis marking everything else as already given."]),
+        ("Not-self, completing the three characteristics", [
+            "With impermanence (AN 7.16) and suffering (AN 7.17) already applied to this "
+            "sevenfold structure, this discourse completes the standard three "
+            "characteristics with not-self &mdash; the same trio already treated together "
+            "in the previous nipāta at AN 6.98&ndash;101 and individually at AN 6.142, now "
+            "each given their own discourse within this chapter's tetrad."]),
+        ("One object remains", [
+            "AN 7.19, immediately following, will complete this tetrad with a fourth "
+            "object beyond the three characteristics: the happiness of extinguishment "
+            "itself, applied to the identical sevenfold structure one final time."]),
+    ],
+    terms=[
+        ("anattānupassī",
+         "&ldquo;observing not-self&rdquo; &mdash; this discourse's own title and "
+         "meditation object, completing the three characteristics within this tetrad."),
+        ("…pe…",
+         "the Pāli ellipsis mark, here standing in for nearly this entire discourse's "
+         "content beyond its single opening clause."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; the source colophon's ordinal, this "
+         "discourse's own entire second line."),
+        ("anicca, dukkha, anatta",
+         "&ldquo;impermanent, suffering, not-self&rdquo; &mdash; the three characteristics, "
+         "now individually applied across AN 7.16, 7.17, and this discourse."),
+        ("āhuneyyā... anuttaraṁ puññakkhettaṁ lokassa",
+         "the same closing formula shared across this entire tetrad and AN 7.14, assumed "
+         "here without being spelled out at all."),
+    ],
+    text_intro=(
+        "The formula exactly as the source compresses it: the same sevenfold structure as "
+        "AN 7.16, applied to not-self, in a single elided line. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The compressed formula"),
+        ("p", "&sect;1", "an7.18:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's length compare to the rest of this collection, "
+              "according to the guide?",
+         "opts": [
+             "Average length for this collection",
+             "The single most compressed discourse to date, shorter even than AN 6.90 in "
+             "the previous nipāta",
+             "The longest discourse in this chapter",
+             "Identical in length to AN 7.15"],
+         "correct": 1,
+         "expl": "A new record for brevity within this series."},
+        {"q": "What does this discourse's content represent?",
+         "opts": [
+             "An entirely new classification unrelated to AN 7.16",
+             "The identical sevenfold structure as AN 7.16, with not-self replacing "
+             "impermanence as the meditation object",
+             "A four-item list",
+             "A repeat of AN 7.13's content"],
+         "correct": 1,
+         "expl": "The same seven outcomes, compressed to a single elided line."},
+        {"q": "What does this discourse complete, according to the guide?",
+         "opts": [
+             "Nothing — an isolated compression",
+             "The three characteristics (impermanence, suffering, not-self) individually "
+             "applied across AN 7.16, 7.17, and this discourse",
+             "The entire chapter",
+             "The entire Sevens collection"],
+         "correct": 1,
+         "expl": "The third of three characteristics already treated together in the "
+                 "previous nipāta."},
+        {"q": "What comes next in this tetrad, according to the guide?",
+         "opts": [
+             "The tetrad ends here",
+             "AN 7.19, applying the identical structure to a fourth object beyond the "
+             "three characteristics: the happiness of extinguishment",
+             "A return to AN 7.14's content",
+             "A shift to an unrelated topic"],
+         "correct": 1,
+         "expl": "One further discourse completes this four-part tetrad."},
+        {"q": "Is a setting stated for AN 7.18?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, as compressed as the rest of this discourse."},
+        {"q": "What does <em>anattānupassī</em> mean?",
+         "opts": ["Observing impermanence", "Observing suffering", "Observing not-self", "Observing happiness"],
+         "correct": 2,
+         "expl": "This discourse's own title and meditation object."},
+    ],
+    marginalia=[
+        ("This collection's briefest yet", [
+            "one clause, then '…pe…' —",
+            "shorter even than",
+            "AN 6.90's single sentence",
+        ]),
+        ("Completing the three characteristics", [
+            "impermanence (7.16),",
+            "suffering (7.17),",
+            "not-self (7.18) — all applied",
+        ]),
+        ("One object remains", [
+            "AN 7.19 will close",
+            "this tetrad with",
+            "the happiness of extinguishment",
+        ]),
+        ("Cross-references", [
+            "AN 7.16 &middot; earlier, this discourse's full template",
+            "AN 6.98–101 &middot; earlier nipāta, the three characteristics treated "
+            "together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.18/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.16.html">AN 7.16 &middot; Observing Impermanence</a> &mdash; '
+        "earlier, this discourse's full template.",
+        '<a href="an-7.19.html">AN 7.19 &middot; Extinguishment</a> &mdash; next, closing '
+        "this tetrad with a fourth meditation object.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.19 — Nibbānasutta
+# --------------------------------------------------------------------------- #
+page(
+    19, "Nibbāna", "Extinguishment",
+    vagga=VAGGA_2,
+    meta_title="AN 7.19 — Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nibbānasutta, "
+        "closing this tetrad by applying AN 7.16's sevenfold structure to the happiness of "
+        "extinguishment, spelled out in full rather than elided. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical sevenfold structure as AN 7.16, spelled out in full rather "
+                 "than elided — closing this tetrad on a fourth, distinct meditation "
+                 "object"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "Meditating on the happiness, rather than the peace, of "
+                              "extinguishment recurs in related forms across the Chinese "
+                              "Āgamas' treatment of nibbāna; this reading guide does not "
+                              "assert a specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; closes this tetrad with "
+                       "a fourth object departing from the three characteristics, spelled "
+                       "out fully like AN 7.16"),
+    ],
+    why=(
+        "AN 7.19 closes this tetrad with a genuine departure from AN 7.16&ndash;18's "
+        "pattern: rather than a fourth characteristic of conditioned existence, this "
+        "discourse's meditation object is extinguishment itself, observed specifically as "
+        "happiness &mdash; and, like AN 7.16 but unlike AN 7.17 and 7.18, the source "
+        "spells this discourse out in full rather than eliding it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same seven outcomes already detailed at AN 7.16 apply to meditation on "
+            "the happiness of extinguishment: full awakening in this life, ending "
+            "simultaneous with death, or one of five manners of non-return."]),
+        ("Extinguishment, not a fourth characteristic", [
+            "Impermanence, suffering, and not-self (AN 7.16&ndash;18) are all "
+            "characteristics of conditioned existence; extinguishment is this literature's "
+            "term for the unconditioned. This discourse's object is thus not a fourth item "
+            "in the same series as the first three, but a genuine category shift, echoing "
+            "the same move already made at AN 6.101 within the previous nipāta, where "
+            "regarding extinguishment specifically required its own full treatment rather "
+            "than simple elision."]),
+        ("Happiness, not merely peace", [
+            "This discourse specifies observing sukha, happiness, in extinguishment, "
+            "rather than the more commonly emphasized santi, peace, or the simple absence "
+            "of suffering &mdash; framing the unconditioned in explicitly positive, felt "
+            "terms rather than only as a cessation."]),
+        ("Why this discourse is spelled out, like AN 7.16", [
+            "Just as AN 6.101's shift to the unconditioned required full text rather than "
+            "elision, this discourse's shift from characteristics of conditioned existence "
+            "to extinguishment itself is significant enough that the source gives its "
+            "entire sevenfold structure in full, rather than compressing it as it did for "
+            "AN 7.17 and 7.18's more straightforward continuations of the same "
+            "characteristic-based series."]),
+    ],
+    terms=[
+        ("nibbāne sukhānupassī",
+         "&ldquo;observing the happiness in extinguishment&rdquo; &mdash; this discourse's "
+         "own meditation object, framing the unconditioned in positive, felt terms."),
+        ("sukha",
+         "&ldquo;happiness&rdquo; &mdash; the specific quality this discourse observes in "
+         "extinguishment, distinct from the more commonly emphasized peace."),
+        ("saṅkhata, asaṅkhata",
+         "&ldquo;conditioned, unconditioned&rdquo; &mdash; the underlying distinction "
+         "behind this discourse's category shift, echoing the identical move already made "
+         "at AN 6.101 in the previous nipāta."),
+        ("antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī, "
+         "sasaṅkhāraparinibbāyī, uddhaṁsota akaniṭṭhagāmī",
+         "the same five manners of non-return already named at AN 7.16, restated here in "
+         "full for types three through seven."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; this discourse's own title term and "
+         "meditation object, closing this tetrad on the unconditioned rather than a fourth "
+         "characteristic."),
+    ],
+    text_intro=(
+        "The discourse in full: seven types of meditators on the happiness of "
+        "extinguishment, classified by how and when their defilements end. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first individual: full awakening in this life"),
+        ("p", "&sect;1", "an7.19:1.1-1.3"),
+        ("h3", "The second individual: ending simultaneous with death"),
+        ("p", "&sect;2", "an7.19:2.1-2.3"),
+        ("h3", "The third through seventh individuals: five manners of non-return"),
+        ("p", "&sect;3", "an7.19:3.1-3.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's meditation object differ from AN 7.16–18's, "
+              "according to the guide?",
+         "opts": [
+             "No difference — it is a fourth characteristic in the same series",
+             "A genuine category shift — extinguishment is the unconditioned, not a fourth "
+             "characteristic of conditioned existence like impermanence, suffering, and "
+             "not-self",
+             "This discourse names no meditation object at all",
+             "It is identical to AN 7.16's impermanence"],
+         "correct": 1,
+         "expl": "A shift from conditioned characteristics to the unconditioned itself."},
+        {"q": "What specific quality does this discourse observe in extinguishment, rather "
+              "than the more commonly emphasized peace?",
+         "opts": [
+             "Emptiness", "Happiness (sukha)", "Silence", "Distance"],
+         "correct": 1,
+         "expl": "A positive, felt framing of the unconditioned."},
+        {"q": "Why is this discourse spelled out in full, unlike AN 7.17 and 7.18, "
+              "according to the guide?",
+         "opts": [
+             "For no particular reason — the source is simply inconsistent",
+             "Its shift to the unconditioned is significant enough to require full text, "
+             "echoing the same move already made at AN 6.101 in the previous nipāta",
+             "Because it is the tetrad's first discourse",
+             "Because it contradicts AN 7.16's teaching"],
+         "correct": 1,
+         "expl": "A structural echo of AN 6.101's earlier shift to the unconditioned."},
+        {"q": "What connects this discourse's structure to AN 7.16's?",
+         "opts": [
+             "No connection at all",
+             "The identical sevenfold classification by manner and timing of final "
+             "liberation, now applied to extinguishment as the meditation object",
+             "Only the setting is shared",
+             "This discourse reverses AN 7.16's teaching entirely"],
+         "correct": 1,
+         "expl": "The same seven outcomes, applied to a fourth and category-shifting "
+                 "object."},
+        {"q": "Is a setting stated for AN 7.19?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Vesālī"],
+         "correct": 1,
+         "expl": "A bare formula, matching this tetrad's other discourses."},
+        {"q": "What does this discourse close, according to the guide?",
+         "opts": [
+             "Nothing — further discourses in this exact tetrad follow",
+             "The four-discourse tetrad begun at AN 7.16, having now applied the identical "
+             "sevenfold structure to impermanence, suffering, not-self, and extinguishment",
+             "The entire chapter",
+             "The entire Sevens collection"],
+         "correct": 1,
+         "expl": "The tetrad's fourth and final meditation object."},
+    ],
+    marginalia=[
+        ("A category shift", [
+            "not a fourth characteristic —",
+            "extinguishment itself,",
+            "the unconditioned",
+        ]),
+        ("Happiness, not merely peace", [
+            "sukha specifically —",
+            "a positive, felt framing",
+            "of the unconditioned",
+        ]),
+        ("Spelled out, like AN 7.16", [
+            "significant enough",
+            "for full text, echoing",
+            "AN 6.101's earlier shift",
+        ]),
+        ("Cross-references", [
+            "AN 7.16–18 &middot; earlier, this tetrad's three characteristic-based "
+            "discourses",
+            "AN 6.101 &middot; earlier nipāta, the same structural shift to the "
+            "unconditioned",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.19/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.18.html">AN 7.18 &middot; Observing Not-self</a> &mdash; previous, '
+        "closing this tetrad's three characteristic-based discourses.",
+        '<a href="an-7.20.html">AN 7.20 &middot; Qualifications for Graduation</a> &mdash; '
+        "next, closing this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.20 — Niddasavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    20, "Niddasavatthu", "Qualifications for Graduation",
+    vagga=VAGGA_2,
+    meta_title="AN 7.20 — Qualifications for Graduation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Niddasavatthusutta, closing this chapter with seven qualities of sustained keen "
+        "enthusiasm that qualify a mendicant to graduate from training. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single seven-item list of sustained enthusiasms, closing this chapter"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "The image of graduating from a training already completed "
+                              "recurs widely across the Chinese Āgamas' descriptions of the "
+                              "arahant's finished task; this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and formulaic, "
+                       "closing this chapter with a compact seven-item list"),
+    ],
+    why=(
+        "AN 7.20 closes this chapter with seven qualifications for graduation "
+        "(niddasavatthu) &mdash; keen enthusiasm sustained toward undertaking the "
+        "training, examining the teachings, getting rid of desires, retreat, rousing "
+        "energy, mindfulness and alertness, and theoretical penetration &mdash; each "
+        "qualified by the same closing clause: &ldquo;and they don't lose these desires "
+        "in the future.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant qualifies for graduation through seven keen enthusiasms sustained "
+            "without loss into the future: for undertaking the training, examining the "
+            "teachings, getting rid of desires, retreat, energy, mindfulness and "
+            "alertness, and theoretical penetration."]),
+        ("Graduation as a specific technical image", [
+            "Niddasavatthu, literally &ldquo;grounds for being ten-less&rdquo; or having "
+            "completed schooling, names the point at which a mendicant no longer needs "
+            "the guidance of a teacher for a fixed number of years &mdash; not a claim "
+            "about age but about training having reached its completion."]),
+        ("Sustained, not merely momentary", [
+            "Each of the seven items is qualified by the identical closing clause, "
+            "&ldquo;and they don't lose these desires in the future&rdquo; &mdash; the "
+            "discourse's concern is not whether a mendicant has ever shown enthusiasm for "
+            "these seven things, but whether that enthusiasm persists without falling "
+            "away."]),
+        ("Closing this chapter on a forward-looking note", [
+            "Where this chapter's earlier discourses classified persons by attainment "
+            "already reached (AN 7.14&ndash;19) or by conduct already shown (AN "
+            "7.11&ndash;13), this closing discourse frames its seven qualities "
+            "prospectively &mdash; enthusiasms that must continue, not simply have "
+            "occurred, ending the chapter on a note of ongoing practice rather than a "
+            "fixed classification."]),
+    ],
+    terms=[
+        ("niddasavatthu",
+         "&ldquo;grounds for graduation&rdquo; &mdash; this discourse's own title, naming "
+         "the point training reaches completion without requiring further oversight."),
+        ("sikkhāsamādāne tibbacchando",
+         "&ldquo;keen enthusiasm to undertake the training&rdquo; &mdash; the first of "
+         "seven qualifications, each with an identical grammatical structure."),
+        ("dhammanisantiyā, nekkhamme, pavivekāya",
+         "&ldquo;examining the teachings, getting rid of desires, for retreat&rdquo; "
+         "&mdash; the second, third, and fourth qualifications."),
+        ("vīriyārambhe, satisampajaññe, diṭṭhipaṭivedhāya",
+         "&ldquo;rousing energy, mindfulness and alertness, theoretical penetration&rdquo; "
+         "&mdash; the fifth, sixth, and seventh qualifications, closing the list."),
+        ("na cāyatiṁ taṁ chandaṁ vinodenti",
+         "&ldquo;and they don't lose these desires in the future&rdquo; &mdash; the "
+         "identical closing clause qualifying all seven items, emphasizing persistence "
+         "over mere occurrence."),
+    ],
+    text_intro=(
+        "The discourse in full: seven sustained enthusiasms that qualify a mendicant for "
+        "graduation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven qualifications for graduation"),
+        ("p", "&sect;1", "an7.20:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "What does <em>niddasavatthu</em>, this discourse's own title, name?",
+         "opts": [
+             "A specific meditation posture",
+             "The point at which a mendicant's training has reached completion, no longer "
+             "requiring a teacher's fixed-term guidance",
+             "A synonym for the five hindrances",
+             "The fourth fruit of the path specifically"],
+         "correct": 1,
+         "expl": "Not a claim about age, but about training reaching completion."},
+        {"q": "What clause qualifies all seven items on this discourse's list?",
+         "opts": [
+             "No qualifying clause is given",
+             "'And they don't lose these desires in the future' — emphasizing sustained "
+             "persistence, not merely having once shown enthusiasm",
+             "'And they teach this to others'",
+             "'And they abandon this eventually'"],
+         "correct": 1,
+         "expl": "A concern with ongoing persistence, not a one-time occurrence."},
+        {"q": "What are the first three of the seven qualifications named?",
+         "opts": [
+             "Faith, wisdom, and generosity",
+             "Keen enthusiasm to undertake the training, to examine the teachings, and to "
+             "get rid of desires",
+             "The three poisons",
+             "The three fetters of AN 7.8"],
+         "correct": 1,
+         "expl": "The opening three of seven sustained enthusiasms."},
+        {"q": "How does this discourse's framing compare to this chapter's earlier "
+              "discourses, according to the guide?",
+         "opts": [
+             "Identical framing throughout the chapter",
+             "This discourse frames its qualities prospectively — enthusiasms that must "
+             "continue — where earlier discourses classified persons by attainment already "
+             "reached or conduct already shown",
+             "This discourse has no relationship to the rest of the chapter",
+             "This discourse only concerns past conduct"],
+         "correct": 1,
+         "expl": "A forward-looking close to a chapter otherwise concerned with existing "
+                 "classifications."},
+        {"q": "Is a setting stated for AN 7.20?",
+         "opts": ["Yes, at Sāvatthī", "No — none is stated", "Yes, at Rājagaha", "Yes, at Kimbilā"],
+         "correct": 1,
+         "expl": "A bare formula, closing this chapter."},
+        {"q": "What are the final two qualifications named in this discourse?",
+         "opts": [
+             "Faith and wisdom",
+             "Mindfulness and alertness, and theoretical penetration",
+             "Generosity and ethics",
+             "The two poisons"],
+         "correct": 1,
+         "expl": "The sixth and seventh items closing this discourse's list."},
+    ],
+    marginalia=[
+        ("Seven sustained enthusiasms", [
+            "training &middot; examining",
+            "teachings &middot; renunciation",
+            "&middot; retreat &middot; energy &middot; mindfulness &middot; penetration",
+        ]),
+        ("Sustained, not momentary", [
+            "'don't lose these desires",
+            "in the future' —",
+            "every one of the seven items",
+        ]),
+        ("Graduation, a specific image", [
+            "niddasavatthu —",
+            "training complete,",
+            "no further fixed-term guidance needed",
+        ]),
+        ("Cross-references", [
+            "AN 7.14–19 &middot; earlier, classifications by attainment or conduct already "
+            "shown",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.20/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.19.html">AN 7.19 &middot; Extinguishment</a> &mdash; previous, '
+        "closing this chapter's tetrad.",
+        '<a href="an-7.16.html">AN 7.16 &middot; Observing Impermanence</a> &mdash; back to '
+        "this chapter&rsquo;s tetrad, for contrast with this closing discourse&rsquo;s "
+        "forward-looking framing.",
+    ],
+)
+
