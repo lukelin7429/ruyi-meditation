@@ -24942,3 +24942,1882 @@ page(
         "this chapter&rsquo;s opening, closing the loop.",
     ],
 )
+# --------------------------------------------------------------------------- #
+# AN 5.121 — Gilānasutta
+# --------------------------------------------------------------------------- #
+VAGGA_13 = "<em>Gilānavagga</em> &mdash; the thirteenth chapter of the Fives"
+
+page(
+    121, "Gilāna", "Sick",
+    vagga=VAGGA_13,
+    meta_title="AN 5.121 — Sick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Gilānasutta, "
+        "opening the Gilānavagga — the Buddha visits a sick mendicant in the infirmary and "
+        "commends a familiar five-part practice, even to someone weak and unwell. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, in the hall with the peaked roof &mdash; a new "
+                    "setting, stated explicitly"),
+        ("Speakers", "The Buddha, addressing the mendicants after visiting the infirmary"),
+        ("Form", "a narrative opening, then a single five-item list reused from earlier in "
+                 "this nipāta"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a vivid, grounded scene"),
+    ],
+    why=(
+        "This chapter's title discourse opens with the Buddha visiting a monastic infirmary "
+        "in person, seeing a specific weak and sick mendicant, and commending to the "
+        "assembled mendicants a familiar five-part practice &mdash; the same one used at AN "
+        "5.69&ndash;71 &mdash; now specifically for someone already ill."),
+    guide=[
+        ("A vivid, embodied opening scene", [
+            "Rather than an abstract teaching setting, this discourse opens with the Buddha "
+            "coming out of retreat in the late afternoon, walking to the infirmary, and "
+            "seeing a particular weak and sick mendicant before sitting down and addressing "
+            "the others present."]),
+        ("The familiar five, reused once more", [
+            "Observing the body's ugliness, perceiving food's repulsiveness, perceiving "
+            "dissatisfaction with the whole world, observing the impermanence of all "
+            "conditions, and having well established the perception of one's own death "
+            "&mdash; the exact five practices already used at AN 5.69&ndash;71, cited here "
+            "rather than re-explained."]),
+        ("Why this list, for someone already sick", [
+            "It's striking that a set of contemplations often associated with renunciation "
+            "and disillusionment is commended here specifically to someone weak and unwell "
+            "&mdash; suggesting these practices aren't reserved for the healthy or "
+            "comfortable. Illness itself doesn't disqualify someone from this practice, and "
+            "may even sharpen it."]),
+        ("The expected result", [
+            "If a weak and sick mendicant doesn't neglect these five things, the discourse "
+            "says it can be expected that they will soon realize freedom of heart and freedom "
+            "by wisdom through the ending of defilements &mdash; the collection's standard "
+            "formula for full liberation."]),
+        ("What comes next", [
+            "AN 5.122 restates a related formula, explicitly addressed to &lsquo;any monk or "
+            "nun&rsquo; rather than a specifically sick individual, with one item of the five "
+            "changed."]),
+    ],
+    terms=[
+        ("gilāna",
+         "&ldquo;sick&rdquo; &mdash; this chapter's title term and this discourse's subject."),
+        ("gilānasālā",
+         "the infirmary, where the Buddha finds the sick mendicant."),
+        ("asubhānupassī",
+         "observing the ugliness of the body &mdash; the first of the five practices, reused "
+         "from AN 5.69&ndash;71."),
+        ("maraṇasaññā",
+         "the perception of one's own death &mdash; the fifth practice."),
+        ("āsavakkhaya",
+         "the ending of defilements, the expected outcome of this practice."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's visit to the infirmary, and the five practices "
+        "commended even to a sick mendicant. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's visit"),
+        ("p", "&sect;1", "an5.121:1.1-1.5"),
+        ("h3", "Five things not to neglect"),
+        ("p", "&sect;2", "an5.121:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī",
+             "Vesālī, the Great Wood, in the hall with the peaked roof",
+             "Kosambī",
+             "Andhakavinda"],
+         "correct": 1,
+         "expl": "A new setting, stated explicitly."},
+        {"q": "What prompts this discourse?",
+         "opts": [
+             "A question from Ānanda",
+             "The Buddha visiting the infirmary and seeing a weak, sick mendicant",
+             "A dispute among monks",
+             "A visit from a lay supporter"],
+         "correct": 1,
+         "expl": "A vivid, embodied opening scene."},
+        {"q": "What five practices does the Buddha commend?",
+         "opts": [
+             "The same five already used at AN 5.69–71",
+             "An entirely new list",
+             "The four noble truths",
+             "The five hindrances"],
+         "correct": 0,
+         "expl": "Body's ugliness, food's repulsiveness, world-dissatisfaction, impermanence, death-perception."},
+        {"q": "Who is this practice specifically commended to in this discourse?",
+         "opts": [
+             "Only senior mendicants",
+             "A weak and sick mendicant",
+             "Only newly ordained mendicants",
+             "Lay supporters"],
+         "correct": 1,
+         "expl": "Illness doesn't disqualify one from this practice."},
+        {"q": "What does the discourse suggest about illness and this practice?",
+         "opts": [
+             "That illness makes the practice impossible",
+             "That illness doesn't disqualify, and may even sharpen, this practice",
+             "That only the healthy should attempt it",
+             "That the practice should be postponed until recovery"],
+         "correct": 1,
+         "expl": "Commended specifically to someone weak and unwell."},
+        {"q": "What result is expected if these five things aren't neglected?",
+         "opts": [
+             "Physical recovery",
+             "Freedom of heart and freedom by wisdom through the ending of defilements",
+             "Rebirth as a deity",
+             "A long life"],
+         "correct": 1,
+         "expl": "The collection's standard formula for full liberation."},
+        {"q": "What is the fifth of the five practices?",
+         "opts": [
+             "Perception of dissatisfaction with the whole world",
+             "Well-established perception of one's own death",
+             "Perception of food's repulsiveness",
+             "Observing the body's ugliness"],
+         "correct": 1,
+         "expl": "Maraṇasaññā, closing the list."},
+        {"q": "Where did this exact five-item list previously appear in this nipāta?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.69–71",
+             "AN 5.91",
+             "AN 5.111"],
+         "correct": 1,
+         "expl": "Reused here without re-explanation."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Andhakavindavagga",
+             "Gilānavagga",
+             "Phāsuvihāravagga",
+             "Kakudhavagga"],
+         "correct": 1,
+         "expl": "The thirteenth chapter of the Fives, 'Sick'."},
+        {"q": "What does AN 5.122 do with a related formula?",
+         "opts": [
+             "Restates it identically",
+             "Extends it explicitly to 'any monk or nun', with one item changed",
+             "Rejects the formula entirely",
+             "Applies it only to laypeople"],
+         "correct": 1,
+         "expl": "A broader, gender-inclusive address."},
+    ],
+    marginalia=[
+        ("A visit to the infirmary", [
+            "the Buddha, in person,",
+            "seeing a sick monk",
+        ]),
+        ("The familiar five, once more", [
+            "ugliness &middot; food",
+            "&middot; dissatisfaction",
+            "&middot; impermanence &middot; death",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">gilānasālā</span>",
+            "&mdash; the",
+            "infirmary",
+        ]),
+        ("Cross-references", [
+            "AN 5.69&ndash;71 &middot; this same five-item list's earlier use",
+            "AN 5.122 &middot; next: a broader address, one item changed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.121/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.69.html">AN 5.69 &middot; Disillusionment</a> &mdash; where this '
+        "same five-item practice was first used in this nipāta.",
+        '<a href="an-5.122.html">AN 5.122 &middot; Mindfulness Well Established</a> '
+        "&mdash; next: a broader address, one item changed.",
+        '<a href="an-5.130.html">AN 5.130 &middot; Loss</a> &mdash; this chapter&rsquo;s '
+        "closing discourse, on what actually determines rebirth.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.122 — Satisūpaṭṭhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    122, "Satisūpaṭṭhita", "Mindfulness Well Established",
+    vagga=VAGGA_13,
+    meta_title="AN 5.122 — Mindfulness Well Established | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Satisūpaṭṭhitasutta "
+        "— explicitly addressed to any monk or nun, replacing death-perception with ongoing "
+        "mindfulness of arising and passing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single five-item list, explicitly gender-inclusive, naming a twofold "
+                 "possible outcome"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; familiar material with "
+                       "two notable changes"),
+    ],
+    why=(
+        "This discourse restates AN 5.121's practice with two notable changes: it's "
+        "explicitly addressed to &lsquo;any monk or nun&rsquo; rather than a specific "
+        "individual, and it swaps death-perception for an ongoing, general mindfulness of "
+        "phenomena's arising and passing."),
+    guide=[
+        ("Explicitly addressed to monks and nuns alike", [
+            "<em>Bhikkhu vā bhikkhunī vā</em> &mdash; an explicit gender-inclusive framing, "
+            "worth noting since much of this nipāta defaults to addressing bhikkhu alone, "
+            "with the notable exception of AN 5.115&ndash;120's nun-specific run."]),
+        ("A twofold outcome, new in this chapter", [
+            "Rather than a single expected result, this discourse names two possible "
+            "outcomes: full enlightenment in this very life, or &mdash; if any residue of "
+            "defilement remains &mdash; non-return, not being reborn in the sensual realm "
+            "again."]),
+        ("A modified five, compared to AN 5.121", [
+            "This discourse swaps out AN 5.121's fifth item, death-perception, for mindfulness "
+            "well established specifically for understanding the arising and passing of "
+            "phenomena, while keeping the middle three: body's ugliness, food's "
+            "repulsiveness, and world-dissatisfaction."]),
+        ("Why this substitution matters", [
+            "Death-perception is a contemplation of a specific object &mdash; one's own "
+            "mortality. What replaces it here is a more general, ongoing observational "
+            "capacity &mdash; a shift from a specific object of contemplation to a general "
+            "meditative skill."]),
+        ("What comes next", [
+            "AN 5.123 turns entirely away from contemplative formulas to something very "
+            "practical: what makes a patient easy or difficult to care for."]),
+    ],
+    terms=[
+        ("bhikkhu vā bhikkhunī vā",
+         "&ldquo;any monk or nun&rdquo; &mdash; this discourse's explicit, gender-inclusive "
+         "address."),
+        ("udayatthagāminiyā paññāya",
+         "&ldquo;for understanding the arising and passing of phenomena&rdquo; &mdash; the "
+         "fifth item, replacing AN 5.121's death-perception."),
+        ("aññā",
+         "full enlightenment, complete knowledge &mdash; the first possible outcome."),
+        ("anāgāmitā",
+         "non-return &mdash; the second possible outcome, if any residue remains."),
+        ("upādisese",
+         "&ldquo;with residue remaining&rdquo; &mdash; the condition distinguishing the two "
+         "possible outcomes."),
+    ],
+    text_intro=(
+        "The discourse in full: a modified five-part practice, and its twofold possible "
+        "outcome. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five qualities, and a twofold outcome"),
+        ("p", "&sect;1", "an5.122:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse explicitly addressed to?",
+         "opts": [
+             "Monks only",
+             "Any monk or nun",
+             "Senior mendicants only",
+             "Lay followers"],
+         "correct": 1,
+         "expl": "Bhikkhu vā bhikkhunī vā, an explicit gender-inclusive framing."},
+        {"q": "What twofold outcome does this discourse name?",
+         "opts": [
+             "Wealth or poverty",
+             "Full enlightenment in this life, or non-return if any residue remains",
+             "Rebirth as a deity or a human",
+             "Fame or obscurity"],
+         "correct": 1,
+         "expl": "A twofold, rather than single, expected result."},
+        {"q": "What item does this discourse swap out from AN 5.121's list?",
+         "opts": [
+             "Food's repulsiveness",
+             "Death-perception, replaced by mindfulness of arising and passing",
+             "World-dissatisfaction",
+             "The body's ugliness"],
+         "correct": 1,
+         "expl": "A shift from a specific object to a general capacity."},
+        {"q": "What does 'udayatthagāminiyā paññāya' refer to?",
+         "opts": [
+             "Understanding the arising and passing of phenomena",
+             "Understanding monastic rules",
+             "Understanding the four noble truths specifically",
+             "Understanding the five aggregates only"],
+         "correct": 0,
+         "expl": "This discourse's replacement for death-perception."},
+        {"q": "What does 'anāgāmitā' mean?",
+         "opts": [
+             "Full enlightenment",
+             "Non-return",
+             "Rebirth in hell",
+             "Ordination"],
+         "correct": 1,
+         "expl": "The second of the two possible outcomes."},
+        {"q": "What condition determines whether the outcome is full enlightenment or non-return?",
+         "opts": [
+             "The mendicant's age",
+             "Whether any residue of defilement remains",
+             "The mendicant's location",
+             "The mendicant's gender"],
+         "correct": 1,
+         "expl": "Upādisese — with residue remaining."},
+        {"q": "How many of AN 5.121's five items does this discourse keep unchanged?",
+         "opts": [
+             "None",
+             "Three — body's ugliness, food's repulsiveness, world-dissatisfaction",
+             "All five",
+             "Only one"],
+         "correct": 1,
+         "expl": "The middle three items are retained."},
+        {"q": "Which earlier discourse in this nipāta also addressed both monks and nuns explicitly?",
+         "opts": [
+             "None; this is the first such instance",
+             "The run at AN 5.115–120, though addressed to nuns alone",
+             "AN 5.1",
+             "AN 5.99"],
+         "correct": 1,
+         "expl": "A different, nun-specific pattern, contrasted here with this discourse's inclusive framing."},
+        {"q": "What does AN 5.123 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Practical qualities that make a patient easy or hard to care for",
+             "The lion simile",
+             "A narrative about Devadatta"],
+         "correct": 1,
+         "expl": "A shift from contemplative formula to practical care."},
+        {"q": "What formula, previously used in this nipāta, does this discourse's fruit closely echo?",
+         "opts": [
+             "The five future perils formula",
+             "A twofold enlightenment/non-return formula recognizable from elsewhere in the canon",
+             "The five warriors formula",
+             "The five hindrances formula"],
+         "correct": 1,
+         "expl": "Associated elsewhere with satipatthāna-related material."},
+    ],
+    marginalia=[
+        ("For any monk or nun", [
+            "an explicit,",
+            "gender-inclusive address",
+        ]),
+        ("A twofold outcome", [
+            "full enlightenment,",
+            "or non-return",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">udayatthagāminiyā paññāya</span>",
+            "&mdash; arising",
+            "and passing",
+        ]),
+        ("Cross-references", [
+            "AN 5.121 &middot; this discourse's source formula",
+            "AN 5.115&ndash;120 &middot; a different, nun-specific address",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.122/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.121.html">AN 5.121 &middot; Sick</a> &mdash; the previous discourse, '
+        "this formula's original form.",
+        '<a href="an-5.123.html">AN 5.123 &middot; A Carer (1st)</a> &mdash; next: practical '
+        "qualities of a patient.",
+        '<a href="an-5.115.html">AN 5.115 &middot; Stingy</a> &mdash; a different address to '
+        "nuns specifically, contrasted with this discourse's inclusive framing.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.123 — Paṭhamaupaṭṭhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    123, "Paṭhamaupaṭṭhāka", "A Carer (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 5.123 — A Carer (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaupaṭṭhākasutta — five patient qualities that make care difficult or easy, "
+        "from a genuinely practical, nursing-adjacent perspective. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, describing a patient rather than a mendicant's "
+                 "general conduct"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical and grounded"),
+    ],
+    why=(
+        "A genuinely practical discourse: five qualities that make a sick person hard to "
+        "care for, and five that make them easy &mdash; from following medical advice to "
+        "honestly reporting symptoms to enduring physical pain."),
+    guide=[
+        ("A patient's own conduct, assessed practically", [
+            "Unlike most of this nipāta's lists, this discourse's subject is not a "
+            "mendicant's general virtue but a sick person's specific behavior as a patient."]),
+        ("Five behaviors that make care difficult", [
+            "Doing what is unsuitable; not knowing moderation in what is suitable; not "
+            "taking medicine; failing to accurately report symptoms &mdash; worsening, "
+            "improving, or unchanged &mdash; even though the carer genuinely wants what's "
+            "best; and being unable to endure severe physical pain."]),
+        ("Honest reporting, singled out", [
+            "The fourth item deserves particular notice: even when a carer's intentions are "
+            "genuinely good, a patient who won't accurately report their own condition makes "
+            "that goodwill practically useless. Good care depends on honest information, not "
+            "just good intentions on either side."]),
+        ("The mirrored positive", [
+            "The easy-to-care-for patient does the exact opposite in each respect: follows "
+            "suitable conduct, knows moderation, takes medicine, reports honestly, and "
+            "endures pain."]),
+        ("A companion discourse to come", [
+            "AN 5.124 turns the same lens around, describing the carer's side of this same "
+            "relationship &mdash; what makes someone competent or incompetent at caring for "
+            "the sick."]),
+    ],
+    terms=[
+        ("asappāyakārī",
+         "&ldquo;doing what is unsuitable&rdquo; &mdash; the first disqualifying behavior, "
+         "reused at AN 5.125&ndash;126."),
+        ("bhesajjaṁ paṭisevati",
+         "&ldquo;takes one's medicine&rdquo;."),
+        ("yathābhūtaṁ ābādhaṁ āvikattā",
+         "&ldquo;accurately reports one's symptoms&rdquo; &mdash; honest disclosure to a "
+         "carer."),
+        ("adhivāsakajātika",
+         "&ldquo;able to endure&rdquo; &mdash; describing tolerance of severe physical pain."),
+        ("gilāna",
+         "&ldquo;sick, a patient&rdquo; &mdash; this discourse's subject."),
+    ],
+    text_intro=(
+        "The discourse in full: five patient behaviors that make care difficult, and their "
+        "opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hard to care for"),
+        ("p", "&sect;1", "an5.123:1.1-1.4"),
+        ("h3", "Easy to care for"),
+        ("p", "&sect;2", "an5.123:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's subject, unlike most of this nipāta's lists?",
+         "opts": [
+             "A mendicant's general virtue",
+             "A sick person's specific behavior as a patient",
+             "A teacher's qualifications",
+             "A warrior's resilience"],
+         "correct": 1,
+         "expl": "Practical, nursing-adjacent conduct."},
+        {"q": "Name one of the five behaviors that make a patient hard to care for.",
+         "opts": [
+             "Doing what is unsuitable",
+             "Living in the wilderness",
+             "Speaking too little",
+             "Excessive learning"],
+         "correct": 0,
+         "expl": "One of five disqualifying behaviors."},
+        {"q": "What does the fourth item specifically concern?",
+         "opts": [
+             "Physical strength",
+             "Accurately reporting one's own symptoms to a well-intentioned carer",
+             "Monastic seniority",
+             "Almsround timing"],
+         "correct": 1,
+         "expl": "Honest disclosure, singled out for special emphasis."},
+        {"q": "Why is honest reporting singled out as particularly important?",
+         "opts": [
+             "It is not actually important",
+             "Good intentions alone are practically useless without honest information",
+             "It matters only for senior mendicants",
+             "It is unrelated to care quality"],
+         "correct": 1,
+         "expl": "Even good-faith care depends on accurate disclosure."},
+        {"q": "What is the fifth disqualifying quality?",
+         "opts": [
+             "Inability to endure severe physical pain",
+             "Excessive talkativeness",
+             "Refusing all medicine categorically",
+             "Living too far from a monastery"],
+         "correct": 0,
+         "expl": "Anadhivāsakajātiko — unable to endure."},
+        {"q": "How is the 'easy to care for' list constructed relative to the 'hard to care for' list?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The simple negation — the exact opposite in each respect",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What does 'bhesajjaṁ paṭisevati' mean?",
+         "opts": [
+             "Takes one's medicine",
+             "Refuses medicine",
+             "Prepares medicine for others",
+             "Sells medicine"],
+         "correct": 0,
+         "expl": "One of the five positive behaviors."},
+        {"q": "What does 'yathābhūtaṁ ābādhaṁ āvikattā' mean?",
+         "opts": [
+             "Accurately reporting one's symptoms",
+             "Concealing one's illness",
+             "Exaggerating one's symptoms",
+             "Refusing to discuss one's condition"],
+         "correct": 0,
+         "expl": "Honest, accurate disclosure."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Andhakavindavagga",
+             "Gilānavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "The chapter on sickness and care."},
+        {"q": "What does AN 5.124 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "The carer's side of this same relationship",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "A companion discourse, reversing the lens."},
+    ],
+    marginalia=[
+        ("Five behaviors, one relationship", [
+            "suitability &middot;",
+            "medicine &middot; honesty",
+            "&middot; endurance",
+        ]),
+        ("Honest reporting matters most", [
+            "good intentions,",
+            "useless without",
+            "accurate information",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">asappāyakārī</span>",
+            "&mdash; doing what",
+            "is unsuitable",
+        ]),
+        ("Cross-references", [
+            "AN 5.124 &middot; next: the carer's side of the relationship",
+            "AN 5.125&ndash;126 &middot; this discourse's opening item, reused",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.123/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.121.html">AN 5.121 &middot; Sick</a> &mdash; this chapter&rsquo;s '
+        "opening, narrative discourse on illness.",
+        '<a href="an-5.124.html">AN 5.124 &middot; A Carer (2nd)</a> &mdash; next: the '
+        "carer's side of this same relationship.",
+        '<a href="an-5.125.html">AN 5.125 &middot; Longevity (1st)</a> &mdash; where this '
+        "discourse's opening item is reused in a different framing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.124 — Dutiyaupaṭṭhākasutta
+# --------------------------------------------------------------------------- #
+page(
+    124, "Dutiyaupaṭṭhāka", "A Carer (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 5.124 — A Carer (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaupaṭṭhākasutta — five qualities of a competent or incompetent carer, from "
+        "medical skill to genuine, undisgusted love. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, the carer's counterpart to AN 5.123's patient "
+                 "discourse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical and frank"),
+    ],
+    why=(
+        "The mirror-image companion to AN 5.123: five qualities of an incompetent carer, and "
+        "five of a competent one, spanning practical skill, motivation, physical willingness, "
+        "and the ability to genuinely encourage a suffering patient."),
+    guide=[
+        ("The carer's side of the relationship", [
+            "Where AN 5.123 assessed the patient, this discourse assesses the carer, "
+            "completing a matched pair on the whole nursing relationship."]),
+        ("Five incompetent qualities", [
+            "Unable to prepare medicine; unable to tell suitable from unsuitable, so "
+            "supplying the wrong one and removing the right one; caring for material benefit "
+            "rather than out of love; disgusted by removing feces, urine, vomit, or spit; and "
+            "unable to educate, encourage, and inspire the patient with Dhamma talk from time "
+            "to time."]),
+        ("A frank acknowledgment of what care actually involves", [
+            "The discourse names bodily fluids directly and without euphemism &mdash; being "
+            "disgusted by them is treated plainly as a genuine disqualification, not merely "
+            "an understandable squeamishness. Real nursing care is described as requiring "
+            "willingness to do exactly this."]),
+        ("Motivation named explicitly", [
+            "The distinction between caring &lsquo;for material benefit&rsquo; and caring "
+            "&lsquo;out of love&rsquo; (<em>mettacitta</em>) is stated as a moral criterion in "
+            "its own right, not merely a matter of competence."]),
+        ("The mirrored positive", [
+            "Able to prepare medicine, correctly distinguishing suitable from unsuitable, "
+            "motivated by love rather than gain, undisgusted by bodily fluids, and able to "
+            "give genuinely inspiring Dhamma talks."]),
+        ("What comes next", [
+            "AN 5.125 shifts from the specific relationship of patient and carer to a "
+            "broader question: what factors, in general, impede or promote a long life."]),
+    ],
+    terms=[
+        ("bhesajjaṁ saṁvidhātuṁ",
+         "&ldquo;to prepare medicine&rdquo; &mdash; the first competence assessed."),
+        ("āmisantaro",
+         "&ldquo;for material benefit&rdquo; &mdash; the disqualifying motivation, contrasted "
+         "with love."),
+        ("mettacitta",
+         "&ldquo;a mind of love&rdquo; &mdash; the required, positive motivation."),
+        ("jegucchī",
+         "&ldquo;disgusted&rdquo; &mdash; the disqualifying reaction to bodily fluids."),
+        ("dhammiyā kathāya sandassetuṁ",
+         "&ldquo;to educate with a Dhamma talk&rdquo; &mdash; the fifth competence, spiritual "
+         "as well as practical care."),
+    ],
+    text_intro=(
+        "The discourse in full: five qualities of an incompetent carer, and their opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not competent to care for a patient"),
+        ("p", "&sect;1", "an5.124:1.1-1.8"),
+        ("h3", "Competent to care for a patient"),
+        ("p", "&sect;2", "an5.124:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What relationship does this discourse assess, compared to AN 5.123?",
+         "opts": [
+             "The same patient's conduct again",
+             "The carer's side of the same nursing relationship",
+             "A senior mendicant's standing",
+             "A teacher's fitness to teach"],
+         "correct": 1,
+         "expl": "The matched, mirror-image companion discourse."},
+        {"q": "What is the first incompetent quality named?",
+         "opts": [
+             "Unable to prepare medicine",
+             "Unable to walk long distances",
+             "Unable to speak clearly",
+             "Unable to read"],
+         "correct": 0,
+         "expl": "A basic practical skill."},
+        {"q": "How does the discourse describe someone disqualified by disgust?",
+         "opts": [
+             "Sympathetically, as an understandable reaction",
+             "Plainly, as a genuine disqualification from the role",
+             "As irrelevant to competence",
+             "As only a minor concern"],
+         "correct": 1,
+         "expl": "Real nursing requires willingness to handle bodily fluids directly."},
+        {"q": "What two motivations does the discourse explicitly contrast?",
+         "opts": [
+             "Caring for material benefit vs. caring out of love",
+             "Caring publicly vs. caring privately",
+             "Caring for monks vs. caring for nuns",
+             "Caring quickly vs. caring slowly"],
+         "correct": 0,
+         "expl": "Āmisantaro vs. mettacitto."},
+        {"q": "What is the fifth competence named?",
+         "opts": [
+             "Ability to educate and inspire the patient with Dhamma talk",
+             "Ability to cook special meals",
+             "Ability to travel long distances",
+             "Ability to recite scripture from memory"],
+         "correct": 0,
+         "expl": "Spiritual care alongside practical skill."},
+        {"q": "What does 'mettacitta' mean?",
+         "opts": [
+             "A mind of love",
+             "A mind of greed",
+             "A mind of fear",
+             "A mind of pride"],
+         "correct": 0,
+         "expl": "The required positive motivation for genuine care."},
+        {"q": "What bodily substances does the discourse name explicitly?",
+         "opts": [
+             "Feces, urine, vomit, and spit",
+             "Blood only",
+             "Sweat only",
+             "The discourse avoids naming any specifics"],
+         "correct": 0,
+         "expl": "Named directly and without euphemism."},
+        {"q": "How is the competent-carer list constructed relative to the incompetent one?",
+         "opts": [
+             "An entirely different five qualities",
+             "The simple negation, plus explicit positive framing (e.g. motivated by love)",
+             "Only two of the five negated",
+             "No positive version is given"],
+         "correct": 1,
+         "expl": "A clean, explicit mirror."},
+        {"q": "What is 'āmisantaro'?",
+         "opts": [
+             "Caring for material benefit",
+             "Caring out of genuine love",
+             "A type of medicine",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The disqualifying motivation."},
+        {"q": "What does AN 5.125 shift to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "A broader question: what impedes or promotes a long life",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "Beyond the specific patient-carer relationship."},
+    ],
+    marginalia=[
+        ("The carer's side, completed", [
+            "matching AN 5.123's",
+            "patient discourse",
+        ]),
+        ("Not disgust, but willingness", [
+            "feces &middot; urine",
+            "&middot; vomit &middot; spit —",
+            "named plainly",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">mettacitta</span>",
+            "&mdash; a mind",
+            "of love",
+        ]),
+        ("Cross-references", [
+            "AN 5.123 &middot; the patient's own conduct",
+            "AN 5.125 &middot; next: longevity in general",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.124/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.123.html">AN 5.123 &middot; A Carer (1st)</a> &mdash; the previous '
+        "discourse, the patient's own conduct.",
+        '<a href="an-5.125.html">AN 5.125 &middot; Longevity (1st)</a> &mdash; next: a '
+        "broader question of what impedes or promotes a long life.",
+        '<a href="an-5.126.html">AN 5.126 &middot; Longevity (2nd)</a> &mdash; the '
+        "companion discourse following it.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.125 — Paṭhamaanāyussāsutta
+# --------------------------------------------------------------------------- #
+page(
+    125, "Paṭhamaanāyussā", "Longevity (1st)",
+    vagga=VAGGA_13,
+    meta_title="AN 5.125 — Longevity (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaanāyussāsutta — five practical, bodily factors that impede or promote a "
+        "long life, reusing this chapter's opening item. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, on physical factors affecting lifespan"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical and concrete"),
+    ],
+    why=(
+        "A shift from the specific patient-carer relationship to a general question: what "
+        "factors, in the body and its habits, impede or promote a long life &mdash; reusing "
+        "this chapter's opening item, doing what is unsuitable, in a new context."),
+    guide=[
+        ("From nursing to longevity in general", [
+            "AN 5.123&ndash;124 concerned a specific relationship, patient and carer. This "
+            "discourse steps back to a broader question: what factors generally shorten or "
+            "lengthen a life."]),
+        ("Five things that impede longevity", [
+            "Doing what is unsuitable; not knowing moderation in what is suitable; eating "
+            "food unfit for consumption; activity at unsuitable times; and unchastity."]),
+        ("A direct reuse from AN 5.123", [
+            "The first two items &mdash; doing what is unsuitable, and not knowing moderation "
+            "&mdash; are the identical opening pair from AN 5.123's &lsquo;hard to care "
+            "for&rsquo; list, now recontextualized as general causes of a shortened life "
+            "rather than specifically patient behavior."]),
+        ("The mirrored positive", [
+            "Doing what is suitable, knowing moderation, eating fit food, suitable timing, "
+            "and chastity."]),
+        ("What comes next", [
+            "AN 5.126 restates the identical first three items, but swaps the final two for "
+            "ethical conduct and the quality of one's friendships."]),
+    ],
+    terms=[
+        ("anāyussā",
+         "&ldquo;things that impede longevity&rdquo; &mdash; this discourse's title concept."),
+        ("apariṇatabhojī",
+         "&ldquo;eating food unfit for consumption&rdquo; &mdash; the third impeding "
+         "factor."),
+        ("akālacārī",
+         "&ldquo;activity at unsuitable times&rdquo; &mdash; the fourth impeding factor."),
+        ("abrahmacārī / brahmacārī",
+         "unchaste / chaste &mdash; the fifth pairing."),
+        ("asappāyakārī",
+         "&ldquo;doing what is unsuitable&rdquo; &mdash; reused directly from AN 5.123."),
+    ],
+    text_intro=(
+        "The discourse in full: five factors that impede longevity, and their opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Things that impede longevity"),
+        ("p", "&sect;1", "an5.125:1.1-1.4"),
+        ("h3", "Things that promote longevity"),
+        ("p", "&sect;2", "an5.125:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What broader question does this discourse turn to, compared to AN 5.123–124?",
+         "opts": [
+             "What impedes or promotes a long life in general",
+             "How to choose a monastery",
+             "How to resolve monastic disputes",
+             "How to teach newcomers"],
+         "correct": 0,
+         "expl": "Beyond the specific patient-carer relationship."},
+        {"q": "What are the first two items on this discourse's 'impedes longevity' list?",
+         "opts": [
+             "Doing what is unsuitable, and not knowing moderation",
+             "Wrong view and wrong intention",
+             "Jealousy and stinginess",
+             "Wrong speech and wrong action"],
+         "correct": 0,
+         "expl": "Reused directly from AN 5.123's opening pair."},
+        {"q": "Where did these first two items previously appear, in a different context?",
+         "opts": [
+             "AN 5.121",
+             "AN 5.123's patient-behavior list",
+             "AN 5.99",
+             "AN 5.1"],
+         "correct": 1,
+         "expl": "Recontextualized from patient conduct to general longevity."},
+        {"q": "What does 'apariṇatabhojī' mean?",
+         "opts": [
+             "Eating food unfit for consumption",
+             "Eating too much food",
+             "Refusing all food",
+             "Eating only at night"],
+         "correct": 0,
+         "expl": "The third impeding factor."},
+        {"q": "What does 'akālacārī' mean?",
+         "opts": [
+             "Activity at unsuitable times",
+             "Excessive silence",
+             "Excessive travel",
+             "Refusing to work"],
+         "correct": 0,
+         "expl": "The fourth impeding factor."},
+        {"q": "What is the fifth impeding factor?",
+         "opts": [
+             "Unchastity",
+             "Wrong view",
+             "Stinginess",
+             "Jealousy"],
+         "correct": 0,
+         "expl": "Abrahmacariya."},
+        {"q": "How is the 'promotes longevity' list constructed relative to the 'impedes' list?",
+         "opts": [
+             "An entirely new set of five factors",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "A longer, expanded list"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Andhakavindavagga",
+             "Gilānavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "The chapter on sickness."},
+        {"q": "What does AN 5.126 change about this same list?",
+         "opts": [
+             "Nothing; it repeats verbatim",
+             "Swaps the final two items for ethical conduct and good friendship",
+             "Removes the list entirely",
+             "Applies it only to nuns"],
+         "correct": 1,
+         "expl": "Keeping the first three items, varying the last two."},
+        {"q": "What is the second impeding factor?",
+         "opts": [
+             "Not knowing moderation in what is suitable",
+             "Excessive fasting",
+             "Excessive study",
+             "Poor almsround timing"],
+         "correct": 0,
+         "expl": "Sappāye mattaṁ na jānāti."},
+    ],
+    marginalia=[
+        ("Five bodily factors", [
+            "suitability &middot;",
+            "moderation &middot; food",
+            "&middot; timing &middot; chastity",
+        ]),
+        ("Reused from AN 5.123", [
+            "the same opening pair,",
+            "now about longevity",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">apariṇatabhojī</span>",
+            "&mdash; food unfit",
+            "for consumption",
+        ]),
+        ("Cross-references", [
+            "AN 5.123 &middot; source of this discourse's opening pair",
+            "AN 5.126 &middot; next: a companion, two items varied",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.125/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.123.html">AN 5.123 &middot; A Carer (1st)</a> &mdash; the source of '
+        "this discourse's opening pair, in its earlier, patient-specific form.",
+        '<a href="an-5.126.html">AN 5.126 &middot; Longevity (2nd)</a> &mdash; next: the '
+        "same first three items, two final items varied.",
+        '<a href="an-5.124.html">AN 5.124 &middot; A Carer (2nd)</a> &mdash; the previous '
+        "discourse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.126 — Dutiyaanāyussāsutta
+# --------------------------------------------------------------------------- #
+page(
+    126, "Dutiyaanāyussā", "Longevity (2nd)",
+    vagga=VAGGA_13,
+    meta_title="AN 5.126 — Longevity (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaanāyussāsutta — AN 5.125's same first three factors, now paired with "
+        "unethical conduct and bad friends rather than bodily discipline. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, sharing three items with AN 5.125 and varying "
+                 "the final two"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical, with a "
+                       "moral/social rather than physical final pair"),
+    ],
+    why=(
+        "AN 5.125's companion: the same first three factors &mdash; unsuitable action, no "
+        "moderation, unfit food &mdash; but swapping the final two for unethical conduct and "
+        "bad friends, moving from purely bodily discipline to moral and social causes."),
+    guide=[
+        ("Three shared items, two varied", [
+            "This discourse keeps AN 5.125's first three items unchanged: doing what is "
+            "unsuitable, not knowing moderation, and eating unfit food. What changes is the "
+            "final two."]),
+        ("Unethical conduct and bad friends", [
+            "In place of AN 5.125's unchastity and unsuitable timing, this discourse names "
+            "<em>dussīla</em> (unethical conduct) and <em>pāpamitta</em> (bad friends) as the "
+            "final two factors impeding longevity."]),
+        ("A shift from bodily to moral and social causes", [
+            "Read together, AN 5.125 and 5.126 suggest two distinct kinds of threat to a long "
+            "life: purely physical/bodily discipline (chastity, timing) on one hand, and "
+            "moral and social influence (one's own ethics, the company one keeps) on the "
+            "other."]),
+        ("The mirrored positive", [
+            "Ethical conduct (<em>sīlavā</em>) and good friends (<em>kalyāṇamitta</em>), "
+            "alongside the same shared three positive counterparts."]),
+        ("What comes next", [
+            "AN 5.127 turns to a different question entirely: what makes a mendicant fit or "
+            "unfit to live apart from a Saṅgha community."]),
+    ],
+    terms=[
+        ("dussīla / sīlavā",
+         "unethical / ethical conduct &mdash; the fourth item in this discourse's pairing."),
+        ("pāpamitta / kalyāṇamitta",
+         "bad friends / good friends &mdash; the fifth item."),
+        ("apariṇatabhojī",
+         "eating food unfit for consumption &mdash; shared with AN 5.125."),
+        ("anāyussā",
+         "things that impede longevity, this discourse's shared title concept."),
+        ("āyussā",
+         "things that promote longevity, the mirrored positive list."),
+    ],
+    text_intro=(
+        "The discourse in full: three shared factors, plus unethical conduct and bad "
+        "friends, and their opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Things that impede longevity"),
+        ("p", "&sect;1", "an5.126:1.1-1.4"),
+        ("h3", "Things that promote longevity"),
+        ("p", "&sect;2", "an5.126:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many items does this discourse share unchanged with AN 5.125?",
+         "opts": [
+             "None",
+             "Three",
+             "All five",
+             "Only one"],
+         "correct": 1,
+         "expl": "Unsuitable action, no moderation, unfit food."},
+        {"q": "What two items does this discourse swap in for AN 5.125's final two?",
+         "opts": [
+             "Unethical conduct and bad friends",
+             "Wrong view and wrong intention",
+             "Jealousy and stinginess",
+             "Wrong speech and wrong action"],
+         "correct": 0,
+         "expl": "Dussīla and pāpamitta."},
+        {"q": "What did AN 5.125 name as its final two items, now replaced?",
+         "opts": [
+             "Unchastity and unsuitable timing",
+             "Ethical conduct and good friends",
+             "Stinginess and jealousy",
+             "Wrong view and wrong speech"],
+         "correct": 0,
+         "expl": "Abrahmacariya and akālacārī."},
+        {"q": "What shift does this pairing of discourses suggest?",
+         "opts": [
+             "No meaningful difference between the two discourses",
+             "A shift from purely bodily discipline to moral and social causes",
+             "A shift away from longevity as a topic entirely",
+             "A rejection of AN 5.125's claims"],
+         "correct": 1,
+         "expl": "Two distinct kinds of threat to a long life."},
+        {"q": "What does 'dussīla' mean?",
+         "opts": [
+             "Unethical conduct",
+             "Ethical conduct",
+             "Excessive learning",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "The fourth impeding factor here."},
+        {"q": "What does 'pāpamitta' mean?",
+         "opts": [
+             "Bad friends",
+             "Good friends",
+             "No friends at all",
+             "Family members"],
+         "correct": 0,
+         "expl": "The fifth impeding factor."},
+        {"q": "What is 'kalyāṇamitta'?",
+         "opts": [
+             "Good friendship, the positive counterpart to pāpamitta",
+             "A type of medicine",
+             "A monastic title",
+             "A specific meditation technique"],
+         "correct": 0,
+         "expl": "Named in the promotes-longevity list."},
+        {"q": "How is the 'promotes longevity' list constructed?",
+         "opts": [
+             "An entirely new set of five factors",
+             "The negation of all five impeding factors",
+             "Only two of the five negated",
+             "No positive version is given"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What earlier discourse in this chapter shares this discourse's opening three items?",
+         "opts": [
+             "AN 5.121",
+             "AN 5.125",
+             "AN 5.123",
+             "AN 5.99"],
+         "correct": 1,
+         "expl": "Longevity (1st), this discourse's companion."},
+        {"q": "What does AN 5.127 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Fitness to live apart from a Saṅgha community",
+             "The lion simile",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "An entirely different question."},
+    ],
+    marginalia=[
+        ("Three shared, two varied", [
+            "unsuitability &middot;",
+            "moderation &middot; food",
+            "&mdash; then ethics &amp; friends",
+        ]),
+        ("Bodily vs. moral causes", [
+            "AN 5.125 &middot; the body",
+            "AN 5.126 &middot; conduct",
+            "and company",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">kalyāṇamitta</span>",
+            "&mdash; good",
+            "friendship",
+        ]),
+        ("Cross-references", [
+            "AN 5.125 &middot; the companion discourse",
+            "AN 5.127 &middot; next: fitness for solitary practice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.126/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.125.html">AN 5.125 &middot; Longevity (1st)</a> &mdash; the '
+        "previous, companion discourse.",
+        '<a href="an-5.127.html">AN 5.127 &middot; Living Apart</a> &mdash; next: fitness '
+        "for solitary practice, apart from the Saṅgha.",
+        '<a href="an-5.123.html">AN 5.123 &middot; A Carer (1st)</a> &mdash; source of the '
+        "opening pair shared by both longevity discourses.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.127 — Vapakāsasutta
+# --------------------------------------------------------------------------- #
+page(
+    127, "Vapakāsa", "Living Apart",
+    vagga=VAGGA_13,
+    meta_title="AN 5.127 — Living Apart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vapakāsasutta — "
+        "contentment with material support and freedom from sensual thoughts as the "
+        "conditions for readiness to live apart from a Saṅgha community. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, on fitness for solitary practice"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; practical, on readiness "
+                       "rather than attainment"),
+    ],
+    why=(
+        "A different question: not what impedes longevity, but what makes a mendicant fit or "
+        "unfit to live apart from a Saṅgha community &mdash; contentment with material "
+        "circumstances, and a mind oriented toward renunciation rather than sensuality."),
+    guide=[
+        ("Fitness for solitude, not attainment", [
+            "This discourse doesn't ask about seniority or realization, but about readiness: "
+            "what makes someone unfit, or fit, to live apart from the support structure of a "
+            "monastic community."]),
+        ("Five signs of unfitness", [
+            "Discontent with whatever robes, almsfood, lodging, and medicine one has &mdash; "
+            "named across four of the five items &mdash; plus having a lot of sensual "
+            "thoughts."]),
+        ("Content, oriented toward renunciation", [
+            "The mirrored positive: content with whatever material support is received, and "
+            "thinking a lot about renunciation (<em>nekkhamma</em>) rather than sensuality."]),
+        ("A recurring theme in this nipāta", [
+            "Contentment with material circumstances, already the distinguishing element at "
+            "AN 5.109 and part of AN 5.104's &lsquo;delicate ascetic&rsquo; portrait, recurs "
+            "here as the specific condition for readiness to live without a community's "
+            "ongoing support."]),
+        ("What comes next", [
+            "AN 5.128 restates this same contentment material, reframed as five kinds of "
+            "suffering or happiness for an ascetic, rather than fitness for solitude."]),
+    ],
+    terms=[
+        ("vapakāsa",
+         "&ldquo;living apart&rdquo;, away from the Saṅgha community &mdash; this discourse's "
+         "subject."),
+        ("asantuṭṭho / santuṭṭho",
+         "discontent / content &mdash; with whatever robes, almsfood, lodging, and medicine "
+         "one has."),
+        ("kāmasaṅkappabahula",
+         "having a lot of sensual thoughts &mdash; the disqualifying mental quality."),
+        ("nekkhammasaṅkappabahula",
+         "thinking a lot about renunciation &mdash; the qualifying mental quality."),
+        ("itarītara",
+         "&ldquo;whatever kind, ordinary or so-so&rdquo; &mdash; qualifying the material "
+         "support one is content with, reused from AN 5.109."),
+    ],
+    text_intro=(
+        "The discourse in full: five signs of unfitness for solitary practice, and their "
+        "opposite. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not fit to live apart"),
+        ("p", "&sect;1", "an5.127:1.1-1.4"),
+        ("h3", "Fit to live apart"),
+        ("p", "&sect;2", "an5.127:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse ask, unlike AN 5.125–126?",
+         "opts": [
+             "What impedes or promotes longevity",
+             "What makes a mendicant fit or unfit to live apart from a Saṅgha community",
+             "What makes a good carer",
+             "What causes rebirth in hell"],
+         "correct": 1,
+         "expl": "Fitness for solitary practice."},
+        {"q": "How many of the five items concern discontent with material support?",
+         "opts": [
+             "None",
+             "Four — robes, almsfood, lodging, medicine",
+             "Two",
+             "All five"],
+         "correct": 1,
+         "expl": "Four separate items, one for each category of support."},
+        {"q": "What is the fifth disqualifying quality?",
+         "opts": [
+             "Having a lot of sensual thoughts",
+             "Excessive learning",
+             "Poor almsround timing",
+             "Physical illness"],
+         "correct": 0,
+         "expl": "Kāmasaṅkappabahula."},
+        {"q": "What is the positive counterpart to sensual thoughts, in the qualifying list?",
+         "opts": [
+             "Thinking a lot about renunciation",
+             "Thinking a lot about wealth",
+             "Thinking a lot about fame",
+             "Thinking a lot about food"],
+         "correct": 0,
+         "expl": "Nekkhammasaṅkappabahula."},
+        {"q": "What earlier discourse in this nipāta shares this discourse's contentment theme?",
+         "opts": [
+             "AN 5.109",
+             "AN 5.71",
+             "AN 5.1",
+             "AN 5.99"],
+         "correct": 0,
+         "expl": "All Four Quarters, where contentment was the distinguishing element."},
+        {"q": "Does this discourse assess a mendicant's attainment or seniority?",
+         "opts": [
+             "Yes, primarily",
+             "No — it assesses readiness through contentment and mental orientation",
+             "Only seniority is assessed",
+             "Only formal attainment is assessed"],
+         "correct": 1,
+         "expl": "A different diagnostic than most of this nipāta's ideal-portrait discourses."},
+        {"q": "What does 'itarītara' mean, reused from AN 5.109?",
+         "opts": [
+             "Whatever kind, ordinary or so-so",
+             "Only the finest quality",
+             "Nothing at all",
+             "Excessive quantity"],
+         "correct": 0,
+         "expl": "Qualifying the material support one is content with."},
+        {"q": "How is the 'fit to live apart' list constructed relative to the 'not fit' list?",
+         "opts": [
+             "An entirely new set of five qualities",
+             "The negation of discontent, plus a positive mental orientation toward renunciation",
+             "Only two of the five negated",
+             "No positive version is given"],
+         "correct": 1,
+         "expl": "A clean, explicit mirror."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Andhakavindavagga",
+             "Gilānavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "The chapter on sickness, care, and readiness."},
+        {"q": "What does AN 5.128 do with this same material?",
+         "opts": [
+             "Discards it entirely",
+             "Restates it, reframed as suffering or happiness for an ascetic",
+             "Applies it only to nuns",
+             "Moves to a colophon"],
+         "correct": 1,
+         "expl": "The same contentment theme, a different framing."},
+    ],
+    marginalia=[
+        ("Fitness, not attainment", [
+            "contentment and",
+            "mental orientation",
+        ]),
+        ("Four items, one theme", [
+            "robes &middot; almsfood",
+            "&middot; lodging &middot;",
+            "medicine — all &lsquo;whatever kind&rsquo;",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">nekkhammasaṅkappabahula</span>",
+            "&mdash; much",
+            "thought of renunciation",
+        ]),
+        ("Cross-references", [
+            "AN 5.109 &middot; contentment as this nipāta's recurring theme",
+            "AN 5.128 &middot; next: the same material, reframed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.127/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.109.html">AN 5.109 &middot; All Four Quarters</a> &mdash; where '
+        "contentment first became this nip&#257;ta's recurring theme.",
+        '<a href="an-5.128.html">AN 5.128 &middot; An Ascetic&rsquo;s Happiness</a> '
+        "&mdash; next: the same material, reframed as suffering and happiness.",
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; another discourse built on this same theme of contentment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 5.128 — Samaṇasukhasutta
+# --------------------------------------------------------------------------- #
+page(
+    128, "Samaṇasukha", "An Ascetic&rsquo;s Happiness",
+    vagga=VAGGA_13,
+    meta_title="AN 5.128 — An Ascetic's Happiness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samaṇasukhasutta — "
+        "AN 5.127's contentment material reframed directly as five kinds of suffering or "
+        "happiness for an ascetic. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, naming suffering and happiness directly"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, restating a "
+                       "familiar theme"),
+    ],
+    why=(
+        "AN 5.127's contentment material restated once more, this time named directly as "
+        "suffering or happiness itself &mdash; discontent with material support paired with "
+        "dissatisfaction in the spiritual life, and their positive counterparts."),
+    guide=[
+        ("The same material, a direct emotional framing", [
+            "Where AN 5.127 asked about fitness for solitude, this discourse names the "
+            "identical pattern &mdash; discontent with material support &mdash; directly as "
+            "one of five kinds of suffering for an ascetic."]),
+        ("Suffering, defined by discontent and dissatisfaction", [
+            "Discontent with whatever robes, almsfood, lodging, and medicine one has, paired "
+            "with leading the spiritual life dissatisfied (<em>anabhirata</em>)."]),
+        ("Happiness, the mirrored positive", [
+            "Contentment with the same four categories of material support, paired with "
+            "leading the spiritual life satisfied (<em>abhirata</em>)."]),
+        ("A third discourse built on contentment", [
+            "This is now the third discourse in a short stretch of this chapter &mdash; AN "
+            "5.104's delicate ascetic, AN 5.127's fitness for solitude, and this discourse's "
+            "suffering and happiness &mdash; all returning to the same underlying theme of "
+            "contentment with material circumstances."]),
+        ("What comes next", [
+            "AN 5.129 shifts entirely, to one of the most serious lists in the whole "
+            "collection: five acts leading irrevocably to hell."]),
+    ],
+    terms=[
+        ("samaṇadukkha",
+         "&ldquo;suffering for an ascetic&rdquo; &mdash; this discourse's title concept."),
+        ("samaṇasukha",
+         "&ldquo;happiness for an ascetic&rdquo; &mdash; the mirrored positive."),
+        ("anabhirata / abhirata",
+         "dissatisfied / satisfied &mdash; describing one's relationship to the spiritual "
+         "life itself."),
+        ("asantuṭṭho / santuṭṭho",
+         "discontent / content &mdash; reused directly from AN 5.127."),
+        ("brahmacariyaṁ carati",
+         "&ldquo;leads the spiritual life&rdquo; &mdash; the practice at stake in both "
+         "versions."),
+    ],
+    text_intro=(
+        "The discourse in full: five kinds of suffering, and five of happiness, for an "
+        "ascetic. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of suffering"),
+        ("p", "&sect;1", "an5.128:1.1-1.4"),
+        ("h3", "Five kinds of happiness"),
+        ("p", "&sect;2", "an5.128:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse restate from AN 5.127?",
+         "opts": [
+             "An entirely unrelated list",
+             "The same contentment material, now named directly as suffering or happiness",
+             "The five ānantarika acts",
+             "The five fatal wounds"],
+         "correct": 1,
+         "expl": "A direct emotional framing of the same underlying pattern."},
+        {"q": "What is discontent with material support paired with, in the suffering list?",
+         "opts": [
+             "Leading the spiritual life dissatisfied",
+             "Physical illness",
+             "Loss of relatives",
+             "Wrong view"],
+         "correct": 0,
+         "expl": "Anabhirata."},
+        {"q": "What does 'abhirata' mean?",
+         "opts": [
+             "Satisfied",
+             "Dissatisfied",
+             "Wealthy",
+             "Ill"],
+         "correct": 0,
+         "expl": "The positive counterpart in the happiness list."},
+        {"q": "How many discourses in this chapter, including this one, are built on the theme of contentment?",
+         "opts": [
+             "Just this one",
+             "Three — AN 5.104, 5.127, and this discourse",
+             "All ten discourses in the chapter",
+             "None; this is unrelated to earlier material"],
+         "correct": 1,
+         "expl": "A recurring thread across a short stretch of this chapter."},
+        {"q": "What four categories of material support are named, reused from AN 5.127?",
+         "opts": [
+             "Robes, almsfood, lodging, medicine",
+             "Wealth, relatives, health, ethics",
+             "Faith, ethics, learning, wisdom",
+             "Sights, sounds, smells, tastes"],
+         "correct": 0,
+         "expl": "Identical to AN 5.127's list."},
+        {"q": "What does 'brahmacariyaṁ carati' mean?",
+         "opts": [
+             "Leads the spiritual life",
+             "Takes ordination",
+             "Gives a Dhamma talk",
+             "Visits a family for alms"],
+         "correct": 0,
+         "expl": "The practice at stake in both versions of the list."},
+        {"q": "How is the 'happiness' list constructed relative to the 'suffering' list?",
+         "opts": [
+             "An entirely different five items",
+             "The simple negation of all five",
+             "Only two of the five negated",
+             "No positive version is given"],
+         "correct": 1,
+         "expl": "A clean mirror image."},
+        {"q": "What chapter does this discourse belong to?",
+         "opts": [
+             "Andhakavindavagga",
+             "Gilānavagga",
+             "Kakudhavagga",
+             "Theravagga"],
+         "correct": 1,
+         "expl": "Continuing the chapter on sickness, care, and contentment."},
+        {"q": "What does AN 5.129 shift to next?",
+         "opts": [
+             "More contentment material",
+             "One of the most serious lists in the whole collection: five acts leading to hell",
+             "A colophon closing the chapter",
+             "A narrative about nuns"],
+         "correct": 1,
+         "expl": "A significant shift in tone and stakes."},
+        {"q": "What is 'samaṇasukha'?",
+         "opts": [
+             "Happiness for an ascetic",
+             "Suffering for an ascetic",
+             "A type of medicine",
+             "A monastic title"],
+         "correct": 0,
+         "expl": "This discourse's title term."},
+    ],
+    marginalia=[
+        ("Same material, direct framing", [
+            "discontent &rarr;",
+            "suffering itself",
+        ]),
+        ("A third discourse on contentment", [
+            "AN 5.104 &middot; 5.127",
+            "&middot; this discourse",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">anabhirata / abhirata</span>",
+            "&mdash; dissatisfied /",
+            "satisfied",
+        ]),
+        ("Cross-references", [
+            "AN 5.127 &middot; the same material's earlier framing",
+            "AN 5.129 &middot; next: a serious shift in tone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.128/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.127.html">AN 5.127 &middot; Living Apart</a> &mdash; the previous '
+        "discourse, this same material's earlier framing.",
+        '<a href="an-5.129.html">AN 5.129 &middot; Fatal Wounds</a> &mdash; next: five '
+        "acts leading irrevocably to hell.",
+        '<a href="an-5.104.html">AN 5.104 &middot; A Delicate Ascetic of Ascetics</a> '
+        "&mdash; where this contentment theme first appeared in this chapter.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.129 — Parikuppasutta
+# --------------------------------------------------------------------------- #
+page(
+    129, "Parikuppa", "Fatal Wounds",
+    vagga=VAGGA_13,
+    meta_title="AN 5.129 — Fatal Wounds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Parikuppasutta — "
+        "the five acts traditionally called ānantarika-kamma, each leading irrevocably to "
+        "hell: killing a parent, killing an arahant, wounding a Buddha, and causing schism. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "a single bare list, using the strongest language found anywhere in this "
+                 "nipāta"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, but among the "
+                       "most serious material in the entire collection"),
+    ],
+    why=(
+        "This discourse lists what tradition widely calls the five &lsquo;acts of immediate "
+        "consequence&rsquo; (ānantarika-kamma) &mdash; though that term itself doesn't appear "
+        "here &mdash; described in language stronger than almost anywhere else in this "
+        "collection: irrevocable, incurable, leading directly to hell."),
+    guide=[
+        ("A traditional category, though not named as such here", [
+            "The five items this discourse lists are exactly what later tradition calls the "
+            "five acts of immediate karmic consequence, among the most serious categories in "
+            "the entire early Buddhist textual tradition &mdash; even though this specific "
+            "technical term doesn't appear in the discourse's own text."]),
+        ("What the five are, stated plainly", [
+            "Killing one's mother, killing one's father, killing an arahant (a fully awakened "
+            "one), maliciously drawing a Buddha's blood, and causing a schism in the "
+            "monastic Saṅgha."]),
+        ("'Fatal wounds', and 'incurable'", [
+            "The discourse's own vivid language: <em>parikuppā</em> (agitating, irrevocably "
+            "disturbing) and <em>atekicchā</em> (incurable, beyond remedy) &mdash; stronger "
+            "language than almost anywhere else in this collection, marking these five as "
+            "categorically different from ordinary unwholesome actions."]),
+        ("Why these five specifically", [
+            "Four concern violence against those owed the deepest debt or reverence "
+            "&mdash; parents, an arahant, a Buddha. The fifth, causing schism, concerns "
+            "damage to the institution that transmits the teaching itself &mdash; together "
+            "spanning personal, spiritual, and institutional betrayal at the most extreme "
+            "level."]),
+        ("Read plainly", [
+            "This reading guide states the list as the text gives it, without further "
+            "speculation about historical cases or theological implications beyond what is "
+            "stated."]),
+        ("What comes next", [
+            "AN 5.130 closes the chapter with a related but broader list: five kinds of "
+            "loss, only two of which actually determine one's postmortem destination."]),
+    ],
+    terms=[
+        ("āpāyikā nerayikā",
+         "&ldquo;leading to a place of loss, to hell&rdquo; &mdash; the verdict on all five "
+         "acts."),
+        ("parikuppā",
+         "&ldquo;agitating, irrevocable&rdquo; &mdash; describing the severity of these five "
+         "acts."),
+        ("atekicchā",
+         "&ldquo;incurable, beyond remedy&rdquo;."),
+        ("saṅghabheda",
+         "schism in the Saṅgha, the fifth item, an institutional rather than personal "
+         "offense."),
+        ("arahaṁ",
+         "an arahant, a fully awakened one &mdash; killing one is the third of the five acts."),
+    ],
+    text_intro=(
+        "The discourse in full: five acts described as fatal wounds, leading irrevocably to "
+        "hell. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five fatal wounds"),
+        ("p", "&sect;1", "an5.129:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What traditional category do the five items in this discourse belong to?",
+         "opts": [
+             "The five acts of immediate karmic consequence (ānantarika-kamma)",
+             "The five hindrances",
+             "The five lower fetters",
+             "The five aggregates"],
+         "correct": 0,
+         "expl": "Among the most serious categories in the early Buddhist tradition."},
+        {"q": "Does this discourse's text itself use the term 'ānantarika-kamma'?",
+         "opts": [
+             "Yes, explicitly",
+             "No — that specific term doesn't appear in this discourse's own text",
+             "Only in the closing verse",
+             "Only in the opening line"],
+         "correct": 1,
+         "expl": "A traditional label applied later, not used in the discourse itself."},
+        {"q": "What are the five acts named?",
+         "opts": [
+             "Killing one's mother, father, or an arahant; wounding a Buddha; causing schism",
+             "Stinginess, jealousy, wrong view, wrong speech, wrong effort",
+             "Deceit, flattery, hinting, belittling, gain-chasing",
+             "Wrong livelihood in five forms"],
+         "correct": 0,
+         "expl": "The five 'fatal wounds' this discourse lists."},
+        {"q": "What does 'parikuppā' mean?",
+         "opts": [
+             "Agitating, irrevocably disturbing",
+             "Mild and easily corrected",
+             "Purely symbolic",
+             "Reversible with practice"],
+         "correct": 0,
+         "expl": "The discourse's own strong descriptive language."},
+        {"q": "What does 'atekicchā' mean?",
+         "opts": [
+             "Incurable, beyond remedy",
+             "Easily forgiven",
+             "Temporary",
+             "Reserved for laypeople only"],
+         "correct": 0,
+         "expl": "Marking these five as categorically different from ordinary misconduct."},
+        {"q": "What is the fifth item, distinct from the other four in kind?",
+         "opts": [
+             "Causing schism in the Saṅgha — an institutional rather than personal offense",
+             "Killing a stranger",
+             "Stealing from a monastery",
+             "Breaking a minor precept"],
+         "correct": 0,
+         "expl": "Damage to the institution transmitting the teaching, not personal violence."},
+        {"q": "What four of the five acts have in common?",
+         "opts": [
+             "They all involve violence against those owed the deepest debt or reverence",
+             "They all involve theft",
+             "They all involve speech",
+             "They are all committed unknowingly"],
+         "correct": 0,
+         "expl": "Parents, an arahant, and a Buddha."},
+        {"q": "What does this reading guide do regarding speculation about historical cases?",
+         "opts": [
+             "Provides extensive speculation",
+             "States the list as the text gives it, without speculating beyond what is stated",
+             "Names specific historical individuals",
+             "Denies the list has any serious meaning"],
+         "correct": 1,
+         "expl": "A deliberately restrained, text-grounded approach."},
+        {"q": "What verdict does the discourse give for all five acts?",
+         "opts": [
+             "A minor, easily corrected fault",
+             "Leading to a place of loss, to hell",
+             "No verdict is given",
+             "Only social disapproval"],
+         "correct": 1,
+         "expl": "Āpāyikā nerayikā — among the strongest verdicts in this collection."},
+        {"q": "What does AN 5.130 turn to next?",
+         "opts": [
+             "A colophon closing the chapter",
+             "Five kinds of loss, only two of which determine postmortem destination",
+             "The lion simile",
+             "A dialogue with Ānanda"],
+         "correct": 1,
+         "expl": "A related but broader closing discourse."},
+    ],
+    marginalia=[
+        ("Five fatal wounds", [
+            "mother &middot; father",
+            "&middot; arahant &middot;",
+            "Buddha &middot; Saṅgha",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">atekicchā</span>",
+            "&mdash; incurable,",
+            "beyond remedy",
+        ]),
+        ("Personal and institutional betrayal", [
+            "four against persons,",
+            "one against",
+            "the Saṅgha itself",
+        ]),
+        ("Cross-references", [
+            "AN 5.130 &middot; next: this chapter's closing discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.129/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-5.128.html">AN 5.128 &middot; An Ascetic&rsquo;s Happiness</a> '
+        "&mdash; the previous discourse.",
+        '<a href="an-5.130.html">AN 5.130 &middot; Loss</a> &mdash; next: this '
+        "chapter&rsquo;s closing discourse, on what actually determines rebirth.",
+        '<a href="an-5.79.html">AN 5.79 &middot; Future Perils (3rd)</a> &mdash; another '
+        "serious discourse in this nip&#257;ta, on institutional decline.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# AN 5.130 — Byasanasutta
+# --------------------------------------------------------------------------- #
+page(
+    130, "Byasana", "Loss",
+    vagga=VAGGA_13,
+    meta_title="AN 5.130 — Loss | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Byasanasutta, "
+        "closing the Gilānavagga — five kinds of loss and endowment, with an explicit claim "
+        "that only ethics and view actually determine rebirth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_CONT),
+        ("Speakers", SPEAKER),
+        ("Form", "two paired five-item lists, with an explicit ranking stated among the "
+                 "items"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "not identified in this collection"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct, with a striking "
+                       "explicit claim"),
+    ],
+    why=(
+        "This chapter's closing discourse names five kinds of loss &mdash; relatives, "
+        "wealth, health, ethics, view &mdash; then states directly that only two of the five, "
+        "loss of ethics and loss of view, actually determine a bad rebirth. The same "
+        "asymmetry is repeated for the mirrored endowments."),
+    guide=[
+        ("Five losses, but an explicit ranking among them", [
+            "Unlike most five-item lists in this nipāta, this discourse doesn't treat all "
+            "five items as equally weighted. It states directly that three of the "
+            "five &mdash; loss of relatives, wealth, and health &mdash; do not determine a "
+            "bad rebirth, while the other two &mdash; loss of ethics and loss of view "
+            "&mdash; do."]),
+        ("The same asymmetry in the positive list", [
+            "The mirrored endowments list makes the identical claim: having relatives, "
+            "wealth, and health doesn't secure a good rebirth; only ethical conduct and "
+            "right view do."]),
+        ("What this reframes", [
+            "Ordinary worldly losses and gains, even ones as significant as family, wealth, "
+            "and health, are explicitly set aside as irrelevant to the deepest question this "
+            "collection addresses &mdash; postmortem destination. Only the two items "
+            "concerning one's own conduct and understanding carry that weight."]),
+        ("A closing echo of the whole chapter's concerns", [
+            "Loss of health (<em>rogabyasana</em>) directly recalls this whole chapter's "
+            "sustained attention to sickness, care, and the body, closing on the note that "
+            "health itself, however serious a loss, is not what ultimately determines a "
+            "person's future."]),
+        ("The chapter's close", [
+            "The colophon &lsquo;Dasamaṁ. Gilānavaggo tatiyo&rsquo; &mdash; the tenth "
+            "discourse, the third Gilānavagga by the traditional count &mdash; follows the "
+            "mechanism explained in full at AN 5.10."]),
+        ("The uddāna's opening lines", [
+            "The mnemonic verse names this chapter's discourses by key terms: <em>gilāna</em> "
+            "(sick), <em>satisūpaṭṭhi</em> (mindfulness well established), the two carer "
+            "discourses, the two longevity discourses, <em>vapakāsa</em> (living apart), and "
+            "<em>samaṇasukha</em> (an ascetic's happiness), trailing into the verse's "
+            "remaining, untranslated lines."]),
+    ],
+    terms=[
+        ("byasana",
+         "loss &mdash; this discourse's central concept."),
+        ("rogabyasana",
+         "loss of health &mdash; echoing this chapter's sustained attention to sickness."),
+        ("sīlabyasana / diṭṭhibyasana",
+         "loss of ethics / loss of view &mdash; the two losses this discourse says actually "
+         "determine rebirth."),
+        ("sampadā",
+         "endowment &mdash; the mirrored positive term, reused from AN 5.91, 5.92, and "
+         "5.107."),
+        ("Gilānavaggo tatiyo",
+         "&ldquo;the third Gilānavagga&rdquo; &mdash; this chapter's closing colophon."),
+    ],
+    text_intro=(
+        "The discourse in full: five losses and five endowments, with an explicit claim "
+        "about which two actually determine rebirth. The chapter's closing colophon and Pāli "
+        "mnemonic verse are part of the source but are not translated text, and are described "
+        "rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five losses"),
+        ("p", "&sect;1", "an5.130:1.1-1.6"),
+        ("h3", "Five endowments"),
+        ("p", "&sect;2", "an5.130:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What five losses does this discourse name?",
+         "opts": [
+             "Relatives, wealth, health, ethics, view",
+             "Faith, ethics, learning, generosity, wisdom",
+             "Sights, sounds, smells, tastes, touches",
+             "Robes, almsfood, lodging, medicine, praise"],
+         "correct": 0,
+         "expl": "Ñāti, bhoga, roga, sīla, diṭṭhi-byasana."},
+        {"q": "Which three of the five losses does this discourse say do NOT determine a bad rebirth?",
+         "opts": [
+             "Ethics, view, and health",
+             "Relatives, wealth, and health",
+             "Relatives, ethics, and view",
+             "Wealth, ethics, and view"],
+         "correct": 1,
+         "expl": "Explicitly set aside as not determining postmortem destination."},
+        {"q": "Which two losses does this discourse say DO determine a bad rebirth?",
+         "opts": [
+             "Relatives and wealth",
+             "Health and wealth",
+             "Ethics and view",
+             "Relatives and health"],
+         "correct": 2,
+         "expl": "Sīlabyasana and diṭṭhibyasana."},
+        {"q": "What is stated about the mirrored endowments list?",
+         "opts": [
+             "The identical asymmetry — only ethics and view actually secure a good rebirth",
+             "All five endowments matter equally",
+             "Only wealth matters",
+             "No claim is made about the endowments list"],
+         "correct": 0,
+         "expl": "The same explicit ranking repeated for the positive list."},
+        {"q": "What does this discourse's framing set aside as irrelevant to postmortem destination?",
+         "opts": [
+             "Ordinary worldly losses and gains, even significant ones like family and wealth",
+             "Ethical conduct entirely",
+             "Right view entirely",
+             "Nothing is set aside"],
+         "correct": 0,
+         "expl": "Only conduct and understanding are said to carry that weight."},
+        {"q": "What does 'rogabyasana' mean, and what does it echo?",
+         "opts": [
+             "Loss of wealth; echoes nothing in particular",
+             "Loss of health; echoes this whole chapter's attention to sickness and care",
+             "Loss of relatives; echoes AN 5.114's instructions to newcomers",
+             "Loss of view; echoes AN 5.118's material"],
+         "correct": 1,
+         "expl": "A fitting closing note for the chapter on sickness."},
+        {"q": "What colophon closes this chapter?",
+         "opts": [
+             "No colophon is present",
+             "Dasamaṁ. Gilānavaggo tatiyo.",
+             "A colophon naming a different chapter",
+             "The colophon from AN 5.120, repeated verbatim"],
+         "correct": 1,
+         "expl": "The tenth discourse, the third Gilānavagga."},
+        {"q": "What earlier discourse in this nipāta first explained this project's convention for chapter-closing colophons?",
+         "opts": [
+             "AN 5.1",
+             "AN 5.10",
+             "AN 5.71",
+             "AN 5.90"],
+         "correct": 1,
+         "expl": "Cited here rather than re-explained."},
+        {"q": "What term describes 'endowment', reused from earlier in this nipāta?",
+         "opts": [
+             "Sampadā",
+             "Byasana",
+             "Vaḍḍhi",
+             "Bala"],
+         "correct": 0,
+         "expl": "Reused from AN 5.91, 5.92, and 5.107."},
+        {"q": "What chapter comes next in the Fives, after this one closes?",
+         "opts": [
+             "The nipāta ends here",
+             "Chapter 14, Rājavagga, AN 5.131–140",
+             "A return to Andhakavindavagga",
+             "The Sixes begin immediately"],
+         "correct": 1,
+         "expl": "The next chapter in sequence."},
+    ],
+    marginalia=[
+        ("Five losses, an explicit ranking", [
+            "relatives &middot; wealth",
+            "&middot; health — set aside;",
+            "ethics &amp; view — decisive",
+        ]),
+        ("A closing echo", [
+            "rogabyasana —",
+            "health, this chapter's",
+            "sustained concern",
+        ]),
+        ("Term", [
+            "<span class=\"pali\">byasana</span>",
+            "&mdash; loss",
+        ]),
+        ("Cross-references", [
+            "AN 5.91&ndash;92, 5.107 &middot; sampadā, reused here",
+            "AN 5.10 &middot; the colophon convention, explained",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an5.130/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment, including the "
+        "untranslated closing verse." % SC,
+        '<a href="an-5.129.html">AN 5.129 &middot; Fatal Wounds</a> &mdash; the previous '
+        "discourse.",
+        '<a href="an-5.10.html">AN 5.10 &middot; Disrespect (2nd)</a> &mdash; where this '
+        "same chapter-closing colophon structure was first explained in full.",
+        '<a href="an-5.121.html">AN 5.121 &middot; Sick</a> &mdash; back to this '
+        "chapter&rsquo;s opening, closing the loop.",
+    ],
+)
