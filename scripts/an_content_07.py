@@ -18139,3 +18139,1052 @@ PAGES.append({
         "&mdash; previous, this block's single-object, single-characteristic seed.",
     ],
 })
+
+
+# --------------------------------------------------------------------------- #
+# ch.11 Rāgapeyyāla (AN 7.615-1124) begins here -- AN 7's final chapter and
+# the closing block of the entire Sattaka Nipāta. Structure verified against
+# bilara-data: AN 7.615/616/617 each give one seven-item list in full,
+# applied to "abhiññā" (direct knowledge) of greed alone; AN 7.618-644 (27
+# discourses, merged) runs the same three lists against the nine remaining
+# verbs for greed; AN 7.645-1124 (480 discourses, merged) runs all ten verbs
+# (abhiññā embedded via peyyāla in its own segment 1.16, not omitted) against
+# the same three lists and the identical sixteen-defilement roster already
+# closing AN 3, AN 4, and AN 6 -- a fourth appearance of that exact list.
+# 3 + 27 + 480 = 510 discourses, matching the AN 6 ch.13 precedent's scale.
+# --------------------------------------------------------------------------- #
+VAGGA_11 = "<em>Rāgapeyyāla</em> &mdash; the eleventh and final chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.615 — (untitled root; Sujato: Untitled Discourse on Greed, 1st)
+# --------------------------------------------------------------------------- #
+page(
+    615, "Bojjhaṅga", "Untitled Discourse on Greed (1st)",
+    vagga=VAGGA_11,
+    meta_title="AN 7.615 — Untitled Discourse on Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN "
+        "7.615, opening AN 7's final chapter with the seven awakening "
+        "factors as what should be developed for direct knowledge of "
+        "greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, the first of three "
+                 "discourses opening AN 7's final chapter, each giving "
+                 "one seven-item list in full"),
+        ("Length", "under 1 minute to read"),
+        ("A familiar list, redirected toward greed", "The seven awakening "
+                                                      "factors are the "
+                                                      "same list already "
+                                                      "met as one "
+                                                      "component of the "
+                                                      "thirty-seven "
+                                                      "qualities "
+                                                      "contributing to "
+                                                      "awakening at AN "
+                                                      "7.71, here aimed "
+                                                      "specifically at "
+                                                      "direct knowledge of "
+                                                      "greed"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening a chapter that will multiply this "
+                       "discourse's own list at enormous scale"),
+    ],
+    why=(
+        "AN 7.615 opens this book's final chapter by naming the seven "
+        "awakening factors as what should be developed for direct "
+        "knowledge of greed &mdash; the first of three discourses that "
+        "will each supply one complete seven-item list before this "
+        "chapter's remaining 507 discourses multiply all three against "
+        "greed's fellow defilements and nine further verbs."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, seven things should be "
+            "developed: the awakening factors of mindfulness, "
+            "investigation of principles, energy, rapture, tranquility, "
+            "immersion, and equanimity."]),
+        ("A familiar list, aimed at a specific purpose", [
+            "The seven awakening factors are not new to this book: they "
+            "are one of the seven categories making up the full thirty-"
+            "seven qualities contributing to awakening, already named as "
+            "a set at AN 7.71. Here they are isolated and aimed at one "
+            "specific purpose &mdash; direct knowledge (abhiññā) of "
+            "greed &mdash; rather than presented as part of the larger "
+            "thirty-seven."]),
+        ("The first of three list-giving discourses", [
+            "This discourse, along with AN 7.616 and AN 7.617 "
+            "immediately following, each supply one complete seven-item "
+            "list in full. Together these three lists become the "
+            "foundation this chapter's remaining discourses will "
+            "multiply at massive scale: nine further verbs beyond "
+            "&ldquo;direct knowledge&rdquo; at AN 7.618&ndash;644, and "
+            "then all ten verbs against sixteen further defilements "
+            "beyond greed at AN 7.645&ndash;1124."]),
+        ("Why direct knowledge of greed opens this closing chapter", [
+            "This chapter's title, Rāgapeyyāla, means &ldquo;abbreviated "
+            "texts beginning with greed&rdquo; &mdash; greed is both the "
+            "first defilement addressed and the template every "
+            "subsequent defilement in this chapter follows, making this "
+            "discourse's specific pairing of the awakening factors with "
+            "greed the chapter's own starting point."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya",
+         "&ldquo;for direct knowledge of greed&rdquo; &mdash; the "
+         "purpose this discourse's seven awakening factors are aimed at, "
+         "and the first of ten verbs this chapter will eventually run "
+         "through."),
+        ("satisambojjhaṅgo",
+         "&ldquo;the awakening factor of mindfulness&rdquo; &mdash; the "
+         "first of the seven awakening factors, elided in the middle of "
+         "this discourse's own source text but standard across the "
+         "canon's many other full statements of this list."),
+        ("dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, "
+         "pītisambojjhaṅgo",
+         "&ldquo;the awakening factors of investigation of principles, "
+         "energy, and rapture&rdquo; &mdash; three further factors in "
+         "the standard seven, elided in this discourse's own text."),
+        ("passaddhisambojjhaṅgo, samādhisambojjhaṅgo, "
+         "upekkhāsambojjhaṅgo",
+         "&ldquo;the awakening factors of tranquility, immersion, and "
+         "equanimity&rdquo; &mdash; the remaining three, with equanimity "
+         "explicitly named at this discourse's close."),
+        ("Rāgapeyyāla",
+         "&ldquo;abbreviated texts beginning with greed&rdquo; &mdash; "
+         "this chapter's own title, naming both its starting defilement "
+         "and its governing compression technique."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The seven awakening factors, for direct knowledge of "
+               "greed"),
+        ("p", "&sect;1", "an7.615:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say should be developed for "
+              "direct knowledge of greed?",
+         "opts": [
+             "The four noble truths",
+             "The seven awakening factors: mindfulness, investigation of "
+             "principles, energy, rapture, tranquility, immersion, and "
+             "equanimity",
+             "The five lower fetters",
+             "The seven planes of consciousness"],
+         "correct": 1,
+         "expl": "One category from the full thirty-seven qualities "
+                 "contributing to awakening, aimed here at a specific "
+                 "purpose."},
+        {"q": "According to the guide, where has this same seven-item "
+              "list already appeared in this book?",
+         "opts": [
+             "Nowhere else",
+             "As one of the seven categories making up the full thirty-"
+             "seven qualities contributing to awakening, named at AN "
+             "7.71",
+             "At AN 7.25 only",
+             "At AN 7.55 only"],
+         "correct": 1,
+         "expl": "Isolated here for a specific purpose rather than named "
+                 "as part of the larger thirty-seven."},
+        {"q": "What role does this discourse play within its own "
+              "chapter, according to the guide?",
+         "opts": [
+             "It stands alone with no connection to what follows",
+             "The first of three list-giving discourses whose content "
+             "becomes the foundation for massive multiplication across "
+             "the chapter's remaining discourses",
+             "It closes the chapter",
+             "It contradicts the two discourses that follow it"],
+         "correct": 1,
+         "expl": "A foundational list, reused across hundreds of further "
+                 "discourses in compressed form."},
+        {"q": "What does this chapter's title, Rāgapeyyāla, mean?",
+         "opts": [
+             "\"The chapter on mindfulness\"",
+             "\"Abbreviated texts beginning with greed\"",
+             "\"The final teaching of the Buddha\"",
+             "\"Seven awakening factors\""],
+         "correct": 1,
+         "expl": "Naming both the starting defilement and the "
+                 "compression technique this chapter relies on "
+                 "throughout."},
+        {"q": "How many more discourses does this chapter contain after "
+              "this one, according to the guide?",
+         "opts": ["None", "Two", "Nine more, then hundreds more compressed "
+                  "into merged pages", "A thousand more"],
+         "correct": 2,
+         "expl": "AN 7.616-617 complete the three foundational lists, "
+                 "then AN 7.618-1124 multiply them at massive scale."},
+        {"q": "What is the seventh and final awakening factor named "
+              "explicitly at this discourse's close?",
+         "opts": ["Mindfulness", "Equanimity", "Energy", "Rapture"],
+         "correct": 1,
+         "expl": "Upekkhāsambojjhaṅgo, closing the standard seven-item "
+                 "list."},
+    ],
+    marginalia=[
+        ("A familiar list, redirected", [
+            "the seven awakening factors,",
+            "already met within",
+            "the full thirty-seven at AN 7.71",
+        ]),
+        ("The first of three foundations", [
+            "this list, then two more,",
+            "become the seed",
+            "for hundreds of compressed discourses",
+        ]),
+        ("Greed, the chapter's own name", [
+            "Rāgapeyyāla —",
+            "abbreviated texts",
+            "beginning with, and named for, greed",
+        ]),
+        ("Cross-references", [
+            "AN 7.96&ndash;614 &middot; earlier, closing the previous "
+            "chapter",
+            "AN 7.71 &middot; earlier, the full thirty-seven qualities "
+            "this list is drawn from",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.615/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.96-614.html">AN 7.96&ndash;614 &middot; Observing '
+        "Suffering in the Eye, and So On</a> &mdash; previous, closing "
+        "the previous chapter.",
+        '<a href="an-7.71.html">AN 7.71 &middot; Committed to '
+        "Development</a> &mdash; earlier, the full thirty-seven "
+        "qualities this list is drawn from.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.616 — (untitled root; Sujato: Untitled Discourse on Greed, 2nd)
+# --------------------------------------------------------------------------- #
+page(
+    616, "Saññā", "Untitled Discourse on Greed (2nd)",
+    vagga=VAGGA_11,
+    meta_title="AN 7.616 — Untitled Discourse on Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN "
+        "7.616, giving a second seven-item list — perceptions of "
+        "impermanence through cessation — for direct knowledge of greed, "
+        "distinct from any perception list met earlier in this book. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, the second of three "
+                 "discourses opening this chapter, each giving one "
+                 "seven-item list in full"),
+        ("Length", "under 1 minute to read"),
+        ("A genuinely new perception list", "Unlike AN 7.617 immediately "
+                                            "following, this discourse's "
+                                            "seven perceptions are not a "
+                                            "repeat of any list already "
+                                            "met in this book &mdash; a "
+                                            "distinct progression from "
+                                            "impermanence through "
+                                            "cessation"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, worth comparing carefully with AN 7.617's "
+                       "different seven perceptions immediately after"),
+    ],
+    why=(
+        "AN 7.616 gives the second of this chapter's three foundational "
+        "lists: seven perceptions &mdash; impermanence, not-self, "
+        "ugliness, drawbacks, giving up, fading away, and cessation "
+        "&mdash; for direct knowledge of greed, a genuinely distinct "
+        "progression from the perception list AN 7.617 will give "
+        "immediately after."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, seven perceptions should be "
+            "developed: the perception of impermanence, of not-self, of "
+            "ugliness, of drawbacks, of giving up, of fading away, and of "
+            "cessation."]),
+        ("A progression, not a random list", [
+            "Read in order, these seven perceptions trace a movement: "
+            "from impermanence and not-self (seeing what things actually "
+            "are), through ugliness and drawbacks (seeing what is wrong "
+            "with clinging to them), to giving up, fading away, and "
+            "cessation (the progressive release that follows from seeing "
+            "clearly) &mdash; a sequence moving from diagnosis toward "
+            "resolution rather than seven unrelated observations."]),
+        ("Not the same list as AN 7.617", [
+            "This discourse's seven perceptions should not be confused "
+            "with AN 7.617's own seven perceptions immediately "
+            "following, nor with AN 7.48 and 7.49's earlier seven "
+            "perceptions in this book. Despite the shared category "
+            "&mdash; a list of seven saññā &mdash; the actual items here "
+            "are genuinely distinct, checked term by term against both "
+            "of the others."]),
+        ("The second of three foundations for this chapter's expansion", [
+            "Together with AN 7.615's awakening factors and AN 7.617's "
+            "perceptions, this discourse's own list becomes one of the "
+            "three seven-item sets this chapter's remaining discourses "
+            "will multiply against nine further verbs and sixteen "
+            "further defilements."]),
+    ],
+    terms=[
+        ("aniccasaññā, anattasaññā",
+         "&ldquo;the perception of impermanence, of not-self&rdquo; "
+         "&mdash; the first two items, oriented toward seeing what "
+         "things actually are."),
+        ("asubhasaññā, ādīnavasaññā",
+         "&ldquo;the perception of ugliness, of drawbacks&rdquo; "
+         "&mdash; the third and fourth items, oriented toward the "
+         "problems with clinging."),
+        ("pahānasaññā, virāgasaññā, nirodhasaññā",
+         "&ldquo;the perception of giving up, of fading away, of "
+         "cessation&rdquo; &mdash; the closing three items, tracing the "
+         "progressive release that follows from clear seeing."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for direct knowledge of greed&rdquo; &mdash; the same "
+         "purpose this list is aimed at, shared with AN 7.615 and AN "
+         "7.617."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's implicit "
+         "place among the three list-giving discourses opening this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven perceptions, for direct knowledge of greed"),
+        ("p", "&sect;1", "an7.616:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven perceptions does this discourse name?",
+         "opts": [
+             "Ugliness, death, food's repulsiveness, the world's "
+             "dissatisfying nature, impermanence, suffering, not-self",
+             "Impermanence, not-self, ugliness, drawbacks, giving up, "
+             "fading away, and cessation",
+             "The seven awakening factors",
+             "The seven planes of consciousness"],
+         "correct": 1,
+         "expl": "A distinct progression, not a repeat of AN 7.617's "
+                 "list."},
+        {"q": "According to the guide, what movement do these seven "
+              "perceptions trace when read in order?",
+         "opts": [
+             "No particular order or movement",
+             "From diagnosis (seeing what things are, and what's wrong "
+             "with clinging) toward resolution (giving up, fading away, "
+             "cessation)",
+             "From resolution back toward diagnosis",
+             "A purely random sequence"],
+         "correct": 1,
+         "expl": "A deliberate progression rather than seven unrelated "
+                 "items."},
+        {"q": "According to the guide, should this list be confused with "
+              "AN 7.617's perceptions?",
+         "opts": [
+             "Yes, they are identical",
+             "No — despite both being seven-item perception lists, the "
+             "actual items are genuinely distinct",
+             "AN 7.617 has no perception list at all",
+             "This discourse has no perceptions at all"],
+         "correct": 1,
+         "expl": "Two different lists sharing only the category "
+                 "\"seven perceptions,\" not the specific content."},
+        {"q": "What purpose is this list aimed at?",
+         "opts": [
+             "Direct knowledge of greed",
+             "Direct knowledge of hate",
+             "Rebirth in a heavenly realm",
+             "Wealth and long life"],
+         "correct": 0,
+         "expl": "The same purpose shared by AN 7.615 and AN 7.617."},
+        {"q": "What role does this discourse play in this chapter's "
+              "overall structure?",
+         "opts": [
+             "It stands entirely alone",
+             "The second of three foundational lists that this chapter's "
+             "remaining discourses will multiply against nine further "
+             "verbs and sixteen further defilements",
+             "It closes the chapter",
+             "It has no connection to the discourses around it"],
+         "correct": 1,
+         "expl": "One of three seven-item sets underlying this chapter's "
+                 "massive later expansion."},
+        {"q": "Which item in this list directly addresses seeing what is "
+              "wrong with clinging, rather than what things actually "
+              "are?",
+         "opts": [
+             "Impermanence", "Drawbacks (ādīnavasaññā)", "Cessation",
+             "Fading away"],
+         "correct": 1,
+         "expl": "The fourth item, following ugliness in this "
+                 "progression's diagnostic first half."},
+    ],
+    marginalia=[
+        ("Seven perceptions, in order", [
+            "impermanence, not-self,",
+            "ugliness, drawbacks,",
+            "giving up, fading away, cessation",
+        ]),
+        ("A movement, not a list", [
+            "diagnosis first,",
+            "then progressive release —",
+            "seeing clearly, then letting go",
+        ]),
+        ("Not AN 7.617's list", [
+            "same category, seven saññā,",
+            "but genuinely different",
+            "items, checked term by term",
+        ]),
+        ("Cross-references", [
+            "AN 7.615 &middot; previous, the seven awakening factors",
+            "AN 7.617 &middot; next, a different seven-item perception "
+            "list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.616/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.615.html">AN 7.615 &middot; Untitled Discourse on '
+        "Greed (1st)</a> &mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.617 — (untitled root; Sujato: Untitled Discourse on Greed, 3rd)
+#
+# This list's Pali is character-for-character identical to AN 7.48/49's
+# seven perceptions (asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā,
+# sabbaloke anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe
+# anattasaññā) -- a direct reuse, not a fresh list like AN 7.616's.
+# --------------------------------------------------------------------------- #
+page(
+    617, "Saññā", "Untitled Discourse on Greed (3rd)",
+    vagga=VAGGA_11,
+    meta_title="AN 7.617 — Untitled Discourse on Greed (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for AN "
+        "7.617, closing this chapter's three foundational lists by "
+        "reusing AN 7.48 and 7.49's exact seven perceptions for direct "
+        "knowledge of greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, the third and last of "
+                 "three discourses opening this chapter, each giving one "
+                 "seven-item list in full"),
+        ("Length", "under 1 minute to read"),
+        ("A direct reuse, not a fresh list", "Unlike AN 7.616's genuinely "
+                                             "new perceptions, this "
+                                             "discourse's seven "
+                                             "perceptions are word for "
+                                             "word identical, in the "
+                                             "Pali, to the list already "
+                                             "given in full at AN 7.48 "
+                                             "and AN 7.49 earlier in this "
+                                             "book"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, most interesting for what it reuses "
+                       "rather than for new content"),
+    ],
+    why=(
+        "AN 7.617 closes this chapter's set of three foundational lists "
+        "by reusing, word for word, the exact seven perceptions already "
+        "given in full at AN 7.48 and elaborated at AN 7.49 &mdash; "
+        "ugliness, death, the repulsiveness of food, dissatisfaction "
+        "with the whole world, impermanence, suffering in impermanence, "
+        "and not-self in suffering &mdash; now redirected toward direct "
+        "knowledge of greed specifically."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For direct knowledge of greed, seven perceptions should be "
+            "developed: of ugliness, of death, of the repulsiveness of "
+            "food, of dissatisfaction with the whole world, of "
+            "impermanence, of suffering in impermanence, and of not-self "
+            "in suffering."]),
+        ("The identical list as AN 7.48 and AN 7.49", [
+            "Checked term by term against the Pali, this discourse's "
+            "seven perceptions are not merely similar to AN 7.48's bare "
+            "list and AN 7.49's elaborated version &mdash; they are the "
+            "exact same seven items, in the exact same order, reused "
+            "wholesale rather than freshly composed for this chapter."]),
+        ("A shift in framing, not in content", [
+            "What changes here is not the list itself but its stated "
+            "purpose: AN 7.48 and 7.49 presented these seven perceptions "
+            "as generally fruitful and beneficial, with freedom from "
+            "death as their objective; this discourse redirects the "
+            "identical list specifically toward direct knowledge of "
+            "greed, folding an earlier general teaching into this "
+            "chapter's narrower, greed-focused frame."]),
+        ("Three lists, now complete", [
+            "With this discourse, all three of this chapter's "
+            "foundational seven-item lists are now given in full: AN "
+            "7.615's awakening factors, AN 7.616's genuinely new "
+            "perception progression, and this discourse's reused "
+            "perception list. What follows &mdash; AN 7.618&ndash;644 "
+            "and then AN 7.645&ndash;1124 &mdash; multiplies all three "
+            "of these complete lists against further verbs and further "
+            "defilements without restating any of them again."]),
+    ],
+    terms=[
+        ("asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke "
+         "anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe "
+         "anattasaññā",
+         "&ldquo;the perception of ugliness, death, the repulsiveness of "
+         "food, dissatisfaction with the whole world, impermanence, "
+         "suffering in impermanence, not-self in suffering&rdquo; "
+         "&mdash; word for word identical to the list already given in "
+         "full at AN 7.48."),
+        ("rāgassa abhiññāya",
+         "&ldquo;for direct knowledge of greed&rdquo; &mdash; the new "
+         "framing this discourse applies to an otherwise unchanged list, "
+         "shared with AN 7.615 and AN 7.616."),
+        ("amatogadhā amatapariyosānā",
+         "&ldquo;having freedom from death as their objective and "
+         "culmination&rdquo; &mdash; the framing AN 7.48 and 7.49 "
+         "originally gave this same list, not restated in this "
+         "discourse's own narrower text."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's implicit "
+         "place, closing the set of three list-giving discourses opening "
+         "this chapter."),
+        ("Rāgapeyyāla",
+         "&ldquo;abbreviated texts beginning with greed&rdquo; &mdash; "
+         "this chapter's own title; with this discourse, all three lists "
+         "the remaining abbreviation will draw on are now complete."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven perceptions, for direct knowledge of greed"),
+        ("p", "&sect;1", "an7.617:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven perceptions does this discourse name?",
+         "opts": [
+             "Impermanence, not-self, ugliness, drawbacks, giving up, "
+             "fading away, cessation",
+             "Ugliness, death, the repulsiveness of food, dissatisfaction "
+             "with the whole world, impermanence, suffering in "
+             "impermanence, and not-self in suffering",
+             "The seven awakening factors",
+             "The five lower fetters and two more"],
+         "correct": 1,
+         "expl": "The exact same list already given in full at AN 7.48."},
+        {"q": "According to the guide, how does this list compare to AN "
+              "7.48 and 7.49's seven perceptions?",
+         "opts": [
+             "Merely similar in theme, but different in specific content",
+             "Word for word identical in the Pali, in the exact same "
+             "order, reused wholesale rather than freshly composed",
+             "Completely unrelated",
+             "A shortened version with only four items"],
+         "correct": 1,
+         "expl": "A direct reuse, checked term by term against the "
+                 "original."},
+        {"q": "What actually changes between AN 7.48/49's version of this "
+              "list and this discourse's version, according to the "
+              "guide?",
+         "opts": [
+             "The specific items in the list itself",
+             "The stated purpose — from general fruitfulness with freedom "
+             "from death as the goal, to specifically direct knowledge of "
+             "greed",
+             "Nothing changes at all, including the framing",
+             "The number of items in the list"],
+         "correct": 1,
+         "expl": "A shift in framing and purpose, not in the underlying "
+                 "content."},
+        {"q": "What does this discourse complete, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "The set of three foundational seven-item lists (AN "
+             "7.615-617) that the rest of this chapter will multiply "
+             "without restating",
+             "The entire chapter",
+             "The entire book of the Sevens"],
+         "correct": 1,
+         "expl": "The last of three lists underlying this chapter's "
+                 "massive later compression."},
+        {"q": "How many of this chapter's foundational lists are unique "
+              "to this chapter, versus reused from earlier in the book?",
+         "opts": [
+             "All three are unique to this chapter",
+             "Two are unique to this chapter (the awakening factors and "
+             "AN 7.616's perceptions), one is reused from AN 7.48/49",
+             "All three are reused from elsewhere",
+             "None of the three lists appear anywhere else"],
+         "correct": 1,
+         "expl": "A mix — two lists new to this chapter's specific "
+                 "framing, one a direct reuse of earlier material."},
+        {"q": "What happens after this discourse, according to the "
+              "guide?",
+         "opts": [
+             "The chapter and book end immediately",
+             "AN 7.618-644 and then AN 7.645-1124 multiply all three "
+             "complete lists against further verbs and defilements",
+             "The three lists are discarded and never used again",
+             "A fourth list is introduced"],
+         "correct": 1,
+         "expl": "The foundation for this chapter's enormous remaining "
+                 "expansion."},
+    ],
+    marginalia=[
+        ("The same list, reused", [
+            "word for word identical",
+            "to AN 7.48's own",
+            "seven perceptions, checked in Pali",
+        ]),
+        ("A new frame, old content", [
+            "not freedom from death now,",
+            "but direct knowledge",
+            "of greed specifically",
+        ]),
+        ("Three lists, complete", [
+            "awakening factors, one new list,",
+            "one reused list —",
+            "the foundation now fully laid",
+        ]),
+        ("Cross-references", [
+            "AN 7.616 &middot; previous, a genuinely new perception list",
+            "AN 7.48 &middot; much earlier, this list's original "
+            "appearance and framing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.617/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.616.html">AN 7.616 &middot; Untitled Discourse on '
+        "Greed (2nd)</a> &mdash; previous.",
+        '<a href="an-7.48.html">AN 7.48 &middot; Perceptions in Brief</a> '
+        "&mdash; much earlier, this list's original appearance and "
+        "framing.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.618-644
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-7.618-644",
+    "index_pali": "Rāgapariññādi",
+    "nav_title": "Untitled Discourses on Greed",
+    "source": "an7/an7.618-644",
+    "crumb": "AN 7.618&ndash;644",
+    "meta_title": "AN 7.618–644 — Untitled Discourses on Greed | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for AN 7.618–644, running "
+        "the three foundational lists against greed through nine further verbs beyond "
+        "direct knowledge, twenty-seven discourses compressed into one sentence. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 7.618&ndash;644",
+    "title": "Untitled Discourses on Greed",
+    "subtitle": "<em>Rāgapeyyāla</em>, continued &mdash; the eleventh chapter of the Sevens",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, cross-multiplying the three seven-item lists already given "
+                 "in full against nine further verbs, representing twenty-seven individually "
+                 "numbered discourses"),
+        ("Length", "~1 minute to read"),
+        ("Nine verbs, not ten", "Direct knowledge (abhiññā), the verb AN 7.615&ndash;617 "
+                                "already applied to all three lists, is not repeated here; "
+                                "this block covers only the nine verbs beyond it"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; compressed, but small "
+                       "in scale compared to what follows it"),
+    ],
+    "why": (
+        "AN 7.618&ndash;644 takes the three seven-item lists already given in full at AN "
+        "7.615&ndash;617 &mdash; the awakening factors, and two lists of seven perceptions "
+        "&mdash; and runs each of them against nine further verbs for greed specifically, "
+        "compressing twenty-seven discourses into a single sentence."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "For the complete understanding of greed, its complete ending, giving it up, "
+            "its ending, its vanishing, its fading away, its cessation, its giving away, "
+            "and its letting go &mdash; nine further verbs beyond the direct knowledge "
+            "already covered at AN 7.615&ndash;617 &mdash; the same three seven-item lists "
+            "should be developed."]),
+        ("Nine verbs, completing the ten for greed alone", [
+            "AN 7.615&ndash;617 each paired one seven-item list with abhiññā, direct "
+            "knowledge, giving three discourses. This block supplies the remaining nine "
+            "verbs &mdash; pariññā (complete understanding), parikkhaya (complete ending), "
+            "pahāna (giving up), khaya (ending), vaya (vanishing), virāga (fading away), "
+            "nirodha (cessation), cāga (giving away), and paṭinissagga (letting go) "
+            "&mdash; each crossed against the same three lists, for nine times three "
+            "equals twenty-seven further discourses, all addressed to greed."]),
+        ("No new content, only new combinations", [
+            "Nothing in this block is conceptually new: every item in every one of the "
+            "three lists was already given in full at AN 7.615&ndash;617, and every verb "
+            "here follows the standard progression this book has met before in other "
+            "closing blocks. What this block adds is purely the systematic combination of "
+            "already-known parts."]),
+        ("Setting the template for the chapter's final expansion", [
+            "This block completes greed's own portion of the Rāgapeyyāla &mdash; three "
+            "discourses of direct knowledge (AN 7.615&ndash;617) plus these twenty-seven "
+            "(nine verbs times three lists) for a total of thirty discourses addressed to "
+            "greed alone. The chapter's final and largest block, AN 7.645&ndash;1124, "
+            "applies this identical template &mdash; now all ten verbs together &mdash; to "
+            "sixteen further defilements beyond greed."]),
+    ],
+    "terms": [
+        ("pariññā, parikkhaya, pahāna",
+         "&ldquo;complete understanding, complete ending, giving up&rdquo; &mdash; the "
+         "first three of nine verbs this block adds beyond direct knowledge."),
+        ("khaya, vaya, virāga",
+         "&ldquo;ending, vanishing, fading away&rdquo; &mdash; the fourth through sixth "
+         "verbs."),
+        ("nirodha, cāga, paṭinissagga",
+         "&ldquo;cessation, giving away, letting go&rdquo; &mdash; the seventh through "
+         "ninth verbs, completing the set of nine."),
+        ("rāgassa",
+         "&ldquo;of greed&rdquo; &mdash; the single defilement every verb and every list "
+         "in this block is addressed to; the chapter's remaining block will apply the same "
+         "structure to sixteen further defilements."),
+        ("bojjhaṅgā, dve saññā",
+         "the awakening factors and two lists of seven perceptions &mdash; the three lists "
+         "given in full at AN 7.615&ndash;617 and assumed without restatement throughout "
+         "this entire block."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: nine verbs, each implicitly "
+        "crossed against the three lists already given in full. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine verbs for greed, completing its own portion of this chapter"),
+        ("p", "&sect;1", "an7.618-644:1.1-1.9"),
+    ],
+    "quiz": [
+        {"q": "What three lists does this block run against nine further verbs?",
+         "opts": [
+             "Three entirely new lists introduced on this page",
+             "The awakening factors and two lists of seven perceptions, already given in "
+             "full at AN 7.615–617",
+             "The four noble truths, repeated three times",
+             "The five aggregates, the six senses, and the four absorptions"],
+         "correct": 1,
+         "expl": "No new lists — the same three already given in full immediately before "
+                 "this block."},
+        {"q": "Why does this block cover only nine verbs rather than the full ten this "
+              "chapter eventually uses?",
+         "opts": [
+             "The tenth verb does not exist",
+             "Direct knowledge (abhiññā), the tenth verb, was already applied to all three "
+             "lists at AN 7.615–617, so this block covers only what remains",
+             "This block simply omits the tenth verb by mistake",
+             "Ten verbs would be too many to compress"],
+         "correct": 1,
+         "expl": "A structural completion of what AN 7.615–617 began, not an oversight."},
+        {"q": "How many discourses does this block's single sentence represent?",
+         "opts": [
+             "Nine", "Twenty-seven: nine verbs times three lists", "Ninety",
+             "Three"],
+         "correct": 1,
+         "expl": "Nine verbs crossed against three lists, each combination one discourse."},
+        {"q": "What single defilement does every combination in this block address?",
+         "opts": [
+             "Hate", "Greed", "Delusion", "Conceit"],
+         "correct": 1,
+         "expl": "This block completes greed's own portion of the chapter before the final "
+                 "block turns to sixteen further defilements."},
+        {"q": "According to the guide, is any of this block's content conceptually new?",
+         "opts": [
+             "Yes, entirely new material",
+             "No — every list item and every verb was already established earlier; this "
+             "block is purely a systematic combination of known parts",
+             "Half of it is new",
+             "The verbs are new but the lists are not"],
+         "correct": 1,
+         "expl": "Pure combination, not new content."},
+        {"q": "What does the chapter's final block, AN 7.645–1124, apply this same "
+              "template to?",
+         "opts": [
+             "Nothing further; the chapter ends here",
+             "All ten verbs together, applied to sixteen further defilements beyond greed",
+             "A completely different set of lists",
+             "Only five more defilements"],
+         "correct": 1,
+         "expl": "The identical structure, scaled up to this chapter's largest and final "
+                 "block."},
+    ],
+    "marginalia": [
+        ("Nine verbs, three lists", [
+            "understanding, ending,",
+            "giving up, vanishing,",
+            "fading, ceasing, giving away, letting go",
+        ]),
+        ("Completing greed's own portion", [
+            "3 (direct knowledge) +",
+            "27 (this block) =",
+            "30 discourses for greed alone",
+        ]),
+        ("No new content", [
+            "every list item,",
+            "every verb, already known —",
+            "only new combinations",
+        ]),
+        ("A template for what follows", [
+            "the same structure, scaled up,",
+            "sixteen further defilements,",
+            "at the chapter's final block",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an7.618-644/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.617.html">AN 7.617 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; previous, the third of this chapter's three foundational lists.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.645-1124 — closes ch.11 Rāgapeyyāla AND the entire Sattaka Nipāta
+# (Book of the Sevens, 1,124 discourses). This is the final page of AN 7.
+# The sixteen-defilement roster here (dosa/moha/kodha/upanāha/makkha/paḷāsa/
+# issā/macchariya/māyā/sāṭheyya/thambha/sārambha/māna/atimāna/mada/pamāda) is
+# the SAME list already closing AN 3 (3.183-352), AN 4 (4.304-783), and AN 6
+# (6.170-649) -- a fourth nipāta closing on the identical seventeen-item
+# roster (with greed). The tenth verb, abhiññā, is embedded via peyyāla in
+# segment 1.16 itself ("pamādassa abhiññāya"), not omitted -- verified
+# against root Pali before writing this page. Colophon: root has both
+# "Rāgapeyyālaṁ niṭṭhitaṁ" (blank in English) and "Sattakanipātapāḷi
+# niṭṭhitā" (translated: "The Book of the Sevens is finished") at segment
+# 2.4 -- included in the text block since it has an English translation,
+# unlike the untranslated chapter-only colophon immediately before it.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-7.645-1124",
+    "index_pali": "Dosādi",
+    "nav_title": "Untitled Discourses on Hate, Etc.",
+    "source": "an7/an7.645-1124",
+    "crumb": "AN 7.645&ndash;1124",
+    "meta_title": "AN 7.645–1124 — Untitled Discourses on Hate, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the Sevens' final four "
+        "hundred eighty discourses, compressed into one sentence: sixteen further "
+        "defilements, ten verbs, three seven-item lists, closing the entire Sattaka "
+        "Nipāta. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 7.645&ndash;1124",
+    "title": "Untitled Discourses on Hate, Etc.",
+    "subtitle": "<em>Rāgapeyyāla</em> &mdash; closing the eleventh and final chapter of the "
+                "Sevens, and the Sattaka Nipāta itself",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "One sentence, cross-multiplying sixteen defilements against ten verbs "
+                 "against three seven-item lists, representing four hundred eighty "
+                 "individually numbered discourses"),
+        ("Length", "~2 minutes to read"),
+        ("The fourth nipāta closing on this same list", "The sixteen defilements here are "
+                                                         "identical, item for item, to the "
+                                                         "list already closing AN 3, AN 4, "
+                                                         "and AN 6 &mdash; the same "
+                                                         "seventeen-item roster (with "
+                                                         "greed) reused wholesale a fourth "
+                                                         "time"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the most compressed "
+                       "page in this chapter, and the one that closes the entire Book of "
+                       "the Sevens"),
+    ],
+    "why": (
+        "One sentence stands for four hundred eighty discourses, and closes AN 7 in its "
+        "entirety. Sixteen defilements beyond greed &mdash; hate, delusion, anger, and "
+        "thirteen further, increasingly specific faults, closing on negligence &mdash; "
+        "each developed for the same ten verbs already run against greed at AN "
+        "7.615&ndash;644, each of those ten crossed against the same three seven-item "
+        "lists given in full at AN 7.615&ndash;617. This is the largest single "
+        "combinatorial block in this entire project to date, and it is also the discourse "
+        "that closes the Book of the Sevens."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same three seven-item lists, developed for the same ten verbs already run "
+            "against greed, are now run against sixteen further defilements beyond greed: "
+            "hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, "
+            "deceitfulness, deviousness, obstinacy, aggression, conceit, arrogance, "
+            "vanity, and negligence."]),
+        ("The complete list, and where it has been seen before — three times", [
+            "<em>Dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, "
+            "sāṭheyya, thambha, sārambha, māna, atimāna, mada, pamāda</em> &mdash; sixteen "
+            "defilements, running from the two remaining root poisons through increasingly "
+            "specific interpersonal and characterological faults, closing on negligence. "
+            "This is not a list composed fresh for the Sevens. Together with greed, this "
+            "identical seventeen-item roster, in this same order, already closed the "
+            "Threes at AN 3.183&ndash;352, the Fours at AN 4.304&ndash;783, and the Sixes "
+            "at AN 6.170&ndash;649 &mdash; the same list, reused wholesale for a "
+            "structurally identical closing device in a fourth nipāta running."]),
+        ("Ten verbs, three lists, sixteen targets", [
+            "Each of the sixteen defilements is developed against the identical ten-verb "
+            "sequence already run against greed across AN 7.615&ndash;644: direct "
+            "knowledge, complete understanding, complete ending, giving up, ending, "
+            "vanishing, fading away, cessation, giving away, and letting go. The tenth "
+            "verb, direct knowledge, is not omitted here &mdash; it is embedded inside the "
+            "source's own peyyāla at the very end of the sixteen-item defilement list "
+            "itself (&ldquo;of negligence, for direct knowledge&hellip;&rdquo;), easy to "
+            "miss without checking the Pali directly. Each of those ten verbs is in turn "
+            "crossed against the three seven-item lists given in full at AN "
+            "7.615&ndash;617: the awakening factors, and two lists of seven perceptions. "
+            "Sixteen times ten times three is four hundred eighty &mdash; the largest "
+            "single combinatorial block in this entire project to date, and it survives in "
+            "the source as one sentence."]),
+        ("The Book of the Sevens, finished", [
+            "The final lines of this block, following the formula's own close, record that "
+            "the mendicants were satisfied and approved what the Buddha said, then give two "
+            "colophons: &ldquo;Rāgapeyyālaṁ niṭṭhitaṁ&rdquo; &mdash; &ldquo;the Rāgapeyyāla "
+            "is finished&rdquo;, left untranslated in the source data this project draws "
+            "on &mdash; immediately followed by &ldquo;Sattakanipātapāḷi niṭṭhitā&rdquo;, "
+            "which is translated: &ldquo;The Book of the Sevens is finished.&rdquo; This is "
+            "not merely a chapter closing, of the kind this series has met ten times since "
+            "AN 7.1. It is the close of the entire Sattaka Nipāta &mdash; the collection "
+            "this build-out has read since AN 7.1, one discourse, then one chapter, then "
+            "two vast peyyāla megachapters at a time, now complete from its first page to "
+            "its last, including the final 1,030 discourses (AN 7.95&ndash;1124) this page "
+            "and its predecessors represent in compressed form across only a handful of "
+            "pages rather than as individual discourses."]),
+        ("A closing shared with three earlier nipātas, and what it suggests", [
+            "That the identical seventeen-item defilement roster, run through the identical "
+            "combinatorial technique, now closes four separate nipātas in a row (the "
+            "Threes, Fours, Sixes, and now the Sevens) suggests this closing device is not "
+            "incidental to any one collection's content but a standing feature of how the "
+            "Numbered Discourses as a whole are assembled &mdash; a compositional template "
+            "applied consistently across nipātas of different sizes, adjusting only the "
+            "verb-count and list-count each nipāta's own number requires, while keeping "
+            "the defilement roster itself untouched."]),
+    ],
+    "terms": [
+        ("dosa, moha, kodha, upanāha, makkha, paḷāsa, issā, macchariya, māyā, sāṭheyya, "
+         "thambha, sārambha, māna, atimāna, mada, pamāda",
+         "hate, delusion, anger, acrimony, disdain, contempt, jealousy, stinginess, "
+         "deceitfulness, deviousness, obstinacy, aggression, conceit, arrogance, vanity, "
+         "and negligence &mdash; the sixteen defilements this page addresses, identical to "
+         "the sixteen already closing AN 3, AN 4, and AN 6."),
+        ("Rāgapeyyālaṁ niṭṭhitaṁ",
+         "&ldquo;the Rāgapeyyāla is finished&rdquo; &mdash; the colophon closing this "
+         "chapter specifically, left untranslated in the source data, immediately "
+         "preceding the larger nipāta-closing marker."),
+        ("Sattakanipātapāḷi niṭṭhitā",
+         "&ldquo;the text of the Book of the Sevens is finished&rdquo; &mdash; the closing "
+         "line of the entire nipāta this build-out has read from AN 7.1 to this page."),
+        ("bojjhaṅgā, dve saññā",
+         "the awakening factors and the two lists of seven perceptions given in full at "
+         "AN 7.615&ndash;617 and assumed throughout this entire chapter, including this "
+         "closing block."),
+        ("AN 3.183–352, AN 4.304–783, AN 6.170–649",
+         "the structurally identical closing blocks already read in this series, sharing "
+         "this page's exact seventeen-item defilement roster (with greed) across three "
+         "different nipātas before this fourth appearance."),
+    ],
+    "text_intro": (
+        "The formula exactly as the source compresses it: sixteen defilements, ten verbs, "
+        "and the three seven-item lists already given in full, closing the Sevens. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The compressed formula, closing the Sevens"),
+        ("p", "&sect;1", "an7.645-1124:1.1-1.26"),
+        ("h3", "The closing formula, and the Book of the Sevens, finished"),
+        ("p", "&sect;2", "an7.645-1124:2.1-2.4"),
+    ],
+    "quiz": [
+        {"q": "How many defilements does this page's formula address, beyond greed?",
+         "opts": [
+             "Three",
+             "Sixteen: hate, delusion, anger, and thirteen further, increasingly specific "
+             "faults, closing on negligence",
+             "Nine",
+             "Thirty"],
+         "correct": 1,
+         "expl": "Continuing the list AN 7.615–644 already began with greed alone."},
+        {"q": "Where else in this series has this exact seventeen-item list of "
+              "defilements (greed plus these sixteen) already appeared?",
+         "opts": [
+             "Nowhere else",
+             "At AN 3.183–352, AN 4.304–783, and AN 6.170–649, closing the Threes, Fours, "
+             "and Sixes with structurally identical devices",
+             "Only within the Sevens itself",
+             "This is the list's first appearance anywhere"],
+         "correct": 1,
+         "expl": "The identical roster, reused wholesale for the same closing purpose "
+                 "across four separate nipātas."},
+        {"q": "How many total discourses does this page's single formula represent?",
+         "opts": [
+             "Twenty-seven",
+             "Four hundred eighty: sixteen defilements times ten verbs times three "
+             "seven-item lists",
+             "Sixteen",
+             "Fifty-one"],
+         "correct": 1,
+         "expl": "The largest single combinatorial block in this entire project to date."},
+        {"q": "Where is the tenth verb, direct knowledge (abhiññā), located in this "
+              "block's own source text, according to the guide?",
+         "opts": [
+             "It is entirely omitted from this block",
+             "Embedded inside the source's own peyyāla at the very end of the sixteen-item "
+             "defilement list itself, easy to miss without checking the Pali",
+             "Stated as a separate, eleventh item",
+             "Repeated at the start of every defilement"],
+         "correct": 1,
+         "expl": "A detail verified against the root Pali before writing this page, not "
+                 "obvious from the English translation alone."},
+        {"q": "What does the final line of this block announce?",
+         "opts": [
+             "The end of only this chapter",
+             "Sattakanipātapāḷi niṭṭhitā, 'The Book of the Sevens is finished' — the close "
+             "of the entire nipāta",
+             "The beginning of a new nipāta within the same page",
+             "An error in transmission"],
+         "correct": 1,
+         "expl": "The collection read from AN 7.1 through this page, now complete at "
+                 "1,124 discourses."},
+        {"q": "According to the guide, what does this closing device's fourth appearance "
+              "across four different nipātas suggest?",
+         "opts": [
+             "That it is a coincidence specific to each collection",
+             "That it is a standing compositional template applied consistently across "
+             "nipātas of different sizes, not incidental to any single collection's "
+             "content",
+             "That the texts contain a transcription error",
+             "That later nipātas simply copy earlier ones without any pattern"],
+         "correct": 1,
+         "expl": "A structural feature of how the Numbered Discourses are assembled, "
+                 "adjusting only the verb-count and list-count each nipāta requires."},
+    ],
+    "marginalia": [
+        ("Sixteen defilements, one list reused", [
+            "hate, delusion, anger...",
+            "identical to AN 3.183–352,",
+            "AN 4.304–783's, and AN 6.170–649's roster",
+        ]),
+        ("The full arithmetic", [
+            "16 defilements &times; 10 verbs",
+            "&times; 3 lists = 480",
+        ]),
+        ("510 discourses total", [
+            "3 (AN 7.615–617) +",
+            "27 (AN 7.618–644) +",
+            "480 (this page) = 510",
+        ]),
+        ("The Sevens, finished", [
+            "Rāgapeyyālaṁ niṭṭhitaṁ —",
+            "Sattakanipātapāḷi",
+            "niṭṭhitā: 1,124 discourses complete",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an7.645-1124/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.618-644.html">AN 7.618&ndash;644 &middot; Untitled Discourses on '
+        "Greed</a> &mdash; previous, the smaller block this page's apparatus continues "
+        "from.",
+        '<a href="an-6.170-649.html">AN 6.170&ndash;649 &middot; Insight into Hate, and So '
+        "On</a> &mdash; earlier nipāta, sharing this page's identical seventeen-item "
+        "defilement list.",
+    ],
+})
