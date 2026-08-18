@@ -15718,3 +15718,1957 @@ page(
     ],
 )
 
+
+# --------------------------------------------------------------------------- #
+# AN 7.85-92: eight discourses of Pali nirukti (folk-etymological) wordplay,
+# each deriving a different honorific title -- bhikkhu, samaṇa, brāhmaṇa,
+# sottiya, nhātaka, vedagū, ariya, arahā -- from a verb describing removal of
+# the SAME seven defilements (substantialist view, doubt, misapprehension of
+# precepts, greed, hate, delusion, conceit). Only 85 (first) and 92 (last)
+# give the full seven-item list in translation; 86-91 are each a genuine
+# single-segment discourse, eliding everything after the opening formula.
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Samaṇavagga</em> &mdash; the ninth chapter of the Sevens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.85 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Bhikkhu", "A Mendicant",
+    vagga=VAGGA_9,
+    meta_title="AN 7.85 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhikkhusutta, opening a set of eight discourses that derive "
+        "honorific titles from verbs describing the breaking, quelling, or "
+        "removal of the same seven defilements. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare definition built on wordplay: the title "
+                 "&ldquo;mendicant&rdquo; derived from a verb sounding "
+                 "like it, describing what has been broken"),
+        ("Length", "under 1 minute to read"),
+        ("Opening a set of eight", "AN 7.85-92 each derive a different "
+                                   "honorific title from a different verb "
+                                   "applied to the identical seven "
+                                   "defilements; only this discourse and "
+                                   "AN 7.92 give the full list, the six "
+                                   "between them each a genuine single-"
+                                   "sentence discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "content is simple, but the wordplay connecting "
+                       "title to verb is easy to miss reading only in "
+                       "English"),
+    ],
+    why=(
+        "AN 7.85 opens a set of eight discourses built on Pali "
+        "wordplay: this one explains why a mendicant is called "
+        "&ldquo;bhikkhu&rdquo; by connecting it to bhinna, "
+        "&ldquo;broken&rdquo; &mdash; specifically, having broken seven "
+        "things: substantialist view, doubt, misapprehension of precepts "
+        "and observances, greed, hate, delusion, and conceit."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of breaking seven things "
+            "&mdash; substantialist view, doubt, misapprehension of "
+            "precepts and observances, greed, hate, delusion, and conceit "
+            "&mdash; that one becomes a bhikkhu, a mendicant, the title "
+            "itself built from the same root as the verb for breaking."]),
+        ("Etymological wordplay, not literal derivation", [
+            "This discourse's structure only fully makes sense in Pali: "
+            "bhikkhu (mendicant) is here connected to bhinna (broken), a "
+            "play on sound rather than an actual historical etymology "
+            "&mdash; bhikkhu in fact derives from a different root meaning "
+            "&ldquo;to beg.&rdquo; This kind of sound-based wordplay, "
+            "called nirukti, is a recognized device across the canon for "
+            "teaching through resonance rather than literal word history."]),
+        ("Seven things broken, the same list this book has met before", [
+            "The seven items broken are substantialist view (sakkāyadiṭṭhi), "
+            "doubt, misapprehension of precepts and observances &mdash; "
+            "the three fetters overcome at stream-entry &mdash; followed "
+            "by greed, hate, delusion, and conceit, four further "
+            "defilements overcome only at the higher stages of "
+            "awakening. Naming all seven together frames &ldquo;bhikkhu&rdquo; "
+            "as an aspirational title pointing toward complete "
+            "awakening, not merely a description of present ordained "
+            "status."]),
+        ("The first of eight, opening a set built the same way", [
+            "This discourse establishes the pattern seven more discourses "
+            "will follow: the same seven defilements, a different verb "
+            "for how they are dealt with, and a different resulting title. "
+            "AN 7.86 through 7.91 will each state their own version in a "
+            "single elided sentence, trusting the reader to supply this "
+            "discourse's full list; AN 7.92 will close the set by giving "
+            "the full list one final time."]),
+    ],
+    terms=[
+        ("bhikkhu, bhinna",
+         "&ldquo;mendicant&rdquo;, &ldquo;broken&rdquo; &mdash; the "
+         "sound-linked pair this discourse's wordplay turns on."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; the three fetters overcome at "
+         "stream-entry, the first three of this list's seven items."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, defilements overcome only at the higher "
+         "stages of awakening."),
+        ("nirukti",
+         "sound-based folk etymology, a recognized canonical device for "
+         "teaching through resonance between words rather than their "
+         "literal historical derivation; not itself named in this "
+         "discourse's text but useful context for how it operates."),
+        ("sattannaṁ dhammānaṁ bhinnattā",
+         "&ldquo;because of breaking seven things&rdquo; &mdash; the "
+         "discourse's own stated cause for the title it explains."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare definition. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a mendicant"),
+        ("p", "&sect;1", "an7.85:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What Pali wordplay does this discourse build on?",
+         "opts": [
+             "No wordplay; it is a literal historical etymology",
+             "Connecting bhikkhu (mendicant) to bhinna (broken), a "
+             "sound-based play rather than bhikkhu's actual historical "
+             "root",
+             "Connecting bhikkhu to a word meaning &ldquo;forest&rdquo;",
+             "There is no connection between the title and any verb"],
+         "correct": 1,
+         "expl": "A recognized device (nirukti) teaching through sound "
+                 "resonance, not literal word history."},
+        {"q": "What seven things does this discourse say are broken to "
+              "become a bhikkhu?",
+         "opts": [
+             "The five lower fetters and two more",
+             "Substantialist view, doubt, misapprehension of precepts and "
+             "observances, greed, hate, delusion, and conceit",
+             "The seven awakening factors",
+             "The seven planes of consciousness"],
+         "correct": 1,
+         "expl": "Three fetters of stream-entry plus four higher-stage "
+                 "defilements."},
+        {"q": "According to the guide, what do the first three items on "
+              "this list have in common?",
+         "opts": [
+             "They are the three most severe possible offenses",
+             "They are the three fetters overcome specifically at "
+             "stream-entry",
+             "They are unrelated to Buddhist doctrine",
+             "They are unique to this discourse alone"],
+         "correct": 1,
+         "expl": "A recognized doctrinal grouping, the fetters ended at "
+                 "the first stage of awakening."},
+        {"q": "How many discourses in total build on this same pattern "
+              "of wordplay, according to the guide?",
+         "opts": [
+             "Just this one",
+             "Eight — AN 7.85 through 7.92, each deriving a different "
+             "title from a different verb applied to the same seven "
+             "defilements",
+             "Three",
+             "Twelve"],
+         "correct": 1,
+         "expl": "A deliberate set of eight, opening here."},
+        {"q": "How do AN 7.86 through 7.91 present their own content, "
+              "according to the guide?",
+         "opts": [
+             "Each gives the full seven-item list again in detail",
+             "Each is a genuine single-sentence discourse, eliding "
+             "everything after the opening formula and trusting the "
+             "reader to supply this discourse's list",
+             "They omit the seven-item list but add new items instead",
+             "They contradict this discourse's list"],
+         "correct": 1,
+         "expl": "The most extreme peyyāla compression yet, each just one "
+                 "segment long."},
+        {"q": "What does the guide say naming all seven items together "
+              "frames &ldquo;bhikkhu&rdquo; as?",
+         "opts": [
+             "A purely administrative title with no spiritual content",
+             "An aspirational title pointing toward complete awakening, "
+             "not merely present ordained status",
+             "A title with no connection to spiritual practice at all",
+             "A title reserved only for fully awakened arahants"],
+         "correct": 1,
+         "expl": "A title spanning the full path, not just current formal "
+                 "standing."},
+    ],
+    marginalia=[
+        ("A title, sounded out", [
+            "bhikkhu linked to bhinna —",
+            "&ldquo;mendicant&rdquo; to &ldquo;broken&rdquo;,",
+            "wordplay, not literal history",
+        ]),
+        ("Seven things broken", [
+            "three fetters of stream-entry,",
+            "then four more,",
+            "overcome only at the summit",
+        ]),
+        ("The first of eight", [
+            "this same pattern repeats,",
+            "a different verb each time,",
+            "for a different honorific title",
+        ]),
+        ("Cross-references", [
+            "AN 7.84 &middot; earlier, closing the previous chapter",
+            "AN 7.92 &middot; next but six, closing this set of eight with "
+            "the full list restated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.85/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.84.html">AN 7.84 &middot; Settlement of '
+        "Disciplinary Issues</a> &mdash; previous, closing the previous "
+        "chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.86 — Samaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    86, "Samaṇa", "An Ascetic",
+    vagga=VAGGA_9,
+    meta_title="AN 7.86 — An Ascetic | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samaṇasutta, a genuine single-sentence discourse deriving "
+        "&ldquo;ascetic&rdquo; from a verb meaning to quell, applied to "
+        "the same seven defilements as AN 7.85. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the shortest possible form "
+                 "this chapter's wordplay pattern takes"),
+        ("Length", "a few seconds to read"),
+        ("Genuinely one segment", "Unlike AN 7.85, this discourse's "
+                                  "source text itself elides everything "
+                                  "after the opening formula with an "
+                                  "ellipsis, trusting the reader to supply "
+                                  "AN 7.85's full seven-item list"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; as "
+                       "brief as this chapter's wordplay device gets"),
+    ],
+    why=(
+        "AN 7.86 gives the second discourse in this chapter's set of "
+        "eight, deriving &ldquo;ascetic&rdquo; (samaṇa) from samita, "
+        "&ldquo;quelled&rdquo; &mdash; the same seven defilements AN 7.85 "
+        "named in full, now simply described as quelled rather than "
+        "broken."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of quelling seven things &mdash; "
+            "the same substantialist view, doubt, misapprehension of "
+            "precepts and observances, greed, hate, delusion, and conceit "
+            "AN 7.85 named &mdash; that one becomes a samaṇa, an ascetic."]),
+        ("A different verb, the identical seven things", [
+            "Where AN 7.85 spoke of breaking (bhinna) these seven, this "
+            "discourse speaks of quelling (samita) them &mdash; a subtly "
+            "different image, of pacifying or stilling rather than "
+            "shattering, applied to the identical list of defilements."]),
+        ("Elided by the source text itself", [
+            "This discourse's own text states only the opening formula "
+            "before trailing off into an ellipsis, exactly as it appears "
+            "here: no restatement of the seven items, no closing summary "
+            "sentence. The reader is expected to supply AN 7.85's full "
+            "list from memory of the immediately preceding discourse."]),
+        ("Samaṇa and bhikkhu, two titles for the same path", [
+            "Ascetic (samaṇa) is one of the most general titles for a "
+            "renunciant across multiple Indian religious traditions, "
+            "while bhikkhu is specific to the Buddhist community; pairing "
+            "them as the first two discourses in this set suggests a "
+            "movement from a title shared broadly across renunciant "
+            "traditions toward increasingly specific and exalted ones as "
+            "the set continues."]),
+    ],
+    terms=[
+        ("samaṇa, samita",
+         "&ldquo;ascetic&rdquo;, &ldquo;quelled&rdquo; &mdash; the "
+         "sound-linked pair this discourse's wordplay turns on."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; the first three of the seven "
+         "items, given in full at AN 7.85 and elided here."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, likewise elided in this discourse's own "
+         "text."),
+        ("…pe…",
+         "the peyyāla ellipsis marking this discourse's own elision, "
+         "trusting the reader to supply AN 7.85's full list from memory."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text, confirming its place as the "
+         "second in this set of eight."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called an ascetic"),
+        ("p", "&sect;1", "an7.86:1.1"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse connect to &ldquo;ascetic&rdquo; "
+              "(samaṇa)?",
+         "opts": [
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Samita, &ldquo;quelled&rdquo;",
+             "Bāhita, &ldquo;barred out&rdquo;",
+             "Nhāta, &ldquo;bathed&rdquo;"],
+         "correct": 1,
+         "expl": "A different image — pacifying rather than shattering — "
+                 "applied to the same seven defilements."},
+        {"q": "Does this discourse restate the seven-item list in full?",
+         "opts": [
+             "Yes, in complete detail",
+             "No — the source text elides everything after the opening "
+             "formula with an ellipsis",
+             "It gives a different, shorter list",
+             "It gives an expanded, longer list"],
+         "correct": 1,
+         "expl": "A genuine single-segment discourse, the most extreme "
+                 "compression in this set."},
+        {"q": "According to the guide, what is the reader expected to "
+              "supply for this discourse's elided content?",
+         "opts": [
+             "Nothing; the discourse is complete as given",
+             "AN 7.85's full seven-item list, from memory of the "
+             "immediately preceding discourse",
+             "A completely different list",
+             "The Buddha's biography"],
+         "correct": 1,
+         "expl": "The same list already given in full at AN 7.85."},
+        {"q": "According to the guide, what does pairing &ldquo;ascetic&rdquo; and "
+              "&ldquo;mendicant&rdquo; as the first two discourses in this set "
+              "suggest?",
+         "opts": [
+             "Nothing in particular",
+             "A movement from a title shared broadly across renunciant "
+             "traditions toward increasingly specific and exalted ones",
+             "That the two titles are mutually exclusive",
+             "That ascetics and mendicants are unrelated to this "
+             "discourse's list"],
+         "correct": 1,
+         "expl": "Samaṇa as a general renunciant title, bhikkhu as "
+                 "specifically Buddhist, opening a graded sequence."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Paṭhamaṁ&rdquo; (the first)",
+             "&ldquo;Dutiyaṁ&rdquo; (the second)",
+             "&ldquo;Aṭṭhamaṁ&rdquo; (the eighth)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the second discourse in this set "
+                 "of eight."},
+        {"q": "How long does this discourse take to read?",
+         "opts": [
+             "Several minutes",
+             "A few seconds — the shortest form this chapter's wordplay "
+             "pattern takes",
+             "About an hour",
+             "It cannot be read in isolation at all"],
+         "correct": 1,
+         "expl": "A single elided sentence, among the briefest discourses "
+                 "in this entire project."},
+    ],
+    marginalia=[
+        ("Quelled, not broken", [
+            "samaṇa linked to samita —",
+            "a different image,",
+            "the same seven defilements",
+        ]),
+        ("Elided by the source itself", [
+            "no restated list here,",
+            "just the opening formula,",
+            "trailing into ellipsis",
+        ]),
+        ("A general title, first", [
+            "samaṇa spans traditions;",
+            "bhikkhu is specific —",
+            "the set moves toward the exalted",
+        ]),
+        ("Cross-references", [
+            "AN 7.85 &middot; previous, the full seven-item list given in "
+            "detail",
+            "AN 7.87 &middot; next, &ldquo;brahmin&rdquo; derived from "
+            "barring out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.86/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; previous, this set's full seven-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.87 — Brāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    87, "Brāhmaṇa", "Brahmin",
+    vagga=VAGGA_9,
+    meta_title="AN 7.87 — Brahmin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Brāhmaṇasutta, deriving &ldquo;brahmin&rdquo; from a verb meaning "
+        "to bar out, repurposing a title belonging to another tradition "
+        "entirely for this same set of seven defilements. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the third in this chapter's "
+                 "set of eight wordplay discourses"),
+        ("Length", "a few seconds to read"),
+        ("A title borrowed and redefined", "Brahmin (brāhmaṇa) is not a "
+                                           "Buddhist title at all but the "
+                                           "priestly caste of the "
+                                           "surrounding brahminical "
+                                           "tradition; this discourse "
+                                           "redefines it by the same "
+                                           "sevenfold criterion applied to "
+                                           "bhikkhu and samaṇa"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "but conceptually pointed in what title it chooses "
+                       "to redefine"),
+    ],
+    why=(
+        "AN 7.87 gives the third discourse in this set, deriving "
+        "&ldquo;brahmin&rdquo; (brāhmaṇa) from bāhita, &ldquo;barred "
+        "out&rdquo; &mdash; taking a title that, outside this context, "
+        "names a hereditary priestly caste, and redefining it by the same "
+        "sevenfold criterion applied to bhikkhu and samaṇa."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of barring out seven things "
+            "&mdash; the same substantialist view, doubt, misapprehension "
+            "of precepts and observances, greed, hate, delusion, and "
+            "conceit named in full at AN 7.85 &mdash; that one becomes a "
+            "brāhmaṇa, a brahmin."]),
+        ("A borrowed title, redefined", [
+            "Unlike bhikkhu (specifically Buddhist) or samaṇa (a general "
+            "renunciant term), brāhmaṇa names a hereditary priestly caste "
+            "in the surrounding brahminical tradition, determined by "
+            "birth rather than practice. Applying this same sevenfold "
+            "criterion to it makes a pointed claim: what actually "
+            "constitutes a brahmin, in the sense this discourse cares "
+            "about, is barring out these seven defilements, not ancestry."]),
+        ("Bāhita: barred out, kept at a distance", [
+            "The specific verb here, bāhita, suggests actively keeping "
+            "something at a distance or shutting it out, a slightly more "
+            "effortful, ongoing image than AN 7.85's breaking or AN "
+            "7.86's quelling &mdash; each verb in this set offering its "
+            "own particular shade of meaning for the same underlying "
+            "removal of the same seven things."]),
+        ("Consistent with this book's wider treatment of the term", [
+            "Redefining brāhmaṇa by conduct rather than birth is a "
+            "recurring move across the early Buddhist texts, part of a "
+            "broader challenge to caste-based claims to spiritual "
+            "authority; this discourse's brief wordplay carries that same "
+            "claim in miniature, condensed to a single sentence."]),
+    ],
+    terms=[
+        ("brāhmaṇa, bāhita",
+         "&ldquo;brahmin&rdquo;, &ldquo;barred out&rdquo; &mdash; the "
+         "sound-linked pair this discourse's wordplay turns on."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; the first three of the seven "
+         "items, elided here but given in full at AN 7.85."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, likewise elided in this discourse's own "
+         "text."),
+        ("jātibrāhmaṇa",
+         "&ldquo;a brahmin by birth&rdquo; &mdash; not a term used in "
+         "this discourse's own text, but useful context for the claim "
+         "this discourse's redefinition implicitly makes against "
+         "birth-based status."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a brahmin"),
+        ("p", "&sect;1", "an7.87:1.1"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse connect to &ldquo;brahmin&rdquo; "
+              "(brāhmaṇa)?",
+         "opts": [
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Bāhita, &ldquo;barred out&rdquo;",
+             "Nhāta, &ldquo;bathed&rdquo;",
+             "Vidita, &ldquo;known&rdquo;"],
+         "correct": 1,
+         "expl": "An image of actively keeping something at a distance, "
+                 "applied to the same seven defilements."},
+        {"q": "According to the guide, what does &ldquo;brāhmaṇa&rdquo; name outside "
+              "this discourse's context?",
+         "opts": [
+             "A specifically Buddhist monastic title",
+             "A hereditary priestly caste in the surrounding brahminical "
+             "tradition, determined by birth",
+             "A general term for any renunciant",
+             "A title with no meaning outside this discourse"],
+         "correct": 1,
+         "expl": "A borrowed title from outside the Buddhist community, "
+                 "redefined here."},
+        {"q": "What claim does applying this sevenfold criterion to "
+              "&ldquo;brahmin&rdquo; make, according to the guide?",
+         "opts": [
+             "That birth determines true brahmin status",
+             "That what actually constitutes a brahmin, in this "
+             "discourse's sense, is barring out these seven defilements, "
+             "not ancestry",
+             "That the title &ldquo;brahmin&rdquo; should be abandoned entirely",
+             "No particular claim is being made"],
+         "correct": 1,
+         "expl": "A pointed redefinition by conduct rather than birth."},
+        {"q": "According to the guide, is this redefinition of "
+              "&ldquo;brahmin&rdquo; by conduct unique to this discourse?",
+         "opts": [
+             "Yes, found nowhere else in the early texts",
+             "No — it is a recurring move across the early Buddhist texts, "
+             "part of a broader challenge to caste-based claims to "
+             "spiritual authority",
+             "This discourse actually reinforces birth-based status",
+             "The guide does not address this question"],
+         "correct": 1,
+         "expl": "A recognized wider theme, condensed here to a single "
+                 "sentence."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Dutiyaṁ&rdquo; (the second)",
+             "&ldquo;Tatiyaṁ&rdquo; (the third)",
+             "&ldquo;Pañcamaṁ&rdquo; (the fifth)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the third discourse in this set "
+                 "of eight."},
+        {"q": "How does this discourse's structure compare to AN 7.86's?",
+         "opts": [
+             "Entirely different structure",
+             "The same elided single-sentence form, with only the title "
+             "and verb changed",
+             "This discourse gives the full seven-item list while AN 7.86 "
+             "does not",
+             "This discourse is much longer than AN 7.86"],
+         "correct": 1,
+         "expl": "The identical compressed form, continuing this set's "
+                 "pattern."},
+    ],
+    marginalia=[
+        ("A borrowed title", [
+            "brāhmaṇa, elsewhere",
+            "a matter of birth —",
+            "redefined here by conduct",
+        ]),
+        ("Barred out, kept at a distance", [
+            "bāhita's own image,",
+            "a third shade of meaning",
+            "for the same seven things",
+        ]),
+        ("Conduct over ancestry", [
+            "a recurring challenge",
+            "to caste-based claims,",
+            "condensed to one sentence",
+        ]),
+        ("Cross-references", [
+            "AN 7.86 &middot; previous, &ldquo;ascetic&rdquo; derived from "
+            "quelling",
+            "AN 7.88 &middot; next, &ldquo;scholar&rdquo; derived from "
+            "scouring off",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.87/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.86.html">AN 7.86 &middot; An Ascetic</a> '
+        "&mdash; previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's full seven-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.88 — Sottiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Sottiya", "Scholar",
+    vagga=VAGGA_9,
+    meta_title="AN 7.88 — Scholar | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sottiyasutta, deriving a title usually meaning &ldquo;one who has "
+        "heard much&rdquo; from a verb meaning to flow away or wash off, "
+        "applied to the same seven defilements. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the fourth in this chapter's "
+                 "set of eight wordplay discourses"),
+        ("Length", "a few seconds to read"),
+        ("A title redirected from learning to purification", "Sottiya "
+                                                              "ordinarily "
+                                                              "suggests "
+                                                              "one who has "
+                                                              "heard or "
+                                                              "learned "
+                                                              "much; this "
+                                                              "discourse "
+                                                              "instead "
+                                                              "connects it "
+                                                              "to nissuta, "
+                                                              "something "
+                                                              "flowed or "
+                                                              "washed away"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "with a wordplay shift worth noticing carefully"),
+    ],
+    why=(
+        "AN 7.88 gives the fourth discourse in this set, deriving "
+        "&ldquo;scholar&rdquo; (sottiya) from nissuta, &ldquo;flowed "
+        "away&rdquo; or &ldquo;washed off&rdquo; &mdash; redirecting a "
+        "title ordinarily associated with extensive learning toward the "
+        "same sevenfold removal of defilements this set's other titles "
+        "share."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of scouring off seven things "
+            "&mdash; the same substantialist view, doubt, misapprehension "
+            "of precepts and observances, greed, hate, delusion, and "
+            "conceit named in full at AN 7.85 &mdash; that one becomes a "
+            "sottiya."]),
+        ("A title usually about hearing, redirected here", [
+            "Sottiya is etymologically connected to suta, "
+            "&ldquo;heard,&rdquo; and ordinarily suggests someone deeply "
+            "learned, well versed in what has been heard and studied. "
+            "This discourse instead plays on a different, similar-"
+            "sounding root, nissuta, meaning to have flowed or washed "
+            "away, redirecting the title from a claim about learning "
+            "toward a claim about purification."]),
+        ("Scouring off, a washing image among several", [
+            "This is the first discourse in the set to use a specifically "
+            "liquid, washing-related image, anticipating AN 7.89's "
+            "&ldquo;bathed&rdquo; even more directly; scouring or flowing "
+            "away suggests something removed by an ongoing process rather "
+            "than a single decisive break."]),
+        ("A pattern of titles, each carrying its own resonance", [
+            "Read alongside its neighbors, this discourse continues the "
+            "set's demonstration that a single sevenfold list of "
+            "defilements can be approached through breaking, quelling, "
+            "barring out, or (as here) washing away &mdash; different "
+            "images for what remains, underneath the wordplay, the "
+            "identical spiritual accomplishment."]),
+    ],
+    terms=[
+        ("sottiya, nissuta",
+         "&ldquo;scholar&rdquo;, &ldquo;flowed away&rdquo; &mdash; the "
+         "sound-linked pair this discourse's wordplay turns on, playing "
+         "against sottiya's more usual connection to suta, "
+         "&ldquo;heard.&rdquo;"),
+        ("suta",
+         "&ldquo;heard&rdquo; or &ldquo;learned&rdquo; &mdash; the root "
+         "sottiya is ordinarily associated with, not the root this "
+         "discourse actually plays on."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; elided here, given in full at AN "
+         "7.85."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, likewise elided."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a scholar"),
+        ("p", "&sect;1", "an7.88:1.1"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse connect to &ldquo;scholar&rdquo; "
+              "(sottiya)?",
+         "opts": [
+             "Suta, &ldquo;heard&rdquo;",
+             "Nissuta, &ldquo;flowed away&rdquo; or &ldquo;washed off&rdquo;",
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Ārakā, &ldquo;remote&rdquo;"],
+         "correct": 1,
+         "expl": "A similar-sounding but distinct root, redirecting the "
+                 "title from learning toward purification."},
+        {"q": "What does &ldquo;sottiya&rdquo; ordinarily suggest, apart from this "
+              "discourse's own wordplay?",
+         "opts": [
+             "A wealthy merchant",
+             "Someone deeply learned, well versed in what has been heard "
+             "and studied",
+             "A military commander",
+             "A newly ordained novice"],
+         "correct": 1,
+         "expl": "A connection to suta, &ldquo;heard,&rdquo; that this discourse "
+                 "plays against rather than with."},
+        {"q": "According to the guide, what claim does this discourse "
+              "redirect the title toward?",
+         "opts": [
+             "A claim about extensive learning",
+             "A claim about purification — being washed or scoured of the "
+             "same seven defilements",
+             "A claim about wealth",
+             "A claim about social status"],
+         "correct": 1,
+         "expl": "Purification rather than accumulated learning."},
+        {"q": "According to the guide, what does this discourse anticipate "
+              "in the next discourse of the set?",
+         "opts": [
+             "Nothing in particular",
+             "AN 7.89's &ldquo;bathed&rdquo; title, continuing this same liquid, "
+             "washing-related imagery even more directly",
+             "A complete change of subject",
+             "A return to the &ldquo;broken&rdquo; imagery of AN 7.85"],
+         "correct": 1,
+         "expl": "A washing image that becomes even more explicit in the "
+                 "very next discourse."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Tatiyaṁ&rdquo; (the third)",
+             "&ldquo;Catutthaṁ&rdquo; (the fourth)",
+             "&ldquo;Chaṭṭhaṁ&rdquo; (the sixth)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the fourth discourse in this set "
+                 "of eight."},
+        {"q": "According to the guide, what do all the titles in this set "
+              "share underneath their different wordplay?",
+         "opts": [
+             "Nothing at all — they describe unrelated attainments",
+             "The identical spiritual accomplishment, approached through "
+             "different images of removal",
+             "Only a shared grammatical form, with no shared meaning",
+             "They describe seven completely different sets of "
+             "defilements"],
+         "correct": 1,
+         "expl": "One underlying accomplishment, many different images for "
+                 "describing its removal of the same seven things."},
+    ],
+    marginalia=[
+        ("Not &ldquo;heard&rdquo;, but &ldquo;washed away&rdquo;", [
+            "sottiya's usual sense",
+            "redirected here",
+            "toward purification instead",
+        ]),
+        ("A washing image begins", [
+            "scoured off, flowed away —",
+            "anticipating",
+            "the next discourse's &ldquo;bathed&rdquo;",
+        ]),
+        ("Different images, one accomplishment", [
+            "broken, quelled, barred out,",
+            "now washed away —",
+            "the same seven things, removed",
+        ]),
+        ("Cross-references", [
+            "AN 7.87 &middot; previous, &ldquo;brahmin&rdquo; derived from "
+            "barring out",
+            "AN 7.89 &middot; next, &ldquo;bathed&rdquo; continuing this "
+            "washing imagery",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.88/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.87.html">AN 7.87 &middot; Brahmin</a> &mdash; '
+        "previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's full seven-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.89 — Nhātakasutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Nhātaka", "Bathed",
+    vagga=VAGGA_9,
+    meta_title="AN 7.89 — Bathed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nhātakasutta, deriving &ldquo;bathed initiate&rdquo; from a verb "
+        "meaning to have bathed, completing this set's washing imagery for "
+        "the same seven defilements. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the fifth in this chapter's "
+                 "set of eight wordplay discourses"),
+        ("Length", "a few seconds to read"),
+        ("A title borrowed from ritual bathing", "Nhātaka in the "
+                                                  "brahminical tradition "
+                                                  "named someone who had "
+                                                  "completed a ritual "
+                                                  "bath marking a stage of "
+                                                  "religious life; this "
+                                                  "discourse redefines it "
+                                                  "by the same sevenfold "
+                                                  "removal of "
+                                                  "defilements"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, most vivid when read alongside AN 7.88's "
+                       "own washing image"),
+    ],
+    why=(
+        "AN 7.89 gives the fifth discourse in this set, deriving "
+        "&ldquo;bathed initiate&rdquo; (nhātaka) directly from nhāta, "
+        "&ldquo;bathed,&rdquo; making the washing imagery AN 7.88 only "
+        "hinted at fully explicit, and again applying it to the same "
+        "seven defilements."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of bathing off seven things "
+            "&mdash; the same substantialist view, doubt, misapprehension "
+            "of precepts and observances, greed, hate, delusion, and "
+            "conceit named in full at AN 7.85 &mdash; that one becomes a "
+            "nhātaka, a bathed initiate."]),
+        ("A ritual title, given an internal meaning", [
+            "In the brahminical tradition, nhātaka named someone who had "
+            "completed formal Vedic study and undergone a ceremonial "
+            "bath marking the transition to the next stage of life "
+            "&mdash; a real ritual accomplishment with a specific "
+            "external ceremony attached to it. This discourse takes that "
+            "same title and redefines the bath itself as internal: "
+            "washing off defilements rather than performing a physical "
+            "ablution."]),
+        ("The washing image, now fully explicit", [
+            "AN 7.88's sottiya only obliquely suggested washing through "
+            "its play on nissuta; this discourse removes any ambiguity, "
+            "using nhāta, the direct and ordinary word for having "
+            "bathed, making this the most literal of the set's images for "
+            "how the seven defilements are removed."]),
+        ("The midpoint of this set of eight", [
+            "As the fifth of eight discourses, this one marks the "
+            "midpoint of the full set, having now moved through breaking, "
+            "quelling, barring out, flowing away, and bathing &mdash; "
+            "three discourses remain, moving toward knowledge and then "
+            "distance as the final images for this same removal."]),
+    ],
+    terms=[
+        ("nhātaka, nhāta",
+         "&ldquo;bathed initiate&rdquo;, &ldquo;bathed&rdquo; &mdash; the "
+         "directly related pair this discourse's wordplay turns on, the "
+         "most literal connection in this set of eight."),
+        ("nahāyati",
+         "the verb root &ldquo;to bathe,&rdquo; behind both nhāta and "
+         "nhātaka, making this discourse's connection closer to actual "
+         "etymology than some of its more purely sound-based siblings."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; elided here, given in full at AN "
+         "7.85."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, likewise elided."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text, marking the midpoint of this "
+         "set of eight."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a bathed initiate"),
+        ("p", "&sect;1", "an7.89:1.1"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse connect to &ldquo;bathed "
+              "initiate&rdquo; (nhātaka)?",
+         "opts": [
+             "Nissuta, &ldquo;flowed away&rdquo;",
+             "Nhāta, &ldquo;bathed&rdquo;",
+             "Bāhita, &ldquo;barred out&rdquo;",
+             "Vidita, &ldquo;known&rdquo;"],
+         "correct": 1,
+         "expl": "The most literal, directly related pair in this entire "
+                 "set of eight discourses."},
+        {"q": "What did &ldquo;nhātaka&rdquo; name in the brahminical tradition, "
+              "apart from this discourse's own wordplay?",
+         "opts": [
+             "A military rank",
+             "Someone who had completed formal Vedic study and undergone "
+             "a ceremonial bath marking a life-stage transition",
+             "A term for any renunciant",
+             "A caste designation unrelated to any ritual"],
+         "correct": 1,
+         "expl": "A real external ritual accomplishment in the brahminical "
+                 "tradition, given an internal reinterpretation here."},
+        {"q": "How does this discourse redefine the bath itself, according "
+              "to the guide?",
+         "opts": [
+             "It keeps the physical ablution as the actual requirement",
+             "As internal — washing off defilements rather than "
+             "performing a physical ablution",
+             "It rejects bathing of any kind entirely",
+             "It requires a specific, more elaborate physical ceremony"],
+         "correct": 1,
+         "expl": "An internalized reinterpretation of an external ritual "
+                 "practice."},
+        {"q": "According to the guide, how does this discourse's wordplay "
+              "compare to AN 7.88's in terms of literalness?",
+         "opts": [
+             "Less literal than AN 7.88's",
+             "More literal — nhāta and nhātaka are directly related, "
+             "unlike sottiya's more oblique play on nissuta",
+             "Exactly equally literal",
+             "This discourse contains no wordplay at all"],
+         "correct": 1,
+         "expl": "The most direct etymological connection in this set of "
+                 "eight."},
+        {"q": "What position does this discourse occupy in the full set of "
+              "eight, according to the guide?",
+         "opts": [
+             "The first",
+             "The midpoint — the fifth of eight",
+             "The last",
+             "It is not part of the set of eight"],
+         "correct": 1,
+         "expl": "Marking the halfway point, with three discourses "
+                 "remaining."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Catutthaṁ&rdquo; (the fourth)",
+             "&ldquo;Pañcamaṁ&rdquo; (the fifth)",
+             "&ldquo;Sattamaṁ&rdquo; (the seventh)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the fifth discourse in this set "
+                 "of eight."},
+    ],
+    marginalia=[
+        ("The washing image, explicit now", [
+            "nhāta, plainly &ldquo;bathed&rdquo; —",
+            "the most literal connection",
+            "in this whole set of eight",
+        ]),
+        ("A ritual, made internal", [
+            "an external ceremony,",
+            "reinterpreted as",
+            "washing off defilements instead",
+        ]),
+        ("The midpoint", [
+            "fifth of eight discourses,",
+            "three still to come —",
+            "toward knowledge, then distance",
+        ]),
+        ("Cross-references", [
+            "AN 7.88 &middot; previous, &ldquo;scholar&rdquo; obliquely "
+            "hinting at this same washing image",
+            "AN 7.90 &middot; next, &ldquo;knowledge master&rdquo; derived "
+            "from knowing",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.89/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.88.html">AN 7.88 &middot; Scholar</a> &mdash; '
+        "previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's full seven-item list.",
+    ],
+)
+
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.90 — Vedagūsutta
+# --------------------------------------------------------------------------- #
+page(
+    90, "Vedagū", "A Knowledge Master",
+    vagga=VAGGA_9,
+    meta_title="AN 7.90 — A Knowledge Master | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vedagūsutta, deriving &ldquo;knowledge master&rdquo; from a verb meaning "
+        "to have known, shifting this set's imagery from washing to "
+        "cognition for the same seven defilements. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the sixth in this chapter's "
+                 "set of eight wordplay discourses"),
+        ("Length", "a few seconds to read"),
+        ("A shift from washing to knowing", "After AN 7.88-89's washing "
+                                            "imagery, this discourse "
+                                            "moves to a cognitive image "
+                                            "instead: vedagū, someone who "
+                                            "has gone to the end of "
+                                            "knowledge"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, marking a change in register from this "
+                       "set's two previous discourses"),
+    ],
+    why=(
+        "AN 7.90 gives the sixth discourse in this set, deriving "
+        "&ldquo;knowledge master&rdquo; (vedagū) from vidita, &ldquo;known,&rdquo; shifting "
+        "away from AN 7.88-89's washing imagery toward a cognitive image "
+        "of complete understanding, again applied to the same seven "
+        "defilements."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because of knowing seven things &mdash; "
+            "the same substantialist view, doubt, misapprehension of "
+            "precepts and observances, greed, hate, delusion, and conceit "
+            "named in full at AN 7.85 &mdash; that one becomes a vedagū, "
+            "a knowledge master."]),
+        ("Vedagū: one who has reached the end of knowledge", [
+            "Vedagū literally suggests someone who has gone (gata) to the "
+            "far end of knowledge (veda) itself, not merely someone who "
+            "knows a great deal but someone whose knowledge has reached "
+            "its completion &mdash; a title of finality rather than "
+            "ongoing accumulation."]),
+        ("A shift in register from the two washing discourses", [
+            "Having moved through breaking, quelling, barring out, and "
+            "two variations on washing, this discourse changes the "
+            "underlying image entirely: rather than removing the seven "
+            "defilements through force or purification, it frames their "
+            "removal as a matter of complete understanding, knowing them "
+            "so thoroughly that they no longer operate."]),
+        ("Two discourses remain, moving toward distance", [
+            "As the sixth of this set's eight discourses, this one is "
+            "followed by AN 7.91 and 7.92, both built on ārakattā, "
+            "&ldquo;being remote,&rdquo; shifting the register once more from "
+            "knowing toward simple distance &mdash; the seven "
+            "defilements not just understood but left far behind."]),
+    ],
+    terms=[
+        ("vedagū, vidita",
+         "&ldquo;knowledge master&rdquo;, &ldquo;known&rdquo; &mdash; the sound-linked pair "
+         "this discourse's wordplay turns on."),
+        ("veda, gata",
+         "&ldquo;knowledge&rdquo;, &ldquo;gone&rdquo; &mdash; the two roots combining in "
+         "vedagū itself, suggesting one who has gone all the way to "
+         "knowledge's own end."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts and "
+         "observances&rdquo; &mdash; elided here, given in full at AN 7.85."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the remaining four "
+         "items, likewise elided."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; this discourse's own closing ordinal "
+         "marker in the source text."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a knowledge master"),
+        ("p", "&sect;1", "an7.90:1.1"),
+    ],
+    quiz=[
+        {"q": "What verb does this discourse connect to &ldquo;knowledge "
+              "master&rdquo; (vedagū)?",
+         "opts": [
+             "Nhāta, &ldquo;bathed&rdquo;",
+             "Vidita, &ldquo;known&rdquo;",
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Ārakā, &ldquo;remote&rdquo;"],
+         "correct": 1,
+         "expl": "A cognitive image, marking a shift from this set's "
+                 "earlier washing imagery."},
+        {"q": "What does &ldquo;vedagū&rdquo; literally suggest, according to the "
+              "guide?",
+         "opts": [
+             "Someone who merely knows a great deal",
+             "Someone who has gone all the way to the far end of "
+             "knowledge itself, a title of finality rather than ongoing "
+             "accumulation",
+             "Someone who has forgotten everything they once knew",
+             "A title unrelated to knowledge of any kind"],
+         "correct": 1,
+         "expl": "Completion rather than mere accumulation of knowledge."},
+        {"q": "How does this discourse's image differ from AN 7.88-89's, "
+              "according to the guide?",
+         "opts": [
+             "It is identical to them",
+             "It reframes removal of the seven defilements as a matter of "
+             "complete understanding rather than force or purification",
+             "It contradicts the earlier discourses entirely",
+             "It removes different defilements than AN 7.88-89"],
+         "correct": 1,
+         "expl": "A shift from washing/purification imagery to cognitive "
+                 "completion."},
+        {"q": "What do the two discourses following this one in the set "
+              "share as their common root?",
+         "opts": [
+             "Nhāta, &ldquo;bathed&rdquo;",
+             "Ārakattā, &ldquo;being remote&rdquo;",
+             "Bhinna, &ldquo;broken&rdquo;",
+             "They share no common root"],
+         "correct": 1,
+         "expl": "AN 7.91 and 7.92 both derive their titles from being "
+                 "remote or distant."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Pañcamaṁ&rdquo; (the fifth)",
+             "&ldquo;Chaṭṭhaṁ&rdquo; (the sixth)",
+             "&ldquo;Aṭṭhamaṁ&rdquo; (the eighth)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the sixth discourse in this set "
+                 "of eight."},
+        {"q": "How many discourses in this set remain after this one?",
+         "opts": ["None", "Two", "Five", "Seven"],
+         "correct": 1,
+         "expl": "AN 7.91 and AN 7.92 close out the full set of eight."},
+    ],
+    marginalia=[
+        ("From washing to knowing", [
+            "vedagū shifts the image —",
+            "not purified,",
+            "but understood to completion",
+        ]),
+        ("Gone to knowledge's own end", [
+            "veda plus gata —",
+            "a title of finality,",
+            "not ongoing accumulation",
+        ]),
+        ("Two discourses remain", [
+            "toward distance now,",
+            "ārakattā twice more,",
+            "closing out this set of eight",
+        ]),
+        ("Cross-references", [
+            "AN 7.89 &middot; previous, &ldquo;bathed&rdquo; completing "
+            "this set's washing imagery",
+            "AN 7.91 &middot; next, &ldquo;noble one&rdquo; derived from "
+            "being remote",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.90/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.89.html">AN 7.89 &middot; Bathed</a> &mdash; '
+        "previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's full seven-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.91 — Ariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    91, "Ariya", "A Noble One",
+    vagga=VAGGA_9,
+    meta_title="AN 7.91 — A Noble One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ariyasutta, deriving &ldquo;noble one&rdquo; from the same "
+        "&ldquo;being remote&rdquo; root that AN 7.92 will apply to "
+        "&ldquo;perfected one&rdquo; immediately after. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single elided sentence, the seventh in this chapter's "
+                 "set of eight wordplay discourses"),
+        ("Length", "a few seconds to read"),
+        ("The same root as AN 7.92", "This discourse and AN 7.92 both "
+                                     "derive their titles from ārakattā, "
+                                     "&ldquo;being remote&rdquo; &mdash; "
+                                     "the only root in this set of eight "
+                                     "shared by two different discourses, "
+                                     "here yielding ariya rather than "
+                                     "arahā"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, best read directly alongside AN 7.92"),
+    ],
+    why=(
+        "AN 7.91 gives the seventh discourse in this set, deriving "
+        "&ldquo;noble one&rdquo; (ariya) from ārakattā, &ldquo;being "
+        "remote&rdquo; &mdash; the same root AN 7.92 will use immediately "
+        "after for a different title, &ldquo;perfected one,&rdquo; making "
+        "this the one root in the set applied twice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically because seven foes &mdash; the same "
+            "substantialist view, doubt, misapprehension of precepts and "
+            "observances, greed, hate, delusion, and conceit named in "
+            "full at AN 7.85 &mdash; have been kept remote and nobbled "
+            "that one becomes an ariya, a noble one."]),
+        ("Ārakattā: the one root used twice in this set", [
+            "Every other discourse in this set of eight uses its own "
+            "distinct verb &mdash; breaking, quelling, barring out, "
+            "flowing away, bathing, knowing &mdash; but this discourse "
+            "and AN 7.92 both draw on the same root, ārakattā, "
+            "&ldquo;being remote.&rdquo; The seven defilements are kept "
+            "at a distance rather than destroyed outright, an image of "
+            "sustained separation rather than a single decisive act."]),
+        ("Ariya: a title this project has met constantly, given its own "
+         "wordplay origin here", [
+            "Ariya, &ldquo;noble,&rdquo; is one of the most frequently "
+            "used honorifics across this entire collection &mdash; every "
+            "noble disciple, noble truth, and noble eightfold path uses "
+            "this same word. This discourse supplies its own "
+            "etymological account, linking it to remoteness from the "
+            "same seven defilements this set has tracked throughout."]),
+        ("Setting up the final discourse's near-twin construction", [
+            "Because AN 7.92 reuses this exact root for a different "
+            "resulting title, reading these two discourses together shows "
+            "the wordplay device at its most pointed: the identical Pali "
+            "phrase, ārakattā, yielding two distinct honorifics depending "
+            "on which word it is paired with &mdash; a closing pair that "
+            "makes this set's underlying device unmistakably explicit."]),
+    ],
+    terms=[
+        ("ariya, ārakattā",
+         "&ldquo;noble one&rdquo;, &ldquo;because of being remote&rdquo; "
+         "&mdash; the sound-linked pair this discourse's wordplay turns "
+         "on, shared with AN 7.92's own different resulting title."),
+        ("sattannaṁ dhammānaṁ ārakattā",
+         "&ldquo;because seven things have been kept remote&rdquo; "
+         "&mdash; the specific phrase this discourse and AN 7.92 both "
+         "share, applied to two different honorific titles."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; elided here, given in full at AN "
+         "7.85 and AN 7.92."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, likewise elided."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text."),
+    ],
+    text_intro=(
+        "The discourse in full, a single elided sentence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a noble one"),
+        ("p", "&sect;1", "an7.91:1.1"),
+    ],
+    quiz=[
+        {"q": "What root does this discourse connect to &ldquo;noble "
+              "one&rdquo; (ariya)?",
+         "opts": [
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Ārakattā, &ldquo;being remote&rdquo;",
+             "Vidita, &ldquo;known&rdquo;",
+             "Nhāta, &ldquo;bathed&rdquo;"],
+         "correct": 1,
+         "expl": "An image of sustained separation rather than a single "
+                 "decisive removal."},
+        {"q": "According to the guide, what makes this discourse's root "
+              "distinctive within the full set of eight?",
+         "opts": [
+             "It is the only discourse with no root at all",
+             "It is the one root in the set used twice — shared with AN "
+             "7.92's different resulting title",
+             "It is the longest root in the set",
+             "It contradicts every other discourse's root"],
+         "correct": 1,
+         "expl": "The only case where the identical wordplay root produces "
+                 "two different honorific titles."},
+        {"q": "According to the guide, how frequently does &ldquo;ariya"
+              "&rdquo; (noble) appear across this entire collection?",
+         "opts": [
+             "It never appears elsewhere",
+             "Extremely frequently — every noble disciple, noble truth, "
+             "and noble eightfold path uses this same word",
+             "Only in this one discourse",
+             "Only in the Vinaya chapter"],
+         "correct": 1,
+         "expl": "One of the most common honorifics in the whole "
+                 "collection, given its own etymological account here."},
+        {"q": "What discourse immediately follows, reusing this "
+              "discourse's exact root for a different title?",
+         "opts": ["AN 7.85", "AN 7.92", "AN 7.65", "AN 7.94"],
+         "correct": 1,
+         "expl": "AN 7.92 derives &ldquo;perfected one&rdquo; (arahā) "
+                 "from the identical root."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Chaṭṭhaṁ&rdquo; (the sixth)",
+             "&ldquo;Sattamaṁ&rdquo; (the seventh)",
+             "&ldquo;Aṭṭhamaṁ&rdquo; (the eighth)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the seventh discourse in this "
+                 "set of eight."},
+        {"q": "According to the guide, what does reading this discourse "
+              "alongside AN 7.92 demonstrate about the set's wordplay "
+              "device?",
+         "opts": [
+             "That the wordplay device is purely accidental",
+             "The device at its most pointed — the identical phrase "
+             "yielding two distinct honorifics depending on which word it "
+             "pairs with",
+             "That the two discourses actually contradict each other",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "A closing pair making the whole set's underlying device "
+                 "unmistakably explicit."},
+    ],
+    marginalia=[
+        ("Kept remote, not broken", [
+            "ārakattā's own image —",
+            "sustained separation,",
+            "not a single decisive act",
+        ]),
+        ("The one root used twice", [
+            "shared with AN 7.92,",
+            "the only repeated root",
+            "in this whole set of eight",
+        ]),
+        ("A word met constantly", [
+            "ariya, &ldquo;noble&rdquo; —",
+            "truths, disciples, the path itself,",
+            "all carrying this one word",
+        ]),
+        ("Cross-references", [
+            "AN 7.90 &middot; previous, &ldquo;knowledge master&rdquo; "
+            "derived from knowing",
+            "AN 7.92 &middot; next, the same root yielding "
+            "&ldquo;perfected one&rdquo; instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.91/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.90.html">AN 7.90 &middot; A Knowledge Master</a> '
+        "&mdash; previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's full seven-item list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.92 — Arahāsutta
+#
+# Closes the set of eight wordplay discourses (AN 7.85-92) by giving the
+# full seven-item list one final time, matching AN 7.85's bookend structure.
+# --------------------------------------------------------------------------- #
+page(
+    92, "Arahā", "A Perfected One",
+    vagga=VAGGA_9,
+    meta_title="AN 7.92 — A Perfected One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Arahāsutta, closing this chapter's set of eight wordplay "
+        "discourses by deriving &ldquo;perfected one&rdquo; from the same "
+        "root as AN 7.91's &ldquo;noble one,&rdquo; with the full "
+        "seven-item list restated. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare definition restating the full seven-item list, "
+                 "closing this chapter's set of eight wordplay discourses "
+                 "as a matching bookend to AN 7.85"),
+        ("Length", "under 1 minute to read"),
+        ("The same root as AN 7.91, a different result", "This discourse "
+                                                          "shares AN "
+                                                          "7.91's exact "
+                                                          "root, ārakattā, "
+                                                          "&ldquo;being "
+                                                          "remote,&rdquo; "
+                                                          "but yields "
+                                                          "arahā, "
+                                                          "&ldquo;perfected "
+                                                          "one,&rdquo; "
+                                                          "rather than "
+                                                          "ariya"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes a set worth having read in full from AN "
+                       "7.85 onward"),
+    ],
+    why=(
+        "AN 7.92 closes this chapter's set of eight wordplay discourses "
+        "by deriving &ldquo;perfected one&rdquo; (arahā) from the same "
+        "ārakattā, &ldquo;being remote,&rdquo; root AN 7.91 used for "
+        "&ldquo;noble one,&rdquo; and restates the full seven-item list one "
+        "final time, matching AN 7.85's bookend structure."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is specifically by being impeccably remote from seven "
+            "things &mdash; substantialist view, doubt, misapprehension "
+            "of precepts and observances, greed, hate, delusion, and "
+            "conceit &mdash; that one becomes an arahā, a perfected one, "
+            "the highest of this set's eight honorific titles."]),
+        ("A closing bookend, restating the full list", [
+            "Like AN 7.85 at this set's opening, this discourse gives the "
+            "full seven-item list rather than eliding it, framing the "
+            "entire set of eight with two complete statements bracketing "
+            "six single-sentence discourses in between &mdash; a "
+            "structure that lets a reader encounter the full list at both "
+            "the start and the end without needing to hold it in memory "
+            "throughout."]),
+        ("The same root as AN 7.91, its own resulting title", [
+            "Ārakattā, &ldquo;because of being remote,&rdquo; is the "
+            "identical phrase AN 7.91 used for ariya, &ldquo;noble one"
+            "&rdquo; &mdash; here it instead yields arahā, &ldquo;"
+            "perfected one,&rdquo; the term for one who has completed "
+            "the path entirely. The same image of sustained distance from "
+            "these seven things is offered as the basis for both titles, "
+            "one general and one referring to full awakening."]),
+        ("Eight titles, one underlying accomplishment", [
+            "Read as a complete set, AN 7.85 through 7.92 make one "
+            "sustained point through eight different words and eight "
+            "different images &mdash; breaking, quelling, barring out, "
+            "flowing away, bathing, knowing, and being remote (twice) "
+            "&mdash; all converging on the identical seven defilements, "
+            "suggesting that mendicant, ascetic, brahmin, scholar, bathed "
+            "initiate, knowledge master, noble one, and perfected one are "
+            "not eight different accomplishments but eight different "
+            "names, and eight different angles of approach, for "
+            "essentially one and the same thing."]),
+    ],
+    terms=[
+        ("arahā, ārakattā",
+         "&ldquo;perfected one&rdquo;, &ldquo;because of being remote"
+         "&rdquo; &mdash; the sound-linked pair this discourse's wordplay "
+         "turns on, sharing its root with AN 7.91's ariya."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of precepts "
+         "and observances&rdquo; &mdash; the three fetters of "
+         "stream-entry, given in full here as at AN 7.85."),
+        ("rāgo, doso, moho, māno",
+         "&ldquo;greed, hate, delusion, conceit&rdquo; &mdash; the "
+         "remaining four items, completing the full list one final time."),
+        ("arahā",
+         "&ldquo;perfected one&rdquo;, an arahant &mdash; the highest and "
+         "final title in this set of eight, describing one who has "
+         "completed the path."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; this discourse's own closing "
+         "ordinal marker in the source text, confirming its place closing "
+         "this set of eight."),
+    ],
+    text_intro=(
+        "The discourse in full, restating the complete seven-item list to "
+        "close this set of eight. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why one is called a perfected one"),
+        ("p", "&sect;1", "an7.92:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What root does this discourse connect to &ldquo;perfected "
+              "one&rdquo; (arahā)?",
+         "opts": [
+             "Bhinna, &ldquo;broken&rdquo;",
+             "Ārakattā, &ldquo;being remote&rdquo; — the same root AN "
+             "7.91 used for &ldquo;noble one&rdquo;",
+             "Vidita, &ldquo;known&rdquo;",
+             "Nhāta, &ldquo;bathed&rdquo;"],
+         "correct": 1,
+         "expl": "The identical root as the immediately preceding "
+                 "discourse, yielding a different resulting title."},
+        {"q": "How does this discourse's structure compare to AN 7.85's, "
+              "according to the guide?",
+         "opts": [
+             "Entirely different structure",
+             "It matches AN 7.85's bookend structure, giving the full "
+             "seven-item list rather than eliding it",
+             "It gives only a partial list",
+             "It contradicts AN 7.85's list entirely"],
+         "correct": 1,
+         "expl": "Two complete statements bracketing six elided "
+                 "discourses in between."},
+        {"q": "What is &ldquo;arahā&rdquo; the term for, according to the "
+              "guide?",
+         "opts": [
+             "A novice mendicant",
+             "One who has completed the path entirely, the highest of "
+             "this set's eight titles",
+             "A lay follower",
+             "A hereditary priestly title"],
+         "correct": 1,
+         "expl": "Full awakening, the culminating title of this set of "
+                 "eight."},
+        {"q": "According to the guide, what does reading all eight "
+              "discourses in this set together suggest?",
+         "opts": [
+             "That the eight titles describe eight unrelated "
+             "accomplishments",
+             "That the eight titles are different names and different "
+             "angles of approach for essentially one and the same "
+             "accomplishment",
+             "That only the last title, arahā, actually matters",
+             "That the set contradicts itself"],
+         "correct": 1,
+         "expl": "Eight images, one underlying accomplishment, tracked "
+                 "through the same seven defilements throughout."},
+        {"q": "What is this discourse's own closing marker in the source "
+              "text?",
+         "opts": [
+             "&ldquo;Sattamaṁ&rdquo; (the seventh)",
+             "&ldquo;Aṭṭhamaṁ&rdquo; (the eighth)",
+             "&ldquo;Dutiyaṁ&rdquo; (the second)",
+             "No closing marker is present"],
+         "correct": 1,
+         "expl": "Confirming its place as the eighth and final discourse "
+                 "in this set."},
+        {"q": "What seven things must one be impeccably remote from to "
+              "become a perfected one, according to this discourse?",
+         "opts": [
+             "Wealth, fame, family, health, comfort, pleasure, and status",
+             "Substantialist view, doubt, misapprehension of precepts and "
+             "observances, greed, hate, delusion, and conceit",
+             "The seven awakening factors",
+             "The seven planes of consciousness"],
+         "correct": 1,
+         "expl": "The same seven defilements tracked throughout this "
+                 "entire set of eight discourses."},
+    ],
+    marginalia=[
+        ("The same root, twice", [
+            "ārakattā again —",
+            "this time yielding",
+            "&ldquo;perfected one&rdquo; instead",
+        ]),
+        ("A matching bookend", [
+            "the full list restated,",
+            "framing six elided",
+            "discourses in between",
+        ]),
+        ("Eight titles, one thing", [
+            "mendicant to perfected one,",
+            "eight different images",
+            "for the same accomplishment",
+        ]),
+        ("Cross-references", [
+            "AN 7.91 &middot; previous, the same root yielding "
+            "&ldquo;noble one&rdquo; instead",
+            "AN 7.85 &middot; earlier, this set's opening bookend with the "
+            "full list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.92/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.91.html">AN 7.91 &middot; A Noble One</a> '
+        "&mdash; previous.",
+        '<a href="an-7.85.html">AN 7.85 &middot; A Mendicant</a> '
+        "&mdash; earlier, this set's opening bookend with the full list.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.93 — Asaddhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    93, "Asaddhamma", "Bad Qualities",
+    vagga=VAGGA_9,
+    meta_title="AN 7.93 — Bad Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Asaddhammasutta, a bare list of seven bad qualities that is the "
+        "exact negation of this book's recurring seven-quality list, "
+        "spelled out here for the first time as its own discourse. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, the negative mirror of the "
+                 "very next discourse"),
+        ("Length", "under 1 minute to read"),
+        ("The negative of a familiar list", "This discourse's seven bad "
+                                            "qualities are the exact "
+                                            "negation, item for item, of "
+                                            "the seven-quality list this "
+                                            "book has already met at AN "
+                                            "7.25, 7.43, and 7.67 — spelled "
+                                            "out explicitly as its own "
+                                            "negative statement for the "
+                                            "first time here"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "best read directly alongside AN 7.94"),
+    ],
+    why=(
+        "AN 7.93 names seven bad qualities &mdash; faithless, shameless, "
+        "imprudent, unlearned, lazy, unmindful, and witless &mdash; the "
+        "exact negation of the seven-quality list this book has already "
+        "met three times before, now stated explicitly as its own "
+        "negative list rather than left implicit."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are seven bad qualities: being faithless, shameless, "
+            "imprudent, unlearned, lazy, unmindful, and witless &mdash; a "
+            "bare list given with no elaboration, narrative, or "
+            "explanation of any one item."]),
+        ("The negative of a list this book has met three times before", [
+            "Faith, conscience, prudence, learning, energy, mindfulness, "
+            "and wisdom form the seven-quality list already met at AN "
+            "7.25, restated at AN 7.43, and mapped onto a citadel's seven "
+            "defenses at AN 7.67. This discourse names the exact negation "
+            "of every one of those seven items, in the same order, "
+            "spelling out explicitly what earlier discourses in this book "
+            "left as an unstated contrast."]),
+        ("A bare list, deliberately unadorned", [
+            "Unlike AN 7.25 and AN 7.67, which embed their seven "
+            "qualities in narrative or extended simile, this discourse "
+            "and its positive counterpart at AN 7.94 present their "
+            "content with no elaboration at all &mdash; seven words, "
+            "stated and then restated once in closing, trusting the "
+            "reader to recognize their significance from context alone."]),
+        ("Set up as an immediate pair with AN 7.94", [
+            "This discourse's entire function is to set up its own "
+            "negation at AN 7.94, the very next discourse and the final "
+            "one in this chapter &mdash; a bad-then-good pairing that "
+            "closes this chapter by presenting the same seven-item "
+            "structure from both directions in immediate succession."]),
+    ],
+    terms=[
+        ("asaddhamma",
+         "&ldquo;a bad quality&rdquo;, more literally &ldquo;not a true "
+         "quality&rdquo; &mdash; this discourse's own title, naming the "
+         "negative counterpart to saddhamma."),
+        ("assaddho, ahirīko, anottappī",
+         "&ldquo;faithless, shameless, imprudent&rdquo; &mdash; the first "
+         "three of the seven bad qualities, negating faith, conscience, "
+         "and prudence."),
+        ("appassuto, kusīto",
+         "&ldquo;unlearned, lazy&rdquo; &mdash; the fourth and fifth "
+         "items, negating learning and energy."),
+        ("muṭṭhassati, duppañño",
+         "&ldquo;unmindful, witless&rdquo; &mdash; the sixth and seventh "
+         "items, negating mindfulness and wisdom."),
+        ("saddha, hirī, ottappa, bahussuta, āraddhavīriya, sati, paññā",
+         "&ldquo;faith, conscience, prudence, learning, energy, "
+         "mindfulness, wisdom&rdquo; &mdash; the positive list this "
+         "discourse's seven bad qualities negate item for item, already "
+         "met at AN 7.25, 7.43, and 7.67."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven bad qualities"),
+        ("p", "&sect;1", "an7.93:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven bad qualities does this discourse name?",
+         "opts": [
+             "The seven planes of consciousness",
+             "Faithless, shameless, imprudent, unlearned, lazy, unmindful, "
+             "and witless",
+             "The seven fires",
+             "The seven undeclared points"],
+         "correct": 1,
+         "expl": "A bare list of seven negative qualities, with no "
+                 "elaboration."},
+        {"q": "According to the guide, what positive list does this "
+              "discourse negate item for item?",
+         "opts": [
+             "The four absorptions",
+             "The seven-quality list already met at AN 7.25, 7.43, and "
+             "7.67 — faith, conscience, prudence, learning, energy, "
+             "mindfulness, wisdom",
+             "The seven treasures of a wheel-turning monarch",
+             "The seven fetters"],
+         "correct": 1,
+         "expl": "The exact negation, in the same order, of a list this "
+                 "book has met three times before."},
+        {"q": "How is this discourse's content presented?",
+         "opts": [
+             "Embedded in an extended narrative",
+             "As a bare list with no elaboration, narrative, or "
+             "explanation of any item",
+             "As a set of verses",
+             "As a dialogue with a brahmin"],
+         "correct": 1,
+         "expl": "Seven words stated plainly, unlike AN 7.25 and 7.67's "
+                 "narrative or simile treatments of the positive version."},
+        {"q": "What discourse immediately follows, presenting the exact "
+              "positive counterpart to this discourse's list?",
+         "opts": ["AN 7.85", "AN 7.94", "AN 7.65", "AN 7.25"],
+         "correct": 1,
+         "expl": "AN 7.94, closing this chapter with the positive mirror "
+                 "of this discourse's seven bad qualities."},
+        {"q": "According to the guide, what is this discourse's overall "
+              "function within this chapter?",
+         "opts": [
+             "A standalone teaching unconnected to anything else",
+             "Setting up its own negation at AN 7.94, forming an "
+             "immediate bad-then-good pair closing this chapter",
+             "Correcting an error in an earlier discourse",
+             "Introducing an entirely new topic unrelated to this book's "
+             "recurring lists"],
+         "correct": 1,
+         "expl": "A deliberate pairing with the discourse immediately "
+                 "following it."},
+        {"q": "Which item negates &ldquo;energy&rdquo; (āraddhavīriya) "
+              "from the positive list?",
+         "opts": ["Unmindful", "Lazy (kusīto)", "Witless", "Shameless"],
+         "correct": 1,
+         "expl": "The fifth item in both lists, negating energetic effort "
+                 "with laziness."},
+    ],
+    marginalia=[
+        ("Seven, negated", [
+            "faithless, shameless,",
+            "imprudent, unlearned,",
+            "lazy, unmindful, witless",
+        ]),
+        ("A familiar list, mirrored", [
+            "the exact negation",
+            "of AN 7.25's own",
+            "seven qualities, item for item",
+        ]),
+        ("Set up for its pair", [
+            "no elaboration here —",
+            "just seven words,",
+            "answered next by their opposite",
+        ]),
+        ("Cross-references", [
+            "AN 7.92 &middot; earlier, closing the set of eight wordplay "
+            "discourses",
+            "AN 7.94 &middot; next, this discourse's exact positive "
+            "counterpart, closing this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.93/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.92.html">AN 7.92 &middot; A Perfected One</a> '
+        "&mdash; previous.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 7.94 — Saddhammasutta
+#
+# Closes ch.9 Samaṇavagga -- the last of the standard-format chapters in AN
+# 7's Second Fifty. Only the two megachapters remain: ch.10 Āhuneyyavagga
+# (7.95-614) and ch.11 Rāgapeyyāla (7.615-1124). Per the standing lesson
+# from AN 7.20 (see the note above ch.3): the `further` list below points
+# only backward, never forward to AN 7.95, since ch.10 has not been written.
+# --------------------------------------------------------------------------- #
+page(
+    94, "Saddhamma", "Good Qualities",
+    vagga=VAGGA_9,
+    meta_title="AN 7.94 — Good Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saddhammasutta, closing this chapter and the last of AN 7's "
+        "standard-format chapters with the seven-quality list this book "
+        "has returned to repeatedly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single-sentence bare list, the exact positive mirror "
+                 "of AN 7.93 immediately before it"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter, and the standard-format chapters", "The "
+                                                                    "last "
+                                                                    "discourse "
+                                                                    "of "
+                                                                    "Samaṇavagga, "
+                                                                    "and "
+                                                                    "the "
+                                                                    "final "
+                                                                    "standard, "
+                                                                    "roughly "
+                                                                    "ten-"
+                                                                    "discourse "
+                                                                    "chapter "
+                                                                    "before "
+                                                                    "AN "
+                                                                    "7's "
+                                                                    "two "
+                                                                    "remaining "
+                                                                    "megachapters"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closing this chapter on a familiar, "
+                       "recurring note"),
+    ],
+    why=(
+        "AN 7.94 closes this chapter with the seven-quality list this "
+        "book has returned to repeatedly &mdash; faithful, conscientious, "
+        "prudent, learned, energetic, mindful, and wise &mdash; the exact "
+        "positive mirror of AN 7.93's seven bad qualities immediately "
+        "before it, and the final discourse before AN 7's two remaining "
+        "megachapters."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are seven good qualities: being faithful, "
+            "conscientious, prudent, learned, energetic, mindful, and "
+            "wise &mdash; the exact positive counterpart to AN 7.93's "
+            "seven bad qualities, stated with the same bare economy."]),
+        ("A familiar list, returned to one final time", [
+            "This is the fourth appearance in this book of the same "
+            "seven-quality list first met at AN 7.25, restated at AN "
+            "7.43, and mapped onto a citadel's seven defenses at AN 7.67 "
+            "&mdash; here given its plainest, most unadorned statement "
+            "yet, immediately after its own negation was spelled out "
+            "explicitly for the first time at AN 7.93."]),
+        ("Completing the bad-then-good pair", [
+            "Read together, AN 7.93 and AN 7.94 form a complete "
+            "negative-positive pair, each of the seven items answered by "
+            "its exact opposite in the same order: faithless answered by "
+            "faithful, shameless by conscientious, imprudent by prudent, "
+            "unlearned by learned, lazy by energetic, unmindful by "
+            "mindful, witless by wise."]),
+        ("Closing this chapter, and the standard chapters of AN 7", [
+            "With this discourse, Samaṇavagga closes, and with it the "
+            "last of AN 7's standard-length chapters &mdash; nine "
+            "chapters of roughly ten discourses each, from Dhanavagga at "
+            "AN 7.1 through to here. What remains of AN 7 is two "
+            "megachapters: Āhuneyyavagga (AN 7.95-614) and Rāgapeyyāla (AN "
+            "7.615-1124), together spanning well over a thousand further "
+            "discourses compressed into a small number of pages through "
+            "peyyāla merging."]),
+    ],
+    terms=[
+        ("saddhamma",
+         "&ldquo;a good quality&rdquo;, more literally &ldquo;a true "
+         "quality&rdquo; &mdash; this discourse's own title, naming the "
+         "positive counterpart to AN 7.93's asaddhamma."),
+        ("saddho, hirimā, ottappī",
+         "&ldquo;faithful, conscientious, prudent&rdquo; &mdash; the "
+         "first three of the seven good qualities, answering AN 7.93's "
+         "faithless, shameless, and imprudent."),
+        ("bahussuto, āraddhavīriyo",
+         "&ldquo;learned, energetic&rdquo; &mdash; the fourth and fifth "
+         "items, answering AN 7.93's unlearned and lazy."),
+        ("satimā, paññavā",
+         "&ldquo;mindful, wise&rdquo; &mdash; the sixth and seventh "
+         "items, answering AN 7.93's unmindful and witless, and matching "
+         "the same list already met at AN 7.25, 7.43, and 7.67."),
+        ("Āhuneyyavagga, Rāgapeyyāla",
+         "the two remaining chapters of AN 7's Second Fifty (AN 7.95-614 "
+         "and AN 7.615-1124), both megachapters compressed through "
+         "peyyāla merging, still to be written."),
+    ],
+    text_intro=(
+        "The discourse in full, a single bare list closing this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven good qualities"),
+        ("p", "&sect;1", "an7.94:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What seven good qualities does this discourse name?",
+         "opts": [
+             "Wealthy, famous, powerful, tall, strong, swift, and clever",
+             "Faithful, conscientious, prudent, learned, energetic, "
+             "mindful, and wise",
+             "The seven treasures of a wheel-turning monarch",
+             "The seven awakening factors"],
+         "correct": 1,
+         "expl": "The exact positive counterpart to AN 7.93's seven bad "
+                 "qualities."},
+        {"q": "How many times has this exact seven-quality list now "
+              "appeared in this book, counting this discourse?",
+         "opts": [
+             "Once, only here",
+             "Four times — also at AN 7.25, AN 7.43, and AN 7.67",
+             "Twice",
+             "Ten times"],
+         "correct": 1,
+         "expl": "A recurring list this book returns to at several points, "
+                 "in different forms."},
+        {"q": "How does this discourse relate to AN 7.93 immediately "
+              "before it?",
+         "opts": [
+             "No relation at all",
+             "It forms a complete negative-positive pair, each of the "
+             "seven items answered by its exact opposite in the same "
+             "order",
+             "It contradicts AN 7.93's list",
+             "It repeats AN 7.93's list unchanged"],
+         "correct": 1,
+         "expl": "Faithless/faithful, shameless/conscientious, and so on "
+                 "through all seven pairs."},
+        {"q": "What does this discourse close, according to the guide?",
+         "opts": [
+             "Only this individual discourse",
+             "This chapter, and the last of AN 7's standard-length "
+             "chapters before its two remaining megachapters",
+             "The entire Aṅguttara Nikāya",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "The end of nine standard chapters, with two large "
+                 "peyyāla-compressed chapters still ahead."},
+        {"q": "What two chapters remain to complete AN 7 after this "
+              "discourse, according to the guide?",
+         "opts": [
+             "No chapters remain; AN 7 is complete",
+             "Āhuneyyavagga (AN 7.95-614) and Rāgapeyyāla (AN 7.615-1124), "
+             "both compressed through peyyāla merging",
+             "Two more standard ten-discourse chapters",
+             "A single remaining chapter"],
+         "correct": 1,
+         "expl": "Two megachapters spanning well over a thousand further "
+                 "discourses, still to be written."},
+        {"q": "Which item answers AN 7.93's &ldquo;lazy&rdquo; (kusīto)?",
+         "opts": ["Mindful", "Energetic (āraddhavīriyo)", "Wise",
+                  "Conscientious"],
+         "correct": 1,
+         "expl": "The fifth item in both lists, energy answering laziness."},
+    ],
+    marginalia=[
+        ("Seven, restored", [
+            "faithful, conscientious,",
+            "prudent, learned, energetic,",
+            "mindful, wise",
+        ]),
+        ("A pair completed", [
+            "each bad quality",
+            "answered here by",
+            "its exact positive opposite",
+        ]),
+        ("Nine chapters, closed", [
+            "the last standard chapter —",
+            "two megachapters remain,",
+            "compressed through peyyāla",
+        ]),
+        ("Cross-references", [
+            "AN 7.93 &middot; previous, this discourse's exact negative "
+            "counterpart",
+            "AN 7.25 &middot; earlier, this same seven-quality list's "
+            "first appearance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an7.94/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-7.93.html">AN 7.93 &middot; Bad Qualities</a> '
+        "&mdash; previous.",
+    ],
+)
