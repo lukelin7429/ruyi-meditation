@@ -5788,3 +5788,1965 @@ page(
     ],
     next=("an-8.30.html", "AN 8.30 &middot; Anuruddha and the Great Thoughts"),
 )
+
+
+VAGGA_4 = "<em>Dānavagga</em> &mdash; the fourth chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.31 — Paṭhamadānasutta — opens ch.4 Dānavagga. an-8.30.html (existing)
+# sits before this chapter; its own next= stays pointed at an-8.53.html for
+# now (nearest already-published page) until ch.6 splices that page in too.
+# --------------------------------------------------------------------------- #
+page(
+    31, "Paṭhamadāna", "Giving (1st)",
+    vagga=VAGGA_4,
+    meta_title="AN 8.31 — Giving (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamadānasutta, opening a new chapter with eight different "
+        "motives behind a gift, ranging from insult and fear through "
+        "reciprocity and reputation to giving as an adornment of the mind. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item list of motives, with no evaluative "
+                 "ranking or commentary attached to any of them"),
+        ("Length", "under 1 minute to read"),
+        ("A new chapter on giving, opening without judgment", "This opens "
+                                                               "Dānavagga, "
+                                                               "the Chapter "
+                                                               "on Giving, "
+                                                               "but its own "
+                                                               "first "
+                                                               "discourse "
+                                                               "simply "
+                                                               "catalogs "
+                                                               "motives "
+                                                               "without "
+                                                               "ranking them "
+                                                               "from worst to "
+                                                               "best"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief and "
+                       "purely descriptive, though several of its eight "
+                       "motives are unflattering"),
+    ],
+    why=(
+        "AN 8.31 opens a new chapter by naming eight different motives that "
+        "lead someone to give a gift &mdash; after insulting the recipient, "
+        "out of fear, out of reciprocity already received or expected, "
+        "because giving is simply thought good, out of social obligation, "
+        "for reputation, or as an adornment for the mind &mdash; without "
+        "ranking any of the eight as better or worse than the others."),
+    guide=[
+        ("The teaching in one sentence", [
+            "People give gifts for eight different reasons &mdash; after "
+            "insulting the recipient, out of fear, out of reciprocity "
+            "already received or hoped for, because giving is simply "
+            "thought good, out of a sense of social obligation, for "
+            "reputation, or to adorn and equip the mind &mdash; and this "
+            "discourse simply names all eight without ranking them."]),
+        ("From hostile to reflective, without commentary", [
+            "The list moves, roughly, from the least admirable motive "
+            "(giving while insulting the recipient, or out of plain fear) "
+            "through transactional motives (reciprocity given or expected) "
+            "to more reflective ones (thinking giving is simply good, "
+            "honoring family obligation, seeking reputation, or treating "
+            "giving as equipment for the mind) &mdash; but the discourse "
+            "itself offers no verdict on any of them."]),
+        ("A catalog opening a chapter, not a conclusion", [
+            "Rather than closing this chapter's exploration of giving with "
+            "a final judgment, this discourse opens it by simply mapping "
+            "the range of motives that actually drive people to give, "
+            "setting up the more evaluative discourses on giving that "
+            "follow later in this same chapter."]),
+        ("The final motive: giving as equipment for the mind", [
+            "The list's last item stands apart from the rest: giving "
+            "&ldquo;as an adornment and requisite for the mind&rdquo; "
+            "treats generosity itself as a form of inner cultivation, not "
+            "a means to any external end &mdash; reputation, reciprocity, "
+            "or obligation &mdash; that the other seven motives all still "
+            "point toward."]),
+    ],
+    terms=[
+        ("dānāni",
+         "&ldquo;gifts&rdquo; &mdash; this discourse's own title term, here "
+         "distinguished by the motive behind each of the eight, not by "
+         "size or recipient."),
+        ("sāsaṅkena vā deti",
+         "&ldquo;gives out of fear&rdquo; &mdash; the second motive, giving "
+         "under a sense of threat or obligation rather than free choice."),
+        ("adāsi me'ti deti, dassati me'ti deti",
+         "&ldquo;gives thinking, &lsquo;they gave to me&rsquo; ... "
+         "&lsquo;they'll give to me&rsquo;&rdquo; &mdash; the third and "
+         "fourth motives, both forms of reciprocity, past and anticipated."),
+        ("sādhu dānan'ti deti",
+         "&ldquo;gives thinking, &lsquo;it's good to give&rsquo;&rdquo; "
+         "&mdash; the fifth motive, a general moral conviction rather than "
+         "any personal transaction."),
+        ("cittālaṅkāraparikkhāranti deti",
+         "&ldquo;gives thinking, &lsquo;this is an adornment and requisite "
+         "for the mind&rsquo;&rdquo; &mdash; the eighth and final motive, "
+         "treating generosity as inner cultivation rather than a means to "
+         "an external end."),
+    ],
+    text_intro=(
+        "The discourse in full: eight motives behind a gift, named without "
+        "ranking. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight motives behind a gift"),
+        ("p", "&sect;1", "an8.31:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What does this discourse do with its eight motives for "
+              "giving?",
+         "opts": [
+             "Ranks them clearly from worst to best",
+             "Simply names all eight without ranking or evaluating any of "
+             "them",
+             "Condemns all eight as equally wrong",
+             "Praises only the first motive"],
+         "correct": 1,
+         "expl": "A bare catalog, opening this chapter without a verdict."},
+        {"q": "What are two of the more transactional motives named?",
+         "opts": [
+             "Giving purely at random",
+             "Giving because 'they gave to me' or because 'they'll give to "
+             "me'",
+             "Giving only to family members",
+             "Giving only on religious holidays"],
+         "correct": 1,
+         "expl": "Reciprocity already received and reciprocity anticipated, "
+                 "the third and fourth motives."},
+        {"q": "What is the eighth and final motive named?",
+         "opts": [
+             "Giving purely for tax benefit",
+             "Giving thinking 'this is an adornment and requisite for the "
+             "mind'",
+             "Giving only under legal compulsion",
+             "Giving to win a public contest"],
+         "correct": 1,
+         "expl": "Giving treated as inner cultivation, not a means to an "
+                 "external end."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Gahapativagga, the Chapter on Householders",
+             "Dānavagga, the Chapter on Giving",
+             "Mahāvagga, the Great Chapter",
+             "Rāgapeyyāla"],
+         "correct": 1,
+         "expl": "A new chapter, opened with a motive catalog rather than a "
+                 "final judgment."},
+        {"q": "According to the guide, how does the list's rough order "
+              "move?",
+         "opts": [
+             "Randomly, with no discernible pattern",
+             "Roughly from less admirable motives (insult, fear) through "
+             "transactional ones to more reflective ones",
+             "From best to worst",
+             "Alphabetically by motive name"],
+         "correct": 1,
+         "expl": "A loose gradient, though the discourse itself offers no "
+                 "explicit ranking."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "book."},
+    ],
+    marginalia=[
+        ("Eight motives, unranked", [
+            "after insult, out of fear,",
+            "reciprocity, obligation,",
+            "reputation, or mind's adornment",
+        ]),
+        ("Opening, not concluding", [
+            "no verdict given here —",
+            "a map of real motives,",
+            "setting up what follows",
+        ]),
+        ("The mind's own equipment", [
+            "the eighth motive stands apart:",
+            "giving as inner cultivation,",
+            "not a means to any external end",
+        ]),
+        ("Cross-references", [
+            "AN 8.30 &middot; earlier, closing the previous chapter",
+            "AN 8.32 &middot; next, the same theme in four lines of verse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.31/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.30.html">AN 8.30 &middot; Anuruddha and the Great Thoughts</a> '
+        "&mdash; earlier, closing the previous chapter.",
+        '<a href="an-8.32.html">AN 8.32 &middot; Giving (2nd)</a> &mdash; next.',
+    ],
+    prev=("an-8.30.html", "AN 8.30 &middot; Anuruddha and the Great Thoughts"),
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.32 — Dutiyadānasutta
+# --------------------------------------------------------------------------- #
+page(
+    32, "Dutiyadāna", "Giving (2nd)",
+    vagga=VAGGA_4,
+    meta_title="AN 8.32 — Giving (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyadānasutta, a single four-line verse naming faith, "
+        "conscience, and skillful giving as the path true persons follow "
+        "toward the heavenly realm — the shortest discourse in this "
+        "chapter so far. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single four-line verse, with no prose framing at all"),
+        ("Length", "a few seconds to read"),
+        ("The shortest discourse in this chapter", "Unlike AN 8.31's "
+                                                    "eight-item prose "
+                                                    "catalog, this "
+                                                    "discourse's entire "
+                                                    "content is four lines "
+                                                    "of verse naming only "
+                                                    "three qualities, not "
+                                                    "eight, despite sharing "
+                                                    "AN 8.31's title "
+                                                    "numbering"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "enough to read in seconds"),
+    ],
+    why=(
+        "AN 8.32 names, in a single verse, the qualities true persons "
+        "follow &mdash; faith, conscience, and skillful giving &mdash; as "
+        "the path of the gods leading to the heavenly realm."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Faith, conscience, and skillful giving are the qualities that "
+            "true persons follow, said to constitute the path of the gods "
+            "leading to the heavenly realm."]),
+        ("Three qualities, not eight", [
+            "Despite carrying the &ldquo;2nd&rdquo; in a title pair with AN "
+            "8.31, this discourse's actual content names only three "
+            "qualities &mdash; faith, conscience, and skillful giving "
+            "&mdash; not eight. Like AN 8.16 and AN 8.36 elsewhere in this "
+            "book, it belongs to the Book of the Eights by collection "
+            "placement, not by presenting an eightfold list."]),
+        ("A verse without prose framing", [
+            "Where nearly every other discourse in this book opens with at "
+            "least a brief prose setting or address to the mendicants, this "
+            "one is entirely verse, with no narrative frame at all &mdash; "
+            "the shortest and most condensed discourse met in this chapter "
+            "so far."]),
+        ("The path of the gods", [
+            "The verse's closing image, &ldquo;the path of the gods, which "
+            "leads to the heavenly realm,&rdquo; names a specific "
+            "destination rather than describing awakening itself &mdash; a "
+            "modest, this-worldly goal appropriate to a verse about "
+            "ordinary virtues like faith, conscience, and giving."]),
+    ],
+    terms=[
+        ("saddhā, hiri, dānañca",
+         "&ldquo;faith, conscience, and giving&rdquo; &mdash; the three "
+         "qualities this brief verse names, sharing the second and third "
+         "terms with values met throughout this book's blocking-and-"
+         "reversal lists."),
+        ("sappurisā",
+         "&ldquo;true persons&rdquo; &mdash; those who follow these three "
+         "qualities, a term this book applies elsewhere to figures like "
+         "Hatthaka of Āḷavī."),
+        ("devayānaṁ",
+         "&ldquo;the path of the gods&rdquo; &mdash; the verse's own name "
+         "for the destination these three qualities lead to."),
+        ("saggagāmī",
+         "&ldquo;leads to the heavenly realm&rdquo; &mdash; the verse's "
+         "closing destination, a modest, this-worldly goal rather than "
+         "final awakening."),
+        ("dānāni",
+         "&ldquo;gifts&rdquo; &mdash; the shared title root linking this "
+         "discourse to AN 8.31, despite their otherwise unrelated content "
+         "and scale."),
+    ],
+    text_intro=(
+        "The discourse in full: a single four-line verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The verse"),
+        ("p", "&sect;1", "an8.32:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many qualities does this discourse's verse actually "
+              "name?",
+         "opts": [
+             "Eight, matching this book's numerical theme",
+             "Three — faith, conscience, and skillful giving",
+             "Five", "None; it is purely descriptive"],
+         "correct": 1,
+         "expl": "A discourse included by collection placement, not by "
+                 "presenting a clean eightfold list, like AN 8.16 and AN "
+                 "8.36 elsewhere in this book."},
+        {"q": "What form does this entire discourse take?",
+         "opts": [
+             "A long prose narrative",
+             "A single four-line verse, with no prose framing at all",
+             "A dialogue between two characters",
+             "A list of monastic rules"],
+         "correct": 1,
+         "expl": "The shortest and most condensed discourse in this chapter "
+                 "so far."},
+        {"q": "What destination does the verse name for those who follow "
+              "faith, conscience, and giving?",
+         "opts": [
+             "Final awakening in this very life",
+             "The path of the gods, leading to the heavenly realm",
+             "Rebirth as a wealthy human",
+             "No destination is named"],
+         "correct": 1,
+         "expl": "A modest, this-worldly goal, appropriate to a verse about "
+                 "ordinary virtues."},
+        {"q": "How does this discourse relate to AN 8.31, which it is "
+              "titled as a pair with?",
+         "opts": [
+             "Identical content, just condensed",
+             "Sharing only the title root 'giving' — otherwise unrelated in "
+             "content and scale",
+             "A direct contradiction of AN 8.31",
+             "An expanded version of AN 8.31"],
+         "correct": 1,
+         "expl": "A shared title, but genuinely different content, like AN "
+                 "8.27/8.28's 'Powers' pair."},
+        {"q": "Who is said to follow these three qualities?",
+         "opts": [
+             "Only ordained monastics", "True persons (sappurisā)",
+             "Only kings and nobles", "Only the very wealthy"],
+         "correct": 1,
+         "expl": "A term this book applies elsewhere to lay figures like "
+                 "Hatthaka of Āḷavī."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare verse with no narrative frame at all."},
+    ],
+    marginalia=[
+        ("Three qualities, one verse", [
+            "faith, conscience,",
+            "and skillful giving —",
+            "the path true persons follow",
+        ]),
+        ("Not eight, despite the title", [
+            "'Giving (2nd)' in name,",
+            "but only three qualities named —",
+            "placement, not a matching count",
+        ]),
+        ("A modest, this-worldly goal", [
+            "not awakening itself,",
+            "but the path of the gods —",
+            "the heavenly realm ahead",
+        ]),
+        ("Cross-references", [
+            "AN 8.31 &middot; previous, eight unranked motives for giving",
+            "AN 8.33 &middot; next, a different eightfold list of reasons "
+            "to give",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.32/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.31.html">AN 8.31 &middot; Giving (1st)</a> &mdash; previous.',
+        '<a href="an-8.33.html">AN 8.33 &middot; Reasons to Give</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.33 — Dānavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    33, "Dānavatthu", "Reasons to Give",
+    vagga=VAGGA_4,
+    meta_title="AN 8.33 — Reasons to Give | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dānavatthusutta, an eight-item list of grounds for giving that "
+        "overlaps only partially with AN 8.31's own eight motives, ranging "
+        "from bias and cowardice through family tradition to giving as "
+        "equipment for the mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item list of grounds for giving, unranked, "
+                 "structurally similar to AN 8.31 but only partially "
+                 "overlapping in content"),
+        ("Length", "under 1 minute to read"),
+        ("Not a repeat of AN 8.31", "Both discourses list eight unranked "
+                                    "grounds for giving, but this list "
+                                    "opens with the four biases "
+                                    "(favoritism, hostility, stupidity, "
+                                    "cowardice) that AN 8.31 doesn't "
+                                    "mention at all, sharing only family "
+                                    "tradition and the closing item, giving "
+                                    "as equipment for the mind"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and descriptive, best read alongside AN 8.31 to see "
+                       "where the two lists genuinely overlap"),
+    ],
+    why=(
+        "AN 8.33 names eight grounds for giving &mdash; out of favoritism, "
+        "hostility, stupidity, or cowardice, out of family tradition, in "
+        "hope of a heavenly rebirth, for the mental clarity and joy giving "
+        "itself produces, or as equipment for the mind &mdash; overlapping "
+        "with AN 8.31's own eight motives in only a couple of places."),
+    guide=[
+        ("The teaching in one sentence", [
+            "People give for eight different grounds &mdash; the four "
+            "biases of favoritism, hostility, stupidity, and cowardice; "
+            "family tradition; hope of heavenly rebirth; the mental clarity "
+            "and joy giving produces; or as equipment for the mind &mdash; "
+            "named here without ranking, much as AN 8.31 named its own "
+            "different eight."]),
+        ("Four biases, opening a different list", [
+            "This discourse's own first four grounds &mdash; favoritism "
+            "(chanda), hostility (dosa), stupidity (moha), and cowardice "
+            "(bhaya) &mdash; are the four classic biases (agati) that "
+            "corrupt judgment elsewhere in this literature, applied here "
+            "specifically to the decision of whether and what to give, a "
+            "starting point AN 8.31's list doesn't share at all."]),
+        ("Where the two lists genuinely converge", [
+            "Despite their different openings, this discourse and AN 8.31 "
+            "converge on two points: both name family or social obligation "
+            "as a motive (framed here as honoring one's father and "
+            "grandfather's own practice of giving), and both close with the "
+            "identical final item, giving as &ldquo;an adornment and "
+            "requisite for the mind.&rdquo;"]),
+        ("Two lists, one honest catalog of human motive", [
+            "Read together, AN 8.31 and AN 8.33 don't contradict each "
+            "other; they simply survey the same broad territory &mdash; why "
+            "people actually give &mdash; from two different angles, "
+            "neither claiming to be exhaustive, both landing on the same "
+            "final, most reflective motive."]),
+    ],
+    terms=[
+        ("chandā, dosā, mohā, bhayā",
+         "&ldquo;out of favoritism, hostility, stupidity, or "
+         "cowardice&rdquo; &mdash; this discourse's own opening four "
+         "grounds, the four classic biases (agati) applied here to giving."),
+        ("pitupitāmahaṁ",
+         "&ldquo;my father and my father's father&rdquo; &mdash; the "
+         "family-tradition ground, framed here as inherited practice "
+         "rather than personal conviction."),
+        ("cittaṁ pasīdati, attamano hoti",
+         "&ldquo;my mind becomes clear, and I become happy and "
+         "joyful&rdquo; &mdash; a ground focused on the immediate inner "
+         "effect of giving itself, distinct from any external outcome."),
+        ("cittālaṅkāraparikkhāranti",
+         "&ldquo;this is an adornment and requisite for the mind&rdquo; "
+         "&mdash; the eighth and closing ground, identical in wording to AN "
+         "8.31's own final item."),
+        ("dānavatthūni",
+         "&ldquo;grounds for giving&rdquo; &mdash; this discourse's own "
+         "title term, distinct from AN 8.31's simple dānāni, 'gifts.'"),
+    ],
+    text_intro=(
+        "The discourse in full: eight grounds for giving, overlapping only "
+        "partly with AN 8.31's own eight. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight grounds for giving"),
+        ("p", "&sect;1", "an8.33:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What four grounds open this discourse's list?",
+         "opts": [
+             "Wealth, status, education, and health",
+             "Favoritism, hostility, stupidity, and cowardice — the four "
+             "classic biases applied here to giving",
+             "Faith, effort, mindfulness, and wisdom",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "The agati, biases that corrupt judgment elsewhere in this "
+                 "literature, here applied to the decision to give."},
+        {"q": "According to the guide, where do this discourse and AN 8.31 "
+              "genuinely converge?",
+         "opts": [
+             "They share every single item",
+             "They converge on family/social obligation and the identical "
+             "closing item, giving as equipment for the mind",
+             "They share nothing at all",
+             "They converge only on the opening item"],
+         "correct": 1,
+         "expl": "Two overlapping points, despite otherwise different "
+                 "openings."},
+        {"q": "What ground focuses on the immediate inner effect of giving "
+              "itself?",
+         "opts": [
+             "Giving for public recognition",
+             "Giving because the mind becomes clear, happy, and joyful in "
+             "the act itself",
+             "Giving only to avoid punishment",
+             "Giving to settle a debt"],
+         "correct": 1,
+         "expl": "A ground distinct from any external outcome like "
+                 "reputation or rebirth."},
+        {"q": "How does the guide characterize the relationship between AN "
+              "8.31 and AN 8.33?",
+         "opts": [
+             "AN 8.33 corrects an error in AN 8.31",
+             "They survey the same broad territory of human motive from two "
+             "different angles, neither claiming to be exhaustive",
+             "They are strictly contradictory",
+             "AN 8.33 is simply a shorter summary of AN 8.31"],
+         "correct": 1,
+         "expl": "Two honest, non-exhaustive catalogs converging on the "
+                 "same reflective closing motive."},
+        {"q": "What is this discourse's own Pāli title term, and how does "
+              "it differ from AN 8.31's?",
+         "opts": [
+             "Identical titles",
+             "Dānavatthūni, 'grounds for giving,' distinct from AN 8.31's "
+             "simple dānāni, 'gifts'",
+             "This discourse has no Pāli title",
+             "The title means 'reasons to refuse giving'"],
+         "correct": 1,
+         "expl": "A related but distinct title, matching the related but "
+                 "distinct content."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.31 and 8.32's own lack of a "
+                 "stated setting."},
+    ],
+    marginalia=[
+        ("Four biases, first", [
+            "favoritism, hostility,",
+            "stupidity, cowardice —",
+            "applied here to giving itself",
+        ]),
+        ("Where the two lists meet", [
+            "family tradition, and",
+            "'an adornment for the mind' —",
+            "the only points AN 8.31 shares",
+        ]),
+        ("Two honest surveys", [
+            "not contradicting each other,",
+            "just different angles on",
+            "why people actually give",
+        ]),
+        ("Cross-references", [
+            "AN 8.32 &middot; previous, three qualities in a single verse",
+            "AN 8.34 &middot; next, a field simile for what makes a gift "
+            "fruitful",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.33/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.32.html">AN 8.32 &middot; Giving (2nd)</a> &mdash; previous.',
+        '<a href="an-8.34.html">AN 8.34 &middot; A Field</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.34 — Khettasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, "Khetta", "A Field",
+    vagga=VAGGA_4,
+    meta_title="AN 8.34 — A Field | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Khettasutta, mapping eight defects in a poor field and eight "
+        "virtues of a good one onto the noble eightfold path, reversed and "
+        "upright, as what makes a gift unfruitful or bountiful. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two paired similes — a poor field and a good one, each "
+                 "with eight factors — mapped onto the eightfold path "
+                 "reversed and upright, closing with an extended series of "
+                 "verses built on the word 'excellent'"),
+        ("Length", "~3 minutes to read"),
+        ("The eightfold path, mapped both ways", "This discourse gives the "
+                                                  "noble eightfold path in "
+                                                  "its wrong-view form as "
+                                                  "what makes a recipient "
+                                                  "unfruitful, and in its "
+                                                  "right-view form as what "
+                                                  "makes a recipient "
+                                                  "bountiful — a rare case "
+                                                  "of the same eightfold "
+                                                  "structure given both "
+                                                  "inverted and upright in a "
+                                                  "single discourse"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a clear "
+                       "double simile, followed by a verse sequence built "
+                       "almost entirely on repetitions of one word"),
+    ],
+    why=(
+        "AN 8.34 compares a poor field &mdash; full of mounds, ditches, "
+        "stones, and salt, without deep furrows or irrigation &mdash; to an "
+        "ascetic or brahmin with the eight wrong factors of the path, and a "
+        "good field &mdash; free of those defects, well irrigated and "
+        "bounded &mdash; to one with the eight right factors, closing with "
+        "verses that build an entire teaching on generosity around the "
+        "single word &ldquo;excellent.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as a field marred by mounds, ditches, stones, salt, "
+            "shallow furrows, and poor irrigation yields little from any "
+            "seed sown in it, a gift given to someone with wrong view, "
+            "purpose, speech, action, livelihood, effort, mindfulness, and "
+            "immersion is not very fruitful &mdash; while the same gift "
+            "given to someone with the eightfold path's right factors is "
+            "highly fruitful, like a well-tended field."]),
+        ("Eight defects, eight virtues, in the field itself", [
+            "The poor field has mounds and ditches, stones and gravel, "
+            "salinity, and shallow furrows, and lacks water inlets, "
+            "outlets, irrigation channels, and boundaries. The good field "
+            "simply lacks every one of those defects and has every one of "
+            "those provisions &mdash; the same eight factors, inverted."]),
+        ("The eightfold path, given both wrong and right", [
+            "The simile's real weight falls on its application: the "
+            "unfruitful recipient has wrong view, wrong purpose, wrong "
+            "speech, wrong action, wrong livelihood, wrong effort, wrong "
+            "mindfulness, and wrong immersion &mdash; the noble eightfold "
+            "path's own eight factors, each inverted &mdash; while the "
+            "fruitful recipient has the identical eight factors in their "
+            "upright, right form."]),
+        ("A closing verse sequence built on one word", [
+            "The discourse closes with an extended run of verses that "
+            "repeat the word &ldquo;excellent&rdquo; (bhaddaka) again and "
+            "again &mdash; excellent field, excellent seed, excellent "
+            "rainfall, excellent growth, excellent food, excellent ethics "
+            "&mdash; building toward &ldquo;the excellence of "
+            "extinguishment&rdquo; as the culmination of the entire "
+            "sequence."]),
+    ],
+    terms=[
+        ("khettaṁ",
+         "&ldquo;field&rdquo; &mdash; this discourse's own title term and "
+         "central image, mapped onto a gift's recipient."),
+        ("micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, "
+         "micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi",
+         "the eight factors of the noble eightfold path, each inverted, "
+         "describing the recipient in whom a gift bears little fruit."),
+        ("sammādiṭṭhi ... sammāsamādhi",
+         "the same eight factors of the noble eightfold path, in their "
+         "upright form, describing the recipient in whom a gift is "
+         "highly fruitful and bountiful."),
+        ("khettasampadā ca bījasampadā ca vuṭṭhisampadā ca",
+         "&ldquo;an excellent field, an excellent seed, and excellent "
+         "rainfall&rdquo; &mdash; the three conditions the closing verses "
+         "name as jointly producing an excellent harvest."),
+        ("nibbānasampadā",
+         "&ldquo;the excellence of extinguishment&rdquo; &mdash; the "
+         "closing verses' own culmination, the final &ldquo;excellent&rdquo; "
+         "in a sequence that builds from agricultural imagery to complete "
+         "freedom."),
+    ],
+    text_intro=(
+        "The discourse in full: a poor field and a good one, mapped onto "
+        "the eightfold path reversed and upright, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A poor field, and an unfruitful recipient"),
+        ("p", "&sect;1", "an8.34:1.1-2.4"),
+        ("h3", "A good field, and a bountiful recipient"),
+        ("p", "&sect;2", "an8.34:3.1-4.4"),
+        ("h3", "Closing verses: a sequence of 'excellent'"),
+        ("p", "&sect;3", "an8.34:5.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What eight factors describe the recipient in whom a gift "
+              "bears little fruit?",
+         "opts": [
+             "The five hindrances plus three more",
+             "The noble eightfold path's own eight factors, each inverted "
+             "— wrong view through wrong immersion",
+             "Poverty, illness, and six other misfortunes",
+             "The seven factors of awakening, negated"],
+         "correct": 1,
+         "expl": "A simile whose real weight falls on mapping the "
+                 "eightfold path onto the recipient, inverted."},
+        {"q": "What describes the recipient in whom a gift is highly "
+              "fruitful and bountiful?",
+         "opts": [
+             "Wealth and social standing alone",
+             "The identical eight factors of the noble eightfold path, in "
+             "their upright, right form",
+             "Physical beauty",
+             "A completely different set of eight qualities"],
+         "correct": 1,
+         "expl": "The same eightfold structure as the unfruitful case, now "
+                 "given upright."},
+        {"q": "What eight defects mark the poor field in this discourse's "
+              "opening simile?",
+         "opts": [
+             "Drought, flooding, and six other weather problems",
+             "Mounds and ditches, stones and gravel, salinity, shallow "
+             "furrows, and lacking irrigation provisions and boundaries",
+             "Wrong crop selection alone",
+             "Poor soil color"],
+         "correct": 1,
+         "expl": "Eight physical defects, mapped point for point onto the "
+                 "eightfold path's own wrong factors."},
+        {"q": "What word do the closing verses repeat throughout their "
+              "sequence?",
+         "opts": [
+             "'Impermanent'", "'Excellent' (bhaddaka)",
+             "'Suffering'", "'Empty'"],
+         "correct": 1,
+         "expl": "A word repeated across field, seed, rainfall, ethics, and "
+                 "finally extinguishment itself."},
+        {"q": "What does the verse sequence culminate in?",
+         "opts": [
+             "A description of a bountiful harvest alone",
+             "'The excellence of extinguishment' — nibbānasampadā",
+             "A warning against generosity",
+             "A description of royal wealth"],
+         "correct": 1,
+         "expl": "The final 'excellent' in a sequence building from "
+                 "agriculture to complete freedom."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight defects, eight virtues", [
+            "mounds, ditches, stones, salt —",
+            "or none of these, well irrigated —",
+            "the same eight, inverted",
+        ]),
+        ("The eightfold path, both ways", [
+            "wrong view through wrong immersion —",
+            "or right view through right immersion —",
+            "the same structure, reversed and upright",
+        ]),
+        ("A sequence built on one word", [
+            "excellent field, seed, rainfall —",
+            "excellent ethics, excellent gift —",
+            "culminating in extinguishment itself",
+        ]),
+        ("Cross-references", [
+            "AN 8.33 &middot; previous, eight grounds for giving",
+            "AN 8.35 &middot; next, eight rebirths a gift can lead to",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.34/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.33.html">AN 8.33 &middot; Reasons to Give</a> &mdash; previous.',
+        '<a href="an-8.35.html">AN 8.35 &middot; Rebirth by Giving</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.35 — Dānūpapattisutta
+# --------------------------------------------------------------------------- #
+page(
+    35, "Dānūpapatti", "Rebirth by Giving",
+    vagga=VAGGA_4,
+    meta_title="AN 8.35 — Rebirth by Giving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dānūpapattisutta, on eight rebirth destinies a gift-giver's own "
+        "closing wish can produce, from favored human company up through "
+        "successive heavens, and why only ethical people can succeed at "
+        "any of them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight parallel cases, each pairing generosity expecting "
+                 "something back with a specific rebirth wish, compressed "
+                 "in the middle by the source's own internal ellipsis"),
+        ("Length", "~2 minutes to read"),
+        ("Eight destinies from one shared mechanism", "Despite naming eight "
+                                                       "different rebirth "
+                                                       "outcomes, every "
+                                                       "single one runs "
+                                                       "through the "
+                                                       "identical "
+                                                       "mechanism: giving "
+                                                       "while expecting "
+                                                       "something back, "
+                                                       "then settling on, "
+                                                       "stabilizing, and "
+                                                       "developing a "
+                                                       "specific rebirth "
+                                                       "wish"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "repeating structure across eight tiers, with a "
+                       "notable added condition at the very top"),
+    ],
+    why=(
+        "AN 8.35 traces eight destinies a gift-giver's own mental wish can "
+        "produce &mdash; rebirth among favored humans, then successively "
+        "among six tiers of gods culminating in the Divinity's host "
+        "&mdash; each following the identical mechanism of giving while "
+        "expecting something back and then fixing the mind on a specific "
+        "destination, though only for those of ethical conduct, and the "
+        "highest tier requiring freedom from desire as well."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A gift given while expecting something back, combined with a "
+            "settled, stabilized, developed wish for a specific rebirth, "
+            "produces that very rebirth &mdash; running through eight "
+            "successive tiers from favored human company up through six "
+            "levels of gods to the Divinity's host &mdash; but only for "
+            "the ethical, and the highest tier only for those free of "
+            "desire as well."]),
+        ("One mechanism, repeated eight times", [
+            "Every one of the eight cases follows an identical three-step "
+            "pattern: give expecting something back, hear of or see a "
+            "particular kind of favorable existence, then settle on, "
+            "stabilize, and develop the wish to be reborn there &mdash; the "
+            "wish itself, not merely the gift, is what the discourse "
+            "credits with producing the specific rebirth."]),
+        ("Eight tiers, ascending", [
+            "The destinies climb in sequence: favored human company first, "
+            "then the gods of the four great kings, the gods of the "
+            "thirty-three, the gods of Yama, the joyful gods, the gods who "
+            "love to create, the gods who control what is created by "
+            "others, and finally the Divinity's host &mdash; the same "
+            "sequence of heavens this book has already met by name at AN "
+            "8.36."]),
+        ("A recurring refrain, and one added condition at the top", [
+            "Each of the first seven cases closes with the identical "
+            "refrain: this succeeds only for the ethical, not the "
+            "unethical, because the heart's wish of an ethical person "
+            "succeeds through their own purity. The eighth and highest "
+            "case adds a further requirement found nowhere else in the "
+            "list: success here belongs only to those free of desire, not "
+            "those still governed by it."]),
+    ],
+    terms=[
+        ("sāpekho dānaṁ deti",
+         "&ldquo;gives expecting something back&rdquo; &mdash; the shared "
+         "starting condition of all eight cases, distinguishing this "
+         "discourse's giving from the disinterested motive named elsewhere "
+         "in this chapter."),
+        ("taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ vaḍḍheti",
+         "&ldquo;they settle on that thought, stabilize it, and develop "
+         "it&rdquo; &mdash; the mechanism the discourse credits with "
+         "actually producing the specific rebirth wished for."),
+        ("sīlavato taṁ hoti, no dussīlassa",
+         "&ldquo;this is only for those of ethical conduct, not for the "
+         "unethical&rdquo; &mdash; the refrain closing each of the first "
+         "seven cases, a necessary condition throughout."),
+        ("vītarāgassa, no sarāgassa",
+         "&ldquo;for those free of desire, not those with desire&rdquo; "
+         "&mdash; the additional condition attached only to the eighth and "
+         "highest destination, the Divinity's host."),
+        ("brahmakāyikānaṁ devānaṁ",
+         "&ldquo;the gods of the Divinity's host&rdquo; &mdash; the "
+         "eighth and highest destiny named, requiring both ethical purity "
+         "and freedom from desire."),
+    ],
+    text_intro=(
+        "The discourse in full: eight rebirth destinies, each following the "
+        "same mechanism of a gift-giver's own settled wish. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Rebirth among favored humans"),
+        ("p", "&sect;1", "an8.35:1.1-1.12"),
+        ("h3", "Rebirth among the gods of the four great kings"),
+        ("p", "&sect;2", "an8.35:2.1-2.9"),
+        ("h3", "Rebirth among five further tiers of gods"),
+        ("p", "&sect;3", "an8.35:3.1-3.13"),
+        ("h3", "Rebirth among the Divinity's host"),
+        ("p", "&sect;4", "an8.35:4.1-4.13"),
+    ],
+    quiz=[
+        {"q": "What three-step mechanism runs through all eight cases in "
+              "this discourse?",
+         "opts": [
+             "Giving anonymously, then forgetting about it entirely",
+             "Giving while expecting something back, then settling on, "
+             "stabilizing, and developing a wish for a specific rebirth",
+             "Giving only to monastics, never to laypeople",
+             "Giving once and never giving again"],
+         "correct": 1,
+         "expl": "The identical pattern repeated across all eight rebirth "
+                 "tiers."},
+        {"q": "What condition applies to all eight destinies alike?",
+         "opts": [
+             "Wealth is required in addition to giving",
+             "Success belongs only to those of ethical conduct, not the "
+             "unethical",
+             "Only monastics can achieve any of the eight destinies",
+             "No condition applies; the wish alone suffices"],
+         "correct": 1,
+         "expl": "A recurring refrain: the heart's wish of an ethical "
+                 "person succeeds through their own purity."},
+        {"q": "What additional condition applies only to the eighth and "
+              "highest destination?",
+         "opts": [
+             "Extreme wealth", "Freedom from desire, not merely ethical "
+                                "conduct",
+             "Royal birth", "Advanced age"],
+         "correct": 1,
+         "expl": "The Divinity's host requires vītarāga, freedom from "
+                 "desire, beyond the ethical purity required for the other "
+                 "seven."},
+        {"q": "What is the first of the eight destinies named?",
+         "opts": [
+             "The gods of the four great kings",
+             "Rebirth among favored, well-to-do humans",
+             "The Divinity's host directly",
+             "The animal realm"],
+         "correct": 1,
+         "expl": "The lowest and first tier, before the sequence ascends "
+                 "through six levels of gods."},
+        {"q": "How does this discourse's list of heavens relate to AN 8.36, "
+              "elsewhere in this chapter?",
+         "opts": [
+             "No relation at all",
+             "It names the same sequence of heavenly tiers this book meets "
+             "again by name at AN 8.36",
+             "It directly contradicts AN 8.36",
+             "AN 8.36 uses an entirely different cosmology"],
+         "correct": 1,
+         "expl": "The identical ascending sequence of heavens, met twice in "
+                 "this chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("One mechanism, eight tiers", [
+            "give expecting return,",
+            "settle and stabilize the wish —",
+            "the wish itself produces the rebirth",
+        ]),
+        ("Ascending through the heavens", [
+            "humans, then four great kings,",
+            "thirty-three, Yama, joyful,",
+            "creating, controlling, and Brahmā's host",
+        ]),
+        ("Purity, and at the top, desirelessness", [
+            "ethical conduct required",
+            "throughout — but the highest tier",
+            "demands freedom from desire too",
+        ]),
+        ("Cross-references", [
+            "AN 8.34 &middot; previous, a field simile for fruitful giving",
+            "AN 8.36 &middot; next, the same heavenly sequence named again "
+            "through giving, ethics, and meditation together",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.35/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.34.html">AN 8.34 &middot; A Field</a> &mdash; previous.',
+        '<a href="an-8.36.html">AN 8.36 &middot; Grounds for Making Merit</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.36 — Puññakiriyavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    36, "Puññakiriyavatthu", "Grounds for Making Merit",
+    vagga=VAGGA_4,
+    meta_title="AN 8.36 — Grounds for Making Merit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Puññakiriyavatthusutta, on three grounds for making merit — "
+        "giving, ethics, and meditation — and how varying degrees of the "
+        "first two alone determine rebirth across seven ascending tiers, "
+        "each ruled by a god who surpasses the rest in ten respects. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Three grounds named at the outset, then a graduated "
+                 "sequence of degrees of practice mapped onto seven "
+                 "successive rebirth tiers, compressed by internal "
+                 "ellipsis across most of the middle tiers"),
+        ("Length", "~2 minutes to read"),
+        ("Three grounds, not eight", "Despite its place in the Book of the "
+                                     "Eights, this discourse names only "
+                                     "three grounds for making merit; the "
+                                     "sevenfold tier structure that follows "
+                                     "is a different count again, neither "
+                                     "matching this book's numerical theme "
+                                     "directly"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "repeating structure across seven tiers, with named "
+                       "ruling gods worth tracking individually"),
+    ],
+    why=(
+        "AN 8.36 names three grounds for making merit &mdash; giving, "
+        "ethical conduct, and meditation &mdash; and traces what happens "
+        "when someone practices only the first two, at varying degrees of "
+        "intensity: a little produces rebirth among disadvantaged humans, a "
+        "moderate amount among well-off humans, and an extraordinary "
+        "degree among six successive tiers of gods, each tier ruled by a "
+        "named deity who surpasses the others in ten respects."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Giving, ethical conduct, and meditation are the three grounds "
+            "for making merit, and someone who practices only the first "
+            "two &mdash; without reaching meditation &mdash; is reborn "
+            "according to the degree of their practice: a little among "
+            "disadvantaged humans, moderately among well-off humans, and "
+            "at an extraordinary degree among any of six successive tiers "
+            "of gods, ruled respectively by the four great kings, Sakka, "
+            "Suyāma, Santusita, Sunimmita, and Vasavattī."]),
+        ("What's conspicuously missing from every case", [
+            "Every single rebirth this discourse describes &mdash; from "
+            "disadvantaged human through the Divinity's near approach "
+            "&mdash; shares one explicit qualifier: the person has not "
+            "reached meditation as a ground for making merit. The "
+            "discourse implicitly leaves open, without stating, what "
+            "becomes possible once meditation is added to giving and "
+            "ethics."]),
+        ("Six god-kings, each surpassing their own realm", [
+            "At the extraordinary-degree tier, the discourse names six "
+            "named ruling gods in turn &mdash; the four great kings "
+            "themselves, Sakka, the godling Suyāma, the godling Santusita, "
+            "the godling Sunimmita, and the godling Vasavattī &mdash; each "
+            "said to have practiced giving and ethical conduct to a "
+            "greater degree than the other gods in their own realm, and "
+            "each surpassing their fellow gods in the same ten respects: "
+            "lifespan, beauty, happiness, glory, sovereignty, and the five "
+            "sense objects."]),
+        ("Compressed by the source's own internal ellipsis", [
+            "Having spelled out the first ruling god's ten-respect "
+            "superiority in full, the source text compresses the same "
+            "formula for the remaining five gods &mdash; Sakka, Suyāma, "
+            "Santusita, Sunimmita, and Vasavattī &mdash; trusting the "
+            "reader to supply the identical ten respects each time."]),
+    ],
+    terms=[
+        ("puññakiriyavatthūni",
+         "&ldquo;grounds for making merit&rdquo; &mdash; this discourse's "
+         "own title-phrase and its three named grounds: dāna, sīla, and "
+         "bhāvanā."),
+        ("dānamayaṁ puññakiriyavatthu, sīlamayaṁ puññakiriyavatthu",
+         "&ldquo;giving as a ground for making merit, ethical conduct as a "
+         "ground for making merit&rdquo; &mdash; the two grounds every "
+         "rebirth in this discourse is based on, without the third, "
+         "meditation."),
+        ("dasahi ṭhānehi adhiggahetvā",
+         "&ldquo;surpasses them in ten respects&rdquo; &mdash; the "
+         "standing formula applied to each of the six named ruling gods, "
+         "spelled out in full for the first and compressed for the "
+         "remaining five."),
+        ("āyunā vaṇṇena sukhena yasena ādhipateyyena",
+         "&ldquo;lifespan, beauty, happiness, glory, sovereignty&rdquo; "
+         "&mdash; the first five of the ten respects a ruling god surpasses "
+         "others in, the second five being the five sense objects."),
+        ("sakko devānamindo",
+         "Sakka, lord of the gods, named here as the ruling deity of the "
+         "gods of the thirty-three, the second of six named gods in this "
+         "discourse's ascending sequence."),
+    ],
+    text_intro=(
+        "The discourse in full: three grounds for making merit, and seven "
+        "ascending rebirth tiers from giving and ethics alone. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three grounds for making merit"),
+        ("p", "&sect;1", "an8.36:1.1-1.3"),
+        ("h3", "Human rebirths, by degree of practice"),
+        ("p", "&sect;2", "an8.36:2.1-3.2"),
+        ("h3", "Six tiers of gods, each ruled by a named deity"),
+        ("p", "&sect;3", "an8.36:4.1-9.5"),
+    ],
+    quiz=[
+        {"q": "What three grounds for making merit does this discourse "
+              "name?",
+         "opts": [
+             "Faith, wisdom, and effort",
+             "Giving, ethical conduct, and meditation",
+             "Study, devotion, and renunciation",
+             "The five precepts alone"],
+         "correct": 1,
+         "expl": "Dāna, sīla, and bhāvanā — three grounds, not eight, "
+                 "despite this discourse's place in the Book of the Eights."},
+        {"q": "What is conspicuously absent from every rebirth this "
+              "discourse describes?",
+         "opts": [
+             "Wealth", "Reaching meditation as a ground for making merit",
+             "Family support", "Physical health"],
+         "correct": 1,
+         "expl": "Every case explicitly notes the person hasn't gotten as "
+                 "far as meditation."},
+        {"q": "What determines whether someone practicing only giving and "
+              "ethics is reborn among disadvantaged humans, well-off "
+              "humans, or among the gods?",
+         "opts": [
+             "Random chance",
+             "The degree of their practice — a little, a moderate amount, "
+             "or an extraordinary degree",
+             "Their family's wealth alone",
+             "The specific god they pray to"],
+         "correct": 1,
+         "expl": "A graduated scale, mapped onto ascending rebirth tiers."},
+        {"q": "What do the six named ruling gods have in common?",
+         "opts": [
+             "Nothing in particular",
+             "Each has practiced giving and ethical conduct to a greater "
+             "degree than other gods in their realm, surpassing them in ten "
+             "respects",
+             "They are all enemies of each other",
+             "They rule over hell realms"],
+         "correct": 1,
+         "expl": "The same ten-respect formula, spelled out once and "
+                 "compressed for the remaining five gods."},
+        {"q": "How does the source text handle the ten-respect formula "
+              "after the first ruling god?",
+         "opts": [
+             "It restates it in full for every god",
+             "It compresses it by internal ellipsis, trusting the reader to "
+             "supply the same ten respects each time",
+             "It omits it entirely for the remaining gods",
+             "It replaces it with a different formula each time"],
+         "correct": 1,
+         "expl": "A self-abbreviation this project has met in similar form "
+                 "elsewhere."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Three grounds, not eight", [
+            "giving, ethics, meditation —",
+            "only the first two here reach",
+            "the various rebirth tiers described",
+        ]),
+        ("What's missing every time", [
+            "'hasn't gotten as far as",
+            "meditation' — repeated",
+            "at every single tier",
+        ]),
+        ("Six god-kings, ten respects each", [
+            "four kings, Sakka, Suyāma,",
+            "Santusita, Sunimmita, Vasavattī —",
+            "lifespan, beauty, glory, and more",
+        ]),
+        ("Cross-references", [
+            "AN 8.35 &middot; previous, the same heavenly sequence reached "
+            "through a giver's own settled wish",
+            "AN 8.37 &middot; next, the eight gifts of a true person",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.36/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.35.html">AN 8.35 &middot; Rebirth by Giving</a> &mdash; previous.',
+        '<a href="an-8.37.html">AN 8.37 &middot; Gifts of a True Person</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.37 — Sappurisadānasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, "Sappurisadāna", "Gifts of a True Person",
+    vagga=VAGGA_4,
+    meta_title="AN 8.37 — Gifts of a True Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sappurisadānasutta, an eight-item list of qualities that mark a "
+        "true person's own gift-giving, from purity and timeliness through "
+        "confidence while giving and uplift afterward. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item prose list, immediately restated in "
+                 "three verses"),
+        ("Length", "under 1 minute to read"),
+        ("Qualities of the act, not of the motive", "Unlike AN 8.31 and AN "
+                                                     "8.33's catalogs of why "
+                                                     "someone gives, this "
+                                                     "discourse's eight "
+                                                     "items describe how "
+                                                     "the gift itself is "
+                                                     "given and received "
+                                                     "internally, including "
+                                                     "two items about the "
+                                                     "giver's own inner "
+                                                     "state during and after "
+                                                     "the act"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "prose followed by verse restatement"),
+    ],
+    why=(
+        "AN 8.37 names eight qualities of a true person's gift &mdash; "
+        "pure, good quality, timely, appropriate, intelligent, and "
+        "regular, given with a confident heart, and followed by feeling "
+        "uplifted afterward &mdash; describing the manner of giving and the "
+        "giver's own inner state, not merely the motive behind it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A true person's gift has eight qualities: it is pure, good "
+            "quality, timely, appropriate, intelligent, and regular, given "
+            "with a confident heart, and the giver feels uplifted "
+            "afterward &mdash; six qualities of the gift itself and two of "
+            "the giver's own inner state."]),
+        ("Six qualities of the gift, two of the giver", [
+            "The first six items in this list describe the gift as an "
+            "object and an act &mdash; its purity, quality, timing, "
+            "appropriateness to the recipient, thoughtfulness, and "
+            "regularity. The final two shift entirely to the giver's own "
+            "experience: confidence while giving, and feeling uplifted "
+            "once the gift is given."]),
+        ("A shift this chapter's other lists don't make", [
+            "AN 8.31 and AN 8.33 both catalog motives &mdash; why someone "
+            "gives. This discourse instead describes the texture of the "
+            "giving itself and its emotional aftermath, a genuinely "
+            "different axis of description than either of the earlier "
+            "motive-catalogs in this chapter."]),
+        ("Verses that restate the list without softening it", [
+            "The closing verses don't add new content but compress the "
+            "same eight qualities into poetic form, adding one further "
+            "note: such giving is never regretted, and &ldquo;discerning "
+            "people praise giving such gifts&rdquo; &mdash; a social as "
+            "well as personal endorsement of the pattern just described."]),
+    ],
+    terms=[
+        ("suci",
+         "&ldquo;pure&rdquo; &mdash; the first quality named, describing "
+         "the gift's own ethical or physical cleanliness."),
+        ("kālena deti",
+         "&ldquo;timely&rdquo; &mdash; the third quality, giving at the "
+         "right moment rather than whenever convenient."),
+        ("kappiyaṁ deti",
+         "&ldquo;appropriate&rdquo; &mdash; the fourth quality, suited to "
+         "the recipient rather than given without regard for fit."),
+        ("pasannacitto deti",
+         "&ldquo;while giving their heart is confident&rdquo; &mdash; the "
+         "seventh quality, describing the giver's own inner state during "
+         "the act itself, not merely its outward form."),
+        ("datvā attamano hoti",
+         "&ldquo;afterwards they're uplifted&rdquo; &mdash; the eighth and "
+         "final quality, the giver's emotional aftermath once the gift has "
+         "been made."),
+    ],
+    text_intro=(
+        "The discourse in full: eight qualities of a true person's gift, in "
+        "prose and then verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight qualities of a true person's gift"),
+        ("p", "&sect;1", "an8.37:1.1-1.4"),
+        ("h3", "The same eight, in verse"),
+        ("p", "&sect;2", "an8.37:2.1-2.4"),
+        ("p", "&sect;3", "an8.37:3.1-3.4"),
+        ("p", "&sect;4", "an8.37:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How do this discourse's eight qualities differ from AN "
+              "8.31's and AN 8.33's own eight-item lists?",
+         "opts": [
+             "They are identical lists",
+             "This discourse describes the manner of giving and the "
+             "giver's inner state, not the motive behind giving",
+             "This discourse only describes wrong ways to give",
+             "There is no meaningful difference"],
+         "correct": 1,
+         "expl": "A genuinely different axis of description than the "
+                 "earlier motive-catalogs in this chapter."},
+        {"q": "Which two qualities describe the giver's own inner state, "
+              "rather than the gift itself?",
+         "opts": [
+             "Purity and good quality",
+             "A confident heart while giving, and feeling uplifted "
+             "afterward",
+             "Timeliness and appropriateness",
+             "Regularity and intelligence"],
+         "correct": 1,
+         "expl": "The seventh and eighth items, shifting from the object "
+                 "given to the giver's own experience."},
+        {"q": "What do the closing verses add beyond restating the eight "
+              "qualities?",
+         "opts": [
+             "A warning against generosity",
+             "That such giving is never regretted, and discerning people "
+             "praise it",
+             "A list of forbidden gifts",
+             "Nothing further"],
+         "correct": 1,
+         "expl": "A social as well as personal endorsement of the pattern "
+                 "described."},
+        {"q": "What is the fourth quality named?",
+         "opts": [
+             "Wealth", "Appropriate — suited to the recipient",
+             "Secrecy", "Publicity"],
+         "correct": 1,
+         "expl": "One of six qualities describing the gift itself, before "
+                 "the list shifts to the giver's inner state."},
+        {"q": "How is this discourse structured?",
+         "opts": [
+             "As a dialogue between two characters",
+             "A bare prose list, immediately restated in verse",
+             "As a long narrative", "As a set of monastic rules"],
+         "correct": 1,
+         "expl": "Prose followed by poetic restatement, similar in form to "
+                 "AN 8.15's stains."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Six qualities of the gift", [
+            "pure, good quality, timely,",
+            "appropriate, intelligent,",
+            "and given regularly",
+        ]),
+        ("Two of the giver's own heart", [
+            "confident while giving —",
+            "and uplifted afterward —",
+            "the act's inner texture",
+        ]),
+        ("A different axis entirely", [
+            "not why one gives,",
+            "as AN 8.31, 8.33 asked,",
+            "but how the giving itself feels",
+        ]),
+        ("Cross-references", [
+            "AN 8.36 &middot; previous, three grounds for making merit and "
+            "seven rebirth tiers",
+            "AN 8.38 &middot; next, why a true person is born into a "
+            "family at all",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.37/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.36.html">AN 8.36 &middot; Grounds for Making Merit</a> &mdash; '
+        "previous.",
+        '<a href="an-8.38.html">AN 8.38 &middot; A True Person</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.38 — Sappurisasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, "Sappurisa", "A True Person",
+    vagga=VAGGA_4,
+    meta_title="AN 8.38 — A True Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sappurisasutta, comparing a true person born into a family to a "
+        "great rain cloud that nourishes all crops, benefiting eight "
+        "named groups from parents through ascetics and deities. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single extended simile — a true person compared to a "
+                 "rain cloud — naming eight groups of beneficiaries, closing "
+                 "in verse"),
+        ("Length", "under 1 minute to read"),
+        ("Eight beneficiaries, not eight qualities", "Where most of this "
+                                                      "chapter's eight-item "
+                                                      "lists name qualities "
+                                                      "or motives, this "
+                                                      "discourse's eight "
+                                                      "items name who "
+                                                      "benefits from a true "
+                                                      "person's presence in "
+                                                      "a family, a "
+                                                      "different kind of "
+                                                      "eightfold list"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "built around one clear image"),
+    ],
+    why=(
+        "AN 8.38 compares a true person born into a family to a great rain "
+        "cloud that nourishes every crop without distinction, naming eight "
+        "groups who benefit from that person's presence: parents, children "
+        "and partners, bondservants and staff, friends and colleagues, "
+        "departed ancestors, the king, the deities, and ascetics and "
+        "brahmins."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A true person is born into a family for the benefit, "
+            "welfare, and happiness of eight groups of people &mdash; "
+            "parents, children and partners, bondservants and staff, "
+            "friends and colleagues, departed ancestors, the king, the "
+            "deities, and ascetics and brahmins &mdash; just as a great "
+            "rain cloud nourishes every crop for the benefit of all people."]),
+        ("Eight beneficiaries, not eight qualities of the person", [
+            "This discourse's eightfold structure works differently than "
+            "most of this chapter's lists: rather than naming eight traits "
+            "the true person has, it names eight distinct groups who "
+            "receive benefit from that person's presence, radiating "
+            "outward from the immediate family to servants, colleagues, the "
+            "dead, the state, the divine, and the renunciate community."]),
+        ("A rain cloud that doesn't discriminate", [
+            "The simile's force lies in its indiscriminate reach: a great "
+            "rain cloud nourishes every crop it falls on, not only the "
+            "ones a farmer favors. A true person's benefit to their family "
+            "and community is presented the same way &mdash; not targeted "
+            "narrowly, but spread across every relationship the household "
+            "touches."]),
+        ("From the domestic to the cosmic, in one list", [
+            "The eight beneficiaries move outward in scale: household "
+            "relationships first (parents, children, partners, staff), "
+            "then social relationships (friends, colleagues), then "
+            "relationships that reach beyond the visible and the living "
+            "entirely (departed ancestors, the king representing the "
+            "state, the deities, and the ascetic and brahmin community)."]),
+    ],
+    terms=[
+        ("sappuriso",
+         "&ldquo;a true person&rdquo; &mdash; this discourse's own "
+         "subject, the same term this chapter has already applied to "
+         "figures like Hatthaka of Āḷavī."),
+        ("mahāmegho",
+         "&ldquo;a great rain cloud&rdquo; &mdash; the discourse's central "
+         "simile, nourishing every crop without discrimination."),
+        ("mātāpitūnaṁ, puttadārassa, dāsakammakaraporisassa",
+         "&ldquo;mother and father; children and partners; bondservants, "
+         "workers, and staff&rdquo; &mdash; the first three of the eight "
+         "beneficiaries, the household's own immediate members."),
+        ("petānaṁ, rañño, devatānaṁ",
+         "&ldquo;departed ancestors; the king; the deities&rdquo; &mdash; "
+         "three beneficiaries reaching beyond the living household into the "
+         "dead, the state, and the divine."),
+        ("samaṇabrāhmaṇānaṁ",
+         "&ldquo;ascetics and brahmins&rdquo; &mdash; the eighth and final "
+         "beneficiary named, closing the list with the renunciate and "
+         "religious community."),
+    ],
+    text_intro=(
+        "The discourse in full: a true person compared to a rain cloud, and "
+        "the eight groups who benefit. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A true person, and eight beneficiaries"),
+        ("p", "&sect;1", "an8.38:1.1-1.2"),
+        ("h3", "The rain cloud simile"),
+        ("p", "&sect;2", "an8.38:2.1-2.2"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.38:3.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse compare a true person born into a "
+              "family to?",
+         "opts": [
+             "A well-tuned lute", "A great rain cloud that nourishes all "
+                                   "crops",
+             "A ship crossing the ocean", "A lamp in the dark"],
+         "correct": 1,
+         "expl": "An indiscriminate benefit, reaching every crop it falls "
+                 "on."},
+        {"q": "How does this discourse's eightfold structure differ from "
+              "most of this chapter's other lists?",
+         "opts": [
+             "It is identical in structure to the others",
+             "It names eight groups who benefit from the person's "
+             "presence, rather than eight qualities that person has",
+             "It has no eightfold structure at all",
+             "It names eight ways to become wealthy"],
+         "correct": 1,
+         "expl": "A different kind of eightfold list — beneficiaries, not "
+                 "traits."},
+        {"q": "What three beneficiaries reach beyond the living household "
+              "into the dead, the state, and the divine?",
+         "opts": [
+             "Wealth, fame, and status",
+             "Departed ancestors, the king, and the deities",
+             "Foreign kingdoms, rival clans, and enemies",
+             "None; all eight beneficiaries are living household members"],
+         "correct": 1,
+         "expl": "Three of the eight beneficiaries reaching beyond the "
+                 "visible and the living entirely."},
+        {"q": "What closes the list of eight beneficiaries?",
+         "opts": [
+             "Wealthy merchants", "Ascetics and brahmins",
+             "Foreign dignitaries", "Royal soldiers"],
+         "correct": 1,
+         "expl": "The renunciate and religious community, closing a list "
+                 "that moves from domestic to cosmic scale."},
+        {"q": "What quality of the rain cloud does the guide emphasize?",
+         "opts": [
+             "Its destructive power",
+             "Its indiscriminate reach — nourishing every crop, not only "
+             "favored ones",
+             "Its rarity", "Its unpredictability"],
+         "correct": 1,
+         "expl": "The simile's force lies in benefit spread without "
+                 "narrow targeting."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight who benefit", [
+            "parents, children, partners,",
+            "staff, friends, ancestors,",
+            "the king, deities, ascetics",
+        ]),
+        ("A cloud that doesn't discriminate", [
+            "nourishing every crop,",
+            "not only the favored ones —",
+            "benefit spread without narrowing",
+        ]),
+        ("From household to cosmic", [
+            "immediate family first,",
+            "then friends, then the dead,",
+            "the state, the divine, the renunciate",
+        ]),
+        ("Cross-references", [
+            "AN 8.37 &middot; previous, the eight qualities of a true "
+            "person's own gift",
+            "AN 8.39 &middot; next, eight kinds of overflowing merit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.38/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.37.html">AN 8.37 &middot; Gifts of a True Person</a> &mdash; previous.',
+        '<a href="an-8.39.html">AN 8.39 &middot; Overflowing Merit</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.39 — Abhisandasutta
+# --------------------------------------------------------------------------- #
+page(
+    39, "Abhisanda", "Overflowing Merit",
+    vagga=VAGGA_4,
+    meta_title="AN 8.39 — Overflowing Merit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Abhisandasutta, on eight kinds of overflowing merit — three "
+        "refuges plus the five precepts, each precept doubling as one of "
+        "the five great, uncorrupted gifts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Three refuges named first, then the five precepts, each "
+                 "one doubly numbered as both a kind of overflowing merit "
+                 "and one of five great, ancient gifts"),
+        ("Length", "~2 minutes to read"),
+        ("A double numbering, not an error", "The five precepts are each "
+                                             "labeled twice within this "
+                                             "single discourse — once as "
+                                             "the fourth through eighth "
+                                             "kinds of overflowing merit, "
+                                             "and once, separately, as the "
+                                             "first through fifth of five "
+                                             "great gifts — an internal "
+                                             "structure worth tracking "
+                                             "rather than a textual "
+                                             "inconsistency"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; two "
+                       "numbering systems running simultaneously through "
+                       "the same five items"),
+    ],
+    why=(
+        "AN 8.39 names eight kinds of overflowing merit that nurture "
+        "happiness and lead to heaven: going for refuge to the Buddha, the "
+        "teaching, and the Saṅgha, and giving up killing, stealing, sexual "
+        "misconduct, lying, and intoxicants &mdash; with each of the five "
+        "precepts doubling as one of five great, primordial, uncorrupted "
+        "gifts of freedom from fear to all beings."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight kinds of overflowing merit &mdash; refuge in the "
+            "Buddha, the teaching, and the Saṅgha, and abstaining from "
+            "killing, stealing, sexual misconduct, lying, and intoxicants "
+            "&mdash; nurture happiness and lead to heaven, and each of the "
+            "five precepts is also, in its own right, one of five great, "
+            "primordial gifts of freedom from fear given to every sentient "
+            "being."]),
+        ("Three refuges, then five precepts", [
+            "The first three kinds of overflowing merit are simply the "
+            "three refuges, named individually rather than as a single "
+            "combined act. The remaining five are the five precepts, each "
+            "introduced with the same formula: a noble disciple gives up a "
+            "specific form of harm."]),
+        ("Two numbering systems in one discourse", [
+            "Within the discourse's own text, each precept carries two "
+            "separate labels: its place among the eight kinds of "
+            "overflowing merit (fourth through eighth) and, independently, "
+            "its place among five great gifts (first through fifth) that "
+            "are &ldquo;primordial, long-standing, traditional, and "
+            "ancient&rdquo; and that &ldquo;sensible ascetics and "
+            "brahmins don't look down on&rdquo; &mdash; two different "
+            "counts running through the identical five items."]),
+        ("A gift given to every being, not just the recipient", [
+            "What makes each precept a &ldquo;gift&rdquo; in this "
+            "discourse's own terms is unusual: giving up killing, for "
+            "instance, gives &ldquo;to countless sentient beings the gift "
+            "of freedom from fear, enmity, and ill will&rdquo; &mdash; a "
+            "gift not directed at any one recipient, but extended "
+            "automatically to every being by the very act of restraint."]),
+    ],
+    terms=[
+        ("puññābhisandā kusalābhisandā",
+         "&ldquo;overflowing merit, overflowing goodness&rdquo; &mdash; "
+         "this discourse's own title-phrase, describing merit that nurtures "
+         "happiness and leads to heaven."),
+        ("buddhe aveccappasādena samannāgato",
+         "&ldquo;gone for refuge to the Buddha&rdquo; &mdash; the first of "
+         "the eight kinds of overflowing merit, named individually rather "
+         "than folded into a single triple-refuge act."),
+        ("mahādānāni",
+         "&ldquo;great gifts&rdquo; &mdash; the five precepts' own second "
+         "identity within this discourse, described as primordial, "
+         "long-standing, and never corrupted."),
+        ("abhayaṁ dadāti averaṁ dadāti abyāpajjaṁ dadāti",
+         "&ldquo;gives the gift of freedom from fear, enmity, and ill "
+         "will&rdquo; &mdash; what each precept is said to give to "
+         "countless sentient beings, not merely to withhold harm from any "
+         "one recipient."),
+        ("suramerayamajjapamādaṭṭhānā paṭivirato",
+         "&ldquo;gives up beer, wine, and liquor intoxicants&rdquo; "
+         "&mdash; the fifth precept and eighth kind of overflowing merit, "
+         "closing both numbering systems in this discourse at once."),
+    ],
+    text_intro=(
+        "The discourse in full: three refuges and five precepts, each "
+        "precept doubly numbered as merit and as a great gift. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three refuges"),
+        ("p", "&sect;1", "an8.39:1.1-3.2"),
+        ("h3", "Giving up killing: merit and gift together"),
+        ("p", "&sect;2", "an8.39:3.3-3.9"),
+        ("h3", "Three further precepts, by internal ellipsis"),
+        ("p", "&sect;3", "an8.39:4.1-6.2"),
+        ("h3", "Giving up intoxicants, closing both numbering systems"),
+        ("p", "&sect;4", "an8.39:7.1-8.1"),
+    ],
+    quiz=[
+        {"q": "What are the first three kinds of overflowing merit named in "
+              "this discourse?",
+         "opts": [
+             "The three poisons, negated",
+             "The three refuges, named individually — Buddha, teaching, "
+             "and Saṅgha",
+             "Three types of meditation",
+             "Three monastic robes"],
+         "correct": 1,
+         "expl": "Each refuge counted separately rather than as one "
+                 "combined act."},
+        {"q": "What double numbering does each of the five precepts carry "
+              "within this discourse?",
+         "opts": [
+             "No double numbering; there is only one count",
+             "A place among the eight kinds of overflowing merit (fourth "
+             "through eighth), and separately, a place among five great "
+             "gifts (first through fifth)",
+             "Each precept is numbered three separate times",
+             "The numbering is inconsistent and should be treated as an "
+             "error"],
+         "correct": 1,
+         "expl": "Two distinct, deliberate numbering systems running "
+                 "through the identical five items."},
+        {"q": "What makes giving up killing a 'gift,' in this discourse's "
+              "own terms?",
+         "opts": [
+             "It earns the giver material wealth",
+             "It gives to countless sentient beings the gift of freedom "
+             "from fear, enmity, and ill will — not directed at one "
+             "recipient",
+             "It is only a gift if performed publicly",
+             "It isn't actually described as a gift"],
+         "correct": 1,
+         "expl": "A gift extended automatically to every being through the "
+                 "act of restraint itself."},
+        {"q": "How are the five great gifts described, distinct from being "
+              "kinds of merit?",
+         "opts": [
+             "As modern innovations",
+             "As primordial, long-standing, traditional, and ancient, never "
+             "corrupted, and not looked down on by sensible ascetics and "
+             "brahmins",
+             "As optional and easily abandoned",
+             "As applicable only to monastics"],
+         "correct": 1,
+         "expl": "A standing description distinguishing the 'great gift' "
+                 "framing from the 'overflowing merit' framing."},
+        {"q": "What is the eighth and final kind of overflowing merit?",
+         "opts": [
+             "Refuge in the Saṅgha", "Giving up beer, wine, and liquor "
+                                      "intoxicants",
+             "Giving up lying", "Giving up stealing"],
+         "correct": 1,
+         "expl": "The fifth precept, closing both numbering systems at "
+                 "once."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Three refuges, five precepts", [
+            "Buddha, teaching, Saṅgha —",
+            "then abstaining from killing,",
+            "stealing, misconduct, lying, drink",
+        ]),
+        ("Two counts, one list", [
+            "fourth through eighth as merit —",
+            "first through fifth as great gifts —",
+            "the same five items, doubly numbered",
+        ]),
+        ("A gift to every being at once", [
+            "not one recipient chosen,",
+            "but freedom from fear given",
+            "to countless beings by restraint alone",
+        ]),
+        ("Cross-references", [
+            "AN 8.38 &middot; previous, a true person compared to a rain "
+            "cloud",
+            "AN 8.40 &middot; next, the results of misconduct, this "
+            "discourse's own reversal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.39/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.38.html">AN 8.38 &middot; A True Person</a> &mdash; previous.',
+        '<a href="an-8.40.html">AN 8.40 &middot; The Results of Misconduct</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.40 — Duccaritavipākasutta — closes ch.4 Dānavagga
+# --------------------------------------------------------------------------- #
+page(
+    40, "Duccaritavipāka", "The Results of Misconduct",
+    vagga=VAGGA_4,
+    meta_title="AN 8.40 — The Results of Misconduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Duccaritavipākasutta, closing this chapter with eight kinds of "
+        "misconduct, each leading to a bad rebirth at worst and a specific, "
+        "pointed human consequence at minimum — AN 8.39's mirror image. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight parallel structures, each pairing a form of "
+                 "misconduct with a bad-realm consequence and a distinct "
+                 "minimum human consequence"),
+        ("Length", "~2 minutes to read"),
+        ("This chapter's reversal of AN 8.39", "Where AN 8.39 named five "
+                                               "precepts as great gifts of "
+                                               "fearlessness, this "
+                                               "discourse closing the "
+                                               "chapter names eight forms of "
+                                               "misconduct — the same five "
+                                               "precepts broken, plus three "
+                                               "further verbal faults — each "
+                                               "with its own specific, "
+                                               "pointed consequence"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "repeating structure across eight items, each with a "
+                       "distinct, specific human consequence worth reading "
+                       "individually"),
+    ],
+    why=(
+        "AN 8.40 closes this chapter by naming eight kinds of misconduct "
+        "&mdash; killing, stealing, sexual misconduct, lying, backbiting, "
+        "harsh speech, talking nonsense, and drinking alcohol &mdash; each "
+        "leading at worst to hell, the animal realm, or the ghost realm, "
+        "and at minimum to a specific, pointed human consequence distinct "
+        "from all the others."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each of eight kinds of misconduct, when cultivated, developed, "
+            "and practiced, leads at worst to hell, the animal realm, or "
+            "the ghost realm, and at minimum &mdash; even for someone "
+            "reborn human &mdash; to a specific consequence distinct to "
+            "that particular misconduct."]),
+        ("Eight items, not the traditional ten", [
+            "This list draws on the ten standard courses of unskillful "
+            "action but reshapes them: it keeps seven bodily and verbal "
+            "items &mdash; killing, stealing, sexual misconduct, lying, "
+            "backbiting, harsh speech, and talking nonsense &mdash; and "
+            "replaces the traditional three purely mental items "
+            "(covetousness, ill will, wrong view) entirely with a single "
+            "eighth item, drinking alcohol."]),
+        ("A distinct minimum consequence for each", [
+            "What distinguishes this discourse from a simple list is its "
+            "specificity: killing's minimum human consequence is a short "
+            "lifespan; stealing's is loss of wealth; sexual misconduct's is "
+            "rivalry and enmity; lying's is false accusations; "
+            "backbiting's is being divided against friends; harsh "
+            "speech's is hearing disagreeable things; nonsense talk's is "
+            "that no one takes what you say seriously; and drinking's is "
+            "madness."]),
+        ("A precise, almost poetic justice", [
+            "Each pairing has an internal logic that isn't arbitrary: harsh "
+            "speech returns as disagreeable things heard, nonsense talk "
+            "returns as being disbelieved, backbiting returns as division "
+            "from one's own friends &mdash; the consequence in each case "
+            "mirrors the shape of the original misconduct rather than "
+            "being a generic punishment."]),
+    ],
+    terms=[
+        ("pāṇātipāto",
+         "&ldquo;killing living creatures&rdquo; &mdash; the first "
+         "misconduct named, whose minimum human consequence is a short "
+         "lifespan."),
+        ("pisuṇā vācā",
+         "&ldquo;backbiting&rdquo; &mdash; the fifth item, whose minimum "
+         "consequence, being divided against friends, mirrors the "
+         "divisive nature of the original speech."),
+        ("pharusā vācā",
+         "&ldquo;harsh speech&rdquo; &mdash; the sixth item, whose minimum "
+         "consequence is hearing disagreeable things oneself."),
+        ("samphappalāpo",
+         "&ldquo;talking nonsense&rdquo; &mdash; the seventh item, whose "
+         "minimum consequence is that no one takes what you say seriously."),
+        ("surāmerayapānaṁ",
+         "&ldquo;drinking beer and wine&rdquo; &mdash; the eighth and "
+         "closing item, replacing the traditional three mental unskillful "
+         "actions, with madness as its minimum consequence."),
+    ],
+    text_intro=(
+        "The discourse in full: eight kinds of misconduct, each with a "
+        "distinct minimum human consequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Killing, stealing, and sexual misconduct"),
+        ("p", "&sect;1", "an8.40:1.1-3.2"),
+        ("h3", "Lying, backbiting, and harsh speech"),
+        ("p", "&sect;2", "an8.40:4.1-6.2"),
+        ("h3", "Nonsense talk and drinking, closing this chapter"),
+        ("p", "&sect;3", "an8.40:7.1-8.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's list of eight relate to the "
+              "traditional ten courses of unskillful action?",
+         "opts": [
+             "It is identical to the traditional ten",
+             "It keeps seven bodily and verbal items and replaces the three "
+             "mental items entirely with a single eighth item, drinking "
+             "alcohol",
+             "It has nothing to do with the traditional ten",
+             "It adds three new items to the traditional ten"],
+         "correct": 1,
+         "expl": "A reshaping that fits this book's eightfold theme rather "
+                 "than the traditional count of ten."},
+        {"q": "What is the minimum human consequence of backbiting, "
+              "according to this discourse?",
+         "opts": [
+             "Physical illness",
+             "Being divided against friends — mirroring the divisive "
+             "nature of the original speech",
+             "Loss of wealth",
+             "A short lifespan"],
+         "correct": 1,
+         "expl": "A consequence that mirrors the shape of the original "
+                 "misconduct, not a generic punishment."},
+        {"q": "What is the minimum human consequence of talking nonsense?",
+         "opts": [
+             "Hearing disagreeable things",
+             "That no one takes what you say seriously",
+             "A short lifespan",
+             "Rivalry and enmity"],
+         "correct": 1,
+         "expl": "A fittingly ironic consequence for habitual nonsense "
+                 "talk."},
+        {"q": "What does every one of the eight misconducts lead to at "
+              "worst?",
+         "opts": [
+             "Nothing; only the minimum consequence applies",
+             "Hell, the animal realm, or the ghost realm",
+             "A short period of bad luck",
+             "Social embarrassment only"],
+         "correct": 1,
+         "expl": "The severe end of the range, with the specific human "
+                 "consequence as the minimum, not the worst case."},
+        {"q": "How does this discourse relate to AN 8.39, immediately "
+              "preceding it in this chapter?",
+         "opts": [
+             "No relation at all",
+             "It functions as AN 8.39's mirror image — misconduct instead "
+             "of the great gifts of restraint",
+             "It repeats AN 8.39 word for word",
+             "It contradicts AN 8.39's teaching entirely"],
+         "correct": 1,
+         "expl": "The same core precepts, viewed from their broken rather "
+                 "than kept side, closing this chapter."},
+        {"q": "What is the minimum human consequence of drinking alcohol, "
+              "the eighth item?",
+         "opts": [
+             "Loss of wealth", "Madness",
+             "False accusations", "Short lifespan"],
+         "correct": 1,
+         "expl": "The consequence closing both this discourse and this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight misconducts, eight consequences", [
+            "killing → short life,",
+            "stealing → lost wealth,",
+            "backbiting → divided friends",
+        ]),
+        ("A precise, mirrored justice", [
+            "harsh speech returns as",
+            "disagreeable things heard —",
+            "nonsense talk, as disbelief",
+        ]),
+        ("This chapter's mirror image", [
+            "AN 8.39's five great gifts,",
+            "now shown from their broken side —",
+            "plus three further verbal faults",
+        ]),
+        ("Cross-references", [
+            "AN 8.39 &middot; previous, the five precepts as great gifts of "
+            "fearlessness",
+            "AN 8.31 &middot; earlier, opening this chapter's exploration "
+            "of giving",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.40/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.39.html">AN 8.39 &middot; Overflowing Merit</a> &mdash; previous.',
+        '<a href="an-8.31.html">AN 8.31 &middot; Giving (1st)</a> &mdash; earlier, opening '
+        "this chapter's exploration of giving.",
+    ],
+)
