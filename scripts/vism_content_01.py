@@ -36,8 +36,7 @@ edition's table of contents):
     22. Purification by Knowledge and Vision
     23. The Benefits in Developing Understanding
 
-This module currently holds only Chapter 1, as an end-to-end test of the
-toolchain built for this series.
+This module currently holds Chapters 1-2, completing Part I (Sīla).
 """
 
 # Every page's further-reading section must offer these two resources, since
@@ -296,5 +295,226 @@ page(
         "this whole work traditionally opens by responding to a question about.",
         '<a href="../discourses/dhammapada/">Dhammapada</a> &mdash; a much shorter, '
         "already-complete verse collection on this site, for comparison in scale.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# Chapter 2 — Dhutaṅganiddesa
+# --------------------------------------------------------------------------- #
+page(
+    2, "Dhutaṅganiddesa", "The Description of the Ascetic Practices",
+    part=PART_1,
+    meta_title="Visuddhimagga Ch. 2 — The Description of the Ascetic Practices | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 2 of the Visuddhimagga (The Path of "
+        "Purification) — the thirteen voluntary ascetic practices (dhutaṅga), how "
+        "each is analyzed, their three grades of strictness, and the purpose they "
+        "serve. No translated text reproduced; links to the full free translation "
+        "and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter continues directly from Chapter "
+                    "1's closing statement of virtue's benefits, with no framing story "
+                    "of its own"),
+        ("Speaker", "Buddhaghosa, continuing the same systematic, analytical voice as "
+                    "Chapter 1"),
+        ("Form", "Thirteen individual practices, each run through the same recurring "
+                 "set of questions, followed by closing sections on how the thirteen "
+                 "relate to one another and what they are ultimately for"),
+        ("Length", "shorter than Chapter 1's single sustained treatment of virtue, but "
+                   "still substantial &mdash; thirteen separate practices, each treated "
+                   "in turn"),
+        ("Northern parallel", "Various traditions preserve their own lists of optional "
+                              "austerities for renunciants; this guide does not assert a "
+                              "specific matching passage"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; mostly a structured "
+                       "list; the repeated analytical pattern makes it easier to follow "
+                       "than Chapter 1's dense classification schemes"),
+    ],
+    why=(
+        "Chapter 1 defined virtue as something every practitioner holds in common: the "
+        "precepts. Chapter 2 turns to something optional layered on top of that shared "
+        "foundation &mdash; thirteen austere practices a monastic may choose to take up, "
+        "individually or in combination, to sharpen contentment and simplify life "
+        "further than the precepts alone require. Nothing here is compulsory; the "
+        "chapter is best read as a menu of voluntary supports rather than a second set "
+        "of rules."),
+    guide=[
+        ("From obligation to choice", [
+            "Where Chapter 1 covered virtue that binds every practitioner alike, "
+            "Chapter 2 shifts registers entirely: the thirteen ascetic practices "
+            "(<em>dhutaṅga</em>) it describes are optional. Nobody is required to take "
+            "up any of them, and a practitioner is free to adopt one, several, or none "
+            "at all, matching the choice to temperament and circumstance rather than "
+            "treating the list as a further set of obligations."]),
+        ("Thirteen practices in four natural groups", [
+            "The thirteen fall into four thematic clusters. Two concern robes: wearing "
+            "only robes pieced together from discarded cloth, and limiting oneself to "
+            "just three robes. Five concern food: eating only alms gathered on the "
+            "almsround, not skipping any house while on that round, eating only in one "
+            "sitting, eating only from the almsbowl itself, and refusing further food "
+            "once one has already declined more. Five concern dwelling: living in the "
+            "forest, at the foot of a tree, in the open air, in a charnel ground, or "
+            "wherever one happens to be assigned without requesting a preferred spot. "
+            "One concerns posture alone: never lying down."]),
+        ("A repeated analytical grid", [
+            "Just as Chapter 1 ran virtue through a fixed set of questions, Chapter 2 "
+            "runs each of the thirteen practices through its own recurring pattern: "
+            "what the practice means, the spoken formula by which a practitioner "
+            "undertakes it, the specific directions governing how it is kept, what "
+            "breaks or violates the observance, and the particular benefit each one is "
+            "said to cultivate. The repetition across all thirteen entries is itself "
+            "part of the chapter's method, not a stylistic accident."]),
+        ("Three grades, not one fixed standard", [
+            "Every one of the thirteen practices is further divided into a strict, a "
+            "medium, and a mild form. A practitioner taking up the forest-dweller's "
+            "practice, for instance, can keep it more or less rigorously depending on "
+            "circumstance; the chapter treats this graded flexibility as built into "
+            "each practice from the start, not as a later concession."]),
+        ("How the practices combine", [
+            "Near its close, the chapter turns to how the thirteen relate to one "
+            "another: some pair naturally, such as living in the forest and also "
+            "dwelling at the foot of a tree, while others are mutually exclusive by "
+            "their very definitions. This section treats the list less as thirteen "
+            "isolated rules than as a set of compatible and incompatible options a "
+            "practitioner combines according to what actually suits their situation."]),
+        ("What the practices are ultimately for", [
+            "The chapter closes by naming the qualities all thirteen practices are "
+            "meant to cultivate together: fewness of wishes, contentment with little, "
+            "a reduction of self-concern, and the seclusion that supports meditative "
+            "development. They are presented as tools in service of the same "
+            "purification virtue itself was shown to serve in Chapter 1, not as "
+            "hardship valued for its own sake."]),
+        ("What follows", [
+            "With Chapter 2 complete, Part I (Virtue) closes out. Chapter 3 opens Part "
+            "II, the eleven-chapter section on concentration, beginning with how a "
+            "meditation subject is chosen and a suitable teacher approached."]),
+    ],
+    terms=[
+        ("dhutaṅga",
+         "&ldquo;ascetic practice&rdquo; (literally something like &ldquo;a factor for "
+         "shaking off&rdquo;) &mdash; the thirteen voluntary observances this chapter "
+         "describes."),
+        ("paṃsukūlikaṅga",
+         "the rag-robe wearer's practice &mdash; one of the two robe-related "
+         "observances, wearing only robes made from discarded cloth."),
+        ("piṇḍapātikaṅga",
+         "the alms-food-eater's practice &mdash; one of the five food-related "
+         "observances, eating only what is gathered on the almsround."),
+        ("āraññikaṅga",
+         "the forest-dweller's practice &mdash; one of the five dwelling-related "
+         "observances."),
+        ("nesajjikaṅga",
+         "the sitter's practice &mdash; the sole posture-related observance, never "
+         "lying down."),
+    ],
+    quiz=[
+        {"q": "What is the general term for the thirteen practices this chapter describes?",
+         "opts": [
+             "Dhutaṅga, ascetic practices",
+             "Pāramitā, perfections",
+             "Brahmavihāra, divine abidings",
+             "Vinaya, the monastic code of rules"],
+         "correct": 0,
+         "expl": "Thirteen individually treated observances, introduced right after Chapter 1's virtue."},
+        {"q": "Are the thirteen ascetic practices obligatory for every monastic?",
+         "opts": [
+             "No &mdash; they are voluntary, taken up individually according to temperament and circumstance",
+             "Yes, every monastic must undertake all thirteen",
+             "Only laypeople may undertake them",
+             "Only during a specific season of the year"],
+         "correct": 0,
+         "expl": "The chapter is best read as a menu of optional supports, not a second set of rules."},
+        {"q": "Into how many thematic groups do the thirteen practices naturally fall, and around what themes?",
+         "opts": [
+             "Four groups: robes, food, dwelling, and posture",
+             "Two groups: body and mind",
+             "Thirteen unrelated rules with no grouping at all",
+             "Three groups matching the three trainings"],
+         "correct": 0,
+         "expl": "Two robe-related, five food-related, five dwelling-related, and one posture-related practice."},
+        {"q": "What recurring set of questions does Buddhaghosa apply to each of the thirteen practices?",
+         "opts": [
+             "Meaning, the formula of undertaking, governing directions, grades, breach, and benefit",
+             "Origin, development, cessation, and path",
+             "A single yes/no test for whether it is permitted",
+             "Who taught it, when, and to whom"],
+         "correct": 0,
+         "expl": "The same analytical pattern is applied to all thirteen entries in turn."},
+        {"q": "How many grades of strictness does each individual practice admit?",
+         "opts": [
+             "Three: strict, medium, and mild",
+             "Only one fixed standard, with no variation",
+             "Two: permitted and forbidden",
+             "Five, ranked by seniority"],
+         "correct": 0,
+         "expl": "Graded flexibility is built into each of the thirteen from the start."},
+        {"q": "Which of the thirteen practices concerns refusing to lie down?",
+         "opts": [
+             "Nesajjikaṅga, the sitter's practice",
+             "Piṇḍapātikaṅga, the alms-food-eater's practice",
+             "Āraññikaṅga, the forest-dweller's practice",
+             "Paṃsukūlikaṅga, the rag-robe wearer's practice"],
+         "correct": 0,
+         "expl": "The sole posture-related observance among the thirteen."},
+        {"q": "Can a practitioner combine more than one of the thirteen practices?",
+         "opts": [
+             "Yes for compatible pairs, such as forest-dwelling with tree-root-dwelling; some others are mutually exclusive",
+             "No, only exactly one practice may ever be undertaken",
+             "All thirteen must always be taken up together or not at all",
+             "Combination is possible only for lay practitioners, never monastics"],
+         "correct": 0,
+         "expl": "Discussed near the chapter's close, treating the list as a set of compatible and incompatible options."},
+        {"q": "What qualities does the chapter identify as the overall purpose of the ascetic practices?",
+         "opts": [
+             "Fewness of wishes, contentment, reduced self-concern, and seclusion supporting meditative development",
+             "Physical endurance and status among other monastics",
+             "Guaranteed immediate awakening",
+             "Compliance with lay donors' expectations"],
+         "correct": 0,
+         "expl": "Presented as tools serving the same purification virtue was shown to serve in Chapter 1."},
+        {"q": "What does the completion of Chapter 2 mark in the Visuddhimagga's overall structure?",
+         "opts": [
+             "The close of Part I (Virtue), before Part II (Concentration) opens with Chapter 3",
+             "The midpoint of the entire work",
+             "The close of the entire work",
+             "The start of Part III (Understanding)"],
+         "correct": 0,
+         "expl": "Part I runs two chapters total; Chapter 3 begins the eleven-chapter section on concentration."},
+        {"q": "Where can a reader go for Chapter 2's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Optional, not obligatory", [
+            "dhutaṅga &mdash; voluntary",
+            "practices layered on virtue",
+        ]),
+        ("Four groups of thirteen", [
+            "robes, food, dwelling,",
+            "and the sitter's practice",
+        ]),
+        ("Three grades each", [
+            "strict, medium,",
+            "and mild practitioner",
+        ]),
+        ("Closing Part I", [
+            "fewness of wishes,",
+            "contentment, seclusion",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/majjhima-nikaya/mn-004.html">MN 4 &mdash; Fear and '
+        "Dread</a> &mdash; on facing the fears specific to forest dwelling, one of "
+        "this chapter's thirteen practices.",
+        '<a href="../discourses/majjhima-nikaya/mn-008.html">MN 8 &mdash; '
+        "Self-Effacement</a> &mdash; a discourse on the same reduction of "
+        "self-concern this chapter names as one purpose of the ascetic practices.",
     ],
 )
