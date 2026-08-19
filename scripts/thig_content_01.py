@@ -3525,3 +3525,1985 @@ page(
         "collection on this site.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.1 — Abhirūpanandā
+# --------------------------------------------------------------------------- #
+page(
+    2, 1, "Abhir&umacr;panand&amacr;", "Abhir&umacr;panand&amacr;",
+    meta_title="Thig 2.1 — Abhirūpanandā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Abhirūpanandā's verses, opening the Book of the Twos with a "
+        "direct instruction toward meditation on the body's ugliness. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; a "
+                    "closing attribution names speaker and occasion"),
+        ("Speaker", "The Buddha, addressing the trainee nun Nandā by name"),
+        ("Form", "Two four-line verses, with a closing attribution note"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Later commentarial tradition associates this "
+                              "nun with a striking story about vanity and "
+                              "shock; this reading guide does not assert "
+                              "this verse itself has a specific matching "
+                              "text."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct, "
+                       "unflinching body-contemplation instruction"),
+    ],
+    why=(
+        "The Book of the Twos opens with two verses of unusually direct "
+        "instruction: Nandā is told to see her own body as &lsquo;a bag of "
+        "bones... diseased, filthy, and rotten&rsquo;. Her fuller title, "
+        "Abhirūpanandā, means roughly &lsquo;Nandā the beautiful&rsquo; "
+        "&mdash; and later commentarial tradition holds that this exact "
+        "instruction was aimed precisely at a woman known for vanity about "
+        "her own appearance."),
+    guide=[
+        ("A name that names her beauty first", [
+            "&lsquo;Abhirūpanandā&rsquo; combines Nandā's name with "
+            "<em>abhirūpa</em>, &lsquo;beautiful&rsquo; or "
+            "&lsquo;attractive&rsquo; &mdash; the title itself identifies "
+            "her by an attribute the verses' instruction works directly "
+            "against."]),
+        ("An unflinching image, not a gentle metaphor", [
+            "Where several Book of the Ones poems used gentle astronomical "
+            "images (the moon, an eclipse), this instruction is bodily and "
+            "blunt: &lsquo;this bag of bones&rsquo;, &lsquo;diseased, "
+            "filthy, and rotten&rsquo; &mdash; a form of meditation on the "
+            "body's less flattering aspects, deployed deliberately."]),
+        ("From the ugly body to the signless", [
+            "The second verse moves from contemplating the body's aspects "
+            "to a different object of meditation entirely: &lsquo;the "
+            "signless&rsquo;, paired with giving up &lsquo;the tendency to "
+            "conceit&rsquo; &mdash; the specific antidote named for the "
+            "specific attachment the title's name implies."]),
+        ("A commentarial story behind a spare verse", [
+            "Later tradition tells a fuller story of a nun reluctant to "
+            "face the Buddha's teaching for fear it would target her pride "
+            "in her looks, eventually confronted with a vision of beauty "
+            "aging into decay. This verse itself states none of that "
+            "narrative directly &mdash; only the instruction survives here."]),
+    ],
+    terms=[
+        ("Nandā",
+         "the trainee nun addressed in these verses, whose fuller title, "
+         "Abhirūpanandā, combines her name with a word for beauty."),
+        ("asubha",
+         "&ldquo;the unattractive&rdquo; or &ldquo;foulness&rdquo; "
+         "&mdash; the broad category of meditation this verse's body-focused "
+         "instruction belongs to."),
+        ("animitta",
+         "&ldquo;the signless&rdquo; &mdash; a meditation object named in "
+         "this verse's second half, distinct from the body-contemplation of "
+         "the first."),
+        ("māna",
+         "&ldquo;conceit&rdquo; &mdash; what Nandā is instructed to give up "
+         "and comprehend, the attachment the title's name most directly "
+         "implicates."),
+        ("sekha",
+         "a &ldquo;trainee&rdquo; &mdash; the stage of practice this "
+         "verse's attribution describes Nandā as being in when addressed."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with a closing attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.1:1.1-1.4"),
+        ("p", "&sect;2", "thig2.1:2.1-2.4"),
+        ("p", "&sect;3", "thig2.1:3.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What does the title 'Abhirūpanandā' mean?",
+         "opts": [
+             "'Nandā the wise'",
+             "Roughly 'Nandā the beautiful', combining her name with a word for beauty",
+             "'Nandā the wanderer'",
+             "The title has no particular meaning"],
+         "correct": 1,
+         "expl": "A title identifying her by an attribute the instruction works directly against."},
+        {"q": "How does the first verse instruct Nandā to see her own body?",
+         "opts": [
+             "As a source of pride",
+             "As 'a bag of bones... diseased, filthy, and rotten'",
+             "As irrelevant to practice",
+             "As beautiful and worth preserving"],
+         "correct": 1,
+         "expl": "A blunt, unflinching image compared to several Book of the Ones' gentler metaphors."},
+        {"q": "What second object of meditation does the verse introduce after the body?",
+         "opts": [
+             "The breath alone",
+             "The signless (animitta)",
+             "A specific mantra",
+             "No second object is introduced"],
+         "correct": 1,
+         "expl": "Paired with giving up the tendency to conceit."},
+        {"q": "What does later commentarial tradition say about this instruction's background?",
+         "opts": [
+             "Nothing further is ever said",
+             "That it was aimed at a nun reluctant to face teaching for fear it would target her pride in her looks",
+             "That it was originally addressed to a king",
+             "That the verse is unrelated to any particular person"],
+         "correct": 1,
+         "expl": "A story this verse itself does not narrate directly."},
+        {"q": "Who does the closing attribution credit as this verse's speaker?",
+         "opts": [
+             "Nandā herself",
+             "The Buddha, who 'regularly advised' the trainee nun Nandā",
+             "An unnamed nun",
+             "No speaker is credited"],
+         "correct": 1,
+         "expl": "The same 'regularly advised' phrasing used for Muttā in Thig 1.2."},
+        {"q": "What does 'māna' mean?",
+         "opts": [
+             "'Conceit' — the attachment Nandā is told to give up and comprehend",
+             "'Beauty'",
+             "'The signless'",
+             "'Bag of bones'"],
+         "correct": 0,
+         "expl": "The attachment the title's name most directly implicates."},
+        {"q": "What broader category of meditation does this verse's body instruction belong to?",
+         "opts": [
+             "Asubha, meditation on the unattractive or foulness",
+             "Mettā, loving-kindness meditation",
+             "Ānāpānasati, breath meditation",
+             "No specific category is named"],
+         "correct": 0,
+         "expl": "A well-established meditation category the verse's imagery draws on."},
+        {"q": "How does this verse's approach compare to most of the Book of the Ones' gentler images?",
+         "opts": [
+             "Identical in tone throughout",
+             "More blunt and bodily, rather than relying on astronomical or gentle metaphors",
+             "Even gentler than the Book of the Ones",
+             "This verse contains no imagery at all"],
+         "correct": 1,
+         "expl": "Contrasted directly with images like the moon and an eclipse."},
+        {"q": "What position does this poem hold in the Therigatha?",
+         "opts": [
+             "It closes the Book of the Ones",
+             "It opens the Book of the Twos, the collection's second book",
+             "It is the collection's final poem",
+             "It is not part of any book"],
+         "correct": 1,
+         "expl": "The first poem of ten in this second book."},
+        {"q": "What does 'sekha' mean?",
+         "opts": [
+             "'Trainee' — the stage of practice Nandā is described as being in",
+             "'Beautiful'",
+             "'Conceit'",
+             "'Signless'"],
+         "correct": 0,
+         "expl": "Named in the closing attribution, matching the pattern seen with Muttā in Thig 1.2."},
+    ],
+    marginalia=[
+        ("A name naming beauty", [
+            "'Abhirūpanandā' —",
+            "the very attribute targeted"
+        ]),
+        ("An unflinching image", [
+            "'diseased, filthy,",
+            "and rotten'"
+        ]),
+        ("A second object", [
+            "from the body",
+            "to the signless"
+        ]),
+        ("A story behind the verse", [
+            "commentary tells more",
+            "than these lines state"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-1.18.html">Thig 1.18 &mdash; Sa&#7749;gh&amacr;</a> '
+        "&mdash; the text immediately before this one, closing the Book of "
+        "the Ones.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.2 — Jentā
+# --------------------------------------------------------------------------- #
+page(
+    2, 2, "Jent&amacr;", "Jent&amacr;",
+    meta_title="Thig 2.2 — Jentā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Jentā's verses, a first-person account of developing the seven "
+        "awakening factors to their completion. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twos &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; a "
+                    "closing attribution names the speaker"),
+        ("Speaker", "The senior nun Jentā, speaking entirely in the first "
+                    "person"),
+        ("Form", "Two four-line verses, with a closing attribution note"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; names a "
+                       "specific doctrinal list by number"),
+    ],
+    why=(
+        "Where Thig 2.1 gave an instruction still to be followed, this "
+        "verse reports a specific, named practice already completed: Jentā "
+        "states she has developed all seven of the awakening factors "
+        "&mdash; not vaguely, but naming the number and the source, "
+        "&lsquo;just as the Buddha taught&rsquo;."),
+    guide=[
+        ("A specific doctrinal list, named and counted", [
+            "Jentā's report is precise: &lsquo;of the seven awakening "
+            "factors... I have developed them all&rsquo; &mdash; not a "
+            "general claim of progress, but a specific, countable list "
+            "stated as complete."]),
+        ("Attributed directly to the Buddha's own teaching", [
+            "The verse credits its method explicitly: &lsquo;just as the "
+            "Buddha taught&rsquo; &mdash; crediting a specific source for "
+            "the path followed, rather than presenting the attainment as "
+            "self-derived."]),
+        ("A body already described as final", [
+            "&lsquo;This bag of bones is my last&rsquo; echoes the same "
+            "phrase used to instruct Nandā in Thig 2.1, but here spoken in "
+            "the first person about an already-final body, not as an "
+            "instruction toward seeing it that way."]),
+        ("A closing claim about the future itself", [
+            "The verse ends with the clearest possible statement about what "
+            "comes next: &lsquo;transmigration through births is finished, "
+            "now there'll be no more future lives&rsquo; &mdash; not "
+            "hopeful language, but a flat declaration."]),
+    ],
+    terms=[
+        ("Jentā",
+         "the senior nun (therī) this verse's closing attribution credits "
+         "as its speaker."),
+        ("bojjhaṅga",
+         "the &ldquo;awakening factors&rdquo;, seven qualities "
+         "(mindfulness, investigation, energy, joy, tranquility, "
+         "immersion, and equanimity) traditionally cultivated together on "
+         "the path."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; named directly as the goal "
+         "the seven awakening factors are described as the path toward."),
+        ("aṭṭhimasañcayo",
+         "&ldquo;this bag of bones&rdquo; &mdash; the same phrase used in "
+         "Thig 2.1's instruction to Nandā, here describing Jentā's own "
+         "final body."),
+        ("cariyā",
+         "not used here; this poem, like most in the Therigatha, closes "
+         "with a simple attribution note rather than a formula naming a "
+         "perfection."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with a closing attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.2:1.1-1.4"),
+        ("p", "&sect;2", "thig2.2:2.1-2.4"),
+        ("p", "&sect;3", "thig2.2:3.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What specific doctrinal list does Jentā say she has developed in full?",
+         "opts": [
+             "The five precepts",
+             "The seven awakening factors",
+             "The four noble truths",
+             "No specific list is named"],
+         "correct": 1,
+         "expl": "A precise, countable claim, not a vague statement of progress."},
+        {"q": "What source does the verse credit for this method?",
+         "opts": [
+             "Jentā's own independent discovery",
+             "'Just as the Buddha taught' — an explicit, named source",
+             "A teacher who is never identified",
+             "No source is credited"],
+         "correct": 1,
+         "expl": "The path is credited directly, not presented as self-derived."},
+        {"q": "What phrase does this verse share with Thig 2.1's instruction to Nandā?",
+         "opts": [
+             "'The signless'",
+             "'This bag of bones'",
+             "'Fulfilled the Buddha's instructions'",
+             "No phrase is shared"],
+         "correct": 1,
+         "expl": "Here describing Jentā's own already-final body, not as an instruction."},
+        {"q": "How does the verse describe the future, in its closing lines?",
+         "opts": [
+             "With uncertainty about what comes next",
+             "Flatly: 'transmigration through births is finished, now there'll be no more future lives'",
+             "As an open question",
+             "The future is not addressed"],
+         "correct": 1,
+         "expl": "A declarative statement, not hopeful or tentative language."},
+        {"q": "What does 'bojjhaṅga' refer to?",
+         "opts": [
+             "The four noble truths",
+             "The seven awakening factors: mindfulness, investigation, energy, joy, tranquility, immersion, and equanimity",
+             "The five precepts",
+             "A type of meditation posture"],
+         "correct": 1,
+         "expl": "Traditionally cultivated together on the path to awakening."},
+        {"q": "Who does the closing attribution credit as this verse's speaker?",
+         "opts": [
+             "The Buddha, addressing Jentā",
+             "The senior nun Jentā herself",
+             "An unnamed nun",
+             "No speaker is credited"],
+         "correct": 1,
+         "expl": "Unlike Thig 2.1's attribution to the Buddha."},
+        {"q": "What does Jentā say having 'seen the Blessed One' relates to?",
+         "opts": [
+             "Nothing in particular",
+             "Her statement that her current body is her last",
+             "A request for further teaching",
+             "A physical description of the Buddha"],
+         "correct": 1,
+         "expl": "Connected directly to her declaration of final attainment."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The first poem",
+             "The second poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following Abhirūpanandā's verses."},
+        {"q": "What does 'nibbāna' mean, as named in this verse?",
+         "opts": [
+             "'Extinguishment' — the goal the awakening factors lead toward",
+             "'Awakening factor'",
+             "'Bag of bones'",
+             "'Attribution'"],
+         "correct": 0,
+         "expl": "Named as the destination of the path Jentā describes completing."},
+        {"q": "How does this poem's tone compare to Thig 2.1's?",
+         "opts": [
+             "Identical, both giving instructions to be followed",
+             "This poem reports an attainment already complete, rather than instructing toward one",
+             "This poem gives no content about attainment at all",
+             "Thig 2.1 reports an attainment; this poem gives instruction"],
+         "correct": 1,
+         "expl": "A shift from instruction to first-person report."},
+    ],
+    marginalia=[
+        ("A precise, counted claim", [
+            "all seven",
+            "awakening factors"
+        ]),
+        ("Credited to its source", [
+            "'just as",
+            "the Buddha taught'"
+        ]),
+        ("A final body, echoed", [
+            "the same phrase",
+            "as Thig 2.1's instruction"
+        ]),
+        ("A flat declaration", [
+            "no more",
+            "future lives"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.1.html">Thig 2.1 &mdash; '
+        "Abhir&umacr;panand&amacr;</a> &mdash; the text immediately before "
+        "this one, sharing the phrase 'this bag of bones'.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.3 — Sumaṅgala's Mother
+# --------------------------------------------------------------------------- #
+page(
+    2, 3, "Suma&#7749;galam&amacr;t&amacr;", "Suma&#7749;gala&rsquo;s Mother",
+    meta_title="Thig 2.3 — Sumaṅgala's Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sumaṅgala's Mother's verses, one of the Therigatha's sharpest and "
+        "most vivid declarations of freedom from domestic drudgery. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "A nun identified by her son's name, &lsquo;Sumaṅgala's "
+                    "Mother&rsquo;, speaking entirely in the first person"),
+        ("Form", "Two four-line verses, nothing more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; vivid, "
+                       "biting imagery worth reading closely alongside Thig "
+                       "1.11"),
+    ],
+    why=(
+        "This is one of the Therigatha's most quoted verses, and it "
+        "answers Thig 1.11's celebrated declaration almost as a direct "
+        "companion piece: both open with a woman announcing freedom from "
+        "the mortar and pestle of household labor, but this poem goes "
+        "further, turning its wit directly on her former husband."),
+    guide=[
+        ("Identified through her son, not her own name", [
+            "This poem's title names its speaker only in relation to her "
+            "child: &lsquo;Sumaṅgala's Mother&rsquo;. Her own personal name "
+            "is not preserved &mdash; only her identity as a mother, a "
+            "common naming pattern for women elsewhere in the canon as "
+            "well."]),
+        ("An opening that echoes Thig 1.11 directly", [
+            "&lsquo;I'm well freed, well freed, so very well freed from the "
+            "pestle&rsquo; closely parallels Thig 1.11's Muttā, &lsquo;I'm "
+            "well freed, so very well freed&rsquo; &mdash; two poems "
+            "sharing the same triumphant, tripled declaration and the same "
+            "grinding tool as the symbol of what has been left behind."]),
+        ("A husband described with pointed, unflattering wit", [
+            "Where Thig 1.11 named her husband only by a physical "
+            "description (&lsquo;humpbacked&rsquo;), this verse is sharper "
+            "still: &lsquo;my shameless husband was most certainly a "
+            "mushroom&rsquo; &mdash; and the mortar itself &lsquo;wafted "
+            "like an eel&rsquo;, an image of unpleasant smell attached to "
+            "her former domestic labor."]),
+        ("From bitter wit to quiet contentment", [
+            "The second verse shifts register entirely: greed and hate are "
+            "described as something actively &lsquo;sizzling and "
+            "hissing&rsquo; as she extinguishes them, before she settles at "
+            "the root of a tree, meditating &lsquo;happily&rsquo;, "
+            "exclaiming &lsquo;oh, what bliss!&rsquo; &mdash; sharp humor "
+            "giving way to genuine ease."]),
+    ],
+    terms=[
+        ("Sumaṅgalamātā",
+         "&ldquo;Sumaṅgala's Mother&rdquo; &mdash; this poem's speaker, "
+         "identified through her son rather than by her own personal "
+         "name."),
+        ("musala",
+         "&ldquo;pestle&rdquo; &mdash; the tool of domestic grinding labor "
+         "named as the first thing this speaker celebrates being freed "
+         "from, the same image opening Thig 1.11."),
+        ("lobha, dosa",
+         "&ldquo;greed&rdquo; and &ldquo;hate&rdquo; &mdash; described in "
+         "this verse's second half as sizzling and hissing as they are "
+         "extinguished, an unusually vivid, almost culinary image."),
+        ("rukkhamūla",
+         "&ldquo;the root of a tree&rdquo; &mdash; a traditional, simple "
+         "meditation spot, where this verse's speaker settles into her "
+         "happiness."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution at all, distinctive chiefly for its sharp, humorous "
+         "voice."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.3:1.1-1.4"),
+        ("p", "&sect;2", "thig2.3:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How is this poem's speaker identified in its title?",
+         "opts": [
+             "By her own personal name",
+             "As 'Sumaṅgala's Mother', identified through her son rather than her own name",
+             "By the city she was born in",
+             "By a title of royal rank"],
+         "correct": 1,
+         "expl": "Her personal name is not preserved in this text."},
+        {"q": "What earlier poem does this verse's opening closely echo?",
+         "opts": [
+             "Thig 1.1",
+             "Thig 1.11, Muttā's celebrated 'I'm well freed' declaration",
+             "Thig 2.1",
+             "No earlier poem is echoed"],
+         "correct": 1,
+         "expl": "Both open with the same triumphant, tripled declaration and the mortar-and-pestle image."},
+        {"q": "How does this poem describe the speaker's former husband?",
+         "opts": [
+             "With warm affection and praise",
+             "As 'shameless' and 'certainly a mushroom' — sharper wit than Thig 1.11's simple 'humpbacked'",
+             "The husband is not mentioned at all",
+             "Neutrally, with no particular characterization"],
+         "correct": 1,
+         "expl": "Pointed, unflattering imagery beyond Thig 1.11's plainer physical description."},
+        {"q": "How does the verse describe greed and hate being extinguished?",
+         "opts": [
+             "As a slow, gradual fading",
+             "As sizzling and hissing, an unusually vivid, almost culinary image",
+             "The verse does not mention greed or hate",
+             "As silent and unnoticed"],
+         "correct": 1,
+         "expl": "A striking image marking the second verse's shift in register."},
+        {"q": "Where does the speaker settle to meditate, described as blissful?",
+         "opts": [
+             "In a grand temple",
+             "At the root of a tree",
+             "Back in her former home",
+             "No location is given"],
+         "correct": 1,
+         "expl": "A traditional, simple meditation spot."},
+        {"q": "What does this poem share word for word with Thig 1.11's opening?",
+         "opts": [
+             "Nothing at all",
+             "The tripled declaration of freedom and the image of the pestle",
+             "The entire poem is identical",
+             "Only the closing line matches"],
+         "correct": 1,
+         "expl": "Companion poems sharing the same triumphant opening structure."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Sumaṅgala's Mother herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution closes this poem."},
+        {"q": "What tone does the poem's overall arc follow?",
+         "opts": [
+             "Sharp, humorous wit giving way to quiet contentment",
+             "Sorrow throughout, with no resolution",
+             "Anger that never resolves",
+             "A flat, unemotional report throughout"],
+         "correct": 0,
+         "expl": "From pointed jabs at her husband to happy meditation under a tree."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The second poem",
+             "The third poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following Jentā's verses."},
+        {"q": "What does 'musala' mean?",
+         "opts": [
+             "'Pestle' — the tool of domestic labor named as the first thing celebrated being freed from",
+             "'Mushroom'",
+             "'Tree root'",
+             "'Bliss'"],
+         "correct": 0,
+         "expl": "The shared image opening both this poem and Thig 1.11."},
+    ],
+    marginalia=[
+        ("Echoing Thig 1.11", [
+            "'well freed'",
+            "from the pestle again"
+        ]),
+        ("A husband, mocked", [
+            "'certainly",
+            "a mushroom'"
+        ]),
+        ("Sizzling and hissing", [
+            "greed and hate",
+            "extinguished vividly"
+        ]),
+        ("From wit to bliss", [
+            "the root of a tree,",
+            "genuine ease"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.2.html">Thig 2.2 &mdash; Jent&amacr;</a> &mdash; '
+        "the text immediately before this one in the Therigatha.",
+        '<a href="thig-1.11.html">Thig 1.11 &mdash; Mutt&amacr; (2nd)</a> '
+        "&mdash; the companion poem this one echoes so closely.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.4 — Aḍḍhakāsi
+# --------------------------------------------------------------------------- #
+page(
+    2, 4, "A&#7693;&#7693;hak&amacr;si", "A&#7693;&#7693;hak&amacr;si",
+    meta_title="Thig 2.4 — Aḍḍhakāsi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Aḍḍhakāsi's verses, a former courtesan whose price equaled half a "
+        "kingdom, now speaking of the three knowledges. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Aḍḍhakāsi, speaking entirely in the first "
+                    "person about her former livelihood"),
+        ("Form", "A four-line verse followed by a six-line verse, nothing "
+                 "more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "distinctive voice among the Therigatha's known "
+                       "former courtesans"),
+    ],
+    why=(
+        "Aḍḍhakāsi's very name states her former worth in coin: it means "
+        "roughly &lsquo;half of Kāsi&rsquo;, reflecting a price for her "
+        "services once said to equal half the value of an entire kingdom. "
+        "This verse is one of a small number in the collection spoken by a "
+        "former courtesan, moving from an unusual boast about worldly value "
+        "to a direct account of spiritual attainment."),
+    guide=[
+        ("A name that records a price, not an insult", [
+            "&lsquo;Aḍḍhakāsi&rsquo; combines <em>aḍḍha</em>, "
+            "&lsquo;half&rsquo;, with &lsquo;Kāsi&rsquo;, the kingdom "
+            "&mdash; the name itself preserves a specific, extraordinary "
+            "valuation of her former services, treated here as a fact "
+            "stated plainly rather than a shameful secret."]),
+        ("Worldly value stated, then reframed", [
+            "The first verse describes the price the townsfolk set for her "
+            "as having made her, paradoxically, &lsquo;priceless&rsquo; "
+            "&mdash; before the second verse turns entirely away from that "
+            "valuation toward disillusionment with the very form that "
+            "commanded it."]),
+        ("A warning addressed outward, not just a personal report", [
+            "&lsquo;Don't journey on and on, transmigrating through "
+            "rebirths!&rsquo; briefly shifts from first-person report to "
+            "direct address &mdash; advice offered to a listener, not only "
+            "a statement about her own path."]),
+        ("The three knowledges named as the mark of completion", [
+            "The verse closes by naming a specific traditional set: "
+            "&lsquo;I've realized the three knowledges, and fulfilled the "
+            "Buddha's instructions&rsquo; &mdash; a standard closing "
+            "formula for full attainment, appearing again in several later "
+            "poems in this book."]),
+    ],
+    terms=[
+        ("Aḍḍhakāsi",
+         "&ldquo;half of Kāsi&rdquo; &mdash; this nun's name, recording the "
+         "extraordinary price once set for her services as a courtesan."),
+        ("Kāsi",
+         "the kingdom whose value this verse's speaker's former price is "
+         "said to have equaled half of."),
+        ("nibbindā",
+         "&ldquo;disillusionment&rdquo; or &ldquo;dispassion&rdquo; "
+         "&mdash; the shift the second verse describes toward her own "
+         "form."),
+        ("tevijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; a traditional mark of "
+         "full attainment (recollection of past lives, the divine eye, and "
+         "the ending of defilements), named directly in this verse's "
+         "closing lines."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, ending instead on the standard 'three knowledges' "
+         "formula."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.4:1.1-1.4"),
+        ("p", "&sect;2", "thig2.4:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does the name 'Aḍḍhakāsi' mean?",
+         "opts": [
+             "'Beautiful one'",
+             "Roughly 'half of Kāsi', recording her former price as a courtesan",
+             "'The wanderer'",
+             "The name has no particular meaning"],
+         "correct": 1,
+         "expl": "Combining 'half' with the name of a kingdom."},
+        {"q": "How does the verse describe the effect of the price set for her services?",
+         "opts": [
+             "It made her ashamed",
+             "It made her, paradoxically, 'priceless'",
+             "It made her poor",
+             "No effect is described"],
+         "correct": 1,
+         "expl": "Worldly value stated plainly before being reframed entirely."},
+        {"q": "What does the second verse describe happening to her regard for her own form?",
+         "opts": [
+             "Increased pride in her appearance",
+             "Growing disillusionment and dispassion",
+             "No change at all",
+             "A desire to return to her former life"],
+         "correct": 1,
+         "expl": "A direct turn away from the very valuation described in the first verse."},
+        {"q": "What does the verse briefly shift to, beyond first-person report?",
+         "opts": [
+             "A dialogue with the Buddha",
+             "Direct address to a listener: 'Don't journey on and on, transmigrating through rebirths!'",
+             "A description of a specific city",
+             "No shift occurs"],
+         "correct": 1,
+         "expl": "Advice offered outward, not only a personal statement."},
+        {"q": "What specific traditional set does the verse name as the mark of her completion?",
+         "opts": [
+             "The five precepts",
+             "The three knowledges (tevijjā)",
+             "The seven awakening factors",
+             "No specific set is named"],
+         "correct": 1,
+         "expl": "A standard closing formula appearing again in several later poems in this book."},
+        {"q": "What kingdom is named in this verse, whose value her former price is said to have equaled half of?",
+         "opts": [
+             "Magadha",
+             "Kāsi",
+             "Kosala",
+             "Videha"],
+         "correct": 1,
+         "expl": "The second half of Aḍḍhakāsi's own name."},
+        {"q": "What is unusual about this verse compared to most of this book's poems?",
+         "opts": [
+             "It is one of a small number in the collection spoken by a former courtesan",
+             "It contains no first-person content",
+             "It is the only poem naming a specific kingdom",
+             "It is written entirely in the third person"],
+         "correct": 0,
+         "expl": "A distinctive voice and background among the Therigatha's speakers."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — it closes instead on the standard 'three knowledges' formula",
+             "Yes, naming Aḍḍhakāsi herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note, unlike Thig 2.1 and 2.2."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The third poem",
+             "The fourth poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following Sumaṅgala's Mother's verses."},
+        {"q": "What does 'nibbindā' mean?",
+         "opts": [
+             "'Disillusionment' or 'dispassion' — the shift described toward her own form",
+             "'Price'",
+             "'Kingdom'",
+             "'Three knowledges'"],
+         "correct": 0,
+         "expl": "Named as the turning point of the second verse."},
+    ],
+    marginalia=[
+        ("A name recording a price", [
+            "'half of Kāsi' —",
+            "stated, not hidden"
+        ]),
+        ("Priceless, paradoxically", [
+            "the very price",
+            "reframed entirely"
+        ]),
+        ("A warning turned outward", [
+            "'don't journey",
+            "on and on'"
+        ]),
+        ("The three knowledges", [
+            "a standard mark",
+            "of completion"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.3.html">Thig 2.3 &mdash; Suma&#7749;gala&rsquo;s '
+        "Mother</a> &mdash; the text immediately before this one in the "
+        "Therigatha.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.5 — Cittā
+# --------------------------------------------------------------------------- #
+page(
+    2, 5, "Citt&amacr;", "Citt&amacr;",
+    meta_title="Thig 2.5 — Cittā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Cittā's verses, a frail, sick nun who climbs a mountain leaning on "
+        "a staff and awakens beside a rock. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Cittā, speaking entirely in the first person"),
+        ("Form", "Two four-line verses, nothing more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain "
+                       "narrative, best read alongside the poem right "
+                       "after it"),
+    ],
+    why=(
+        "Like Thig 1.17's Dhammā, this verse describes physical frailty "
+        "directly rather than glossing over it: &lsquo;skinny, sick, and "
+        "very feeble&rsquo;, Cittā climbs a mountain leaning on a staff, "
+        "and awakens not despite the effort but through it, propped "
+        "against a rock partway up."),
+    guide=[
+        ("Frailty named before anything else", [
+            "The verse opens with three separate descriptions of physical "
+            "weakness in a row: &lsquo;skinny, sick, and very "
+            "feeble&rsquo; &mdash; not a single mention of hardship but a "
+            "stacked, insistent one."]),
+        ("An effortful climb, not a passive setting", [
+            "Cittā does not simply happen to be somewhere difficult; she "
+            "actively climbs, &lsquo;leaning on a staff&rsquo; &mdash; the "
+            "difficulty is chosen and undertaken, not accidental."]),
+        ("Concrete monastic gestures marking the moment", [
+            "The second verse describes specific physical actions: laying "
+            "down the outer robe, overturning the alms bowl, propping "
+            "herself against a rock &mdash; ordinary monastic objects and "
+            "postures, named individually rather than summarized."]),
+        ("The same closing image as Thig 1.3", [
+            "&lsquo;I shattered the mass of darkness&rsquo; repeats the "
+            "exact phrase closing Thig 1.3's instruction to Puṇṇā, here "
+            "spoken in the first person as an accomplished fact rather "
+            "than an instruction still to be followed."]),
+    ],
+    terms=[
+        ("Cittā",
+         "this verse's speaker, whose physical frailty is named directly "
+         "at the poem's opening."),
+        ("daṇḍa",
+         "&ldquo;staff&rdquo; &mdash; the support Cittā leans on while "
+         "climbing, the same object named in Thig 1.17's account of "
+         "Dhammā's fall."),
+        ("cīvara, patta",
+         "&ldquo;robe&rdquo; and &ldquo;bowl&rdquo; &mdash; the two basic "
+         "monastic possessions named as set down before Cittā's awakening."),
+        ("avijjākhandha",
+         "the &ldquo;mass of darkness&rdquo; &mdash; ignorance described "
+         "as something solid enough to be shattered, the same image "
+         "closing Thig 1.3."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, best read alongside the very next poem, Thig 2.6."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.5:1.1-1.4"),
+        ("p", "&sect;2", "thig2.5:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does the verse describe Cittā's physical condition?",
+         "opts": [
+             "Strong and vigorous",
+             "'Skinny, sick, and very feeble' — three descriptions of weakness in a row",
+             "No physical description is given",
+             "Young and energetic"],
+         "correct": 1,
+         "expl": "A stacked, insistent description, not a single passing mention."},
+        {"q": "What does Cittā do despite her frailty?",
+         "opts": [
+             "She stays in her dwelling and rests",
+             "She actively climbs a mountain, leaning on a staff",
+             "She asks others to carry her",
+             "She gives up practice entirely"],
+         "correct": 1,
+         "expl": "The difficulty is chosen and undertaken, not accidental."},
+        {"q": "What specific actions does the second verse describe?",
+         "opts": [
+             "Only a general statement of meditation",
+             "Laying down the outer robe, overturning the bowl, propping against a rock",
+             "A conversation with another nun",
+             "Building a shelter"],
+         "correct": 1,
+         "expl": "Ordinary monastic objects and postures, named individually."},
+        {"q": "What phrase closes this verse, identical to Thig 1.3's closing?",
+         "opts": [
+             "'Sanctuary from the yoke'",
+             "'I shattered the mass of darkness'",
+             "'Free of debt'",
+             "'Cooled and quenched'"],
+         "correct": 1,
+         "expl": "Here spoken as an accomplished fact rather than an instruction still to be followed."},
+        {"q": "What does 'avijjākhandha' mean?",
+         "opts": [
+             "'Mass of darkness' — ignorance described as solid enough to be shattered",
+             "'Staff'",
+             "'Robe'",
+             "'Bowl'"],
+         "correct": 0,
+         "expl": "The exact image closing both this verse and Thig 1.3."},
+        {"q": "What object does Cittā's staff share with Thig 1.17's Dhammā?",
+         "opts": [
+             "Both describe a staff used while frail",
+             "Nothing is shared between the two poems",
+             "Both describe a bowl instead of a staff",
+             "Only the setting is shared, not the object"],
+         "correct": 0,
+         "expl": "A support named in both accounts of physical difficulty."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Cittā herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note closes this poem."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The fourth poem",
+             "The fifth poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following Aḍḍhakāsi's verses."},
+        {"q": "What does 'cīvara' and 'patta' refer to together?",
+         "opts": [
+             "'Robe' and 'bowl' — the two basic monastic possessions",
+             "'Staff' and 'rock'",
+             "'Mountain' and 'darkness'",
+             "'Feeble' and 'skinny'"],
+         "correct": 0,
+         "expl": "Named as set down before Cittā's awakening."},
+        {"q": "What poem is this one best read alongside, sharing a very similar structure?",
+         "opts": [
+             "Thig 1.1",
+             "Thig 2.6, the very next poem",
+             "Thig 2.4",
+             "No other poem shares this structure"],
+         "correct": 1,
+         "expl": "A closely matching account follows immediately."},
+    ],
+    marginalia=[
+        ("Frailty, stacked up", [
+            "skinny, sick,",
+            "very feeble"
+        ]),
+        ("A chosen difficulty", [
+            "climbing actively,",
+            "not passively enduring"
+        ]),
+        ("Concrete monastic gestures", [
+            "robe laid down,",
+            "bowl overturned"
+        ]),
+        ("Echoing Thig 1.3", [
+            "'shattered the",
+            "mass of darkness'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.4.html">Thig 2.4 &mdash; A&#7693;&#7693;hak&amacr;si</a> '
+        "&mdash; the text immediately before this one in the Therigatha.",
+        '<a href="thig-2.6.html">Thig 2.6 &mdash; Mettik&amacr;</a> &mdash; '
+        "the text right after this one, sharing a nearly identical "
+        "structure.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.6 — Mettikā
+# --------------------------------------------------------------------------- #
+page(
+    2, 6, "Mettik&amacr;", "Mettik&amacr;",
+    meta_title="Thig 2.6 — Mettikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mettikā's verses, closely matching Thig 2.5's account of an "
+        "elderly, ailing nun's mountain climb and awakening. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Mettikā, speaking entirely in the first "
+                    "person"),
+        ("Form", "A four-line verse followed by a six-line verse, nothing "
+                 "more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; best "
+                       "read directly alongside Thig 2.5"),
+    ],
+    why=(
+        "This poem repeats Thig 2.5's basic account almost exactly: an "
+        "elderly, ailing nun climbs a mountain with a staff, sets down her "
+        "robe and bowl, and awakens seated on a rock. The two poems are "
+        "close enough in structure that reading them together reveals a "
+        "shared template underlying two different women's testimony."),
+    guide=[
+        ("Age and pain named directly, as in Thig 2.5", [
+            "&lsquo;Though in pain, feeble, my youth long gone&rsquo; opens "
+            "this verse in language close to Cittā's own opening &mdash; "
+            "physical difficulty stated as fact before anything else "
+            "follows."]),
+        ("The same climb, the same staff", [
+            "&lsquo;I climb the mountain, leaning on a staff&rsquo; repeats "
+            "Thig 2.5's exact line &mdash; the same active, chosen "
+            "difficulty, described in identical wording."]),
+        ("A small variation in the awakening's setting", [
+            "Where Thig 2.5 describes Cittā &lsquo;propping herself "
+            "against a rock&rsquo;, this verse has Mettikā &lsquo;sitting "
+            "on a rock&rsquo; &mdash; nearly the same image, with a small "
+            "shift from leaning to sitting."]),
+        ("A different closing formula than Thig 2.5's", [
+            "Rather than repeating Thig 1.3's &lsquo;mass of darkness&rsquo; "
+            "image as Thig 2.5 does, this verse closes with the &lsquo;three "
+            "knowledges&rsquo; formula already seen in Thig 2.4 &mdash; the "
+            "same underlying template, closed with a different standard "
+            "formula each time."]),
+    ],
+    terms=[
+        ("Mettikā",
+         "this verse's speaker, whose account closely parallels Thig 2.5's "
+         "Cittā."),
+        ("daṇḍa",
+         "&ldquo;staff&rdquo; &mdash; named in identical wording to Thig "
+         "2.5's account of the mountain climb."),
+        ("tevijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; the same closing "
+         "formula used in Thig 2.4, here closing this verse instead of "
+         "Thig 2.5's 'mass of darkness' image."),
+        ("pabbata",
+         "&ldquo;mountain&rdquo; &mdash; the setting shared between this "
+         "verse and Thig 2.5, both describing an elderly, ailing nun's "
+         "climb."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, closely paired with Thig 2.5 immediately before "
+         "it."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.6:1.1-1.4"),
+        ("p", "&sect;2", "thig2.6:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this verse's opening compare to Thig 2.5's?",
+         "opts": [
+             "Completely unrelated",
+             "Very close in structure — both name pain, feebleness, and age or youth's passing before anything else",
+             "This verse mentions no physical condition at all",
+             "This verse describes a young, healthy nun"],
+         "correct": 1,
+         "expl": "A close parallel between these two adjacent poems' openings."},
+        {"q": "What line does this verse share in identical wording with Thig 2.5?",
+         "opts": [
+             "'I shattered the mass of darkness'",
+             "'I climb the mountain, leaning on a staff'",
+             "'I've realized the three knowledges'",
+             "No line is shared exactly"],
+         "correct": 1,
+         "expl": "The same active, chosen difficulty, described in identical words."},
+        {"q": "What small variation appears in this verse's description of the awakening moment?",
+         "opts": [
+             "Mettikā is described as 'sitting on a rock', rather than 'propping herself against a rock'",
+             "The rock is replaced entirely by a river",
+             "No awakening moment is described",
+             "There is no variation at all"],
+         "correct": 0,
+         "expl": "A small shift from leaning to sitting, otherwise closely matching Thig 2.5."},
+        {"q": "What closing formula does this verse use, different from Thig 2.5's?",
+         "opts": [
+             "The same 'mass of darkness' image as Thig 2.5",
+             "The 'three knowledges' formula, also seen in Thig 2.4",
+             "No closing formula at all",
+             "A formula unique to this verse alone"],
+         "correct": 1,
+         "expl": "The same underlying template closed with a different standard formula."},
+        {"q": "What does reading this poem alongside Thig 2.5 reveal?",
+         "opts": [
+             "That the two poems contradict each other",
+             "A shared template underlying two different women's testimony",
+             "That one poem is a forgery of the other",
+             "Nothing of particular interest"],
+         "correct": 1,
+         "expl": "Close structural similarity worth noticing when the two are read together."},
+        {"q": "What does 'tevijjā' mean?",
+         "opts": [
+             "'The three knowledges' — a standard formula for full attainment",
+             "'Mountain'",
+             "'Staff'",
+             "'Youth'"],
+         "correct": 0,
+         "expl": "Also used to close Thig 2.4's verse."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Mettikā herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note, matching Thig 2.5's pattern."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The fifth poem",
+             "The sixth poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Immediately following Cittā's closely matching verses."},
+        {"q": "What setting do both this poem and Thig 2.5 share?",
+         "opts": [
+             "A riverbank",
+             "A mountain, climbed with a staff",
+             "A royal palace",
+             "A forest fire"],
+         "correct": 1,
+         "expl": "The shared physical setting of both accounts."},
+        {"q": "How long is this poem's second verse, compared to Thig 2.5's?",
+         "opts": [
+             "Exactly the same length, four lines",
+             "Six lines, two lines longer than Thig 2.5's second verse",
+             "A single line only",
+             "Twenty lines"],
+         "correct": 1,
+         "expl": "The closing 'three knowledges' formula adds length not present in Thig 2.5's version."},
+    ],
+    marginalia=[
+        ("The same opening note", [
+            "pain, feebleness,",
+            "as in Thig 2.5"
+        ]),
+        ("An identical line", [
+            "'climb the mountain,",
+            "leaning on a staff'"
+        ]),
+        ("Leaning becomes sitting", [
+            "a small shift",
+            "in the same image"
+        ]),
+        ("A different closing formula", [
+            "'three knowledges',",
+            "not 'mass of darkness'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.5.html">Thig 2.5 &mdash; Citt&amacr;</a> &mdash; '
+        "the text immediately before this one, sharing an almost identical "
+        "structure.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.7 — Mittā (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    2, 7, "Mitt&amacr;", "Mitt&amacr; (2nd)",
+    meta_title="Thig 2.7 — Mittā (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for a "
+        "second Mittā's verses, moving from devoted observance days to no "
+        "longer even longing for rebirth among the gods. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "A second nun also named Mittā, speaking entirely in "
+                    "the first person"),
+        ("Form", "A four-line verse followed by a six-line verse, nothing "
+                 "more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; traces "
+                       "a clear before-and-after within two short verses"),
+    ],
+    why=(
+        "This second Mittā's verse traces a specific spiritual trajectory "
+        "in miniature: devoted observance of the sabbath in hopes of a "
+        "heavenly rebirth, followed by ordination, and finally a state "
+        "beyond even that earlier hope &mdash; no longer wanting rebirth "
+        "among the gods at all."),
+    guide=[
+        ("A devout layperson's practice, described specifically", [
+            "The first verse lists precise observance details: the sabbath "
+            "&lsquo;complete in all eight factors&rsquo;, kept &lsquo;on "
+            "the fourteenth and the fifteenth days&rsquo;, plus the "
+            "eighth day and the fortnightly special displays &mdash; the "
+            "specific calendar of a committed lay practice."]),
+        ("A stated former goal: the company of gods", [
+            "&lsquo;I rejoiced in the host of gods&rsquo; names what this "
+            "devout observance once aimed at &mdash; a favorable heavenly "
+            "rebirth, a legitimate and widely held aspiration in itself."]),
+        ("A visible change in circumstance", [
+            "The second verse marks ordination in concrete, physical "
+            "terms: &lsquo;today I eat just once a day, my head is shaven, "
+            "I wear the outer robe&rsquo; &mdash; description grounded in "
+            "daily bodily practice, not abstract commitment."]),
+        ("Outgrowing the earlier aspiration entirely", [
+            "The verse's closing lines state something stronger than "
+            "simple progress: &lsquo;I don't long for the host of gods, "
+            "for stress has been removed from my heart&rsquo; &mdash; not "
+            "achieving the earlier goal, but moving beyond wanting it at "
+            "all."]),
+    ],
+    terms=[
+        ("Mittā",
+         "this verse's speaker, a second nun of the same name as Thig "
+         "1.8's Mittā, distinguished by the title &lsquo;(2nd)&rsquo;."),
+        ("uposatha",
+         "the &ldquo;sabbath&rdquo; or observance day, kept here "
+         "&lsquo;complete in all eight factors&rsquo; before ordination."),
+        ("aṭṭhaṅgika",
+         "&ldquo;eight-factored&rdquo; &mdash; describing the fuller "
+         "observance-day precepts kept by a devoted layperson."),
+        ("ekabhattika",
+         "&ldquo;eating just once a day&rdquo; &mdash; one of the concrete "
+         "monastic practices named as marking the change described in the "
+         "second verse."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, tracing a clear before-and-after across its two "
+         "verses."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.7:1.1-1.4"),
+        ("p", "&sect;2", "thig2.7:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What specific observance does the first verse describe in detail?",
+         "opts": [
+             "A vague, unspecified devotion",
+             "The sabbath, complete in all eight factors, kept on specific calendar days",
+             "A single act of charity",
+             "No observance is described"],
+         "correct": 1,
+         "expl": "A precise calendar of committed lay practice."},
+        {"q": "What did this devout observance originally aim at?",
+         "opts": [
+             "Wealth and social status",
+             "Rejoicing in the host of gods — a favorable heavenly rebirth",
+             "Political influence",
+             "Nothing in particular is stated"],
+         "correct": 1,
+         "expl": "A legitimate and widely held aspiration in itself."},
+        {"q": "How does the second verse describe the change to ordained life?",
+         "opts": [
+             "In vague, abstract terms",
+             "Concretely: eating once a day, a shaven head, wearing the outer robe",
+             "The verse does not describe ordination at all",
+             "Through a lengthy philosophical argument"],
+         "correct": 1,
+         "expl": "Description grounded in daily bodily practice."},
+        {"q": "What does the verse's closing state about the earlier goal of rebirth among the gods?",
+         "opts": [
+             "That it was finally achieved",
+             "That she no longer longs for it at all — moving beyond wanting it",
+             "That it remains her current aim",
+             "The goal is not mentioned again"],
+         "correct": 1,
+         "expl": "Not achieving the earlier aspiration, but outgrowing it entirely."},
+        {"q": "What does 'uposatha' mean?",
+         "opts": [
+             "'Sabbath' or observance day",
+             "'Host of gods'",
+             "'Shaven head'",
+             "'Stress'"],
+         "correct": 0,
+         "expl": "Named directly in the first verse's opening."},
+        {"q": "What does 'aṭṭhaṅgika' describe in this verse?",
+         "opts": [
+             "The eightfold path specifically",
+             "'Eight-factored' — describing the fuller observance-day precepts",
+             "A type of robe",
+             "A meditation posture"],
+         "correct": 1,
+         "expl": "The fuller precept set kept by a devoted layperson before ordination."},
+        {"q": "How is this Mittā distinguished from Thig 1.8's Mittā?",
+         "opts": [
+             "They are treated as the same person",
+             "By the title '(2nd)', marking a different individual sharing the same name",
+             "By a completely different name entirely",
+             "No distinction is made"],
+         "correct": 1,
+         "expl": "A common pattern of shared names across this collection."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Mittā herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note closes this poem."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The sixth poem",
+             "The seventh poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following Mettikā's mountain-climbing verses."},
+        {"q": "What overall trajectory does this poem trace?",
+         "opts": [
+             "A single unchanging state throughout",
+             "A specific progression: devout lay practice, ordination, and moving beyond even the earlier heavenly aspiration",
+             "A decline from a higher to a lower state",
+             "No trajectory is described"],
+         "correct": 1,
+         "expl": "A clear before-and-after within two short verses."},
+    ],
+    marginalia=[
+        ("A precise calendar", [
+            "the sabbath,",
+            "specific days named"
+        ]),
+        ("A former goal named", [
+            "rejoicing in",
+            "the host of gods"
+        ]),
+        ("Ordination, concretely", [
+            "one meal,",
+            "shaven head, the robe"
+        ]),
+        ("Beyond the earlier wish", [
+            "no longer longing",
+            "for what she once sought"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.6.html">Thig 2.6 &mdash; Mettik&amacr;</a> &mdash; '
+        "the text immediately before this one in the Therigatha.",
+        '<a href="thig-1.8.html">Thig 1.8 &mdash; Mitt&amacr; (1st)</a> '
+        "&mdash; a different nun of the same name.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.8 — To Abhayā's Mother, From Her Daughter
+# --------------------------------------------------------------------------- #
+page(
+    2, 8, "Abhayam&amacr;tu Ther&imacr; Ovadana", "To Abhay&amacr;&rsquo;s "
+    "Mother From Her Daughter",
+    meta_title="Thig 2.8 — To Abhayā's Mother, From Her Daughter | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for a "
+        "daughter's verses to her own mother, an unusually direct instance "
+        "of a mother-daughter relationship named in the Therigatha. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "A daughter, addressing her own mother, named in the "
+                    "collection as &lsquo;Abhayā's Mother&rsquo;"),
+        ("Form", "Two four-line verses, nothing more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple "
+                       "instruction, notable chiefly for who is speaking "
+                       "to whom"),
+    ],
+    why=(
+        "This poem's title states its relationship directly: a verse "
+        "addressed by a daughter to her own mother, identified in this "
+        "collection only as &lsquo;Abhayā's Mother&rsquo;. Mother and "
+        "daughter both appear to have entered monastic life, and here the "
+        "child instructs the parent &mdash; a reversal of the more "
+        "familiar direction of teaching."),
+    guide=[
+        ("A relationship named in the title itself", [
+            "Where most poems in this collection identify their speaker or "
+            "addressee by a personal name alone, this poem's title states "
+            "a family relationship directly: written by a daughter, "
+            "addressed to her own mother."]),
+        ("A comprehensive instruction to examine the body", [
+            "The daughter's instruction covers the whole body "
+            "systematically: &lsquo;up from the soles of the feet, and "
+            "down from the tips of the hairs&rsquo; &mdash; a complete "
+            "range, not a selective glance."]),
+        ("Impurity named without qualification", [
+            "The body examined this way is described plainly as &lsquo;so "
+            "impure and foul-smelling&rsquo; &mdash; the same unflinching "
+            "register as Thig 2.1's instruction to Nandā, here addressed "
+            "by a child to her own parent rather than by the Buddha to a "
+            "trainee."]),
+        ("A direction of teaching reversed", [
+            "The ordinary expectation of a parent instructing a child is "
+            "set aside here: it is the daughter offering meditation "
+            "instruction to her mother, a detail the collection preserves "
+            "without further comment on how unusual it might seem."]),
+    ],
+    terms=[
+        ("Abhayāmātā",
+         "&ldquo;Abhayā's Mother&rdquo; &mdash; this poem's addressee, "
+         "identified through her daughter Abhayā, whose own verse follows "
+         "immediately in Thig 2.9."),
+        ("asubha",
+         "&ldquo;the unattractive&rdquo; or &ldquo;foulness&rdquo; "
+         "&mdash; the same broad meditation category behind Thig 2.1's "
+         "instruction, here directed by a daughter to her mother."),
+        ("kāya",
+         "&ldquo;body&rdquo; &mdash; the object of examination named "
+         "directly in this verse's opening line."),
+        ("kesagga",
+         "&ldquo;the tips of the hairs&rdquo; &mdash; part of the "
+         "comprehensive range this instruction covers, from feet to "
+         "hair."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, notable chiefly for the family relationship its "
+         "title names."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.8:1.1-1.4"),
+        ("p", "&sect;2", "thig2.8:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What relationship does this poem's title state directly?",
+         "opts": [
+             "Two unrelated nuns exchanging advice",
+             "A daughter addressing her own mother",
+             "A teacher addressing a stranger",
+             "No relationship is named"],
+         "correct": 1,
+         "expl": "Written by a daughter, addressed to her own mother, 'Abhayā's Mother'."},
+        {"q": "What range does the daughter's instruction to examine the body cover?",
+         "opts": [
+             "Only the face",
+             "The whole body, 'up from the soles of the feet, and down from the tips of the hairs'",
+             "Only the hands",
+             "No specific range is given"],
+         "correct": 1,
+         "expl": "A complete range, not a selective glance."},
+        {"q": "How does the verse describe the body being examined?",
+         "opts": [
+             "As beautiful and worth preserving",
+             "As 'so impure and foul-smelling'",
+             "As irrelevant to practice",
+             "With no description at all"],
+         "correct": 1,
+         "expl": "The same unflinching register as Thig 2.1's instruction to Nandā."},
+        {"q": "What is unusual about the direction of teaching in this poem?",
+         "opts": [
+             "Nothing unusual — parents always instruct children in this collection",
+             "The daughter offers instruction to her mother, reversing the more familiar direction",
+             "The poem contains no instruction at all",
+             "The mother instructs a stranger, not her daughter"],
+         "correct": 1,
+         "expl": "A reversal the collection preserves without further comment."},
+        {"q": "Who is 'Abhayā', as identified through this poem's title?",
+         "opts": [
+             "A king mentioned in passing",
+             "The daughter speaking in this poem, whose mother is addressed here",
+             "An unrelated nun",
+             "The name of a city"],
+         "correct": 1,
+         "expl": "Her own verse follows immediately as Thig 2.9."},
+        {"q": "What does the verse say is the result of meditating on the body this way?",
+         "opts": [
+             "Increased attachment to appearance",
+             "All lust eradicated, the fever of passion cut off",
+             "No result is described",
+             "A desire to leave monastic life"],
+         "correct": 1,
+         "expl": "Named directly in the second verse's closing lines."},
+        {"q": "What does 'asubha' mean?",
+         "opts": [
+             "'The unattractive' or 'foulness' — the broad meditation category this instruction belongs to",
+             "'Mother'",
+             "'Daughter'",
+             "'Feet'"],
+         "correct": 0,
+         "expl": "The same category behind Thig 2.1's instruction to Nandā."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Abhayā's Mother",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note closes this poem."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The seventh poem",
+             "The eighth poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following the second Mittā's verses."},
+        {"q": "How does this poem's title differ from most others in this book?",
+         "opts": [
+             "It uses a personal name alone, exactly like the others",
+             "It states a family relationship directly, rather than a name alone",
+             "It gives no identifying information at all",
+             "It names a location instead of a person"],
+         "correct": 1,
+         "expl": "A distinctive way of identifying speaker and addressee together."},
+    ],
+    marginalia=[
+        ("A daughter to her mother", [
+            "the title names",
+            "the relationship directly"
+        ]),
+        ("Head to foot, examined", [
+            "a complete range,",
+            "not a glance"
+        ]),
+        ("Impurity, unflinching", [
+            "the same register",
+            "as Thig 2.1"
+        ]),
+        ("Teaching, reversed", [
+            "the child instructs",
+            "the parent"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.7.html">Thig 2.7 &mdash; Mitt&amacr; (2nd)</a> '
+        "&mdash; the text immediately before this one in the Therigatha.",
+        '<a href="thig-2.9.html">Thig 2.9 &mdash; Abhay&amacr;</a> &mdash; '
+        "the very next poem, presumably the daughter's own verse.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.9 — Abhayā
+# --------------------------------------------------------------------------- #
+page(
+    2, 9, "Abhay&amacr;", "Abhay&amacr;",
+    meta_title="Thig 2.9 — Abhayā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Abhayā's verses, following directly after the instruction "
+        "addressed to her mother in Thig 2.8. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Twos &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "Not identified with certainty; the verse addresses "
+                    "&lsquo;Abhayā&rsquo; by name in the second person"),
+        ("Form", "Two four-line verses, nothing more"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; best "
+                       "read as a pair with Thig 2.8"),
+    ],
+    why=(
+        "This verse follows immediately after Thig 2.8's instruction from "
+        "a daughter to her mother, and addresses someone named Abhayā "
+        "directly &mdash; the same name identifying the previous poem's "
+        "speaker. Read together, the two verses suggest a family whose "
+        "spiritual concerns run in both directions between a mother and "
+        "her daughter."),
+    guide=[
+        ("A direct address, following a direct instruction", [
+            "Where Thig 2.8 instructed a mother to examine the body, this "
+            "verse opens by addressing &lsquo;Abhayā&rsquo; on a related "
+            "theme: &lsquo;the body is fragile, yet ordinary people are "
+            "attached to it&rsquo; &mdash; a continuation of the same "
+            "concern in a new verse."]),
+        ("A resolve stated plainly", [
+            "&lsquo;I'll lay down the body, aware and mindful&rsquo; "
+            "states an intention with unusual directness &mdash; not fear "
+            "of death, but a clear-eyed readiness, held together with "
+            "awareness rather than denial."]),
+        ("Difficulty acknowledged, not minimized", [
+            "&lsquo;Though subject to so many painful things&rsquo; opens "
+            "the second verse honestly, before crediting &lsquo;love of "
+            "diligence&rsquo; as what carried the speaker through to "
+            "&lsquo;the ending of craving&rsquo; despite that difficulty."]),
+        ("A closing formula repeated exactly in the next poem", [
+            "This verse's final four lines &mdash; &lsquo;though subject "
+            "to so many painful things... fulfilled the Buddha's "
+            "instructions&rsquo; &mdash; recur word for word as the "
+            "closing verse of Thig 2.10, immediately after this one, "
+            "shared between two otherwise distinct poems."]),
+    ],
+    terms=[
+        ("Abhayā",
+         "the figure addressed in this verse, sharing a name with the "
+         "speaker of Thig 2.8's instruction to her own mother."),
+        ("kāya",
+         "&ldquo;body&rdquo; &mdash; described here as &lsquo;fragile&rsquo;, "
+         "the same object of examination named in Thig 2.8."),
+        ("appamāda",
+         "&ldquo;diligence&rdquo; &mdash; credited directly, alongside "
+         "love for it, as what carried the speaker through difficulty to "
+         "the ending of craving."),
+        ("taṇhākkhaya",
+         "&ldquo;the ending of craving&rdquo; &mdash; named as the "
+         "attainment reached, closing this verse's second half."),
+        ("cariyā",
+         "not used here; another of this book's poems with no closing "
+         "attribution, closing instead on a formula repeated word for word "
+         "in the very next poem."),
+    ],
+    text_intro=(
+        "The text in full: two verses, with no attribution. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.9:1.1-1.4"),
+        ("p", "&sect;2", "thig2.9:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this verse relate to Thig 2.8, immediately before it?",
+         "opts": [
+             "It is entirely unrelated in theme",
+             "It follows a related theme, addressing someone named Abhayā, the same name identifying the previous poem's speaker",
+             "It contradicts Thig 2.8 directly",
+             "It is a word-for-word repeat of Thig 2.8"],
+         "correct": 1,
+         "expl": "Read together, the two verses suggest a family whose concerns run in both directions."},
+        {"q": "What does the first verse say about the body?",
+         "opts": [
+             "That it is permanent and reliable",
+             "That it is fragile, though ordinary people remain attached to it",
+             "That it should not be examined at all",
+             "Nothing about the body is mentioned"],
+         "correct": 1,
+         "expl": "A continuation of the concern raised in Thig 2.8."},
+        {"q": "What resolve does the verse state directly?",
+         "opts": [
+             "A fear of death",
+             "'I'll lay down the body, aware and mindful' — a clear-eyed readiness",
+             "A wish to extend life as long as possible",
+             "No resolve is stated"],
+         "correct": 1,
+         "expl": "Held together with awareness rather than denial."},
+        {"q": "What does the second verse credit for carrying the speaker through difficulty?",
+         "opts": [
+             "Wealth and status",
+             "Love of diligence (appamāda)",
+             "The help of others alone",
+             "Nothing is credited"],
+         "correct": 1,
+         "expl": "Named directly alongside acknowledging 'so many painful things'."},
+        {"q": "What happens to this verse's closing four lines in the very next poem, Thig 2.10?",
+         "opts": [
+             "They are contradicted entirely",
+             "They recur word for word as Thig 2.10's own closing verse",
+             "They are never mentioned again",
+             "They are only loosely paraphrased"],
+         "correct": 1,
+         "expl": "The same closing formula shared exactly between two otherwise distinct poems."},
+        {"q": "What does 'taṇhākkhaya' mean?",
+         "opts": [
+             "'The ending of craving' — the attainment named at this verse's close",
+             "'Fragile body'",
+             "'Diligence'",
+             "'Painful things'"],
+         "correct": 0,
+         "expl": "The destination reached despite acknowledged difficulty."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Abhayā herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note closes this poem."},
+        {"q": "What position does this poem hold in the Book of the Twos?",
+         "opts": [
+             "The eighth poem",
+             "The ninth poem",
+             "The last poem",
+             "It is not part of the Book of the Twos"],
+         "correct": 1,
+         "expl": "Following the instruction addressed to Abhayā's Mother in Thig 2.8."},
+        {"q": "How does the second verse acknowledge difficulty?",
+         "opts": [
+             "By denying that any difficulty existed",
+             "Directly: 'though subject to so many painful things'",
+             "By blaming others for the difficulty",
+             "Difficulty is never mentioned"],
+         "correct": 1,
+         "expl": "Acknowledged honestly before crediting what carried the speaker through it."},
+        {"q": "What does 'appamāda' mean?",
+         "opts": [
+             "'Diligence' — credited as what led through difficulty to the ending of craving",
+             "'Fragility'",
+             "'Attachment'",
+             "'Awareness' specifically, as a separate term"],
+         "correct": 0,
+         "expl": "Named directly, paired with 'love of' it, in this verse's second half."},
+    ],
+    marginalia=[
+        ("A continued theme", [
+            "the body,",
+            "fragile and attached to"
+        ]),
+        ("A clear-eyed resolve", [
+            "'aware and",
+            "mindful'"
+        ]),
+        ("Difficulty, acknowledged", [
+            "'so many",
+            "painful things'"
+        ]),
+        ("A shared closing formula", [
+            "repeated word for word",
+            "in Thig 2.10"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.8.html">Thig 2.8 &mdash; To Abhay&amacr;&rsquo;s '
+        "Mother From Her Daughter</a> &mdash; the text immediately before "
+        "this one in the Therigatha.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 2.10 — Sāmā
+# --------------------------------------------------------------------------- #
+page(
+    2, 10, "S&amacr;m&amacr;", "S&amacr;m&amacr;",
+    meta_title="Thig 2.10 — Sāmā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sāmā's verses, closing the Book of the Twos with an unusually "
+        "honest account of repeated failure before success. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Twos &middot; Poem 10 of 10",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Sāmā, speaking entirely in the first person "
+                    "about a specific, dated struggle"),
+        ("Form", "A six-line verse followed by a four-line verse, closing "
+                 "the Book of the Twos"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "notable for its candor about repeated failure"),
+    ],
+    why=(
+        "This poem closes the Book of the Twos with something the "
+        "collection rarely states this plainly: outright failure, "
+        "repeated, before success finally comes. Sāmā names leaving her "
+        "dwelling four or five times without finding peace of mind, before "
+        "dating her breakthrough precisely to &lsquo;the eighth "
+        "night&rsquo;."),
+    guide=[
+        ("Failure counted, not glossed over", [
+            "&lsquo;Four or five times I left my dwelling&rsquo; states a "
+            "specific number of attempts, followed directly by an honest "
+            "verdict: &lsquo;I had failed to find peace of heart, or any "
+            "control over my mind&rsquo; &mdash; no softening, no framing "
+            "of these attempts as partial progress."]),
+        ("A breakthrough dated with precision", [
+            "Where most poems in this collection describe attainment "
+            "without a timeline, this one is specific: &lsquo;now it is "
+            "the eighth night since craving was eradicated&rsquo; &mdash; a "
+            "practice diary's precision applied to a spiritual "
+            "breakthrough."]),
+        ("The exact closing quatrain of Thig 2.9, repeated", [
+            "This poem's second verse is word for word the same as Thig "
+            "2.9's closing four lines: &lsquo;though subject to so many "
+            "painful things... fulfilled the Buddha's instructions.&rsquo; "
+            "Two different women's accounts, closing this book on the "
+            "identical formula."]),
+        ("A fitting close to a book of individual struggle", [
+            "The Book of the Twos ends not on a triumphant image but on an "
+            "honest account of difficulty overcome slowly &mdash; a "
+            "counterpoint to Thig 2.2's Jentā, who opened this book's "
+            "second poem with a confident, completed report, and a "
+            "reminder that this collection preserves failure alongside "
+            "success."]),
+    ],
+    terms=[
+        ("Sāmā",
+         "this poem's speaker, whose account is unusually specific about "
+         "the number of failed attempts before her breakthrough."),
+        ("cittassa vūpasama",
+         "&ldquo;peace of heart&rdquo; &mdash; what Sāmā says she "
+         "repeatedly failed to find before her eventual success."),
+        ("aṭṭharattā",
+         "&ldquo;the eighth night&rdquo; &mdash; the precise timing Sāmā "
+         "gives for when craving was eradicated."),
+        ("taṇhākkhaya",
+         "&ldquo;the ending of craving&rdquo; &mdash; the same term "
+         "closing Thig 2.9, repeated word for word in this poem's second "
+         "verse."),
+        ("cariyā",
+         "not used here; the last of this book's poems, closing on a "
+         "formula shared exactly with the poem immediately before it."),
+    ],
+    text_intro=(
+        "The text in full: two verses, closing the Book of the Twos. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig2.10:1.1-1.6"),
+        ("p", "&sect;2", "thig2.10:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many times does Sāmā say she left her dwelling without success?",
+         "opts": [
+             "Once",
+             "Four or five times",
+             "Ten times",
+             "The number is not given"],
+         "correct": 1,
+         "expl": "A specific count, stated plainly."},
+        {"q": "How does the verse describe these earlier attempts?",
+         "opts": [
+             "As partial successes worth celebrating",
+             "As outright failure — 'I had failed to find peace of heart, or any control over my mind'",
+             "The attempts are not described at all",
+             "As someone else's failure, not her own"],
+         "correct": 1,
+         "expl": "No softening or reframing as progress."},
+        {"q": "How precisely does the verse date the eventual breakthrough?",
+         "opts": [
+             "With no timing at all",
+             "To 'the eighth night' since craving was eradicated",
+             "To an entire year",
+             "Only in vague, general terms"],
+         "correct": 1,
+         "expl": "A practice diary's precision applied to a spiritual breakthrough."},
+        {"q": "What does this poem's second verse share with Thig 2.9's closing?",
+         "opts": [
+             "Nothing at all",
+             "The exact same four closing lines, word for word",
+             "Only a loose paraphrase",
+             "A direct contradiction"],
+         "correct": 1,
+         "expl": "Two different women's accounts closing on the identical formula."},
+        {"q": "How does this poem's tone compare to Thig 2.2's Jentā, opening this book's second poem?",
+         "opts": [
+             "Identical in every way",
+             "A counterpoint — honest struggle rather than a confident, already-completed report",
+             "This poem describes no struggle at all",
+             "Jentā's poem describes more struggle than this one"],
+         "correct": 1,
+         "expl": "A reminder that this collection preserves failure alongside success."},
+        {"q": "What does 'cittassa vūpasama' mean?",
+         "opts": [
+             "'Peace of heart' — what Sāmā repeatedly failed to find",
+             "'The eighth night'",
+             "'Painful things'",
+             "'Dwelling'"],
+         "correct": 0,
+         "expl": "Named as what eluded her across several attempts."},
+        {"q": "Does this poem have a closing attribution?",
+         "opts": [
+             "Yes, naming the Buddha",
+             "No — like several others in this book, it has none",
+             "Yes, naming Sāmā herself",
+             "It has two attributions"],
+         "correct": 1,
+         "expl": "No formal attribution note closes this poem."},
+        {"q": "What position does this poem hold in the Therigatha?",
+         "opts": [
+             "It opens the Book of the Twos",
+             "It closes the Book of the Twos, the collection's second book",
+             "It is the final poem of the entire collection",
+             "It is not part of any book"],
+         "correct": 1,
+         "expl": "The tenth and last poem of ten in this second book."},
+        {"q": "What does 'aṭṭharattā' mean?",
+         "opts": [
+             "'The eighth night' — the precise timing given for the breakthrough",
+             "'Peace of heart'",
+             "'Dwelling'",
+             "'Craving'"],
+         "correct": 0,
+         "expl": "A specific, dated detail unusual among this collection's poems."},
+        {"q": "What overall impression does this closing poem leave about the path to awakening in this collection?",
+         "opts": [
+             "That it is always immediate and effortless",
+             "That it can involve real, repeated failure before eventual success",
+             "That failure means permanent inability to progress",
+             "That timing is never mentioned anywhere in the collection"],
+         "correct": 1,
+         "expl": "An honest counterpoint closing this book of individual struggle."},
+    ],
+    marginalia=[
+        ("Failure, counted", [
+            "four or five times,",
+            "no success"
+        ]),
+        ("A precise breakthrough", [
+            "the eighth night,",
+            "dated exactly"
+        ]),
+        ("The same closing as Thig 2.9", [
+            "word for word,",
+            "shared exactly"
+        ]),
+        ("Struggle, honestly kept", [
+            "closing the book",
+            "on real difficulty"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig2.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.9.html">Thig 2.9 &mdash; Abhay&amacr;</a> &mdash; '
+        "the text immediately before this one, sharing this poem's exact "
+        "closing formula.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection index.',
+    ],
+)
