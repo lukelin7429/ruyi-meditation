@@ -37019,3 +37019,1385 @@ page(
         "this discourse's own threefold conduct grouping.",
     ],
 )
+
+
+VAGGA_22 = "<em>Sāmaññavagga</em> &mdash; the twenty-second chapter of the Tens, one core pattern multiplied across four bases and four escalating counts"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.221 — (untitled, ten qualities)
+# --------------------------------------------------------------------------- #
+# Checked against bilara-data before writing: this chapter (22.
+# Sāmaññavagga) runs sixteen discourses (10.221-236) built from a single
+# multiplication -- four base statements (placed in hell/heaven "as if
+# delivered"; keeps oneself "broken and damaged" / "intact and unscathed";
+# reborn in a bad place / good place; "a fool is known by" / "an astute
+# person is known by") each crossed against four escalating counts (10, 20,
+# 30, 40 qualities), where each jump from one count to the next adds one
+# more mode of involvement in the same ten acts: doing them (10), doing AND
+# encouraging others to do them (20), doing, encouraging, AND approving of
+# them (30), and doing, encouraging, approving, AND praising them (40).
+# The first base (this discourse and its three siblings, 10.221-224) is
+# left as four separate, mostly unabbreviated files; the remaining three
+# bases (10.225-228, 229-232, 233-236) are each compressed into a single
+# merged file. Presented accordingly: four individual pages for
+# 10.221-224, then three combined pages for the remaining twelve
+# discourses, following this project's established convention for
+# compressed ranges.
+# --------------------------------------------------------------------------- #
+page(
+    221, "", "Ten Qualities",
+    vagga=VAGGA_22,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_22,
+    meta_title="AN 10.221 — Ten Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse opening chapter 22, the ten courses "
+        "of action stated plainly as leading to hell or heaven. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten courses of action stated plainly, leading "
+                 "to hell or heaven"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake", "This chapter, <em>Sāmaññavagga</em>, "
+                               "the Chapter on Similarity, takes its "
+                               "own name from the single repeating "
+                               "pattern &mdash; not this specific "
+                               "discourse &mdash; that runs through "
+                               "all sixteen of its discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the simplest discourse in a chapter that "
+                       "will grow more complex"),
+    ],
+    why=(
+        "Opening a sixteen-discourse chapter built from a single "
+        "multiplication, this untitled discourse states the plainest "
+        "possible base case: the ten courses of action themselves, "
+        "with no additional layer of involvement yet added."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with the ten unskillful courses of action is "
+            "placed in hell as if delivered there; a person with the "
+            "ten skillful courses of action is placed in heaven as "
+            "if delivered there."]),
+        ("The base case of a four-by-four multiplication", [
+            "This discourse and its three immediate siblings (AN "
+            "10.222&ndash;224) share one base statement &mdash; "
+            "placed in hell or heaven &ldquo;as if delivered "
+            "there&rdquo; &mdash; escalating from ten qualities (this "
+            "discourse) to twenty, thirty, and forty; checked against "
+            "bilara-data before writing, the escalation works by "
+            "adding one further mode of involvement in the same ten "
+            "acts at each step: simply doing them, doing and "
+            "encouraging others, doing and encouraging and approving, "
+            "and finally doing, encouraging, approving, and praising."]),
+        ("Untitled, like several discourses across this project", [
+            "Neither the English translation nor the Pāli root gives "
+            "this discourse its own distinct title, both marking it "
+            "only by its numbered position and content &mdash; a "
+            "pattern already met at several other bare, compact "
+            "discourses across this nipāta."]),
+        ("A chapter named for its method, not its content", [
+            "<em>Sāmaññavagga</em>, &ldquo;the Chapter on "
+            "Similarity,&rdquo; describes the chapter's own "
+            "organizing method rather than any shared subject matter "
+            "&mdash; the same four-count escalation pattern applied "
+            "identically to four otherwise unrelated base "
+            "statements, giving the whole chapter its structural "
+            "unity."]),
+    ],
+    terms=[
+        ("nikkhitto evaṁ niraye",
+         "&ldquo;placed in hell as if delivered there&rdquo; "
+         "&mdash; this discourse's own base phrase, already met in "
+         "this same form at AN 10.211 opening chapter 21."),
+        ("dasahi dhammehi samannāgato",
+         "&ldquo;with ten qualities&rdquo; &mdash; the base count "
+         "this discourse states, before AN 10.222&ndash;224 escalate "
+         "it to twenty, thirty, and forty."),
+        ("sāmañña",
+         "&ldquo;similarity&rdquo; or sameness &mdash; the term this "
+         "chapter takes its own name from, describing its shared "
+         "organizing method rather than shared content."),
+        ("micchādiṭṭhiko hoti",
+         "&ldquo;has wrong view&rdquo; &mdash; the tenth and final "
+         "item of the base ten courses of unskillful action."),
+        ("sammādiṭṭhiko hoti",
+         "&ldquo;has right view&rdquo; &mdash; the mirrored tenth "
+         "item closing the ten skillful courses of action."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten courses of action stated "
+        "plainly as leading to hell or heaven. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, and heaven, at the base count of ten"),
+        ("p", "&sect;1", "an10.221:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What is the base case this discourse states, before "
+              "the escalation in the discourses that follow?",
+         "opts": [
+             "The ten-factor path",
+             "The ten courses of action, with no additional layer of "
+             "involvement yet added",
+             "Twenty qualities",
+             "A narrative about a specific person"],
+         "correct": 1,
+         "expl": "The simplest starting point of a four-by-four "
+                 "multiplication running through this entire chapter."},
+        {"q": "According to the guide, how does the escalation work "
+              "across this discourse and its three immediate "
+              "siblings (AN 10.222–224)?",
+         "opts": [
+             "By adding entirely new, unrelated acts each time",
+             "By adding one further mode of involvement in the same "
+             "ten acts: doing, then doing and encouraging, then also "
+             "approving, then also praising",
+             "By removing items with each step",
+             "There is no escalation"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing: ten, "
+                 "twenty, thirty, forty qualities across four steps."},
+        {"q": "What does \"Sāmaññavagga,\" this chapter's own name, "
+              "actually describe, according to the guide?",
+         "opts": [
+             "A shared subject matter across all sixteen discourses",
+             "The chapter's own organizing method — one escalation "
+             "pattern applied identically to four otherwise unrelated "
+             "base statements",
+             "A specific ascetic named Sāmañña",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "A structural name, not a content name."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "Does this discourse have its own distinct title in the "
+              "source?",
+         "opts": [
+             "Yes, a distinctive title unique to this discourse",
+             "No — neither the English translation nor the Pāli "
+             "root gives it a distinct title, marking it only by "
+             "number and content",
+             "Only the Pāli root gives it a title",
+             "Only the English translation gives it a title"],
+         "correct": 1,
+         "expl": "A pattern already met at several other bare, "
+                 "compact discourses across this nipāta."},
+        {"q": "What chapter of AN10 does this discourse open?",
+         "opts": [
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23",
+             "Chapter 20"],
+         "correct": 1,
+         "expl": "The twenty-second chapter of the Tens, the second "
+                 "chapter of the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("The plainest step of four", [
+            "just doing the acts —",
+            "three more steps still to come: urge,",
+            "approve, and praise them",
+        ]),
+        ("A chapter named for its shape", [
+            "\"similarity\" names",
+            "the method, not the subject —",
+            "one pattern, four times",
+        ]),
+        ("No title, like others before", [
+            "bare by number and",
+            "content alone — a form met",
+            "elsewhere in this book",
+        ]),
+        ("Cross-references", [
+            "AN 10.220 &middot; Unprincipled Conduct, closing chapter "
+            "21, previous",
+            "AN 10.211 &middot; Heaven and Hell (1st), the earlier "
+            "use of this same base phrase",
+            "AN 10.222 &middot; next, Twenty Qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.221/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.220.html">AN 10.220</a> &mdash; previous, closing chapter 21.',
+        '<a href="an-10.211.html">AN 10.211 &middot; Heaven and Hell (1st)</a> &mdash; the '
+        "earlier use of this same base phrase.",
+        '<a href="an-10.222.html">AN 10.222 &middot; Twenty Qualities</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.222 — (untitled, twenty qualities)
+# --------------------------------------------------------------------------- #
+page(
+    222, "", "Twenty Qualities",
+    vagga=VAGGA_22,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_22,
+    meta_title="AN 10.222 — Twenty Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse, escalating AN 10.221's ten "
+        "qualities to twenty by adding encouraging others to the "
+        "same ten acts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten courses of action, doubled to twenty by "
+                 "adding encouragement of others"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second of four escalating steps on this "
+                       "chapter's first base statement"),
+    ],
+    why=(
+        "This discourse takes the first step of this chapter's own "
+        "escalation, doubling AN 10.221's ten qualities to twenty by "
+        "adding a second mode of involvement: not only doing the ten "
+        "acts oneself, but encouraging others to do them as well."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with twenty qualities &mdash; doing the ten "
+            "unskillful acts and encouraging others to do them "
+            "&mdash; is placed in hell as if delivered there; a "
+            "person doing the ten skillful acts and encouraging "
+            "others to do them is placed in heaven as if delivered "
+            "there."]),
+        ("Doubling by addition, not repetition", [
+            "The twenty qualities are not simply the same ten acts "
+            "counted twice; each of the original ten unskillful acts "
+            "gains a paired encouragement-item (encouraging others to "
+            "kill, encouraging others to steal, and so on through all "
+            "ten), doubling the count while keeping the underlying "
+            "content clearly traceable back to the original ten."]),
+        ("A social dimension added to purely personal conduct", [
+            "Where AN 10.221 concerned only what a person themselves "
+            "does, this discourse extends the same standard outward "
+            "&mdash; one becomes responsible not only for one's own "
+            "unskillful acts but for actively encouraging others "
+            "into the same acts, a social multiplier on personal "
+            "kammic responsibility."]),
+    ],
+    terms=[
+        ("samādapeti",
+         "&ldquo;encourages&rdquo; or incites others &mdash; the new "
+         "verb this discourse adds to each of the ten original acts, "
+         "doubling the count to twenty."),
+        ("vīsatiyā dhammehi samannāgato",
+         "&ldquo;with twenty qualities&rdquo; &mdash; this "
+         "discourse's own escalated count, the second of four steps "
+         "in this chapter's own multiplication."),
+        ("pāṇātipātī hoti, pāṇātipāte ca samādapeti",
+         "&ldquo;they kill living creatures, and they encourage "
+         "others to kill living creatures&rdquo; &mdash; the pattern "
+         "repeated for each of the original ten items, doing and "
+         "encouraging paired together."),
+        ("micchādiṭṭhiko hoti, micchādiṭṭhiyā ca samādapeti",
+         "&ldquo;has wrong view, and encourages others in wrong "
+         "view&rdquo; &mdash; the tenth pair, closing the twenty-item "
+         "unskillful list."),
+        ("sammādiṭṭhiko hoti, sammādiṭṭhiyā ca samādapeti",
+         "&ldquo;has right view, and encourages others in right "
+         "view&rdquo; &mdash; the mirrored tenth pair, closing the "
+         "twenty-item skillful list."),
+    ],
+    text_intro=(
+        "The discourse in full: twenty qualities, the ten courses of "
+        "action plus encouraging others, leading to hell or heaven. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, and heaven, at twenty qualities"),
+        ("p", "&sect;1", "an10.222:1.1-2.13"),
+    ],
+    quiz=[
+        {"q": "How does this discourse escalate AN 10.221's ten "
+              "qualities to twenty?",
+         "opts": [
+             "By adding ten entirely new, unrelated acts",
+             "By pairing each of the original ten acts with "
+             "encouraging others to do the same act",
+             "By simply repeating the same ten acts twice",
+             "By removing five acts and adding fifteen new ones"],
+         "correct": 1,
+         "expl": "Doubling by addition, keeping the content clearly "
+                 "traceable to the original ten."},
+        {"q": "According to the guide, what social dimension does "
+              "this discourse add to AN 10.221's purely personal "
+              "framing?",
+         "opts": [
+             "None; the content is identical",
+             "Responsibility not only for one's own acts, but for "
+             "actively encouraging others into the same acts",
+             "A removal of personal responsibility entirely",
+             "A focus on monastic community only"],
+         "correct": 1,
+         "expl": "A social multiplier added onto personal kammic "
+                 "responsibility."},
+        {"q": "What new verb does this discourse pair with each of "
+              "the original ten items?",
+         "opts": [
+             "Praises",
+             "Encourages (samādapeti)",
+             "Approves",
+             "Forbids"],
+         "correct": 1,
+         "expl": "The first of three additional modes of involvement "
+                 "this chapter's escalation will introduce."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many total qualities does this discourse's hell-"
+              "bound list contain?",
+         "opts": [
+             "Ten", "Twenty", "Thirty", "Forty"],
+         "correct": 1,
+         "expl": "The second of four escalating counts on this "
+                 "chapter's first base statement."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23",
+             "Chapter 20"],
+         "correct": 1,
+         "expl": "The twenty-second chapter, the second chapter of "
+                 "the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("Not new acts, new involvement", [
+            "still the same ten deeds —",
+            "now paired with pushing them",
+            "onto someone else",
+        ]),
+        ("A multiplier on responsibility", [
+            "not just what you do,",
+            "but who you've drawn in with you —",
+            "the count doubles here",
+        ]),
+        ("Second of four steps", [
+            "ten became twenty;",
+            "thirty, forty still ahead —",
+            "the pattern building",
+        ]),
+        ("Cross-references", [
+            "AN 10.221 &middot; Ten Qualities, previous",
+            "AN 10.223 &middot; next, Thirty Qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.222/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.221.html">AN 10.221 &middot; Ten Qualities</a> &mdash; previous.',
+        '<a href="an-10.223.html">AN 10.223 &middot; Thirty Qualities</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.223 — (untitled, thirty qualities)
+# --------------------------------------------------------------------------- #
+page(
+    223, "", "Thirty Qualities",
+    vagga=VAGGA_22,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_22,
+    meta_title="AN 10.223 — Thirty Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse, escalating to thirty qualities by "
+        "adding approval to doing and encouraging the same ten "
+        "acts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten courses of action, tripled to thirty by "
+                 "adding approval"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third of four escalating steps on this "
+                       "chapter's first base statement"),
+    ],
+    why=(
+        "This discourse takes the third step of this chapter's own "
+        "escalation, adding a further mode of involvement to AN "
+        "10.222's already-doubled twenty: not only doing and "
+        "encouraging the ten acts, but approving of them as well."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with thirty qualities &mdash; doing the ten "
+            "unskillful acts, encouraging others to do them, and "
+            "approving of them &mdash; is placed in hell as if "
+            "delivered there; the mirrored thirty skillful qualities "
+            "lead to heaven."]),
+        ("A third mode: silent or spoken endorsement", [
+            "Where encouraging (AN 10.222) involves actively urging "
+            "someone toward an act, <em>approving</em> "
+            "(<em>samanuñño hoti</em>) is a subtly different, "
+            "potentially quieter form of complicity &mdash; endorsing "
+            "or condoning an act, even without necessarily having "
+            "actively pushed anyone toward it in the first place."]),
+        ("The escalation's own internal logic, made explicit", [
+            "By this third step, the pattern is unmistakable: each "
+            "jump of ten items adds exactly one further mode of "
+            "relating to the same underlying ten acts &mdash; doing, "
+            "then encouraging, then approving &mdash; a widening "
+            "circle of complicity built entirely from repetition and "
+            "addition rather than any new content."]),
+    ],
+    terms=[
+        ("samanuñño hoti",
+         "&ldquo;approves of&rdquo; or endorses &mdash; the new "
+         "verb this discourse adds, distinct from and quieter than "
+         "AN 10.222's <em>samādapeti</em>, actively encouraging."),
+        ("tiṁsāya dhammehi samannāgato",
+         "&ldquo;with thirty qualities&rdquo; &mdash; this "
+         "discourse's own escalated count, the third of four steps."),
+        ("pāṇātipātī hoti, pāṇātipāte ca samādapeti, pāṇātipāte ca "
+         "samanuñño hoti",
+         "&ldquo;they kill living creatures, encourage others to "
+         "kill, and approve of killing&rdquo; &mdash; the "
+         "three-part pattern repeated for each of the ten original "
+         "items, now tripled."),
+        ("micchādiṭṭhiyā ca samanuñño hoti",
+         "&ldquo;and approves of wrong view&rdquo; &mdash; the third "
+         "element closing the tenth and final triplet of the "
+         "unskillful list."),
+        ("sammādiṭṭhiyā ca samanuñño hoti",
+         "&ldquo;and approves of right view&rdquo; &mdash; the "
+         "mirrored closing element of the skillful list."),
+    ],
+    text_intro=(
+        "The discourse in full: thirty qualities, the ten courses of "
+        "action plus encouraging and approving, leading to hell or "
+        "heaven. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, and heaven, at thirty qualities"),
+        ("p", "&sect;1", "an10.223:1.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What further mode of involvement does this discourse "
+              "add to AN 10.222's already-doubled twenty?",
+         "opts": [
+             "Praising the acts",
+             "Approving of the acts (samanuñño hoti)",
+             "Forbidding the acts",
+             "Nothing further is added"],
+         "correct": 1,
+         "expl": "The third of four escalating modes of involvement "
+                 "in this chapter's own multiplication."},
+        {"q": "According to the guide, how does \"approving\" differ "
+              "from \"encouraging\"?",
+         "opts": [
+             "They are identical in meaning",
+             "Approving is a subtly quieter form of complicity — "
+             "endorsing or condoning an act without necessarily "
+             "having actively pushed anyone toward it",
+             "Approving is more active than encouraging",
+             "There is no meaningful difference discussed"],
+         "correct": 1,
+         "expl": "A distinct, potentially quieter mode of "
+                 "involvement than active encouragement."},
+        {"q": "According to the guide, what does this chapter's "
+              "escalation pattern consist of, made explicit by this "
+              "third step?",
+         "opts": [
+             "Entirely new content added at each step",
+             "Each jump of ten items adds exactly one further mode "
+             "of relating to the same underlying ten acts",
+             "A random, unpredictable pattern",
+             "A reduction in content at each step"],
+         "correct": 1,
+         "expl": "A widening circle of complicity built from "
+                 "repetition and addition."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many total qualities does this discourse's list "
+              "contain?",
+         "opts": [
+             "Ten", "Twenty", "Thirty", "Forty"],
+         "correct": 2,
+         "expl": "The third of four escalating counts on this "
+                 "chapter's first base statement."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23",
+             "Chapter 20"],
+         "correct": 1,
+         "expl": "The twenty-second chapter, the second chapter of "
+                 "the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("A quieter complicity", [
+            "not pushing someone",
+            "toward it, but simply not",
+            "objecting either",
+        ]),
+        ("The pattern, now unmistakable", [
+            "do, encourage, then",
+            "approve — each step adds one mode,",
+            "nothing else changes",
+        ]),
+        ("Third of four steps", [
+            "twenty became thirty;",
+            "forty is the only stop",
+            "still ahead of this",
+        ]),
+        ("Cross-references", [
+            "AN 10.222 &middot; Twenty Qualities, previous",
+            "AN 10.224 &middot; next, Forty Qualities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.223/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.222.html">AN 10.222 &middot; Twenty Qualities</a> &mdash; previous.',
+        '<a href="an-10.224.html">AN 10.224 &middot; Forty Qualities</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.224 — (untitled, forty qualities)
+# --------------------------------------------------------------------------- #
+page(
+    224, "", "Forty Qualities",
+    vagga=VAGGA_22,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_22,
+    meta_title="AN 10.224 — Forty Qualities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse, completing the escalation to forty "
+        "qualities by adding praise to doing, encouraging, and "
+        "approving the same ten acts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten courses of action, quadrupled to forty by "
+                 "adding praise"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the fourth and final step on this chapter's "
+                       "first base statement"),
+    ],
+    why=(
+        "Completing this chapter's first four-step escalation, this "
+        "discourse adds a fourth and final mode of involvement to the "
+        "same ten acts &mdash; praising them &mdash; reaching forty "
+        "qualities before the chapter moves to its second base "
+        "statement at AN 10.225."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with forty qualities &mdash; doing the ten "
+            "unskillful acts, encouraging others, approving, and "
+            "praising them &mdash; is placed in hell as if delivered "
+            "there; the mirrored forty skillful qualities lead to "
+            "heaven."]),
+        ("The fourth and final mode: active public endorsement", [
+            "<em>Vaṇṇaṁ bhāsati</em>, &ldquo;speaks in praise,&rdquo; "
+            "completes a progression from private conduct (doing) "
+            "through active recruitment (encouraging) and quiet "
+            "endorsement (approving) to public, vocal advocacy "
+            "&mdash; the most socially visible and arguably most "
+            "consequential of the four modes."]),
+        ("Forty qualities, the ceiling of this base statement", [
+            "This discourse closes the four-step escalation opened "
+            "at AN 10.221; the chapter's remaining twelve discourses "
+            "(10.225&ndash;236) will run the identical four-step "
+            "escalation three more times, each time starting fresh "
+            "from a different base statement rather than continuing "
+            "to climb past forty."]),
+        ("A closing act of the same shape as the others", [
+            "As with each earlier step, nothing about the ten "
+            "underlying acts themselves changes here &mdash; only "
+            "the mode of relating to them, now completed with the "
+            "fourth and final addition before the whole four-part "
+            "cycle begins again with a new base statement."]),
+    ],
+    terms=[
+        ("vaṇṇaṁ bhāsati",
+         "&ldquo;speaks in praise&rdquo; &mdash; the fourth and "
+         "final verb this chapter's escalation adds, completing the "
+         "progression from doing to encouraging to approving to "
+         "praising."),
+        ("cattārīsāya dhammehi samannāgato",
+         "&ldquo;with forty qualities&rdquo; &mdash; this "
+         "discourse's own escalated count, the fourth and final step "
+         "of this base statement's own cycle."),
+        ("pāṇātipātassa ca vaṇṇaṁ bhāsati",
+         "&ldquo;and speaks in praise of killing&rdquo; &mdash; the "
+         "fourth element closing the tenth and final quadruplet of "
+         "the unskillful list."),
+        ("sammādiṭṭhiyā ca vaṇṇaṁ bhāsati",
+         "&ldquo;and speaks in praise of right view&rdquo; &mdash; "
+         "the mirrored closing element of the skillful list."),
+        ("Sāmaññavagga",
+         "&ldquo;the Chapter on Similarity&rdquo; &mdash; this "
+         "chapter's own name, describing the four-step escalation "
+         "pattern that will now repeat three more times on new base "
+         "statements."),
+    ],
+    text_intro=(
+        "The discourse in full: forty qualities, the ten courses of "
+        "action plus encouraging, approving, and praising, leading "
+        "to hell or heaven. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Hell, and heaven, at forty qualities"),
+        ("p", "&sect;1", "an10.224:1.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What fourth and final mode of involvement does this "
+              "discourse add?",
+         "opts": [
+             "Approving of the acts",
+             "Praising the acts (vaṇṇaṁ bhāsati)",
+             "Encouraging others",
+             "Nothing further is added"],
+         "correct": 1,
+         "expl": "Completing this chapter's first four-step "
+                 "escalation."},
+        {"q": "According to the guide, what progression does the "
+              "sequence doing → encouraging → approving → praising "
+              "trace?",
+         "opts": [
+             "No particular progression",
+             "From private conduct through active recruitment and "
+             "quiet endorsement to public, vocal advocacy",
+             "A progression from public to private",
+             "A progression that has no social dimension"],
+         "correct": 1,
+         "expl": "Increasing social visibility and consequence at "
+                 "each step."},
+        {"q": "According to the guide, what happens after this "
+              "discourse closes the escalation at forty qualities?",
+         "opts": [
+             "The chapter ends entirely",
+             "The remaining twelve discourses (10.225–236) run the "
+             "identical four-step escalation three more times, each "
+             "starting fresh from a different base statement",
+             "The escalation continues past forty",
+             "Nothing further happens in this nipāta"],
+         "correct": 1,
+         "expl": "The same 10/20/30/40 cycle repeated on three new "
+                 "base statements."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many total qualities does this discourse's list "
+              "contain?",
+         "opts": [
+             "Ten", "Twenty", "Thirty", "Forty"],
+         "correct": 3,
+         "expl": "The fourth and final escalating count on this "
+                 "chapter's first base statement."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23",
+             "Chapter 20"],
+         "correct": 1,
+         "expl": "The twenty-second chapter, the second chapter of "
+                 "the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("The loudest mode of all", [
+            "not just approving —",
+            "speaking it aloud, in praise,",
+            "the most public step",
+        ]),
+        ("A cycle, completed once", [
+            "do, urge, approve, praise —",
+            "the shape now finished — three more",
+            "times, new content, same shape",
+        ]),
+        ("Ten acts, four ways to be involved", [
+            "nothing new was said",
+            "about the acts themselves — just",
+            "how deeply one's in",
+        ]),
+        ("Cross-references", [
+            "AN 10.223 &middot; Thirty Qualities, previous",
+            "AN 10.221 &middot; Ten Qualities, opening this same "
+            "four-step cycle",
+            "AN 10.225&ndash;228 &middot; next, this chapter's "
+            "second base statement",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.224/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.223.html">AN 10.223 &middot; Thirty Qualities</a> &mdash; previous.',
+        '<a href="an-10.221.html">AN 10.221 &middot; Ten Qualities</a> &mdash; opening '
+        "this same four-step cycle.",
+        '<a href="an-10.225-228.html">AN 10.225&ndash;228</a> &mdash; next, this '
+        "chapter's second base statement.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.225–228 — Untitled Discourses on Ten to Forty Qualities (1st)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.225-228",
+    "index_pali": "(untitled)",
+    "nav_title": "Broken, Etc. (1st)",
+    "source": "an10/an10.225-228",
+    "crumb": "AN 10.225&ndash;228",
+    "meta_title": ("AN 10.225–228 — Broken, Etc. (1st) | Ru-Yi "
+                   "Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this compressed peyyāla, this chapter's second base "
+        "statement — keeping oneself broken or intact — run through "
+        "the same 10/20/30/40-quality escalation. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.225&ndash;228",
+    "title": "Broken, Etc. (1st)",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_22),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A new base statement (keeping oneself broken or "
+                 "intact) run through the identical 10/20/30/40-"
+                 "quality escalation already met at AN 10.221"
+                 "&ndash;224"),
+        ("Length", "under 1 minute to read the compressed text; the "
+                   "full four-discourse expansion would take about "
+                   "three"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief text, but tracking the escalation "
+                       "against a new base takes care"),
+    ],
+    "why": (
+        "This single page stands for four discourses (AN "
+        "10.225&ndash;228), applying this chapter's own escalation "
+        "pattern &mdash; doing, encouraging, approving, and praising "
+        "the same ten acts, at ten, twenty, thirty, and forty "
+        "qualities &mdash; to a new base statement: keeping oneself "
+        "&ldquo;broken and damaged&rdquo; or &ldquo;intact and "
+        "unscathed.&rdquo;"),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A person with the ten unskillful qualities (escalating "
+            "to twenty, thirty, and forty through encouraging, "
+            "approving, and praising them) keeps themselves broken "
+            "and damaged; a person with the ten skillful qualities, "
+            "at the same escalating counts, keeps themselves intact "
+            "and unscathed."]),
+        ("A new image, the same underlying multiplication", [
+            "Checked against bilara-data before writing, this "
+            "compressed range applies the identical structure "
+            "already run at AN 10.221&ndash;224 &mdash; base ten "
+            "acts, crossed against four escalating modes of "
+            "involvement &mdash; but replaces the rebirth-destination "
+            "language (hell/heaven) with a bodily integrity image: "
+            "&ldquo;broken and damaged&rdquo; (<em>khataṁ "
+            "upahataṁ</em>) versus &ldquo;intact and "
+            "unscathed&rdquo; (<em>akkhataṁ anupahataṁ</em>)."]),
+        ("A metaphor of self-harm through unskillful conduct", [
+            "&ldquo;Keeping oneself broken and damaged&rdquo; frames "
+            "unskillful conduct not primarily as a cosmic offense "
+            "against others or as a determinant of rebirth "
+            "destination, but as a kind of self-inflicted injury "
+            "&mdash; the person who kills, steals, and encourages "
+            "others to do the same is, on this image, damaging their "
+            "own integrity in the process."]),
+        ("Second of four bases, following an established rhythm", [
+            "As this chapter's second base statement, this "
+            "compressed page occupies the same structural position AN "
+            "10.156&ndash;166 and AN 10.199&ndash;210 occupied in "
+            "chapters 16 and 20 &mdash; a merged peyyāla page standing "
+            "in for several individually numbered discourses, "
+            "following this project's now well-established "
+            "convention."]),
+    ],
+    "terms": [
+        ("khataṁ upahataṁ attānaṁ pariharati",
+         "&ldquo;keeps themselves broken and damaged&rdquo; &mdash; "
+         "this compressed range's own base phrase for the unskillful "
+         "side, replacing AN 10.221&ndash;224's hell/heaven language."),
+        ("akkhataṁ anupahataṁ attānaṁ pariharati",
+         "&ldquo;keeps themselves intact and unscathed&rdquo; "
+         "&mdash; the mirrored positive phrase."),
+        ("samādapeti",
+         "&ldquo;encourages&rdquo; &mdash; the same escalation verb "
+         "already met at AN 10.222, reused here for the twenty-"
+         "quality step."),
+        ("samanuñño hoti",
+         "&ldquo;approves of&rdquo; &mdash; the same escalation verb "
+         "already met at AN 10.223, reused here for the thirty-"
+         "quality step."),
+        ("vaṇṇaṁ bhāsati",
+         "&ldquo;speaks in praise of&rdquo; &mdash; the same "
+         "escalation verb already met at AN 10.224, reused here for "
+         "the forty-quality step."),
+    ],
+    "text_intro": (
+        "The compressed text in full: keeping oneself broken or "
+        "intact, run through the same ten/twenty/thirty/forty-"
+        "quality escalation. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Broken, or intact, across four escalating counts"),
+        ("p", "&sect;1", "an10.225-228:1.1-1.6"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "Four individually numbered discourses (AN 10.225"
+             "–228), applying this chapter's escalation pattern to a "
+             "new base statement",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "The second of this chapter's four base statements, "
+                 "run through the same 10/20/30/40 escalation."},
+        {"q": "What new base statement does this compressed range use "
+              "in place of AN 10.221–224's hell/heaven language?",
+         "opts": [
+             "A near/far shore image",
+             "\"Keeps themselves broken and damaged\" versus \"keeps "
+             "themselves intact and unscathed\"",
+             "A dice simile",
+             "A creeping-animal rebirth image"],
+         "correct": 1,
+         "expl": "A bodily integrity image, confirmed against "
+                 "bilara-data before writing."},
+        {"q": "According to the guide, how does \"keeping oneself "
+              "broken and damaged\" frame unskillful conduct?",
+         "opts": [
+             "As solely a cosmic offense against others",
+             "As a kind of self-inflicted injury, damaging one's own "
+             "integrity",
+             "As having no consequence at all",
+             "As identical to the hell/heaven framing with no "
+             "difference"],
+         "correct": 1,
+         "expl": "A metaphor of self-harm through unskillful conduct."},
+        {"q": "According to the guide, what structural position does "
+              "this compressed page occupy within this chapter?",
+         "opts": [
+             "The chapter's opening discourse",
+             "The second of four base statements, following the same "
+             "merged-peyyāla convention already used at AN 10.156"
+             "–166 and AN 10.199–210",
+             "The chapter's closing discourse",
+             "An isolated, one-off structure with no precedent"],
+         "correct": 1,
+         "expl": "The same convention already established in "
+                 "chapters 16 and 20."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+        {"q": "What four escalation verbs run through this chapter's "
+              "own multiplication, according to the guide?",
+         "opts": [
+             "Forgetting, remembering, doubting, confirming",
+             "Doing, encouraging, approving, and praising",
+             "Fearing, avoiding, accepting, embracing",
+             "Hearing, speaking, seeing, touching"],
+         "correct": 1,
+         "expl": "The same four modes already established at AN "
+                 "10.221–224."},
+    ],
+    "marginalia": [
+        ("A new image, the same math", [
+            "not hell and heaven —",
+            "broken, or intact — but the",
+            "same four-step climb still",
+        ]),
+        ("Harm turned inward", [
+            "not just cosmic weight,",
+            "but self-inflicted damage —",
+            "conduct as injury",
+        ]),
+        ("The second of four bases", [
+            "one pattern, four times —",
+            "this is base two of four, met",
+            "before at chapters past",
+        ]),
+        ("Cross-references", [
+            "AN 10.224 &middot; Forty Qualities, previous, closing "
+            "this chapter's first base statement",
+            "AN 10.156&ndash;166 &middot; chapter 16's own merged "
+            "peyyāla, for comparison",
+            "AN 10.229&ndash;232 &middot; next, this chapter's third "
+            "base statement",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.225-228/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.224.html">AN 10.224 &middot; Forty Qualities</a> &mdash; previous.',
+        '<a href="an-10.229-232.html">AN 10.229&ndash;232</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.229–232 — Untitled Discourses on Ten to Forty Qualities (2nd)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.229-232",
+    "index_pali": "(untitled)",
+    "nav_title": "Reborn, Etc. (2nd)",
+    "source": "an10/an10.229-232",
+    "crumb": "AN 10.229&ndash;232",
+    "meta_title": ("AN 10.229–232 — Reborn, Etc. (2nd) | Ru-Yi "
+                   "Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this compressed peyyāla, this chapter's third base "
+        "statement — rebirth in hell or heaven — run through the "
+        "same 10/20/30/40-quality escalation. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.229&ndash;232",
+    "title": "Reborn, Etc. (2nd)",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_22),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A third base statement (rebirth in hell or "
+                 "heaven) run through the identical 10/20/30/40-"
+                 "quality escalation"),
+        ("Length", "under 1 minute to read the compressed text; the "
+                   "full four-discourse expansion would take about "
+                   "three"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief text, but tracking the escalation "
+                       "against a new base takes care"),
+    ],
+    "why": (
+        "This single page stands for four more discourses (AN "
+        "10.229&ndash;232), applying the same escalation pattern to "
+        "a third base statement &mdash; explicit rebirth in hell or "
+        "heaven &mdash; closely echoing AN 10.221&ndash;224's own "
+        "framing but phrased with <em>upapajjati</em>, is reborn, "
+        "rather than the earlier <em>nikkhitto</em>, is placed."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A person with the ten unskillful qualities (escalating "
+            "to twenty, thirty, and forty through encouraging, "
+            "approving, and praising them) is reborn, when the body "
+            "breaks up after death, in a place of loss, the "
+            "underworld, hell; a person with the ten skillful "
+            "qualities, at the same escalating counts, is reborn in "
+            "a good place, a heavenly realm."]),
+        ("A close echo of this chapter's first base, not a repeat", [
+            "This base statement's content is nearly identical in "
+            "sense to AN 10.221&ndash;224's own hell/heaven framing, "
+            "but checked against bilara-data before writing, the "
+            "actual phrasing differs: where the first base used "
+            "<em>nikkhitto evaṁ niraye</em>, &ldquo;placed in hell as "
+            "if delivered there,&rdquo; this one uses the more "
+            "standard rebirth vocabulary <em>kāyassa bhedā paraṁ "
+            "maraṇā&hellip;upapajjati</em>, &ldquo;when the body "
+            "breaks up, after death, is reborn&hellip;,&rdquo; already "
+            "familiar from many other discourses across this project."]),
+        ("The most conventional of this chapter's four bases", [
+            "Where AN 10.221&ndash;224 used a vivid, slightly unusual "
+            "idiom and AN 10.225&ndash;228 used a bodily-integrity "
+            "metaphor, this third base statement is the most "
+            "standard and familiar rebirth-language in the entire "
+            "chapter, matching the ordinary phrasing already used at "
+            "dozens of discourses throughout this nipāta."]),
+        ("Third of four bases, one more still to come", [
+            "With this compressed page, three of this chapter's four "
+            "base statements are now complete; only AN 10.233"
+            "&ndash;236's fool/astute-person framing remains before "
+            "the chapter closes and the Fifth Fifty moves toward its "
+            "own final, much larger peyyāla at chapter 23."]),
+    ],
+    "terms": [
+        ("kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ "
+         "nirayaṁ upapajjati",
+         "&ldquo;when the body breaks up, after death, is reborn in "
+         "a place of loss, a bad place, the underworld, hell&rdquo; "
+         "&mdash; this compressed range's own base phrase, the most "
+         "standard rebirth vocabulary of this chapter's four bases."),
+        ("sugatiṁ saggaṁ lokaṁ upapajjati",
+         "&ldquo;is reborn in a good place, a heavenly realm&rdquo; "
+         "&mdash; the mirrored positive phrase."),
+        ("nikkhitto evaṁ niraye",
+         "&ldquo;placed in hell as if delivered there&rdquo; "
+         "&mdash; the more unusual idiom used at this chapter's "
+         "first base statement, AN 10.221&ndash;224, distinct from "
+         "this range's own more conventional phrasing."),
+        ("samādapeti, samanuñño hoti, vaṇṇaṁ bhāsati",
+         "&ldquo;encourages, approves of, speaks in praise "
+         "of&rdquo; &mdash; the same three escalation verbs reused "
+         "from this chapter's first base statement."),
+        ("apāya, duggati, vinipāta",
+         "&ldquo;place of loss, bad place, underworld&rdquo; "
+         "&mdash; three near-synonymous terms compounded together "
+         "before &ldquo;hell&rdquo; itself, a formula already met "
+         "constantly across this project's rebirth-destination "
+         "language."),
+    ],
+    "text_intro": (
+        "The compressed text in full: rebirth in hell or heaven, run "
+        "through the same ten/twenty/thirty/forty-quality "
+        "escalation. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Reborn in hell, or heaven, across four escalating "
+                "counts"),
+        ("p", "&sect;1", "an10.229-232:1.1-1.5"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "Four individually numbered discourses (AN 10.229"
+             "–232), applying this chapter's escalation pattern to a "
+             "third base statement",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "The third of this chapter's four base statements, "
+                 "run through the same escalation."},
+        {"q": "According to the guide, how does this base statement's "
+              "phrasing differ from AN 10.221–224's, even though the "
+              "sense is nearly identical?",
+         "opts": [
+             "No difference at all",
+             "This range uses the standard rebirth formula \"when "
+             "the body breaks up, after death, is reborn\" rather "
+             "than the earlier \"placed in hell as if delivered\"",
+             "This range removes all hell/heaven content",
+             "This range adds entirely new items"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing, "
+                 "rather than assumed identical phrasing."},
+        {"q": "According to the guide, how does this base statement "
+              "compare to the other three in this chapter?",
+         "opts": [
+             "It is the most unusual phrasing in the chapter",
+             "It is the most standard and familiar rebirth-language "
+             "in the entire chapter, matching dozens of other "
+             "discourses throughout this nipāta",
+             "It has no parallel anywhere else in this project",
+             "It uses entirely unique vocabulary"],
+         "correct": 1,
+         "expl": "The most conventional of this chapter's four bases."},
+        {"q": "How many of this chapter's four base statements are "
+              "complete after this compressed page, according to the "
+              "guide?",
+         "opts": [
+             "One", "Two", "Three", "All four"],
+         "correct": 2,
+         "expl": "Only the fool/astute-person base (AN 10.233–236) "
+                 "remains before this chapter closes."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+        {"q": "What escalation verbs are reused from this chapter's "
+              "first base statement, according to the guide?",
+         "opts": [
+             "None; new verbs are introduced",
+             "Encourages, approves of, and speaks in praise of",
+             "Only \"encourages\"",
+             "Only \"praises\""],
+         "correct": 1,
+         "expl": "The identical three escalation verbs already met "
+                 "at AN 10.222–224."},
+    ],
+    "marginalia": [
+        ("The same words as elsewhere in this book", [
+            "not a strange idiom —",
+            "the ordinary rebirth phrase",
+            "used constantly before",
+        ]),
+        ("Same sense, different words", [
+            "\"placed there,\" \"reborn there\" —",
+            "nearly the same claim, in two",
+            "different Pali forms",
+        ]),
+        ("Third of four, closing in", [
+            "one base statement left —",
+            "fool and astute, still ahead,",
+            "before this chapter ends",
+        ]),
+        ("Cross-references", [
+            "AN 10.225&ndash;228 &middot; Broken, Etc. (1st), "
+            "previous",
+            "AN 10.221&ndash;224 &middot; this chapter's first base "
+            "statement, using the more unusual \"placed as if "
+            "delivered\" idiom",
+            "AN 10.233&ndash;236 &middot; next, this chapter's fourth "
+            "and final base statement",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.229-232/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.225-228.html">AN 10.225&ndash;228</a> &mdash; previous.',
+        '<a href="an-10.233-236.html">AN 10.233&ndash;236</a> &mdash; next, closing this '
+        "chapter.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.233–236 — Untitled Discourses on Ten to Forty Qualities (3rd)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.233-236",
+    "index_pali": "(untitled)",
+    "nav_title": "Fool and Astute Person, Etc. (3rd)",
+    "source": "an10/an10.233-236",
+    "crumb": "AN 10.233&ndash;236",
+    "meta_title": ("AN 10.233–236 — Fool and Astute Person, Etc. "
+                   "(3rd) — Closing Chapter 22 | Ru-Yi Meditation "
+                   "Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this compressed peyyāla, closing chapter 22 with a fourth "
+        "base statement — how a fool or an astute person is known "
+        "— run through the familiar escalation. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.233&ndash;236",
+    "title": "Fool and Astute Person, Etc. (3rd)",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing "
+                "this chapter" % VAGGA_22),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A fourth and final base statement (how a fool or "
+                 "an astute person is known) run through the "
+                 "identical 10/20/30/40-quality escalation"),
+        ("Length", "under 1 minute to read the compressed text; the "
+                   "full four-discourse expansion would take about "
+                   "three"),
+        ("Closing this chapter", "This page closes "
+            "<em>Sāmaññavagga</em>, the twenty-second chapter, with "
+            "its own untranslated colophon &lsquo;Sāmaññavaggo "
+            "dutiyo&rsquo; (the second chapter of the Fifth Fifty)"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief text, but tracking the escalation "
+                       "against a new base takes care"),
+    ],
+    "why": (
+        "Closing this chapter, this final compressed page applies "
+        "the same familiar escalation to a fourth base statement "
+        "&mdash; not rebirth destination or bodily integrity, but "
+        "how a fool or an astute person is <em>known</em>, judged "
+        "by others through the same underlying pattern of conduct."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A fool is known by the ten unskillful qualities "
+            "(escalating to twenty, thirty, and forty through "
+            "encouraging, approving, and praising them); an astute "
+            "person is known by the ten skillful qualities, at the "
+            "same escalating counts."]),
+        ("A shift to social recognition, closing the chapter's own "
+         "range of framings", [
+            "Across its four base statements, this chapter has now "
+            "framed the same underlying ten-and-escalation pattern "
+            "as rebirth destination (AN 10.221&ndash;224), bodily "
+            "integrity (AN 10.225&ndash;228), rebirth destination "
+            "again in more standard language (AN 10.229&ndash;232), "
+            "and now, closing the chapter, as a matter of how others "
+            "come to recognize and judge a person's character."]),
+        ("Bāla and paṇḍita, vocabulary from across this project", [
+            "<em>Bāla</em>, fool, and <em>paṇḍita</em>, astute person "
+            "or sage, are recurring evaluative categories already met "
+            "constantly throughout this nipāta; this discourse "
+            "anchors both terms explicitly to the same escalating "
+            "ten-quality standard already used for hell/heaven and "
+            "bodily integrity earlier in this chapter."]),
+        ("A closing colophon confirming the Fifth Fifty's own "
+         "continuation", [
+            "This page's own colophon, &lsquo;Sāmaññavaggo "
+            "dutiyo&rsquo; (the Similarity Chapter, the second [of "
+            "the Fifth Fifty]), carries no larger fifty-closing "
+            "declaration &mdash; unlike AN 10.154 or AN 10.198, the "
+            "Fifth Fifty continues for one more chapter (ch23) before "
+            "its own eventual close, and with it, the completion of "
+            "this entire project."]),
+    ],
+    "terms": [
+        ("dasahi dhammehi samannāgato bālo veditabbo",
+         "&ldquo;a fool is known by ten qualities&rdquo; &mdash; "
+         "this compressed range's own base phrase, shifting from "
+         "rebirth or bodily integrity to social recognition."),
+        ("paṇḍito veditabbo",
+         "&ldquo;an astute person is known&rdquo; &mdash; the "
+         "mirrored positive phrase."),
+        ("bāla, paṇḍita",
+         "&ldquo;fool&rdquo; and &ldquo;astute person&rdquo; "
+         "&mdash; recurring evaluative categories already met "
+         "constantly throughout this nipāta, here anchored to the "
+         "same escalating ten-quality standard."),
+        ("samādapeti, samanuñño hoti, vaṇṇaṁ bhāsati",
+         "&ldquo;encourages, approves of, speaks in praise of&rdquo; "
+         "&mdash; the same three escalation verbs completing all "
+         "four of this chapter's base statements."),
+        ("Sāmaññavaggo dutiyo",
+         "&ldquo;the Similarity Chapter, the second&rdquo; &mdash; "
+         "this chapter's own closing colophon, confirming its "
+         "position as the second chapter of the Fifth Fifty, with no "
+         "larger fifty-closing declaration."),
+    ],
+    "text_intro": (
+        "The compressed text in full: how a fool or an astute person "
+        "is known, run through the same ten/twenty/thirty/forty-"
+        "quality escalation, closing this chapter. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Fool, and astute person, across four escalating "
+                "counts"),
+        ("p", "&sect;1", "an10.233-236:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for, and what "
+              "does it close?",
+         "opts": [
+             "A single new discourse, with no larger significance",
+             "Four individually numbered discourses (AN 10.233"
+             "–236), closing chapter 22, Sāmaññavagga",
+             "A biography of a named disciple",
+             "The entire Fifth Fifty"],
+         "correct": 1,
+         "expl": "The fourth and final base statement, closing this "
+                 "chapter's own sixteen-discourse run."},
+        {"q": "What base statement does this compressed range use, "
+              "distinct from the other three in this chapter?",
+         "opts": [
+             "Rebirth destination",
+             "How a fool or an astute person is known — a shift to "
+             "social recognition rather than rebirth or bodily "
+             "integrity",
+             "Bodily integrity",
+             "No base statement is used"],
+         "correct": 1,
+         "expl": "Judged by others through the same underlying "
+                 "pattern of conduct."},
+        {"q": "According to the guide, what four framings has this "
+              "chapter now applied to the same underlying pattern, "
+              "counting this final one?",
+         "opts": [
+             "Only one framing throughout",
+             "Rebirth destination, bodily integrity, rebirth "
+             "destination again in more standard language, and now "
+             "social recognition",
+             "Four completely unrelated teachings",
+             "The same framing repeated four times identically"],
+         "correct": 1,
+         "expl": "Four distinct lenses applied to the same ten-and-"
+                 "escalation structure."},
+        {"q": "What does this page's closing colophon state, "
+              "according to the guide?",
+         "opts": [
+             "\"Catuttho paṇṇāsako samatto\" — the Fourth Fifty is "
+             "finished",
+             "\"Sāmaññavaggo dutiyo\" — the second chapter of the "
+             "Fifth Fifty, with no larger fifty-closing declaration",
+             "\"Tatiyo paṇṇāsako samatto\"",
+             "No colophon is given"],
+         "correct": 1,
+         "expl": "The Fifth Fifty continues for one more chapter "
+                 "before its own eventual close."},
+        {"q": "What two recurring evaluative terms does this "
+              "discourse anchor to the escalating ten-quality "
+              "standard, according to the guide?",
+         "opts": [
+             "Noble and ignoble",
+             "Bāla (fool) and paṇḍita (astute person)",
+             "Skillful and unskillful only",
+             "Blameworthy and blameless"],
+         "correct": 1,
+         "expl": "Categories already met constantly throughout this "
+                 "nipāta, here given explicit ten-quality content."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("From destiny to reputation", [
+            "not hell, not damage,",
+            "but how others come to know",
+            "who's a fool, who's wise",
+        ]),
+        ("Four lenses, one structure", [
+            "rebirth, harm, rebirth",
+            "again, now reputation —",
+            "the same math, four times",
+        ]),
+        ("A fifty not yet finished", [
+            "\"second chapter\" only —",
+            "no grand closure yet; one more",
+            "chapter stands ahead",
+        ]),
+        ("Cross-references", [
+            "AN 10.229&ndash;232 &middot; Reborn, Etc. (2nd), "
+            "previous",
+            "AN 10.221 &middot; Ten Qualities, opening this "
+            "chapter's own first base statement",
+            "AN 10.237 &middot; next, opening chapter 23, this "
+            "book's final chapter",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.233-236/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.229-232.html">AN 10.229&ndash;232</a> &mdash; previous.',
+        '<a href="an-10.221.html">AN 10.221 &middot; Ten Qualities</a> &mdash; opening '
+        "this chapter's first base statement.",
+    ],
+})
