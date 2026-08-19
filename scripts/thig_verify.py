@@ -118,7 +118,12 @@ def verify(page):
                 if not para.startswith(head):
                     continue
                 rest = para[len(head):].lstrip()
-                leaked = not rest or rest[0] in "\u201c\u2018\"'" or rest[0].isupper()
+                # A paragraph that is *exactly* the heading (rest == "") is a
+                # deliberate full inclusion (e.g. the collection's opening
+                # homage line, tagged "X.0" like a heading but meant to be
+                # shown) -- not a boundary-error leak, which always glues real
+                # verse text directly onto the heading within the same para.
+                leaked = bool(rest) and (rest[0] in "\u201c\u2018\"'" or rest[0].isupper())
                 check(not leaked,
                       "%s: paragraph %d opens with heading %s (%r)"
                       % (slug, i, key, head[:60]))
