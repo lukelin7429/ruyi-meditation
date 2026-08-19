@@ -20862,3 +20862,1842 @@ page(
         "opening this chapter.",
     ],
 )
+
+
+VAGGA_12 = "<em>Paccorohaṇivagga</em> &mdash; the twelfth chapter of the Tens, the Chapter on the Ceremony of Descent"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.113 — Paṭhamaadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    113, "Paṭhamaadhamma", "Bad Principles (1st)",
+    vagga=VAGGA_12,
+    meta_title="AN 10.113 — Bad Principles (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamaadhammasutta, opening the Tens' twelfth chapter "
+        "with the ten-factor path recast as bad principles and good "
+        "principles to be known and followed. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A brief instruction, then the familiar ten-factor "
+                 "path in two lists"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake, deferred", "This chapter is named for "
+                                         "its own <em>ceremony of "
+                                         "descent</em>, a subject "
+                                         "this discourse does not yet "
+                                         "raise &mdash; that "
+                                         "namesake discourse waits "
+                                         "until AN 10.119, seventh in "
+                                         "the chapter"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening a chapter that will develop "
+                       "this same content gradually"),
+    ],
+    why=(
+        "Opening a new chapter with the plainest possible statement, "
+        "the Buddha names the now-familiar ten-factor path once more "
+        "&mdash; not as a causal chain or a fulfillment formula this "
+        "time, but simply as principles to be known, distinguished, "
+        "and acted on."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Mendicants should know bad principles with bad results "
+            "&mdash; the ten wrong factors from wrong view to wrong "
+            "freedom &mdash; and good principles with good results "
+            "&mdash; the ten right factors &mdash; and, knowing this, "
+            "practice should follow the good."]),
+        ("The simplest framing yet of familiar content", [
+            "After ch.11's eight discourses dressing the same "
+            "ten-factor content in seed, medical, and washing images, "
+            "this discourse opens a new chapter with perhaps the "
+            "plainest framing the content has received anywhere in "
+            "this nipāta: simply &ldquo;know the bad, know the good, "
+            "practice the good&rdquo; &mdash; no simile, no "
+            "narrative, no elaborate causal mechanism."]),
+        ("Principles paired with results, a new vocabulary", [
+            "Though the underlying ten factors are unchanged, this "
+            "discourse introduces new terminology not used in "
+            "chapter 11's run: <em>dhamma</em>, principle, paired "
+            "with <em>vipāka</em>, result &mdash; language this "
+            "chapter's next two discourses will develop much further, "
+            "specifying exactly what those results consist of."]),
+        ("The first of a three-discourse opening trio", [
+            "AN 10.113 through 10.115 form a matched, escalating set: "
+            "this discourse states the bare principle, AN 10.114 "
+            "expands it factor by factor, and AN 10.115 dramatizes "
+            "the very same content through a narrative about the "
+            "Buddha's own brief teaching style and Ānanda's role in "
+            "explaining it."]),
+    ],
+    terms=[
+        ("pāpakā dhammā vipākavantā",
+         "&ldquo;bad principles with bad results&rdquo; &mdash; the "
+         "discourse's own paired terminology for the ten wrong "
+         "factors."),
+        ("kalyāṇā dhammā vipākavantā",
+         "&ldquo;good principles with good results&rdquo; &mdash; "
+         "the mirrored term for the ten right factors."),
+        ("iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ",
+         "&ldquo;that's what I said, and this is why I said it&rdquo; "
+         "&mdash; the Buddha's own recurring self-explanatory formula "
+         "closing this discourse."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the first of the ten bad "
+         "principles, opening the familiar list once more."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "good principle, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the instruction to know and follow "
+        "good principles, and the two ten-item lists. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Know the bad, know the good"),
+        ("p", "&sect;1", "an10.113:1.1-1.3"),
+        ("h3", "Ten bad principles, ten good principles"),
+        ("p", "&sect;2", "an10.113:2.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What instruction opens this discourse?",
+         "opts": [
+             "Meditate on impermanence",
+             "Know bad principles with bad results, know good "
+             "principles with good results, and follow the good",
+             "Avoid all speech",
+             "Seek out a teacher"],
+         "correct": 1,
+         "expl": "The plainest possible framing of the familiar "
+                 "ten-factor path."},
+        {"q": "According to the guide, how does this discourse's "
+              "framing compare to chapter 11's eight-discourse run?",
+         "opts": [
+             "It is far more elaborate",
+             "It is perhaps the plainest framing the ten-factor "
+             "content has received anywhere in this nipāta, with no "
+             "simile or narrative at all",
+             "It contradicts chapter 11's content",
+             "It removes several of the ten factors"],
+         "correct": 1,
+         "expl": "A bare statement opening a new chapter."},
+        {"q": "What new vocabulary does this discourse introduce, "
+              "according to the guide?",
+         "opts": [
+             "None; it uses only prior terms",
+             "Dhamma (\"principle\") paired with vipāka "
+             "(\"result\")",
+             "A completely new set of ten factors",
+             "Sanskrit loanwords"],
+         "correct": 1,
+         "expl": "Terminology the next two discourses will develop "
+                 "further."},
+        {"q": "According to the guide, what role does this discourse "
+              "play in relation to AN 10.114 and 10.115?",
+         "opts": [
+             "It is unrelated to both",
+             "It opens a matched, escalating trio: bare statement, "
+             "factor-by-factor expansion, then narrative dramatization",
+             "It contradicts the following two discourses",
+             "It is a verbatim repeat of AN 10.114"],
+         "correct": 1,
+         "expl": "The first of three discourses building on the same "
+                 "content."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Plainest of all framings", [
+            "no seed, no washing,",
+            "no simile at all &mdash; just",
+            "know good, follow good",
+        ]),
+        ("A new pair of words", [
+            "principle and result,",
+            "paired here for the first time &mdash;",
+            "more to come on this",
+        ]),
+        ("Three steps, just beginning", [
+            "stated bare, then spelled",
+            "out factor by factor, then",
+            "dramatized in full",
+        ]),
+        ("Cross-references", [
+            "AN 10.112 &middot; previous, closing ch.11, "
+            "Samaṇasaññāvagga",
+            "AN 10.114 &middot; next, Bad Principles (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.113/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.112.html">AN 10.112</a> &mdash; previous, closing chapter 11, '
+        "Samaṇasaññāvagga.",
+        '<a href="an-10.114.html">AN 10.114 &middot; Bad Principles (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.114 — Dutiyaadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    114, "Dutiyaadhamma", "Bad Principles (2nd)",
+    vagga=VAGGA_12,
+    meta_title="AN 10.114 — Bad Principles (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaadhammasutta, expanding AN 10.113's bare "
+        "principle/result pairing into a full factor-by-factor "
+        "treatment of the ten-factor path. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten parallel four-part formulas, one per factor"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clear, repetitive expansion of AN 10.113"),
+    ],
+    why=(
+        "Where AN 10.113 stated its principle/result pairing only "
+        "once, in the abstract, this discourse expands it into ten "
+        "individual four-part formulas, specifying exactly what "
+        "counts as a bad principle, a good principle, a bad result, "
+        "and a good result for each of the ten factors in turn."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For each of the ten factors from view to freedom, the "
+            "wrong version is a bad principle and the right version a "
+            "good principle, while the many bad qualities the wrong "
+            "version produces are the bad result, and the many "
+            "skillful qualities the right version fully develops are "
+            "the good result."]),
+        ("Four questions, answered ten times over", [
+            "The discourse opens by posing four explicit questions "
+            "&mdash; what are bad principles, what are good "
+            "principles, what are bad results, what are good results "
+            "&mdash; then answers all four simultaneously for each of "
+            "the ten factors, rather than treating the four questions "
+            "as separate sections."]),
+        ("Principle and result kept genuinely distinct", [
+            "The discourse's structure insists on a real distinction "
+            "collapsed in looser speech: the principle itself (wrong "
+            "view) is not identical to its result (the bad qualities "
+            "it produces) &mdash; one is the cause named directly, "
+            "the other its downstream consequence, each given its own "
+            "clause in every one of the ten formulas."]),
+        ("The middle term in a three-discourse escalation", [
+            "This discourse sits between AN 10.113's bare statement "
+            "and AN 10.115's full narrative dramatization of the "
+            "identical content &mdash; the same four-part formula "
+            "given here in full will reappear, word for word, inside "
+            "Ānanda's own explanation in the discourse that follows."]),
+    ],
+    terms=[
+        ("pāpako dhammo",
+         "&ldquo;a bad principle&rdquo; &mdash; the term applied "
+         "individually to each of the ten wrong factors in this "
+         "discourse's expanded treatment."),
+        ("kalyāṇo dhammo",
+         "&ldquo;a good principle&rdquo; &mdash; the mirrored term "
+         "for each right factor."),
+        ("micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā "
+         "sambhavanti",
+         "&ldquo;the many bad, unskillful qualities produced by "
+         "wrong view&rdquo; &mdash; the specific content of &ldquo;bad "
+         "result&rdquo; for the first factor, view."),
+        ("sammādiṭṭhipaccayā aneke kusalā dhammā "
+         "bhāvanāpāripūriṁ gacchanti",
+         "&ldquo;the many skillful qualities fully developed because "
+         "of right view&rdquo; &mdash; the mirrored &ldquo;good "
+         "result&rdquo; for the same factor."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, given the same fourfold treatment as all the "
+         "others."),
+    ],
+    text_intro=(
+        "The discourse in full: the four questions posed, then "
+        "answered for all ten factors in turn. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four questions"),
+        ("p", "&sect;1", "an10.114:1.1-2.1"),
+        ("h3", "Ten factors, each given four answers"),
+        ("p", "&sect;2", "an10.114:3.1-12.4"),
+        ("h3", "Closing restatement"),
+        ("p", "&sect;3", "an10.114:13.1-13.4"),
+    ],
+    quiz=[
+        {"q": "What four questions does this discourse pose at its "
+              "opening?",
+         "opts": [
+             "What are the four noble truths",
+             "What are bad principles, good principles, bad results, "
+             "and good results",
+             "What are the four postures",
+             "What are the four right efforts"],
+         "correct": 1,
+         "expl": "Four questions, then answered together for each of "
+                 "the ten factors."},
+        {"q": "According to the guide, what distinction does this "
+              "discourse insist on keeping clear?",
+         "opts": [
+             "No distinction is drawn",
+             "That the principle itself (e.g. wrong view) is not "
+             "identical to its result (the bad qualities it "
+             "produces) &mdash; cause and downstream consequence, "
+             "each given its own clause",
+             "That principles and results are the same thing",
+             "That only results matter, not principles"],
+         "correct": 1,
+         "expl": "A genuine cause/consequence distinction, not a "
+                 "loose conflation."},
+        {"q": "How many times is the four-part formula applied in "
+              "this discourse?",
+         "opts": [
+             "Once, in the abstract",
+             "Ten times, once for each factor from view to freedom",
+             "Five times",
+             "Twenty times"],
+         "correct": 1,
+         "expl": "A full factor-by-factor expansion of AN 10.113's "
+                 "bare statement."},
+        {"q": "According to the guide, what happens to this exact "
+              "formula in AN 10.115?",
+         "opts": [
+             "It is contradicted",
+             "It reappears word for word inside Ānanda's own "
+             "explanation of the same content",
+             "It is dropped entirely",
+             "It is replaced by a different teaching"],
+         "correct": 1,
+         "expl": "The middle term in a three-discourse escalation "
+                 "toward full narrative dramatization."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Four questions, ten answers", [
+            "bad, good, bad result,",
+            "good result &mdash; asked once, then",
+            "answered ten times over",
+        ]),
+        ("Cause kept apart from effect", [
+            "wrong view itself, and",
+            "what wrong view produces &mdash;",
+            "two clauses, not one",
+        ]),
+        ("A formula about to travel", [
+            "these same four answers",
+            "will return word for word in",
+            "Ānanda's own mouth",
+        ]),
+        ("Cross-references", [
+            "AN 10.113 &middot; Bad Principles (1st), the bare "
+            "statement this discourse expands",
+            "AN 10.115 &middot; next, Bad Principles (3rd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.114/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.113.html">AN 10.113 &middot; Bad Principles (1st)</a> &mdash; '
+        "previous.",
+        '<a href="an-10.115.html">AN 10.115 &middot; Bad Principles (3rd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.115 — Tatiyaadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    115, "Tatiyaadhamma", "Bad Principles (3rd)",
+    vagga=VAGGA_12,
+    meta_title="AN 10.115 — Bad Principles (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyaadhammasutta, in which mendicants bypass the "
+        "Buddha to ask Ānanda for an explanation, are corrected with "
+        "the famous heartwood simile, and the Buddha confirms "
+        "Ānanda's answer word for word. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "A group of mendicants, Venerable Ānanda, and "
+                     "the Buddha"),
+        ("Form", "A narrative of an unexplained brief teaching, a "
+                 "misdirected request, a corrective simile, and "
+                 "confirmed agreement"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a well-known narrative pattern, richly "
+                       "textured"),
+    ],
+    why=(
+        "Completing this chapter's opening trio, the identical "
+        "principle/result teaching from AN 10.113&ndash;114 becomes "
+        "the occasion for a story about where mendicants should turn "
+        "when a teaching isn't fully explained &mdash; and the "
+        "answer, delivered through one of this canon's most memorable "
+        "similes, is not simply &ldquo;the most senior available "
+        "disciple.&rdquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha gives the same brief principle/result "
+            "teaching already met in AN 10.113 and 10.114, then "
+            "withdraws without elaborating; when the mendicants go to "
+            "Ānanda instead of returning to the Buddha, Ānanda "
+            "explains the content correctly, but first uses the "
+            "heartwood simile to point out they should have asked "
+            "the Buddha himself while he was still right in front of "
+            "them."]),
+        ("A very short teaching, deliberately left unexplained", [
+            "The Buddha's own behavior here is striking: he recites "
+            "the brief summary and immediately enters his dwelling "
+            "&ldquo;without explaining the meaning in detail,&rdquo; "
+            "leaving the mendicants to work out on their own who, if "
+            "anyone, should be asked to unpack it &mdash; the teaching "
+            "moment is as much about that decision as about the "
+            "content itself."]),
+        ("The heartwood simile: passing over the trunk for the "
+         "branches", [
+            "Ānanda's rebuke uses a precise agricultural image: "
+            "someone genuinely searching for heartwood who walks past "
+            "a great standing tree's own roots and trunk, imagining "
+            "instead that heartwood should be sought among its "
+            "branches and leaves, has made an absurd, backward "
+            "mistake &mdash; exactly, Ānanda says, what the mendicants "
+            "did by coming to him while the Buddha, &ldquo;the one who "
+            "knows and sees,&rdquo; was still available."]),
+        ("A rebuke that still ends in full agreement", [
+            "Ānanda's correction is not a refusal: having made his "
+            "point about where they should have gone first, he still "
+            "gives the complete explanation himself, and when the "
+            "mendicants report back to the Buddha, the Buddha's "
+            "response is unqualified endorsement &mdash; "
+            "&ldquo;Ānanda is astute, he has great wisdom. If you "
+            "came to me and asked this question, I would answer it in "
+            "exactly the same way as Ānanda&rdquo; &mdash; closing "
+            "the whole episode by confirming both the correction and "
+            "the content it corrected around."]),
+    ],
+    terms=[
+        ("saṅkhittena uddesaṁ uddisitvā vitthārena atthaṁ "
+         "avibhajitvā vihāraṁ pāvisi",
+         "&ldquo;gave this brief summary recital, then entered his "
+         "dwelling without explaining the meaning in detail&rdquo; "
+         "&mdash; the Buddha's own deliberately incomplete opening "
+         "act."),
+        ("sāratthiko sāragavesī",
+         "&ldquo;in need of heartwood, wandering in search of "
+         "heartwood&rdquo; &mdash; the seeker in Ānanda's simile, "
+         "genuinely searching but looking in the wrong place."),
+        ("atikkammeva mūlaṁ atikkamma khandhaṁ",
+         "&ldquo;pass over the roots and trunk&rdquo; &mdash; the "
+         "simile's central image of bypassing the obvious source in "
+         "favor of the periphery."),
+        ("cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto",
+         "&ldquo;he is vision, he is knowledge, he is the "
+         "manifestation of principle, he is the manifestation of "
+         "divinity&rdquo; &mdash; Ānanda's own description of the "
+         "Buddha, explaining why he should have been asked directly."),
+        ("paṇḍito, mahāpañño",
+         "&ldquo;astute&hellip; he has great wisdom&rdquo; &mdash; "
+         "the Buddha's own closing praise of Ānanda's explanation."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's unexplained brief "
+        "teaching, the mendicants' request to Ānanda, the heartwood "
+        "simile, Ānanda's explanation, and the Buddha's confirming "
+        "praise. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A brief teaching, left unexplained"),
+        ("p", "&sect;1", "an10.115:1.1-4.2"),
+        ("h3", "The heartwood simile"),
+        ("p", "&sect;2", "an10.115:8.1-9.6"),
+        ("h3", "Ānanda's explanation"),
+        ("p", "&sect;3", "an10.115:10.1-17.1"),
+        ("h3", "The Buddha's confirming praise"),
+        ("p", "&sect;4", "an10.115:21.1-22.5"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha do immediately after giving his "
+              "brief teaching?",
+         "opts": [
+             "He explains it in full detail",
+             "He enters his dwelling without explaining the meaning "
+             "in detail",
+             "He asks the mendicants to repeat it",
+             "He calls for Sāriputta"],
+         "correct": 1,
+         "expl": "A deliberately incomplete teaching, leaving the "
+                 "mendicants to decide what to do next."},
+        {"q": "What mistake does Ānanda's heartwood simile point out?",
+         "opts": [
+             "Searching for wood at all",
+             "Passing over a tree's own roots and trunk to search "
+             "for heartwood among its branches and leaves, exactly as "
+             "the mendicants bypassed the Buddha to ask Ānanda",
+             "Cutting down a healthy tree",
+             "Using the wrong tools"],
+         "correct": 1,
+         "expl": "An absurd, backward search, mirroring the "
+                 "mendicants' own choice."},
+        {"q": "Does Ānanda refuse to answer after making his point?",
+         "opts": [
+             "Yes, he sends them away entirely",
+             "No, he still gives the complete explanation, even "
+             "after correcting where they should have gone first",
+             "He answers only partially",
+             "He asks them to wait a year"],
+         "correct": 1,
+         "expl": "A correction, not a refusal."},
+        {"q": "How does the Buddha respond when the mendicants report "
+              "Ānanda's explanation back to him?",
+         "opts": [
+             "He says Ānanda got it wrong",
+             "He gives unqualified praise, saying he would have "
+             "answered in exactly the same way as Ānanda",
+             "He refuses to comment",
+             "He asks them to consult someone else"],
+         "correct": 1,
+         "expl": "Full endorsement of both the correction and the "
+                 "content Ānanda explained."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A teaching, left half-said", [
+            "brief words given, then",
+            "the Buddha simply withdraws &mdash;",
+            "what happens next, untold",
+        ]),
+        ("Wrong tree, wrong search", [
+            "past the roots and trunk,",
+            "hunting heartwood in the leaves &mdash;",
+            "exactly their mistake",
+        ]),
+        ("Corrected, then still answered", [
+            "\"you should have asked him\" &mdash;",
+            "and then Ānanda explains",
+            "it fully anyway",
+        ]),
+        ("Cross-references", [
+            "AN 10.114 &middot; Bad Principles (2nd), the identical "
+            "content this discourse dramatizes",
+            "AN 10.116 &middot; next, with Ajita",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.115/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.114.html">AN 10.114 &middot; Bad Principles (2nd)</a> &mdash; '
+        "previous.",
+        '<a href="an-10.116.html">AN 10.116 &middot; With Ajita</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.116 — Ajitasutta
+# --------------------------------------------------------------------------- #
+page(
+    116, "Ajita", "With Ajita",
+    vagga=VAGGA_12,
+    meta_title="AN 10.116 — With Ajita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ajitasutta, in which a wanderer's boast about a "
+        "spiritual companion named Paṇḍita, \"Astute,\" becomes the "
+        "occasion for exposing crowd-pleasing sophistry against the "
+        "real standard of good and bad principles. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The wanderer Ajita, then the Buddha addressing "
+                     "the mendicants"),
+        ("Form", "A boast reported, three types of crowd-pleasing "
+                 "rebuttal exposed, then the real standard restated"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a pointed critique of rhetorical showmanship"),
+    ],
+    why=(
+        "The wanderer Ajita reports, with evident pride, that a "
+        "companion literally named Paṇḍita &mdash; &ldquo;Astute&rdquo; "
+        "&mdash; has worked out some five hundred arguments for "
+        "refuting rivals, and the Buddha uses the moment to expose "
+        "exactly what kind of debate performance actually earns "
+        "applause from an unprincipled crowd."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone who rebuts unprincipled statements with "
+            "unprincipled statements, or principled statements with "
+            "unprincipled statements, or a mix of both with "
+            "unprincipled statements, delights only an unprincipled "
+            "assembly cheering &ldquo;he is truly astute!&rdquo; "
+            "&mdash; the real standard for good and bad principles is "
+            "the familiar ten-factor path, not crowd approval."]),
+        ("A name that is also a claim", [
+            "The wanderer's companion is not merely described as "
+            "astute; he is literally named <em>Paṇḍita</em>, "
+            "&ldquo;Astute,&rdquo; and credited with roughly five "
+            "hundred prepared arguments &mdash; making the discourse's "
+            "central question unusually pointed: does this person "
+            "actually deserve the name he already carries?"]),
+        ("Three ways to win a crowd without being right", [
+            "The Buddha names three distinct debating tactics, each "
+            "using unprincipled arguments as the weapon: against "
+            "genuinely unprincipled statements, against genuinely "
+            "principled statements, and against a mixture of both "
+            "&mdash; and in every single case, an unprincipled "
+            "audience roars its approval regardless of whether the "
+            "rebuttal was actually sound."]),
+        ("Applause as the wrong measure entirely", [
+            "The discourse's real target is not any specific "
+            "wanderer but the standard itself: a crowd's noisy "
+            "delight is shown to track nothing about the actual "
+            "soundness of an argument, and the Buddha replaces it "
+            "immediately with the one standard that does track "
+            "soundness &mdash; the familiar ten-factor distinction "
+            "between bad and good principles already met earlier in "
+            "this chapter."]),
+    ],
+    terms=[
+        ("paṇḍita",
+         "&ldquo;astute,&rdquo; here also a proper name &mdash; the "
+         "wanderers' companion whose reputation this discourse "
+         "examines."),
+        ("pañcamattāni cittaṭṭhānasatāni",
+         "&ldquo;around five hundred arguments,&rdquo; literally "
+         "&ldquo;five hundred mental positions&rdquo; &mdash; the "
+         "prepared repertoire Ajita credits to his companion."),
+        ("adhammavādena adhammavādaṁ āropeti niggaṇhāti",
+         "&ldquo;rebuts and quashes unprincipled statements with "
+         "unprincipled statements&rdquo; &mdash; the first of three "
+         "crowd-pleasing but hollow debating tactics."),
+        ("saṅghasaddo mahāsaddo hoti",
+         "&ldquo;make a colossal racket&rdquo; &mdash; the "
+         "unprincipled assembly's own noisy, sound-tracking-nothing "
+         "approval."),
+        ("kusalā dhammā, akusalā dhammā",
+         "&ldquo;good principles, bad principles&rdquo; &mdash; the "
+         "real standard the Buddha restates, replacing crowd noise "
+         "with the ten-factor distinction."),
+    ],
+    text_intro=(
+        "The discourse in full: Ajita's report, the three hollow "
+        "debating tactics exposed, and the real standard restated. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A wanderer's boast"),
+        ("p", "&sect;1", "an10.116:1.1-4.3"),
+        ("h3", "Three ways to win a crowd without being right"),
+        ("p", "&sect;2", "an10.116:5.1-7.3"),
+        ("h3", "The real standard: bad and good principles"),
+        ("p", "&sect;3", "an10.116:8.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What does the wanderer Ajita report to the Buddha?",
+         "opts": [
+             "That a companion named Paṇḍita, \"Astute,\" has some "
+             "five hundred arguments for refuting rival ascetics",
+             "That he wishes to ordain",
+             "That his community has disbanded",
+             "That he has converted to the Buddha's teaching"],
+         "correct": 0,
+         "expl": "A proud report about a companion whose very name "
+                 "claims astuteness."},
+        {"q": "What three tactics does the Buddha name, all using "
+              "unprincipled statements as their weapon?",
+         "opts": [
+             "Silence, agreement, and flattery",
+             "Rebutting unprincipled statements, principled "
+             "statements, or a mix of both, all with unprincipled "
+             "statements",
+             "Bribery, threats, and deception",
+             "Meditation, chanting, and fasting"],
+         "correct": 1,
+         "expl": "Three distinct but equally hollow ways to win a "
+                 "crowd's approval."},
+        {"q": "What happens in every one of these three cases, "
+              "regardless of whether the rebuttal was actually sound?",
+         "opts": [
+             "The audience remains silent",
+             "An unprincipled assembly makes a colossal racket, "
+             "cheering \"he is truly astute!\"",
+             "The Buddha intervenes personally",
+             "The debate is declared invalid"],
+         "correct": 1,
+         "expl": "Crowd approval that tracks nothing about actual "
+                 "soundness."},
+        {"q": "What standard does the Buddha offer in place of crowd "
+              "approval?",
+         "opts": [
+             "A vote among senior monks",
+             "The familiar ten-factor distinction between bad and "
+             "good principles already met earlier in this chapter",
+             "Personal charisma",
+             "Wealth and social standing"],
+         "correct": 1,
+         "expl": "A standard that actually tracks soundness, unlike "
+                 "noise."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A name that's also a boast", [
+            "\"Astute\" by name &mdash;",
+            "five hundred arguments, primed",
+            "for any rival",
+        ]),
+        ("Three ways to fake it", [
+            "bad against bad, bad",
+            "against good, bad against both &mdash;",
+            "the crowd cheers regardless",
+        ]),
+        ("Noise, not proof", [
+            "a colossal racket",
+            "proves nothing at all &mdash; the real",
+            "test lies elsewhere",
+        ]),
+        ("Cross-references", [
+            "AN 10.115 &middot; previous, Bad Principles (3rd)",
+            "AN 10.117 &middot; next, with Saṅgārava",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.116/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.115.html">AN 10.115 &middot; Bad Principles (3rd)</a> &mdash; '
+        "previous.",
+        '<a href="an-10.117.html">AN 10.117 &middot; With Saṅgārava</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.117 — Saṅgāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    117, "Saṅgārava", "With Saṅgārava",
+    vagga=VAGGA_12,
+    meta_title="AN 10.117 — With Saṅgārava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṅgāravasutta, answering a brahmin's question about the "
+        "near and far shores with the ten-factor path and a full "
+        "closing verse on crossing over. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Saṅgārava the brahmin questioning the Buddha"),
+        ("Form", "A single question, the ten-factor path recast as "
+                 "two shores, and a six-stanza closing verse"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a familiar teaching in a fresh, poetic image"),
+    ],
+    why=(
+        "A brahmin's simple question &mdash; what are the near shore "
+        "and the far shore &mdash; becomes the occasion for yet "
+        "another reframing of the ten-factor path, this time closed "
+        "with one of this project's fuller closing verses on the "
+        "rarity of actually crossing over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each wrong factor from view to freedom is the near "
+            "shore, and each corresponding right factor is the far "
+            "shore; few among humans actually cross to the far shore, "
+            "while most simply run back and forth on the near one, "
+            "and only those who develop the awakening factors, let go "
+            "of attachment, and end their defilements are truly "
+            "quenched."]),
+        ("A new geography for familiar content", [
+            "This is the ten-factor path's fourth distinct reframing "
+            "across chapters 11 and 12 (after the causal chain, the "
+            "seed and medical images, and the principle/result "
+            "pairing): now cast as two riverbanks, with crossing the "
+            "current itself standing in for the entire practice of "
+            "abandoning wrong factors for right ones."]),
+        ("A brahmin's question meeting the same answer as always", [
+            "Saṅgārava's opening question is genuinely open &mdash; "
+            "he does not specify what kind of near and far shore he "
+            "means &mdash; and the Buddha's answer quietly redirects "
+            "what might have been read as a literal or cosmological "
+            "question into the same ethical and practical framework "
+            "this chapter has been developing all along."]),
+        ("A verse describing the crossing, not just naming it", [
+            "Unlike this chapter's more clinical restatements, the "
+            "closing verse here paints an actual picture of what "
+            "crossing looks like: leaving home for seclusion, finding "
+            "satisfaction there, owning nothing, developing the "
+            "awakening factors, letting go of attachment, and finally "
+            "being &ldquo;quenched in this world&rdquo; &mdash; a "
+            "lived trajectory rather than a bare list."]),
+    ],
+    terms=[
+        ("orimaṁ tīraṁ, pārimaṁ tīraṁ",
+         "&ldquo;the near shore, the far shore&rdquo; &mdash; "
+         "Saṅgārava's own question and this discourse's central "
+         "image."),
+        ("appakā te manussesu, ye janā pāragāmino",
+         "&ldquo;few are those among humans who cross to the far "
+         "shore&rdquo; &mdash; the verse's own stark assessment of "
+         "how rare genuine crossing actually is."),
+        ("maccudheyyaṁ suduttaraṁ",
+         "&ldquo;Death's dominion so hard to pass&rdquo; &mdash; the "
+         "verse's name for what successful practitioners actually "
+         "cross."),
+        ("akiñcano",
+         "&ldquo;owning nothing&rdquo; &mdash; one of the verse's "
+         "own conditions for the astute person's crossing."),
+        ("nibbanti loke",
+         "&ldquo;they are quenched in this world&rdquo; &mdash; the "
+         "verse's closing image, naming full liberation in the "
+         "vocabulary of extinguished fire."),
+    ],
+    text_intro=(
+        "The discourse in full: Saṅgārava's question, the two "
+        "shores, and the closing six-stanza verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A brahmin's question"),
+        ("p", "&sect;1", "an10.117:1.1-1.14"),
+        ("h3", "Closing verse: crossing to the far shore"),
+        ("p", "&sect;2", "an10.117:2.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What question does Saṅgārava the brahmin ask the "
+              "Buddha?",
+         "opts": [
+             "What is the near shore, and what is the far shore",
+             "How to observe the sabbath",
+             "What causes rebirth",
+             "How to settle a monastic dispute"],
+         "correct": 0,
+         "expl": "A genuinely open question, not specifying what "
+                 "kind of shore he means."},
+        {"q": "How does the Buddha answer?",
+         "opts": [
+             "With a cosmological description of literal rivers",
+             "By identifying each wrong factor as the near shore and "
+             "each corresponding right factor as the far shore",
+             "By refusing to answer",
+             "With a story about a real river crossing"],
+         "correct": 1,
+         "expl": "Redirecting a possibly literal question into the "
+                 "familiar ethical framework."},
+        {"q": "According to the guide, how many distinct reframings "
+              "of the ten-factor path has this project now met across "
+              "chapters 11 and 12?",
+         "opts": [
+             "Just one",
+             "Four: causal chain, seed/medical images, principle/"
+             "result pairing, and now two shores",
+             "Ten separate reframings",
+             "None; this is the first"],
+         "correct": 1,
+         "expl": "A fourth distinct image for the same underlying "
+                 "content."},
+        {"q": "What does the closing verse describe, according to "
+              "the guide?",
+         "opts": [
+             "A bare repeated list with no further content",
+             "An actual lived trajectory: leaving home, finding "
+             "satisfaction in seclusion, owning nothing, developing "
+             "the awakening factors, and being quenched",
+             "A historical battle",
+             "A description of hell"],
+         "correct": 1,
+         "expl": "A fuller, more vivid picture than this chapter's "
+                 "more clinical restatements."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Two banks, one river", [
+            "wrong view: near shore;",
+            "right view: far shore &mdash; the same",
+            "ten, newly pictured",
+        ]),
+        ("Most just run in place", [
+            "few actually cross;",
+            "the rest run back and forth on",
+            "the shore they know well",
+        ]),
+        ("A verse, not just a list", [
+            "leaving home, finding",
+            "seclusion, owning nothing &mdash;",
+            "a life, not a chart",
+        ]),
+        ("Cross-references", [
+            "AN 10.116 &middot; previous, with Ajita",
+            "AN 10.118 &middot; next, The Near Shore, the identical "
+            "teaching without the brahmin's question",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.117/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.116.html">AN 10.116 &middot; With Ajita</a> &mdash; previous.',
+        '<a href="an-10.118.html">AN 10.118 &middot; The Near Shore</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.118 — Orimatīrasutta
+# --------------------------------------------------------------------------- #
+page(
+    118, "Orimatīra", "The Near Shore",
+    vagga=VAGGA_12,
+    meta_title="AN 10.118 — The Near Shore | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Orimatīrasutta, restating AN 10.117's near-shore and "
+        "far-shore teaching and its closing verse without the "
+        "brahmin's question that occasioned it. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical two-shores teaching and closing "
+                 "verse from AN 10.117, without the narrative frame"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content once AN 10.117 is known"),
+    ],
+    why=(
+        "This discourse takes the entirety of AN 10.117 &mdash; the "
+        "same two shores, the same closing verse &mdash; and simply "
+        "removes Saṅgārava's question, offering it instead as the "
+        "Buddha's own unprompted teaching to the mendicants."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha teaches the mendicants the near shore and the "
+            "far shore directly: each wrong factor is the near "
+            "shore, each right factor the far shore, and the same "
+            "closing verse on the rarity of crossing and the mark of "
+            "those who do."]),
+        ("A narrative removed, content kept whole", [
+            "Unlike some of this project's paired discourses, where "
+            "removing a narrative frame also trims or alters the "
+            "content, this discourse preserves AN 10.117's entire "
+            "teaching intact, including its full six-stanza closing "
+            "verse &mdash; only the brahmin's presence and his "
+            "opening question are gone."]),
+        ("Two audiences for one teaching", [
+            "Read together, AN 10.117 and this discourse suggest the "
+            "same content was considered suitable both as an answer "
+            "to an outsider's genuine inquiry and as material worth "
+            "teaching the ordained community directly, unprompted "
+            "&mdash; the teaching's value evidently did not depend on "
+            "who happened to be asking."]),
+        ("This chapter's fifth reframing, its plainest delivery", [
+            "As the fifth distinct image this chapter and its "
+            "predecessor have used for the ten-factor path, the near "
+            "and far shores here appear in their most direct possible "
+            "form: no brahmin, no debate, no ceremony &mdash; simply "
+            "the Buddha stating the image and its verse to his own "
+            "assembly."]),
+    ],
+    terms=[
+        ("orimaṁ tīraṁ",
+         "&ldquo;the near shore&rdquo; &mdash; this discourse's own "
+         "title, naming the ten wrong factors collectively."),
+        ("pārimaṁ tīraṁ",
+         "&ldquo;the far shore&rdquo; &mdash; the mirrored term for "
+         "the ten right factors."),
+        ("bujjhaṅgesu susamāhitattā",
+         "&ldquo;whose minds are rightly developed in the awakening "
+         "factors&rdquo; &mdash; a phrase from the closing verse, "
+         "identical in both this discourse and AN 10.117."),
+        ("ādānapaṭinissaggā",
+         "&ldquo;letting go of attachments&rdquo; &mdash; another "
+         "shared phrase from the closing verse's description of the "
+         "crossing."),
+        ("khīṇāsavā jutimanto",
+         "&ldquo;with defilements ended, brilliant&rdquo; &mdash; the "
+         "verse's description of those who successfully cross to the "
+         "far shore."),
+    ],
+    text_intro=(
+        "The discourse in full: the two shores and the closing "
+        "verse, identical to AN 10.117 but addressed directly to the "
+        "mendicants. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The near shore and the far shore"),
+        ("p", "&sect;1", "an10.118:1.1-2.4"),
+        ("h3", "Closing verse: crossing to the far shore"),
+        ("p", "&sect;2", "an10.118:3.1-7.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN "
+              "10.117's?",
+         "opts": [
+             "Completely different",
+             "Identical, including the full closing verse, minus "
+             "Saṅgārava's question and presence",
+             "Shortened significantly",
+             "Expanded with new material"],
+         "correct": 1,
+         "expl": "The narrative frame removed, the content preserved "
+                 "whole."},
+        {"q": "Who is this discourse addressed to, compared to AN "
+              "10.117?",
+         "opts": [
+             "A different brahmin",
+             "The mendicants directly, rather than answering an "
+             "outsider's question",
+             "A group of wanderers",
+             "No one; it has no audience"],
+         "correct": 1,
+         "expl": "The Buddha's own unprompted teaching to the "
+                 "ordained community."},
+        {"q": "According to the guide, what does the pairing of AN "
+              "10.117 and this discourse suggest?",
+         "opts": [
+             "That the teaching was only ever meant for outsiders",
+             "That the same content was considered suitable both as "
+             "an answer to an outsider's inquiry and as unprompted "
+             "teaching for the community",
+             "That the two discourses contradict each other",
+             "That this discourse is a later forgery"],
+         "correct": 1,
+         "expl": "The teaching's value evidently independent of who "
+                 "was asking."},
+        {"q": "According to the guide, how does this discourse "
+              "compare in directness to the chapter's other "
+              "reframings of the same content?",
+         "opts": [
+             "It is the most elaborate",
+             "It is the plainest delivery of this particular image "
+             "&mdash; no brahmin, no debate, no ceremony",
+             "It removes the verse entirely",
+             "It adds a new narrative frame"],
+         "correct": 1,
+         "expl": "The fifth reframing across chapters 11 and 12, "
+                 "delivered in its most direct form."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("The question, gone", [
+            "no brahmin present,",
+            "no question posed &mdash; the same",
+            "shores, spoken freely",
+        ]),
+        ("The verse, kept whole", [
+            "not one stanza cut,",
+            "not one image dropped &mdash; the full",
+            "crossing, still described",
+        ]),
+        ("Two audiences, one worth", [
+            "an outsider's question,",
+            "or unprompted teaching &mdash; the",
+            "content unchanged either way",
+        ]),
+        ("Cross-references", [
+            "AN 10.117 &middot; With Saṅgārava, the identical "
+            "teaching in answer to a brahmin's question",
+            "AN 10.119 &middot; next, The Ceremony of Descent (1st), "
+            "this chapter's own namesake discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.117.html">AN 10.117 &middot; With Saṅgārava</a> &mdash; previous.',
+        '<a href="an-10.119.html">AN 10.119 &middot; The Ceremony of Descent (1st)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.119 — Paṭhamapaccorohaṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    119, "Paṭhamapaccorohaṇī", "The Ceremony of Descent (1st)",
+    vagga=VAGGA_12,
+    meta_title="AN 10.119 — The Ceremony of Descent (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamapaccorohaṇīsutta, this chapter's own namesake: a "
+        "brahmin's real fire-worship purification ritual contrasted "
+        "with the noble descent from each of the ten wrong factors. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The brahmin Jānussoṇi questioning the Buddha"),
+        ("Form", "A real ritual described in detail, then "
+                 "reinterpreted as the ten-factor path"),
+        ("Length", "~3 minutes to read"),
+        ("Chapter's namesake", "This discourse gives the chapter its "
+                               "name, <em>Paccorohaṇivagga</em>, the "
+                               "Chapter on the Ceremony of Descent "
+                               "&mdash; though it is the seventh of "
+                               "ten discourses rather than the first, "
+                               "a pattern already seen with several "
+                               "earlier chapter names in this nipāta"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "genuine ethnographic detail paired with "
+                       "familiar doctrinal content"),
+    ],
+    why=(
+        "Encountering the brahmin Jānussoṇi dressed for an actual "
+        "fire-worship purification rite, the Buddha asks what is "
+        "going on, receives a detailed firsthand description of "
+        "brahmanical practice, and offers in response a &ldquo;noble "
+        "descent&rdquo; so persuasive that Jānussoṇi declares the "
+        "brahmin version not worth a sixteenth part of it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Where the brahmins' ceremony of descent involves bathing, "
+            "new robes, fresh grass, a bed of cow dung, and three "
+            "nighttime risings to worship fire with cupped palms, the "
+            "noble descent taught in this training is different "
+            "entirely: reflecting that each wrong factor from view to "
+            "freedom has a bad result in this life and the next, and "
+            "so giving it up, descending from it, one factor at a "
+            "time."]),
+        ("A ritual described with real ethnographic detail", [
+            "As at AN 10.107's bone-washing ceremony, the Buddha "
+            "encounters a genuine contemporary practice and asks "
+            "about it directly rather than assuming knowledge of it "
+            "&mdash; and Jānussoṇi's answer is unusually specific: "
+            "the bathing, the new linen robes, the handful of fresh "
+            "grass, the bed made of cow dung and grass between the "
+            "boundary and the fire chamber, the threefold nighttime "
+            "rising to declare &ldquo;we descend, lord!&rdquo; to the "
+            "fire, and the feast that follows."]),
+        ("The same word, radically reinterpreted", [
+            "Rather than inventing a new term, the Buddha takes "
+            "Jānussoṇi's own word, <em>paccorohaṇī</em>, "
+            "&ldquo;descent,&rdquo; and gives it an entirely new "
+            "referent: not physically descending from a raised bed at "
+            "dawn to worship fire, but reflectively descending from "
+            "&mdash; that is, abandoning &mdash; each of the ten "
+            "wrong factors in turn, one reflection and one act of "
+            "letting go per factor."]),
+        ("A brahmin's own verdict, and a conversion", [
+            "Jānussoṇi's response is unusually strong even for this "
+            "project's many wanderer-conversion narratives: he does "
+            "not merely praise the Buddha's teaching but explicitly "
+            "quantifies the comparison, declaring the brahmin "
+            "ceremony &ldquo;not worth a sixteenth part&rdquo; of the "
+            "noble one, before taking refuge for life &mdash; the "
+            "chapter's own namesake discourse closing with one of its "
+            "clearest conversions."]),
+    ],
+    terms=[
+        ("paccorohaṇī",
+         "&ldquo;the ceremony of descent&rdquo; &mdash; the "
+         "brahmanical ritual's own name, and this discourse's title, "
+         "reinterpreted entirely by the Buddha's answer."),
+        ("paccorohāma bhavantaṁ",
+         "&ldquo;we descend, lord!&rdquo; &mdash; the brahmins' own "
+         "threefold nighttime declaration to the fire, part of the "
+         "ritual Jānussoṇi describes in detail."),
+        ("diṭṭhadhammikopi samparāyikopi vipāko",
+         "&ldquo;a bad result in both this life and the next&rdquo; "
+         "&mdash; the reflection a noble disciple makes about each "
+         "wrong factor, prompting its abandonment."),
+        ("micchādiṭṭhiyā paccorohati",
+         "&ldquo;they descend from wrong view&rdquo; &mdash; the "
+         "Buddha's own reinterpretation of &ldquo;descent&rdquo; as "
+         "abandoning a wrong factor, repeated for all ten."),
+        ("kalaṁ nāgghati soḷasiṁ",
+         "&ldquo;not worth a sixteenth part&rdquo; &mdash; "
+         "Jānussoṇi's own quantified verdict comparing the brahmin "
+         "ceremony to the noble descent."),
+    ],
+    text_intro=(
+        "The discourse in full: Jānussoṇi's description of the "
+        "brahmin ceremony, and the Buddha's reinterpretation as the "
+        "noble descent from the ten wrong factors. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A brahmin ritual, described in detail"),
+        ("p", "&sect;1", "an10.119:1.1-4.3"),
+        ("h3", "The noble descent"),
+        ("p", "&sect;2", "an10.119:5.1-15.5"),
+        ("h3", "Jānussoṇi's verdict"),
+        ("p", "&sect;3", "an10.119:16.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha find Jānussoṇi doing at the start "
+              "of this discourse?",
+         "opts": [
+             "Meditating alone",
+             "Dressed and prepared for the brahmins' own ceremony of "
+             "descent, holding fresh grass",
+             "Teaching his own students",
+             "Traveling to another town"],
+         "correct": 1,
+         "expl": "A real, specifically described contemporary ritual "
+                 "practice."},
+        {"q": "What does the brahmins' ceremony of descent actually "
+              "involve, according to Jānussoṇi's description?",
+         "opts": [
+             "Silent meditation alone",
+             "Bathing, new robes, a bed of cow dung and grass, and "
+             "three nighttime risings to worship fire, declaring "
+             "\"we descend, lord!\"",
+             "A pilgrimage to a distant shrine",
+             "Fasting for a full month"],
+         "correct": 1,
+         "expl": "Genuine ethnographic detail from a real "
+                 "contemporary practice."},
+        {"q": "How does the Buddha reinterpret the term \"descent\"?",
+         "opts": [
+             "He rejects the term entirely and uses a new one",
+             "He keeps the same word but redefines it as reflectively "
+             "abandoning each of the ten wrong factors in turn",
+             "He agrees the physical ritual is sufficient",
+             "He says the term has no meaning"],
+         "correct": 1,
+         "expl": "The same word, given an entirely new, ethical "
+                 "referent."},
+        {"q": "What is Jānussoṇi's final verdict on the comparison?",
+         "opts": [
+             "That the two ceremonies are equally valuable",
+             "That the brahmin ceremony is not worth a sixteenth part "
+             "of the noble descent, followed by taking refuge for "
+             "life",
+             "That neither ceremony has value",
+             "That he will continue only the brahmin ritual"],
+         "correct": 1,
+         "expl": "An unusually strong, explicitly quantified "
+                 "conversion."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Fresh grass, new robes", [
+            "bathed head, cow-dung bed,",
+            "three risings to worship fire &mdash;",
+            "a real rite, described",
+        ]),
+        ("One word, redefined", [
+            "\"we descend\" to fire",
+            "becomes \"descend\" from wrong view &mdash;",
+            "the same word, new ground",
+        ]),
+        ("Not a sixteenth part", [
+            "the brahmin measures",
+            "his own rite against the new &mdash;",
+            "and finds it lacking",
+        ]),
+        ("Cross-references", [
+            "AN 10.118 &middot; previous, The Near Shore",
+            "AN 10.107 &middot; The Bone-Washing Ceremony, another "
+            "real ritual acknowledged and reinterpreted",
+            "AN 10.120 &middot; next, The Ceremony of Descent (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.118.html">AN 10.118 &middot; The Near Shore</a> &mdash; previous.',
+        '<a href="an-10.107.html">AN 10.107 &middot; The Bone-Washing Ceremony</a> &mdash; '
+        "another real ritual reinterpreted.",
+        '<a href="an-10.120.html">AN 10.120 &middot; The Ceremony of Descent (2nd)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.120 — Dutiyapaccorohaṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    120, "Dutiyapaccorohaṇī", "The Ceremony of Descent (2nd)",
+    vagga=VAGGA_12,
+    meta_title="AN 10.120 — The Ceremony of Descent (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapaccorohaṇīsutta, restating the noble descent "
+        "directly to the mendicants, without Jānussoṇi's ritual or "
+        "his question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, addressing the mendicants directly"),
+        ("Form", "The identical noble-descent teaching from AN "
+                 "10.119, without the ritual narrative"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content once AN 10.119 is known"),
+    ],
+    why=(
+        "As with AN 10.117 and 10.118's paired treatment of the two "
+        "shores, this discourse takes the noble descent just taught "
+        "to a brahmin and offers it again, unprompted, directly to "
+        "the mendicants &mdash; the same content, now without any "
+        "ritual to contrast it against."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The noble descent is when a noble disciple reflects that "
+            "each wrong factor, from view to freedom, has a bad "
+            "result in this life and the next, and so gives it up, "
+            "descending from it &mdash; the identical content already "
+            "taught to Jānussoṇi at AN 10.119, offered here to the "
+            "mendicants directly."]),
+        ("A ritual contrast no longer needed", [
+            "Where AN 10.119 built its entire teaching around a "
+            "contrast with the brahmins' fire-worship ceremony, this "
+            "discourse assumes no such contrast: addressed to the "
+            "mendicants, who have presumably never performed the "
+            "brahmanical ritual, the noble descent stands on its own, "
+            "without needing anything to be measured against."]),
+        ("This chapter's own pairing pattern, repeated a third time", [
+            "AN 10.117/10.118 and now AN 10.119/10.120 both follow "
+            "the identical structure: a named, individual interlocutor "
+            "occasions a teaching, which is then repeated to the "
+            "mendicants directly &mdash; establishing a clear, "
+            "recurring pattern for how this chapter handles its major "
+            "images."]),
+        ("Descent as the chapter's own governing image", [
+            "With this second telling, <em>paccorohaṇī</em>, descent, "
+            "is confirmed as more than a one-off reinterpretation of "
+            "a brahmin's ritual: it is presented as a teaching in its "
+            "own right, worth stating to the ordained community "
+            "without any outsider present to prompt it."]),
+    ],
+    terms=[
+        ("ariyā paccorohaṇī",
+         "&ldquo;the noble descent&rdquo; &mdash; this discourse's "
+         "own name for the same teaching given to Jānussoṇi at AN "
+         "10.119."),
+        ("diṭṭhadhammikopi samparāyikopi vipāko",
+         "&ldquo;a bad result in both this life and the next&rdquo; "
+         "&mdash; the identical reflection prompting descent from "
+         "each wrong factor."),
+        ("micchāsaṅkappaṁ pajahati",
+         "&ldquo;they give up wrong purpose&rdquo; &mdash; the "
+         "second factor abandoned in the descent, following wrong "
+         "view."),
+        ("micchāvimuttiyā paccorohati",
+         "&ldquo;they descend from wrong freedom&rdquo; &mdash; the "
+         "tenth and final descent, closing the sequence exactly as "
+         "it closed at AN 10.119."),
+        ("ayaṁ vuccati, bhikkhave, ariyā paccorohaṇī",
+         "&ldquo;this is called the noble descent&rdquo; &mdash; the "
+         "discourse's own closing summary."),
+    ],
+    text_intro=(
+        "The discourse in full: the noble descent, identical to AN "
+        "10.119 but addressed directly to the mendicants. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The noble descent"),
+        ("p", "&sect;1", "an10.120:1.1-1.21"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN "
+              "10.119's noble descent teaching?",
+         "opts": [
+             "Completely different",
+             "Identical, minus the ritual narrative involving "
+             "Jānussoṇi",
+             "Shortened to five factors",
+             "Expanded with new material"],
+         "correct": 1,
+         "expl": "The same teaching, addressed directly rather than "
+                 "in answer to a brahmin's question."},
+        {"q": "According to the guide, why doesn't this discourse "
+              "need a ritual contrast?",
+         "opts": [
+             "It doesn't; a contrast is still present",
+             "Addressed to mendicants who have presumably never "
+             "performed the brahmanical ritual, the teaching stands "
+             "on its own without needing anything to measure against",
+             "Because the ritual is described anyway",
+             "Because mendicants already know the ritual well"],
+         "correct": 1,
+         "expl": "A different audience, needing no contrasting "
+                 "practice."},
+        {"q": "According to the guide, what pattern does this "
+              "discourse repeat for a third time in this chapter?",
+         "opts": [
+             "No particular pattern",
+             "A named interlocutor occasions a teaching, which is "
+             "then repeated directly to the mendicants, as with AN "
+             "10.117/118",
+             "A contradiction of the previous discourse",
+             "A peyyāla-style compression"],
+         "correct": 1,
+         "expl": "A recurring structural device for this chapter's "
+                 "major images."},
+        {"q": "What does this second telling confirm about "
+              "\"descent\" as an image, according to the guide?",
+         "opts": [
+             "That it was only ever a one-off reinterpretation of a "
+             "brahmin's ritual",
+             "That it stands as a teaching in its own right, worth "
+             "stating to the community without any outsider present",
+             "That it contradicts AN 10.119",
+             "That it was later abandoned"],
+         "correct": 1,
+         "expl": "The chapter's own governing image, independent of "
+                 "the ritual that first occasioned it."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("No brahmin needed now", [
+            "no fire, no cow dung,",
+            "no contrast to measure by &mdash;",
+            "the teaching stands alone",
+        ]),
+        ("A pattern, confirmed", [
+            "shores, then descent, told",
+            "twice each &mdash; once to an outsider,",
+            "once to the community",
+        ]),
+        ("An image, now its own", [
+            "not just a brahmin's",
+            "word repurposed once &mdash; a full",
+            "teaching in its own right",
+        ]),
+        ("Cross-references", [
+            "AN 10.119 &middot; The Ceremony of Descent (1st), the "
+            "identical teaching given to the brahmin Jānussoṇi",
+            "AN 10.121 &middot; next, Forerunner",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.120/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.119.html">AN 10.119 &middot; The Ceremony of Descent (1st)</a> '
+        "&mdash; previous.",
+        '<a href="an-10.121.html">AN 10.121 &middot; Forerunner</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.121 — Pubbaṅgamasutta
+# --------------------------------------------------------------------------- #
+page(
+    121, "Pubbaṅgama", "Forerunner",
+    vagga=VAGGA_12,
+    meta_title="AN 10.121 — Forerunner | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbaṅgamasutta, comparing right view's role to dawn "
+        "preceding sunrise, then restating the ten-factor path as a "
+        "pure production chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A short simile, then the ten-factor chain in its "
+                 "positive form alone"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, image-forward"),
+    ],
+    why=(
+        "In one of this chapter's briefest discourses, the Buddha "
+        "compares right view's relationship to skillful qualities "
+        "with dawn's relationship to sunrise &mdash; not the cause of "
+        "the day exactly, but its first, unmistakable sign."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as the reddening dawn sky is the forerunner and "
+            "harbinger of the sun's rising, right view is the "
+            "forerunner and harbinger of skillful qualities, "
+            "producing right purpose, which produces right speech, "
+            "action, livelihood, effort, mindfulness, immersion, "
+            "knowledge, and finally right freedom."]),
+        ("Forerunner and harbinger, not cause alone", [
+            "The dawn does not exactly cause the sun to rise, though "
+            "it always precedes it and reliably signals it; applying "
+            "this same relationship to right view is a subtly "
+            "different claim than the pure production chains met "
+            "elsewhere in this chapter &mdash; right view is offered "
+            "here as a reliable sign of what is coming, not merely "
+            "the first domino in a mechanical sequence."]),
+        ("Only the positive chain, no wrong-way mirror", [
+            "Unlike AN 10.103's original statement of this chain, "
+            "which gave both a wrong and a right version, this "
+            "discourse states only the positive chain &mdash; "
+            "fittingly, since dawn has no comparable ominous "
+            "counterpart signaling the sun's failure to rise; the "
+            "simile itself only works in one direction."]),
+        ("A brief pause before the chapter's own closing summary", [
+            "As the penultimate discourse in this chapter, this brief "
+            "image-driven restatement sits just before AN 10.122's "
+            "even shorter closing statement, together bringing "
+            "Paccorohaṇivagga's long exploration of the ten-factor "
+            "path to its final, compact expressions."]),
+    ],
+    terms=[
+        ("pubbaṅgama, pubbanimitta",
+         "&ldquo;forerunner and harbinger&rdquo; &mdash; the "
+         "discourse's own paired terms, used identically for dawn "
+         "and for right view."),
+        ("aruṇuggaṁ",
+         "&ldquo;the reddening dawn sky&rdquo; &mdash; the specific "
+         "natural sign compared to right view."),
+        ("kusalānaṁ dhammānaṁ",
+         "&ldquo;of skillful qualities&rdquo; &mdash; what right "
+         "view forewarns and precedes, paralleling the sun following "
+         "dawn."),
+        ("sammādiṭṭhi sammāsaṅkappaṁ janeti",
+         "&ldquo;right view produces right purpose&rdquo; &mdash; "
+         "the chain's opening link, stated here without any "
+         "accompanying wrong-way mirror."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing the chain in its positive-only form."),
+    ],
+    text_intro=(
+        "The discourse in full: the dawn simile, and the ten-factor "
+        "chain stated positively. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Dawn, and the chain of skillful qualities"),
+        ("p", "&sect;1", "an10.121:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What simile does this discourse use for right view?",
+         "opts": [
+             "A river flowing to the sea",
+             "The reddening dawn sky as the forerunner and harbinger "
+             "of the sun's rising",
+             "A seed growing into a tree",
+             "A lamp being lit in darkness"],
+         "correct": 1,
+         "expl": "A natural sign that reliably precedes and signals "
+                 "what follows."},
+        {"q": "According to the guide, how is \"forerunner and "
+              "harbinger\" a subtly different claim than a pure "
+              "production chain?",
+         "opts": [
+             "There is no difference at all",
+             "Dawn doesn't exactly cause the sunrise, though it "
+             "always precedes and reliably signals it &mdash; right "
+             "view is framed as a reliable sign, not merely a first "
+             "domino",
+             "The simile claims dawn causes nothing",
+             "It removes causation from the teaching entirely"],
+         "correct": 1,
+         "expl": "A nuanced relationship between signal and cause."},
+        {"q": "Why does this discourse give only the positive chain, "
+              "with no wrong-way mirror, according to the guide?",
+         "opts": [
+             "The wrong-way version was simply forgotten",
+             "The dawn simile itself only works in one direction, "
+             "since there is no comparable sign for the sun failing "
+             "to rise",
+             "Wrong view is impossible to describe",
+             "The chapter has already stated the wrong-way version "
+             "too many times"],
+         "correct": 1,
+         "expl": "The image itself constrains the discourse to one "
+                 "direction."},
+        {"q": "According to the guide, what is this discourse's "
+              "position within the chapter?",
+         "opts": [
+             "It opens the chapter",
+             "It is the penultimate discourse, a brief pause before "
+             "AN 10.122's even shorter closing statement",
+             "It is the chapter's longest discourse",
+             "It has no particular position"],
+         "correct": 1,
+         "expl": "A compact restatement near the chapter's close."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Red sky before the sun", [
+            "dawn doesn't cause it,",
+            "but it never fails to come",
+            "just before sunrise",
+        ]),
+        ("A sign, not just a switch", [
+            "right view forewarns what",
+            "follows &mdash; reliable signal,",
+            "not a bare first cause",
+        ]),
+        ("Only one direction", [
+            "no dawn for sunset,",
+            "no simile for wrong view &mdash;",
+            "the image itself limits",
+        ]),
+        ("Cross-references", [
+            "AN 10.120 &middot; previous, The Ceremony of Descent "
+            "(2nd)",
+            "AN 10.103 &middot; The Wrong Way, the original chain "
+            "this discourse restates in positive form alone",
+            "AN 10.122 &middot; next, The Ending of Defilements",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.121/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.120.html">AN 10.120 &middot; The Ceremony of Descent (2nd)</a> '
+        "&mdash; previous.",
+        '<a href="an-10.122.html">AN 10.122 &middot; The Ending of Defilements</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.122 — Āsavakkhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    122, "Āsavakkhaya", "The Ending of Defilements",
+    vagga=VAGGA_12,
+    meta_title="AN 10.122 — The Ending of Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsavakkhayasutta, closing the Paccorohaṇivagga with the "
+        "ten-factor path stated in its very shortest form: developed "
+        "and cultivated, they end the defilements. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single flat list of ten, with a single stated "
+                 "outcome"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter", "This discourse closes "
+                                 "<em>Paccorohaṇivagga</em>, the "
+                                 "twelfth chapter, with its own "
+                                 "untranslated colophon and uddāna "
+                                 "verse naming all ten discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the plainest possible closing statement"),
+    ],
+    why=(
+        "After ten discourses reframing the ten-factor path through "
+        "principles and results, a heartwood simile, hollow debating "
+        "tactics, two shores, and a reinterpreted purification "
+        "ceremony, this chapter closes by simply stating what the ten "
+        "factors, developed together, actually accomplish."),
+    guide=[
+        ("The teaching in one sentence", [
+            "These ten things &mdash; right view, right purpose, "
+            "right speech, right action, right livelihood, right "
+            "effort, right mindfulness, right immersion, right "
+            "knowledge, and right freedom &mdash; when developed and "
+            "cultivated, lead to the ending of defilements."]),
+        ("The shortest possible statement of the chapter's whole "
+         "subject", [
+            "Every discourse in this chapter, however differently "
+            "dressed, has ultimately concerned itself with these same "
+            "ten factors; this final discourse strips away every "
+            "remaining frame &mdash; no brahmin, no simile, no "
+            "narrative &mdash; and states their single, ultimate "
+            "outcome as plainly as the teaching allows."]),
+        ("A destination named, not merely a process", [
+            "Where AN 10.103&ndash;110's whole run in the previous "
+            "chapter emphasized process &mdash; wearing away, "
+            "washing, purging &mdash; this discourse names the "
+            "destination those processes lead to directly: not "
+            "another metaphor for removal, but the actual outcome, "
+            "the ending of defilements, stated without any "
+            "intervening image at all."]),
+        ("Closing both a chapter and its own long argument", [
+            "The source's own colophon marks this discourse as both "
+            "the tenth of Paccorohaṇivagga and the close of the "
+            "chapter, with its own uddāna verse naming all ten "
+            "discourses &mdash; a fitting final note to a chapter "
+            "that has spent its entire length demonstrating just how "
+            "many different doors lead to the same ten factors."]),
+    ],
+    terms=[
+        ("āsavānaṁ khayāya saṁvattanti",
+         "&ldquo;lead to the ending of defilements&rdquo; &mdash; "
+         "this discourse's own title and stated outcome for all ten "
+         "factors together."),
+        ("bhāvitā bahulīkatā",
+         "&ldquo;developed and cultivated&rdquo; &mdash; the "
+         "condition attached to the ten factors, an ongoing practice "
+         "rather than a one-time attainment."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first factor, opening "
+         "this discourse's list exactly as it opened AN 10.103's "
+         "original chain."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing both this discourse's list and the "
+         "chapter's own long exploration of it."),
+        ("Paccorohaṇivaggo dutiyo",
+         "&ldquo;the Ceremony of Descent Chapter, the second&rdquo; "
+         "&mdash; the chapter's own closing colophon, left "
+         "untranslated in the English text."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten factors and their single "
+        "stated outcome. The chapter's own colophon and uddāna "
+        "verse, in Pāli only, are described but not reproduced. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten things that end the defilements"),
+        ("p", "&sect;1", "an10.122:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What outcome does this discourse attribute to the ten "
+              "factors, developed and cultivated together?",
+         "opts": [
+             "Worldly prosperity",
+             "The ending of defilements",
+             "A comfortable rebirth",
+             "Physical health"],
+         "correct": 1,
+         "expl": "The single, ultimate outcome of the entire "
+                 "ten-factor path."},
+        {"q": "According to the guide, what does this discourse strip "
+              "away compared to the rest of the chapter?",
+         "opts": [
+             "Nothing; it is as elaborate as the others",
+             "Every remaining frame &mdash; no brahmin, no simile, no "
+             "narrative &mdash; stating the outcome as plainly as "
+             "possible",
+             "The ten factors themselves",
+             "The word \"defilements\""],
+         "correct": 1,
+         "expl": "The plainest possible closing statement to a "
+                 "chapter full of varied images."},
+        {"q": "According to the guide, how does this discourse differ "
+              "from the process-focused images earlier in this "
+              "material (wearing away, washing, purging)?",
+         "opts": [
+             "It uses an even more elaborate process image",
+             "It names the destination those processes lead to "
+             "directly, rather than offering another metaphor for "
+             "removal",
+             "It contradicts those earlier discourses",
+             "It denies any outcome is possible"],
+         "correct": 1,
+         "expl": "A shift from process metaphors to a stated "
+                 "destination."},
+        {"q": "What does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "Paccorohaṇivagga, the twelfth chapter, with its own "
+             "colophon and uddāna verse naming all ten discourses",
+             "The entire Third Fifty",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "A fitting final note to a chapter built entirely "
+                 "around one recurring content."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief, closing "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("The whole chapter, in one line", [
+            "no ceremony, no",
+            "shore, no simile now &mdash; just",
+            "what the ten factors do",
+        ]),
+        ("A destination, named plainly", [
+            "not another way",
+            "to describe removal, but",
+            "the actual outcome",
+        ]),
+        ("Many doors, one room", [
+            "principles, a shore,",
+            "a fire ritual, dawn &mdash;",
+            "all led here, to this",
+        ]),
+        ("Cross-references", [
+            "AN 10.121 &middot; previous, Forerunner",
+            "AN 10.113 &middot; Bad Principles (1st), opening this "
+            "chapter's long exploration of the same ten factors",
+            "AN 10.103 &middot; The Wrong Way, the original statement "
+            "of this chain in the previous chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.122/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.121.html">AN 10.121 &middot; Forerunner</a> &mdash; previous.',
+        '<a href="an-10.113.html">AN 10.113 &middot; Bad Principles (1st)</a> &mdash; '
+        "opening this chapter.",
+    ],
+)
