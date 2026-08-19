@@ -9838,3 +9838,1838 @@ page(
         "</a> &mdash; earlier, opening this chapter.",
     ],
 )
+
+
+VAGGA_6 = "<em>Gotamīvagga</em> &mdash; the sixth chapter of the Eights, opening the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.51 — Gotamīsutta -- opens ch.6 Gotamīvagga and the Second Fifty. This
+# is one of the most historically significant and most debated discourses in
+# the canon: the founding of the bhikkhunī order and the eight garudhammā.
+# Presented factually, noting the scholarly debate over the decline
+# prophecy and the garudhammā's authenticity without asserting a conclusion
+# beyond the textual evidence -- per this project's established practice
+# with difficult material (AN 4.80, AN 7.63, AN 8.46-48).
+# --------------------------------------------------------------------------- #
+page(
+    51, "Gotamī", "With Gotamī",
+    vagga=VAGGA_6,
+    meta_title="AN 8.51 — With Gotamī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gotamīsutta — the founding of the bhikkhunī order, the eight "
+        "garudhamma, and the Buddha's prediction that the true teaching's "
+        "lifespan would be halved — one of the canon's most historically "
+        "significant and most debated discourses, presented factually with "
+        "the scholarly debate noted honestly. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, at the Banyan Tree Monastery, then "
+                    "Vesālī, at the Great Wood"),
+        ("Speakers", "Mahāpajāpati Gotamī, Venerable Ānanda, and the Buddha"),
+        ("Form", "A narrative in three refused requests, a journey on foot, "
+                 "Ānanda's intervention, the eight principles of respect, "
+                 "and the Buddha's own closing prediction and similes"),
+        ("Length", "~5 minutes to read"),
+        ("One of the canon's most debated discourses", "This account of "
+                                                        "the bhikkhunī "
+                                                        "order's founding, "
+                                                        "including the "
+                                                        "eight garudhamma "
+                                                        "and the halved-"
+                                                        "lifespan "
+                                                        "prediction, is "
+                                                        "widely discussed "
+                                                        "in modern "
+                                                        "Buddhist "
+                                                        "scholarship, "
+                                                        "including by this "
+                                                        "translation's own "
+                                                        "translator, over "
+                                                        "whether these "
+                                                        "specific elements "
+                                                        "reflect later "
+                                                        "monastic-political "
+                                                        "additions rather "
+                                                        "than the earliest "
+                                                        "layer of the "
+                                                        "account"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "historically and doctrinally weighty; this reading "
+                       "guide states the content plainly and notes the "
+                       "scholarly debate without resolving it"),
+    ],
+    why=(
+        "Mahāpajāpati Gotamī, the Buddha's aunt and foster mother, asks "
+        "three times for women to be allowed to go forth and is refused "
+        "each time; after she and several Sakyan women walk to Vesālī on "
+        "foot and Ānanda intervenes on their behalf, the Buddha agrees on "
+        "the condition that Gotamī accept eight principles of respect "
+        "subordinating nuns to monks, then predicts that the true "
+        "teaching's lifespan will be halved as a result."),
+    guide=[
+        ("The teaching in one sentence", [
+            "After Mahāpajāpati Gotamī's request for women's ordination is "
+            "refused three times, Ānanda secures the Buddha's agreement by "
+            "asking directly whether women are capable of realizing the "
+            "same four fruits of the path as men and reminding the Buddha "
+            "of Gotamī's own care for him as an infant; the Buddha agrees "
+            "on condition that Gotamī accept eight principles of respect, "
+            "then predicts the true teaching's lifespan is halved as a "
+            "result, illustrated by three similes of vulnerability."]),
+        ("Three refusals, a journey on foot, and Ānanda's argument", [
+            "Gotamī's own three direct requests, made in person, are each "
+            "met with the same refusal. Rather than giving up, she has her "
+            "head shaved, dons ocher robes, and walks with several Sakyan "
+            "women from Kapilavatthu to Vesālī &mdash; her feet swollen, "
+            "her limbs covered in dust &mdash; where Ānanda finds her "
+            "weeping outside the gate and takes up her cause. Ānanda's own "
+            "argument turns not on repeating her request but on asking "
+            "whether women are capable of the same four fruits of the "
+            "path, and reminding the Buddha that Gotamī nursed him at her "
+            "own breast after his birth mother's death."]),
+        ("The eight garudhamma", [
+            "The Buddha's consent comes bound to eight principles of "
+            "respect (garudhamma): a nun of a hundred years must bow to a "
+            "monk ordained that very day; nuns can't spend the rains "
+            "retreat where there are no monks; nuns depend on the monks' "
+            "community for the sabbath date and for teaching; nuns "
+            "confess offenses to both communities; a nun's grave offense "
+            "requires penance before both communities; full ordination "
+            "for a trainee nun requires both communities' involvement; "
+            "nuns may never abuse or insult a monk; and monks may "
+            "criticize nuns, but nuns may never criticize monks. Gotamī "
+            "accepts all eight as her own ordination, compared to a young "
+            "person delighted to receive a garland of flowers."]),
+        ("A prediction, three similes, and an unresolved scholarly debate", [
+            "The Buddha's closing prediction &mdash; that the true "
+            "teaching, which would otherwise have lasted a thousand "
+            "years, will now last only five hundred because of women's "
+            "ordination &mdash; is illustrated by three similes of "
+            "vulnerability: a household with many women and few men, "
+            "inviting bandits; a rice field struck by disease; a "
+            "sugarcane field struck by blight. This reading guide states "
+            "these elements as the text presents them, while noting that "
+            "modern scholarship, including from this very translation's "
+            "own translator, has raised serious questions about whether "
+            "the garudhamma and the decline prediction represent the "
+            "earliest layer of this account or later additions reflecting "
+            "later institutional concerns &mdash; a live scholarly "
+            "question this guide does not attempt to resolve."]),
+    ],
+    terms=[
+        ("mahāpajāpatī gotamī",
+         "Mahāpajāpati Gotamī, the Buddha's maternal aunt, who raised him "
+         "after his mother's death and here becomes the first woman to "
+         "seek ordination."),
+        ("aṭṭha garudhammā",
+         "&ldquo;the eight principles of respect&rdquo; &mdash; the "
+         "conditions the Buddha attaches to women's ordination, "
+         "structurally subordinating nuns to monks."),
+        ("alaṁ, ānanda, mā te rucci mātugāmassa",
+         "&ldquo;enough, Ānanda; don't endorse it&rdquo; &mdash; the "
+         "Buddha's own refrain, repeated identically across all three of "
+         "Gotamī's own requests and Ānanda's first attempts."),
+        ("sotāpattiphalaṁ vā sakadāgāmiphalaṁ vā anāgāmiphalaṁ vā "
+         "arahattaṁ vā sacchikātuṁ",
+         "&ldquo;realize the fruits of stream-entry, once-return, non-"
+         "return, and perfection&rdquo; &mdash; the question Ānanda "
+         "reframes the debate around, securing the Buddha's affirmation "
+         "of women's spiritual capacity before the ordination itself is "
+         "granted."),
+        ("addhā, ānanda, na cireva brahmacariyaṁ ṭhassati",
+         "&ldquo;the spiritual life will not last long&rdquo; &mdash; the "
+         "Buddha's own closing prediction, at the center of ongoing "
+         "scholarly discussion about this passage's textual history."),
+    ],
+    text_intro=(
+        "The discourse in full: three refused requests, the journey to "
+        "Vesālī, Ānanda's intervention, the eight principles of respect, "
+        "and the Buddha's closing prediction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three requests, three refusals"),
+        ("p", "&sect;1", "an8.51:1.1-4.1"),
+        ("h3", "The journey to Vesālī"),
+        ("p", "&sect;2", "an8.51:5.1-6.5"),
+        ("h3", "Ānanda's intervention"),
+        ("p", "&sect;3", "an8.51:7.1-9.10"),
+        ("h3", "The eight principles of respect"),
+        ("p", "&sect;4", "an8.51:10.1-19.1"),
+        ("h3", "Gotamī accepts"),
+        ("p", "&sect;5", "an8.51:20.1-24.2"),
+        ("h3", "The Buddha's prediction, and three similes"),
+        ("p", "&sect;6", "an8.51:25.1-30.2"),
+    ],
+    quiz=[
+        {"q": "How many times does Gotamī herself directly request the "
+              "going forth for women, and how is each request met?",
+         "opts": [
+             "Once, and it is granted immediately",
+             "Three times, each met with the identical refusal, 'Enough, "
+             "Gotamī. Don't endorse it'",
+             "Twice, with the second request granted",
+             "She never asks directly; only Ānanda asks"],
+         "correct": 1,
+         "expl": "A repeated formula of refusal before Gotamī takes further "
+                 "action herself."},
+        {"q": "What does Gotamī do after her three requests are refused?",
+         "opts": [
+             "She abandons the effort entirely",
+             "She has her head shaved, dons ocher robes, and walks with "
+             "several Sakyan women from Kapilavatthu to Vesālī",
+             "She appeals directly to the king",
+             "She waits several years before trying again"],
+         "correct": 1,
+         "expl": "A physically demanding journey on foot, arriving with "
+                 "swollen feet and dust-covered limbs."},
+        {"q": "What argument does Ānanda make that succeeds where the "
+              "direct requests failed?",
+         "opts": [
+             "He threatens to leave the Saṅgha himself",
+             "He asks whether women are capable of the same four fruits of "
+             "the path as men, and reminds the Buddha that Gotamī nursed "
+             "him after his mother's death",
+             "He simply repeats Gotamī's own request word for word",
+             "He bribes the Buddha's attendants"],
+         "correct": 1,
+         "expl": "A reframing of the question around spiritual capacity, "
+                 "plus a personal appeal to gratitude."},
+        {"q": "What condition does the Buddha attach to granting women's "
+              "ordination?",
+         "opts": [
+             "No condition at all",
+             "Gotamī's acceptance of eight principles of respect "
+             "(garudhamma) structurally subordinating nuns to monks",
+             "A vow of complete silence for life",
+             "Payment of a specific sum to the Saṅgha"],
+         "correct": 1,
+         "expl": "Eight conditions Gotamī accepts, compared by her to "
+                 "receiving a garland of flowers."},
+        {"q": "What does the Buddha predict will result from women's "
+              "ordination, and how does the guide handle this claim?",
+         "opts": [
+             "That the true teaching's lifespan will be halved, from a "
+             "thousand years to five hundred — presented factually, with "
+             "the guide noting ongoing scholarly debate over whether this "
+             "reflects the earliest layer of the text",
+             "That the true teaching will last forever regardless",
+             "Nothing is predicted; the discourse ends without comment",
+             "That women's ordination will have no effect either way"],
+         "correct": 0,
+         "expl": "A significant, debated claim, stated here as the text "
+                 "presents it, with scholarly context offered rather than "
+                 "resolved."},
+        {"q": "What three similes illustrate the Buddha's prediction?",
+         "opts": [
+             "A lotus, a lamp, and a raft",
+             "A household with many women and few men easily robbed, a "
+             "rice field struck by disease, and a sugarcane field struck "
+             "by blight",
+             "A mountain, a river, and the ocean",
+             "A chariot, a horse, and a rider"],
+         "correct": 1,
+         "expl": "Three images of vulnerability, closing the discourse."},
+    ],
+    marginalia=[
+        ("Three requests, three refusals", [
+            "'Enough, Gotamī' — repeated,",
+            "then she walks to Vesālī herself,",
+            "feet swollen, robed in ocher",
+        ]),
+        ("Ānanda reframes the question", [
+            "not repeating the request,",
+            "but asking: can women realize",
+            "the same four fruits as men?",
+        ]),
+        ("Eight conditions, and a prediction", [
+            "garudhamma accepted like a garland —",
+            "then: the teaching's span halved —",
+            "a claim modern scholarship still debates",
+        ]),
+        ("Cross-references", [
+            "AN 8.50 &middot; earlier, closing the First Fifty",
+            "AN 8.52 &middot; next, the qualities of a monk fit to advise "
+            "nuns",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.50.html">AN 8.50 &middot; Winning in This Life (2nd)</a> &mdash; '
+        "earlier, closing the First Fifty.",
+        '<a href="an-8.52.html">AN 8.52 &middot; An Adviser for Nuns</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.52 — Ovādasutta
+# --------------------------------------------------------------------------- #
+page(
+    52, "Ovāda", "An Adviser for Nuns",
+    vagga=VAGGA_6,
+    meta_title="AN 8.52 — An Adviser for Nuns | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ovādasutta, on eight qualities a monk must have to be deemed fit "
+        "to advise the community of nuns, including an explicit disciplinary "
+        "requirement and a twenty-year ordination minimum. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the "
+                    "peaked roof — the same location as AN 8.51's own "
+                    "closing scene"),
+        ("Speakers", "Venerable Ānanda, asking, and the Buddha, answering"),
+        ("Form", "A direct question from Ānanda, answered with an "
+                 "eight-item list of qualifications"),
+        ("Length", "under 1 minute to read"),
+        ("A structural follow-on to AN 8.51", "Coming immediately after "
+                                              "the bhikkhunī order's "
+                                              "founding, this discourse "
+                                              "addresses a practical "
+                                              "question the previous "
+                                              "discourse's eight garudhamma "
+                                              "made newly urgent: who is "
+                                              "actually qualified to serve "
+                                              "in the advisory role those "
+                                              "principles establish"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and direct, worth reading alongside AN 8.51"),
+    ],
+    why=(
+        "Asked by Ānanda how many qualities a monk needs to be deemed an "
+        "adviser for nuns, the Buddha names eight: ethical conduct, deep "
+        "learning, mastery of both monastic codes, articulate speech, the "
+        "ability to inspire the community of nuns, being well liked by "
+        "most of them, a clean record with no prior sexual harassment of "
+        "any nun, and at least twenty years of ordination."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A monk qualified to advise nuns must be ethical, learned in "
+            "the teachings, thoroughly versed in both monastic codes, an "
+            "articulate and inspiring speaker, well liked by most nuns, "
+            "free of any history of sexually harassing a nun, and ordained "
+            "for at least twenty years."]),
+        ("A question this discourse's placement makes urgent", [
+            "Following directly after AN 8.51's account of the bhikkhunī "
+            "order's founding and its eight garudhamma &mdash; several of "
+            "which require nuns to depend on the monks' community for "
+            "guidance, the sabbath date, and instruction &mdash; this "
+            "discourse's question isn't abstract: it asks who is actually "
+            "fit to fill that dependent role responsibly."]),
+        ("An explicit disciplinary safeguard", [
+            "Among the eight qualities, one stands out for its specificity "
+            "and its plain acknowledgment of a real risk: a monk qualified "
+            "to advise nuns must never have previously sexually harassed "
+            "any woman who has gone forth in the Buddha's name. This "
+            "reading guide notes the requirement as the text states it, "
+            "without softening its implication that this was a known, "
+            "named concern."]),
+        ("Seniority as a floor, not a substitute", [
+            "The eighth and final requirement, twenty years of ordination, "
+            "functions as a floor rather than a sufficient qualification "
+            "on its own &mdash; it closes a list where ethical conduct, "
+            "learning, communication skill, and a clean disciplinary "
+            "record all come first, suggesting seniority alone was not "
+            "considered adequate grounds for this responsibility."]),
+    ],
+    terms=[
+        ("bhikkhunovādako",
+         "&ldquo;an adviser for nuns&rdquo; &mdash; this discourse's own "
+         "title-role, the qualification Ānanda's question concerns."),
+        ("ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti",
+         "&ldquo;both monastic codes have been passed down to them in "
+         "detail&rdquo; &mdash; the third quality, requiring mastery of "
+         "both the monks' and the nuns' own codes of discipline."),
+        ("bhikkhunisaṅghassa piyo hoti manāpo",
+         "&ldquo;likable and agreeable to most of the nuns&rdquo; &mdash; "
+         "the sixth quality, requiring the community's own regard, not "
+         "merely formal qualification."),
+        ("na ca pubbe ocarakaṁ katvā gahitapubbo hoti kāsāyavatthavasanāya",
+         "&ldquo;never previously sexually harassed any woman wearing the "
+         "ocher robe who has gone forth&rdquo; &mdash; the seventh and "
+         "most specific quality, an explicit disciplinary requirement."),
+        ("vīsativassavāsī vā atirekavīsativassavāsī vā",
+         "&ldquo;ordained for twenty years or more&rdquo; &mdash; the "
+         "eighth and final requirement, a seniority floor closing the "
+         "list."),
+    ],
+    text_intro=(
+        "The discourse in full: Ānanda's question and the eight "
+        "qualifications the Buddha names in answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ānanda's question, and eight qualifications"),
+        ("p", "&sect;1", "an8.52:1.1-2.11"),
+    ],
+    quiz=[
+        {"q": "What question does Ānanda bring to the Buddha in this "
+              "discourse?",
+         "opts": [
+             "How many nuns should be ordained at once",
+             "How many qualities a monk needs to be deemed an adviser for "
+             "nuns",
+             "Whether nuns should be allowed to travel alone",
+             "How the sabbath should be observed"],
+         "correct": 1,
+         "expl": "A practical question following directly from AN 8.51's "
+                 "account of the order's founding."},
+        {"q": "Why does the guide describe this discourse's question as "
+              "urgent given its placement after AN 8.51?",
+         "opts": [
+             "There is no particular connection between the two",
+             "AN 8.51's own garudhamma make nuns dependent on the monks' "
+             "community for guidance, so who fills that role responsibly "
+             "becomes a real practical question",
+             "AN 8.51 is unrelated to monastic advising",
+             "This discourse contradicts AN 8.51 entirely"],
+         "correct": 1,
+         "expl": "A structural follow-on addressing a concrete "
+                 "implication of the previous discourse."},
+        {"q": "What explicit disciplinary requirement appears among the "
+              "eight qualities?",
+         "opts": [
+             "A vow of poverty",
+             "Never having previously sexually harassed any woman who has "
+             "gone forth in the Buddha's name",
+             "Never having traveled outside the local region",
+             "Never having taught a layperson"],
+         "correct": 1,
+         "expl": "A specific safeguard, stated plainly rather than "
+                 "softened."},
+        {"q": "What is the eighth and final requirement?",
+         "opts": [
+             "Physical strength", "Ordination for twenty years or more",
+             "Wealth given to the Saṅgha", "Royal endorsement"],
+         "correct": 1,
+         "expl": "A seniority floor, closing a list where several other "
+                 "qualities come first."},
+        {"q": "According to the guide, what does the ordering of the eight "
+              "qualities suggest about seniority alone?",
+         "opts": [
+             "That seniority alone was sufficient qualification",
+             "That seniority functions as a floor, not a substitute for "
+             "ethical conduct, learning, and a clean disciplinary record",
+             "That seniority was irrelevant to the role",
+             "That younger monks were preferred"],
+         "correct": 1,
+         "expl": "Twenty years closes the list, after several other "
+                 "requirements come first."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kapilavatthu, at the Banyan Tree Monastery",
+             "Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "The same location as AN 8.51's own closing scene."},
+    ],
+    marginalia=[
+        ("Eight qualifications", [
+            "ethical, learned, versed",
+            "in both monastic codes,",
+            "articulate, well liked, senior",
+        ]),
+        ("A follow-on to AN 8.51", [
+            "the garudhamma make nuns",
+            "dependent on the monks' community —",
+            "so who is fit to serve that role?",
+        ]),
+        ("A safeguard stated plainly", [
+            "never having harassed",
+            "any woman who has gone forth —",
+            "a named, specific requirement",
+        ]),
+        ("Cross-references", [
+            "AN 8.51 &middot; previous, the bhikkhunī order's own founding",
+            "AN 8.53 &middot; next, from the earlier eighteen-page "
+            "selection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.51.html">AN 8.51 &middot; With Gotamī</a> &mdash; previous.',
+    ],
+    next=("an-8.53.html", "AN 8.53 &middot; Brief Advice to Gotamī"),
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.54 — Dīghajāṇusutta (Byagghapajjasutta). an-8.53.html (existing) sits
+# before this discourse; splice in with explicit prev=, per the
+# an-6.16/an-6.63/an-7.6 precedent.
+# --------------------------------------------------------------------------- #
+page(
+    54, "Dīghajāṇu", "With Dīghajāṇu",
+    vagga=VAGGA_6,
+    meta_title="AN 8.54 — With Dīghajāṇu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dīghajāṇusutta, one of the canon's most widely taught lay-ethics "
+        "discourses: four qualities for worldly welfare — initiative, "
+        "protection, good friendship, balanced finances — and four for "
+        "welfare in future lives. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Koliyans, at a town named "
+                    "Kakkarapatta"),
+        ("Speakers", "Dīghajāṇu the Koliyan and the Buddha"),
+        ("Form", "A direct request for practical lay teaching, answered "
+                 "with two sets of four qualities, each explained with its "
+                 "own simile, closing in verse"),
+        ("Length", "~3 minutes to read"),
+        ("One of the most widely taught lay discourses", "This teaching "
+                                                          "on practical "
+                                                          "livelihood and "
+                                                          "ethics is among "
+                                                          "the most "
+                                                          "frequently cited "
+                                                          "lay-ethics "
+                                                          "discourses in "
+                                                          "the modern "
+                                                          "tradition, often "
+                                                          "referenced in "
+                                                          "discussions of "
+                                                          "Buddhist "
+                                                          "economics"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "practical and concrete, with two vivid similes "
+                       "(the reservoir, the appraiser's scale)"),
+    ],
+    why=(
+        "Dīghajāṇu, a layperson who enjoys sensual pleasures and household "
+        "life, asks directly for teaching leading to welfare in this life "
+        "and the next; the Buddha answers with four qualities for worldly "
+        "success &mdash; initiative, protection of wealth, good "
+        "friendship, and balanced finances &mdash; and four for spiritual "
+        "success &mdash; faith, ethics, generosity, and wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four qualities &mdash; earning a living through legitimate "
+            "effort, protecting what's earned, keeping good company, and "
+            "balancing income against expenditure &mdash; lead to welfare "
+            "in this life, while four further qualities &mdash; faith, "
+            "ethics, generosity, and wisdom &mdash; lead to welfare in "
+            "future lives."]),
+        ("A layperson's own honest self-description", [
+            "Dīghajāṇu doesn't ask for monastic teaching; he opens by "
+            "plainly describing his own life &mdash; enjoying sensual "
+            "pleasures, living at home with children, wearing garlands "
+            "and fragrance, accepting gold and currency &mdash; and asks "
+            "for a Dhamma suited to exactly that life, not one that "
+            "requires leaving it behind."]),
+        ("Four this-life qualities, each with its own simile", [
+            "Initiative means understanding one's own trade well enough to "
+            "organize it competently. Protection means safeguarding "
+            "legitimate wealth from rulers, bandits, fire, flood, and "
+            "unloved heirs. Good friendship means associating with mature, "
+            "accomplished people and emulating them. Balanced finances, "
+            "illustrated by an appraiser's scale, means neither living "
+            "beyond one's income like a &ldquo;fig-eater&rdquo; nor "
+            "starving oneself through excessive frugality."]),
+        ("A reservoir with four inlets and four drains", [
+            "The discourse's central image compares wealth to a large "
+            "reservoir: womanizing, drinking, gambling, and bad "
+            "companionship are its four drains, while their opposites are "
+            "its four inlets. The same four items appear as both threat "
+            "and safeguard, framed entirely around whether the drains are "
+            "open or closed. The four spiritual qualities that follow "
+            "&mdash; faith, ethics, generosity, and wisdom &mdash; are the "
+            "identical fourfold pattern already met at AN 8.49-50, applied "
+            "here to a male householder rather than a woman."]),
+    ],
+    terms=[
+        ("byagghapajja",
+         "&ldquo;Byagghapajja&rdquo; &mdash; the name (or clan-name) the "
+         "Buddha uses to address Dīghajāṇu, giving this discourse its "
+         "alternate title, Byagghapajjasutta."),
+        ("uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, "
+         "samajīvitā",
+         "&ldquo;accomplishment in initiative, protection, good "
+         "friendship, and balanced finances&rdquo; &mdash; the four "
+         "qualities for this-life welfare."),
+        ("cattāri apāyamukhāni",
+         "&ldquo;four drains&rdquo; on wealth &mdash; womanizing, "
+         "drinking, gambling, and bad companionship &mdash; illustrated by "
+         "a reservoir losing water faster than rain can replenish it."),
+        ("nāccogāḷhaṁ nātihīnaṁ",
+         "&ldquo;neither too extravagant nor too frugal&rdquo; &mdash; "
+         "the standard for balanced finances, illustrated by an "
+         "appraiser's scale."),
+        ("saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā",
+         "&ldquo;accomplishment in faith, ethics, generosity, and "
+         "wisdom&rdquo; &mdash; the four qualities for future-life "
+         "welfare, the identical fourfold pattern met at AN 8.49-50."),
+    ],
+    text_intro=(
+        "The discourse in full: Dīghajāṇu's request, four qualities for "
+        "this life, four for future lives, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Dīghajāṇu's request"),
+        ("p", "&sect;1", "an8.54:1.1-1.4"),
+        ("h3", "Four qualities for this life"),
+        ("p", "&sect;2", "an8.54:2.1-5.8"),
+        ("h3", "Four drains, and four inlets"),
+        ("p", "&sect;3", "an8.54:6.1-8.1"),
+        ("h3", "Four qualities for future lives"),
+        ("p", "&sect;4", "an8.54:9.1-14.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;5", "an8.54:15.1-18.4"),
+    ],
+    quiz=[
+        {"q": "What does Dīghajāṇu ask for, and how does he frame his own "
+              "life first?",
+         "opts": [
+             "He asks how to become a monk, describing his desire to "
+             "renounce",
+             "He asks for teaching suited to welfare in this life and the "
+             "next, first plainly describing his own life of sensual "
+             "enjoyment and household duties",
+             "He asks for a magical charm",
+             "He asks the Buddha to settle a legal dispute"],
+         "correct": 1,
+         "expl": "A request for a Dhamma suited to lay life, not one "
+                 "requiring its abandonment."},
+        {"q": "What are the four qualities for this-life welfare?",
+         "opts": [
+             "Wealth, status, education, and beauty",
+             "Initiative, protection, good friendship, and balanced "
+             "finances",
+             "Faith, ethics, generosity, and wisdom",
+             "Physical strength, courage, patience, and skill"],
+         "correct": 1,
+         "expl": "Practical qualities for livelihood and household "
+                 "management."},
+        {"q": "What four items function as both 'drains' and, in their "
+              "opposite form, 'inlets' for wealth?",
+         "opts": [
+             "The five precepts",
+             "Womanizing, drinking, gambling, and bad companionship — or "
+             "their opposites",
+             "Taxes, tithes, gifts, and loans",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "A single fourfold item functioning as threat or "
+                 "safeguard depending on direction."},
+        {"q": "What image illustrates balanced finances?",
+         "opts": [
+             "A ship navigating a storm",
+             "An appraiser's scale, showing whether something is 'low by "
+             "this much or high by this much'",
+             "A garden being watered",
+             "A fire being tended"],
+         "correct": 1,
+         "expl": "Neither extravagant nor frugal, measured like weights on "
+                 "a scale."},
+        {"q": "How do the four future-life qualities relate to AN 8.49-50?",
+         "opts": [
+             "They are entirely unrelated",
+             "They are the identical fourfold pattern — faith, ethics, "
+             "generosity, wisdom — applied here to a male householder "
+             "rather than a woman",
+             "They contradict AN 8.49-50's teaching",
+             "AN 8.49-50 has no comparable fourfold pattern"],
+         "correct": 1,
+         "expl": "The same saddhā/sīla/cāga/paññā-sampadā pattern, now "
+                 "addressed to a man."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kapilavatthu, at the Banyan Tree Monastery",
+             "The land of the Koliyans, at a town named Kakkarapatta",
+             "Vesālī, at the Great Wood",
+             "Sāvatthī, in Jeta's Grove"],
+         "correct": 1,
+         "expl": "A location distinct from this chapter's earlier "
+                 "discourses."},
+    ],
+    marginalia=[
+        ("A life described plainly first", [
+            "sensual pleasures, household,",
+            "garlands, gold and currency —",
+            "a Dhamma suited to exactly that",
+        ]),
+        ("Four qualities, four similes", [
+            "initiative, protection,",
+            "good friendship, balance —",
+            "the appraiser's scale for finances",
+        ]),
+        ("A reservoir, drained or filled", [
+            "womanizing, drink, gambling,",
+            "bad company — the same four,",
+            "as drains or, reversed, as inlets",
+        ]),
+        ("Cross-references", [
+            "AN 8.53 &middot; previous, from the earlier eighteen-page "
+            "selection",
+            "AN 8.55 &middot; next, the same teaching addressed to a "
+            "different brahmin",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.53.html">AN 8.53 &middot; Brief Advice to Gotamī</a> &mdash; previous.',
+        '<a href="an-8.55.html">AN 8.55 &middot; With Ujjaya</a> &mdash; next.',
+    ],
+    prev=("an-8.53.html", "AN 8.53 &middot; Brief Advice to Gotamī"),
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.55 — Ujjayasutta
+# --------------------------------------------------------------------------- #
+page(
+    55, "Ujjaya", "With Ujjaya",
+    vagga=VAGGA_6,
+    meta_title="AN 8.55 — With Ujjaya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ujjayasutta, restating AN 8.54's eight qualities for welfare in "
+        "this life and the next, this time for the brahmin Ujjaya as he "
+        "prepares to travel abroad. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Ujjaya the brahmin and the Buddha"),
+        ("Form", "The identical eight qualities as AN 8.54, addressed to a "
+                 "different questioner with a different stated reason for "
+                 "asking"),
+        ("Length", "~3 minutes to read"),
+        ("A traveler's question, not a householder's", "Where Dīghajāṇu "
+                                                        "asked as someone "
+                                                        "settled in "
+                                                        "household life, "
+                                                        "Ujjaya asks "
+                                                        "because he is "
+                                                        "about to travel "
+                                                        "abroad — a "
+                                                        "different "
+                                                        "motivation "
+                                                        "receiving the "
+                                                        "identical answer"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.54, best read as a "
+                       "companion rather than new material"),
+    ],
+    why=(
+        "The brahmin Ujjaya, preparing to travel abroad, asks the Buddha "
+        "for the same teaching on welfare in this life and the next that "
+        "Dīghajāṇu received at AN 8.54, and receives it word for word: "
+        "four qualities for worldly welfare and four for welfare in future "
+        "lives."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ujjaya receives the identical eight qualities given to "
+            "Dīghajāṇu at AN 8.54 &mdash; initiative, protection, good "
+            "friendship, and balanced finances for this life; faith, "
+            "ethics, generosity, and wisdom for future lives &mdash; "
+            "prompted by his own upcoming journey abroad rather than a "
+            "settled household life."]),
+        ("A different stated reason, an identical answer", [
+            "Ujjaya doesn't describe his lifestyle the way Dīghajāṇu did; "
+            "instead, he states a specific practical reason for asking: "
+            "&ldquo;we wish to travel abroad.&rdquo; The Buddha's answer "
+            "doesn't adjust for this different circumstance at all "
+            "&mdash; the same eight qualities apply whether one is "
+            "settling into household life or setting out on a journey."]),
+        ("No setting given, unlike AN 8.54", [
+            "Where AN 8.54 opens with a specific location, the land of "
+            "the Koliyans at Kakkarapatta, this discourse gives no "
+            "setting at all, opening directly with Ujjaya's approach and "
+            "question &mdash; one of several small differences in framing "
+            "that don't affect the substance of the shared teaching."]),
+        ("A teaching stable across different life circumstances", [
+            "Read together, AN 8.54 and AN 8.55 make an implicit claim "
+            "through repetition: these eight qualities aren't tailored to "
+            "one particular life situation &mdash; settled household life, "
+            "or travel and change &mdash; but hold as a stable foundation "
+            "across different circumstances a layperson might actually "
+            "face."]),
+    ],
+    terms=[
+        ("ujjayo brāhmaṇo",
+         "the brahmin Ujjaya, this discourse's own questioner, distinct "
+         "from Dīghajāṇu the Koliyan at AN 8.54."),
+        ("bāhirā gantukāmā",
+         "&ldquo;we wish to travel abroad&rdquo; &mdash; Ujjaya's own "
+         "stated reason for asking, absent from AN 8.54's version of the "
+         "same request."),
+        ("uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, "
+         "samajīvitā",
+         "the identical four this-life qualities named at AN 8.54, "
+         "unchanged here."),
+        ("cattāri apāyamukhāni",
+         "the same four drains on wealth met at AN 8.54 &mdash; "
+         "womanizing, drinking, gambling, and bad companionship &mdash; "
+         "restated here without alteration."),
+        ("saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā",
+         "the identical four future-life qualities as AN 8.54, closing "
+         "this discourse's teaching unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight qualities as AN 8.54, "
+        "given to Ujjaya as he prepares to travel abroad. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ujjaya's request"),
+        ("p", "&sect;1", "an8.55:1.1-1.4"),
+        ("h3", "Four qualities for this life"),
+        ("p", "&sect;2", "an8.55:2.1-6.8"),
+        ("h3", "Four drains, and four inlets"),
+        ("p", "&sect;3", "an8.55:7.1-9.1"),
+        ("h3", "Four qualities for future lives"),
+        ("p", "&sect;4", "an8.55:10.1-14.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;5", "an8.55:15.1-18.4"),
+    ],
+    quiz=[
+        {"q": "How does Ujjaya's stated reason for asking differ from "
+              "Dīghajāṇu's at AN 8.54?",
+         "opts": [
+             "They are identical",
+             "Ujjaya states a specific practical reason — he is about to "
+             "travel abroad — where Dīghajāṇu described his settled "
+             "household life",
+             "Ujjaya doesn't give any reason at all",
+             "Ujjaya asks a completely different question"],
+         "correct": 1,
+         "expl": "Different circumstances, prompting the same underlying "
+                 "request."},
+        {"q": "How does the Buddha's answer to Ujjaya compare to his "
+              "answer to Dīghajāṇu?",
+         "opts": [
+             "Entirely different, adjusted for travel",
+             "Word for word identical — the same eight qualities apply "
+             "regardless of the specific life circumstance",
+             "Shorter, omitting several qualities",
+             "Contradictory in its core content"],
+         "correct": 1,
+         "expl": "A teaching that doesn't adjust for the different stated "
+                 "motivation."},
+        {"q": "What does this discourse omit that AN 8.54 includes?",
+         "opts": [
+             "The eight qualities themselves",
+             "A stated setting — this discourse gives no location at all",
+             "The closing verses",
+             "The reservoir simile"],
+         "correct": 1,
+         "expl": "A bare opening with no location given, unlike AN 8.54's "
+                 "named setting."},
+        {"q": "According to the guide, what claim does the pairing of AN "
+              "8.54 and AN 8.55 make through repetition?",
+         "opts": [
+             "That the teaching only applies to travelers",
+             "That these eight qualities hold as a stable foundation "
+             "across different life circumstances, not tailored to one "
+             "particular situation",
+             "That the two discourses actually contradict each other",
+             "That only brahmins can benefit from this teaching"],
+         "correct": 1,
+         "expl": "A teaching whose stability across circumstances is the "
+                 "pairing's implicit point."},
+        {"q": "What are the four drains on wealth, restated here unchanged "
+              "from AN 8.54?",
+         "opts": [
+             "Taxes, tithes, gifts, and loans",
+             "Womanizing, drinking, gambling, and bad companionship",
+             "Wealth, status, education, and beauty",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Identical to AN 8.54's own reservoir simile."},
+        {"q": "Who asks the question in this discourse?",
+         "opts": [
+             "Dīghajāṇu the Koliyan", "The brahmin Ujjaya",
+             "Mahāpajāpati Gotamī", "Venerable Ānanda"],
+         "correct": 1,
+         "expl": "A different questioner receiving the identical teaching."},
+    ],
+    marginalia=[
+        ("A traveler's question", [
+            "'we wish to travel abroad' —",
+            "a different reason for asking,",
+            "the identical eight qualities given",
+        ]),
+        ("No setting, unlike AN 8.54", [
+            "no named location here —",
+            "opening straight into",
+            "Ujjaya's own request",
+        ]),
+        ("Stable across circumstances", [
+            "settled household, or travel —",
+            "the same eight qualities hold,",
+            "not tailored to one situation",
+        ]),
+        ("Cross-references", [
+            "AN 8.54 &middot; previous, the identical teaching for "
+            "Dīghajāṇu",
+            "AN 8.56 &middot; next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.55/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.54.html">AN 8.54 &middot; With Dīghajāṇu</a> &mdash; previous.',
+        '<a href="an-8.56.html">AN 8.56 &middot; Danger</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.56 — Ādīnavasutta
+# --------------------------------------------------------------------------- #
+page(
+    56, "Ādīnava", "Danger",
+    vagga=VAGGA_6,
+    meta_title="AN 8.56 — Danger | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ādīnavasutta, eight terms for sensual pleasures — danger, "
+        "suffering, disease, boil, dart, chain, bog, and womb — each "
+        "explained through the ordinary person's continued bondage to "
+        "rebirth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight terms for sensual pleasures, each briefly "
+                 "explained, closing in verse"),
+        ("Length", "~1 minute to read"),
+        ("A single register, eight synonyms", "Unlike this chapter's other "
+                                              "eight-item lists, which name "
+                                              "eight distinct factors or "
+                                              "qualities, this discourse "
+                                              "names eight different words "
+                                              "for a single thing, each "
+                                              "capturing a different facet "
+                                              "of the same danger"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and image-rich, easy to read but worth sitting "
+                       "with each term individually"),
+    ],
+    why=(
+        "AN 8.56 names eight terms for sensual pleasures &mdash; danger, "
+        "suffering, disease, boil, dart, chain, bog, and womb &mdash; "
+        "explaining that someone besotted by sensual greed is not freed "
+        "from these dangers, or from further rebirth, in this life or "
+        "lives to come."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Danger, suffering, disease, boil, dart, chain, bog, and womb "
+            "are all terms for sensual pleasures, because someone "
+            "besotted by sensual greed and shackled by lustful desire is "
+            "not freed from danger &mdash; or from further wombs, further "
+            "rebirths &mdash; in this life or lives to come."]),
+        ("Eight words, not eight separate things", [
+            "Where most of this book's eight-item lists name eight "
+            "distinct factors, qualities, or individuals, this discourse "
+            "takes a different approach: eight different words applied to "
+            "a single subject, sensual pleasure, each word illuminating a "
+            "different aspect of why it's dangerous &mdash; acute pain "
+            "(dart), chronic affliction (disease), entrapment (chain), "
+            "and the cycle of rebirth itself (womb)."]),
+        ("Womb, the term the discourse dwells on longest", [
+            "Though all eight terms receive the identical explanatory "
+            "formula, the discourse's own text singles out "
+            "&ldquo;womb&rdquo; for explicit restatement, tying sensual "
+            "greed directly to continued rebirth &mdash; not simply an "
+            "unpleasant state to be endured, but the very mechanism that "
+            "keeps the cycle of birth and death turning."]),
+        ("A mendicant who transcends the swamp", [
+            "The closing verses shift from diagnosis to contrast: where "
+            "ordinary people remain swamped by what merely seems pleasant, "
+            "a mendicant who is keen and doesn't forget awareness "
+            "transcends this &ldquo;grueling swamp&rdquo; entirely, "
+            "watching from outside as the wider population flounders in "
+            "rebirth and old age."]),
+    ],
+    terms=[
+        ("ādīnavo",
+         "&ldquo;danger&rdquo; &mdash; this discourse's own title term "
+         "and the first of the eight, explained through continued "
+         "bondage to danger in this life and future lives."),
+        ("gaṇḍo, sallaṁ",
+         "&ldquo;boil, dart&rdquo; &mdash; two of the more viscerally "
+         "physical terms in the list, images of festering affliction and "
+         "acute, piercing pain."),
+        ("palipo",
+         "&ldquo;bog&rdquo; &mdash; a term evoking entrapment that "
+         "worsens with struggle, a swamp one sinks deeper into by "
+         "resisting incorrectly."),
+        ("yoni",
+         "&ldquo;womb&rdquo; &mdash; the eighth and final term, singled "
+         "out by the discourse's own text for explicit restatement, tying "
+         "sensual greed directly to the mechanism of continued rebirth."),
+        ("taṁ padumaṁ atikkamma",
+         "part of the closing verses' description of the mendicant who "
+         "transcends &ldquo;this grueling swamp,&rdquo; watching the "
+         "wider population flounder in rebirth and old age."),
+    ],
+    text_intro=(
+        "The discourse in full: eight terms for sensual pleasures, and "
+        "closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight terms for sensual pleasures"),
+        ("p", "&sect;1", "an8.56:1.1-1.18"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.56:2.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What are the eight terms this discourse applies to sensual "
+              "pleasures?",
+         "opts": [
+             "The five hindrances plus three more",
+             "Danger, suffering, disease, boil, dart, chain, bog, and womb",
+             "The seven factors of awakening plus one",
+             "Eight kinds of physical illness"],
+         "correct": 1,
+         "expl": "Eight different words illuminating different facets of "
+                 "the same underlying danger."},
+        {"q": "How does this discourse's eightfold structure differ from "
+              "most others in this book?",
+         "opts": [
+             "It is structurally identical to the rest",
+             "It names eight different words for a single subject, rather "
+             "than eight distinct factors or individuals",
+             "It has no eightfold structure at all",
+             "It lists eight unrelated topics"],
+         "correct": 1,
+         "expl": "Eight synonyms, not eight separate items."},
+        {"q": "Which term does the discourse's own text single out for "
+              "explicit restatement?",
+         "opts": [
+             "Disease", "Womb — tying sensual greed directly to continued "
+                         "rebirth",
+             "Boil", "Chain"],
+         "correct": 1,
+         "expl": "The mechanism keeping the cycle of birth and death "
+                 "turning, not merely an unpleasant state."},
+        {"q": "What happens to a mendicant who is keen and doesn't forget "
+              "awareness, according to the closing verses?",
+         "opts": [
+             "They remain swamped like everyone else",
+             "They transcend the 'grueling swamp' entirely, watching the "
+             "wider population flounder in rebirth and old age",
+             "They are punished for their effort",
+             "Nothing changes for them"],
+         "correct": 1,
+         "expl": "A contrast between ordinary bondage and a mendicant's "
+                 "own transcendence."},
+        {"q": "Why is 'danger' explained as a term for sensual pleasures?",
+         "opts": [
+             "Because sensual pleasures are physically painful to enjoy",
+             "Because someone besotted by sensual greed is not freed from "
+             "dangers in this life or lives to come",
+             "Because sensual pleasures are illegal",
+             "No explanation is given"],
+         "correct": 1,
+         "expl": "The same explanatory formula applied to each of the "
+                 "eight terms in turn."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Vesālī",
+             "No setting is stated in the source", "Yes, at Rājagaha"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("Eight words, one danger", [
+            "danger, suffering, disease,",
+            "boil, dart, chain, bog, womb —",
+            "each a different facet",
+        ]),
+        ("Womb, singled out", [
+            "the mechanism itself —",
+            "sensual greed tied directly",
+            "to the wheel of rebirth",
+        ]),
+        ("A mendicant transcends the swamp", [
+            "keen, never forgetting awareness —",
+            "watching from outside",
+            "as the population flounders",
+        ]),
+        ("Cross-references", [
+            "AN 8.55 &middot; previous, the same welfare teaching for a "
+            "traveler",
+            "AN 8.57 &middot; next, eight qualities worthy of offerings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.55.html">AN 8.55 &middot; With Ujjaya</a> &mdash; previous.',
+        '<a href="an-8.57.html">AN 8.57 &middot; Worthy of Offerings Dedicated to the '
+        "Gods (1st)</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.57 — Paṭhamaāhuneyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    57, "Paṭhamaāhuneyya", "Worthy of Offerings Dedicated to the Gods (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 8.57 — Worthy of Offerings Dedicated to the Gods (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaāhuneyyasutta, an eight-quality composite of the ethical, "
+        "learned, well-connected mendicant crowned with the three "
+        "knowledges of the awakening night, worthy of the highest offerings. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare eight-item list combining ethical, social, and "
+                 "meditative qualities, closing with the three knowledges"),
+        ("Length", "under 1 minute to read"),
+        ("A composite built from earlier material", "Several of these "
+                                                     "eight qualities "
+                                                     "recombine elements "
+                                                     "already met "
+                                                     "separately elsewhere "
+                                                     "in this book — the "
+                                                     "arahant's three "
+                                                     "knowledges echo AN "
+                                                     "8.11's own first-"
+                                                     "person account of "
+                                                     "the awakening night"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear list, worth comparing closely with AN 8.58's "
+                       "own different eight items"),
+    ],
+    why=(
+        "AN 8.57 names eight qualities that make a mendicant worthy of the "
+        "highest offerings &mdash; ethical restraint, deep learning, good "
+        "friendship, right view, the four absorptions on demand, "
+        "recollection of past lives, clairvoyant knowledge of other "
+        "beings' rebirth, and the freedom of heart and wisdom that comes "
+        "from ending the defilements."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant worthy of offerings dedicated to the gods "
+            "combines ethical restraint, deep learning, good companionship, "
+            "and right view with the four absorptions available at will, "
+            "recollection of past lives, clairvoyant insight into other "
+            "beings' rebirth, and complete freedom through the ending of "
+            "defilements."]),
+        ("Ethics and learning, this book's familiar foundation", [
+            "The first two qualities &mdash; ethical restraint down to the "
+            "slightest fault, and deep, well-retained learning of the "
+            "teachings &mdash; are the same foundational pair this book "
+            "has met repeatedly, here forming the base of a list that "
+            "builds upward toward full awakening."]),
+        ("Two social and doctrinal qualities, before the meditative core", [
+            "Between the ethical foundation and the meditative "
+            "attainments, this list inserts two qualities not always "
+            "paired together elsewhere: good friends, companions, and "
+            "associates, and right view with a right perspective &mdash; "
+            "social and doctrinal grounding, positioned deliberately "
+            "before the list turns to meditation."]),
+        ("Three knowledges, echoing AN 8.11's own account", [
+            "The final three items &mdash; the four absorptions, "
+            "recollection of past lives, and clairvoyant knowledge of "
+            "other beings' rebirth according to their deeds &mdash; "
+            "together with the closing freedom through ending the "
+            "defilements, recombine the same three knowledges the Buddha "
+            "described in his own first-person voice at AN 8.11, now "
+            "given as a general qualification rather than a personal "
+            "account."]),
+    ],
+    terms=[
+        ("kalyāṇamitto",
+         "&ldquo;has good friends&rdquo; &mdash; the third quality, "
+         "social grounding positioned between ethical foundation and "
+         "meditative attainment."),
+        ("sammādiṭṭhi hoti ujuppaṭipanno",
+         "&ldquo;has right view, possessing right perspective&rdquo; "
+         "&mdash; the fourth quality, doctrinal orientation preceding the "
+         "list's meditative core."),
+        ("catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ "
+         "nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want, without "
+         "trouble or difficulty&rdquo; &mdash; the fifth quality, "
+         "meditative mastery available on demand."),
+        ("anekavihitaṁ pubbenivāsaṁ anussarati",
+         "&ldquo;recollects many kinds of past lives&rdquo; &mdash; the "
+         "sixth quality, the first of the three knowledges echoing AN "
+         "8.11's own account."),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+         "&ldquo;the undefiled freedom of heart and freedom by "
+         "wisdom&rdquo; through the ending of defilements &mdash; the "
+         "eighth and closing quality."),
+    ],
+    text_intro=(
+        "The discourse in full: eight qualities of a mendicant worthy of "
+        "offerings dedicated to the gods. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight qualities worthy of the highest offerings"),
+        ("p", "&sect;1", "an8.57:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "What are the first two qualities in this discourse's list?",
+         "opts": [
+             "Wealth and social status",
+             "Ethical restraint down to the slightest fault, and deep, "
+             "well-retained learning of the teachings",
+             "Physical strength and courage",
+             "Skill in debate and public speaking"],
+         "correct": 1,
+         "expl": "This book's familiar foundational pair, met repeatedly "
+                 "elsewhere."},
+        {"q": "What two qualities does this list insert between the "
+              "ethical foundation and the meditative attainments?",
+         "opts": [
+             "Wealth and fame", "Good friendship and right view",
+             "Physical beauty and eloquence", "Royal connections and "
+                                               "political influence"],
+         "correct": 1,
+         "expl": "Social and doctrinal grounding, positioned deliberately "
+                 "before the meditative core."},
+        {"q": "What do the final three items of this list echo?",
+         "opts": [
+             "Nothing from elsewhere in this book",
+             "The same three knowledges the Buddha described in his own "
+             "first-person account at AN 8.11",
+             "AN 8.5's eight worldly conditions",
+             "AN 8.15's eight stains"],
+         "correct": 1,
+         "expl": "A recombination of the awakening-night knowledges, now "
+                 "given as a general qualification."},
+        {"q": "What does the fifth quality describe?",
+         "opts": [
+             "Physical endurance",
+             "Getting the four absorptions when wanted, without trouble "
+             "or difficulty",
+             "Wealth accumulation",
+             "Skill in argument"],
+         "correct": 1,
+         "expl": "Meditative mastery available on demand, not merely "
+                 "occasional attainment."},
+        {"q": "What closes the list of eight qualities?",
+         "opts": [
+             "Wealth and generosity",
+             "The undefiled freedom of heart and wisdom through the "
+             "ending of defilements",
+             "Physical beauty",
+             "Royal endorsement"],
+         "correct": 1,
+         "expl": "Complete freedom, the culmination of the eight "
+                 "qualities."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("Ethics and learning, first", [
+            "the same foundational pair",
+            "this book has met before —",
+            "the base of a list building upward",
+        ]),
+        ("Friendship and view, between", [
+            "social and doctrinal grounding,",
+            "positioned deliberately",
+            "before the meditative core",
+        ]),
+        ("Three knowledges, recombined", [
+            "past lives, others' rebirth,",
+            "freedom through ending defilements —",
+            "echoing AN 8.11's own account",
+        ]),
+        ("Cross-references", [
+            "AN 8.56 &middot; previous, eight terms for sensual pleasures",
+            "AN 8.58 &middot; next, a different eight qualities for the "
+            "same worthiness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.57/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.56.html">AN 8.56 &middot; Danger</a> &mdash; previous.',
+        '<a href="an-8.58.html">AN 8.58 &middot; Worthy of Offerings Dedicated to the '
+        "Gods (2nd)</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.58 — Dutiyaāhuneyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    58, "Dutiyaāhuneyya", "Worthy of Offerings Dedicated to the Gods (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 8.58 — Worthy of Offerings Dedicated to the Gods (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaāhuneyyasutta, a second, more forest-ascetic set of eight "
+        "qualities worthy of the highest offerings — energy, wilderness "
+        "dwelling, and mastery of fear — sharing only its opening and "
+        "closing items with AN 8.57. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A second eight-item list for the same worthiness, "
+                 "sharing its ethical and meditative bookends with AN 8.57 "
+                 "but replacing the middle four qualities entirely"),
+        ("Length", "under 1 minute to read"),
+        ("A different register from AN 8.57", "Where AN 8.57 built toward "
+                                              "worthiness through "
+                                              "friendship, view, and the "
+                                              "three knowledges, this "
+                                              "discourse builds toward it "
+                                              "through energy, solitary "
+                                              "forest dwelling, and "
+                                              "mastery over desire and "
+                                              "fear — a forest-ascetic "
+                                              "register rather than a "
+                                              "socially and doctrinally "
+                                              "grounded one"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; best "
+                       "read directly alongside AN 8.57 to see exactly "
+                       "which items change"),
+    ],
+    why=(
+        "AN 8.58 names a second set of eight qualities for the same "
+        "worthiness described at AN 8.57 &mdash; ethical restraint and "
+        "deep learning as before, but now roused energy, wilderness "
+        "dwelling, mastery over desire and discontent, mastery over fear "
+        "and dread, the four absorptions, and freedom through ending the "
+        "defilements."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant worthy of offerings dedicated to the gods can "
+            "also be described through a different eight qualities: "
+            "ethical restraint and deep learning as before, then roused "
+            "energy, wilderness dwelling, mastery over desire and "
+            "discontent, mastery over fear and dread, the four "
+            "absorptions on demand, and freedom through ending the "
+            "defilements."]),
+        ("The same bookends, a different middle", [
+            "This discourse shares its first two qualities (ethical "
+            "restraint, deep learning) and its meditative bookend items "
+            "(the four absorptions, final freedom) with AN 8.57 nearly "
+            "word for word. What changes entirely is the middle: where AN "
+            "8.57 inserted friendship, right view, and two of the three "
+            "knowledges, this discourse inserts energy, solitude, and "
+            "mastery over two specific internal obstacles."]),
+        ("A forest-ascetic profile", [
+            "Wilderness dwelling in remote lodgings, mastery over desire "
+            "and discontent, and mastery over fear and dread together "
+            "sketch a recognizably different figure than AN 8.57's "
+            "socially embedded, doctrinally grounded mendicant &mdash; "
+            "someone whose worthiness comes through solitary struggle "
+            "with specific internal obstacles rather than through "
+            "companionship and view."]),
+        ("Two paths to the same worthiness, not a contradiction", [
+            "Read together, AN 8.57 and AN 8.58 don't compete for which "
+            "eight qualities are the &ldquo;real&rdquo; requirement; they "
+            "offer two different composite profiles &mdash; one social "
+            "and doctrinal, one solitary and ascetic &mdash; both landing "
+            "on the identical worthiness through different combinations "
+            "of qualities."]),
+    ],
+    terms=[
+        ("āraddhavīriyo",
+         "&ldquo;lives with energy roused up&rdquo; &mdash; the third "
+         "quality in this discourse's own version, replacing AN 8.57's "
+         "good friendship at the same position."),
+        ("araññavanapatthāni pantāni senāsanāni paṭisevati",
+         "&ldquo;lives in the wilderness, in remote lodgings&rdquo; "
+         "&mdash; the fourth quality, physical solitude replacing AN "
+         "8.57's right view."),
+        ("chandaṁ abhibhuyya viharati, na chandena abhibhūyati",
+         "&ldquo;prevails over desire and discontent&rdquo; &mdash; the "
+         "fifth quality, mastery over an internal obstacle rather than an "
+         "external social or doctrinal grounding."),
+        ("bhayabheravaṁ abhibhuyya viharati",
+         "&ldquo;prevails over fear and dread&rdquo; &mdash; the sixth "
+         "quality, a second internal mastery distinctive to this "
+         "discourse's own list."),
+        ("catunnaṁ jhānānaṁ ābhicetasikānaṁ",
+         "the four absorptions, shared word for word with AN 8.57 at the "
+         "same position in both lists."),
+    ],
+    text_intro=(
+        "The discourse in full: a second set of eight qualities worthy of "
+        "the highest offerings. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight qualities worthy of the highest offerings"),
+        ("p", "&sect;1", "an8.58:1.1-1.11"),
+    ],
+    quiz=[
+        {"q": "Which two qualities does this discourse share nearly word "
+              "for word with AN 8.57?",
+         "opts": [
+             "Right view and good friendship",
+             "Ethical restraint and deep learning, at the opening",
+             "Wilderness dwelling and mastery of fear",
+             "Nothing is shared between the two discourses"],
+         "correct": 1,
+         "expl": "The same foundational pair opening both discourses' "
+                 "lists."},
+        {"q": "What replaces AN 8.57's 'good friendship' and 'right view' "
+              "at the same positions in this discourse's list?",
+         "opts": [
+             "Wealth and social status",
+             "Roused energy and wilderness dwelling in remote lodgings",
+             "Physical beauty and eloquence",
+             "Royal patronage and political influence"],
+         "correct": 1,
+         "expl": "A shift from social/doctrinal grounding to energy and "
+                 "solitude."},
+        {"q": "What two internal obstacles does this discourse's fifth and "
+              "sixth quality describe mastering?",
+         "opts": [
+             "Hunger and thirst",
+             "Desire and discontent, then fear and dread",
+             "Anger and pride",
+             "Doubt and restlessness"],
+         "correct": 1,
+         "expl": "Qualities distinctive to this discourse's own forest-"
+                 "ascetic profile."},
+        {"q": "According to the guide, how should AN 8.57 and AN 8.58 be "
+              "understood together?",
+         "opts": [
+             "As contradicting each other about the 'real' requirement",
+             "As two different composite profiles — social/doctrinal and "
+             "solitary/ascetic — both landing on the identical worthiness",
+             "As the same discourse repeated without variation",
+             "As entirely unrelated teachings"],
+         "correct": 1,
+         "expl": "Two paths to the same worthiness, not competing claims."},
+        {"q": "What do this discourse and AN 8.57 share at their closing "
+              "position?",
+         "opts": [
+             "Nothing; the endings are entirely different",
+             "The four absorptions and freedom through ending the "
+             "defilements",
+             "A description of physical appearance",
+             "A list of monastic requisites"],
+         "correct": 1,
+         "expl": "The same meditative bookend, word for word, closing both "
+                 "lists."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.57's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Same bookends, different middle", [
+            "ethics, learning — shared —",
+            "then energy, solitude,",
+            "mastery of desire and fear",
+        ]),
+        ("A forest-ascetic profile", [
+            "remote lodgings, roused energy,",
+            "prevailing over fear and dread —",
+            "a different figure than AN 8.57's",
+        ]),
+        ("Two paths, one worthiness", [
+            "social and doctrinal, or",
+            "solitary and ascetic —",
+            "both reaching the same field of merit",
+        ]),
+        ("Cross-references", [
+            "AN 8.57 &middot; previous, the first set of eight qualities "
+            "for this worthiness",
+            "AN 8.59 &middot; next, the eight individuals of the noble "
+            "Saṅgha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.57.html">AN 8.57 &middot; Worthy of Offerings Dedicated to the '
+        "Gods (1st)</a> &mdash; previous.",
+        '<a href="an-8.59.html">AN 8.59 &middot; Eight Individuals (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.59 — Paṭhamapuggalasutta
+# --------------------------------------------------------------------------- #
+page(
+    59, "Paṭhamapuggala", "Eight Individuals (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 8.59 — Eight Individuals (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamapuggalasutta, naming the eight individuals of the noble "
+        "Saṅgha — four pairs, path and fruit, from stream-enterer through "
+        "the perfected one — worthy of the highest offerings. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare naming of eight individuals in four pairs, "
+                 "closing in two verses"),
+        ("Length", "under 1 minute to read"),
+        ("Individuals, not qualities", "Unlike AN 8.57 and 8.58's "
+                                       "composite lists of qualities in a "
+                                       "single mendicant, this discourse "
+                                       "names eight distinct kinds of "
+                                       "person, forming the traditional "
+                                       "eightfold noble Saṅgha"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and structurally clear, a foundational list in "
+                       "this tradition"),
+    ],
+    why=(
+        "AN 8.59 names the eight individuals of the noble Saṅgha, worthy "
+        "of the highest offerings: the stream-enterer and the one "
+        "practicing to realize that fruit, the once-returner and the one "
+        "practicing toward it, the non-returner and the one practicing "
+        "toward it, and the perfected one and the one practicing for "
+        "perfection."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight individuals worthy of the highest offerings are "
+            "four pairs &mdash; each combining someone who has realized a "
+            "fruit of the path with someone practicing to realize that "
+            "same fruit &mdash; spanning from stream-entry through "
+            "complete perfection, together forming the traditional "
+            "eightfold noble Saṅgha."]),
+        ("Four fruits, doubled into eight", [
+            "Rather than naming four attainments, this discourse doubles "
+            "each one: the stream-enterer themselves, and separately, the "
+            "one still practicing to realize stream-entry; likewise for "
+            "once-return, non-return, and full perfection. The doubling "
+            "recognizes practice itself, not only its completion, as part "
+            "of what makes the Saṅgha worthy."]),
+        ("A community defined by attainment, not institution", [
+            "This eightfold classification cuts across any formal "
+            "monastic hierarchy or seniority &mdash; it sorts people by "
+            "what they have realized or are actively realizing on the "
+            "path, not by ordination date, robe color, or administrative "
+            "role, a genuinely different axis of organization than most "
+            "of this book's other lists."]),
+        ("Closing verses: the upright Saṅgha", [
+            "The closing verses name this eightfold group directly as "
+            "&ldquo;the upright Saṅgha, with wisdom, ethics, and "
+            "immersion,&rdquo; and declare that whatever merit-seeking "
+            "humans offer to this Saṅgha specifically is very fruitful "
+            "&mdash; grounding the whole discourse's practical purpose in "
+            "identifying who is worth giving to."]),
+    ],
+    terms=[
+        ("aṭṭha puggalā",
+         "&ldquo;eight individuals&rdquo; &mdash; this discourse's own "
+         "title-phrase, the traditional eightfold classification of the "
+         "noble Saṅgha."),
+        ("sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno",
+         "&ldquo;the stream-enterer and the one practicing to realize the "
+         "fruit of stream-entry&rdquo; &mdash; the first pair, combining "
+         "attainment and active practice."),
+        ("anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno",
+         "&ldquo;the non-returner and the one practicing to realize the "
+         "fruit of non-return&rdquo; &mdash; the third pair in the "
+         "ascending sequence."),
+        ("arahā, arahattāya paṭipanno",
+         "&ldquo;the perfected one, and the one practicing for "
+         "perfection&rdquo; &mdash; the fourth and highest pair, closing "
+         "the eightfold sequence."),
+        ("ujubhūtaṁ sāṅghaṁ, paññāsīlasamāhitaṁ",
+         "&ldquo;the upright Saṅgha, with wisdom, ethics, and "
+         "immersion&rdquo; &mdash; the closing verses' own name for this "
+         "eightfold community of individuals."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight individuals of the noble Saṅgha, "
+        "and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight individuals, four pairs"),
+        ("p", "&sect;1", "an8.59:1.1-1.4"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.59:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse structure its eight individuals?",
+         "opts": [
+             "As eight unrelated types with no pairing",
+             "As four pairs — each combining someone who has realized a "
+             "fruit with someone practicing to realize that same fruit",
+             "As a single continuous hierarchy with no grouping",
+             "As eight qualities in one mendicant"],
+         "correct": 1,
+         "expl": "A doubling of four fruits into eight, recognizing "
+                 "practice as well as attainment."},
+        {"q": "How does this discourse's approach differ from AN 8.57 and "
+              "8.58?",
+         "opts": [
+             "It is structurally identical to both",
+             "It names eight distinct individuals rather than eight "
+             "qualities combined in a single mendicant",
+             "It has no eightfold structure at all",
+             "It contradicts AN 8.57 and 8.58's teaching"],
+         "correct": 1,
+         "expl": "A different axis of organization: individuals, not "
+                 "composite qualities."},
+        {"q": "According to the guide, what axis does this eightfold "
+              "classification sort people by?",
+         "opts": [
+             "Ordination date and seniority",
+             "What they have realized or are actively realizing on the "
+             "path, cutting across formal monastic hierarchy",
+             "Robe color and administrative role",
+             "Physical location within the monastery"],
+         "correct": 1,
+         "expl": "A community defined by attainment, not institutional "
+                 "position."},
+        {"q": "What do the closing verses call this eightfold group?",
+         "opts": [
+             "The wandering ascetics",
+             "The upright Saṅgha, with wisdom, ethics, and immersion",
+             "The royal court", "The merchant guild"],
+         "correct": 1,
+         "expl": "A direct naming, grounding the discourse's practical "
+                 "purpose."},
+        {"q": "What is the fourth and highest pair in the sequence?",
+         "opts": [
+             "The stream-enterer and the one practicing toward it",
+             "The perfected one, and the one practicing for perfection",
+             "The once-returner and the one practicing toward it",
+             "The non-returner and the one practicing toward it"],
+         "correct": 1,
+         "expl": "Closing the ascending sequence of four pairs."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("Four fruits, doubled to eight", [
+            "stream-entry, once-return,",
+            "non-return, perfection —",
+            "each paired with active practice",
+        ]),
+        ("Attainment, not institution", [
+            "not sorted by ordination date",
+            "or robe color or role —",
+            "but by what's realized on the path",
+        ]),
+        ("The upright Saṅgha", [
+            "wisdom, ethics, immersion —",
+            "what's given here is very fruitful,",
+            "the closing verses declare",
+        ]),
+        ("Cross-references", [
+            "AN 8.58 &middot; previous, a second composite of qualities "
+            "for the same worthiness",
+            "AN 8.60 &middot; next, the same eight individuals restated, "
+            "closing this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.58.html">AN 8.58 &middot; Worthy of Offerings Dedicated to the '
+        "Gods (2nd)</a> &mdash; previous.",
+        '<a href="an-8.60.html">AN 8.60 &middot; Eight Individuals (2nd)</a> &mdash; next, '
+        "closing this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.60 — Dutiyapuggalasutta — closes ch.6 Gotamīvagga
+# --------------------------------------------------------------------------- #
+page(
+    60, "Dutiyapuggala", "Eight Individuals (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 8.60 — Eight Individuals (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyapuggalasutta, restating AN 8.59's eight individuals with a "
+        "small change in the closing verses — 'the exalted Saṅgha' rather "
+        "than 'the upright Saṅgha' — closing this chapter. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical eight individuals as AN 8.59, with a "
+                 "small variation in the closing verses"),
+        ("Length", "under 1 minute to read"),
+        ("A small but genuine variation", "Where AN 8.59's verses call "
+                                          "this group &ldquo;the upright "
+                                          "Saṅgha,&rdquo; this discourse "
+                                          "calls it &ldquo;the exalted "
+                                          "Saṅgha, the eight individuals "
+                                          "among sentient beings&rdquo; "
+                                          "&mdash; a genuine, if minor, "
+                                          "difference worth noticing rather "
+                                          "than assuming the two "
+                                          "discourses are identical in "
+                                          "every word"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "best read directly alongside AN 8.59"),
+    ],
+    why=(
+        "AN 8.60 restates the same eight individuals of the noble Saṅgha "
+        "met at AN 8.59, closing this chapter with verses that call the "
+        "same group &ldquo;the exalted Saṅgha&rdquo; rather than "
+        "&ldquo;the upright Saṅgha,&rdquo; a small but genuine variation "
+        "worth reading closely rather than assuming away."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same eight individuals as AN 8.59 &mdash; four pairs "
+            "spanning stream-entry through perfection, each combining "
+            "attainment with active practice &mdash; are restated here, "
+            "closing this chapter with a slightly different closing "
+            "verse."]),
+        ("The prose, identical", [
+            "The prose portion of this discourse matches AN 8.59 word for "
+            "word: the same four pairs, the same standing description of "
+            "worthiness, the same closing statement naming all eight "
+            "together as worthy of offerings, hospitality, religious "
+            "donation, and veneration."]),
+        ("The verses, genuinely different", [
+            "Where AN 8.59's closing verse calls this group &ldquo;the "
+            "upright Saṅgha, with wisdom, ethics, and immersion,&rdquo; "
+            "this discourse's verse instead calls it &ldquo;the exalted "
+            "Saṅgha, the eight individuals among sentient beings&rdquo; "
+            "&mdash; a real variation in wording and emphasis, not simply "
+            "a repeated line."]),
+        ("Closing this chapter on a note of worthiness", [
+            "This discourse closes Gotamīvagga on a discourse type this "
+            "chapter has returned to twice already (AN 8.57, 8.58): "
+            "identifying who or what is worthy of the highest offerings "
+            "&mdash; here landing on the noble Saṅgha itself as a "
+            "collective, rather than on any single mendicant's composite "
+            "qualities."]),
+    ],
+    terms=[
+        ("aṭṭha puggalā",
+         "&ldquo;eight individuals&rdquo; &mdash; the identical subject "
+         "as AN 8.59, unchanged in this discourse's own prose."),
+        ("sotāpanno ... arahattāya paṭipanno",
+         "the same four pairs as AN 8.59, from the stream-enterer through "
+         "the one practicing for perfection, restated word for word."),
+        ("ujubhūtaṁ sāṅghaṁ",
+         "&ldquo;the upright Saṅgha&rdquo; &mdash; AN 8.59's own closing "
+         "phrase, the point of comparison for this discourse's own "
+         "variation."),
+        ("uttamaṁ sāṅghaṁ, aṭṭha ca puggalā dhammadasā",
+         "&ldquo;the exalted Saṅgha, the eight individuals among sentient "
+         "beings&rdquo; &mdash; this discourse's own closing phrase, "
+         "genuinely different from AN 8.59's wording."),
+        ("Dutiyapaṇṇāsakaṁ",
+         "&ldquo;the Second Fifty&rdquo; &mdash; the division this "
+         "discourse belongs to, having opened at AN 8.51, now closing its "
+         "first chapter, Gotamīvagga."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight individuals as AN 8.59, "
+        "with a genuinely different closing verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight individuals, four pairs"),
+        ("p", "&sect;1", "an8.60:1.1-1.4"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.60:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's prose compare to AN 8.59's?",
+         "opts": [
+             "Entirely different content",
+             "Word for word identical — the same four pairs and the same "
+             "standing description of worthiness",
+             "A shortened summary",
+             "Contradictory in its core claims"],
+         "correct": 1,
+         "expl": "An exact match in prose, with the variation appearing "
+                 "only in the closing verses."},
+        {"q": "What does AN 8.59's closing verse call the eightfold group, "
+              "compared to this discourse's own verse?",
+         "opts": [
+             "Both use identical wording",
+             "AN 8.59 calls it 'the upright Saṅgha'; this discourse calls "
+             "it 'the exalted Saṅgha, the eight individuals among "
+             "sentient beings'",
+             "AN 8.59 doesn't name the group at all",
+             "This discourse omits any closing verse"],
+         "correct": 1,
+         "expl": "A genuine, if minor, variation worth noticing rather "
+                 "than assuming away."},
+        {"q": "What does this discourse close?",
+         "opts": [
+             "Nothing in particular",
+             "Gotamīvagga, this chapter of the Second Fifty",
+             "The entire Book of the Eights",
+             "Only a single paragraph"],
+         "correct": 1,
+         "expl": "The sixth chapter of the Eights, opened at AN 8.51."},
+        {"q": "How many times has this chapter addressed the theme of who "
+              "is worthy of the highest offerings?",
+         "opts": [
+             "Once, only in this discourse",
+             "Three times — AN 8.57, 8.58, and this discourse, each with a "
+             "different approach",
+             "Never; this is unrelated to that theme",
+             "Ten times"],
+         "correct": 1,
+         "expl": "A recurring theme in this chapter, approached through "
+                 "composite qualities and then individual attainment."},
+        {"q": "What is the fourth pair in the sequence, shared with AN "
+              "8.59?",
+         "opts": [
+             "The stream-enterer and the one practicing toward it",
+             "The perfected one, and the one practicing for perfection",
+             "The once-returner and the one practicing toward it",
+             "The non-returner and the one practicing toward it"],
+         "correct": 1,
+         "expl": "The identical closing pair as AN 8.59's own sequence."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.59's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Identical prose", [
+            "the same four pairs,",
+            "word for word as AN 8.59 —",
+            "the variation comes later",
+        ]),
+        ("A different closing verse", [
+            "'the upright Saṅgha' becomes",
+            "'the exalted Saṅgha' here —",
+            "a real, if small, variation",
+        ]),
+        ("Closing this chapter", [
+            "a third return to worthiness —",
+            "after AN 8.57, 8.58 —",
+            "now the noble Saṅgha as a whole",
+        ]),
+        ("Cross-references", [
+            "AN 8.59 &middot; previous, the same eight individuals with a "
+            "different closing verse",
+            "AN 8.51 &middot; earlier, opening this chapter with the "
+            "bhikkhunī order's own founding",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.60/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.59.html">AN 8.59 &middot; Eight Individuals (1st)</a> &mdash; previous.',
+        '<a href="an-8.51.html">AN 8.51 &middot; With Gotamī</a> &mdash; earlier, opening '
+        "this chapter.",
+    ],
+)
