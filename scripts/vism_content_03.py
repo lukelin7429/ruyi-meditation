@@ -252,3 +252,213 @@ page(
         "devoted to the five aggregates.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 15 -- Āyatanadhātuniddesa
+# --------------------------------------------------------------------------- #
+page(
+    15, "Āyatanadhātuniddesa", "The Bases and Elements",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 15 — The Bases and Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 15 of the Visuddhimagga (The Path of "
+        "Purification) — the twelve sense bases, the eighteen elements, why the "
+        "text offers more than one analytical scheme, and how each dissolves the "
+        "sense of a unified self differently. No translated text reproduced; links "
+        "to the full free translation and the Pali original. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter continues Chapter 14's "
+                    "analytical project with two further classification schemes"),
+        ("Speaker", "Buddhaghosa, continuing the systematic survey that opened "
+                    "Part III"),
+        ("Form", "Two schemes treated in one chapter, each analyzed with the same "
+                 "systematic detail Chapter 14 gave the five aggregates"),
+        ("Length", "substantial, covering two distinct twelve- and eighteen-part "
+                   "schemes in turn"),
+        ("Northern parallel", "Alternate analytical grids alongside the aggregates "
+                              "are widely used across Buddhist abhidharma "
+                              "literature; this guide does not assert a specific "
+                              "matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; conceptually "
+                       "continuous with Chapter 14, though the eighteen-element "
+                       "scheme in particular takes some care to hold in mind"),
+    ],
+    why=(
+        "Chapter 14 analyzed a person into five aggregates. Chapter 15 is not a "
+        "correction or an expansion of that analysis but a deliberate change of "
+        "angle: the twelve sense bases and the eighteen elements describe the same "
+        "conditioned reality the aggregates already covered, sorted differently. "
+        "The text's own justification for offering more than one scheme is "
+        "practical &mdash; different practitioners' particular flavor of self-view "
+        "is said to loosen more readily under one classification than another."),
+    guide=[
+        ("Why more than one scheme", [
+            "Rather than treating the aggregates, bases, and elements as competing "
+            "theories, the chapter presents them as complementary tools: a given "
+            "person's habitual sense of self may respond better to being examined "
+            "through one classification than through the others, so the "
+            "Visuddhimagga offers all three rather than settling on a single "
+            "preferred version."]),
+        ("Twelve sense bases", [
+            "The first scheme divides into six internal bases &mdash; the sense "
+            "faculties of eye, ear, nose, tongue, body, and mind &mdash; and six "
+            "external bases, their corresponding objects: visible form, sound, "
+            "odor, flavor, tangible object, and mental object. Together these "
+            "twelve account for how experience arises at all, faculty meeting "
+            "object."]),
+        ("Eighteen elements", [
+            "The second scheme is more granular still: the same twelve bases, plus "
+            "the six kinds of consciousness that arise from each faculty-object "
+            "pairing &mdash; eye-consciousness through mind-consciousness &mdash; "
+            "bringing the total to eighteen distinct components."]),
+        ("A shared purpose", [
+            "Like Chapter 14's aggregates, both of these schemes are aimed at "
+            "dissolving an unexamined sense of a single, compact self into a set "
+            "of impersonal, conditioned components. The eighteen-element scheme "
+            "makes this especially explicit: a single moment of experience, on "
+            "this analysis, depends on three things meeting &mdash; a sense "
+            "faculty, its object, and the corresponding consciousness &mdash; "
+            "rather than resting on any one unified experiencer."]),
+        ("How the schemes overlap", [
+            "None of this introduces genuinely new territory beyond what Chapter "
+            "14 already covered; the same underlying phenomena simply reappear "
+            "sorted along different lines. The value of adding these two schemes "
+            "lies in the different angle each offers on the same conditioned "
+            "reality, not in any new content."]),
+        ("What follows", [
+            "Chapter 16 continues with two more classification schemes: the "
+            "twenty-two faculties, and the four noble truths."]),
+    ],
+    terms=[
+        ("āyatana",
+         "&ldquo;sense base&rdquo; &mdash; this chapter's first scheme, twelve in "
+         "total."),
+        ("ajjhattikāyatana, bāhirāyatana",
+         "internal bases and external bases &mdash; the six sense faculties and "
+         "their six corresponding objects, the two halves of the twelvefold "
+         "scheme."),
+        ("dhātu",
+         "&ldquo;element&rdquo; &mdash; this chapter's second scheme, eighteen in "
+         "total: the twelve bases plus six kinds of consciousness."),
+        ("cakkhuviññāṇa",
+         "eye-consciousness &mdash; a representative example of the six "
+         "consciousness-elements the eighteenfold scheme adds to the twelve "
+         "bases."),
+        ("dhammāyatana",
+         "the mental-object base &mdash; the sixth external base, covering mental "
+         "objects generally."),
+    ],
+    quiz=[
+        {"q": "What two classification schemes does Chapter 15 cover?",
+         "opts": [
+             "The twelve sense bases and the eighteen elements",
+             "The five aggregates and the four noble truths",
+             "The ten kasinas and the ten kinds of foulness",
+             "The four divine abidings and the four immaterial states"],
+         "correct": 0,
+         "expl": "Two further ways of analyzing the same conditioned reality Chapter 14 covered through the aggregates."},
+        {"q": "Why does the text offer more than one scheme for analyzing a person?",
+         "opts": [
+             "Different practitioners' particular flavor of self-view is said to loosen more readily under one scheme than another",
+             "Because the aggregates scheme from Chapter 14 was later found to be incorrect",
+             "Because each scheme applies to a different physical location",
+             "Because the number of schemes must always match the number of jhānas"],
+         "correct": 0,
+         "expl": "Presented as complementary tools rather than competing theories."},
+        {"q": "What are the six internal sense bases?",
+         "opts": [
+             "The sense faculties: eye, ear, nose, tongue, body, and mind",
+             "The four elements plus space and consciousness",
+             "The five aggregates plus consciousness",
+             "The six recollections from Chapter 7"],
+         "correct": 0,
+         "expl": "Paired with six external bases, their corresponding objects."},
+        {"q": "What are the six external sense bases?",
+         "opts": [
+             "Visible form, sound, odor, flavor, tangible object, and mental object",
+             "The six directions: north, south, east, west, up, and down",
+             "Six named meditation teachers",
+             "Six types of monastic robes"],
+         "correct": 0,
+         "expl": "Each corresponding to one of the six internal, faculty-side bases."},
+        {"q": "How many elements does the eighteenfold scheme total, and what does it add to the twelve bases?",
+         "opts": [
+             "Eighteen; it adds the six kinds of consciousness arising from each faculty-object pairing",
+             "Twenty-four; it adds six new sense faculties not covered by the bases",
+             "Twelve; it is identical to the bases scheme with a different name",
+             "Forty; it merges the bases scheme with the forty meditation subjects"],
+         "correct": 0,
+         "expl": "Eye-consciousness through mind-consciousness, added to the twelve bases already covered."},
+        {"q": "What does the eighteen-element scheme highlight about a single moment of experience?",
+         "opts": [
+             "It depends on three things meeting: a sense faculty, its object, and the corresponding consciousness",
+             "It depends entirely on a single, unified experiencer",
+             "It cannot be analyzed or broken down in any way",
+             "It occurs identically regardless of which sense faculty is involved"],
+         "correct": 0,
+         "expl": "Rather than resting on any one unified experiencer."},
+        {"q": "What shared purpose do the bases and elements schemes serve, alongside Chapter 14's aggregates?",
+         "opts": [
+             "Dissolving an unexamined sense of a single, compact self into impersonal, conditioned components",
+             "Establishing a fixed, permanent identity for each practitioner",
+             "Ranking practitioners by their level of spiritual attainment",
+             "Providing a calendar for monastic ceremonies"],
+         "correct": 0,
+         "expl": "The same underlying aim carried through three different classification schemes."},
+        {"q": "How do the bases and elements schemes relate to the aggregates scheme in terms of content?",
+         "opts": [
+             "They cut across the same underlying phenomena from different angles, rather than adding genuinely new content",
+             "They describe an entirely separate set of phenomena with no overlap at all",
+             "They replace and supersede the aggregates scheme entirely",
+             "They apply only to advanced practitioners who have already reached full awakening"],
+         "correct": 0,
+         "expl": "The value lies in the different angle each offers, not in new material."},
+        {"q": "What does Chapter 16 turn to next?",
+         "opts": [
+             "The twenty-two faculties and the four noble truths",
+             "The ten kasinas, revisited in more detail",
+             "The thirteen ascetic practices",
+             "The supernormal powers"],
+         "correct": 0,
+         "expl": "Two more classification schemes continuing Part III's analytical project."},
+        {"q": "Where can a reader go for Chapter 15's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Same territory, different cuts", [
+            "aggregates, bases, elements &mdash;",
+            "three complementary schemes",
+        ]),
+        ("Twelve sense bases", [
+            "six faculties,",
+            "six objects",
+        ]),
+        ("Eighteen elements", [
+            "bases plus six kinds",
+            "of consciousness",
+        ]),
+        ("No single experiencer", [
+            "a moment of experience needs",
+            "three things meeting",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-35.28.html">SN 35.28 &mdash; '
+        "Burning</a> &mdash; popularly known as &ldquo;The Fire Sermon,&rdquo; on "
+        "the six sense faculties and their objects, the core of this chapter's "
+        "twelve bases.",
+        '<a href="../discourses/majjhima-nikaya/mn-018.html">MN 18 &mdash; The '
+        "Honey-Cake</a> &mdash; traces the chain from eye, form, and "
+        "eye-consciousness through to contact, illustrating the eighteen-element "
+        "scheme in action.",
+    ],
+)
