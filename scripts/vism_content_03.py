@@ -1947,3 +1947,221 @@ page(
         "the results a fully trained mind can produce.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 23 -- Paññābhāvanānisaṃsaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    23, "Paññābhāvanānisaṃsaniddesa", "The Benefits in Developing Understanding",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 23 — The Benefits in Developing Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 23, the closing chapter of the "
+        "Visuddhimagga (The Path of Purification) — the capacity to re-enter a "
+        "fruit at will, the rare attainment of cessation, being a field of merit, "
+        "and how the work's three-part structure closes as one sustained "
+        "argument. No translated text reproduced; links to the full free "
+        "translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the work's closing chapter, reflecting "
+                    "back over everything the previous twenty-two have covered"),
+        ("Speaker", "Buddhaghosa, closing with what developing understanding is "
+                    "ultimately said to deliver"),
+        ("Form", "A survey of further benefits and capacities, most distinctively "
+                 "fruition-attainment and cessation-attainment, before the work "
+                 "traditionally closes with the author's own dedicatory colophon"),
+        ("Length", "shorter than the immediately preceding chapters, functioning "
+                   "as a closing survey rather than another technical stage"),
+        ("Northern parallel", "Attainments comparable to the cessation of "
+                              "perception and feeling are discussed, in some form, "
+                              "in other early Buddhist schools' literature; this "
+                              "guide does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a closing "
+                       "survey rather than a new technical stage, though the "
+                       "attainment of cessation rewards careful reading"),
+    ],
+    why=(
+        "Chapters 18 through 22 traced the definitive purification itself: the "
+        "four paths and fruits, and the fetters each removes. Chapter 23 closes "
+        "the Visuddhimagga by surveying what developing understanding is "
+        "ultimately said to deliver beyond the elimination of defilements already "
+        "covered &mdash; distinctive capacities available to those who have "
+        "reached these stages, and a final look back at the training the whole "
+        "work has described from Chapter 1 onward."),
+    guide=[
+        ("Beyond eliminating defilements", [
+            "While Chapters 18 through 22 focused on removing specific fetters, "
+            "this chapter widens the lens to further capacities and qualities "
+            "that come with having done so, treating these as genuine benefits "
+            "in their own right rather than incidental side effects of the "
+            "process already described."]),
+        ("Entering the fruit at will", [
+            "The chapter describes a distinctive capacity: a practitioner who "
+            "has attained any of the four fruits can deliberately re-enter that "
+            "same peaceful experience repeatedly, called attainment of "
+            "fruition, rather than the attainment being a single, unrepeatable "
+            "event confined to the moment it first occurred."]),
+        ("The attainment of cessation", [
+            "The chapter's most distinctive and advanced topic is a rare "
+            "attainment, available only to non-returners and arahants who have "
+            "also mastered the full range of absorption, in which consciousness "
+            "and its associated mental factors are said to cease altogether for "
+            "a period, while the body's vitality and warmth continue &mdash; so "
+            "that the practitioner later emerges from the state rather than "
+            "having died."]),
+        ("A genuine field of merit", [
+            "The chapter also touches on a practical, social dimension already "
+            "introduced through recollection of the Sangha back in Chapter 7: "
+            "those who have developed understanding to this degree are "
+            "described as a worthy object for others' generosity, their own "
+            "training benefiting anyone who supports it."]),
+        ("Closing the work", [
+            "The Visuddhimagga traditionally closes with Buddhaghosa's own "
+            "dedicatory colophon, briefly noting the work's completion and "
+            "dedicating whatever merit it generated &mdash; a customary close for "
+            "a commentarial work of this kind, rather than a further doctrinal "
+            "teaching in its own right."]),
+        ("Looking back across the whole work", [
+            "From Chapter 1's opening definition of virtue through this closing "
+            "survey, the Visuddhimagga's own three-part structure &mdash; "
+            "virtue, concentration, understanding &mdash; amounts, in the end, "
+            "to one sustained argument: that the ordinary, disciplined "
+            "cultivation described from the very first page is what a "
+            "definitive, verifiable purification of the mind actually requires, "
+            "with nothing skipped and nothing assumed."]),
+        ("The guide's own close", [
+            "This is this reading-guide series' own final chapter as well: all "
+            "twenty-three chapters are now complete, each pointing back to the "
+            "same two resources &mdash; the free complete translation and the "
+            "Pali original &mdash; for readers who want the text Buddhaghosa "
+            "himself wrote."]),
+    ],
+    terms=[
+        ("paññābhāvanānisaṃsa",
+         "&ldquo;the benefits of developing understanding&rdquo; &mdash; this "
+         "chapter's subject and title."),
+        ("phalasamāpatti",
+         "attainment of fruition &mdash; the capacity to deliberately re-enter a "
+         "previously attained fruit's peaceful experience at will."),
+        ("nirodhasamāpatti",
+         "attainment of cessation &mdash; this chapter's most advanced and "
+         "distinctive topic, consciousness and mental factors ceasing "
+         "altogether for a period."),
+        ("dakkhiṇeyya",
+         "&ldquo;one worthy of offerings&rdquo; &mdash; echoing recollection of "
+         "the Sangha's qualities from Chapter 7."),
+        ("visuddhimagga",
+         "&ldquo;the path of purification&rdquo; &mdash; the work's own title, "
+         "reflected on directly in its closing chapter."),
+    ],
+    quiz=[
+        {"q": "What does Chapter 23 widen the lens to, beyond Chapters 18&ndash;22's focus on eliminating defilements?",
+         "opts": [
+             "Further capacities and qualities that come with having reached these stages",
+             "An entirely new fifth noble truth",
+             "A return to the ten kasinas for renewed practice",
+             "A retraction of everything argued in the previous chapters"],
+         "correct": 0,
+         "expl": "Treated as genuine benefits in their own right, not incidental side effects."},
+        {"q": "What is attainment of fruition (phalasamāpatti)?",
+         "opts": [
+             "The capacity to deliberately re-enter a previously attained fruit's peaceful experience repeatedly",
+             "A single, unrepeatable event that can never occur again once attained",
+             "A ceremony performed by a monastic community for a lay donor",
+             "A physical location where meditation must be practiced"],
+         "correct": 0,
+         "expl": "Rather than being confined to the single moment it first occurred."},
+        {"q": "What is the attainment of cessation (nirodhasamāpatti), and who can access it?",
+         "opts": [
+             "Consciousness and mental factors ceasing altogether for a period; available only to non-returners and arahants who have also mastered full absorption",
+             "A brief nap available to any meditator regardless of attainment",
+             "Permanent physical death with no possibility of return",
+             "A capacity available to any lay practitioner without prior training"],
+         "correct": 0,
+         "expl": "The chapter's most advanced and distinctive topic."},
+        {"q": "How does the attainment of cessation differ from ordinary death?",
+         "opts": [
+             "The body's vitality and warmth continue, so the practitioner later emerges rather than having died",
+             "There is no difference at all between the two",
+             "Cessation is permanent and irreversible, unlike death",
+             "Cessation occurs only after death has already taken place"],
+         "correct": 0,
+         "expl": "A unique state distinct from the ordinary ending of a life."},
+        {"q": "What social or practical dimension does the chapter also touch on?",
+         "opts": [
+             "Being a genuine field of merit, worthy of others' generosity",
+             "The specific cost of building a new monastery",
+             "Political relationships between different kingdoms",
+             "The chapter addresses no social dimension at all"],
+         "correct": 0,
+         "expl": "Echoing recollection of the Sangha's qualities from Chapter 7."},
+        {"q": "What does the Visuddhimagga traditionally close with?",
+         "opts": [
+             "The author's own dedicatory colophon",
+             "An entirely new, previously unmentioned meditation subject",
+             "A numbered list of all forty meditation subjects repeated in full",
+             "A formal debate between two named monks"],
+         "correct": 0,
+         "expl": "A customary close for a commentarial work of this kind."},
+        {"q": "What three-part structure has organized the whole Visuddhimagga from Chapter 1 onward?",
+         "opts": [
+             "Virtue, concentration, and understanding",
+             "The four noble truths, the eightfold path, and dependent origination",
+             "The five aggregates, twelve bases, and eighteen elements",
+             "The ten kasinas, ten recollections, and ten kinds of foulness"],
+         "correct": 0,
+         "expl": "Two chapters, eleven chapters, and ten chapters respectively across the whole work."},
+        {"q": "What argument does the whole work's structure, taken together, make?",
+         "opts": [
+             "That ordinary, disciplined cultivation across all three trainings is what a definitive purification of the mind actually requires",
+             "That only sudden, unexplainable insight matters, with no preparation needed",
+             "That virtue alone is sufficient, with concentration and understanding unnecessary",
+             "That the entire training described is purely theoretical and cannot be practiced"],
+         "correct": 0,
+         "expl": "With nothing skipped and nothing assumed, from Chapter 1 through this closing chapter."},
+        {"q": "What does the completion of Chapter 23 mark for this reading-guide series specifically?",
+         "opts": [
+             "All twenty-three chapters of the series are now complete",
+             "Only the first of many further planned series on this same work",
+             "The midpoint of the series, with more chapters still to come",
+             "A restart of the series from Chapter 1 with new content"],
+         "correct": 0,
+         "expl": "Each chapter pointing back to the same free translation and Pali original."},
+        {"q": "Where can a reader go for Chapter 23's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Beyond eliminating defilements", [
+            "further capacities",
+            "that come with these stages",
+        ]),
+        ("Fruition at will", [
+            "re-entering a fruit's",
+            "peaceful experience repeatedly",
+        ]),
+        ("The rarest attainment", [
+            "cessation &mdash; consciousness",
+            "itself set aside for a time",
+        ]),
+        ("The work's own close", [
+            "virtue, concentration, understanding &mdash;",
+            "one sustained argument",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="vism-1.html">Chapter 1 &mdash; The Description of Virtue</a> '
+        "&mdash; the opening chapter this closing one looks all the way back to, "
+        "completing the circle of all twenty-three.",
+        '<a href="./">The full Visuddhimagga series</a> &mdash; all twenty-three '
+        "chapter guides, from virtue through concentration to understanding, in "
+        "one place.",
+    ],
+)
