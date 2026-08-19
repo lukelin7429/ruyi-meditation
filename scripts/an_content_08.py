@@ -13744,3 +13744,2042 @@ page(
         "chapter.",
     ],
 )
+
+
+VAGGA_8 = "<em>Yamakavagga</em> &mdash; the eighth chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.71 — Paṭhamaparisāvacarasutta -- opens ch.8 Yamakavagga
+# --------------------------------------------------------------------------- #
+page(
+    71, "Paṭhamaparisāvacara", "Inspiring All Around (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.71 — Inspiring All Around (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaparisāvacarasutta, opening a new chapter with a completion "
+        "ladder — faith, ethics, learning, teaching skill, and finally the "
+        "four absorptions and freedom — each rung named as incomplete "
+        "until the next is added. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A cumulative ladder of eight qualities, each stage named "
+                 "explicitly as 'incomplete' until the next quality is "
+                 "added, closing with a single complete mendicant"),
+        ("Length", "~2 minutes to read"),
+        ("Completion, not mere accumulation", "This discourse doesn't "
+                                              "simply list eight qualities "
+                                              "side by side; it names each "
+                                              "partial combination as "
+                                              "explicitly incomplete, "
+                                              "framing the whole sequence "
+                                              "as a self-assessment "
+                                              "exercise rather than a "
+                                              "static checklist"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear cumulative structure, worth comparing "
+                       "against AN 8.72's own slightly different seventh "
+                       "rung"),
+    ],
+    why=(
+        "AN 8.71 opens a new chapter with a cumulative ladder: a mendicant "
+        "who is faithful but not ethical is incomplete and should become "
+        "ethical too; faithful and ethical but not learned is still "
+        "incomplete; and so the ladder continues through becoming a "
+        "Dhamma speaker, frequenting assemblies, teaching with assurance, "
+        "gaining the four absorptions at will, and finally realizing "
+        "complete freedom through ending the defilements."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has only some of eight qualities &mdash; "
+            "faith, ethics, learning, skill as a Dhamma speaker, comfort "
+            "frequenting assemblies, confidence teaching there, the four "
+            "absorptions at will, and freedom through ending the "
+            "defilements &mdash; is incomplete in that respect and should "
+            "actively work to fulfill what's missing, one rung at a time."]),
+        ("Each rung named as explicitly incomplete", [
+            "Rather than simply listing eight qualities, this discourse "
+            "structures itself as a sequence of self-diagnoses: faithful "
+            "but not ethical is incomplete; faithful and ethical but not "
+            "learned is incomplete; and so on, each partial state given "
+            "its own explicit verdict and its own explicit resolution "
+            "&mdash; &ldquo;how can I become...&rdquo; &mdash; before the "
+            "ladder proceeds to the next rung."]),
+        ("A ladder building toward complete impressiveness", [
+            "The sequence climbs from foundational virtues (faith, "
+            "ethics) through intellectual and social capacities (learning, "
+            "Dhamma-speaking, frequenting assemblies, teaching with "
+            "confidence) to meditative and liberating attainments (the "
+            "four absorptions, freedom through ending defilements) "
+            "&mdash; only the mendicant who has climbed every rung is "
+            "declared &ldquo;impressive all around... complete in every "
+            "respect.&rdquo;"]),
+        ("Two versions, differing at the seventh rung", [
+            "AN 8.72, immediately following, restates this identical "
+            "ladder with one variation: where this discourse's seventh "
+            "rung is gaining the four absorptions at will, AN 8.72's "
+            "seventh rung is direct meditative experience of the formless "
+            "liberations instead &mdash; two different meditative "
+            "attainments filling the identical structural position."]),
+    ],
+    terms=[
+        ("aparipūro tasmiṁ aṅge",
+         "&ldquo;incomplete in that respect&rdquo; &mdash; the "
+         "discourse's own recurring verdict, applied to every partial "
+         "combination of qualities before the ladder's next rung is "
+         "added."),
+        ("dhammakathiko",
+         "&ldquo;a Dhamma speaker&rdquo; &mdash; the fourth rung, the "
+         "first quality in the ladder concerned with actively "
+         "communicating the teaching rather than simply holding it."),
+        ("visārado dhammaṁ deseti parisāya",
+         "&ldquo;teaches Dhamma to the assembly with assurance&rdquo; "
+         "&mdash; the sixth rung, confidence added to the mere presence "
+         "in assemblies established at the fifth."),
+        ("catunnaṁ jhānānaṁ ābhicetasikānaṁ nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want, without "
+         "trouble or difficulty&rdquo; &mdash; the seventh rung in this "
+         "discourse's own version, differing from AN 8.72's parallel "
+         "seventh rung."),
+        ("sabbākāraparipūro",
+         "&ldquo;complete in every respect&rdquo; &mdash; the discourse's "
+         "own closing verdict, reserved for the mendicant who has climbed "
+         "every one of the eight rungs."),
+    ],
+    text_intro=(
+        "The discourse in full: a cumulative eight-rung ladder from faith "
+        "to complete freedom. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first two rungs: faith and ethics"),
+        ("p", "&sect;1", "an8.71:1.1-2.6"),
+        ("h3", "The remaining six rungs, to complete freedom"),
+        ("p", "&sect;2", "an8.71:3.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse structure its eight qualities, "
+              "compared to a simple list?",
+         "opts": [
+             "As eight unrelated, independent items",
+             "As a cumulative ladder, each partial combination explicitly "
+             "named 'incomplete' before the next rung is added",
+             "As eight mutually exclusive alternatives",
+             "As a random, unordered collection"],
+         "correct": 1,
+         "expl": "A self-assessment sequence, not a static checklist."},
+        {"q": "What is the fourth rung in this ladder?",
+         "opts": [
+             "Wealth", "Being a Dhamma speaker",
+             "Physical strength", "Royal favor"],
+         "correct": 1,
+         "expl": "The first quality concerned with actively communicating "
+                 "the teaching, following faith, ethics, and learning."},
+        {"q": "What verdict does the discourse give a mendicant who has "
+              "climbed every rung of the ladder?",
+         "opts": [
+             "Still incomplete, since perfection is impossible",
+             "'Impressive all around... complete in every respect'",
+             "No verdict is given",
+             "Warned against pride"],
+         "correct": 1,
+         "expl": "The discourse's own closing declaration, reserved for "
+                 "the full eight rungs."},
+        {"q": "How does AN 8.72, immediately following, differ from this "
+              "discourse?",
+         "opts": [
+             "It is entirely unrelated",
+             "It restates the identical ladder but with a different "
+             "seventh rung — the formless liberations instead of the four "
+             "absorptions",
+             "It has only four rungs instead of eight",
+             "It contradicts this discourse's teaching"],
+         "correct": 1,
+         "expl": "A near-identical pairing differing at one specific "
+                 "position."},
+        {"q": "What are the first two rungs of the ladder?",
+         "opts": [
+             "Wealth and status",
+             "Faith and ethics",
+             "Physical strength and courage",
+             "Skill in debate and eloquence"],
+         "correct": 1,
+         "expl": "The foundational virtues opening this cumulative "
+                 "sequence."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("A cumulative ladder", [
+            "faithful but not ethical:",
+            "incomplete — then add ethics,",
+            "then learning, speech, and more",
+        ]),
+        ("Each rung, explicitly named", [
+            "not a static checklist —",
+            "each partial state diagnosed,",
+            "each resolution stated outright",
+        ]),
+        ("Complete in every respect", [
+            "the ladder's own final verdict —",
+            "reserved for all eight rungs,",
+            "not any partial climb",
+        ]),
+        ("Cross-references", [
+            "AN 8.70 &middot; earlier, closing the previous chapter",
+            "AN 8.72 &middot; next, the same ladder with a different "
+            "seventh rung",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.71/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.70.html">AN 8.70 &middot; Earthquakes</a> &mdash; earlier, closing '
+        "the previous chapter.",
+        '<a href="an-8.72.html">AN 8.72 &middot; Inspiring All Around (2nd)</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.72 — Dutiyaparisāvacarasutta
+# --------------------------------------------------------------------------- #
+page(
+    72, "Dutiyaparisāvacara", "Inspiring All Around (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.72 — Inspiring All Around (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaparisāvacarasutta, restating AN 8.71's completion ladder "
+        "with the formless liberations replacing the four absorptions at "
+        "the seventh rung. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical cumulative ladder as AN 8.71, differing "
+                 "only at the seventh rung"),
+        ("Length", "~2 minutes to read"),
+        ("One rung swapped, the rest identical", "Six of the eight rungs "
+                                                 "and the closing verdict "
+                                                 "match AN 8.71 word for "
+                                                 "word; only the seventh "
+                                                 "rung changes, from the "
+                                                 "four absorptions to the "
+                                                 "formless liberations"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; best "
+                       "read directly alongside AN 8.71 to isolate exactly "
+                       "what changes"),
+    ],
+    why=(
+        "AN 8.72 restates AN 8.71's identical completion ladder &mdash; "
+        "faith, ethics, learning, Dhamma-speaking, frequenting assemblies, "
+        "teaching with assurance &mdash; but swaps the seventh rung: "
+        "rather than the four absorptions, this discourse's seventh "
+        "quality is direct meditative experience of the formless "
+        "liberations, transcending form entirely."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same eight-rung completion ladder as AN 8.71 holds here "
+            "too, with one substitution: where AN 8.71's seventh rung is "
+            "gaining the four absorptions at will, this discourse's "
+            "seventh rung is direct meditative experience of the peaceful "
+            "formless liberations, transcending form."]),
+        ("Six rungs and the closing verdict, unchanged", [
+            "Faith, ethics, learning, being a Dhamma speaker, frequenting "
+            "assemblies, and teaching with assurance all match AN 8.71 "
+            "word for word, as does the closing verdict for the mendicant "
+            "who completes every rung: &ldquo;impressive all around... "
+            "complete in every respect.&rdquo;"]),
+        ("Formless liberations, not the four absorptions", [
+            "The substitution at the seventh rung is meaningful, not "
+            "arbitrary: the four absorptions (met at AN 8.71) are "
+            "form-based meditative attainments, while the formless "
+            "liberations named here &mdash; the same territory covered by "
+            "the eight liberations at AN 8.66 &mdash; move beyond form "
+            "entirely, a different and more advanced meditative register "
+            "filling the identical structural position."]),
+        ("Two complete paths to the same completeness", [
+            "Rather than treating one version as more authoritative than "
+            "the other, this pairing suggests two viable routes through "
+            "the same seven preceding rungs to the same final "
+            "completeness &mdash; a mendicant might complete the ladder "
+            "through form-based absorption or through formless "
+            "liberation, both counting as full completion once paired "
+            "with the shared eighth rung of freedom through ending "
+            "defilements."]),
+    ],
+    terms=[
+        ("santā vimokkhā atikkamma rūpe āruppā",
+         "&ldquo;the peaceful liberations that are formless, transcending "
+         "form&rdquo; &mdash; this discourse's own seventh rung, replacing "
+         "AN 8.71's four absorptions at the same structural position."),
+        ("aparipūro tasmiṁ aṅge",
+         "&ldquo;incomplete in that respect&rdquo; &mdash; the identical "
+         "recurring verdict as AN 8.71, applied to every partial "
+         "combination before the ladder's completion."),
+        ("dhammakathiko, parisāvacaro, visārado",
+         "the shared middle rungs &mdash; Dhamma speaker, one who "
+         "frequents assemblies, one who teaches with assurance &mdash; "
+         "identical in both this discourse and AN 8.71."),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ",
+         "&ldquo;the undefiled freedom of heart... through the ending of "
+         "defilements&rdquo; &mdash; the shared eighth and final rung, "
+         "identical in both versions of this ladder."),
+        ("sabbākāraparipūro",
+         "&ldquo;complete in every respect&rdquo; &mdash; the identical "
+         "closing verdict as AN 8.71, reached here by a slightly "
+         "different path."),
+    ],
+    text_intro=(
+        "The discourse in full: the same completion ladder as AN 8.71, "
+        "with the formless liberations replacing the four absorptions. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first two rungs: faith and ethics"),
+        ("p", "&sect;1", "an8.72:1.1-2.1"),
+        ("h3", "The remaining six rungs, to complete freedom"),
+        ("p", "&sect;2", "an8.72:2.2-3.3"),
+    ],
+    quiz=[
+        {"q": "What single change distinguishes this discourse from AN "
+              "8.71?",
+         "opts": [
+             "Every rung is entirely different",
+             "Only the seventh rung changes — the formless liberations "
+             "replace the four absorptions, everything else matches word "
+             "for word",
+             "This discourse has only four rungs",
+             "The closing verdict is different"],
+         "correct": 1,
+         "expl": "A single, meaningful substitution within an otherwise "
+                 "identical ladder."},
+        {"q": "According to the guide, why is the substitution at the "
+              "seventh rung meaningful rather than arbitrary?",
+         "opts": [
+             "It isn't meaningful; it's a random variation",
+             "The four absorptions are form-based, while the formless "
+             "liberations move beyond form entirely — a different, more "
+             "advanced meditative register",
+             "The formless liberations are easier to attain",
+             "There is no actual difference between the two"],
+         "correct": 1,
+         "expl": "Two genuinely different meditative attainments filling "
+                 "the same structural position."},
+        {"q": "How does this discourse's seventh rung relate to AN 8.66?",
+         "opts": [
+             "No relation at all",
+             "It covers the same territory as the eight liberations named "
+             "at AN 8.66",
+             "It directly contradicts AN 8.66",
+             "AN 8.66 is about something entirely unrelated"],
+         "correct": 1,
+         "expl": "A connection to the classic liberation typology met "
+                 "earlier in this chapter."},
+        {"q": "According to the guide, what does this pairing (AN 8.71 and "
+              "8.72) suggest?",
+         "opts": [
+             "That one version is more authoritative than the other",
+             "Two viable routes through the same preceding rungs to the "
+             "same final completeness",
+             "That the two discourses contradict each other",
+             "That only monastics can achieve either path"],
+         "correct": 1,
+         "expl": "Two complete paths, not a correction of one by the "
+                 "other."},
+        {"q": "What are the shared, unchanged rungs between this discourse "
+              "and AN 8.71?",
+         "opts": [
+             "Only the first rung",
+             "Faith, ethics, learning, being a Dhamma speaker, frequenting "
+             "assemblies, teaching with assurance, and the final freedom "
+             "through ending defilements",
+             "None; every rung differs",
+             "Only the closing verdict"],
+         "correct": 1,
+         "expl": "Seven of the eight rungs, unchanged word for word."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.71's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("One rung swapped", [
+            "the seventh becomes formless —",
+            "beyond form entirely,",
+            "not the four absorptions",
+        ]),
+        ("Six rungs, unchanged", [
+            "faith, ethics, learning,",
+            "speaking, assemblies, assurance —",
+            "identical to AN 8.71",
+        ]),
+        ("Two paths, one completeness", [
+            "form-based or formless —",
+            "either route reaches",
+            "the same final freedom",
+        ]),
+        ("Cross-references", [
+            "AN 8.71 &middot; previous, the same ladder with the four "
+            "absorptions at the seventh rung",
+            "AN 8.73 &middot; next, the famous mindfulness-of-death "
+            "teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.72/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.71.html">AN 8.71 &middot; Inspiring All Around (1st)</a> &mdash; '
+        "previous.",
+        '<a href="an-8.73.html">AN 8.73 &middot; Mindfulness of Death (1st)</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.73 — Paṭhamamaraṇassatisutta -- famous discourse on urgency in
+# meditation.
+# --------------------------------------------------------------------------- #
+page(
+    73, "Paṭhamamaraṇassati", "Mindfulness of Death (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.73 — Mindfulness of Death (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamamaraṇassatisutta, a famous discourse in which mendicants "
+        "confess eight escalating degrees of imagined remaining lifespan "
+        "— from a day and night down to a single breath — and the Buddha "
+        "judges only the shortest two truly diligent. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, at the brick house"),
+        ("Speakers", "The Buddha and several unnamed mendicants, one after "
+                     "another"),
+        ("Form", "A direct question, eight sequential confessions each "
+                 "shortening the imagined remaining lifespan, and the "
+                 "Buddha's own verdict sorting them into diligent and "
+                 "negligent"),
+        ("Length", "~2 minutes to read"),
+        ("A famous teaching on urgency", "This discourse's escalating "
+                                         "structure — imagining "
+                                         "successively shorter remaining "
+                                         "lifespans down to a single "
+                                         "breath — is among the most "
+                                         "widely cited teachings on "
+                                         "spiritual urgency in this "
+                                         "literature"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid and accessible, with a sharp, unsentimental "
+                       "verdict at its close"),
+    ],
+    why=(
+        "Asked whether they develop mindfulness of death, one mendicant "
+        "after another confesses to the Buddha a progressively shorter "
+        "imagined remaining lifespan &mdash; a day and night, a day, half "
+        "a day, an almsmeal, half an almsmeal, several mouthfuls, a "
+        "single mouthful, a single breath &mdash; and the Buddha declares "
+        "only the final two, developed with the urgency of a single "
+        "mouthful or a single breath, count as genuinely diligent."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight mendicants each describe developing mindfulness of "
+            "death by imagining a progressively shorter remaining "
+            "lifespan &mdash; from a full day and night down to the time "
+            "it takes to breathe out after breathing in &mdash; and the "
+            "Buddha judges only the final two, the single mouthful and "
+            "the single breath, as genuinely diligent practice; the "
+            "other six, however sincerely meant, he calls negligent."]),
+        ("Eight confessions, each shorter than the last", [
+            "One mendicant after another volunteers their own practice: "
+            "wishing to live another day and night, then a day, then half "
+            "a day, then the time to eat an almsmeal, then half an "
+            "almsmeal, then four or five mouthfuls, then a single "
+            "mouthful, then finally a single breath &mdash; each reciting "
+            "the identical framing, that with this much time they could "
+            "focus on the Buddha's instructions and achieve a great deal."]),
+        ("A sharp verdict, not an equal validation", [
+            "Rather than praising all eight mendicants equally for their "
+            "sincerity, the Buddha draws a clear line: the six who "
+            "measure their urgency in days, half-days, or meals are "
+            "called negligent, living carelessly, developing mindfulness "
+            "of death only slackly &mdash; only the two who measure it in "
+            "a single mouthful or a single breath are called diligent."]),
+        ("Urgency measured in breaths, not days", [
+            "The discourse's real teaching lies in where it draws this "
+            "line: even wishing for a full day and night of remaining "
+            "life, which sounds urgent by ordinary standards, is judged "
+            "insufficiently urgent here. Only awareness pitched to the "
+            "scale of a single mouthful or breath meets the Buddha's own "
+            "standard for genuine diligence."]),
+    ],
+    terms=[
+        ("maraṇassati",
+         "&ldquo;mindfulness of death&rdquo; &mdash; this discourse's own "
+         "subject, said to have freedom from death itself as its "
+         "objective and culmination."),
+        ("rattindivaṁ jīveyyaṁ",
+         "&ldquo;if I'd only live for another day and night&rdquo; "
+         "&mdash; the first and least urgent of the eight confessions."),
+        ("ekaṁ ālopaṁ saṅkhāditvā ajjhoharaṇamattaṁ jīveyyaṁ",
+         "&ldquo;if I'd only live as long as it takes to chew and swallow "
+         "a single mouthful&rdquo; &mdash; the seventh confession, one of "
+         "the two the Buddha calls diligent."),
+        ("assasitvā vā passasati, passasitvā vā assasati",
+         "&ldquo;to breathe out after breathing in, or to breathe in "
+         "after breathing out&rdquo; &mdash; the eighth and shortest "
+         "confession, the most urgent measure of remaining life named in "
+         "this discourse."),
+        ("pamattā viharanti, dandhaṁ maraṇassatiṁ bhāventi",
+         "&ldquo;live negligently... slackly develop mindfulness of "
+         "death&rdquo; &mdash; the Buddha's own verdict on the first six "
+         "mendicants, despite their evident sincerity."),
+    ],
+    text_intro=(
+        "The discourse in full: eight mendicants' confessions and the "
+        "Buddha's own verdict sorting them into diligent and negligent. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's question"),
+        ("p", "&sect;1", "an8.73:1.1-1.7"),
+        ("h3", "Eight confessions, each shorter than the last"),
+        ("p", "&sect;2", "an8.73:2.1-9.6"),
+        ("h3", "The Buddha's verdict"),
+        ("p", "&sect;3", "an8.73:10.1-12.3"),
+    ],
+    quiz=[
+        {"q": "What do the eight mendicants each confess to the Buddha?",
+         "opts": [
+             "Eight different meditation postures",
+             "A progressively shorter imagined remaining lifespan, from a "
+             "day and night down to a single breath",
+             "Eight different monastic offenses",
+             "Eight different reasons for joining the Saṅgha"],
+         "correct": 1,
+         "expl": "An escalating sequence of decreasing time-scales for "
+                 "urgency."},
+        {"q": "How does the Buddha judge the first six mendicants' "
+              "practice, despite their evident sincerity?",
+         "opts": [
+             "As equally excellent to the last two",
+             "As negligent — living carelessly, developing mindfulness of "
+             "death only slackly",
+             "As harmful and to be avoided",
+             "As irrelevant to spiritual practice"],
+         "correct": 1,
+         "expl": "A sharp, unsentimental verdict, not an equal validation "
+                 "of every sincere effort."},
+        {"q": "Which two confessions does the Buddha call genuinely "
+              "diligent?",
+         "opts": [
+             "A day and night, and a day",
+             "A single mouthful, and a single breath",
+             "Half a day, and an almsmeal",
+             "None of the eight are called diligent"],
+         "correct": 1,
+         "expl": "The two shortest, most urgent time-scales named in the "
+                 "sequence."},
+        {"q": "According to the guide, where does the discourse's real "
+              "teaching lie?",
+         "opts": [
+             "In praising all eight mendicants equally",
+             "In where it draws the line — even a full day and night of "
+             "imagined remaining life is judged insufficiently urgent",
+             "In condemning meditation on death entirely",
+             "In requiring literal starvation"],
+         "correct": 1,
+         "expl": "A standard for urgency pitched far higher than ordinary "
+                 "expectations."},
+        {"q": "What framing does each mendicant repeat identically in "
+              "their confession?",
+         "opts": [
+             "A request for more food",
+             "That with this much remaining time, they could focus on the "
+             "Buddha's instructions and achieve a great deal",
+             "A complaint about monastic life",
+             "A request to leave the Saṅgha"],
+         "correct": 1,
+         "expl": "The shared framing across all eight confessions, "
+                 "varying only in the timeframe."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Ñātika, at the brick house",
+             "Rājagaha, on Vulture's Peak", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A setting shared with AN 8.74, immediately following."},
+    ],
+    marginalia=[
+        ("Eight confessions, shrinking", [
+            "a day and night, a day,",
+            "half a day, an almsmeal —",
+            "down to a single breath",
+        ]),
+        ("A sharp line drawn", [
+            "not all eight praised equally —",
+            "six called negligent,",
+            "only the last two, diligent",
+        ]),
+        ("Urgency measured in breaths", [
+            "even a full day and night",
+            "judged insufficiently urgent —",
+            "the standard set far higher",
+        ]),
+        ("Cross-references", [
+            "AN 8.72 &middot; previous, the second completion ladder",
+            "AN 8.74 &middot; next, the practical method behind this same "
+            "urgency",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.73/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.72.html">AN 8.72 &middot; Inspiring All Around (2nd)</a> &mdash; '
+        "previous.",
+        '<a href="an-8.74.html">AN 8.74 &middot; Mindfulness of Death (2nd)</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.74 — Dutiyamaraṇassatisutta
+# --------------------------------------------------------------------------- #
+page(
+    74, "Dutiyamaraṇassati", "Mindfulness of Death (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.74 — Mindfulness of Death (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyamaraṇassatisutta, the practical method behind AN 8.73's "
+        "urgency: reflecting each morning and evening on the causes that "
+        "could kill you, then treating any unabandoned unskillful quality "
+        "like a fire on your own head. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, at the brick house, the same setting as AN "
+                    "8.73"),
+        ("Speakers", SPEAKER),
+        ("Form", "A single method described once for evening reflection "
+                 "and once for morning reflection, each branching into two "
+                 "outcomes depending on what the self-check reveals"),
+        ("Length", "~2 minutes to read"),
+        ("The method behind AN 8.73's standard", "Where AN 8.73 sorted "
+                                                  "eight mendicants' "
+                                                  "practices into diligent "
+                                                  "and negligent without "
+                                                  "explaining the method "
+                                                  "itself, this discourse "
+                                                  "supplies the actual "
+                                                  "procedure: a concrete "
+                                                  "self-check performed "
+                                                  "twice daily"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "practical, repeatable method rather than an "
+                       "abstract standard"),
+    ],
+    why=(
+        "AN 8.74 supplies the practical method behind AN 8.73's standard "
+        "of urgency: as day turns to night, and again as night turns to "
+        "day, a mendicant reflects on the many causes &mdash; snakebite, "
+        "stumbling, illness, attack &mdash; that could kill them, then "
+        "checks whether any unabandoned unskillful quality would obstruct "
+        "their progress if they died that very night or day, applying the "
+        "urgency of extinguishing a fire on their own head if so."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Twice daily, as day turns to night and as night turns to "
+            "day, a mendicant should reflect on the many ordinary causes "
+            "of death, then check whether any unabandoned unskillful "
+            "quality would obstruct their progress if they died that very "
+            "night or day &mdash; and if so, apply the same urgency "
+            "they'd use to extinguish a fire on their own head."]),
+        ("A concrete list of ordinary dangers", [
+            "Rather than treating death abstractly, the discourse names "
+            "specific, ordinary causes: snakebite, scorpion or centipede "
+            "sting, stumbling off a cliff, food poisoning, disturbances of "
+            "bile, phlegm, or wind, and attack by humans or non-humans "
+            "&mdash; the same everyday vulnerabilities anyone might face, "
+            "not exotic or remote dangers."]),
+        ("A check with two branches, applied twice daily", [
+            "The reflection isn't an end in itself; it leads to a "
+            "concrete self-check &mdash; are there unabandoned "
+            "unskillful qualities that would obstruct progress if death "
+            "came tonight or today? If yes, extraordinary urgency is "
+            "called for. If no, the mendicant should instead meditate with "
+            "rapture and joy, training day and night in skillful "
+            "qualities &mdash; the same reflection performed each evening "
+            "and again each morning."]),
+        ("Fire on the head, not a metaphor softened", [
+            "The discourse's own simile for the urgency required is "
+            "unambiguous: exactly the effort someone would apply to "
+            "extinguish their own clothes or head if it were on fire "
+            "&mdash; enthusiasm, effort, zeal, vigor, perseverance, "
+            "mindfulness, and situational awareness, all at once, "
+            "immediately, not gradually worked toward."]),
+    ],
+    terms=[
+        ("divase nikkhante rattiyā patihitāya",
+         "&ldquo;as day passes by and night draws close&rdquo; &mdash; "
+         "the timing of the first of the two daily reflections this "
+         "discourse describes."),
+        ("bahūhipi kho maraṇassa hetūhi mareyyaṁ",
+         "&ldquo;I might die of many causes&rdquo; &mdash; the reflection "
+         "opening each check, naming snakebite, stumbling, illness, and "
+         "attack among the causes."),
+        ("antarāyāya me assā'ti",
+         "&ldquo;it would be an obstacle to my progress&rdquo; &mdash; "
+         "the discourse's own framing of why any unabandoned unskillful "
+         "quality matters, tied directly to the possibility of dying "
+         "before it's given up."),
+        ("ādittacelo vā ādittasīso vā",
+         "&ldquo;your clothes or head were on fire&rdquo; &mdash; the "
+         "discourse's own simile for the level of urgency called for when "
+         "the self-check reveals something unabandoned."),
+        ("pāmojjabahulo vihareyya kusalesu dhammesu ahorattānusikkhī",
+         "&ldquo;meditate with rapture and joy, training day and night in "
+         "skillful qualities&rdquo; &mdash; the alternative outcome, when "
+         "the self-check finds nothing left to abandon."),
+    ],
+    text_intro=(
+        "The discourse in full: the twice-daily reflection and self-check "
+        "behind AN 8.73's standard of urgency. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Evening reflection, and its two outcomes"),
+        ("p", "&sect;1", "an8.74:1.1-5.2"),
+        ("h3", "Morning reflection, and closing"),
+        ("p", "&sect;2", "an8.74:6.1-9.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 8.73?",
+         "opts": [
+             "No relation at all",
+             "It supplies the actual method behind AN 8.73's standard of "
+             "urgency — a concrete twice-daily self-check",
+             "It contradicts AN 8.73's teaching",
+             "It repeats AN 8.73 word for word"],
+         "correct": 1,
+         "expl": "A practical procedure explaining how the urgency in AN "
+                 "8.73 is actually cultivated."},
+        {"q": "What ordinary causes of death does this discourse name?",
+         "opts": [
+             "Only old age",
+             "Snakebite, scorpion or centipede sting, stumbling off a "
+             "cliff, food poisoning, illness, and attack",
+             "Only warfare",
+             "Only accidents while traveling"],
+         "correct": 1,
+         "expl": "Concrete, everyday vulnerabilities, not exotic or "
+                 "remote dangers."},
+        {"q": "What two outcomes does the self-check branch into?",
+         "opts": [
+             "Both outcomes require the same response",
+             "If unabandoned unskillful qualities are found, apply "
+             "extraordinary urgency; if none are found, meditate with "
+             "rapture and joy",
+             "Only one outcome is possible",
+             "The self-check has no practical outcome"],
+         "correct": 1,
+         "expl": "A genuine branch depending on what the reflection "
+                 "actually reveals."},
+        {"q": "What simile does the discourse use for the required "
+              "urgency?",
+         "opts": [
+             "A slow, gradual climb up a mountain",
+             "Extinguishing a fire on one's own clothes or head",
+             "Planting and tending a garden",
+             "Waiting patiently for rain"],
+         "correct": 1,
+         "expl": "An unambiguous image of immediate, total effort, not "
+                 "gradual improvement."},
+        {"q": "How often is this reflection performed, according to the "
+              "discourse?",
+         "opts": [
+             "Once a year", "Twice daily — as day turns to night, and as "
+                             "night turns to day",
+             "Only once, at ordination", "Only when illness strikes"],
+         "correct": 1,
+         "expl": "A regular, twice-daily practice, not a one-time "
+                 "exercise."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Ñātika, at the brick house, the same setting as AN 8.73",
+             "Rājagaha, on Vulture's Peak", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "The identical setting as the preceding discourse."},
+    ],
+    marginalia=[
+        ("Ordinary dangers, named plainly", [
+            "snakebite, stumbling,",
+            "illness, attack — not exotic,",
+            "but everyday vulnerabilities",
+        ]),
+        ("A twice-daily check", [
+            "evening and morning both —",
+            "anything left unabandoned",
+            "that would obstruct my progress?",
+        ]),
+        ("Fire on the head", [
+            "not a softened metaphor —",
+            "the exact urgency you'd bring",
+            "to your own burning clothes",
+        ]),
+        ("Cross-references", [
+            "AN 8.73 &middot; previous, the eight confessions this "
+            "discourse's method underlies",
+            "AN 8.75 &middot; next, a condensed restatement of the "
+            "Dīghajāṇu teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.74/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.73.html">AN 8.73 &middot; Mindfulness of Death (1st)</a> &mdash; '
+        "previous.",
+        '<a href="an-8.75.html">AN 8.75 &middot; Accomplishments (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.75 — Paṭhamasampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    75, "Paṭhamasampadā", "Accomplishments (1st)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.75 — Accomplishments (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamasampadāsutta, a condensed restatement of AN 8.54's lay "
+        "ethics teaching as a bare eight-item list and verse, without the "
+        "narrative frame or Dīghajāṇu's own request. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same eight accomplishments as AN 8.54, given as a "
+                 "bare list and verse with no explanatory prose at all"),
+        ("Length", "under 1 minute to read"),
+        ("The third appearance of this teaching", "The same eightfold "
+                                                   "pattern — initiative, "
+                                                   "protection, good "
+                                                   "friendship, balanced "
+                                                   "finances, faith, "
+                                                   "ethics, generosity, "
+                                                   "wisdom — has now "
+                                                   "appeared at AN 8.54 "
+                                                   "(Dīghajāṇu), AN 8.55 "
+                                                   "(Ujjaya), and here, "
+                                                   "stripped down to its "
+                                                   "barest form"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and condensed, best understood by comparing "
+                       "against its fuller statement at AN 8.54"),
+    ],
+    why=(
+        "AN 8.75 restates the same eight accomplishments taught in full "
+        "at AN 8.54 and AN 8.55 &mdash; initiative, protection, good "
+        "friendship, balanced finances, faith, ethics, generosity, and "
+        "wisdom &mdash; but strips away every trace of narrative frame, "
+        "questioner, and explanatory prose, presenting only the bare list "
+        "and its closing verses."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight accomplishments &mdash; initiative, protection, "
+            "good friendship, and balanced finances for this life; faith, "
+            "ethics, generosity, and wisdom for future lives &mdash; are "
+            "named here in their barest form, without Dīghajāṇu's request "
+            "or any of AN 8.54's explanatory prose defining each term."]),
+        ("A third appearance, stripped to its essentials", [
+            "This is the third time this exact eightfold pattern appears "
+            "in this book: fully explained with a narrative frame at AN "
+            "8.54 (Dīghajāṇu), restated for a different questioner at AN "
+            "8.55 (Ujjaya), and now given here with no narrative at all "
+            "&mdash; just the bare naming of all eight accomplishments "
+            "followed directly by the closing verses."]),
+        ("What's lost, and what's kept, in condensation", [
+            "Missing entirely from this version: Dīghajāṇu's own "
+            "self-description as a layperson who enjoys sensual pleasures, "
+            "the appraiser's-scale simile for balanced finances, and the "
+            "reservoir simile for the four drains and four inlets on "
+            "wealth. What survives is the bare eightfold structure and "
+            "the identical closing verses met at AN 8.54."]),
+        ("A teaching treated as stable enough to condense", [
+            "That this book is willing to present the same eight "
+            "accomplishments with progressively less framing &mdash; full "
+            "narrative, then bare list &mdash; suggests the underlying "
+            "content was considered stable and well-established enough to "
+            "stand without repeated justification or narrative "
+            "reinforcement."]),
+    ],
+    terms=[
+        ("aṭṭha sampadā",
+         "&ldquo;eight accomplishments&rdquo; &mdash; this discourse's "
+         "own title-phrase, naming the identical eightfold content met in "
+         "fuller form at AN 8.54."),
+        ("uṭṭhānasampadā, ārakkhasampadā, kalyāṇamittatā, "
+         "samajīvitā",
+         "the four this-life accomplishments, named here without any of "
+         "AN 8.54's defining explanations."),
+        ("saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā",
+         "the four future-life accomplishments, identical to AN 8.54, "
+         "8.55, and the earlier lay-follower discourses at AN 8.49-50."),
+        ("uṭṭhātā kammadheyyesu",
+         "&ldquo;enterprising in the workplace&rdquo; &mdash; the "
+         "opening line of the closing verses, identical to AN 8.54's own "
+         "verse."),
+        ("dānena vaḍḍhate puñño",
+         "&ldquo;merit grows by generosity&rdquo; &mdash; the discourse's "
+         "own closing line, identical to AN 8.54's."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight accomplishments, stated bare and "
+        "in verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight accomplishments, named"),
+        ("p", "&sect;1", "an8.75:1.1-1.4"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.75:2.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content relate to AN 8.54's?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical eight accomplishments, stripped of Dīghajāṇu's "
+             "narrative frame and all explanatory prose",
+             "A contradicting set of eight accomplishments",
+             "An expanded version with new material"],
+         "correct": 1,
+         "expl": "The third appearance of this exact pattern, now in its "
+                 "barest form."},
+        {"q": "What is missing from this version that AN 8.54 includes?",
+         "opts": [
+             "Nothing is missing",
+             "Dīghajāṇu's self-description, the appraiser's-scale simile, "
+             "and the reservoir simile for wealth",
+             "The closing verses",
+             "The eight accomplishments themselves"],
+         "correct": 1,
+         "expl": "All narrative and illustrative material removed, "
+                 "leaving only the bare structure and verses."},
+        {"q": "According to the guide, what does this progressive "
+              "condensation suggest about the teaching?",
+         "opts": [
+             "That it was considered unimportant",
+             "That it was considered stable and well-established enough "
+             "to stand without repeated narrative reinforcement",
+             "That it was a later corruption of the original teaching",
+             "That it contradicts the fuller version"],
+         "correct": 1,
+         "expl": "A teaching trusted to work in condensed form, not "
+                 "diminished by the condensation."},
+        {"q": "What are the four this-life accomplishments?",
+         "opts": [
+             "Faith, ethics, generosity, and wisdom",
+             "Initiative, protection, good friendship, and balanced "
+             "finances",
+             "Physical strength, courage, patience, and skill",
+             "Wealth, status, education, and beauty"],
+         "correct": 1,
+         "expl": "The same four qualities met at AN 8.54 and 8.55."},
+        {"q": "How many times has this exact eightfold pattern now "
+              "appeared in this book?",
+         "opts": [
+             "Once, only here", "Three times — AN 8.54, 8.55, and this "
+                                 "discourse",
+             "Ten times", "This is a completely new pattern"],
+         "correct": 1,
+         "expl": "A recurring pattern, given progressively less framing "
+                 "with each restatement."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Kakkarapatta",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, unlike AN 8.54's specific named "
+                 "location."},
+    ],
+    marginalia=[
+        ("The same eight, a third time", [
+            "initiative, protection,",
+            "friendship, balance — then",
+            "faith, ethics, generosity, wisdom",
+        ]),
+        ("Stripped to its essentials", [
+            "no Dīghajāṇu, no request,",
+            "no reservoir or scale simile —",
+            "just the bare structure and verse",
+        ]),
+        ("Trusted to stand alone", [
+            "condensed, not diminished —",
+            "a teaching stable enough",
+            "to need no repeated framing",
+        ]),
+        ("Cross-references", [
+            "AN 8.74 &middot; previous, the mindfulness-of-death method",
+            "AN 8.54 &middot; earlier, this same teaching in its fullest "
+            "form",
+            "AN 8.76 &middot; next, this same teaching restated once more, "
+            "with full explanations",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.75/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.74.html">AN 8.74 &middot; Mindfulness of Death (2nd)</a> &mdash; '
+        "previous.",
+        '<a href="an-8.54.html">AN 8.54 &middot; With Dīghajāṇu</a> &mdash; earlier, this '
+        "same teaching in its fullest form.",
+        '<a href="an-8.76.html">AN 8.76 &middot; Accomplishments (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.76 — Dutiyasampadāsutta
+# --------------------------------------------------------------------------- #
+page(
+    76, "Dutiyasampadā", "Accomplishments (2nd)",
+    vagga=VAGGA_8,
+    meta_title="AN 8.76 — Accomplishments (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyasampadāsutta, restoring full explanations to AN 8.75's "
+        "bare eight accomplishments — matching AN 8.54's content almost "
+        "word for word, but with no narrative frame or questioner at all. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same eight accomplishments as AN 8.75, now with "
+                 "full explanations restored for each, but still no "
+                 "narrative frame"),
+        ("Length", "~2 minutes to read"),
+        ("Full content, no narrative", "This discourse restores every "
+                                       "explanation AN 8.75 stripped away "
+                                       "— matching AN 8.54's substance "
+                                       "almost word for word — while "
+                                       "still omitting Dīghajāṇu, his "
+                                       "self-description, and any "
+                                       "questioner at all"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "fullest explanatory content in this pattern's "
+                       "fourth appearance, worth comparing against AN "
+                       "8.54's own narrative version"),
+    ],
+    why=(
+        "AN 8.76 restores full explanations to each of the eight "
+        "accomplishments AN 8.75 gave only as a bare list &mdash; "
+        "matching AN 8.54's explanatory content almost word for word, "
+        "including the appraiser's-scale simile &mdash; but still opens "
+        "with no narrative frame at all, addressed to the mendicants in "
+        "general."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight accomplishments &mdash; initiative, protection, "
+            "good friendship, balanced finances, faith, ethics, "
+            "generosity, and wisdom &mdash; are explained here in full, "
+            "matching AN 8.54's own definitions almost word for word, but "
+            "with no narrative frame, no Dīghajāṇu, and no questioner at "
+            "all."]),
+        ("Explanations restored, narrative still absent", [
+            "Where AN 8.75 gave only the bare naming of all eight "
+            "accomplishments, this discourse restores the full "
+            "&ldquo;and what is accomplishment in...&rdquo; explanatory "
+            "formula for each one, including the appraiser's-scale simile "
+            "for balanced finances &mdash; but the narrative scaffolding "
+            "of AN 8.54 (Dīghajāṇu's self-description, his direct "
+            "request) never returns."]),
+        ("A fourth appearance, isolating content from context", [
+            "Across four appearances of this eightfold pattern &mdash; AN "
+            "8.54's full narrative, AN 8.55's different questioner, AN "
+            "8.75's bare list, and now this discourse's full content "
+            "without narrative &mdash; this book effectively runs an "
+            "experiment in separating a teaching's substance from the "
+            "story that originally carried it."]),
+        ("What the reservoir simile alone is missing here", [
+            "One detail from AN 8.54 does not reappear even in this "
+            "fuller restatement: the reservoir simile for the four drains "
+            "and four inlets on wealth (womanizing, drinking, gambling, "
+            "bad friends versus their opposites) is absent from this "
+            "discourse, marking it as fuller than AN 8.75 but still not a "
+            "complete match for AN 8.54's full content."]),
+    ],
+    terms=[
+        ("uṭṭhānasampadā",
+         "&ldquo;accomplishment in initiative&rdquo; &mdash; the first "
+         "quality, explained here in full, matching AN 8.54's own "
+         "definition."),
+        ("ārakkhasampadā",
+         "&ldquo;accomplishment in protection&rdquo; &mdash; the second "
+         "quality, its explanation restored here after AN 8.75's bare "
+         "naming."),
+        ("nāccogāḷhaṁ nātihīnaṁ",
+         "&ldquo;neither too extravagant nor too frugal&rdquo; &mdash; "
+         "part of the balanced-finances explanation, including the "
+         "appraiser's-scale simile restored from AN 8.54."),
+        ("saddhāsampadā, sīlasampadā, cāgasampadā, paññāsampadā",
+         "the four future-life accomplishments, explained in full, "
+         "identical in substance to AN 8.54, 8.55, and the AN 8.49-50 "
+         "lay-follower discourses."),
+        ("dānena vaḍḍhate puñño",
+         "&ldquo;merit grows by generosity&rdquo; &mdash; the closing "
+         "line shared across every appearance of this eightfold pattern "
+         "in this book."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight accomplishments, fully "
+        "explained, with no narrative frame. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four accomplishments for this life, explained"),
+        ("p", "&sect;1", "an8.76:1.1-4.8"),
+        ("h3", "Four accomplishments for future lives, explained"),
+        ("p", "&sect;2", "an8.76:5.1-9.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.76:10.1-13.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 8.75's?",
+         "opts": [
+             "Identical, still a bare list",
+             "It restores full explanations for each of the eight "
+             "accomplishments, matching AN 8.54's own definitions almost "
+             "word for word",
+             "It has fewer accomplishments than AN 8.75",
+             "It contradicts AN 8.75's teaching"],
+         "correct": 1,
+         "expl": "Full content restored, but still without AN 8.54's "
+                 "narrative frame."},
+        {"q": "What narrative element does this discourse still omit, "
+              "despite restoring full explanations?",
+         "opts": [
+             "The eight accomplishments themselves",
+             "Dīghajāṇu, his self-description, and any questioner at all",
+             "The closing verses",
+             "The definition of balanced finances"],
+         "correct": 1,
+         "expl": "Full content, but addressed to the mendicants generally "
+                 "rather than through a narrative request."},
+        {"q": "What detail from AN 8.54 remains absent even in this "
+              "fuller restatement?",
+         "opts": [
+             "The appraiser's-scale simile",
+             "The reservoir simile for the four drains and four inlets on "
+             "wealth",
+             "The four future-life accomplishments",
+             "The closing verses"],
+         "correct": 1,
+         "expl": "A detail marking this discourse as fuller than AN 8.75 "
+                 "but not a complete match for AN 8.54."},
+        {"q": "According to the guide, what experiment does this book run "
+              "across four appearances of this pattern?",
+         "opts": [
+             "No pattern; each appearance is unrelated",
+             "Separating a teaching's substance from the story that "
+             "originally carried it, across progressively different "
+             "combinations of narrative and content",
+             "Testing whether readers notice repetition",
+             "Correcting errors in earlier versions"],
+         "correct": 1,
+         "expl": "A deliberate variation in how much narrative framing "
+                 "accompanies the same underlying content."},
+        {"q": "What simile is restored for balanced finances in this "
+              "discourse?",
+         "opts": [
+             "The reservoir with four inlets and drains",
+             "The appraiser's scale, showing whether income is 'low by "
+             "this much or high by this much'",
+             "A ship navigating a storm",
+             "A garden being watered"],
+         "correct": 1,
+         "expl": "One simile restored from AN 8.54, though not the "
+                 "reservoir simile."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Kakkarapatta",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like AN 8.75, unlike AN 8.54's named "
+                 "location."},
+    ],
+    marginalia=[
+        ("Full explanations, restored", [
+            "each accomplishment defined",
+            "in full, matching AN 8.54 —",
+            "the appraiser's scale returns",
+        ]),
+        ("Still no narrative", [
+            "no Dīghajāṇu, no request —",
+            "content restored, but the story",
+            "that carried it stays absent",
+        ]),
+        ("One simile still missing", [
+            "the reservoir, four drains,",
+            "four inlets — not here either —",
+            "fuller than 8.75, not complete",
+        ]),
+        ("Cross-references", [
+            "AN 8.75 &middot; previous, the bare version of this same "
+            "teaching",
+            "AN 8.77 &middot; next, the eight individuals of AN 8.61, now "
+            "taught by Sāriputta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.76/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.75.html">AN 8.75 &middot; Accomplishments (1st)</a> &mdash; previous.',
+        '<a href="an-8.77.html">AN 8.77 &middot; Desires</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.77 — Icchāsutta (Sāriputta version) -- word-for-word the same
+# content as AN 8.61, but taught independently by Sāriputta rather than
+# the Buddha.
+# --------------------------------------------------------------------------- #
+page(
+    77, "Icchā", "Desires",
+    vagga=VAGGA_8,
+    meta_title="AN 8.77 — Desires | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Icchāsutta, in which Sāriputta teaches the mendicants word for "
+        "word the same eight individuals AN 8.61 attributed to the "
+        "Buddha, crossing effort, outcome, and reaction. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants "
+                     "directly"),
+        ("Form", "The identical combinatorial matrix of eight individuals "
+                 "as AN 8.61, now delivered by Sāriputta rather than the "
+                 "Buddha"),
+        ("Length", "~3 minutes to read"),
+        ("The same content, an independent voice", "Every word of this "
+                                                    "discourse's eight "
+                                                    "individuals matches "
+                                                    "AN 8.61, but the "
+                                                    "speaker has changed "
+                                                    "entirely — Sāriputta "
+                                                    "teaches this content "
+                                                    "on his own authority, "
+                                                    "not relaying the "
+                                                    "Buddha's own words in "
+                                                    "this instance"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical in content to AN 8.61, notable chiefly "
+                       "for its change of speaker"),
+    ],
+    why=(
+        "Sāriputta addresses the mendicants directly and teaches, word "
+        "for word, the same eight individuals AN 8.61 attributed to the "
+        "Buddha &mdash; crossing whether a secluded mendicant tries for "
+        "material things, whether those things come, and whether the "
+        "reaction is sorrow, indulgence, or equanimity."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sāriputta teaches the identical eight individuals as AN "
+            "8.61, in the Buddha's absence and on his own authority: only "
+            "reaction &mdash; sorrow or indulgence versus equanimity "
+            "&mdash; determines whether a mendicant desiring material "
+            "things has fallen from the true teaching, regardless of "
+            "whether they tried for those things or received them."]),
+        ("A word-for-word match, differing only in speaker", [
+            "Every one of the eight cases, every phrase describing effort, "
+            "outcome, and reaction, and the closing summary all match AN "
+            "8.61 precisely. The only substantive change across the two "
+            "discourses is who is speaking: the Buddha at AN 8.61, "
+            "Sāriputta here, addressing his fellow mendicants directly as "
+            "&ldquo;reverends.&rdquo;"]),
+        ("A senior disciple teaching independently", [
+            "This discourse belongs to a small group in this book where "
+            "Sāriputta, the Buddha's foremost disciple in wisdom, teaches "
+            "content elsewhere attributed to the Buddha himself, without "
+            "any indication that he is merely relaying or repeating a "
+            "teaching he received &mdash; a marker of the kind of "
+            "independent teaching authority senior disciples are shown "
+            "exercising in this literature."]),
+        ("Why repetition without variation still matters", [
+            "Unlike most paired discourses in this book, which vary some "
+            "detail between repetitions, this pairing varies nothing in "
+            "content at all &mdash; making the discourse's real interest "
+            "not what is taught, already covered fully at AN 8.61, but "
+            "that it can be taught this precisely by someone other than "
+            "the Buddha."]),
+    ],
+    terms=[
+        ("sāriputto",
+         "Venerable Sāriputta, this discourse's own speaker, addressing "
+         "his fellow mendicants as &ldquo;reverends&rdquo; rather than "
+         "the Buddha's own &ldquo;mendicants.&rdquo;"),
+        ("āvuso, bhikkhave",
+         "&ldquo;reverends, mendicants&rdquo; &mdash; Sāriputta's own "
+         "form of address, distinct from the Buddha's own opening formula "
+         "at AN 8.61."),
+        ("aṭṭha puggalā santo saṁvijjamānā lokasmiṁ",
+         "&ldquo;these eight individuals are found in the world&rdquo; "
+         "&mdash; the identical opening formula as AN 8.61, now spoken by "
+         "Sāriputta."),
+        ("socati kilamati paridevati",
+         "&ldquo;sorrows and wails and laments&rdquo; &mdash; the same "
+         "bad-reaction phrase as AN 8.61, unchanged across every one of "
+         "its four occurrences in this discourse."),
+        ("cuto ariyassa dhammavinayā",
+         "&ldquo;fallen from the true teaching&rdquo; &mdash; the "
+         "identical verdict as AN 8.61, applied to the same four "
+         "combinations of effort and outcome paired with bad reaction."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta's own teaching of the same eight "
+        "individuals as AN 8.61. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta addresses the mendicants"),
+        ("p", "&sect;1", "an8.77:1.1-2.2"),
+        ("h3", "Four individuals who have fallen from the true teaching"),
+        ("p", "&sect;2", "an8.77:2.3-5.5"),
+        ("h3", "Four individuals who have not fallen"),
+        ("p", "&sect;3", "an8.77:6.1-9.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 8.61's?",
+         "opts": [
+             "Entirely different content",
+             "Word for word identical, including all eight individuals "
+             "and the closing summary",
+             "A shortened summary of AN 8.61",
+             "A contradicting version of the same teaching"],
+         "correct": 1,
+         "expl": "The only substantive change across the two discourses "
+                 "is the speaker."},
+        {"q": "Who teaches this discourse's content, unlike AN 8.61?",
+         "opts": [
+             "Venerable Ānanda", "Venerable Sāriputta, addressing the "
+                                  "mendicants on his own authority",
+             "Mahāpajāpati Gotamī", "General Sīha"],
+         "correct": 1,
+         "expl": "A senior disciple teaching independently, not relaying "
+                 "the Buddha's words as a report."},
+        {"q": "What form of address does Sāriputta use, distinct from the "
+              "Buddha's own?",
+         "opts": [
+             "'Householders'", "'Reverends' (āvuso), rather than the "
+                                "Buddha's 'mendicants'",
+             "'Your majesty'", "No address is used at all"],
+         "correct": 1,
+         "expl": "A marker of a fellow-mendicant speaking to peers, "
+                 "distinct from the Buddha's own opening formula."},
+        {"q": "According to the guide, what makes this discourse's real "
+              "interest, given the identical content?",
+         "opts": [
+             "The content itself, since it's genuinely new",
+             "That the identical teaching can be delivered this precisely "
+             "by someone other than the Buddha",
+             "A hidden contradiction with AN 8.61",
+             "Nothing of interest; it's a pure duplicate"],
+         "correct": 1,
+         "expl": "A marker of independent teaching authority, not new "
+                 "content."},
+        {"q": "What determines whether a mendicant in this discourse has "
+              "fallen from the true teaching?",
+         "opts": [
+             "Whether they tried hard for material things",
+             "Only their reaction — sorrow or indulgence versus "
+             "equanimity",
+             "Whether they succeeded in getting material things",
+             "Their seniority in the Saṅgha"],
+         "correct": 1,
+         "expl": "The identical determining variable as AN 8.61."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.61's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Identical content, new speaker", [
+            "every word matches AN 8.61 —",
+            "only the speaker changes:",
+            "Sāriputta, not the Buddha",
+        ]),
+        ("'Reverends,' not 'mendicants'", [
+            "a fellow disciple's address,",
+            "not the Buddha's own opening —",
+            "peer to peer, not teacher to student",
+        ]),
+        ("Independent teaching authority", [
+            "not relaying, not reporting —",
+            "Sāriputta teaches on his own,",
+            "the identical eightfold matrix",
+        ]),
+        ("Cross-references", [
+            "AN 8.76 &middot; previous, the fullest version of the "
+            "accomplishments teaching",
+            "AN 8.61 &middot; earlier, the Buddha's own original teaching "
+            "of this identical content",
+            "AN 8.78 &middot; next, Sāriputta's own version of the "
+            "'good enough' teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.77/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.76.html">AN 8.76 &middot; Accomplishments (2nd)</a> &mdash; previous.',
+        '<a href="an-8.61.html">AN 8.61 &middot; Desire</a> &mdash; earlier, the '
+        "Buddha&rsquo;s own original teaching of this identical content.",
+        '<a href="an-8.78.html">AN 8.78 &middot; Good Enough</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.78 — Alaṁsutta (Sāriputta version) -- word-for-word the same content
+# as AN 8.62, taught independently by Sāriputta.
+# --------------------------------------------------------------------------- #
+page(
+    78, "Alaṁ", "Good Enough",
+    vagga=VAGGA_8,
+    meta_title="AN 8.78 — Good Enough | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Alaṁsutta, in which Sāriputta teaches word for word the same "
+        "eight logical cases AN 8.62 attributed to the Buddha, on which "
+        "combinations of six qualities suffice for self- and "
+        "other-benefit. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Sāriputta, addressing the mendicants "
+                     "directly"),
+        ("Form", "The identical eight logical cases as AN 8.62, now "
+                 "delivered by Sāriputta"),
+        ("Length", "~3 minutes to read"),
+        ("The second Sāriputta-Buddha pair in this chapter", "Following "
+                                                              "AN 8.77's "
+                                                              "identical "
+                                                              "relationship "
+                                                              "to AN 8.61, "
+                                                              "this "
+                                                              "discourse "
+                                                              "does the "
+                                                              "same for AN "
+                                                              "8.62 — "
+                                                              "Sāriputta "
+                                                              "teaching "
+                                                              "content "
+                                                              "word for "
+                                                              "word "
+                                                              "identical to "
+                                                              "an earlier "
+                                                              "discourse "
+                                                              "attributed "
+                                                              "to the "
+                                                              "Buddha"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "same logically intricate content as AN 8.62, now "
+                       "worth comparing for its change of speaker rather "
+                       "than its logical structure"),
+    ],
+    why=(
+        "Sāriputta teaches the mendicants, word for word, the same eight "
+        "logical cases AN 8.62 attributed to the Buddha: which "
+        "combinations of six underlying qualities &mdash; quick-"
+        "wittedness, memory, comprehension, practice, eloquence, and "
+        "inspiring others &mdash; make a mendicant good enough for "
+        "themselves, for others, for both, or for neither."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sāriputta delivers the identical eight-case logical teaching "
+            "as AN 8.62 on his own authority: comprehension, memory, and "
+            "practice serve self-benefit, eloquence and inspiring others "
+            "serve other-benefit, and quick-wittedness never changes any "
+            "case's verdict."]),
+        ("A second matched pair in this chapter", [
+            "This discourse and AN 8.77 together form a small set within "
+            "this chapter: two discourses whose content is word-for-word "
+            "identical to earlier discourses in this same book (AN 8.61 "
+            "and AN 8.62 respectively), differing only in that Sāriputta, "
+            "not the Buddha, is the speaker."]),
+        ("The same logical structure, unchanged", [
+            "Every element of AN 8.62's intricate cascading structure "
+            "&mdash; six qualities down through five, four, three, and "
+            "two, each combination assigned its own verdict for self- and "
+            "other-benefit &mdash; appears here exactly as before, with "
+            "Sāriputta's own opening address to &ldquo;reverends&rdquo; "
+            "the only textual marker distinguishing this discourse from "
+            "its earlier counterpart."]),
+        ("Why this pairing pattern recurs exactly twice", [
+            "That this book pairs exactly two of Sāriputta's own teachings "
+            "with exactly two earlier Buddha-attributed discourses (AN "
+            "8.61/8.77 and AN 8.62/8.78) &mdash; rather than one, or many "
+            "&mdash; suggests a deliberate, bounded demonstration of "
+            "Sāriputta's capacity to teach precisely, not an open-ended "
+            "pattern extending indefinitely through this chapter."]),
+    ],
+    terms=[
+        ("sāriputto",
+         "Venerable Sāriputta, this discourse's own speaker, as at AN "
+         "8.77 immediately preceding it."),
+        ("khippanisanti dhammesu",
+         "&ldquo;quick-witted when it comes to skillful teachings&rdquo; "
+         "&mdash; the one quality whose presence or absence never changes "
+         "any case's verdict, identical to AN 8.62's own finding."),
+        ("alaṁ attano, alaṁ parassa",
+         "&ldquo;good enough for themselves... good enough for "
+         "others&rdquo; &mdash; the identical dual verdict as AN 8.62, "
+         "unchanged in this discourse."),
+        ("cha dhammehi samannāgato",
+         "&ldquo;with six qualities&rdquo; &mdash; the discourse's own "
+         "opening case, cascading down through five, four, three, and two "
+         "as at AN 8.62."),
+        ("āvuso, bhikkhave",
+         "&ldquo;reverends, mendicants&rdquo; &mdash; Sāriputta's own "
+         "address, the clearest textual marker distinguishing this "
+         "discourse from AN 8.62."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta's own teaching of the same eight "
+        "cases as AN 8.62. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six and five qualities: good enough for both"),
+        ("p", "&sect;1", "an8.78:1.1-2.9"),
+        ("h3", "Four qualities, split two ways"),
+        ("p", "&sect;2", "an8.78:3.1-4.9"),
+        ("h3", "Three qualities, split two ways"),
+        ("p", "&sect;3", "an8.78:5.1-6.9"),
+        ("h3", "Two qualities, split two ways"),
+        ("p", "&sect;4", "an8.78:7.1-8.9"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 8.62's?",
+         "opts": [
+             "Entirely different content",
+             "Word for word identical, including the full cascading "
+             "eight-case structure",
+             "A simplified summary",
+             "A contradicting version"],
+         "correct": 1,
+         "expl": "The second of this chapter's two Sāriputta/Buddha "
+                 "content pairs."},
+        {"q": "What pattern does this discourse and AN 8.77 together "
+              "establish in this chapter?",
+         "opts": [
+             "No particular pattern",
+             "Exactly two discourses where Sāriputta teaches content "
+             "word-for-word identical to earlier Buddha-attributed "
+             "discourses",
+             "A pattern extending through the entire chapter",
+             "A pattern found nowhere else in this book"],
+         "correct": 1,
+         "expl": "A bounded, deliberate demonstration rather than an "
+                 "open-ended repetition."},
+        {"q": "What quality's presence or absence never changes any "
+              "case's verdict, matching AN 8.62's own finding?",
+         "opts": [
+             "Memory", "Quick-wittedness",
+             "Eloquence", "Practice"],
+         "correct": 1,
+         "expl": "The identical optional quality found in AN 8.62's "
+                 "structure."},
+        {"q": "What is the only textual marker distinguishing this "
+              "discourse from AN 8.62?",
+         "opts": [
+             "A different set of six qualities",
+             "Sāriputta's own opening address to 'reverends,' rather than "
+             "the Buddha addressing 'mendicants'",
+             "A different number of cases",
+             "A contradicting verdict in one case"],
+         "correct": 1,
+         "expl": "The speaker's own address formula, not any change in "
+                 "content."},
+        {"q": "What two qualities does the guide identify as serving "
+              "self-benefit and other-benefit respectively?",
+         "opts": [
+             "Wealth for self-benefit, fame for other-benefit",
+             "Comprehension/memory/practice for self-benefit, "
+             "eloquence/inspiring others for other-benefit",
+             "Physical strength for both",
+             "Neither quality serves either benefit"],
+         "correct": 1,
+         "expl": "The same functional split identified at AN 8.62."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.62's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Identical content, again", [
+            "the same cascading structure —",
+            "six qualities down through two,",
+            "now taught by Sāriputta",
+        ]),
+        ("A bounded pattern, exactly twice", [
+            "AN 8.61/8.77, and",
+            "AN 8.62/8.78 —",
+            "not extended further in this chapter",
+        ]),
+        ("One marker of change", [
+            "'reverends,' not 'mendicants' —",
+            "the address alone reveals",
+            "a different speaker entirely",
+        ]),
+        ("Cross-references", [
+            "AN 8.77 &middot; previous, the first of this chapter's "
+            "Sāriputta/Buddha content pairs",
+            "AN 8.62 &middot; earlier, the Buddha's own original teaching "
+            "of this identical content",
+            "AN 8.79 &middot; next, eight things that lead to a trainee's "
+            "decline",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.78/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.77.html">AN 8.77 &middot; Desires</a> &mdash; previous.',
+        '<a href="an-8.62.html">AN 8.62 &middot; Good Enough</a> &mdash; earlier, the '
+        "Buddha&rsquo;s own original teaching of this identical content.",
+        '<a href="an-8.79.html">AN 8.79 &middot; Decline</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.79 — Parihānasutta
+# --------------------------------------------------------------------------- #
+page(
+    79, "Parihāna", "Decline",
+    vagga=VAGGA_8,
+    meta_title="AN 8.79 — Decline | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Parihānasutta, a compact blocking-and-reversal pair on what "
+        "leads a trainee mendicant to decline — relishing work, talk, "
+        "sleep, and company — and its eight exact opposites. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight things that cause decline, then their eight exact "
+                 "reversals, stated in two compact sentences"),
+        ("Length", "under 1 minute to read"),
+        ("A return to this book's founding shape", "This discourse "
+                                                    "returns to the bare "
+                                                    "blocking-list-and-"
+                                                    "reversal structure "
+                                                    "that opened the very "
+                                                    "first discourse of "
+                                                    "this book at AN 8.3, "
+                                                    "now applied "
+                                                    "specifically to a "
+                                                    "trainee's risk of "
+                                                    "decline"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and direct, easy to hold in mind as a single "
+                       "compact pair"),
+    ],
+    why=(
+        "AN 8.79 names eight things that lead to the decline of a "
+        "mendicant trainee &mdash; relishing work, talk, sleep, and "
+        "company, not guarding the sense doors, eating too much, and "
+        "relishing closeness and proliferation &mdash; and their exact "
+        "reversals, which don't lead to decline."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant trainee declines by relishing work, talk, sleep, "
+            "and company, failing to guard the sense doors, eating too "
+            "much, and relishing closeness and proliferation &mdash; and "
+            "avoids decline by relishing none of these and guarding the "
+            "sense doors instead."]),
+        ("A trainee-specific list, not a general one", [
+            "Unlike many of this book's blocking-and-reversal pairs, "
+            "which apply broadly to any mendicant, this discourse names "
+            "its subject explicitly as a &ldquo;trainee&rdquo; "
+            "(sekha) &mdash; someone still actively progressing on the "
+            "path rather than having completed it, for whom these eight "
+            "risks and their reversals carry particular weight."]),
+        ("Four ordinary indulgences, and four more specific risks", [
+            "The first four items &mdash; work, talk, sleep, company "
+            "&mdash; name broadly recognizable everyday indulgences. The "
+            "remaining four are more specific to meditative training: "
+            "failing to guard the sense doors, eating to excess, "
+            "relishing closeness (saṅgaṇika, social entanglement), and "
+            "relishing proliferation (papañca, the mind's own tendency to "
+            "elaborate and complicate)."]),
+        ("The book's founding shape, returned to near its close", [
+            "This chapter has moved through combinatorial matrices, "
+            "cumulative ladders, autobiographical accounts, and paired "
+            "content taught by different speakers; this discourse's "
+            "return to the simple blocking-list-and-reversal structure "
+            "that opened the entire book at AN 8.3 offers a moment of "
+            "structural simplicity late in this chapter."]),
+    ],
+    terms=[
+        ("sekhassa bhikkhuno parihānāya",
+         "&ldquo;the decline of a mendicant trainee&rdquo; &mdash; this "
+         "discourse's own subject, naming its audience specifically as "
+         "still-training mendicants rather than mendicants generally."),
+        ("kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā",
+         "&ldquo;relish work, talk, sleep, and company&rdquo; &mdash; the "
+         "first four items, broadly recognizable everyday indulgences."),
+        ("indriyesu aguttadvāratā",
+         "&ldquo;not guarding the sense doors&rdquo; &mdash; the fifth "
+         "item, a specifically meditative failure rather than an "
+         "ordinary indulgence."),
+        ("bhojane amattaññutā",
+         "&ldquo;eating too much&rdquo; &mdash; the sixth item, lacking "
+         "moderation specifically around food."),
+        ("papañcārāmatā",
+         "&ldquo;relishing proliferation&rdquo; &mdash; the eighth and "
+         "final item, the mind's own tendency to elaborate and complicate "
+         "experience rather than meeting it directly."),
+    ],
+    text_intro=(
+        "The discourse in full: eight things that cause a trainee's "
+        "decline, and their eight reversals. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight things that lead to a trainee's decline"),
+        ("p", "&sect;1", "an8.79:1.1-1.4"),
+        ("h3", "Eight things that don't lead to decline"),
+        ("p", "&sect;2", "an8.79:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "Who is the specific audience this discourse names, unlike "
+              "many of this book's other blocking-list pairs?",
+         "opts": [
+             "Wealthy laypeople",
+             "A mendicant trainee (sekha) — someone still actively "
+             "progressing on the path",
+             "Only fully awakened arahants",
+             "Only newly ordained novices under age twenty"],
+         "correct": 1,
+         "expl": "A discourse specifically addressed to those still in "
+                 "active training."},
+        {"q": "What are the first four things that lead to a trainee's "
+              "decline?",
+         "opts": [
+             "The five hindrances",
+             "Relishing work, talk, sleep, and company",
+             "Wealth, status, education, and beauty",
+             "Fear, doubt, anger, and pride"],
+         "correct": 1,
+         "expl": "Broadly recognizable everyday indulgences, opening the "
+                 "list."},
+        {"q": "What does 'relishing proliferation' (papañca) refer to?",
+         "opts": [
+             "Excessive wealth accumulation",
+             "The mind's own tendency to elaborate and complicate "
+             "experience rather than meeting it directly",
+             "Overeating specifically",
+             "Excessive physical exercise"],
+         "correct": 1,
+         "expl": "A specifically meditative concern, the eighth and final "
+                 "item in the list."},
+        {"q": "How does this discourse's structure compare to AN 8.3, "
+              "which opened this book?",
+         "opts": [
+             "Entirely unrelated structures",
+             "It returns to the same bare blocking-list-and-reversal "
+             "structure that opened the entire book",
+             "This discourse has no reversal list at all",
+             "AN 8.3 has a completely different structure"],
+         "correct": 1,
+         "expl": "A moment of structural simplicity, echoing the book's "
+                 "own opening shape."},
+        {"q": "How are the eight things that don't lead to decline "
+              "presented?",
+         "opts": [
+             "As an entirely different, unrelated list",
+             "As the exact reversal of the first eight items",
+             "As only four items, not eight",
+             "They are not presented at all"],
+         "correct": 1,
+         "expl": "A clean, point-for-point reversal of the decline-causing "
+                 "list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Four ordinary indulgences", [
+            "relishing work, talk,",
+            "sleep, and company —",
+            "broadly recognizable risks",
+        ]),
+        ("Four more specific risks", [
+            "unguarded senses, overeating,",
+            "relishing closeness,",
+            "relishing proliferation itself",
+        ]),
+        ("A return to the book's own shape", [
+            "the same bare blocking list",
+            "and reversal that opened",
+            "this entire book at AN 8.3",
+        ]),
+        ("Cross-references", [
+            "AN 8.78 &middot; previous, Sāriputta's second matched "
+            "teaching",
+            "AN 8.80 &middot; next, closing this chapter with the same "
+            "circumstances rationalized two opposite ways",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.79/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.78.html">AN 8.78 &middot; Good Enough</a> &mdash; previous.',
+        '<a href="an-8.80.html">AN 8.80 &middot; Grounds for Laziness and Arousing '
+        "Energy</a> &mdash; next, closing this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.80 — Kusītārambhavatthusutta — closes ch.8 Yamakavagga
+# --------------------------------------------------------------------------- #
+page(
+    80, "Kusītārambhavatthu", "Grounds for Laziness and Arousing Energy",
+    vagga=VAGGA_8,
+    meta_title="AN 8.80 — Grounds for Laziness and Arousing Energy | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kusītārambhavatthusutta, closing this chapter with eight "
+        "identical circumstances — work, travel, hunger, fullness, "
+        "illness, recovery — rationalized once toward lying down and once "
+        "toward rousing energy, the same facts read two opposite ways. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight circumstances rationalized toward laziness, then "
+                 "the identical eight circumstances rationalized toward "
+                 "energy, each pair sharing the same factual premise but "
+                 "opposite reasoning"),
+        ("Length", "~3 minutes to read"),
+        ("The same eight facts, opposite interpretations", "This is a "
+                                                            "psychologically "
+                                                            "sharp closing "
+                                                            "discourse: "
+                                                            "the sixteen "
+                                                            "items aren't "
+                                                            "sixteen "
+                                                            "different "
+                                                            "circumstances "
+                                                            "but eight "
+                                                            "identical ones, "
+                                                            "each capable "
+                                                            "of justifying "
+                                                            "either "
+                                                            "laziness or "
+                                                            "energy "
+                                                            "depending "
+                                                            "entirely on "
+                                                            "how the "
+                                                            "mendicant "
+                                                            "frames it"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "closely paired structure, best read by comparing "
+                       "each circumstance's two opposite rationalizations "
+                       "side by side"),
+    ],
+    why=(
+        "AN 8.80 closes this chapter by naming eight circumstances "
+        "&mdash; having work to do or done, a journey ahead or completed, "
+        "insufficient or plentiful almsfood, minor illness, or recent "
+        "recovery &mdash; each one capable of rationalizing either "
+        "laziness (&ldquo;my body will get tired, I'd better lie "
+        "down&rdquo;) or energetic effort (&ldquo;I'd better rouse "
+        "energy now, before it's too late&rdquo;), depending entirely on "
+        "how the mendicant chooses to interpret it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same eight circumstances &mdash; work ahead or behind, "
+            "travel ahead or behind, too little or too much almsfood, "
+            "minor illness or recent recovery &mdash; can rationalize "
+            "either lying down in laziness or rousing energy "
+            "preemptively, and the discourse shows exactly how the "
+            "identical fact pattern supports both conclusions depending "
+            "purely on how it's framed."]),
+        ("Eight facts, sixteen rationalizations", [
+            "This discourse's real structure isn't sixteen independent "
+            "items but eight circumstances, each given two opposite "
+            "internal monologues: work not yet done becomes either "
+            "&ldquo;my body will get tired, I'd better lie down&rdquo; or "
+            "&ldquo;it's not easy to focus while working, I'd better "
+            "rouse energy first&rdquo; &mdash; the same anticipated "
+            "tiredness read as an excuse in one case and a warning in "
+            "the other."]),
+        ("Even opposite physical states rationalize the same way", [
+            "The discourse's sharpest move comes with almsfood: "
+            "insufficient food becomes either an excuse (&ldquo;my body "
+            "is tired and unfit for work&rdquo;) or a spur (&ldquo;my "
+            "body is light and fit for work&rdquo;), while abundant food "
+            "becomes either an excuse (&ldquo;my body is heavy, like "
+            "I've just eaten a load of beans&rdquo;) or a spur "
+            "(&ldquo;my body is strong and fit for work&rdquo;) &mdash; "
+            "demonstrating that even physically opposite states can each "
+            "be rationalized in either direction."]),
+        ("Closing this chapter on the mind's own responsibility", [
+            "Rather than external circumstance determining a mendicant's "
+            "diligence or laziness, this discourse's closing position "
+            "places the deciding factor entirely in how the mind "
+            "interprets whatever circumstance arises &mdash; a fitting "
+            "close to a chapter that has repeatedly examined how "
+            "reaction, framing, and interpretation, not raw fact, "
+            "determine spiritual outcome."]),
+    ],
+    terms=[
+        ("kusītavatthūni",
+         "&ldquo;grounds for laziness&rdquo; &mdash; the first half of "
+         "this discourse's own title-phrase and its opening eight "
+         "circumstances."),
+        ("ārambhavatthūni",
+         "&ldquo;grounds for arousing energy&rdquo; &mdash; the second "
+         "half of the title, the identical eight circumstances "
+         "rationalized in the opposite direction."),
+        ("kilanto bhavissāmi, handāhaṁ nipajjāmī'ti",
+         "&ldquo;my body will get tired, I'd better have a lie down&rdquo; "
+         "&mdash; the recurring laziness rationalization, repeated across "
+         "each of the eight circumstances with only the specific "
+         "situation changed."),
+        ("appattassa pattiyā, anadhigatassa adhigamāya, "
+         "asacchikatassa sacchikiriyāya vīriyaṁ ārabhissāmī'ti",
+         "&ldquo;I'd better preemptively rouse up energy for attaining "
+         "the unattained, achieving the unachieved, and realizing the "
+         "unrealized&rdquo; &mdash; the recurring energy rationalization, "
+         "the exact structural counterpart to the laziness formula."),
+        ("bhabbo pāpiyo assā'ti",
+         "&ldquo;it's possible this illness will worsen&rdquo; &mdash; "
+         "part of the seventh circumstance's energetic rationalization, "
+         "reading minor illness as a spur rather than an excuse."),
+    ],
+    text_intro=(
+        "The discourse in full: eight circumstances, each rationalized "
+        "once toward laziness and once toward energy, closing this "
+        "chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight grounds for laziness"),
+        ("p", "&sect;1", "an8.80:1.1-8.6"),
+        ("h3", "The same eight circumstances, grounds for arousing "
+               "energy"),
+        ("p", "&sect;2", "an8.80:9.1-17.1"),
+    ],
+    quiz=[
+        {"q": "How many distinct circumstances does this discourse "
+              "actually name, despite giving sixteen numbered items?",
+         "opts": [
+             "Sixteen entirely independent circumstances",
+             "Eight — each one given two opposite rationalizations, "
+             "toward laziness and toward energy",
+             "Four", "Two"],
+         "correct": 1,
+         "expl": "The same eight facts, each read two opposite ways, not "
+                 "sixteen separate situations."},
+        {"q": "What happens to insufficient almsfood in this discourse's "
+              "two rationalizations?",
+         "opts": [
+             "It only ever justifies laziness",
+             "It becomes an excuse ('my body is tired') in one "
+             "rationalization and a spur ('my body is light and fit for "
+             "work') in the other",
+             "It only ever justifies energy",
+             "It isn't addressed in this discourse"],
+         "correct": 1,
+         "expl": "The same physical state, framed in opposite directions "
+                 "depending on the mendicant's own interpretation."},
+        {"q": "According to the guide, what does this discourse's closing "
+              "position emphasize?",
+         "opts": [
+             "That external circumstance alone determines diligence or "
+             "laziness",
+             "That the deciding factor lies entirely in how the mind "
+             "interprets whatever circumstance arises, not raw fact "
+             "itself",
+             "That laziness is always justified",
+             "That energy should never be roused preemptively"],
+         "correct": 1,
+         "expl": "A fitting close to a chapter examining reaction and "
+                 "interpretation over raw circumstance."},
+        {"q": "What happens with abundant almsfood in this discourse's two "
+              "rationalizations?",
+         "opts": [
+             "It only justifies laziness",
+             "It becomes 'heavy, like I've just eaten a load of beans' in "
+             "one version and 'strong and fit for work' in the other",
+             "It is treated identically in both versions",
+             "It only justifies energy"],
+         "correct": 1,
+         "expl": "Even the same physically full state supports opposite "
+                 "conclusions depending on framing."},
+        {"q": "What structural pattern repeats across all eight "
+              "circumstances in the 'laziness' half?",
+         "opts": [
+             "A different excuse each time with no common thread",
+             "'My body will get tired, I'd better have a lie down' — the "
+             "identical formula applied to each specific situation",
+             "A request for permission from a senior monk",
+             "A recitation of the monastic code"],
+         "correct": 1,
+         "expl": "A consistent recurring rationalization, only the "
+                 "specific circumstance changing."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Eight facts, sixteen readings", [
+            "work, travel, hunger, fullness,",
+            "illness, recovery — each one",
+            "argued two opposite ways",
+        ]),
+        ("The same tiredness, both ways", [
+            "'I'd better lie down' — or",
+            "'I'd better rouse energy first' —",
+            "the fact unchanged, the framing everything",
+        ]),
+        ("Closing on the mind's own choice", [
+            "not circumstance, but interpretation —",
+            "a fitting close to a chapter",
+            "built on reaction over raw fact",
+        ]),
+        ("Cross-references", [
+            "AN 8.79 &middot; previous, eight things that lead to a "
+            "trainee's decline",
+            "AN 8.61 &middot; earlier, opening this chapter with the same "
+            "insight about reaction over circumstance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.80/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.79.html">AN 8.79 &middot; Decline</a> &mdash; previous.',
+        '<a href="an-8.61.html">AN 8.61 &middot; Desire</a> &mdash; earlier, opening this '
+        "chapter.",
+    ],
+)
