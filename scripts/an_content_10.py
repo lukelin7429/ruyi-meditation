@@ -28557,3 +28557,451 @@ page(
         "elaborated.",
     ],
 )
+
+
+VAGGA_16 = "<em>Puggalavagga</em> &mdash; the sixteenth chapter of the Tens, opening the Fourth Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.155 — Sevitabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    155, "Sevitabba", "You Should Associate",
+    vagga=VAGGA_16,
+    meta_title="AN 10.155 — You Should Associate | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sevitabbasutta, opening the Fourth Fifty and the Tens' "
+        "sixteenth chapter with a shift from the ten-factor path to "
+        "the individuals who hold it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A brief announcement, then the ten-factor path used "
+                 "to define a person worth or not worth associating "
+                 "with"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the new chapter, <em>Puggalavagga</em>, "
+                               "the Chapter on Individuals, and opens "
+                               "the Fourth Fifty"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as simple as this project's vocabulary gets"),
+    ],
+    why=(
+        "Opening the Fourth Fifty, the Buddha shifts the register one "
+        "more step beyond chapter 15's teachings and paths: now the "
+        "ten factors are used to judge a person directly, worth "
+        "associating with or not."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with the ten wrong factors should not be "
+            "associated with; a person with the ten right factors "
+            "should be associated with."]),
+        ("A new Fifty, a familiar template", [
+            "This discourse opens the Fourth Fifty (chapters "
+            "16&ndash;20) using the identical compact template "
+            "established across chapters 13 through 15: a brief "
+            "announcement, then the ten wrong and ten right factors "
+            "under a new frame &mdash; here, not what the factors "
+            "ARE or should be DONE with, but what kind of PERSON "
+            "holds them."]),
+        ("Puggala, a term of individual identity", [
+            "<em>Puggala</em>, &ldquo;individual&rdquo; or person, "
+            "gives this chapter its name and marks a real shift in "
+            "register from chapter 15's impersonal paths and "
+            "practice-verbs: the ten factors now describe not an "
+            "abstract teaching to realize but a person one might "
+            "actually meet, and choose to associate with or avoid."]),
+        ("The first of a short run before this chapter's own "
+         "peyyāla", [
+            "Unlike chapters 13 through 15, which ran their word-pair "
+            "variations as separate full discourses throughout, this "
+            "chapter's remaining eleven discourses (AN "
+            "10.156&ndash;166) are compressed in the source into a "
+            "single peyyāla passage &mdash; confirmed by checking "
+            "bilara-data before writing, following the same convention "
+            "already used for large compressed ranges elsewhere in "
+            "this project, and presented here as one combined page."]),
+    ],
+    terms=[
+        ("sevitabba",
+         "&ldquo;should be associated with&rdquo; &mdash; this "
+         "discourse's own title, the first of a run of association-"
+         "related verbs this chapter will apply to a person defined "
+         "by the ten factors."),
+        ("na sevitabba",
+         "&ldquo;should not be associated with&rdquo; &mdash; the "
+         "negation applied to a person with the ten wrong factors."),
+        ("puggala",
+         "&ldquo;individual&rdquo; or person &mdash; this chapter's "
+         "own namesake, marking a shift from teachings and paths to "
+         "the person who holds them."),
+        ("micchādiṭṭhiko hoti",
+         "&ldquo;has wrong view&rdquo; &mdash; note the adjectival "
+         "form here (a person WHO IS wrong-viewed), distinct from the "
+         "abstract noun form (micchādiṭṭhi) used throughout chapters "
+         "13&ndash;15."),
+        ("sammāvimutti hoti",
+         "&ldquo;has right freedom&rdquo; &mdash; the tenth and "
+         "final factor, closing this discourse's list in the same "
+         "adjectival, person-describing form."),
+    ],
+    text_intro=(
+        "The discourse in full: a person with the ten wrong factors "
+        "should not be associated with; a person with the ten right "
+        "factors should be. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Should not be associated with, and should be "
+                "associated with"),
+        ("p", "&sect;1", "an10.155:1.1-1.4"),
+        ("p", "&sect;2", "an10.155:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the ten-factor "
+              "path to?",
+         "opts": [
+             "Good and not good",
+             "A person worth associating with, and one who is not",
+             "Skillful and unskillful",
+             "Wealth and poverty"],
+         "correct": 1,
+         "expl": "A shift from teachings and paths to the individual "
+                 "who holds them."},
+        {"q": "According to the guide, what new register does "
+              "\"puggala\" (individual) introduce compared to chapter "
+              "15's vocabulary?",
+         "opts": [
+             "No new register",
+             "The ten factors now describe an actual person one "
+             "might meet, rather than an abstract teaching or path",
+             "A purely cosmological register",
+             "A purely legal register"],
+         "correct": 1,
+         "expl": "This chapter's own namesake, marking a shift toward "
+                 "personal identity."},
+        {"q": "According to the guide, how are this chapter's "
+              "remaining eleven discourses (AN 10.156–166) "
+              "presented in the source?",
+         "opts": [
+             "As eleven fully separate discourses like chapters "
+             "13–15",
+             "Compressed into a single peyyāla passage, confirmed by "
+             "checking bilara-data before writing",
+             "They do not exist",
+             "As a single narrative story"],
+         "correct": 1,
+         "expl": "A compressed range, following the same convention "
+                 "already used for large peyyāla elsewhere in this "
+                 "project."},
+        {"q": "What grammatical form does this discourse use for the "
+              "ten factors, according to the guide?",
+         "opts": [
+             "The abstract noun form used throughout chapters "
+             "13–15",
+             "An adjectival, person-describing form (e.g. "
+             "\"micchādiṭṭhiko hoti,\" has wrong view)",
+             "A verb form only",
+             "No factors are named at all"],
+         "correct": 1,
+         "expl": "A shift in grammar matching the shift from "
+                 "abstract teaching to described person."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What chapter of AN10 does this discourse open?",
+         "opts": [
+             "Chapter 15, Ariyavagga",
+             "Chapter 16, Puggalavagga, opening the Fourth Fifty",
+             "Chapter 17",
+             "Chapter 10"],
+         "correct": 1,
+         "expl": "The sixteenth chapter of the Tens, first of the "
+                 "Fourth Fifty (chapters 16–20)."},
+    ],
+    marginalia=[
+        ("From teaching to the person who holds it", [
+            "not a path to walk, but",
+            "someone met &mdash; keep close,",
+            "or better, keep away",
+        ]),
+        ("A new Fifty begins", [
+            "Third Fifty closed at",
+            "154 &mdash; here, chapter",
+            "sixteen starts the fourth",
+        ]),
+        ("A small peyyāla ahead", [
+            "eleven more discourses,",
+            "compressed to one page &mdash;",
+            "checked in bilara-data first",
+        ]),
+        ("Cross-references", [
+            "AN 10.154 &middot; Should Be Realized, closing chapter "
+            "15 and the Third Fifty, previous",
+            "AN 10.156&ndash;166 &middot; next, this chapter's own "
+            "compressed peyyāla",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.155/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.154.html">AN 10.154</a> &mdash; previous, closing chapter 15 and '
+        "the Third Fifty.",
+        '<a href="an-10.156-166.html">AN 10.156&ndash;166</a> &mdash; next, this '
+        "chapter's own compressed peyyāla.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.156–166 — Bhajitabbādisutta (compressed peyyāla)
+# --------------------------------------------------------------------------- #
+# Checked against bilara-data before writing: root/pli/ms/sutta/an/an10/
+# an10.156-166_root-pli-ms.json is a SINGLE merged file (not eleven separate
+# discourse files) compressing eleven discourses (AN 10.156 through 10.166)
+# into one peyyāla passage. Structure confirmed: ten verb-pairs applied to a
+# person with the ten wrong/right factors (frequent, pay homage, venerate,
+# praise, respect, revere, is a success, is pure, wins over conceit, grows
+# in wisdom -- AN 10.156-165), closing with an eleventh discourse (10.166)
+# stating the person "brims with much wickedness / much merit" and carrying
+# the chapter's own colophon "Puggalavaggo pathamo" ("the first" -- the
+# Fourth Fifty restarts internal chapter numbering, matching the Second and
+# Third Fifty's own precedent). This is a small, tractable peyyāla, nothing
+# like the scale of AN 9.113-432 or the still-pending AN 10.237-746
+# Ragapeyyala -- presented here as a single combined page following this
+# project's established convention for compressed discourse ranges.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.156-166",
+    "index_pali": "(untitled)",
+    "nav_title": "Frequenting, Etc.",
+    "source": "an10/an10.156-166",
+    "crumb": "AN 10.156&ndash;166",
+    "meta_title": ("AN 10.156–166 — Frequenting, Etc. — Closing "
+                   "Puggalavagga | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "the closing peyyāla of Puggalavagga — ten association-verbs "
+        "applied to a person with the ten factors, compressing eleven "
+        "discourses into one page. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.156&ndash;166",
+    "title": "Frequenting, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_16),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten association-verbs (frequent, pay homage, "
+                 "venerate, praise, respect, revere, success, purity, "
+                 "winning over conceit, growth in wisdom) crossed "
+                 "against a person with the ten wrong/right factors, "
+                 "closing with an eleventh discourse on wickedness "
+                 "and merit"),
+        ("Length", "~1 minute to read the compressed text; the full "
+                   "eleven-discourse expansion would take about ten"),
+        ("A small, tractable peyyāla", "Eleven discourses compressed "
+                                       "into one page &mdash; a modest "
+                                       "scale compared to AN 9.113"
+                                       "&ndash;432's 320, and nothing "
+                                       "like the still-pending AN "
+                                       "10.237&ndash;746 closing this "
+                                       "entire nipāta"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the compressed text is brief, but tracking ten "
+                       "distinct verb-pairs takes care"),
+    ],
+    "why": (
+        "This single page stands for eleven separate discourses (AN "
+        "10.156 through 10.166), each crossing one of ten association-"
+        "verbs against the same ten wrong and ten right factors already "
+        "used to describe a person at AN 10.155, closing with an "
+        "eleventh discourse on wickedness and merit that also ends "
+        "this chapter."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A person with the ten wrong factors should not be "
+            "frequented, paid homage, venerated, praised, respected, "
+            "or revered, is not a success, is not pure, does not win "
+            "over conceit, does not grow in wisdom, and brims with "
+            "much wickedness; a person with the ten right factors "
+            "should receive the opposite treatment and outcome in "
+            "each case, and brims with much merit."]),
+        ("Ten verbs, checked against the root before writing", [
+            "The root text (an10.156-166_root-pli-ms.json) confirms "
+            "ten distinct verb-pairs compressed with peyyāla ellipses: "
+            "<em>bhajitabbo</em> (frequented), "
+            "<em>payirupāsitabbo</em> (paid homage), <em>pujjo "
+            "hoti</em> (venerated), <em>pāsaṁso hoti</em> (praised), "
+            "<em>agāravo/sagāravo hoti</em> (respected), "
+            "<em>appatisso/sappatisso hoti</em> (revered), "
+            "<em>ārādhako hoti</em> (a success), <em>visujjhati</em> "
+            "(pure), <em>mānaṁ adhibhoti</em> (wins over conceit), "
+            "and <em>paññāya vaḍḍhati</em> (grows in wisdom) &mdash; "
+            "matching AN 10.156 through AN 10.165 exactly, ten "
+            "discourses for ten verbs."]),
+        ("An eleventh discourse closes the set and the chapter", [
+            "The final segment of the compressed file (an10.156-166:2.1"
+            "&ndash;2.5) is a distinct eleventh discourse, AN 10.166: "
+            "a person with the ten wrong factors &ldquo;brims with "
+            "much wickedness,&rdquo; one with the ten right factors "
+            "&ldquo;brims with much merit&rdquo; &mdash; this final "
+            "discourse also carries the chapter's own untranslated "
+            "colophon, &lsquo;Puggalavaggo paṭhamo&rsquo; (the "
+            "Individuals Chapter, the first), confirming that the "
+            "Fourth Fifty restarts its own internal chapter numbering, "
+            "exactly as the Second and Third Fifty did before it."]),
+        ("A modest peyyāla, not this book's largest", [
+            "At eleven discourses compressed into one page, this "
+            "peyyāla is a fraction of the scale already met at AN "
+            "9.113&ndash;432 (320 discourses) and far smaller than "
+            "the still-pending AN 10.237&ndash;746 Rāgapeyyāla "
+            "(510 discourses) that will close this entire nipāta "
+            "&mdash; a useful reminder that not every compressed "
+            "range in this collection is enormous, and that each "
+            "one's actual structure must be checked individually "
+            "against bilara-data rather than assumed from its scale "
+            "or position."]),
+    ],
+    "terms": [
+        ("bhajitabbo, payirupāsitabbo",
+         "&ldquo;should be frequented, should be paid homage&rdquo; "
+         "&mdash; the first two of ten association-verbs opening this "
+         "compressed peyyāla."),
+        ("pujjo hoti, pāsaṁso hoti",
+         "&ldquo;is venerated, is praised&rdquo; &mdash; the third and "
+         "fourth verb-pairs in the same sequence."),
+        ("ārādhako hoti, visujjhati",
+         "&ldquo;is a success, is purified&rdquo; &mdash; two further "
+         "verb-pairs, shifting from social treatment to personal "
+         "outcome."),
+        ("mānaṁ adhibhoti, paññāya vaḍḍhati",
+         "&ldquo;wins over conceit, grows in wisdom&rdquo; &mdash; the "
+         "ninth and tenth verb-pairs, closing the ten-verb sequence "
+         "before the eleventh, colophon-bearing discourse."),
+        ("Puggalavaggo paṭhamo",
+         "&ldquo;the Individuals Chapter, the first&rdquo; &mdash; "
+         "this chapter's own closing colophon, confirming the Fourth "
+         "Fifty restarts its internal chapter numbering."),
+    ],
+    "text_intro": (
+        "The compressed text in full: ten association-verbs and an "
+        "eleventh discourse on wickedness and merit, each applied to "
+        "a person with the ten wrong and ten right factors. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Ten verbs, compressed"),
+        ("p", "&sect;1", "an10.156-166:1.1-1.20"),
+        ("h3", "Wickedness, and merit"),
+        ("p", "&sect;2", "an10.156-166:2.1-2.5"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "Eleven individually numbered discourses (AN "
+             "10.156–166), produced by crossing ten association-"
+             "verbs against a person with the ten factors, plus a "
+             "closing eleventh discourse",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "Ten verb-pairs (AN 10.156–165) plus one closing "
+                 "discourse (AN 10.166), compressed into a single "
+                 "peyyāla page."},
+        {"q": "According to the guide, what ten verbs are crossed "
+              "against the ten-factor person?",
+         "opts": [
+             "Ten unrelated topics with no shared theme",
+             "Frequented, paid homage, venerated, praised, "
+             "respected, revered, a success, pure, wins over conceit, "
+             "and grows in wisdom",
+             "Ten different meditation techniques",
+             "Ten monastic rules"],
+         "correct": 1,
+         "expl": "Confirmed against the root text before writing, "
+                 "matching AN 10.156 through AN 10.165 exactly."},
+        {"q": "What does the eleventh discourse in this compressed "
+              "set (AN 10.166) add, according to the guide?",
+         "opts": [
+             "Nothing further",
+             "\"Brims with much wickedness / much merit,\" plus the "
+             "chapter's own closing colophon naming it the first "
+             "chapter of a newly restarted numbering",
+             "A narrative about a specific monk",
+             "A cosmological digression"],
+         "correct": 1,
+         "expl": "The colophon \"Puggalavaggo paṭhamo\" confirms the "
+                 "Fourth Fifty restarts its internal chapter count, "
+                 "as the Second and Third Fifty did."},
+        {"q": "How does this peyyāla's scale compare to AN 9.113"
+              "–432, according to the guide?",
+         "opts": [
+             "It is larger",
+             "It is far smaller: eleven discourses here versus 320 "
+             "there",
+             "They are exactly the same size",
+             "No comparison is possible"],
+         "correct": 1,
+         "expl": "A modest, tractable peyyāla, distinct from this "
+                 "project's largest compressed ranges."},
+        {"q": "What still-pending peyyāla does the guide note as far "
+              "larger than this one?",
+         "opts": [
+             "AN 10.1–10",
+             "AN 10.237–746, the Rāgapeyyāla closing this entire "
+             "nipāta (510 discourses)",
+             "AN 10.145–154",
+             "There is no larger peyyāla remaining"],
+         "correct": 1,
+         "expl": "A reminder to check each compressed range's actual "
+                 "structure individually rather than assume its scale."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Ten verbs, one shared structure", [
+            "frequent, praise, revere,",
+            "succeed, be pure, grow wise &mdash;",
+            "one person, judged ten ways",
+        ]),
+        ("A chapter's own close, hidden inside", [
+            "the eleventh discourse",
+            "carries both the final verb",
+            "and the chapter's colophon",
+        ]),
+        ("A fourth fifty, freshly numbered", [
+            "\"paṭhamo\" again &mdash;",
+            "not the whole book's first chapter,",
+            "just this fifty's own",
+        ]),
+        ("Cross-references", [
+            "AN 10.155 &middot; You Should Associate, previous, this "
+            "chapter's own uncompressed opening discourse",
+            "AN 9.113&ndash;432 &middot; this project's largest "
+            "peyyāla met so far, for scale comparison",
+            "AN 10.167 &middot; next, opening chapter 17, "
+            "Janussoṇivagga",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.156-166/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.155.html">AN 10.155 &middot; You Should Associate</a> &mdash; '
+        "previous, this chapter's own uncompressed opening discourse.",
+        "<a href=\"an-9.113-432.html\">AN 9.113&ndash;432</a> &mdash; this project's largest "
+        "peyyāla met so far, for scale comparison.",
+    ],
+})
