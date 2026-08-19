@@ -1931,3 +1931,1927 @@ page(
         "Liberations</a> &mdash; previous.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.2 — Nāthavagga (AN 10.11-20)
+# --------------------------------------------------------------------------- #
+VAGGA_2 = "<em>Nāthavagga</em> &mdash; the second chapter of the Tens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.11 — Senāsanasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Senāsana", "Lodgings",
+    vagga=VAGGA_2,
+    meta_title="AN 10.11 — Lodgings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Senāsanasutta, opening this chapter with five factors of "
+        "a ready mendicant crossed against five factors of a suitable "
+        "lodging. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five personal factors, then five factors of a "
+                 "lodging, combined into a ten-item total"),
+        ("Length", "~2 minutes to read"),
+        ("Ten by combination, not by one flat list", "This chapter's "
+         "number is reached the same way as AN 9.21's three-particular "
+         "comparison — two distinct five-item sets, combined"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; two "
+                       "clean fivefold lists, worth reading for how "
+                       "they complement each other"),
+    ],
+    why=(
+        "A mendicant with five factors &mdash; faith in the Buddha's "
+        "awakening, good health, honesty, energy, and wisdom &mdash; "
+        "who uses a lodging with five factors of its own &mdash; "
+        "convenient location, quiet, freedom from pests, easy "
+        "requisites, and learned senior mendicants nearby &mdash; will "
+        "soon realize freedom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant with five personal factors, using a lodging "
+            "with five factors of its own, will soon realize the "
+            "undefiled freedom of heart and freedom by wisdom in this "
+            "very life."]),
+        ("Five personal factors, an internal readiness", [
+            "The mendicant's own five factors span the inner life "
+            "needed for practice: confidence in the Buddha, physical "
+            "health fit for meditation, honesty with teacher and "
+            "companions, roused energy, and the wisdom that sees "
+            "arising and passing away."]),
+        ("Five factors of place, an external readiness", [
+            "The lodging's own five factors are entirely practical: "
+            "neither too far nor too near, undisturbed by day and "
+            "quiet by night, free of biting insects and reptiles, easy "
+            "requisites, and &mdash; distinctively &mdash; the presence "
+            "of learned senior mendicants able to answer questions and "
+            "clarify doubts."]),
+        ("Ten by combination, this chapter's own method", [
+            "Like AN 9.21's three-particular comparison earlier in this "
+            "project, this discourse reaches its ten-count not through "
+            "one flat list but by combining two distinct five-item "
+            "sets &mdash; inner readiness and outer circumstance "
+            "&mdash; suggesting that neither alone is sufficient "
+            "without the other."]),
+    ],
+    terms=[
+        ("saddho hoti, saddahati tathāgatassa bodhiṁ",
+         "&ldquo;has faith in the Realized One's awakening&rdquo; "
+         "&mdash; the first of the mendicant's five factors, using the "
+         "standard formula for confidence in the Buddha."),
+        ("appābādho hoti appātaṅko",
+         "&ldquo;rarely ill or unwell&rdquo; &mdash; the second "
+         "factor, physical health specifically suited to meditation."),
+        ("nātidūre hoti nāccāsanne gamanāgamanasampannaṁ",
+         "&ldquo;neither too far nor too near, but convenient for "
+         "coming and going&rdquo; &mdash; the lodging's first factor."),
+        ("bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā",
+         "&ldquo;very learned, inheritors of the heritage, who have "
+         "memorized the teachings, the monastic law, and the "
+         "outlines&rdquo; &mdash; the lodging's fifth and final factor, "
+         "naming the presence of learned senior mendicants."),
+        ("āsavānaṁ khayā... sacchikatvā upasampajja viharati",
+         "&ldquo;realize the undefiled freedom of heart and freedom by "
+         "wisdom... due to the ending of defilements&rdquo; &mdash; the "
+         "outcome this discourse's combined ten factors point toward."),
+    ],
+    text_intro=(
+        "The discourse in full: five personal factors, then five "
+        "factors of a suitable lodging. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five personal factors"),
+        ("p", "&sect;1", "an10.11:1.1-2.8"),
+        ("h3", "Five factors of a lodging"),
+        ("p", "&sect;2", "an10.11:3.1-3.11"),
+    ],
+    quiz=[
+        {"q": "What are the mendicant's own five factors?",
+         "opts": [
+             "Faith, good health, honesty, energy, and wisdom",
+             "The five hindrances",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Inner readiness for practice."},
+        {"q": "What distinctive fifth factor does a suitable lodging "
+              "have, according to this discourse?",
+         "opts": [
+             "Expensive furnishings",
+             "The presence of learned senior mendicants able to answer "
+             "questions and clarify doubts",
+             "A large garden",
+             "Proximity to a city center"],
+         "correct": 1,
+         "expl": "Access to guidance, not merely physical comfort."},
+        {"q": "How does this discourse reach its ten-item total?",
+         "opts": [
+             "Through a single flat list of ten items",
+             "By combining two distinct five-item sets — the "
+             "mendicant's own factors and the lodging's factors",
+             "By listing ten different lodgings",
+             "Through a narrative with ten characters"],
+         "correct": 1,
+         "expl": "The same combination method already met at AN 9.21."},
+        {"q": "What outcome does this discourse promise for someone "
+              "with all ten factors?",
+         "opts": [
+             "Wealth and long life",
+             "Soon realizing the undefiled freedom of heart and "
+             "freedom by wisdom",
+             "Rebirth as a deity",
+             "Fame among laypeople"],
+         "correct": 1,
+         "expl": "Full liberation, promised as a near-term result of "
+                 "combined inner and outer readiness."},
+        {"q": "According to the guide, what does the combination of "
+              "personal and lodging factors suggest?",
+         "opts": [
+             "That the lodging's qualities matter more than the "
+             "person's",
+             "That neither inner readiness nor outer circumstance alone "
+             "is sufficient without the other",
+             "That lodging conditions are irrelevant to practice",
+             "That personal factors alone guarantee awakening"],
+         "correct": 1,
+         "expl": "A deliberate pairing of internal and external "
+                 "conditions."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, opening this chapter."},
+    ],
+    marginalia=[
+        ("Five factors, inward", [
+            "faith, health, honesty,",
+            "energy, and wisdom &mdash;",
+            "readiness within",
+        ]),
+        ("Five factors, outward", [
+            "not too far, not too near,",
+            "quiet, easy needs, and",
+            "learned mendicants nearby",
+        ]),
+        ("Ten by combination", [
+            "inner and outer both",
+            "needed together &mdash;",
+            "neither one alone",
+        ]),
+        ("Cross-references", [
+            "AN 9.21 &middot; the same ten-by-combination method",
+            "AN 10.10 &middot; previous chapter's closing page",
+            "AN 10.12 &middot; next, Five Factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.10.html">AN 10.10 &middot; Inspiring All Around: the Three '
+        "Knowledges</a> &mdash; previous.",
+        '<a href="an-10.12.html">AN 10.12 &middot; Five Factors</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.12 — Dasadhammasutta (Five Factors)
+# --------------------------------------------------------------------------- #
+page(
+    12, "Dasadhamma", "Five Factors",
+    vagga=VAGGA_2,
+    meta_title="AN 10.12 — Five Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse naming the &lsquo;supreme person&rsquo; — one "
+        "who has given up the five hindrances and possesses the five "
+        "aggregates of an adept, closing with a summary verse. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five things given up, five things possessed, then a "
+                 "closing verse restating both"),
+        ("Length", "~1 minute to read"),
+        ("A verse closing a prose teaching", "This discourse is "
+         "unusual for restating its own prose content in verse "
+         "immediately afterward, within the same page"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, naming a well-known fivefold Dhamma "
+                       "category"),
+    ],
+    why=(
+        "A mendicant who has given up the five hindrances and possesses "
+        "the five aggregates of an adept &mdash; ethics, immersion, "
+        "wisdom, freedom, and the knowledge and vision of freedom "
+        "&mdash; is called consummate, accomplished, a supreme person, "
+        "a teaching then restated in verse."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has given up the five hindrances and "
+            "possesses the five aggregates of an adept &mdash; ethics, "
+            "immersion, wisdom, freedom, and the knowledge and vision "
+            "of freedom &mdash; is called consummate, accomplished, a "
+            "supreme person."]),
+        ("Five given up, a familiar list", [
+            "The five things given up are the standard hindrances "
+            "already met repeatedly in this project: sensual desire, "
+            "ill will, dullness and drowsiness, restlessness and "
+            "remorse, and doubt."]),
+        ("Five possessed, the aggregates of an adept", [
+            "The five things possessed are the classic "
+            "&lsquo;dhammakkhandha,&rsquo; the fivefold Dhamma body "
+            "attributed to an adept (asekha, one beyond further "
+            "training): ethics, immersion, wisdom, freedom, and "
+            "knowledge and vision of freedom &mdash; the same final "
+            "term that closed AN 10.1's entire ten-link chain, here "
+            "serving as the culmination of just five."]),
+        ("Prose, then verse, of the same content", [
+            "This discourse's distinctive structure restates its own "
+            "prose teaching in verse immediately afterward &mdash; not "
+            "a separate teaching but the identical ten-item content "
+            "(five given up, five possessed) recast in poetic form "
+            "within the same page, a compact demonstration of how the "
+            "same doctrine could travel in either register."]),
+    ],
+    terms=[
+        ("kevalī, kevalaṁ, uttamapuriso",
+         "&ldquo;consummate, accomplished, a supreme person&rdquo; "
+         "&mdash; the discourse's own title concept, the outcome of "
+         "having given up five things and gained five more."),
+        ("kāmacchando, byāpādo, thinamiddhaṁ, uddhaccakukkuccaṁ, "
+         "vicikicchā",
+         "the five hindrances &mdash; the same standard list already "
+         "met repeatedly in this project, here what must be given up."),
+        ("asekhena sīlakkhandhena samannāgato hoti",
+         "&ldquo;has the entire spectrum of an adept's ethics&rdquo; "
+         "&mdash; the first of the five aggregates possessed, naming "
+         "the standard of one beyond further training."),
+        ("vimuttiñāṇadassanakkhandha",
+         "&ldquo;the aggregate of knowledge and vision of freedom"
+         "&rdquo; &mdash; the fifth and final aggregate, the same "
+         "closing term as AN 10.1's ten-link chain."),
+        ("kevalī tehi vuccati",
+         "&ldquo;they're called &lsquo;consummate&rsquo;&rdquo; "
+         "&mdash; the closing verse's own final line, restating the "
+         "prose teaching's conclusion in verse."),
+    ],
+    text_intro=(
+        "The discourse in full: five things given up, five things "
+        "possessed, then a closing verse. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five given up, five possessed"),
+        ("p", "&sect;1", "an10.12:1.1-3.1"),
+        ("h3", "The same teaching, in verse"),
+        ("p", "&sect;2", "an10.12:4.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What five things must be given up, according to this "
+              "discourse?",
+         "opts": [
+             "The five lower fetters",
+             "The five hindrances",
+             "The five aggregates",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The standard hindrance list, already met repeatedly "
+                 "in this project."},
+        {"q": "What five things must be possessed?",
+         "opts": [
+             "Five kinds of wealth",
+             "The aggregates of an adept: ethics, immersion, wisdom, "
+             "freedom, and knowledge and vision of freedom",
+             "The five formless attainments",
+             "Five monastic robes"],
+         "correct": 1,
+         "expl": "The classic &lsquo;dhammakkhandha&rsquo;, the "
+                 "fivefold Dhamma body."},
+        {"q": "What is distinctive about this discourse's structure?",
+         "opts": [
+             "It has no structure at all",
+             "It restates its own prose teaching in verse immediately "
+             "afterward, within the same page",
+             "It is entirely in verse from the start",
+             "It contradicts itself between prose and verse"],
+         "correct": 1,
+         "expl": "The same content in two registers, side by side."},
+        {"q": "What term closes both this discourse's five aggregates "
+              "and AN 10.1's entire ten-link chain?",
+         "opts": [
+             "Immersion", "Ethics",
+             "The knowledge and vision of freedom",
+             "Rapture"],
+         "correct": 2,
+         "expl": "The same culminating term, here closing a shorter "
+                 "fivefold list."},
+        {"q": "What title does a mendicant with these ten qualities "
+              "earn?",
+         "opts": [
+             "Impressive all around",
+             "Consummate, accomplished, a supreme person",
+             "Worthy of offerings",
+             "A direct witness"],
+         "correct": 1,
+         "expl": "This discourse's own distinctive closing title, "
+                 "different from AN 10.8-10's &lsquo;impressive all "
+                 "around&rsquo;."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching most discourses "
+                 "in this chapter."},
+    ],
+    marginalia=[
+        ("Five given up, familiar", [
+            "desire, ill will, dullness,",
+            "restlessness, doubt &mdash;",
+            "the standard hindrances",
+        ]),
+        ("Five possessed, the adept's own", [
+            "ethics, immersion, wisdom,",
+            "freedom, and knowledge",
+            "of freedom itself",
+        ]),
+        ("Prose, then the same in verse", [
+            "the teaching twice told &mdash;",
+            "once plain, once poetic,",
+            "the same ten counted",
+        ]),
+        ("Cross-references", [
+            "AN 10.1 &middot; the same closing term, there ending a "
+            "ten-link chain",
+            "AN 10.11 &middot; previous",
+            "AN 10.13 &middot; next, Fetters",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.11.html">AN 10.11 &middot; Lodgings</a> &mdash; previous.',
+        '<a href="an-10.13.html">AN 10.13 &middot; Fetters</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.13 — Saṁyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Saṁyojana", "Fetters",
+    vagga=VAGGA_2,
+    meta_title="AN 10.13 — Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanasutta, a bare list of the ten fetters — the same "
+        "five lower and five higher fetters already met separately, "
+        "now combined into one complete list. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list, no narrative and no similes"),
+        ("Length", "~30 seconds to read"),
+        ("Ten by union, not by a new list", "This discourse simply "
+         "combines the two five-item fetter lists already met "
+         "separately in AN 9, without adding new content"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the briefest and simplest discourse in this "
+                       "chapter so far"),
+    ],
+    why=(
+        "The ten fetters are the five lower fetters &mdash; "
+        "substantialist view, doubt, misapprehension of precepts and "
+        "observances, sensual desire, and ill will &mdash; and the "
+        "five higher fetters &mdash; desire for rebirth in the realm "
+        "of luminous form, desire for rebirth in the formless realm, "
+        "conceit, restlessness, and ignorance."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten fetters are the five lower fetters (substantialist "
+            "view, doubt, misapprehension of precepts and observances, "
+            "sensual desire, ill will) and the five higher fetters "
+            "(desire for form-realm rebirth, desire for formless-realm "
+            "rebirth, conceit, restlessness, ignorance)."]),
+        ("Nothing new, simply combined", [
+            "This discourse introduces no content this project hasn't "
+            "already met: both five-item lists appeared separately at "
+            "AN 9.67 (lower fetters) and AN 9.70 (higher fetters), each "
+            "there paired with the four kinds of mindfulness "
+            "meditation as their remedy. Here the two lists are simply "
+            "placed side by side to reach this chapter's own tens."]),
+        ("A milestone this project has tracked repeatedly", [
+            "Ending the five lower fetters marks non-return; ending all "
+            "ten marks arahantship &mdash; the same graduated milestone "
+            "traced with far more granularity at AN 9.12's nine-fold "
+            "classification of non-returners, and named again as the "
+            "goal of AN 9.35's gradualist cow simile."]),
+        ("A bare list, deliberately unadorned", [
+            "Unlike most discourses so far in this chapter, this one "
+            "offers no simile, no narrative, and no explanation of why "
+            "each fetter binds &mdash; simply the complete inventory, "
+            "trusting readers already familiar with both halves from "
+            "elsewhere in this project to recognize the whole."]),
+    ],
+    terms=[
+        ("dasa saṁyojanāni",
+         "&ldquo;ten fetters&rdquo; &mdash; this discourse's own title "
+         "term, the union of the two five-item lists already met "
+         "separately."),
+        ("pañcorambhāgiyāni saṁyojanāni",
+         "&ldquo;the five lower fetters&rdquo; &mdash; identical to "
+         "the list given in full at AN 9.67."),
+        ("pañcuddhambhāgiyāni saṁyojanāni",
+         "&ldquo;the five higher fetters&rdquo; &mdash; identical to "
+         "the list given in full at AN 9.70."),
+        ("sakkāyadiṭṭhi",
+         "&ldquo;substantialist view&rdquo; &mdash; the first of the "
+         "five lower fetters, opening the complete tenfold list."),
+        ("avijjā",
+         "&ldquo;ignorance&rdquo; &mdash; the tenth and final fetter, "
+         "closing the complete list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten fetters, combining the two "
+        "five-item lists already met separately. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten fetters"),
+        ("p", "&sect;1", "an10.13:1.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What ten fetters does this discourse name?",
+         "opts": [
+             "Ten entirely new items not met before",
+             "The five lower fetters and the five higher fetters, each "
+             "already met separately at AN 9.67 and AN 9.70",
+             "The five hindrances plus five shackles of the heart",
+             "The ten qualities that serve as protector"],
+         "correct": 1,
+         "expl": "A simple combination of two familiar lists, not new "
+                 "content."},
+        {"q": "Where has this project already met the five lower "
+              "fetters and five higher fetters separately?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.67 (lower fetters) and AN 9.70 (higher fetters), "
+             "each paired there with mindfulness meditation",
+             "Only in a completely unrelated nipāta",
+             "At AN 10.1, the opening discourse"],
+         "correct": 1,
+         "expl": "Both halves already given in full detail earlier in "
+                 "this project."},
+        {"q": "What milestone does ending all ten fetters mark?",
+         "opts": [
+             "Stream-entry", "Once-return",
+             "Arahantship, full awakening",
+             "Non-return only"],
+         "correct": 2,
+         "expl": "Ending the five lower fetters alone marks non-return; "
+                 "all ten together marks full liberation."},
+        {"q": "How does this discourse present its content, unlike "
+              "most others so far in this chapter?",
+         "opts": [
+             "With an extended simile",
+             "As a bare list, with no simile, narrative, or "
+             "explanation of why each fetter binds",
+             "As a narrative dialogue",
+             "In verse throughout"],
+         "correct": 1,
+         "expl": "The briefest and simplest treatment in this chapter "
+                 "so far."},
+        {"q": "What is the tenth and final fetter named?",
+         "opts": [
+             "Sensual desire", "Conceit",
+             "Ignorance", "Restlessness"],
+         "correct": 2,
+         "expl": "Closing the complete tenfold list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, the briefest in this chapter so far."},
+    ],
+    marginalia=[
+        ("Two familiar lists, joined", [
+            "view, doubt, rites clung to,",
+            "desire, ill will &mdash; then",
+            "form, formless, conceit, more",
+        ]),
+        ("Nothing new here", [
+            "already met at",
+            "AN 9.67, 9.70 &mdash;",
+            "simply combined now",
+        ]),
+        ("A milestone, tracked before", [
+            "five ends non-return;",
+            "all ten, full awakening &mdash;",
+            "the same goal, named again",
+        ]),
+        ("Cross-references", [
+            "AN 9.67, AN 9.70 &middot; this discourse's two component "
+            "lists, each given in full",
+            "AN 9.12 &middot; the same milestone traced with far more "
+            "granularity",
+            "AN 10.12 &middot; previous",
+            "AN 10.14 &middot; next, Hard-heartedness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.67.html">AN 9.67 &middot; Lower Fetters</a> &mdash; the first half '
+        "of this discourse's list, given in full.",
+        '<a href="an-9.70.html">AN 9.70 &middot; Higher Fetters</a> &mdash; the second half '
+        "of this discourse's list, given in full.",
+        '<a href="an-10.12.html">AN 10.12 &middot; Five Factors</a> &mdash; previous.',
+        '<a href="an-10.14.html">AN 10.14 &middot; Hard-heartedness</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.14 — Cetokhilasutta (combined version)
+# --------------------------------------------------------------------------- #
+page(
+    14, "Cetokhila", "Hard-heartedness",
+    vagga=VAGGA_2,
+    meta_title="AN 10.14 — Hard-heartedness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this discourse combining the five kinds of hard-heartedness "
+        "and five shackles of the heart into one ten-item teaching, "
+        "closed by a waxing-and-waning moon simile. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Ten items combined (five hard-heartedness, five "
+                 "shackles), given both destroyed and fulfilled, with a "
+                 "moon simile for each direction"),
+        ("Length", "~4 minutes to read"),
+        ("Ten by union, like AN 10.13", "The same combination method "
+         "as the fetters discourse, joining two five-item lists "
+         "already met separately in AN 9"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "substantial, with a memorable simile closing "
+                       "each half"),
+    ],
+    why=(
+        "A mendicant who has not given up five kinds of hard-"
+        "heartedness and not severed five shackles of the heart can "
+        "expect only decline in skillful qualities, like the moon "
+        "waning; one who has given up both sets can expect only "
+        "growth, like the moon waxing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has given up the five kinds of hard-"
+            "heartedness (doubt about the Teacher, the teaching, the "
+            "Saṅgha, the training, and anger at companions) and "
+            "severed the five shackles of the heart (unresolved greed "
+            "for sensual pleasures, the body, form, comfort and sleep, "
+            "and rebirth as a god through practice) can expect only "
+            "growth in skillful qualities."]),
+        ("Ten by union, matching AN 10.13's method", [
+            "As with the ten fetters at AN 10.13, this discourse "
+            "combines two five-item lists this project has already met "
+            "in full &mdash; the cetokhila from AN 9.71 and the cetaso "
+            "vinibandha from AN 9.72, AN 9.82, and AN 9.92 &mdash; here "
+            "joined into a single ten-item teaching for the first "
+            "time."]),
+        ("Both directions, and a moon for each", [
+            "Unlike AN 10.13's bare list, this discourse gives both "
+            "directions in full: what remains when the ten items "
+            "aren't given up, and what results when they are, each "
+            "closed by its own half of a single extended simile "
+            "&mdash; the waning moon losing beauty, roundness, and "
+            "luminosity night after night, and the waxing moon gaining "
+            "them in exactly the same way."]),
+        ("A vivid image for a familiar teaching", [
+            "This is the first time this project has met a moon simile "
+            "applied to the hard-heartedness and shackles teaching "
+            "&mdash; the content itself unchanged from AN 9.71 and AN "
+            "9.72's separate treatments, but framed here with an image "
+            "of gradual, night-by-night change that neither earlier "
+            "discourse used."]),
+    ],
+    terms=[
+        ("cetokhilā, cetaso vinibandhā",
+         "&ldquo;hard-heartedness, shackles of the heart&rdquo; "
+         "&mdash; the two five-item lists this discourse combines, "
+         "each already met separately in AN 9."),
+        ("satthari kaṅkhati vicikicchati",
+         "&ldquo;has doubts about the Teacher&rdquo; &mdash; the "
+         "first of the five kinds of hard-heartedness, identical to "
+         "AN 9.71's list."),
+        ("iminā sīlena vā vatena vā tapena vā brahmacariyena vā "
+         "devo vā bhavissāmi",
+         "&ldquo;by this precept or observance or fervent austerity "
+         "or spiritual practice, may I become one of the gods&rdquo; "
+         "&mdash; the fifth shackle, identical to AN 9.72's list."),
+        ("kāḷapakkhe candimā",
+         "&ldquo;the moon in the waning fortnight&rdquo; &mdash; the "
+         "simile for decline, its beauty and roundness diminishing "
+         "night after night."),
+        ("juṇhapakkhe candimā",
+         "&ldquo;the moon in the waxing fortnight&rdquo; &mdash; the "
+         "mirror-image simile for growth, gaining exactly what the "
+         "waning moon loses."),
+    ],
+    text_intro=(
+        "The discourse in full: ten combined items, given as both "
+        "obstacle and remedy, each closed by a moon simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten items, not given up: decline"),
+        ("p", "&sect;1", "an10.14:1.1-7.2"),
+        ("h3", "Ten items, given up: growth"),
+        ("p", "&sect;2", "an10.14:8.1-14.2"),
+    ],
+    quiz=[
+        {"q": "What ten items does this discourse combine?",
+         "opts": [
+             "Ten entirely new items",
+             "The five kinds of hard-heartedness and five shackles of "
+             "the heart, each already met separately in AN 9",
+             "The five lower and five higher fetters",
+             "The five hindrances and five aggregates"],
+         "correct": 1,
+         "expl": "The same combination method as AN 10.13's ten "
+                 "fetters, applied to a different pair of lists."},
+        {"q": "What simile closes each half of this discourse?",
+         "opts": [
+             "A burning pile of twigs",
+             "The waning moon for decline, the waxing moon for growth",
+             "A tree lacking branches",
+             "A stone post unmoved by storms"],
+         "correct": 1,
+         "expl": "A single extended image, split across both "
+                 "directions of the teaching."},
+        {"q": "How does this discourse's structure compare to AN "
+              "10.13's ten fetters?",
+         "opts": [
+             "Identical brevity, with no simile",
+             "Fuller — it gives both directions in full, each closed "
+             "by its own half of a moon simile",
+             "Even more compressed than AN 10.13",
+             "Unrelated in structure"],
+         "correct": 1,
+         "expl": "A richer treatment than the bare list at AN 10.13."},
+        {"q": "Where has this project already met the five kinds of "
+              "hard-heartedness and five shackles of the heart "
+              "separately?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.71 (hard-heartedness) and AN 9.72/9.82/9.92 "
+             "(shackles of the heart)",
+             "Only in a completely unrelated nipāta",
+             "At AN 10.1, the opening discourse"],
+         "correct": 1,
+         "expl": "Both lists given in full detail multiple times "
+                 "earlier in this project."},
+        {"q": "What is new about this discourse's treatment, compared "
+              "to those earlier ones?",
+         "opts": [
+             "The content itself changes significantly",
+             "The moon simile — the first time this project has met "
+             "this image applied to this particular teaching",
+             "The remedy changes to right effort",
+             "The obstacle-lists are shortened"],
+         "correct": 1,
+         "expl": "Same content, framed here with a vivid image of "
+                 "gradual, night-by-night change."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, despite its substantial "
+                 "length."},
+    ],
+    marginalia=[
+        ("Ten items, combined", [
+            "hard-heartedness, five;",
+            "shackles of the heart, five &mdash;",
+            "joined as one teaching",
+        ]),
+        ("A moon for each direction", [
+            "waning, night by night,",
+            "loses light and roundness &mdash;",
+            "waxing gains the same",
+        ]),
+        ("Old content, new image", [
+            "the same ten items met",
+            "before &mdash; now framed by",
+            "the moon's own cycle",
+        ]),
+        ("Cross-references", [
+            "AN 9.71 &middot; the same five kinds of hard-heartedness, "
+            "given in full",
+            "AN 9.72 &middot; the same five shackles of the heart, "
+            "given in full",
+            "AN 10.13 &middot; previous, the same combination method",
+            "AN 10.15 &middot; next, Diligence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.71.html">AN 9.71 &middot; Hard-heartedness</a> &mdash; the first '
+        "half of this discourse's list, given in full.",
+        '<a href="an-9.72.html">AN 9.72 &middot; Shackles of the Heart</a> &mdash; the '
+        "second half of this discourse's list, given in full.",
+        '<a href="an-10.13.html">AN 10.13 &middot; Fetters</a> &mdash; previous.',
+        '<a href="an-10.15.html">AN 10.15 &middot; Diligence</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.15 — Appamādasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Appamāda", "Diligence",
+    vagga=VAGGA_2,
+    meta_title="AN 10.15 — Diligence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Appamādasutta, the famous &lsquo;diligence is the root of "
+        "all skillful qualities&rsquo; teaching, expanded here into ten "
+        "cascading similes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Ten similes, each closing with the identical refrain "
+                 "about diligence"),
+        ("Length", "~2 minutes to read"),
+        ("A famous teaching, expanded to ten", "This teaching appears "
+         "elsewhere in the canon far more briefly; this version "
+         "multiplies its similes to reach this nipāta's own count"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "vivid, cumulative list of images, pleasant to "
+                       "read in sequence"),
+    ],
+    why=(
+        "All skillful qualities are rooted in diligence and meet at "
+        "diligence, just as the Buddha is the best of all beings, an "
+        "elephant's footprint the largest, a roof's peak where all "
+        "rafters meet, the best root, heartwood, and flower each named, "
+        "a wheel-turning monarch supreme over lesser kings, the moon "
+        "outshining the stars, the autumn sun dispelling darkness, and "
+        "all great rivers flowing to the ocean."),
+    guide=[
+        ("The teaching in one sentence", [
+            "All skillful qualities are rooted in diligence and meet "
+            "at diligence, which is said to be the best of them all "
+            "&mdash; a claim illustrated through ten different images "
+            "of one thing standing supreme among many."]),
+        ("A famous teaching, given its fullest treatment here", [
+            "The core claim &mdash; diligence as the root of all "
+            "skillful qualities &mdash; is one of the most quoted "
+            "teachings in the canon, often appearing in much briefer "
+            "form. This version develops it at unusual length, "
+            "multiplying its similes specifically to reach ten, "
+            "matching this nipāta's own number."]),
+        ("Ten images, one shared logic", [
+            "Each simile follows the identical structure: name "
+            "something supreme in its category (footprint, roof-peak, "
+            "root, heartwood, flower, monarch, moon, sun, river's "
+            "destination), then apply the identical comparison &mdash; "
+            "just as this excels, diligence excels among skillful "
+            "qualities. The opening simile, the elephant's footprint, "
+            "and the closing rivers-to-the-ocean image are all given "
+            "in full; the six similes in between (root, heartwood, "
+            "flower, monarch, moon, sun) are compressed to their "
+            "images alone, trusting the refrain already established."]),
+        ("From nature to kingship to cosmology", [
+            "The similes range widely: two are botanical (root, "
+            "heartwood, flower), one is political (the wheel-turning "
+            "monarch), two are astronomical (moon, sun), and one is "
+            "geographic (all rivers to the ocean) &mdash; a deliberately "
+            "varied catalogue rather than similes drawn from a single "
+            "domain, suggesting diligence's primacy is meant to be "
+            "recognized from every possible angle."]),
+    ],
+    terms=[
+        ("appamādamūlakā sabbe kusalā dhammā",
+         "&ldquo;all skillful qualities are rooted in diligence&rdquo; "
+         "&mdash; the discourse's own repeated refrain, closing every "
+         "one of its ten similes."),
+        ("hatthipadaṁ",
+         "&ldquo;an elephant's footprint&rdquo; &mdash; the second "
+         "simile, said to contain the footprints of all other walking "
+         "creatures."),
+        ("tagaramūlaṁ, lohitacandanaṁ, vassikaṁ",
+         "&ldquo;spikenard... red sandalwood... jasmine&rdquo; &mdash; "
+         "the best fragrant root, heartwood, and flower respectively, "
+         "three consecutive botanical similes."),
+        ("cakkavattī rājā",
+         "&ldquo;a wheel-turning monarch&rdquo; &mdash; the seventh "
+         "simile, supreme over all lesser kings who become his vassals."),
+        ("gaṅgā yamunā aciravatī sarabhū mahī",
+         "&ldquo;the Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī"
+         "&rdquo; &mdash; the five named great rivers of the tenth and "
+         "final simile, all flowing toward the ocean."),
+    ],
+    text_intro=(
+        "The discourse in full: ten similes, each closing with the "
+        "same refrain about diligence. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten similes of one thing supreme among many"),
+        ("p", "&sect;1", "an10.15:1.1-1.2"),
+        ("p", "&sect;2", "an10.15:2.1-2.2"),
+        ("p", "&sect;3", "an10.15:3.1-3.2"),
+        ("p", "&sect;4", "an10.15:4.1-4.2"),
+        ("p", "&sect;5", "an10.15:5.1-5.2"),
+        ("p", "&sect;6", "an10.15:6.1-6.2"),
+        ("p", "&sect;7", "an10.15:7.1-7.2"),
+        ("p", "&sect;8", "an10.15:8.1-8.2"),
+        ("p", "&sect;9", "an10.15:9.1-9.2"),
+        ("p", "&sect;10", "an10.15:10.1-10.2"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's central claim?",
+         "opts": [
+             "That wisdom is the root of all skillful qualities",
+             "That all skillful qualities are rooted in diligence and "
+             "meet at diligence",
+             "That ethics alone matters",
+             "That immersion is unnecessary"],
+         "correct": 1,
+         "expl": "One of the canon's most quoted teachings, developed "
+                 "here at unusual length."},
+        {"q": "How does this version of the teaching compare to its "
+              "more common appearances elsewhere in the canon?",
+         "opts": [
+             "Identical in every respect",
+             "This version develops the teaching at unusual length, "
+             "multiplying its similes specifically to reach ten",
+             "This version is much shorter",
+             "This version omits the core claim entirely"],
+         "correct": 1,
+         "expl": "Expanded specifically to match this nipāta's own "
+                 "number."},
+        {"q": "What domains do this discourse's ten similes draw from?",
+         "opts": [
+             "Only botanical images",
+             "A deliberately varied range — nature, kingship, "
+             "astronomy, and geography",
+             "Only images of monastic life",
+             "Only images related to fire"],
+         "correct": 1,
+         "expl": "Recognition of diligence's primacy from every "
+                 "possible angle."},
+        {"q": "Which similes are given in full, unlike the six in "
+              "between?",
+         "opts": [
+             "Only the monarch and the moon",
+             "The opening Buddha simile, the elephant's footprint, "
+             "the roof-peak, and the closing rivers-to-the-ocean image",
+             "None are given in full",
+             "Only the botanical similes"],
+         "correct": 1,
+         "expl": "The five middle similes (root, heartwood, flower, "
+                 "monarch, moon, sun) are compressed to their images "
+                 "alone, sharing the same refrain."},
+        {"q": "What five rivers does the tenth simile name?",
+         "opts": [
+             "Five unnamed rivers",
+             "The Ganges, Yamunā, Aciravatī, Sarabhū, and Mahī",
+             "Only the Ganges",
+             "Five rivers not found in the canon elsewhere"],
+         "correct": 1,
+         "expl": "All flowing toward the ocean, the simile's own point "
+                 "of comparison."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, structured entirely around "
+                 "its similes."},
+    ],
+    marginalia=[
+        ("One root, many images", [
+            "elephant's footprint,",
+            "roof-peak, root, heartwood, flower,",
+            "monarch, moon, sun, rivers",
+        ]),
+        ("Ten similes, one refrain", [
+            "&ldquo;all skillful qualities",
+            "rooted in diligence&rdquo; &mdash;",
+            "the same close, ten times",
+        ]),
+        ("Recognized from every angle", [
+            "nature, kingship, sky,",
+            "geography &mdash; diligence",
+            "supreme in each domain",
+        ]),
+        ("Cross-references", [
+            "AN 10.14 &middot; previous",
+            "AN 10.16 &middot; next, Worthy of Offerings Dedicated to "
+            "the Gods",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.14.html">AN 10.14 &middot; Hard-heartedness</a> &mdash; previous.',
+        '<a href="an-10.16.html">AN 10.16 &middot; Worthy of Offerings Dedicated to the '
+        "Gods</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.16 — Āhuneyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Āhuneyya", "Worthy of Offerings Dedicated to the Gods",
+    vagga=VAGGA_2,
+    meta_title=("AN 10.16 — Worthy of Offerings Dedicated to the Gods | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āhuneyyasutta, expanding this project's nine-fold "
+        "classification of worthy individuals to ten by adding the "
+        "Independent Buddha and splitting the ninth item in two. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list of ten kinds of person, no "
+                 "narrative and no similes"),
+        ("Length", "~30 seconds to read"),
+        ("The fullest classification of worthy persons yet", "This "
+         "list expands AN 9.10's nine individuals by adding the "
+         "Independent Buddha and splitting its final &lsquo;lamb of "
+         "the flock&rsquo; into four further gradations"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "dense classification, worth comparing directly "
+                       "against AN 9.9-10"),
+    ],
+    why=(
+        "Ten individuals are worthy of offerings, hospitality, "
+        "donation, and reverent greeting, the supreme field of merit "
+        "for the world: a fully awakened Buddha, an Independent "
+        "Buddha, one freed both ways, one freed by wisdom, a direct "
+        "witness, one attained to view, one freed by faith, a follower "
+        "by faith, a follower of teachings, and a lamb of the flock."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten kinds of person are worthy of offerings and the "
+            "supreme field of merit for the world: a fully awakened "
+            "Buddha, an Independent Buddha, one freed both ways, one "
+            "freed by wisdom, a direct witness, one attained to view, "
+            "one freed by faith, a follower by faith, a follower of "
+            "teachings, and a lamb of the flock."]),
+        ("Expanding AN 9.9-10's nine to ten", [
+            "This list builds directly on the nine-fold classification "
+            "already met at AN 9.9 and AN 9.10 &mdash; the four pairs "
+            "on the path to and fruit of awakening, plus a ninth member "
+            "&mdash; but reaches ten by two changes: adding an "
+            "Independent Buddha (paccekabuddha) at the very top, and "
+            "expanding the categories describing those still on the "
+            "path with several further gradations by conviction and "
+            "understanding."]),
+        ("Two kinds of Buddha, distinguished", [
+            "This discourse is the first in this project to "
+            "distinguish a fully awakened Buddha (sammāsambuddha) from "
+            "an Independent Buddha (paccekabuddha) &mdash; one who "
+            "awakens without a living teacher but, unlike a "
+            "sammāsambuddha, does not establish a teaching for others "
+            "to follow to the same awakening."]),
+        ("Terms already met, now assembled together", [
+            "Several items in this list are already familiar from this "
+            "project's own Sāmaññavagga chapter (AN 9.42-51): "
+            "&lsquo;freed both ways&rsquo; and &lsquo;freed by "
+            "wisdom&rsquo; matched AN 9.44-45's terms exactly, and "
+            "&lsquo;direct witness&rsquo; matches AN 9.43's own "
+            "kāyasakkhī &mdash; there defined through the nine "
+            "progressive attainments, here simply named as points on "
+            "a single graded scale."]),
+    ],
+    terms=[
+        ("sammāsambuddho, paccekabuddho",
+         "&ldquo;a fully awakened Buddha... an Independent Buddha"
+         "&rdquo; &mdash; the first two of the ten, distinguishing a "
+         "teaching Buddha from one who awakens without establishing a "
+         "path for others."),
+        ("ubhatobhāgavimutto, paññāvimutto, kāyasakkhī",
+         "&ldquo;one freed both ways, one freed by wisdom, a direct "
+         "witness&rdquo; &mdash; three terms identical to those defined "
+         "through the nine attainments at AN 9.43-45."),
+        ("diṭṭhippatto",
+         "&ldquo;one attained to view&rdquo; &mdash; a further "
+         "gradation not previously named in this project, describing "
+         "someone who has seen the truth but not yet fully realized "
+         "freedom."),
+        ("saddhāvimutto, saddhānusārī, dhammānusārī",
+         "&ldquo;one freed by faith, a follower by faith, a follower "
+         "of teachings&rdquo; &mdash; three further gradations "
+         "expanding what AN 9.9-10 named simply as the &lsquo;one "
+         "practicing&rsquo; for each fruit."),
+        ("gotrabhū",
+         "&ldquo;a lamb of the flock&rdquo; &mdash; the same "
+         "distinctive translation choice already met at AN 9.10, "
+         "closing this expanded list."),
+    ],
+    text_intro=(
+        "The discourse in full: ten kinds of person worthy of "
+        "offerings, expanding AN 9.9-10's nine-fold classification. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten worthy of offerings"),
+        ("p", "&sect;1", "an10.16:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What ten kinds of person does this discourse name?",
+         "opts": [
+             "Ten monastic ranks",
+             "A fully awakened Buddha, an Independent Buddha, and eight "
+             "further gradations of practitioner",
+             "Nine individuals repeated with no change",
+             "Ten kinds of layperson"],
+         "correct": 1,
+         "expl": "An expansion of AN 9.9-10's nine-fold classification "
+                 "by two members."},
+        {"q": "How does this list expand AN 9.9-10's nine individuals "
+              "to reach ten?",
+         "opts": [
+             "By simply repeating one item twice",
+             "By adding an Independent Buddha and further subdividing "
+             "the categories describing those still on the path",
+             "By removing the four pairs entirely",
+             "By adding a tenth unrelated topic"],
+         "correct": 1,
+         "expl": "Two structural changes distinguish this list from "
+                 "the earlier nine-fold version."},
+        {"q": "What distinguishes an Independent Buddha "
+              "(paccekabuddha) from a fully awakened Buddha, according "
+              "to the guide?",
+         "opts": [
+             "No distinction exists",
+             "An Independent Buddha awakens without a living teacher "
+             "but does not establish a teaching for others to follow",
+             "An Independent Buddha is inferior in every respect",
+             "Only a fully awakened Buddha can attain nirvana"],
+         "correct": 1,
+         "expl": "Two related but distinct categories, named together "
+                 "for the first time in this project."},
+        {"q": "Which three terms in this list match items already "
+              "defined at AN 9.43-45?",
+         "opts": [
+             "Only &lsquo;gotrabhū&rsquo;",
+             "Freed both ways, freed by wisdom, and direct witness",
+             "Fully awakened Buddha and Independent Buddha",
+             "None of the terms overlap"],
+         "correct": 1,
+         "expl": "The same terms, there defined through the nine "
+                 "progressive attainments, here simply named on a "
+                 "graded scale."},
+        {"q": "What ninth member, already met at AN 9.10, closes this "
+              "expanded list?",
+         "opts": [
+             "The ordinary person (puthujjana)",
+             "&lsquo;A lamb of the flock&rsquo; (gotrabhū)",
+             "A follower of teachings",
+             "One attained to view"],
+         "correct": 1,
+         "expl": "The same distinctive translation choice noted at AN "
+                 "9.10."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare classification, without narrative frame."},
+    ],
+    marginalia=[
+        ("Nine becomes ten", [
+            "an Independent Buddha",
+            "added, and the path itself",
+            "split into finer stages",
+        ]),
+        ("Two kinds of Buddha", [
+            "one teaches the path;",
+            "one awakens alone,",
+            "founding nothing new",
+        ]),
+        ("Terms already known", [
+            "freed both ways, by wisdom,",
+            "direct witness &mdash; met before,",
+            "now simply listed",
+        ]),
+        ("Cross-references", [
+            "AN 9.9, AN 9.10 &middot; the earlier nine-fold "
+            "classification this list expands",
+            "AN 9.43&ndash;45 &middot; three terms defined there "
+            "through the nine attainments",
+            "AN 10.15 &middot; previous",
+            "AN 10.17 &middot; next, A Protector (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.16/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.9.html">AN 9.9 &middot; Individuals</a> &mdash; the earlier '
+        "nine-fold classification this list expands.",
+        '<a href="an-9.10.html">AN 9.10 &middot; Worthy of Offerings Dedicated to the '
+        "Gods</a> &mdash; the earlier nine-fold version of this same discourse type.",
+        '<a href="an-10.15.html">AN 10.15 &middot; Diligence</a> &mdash; previous.',
+        '<a href="an-10.17.html">AN 10.17 &middot; A Protector (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.17 — Nāthasutta (1st) — this chapter's own namesake
+# --------------------------------------------------------------------------- #
+page(
+    17, "Nātha", "A Protector (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 10.17 — A Protector (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Nāthasutta, this chapter's own namesake, naming ten "
+        "qualities that serve as a mendicant's own protector. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Ten qualities named as a mendicant's own protector, "
+                 "each stated briefly"),
+        ("Length", "~2 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the chapter, <em>Nāthavagga</em>, the "
+                               "Chapter on a Protector"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear ten-item list, worth comparing with AN "
+                       "10.18's fuller version"),
+    ],
+    why=(
+        "A mendicant should live with a protector, since living without "
+        "one is suffering; ten qualities themselves serve as that "
+        "protector &mdash; ethical conduct, learning, good friends, "
+        "openness to correction, diligence in communal duties, love of "
+        "the teachings, energy, contentment, mindfulness, and wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant should live with a protector, since living "
+            "without one is suffering, and ten qualities themselves "
+            "serve as protector: ethical conduct, learning, good "
+            "friends, openness to correction, diligence in communal "
+            "duties, love of the teachings, energy, contentment, "
+            "mindfulness, and wisdom."]),
+        ("A protector that is not another person", [
+            "The discourse's real turn is conceptual: rather than "
+            "naming a teacher or companion as the protector a "
+            "mendicant needs, it names ten internal qualities "
+            "themselves as protective &mdash; the mendicant becomes "
+            "their own safeguard by cultivating each in turn."]),
+        ("This chapter's own namesake", [
+            "This discourse lends its own subject, nātha, protector, "
+            "to the chapter's name, Nāthavagga &mdash; though notably "
+            "positioned seventh within the chapter rather than as its "
+            "opener, following the same pattern already seen at AN "
+            "9.24 within the Nines."]),
+        ("A companion discourse follows immediately", [
+            "AN 10.18, next, restates this identical ten-item list, "
+            "elaborating what this discourse leaves as a bare listing "
+            "&mdash; the source's own peyyāla compresses several "
+            "elaborating phrases here that the following discourse "
+            "spells out in full."]),
+    ],
+    terms=[
+        ("nātho",
+         "&ldquo;a protector&rdquo; &mdash; this discourse's own title "
+         "term and the chapter's own name, referring not to another "
+         "person but to internal qualities."),
+        ("nāthakaraṇā dhammā",
+         "&ldquo;qualities that serve as protector&rdquo; &mdash; the "
+         "discourse's own framing for all ten items."),
+        ("sīlavā hoti, pātimokkhasaṁvarasaṁvuto",
+         "&ldquo;ethical, restrained in the monastic code&rdquo; "
+         "&mdash; the first quality, opening the list."),
+        ("kalyāṇamitto, kalyāṇasahāyo, kalyāṇasampavaṅko",
+         "&ldquo;good friends, companions, and associates&rdquo; "
+         "&mdash; the third quality, the same phrase already met at "
+         "AN 9.1."),
+        ("udayatthagāminiyā paññāya samannāgato",
+         "&ldquo;wise... the wisdom of arising and passing away&rdquo; "
+         "&mdash; the tenth and final quality, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: ten qualities that "
+        "serve as a mendicant's own protector. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten qualities that serve as protector"),
+        ("p", "&sect;1", "an10.17:1.1-11.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim serves as a mendicant's "
+              "protector?",
+         "opts": [
+             "A senior teacher assigned to them",
+             "Ten internal qualities themselves — ethics, learning, "
+             "good friends, openness to correction, and more",
+             "A physical amulet",
+             "The monastery's walls"],
+         "correct": 1,
+         "expl": "A conceptual turn: the protector is not another "
+                 "person but cultivated qualities."},
+        {"q": "What does the discourse say about living without a "
+              "protector?",
+         "opts": [
+             "It is preferable",
+             "It is suffering",
+             "It has no consequence",
+             "It is impossible"],
+         "correct": 1,
+         "expl": "The discourse's own opening declaration, framing "
+                 "why the ten qualities matter."},
+        {"q": "What does this discourse lend to its chapter's name?",
+         "opts": [
+             "Nothing in particular", "Its own subject, nātha "
+             "(protector), naming Nāthavagga",
+             "A disciple's name", "A place name"],
+         "correct": 1,
+         "expl": "Though positioned seventh in the chapter, not as its "
+                 "opener."},
+        {"q": "What relationship does this discourse have with AN "
+              "10.18?",
+         "opts": [
+             "No relationship at all",
+             "AN 10.18 restates the identical ten-item list, "
+             "elaborating what this discourse leaves compressed",
+             "AN 10.18 contradicts this discourse",
+             "AN 10.18 uses a completely different list"],
+         "correct": 1,
+         "expl": "A companion pair, this one abbreviated and the next "
+                 "given in full."},
+        {"q": "What is the third quality named?",
+         "opts": [
+             "Wisdom",
+             "Good friends, companions, and associates",
+             "Contentment",
+             "Mindfulness"],
+         "correct": 1,
+         "expl": "The same phrase already met at AN 9.1, opening this "
+                 "project's very first chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, opening this two-"
+                 "discourse companion pair."},
+    ],
+    marginalia=[
+        ("A protector, redefined", [
+            "not a person guarding you,",
+            "but ten qualities",
+            "cultivated within",
+        ]),
+        ("A chapter's own name", [
+            "nātha gives its name",
+            "to Nāthavagga &mdash;",
+            "though not as its opener",
+        ]),
+        ("A companion discourse next", [
+            "the same ten qualities,",
+            "elaborated in full &mdash;",
+            "see AN 10.18",
+        ]),
+        ("Cross-references", [
+            "AN 9.1 &middot; the same &ldquo;good friends&rdquo; "
+            "phrase, this project's very first chapter",
+            "AN 10.16 &middot; previous",
+            "AN 10.18 &middot; next, the same list given in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.16.html">AN 10.16 &middot; Worthy of Offerings Dedicated to the '
+        "Gods</a> &mdash; previous.",
+        '<a href="an-10.18.html">AN 10.18 &middot; A Protector (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.18 — Nāthasutta (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    18, "Nātha", "A Protector (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 10.18 — A Protector (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Nāthasutta, restating AN 10.17's ten protective "
+        "qualities in full narrative frame, each one earning a "
+        "mendicant the community's trust and instruction. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical ten qualities as AN 10.17, each now "
+                 "elaborated with a shared social consequence"),
+        ("Length", "~3 minutes to read"),
+        ("Full elaboration, and a narrative frame", "Unlike AN 10.17's "
+         "bare listing, this discourse gives a complete narrative "
+         "opening and explains what each quality earns a mendicant"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "same content as AN 10.17, worth reading for "
+                       "what it adds"),
+    ],
+    why=(
+        "The same ten protective qualities as AN 10.17 recur, each now "
+        "explained: knowing a mendicant has fulfilled a given quality, "
+        "senior, middle, and junior mendicants alike consider them "
+        "worth advising and instructing, and being treated with such "
+        "kindness, that mendicant can expect only growth, not decline."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same ten qualities as AN 10.17 &mdash; ethics, "
+            "learning, good friends, openness to correction, diligence "
+            "in duties, love of the teachings, energy, contentment, "
+            "mindfulness, and wisdom &mdash; each earn a mendicant the "
+            "community's trust and willingness to instruct them, "
+            "ensuring only growth in skillful qualities."]),
+        ("The same list, now with its social mechanism explained", [
+            "AN 10.17 named the ten qualities as protective without "
+            "explaining how; this discourse supplies the missing "
+            "mechanism for every single item: knowing a mendicant "
+            "possesses a given quality, mendicants of every seniority "
+            "consider them worth advising, and that ongoing "
+            "instruction is what actually protects them from decline."]),
+        ("A full narrative frame, unlike AN 10.17", [
+            "This discourse also restores the standard narrative "
+            "opening &mdash; the setting at Sāvatthī, the Buddha "
+            "addressing the mendicants, their reply &mdash; that AN "
+            "10.17 omitted entirely, along with the standard closing "
+            "formula of the mendicants' satisfaction."]),
+        ("Protection through community, not isolation", [
+            "Read together with AN 10.17, this pair makes a pointed "
+            "claim: the ten qualities don't simply protect a mendicant "
+            "in isolation, but function by drawing the surrounding "
+            "community's guidance toward them &mdash; a protector "
+            "built from cultivated qualities that in turn earns "
+            "external support, not one or the other alone."]),
+    ],
+    terms=[
+        ("nāthakaraṇā dhammā",
+         "&ldquo;qualities that serve as protector&rdquo; &mdash; the "
+         "identical framing phrase as AN 10.17."),
+        ("theragopi majjhimagopi navagopi bhikkhū sotabbaṁ maññanti",
+         "&ldquo;the mendicants &mdash; whether senior, middle, or "
+         "junior &mdash; think that mendicant is worth advising and "
+         "instructing&rdquo; &mdash; the shared social mechanism this "
+         "discourse adds for every one of the ten qualities."),
+        ("sotabbaṁ maññamānā ovadanti anusāsanti",
+         "&ldquo;being treated with such kindness... can expect only "
+         "growth, not decline&rdquo; &mdash; the direct link between "
+         "receiving instruction and continued growth."),
+        ("evaṁ vutte, te bhikkhū bhagavato bhāsitaṁ abhinandunti",
+         "&ldquo;satisfied, the mendicants approved what the Buddha "
+         "said&rdquo; &mdash; the standard closing formula, absent "
+         "from AN 10.17's own more abbreviated version."),
+        ("udayatthagāminiyā paññāya samannāgato",
+         "&ldquo;the wisdom of arising and passing away&rdquo; "
+         "&mdash; the tenth and final quality, identical to AN 10.17's "
+         "closing item."),
+    ],
+    text_intro=(
+        "The discourse in full: the same ten qualities as AN 10.17, "
+        "each explained through its social consequence. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A full narrative frame"),
+        ("p", "&sect;1", "an10.18:1.1-2.4"),
+        ("h3", "Ten qualities, each earning trust"),
+        ("p", "&sect;2", "an10.18:2.5-11.4"),
+        ("h3", "Closing"),
+        ("p", "&sect;3", "an10.18:12.1-12.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's ten qualities compare to AN "
+              "10.17's?",
+         "opts": [
+             "Entirely different qualities",
+             "Word-for-word identical, now each explained through a "
+             "shared social mechanism",
+             "Only five qualities are shared",
+             "A contradiction of AN 10.17"],
+         "correct": 1,
+         "expl": "The same ten qualities, given fuller elaboration "
+                 "here."},
+        {"q": "What social mechanism does this discourse add for each "
+              "quality?",
+         "opts": [
+             "Nothing is added",
+             "Mendicants of every seniority consider someone with that "
+             "quality worth advising and instructing, ensuring growth",
+             "A material reward is given",
+             "A formal ceremony is held"],
+         "correct": 1,
+         "expl": "The missing explanation for how each quality "
+                 "actually protects a mendicant."},
+        {"q": "What does this discourse restore that AN 10.17 omits?",
+         "opts": [
+             "Nothing; both are identical in structure",
+             "A full narrative frame — setting, the Buddha addressing "
+             "the mendicants, and the standard closing formula",
+             "A completely different list of qualities",
+             "A dialogue with a named disciple"],
+         "correct": 1,
+         "expl": "AN 10.17 gives a bare listing; this discourse "
+                 "supplies the standard narrative wrapper."},
+        {"q": "According to the guide, what pointed claim does this "
+              "pair of discourses make together?",
+         "opts": [
+             "That a mendicant should avoid all community contact",
+             "That the ten qualities function by drawing the "
+             "surrounding community's guidance toward the mendicant, "
+             "not protecting them in isolation",
+             "That only senior mendicants can be protected",
+             "That protection requires no cultivated qualities at all"],
+         "correct": 1,
+         "expl": "Protection built from cultivated qualities that in "
+                 "turn earns community support."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, at the Great Wood",
+             "No setting is given, matching AN 10.17"],
+         "correct": 1,
+         "expl": "The standard narrative setting AN 10.17 itself "
+                 "omits."},
+        {"q": "What closes this discourse, unlike AN 10.17?",
+         "opts": [
+             "Nothing different",
+             "The standard formula: the mendicants, satisfied, "
+             "approved what the Buddha said",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "The complete narrative frame, opening and closing "
+                 "this fuller version."},
+    ],
+    marginalia=[
+        ("The same ten, explained", [
+            "each quality earns",
+            "trust from every mendicant &mdash;",
+            "senior, middle, junior",
+        ]),
+        ("Instruction as protection", [
+            "trusted, they're advised;",
+            "advised, they only grow &mdash;",
+            "the missing mechanism",
+        ]),
+        ("A full frame, restored", [
+            "Sāvatthī, the Buddha",
+            "speaking, and their assent &mdash;",
+            "what 10.17 left bare",
+        ]),
+        ("Cross-references", [
+            "AN 10.17 &middot; the identical ten qualities, there "
+            "listed without explanation",
+            "AN 10.19 &middot; next, Abodes of the Noble Ones (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.17.html">AN 10.17 &middot; A Protector (1st)</a> &mdash; previous, '
+        "the same ten qualities without their social mechanism explained.",
+        '<a href="an-10.19.html">AN 10.19 &middot; Abodes of the Noble Ones (1st)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.19 — Ariyavāsasutta (1st)
+# --------------------------------------------------------------------------- #
+page(
+    19, "Ariyavāsa", "Abodes of the Noble Ones (1st)",
+    vagga=VAGGA_2,
+    meta_title=("AN 10.19 — Abodes of the Noble Ones (1st) | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Ariyavāsasutta, a bare list of the ten abodes in "
+        "which noble ones of every era dwell, from the five hindrances "
+        "given up to freedom in mind and by wisdom. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list, no narrative and no elaboration"),
+        ("Length", "~30 seconds to read"),
+        ("A timeless claim", "The discourse names these ten abodes as "
+         "shared by noble ones of the past, present, and future alike"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and dense, best read alongside AN "
+                       "10.20's full elaboration"),
+    ],
+    why=(
+        "There are ten abodes of the noble ones, in which the noble "
+        "ones of the past, present, and future all abide: having given "
+        "up five factors, being endowed with six factors, having a "
+        "single guard, four supports, having cast aside idiosyncratic "
+        "interpretations of the truth, having totally given up "
+        "searching, having pure intentions, having stilled the physical "
+        "process, and being well freed in mind and by wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten abodes are shared by every noble one of the past, "
+            "present, and future: five factors given up, six factors "
+            "possessed, a single guard, four supports, dogmatic views "
+            "cast aside, searching abandoned, intentions purified, the "
+            "physical process stilled, and freedom in both mind and "
+            "wisdom."]),
+        ("Ten items named, none explained", [
+            "This discourse simply lists all ten abodes by name, "
+            "trusting either prior familiarity or its own companion "
+            "discourse to supply the content behind each phrase &mdash; "
+            "&lsquo;a single guard&rsquo; and &lsquo;four "
+            "supports&rsquo; in particular give no hint here of what "
+            "they actually name."]),
+        ("A timeless claim about all noble ones everywhere", [
+            "The discourse's opening frame is unusually sweeping: not "
+            "a description of one mendicant's own progress, but a "
+            "claim about every noble one across all three times "
+            "&mdash; past, present, and future &mdash; abiding in "
+            "these same ten conditions without exception."]),
+        ("A companion discourse follows immediately", [
+            "AN 10.20, next, restates this identical ten-item list and "
+            "explains every single term in full &mdash; readers wanting "
+            "to know what &lsquo;a single guard&rsquo; or "
+            "&lsquo;stilled the physical process&rsquo; actually means "
+            "should read that discourse directly."]),
+    ],
+    terms=[
+        ("dasa ariyavāsā",
+         "&ldquo;ten abodes of the noble ones&rdquo; &mdash; this "
+         "discourse's own title term, naming a timeless dwelling shared "
+         "across all three times."),
+        ("pañcaṅgavippahīno",
+         "&ldquo;has given up five factors&rdquo; &mdash; the first "
+         "abode, left unexplained here."),
+        ("ekārakkho",
+         "&ldquo;has a single guard&rdquo; &mdash; the third abode, a "
+         "phrase whose meaning this discourse doesn't supply."),
+        ("catunissayo",
+         "&ldquo;has four supports&rdquo; &mdash; the fourth abode, "
+         "likewise unexplained here."),
+        ("suvimuttacitto, suvimuttapañño",
+         "&ldquo;well freed in mind and well freed by wisdom&rdquo; "
+         "&mdash; the ninth and tenth abodes, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten abodes of the noble ones, "
+        "named without elaboration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten abodes, named"),
+        ("p", "&sect;1", "an10.19:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about the ten "
+              "abodes?",
+         "opts": [
+             "That only the Buddha himself dwells in them",
+             "That every noble one of the past, present, and future "
+             "abides in these same ten conditions",
+             "That they apply only to monastics, never laypeople",
+             "That they are attained only after death"],
+         "correct": 1,
+         "expl": "A sweeping, timeless claim spanning all three eras."},
+        {"q": "How does this discourse present its ten items?",
+         "opts": [
+             "Each with a full explanation and simile",
+             "As a bare list, with no elaboration of what any phrase "
+             "actually means",
+             "As a narrative dialogue",
+             "In verse throughout"],
+         "correct": 1,
+         "expl": "Names alone, trusting the reader or a companion "
+                 "discourse to supply the content."},
+        {"q": "What does &lsquo;a single guard&rsquo; refer to, "
+              "according to this discourse's own text?",
+         "opts": [
+             "It is explained in detail here",
+             "This discourse gives no explanation at all",
+             "A literal monastery gatekeeper",
+             "A weapon for self-defense"],
+         "correct": 1,
+         "expl": "Left unexplained, requiring AN 10.20's fuller "
+                 "treatment."},
+        {"q": "What relationship does this discourse have with AN "
+              "10.20?",
+         "opts": [
+             "No relationship at all",
+             "AN 10.20 restates the identical ten-item list and "
+             "explains every term in full",
+             "AN 10.20 uses a completely different list",
+             "AN 10.20 contradicts this discourse"],
+         "correct": 1,
+         "expl": "A companion pair, matching AN 10.17-18's own "
+                 "structure earlier in this chapter."},
+        {"q": "What are the ninth and tenth abodes?",
+         "opts": [
+             "The five lower and five higher fetters",
+             "Being well freed in mind and well freed by wisdom",
+             "The four absorptions",
+             "The three knowledges"],
+         "correct": 1,
+         "expl": "Closing the list, though their content awaits AN "
+                 "10.20's explanation."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare, timeless declaration, without narrative "
+                 "frame."},
+    ],
+    marginalia=[
+        ("Ten abodes, named", [
+            "five given up, six held,",
+            "a single guard, four supports,",
+            "and more, unexplained",
+        ]),
+        ("A timeless claim", [
+            "past, present, future &mdash;",
+            "every noble one dwells",
+            "in these same ten",
+        ]),
+        ("Names without content", [
+            "&lsquo;a single guard&rsquo; &mdash; what",
+            "does that even mean?",
+            "AN 10.20 answers",
+        ]),
+        ("Cross-references", [
+            "AN 10.18 &middot; previous",
+            "AN 10.20 &middot; next, the same list fully explained, "
+            "closing this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.18.html">AN 10.18 &middot; A Protector (2nd)</a> &mdash; previous.',
+        '<a href="an-10.20.html">AN 10.20 &middot; Abodes of the Noble Ones (2nd)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.20 — Ariyavāsasutta (2nd) — closes ch.2 Nāthavagga
+# --------------------------------------------------------------------------- #
+page(
+    20, "Ariyavāsa", "Abodes of the Noble Ones (2nd)",
+    vagga=VAGGA_2,
+    meta_title=("AN 10.20 — Abodes of the Noble Ones (2nd) | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Ariyavāsasutta, closing this chapter with a full "
+        "explanation of all ten abodes — including the four "
+        "undetermined questions cast aside as dogma. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Kurus, near the Kuru town of "
+                    "Kammāsadamma"),
+        ("Speakers", SPEAKER),
+        ("Form", "The same ten abodes as AN 10.19, each fully "
+                 "explained in turn"),
+        ("Length", "~4 minutes to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Nāthavagga</em>, the second chapter of the Tens; "
+         "the source's own untranslated closing verse names all ten "
+         "discourses of the chapter by their opening words"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "dense and doctrinally rich, closing this "
+                       "chapter's densest discourse"),
+    ],
+    why=(
+        "The same ten abodes of the noble ones named at AN 10.19 are "
+        "here fully explained: the five hindrances given up, "
+        "equanimity toward all six sense doors, mindfulness as the "
+        "single guard, the fourfold reflective use of requisites, the "
+        "four undetermined questions cast aside as dogma, searching "
+        "abandoned, intentions purified, the fourth absorption as the "
+        "physical process stilled, and freedom in both mind and wisdom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten abodes named at AN 10.19 are: the five hindrances "
+            "given up, equanimity toward all six sense doors, "
+            "mindfulness as the single guard, reflective use of the "
+            "four requisites, dogmatic views cast aside, searching for "
+            "sensuality, existence, and spiritual life abandoned, "
+            "intentions of sensuality, malice, and cruelty given up, "
+            "the fourth absorption as the stilled physical process, "
+            "and a mind and wisdom freed from greed, hate, and "
+            "delusion."]),
+        ("Six sense doors, met with equanimity", [
+            "The second abode extends a pattern already familiar from "
+            "this project: equanimity toward each of the six sense "
+            "doors in turn &mdash; sights, sounds, smells, tastes, "
+            "touches, and mental phenomena &mdash; neither happy nor "
+            "sad about any of them, remaining mindful and aware "
+            "throughout."]),
+        ("Four supports, the same reflective formula as AN 9.2", [
+            "The fourth abode's &lsquo;four supports&rsquo; turn out "
+            "to be the identical formula already met at AN 9.2: after "
+            "appraisal, using some things, enduring some things, "
+            "avoiding some things, and getting rid of some things "
+            "&mdash; a compact reprise of that earlier teaching on "
+            "reflective use of requisites."]),
+        ("Four undetermined questions, named explicitly", [
+            "This discourse's fifth abode is unusually specific for "
+            "this project: it names the classic four sets of "
+            "&lsquo;idiosyncratic interpretations&rsquo; the Buddha "
+            "famously declined to settle &mdash; whether the cosmos is "
+            "eternal or not, finite or infinite; whether the soul and "
+            "body are the same or different; and four positions on "
+            "whether a realized one exists, doesn't exist, both, or "
+            "neither after death. A noble one has cast aside all of "
+            "these dogmatic positions entirely, not adopted a fifth "
+            "one of their own."]),
+        ("Closing the chapter, in full detail", [
+            "With this discourse, <em>Nāthavagga</em>, the second "
+            "chapter, closes on its most doctrinally dense treatment "
+            "&mdash; the source's own untranslated colophon and "
+            "chapter-summary verse name all ten discourses of the "
+            "chapter by their opening words."]),
+    ],
+    terms=[
+        ("chasu dvāresu upekkhako",
+         "&ldquo;possesses six factors&rdquo; &mdash; equanimity "
+         "toward each of the six sense doors, the second abode's own "
+         "full explanation."),
+        ("satārakkhena cetasā samannāgato",
+         "&ldquo;a single guard&rdquo; &mdash; explained here as a "
+         "heart guarded specifically by mindfulness."),
+        ("paṭisaṅkhā yoniso sevati, adhivāseti, parivajjeti, vinodeti",
+         "&ldquo;after appraisal... uses... endures... avoids... gets "
+         "rid of&rdquo; &mdash; the four supports, identical to the "
+         "formula already met at AN 9.2."),
+        ("sassato loko... hoti ca na ca hoti tathāgato paraṁ maraṇā",
+         "&ldquo;the cosmos is eternal... after death, a realized one "
+         "both exists and no longer exists&rdquo; &mdash; the classic "
+         "undetermined questions this discourse names explicitly as "
+         "dogma to be cast aside."),
+        ("nāthavaggo dutiyo",
+         "&ldquo;the second chapter, Nāthavagga, is finished&rdquo; "
+         "&mdash; the source's own untranslated colophon closing this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the same ten abodes as AN 10.19, each "
+        "fully explained. The source's own closing colophon and "
+        "chapter-summary verse are untranslated in the English and "
+        "are described rather than quoted here. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten abodes, named and introduced"),
+        ("p", "&sect;1", "an10.20:1.1-2.3"),
+        ("h3", "Five factors given up, six possessed"),
+        ("p", "&sect;2", "an10.20:3.1-4.8"),
+        ("h3", "A single guard, four supports"),
+        ("p", "&sect;3", "an10.20:5.1-6.3"),
+        ("h3", "Dogma cast aside, searching abandoned"),
+        ("p", "&sect;4", "an10.20:7.1-8.3"),
+        ("h3", "Pure intentions, the physical process stilled"),
+        ("p", "&sect;5", "an10.20:9.1-10.3"),
+        ("h3", "Freed in mind and by wisdom"),
+        ("p", "&sect;6", "an10.20:11.1-13.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's second abode, six factors, "
+              "get explained?",
+         "opts": [
+             "As six kinds of wealth",
+             "As equanimity toward each of the six sense doors — "
+             "sights, sounds, smells, tastes, touches, mental "
+             "phenomena — remaining mindful and aware",
+             "As six monastic ranks",
+             "As six precepts"],
+         "correct": 1,
+         "expl": "A pattern of equanimity across all six senses, not a "
+                 "separate new list."},
+        {"q": "What formula turns out to explain the fourth abode, "
+              "&lsquo;four supports&rsquo;?",
+         "opts": [
+             "A completely new teaching",
+             "The identical reflective-use formula already met at AN "
+             "9.2 — using, enduring, avoiding, and getting rid of "
+             "things after appraisal",
+             "The four noble truths",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "A direct reprise of an earlier discourse's own "
+                 "teaching."},
+        {"q": "What does the fifth abode explicitly name, unusually "
+              "specifically for this project?",
+         "opts": [
+             "The four noble truths",
+             "The classic four sets of undetermined questions the "
+             "Buddha declined to settle — the cosmos's eternality, the "
+             "soul-body relationship, and the Realized One's status "
+             "after death",
+             "The four right efforts",
+             "The four bases of psychic power"],
+         "correct": 1,
+         "expl": "Named explicitly as dogma to be cast aside entirely, "
+                 "not resolved with a competing position."},
+        {"q": "What does a noble one do with these undetermined "
+              "questions, according to this discourse?",
+         "opts": [
+             "Adopts one position as correct",
+             "Casts aside, throws out, discards, and relinquishes all "
+             "of these dogmatic positions entirely",
+             "Debates them at length with outsiders",
+             "Ignores the question of whether they matter"],
+         "correct": 1,
+         "expl": "Complete relinquishment, not resolution by adopting "
+                 "a fifth alternative view."},
+        {"q": "What does this discourse close, and how?",
+         "opts": [
+             "Nothing; the chapter continues past it",
+             "<em>Nāthavagga</em>, the second chapter, with an "
+             "untranslated colophon and uddāna verse naming all ten "
+             "discourses",
+             "The entire nipāta",
+             "Only this single discourse, with no chapter-level effect"],
+         "correct": 1,
+         "expl": "The chapter's own closing colophon, left untranslated "
+                 "in the English."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "The land of the Kurus, near Kammāsadamma",
+             "Rājagaha, on Vulture's Peak",
+             "No setting is given"],
+         "correct": 1,
+         "expl": "A distinctive setting, closing this chapter's "
+                 "densest discourse."},
+    ],
+    marginalia=[
+        ("Six doors, one equanimity", [
+            "sight, sound, smell, taste,",
+            "touch, and thought &mdash; neither",
+            "happy nor sad at any",
+        ]),
+        ("Dogma, cast aside whole", [
+            "eternal or not, one",
+            "soul or two &mdash; none adopted,",
+            "all simply released",
+        ]),
+        ("A formula, reprised", [
+            "the same four supports",
+            "as AN 9.2 &mdash;",
+            "use, endure, avoid, discard",
+        ]),
+        ("Cross-references", [
+            "AN 9.2 &middot; the identical four-supports formula",
+            "AN 10.19 &middot; previous, the same ten abodes named "
+            "without explanation",
+            "AN 10.21 &middot; next, opening ch.3, Mahāvagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.20/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.2.html">AN 9.2 &middot; Supported</a> &mdash; the identical '
+        "four-supports formula, first met there.",
+        '<a href="an-10.19.html">AN 10.19 &middot; Abodes of the Noble Ones (1st)</a> '
+        "&mdash; previous.",
+    ],
+)
