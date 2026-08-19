@@ -7905,3 +7905,1989 @@ page(
         "Forest</a> &mdash; previous.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.5 — Sāmaññavagga (AN 9.42-51), closing the First Fifty. Ten discourses,
+# every one an Udāyī-to-Ānanda dialogue defining a different technical term
+# by running the same nine attainments through a shared qualified-vs-
+# definitive structure. The chapter's own name, "Similarity," names this
+# structural sameness directly. AN 9.48-50 are the most minimal stubs met
+# anywhere in this project so far -- literally one segment of English text
+# each, an ordinal number, and nothing else, relying entirely on the shared
+# template established at AN 9.42-47.
+# --------------------------------------------------------------------------- #
+VAGGA_5 = "<em>Sāmaññavagga</em> &mdash; the fifth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.42 — Sambādhasutta — the template-setter for this whole chapter
+# --------------------------------------------------------------------------- #
+page(
+    42, "Sambādha", "Cramped",
+    vagga=VAGGA_5,
+    meta_title="AN 9.42 — Cramped | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sambādhasutta, opening a chapter of near-identical dialogues by "
+        "naming exactly what still confines a mendicant at each of the "
+        "first eight attainments. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from Udāyī and "
+                    "Ānanda's setting at Kosambī, Ghosita's Monastery"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, "
+                     "quoting a godling's verse"),
+        ("Form", "A quoted verse, a question, and nine attainments each "
+                 "named as an opening &lsquo;in a qualified sense&rsquo; "
+                 "&mdash; except the last, definitive"),
+        ("Length", "~3 minutes to read"),
+        ("This chapter's template-setter", "Nine more discourses follow "
+         "this same qualified-versus-definitive structure, applied to a "
+         "different technical term each time"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "most detailed discourse in this chapter, worth "
+                       "reading closely before the rest"),
+    ],
+    why=(
+        "Quoting a godling's verse praising the Buddha for discovering "
+        "&lsquo;the opening amid confinement,&rsquo; Udāyī asks Ānanda "
+        "what confinement actually is &mdash; and Ānanda answers that "
+        "the five kinds of sensual stimulation are confinement, that "
+        "each of the first eight attainments offers only a qualified "
+        "opening because something specific still hasn't ceased there, "
+        "and that only the ninth, the cessation of perception and "
+        "feeling, is an opening in the fullest, definitive sense."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The five kinds of sensual stimulation are &lsquo;"
+            "confinement&rsquo;; each of the first eight attainments "
+            "opens a way out of confinement only in a qualified sense, "
+            "since some specific remaining factor &mdash; unceased "
+            "placing of the mind, rapture, form-perception, and so on "
+            "&mdash; is itself still confinement there; only the "
+            "cessation of perception and feeling opens it in a fully "
+            "definitive sense."]),
+        ("A quoted verse, taken seriously", [
+            "Udāyī doesn't simply ask Ānanda to define a term in the "
+            "abstract; he quotes a specific verse attributed to the "
+            "godling Pañcālacaṇḍa praising the Buddha as &lsquo;the sage, "
+            "the solitary boss bull&rsquo; who discovered this opening "
+            "&mdash; grounding the whole technical discussion that "
+            "follows in a devotional and poetic source, not just "
+            "doctrine for its own sake."]),
+        ("What specifically still confines, at each stage", [
+            "Unlike most of this chapter's remaining discourses, this "
+            "one doesn't merely repeat a bare formula at each "
+            "attainment; it names the specific residual factor that "
+            "still counts as confinement there &mdash; unceased placing "
+            "of the mind at the first absorption, unceased rapture at "
+            "the second, unceased bliss-with-equanimity at the third, "
+            "and so on through unceased perception at each of the "
+            "formless dimensions."]),
+        ("This chapter's own template, set here first", [
+            "The phrase this discourse repeats at each stage &mdash; "
+            "&lsquo;to this extent the Buddha spoke of X in a qualified "
+            "sense... but it is still confined... only at the ninth "
+            "stage, in a definitive sense&rsquo; &mdash; is the exact "
+            "structural template that AN 9.43 through AN 9.51 all reuse, "
+            "substituting a different technical term for "
+            "&lsquo;confinement&rsquo; each time. This chapter's own "
+            "name, <em>Sāmaññavagga</em>, &ldquo;the Chapter on "
+            "Similarity,&rdquo; names this structural sameness directly."]),
+    ],
+    terms=[
+        ("sambādho",
+         "&ldquo;confinement, cramped&rdquo; &mdash; this discourse's "
+         "own title term, identified with the five kinds of sensual "
+         "stimulation."),
+        ("okāsādhigamo",
+         "&ldquo;the opening amid confinement&rdquo; &mdash; the "
+         "godling's own phrase, quoted by Udāyī, echoing Ānanda's "
+         "identical language at AN 9.37."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; the discourse's own "
+         "term for what the first eight attainments each offer, short of "
+         "the full opening."),
+        ("yo tattha vitakko avūpasanto, ayaṁ tattha sambādho",
+         "&ldquo;whatever placing of the mind has not ceased is the "
+         "confinement there&rdquo; &mdash; the specific residual factor "
+         "named for the first absorption."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved solely "
+         "for the ninth attainment, the cessation of perception and "
+         "feeling."),
+    ],
+    text_intro=(
+        "The discourse in full: a quoted verse, a question, and each of "
+        "the nine attainments named as a qualified opening except the "
+        "definitive ninth. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A quoted verse, and a question"),
+        ("p", "&sect;1", "an9.42:1.1-3.1"),
+        ("h3", "Confinement named, and what still confines"),
+        ("p", "&sect;2", "an9.42:3.2-4.5"),
+        ("p", "&sect;3", "an9.42:5.1-5.5"),
+        ("p", "&sect;4", "an9.42:6.1-6.5"),
+        ("p", "&sect;5", "an9.42:7.1-7.5"),
+        ("p", "&sect;6", "an9.42:8.1-8.5"),
+        ("p", "&sect;7", "an9.42:9.1-9.5"),
+        ("p", "&sect;8", "an9.42:10.1-10.5"),
+        ("p", "&sect;9", "an9.42:11.1-11.5"),
+        ("h3", "The definitive opening"),
+        ("p", "&sect;10", "an9.42:12.1-12.2"),
+    ],
+    quiz=[
+        {"q": "What does Udāyī quote at the start of this discourse?",
+         "opts": [
+             "A rule from the monastic code",
+             "A verse attributed to the godling Pañcālacaṇḍa praising "
+             "the Buddha for discovering &lsquo;the opening amid "
+             "confinement&rsquo;",
+             "A parable about a cow",
+             "A mathematical riddle"],
+         "correct": 1,
+         "expl": "Grounding the technical discussion in a devotional, "
+                 "poetic source."},
+        {"q": "What does Ānanda identify as &lsquo;confinement&rsquo;?",
+         "opts": [
+             "Physical illness",
+             "The five kinds of sensual stimulation",
+             "Monastic rules",
+             "The nine attainments themselves"],
+         "correct": 1,
+         "expl": "The same five kāmaguṇā named as &lsquo;the "
+                 "world&rsquo; at AN 9.38."},
+        {"q": "How does this discourse describe the first eight "
+              "attainments, unlike most of this chapter's other "
+              "discourses?",
+         "opts": [
+             "As identical, with no distinguishing detail",
+             "Each names the specific residual factor still counting as "
+             "confinement there — unceased placing of the mind, rapture, "
+             "and so on",
+             "As entirely useless",
+             "As already fully definitive"],
+         "correct": 1,
+         "expl": "Unique specific content per stage, unlike the bare "
+                 "repeated formula found in most of the discourses that "
+                 "follow."},
+        {"q": "Which attainment alone offers the opening &lsquo;in a "
+              "definitive sense&rsquo;?",
+         "opts": [
+             "The first absorption",
+             "The fourth absorption",
+             "The cessation of perception and feeling, the ninth "
+             "attainment",
+             "The dimension of nothingness"],
+         "correct": 2,
+         "expl": "The same ninth attainment singled out repeatedly "
+                 "across this whole chapter."},
+        {"q": "According to the guide, what does this discourse set up "
+              "for the rest of the chapter?",
+         "opts": [
+             "Nothing; it stands alone",
+             "The exact qualified-versus-definitive structural template "
+             "that AN 9.43 through AN 9.51 all reuse with a different "
+             "technical term",
+             "A prohibition on discussing the formless attainments",
+             "A contradiction of AN 9.32's list"],
+         "correct": 1,
+         "expl": "This chapter's own name, &ldquo;Similarity,&rdquo; "
+                 "names this structural sameness directly."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers as AN 9.37, now with Udāyī "
+                 "asking rather than challenging."},
+    ],
+    marginalia=[
+        ("A godling's verse, quoted", [
+            "&ldquo;the solitary boss bull&rdquo; &mdash;",
+            "who found an opening",
+            "amid confinement",
+        ]),
+        ("What confines at each stage", [
+            "unceased thought, rapture,",
+            "bliss, form, each dimension's",
+            "own residual perception",
+        ]),
+        ("Qualified, then definitive", [
+            "eight stages, partial;",
+            "only the ninth, complete &mdash;",
+            "this chapter's own template",
+        ]),
+        ("Cross-references", [
+            "AN 9.37 &middot; the same &ldquo;opening amid "
+            "confinement&rdquo; phrase, first introduced there",
+            "AN 9.41 &middot; previous chapter's closing page",
+            "AN 9.43 &middot; next, the same template applied to a new "
+            "term",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.42/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.41.html">AN 9.41 &middot; With the Householder Tapussa</a> &mdash; '
+        "previous.",
+        '<a href="an-9.43.html">AN 9.43 &middot; A Direct Witness</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.43 — Kāyasakkhīsutta
+# --------------------------------------------------------------------------- #
+page(
+    43, "Kāyasakkhī", "A Direct Witness",
+    vagga=VAGGA_5,
+    meta_title="AN 9.43 — A Direct Witness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for A "
+        "Direct Witness, applying AN 9.42's qualified-versus-definitive "
+        "template to a new term — direct, personal experience of each "
+        "attainment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.42"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same qualified-versus-definitive template as AN "
+                 "9.42, now with a single uniform formula at each stage"),
+        ("Length", "~1 minute to read"),
+        ("The template, now compressed", "Where AN 9.42 gave a distinct "
+         "residual factor at each stage, this discourse applies one "
+         "identical phrase to all nine attainments alike"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "once AN 9.42's structure is understood"),
+    ],
+    why=(
+        "Udāyī asks what makes someone a &lsquo;direct witness,&rsquo; "
+        "and Ānanda answers with the same nine-stage structure as AN "
+        "9.42: a mendicant who directly experiences each attainment "
+        "&lsquo;in every way&rsquo; is a direct witness in a qualified "
+        "sense at each of the first eight stages, and in a definitive "
+        "sense only at the ninth, the cessation of perception and "
+        "feeling."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who meditates directly experiencing any of the "
+            "nine progressive attainments &lsquo;in every way&rsquo; is "
+            "called a direct witness in a qualified sense at each of the "
+            "first eight stages, and in a definitive sense only upon "
+            "reaching the cessation of perception and feeling."]),
+        ("The same template, now uniform", [
+            "Where AN 9.42 named a different specific residual factor "
+            "at each of the eight qualified stages, this discourse uses "
+            "the identical phrase &mdash; &lsquo;they meditate directly "
+            "experiencing that dimension in every way&rsquo; &mdash; at "
+            "every stage without variation, the compressed form this "
+            "chapter's remaining discourses will mostly follow."]),
+        ("Direct experience, not mere belief", [
+            "&lsquo;Direct witness&rsquo; names a specific quality: "
+            "personal, embodied experience of an attainment, not "
+            "secondhand report or intellectual conviction. The term "
+            "&lsquo;kāyasakkhī,&rsquo; literally &lsquo;body-"
+            "witness,&rsquo; underscores that this experiential "
+            "component is felt through the whole person, not reasoned "
+            "out abstractly."]),
+        ("Setting up a contrast with the next discourse", [
+            "This discourse's single criterion &mdash; direct "
+            "experience &mdash; sets up a deliberate contrast with AN "
+            "9.44's criterion of wisdom-understanding, and both are then "
+            "combined at AN 9.45's &lsquo;freed both ways,&rsquo; the "
+            "traditional doctrinal category naming someone who has both "
+            "qualities together."]),
+    ],
+    terms=[
+        ("kāyasakkhī",
+         "&ldquo;a direct witness&rdquo; &mdash; literally &ldquo;body-"
+         "witness,&rdquo; this discourse's own title term for personal, "
+         "embodied experience of an attainment."),
+        ("kāyena phusitvā viharati",
+         "&ldquo;meditate directly experiencing... in every way&rdquo; "
+         "&mdash; the single uniform formula applied to all nine "
+         "attainments in this discourse."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; the same term used "
+         "at AN 9.42, marking each of the first eight stages as partial."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved, as "
+         "always in this chapter, for the ninth attainment alone."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa "
+         "disvā āsavā parikkhīṇā honti",
+         "&ldquo;enters and remains in the cessation of perception and "
+         "feeling... their defilements come to an end&rdquo; &mdash; "
+         "the shared closing formula for the ninth stage, repeated "
+         "throughout this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template as AN "
+        "9.42, applied here to direct, personal experience. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A direct witness, at each of nine stages"),
+        ("p", "&sect;1", "an9.43:1.1-2.3"),
+        ("p", "&sect;2", "an9.43:3.1-4.3"),
+        ("p", "&sect;3", "an9.43:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse define?",
+         "opts": [
+             "Confinement", "A direct witness (literally &ldquo;body-"
+             "witness&rdquo;)",
+             "Freedom by wisdom", "Extinguishment"],
+         "correct": 1,
+         "expl": "Personal, embodied experience of an attainment."},
+        {"q": "How does this discourse's structure differ from AN "
+              "9.42's?",
+         "opts": [
+             "It has only three stages instead of nine",
+             "It uses one identical phrase at every stage, rather than a "
+             "different residual factor named at each one",
+             "It reverses the qualified-definitive order",
+             "It contradicts AN 9.42 entirely"],
+         "correct": 1,
+         "expl": "The compressed, uniform version of the template AN "
+                 "9.42 first set out with unique detail."},
+        {"q": "What single criterion does this discourse apply to all "
+              "nine attainments?",
+         "opts": [
+             "Understanding with wisdom",
+             "Directly experiencing that dimension &lsquo;in every "
+             "way&rsquo;",
+             "Teaching it to others",
+             "Physical strength"],
+         "correct": 1,
+         "expl": "Embodied, personal experience — not secondhand belief."},
+        {"q": "According to the guide, what does this discourse set up "
+              "for AN 9.44 and AN 9.45?",
+         "opts": [
+             "Nothing; they are unrelated",
+             "A deliberate contrast with AN 9.44's wisdom-criterion, "
+             "combined at AN 9.45 into the traditional &lsquo;freed both "
+             "ways&rsquo; category",
+             "A repetition with no new content",
+             "A correction of an error in AN 9.42"],
+         "correct": 1,
+         "expl": "Direct experience and wisdom-understanding, paired "
+                 "together at AN 9.45."},
+        {"q": "At which stage alone does this discourse call someone a "
+              "direct witness in the definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of nothingness",
+             "The cessation of perception and feeling",
+             "Every stage equally"],
+         "correct": 2,
+         "expl": "The ninth attainment, as throughout this chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta and Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same speakers continuing from AN 9.42."},
+    ],
+    marginalia=[
+        ("One phrase, nine stages", [
+            "&ldquo;experiencing in",
+            "every way&rdquo; &mdash; the same words",
+            "repeated nine times",
+        ]),
+        ("Body-witness", [
+            "kāyasakkhī &mdash;",
+            "felt through the whole person,",
+            "not reasoned abstractly",
+        ]),
+        ("Setting up a pairing", [
+            "experience here; wisdom",
+            "at AN 9.44 &mdash;",
+            "combined at AN 9.45",
+        ]),
+        ("Cross-references", [
+            "AN 9.42 &middot; previous, the template this discourse "
+            "reuses in compressed form",
+            "AN 9.44 &middot; next, Freed by Wisdom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.43/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.42.html">AN 9.42 &middot; Cramped</a> &mdash; previous, this '
+        "chapter's own template.",
+        '<a href="an-9.44.html">AN 9.44 &middot; Freed by Wisdom</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.44 — Paññāvimuttasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, "Paññāvimutta", "Freed by Wisdom",
+    vagga=VAGGA_5,
+    meta_title="AN 9.44 — Freed by Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Freed by Wisdom, applying this chapter's shared template to "
+        "understanding rather than direct experience — and quietly "
+        "redefining a term that usually names a distinct category of "
+        "practitioner. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.43"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same qualified-versus-definitive template, applied "
+                 "here to understanding rather than experience"),
+        ("Length", "~1 minute to read"),
+        ("A term used differently here", "Elsewhere in the canon, "
+         "&lsquo;freed by wisdom&rsquo; usually names a specific "
+         "category of arahant; here it is redefined to apply, in a "
+         "qualified sense, at every one of the nine stages"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but worth noticing the terminological "
+                       "shift"),
+    ],
+    why=(
+        "Udāyī asks what makes someone &lsquo;freed by wisdom,&rsquo; "
+        "and Ānanda answers with the same nine-stage structure again: a "
+        "mendicant who understands each attainment with wisdom is freed "
+        "by wisdom in a qualified sense at each of the first eight "
+        "stages, and in a definitive sense only at the ninth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who understands with wisdom whatever occurs in "
+            "any of the nine progressive attainments is called freed by "
+            "wisdom in a qualified sense at each of the first eight "
+            "stages, and in a definitive sense only upon reaching the "
+            "cessation of perception and feeling."]),
+        ("The same template, a new criterion", [
+            "Following directly on AN 9.43's pattern, this discourse "
+            "swaps &lsquo;directly experiencing&rsquo; for "
+            "&lsquo;understanding with wisdom&rsquo; as the single "
+            "criterion applied uniformly across all nine stages, "
+            "otherwise repeating the identical qualified-then-definitive "
+            "structure."]),
+        ("A familiar term, applied unusually", [
+            "Elsewhere in the canon, &lsquo;paññāvimutta,&rsquo; freed "
+            "by wisdom, typically names a specific category of arahant "
+            "&mdash; one who has ended the defilements through insight "
+            "without necessarily having mastered the formless "
+            "attainments or direct witnessing. This discourse's usage is "
+            "notably looser: it applies the phrase at every one of the "
+            "nine stages, qualified or definitive, rather than reserving "
+            "it for a single doctrinal category of person."]),
+        ("Why this looseness matters for reading the chapter", [
+            "This chapter's whole project is defining terms by running "
+            "them through the same nine-stage grid, and readers "
+            "expecting each term to retain its more familiar, narrower "
+            "doctrinal sense from elsewhere in the canon should notice "
+            "when, as here, the chapter's own usage is broader or "
+            "different &mdash; a caution worth carrying into AN 9.45's "
+            "combination of this discourse with AN 9.43's."]),
+    ],
+    terms=[
+        ("paññāvimutto",
+         "&ldquo;freed by wisdom&rdquo; &mdash; this discourse's own "
+         "title term, elsewhere in the canon usually naming a distinct "
+         "category of arahant."),
+        ("paññāya ca naṁ pajānāti",
+         "&ldquo;and they understand that with wisdom&rdquo; &mdash; "
+         "the single criterion applied uniformly across all nine stages "
+         "in this discourse."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; as at AN 9.42 and "
+         "AN 9.43, marking each of the first eight stages as partial."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment alone, as throughout this chapter."),
+        ("āsavā parikkhīṇā honti",
+         "&ldquo;their defilements come to an end&rdquo; &mdash; the "
+         "outcome marking the ninth and definitive stage, shared with "
+         "every other discourse in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template, applied "
+        "here to understanding rather than direct experience. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Freed by wisdom, at each of nine stages"),
+        ("p", "&sect;1", "an9.44:1.1-2.3"),
+        ("p", "&sect;2", "an9.44:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse define?",
+         "opts": [
+             "A direct witness", "Freed by wisdom",
+             "Confinement", "Full extinguishment"],
+         "correct": 1,
+         "expl": "Understanding with wisdom, applied across all nine "
+                 "stages."},
+        {"q": "What criterion replaces AN 9.43's &lsquo;directly "
+              "experiencing&rsquo; in this discourse?",
+         "opts": [
+             "Physical strength",
+             "Understanding with wisdom",
+             "Teaching ability",
+             "Length of monastic ordination"],
+         "correct": 1,
+         "expl": "The same nine-stage grid, a different single "
+                 "criterion applied throughout."},
+        {"q": "How does this discourse's usage of &lsquo;freed by "
+              "wisdom&rsquo; differ from its more familiar sense "
+              "elsewhere in the canon?",
+         "opts": [
+             "They are identical in every respect",
+             "Elsewhere it usually names a specific category of "
+             "arahant; here it applies more loosely, at every one of "
+             "the nine stages",
+             "This discourse never uses the term at all",
+             "The canon elsewhere never uses this term"],
+         "correct": 1,
+         "expl": "A notable terminological broadening worth watching "
+                 "for."},
+        {"q": "According to the guide, what caution does this looser "
+              "usage suggest for reading this chapter?",
+         "opts": [
+             "That the chapter is unreliable",
+             "That readers should notice when a term's usage here is "
+             "broader or different from its more familiar sense "
+             "elsewhere in the canon",
+             "That the term should be ignored entirely",
+             "That translation itself is impossible"],
+         "correct": 1,
+         "expl": "A caution carried forward into AN 9.45's combination "
+                 "of this discourse with AN 9.43's."},
+        {"q": "At which stage alone is someone &lsquo;freed by "
+              "wisdom&rsquo; in the definitive sense, according to this "
+              "discourse?",
+         "opts": [
+             "The first absorption",
+             "The dimension of infinite consciousness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern across this whole "
+                 "chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers continuing through this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("A new criterion", [
+            "not experience now,",
+            "but understanding &mdash; the same",
+            "nine stages, once more",
+        ]),
+        ("A term used loosely", [
+            "elsewhere, one category;",
+            "here, applied nine times over &mdash;",
+            "watch the shift",
+        ]),
+        ("Toward a combination", [
+            "experience, then wisdom &mdash;",
+            "both together, next,",
+            "at AN 9.45",
+        ]),
+        ("Cross-references", [
+            "AN 9.43 &middot; previous, the same template applied to "
+            "direct experience",
+            "AN 9.45 &middot; next, combining both criteria",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.44/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.43.html">AN 9.43 &middot; A Direct Witness</a> &mdash; previous.',
+        '<a href="an-9.45.html">AN 9.45 &middot; Freed Both Ways</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.45 — Ubhatobhāgavimuttasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, "Ubhatobhāgavimutta", "Freed Both Ways",
+    vagga=VAGGA_5,
+    meta_title="AN 9.45 — Freed Both Ways | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Freed Both Ways, combining AN 9.43's direct experience with AN "
+        "9.44's wisdom-understanding into the traditional doctrinal "
+        "category naming both qualities together. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.44"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same template again, this time combining both of "
+                 "the two previous discourses' criteria at every stage"),
+        ("Length", "~1 minute to read"),
+        ("A genuine combination, not just a third variant", "This "
+         "discourse doesn't introduce a new criterion; it explicitly "
+         "requires both AN 9.43's direct experience and AN 9.44's "
+         "wisdom-understanding together"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and best read as the payoff of the "
+                       "previous two discourses"),
+    ],
+    why=(
+        "Udāyī asks what makes someone &lsquo;freed both ways,&rsquo; "
+        "and Ānanda answers by combining the previous two discourses' "
+        "criteria explicitly: a mendicant who both directly experiences "
+        "an attainment and understands it with wisdom is freed both ways "
+        "in a qualified sense at each of the first eight stages, and in "
+        "a definitive sense only at the ninth."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who both meditates directly experiencing any "
+            "of the nine attainments and understands it with wisdom is "
+            "called freed both ways in a qualified sense at each of the "
+            "first eight stages, and in a definitive sense only upon "
+            "reaching the cessation of perception and feeling."]),
+        ("A deliberate synthesis, not a third option", [
+            "This discourse isn't a third independent variant sitting "
+            "alongside AN 9.43 and AN 9.44; it names its own formula as "
+            "the literal conjunction of both &mdash; direct experience "
+            "and wisdom-understanding, together, at every one of the "
+            "nine stages &mdash; making the three-discourse sequence "
+            "read almost like a syllogism: criterion one, criterion two, "
+            "both criteria combined."]),
+        ("A category familiar from elsewhere in the canon", [
+            "Unlike AN 9.44's somewhat looser use of &lsquo;freed by "
+            "wisdom,&rsquo; &lsquo;ubhatobhāgavimutta&rsquo; is a well-"
+            "established doctrinal category elsewhere in the canon, "
+            "naming an arahant who has mastered both the formless "
+            "attainments (or, in some accounts, all eight liberations) "
+            "and full wisdom &mdash; here extended across all nine "
+            "stages, qualified or definitive, following this chapter's "
+            "consistent method."]),
+        ("Three discourses, one deliberate progression", [
+            "Read together, AN 9.43 through AN 9.45 form a small "
+            "deliberate unit within this larger chapter: experience "
+            "alone, wisdom alone, then both united &mdash; a "
+            "progression this chapter's remaining discourses, defining "
+            "further distinct terms, don't repeat again."]),
+    ],
+    terms=[
+        ("ubhatobhāgavimutto",
+         "&ldquo;freed both ways&rdquo; &mdash; this discourse's own "
+         "title term, a well-established doctrinal category combining "
+         "direct experience and wisdom."),
+        ("kāyena ca phusitvā viharati, paññāya ca naṁ pajānāti",
+         "&ldquo;they meditate directly experiencing... and they "
+         "understand that with wisdom&rdquo; &mdash; the explicit "
+         "combination of AN 9.43's and AN 9.44's separate criteria."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; as throughout this "
+         "chapter, marking each of the first eight stages as partial."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment alone."),
+        ("āsavā parikkhīṇā honti",
+         "&ldquo;their defilements come to an end&rdquo; &mdash; the "
+         "shared closing formula for the ninth and final stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template, combining "
+        "AN 9.43's and AN 9.44's separate criteria. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Freed both ways, at each of nine stages"),
+        ("p", "&sect;1", "an9.45:1.1-2.3"),
+        ("p", "&sect;2", "an9.45:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's formula combine?",
+         "opts": [
+             "Two entirely new criteria not seen before",
+             "AN 9.43's direct experience and AN 9.44's wisdom-"
+             "understanding, together at every stage",
+             "Only AN 9.42's confinement criterion, repeated",
+             "Nothing; it introduces an unrelated new term"],
+         "correct": 1,
+         "expl": "A deliberate synthesis of the two preceding "
+                 "discourses, not a third independent variant."},
+        {"q": "How does &lsquo;ubhatobhāgavimutta&rsquo; compare to AN "
+              "9.44's use of &lsquo;paññāvimutta&rsquo;?",
+         "opts": [
+             "Both are used equally loosely",
+             "Unlike AN 9.44's looser usage, this term is a well-"
+             "established doctrinal category elsewhere in the canon",
+             "This term is never used elsewhere in the canon",
+             "They are simply synonyms with no distinction"],
+         "correct": 1,
+         "expl": "A recognized category combining formless mastery and "
+                 "wisdom, here extended across all nine stages."},
+        {"q": "According to the guide, how do AN 9.43 through AN 9.45 "
+              "read together?",
+         "opts": [
+             "As three unrelated, disconnected teachings",
+             "Almost like a syllogism: criterion one, criterion two, "
+             "both criteria combined",
+             "As three contradictory definitions of the same term",
+             "As a single discourse split into three pages by accident"],
+         "correct": 1,
+         "expl": "A small deliberate progression within the larger "
+                 "chapter."},
+        {"q": "At which stage alone is someone &lsquo;freed both "
+              "ways&rsquo; in the definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of infinite space",
+             "The cessation of perception and feeling",
+             "Every stage equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern held throughout "
+                 "this chapter."},
+        {"q": "Does this chapter's remaining sequence of discourses "
+              "repeat this three-part progression again?",
+         "opts": [
+             "Yes, exactly the same way for every remaining term",
+             "No — the remaining discourses each define a further "
+             "distinct term without repeating this specific three-part "
+             "structure",
+             "The chapter ends immediately after this discourse",
+             "This is impossible to determine"],
+         "correct": 1,
+         "expl": "A unique small unit within the larger ten-discourse "
+                 "chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers continuing through this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Two criteria, united", [
+            "experience and wisdom &mdash;",
+            "not either alone, but",
+            "both together, at once",
+        ]),
+        ("A recognized category", [
+            "unlike the looser term",
+            "just before it &mdash; this one",
+            "well-known elsewhere too",
+        ]),
+        ("A small progression, closed", [
+            "one, then the other,",
+            "then both combined &mdash; three",
+            "discourses, one point",
+        ]),
+        ("Cross-references", [
+            "AN 9.43, AN 9.44 &middot; the two separate criteria this "
+            "discourse combines",
+            "AN 9.46 &middot; next, In the Present Life",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.45/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.44.html">AN 9.44 &middot; Freed by Wisdom</a> &mdash; previous.',
+        '<a href="an-9.46.html">AN 9.46 &middot; In the Present Life</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.46 — Sandiṭṭhikadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, "Sandiṭṭhikadhamma", "In the Present Life",
+    vagga=VAGGA_5,
+    meta_title="AN 9.46 — In the Present Life | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for In "
+        "the Present Life, applying this chapter's shared template to a "
+        "phrase usually reserved for the teaching as a whole — this time "
+        "with no descriptive content added at any stage. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.45"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same template again, now at its most compressed: "
+                 "no extra criterion or descriptive phrase at any stage"),
+        ("Length", "~30 seconds to read"),
+        ("The bare formula, stripped down further", "Where AN 9.43-45 "
+         "each added a specific criterion, this discourse simply names "
+         "each attainment itself as qualifiedly or definitively "
+         "&lsquo;apparent in the present life&rsquo;"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "briefest discourse in this chapter apart from "
+                       "the fully elided stubs"),
+    ],
+    why=(
+        "Udāyī asks in what way the Buddha spoke of &lsquo;a teaching "
+        "apparent in the present life,&rsquo; and Ānanda answers with "
+        "the bare nine-stage formula once more, this time with no "
+        "further descriptive content: each of the first eight "
+        "attainments is apparent in the present life in a qualified "
+        "sense, and the ninth, definitively."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;a teaching apparent in the "
+            "present life&rsquo; &mdash; in a qualified sense at each of "
+            "the first eight stages, and in a definitive sense only at "
+            "the ninth, the cessation of perception and feeling."]),
+        ("A familiar phrase, usually applied more broadly", [
+            "&lsquo;Sandiṭṭhika,&rsquo; apparent or visible in the "
+            "present life, is one of the standard qualities praising the "
+            "Dhamma as a whole elsewhere in the canon &mdash; well "
+            "explained, immediately effective, inviting inspection. Here "
+            "it is applied narrowly to the nine meditative attainments "
+            "specifically, in keeping with this whole chapter's project "
+            "of running familiar terms through the same nine-stage grid."]),
+        ("The template at its plainest", [
+            "This discourse adds no descriptive content at any stage "
+            "&mdash; no residual factor as at AN 9.42, no criterion of "
+            "experience or wisdom as at AN 9.43 through AN 9.45. Simply "
+            "reaching each attainment is what makes it &lsquo;apparent "
+            "in the present life,&rsquo; qualifiedly or definitively, "
+            "the plainest possible version of this chapter's shared "
+            "structure."]),
+        ("A bridge to the next discourse", [
+            "This discourse's brevity sets up AN 9.47 directly: that "
+            "next discourse simply adds &lsquo;extinguishment&rsquo; to "
+            "this discourse's &lsquo;apparent in the present life,"
+            "&rsquo; producing a compound term this chapter will "
+            "continue exploring in variant forms through its remaining "
+            "discourses."]),
+    ],
+    terms=[
+        ("sandiṭṭhiko dhammo",
+         "&ldquo;a teaching apparent in the present life&rdquo; &mdash; "
+         "this discourse's own title phrase, elsewhere a standard "
+         "quality praising the Dhamma as a whole."),
+        ("ettāvatāpi kho... vuttaṁ bhagavatā pariyāyena",
+         "&ldquo;to this extent the Buddha spoke of... in a qualified "
+         "sense&rdquo; &mdash; the bare formula, repeated without added "
+         "criteria at each of the first eight stages."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment, as throughout this chapter."),
+        ("paṭhamaṁ jhānaṁ upasampajja viharati",
+         "&ldquo;enters and remains in the first absorption&rdquo; "
+         "&mdash; the opening stage, given here with no further "
+         "descriptive addition."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati",
+         "&ldquo;enters and remains in the cessation of perception and "
+         "feeling&rdquo; &mdash; the ninth and definitive stage, closing "
+         "this discourse's brief structure."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template at its "
+        "plainest, with no descriptive content added at any stage. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Apparent in the present life, at each of nine stages"),
+        ("p", "&sect;1", "an9.46:1.1-2.2"),
+        ("p", "&sect;2", "an9.46:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What phrase does this discourse define?",
+         "opts": [
+             "Confinement",
+             "A teaching apparent in the present life",
+             "Freed both ways",
+             "Full extinguishment"],
+         "correct": 1,
+         "expl": "Elsewhere in the canon, a standard quality praising "
+                 "the Dhamma as a whole."},
+        {"q": "How does this discourse's formula compare to AN 9.43 "
+              "through AN 9.45?",
+         "opts": [
+             "It adds a new, more complex criterion",
+             "It adds no descriptive content at any stage — the "
+             "plainest possible version of this chapter's shared "
+             "structure",
+             "It contradicts the earlier discourses",
+             "It has twice as many stages"],
+         "correct": 1,
+         "expl": "Simply reaching each attainment, with nothing further "
+                 "specified."},
+        {"q": "Where else in the canon does &lsquo;sandiṭṭhika&rsquo; "
+              "commonly appear?",
+         "opts": [
+             "Nowhere else",
+             "As one of the standard qualities praising the Dhamma as a "
+             "whole",
+             "Only in monastic disciplinary texts",
+             "Only in cosmological discourses"],
+         "correct": 1,
+         "expl": "Applied here more narrowly, to the nine meditative "
+                 "attainments specifically."},
+        {"q": "According to the guide, what does this discourse set up "
+              "for AN 9.47?",
+         "opts": [
+             "Nothing; they are unrelated",
+             "AN 9.47 adds &lsquo;extinguishment&rsquo; to this "
+             "discourse's &lsquo;apparent in the present life,&rsquo; "
+             "forming a compound term",
+             "AN 9.47 contradicts this discourse entirely",
+             "AN 9.47 removes the nine-stage structure"],
+         "correct": 1,
+         "expl": "A compound term this chapter continues exploring in "
+                 "variant forms."},
+        {"q": "At which stage alone is a teaching apparent in the "
+              "present life in a definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of nothingness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern across this "
+                 "chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers continuing through this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("The template, plainest", [
+            "no criterion added &mdash;",
+            "just reaching each stage itself,",
+            "qualified, then whole",
+        ]),
+        ("A familiar phrase, narrowed", [
+            "elsewhere, the Dhamma",
+            "as a whole; here, applied",
+            "to nine stages alone",
+        ]),
+        ("A bridge ahead", [
+            "&ldquo;apparent&rdquo; here;",
+            "next, joined with extinguishment &mdash;",
+            "a compound term begins",
+        ]),
+        ("Cross-references", [
+            "AN 9.45 &middot; previous, Freed Both Ways",
+            "AN 9.47 &middot; next, combining this term with "
+            "extinguishment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.46/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.45.html">AN 9.45 &middot; Freed Both Ways</a> &mdash; previous.',
+        '<a href="an-9.47.html">AN 9.47 &middot; Extinguishment Is Apparent in the Present '
+        "Life</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.47 — Sandiṭṭhikanibbānasutta
+# --------------------------------------------------------------------------- #
+page(
+    47, "Sandiṭṭhikanibbāna", "Extinguishment Is Apparent in the Present Life",
+    vagga=VAGGA_5,
+    meta_title=("AN 9.47 — Extinguishment Is Apparent in the Present Life | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Extinguishment Is Apparent in the Present Life, joining AN "
+        "9.46's phrase to extinguishment itself and opening this "
+        "chapter's run of four extinguishment-named discourses. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.46"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same bare template, now naming extinguishment "
+                 "itself as what is qualifiedly or definitively apparent"),
+        ("Length", "~30 seconds to read"),
+        ("The first of four extinguishment-named discourses", "AN 9.47 "
+         "through AN 9.51 each pair a different qualifier with "
+         "&lsquo;extinguishment,&rsquo; and three of the four remaining "
+         "ones are reduced in the source to a single elided line"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, the compound term worth noting for what "
+                       "follows"),
+    ],
+    why=(
+        "Udāyī asks in what way the Buddha said &lsquo;extinguishment is "
+        "apparent in the present life,&rsquo; and Ānanda answers with "
+        "the same bare nine-stage formula once more, joining AN 9.46's "
+        "phrase directly to extinguishment itself &mdash; each of the "
+        "first eight attainments qualifiedly, the ninth definitively."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;extinguishment is apparent in "
+            "the present life&rsquo; &mdash; in a qualified sense at "
+            "each of the first eight stages, and in a definitive sense "
+            "only at the ninth, the cessation of perception and "
+            "feeling."]),
+        ("A compound term, built from the previous discourse", [
+            "This discourse doesn't introduce an unrelated new phrase; "
+            "it takes AN 9.46's &lsquo;apparent in the present "
+            "life&rsquo; and joins it directly to &lsquo;"
+            "extinguishment,&rsquo; nibbāna, producing the compound term "
+            "this title names &mdash; the same bare formula, now applied "
+            "to the chapter's most central and weighty concept."]),
+        ("Opening a run of four extinguishment-named discourses", [
+            "This discourse opens a distinct sequence within the "
+            "chapter: AN 9.47 through AN 9.51 all define some form of "
+            "&lsquo;extinguishment,&rsquo; each with a different "
+            "qualifier &mdash; apparent in the present life, bare "
+            "extinguishment, full extinguishment, extinguishment in a "
+            "certain respect, and extinguishment in this life."]),
+        ("A run that becomes almost entirely elided", [
+            "Of the four discourses following this one, three &mdash; "
+            "AN 9.48, AN 9.49, and AN 9.50 &mdash; are reduced in the "
+            "source to a single line each, no more than the opening "
+            "question and an ellipsis, relying entirely on this "
+            "discourse and its neighbors to supply the full nine-stage "
+            "content by implication. Only the run's final discourse, AN "
+            "9.51, is given in full again, closing not just this "
+            "chapter but the entire First Fifty."]),
+    ],
+    terms=[
+        ("sandiṭṭhikaṁ nibbānaṁ",
+         "&ldquo;extinguishment is apparent in the present life&rdquo; "
+         "&mdash; this discourse's own title compound, joining AN "
+         "9.46's phrase to extinguishment itself."),
+        ("ettāvatāpi kho... vuttaṁ bhagavatā pariyāyena",
+         "&ldquo;to this extent the Buddha said... in a qualified "
+         "sense&rdquo; &mdash; the bare formula, unchanged from AN "
+         "9.46 apart from its new compound title term."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment, as throughout this chapter."),
+        ("nibbānaṁ",
+         "&ldquo;extinguishment&rdquo; &mdash; the term this discourse "
+         "introduces into this chapter's compound titles, developed "
+         "further across AN 9.48 through AN 9.51."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa "
+         "disvā āsavā parikkhīṇā honti",
+         "&ldquo;enters and remains in the cessation of perception and "
+         "feeling... their defilements come to an end&rdquo; &mdash; "
+         "the shared closing formula for the definitive ninth stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the same bare nine-stage template, now "
+        "applied to extinguishment itself. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Extinguishment apparent in the present life"),
+        ("p", "&sect;1", "an9.47:1.1-2.2"),
+        ("p", "&sect;2", "an9.47:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What compound term does this discourse introduce?",
+         "opts": [
+             "Confinement and freedom",
+             "Extinguishment is apparent in the present life, joining "
+             "AN 9.46's phrase to extinguishment itself",
+             "Freed both ways",
+             "A direct witness"],
+         "correct": 1,
+         "expl": "The same bare formula from AN 9.46, now naming "
+                 "extinguishment specifically."},
+        {"q": "What sequence of discourses does this one open within "
+              "the chapter?",
+         "opts": [
+             "A sequence about monastic discipline",
+             "A run of four extinguishment-named discourses, AN 9.47 "
+             "through AN 9.51, each with a different qualifier",
+             "A sequence unrelated to the rest of the chapter",
+             "The chapter's final two discourses only"],
+         "correct": 1,
+         "expl": "Apparent in the present life, bare extinguishment, "
+                 "full extinguishment, in a certain respect, and in this "
+                 "life."},
+        {"q": "How are three of the four discourses following this one "
+              "presented in the source?",
+         "opts": [
+             "In full detail, longer than this discourse",
+             "Reduced to a single line each — just the opening question "
+             "and an ellipsis",
+             "Missing entirely, with no trace in the source",
+             "Combined into one merged page"],
+         "correct": 1,
+         "expl": "AN 9.48, 9.49, and 9.50 rely on this discourse's "
+                 "template to supply their full content by implication."},
+        {"q": "Which discourse in this run is given in full again, and "
+              "what does it close?",
+         "opts": [
+             "AN 9.48, closing nothing in particular",
+             "AN 9.51, closing this chapter and the entire First Fifty",
+             "AN 9.49, closing the whole nipāta",
+             "This discourse itself closes the chapter"],
+         "correct": 1,
+         "expl": "The run's final discourse, given full treatment "
+                 "again for this significant closing role."},
+        {"q": "At which stage alone is extinguishment apparent in the "
+              "present life in a definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of infinite consciousness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern held throughout "
+                 "this chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers continuing through this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("A compound term begins", [
+            "&ldquo;apparent&rdquo; joined now",
+            "to extinguishment itself &mdash;",
+            "a phrase built from two",
+        ]),
+        ("Four discourses, one theme", [
+            "apparent, bare, full,",
+            "a certain respect, this life &mdash;",
+            "extinguishment, named four ways",
+        ]),
+        ("Toward near-total elision", [
+            "three of the next four",
+            "are a single line each &mdash;",
+            "implied, not spelled out",
+        ]),
+        ("Cross-references", [
+            "AN 9.46 &middot; previous, the phrase this discourse joins "
+            "to extinguishment",
+            "AN 9.48 &middot; next, Extinguishment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.47/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.46.html">AN 9.46 &middot; In the Present Life</a> &mdash; previous.',
+        '<a href="an-9.48.html">AN 9.48 &middot; Extinguishment</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.48 — Nibbānasutta — the most minimal stub met anywhere in this
+# project so far: one segment of English text, an ellipsis, and a bare
+# ordinal number. The template it relies on is fully established at AN
+# 9.42-47.
+# --------------------------------------------------------------------------- #
+page(
+    48, "Nibbāna", "Extinguishment",
+    vagga=VAGGA_5,
+    meta_title="AN 9.48 — Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Extinguishment, the "
+        "most minimal discourse met anywhere in this project so far — a "
+        "single line of English text, an ellipsis, and a bare ordinal "
+        "number, relying entirely on AN 9.42-47's shared template. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.47"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis; nothing more "
+                 "survives in the source"),
+        ("Length", "A few seconds to read what exists"),
+        ("The most minimal discourse in this project so far", "Where "
+         "even the briefest earlier stubs kept a full first line, this "
+         "one is reduced to the bare question and a source-side "
+         "ellipsis, plus an ordinal number marking its place in the "
+         "chapter"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, but worth understanding why it "
+                       "is this short"),
+    ],
+    why=(
+        "The source itself reduces this discourse to a single line "
+        "&mdash; &lsquo;they speak of &ldquo;extinguishment&rdquo;&rsquo; "
+        "&mdash; followed by an ellipsis and the bare marker "
+        "&lsquo;seventh,&rsquo; relying entirely on the reader to supply "
+        "the same nine-stage qualified-versus-definitive structure "
+        "already given in full at AN 9.42 through AN 9.47."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at every discourse so far in "
+            "this chapter, reaching any of the nine progressive "
+            "attainments is what the Buddha meant by &lsquo;"
+            "extinguishment&rsquo; &mdash; qualifiedly at each of the "
+            "first eight stages, definitively only at the ninth &mdash; "
+            "though the source itself no longer bothers to spell this "
+            "out."]),
+        ("A single line, and nothing more", [
+            "Where AN 9.34's Meghiya narrative and AN 7.49's peyyāla "
+            "each left only isolated stretches empty within an "
+            "otherwise substantial discourse, this one is reduced in "
+            "its entirety to one opening line, an ellipsis "
+            "(&lsquo;&hellip;&rsquo;), and a bare ordinal &lsquo;"
+            "seventh&rsquo; marking its numbered place among this "
+            "chapter's ten discourses. Nothing else survives in the "
+            "translated source."]),
+        ("Reading by inference, not by content", [
+            "This page's honest content is genuinely thin, and the "
+            "guide does not fabricate what the source omits. What can "
+            "be said with confidence comes entirely by inference from "
+            "the five immediately preceding discourses, all sharing the "
+            "identical structure: this discourse very likely ran "
+            "through the same nine attainments, calling each of the "
+            "first eight a qualified instance of &lsquo;"
+            "extinguishment&rsquo; and the ninth a definitive one."]),
+        ("Why the source compresses this far", [
+            "By the sixth discourse in an unbroken run sharing one "
+            "template, a reciter's tradition evidently judged further "
+            "spelled-out repetition unnecessary &mdash; the ellipsis "
+            "marks not a loss of content but a deliberate economy, "
+            "trusting the listener to have already internalized the "
+            "pattern from AN 9.42 through AN 9.47."]),
+    ],
+    terms=[
+        ("nibbānaṁ",
+         "&ldquo;extinguishment&rdquo; &mdash; this discourse's own "
+         "title term and its only substantive word, standing in the "
+         "source for the full nine-stage formula established earlier "
+         "in this chapter."),
+        ("…pe…",
+         "the Pāli peyyāla marker itself, left untranslated here as an "
+         "ellipsis &mdash; the source's own signal that the reciter "
+         "should supply the omitted, already-familiar content."),
+        ("sattamaṁ",
+         "&ldquo;seventh&rdquo; &mdash; the bare ordinal closing this "
+         "discourse, marking its numbered place among the chapter's ten "
+         "discourses rather than offering any content of its own."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in this "
+         "discourse's own surviving text, but supplied by inference from "
+         "the identical structure at AN 9.42 through AN 9.47."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved throughout this chapter for the ninth "
+         "attainment alone."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line, "
+        "an ellipsis, and an ordinal number. Nothing has been added. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.48:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "How much of this discourse survives in the translated "
+              "source?",
+         "opts": [
+             "The full nine-stage formula, in complete detail",
+             "A single opening line and an ellipsis — the most minimal "
+             "discourse met anywhere in this project so far",
+             "Only a title, with no text at all",
+             "A shortened three-stage version"],
+         "correct": 1,
+         "expl": "Even briefer than earlier partial-ellipsis cases like "
+                 "AN 9.3 or AN 7.49."},
+        {"q": "What does the guide do about the missing content?",
+         "opts": [
+             "Fabricates the missing stages to fill out the page",
+             "Honestly notes the omission and supplies what can be said "
+             "by inference from the five immediately preceding "
+             "discourses' shared structure",
+             "Ignores the discourse entirely",
+             "Claims the discourse has no meaningful content at all"],
+         "correct": 1,
+         "expl": "Consistent with this project's standing rule against "
+                 "inventing text not in the source."},
+        {"q": "According to the guide, why might the source compress "
+              "this discourse so far?",
+         "opts": [
+             "A scribal accident with no explanation",
+             "By the sixth discourse sharing one template, further "
+             "spelled-out repetition was judged unnecessary — a "
+             "deliberate economy, not a loss",
+             "The discourse was considered unimportant",
+             "It was added by a much later editor"],
+         "correct": 1,
+         "expl": "Trusting listeners to have internalized the pattern "
+                 "from the discourses immediately before it."},
+        {"q": "What term does this discourse's one surviving line "
+              "define?",
+         "opts": [
+             "A direct witness",
+             "Extinguishment",
+             "Confinement",
+             "Freed both ways"],
+         "correct": 1,
+         "expl": "The bare term this whole run of discourses, AN 9.47 "
+                 "through AN 9.51, explores in variant forms."},
+        {"q": "What does the bare ordinal &lsquo;seventh&rsquo; at the "
+              "end of this discourse mark?",
+         "opts": [
+             "A count of the nine attainments",
+             "This discourse's own numbered place among the chapter's "
+             "ten discourses",
+             "A monastic rank",
+             "A count of the five precepts"],
+         "correct": 1,
+         "expl": "A structural marker, not substantive content."},
+        {"q": "Which earlier discourse in this chapter supplies the "
+              "full structure this one relies on?",
+         "opts": [
+             "AN 9.42 through AN 9.47",
+             "AN 9.32 alone",
+             "AN 9.11, unrelated to this chapter",
+             "No earlier discourse is relevant"],
+         "correct": 0,
+         "expl": "The immediately preceding run of discourses, sharing "
+                 "the identical qualified-versus-definitive template."},
+    ],
+    marginalia=[
+        ("The most minimal page", [
+            "one line, then &lsquo;&hellip;&rsquo;,",
+            "then &lsquo;seventh&rsquo; &mdash; nothing more",
+            "survives in the source",
+        ]),
+        ("No fabrication here", [
+            "what can't be shown",
+            "isn't invented &mdash; only",
+            "named as missing",
+        ]),
+        ("A deliberate economy", [
+            "six discourses deep",
+            "in one template &mdash; the reciter",
+            "trusts it's understood",
+        ]),
+        ("Cross-references", [
+            "AN 9.42&ndash;47 &middot; the full template this stub "
+            "relies on by inference",
+            "AN 9.47 &middot; previous",
+            "AN 9.49 &middot; next, Full Extinguishment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.48/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.47.html">AN 9.47 &middot; Extinguishment Is Apparent in the Present '
+        "Life</a> &mdash; previous.",
+        '<a href="an-9.49.html">AN 9.49 &middot; Full Extinguishment</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.49 — Parinibbānasutta — equally minimal
+# --------------------------------------------------------------------------- #
+page(
+    49, "Parinibbāna", "Full Extinguishment",
+    vagga=VAGGA_5,
+    meta_title="AN 9.49 — Full Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Full Extinguishment, "
+        "equally minimal in the source as AN 9.48 — one line, an "
+        "ellipsis, and an ordinal — this time naming the intensified "
+        "form of extinguishment reserved for an arahant's death. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.48"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching AN "
+                 "9.48's minimal survival exactly"),
+        ("Length", "A few seconds to read what exists"),
+        ("A distinct term, equally minimal treatment", "&lsquo;"
+         "Parinibbāna&rsquo; usually names the final passing of an "
+         "arahant, distinct from bare &lsquo;nibbāna&rsquo; — but the "
+         "source treats this discourse exactly as tersely as AN 9.48"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, more interesting for the term "
+                       "it names than for its own text"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;full extinguishment&rdquo;&rsquo; "
+        "&mdash; followed by an ellipsis and the marker &lsquo;"
+        "eighth,&rsquo; applying the same qualified-versus-definitive "
+        "template established at AN 9.42 through AN 9.47 to a term that "
+        "elsewhere in the canon usually names an arahant's final "
+        "passing away, not merely the ending of defilements during "
+        "life."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established throughout this chapter, "
+            "reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;full extinguishment&rsquo; "
+            "&mdash; qualifiedly at each of the first eight stages, "
+            "definitively only at the ninth &mdash; though, as at AN "
+            "9.48, the source no longer spells this out."]),
+        ("A term that usually means something more final", [
+            "Elsewhere in the canon, &lsquo;parinibbāna,&rsquo; full "
+            "extinguishment, typically names an arahant's final passing "
+            "away at death &mdash; the complete cessation of the five "
+            "aggregates, distinct from the extinguishment of "
+            "defilements an arahant already experiences while still "
+            "alive. This chapter's series applies the term instead to "
+            "the same nine meditative attainments as every other term "
+            "here, a usage worth noticing as distinct from the more "
+            "familiar sense."]),
+        ("Equally minimal, despite the distinct meaning", [
+            "Despite &lsquo;parinibbāna&rsquo; carrying a more specific "
+            "and consequential meaning elsewhere, the source treats this "
+            "discourse exactly as tersely as AN 9.48's bare "
+            "&lsquo;nibbāna&rsquo; &mdash; one line, an ellipsis, and "
+            "the ordinal &lsquo;eighth.&rsquo; The economy applies "
+            "uniformly, regardless of how weighty the individual term "
+            "might be."]),
+        ("A run continuing toward its close", [
+            "This is the second of three consecutive discourses reduced "
+            "to a single line in this way; AN 9.50 follows identically, "
+            "before AN 9.51 restores full treatment to close both this "
+            "chapter and the entire First Fifty."]),
+    ],
+    terms=[
+        ("parinibbānaṁ",
+         "&ldquo;full extinguishment&rdquo; &mdash; elsewhere in the "
+         "canon usually naming an arahant's final passing away at "
+         "death, applied here to the nine meditative attainments like "
+         "every other term in this chapter."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted, "
+         "already-familiar content."),
+        ("aṭṭhamaṁ",
+         "&ldquo;eighth&rdquo; &mdash; the bare ordinal closing this "
+         "discourse, marking its place among the chapter's ten "
+         "discourses."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in this "
+         "discourse's own text, supplied by inference from the pattern "
+         "at AN 9.42 through AN 9.47."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line, "
+        "an ellipsis, and an ordinal number. Nothing has been added. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.49:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does &lsquo;parinibbāna&rsquo; usually name "
+              "elsewhere in the canon?",
+         "opts": [
+             "A monastic ordination ceremony",
+             "An arahant's final passing away at death, distinct from "
+             "the ending of defilements during life",
+             "A type of meditation posture",
+             "A specific monastery"],
+         "correct": 1,
+         "expl": "A more final and specific meaning than bare "
+                 "&lsquo;nibbāna&rsquo;."},
+        {"q": "How does this discourse apply the term instead?",
+         "opts": [
+             "In its usual, more specific sense about death",
+             "To the same nine meditative attainments as every other "
+             "term in this chapter, by the shared qualified-versus-"
+             "definitive template",
+             "It doesn't use the term at all",
+             "Only to describe the Buddha's own death"],
+         "correct": 1,
+         "expl": "This chapter's consistent method, applied here to a "
+                 "usually more consequential term."},
+        {"q": "How does the source's treatment of this discourse "
+              "compare to AN 9.48's?",
+         "opts": [
+             "Much longer, given the term's weightier meaning",
+             "Exactly as terse — one line, an ellipsis, and an ordinal, "
+             "regardless of how consequential the individual term is",
+             "Completely different in structure",
+             "Missing from the source entirely"],
+         "correct": 1,
+         "expl": "The same minimal economy applied uniformly across "
+                 "this stretch of the chapter."},
+        {"q": "What is this discourse's place within the chapter's "
+              "closing run?",
+         "opts": [
+             "The first of the fully elided stubs",
+             "The second of three consecutive single-line discourses, "
+             "before AN 9.51 restores full treatment",
+             "The final discourse in the chapter",
+             "Unrelated to the surrounding discourses"],
+         "correct": 1,
+         "expl": "AN 9.48 and AN 9.50 share this same minimal form; AN "
+                 "9.51 closes the chapter and the First Fifty in full."},
+        {"q": "What ordinal number marks this discourse's place?",
+         "opts": [
+             "Seventh", "Eighth", "Ninth", "Tenth"],
+         "correct": 1,
+         "expl": "Following AN 9.48's &lsquo;seventh&rsquo; in sequence."},
+        {"q": "Where does the qualified-versus-definitive content this "
+              "discourse implies come from?",
+         "opts": [
+             "Nowhere; it must be invented",
+             "By inference from AN 9.42 through AN 9.47's shared, fully "
+             "spelled-out template",
+             "From a completely unrelated discourse",
+             "It cannot be inferred at all"],
+         "correct": 1,
+         "expl": "The same source of inference used for AN 9.48."},
+    ],
+    marginalia=[
+        ("A weightier term, elsewhere", [
+            "parinibbāna usually",
+            "means an arahant's death &mdash;",
+            "not so, applied here",
+        ]),
+        ("Equally minimal", [
+            "one line, &lsquo;&hellip;&rsquo;, &lsquo;eighth&rsquo; &mdash;",
+            "the same economy",
+            "regardless of weight",
+        ]),
+        ("Second of three, in a row", [
+            "9.48, this, then",
+            "9.50 the same way &mdash;",
+            "before 9.51 restores",
+        ]),
+        ("Cross-references", [
+            "AN 9.42&ndash;47 &middot; the full template this stub "
+            "relies on by inference",
+            "AN 9.48 &middot; previous",
+            "AN 9.50 &middot; next, Extinguishment in a Certain Respect",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.49/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.48.html">AN 9.48 &middot; Extinguishment</a> &mdash; previous.',
+        '<a href="an-9.50.html">AN 9.50 &middot; Extinguishment in a Certain Respect</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.50 — Tadaṅganibbānasutta — equally minimal, third in the run
+# --------------------------------------------------------------------------- #
+page(
+    50, "Tadaṅganibbāna", "Extinguishment in a Certain Respect",
+    vagga=VAGGA_5,
+    meta_title=("AN 9.50 — Extinguishment in a Certain Respect | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide and self-check quiz for Extinguishment in a "
+        "Certain Respect, the third and final minimal stub in this "
+        "chapter's run, naming a technical category of temporary, "
+        "partial extinguishment distinct from the complete kind. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.49"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, the third and "
+                 "final discourse in this chapter reduced this far"),
+        ("Length", "A few seconds to read what exists"),
+        ("A genuinely technical distinction, minimally treated", "&lsquo;"
+         "Tadaṅga-nibbāna&rsquo; names a real doctrinal category — "
+         "temporary suppression of a specific defilement by its direct "
+         "opposite — distinct from full and final extinguishment"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "term itself carries more doctrinal weight than "
+                       "its minimal treatment here suggests"),
+    ],
+    why=(
+        "The source reduces this discourse, like AN 9.48 and AN 9.49 "
+        "before it, to a single line &mdash; &lsquo;they speak of "
+        "&ldquo;extinguishment in a certain respect&rdquo;&rsquo; "
+        "&mdash; followed by an ellipsis and the marker &lsquo;"
+        "ninth,&rsquo; applying the chapter's shared template to a term "
+        "that elsewhere names a genuine technical category: the "
+        "temporary suppression of one specific defilement by its "
+        "direct opposite, short of complete and final extinguishment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established throughout this chapter, "
+            "reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;extinguishment in a certain "
+            "respect&rsquo; &mdash; qualifiedly at each of the first "
+            "eight stages, definitively only at the ninth &mdash; though "
+            "the source, as at AN 9.48 and AN 9.49, no longer spells "
+            "this out."]),
+        ("A genuine technical category, named briefly", [
+            "&lsquo;Tadaṅga-nibbāna,&rsquo; literally &lsquo;"
+            "extinguishment by that factor,&rsquo; names a real "
+            "doctrinal distinction found elsewhere in the tradition: the "
+            "temporary suppression of one specific defilement by "
+            "cultivating its direct opposite &mdash; hate suppressed by "
+            "love, for instance &mdash; a genuine but partial and "
+            "reversible achievement, distinct from full, final "
+            "extinguishment."]),
+        ("The third and last of this run's fully elided stubs", [
+            "This is the third and final discourse in this chapter "
+            "reduced to a single surviving line, closing out the run "
+            "begun at AN 9.48. Where those two discourses named bare "
+            "extinguishment and full extinguishment respectively, this "
+            "one names the most technically specific of the three "
+            "&mdash; and receives exactly the same minimal treatment "
+            "regardless."]),
+        ("What comes next restores the full picture", [
+            "AN 9.51, immediately following, breaks this pattern of "
+            "minimal treatment: it is given in full again, one final "
+            "time, and closes not only this chapter but the entire "
+            "First Fifty of the Book of the Nines &mdash; the run of "
+            "compression this discourse belongs to giving way, at the "
+            "chapter's very close, to full and deliberate elaboration "
+            "once more."]),
+    ],
+    terms=[
+        ("tadaṅganibbānaṁ",
+         "&ldquo;extinguishment in a certain respect,&rdquo; literally "
+         "&ldquo;extinguishment by that factor&rdquo; &mdash; a genuine "
+         "technical category elsewhere naming temporary suppression of "
+         "one defilement by its direct opposite."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("navamaṁ",
+         "&ldquo;ninth&rdquo; &mdash; the bare ordinal closing this "
+         "discourse, marking its place among the chapter's ten "
+         "discourses (not to be confused with the ninth meditative "
+         "attainment)."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in this "
+         "discourse's own text, supplied by inference from AN 9.42 "
+         "through AN 9.47's shared pattern."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this chapter."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line, "
+        "an ellipsis, and an ordinal number. Nothing has been added. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.50:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What does &lsquo;tadaṅga-nibbāna&rsquo; name as a "
+              "genuine technical category?",
+         "opts": [
+             "A monastic disciplinary offense",
+             "The temporary suppression of one specific defilement by "
+             "cultivating its direct opposite, short of complete "
+             "extinguishment",
+             "A type of meditation cushion",
+             "A formal ordination procedure"],
+         "correct": 1,
+         "expl": "A real but partial and reversible achievement, "
+                 "distinct from full and final extinguishment."},
+        {"q": "How does this discourse's source-text treatment compare "
+              "to AN 9.48 and AN 9.49's?",
+         "opts": [
+             "Much fuller, given its technical significance",
+             "The same minimal treatment — one line, an ellipsis, and an "
+             "ordinal, despite naming the most technically specific of "
+             "the three terms",
+             "Completely absent from the source",
+             "Doubled in length"],
+         "correct": 1,
+         "expl": "The uniform economy applied across this whole "
+                 "three-discourse run."},
+        {"q": "What is this discourse's position within the chapter's "
+              "run of minimal stubs?",
+         "opts": [
+             "The first of the run",
+             "The third and final discourse in this chapter reduced to "
+             "a single surviving line",
+             "The only one of its kind in the chapter",
+             "It falls outside the run entirely"],
+         "correct": 1,
+         "expl": "Closing out the run begun at AN 9.48 and continued at "
+                 "AN 9.49."},
+        {"q": "What happens immediately after this discourse, at AN "
+              "9.51?",
+         "opts": [
+             "Another single-line stub, continuing the pattern",
+             "Full treatment is restored, closing both this chapter and "
+             "the entire First Fifty",
+             "The chapter ends without further discourses",
+             "The numbering restarts from AN 9.1"],
+         "correct": 1,
+         "expl": "The compression gives way to full elaboration at the "
+                 "chapter's very close."},
+        {"q": "What ordinal number marks this discourse's place?",
+         "opts": [
+             "Seventh", "Eighth", "Ninth", "Tenth"],
+         "correct": 2,
+         "expl": "Following AN 9.48's &lsquo;seventh&rsquo; and AN "
+                 "9.49's &lsquo;eighth&rsquo; in sequence."},
+        {"q": "Where does the qualified-versus-definitive content this "
+              "discourse implies come from?",
+         "opts": [
+             "Nowhere; it must be invented",
+             "By inference from AN 9.42 through AN 9.47's shared, fully "
+             "spelled-out template",
+             "From a completely unrelated discourse",
+             "It cannot be inferred at all"],
+         "correct": 1,
+         "expl": "The same source of inference used for AN 9.48 and AN "
+                 "9.49."},
+    ],
+    marginalia=[
+        ("A technical term, briefly named", [
+            "one defilement stilled",
+            "by its own opposite &mdash;",
+            "partial, not complete",
+        ]),
+        ("Third of three, minimal", [
+            "one line, &lsquo;&hellip;&rsquo;, &lsquo;ninth&rsquo; &mdash;",
+            "the same economy,",
+            "closing out the run",
+        ]),
+        ("Full treatment restored next", [
+            "compression gives way",
+            "at the chapter's very close &mdash;",
+            "see AN 9.51",
+        ]),
+        ("Cross-references", [
+            "AN 9.42&ndash;47 &middot; the full template this stub "
+            "relies on by inference",
+            "AN 9.49 &middot; previous",
+            "AN 9.51 &middot; next, closing this chapter and the entire "
+            "First Fifty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.50/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.49.html">AN 9.49 &middot; Full Extinguishment</a> &mdash; previous.',
+        '<a href="an-9.51.html">AN 9.51 &middot; Extinguishment in This Life</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.51 — Diṭṭhadhammanibbānasutta — closes ch.5 Sāmaññavagga AND the
+# entire Paṭhamapaṇṇāsaka (First Fifty, AN 9.1-51).
+# --------------------------------------------------------------------------- #
+page(
+    51, "Diṭṭhadhammanibbāna", "Extinguishment in This Life",
+    vagga=VAGGA_5,
+    meta_title="AN 9.51 — Extinguishment in This Life | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Extinguishment in This Life, restoring full treatment to close "
+        "this chapter's run of near-identical discourses — and, with it, "
+        "the entire First Fifty of the Book of the Nines. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.50"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same nine-stage template given in full one final "
+                 "time, closing with an untranslated double colophon"),
+        ("Length", "~1 minute to read"),
+        ("Closing the chapter, and the First Fifty itself", "This "
+         "discourse closes <em>Sāmaññavagga</em>, the fifth chapter, "
+         "and, with it, the entire Paṭhamapaṇṇāsaka &mdash; the First "
+         "Fifty of the Book of the Nines"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in itself, but weighty for what it "
+                       "closes"),
+    ],
+    why=(
+        "Closing a run that grew progressively more compressed through "
+        "AN 9.48, AN 9.49, and AN 9.50, this discourse restores full "
+        "treatment one final time: a mendicant reaching any of the nine "
+        "attainments has extinguishment in this life in a qualified "
+        "sense, and only at the ninth, the cessation of perception and "
+        "feeling, in a definitive sense &mdash; closing not only this "
+        "chapter but the entire First Fifty of the Book of the Nines."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;extinguishment in this "
+            "life&rsquo; &mdash; in a qualified sense at each of the "
+            "first eight stages, and in a definitive sense only upon "
+            "reaching the cessation of perception and feeling, the same "
+            "structure that has run through this entire chapter."]),
+        ("Full treatment restored, after three minimal stubs", [
+            "After AN 9.48, AN 9.49, and AN 9.50 each survived as no "
+            "more than a single elided line, this discourse breaks the "
+            "pattern of compression and is given full treatment once "
+            "more &mdash; a deliberate choice by the tradition to close "
+            "both the run and the chapter with complete elaboration "
+            "rather than a fourth bare stub."]),
+        ("A tenth term, closing a chapter about sameness", [
+            "This is the tenth and final term this chapter's "
+            "<em>Sāmaññavagga</em>, &ldquo;Chapter on Similarity,&rdquo; "
+            "defines through its shared template: confinement, direct "
+            "witnessing, freedom by wisdom, freedom both ways, apparent "
+            "in the present life, and four variations on "
+            "&lsquo;extinguishment&rsquo; &mdash; ten near-synonymous "
+            "framings of the same underlying nine-stage progression, "
+            "each illuminating it from a slightly different angle."]),
+        ("Two colophons, closing two things at once", [
+            "The source's own untranslated closing lines mark a double "
+            "closure: first &lsquo;Sāmaññavaggo pañcamo&rsquo; "
+            "(&ldquo;the fifth chapter, Sāmaññavagga, is finished&rdquo;), "
+            "then, immediately after, &lsquo;paṭhamo paṇṇāsako "
+            "samatto&rsquo; (&ldquo;the First Fifty is completed&rdquo;) "
+            "&mdash; the same double-closing pattern met at the end of "
+            "earlier nipātas' first-fifty sections, here marking the "
+            "halfway point of the Book of the Nines itself, with the "
+            "Second Fifty still ahead."]),
+    ],
+    terms=[
+        ("diṭṭhadhammanibbānaṁ",
+         "&ldquo;extinguishment in this life&rdquo; &mdash; this "
+         "discourse's own title compound, closing the run of "
+         "extinguishment-named discourses begun at AN 9.47."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; the shared term for "
+         "each of the first eight attainments, running through this "
+         "entire chapter."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment alone, as at every discourse in this chapter."),
+        ("sāmaññavaggo pañcamo",
+         "&ldquo;the fifth chapter, Sāmaññavagga, is finished&rdquo; "
+         "&mdash; the source's own untranslated colophon closing this "
+         "chapter."),
+        ("paṭhamo paṇṇāsako samatto",
+         "&ldquo;the First Fifty is completed&rdquo; &mdash; the "
+         "source's own second untranslated colophon, marking the "
+         "halfway point of the entire Book of the Nines."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template, given in "
+        "complete detail one final time to close this chapter. The "
+        "source's own double closing colophon is untranslated in the "
+        "English and is described rather than quoted here. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Extinguishment in this life, at each of nine stages"),
+        ("p", "&sect;1", "an9.51:1.1-2.2"),
+        ("p", "&sect;2", "an9.51:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse define, closing the run "
+              "begun at AN 9.47?",
+         "opts": [
+             "Confinement",
+             "Extinguishment in this life",
+             "A direct witness",
+             "Freed both ways"],
+         "correct": 1,
+         "expl": "The final and fourth extinguishment-named term in "
+                 "this chapter's closing sequence."},
+        {"q": "How does this discourse's treatment compare to AN 9.48 "
+              "through AN 9.50's?",
+         "opts": [
+             "Equally minimal, one line and an ellipsis",
+             "Full treatment is restored, breaking the pattern of "
+             "increasing compression",
+             "Even more compressed than the three stubs before it",
+             "Missing from the source entirely"],
+         "correct": 1,
+         "expl": "A deliberate choice to close both the run and the "
+                 "chapter with complete elaboration."},
+        {"q": "How many distinct terms does this chapter's shared "
+              "template define in total, including this one?",
+         "opts": [
+             "Five", "Seven",
+             "Ten", "Twelve"],
+         "correct": 2,
+         "expl": "Ten near-synonymous framings of the same underlying "
+                 "nine-stage progression, one per discourse."},
+        {"q": "What double closure does this discourse's untranslated "
+              "colophon mark?",
+         "opts": [
+             "Only the end of this single discourse",
+             "The end of <em>Sāmaññavagga</em>, the fifth chapter, and "
+             "the end of the entire First Fifty of the Book of the "
+             "Nines",
+             "The end of the whole Book of the Nines",
+             "The end of the Aṅguttara Nikāya itself"],
+         "correct": 1,
+         "expl": "Two separate closing lines, marking the chapter's end "
+                 "and the halfway point of AN 9 together."},
+        {"q": "What remains ahead after this discourse, according to "
+              "the guide?",
+         "opts": [
+             "Nothing; the nipāta is complete",
+             "The Second Fifty of the Book of the Nines",
+             "A return to the First Fifty's opening chapter",
+             "A separate, unrelated nipāta"],
+         "correct": 1,
+         "expl": "The halfway point of AN 9, not its end."},
+        {"q": "At which stage alone is extinguishment in this life "
+              "achieved in a definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of infinite consciousness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern held throughout "
+                 "this entire chapter."},
+    ],
+    marginalia=[
+        ("Full treatment, restored", [
+            "after three bare stubs,",
+            "spelled out once more &mdash;",
+            "a deliberate close",
+        ]),
+        ("Ten terms, one structure", [
+            "confinement, witness,",
+            "wisdom, both ways, apparent,",
+            "extinguishment fourfold",
+        ]),
+        ("Two colophons at once", [
+            "Sāmaññavaggo,",
+            "then paṭhamo paṇṇāsako &mdash;",
+            "chapter and half-book, closed",
+        ]),
+        ("Cross-references", [
+            "AN 9.42&ndash;50 &middot; the nine earlier terms this "
+            "discourse's tenth joins",
+            "AN 9.50 &middot; previous",
+            "AN 9.52 &middot; next, opening the Second Fifty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.50.html">AN 9.50 &middot; Extinguishment in a Certain Respect</a> '
+        "&mdash; previous.",
+    ],
+)
