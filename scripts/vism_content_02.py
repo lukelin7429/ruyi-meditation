@@ -1792,3 +1792,212 @@ page(
         "increasingly refined perception.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 11 -- Sesakammaṭṭhānaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    11, "Sesakammaṭṭhānaniddesa", "Concentration: The Remaining Subjects",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 11 — Concentration: The Remaining Subjects | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 11 of the Visuddhimagga (The Path of "
+        "Purification) — perception of food's repulsiveness and the analytical "
+        "defining of the four elements, the two subjects that complete the count of "
+        "forty. No translated text reproduced; links to the full free translation "
+        "and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter completes the forty-subject "
+                    "survey begun in Chapter 3"),
+        ("Speaker", "Buddhaghosa, closing out the subject list before Part II turns "
+                    "to what concentration itself can produce"),
+        ("Form", "Two otherwise unrelated subjects, grouped together only because "
+                 "each is the sole member of its own category"),
+        ("Length", "moderate; shorter than the multi-part chapters on the "
+                   "recollections and the immaterial states"),
+        ("Northern parallel", "Reflection on food's unattractive reality and "
+                              "analysis of the body into elemental qualities both "
+                              "appear elsewhere in Buddhist meditation literature in "
+                              "some form; this guide does not assert a specific "
+                              "matching passage"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; conceptually "
+                       "accessible, and shorter than most of the surrounding "
+                       "chapters"),
+    ],
+    why=(
+        "Chapter 3 previewed forty meditation subjects in total. By the close of "
+        "Chapter 10, thirty-eight have been covered across the ten kasinas, ten "
+        "kinds of foulness, ten recollections, four divine abidings, and four "
+        "immaterial states. Chapter 11 completes the count with the two remaining "
+        "single-member categories &mdash; perception of food's repulsiveness, and "
+        "analytical defining of the four elements &mdash; different from each "
+        "other in almost every respect, but grouped here simply because each "
+        "stands alone."),
+    guide=[
+        ("Completing the count of forty", [
+            "With thirty-eight subjects already surveyed across the preceding "
+            "chapters, this chapter's two remaining entries bring the traditional "
+            "list to its full forty, closing out the subject survey Chapter 3 "
+            "opened."]),
+        ("Perception of food's repulsiveness", [
+            "This subject has a practitioner reflect on food's unattractive "
+            "reality across its whole process &mdash; its gathering and "
+            "preparation, the act of eating, digestion, and eventual excretion "
+            "&mdash; as a deliberate counterweight to craving centered specifically "
+            "on taste and the pleasure of eating."]),
+        ("Defining of the four elements", [
+            "This subject has a practitioner analyze the body, or any physical "
+            "mass, into four elemental qualities &mdash; solidity, cohesion, heat, "
+            "and motion &mdash; rather than experiencing it as a single, compact "
+            "whole. The effect is to dissolve an unexamined sense of a unified "
+            "body or self into a set of impersonal physical qualities."]),
+        ("Why these two reach only access concentration", [
+            "Like several of the recollections in Chapters 7 and 8, both of these "
+            "subjects are reflective and analytical rather than resting on one "
+            "single, simple sign, and the chapter treats both as capable of "
+            "reaching access concentration but not full absorption for the same "
+            "underlying reason."]),
+        ("Bordering on insight", [
+            "The chapter notes something distinctive about defining the four "
+            "elements in particular: because its method is already investigative "
+            "&mdash; breaking a seeming whole down into its component qualities "
+            "&mdash; rather than unifying, it sits closer to the work of Part III "
+            "(Understanding) than any other subject in the forty-subject survey."]),
+        ("Closing Part II's subject list", [
+            "With this chapter complete, all forty meditation subjects previewed "
+            "in Chapter 3 have now been covered in turn, from the earth kasina "
+            "through these final two."]),
+        ("What follows", [
+            "Chapters 12 and 13 turn from the subjects themselves to what "
+            "concentration can produce beyond them: the supernormal powers, and "
+            "the other forms of direct knowledge, closing out Part II before Part "
+            "III opens with Chapter 14."]),
+    ],
+    terms=[
+        ("āhāre paṭikūlasaññā",
+         "perception of the repulsiveness of nutriment &mdash; reflecting on food's "
+         "unattractive reality as an antidote to craving centered on taste."),
+        ("catudhātuvavatthāna",
+         "defining of the four elements &mdash; analyzing the body into its "
+         "elemental qualities rather than experiencing it as one compact whole."),
+        ("pathavī-dhātu, āpo-dhātu",
+         "the earth element (solidity) and the water element (cohesion) &mdash; "
+         "two of the four qualities this chapter's analysis distinguishes."),
+        ("tejo-dhātu, vāyo-dhātu",
+         "the fire element (heat) and the air element (motion) &mdash; the "
+         "remaining two of the four qualities."),
+        ("vipassanā",
+         "insight &mdash; the mode of investigation the four-elements analysis is "
+         "said to border on, foreshadowing Part III."),
+    ],
+    quiz=[
+        {"q": "How many meditation subjects has the survey covered by the end of Chapter 10, and how many does Chapter 11 add?",
+         "opts": [
+             "Thirty-eight covered, two more here, completing forty",
+             "Twenty covered, twenty more here",
+             "Ten covered, thirty more here",
+             "All forty were already covered before Chapter 11"],
+         "correct": 0,
+         "expl": "Across the ten kasinas, ten kinds of foulness, ten recollections, four divine abidings, and four immaterial states."},
+        {"q": "What does perception of food's repulsiveness reflect on?",
+         "opts": [
+             "Food's unattractive reality across gathering, eating, digestion, and excretion",
+             "The nutritional value of different food groups",
+             "The taste of food exclusively, without any other aspect",
+             "The economic cost of preparing a meal"],
+         "correct": 0,
+         "expl": "A deliberate counterweight to craving centered specifically on taste and the pleasure of eating."},
+        {"q": "What is perception of food's repulsiveness meant to counter?",
+         "opts": [
+             "Craving centered on taste and the pleasure of eating",
+             "Fear of starvation",
+             "Anger toward those who prepare food",
+             "Doubt about a teacher's instructions"],
+         "correct": 0,
+         "expl": "A targeted antidote, similar in spirit to how foulness (Chapter 6) targets attachment to the body."},
+        {"q": "What does defining of the four elements analyze?",
+         "opts": [
+             "The body, or any physical mass, into solidity, cohesion, heat, and motion",
+             "The four kasinas of color only",
+             "The four divine abidings",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Breaking a seeming single whole down into its component elemental qualities."},
+        {"q": "What does the four-elements analysis undermine?",
+         "opts": [
+             "An unexamined sense of a single, compact, unified body or self",
+             "Trust in the teacher-student relationship",
+             "The ability to walk and move normally",
+             "Knowledge of the four noble truths"],
+         "correct": 0,
+         "expl": "Dissolving that sense into a set of impersonal physical qualities."},
+        {"q": "What depth of concentration do both of Chapter 11's subjects reach?",
+         "opts": [
+             "Access concentration, not full absorption",
+             "Full absorption through all four jhānas",
+             "No concentration of any kind",
+             "A depth beyond even the immaterial states"],
+         "correct": 0,
+         "expl": "Both are reflective and analytical rather than resting on one single, simple sign."},
+        {"q": "Why do both of these final two subjects reach only access concentration?",
+         "opts": [
+             "Because both are reflective and analytical rather than resting on a single fixed sign, like several recollections",
+             "Because they were added to the list after Buddhaghosa's own time",
+             "Because they are considered too easy to warrant full absorption",
+             "Because full absorption is forbidden for lay practitioners specifically"],
+         "correct": 0,
+         "expl": "The same underlying reason given for several of the recollections in Chapters 7 and 8."},
+        {"q": "What does the chapter say is distinctive about defining the four elements in particular?",
+         "opts": [
+             "Its investigative method sits closer to the work of Part III (Understanding) than any other subject",
+             "It is the only subject in the entire work that requires no teacher",
+             "It is identical in every respect to the earth kasina",
+             "It cannot be practiced by anyone who has not already reached full awakening"],
+         "correct": 0,
+         "expl": "Breaking a seeming whole into component qualities is already an investigative move."},
+        {"q": "What do Chapters 12 and 13 turn to next?",
+         "opts": [
+             "The supernormal powers and the other forms of direct knowledge",
+             "The remaining kasinas",
+             "The five aggregates",
+             "The thirteen ascetic practices"],
+         "correct": 0,
+         "expl": "Closing out Part II before Part III (Understanding) opens with Chapter 14."},
+        {"q": "Where can a reader go for Chapter 11's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Completing forty", [
+            "thirty-eight already covered,",
+            "two more here",
+        ]),
+        ("An antidote for taste", [
+            "food's unattractive",
+            "reality, reflected on",
+        ]),
+        ("Four elemental qualities", [
+            "solidity, cohesion,",
+            "heat, and motion",
+        ]),
+        ("Bordering on insight", [
+            "both reach only",
+            "access concentration",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/majjhima-nikaya/mn-028.html">MN 28 &mdash; The '
+        "Greater Simile of the Elephant's Footprint</a> &mdash; contains a detailed "
+        "canonical treatment of the four elements this chapter analyzes.",
+        '<a href="../discourses/majjhima-nikaya/mn-062.html">MN 62 &mdash; The '
+        "Longer Advice to R&#257;hula</a> &mdash; the Buddha's own elements-based "
+        "meditation instruction to his son.",
+    ],
+)
