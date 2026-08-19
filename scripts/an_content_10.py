@@ -7783,3 +7783,1812 @@ page(
         "chapter.",
     ],
 )
+
+
+VAGGA_5 = "<em>Akkosavagga</em> &mdash; the fifth chapter of the Tens, closing the First Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.41 — Vivādasutta
+# --------------------------------------------------------------------------- #
+page(
+    41, "Vivāda", "Dispute",
+    vagga=VAGGA_5,
+    meta_title="AN 10.41 — Dispute | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vivādasutta, opening the Tens' fifth chapter with Upāli "
+        "asking the root cause of every fight and quarrel in the "
+        "Saṅgha &mdash; answered with the same five reversals that "
+        "defined schism in AN 10.37. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Upāli questioning the Buddha"),
+        ("Form", "A single question, a single ten-ground answer"),
+        ("Length", "~1 minute to read"),
+        ("Chapter's namesake, or not", "This chapter is titled "
+                                       "<em>Akkosavagga</em>, the "
+                                       "Chapter on Abuse, but "
+                                       "&ldquo;akkosa&rdquo; appears "
+                                       "nowhere in any of its ten "
+                                       "discourses' actual content "
+                                       "&mdash; an unexplained "
+                                       "mismatch this guide notes "
+                                       "rather than resolves"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar ground for anyone who has read AN "
+                       "10.37"),
+    ],
+    why=(
+        "Upāli asks the most practical possible question about "
+        "conflict in the Saṅgha: what actually causes it? The "
+        "Buddha's answer is, word for word, the same five reversals "
+        "&mdash; misrepresenting the teaching, the training, and the "
+        "Realized One's words, practice, and prescriptions &mdash; "
+        "already met defining schism in AN 10.37."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Fights, quarrels, arguments, and disputes in the Saṅgha "
+            "trace back to a mendicant explaining the same five "
+            "things wrongly: the teaching, the training, and what the "
+            "Realized One said, practiced, and prescribed, each "
+            "explained as its opposite."]),
+        ("The same list, a third time, reframed", [
+            "This is not a new list: it is AN 10.37's ten grounds for "
+            "schism, transplanted into a new question. Where AN 10.37 "
+            "asked what counts as schism, this discourse asks what "
+            "causes ordinary discord short of a full split &mdash; "
+            "the same distortion, read at a smaller scale."]),
+        ("A puzzling chapter title", [
+            "Unusually for this nipāta, the chapter this discourse "
+            "opens is named for a word that does not occur in it: "
+            "<em>Akkosavagga</em>, the Chapter on Abuse. None of the "
+            "ten discourses that follow is actually about abuse or "
+            "reviling, by title or by content; the source gives no "
+            "explanation, and this guide records the mismatch rather "
+            "than inventing one."]),
+        ("Setting up two more repeats", [
+            "The same five-reversal list will appear again, nearly "
+            "unchanged, in AN 10.42, before AN 10.43 finally varies "
+            "the pattern with a genuinely different list of ten roots "
+            "of dispute, this time about disciplinary offenses rather "
+            "than doctrine."]),
+    ],
+    terms=[
+        ("vivāda",
+         "&ldquo;dispute&rdquo; &mdash; this discourse's own title, "
+         "the general condition AN 10.37 gives its extreme case "
+         "(schism) a technical definition for."),
+        ("bhaṇḍanajātā, kalahajātā",
+         "&ldquo;fights, quarrels&rdquo; &mdash; the concrete, "
+         "unhappy symptoms Upāli asks the cause of."),
+        ("bhikkhū ca na phāsu viharanti",
+         "&ldquo;the mendicants don't live happily&rdquo; &mdash; the "
+         "practical cost of the same distortion that, at its extreme, "
+         "constitutes schism."),
+        ("bhaṇḍanakalahaviggahavivādā",
+         "&ldquo;fights, quarrels, arguments, and disputes&rdquo; "
+         "&mdash; the compound naming, in one word, the full spectrum "
+         "of Saṅgha discord Upāli asks about."),
+        ("hetu, paccayo",
+         "&ldquo;cause&rdquo; and &ldquo;reason&rdquo; &mdash; the "
+         "paired terms in Upāli's own question, echoed in the "
+         "Buddha's answer."),
+    ],
+    text_intro=(
+        "The discourse in full: Upāli's question, and the Buddha's "
+        "answer. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upāli's question"),
+        ("p", "&sect;1", "an10.41:1.1-1.2"),
+        ("h3", "The cause of dispute"),
+        ("p", "&sect;2", "an10.41:1.3-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Upāli ask about in this discourse?",
+         "opts": [
+             "What causes fights, quarrels, arguments, and disputes "
+             "in the Saṅgha",
+             "How many qualities a mendicant needs to give ordination",
+             "What defines an expulsion offense",
+             "How many grounds suspend the recitation of the code"],
+         "correct": 0,
+         "expl": "The practical root cause of ordinary Saṅgha "
+                 "conflict."},
+        {"q": "How does the Buddha's answer compare to AN 10.37's "
+              "definition of schism?",
+         "opts": [
+             "Completely unrelated",
+             "Word for word the same five reversals, now framed as "
+             "the cause of dispute rather than the definition of "
+             "schism",
+             "A shortened three-item version",
+             "The exact opposite content"],
+         "correct": 1,
+         "expl": "The identical list, reused for a related but "
+                 "broader question."},
+        {"q": "According to the guide, what is puzzling about this "
+              "chapter's title?",
+         "opts": [
+             "Nothing; it is perfectly explained",
+             "The chapter is named Akkosavagga, the Chapter on Abuse, "
+             "but the word &ldquo;akkosa&rdquo; does not appear "
+             "anywhere in its ten discourses",
+             "The chapter has no title at all",
+             "The title contradicts the content directly"],
+         "correct": 1,
+         "expl": "An honest, unresolved mismatch between the "
+                 "chapter's name and its actual content."},
+        {"q": "What happens to this same list in the following two "
+              "discourses, according to the guide?",
+         "opts": [
+             "It never appears again",
+             "AN 10.42 repeats it nearly unchanged, then AN 10.43 "
+             "finally varies it with a genuinely different list about "
+             "disciplinary offenses",
+             "AN 10.42 immediately contradicts it",
+             "It is expanded to twenty items"],
+         "correct": 1,
+         "expl": "One more repeat, then a real variation."},
+        {"q": "What is described as the practical cost of this "
+              "distortion, short of full schism?",
+         "opts": [
+             "Nothing in particular",
+             "Fights, quarrels, arguments, and disputes, and the "
+             "mendicants not living happily",
+             "Automatic expulsion from the Saṅgha",
+             "A permanent ban on ordaining others"],
+         "correct": 1,
+         "expl": "Ordinary discord, distinct from the formal, "
+                 "extreme case of schism."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given, continuing this nipāta's "
+                 "pattern for the Upāli exchanges."},
+    ],
+    marginalia=[
+        ("Five reversals, again", [
+            "the same distortion",
+            "that defines schism, now asked",
+            "as a smaller cause",
+        ]),
+        ("A title that doesn't fit", [
+            "&ldquo;Abuse&rdquo; names this",
+            "chapter &mdash; yet no discourse here",
+            "ever uses the word",
+        ]),
+        ("One more repeat to come", [
+            "AN 10.42 echoes",
+            "this list once more, before",
+            "10.43 varies it",
+        ]),
+        ("Cross-references", [
+            "AN 10.40 &middot; previous, closing ch.4, Upālivagga",
+            "AN 10.37 &middot; the identical five reversals, there "
+            "defining schism itself",
+            "AN 10.42 &middot; next, the same list under a new title",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.41/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.40.html">AN 10.40</a> &mdash; previous, closing chapter 4, '
+        "Upālivagga.",
+        '<a href="an-10.37.html">AN 10.37 &middot; Schism in the Saṅgha</a> &mdash; the '
+        "identical five reversals, defining schism itself.",
+        '<a href="an-10.42.html">AN 10.42 &middot; Roots of Dispute (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.42 — Paṭhamavivādamūlasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, "Paṭhamavivādamūla", "Roots of Dispute (1st)",
+    vagga=VAGGA_5,
+    meta_title="AN 10.42 — Roots of Dispute (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamavivādamūlasutta, restating the same ten grounds "
+        "as AN 10.41 and AN 10.37 a third time, now as the ten roots "
+        "of dispute. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Upāli questioning the Buddha, "
+                     "continuing directly from AN 10.41"),
+        ("Form", "A single question, a single ten-item answer, "
+                 "identical in substance to AN 10.37 and 10.41"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "third appearance of familiar content"),
+    ],
+    why=(
+        "Upāli asks a more clinical version of AN 10.41's question: "
+        "not what causes disputes in general, but how many "
+        "<em>roots</em> of dispute there are. The Buddha's answer is, "
+        "for a third time, the identical five reversals &mdash; here "
+        "given their most technical framing yet."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are ten roots of dispute: a mendicant explaining "
+            "the teaching, the training, and what the Realized One "
+            "said, practiced, and prescribed, each as its opposite "
+            "&mdash; the same content as AN 10.37's definition of "
+            "schism and AN 10.39's account of its cause."]),
+        ("Third framing, same substance", [
+            "AN 10.37 asked what defines schism; AN 10.41 asked what "
+            "causes ordinary discord; this discourse asks, most "
+            "abstractly, how many <em>roots</em> (<em>mūla</em>) of "
+            "dispute exist. All three questions receive the identical "
+            "ten-item answer, without variation."]),
+        ("A title announcing its own sequel", [
+            "This discourse's title, &ldquo;Roots of Dispute "
+            "(1st)&rdquo;, explicitly signals a second installment to "
+            "come &mdash; and AN 10.43 delivers it, but not as a mere "
+            "repeat: it swaps in a wholly different list, about "
+            "disciplinary offenses rather than doctrine, under the "
+            "same title format."]),
+    ],
+    terms=[
+        ("vivādamūla",
+         "&ldquo;root of dispute&rdquo; &mdash; this discourse's own "
+         "title, the most abstract framing yet given to the same "
+         "five-reversal content."),
+        ("dhammaṁ adhammoti dīpeti",
+         "&ldquo;explains the teaching as not the teaching&rdquo; "
+         "&mdash; the second half of the first reversal, completing "
+         "the pair begun in AN 10.37's terms."),
+        ("paṭhama",
+         "&ldquo;first&rdquo; &mdash; marking this as the first of a "
+         "paired discourse, with AN 10.43 as its explicitly numbered "
+         "sequel."),
+        ("avinayaṁ vinayoti dīpeti",
+         "&ldquo;explains what is not the training as the "
+         "training&rdquo; &mdash; the second reversal in this "
+         "identical five-category list."),
+        ("apaññattaṁ tathāgatena paññattaṁ tathāgatenāti dīpeti",
+         "&ldquo;explains what was not prescribed by the Realized One "
+         "as prescribed by the Realized One&rdquo; &mdash; the fifth "
+         "and final reversal."),
+    ],
+    text_intro=(
+        "The discourse in full: Upāli's question, and the Buddha's "
+        "ten roots. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upāli's question"),
+        ("p", "&sect;1", "an10.42:1.1-1.3"),
+        ("h3", "Ten roots of dispute"),
+        ("p", "&sect;2", "an10.42:1.4-1.5"),
+    ],
+    quiz=[
+        {"q": "What does Upāli ask about in this discourse?",
+         "opts": [
+             "How many roots of dispute there are",
+             "How many grounds suspend the recitation of the code",
+             "What qualifies a mendicant to be a judge",
+             "How schism is defined"],
+         "correct": 0,
+         "expl": "The most abstract framing yet of the same recurring "
+                 "content."},
+        {"q": "How does the content of this discourse compare to AN "
+              "10.37 and 10.41?",
+         "opts": [
+             "Completely different",
+             "Identical: the same five reversals, appearing for a "
+             "third time under a third framing",
+             "A shortened summary",
+             "An expanded version with new items"],
+         "correct": 1,
+         "expl": "Three questions, one unchanged ten-item answer."},
+        {"q": "What does this discourse's title signal, according to "
+              "the guide?",
+         "opts": [
+             "Nothing beyond this single discourse",
+             "An explicit sequel: AN 10.43, &ldquo;Roots of Dispute "
+             "(2nd)&rdquo;, which turns out to swap in genuinely "
+             "different content",
+             "That this is the final discourse in the chapter",
+             "A contradiction with AN 10.41"],
+         "correct": 1,
+         "expl": "A numbered pairing that resolves differently than "
+                 "expected."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given, continuing the pattern for "
+                 "the Upāli exchanges."},
+    ],
+    marginalia=[
+        ("A third telling", [
+            "schism, then dispute's",
+            "cause, now its abstract roots &mdash;",
+            "one list, three questions",
+        ]),
+        ("A sequel promised", [
+            "&ldquo;first&rdquo; in its own name &mdash;",
+            "10.43 answers,",
+            "but with something new",
+        ]),
+        ("Most abstract framing yet", [
+            "not schism, not cause &mdash;",
+            "now simply &ldquo;roots&rdquo;, the same",
+            "content, renamed again",
+        ]),
+        ("Cross-references", [
+            "AN 10.41 &middot; previous, the same list as the cause "
+            "of dispute",
+            "AN 10.37 &middot; the same list again, there defining "
+            "schism",
+            "AN 10.43 &middot; next, a genuinely different list of "
+            "roots",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.42/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.41.html">AN 10.41 &middot; Dispute</a> &mdash; previous.',
+        '<a href="an-10.43.html">AN 10.43 &middot; Roots of Dispute (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.43 — Dutiyavivādamūlasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, "Dutiyavivādamūla", "Roots of Dispute (2nd)",
+    vagga=VAGGA_5,
+    meta_title="AN 10.43 — Roots of Dispute (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyavivādamūlasutta, which finally breaks the pattern "
+        "of the last three discourses with a genuinely new list of "
+        "ten roots of dispute over disciplinary offenses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Upāli questioning the Buddha, "
+                     "continuing directly from AN 10.42"),
+        ("Form", "A single question, a single ten-item answer, in "
+                 "five newly paired reversals"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "genuinely new content after three repeats"),
+    ],
+    why=(
+        "Upāli asks the identical question that opened AN 10.42, "
+        "expecting perhaps another repeat &mdash; but this time the "
+        "Buddha answers with a wholly different list: not "
+        "distortions of doctrine, but disagreements over how to "
+        "classify a specific disciplinary offense."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A second set of ten roots of dispute concerns offenses "
+            "themselves: misjudging whether something is an offense "
+            "at all, whether it is light or serious, whether corrupt "
+            "intention was involved, whether it requires "
+            "rehabilitation, and whether it has redress &mdash; each "
+            "judged wrongly in either direction."]),
+        ("The pattern finally breaks", [
+            "After AN 10.37, 10.41, and 10.42 all delivered the same "
+            "five doctrinal reversals under three different "
+            "questions, this discourse repeats only the question's "
+            "wording, not its answer &mdash; genuinely new content, "
+            "arriving exactly where a fourth repeat might have been "
+            "expected."]),
+        ("A practical, procedural register", [
+            "Where the earlier list concerned doctrine in the "
+            "abstract, this one is squarely about case-by-case Vinaya "
+            "judgment: whether a specific act counts as an offense, "
+            "how serious it is, whether it was intentional, and what "
+            "follows from each classification &mdash; the kind of "
+            "dispute an <em>ubbāhikā</em> judge (AN 10.33) would "
+            "actually be convened to settle."]),
+    ],
+    terms=[
+        ("anāpattiṁ āpattīti dīpeti",
+         "&ldquo;explains what is not an offense as an offense&rdquo; "
+         "&mdash; the first of this discourse's five new reversals."),
+        ("lahukaṁ āpattiṁ garukāpattīti dīpeti",
+         "&ldquo;explains a light offense as a serious offense&rdquo; "
+         "&mdash; the second reversal, over an offense's severity."),
+        ("duṭṭhullaṁ āpattiṁ aduṭṭhullāpattīti dīpeti",
+         "&ldquo;explains an offense committed with corrupt intention "
+         "as an offense not committed with corrupt intention&rdquo; "
+         "&mdash; the third reversal."),
+        ("sāvasesaṁ āpattiṁ anavasesāpattīti dīpeti",
+         "&ldquo;explains an offense requiring rehabilitation as an "
+         "offense not requiring rehabilitation&rdquo; &mdash; the "
+         "fourth reversal, over what remedy an offense calls for."),
+        ("sappaṭikammaṁ āpattiṁ appaṭikammāpattīti dīpeti",
+         "&ldquo;explains an offense with redress as an offense "
+         "without redress&rdquo; &mdash; the fifth and final "
+         "reversal."),
+    ],
+    text_intro=(
+        "The discourse in full: Upāli's question, and the Buddha's "
+        "second, distinct list of ten roots. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Upāli's question"),
+        ("p", "&sect;1", "an10.43:1.1-1.3"),
+        ("h3", "Ten roots of dispute, over offenses"),
+        ("p", "&sect;2", "an10.43:1.4-1.5"),
+    ],
+    quiz=[
+        {"q": "What does Upāli ask about in this discourse?",
+         "opts": [
+             "The same question as AN 10.42: how many roots of "
+             "dispute there are",
+             "How to suspend the recitation of the monastic code",
+             "What defines harmony in the Saṅgha",
+             "How many qualities a preceptor needs"],
+         "correct": 0,
+         "expl": "The identical question, but this time with a "
+                 "different answer."},
+        {"q": "How does the Buddha's answer here compare to AN 10.37, "
+              "10.41, and 10.42?",
+         "opts": [
+             "Identical to all three",
+             "A genuinely new list, about judging disciplinary "
+             "offenses rather than doctrine",
+             "A shortened version of the same list",
+             "No answer is given"],
+         "correct": 1,
+         "expl": "The pattern of three straight repeats finally "
+                 "breaks here."},
+        {"q": "Which of these is one of this discourse's five new "
+              "categories of dispute?",
+         "opts": [
+             "Whether an offense is light or serious",
+             "Whether the weather favors travel",
+             "Whether a donor's gift was generous",
+             "Whether a mendicant is senior or junior"],
+         "correct": 0,
+         "expl": "One of five: offense/not, light/serious, corrupt/"
+                 "not intention, needing/not needing rehabilitation, "
+                 "with/without redress."},
+        {"q": "According to the guide, what kind of dispute does this "
+              "list concern, compared to the earlier one?",
+         "opts": [
+             "The same kind, doctrine in the abstract",
+             "Practical, case-by-case Vinaya judgment &mdash; exactly "
+             "the kind of matter an ubbāhikā judge (AN 10.33) would "
+             "be convened to settle",
+             "A dispute about meditation technique",
+             "A dispute about cosmology"],
+         "correct": 1,
+         "expl": "A shift from doctrinal distortion to procedural "
+                 "offense-classification."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given, continuing the pattern for "
+                 "the Upāli exchanges."},
+    ],
+    marginalia=[
+        ("The pattern breaks", [
+            "same question asked twice &mdash;",
+            "but this time a truly new",
+            "answer follows it",
+        ]),
+        ("Judging the offense itself", [
+            "light or serious,",
+            "meant or not, with remedy",
+            "or none &mdash; five new pairs",
+        ]),
+        ("A judge's real work", [
+            "this is what AN 10.33's",
+            "judge would actually face &mdash;",
+            "not doctrine, but cases",
+        ]),
+        ("Cross-references", [
+            "AN 10.42 &middot; previous, the same question, a "
+            "different answer",
+            "AN 10.33 &middot; A Judge, whose qualifications this "
+            "discourse's content puts to practical use",
+            "AN 10.44 &middot; next, at Kusinārā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.43/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.42.html">AN 10.42 &middot; Roots of Dispute (1st)</a> &mdash; previous.',
+        '<a href="an-10.33.html">AN 10.33 &middot; A Judge</a> &mdash; whose work this '
+        "discourse's content serves.",
+        '<a href="an-10.44.html">AN 10.44 &middot; At Kusinārā</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.44 — Kusinārasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, "Kusinārā", "At Kusinārā",
+    vagga=VAGGA_5,
+    meta_title="AN 10.44 — At Kusinārā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kusinārasutta, in which the Buddha lists five things an "
+        "accuser must check in themselves and five things they must "
+        "establish before accusing another mendicant. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Near Kusinārā, in the Forest of Offerings"),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Two matched sets of five, ten items total"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, practically oriented"),
+    ],
+    why=(
+        "Having just given the technical grounds for disputing an "
+        "offense (AN 10.43), the Buddha now turns to the accuser's "
+        "own conduct: before pointing a finger, a mendicant must "
+        "check five qualities in themselves, and commit to five "
+        "further standards of speech &mdash; a discourse about the "
+        "ethics of accusation itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who wants to accuse another should first "
+            "check whether their own bodily and verbal conduct is "
+            "pure, whether their heart holds no resentment, whether "
+            "they are sufficiently learned, and whether they know "
+            "both monastic codes well enough &mdash; and should "
+            "commit to speaking at the right time, truthfully, "
+            "gently, beneficially, and lovingly."]),
+        ("A checklist with social teeth", [
+            "Each of the first five self-checks comes with a "
+            "consequence attached: if the accuser is found wanting in "
+            "any one of them, the source states plainly what "
+            "onlookers will say &mdash; &ldquo;train your own bodily "
+            "behavior first,&rdquo; and so on &mdash; making this not "
+            "merely an ideal but a socially enforced standard."]),
+        ("A famous quintet of speech", [
+            "The second five &mdash; speaking at the right time, "
+            "truthfully, gently, beneficially, and lovingly &mdash; "
+            "closely track the well-known five factors of well-spoken "
+            "speech taught elsewhere in the canon, here repurposed "
+            "specifically for the moment of leveling an accusation."]),
+        ("A rare place-name setting", [
+            "Kusinārā, the site of the Buddha's eventual "
+            "extinguishment, appears here simply as an ordinary "
+            "teaching location with no narrative weight attached "
+            "&mdash; this discourse gives no indication of when in "
+            "the Buddha's life it was spoken."]),
+    ],
+    terms=[
+        ("codaka",
+         "&ldquo;accuser&rdquo; &mdash; the mendicant this discourse "
+         "addresses, about to bring a charge against another."),
+        ("kāyasamācāra, vacīsamācāra",
+         "&ldquo;bodily behavior, verbal behavior&rdquo; &mdash; the "
+         "first two qualities an accuser must check in themselves."),
+        ("mettacitta",
+         "a heart &ldquo;established in love&rdquo; for one's "
+         "spiritual companions, without resentment &mdash; the third "
+         "quality to check."),
+        ("kālena vakkhāmi, no akālena",
+         "&ldquo;I will speak at the right time, not at the wrong "
+         "time&rdquo; &mdash; the first of the five standards an "
+         "accuser must establish."),
+        ("ubhayāni pātimokkhāni",
+         "&ldquo;both monastic codes&rdquo; &mdash; the fifth "
+         "self-check, echoing AN 10.33's judge qualification."),
+    ],
+    text_intro=(
+        "The discourse in full: the setting, the five self-checks, "
+        "and the five standards of speech. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Setting"),
+        ("p", "&sect;1", "an10.44:1.1-1.5"),
+        ("h3", "Five things to check in oneself"),
+        ("p", "&sect;2", "an10.44:2.1-6.7"),
+        ("h3", "Five things to establish in oneself"),
+        ("p", "&sect;3", "an10.44:7.1-7.8"),
+    ],
+    quiz=[
+        {"q": "What must a mendicant who wants to accuse another do "
+              "first, according to this discourse?",
+         "opts": [
+             "Nothing; accusations may be made freely",
+             "Check five qualities in themselves and establish five "
+             "further standards of speech",
+             "Consult only the preceptor",
+             "Wait a full year before speaking"],
+         "correct": 1,
+         "expl": "A ten-item ethics of accusation, five to check and "
+                 "five to establish."},
+        {"q": "What happens if the accuser is found lacking in one of "
+              "the first five qualities, according to the guide?",
+         "opts": [
+             "Nothing follows from it",
+             "The source states what onlookers will say &mdash; e.g. "
+             "&ldquo;train your own bodily behavior first&rdquo; "
+             "&mdash; making it a socially enforced standard",
+             "The accuser is automatically expelled",
+             "The accusation becomes stronger"],
+         "correct": 1,
+         "expl": "A checklist with a stated social consequence "
+                 "attached to each item."},
+        {"q": "What does the guide note about the second set of five "
+              "qualities?",
+         "opts": [
+             "They are unrelated to speech",
+             "They closely track a well-known set of five factors of "
+             "well-spoken speech found elsewhere in the canon",
+             "They are ten items, not five",
+             "They only apply to laypeople"],
+         "correct": 1,
+         "expl": "Right time, truth, gentleness, benefit, and love "
+                 "&mdash; a familiar quintet repurposed here."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Near Kusinārā, in the Forest of Offerings",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "The place-name giving this discourse its title."},
+        {"q": "Does this discourse connect Kusinārā to the Buddha's "
+              "eventual passing?",
+         "opts": [
+             "Yes, explicitly",
+             "No &mdash; the place appears here with no narrative "
+             "weight, simply as an ordinary teaching location",
+             "Only in a single ambiguous line",
+             "The setting is left unstated"],
+         "correct": 1,
+         "expl": "No indication is given of when in the Buddha's life "
+                 "this was spoken."},
+    ],
+    marginalia=[
+        ("Before you accuse", [
+            "check body, speech, heart,",
+            "learning, both codes &mdash; then speak",
+            "true, gentle, in time",
+        ]),
+        ("A checklist with teeth", [
+            "fail one, and others",
+            "will say so aloud &mdash; not just",
+            "a private standard",
+        ]),
+        ("An ordinary place-name", [
+            "Kusinārā here",
+            "carries no special weight &mdash;",
+            "just where this was taught",
+        ]),
+        ("Cross-references", [
+            "AN 10.43 &middot; previous, the technical grounds for "
+            "disputing an offense",
+            "AN 10.45 &middot; next, ten drawbacks of entering a "
+            "royal compound",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.44/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.43.html">AN 10.43 &middot; Roots of Dispute (2nd)</a> &mdash; previous.',
+        '<a href="an-10.45.html">AN 10.45 &middot; Entering a Royal Compound</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.45 — Rājantepurappavesanasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, "Rājantepurappavesana", "Entering a Royal Compound",
+    vagga=VAGGA_5,
+    meta_title="AN 10.45 — Entering a Royal Compound | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rājantepurappavesanasutta, the Buddha's vivid, almost "
+        "comic ten-item catalogue of everything that can go wrong "
+        "when a monk enters a royal harem compound. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten numbered drawbacks, mostly following a repeated "
+                 "narrative pattern"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "vivid and easy to follow"),
+    ],
+    why=(
+        "In the most concretely narrative discourse of this chapter "
+        "so far, the Buddha catalogues ten specific ways a mendicant "
+        "can come under suspicion simply by entering a king's private "
+        "compound &mdash; from a shared smile misread as an affair to "
+        "being blamed for a lost gem, a royal pregnancy, or a leaked "
+        "state secret."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Entering a royal compound carries ten drawbacks: a "
+            "misread smile, being blamed for an unremembered "
+            "pregnancy, a lost gem, a leaked secret, a father or son's "
+            "grief, a promotion or demotion, an army dispatched "
+            "wrongly or recalled, and unavoidable sensory temptation "
+            "&mdash; each capable of ruining a mendicant's reputation "
+            "through no fault of their own."]),
+        ("Suspicion, not misconduct", [
+            "Strikingly, none of the first nine drawbacks describes "
+            "actual wrongdoing by the monk: each is a case of "
+            "circumstantial suspicion falling on him simply because "
+            "he was present, illustrating how a monastic's mere "
+            "proximity to power creates risk regardless of conduct."]),
+        ("A repeated narrative engine", [
+            "Drawbacks two through nine share a near-identical "
+            "structure: something goes wrong in the palace, and the "
+            "king or courtiers reason, &ldquo;no-one else has entered "
+            "here except that monk &mdash; could this be his "
+            "doing?&rdquo; &mdash; a refrain repeated eight times with "
+            "only the misfortune changing."]),
+        ("A tenth drawback of a different kind", [
+            "Only the final drawback breaks the pattern: rather than "
+            "another incident of misplaced blame, it names the plain "
+            "sensory temptation &mdash; the trampling of elephants, "
+            "horses, and chariots, and arousing sights, sounds, "
+            "smells, tastes, and touches &mdash; that simply does not "
+            "belong in a monastic life, closing the list on an "
+            "internal rather than reputational risk."]),
+    ],
+    terms=[
+        ("rājantepura",
+         "&ldquo;royal compound&rdquo; or inner palace &mdash; "
+         "specifically the women's quarters, this discourse's own "
+         "title and subject."),
+        ("ādīnava",
+         "&ldquo;drawback&rdquo; or danger &mdash; the term counting "
+         "each of the ten items in this list."),
+        ("na kho idha añño koci pavisati, aññatra pabbajitena",
+         "&ldquo;no-one else has entered here, except for that "
+         "monk&rdquo; &mdash; the refrain repeated across most of the "
+         "ten drawbacks."),
+        ("na pabbajitassa sāruppāni",
+         "&ldquo;that do not befit a monk&rdquo; &mdash; the closing "
+         "phrase naming the tenth drawback's sensory dangers."),
+        ("aññataraṁ ratanaṁ nassati",
+         "&ldquo;a gem is lost somewhere in the royal compound&rdquo; "
+         "&mdash; the third drawback, another case of circumstantial "
+         "blame falling on the visiting monk."),
+    ],
+    text_intro=(
+        "The discourse in full: all ten drawbacks. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten drawbacks of entering a royal compound"),
+        ("p", "&sect;1", "an10.45:1.1-10.3"),
+    ],
+    quiz=[
+        {"q": "What is this discourse's subject?",
+         "opts": [
+             "Ten benefits of royal patronage",
+             "Ten drawbacks of a monk entering a royal compound",
+             "Ten qualities of a good king",
+             "Ten rules for lay donors"],
+         "correct": 1,
+         "expl": "A vivid catalogue of everything that can go wrong."},
+        {"q": "According to the guide, what do the first nine "
+              "drawbacks have in common?",
+         "opts": [
+             "They all describe actual misconduct by the monk",
+             "None describes real wrongdoing; each is circumstantial "
+             "suspicion falling on him simply for being present",
+             "They are all about financial loss",
+             "They only apply to nuns, not monks"],
+         "correct": 1,
+         "expl": "Proximity to power creates risk regardless of "
+                 "actual conduct."},
+        {"q": "What refrain is repeated across most of the ten "
+              "drawbacks?",
+         "opts": [
+             "&ldquo;The king is generous&rdquo;",
+             "&ldquo;No-one else has entered here, except for that "
+             "monk &mdash; could this be his doing?&rdquo;",
+             "&ldquo;The queen is wise&rdquo;",
+             "There is no repeated refrain"],
+         "correct": 1,
+         "expl": "The same suspicious reasoning, applied to eight "
+                 "different misfortunes."},
+        {"q": "How does the tenth drawback differ from the rest, "
+              "according to the guide?",
+         "opts": [
+             "It does not differ at all",
+             "It names plain sensory temptation rather than another "
+             "case of misplaced blame &mdash; an internal risk, not a "
+             "reputational one",
+             "It is about financial corruption specifically",
+             "It repeats the ninth drawback exactly"],
+         "correct": 1,
+         "expl": "A shift from circumstantial suspicion to genuine "
+                 "sensory danger."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A smile, misread", [
+            "queen smiles, monk smiles back &mdash;",
+            "the king draws his own",
+            "conclusion, wrongly",
+        ]),
+        ("Blamed by presence alone", [
+            "a gem goes missing,",
+            "a secret leaks &mdash; &ldquo;no-one else",
+            "entered here but him&rdquo;",
+        ]),
+        ("A different tenth risk", [
+            "not suspicion now,",
+            "but elephants, chariots,",
+            "sights not fit for robes",
+        ]),
+        ("Cross-references", [
+            "AN 10.44 &middot; previous, at Kusinārā",
+            "AN 10.46 &middot; next, with the Sakyans",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.45/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.44.html">AN 10.44 &middot; At Kusinārā</a> &mdash; previous.',
+        '<a href="an-10.46.html">AN 10.46 &middot; With the Sakyans</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.46 — Sakyasutta
+# --------------------------------------------------------------------------- #
+page(
+    46, "Sakya", "With the Sakyans",
+    vagga=VAGGA_5,
+    meta_title="AN 10.46 — With the Sakyans | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakyasutta, in which the Buddha uses an escalating "
+        "wealth simile and a mirrored countdown of practice-years to "
+        "urge lay Sakyans toward the eight-factored sabbath. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kapilavatthu, in the land of the Sakyans, at "
+                     "the Banyan Tree Monastery"),
+        ("Speakers", "The Buddha addressing several Sakyan lay "
+                     "followers"),
+        ("Form", "A dialogue building two escalating similes: rising "
+                 "wealth, then a countdown of practice-time"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "long but propelled by clear repetition"),
+    ],
+    why=(
+        "When several Sakyan lay followers admit they only "
+        "sometimes keep the eight-factored sabbath, the Buddha builds "
+        "a case in two movements: first, that even a lifetime of "
+        "accumulated wealth cannot buy a single day of perfect "
+        "happiness, and second, that even a single day of diligent "
+        "practice can secure it, along with a real shot at "
+        "stream-entry."),
+    guide=[
+        ("The teaching in one sentence", [
+            "No amount of wealth, however large, can buy even a "
+            "single day or night of perfect happiness, because "
+            "sensual pleasures are impermanent and hollow; but a "
+            "disciple who practices diligently for as little as a "
+            "single day can experience that happiness for a hundred "
+            "thousand years and become, at the very least, a "
+            "stream-enterer."]),
+        ("An escalating wealth simile", [
+            "The Buddha walks the Sakyans up an elided ladder of "
+            "daily earnings &mdash; half a dollar, then a dollar, "
+            "then two through ten, twenty through a hundred &mdash; "
+            "each time asking whether this still counts as an honest, "
+            "industrious wage, before revealing that even a "
+            "century's accumulated fortune cannot purchase a single "
+            "day of true happiness."]),
+        ("A mirrored countdown, in reverse", [
+            "The second half runs the same rhetorical device "
+            "backward: instead of climbing upward in wealth, it "
+            "counts diligent practice downward &mdash; ten years, "
+            "nine, eight&hellip; down through months, then days, all "
+            "the way to a single day &mdash; each length still "
+            "sufficient for the same extraordinary result, driving "
+            "home how disproportionately small an investment secures "
+            "an incomparably larger return."]),
+        ("A concrete number in a doctrinal text", [
+            "The wealth simile's dollar figures are an unusually "
+            "concrete, almost mercantile detail for this project's "
+            "discourses so far, giving the Sakyans' own world of "
+            "trade and commerce as the very measure the Buddha uses "
+            "to outbid it."]),
+    ],
+    terms=[
+        ("uposatha aṭṭhaṅgasamannāgata",
+         "&ldquo;the sabbath endowed with eight factors&rdquo; "
+         "&mdash; the observance-day practice the Sakyans admit they "
+         "keep only inconsistently."),
+        ("aniccā, tucchā, musā, mosadhammā",
+         "&ldquo;impermanent, hollow, false, and deceptive&rdquo; "
+         "&mdash; the Sakyans' own four-word verdict on sensual "
+         "pleasures, given in answer to the Buddha's question."),
+        ("appamatto ātāpī pahitatto",
+         "&ldquo;diligent, keen, and resolute&rdquo; &mdash; the "
+         "three qualities of practice that, sustained even briefly, "
+         "outweigh a lifetime of wealth."),
+        ("apaṇṇakaṁ sotāpanno",
+         "&ldquo;as a sure bet, a stream-enterer&rdquo; &mdash; the "
+         "guaranteed minimum result promised even for the shortest "
+         "span of diligent practice named."),
+        ("kahāpaṇa",
+         "a unit of currency, rendered &ldquo;dollar&rdquo; in this "
+         "translation &mdash; the escalating unit counted upward "
+         "through the wealth simile."),
+    ],
+    text_intro=(
+        "The discourse in full: the Sakyans' admission, the rising "
+        "wealth simile, and the descending countdown of practice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Sakyans' admission"),
+        ("p", "&sect;1", "an10.46:1.1-1.5"),
+        ("h3", "A rising simile of wealth"),
+        ("p", "&sect;2", "an10.46:2.1-5.3"),
+        ("h3", "Wealth cannot buy a single day's happiness"),
+        ("p", "&sect;3", "an10.46:6.1-6.5"),
+        ("h3", "A countdown of practice, and the Sakyans' resolve"),
+        ("p", "&sect;4", "an10.46:7.1-12.11"),
+    ],
+    quiz=[
+        {"q": "What do the Sakyan lay followers admit at the start of "
+              "this discourse?",
+         "opts": [
+             "That they never observe the sabbath",
+             "That they only sometimes observe the eight-factored "
+             "sabbath",
+             "That they have never heard of the sabbath",
+             "That they observe it perfectly every time"],
+         "correct": 1,
+         "expl": "An honest, partial admission that prompts the "
+                 "Buddha's teaching."},
+        {"q": "What does the rising wealth simile ultimately show, "
+              "according to the guide?",
+         "opts": [
+             "That wealth is inherently evil",
+             "That even a century's accumulated fortune cannot "
+             "purchase a single day or night of true happiness",
+             "That the Sakyans are unusually wealthy",
+             "That daily wages should be higher"],
+         "correct": 1,
+         "expl": "An escalating ladder of earnings, climbing toward a "
+                 "deliberately unsatisfying conclusion."},
+        {"q": "How does the second half of the discourse mirror the "
+              "first, according to the guide?",
+         "opts": [
+             "It repeats the same wealth figures exactly",
+             "It runs a matching countdown in the opposite direction "
+             "&mdash; practice-years descending from ten down to a "
+             "single day, each still sufficient for the same result",
+             "It has no relation to the first half",
+             "It abandons similes entirely for plain statement"],
+         "correct": 1,
+         "expl": "A mirrored rhetorical structure, wealth ascending "
+                 "and practice-time descending."},
+        {"q": "What is guaranteed even for a single day of diligent "
+              "practice, according to this discourse?",
+         "opts": [
+             "Nothing in particular",
+             "Extraordinary happiness, and at the very least "
+             "stream-entry as &ldquo;a sure bet&rdquo;",
+             "Immediate full enlightenment",
+             "Only a modest improvement in mood"],
+         "correct": 1,
+         "expl": "A remarkably strong guarantee attached to even the "
+                 "shortest span named."},
+        {"q": "How do the Sakyans respond by the end of the "
+              "discourse?",
+         "opts": [
+             "They reject the Buddha's teaching",
+             "They resolve, from that day forth, to observe the "
+             "eight-factored sabbath",
+             "They ask no further questions and leave silently",
+             "They request a different teaching entirely"],
+         "correct": 1,
+         "expl": "A concrete resolution closing the exchange."},
+    ],
+    marginalia=[
+        ("A fortune, still not enough", [
+            "half a dollar, then",
+            "a hundred a day for years &mdash;",
+            "not one happy night",
+        ]),
+        ("One day, outweighing all", [
+            "diligent a day,",
+            "and stream-entry is a sure",
+            "bet, the Buddha says",
+        ]),
+        ("Two similes, mirrored", [
+            "wealth climbs up and up;",
+            "practice-years count down instead &mdash;",
+            "both arrive at one",
+        ]),
+        ("Cross-references", [
+            "AN 10.45 &middot; previous, ten drawbacks of entering a "
+            "royal compound",
+            "AN 10.47 &middot; next, with Mahāli",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.46/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.45.html">AN 10.45 &middot; Entering a Royal Compound</a> &mdash; '
+        "previous.",
+        '<a href="an-10.47.html">AN 10.47 &middot; With Mahāli</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.47 — Mahālisutta
+# --------------------------------------------------------------------------- #
+page(
+    47, "Mahāli", "With Mahāli",
+    vagga=VAGGA_5,
+    meta_title="AN 10.47 — With Mahāli | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahālisutta, in which the Buddha gives Mahāli the "
+        "Licchavi five causes of bad deeds and five causes of good "
+        "deeds, expanding the classic three roots with two cognitive "
+        "factors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with "
+                     "the peaked roof"),
+        ("Speakers", "Mahāli the Licchavi questioning the Buddha"),
+        ("Form", "Two matched questions, each answered with a "
+                 "five-item list, in a repeated five-fold formula"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "builds on very familiar doctrinal ground"),
+    ],
+    why=(
+        "Mahāli the Licchavi asks the most basic ethical question "
+        "there is: why do people do bad things, and why do they do "
+        "good things? The Buddha's paired five-item answers expand "
+        "the classic three roots of greed, hate, and delusion with "
+        "two further cognitive causes on each side."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Bad deeds arise from greed, hate, delusion, irrational "
+            "application of mind, and a wrongly directed mind; good "
+            "deeds arise from their five opposites &mdash; "
+            "contentment, love, understanding, rational application "
+            "of mind, and a rightly directed mind &mdash; and without "
+            "all ten, neither immoral nor moral conduct would ever be "
+            "seen in the world."]),
+        ("The classic three roots, expanded to five", [
+            "The first three items on each side &mdash; greed, hate, "
+            "delusion versus their positive counterparts &mdash; are "
+            "the three unwholesome and wholesome roots met "
+            "repeatedly elsewhere in this project; this discourse "
+            "adds two further causes on each side, both about how the "
+            "mind attends to its object: irrational or rational "
+            "application of mind, and a wrongly or rightly directed "
+            "mind."]),
+        ("A tidy symmetry", [
+            "Unlike many of this chapter's lists, this one closes "
+            "with an explicit logical claim rather than a bare "
+            "listing: if these ten things did not exist in the world, "
+            "neither immoral nor moral conduct would ever appear "
+            "&mdash; the causes are offered as jointly necessary and "
+            "sufficient, not merely descriptive."]),
+    ],
+    terms=[
+        ("ayoniso manasikāra, yoniso manasikāra",
+         "&ldquo;irrational application of mind, rational application "
+         "of mind&rdquo; &mdash; the fourth cause on each side, "
+         "concerning how attention is directed."),
+        ("micchāpaṇihitaṁ cittaṁ, sammāpaṇihitaṁ cittaṁ",
+         "&ldquo;a wrongly directed mind, a rightly directed "
+         "mind&rdquo; &mdash; the fifth and final cause on each side."),
+        ("lobha, dosa, moha",
+         "greed, hate, and delusion &mdash; the classic three "
+         "unwholesome roots, forming this discourse's first three "
+         "causes of bad deeds."),
+        ("alobho, adoso, amoho",
+         "non-greed, non-hate, non-delusion &mdash; the three "
+         "wholesome roots forming this discourse's first three causes "
+         "of good deeds."),
+        ("hetu, paccayo",
+         "&ldquo;cause&rdquo; and &ldquo;reason&rdquo; &mdash; the "
+         "paired terms in Mahāli's own question, echoed through both "
+         "of the Buddha's five-item answers."),
+    ],
+    text_intro=(
+        "The discourse in full: Mahāli's two questions, and the "
+        "Buddha's two five-item answers. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The cause of bad deeds"),
+        ("p", "&sect;1", "an10.47:1.1-1.9"),
+        ("h3", "The cause of good deeds"),
+        ("p", "&sect;2", "an10.47:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What does Mahāli ask the Buddha?",
+         "opts": [
+             "Why the Saṅgha follows monastic law",
+             "What causes bad deeds, and what causes good deeds",
+             "How to enter a royal compound safely",
+             "What defines schism in the Saṅgha"],
+         "correct": 1,
+         "expl": "The most basic possible ethical question."},
+        {"q": "According to the guide, what do the first three items "
+              "on each side represent?",
+         "opts": [
+             "A brand new list unique to this discourse",
+             "The classic three unwholesome and wholesome roots "
+             "&mdash; greed, hate, delusion and their opposites "
+             "&mdash; met repeatedly elsewhere in this project",
+             "Ten unrelated Vinaya categories",
+             "A list about royal compounds"],
+         "correct": 1,
+         "expl": "Familiar doctrinal ground, expanded here."},
+        {"q": "What two additional causes does this discourse add "
+              "beyond the classic three roots?",
+         "opts": [
+             "Two more offense categories",
+             "Irrational or rational application of mind, and a "
+             "wrongly or rightly directed mind",
+             "Two additional forms of greed",
+             "No additional causes are given"],
+         "correct": 1,
+         "expl": "Two cognitive factors about how attention and "
+                 "intention are directed."},
+        {"q": "How does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "With a bare list and nothing more",
+             "With an explicit logical claim: without these ten "
+             "things, neither immoral nor moral conduct would ever "
+             "be seen in the world",
+             "With a verse",
+             "With an unanswered question"],
+         "correct": 1,
+         "expl": "The causes are framed as jointly necessary and "
+                 "sufficient."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood, in the hall with the peaked "
+             "roof",
+             "No setting is stated in the source"],
+         "correct": 2,
+         "expl": "A specific, named location, unlike most of this "
+                 "chapter's Upāli exchanges."},
+    ],
+    marginalia=[
+        ("Ten causes, mirrored", [
+            "greed, hate, delusion &mdash; then",
+            "how the mind attends,",
+            "and where it is aimed",
+        ]),
+        ("Three roots, familiar", [
+            "met before, in other",
+            "chapters, other nipātas &mdash;",
+            "now given two more",
+        ]),
+        ("A necessary ten", [
+            "without these causes,",
+            "the guide notes, the world would see",
+            "neither good nor bad",
+        ]),
+        ("Cross-references", [
+            "AN 10.46 &middot; previous, with the Sakyans",
+            "AN 10.48 &middot; next, ten regular reflections for a "
+            "renunciate",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.47/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.46.html">AN 10.46 &middot; With the Sakyans</a> &mdash; previous.',
+        '<a href="an-10.48.html">AN 10.48 &middot; Ten Regular Reflections for a '
+        'Renunciate</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.48 — Pabbajitaabhiṇhasutta
+# --------------------------------------------------------------------------- #
+page(
+    48, "Pabbajitaabhiṇha", "Ten Regular Reflections for a Renunciate",
+    vagga=VAGGA_5,
+    meta_title="AN 10.48 — Ten Regular Reflections for a Renunciate | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pabbajitaabhiṇhasutta, one of the canon's best-known "
+        "chanted lists: the ten things a renunciate should reflect "
+        "on again and again. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten first-person reflections, listed in sequence"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plainly stated, though weighty to sit with"),
+    ],
+    why=(
+        "This discourse gives one of the most widely known lists in "
+        "the entire canon &mdash; still chanted in monasteries today "
+        "&mdash; ten first-person reflections a renunciate should "
+        "return to again and again, from having left social class "
+        "behind to facing, unflinching, the fact of death."),
+    guide=[
+        ("The teaching in one sentence", [
+            "One who has gone forth should often reflect: I have "
+            "secured freedom from class; my livelihood depends on "
+            "others; my behavior must change accordingly; am I "
+            "blameless in ethics, and free of my companions' "
+            "reproach; I will be parted from all I hold dear; I am "
+            "the owner and heir of my own deeds; what am I becoming "
+            "as the days pass; do I love solitude; and do I have "
+            "anything to show for this practice when I die?"]),
+        ("A list built for daily return", [
+            "Unlike most lists in this project, this one is framed "
+            "explicitly for repeated, ongoing use &mdash; "
+            "<em>abhiṇhaṁ</em>, &ldquo;often, again and again&rdquo; "
+            "&mdash; not as doctrine to be understood once but as a "
+            "practice of regular self-examination, still recited in "
+            "many monastic communities today."]),
+        ("From social status to mortality", [
+            "The ten reflections trace an arc: the first three "
+            "concern the renunciate's changed social position "
+            "(freedom from caste, dependent livelihood, changed "
+            "conduct), the middle four turn inward to ethics, loss, "
+            "and karma, and the final three confront practice "
+            "directly &mdash; daily self-scrutiny, love of "
+            "solitude, and, starkly, whether there will be anything "
+            "to show for it at the moment of death."]),
+        ("A death-facing final reflection", [
+            "The tenth and final reflection is unusually direct for "
+            "this project: it asks whether the renunciate has "
+            "&ldquo;any superhuman distinctions in knowledge and "
+            "vision&rdquo; worthy of the noble ones, so that when "
+            "spiritual companions question them on their deathbed "
+            "they will not be embarrassed &mdash; making the entire "
+            "list, in effect, an examination to be passed before "
+            "death arrives."]),
+    ],
+    terms=[
+        ("abhiṇhaṁ paccavekkhitabbaṁ",
+         "&ldquo;should often review&rdquo; &mdash; the phrase "
+         "framing this list as a practice of repeated reflection, not "
+         "a one-time teaching."),
+        ("vevaṇṇiyamhi ajjhupagato",
+         "&ldquo;I have secured freedom from class&rdquo; &mdash; "
+         "the first reflection, on having left caste status behind "
+         "at ordination."),
+        ("kammassakomhi kammadāyādo kammayoni kammabandhu "
+         "kammapaṭisaraṇo",
+         "&ldquo;I am the owner of my deeds and heir to my deeds. "
+         "Deeds are my womb, my relative, and my refuge&rdquo; "
+         "&mdash; the seventh and eighth reflections together, on "
+         "the ownership of karma."),
+        ("suññāgāre abhiramāmi",
+         "&ldquo;do I love to stay in empty huts?&rdquo; &mdash; the "
+         "ninth reflection, on love of solitude."),
+        ("añño me ākappo karaṇīyo",
+         "&ldquo;my behavior should be different&rdquo; &mdash; the "
+         "third reflection, on the changed conduct expected of a "
+         "renunciate."),
+    ],
+    text_intro=(
+        "The discourse in full: all ten reflections. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten regular reflections"),
+        ("p", "&sect;1", "an10.48:1.1-13.1"),
+    ],
+    quiz=[
+        {"q": "What kind of list is this discourse giving, according "
+              "to the guide?",
+         "opts": [
+             "A doctrine to be understood once and set aside",
+             "A list framed for repeated, ongoing use &mdash; "
+             "reflected on again and again, still chanted in many "
+             "monasteries today",
+             "A list of monastic offenses",
+             "A cosmological survey"],
+         "correct": 1,
+         "expl": "The word abhiṇhaṁ, &ldquo;often,&rdquo; frames the "
+                 "whole list as a practice."},
+        {"q": "What arc do the ten reflections trace, according to "
+              "the guide?",
+         "opts": [
+             "A random, unordered list",
+             "From changed social position, through ethics and karma, "
+             "to practice and, finally, facing death",
+             "A purely cosmological sequence",
+             "A list of monastic ranks"],
+         "correct": 1,
+         "expl": "Social status, ethics and loss, then practice and "
+                 "mortality."},
+        {"q": "What does the tenth and final reflection ask?",
+         "opts": [
+             "Whether the renunciate has family wealth",
+             "Whether they have any superhuman distinctions in "
+             "knowledge and vision, so as not to be embarrassed when "
+             "questioned on their deathbed",
+             "Whether they have memorized all the rules",
+             "Whether they are physically strong"],
+         "correct": 1,
+         "expl": "A death-facing conclusion to the whole list."},
+        {"q": "What are the seventh and eighth reflections about?",
+         "opts": [
+             "The weather and seasons",
+             "Being the owner and heir of one's own deeds (karma)",
+             "Royal compounds",
+             "The eight-factored sabbath"],
+         "correct": 1,
+         "expl": "Ownership of karma, described as one's womb, "
+                 "relative, and refuge."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this well-known list."},
+    ],
+    marginalia=[
+        ("Ten daily returns", [
+            "class left behind, deeds",
+            "owned and inherited, death",
+            "faced without flinching",
+        ]),
+        ("Still chanted today", [
+            "not a one-time teaching",
+            "but a practice, returned to",
+            "again and again",
+        ]),
+        ("An exam before death", [
+            "the tenth reflection:",
+            "will I be embarrassed when",
+            "questioned at the end?",
+        ]),
+        ("Cross-references", [
+            "AN 10.47 &middot; previous, with Mahāli",
+            "AN 10.49 &middot; next, existing because of the body",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.48/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.47.html">AN 10.47 &middot; With Mahāli</a> &mdash; previous.',
+        '<a href="an-10.49.html">AN 10.49 &middot; Existing Because of the Body</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.49 — Sarīraṭṭhadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    49, "Sarīraṭṭhadhamma", "Existing Because of the Body",
+    vagga=VAGGA_5,
+    meta_title="AN 10.49 — Existing Because of the Body | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sarīraṭṭhadhammasutta, a short, unusual list of ten "
+        "things that exist simply because a body exists &mdash; from "
+        "cold and hunger to the will to live on. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single flat list of ten, with no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest discourse in this chapter"),
+    ],
+    why=(
+        "In one of the briefest discourses in this project so far, "
+        "the Buddha simply names ten things that exist because a "
+        "body exists &mdash; an unusual mix spanning raw physical "
+        "sensation, ethical restraint, and the will to be reborn, "
+        "offered with no further comment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten things exist because of the body: cold, heat, "
+            "hunger, thirst, feces, urine, restraint of body, speech, "
+            "and livelihood, and the will to live that leads to "
+            "future lives."]),
+        ("Three registers in one list", [
+            "Unlike most ten-item lists in this project, which stay "
+            "within a single register, this one mixes three: four "
+            "purely physical discomforts (cold, heat, hunger, "
+            "thirst), two bodily functions (feces, urine), three "
+            "forms of ethical restraint bundled as one item, and, "
+            "startlingly, the will to live that drives rebirth "
+            "itself &mdash; placed on the same list as needing to "
+            "urinate."]),
+        ("No elaboration given", [
+            "This discourse offers no similes, no narrative frame, "
+            "and no explanation of why these ten specifically belong "
+            "together; it simply states the list and stops, among "
+            "the flattest, least adorned discourses met in this "
+            "project."]),
+        ("The body as the ground of practice, bluntly stated", [
+            "Read together, the list makes an implicit point without "
+            "spelling it out: having a body means living with its "
+            "constant, unglamorous demands &mdash; and even the "
+            "aspiration to escape the cycle of rebirth is itself, in "
+            "this listing, counted as one more thing the body gives "
+            "rise to."]),
+    ],
+    terms=[
+        ("sarīraṭṭha",
+         "&ldquo;existing because of the body&rdquo; &mdash; this "
+         "discourse's own title, naming its whole subject in one "
+         "compound."),
+        ("sīta, uṇha, jighacchā, pipāsā",
+         "&ldquo;cold, heat, hunger, thirst&rdquo; &mdash; the first "
+         "four items, purely physical discomforts."),
+        ("ponobhaviko bhavasaṅkhāro",
+         "&ldquo;the will to live that leads to future lives&rdquo; "
+         "&mdash; the tenth and final item, placing the drive toward "
+         "rebirth itself on this otherwise mundane list."),
+        ("uccāro, passāvo",
+         "&ldquo;feces, urine&rdquo; &mdash; the plainest of the ten "
+         "items, naming ordinary bodily function without euphemism."),
+        ("kāyasaṁvaro, vacīsaṁvaro, ājīvasaṁvaro",
+         "&ldquo;restraint of body, speech, and livelihood&rdquo; "
+         "&mdash; three items of ethical restraint bundled together "
+         "as the seventh, eighth, and ninth of the ten."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten things existing because of "
+        "the body. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten things existing because of the body"),
+        ("p", "&sect;1", "an10.49:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What is the subject of this discourse?",
+         "opts": [
+             "Ten meditation techniques",
+             "Ten things that exist because a body exists",
+             "Ten qualities of a good teacher",
+             "Ten grounds for suspending recitation"],
+         "correct": 1,
+         "expl": "A flat, unelaborated list naming the body's "
+                 "consequences."},
+        {"q": "According to the guide, how many distinct registers "
+              "does this list mix?",
+         "opts": [
+             "Just one: purely physical discomfort",
+             "Three: physical discomfort, bodily function, and the "
+             "will to be reborn",
+             "Five separate registers",
+             "None; every item is identical in kind"],
+         "correct": 1,
+         "expl": "Cold and hunger sit alongside ethical restraint and "
+                 "the drive toward rebirth."},
+        {"q": "What is unusual about the tenth and final item, "
+              "according to the guide?",
+         "opts": [
+             "It is a repeat of the ninth item",
+             "It places the will to live that drives rebirth itself "
+             "on the same mundane list as needing to urinate",
+             "It is left completely blank",
+             "It contradicts the rest of the list"],
+         "correct": 1,
+         "expl": "A striking juxtaposition of the ordinary and the "
+                 "profound."},
+        {"q": "How much elaboration does this discourse give for its "
+              "list?",
+         "opts": [
+             "A full simile for each item",
+             "None &mdash; it simply states the list and stops, among "
+             "the flattest discourses in this project",
+             "A lengthy narrative frame",
+             "A closing verse"],
+         "correct": 1,
+         "expl": "No similes, no narrative, no explanation of why "
+                 "these ten belong together."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief discourse."},
+    ],
+    marginalia=[
+        ("Ten things, one body", [
+            "cold, hunger, thirst, and",
+            "the urge to be reborn &mdash;",
+            "all from having flesh",
+        ]),
+        ("No comment offered", [
+            "no simile here,",
+            "no story &mdash; just the list, stark",
+            "and then the sutta ends",
+        ]),
+        ("Even rebirth, bodily", [
+            "the drive to live on",
+            "sits beside needing to pee &mdash;",
+            "flesh explains it all",
+        ]),
+        ("Cross-references", [
+            "AN 10.48 &middot; previous, ten regular reflections for "
+            "a renunciate",
+            "AN 10.50 &middot; next, closing this chapter and the "
+            "First Fifty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.49/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.48.html">AN 10.48 &middot; Ten Regular Reflections for a '
+        'Renunciate</a> &mdash; previous.',
+        '<a href="an-10.50.html">AN 10.50 &middot; Fights</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.50 — Bhaṇḍanasutta
+# --------------------------------------------------------------------------- #
+page(
+    50, "Bhaṇḍana", "Fights",
+    vagga=VAGGA_5,
+    meta_title="AN 10.50 — Fights | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhaṇḍanasutta, closing the Akkosavagga and the First "
+        "Fifty of the Tens: the Buddha catches mendicants quarreling "
+        "and teaches ten warm-hearted qualities, the ten-item "
+        "expansion of the six sāraṇīyā dhammā. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery"),
+        ("Speakers", "The Buddha, addressing mendicants he catches "
+                     "quarreling"),
+        ("Form", "A narrative opening, then ten items in a repeated "
+                 "formula, mostly elided"),
+        ("Length", "~2 minutes to read"),
+        ("Closing this chapter and the First Fifty", "This discourse "
+                                                      "closes both "
+                                                      "Akkosavagga, "
+                                                      "the fifth "
+                                                      "chapter, and "
+                                                      "the First "
+                                                      "Fifty of the "
+                                                      "entire Book of "
+                                                      "the Tens, "
+                                                      "carrying a "
+                                                      "double closing "
+                                                      "colophon"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "an engaging narrative opening with a familiar "
+                       "closing list"),
+    ],
+    why=(
+        "Catching a group of mendicants fighting and wounding each "
+        "other with barbed words right after almsround, the Buddha "
+        "does not simply scold them: he teaches the full ten-item "
+        "expansion of the warm-hearted qualities already met in "
+        "shorter form at AN 6.11 and 6.12, closing both this chapter "
+        "and the entire First Fifty of the Tens."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten warm-hearted qualities make for fondness, respect, "
+            "and harmony without dispute: being ethical, learned, "
+            "well-befriended, easy to admonish, deft in duties for "
+            "one's companions, a lover of the teaching, energetic, "
+            "content, mindful, and wise."]),
+        ("A rare narrative catching the Saṅgha in the act", [
+            "Unlike most discourses in this chapter, which open with "
+            "a question or a bare teaching, this one opens as a "
+            "narrative: the Buddha comes out of retreat specifically "
+            "to interrupt mendicants who are actively fighting, "
+            "quarreling, and wounding each other with barbed words "
+            "&mdash; the very disharmony AN 10.37&ndash;41's "
+            "definitions of schism and dispute were building toward "
+            "all along."]),
+        ("The six sāraṇīyā dhammā, expanded to ten", [
+            "This discourse's ten qualities are not new: the first "
+            "six correspond closely to the six warm-hearted "
+            "(<em>sāraṇīya</em>) qualities already taught at AN 6.11 "
+            "and AN 6.12 earlier in this project, here joined by four "
+            "further qualities &mdash; good friendship, being easy to "
+            "admonish, being deft in shared duties, and love of the "
+            "teaching &mdash; completing the set of ten."]),
+        ("Closing the chapter and the First Fifty together", [
+            "The source's own colophon marks this discourse as both "
+            "the tenth of Akkosavagga, the fifth chapter, and as the "
+            "close of the entire Paṭhamapaṇṇāsaka, the First Fifty of "
+            "the Tens &mdash; a double closing, with its own "
+            "untranslated uddāna verse naming all ten discourses of "
+            "this final chapter."]),
+    ],
+    terms=[
+        ("bhaṇḍanajātā kalahajātā vivādāpannā",
+         "&ldquo;fighting, quarreling, and disputing&rdquo; &mdash; "
+         "the scene the Buddha interrupts, the very condition AN "
+         "10.37&ndash;41 analyzed in the abstract."),
+        ("sāraṇīyā dhammā",
+         "&ldquo;warm-hearted qualities&rdquo; &mdash; the term "
+         "shared with AN 6.11 and 6.12, there naming six such "
+         "qualities, here expanded to ten."),
+        ("kalyāṇamitto",
+         "&ldquo;good friends&rdquo; &mdash; one of the four "
+         "qualities added beyond the six already met in AN 6.11 and "
+         "6.12."),
+        ("suvaco",
+         "&ldquo;easy to admonish&rdquo; &mdash; another of the four "
+         "newly added qualities, patient and receptive to "
+         "correction."),
+        ("Paṭhamo paṇṇāsako samatto",
+         "&ldquo;the First Fifty is finished&rdquo; &mdash; the "
+         "source's own closing declaration, left untranslated in the "
+         "English text, marking the halfway point of the entire Book "
+         "of the Tens."),
+    ],
+    text_intro=(
+        "The discourse in full: the narrative opening, and the ten "
+        "warm-hearted qualities (mostly elided in the source after "
+        "the first and last). The chapter's own colophon and uddāna "
+        "verse, in Pāli only, are described but not reproduced. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha interrupts a quarrel"),
+        ("p", "&sect;1", "an10.50:1.1-3.2"),
+        ("h3", "Ten warm-hearted qualities"),
+        ("p", "&sect;2", "an10.50:4.1-13.3"),
+        ("h3", "Closing"),
+        ("p", "&sect;3", "an10.50:14.1"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha find the mendicants doing when he "
+              "comes out of retreat?",
+         "opts": [
+             "Meditating peacefully",
+             "Fighting, quarreling, and disputing, wounding each "
+             "other with barbed words",
+             "Studying the monastic code together",
+             "Sleeping"],
+         "correct": 1,
+         "expl": "A narrative catching the Saṅgha in the very "
+                 "disharmony the chapter's earlier discourses "
+                 "analyzed abstractly."},
+        {"q": "According to the guide, how does this discourse's "
+              "ten-item list relate to AN 6.11 and 6.12?",
+         "opts": [
+             "It is unrelated",
+             "Its first six qualities correspond closely to the six "
+             "warm-hearted (sāraṇīya) qualities already taught there, "
+             "now expanded to ten",
+             "It directly contradicts those two discourses",
+             "It replaces meditation with ethics entirely"],
+         "correct": 1,
+         "expl": "The same core teaching, expanded by four further "
+                 "qualities."},
+        {"q": "Which of these is one of the four newly added "
+              "qualities, beyond the original six?",
+         "opts": [
+             "Being ethical",
+             "Being easy to admonish",
+             "Being learned",
+             "Being wise"],
+         "correct": 1,
+         "expl": "Good friendship, ease of admonishment, deftness in "
+                 "duties, and love of the teaching are the four "
+                 "additions."},
+        {"q": "What two things does this discourse close, according "
+              "to the guide?",
+         "opts": [
+             "Nothing beyond itself",
+             "Both Akkosavagga, the fifth chapter, and the entire "
+             "First Fifty (Paṭhamapaṇṇāsaka) of the Book of the Tens",
+             "Only the fifth chapter, with the First Fifty ending "
+             "later",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "A double closing colophon, marking the halfway "
+                 "point of AN 10's 211 discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 0,
+         "expl": "A specific, named setting, unlike most of this "
+                 "chapter's Upāli exchanges."},
+        {"q": "What does the discourse's closing colophon leave "
+              "untranslated, according to the guide?",
+         "opts": [
+             "Nothing; everything is translated",
+             "The Pāli declaration that the First Fifty is finished, "
+             "and the uddāna verse naming all ten discourses of this "
+             "chapter",
+             "The ten warm-hearted qualities themselves",
+             "The narrative opening"],
+         "correct": 1,
+         "expl": "The same untranslated closing convention used "
+                 "throughout this nipāta."},
+    ],
+    marginalia=[
+        ("Caught in the act", [
+            "barbed words traded, and",
+            "the Buddha rises from",
+            "retreat to intervene",
+        ]),
+        ("Six become ten", [
+            "the old warm-hearted",
+            "qualities, met once before &mdash;",
+            "now four more besides",
+        ]),
+        ("A double closing", [
+            "not just this chapter,",
+            "but the First Fifty itself &mdash;",
+            "one hundred pages, done",
+        ]),
+        ("Cross-references", [
+            "AN 10.49 &middot; previous, existing because of the "
+            "body",
+            "AN 6.11 &middot; Warm-hearted (1st), the same qualities "
+            "in their original six-item form",
+            "AN 10.31 &middot; opening the Upāli-vagga run that this "
+            "chapter's schism/dispute material completes",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.50/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.49.html">AN 10.49 &middot; Existing Because of the Body</a> &mdash; '
+        "previous.",
+        '<a href="an-6.11.html">AN 6.11 &middot; Warm-hearted (1st)</a> &mdash; the same '
+        "qualities, in their original six-item form.",
+    ],
+)
