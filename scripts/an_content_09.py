@@ -13862,3 +13862,632 @@ page(
         '<a href="an-9.71.html">AN 9.71 &middot; Hard-heartedness</a> &mdash; previous.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.8 — Sammappadhanavagga (AN 9.73-82). Reuses ch.7's exact ten obstacle-
+# lists, swapping the remedy from the four kinds of mindfulness meditation
+# to the four right efforts. Only the first (AN 9.73) and last (AN 9.82)
+# discourses are given individually; AN 9.74-81 is a single merged page
+# whose entire surviving text is "(Tell in full as in the chapter on
+# mindfulness meditation.)" -- the first case in this project of a merged
+# page pointing back to another chapter's own content rather than compressing
+# via peyyāla or repeating a self-contained formula.
+# --------------------------------------------------------------------------- #
+VAGGA_8 = "<em>Sammappadhanavagga</em> &mdash; the eighth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.73 — Sekhasutta (Right Efforts version)
+# --------------------------------------------------------------------------- #
+page(
+    73, "Sekha", "Weaknesses in Training and Effort",
+    vagga=VAGGA_8,
+    meta_title="AN 9.73 — Weaknesses in Training and Effort | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the discourse opening this chapter — the identical obstacle-"
+        "list as AN 9.63, now answered by the four right efforts rather "
+        "than mindfulness meditation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five weaknesses named, then the four right efforts "
+                 "given in full as the remedy"),
+        ("Length", "~1 minute to read"),
+        ("Ch.7's obstacle, a new remedy", "The same five weaknesses "
+         "opening ch.7 recur here, but the four right efforts replace "
+         "the four kinds of mindfulness meditation as what overcomes "
+         "them"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening a chapter that reuses ch.7's "
+                       "structure with one substitution"),
+    ],
+    why=(
+        "The same five weaknesses that open ch.7 &mdash; killing, "
+        "stealing, sexual misconduct, lying, and intoxicants &mdash; "
+        "recur here, but this time are given up by developing the four "
+        "right efforts: generating enthusiasm and striving so that bad "
+        "qualities don't arise or are given up, and skillful qualities "
+        "arise or are developed further."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five weaknesses in training &mdash; "
+            "killing, stealing, sexual misconduct, lying, and "
+            "intoxicants &mdash; a mendicant should develop the four "
+            "right efforts: striving to prevent, abandon, develop, and "
+            "maintain skillful and unskillful qualities respectively."]),
+        ("The identical obstacle, a substituted remedy", [
+            "This discourse's five weaknesses are word-for-word "
+            "identical to AN 9.63's opener several chapters back. What "
+            "changes is entirely the remedy: where ch.7 answered every "
+            "obstacle with the four kinds of mindfulness meditation, "
+            "this chapter answers the identical ten obstacle-lists with "
+            "the four right efforts instead."]),
+        ("Four efforts, aimed in two directions each", [
+            "The four right efforts split cleanly into prevention and "
+            "cure for each of two categories: preventing unskillful "
+            "qualities from arising, abandoning those that have "
+            "arisen, developing skillful qualities not yet arisen, and "
+            "maintaining and increasing those already present &mdash; "
+            "an active, effort-driven complement to mindfulness "
+            "meditation's more observational approach."]),
+        ("A chapter built on substitution, not new content", [
+            "This chapter's real interest lies less in its individual "
+            "obstacle-lists, already fully explored in ch.7, than in "
+            "what it reveals by substitution: the same ten problems "
+            "this project has already named can each be answered by "
+            "more than one canonical remedy, mindfulness meditation and "
+            "right effort standing as parallel, not competing, "
+            "approaches."]),
+    ],
+    terms=[
+        ("sekhā pañca dhammā",
+         "&ldquo;five weaknesses when you're training&rdquo; &mdash; "
+         "the identical five precepts-as-weaknesses already met opening "
+         "AN 9.63."),
+        ("cattāro sammappadhānā",
+         "&ldquo;the four right efforts&rdquo; &mdash; this chapter's "
+         "own remedy, replacing ch.7's four kinds of mindfulness "
+         "meditation."),
+        ("anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya",
+         "&ldquo;so that bad, unskillful qualities don't arise&rdquo; "
+         "&mdash; the first of the four efforts, prevention."),
+        ("uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā... bhāvanāya pāripūriyā",
+         "&ldquo;that skillful qualities that have arisen remain... "
+         "and are completed by development&rdquo; &mdash; the fourth "
+         "and final effort, maintaining and perfecting what is already "
+         "present."),
+        ("chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti "
+         "padahati",
+         "&ldquo;generates enthusiasm, tries, makes an effort, exerts "
+         "the mind, and strives&rdquo; &mdash; the shared active "
+         "formula repeated for each of the four efforts."),
+    ],
+    text_intro=(
+        "The discourse in full: five weaknesses, and the four right "
+        "efforts given as their remedy. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five weaknesses in training"),
+        ("p", "&sect;1", "an9.73:1.1-1.4"),
+        ("h3", "Four right efforts"),
+        ("p", "&sect;2", "an9.73:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's obstacle-list compare to AN "
+              "9.63's?",
+         "opts": [
+             "Entirely different content",
+             "Word-for-word identical — the same five weaknesses "
+             "opening ch.7",
+             "A shortened version of AN 9.63's list",
+             "A contradiction of AN 9.63"],
+         "correct": 1,
+         "expl": "The obstacle stays the same; only the remedy changes "
+                 "across the two chapters."},
+        {"q": "What remedy does this chapter substitute for ch.7's four "
+              "kinds of mindfulness meditation?",
+         "opts": [
+             "The four noble truths",
+             "The four right efforts",
+             "The four bases of psychic power",
+             "The six higher knowledges"],
+         "correct": 1,
+         "expl": "A different canonical remedy applied to the same ten "
+                 "obstacle-lists."},
+        {"q": "How do the four right efforts divide their aim?",
+         "opts": [
+             "All four aim at the same single goal",
+             "Prevention and abandonment of unskillful qualities, and "
+             "development and maintenance of skillful ones",
+             "Three aim at unskillful qualities and one at skillful "
+             "qualities",
+             "They have no clear structure"],
+         "correct": 1,
+         "expl": "A clean two-by-two structure: two directions "
+                 "(prevent/abandon vs. develop/maintain) crossed with "
+                 "two categories (unskillful/skillful)."},
+        {"q": "According to the guide, what does this chapter reveal by "
+              "substitution?",
+         "opts": [
+             "That ch.7's remedy was mistaken",
+             "That the same ten obstacle-lists can each be answered by "
+             "more than one canonical remedy, standing as parallel "
+             "approaches",
+             "That right effort is superior to mindfulness meditation",
+             "That the obstacle-lists themselves are unimportant"],
+         "correct": 1,
+         "expl": "Mindfulness meditation and right effort as "
+                 "complementary, not competing, methods."},
+        {"q": "What shared formula is repeated for each of the four "
+              "efforts?",
+         "opts": [
+             "A verse of praise",
+             "&ldquo;Generates enthusiasm, tries, makes an effort, "
+             "exerts the mind, and strives&rdquo;",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "An active, effort-driven formula, distinct from "
+                 "mindfulness meditation's more observational refrain."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, opening this chapter "
+                 "without narrative frame."},
+    ],
+    marginalia=[
+        ("The same five weaknesses", [
+            "killing, stealing, lying,",
+            "misconduct, drink &mdash; identical",
+            "to AN 9.63",
+        ]),
+        ("A new remedy substituted", [
+            "not mindfulness now,",
+            "but effort &mdash; prevent, abandon,",
+            "develop, maintain",
+        ]),
+        ("Two remedies, one obstacle", [
+            "the same ten problems,",
+            "answered by more than one",
+            "canonical cure",
+        ]),
+        ("Cross-references", [
+            "AN 9.63 &middot; the identical obstacle-list, there "
+            "answered by mindfulness meditation",
+            "AN 9.72 &middot; previous chapter's closing page",
+            "AN 9.74&ndash;81 &middot; next, pointing back to ch.7's "
+            "content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.73/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.63.html">AN 9.63 &middot; Weaknesses in Training and Mindfulness '
+        "Meditation</a> &mdash; the identical obstacle-list, there answered by "
+        "mindfulness meditation.",
+        '<a href="an-9.72.html">AN 9.72 &middot; Shackles of the Heart</a> &mdash; previous.',
+        '<a href="an-9.74-81.html">AN 9.74&ndash;81</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.74-81 — the first merged page in this project pointing back to
+# another chapter's own content rather than compressing via peyyāla.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-9.74-81",
+    "index_pali": "(untitled)",
+    "nav_title": "Hindrances, Etc.",
+    "source": "an9/an9.74-81",
+    "crumb": "AN 9.74&ndash;81",
+    "meta_title": "AN 9.74–81 — Hindrances, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this merged page — eight discourses whose entire surviving "
+        "text points back to ch.7's own content rather than repeating "
+        "or compressing it. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 9.74&ndash;81",
+    "title": "Hindrances, Etc.",
+    "subtitle": "<em>Untitled in the source</em> &mdash; %s, continued" % VAGGA_8,
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single instruction, pointing back to an entire "
+                 "earlier chapter rather than giving any content of its "
+                 "own"),
+        ("Length", "A few seconds to read the instruction itself"),
+        ("A new kind of compression for this project", "Not a peyyāla "
+         "compressing many suttas' own repeated content, but a direct "
+         "pointer to a different chapter's content entirely"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read the instruction, but worth "
+                       "understanding what it actually implies"),
+    ],
+    "why": (
+        "Standing for eight separate discourses (AN 9.74 through AN "
+        "9.81), this single page's entire surviving content is one "
+        "instruction: &lsquo;tell in full as in the chapter on "
+        "mindfulness meditation&rsquo; &mdash; directing the reciter "
+        "back to ch.7's own eight middle obstacle-lists, each now paired "
+        "with the four right efforts instead of the four kinds of "
+        "mindfulness meditation."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same eight obstacle-lists already given in full at AN "
+            "9.64 through AN 9.71 &mdash; hindrances, sensual "
+            "stimulation, grasping aggregates, lower fetters, "
+            "destinations, stinginess, higher fetters, and hard-"
+            "heartedness &mdash; are each given up by developing the "
+            "four right efforts, exactly as AN 9.73 already showed for "
+            "the first obstacle-list in both chapters."]),
+        ("A genuinely new kind of compression", [
+            "Every peyyāla merge met so far in this project &mdash; "
+            "from AN 3.183-352 through AN 8.148-627 &mdash; compresses "
+            "many suttas that share one self-contained repeated "
+            "content. This page is different in kind: it points not to "
+            "content repeated within its own range, but to an entirely "
+            "separate chapter, ch.7, several discourses back, trusting "
+            "the reciter to substitute &lsquo;four right efforts&rsquo; "
+            "for &lsquo;four kinds of mindfulness meditation&rsquo; "
+            "throughout."]),
+        ("Eight discourses, reduced to one instruction", [
+            "Following the same order as ch.7's own AN 9.64 through AN "
+            "9.71, this page stands for: hindrances, sensual "
+            "stimulation, grasping aggregates, lower fetters, "
+            "destinations, stinginess, higher fetters, and hard-"
+            "heartedness &mdash; the eight middle obstacle-lists "
+            "sandwiched between the &lsquo;weaknesses&rsquo; opener and "
+            "&lsquo;shackles of the heart&rsquo; closer both chapters "
+            "share."]),
+        ("Not fabricating what the instruction withholds", [
+            "This guide does not reconstruct all eight discourses' full "
+            "text under the four-right-efforts framing, since the "
+            "source itself declines to write them out. Readers wanting "
+            "the specific obstacle-lists in full should read them "
+            "directly at AN 9.64 through AN 9.71, then mentally "
+            "substitute this chapter's remedy for ch.7's."]),
+    ],
+    "terms": [
+        ("tesaṁyeva vitthāro satipaṭṭhānavaggasadisova kātabbo",
+         "&ldquo;tell in full as in the chapter on mindfulness "
+         "meditation&rdquo; &mdash; this page's entire surviving "
+         "instruction, pointing back to ch.7 rather than repeating its "
+         "content."),
+        ("cattāro sammappadhānā",
+         "&ldquo;the four right efforts&rdquo; &mdash; the one "
+         "substitution this instruction asks the reciter to make "
+         "throughout."),
+        ("nīvaraṇā, kāmaguṇā, upādānakkhandhā",
+         "&ldquo;hindrances, sensual stimulation, grasping "
+         "aggregates&rdquo; &mdash; the first three of the eight "
+         "obstacle-lists this page stands for, given in full at AN "
+         "9.64-66."),
+        ("orambhāgiyāni saṁyojanāni, gatiyo, macchariyāni, "
+         "uddhambhāgiyāni saṁyojanāni, cetokhilā",
+         "&ldquo;lower fetters, destinations, stinginess, higher "
+         "fetters, hard-heartedness&rdquo; &mdash; the remaining five "
+         "obstacle-lists this page stands for, given in full at AN "
+         "9.67-71."),
+        ("sammappadhānavaggo",
+         "&ldquo;Sammappadhānavagga&rdquo; &mdash; this chapter's own "
+         "name, naming the remedy this whole chapter substitutes for "
+         "ch.7's."),
+    ],
+    "text_intro": (
+        "The discourse exactly as it survives in the source: a single "
+        "instruction pointing back to ch.7's own content. Nothing has "
+        "been added or reconstructed. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "The instruction, in full"),
+        ("p", "&sect;1", "an9.74-81:1.1-1.1"),
+    ],
+    "quiz": [
+        {"q": "What does this page's entire surviving text consist of?",
+         "opts": [
+             "The full text of eight discourses, spelled out completely",
+             "A single instruction: &lsquo;tell in full as in the "
+             "chapter on mindfulness meditation&rsquo;",
+             "A peyyāla compression of repeated content within its own "
+             "range",
+             "Nothing; the page is entirely blank"],
+         "correct": 1,
+         "expl": "A direct pointer to ch.7's content, not a self-"
+                 "contained repetition."},
+        {"q": "How does this compression differ from every peyyāla "
+              "merge met earlier in this project?",
+         "opts": [
+             "No difference at all",
+             "Those compress content repeated within their own sutta "
+             "range; this one points to an entirely separate chapter, "
+             "ch.7, several discourses back",
+             "This page has far more content than any peyyāla merge",
+             "Peyyāla merges never occur elsewhere in this project"],
+         "correct": 1,
+         "expl": "A genuinely new kind of compression, first met at "
+                 "this page."},
+        {"q": "What eight obstacle-lists does this page stand for?",
+         "opts": [
+             "Eight entirely new lists never mentioned before",
+             "The same eight given in full at AN 9.64 through AN "
+             "9.71 — hindrances through hard-heartedness",
+             "Only the five hindrances, repeated eight times",
+             "Eight kinds of wrong view"],
+         "correct": 1,
+         "expl": "Ch.7's own eight middle obstacle-lists, sandwiched "
+                 "between the shared opener and closer."},
+        {"q": "What single substitution does the instruction ask the "
+              "reciter to make?",
+         "opts": [
+             "Replace all five-item lists with nine-item lists",
+             "Replace the four kinds of mindfulness meditation with the "
+             "four right efforts",
+             "Replace ch.7's speaker with a different one",
+             "No substitution is needed"],
+         "correct": 1,
+         "expl": "The one variable that changes between the two "
+                 "chapters' otherwise identical obstacle-lists."},
+        {"q": "What does this page's guide avoid doing?",
+         "opts": [
+             "Explaining the instruction at all",
+             "Reconstructing all eight discourses' full text, since the "
+             "source itself declines to write them out",
+             "Pointing readers to AN 9.64 through AN 9.71",
+             "Naming the eight obstacle-lists"],
+         "correct": 1,
+         "expl": "Consistent with this project's rule against inventing "
+                 "text not in the source."},
+        {"q": "Where should a reader go for the full text of these "
+              "eight obstacle-lists?",
+         "opts": [
+             "Nowhere; the content is permanently lost",
+             "AN 9.64 through AN 9.71, then mentally substitute this "
+             "chapter's remedy for ch.7's",
+             "A completely different nipāta",
+             "The Rāgapeyyāla closing this nipāta"],
+         "correct": 1,
+         "expl": "Ch.7's own full treatment of the identical obstacle-"
+                 "lists."},
+    ],
+    "marginalia": [
+        ("One instruction, eight discourses", [
+            "&ldquo;tell it as in the",
+            "mindfulness chapter&rdquo; &mdash;",
+            "nothing more written",
+        ]),
+        ("A new kind of pointer", [
+            "not repeated content,",
+            "but another chapter,",
+            "referenced whole",
+        ]),
+        ("One substitution asked", [
+            "swap in right effort",
+            "for mindfulness &mdash; the rest",
+            "stays exactly the same",
+        ]),
+        ("Cross-references", [
+            "AN 9.64&ndash;71 &middot; ch.7's full treatment of these "
+            "same eight obstacle-lists",
+            "AN 9.73 &middot; previous",
+            "AN 9.82 &middot; next, Shackles of the Heart, closing this "
+            "chapter",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an9.74-81/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.64.html">AN 9.64 &middot; Hindrances</a> &mdash; ch.7’s full '
+        "treatment of the first obstacle-list this page stands for.",
+        '<a href="an-9.73.html">AN 9.73 &middot; Weaknesses in Training and Effort</a> '
+        "&mdash; previous.",
+        '<a href="an-9.82.html">AN 9.82 &middot; Shackles of the Heart</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.82 — Cetasovinibandhasutta (Right Efforts version) — closes ch.8
+# Sammappadhanavagga
+# --------------------------------------------------------------------------- #
+page(
+    82, "Cetasovinibandha", "Shackles of the Heart",
+    vagga=VAGGA_8,
+    meta_title="AN 9.82 — Shackles of the Heart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the discourse closing this chapter — the identical five "
+        "shackles as AN 9.72, now answered by the four right efforts, "
+        "closing both this chapter and its own colophon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five shackles of the heart, then the four right "
+                 "efforts given in full as the remedy"),
+        ("Length", "~2 minutes to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Sammappadhanavagga</em>, the eighth chapter; the "
+         "source's own colophon numbers it &lsquo;third&rsquo; within "
+         "the Second Fifty, the same restarted numbering already met "
+         "closing ch.6"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "substantial, closing this chapter on its most "
+                       "pointed obstacle-list, as ch.7 did"),
+    ],
+    why=(
+        "The same five shackles of the heart that closed ch.7 &mdash; "
+        "unresolved greed for sensual pleasures, the body, physical "
+        "form, comfort and sleep, and rebirth among the gods sought "
+        "through spiritual practice &mdash; recur here, closing this "
+        "chapter, given up instead by developing the four right efforts."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five shackles of the heart &mdash; "
+            "unresolved greed for sensual pleasures, the body, "
+            "physical form, comfort and sleep, and rebirth among the "
+            "gods sought through spiritual practice &mdash; a "
+            "mendicant should develop the four right efforts, the same "
+            "remedy running through this entire chapter."]),
+        ("The identical closer, a substituted remedy", [
+            "As with AN 9.73's opener, this discourse's five shackles "
+            "are word-for-word identical to AN 9.72's closer several "
+            "chapters back. The two chapters share their opening and "
+            "closing obstacle-lists precisely, differing only in the "
+            "remedy applied throughout &mdash; mindfulness meditation "
+            "in ch.7, right effort here."]),
+        ("A shackle turned against practice, answered by effort", [
+            "The fifth and most pointed shackle &mdash; spiritual "
+            "practice pursued for the worldly aim of rebirth among the "
+            "gods &mdash; receives a fitting counterpart in this "
+            "chapter's remedy: right effort's own formula names "
+            "striving toward skillful qualities for their own "
+            "development, not for any further gain, a direct answer to "
+            "practice corrupted by ulterior motive."]),
+        ("Two chapters, one lesson about remedies", [
+            "Read together, ch.7 and ch.8 make a point neither makes "
+            "alone: identical obstacles, from ordinary broken precepts "
+            "to the subtlest corruption of practice itself, can be met "
+            "by more than one canonical approach. The source's own "
+            "colophon closes this chapter, numbering it "
+            "&lsquo;third&rsquo; within the Second Fifty &mdash; the "
+            "same internally restarted numbering already met closing "
+            "ch.6, distinct from the continuous 1&ndash;10 count used "
+            "in each discourse's own header."]),
+    ],
+    terms=[
+        ("cetaso vinibandhā",
+         "&ldquo;shackles of the heart&rdquo; &mdash; the identical "
+         "five items already met closing ch.7 at AN 9.72."),
+        ("cattāro sammappadhānā",
+         "&ldquo;the four right efforts&rdquo; &mdash; this chapter's "
+         "remedy, closing it exactly as it opened at AN 9.73."),
+        ("iminā sīlena vā vatena vā tapena vā brahmacariyena vā "
+         "devo vā bhavissāmi devaññataro vā",
+         "&ldquo;by this precept or observance or fervent austerity or "
+         "spiritual practice, may I become one of the gods&rdquo; "
+         "&mdash; the fifth shackle, practice corrupted by worldly "
+         "aim, unchanged from AN 9.72."),
+        ("dasamaṁ",
+         "&ldquo;tenth&rdquo; &mdash; the bare ordinal closing this "
+         "discourse, marking its place as the tenth and final discourse "
+         "in this chapter."),
+        ("sammappadhānavaggo tatiyo",
+         "&ldquo;Sammappadhānavagga, third&rdquo; &mdash; the source's "
+         "own colophon, restarting the chapter count for the Second "
+         "Fifty rather than continuing the running 1&ndash;10 header "
+         "numbering, the same pattern already noted closing ch.6."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five shackles of the heart as "
+        "AN 9.72, now answered by the four right efforts. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five shackles of the heart"),
+        ("p", "&sect;1", "an9.82:1.1-1.4"),
+        ("h3", "Four right efforts"),
+        ("p", "&sect;2", "an9.82:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's obstacle-list compare to AN "
+              "9.72's?",
+         "opts": [
+             "Entirely different content",
+             "Word-for-word identical — the same five shackles closing "
+             "ch.7",
+             "A shortened version",
+             "A contradiction of AN 9.72"],
+         "correct": 1,
+         "expl": "The obstacle stays the same across both chapters; "
+                 "only the remedy differs."},
+        {"q": "What is the fifth and most pointed shackle?",
+         "opts": [
+             "Ordinary greed for food",
+             "Spiritual practice pursued for the worldly aim of "
+             "rebirth among the gods",
+             "Fear of death",
+             "Doubt about the teaching"],
+         "correct": 1,
+         "expl": "Practice itself corrupted by an ulterior motive, "
+                 "unchanged from AN 9.72."},
+        {"q": "According to the guide, how does right effort's formula "
+              "specifically answer this fifth shackle?",
+         "opts": [
+             "It doesn't address it at all",
+             "Right effort strives toward skillful qualities for their "
+             "own development, not for further gain — a direct answer "
+             "to practice pursued for worldly reward",
+             "Right effort ignores spiritual motivation entirely",
+             "Right effort only addresses physical obstacles"],
+         "correct": 1,
+         "expl": "A fitting counterpart between this specific obstacle "
+                 "and this chapter's chosen remedy."},
+        {"q": "What lesson do ch.7 and ch.8 make together, according to "
+              "the guide?",
+         "opts": [
+             "That mindfulness meditation is inferior to right effort",
+             "That identical obstacles can be met by more than one "
+             "canonical approach",
+             "That the obstacle-lists themselves were mistaken",
+             "That right effort should replace mindfulness meditation "
+             "entirely"],
+         "correct": 1,
+         "expl": "A lesson neither chapter makes alone, visible only "
+                 "when read together."},
+        {"q": "What does the source's own colophon number this chapter, "
+              "and what pattern does this match?",
+         "opts": [
+             "Eighth, matching the continuous header numbering",
+             "&lsquo;Third,&rsquo; restarting the count for the Second "
+             "Fifty — the same pattern already noted closing ch.6",
+             "First, contradicting all earlier chapters",
+             "No colophon exists for this chapter"],
+         "correct": 1,
+         "expl": "An internally restarted numbering distinct from each "
+                 "discourse's own continuous header count."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching AN 9.72's closing "
+                 "of ch.7."},
+    ],
+    marginalia=[
+        ("The same five shackles", [
+            "sensual pleasure, body,",
+            "form, comfort, sleep, and rebirth",
+            "as a god &mdash; identical",
+        ]),
+        ("Effort answers motive", [
+            "striving for its own",
+            "sake, not for reward &mdash;",
+            "a fitting counter",
+        ]),
+        ("Two remedies, one lesson", [
+            "mindfulness, then effort &mdash;",
+            "the same ten obstacles,",
+            "met more than one way",
+        ]),
+        ("Cross-references", [
+            "AN 9.72 &middot; the identical obstacle-list, there "
+            "answered by mindfulness meditation",
+            "AN 9.74&ndash;81 &middot; previous",
+            "AN 9.83 &middot; next, opening ch.9, Iddhipadavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.72.html">AN 9.72 &middot; Shackles of the Heart</a> &mdash; the '
+        "identical obstacle-list, there answered by mindfulness meditation.",
+        '<a href="an-9.74-81.html">AN 9.74&ndash;81</a> &mdash; previous.',
+    ],
+)
