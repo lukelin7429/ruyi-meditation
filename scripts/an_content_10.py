@@ -22701,3 +22701,1959 @@ page(
         "opening this chapter.",
     ],
 )
+
+
+VAGGA_13 = "<em>Parisuddhavagga</em> &mdash; the thirteenth chapter of the Tens, the Chapter on Purified Things"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.123 — Paṭhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    123, "Paṭhama", "First",
+    vagga=VAGGA_13,
+    meta_title="AN 10.123 — First | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasutta, opening the Tens' thirteenth chapter with "
+        "the shortest claim yet: the ten right factors are not "
+        "purified apart from the Holy One's training. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the new chapter, "
+                               "<em>Parisuddhavagga</em>, the "
+                               "Chapter on Purified Things, the most "
+                               "compact chapter met so far in this "
+                               "nipāta &mdash; eleven discourses, "
+                               "most barely a sentence long, named "
+                               "only by their position (First "
+                               "through Eleventh)"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as brief as a discourse in this project gets"),
+    ],
+    why=(
+        "Opening the shortest and most repetitive chapter met so far "
+        "in this nipāta, the Buddha makes an exclusivity claim about "
+        "the ten right factors: whatever purity they have, they have "
+        "nowhere but within his own training."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "are not purified and cleansed anywhere except within "
+            "the Holy One's own training."]),
+        ("A chapter of near-identical single sentences", [
+            "This chapter departs sharply from chapters 11 and 12's "
+            "elaborate similes, narratives, and named interlocutors: "
+            "its eleven discourses are, with only two exceptions "
+            "(AN 10.132 and 10.133), simply named by their ordinal "
+            "position &mdash; First, Second, Third, and so on &mdash; "
+            "each stating one brief claim about the same ten factors "
+            "in relation to the Buddha's own training."]),
+        ("An exclusivity claim, not merely a description", [
+            "The word <em>nāññatra</em>, &ldquo;apart from&rdquo; or "
+            "&ldquo;nowhere else but,&rdquo; makes this discourse's "
+            "claim genuinely exclusive rather than merely "
+            "descriptive: it does not say the ten factors are best "
+            "developed within this training, but that their purity "
+            "simply does not exist anywhere outside it."]),
+        ("The first of five distinct claims, soon to be recombined", [
+            "AN 10.123 through 10.127 will each state one distinct "
+            "claim about the ten factors &mdash; purity, arising, "
+            "fruitfulness, ending the three poisons, and leading to "
+            "liberation &mdash; before AN 10.128 introduces a further "
+            "condition that the chapter's remaining discourses "
+            "recombine with several of these same five claims."]),
+    ],
+    terms=[
+        ("parisuddhā pariyodātā",
+         "&ldquo;purified and cleansed&rdquo; &mdash; this "
+         "discourse's own claim about the ten right factors, and the "
+         "source of the chapter's own name."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the exclusivity clause repeated, with minor "
+         "variation, throughout this entire chapter."),
+        ("sugata",
+         "&ldquo;the Holy One,&rdquo; literally &ldquo;one who has "
+         "gone well&rdquo; &mdash; an epithet for the Buddha, naming "
+         "the training these ten factors are said to depend on "
+         "exclusively."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first of the ten "
+         "factors, opening this chapter's list exactly as it has "
+         "opened every list since AN 10.103."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Not purified apart from this training"),
+        ("p", "&sect;1", "an10.123:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the ten right "
+              "factors?",
+         "opts": [
+             "That they are common to every religious tradition",
+             "That they are not purified and cleansed anywhere "
+             "except within the Holy One's own training",
+             "That they arise spontaneously without training",
+             "That only five of the ten are genuine"],
+         "correct": 1,
+         "expl": "An exclusivity claim about where genuine purity of "
+                 "these factors is found."},
+        {"q": "How does this chapter's structure differ from "
+              "chapters 11 and 12, according to the guide?",
+         "opts": [
+             "It is even more elaborate",
+             "It is the most compact chapter met so far, with eleven "
+             "discourses mostly named only by ordinal position, "
+             "each a single brief claim",
+             "It has no discourses at all",
+             "It abandons the ten-factor content entirely"],
+         "correct": 1,
+         "expl": "A sharp departure from the elaborate similes and "
+                 "narratives of the two preceding chapters."},
+        {"q": "What does the word \"nāññatra\" (\"apart from\") "
+              "signal about this discourse's claim?",
+         "opts": [
+             "That the claim is merely a preference",
+             "That the claim is genuinely exclusive: the purity in "
+             "question simply doesn't exist anywhere outside this "
+             "training",
+             "That the claim applies to all religious traditions "
+             "equally",
+             "That the word has no particular force"],
+         "correct": 1,
+         "expl": "A strong exclusivity clause, not a comparative "
+                 "preference."},
+        {"q": "According to the guide, what happens to this "
+              "discourse's claim across AN 10.124 through 10.131?",
+         "opts": [
+             "It is simply repeated verbatim eight more times",
+             "Four more distinct claims follow, then a further "
+             "condition is introduced and recombined with several "
+             "of the earlier claims",
+             "It is contradicted by later discourses",
+             "The ten factors are replaced with a new list"],
+         "correct": 1,
+         "expl": "A structured sequence of claims and recombinations, "
+                 "not simple repetition."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Nowhere else, at all", [
+            "not purified, not",
+            "cleansed anywhere but here &mdash;",
+            "a claim, not a boast",
+        ]),
+        ("A chapter stripped bare", [
+            "no simile now, no",
+            "brahmin, no story &mdash; just named",
+            "First through Eleventh",
+        ]),
+        ("One claim among five to come", [
+            "purity today;",
+            "arising, fruit, the three poisons,",
+            "freedom still to state",
+        ]),
+        ("Cross-references", [
+            "AN 10.122 &middot; previous, closing ch.12, "
+            "Paccorohaṇivagga",
+            "AN 10.124 &middot; next, Second",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.123/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.122.html">AN 10.122</a> &mdash; previous, closing chapter 12, '
+        "Paccorohaṇivagga.",
+        '<a href="an-10.124.html">AN 10.124 &middot; Second</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.124 — Dutiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    124, "Dutiya", "Second",
+    vagga=VAGGA_13,
+    meta_title="AN 10.124 — Second | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasutta, restating this chapter's exclusivity claim "
+        "for the ten right factors: they do not even arise apart "
+        "from the Holy One's training. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second of this chapter's near-identical "
+                       "single claims"),
+    ],
+    why=(
+        "This discourse pushes AN 10.123's exclusivity claim one step "
+        "further back: not merely that the ten factors lack purity "
+        "outside this training, but that they don't even come into "
+        "existence at all anywhere else."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "don't arise anywhere except within the Holy One's own "
+            "training."]),
+        ("A stronger claim than purity alone", [
+            "Where AN 10.123 claimed the ten factors lack "
+            "<em>purity</em> outside this training &mdash; leaving "
+            "open, in principle, that some lesser or partial version "
+            "might exist elsewhere &mdash; this discourse denies "
+            "their very <em>arising</em>: nothing resembling these "
+            "ten factors comes into existence at all outside the "
+            "Buddha's teaching."]),
+        ("The same ten factors, a sharpened denial", [
+            "The list itself is completely unchanged from AN 10.123; "
+            "only the verb attached to it shifts, from "
+            "&ldquo;purified&rdquo; to &ldquo;arise,&rdquo; "
+            "illustrating this chapter's method: minimal variation "
+            "in wording carrying real philosophical weight from one "
+            "discourse to the next."]),
+        ("Second of five distinct claims", [
+            "As the second claim in the sequence AN 10.123 through "
+            "10.127 will complete, this discourse's specific "
+            "wording &mdash; &ldquo;don't arise&rdquo; &mdash; will "
+            "itself return later in the chapter, combined with a "
+            "further condition at AN 10.128."]),
+    ],
+    terms=[
+        ("anuppannā uppajjanti",
+         "&ldquo;don't arise&rdquo; &mdash; this discourse's own "
+         "claim, literally &ldquo;being unarisen, they arise,&rdquo; "
+         "a set phrase for something coming newly into existence."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the identical exclusivity clause repeated from AN "
+         "10.123."),
+        ("sammāsaṅkappo",
+         "&ldquo;right purpose&rdquo; (or right intention) &mdash; "
+         "the second of the ten factors, unchanged from every prior "
+         "list in this chapter and the one before it."),
+        ("sammāsati",
+         "&ldquo;right mindfulness&rdquo; &mdash; the seventh "
+         "factor, appearing identically across this chapter's "
+         "eleven near-repeated lists."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "one of the two extending the classical eightfold path in "
+         "this chapter's own ten-item version."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Not arising apart from this training"),
+        ("p", "&sect;1", "an10.124:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's claim differ from AN "
+              "10.123's, according to the guide?",
+         "opts": [
+             "It is identical in every respect",
+             "It is a stronger claim: not just lacking purity "
+             "elsewhere, but not even arising at all outside this "
+             "training",
+             "It weakens the earlier claim",
+             "It replaces the ten factors with new ones"],
+         "correct": 1,
+         "expl": "A denial of arising itself, not merely of purity."},
+        {"q": "What changes between AN 10.123 and this discourse, "
+              "according to the guide?",
+         "opts": [
+             "The entire list of ten factors",
+             "Only the verb attached to the list, from \"purified\" "
+             "to \"arise\" &mdash; minimal wording change, real "
+             "philosophical weight",
+             "The setting",
+             "The speaker"],
+         "correct": 1,
+         "expl": "This chapter's characteristic method of small "
+                 "wording shifts."},
+        {"q": "What does \"anuppannā uppajjanti\" literally convey?",
+         "opts": [
+             "Something that has always existed",
+             "Something coming newly into existence, being "
+             "previously unarisen",
+             "Something that never occurs",
+             "A grammatical error in the source"],
+         "correct": 1,
+         "expl": "A set phrase for the arising of something not "
+                 "previously present."},
+        {"q": "According to the guide, what happens to this "
+              "discourse's specific claim (\"don't arise\") later in "
+              "the chapter?",
+         "opts": [
+             "It disappears entirely",
+             "It returns, combined with a further condition "
+             "introduced at AN 10.128",
+             "It is contradicted",
+             "It becomes the chapter's only claim"],
+         "correct": 1,
+         "expl": "Part of this chapter's pattern of claims later "
+                 "recombined."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Not just impure, unborn", [
+            "not merely tainted",
+            "elsewhere &mdash; they never even",
+            "come to exist at all",
+        ]),
+        ("One verb, real weight", [
+            "purified to arise &mdash;",
+            "small shift in the wording,",
+            "large shift in the claim",
+        ]),
+        ("A phrase saved for later", [
+            "\"don't arise\" returns",
+            "further on, joined to a new",
+            "condition, recombined",
+        ]),
+        ("Cross-references", [
+            "AN 10.123 &middot; First, the milder purity claim this "
+            "discourse sharpens",
+            "AN 10.125 &middot; next, Third",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.124/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.123.html">AN 10.123 &middot; First</a> &mdash; previous.',
+        '<a href="an-10.125.html">AN 10.125 &middot; Third</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.125 — Tatiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    125, "Tatiya", "Third",
+    vagga=VAGGA_13,
+    meta_title="AN 10.125 — Third | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasutta, the third of this chapter's claims: the "
+        "ten right factors are not very fruitful and beneficial "
+        "apart from the Holy One's training. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third of this chapter's near-identical "
+                       "single claims"),
+    ],
+    why=(
+        "The third claim in this chapter's sequence shifts from "
+        "existence itself to value: even granting that something "
+        "resembling these ten factors might occur elsewhere, only "
+        "within this training do they actually pay off."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "are not very fruitful and beneficial anywhere except "
+            "within the Holy One's own training."]),
+        ("From existence to value", [
+            "AN 10.123 and 10.124 concerned whether the ten factors "
+            "are pure or whether they arise at all outside this "
+            "training; this discourse asks a different kind of "
+            "question &mdash; not whether they exist elsewhere, but "
+            "whether they are worth anything elsewhere &mdash; and "
+            "answers that their fruitfulness, too, is exclusive to "
+            "this training."]),
+        ("Fruitful and beneficial, a set pairing", [
+            "&ldquo;Very fruitful and beneficial&rdquo; "
+            "(<em>mahapphalā mahānisaṁsā</em>) is a stock phrase "
+            "already met elsewhere in this project describing "
+            "outcomes worth pursuing; applying it here to the ten "
+            "factors themselves, rather than to a practice built on "
+            "them, makes the factors' own value, not merely their "
+            "results, the discourse's explicit subject."]),
+        ("A claim that will return doubled", [
+            "This exact claim &mdash; fruitfulness restricted to this "
+            "training &mdash; reappears later in the chapter at AN "
+            "10.129, there combined with the further condition of "
+            "being &ldquo;developed and cultivated&rdquo; first "
+            "introduced at AN 10.128."]),
+    ],
+    terms=[
+        ("mahapphalā mahānisaṁsā",
+         "&ldquo;very fruitful and beneficial&rdquo; &mdash; this "
+         "discourse's own claim, a stock phrase for outcomes "
+         "genuinely worth pursuing."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated a third time."),
+        ("sammāvācā",
+         "&ldquo;right speech&rdquo; &mdash; the third factor, "
+         "unchanged across every list in this chapter."),
+        ("sammākammanto",
+         "&ldquo;right action&rdquo; &mdash; the fourth factor, "
+         "likewise identical throughout."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the eighth factor, "
+         "the classical eightfold path's own final member before "
+         "this chapter's two additional factors."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Not fruitful apart from this training"),
+        ("p", "&sect;1", "an10.125:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What kind of question does this discourse ask, "
+              "compared to AN 10.123 and 10.124?",
+         "opts": [
+             "The same question, worded differently",
+             "A question of value rather than existence: not whether "
+             "the ten factors exist elsewhere, but whether they are "
+             "worth anything elsewhere",
+             "A question about monastic discipline",
+             "A question about cosmology"],
+         "correct": 1,
+         "expl": "A shift from purity and arising to fruitfulness."},
+        {"q": "What does \"mahapphalā mahānisaṁsā\" mean?",
+         "opts": [
+             "Difficult and dangerous",
+             "Very fruitful and beneficial, a stock phrase for "
+             "outcomes worth pursuing",
+             "Ancient and traditional",
+             "Rare and expensive"],
+         "correct": 1,
+         "expl": "This discourse's own central claim about the ten "
+                 "factors' value."},
+        {"q": "According to the guide, what does applying this "
+              "phrase to the ten factors themselves accomplish?",
+         "opts": [
+             "Nothing new",
+             "It makes the factors' own value, not merely their "
+             "downstream results, the discourse's explicit subject",
+             "It contradicts the earlier discourses",
+             "It removes right view from the list"],
+         "correct": 1,
+         "expl": "A shift in focus from outcomes to the value of the "
+                 "factors themselves."},
+        {"q": "According to the guide, where does this exact claim "
+              "reappear later in the chapter?",
+         "opts": [
+             "Nowhere else",
+             "At AN 10.129, combined with the further condition of "
+             "being \"developed and cultivated\"",
+             "It is contradicted at AN 10.130",
+             "It becomes the chapter's closing statement"],
+         "correct": 1,
+         "expl": "Part of this chapter's pattern of claims later "
+                 "recombined with a new condition."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("From exists to is worth it", [
+            "not just \"is it there,\"",
+            "but \"does it pay off\" &mdash; the",
+            "question shifts to value",
+        ]),
+        ("A familiar pairing", [
+            "\"fruitful, beneficial\" &mdash;",
+            "words met before, now applied",
+            "to the ten factors",
+        ]),
+        ("Doubled, later on", [
+            "this same claim returns",
+            "at 10.129, now",
+            "paired with cultivation",
+        ]),
+        ("Cross-references", [
+            "AN 10.124 &middot; Second, the arising claim this "
+            "discourse shifts from existence to value",
+            "AN 10.126 &middot; next, Fourth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.125/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.124.html">AN 10.124 &middot; Second</a> &mdash; previous.',
+        '<a href="an-10.126.html">AN 10.126 &middot; Fourth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.126 — Catutthasutta
+# --------------------------------------------------------------------------- #
+page(
+    126, "Catuttha", "Fourth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.126 — Fourth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthasutta, the fourth of this chapter's claims: the "
+        "ten right factors culminate in removing greed, hate, and "
+        "delusion only within the Holy One's training. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the fourth of this chapter's near-identical "
+                       "single claims"),
+    ],
+    why=(
+        "This discourse names the specific destination the ten "
+        "factors are meant to reach: not a vague betterment, but the "
+        "actual removal of the three unwholesome roots, and claims "
+        "even that concrete culmination belongs to this training "
+        "alone."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "culminate in the removal of greed, hate, and delusion "
+            "nowhere except within the Holy One's own training."]),
+        ("The three roots, named directly", [
+            "Unlike AN 10.123 through 10.125's more abstract "
+            "vocabulary (purity, arising, fruitfulness), this "
+            "discourse names a specific, concrete target: "
+            "<em>rāga</em>, <em>dosa</em>, and <em>moha</em>, greed, "
+            "hate, and delusion, the classic three unwholesome roots "
+            "met throughout this project, giving the exclusivity "
+            "claim a sharper, more identifiable content."]),
+        ("Culmination, not mere reduction", [
+            "The term <em>pariyosāna</em>, &ldquo;culmination&rdquo; "
+            "or completion, sets a high bar: this is not a claim "
+            "that the ten factors merely lessen greed, hate, and "
+            "delusion elsewhere, but that only within this training "
+            "do they reach the actual endpoint of removing these "
+            "roots entirely."]),
+        ("The fourth of five, soon to be doubled", [
+            "As the fourth distinct claim in this chapter's opening "
+            "sequence, this discourse's specific content &mdash; "
+            "culminating in the removal of the three roots &mdash; "
+            "will return at AN 10.130, there combined with the "
+            "&ldquo;developed and cultivated&rdquo; condition "
+            "introduced two discourses later, at AN 10.128."]),
+    ],
+    terms=[
+        ("rāgavinayapariyosānā, dosavinayapariyosānā, "
+         "mohavinayapariyosānā",
+         "&ldquo;culminate in the removal of greed... hate... "
+         "delusion&rdquo; &mdash; this discourse's own threefold "
+         "claim, naming the classic three unwholesome roots "
+         "directly."),
+        ("pariyosāna",
+         "&ldquo;culmination&rdquo; or completion &mdash; setting a "
+         "high bar of full removal, not mere reduction."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated a fourth "
+         "time."),
+        ("sammāājīvo",
+         "&ldquo;right livelihood&rdquo; &mdash; the fifth factor, "
+         "unchanged across this chapter's lists."),
+        ("sammāvāyāmo",
+         "&ldquo;right effort&rdquo; &mdash; the sixth factor, "
+         "likewise identical throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Culminating in removing the three roots, apart from "
+                "this training"),
+        ("p", "&sect;1", "an10.126:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What specific target does this discourse name, unlike "
+              "the more abstract vocabulary of AN 10.123&ndash;125?",
+         "opts": [
+             "Physical health",
+             "The classic three unwholesome roots: greed, hate, and "
+             "delusion",
+             "Wealth and status",
+             "A specific meditation posture"],
+         "correct": 1,
+         "expl": "A concrete, identifiable target rather than an "
+                 "abstract quality."},
+        {"q": "What does the term \"pariyosāna\" (culmination) set as "
+              "the standard, according to the guide?",
+         "opts": [
+             "A low bar of mere reduction",
+             "A high bar: full removal of the three roots, not "
+             "merely lessening them",
+             "No particular standard",
+             "A standard unrelated to greed, hate, and delusion"],
+         "correct": 1,
+         "expl": "Completion, not partial progress."},
+        {"q": "How does this discourse's exclusivity claim compare in "
+              "content to AN 10.123's?",
+         "opts": [
+             "Identical in every respect",
+             "It applies the same exclusivity structure to a "
+             "different, more concrete target: removal of the three "
+             "roots rather than purity",
+             "It contradicts AN 10.123",
+             "It removes the exclusivity claim entirely"],
+         "correct": 1,
+         "expl": "The same structural claim, now naming a specific "
+                 "destination."},
+        {"q": "According to the guide, where does this discourse's "
+              "specific claim reappear later in the chapter?",
+         "opts": [
+             "Nowhere else",
+             "At AN 10.130, combined with the \"developed and "
+             "cultivated\" condition from AN 10.128",
+             "It is contradicted at AN 10.131",
+             "It becomes the chapter's closing statement"],
+         "correct": 1,
+         "expl": "Part of this chapter's recurring pattern of later "
+                 "recombination."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A named destination", [
+            "not vague betterment,",
+            "but greed, hate, delusion &mdash;",
+            "removed, and completed",
+        ]),
+        ("Culmination, not a dent", [
+            "not merely lessened",
+            "elsewhere, but only here reach",
+            "their actual end",
+        ]),
+        ("Fourth of five, marked for later", [
+            "this claim, too, returns",
+            "further on, joined at last",
+            "to cultivation",
+        ]),
+        ("Cross-references", [
+            "AN 10.125 &middot; Third, the fruitfulness claim this "
+            "discourse narrows to a specific target",
+            "AN 10.127 &middot; next, Fifth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.126/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.125.html">AN 10.125 &middot; Third</a> &mdash; previous.',
+        '<a href="an-10.127.html">AN 10.127 &middot; Fifth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.127 — Pañcamasutta
+# --------------------------------------------------------------------------- #
+page(
+    127, "Pañcama", "Fifth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.127 — Fifth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcamasutta, closing this chapter's first set of five "
+        "distinct claims with the fullest formula yet: leading solely "
+        "to disillusionment, dispassion, and extinguishment. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the fifth and final claim in this chapter's "
+                       "opening set"),
+    ],
+    why=(
+        "Closing the first set of five distinct claims, this "
+        "discourse reaches for the fullest formula this project has "
+        "used for genuine liberation, applying the entire seven-part "
+        "phrase already met naming the goal of practice to the "
+        "exclusivity structure running through this whole chapter."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "lead solely to disillusionment, dispassion, cessation, "
+            "peace, insight, awakening, and extinguishment nowhere "
+            "except within the Holy One's own training."]),
+        ("The fullest formula in this chapter's set", [
+            "Where AN 10.123 through 10.126 each used a compact "
+            "single term or short phrase (purified, arise, fruitful, "
+            "the three roots), this discourse reaches for the full "
+            "seven-part formula &mdash; disillusionment, dispassion, "
+            "cessation, peace, insight, awakening, extinguishment "
+            "&mdash; already met describing the noble washing at AN "
+            "10.107 and the noble purgative at AN 10.108, the "
+            "standard by which the Buddha judges any practice "
+            "genuinely worthwhile."]),
+        ("Closing the chapter's first movement", [
+            "This discourse completes the set of five genuinely "
+            "distinct claims (AN 10.123&ndash;127) this chapter opens "
+            "with, before AN 10.128 introduces a new condition "
+            "&mdash; being developed and cultivated &mdash; that the "
+            "remaining discourses will recombine with three of these "
+            "same five claims."]),
+        ("Solely, not merely mostly", [
+            "The word <em>ekanta</em>, &ldquo;solely&rdquo; or "
+            "&ldquo;exclusively,&rdquo; already doing real work "
+            "within the formula itself, is then doubled by this "
+            "chapter's own <em>nāññatra</em> exclusivity clause "
+            "&mdash; a claim of exclusivity nested inside another "
+            "claim of exclusivity, about as strong a statement as "
+            "this project's material makes anywhere."]),
+    ],
+    terms=[
+        ("ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya "
+         "sambodhāya nibbānāya",
+         "&ldquo;solely to disillusionment, dispassion, cessation, "
+         "peace, insight, awakening, and extinguishment&rdquo; "
+         "&mdash; the full seven-part formula already met at AN "
+         "10.107 and 10.108, here applied to this chapter's "
+         "exclusivity structure."),
+        ("ekanta",
+         "&ldquo;solely&rdquo; or exclusively &mdash; a term of "
+         "exclusivity nested inside this chapter's own broader "
+         "exclusivity clause."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same clause repeated a fifth time, closing "
+         "this chapter's opening set of claims."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; the seventh and final "
+         "term of the formula, the ultimate goal named directly."),
+        ("sammāñāṇaṁ, sammāvimutti",
+         "&ldquo;right knowledge, right freedom&rdquo; &mdash; the "
+         "ninth and tenth factors, the two extending the classical "
+         "eightfold path throughout this chapter's every list."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Leading solely to extinguishment, apart from this "
+                "training"),
+        ("p", "&sect;1", "an10.127:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's formula compare to AN "
+              "10.123 through 10.126's, according to the guide?",
+         "opts": [
+             "It is even shorter",
+             "It is the fullest formula in the set, the entire "
+             "seven-part phrase already met describing the noble "
+             "washing and the noble purgative",
+             "It removes the ten-factor list entirely",
+             "It repeats AN 10.126 exactly"],
+         "correct": 1,
+         "expl": "A reach for the project's fullest description of "
+                 "genuine liberation."},
+        {"q": "Where has this exact seven-part formula appeared "
+              "before, according to the guide?",
+         "opts": [
+             "Nowhere before this discourse",
+             "Describing the noble washing at AN 10.107 and the "
+             "noble purgative at AN 10.108",
+             "Only in the Kokālika narrative",
+             "In the near-shore/far-shore discourses"],
+         "correct": 1,
+         "expl": "The Buddha's standard for judging any practice "
+                 "genuinely worthwhile."},
+        {"q": "What does this discourse complete, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "The set of five genuinely distinct claims (AN "
+             "10.123&ndash;127) opening this chapter, before a new "
+             "condition is introduced at AN 10.128",
+             "The entire chapter",
+             "The entire Third Fifty"],
+         "correct": 1,
+         "expl": "The final claim in this chapter's opening movement."},
+        {"q": "According to the guide, what does the word \"ekanta\" "
+              "(\"solely\") accomplish within this discourse's "
+              "structure?",
+         "opts": [
+             "Nothing notable",
+             "It nests one claim of exclusivity inside this "
+             "chapter's own broader nāññatra exclusivity clause",
+             "It contradicts the exclusivity clause",
+             "It weakens the overall claim"],
+         "correct": 1,
+         "expl": "A doubled exclusivity, about as strong a claim as "
+                 "this project's material makes."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("The full formula, at last", [
+            "not one word this time,",
+            "but the whole seven-part phrase &mdash;",
+            "met before, now here",
+        ]),
+        ("Exclusive, twice over", [
+            "\"solely\" nested in",
+            "\"nowhere else\" &mdash; two claims of",
+            "exclusivity, stacked",
+        ]),
+        ("Five claims, now complete", [
+            "purity, arising,",
+            "fruit, three roots, and now the full",
+            "path to extinguishment",
+        ]),
+        ("Cross-references", [
+            "AN 10.126 &middot; Fourth, the three-roots claim this "
+            "discourse expands to the fullest formula",
+            "AN 10.107 &middot; The Bone-Washing Ceremony, the "
+            "source of this same seven-part formula",
+            "AN 10.128 &middot; next, Sixth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.127/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.126.html">AN 10.126 &middot; Fourth</a> &mdash; previous.',
+        '<a href="an-10.107.html">AN 10.107 &middot; The Bone-Washing Ceremony</a> &mdash; '
+        "the source of this discourse's seven-part formula.",
+        '<a href="an-10.128.html">AN 10.128 &middot; Sixth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.128 — Chaṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    128, "Chaṭṭha", "Sixth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.128 — Sixth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chaṭṭhasutta, introducing a new condition &mdash; "
+        "developed and cultivated &mdash; that this chapter's "
+        "remaining discourses will recombine with three of its "
+        "earlier claims. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence claim, then the familiar "
+                 "ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the hinge point of this chapter's structure"),
+    ],
+    why=(
+        "This discourse marks a genuine turning point in the "
+        "chapter's sequence: rather than adding a sixth distinct "
+        "claim to the five already stated, it introduces a new "
+        "condition &mdash; being developed and cultivated &mdash; "
+        "that the chapter's remaining discourses will recombine with "
+        "several of the earlier claims."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "don't arise to be developed and cultivated anywhere "
+            "except within the Holy One's own training."]),
+        ("A new condition, not a sixth independent claim", [
+            "This discourse closely resembles AN 10.124's "
+            "&ldquo;don't arise&rdquo; claim, but adds the crucial "
+            "phrase &ldquo;to be developed and cultivated&rdquo; "
+            "(<em>bhāvitā bahulīkatā</em>) &mdash; a condition this "
+            "chapter has not used before, and one its remaining "
+            "discourses will explicitly build on rather than simply "
+            "repeat."]),
+        ("The hinge of this chapter's architecture", [
+            "AN 10.123 through 10.127 each stated one independent "
+            "claim; this discourse instead supplies a component "
+            "&mdash; &ldquo;developed and cultivated&rdquo; &mdash; "
+            "that AN 10.129, 10.130, and 10.131 will each combine "
+            "with one of three earlier claims (fruitfulness, the "
+            "three roots, and the seven-part liberation formula, "
+            "respectively), producing three new, compound claims "
+            "rather than three more independent ones."]),
+        ("Bhāvanā, the project's own recurring emphasis on "
+         "practice", [
+            "&ldquo;Developed and cultivated&rdquo; is a phrase this "
+            "project has met repeatedly describing genuine practice "
+            "rather than passive possession &mdash; introducing it "
+            "here signals that this chapter's remaining claims will "
+            "concern not merely what the ten factors are or produce, "
+            "but what happens when they are actively practiced."]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā",
+         "&ldquo;developed and cultivated&rdquo; &mdash; the new "
+         "condition this discourse introduces, to be recombined with "
+         "three earlier claims in the discourses that follow."),
+        ("anuppannā uppajjanti",
+         "&ldquo;don't arise&rdquo; &mdash; the same phrase already "
+         "met at AN 10.124, now joined to the new cultivation "
+         "condition."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated a sixth time."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first factor, opening "
+         "this discourse's list exactly as every list before it in "
+         "this chapter."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the single claim introducing the new "
+        "condition, and the familiar ten-item list. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not arising to be developed, apart from this "
+                "training"),
+        ("p", "&sect;1", "an10.128:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What new phrase does this discourse introduce, not "
+              "used in AN 10.123 through 10.127?",
+         "opts": [
+             "\"Nowhere else but here\"",
+             "\"To be developed and cultivated\" (bhāvitā "
+             "bahulīkatā)",
+             "\"The three unwholesome roots\"",
+             "A new set of ten factors entirely"],
+         "correct": 1,
+         "expl": "A condition the chapter's remaining discourses "
+                 "will build on."},
+        {"q": "According to the guide, what role does this discourse "
+              "play in the chapter's overall structure?",
+         "opts": [
+             "It simply adds a sixth independent claim like the "
+             "first five",
+             "It is a hinge point, supplying a component that the "
+             "next three discourses will each combine with one of "
+             "the earlier five claims",
+             "It contradicts everything stated before it",
+             "It closes the chapter"],
+         "correct": 1,
+         "expl": "Not a sixth independent claim, but a building "
+                 "block for compound claims to come."},
+        {"q": "How does this discourse's claim compare to AN "
+              "10.124's?",
+         "opts": [
+             "Completely unrelated",
+             "Closely resembles it (\"don't arise\"), but adds the "
+             "crucial phrase \"to be developed and cultivated\"",
+             "Directly contradicts it",
+             "Removes the arising claim entirely"],
+         "correct": 1,
+         "expl": "A close variant that adds the chapter's new "
+                 "governing condition."},
+        {"q": "According to the guide, what does introducing "
+              "\"developed and cultivated\" signal about the "
+              "chapter's remaining claims?",
+         "opts": [
+             "Nothing in particular",
+             "That they will concern what happens when the ten "
+             "factors are actively practiced, not merely what they "
+             "are or produce",
+             "That the ten factors are no longer relevant",
+             "That the chapter is about to end"],
+         "correct": 1,
+         "expl": "A shift toward active practice rather than passive "
+                 "possession."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Not a sixth claim, a hinge", [
+            "no new destination,",
+            "just a new condition, saved",
+            "for what comes after",
+        ]),
+        ("A phrase about to multiply", [
+            "\"developed, cultivated\" &mdash;",
+            "three more discourses will each",
+            "graft this onto one claim",
+        ]),
+        ("From what is, to what's done", [
+            "not just existing,",
+            "but practiced &mdash; the chapter turns",
+            "from being to doing",
+        ]),
+        ("Cross-references", [
+            "AN 10.124 &middot; Second, the closely related \"don't "
+            "arise\" claim this discourse extends",
+            "AN 10.129 &middot; next, Seventh",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.128/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.124.html">AN 10.124 &middot; Second</a> &mdash; the closely '
+        "related claim this discourse extends.",
+        '<a href="an-10.129.html">AN 10.129 &middot; Seventh</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.129 — Sattamasutta
+# --------------------------------------------------------------------------- #
+page(
+    129, "Sattama", "Seventh",
+    vagga=VAGGA_13,
+    meta_title="AN 10.129 — Seventh | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sattamasutta, the first of three compound claims: "
+        "developed and cultivated, the ten right factors are "
+        "fruitful only within the Holy One's training. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence compound claim, then the "
+                 "familiar ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the first of this chapter's three recombined "
+                       "claims"),
+    ],
+    why=(
+        "This discourse delivers the first of three compound claims "
+        "this chapter's structure has been building toward, grafting "
+        "AN 10.128's new &ldquo;developed and cultivated&rdquo; "
+        "condition onto AN 10.125's earlier claim about "
+        "fruitfulness."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "when developed and cultivated, are not very fruitful "
+            "and beneficial anywhere except within the Holy One's own "
+            "training."]),
+        ("Two earlier discourses, grafted into one", [
+            "This discourse is not new content: it is AN 10.125's "
+            "fruitfulness claim (&ldquo;very fruitful and "
+            "beneficial&rdquo;) with AN 10.128's cultivation "
+            "condition (&ldquo;when developed and cultivated&rdquo;) "
+            "spliced directly onto its front &mdash; the first "
+            "concrete instance of the recombination this chapter's "
+            "structure has been setting up since its sixth "
+            "discourse."]),
+        ("Practice as the missing ingredient", [
+            "Where AN 10.125 claimed simply that the ten factors are "
+            "fruitful only within this training, this discourse "
+            "specifies that this fruitfulness itself depends on "
+            "active practice: merely possessing right view, right "
+            "action, and the rest is not what the discourse has in "
+            "mind, but actually developing and cultivating them."]),
+        ("Two more recombinations to come", [
+            "This is the first but not the last of these compound "
+            "claims: AN 10.130 will graft the same cultivation "
+            "condition onto AN 10.126's three-roots claim, and AN "
+            "10.131 will graft it onto AN 10.127's full seven-part "
+            "liberation formula, completing the pattern this "
+            "discourse begins."]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā mahapphalā honti mahānisaṁsā",
+         "&ldquo;when developed and cultivated, are very fruitful "
+         "and beneficial&rdquo; &mdash; this discourse's own compound "
+         "claim, combining two earlier discourses' content."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated a seventh "
+         "time."),
+        ("sammāājīvo",
+         "&ldquo;right livelihood&rdquo; &mdash; the fifth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the eighth factor, "
+         "likewise identical throughout."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "one of the two extending the classical eightfold path."),
+    ],
+    text_intro=(
+        "The discourse in full: the compound claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Fruitful when developed, apart from this training"),
+        ("p", "&sect;1", "an10.129:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's claim relate to two earlier "
+              "discourses, according to the guide?",
+         "opts": [
+             "It is entirely unrelated to both",
+             "It grafts AN 10.128's \"developed and cultivated\" "
+             "condition onto AN 10.125's fruitfulness claim",
+             "It contradicts both discourses",
+             "It replaces both with entirely new content"],
+         "correct": 1,
+         "expl": "The first concrete instance of this chapter's "
+                 "recombination pattern."},
+        {"q": "What does this discourse specify that AN 10.125 did "
+              "not, according to the guide?",
+         "opts": [
+             "Nothing new",
+             "That the fruitfulness itself depends on actively "
+             "developing and cultivating the factors, not merely "
+             "possessing them",
+             "That the factors are entirely different",
+             "That the training is optional"],
+         "correct": 1,
+         "expl": "Practice as the missing ingredient added to the "
+                 "earlier fruitfulness claim."},
+        {"q": "According to the guide, what happens in AN 10.130 and "
+              "10.131?",
+         "opts": [
+             "Nothing further follows this pattern",
+             "The same cultivation condition is grafted onto AN "
+             "10.126's three-roots claim and AN 10.127's full "
+             "liberation formula, respectively",
+             "The pattern is contradicted",
+             "The chapter ends"],
+         "correct": 1,
+         "expl": "Two more recombinations completing the pattern "
+                 "this discourse begins."},
+        {"q": "What is the source of this discourse's two component "
+              "claims?",
+         "opts": [
+             "AN 10.107 and AN 10.108",
+             "AN 10.125 (fruitfulness) and AN 10.128 (developed and "
+             "cultivated)",
+             "AN 10.103 and AN 10.104",
+             "This discourse has no prior sources"],
+         "correct": 1,
+         "expl": "Two earlier discourses in this same chapter, "
+                 "combined into one."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Two discourses, spliced", [
+            "fruitful, plus cultivated &mdash;",
+            "the third's claim, the sixth's",
+            "condition, joined at last",
+        ]),
+        ("Possession isn't enough", [
+            "not merely having",
+            "these ten factors, but actually",
+            "practicing them through",
+        ]),
+        ("First of three grafts", [
+            "fruit joins cultivation",
+            "here; roots, then the full formula",
+            "still wait their turn",
+        ]),
+        ("Cross-references", [
+            "AN 10.125 &middot; Third, the fruitfulness claim grafted "
+            "here",
+            "AN 10.128 &middot; Sixth, the cultivation condition "
+            "grafted here",
+            "AN 10.130 &middot; next, Eighth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.129/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.125.html">AN 10.125 &middot; Third</a> &mdash; the fruitfulness '
+        "claim this discourse builds on.",
+        '<a href="an-10.128.html">AN 10.128 &middot; Sixth</a> &mdash; the cultivation '
+        "condition this discourse builds on.",
+        '<a href="an-10.130.html">AN 10.130 &middot; Eighth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.130 — Aṭṭhamasutta
+# --------------------------------------------------------------------------- #
+page(
+    130, "Aṭṭhama", "Eighth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.130 — Eighth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṭṭhamasutta, the second recombined claim: developed "
+        "and cultivated, the ten right factors culminate in removing "
+        "the three roots only within the Holy One's training. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence compound claim, then the "
+                 "familiar ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second of this chapter's three recombined "
+                       "claims"),
+    ],
+    why=(
+        "Continuing the recombination pattern AN 10.129 began, this "
+        "discourse grafts the same cultivation condition onto AN "
+        "10.126's earlier claim about culminating in the removal of "
+        "greed, hate, and delusion."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "when developed and cultivated, culminate in the removal "
+            "of greed, hate, and delusion nowhere except within the "
+            "Holy One's own training."]),
+        ("The second graft, following the established pattern", [
+            "As with AN 10.129, this discourse is not new content: "
+            "it is AN 10.126's three-roots claim with AN 10.128's "
+            "cultivation condition spliced onto its front &mdash; the "
+            "second of three such recombinations this chapter's "
+            "structure has been building toward since its sixth "
+            "discourse."]),
+        ("Cultivation attached to the concrete target", [
+            "Where AN 10.129 attached cultivation to the more "
+            "abstract claim of fruitfulness, this discourse attaches "
+            "it to the chapter's most concrete claim &mdash; the "
+            "actual removal of greed, hate, and delusion &mdash; "
+            "specifying that even this specific, nameable "
+            "achievement depends on active practice, not passive "
+            "possession."]),
+        ("One recombination remaining", [
+            "With this discourse, two of the three planned "
+            "recombinations are complete; only AN 10.131, grafting "
+            "cultivation onto AN 10.127's full seven-part liberation "
+            "formula, remains before this chapter's structural "
+            "pattern is fully realized."]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā rāgavinayapariyosānā honti",
+         "&ldquo;when developed and cultivated, culminate in the "
+         "removal of greed&rdquo; &mdash; this discourse's own "
+         "compound claim, combining two earlier discourses' content."),
+        ("dosavinayapariyosānā, mohavinayapariyosānā",
+         "&ldquo;culminate in the removal of hate... "
+         "delusion&rdquo; &mdash; the remaining two of the three "
+         "roots, completing the threefold target."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated an eighth "
+         "time."),
+        ("sammāvāyāmo",
+         "&ldquo;right effort&rdquo; &mdash; the sixth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāsati",
+         "&ldquo;right mindfulness&rdquo; &mdash; the seventh "
+         "factor, likewise identical throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: the compound claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Culminating in removing the three roots, when "
+                "developed"),
+        ("p", "&sect;1", "an10.130:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's claim relate to AN 10.126 "
+              "and 10.128, according to the guide?",
+         "opts": [
+             "It is unrelated to both",
+             "It grafts AN 10.128's cultivation condition onto AN "
+             "10.126's three-roots claim, the second such "
+             "recombination in this chapter",
+             "It contradicts both discourses",
+             "It removes the three roots from the claim"],
+         "correct": 1,
+         "expl": "The second of three planned recombinations in this "
+                 "chapter's structure."},
+        {"q": "According to the guide, what does this discourse "
+              "attach cultivation to, compared to AN 10.129?",
+         "opts": [
+             "Nothing different",
+             "The chapter's most concrete claim, the actual removal "
+             "of greed, hate, and delusion, rather than the more "
+             "abstract fruitfulness claim",
+             "A completely new set of qualities",
+             "The dawn simile"],
+         "correct": 1,
+         "expl": "Active practice specified as necessary even for "
+                 "the most concrete, nameable achievement."},
+        {"q": "How many of the chapter's three planned recombinations "
+              "does this discourse complete?",
+         "opts": [
+             "None; it is the first",
+             "The second of three, with one more (AN 10.131) still "
+             "remaining",
+             "All three at once",
+             "It is unrelated to any recombination"],
+         "correct": 1,
+         "expl": "Two down, one to go before the pattern is fully "
+                 "realized."},
+        {"q": "What three roots does this discourse name as the "
+              "target for removal?",
+         "opts": [
+             "Faith, ethics, and wisdom",
+             "Greed, hate, and delusion",
+             "Pride, doubt, and fear",
+             "Laziness, ignorance, and desire"],
+         "correct": 1,
+         "expl": "The classic three unwholesome roots, already named "
+                 "at AN 10.126."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Roots, joined to practice", [
+            "greed, hate, delusion,",
+            "now paired with cultivation &mdash;",
+            "the second graft made",
+        ]),
+        ("Even the concrete needs work", [
+            "not just a target",
+            "named, but actually practiced &mdash;",
+            "possession won't do",
+        ]),
+        ("Two down, one to go", [
+            "fruit joined, roots joined now &mdash;",
+            "only the full formula",
+            "still waits its own graft",
+        ]),
+        ("Cross-references", [
+            "AN 10.126 &middot; Fourth, the three-roots claim grafted "
+            "here",
+            "AN 10.129 &middot; Seventh, the first of this chapter's "
+            "three recombinations",
+            "AN 10.131 &middot; next, Ninth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.130/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.126.html">AN 10.126 &middot; Fourth</a> &mdash; the three-roots '
+        "claim this discourse builds on.",
+        '<a href="an-10.129.html">AN 10.129 &middot; Seventh</a> &mdash; previous.',
+        '<a href="an-10.131.html">AN 10.131 &middot; Ninth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.131 — Navamasutta
+# --------------------------------------------------------------------------- #
+page(
+    131, "Navama", "Ninth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.131 — Ninth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Navamasutta, completing this chapter's three "
+        "recombined claims: developed and cultivated, the ten right "
+        "factors lead solely to extinguishment only within the Holy "
+        "One's training. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single-sentence compound claim, then the "
+                 "familiar ten-item list"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third and final recombined claim"),
+    ],
+    why=(
+        "Completing the recombination pattern begun at AN 10.129, "
+        "this discourse grafts the cultivation condition onto the "
+        "fullest claim in the chapter's set: the entire seven-part "
+        "liberation formula first applied here at AN 10.127."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ten right factors, from right view to right freedom, "
+            "when developed and cultivated, lead solely to "
+            "disillusionment, dispassion, cessation, peace, insight, "
+            "awakening, and extinguishment nowhere except within the "
+            "Holy One's own training."]),
+        ("The third and final graft, completing the pattern", [
+            "This discourse completes what AN 10.129 and 10.130 "
+            "began: AN 10.127's full seven-part liberation formula, "
+            "now joined to AN 10.128's cultivation condition, the "
+            "last of three recombinations this chapter's structure "
+            "has been assembling since its sixth discourse."]),
+        ("The chapter's longest and most demanding compound claim", [
+            "Combining the fullest formula in the set with the "
+            "cultivation condition produces this discourse's longest "
+            "single sentence &mdash; a claim that active practice of "
+            "the ten factors is necessary not merely for some "
+            "fruitful benefit or the removal of three roots, but for "
+            "the entire arc of genuine liberation, all seven terms of "
+            "it, and that this arc belongs to this training alone."]),
+        ("A structure now fully visible", [
+            "With this discourse, the chapter's underlying "
+            "architecture is complete and visible in full: five "
+            "independent claims (AN 10.123&ndash;127), a new "
+            "condition introduced (AN 10.128), and three "
+            "recombinations of that condition with three of the five "
+            "earlier claims (AN 10.129&ndash;131) &mdash; a "
+            "deliberate structure, not simple repetition, only fully "
+            "legible once this final recombination is reached."]),
+    ],
+    terms=[
+        ("bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya "
+         "upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti",
+         "&ldquo;when developed and cultivated, lead solely to "
+         "disillusionment... extinguishment&rdquo; &mdash; this "
+         "discourse's own compound claim, the longest in this "
+         "chapter's set."),
+        ("nāññatra sugatavinayā",
+         "&ldquo;not apart from the Holy One's training&rdquo; "
+         "&mdash; the same exclusivity clause repeated a ninth time."),
+        ("sammākammanto",
+         "&ldquo;right action&rdquo; &mdash; the fourth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the eighth factor, "
+         "likewise identical throughout."),
+        ("sammāñāṇaṁ, sammāvimutti",
+         "&ldquo;right knowledge, right freedom&rdquo; &mdash; the "
+         "ninth and tenth factors, closing this chapter's own final "
+         "recombined list."),
+    ],
+    text_intro=(
+        "The discourse in full: the compound claim, and the familiar "
+        "ten-item list. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Leading solely to extinguishment, when developed"),
+        ("p", "&sect;1", "an10.131:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse combine, completing this "
+              "chapter's recombination pattern?",
+         "opts": [
+             "Two unrelated new claims",
+             "AN 10.127's full seven-part liberation formula and AN "
+             "10.128's cultivation condition",
+             "AN 10.123 and AN 10.124",
+             "The near-shore and far-shore images"],
+         "correct": 1,
+         "expl": "The third and final of three planned recombinations "
+                 "in this chapter."},
+        {"q": "According to the guide, what makes this discourse's "
+              "claim the chapter's most demanding?",
+         "opts": [
+             "It uses the shortest wording",
+             "It combines the fullest liberation formula with the "
+             "cultivation condition, requiring active practice for "
+             "the entire arc of genuine liberation",
+             "It contradicts all previous discourses",
+             "It removes several factors from the list"],
+         "correct": 1,
+         "expl": "The longest, most complete compound claim in this "
+                 "chapter's set."},
+        {"q": "According to the guide, what structure becomes fully "
+              "visible once this discourse is reached?",
+         "opts": [
+             "No particular structure",
+             "Five independent claims, a new condition introduced, "
+             "and three recombinations of that condition with three "
+             "of the earlier claims",
+             "A random, unplanned sequence",
+             "A contradiction between all eleven discourses"],
+         "correct": 1,
+         "expl": "A deliberate architecture only legible from this "
+                 "final recombination."},
+        {"q": "How many of the chapter's originally stated five "
+              "claims (AN 10.123&ndash;127) have now been recombined "
+              "with the cultivation condition?",
+         "opts": [
+             "None", "All five",
+             "Three: fruitfulness, the three roots, and the full "
+             "liberation formula",
+             "Only one"],
+         "correct": 2,
+         "expl": "Three of the five original claims recombined; two "
+                 "(purity and mere arising) were not."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("The fullest graft of all", [
+            "the whole seven-part",
+            "formula, now joined to the",
+            "sixth discourse's own claim",
+        ]),
+        ("Not just fruit, not just roots", [
+            "the entire arc of",
+            "liberation itself now",
+            "requires actual practice",
+        ]),
+        ("The architecture, revealed", [
+            "five claims, one new term,",
+            "three grafts &mdash; only now, at last,",
+            "the whole pattern shows",
+        ]),
+        ("Cross-references", [
+            "AN 10.127 &middot; Fifth, the full liberation formula "
+            "grafted here",
+            "AN 10.130 &middot; Eighth, the second of this chapter's "
+            "three recombinations",
+            "AN 10.132 &middot; next, Tenth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.131/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.127.html">AN 10.127 &middot; Fifth</a> &mdash; the liberation '
+        "formula this discourse builds on.",
+        '<a href="an-10.130.html">AN 10.130 &middot; Eighth</a> &mdash; previous.',
+        '<a href="an-10.132.html">AN 10.132 &middot; Tenth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.132 — Dasamasutta
+# --------------------------------------------------------------------------- #
+page(
+    132, "Dasama", "Tenth",
+    vagga=VAGGA_13,
+    meta_title="AN 10.132 — Tenth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dasamasutta, stepping back from this chapter's "
+        "elaborate compound claims to the bare list of ten wrong "
+        "ways, with no elaboration at all. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single bare list, with no claim attached at all"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the barest discourse in an already spare "
+                       "chapter"),
+    ],
+    why=(
+        "After nine discourses building an increasingly elaborate "
+        "structure of claims and recombinations, this discourse steps "
+        "all the way back to the simplest possible statement: naming "
+        "the ten wrong ways, with no claim about their purity, "
+        "fruitfulness, or exclusivity attached at all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are ten wrong ways: wrong view, wrong purpose, "
+            "wrong speech, wrong action, wrong livelihood, wrong "
+            "effort, wrong mindfulness, wrong immersion, wrong "
+            "knowledge, and wrong freedom."]),
+        ("A list with no claim attached", [
+            "Unlike every discourse before it in this chapter, this "
+            "one makes no assertion about the ten items it lists "
+            "&mdash; no purity, no arising, no fruitfulness, no "
+            "exclusivity to any training. It simply names the ten "
+            "wrong ways and stops, the barest possible statement in "
+            "an already spare chapter."]),
+        ("The wrong list, given its own moment", [
+            "For the first time since AN 10.113 opened this "
+            "chapter's twin sequence of chapters, the wrong version "
+            "of the ten factors appears entirely on its own, without "
+            "being paired against its right counterpart in the same "
+            "discourse &mdash; a bare naming rather than a "
+            "contrastive teaching."]),
+        ("Setting up the chapter's final discourse", [
+            "This discourse's plain listing of the ten wrong ways "
+            "sets up an equally plain mirror at AN 10.133, the "
+            "chapter's closing discourse, which will name the ten "
+            "right ways in the identical bare form &mdash; the "
+            "chapter's very last pairing, stripped down to its "
+            "simplest possible expression."]),
+    ],
+    terms=[
+        ("dasa micchattā",
+         "&ldquo;ten wrong ways&rdquo; &mdash; this discourse's own "
+         "title and entire content, with no further claim attached."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the first of the ten "
+         "wrong ways, opening the bare list."),
+        ("micchāsamādhi",
+         "&ldquo;wrong immersion&rdquo; &mdash; the eighth item, "
+         "corresponding to the classical eightfold path's own final "
+         "wrong factor."),
+        ("micchāñāṇaṁ",
+         "&ldquo;wrong knowledge&rdquo; &mdash; the ninth item, one "
+         "of the two extending the classical path in this chapter's "
+         "ten-item version."),
+        ("micchāvimutti",
+         "&ldquo;wrong freedom&rdquo; &mdash; the tenth and final "
+         "item, closing the bare list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten wrong ways, with no "
+        "additional claim attached. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten wrong ways"),
+        ("p", "&sect;1", "an10.132:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the ten wrong "
+              "ways it lists?",
+         "opts": [
+             "That they are not purified apart from this training",
+             "Nothing at all; it simply names them with no "
+             "additional claim attached",
+             "That they culminate in the removal of the three roots",
+             "That they lead to extinguishment"],
+         "correct": 1,
+         "expl": "The barest possible statement, unlike every "
+                 "discourse before it in this chapter."},
+        {"q": "How does this discourse differ from AN 10.123 through "
+              "10.131, according to the guide?",
+         "opts": [
+             "It is even more elaborate",
+             "It makes no assertion at all about the items listed, "
+             "the simplest statement in an already spare chapter",
+             "It contradicts all nine earlier discourses",
+             "It uses a completely different list"],
+         "correct": 1,
+         "expl": "A bare naming, not a contrastive or exclusivity "
+                 "claim."},
+        {"q": "According to the guide, what is notable about how the "
+              "wrong list appears in this discourse?",
+         "opts": [
+             "Nothing notable",
+             "For the first time in this chapter's sequence, it "
+             "appears entirely on its own, not paired against the "
+             "right version in the same discourse",
+             "It is combined with the right version for the first "
+             "time",
+             "It is expanded to twenty items"],
+         "correct": 1,
+         "expl": "A bare naming rather than the contrastive pairing "
+                 "seen in earlier chapters."},
+        {"q": "What does this discourse set up, according to the "
+              "guide?",
+         "opts": [
+             "Nothing further",
+             "An equally plain mirror at AN 10.133, naming the ten "
+             "right ways in identical bare form",
+             "A contradiction at AN 10.133",
+             "The entire Third Fifty's closing"],
+         "correct": 1,
+         "expl": "The chapter's final pairing, stripped to its "
+                 "simplest form."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("No claim, just a name", [
+            "not purified, not",
+            "fruitful, not exclusive here &mdash;",
+            "just the list, bare, named",
+        ]),
+        ("Wrong, standing alone", [
+            "for the first time in",
+            "this chapter, wrong appears with",
+            "no right beside it",
+        ]),
+        ("A mirror, one page away", [
+            "the same bare listing",
+            "waits at the very next page,",
+            "right instead of wrong",
+        ]),
+        ("Cross-references", [
+            "AN 10.131 &middot; Ninth, the chapter's most elaborate "
+            "compound claim, this discourse's stark opposite in tone",
+            "AN 10.133 &middot; next, Eleventh",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.132/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.131.html">AN 10.131 &middot; Ninth</a> &mdash; previous.',
+        '<a href="an-10.133.html">AN 10.133 &middot; Eleventh</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.133 — Ekādasamasutta
+# --------------------------------------------------------------------------- #
+page(
+    133, "Ekādasama", "Eleventh",
+    vagga=VAGGA_13,
+    meta_title="AN 10.133 — Eleventh | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ekādasamasutta, closing the Parisuddhavagga with the "
+        "bare list of ten right ways, mirroring AN 10.132 to end this "
+        "chapter on its plainest possible note. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single bare list, mirroring AN 10.132"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter", "This discourse closes "
+                                 "<em>Parisuddhavagga</em>, the "
+                                 "thirteenth chapter, with its own "
+                                 "untranslated colophon and uddāna "
+                                 "verse naming all eleven discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the plainest possible close to an already "
+                       "spare chapter"),
+    ],
+    why=(
+        "Closing the most compact chapter met so far in this nipāta, "
+        "the Buddha simply names the ten right ways, mirroring AN "
+        "10.132's bare listing of the wrong ones and ending eleven "
+        "discourses of steadily varied claims on the plainest note "
+        "of all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are ten right ways: right view, right purpose, "
+            "right speech, right action, right livelihood, right "
+            "effort, right mindfulness, right immersion, right "
+            "knowledge, and right freedom."]),
+        ("A mirror without elaboration", [
+            "As anticipated by AN 10.132, this discourse simply "
+            "names the ten right ways with no claim attached &mdash; "
+            "no purity, no exclusivity, no fruitfulness &mdash; the "
+            "positive mirror completing the chapter's final pairing "
+            "in the same stripped-down form."]),
+        ("A chapter's full architecture, seen from its close", [
+            "Read end to end, this chapter now shows a complete "
+            "shape: five independent claims (AN 10.123&ndash;127), a "
+            "new condition (AN 10.128), three recombinations of that "
+            "condition with three of the five claims (AN "
+            "10.129&ndash;131), and finally two bare, unelaborated "
+            "lists (AN 10.132&ndash;133) &mdash; wrong and right, "
+            "closing exactly where this project's exploration of the "
+            "ten-factor path across chapters 11 through 13 first "
+            "began, at AN 10.103's own plain statement of the same "
+            "two lists."]),
+        ("The plainest possible ending to three chapters' work", [
+            "It is fitting that three chapters spent almost entirely "
+            "on one recurring ten-factor teaching, dressed in seeds, "
+            "medicine, shores, fire rituals, and now claims about "
+            "purity and cultivation, should close not with another "
+            "elaboration but with the same bare list that started it "
+            "all &mdash; content outlasting every costume it has "
+            "worn."]),
+    ],
+    terms=[
+        ("dasa sammattā",
+         "&ldquo;ten right ways&rdquo; &mdash; this discourse's own "
+         "title and entire content, mirroring AN 10.132's &ldquo;ten "
+         "wrong ways&rdquo; with no further claim attached."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first item, opening "
+         "the bare list exactly as it opened every list across "
+         "chapters 11 through 13."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the eighth item, the "
+         "classical eightfold path's own final member."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth item, one "
+         "of the two factors extending the classical path throughout "
+         "this whole three-chapter exploration."),
+        ("Parisuddhavaggo tatiyo",
+         "&ldquo;the Purified Chapter, the third&rdquo; &mdash; the "
+         "chapter's own closing colophon, left untranslated in the "
+         "English text."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten right ways, mirroring AN "
+        "10.132. The chapter's own colophon and uddāna verse, in "
+        "Pāli only, are described but not reproduced. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten right ways"),
+        ("p", "&sect;1", "an10.133:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the ten right "
+              "ways it lists?",
+         "opts": [
+             "That they are exclusive to the Holy One's training",
+             "Nothing at all; it simply names them, mirroring AN "
+             "10.132's bare listing of the wrong ways",
+             "That they culminate in removing the three roots",
+             "That they require years of cultivation"],
+         "correct": 1,
+         "expl": "A bare mirror, closing this chapter's final pairing "
+                 "without elaboration."},
+        {"q": "According to the guide, what four-part structure does "
+              "this chapter reveal, read end to end?",
+         "opts": [
+             "No particular structure",
+             "Five independent claims, a new condition, three "
+             "recombinations, and finally two bare unelaborated "
+             "lists",
+             "Eleven unrelated, randomly ordered discourses",
+             "A single unbroken narrative"],
+         "correct": 1,
+         "expl": "A deliberate architecture only fully visible from "
+                 "this closing discourse."},
+        {"q": "According to the guide, where does this chapter's "
+              "closing pair of bare lists echo back to?",
+         "opts": [
+             "Nowhere in particular",
+             "AN 10.103's own plain statement of the same two lists, "
+             "opening this whole three-chapter exploration",
+             "AN 10.90",
+             "AN 10.71"],
+         "correct": 1,
+         "expl": "A closing that returns to where the entire "
+                 "exploration across chapters 11 through 13 began."},
+        {"q": "What does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "Parisuddhavagga, the thirteenth chapter, with its own "
+             "colophon and uddāna verse naming all eleven discourses",
+             "The entire Third Fifty",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "A fitting close to the most compact chapter met so "
+                 "far in this nipāta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief, closing "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("The mirror, completed", [
+            "wrong stood alone; now",
+            "right stands just as alone, its",
+            "own bare, unadorned list",
+        ]),
+        ("A shape now fully seen", [
+            "five claims, one new term,",
+            "three grafts, then two bare "
+            "lists &mdash; the whole chapter's plan",
+        ]),
+        ("Content outlasting costume", [
+            "seeds, medicine, shores,",
+            "fire rituals, purity claims &mdash;",
+            "the same ten factors, still",
+        ]),
+        ("Cross-references", [
+            "AN 10.132 &middot; Tenth, the wrong-list mirror this "
+            "discourse completes",
+            "AN 10.103 &middot; The Wrong Way, the original plain "
+            "statement this three-chapter exploration returns to",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.133/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.132.html">AN 10.132 &middot; Tenth</a> &mdash; previous.',
+        '<a href="an-10.103.html">AN 10.103 &middot; The Wrong Way</a> &mdash; the original '
+        "statement this three-chapter exploration returns to.",
+    ],
+)
