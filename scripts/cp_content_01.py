@@ -2126,3 +2126,2005 @@ page(
         '<a href="./">Cariyapiṭaka</a> &mdash; back to the collection index.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Cp 11 — Mātuposaka Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    11, "M&amacr;tuposaka Cariy&amacr;", "The Conduct of One Who Provided for His Mother",
+    meta_title="Cp 11 — The Elephant Who Provided for His Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cariyapitaka's "
+        "opening story on the perfection of ethics — an elephant of immense strength "
+        "who submits to capture rather than fight back. From Ru-Yi Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (1st of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as an elephant who fed and cared for his "
+                    "mother"),
+        ("Speaker", "The Buddha, recounting his life as an unnamed elephant of immense "
+                    "strength"),
+        ("Form", "Ten four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "An elephant who supports his blind mother is the subject "
+                              "of its own jātaka in the wider tradition; this reading "
+                              "guide does not assert a specific matching text or number."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but opens a "
+                       "chapter whose central idea takes a moment to state clearly"),
+    ],
+    why=(
+        "This story opens the Cariyapitaka's second chapter, on the perfection of "
+        "ethics &mdash; and sets the pattern nearly every story in this chapter will "
+        "follow. Its central figure is not virtuous because he is weak or has no other "
+        "option: an elephant here explicitly states he had the physical power to defeat "
+        "an army, and chooses instead to let himself be captured and beaten without "
+        "retaliating, purely to keep his ethical conduct intact."),
+    guide=[
+        ("A different chapter, a different kind of virtue", [
+            "Where the first chapter's ten stories were about giving something away, "
+            "this second chapter's ten stories are almost all about a different "
+            "discipline: not retaliating, not breaking a commitment to non-harm, even "
+            "when the character in question has every practical ability to strike back."]),
+        ("Enormous strength, deliberately unused", [
+            "The elephant states his own power directly: strong enough, in his prime, to "
+            "equal a thousand elephants, with the physical capacity to defeat &lsquo;even "
+            "a kingdom of men&rsquo; if provoked. None of that capacity is used when "
+            "hunters come to capture him."]),
+        ("Captured while feeding his mother", [
+            "The elephant is found not in a moment of vulnerability but in an act of "
+            "care &mdash; pulling lotus roots from a pond to feed his mother &mdash; "
+            "and is taken by the trunk without a struggle, on a tamer's word alone, no "
+            "moat or restraint required."]),
+        ("A vow stated as the reason, not fear", [
+            "The story is explicit about motive: &lsquo;for the sake of guarding my "
+            "ethics, and fulfilling my perfection of ethics, I did not let my mind "
+            "change&rsquo;, even under blows from hatchets and lances. Restraint here is "
+            "framed as a discipline actively maintained, not a lack of options."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "entire second chapter illustrates, opening here with its first story."),
+        ("Mātuposaka",
+         "&ldquo;one who supports his mother&rdquo; &mdash; the descriptive title of "
+         "this story, rather than a proper name."),
+        ("pāramī",
+         "&ldquo;perfection&rdquo; &mdash; the ten stories of this chapter all "
+         "illustrate the perfection of ethics, as the ten stories before them "
+         "illustrated giving."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its eleventh."),
+        ("Hatthinaga-vagga",
+         "&ldquo;the Chapter on an Elephant&rdquo; &mdash; the traditional name of this "
+         "second chapter, taken from this opening story."),
+    ],
+    text_intro=(
+        "The text in full: ten verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp11:1.1-1.4"),
+        ("p", "&sect;2", "cp11:2.1-2.4"),
+        ("p", "&sect;3", "cp11:3.1-3.4"),
+        ("p", "&sect;4", "cp11:4.1-4.4"),
+        ("p", "&sect;5", "cp11:5.1-5.4"),
+        ("p", "&sect;6", "cp11:6.1-6.4"),
+        ("p", "&sect;7", "cp11:7.1-7.4"),
+        ("p", "&sect;8", "cp11:8.1-8.4"),
+        ("p", "&sect;9", "cp11:9.1-9.4"),
+        ("p", "&sect;10", "cp11:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What perfection does this second chapter of the Cariyapitaka illustrate?",
+         "opts": [
+             "Giving, continuing the first chapter's theme",
+             "Ethics (sīla), a new theme for this chapter",
+             "Wisdom",
+             "Patience, as its own distinct perfection"],
+         "correct": 1,
+         "expl": "Ten stories on ethics follow the ten stories on giving."},
+        {"q": "What discipline does this chapter's opening story establish as a pattern?",
+         "opts": [
+             "Giving away possessions",
+             "Not retaliating, even when the character has the power to",
+             "Seeking out teachers for instruction",
+             "Performing elaborate rituals"],
+         "correct": 1,
+         "expl": "Restraint held deliberately, not because of a lack of options."},
+        {"q": "What was the elephant doing when he was found by the hunters?",
+         "opts": [
+             "Fighting off a rival elephant",
+             "Pulling lotus roots from a pond to feed his mother",
+             "Sleeping in a cave",
+             "Fleeing from a forest fire"],
+         "correct": 1,
+         "expl": "Found in an act of care, not vulnerability."},
+        {"q": "How does the elephant describe his own physical power?",
+         "opts": [
+             "As weak and unremarkable",
+             "Strong enough to defeat even a kingdom of men, if provoked",
+             "Only slightly stronger than an average elephant",
+             "He makes no claim about his strength"],
+         "correct": 1,
+         "expl": "Equal to a thousand elephants in his prime."},
+        {"q": "How was the elephant actually captured?",
+         "opts": [
+             "With a moat and heavy restraints",
+             "Taken by the trunk, on a tamer's word alone, without a struggle",
+             "He was tricked with poisoned food",
+             "He was never actually captured"],
+         "correct": 1,
+         "expl": "No force was needed against him."},
+        {"q": "What does the elephant say motivated his non-retaliation, even under blows?",
+         "opts": [
+             "Fear of being killed",
+             "Guarding his ethics and fulfilling his perfection of ethics",
+             "A promise made to the hunters",
+             "Simple exhaustion"],
+         "correct": 1,
+         "expl": "Framed explicitly as a discipline, not weakness."},
+        {"q": "What does 'Mātuposaka' mean?",
+         "opts": [
+             "'Great elephant'",
+             "'One who supports his mother' — a descriptive title, not a proper name",
+             "'King of the forest'",
+             "'Perfection of ethics'"],
+         "correct": 1,
+         "expl": "This story's title describes the elephant's role, rather than naming him."},
+        {"q": "What is the traditional name of this chapter, taken from this opening story?",
+         "opts": [
+             "Akitti-vagga",
+             "Hatthinaga-vagga, 'the Chapter on an Elephant'",
+             "Yudhañjaya-vagga",
+             "No traditional name is given"],
+         "correct": 1,
+         "expl": "Named for its first story, as the first chapter was named for Akitti."},
+        {"q": "How does this chapter's approach to virtue differ from the first chapter's?",
+         "opts": [
+             "There is no meaningful difference",
+             "The first chapter is about giving something away; this one is mostly about not retaliating",
+             "This chapter is entirely about wealth",
+             "This chapter has no stories about animals"],
+         "correct": 1,
+         "expl": "A different discipline illustrated across ten different stories."},
+        {"q": "What perfection did the first chapter of the Cariyapitaka illustrate?",
+         "opts": [
+             "Ethics",
+             "Giving (dāna)",
+             "Truth",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "Cp 1 through Cp 10, now followed by this chapter on ethics."},
+    ],
+    marginalia=[
+        ("A new chapter", [
+            "ethics (sīla),",
+            "not giving"
+        ]),
+        ("Power held back", [
+            "strong enough for an army,",
+            "used against no one"
+        ]),
+        ("Found caring for his mother", [
+            "captured without",
+            "a struggle"
+        ]),
+        ("A vow, not weakness", [
+            "'I did not let",
+            "my mind change'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp11/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-10.html">Cp 10 &mdash; The Wise Hare&rsquo;s Conduct</a> &mdash; the '
+        "text immediately before this one, closing the chapter on giving.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 12 — Bhūridatta Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    12, "Bh&umacr;ridatta Cariy&amacr;", "The Dragon Bh&umacr;ridatta&rsquo;s Conduct",
+    meta_title="Cp 12 — The Dragon Bhūridatta's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dragon "
+        "Bhūridatta's Conduct, the Cariyapitaka's story of a nāga of immense power who "
+        "submits to capture rather than break his precepts. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (2nd of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as the nāga Bhūridatta"),
+        ("Speaker", "The Buddha, recounting his life as Bhūridatta"),
+        ("Form", "Nine four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "Bhūridatta is the subject of his own jātaka, "
+                              "traditionally counted among the same well-known set of "
+                              "the last ten jātakas as Cp 26's Temiya; this reading "
+                              "guide does not assert further specific correspondences "
+                              "beyond that general association."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct narration "
+                       "with a clear central choice"),
+    ],
+    why=(
+        "A nāga &mdash; a serpent being of great psychic power, capable of turning dry "
+        "land to water at will &mdash; undertakes ethical observance in hopes of a "
+        "heavenly rebirth, and then holds to it even while trapped in a basket, thrown "
+        "around, and forced to perform as a street entertainer by the man who caught "
+        "him."),
+    guide=[
+        ("A vow made freely, before any threat", [
+            "Bhūridatta's ethical observance does not begin as a response to danger: "
+            "seeing gods absorbed in pleasure during a visit to a heavenly realm, he "
+            "undertakes ethical practice on his own initiative, resolving on four "
+            "factors and lying down on a termite mound, offering his own body to "
+            "&lsquo;whoever has use for these&rsquo;."]),
+        ("An offer taken advantage of", [
+            "A snake-charmer named Ālampāyana takes Bhūridatta at his word in the worst "
+            "possible way &mdash; capturing him, throwing him in a basket, and forcing "
+            "him to perform in public &mdash; treatment the nāga endures without "
+            "retaliating, though he explicitly names the man as an ingrate."]),
+        ("A comparison of weights", [
+            "The story states its central value directly, through comparison: "
+            "&lsquo;to give up my own life was as light as a blade of grass. To "
+            "transgress my ethical principles was like overturning the earth.&rsquo; "
+            "The two are placed on opposite ends of a scale, not treated as comparable "
+            "costs."]),
+        ("A stated willingness to repeat the ordeal", [
+            "Bhūridatta does not describe this as a one-time sacrifice: he states he "
+            "would give up his own life in a hundred successive lives before violating "
+            "his ethics &lsquo;for the sake of the four continents&rsquo; &mdash; the "
+            "entire world offered as a hypothetical bribe, and refused."]),
+    ],
+    terms=[
+        ("nāga",
+         "a serpent being of great psychic power &mdash; the kind of being Bhūridatta "
+         "is described as in this text."),
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the second of ten stories on this theme."),
+        ("uposatha",
+         "the observance day whose ethical undertakings Bhūridatta resolves on before "
+         "lying down on the termite mound."),
+        ("Ālampāyana",
+         "the snake-charmer who captures Bhūridatta and forces him to perform, despite "
+         "the nāga's own offer of his body having been made in good faith."),
+        ("Bhūridatta Jātaka",
+         "the fuller version of this story in the separate Jātaka tradition, "
+         "traditionally counted among a well-known set of the last ten jātakas."),
+    ],
+    text_intro=(
+        "The text in full: nine verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp12:1.1-1.4"),
+        ("p", "&sect;2", "cp12:2.1-2.4"),
+        ("p", "&sect;3", "cp12:3.1-3.4"),
+        ("p", "&sect;4", "cp12:4.1-4.4"),
+        ("p", "&sect;5", "cp12:5.1-5.4"),
+        ("p", "&sect;6", "cp12:6.1-6.4"),
+        ("p", "&sect;7", "cp12:7.1-7.4"),
+        ("p", "&sect;8", "cp12:8.1-8.4"),
+        ("p", "&sect;9", "cp12:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What prompts Bhūridatta to undertake ethical observance in the first place?",
+         "opts": [
+             "A direct threat to his life",
+             "Seeing gods absorbed in pleasure during a visit to a heavenly realm, hoping for a heavenly rebirth",
+             "A command from a king",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "Undertaken freely, before any danger appears."},
+        {"q": "What does Bhūridatta offer while lying on the termite mound?",
+         "opts": [
+             "His wealth",
+             "His own body, to 'whoever has use for these'",
+             "A prayer for the world's wellbeing",
+             "Nothing; he makes no offer"],
+         "correct": 1,
+         "expl": "An offer later taken advantage of by the snake-charmer Ālampāyana."},
+        {"q": "How does Ālampāyana treat Bhūridatta after capturing him?",
+         "opts": [
+             "With great respect, honoring his vow",
+             "Throwing him in a basket and forcing him to perform in public",
+             "Releasing him immediately",
+             "Offering him a position at court"],
+         "correct": 1,
+         "expl": "Treatment Bhūridatta endures without retaliating."},
+        {"q": "What comparison does the text use for giving up one's life versus breaking one's ethics?",
+         "opts": [
+             "Both are treated as equally costly",
+             "Giving up life is 'as light as a blade of grass'; breaking ethics is 'like overturning the earth'",
+             "Breaking ethics is described as trivial",
+             "No comparison is made"],
+         "correct": 1,
+         "expl": "Placed on opposite ends of a scale, not treated as comparable."},
+        {"q": "How many lifetimes does Bhūridatta say he would sacrifice rather than break his ethics?",
+         "opts": [
+             "None; he would break them to save his life",
+             "A hundred successive lives",
+             "Exactly one",
+             "An unspecified small number"],
+         "correct": 1,
+         "expl": "Even for the hypothetical bribe of 'the four continents' — the whole world."},
+        {"q": "What power does the text say Bhūridatta possessed?",
+         "opts": [
+             "None; he is described as physically weak",
+             "The ability to turn dry land to water and back, among other feats",
+             "Only the power of persuasive speech",
+             "Control over fire alone"],
+         "correct": 1,
+         "expl": "Immense psychic power, deliberately unused against his captor."},
+        {"q": "What does the text call Ālampāyana, despite Bhūridatta's own good-faith offer?",
+         "opts": [
+             "A wise teacher",
+             "An ingrate",
+             "A fellow nāga",
+             "A future Buddha"],
+         "correct": 1,
+         "expl": "Naming the injustice directly, even while enduring it without retaliation."},
+        {"q": "What does 'uposatha' refer to in this story?",
+         "opts": [
+             "A type of basket",
+             "The observance day whose undertakings Bhūridatta resolves on",
+             "A snake-charmer's trade",
+             "A heavenly realm"],
+         "correct": 1,
+         "expl": "The occasion for his ethical resolve before the termite-mound episode."},
+        {"q": "What wider tradition is Bhūridatta's story associated with?",
+         "opts": [
+             "No other tradition mentions this figure",
+             "His own jātaka, counted among a well-known set of the last ten jātakas",
+             "A canonical discourse to King Bimbisāra",
+             "The Petavatthu"],
+         "correct": 1,
+         "expl": "The same set that includes Cp 26's Temiya."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the second of ten stories on this theme",
+             "Truth",
+             "Love"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories opening this chapter."},
+    ],
+    marginalia=[
+        ("A vow made freely", [
+            "before any threat",
+            "or danger appeared"
+        ]),
+        ("An offer exploited", [
+            "captured, caged,",
+            "forced to perform"
+        ]),
+        ("A blade of grass", [
+            "against overturning",
+            "the whole earth"
+        ]),
+        ("A hundred lives offered", [
+            "rather than break",
+            "his ethics once"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp12/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-11.html">Cp 11 &mdash; The Conduct of One Who Provided for His '
+        "Mother</a> &mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 13 — Campeyya Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    13, "Campeyya Cariy&amacr;", "The Dragon Campeyyaka&rsquo;s Conduct",
+    meta_title="Cp 13 — The Dragon Campeyyaka's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dragon "
+        "Campeyyaka's Conduct, the Cariyapitaka's shortest ethics-story — a nāga who "
+        "performs on command rather than break his precepts. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (3rd of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as the nāga Campeyyaka"),
+        ("Speaker", "The Buddha, recounting his life as Campeyyaka"),
+        ("Form", "Six four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Campeyyaka is the subject of his own jātaka in the wider "
+                              "tradition; this reading guide does not assert a specific "
+                              "matching number."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, but its final "
+                       "image is a striking one"),
+    ],
+    why=(
+        "A second nāga story follows Cp 12's directly, and shares its basic shape: "
+        "immense, world-altering power, held back rather than used against a captor. "
+        "Here a snake-charmer forces Campeyyaka to shape-shift and perform tricks on "
+        "command &mdash; power the text says could just as easily reduce the man to "
+        "ash."),
+    guide=[
+        ("A performer against his will", [
+            "The snake-charmer who captures Campeyyaka makes him perform at the royal "
+            "gate, shifting color &mdash; blue, yellow, red &mdash; to match whatever "
+            "the charmer merely thinks of, a display of total control exercised over a "
+            "being who could end the display at any moment."]),
+        ("Named abilities, deliberately unused", [
+            "The text states outright what Campeyyaka could do instead: turn dry land "
+            "to water and water to dry land, or reduce his captor to ash in an instant, "
+            "&lsquo;if I were upset with him&rsquo;. The performance continues because "
+            "the nāga chooses restraint, not because he lacks any alternative."]),
+        ("A reasoned refusal, not just a feeling", [
+            "The text gives a specific argument for holding back: falling under the "
+            "sway of anger would mean falling from ethics, and &lsquo;one who has "
+            "fallen from their ethics does not succeed at the highest goal&rsquo; "
+            "&mdash; framing the restraint as instrumental to a further aim, not simply "
+            "an emotional discipline for its own sake."]),
+        ("A body offered up, scattered like hay", [
+            "The story closes on its most vivid image: Campeyyaka would rather have his "
+            "body broken and &lsquo;scattered in this very place... like hay&rsquo; than "
+            "break his ethics &mdash; the same willingness to accept bodily destruction "
+            "seen in several of this chapter's other stories, stated here in a single "
+            "sharp image rather than an extended argument."]),
+    ],
+    terms=[
+        ("nāga",
+         "a serpent being of great psychic power &mdash; the kind of being Campeyyaka, "
+         "like Bhūridatta in Cp 12, is described as."),
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the third of ten stories on this theme."),
+        ("uposatha",
+         "the observance day the snake-charmer is described as keeping, even while "
+         "forcing Campeyyaka to perform for a living."),
+        ("Campeyyaka Jātaka",
+         "the fuller version of this story in the separate Jātaka tradition, not "
+         "otherwise covered on this site."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirteenth."),
+    ],
+    text_intro=(
+        "The text in full: six verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp13:1.1-1.4"),
+        ("p", "&sect;2", "cp13:2.1-2.4"),
+        ("p", "&sect;3", "cp13:3.1-3.4"),
+        ("p", "&sect;4", "cp13:4.1-4.4"),
+        ("p", "&sect;5", "cp13:5.1-5.4"),
+        ("p", "&sect;6", "cp13:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What does the snake-charmer force Campeyyaka to do?",
+         "opts": [
+             "Guard the royal treasury",
+             "Shift color and perform tricks at the royal gate",
+             "Fight other captured animals",
+             "Teach him magical secrets"],
+         "correct": 1,
+         "expl": "Matching whatever color the charmer merely thinks of."},
+        {"q": "What abilities does the text say Campeyyaka could have used against his captor?",
+         "opts": [
+             "None; he is described as having no special power",
+             "Turning dry land to water, or reducing the man to ash instantly",
+             "Only the ability to escape unnoticed",
+             "The power of persuasive speech alone"],
+         "correct": 1,
+         "expl": "Power deliberately unused, not power he lacked."},
+        {"q": "What reasoned argument does the text give for Campeyyaka's restraint?",
+         "opts": [
+             "No reasoning is given, only raw willpower",
+             "Falling under anger would mean falling from ethics, and that person cannot succeed at the highest goal",
+             "He was physically too weak to retaliate",
+             "He feared punishment from a king"],
+         "correct": 1,
+         "expl": "Restraint framed as instrumental to a further aim."},
+        {"q": "What image closes this story?",
+         "opts": [
+             "Campeyyaka escaping into the river",
+             "His body broken and 'scattered... like hay' rather than his ethics broken",
+             "A peaceful reconciliation with the charmer",
+             "The charmer being punished by the king"],
+         "correct": 1,
+         "expl": "A willingness to accept bodily destruction, stated in a single sharp image."},
+        {"q": "How does this story compare in length to Cp 12, immediately before it?",
+         "opts": [
+             "Much longer",
+             "Shorter — six verses against Cp 12's nine",
+             "Exactly the same length",
+             "This story has no verses at all"],
+         "correct": 1,
+         "expl": "One of the shorter stories in this chapter."},
+        {"q": "What was the snake-charmer observing, even while exploiting Campeyyaka?",
+         "opts": [
+             "A vow of silence",
+             "The sabbath (uposatha)",
+             "A fast from all food",
+             "Nothing is said about his own conduct"],
+         "correct": 1,
+         "expl": "A detail that sits uneasily alongside his treatment of Campeyyaka."},
+        {"q": "What kind of being is Campeyyaka, as described in this text?",
+         "opts": [
+             "A human ascetic",
+             "A nāga, a serpent being of great psychic power",
+             "A deity residing in a heavenly realm",
+             "An ordinary snake with no special abilities"],
+         "correct": 1,
+         "expl": "The same kind of being as Cp 12's Bhūridatta."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the third of ten stories on this theme",
+             "Truth",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+        {"q": "How does this story's basic shape compare to Cp 12's?",
+         "opts": [
+             "Completely unrelated in theme",
+             "Shares the same basic shape — great power held back rather than used against a captor",
+             "The opposite theme — a being who does retaliate",
+             "This story involves no captor at all"],
+         "correct": 1,
+         "expl": "A second nāga story following directly on the same pattern."},
+        {"q": "What does 'sīla' mean?",
+         "opts": [
+             "'Ethics' or 'precepts' — the perfection this whole chapter illustrates",
+             "'Serpent'",
+             "'Performance'",
+             "'Anger'"],
+         "correct": 0,
+         "expl": "The theme uniting all ten stories of this chapter."},
+    ],
+    marginalia=[
+        ("Forced to perform", [
+            "shape-shifting",
+            "on command"
+        ]),
+        ("Power unused", [
+            "could turn land to water,",
+            "or the man to ash"
+        ]),
+        ("A reasoned restraint", [
+            "anger breaks ethics,",
+            "ethics reaches the goal"
+        ]),
+        ("Scattered like hay", [
+            "the body offered,",
+            "not the precepts"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp13/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-12.html">Cp 12 &mdash; The Dragon Bh&umacr;ridatta&rsquo;s '
+        "Conduct</a> &mdash; the text immediately before this one, the collection's "
+        "other nāga story.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 14 — Cūḷabodhi Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    14, "C&umacr;&#7735;abodhi Cariy&amacr;", "C&umacr;&#7735;abodhi&rsquo;s Conduct",
+    meta_title="Cp 14 — Cūḷabodhi's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Cūḷabodhi's "
+        "Conduct, the Cariyapitaka's story of an ascetic who masters his own anger "
+        "when his companion is seized by a king. From Ru-Yi Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (4th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as the ascetic Cūḷabodhi, in and around "
+                    "Varanasi"),
+        ("Speaker", "The Buddha, recounting his life as Cūḷabodhi"),
+        ("Form", "Eleven four-line verses of first-person narration, including quoted "
+                 "dialogue with a king"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; an emotionally "
+                       "charged story about the moment anger actually arises"),
+    ],
+    why=(
+        "Most of this chapter's stories describe restraint held against an external "
+        "threat &mdash; capture, violence, provocation from a stranger. This one is "
+        "different: it describes restraint at the exact moment personal anger begins "
+        "to rise, when a king forcibly seizes the ascetic Cūḷabodhi's close companion, "
+        "a woman he shares no marriage with but a shared renunciation and belief."),
+    guide=[
+        ("A renunciation shared, not a marriage", [
+            "Cūḷabodhi and a brahmin lady both give up worldly life out of fear of "
+            "rebirth, and travel together to Varanasi &mdash; the text is explicit that "
+            "she is not his wife, only someone who shares his teaching and belief, a "
+            "distinction the story insists on before the king who assumes otherwise."]),
+        ("Seized on the king's assumption", [
+            "A king visiting the royal park sees the brahmin lady, asks whether she is "
+            "Cūḷabodhi's wife, and on hearing that she is not, has her seized by force "
+            "anyway &mdash; the denial of marriage removing whatever restraint the "
+            "king might otherwise have felt, rather than protecting her."]),
+        ("Anger named, then stopped", [
+            "The story does not pretend Cūḷabodhi felt nothing: &lsquo;I felt so "
+            "angry.&rsquo; What follows is not suppression before the fact but an "
+            "active act performed as the anger arises &mdash; &lsquo;together with the "
+            "arising of anger, I remembered my precepts and vows, and right there "
+            "controlled my anger, I did not allow it to grow.&rsquo;"]),
+        ("The same denial-then-reason as elsewhere", [
+            "The closing verses use the structure seen throughout this collection: "
+            "Cūḷabodhi explicitly denies that his restraint came from indifference to "
+            "the woman or from weakness, naming the real reason directly &mdash; "
+            "&lsquo;because omniscience is precious to me, that's why I guarded my "
+            "ethics.&rsquo;"]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the fourth of ten stories on this theme."),
+        ("Varanasi",
+         "the city Cūḷabodhi and his companion travel to and settle near, in the royal "
+         "park."),
+        ("kodha",
+         "&ldquo;anger&rdquo; &mdash; named directly in this story as something felt, "
+         "not denied, and then actively restrained rather than suppressed before it "
+         "arose."),
+        ("bodhi",
+         "&ldquo;awakening&rdquo; &mdash; named as the reason for Cūḷabodhi's restraint "
+         "in the story's closing verse, the same reason recurring across this "
+         "collection."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its fourteenth."),
+    ],
+    text_intro=(
+        "The text in full: eleven verses, including the king's question and "
+        "Cūḷabodhi's reply. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp14:1.1-1.4"),
+        ("p", "&sect;2", "cp14:2.1-2.4"),
+        ("p", "&sect;3", "cp14:3.1-3.4"),
+        ("p", "&sect;4", "cp14:4.1-4.4"),
+        ("p", "&sect;5", "cp14:5.1-5.4"),
+        ("p", "&sect;6", "cp14:6.1-6.4"),
+        ("p", "&sect;7", "cp14:7.1-7.4"),
+        ("p", "&sect;8", "cp14:8.1-8.4"),
+        ("p", "&sect;9", "cp14:9.1-9.4"),
+        ("p", "&sect;10", "cp14:10.1-10.4"),
+        ("p", "&sect;11", "cp14:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How does this story's central test differ from most others in this chapter?",
+         "opts": [
+             "It involves no other character at all",
+             "It focuses on the exact moment personal anger begins to rise, not an external threat alone",
+             "It takes place entirely in a courtroom",
+             "It is the only story with no ending given"],
+         "correct": 1,
+         "expl": "A king forcibly seizes Cūḷabodhi's close companion."},
+        {"q": "What relationship does the text specify between Cūḷabodhi and the brahmin lady?",
+         "opts": [
+             "She is his wife",
+             "Not his wife — they share the same teaching and belief",
+             "She is his sister",
+             "No relationship is described"],
+         "correct": 1,
+         "expl": "A distinction Cūḷabodhi insists on before the king."},
+        {"q": "What does the king do after learning she is not Cūḷabodhi's wife?",
+         "opts": [
+             "He apologizes and leaves them in peace",
+             "He has her seized by force anyway",
+             "He offers Cūḷabodhi a reward",
+             "He asks Cūḷabodhi's permission first"],
+         "correct": 1,
+         "expl": "The denial of marriage removes restraint rather than granting protection."},
+        {"q": "Does the story claim Cūḷabodhi felt no anger at the seizure?",
+         "opts": [
+             "Yes, he is described as completely unmoved",
+             "No — the text states plainly, 'I felt so angry'",
+             "The text never addresses his emotional state",
+             "He is described as feeling joy instead"],
+         "correct": 1,
+         "expl": "The anger is named honestly, not denied."},
+        {"q": "What does Cūḷabodhi do once the anger arises?",
+         "opts": [
+             "Acts on it immediately against the king",
+             "Remembers his precepts and vows, and controls the anger right there",
+             "Flees the scene entirely",
+             "Nothing; the anger simply fades on its own"],
+         "correct": 1,
+         "expl": "An active act performed as the anger arises, not suppression beforehand."},
+        {"q": "What reason does Cūḷabodhi give for guarding his ethics in this situation?",
+         "opts": [
+             "Indifference to the brahmin lady",
+             "Because omniscience is precious to him",
+             "Fear of the king's soldiers",
+             "A promise made to his teacher"],
+         "correct": 1,
+         "expl": "The same denial-then-reason structure used throughout this collection."},
+        {"q": "What does the text explicitly deny as Cūḷabodhi's motive?",
+         "opts": [
+             "That he disliked the brahmin lady, or lacked the strength to act",
+             "That he was afraid of dying",
+             "That he wanted to become king",
+             "Nothing is denied in this story"],
+         "correct": 0,
+         "expl": "Ruling out the obvious misreading before giving the real reason."},
+        {"q": "Why did Cūḷabodhi and the brahmin lady renounce worldly life?",
+         "opts": [
+             "They were exiled by a king",
+             "Seeing rebirth as fearful",
+             "They lost all their possessions",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "A shared motivation, stated at the story's opening."},
+        {"q": "Where do Cūḷabodhi and his companion settle after leaving their village?",
+         "opts": [
+             "Sāvatthī",
+             "Varanasi, in the royal park",
+             "Rājagaha",
+             "Kapilavatthu"],
+         "correct": 1,
+         "expl": "Living quietly, mixing with no family or group."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the fourth of ten stories on this theme",
+             "Wisdom",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+    ],
+    marginalia=[
+        ("Companions, not spouses", [
+            "shared renunciation,",
+            "not marriage"
+        ]),
+        ("Seized regardless", [
+            "the denial removed",
+            "restraint, not granted it"
+        ]),
+        ("Anger named honestly", [
+            "'I felt so angry' —",
+            "then controlled at once"
+        ]),
+        ("The same closing reason", [
+            "'omniscience",
+            "is precious to me'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp14/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-13.html">Cp 13 &mdash; The Dragon Campeyyaka&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 15 — Mahisa Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    15, "Mahisa Cariy&amacr;", "The Buffalo King&rsquo;s Conduct",
+    meta_title="Cp 15 — The Buffalo King's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Buffalo "
+        "King's Conduct, the Cariyapitaka's story of an animal harassed for days who "
+        "refuses to kill his tormentor. From Ru-Yi Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (5th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as a large forest buffalo"),
+        ("Speaker", "The Buddha, recounting his life as the buffalo, with a brief "
+                    "exchange between him and a spirit"),
+        ("Form", "Eleven four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a plain story with a "
+                       "notably practical argument at its center"),
+    ],
+    why=(
+        "A monkey repeatedly soils a resting buffalo &mdash; not once, but day after "
+        "day &mdash; while a spirit watching from nearby urges the buffalo to simply "
+        "kill him. What makes this story distinctive is not the restraint alone but "
+        "the buffalo's reasoning: partly principled, and partly a cold calculation "
+        "about what will happen to the monkey regardless."),
+    guide=[
+        ("Provocation repeated, not sudden", [
+            "Unlike a single dramatic threat, this story's provocation is prolonged: "
+            "the monkey soils the buffalo's shoulder, forehead, and eyebrows &lsquo;not "
+            "just that day, but a second, a third, and a fourth&rsquo;, an ongoing "
+            "harassment rather than a single insult."]),
+        ("A spirit's advice, refused", [
+            "A spirit watching the harassment tells the buffalo directly to kill the "
+            "monkey with his horns and hooves. The buffalo's reply reframes the "
+            "question: acting on the anger would mean &lsquo;degrading himself&rsquo; "
+            "and violating his ethics &mdash; the monkey's wrongdoing does not license "
+            "the buffalo's own."]),
+        ("A striking line about dying clean", [
+            "The buffalo states his position plainly: &lsquo;better to die from purity "
+            "than live in shame&rsquo;, followed by a direct question &mdash; &lsquo;how "
+            "could I, for the sake of life, harm another?&rsquo; &mdash; treating his "
+            "own survival as something that does not automatically outweigh causing "
+            "harm."]),
+        ("A prediction, not just a principle", [
+            "The buffalo's reasoning is not purely idealistic: he predicts that the "
+            "monkey will go on to treat others the same way, and someone else will "
+            "eventually kill him for it &mdash; a practical expectation that the "
+            "monkey's own behavior will catch up with him, without the buffalo needing "
+            "to be the one to enact it."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the fifth of ten stories on this theme."),
+        ("devatā",
+         "&ldquo;spirit&rdquo; or &ldquo;deity&rdquo; &mdash; the figure who watches "
+         "the monkey's harassment and urges the buffalo to retaliate."),
+        ("khanti",
+         "&ldquo;patience&rdquo; &mdash; not one of the perfections given its own "
+         "dedicated story in this particular collection, though this story's endurance "
+         "of repeated provocation closely resembles it."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its fifteenth."),
+        ("puñña",
+         "&ldquo;merit&rdquo; &mdash; not named directly in this text, but the implicit "
+         "stake behind the buffalo's closing claim that &lsquo;the wise one gains their "
+         "heart's desire&rsquo; through forgiving disrespect."),
+    ],
+    text_intro=(
+        "The text in full: eleven verses, including the spirit's advice and the "
+        "buffalo's reply. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp15:1.1-1.4"),
+        ("p", "&sect;2", "cp15:2.1-2.4"),
+        ("p", "&sect;3", "cp15:3.1-3.4"),
+        ("p", "&sect;4", "cp15:4.1-4.4"),
+        ("p", "&sect;5", "cp15:5.1-5.4"),
+        ("p", "&sect;6", "cp15:6.1-6.4"),
+        ("p", "&sect;7", "cp15:7.1-7.4"),
+        ("p", "&sect;8", "cp15:8.1-8.4"),
+        ("p", "&sect;9", "cp15:9.1-9.4"),
+        ("p", "&sect;10", "cp15:10.1-10.4"),
+        ("p", "&sect;11", "cp15:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How does the monkey's provocation of the buffalo unfold?",
+         "opts": [
+             "A single sudden insult",
+             "Repeated harassment over several days, not just once",
+             "The monkey never actually bothers the buffalo",
+             "A single accidental incident"],
+         "correct": 1,
+         "expl": "'Not just that day, but a second, a third, and a fourth.'"},
+        {"q": "What does the spirit urge the buffalo to do?",
+         "opts": [
+             "Ignore the monkey entirely",
+             "Kill the monkey with his horns and hooves",
+             "Report the monkey to a nearby village",
+             "Move to a different part of the forest"],
+         "correct": 1,
+         "expl": "Direct advice to retaliate, which the buffalo refuses."},
+        {"q": "How does the buffalo reframe the question of retaliation?",
+         "opts": [
+             "He agrees the monkey deserves to die",
+             "Acting on anger would mean degrading himself — the monkey's wrongdoing doesn't license his own",
+             "He says it isn't his responsibility either way",
+             "He claims he is physically unable to retaliate"],
+         "correct": 1,
+         "expl": "Separating his own conduct from the monkey's, rather than mirroring it."},
+        {"q": "What does the buffalo say about dying versus living in shame?",
+         "opts": [
+             "That living in shame is always preferable to dying",
+             "'Better to die from purity than live in shame'",
+             "That death and shame are equally acceptable",
+             "He expresses no preference either way"],
+         "correct": 1,
+         "expl": "Treating his own survival as not automatically outweighing harm to another."},
+        {"q": "What practical prediction does the buffalo make about the monkey?",
+         "opts": [
+             "That the monkey will eventually apologize",
+             "That the monkey will treat others the same way, and someone else will kill him for it",
+             "That the monkey will become a buffalo in a future life",
+             "No prediction is made"],
+         "correct": 1,
+         "expl": "A practical expectation, not purely an idealistic principle."},
+        {"q": "What is the buffalo's closing claim about forgiving disrespect?",
+         "opts": [
+             "That it achieves nothing",
+             "That 'the wise one gains their heart's desire' through it",
+             "That it should only be extended to family members",
+             "That it applies only to disrespect from equals"],
+         "correct": 1,
+         "expl": "Extended explicitly to disrespect 'from the low, middle and high'."},
+        {"q": "What term names the quality this story closely resembles, though it is not given its own dedicated story in this collection?",
+         "opts": [
+             "Wisdom (paññā)",
+             "Patience (khanti)",
+             "Energy (viriya)",
+             "Truth (sacca)"],
+         "correct": 1,
+         "expl": "Enduring repeated provocation without retaliating."},
+        {"q": "Where does the buffalo choose to rest, before the monkey begins harassing him?",
+         "opts": [
+             "A spot he found while wandering the mighty forest",
+             "A village on the edge of the forest",
+             "The banks of the Ganges",
+             "A cave shared with other buffalo"],
+         "correct": 0,
+         "expl": "A fine spot he found and settled into."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the fifth of ten stories on this theme",
+             "Renunciation",
+             "Truth"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+        {"q": "What figure other than the buffalo and the monkey appears in this story?",
+         "opts": [
+             "A king",
+             "A spirit (devatā), who urges retaliation",
+             "A brahmin ascetic",
+             "No other figure appears"],
+         "correct": 1,
+         "expl": "Watching the harassment and offering advice the buffalo refuses."},
+    ],
+    marginalia=[
+        ("Days of harassment", [
+            "not a single insult,",
+            "but repeated"
+        ]),
+        ("A spirit's advice refused", [
+            "wrongdoing doesn't license",
+            "more wrongdoing"
+        ]),
+        ("Dying from purity", [
+            "rather than living",
+            "in shame"
+        ]),
+        ("A practical prediction", [
+            "the monkey's conduct",
+            "will catch up with him"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp15/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-14.html">Cp 14 &mdash; C&umacr;&#7735;abodhi&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 16 — Ruru Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    16, "Ruru Cariy&amacr;", "Ruru the Deer King&rsquo;s Conduct",
+    meta_title="Cp 16 — Ruru the Deer King's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Ruru the Deer "
+        "King's Conduct, the Cariyapitaka's story of a rescuer betrayed for money, who "
+        "then shields his betrayer from punishment. From Ru-Yi Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (6th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as Ruru, a golden deer king living on the "
+                    "banks of the Ganges"),
+        ("Speaker", "The Buddha, recounting his life as Ruru, with quoted dialogue "
+                    "between himself and the man he rescues"),
+        ("Form", "Twelve verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a story of betrayal "
+                       "that goes further than simple restraint"),
+    ],
+    why=(
+        "Where most of this chapter's stories show restraint against a threat, this "
+        "one shows something further: Ruru saves a drowning man at real risk to his "
+        "own life, is betrayed by that same man for money, and then, when the king "
+        "arrives to kill the betrayer, actively steps in to protect him &mdash; not "
+        "mere non-retaliation, but forgiveness that intervenes on the wrongdoer's "
+        "behalf."),
+    guide=[
+        ("A rescue at real cost", [
+            "Hearing a man's pitiful cries from the Ganges, Ruru enters the river at "
+            "night, &lsquo;surrendering his own life&rsquo;, and drags the man out "
+            "&mdash; a man who had jumped in fleeing creditors, thinking &lsquo;I live "
+            "or I die&rsquo;."]),
+        ("One favor asked, and broken", [
+            "Ruru's only request afterward is discretion: &lsquo;tell no-one about "
+            "me.&rsquo; Once safely back in the city, the man breaks this single "
+            "condition for money, leading the king directly to Ruru."]),
+        ("The king ready to kill the informer", [
+            "When the king learns what the man did, his response is not to hunt Ruru "
+            "gently but to prepare an arrow for the informer himself, calling him "
+            "&lsquo;this ignoble betrayer of a friend&rsquo; &mdash; the story briefly "
+            "puts the betrayer, not Ruru, in mortal danger."]),
+        ("Protection extended to the betrayer himself", [
+            "Ruru's response goes beyond forgiving an insult already absorbed: he "
+            "actively intervenes, &lsquo;substituting himself&rsquo; to stop the king "
+            "from killing the man who had just betrayed him, asking only to &lsquo;carry "
+            "out your pleasure&rsquo; instead &mdash; ethics maintained not by enduring "
+            "harm passively, but by stepping between a wrongdoer and their punishment."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the sixth of ten stories on this theme."),
+        ("Ganges",
+         "the river along whose bank Ruru lives, and from which he rescues the "
+         "drowning man."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its sixteenth."),
+        ("bodhi",
+         "&ldquo;awakening&rdquo; &mdash; named as the reason Ruru gives for guarding "
+         "his ethics rather than his own life, in the story's closing verse."),
+        ("mitta-dubbhī",
+         "&ldquo;betrayer of a friend&rdquo; &mdash; the king's own description of the "
+         "man who broke Ruru's one request, shortly before Ruru intervenes to save him "
+         "from the king's arrow."),
+    ],
+    text_intro=(
+        "The text in full: twelve verses, including the rescued man's explanation and "
+        "the king's response. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp16:1.1-1.4"),
+        ("p", "&sect;2", "cp16:2.1-2.4"),
+        ("p", "&sect;3", "cp16:3.1-3.4"),
+        ("p", "&sect;4", "cp16:4.1-4.4"),
+        ("p", "&sect;5", "cp16:5.1-5.4"),
+        ("p", "&sect;6", "cp16:6.1-6.4"),
+        ("p", "&sect;7", "cp16:7.1-7.4"),
+        ("p", "&sect;8", "cp16:8.1-8.4"),
+        ("p", "&sect;9", "cp16:9.1-9.4"),
+        ("p", "&sect;10", "cp16:10.1-10.6"),
+        ("p", "&sect;11", "cp16:11.1-11.4"),
+        ("p", "&sect;12", "cp16:12.1-12.4"),
+    ],
+    quiz=[
+        {"q": "Why had the man Ruru rescues jumped into the Ganges in the first place?",
+         "opts": [
+             "He was trying to cross to the other side",
+             "He was fleeing his creditors, thinking 'I live or I die'",
+             "He was bathing and lost his footing",
+             "He was fleeing a wild animal"],
+         "correct": 1,
+         "expl": "Desperate enough to risk drowning rather than face them."},
+        {"q": "At what risk does Ruru rescue the man?",
+         "opts": [
+             "No risk at all; the rescue is described as effortless",
+             "'Surrendering his own life' to enter the river at night",
+             "Only a minor inconvenience",
+             "He sends someone else to do the rescue"],
+         "correct": 1,
+         "expl": "A real cost, not a casual gesture."},
+        {"q": "What single favor does Ruru ask of the man afterward?",
+         "opts": [
+             "A share of the man's future wealth",
+             "That he tell no one about Ruru",
+             "That he never return to that stretch of river",
+             "Nothing; Ruru asks for no favor"],
+         "correct": 1,
+         "expl": "A request the man later breaks for money."},
+        {"q": "Why does the man reveal Ruru's location to the king?",
+         "opts": [
+             "He is forced to under torture",
+             "For the sake of money",
+             "He is tricked into revealing it",
+             "He does not reveal it; Ruru is found by other means"],
+         "correct": 1,
+         "expl": "Breaking his one promise for personal gain."},
+        {"q": "How does the king react on learning what the man did?",
+         "opts": [
+             "He rewards the man for the information",
+             "He prepares to kill the man himself, calling him a betrayer of a friend",
+             "He ignores the information entirely",
+             "He has the man imprisoned only"],
+         "correct": 1,
+         "expl": "Briefly putting the betrayer, not Ruru, in mortal danger."},
+        {"q": "What does Ruru do when the king is about to kill the informer?",
+         "opts": [
+             "He allows the punishment to proceed",
+             "He substitutes himself, actively intervening to save the man who betrayed him",
+             "He flees the scene",
+             "He asks the king to imprison the man instead"],
+         "correct": 1,
+         "expl": "Going beyond enduring the betrayal to actively protecting the betrayer."},
+        {"q": "How does this story's ending go further than simple non-retaliation?",
+         "opts": [
+             "It doesn't; Ruru simply lets the events unfold without acting",
+             "Ruru actively steps between a wrongdoer and deserved punishment, rather than only refraining from harm himself",
+             "Ruru punishes the man himself instead of the king doing so",
+             "The story ends before any resolution"],
+         "correct": 1,
+         "expl": "Forgiveness that intervenes, not merely restraint absorbed."},
+        {"q": "What does Ruru say he guarded, rather than his own life?",
+         "opts": [
+             "His wealth",
+             "His ethics",
+             "His reputation",
+             "His territory"],
+         "correct": 1,
+         "expl": "'I guarded my ethics, not my life... because it was solely for awakening.'"},
+        {"q": "Where does Ruru live, as described at this story's opening?",
+         "opts": [
+             "A crowded city",
+             "A pleasant, human-free region on the bank of the Ganges",
+             "A mountain cave",
+             "A royal park"],
+         "correct": 1,
+         "expl": "Chosen deliberately for its distance from people."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the sixth of ten stories on this theme",
+             "Truth",
+             "Love"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+    ],
+    marginalia=[
+        ("A rescue at night", [
+            "risking his own life",
+            "to save a stranger"
+        ]),
+        ("One favor, broken", [
+            "for the sake",
+            "of money"
+        ]),
+        ("The king's arrow", [
+            "aimed at the betrayer,",
+            "not at Ruru"
+        ]),
+        ("Protection extended", [
+            "to the very man",
+            "who betrayed him"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp16/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-15.html">Cp 15 &mdash; The Buffalo King&rsquo;s Conduct</a> &mdash; '
+        "the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 17 — Mātaṅga Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    17, "M&amacr;ta&#7749;ga Cariy&amacr;", "M&amacr;ta&#7749;ga&rsquo;s Conduct",
+    meta_title="Cp 17 — Mātaṅga's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Mātaṅga's "
+        "Conduct, the Cariyapitaka's story of a curse that rebounds on the one who "
+        "spoke it, and the ascetic who frees him from it. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (7th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as the ascetic Mātaṅga, living upstream on "
+                    "the Ganges from another brahmin"),
+        ("Speaker", "The Buddha, recounting his life as Mātaṅga"),
+        ("Form", "Six four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Mātaṅga is the subject of his own jātaka in the wider "
+                              "tradition; this reading guide does not assert a specific "
+                              "matching number."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, closing on "
+                       "nearly the same formula as Cp 16"),
+    ],
+    why=(
+        "A brahmin curses Mātaṅga's head to split in seven, unprovoked, simply for "
+        "having seen his hermitage. Mātaṅga could answer with a glance powerful enough "
+        "to reduce the man to ashes &mdash; and instead does something closer to Cp "
+        "16's Ruru than to open confrontation: he frees his attacker from the very "
+        "curse that attacker spoke against him."),
+    guide=[
+        ("A curse with no provocation given", [
+            "The brahmin's abuse is not a response to anything Mātaṅga has done; "
+            "wandering the riverbank, he simply sees the hermitage upstream and curses "
+            "its occupant &mdash; the story gives no grievance behind the words, only "
+            "the words themselves."]),
+        ("A power stated, then set aside", [
+            "As in several of this chapter's other stories, the text names the power "
+            "being withheld directly: &lsquo;if I were not taking care of my ethics, "
+            "then just with a glance I could have reduced him to ashes.&rsquo; The "
+            "power is real; the restraint is a choice."]),
+        ("A curse that turns back on its speaker", [
+            "The story does not simply have the curse fail; it describes the curse "
+            "recoiling &lsquo;right back on his own head&rsquo; &mdash; and Mātaṅga's "
+            "response to that is not satisfaction at the brahmin's comeuppance but "
+            "action: &lsquo;I freed him from that yoke.&rsquo;"]),
+        ("The same closing couplet as Cp 16", [
+            "This story closes with almost the identical formula that closed Ruru's "
+            "story immediately before it: &lsquo;I guarded my ethics, not my life. For "
+            "then I was ethical, because it was solely for awakening&rsquo; &mdash; a "
+            "shared refrain marking both stories as variations on the same underlying "
+            "commitment."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the seventh of ten stories on this theme."),
+        ("jaṭila",
+         "a &ldquo;matted-hair ascetic&rdquo; &mdash; the description given of Mātaṅga "
+         "at this story's opening."),
+        ("Ganges",
+         "the river along whose banks both Mātaṅga and the cursing brahmin live, "
+         "upstream and downstream of each other."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its seventeenth."),
+        ("bodhi",
+         "&ldquo;awakening&rdquo; &mdash; named as the reason for Mātaṅga's restraint "
+         "in the story's closing verse, shared word for word with Cp 16."),
+    ],
+    text_intro=(
+        "The text in full: six verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp17:1.1-1.4"),
+        ("p", "&sect;2", "cp17:2.1-2.4"),
+        ("p", "&sect;3", "cp17:3.1-3.4"),
+        ("p", "&sect;4", "cp17:4.1-4.4"),
+        ("p", "&sect;5", "cp17:5.1-5.4"),
+        ("p", "&sect;6", "cp17:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What provokes the brahmin to curse Mātaṅga?",
+         "opts": [
+             "A long-standing feud between them",
+             "Nothing in particular — he simply sees Mātaṅga's hermitage while wandering",
+             "Mātaṅga trespassing on his land",
+             "A dispute over water rights"],
+         "correct": 1,
+         "expl": "The story gives no grievance behind the curse, only the words themselves."},
+        {"q": "What does the brahmin's curse threaten?",
+         "opts": [
+             "That Mātaṅga will lose his hermitage",
+             "That Mātaṅga's head will split in seven",
+             "That Mātaṅga will be exiled",
+             "That Mātaṅga will lose his ascetic powers"],
+         "correct": 1,
+         "expl": "A specific, violent curse, unprovoked."},
+        {"q": "What power does Mātaṅga say he could have used against the brahmin?",
+         "opts": [
+             "None; he claims no special power",
+             "Reducing him to ashes with a single glance",
+             "Summoning a storm",
+             "Turning him into an animal"],
+         "correct": 1,
+         "expl": "Named directly, then deliberately set aside."},
+        {"q": "What happens to the curse the brahmin speaks?",
+         "opts": [
+             "It has no effect on anyone",
+             "It recoils back onto the brahmin's own head",
+             "It strikes Mātaṅga as intended",
+             "It is never resolved in the story"],
+         "correct": 1,
+         "expl": "The curse turns back on its speaker."},
+        {"q": "How does Mātaṅga respond once the curse recoils on the brahmin?",
+         "opts": [
+             "With satisfaction at the brahmin's comeuppance",
+             "He acts to free the brahmin from it",
+             "He ignores the brahmin's fate entirely",
+             "He curses the brahmin in return"],
+         "correct": 1,
+         "expl": "'I freed him from that yoke' — action, not passive satisfaction."},
+        {"q": "How does this story's closing formula relate to Cp 16's?",
+         "opts": [
+             "They are completely different",
+             "Nearly identical — 'I guarded my ethics, not my life... because it was solely for awakening'",
+             "This story has no closing formula at all",
+             "It directly contradicts Cp 16's closing"],
+         "correct": 1,
+         "expl": "A shared refrain marking both stories as variations on the same commitment."},
+        {"q": "What does 'jaṭila' describe?",
+         "opts": [
+             "A type of curse",
+             "A 'matted-hair ascetic' — the description given of Mātaṅga",
+             "A river spirit",
+             "A royal title"],
+         "correct": 1,
+         "expl": "Mātaṅga's identity at the story's opening."},
+        {"q": "Where do Mātaṅga and the brahmin live relative to each other?",
+         "opts": [
+             "In the same village",
+             "Upstream and downstream of each other on the Ganges",
+             "On opposite sides of a mountain",
+             "In neighboring kingdoms"],
+         "correct": 1,
+         "expl": "Mātaṅga upstream, the brahmin downstream."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the seventh of ten stories on this theme",
+             "Truth",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+        {"q": "How is Mātaṅga's response distinct from merely enduring the curse?",
+         "opts": [
+             "It isn't distinct; he does nothing at all",
+             "He actively frees the brahmin from the curse's consequences, going beyond passive restraint",
+             "He reports the brahmin to a king",
+             "He leaves the area permanently"],
+         "correct": 1,
+         "expl": "Similar to Cp 16's Ruru, restraint that extends into active help for the wrongdoer."},
+    ],
+    marginalia=[
+        ("An unprovoked curse", [
+            "no grievance given,",
+            "only the words"
+        ]),
+        ("A glance, unused", [
+            "power enough",
+            "to reduce him to ashes"
+        ]),
+        ("The curse recoils", [
+            "back onto",
+            "its own speaker"
+        ]),
+        ("Freed, not left cursed", [
+            "action taken",
+            "on his behalf"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp17/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-16.html">Cp 16 &mdash; Ruru the Deer King&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, closing on nearly the same "
+        "formula.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 18 — Dhammadevaputta Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    18, "Dhammadevaputta Cariy&amacr;", "The Deity Dhamma&rsquo;s Conduct",
+    meta_title="Cp 18 — The Deity Dhamma's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Deity "
+        "Dhamma's Conduct, the Cariyapitaka's allegorical standoff between a spirit "
+        "of righteousness and a spirit of wickedness on a narrow road. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (8th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as a great spirit named Dhamma"),
+        ("Speaker", "The Buddha, recounting his life as the spirit Dhamma"),
+        ("Form", "Eight four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a compact allegory "
+                       "worth reading slowly for what it is doing structurally"),
+    ],
+    why=(
+        "This story is more openly allegorical than most of this chapter: a spirit "
+        "literally named Dhamma, who establishes people in ethical conduct, collides "
+        "on a road with a rival spirit who promotes the opposite &mdash; a standoff "
+        "resolved not by combat but by Dhamma simply stepping off the road, letting "
+        "the wicked spirit pass."),
+    guide=[
+        ("A name that states the allegory directly", [
+            "Unlike this chapter's animals, ascetics, and kings, this story's central "
+            "figure is named for the very quality he embodies: Dhamma, a spirit who "
+            "travels &lsquo;establishing the populace in the ten ways of skillful "
+            "deeds&rsquo;, with sympathy for the whole world."]),
+        ("An opposite number, given equal weight", [
+            "The story does not present Dhamma alone; it introduces a mirror-image "
+            "rival, a &lsquo;wicked, miserly spirit promoting the ten wicked ways&rsquo;, "
+            "traveling the same roads with his own retinue &mdash; the two forces "
+            "described almost identically in structure, opposite only in content."]),
+        ("A collision framed as a looming war", [
+            "When their chariots meet, the language escalates quickly: &lsquo;a "
+            "dreadful quarrel ensued&rsquo;, and &lsquo;a great war loomed&rsquo; over "
+            "who would be pushed off the road &mdash; the everyday problem of two "
+            "parties meeting on a narrow path, inflated to cosmic stakes by what each "
+            "party represents."]),
+        ("Victory ceded, then delivered anyway", [
+            "Dhamma has the power to destroy the wicked spirit and his whole retinue, "
+            "and instead steps down off the path, yielding the road entirely. The story "
+            "does not end there: once Dhamma has quelled his own mind, &lsquo;the earth "
+            "opened up for that wicked spirit&rsquo; &mdash; a consequence that arrives "
+            "on its own, not one Dhamma inflicts."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the eighth of ten stories on this theme."),
+        ("dasakusalakammapatha",
+         "the &ldquo;ten skillful deeds&rdquo; &mdash; the same standard of conduct "
+         "named in Cp 3, here actively taught by the spirit Dhamma as he travels."),
+        ("devaputta",
+         "&ldquo;deity&rdquo; or &ldquo;spirit&rdquo; &mdash; the kind of being both "
+         "Dhamma and his wicked rival are described as."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its eighteenth."),
+        ("adhamma",
+         "&ldquo;wickedness&rdquo; or &ldquo;unrighteousness&rdquo; &mdash; not named "
+         "directly as the rival spirit's title in this translation, but the opposite "
+         "his &lsquo;ten wicked ways&rsquo; represent to Dhamma's ten skillful ones."),
+    ],
+    text_intro=(
+        "The text in full: eight verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp18:1.1-1.4"),
+        ("p", "&sect;2", "cp18:2.1-2.4"),
+        ("p", "&sect;3", "cp18:3.1-3.4"),
+        ("p", "&sect;4", "cp18:4.1-4.4"),
+        ("p", "&sect;5", "cp18:5.1-5.4"),
+        ("p", "&sect;6", "cp18:6.1-6.4"),
+        ("p", "&sect;7", "cp18:7.1-7.4"),
+        ("p", "&sect;8", "cp18:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What makes this story more openly allegorical than most in this chapter?",
+         "opts": [
+             "It has no first-person narration",
+             "The central figure is a spirit literally named Dhamma, embodying the quality directly",
+             "It is written entirely in prose",
+             "It features no other characters at all"],
+         "correct": 1,
+         "expl": "Named for the very quality he embodies."},
+        {"q": "What does Dhamma do as he travels from village to town?",
+         "opts": [
+             "Collects tribute for a king",
+             "Establishes the populace in the ten ways of skillful deeds",
+             "Searches for a missing relative",
+             "Nothing specific is described"],
+         "correct": 1,
+         "expl": "Teaching ethical conduct as he goes, with sympathy for the whole world."},
+        {"q": "Who does Dhamma encounter on the road?",
+         "opts": [
+             "A group of merchants",
+             "A rival spirit promoting the ten wicked ways",
+             "A king seeking his counsel",
+             "No one; he travels alone throughout"],
+         "correct": 1,
+         "expl": "Described in terms that mirror Dhamma's own, opposite only in content."},
+        {"q": "How does the text describe the confrontation between the two spirits?",
+         "opts": [
+             "As a minor, easily resolved disagreement",
+             "As 'a dreadful quarrel' where 'a great war loomed'",
+             "The two spirits never actually meet",
+             "As a friendly negotiation"],
+         "correct": 1,
+         "expl": "An everyday problem — two parties meeting on a narrow road — inflated to cosmic stakes."},
+        {"q": "What power does the text say Dhamma had over his rival?",
+         "opts": [
+             "None; he was powerless against the wicked spirit",
+             "The ability to reduce him and his companions to dust",
+             "Only the power to summon others for help",
+             "Dhamma is never described as powerful"],
+         "correct": 1,
+         "expl": "Power deliberately unused, as in several other stories in this chapter."},
+        {"q": "What does Dhamma actually do at the standoff?",
+         "opts": [
+             "Fights and defeats the wicked spirit",
+             "Steps down off the road, yielding it entirely to the wicked spirit",
+             "Calls on the king to intervene",
+             "Retreats and never travels that road again"],
+         "correct": 1,
+         "expl": "Quelling his own heart rather than asserting his right of way."},
+        {"q": "What happens to the wicked spirit after Dhamma yields the road?",
+         "opts": [
+             "Nothing further happens",
+             "The earth opens up for him — a consequence that arrives on its own",
+             "He is struck by lightning",
+             "He becomes a follower of Dhamma"],
+         "correct": 1,
+         "expl": "Not something Dhamma inflicts directly."},
+        {"q": "What does 'dasakusalakammapatha' refer to in this story?",
+         "opts": [
+             "The name of the rival spirit",
+             "The ten skillful deeds Dhamma actively teaches as he travels",
+             "A type of chariot",
+             "A location on the road"],
+         "correct": 1,
+         "expl": "The same standard of conduct named earlier in Cp 3."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the eighth of ten stories on this theme",
+             "Wisdom",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+        {"q": "How does this story's structure compare to others in this chapter?",
+         "opts": [
+             "It follows the same basic pattern — great power held back rather than used — but stages it as an explicit allegory",
+             "It is entirely unrelated in theme to the rest of the chapter",
+             "It is the only story in the chapter without any form of restraint shown",
+             "It is the only story told in the third person"],
+         "correct": 0,
+         "expl": "The underlying pattern dressed in more overtly symbolic clothing."},
+    ],
+    marginalia=[
+        ("A name that states it plainly", [
+            "a spirit called",
+            "Dhamma himself"
+        ]),
+        ("A mirrored rival", [
+            "ten wicked ways",
+            "against ten skillful ones"
+        ]),
+        ("A road, a looming war", [
+            "an everyday collision,",
+            "inflated to cosmic stakes"
+        ]),
+        ("Yielded, then resolved", [
+            "the earth itself",
+            "closes the matter"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp18/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-17.html">Cp 17 &mdash; M&amacr;ta&#7749;ga&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 19 — Alīnasattu Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    19, "Al&imacr;nasattu Cariy&amacr;", "Al&imacr;nasattu&rsquo;s Conduct",
+    meta_title="Cp 19 — Alīnasattu's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Alīnasattu's "
+        "Conduct, the Cariyapitaka's story of a prince who offers himself to a "
+        "cannibal in his father's place. From Ru-Yi Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (9th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as Prince Alīnasattu, son of King Jayaddisa of "
+                    "Kapilā"),
+        ("Speaker", "The Buddha, recounting his life as Alīnasattu, with quoted speech "
+                    "from his father and to the cannibal"),
+        ("Form", "Eleven four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This story is connected to a wider jātaka concerning "
+                              "King Jayaddisa; this reading guide does not assert a "
+                              "specific matching number."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a story with real "
+                       "stakes, resolved in an unusual, deliberately calm register"),
+    ],
+    why=(
+        "King Jayaddisa, seized by a cannibal while hunting, buys a temporary release "
+        "by promising to return as prey. His son Alīnasattu, on hearing this, "
+        "substitutes himself for his father &mdash; not with weapons or defiance, but "
+        "by disarming himself deliberately, so as not to frighten the very man who "
+        "intends to eat him."),
+    guide=[
+        ("A king's desperate bargain", [
+            "Jayaddisa is seized without warning &mdash; &lsquo;you are my prey, don't "
+            "move&rsquo; &mdash; and secures only a delay by promising to return, a "
+            "promise he then relays to his son rather than break."]),
+        ("A substitution offered without hesitation", [
+            "Alīnasattu bows to his parents and takes his father's place immediately, "
+            "&lsquo;tossing my bow and sword&rsquo; before approaching the cannibal "
+            "&mdash; the disarming stated as deliberate: carrying weapons, he reasons, "
+            "might frighten the cannibal, and frightening him would itself be a "
+            "violation of his ethics."]),
+        ("Kindness addressed to the one who intends to kill him", [
+            "Facing a man who plans to eat him, Alīnasattu speaks &lsquo;lovingly and "
+            "beneficially&rsquo;, not with hatred or pleading &mdash; going so far as to "
+            "instruct the cannibal on how to prepare the fire himself, as though "
+            "managing a practical arrangement rather than facing an execution."]),
+        ("An outcome stated, not explained", [
+            "The story closes on a claim about lasting consequence &mdash; that "
+            "Alīnasattu &lsquo;drove out forever his attacks on living creatures&rsquo; "
+            "&mdash; without narrating exactly how the encounter resolves or what "
+            "became of Alīnasattu himself. As with several other verse-only stories in "
+            "this collection, the outcome is asserted rather than shown."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "story illustrates, the ninth of ten stories on this theme."),
+        ("Jayaddisa",
+         "the king of Kapilā, Alīnasattu's father, seized by a cannibal while hunting."),
+        ("Kapilā",
+         "the capital city of the kingdom of Pañcāla, named as Alīnasattu's home."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its nineteenth."),
+        ("mettā",
+         "&ldquo;loving-kindness&rdquo; &mdash; the quality the text says Alīnasattu "
+         "spoke with when addressing the cannibal, rather than hatred or fear."),
+    ],
+    text_intro=(
+        "The text in full: eleven verses, including the king's request and "
+        "Alīnasattu's words to the cannibal. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp19:1.1-1.4"),
+        ("p", "&sect;2", "cp19:2.1-2.4"),
+        ("p", "&sect;3", "cp19:3.1-3.4"),
+        ("p", "&sect;4", "cp19:4.1-4.4"),
+        ("p", "&sect;5", "cp19:5.1-5.4"),
+        ("p", "&sect;6", "cp19:6.1-6.4"),
+        ("p", "&sect;7", "cp19:7.1-7.4"),
+        ("p", "&sect;8", "cp19:8.1-8.4"),
+        ("p", "&sect;9", "cp19:9.1-9.4"),
+        ("p", "&sect;10", "cp19:10.1-10.4"),
+        ("p", "&sect;11", "cp19:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What happens to King Jayaddisa at the start of this story?",
+         "opts": [
+             "He is overthrown by rebels",
+             "He is seized by a cannibal while hunting",
+             "He falls ill",
+             "He is captured by a rival king"],
+         "correct": 1,
+         "expl": "Told plainly: 'You are my prey, don't move.'"},
+        {"q": "How does Jayaddisa secure a temporary release?",
+         "opts": [
+             "By paying a ransom",
+             "By promising to return as prey himself",
+             "By fighting his way free",
+             "By offering his kingdom instead"],
+         "correct": 1,
+         "expl": "A promise he then relays to his son rather than break."},
+        {"q": "What does Alīnasattu do on hearing his father's promise?",
+         "opts": [
+             "Advises his father to break the promise",
+             "Substitutes himself for his father immediately",
+             "Sends soldiers to kill the cannibal",
+             "Does nothing; the story ends with the father's promise"],
+         "correct": 1,
+         "expl": "Bowing to his parents and taking his father's place."},
+        {"q": "Why does Alīnasattu throw away his weapons before approaching the cannibal?",
+         "opts": [
+             "He forgets to bring them",
+             "Carrying them might frighten the cannibal, which he considers a violation of his ethics",
+             "The cannibal demands it",
+             "He has no weapons to begin with"],
+         "correct": 1,
+         "expl": "A deliberate choice, reasoned through explicitly."},
+        {"q": "How does Alīnasattu speak to the cannibal?",
+         "opts": [
+             "With hatred and threats",
+             "Lovingly and beneficially",
+             "He refuses to speak at all",
+             "With desperate pleading for mercy"],
+         "correct": 1,
+         "expl": "Addressing the man who intends to eat him without hostility."},
+        {"q": "What does Alīnasattu instruct the cannibal to do?",
+         "opts": [
+             "Release him immediately",
+             "Kindle a fire, so Alīnasattu can prepare himself to be eaten",
+             "Fight him in single combat",
+             "Bring him before the king"],
+         "correct": 1,
+         "expl": "Treated as a practical arrangement rather than an execution to resist."},
+        {"q": "What does the story claim about the lasting effect of Alīnasattu's actions?",
+         "opts": [
+             "Nothing changes as a result",
+             "He drove out the cannibal's attacks on living creatures forever",
+             "The cannibal kills him and continues as before",
+             "The kingdom falls into war"],
+         "correct": 1,
+         "expl": "Stated as an outcome, though not narrated in detail."},
+        {"q": "Does this text explain exactly how the encounter with the cannibal resolves?",
+         "opts": [
+             "Yes, in full narrative detail",
+             "No — like several other verse-only stories in this collection, the outcome is asserted rather than shown",
+             "The story is left completely open-ended with no claim at all",
+             "It explains the resolution through an extended dialogue"],
+         "correct": 1,
+         "expl": "A gap similar to what appears elsewhere in this collection's verse-only texts."},
+        {"q": "What is Alīnasattu's home kingdom and capital, as named in this text?",
+         "opts": [
+             "Kosala, capital Sāvatthī",
+             "Pañcāla, capital Kapilā",
+             "Magadha, capital Rājagaha",
+             "Videha, capital Mithilā"],
+         "correct": 1,
+         "expl": "Named at the story's opening, along with his father Jayaddisa."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla), the ninth of ten stories on this theme",
+             "Wisdom",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "Continuing the sequence of ten ethics-stories in this chapter."},
+    ],
+    marginalia=[
+        ("A king's desperate promise", [
+            "to return",
+            "as the cannibal's prey"
+        ]),
+        ("A son substitutes himself", [
+            "weapons tossed aside,",
+            "deliberately"
+        ]),
+        ("Kindness to his killer", [
+            "spoken lovingly,",
+            "not with hatred"
+        ]),
+        ("An outcome claimed, not shown", [
+            "attacks on living creatures",
+            "driven out forever"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp19/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-18.html">Cp 18 &mdash; The Deity Dhamma&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 20 — Saṅkhapāla Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    20, "Sa&#7749;khap&amacr;la Cariy&amacr;", "Sa&#7749;khap&amacr;la&rsquo;s Conduct",
+    meta_title="Cp 20 — Saṅkhapāla's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Saṅkhapāla's "
+        "Conduct, closing the Cariyapitaka's chapter on ethics with a nāga pierced and "
+        "carried away, who could have destroyed his captors instantly. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Chapter on an Elephant &middot; The Perfection of Ethics (10th of 10)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first person "
+                    "about his past life as the nāga Saṅkhapāla, lord of serpents"),
+        ("Speaker", "The Buddha, recounting his life as Saṅkhapāla"),
+        ("Form", "Seven four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "Saṅkhapāla is the subject of his own jātaka in the wider "
+                              "tradition; this reading guide does not assert a specific "
+                              "matching number."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, closing the "
+                       "chapter on its most extreme image of unused power"),
+    ],
+    why=(
+        "This closing story of the ethics chapter returns almost word for word to Cp "
+        "12's opening formula &mdash; a nāga resolving on the four factors and "
+        "offering his own body to whoever has use for it &mdash; but pushes the "
+        "physical ordeal further: pierced through the nose, tail, and spine, and "
+        "fastened to a pole, Saṅkhapāla names a destructive power vast enough to burn "
+        "the earth from sea to sea, and uses none of it."),
+    guide=[
+        ("The same vow as Cp 12, almost word for word", [
+            "Saṅkhapāla &lsquo;resolved on the four factors&rsquo; and offers his body "
+            "with the identical formula Bhūridatta used in Cp 12: &lsquo;whoever has "
+            "use for these, they are already given, please take them&rsquo; &mdash; a "
+            "deliberate echo bracketing this chapter's nāga stories together, one near "
+            "its start and one at its close."]),
+        ("Hunters who take the offer at its cruelest", [
+            "The hunters, named as the Bhojans, are described as &lsquo;violent and "
+            "pitiless&rsquo;: they pierce Saṅkhapāla's nose, tail, and spine, fasten him "
+            "to a pole, and carry him away like an object rather than a being who had "
+            "just offered himself freely."]),
+        ("A destructive power scaled to the whole earth", [
+            "This story states the withheld power in the largest terms of any story in "
+            "this chapter: Saṅkhapāla claims he could have burned &lsquo;the earth from "
+            "sea to sea, with its forests and mountains&rsquo; with a single blast from "
+            "his nose, had he wished to."]),
+        ("A chapter closed on its central refrain", [
+            "The story's final line states the theme this entire chapter has been "
+            "building toward directly: &lsquo;though pierced with stakes, and stabbed "
+            "with knives, I did not get upset with the Bhojans: this is my perfection of "
+            "ethics.&rsquo; Ten stories of restrained, undischarged power close here on "
+            "their clearest single statement of what that restraint is for."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; or &ldquo;precepts&rdquo; &mdash; the perfection this "
+         "chapter's ten stories illustrate, closing here with its tenth and final "
+         "example."),
+        ("nāga",
+         "a serpent being of great psychic power &mdash; the same kind of being as Cp "
+         "12's Bhūridatta and Cp 13's Campeyyaka, opening and closing this chapter's "
+         "trio of nāga stories."),
+        ("Bhojans",
+         "the violent hunters who capture and pierce Saṅkhapāla, described in this "
+         "text as pitiless."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twentieth."),
+        ("Hatthinaga-vagga",
+         "&ldquo;the Chapter on an Elephant&rdquo; &mdash; this second chapter's "
+         "traditional name, closing here after ten stories on ethics."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, closing the Cariyapitaka's chapter on ethics. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp20:1.1-1.4"),
+        ("p", "&sect;2", "cp20:2.1-2.4"),
+        ("p", "&sect;3", "cp20:3.1-3.4"),
+        ("p", "&sect;4", "cp20:4.1-4.4"),
+        ("p", "&sect;5", "cp20:5.1-5.4"),
+        ("p", "&sect;6", "cp20:6.1-6.4"),
+        ("p", "&sect;7", "cp20:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What formula does Saṅkhapāla open with, echoing Cp 12's Bhūridatta almost word for word?",
+         "opts": [
+             "A curse against his future captors",
+             "'Whoever has use for these, they are already given, please take them'",
+             "A request for a heavenly rebirth",
+             "A declaration of war against the Bhojans"],
+         "correct": 1,
+         "expl": "A deliberate echo bracketing this chapter's nāga stories."},
+        {"q": "Who captures Saṅkhapāla, and how are they described?",
+         "opts": [
+             "Peaceful farmers, described as gentle",
+             "The Bhojans, described as violent and pitiless hunters",
+             "A king's soldiers, acting on royal orders",
+             "Fellow nāgas"],
+         "correct": 1,
+         "expl": "Taking his offer in the cruelest possible way."},
+        {"q": "How is Saṅkhapāla physically treated by his captors?",
+         "opts": [
+             "He is left entirely unharmed",
+             "Pierced through the nose, tail, and spine, and fastened to a pole",
+             "He is offered food and gentle care",
+             "He is released immediately"],
+         "correct": 1,
+         "expl": "Carried away like an object rather than a being who had offered himself freely."},
+        {"q": "What scale of destructive power does Saṅkhapāla claim he could have used?",
+         "opts": [
+             "None; he claims no special power",
+             "Burning the entire earth, from sea to sea, with a blast from his nose",
+             "Only enough to injure a single attacker",
+             "The power to vanish and escape unnoticed"],
+         "correct": 1,
+         "expl": "The largest scale of withheld power in this whole chapter."},
+        {"q": "What is the story's final statement of its own theme?",
+         "opts": [
+             "'This is the highest blessing'",
+             "'I did not get upset with the Bhojans: this is my perfection of ethics'",
+             "'By this truth, may you be well'",
+             "'Through this they have it all'"],
+         "correct": 1,
+         "expl": "The clearest single statement of the whole chapter's theme, at its close."},
+        {"q": "What does Saṅkhapāla have in common structurally with Cp 12's Bhūridatta?",
+         "opts": [
+             "Nothing; the two stories are unrelated",
+             "Both resolve on the four factors and offer their bodies with nearly identical wording",
+             "Both stories end in the character's death",
+             "Both are set in the same city"],
+         "correct": 1,
+         "expl": "Opening and closing this chapter's trio of nāga stories with matching formulas."},
+        {"q": "What perfection does this story close out?",
+         "opts": [
+             "Giving, the first chapter's theme",
+             "Ethics (sīla), the tenth and final story of this chapter",
+             "Truth",
+             "Renunciation"],
+         "correct": 1,
+         "expl": "Ten stories on ethics conclude here."},
+        {"q": "What is the traditional name of the chapter this story closes?",
+         "opts": [
+             "Akitti-vagga",
+             "Hatthinaga-vagga, 'the Chapter on an Elephant'",
+             "Yudhañjaya-vagga",
+             "No traditional name is given"],
+         "correct": 1,
+         "expl": "Named for its opening story, Cp 11's elephant."},
+        {"q": "How many nāga stories appear across this chapter, and where do they fall?",
+         "opts": [
+             "Just this one, at the very end",
+             "Three — Cp 12, Cp 13, and this closing story, Cp 20",
+             "None; Saṅkhapāla is the only serpent-being in the collection",
+             "All ten stories in this chapter feature nāgas"],
+         "correct": 1,
+         "expl": "Bhūridatta and Campeyyaka near the chapter's start, Saṅkhapāla at its close."},
+        {"q": "What kind of being is a 'nāga', as this text uses the term?",
+         "opts": [
+             "An ordinary snake with no special powers",
+             "A serpent being of great psychic power",
+             "A human ascetic who has taken a serpent's form permanently",
+             "A minor forest spirit"],
+         "correct": 1,
+         "expl": "The same kind of being as Bhūridatta and Campeyyaka earlier in this chapter."},
+    ],
+    marginalia=[
+        ("The same vow as Cp 12", [
+            "'already given,",
+            "please take them'"
+        ]),
+        ("Pierced and carried away", [
+            "an offer taken",
+            "at its cruelest"
+        ]),
+        ("Power enough for the earth", [
+            "sea to sea,",
+            "unused"
+        ]),
+        ("The chapter's clearest line", [
+            "'this is my",
+            "perfection of ethics'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp20/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-12.html">Cp 12 &mdash; The Dragon Bh&umacr;ridatta&rsquo;s '
+        "Conduct</a> &mdash; the story this one echoes almost word for word, opening "
+        "this chapter's trio of nāga stories.",
+        '<a href="cp-19.html">Cp 19 &mdash; Al&imacr;nasattu&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="./">Cariyapiṭaka</a> &mdash; back to the collection index.',
+    ],
+)
