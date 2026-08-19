@@ -5878,3 +5878,2141 @@ page(
         "that closed the previous vagga, the Nandanavagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.31 — Sabbhisutta (opens the Satullapakāyikavagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 31, "Sabbhi", "Virtuous",
+    meta_title="SN 1.31 — Virtuous | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sabbhisutta — "
+        "six deities of the Satullapakāyikā host each complete the same refrain on "
+        "associating with the virtuous, and the Buddha adds a seventh completion of his "
+        "own. Opens the Satullapakāyikavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; several deities of the "
+                    "Satullapakāyikā host arrive together, rather than the single deity "
+                    "of most earlier discourses"),
+        ("Speakers", "Six deities in turn, each completing a shared refrain, then the "
+                    "Buddha, adding a seventh completion of his own"),
+        ("Form", "A refrain repeated six times with a new closing line each time, capped "
+                 "by a final round from the Buddha and a request to judge who spoke best"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple in each "
+                       "individual verse, but this collection's first sustained multi-"
+                       "speaker structure"),
+        ("Opening this vagga", "The first discourse of the Satullapakāyikavagga "
+                               "(&lsquo;the Chapter on the Satullapa Group&rsquo;), named "
+                               "for this recurring host of deities"),
+    ],
+    why=(
+        "This discourse introduces a structure new to this collection: rather than one "
+        "deity and the Buddha exchanging a single pair of verses, several deities of the "
+        "Satullapakāyikā host arrive together, and one by one each recites the same "
+        "three-line refrain &mdash; &lsquo;associate only with the virtuous, try to get "
+        "close to the virtuous, understanding the true teaching of the good&rsquo; "
+        "&mdash; completed by a different fourth line each time. After six deities have "
+        "spoken, one asks the Buddha directly who has spoken best. His answer neither "
+        "ranks nor dismisses any of them: you've all spoken well in your own way &mdash; "
+        "and he offers a seventh completion of the same refrain."),
+    guide=[
+        ("A shared refrain, six different endings", [
+            "Every deity's verse opens identically: associate with the virtuous, draw "
+            "close to them, understand their true teaching. What changes each time is "
+            "only the fourth line, naming a different specific benefit &mdash; things "
+            "improving, wisdom gained independently, freedom from grief, standing out "
+            "among relatives, a good rebirth, and a happy life."]),
+        ("A question the Buddha declines to answer competitively", [
+            "When asked directly who spoke best, the Buddha's reply refuses the framing "
+            "of the question: &lsquo;you've all spoken well in your own way.&rsquo; Rather "
+            "than ranking six true statements against one another, he treats them as "
+            "compatible facets of a single underlying claim."]),
+        ("A seventh line, not a correction", [
+            "The Buddha's own contribution keeps the shared refrain and adds a seventh "
+            "ending &mdash; &lsquo;you're released from all suffering&rsquo; &mdash; a "
+            "claim more comprehensive than, but not contradicting, any of the six the "
+            "deities already offered. It reads as completing the list rather than "
+            "correcting it."]),
+        ("A new host, named for this whole vagga", [
+            "The Satullapakāyikā deities introduced here return across several more "
+            "discourses in this vagga, which takes its own name from this recurring "
+            "group &mdash; a fourth pattern for how a vagga acquires its name, following "
+            "an opening image (Sattivagga), an opening setting (Nandanavagga), and a "
+            "closing image (Naḷavagga)."]),
+    ],
+    terms=[
+        ("satullapakāyikā devatā",
+         "&ldquo;deities of the Satullapakāyikā host&rdquo; &mdash; the recurring group "
+         "of deities this vagga is named after, appearing together rather than singly."),
+        ("sabbhi",
+         "&ldquo;with the virtuous, with the good&rdquo; &mdash; the refrain's central "
+         "instruction, and this discourse's title."),
+        ("saddhammamaññāya",
+         "&ldquo;understanding the true teaching&rdquo; &mdash; the shared refrain's "
+         "third line, present unchanged in every deity's verse."),
+        ("vimuccati sabbadukkhā",
+         "&ldquo;you're released from all suffering&rdquo; &mdash; the Buddha's own, "
+         "seventh completion of the shared refrain."),
+        ("subhāsitaṁ",
+         "&ldquo;spoken well&rdquo; &mdash; the term the deities use asking the Buddha to "
+         "judge among them, and that his answer applies to all six equally."),
+    ],
+    text_intro=(
+        "The discourse in full: six deities complete a shared refrain, and the Buddha "
+        "adds a seventh completion. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Several deities arrive together"),
+        ("p", "&sect;1", "sn1.31:1.1-1.4"),
+        ("h3", "Six completions of one refrain"),
+        ("p", "&sect;2", "sn1.31:2.1-2.4"),
+        ("p", "&sect;3", "sn1.31:3.1-4.4"),
+        ("p", "&sect;4", "sn1.31:5.1-6.4"),
+        ("p", "&sect;5", "sn1.31:7.1-8.4"),
+        ("p", "&sect;6", "sn1.31:9.1-10.4"),
+        ("p", "&sect;7", "sn1.31:11.1-12.4"),
+        ("h3", "A question, and a seventh completion"),
+        ("p", "&sect;8", "sn1.31:13.1-16.2"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse introduce, new to this collection?",
+         "opts": [
+             "Several deities arriving together, each completing a shared refrain in turn",
+             "A single deity asking a riddle answered by the Buddha",
+             "A dialogue between two named mendicants only",
+             "A silent exchange with no verses at all"],
+         "correct": 0,
+         "expl": "This collection's first sustained multi-speaker structure."},
+        {"q": "What three lines does every deity's verse share?",
+         "opts": [
+             "Associate with the virtuous, get close to them, understand their true teaching",
+             "Cross the flood, drop the world's bait, walk in the rough",
+             "Give up conceit, cut the fetters, cross Death's dominion",
+             "No lines are shared; each verse is entirely different"],
+         "correct": 0,
+         "expl": "The refrain repeated identically across all speakers."},
+        {"q": "What changes between each deity's verse?",
+         "opts": [
+             "Only the fourth line, naming a different specific benefit each time",
+             "The entire verse changes completely each time",
+             "Only the setting changes",
+             "Nothing changes at all between speakers"],
+         "correct": 0,
+         "expl": "A single varying line, capping an otherwise fixed refrain."},
+        {"q": "How does the Buddha answer when asked who spoke best?",
+         "opts": [
+             "He says all six spoke well in their own way, declining to rank them",
+             "He names one deity as clearly superior",
+             "He says none of them spoke correctly",
+             "He refuses to answer the question at all"],
+         "correct": 0,
+         "expl": "A refusal of the question's competitive framing."},
+        {"q": "What does the Buddha's own seventh completion of the refrain add?",
+         "opts": [
+             "'You're released from all suffering'",
+             "'You should never speak to anyone'",
+             "'Wealth is the true measure of virtue'",
+             "Nothing; he declines to add his own ending"],
+         "correct": 0,
+         "expl": "A more comprehensive claim than, but not contradicting, the six already given."},
+        {"q": "What group of deities is introduced in this discourse?",
+         "opts": [
+             "The Satullapakāyikā host, who recur across this vagga",
+             "The Pure Abode deities",
+             "The fault-finding deities",
+             "The deities of the Thirty-Three"],
+         "correct": 0,
+         "expl": "The group this whole vagga is named after."},
+        {"q": "How does this vagga's naming pattern compare to earlier vaggas?",
+         "opts": [
+             "It is named for a recurring group of deities, a fourth distinct naming pattern in this collection",
+             "It is named for its closing image, like the Naḷavagga",
+             "It is named for its opening image, like the Sattivagga",
+             "It has no name at all"],
+         "correct": 0,
+         "expl": "A new pattern, distinct from opening image, opening setting, or closing image."},
+        {"q": "What does 'saddhammamaññāya' mean?",
+         "opts": [
+             "'Understanding the true teaching'",
+             "'Rejecting the teaching entirely'",
+             "'A type of deity'",
+             "'A monastery near Sāvatthī'"],
+         "correct": 0,
+         "expl": "The shared refrain's unchanging third line."},
+        {"q": "How many deities speak before the Buddha adds his own completion?",
+         "opts": [
+             "Six",
+             "Two",
+             "Ten",
+             "One"],
+         "correct": 0,
+         "expl": "Six varying endings, then the Buddha's seventh."},
+        {"q": "What is 'subhāsitaṁ'?",
+         "opts": [
+             "'Spoken well' &mdash; the term used asking the Buddha to judge among the deities' verses",
+             "'Spoken poorly'",
+             "'Never spoken'",
+             "'A type of riddle'"],
+         "correct": 0,
+         "expl": "The Buddha's answer applies this term to all six speakers equally."},
+    ],
+    marginalia=[
+        ("Several deities, together", [
+            "not one, but many &mdash;",
+            "a new kind of exchange",
+        ]),
+        ("One refrain, six endings", [
+            "associate with the virtuous &mdash;",
+            "six different benefits named",
+        ]),
+        ("Who spoke best?", [
+            "all of you, in your own way,",
+            "says the Buddha",
+        ]),
+        ("A seventh completion", [
+            "released from all suffering &mdash;",
+            "not a correction, but a capstone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.31/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.30.html">SN 1.30 &middot; Antelope Calves</a> &mdash; the '
+        "discourse that closed the previous vagga, the Sattivagga.",
+        '<a href="sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> &mdash; this '
+        "collection&rsquo;s opening discourse.",
+        "SN 1.32 &middot; Stinginess &mdash; the next discourse, the same multi-deity "
+        "structure applied to the theme of giving.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.32 — Maccharisutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 32, "Macchari", "Stinginess",
+    meta_title="SN 1.32 — Stinginess | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Maccharisutta — "
+        "four deities speak in turn on generosity and stinginess, the Buddha values a "
+        "modest ethical life over grand sacrifice, and a deity presses him on why. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; several Satullapakāyikā "
+                    "deities, as at SN 1.31"),
+        ("Speakers", "Four deities in turn, then the Buddha, then a further exchange "
+                    "between a deity and the Buddha probing his answer"),
+        ("Form", "Four independent verses on giving, the Buddha's own verse, and a "
+                 "follow-up question-and-answer extending the discourse further"),
+        ("Length", "~2.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the closing exchange "
+                       "on sacrifice carries real ethical weight"),
+        ("A pointed critique", "The Buddha's answer explicitly ranks a modest, ethical "
+                               "life above &lsquo;a hundred thousand people making a "
+                               "thousand sacrifices&rsquo;"),
+    ],
+    why=(
+        "Four deities speak in turn on stinginess and giving, each adding a distinct "
+        "angle: negligence as the simple cause of withheld gifts; the miser's fear "
+        "backfiring into the very hunger and thirst it dreaded; small gifts from those "
+        "who have little outweighing withheld surplus from those who have much; and "
+        "giving what's hard to give as what actually distinguishes the virtuous from the "
+        "wicked. Asked who spoke best, the Buddha adds a verse ranking one person living "
+        "rightly on little above a hundred thousand people performing lavish sacrifices "
+        "&mdash; and when a deity presses him on why, he explains: because such "
+        "sacrifices are funded by violence."),
+    guide=[
+        ("Four deities, four distinct angles on giving", [
+            "Where SN 1.31's deities varied only a single closing line of a shared "
+            "refrain, this discourse's four deities offer genuinely different arguments: "
+            "generosity as simple opportunity not taken, generosity as protection against "
+            "a feared outcome that withholding actually causes, generosity from scarcity "
+            "outweighing withheld abundance, and generosity as specifically what is hard "
+            "to do &mdash; the real measure of virtue, not merely its ordinary practice."]),
+        ("A fear that creates what it fears", [
+            "The second deity's verse names a specific irony: the miser who withholds out "
+            "of fear of future want brings about exactly that want, in this world and the "
+            "next, through the withholding itself &mdash; a structure of self-defeating "
+            "avoidance echoing SN 1.22's image of harm returning to its source."]),
+        ("A pointed ranking of sacrifice below ethical life", [
+            "Asked who spoke best, the Buddha's own verse does something none of the four "
+            "deities attempted: it explicitly ranks &lsquo;a hundred thousand people "
+            "making a thousand sacrifices&rsquo; below a single person living rightly on "
+            "gleanings, or supporting a partner with little. This directly challenges the "
+            "assumed value of large-scale ritual sacrifice, a theme this collection meets "
+            "again elsewhere in the broader canon's critiques of Brahminical sacrifice."]),
+        ("Pressed for a reason, and given one", [
+            "Rather than let this ranking stand unexplained, a deity asks directly why "
+            "such an abundant, magnificent sacrifice fails to equal a moral person's "
+            "gift. The Buddha's answer is specific, not general: such sacrifices are "
+            "funded &lsquo;after slaying, killing, and tormenting&rsquo; &mdash; the "
+            "disqualification is about the violence embedded in how the offering was "
+            "obtained, not merely about its scale or ritual form."]),
+    ],
+    terms=[
+        ("macchariya",
+         "&ldquo;stinginess&rdquo; &mdash; this discourse's title, and the first "
+         "deity's named cause for gifts not given."),
+        ("dāna",
+         "&ldquo;giving, a gift&rdquo; &mdash; the practice all four deities and the "
+         "Buddha discuss from different angles."),
+        ("porāṇaka",
+         "&ldquo;ancient, of long standing&rdquo; &mdash; how the third deity's verse "
+         "describes its own teaching, an unusual explicit claim to inherited wisdom "
+         "rather than fresh insight."),
+        ("yañña",
+         "&ldquo;sacrifice&rdquo; &mdash; the large-scale ritual offering the Buddha's "
+         "verse ranks below one moral person's modest gift."),
+        ("hantvā chinditvā chetvā",
+         "&ldquo;after slaying, killing, and tormenting&rdquo; &mdash; the Buddha's "
+         "specific answer for why such sacrifices fail to equal a moral gift's value."),
+    ],
+    text_intro=(
+        "The discourse in full: four deities on giving, the Buddha's ranking of ethical "
+        "life above sacrifice, and his reason why. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Deities arrive; a first verse on stinginess"),
+        ("p", "&sect;1", "sn1.32:1.1-1.3"),
+        ("p", "&sect;2", "sn1.32:2.1-2.4"),
+        ("h3", "A second deity: fear that creates what it fears"),
+        ("p", "&sect;3", "sn1.32:3.1-5.4"),
+        ("h3", "A third deity: what's given from little"),
+        ("p", "&sect;4", "sn1.32:6.1-8.4"),
+        ("h3", "A fourth deity: what's hard to give"),
+        ("p", "&sect;5", "sn1.32:9.1-11.4"),
+        ("h3", "A question, and the Buddha's ranking"),
+        ("p", "&sect;6", "sn1.32:12.1-14.4"),
+        ("h3", "A deity presses further"),
+        ("p", "&sect;7", "sn1.32:15.1-16.4"),
+        ("p", "&sect;8", "sn1.32:17.1-18.2"),
+    ],
+    quiz=[
+        {"q": "What does the first deity name as the cause of gifts not given?",
+         "opts": [
+             "Stinginess and negligence",
+             "Poverty alone",
+             "A lack of merit already accumulated",
+             "The Buddha's own instruction not to give"],
+         "correct": 0,
+         "expl": "Macchariyā ca pamādā ca &mdash; the discourse's opening claim."},
+        {"q": "What irony does the second deity's verse describe?",
+         "opts": [
+             "A miser's fear of hunger and thirst is brought about by their own withholding",
+             "Generosity always leads to poverty",
+             "Fear has no relationship to giving at all",
+             "Only the wealthy ever experience hunger"],
+         "correct": 0,
+         "expl": "The very thing feared comes to pass through the withholding itself."},
+        {"q": "What does the third deity's verse claim about gifts given from little?",
+         "opts": [
+             "They are multiplied a thousand times, unlike withheld abundance from those who have much",
+             "They are worthless compared to large donations",
+             "They should never be given at all",
+             "They only benefit the giver, never anyone else"],
+         "correct": 0,
+         "expl": "An offering given from little is multiplied a thousand times."},
+        {"q": "What does the fourth deity identify as the true measure of virtue in giving?",
+         "opts": [
+             "Giving what's hard to give, doing what's hard to do",
+             "Giving only what is easy and convenient",
+             "Never giving under any circumstances",
+             "Giving only to relatives"],
+         "correct": 0,
+         "expl": "Dukkaraṁ dadanti dukkaraṁ karonti &mdash; distinguishing the virtuous from the wicked."},
+        {"q": "What does the Buddha's own verse rank above 'a hundred thousand people making a thousand sacrifices'?",
+         "opts": [
+             "One person living rightly on gleanings, or supporting a partner with little",
+             "A single wealthy king's donation",
+             "Nothing; he says nothing can exceed such sacrifices",
+             "A thousand additional sacrifices"],
+         "correct": 0,
+         "expl": "A direct and pointed ranking of modest ethical life above lavish ritual."},
+        {"q": "Why, according to the Buddha's explanation, does such a sacrifice fail to equal a moral gift?",
+         "opts": [
+             "Because it is funded through slaying, killing, and tormenting",
+             "Because it involves too much wealth",
+             "Because it takes place in the wrong location",
+             "Because too many people are involved"],
+         "correct": 0,
+         "expl": "The disqualification concerns the violence in how the offering was obtained."},
+        {"q": "What does 'porāṇaka' mean, and where is it used?",
+         "opts": [
+             "'Ancient, of long standing' &mdash; how the third deity describes their own teaching",
+             "'Brand new' &mdash; describing a teaching never heard before",
+             "'False' &mdash; describing a teaching to be rejected",
+             "It does not appear in this discourse"],
+         "correct": 0,
+         "expl": "An unusual explicit claim to inherited wisdom."},
+        {"q": "How does this discourse's structure compare to SN 1.31?",
+         "opts": [
+             "The four deities offer genuinely different arguments, unlike SN 1.31's single varying refrain-line",
+             "It uses exactly the same shared refrain as SN 1.31",
+             "Only one deity speaks, unlike SN 1.31's six",
+             "No deities speak at all in this discourse"],
+         "correct": 0,
+         "expl": "Four distinct angles on giving, rather than one refrain completed six ways."},
+        {"q": "What does 'yañña' mean?",
+         "opts": [
+             "'Sacrifice' &mdash; the large-scale ritual the Buddha's verse ranks below modest ethical living",
+             "'Stinginess'",
+             "'A type of deity'",
+             "'A monastery near Sāvatthī'"],
+         "correct": 0,
+         "expl": "The specific target of the Buddha's ranking and explanation."},
+        {"q": "Does a deity accept the Buddha's ranking without question?",
+         "opts": [
+             "No &mdash; a deity presses him further, asking directly why the ranking holds",
+             "Yes, every deity immediately agrees without further discussion",
+             "The deities leave in anger without responding",
+             "No deity speaks again after the Buddha's verse"],
+         "correct": 0,
+         "expl": "A genuine follow-up question, met with a specific rather than general answer."},
+    ],
+    marginalia=[
+        ("Four deities, four angles", [
+            "negligence, fear,",
+            "little given, hard given",
+        ]),
+        ("A fear, self-fulfilling", [
+            "what the miser dreads",
+            "comes from withholding itself",
+        ]),
+        ("Sacrifice, outranked", [
+            "a hundred thousand rituals &mdash;",
+            "one right life outweighs them",
+        ]),
+        ("Why: the violence beneath it", [
+            "funded by slaying and killing,",
+            "tearful, not equal to a moral gift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.32/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.31.html">SN 1.31 &middot; Virtuous</a> &mdash; the discourse '
+        "immediately before this one, and this vagga&rsquo;s opening discourse.",
+        '<a href="sn-1.22.html">SN 1.22 &middot; Impact</a> &mdash; an earlier discourse '
+        "on harm returning to its own source.",
+        "SN 1.33 &middot; Good &mdash; the next discourse, six deities building a single "
+        "cumulative list on giving well.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.33 — Sādhusutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 33, "Sādhu", "Good",
+    meta_title="SN 1.33 — Good | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sādhusutta — six "
+        "deities build a single cumulative list of what makes giving good, from mere "
+        "generosity to giving intelligently and non-harming, before the Buddha ranks "
+        "teaching above all giving. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; several Satullapakāyikā "
+                    "deities, as at SN 1.31 and SN 1.32"),
+        ("Speakers", "Six deities in turn, each repeating and extending the previous "
+                     "deity's list, then the Buddha"),
+        ("Form", "A cumulative refrain, each speaker adding one further qualification to "
+                 "everything said before, closed by the Buddha's own capping verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the cumulative "
+                       "structure rewards tracking what each new deity actually adds"),
+        ("A third structure within three discourses", "Distinct again from both SN 1.31's "
+                                                       "single varying line and SN 1.32's "
+                                                       "four independent arguments"),
+    ],
+    why=(
+        "Six deities speak in sequence, each one repeating everything the deities before "
+        "them have already said and adding exactly one further qualification: giving is "
+        "good; even giving from little is good; giving out of faith is good; giving "
+        "legitimately earned wealth is good; giving intelligently, to those worthy of it, "
+        "is good; and restraint toward living creatures is good. By the sixth deity, a "
+        "discourse that began simply praising generosity has expanded into something "
+        "closer to a full ethical program. The Buddha's own closing verse then ranks "
+        "something above every form of giving discussed: a passage of teaching."),
+    guide=[
+        ("A cumulative list, not a set of independent claims", [
+            "Unlike SN 1.32's four deities, each making a distinct and separable "
+            "argument, this discourse's six deities build a single expanding statement "
+            "&mdash; each new speaker repeats every qualification already given before "
+            "adding their own, so the sixth deity's full verse contains all six "
+            "qualifications at once."]),
+        ("Giving and warfare, compared", [
+            "The third deity's verse makes a startling comparison: &lsquo;giving and "
+            "warfare are similar, they say, for even a few of the good may conquer the "
+            "many.&rsquo; The point is not violence but quality over quantity &mdash; a "
+            "small amount given with genuine faith is treated as more decisive than a "
+            "large amount given without it, the way a disciplined few can defeat a "
+            "larger, less committed force."]),
+        ("From giving to non-harming", [
+            "The list's final addition marks a real shift: restraint toward living "
+            "creatures is not, strictly, a form of giving at all, but a form of "
+            "non-harming (<em>ahiṁsā</em>). By the sixth deity, this discourse has "
+            "expanded from dāna specifically into a broader account of ethical conduct, "
+            "without announcing that expansion directly."]),
+        ("Virtue without fear as its motive", [
+            "The sixth deity's verse makes a subtle distinction easy to miss: one who "
+            "avoids harm only from fear of others' blame would, if blame were the whole "
+            "story, deserve to be called a coward rather than praised as virtuous. "
+            "Genuine virtue, the verse insists, avoids harm for its own sake, not merely "
+            "to escape social consequence."]),
+        ("Teaching ranked above every gift named", [
+            "The Buddha's closing verse does not add a seventh item to the list; it "
+            "reorders the whole discussion, ranking &lsquo;a passage of teaching&rsquo; "
+            "above giving in every form the six deities have just described &mdash; a "
+            "claim closely related to the well-known principle, stated elsewhere in the "
+            "canon, that the gift of the teaching surpasses every other kind of gift."]),
+    ],
+    terms=[
+        ("sādhu",
+         "&ldquo;good&rdquo; &mdash; the exclamation opening every deity's verse in this "
+         "discourse, and this discourse's title."),
+        ("saddhāya dānaṁ",
+         "&ldquo;giving out of faith&rdquo; &mdash; the third deity's addition to the "
+         "cumulative list, introducing motive as a further qualification beyond the bare "
+         "act of giving."),
+        ("dhammadinnaṁ",
+         "&ldquo;legitimate wealth, rightfully given&rdquo; &mdash; the fourth deity's "
+         "addition, specifying that what is given must itself be honestly earned."),
+        ("ahiṁsā",
+         "&ldquo;non-harming, restraint toward living creatures&rdquo; &mdash; the sixth "
+         "and final addition, marking this discourse's shift from giving specifically "
+         "into broader ethical conduct."),
+        ("dhammapadaṁ",
+         "&ldquo;a passage of teaching&rdquo; &mdash; what the Buddha's closing verse "
+         "ranks above every form of giving already described."),
+    ],
+    text_intro=(
+        "The discourse in full: six deities building one cumulative list on giving well, "
+        "and the Buddha's ranking of teaching above it all. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Deities arrive; a first item is named"),
+        ("p", "&sect;1", "sn1.33:1.1-2.5"),
+        ("h3", "A second item: even from little"),
+        ("p", "&sect;2", "sn1.33:3.1-5.4"),
+        ("h3", "A third item: out of faith"),
+        ("p", "&sect;3", "sn1.33:6.1-7.7"),
+        ("h3", "A fourth item: legitimate wealth"),
+        ("p", "&sect;4", "sn1.33:8.1-10.4"),
+        ("h3", "A fifth item: intelligently"),
+        ("p", "&sect;5", "sn1.33:11.1-13.4"),
+        ("h3", "A sixth item: non-harming"),
+        ("p", "&sect;6", "sn1.33:14.1-16.4"),
+        ("h3", "A question, and the Buddha's ranking"),
+        ("p", "&sect;7", "sn1.33:17.1-19.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from SN 1.32's four deities?",
+         "opts": [
+             "Each deity repeats everything said before and adds one new qualification, building a single cumulative list",
+             "Each deity makes a completely unrelated, independent claim",
+             "Only one deity speaks in this discourse",
+             "The structure is identical to SN 1.32 in every respect"],
+         "correct": 0,
+         "expl": "A cumulative refrain, distinct from SN 1.32's four separate arguments."},
+        {"q": "What comparison does the third deity's verse make?",
+         "opts": [
+             "Giving and warfare are similar, since even a few of the good may conquer the many",
+             "Giving is compared to a flood sweeping everything away",
+             "Giving is compared to a lamp lighting the world",
+             "No comparison is made in the third deity's verse"],
+         "correct": 0,
+         "expl": "A point about quality over quantity, not about violence itself."},
+        {"q": "What does the sixth and final item added to the list concern?",
+         "opts": [
+             "Restraint toward living creatures (ahiṁsā), a shift from giving into non-harming",
+             "Giving even larger amounts of wealth",
+             "Giving only to one's immediate family",
+             "Refusing to give under any circumstances"],
+         "correct": 0,
+         "expl": "A shift from dāna specifically into broader ethical conduct."},
+        {"q": "What subtle point does the sixth deity's verse make about motive?",
+         "opts": [
+             "Avoiding harm only from fear of blame would make cowardice, not virtue, praiseworthy",
+             "Fear of blame is the only valid reason to avoid harm",
+             "Motive has no relevance to whether an act counts as virtuous",
+             "Only deities can act virtuously; humans cannot"],
+         "correct": 0,
+         "expl": "Genuine virtue avoids harm for its own sake, not merely from social pressure."},
+        {"q": "What does the Buddha's closing verse rank above every form of giving described?",
+         "opts": [
+             "A passage of teaching (dhammapadaṁ)",
+             "An even larger sacrifice",
+             "Wealth accumulated over a lifetime",
+             "Nothing; he ranks giving as supreme"],
+         "correct": 0,
+         "expl": "Closely related to the canon's broader claim that teaching surpasses all other gifts."},
+        {"q": "What does 'saddhāya dānaṁ' mean?",
+         "opts": [
+             "'Giving out of faith'",
+             "'Giving out of fear'",
+             "'Refusing to give'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The third deity's addition, introducing motive as a qualification."},
+        {"q": "What does 'dhammadinnaṁ' specify about what is given?",
+         "opts": [
+             "That it must be legitimate wealth, rightfully earned",
+             "That it must be given in secret",
+             "That it must be given only once a year",
+             "That it must be given only by aristocrats"],
+         "correct": 0,
+         "expl": "The fourth deity's addition to the cumulative list."},
+        {"q": "By the sixth deity's full verse, how many qualifications does it contain?",
+         "opts": [
+             "All six, since each deity repeats everything said before",
+             "Only the sixth, with earlier qualifications dropped",
+             "Only one, unrelated to the previous five",
+             "None; the sixth deity contradicts all five before"],
+         "correct": 0,
+         "expl": "The defining feature of this discourse's cumulative structure."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove, with several Satullapakāyikā deities as at SN 1.31 and 1.32",
+             "Near Rājagaha, with a single deity",
+             "In the heavenly Garden of Delight",
+             "No setting is given"],
+         "correct": 0,
+         "expl": "The same recurring host and setting as the two discourses before it."},
+        {"q": "What does 'ahiṁsā' mean?",
+         "opts": [
+             "'Non-harming, restraint toward living creatures'",
+             "'Generosity toward the wealthy only'",
+             "'A type of sacrifice'",
+             "'Fear of blame'"],
+         "correct": 0,
+         "expl": "The sixth and final addition to this discourse's cumulative list."},
+    ],
+    marginalia=[
+        ("A list, building", [
+            "each deity repeats,",
+            "then adds one more",
+        ]),
+        ("Giving as warfare", [
+            "a few of the good",
+            "may conquer the many",
+        ]),
+        ("From giving to non-harming", [
+            "the sixth item shifts",
+            "beyond dāna itself",
+        ]),
+        ("Teaching, ranked highest", [
+            "a passage of Dhamma &mdash;",
+            "above every gift named",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.33/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.32.html">SN 1.32 &middot; Stinginess</a> &mdash; the discourse '
+        "immediately before this one, on the same broad theme of giving.",
+        '<a href="sn-1.31.html">SN 1.31 &middot; Virtuous</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, this collection's first multi-deity exchange.",
+        "SN 1.34 &middot; There Are None &mdash; the next discourse, closing with a verse "
+        "shared word for word with the Buddha's answer to a deity at SN 1.20.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.34 — Nasantisutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 34, "Nasanti", "There Are None",
+    meta_title="SN 1.34 — There Are None | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nasantisutta — "
+        "deities debate whether sensual pleasures are permanent, verses trace desire to "
+        "its cessation, and Venerable Mogharāja asks the Buddha whether an unseen "
+        "liberation is still worth revering. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; several Satullapakāyikā "
+                    "deities, then a further exchange with the named mendicant "
+                    "Venerable Mogharāja"),
+        ("Speakers", "One or more deities across four verses, then Venerable Mogharāja "
+                    "and the Buddha in a final exchange"),
+        ("Form", "A sequence of verses on desire and its cessation, closed by a named "
+                 "mendicant's direct question and the Buddha's answer"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the closing verses "
+                       "repeat some of this collection's most doctrinally dense material"),
+        ("A named questioner", "Venerable Mogharāja, known elsewhere in the canon for a "
+                               "celebrated question of his own, appears here asking a "
+                               "different question entirely"),
+    ],
+    why=(
+        "This discourse opens with a claim about sensual pleasure &mdash; nothing among "
+        "mankind is permanent, and those bound to and intoxicated by sensuous things "
+        "never return from Death's dominion &mdash; and traces the causal chain "
+        "underlying it: gloom is born of desire, suffering is born of desire, and "
+        "removing desire removes both in turn. The verses build to a description of one "
+        "who has fully let go, cut every tie, and become impossible for gods or humans to "
+        "locate anywhere. At this point Venerable Mogharāja, a named mendicant, asks a "
+        "pointed question: if such a person can't be seen or found by anyone, are those "
+        "who still revere them worthy of praise at all?"),
+    guide=[
+        ("A causal chain, traced step by step", [
+            "The verses move through a specific sequence rather than simply asserting a "
+            "conclusion: desire gives rise to gloom, gloom and desire together give rise "
+            "to suffering, and removing desire removes gloom, which in turn removes "
+            "suffering. The logic is presented as a chain of dependency, not a single "
+            "unexplained claim."]),
+        ("Pretty things are not themselves the problem", [
+            "One verse draws a distinction easy to overlook: &lsquo;the world's pretty "
+            "things aren't sensual pleasures &mdash; greedy intention is a person's "
+            "sensual pleasure.&rsquo; The pretty things &lsquo;stay just as they "
+            "are&rsquo;; what the attentive remove is their own desire for them, not the "
+            "things themselves."]),
+        ("A verse this collection has met before", [
+            "The closing description of one who has cut every tie, whom gods and humans "
+            "cannot find &lsquo;in this life or the next&hellip; not in heaven nor in any "
+            "abode,&rsquo; is close to verses already met in this collection at SN 1.20's "
+            "third compressed verse to the deity Samiddhi encountered &mdash; the same "
+            "image of complete untraceability recurring in a new context."]),
+        ("Mogharāja's question, and a different Mogharāja moment", [
+            "Venerable Mogharāja is known elsewhere in the wider canon, in the "
+            "Pārāyanavagga, for a celebrated question of his own about how to regard the "
+            "world so as to escape Death's notice. Here his question is different: not "
+            "how to achieve the liberation just described, but whether those who revere "
+            "someone so thoroughly untraceable are themselves still worthy of respect. "
+            "The Buddha's answer is unambiguous &mdash; yes, and specifically because "
+            "they have understood the teaching and given up doubt."]),
+    ],
+    terms=[
+        ("nasanti",
+         "&ldquo;there are none, there do not exist&rdquo; &mdash; this discourse's "
+         "title, from its opening claim that no sensual pleasures among mankind are "
+         "permanent."),
+        ("domanassaṁ jāyati kāmato",
+         "&ldquo;gloom is born of desire&rdquo; &mdash; the first link in the causal "
+         "chain the verses trace from desire through to suffering and its removal."),
+        ("chandarāgo",
+         "&ldquo;greedy intention&rdquo; &mdash; identified as a person's true sensual "
+         "pleasure, distinguished from the world's pretty things themselves."),
+        ("chinnagantho",
+         "&ldquo;one whose ties are cut&rdquo; &mdash; the same term already met at SN "
+         "1.20, describing someone gods and humans cannot locate anywhere."),
+        ("mogharājā",
+         "Venerable Mogharāja, the named mendicant who questions the Buddha in this "
+         "discourse's final exchange, known elsewhere in the canon for a different, "
+         "well-known question of his own."),
+    ],
+    text_intro=(
+        "The discourse in full: verses tracing desire to its cessation, and a named "
+        "mendicant's closing question. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Deities arrive; sensual pleasures, and their true cause"),
+        ("p", "&sect;1", "sn1.34:1.1-1.3"),
+        ("p", "&sect;2", "sn1.34:2.1-2.4"),
+        ("p", "&sect;3", "sn1.34:3.1-3.3"),
+        ("h3", "What is actually removed"),
+        ("p", "&sect;4", "sn1.34:4.1-6.6"),
+        ("h3", "Mogharāja asks a question"),
+        ("p", "&sect;5", "sn1.34:7.1-8.5"),
+    ],
+    quiz=[
+        {"q": "What does the opening verse claim about sensual pleasures?",
+         "opts": [
+             "Nothing among mankind is permanent, and those bound to sensuous things never return from Death's dominion",
+             "Sensual pleasures are entirely harmless if pursued in moderation",
+             "Sensual pleasures do not exist at all",
+             "Only deities, never humans, experience sensual pleasure"],
+         "correct": 0,
+         "expl": "The discourse's opening claim, giving it its title."},
+        {"q": "What causal chain do the verses trace?",
+         "opts": [
+             "Desire gives rise to gloom, which together with desire gives rise to suffering; removing desire removes both",
+             "Suffering causes desire, which causes gloom",
+             "No causal relationship is described at all",
+             "Gloom causes sensual pleasure directly"],
+         "correct": 0,
+         "expl": "A step-by-step dependency, not a single unexplained assertion."},
+        {"q": "What distinction does one verse draw about 'the world's pretty things'?",
+         "opts": [
+             "They are not themselves sensual pleasure; greedy intention is",
+             "They must all be physically destroyed",
+             "They are identical to sensual pleasure with no distinction possible",
+             "Only aristocrats are permitted to enjoy them"],
+         "correct": 0,
+         "expl": "Chandarāgo, greedy intention, is what is actually removed, not the things themselves."},
+        {"q": "What earlier discourse in this collection shares imagery with this discourse's closing description of one who has cut every tie?",
+         "opts": [
+             "SN 1.20, in its third compressed verse to the deity",
+             "SN 1.1, on crossing the flood",
+             "SN 1.11, on the Garden of Delight",
+             "No earlier discourse shares this imagery"],
+         "correct": 0,
+         "expl": "The same image of complete untraceability recurring in a new context."},
+        {"q": "Who asks the Buddha a question in this discourse's closing exchange?",
+         "opts": [
+             "Venerable Mogharāja, a named mendicant",
+             "An unnamed deity",
+             "A king",
+             "No one asks a question; the discourse ends with the verses on cutting ties"],
+         "correct": 0,
+         "expl": "This collection's first discourse in this vagga to name its questioner directly."},
+        {"q": "What does Mogharāja specifically ask?",
+         "opts": [
+             "Whether those who revere someone untraceable to gods and humans are themselves worthy of praise",
+             "How to achieve liberation for himself",
+             "Whether the Buddha is truly liberated at all",
+             "How many lamps light the world"],
+         "correct": 0,
+         "expl": "A question about the worth of reverence directed at someone unfindable."},
+        {"q": "How does the Buddha answer Mogharāja's question?",
+         "opts": [
+             "Yes, unambiguously, specifically because they have understood the teaching and given up doubt",
+             "No, such reverence is entirely worthless",
+             "He refuses to answer the question",
+             "He answers only with another question"],
+         "correct": 0,
+         "expl": "A direct, affirmative answer with a specific reason given."},
+        {"q": "What is Venerable Mogharāja known for elsewhere in the canon?",
+         "opts": [
+             "A celebrated question of his own, in the Pārāyanavagga, about escaping Death's notice",
+             "Being the first mendicant ever ordained",
+             "Composing the Dhammapada",
+             "Nothing; he appears only in this discourse"],
+         "correct": 0,
+         "expl": "A different, well-known question from the one he asks here."},
+        {"q": "What does 'chandarāgo' mean?",
+         "opts": [
+             "'Greedy intention' &mdash; identified as a person's true sensual pleasure",
+             "'The world's pretty things themselves'",
+             "'A type of deity'",
+             "'A monastery near Sāvatthī'"],
+         "correct": 0,
+         "expl": "Distinguished in this discourse from the pretty things themselves."},
+        {"q": "What does 'chinnagantho' mean?",
+         "opts": [
+             "'One whose ties are cut' &mdash; a term already met at SN 1.20",
+             "'One who is bound by every tie'",
+             "'A type of sacrifice'",
+             "'A monastery near Rājagaha'"],
+         "correct": 0,
+         "expl": "Describing someone gods and humans cannot find anywhere."},
+    ],
+    marginalia=[
+        ("Nothing permanent", [
+            "sensual pleasures, none lasting &mdash;",
+            "bound to them, no return",
+        ]),
+        ("A chain, traced", [
+            "desire to gloom,",
+            "gloom and desire to suffering",
+        ]),
+        ("The things, or the wanting", [
+            "pretty things stay as they are &mdash;",
+            "desire is removed, not the things",
+        ]),
+        ("Mogharāja&rsquo;s question", [
+            "if none can find them,",
+            "is reverence still worth it?",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.34/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.33.html">SN 1.33 &middot; Good</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.20.html">SN 1.20 &middot; With Samiddhi</a> &mdash; the earlier '
+        "discourse sharing this discourse&rsquo;s closing image of untraceability.",
+        "SN 1.35 &middot; Fault-Finding Deities &mdash; the next discourse, a very "
+        "different and more dramatic encounter with a hostile group of deities.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.35 — Ujjhānasaññisutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 35, "Ujjhānasaññī", "Fault-Finding Deities",
+    meta_title="SN 1.35 — Fault-Finding Deities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ujjhānasaññisutta — a hostile group of deities taunts the Buddha as a hypocrite, "
+        "apologizes, then taunts him again about forgiveness itself, before he explicitly "
+        "pardons them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; a distinct, hostile host "
+                    "&mdash; deities of the fault-finders, standing in the air rather "
+                    "than approaching respectfully"),
+        ("Speakers", "One or more of the fault-finding deities, and the Buddha, across "
+                    "two full rounds of confrontation"),
+        ("Form", "An accusatory verse exchange, an apology, a renewed taunt, and a final "
+                 "direct exchange ending in explicit pardon"),
+        ("Length", "~2.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the narrative "
+                       "structure carries as much weight as the verses themselves"),
+        ("A distinctly dramatic discourse", "One of very few in this collection where the "
+                                            "Buddha is shown reacting emotionally "
+                                            "&mdash; here, with a smile"),
+    ],
+    why=(
+        "This discourse's deities are not the friendly Satullapakāyikā of the four "
+        "discourses before it, but a group Sujato names &lsquo;fault-finders&rsquo; "
+        "&mdash; and they arrive standing in the air rather than approaching "
+        "respectfully. Their opening verses accuse the Buddha of hypocrisy: someone who "
+        "pretends to be other than they are is like a cheating gambler profiting from "
+        "theft. The Buddha does not defend himself directly; he describes what genuine "
+        "attainment looks like instead. The deities then apologize &mdash; and the "
+        "Buddha smiles &mdash; only to fly back up and taunt him again, this time about "
+        "whether he will actually forgive them."),
+    guide=[
+        ("A hostile posture, marked from the start", [
+            "Every deity elsewhere in this collection who addresses the Buddha "
+            "approaches and stands respectfully &lsquo;to one side.&rsquo; This "
+            "discourse's fault-finding deities instead stand &lsquo;in the air&rsquo; "
+            "&mdash; a physical detail marking confrontation and distance rather than the "
+            "usual deference, before a single word is spoken."]),
+        ("An accusation of hypocrisy, answered without denial", [
+            "The deities' opening verses accuse the Buddha, implicitly, of saying one "
+            "thing and doing another &mdash; like a cheating gambler enjoying stolen "
+            "gains. Rather than protest his own innocence, the Buddha's reply simply "
+            "describes what genuine progress on the path actually looks like: not "
+            "achieved by speaking or listening alone, but by understanding &lsquo;the "
+            "way of the world&rsquo; and being quenched by that understanding. The "
+            "accusation is left for the deities themselves to judge against this "
+            "description."]),
+        ("An apology, a smile, and a renewed attack", [
+            "The deities land, bow at the Buddha's feet, and apologize directly for their "
+            "foolish presumption &mdash; a moment of genuine humility this collection "
+            "rarely shows. The Buddha's response is recorded as a smile, one of very few "
+            "places in this collection where his emotional reaction is described "
+            "directly. Remarkably, the deities do not settle after apologizing: they "
+            "become &lsquo;even more fault-finding&rsquo; and fly back up to taunt him "
+            "again, this time about forgiveness itself."]),
+        ("A trap in the second taunt, and an answer that sidesteps it", [
+            "The deities' second taunt is a kind of trap: if you don't pardon a confessed "
+            "mistake, you're stuck in hidden enmity. The Buddha's reply doesn't take the "
+            "bait of self-defense; it questions the premise instead &mdash; if no "
+            "mistake had even been found, wouldn't settling any remaining enmity still be "
+            "skillful regardless? Only after the deities then ask directly who, if "
+            "anyone, never errs, does the Buddha answer plainly, naming himself, and "
+            "explicitly states: &lsquo;I pardon your mistake.&rsquo;"]),
+    ],
+    terms=[
+        ("ujjhānasaññī",
+         "&ldquo;fault-finding, perceiving blame&rdquo; &mdash; the name of this "
+         "discourse's deity host, and this discourse's title, distinct from the "
+         "Satullapakāyikā of the discourses before it."),
+        ("vehāsaṁ ṭhitā",
+         "&ldquo;standing in the air&rdquo; &mdash; the deities' confrontational posture, "
+         "contrasted with the respectful &lsquo;standing to one side&rsquo; used "
+         "elsewhere in this collection."),
+        ("lokassa gatiṁ",
+         "&ldquo;the way of the world&rdquo; &mdash; what the attentive are said to "
+         "understand, in the Buddha's non-defensive reply to the deities' accusation."),
+        ("sitaṁ pātvākāsi",
+         "&ldquo;smiled&rdquo; &mdash; the Buddha's described reaction to the deities' "
+         "apology, a rare direct description of his emotional response in this "
+         "collection."),
+        ("khamāmi te accayaṁ",
+         "&ldquo;I pardon your mistake&rdquo; &mdash; the Buddha's explicit, final "
+         "statement of forgiveness closing this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: an accusation, a non-defensive answer, an apology, a "
+        "renewed taunt, and an explicit pardon. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Fault-finding deities arrive, standing in the air"),
+        ("p", "&sect;1", "sn1.35:1.1-1.3"),
+        ("p", "&sect;2", "sn1.35:2.1-3.4"),
+        ("h3", "The Buddha's answer, without denial"),
+        ("p", "&sect;3", "sn1.35:4.1-5.4"),
+        ("h3", "An apology, a smile, and a renewed taunt"),
+        ("p", "&sect;4", "sn1.35:6.1-6.6"),
+        ("p", "&sect;5", "sn1.35:7.1-7.4"),
+        ("h3", "The Buddha turns the trap aside"),
+        ("p", "&sect;6", "sn1.35:8.1-8.4"),
+        ("h3", "Who never errs? A direct answer, and a pardon"),
+        ("p", "&sect;7", "sn1.35:9.1-9.4"),
+        ("p", "&sect;8", "sn1.35:10.1-11.6"),
+    ],
+    quiz=[
+        {"q": "How do the fault-finding deities' posture differ from other deities elsewhere in this collection?",
+         "opts": [
+             "They stand in the air, rather than approaching respectfully to one side",
+             "They kneel before the Buddha immediately",
+             "They remain invisible throughout the entire discourse",
+             "They arrive during the day rather than at night"],
+         "correct": 0,
+         "expl": "A physical detail marking confrontation before any words are spoken."},
+        {"q": "What do the deities accuse the Buddha of in their opening verses?",
+         "opts": [
+             "Hypocrisy, comparing him to a cheating gambler who profits from theft",
+             "Excessive generosity",
+             "Failing to teach at all",
+             "Breaking a specific monastic rule"],
+         "correct": 0,
+         "expl": "An accusation of pretending to be other than he really is."},
+        {"q": "How does the Buddha respond to this accusation?",
+         "opts": [
+             "He does not deny it directly; he describes what genuine attainment actually looks like",
+             "He angrily denies every word",
+             "He refuses to respond at all",
+             "He agrees the accusation is entirely correct"],
+         "correct": 0,
+         "expl": "A non-defensive answer, leaving the deities to judge for themselves."},
+        {"q": "What happens after the deities apologize for their presumption?",
+         "opts": [
+             "The Buddha smiles, and the deities become even more fault-finding, flying up to taunt him again",
+             "The Buddha immediately punishes them",
+             "The deities settle down permanently and never speak again",
+             "The discourse ends immediately after the apology"],
+         "correct": 0,
+         "expl": "A remarkably human, escalating turn rather than a tidy resolution."},
+        {"q": "What is the 'trap' in the deities' second taunt?",
+         "opts": [
+             "If he doesn't pardon a confessed mistake, he's accused of hidden enmity",
+             "They ask him to perform an impossible miracle",
+             "They demand he leave Jeta's Grove permanently",
+             "They ask him to name a successor"],
+         "correct": 0,
+         "expl": "A challenge designed to put the Buddha in a difficult position either way."},
+        {"q": "How does the Buddha's reply address this trap?",
+         "opts": [
+             "He questions the premise: even absent a found mistake, settling enmity would still be skillful",
+             "He falls directly into the trap and admits fault",
+             "He refuses to answer the question at all",
+             "He accuses the deities of lying"],
+         "correct": 0,
+         "expl": "Sidestepping the taunt rather than accepting its framing."},
+        {"q": "Who does the Buddha name as the one who 'makes no mistakes' and 'doesn't go astray'?",
+         "opts": [
+             "Himself, the Realized One",
+             "A specific deity in the group",
+             "No one; he says such a person cannot exist",
+             "Venerable Mogharāja"],
+         "correct": 0,
+         "expl": "A direct, plain answer once the deities ask the question outright."},
+        {"q": "What does the Buddha explicitly state at the discourse's close?",
+         "opts": [
+             "'I pardon your mistake'",
+             "'I will never pardon you'",
+             "'There was no mistake to begin with'",
+             "He says nothing further after naming himself"],
+         "correct": 0,
+         "expl": "Khamāmi te accayaṁ &mdash; explicit, final forgiveness."},
+        {"q": "What emotional reaction is the Buddha described as having in this discourse?",
+         "opts": [
+             "He smiled, in response to the deities' apology",
+             "He wept",
+             "He laughed uncontrollably",
+             "No emotional reaction is described anywhere in the discourse"],
+         "correct": 0,
+         "expl": "A rare direct description of the Buddha's emotional response in this collection."},
+        {"q": "What does 'lokassa gatiṁ' mean?",
+         "opts": [
+             "'The way of the world' &mdash; what the attentive are said to understand",
+             "'The end of the world'",
+             "'A type of deity'",
+             "'A monastery near Sāvatthī'"],
+         "correct": 0,
+         "expl": "Part of the Buddha's non-defensive answer to the deities' accusation."},
+    ],
+    marginalia=[
+        ("A hostile arrival", [
+            "standing in the air,",
+            "not to one side",
+        ]),
+        ("An accusation, unanswered directly", [
+            "a cheating gambler, they say &mdash;",
+            "he describes attainment instead",
+        ]),
+        ("A smile, then renewed taunting", [
+            "an apology given,",
+            "and taken up again",
+        ]),
+        ("A trap sidestepped, then pardon", [
+            "even without fault, settling is skillful &mdash;",
+            "&ldquo;I pardon your mistake&rdquo;",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.35/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.34.html">SN 1.34 &middot; There Are None</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.31.html">SN 1.31 &middot; Virtuous</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, with a very different, friendly deity host.",
+        "SN 1.36 &middot; Faith &mdash; the next discourse, returning to the "
+        "Satullapakāyikā host and its more familiar multi-deity form.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.36 — Saddhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 36, "Saddhā", "Faith",
+    meta_title="SN 1.36 — Faith | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Saddhāsutta — "
+        "two Satullapakāyikā deities speak, one on faith as a person's partner, the other "
+        "in three stanzas on diligence, ending without this vagga's usual closing "
+        "question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove; the friendly Satullapakāyikā "
+                    "host, returning after SN 1.35's hostile deities"),
+        ("Speakers", "Two deities, the second speaking three stanzas in a row"),
+        ("Form", "One short verse, then a longer three-stanza verse, with no closing "
+                 "question to the Buddha"),
+        ("Length", "~1.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("An open ending", "Unlike SN 1.31 through SN 1.33, this discourse ends without "
+                           "anyone asking who spoke best, or any reply from the Buddha"),
+    ],
+    why=(
+        "The first deity offers a single image: faith is a person's partner, and if "
+        "faithlessness doesn't linger, fame and heaven follow. The second deity then "
+        "speaks at greater length, across three stanzas: giving up anger and conceit "
+        "frees one from torment; the wise protect diligence as their best treasure, "
+        "unlike fools devoted to negligence; and diligent practice of absorption, rather "
+        "than negligence or erotic intimacy, leads to ultimate happiness. The discourse "
+        "then simply ends &mdash; without the &lsquo;who spoke best&rsquo; question or "
+        "the Buddha's own capping verse that closed several discourses earlier in this "
+        "vagga."),
+    guide=[
+        ("Faith as a companion, not a possession", [
+            "The first deity's image treats faith (<em>saddhā</em>) as a "
+            "<em>sahāyā</em>, a &lsquo;partner&rsquo; or companion, rather than something "
+            "simply held or lacked. The metaphor suggests faith accompanies a person "
+            "through their life the way a companion would, rather than functioning as a "
+            "static possession."]),
+        ("A verse nearly repeating SN 1.34, with one word changed", [
+            "The second deity's opening stanza &mdash; &lsquo;give up anger, get rid of "
+            "conceit, and get past all the fetters&rsquo; &mdash; is nearly identical to "
+            "a verse already met two discourses earlier, at SN 1.34: only "
+            "&lsquo;chains&rsquo; here replaces &lsquo;sufferings&rsquo; there as what "
+            "doesn't torment one who has nothing. The near-repetition, this time within "
+            "a few discourses of each other rather than across vaggas, shows this "
+            "particular verse circulating closely within this collection's own material."]),
+        ("Diligence as a treasure, negligence as folly", [
+            "The second stanza's image is direct: fools and simpletons devote themselves "
+            "to negligence, while the wise protect diligence &lsquo;as their best "
+            "treasure&rsquo; (<em>seṭṭhaṁ dhanaṁ</em>) &mdash; framing sustained "
+            "attentiveness not as a burden but as something valuable enough to actively "
+            "guard."]),
+        ("An ending without resolution", [
+            "This discourse simply stops after the second deity's third stanza, with no "
+            "one asking who spoke best and no closing verse from the Buddha. Compared "
+            "with SN 1.31 through SN 1.33's consistent pattern of ending in exactly that "
+            "way, this discourse's abrupt close is a reminder that the multi-deity "
+            "structure introduced earlier in this vagga is not a fixed template applied "
+            "identically every time."]),
+    ],
+    terms=[
+        ("saddhā",
+         "&ldquo;faith, confidence&rdquo; &mdash; this discourse's title, and the first "
+         "deity's central image."),
+        ("sahāyā",
+         "&ldquo;a partner, a companion&rdquo; &mdash; how the first deity's verse "
+         "describes faith's relationship to a person."),
+        ("pamādaṁ anuyuñjanti",
+         "&ldquo;devote themselves to negligence&rdquo; &mdash; the second deity's "
+         "description of fools and simpletons, contrasted with the wise."),
+        ("seṭṭhaṁ dhanaṁ",
+         "&ldquo;their best treasure&rdquo; &mdash; how the second deity's verse "
+         "describes diligence, framing it as something actively guarded rather than "
+         "merely practiced."),
+        ("paramaṁ sukhaṁ",
+         "&ldquo;ultimate happiness&rdquo; &mdash; what the second deity's closing line "
+         "says diligent practice of absorption leads to."),
+    ],
+    text_intro=(
+        "The discourse in full: two deities on faith and diligence, ending without this "
+        "vagga's usual closing question. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A first deity: faith as a partner"),
+        ("p", "&sect;1", "sn1.36:1.1-1.3"),
+        ("p", "&sect;2", "sn1.36:2.1-2.4"),
+        ("h3", "A second deity, in three stanzas"),
+        ("p", "&sect;3", "sn1.36:3.1-4.4"),
+        ("p", "&sect;4", "sn1.36:5.1-5.4"),
+        ("p", "&sect;5", "sn1.36:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What image does the first deity use for faith?",
+         "opts": [
+             "A partner or companion (sahāyā)",
+             "A weapon",
+             "A burden to be discarded",
+             "A type of sacrifice"],
+         "correct": 0,
+         "expl": "Faith accompanies a person, rather than being merely held or lacked."},
+        {"q": "What does the first deity's verse say happens when faithlessness doesn't linger?",
+         "opts": [
+             "Fame and renown are theirs, and they go to heaven",
+             "They immediately lose all their possessions",
+             "Nothing changes at all",
+             "They are reborn as deities of the Thirty-Three specifically"],
+         "correct": 0,
+         "expl": "The consequence the first deity's verse names for sustained faith."},
+        {"q": "How does the second deity's opening stanza relate to a verse at SN 1.34?",
+         "opts": [
+             "It is nearly identical, with 'chains' replacing 'sufferings' as what doesn't torment one who has nothing",
+             "It is completely unrelated to anything in SN 1.34",
+             "It directly contradicts SN 1.34's verse",
+             "It quotes SN 1.34 word for word with no changes at all"],
+         "correct": 0,
+         "expl": "A near-repetition within a few discourses, showing this verse circulating closely within the collection."},
+        {"q": "What does the second deity's second stanza say the wise protect as their best treasure?",
+         "opts": [
+             "Diligence",
+             "Wealth",
+             "Social status",
+             "Physical strength"],
+         "correct": 0,
+         "expl": "Seṭṭhaṁ dhanaṁ &mdash; framing diligence as actively guarded, not merely practiced."},
+        {"q": "What does the second deity's third stanza name as leading to ultimate happiness?",
+         "opts": [
+             "Being diligent and practicing absorption, rather than negligence or erotic intimacy",
+             "Accumulating as much wealth as possible",
+             "Avoiding all forms of meditation",
+             "Seeking out sensual pleasure directly"],
+         "correct": 0,
+         "expl": "Paramaṁ sukhaṁ &mdash; the stanza's closing claim."},
+        {"q": "How does this discourse's ending differ from SN 1.31 through SN 1.33?",
+         "opts": [
+             "It ends without anyone asking who spoke best, and without a closing verse from the Buddha",
+             "It ends with an even longer question-and-answer exchange",
+             "It ends identically to those three discourses in every respect",
+             "It has no ending at all; the text is incomplete"],
+         "correct": 0,
+         "expl": "A reminder that this vagga's multi-deity structure isn't applied identically every time."},
+        {"q": "How many deities speak in this discourse?",
+         "opts": [
+             "Two",
+             "Six",
+             "One",
+             "Four"],
+         "correct": 0,
+         "expl": "A first deity with a single verse, and a second with three stanzas."},
+        {"q": "What deity host does this discourse return to, after SN 1.35's hostile deities?",
+         "opts": [
+             "The friendly Satullapakāyikā host",
+             "The Pure Abode deities",
+             "The deities of the Thirty-Three",
+             "No deities appear in this discourse"],
+         "correct": 0,
+         "expl": "The same host from SN 1.31 through SN 1.34, resumed here."},
+        {"q": "What does 'pamādaṁ anuyuñjanti' describe?",
+         "opts": [
+             "Devoting oneself to negligence, the behavior of fools and simpletons",
+             "The wise protecting diligence",
+             "A type of deity",
+             "A monastery near Sāvatthī"],
+         "correct": 0,
+         "expl": "Contrasted directly with the wise, who protect diligence instead."},
+        {"q": "What does 'saddhā' mean?",
+         "opts": [
+             "'Faith, confidence'",
+             "'Anger'",
+             "'Conceit'",
+             "'Negligence'"],
+         "correct": 0,
+         "expl": "This discourse's title and the first deity's central subject."},
+    ],
+    marginalia=[
+        ("Faith, as companion", [
+            "sahāyā &mdash; a partner,",
+            "not a possession",
+        ]),
+        ("A near-repeat, close by", [
+            "chains, not sufferings &mdash;",
+            "echoing SN 1.34",
+        ]),
+        ("Diligence, guarded", [
+            "seṭṭhaṁ dhanaṁ &mdash;",
+            "the wise protect it as treasure",
+        ]),
+        ("No question asked", [
+            "the discourse simply ends &mdash;",
+            "no verdict, no reply",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.36/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.35.html">SN 1.35 &middot; Fault-Finding Deities</a> &mdash; the '
+        "discourse immediately before this one, with a very different, hostile host.",
+        '<a href="sn-1.34.html">SN 1.34 &middot; There Are None</a> &mdash; the source '
+        "of this discourse's nearly repeated opening stanza.",
+        "SN 1.37 &middot; The Congregation &mdash; the next discourse, an entirely "
+        "different setting with deities gathered from ten world-systems.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.37 — Samayasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 37, "Samaya", "The Congregation",
+    meta_title="SN 1.37 — The Congregation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Samayasutta — "
+        "four deities of the Pure Abodes each praise the vast gathered Saṅgha of five "
+        "hundred arahants at Kapilavatthu, in a scene closely paralleling the Mahāsamaya "
+        "Sutta (DN 20). From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Kapilavatthu, in the Sakyan lands, at the Great Wood &mdash; a "
+                    "setting entirely new to this vagga, with a Saṅgha of five hundred "
+                    "arahants and deities gathered from ten world-systems"),
+        ("Speakers", "Four deities of the Pure Abodes (<em>Suddhāvāsa</em>), each "
+                    "reciting one verse in turn"),
+        ("Form", "A brief narrated frame, followed by four independent verses of praise, "
+                 "with no closing question or reply"),
+        ("Length", "~1.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; direct in form, with "
+                       "one especially vivid martial image"),
+        ("A famous parallel", "This discourse's setting and premise closely parallel the "
+                              "opening of the Mahāsamaya Sutta (DN 20), which describes "
+                              "the same or a very similar gathering at much greater "
+                              "length"),
+    ],
+    why=(
+        "This discourse opens on an unusually large scale: the Buddha at Kapilavatthu "
+        "with a Saṅgha of five hundred mendicants, every one of them a perfected arahant, "
+        "and most of the deities from ten entire world-systems gathered to see them. Four "
+        "deities of the Pure Abodes, noticing this, decide together to approach the "
+        "Buddha and each recite a verse. What follows is not debate or riddle but praise "
+        "&mdash; four distinct images of the gathered Saṅgha's discipline, restraint, "
+        "strength, and the safety of taking refuge in it."),
+    guide=[
+        ("A scale unlike any earlier discourse in this vagga", [
+            "Five hundred arahants and deities from ten world-systems is a vastly larger "
+            "gathering than any earlier discourse in this collection describes. The four "
+            "Pure Abode deities' shared decision to each recite a verse &mdash; rather "
+            "than one deity speaking alone, or several building a single refrain "
+            "&mdash; introduces yet another variation on this vagga's multi-speaker "
+            "structure."]),
+        ("A famous parallel scene, briefly told", [
+            "This same premise &mdash; the Buddha and his Saṅgha at the Great Wood near "
+            "Kapilavatthu, with deities from across the cosmos gathering to see them "
+            "&mdash; is the opening scene of the Mahāsamaya Sutta (DN 20), a much longer "
+            "discourse that goes on to name dozens of deities in an extended roll call. "
+            "This discourse gives the same basic scene in compact form, with only its "
+            "four Pure Abode deities speaking."]),
+        ("Reins, and a torn-out gatepost", [
+            "The second deity's charioteer-and-reins image for sense-restraint is a "
+            "familiar figure of controlled attention; the third deity's image is far more "
+            "startling &mdash; the mendicants described as having &lsquo;snapped the post "
+            "and snapped the cross-bar&rsquo; and &lsquo;torn out Indra's pillar,&rsquo; "
+            "the massive gatepost marking a city's boundary. Read alongside the "
+            "traditional gloss, this pictures the arahants' strength as sufficient to "
+            "break through obstacles &mdash; the fetters and hindrances &mdash; that "
+            "would stop an ordinary traveler entirely."]),
+        ("Refuge, and its stated benefit", [
+            "The fourth deity's verse closes the discourse on a more practical note: "
+            "anyone who has gone to the Buddha for refuge will not fall to a plane of "
+            "loss, and after this human life will instead join &lsquo;the hosts of "
+            "gods.&rsquo; Unlike the discourse's first three verses, which describe the "
+            "Saṅgha itself, this final verse addresses what taking refuge does for the "
+            "one who takes it."]),
+    ],
+    terms=[
+        ("suddhāvāsa",
+         "the &ldquo;Pure Abodes,&rdquo; a set of heavenly realms reserved for "
+         "non-returners &mdash; the four deities who speak in this discourse belong to "
+         "this specific class."),
+        ("dasahi lokadhātūhi",
+         "&ldquo;from ten world-systems&rdquo; &mdash; the scale of deities said to have "
+         "gathered, indicating a cosmically significant occasion."),
+        ("sārathīva nettāni gahetvā",
+         "&ldquo;like a charioteer holding the reins&rdquo; &mdash; the second deity's "
+         "image, a common figure elsewhere in the canon for restraining the senses."),
+        ("indakhīla",
+         "&ldquo;Indra's pillar,&rdquo; the massive gatepost marking a city's boundary "
+         "&mdash; the third deity's image of something torn out by the mendicants' "
+         "unshaken strength."),
+        ("apāyaṁ na gacchati",
+         "&ldquo;won't go to a plane of loss&rdquo; &mdash; the specific benefit the "
+         "fourth deity's verse attributes to going to the Buddha for refuge."),
+    ],
+    text_intro=(
+        "The discourse in full: a vast gathering, and four deities' praise of the "
+        "assembled Saṅgha. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A vast gathering, and four deities' shared plan"),
+        ("p", "&sect;1", "sn1.37:1.1-1.7"),
+        ("h3", "Four verses of praise"),
+        ("p", "&sect;2", "sn1.37:2.1-3.4"),
+        ("p", "&sect;3", "sn1.37:4.1-5.4"),
+        ("p", "&sect;4", "sn1.37:6.1-7.4"),
+        ("p", "&sect;5", "sn1.37:8.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What scale of gathering does this discourse describe?",
+         "opts": [
+             "Five hundred arahant mendicants and deities gathered from ten world-systems",
+             "A single deity visiting alone",
+             "Two deities in casual conversation",
+             "A small group of six local villagers"],
+         "correct": 0,
+         "expl": "A vastly larger occasion than any earlier discourse in this collection."},
+        {"q": "Who decides to approach the Buddha and recite verses?",
+         "opts": [
+             "Four deities of the Pure Abodes (Suddhāvāsa)",
+             "The five hundred mendicants themselves",
+             "A single unnamed deity",
+             "King Suddhodana"],
+         "correct": 0,
+         "expl": "A specific class of deity, reserved for non-returners."},
+        {"q": "What famous discourse elsewhere in the canon shares this discourse's basic setting?",
+         "opts": [
+             "The Mahāsamaya Sutta (DN 20)",
+             "The Dhammapada",
+             "The Visuddhimagga",
+             "No comparable discourse exists elsewhere"],
+         "correct": 0,
+         "expl": "A much longer discourse describing the same or a very similar gathering."},
+        {"q": "What image does the second deity use for sense-restraint?",
+         "opts": [
+             "A charioteer holding the reins",
+             "A tortoise withdrawing into its shell",
+             "A sword striking its target",
+             "Dust thrown against the wind"],
+         "correct": 0,
+         "expl": "A familiar figure elsewhere in the canon for controlled attention."},
+        {"q": "What striking image does the third deity's verse use?",
+         "opts": [
+             "The mendicants have snapped a post and cross-bar and torn out Indra's pillar, a massive gatepost",
+             "The mendicants have built an entirely new city",
+             "The mendicants have crossed a great ocean",
+             "The mendicants have planted a garden"],
+         "correct": 0,
+         "expl": "An image of strength sufficient to break through what would stop an ordinary traveler."},
+        {"q": "What benefit does the fourth deity's verse attribute to taking refuge in the Buddha?",
+         "opts": [
+             "Not falling to a plane of loss, and joining the hosts of gods after this life",
+             "Immediate wealth in this present life",
+             "Freedom from all illness",
+             "No stated benefit is given"],
+         "correct": 0,
+         "expl": "The discourse's only verse addressing the benefit to the one who takes refuge, rather than describing the Saṅgha itself."},
+        {"q": "How many verses do the four deities recite in total?",
+         "opts": [
+             "Four, one from each deity",
+             "One shared verse recited together",
+             "Twelve, three from each deity",
+             "No verses are recited; only prose is used"],
+         "correct": 0,
+         "expl": "Each of the four Pure Abode deities speaks exactly once."},
+        {"q": "Does this discourse end with a question asking who spoke best?",
+         "opts": [
+             "No &mdash; it ends after the fourth deity's verse, with no closing exchange",
+             "Yes, followed by a long debate",
+             "Yes, and the Buddha names a winner",
+             "The discourse has no ending at all"],
+         "correct": 0,
+         "expl": "A structure without this vagga's earlier closing-question pattern."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Kapilavatthu, in the Sakyan lands, at the Great Wood",
+             "Near Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, at the Hot Springs Monastery",
+             "Near Vesālī, at the peaked-roof hall"],
+         "correct": 0,
+         "expl": "An entirely new setting for this vagga, distinct from the recurring Sāvatthī frame."},
+        {"q": "What are the 'Pure Abodes'?",
+         "opts": [
+             "A set of heavenly realms reserved for non-returners",
+             "A type of monastery on earth",
+             "A realm reserved exclusively for humans",
+             "A name for the human plane of existence"],
+         "correct": 0,
+         "expl": "The specific class of deity the four speaking deities belong to."},
+    ],
+    marginalia=[
+        ("A vast assembly", [
+            "five hundred arahants,",
+            "deities from ten worlds",
+        ]),
+        ("A famous parallel", [
+            "the same scene, briefly told,",
+            "as DN 20&rsquo;s opening",
+        ]),
+        ("Reins, then a torn gatepost", [
+            "controlled senses,",
+            "unshakeable strength",
+        ]),
+        ("Refuge, and its benefit", [
+            "no plane of loss &mdash;",
+            "the hosts of gods instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.37/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.36.html">SN 1.36 &middot; Faith</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.29.html">SN 1.29 &middot; Four Wheels</a> &mdash; an earlier '
+        "discourse in this collection also using imagery of restraint under control.",
+        "SN 1.38 &middot; A Splinter &mdash; the next discourse, seven hundred deities "
+        "praising the Buddha's endurance of physical pain.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.38 — Sakalikasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 38, "Sakalika", "A Splinter",
+    meta_title="SN 1.38 — A Splinter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Sakalikasutta — "
+        "the Buddha endures a foot wound with unbroken mindfulness, seven hundred "
+        "deities praise him through six animal similes, and closing verses repeat SN "
+        "1.9's teaching on conceit and diligence. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, at the Maddakucchi deer park &mdash; a new setting "
+                    "for this vagga, prompted by a physical injury to the Buddha "
+                    "himself"),
+        ("Speakers", "The narrator describing the Buddha's own conduct, then seven "
+                    "deities in turn, the last introducing closing verses"),
+        ("Form", "A narrated account of physical endurance, six brief similes from six "
+                 "deities, a seventh deity's fuller reflection, and closing verses"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; direct in form, with "
+                       "a psychologically precise closing description of freedom"),
+        ("An injury, not explained here", "This discourse doesn't say how the splinter "
+                                          "came to wound the Buddha's foot; later "
+                                          "tradition elsewhere in the canon associates a "
+                                          "similar injury with Devadatta's attempt on his "
+                                          "life by rolling a boulder"),
+    ],
+    why=(
+        "This discourse opens not with a deity's question but with an injury: the "
+        "Buddha's foot has been cut by a wooden splinter, and he is described as "
+        "stricken by sharp, severe pain &mdash; which he endures unbothered, mindful and "
+        "aware, before lying down deliberately in the lion's posture. Seven hundred "
+        "deities arrive and, one after another, compare him to an elephant, a lion, a "
+        "thoroughbred, a boss bull, and a behemoth, before a seventh deity describes his "
+        "freedom directly: not leaning forward, not pulling back, and not held in place "
+        "by forceful suppression. Closing verses then contrast a century of futile "
+        "ascetic mortification with the same two verses on conceit and diligence already "
+        "met earlier in this collection, at SN 1.9."),
+    guide=[
+        ("Pain endured, not denied", [
+            "The narration is specific about the pain's intensity &mdash; "
+            "&lsquo;painful, sharp, severe, acute, unpleasant, and disagreeable&rsquo; "
+            "&mdash; rather than minimizing it. What distinguishes the Buddha's response "
+            "is not an absence of pain but enduring it &lsquo;unbothered, with "
+            "mindfulness and situational awareness,&rsquo; a description of composure "
+            "under real discomfort rather than an absence of discomfort altogether."]),
+        ("Six similes, one refrain, six animals", [
+            "Six deities in turn compare the Buddha to an elephant, a lion, a "
+            "thoroughbred, a boss bull, a behemoth, and finally someone simply "
+            "&lsquo;truly tamed&rsquo; &mdash; each repeating an identical description "
+            "of enduring painful feelings unbothered, changing only the single noun "
+            "naming what kind of formidable being he resembles. This is the densest "
+            "instance yet in this collection of the &lsquo;same refrain, different "
+            "single word&rsquo; pattern already met with pairs of discourses; here it "
+            "spans six speakers in one."]),
+        ("A seventh deity names the freedom directly", [
+            "Where the first six deities reach for comparison, the seventh describes the "
+            "Buddha's actual inner state: immersion well developed, mind well freed "
+            "&mdash; &lsquo;not leaning forward or pulling back, and not held in place by "
+            "forceful suppression.&rsquo; Three distinct ways of failing to achieve real "
+            "balance are named and set aside together: grasping forward toward what is "
+            "wanted, recoiling from what is not, and merely forcing stillness through "
+            "suppression rather than genuine release."]),
+        ("A closing verse this collection has already used", [
+            "The two verses that close this discourse &mdash; on conceit preventing "
+            "taming, and on giving up conceit to cross beyond Death's dominion &mdash; "
+            "are word for word the same two verses that closed SN 1.9, much earlier in "
+            "this collection. There, they answered a deity's challenge about conceit and "
+            "solitary wilderness practice; here, the identical verses instead cap a "
+            "reflection on enduring severe physical pain without complaint &mdash; the "
+            "same teaching applied to a different circumstance entirely."]),
+    ],
+    terms=[
+        ("sakalika",
+         "&ldquo;a splinter, a chip&rdquo; &mdash; this discourse's title, naming the "
+         "cause of the Buddha's physical pain."),
+        ("sato sampajāno adhivāsesi",
+         "&ldquo;he endured unbothered, with mindfulness and situational "
+         "awareness&rdquo; &mdash; the description this discourse repeats for how the "
+         "Buddha met his pain."),
+        ("purisanāgaṁ purisasīhaṁ",
+         "&ldquo;an elephant of a man, a lion of a man&rdquo; &mdash; two of the six "
+         "animal-comparisons the seven hundred deities offer in turn."),
+        ("na cābhinataṁ na cāpanataṁ",
+         "&ldquo;not leaning forward, not pulling back&rdquo; &mdash; the seventh "
+         "deity's precise description of the Buddha's freed mind, naming two failure "
+         "modes rather than describing the freedom only in positive terms."),
+        ("na ca sasaṅkhāraniggayhavāritagataṁ",
+         "&ldquo;not held in place by forceful suppression&rdquo; &mdash; the third "
+         "failure mode named, distinguishing genuine release from mere forced "
+         "stillness."),
+    ],
+    text_intro=(
+        "The discourse in full: an injury endured with mindfulness, six animal similes, "
+        "a direct description of freedom, and closing verses shared with SN 1.9. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha, wounded and unshaken"),
+        ("p", "&sect;1", "sn1.38:1.1-1.6"),
+        ("h3", "Seven hundred deities, six similes"),
+        ("p", "&sect;2", "sn1.38:2.1-7.3"),
+        ("h3", "A seventh deity names the freedom directly"),
+        ("p", "&sect;3", "sn1.38:8.1-8.3"),
+        ("h3", "Closing verses, shared with SN 1.9"),
+        ("p", "&sect;4", "sn1.38:9.1-10.4"),
+        ("p", "&sect;5", "sn1.38:11.1-12.4"),
+    ],
+    quiz=[
+        {"q": "How was the Buddha's foot injured in this discourse?",
+         "opts": [
+             "Cut by a wooden splinter; the text does not explain how it got there",
+             "Bitten by a snake",
+             "Struck by lightning",
+             "Injured by a fall from a tree"],
+         "correct": 0,
+         "expl": "The immediate cause given; later tradition elsewhere links a similar injury to Devadatta."},
+        {"q": "How is the Buddha's response to the pain described?",
+         "opts": [
+             "He endured it unbothered, with mindfulness and situational awareness, without the pain itself being denied",
+             "He felt no pain whatsoever",
+             "He cried out in visible distress",
+             "He immediately sought medical treatment and refused to continue teaching"],
+         "correct": 0,
+         "expl": "Composure under real discomfort, not an absence of discomfort."},
+        {"q": "What pattern do the first six deities' verses follow?",
+         "opts": [
+             "An identical description of enduring pain, changing only a single animal comparison each time",
+             "Six completely unrelated statements with no shared structure",
+             "A debate among the deities about whether the Buddha is truly unbothered",
+             "Six separate riddles, each with a different answer"],
+         "correct": 0,
+         "expl": "The densest instance in this collection of the 'same refrain, different word' pattern."},
+        {"q": "What does the seventh deity describe, distinct from the first six?",
+         "opts": [
+             "The Buddha's actual inner state directly, rather than reaching for a comparison",
+             "A different physical ailment entirely",
+             "The deity's own past lives",
+             "A request for the Buddha to teach the entire assembly"],
+         "correct": 0,
+         "expl": "Naming three specific failure modes of imbalance the Buddha's mind is free from."},
+        {"q": "What three failure modes does the seventh deity's verse name and set aside?",
+         "opts": [
+             "Leaning forward, pulling back, and forced suppression",
+             "Hunger, thirst, and fatigue",
+             "Wealth, fame, and power",
+             "Speech, thought, and physical action"],
+         "correct": 0,
+         "expl": "Grasping toward what is wanted, recoiling from what is not, and merely forcing stillness."},
+        {"q": "What earlier discourse in this collection do this discourse's closing two verses repeat word for word?",
+         "opts": [
+             "SN 1.9, on conceit and solitary wilderness practice",
+             "SN 1.1, on crossing the flood",
+             "SN 1.20, With Samiddhi",
+             "No earlier discourse shares these verses"],
+         "correct": 0,
+         "expl": "The identical verses applied to a new circumstance, physical pain endured."},
+        {"q": "What does the closing teaching say about a century of Vedic-learned brahmins' austerity?",
+         "opts": [
+             "Their minds are not properly freed, despite the mortification",
+             "It always leads directly to full liberation",
+             "It is praised without qualification",
+             "It is not mentioned in this discourse at all"],
+         "correct": 0,
+         "expl": "A critique preceding the repeated verses on conceit and diligence."},
+        {"q": "How many deities are said to have gathered in this discourse?",
+         "opts": [
+             "Seven hundred",
+             "Seven",
+             "Seventy",
+             "Seven thousand"],
+         "correct": 0,
+         "expl": "One of the largest explicitly named deity-counts in this collection."},
+        {"q": "What posture does the Buddha adopt after enduring the pain?",
+         "opts": [
+             "The lion's posture, lying on his right side with one foot on the other, mindful and aware",
+             "Standing upright throughout",
+             "Seated in full lotus posture only",
+             "No posture is described"],
+         "correct": 0,
+         "expl": "A deliberate, composed posture rather than a collapse from pain."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Near Rājagaha, at the Maddakucchi deer park",
+             "Near Sāvatthī, in Jeta's Grove",
+             "Near Kapilavatthu, at the Great Wood",
+             "Near Vesālī, at the peaked-roof hall"],
+         "correct": 0,
+         "expl": "A new setting for this vagga, distinct from its recurring Sāvatthī frame."},
+    ],
+    marginalia=[
+        ("Pain, named plainly", [
+            "sharp, severe, acute &mdash;",
+            "endured unbothered",
+        ]),
+        ("Six animals, one refrain", [
+            "elephant, lion, thoroughbred,",
+            "bull, behemoth, tamed",
+        ]),
+        ("Freedom, described directly", [
+            "not leaning forward,",
+            "not held by force",
+        ]),
+        ("A verse returning", [
+            "SN 1.9&rsquo;s teaching,",
+            "now applied to pain endured",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.38/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.37.html">SN 1.37 &middot; The Congregation</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.9.html">SN 1.9 &middot; Fond of Conceit</a> &mdash; the source of '
+        "this discourse's closing two verses.",
+        "SN 1.39 &middot; With Pajjunna's Daughter (1st) &mdash; the next discourse, a "
+        "named deity's devotional verses at Vesālī.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.39 — Paṭhamapajjunnadhītusutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 39, "Paṭhamapajjunnadhītu", "With Pajjunna's Daughter (1st)",
+    meta_title="SN 1.39 — With Pajjunna's Daughter (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Paṭhamapajjunnadhītusutta — Kokanadā, a deity named by her own father's name, "
+        "describes moving from hearsay to witnessed knowledge of the teaching, at "
+        "Vesālī. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Vesālī, at the Great Wood, in the hall with the peaked roof "
+                    "&mdash; a new setting for this vagga"),
+        ("Speakers", "Kokanadā, Pajjunna's daughter, speaking alone in devotional verse"),
+        ("Form", "Four four-line verses of praise and reflection, with no dialogue or "
+                 "reply from the Buddha"),
+        ("Length", "~1.5 minutes to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("A named individual, with a named father", "The first deity in this vagga "
+                                                     "identified both by her own personal "
+                                                     "name and by her parentage, rather "
+                                                     "than as an unnamed member of a "
+                                                     "group"),
+    ],
+    why=(
+        "Unlike the group discourses earlier in this vagga, this one gives a single "
+        "named individual the entire floor: Kokanadā, identified as the daughter of "
+        "Pajjunna, arrives at Vesālī and speaks four verses of her own, naming herself "
+        "within her own speech, describing a shift from merely having heard the teaching "
+        "to now knowing it &lsquo;as a witness&rsquo; while the Buddha himself teaches, "
+        "and closing with the contrasting fates of those who denounce the teaching and "
+        "those who accept it."),
+    guide=[
+        ("A named individual, not a group", [
+            "Every deity discourse so far in this vagga has featured either an unnamed "
+            "single deity, an unnamed collective host, or a specific but unnamed class "
+            "(the Pure Abode deities, the fault-finders). This discourse is the first to "
+            "name its speaker personally, and by parentage &mdash; &lsquo;Pajjunna's "
+            "daughter&rsquo; identifies her specifically as the offspring of Pajjunna, a "
+            "deity elsewhere associated with rain."]),
+        ("Naming herself, mid-speech", [
+            "Kokanadā's own verse names herself in the third person even as she speaks "
+            "&mdash; &lsquo;Kokanadā am I who worships him&rsquo; &mdash; a somewhat "
+            "unusual self-referential convention, closer to formal self-introduction "
+            "than to the anonymous questions most deities in this collection ask."]),
+        ("From hearsay to witnessed knowledge", [
+            "Her second verse draws a specific epistemological distinction: "
+            "&lsquo;previously I had only heard the teaching realized by the Clear-eyed "
+            "One&rsquo;; now, listening to the Buddha teach directly, she knows it "
+            "&lsquo;as a witness&rsquo; (<em>sakkhi</em>) &mdash; a distinction between "
+            "secondhand report and personally verified knowing, made explicit rather "
+            "than assumed."]),
+        ("Denouncing the teaching, and its stated cost", [
+            "The closing two verses contrast sharply: those who go about denouncing the "
+            "teaching of the noble ones fall to the &lsquo;terrible Hell of Screams&rsquo; "
+            "(<em>roruva</em>) and suffer there long, while those who find acceptance and "
+            "peace in the same teaching swell the hosts of gods after this life. The "
+            "consequence named is specifically for denunciation of the teaching, not for "
+            "unrelated wrongdoing."]),
+    ],
+    terms=[
+        ("pajjunna",
+         "a deity elsewhere associated with rain; Kokanadā is identified throughout this "
+         "discourse specifically as his daughter."),
+        ("kokanadā",
+         "the name of the deity who speaks this discourse's verses, naming herself "
+         "within her own speech."),
+        ("sakkhi",
+         "&ldquo;as a witness, firsthand&rdquo; &mdash; how Kokanadā describes her "
+         "present knowledge of the teaching, contrasted with merely having heard of it "
+         "before."),
+        ("cakkhumantena desite",
+         "&ldquo;taught by the Clear-eyed One&rdquo; &mdash; her description of the "
+         "Buddha as the teaching's source, using an epithet for clear vision."),
+        ("roruva",
+         "the &ldquo;Hell of Screams,&rdquo; the specific destination this discourse "
+         "names for those who denounce the teaching of the noble ones."),
+    ],
+    text_intro=(
+        "The discourse in full: a named deity's verses on witnessed knowledge and the "
+        "cost of denouncing the teaching. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Kokanadā arrives at Vesālī"),
+        ("p", "&sect;1", "sn1.39:1.1-1.4"),
+        ("p", "&sect;2", "sn1.39:2.1-2.4"),
+        ("h3", "From hearsay to witnessed knowledge"),
+        ("p", "&sect;3", "sn1.39:3.1-3.4"),
+        ("h3", "Two fates, contrasted"),
+        ("p", "&sect;4", "sn1.39:4.1-4.4"),
+        ("p", "&sect;5", "sn1.39:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How is the speaker of this discourse identified, unlike earlier discourses in this vagga?",
+         "opts": [
+             "By a personal name and by parentage, rather than as unnamed or an unnamed group",
+             "By no identification of any kind",
+             "Only by her physical appearance",
+             "Only by the name of her husband"],
+         "correct": 0,
+         "expl": "Kokanadā, Pajjunna's daughter &mdash; the first such naming in this vagga."},
+        {"q": "What deity is Kokanadā identified as the daughter of?",
+         "opts": [
+             "Pajjunna, a deity elsewhere associated with rain",
+             "Sakka, ruler of the Thirty-Three",
+             "Brahmā",
+             "No father is named"],
+         "correct": 0,
+         "expl": "Named directly in this discourse's title and opening verse."},
+        {"q": "How does Kokanadā's second verse describe her present knowledge of the teaching?",
+         "opts": [
+             "As witnessed firsthand (sakkhi), contrasted with merely having heard of it before",
+             "As entirely uncertain and unverified",
+             "As identical to what she had always known",
+             "As learned only from another deity, never from the Buddha directly"],
+         "correct": 0,
+         "expl": "A specific distinction between secondhand report and personally verified knowing."},
+        {"q": "What fate does the third verse describe for those who denounce the teaching?",
+         "opts": [
+             "Falling to the Hell of Screams (roruva) and suffering there long",
+             "Immediate rebirth as deities",
+             "No consequence at all",
+             "Becoming wealthy in their next life"],
+         "correct": 0,
+         "expl": "A specific, named destination for this specific offense."},
+        {"q": "What fate does the fourth verse describe for those who accept the teaching?",
+         "opts": [
+             "Swelling the hosts of gods after giving up their human body",
+             "Falling to the Hell of Screams",
+             "Remaining permanently as humans",
+             "No fate is described for them"],
+         "correct": 0,
+         "expl": "A contrasting destination to the one named for denouncers."},
+        {"q": "How does Kokanadā refer to herself within her own verse?",
+         "opts": [
+             "In the third person, naming herself directly as she speaks",
+             "She never names herself at all",
+             "Only in the first person, with no name given",
+             "By a different name than the discourse's title uses"],
+         "correct": 0,
+         "expl": "An unusual, formal self-introduction within the verse itself."},
+        {"q": "Does this discourse contain any reply from the Buddha?",
+         "opts": [
+             "No &mdash; it consists entirely of Kokanadā's own four verses",
+             "Yes, an extensive prose reply",
+             "Yes, a single short verse in response",
+             "The Buddha asks her a counter-question"],
+         "correct": 0,
+         "expl": "A solo devotional discourse, unlike the dialogic discourses elsewhere in this collection."},
+        {"q": "What does 'cakkhumantena' refer to?",
+         "opts": [
+             "The Buddha, described by an epithet for clear vision ('the Clear-eyed One')",
+             "A type of deity",
+             "A monastery near Vesālī",
+             "A specific meditation technique"],
+         "correct": 0,
+         "expl": "Kokanadā's description of the teaching's source."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Near Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "Near Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, at the Maddakucchi deer park",
+             "Near Kapilavatthu, at the Great Wood"],
+         "correct": 0,
+         "expl": "A new setting for this vagga, shared with the discourse immediately following it."},
+        {"q": "What does 'sakkhi' mean?",
+         "opts": [
+             "'As a witness, firsthand'",
+             "'By hearsay only'",
+             "'Never known'",
+             "'A type of hell'"],
+         "correct": 0,
+         "expl": "Kokanadā's description of her present, verified knowledge of the teaching."},
+    ],
+    marginalia=[
+        ("A name, and a father named", [
+            "Kokanadā,",
+            "Pajjunna&rsquo;s daughter",
+        ]),
+        ("From hearing to witnessing", [
+            "once only heard of,",
+            "now known firsthand",
+        ]),
+        ("Denouncers, and their fate", [
+            "the Hell of Screams,",
+            "suffering long",
+        ]),
+        ("Acceptance, and its fate", [
+            "peace found in the teaching &mdash;",
+            "swelling the hosts of gods",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.39/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.38.html">SN 1.38 &middot; A Splinter</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.37.html">SN 1.37 &middot; The Congregation</a> &mdash; an earlier '
+        "discourse in this vagga also set outside the usual Sāvatthī frame.",
+        "SN 1.40 &middot; With Pajjunna's Daughter (2nd) &mdash; the next discourse, "
+        "this vagga's last, spoken by a second deity of the same name and parentage.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.40 — Dutiyapajjunnadhītusutta (closes the Satullapakāyikavagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 40, "Dutiyapajjunnadhītu", "With Pajjunna's Daughter (2nd)",
+    meta_title="SN 1.40 — With Pajjunna's Daughter (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Dutiyapajjunnadhītusutta — Kokanadā the Younger states the teaching's meaning "
+        "in brief, using the same verse that closed SN 1.20 as a deity's own uncertain "
+        "paraphrase. Closes the Satullapakāyikavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Vesālī, at the Great Wood, in the hall with the peaked roof "
+                    "&mdash; the same setting as the discourse immediately before it"),
+        ("Speakers", "Kokanadā the Younger, Pajjunna's daughter, speaking alone in "
+                    "devotional verse"),
+        ("Form", "Three four-line verses of praise and summary, closing this vagga"),
+        ("Length", "~1.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; short, but its "
+                       "closing verse rewards comparison with an earlier discourse"),
+        ("Closing this vagga", "The tenth and last discourse of the Satullapakāyikavagga, "
+                               "whose own closing colophon names the vagga as finished"),
+    ],
+    why=(
+        "A second deity named Kokanadā, also identified as Pajjunna's daughter, arrives "
+        "at the same Vesālī setting as the discourse immediately before this one, "
+        "described as beautiful as a flash of lightning. She acknowledges that the "
+        "teaching could be analyzed in many different ways, but chooses to state its "
+        "meaning briefly, as far as she has learned it by heart &mdash; and the verse she "
+        "then recites is, word for word, the same verse that closed SN 1.20, much "
+        "earlier in this collection, where an unnamed deity offered it as her own "
+        "uncertain paraphrase of a teaching the Buddha never directly confirmed."),
+    guide=[
+        ("A second Kokanadā, at the same setting", [
+            "This discourse shares its setting exactly with the one before it, and its "
+            "speaker shares the name and parentage of the deity who spoke there &mdash; "
+            "&lsquo;Kokanadā the Younger&rsquo; distinguishing her from her predecessor "
+            "without explaining their relationship further. The pairing of two same-named "
+            "deities at one setting closes this vagga the way SN 1.39 and SN 1.40 close "
+            "it together, as a matched set."]),
+        ("Choosing brevity over exhaustive analysis", [
+            "Kokanadā the Younger's second verse makes an explicit choice: the teaching "
+            "could be analyzed &lsquo;in many different ways,&rsquo; but she will state "
+            "its meaning briefly, limited to what she has &lsquo;learned it by "
+            "heart.&rsquo; The modesty of this framing, naming the limits of her own "
+            "memorized understanding, sits close to her namesake's emphasis on witnessed "
+            "rather than merely reported knowledge at SN 1.39."]),
+        ("The same verse, given very differently", [
+            "The verse she recites &mdash; never do wrong by speech, mind, or body; "
+            "having given up sensual pleasures, don't keep doing what's painful and "
+            "pointless &mdash; is word for word identical to the verse that closed SN "
+            "1.20. There, an unnamed deity offered it as her own uncertain attempt to "
+            "paraphrase three compressed verses the Buddha had just given, with nothing "
+            "in the text confirming whether her reading was correct. Here, a named, "
+            "devoted deity states the identical verse directly and confidently, with no "
+            "surrounding uncertainty at all."]),
+        ("An untranslated close, as with the vaggas before it", [
+            "As with SN 1.10, SN 1.20, and SN 1.30, this discourse is followed in the "
+            "source text by a closing colophon and a mnemonic verse naming the "
+            "Satullapakāyikavagga as finished and listing its ten titles &mdash; left "
+            "untranslated in this edition, and described here rather than quoted, "
+            "following this project's established practice."]),
+        ("A vagga named for a recurring host, closed by two individuals", [
+            "This vagga opened at SN 1.31 with the Satullapakāyikā host that gives it its "
+            "name, and moved through several structural variations &mdash; a shared "
+            "refrain, independent arguments, a cumulative list, a hostile confrontation, "
+            "an entirely different setting and scale, a physical ordeal &mdash; before "
+            "closing on two individually named deities, sisters or otherwise related by "
+            "the same father, neither belonging to the host the vagga is titled after."]),
+    ],
+    terms=[
+        ("cūḷakokanadā",
+         "&ldquo;Kokanadā the Younger&rdquo; &mdash; this discourse's speaker, "
+         "distinguished from her namesake at SN 1.39 by this compound qualifier."),
+        ("vijjulatāva",
+         "&ldquo;beautiful as a flash of lightning&rdquo; &mdash; the description of her "
+         "arrival, a vivid image for radiance and suddenness together."),
+        ("pariyāyena",
+         "&ldquo;in different ways, by different methods&rdquo; &mdash; how she "
+         "acknowledges the teaching could be analyzed, before choosing brevity instead."),
+        ("yāvatā me manasā pariyattaṁ",
+         "&ldquo;as far as I have learned it by heart&rdquo; &mdash; her explicit "
+         "acknowledgment of the limits of her own memorized understanding."),
+        ("pāpaṁ na kayirā vacasā manasā",
+         "&ldquo;never do anything bad by speech or mind&rdquo; &mdash; the opening "
+         "words of this discourse's closing verse, identical to the verse that closed "
+         "SN 1.20."),
+    ],
+    text_intro=(
+        "The discourse in full, with its untranslated closing colophon and mnemonic "
+        "verse described rather than quoted, as with SN 1.10, SN 1.20, and SN 1.30. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Kokanadā the Younger arrives"),
+        ("p", "&sect;1", "sn1.40:1.1-1.4"),
+        ("p", "&sect;2", "sn1.40:2.1-2.4"),
+        ("h3", "Brevity, chosen deliberately"),
+        ("p", "&sect;3", "sn1.40:3.1-3.4"),
+        ("h3", "A verse already met at SN 1.20"),
+        ("p", "&sect;4", "sn1.40:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How is this discourse's speaker related to SN 1.39's speaker?",
+         "opts": [
+             "Same name and parentage, distinguished as 'the Younger,' at the same setting",
+             "No relationship at all; a completely different deity",
+             "She is explicitly said to be the mother of SN 1.39's speaker",
+             "She is explicitly said to be an enemy of SN 1.39's speaker"],
+         "correct": 0,
+         "expl": "A matched pairing closing this vagga, sharing name, parentage, and setting."},
+        {"q": "How is Kokanadā the Younger's arrival described?",
+         "opts": [
+             "Beautiful as a flash of lightning",
+             "Silent and invisible",
+             "Angry and confrontational",
+             "Weeping and distressed"],
+         "correct": 0,
+         "expl": "A vivid image for radiance and suddenness together."},
+        {"q": "What choice does she explicitly make about how to present the teaching?",
+         "opts": [
+             "To state its meaning briefly, though it could be analyzed in many ways",
+             "To recite the entire teaching in exhaustive detail",
+             "To refuse to discuss the teaching at all",
+             "To ask the Buddha to speak in her place"],
+         "correct": 0,
+         "expl": "A deliberate choice of brevity, with the limits of this choice acknowledged directly."},
+        {"q": "What earlier discourse does this discourse's closing verse repeat word for word?",
+         "opts": [
+             "SN 1.20's closing verse, With Samiddhi",
+             "SN 1.9's closing verses",
+             "SN 1.1's opening exchange",
+             "No earlier discourse shares this verse"],
+         "correct": 0,
+         "expl": "The identical verse given very differently in each context."},
+        {"q": "How does the verse's context differ between SN 1.20 and this discourse?",
+         "opts": [
+             "At SN 1.20 it was an unnamed deity's uncertain paraphrase, unconfirmed by the Buddha; here it is stated confidently and directly by a named deity",
+             "The context is identical in every respect",
+             "At SN 1.20 the Buddha stated it himself; here a deity merely repeats it",
+             "This discourse rejects the verse as incorrect"],
+         "correct": 0,
+         "expl": "The same words, offered with very different degrees of certainty."},
+        {"q": "What does 'yāvatā me manasā pariyattaṁ' mean?",
+         "opts": [
+             "'As far as I have learned it by heart'",
+             "'As far as the Buddha has taught it in full'",
+             "'Without any limitation whatsoever'",
+             "'As commanded by another deity'"],
+         "correct": 0,
+         "expl": "Her explicit acknowledgment of the limits of her own memorized understanding."},
+        {"q": "What follows this discourse in the source text, left untranslated?",
+         "opts": [
+             "A closing colophon and mnemonic verse listing the vagga's ten discourse titles",
+             "An entirely new discourse beginning immediately",
+             "A long prose commentary",
+             "Nothing follows; the source text ends abruptly"],
+         "correct": 0,
+         "expl": "The same pattern already seen at SN 1.10, SN 1.20, and SN 1.30."},
+        {"q": "What is this discourse's position within the Satullapakāyikavagga?",
+         "opts": [
+             "It is the tenth and last discourse, closing the vagga",
+             "It is the vagga's first discourse",
+             "It belongs to the previous vagga, the Sattivagga",
+             "It has no fixed position"],
+         "correct": 0,
+         "expl": "This discourse's own closing colophon marks the Satullapakāyikavagga as finished."},
+        {"q": "Does this vagga's closing discourse belong to the Satullapakāyikā host the vagga is named after?",
+         "opts": [
+             "No &mdash; it closes on two individually named deities unrelated to that host",
+             "Yes, Kokanadā is explicitly identified as a member of that host",
+             "The discourse does not identify any deity host at all",
+             "The vagga has no named host to begin with"],
+         "correct": 0,
+         "expl": "A vagga that opens with its namesake host but closes on two named individuals instead."},
+        {"q": "What does 'pariyāyena' mean?",
+         "opts": [
+             "'In different ways, by different methods'",
+             "'Never, under any circumstances'",
+             "'Only once, and never again'",
+             "'By force'"],
+         "correct": 0,
+         "expl": "Acknowledging the teaching's many possible analyses, before she chooses brevity."},
+    ],
+    marginalia=[
+        ("A second Kokanadā", [
+            "the Younger, same father &mdash;",
+            "same setting as before",
+        ]),
+        ("Brevity, chosen", [
+            "many ways to analyze it,",
+            "but stated briefly here",
+        ]),
+        ("A verse returning", [
+            "the same words as SN 1.20,",
+            "now spoken with confidence",
+        ]),
+        ("The Satullapakāyikavagga closes", [
+            "ten discourses complete;",
+            "named for a host, closed by two names",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.40/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.39.html">SN 1.39 &middot; With Pajjunna&rsquo;s Daughter (1st)</a> '
+        "&mdash; the discourse immediately before this one, and this vagga&rsquo;s "
+        "matched companion piece.",
+        '<a href="sn-1.20.html">SN 1.20 &middot; With Samiddhi</a> &mdash; the source of '
+        "this discourse's closing verse, given there with far more uncertainty.",
+        '<a href="sn-1.31.html">SN 1.31 &middot; Virtuous</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, ten discourses back.",
+    ],
+)
