@@ -20,7 +20,7 @@ SC_LINK = ('<a href="https://suttacentral.net/vism/pli/ms" target="_blank" '
 
 INDEX_HEADING = "Part II: Samādhi — Concentration (Chapters 3&ndash;13)"
 HEAD = ("vism-2.html", "The Description of the Ascetic Practices")
-TAIL = ("./", "Visuddhimagga guide")
+TAIL = ("vism-14.html", "The Aggregates")
 INDEX_EXTRA = []
 
 PAGES = []
