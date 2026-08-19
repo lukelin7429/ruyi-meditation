@@ -1308,3 +1308,215 @@ page(
         "origination's individual links, applied concretely in this chapter.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 20 -- Maggāmaggañāṇadassanavisuddhiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    20, "Maggāmaggañāṇadassanavisuddhiniddesa",
+    "Purification by Knowledge and Vision of What Is and Is Not the Path",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 20 — What Is and Is Not the Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 20 of the Visuddhimagga (The Path of "
+        "Purification) — insight proper begins, the ten experiences that can arise "
+        "and be mistaken for attainment, and why subtle delight in them is the "
+        "real hazard. No translated text reproduced; links to the full free "
+        "translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter opens the fifth of seven "
+                    "purifications by putting Chapter 19's settled understanding "
+                    "to direct use"),
+        ("Speaker", "Buddhaghosa, cataloging a set of meditative experiences with "
+                    "unusual practical care"),
+        ("Form", "Introduces the three characteristics contemplated directly in "
+                 "phenomena's rise and fall, then a ten-part catalog of "
+                 "experiences that can be mistaken for the path itself"),
+        ("Length", "substantial, given the ten-part catalog treated individually"),
+        ("Northern parallel", "Cautions against mistaking vivid meditative "
+                              "experiences for genuine attainment appear widely "
+                              "across contemplative traditions; this guide does "
+                              "not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the ten-part "
+                       "catalog is enumerable, but distinguishing genuine progress "
+                       "from an impressive detour takes real care to follow"),
+    ],
+    why=(
+        "Chapter 19 resolved doubt about the causal continuity of one's own "
+        "existence. Chapter 20 opens the fifth purification by putting that "
+        "settled understanding to direct use: contemplating impermanence, "
+        "suffering, and not-self directly in the rise and fall of phenomena "
+        "already analyzed across Chapters 14 through 19. But this deepening "
+        "contemplation itself produces a set of vivid, impressive experiences the "
+        "chapter is careful to distinguish from progress itself &mdash; mistaking "
+        "them for the path is, per the chapter's own title, itself a kind of "
+        "detour."),
+    guide=[
+        ("Insight proper begins", [
+            "Rather than further conceptual classification, this chapter has a "
+            "practitioner contemplate the three characteristics &mdash; "
+            "impermanence, suffering, and not-self &mdash; directly in the rise "
+            "and fall of the very phenomena Chapters 14 through 19 already "
+            "analyzed, marking a shift from understanding about experience to "
+            "watching experience itself."]),
+        ("Ten experiences that can arise", [
+            "As this contemplation matures, the chapter describes a set of ten "
+            "experiences that traditionally arise: an unusual illumination or "
+            "light, a sense of penetrating clarity, rapturous joy, deep "
+            "tranquility, refined happiness, strong conviction, heightened "
+            "exertion, robust mindfulness, a settled equanimity, and a subtle "
+            "delight in any of the preceding nine."]),
+        ("Not wrong, but not the path either", [
+            "The chapter is careful that none of these ten experiences is itself "
+            "a flaw or a wrongdoing. The issue is entirely how a practitioner "
+            "relates to them: taking any one of them as a sign of full "
+            "attainment, or as the path's actual destination, is the mistake the "
+            "chapter treats as a genuine hazard at this stage."]),
+        ("The tenth experience is the real hazard", [
+            "Delight, a subtle attachment to any of the previous nine, is "
+            "singled out as what actually derails a practitioner. It is this "
+            "delight, not the nine experiences themselves, that pulls attention "
+            "away from continuing to observe phenomena rising and passing."]),
+        ("Distinguishing path from not-path", [
+            "The chapter's actual teaching follows from this: correctly "
+            "recognizing all ten experiences as simply byproducts of maturing "
+            "insight, without either rejecting or clinging to them, and "
+            "returning attention to the plain, ongoing observation of "
+            "impermanence, is what constitutes the genuine path forward. "
+            "Mistaking any of the ten for the destination is what does not."]),
+        ("What follows", [
+            "Chapter 21 turns to the sixth purification, describing the sequence "
+            "of insight-knowledges that carry a practitioner's contemplation, "
+            "once properly reoriented here, all the way to the supramundane path "
+            "itself."]),
+    ],
+    terms=[
+        ("maggāmaggañāṇadassanavisuddhi",
+         "purification by knowledge and vision of what is and is not the path "
+         "&mdash; this chapter's subject, the fifth of the seven traditional "
+         "purifications."),
+        ("tilakkhaṇa",
+         "the three characteristics &mdash; impermanence, suffering, and "
+         "not-self &mdash; contemplated directly in this chapter's insight work."),
+        ("udayabbayañāṇa",
+         "knowledge of rise and fall &mdash; the contemplation this chapter's "
+         "insight work centers on."),
+        ("vipassanupakkilesa",
+         "the ten corruptions, or imperfections, of insight &mdash; the catalog "
+         "of experiences this chapter treats in detail."),
+        ("nikanti",
+         "delight &mdash; the tenth and most consequential of the ten "
+         "experiences, since attachment to it is what actually derails "
+         "progress."),
+    ],
+    quiz=[
+        {"q": "What three characteristics does insight proper contemplate directly in phenomena's rise and fall?",
+         "opts": [
+             "Impermanence, suffering, and not-self",
+             "Virtue, concentration, and understanding",
+             "Faith, energy, and wisdom",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Contemplated directly rather than through further conceptual classification."},
+        {"q": "What contemplation does this chapter's insight work center on?",
+         "opts": [
+             "Udayabbayañāṇa, knowledge of rise and fall",
+             "Paccayapariggaha-ñāṇa, discerning conditions",
+             "Nāmarūpapariccheda-ñāṇa, defining mentality-and-materiality",
+             "Āsavakkhaya-ñāṇa, the destruction of the taints"],
+         "correct": 0,
+         "expl": "Watching phenomena rise and pass directly, building on the previous chapters' groundwork."},
+        {"q": "How many experiences does the chapter's catalog of vipassanupakkilesa list?",
+         "opts": [
+             "Ten",
+             "Four",
+             "Twenty-two",
+             "Sixteen"],
+         "correct": 0,
+         "expl": "A set of experiences that can arise as insight matures."},
+        {"q": "Which of the following is among the ten experiences the chapter catalogs?",
+         "opts": [
+             "An unusual illumination or light",
+             "Complete loss of all sensation",
+             "Uncontrollable anger",
+             "Permanent physical paralysis"],
+         "correct": 0,
+         "expl": "Alongside penetrating knowledge, rapturous joy, tranquility, happiness, conviction, exertion, mindfulness, equanimity, and delight."},
+        {"q": "Are the ten experiences themselves wrong or flawed, according to the chapter?",
+         "opts": [
+             "No; the issue is entirely how a practitioner relates to them, not the experiences themselves",
+             "Yes, all ten are considered serious moral failings",
+             "Yes, but only for lay practitioners, not monastics",
+             "The chapter declines to address this question"],
+         "correct": 0,
+         "expl": "None of the ten is itself a flaw or a wrongdoing."},
+        {"q": "Which of the ten experiences is singled out as the real hazard?",
+         "opts": [
+             "Delight (nikanti), a subtle attachment to any of the previous nine",
+             "Illumination, simply for being too bright",
+             "Mindfulness, for being too demanding to sustain",
+             "Equanimity, for being indistinguishable from indifference"],
+         "correct": 0,
+         "expl": "It is this delight, not the nine experiences themselves, that pulls attention away from continued observation."},
+        {"q": "What mistake does the chapter warn against regarding these ten experiences?",
+         "opts": [
+             "Taking any one of them as a sign of full attainment or as the path's actual destination",
+             "Ever discussing them with a teacher",
+             "Experiencing more than one of them in the same sitting",
+             "Failing to actively pursue as many of them as possible"],
+         "correct": 0,
+         "expl": "The mistake the chapter's own title names as &lsquo;not the path&rsquo;."},
+        {"q": "What does the chapter say actually constitutes the genuine path forward at this stage?",
+         "opts": [
+             "Recognizing the ten as byproducts of maturing insight and returning to plain observation of impermanence, without clinging",
+             "Actively cultivating as much delight in these experiences as possible",
+             "Abandoning meditation practice entirely once any of the ten arises",
+             "Reporting each of the ten experiences to a monastic council for verification"],
+         "correct": 0,
+         "expl": "Neither rejecting nor clinging to the ten experiences, but returning to the plain observation of rising and passing."},
+        {"q": "What does Chapter 21 turn to next?",
+         "opts": [
+             "The sequence of insight-knowledges carrying contemplation to the supramundane path itself",
+             "A return to the ten kasinas for further practice",
+             "The thirteen ascetic practices, revisited a second time",
+             "The end of the entire Visuddhimagga"],
+         "correct": 0,
+         "expl": "The sixth of the seven traditional purifications."},
+        {"q": "Where can a reader go for Chapter 20's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Fifth of seven purifications", [
+            "insight proper begins &mdash;",
+            "impermanence, suffering, not-self",
+        ]),
+        ("Ten experiences", [
+            "light, joy, tranquility,",
+            "and seven more",
+        ]),
+        ("Not wrong, but a hazard", [
+            "mistaking any one",
+            "for the path itself",
+        ]),
+        ("Delight is the real danger", [
+            "subtle attachment",
+            "to the other nine",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/anguttara-nikaya/an-3.47.html">AN 3.47 &mdash; '
+        "Characteristics of the Conditioned</a> &mdash; the canonical source for "
+        "the three characteristics this chapter's insight work contemplates.",
+        '<a href="../discourses/dhammapada/dhp-20.html">Dhammapada Chapter 20 '
+        "&mdash; The Path</a> &mdash; a verse collection on the theme this "
+        "chapter's own title turns on: what is, and is not, the path.",
+    ],
+)
