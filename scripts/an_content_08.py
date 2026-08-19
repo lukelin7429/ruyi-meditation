@@ -15783,3 +15783,2067 @@ page(
         "chapter.",
     ],
 )
+
+
+VAGGA_9 = "<em>Sativagga</em> &mdash; the ninth chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.81 — Ariyavaṁsasutta -- opens ch.9 Sativagga. Root name differs from
+# common English title; SC catalogs it under the mindfulness/situational-
+# awareness theme, an upanisā-style supporting-condition chain like SN 12.23.
+# --------------------------------------------------------------------------- #
+page(
+    81, "Sati", "Mindfulness and Situational Awareness",
+    vagga=VAGGA_9,
+    meta_title="AN 8.81 — Mindfulness and Situational Awareness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "discourse opening a new chapter with an eight-link chain of "
+        "supporting conditions — from mindfulness through conscience, "
+        "restraint, ethics, and immersion to knowledge and freedom — "
+        "illustrated by a tree needing branches and foliage to grow to "
+        "fullness. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "An eight-link upstream chain of supporting conditions, "
+                 "stated first as destruction (each missing link "
+                 "undermining the next) and then as fulfillment, both "
+                 "illustrated by a tree simile"),
+        ("Length", "~2 minutes to read"),
+        ("A chain, not a checklist", "This discourse doesn't name eight "
+                                     "independent qualities but eight "
+                                     "links in a single dependency chain, "
+                                     "each one explicitly named as the "
+                                     "supporting condition for the next, "
+                                     "structurally similar to the "
+                                     "&ldquo;upstream conditions&rdquo; "
+                                     "logic met at AN 7.65"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "clear chain, worth tracing link by link in both "
+                       "directions"),
+    ],
+    why=(
+        "AN 8.81 opens a new chapter with an eight-link chain: without "
+        "mindfulness and situational awareness, conscience and prudence "
+        "are undermined; without those, sense restraint; without that, "
+        "ethical conduct; without that, right immersion; without that, "
+        "true knowledge and vision; without that, disillusionment and "
+        "dispassion; without that, knowledge and vision of freedom itself "
+        "&mdash; and the identical chain holds in reverse when each link "
+        "is fulfilled instead."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Mindfulness and situational awareness support conscience and "
+            "prudence, which support sense restraint, which supports "
+            "ethical conduct, which supports right immersion, which "
+            "supports true knowledge and vision, which supports "
+            "disillusionment and dispassion, which supports knowledge and "
+            "vision of freedom &mdash; a single chain that collapses from "
+            "the bottom up when any link is missing, and builds from the "
+            "bottom up when each link is fulfilled."]),
+        ("Eight links, not eight independent qualities", [
+            "Every item in this discourse is explicitly framed as a "
+            "&ldquo;vital condition&rdquo; (upanisā) for the next, not as "
+            "a free-standing virtue listed alongside seven others. The "
+            "structure demands the chain be read in sequence, each link's "
+            "presence or absence rippling forward to affect everything "
+            "that depends on it."]),
+        ("A tree that can't grow without branches and foliage", [
+            "The discourse illustrates both directions of the chain with "
+            "the same image: a tree lacking branches and foliage can't "
+            "grow its shoots, bark, softwood, and heartwood to fullness, "
+            "while a tree complete with branches and foliage grows fully "
+            "&mdash; the visible, outer structure supporting the "
+            "development of what lies within, exactly as mindfulness and "
+            "situational awareness support everything built on top of "
+            "them."]),
+        ("A structural cousin to AN 7.65's own chain", [
+            "This discourse's upstream-conditions logic &mdash; each "
+            "factor explicitly enabling the next rather than simply "
+            "co-occurring with it &mdash; closely resembles the chain met "
+            "earlier in this project at AN 7.65, though the two chains "
+            "name different links and neither one is a mere restatement "
+            "of the other."]),
+    ],
+    terms=[
+        ("upanisā",
+         "&ldquo;vital condition&rdquo; &mdash; the discourse's own "
+         "recurring term for how each link in the chain supports the "
+         "next, the structural key to the whole teaching."),
+        ("hirottappa",
+         "&ldquo;conscience and prudence&rdquo; &mdash; the second link, "
+         "directly dependent on mindfulness and situational awareness "
+         "according to this discourse's own chain."),
+        ("indriyasaṁvaro",
+         "&ldquo;sense restraint&rdquo; &mdash; the third link, "
+         "dependent on conscience and prudence and itself a support for "
+         "ethical conduct."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the fifth link, the "
+         "point where ethical foundation gives way to meditative "
+         "development in this chain."),
+        ("nibbidāvirāgo, vimuttiñāṇadassanaṁ",
+         "&ldquo;disillusionment and dispassion... knowledge and vision "
+         "of freedom&rdquo; &mdash; the seventh and eighth links, closing "
+         "the chain at complete liberation."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight-link chain, stated first as "
+        "collapse and then as fulfillment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The chain of collapse"),
+        ("p", "&sect;1", "an8.81:1.1-1.11"),
+        ("h3", "The chain of fulfillment"),
+        ("p", "&sect;2", "an8.81:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse structure its eight items, "
+              "compared to a simple checklist?",
+         "opts": [
+             "As eight independent, free-standing virtues",
+             "As a chain, each item explicitly framed as a 'vital "
+             "condition' (upanisā) for the next",
+             "As eight mutually exclusive alternatives",
+             "As a random, unordered collection"],
+         "correct": 1,
+         "expl": "A sequential dependency chain, not a list of "
+                 "independent qualities."},
+        {"q": "What is the first link in this discourse's chain?",
+         "opts": [
+             "Wealth", "Mindfulness and situational awareness",
+             "Physical strength", "Royal favor"],
+         "correct": 1,
+         "expl": "The foundation the entire rest of the chain depends on."},
+        {"q": "What image illustrates both directions of the chain?",
+         "opts": [
+             "A river flowing to the sea",
+             "A tree that can't grow shoots, bark, softwood, and "
+             "heartwood without branches and foliage — or grows fully "
+             "when complete with them",
+             "A lamp being lit in darkness",
+             "A ship crossing a flood"],
+         "correct": 1,
+         "expl": "The same image used for both collapse and fulfillment "
+                 "of the chain."},
+        {"q": "What are the final two links, closing the chain?",
+         "opts": [
+             "Wealth and status",
+             "Disillusionment and dispassion, then knowledge and vision "
+             "of freedom",
+             "Physical strength and courage",
+             "Fame and popularity"],
+         "correct": 1,
+         "expl": "The chain's culmination at complete liberation."},
+        {"q": "How does this discourse's structure relate to AN 7.65?",
+         "opts": [
+             "No relation at all",
+             "It closely resembles AN 7.65's own upstream-conditions "
+             "logic, though naming different specific links",
+             "It directly contradicts AN 7.65",
+             "It is a word-for-word repeat of AN 7.65"],
+         "correct": 1,
+         "expl": "A structural cousin, not a restatement, of an earlier "
+                 "chain teaching."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("An eight-link chain", [
+            "mindfulness, then conscience,",
+            "restraint, ethics, immersion,",
+            "knowledge, dispassion, freedom",
+        ]),
+        ("A tree without branches", [
+            "can't grow shoots or heartwood —",
+            "the same image, reversed,",
+            "for a tree complete and thriving",
+        ]),
+        ("Support, not mere listing", [
+            "each link a 'vital condition'",
+            "for what follows it —",
+            "collapse or fulfillment ripples through",
+        ]),
+        ("Cross-references", [
+            "AN 8.80 &middot; earlier, closing the previous chapter",
+            "AN 7.65 &middot; earlier, a structurally related chain of "
+            "upstream conditions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.80.html">AN 8.80 &middot; Grounds for Laziness and Arousing '
+        "Energy</a> &mdash; earlier, closing the previous chapter.",
+        '<a href="an-8.82.html">AN 8.82 &middot; With Puṇṇiya</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.82 — Puṇṇiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Puṇṇiya", "With Puṇṇiya",
+    vagga=VAGGA_9,
+    meta_title="AN 8.82 — With Puṇṇiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Puṇṇiyasutta, in which the Buddha answers why he sometimes feels "
+        "inspired to teach and sometimes doesn't: an eight-step chain of "
+        "genuine receptivity, from approaching in faith through practicing "
+        "in line with what's understood. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Puṇṇiya and the Buddha"),
+        ("Form", "A direct question, answered with an eight-step chain of "
+                 "receptivity, each step's absence explicitly blocking "
+                 "the Buddha's own inspiration to teach"),
+        ("Length", "~2 minutes to read"),
+        ("Teaching as a two-way responsiveness, not one-way delivery", "This "
+                                                                        "discourse "
+                                                                        "frames "
+                                                                        "the "
+                                                                        "Buddha's "
+                                                                        "own "
+                                                                        "inspiration "
+                                                                        "to "
+                                                                        "teach "
+                                                                        "as "
+                                                                        "genuinely "
+                                                                        "responsive "
+                                                                        "to "
+                                                                        "the "
+                                                                        "listener's "
+                                                                        "own "
+                                                                        "receptivity, "
+                                                                        "not "
+                                                                        "something "
+                                                                        "automatically "
+                                                                        "available "
+                                                                        "regardless "
+                                                                        "of "
+                                                                        "the "
+                                                                        "audience"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear eight-step chain, worth comparing against AN "
+                       "8.81's own upstream-conditions structure"),
+    ],
+    why=(
+        "Puṇṇiya asks the Buddha directly why he sometimes feels inspired "
+        "to teach and other times not, and the Buddha answers with an "
+        "eight-step chain: a mendicant must have faith, approach, pay "
+        "homage, ask questions, actively listen, remember what's heard, "
+        "examine its meaning, and practice accordingly &mdash; and only "
+        "when every step is present does the Buddha feel fully inspired "
+        "to teach."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha's own inspiration to teach depends entirely on "
+            "whether a mendicant completes an eight-step chain of genuine "
+            "receptivity &mdash; faith, approaching, paying homage, "
+            "asking questions, actively listening, remembering, examining "
+            "meaning, and practicing accordingly &mdash; with any missing "
+            "step leaving him uninspired to teach."]),
+        ("An unusually direct, personal question", [
+            "Puṇṇiya's question isn't about doctrine but about the "
+            "Buddha's own psychology as a teacher: what determines "
+            "whether he feels inspired to teach at all. The Buddha's "
+            "answer treats this as a legitimate, answerable question "
+            "rather than deflecting it, revealing something about "
+            "teaching itself as a responsive act rather than an automatic "
+            "delivery."]),
+        ("Eight steps, each one a genuine gate", [
+            "The chain moves from an inner disposition (faith) through "
+            "physical action (approaching, paying homage) to active "
+            "engagement (asking questions, listening) and finally to "
+            "cognitive and practical follow-through (remembering, "
+            "examining meaning, practicing accordingly). Each step is "
+            "explicitly presented as necessary: faith without approaching "
+            "isn't enough, approaching without paying homage isn't "
+            "enough, and so on through all eight."]),
+        ("A cousin to AN 8.81's chain, in a different register", [
+            "Like AN 8.81 immediately preceding it, this discourse builds "
+            "its eight items as a sequential chain rather than a flat "
+            "list &mdash; but where AN 8.81 traces conditions internal to "
+            "a practitioner's own development, this discourse traces the "
+            "conditions of a specific relationship: what a listener must "
+            "bring for a teacher to feel moved to teach."]),
+    ],
+    terms=[
+        ("kena nu kho, bhante, hetunā kena paccayena",
+         "&ldquo;what is the cause, what is the reason&rdquo; &mdash; "
+         "Puṇṇiya's own opening question, asking directly about the "
+         "Buddha's variable inspiration to teach."),
+        ("saddho hoti, no ca upasaṅkamati",
+         "&ldquo;has faith but doesn't approach&rdquo; &mdash; the first "
+         "broken link in the chain, faith alone proving insufficient."),
+        ("payirupāsati, no ca dhammaṁ suṇāti",
+         "&ldquo;pays homage, but doesn't actively listen to the "
+         "teaching&rdquo; &mdash; a later link, showing that even "
+         "physical presence and respect aren't sufficient without active "
+         "engagement."),
+        ("atthamaññāya dhammamaññāya dhammānudhammaṁ paṭipajjati",
+         "&ldquo;understood the meaning and the teaching, they practice "
+         "in line with the principle of the teaching&rdquo; &mdash; the "
+         "eighth and final step, completing the chain."),
+        ("tathāgato dhammadesanāya cittaṁ na namati",
+         "&ldquo;the Realized One doesn't feel inspired to teach&rdquo; "
+         "&mdash; the discourse's own recurring verdict, repeated for "
+         "each incomplete version of the chain."),
+    ],
+    text_intro=(
+        "The discourse in full: Puṇṇiya's question and the Buddha's "
+        "eight-step answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Puṇṇiya's question"),
+        ("p", "&sect;1", "an8.82:1.1-1.2"),
+        ("h3", "Seven incomplete chains, each insufficient"),
+        ("p", "&sect;2", "an8.82:1.3-1.13"),
+        ("h3", "The complete chain"),
+        ("p", "&sect;3", "an8.82:2.1-2.3"),
+    ],
+    quiz=[
+        {"q": "What question does Puṇṇiya ask the Buddha directly?",
+         "opts": [
+             "How to attain awakening",
+             "What causes the Buddha to sometimes feel inspired to teach, "
+             "and other times not",
+             "How to become a monastic",
+             "What the Buddha ate for breakfast"],
+         "correct": 1,
+         "expl": "An unusually direct, personal question about the "
+                 "Buddha's own teaching psychology."},
+        {"q": "What is the first step in the Buddha's eight-step answer?",
+         "opts": [
+             "Wealth", "Faith",
+             "Physical strength", "Royal favor"],
+         "correct": 1,
+         "expl": "The chain's opening inner disposition, insufficient "
+                 "alone without the steps that follow."},
+        {"q": "What happens if a mendicant completes faith and approaching "
+              "but doesn't pay homage?",
+         "opts": [
+             "The Buddha still feels fully inspired to teach",
+             "The chain remains broken; the Buddha doesn't feel inspired "
+             "to teach",
+             "The Buddha teaches anyway out of obligation",
+             "This case is not addressed in the discourse"],
+         "correct": 1,
+         "expl": "Every one of the eight steps is presented as "
+                 "necessary, not merely helpful."},
+        {"q": "What is the eighth and final step, completing the chain?",
+         "opts": [
+             "Giving generously to the Saṅgha",
+             "Practicing in line with the principle of the teaching, "
+             "having understood its meaning",
+             "Building a monastery",
+             "Reciting the monastic code"],
+         "correct": 1,
+         "expl": "Practical follow-through, closing the chain of genuine "
+                 "receptivity."},
+        {"q": "How does this discourse's structure compare to AN 8.81's?",
+         "opts": [
+             "Entirely unrelated structures",
+             "Both build their eight items as a sequential chain, though "
+             "AN 8.81 traces internal development while this discourse "
+             "traces a teacher-listener relationship",
+             "This discourse has no chain structure at all",
+             "AN 8.81 is a flat list, unlike this discourse"],
+         "correct": 1,
+         "expl": "Structural cousins applying the chain logic to "
+                 "different subject matter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.81's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("An eight-step chain of receptivity", [
+            "faith, approach, homage,",
+            "questions, listening, memory,",
+            "examining meaning, practice",
+        ]),
+        ("A personal question, answered directly", [
+            "not deflected as inappropriate —",
+            "the Buddha's own inspiration",
+            "genuinely responsive, not automatic",
+        ]),
+        ("Every step, genuinely necessary", [
+            "faith alone insufficient,",
+            "homage alone insufficient —",
+            "the whole chain required",
+        ]),
+        ("Cross-references", [
+            "AN 8.81 &middot; previous, a structurally related chain of "
+            "supporting conditions",
+            "AN 8.83 &middot; next, the famous eightfold root-questions "
+            "catechism",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.81.html">AN 8.81 &middot; Mindfulness and Situational Awareness</a> '
+        "&mdash; previous.",
+        '<a href="an-8.83.html">AN 8.83 &middot; Rooted</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.83 — Mūlakasutta -- the famous eightfold root-questions catechism.
+# --------------------------------------------------------------------------- #
+page(
+    83, "Mūlaka", "Rooted",
+    vagga=VAGGA_9,
+    meta_title="AN 8.83 — Rooted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Mūlakasutta, a widely cited eightfold catechism answering eight "
+        "questions any outsider might ask about the root, origin, and "
+        "core of all things — desire, contact, immersion, freedom, and "
+        "more. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The mendicants, deferring to the Buddha, and the "
+                     "Buddha himself"),
+        ("Form", "A hypothetical challenge from outsiders, an initial "
+                 "deferral, then the Buddha's own eight-part catechism "
+                 "answering eight distinct questions"),
+        ("Length", "under 1 minute to read"),
+        ("A widely cited philosophical formula", "This eightfold answer "
+                                                  "to eight questions "
+                                                  "about the nature of "
+                                                  "&ldquo;all "
+                                                  "things&rdquo; is among "
+                                                  "the more frequently "
+                                                  "cited compact "
+                                                  "philosophical formulas "
+                                                  "in this literature"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "terse and dense, eight distinct technical terms "
+                       "answering eight distinct questions"),
+    ],
+    why=(
+        "Anticipating that wanderers of other religions might ask what "
+        "roots, produces, originates, and gathers all things, the Buddha "
+        "supplies the mendicants with a compact eight-part answer: all "
+        "things are rooted in desire, produced by attention, originated "
+        "by contact, gathered by feeling, chiefed by immersion, ruled by "
+        "mindfulness, overseen by wisdom, and cored by freedom."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Asked what roots, produces, originates, gathers, chiefs, "
+            "rules, oversees, and cores all things, the correct answer is: "
+            "desire, attention, contact, feeling, immersion, mindfulness, "
+            "wisdom, and freedom, respectively &mdash; eight distinct "
+            "questions, each with its own distinct technical answer."]),
+        ("A hypothetical challenge, deferred first to the Buddha", [
+            "Rather than answering an outsider's question immediately "
+            "themselves, the mendicants' first response &mdash; when the "
+            "Buddha poses the hypothetical &mdash; is to defer entirely: "
+            "&ldquo;our teachings are rooted in the Buddha... may the "
+            "Buddha himself please clarify.&rdquo; Only then does the "
+            "Buddha supply the actual eight-part answer for the "
+            "mendicants to use themselves in the future."]),
+        ("Eight questions, eight distinct technical answers", [
+            "Each of the eight questions targets a genuinely different "
+            "aspect of how experience arises and unfolds: what's at the "
+            "root (desire, chanda), what produces (attention, "
+            "manasikāra), what's the origin (contact, phassa), what's the "
+            "meeting place (feeling, vedanā), what's chief (immersion, "
+            "samādhi), what rules (mindfulness, sati), what oversees "
+            "(wisdom, paññā), and what's the core (freedom, vimutti)."]),
+        ("From desire to freedom, a compressed map of the path", [
+            "Read in sequence, the eight answers trace a compact "
+            "trajectory: starting from desire, the very thing driving "
+            "experience, and ending at freedom, its complete resolution "
+            "&mdash; with attention, contact, and feeling describing how "
+            "experience actually arises, and immersion, mindfulness, and "
+            "wisdom describing what governs a skillful response to it."]),
+    ],
+    terms=[
+        ("chandamūlakā sabbe dhammā",
+         "&ldquo;all things are rooted in desire&rdquo; &mdash; the "
+         "first and foundational answer, chanda naming the root from "
+         "which everything else in the list follows."),
+        ("manasikārasambhavā",
+         "&ldquo;produced by application of mind&rdquo; &mdash; the "
+         "second answer, attention as what actually brings things into "
+         "being from their root."),
+        ("phassasamudayā",
+         "&ldquo;contact is their origin&rdquo; &mdash; the third "
+         "answer, the point of sensory or mental contact where "
+         "experience actually begins."),
+        ("vedanāsamosaraṇā",
+         "&ldquo;feeling is their meeting place&rdquo; &mdash; the "
+         "fourth answer, where the results of contact converge."),
+        ("vimuttisārā",
+         "&ldquo;freedom is their core&rdquo; &mdash; the eighth and "
+         "final answer, the innermost essence toward which the whole "
+         "sequence points."),
+    ],
+    text_intro=(
+        "The discourse in full: the hypothetical challenge and the "
+        "Buddha's eight-part answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A hypothetical challenge, deferred to the Buddha"),
+        ("p", "&sect;1", "an8.83:1.1-1.3"),
+        ("h3", "The eight-part answer"),
+        ("p", "&sect;2", "an8.83:2.1-2.9"),
+    ],
+    quiz=[
+        {"q": "What do the mendicants do first when the Buddha poses the "
+              "hypothetical outsider question?",
+         "opts": [
+             "They answer immediately themselves",
+             "They defer entirely to the Buddha, asking him to clarify "
+             "the meaning himself",
+             "They refuse to engage with the question",
+             "They ask the outsiders to leave"],
+         "correct": 1,
+         "expl": "A formal deferral before the Buddha supplies the actual "
+                 "answer."},
+        {"q": "What is all things' root, according to the Buddha's answer?",
+         "opts": [
+             "Ignorance", "Desire (chanda)",
+             "Wealth", "Fear"],
+         "correct": 1,
+         "expl": "The first and foundational term in the eight-part "
+                 "answer."},
+        {"q": "What is named as all things' core, closing the sequence?",
+         "opts": [
+             "Wisdom", "Freedom (vimutti)",
+             "Immersion", "Mindfulness"],
+         "correct": 1,
+         "expl": "The innermost essence the whole eight-part sequence "
+                 "points toward."},
+        {"q": "What is named as the 'meeting place' of all things?",
+         "opts": [
+             "Contact", "Feeling (vedanā)",
+             "Attention", "Immersion"],
+         "correct": 1,
+         "expl": "The fourth of the eight distinct technical answers."},
+        {"q": "According to the guide, what trajectory do the eight "
+              "answers trace when read in sequence?",
+         "opts": [
+             "A random, unordered list",
+             "A compressed map from desire (what drives experience) to "
+             "freedom (its complete resolution)",
+             "A description of physical cosmology",
+             "A list of monastic requisites"],
+         "correct": 1,
+         "expl": "A trajectory from the root of experience to its final "
+                 "resolution."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Eight questions, eight answers", [
+            "rooted in desire, produced",
+            "by attention, contact's origin,",
+            "feeling's meeting, immersion's chief",
+        ]),
+        ("Deferred first, then answered", [
+            "'our teachings are rooted",
+            "in the Buddha' — then he himself",
+            "supplies the actual formula",
+        ]),
+        ("A compressed map of the path", [
+            "from desire, what drives it all,",
+            "to freedom, its resolution —",
+            "eight terms, one trajectory",
+        ]),
+        ("Cross-references", [
+            "AN 8.82 &middot; previous, the Buddha's own eight-step "
+            "receptivity chain",
+            "AN 8.84 &middot; next, a very different register: a master "
+            "thief's eight factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.82.html">AN 8.82 &middot; With Puṇṇiya</a> &mdash; previous.',
+        '<a href="an-8.84.html">AN 8.84 &middot; A Master Thief</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.84 — Corasutta -- literally a thief simile with no explicit monastic
+# parallel drawn in the text itself; presented as found, noting the implied
+# reading rather than asserting an unstated textual mapping.
+# --------------------------------------------------------------------------- #
+page(
+    84, "Cora", "A Master Thief",
+    vagga=VAGGA_9,
+    meta_title="AN 8.84 — A Master Thief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Corasutta, eight factors that get a master thief quickly "
+        "executed and their eight opposites that let him live long — "
+        "presented as a purely worldly teaching, with no explicit "
+        "monastic parallel drawn in the text itself. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare blocking-and-reversal pair, unusually literal in "
+                 "subject matter, with no allegorical mapping stated in "
+                 "the text"),
+        ("Length", "under 1 minute to read"),
+        ("No stated spiritual parallel", "Unlike most simile-based "
+                                         "discourses in this book, which "
+                                         "explicitly map their image back "
+                                         "onto monastic life (as at AN "
+                                         "8.13's thoroughbred or AN 8.34's "
+                                         "field), this discourse never "
+                                         "draws such a connection itself "
+                                         "— it reads, on its own terms, "
+                                         "purely as worldly criminal "
+                                         "advice"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and blunt; this reading guide presents its "
+                       "content plainly rather than supplying an "
+                       "interpretation the text doesn't state"),
+    ],
+    why=(
+        "AN 8.84 names eight factors &mdash; unprovoked attacks, "
+        "indiscriminate theft, killing women, raping girls, robbing "
+        "monks, robbing the royal treasury, working close to home, and "
+        "poor concealment &mdash; that get a master thief quickly "
+        "executed, and their eight opposites, which let him live a long "
+        "life, without ever stating an explicit parallel to monastic "
+        "conduct."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A master thief who attacks unprovoked, steals "
+            "indiscriminately, kills women, rapes girls, robs monks and "
+            "the royal treasury, works close to home, and hides his loot "
+            "poorly is soon executed; the same thief avoiding all eight "
+            "behaviors lives a long life &mdash; stated here as literal "
+            "criminal advice, with no allegorical reading supplied by the "
+            "text itself."]),
+        ("A blunt, unusually literal discourse", [
+            "Where most of this book's blocking-and-reversal pairs "
+            "concern virtues and vices directly relevant to spiritual "
+            "practice, this discourse reads as exactly what it says: "
+            "practical, cynical observations about which criminal "
+            "behaviors invite swift capital punishment and which allow a "
+            "thief to survive."]),
+        ("No stated parallel, unlike this book's other similes", [
+            "This is worth noting explicitly: discourses like AN 8.13's "
+            "thoroughbred or AN 8.34's field always draw their comparison "
+            "back to monastic life within the text itself, saying "
+            "outright &ldquo;in the same way, a mendicant...&rdquo; This "
+            "discourse never does. Whatever cautionary reading a listener "
+            "might draw about restraint, discretion, or consequence is "
+            "left for them to construct, not handed to them by the "
+            "source."]),
+        ("Content presented plainly, not smoothed into allegory", [
+            "Rather than supplying an unstated spiritual interpretation "
+            "on the text's behalf, this reading guide presents the "
+            "discourse's content as it actually stands &mdash; a "
+            "candid, unflinching piece of worldly observation, including "
+            "its disturbing specifics about violence against women, "
+            "without either softening it or inventing a monastic moral "
+            "the source doesn't supply."]),
+    ],
+    terms=[
+        ("coro mahānubhāvo",
+         "&ldquo;a master thief&rdquo; &mdash; this discourse's own "
+         "title-figure, and its literal, unallegorized subject."),
+        ("asāhasaṁ karoti",
+         "&ldquo;attacks unprovoked&rdquo; &mdash; the first factor, "
+         "gratuitous violence beyond what theft itself requires."),
+        ("sabbaharaṁ harati",
+         "&ldquo;steals everything without exception&rdquo; &mdash; the "
+         "second factor, indiscriminate rather than selective theft."),
+        ("chatte lambati",
+         "part of the description of &ldquo;working close to home,&rdquo; "
+         "one of the eight factors, exposing the thief to easy "
+         "recognition."),
+        ("nikhipituṁ na kusalo hoti",
+         "&ldquo;not skilled at hiding his booty&rdquo; &mdash; the "
+         "eighth factor, the discourse's own closing point about poor "
+         "concealment leading to swift capture."),
+    ],
+    text_intro=(
+        "The discourse in full: eight factors leading to a thief's swift "
+        "execution, and their eight opposites. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight factors leading to swift execution"),
+        ("p", "&sect;1", "an8.84:1.1-1.4"),
+        ("h3", "Eight factors that let him live long"),
+        ("p", "&sect;2", "an8.84:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse name as leading to a master "
+              "thief's quick execution?",
+         "opts": [
+             "Poverty alone",
+             "Unprovoked attacks, indiscriminate theft, killing women, "
+             "raping girls, robbing monks and the treasury, working close "
+             "to home, and poor concealment",
+             "Only theft from the wealthy",
+             "Refusing to work with accomplices"],
+         "correct": 1,
+         "expl": "Eight specific factors, stated bluntly and literally."},
+        {"q": "According to the guide, what makes this discourse "
+              "unusual compared to most of this book's other similes?",
+         "opts": [
+             "It is identical in structure to every other simile",
+             "It never draws an explicit parallel back to monastic life "
+             "within the text itself, unlike AN 8.13 or AN 8.34",
+             "It has no reversal list at all",
+             "It is set at a specific, named location"],
+         "correct": 1,
+         "expl": "An unusually literal discourse, with no stated "
+                 "allegorical mapping."},
+        {"q": "How does this reading guide handle the discourse's content?",
+         "opts": [
+             "By inventing a monastic moral the text doesn't state",
+             "By presenting the content plainly as it stands, without "
+             "supplying an unstated interpretation",
+             "By omitting the disturbing specifics entirely",
+             "By declaring the discourse irrelevant to this collection"],
+         "correct": 1,
+         "expl": "Candid presentation, neither softened nor allegorized "
+                 "beyond what the text itself supports."},
+        {"q": "What is the eighth factor named?",
+         "opts": [
+             "Working far from home",
+             "Not being skilled at hiding his booty",
+             "Refusing to steal from monks",
+             "Being too cautious"],
+         "correct": 1,
+         "expl": "The discourse's own closing point about poor "
+                 "concealment."},
+        {"q": "What contrast does the guide draw with AN 8.13 and AN "
+              "8.34?",
+         "opts": [
+             "No contrast is drawn",
+             "Both of those discourses explicitly say 'in the same way, a "
+             "mendicant...' — this discourse never makes that move",
+             "AN 8.13 and AN 8.34 also lack any stated parallel",
+             "This discourse explicitly states a monastic parallel too"],
+         "correct": 1,
+         "expl": "A genuine structural difference from this book's more "
+                 "typical simile discourses."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Eight factors, swift execution", [
+            "unprovoked attack, indiscriminate theft,",
+            "violence against women,",
+            "robbing monks, poor concealment",
+        ]),
+        ("No stated parallel", [
+            "unlike AN 8.13, AN 8.34 —",
+            "no 'in the same way, a mendicant' —",
+            "read purely on its own terms",
+        ]),
+        ("Presented plainly, not softened", [
+            "the disturbing specifics kept,",
+            "no invented monastic moral,",
+            "no allegory supplied unasked",
+        ]),
+        ("Cross-references", [
+            "AN 8.83 &middot; previous, the eightfold root-questions "
+            "catechism",
+            "AN 8.85 &middot; next, eight terms for the Realized One",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.83.html">AN 8.83 &middot; Rooted</a> &mdash; previous.',
+        '<a href="an-8.85.html">AN 8.85 &middot; Terms for the Realized One</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.85 — Samaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Samaṇa", "Terms for the Realized One",
+    vagga=VAGGA_9,
+    meta_title="AN 8.85 — Terms for the Realized One | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samaṇasutta, eight titles for the Buddha — ascetic, brahmin, "
+        "knowledge master, healer, unstained, immaculate, knower, freed — "
+        "closing with a defiant victory verse. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight titles applied to the Buddha, then verses "
+                 "restating them and closing with a first-person "
+                 "declaration of victory"),
+        ("Length", "under 1 minute to read"),
+        ("Titles reclaimed, not merely listed", "Several of these eight "
+                                                "terms — ascetic, "
+                                                "brahmin — were contested "
+                                                "titles other religious "
+                                                "movements also claimed "
+                                                "for themselves, echoing "
+                                                "the reinterpretation "
+                                                "pattern already met at AN "
+                                                "8.11's eight epithets"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, closing this chapter's philosophical run "
+                       "with a burst of declarative confidence"),
+    ],
+    why=(
+        "AN 8.85 names eight terms for the Realized One &mdash; ascetic, "
+        "brahmin, knowledge master, healer, unstained, immaculate, "
+        "knower, and freed &mdash; then closes with verses declaring, in "
+        "the Buddha's own first-person voice, victory in battle and "
+        "complete quenching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight terms &mdash; ascetic, brahmin, knowledge master, "
+            "healer, unstained, immaculate, knower, and freed &mdash; all "
+            "apply to the Realized One, each naming a different facet of "
+            "the same complete attainment, closing with a defiant "
+            "first-person verse of victory."]),
+        ("Titles other traditions also claimed", [
+            "Several of these eight terms, especially &ldquo;ascetic&rdquo; "
+            "(samaṇa) and &ldquo;brahmin&rdquo; (brāhmaṇa), were live, "
+            "contested titles other religious movements of the time also "
+            "claimed for their own teachers &mdash; this discourse "
+            "applies them to the Buddha not as unique inventions but as "
+            "titles genuinely earned and reclaimed, echoing the "
+            "reinterpretation pattern already met at AN 8.11's eight "
+            "epithets."]),
+        ("Eight facets of one complete attainment", [
+            "Rather than eight separate achievements, the eight titles "
+            "function as eight lenses on a single state: healer "
+            "(bhisakka) emphasizes practical remedy, unstained and "
+            "immaculate emphasize purity, knower and knowledge master "
+            "emphasize direct understanding, and freed names the "
+            "underlying liberation all the other titles point toward."]),
+        ("A verse of unabashed victory", [
+            "The closing verses shift register entirely, from measured "
+            "listing to first-person declaration: &ldquo;I am victorious "
+            "in battle... I am a dragon completely tamed, an adept, I am "
+            "quenched&rdquo; &mdash; a rare moment in this book where the "
+            "Buddha's own voice claims triumph directly and without "
+            "qualification."]),
+    ],
+    terms=[
+        ("samaṇo",
+         "&ldquo;ascetic&rdquo; &mdash; the first term, a title also "
+         "claimed by rival religious movements of the time, applied here "
+         "to the Buddha as genuinely earned."),
+        ("brāhmaṇo",
+         "&ldquo;brahmin&rdquo; &mdash; the second term, likewise a "
+         "contested title, reclaimed here around spiritual attainment "
+         "rather than birth."),
+        ("vedagū",
+         "&ldquo;knowledge master&rdquo; &mdash; one of the eight terms, "
+         "naming direct mastery of understanding."),
+        ("bhisakko",
+         "&ldquo;healer&rdquo; &mdash; a term emphasizing practical "
+         "remedy, distinct in flavor from the more purity- or knowledge-"
+         "focused terms surrounding it."),
+        ("sammadaññā vimutto",
+         "&ldquo;freed&rdquo; &mdash; the eighth and final term, naming "
+         "the underlying liberation the other seven titles each point "
+         "toward from a different angle."),
+    ],
+    text_intro=(
+        "The discourse in full: eight terms for the Realized One, and a "
+        "closing verse of victory. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight terms for the Realized One"),
+        ("p", "&sect;1", "an8.85:1.1-1.8"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.85:2.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What are the eight terms this discourse applies to the "
+              "Realized One?",
+         "opts": [
+             "The five hindrances plus three more",
+             "Ascetic, brahmin, knowledge master, healer, unstained, "
+             "immaculate, knower, and freed",
+             "The seven factors of awakening plus one",
+             "Eight monastic titles"],
+         "correct": 1,
+         "expl": "Eight facets of a single complete attainment."},
+        {"q": "According to the guide, why are 'ascetic' and 'brahmin' "
+              "particularly notable among the eight terms?",
+         "opts": [
+             "They are the least important terms",
+             "They were contested titles other religious movements of the "
+             "time also claimed for their own teachers",
+             "They apply only to laypeople",
+             "They have no parallel elsewhere in this book"],
+         "correct": 1,
+         "expl": "Titles reclaimed rather than uniquely invented, echoing "
+                 "AN 8.11's own reinterpretation pattern."},
+        {"q": "What does the guide say about how the eight titles relate "
+              "to each other?",
+         "opts": [
+             "They name eight completely separate achievements",
+             "They function as eight lenses on a single complete "
+             "attainment, each emphasizing a different facet",
+             "Only one of the eight is actually accurate",
+             "They contradict each other"],
+         "correct": 1,
+         "expl": "Different angles on one underlying state, not eight "
+                 "independent accomplishments."},
+        {"q": "How do the closing verses shift in register?",
+         "opts": [
+             "They continue the same measured listing",
+             "They shift to first-person declaration of victory — 'I am "
+             "victorious in battle... I am quenched'",
+             "They become a question rather than a statement",
+             "They shift to addressing a specific individual by name"],
+         "correct": 1,
+         "expl": "A rare moment of direct, unqualified triumph in the "
+                 "Buddha's own voice."},
+        {"q": "What does 'healer' (bhisakko) emphasize, distinct from the "
+              "purity-focused terms around it?",
+         "opts": [
+             "Physical strength",
+             "Practical remedy",
+             "Wealth", "Royal status"],
+         "correct": 1,
+         "expl": "A different flavor of attainment than the purity- or "
+                 "knowledge-focused terms nearby."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Eight titles, one attainment", [
+            "ascetic, brahmin, knower,",
+            "healer, unstained, immaculate,",
+            "knowledge master, freed",
+        ]),
+        ("Contested titles, reclaimed", [
+            "not unique inventions —",
+            "rival movements claimed these too —",
+            "earned here, not merely asserted",
+        ]),
+        ("A verse of unabashed victory", [
+            "'I am victorious in battle' —",
+            "a rare moment of direct",
+            "first-person triumph, unqualified",
+        ]),
+        ("Cross-references", [
+            "AN 8.84 &middot; previous, a master thief's eight factors",
+            "AN 8.11 &middot; earlier, the same reinterpretation pattern "
+            "applied to eight hostile epithets",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.84.html">AN 8.84 &middot; A Master Thief</a> &mdash; previous.',
+        '<a href="an-8.11.html">AN 8.11 &middot; At Verañjā</a> &mdash; earlier, the same '
+        "reinterpretation pattern applied to eight hostile epithets.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.86 — Nāgitasutta -- a vivid, highly personal narrative; not
+# organized around an eightfold list at all, unusual for this book.
+# --------------------------------------------------------------------------- #
+page(
+    86, "Nāgita", "With Nāgita",
+    vagga=VAGGA_9,
+    meta_title="AN 8.86 — With Nāgita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nāgitasutta, a vivid, unusually personal narrative in which the "
+        "Buddha refuses a noisy crowd's offering, declares he never wants "
+        "fame, and gives his attendant Nāgita a candid, sometimes "
+        "surprising account of what pleases and displeases him about "
+        "mendicant conduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest near Icchānaṅgala, a village of Kosalan "
+                    "brahmins"),
+        ("Speakers", "The Buddha and Venerable Nāgita, his attendant"),
+        ("Form", "A narrative opening with a noisy crowd, then an extended "
+                 "personal account by the Buddha of what he approves and "
+                 "disapproves of, closing with an unexpectedly mundane "
+                 "personal detail"),
+        ("Length", "~4 minutes to read"),
+        ("Not organized around an eightfold list at all", "Unlike almost "
+                                                           "every other "
+                                                           "discourse in "
+                                                           "this book, "
+                                                           "this one names "
+                                                           "no explicit "
+                                                           "count of eight "
+                                                           "— it belongs "
+                                                           "here by "
+                                                           "placement, its "
+                                                           "real content a "
+                                                           "free-flowing, "
+                                                           "highly "
+                                                           "personal "
+                                                           "account"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "narratively rich and unusually candid, worth "
+                       "reading for its portrait of the Buddha's own "
+                       "temperament as much as its explicit content"),
+    ],
+    why=(
+        "When a crowd of brahmins and householders arrives making a "
+        "&ldquo;colossal racket&rdquo; wanting to honor him specially, "
+        "the Buddha tells his attendant Nāgita that he never wants fame, "
+        "preferring the pleasure of seclusion any ordinary person can't "
+        "access &mdash; and goes on to give a candid, sometimes "
+        "surprising account of exactly what pleases and displeases him "
+        "about how mendicants actually live."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha declares he never wants fame, since the "
+            "&ldquo;filthy, lazy pleasure&rdquo; of possessions, honor, "
+            "and popularity can't compare to the pleasure of renunciation "
+            "and seclusion he can access at will, then tells Nāgita in "
+            "detail what specifically pleases and displeases him about "
+            "how mendicants conduct themselves, in the village and in the "
+            "wilderness alike."]),
+        ("A noisy crowd, and a blunt refusal of fame", [
+            "The discourse opens with genuine comic energy: a crowd makes "
+            "such a racket outside the gate that the Buddha compares it "
+            "to fishermen hauling in a catch, and when told they've come "
+            "bearing food specifically to honor him, his response isn't "
+            "gratitude but a flat declaration that he never wants fame at "
+            "all &mdash; repeated even after Nāgita's own respectful "
+            "objection that the Buddha's influence naturally draws people "
+            "&ldquo;like water flowing downhill.&rdquo;"]),
+        ("Surprisingly candid judgments about mendicant behavior", [
+            "The Buddha's account of what displeases him is unusually "
+            "specific and personal: mendicants poking each other and "
+            "giggling together, or eating until full and then indulging "
+            "in sleep, both genuinely disappoint him. His preference "
+            "between village and wilderness dwelling isn't absolute "
+            "either &mdash; he's displeased by a village mendicant sitting "
+            "immersed in samādhi (fearing they'll be disturbed) but "
+            "pleased by a wilderness mendicant even when nodding off in "
+            "meditation, reasoning that at least they'll wake to an "
+            "environment supporting further practice."]),
+        ("A closing detail almost startling in its ordinariness", [
+            "The discourse ends not with a grand doctrinal statement but "
+            "with the Buddha admitting, with disarming candor, that "
+            "walking a road alone &mdash; seeing no one ahead or behind "
+            "&mdash; feels relaxing to him, even for something as mundane "
+            "as needing to urinate or defecate. This closing detail, "
+            "unusual in this book's typical register, humanizes the "
+            "entire discourse's underlying preference for solitude over "
+            "crowds."]),
+    ],
+    terms=[
+        ("mā maṁ yaso āgamā, mā ca yasaṁ āgamiṁ",
+         "&ldquo;may I never become famous. May fame not come to "
+         "me&rdquo; &mdash; the Buddha's own blunt, repeated declaration, "
+         "the discourse's central refrain."),
+        ("kilesikaṁ kasiraṁ lābhasakkārasilokasukhaṁ",
+         "&ldquo;the filthy, lazy pleasure of possessions, honor, and "
+         "popularity&rdquo; &mdash; the Buddha's own dismissive "
+         "description of what fame actually offers, contrasted with "
+         "renunciation's pleasure."),
+        ("aṅgulipatodakena aññamaññaṁ",
+         "&ldquo;poking each other with their fingers, giggling and "
+         "playing together&rdquo; &mdash; one of the specific behaviors "
+         "the Buddha names as displeasing him, a candid, almost "
+         "parental-sounding complaint."),
+        ("araññe pana bhikkhuṁ passāmi pacalāyamānaṁ nisinnaṁ",
+         "&ldquo;a mendicant in the wilderness who I see sitting nodding "
+         "in meditation&rdquo; &mdash; a case the Buddha says pleases "
+         "him despite the apparent lapse, reasoning that the wilderness "
+         "itself supports recovery."),
+        ("appossukko sukhaṁ vighāsaṁ karomi",
+         "part of the discourse's closing admission about the ordinary "
+         "relief of walking a road with no one ahead or behind, even for "
+         "mundane bodily needs."),
+    ],
+    text_intro=(
+        "The discourse in full: a noisy crowd, the Buddha's refusal of "
+        "fame, and his candid account of what pleases and displeases him "
+        "about mendicant conduct. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A noisy crowd, and the Buddha's refusal of fame"),
+        ("p", "&sect;1", "an8.86:1.1-4.3"),
+        ("h3", "What displeases him: company, giggling, overeating"),
+        ("p", "&sect;2", "an8.86:5.1-7.4"),
+        ("h3", "Village and wilderness, judged case by case"),
+        ("p", "&sect;3", "an8.86:8.1-13.3"),
+        ("h3", "A closing, unexpectedly ordinary detail"),
+        ("p", "&sect;4", "an8.86:14.1-14.1"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha respond when told a crowd has come "
+              "bearing food specifically to honor him?",
+         "opts": [
+             "With gratitude and immediate acceptance",
+             "With a flat declaration that he never wants fame at all",
+             "By asking Nāgita to accept it on his behalf",
+             "By ignoring the crowd entirely"],
+         "correct": 1,
+         "expl": "A blunt refusal, repeated even after Nāgita's own "
+                 "respectful objection."},
+        {"q": "What specific mendicant behaviors does the Buddha say "
+              "displease him?",
+         "opts": [
+             "Meditating too much",
+             "Poking each other and giggling together, and eating until "
+             "full then indulging in sleep",
+             "Traveling too far from the monastery",
+             "Speaking too formally"],
+         "correct": 1,
+         "expl": "Candid, almost parental-sounding complaints about "
+                 "specific observed conduct."},
+        {"q": "How does the Buddha judge a village mendicant sitting "
+              "immersed in samādhi, versus a wilderness mendicant nodding "
+              "off in meditation?",
+         "opts": [
+             "He approves of both equally",
+             "He's displeased by the village case (fearing disturbance) "
+             "but pleased by the wilderness case (trusting the "
+             "environment supports recovery)",
+             "He disapproves of both equally",
+             "He never comments on either case"],
+         "correct": 1,
+         "expl": "A nuanced, situation-specific judgment rather than a "
+                 "simple rule."},
+        {"q": "What does the discourse's closing detail reveal?",
+         "opts": [
+             "A grand doctrinal statement",
+             "The Buddha's candid admission that walking alone feels "
+             "relaxing to him, even for mundane bodily needs",
+             "A prediction about the future of the Saṅgha",
+             "A warning about a specific mendicant"],
+         "correct": 1,
+         "expl": "An unusually ordinary, humanizing detail closing the "
+                 "discourse."},
+        {"q": "According to the guide, how is this discourse structured, "
+              "unlike almost every other discourse in this book?",
+         "opts": [
+             "Around a clean eightfold list",
+             "With no explicit count of eight at all — a free-flowing, "
+             "highly personal narrative belonging here by placement",
+             "As a bare blocking-and-reversal pair",
+             "As a formal legal procedure"],
+         "correct": 1,
+         "expl": "An outlier in structure, its content unusually personal "
+                 "and narrative."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "A forest near Icchānaṅgala, a village of Kosalan brahmins",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A specific named location, distinct from this book's "
+                 "more common settings."},
+    ],
+    marginalia=[
+        ("A racket like fishermen hauling a catch", [
+            "a crowd comes bearing food —",
+            "the Buddha's answer: 'may I",
+            "never become famous'",
+        ]),
+        ("Candid, almost parental judgments", [
+            "displeased by giggling, poking —",
+            "displeased by eating full",
+            "then indulging in sleep",
+        ]),
+        ("Nuanced, not absolute", [
+            "village samādhi worries him —",
+            "wilderness drowsiness doesn't —",
+            "judged case by case, not by rule",
+        ]),
+        ("Cross-references", [
+            "AN 8.85 &middot; earlier, eight terms for the Realized One",
+            "AN 8.87 &middot; next, formal Saṅgha procedures toward "
+            "difficult lay supporters",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.85.html">AN 8.85 &middot; Terms for the Realized One</a> &mdash; '
+        "previous.",
+        '<a href="an-8.87.html">AN 8.87 &middot; Turning the Bowl Upside Down</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.87 — Pattanikkujjanasutta -- first of four Vinaya-procedural
+# discourses closing this chapter.
+# --------------------------------------------------------------------------- #
+page(
+    87, "Pattanikkujjana", "Turning the Bowl Upside Down",
+    vagga=VAGGA_9,
+    meta_title="AN 8.87 — Turning the Bowl Upside Down | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pattanikkujjanasutta, the formal grounds on which the Saṅgha may "
+        "collectively boycott a hostile lay supporter — and the grounds "
+        "for reversing that boycott. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A formal procedural statement: eight grounds for the "
+                 "Saṅgha's collective boycott, then their eight reversals"),
+        ("Length", "under 1 minute to read"),
+        ("The first of four Vinaya-adjacent discourses", "This discourse "
+                                                          "opens a "
+                                                          "distinct "
+                                                          "closing run in "
+                                                          "this chapter: "
+                                                          "four "
+                                                          "discourses "
+                                                          "(AN 8.87–90) "
+                                                          "concerned with "
+                                                          "formal "
+                                                          "institutional "
+                                                          "procedures "
+                                                          "governing "
+                                                          "Saṅgha-lay "
+                                                          "relations and "
+                                                          "monastic "
+                                                          "discipline"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formal and procedural in register, a shift from "
+                       "this chapter's earlier narrative and "
+                       "philosophical material"),
+    ],
+    why=(
+        "AN 8.87 names eight grounds on which the Saṅgha may, if it "
+        "wishes, collectively refuse a lay follower's offerings &mdash; "
+        "obstructing mendicants' material support, harming them, driving "
+        "them from a monastery, insulting them, dividing them against "
+        "each other, or criticizing the Buddha, teaching, or Saṅgha "
+        "&mdash; and their eight reversals, restoring the relationship."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Saṅgha may collectively boycott a lay follower &mdash; "
+            "&ldquo;turning the bowl upside down&rdquo; to refuse their "
+            "offerings &mdash; on eight grounds of active hostility "
+            "toward mendicants, and may reverse that boycott once the lay "
+            "follower stops behaving in these eight ways."]),
+        ("A vivid image for a formal act", [
+            "&ldquo;Turning the bowl upside down&rdquo; names a concrete, "
+            "visible gesture: an alms bowl normally held open to receive "
+            "food is instead inverted, signaling refusal. The Saṅgha's "
+            "formal collective response to hostile lay conduct is "
+            "expressed through this same physical, unmistakable act "
+            "rather than an abstract declaration."]),
+        ("Eight grounds, all concerning active hostility", [
+            "Every one of the eight grounds describes deliberate hostile "
+            "action toward the mendicant community: obstructing material "
+            "support, causing harm, driving mendicants away, insulting "
+            "them, sowing division among them, or criticizing the three "
+            "refuges directly &mdash; not disagreement or criticism in "
+            "general, but active, targeted hostility."]),
+        ("A reversible, not permanent, procedure", [
+            "The discourse's second half matters as much as its first: "
+            "the boycott is explicitly reversible, restored once the lay "
+            "follower's conduct changes &mdash; framing this formal act "
+            "as a corrective response to specific behavior, not a "
+            "permanent severing of relationship."]),
+    ],
+    terms=[
+        ("pattaṁ nikkujjeyya",
+         "&ldquo;turn the bowl upside down&rdquo; &mdash; this "
+         "discourse's own title-phrase and central image, a visible "
+         "gesture of collective refusal."),
+        ("lābhaṁ pariyesati",
+         "&ldquo;material things&rdquo; &mdash; what the first ground "
+         "concerns, a lay follower obstructing mendicants' basic "
+         "material support."),
+        ("anatthaṁ pariyesati",
+         "&ldquo;tries to harm&rdquo; &mdash; the second ground, direct "
+         "hostility beyond merely withholding support."),
+        ("saṅghabhedāya parakkamati",
+         "&ldquo;divides mendicants against each other&rdquo; &mdash; "
+         "one of the eight grounds, targeting the Saṅgha's own internal "
+         "unity rather than any individual mendicant."),
+        ("pattaṁ ukkujjeyya",
+         "&ldquo;turn the bowl upright&rdquo; &mdash; the discourse's own "
+         "term for reversing the boycott, restoring the relationship once "
+         "the eight grounds no longer apply."),
+    ],
+    text_intro=(
+        "The discourse in full: eight grounds for the Saṅgha's boycott, "
+        "and eight grounds for reversing it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight grounds for turning the bowl upside down"),
+        ("p", "&sect;1", "an8.87:1.1-1.4"),
+        ("h3", "Eight grounds for turning it upright again"),
+        ("p", "&sect;2", "an8.87:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does 'turning the bowl upside down' refer to?",
+         "opts": [
+             "A meditation posture",
+             "A visible, concrete gesture of the Saṅgha's collective "
+             "refusal of a lay follower's offerings",
+             "A monastic building repair",
+             "A method of alms distribution"],
+         "correct": 1,
+         "expl": "A formal boycott expressed through a physical, "
+                 "unmistakable act."},
+        {"q": "What kind of conduct do the eight grounds for this boycott "
+              "concern?",
+         "opts": [
+             "Simple disagreement or criticism in general",
+             "Active, targeted hostility — obstructing support, causing "
+             "harm, driving mendicants away, insulting them, dividing "
+             "them, or criticizing the three refuges",
+             "Failure to attend religious festivals",
+             "Minor social awkwardness"],
+         "correct": 1,
+         "expl": "Deliberate hostile action, not mere disagreement."},
+        {"q": "Is the boycott described as permanent?",
+         "opts": [
+             "Yes, once imposed it can never be reversed",
+             "No — it is explicitly reversible once the lay follower's "
+             "conduct changes",
+             "The discourse doesn't address reversal",
+             "It automatically expires after a fixed time"],
+         "correct": 1,
+         "expl": "A corrective response to specific behavior, not a "
+                 "permanent severing."},
+        {"q": "How does the guide characterize this discourse's place in "
+              "the chapter?",
+         "opts": [
+             "A continuation of the narrative register of AN 8.86",
+             "The first of four Vinaya-adjacent discourses closing this "
+             "chapter with formal institutional procedures",
+             "A return to philosophical material",
+             "Unrelated to the rest of the chapter"],
+         "correct": 1,
+         "expl": "A shift in register, opening a distinct closing run of "
+                 "procedural discourses."},
+        {"q": "What is one of the eight grounds for the boycott?",
+         "opts": [
+             "Disagreeing publicly with a monastic teaching",
+             "Trying to divide mendicants against each other",
+             "Being too generous with offerings",
+             "Asking too many questions"],
+         "correct": 1,
+         "expl": "One of six named grounds, all concerning active "
+                 "hostility toward the mendicant community."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("A visible gesture of refusal", [
+            "the alms bowl, inverted —",
+            "a concrete, physical signal,",
+            "not an abstract declaration",
+        ]),
+        ("Active hostility, not disagreement", [
+            "obstructing support, causing harm,",
+            "driving mendicants away,",
+            "dividing them, insulting the refuges",
+        ]),
+        ("Reversible, not permanent", [
+            "the bowl turned upright again",
+            "once conduct changes —",
+            "a corrective response, not a severing",
+        ]),
+        ("Cross-references", [
+            "AN 8.86 &middot; previous, the Buddha's candid account of "
+            "what pleases and displeases him",
+            "AN 8.88 &middot; next, the mirror procedure from the "
+            "laypeople's own side",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.86.html">AN 8.86 &middot; With Nāgita</a> &mdash; previous.',
+        '<a href="an-8.88.html">AN 8.88 &middot; A Proclamation of No Confidence</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.88 — Appasādasutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Appasāda", "A Proclamation of No Confidence",
+    vagga=VAGGA_9,
+    meta_title="AN 8.88 — A Proclamation of No Confidence | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Appasādasutta, the mirror procedure to AN 8.87 from the "
+        "laypeople's own side: the grounds on which they may formally "
+        "declare no confidence in a hostile mendicant, and its reversal. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight grounds for a formal lay proclamation of no "
+                 "confidence in a mendicant, then eight grounds for its "
+                 "reversal"),
+        ("Length", "under 1 minute to read"),
+        ("The mirror of AN 8.87, from the other direction", "Where AN "
+                                                             "8.87 gave "
+                                                             "the "
+                                                             "Saṅgha's "
+                                                             "own formal "
+                                                             "power to "
+                                                             "boycott a "
+                                                             "hostile "
+                                                             "layperson, "
+                                                             "this "
+                                                             "discourse "
+                                                             "gives "
+                                                             "laypeople "
+                                                             "the "
+                                                             "parallel "
+                                                             "power to "
+                                                             "formally "
+                                                             "declare no "
+                                                             "confidence "
+                                                             "in a "
+                                                             "hostile "
+                                                             "mendicant"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formal and procedural, best read directly "
+                       "alongside AN 8.87 for the reciprocal structure"),
+    ],
+    why=(
+        "AN 8.88 names eight grounds on which laypeople may formally "
+        "declare no confidence in a mendicant &mdash; obstructing their "
+        "material support, harming them, insulting them, dividing them "
+        "against each other, criticizing the Buddha, teaching, or "
+        "Saṅgha, or begging in inappropriate places &mdash; and their "
+        "eight reversals, restoring lay confidence."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Laypeople may formally proclaim no confidence in a "
+            "mendicant who obstructs their material support, harms or "
+            "insults them, divides them against each other, criticizes "
+            "the three refuges, or begs in an inappropriate place "
+            "&mdash; and may restore confidence once the mendicant stops "
+            "behaving in these eight ways."]),
+        ("A power granted to laypeople, mirroring AN 8.87", [
+            "This discourse and AN 8.87, immediately preceding it, form a "
+            "deliberate reciprocal pair: the Saṅgha can formally withdraw "
+            "from a hostile layperson, and laypeople can formally "
+            "withdraw their confidence from a hostile mendicant &mdash; "
+            "neither side holds unilateral, unchecked authority over the "
+            "relationship."]),
+        ("Overlapping grounds, one genuinely new item", [
+            "Six of the eight grounds closely parallel AN 8.87's own "
+            "list &mdash; obstructing material support, causing harm, "
+            "insulting, dividing, and criticizing the three refuges "
+            "&mdash; but this discourse adds one item with no equivalent "
+            "in AN 8.87: being seen begging for alms at an inappropriate "
+            "place, a specifically monastic-conduct concern that wouldn't "
+            "apply to a layperson."]),
+        ("Confidence as something earned continuously, not assumed", [
+            "By naming specific, concrete grounds for withdrawing and "
+            "restoring confidence, this discourse frames a mendicant's "
+            "standing with the lay community as something maintained "
+            "through ongoing conduct, not a status granted once at "
+            "ordination and held automatically thereafter."]),
+    ],
+    terms=[
+        ("appasādaṁ pakāseyyuṁ",
+         "&ldquo;make a proclamation of no confidence&rdquo; &mdash; "
+         "this discourse's own title-phrase, the formal lay declaration "
+         "concerning a mendicant."),
+        ("agocare āpādesi",
+         "&ldquo;seen at an inappropriate place for collecting "
+         "alms&rdquo; &mdash; the item unique to this discourse's list, "
+         "with no equivalent in AN 8.87's grounds for the Saṅgha's own "
+         "boycott."),
+        ("saṅghabhedāya parakkamati",
+         "&ldquo;divides laypeople against each other&rdquo; &mdash; "
+         "one of the shared grounds, here concerning division within the "
+         "lay community rather than within the Saṅgha."),
+        ("pasādaṁ pakāseyyuṁ",
+         "&ldquo;make a proclamation of confidence&rdquo; &mdash; the "
+         "discourse's own term for restoring standing, once the eight "
+         "grounds no longer apply."),
+        ("upāsakā",
+         "&ldquo;lay followers&rdquo; &mdash; the discourse's own "
+         "subject, holding a formal, named power over a mendicant's "
+         "standing, mirroring the Saṅgha's own power at AN 8.87."),
+    ],
+    text_intro=(
+        "The discourse in full: eight grounds for a lay proclamation of "
+        "no confidence, and eight grounds for its reversal. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight grounds for a proclamation of no confidence"),
+        ("p", "&sect;1", "an8.88:1.1-1.4"),
+        ("h3", "Eight grounds for a proclamation of confidence"),
+        ("p", "&sect;2", "an8.88:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 8.87?",
+         "opts": [
+             "No relation at all",
+             "A deliberate reciprocal pair — where AN 8.87 gives the "
+             "Saṅgha power over a hostile layperson, this discourse gives "
+             "laypeople parallel power over a hostile mendicant",
+             "This discourse contradicts AN 8.87's teaching",
+             "It repeats AN 8.87 word for word"],
+         "correct": 1,
+         "expl": "Neither side holds unilateral authority over the "
+                 "relationship."},
+        {"q": "What item appears in this discourse's list with no "
+              "equivalent in AN 8.87?",
+         "opts": [
+             "Obstructing material support",
+             "Being seen begging for alms at an inappropriate place",
+             "Insulting laypeople",
+             "Criticizing the three refuges"],
+         "correct": 1,
+         "expl": "A specifically monastic-conduct concern, not applicable "
+                 "to a layperson's own behavior."},
+        {"q": "According to the guide, what does this discourse's "
+              "structure suggest about a mendicant's standing with the lay "
+              "community?",
+         "opts": [
+             "That it is granted once at ordination and held automatically "
+             "thereafter",
+             "That it is maintained through ongoing conduct, not assumed "
+             "as a permanent status",
+             "That laypeople have no say in the matter",
+             "That only senior monks are subject to this scrutiny"],
+         "correct": 1,
+         "expl": "A relationship earned continuously, with named grounds "
+                 "for both withdrawal and restoration."},
+        {"q": "What is this discourse's own title-phrase?",
+         "opts": [
+             "Turning the bowl upside down",
+             "A proclamation of no confidence (appasāda)",
+             "An act of reconciliation",
+             "A period of penance"],
+         "correct": 1,
+         "expl": "The formal lay declaration this discourse describes."},
+        {"q": "How many of the eight grounds closely parallel AN 8.87's "
+              "own list?",
+         "opts": [
+             "None", "Six, with one genuinely new item added",
+             "All eight are entirely different", "Only one"],
+         "correct": 1,
+         "expl": "Substantial overlap, with one item specific to "
+                 "monastic alms-conduct."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.87's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("A reciprocal power", [
+            "Saṅgha can boycott laypeople —",
+            "laypeople can withdraw confidence —",
+            "neither side holds it alone",
+        ]),
+        ("One new item added", [
+            "begging in the wrong place —",
+            "a monastic-specific concern",
+            "with no equivalent in AN 8.87",
+        ]),
+        ("Standing, earned continuously", [
+            "not granted once and held forever —",
+            "named grounds for withdrawal",
+            "and for restoration alike",
+        ]),
+        ("Cross-references", [
+            "AN 8.87 &middot; previous, the Saṅgha's own mirror procedure",
+            "AN 8.89 &middot; next, a formal act requiring reconciliation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.87.html">AN 8.87 &middot; Turning the Bowl Upside Down</a> &mdash; '
+        "previous.",
+        '<a href="an-8.89.html">AN 8.89 &middot; Reconciliation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.89 — Paṭisāraṇīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Paṭisāraṇīya", "Reconciliation",
+    vagga=VAGGA_9,
+    meta_title="AN 8.89 — Reconciliation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭisāraṇīyasutta, the formal act by which the Saṅgha may compel "
+        "a mendicant to seek reconciliation with a wronged layperson, and "
+        "the grounds for revoking it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight grounds for the Saṅgha's formal act requiring "
+                 "reconciliation, then eight grounds for revoking that "
+                 "act"),
+        ("Length", "under 1 minute to read"),
+        ("A formal remedy, not just a sanction", "Unlike AN 8.87 and AN "
+                                                  "8.88's boycott and no-"
+                                                  "confidence procedures, "
+                                                  "this discourse's "
+                                                  "formal act doesn't "
+                                                  "simply withdraw "
+                                                  "support — it actively "
+                                                  "requires the mendicant "
+                                                  "to pursue "
+                                                  "reconciliation with "
+                                                  "the specific wronged "
+                                                  "layperson"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formal and procedural, best read as the third of "
+                       "this chapter's four institutional-procedure "
+                       "discourses"),
+    ],
+    why=(
+        "AN 8.89 names eight grounds on which the Saṅgha may formally "
+        "require a mendicant to pursue reconciliation with a layperson "
+        "&mdash; obstructing their material support, harming them, "
+        "insulting them, dividing them, criticizing the three refuges, or "
+        "breaking a legitimate promise made to them &mdash; and the "
+        "grounds for revoking that requirement once satisfied."),
+    guide=[
+        ("The teaching in one sentence", [
+            "When a mendicant obstructs a layperson's material support, "
+            "harms or insults them, divides laypeople against each "
+            "other, criticizes the three refuges, or breaks a legitimate "
+            "promise made to a layperson, the Saṅgha may formally require "
+            "that mendicant to pursue reconciliation, revoking the "
+            "requirement once they keep their promise and stop the "
+            "offending conduct."]),
+        ("A remedy aimed at repair, not merely withdrawal", [
+            "Where AN 8.87 and AN 8.88 both describe forms of formal "
+            "withdrawal &mdash; the Saṅgha boycotting a layperson, "
+            "laypeople withdrawing confidence in a mendicant &mdash; this "
+            "discourse's formal act moves in the opposite direction: it "
+            "actively compels the mendicant to go and repair a specific "
+            "relationship, not simply to stop the offending behavior."]),
+        ("A new item: keeping legitimate promises", [
+            "This discourse adds a ground not found in either AN 8.87 or "
+            "AN 8.88: not keeping a legitimate promise made to a "
+            "layperson. This item shifts the register slightly from pure "
+            "hostility toward a breach of trust and reliability, a "
+            "distinct kind of harm to the lay relationship."]),
+        ("The third of four related procedural discourses", [
+            "Read alongside AN 8.87, 8.88, and AN 8.90 immediately "
+            "following, this discourse forms part of a deliberate cluster "
+            "closing this chapter with concrete institutional machinery "
+            "&mdash; different formal responses (boycott, withdrawn "
+            "confidence, compelled reconciliation, and restricted "
+            "standing) matched to different situations in the "
+            "relationship between the Saṅgha and its lay supporters."]),
+    ],
+    terms=[
+        ("paṭisāraṇīyaṁ kammaṁ",
+         "&ldquo;an act requiring... reconciliation&rdquo; &mdash; this "
+         "discourse's own title-phrase, a formal Saṅgha procedure "
+         "compelling active repair rather than mere withdrawal."),
+        ("saccaṁ paṭiññaṁ na karoti",
+         "&ldquo;doesn't keep a legitimate promise made to a "
+         "layperson&rdquo; &mdash; the item unique to this discourse's "
+         "list, concerning broken trust rather than direct hostility."),
+        ("kammaṁ paṭippassambheyya",
+         "&ldquo;revoke the act&rdquo; &mdash; the discourse's own term "
+         "for lifting the reconciliation requirement, once its eight "
+         "grounds no longer apply."),
+        ("lābhaṁ pariyesati, anatthaṁ pariyesati",
+         "&ldquo;tries to prevent laypeople from getting material "
+         "things... tries to harm laypeople&rdquo; &mdash; two shared "
+         "grounds echoing AN 8.87 and AN 8.88's own lists."),
+        ("saṅghabhedāya parakkamati",
+         "&ldquo;divides laypeople against each other&rdquo; &mdash; a "
+         "shared ground with AN 8.88, concerning harm to lay unity."),
+    ],
+    text_intro=(
+        "The discourse in full: eight grounds for requiring "
+        "reconciliation, and eight grounds for revoking that requirement. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight grounds for requiring reconciliation"),
+        ("p", "&sect;1", "an8.89:1.1-1.4"),
+        ("h3", "Eight grounds for revoking the requirement"),
+        ("p", "&sect;2", "an8.89:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's formal act differ from AN 8.87 "
+              "and AN 8.88's procedures?",
+         "opts": [
+             "It is identical to both",
+             "It actively compels the mendicant to pursue reconciliation "
+             "with a specific wronged layperson, rather than simply "
+             "withdrawing support or confidence",
+             "It applies only to laypeople, not mendicants",
+             "It has no practical effect at all"],
+         "correct": 1,
+         "expl": "A remedy aimed at repair, not merely a form of "
+                 "withdrawal."},
+        {"q": "What ground appears in this discourse's list that isn't "
+              "found in AN 8.87 or AN 8.88?",
+         "opts": [
+             "Obstructing material support",
+             "Not keeping a legitimate promise made to a layperson",
+             "Insulting laypeople",
+             "Criticizing the three refuges"],
+         "correct": 1,
+         "expl": "A shift toward broken trust and reliability, distinct "
+                 "from direct hostility."},
+        {"q": "According to the guide, what does this discourse's place in "
+              "the chapter's closing cluster represent?",
+         "opts": [
+             "An isolated, unrelated procedure",
+             "One of four different formal responses matched to different "
+             "situations in the Saṅgha-lay relationship",
+             "A contradiction of AN 8.87 and AN 8.88",
+             "A repeat of AN 8.90's own content"],
+         "correct": 1,
+         "expl": "Part of a deliberate cluster of institutional machinery "
+                 "closing this chapter."},
+        {"q": "What happens once the mendicant keeps their promise and "
+              "stops the offending conduct?",
+         "opts": [
+             "Nothing changes; the act is permanent",
+             "The Saṅgha may revoke the act requiring reconciliation",
+             "The layperson must formally forgive them in a separate "
+             "ceremony",
+             "The mendicant is expelled regardless"],
+         "correct": 1,
+         "expl": "A reversible procedure, like AN 8.87 and AN 8.88's own "
+                 "reversible acts."},
+        {"q": "What kind of harm does the new promise-breaking item "
+              "represent, distinct from the other grounds?",
+         "opts": [
+             "Physical violence",
+             "A breach of trust and reliability, rather than direct "
+             "hostility",
+             "Financial fraud specifically",
+             "Public embarrassment"],
+         "correct": 1,
+         "expl": "A distinct kind of relational harm, added to this "
+                 "discourse's own list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.87 and AN 8.88's own lack "
+                 "of a stated setting."},
+    ],
+    marginalia=[
+        ("Repair, not just withdrawal", [
+            "not a boycott or lost confidence —",
+            "an active requirement",
+            "to seek out reconciliation",
+        ]),
+        ("A new kind of harm named", [
+            "breaking a legitimate promise —",
+            "not hostility, but broken trust,",
+            "a distinct relational wound",
+        ]),
+        ("Third of four related procedures", [
+            "boycott, no confidence,",
+            "reconciliation, restricted standing —",
+            "different remedies, different situations",
+        ]),
+        ("Cross-references", [
+            "AN 8.88 &middot; previous, the lay proclamation of no "
+            "confidence",
+            "AN 8.90 &middot; next, closing this chapter with restricted "
+            "standing after aggravated misconduct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.88.html">AN 8.88 &middot; A Proclamation of No Confidence</a> '
+        "&mdash; previous.",
+        '<a href="an-8.90.html">AN 8.90 &middot; Proper Behavior in a Case of Aggravated '
+        "Misconduct</a> &mdash; next, closing this chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.90 — Ādibrahmacariyakasutta -- closes ch.9 Sativagga with the fourth
+# of this chapter's Vinaya-procedural discourses.
+# --------------------------------------------------------------------------- #
+page(
+    90, "Ādibrahmacariyaka", "Proper Behavior in a Case of Aggravated Misconduct",
+    vagga=VAGGA_9,
+    meta_title="AN 8.90 — Proper Behavior in a Case of Aggravated Misconduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "closing discourse of this chapter, naming eight specific "
+        "restrictions a mendicant convicted of aggravated misconduct must "
+        "observe — barred from ordaining others, holding seniority, or "
+        "resolving others of similar offenses. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single, unreversed list of eight specific behavioral "
+                 "restrictions, with no reversal pair this time"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter's procedural run without reversal", "Unlike "
+                                                                    "AN "
+                                                                    "8.87, "
+                                                                    "8.88, "
+                                                                    "and "
+                                                                    "8.89, "
+                                                                    "each "
+                                                                    "of "
+                                                                    "which "
+                                                                    "paired "
+                                                                    "its "
+                                                                    "formal "
+                                                                    "act "
+                                                                    "with "
+                                                                    "explicit "
+                                                                    "grounds "
+                                                                    "for "
+                                                                    "reversal, "
+                                                                    "this "
+                                                                    "discourse "
+                                                                    "states "
+                                                                    "only "
+                                                                    "the "
+                                                                    "eight "
+                                                                    "restrictions "
+                                                                    "themselves, "
+                                                                    "with "
+                                                                    "no "
+                                                                    "parallel "
+                                                                    "list "
+                                                                    "for "
+                                                                    "lifting "
+                                                                    "them"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "formal and specific, closing this chapter on "
+                       "institutional detail rather than doctrine or "
+                       "narrative"),
+    ],
+    why=(
+        "AN 8.90 closes this chapter by naming eight specific "
+        "restrictions a mendicant convicted of aggravated misconduct must "
+        "observe: barred from performing ordinations, giving dependence, "
+        "supervising novices, advising nuns, accepting Saṅgha "
+        "appointments, holding seniority, or excusing others from "
+        "offenses similar to their own."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant convicted of aggravated misconduct must observe "
+            "eight specific restrictions on their monastic role: no "
+            "ordaining others, no giving dependence or supervising a "
+            "novice, no serving or being appointed as adviser for nuns, "
+            "no accepting any Saṅgha appointment, no position of "
+            "seniority, and no resolving others from offenses similar to "
+            "their own."]),
+        ("Restrictions targeting authority, not participation", [
+            "Every one of the eight restrictions concerns positions of "
+            "authority, responsibility, or influence over others "
+            "&mdash; ordaining, supervising, advising, holding seniority "
+            "&mdash; rather than barring the convicted mendicant from "
+            "monastic life itself. The restriction is specifically on "
+            "exercising authority while under this status, not on "
+            "remaining part of the community."]),
+        ("A pointed final restriction", [
+            "The eighth and final restriction carries particular weight: "
+            "such a mendicant must not resolve others from any offense "
+            "similar to the one they themselves committed &mdash; a "
+            "direct acknowledgment that someone under this status lacks "
+            "the standing to judge others on the very matter they "
+            "themselves are answering for."]),
+        ("No reversal list, closing this chapter differently", [
+            "Where the three preceding discourses in this chapter's "
+            "procedural cluster each paired their formal act with "
+            "explicit grounds for reversal, this discourse names only "
+            "the restrictions themselves, with no parallel list "
+            "describing when or how they lift &mdash; closing this "
+            "chapter's run of institutional-procedure discourses on a "
+            "single, unreversed statement of what aggravated misconduct "
+            "costs a mendicant in standing."]),
+    ],
+    terms=[
+        ("garukāya āpattiyā parivutthaparivāso",
+         "part of this discourse's own framing, a mendicant convicted of "
+         "&ldquo;aggravated misconduct&rdquo; and undergoing the "
+         "associated probation."),
+        ("na upasampādetabbaṁ",
+         "&ldquo;must not perform an ordination&rdquo; &mdash; the first "
+         "restriction, barring the convicted mendicant from bringing "
+         "others into full ordination."),
+        ("bhikkhunovādako na sammannitabbo",
+         "&ldquo;must not consent to being appointed as adviser for "
+         "nuns&rdquo; &mdash; connecting this discourse back to the "
+         "specific qualification named at AN 8.52 earlier in this book."),
+        ("na therāsane nisīditabbaṁ",
+         "&ldquo;must not be put in a position of seniority&rdquo; "
+         "&mdash; one of the eight restrictions, barring the elevated "
+         "standing seniority would otherwise confer."),
+        ("na tādisikāya āpattiyā aññaṁ vuṭṭhāpetabbaṁ",
+         "&ldquo;must not resolve others from any offense similar to "
+         "that which they have transgressed&rdquo; &mdash; the eighth "
+         "and final restriction, closing the list and this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: eight restrictions on a mendicant "
+        "convicted of aggravated misconduct, closing this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight restrictions for a mendicant convicted of "
+               "aggravated misconduct"),
+        ("p", "&sect;1", "an8.90:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What kind of restrictions does this discourse's eight items "
+              "concern?",
+         "opts": [
+             "Dietary restrictions",
+             "Positions of authority, responsibility, or influence over "
+             "others — ordaining, supervising, advising, holding seniority",
+             "Restrictions on speech entirely",
+             "Restrictions on physical movement"],
+         "correct": 1,
+         "expl": "Authority and standing, not exclusion from the "
+                 "community itself."},
+        {"q": "What does the eighth and final restriction specifically "
+              "address?",
+         "opts": [
+             "Financial matters",
+             "Not being allowed to resolve others from an offense similar "
+             "to their own transgression",
+             "Travel restrictions",
+             "Dietary requirements"],
+         "correct": 1,
+         "expl": "An acknowledgment that the convicted mendicant lacks "
+                 "standing to judge others on the matter they themselves "
+                 "are answering for."},
+        {"q": "How does this discourse differ structurally from AN 8.87, "
+              "8.88, and 8.89?",
+         "opts": [
+             "It is identical in structure to all three",
+             "It names only the restrictions themselves, with no parallel "
+             "list of grounds for reversal",
+             "It has twice as many items", "It applies only to laypeople"],
+         "correct": 1,
+         "expl": "A single, unreversed statement, unlike the three "
+                 "preceding paired procedures."},
+        {"q": "What connection does this discourse have to AN 8.52, "
+              "earlier in this book?",
+         "opts": [
+             "No connection at all",
+             "One of the eight restrictions bars serving as adviser for "
+             "nuns, the same role AN 8.52 named qualifications for",
+             "AN 8.52 describes the same misconduct",
+             "This discourse contradicts AN 8.52"],
+         "correct": 1,
+         "expl": "A restriction tied directly to a role this book already "
+                 "examined the qualifications for."},
+        {"q": "What does the guide say about whether this discourse bars "
+              "the convicted mendicant from monastic life itself?",
+         "opts": [
+             "Yes, it results in complete expulsion",
+             "No — the restrictions target specific positions of "
+             "authority, not participation in the community itself",
+             "The discourse doesn't address this question",
+             "It applies only to newly ordained monks"],
+         "correct": 1,
+         "expl": "A targeted restriction on authority, not a total "
+                 "exclusion."},
+        {"q": "What chapter does this discourse close?",
+         "opts": [
+             "Gotamīvagga", "Sativagga, the ninth chapter of the Eights",
+             "Yamakavagga", "Bhūmicālavagga"],
+         "correct": 1,
+         "expl": "The final discourse of this chapter, opened at AN 8.81."},
+    ],
+    marginalia=[
+        ("Eight restrictions on authority", [
+            "no ordaining, no supervising,",
+            "no advising nuns, no seniority,",
+            "no Saṅgha appointment",
+        ]),
+        ("A pointed final restriction", [
+            "can't resolve others' offenses",
+            "similar to their own —",
+            "no standing to judge that matter",
+        ]),
+        ("No reversal named this time", [
+            "unlike the three procedures before it —",
+            "only the restrictions stated,",
+            "closing this chapter unreversed",
+        ]),
+        ("Cross-references", [
+            "AN 8.89 &middot; previous, the formal act requiring "
+            "reconciliation",
+            "AN 8.81 &middot; earlier, opening this chapter with the "
+            "eight-link chain of supporting conditions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.89.html">AN 8.89 &middot; Reconciliation</a> &mdash; previous.',
+        '<a href="an-8.81.html">AN 8.81 &middot; Mindfulness and Situational Awareness</a> '
+        "&mdash; earlier, opening this chapter.",
+    ],
+)
