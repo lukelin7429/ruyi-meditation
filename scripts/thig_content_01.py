@@ -5507,3 +5507,1612 @@ page(
         '<a href="./">Therigatha</a> &mdash; back to the collection index.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.1 — Another Sāmā
+# --------------------------------------------------------------------------- #
+page(
+    3, 1, "S&amacr;m&amacr;", "Another S&amacr;m&amacr;",
+    meta_title="Thig 3.1 — Another Sāmā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "poem opening the Book of the Threes, a second Sāmā whose closing "
+        "verse repeats a formula shared with two poems just before it. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 1 of 8",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Sāmā, speaking in the first person about "
+                    "twenty-five years of unsuccessful effort"),
+        ("Form", "Three verses of four, four, and six lines, opening the "
+                 "Book of the Threes"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; plain "
+                       "in form, notable chiefly for what it repeats from "
+                       "the book just closed"),
+    ],
+    why=(
+        "This poem opens the Book of the Threes with a second nun named "
+        "Sāmā &mdash; its title, &lsquo;Another Sāmā&rsquo;, points back "
+        "directly at Thig 2.10, the poem that just closed the book before "
+        "it. The two poems share more than a name: a full line of this "
+        "poem's opening verse repeats Thig 2.10 word for word, and its "
+        "closing verse repeats a quatrain already used twice in the book "
+        "just finished."),
+    guide=[
+        ("A name-pair spanning a book boundary", [
+            "Earlier same-name pairs in this collection &mdash; the two "
+            "Tissās of Thig 1.4 and 1.5, the two Sumanās of Thig 1.14 and "
+            "1.16 &mdash; sit inside a single book. This is the first pair "
+            "to fall across a boundary: Thig 2.10's Sāmā closes the Book "
+            "of the Twos, and this &lsquo;Another Sāmā&rsquo; opens the "
+            "Book of the Threes immediately after."]),
+        ("A line repeated exactly from the poem just before", [
+            "This poem's second verse opens &lsquo;I had failed to find "
+            "peace of heart, or any control over my mind&rsquo; &mdash; "
+            "the identical line, word for word, that opened Thig 2.10's "
+            "account of the other Sāmā's struggle. Two different women, "
+            "consecutive poems, the same confession of failure."]),
+        ("A closing quatrain used for the third time", [
+            "&lsquo;Though subject to so many painful things... fulfilled "
+            "the Buddha's instructions&rsquo; closed both Thig 2.9 and "
+            "Thig 2.10. Here it closes a third poem in a row, each time "
+            "followed by a different precise count of days: unspecified "
+            "urgency in 2.9, an eighth night in 2.10, and here a seventh "
+            "day."]),
+        ("Twenty-five years, then seven days", [
+            "The poem's real span is the gap between two numbers: "
+            "twenty-five years of monastic life without ever finding "
+            "serenity, set against the seven days since her breakthrough "
+            "&mdash; a long failure resolved abruptly once urgency, "
+            "prompted by remembering the Buddha's own instructions, took "
+            "hold."]),
+    ],
+    terms=[
+        ("S&amacr;m&amacr;",
+         "this poem's speaker, sharing a name with Thig 2.10's Sāmā but "
+         "explicitly a different individual, as the title states."),
+        ("jinas&amacr;sana",
+         "&ldquo;the victor's instructions&rdquo; &mdash; remembering "
+         "these is what struck her with a sense of urgency after "
+         "twenty-five fruitless years."),
+        ("saṁvega",
+         "the sense of urgency or spiritual dismay named directly as her "
+         "turning point, here translated &lsquo;struck with a sense of "
+         "urgency&rsquo;."),
+        ("taṇhakkhaya",
+         "&ldquo;the ending of craving&rdquo; &mdash; the same term "
+         "closing Thig 2.9 and Thig 2.10, repeated again in this poem's "
+         "closing verse."),
+        ("cariyā",
+         "not used here; like several poems just before it, this one "
+         "closes with no formal attribution note."),
+    ],
+    text_intro=(
+        "The text in full: three verses, opening the Book of the Threes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.1:1.1-1.4"),
+        ("p", "&sect;2", "thig3.1:2.1-2.4"),
+        ("p", "&sect;3", "thig3.1:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How many years does Sāmā say passed without her finding serenity?",
+         "opts": [
+             "Five years",
+             "One year",
+             "Twenty-five years",
+             "The number is not given"],
+         "correct": 2,
+         "expl": "'In the twenty-five years since I went forth' — a long span of failure."},
+        {"q": "What triggers her turning point, according to the second verse?",
+         "opts": [
+             "A dream",
+             "A conversation with another nun",
+             "No trigger is given",
+             "Remembering the victor's — the Buddha's — instructions"],
+         "correct": 3,
+         "expl": "'When I remembered the victor's instructions, I was struck with a sense of urgency.'"},
+        {"q": "What line does this poem's second verse share word for word with Thig 2.10?",
+         "opts": [
+             "'I had failed to find peace of heart, or any control over my mind'",
+             "No line is shared",
+             "The elephant simile",
+             "The mention of Rājagaha"],
+         "correct": 0,
+         "expl": "The identical confession of failure opens both poems' accounts."},
+        {"q": "What relationship does this poem's title state to Thig 2.10?",
+         "opts": [
+             "None — the title gives no indication",
+             "'Another Sāmā', pointing back to the Sāmā who closed the book just before",
+             "That they are sisters by blood",
+             "That this poem predates Thig 2.10"],
+         "correct": 1,
+         "expl": "The title signals a shared name, not a shared identity, for two different nuns."},
+        {"q": "How many times, counting this poem, has the closing quatrain 'though subject to so many painful things...fulfilled the Buddha's instructions' now appeared?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Three times",
+             "It has not appeared before"],
+         "correct": 2,
+         "expl": "Thig 2.9, Thig 2.10, and now this poem all close on the identical formula."},
+        {"q": "How precisely does this poem date its speaker's breakthrough?",
+         "opts": [
+             "With no timing at all",
+             "To an entire year",
+             "Only in vague terms",
+             "To the seventh day since craving dried up"],
+         "correct": 3,
+         "expl": "'This is the seventh day since my craving dried up' — a specific count, like 2.10's eighth night."},
+        {"q": "What does 'saṁvega' name in this poem?",
+         "opts": [
+             "The sense of urgency struck into her on remembering the Buddha's instructions",
+             "A place of pilgrimage",
+             "A type of formal ordination",
+             "The name of a fellow nun"],
+         "correct": 0,
+         "expl": "Her turning point, named directly rather than merely implied."},
+        {"q": "What position does this poem hold in the Therigatha as a whole?",
+         "opts": [
+             "It closes the entire collection",
+             "It opens the Book of the Threes, the collection's third book",
+             "It is the final poem of the Book of the Twos",
+             "It stands outside any book"],
+         "correct": 1,
+         "expl": "The first of eight poems opening this new, longer book."},
+        {"q": "What does 'taṇhakkhaya' mean?",
+         "opts": [
+             "'Peace of heart'",
+             "'The victor's instructions'",
+             "'The ending of craving'",
+             "'Twenty-five years'"],
+         "correct": 2,
+         "expl": "The same term that closed both poems just before this one."},
+        {"q": "What overall shape does this poem's own numbers trace?",
+         "opts": [
+             "A long failure — twenty-five years — resolved abruptly within seven days of urgency",
+             "A short, even struggle throughout",
+             "Immediate success with no failure at all",
+             "No numbers are given anywhere in the poem"],
+         "correct": 0,
+         "expl": "The real span of the poem is the gap between its two numbers."},
+    ],
+    marginalia=[
+        ("A name, and a boundary crossed", [
+            "the first same-name pair",
+            "to span two books"
+        ]),
+        ("A line repeated exactly", [
+            "from the poem",
+            "just before it"
+        ]),
+        ("A closing formula, third use", [
+            "the same quatrain,",
+            "a different count of days"
+        ]),
+        ("Twenty-five years, then seven days", [
+            "a long failure,",
+            "resolved abruptly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-2.10.html">Thig 2.10 &mdash; S&amacr;m&amacr;</a> '
+        "&mdash; the poem this one is named after, sharing a full line and "
+        "its closing formula.",
+        '<a href="thig-3.2.html">Thig 3.2 &mdash; Uttam&amacr;</a> &mdash; '
+        "the next poem in the Book of the Threes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.2 — Uttamā
+# --------------------------------------------------------------------------- #
+page(
+    3, 2, "Uttam&amacr;", "Uttam&amacr;",
+    meta_title="Thig 3.2 — Uttamā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Uttamā's verses, a breakthrough reached under a named teacher's "
+        "guidance after seven days of unmoving meditation. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 2 of 8",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "The nun Uttamā, describing her own failed attempts, "
+                    "then a breakthrough guided by another nun's teaching"),
+        ("Form", "Three verses of four, four, and six lines"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "introduces three technical categories of analysis "
+                       "in a single line"),
+    ],
+    why=(
+        "This poem opens with the same confession of failure heard twice "
+        "already in this book &mdash; but where Thig 2.10's Sāmā and Thig "
+        "3.1's Sāmā broke through on their own, Uttamā names her turning "
+        "point precisely: a nun she trusted, who taught her a specific "
+        "threefold analysis of experience, after which seven days of "
+        "unmoving meditation produced her release."),
+    guide=[
+        ("A confession repeated for the third time", [
+            "&lsquo;Four or five times I left my dwelling. I had failed to "
+            "find peace of heart, or any control over my mind&rsquo; opens "
+            "this poem exactly as it opened Thig 2.10 &mdash; the same "
+            "words now used by a third woman to describe the same early "
+            "failure, three poems running."]),
+        ("A teacher, trusted and named only by that trust", [
+            "Uttamā does not name her teacher, only the relationship: "
+            "&lsquo;a nun in whom I had faith&rsquo;. What this teacher "
+            "gave her was not comfort but a specific analysis &mdash; "
+            "&lsquo;the aggregates, sense fields, and elements&rsquo;, "
+            "three standard categories for examining experience "
+            "systematically rather than as a single undivided self."]),
+        ("Seven days motionless, then release on the eighth", [
+            "Following that teaching exactly, Uttamā sat &lsquo;cross-"
+            "legged for seven days without moving, given over to rapture "
+            "and bliss&rsquo;, then on the eighth day stretched out her "
+            "feet, her meditation complete &mdash; a specific, embodied "
+            "account of sustained absorption rather than a general claim "
+            "of progress."]),
+        ("A phrase that will return", [
+            "Her closing image, &lsquo;having shattered the mass of "
+            "darkness&rsquo;, is not unique to this poem: the same phrase, "
+            "almost word for word, closes two later poems in this same "
+            "book, Thig 3.7 and Thig 3.8 &mdash; a stock image for a "
+            "breakthrough, reused across several different women's "
+            "accounts."]),
+    ],
+    terms=[
+        ("Uttam&amacr;",
+         "this poem's speaker, whose breakthrough followed specific "
+         "instruction from a trusted teacher."),
+        ("khandh&amacr;yatanadh&amacr;tuyo",
+         "&ldquo;the aggregates, sense fields, and elements&rdquo; "
+         "&mdash; three standard analytical categories, taught to her as "
+         "a single compound term in this line."),
+        ("p&imacr;tisukha",
+         "&ldquo;rapture and bliss&rdquo; &mdash; the quality of her "
+         "seven motionless days of meditation."),
+        ("tamokkhandha",
+         "&ldquo;the mass of darkness&rdquo; &mdash; shattered at her "
+         "breakthrough, a phrase repeated almost word for word by two "
+         "later poems in this book."),
+        ("cariy&amacr;",
+         "not used here; like the poem before it, this one closes with no "
+         "formal attribution note."),
+    ],
+    text_intro=(
+        "The text in full: three verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.2:1.1-1.4"),
+        ("p", "&sect;2", "thig3.2:2.1-2.4"),
+        ("p", "&sect;3", "thig3.2:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What confession opens this poem, word for word identical to Thig 2.10's opening?",
+         "opts": [
+             "'Four or five times I left my dwelling... I had failed to find peace of heart'",
+             "'In the twenty-five years since I went forth'",
+             "'What's up with these people in Rājagaha?'",
+             "No opening line is shared with any other poem"],
+         "correct": 0,
+         "expl": "The same confession of failure, now used by a third woman in three consecutive poems."},
+        {"q": "How does Uttamā identify the nun who taught her?",
+         "opts": [
+             "By her formal ordination name",
+             "As the daughter of a well-known family",
+             "Only as 'a nun in whom I had faith' — no personal name given",
+             "As a stranger she never met again"],
+         "correct": 2,
+         "expl": "The relationship is named directly; the teacher's own name is not."},
+        {"q": "What did this teacher instruct her in?",
+         "opts": [
+             "Chanting practices only",
+             "The aggregates, sense fields, and elements — a threefold analysis of experience",
+             "Rules of monastic discipline",
+             "No specific teaching is described"],
+         "correct": 1,
+         "expl": "'Khandhāyatanadhātuyo' — three standard categories, named together as a single teaching."},
+        {"q": "How long did Uttamā sit without moving after receiving this instruction?",
+         "opts": [
+             "One day",
+             "A full month",
+             "Seven days",
+             "The duration is not given"],
+         "correct": 2,
+         "expl": "'I sat cross-legged for seven days without moving, given over to rapture and bliss.'"},
+        {"q": "What happened on the eighth day?",
+         "opts": [
+             "She left the monastic order",
+             "She stretched out her feet, having shattered the mass of darkness",
+             "She began the practice again from the start",
+             "Nothing is recorded about an eighth day"],
+         "correct": 1,
+         "expl": "A specific, embodied close to seven days of sustained absorption."},
+        {"q": "What phrase from this poem's closing line reappears in two later poems of this same book?",
+         "opts": [
+             "'The victor's instructions'",
+             "'Twenty-five years'",
+             "'A nun in whom I had faith'",
+             "'Having shattered the mass of darkness'"],
+         "correct": 3,
+         "expl": "Thig 3.7 and Thig 3.8 both close on nearly the identical image."},
+        {"q": "What does 'pītisukha' mean?",
+         "opts": [
+             "'Rapture and bliss' — the quality of her seven days of unmoving meditation",
+             "'The mass of darkness'",
+             "'Seven days'",
+             "'A trusted teacher'"],
+         "correct": 0,
+         "expl": "Named directly as what filled her while seated cross-legged."},
+        {"q": "How does this poem's account of breakthrough differ from Thig 2.10 and Thig 3.1's?",
+         "opts": [
+             "It does not differ at all",
+             "It describes no breakthrough at all",
+             "It happens instantly with no practice described",
+             "It names a specific teacher's role and a specific, embodied seven-day practice, rather than describing the breakthrough alone"],
+         "correct": 3,
+         "expl": "A named teaching relationship and a concrete meditative account, distinct from the other two poems' shorter narratives."},
+        {"q": "What position does this poem hold in the Book of the Threes?",
+         "opts": [
+             "The first poem",
+             "The second poem, following Thig 3.1",
+             "The last poem",
+             "It is not part of the Book of the Threes"],
+         "correct": 1,
+         "expl": "Following the second Sāmā's poem that opened this book."},
+        {"q": "What does 'khandhāyatanadhātuyo' name?",
+         "opts": [
+             "A place name",
+             "The name of Uttamā's home village",
+             "The aggregates, sense fields, and elements — three analytical categories taught as a unit",
+             "A type of monastic robe"],
+         "correct": 2,
+         "expl": "A compound term bundling three standard frameworks for examining experience."},
+    ],
+    marginalia=[
+        ("A confession, a third time", [
+            "the same failure,",
+            "three poems running"
+        ]),
+        ("A teacher, named by trust alone", [
+            "no personal name,",
+            "only the relationship"
+        ]),
+        ("Seven days, unmoving", [
+            "rapture and bliss,",
+            "then release"
+        ]),
+        ("A phrase that will return", [
+            "the mass of darkness,",
+            "shattered again later"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.1.html">Thig 3.1 &mdash; Another S&amacr;m&amacr;'
+        "</a> &mdash; the poem immediately before this one, opening with "
+        "the identical confession of failure.",
+        '<a href="thig-3.3.html">Thig 3.3 &mdash; Another Uttam&amacr;</a> '
+        "&mdash; the next poem, sharing this poem's own name.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.3 — Another Uttamā
+# --------------------------------------------------------------------------- #
+page(
+    3, 3, "Uttam&amacr;", "Another Uttam&amacr;",
+    meta_title="Thig 3.3 — Another Uttamā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for this "
+        "second Uttamā's verses, a compact checklist of attainments "
+        "closing on the collection's standard formula for rebirth ended. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 3 of 8",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; no "
+                    "closing attribution"),
+        ("Speaker", "A second nun named Uttamā, listing her own "
+                    "attainments in the first person"),
+        ("Form", "Three four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "most doctrinally dense checklist so far in this "
+                       "book"),
+    ],
+    why=(
+        "This poem's title, &lsquo;Another Uttamā&rsquo;, names the "
+        "collection's second same-name pair to sit inside a single book "
+        "&mdash; unlike Thig 2.10 and Thig 3.1's Sāmās, split across a "
+        "book boundary, this Uttamā follows the first immediately. Where "
+        "that first Uttamā told a story of a specific teacher and a "
+        "seven-day practice, this one offers something different: a "
+        "compact list of attainments, stated without narrative."),
+    guide=[
+        ("A second same-name pair, closer together this time", [
+            "Thig 3.1's &lsquo;Another Sāmā&rsquo; pointed back across a "
+            "book boundary to Thig 2.10. This poem's &lsquo;Another "
+            "Uttamā&rsquo; points back only one poem, to Thig 3.2 &mdash; "
+            "the collection's second instance of two same-named women "
+            "placed one after the other."]),
+        ("Seven factors, all of them developed", [
+            "&lsquo;Of the seven awakening factors, the path for "
+            "attaining extinguishment, I have developed them all, just as "
+            "the Buddha taught&rsquo; &mdash; a direct claim to complete, "
+            "not partial, mastery of a named standard list."]),
+        ("Two meditations, available on demand", [
+            "&lsquo;I attain the meditations on emptiness and signlessness "
+            "whenever I want&rsquo; frames her mastery not as something "
+            "that occurred once but as available at will &mdash; a "
+            "distinct kind of claim from a single dated breakthrough."]),
+        ("A rightful daughter, and a closing formula reused", [
+            "&lsquo;I am the Buddha's rightful daughter, always delighting "
+            "in extinguishment&rsquo; is a striking self-description, and "
+            "the poem's final lines &mdash; &lsquo;transmigration through "
+            "births is finished, now there'll be no more future "
+            "lives&rsquo; &mdash; use this collection's standard closing "
+            "formula for the first time in the Book of the Threes."]),
+    ],
+    terms=[
+        ("bojjha&#7749;ga",
+         "the seven awakening factors, a standard list this poem claims "
+         "to have developed in full."),
+        ("su&ntilde;&ntilde;ata",
+         "&ldquo;emptiness&rdquo; &mdash; one of two meditations named as "
+         "attainable &lsquo;whenever I want&rsquo;."),
+        ("animitta",
+         "&ldquo;signlessness&rdquo; &mdash; the second of the two "
+         "meditations named alongside emptiness."),
+        ("orasā dhītā buddhassa",
+         "&ldquo;the Buddha's rightful daughter&rdquo; &mdash; this "
+         "poem's own striking self-description."),
+        ("punabbhava",
+         "&ldquo;future life&rdquo; or rebirth &mdash; denied outright in "
+         "this poem's closing line, the collection's standard formula for "
+         "an ended cycle."),
+    ],
+    text_intro=(
+        "The text in full: three verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.3:1.1-1.4"),
+        ("p", "&sect;2", "thig3.3:2.1-2.4"),
+        ("p", "&sect;3", "thig3.3:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's title, 'Another Uttamā', signal?",
+         "opts": [
+             "That this is the same speaker as Thig 3.2",
+             "The collection's second same-name pair placed inside one book",
+             "That this poem predates Thig 3.2",
+             "Nothing — the title carries no particular significance"],
+         "correct": 1,
+         "expl": "Unlike Sāmā's pair, split across a book boundary, this pair sits one poem apart."},
+        {"q": "What does the first verse claim about the seven awakening factors?",
+         "opts": [
+             "That they are impossible to develop fully",
+             "That only one of the seven has been developed",
+             "That all seven have been developed, just as the Buddha taught",
+             "The seven factors are not mentioned"],
+         "correct": 2,
+         "expl": "A direct claim to complete, not partial, mastery."},
+        {"q": "How does the poem describe her access to the meditations on emptiness and signlessness?",
+         "opts": [
+             "As having occurred only once, long ago",
+             "As available whenever she wants",
+             "As something she has never attained",
+             "As available only with another nun's help"],
+         "correct": 1,
+         "expl": "'I attain the meditations... whenever I want' — mastery framed as availability, not a single event."},
+        {"q": "How does this poem describe itself as the Buddha's daughter?",
+         "opts": [
+             "It makes no such claim",
+             "As an adopted, distant relation",
+             "As 'the Buddha's rightful daughter, always delighting in extinguishment'",
+             "As a daughter by blood, in a literal family sense"],
+         "correct": 2,
+         "expl": "A striking, direct self-description at this poem's turning point."},
+        {"q": "What closing formula appears in this poem for the first time in the Book of the Threes?",
+         "opts": [
+             "'Though subject to so many painful things...'",
+             "'Transmigration through births is finished, now there'll be no more future lives'",
+             "'Having shattered the mass of darkness'",
+             "No closing formula is used"],
+         "correct": 1,
+         "expl": "The collection's standard formula for an ended cycle of rebirth, reused here."},
+        {"q": "How does this poem's structure compare to Thig 3.2's?",
+         "opts": [
+             "Identical in every respect",
+             "This poem tells a longer story than Thig 3.2",
+             "Neither poem describes any attainment",
+             "This poem offers a compact list of attainments rather than a narrative with a named teacher"],
+         "correct": 3,
+         "expl": "A checklist register rather than the specific seven-day narrative of the poem just before it."},
+        {"q": "What does 'bojjhaṅga' refer to?",
+         "opts": [
+             "The seven awakening factors, a standard list this poem claims to have completed",
+             "'Emptiness'",
+             "A type of monastic robe",
+             "'Rightful daughter'"],
+         "correct": 0,
+         "expl": "Named directly as fully developed, 'just as the Buddha taught'."},
+        {"q": "What are the two meditations this poem names as attainable at will?",
+         "opts": [
+             "Emptiness and signlessness",
+             "Loving-kindness and compassion",
+             "Breath and body",
+             "No specific meditations are named"],
+         "correct": 0,
+         "expl": "'Suññatassānimittassa' — emptiness and signlessness, named together."},
+        {"q": "What position does this poem hold in the Book of the Threes?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "It stands outside this book",
+             "The third poem, immediately after the first Uttamā"],
+         "correct": 3,
+         "expl": "Directly following Thig 3.2, sharing that poem's speaker's name."},
+        {"q": "What does 'animitta' mean?",
+         "opts": [
+             "'Emptiness'",
+             "'Future life'",
+             "'Signlessness' — the second of two meditations named alongside emptiness",
+             "'Awakening factors'"],
+         "correct": 2,
+         "expl": "Paired directly with 'suññata' as the two meditations attained at will."},
+    ],
+    marginalia=[
+        ("A second pair, closer together", [
+            "one poem apart,",
+            "not a book apart"
+        ]),
+        ("Seven factors, all developed", [
+            "a complete claim,",
+            "not a partial one"
+        ]),
+        ("Attainable at will", [
+            "not a single event,",
+            "but availability itself"
+        ]),
+        ("A formula reused", [
+            "no more future lives,",
+            "first time in this book"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.2.html">Thig 3.2 &mdash; Uttam&amacr;</a> &mdash; '
+        "the poem immediately before this one, sharing this speaker's own "
+        "name.",
+        '<a href="thig-3.4.html">Thig 3.4 &mdash; Dantik&amacr;</a> &mdash; '
+        "the next poem in the Book of the Threes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.4 — Dantikā
+# --------------------------------------------------------------------------- #
+page(
+    3, 4, "Dantik&amacr;", "Dantik&amacr;",
+    meta_title="Thig 3.4 — Dantikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Dantikā's verses, a mind settled into serenity by watching a "
+        "wild elephant tamed on Vulture's Peak. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Threes &middot; Poem 4 of 8",
+    glance=[
+        ("Setting", "Vulture's Peak Mountain, on a riverbank, after "
+                    "leaving a day's meditation"),
+        ("Speaker", "The nun Dantikā, narrating what she personally "
+                    "witnessed and its effect on her mind"),
+        ("Form", "Three four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "single concrete scene, simply told"),
+    ],
+    why=(
+        "This poem breaks from the confessions and checklists just before "
+        "it: instead of describing failure or listing attainments, "
+        "Dantikā narrates a single scene she witnessed &mdash; a wild "
+        "elephant submitting to a mahout's hook on a riverbank &mdash; and "
+        "traces her own mind settling into serenity directly from watching "
+        "it, a breakthrough triggered by observation rather than "
+        "instruction."),
+    guide=[
+        ("A name that puns on its own scene", [
+            "&lsquo;Dantikā&rsquo; shares its root with &lsquo;danta&rsquo;, "
+            "&lsquo;tamed&rsquo; &mdash; her name itself echoes the very "
+            "scene this poem describes, an echo the collection has already "
+            "used for Sukkā (&lsquo;bright&rsquo;) later in this same book, "
+            "and for Muttā (&lsquo;freed&rsquo;) earlier in Thig 1.2 and "
+            "1.11."]),
+        ("A specific, watched scene, not a recited teaching", [
+            "&lsquo;Leaving my day's meditation on Vulture's Peak "
+            "Mountain, I saw an elephant on the riverbank having just come "
+            "up from his bath&rsquo; &mdash; a dated, located observation, "
+            "distinct from this book's confessions of inner struggle or "
+            "lists of doctrinal categories."]),
+        ("The taming, described step by step", [
+            "The scene itself is simple and complete: a man with a hook "
+            "asks the elephant for its foot, the elephant presents it, the "
+            "man mounts &mdash; three plain actions, given no more weight "
+            "than they need."]),
+        ("Insight drawn from watching, and a wry closing line", [
+            "&lsquo;Seeing a wild beast so tamed, submitting to human "
+            "control, my mind became serene&rsquo; states the insight "
+            "directly from the scene, and the poem closes on an "
+            "unusually personal aside &mdash; &lsquo;that is why I've "
+            "gone to the forest&rsquo; &mdash; addressed almost "
+            "conversationally to the reader."]),
+    ],
+    terms=[
+        ("Dantik&amacr;",
+         "this poem's speaker, whose name shares its root with "
+         "&lsquo;danta&rsquo;, &lsquo;tamed&rsquo; &mdash; echoing the "
+         "scene the poem describes."),
+        ("Gijjhak&#363;&#7789;a",
+         "Vulture's Peak Mountain, the specific, named setting where this "
+         "poem opens."),
+        ("a&#7749;kusa",
+         "the hook used by the mahout to direct the elephant, the "
+         "instrument named in the poem's second verse."),
+        ("sam&amacr;dhi",
+         "the settled, serene mind state Dantikā describes reaching, "
+         "translated here as her mind &lsquo;becoming serene&rsquo;."),
+        ("vana",
+         "&ldquo;forest&rdquo; &mdash; named in this poem's closing line "
+         "as the destination this insight sent her toward."),
+    ],
+    text_intro=(
+        "The text in full: three verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.4:1.1-1.4"),
+        ("p", "&sect;2", "thig3.4:2.1-2.4"),
+        ("p", "&sect;3", "thig3.4:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "Where does this poem's scene take place?",
+         "opts": [
+             "In a city marketplace",
+             "In a monastery hall",
+             "On Vulture's Peak Mountain, by a riverbank",
+             "The location is not given"],
+         "correct": 2,
+         "expl": "A specific, named setting, unusual for this book so far."},
+        {"q": "What does Dantikā see when she leaves her day's meditation?",
+         "opts": [
+             "An elephant on the riverbank, just come up from his bath",
+             "A group of fellow nuns",
+             "A burning building",
+             "Nothing unusual is described"],
+         "correct": 0,
+         "expl": "The scene that triggers the rest of the poem."},
+        {"q": "What does the man with the hook ask the elephant to do?",
+         "opts": [
+             "Kneel down completely",
+             "Trumpet loudly",
+             "Return to the river",
+             "Give him its foot, so he can mount"],
+         "correct": 3,
+         "expl": "A simple, specific request, immediately obeyed."},
+        {"q": "How does the elephant respond to the man's request?",
+         "opts": [
+             "It presents its foot, and the man mounts",
+             "It runs away",
+             "It attacks the man",
+             "It ignores the request"],
+         "correct": 0,
+         "expl": "Full submission, described in a single plain action."},
+        {"q": "What effect does watching this scene have on Dantikā's mind?",
+         "opts": [
+             "It became serene, seeing a wild beast so tamed",
+             "No effect is described",
+             "It became agitated by the sight",
+             "She left the scene without any reaction"],
+         "correct": 0,
+         "expl": "The insight is drawn directly from what she observed."},
+        {"q": "What does Dantikā's name share a root with?",
+         "opts": [
+             "A place name",
+             "'Tamed' — echoing this very poem's scene",
+             "'Serene'",
+             "'River'"],
+         "correct": 1,
+         "expl": "Like Sukkā's 'bright' or Muttā's 'freed', her name echoes her poem's own content."},
+        {"q": "How does this poem's approach to breakthrough differ from the confessions in Thig 3.1–3.2?",
+         "opts": [
+             "It does not differ; all describe the same kind of struggle",
+             "It arises from watching an external scene, not from a teacher's instruction or dated inner struggle",
+             "This poem describes no breakthrough at all",
+             "It is identical to Thig 3.3's checklist of attainments"],
+         "correct": 1,
+         "expl": "An observation-triggered insight, distinct from confession or checklist."},
+        {"q": "How does this poem end?",
+         "opts": [
+             "With the standard 'no more future lives' formula",
+             "With an attribution naming the Buddha",
+             "With a question left unanswered",
+             "With a personal aside: 'that is why I've gone to the forest'"],
+         "correct": 3,
+         "expl": "An unusually direct, almost conversational closing line for this collection."},
+        {"q": "What is the aṅkusa mentioned in this poem?",
+         "opts": [
+             "A type of alms bowl",
+             "A meditation posture",
+             "The hook used by the mahout to direct the elephant",
+             "A monastic robe"],
+         "correct": 2,
+         "expl": "The instrument named directly in the poem's second verse."},
+        {"q": "What position does this poem hold in the Book of the Threes?",
+         "opts": [
+             "The first poem",
+             "The fourth poem, following the second Uttamā",
+             "The last poem",
+             "It is not part of the Book of the Threes"],
+         "correct": 1,
+         "expl": "Following Thig 3.3, opening a new kind of scene in this book."},
+    ],
+    marginalia=[
+        ("A name that puns on the scene", [
+            "Dantikā, 'tamed' —",
+            "the elephant, tamed too"
+        ]),
+        ("Watched, not recited", [
+            "a dated scene,",
+            "not a doctrine"
+        ]),
+        ("Three plain actions", [
+            "asked, given,",
+            "mounted"
+        ]),
+        ("A wry, personal close", [
+            "'that is why",
+            "I've gone to the forest'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.3.html">Thig 3.3 &mdash; Another Uttam&amacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-3.5.html">Thig 3.5 &mdash; Ubbir&imacr;</a> &mdash; '
+        "the next poem in the Book of the Threes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.5 — Ubbirī
+# --------------------------------------------------------------------------- #
+page(
+    3, 5, "Ubbir&imacr;", "Ubbir&imacr;",
+    meta_title="Thig 3.5 — Ubbirī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Ubbirī's verses, a grieving mother consoled at a cremation "
+        "ground with a teaching built on her daughter's own name. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 5 of 8",
+    glance=[
+        ("Setting", "A cremation ground, where Ubbirī grieves her dead "
+                    "daughter"),
+        ("Speaker", "Two voices: an unnamed consoler, identified by "
+                    "commentary as the Buddha, then Ubbirī herself in "
+                    "reply"),
+        ("Form", "A six-line verse addressed to Ubbirī, followed by two "
+                 "four-line verses in her own voice"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "dialogue poem built on a name's double meaning"),
+    ],
+    why=(
+        "This poem opens on a mother crying at a cremation ground for her "
+        "dead daughter, whose name, Jīvā, means &lsquo;Live&rsquo;. The "
+        "unnamed consoler &mdash; identified by the ancient commentary, "
+        "though not by the verse itself, as the Buddha &mdash; answers her "
+        "grief not with abstraction but with a fact of place: eighty-four "
+        "thousand people, every one of them also named Jīvā, have been "
+        "cremated at this exact ground. Ubbirī's own reply, in the verses "
+        "that follow, completes the poem."),
+    guide=[
+        ("A named speaker, but only by commentary", [
+            "The verse addressed to Ubbirī names no speaker. Bhikkhu "
+            "Sujato's own note on this poem states plainly: &lsquo;the "
+            "speaker of this verse... is not named in the text, but the "
+            "commentary identifies it as the Buddha&rsquo; &mdash; a "
+            "distinction this guide preserves rather than collapsing into "
+            "certainty."]),
+        ("A name turned into a teaching", [
+            "Ubbirī's grief-cry, quoted back to her, is &lsquo;Live, my "
+            "dear mother!&rsquo; &mdash; addressed to her daughter Jīvā, "
+            "whose name means &lsquo;Live&rsquo;. The consoler's reply "
+            "does not dispute her grief but widens it: eighty-four "
+            "thousand people, &lsquo;all named &ldquo;Live&rdquo;&rsquo;, "
+            "have been burnt at this very ground &mdash; turning a single "
+            "child's name into a lesson about how ordinary loss is."]),
+        ("An arrow, named and then pulled out", [
+            "Ubbirī's own reply opens with a physical image for her grief: "
+            "&lsquo;you have plucked the arrow from me, so hard to see, "
+            "stuck in the heart&rsquo; &mdash; grief as a lodged, nearly "
+            "invisible wound, removed by what she has just heard."]),
+        ("Refuge, taken directly, closing the poem", [
+            "Where earlier poems in this book close on formulas about "
+            "craving ended or future lives finished, Ubbirī's own closing "
+            "words are different: &lsquo;I go for refuge to that sage, "
+            "the Buddha, to his teaching, and to the Sangha&rsquo; "
+            "&mdash; an explicit statement of the Triple Refuge, plainly "
+            "spoken rather than implied."]),
+    ],
+    terms=[
+        ("Ubbir&imacr;",
+         "this poem's grieving mother, whose reply forms this poem's "
+         "second and third verses."),
+        ("J&imacr;v&amacr;",
+         "&ldquo;Live&rdquo; &mdash; the name of Ubbirī's dead daughter, "
+         "and of eighty-four thousand others cremated at the same "
+         "ground."),
+        ("&#256;&#7773;&#257;hana",
+         "the cremation ground where this poem is set, named directly in "
+         "the consoling verse."),
+        ("sallaṁ",
+         "&ldquo;the arrow&rdquo; &mdash; Ubbirī's own image for her "
+         "grief, described as &lsquo;plucked out&rsquo; by the teaching "
+         "she has just heard."),
+        ("parinibbut&amacr;",
+         "&ldquo;quenched&rdquo; &mdash; Ubbirī's own closing "
+         "self-description, punning on the word for full "
+         "extinguishment."),
+    ],
+    text_intro=(
+        "The text in full: a consoling verse addressed to Ubbirī, "
+        "followed by her own two verses in reply. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.5:1.1-1.6"),
+        ("p", "&sect;2", "thig3.5:2.1-2.4"),
+        ("p", "&sect;3", "thig3.5:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What is Ubbirī doing at the start of this poem?",
+         "opts": [
+             "Teaching a group of students",
+             "Grieving her dead daughter at a cremation ground",
+             "Traveling to a distant city",
+             "Celebrating a festival"],
+         "correct": 1,
+         "expl": "The poem opens on her cry of grief for her daughter."},
+        {"q": "What does Ubbirī's daughter's name, Jīvā, mean?",
+         "opts": [
+             "A place name",
+             "'Grief'",
+             "'Mother'",
+             "'Live'"],
+         "correct": 3,
+         "expl": "The double meaning at the center of this poem's teaching."},
+        {"q": "Who is identified as the speaker of the poem's opening verse?",
+         "opts": [
+             "Not named in the text itself; identified by commentary as the Buddha",
+             "Ubbirī's daughter, speaking from beyond death",
+             "A stranger passing by",
+             "Ubbirī herself, addressing her own memory"],
+         "correct": 0,
+         "expl": "This guide preserves Sujato's own hedge rather than asserting certainty."},
+        {"q": "How many people does the speaker say share the name 'Live', all cremated at this ground?",
+         "opts": [
+             "Eighty-four thousand",
+             "Just one, Ubbirī's daughter",
+             "A hundred",
+             "The number is not given"],
+         "correct": 0,
+         "expl": "'Eighty-four thousand people, all named ‘Live’, have been burnt in this funeral ground.'"},
+        {"q": "What image does Ubbirī use for her own grief in her reply?",
+         "opts": [
+             "A storm",
+             "A locked door",
+             "An arrow, hard to see, stuck in the heart",
+             "No image is used"],
+         "correct": 2,
+         "expl": "Grief as a lodged wound, now described as removed."},
+        {"q": "What does Ubbirī say has happened to that arrow by the poem's end?",
+         "opts": [
+             "It remains lodged permanently",
+             "It has grown larger",
+             "She has forgotten about it entirely",
+             "It has been plucked out"],
+         "correct": 3,
+         "expl": "'Today I've plucked the arrow, I'm hungerless, quenched.'"},
+        {"q": "What does 'parinibbutā' mean, as Ubbirī applies it to herself?",
+         "opts": [
+             "'Grieving'",
+             "'Quenched' — punning on the word for full extinguishment",
+             "'Wandering'",
+             "'A cremation ground'"],
+         "correct": 1,
+         "expl": "Her own self-description at the poem's turning point."},
+        {"q": "How does this poem close?",
+         "opts": [
+             "With the 'no more future lives' formula",
+             "With no closing statement",
+             "With Ubbirī explicitly taking refuge in the Buddha, his teaching, and the Sangha",
+             "With a question addressed to the Buddha"],
+         "correct": 2,
+         "expl": "A plainly spoken statement of the Triple Refuge, distinct from this book's other closing formulas."},
+        {"q": "What structural feature makes this poem distinct within the Book of the Threes so far?",
+         "opts": [
+             "It is a dialogue between two voices, not a single first-person account",
+             "It has no verses at all",
+             "It is identical in structure to Thig 3.3",
+             "It contains no named location"],
+         "correct": 0,
+         "expl": "The book's first two-speaker poem, opening with a verse addressed to its subject."},
+        {"q": "What does 'Āḷāhana' name?",
+         "opts": [
+             "Ubbirī's home village",
+             "A river",
+             "A meditation posture",
+             "The cremation ground where this poem is set"],
+         "correct": 3,
+         "expl": "Named directly in the consoling verse as the site of eighty-four thousand cremations."},
+    ],
+    marginalia=[
+        ("A speaker, named only by commentary", [
+            "not in the verse itself,",
+            "held as an open question"
+        ]),
+        ("A name turned into a teaching", [
+            "eighty-four thousand,",
+            "all named 'Live'"
+        ]),
+        ("An arrow, plucked out", [
+            "grief as a wound,",
+            "now removed"
+        ]),
+        ("Refuge, plainly spoken", [
+            "Buddha, teaching, Sangha —",
+            "named directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.4.html">Thig 3.4 &mdash; Dantik&amacr;</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="thig-3.6.html">Thig 3.6 &mdash; Sukk&amacr;</a> &mdash; '
+        "the next poem in the Book of the Threes.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.6 — Sukkā
+# --------------------------------------------------------------------------- #
+page(
+    3, 6, "Sukk&amacr;", "Sukk&amacr;",
+    meta_title="Thig 3.6 — Sukkā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "poem praising Sukkā entirely from the outside, contrasting a "
+        "distracted crowd in Rājagaha with those who drink in her "
+        "teaching. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 6 of 8",
+    glance=[
+        ("Setting", "Rājagaha, a city named directly in the poem's "
+                    "opening line"),
+        ("Speaker", "Not identified; an outside voice describing and "
+                    "praising Sukkā throughout, never speaking as her"),
+        ("Form", "Three four-line verses, entirely in the third person"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "notable chiefly for who is not speaking"),
+    ],
+    why=(
+        "Every poem so far in this book has spoken in Sāmā's, Uttamā's, "
+        "Dantikā's, or Ubbirī's own first-person voice, at least in part. "
+        "This poem never does: an unnamed outside voice describes the "
+        "nun Sukkā throughout, contrasting a distracted crowd in Rājagaha "
+        "with those wise enough to &lsquo;drink up&rsquo; her teaching, "
+        "then explains her very name as a description of her own bright "
+        "qualities."),
+    guide=[
+        ("A poem with no first-person voice at all", [
+            "Unlike every poem before it in this book, Sukkā never speaks "
+            "in her own voice here. An outside speaker describes her "
+            "throughout &mdash; asking, in effect, why the crowds of "
+            "Rājagaha &lsquo;sprawl like they've been drinking mead&rsquo; "
+            "instead of attending her teaching."]),
+        ("A crowd distracted, and the wise who drink it in", [
+            "The poem's central image is a contrast: ordinary people in "
+            "Rājagaha ignore Sukkā as if intoxicated, while &lsquo;the "
+            "wise&rsquo; take in her teaching &lsquo;as if they drink it "
+            "up... like travelers enjoying a cool cloud&rsquo; &mdash; "
+            "her Dhamma teaching itself described as refreshment."]),
+        ("A name explained as a description", [
+            "&lsquo;She's known as Sukkā because of her bright "
+            "qualities&rsquo; states the pun directly: Sukkā, "
+            "&lsquo;bright&rsquo;, named for being exactly that &mdash; "
+            "joining Dantikā's &lsquo;tamed&rsquo; earlier in this book "
+            "and Muttā's &lsquo;freed&rsquo; in Thig 1.2 and 1.11 as "
+            "another name the collection treats as a description, not "
+            "just a label."]),
+        ("A martial image, closing an outsider's praise", [
+            "The poem's final line &mdash; &lsquo;having vanquished Māra "
+            "with his legions&rsquo; &mdash; is this book's first mention "
+            "of Māra by name, delivered as an outsider's claim about "
+            "Sukkā's attainment rather than her own account of it, ahead "
+            "of the direct Māra confrontations still to come in Thig 3.7 "
+            "and 3.8."]),
+    ],
+    terms=[
+        ("Sukk&amacr;",
+         "this poem's subject, whose name, meaning &lsquo;bright&rsquo;, "
+         "is explained directly in the closing verse."),
+        ("R&amacr;jagaha",
+         "the city named in this poem's opening line, whose crowds are "
+         "described as distracted."),
+        ("appa&#7789;iv&amacr;n&imacr;ya",
+         "&ldquo;irresistible&rdquo; &mdash; describing Sukkā's teaching "
+         "as the wise experience it."),
+        ("sukk&amacr; sukkehi dhammehi",
+         "&ldquo;Sukkā, by her bright qualities&rdquo; &mdash; this "
+         "poem's own etymological explanation of her name."),
+        ("M&amacr;ra sav&amacr;hin&imacr;",
+         "&ldquo;Māra with his legions&rdquo; &mdash; named as vanquished "
+         "in this poem's closing line, this book's first mention of "
+         "Māra."),
+    ],
+    text_intro=(
+        "The text in full: three verses, entirely in the third person. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.6:1.1-1.4"),
+        ("p", "&sect;2", "thig3.6:2.1-2.4"),
+        ("p", "&sect;3", "thig3.6:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "In what city does this poem's opening line say people ignore Sukkā's teaching?",
+         "opts": [
+             "Sāvatthī",
+             "Kapilavatthu",
+             "Vesālī",
+             "Rājagaha"],
+         "correct": 3,
+         "expl": "Named directly in the poem's opening question."},
+        {"q": "How does the poem describe the crowd who ignore Sukkā's teaching?",
+         "opts": [
+             "As if they've been drinking mead",
+             "As diligent students",
+             "As traveling merchants",
+             "As fellow monastics"],
+         "correct": 0,
+         "expl": "A simile for their distraction, opening the poem."},
+        {"q": "How does the poem describe the wise, by contrast?",
+         "opts": [
+             "As equally distracted",
+             "As absent from the scene entirely",
+             "As drinking in her teaching like travelers enjoying a cool cloud",
+             "As critical of her teaching"],
+         "correct": 2,
+         "expl": "The poem's central contrasting image."},
+        {"q": "Whose voice speaks throughout this poem?",
+         "opts": [
+             "Sukkā herself, throughout",
+             "The Buddha, addressing Sukkā directly",
+             "An unnamed outside voice; Sukkā never speaks in her own first-person voice",
+             "Māra, taunting Sukkā"],
+         "correct": 2,
+         "expl": "Unlike every poem before it in this book, no first-person voice appears here."},
+        {"q": "What does the poem's closing verse say Sukkā's name means?",
+         "opts": [
+             "'Wise'",
+             "'Cloud'",
+             "'Traveler'",
+             "'Bright' — named for her own bright qualities"],
+         "correct": 3,
+         "expl": "'Sukkā sukkehi dhammehi' — the pun stated directly."},
+        {"q": "What earlier name-pun in this book does Sukkā's join?",
+         "opts": [
+             "Uttamā's name has no stated meaning",
+             "Dantikā's 'tamed', from the poem just before this one",
+             "This is the collection's only name-pun",
+             "Ubbirī's name is explained the same way"],
+         "correct": 1,
+         "expl": "Dantikā (Thig 3.4) and Muttā (Thig 1.2, 1.11) are the collection's other examples."},
+        {"q": "What does this poem's closing line claim Sukkā has done?",
+         "opts": [
+             "Returned to lay life",
+             "Traveled to Rājagaha for the first time",
+             "Vanquished Māra with his legions",
+             "Composed this very poem herself"],
+         "correct": 2,
+         "expl": "This book's first mention of Māra by name, ahead of the direct confrontations in 3.7 and 3.8."},
+        {"q": "What does 'appaṭivānīya' describe?",
+         "opts": [
+             "A place name",
+             "Sukkā's teaching, as the wise experience it — 'irresistible'",
+             "The crowd's distraction",
+             "A type of monastic robe"],
+         "correct": 1,
+         "expl": "Paired with 'asecanaka', 'delectable', in the poem's second verse."},
+        {"q": "What position does this poem hold in the Book of the Threes?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "It stands outside this book",
+             "The sixth poem, following Ubbirī"],
+         "correct": 3,
+         "expl": "Following Thig 3.5, opening this book's only entirely third-person poem so far."},
+        {"q": "How does this poem's voice differ from every poem before it in the Book of the Threes?",
+         "opts": [
+             "It contains no first-person account at all — entirely an outside voice describing Sukkā",
+             "It does not differ at all",
+             "It is Sukkā's own first-person account, like the others",
+             "It is addressed directly to Māra"],
+         "correct": 0,
+         "expl": "The book's first fully third-person poem."},
+    ],
+    marginalia=[
+        ("No first-person voice at all", [
+            "an outside speaker,",
+            "throughout"
+        ]),
+        ("A crowd distracted, the wise refreshed", [
+            "drunk on mead,",
+            "or drinking in the teaching"
+        ]),
+        ("A name explained directly", [
+            "'bright', named",
+            "for being exactly that"
+        ]),
+        ("Māra, named for the first time", [
+            "in this book,",
+            "ahead of direct confrontation"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.5.html">Thig 3.5 &mdash; Ubbir&imacr;</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="thig-3.7.html">Thig 3.7 &mdash; Sel&amacr;</a> &mdash; '
+        "the next poem, this book's first direct confrontation with Māra.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.7 — Selā
+# --------------------------------------------------------------------------- #
+page(
+    3, 7, "Sel&amacr;", "Sel&amacr;",
+    meta_title="Thig 3.7 — Selā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Selā's verses, this book's first direct confrontation with "
+        "Māra, answered with an image of sensual pleasure as a weapon "
+        "against oneself. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 7 of 8",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "the addressee is named only as Māra, the Wicked One"),
+        ("Speaker", "Two voices: Māra, tempting with a worldly argument, "
+                    "then Selā, refuting him directly"),
+        ("Form", "Two four-line verses: Māra's temptation, then Selā's "
+                 "reply"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "direct confrontation, answered with a vivid "
+                       "counter-image"),
+    ],
+    why=(
+        "This poem is the Book of the Threes' first direct confrontation "
+        "with Māra: he argues plainly for indulgence &mdash; &lsquo;enjoy "
+        "erotic delights, don't regret it later&rsquo; &mdash; and Selā "
+        "answers not with abstraction but with a specific, visceral "
+        "counter-image, comparing sensual pleasure itself to a weapon "
+        "turned against the very aggregates that make up a person."),
+    guide=[
+        ("A direct temptation, plainly argued", [
+            "Māra's opening verse makes a specific worldly case: "
+            "&lsquo;there's no escape in the world, so what will "
+            "seclusion do for you? Enjoy erotic delights; don't regret it "
+            "later&rsquo; &mdash; not a vague threat, but an argument "
+            "Selā answers point by point."]),
+        ("Pleasure recast as a weapon", [
+            "Selā's reply reframes the very terms of the offer: "
+            "&lsquo;sensual pleasures are like swords and spears, the "
+            "aggregates are their chopping block&rsquo; &mdash; what Māra "
+            "calls delight, she names as violence turned inward, against "
+            "one's own body and mind."]),
+        ("A word reclaimed and reversed", [
+            "&lsquo;What you call &ldquo;erotic delight&rdquo; is now no "
+            "delight for me&rsquo; takes Māra's own word back and empties "
+            "it &mdash; not simply refusing the offer, but declaring the "
+            "category itself no longer applies to her."]),
+        ("A closing formula shared word for word with the poem after it", [
+            "&lsquo;Relishing is banished in every respect, and the mass "
+            "of darkness is shattered... you're beaten, terminator!&rsquo; "
+            "closes this poem exactly as it will close Thig 3.8 &mdash; "
+            "the same victorious quatrain answering two separate "
+            "temptations, and an echo of Thig 3.2's own &lsquo;shattered "
+            "the mass of darkness&rsquo;."]),
+    ],
+    terms=[
+        ("Sel&amacr;",
+         "this poem's speaker, who answers Māra's temptation with a "
+         "counter-image rather than a simple refusal."),
+        ("P&amacr;pim&amacr;",
+         "&ldquo;Wicked One&rdquo; &mdash; how Selā addresses Māra "
+         "directly in this poem's closing line."),
+        ("sattis&#363;l&#363;pam&amacr;",
+         "&ldquo;like swords and spears&rdquo; &mdash; Selā's own "
+         "description of sensual pleasures, in her reply's opening line."),
+        ("khandha",
+         "the aggregates, named here as the &lsquo;chopping block&rsquo; "
+         "for the weapon of sensual pleasure &mdash; the same term "
+         "Uttamā's teacher used in Thig 3.2."),
+        ("antaka",
+         "&ldquo;terminator&rdquo; or death itself &mdash; the name "
+         "Selā gives Māra in this poem's final word."),
+    ],
+    text_intro=(
+        "The text in full: Māra's temptation, followed by Selā's reply. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.7:1.1-1.4"),
+        ("p", "&sect;2", "thig3.7:2.1-2.4"),
+        ("p", "&sect;3", "thig3.7:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What argument does Māra make in this poem's opening verse?",
+         "opts": [
+             "That Selā should return to her family",
+             "That she should study harder",
+             "That there's no escape in the world, so she should enjoy erotic delights instead",
+             "That she has already succeeded and needs no further practice"],
+         "correct": 2,
+         "expl": "A direct, worldly case for indulgence rather than seclusion."},
+        {"q": "How does Selā describe sensual pleasures in her reply?",
+         "opts": [
+             "Like swords and spears, with the aggregates as their chopping block",
+             "As harmless amusements",
+             "As identical to meditation itself",
+             "She does not describe them at all"],
+         "correct": 0,
+         "expl": "A visceral counter-image, reframing Māra's offer as violence turned inward."},
+        {"q": "What does Selā say about the term 'erotic delight' that Māra uses?",
+         "opts": [
+             "That she agrees it is delightful",
+             "That she has never heard the term before",
+             "She avoids the term entirely",
+             "That it is now no delight for her at all"],
+         "correct": 3,
+         "expl": "She reclaims Māra's own word and empties it of its former hold on her."},
+        {"q": "What name does Selā give Māra in this poem's final line?",
+         "opts": [
+             "Friend",
+             "'Terminator' — antaka",
+             "Teacher",
+             "No name is given"],
+         "correct": 1,
+         "expl": "Addressing him directly as death itself."},
+        {"q": "What closing quatrain does this poem share word for word with Thig 3.8?",
+         "opts": [
+             "'Though subject to so many painful things...'",
+             "'I go for refuge to that sage, the Buddha'",
+             "'Relishing is banished in every respect... you're beaten, terminator!'",
+             "No closing lines are shared between the two poems"],
+         "correct": 2,
+         "expl": "The identical victorious formula answers two separate temptations."},
+        {"q": "What earlier phrase in this book does this poem's closing echo?",
+         "opts": [
+             "Thig 3.1's twenty-five years",
+             "Thig 3.2's 'having shattered the mass of darkness'",
+             "Thig 3.5's arrow",
+             "No earlier phrase is echoed"],
+         "correct": 1,
+         "expl": "Nearly identical wording for a decisive breakthrough."},
+        {"q": "What structural feature makes this poem distinct from Thig 3.6?",
+         "opts": [
+             "It has no distinct feature",
+             "It is entirely third person, like Thig 3.6",
+             "It contains no dialogue at all",
+             "It is a two-voice confrontation, not an outside voice praising its subject"],
+         "correct": 3,
+         "expl": "Māra speaks first, and Selā answers him directly."},
+        {"q": "What does 'khandha' refer to in Selā's reply?",
+         "opts": [
+             "A place name",
+             "The aggregates, described as the chopping block for the weapon of sensual pleasure",
+             "A type of monastic robe",
+             "Māra's own title"],
+         "correct": 1,
+         "expl": "The same term used for Uttamā's teaching in Thig 3.2."},
+        {"q": "What position does this poem hold in the Book of the Threes?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "The seventh poem, following Sukkā",
+             "It is not part of the Book of the Threes"],
+         "correct": 2,
+         "expl": "Following Thig 3.6, opening this book's pair of direct Māra confrontations."},
+        {"q": "What does 'Pāpimā' mean, as Selā addresses Māra?",
+         "opts": [
+             "'Wicked One'",
+             "'Friend'",
+             "'Teacher'",
+             "'Terminator'"],
+         "correct": 0,
+         "expl": "A direct address distinct from the closing word 'antaka'."},
+    ],
+    marginalia=[
+        ("A temptation, plainly argued", [
+            "no escape, Māra says —",
+            "enjoy delights instead"
+        ]),
+        ("Pleasure, recast as a weapon", [
+            "swords and spears,",
+            "the aggregates their target"
+        ]),
+        ("A word reclaimed", [
+            "'delight' —",
+            "no longer delight for her"
+        ]),
+        ("A formula shared with the poem after it", [
+            "the same victory,",
+            "word for word"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.6.html">Thig 3.6 &mdash; Sukk&amacr;</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="thig-3.8.html">Thig 3.8 &mdash; Som&amacr;</a> &mdash; '
+        "the next poem, sharing this poem's exact closing quatrain.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 3.8 — Somā
+# --------------------------------------------------------------------------- #
+page(
+    3, 8, "Som&amacr;", "Som&amacr;",
+    meta_title="Thig 3.8 — Somā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Somā's verses closing the Book of the Threes, answering Māra's "
+        "taunt about women's wisdom with one of the collection's most "
+        "quoted retorts. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Threes &middot; Poem 8 of 8",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "the addressee is named only as Māra, the Wicked One"),
+        ("Speaker", "Two voices: Māra, taunting Somā's capacity as a "
+                    "woman, then Somā, refuting him directly"),
+        ("Form", "Two four-line verses, closing the Book of the Threes"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the collection's most direct statements "
+                       "on gender and awakening"),
+    ],
+    why=(
+        "This poem closes the Book of the Threes with Māra's sharpest "
+        "taunt in this book: that with a woman's &lsquo;two-inch "
+        "wisdom&rsquo;, the state the sages attain is simply not "
+        "possible for her. Somā's reply &mdash; &lsquo;what difference "
+        "does womanhood make when the mind is serene&rsquo; &mdash; is "
+        "one of the most direct statements on gender and awakening "
+        "anywhere in this collection, closing the book on a note of "
+        "outright refutation."),
+    guide=[
+        ("A taunt naming gender directly", [
+            "Māra's opening verse is specific in a way the taunt to Selā "
+            "was not: &lsquo;that state's very challenging, it's for the "
+            "sages to attain&mdash;with her two-inch wisdom, it's not "
+            "possible for a woman&rsquo;, naming Somā's gender as the "
+            "stated obstacle itself."]),
+        ("A retort that refuses the premise entirely", [
+            "Somā's reply does not argue that women can attain despite "
+            "being women; it dismisses the category as irrelevant "
+            "outright: &lsquo;what difference does womanhood make when "
+            "the mind is serene, and knowledge is present, as you "
+            "rightly discern the Dhamma&rsquo; &mdash; gender named only "
+            "to be set aside as beside the point."]),
+        ("The same closing quatrain as the poem just before it", [
+            "&lsquo;Relishing is banished in every respect, and the mass "
+            "of darkness is shattered... you're beaten, terminator!&rsquo; "
+            "closes this poem exactly as it closed Thig 3.7 &mdash; the "
+            "same victorious formula given to two different women "
+            "answering two separate confrontations with Māra."]),
+        ("A book's ending, marked in the source text itself", [
+            "Bilara's underlying source data marks the line immediately "
+            "after this poem's verses with &lsquo;Tikanipāto "
+            "niṭṭhito&rsquo;, &lsquo;the Book of the Threes is "
+            "finished&rsquo; &mdash; a bibliographic note, not part of "
+            "the poem's own spoken content, but a structural close this "
+            "guide preserves by ending here as well."]),
+    ],
+    terms=[
+        ("Som&amacr;",
+         "this poem's speaker, whose reply to Māra's taunt closes the "
+         "Book of the Threes."),
+        ("dva&#7749;gulapa&ntilde;&ntilde;a",
+         "&ldquo;two-inch wisdom&rdquo; &mdash; Māra's taunt about a "
+         "woman's capacity, directly named in his opening verse."),
+        ("itthibh&amacr;va",
+         "&ldquo;womanhood&rdquo; &mdash; the term Somā herself uses in "
+         "asking what difference it makes to a serene mind."),
+        ("susam&amacr;hita",
+         "&ldquo;serene&rdquo; &mdash; the condition Somā names as what "
+         "actually matters, in place of gender."),
+        ("antaka",
+         "&ldquo;terminator&rdquo; or death itself &mdash; the same word "
+         "Selā used to address Māra in Thig 3.7's identical closing "
+         "line."),
+    ],
+    text_intro=(
+        "The text in full: Māra's taunt, followed by Somā's reply, "
+        "closing the Book of the Threes. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig3.8:1.1-1.4"),
+        ("p", "&sect;2", "thig3.8:2.1-2.4"),
+        ("p", "&sect;3", "thig3.8:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does Māra's taunt claim, in this poem's opening verse?",
+         "opts": [
+             "That Somā has not meditated long enough",
+             "With a woman's 'two-inch wisdom', the sages' state is not possible for her",
+             "That Somā should return to lay life",
+             "That the Dhamma itself is false"],
+         "correct": 1,
+         "expl": "A taunt naming her gender directly as the stated obstacle."},
+        {"q": "How does Somā's reply treat the question of gender?",
+         "opts": [
+             "By agreeing that gender is a genuine obstacle",
+             "By avoiding the topic entirely",
+             "By arguing women can succeed despite being women",
+             "By dismissing it as irrelevant to a serene, discerning mind"],
+         "correct": 3,
+         "expl": "'What difference does womanhood make when the mind is serene' — the premise itself is set aside."},
+        {"q": "What two conditions does Somā name as what actually matters?",
+         "opts": [
+             "A serene mind and knowledge rightly discerning the Dhamma",
+             "Physical strength and endurance",
+             "Wealth and social standing",
+             "No conditions are named"],
+         "correct": 0,
+         "expl": "Named directly in her reply's second half."},
+        {"q": "What closing quatrain does this poem share word for word with Thig 3.7?",
+         "opts": [
+             "'Though subject to so many painful things...'",
+             "'I go for refuge to that sage, the Buddha'",
+             "'Relishing is banished in every respect... you're beaten, terminator!'",
+             "No closing lines are shared"],
+         "correct": 2,
+         "expl": "The identical victorious formula given to two different women."},
+        {"q": "What position does this poem hold in the Therigatha?",
+         "opts": [
+             "It opens the Book of the Threes",
+             "It closes the Book of the Threes, the collection's third book",
+             "It is the final poem of the entire collection",
+             "It stands outside any book"],
+         "correct": 1,
+         "expl": "The eighth and last of this book's eight poems."},
+        {"q": "What structural marker does the underlying source text place immediately after this poem?",
+         "opts": [
+             "A note naming the next book's first poem",
+             "No marker at all",
+             "A repeat of the poem's own text",
+             "'Tikanipāto niṭṭhito' — 'the Book of the Threes is finished'"],
+         "correct": 3,
+         "expl": "A bibliographic close, not part of the poem's own spoken content."},
+        {"q": "What does 'dvaṅgulapaññā' mean?",
+         "opts": [
+             "'Two-inch wisdom' — Māra's taunt about a woman's capacity",
+             "'Serene mind'",
+             "'Womanhood'",
+             "'The Book of the Threes'"],
+         "correct": 0,
+         "expl": "Named directly in Māra's opening taunt."},
+        {"q": "How does this poem's confrontation compare to Thig 3.7's?",
+         "opts": [
+             "Identical in every particular, including the taunt itself",
+             "Māra's taunt here names gender specifically, rather than arguing for indulgence generally",
+             "This poem contains no confrontation at all",
+             "Somā does not reply to Māra at all"],
+         "correct": 1,
+         "expl": "A sharper, more specific taunt than Māra's argument to Selā."},
+        {"q": "What does 'itthibhāva' mean?",
+         "opts": [
+             "'Terminator'",
+             "'Two-inch wisdom'",
+             "'Womanhood' — the term Somā herself uses in her reply",
+             "'Serene'"],
+         "correct": 2,
+         "expl": "Named directly by Somā, then set aside as beside the point."},
+        {"q": "What overall claim does Somā's reply make about the relationship between gender and awakening?",
+         "opts": [
+             "That gender determines who can awaken",
+             "That only men can attain a serene, discerning mind",
+             "That gender is irrelevant once the mind is serene and rightly discerns the Dhamma",
+             "That the question cannot be answered"],
+         "correct": 2,
+         "expl": "One of this collection's most direct statements on the question."},
+    ],
+    marginalia=[
+        ("A taunt, naming gender directly", [
+            "'two-inch wisdom' —",
+            "the stated obstacle"
+        ]),
+        ("A premise refused outright", [
+            "not despite womanhood,",
+            "but beside the point"
+        ]),
+        ("A formula shared with the poem before it", [
+            "the same victory,",
+            "word for word"
+        ]),
+        ("A book, closed in the source itself", [
+            "'the Book of the Threes",
+            "is finished'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig3.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.7.html">Thig 3.7 &mdash; Sel&amacr;</a> &mdash; '
+        "the poem immediately before this one, sharing this poem's exact "
+        "closing quatrain.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection index.',
+    ],
+)
