@@ -14830,3 +14830,1886 @@ page(
         "chapter.",
     ],
 )
+
+
+VAGGA_9 = "<em>Theravagga</em> &mdash; the ninth chapter of the Tens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.81 — Vāhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    81, "Vāhana", "With Bāhuna",
+    vagga=VAGGA_9,
+    meta_title="AN 10.81 — With Bāhuna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vāhanasutta, opening the Tens' ninth chapter with ten "
+        "things the Realized One has escaped from, illustrated by "
+        "the classic lotus-above-water simile. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Campā, on the banks of the Gaggarā Lotus "
+                     "Pond"),
+        ("Speakers", "Venerable Bāhuna questioning the Buddha"),
+        ("Form", "A single question, a ten-item list, and a closing "
+                 "simile"),
+        ("Length", "~1 minute to read"),
+        ("Chapter's namesake", "This discourse opens the new "
+                               "chapter, <em>Theravagga</em>, the "
+                               "Chapter on Senior Mendicants, whose "
+                               "discourses are largely spoken by or "
+                               "concern the Buddha's most senior "
+                               "disciples"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, built around a vivid, memorable "
+                       "image"),
+    ],
+    why=(
+        "Set beside a lotus pond, of all places, Venerable Bāhuna "
+        "asks the Buddha how many things he has escaped from to live "
+        "detached and free &mdash; and receives an answer illustrated "
+        "by the very flower blooming beside them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Realized One has escaped from ten things &mdash; "
+            "form, feeling, perception, choices, consciousness, "
+            "rebirth, old age, death, suffering, and defilements "
+            "&mdash; and lives detached and free the way a lotus "
+            "rises above the water it grew in, untouched by it."]),
+        ("A setting that becomes the simile", [
+            "This discourse's setting &mdash; the banks of the "
+            "Gaggarā Lotus Pond &mdash; is not incidental scenery: "
+            "the closing simile draws directly on the blue water "
+            "lilies and lotuses actually growing in the pond beside "
+            "the conversation, rising up through the water to stand "
+            "clear of it, a rare case in this project of the physical "
+            "location itself supplying the teaching's central "
+            "image."]),
+        ("A list spanning the five aggregates and beyond", [
+            "The ten things escaped from are not a random assortment: "
+            "the first five are exactly the five aggregates (form, "
+            "feeling, perception, choices, consciousness) that "
+            "constitute clung-to existence, followed by five further "
+            "items &mdash; rebirth, old age, death, suffering, and "
+            "defilements &mdash; that name the consequences of "
+            "remaining bound to those aggregates."]),
+        ("Detachment without withdrawal from the world", [
+            "The lotus simile makes a precise point often lost in "
+            "looser talk about detachment: the lotus is not "
+            "detached by growing somewhere else, away from the water "
+            "&mdash; it grows in the water, is nourished by the water, "
+            "and only then rises above it untouched, exactly "
+            "paralleling a life still lived among the five aggregates "
+            "but no longer clung to."]),
+    ],
+    terms=[
+        ("nissaṭo, visaṁyutto, vippamutto",
+         "&ldquo;escaped, detached, liberated&rdquo; &mdash; the "
+         "three-part description of freedom Bāhuna asks the cause "
+         "of."),
+        ("vimariyādīkatena cetasā",
+         "&ldquo;with mind free of boundaries&rdquo; &mdash; the "
+         "final phrase in Bāhuna's question, describing an "
+         "unconfined mind."),
+        ("rūpa, vedanā, saññā, saṅkhārā, viññāṇa",
+         "form, feeling, perception, choices, and consciousness "
+         "&mdash; the five aggregates, forming the first half of "
+         "this discourse's ten-item list."),
+        ("uppalaṁ, padumaṁ, puṇḍarīkaṁ",
+         "&ldquo;a blue water lily, a pink lotus, a white lotus&rdquo; "
+         "&mdash; the three flowers named in the closing simile, "
+         "drawn from the pond beside which this discourse was "
+         "spoken."),
+        ("udakā paccuggamma ṭhitaṁ anupalittaṁ udakena",
+         "&ldquo;rise up above the water and stand with no water "
+         "clinging to it&rdquo; &mdash; the simile's own central "
+         "image of detachment achieved from within, not by "
+         "withdrawal."),
+    ],
+    text_intro=(
+        "The discourse in full: Bāhuna's question, the ten-item "
+        "answer, and the lotus simile. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Bāhuna's question"),
+        ("p", "&sect;1", "an10.81:1.1-1.3"),
+        ("h3", "Ten things escaped, and the lotus simile"),
+        ("p", "&sect;2", "an10.81:2.1-2.14"),
+    ],
+    quiz=[
+        {"q": "What does Venerable Bāhuna ask the Buddha?",
+         "opts": [
+             "How to enter the four absorptions",
+             "How many things the Realized One has escaped from to "
+             "live detached, liberated, with mind free of boundaries",
+             "How to settle a monastic dispute",
+             "What causes rebirth"],
+         "correct": 1,
+         "expl": "A direct question about the basis of the Buddha's "
+                 "own freedom."},
+        {"q": "What are the first five of the ten things named?",
+         "opts": [
+             "The five hindrances",
+             "The five aggregates: form, feeling, perception, "
+             "choices, and consciousness",
+             "The five precepts",
+             "The five faculties"],
+         "correct": 1,
+         "expl": "The constituents of clung-to existence, escaped "
+                 "from rather than merely restrained."},
+        {"q": "What simile illustrates this escape?",
+         "opts": [
+             "A bird flying free from a cage",
+             "A lotus growing in water yet rising above it, "
+             "untouched",
+             "A fire being extinguished",
+             "A river reaching the ocean"],
+         "correct": 1,
+         "expl": "An image drawn directly from the pond beside which "
+                 "this discourse was spoken."},
+        {"q": "According to the guide, what precise point does the "
+              "lotus simile make about detachment?",
+         "opts": [
+             "That detachment requires physically leaving the world",
+             "That the lotus grows in and is nourished by the water "
+             "before rising above it untouched &mdash; detachment "
+             "from within, not withdrawal",
+             "That lotuses are inherently pure",
+             "That detachment is impossible"],
+         "correct": 1,
+         "expl": "A life still lived among the aggregates but no "
+                 "longer clung to."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Campā, on the banks of the Gaggarā Lotus Pond",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A setting that directly supplies the discourse's "
+                 "closing image."},
+    ],
+    marginalia=[
+        ("Ten things, escaped", [
+            "the five aggregates,",
+            "then birth, age, death, pain,",
+            "defilement &mdash; let go",
+        ]),
+        ("A pond becomes a teaching", [
+            "lotus, lily, blooming",
+            "right beside them &mdash; the simile",
+            "was already there",
+        ]),
+        ("Rising, not fleeing", [
+            "rooted in the mud,",
+            "fed by the very water",
+            "it rises above",
+        ]),
+        ("Cross-references", [
+            "AN 10.80 &middot; previous, closing ch.8, Ākaṅkhavagga",
+            "AN 10.82 &middot; next, with Ānanda",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.81/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.80.html">AN 10.80</a> &mdash; previous, closing chapter 8, '
+        "Ākaṅkhavagga.",
+        '<a href="an-10.82.html">AN 10.82 &middot; With Ānanda</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.82 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    82, "Ānanda", "With Ānanda",
+    vagga=VAGGA_9,
+    meta_title="AN 10.82 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta, in which the Buddha tells Ānanda ten "
+        "qualities that make growth in the teaching impossible, then "
+        "their ten exact opposites that make it possible. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, addressing Ānanda"),
+        ("Form", "Two matched ten-item lists, framed as pure "
+                 "impossibility and pure possibility"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean, symmetrical structure"),
+    ],
+    why=(
+        "The Buddha tells Ānanda, in the strongest possible terms, "
+        "that ten specific qualities make growth in the teaching "
+        "flatly impossible &mdash; not merely difficult or unlikely "
+        "&mdash; and that their ten exact opposites make it possible "
+        "with equal certainty."),
+    guide=[
+        ("The teaching in one sentence", [
+            "It is quite impossible for a faithless, unethical, "
+            "unlearned mendicant who is hard to admonish, has bad "
+            "friends, is lazy, unmindful, discontented, of corrupt "
+            "wishes, and of wrong view to grow in this teaching; it "
+            "is quite possible for a mendicant with the exact ten "
+            "opposite qualities."]),
+        ("Impossibility, not mere difficulty", [
+            "The discourse's repeated phrase &mdash; &ldquo;it is "
+            "quite impossible&rdquo; (<em>netaṁ ṭhānaṁ vijjati</em>) "
+            "&mdash; is a stronger claim than a simple warning against "
+            "bad qualities: it asserts a logical impossibility, the "
+            "same register used elsewhere in the canon for claims "
+            "like &ldquo;two Buddhas cannot arise in the same "
+            "world.&rdquo;"]),
+        ("A perfectly symmetrical pair of lists", [
+            "Unlike many paired lists elsewhere in this project, "
+            "where a positive and negative version diverge partway "
+            "through, this discourse's ten negative and ten positive "
+            "qualities correspond exactly, one to one, item for item "
+            "&mdash; faithless/faithful, unethical/ethical, and so on "
+            "down the full list without exception."]),
+        ("Addressed to the Buddha's own attendant", [
+            "The discourse is spoken directly to Ānanda, the "
+            "Buddha's own personal attendant and, by tradition, the "
+            "disciple who heard and remembered more of the Buddha's "
+            "teaching than anyone else &mdash; a fitting recipient "
+            "for a discourse about what makes growth in the teaching "
+            "possible or impossible."]),
+    ],
+    terms=[
+        ("netaṁ ṭhānaṁ vijjati",
+         "&ldquo;it is quite impossible&rdquo; &mdash; the recurring "
+         "formula asserting a logical impossibility, not merely a "
+         "warning."),
+        ("assaddho",
+         "&ldquo;faithless&rdquo; &mdash; the first of the ten "
+         "qualities making growth impossible."),
+        ("dubbaco",
+         "&ldquo;hard to admonish&rdquo; &mdash; the fourth quality "
+         "on the negative list."),
+        ("vuddhiṁ virūḷhiṁ vepullaṁ āpajjati",
+         "&ldquo;achieve growth, improvement, or maturity&rdquo; "
+         "&mdash; the three-part outcome named as impossible or "
+         "possible depending on the ten qualities."),
+        ("saddho",
+         "&ldquo;faithful&rdquo; &mdash; the first of the ten exact "
+         "opposite qualities making growth possible."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten qualities making growth "
+        "impossible, and their ten exact opposites making it "
+        "possible. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten qualities that make growth impossible"),
+        ("p", "&sect;1", "an10.82:2.1-12.1"),
+        ("h3", "Ten qualities that make growth possible"),
+        ("p", "&sect;2", "an10.82:13.1-23.1"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha tell Ānanda about a mendicant "
+              "with ten specific bad qualities?",
+         "opts": [
+             "That growth is merely unlikely for them",
+             "That it is quite impossible for them to achieve "
+             "growth, improvement, or maturity in the teaching",
+             "That they should be expelled",
+             "That growth is still possible with great effort"],
+         "correct": 1,
+         "expl": "A claim of logical impossibility, not mere "
+                 "difficulty."},
+        {"q": "According to the guide, how strong is the claim behind "
+              "the phrase \"it is quite impossible\"?",
+         "opts": [
+             "A mild suggestion",
+             "The same register used elsewhere in the canon for "
+             "claims like \"two Buddhas cannot arise in the same "
+             "world\"",
+             "A polite exaggeration",
+             "A statement of mere statistical rarity"],
+         "correct": 1,
+         "expl": "A genuine logical impossibility, not a warning "
+                 "against unlikely outcomes."},
+        {"q": "How do the two ten-item lists in this discourse "
+              "relate to each other?",
+         "opts": [
+             "They diverge partway through",
+             "They correspond exactly, one to one, item for item, "
+             "without exception",
+             "They share no items in common",
+             "The positive list has fewer items"],
+         "correct": 1,
+         "expl": "A perfectly symmetrical negative/positive pairing."},
+        {"q": "Who is this discourse addressed to?",
+         "opts": [
+             "Sāriputta", "Ānanda, the Buddha's personal attendant",
+             "Mahākassapa", "A group of unnamed mendicants"],
+         "correct": 1,
+         "expl": "Spoken directly to the disciple traditionally said "
+                 "to have remembered the most teaching."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Not unlikely, impossible", [
+            "the strongest claim made &mdash;",
+            "not \"rarely,\" but \"cannot,\"",
+            "ten qualities named",
+        ]),
+        ("A mirror, exact", [
+            "faithless meets faithful,",
+            "each fault its precise reverse &mdash;",
+            "no item left out",
+        ]),
+        ("Spoken to the one who heard most", [
+            "Ānanda himself,",
+            "who remembered the most &mdash; told",
+            "what makes growth impossible",
+        ]),
+        ("Cross-references", [
+            "AN 10.81 &middot; previous, With Bāhuna",
+            "AN 10.83 &middot; next, with Puṇṇiya",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.82/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.81.html">AN 10.81 &middot; With Bāhuna</a> &mdash; previous.',
+        '<a href="an-10.83.html">AN 10.83 &middot; With Puṇṇiya</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.83 — Puṇṇiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    83, "Puṇṇiya", "With Puṇṇiya",
+    vagga=VAGGA_9,
+    meta_title="AN 10.83 — With Puṇṇiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Puṇṇiyasutta, in which the Buddha explains why he "
+        "sometimes feels inspired to teach and sometimes doesn't, "
+        "through a ten-step chain the listener alone must complete. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Puṇṇiya questioning the Buddha"),
+        ("Form", "A single question, a ten-step incremental chain, "
+                 "each step building on the last"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a long, carefully incremental structure"),
+    ],
+    why=(
+        "Puṇṇiya asks a question that reframes teaching itself as a "
+        "two-way relationship: why does the Buddha sometimes feel "
+        "inspired to teach, and sometimes not? The answer places the "
+        "responsibility almost entirely on the listener, one "
+        "necessary step at a time."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Realized One feels inspired to teach only when a "
+            "mendicant has faith and approaches, pays homage, asks "
+            "questions, actively listens, remembers what they've "
+            "heard, examines its meaning, practices accordingly, "
+            "speaks well, and encourages their companions &mdash; all "
+            "ten conditions fulfilled, not merely some of them."]),
+        ("A chain where any single break stops everything", [
+            "The discourse's structure is unusually strict: it works "
+            "through the ten conditions one at a time, and at every "
+            "single point states plainly that the Buddha does not "
+            "feel inspired to teach if that condition alone is "
+            "missing, even when every earlier condition in the chain "
+            "has already been met."]),
+        ("Inspiration to teach as relational, not autonomous", [
+            "This discourse pushes back against any picture of the "
+            "Buddha's teaching as simply flowing outward regardless "
+            "of the audience: whether he feels inspired to teach at "
+            "all is described as depending step by step on what the "
+            "listener actually does, right down to whether they "
+            "later pass the teaching on well to others."]),
+        ("From bare faith to teaching others in turn", [
+            "The ten-step chain traces an entire arc of receiving a "
+            "teaching, from the first stirring of faith through "
+            "approach, respect, inquiry, attentive listening, "
+            "memory, reflection, and practice, ending only when the "
+            "listener becomes capable of encouraging their own "
+            "spiritual companions in turn &mdash; the student's growth "
+            "completing in their own ability to teach."]),
+    ],
+    terms=[
+        ("kiṁ nu kho, bhante, hetu, ko paccayo",
+         "&ldquo;what is the cause, what is the reason&rdquo; "
+         "&mdash; Puṇṇiya's own opening question about the Buddha's "
+         "variable inspiration to teach."),
+        ("saddho ca hoti, no ca upasaṅkamitā",
+         "&ldquo;has faith but doesn't approach&rdquo; &mdash; the "
+         "first broken link in the chain, where inspiration fails "
+         "even with the very first condition present."),
+        ("dhammaṁ suṇāti, na dhāreti",
+         "&ldquo;listens to the teaching, but doesn't remember "
+         "it&rdquo; &mdash; a middle link in the incremental chain."),
+        ("vācāya samannāgato",
+         "&ldquo;a good speaker who enunciates well&rdquo; &mdash; "
+         "the penultimate condition, concerning the listener's own "
+         "eventual capacity to speak."),
+        ("sabrahmacārī sandasseti samādapeti samuttejeti sampahaṁseti",
+         "&ldquo;educates, encourages, fires up, and inspires their "
+         "spiritual companions&rdquo; &mdash; the tenth and final "
+         "condition, completing the full chain."),
+    ],
+    text_intro=(
+        "The discourse in full: Puṇṇiya's question, and the "
+        "ten-step chain of conditions. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Puṇṇiya's question"),
+        ("p", "&sect;1", "an10.83:1.1-1.2"),
+        ("h3", "Ten conditions, one at a time"),
+        ("p", "&sect;2", "an10.83:2.1-3.8"),
+        ("h3", "All ten fulfilled together"),
+        ("p", "&sect;3", "an10.83:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What does Puṇṇiya ask the Buddha?",
+         "opts": [
+             "How to enter absorption",
+             "Why the Buddha sometimes feels inspired to teach, and "
+             "sometimes not",
+             "How to settle a monastic dispute",
+             "What defines enlightenment"],
+         "correct": 1,
+         "expl": "A question reframing teaching as depending on the "
+                 "listener, not just the teacher."},
+        {"q": "How does the discourse's structure work, according to "
+              "the guide?",
+         "opts": [
+             "It gives one single unified condition",
+             "It works through ten conditions one at a time, stating "
+             "at each point that inspiration fails if even one "
+             "condition alone is missing",
+             "It lists ten unrelated causes with no order",
+             "It only concerns the Buddha's own state, not the "
+             "listener at all"],
+         "correct": 1,
+         "expl": "A strict, cumulative chain, not a simple list."},
+        {"q": "What is the tenth and final condition in the chain?",
+         "opts": [
+             "Reaching enlightenment",
+             "Educating, encouraging, and inspiring one's own "
+             "spiritual companions in turn",
+             "Becoming a monastic teacher officially",
+             "Memorizing the entire monastic code"],
+         "correct": 1,
+         "expl": "The listener's growth completing in their own "
+                 "capacity to teach others."},
+        {"q": "According to the guide, what does this discourse push "
+              "back against?",
+         "opts": [
+             "Nothing in particular",
+             "Any picture of the Buddha's teaching as simply flowing "
+             "outward regardless of the audience",
+             "The value of listening at all",
+             "The idea that faith matters"],
+         "correct": 1,
+         "expl": "Inspiration to teach framed as genuinely relational."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A two-way relationship", [
+            "not the Buddha's choice",
+            "alone &mdash; inspiration turns",
+            "on what the listener does",
+        ]),
+        ("One missing link, no teaching", [
+            "faith without approach",
+            "already stops it &mdash; each step",
+            "genuinely required",
+        ]),
+        ("Ending in teaching others", [
+            "the chain's last condition:",
+            "not just receiving well, but",
+            "passing it on well",
+        ]),
+        ("Cross-references", [
+            "AN 10.82 &middot; previous, with Ānanda",
+            "AN 10.84 &middot; next, Declaration",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.82.html">AN 10.82 &middot; With Ānanda</a> &mdash; previous.',
+        '<a href="an-10.84.html">AN 10.84 &middot; Declaration</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.84 — Byākaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    84, "Byākaraṇa", "Declaration",
+    vagga=VAGGA_9,
+    meta_title="AN 10.84 — Declaration | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Byākaraṇasutta, in which Mahāmoggallāna explains how a "
+        "false declaration of enlightenment collapses under skilled "
+        "questioning, tracing it to ten unabandoned qualities. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Mahāmoggallāna, addressing the "
+                     "mendicants"),
+        ("Form", "A narrative of interrogation, then a ten-item "
+                 "diagnosis"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a psychologically pointed teaching"),
+    ],
+    why=(
+        "Mahāmoggallāna describes what happens when a mendicant "
+        "wrongly declares themselves enlightened: skilled "
+        "questioning &mdash; from the Buddha himself, or from any "
+        "disciple able to read another's mind &mdash; exposes exactly "
+        "which unabandoned qualities made the false claim possible in "
+        "the first place."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who falsely declares enlightenment, when "
+            "pursued and grilled by a mind-reading investigator, "
+            "turns out to be irritable, acrimonious, disdainful, "
+            "contemptuous, jealous, stingy, devious, and deceitful, "
+            "of corrupt wishes, and to have stopped halfway after a "
+            "trifling attainment &mdash; and growth in the teaching is "
+            "impossible without giving up every one of these ten."]),
+        ("Investigation as a diagnostic tool, not an accusation", [
+            "The &ldquo;grilling&rdquo; described is not portrayed as "
+            "hostile interrogation for its own sake: it is a "
+            "precise diagnostic process, undertaken specifically by "
+            "someone &ldquo;skilled in attainments, in the minds of "
+            "others, and in encompassing another's mind,&rdquo; aimed "
+            "at locating exactly which unabandoned quality explains "
+            "the mismatch between claim and reality."]),
+        ("Anger as the diagnosis's opening thread", [
+            "The investigation begins by tracing the false "
+            "declaration to irritability and a heart often full of "
+            "anger, then follows a chain of closely related "
+            "interpersonal faults &mdash; acrimony, disdain, "
+            "contempt, jealousy, stinginess, deviousness, "
+            "deceitfulness &mdash; before finally naming corrupt "
+            "wishes and premature satisfaction as the last two "
+            "causes."]),
+        ("The first of three parallel investigations", [
+            "This discourse opens a run of closely related teachings "
+            "&mdash; AN 10.85 and AN 10.86 use the identical "
+            "narrative structure of pursuit, grilling, and diagnosis, "
+            "each spoken by a different senior disciple, and each "
+            "tracing a different false claim back to its own "
+            "distinct set of ten unabandoned qualities."]),
+    ],
+    terms=[
+        ("byākaroti",
+         "&ldquo;declares&rdquo; &mdash; the act of announcing one's "
+         "own enlightenment, this discourse's own title and central "
+         "concern."),
+        ("samanuyuñjati samanuggāhati samanubhāsati",
+         "&ldquo;pursued, pressed, and grilled&rdquo; &mdash; the "
+         "three-verb description of the investigative process this "
+         "discourse describes."),
+        ("paracittapariyāyakusalo",
+         "&ldquo;skilled in encompassing another's mind&rdquo; "
+         "&mdash; the qualification required of whoever conducts "
+         "this investigation, echoing AN 10.51's own central skill."),
+        ("kodhano, kodhapariyuṭṭhitena cetasā bahulaṁ viharati",
+         "&ldquo;irritable, and often lives with a heart full of "
+         "anger&rdquo; &mdash; the first and opening diagnosis in the "
+         "investigation."),
+        ("pāpiccho, icchāpariyuṭṭhitena cetasā bahulaṁ viharati",
+         "&ldquo;of corrupt wishes, and often lives with a heart full "
+         "of desire&rdquo; &mdash; the penultimate diagnosis, "
+         "immediately before the final finding of premature "
+         "satisfaction."),
+    ],
+    text_intro=(
+        "The discourse in full: Mahāmoggallāna's description of "
+        "investigation and diagnosis. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A false declaration, investigated"),
+        ("p", "&sect;1", "an10.84:2.1-4.1"),
+        ("h3", "Ten unabandoned qualities, diagnosed"),
+        ("p", "&sect;2", "an10.84:5.1-14.2"),
+        ("h3", "Closing"),
+        ("p", "&sect;3", "an10.84:15.1-15.2"),
+    ],
+    quiz=[
+        {"q": "What happens when a mendicant falsely declares "
+              "enlightenment, according to Mahāmoggallāna?",
+         "opts": [
+             "Nothing; false claims go unchallenged",
+             "They are pursued, pressed, and grilled by a "
+             "mind-reading investigator, and the questioning exposes "
+             "the unabandoned qualities behind the false claim",
+             "They are immediately expelled from the Saṅgha",
+             "They are praised regardless"],
+         "correct": 1,
+         "expl": "A diagnostic process, not an accusation for its own "
+                 "sake."},
+        {"q": "What is the first quality the investigation uncovers?",
+         "opts": [
+             "Laziness",
+             "Irritability, and a heart often full of anger",
+             "Lack of learning",
+             "Poverty"],
+         "correct": 1,
+         "expl": "The opening thread of a chain of related "
+                 "interpersonal faults."},
+        {"q": "According to the guide, how is the \"grilling\" "
+              "described in this discourse best understood?",
+         "opts": [
+             "As hostile interrogation for its own sake",
+             "As a precise diagnostic process aimed at locating "
+             "exactly which unabandoned quality explains the false "
+             "claim",
+             "As a form of punishment",
+             "As an entirely random test"],
+         "correct": 1,
+         "expl": "Undertaken by someone specifically skilled in "
+                 "reading minds and attainments."},
+        {"q": "According to the guide, what does this discourse open "
+              "within the chapter?",
+         "opts": [
+             "Nothing further follows it",
+             "A run of three closely related discourses (this one "
+             "plus AN 10.85 and 10.86) using the identical "
+             "investigation structure for different false claims",
+             "A contradiction of AN 10.83",
+             "The chapter's closing sequence"],
+         "correct": 1,
+         "expl": "Three parallel investigations, each spoken by a "
+                 "different senior disciple."},
+        {"q": "Who speaks this discourse?",
+         "opts": [
+             "The Buddha",
+             "Venerable Mahāmoggallāna",
+             "Venerable Sāriputta",
+             "Venerable Ānanda"],
+         "correct": 1,
+         "expl": "One of the Buddha's two chief disciples, addressing "
+                 "the assembly directly."},
+    ],
+    marginalia=[
+        ("A claim, put to the test", [
+            "declared, then grilled &mdash;",
+            "not to punish, but to find",
+            "what the claim concealed",
+        ]),
+        ("Anger, the first thread", [
+            "irritable heart,",
+            "full of anger &mdash; the chain of",
+            "faults begins right there",
+        ]),
+        ("Three investigations to come", [
+            "Moggallāna first;",
+            "two more disciples will run",
+            "this same test again",
+        ]),
+        ("Cross-references", [
+            "AN 10.83 &middot; previous, with Puṇṇiya",
+            "AN 10.51 &middot; Your Own Mind, the same skill in "
+            "encompassing another's mind required of the "
+            "investigator here",
+            "AN 10.85 &middot; next, A Boaster",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.84/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.83.html">AN 10.83 &middot; With Puṇṇiya</a> &mdash; previous.',
+        '<a href="an-10.85.html">AN 10.85 &middot; A Boaster</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.85 — Katthīsutta
+# --------------------------------------------------------------------------- #
+page(
+    85, "Katthī", "A Boaster",
+    vagga=VAGGA_9,
+    meta_title="AN 10.85 — A Boaster | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Katthīsutta, in which Mahācunda diagnoses a meditative "
+        "boaster's ten unabandoned faults, illustrated by the "
+        "unforgettable simile of a friend who keeps promising buried "
+        "treasure that is never there. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Cetīs, at Sahajāti"),
+        ("Speakers", "Venerable Mahācunda, addressing the "
+                     "mendicants"),
+        ("Form", "The same investigation structure as AN 10.84, with "
+                 "a distinct ten-item diagnosis and a vivid narrative "
+                 "simile"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a memorable narrative carrying a pointed "
+                       "diagnosis"),
+    ],
+    why=(
+        "Where AN 10.84 investigated a false claim to full "
+        "enlightenment, Mahācunda turns to a related but distinct "
+        "failure: a mendicant who boasts of meditative attainments "
+        "&mdash; the four absorptions, the four formless states, and "
+        "cessation itself &mdash; and is exposed by an unforgettable "
+        "simile about a friend who never actually buries any "
+        "treasure."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who boasts of entering and emerging from all "
+            "nine progressive meditative attainments, when grilled by "
+            "a skilled investigator, turns out to be unethical, "
+            "unfaithful, unlearned, hard to admonish, of bad friends, "
+            "lazy, unmindful, deceptive, burdensome, and witless "
+            "&mdash; a different ten qualities from AN 10.84's, but "
+            "diagnosed by the identical process."]),
+        ("A different failure, a different diagnosis", [
+            "Though this discourse reuses AN 10.84's exact "
+            "investigative structure, the ten qualities uncovered are "
+            "almost entirely different: rather than anger and its "
+            "relatives, this diagnosis centers on basic ethical and "
+            "practical failures &mdash; broken conduct, lack of "
+            "faith, lack of learning, laziness &mdash; the specific "
+            "profile of someone who boasts about attainments they "
+            "never did the groundwork for."]),
+        ("The buried treasure that was never there", [
+            "The discourse's central simile is one of the most "
+            "vivid and specific narrative images in this project: a "
+            "friend repeatedly promises buried money, sends their "
+            "friend to dig in one spot after another, and each time "
+            "nothing is found &mdash; until, cornered, the friend "
+            "finally admits, &ldquo;I had gone mad, I was out of my "
+            "mind,&rdquo; rather than continuing to insist the "
+            "treasure exists."]),
+        ("A pattern of escalating, then abandoned, excuse", [
+            "The simile's structure &mdash; three separate failed "
+            "digs, three separate accusations of lying, and a final "
+            "confession of madness rather than a fourth false promise "
+            "&mdash; mirrors exactly how the discourse frames the "
+            "boaster's own claims: repeated, specific, and ultimately "
+            "indefensible once actually tested."]),
+    ],
+    terms=[
+        ("katthī, vikatthī",
+         "&ldquo;one who boasts and brags&rdquo; &mdash; this "
+         "discourse's own title and the failure it diagnoses."),
+        ("saññāvedayitanirodha",
+         "&ldquo;the cessation of perception and feeling&rdquo; "
+         "&mdash; the ninth and most advanced attainment among those "
+         "boasted of."),
+        ("khataṁ khaṇḍaṁ vilikhitaṁ kammantaṁ",
+         "&ldquo;broken, tainted, spotty, and marred&rdquo; &mdash; "
+         "the vivid description of the boaster's actual conduct, "
+         "opening the ten-item diagnosis."),
+        ("ummattako ahosiṁ khittacitto",
+         "&ldquo;I had gone mad, I was out of my mind&rdquo; &mdash; "
+         "the friend's final confession in the buried-treasure "
+         "simile, abandoning the pretense rather than repeating it."),
+        ("garubhāro",
+         "&ldquo;burdensome&rdquo; &mdash; one of the ten qualities "
+         "unique to this discourse's diagnosis, not shared with AN "
+         "10.84's list."),
+    ],
+    text_intro=(
+        "The discourse in full: the boaster investigated, the ten "
+        "unabandoned qualities diagnosed, and the buried-treasure "
+        "simile told twice. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A boaster, investigated"),
+        ("p", "&sect;1", "an10.85:2.1-4.4"),
+        ("h3", "Ten unabandoned qualities, diagnosed"),
+        ("p", "&sect;2", "an10.85:5.1-15.2"),
+        ("h3", "The buried treasure that was never there"),
+        ("p", "&sect;3", "an10.85:16.1-16.19"),
+        ("h3", "The same diagnosis, restated"),
+        ("p", "&sect;4", "an10.85:17.1-31.2"),
+    ],
+    quiz=[
+        {"q": "What does the mendicant in this discourse boast about?",
+         "opts": [
+             "Wealth and possessions",
+             "Entering and emerging from all nine progressive "
+             "meditative attainments, up to the cessation of "
+             "perception and feeling",
+             "Physical strength",
+             "Family lineage"],
+         "correct": 1,
+         "expl": "A boast about the full range of meditative "
+                 "attainment, not just the four absorptions."},
+        {"q": "According to the guide, how does this discourse's "
+              "ten-item diagnosis compare to AN 10.84's?",
+         "opts": [
+             "It is identical",
+             "It is almost entirely different, centering on basic "
+             "ethical and practical failures rather than anger and "
+             "its relatives",
+             "It has only five items",
+             "It contradicts AN 10.84's diagnosis"],
+         "correct": 1,
+         "expl": "The same investigative process, a different "
+                 "underlying failure."},
+        {"q": "What does the friend in the buried-treasure simile "
+              "finally say, after three failed digs?",
+         "opts": [
+             "A fourth false promise about where to dig",
+             "\"I had gone mad, I was out of my mind\"",
+             "An apology and full refund",
+             "Nothing; the simile ends unresolved"],
+         "correct": 1,
+         "expl": "A confession abandoning the pretense rather than "
+                 "extending it further."},
+        {"q": "According to the guide, what does the simile's "
+              "structure mirror?",
+         "opts": [
+             "Nothing in particular",
+             "The boaster's own pattern of repeated, specific claims "
+             "that prove indefensible once actually tested",
+             "The four absorptions themselves",
+             "A completely unrelated teaching"],
+         "correct": 1,
+         "expl": "Three failed digs, three accusations, one final "
+                 "confession &mdash; paralleling the boast under "
+                 "investigation."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "The land of the Cetīs, at Sahajāti",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A specific, named setting for Mahācunda's own "
+                 "teaching."},
+    ],
+    marginalia=[
+        ("Nine attainments, boasted", [
+            "four jhānas, four",
+            "formless states, cessation &mdash;",
+            "claimed, then investigated",
+        ]),
+        ("Dig here, and here, and here", [
+            "no treasure at all &mdash;",
+            "three digs, three lies exposed, one",
+            "final \"I was mad\"",
+        ]),
+        ("A different ten faults", [
+            "not anger this time,",
+            "but broken conduct, no faith,",
+            "no learning at all",
+        ]),
+        ("Cross-references", [
+            "AN 10.84 &middot; Declaration, the same investigative "
+            "structure, there uncovering a different ten faults",
+            "AN 10.86 &middot; next, Overestimation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.85/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.84.html">AN 10.84 &middot; Declaration</a> &mdash; previous.',
+        '<a href="an-10.86.html">AN 10.86 &middot; Overestimation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.86 — Adhimānasutta
+# --------------------------------------------------------------------------- #
+page(
+    86, "Adhimāna", "Overestimation",
+    vagga=VAGGA_9,
+    meta_title="AN 10.86 — Overestimation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Adhimānasutta, in which Mahākassapa diagnoses a "
+        "sincere, mistaken declaration of enlightenment, tracing it "
+        "first to learning itself, then to the five hindrances and "
+        "four relished distractions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove, the "
+                     "squirrels' feeding ground"),
+        ("Speakers", "Venerable Mahākassapa, addressing the "
+                     "mendicants"),
+        ("Form", "The same investigation structure as AN 10.84 and "
+                 "10.85, run twice in succession to reach a deeper "
+                 "layer of diagnosis"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most psychologically subtle of the three "
+                       "investigations"),
+    ],
+    why=(
+        "Completing this chapter's trio of investigations, "
+        "Mahākassapa examines the subtlest case of all: not a lie, "
+        "and not mere boasting, but a mendicant who sincerely and "
+        "mistakenly believes they have attained what they have not "
+        "&mdash; and traces that honest error back through two full "
+        "rounds of questioning."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who declares enlightenment out of genuine "
+            "overestimation &mdash; perceiving attainment where there "
+            "is none &mdash; turns out, on investigation, to be very "
+            "learned, and that very learning is what grounds the "
+            "overestimation; investigated further, the learning "
+            "itself is found resting on the five hindrances, four "
+            "relished distractions, and premature satisfaction, left "
+            "unabandoned."]),
+        ("A genuinely honest mistake, not deception", [
+            "Unlike AN 10.84's angry false claimant or AN 10.85's "
+            "boaster, this discourse's subject is not portrayed as "
+            "lying: the term <em>adhimāna</em>, overestimation, names "
+            "a sincere misperception, someone who has genuinely come "
+            "to believe, wrongly, that they have attained what they "
+            "have not &mdash; the most psychologically subtle of the "
+            "chapter's three failures."]),
+        ("Two rounds of grilling, not one", [
+            "Where AN 10.84 and 10.85 each investigate once and reach "
+            "their diagnosis, this discourse runs the entire "
+            "pursue-press-grill sequence twice: the first round "
+            "uncovers that the mendicant is very learned, and only a "
+            "second, deeper round of questioning asks why that "
+            "learning itself led to overestimation, uncovering the "
+            "five hindrances and four relished distractions "
+            "beneath it."]),
+        ("Learning itself as a potential trap", [
+            "The discourse's most striking move is naming deep "
+            "learning &mdash; ordinarily praised throughout this "
+            "project as an unambiguous virtue &mdash; as the "
+            "immediate ground of a false claim to enlightenment: "
+            "familiarity with the teaching's own descriptions of "
+            "awakening can itself become the raw material for "
+            "sincerely mistaking oneself as having reached it."]),
+    ],
+    terms=[
+        ("adhimāna",
+         "&ldquo;overestimation&rdquo; &mdash; this discourse's own "
+         "title, a sincere misperception rather than deliberate "
+         "deception."),
+        ("appatte pattasaññī, akate katasaññī",
+         "&ldquo;perceiving that they've attained what they haven't "
+         "attained, done what they haven't done&rdquo; &mdash; the "
+         "discourse's own precise definition of overestimation."),
+        ("bahussuto",
+         "&ldquo;very learned&rdquo; &mdash; the finding of the "
+         "first round of investigation, and the surprising immediate "
+         "ground of the overestimation."),
+        ("kāmacchando, byāpādo, thinamiddhaṁ",
+         "&ldquo;covetousness, ill will, dullness and drowsiness&rdquo; "
+         "&mdash; three of the five hindrances uncovered in the "
+         "second, deeper round of investigation."),
+        ("kammārāmo, bhassārāmo, niddārāmo, saṅgaṇikārāmo",
+         "&ldquo;relishes work, relishes talk, relishes sleep, "
+         "relishes company&rdquo; &mdash; the four relished "
+         "distractions found alongside the five hindrances beneath "
+         "the mendicant's learning."),
+    ],
+    text_intro=(
+        "The discourse in full: two rounds of investigation, first "
+        "uncovering deep learning, then the hindrances and "
+        "distractions beneath it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A sincere overestimation, investigated"),
+        ("p", "&sect;1", "an10.86:2.1-5.3"),
+        ("h3", "A second round: why learning led to overestimation"),
+        ("p", "&sect;2", "an10.86:6.1-8.4"),
+        ("h3", "Five hindrances, four distractions, diagnosed"),
+        ("p", "&sect;3", "an10.86:9.1-19.2"),
+        ("h3", "Closing"),
+        ("p", "&sect;4", "an10.86:20.1-20.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's subject differ from AN "
+              "10.84's and 10.85's, according to the guide?",
+         "opts": [
+             "There is no difference; all three are identical",
+             "This mendicant sincerely and mistakenly believes they "
+             "have attained enlightenment, rather than lying or "
+             "boasting",
+             "This mendicant is fully enlightened",
+             "This mendicant never speaks at all"],
+         "correct": 1,
+         "expl": "A genuine, honest error, not deliberate deception."},
+        {"q": "What does the first round of investigation uncover?",
+         "opts": [
+             "That the mendicant is lazy",
+             "That the mendicant is very learned, and that this "
+             "learning grounds the overestimation",
+             "That the mendicant is wealthy",
+             "Nothing; the first round fails"],
+         "correct": 1,
+         "expl": "A surprising finding, since learning is usually "
+                 "praised as a virtue."},
+        {"q": "What does the second, deeper round of investigation "
+              "uncover beneath the learning?",
+         "opts": [
+             "Nothing further",
+             "The five hindrances and four relished distractions "
+             "(work, talk, sleep, company), plus premature "
+             "satisfaction",
+             "A hidden ethical violation",
+             "A physical illness"],
+         "correct": 1,
+         "expl": "Two full rounds of grilling, unlike AN 10.84 and "
+                 "10.85's single round each."},
+        {"q": "According to the guide, what striking move does this "
+              "discourse make regarding learning?",
+         "opts": [
+             "It condemns learning outright as useless",
+             "It names deep learning, usually praised as a virtue, as "
+             "the immediate ground of a sincere false claim to "
+             "enlightenment",
+             "It has nothing to say about learning",
+             "It claims learning guarantees enlightenment"],
+         "correct": 1,
+         "expl": "Familiarity with descriptions of awakening becoming "
+                 "raw material for sincerely mistaking oneself as "
+                 "having reached it."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Rājagaha, in the Bamboo Grove, the squirrels' "
+             "feeding ground",
+             "Vesālī, at the Great Wood",
+             "Naḷakapāna"],
+         "correct": 1,
+         "expl": "A specific setting for Mahākassapa's own teaching."},
+    ],
+    marginalia=[
+        ("An honest mistake", [
+            "not lying, not boast &mdash;",
+            "genuinely believing",
+            "what simply isn't true",
+        ]),
+        ("Learning, turned trap", [
+            "the very knowledge",
+            "praised elsewhere becomes the",
+            "ground of false belief",
+        ]),
+        ("Two rounds, not one", [
+            "grilled once, learning found;",
+            "grilled again, hindrances",
+            "waiting underneath",
+        ]),
+        ("Cross-references", [
+            "AN 10.85 &middot; A Boaster, the same investigative "
+            "structure, there uncovering deliberate exaggeration "
+            "rather than sincere error",
+            "AN 10.87 &middot; next, Disciplinary Issues",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.86/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.85.html">AN 10.85 &middot; A Boaster</a> &mdash; previous.',
+        '<a href="an-10.87.html">AN 10.87 &middot; Disciplinary Issues</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.87 — Nappiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    87, "Nappiya", "Disciplinary Issues",
+    vagga=VAGGA_9,
+    meta_title="AN 10.87 — Disciplinary Issues | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nappiyasutta, spoken concerning a deceased mendicant, "
+        "naming ten qualities that block or earn a companion's "
+        "respect, illustrated by a wild colt and a thoroughbred. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, addressing the mendicants"),
+        ("Form", "Ten paired qualities, each with the same "
+                 "consequence stated, plus a matched pair of horse "
+                 "similes"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "long but built on one clear repeated logic"),
+    ],
+    why=(
+        "Occasioned by a specific mendicant, this discourse names ten "
+        "qualities that quietly determine whether a mendicant earns "
+        "their companions' fondness and respect &mdash; not because "
+        "others withhold it arbitrarily, but because sensible people "
+        "can simply see whether those qualities have been given up."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Raising disciplinary issues without praising their "
+            "settlement, not wanting to train, having corrupt "
+            "wishes, being irritable, denigrating others, being "
+            "devious or deceitful, ignoring the teachings, avoiding "
+            "retreat, and being inhospitable all block a mendicant's "
+            "companions from honoring them &mdash; and the ten exact "
+            "opposites earn that honor, wished for or not."]),
+        ("Who this discourse concerns, and a translation puzzle", [
+            "The English translation states this discourse concerns "
+            "&ldquo;the mendicant Kalandaka,&rdquo; but the "
+            "underlying Pāli phrase, <em>kālaṅkataṁ bhikkhuṁ</em>, "
+            "literally means simply &ldquo;a mendicant who had "
+            "died&rdquo; &mdash; the same word used generically "
+            "elsewhere in this canon for &ldquo;deceased.&rdquo; "
+            "Whether &ldquo;Kalandaka&rdquo; names a specific "
+            "individual or the phrase is being read as an ordinary "
+            "adjective is left genuinely uncertain here, and this "
+            "guide does not resolve it either way."]),
+        ("Respect as observed, not granted", [
+            "The discourse's central claim is almost sociological: "
+            "companions do not arbitrarily decide to withhold or "
+            "grant honor; they simply notice, correctly, whether the "
+            "ten bad qualities have actually been given up, and "
+            "respond accordingly &mdash; wishing for respect changes "
+            "nothing if the underlying qualities remain unaddressed."]),
+        ("A wild colt and a thoroughbred, precisely matched", [
+            "The discourse's two similes mirror the two halves of "
+            "its own teaching exactly: a wild, untrained colt wishing "
+            "for a thoroughbred's treatment receives none, because "
+            "sensible people see it hasn't given up its "
+            "&ldquo;tricks, bluffs, ruses, and feints&rdquo;; a "
+            "genuine thoroughbred, needing to wish for nothing, "
+            "receives that same treatment simply because those "
+            "qualities were never there to begin with."]),
+    ],
+    terms=[
+        ("kālaṅkataṁ bhikkhuṁ",
+         "&ldquo;a mendicant who had died&rdquo; &mdash; the literal "
+         "Pāli phrase this discourse opens with, rendered as a "
+         "proper name, &ldquo;Kalandaka,&rdquo; in the English "
+         "translation used here."),
+        ("adhikaraṇakārako",
+         "&ldquo;one who raises disciplinary issues&rdquo; &mdash; "
+         "the first of the ten qualities blocking a companion's "
+         "respect."),
+        ("appasādanā",
+         "&ldquo;doesn't conduce to fondness, respect, esteem, "
+         "harmony, and unity&rdquo; &mdash; the consequence stated "
+         "after each of the first ten qualities."),
+        ("vāḷavako",
+         "&ldquo;a wild colt&rdquo; &mdash; the simile for a "
+         "mendicant who wishes for respect without having given up "
+         "the qualities that would earn it."),
+        ("assājānīyo",
+         "&ldquo;a fine thoroughbred&rdquo; &mdash; the mirrored "
+         "simile for a mendicant who earns respect without needing to "
+         "wish for it at all."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten blocking qualities, the "
+        "wild colt simile, then the ten earning qualities and the "
+        "thoroughbred simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten qualities that block respect"),
+        ("p", "&sect;1", "an10.87:1.1-11.2"),
+        ("h3", "A wild colt's futile wish"),
+        ("p", "&sect;2", "an10.87:12.1-13.8"),
+        ("h3", "Ten qualities that earn respect"),
+        ("p", "&sect;3", "an10.87:14.1-23.2"),
+        ("h3", "A thoroughbred's needless wish"),
+        ("p", "&sect;4", "an10.87:24.1-26.4"),
+    ],
+    quiz=[
+        {"q": "According to the guide, what puzzle surrounds who this "
+              "discourse concerns?",
+         "opts": [
+             "There is no puzzle; the subject is entirely clear",
+             "The English translation names a mendicant \"Kalandaka,\" "
+             "but the underlying Pāli literally just means \"a "
+             "mendicant who had died\"",
+             "The discourse names the Buddha himself",
+             "The subject is a laywoman, not a mendicant"],
+         "correct": 1,
+         "expl": "A genuine, unresolved translation question the "
+                 "guide notes honestly."},
+        {"q": "What does this discourse claim determines whether "
+              "companions honor a mendicant?",
+         "opts": [
+             "Arbitrary favoritism",
+             "Whether the ten bad qualities have actually been given "
+             "up, which sensible companions simply observe and "
+             "respond to",
+             "Seniority alone",
+             "Physical appearance"],
+         "correct": 1,
+         "expl": "Respect described as observed rather than granted "
+                 "or withheld arbitrarily."},
+        {"q": "What happens to the wild colt who wishes for a "
+              "thoroughbred's treatment?",
+         "opts": [
+             "It receives that treatment immediately",
+             "It receives none of it, because sensible people see it "
+             "hasn't given up its tricks, bluffs, ruses, and feints",
+             "It is punished",
+             "The simile doesn't specify"],
+         "correct": 1,
+         "expl": "Wishing for respect changes nothing if the "
+                 "underlying qualities remain."},
+        {"q": "What happens to the genuine thoroughbred, according to "
+              "the mirrored simile?",
+         "opts": [
+             "It also receives nothing",
+             "It receives full treatment without even needing to "
+             "wish for it, because the qualities were never lacking",
+             "It must still ask repeatedly",
+             "It is treated the same as the wild colt"],
+         "correct": 1,
+         "expl": "The exact positive mirror of the wild colt's futile "
+                 "wish."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A name, or just \"deceased\"?", [
+            "kālaṅkata &mdash; the",
+            "Pāli word for someone dead,",
+            "or a monk's own name?",
+        ]),
+        ("Respect, simply observed", [
+            "not granted by whim,",
+            "but seen &mdash; sensible people",
+            "notice what's given up",
+        ]),
+        ("Two horses, one lesson", [
+            "wild colt begs in vain;",
+            "true thoroughbred, asking nothing,",
+            "is honored regardless",
+        ]),
+        ("Cross-references", [
+            "AN 10.86 &middot; previous, Overestimation",
+            "AN 10.88 &middot; next, An Abuser",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.87/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.86.html">AN 10.86 &middot; Overestimation</a> &mdash; previous.',
+        '<a href="an-10.88.html">AN 10.88 &middot; An Abuser</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.88 — Akkosakasutta
+# --------------------------------------------------------------------------- #
+page(
+    88, "Akkosaka", "An Abuser",
+    vagga=VAGGA_9,
+    meta_title="AN 10.88 — An Abuser | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akkosakasutta, a short, escalating list of ten "
+        "guaranteed disasters awaiting anyone who abuses their "
+        "spiritual companions and denounces the noble ones. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single flat list of ten guaranteed consequences"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief but severe in content"),
+    ],
+    why=(
+        "In a discourse just two sentences long around its central "
+        "list, the Buddha states without qualification that abusing "
+        "one's spiritual companions and denouncing the noble ones "
+        "leads, without a doubt, to one of ten specific disasters "
+        "&mdash; setting up the very warning the next discourse's "
+        "narrative will play out in full."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Any mendicant who abuses and insults their spiritual "
+            "companions, denouncing the noble ones, will without "
+            "doubt fall into one of ten disasters: failing to "
+            "achieve the unachieved, losing what was achieved, "
+            "failing to refine good qualities, overestimating them, "
+            "spiritual dissatisfaction, a corrupt offense, severe "
+            "illness, madness, confusion at death, or rebirth in "
+            "hell."]),
+        ("An escalating list, ending in the worst outcome", [
+            "The ten disasters are not randomly ordered: they move "
+            "from failures of practice (not achieving, losing what "
+            "was achieved) through personal breakdown (illness, "
+            "madness) to the single most severe consequence named "
+            "anywhere in this project &mdash; rebirth in hell "
+            "&mdash; closing on the worst possible outcome rather "
+            "than a milder one."]),
+        ("Without doubt, not merely likely", [
+            "The discourse's opening phrase &mdash; &ldquo;without a "
+            "doubt&rdquo; &mdash; states these consequences as "
+            "certain rather than probable, the same unqualified "
+            "register met in AN 10.82's &ldquo;quite impossible,&rdquo; "
+            "applied here to a guaranteed negative outcome rather "
+            "than a guaranteed positive one."]),
+        ("A warning that sets up the next discourse", [
+            "Read together with AN 10.89 immediately following it, "
+            "this discourse functions almost as a thesis statement "
+            "for what comes next: this bare, general warning about "
+            "abusing companions and denouncing the noble ones is "
+            "about to be dramatized in vivid, specific narrative "
+            "detail."]),
+    ],
+    terms=[
+        ("akkosati paribhāsati",
+         "&ldquo;abuses and insults&rdquo; &mdash; the act this "
+         "discourse's title names and condemns."),
+        ("ariyūpavādako",
+         "&ldquo;denouncing the noble ones&rdquo; &mdash; the "
+         "specific, aggravating target of the abuse, distinct from "
+         "ordinary insult."),
+        ("aṭṭhānametaṁ anavakāso",
+         "&ldquo;without a doubt&rdquo; &mdash; literally "
+         "&ldquo;there is no such possibility [of avoiding it]&rdquo; "
+         "&mdash; the same register of certainty met in AN 10.82's "
+         "&ldquo;quite impossible.&rdquo;"),
+        ("apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati",
+         "&ldquo;reborn in a place of loss, a bad place, the "
+         "underworld, hell&rdquo; &mdash; the tenth and final "
+         "disaster, closing the list on its most severe outcome."),
+        ("ummādaṁ vā pāpuṇāti cittakkhepaṁ",
+         "&ldquo;go mad and lose their mind&rdquo; &mdash; one of the "
+         "middle disasters, immediately preceding confusion at "
+         "death."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten guaranteed disasters. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten disasters, without a doubt"),
+        ("p", "&sect;1", "an10.88:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What act does this discourse condemn?",
+         "opts": [
+             "Failing to attend the sabbath",
+             "Abusing and insulting one's spiritual companions, "
+             "denouncing the noble ones",
+             "Eating after noon",
+             "Traveling alone"],
+         "correct": 1,
+         "expl": "The specific, named offense this discourse's title "
+                 "and consequences concern."},
+        {"q": "How are the ten disasters ordered, according to the "
+              "guide?",
+         "opts": [
+             "Randomly, with no particular order",
+             "Escalating from failures of practice through personal "
+             "breakdown to the single most severe outcome, rebirth "
+             "in hell",
+             "From most to least severe",
+             "Alphabetically"],
+         "correct": 1,
+         "expl": "A deliberate progression ending on the worst "
+                 "possible consequence."},
+        {"q": "How certain does the discourse describe these "
+              "consequences as being?",
+         "opts": [
+             "Merely likely",
+             "Certain, \"without a doubt\" &mdash; the same "
+             "unqualified register as AN 10.82's \"quite impossible\"",
+             "Only a remote possibility",
+             "Avoidable through apology"],
+         "correct": 1,
+         "expl": "Guaranteed consequence, not probabilistic warning."},
+        {"q": "According to the guide, how does this discourse "
+              "function in relation to AN 10.89?",
+         "opts": [
+             "It has no relation to it",
+             "It serves almost as a thesis statement, with AN 10.89 "
+             "dramatizing this same warning in vivid narrative detail",
+             "It contradicts AN 10.89",
+             "It repeats AN 10.89 word for word"],
+         "correct": 1,
+         "expl": "A bare general warning immediately followed by its "
+                 "narrative enactment."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief discourse."},
+    ],
+    marginalia=[
+        ("Ten disasters, guaranteed", [
+            "no doubt, the text says &mdash;",
+            "not likely, not probable,",
+            "simply certain now",
+        ]),
+        ("Worst outcome, saved for last", [
+            "illness, madness, then",
+            "the single gravest ending:",
+            "rebirth into hell",
+        ]),
+        ("A warning about to be shown", [
+            "bare words here &mdash; but next,",
+            "a single mendicant's own",
+            "story makes it real",
+        ]),
+        ("Cross-references", [
+            "AN 10.87 &middot; previous, Disciplinary Issues",
+            "AN 10.89 &middot; next, with Kokālika, dramatizing this "
+            "same warning in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.88/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.87.html">AN 10.87 &middot; Disciplinary Issues</a> &mdash; previous.',
+        '<a href="an-10.89.html">AN 10.89 &middot; With Kokālika</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.89 — Kokālikasutta
+# --------------------------------------------------------------------------- #
+page(
+    89, "Kokālika", "With Kokālika",
+    vagga=VAGGA_9,
+    meta_title="AN 10.89 — With Kokālika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kokālikasutta, one of this canon's most dramatic "
+        "narratives: a slander of Sāriputta and Moggallāna, a "
+        "visitation from a returning divinity, boils, hell, and an "
+        "astronomical simile for hell's own duration. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The mendicant Kokālika, the Buddha, the "
+                     "divinity Tudu, and later the divinity "
+                     "Sahampati"),
+        ("Form", "A three-part narrative: refused slander, "
+                 "supernatural affliction, and a nested astronomical "
+                 "simile for hell's duration"),
+        ("Length", "~4 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "vivid, disturbing, and structurally intricate"),
+    ],
+    why=(
+        "Immediately dramatizing AN 10.88's bare warning, this "
+        "discourse follows the mendicant Kokālika from a "
+        "three-times-refused slander of Sāriputta and Moggallāna "
+        "through a grotesque physical affliction to rebirth in one of "
+        "the most severe hells named anywhere in this canon &mdash; "
+        "measured by a simile of almost incomprehensible scale."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Kokālika slanders Sāriputta and Moggallāna to the Buddha "
+            "three times, is refused and corrected three times, and "
+            "leaves anyway; his body erupts in boils that grow "
+            "through eight successive stages until he dies, reborn in "
+            "the Pink Lotus hell for his resentment toward two noble "
+            "disciples &mdash; a hell whose duration a later simile "
+            "measures as almost unimaginably long."]),
+        ("Three refusals, ignored anyway", [
+            "The Buddha does not simply disagree with Kokālika once: "
+            "he refuses the slander in identical words three separate "
+            "times &mdash; &ldquo;Don't say that, Kokālika! Have "
+            "confidence in Sāriputta and Moggallāna, they're good "
+            "monks&rdquo; &mdash; and Kokālika persists through all "
+            "three, departing unconvinced rather than accepting "
+            "correction even once."]),
+        ("A returning non-returner, and a wasted final warning", [
+            "Before Kokālika's fate is sealed, the divinity Tudu "
+            "&mdash; identified as a non-returner the Buddha had "
+            "already declared attained &mdash; appears specifically "
+            "to warn him, prompting Kokālika's own startled question, "
+            "&ldquo;Didn't the Buddha declare you a non-returner? So "
+            "what then are you doing back here?&rdquo; Even this "
+            "extraordinary intervention, from someone who had "
+            "seemingly moved beyond ordinary rebirth, changes "
+            "nothing."]),
+        ("A ten-hell chain measuring the unmeasurable", [
+            "When a mendicant later asks how long a lifespan in the "
+            "Pink Lotus hell actually is, the Buddha answers not with "
+            "a number but with a nested nine-step chain of ever "
+            "larger units: a Kosalan cartload of twenty packs of "
+            "sesame seed, depleted one seed every century, exhausts "
+            "faster than a single lifetime in the mildest of ten named "
+            "hells &mdash; and each hell's lifespan equals twenty full "
+            "lifetimes in the hell below it, all the way up to the "
+            "Pink Lotus hell itself, ten levels above the sesame "
+            "seed's own already vast timescale."]),
+    ],
+    terms=[
+        ("mā hevaṁ, kokālika",
+         "&ldquo;don't say that, Kokālika!&rdquo; &mdash; the "
+         "Buddha's identical refusal, repeated three times without "
+         "variation as Kokālika repeats his slander."),
+        ("pasādehi, kokālika, sāriputtamoggallānesu cittaṁ",
+         "&ldquo;have confidence in Sāriputta and Moggallāna&rdquo; "
+         "&mdash; the second half of the Buddha's refrain, repeated "
+         "alongside the refusal each time."),
+        ("Tudu",
+         "the independent divinity, previously declared a "
+         "non-returner, who makes a final, ultimately futile attempt "
+         "to warn Kokālika."),
+        ("padumaṁ nirayaṁ",
+         "the &ldquo;Pink Lotus hell,&rdquo; the specific destination "
+         "named for Kokālika's rebirth, and the most severe of the "
+         "ten named hells in the closing simile's chain."),
+        ("purisassa hi jātassa, kuṭhārī jāyate mukhe",
+         "&ldquo;a person is born with an axe in their mouth&rdquo; "
+         "&mdash; the opening line of the verse warning against "
+         "speech that wounds its speaker."),
+    ],
+    text_intro=(
+        "The discourse in full: Kokālika's threefold slander and "
+        "refusal, his affliction and death, Tudu's warning and verse, "
+        "and the Buddha's own closing account with its astronomical "
+        "hell-duration simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A threefold slander, threefold refused"),
+        ("p", "&sect;1", "an10.89:1.1-4.1"),
+        ("h3", "Boils, and Tudu's warning"),
+        ("p", "&sect;2", "an10.89:4.2-9.5"),
+        ("h3", "Death, rebirth, and the news reaches the Buddha"),
+        ("p", "&sect;3", "an10.89:10.1-13.1"),
+        ("h3", "How long is a lifetime in hell?"),
+        ("p", "&sect;4", "an10.89:14.1-19.4"),
+    ],
+    quiz=[
+        {"q": "What does Kokālika say to the Buddha, and how many "
+              "times?",
+         "opts": [
+             "He praises Sāriputta and Moggallāna once",
+             "He slanders Sāriputta and Moggallāna as having corrupt "
+             "wishes, three separate times, refused each time",
+             "He asks a doctrinal question once",
+             "He requests ordination"],
+         "correct": 1,
+         "expl": "A threefold repetition met with an identical, "
+                 "unchanging refusal each time."},
+        {"q": "Who is Tudu, and what is unusual about his "
+              "appearance?",
+         "opts": [
+             "An ordinary layperson",
+             "An independent divinity previously declared a "
+             "non-returner by the Buddha, whose warning to Kokālika "
+             "ultimately changes nothing",
+             "A rival ascetic teacher",
+             "Another slandering mendicant"],
+         "correct": 1,
+         "expl": "Even an extraordinary intervention proves unable to "
+                 "avert Kokālika's fate."},
+        {"q": "What happens to Kokālika's body after he leaves the "
+              "Buddha?",
+         "opts": [
+             "Nothing; he lives a long life",
+             "It erupts in boils that grow through eight successive "
+             "stages, eventually bursting, before he dies",
+             "He becomes ill but recovers fully",
+             "He is physically attacked"],
+         "correct": 1,
+         "expl": "A graphic, escalating physical affliction leading "
+                 "to death."},
+        {"q": "How does the Buddha answer the question of how long a "
+              "lifetime in the Pink Lotus hell lasts?",
+         "opts": [
+             "With a simple number of years",
+             "With a nested nine-step chain of hells, each twenty "
+             "times the lifespan of the one below it, starting from "
+             "an already vast sesame-seed depletion simile",
+             "He declines to answer",
+             "With a single short sentence"],
+         "correct": 1,
+         "expl": "A deliberately near-incomprehensible scale, built "
+                 "step by step."},
+        {"q": "Why is Kokālika reborn in hell, according to this "
+              "discourse?",
+         "opts": [
+             "For breaking a minor precept",
+             "Because of his resentment toward Sāriputta and "
+             "Moggallāna, two noble disciples",
+             "For eating the wrong food",
+             "For failing to meditate enough"],
+         "correct": 1,
+         "expl": "The specific consequence of denouncing the noble "
+                 "ones, dramatizing AN 10.88's warning."},
+    ],
+    marginalia=[
+        ("Refused, and refused again", [
+            "\"don't say that\" &mdash; three",
+            "times the same refusal given,",
+            "three times ignored still",
+        ]),
+        ("A non-returner, returning", [
+            "Tudu comes to warn &mdash;",
+            "even someone freed already",
+            "cannot save this one",
+        ]),
+        ("Boils, seed by seed", [
+            "mustard seed to bean,",
+            "to jujube, to burst wound &mdash;",
+            "growth measured in pain",
+        ]),
+        ("Cross-references", [
+            "AN 10.88 &middot; An Abuser, the bare warning this "
+            "discourse dramatizes in full narrative detail",
+            "AN 10.90 &middot; next, closing this chapter with the "
+            "powers of one who has ended defilements",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.89/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.88.html">AN 10.88 &middot; An Abuser</a> &mdash; previous, the '
+        "warning this discourse dramatizes.",
+        '<a href="an-10.90.html">AN 10.90 &middot; The Powers of One Who has Ended '
+        'Defilements</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.90 — Khīṇāsavabalasutta
+# --------------------------------------------------------------------------- #
+page(
+    90, "Khīṇāsavabala", "The Powers of One Who has Ended Defilements",
+    vagga=VAGGA_9,
+    meta_title="AN 10.90 — The Powers of One Who has Ended Defilements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khīṇāsavabalasutta, closing the Theravagga with "
+        "Sāriputta's ten powers an arahant relies on to know their "
+        "defilements have ended, spanning insight and the seven sets "
+        "of the path. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Sāriputta, answering the Buddha's "
+                     "own question"),
+        ("Form", "A single question, a ten-item list of powers"),
+        ("Length", "~2 minutes to read"),
+        ("Closing this chapter", "This discourse closes "
+                                 "<em>Theravagga</em>, the ninth "
+                                 "chapter, with its own untranslated "
+                                 "colophon and uddāna verse naming "
+                                 "all ten discourses"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "dense technical content, clearly organized"),
+    ],
+    why=(
+        "After a chapter spent examining false and mistaken claims to "
+        "attainment, the Buddha turns to Sāriputta with the reverse "
+        "question: what actually qualifies someone to make that claim "
+        "correctly? Sāriputta's answer is a precise, tenfold "
+        "inventory of powers."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who has ended the defilements relies on ten "
+            "powers to make that claim: clearly seeing all conditions "
+            "as impermanent and sensual pleasures as a pit of coals, "
+            "a mind inclined to seclusion, and having well developed "
+            "the four kinds of mindfulness meditation, the four right "
+            "efforts, the four bases of psychic power, the five "
+            "faculties, the five powers, the seven awakening factors, "
+            "and the noble eightfold path."]),
+        ("A deliberate answer to the chapter's own question", [
+            "Coming immediately after three discourses (AN "
+            "10.84&ndash;86) devoted entirely to exposing false and "
+            "mistaken claims of enlightenment, this discourse reads "
+            "as the chapter's own positive answer: not what "
+            "unmasks a false claim, but what actually grounds a true "
+            "one, asked directly by the Buddha and answered by "
+            "Sāriputta."]),
+        ("Insight and the seven sets, joined in one inventory", [
+            "The ten powers combine two distinct registers: the "
+            "first three are specific insights (impermanence of "
+            "conditions, the danger in sensual pleasure, an "
+            "inclination to seclusion), while the remaining seven are "
+            "the classical &ldquo;seven sets&rdquo; of qualities "
+            "leading to awakening &mdash; the four mindfulness "
+            "meditations, four right efforts, four bases of psychic "
+            "power, five faculties, five powers, seven awakening "
+            "factors, and the noble eightfold path &mdash; named here "
+            "together as a single complete inventory rather than "
+            "seven separate teachings."]),
+        ("Closing the chapter of senior disciples with its most "
+         "senior voice", [
+            "It is fitting that <em>Theravagga</em>, a chapter "
+            "populated throughout by senior disciples testing and "
+            "diagnosing each other's claims, closes with Sāriputta "
+            "&mdash; traditionally foremost in wisdom among the "
+            "Buddha's disciples &mdash; answering the Buddha's own "
+            "direct question about what genuine attainment actually "
+            "rests on."]),
+    ],
+    terms=[
+        ("khīṇāsava",
+         "&ldquo;one who has ended the defilements&rdquo; &mdash; "
+         "this discourse's own subject, the qualified claimant this "
+         "chapter's earlier discourses examined by contrast."),
+        ("aniccato sabbe saṅkhārā yathābhūtaṁ sammappaññāya sudiṭṭhā",
+         "&ldquo;clearly seen with right wisdom all conditions as "
+         "truly impermanent&rdquo; &mdash; the first of the ten "
+         "powers."),
+        ("aṅgārakāsūpamā kāmā",
+         "&ldquo;sensual pleasures are truly like a pit of glowing "
+         "coals&rdquo; &mdash; the second power, a vivid image for "
+         "seeing danger in sensual pleasure."),
+        ("cattāro satipaṭṭhānā, cattāro sammappadhānā",
+         "&ldquo;the four kinds of mindfulness meditation, the four "
+         "right efforts&rdquo; &mdash; the first two of the seven "
+         "sets making up the bulk of the remaining powers."),
+        ("ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; the tenth "
+         "and final power, closing both this discourse and the "
+         "classical list of seven sets it draws on."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's question, and "
+        "Sāriputta's ten-item answer. The chapter's own colophon and "
+        "uddāna verse, in Pāli only, are described but not "
+        "reproduced. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha's question"),
+        ("p", "&sect;1", "an10.90:1.1-1.3"),
+        ("h3", "Ten powers"),
+        ("p", "&sect;2", "an10.90:2.1-6.8"),
+        ("h3", "Closing"),
+        ("p", "&sect;3", "an10.90:7.1-7.2"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha ask Sāriputta?",
+         "opts": [
+             "How many precepts a novice should keep",
+             "How many powers qualify a mendicant who has ended the "
+             "defilements to claim it",
+             "How to settle a monastic dispute",
+             "What causes rebirth"],
+         "correct": 1,
+         "expl": "A direct question about the true grounds of a "
+                 "genuine claim to attainment."},
+        {"q": "According to the guide, how does this discourse relate "
+              "to AN 10.84&ndash;86?",
+         "opts": [
+             "It is unrelated to them",
+             "It functions as the chapter's positive answer, naming "
+             "what actually grounds a true claim after three "
+             "discourses exposing false and mistaken ones",
+             "It contradicts those three discourses",
+             "It repeats their content exactly"],
+         "correct": 1,
+         "expl": "The reverse question, asked directly and answered "
+                 "by Sāriputta."},
+        {"q": "What two registers do the ten powers combine, "
+              "according to the guide?",
+         "opts": [
+             "Only insight, with nothing else",
+             "Three specific insights and the classical \"seven "
+             "sets\" of qualities leading to awakening",
+             "Only monastic rules",
+             "Only meditation postures"],
+         "correct": 1,
+         "expl": "Impermanence, sensual danger, and seclusion, "
+                 "joined with the seven sets from mindfulness to the "
+                 "eightfold path."},
+        {"q": "Who speaks the answer in this discourse?",
+         "opts": [
+             "The Buddha himself",
+             "Venerable Sāriputta",
+             "Venerable Mahākassapa",
+             "Venerable Ānanda"],
+         "correct": 1,
+         "expl": "Traditionally foremost in wisdom among the "
+                 "Buddha's disciples, closing a chapter of senior "
+                 "disciples."},
+        {"q": "What does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "Theravagga, the ninth chapter, with its own colophon "
+             "and uddāna verse naming all ten discourses",
+             "The entire Second Fifty",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "A fitting close to a chapter built around senior "
+                 "disciples."},
+    ],
+    marginalia=[
+        ("The reverse question, at last", [
+            "not what unmasks a",
+            "false claim, but what actually",
+            "grounds a true one",
+        ]),
+        ("Insight, then the seven sets", [
+            "impermanence seen,",
+            "sensual pleasure as coals &mdash;",
+            "then the whole path, named",
+        ]),
+        ("The chapter's wisest voice", [
+            "senior disciples",
+            "tested claims all chapter long &mdash;",
+            "Sāriputta closes it",
+        ]),
+        ("Cross-references", [
+            "AN 10.89 &middot; previous, With Kokālika",
+            "AN 10.84 &middot; Declaration, the first of three "
+            "investigations this discourse's positive answer "
+            "completes",
+            "AN 10.81 &middot; With Bāhuna, opening this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.90/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.89.html">AN 10.89 &middot; With Kokālika</a> &mdash; previous.',
+        '<a href="an-10.81.html">AN 10.81 &middot; With Bāhuna</a> &mdash; opening this '
+        "chapter.",
+    ],
+)
