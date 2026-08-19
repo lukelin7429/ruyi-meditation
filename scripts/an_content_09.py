@@ -5833,3 +5833,2075 @@ page(
         '<a href="an-9.30.html">AN 9.30 &middot; Getting Rid of Resentment</a> &mdash; previous.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.4 — Mahāvagga (AN 9.32-41). Nearly every discourse in this chapter turns
+# on the same nine progressive meditative attainments (anupubbavihāra) --
+# the four absorptions, the four formless dimensions, and the cessation of
+# perception and feeling -- already met piecemeal at AN 9.24 (as abodes) and
+# AN 9.31 (as cessations). Each page's guide names its own distinctive angle
+# rather than re-describing the shared nine-fold scaffold from scratch.
+# --------------------------------------------------------------------------- #
+VAGGA_4 = "<em>Mahāvagga</em> &mdash; the fourth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.32 — Anupubbavihārasutta — this chapter's foundational catalogue
+# --------------------------------------------------------------------------- #
+page(
+    32, "Anupubbavihāra", "Progressive Meditations",
+    vagga=VAGGA_4,
+    meta_title="AN 9.32 — Progressive Meditations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anupubbavihārasutta, opening this meditation-heavy chapter with "
+        "the bare list of nine progressive attainments that nearly every "
+        "other discourse here builds on. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list, no narrative and no similes"),
+        ("Length", "~30 seconds to read"),
+        ("This chapter's real foundation", "Nearly every other discourse "
+         "in this chapter builds on this exact nine-item list — the same "
+         "content already met as &ldquo;cessations&rdquo; at AN 9.31"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "but essential scaffolding for the rest of this "
+                       "chapter"),
+    ],
+    why=(
+        "Nine progressive meditations are named in sequence: the four "
+        "absorptions, the four formless dimensions, and the cessation of "
+        "perception and feeling &mdash; the same nine attainments that, "
+        "under different framings, structure nearly every other "
+        "discourse in this chapter."),
+    guide=[
+        ("The teaching in one sentence", [
+            "There are nine progressive meditations: the first, second, "
+            "third, and fourth absorptions; the dimensions of infinite "
+            "space, infinite consciousness, and nothingness; the "
+            "dimension of neither perception nor non-perception; and the "
+            "cessation of perception and feeling."]),
+        ("A bare list, positively framed", [
+            "Where AN 9.31 named this same nine-item sequence by what "
+            "ceases at each stage, this discourse names the identical "
+            "sequence positively, simply as meditations to be attained "
+            "&mdash; the same content, its third framing in this nipāta "
+            "after AN 9.24's abodes and AN 9.31's cessations."]),
+        ("The scaffold for this entire chapter", [
+            "Unlike most bare lists in this collection, this one is not "
+            "an isolated teaching but this chapter's structural spine: "
+            "AN 9.33 through AN 9.41 each return to this same nine-stage "
+            "sequence, applying it to bliss, to skillful use as an "
+            "insight-basis, to cosmology, to a mythic battle, to a "
+            "wild elephant's solitude, and to the Buddha's own "
+            "autobiography."]),
+        ("Why the order matters", [
+            "The sequence's progression &mdash; each dimension going "
+            "&lsquo;totally beyond&rsquo; the one before it &mdash; is "
+            "not incidental. Several of this chapter's later discourses "
+            "make the ordering itself the whole point, whether through a "
+            "gradualist simile of a cow that doesn't rush ahead, or "
+            "through the Buddha's own insistence that only mastering all "
+            "nine in both forward and reverse order preceded his "
+            "awakening."]),
+    ],
+    terms=[
+        ("anupubbavihārā",
+         "&ldquo;progressive meditations&rdquo; &mdash; this "
+         "discourse's own title term and the shared name for the nine-"
+         "stage sequence structuring this entire chapter."),
+        ("paṭhamaṁ jhānaṁ",
+         "&ldquo;the first absorption&rdquo; &mdash; the sequence's "
+         "opening stage."),
+        ("ākāsānañcāyatanaṁ",
+         "&ldquo;the dimension of infinite space&rdquo; &mdash; the "
+         "fifth stage, the first of the four formless dimensions."),
+        ("nevasaññānāsaññāyatanaṁ",
+         "&ldquo;the dimension of neither perception nor non-"
+         "perception&rdquo; &mdash; the eighth stage, the most subtle "
+         "attainment with perception."),
+        ("saññāvedayitanirodho",
+         "&ldquo;the cessation of perception and feeling&rdquo; &mdash; "
+         "the ninth and final stage, closing the sequence."),
+    ],
+    text_intro=(
+        "The discourse in full: nine progressive meditations, named in "
+        "sequence. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine progressive meditations"),
+        ("p", "&sect;1", "an9.32:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What nine progressive meditations does this discourse "
+              "name?",
+         "opts": [
+             "Nine kinds of loving-kindness practice",
+             "The four absorptions, the four formless dimensions, and "
+             "the cessation of perception and feeling",
+             "The nine perceptions met at AN 9.16",
+             "Nine monastic disciplinary rules"],
+         "correct": 1,
+         "expl": "The same nine-stage sequence structuring nearly this "
+                 "whole chapter."},
+        {"q": "How does this discourse's framing compare to AN 9.31's?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical nine-item sequence, named here positively as "
+             "meditations rather than by what ceases at each stage",
+             "A shorter version with only five items",
+             "A contradiction of AN 9.31's list"],
+         "correct": 1,
+         "expl": "The same nine attainments, a third framing after AN "
+                 "9.24's abodes and AN 9.31's cessations."},
+        {"q": "According to the guide, what role does this discourse "
+              "play in the chapter?",
+         "opts": [
+             "An isolated teaching with no connection to what follows",
+             "This chapter's structural spine, returned to by nearly "
+             "every discourse that follows",
+             "A closing summary of the whole chapter",
+             "A teaching unrelated to meditation"],
+         "correct": 1,
+         "expl": "AN 9.33 through AN 9.41 each build on this same "
+                 "sequence."},
+        {"q": "What comes immediately after the four absorptions in this "
+              "sequence?",
+         "opts": [
+             "The cessation of perception and feeling directly",
+             "The four formless dimensions, beginning with infinite "
+             "space",
+             "A return to the first absorption",
+             "The nine perceptions"],
+         "correct": 1,
+         "expl": "A clean progression from form-based to formless "
+                 "attainments."},
+        {"q": "Why does the guide say the sequence's order matters?",
+         "opts": [
+             "It doesn't matter; the nine items could occur in any order",
+             "Several later discourses make the ordering itself central "
+             "— including the Buddha's insistence on mastering all nine "
+             "forward and reverse before his awakening",
+             "The order is only relevant to monastics",
+             "The order was added by a later editor"],
+         "correct": 1,
+         "expl": "A theme this chapter returns to explicitly at its "
+                 "close, AN 9.41."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare foundational catalogue, opening this chapter."},
+    ],
+    marginalia=[
+        ("Nine stages, named", [
+            "four absorptions,",
+            "four formless dimensions,",
+            "then cessation itself",
+        ]),
+        ("A third framing", [
+            "abodes, then cessations,",
+            "now meditations &mdash;",
+            "the same nine attainments",
+        ]),
+        ("This chapter's spine", [
+            "nearly every discourse",
+            "ahead returns to this list &mdash;",
+            "bliss, insight, myth, self",
+        ]),
+        ("Cross-references", [
+            "AN 9.24, AN 9.31 &middot; the same nine attainments under "
+            "two earlier framings",
+            "AN 9.31 &middot; previous chapter's closing page",
+            "AN 9.33 &middot; next, the same nine elaborated in full",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.32/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.31.html">AN 9.31 &middot; Progressive Cessations</a> &mdash; previous.',
+        '<a href="an-9.33.html">AN 9.33 &middot; The Nine Progressive Meditative '
+        "Attainments</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.33 — Anupubbanirodhasutta (Nava-anupubbavihārasamāpattisutta) — the
+# nine attainments from AN 9.32, elaborated in full with a teaching dialogue.
+# --------------------------------------------------------------------------- #
+page(
+    33, "Anupubbavihārasamāpatti", "The Nine Progressive Meditative Attainments",
+    vagga=VAGGA_4,
+    meta_title=("AN 9.33 — The Nine Progressive Meditative Attainments | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "elaborated companion to AN 9.32 — the same nine attainments, "
+        "each unpacked with a full jhāna formula and a shared refrain "
+        "about a non-deceitful listener's approval. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same nine-item sequence as AN 9.32, each stage "
+                 "unpacked with a full formula and a shared closing "
+                 "refrain"),
+        ("Length", "~5 minutes to read"),
+        ("AN 9.32, expanded rather than repeated", "Where AN 9.32 named "
+         "the nine attainments in a single bare line each, this "
+         "discourse gives each one a full teaching formula and an "
+         "identical closing refrain"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "highly repetitive by design, worth reading for "
+                       "its refrain's own logic"),
+    ],
+    why=(
+        "For each of the nine progressive attainments in turn, this "
+        "discourse names exactly where a specific quality ceases, gives "
+        "the full formula for reaching that point, and closes with the "
+        "claim that anyone not devious or deceitful would recognize and "
+        "approve of the answer, bowing with cupped palms."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For each of the nine progressive attainments, a specific "
+            "quality is said to cease there &mdash; sensual pleasures at "
+            "the first absorption, the placing of the mind at the "
+            "second, and so on through to the dimension of neither "
+            "perception nor non-perception &mdash; and anyone honest "
+            "would recognize and approve of this when the full formula "
+            "for reaching it is explained."]),
+        ("The same nine stages, now with full formulas", [
+            "This discourse takes AN 9.32's bare nine-item list and "
+            "gives each stage what that earlier discourse left out: the "
+            "complete jhāna or formless-attainment formula, spelled out "
+            "in full rather than merely named."]),
+        ("A refrain testing honesty, not just doctrine", [
+            "Every one of the nine stages closes with the identical "
+            "claim: someone who is not devious or deceitful would "
+            "approve and agree with the explanation, saying "
+            "&lsquo;good!&rsquo; and paying homage with cupped palms. "
+            "The refrain frames disagreement not as an intellectual "
+            "difference of opinion but as a mark of deviousness &mdash; "
+            "a rhetorically pointed move repeated nine times running."]),
+        ("All nine stages fully unpacked, including the last", [
+            "Unlike a flat list, each formula here names where the "
+            "*previous* stage's perception ceases as the doorway into "
+            "the next: the ninth and final formula names where the "
+            "perception of neither perception nor non-perception ceases "
+            "&mdash; namely, on entering the cessation of perception and "
+            "feeling itself. Every one of the nine attainments, "
+            "including this final and most subtle one, receives its own "
+            "complete formula and refrain."]),
+    ],
+    terms=[
+        ("nava anupubbavihārasamāpattiyo",
+         "&ldquo;the nine progressive meditative attainments&rdquo; "
+         "&mdash; this discourse's own fuller title for the same "
+         "sequence named at AN 9.32."),
+        ("kāmā nirujjhanti",
+         "&ldquo;where sensual pleasures cease&rdquo; &mdash; the "
+         "opening claim for the first absorption, unpacked with its "
+         "full formula."),
+        ("amāyāvī akuhako",
+         "&ldquo;not devious or deceitful&rdquo; &mdash; the discourse's "
+         "own description of someone who would recognize and approve of "
+         "each formula, repeated as its shared refrain."),
+        ("sādhūti bhāsissati, añjaliṁ paggahetvā namassissati",
+         "&ldquo;they'd say &lsquo;good!&rsquo; and bowing down, they'd "
+         "pay homage with cupped palms&rdquo; &mdash; the physical "
+         "gesture closing the shared refrain nine times."),
+        ("nevasaññānāsaññāyatanasaññā nirujjhanti",
+         "&ldquo;where the perception of the dimension of neither "
+         "perception nor non-perception ceases&rdquo; &mdash; the "
+         "ninth and final formula, naming entry into the cessation of "
+         "perception and feeling itself."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine attainments as AN 9.32, "
+        "each unpacked with a full formula and the shared refrain. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine stages, each unpacked in full"),
+        ("p", "&sect;1", "an9.33:1.1-1.9"),
+        ("p", "&sect;2", "an9.33:2.1-2.7"),
+        ("p", "&sect;3", "an9.33:3.1-3.7"),
+        ("p", "&sect;4", "an9.33:4.1-4.7"),
+        ("p", "&sect;5", "an9.33:5.1-5.7"),
+        ("p", "&sect;6", "an9.33:6.1-6.7"),
+        ("p", "&sect;7", "an9.33:7.1-7.7"),
+        ("p", "&sect;8", "an9.33:8.1-8.7"),
+        ("p", "&sect;9", "an9.33:9.1-10.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 9.32?",
+         "opts": [
+             "It is an entirely unrelated teaching",
+             "It takes the same nine-item list and gives each stage its "
+             "full formula, where AN 9.32 only named each in a single "
+             "line",
+             "It shortens AN 9.32's list to five items",
+             "It contradicts AN 9.32's sequence"],
+         "correct": 1,
+         "expl": "Expansion, not repetition or contradiction."},
+        {"q": "What does this discourse claim ceases at the first "
+              "absorption?",
+         "opts": [
+             "Breathing", "Sensual pleasures",
+             "Rapture", "The perception of form"],
+         "correct": 1,
+         "expl": "The opening claim, unpacked with the first absorption's "
+                 "full formula."},
+        {"q": "What refrain closes each of the nine stages?",
+         "opts": [
+             "A warning about wrong view",
+             "That someone not devious or deceitful would approve and "
+             "agree, saying &lsquo;good!&rsquo; with cupped palms",
+             "A request for further explanation",
+             "A simile about a stone post"],
+         "correct": 1,
+         "expl": "Repeated identically nine times, framing agreement as "
+                 "a mark of honesty."},
+        {"q": "According to the guide, what does the refrain frame "
+              "disagreement as?",
+         "opts": [
+             "A legitimate intellectual difference of opinion",
+             "A mark of deviousness, not merely a different view",
+             "An acceptable alternative position",
+             "Irrelevant to the discourse's point"],
+         "correct": 1,
+         "expl": "A rhetorically pointed move, repeated nine times "
+                 "running."},
+        {"q": "How does the ninth and final formula name entry into the "
+              "cessation of perception and feeling?",
+         "opts": [
+             "It is skipped entirely, with no formula given",
+             "As where the perception of neither perception nor non-"
+             "perception ceases — every one of the nine stages, "
+             "including this last one, gets its own complete formula",
+             "As identical to the very first formula",
+             "Only in a footnote, not in the main text"],
+         "correct": 1,
+         "expl": "Each formula names the previous stage's cessation as "
+                 "the doorway into the next, all the way through the "
+                 "ninth."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like AN 9.32 immediately before it."},
+    ],
+    marginalia=[
+        ("Nine stages, unpacked", [
+            "each formula spelled",
+            "out in full, where AN 9.32",
+            "gave only a name",
+        ]),
+        ("A refrain, nine times", [
+            "&ldquo;good!&rdquo; with cupped palms &mdash;",
+            "honesty itself the test",
+            "of who would agree",
+        ]),
+        ("Nine formulas, none skipped", [
+            "each names where the",
+            "stage before it ceases &mdash;",
+            "even the ninth, in full",
+        ]),
+        ("Cross-references", [
+            "AN 9.32 &middot; previous, the same nine attainments named "
+            "briefly",
+            "AN 9.34 &middot; next, Extinguishment is Bliss",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.33/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.32.html">AN 9.32 &middot; Progressive Meditations</a> &mdash; previous.',
+        '<a href="an-9.34.html">AN 9.34 &middot; Extinguishment is Bliss</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.34 — Nibbānasukhasutta
+# --------------------------------------------------------------------------- #
+page(
+    34, "Nibbānasukha", "Extinguishment is Bliss",
+    vagga=VAGGA_4,
+    meta_title="AN 9.34 — Extinguishment is Bliss | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "famous Nibbānasukhasutta, in which Sāriputta answers Udāyī's "
+        "challenge — what's blissful about feeling nothing? — by tracing "
+        "affliction's absence across all nine attainments. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove, the squirrels' "
+                    "feeding ground"),
+        ("Speakers", "Venerable Sāriputta and Venerable Udāyī"),
+        ("Form", "A provocative declaration, a direct challenge, and a "
+                 "reasoned answer traced across all nine attainments"),
+        ("Length", "~4 minutes to read"),
+        ("A famous paradox, resolved", "How can extinguishment be "
+         "&lsquo;bliss&rsquo; if nothing is felt there? Sāriputta's "
+         "answer inverts the question rather than dodging it"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "genuinely subtle philosophical move, worth "
+                       "reading slowly"),
+    ],
+    why=(
+        "Sāriputta declares twice, unprompted, that extinguishment is "
+        "bliss; when Udāyī challenges him &mdash; what's blissful about "
+        "it, since nothing is felt? &mdash; Sāriputta answers that the "
+        "very absence of feeling is precisely what's blissful, then "
+        "demonstrates this across each of the nine progressive "
+        "attainments by showing how even their pleasant qualities are, "
+        "on reflection, an affliction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The fact that nothing is felt in extinguishment is "
+            "precisely what makes it blissful: at every one of the nine "
+            "progressive attainments, any perception and focus still "
+            "tied to what has been left behind counts as an affliction, "
+            "and affliction is suffering, so only the complete absence "
+            "of feeling is free of it."]),
+        ("A challenge met head-on, not dodged", [
+            "Udāyī's question is genuinely sharp: ordinary bliss is a "
+            "feeling, so calling a feelingless state &lsquo;bliss&rsquo; "
+            "sounds like a contradiction. Sāriputta doesn't soften the "
+            "claim or redefine &lsquo;bliss&rsquo; loosely; he answers "
+            "with the very fact Udāyī raised as an objection &mdash; "
+            "&lsquo;the fact that nothing is felt is precisely what's "
+            "blissful about it.&rsquo;"]),
+        ("Affliction as the yardstick, applied nine times", [
+            "Sāriputta's demonstration runs the same test through every "
+            "one of the nine progressive attainments in turn: even "
+            "while absorbed in the first jhāna, if perception and focus "
+            "tied to sensual pleasure still beset the mind, that "
+            "counts as an affliction &mdash; like a happy person "
+            "suddenly feeling pain &mdash; and affliction has been "
+            "called suffering by the Buddha. The same logic runs through "
+            "all eight remaining stages, each one's residual perception "
+            "of what came before still counting against it."]),
+        ("Only the ninth stage passes every test", [
+            "By the time the sequence reaches the cessation of "
+            "perception and feeling, there is nothing left for any "
+            "residual perception to be tied to at all &mdash; the "
+            "affliction test simply has nothing left to catch. This "
+            "silent conclusion, more than any single line, is what makes "
+            "Sāriputta's opening declaration finally make sense."]),
+    ],
+    terms=[
+        ("nibbānaṁ sukhaṁ",
+         "&ldquo;extinguishment is bliss&rdquo; &mdash; Sāriputta's own "
+         "opening declaration, repeated twice before Udāyī's challenge."),
+        ("kimhi panettha, āvuso sāriputta, sukhaṁ, yadettha natthi "
+         "vedayitanti",
+         "&ldquo;what's blissful about it, since nothing is felt&rdquo; "
+         "&mdash; Udāyī's sharp challenge, met directly rather than "
+         "deflected."),
+        ("etadeva khvettha, āvuso, sukhaṁ yadettha natthi vedayitaṁ",
+         "&ldquo;the fact that nothing is felt is precisely what's "
+         "blissful about it&rdquo; &mdash; Sāriputta's inverting answer."),
+        ("ābādho vuttoyaṁ bhagavatā",
+         "&ldquo;affliction has been called suffering by the "
+         "Buddha&rdquo; &mdash; the shared refrain closing each of the "
+         "discourse's nine demonstrations."),
+        ("saññāvedayitanirodhaṁ... āsavā parikkhīṇā honti",
+         "&ldquo;the cessation of perception and feeling... their "
+         "defilements come to an end&rdquo; &mdash; the ninth and final "
+         "stage, where the affliction test has nothing left to catch."),
+    ],
+    text_intro=(
+        "The discourse in full: a declaration, a challenge, and the "
+        "same affliction-test traced across all nine progressive "
+        "attainments. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A declaration, and a challenge"),
+        ("p", "&sect;1", "an9.34:1.1-1.16"),
+        ("h3", "Affliction, tested across nine attainments"),
+        ("p", "&sect;2", "an9.34:2.1-2.6"),
+        ("p", "&sect;3", "an9.34:3.1-3.6"),
+        ("p", "&sect;4", "an9.34:4.1-4.6"),
+        ("p", "&sect;5", "an9.34:5.1-5.6"),
+        ("p", "&sect;6", "an9.34:6.1-6.6"),
+        ("p", "&sect;7", "an9.34:7.1-7.6"),
+        ("p", "&sect;8", "an9.34:8.1-8.6"),
+        ("h3", "Only the ninth stage passes"),
+        ("p", "&sect;9", "an9.34:9.1-11.1"),
+    ],
+    quiz=[
+        {"q": "What challenge does Udāyī raise against Sāriputta's "
+              "declaration?",
+         "opts": [
+             "That extinguishment doesn't exist",
+             "That calling a feelingless state &lsquo;bliss&rsquo; seems "
+             "contradictory, since nothing is felt there",
+             "That the Buddha never taught this",
+             "That Sāriputta lacks the authority to teach"],
+         "correct": 1,
+         "expl": "A genuinely sharp philosophical objection, met "
+                 "directly."},
+        {"q": "How does Sāriputta answer the challenge?",
+         "opts": [
+             "By redefining &lsquo;bliss&rsquo; to mean something "
+             "looser",
+             "By inverting the objection: the very fact that nothing is "
+             "felt is precisely what's blissful about it",
+             "By refusing to answer",
+             "By denying that extinguishment involves no feeling"],
+         "correct": 1,
+         "expl": "The objection becomes the answer, rather than being "
+                 "deflected."},
+        {"q": "What test does Sāriputta apply across all nine "
+              "attainments?",
+         "opts": [
+             "A test of physical comfort",
+             "Whether residual perception and focus tied to what came "
+             "before still besets the mind, counting as an affliction",
+             "A test of how long each attainment lasts",
+             "A test of popularity among mendicants"],
+         "correct": 1,
+         "expl": "Even the first jhāna's own rapture can still be an "
+                 "affliction if sensual perception intrudes."},
+        {"q": "What simile does Sāriputta use to illustrate "
+              "&lsquo;affliction&rsquo;?",
+         "opts": [
+             "A wild elephant disturbed by its herd",
+             "A happy person suddenly experiencing pain",
+             "A cow that slips between footholds",
+             "An archer practicing on a straw man"],
+         "correct": 1,
+         "expl": "The shared image applied at each of the nine stages "
+                 "in turn."},
+        {"q": "Why does only the ninth attainment, the cessation of "
+              "perception and feeling, fully pass the test?",
+         "opts": [
+             "Because it is the longest-lasting attainment",
+             "Because there is nothing left for any residual perception "
+             "to be tied to, so the affliction test has nothing left to "
+             "catch",
+             "Because it involves the most physical comfort",
+             "Because it is easiest to attain"],
+         "correct": 1,
+         "expl": "The silent conclusion that makes Sāriputta's opening "
+                 "declaration make sense."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, in the Bamboo Grove, the squirrels' feeding "
+             "ground",
+             "Cālikā, on the Cālikā mountain",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 1,
+         "expl": "The same setting as AN 9.26's stone-post simile."},
+    ],
+    marginalia=[
+        ("A declaration, challenged", [
+            "&ldquo;extinguishment is bliss&rdquo; &mdash;",
+            "&ldquo;but nothing is felt there&rdquo; &mdash;",
+            "the challenge met head-on",
+        ]),
+        ("The objection, inverted", [
+            "&ldquo;this is precisely",
+            "what's blissful about it&rdquo; &mdash;",
+            "feeling nothing, itself",
+        ]),
+        ("Nine tests, one standard", [
+            "even rapture can still",
+            "afflict, if tied to what",
+            "came before it",
+        ]),
+        ("Cross-references", [
+            "AN 9.32, AN 9.31 &middot; the same nine attainments under "
+            "earlier framings",
+            "AN 9.33 &middot; previous, The Nine Progressive Meditative "
+            "Attainments",
+            "AN 9.35 &middot; next, The Simile of the Cow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.34/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.33.html">AN 9.33 &middot; The Nine Progressive Meditative '
+        "Attainments</a> &mdash; previous.",
+        '<a href="an-9.35.html">AN 9.35 &middot; The Simile of the Cow</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.35 — Gāvīupamāsutta (Nāgitasutta)
+# --------------------------------------------------------------------------- #
+page(
+    35, "Gāvīupamā", "The Simile of the Cow",
+    vagga=VAGGA_4,
+    meta_title="AN 9.35 — The Simile of the Cow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Simile of the Cow, contrasting a foolish mountain cow who slips "
+        "between footholds with a skillful one who stabilizes each step "
+        "— then extending to the six higher knowledges a fully "
+        "stabilized mind makes accessible. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A paired animal simile (foolish, then skillful cow), "
+                 "applied to the nine attainments, then extended into "
+                 "six higher knowledges"),
+        ("Length", "~6 minutes to read"),
+        ("Gradualism as the whole point", "Unlike most discourses in "
+         "this chapter, this one's real teaching is about pacing — not "
+         "charging ahead before a stage is stabilized"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "vivid simile followed by a dense catalogue of "
+                       "psychic attainments"),
+    ],
+    why=(
+        "A foolish mountain cow, lifting a hind-hoof before her fore-hoof "
+        "is properly set, slips between unfamiliar ground and never "
+        "returns safely; a skillful cow, moving one hoof at a time, "
+        "reaches new pasture and returns home &mdash; and a mendicant "
+        "who charges ahead through the nine attainments without "
+        "stabilizing each one slips between them just as badly, while "
+        "one who stabilizes each stage in turn gains a pliable mind "
+        "capable of six further higher knowledges."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant who charges ahead to the next absorption before "
+            "properly stabilizing the one they're in slips and falls "
+            "from both, like a foolish cow stuck between unfamiliar "
+            "footholds; one who cultivates and stabilizes each "
+            "attainment before advancing reaches all nine safely, "
+            "gaining a pliable mind capable of realizing six further "
+            "higher knowledges."]),
+        ("Two cows, one on rugged mountains", [
+            "The foolish cow lifts a hind-hoof before her fore-hoof is "
+            "properly set, never reaches new pasture, and never returns "
+            "safely home. The skillful cow moves one hoof at a time, "
+            "reaches new ground, and returns safely &mdash; the same "
+            "physical caution the discourse then maps directly onto a "
+            "mendicant &lsquo;slipped and fallen from both sides,&rsquo; "
+            "unable to remain in either the stage just left or the one "
+            "not yet properly entered."]),
+        ("Stabilization before advancement, nine times over", [
+            "Each of the nine progressive attainments gets the identical "
+            "instruction: cultivate, develop, and make much of this "
+            "basis, ensuring it's properly stabilized, before thinking "
+            "of moving to the next &mdash; and the discourse repeats, "
+            "&lsquo;without charging at&rsquo; the following stage, at "
+            "every single transition."]),
+        ("A pliable mind, and six higher knowledges", [
+            "Once a mendicant has entered and emerged from all nine "
+            "attainments this way, the mind becomes pliable and "
+            "workable, limitless in immersion, capable of realizing "
+            "whatever can be realized by insight &mdash; the discourse "
+            "then names all six higher knowledges this pliability makes "
+            "accessible: psychic power, clairaudience, mind-reading, "
+            "recollection of past lives, clairvoyance regarding others' "
+            "rebirths, and the ending of one's own defilements."]),
+    ],
+    terms=[
+        ("gāvī pabbateyyā bālā avyattā amaggakusalā gocarakusalā",
+         "&ldquo;a mountain cow who was foolish, incompetent, unskillful, "
+         "and lacked common sense&rdquo; &mdash; the first, negative "
+         "half of the discourse's own title simile."),
+        ("ubhato bhaṭṭho",
+         "&ldquo;slipped and fallen from both sides&rdquo; &mdash; the "
+         "discourse's own term for a mendicant stuck between two "
+         "attainments, unable to remain in either."),
+        ("anāgataṁ appattaṁ na sāhasā pakkhandati",
+         "&ldquo;without charging at&rdquo; the next attainment &mdash; "
+         "the phrase repeated at every transition, naming the "
+         "discourse's real teaching about pacing."),
+        ("mudubhūtaṁ kammaniyaṁ",
+         "&ldquo;pliable and workable&rdquo; &mdash; the quality a "
+         "properly stabilized mind gains after entering and emerging "
+         "from all nine attainments."),
+        ("iddhividhā, dibbasota, cetopariyañāṇa, pubbenivāsānussati, "
+         "dibbacakkhu, āsavakkhaya",
+         "the six higher knowledges named in sequence &mdash; psychic "
+         "power, clairaudience, mind-reading, past-life recollection, "
+         "clairvoyance, and the ending of defilements."),
+    ],
+    text_intro=(
+        "The discourse in full: two cows, nine stabilized attainments, "
+        "and six higher knowledges. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A foolish cow, slipped between footholds"),
+        ("p", "&sect;1", "an9.35:1.1-2.7"),
+        ("h3", "A skillful cow, and nine stabilized attainments"),
+        ("p", "&sect;2", "an9.35:3.1-11.3"),
+        ("h3", "A pliable mind, and six higher knowledges"),
+        ("p", "&sect;3", "an9.35:12.1-15.18"),
+        ("p", "&sect;4", "an9.35:16.1-18.2"),
+    ],
+    quiz=[
+        {"q": "What mistake does the foolish mountain cow make?",
+         "opts": [
+             "She refuses to leave her pasture at all",
+             "She lifts a hind-hoof before her fore-hoof is properly "
+             "set, and slips between unfamiliar footholds",
+             "She eats grass that isn't hers",
+             "She wanders too slowly"],
+         "correct": 1,
+         "expl": "Moving before the previous step is stabilized, mapped "
+                 "directly onto meditative practice."},
+        {"q": "What does the discourse call a mendicant who charges "
+              "ahead to the next absorption too soon?",
+         "opts": [
+             "Wise and skillful",
+             "&ldquo;Slipped and fallen from both sides&rdquo; — unable "
+             "to remain in either the previous or the next stage",
+             "A fine thoroughbred person",
+             "A perfected one"],
+         "correct": 1,
+         "expl": "Stuck between two attainments, like the foolish cow "
+                 "between footholds."},
+        {"q": "What instruction repeats at every transition between the "
+              "nine attainments?",
+         "opts": [
+             "Move as quickly as possible",
+             "Cultivate, develop, and stabilize the current basis before "
+             "advancing, without charging at the next stage",
+             "Skip stages that seem unnecessary",
+             "Return to the first absorption before each new attempt"],
+         "correct": 1,
+         "expl": "The discourse's real teaching about pacing, repeated "
+                 "nine times."},
+        {"q": "What quality does a mind gain after entering and emerging "
+              "from all nine attainments this way?",
+         "opts": [
+             "Rigidity and fixed concentration",
+             "Pliability and workability, with limitless, well-developed "
+             "immersion",
+             "Complete cessation of all mental activity",
+             "Immunity to all future rebirth automatically"],
+         "correct": 1,
+         "expl": "The condition for realizing the six higher knowledges "
+                 "named next."},
+        {"q": "What six higher knowledges does this pliable mind make "
+              "accessible?",
+         "opts": [
+             "Six monastic disciplinary categories",
+             "Psychic power, clairaudience, mind-reading, past-life "
+             "recollection, clairvoyance, and the ending of defilements",
+             "Six kinds of loving-kindness",
+             "Six formless dimensions"],
+         "correct": 1,
+         "expl": "The classic sixfold higher knowledges (chaḷabhiññā), "
+                 "closing this lengthy discourse."},
+        {"q": "According to the guide, what is this discourse's real "
+              "teaching, distinct from most of this chapter?",
+         "opts": [
+             "The content of each attainment individually",
+             "Pacing — not charging ahead before a stage is properly "
+             "stabilized",
+             "The names of the six higher knowledges alone",
+             "A comparison between cows and elephants"],
+         "correct": 1,
+         "expl": "Gradualism itself is the point, illustrated by the "
+                 "paired cow simile."},
+    ],
+    marginalia=[
+        ("Two cows, one lesson", [
+            "lift too soon, and slip &mdash;",
+            "stabilize each hoof,",
+            "and reach new pasture safely",
+        ]),
+        ("Without charging ahead", [
+            "cultivate, develop,",
+            "stabilize each stage &mdash;",
+            "nine times, the same caution",
+        ]),
+        ("A pliable mind, six powers", [
+            "psychic power, hearing,",
+            "reading minds, past lives, sight,",
+            "and defilements ended",
+        ]),
+        ("Cross-references", [
+            "AN 9.32, AN 9.33 &middot; the same nine attainments, here "
+            "with an emphasis on pacing",
+            "AN 9.34 &middot; previous, Extinguishment is Bliss",
+            "AN 9.36 &middot; next, Depending on Absorption",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.35/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.34.html">AN 9.34 &middot; Extinguishment is Bliss</a> &mdash; previous.',
+        '<a href="an-9.36.html">AN 9.36 &middot; Depending on Absorption</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.36 — Jhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    36, "Jhāna", "Depending on Absorption",
+    vagga=VAGGA_4,
+    meta_title="AN 9.36 — Depending on Absorption | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Jhānasutta, showing how each absorption and lower formless "
+        "attainment can itself become a basis for ending the "
+        "defilements through insight — with an explicit limit on the "
+        "top two stages. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Seven attainments each declared a basis for insight, "
+                 "with a shared formula and an archer simile, closing on "
+                 "an explicit limit"),
+        ("Length", "~4 minutes to read"),
+        ("Jhāna as insight-basis, not just calm", "This discourse's real "
+         "claim is that absorption itself, contemplated rightly, can "
+         "directly end the defilements — not merely prepare the mind "
+         "for insight practiced elsewhere"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "doctrinally dense discourse, among the most "
+                       "significant in this chapter"),
+    ],
+    why=(
+        "Each of the four absorptions and the first three formless "
+        "dimensions is declared a basis for ending the defilements: a "
+        "mendicant contemplates the phenomena present in that very "
+        "attainment as impermanent, suffering, and not-self, turns the "
+        "mind from them toward the peace of freedom from death, and "
+        "either ends the defilements directly or is reborn spontaneously "
+        "&mdash; while the top two attainments, the discourse says, can "
+        "only be properly explained by meditators already skilled in "
+        "them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Each of the first seven progressive attainments &mdash; the "
+            "four absorptions and the dimensions of infinite space, "
+            "infinite consciousness, and nothingness &mdash; is itself a "
+            "basis for ending the defilements, when a mendicant "
+            "contemplates whatever occurs there as impermanent, "
+            "suffering, and not-self, then turns the mind toward the "
+            "peace of freedom from death."]),
+        ("Absorption as insight-basis, not only calm", [
+            "This is a doctrinally significant claim: rather than "
+            "treating jhāna purely as a calming preliminary to insight "
+            "practiced afterward, this discourse says the very "
+            "phenomena constituting an absorption &mdash; its form, "
+            "feeling, perception, choices, and consciousness &mdash; can "
+            "themselves become insight's own object, ended right there "
+            "within the attainment."]),
+        ("An archer's practice, and a shared refrain", [
+            "For each attainment declared a basis, the discourse "
+            "supplies the identical explanation: like an archer who "
+            "first trains on a straw man before becoming a marksman who "
+            "shatters large objects, a mendicant contemplates the "
+            "attainment's own constituents, turns away from them toward "
+            "freedom from death, and either ends the defilements "
+            "outright or, short of that, is reborn spontaneously through "
+            "the ending of the five lower fetters."]),
+        ("An explicit limit on the top two stages", [
+            "The discourse closes with an unusual admission of its own "
+            "boundary: penetration to enlightenment through this method "
+            "extends only as far as attainments that still involve "
+            "perception. The dimension of neither perception nor non-"
+            "perception and the cessation of perception and feeling "
+            "&mdash; the two most subtle stages &mdash; are, by the "
+            "discourse's own account, properly explained only by "
+            "meditators already skilled in entering and emerging from "
+            "them, rather than through the insight-method this "
+            "discourse has just given for the first seven."]),
+    ],
+    terms=[
+        ("āsavānaṁ khayāya paccayo",
+         "&ldquo;a basis for ending the defilements&rdquo; &mdash; the "
+         "discourse's own claim for each of the first seven attainments."),
+        ("aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato "
+         "parato palokato suññato anattato samanupassati",
+         "&ldquo;impermanent, suffering, diseased, a boil, a dart, "
+         "gloom, an affliction, alien, breaking apart, empty, "
+         "not-self&rdquo; &mdash; the eleven-fold contemplation applied "
+         "to each attainment's own constituents."),
+        ("etaṁ santaṁ etaṁ paṇītaṁ",
+         "&ldquo;this is peaceful; this is sublime&rdquo; &mdash; the "
+         "turn from contemplating the attainment's constituents toward "
+         "freedom from death itself."),
+        ("dīghadassī vā gaṇṭhikkhepī",
+         "&ldquo;a marksman... who shatters large objects&rdquo; "
+         "&mdash; the archer simile's own culmination, matching an "
+         "insight practiced within absorption to trained skill."),
+        ("saññāgatāva tattha paññāpanāya",
+         "&ldquo;properly explained by meditators... skilled in these "
+         "attainments&rdquo; &mdash; the discourse's own explicit "
+         "boundary for the top two, subtlest stages."),
+    ],
+    text_intro=(
+        "The discourse in full: seven attainments declared bases for "
+        "insight, an archer simile, and an explicit limit on the final "
+        "two stages. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Seven attainments, each a basis for insight"),
+        ("p", "&sect;1", "an9.36:1.1-4.3"),
+        ("p", "&sect;2", "an9.36:6.1-7.6"),
+        ("p", "&sect;3", "an9.36:8.1-9.10"),
+        ("h3", "An explicit limit"),
+        ("p", "&sect;4", "an9.36:10.1-10.3"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about the first seven "
+              "progressive attainments?",
+         "opts": [
+             "That they are merely preliminary calm, useless for insight",
+             "That each one is itself a basis for ending the "
+             "defilements, when its own constituents are contemplated "
+             "rightly",
+             "That only the first absorption can end defilements",
+             "That they should be avoided entirely"],
+         "correct": 1,
+         "expl": "A doctrinally significant claim about jhāna as "
+                 "insight-basis, not only calm."},
+        {"q": "What does a mendicant contemplate within each attainment, "
+              "according to this discourse?",
+         "opts": [
+             "Nothing; the attainment is simply enjoyed",
+             "The attainment's own constituents — form, feeling, "
+             "perception, choices, consciousness — as impermanent, "
+             "suffering, and not-self",
+             "Only physical sensations",
+             "A separate object unrelated to the attainment"],
+         "correct": 1,
+         "expl": "Insight practiced on the attainment's own present "
+                 "phenomena, not elsewhere."},
+        {"q": "What simile illustrates the skill this insight requires?",
+         "opts": [
+             "The wild mountain cow of AN 9.35",
+             "An archer who trains on a straw man before becoming a "
+             "marksman who shatters large objects",
+             "A stone post unmoved by storms",
+             "A wild bull elephant seeking solitude"],
+         "correct": 1,
+         "expl": "Trained skill, developed progressively, matching the "
+                 "insight practiced within absorption."},
+        {"q": "What happens if a mendicant doesn't fully end the "
+              "defilements while practicing this way?",
+         "opts": [
+             "They lose the attainment entirely",
+             "With the ending of the five lower fetters, they're reborn "
+             "spontaneously and are not liable to return from that world",
+             "They must start over from the first absorption",
+             "Nothing further is said about this case"],
+         "correct": 1,
+         "expl": "A fallback outcome — non-return — short of full "
+                 "liberation."},
+        {"q": "What explicit limit does this discourse name for the top "
+              "two attainments?",
+         "opts": [
+             "They don't exist",
+             "Penetration to enlightenment by this method extends only "
+             "as far as attainments with perception; the top two are "
+             "properly explained only by meditators already skilled in "
+             "them",
+             "They can only be reached by arahants",
+             "They are identical to the first seven"],
+         "correct": 1,
+         "expl": "An explicit boundary the discourse admits for its own "
+                 "insight-method."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, without narrative frame."},
+    ],
+    marginalia=[
+        ("Insight within absorption", [
+            "form, feeling, perception,",
+            "choices, consciousness &mdash;",
+            "seen as not-self, right there",
+        ]),
+        ("An archer's trained skill", [
+            "straw man, then large game &mdash;",
+            "insight practiced in jhāna",
+            "sharpens the same way",
+        ]),
+        ("A limit, named outright", [
+            "seven stages explained;",
+            "the top two, only by",
+            "those already skilled",
+        ]),
+        ("Cross-references", [
+            "AN 9.35 &middot; previous, The Simile of the Cow",
+            "AN 9.37 &middot; next, By Ānanda",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.36/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.35.html">AN 9.35 &middot; The Simile of the Cow</a> &mdash; previous.',
+        '<a href="an-9.37.html">AN 9.37 &middot; By Ānanda</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.37 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    37, "Ānanda", "By Ānanda",
+    vagga=VAGGA_4,
+    meta_title="AN 9.37 — By Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ānandasutta, in which Ānanda explains how a mendicant can be "
+        "percipient yet not experience a sense-field that is fully "
+        "present, then recalls a nun's question about a distinct "
+        "immersion. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, in Ghosita's Monastery"),
+        ("Speakers", "Venerable Ānanda, Venerable Udāyī, and, by report, "
+                     "the nun Jaṭilagāhikā"),
+        ("Form", "A declaration on the sense fields, a direct challenge, "
+                 "an answer through the formless dimensions, and a "
+                 "recalled dialogue"),
+        ("Length", "~3 minutes to read"),
+        ("A different angle on the same territory", "Rather than the "
+         "full nine-stage sequence, this discourse focuses narrowly on "
+         "the first three formless dimensions and a further immersion "
+         "not identified with any of the nine"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "subtle phenomenological puzzle about presence "
+                       "and experience"),
+    ],
+    why=(
+        "Ānanda declares it incredible that the Buddha has found an "
+        "opening amid confinement: the eye and sights are both actually "
+        "present, yet one need not experience that sense-field &mdash; "
+        "and when Udāyī challenges whether such a person is percipient "
+        "at all, Ānanda explains through the first three formless "
+        "dimensions, then recalls a nun's own question about a further "
+        "immersion whose fruit the Buddha named as enlightenment itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Though the eye and sights, the ear and sounds, and each "
+            "sense faculty and its object remain actually present, a "
+            "mendicant can go beyond experiencing that sense-field "
+            "altogether by entering the formless dimensions &mdash; "
+            "genuinely percipient throughout, not non-percipient, but "
+            "perceiving something else entirely."]),
+        ("An opening amid confinement", [
+            "Ānanda's declaration is a striking image in its own right: "
+            "ordinary experience is confinement, boxed in by the five "
+            "physical senses and their objects, and what the Buddha "
+            "found is a genuine opening within that confinement, not an "
+            "escape from the body but a way of no longer being bound by "
+            "what remains fully present to it."]),
+        ("Percipient, but not non-percipient", [
+            "Udāyī's challenge cuts to the heart of the matter: if "
+            "someone doesn't experience a sense-field that's right "
+            "there, are they percipient at all? Ānanda's answer is "
+            "precise &mdash; not non-percipient, but perceiving in a "
+            "specific, nameable way, through the dimension of infinite "
+            "space, infinite consciousness, or nothingness in turn, each "
+            "one crowding out ordinary sense experience with its own "
+            "distinct perception."]),
+        ("A recalled question, and a striking answer", [
+            "Ānanda closes by recalling his own past encounter with the "
+            "nun Jaṭilagāhikā, who asked what fruit the Buddha named for "
+            "an immersion &lsquo;that does not lean forward or pull "
+            "back, and is not held in place by forceful "
+            "suppression&rsquo; &mdash; free, stable, content, and "
+            "unanxious. The Buddha's answer, which Ānanda simply repeats "
+            "here without further comment, names the fruit of that "
+            "immersion as nothing less than enlightenment itself."]),
+    ],
+    terms=[
+        ("sambādhe okāsādhigamo",
+         "&ldquo;an opening amid confinement&rdquo; &mdash; Ānanda's own "
+         "opening image for what the Buddha has found and taught."),
+        ("taṁ āyatanaṁ na paṭisaṁvedeti",
+         "&ldquo;one will not experience that sense-field&rdquo; "
+         "&mdash; the puzzle Ānanda names for each of the five physical "
+         "senses in turn."),
+        ("saññī va so hoti, no asaññī",
+         "&ldquo;actually percipient, not non-percipient&rdquo; "
+         "&mdash; Ānanda's precise answer to Udāyī's challenge."),
+        ("na cāpi anāyūhaṁ, no ca sasaṅkhāraniggayhavāritavato",
+         "&ldquo;does not lean forward or pull back, and is not held in "
+         "place by forceful suppression&rdquo; &mdash; the nun "
+         "Jaṭilagāhikā's own description of the immersion she asks "
+         "about."),
+        ("aññā tissā samādhissa phalanti",
+         "&ldquo;the fruit of this immersion is enlightenment&rdquo; "
+         "&mdash; the Buddha's own answer, recalled and repeated by "
+         "Ānanda without further elaboration."),
+    ],
+    text_intro=(
+        "The discourse in full: a declaration on the sense fields, a "
+        "challenge, an answer through the formless dimensions, and a "
+        "recalled dialogue with a nun. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "An opening amid confinement"),
+        ("p", "&sect;1", "an9.37:1.1-2.7"),
+        ("h3", "Percipient, but not non-percipient"),
+        ("p", "&sect;2", "an9.37:3.1-6.2"),
+        ("h3", "A recalled question, and a striking answer"),
+        ("p", "&sect;3", "an9.37:7.1-8.5"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda declare incredible about the Buddha's "
+              "discovery?",
+         "opts": [
+             "That the Buddha can read minds",
+             "That an opening amid confinement has been found — a "
+             "sense-field can be actually present and yet not "
+             "experienced",
+             "That the Buddha never sleeps",
+             "That the Buddha has ended all disease"],
+         "correct": 1,
+         "expl": "Ordinary sense experience as confinement, with a "
+                 "genuine opening within it."},
+        {"q": "What challenge does Udāyī raise?",
+         "opts": [
+             "Whether the Buddha's teaching is authentic",
+             "Whether someone who doesn't experience a present sense-"
+             "field is percipient at all, or not",
+             "Whether Ānanda has the authority to teach",
+             "Whether the formless dimensions actually exist"],
+         "correct": 1,
+         "expl": "A precise phenomenological question about awareness "
+                 "itself."},
+        {"q": "How does Ānanda answer Udāyī's challenge?",
+         "opts": [
+             "By admitting such a person is non-percipient",
+             "That such a person is percipient, not non-percipient — "
+             "perceiving through the formless dimensions instead of the "
+             "ordinary senses",
+             "By refusing to answer",
+             "By changing the subject entirely"],
+         "correct": 1,
+         "expl": "A precise distinction: not absence of perception, but "
+                 "a different object of perception."},
+        {"q": "Who is Jaṭilagāhikā, and what does she ask Ānanda?",
+         "opts": [
+             "A queen asking about taxation",
+             "A nun who asks what fruit the Buddha named for an "
+             "immersion that doesn't lean forward, pull back, or rely "
+             "on forceful suppression",
+             "A wanderer challenging the five precepts",
+             "A deity asking about rebirth"],
+         "correct": 1,
+         "expl": "A recalled past encounter, closing this discourse."},
+        {"q": "What fruit does the Buddha name for the immersion "
+              "Jaṭilagāhikā asks about?",
+         "opts": [
+             "Rebirth in a heavenly realm",
+             "Enlightenment itself",
+             "Long life", "Freedom from illness"],
+         "correct": 1,
+         "expl": "A striking, unelaborated answer that Ānanda simply "
+                 "repeats."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, in the Bamboo Grove",
+             "Kosambī, in Ghosita's Monastery",
+             "Cālikā, on the Cālikā mountain"],
+         "correct": 2,
+         "expl": "A different setting from most of this chapter's other "
+                 "discourses."},
+    ],
+    marginalia=[
+        ("An opening amid confinement", [
+            "eye and sights both present,",
+            "yet not experienced &mdash;",
+            "an opening within",
+        ]),
+        ("Percipient, differently", [
+            "not non-percipient &mdash;",
+            "space, consciousness,",
+            "nothingness, instead",
+        ]),
+        ("A nun's question, recalled", [
+            "not forced, not pulled back &mdash;",
+            "its fruit, Ānanda says,",
+            "is enlightenment itself",
+        ]),
+        ("Cross-references", [
+            "AN 9.36 &middot; previous, Depending on Absorption",
+            "AN 9.38 &middot; next, Brahmin Cosmologists",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.37/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.36.html">AN 9.36 &middot; Depending on Absorption</a> &mdash; previous.',
+        '<a href="an-9.38.html">AN 9.38 &middot; Brahmin Cosmologists</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.38 — Lokāyatikasutta
+# --------------------------------------------------------------------------- #
+page(
+    38, "Lokāyatika", "Brahmin Cosmologists",
+    vagga=VAGGA_4,
+    meta_title="AN 9.38 — Brahmin Cosmologists | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Brahmin Cosmologists, in which the Buddha sidesteps a debate "
+        "over whether the cosmos is finite or infinite, redefines "
+        "&lsquo;the world&rsquo; as the five sensual stimulations, and "
+        "maps the nine attainments as stages toward crossing it. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Two brahmin cosmologists and the Buddha"),
+        ("Form", "A reported doctrinal dispute, a declined arbitration, "
+                 "a simile of four impossibly fast runners, and the nine "
+                 "attainments reframed as stages of crossing the world"),
+        ("Length", "~4 minutes to read"),
+        ("Redefining the question rather than answering it", "The "
+         "brahmins ask whether the cosmos is finite or infinite; the "
+         "Buddha declines to adjudicate and redefines &lsquo;the "
+         "world&rsquo; entirely"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "philosophically sharp redirection, worth reading "
+                       "for its own logic"),
+    ],
+    why=(
+        "Two brahmin cosmologists ask the Buddha to arbitrate between "
+        "Pūraṇa Kassapa's claim that the cosmos is infinite and the Jain "
+        "ascetic's claim that it is finite; rather than taking a side, "
+        "the Buddha tells of four impossibly fast runners who could "
+        "never reach the world's end by traveling, then redefines "
+        "&lsquo;the world&rsquo; as the five kinds of sensual "
+        "stimulation, mapping each of the nine progressive attainments "
+        "as a stage of meditating at, though not yet beyond, that "
+        "world's end."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The five kinds of sensual stimulation are called "
+            "&lsquo;the world&rsquo; in the training of the Noble One; a "
+            "mendicant meditating in any of the first eight progressive "
+            "attainments has gone to the end of that world but hasn't "
+            "yet left it, and only the ninth, the cessation of "
+            "perception and feeling, actually crosses over clinging to "
+            "it."]),
+        ("A dispute declined, not settled", [
+            "Two brahmins report a genuine contradiction: one teacher "
+            "claims infinite knowledge that the cosmos is infinite, "
+            "another claims infinite knowledge that it is finite. The "
+            "Buddha's response is not to pick a side or split the "
+            "difference, but to set the entire question aside as the "
+            "wrong question to be asking."]),
+        ("Four runners who could never arrive", [
+            "The simile is deliberately extravagant: four men, each as "
+            "fast as a well-shot arrow, with strides spanning ocean to "
+            "ocean, running for a full hundred-year lifespan, would still "
+            "die along the way without reaching the end of the physical "
+            "world. The point isn't that the cosmos is literally that "
+            "vast, but that &lsquo;the end of the world&rsquo; was never "
+            "a place reachable by traveling in the first place."]),
+        ("A different world, reachable by a different method", [
+            "The Buddha's redefinition is the discourse's real move: "
+            "&lsquo;the world&rsquo; that actually matters for ending "
+            "suffering is the five kinds of sensual stimulation, not "
+            "physical cosmology. Each of the first eight progressive "
+            "attainments is a way of meditating at this world's edge, "
+            "though a mendicant there is still, by the Buddha's own "
+            "admission, &lsquo;included in the world, and hasn't yet "
+            "left it&rsquo; &mdash; only the ninth attainment actually "
+            "crosses over."]),
+    ],
+    terms=[
+        ("lokāyatikā brāhmaṇā",
+         "&ldquo;brahmin cosmologists&rdquo; &mdash; this discourse's "
+         "own title, naming the two questioners' area of doctrinal "
+         "specialization."),
+        ("anantavā loko... antavā loko",
+         "&ldquo;the cosmos is infinite... the cosmos is finite&rdquo; "
+         "&mdash; the two contradictory claims the brahmins ask the "
+         "Buddha to arbitrate."),
+        ("na ca kho ahaṁ, brāhmaṇā, appatvā lokassa antaṁ dukkhassa "
+         "antakiriyaṁ vadāmi",
+         "&ldquo;there's no making an end of suffering without reaching "
+         "the end of the world&rdquo; &mdash; the Buddha's own pivot, "
+         "before redefining what &lsquo;the world&rsquo; means."),
+        ("pañca kāmaguṇā ariyassa vinaye loko vuccati",
+         "&ldquo;these five kinds of sensual stimulation are called the "
+         "world in the training of the Noble One&rdquo; &mdash; the "
+         "discourse's own redefinition, replacing physical cosmology."),
+        ("lokantagato lokante jhāyati... lokasmiṁ loke aniyyāto",
+         "&ldquo;having gone to the end of the world, meditates at the "
+         "end of the world... included in the world, and hasn't yet left "
+         "the world&rdquo; &mdash; the discourse's own formula applied "
+         "to each of the first eight attainments."),
+    ],
+    text_intro=(
+        "The discourse in full: a declined dispute, four impossibly "
+        "fast runners, and the nine attainments reframed as stages of "
+        "crossing the world. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A dispute, declined"),
+        ("p", "&sect;1", "an9.38:1.1-3.7"),
+        ("h3", "Four runners who could never arrive"),
+        ("p", "&sect;2", "an9.38:4.1-4.14"),
+        ("h3", "A different world, crossed by a different method"),
+        ("p", "&sect;3", "an9.38:5.1-6.6"),
+        ("p", "&sect;4", "an9.38:7.1-10.2"),
+    ],
+    quiz=[
+        {"q": "What contradictory claims do the two brahmins ask the "
+              "Buddha to arbitrate?",
+         "opts": [
+             "Whether the self exists",
+             "Whether the cosmos is infinite (Pūraṇa Kassapa's claim) or "
+             "finite (the Jain ascetic's claim)",
+             "Whether rebirth exists",
+             "Whether ethics matters"],
+         "correct": 1,
+         "expl": "Two teachers, both claiming infinite knowledge, "
+                 "directly contradicting each other."},
+        {"q": "How does the Buddha respond to the brahmins' request for "
+              "arbitration?",
+         "opts": [
+             "He sides with Pūraṇa Kassapa",
+             "He sides with the Jain ascetic",
+             "He declines to adjudicate and redirects the question "
+             "entirely",
+             "He refuses to speak with them at all"],
+         "correct": 2,
+         "expl": "Neither taking a side nor splitting the difference — "
+                 "setting the question aside."},
+        {"q": "What does the simile of the four fast runners "
+              "illustrate?",
+         "opts": [
+             "That the cosmos is exactly as vast as described",
+             "That &lsquo;the end of the world&rsquo; was never reachable "
+             "by traveling in the first place",
+             "That running is a form of meditation",
+             "That the Buddha endorses physical exploration"],
+         "correct": 1,
+         "expl": "A deliberately extravagant image making a point about "
+                 "method, not literal distance."},
+        {"q": "What does the Buddha redefine &lsquo;the world&rsquo; as, "
+              "in the training of the Noble One?",
+         "opts": [
+             "The physical cosmos in its entirety",
+             "The five kinds of sensual stimulation",
+             "The realm of the gods only",
+             "The monastic community"],
+         "correct": 1,
+         "expl": "A redefinition that shifts the whole inquiry away from "
+                 "cosmology."},
+        {"q": "According to this discourse, what is true of a mendicant "
+              "meditating in any of the first eight progressive "
+              "attainments?",
+         "opts": [
+             "They have already fully left the world",
+             "They have gone to the end of the world but haven't yet "
+             "left it — still included in the world",
+             "They have not made any progress at all",
+             "They have attained full awakening"],
+         "correct": 1,
+         "expl": "Only the ninth attainment, per this discourse, "
+                 "actually crosses over."},
+        {"q": "What finally crosses over clinging to the world, "
+              "according to this discourse?",
+         "opts": [
+             "The fourth absorption",
+             "The dimension of nothingness",
+             "The cessation of perception and feeling, the ninth "
+             "attainment",
+             "Simply believing the Buddha's teaching"],
+         "correct": 2,
+         "expl": "The same ninth attainment singled out across several "
+                 "discourses in this chapter."},
+    ],
+    marginalia=[
+        ("A dispute, declined", [
+            "infinite or finite &mdash;",
+            "the Buddha sets aside",
+            "the whole question",
+        ]),
+        ("Four runners, no arrival", [
+            "ocean-spanning strides,",
+            "a hundred years running &mdash;",
+            "never reaching the end",
+        ]),
+        ("A different world entirely", [
+            "the five sense pleasures",
+            "are &lsquo;the world&rsquo; that matters &mdash;",
+            "crossed only at the ninth",
+        ]),
+        ("Cross-references", [
+            "AN 9.32 &middot; the same nine attainments, here mapped as "
+            "stages of crossing the world",
+            "AN 9.37 &middot; previous, By Ānanda",
+            "AN 9.39 &middot; next, The War Between the Gods and the "
+            "Titans",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.38/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.37.html">AN 9.37 &middot; By Ānanda</a> &mdash; previous.',
+        '<a href="an-9.39.html">AN 9.39 &middot; The War Between the Gods and the Titans</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.39 — Devāsurasaṅgāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    39, "Devāsurasaṅgāma", "The War Between the Gods and the Titans",
+    vagga=VAGGA_4,
+    meta_title=("AN 9.39 — The War Between the Gods and the Titans | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The "
+        "War Between the Gods and the Titans, a vivid mythic battle "
+        "narrative — told twice, with reversed outcomes — mapped onto "
+        "each absorption's temporary safety from Māra. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A mythic battle narrative told twice with reversed "
+                 "outcomes, then mapped onto the nine attainments and "
+                 "Māra"),
+        ("Length", "~3 minutes to read"),
+        ("The most mythic narrative in this chapter", "Unlike most of "
+         "this chapter's meditation teachings, this discourse opens with "
+         "an extended cosmic battle myth before turning to its "
+         "meditative application"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "vivid, symmetrical narrative worth reading for "
+                       "its own drama before its application"),
+    ],
+    why=(
+        "The gods, defeated three times by the titans, retreat to the "
+        "safety of their own castle and think themselves secure while "
+        "the titans, unable to follow, think the same; the same battle "
+        "is then told in reverse, the titans defeated and fleeing to "
+        "their own citadel &mdash; and each of the four absorptions "
+        "gives a mendicant this same temporary sense of security from "
+        "Māra, while the formless attainments go further still, "
+        "blinding Māra outright."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as gods and titans, whichever side wins three "
+            "successive battles, each retreat to their own fortress "
+            "believing themselves secure from a pursuer who now can't "
+            "reach them, a mendicant absorbed in any of the four "
+            "jhānas thinks &lsquo;Māra can't do anything to me,&rsquo; "
+            "and Māra, unable to follow, thinks the same &mdash; while "
+            "the formless attainments go further, blinding Māra "
+            "outright."]),
+        ("One myth, told twice in mirror image", [
+            "The discourse's real narrative craft is its symmetry: the "
+            "gods lose three battles running and flee north into their "
+            "castle, and then, without missing a beat, the identical "
+            "battle is retold with the titans losing three times and "
+            "fleeing south into their own citadel. Neither side is the "
+            "permanent winner; the pattern of temporary safety through "
+            "retreat is what repeats."]),
+        ("A stalemate, not a victory", [
+            "What each side gains by retreating to its fortress is "
+            "explicitly not triumph but mutual inaccessibility: the gods "
+            "think the titans can't reach them, the titans think the "
+            "same about the gods. This is the precise image the "
+            "discourse maps onto absorption &mdash; not a defeat of "
+            "Māra, but a temporary standoff where neither side can act "
+            "on the other."]),
+        ("From stalemate to genuinely blinding Māra", [
+            "The four absorptions each produce only this stalemate: "
+            "&lsquo;Māra can't do anything to me,&rsquo; matched by "
+            "Māra's own equally accurate &lsquo;we can't do anything to "
+            "the mendicant.&rsquo; The formless attainments mark a "
+            "genuine escalation beyond stalemate: entering the dimension "
+            "of infinite space, a mendicant is said to have "
+            "&lsquo;blinded Māra, put out his eyes without a trace, and "
+            "gone where the Wicked One cannot see&rsquo; &mdash; no "
+            "longer a standoff, but total loss of Māra's own vision."]),
+    ],
+    terms=[
+        ("devāsurasaṅgāmo",
+         "&ldquo;the war between the gods and the titans&rdquo; &mdash; "
+         "this discourse's own title, a battle told twice with reversed "
+         "outcomes."),
+        ("suraṭṭhaṁ devānaṁ pavisiṁsu",
+         "&ldquo;fled right into the castle of the gods&rdquo; &mdash; "
+         "the gods' retreat after three lost battles, mirrored later by "
+         "the titans' own citadel."),
+        ("na dāni amhākaṁ asurā kiñci karissantīti",
+         "&ldquo;now the titans can't do anything to us&rdquo; &mdash; "
+         "the gods' own thought inside their fortress, matched exactly "
+         "by the titans' identical thought about the gods."),
+        ("khemantabhūmiṁyeva pattoti maññati",
+         "&ldquo;I'm in a secure location&rdquo; &mdash; the "
+         "discourse's own phrase for a mendicant's thought while "
+         "absorbed in any of the four jhānas."),
+        ("andhamakāsi māraṁ apadaṁ vadhitvā cakkhumā",
+         "&ldquo;blinded Māra, put out his eyes without a trace&rdquo; "
+         "&mdash; the discourse's own escalation, marking entry into "
+         "the formless dimensions as beyond mere stalemate."),
+    ],
+    text_intro=(
+        "The discourse in full: the mythic battle told twice with "
+        "reversed outcomes, then mapped onto the four absorptions and "
+        "the formless dimensions. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The gods lose three battles, and retreat"),
+        ("p", "&sect;1", "an9.39:1.1-2.10"),
+        ("h3", "The same battle, told in reverse"),
+        ("p", "&sect;2", "an9.39:3.1-4.10"),
+        ("h3", "From stalemate to blinding Māra"),
+        ("p", "&sect;3", "an9.39:5.1-6.7"),
+        ("p", "&sect;4", "an9.39:7.1-8.5"),
+    ],
+    quiz=[
+        {"q": "How is the mythic battle between gods and titans "
+              "structured in this discourse?",
+         "opts": [
+             "Told once, with the gods as permanent winners",
+             "Told twice, in mirror image — first the gods losing three "
+             "battles and retreating, then the titans losing three "
+             "battles and retreating",
+             "Told once, with no clear winner",
+             "Told three separate times with three different outcomes"],
+         "correct": 1,
+         "expl": "A deliberately symmetrical narrative, neither side "
+                 "permanently victorious."},
+        {"q": "What do both the gods and the titans think once safely "
+              "in their own fortress?",
+         "opts": [
+             "That they have permanently defeated the other side",
+             "That they are now secure and the other side can't do "
+             "anything to them — a thought both sides share equally",
+             "That they should attack again immediately",
+             "That the war is meaningless"],
+         "correct": 1,
+         "expl": "A mutual stalemate, not a one-sided triumph."},
+        {"q": "What does each of the four absorptions produce, according "
+              "to this discourse's application of the myth?",
+         "opts": [
+             "Permanent defeat of Māra",
+             "The same kind of stalemate: the mendicant thinks Māra "
+             "can't act on them, and Māra thinks the same",
+             "No effect on Māra at all",
+             "Māra's complete destruction"],
+         "correct": 1,
+         "expl": "Matching the gods' and titans' own mutual, temporary "
+                 "safety."},
+        {"q": "What happens once a mendicant enters the formless "
+              "attainments, beginning with infinite space?",
+         "opts": [
+             "Nothing changes from the jhānas",
+             "The mendicant is said to have blinded Māra outright, going "
+             "where he cannot see — a genuine escalation beyond "
+             "stalemate",
+             "Māra gains greater power over the mendicant",
+             "The mendicant returns to ordinary consciousness"],
+         "correct": 1,
+         "expl": "No longer a standoff, but total loss of Māra's vision."},
+        {"q": "According to the guide, what makes this discourse "
+              "distinctive within this chapter?",
+         "opts": [
+             "It contains no meditative application at all",
+             "It opens with an extended cosmic battle myth before "
+             "turning to its meditative application, unlike most other "
+             "discourses here",
+             "It is the shortest discourse in the chapter",
+             "It rejects the nine-attainment framework entirely"],
+         "correct": 1,
+         "expl": "The most mythic narrative in this meditation-heavy "
+                 "chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A mythic teaching narrative without a specific "
+                 "historical setting."},
+    ],
+    marginalia=[
+        ("A battle, told twice", [
+            "gods flee north, defeated;",
+            "then titans flee south &mdash;",
+            "the same myth, reversed",
+        ]),
+        ("A mutual stalemate", [
+            "&ldquo;now they can't reach us&rdquo; &mdash;",
+            "both sides think the same,",
+            "safe in their own walls",
+        ]),
+        ("From standoff to blindness", [
+            "jhāna: a stalemate;",
+            "formless: Māra blinded,",
+            "eyes put out, gone where",
+        ]),
+        ("Cross-references", [
+            "AN 9.32 &middot; the same nine attainments, here mapped "
+            "onto safety from Māra",
+            "AN 9.38 &middot; previous, Brahmin Cosmologists",
+            "AN 9.40 &middot; next, The Simile of the Bull Elephant in "
+            "the Forest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.39/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.38.html">AN 9.38 &middot; Brahmin Cosmologists</a> &mdash; previous.',
+        '<a href="an-9.40.html">AN 9.40 &middot; The Simile of the Bull Elephant in the '
+        "Forest</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.40 — Nāgasutta
+# --------------------------------------------------------------------------- #
+page(
+    40, "Nāga", "The Simile of the Bull Elephant in the Forest",
+    vagga=VAGGA_4,
+    meta_title=("AN 9.40 — The Simile of the Bull Elephant in the Forest | "
+                "Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nāgasutta, mapping a wild bull elephant's withdrawal from a "
+        "crowded herd onto a mendicant's solitary progress through the "
+        "nine attainments, each marked by the same disarming refrain. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "An extended animal simile of withdrawal from a crowd, "
+                 "mapped onto solitary practice through all nine "
+                 "attainments"),
+        ("Length", "~4 minutes to read"),
+        ("An unusually physical, homely refrain", "Each attainment in "
+         "this discourse closes not with a doctrinal claim but with the "
+         "same disarming physical image: happily relieving an itch"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "vivid, relatable simile carrying a genuinely "
+                       "substantial teaching"),
+    ],
+    why=(
+        "A wild bull elephant, crowded by other elephants who trample "
+        "his grass, eat his broken branches, muddy his pool, and bump "
+        "into him, withdraws to live alone and finally scratches himself "
+        "with a branch, happily relieving his itches &mdash; and a "
+        "mendicant crowded by monastics and laypeople alike withdraws in "
+        "just the same way to a secluded lodging, gives up the five "
+        "hindrances, and progresses through all nine attainments, each "
+        "one likewise a relief."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as a wild bull elephant, crowded and jostled by its "
+            "herd, withdraws alone to eat untrampled grass and drink "
+            "clear water, a mendicant crowded by the fourfold assembly "
+            "and outsiders withdraws to a secluded lodging, gives up the "
+            "five hindrances, and progresses through all nine "
+            "attainments, each one described as happily relieving an "
+            "itch."]),
+        ("Four specific irritations, named in full", [
+            "The elephant simile doesn't gesture vaguely at crowding; it "
+            "names four concrete irritations in turn &mdash; trampled "
+            "grass, stolen branches, muddied water, and female elephants "
+            "bumping into him after his bath &mdash; each one a small, "
+            "recognizable indignity rather than a single abstract "
+            "complaint."]),
+        ("From physical crowding to human crowding", [
+            "The mapping onto human life is precise: a mendicant is "
+            "crowded specifically by monks, nuns, laymen, laywomen, "
+            "rulers and their ministers, and monastics of other "
+            "religions &mdash; the full range of people who might press "
+            "in on someone's attention, not merely a vague social "
+            "burden."]),
+        ("A disarming, physical refrain", [
+            "Where most discourses in this chapter close each "
+            "attainment with a doctrinal claim, this one closes every "
+            "single stage &mdash; all nine, from the first absorption to "
+            "the cessation of perception and feeling &mdash; with the "
+            "same homely image: &lsquo;they happily relieve their "
+            "itches,&rsquo; echoing the elephant's own branch-scratching "
+            "at the simile's start and keeping the whole sequence "
+            "grounded in something physically relatable rather than "
+            "purely abstract."]),
+    ],
+    terms=[
+        ("āraññako nāgo",
+         "&ldquo;a wild bull elephant&rdquo; &mdash; the discourse's own "
+         "title image, crowded by its herd before withdrawing alone."),
+        ("ekaṁ vūpakaṭṭho vihareyyanti",
+         "&ldquo;why don't I live alone, withdrawn from the herd&rdquo; "
+         "&mdash; the elephant's own thought, echoed almost word for "
+         "word by the mendicant in the application."),
+        ("pañca nīvaraṇe pahāya",
+         "&ldquo;giving up these five hindrances&rdquo; &mdash; the "
+         "step a withdrawn mendicant takes before the nine attainments "
+         "can properly begin."),
+        ("kaṇḍūyamāno sukhaṁ seti",
+         "&ldquo;happily relieving their itches&rdquo; &mdash; the "
+         "shared refrain closing every one of the nine attainments in "
+         "this discourse."),
+        ("catūhi parisāhi rājūhi rājamahāmattehi",
+         "&ldquo;monks, nuns, laymen, and laywomen; by rulers and their "
+         "chief ministers&rdquo; &mdash; the specific range of people "
+         "who crowd a mendicant, mapped from the elephant's own herd."),
+    ],
+    text_intro=(
+        "The discourse in full: a wild elephant's withdrawal, mapped "
+        "onto a mendicant's solitary progress through all nine "
+        "attainments. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A crowded elephant, and four irritations"),
+        ("p", "&sect;1", "an9.40:1.1-1.4"),
+        ("h3", "Withdrawal, and relief"),
+        ("p", "&sect;2", "an9.40:2.1-3.2"),
+        ("h3", "The same withdrawal, applied to a mendicant"),
+        ("p", "&sect;3", "an9.40:4.1-5.6"),
+        ("h3", "Nine attainments, each a relief"),
+        ("p", "&sect;4", "an9.40:5.7-6.7"),
+    ],
+    quiz=[
+        {"q": "What four irritations does the crowded bull elephant "
+              "experience?",
+         "opts": [
+             "Predators, disease, hunger, and thirst",
+             "Trampled grass, stolen branches, muddied water, and female "
+             "elephants bumping into him after his bath",
+             "Loud noises, bright light, cold weather, and rough terrain",
+             "Human hunters, forest fires, floods, and drought"],
+         "correct": 1,
+         "expl": "Four concrete, recognizable indignities of crowding, "
+                 "not a single vague complaint."},
+        {"q": "Who specifically crowds a mendicant, in the simile's "
+              "human application?",
+         "opts": [
+             "Only other mendicants",
+             "Monks, nuns, laymen, laywomen, rulers and their ministers, "
+             "and monastics of other religions",
+             "Only wild animals",
+             "Only family members"],
+         "correct": 1,
+         "expl": "A precise mapping onto the full range of people who "
+                 "might press in on someone's attention."},
+        {"q": "What must a withdrawn mendicant give up before "
+              "progressing through the nine attainments?",
+         "opts": [
+             "All monastic robes",
+             "The five hindrances",
+             "All forms of speech", "Contact with laypeople permanently"],
+         "correct": 1,
+         "expl": "The standard preliminary before absorption in this "
+                 "and many other discourses."},
+        {"q": "What refrain closes every one of the nine attainments in "
+              "this discourse?",
+         "opts": [
+             "A doctrinal claim about impermanence",
+             "&ldquo;They happily relieve their itches&rdquo;, echoing "
+             "the elephant's own branch-scratching",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "An unusually homely, physical image, distinct from "
+                 "most other discourses in this chapter."},
+        {"q": "According to the guide, what does this physical refrain "
+              "accomplish?",
+         "opts": [
+             "It trivializes the teaching",
+             "It keeps the whole nine-stage sequence grounded in "
+             "something physically relatable rather than purely "
+             "abstract",
+             "It replaces the need for the nine attainments entirely",
+             "It contradicts the elephant simile"],
+         "correct": 1,
+         "expl": "Consistency between the opening simile and its "
+                 "meditative application."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare simile-teaching, without narrative frame."},
+    ],
+    marginalia=[
+        ("A crowded elephant", [
+            "trampled grass, stolen",
+            "branches, muddy water,",
+            "jostled after his bath",
+        ]),
+        ("Withdrawal, and relief", [
+            "alone at last, he",
+            "scratches with a branch &mdash;",
+            "happily relieving itches",
+        ]),
+        ("Nine stages, the same relief", [
+            "crowded by the many,",
+            "a mendicant withdraws too &mdash;",
+            "each stage, an itch relieved",
+        ]),
+        ("Cross-references", [
+            "AN 9.32 &middot; the same nine attainments, here closed by "
+            "a physical refrain",
+            "AN 9.39 &middot; previous, The War Between the Gods and the "
+            "Titans",
+            "AN 9.41 &middot; next, With the Householder Tapussa, closing "
+            "this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.40/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.39.html">AN 9.39 &middot; The War Between the Gods and the Titans</a> '
+        "&mdash; previous.",
+        '<a href="an-9.41.html">AN 9.41 &middot; With the Householder Tapussa</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.41 — Tapussasutta — closes ch.4 Mahāvagga
+# --------------------------------------------------------------------------- #
+page(
+    41, "Tapussa", "With the Householder Tapussa",
+    vagga=VAGGA_4,
+    meta_title="AN 9.41 — With the Householder Tapussa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tapussasutta, closing this chapter with the Buddha's own "
+        "autobiographical account of struggling through all nine "
+        "attainments before his awakening, each requiring seeing a "
+        "drawback and a benefit first. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Mallas, near Uruvelakappa"),
+        ("Speakers", "The householder Tapussa, Venerable Ānanda, and the "
+                     "Buddha, speaking autobiographically"),
+        ("Form", "A layperson's question relayed by Ānanda, then an "
+                 "extended first-person account repeating the same "
+                 "structure nine times"),
+        ("Length", "~9 minutes to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Mahāvagga</em>, the fourth chapter of the Nines; "
+         "the source's own untranslated closing verse names all ten "
+         "discourses of the chapter by their opening words"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; long "
+                       "and repetitive by design, but among the most "
+                       "personal and revealing discourses in this "
+                       "project"),
+    ],
+    why=(
+        "The householder Tapussa tells Ānanda that renunciation seems "
+        "like an abyss to laypeople who love sensual pleasure, yet young "
+        "mendicants' minds leap forth into it readily; brought to the "
+        "Buddha, this becomes the occasion for an extended first-person "
+        "account of the Buddha's own pre-awakening struggle, in which "
+        "his mind refused to settle into each successive attainment "
+        "until he had first seen the drawback of the stage before it and "
+        "the benefit of the one ahead."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Before his awakening, the Buddha's mind did not leap forth "
+            "into any of the nine progressive attainments until he had "
+            "first seen the drawback of the stage he was in and "
+            "realized the benefit of the stage ahead &mdash; and only "
+            "after mastering all nine in both forward and reverse order "
+            "did he announce his supreme awakening."]),
+        ("A layperson's honest observation", [
+            "Tapussa's opening remark is refreshingly candid rather than "
+            "merely rhetorical: laypeople who genuinely love sensual "
+            "pleasures find renunciation abyss-like, yet somehow very "
+            "young mendicants take to it with ease &mdash; a real puzzle "
+            "he brings to Ānanda rather than a purely doctrinal question."]),
+        ("Nine times, the same three-part struggle", [
+            "The Buddha's answer reveals something rarely stated so "
+            "plainly: even his own mind, before awakening, would not "
+            "&lsquo;leap forth, gain confidence, settle down&rsquo; into "
+            "a new attainment automatically. Each of the nine stages "
+            "required first identifying why the mind was resisting "
+            "(no benefit yet seen in the new stage, no drawback yet seen "
+            "in the old one), then deliberately cultivating both before "
+            "the mind was willing to move &mdash; and even once entered, "
+            "the same affliction-logic met at AN 9.34 still applied, "
+            "residual perception of the earlier stage counting against "
+            "it."]),
+        ("Mastery in both directions, before any declaration", [
+            "The discourse's closing claim is exacting: it wasn't enough "
+            "to enter all nine attainments once, moving only forward. "
+            "The Buddha states plainly that he did not announce his "
+            "awakening until he had entered into and withdrawn from all "
+            "nine progressive attainments in both forward and reverse "
+            "order &mdash; a standard of mastery this discourse alone in "
+            "the chapter states explicitly, closing <em>Mahāvagga</em> "
+            "on the Buddha's own most personal testimony."]),
+    ],
+    terms=[
+        ("nekkhammaṁ papāto viya khāyati",
+         "&ldquo;renunciation seems like an abyss&rdquo; &mdash; "
+         "Tapussa's own candid description of how renunciation appears "
+         "to laypeople who love sensual pleasure."),
+        ("cittaṁ na pakkhandati nappasīdati na santiṭṭhati na "
+         "vimuccati",
+         "&ldquo;my mind did not leap forth, gain confidence, settle "
+         "down, and become decided&rdquo; &mdash; the discourse's own "
+         "shared refrain, repeated at every one of the nine stages "
+         "before the Buddha's mind was willing to advance."),
+        ("ādīnavaṁ adisvā, ānisaṁsaṁ ananubhavitvā",
+         "&ldquo;I haven't seen the drawbacks... I haven't realized the "
+         "benefits&rdquo; &mdash; the Buddha's own diagnosis for why his "
+         "mind resisted each new stage, repeated nine times."),
+        ("anulomapaṭilomaṁ samāpajjitvā vuṭṭhahitvā",
+         "&ldquo;entered into and withdrawn from... in both forward and "
+         "reverse order&rdquo; &mdash; the exacting standard of mastery "
+         "the Buddha names as preceding his announcement of awakening."),
+        ("akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavoti",
+         "&ldquo;my freedom is unshakable; this is my last rebirth; now "
+         "there'll be no more future lives&rdquo; &mdash; the "
+         "discourse's closing knowledge, arising only after mastering "
+         "all nine attainments in both directions."),
+    ],
+    text_intro=(
+        "The discourse in full: Tapussa's question relayed by Ānanda, "
+        "and the Buddha's own extended first-person account of "
+        "struggling through all nine attainments before his awakening. "
+        "The source's own closing colophon and chapter-summary verse "
+        "are untranslated in the English and are described rather than "
+        "quoted here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A layperson's honest question"),
+        ("p", "&sect;1", "an9.41:1.1-5.2"),
+        ("h3", "&ldquo;That's so true, Ānanda!&rdquo;"),
+        ("p", "&sect;2", "an9.41:7.1-7.18"),
+        ("h3", "Nine times, the same struggle"),
+        ("p", "&sect;3", "an9.41:8.1-8.16"),
+        ("p", "&sect;4", "an9.41:9.1-9.16"),
+        ("p", "&sect;5", "an9.41:10.1-10.16"),
+        ("p", "&sect;6", "an9.41:11.1-11.16"),
+        ("p", "&sect;7", "an9.41:12.1-12.16"),
+        ("p", "&sect;8", "an9.41:13.1-13.16"),
+        ("p", "&sect;9", "an9.41:14.1-14.16"),
+        ("h3", "Mastery in both directions, then awakening"),
+        ("p", "&sect;10", "an9.41:15.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What honest puzzle does the householder Tapussa raise "
+              "with Ānanda?",
+         "opts": [
+             "Whether the Buddha's teachings are internally consistent",
+             "That renunciation seems like an abyss to laypeople who "
+             "love sensual pleasure, yet young mendicants take to it "
+             "readily",
+             "Whether laypeople can ever attain awakening",
+             "Whether monastics should own property"],
+         "correct": 1,
+         "expl": "A genuine, candidly stated observation rather than a "
+                 "purely doctrinal question."},
+        {"q": "What refrain repeats at every one of the nine stages in "
+              "the Buddha's own account?",
+         "opts": [
+             "A verse of praise",
+             "That his mind did not leap forth, gain confidence, settle "
+             "down, and become decided — until seeing both a drawback "
+             "and a benefit",
+             "A request for Ānanda's help",
+             "A warning about Māra"],
+         "correct": 1,
+         "expl": "Even the Buddha's own pre-awakening mind resisted each "
+                 "new stage until properly prepared."},
+        {"q": "What two things does the Buddha say he needed to see "
+              "before his mind would advance to each new stage?",
+         "opts": [
+             "Permission from a teacher and a favorable omen",
+             "The drawback of the stage he was in and the benefit of "
+             "the stage ahead",
+             "A large donation and public recognition",
+             "Physical strength and financial security"],
+         "correct": 1,
+         "expl": "Repeated as the diagnosis for resistance at every one "
+                 "of the nine stages."},
+        {"q": "What exacting standard does the Buddha name as preceding "
+              "his announcement of awakening?",
+         "opts": [
+             "Simply entering all nine attainments once, moving forward",
+             "Entering into and withdrawing from all nine attainments in "
+             "both forward and reverse order",
+             "Teaching the Dhamma for at least one year first",
+             "Gaining the approval of five hundred mendicants"],
+         "correct": 1,
+         "expl": "A standard this discourse alone states explicitly in "
+                 "this chapter."},
+        {"q": "What does this discourse close?",
+         "opts": [
+             "Nothing; the chapter continues past it",
+             "<em>Mahāvagga</em>, the fourth chapter, with an "
+             "untranslated colophon and uddāna verse naming all ten "
+             "discourses",
+             "The entire nipāta",
+             "Only this single discourse, with no chapter-level effect"],
+         "correct": 1,
+         "expl": "The chapter's own closing colophon, left untranslated "
+                 "in the English."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, in the Bamboo Grove",
+             "The land of the Mallas, near Uruvelakappa",
+             "Kosambī, in Ghosita's Monastery"],
+         "correct": 2,
+         "expl": "A distinctive setting, closing this chapter on a "
+                 "personal note."},
+    ],
+    marginalia=[
+        ("A layperson's honest puzzle", [
+            "renunciation, an abyss &mdash;",
+            "yet the very young",
+            "leap into it with ease",
+        ]),
+        ("Even the Buddha resisted", [
+            "no leap, no confidence,",
+            "until drawback and benefit",
+            "were both first seen",
+        ]),
+        ("Mastery, both directions", [
+            "forward, then reverse &mdash;",
+            "only then, awakening",
+            "announced to the world",
+        ]),
+        ("Cross-references", [
+            "AN 9.34 &middot; the same affliction-logic applied within "
+            "each stage",
+            "AN 9.40 &middot; previous, The Simile of the Bull Elephant "
+            "in the Forest",
+            "AN 9.42 &middot; next, opening ch.5, Sāmaññavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.41/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.34.html">AN 9.34 &middot; Extinguishment is Bliss</a> &mdash; the same '
+        "affliction-logic applied within each stage.",
+        '<a href="an-9.40.html">AN 9.40 &middot; The Simile of the Bull Elephant in the '
+        "Forest</a> &mdash; previous.",
+    ],
+)
