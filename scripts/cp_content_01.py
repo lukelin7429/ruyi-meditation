@@ -5356,3 +5356,1811 @@ page(
         "collection on this site.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Cp 27 — Kapi Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    27, "Kapi Cariy&amacr;", "The Monkey King&rsquo;s Conduct",
+    meta_title="Cp 27 — The Monkey King's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Monkey "
+        "King's Conduct, opening the Cariyapitaka's chapter on truthfulness with a "
+        "clever, technically honest escape from a crocodile. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (1st of 6)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as a monkey trapped on a riverbank"),
+        ("Speaker", "The Buddha, recounting his life as the monkey, with a brief "
+                    "exchange with a crocodile"),
+        ("Form", "Four four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a short story with "
+                       "a genuinely tricky question of interpretation at its center"),
+    ],
+    why=(
+        "This story opens the Cariyapitaka's chapter on truthfulness with its most "
+        "ambiguous case: a monkey trapped by a crocodile answers &lsquo;I am "
+        "coming&rsquo; to the crocodile's invitation, then crosses the river by "
+        "stepping on the crocodile's own head &mdash; technically doing exactly what "
+        "he said, while completely defeating what the crocodile intended."),
+    guide=[
+        ("A trap disguised as an invitation", [
+            "The crocodile does not threaten the monkey outright; he waits at the "
+            "monkey's usual landing spot and says only &lsquo;come&rsquo;, letting the "
+            "ordinary word carry the danger without stating it."]),
+        ("A reply that is not a lie", [
+            "The monkey's answer, &lsquo;I am coming,&rsquo; is simple and direct "
+            "&mdash; and then he does come, by leaping onto the crocodile's head and "
+            "using it as a stepping stone to the far bank, arriving exactly as "
+            "promised."]),
+        ("The text's own claim about what happened", [
+            "The story states its own verdict plainly: &lsquo;I spoke no lie to him, "
+            "but acted according to my word.&rsquo; The claim to truthfulness rests "
+            "entirely on the literal accuracy of &lsquo;I am coming&rsquo;, not on "
+            "having honored the crocodile's actual intention."]),
+        ("An opening case that raises the chapter's real question", [
+            "By placing this story first among six on truthfulness, the collection "
+            "poses its sharpest question early: is truthfulness only about the literal "
+            "accuracy of what is said, or does it also depend on what a listener is "
+            "led to expect? The chapter's later stories, especially Cp 28's ascetic and "
+            "Cp 31's uncomfortable confession, approach the theme very differently."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, opening "
+         "this chapter's six stories on the theme."),
+        ("kumbhīla",
+         "&ldquo;crocodile&rdquo; or &ldquo;gharial&rdquo; &mdash; the monkey's foe, "
+         "waiting at the usual crossing point."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-seventh."),
+        ("musāvāda",
+         "&ldquo;false speech&rdquo; &mdash; what the monkey explicitly denies having "
+         "engaged in, despite leading the crocodile into a plan that fails him "
+         "completely."),
+        ("Yudhañjaya-vagga",
+         "&ldquo;the Chapter With Yudhañjaya&rdquo; &mdash; this collection's third "
+         "chapter, now moving from renunciation and resolve into its six stories on "
+         "truth."),
+    ],
+    text_intro=(
+        "The text in full: four verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp27:1.1-1.4"),
+        ("p", "&sect;2", "cp27:2.1-2.4"),
+        ("p", "&sect;3", "cp27:3.1-3.4"),
+        ("p", "&sect;4", "cp27:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does the crocodile say to lure the monkey?",
+         "opts": [
+             "An explicit threat",
+             "Simply 'come' — letting the ordinary word carry the danger unstated",
+             "An offer of food",
+             "Nothing; he attacks without speaking"],
+         "correct": 1,
+         "expl": "A trap disguised as an ordinary invitation."},
+        {"q": "What does the monkey reply?",
+         "opts": [
+             "A refusal",
+             "'I am coming' — and then he does come, by his own route",
+             "A counter-threat",
+             "He says nothing at all"],
+         "correct": 1,
+         "expl": "Simple and direct, then literally fulfilled."},
+        {"q": "How does the monkey actually cross the river?",
+         "opts": [
+             "By swimming around the crocodile entirely",
+             "By stepping on the crocodile's own head as a stepping stone",
+             "By finding another crossing point",
+             "He does not cross; the story ends before he does"],
+         "correct": 1,
+         "expl": "Arriving exactly as promised, just not as the crocodile intended."},
+        {"q": "What claim does the story make about the monkey's honesty?",
+         "opts": [
+             "That he lied to save himself, and this was justified",
+             "'I spoke no lie to him, but acted according to my word'",
+             "That the crocodile was also being truthful",
+             "No claim about honesty is made"],
+         "correct": 1,
+         "expl": "Resting on the literal accuracy of 'I am coming', not the crocodile's expectations."},
+        {"q": "What question does placing this story first in the truth chapter raise?",
+         "opts": [
+             "Whether animals can speak at all",
+             "Whether truthfulness is only about literal accuracy, or also about what a listener is led to expect",
+             "Whether crocodiles are inherently untrustworthy",
+             "No particular question is raised by the ordering"],
+         "correct": 1,
+         "expl": "A question the chapter's later stories approach quite differently."},
+        {"q": "What does 'musāvāda' mean?",
+         "opts": [
+             "'False speech' — what the monkey denies having engaged in",
+             "'River crossing'",
+             "'Crocodile'",
+             "'Perfection of truth'"],
+         "correct": 0,
+         "expl": "Denied despite the crocodile being completely outmaneuvered."},
+        {"q": "What perfection does this story open, and how many stories does this chapter give it?",
+         "opts": [
+             "Ethics; ten stories",
+             "Truth (sacca); six stories",
+             "Renunciation; five stories",
+             "Love; two stories"],
+         "correct": 1,
+         "expl": "The third of the third chapter's five themes."},
+        {"q": "How does this story compare in length to the average story in this collection?",
+         "opts": [
+             "Among the shortest, at four verses",
+             "Among the longest",
+             "Exactly average length",
+             "It has no verses at all"],
+         "correct": 0,
+         "expl": "A brief, sharply focused case."},
+        {"q": "What perfection did the previous story, Cp 26, illustrate?",
+         "opts": [
+             "Giving",
+             "Resolve (adhiṭṭhāna), the collection's only story on this theme",
+             "Ethics",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "Temiya's sixteen years of feigned disability."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Truth (sacca), the first of six stories on this theme",
+             "Love",
+             "Equanimity",
+             "Giving"],
+         "correct": 0,
+         "expl": "Opening this chapter's largest group of stories after ethics and giving."},
+    ],
+    marginalia=[
+        ("A trap in a single word", [
+            "'come' —",
+            "danger left unstated"
+        ]),
+        ("A literal promise kept", [
+            "'I am coming',",
+            "then he does"
+        ]),
+        ("A head as a stepping stone", [
+            "the crocodile's plan",
+            "defeated entirely"
+        ]),
+        ("A question the chapter raises", [
+            "literal truth,",
+            "or honored expectation?"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp27/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-26.html">Cp 26 &mdash; Temiya&rsquo;s Conduct</a> &mdash; the text '
+        "immediately before this one, closing the chapter on resolve.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 28 — Sacca Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    28, "Sacca Cariy&amacr;", "The Ascetic Truthful&rsquo;s Conduct",
+    meta_title="Cp 28 — The Ascetic Truthful's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Ascetic "
+        "Truthful's Conduct, the single shortest story in the entire Cariyapitaka — "
+        "just four lines, with no incident at all. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (2nd of 6)",
+    glance=[
+        ("Setting", "No narrative setting whatsoever; the Buddha speaks in the first "
+                    "person about his past life as an ascetic named Truthful"),
+        ("Speaker", "The Buddha, recounting his life as the ascetic Truthful"),
+        ("Form", "A single four-line verse &mdash; the shortest story in the entire "
+                 "Cariyapitaka"),
+        ("Length", "a few seconds to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; no narrative "
+                       "complexity at all, only what four lines can carry"),
+    ],
+    why=(
+        "This is the shortest of all thirty-five Cariyapitaka stories: one verse, no "
+        "crisis, no dialogue, no test to pass. Where Cp 27's monkey demonstrates "
+        "truthfulness through a clever escape under real pressure, this ascetic's "
+        "truthfulness is simply stated as a settled fact about who he was &mdash; a "
+        "reputation, not an episode."),
+    guide=[
+        ("The shortest story in the collection", [
+            "At a single four-line verse, this is shorter than every other story in "
+            "the Cariyapitaka, including Cp 5's three-verse Mahāgovinda &mdash; there "
+            "is simply less text here than anywhere else in the collection's thirty-"
+            "five stories."]),
+        ("A name that states the whole story", [
+            "The ascetic is identified only by his descriptive title, "
+            "&lsquo;Truthful&rsquo; &mdash; unlike most of this collection's figures, "
+            "who are named and then shown acting, this character's name and his "
+            "conduct are presented as the same thing."]),
+        ("Truth as a public, stabilizing force", [
+            "The verse's claim is social rather than personal: he &lsquo;protected the "
+            "world with his truth, uniting the people.&rsquo; Nothing in the text "
+            "describes a specific act of protection or unification &mdash; only the "
+            "general, sustained reputation for reliability that presumably made it "
+            "possible."]),
+        ("A deliberate contrast with the story before it", [
+            "Read directly after Cp 27's technically honest but strategically evasive "
+            "monkey, this story's plain, untested truthfulness reads almost as a "
+            "correction &mdash; where the monkey's truth served his own escape, this "
+            "ascetic's truth is described as serving everyone around him."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, the "
+         "second of six stories on this theme, and the very name this ascetic is "
+         "known by."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-eighth and shortest."),
+        ("saṅgaha",
+         "&ldquo;unification&rdquo; or &ldquo;inclusiveness&rdquo; &mdash; the effect "
+         "this text says the ascetic's truthfulness had on the people around him."),
+        ("Yudhañjaya-vagga",
+         "&ldquo;the Chapter With Yudhañjaya&rdquo; &mdash; this collection's third "
+         "chapter, continuing here with its six stories on truth."),
+        ("isi",
+         "&ldquo;seer&rdquo; or &ldquo;ascetic&rdquo; &mdash; the kind of figure "
+         "&lsquo;Truthful&rsquo; is described as."),
+    ],
+    text_intro=(
+        "The text in full: a single verse, the shortest story in the Cariyapitaka. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp28:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this story compare in length to every other story in the Cariyapitaka?",
+         "opts": [
+             "It is roughly average length",
+             "It is the shortest of all thirty-five stories, at a single verse",
+             "It is the longest story in the collection",
+             "It is tied for shortest with several others"],
+         "correct": 1,
+         "expl": "Shorter even than Cp 5's three-verse Mahāgovinda."},
+        {"q": "What is this ascetic's name?",
+         "opts": [
+             "No name is given at all",
+             "Truthful — a descriptive title rather than a personal name",
+             "Sacca-deva",
+             "Isi-vata"],
+         "correct": 1,
+         "expl": "His name and his conduct are presented as the same thing."},
+        {"q": "What specific incident does this story describe?",
+         "opts": [
+             "A detailed test of his honesty",
+             "None — no specific act or event is narrated at all",
+             "A conflict with a rival ascetic",
+             "A miraculous rescue"],
+         "correct": 1,
+         "expl": "A settled fact about who he was, not an episode."},
+        {"q": "What does the verse claim the ascetic's truthfulness accomplished?",
+         "opts": [
+             "Nothing in particular",
+             "He 'protected the world' with it and 'united the people'",
+             "It made him wealthy",
+             "It won him a kingdom"],
+         "correct": 1,
+         "expl": "A social, stabilizing effect rather than a personal outcome."},
+        {"q": "How does this story's truthfulness compare to Cp 27's monkey?",
+         "opts": [
+             "Identical in every way",
+             "The monkey's truth served his own escape under pressure; this ascetic's truth is described as serving everyone, with no pressure shown at all",
+             "This story shows no truthfulness at all",
+             "The monkey lied, while this ascetic did not"],
+         "correct": 1,
+         "expl": "A deliberate contrast between the collection's two adjacent truth-stories."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the second of six stories on this theme",
+             "Renunciation",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Continuing the sequence of six truth-stories in this chapter."},
+        {"q": "What does 'saṅgaha' refer to in this story?",
+         "opts": [
+             "A type of ascetic practice",
+             "'Unification' or 'inclusiveness' — the effect of the ascetic's truthfulness on the people",
+             "A geographic location",
+             "A ritual object"],
+         "correct": 1,
+         "expl": "Named as the outcome of his reputation for truth."},
+        {"q": "Does this story include any dialogue?",
+         "opts": [
+             "Yes, an extended exchange",
+             "No — there is no dialogue, crisis, or test of any kind",
+             "Only a single line of dialogue",
+             "The entire story is dialogue"],
+         "correct": 1,
+         "expl": "A settled reputation, stated rather than dramatized."},
+        {"q": "What perfection did the story immediately before this one illustrate?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the first of six stories on this theme",
+             "Resolve",
+             "Love"],
+         "correct": 1,
+         "expl": "Cp 27's monkey, opening the same chapter."},
+        {"q": "What does 'isi' mean?",
+         "opts": [
+             "'Seer' or 'ascetic' — the kind of figure this story describes",
+             "'King'",
+             "'Village'",
+             "'Truth'"],
+         "correct": 0,
+         "expl": "The identity given to 'Truthful' in this text."},
+    ],
+    marginalia=[
+        ("The shortest story", [
+            "one verse,",
+            "the whole collection's briefest"
+        ]),
+        ("A name as a summary", [
+            "'Truthful' —",
+            "name and conduct as one"
+        ]),
+        ("No incident at all", [
+            "a reputation stated,",
+            "not dramatized"
+        ]),
+        ("A contrast with Cp 27", [
+            "truth for everyone,",
+            "not for one escape"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp28/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-27.html">Cp 27 &mdash; The Monkey King&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, a study in contrast.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 29 — Vaṭṭaka Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    29, "Va&#7789;&#7789;aka Cariy&amacr;", "The Baby Quail&rsquo;s Conduct",
+    meta_title="Cp 29 — The Baby Quail's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Baby "
+        "Quail's Conduct, the Cariyapitaka's story of an abandoned, flightless chick "
+        "who stops a forest fire with a declaration of truth. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (3rd of 6)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as a newly hatched quail in Magadha"),
+        ("Speaker", "The Buddha, recounting his life as the baby quail"),
+        ("Form", "Eleven verses of first-person narration, including a formal "
+                 "declaration of truth"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; introduces a "
+                       "specific literary device worth understanding on its own terms"),
+    ],
+    why=(
+        "A newly hatched quail, too young to fly or walk, is abandoned by his fleeing "
+        "parents as a forest fire closes in. With no physical means of escape, he "
+        "does something this collection has not shown before: he makes a formal, "
+        "public &lsquo;declaration of truth&rsquo;, relying on the truth itself, "
+        "rather than any action, to turn the fire back."),
+    guide=[
+        ("A helplessness stated without embellishment", [
+            "The quail's situation is described in the plainest physical terms: "
+            "&lsquo;wings that do not fly&rsquo;, &lsquo;feet that do not walk&rsquo;, "
+            "abandoned in the nest by parents who saved themselves &mdash; no rescue "
+            "is coming, and no ordinary action is available to him."]),
+        ("A different kind of power invoked", [
+            "Facing the fire, the quail does not struggle or pray for aid; he invokes "
+            "&lsquo;the quality of virtue in the world, truth, purity, and mercy&rsquo; "
+            "directly, framing his own truthful statement as a real force with real "
+            "consequences, not merely words."]),
+        ("A declaration that states the situation exactly as it is", [
+            "The declaration itself is not a request or a wish; it simply restates the "
+            "quail's helplessness precisely: &lsquo;I have wings that do not fly! I "
+            "have feet that do not walk! Mother and father have fled!&rsquo; &mdash; "
+            "followed by a direct command to the fire itself: &lsquo;go back!&rsquo;"]),
+        ("An effect stated as immediate and total", [
+            "The story reports the result without qualification: the flames withdrew "
+            "sixteen leagues, &lsquo;as if they had come to water&rsquo;. This kind of "
+            "formal truth-telling with a claimed miraculous effect, sometimes called a "
+            "&lsquo;truth-act&rsquo; in scholarship on Indian literature, recurs again "
+            "in Cp 30's fish king and Cp 31's Dark Light."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, the "
+         "third of six stories on this theme."),
+        ("saccakiriyā",
+         "an &ldquo;act of truth&rdquo; or &ldquo;truth-act&rdquo; &mdash; a formal "
+         "declaration of a true fact, relied upon as a source of real power; this "
+         "story is the first of several examples of the device in this chapter."),
+        ("Magadha",
+         "the region named as the quail's home."),
+        ("Jātaveda",
+         "an epithet for fire, addressed directly in the quail's declaration "
+         "&mdash; &lsquo;Jātaveda the fire: go back!&rsquo;"),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-ninth."),
+    ],
+    text_intro=(
+        "The text in full: eleven verses, including the quail's formal declaration of "
+        "truth. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp29:1.1-1.4"),
+        ("p", "&sect;2", "cp29:2.1-2.4"),
+        ("p", "&sect;3", "cp29:3.1-3.4"),
+        ("p", "&sect;4", "cp29:4.1-4.4"),
+        ("p", "&sect;5", "cp29:5.1-5.4"),
+        ("p", "&sect;6", "cp29:6.1-6.4"),
+        ("p", "&sect;7", "cp29:7.1-7.4"),
+        ("p", "&sect;8", "cp29:8.1-8.4"),
+        ("p", "&sect;9", "cp29:9.1-9.4"),
+        ("p", "&sect;10", "cp29:10.1-10.4"),
+        ("p", "&sect;11", "cp29:11.1-11.6"),
+    ],
+    quiz=[
+        {"q": "What is the quail's physical condition when the fire approaches?",
+         "opts": [
+             "Fully grown and able to fly away",
+             "Newly hatched, with wings that don't fly and feet that don't walk",
+             "Injured from a previous attack",
+             "Asleep and unaware of the danger"],
+         "correct": 1,
+         "expl": "No ordinary means of escape available to him."},
+        {"q": "What do the quail's parents do as the fire approaches?",
+         "opts": [
+             "They stay and try to protect him",
+             "They flee, abandoning him in the nest to save themselves",
+             "They carry him to safety",
+             "They are killed trying to save him"],
+         "correct": 1,
+         "expl": "No rescue is coming."},
+        {"q": "What does the quail do instead of trying to physically escape?",
+         "opts": [
+             "He gives up and waits to die",
+             "He makes a formal declaration of truth, invoking truth itself as a real force",
+             "He calls out for other animals to help",
+             "He attempts to fly despite his condition"],
+         "correct": 1,
+         "expl": "Relying on truth rather than any physical action."},
+        {"q": "What does the quail's declaration actually say?",
+         "opts": [
+             "A request for the gods to intervene",
+             "A precise restatement of his own helplessness, followed by a command to the fire",
+             "A promise of future good deeds",
+             "A curse against the fire"],
+         "correct": 1,
+         "expl": "'I have wings that do not fly!... Jātaveda the fire: go back!'"},
+        {"q": "What is the stated result of the quail's declaration?",
+         "opts": [
+             "Nothing happens; the fire continues unabated",
+             "The flames withdraw sixteen leagues, 'as if they had come to water'",
+             "The quail is rescued by a passing traveler",
+             "The fire changes direction slightly"],
+         "correct": 1,
+         "expl": "An immediate, total effect, reported without qualification."},
+        {"q": "What is the technical term for this kind of formal truth-declaration with a claimed powerful effect?",
+         "opts": [
+             "Dhammavinaya",
+             "Saccakiriyā, a 'truth-act'",
+             "Paritta",
+             "Uposatha"],
+         "correct": 1,
+         "expl": "A device that recurs again in Cp 30 and Cp 31."},
+        {"q": "Where else in this chapter does the same kind of declaration reappear?",
+         "opts": [
+             "Nowhere else in this collection",
+             "Cp 30's fish king and Cp 31's Dark Light",
+             "Only in Cp 27's monkey story",
+             "In every single story in this chapter"],
+         "correct": 1,
+         "expl": "A recurring literary device across several of this chapter's stories."},
+        {"q": "What region is named as the quail's home?",
+         "opts": [
+             "Kāsi",
+             "Magadha",
+             "Kosala",
+             "Videha"],
+         "correct": 1,
+         "expl": "Named at the story's opening."},
+        {"q": "What does 'Jātaveda' refer to in this story?",
+         "opts": [
+             "The quail's own name",
+             "An epithet for fire, addressed directly in the declaration",
+             "A type of forest tree",
+             "The name of a deity who intervenes"],
+         "correct": 1,
+         "expl": "'Jātaveda the fire: go back!'"},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the third of six stories on this theme",
+             "Renunciation",
+             "Love"],
+         "correct": 1,
+         "expl": "Continuing the sequence of six truth-stories in this chapter."},
+    ],
+    marginalia=[
+        ("Wings that don't fly", [
+            "no ordinary escape",
+            "available to him"
+        ]),
+        ("Abandoned by his parents", [
+            "fleeing to",
+            "save themselves"
+        ]),
+        ("A declaration, not an action", [
+            "truth invoked",
+            "as a real force"
+        ]),
+        ("Flames withdrawn at once", [
+            "sixteen leagues,",
+            "'as if to water'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp29/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-28.html">Cp 28 &mdash; The Ascetic Truthful&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 30 — Maccharāja Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    30, "Macchar&amacr;ja Cariy&amacr;", "The Fish King&rsquo;s Conduct",
+    meta_title="Cp 30 — The Fish King's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Fish "
+        "King's Conduct, the Cariyapitaka's second act-of-truth story — a drought, a "
+        "declaration of non-harm, and rain summoned to save a lake. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (4th of 6)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as a fish king in a drying lake"),
+        ("Speaker", "The Buddha, recounting his life as the fish king"),
+        ("Form", "Nine verses of first-person narration, including a formal "
+                 "declaration of truth"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a second, "
+                       "structurally similar example of the truth-act device"),
+    ],
+    why=(
+        "Following directly on Cp 29's quail, this story shows the same device "
+        "&mdash; a formal declaration of truth, relied on for a real effect &mdash; "
+        "used at a larger scale: a drought has emptied a lake, scavenging birds are "
+        "devouring the trapped fish daily, and their king declares a specific truth "
+        "about his own past conduct to summon rain."),
+    guide=[
+        ("A slow disaster, not a sudden one", [
+            "Unlike Cp 29's fire, this crisis unfolds gradually: the lake's water "
+            "evaporates in the heat, and crows, vultures, herons, hawks, and falcons "
+            "descend to feed on the exposed fish &lsquo;day and night&rsquo;, an "
+            "ongoing predation rather than a single moment of danger."]),
+        ("A truth chosen deliberately as the tool", [
+            "Considering how to help his relatives, the fish king does not attempt a "
+            "physical solution; he explicitly &lsquo;saw the truth as a support&rsquo; "
+            "and decides in advance to rely on a declaration."]),
+        ("A very specific truth, stated as the basis for the claim", [
+            "The truth he declares is precise: &lsquo;so long as I can recall myself, "
+            "since I became aware, I do not recall deliberately harming even a single "
+            "living creature.&rsquo; The power of the declaration rests on the "
+            "specificity and accuracy of this claim about his own past, not on a "
+            "general appeal."]),
+        ("A named deity addressed directly, and an immediate response", [
+            "The fish king calls out to Pajjuna, a rain deity, by name, asking that "
+            "the crow's hunting ground be disrupted and the fish freed from sorrow. "
+            "The response is immediate: thunder, then rain pouring down over "
+            "&lsquo;the uplands and valleys&rsquo; without delay."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, the "
+         "fourth of six stories on this theme."),
+        ("saccakiriyā",
+         "an &ldquo;act of truth&rdquo;, the same device used in Cp 29's story of the "
+         "baby quail, here applied to save an entire community of fish rather than "
+         "one individual."),
+        ("Pajjuna",
+         "a deity associated with rain and storms, addressed directly in the fish "
+         "king's declaration."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirtieth."),
+        ("ahiṁsā",
+         "&ldquo;non-harm&rdquo; &mdash; not named directly in this translation, but "
+         "the substance of the specific truth the fish king declares about his own "
+         "past conduct."),
+    ],
+    text_intro=(
+        "The text in full: nine verses, including the fish king's declaration of "
+        "truth. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp30:1.1-1.4"),
+        ("p", "&sect;2", "cp30:2.1-2.4"),
+        ("p", "&sect;3", "cp30:3.1-3.4"),
+        ("p", "&sect;4", "cp30:4.1-4.4"),
+        ("p", "&sect;5", "cp30:5.1-5.4"),
+        ("p", "&sect;6", "cp30:6.1-6.4"),
+        ("p", "&sect;7", "cp30:7.1-7.6"),
+        ("p", "&sect;8", "cp30:8.1-8.4"),
+        ("p", "&sect;9", "cp30:9.1-9.6"),
+    ],
+    quiz=[
+        {"q": "How does this story's crisis unfold, compared to Cp 29's forest fire?",
+         "opts": [
+             "Identically — a sudden, single moment of danger",
+             "Gradually — a drought empties the lake, and scavenging birds prey on the fish over time",
+             "There is no crisis in this story",
+             "The crisis is resolved before it begins"],
+         "correct": 1,
+         "expl": "Ongoing predation, not a single sudden threat."},
+        {"q": "What does the fish king decide to rely on, rather than a physical solution?",
+         "opts": [
+             "Fleeing with his relatives to another lake",
+             "A declaration of truth, seeing 'the truth as a support'",
+             "Fighting off the birds directly",
+             "Waiting passively for the rain to come naturally"],
+         "correct": 1,
+         "expl": "A tool chosen deliberately, as in Cp 29."},
+        {"q": "What specific truth does the fish king declare?",
+         "opts": [
+             "That he is the strongest fish in the lake",
+             "That he does not recall ever deliberately harming a single living creature",
+             "That the birds deserve punishment",
+             "That the drought will end naturally"],
+         "correct": 1,
+         "expl": "The power of the declaration rests on this claim's specificity and accuracy."},
+        {"q": "Who does the fish king address directly in his declaration?",
+         "opts": [
+             "The king of the birds",
+             "Pajjuna, a deity associated with rain",
+             "Sakka",
+             "No one is addressed directly"],
+         "correct": 1,
+         "expl": "Naming the deity whose response he seeks."},
+        {"q": "What is the result of the fish king's declaration?",
+         "opts": [
+             "Nothing happens",
+             "Thunder, then immediate rain pouring down over the uplands and valleys",
+             "The birds simply lose interest and leave",
+             "The lake refills gradually over many months"],
+         "correct": 1,
+         "expl": "An immediate response, without delay."},
+        {"q": "How does this story relate to Cp 29's baby quail?",
+         "opts": [
+             "They are unrelated in theme and structure",
+             "Both use the same 'act of truth' device, applied at different scales",
+             "This story contradicts Cp 29's approach",
+             "Only this story actually succeeds"],
+         "correct": 1,
+         "expl": "The same device, here saving a whole community rather than one individual."},
+        {"q": "What does 'saccakiriyā' mean?",
+         "opts": [
+             "'Act of truth' — a formal declaration relied on for a real effect",
+             "'Rain deity'",
+             "'Fish king'",
+             "'Drought'"],
+         "correct": 0,
+         "expl": "The device shared between this story and Cp 29's."},
+        {"q": "What creatures does the text name as preying on the trapped fish?",
+         "opts": [
+             "Only crows",
+             "Crows, vultures, herons, hawks, and falcons",
+             "Only a single vulture",
+             "No predators are named"],
+         "correct": 1,
+         "expl": "A range of scavenging and hunting birds."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the fourth of six stories on this theme",
+             "Renunciation",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "Continuing the sequence of six truth-stories in this chapter."},
+        {"q": "What relationship do the fish being preyed upon have to the fish king?",
+         "opts": [
+             "They are strangers to him",
+             "They are described as his relatives",
+             "They are his rivals",
+             "No relationship is specified"],
+         "correct": 1,
+         "expl": "Making the crisis a personal one, not just a general disaster."},
+    ],
+    marginalia=[
+        ("A slow disaster", [
+            "birds preying",
+            "day and night"
+        ]),
+        ("Truth chosen deliberately", [
+            "as the tool,",
+            "not a last resort"
+        ]),
+        ("A precise claim", [
+            "never deliberately",
+            "harmed a living creature"
+        ]),
+        ("Rain, without delay", [
+            "thunder, then",
+            "an immediate downpour"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp30/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-29.html">Cp 29 &mdash; The Baby Quail&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, the collection's other "
+        "act-of-truth story so far.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 31 — Kaṇhadīpāyana Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    31, "Ka&#7751;had&imacr;p&amacr;yana Cariy&amacr;", "Dark Light&rsquo;s Conduct",
+    meta_title="Cp 31 — Dark Light's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Dark Light's "
+        "Conduct, the Cariyapitaka's most unusual act-of-truth story — a seer cures "
+        "snake poison by confessing fifty years of private dissatisfaction. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (5th of 6)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as the seer Dark Light"),
+        ("Speaker", "The Buddha, recounting his life as the seer, addressing the "
+                    "parents of a poisoned boy"),
+        ("Form", "Thirteen verses of first-person narration, including a formal "
+                 "declaration of truth"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the collection's "
+                       "most conceptually unusual story, worth reading closely"),
+    ],
+    why=(
+        "This story shares its basic device with Cp 29 and Cp 30 &mdash; a formal "
+        "declaration of truth, producing a real effect &mdash; but breaks sharply "
+        "with them in content. Where the quail and the fish king declared truths that "
+        "reflected well on themselves, the seer Dark Light cures a poisoned boy by "
+        "confessing something almost no one would willingly admit: that for fifty "
+        "years, his own spiritual life has left him unsatisfied."),
+    guide=[
+        ("A private dissatisfaction, kept secret for decades", [
+            "For more than fifty years the seer lived, in his own words, "
+            "&lsquo;dissatisfied&rsquo; &mdash; and told no one. The text is explicit "
+            "that this was a private, ongoing state, not a passing mood: &lsquo;it "
+            "only went on in my mind.&rsquo;"]),
+        ("A crisis that has nothing to do with his own struggle", [
+            "The emergency that draws out his confession is external: a boy, son of "
+            "visiting friends, is bitten by a viper after touching it by accident, and "
+            "collapses &mdash; the seer's own decades of quiet dissatisfaction have no "
+            "obvious connection to this at all."]),
+        ("An unflattering truth, declared as the cure", [
+            "Rather than declaring a truth about virtue or non-harm, as in Cp 29 and Cp "
+            "30, the seer declares the opposite kind of fact: &lsquo;for just seven "
+            "days with a mind of faith I led the spiritual life seeking merit. My life "
+            "since then, for fifty years or more, I have lived unwillingly.&rsquo; This "
+            "is a confession, not a claim to virtue."]),
+        ("The truth's power independent of what it reveals", [
+            "The declaration works exactly as the other truth-acts in this chapter do "
+            "&mdash; the boy recovers immediately. The story implies that the power of "
+            "a saccakiriyā rests on the accuracy of what is declared, not on whether "
+            "the content reflects well on the one declaring it."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, the "
+         "fifth of six stories on this theme."),
+        ("saccakiriyā",
+         "an &ldquo;act of truth&rdquo;, here declaring an unflattering private fact "
+         "rather than a claim to virtue, unlike Cp 29's and Cp 30's examples."),
+        ("Maṇḍabya",
+         "a fellow seer and spiritual companion of Dark Light's, whom he nurses back "
+         "to health after Maṇḍabya is impaled on a stake, earlier in this story."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirty-first."),
+        ("Yaññadatta",
+         "the name given to the poisoned boy in the seer's own declaration of truth."),
+    ],
+    text_intro=(
+        "The text in full: thirteen verses, including the seer's unusual declaration "
+        "of truth. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Fifty years of private dissatisfaction"),
+        ("p", "&sect;1", "cp31:1.1-1.4"),
+        ("p", "&sect;2", "cp31:2.1-2.4"),
+        ("h3", "A friend nursed, then a crisis with strangers"),
+        ("p", "&sect;3", "cp31:3.1-3.4"),
+        ("p", "&sect;4", "cp31:4.1-4.4"),
+        ("p", "&sect;5", "cp31:5.1-5.4"),
+        ("p", "&sect;6", "cp31:6.1-6.4"),
+        ("p", "&sect;7", "cp31:7.1-7.4"),
+        ("p", "&sect;8", "cp31:8.1-8.4"),
+        ("p", "&sect;9", "cp31:9.1-9.4"),
+        ("h3", "A confession as the cure"),
+        ("p", "&sect;10", "cp31:10.1-10.4"),
+        ("p", "&sect;11", "cp31:11.1-11.4"),
+        ("p", "&sect;12", "cp31:12.1-12.3"),
+        ("p", "&sect;13", "cp31:13.1-13.6"),
+    ],
+    quiz=[
+        {"q": "What does Dark Light keep secret for more than fifty years?",
+         "opts": [
+             "A great treasure",
+             "His own ongoing dissatisfaction with his spiritual life",
+             "A crime he committed",
+             "His true identity"],
+         "correct": 1,
+         "expl": "'It only went on in my mind' — private, not a passing mood."},
+        {"q": "What crisis prompts the seer's declaration of truth?",
+         "opts": [
+             "His own illness",
+             "A visiting friend's son is bitten by a viper and collapses",
+             "A drought threatens his hermitage",
+             "An attack by bandits"],
+         "correct": 1,
+         "expl": "An emergency with no obvious connection to his own private struggle."},
+        {"q": "How does this story's declaration of truth differ from Cp 29's and Cp 30's?",
+         "opts": [
+             "It is identical in content and structure",
+             "It confesses an unflattering private fact rather than claiming virtue",
+             "It involves no declaration of truth at all",
+             "It is spoken by someone else, not the seer himself"],
+         "correct": 1,
+         "expl": "A sharp break in content while sharing the same underlying device."},
+        {"q": "What exactly does the seer declare?",
+         "opts": [
+             "That he has never harmed a living creature",
+             "That only his first seven days of spiritual life were willing; the other fifty-plus years were lived unwillingly",
+             "That he possesses great magical power",
+             "That the boy deserves to recover"],
+         "correct": 1,
+         "expl": "A confession, not a claim to virtue."},
+        {"q": "What happens after the seer makes this declaration?",
+         "opts": [
+             "Nothing changes",
+             "The boy recovers immediately, just as in Cp 29's and Cp 30's declarations",
+             "The boy's condition worsens",
+             "The declaration is rejected as insufficient"],
+         "correct": 1,
+         "expl": "The same immediate effect as the other truth-acts in this chapter."},
+        {"q": "What does this story suggest about the source of a truth-act's power?",
+         "opts": [
+             "It only works when the declared truth is flattering to the speaker",
+             "It rests on the accuracy of what is declared, not on whether it reflects well on the speaker",
+             "It requires the declaration to be about someone else",
+             "It has no connection to the truth of the statement at all"],
+         "correct": 1,
+         "expl": "An unflattering truth works exactly as well as a flattering one."},
+        {"q": "Who is Maṇḍabya, and what happens to him earlier in this story?",
+         "opts": [
+             "A stranger the seer has never met",
+             "A fellow seer and friend, whom Dark Light nurses back to health after he is impaled on a stake",
+             "The name of the poisoned boy",
+             "A king who visits the hermitage"],
+         "correct": 1,
+         "expl": "An earlier episode of care, before the main crisis of the story."},
+        {"q": "What name does the seer give the poisoned boy in his declaration?",
+         "opts": [
+             "Maṇḍabya",
+             "Yaññadatta",
+             "Somanassa",
+             "Jāli"],
+         "correct": 1,
+         "expl": "Named directly: 'May the poison die! May Yaññadatta live!'"},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the fifth of six stories on this theme",
+             "Renunciation",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Continuing the sequence of six truth-stories in this chapter, its most unusual example."},
+        {"q": "How is this story's difficulty rating best justified?",
+         "opts": [
+             "The vocabulary is unusually obscure",
+             "It is the collection's most conceptually unusual story, complicating what a 'truth-act' can be about",
+             "It is written in an unfamiliar verse meter",
+             "It requires knowledge of a separate untranslated text"],
+         "correct": 1,
+         "expl": "Worth reading closely for what it implies about truthfulness itself."},
+    ],
+    marginalia=[
+        ("Fifty years, unspoken", [
+            "a private",
+            "dissatisfaction"
+        ]),
+        ("A stranger's crisis", [
+            "unconnected to",
+            "his own struggle"
+        ]),
+        ("An unflattering confession", [
+            "not virtue claimed,",
+            "but honesty"
+        ]),
+        ("The same cure, regardless", [
+            "truth works,",
+            "whatever it reveals"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp31/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-30.html">Cp 30 &mdash; The Fish King&rsquo;s Conduct</a> &mdash; '
+        "the text immediately before this one, another act-of-truth story.",
+        '<a href="cp-29.html">Cp 29 &mdash; The Baby Quail&rsquo;s Conduct</a> '
+        "&mdash; the first of this chapter's three act-of-truth stories.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 32 — Sutasoma Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    32, "Sutasoma Cariy&amacr;", "Sutasoma&rsquo;s Conduct",
+    meta_title="Cp 32 — Sutasoma's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Sutasoma's "
+        "Conduct, closing the Cariyapitaka's chapter on truth with a king who keeps "
+        "a promise to a cannibal, expecting certain death. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Truth (6th of 6)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as King Sutasoma"),
+        ("Speaker", "The Buddha, recounting his life as Sutasoma, with a brief "
+                    "exchange with a cannibal"),
+        ("Form", "Six verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "Sutasoma is the subject of his own jātaka in the wider "
+                              "tradition; this reading guide does not assert a specific "
+                              "matching number."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a plain, direct "
+                       "story closing the chapter on its starkest note"),
+    ],
+    why=(
+        "This story closes the truth chapter with no clever escape and no miraculous "
+        "declaration &mdash; only a king, captured by a cannibal who has already "
+        "strung up and drained a hundred warriors, granted temporary release on a "
+        "promise to return, who then keeps that promise fully expecting to die."),
+    guide=[
+        ("A captor already shown to be lethal", [
+            "Before Sutasoma is even introduced to the reader's attention, the text "
+            "establishes exactly what kind of danger he faces: a hundred aristocrat "
+            "warriors already strung up by their hands, drained of blood, brought for "
+            "sacrifice &mdash; there is no ambiguity about what awaits a broken "
+            "promise here."]),
+        ("A release granted on trust alone", [
+            "The cannibal's offer is oddly formal for someone so violent: "
+            "&lsquo;what do you wish for &mdash; release? I shall act as you think, so "
+            "long as you will return.&rsquo; Sutasoma's word is treated, even by his "
+            "captor, as sufficient security."]),
+        ("A debt settled before the return", [
+            "Given his freedom, Sutasoma does not flee or fortify his city; he uses "
+            "the time to give money to a brahmin, settling an obligation, before "
+            "renouncing kingship and going back to the cannibal exactly as promised."]),
+        ("No escape, no miracle, only a kept word", [
+            "The story closes without any of the reversals seen elsewhere in this "
+            "chapter: no clever technicality like Cp 27's monkey, no declaration that "
+            "changes the outcome like Cp 29 through Cp 31. Sutasoma states plainly, "
+            "&lsquo;I had no doubt that he was going to kill me&rsquo;, and returns "
+            "anyway, closing the chapter on its most unadorned example of what keeping "
+            "one's word can cost."]),
+    ],
+    terms=[
+        ("sacca",
+         "&ldquo;truth&rdquo; &mdash; the perfection this story illustrates, closing "
+         "this chapter's six stories on the theme."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirty-second."),
+        ("Yudhañjaya-vagga",
+         "&ldquo;the Chapter With Yudhañjaya&rdquo; &mdash; this collection's third "
+         "chapter, now moving from truth into its final two themes, love and "
+         "equanimity."),
+        ("Sutasoma Jātaka",
+         "the fuller version of this story in the separate Jātaka tradition, not "
+         "otherwise covered on this site."),
+        ("pabbajjā",
+         "&ldquo;going forth&rdquo; &mdash; the renunciation of kingship Sutasoma "
+         "undertakes in the brief window between his release and his return to the "
+         "cannibal."),
+    ],
+    text_intro=(
+        "The text in full: six verses, closing the Cariyapitaka's chapter on truth. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp32:1.1-1.4"),
+        ("p", "&sect;2", "cp32:2.1-2.4"),
+        ("p", "&sect;3", "cp32:3.1-3.4"),
+        ("p", "&sect;4", "cp32:4.1-4.4"),
+        ("p", "&sect;5", "cp32:5.1-5.4"),
+        ("p", "&sect;6", "cp32:6.1-6.6"),
+    ],
+    quiz=[
+        {"q": "What has the cannibal already done to a hundred warriors before this story's main events?",
+         "opts": [
+             "Released them all unharmed",
+             "Strung them up by their hands and drained their blood",
+             "Made them his servants",
+             "Nothing is said about other warriors"],
+         "correct": 1,
+         "expl": "Establishing exactly what kind of danger Sutasoma faces."},
+        {"q": "What does the cannibal offer Sutasoma?",
+         "opts": [
+             "Immediate death with no discussion",
+             "Temporary release, on the condition that he will return",
+             "A trade of places with another prisoner",
+             "Nothing; Sutasoma is never released"],
+         "correct": 1,
+         "expl": "The king's word treated as sufficient security by his own captor."},
+        {"q": "What does Sutasoma do with his temporary freedom?",
+         "opts": [
+             "He flees to a distant kingdom",
+             "He fortifies his city against attack",
+             "He settles a debt with a brahmin and renounces kingship",
+             "He raises an army to fight the cannibal"],
+         "correct": 2,
+         "expl": "Using the time to settle an obligation, not to escape his promise."},
+        {"q": "Does Sutasoma attempt to avoid returning to the cannibal?",
+         "opts": [
+             "Yes, he breaks his promise",
+             "No — he returns exactly as promised",
+             "He sends someone else in his place",
+             "The story does not say whether he returns"],
+         "correct": 1,
+         "expl": "Keeping his word despite having every opportunity to flee."},
+        {"q": "Does Sutasoma expect to survive his return?",
+         "opts": [
+             "Yes, he is certain of a clever escape",
+             "No — 'I had no doubt that he was going to kill me'",
+             "The text leaves this unclear",
+             "He expects to be rescued at the last moment"],
+         "correct": 1,
+         "expl": "Returning with full awareness of the likely outcome."},
+        {"q": "How does this story's resolution differ from Cp 27's, Cp 29's, Cp 30's, and Cp 31's?",
+         "opts": [
+             "It uses the same clever technicality as Cp 27",
+             "It uses the same declaration-of-truth device as Cp 29 through Cp 31",
+             "It has no reversal or miracle at all — just a kept promise",
+             "It is the only story where the character breaks their word"],
+         "correct": 2,
+         "expl": "The chapter's most unadorned example of what truthfulness can cost."},
+        {"q": "What perfection does this story close out?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), the sixth and final story of this theme",
+             "Renunciation",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Six stories on truth conclude here."},
+        {"q": "What two themes does this collection's chapter move to next, after truth?",
+         "opts": [
+             "Giving and ethics",
+             "Love and equanimity",
+             "Renunciation and resolve",
+             "The collection ends here"],
+         "correct": 1,
+         "expl": "Two stories on love, then one on equanimity, closing the whole collection."},
+        {"q": "What does Sutasoma's story share with Cp 19's Alīnasattu?",
+         "opts": [
+             "Nothing; the two stories are unrelated",
+             "Both involve a cannibal captor and a character facing likely death calmly",
+             "Both stories involve a viper bite",
+             "Both are the shortest stories in their chapters"],
+         "correct": 1,
+         "expl": "A recurring cannibal motif across this collection's final chapter."},
+        {"q": "What does 'pabbajjā' mean, as used in this story?",
+         "opts": [
+             "'Going forth' — the renunciation Sutasoma undertakes before returning to the cannibal",
+             "'Blood debt'",
+             "'Broken promise'",
+             "'Royal decree'"],
+         "correct": 0,
+         "expl": "Undertaken in the brief window of his freedom."},
+    ],
+    marginalia=[
+        ("A captor already lethal", [
+            "a hundred warriors,",
+            "drained already"
+        ]),
+        ("Released on his word alone", [
+            "no guarantee",
+            "but a promise"
+        ]),
+        ("A debt settled first", [
+            "before returning,",
+            "not fleeing"
+        ]),
+        ("No escape, no miracle", [
+            "just a promise",
+            "kept anyway"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp32/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-31.html">Cp 31 &mdash; Dark Light&rsquo;s Conduct</a> &mdash; '
+        "the text immediately before this one, closing the chapter on truth.",
+        '<a href="cp-19.html">Cp 19 &mdash; Al&imacr;nasattu&rsquo;s Conduct</a> '
+        "&mdash; another story of a captive cannibal encounter.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 33 — Suvaṇṇasāma Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    33, "Suva&#7751;&#7751;as&amacr;ma Cariy&amacr;", "Goldblack&rsquo;s Conduct",
+    meta_title="Cp 33 — Goldblack's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Goldblack's "
+        "Conduct, opening the Cariyapitaka's chapter on loving-kindness with a figure "
+        "who lives fearlessly among lions and tigers. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Love (1st of 2)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Sāma, a figure created by Sakka, "
+                    "living in a forest full of predators"),
+        ("Speaker", "The Buddha, recounting his life as Sāma"),
+        ("Form", "Three four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A figure named Suvaṇṇasāma is the subject of his own "
+                              "jātaka in the wider tradition; this reading guide does "
+                              "not assert a specific matching number."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a short, peaceful "
+                       "story opening the collection's penultimate theme"),
+    ],
+    why=(
+        "This story opens the Cariyapitaka's chapter on loving-kindness with an image "
+        "rather than a crisis: a figure created by Sakka lives surrounded by lions, "
+        "tigers, leopards, bears, and the animals those predators would ordinarily "
+        "hunt, all coexisting without fear &mdash; sustained, the text says, purely by "
+        "the power of love."),
+    guide=[
+        ("An unusual origin, stated without elaboration", [
+            "Sāma is described as &lsquo;created by Sakka&rsquo;, a detail the text "
+            "does not explain further &mdash; a different kind of beginning than the "
+            "births, ordinary or unusual, that open most of this collection's other "
+            "stories."]),
+        ("Predator and prey together, without incident", [
+            "The forest Sāma inhabits holds lions and tigers alongside leopards, "
+            "bears, buffaloes, spotted deer, and wild boar &mdash; species that would "
+            "ordinarily prey on one another, gathered in a single list with no "
+            "predation described taking place."]),
+        ("Fearlessness stated as mutual, not one-directional", [
+            "The text is specific about the relationship: &lsquo;none were scared of "
+            "me, nor I of them&rsquo; &mdash; loving-kindness here is not simply Sāma's "
+            "own emotional state but a shared condition affecting how every creature "
+            "in the forest related to every other."]),
+        ("A different kind of perfection story", [
+            "Unlike nearly every other story in this collection, this one describes no "
+            "test, no threat, and no decision under pressure &mdash; only a sustained "
+            "condition, described directly as delightful rather than as an achievement "
+            "won through struggle."]),
+    ],
+    terms=[
+        ("mettā",
+         "&ldquo;loving-kindness&rdquo; &mdash; the perfection this story illustrates, "
+         "the first of two stories on this theme, and the same central practice "
+         "taught in Kp 9 and Snp 1.8, the Metta Sutta."),
+        ("Sakka",
+         "king of the gods, described here as Sāma's creator, a detail unique to this "
+         "story among this collection's many appearances of Sakka."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirty-third."),
+        ("Suvaṇṇasāma Jātaka",
+         "the fuller version of this story in the separate Jātaka tradition, not "
+         "otherwise covered on this site."),
+        ("Yudhañjaya-vagga",
+         "&ldquo;the Chapter With Yudhañjaya&rdquo; &mdash; this collection's third "
+         "chapter, now in its penultimate theme."),
+    ],
+    text_intro=(
+        "The text in full: three verses, opening the Cariyapitaka's chapter on "
+        "loving-kindness. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp33:1.1-1.4"),
+        ("p", "&sect;2", "cp33:2.1-2.4"),
+        ("p", "&sect;3", "cp33:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How is Sāma's origin described in this text?",
+         "opts": [
+             "Born to human parents, like most figures in this collection",
+             "Created by Sakka, a detail left unexplained",
+             "Hatched from an egg",
+             "No origin is given at all"],
+         "correct": 1,
+         "expl": "A different kind of beginning than most other stories in this collection."},
+        {"q": "What kinds of animals does Sāma live among?",
+         "opts": [
+             "Only gentle herbivores",
+             "Lions, tigers, leopards, bears, buffaloes, spotted deer, and wild boar together",
+             "Only predators, with no prey species present",
+             "Domesticated farm animals"],
+         "correct": 1,
+         "expl": "Predators and prey gathered in the same list, without incident."},
+        {"q": "How does the text describe the fear between Sāma and the animals?",
+         "opts": [
+             "Only the animals fear Sāma",
+             "Only Sāma fears the animals",
+             "'None were scared of me, nor I of them' — a mutual condition",
+             "Fear is not addressed in the text"],
+         "correct": 2,
+         "expl": "A shared condition, not one-directional."},
+        {"q": "What does the text say sustains this peaceful coexistence?",
+         "opts": [
+             "Sāma's physical strength",
+             "The power of love (mettā)",
+             "A magical barrier",
+             "Fear of Sakka's punishment"],
+         "correct": 1,
+         "expl": "Named directly as the sustaining force."},
+        {"q": "How does this story differ structurally from most others in this collection?",
+         "opts": [
+             "It describes no test, threat, or decision under pressure — only a sustained peaceful condition",
+             "It is the longest story in the collection",
+             "It is the only story with no animals present",
+             "It follows an identical structure to every other story"],
+         "correct": 0,
+         "expl": "Described as delightful rather than as an achievement won through struggle."},
+        {"q": "What perfection does this story open, and how many stories does this chapter give it?",
+         "opts": [
+             "Truth; six stories",
+             "Love (mettā); two stories",
+             "Equanimity; one story",
+             "Resolve; one story"],
+         "correct": 1,
+         "expl": "The fourth of the third chapter's five themes."},
+        {"q": "What other texts on this site teach the same central practice named here?",
+         "opts": [
+             "No other texts on this site cover this theme",
+             "Kp 9 and Snp 1.8, both called the Metta Sutta",
+             "Only the Dhammapada",
+             "Only the Ratana Sutta"],
+         "correct": 1,
+         "expl": "The same practice of loving-kindness, in a very different form here."},
+        {"q": "What role does Sakka play in this particular story, unique among this collection's other Sakka appearances?",
+         "opts": [
+             "He tests the protagonist's resolve",
+             "He is described as Sāma's creator",
+             "He disguises himself as a beggar",
+             "Sakka does not appear in this story"],
+         "correct": 1,
+         "expl": "Different from Sakka's usual role elsewhere in the Cariyapitaka."},
+        {"q": "What perfection did the previous chapter section (Cp 27–32) cover?",
+         "opts": [
+             "Ethics",
+             "Truth (sacca), across six stories",
+             "Giving",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Now followed by two stories on love."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Truth",
+             "Love (mettā), the first of two stories on this theme",
+             "Renunciation",
+             "Ethics"],
+         "correct": 1,
+         "expl": "Opening this chapter's final pair of stories before equanimity closes the collection."},
+    ],
+    marginalia=[
+        ("Created by Sakka", [
+            "a detail left",
+            "unexplained"
+        ]),
+        ("Predator and prey together", [
+            "lions, tigers, deer,",
+            "boar, unharmed"
+        ]),
+        ("A mutual fearlessness", [
+            "'none were scared",
+            "of me, nor I of them'"
+        ]),
+        ("No test, only a condition", [
+            "sustained,",
+            "not struggled for"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp33/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-32.html">Cp 32 &mdash; Sutasoma&rsquo;s Conduct</a> &mdash; the '
+        "text immediately before this one, closing the chapter on truth.",
+        '<a href="../khuddakapatha/kp-9.html">Kp 9 &mdash; The Discourse on Love</a> '
+        "&mdash; the Khuddakapatha's own text on this same practice of loving-"
+        "kindness.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 34 — Ekarāja Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    34, "Ekar&amacr;ja Cariy&amacr;", "The One King&rsquo;s Conduct",
+    meta_title="Cp 34 — The One King's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The One King's "
+        "Conduct, closing the Cariyapitaka's chapter on loving-kindness with a "
+        "calamity described in full but its resolution left entirely untold. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Love (2nd of 2)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as a just king, ruling the whole "
+                    "earth"),
+        ("Speaker", "The Buddha, recounting his life as the One King"),
+        ("Form", "Five verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, but ends on "
+                       "its claim before showing the conduct that earns it"),
+    ],
+    why=(
+        "This is the most abrupt story in the whole collection: a diligent, "
+        "ethical king is overthrown, his city sacked, his court and family captured, "
+        "and he himself buried in a pit &mdash; and then, without narrating any act "
+        "of forgiveness, mercy, or restraint toward the man who did this to him, the "
+        "text simply declares, &lsquo;there is no-one to equal my love: this is my "
+        "perfection of love.&rsquo;"),
+    guide=[
+        ("A model ruler, established briefly", [
+            "The opening verses establish the king's character economically: "
+            "&lsquo;resolved on highest ethics&rsquo;, following the ten skillful "
+            "deeds without exception, using the four ways of being inclusive to unite "
+            "his population &mdash; a ruler doing everything right."]),
+        ("A sudden, total reversal", [
+            "Dabbasena's attack is described with no warning and no buildup: the city "
+            "is sacked, the king's dependents, military, and citizens are all "
+            "captured, and the king himself is buried in a pit &mdash; a complete "
+            "collapse compressed into a single verse."]),
+        ("A claim made without its evidence shown", [
+            "Unlike Cp 33's Sāma, whose peaceful coexistence with the forest's animals "
+            "is at least described directly, this story never shows what loving-"
+            "kindness toward Dabbasena, or toward anyone else in this crisis, actually "
+            "looked like. The text moves from calamity straight to the claim of "
+            "perfected love, with the demonstrating action itself left out entirely."]),
+        ("The most extreme gap in a collection full of them", [
+            "Several stories in this collection leave a resolution untold &mdash; Cp "
+            "9's Vessantara, Cp 19's Alīnasattu, Cp 26's Temiya. This story goes "
+            "further: it is not the outcome that goes unnarrated here, but the entire "
+            "action the title perfection is named for. What the fuller Ekarāja "
+            "tradition presumably shows &mdash; forgiveness, or restraint toward a "
+            "captor &mdash; this particular verse selection does not include at all."]),
+    ],
+    terms=[
+        ("mettā",
+         "&ldquo;loving-kindness&rdquo; &mdash; the perfection this story illustrates, "
+         "closing this chapter's two stories on the theme."),
+        ("dasakusalakammapatha",
+         "the &ldquo;ten skillful deeds&rdquo;, the same standard named in Cp 3 and Cp "
+         "18, followed here &lsquo;without exception&rsquo; by the king before his "
+         "downfall."),
+        ("saṅgahavatthu",
+         "the &ldquo;four ways of being inclusive&rdquo; &mdash; the methods the king "
+         "uses to unite his population, named directly in this text."),
+        ("Dabbasena",
+         "the attacker who sacks the king's city and buries him in a pit; the text "
+         "gives no further detail about him or what became of the conflict."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirty-fourth."),
+    ],
+    text_intro=(
+        "The text in full: five verses, closing the Cariyapitaka's chapter on "
+        "loving-kindness. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp34:1.1-1.4"),
+        ("p", "&sect;2", "cp34:2.1-2.4"),
+        ("p", "&sect;3", "cp34:3.1-3.4"),
+        ("p", "&sect;4", "cp34:4.1-4.4"),
+        ("p", "&sect;5", "cp34:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "How is the king's character established at this story's opening?",
+         "opts": [
+             "As cruel and self-serving",
+             "As a model ruler, resolved on highest ethics and uniting his people",
+             "As weak and indecisive",
+             "No character description is given"],
+         "correct": 1,
+         "expl": "Following the ten skillful deeds without exception."},
+        {"q": "What happens to the king's city and family?",
+         "opts": [
+             "Nothing; the kingdom remains at peace throughout",
+             "The city is sacked, his family and court captured, and he is buried in a pit",
+             "The king successfully repels the attack",
+             "He voluntarily abdicates"],
+         "correct": 1,
+         "expl": "A complete, sudden reversal compressed into a single verse."},
+        {"q": "Who attacks the king, and what further detail does the text give about him?",
+         "opts": [
+             "Dabbasena; the text gives extensive backstory",
+             "Dabbasena; the text gives no further detail about him at all",
+             "No attacker is named",
+             "The king attacks himself in a moment of madness"],
+         "correct": 1,
+         "expl": "Named, but otherwise left unexplained."},
+        {"q": "Does this text show any specific act of loving-kindness the king performs?",
+         "opts": [
+             "Yes, in great detail",
+             "No — the text moves from the calamity directly to the claim of perfected love, without showing the demonstrating action",
+             "Yes, but only briefly summarized",
+             "The king explicitly refuses to show love in this story"],
+         "correct": 1,
+         "expl": "The most extreme gap of its kind in this collection."},
+        {"q": "How does this story's gap compare to Cp 9's Vessantara or Cp 26's Temiya?",
+         "opts": [
+             "It is identical — only the final outcome is left untold",
+             "It goes further — here the entire action demonstrating the perfection is left out, not just the outcome",
+             "There is no gap in this story at all",
+             "This story has no connection to those other gaps"],
+         "correct": 1,
+         "expl": "The most extreme example of this pattern in the whole collection."},
+        {"q": "What does 'saṅgahavatthu' refer to in this story?",
+         "opts": [
+             "A type of weapon",
+             "The 'four ways of being inclusive' the king uses to unite his population",
+             "The name of the attacking army",
+             "A ritual performed before battle"],
+         "correct": 1,
+         "expl": "Named directly as part of the king's good governance."},
+        {"q": "What standard of conduct, also named in Cp 3 and Cp 18, does this king follow?",
+         "opts": [
+             "The eightfold path",
+             "The ten skillful deeds (dasakusalakammapatha)",
+             "The five precepts",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "A recurring standard across several stories in this collection."},
+        {"q": "What perfection does this story close, and what position does it hold?",
+         "opts": [
+             "Truth, the fifth of six stories",
+             "Love (mettā), the second and final story of this theme",
+             "Equanimity, the collection's only story on this theme",
+             "Renunciation, the third of five stories"],
+         "correct": 1,
+         "expl": "Closing this chapter's pair of stories before equanimity closes the whole collection."},
+        {"q": "What does the king see during the calamity, mentioned in the story's final lines?",
+         "opts": [
+             "His enemy's defeat",
+             "His beloved son, captured along with the rest of his court",
+             "A vision of his own future",
+             "Nothing further is described"],
+         "correct": 1,
+         "expl": "One of the last details given before the closing claim."},
+        {"q": "What is the very last perfection covered by the Cariyapitaka's thirty-five stories, immediately after this one?",
+         "opts": [
+             "Wisdom",
+             "Equanimity, in a single closing story",
+             "Patience",
+             "Energy"],
+         "correct": 1,
+         "expl": "Cp 35, the collection's final text."},
+    ],
+    marginalia=[
+        ("A model ruler", [
+            "ethics upheld",
+            "without exception"
+        ]),
+        ("A sudden collapse", [
+            "city sacked,",
+            "family captured"
+        ]),
+        ("A claim, unshown", [
+            "no act of love",
+            "actually narrated"
+        ]),
+        ("The collection's deepest gap", [
+            "not just the outcome —",
+            "the whole demonstration"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp34/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-33.html">Cp 33 &mdash; Goldblack&rsquo;s Conduct</a> &mdash; the '
+        "text immediately before this one, this chapter's other story on love.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 35 — Lomahaṁsa Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    35, "Lomaha&#7745;sa Cariy&amacr;", "The Great Hair-raising Conduct",
+    meta_title="Cp 35 — The Great Hair-raising Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Cariyapitaka's final story and closing verses — sleeping in a charnel "
+        "ground, equanimity toward mockery and honor alike, and a summary of the "
+        "whole collection. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Equanimity (1 of 1)",
+    glance=[
+        ("Setting", "No external narrative frame for the story itself; the second "
+                    "half of this page is a closing summary addressed to no "
+                    "particular audience, closing the whole Cariyapitaka"),
+        ("Speaker", "The Buddha, recounting his life sleeping in a charnel ground, "
+                    "then speaking in his own voice as the summary closes the work"),
+        ("Form", "Four verses telling the final individual story, followed by a "
+                 "separate closing sequence of verses summarizing the whole "
+                 "collection"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific "
+                              "matching text for this story in other Buddhist "
+                              "literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the final story "
+                       "is simple; the closing summary rewards a careful second "
+                       "read"),
+    ],
+    why=(
+        "This page closes the entire Cariyapitaka. Its own thirty-fifth story is "
+        "brief: a figure who sleeps in a charnel ground, resting on a skeleton, "
+        "treated with total equanimity whether mocked by louts or honored with "
+        "incense and food. What follows it is not part of that story at all "
+        "&mdash; it is the collection's own closing summary, naming several "
+        "perfections in review before a final colophon names the whole work."),
+    guide=[
+        ("A bed among the dead", [
+            "The setting is stark and unadorned: a charnel ground, a skeleton for a "
+            "bed. Village louts mock the sleeper &lsquo;in all sorts of ways&rsquo;; "
+            "others bring incense, flowers, and fine food, thrilled and reverent. Both "
+            "receive the identical response."]),
+        ("Equanimity defined by what it does not distinguish", [
+            "The story states its perfection plainly: &lsquo;those who brought me "
+            "pain, and those who gave me happiness, were all the same to me. I felt no "
+            "favor or anger.&rsquo; Unlike the restraint shown in the ethics chapter, "
+            "which withholds a specific retaliation, this is a flatness applied "
+            "equally to opposite treatment, not a response to any one threat."]),
+        ("A numbering gap in the source itself", [
+            "This page's sections jump directly from &sect;4, the end of the story "
+            "proper, to &sect;10 &mdash; sections 5 through 9 do not exist in the "
+            "source text at all. This reading guide reproduces the source exactly as "
+            "numbered, rather than renumbering to hide the gap."]),
+        ("A closing summary, not another story", [
+            "Section 10 onward is a different kind of writing: a review naming "
+            "several perfections in quick succession &mdash; giving, ethics, "
+            "renunciation, and, notably, a &lsquo;perfection of acceptance&rsquo; "
+            "alongside effort and inquiry, resolve and truthful speech, and finally "
+            "equanimity again &mdash; each said to lead to &lsquo;supreme "
+            "awakening&rsquo;. This summary mentions qualities, like acceptance, that "
+            "did not receive their own dedicated story anywhere in the preceding "
+            "thirty-five &mdash; the individual stories dramatize seven perfections in "
+            "depth, while this closing review gestures more broadly across the "
+            "tradition's fuller list of ten."]),
+        ("Three short exhortations, then a colophon", [
+            "Before the work closes, three brief verses repeat a single pattern "
+            "&mdash; laziness feared, energy as sanctuary; dispute feared, harmony as "
+            "sanctuary; negligence feared, the eightfold path as sanctuary &mdash; each "
+            "closing with the same refrain, &lsquo;this is the Buddha's "
+            "instruction!&rsquo; A final sentence then names the whole work: "
+            "&lsquo;the exposition of the teaching named the &lsquo;Legends of the "
+            "Buddha&rsquo;.&rsquo;"]),
+    ],
+    terms=[
+        ("upekkhā",
+         "&ldquo;equanimity&rdquo; &mdash; the perfection this final story "
+         "illustrates, the last of the seven perfections given a dedicated story in "
+         "this particular collection."),
+        ("Lomahaṁsa",
+         "&ldquo;hair-raising&rdquo; &mdash; part of this story's title, referring to "
+         "the unsettling austerity of sleeping in a charnel ground."),
+        ("saccakiriyā-vagga",
+         "not a formal term in this translation, but a useful label for the pattern "
+         "closing several of this chapter's stories: &lsquo;seeing X as fearful, and Y "
+         "as sanctuary... this is the Buddha's instruction!&rsquo;"),
+        ("Buddhāpadāniya",
+         "&ldquo;Legends of the Buddha&rdquo; &mdash; the name this text's own closing "
+         "colophon gives to the whole exposition, referring to the Cariyapitaka "
+         "itself."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its thirty-fifth and last."),
+    ],
+    text_intro=(
+        "The text in full: four verses telling the final story, then the "
+        "Cariyapitaka's own closing summary and colophon. The source's own section "
+        "numbering skips from 4 to 10, reproduced here as it stands. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Great Hair-raising Conduct"),
+        ("p", "&sect;1", "cp35:1.1-1.4"),
+        ("p", "&sect;2", "cp35:2.1-2.4"),
+        ("p", "&sect;3", "cp35:3.1-3.4"),
+        ("p", "&sect;4", "cp35:4.1-4.4"),
+        ("h3", "Closing verses of the whole Cariyapitaka"),
+        ("p", "&sect;10", "cp35:10.1-10.4"),
+        ("p", "&sect;11", "cp35:11.1-11.4"),
+        ("p", "&sect;12", "cp35:12.1-12.4"),
+        ("p", "&sect;13", "cp35:13.1-13.4"),
+        ("p", "&sect;14", "cp35:14.1-14.4"),
+        ("p", "&sect;15", "cp35:15.1-15.4"),
+        ("p", "&sect;16", "cp35:16.1-16.4"),
+        ("p", "&sect;17", "cp35:17.1-17.4"),
+        ("p", "&sect;18", "cp35:18.1-18.1"),
+    ],
+    quiz=[
+        {"q": "Where does the final story's protagonist sleep?",
+         "opts": [
+             "In a royal palace",
+             "In a charnel ground, resting on a skeleton",
+             "In a forest hermitage",
+             "On a riverbank"],
+         "correct": 1,
+         "expl": "An unsettling, unadorned setting."},
+        {"q": "How does the protagonist respond to being mocked versus being honored with incense and food?",
+         "opts": [
+             "With anger at the mockers, gratitude toward the honorers",
+             "With the identical response — no favor, no anger, in either case",
+             "By fleeing from both groups",
+             "By punishing the mockers"],
+         "correct": 1,
+         "expl": "'Those who brought me pain, and those who gave me happiness, were all the same to me.'"},
+        {"q": "What is unusual about the section numbering on this particular page?",
+         "opts": [
+             "Nothing; the numbering is entirely continuous",
+             "It jumps directly from section 4 to section 10, with no sections 5 through 9 in the source",
+             "It restarts from 1 partway through",
+             "It uses letters instead of numbers"],
+         "correct": 1,
+         "expl": "Reproduced here exactly as the source has it, not smoothed over."},
+        {"q": "What is the second half of this page, starting at section 10?",
+         "opts": [
+             "A continuation of the charnel-ground story",
+             "A separate closing summary reviewing several perfections, not part of the individual story",
+             "An unrelated discourse copied in by mistake",
+             "A repeat of the first half"],
+         "correct": 1,
+         "expl": "Closing the entire Cariyapitaka, not just this final story."},
+        {"q": "What perfection does the closing summary mention that received no dedicated story among the collection's thirty-five?",
+         "opts": [
+             "Giving",
+             "A 'perfection of acceptance', alongside effort and inquiry",
+             "Ethics",
+             "Truth"],
+         "correct": 1,
+         "expl": "The summary gestures more broadly across the tradition's full list of ten than the individual stories do."},
+        {"q": "What refrain closes each of the summary's three brief exhortations?",
+         "opts": [
+             "'This is the highest blessing'",
+             "'This is the Buddha's instruction!'",
+             "'By this truth, may you be well'",
+             "'There is no-one to equal me'"],
+         "correct": 1,
+         "expl": "Repeated after each fear-and-sanctuary pairing: laziness, dispute, negligence."},
+        {"q": "What name does the text's own closing colophon give to the whole work?",
+         "opts": [
+             "'The Basket of Conduct' only",
+             "'The exposition of the teaching named the Legends of the Buddha'",
+             "No name is given at all",
+             "'The Thirty-Five Perfections'"],
+         "correct": 1,
+         "expl": "A traditional close-of-text formula naming the exposition."},
+        {"q": "What does 'Lomahaṁsa' mean, as part of this story's title?",
+         "opts": [
+             "'Hair-raising' — referring to the unsettling austerity of the setting",
+             "'Equanimity'",
+             "'Charnel ground'",
+             "'Skeleton'"],
+         "correct": 0,
+         "expl": "Describing the effect of the practice, not a proper name."},
+        {"q": "How does this story's equanimity differ from the ethics chapter's restraint (Cp 11–20)?",
+         "opts": [
+             "There is no meaningful difference",
+             "The ethics chapter withholds a specific retaliation against one threat; equanimity applies a flatness equally to opposite treatment",
+             "Equanimity only applies to positive experiences",
+             "The ethics chapter is about kindness, not restraint"],
+         "correct": 1,
+         "expl": "A response to a whole range of treatment, not a single provocation."},
+        {"q": "What perfection does this final story illustrate?",
+         "opts": [
+             "Truth",
+             "Equanimity (upekkhā), the last of seven perfections given a dedicated story in this collection",
+             "Love",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Closing the Cariyapitaka's thirty-five stories."},
+    ],
+    marginalia=[
+        ("A bed among the dead", [
+            "a charnel ground,",
+            "a skeleton for rest"
+        ]),
+        ("No favor, no anger", [
+            "mockery and honor",
+            "treated the same"
+        ]),
+        ("A gap in the numbering", [
+            "sections 5 to 9",
+            "absent from the source"
+        ]),
+        ("A summary, then a name", [
+            "'Legends of the Buddha' —",
+            "the whole work closed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp35/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-34.html">Cp 34 &mdash; The One King&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, closing the chapter on love.",
+        '<a href="cp-1.html">Cp 1 &mdash; Akitti&rsquo;s Conduct</a> &mdash; the '
+        "collection's opening story, on the perfection of giving.",
+        '<a href="./">Cariyapiṭaka</a> &mdash; back to the collection index, all '
+        "thirty-five stories.",
+    ],
+)
