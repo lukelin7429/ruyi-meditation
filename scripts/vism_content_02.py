@@ -499,3 +499,222 @@ page(
         "practice, useful for comparison with this chapter's five hindrances.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 5 -- Sesakasiṇaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    5, "Sesakasiṇaniddesa", "The Remaining Kasinas",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 5 — The Remaining Kasinas | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 5 of the Visuddhimagga (The Path of "
+        "Purification) — the nine kasinas beyond earth: water, fire, air, four "
+        "colors, light, and bounded space, each a variation on Chapter 4's method. "
+        "No translated text reproduced; links to the full free translation and the "
+        "Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter continues directly from "
+                    "Chapter 4's detailed treatment of the earth kasina"),
+        ("Speaker", "Buddhaghosa, applying Chapter 4's method to nine further "
+                    "devices in a much more compressed form"),
+        ("Form", "Nine short entries, one per remaining kasina, each noting only "
+                 "what differs from the earth kasina rather than restating the full "
+                 "method"),
+        ("Length", "considerably shorter than Chapter 4, since the underlying "
+                   "account of signs, hindrances, and jhāna factors is assumed "
+                   "rather than repeated"),
+        ("Northern parallel", "Other traditions likewise use varied physical objects "
+                              "(colored disks, light, bounded space) as concentration "
+                              "supports; this guide does not assert a specific "
+                              "matching passage"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; mostly a "
+                       "practical survey, easy to follow once Chapter 4's method is "
+                       "in hand"),
+    ],
+    why=(
+        "Chapter 4 gave the full method through a single device, the earth kasina. "
+        "Chapter 5 completes the set of ten by working through the remaining nine "
+        "&mdash; water, fire, air, four colors, light, and a bounded area of space "
+        "&mdash; but treats each briefly, noting only how its physical preparation "
+        "and characteristic quality differ from the earth kasina already covered. "
+        "The chapter's underlying claim is that all ten reach the same destination "
+        "by the same method; what changes from one kasina to the next is only the "
+        "object placed in front of that method."),
+    guide=[
+        ("Nine variations on one method", [
+            "Rather than repeating Chapter 4's full account of the three signs, the "
+            "five hindrances, and the five jhāna factors, this chapter assumes that "
+            "account as known and describes, for each of the remaining nine kasinas, "
+            "only what is specific to preparing and attending to that particular "
+            "device."]),
+        ("The kasina list completed", [
+            "Together with the earth kasina from Chapter 4, this chapter brings the "
+            "traditional list of ten kasinas to completion: earth, water, fire, and "
+            "air; four colors (blue, yellow, red, and white); light; and a bounded "
+            "area of space."]),
+        ("Water, fire, and air", [
+            "The water kasina is prepared by viewing clear water held in a vessel. "
+            "The fire kasina is traditionally attended to through a small opening in "
+            "a screen rather than by looking at an open flame directly. The air "
+            "kasina is approached indirectly as well, since moving air has no "
+            "visible form of its own &mdash; attention rests instead on something "
+            "stirred by it, such as the swaying tips of grass or the movement of a "
+            "banner."]),
+        ("The four color kasinas", [
+            "Blue, yellow, red, and white are each prepared much as the earth "
+            "kasina was: as an evenly colored disk, or by using a naturally suited "
+            "colored object such as a flower or cloth of the right hue, then worked "
+            "through the same sequence of signs described in Chapter 4."]),
+        ("Light and bounded space", [
+            "The light kasina takes a patch of steady light &mdash; such as light "
+            "falling through a small gap &mdash; as its object. The space kasina is "
+            "unusual among the ten in taking an absence rather than a colored "
+            "surface as its object: a gap or opening of a fixed, defined size, "
+            "attended to as a bounded area rather than as a visible thing."]),
+        ("All ten, one destination", [
+            "The chapter's recurring point across all nine entries is that none of "
+            "them requires a different method from the one Chapter 4 already gave "
+            "in full: any of the ten kasinas, worked through its own three signs, "
+            "can be brought to the same depth of absorption. What differs between "
+            "them is preparation and characteristic feel, not the underlying "
+            "process."]),
+        ("Which kasina to begin with", [
+            "The earth kasina is generally treated as the easiest starting point, "
+            "given the stability and universal familiarity of its object, though "
+            "the chapter also connects the choice back to the six temperaments "
+            "introduced in Chapter 3, since some of the ten may suit a particular "
+            "temperament better than others."]),
+        ("What follows", [
+            "Chapter 6 leaves the kasinas behind entirely and turns to an "
+            "altogether different class of object: foulness, meaning sustained "
+            "contemplation of a corpse in its stages of decay, the next of the forty "
+            "meditation subjects."]),
+    ],
+    terms=[
+        ("āpokasiṇa",
+         "the water kasina &mdash; prepared by viewing clear water held in a "
+         "vessel."),
+        ("tejokasiṇa",
+         "the fire kasina &mdash; traditionally viewed through a small opening in a "
+         "screen rather than looking at an open flame directly."),
+        ("vāyokasiṇa",
+         "the air (wind) kasina &mdash; attended to indirectly, through something "
+         "moved by the wind, since air itself has no visible form."),
+        ("nīla, pīta, lohita, odāta kasiṇa",
+         "the four color kasinas &mdash; blue, yellow, red, and white &mdash; each "
+         "prepared as an evenly colored disk or a suitably colored object."),
+        ("āloka, ākāsa kasiṇa",
+         "the light kasina and the (bounded) space kasina &mdash; the final two of "
+         "the ten, taking a patch of light and a fixed-size gap respectively as "
+         "their objects."),
+    ],
+    quiz=[
+        {"q": "How many kasinas does the traditional list total, once this chapter's nine are added to Chapter 4's earth kasina?",
+         "opts": [
+             "Ten",
+             "Four",
+             "Thirteen",
+             "Forty"],
+         "correct": 0,
+         "expl": "Earth, water, fire, air, four colors, light, and bounded space."},
+        {"q": "Does this chapter repeat Chapter 4's full account of the three signs, the hindrances, and the jhāna factors for each new kasina?",
+         "opts": [
+             "No &mdash; it assumes that account and describes only what differs for each device",
+             "Yes, in full, for all nine remaining kasinas individually",
+             "No, because none of the other nine can reach absorption at all",
+             "Yes, but only for the water and fire kasinas"],
+         "correct": 0,
+         "expl": "Chapter 5 is deliberately compressed compared to Chapter 4's full template treatment."},
+        {"q": "How is the water kasina prepared?",
+         "opts": [
+             "By viewing clear water held in a vessel",
+             "By listening to the sound of flowing water",
+             "By submerging the whole body in a river",
+             "By boiling water and observing the steam"],
+         "correct": 0,
+         "expl": "A visual object, like the other kasinas, not an auditory or tactile one."},
+        {"q": "Why is the air (wind) kasina attended to indirectly, through something like swaying grass or a banner?",
+         "opts": [
+             "Because moving air has no visible form of its own",
+             "Because looking directly at air causes eye strain",
+             "Because air is considered too dangerous a subject for beginners",
+             "Because the earlier chapters forbid attending to invisible things"],
+         "correct": 0,
+         "expl": "Attention rests on something moved by the wind rather than the wind itself."},
+        {"q": "Which four colors make up the color kasinas this chapter covers?",
+         "opts": [
+             "Blue, yellow, red, and white",
+             "Black, gray, brown, and gold",
+             "Green, purple, orange, and pink",
+             "Only blue and white"],
+         "correct": 0,
+         "expl": "Each prepared much as the earth kasina was, as an evenly colored disk or suited object."},
+        {"q": "What is unusual about the space kasina's object compared to the other nine?",
+         "opts": [
+             "It takes an absence &mdash; a bounded gap of fixed size &mdash; rather than a colored surface",
+             "It is the only kasina that changes color over time",
+             "It requires no physical preparation of any kind",
+             "It is the only kasina that cannot be practiced indoors"],
+         "correct": 0,
+         "expl": "Attended to as a bounded area rather than as a visible thing."},
+        {"q": "What does the chapter say all ten kasinas share, despite their different objects?",
+         "opts": [
+             "All can be brought to the same depth of absorption by the same underlying method",
+             "Only the earth kasina can ever reach full absorption",
+             "Each kasina requires an entirely separate, unrelated method",
+             "None of the ten can be practiced without a teacher present at every session"],
+         "correct": 0,
+         "expl": "What differs between them is preparation and characteristic feel, not the underlying process."},
+        {"q": "Which kasina is generally treated as the easiest starting point, and why?",
+         "opts": [
+             "The earth kasina, for the stability and universal familiarity of its object",
+             "The space kasina, because it requires no physical object at all",
+             "The fire kasina, because it produces results fastest",
+             "The light kasina, because it requires no prior training"],
+         "correct": 0,
+         "expl": "The chapter also connects the choice back to the six temperaments from Chapter 3."},
+        {"q": "What does Chapter 6 turn to next?",
+         "opts": [
+             "Foulness &mdash; sustained contemplation of a corpse in its stages of decay",
+             "The four divine abidings",
+             "The immaterial states",
+             "The supernormal powers"],
+         "correct": 0,
+         "expl": "An entirely different class of meditation subject from the ten kasinas."},
+        {"q": "Where can a reader go for Chapter 5's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Nine more kasinas", [
+            "completing the set",
+            "of ten total",
+        ]),
+        ("Same method,", [
+            "different preparation",
+        ]),
+        ("Water, fire, air,", [
+            "four colors, light, space",
+        ]),
+        ("One destination", [
+            "all ten can reach",
+            "full absorption",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/anguttara-nikaya/an-8.65.html">AN 8.65 &mdash; '
+        "Dimensions of Mastery</a> &mdash; the bases of mastery over form, closely "
+        "tied to the color kasinas this chapter covers.",
+        '<a href="../discourses/anguttara-nikaya/an-10.29.html">AN 10.29 &mdash; '
+        "Kosala (1st)</a> &mdash; an ascending cosmological survey that names the "
+        "kasinas directly among its later stages.",
+    ],
+)
