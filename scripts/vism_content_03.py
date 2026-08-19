@@ -892,3 +892,209 @@ page(
         "treatment of dependent origination.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 18 -- Diṭṭhivisuddhiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    18, "Diṭṭhivisuddhiniddesa", "Purification of View",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 18 — Purification of View | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 18 of the Visuddhimagga (The Path of "
+        "Purification) — distinguishing mentality from materiality directly, their "
+        "mutual dependence, and why seeing this leaves no separate self standing "
+        "apart from the process. No translated text reproduced; links to the full "
+        "free translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter opens the third of seven "
+                    "traditional purifications, and the first Part III covers"),
+        ("Speaker", "Buddhaghosa, turning the doctrinal material of Chapters "
+                    "14&ndash;17 into a direct, experiential exercise"),
+        ("Form", "A focused exercise in distinguishing two categories directly in "
+                 "one's own experience, rather than a further expansion of "
+                 "classification schemes"),
+        ("Length", "moderate, considerably shorter than Chapter 17's extended "
+                   "treatment of dependent origination"),
+        ("Northern parallel", "Mind-body analyses supporting a not-self conclusion "
+                              "appear widely across Buddhist traditions; this guide "
+                              "does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; conceptually "
+                       "continuous with the previous four chapters, though the "
+                       "shift from description to direct seeing takes some care to "
+                       "track"),
+    ],
+    why=(
+        "Chapters 14 through 17 laid out doctrinal material &mdash; the "
+        "aggregates, bases, elements, faculties, truths, and dependent origination "
+        "&mdash; largely as concepts to be understood. Chapter 18 opens the "
+        "work's third purification, following purification of virtue in Part I "
+        "and purification of mind in Part II: purification of view, where a "
+        "practitioner turns that conceptual material into a direct, immediate "
+        "seeing of mentality and materiality as they actually operate, rather than "
+        "as topics merely described."),
+    guide=[
+        ("The third of seven purifications", [
+            "The whole work's title reflects a sevenfold scheme of purification: "
+            "virtue in Part I, mind in Part II, and five further purifications "
+            "Part III works through in sequence. Purification of view is the "
+            "first of these five, and the first purification belonging properly "
+            "to the section on understanding."]),
+        ("Distinguishing mentality from materiality", [
+            "The chapter's core method is direct discernment: seeing mental "
+            "phenomena &mdash; feeling, perception, formations, and consciousness "
+            "&mdash; as distinct in kind from material phenomena, the body and "
+            "its processes, where ordinary experience blends the two together "
+            "without examination."]),
+        ("Two bundles of reeds", [
+            "The chapter draws on a canonical image for how mentality and "
+            "materiality relate: two bundles of reeds propped against each "
+            "other, neither able to stand on its own. The image illustrates "
+            "mutual dependence rather than either category being the more "
+            "fundamental, self-sufficient reality."]),
+        ("No self standing apart", [
+            "The point this distinguishing exercise builds toward is direct: once "
+            "mentality and materiality are seen clearly as a mutually dependent "
+            "process, no further person, self, or agent is found standing apart "
+            "from or behind that process &mdash; the process itself is what fully "
+            "accounts for what is conventionally called a &lsquo;being&rsquo;."]),
+        ("Purification, not mere information", [
+            "The chapter distinguishes hearing and intellectually accepting these "
+            "points from actually seeing them directly in one's own ongoing "
+            "experience, moment to moment. Only the latter is what makes this "
+            "stage a genuine purification, rather than simply new information "
+            "layered on top of an unchanged sense of self."]),
+        ("What follows", [
+            "Chapter 19 turns to the next purification, overcoming doubt, by "
+            "tracing mentality-materiality back through its causes &mdash; tying "
+            "this chapter's work directly to the dependent origination Chapter 17 "
+            "already covered."]),
+    ],
+    terms=[
+        ("diṭṭhivisuddhi",
+         "purification of view &mdash; this chapter's subject, the third of the "
+         "seven traditional purifications."),
+        ("nāma, rūpa",
+         "mentality and materiality &mdash; the two categories this chapter has a "
+         "practitioner distinguish directly."),
+        ("nāmarūpapariccheda-ñāṇa",
+         "the knowledge of defining mentality-and-materiality &mdash; the "
+         "technical name for the insight this chapter's exercise produces."),
+        ("sakkāyadiṭṭhi",
+         "personality view, or self-view &mdash; the mistaken view this "
+         "purification directly counters."),
+        ("visuddhi",
+         "&ldquo;purification&rdquo; &mdash; the general term for the sevenfold "
+         "scheme this and the next four chapters continue."),
+    ],
+    quiz=[
+        {"q": "What purification does Chapter 18 open, and where does it fall in the sevenfold scheme?",
+         "opts": [
+             "Purification of view, the third, following purification of virtue and purification of mind",
+             "Purification of virtue, the first",
+             "Purification of mind, the second",
+             "The seventh and final purification"],
+         "correct": 0,
+         "expl": "The first of five purifications belonging to Part III specifically."},
+        {"q": "What two categories does this chapter have a practitioner distinguish directly?",
+         "opts": [
+             "Mentality (nāma) and materiality (rūpa)",
+             "Virtue and concentration",
+             "The four noble truths and the twelve links",
+             "The five aggregates and the four elements only"],
+         "correct": 0,
+         "expl": "Distinguished directly in experience, rather than described conceptually as in earlier chapters."},
+        {"q": "What canonical image does the chapter use to describe how mentality and materiality relate?",
+         "opts": [
+             "Two bundles of reeds propped against each other",
+             "A single unbreakable stone pillar",
+             "A river flowing in only one direction",
+             "A locked door with no key"],
+         "correct": 0,
+         "expl": "Illustrating that neither can stand without the other."},
+        {"q": "What does the reeds image illustrate about mentality and materiality?",
+         "opts": [
+             "Their mutual dependence, with neither being more fundamental or self-sufficient",
+             "That materiality alone is fundamentally real",
+             "That mentality alone is fundamentally real",
+             "That the two have no relationship to each other at all"],
+         "correct": 0,
+         "expl": "Neither category stands on its own without the other."},
+        {"q": "What conclusion does this distinguishing exercise build toward?",
+         "opts": [
+             "No separate self or agent is found standing apart from the mentality-materiality process",
+             "A separate, permanent self is confirmed to exist behind the process",
+             "Mentality and materiality are proven to be identical",
+             "The exercise reaches no conclusion of any kind"],
+         "correct": 0,
+         "expl": "The process itself fully accounts for what is conventionally called a being."},
+        {"q": "What technical name does the chapter give to the specific insight this exercise produces?",
+         "opts": [
+             "Nāmarūpapariccheda-ñāṇa, the knowledge of defining mentality-and-materiality",
+             "Āsavakkhaya-ñāṇa, the knowledge of the destruction of the taints",
+             "Iddhividha, supernormal power",
+             "Cetopariyañāṇa, penetration of minds"],
+         "correct": 0,
+         "expl": "The specific insight-knowledge this purification is named for."},
+        {"q": "What mistaken view does this purification directly counter?",
+         "opts": [
+             "Personality view, or self-view (sakkāyadiṭṭhi)",
+             "Wrong livelihood",
+             "Disbelief in the law of kamma specifically",
+             "Doubt about the existence of other realms"],
+         "correct": 0,
+         "expl": "Countered by seeing mentality and materiality clearly as a mutually dependent process."},
+        {"q": "What distinguishes purification of view from merely accepting these facts intellectually?",
+         "opts": [
+             "Actually seeing them directly in one's own ongoing experience, not just as new information",
+             "Memorizing the Pali terms without further practice",
+             "Reading the chapter a second time",
+             "There is no distinction; intellectual acceptance is sufficient on its own"],
+         "correct": 0,
+         "expl": "Only direct seeing makes this a genuine purification rather than added information."},
+        {"q": "What does Chapter 19 do next?",
+         "opts": [
+             "Traces mentality-materiality back through its causes, tying this chapter's work to dependent origination",
+             "Returns to the forty meditation subjects covered in Part II",
+             "Repeats Chapter 18's content without further development",
+             "Begins Part IV of the Visuddhimagga"],
+         "correct": 0,
+         "expl": "Purification by overcoming doubt, the next of the five purifications in Part III."},
+        {"q": "Where can a reader go for Chapter 18's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Third of seven purifications", [
+            "virtue, then mind,",
+            "now view",
+        ]),
+        ("Mentality and materiality", [
+            "distinguished directly,",
+            "not just described",
+        ]),
+        ("Two bundles of reeds", [
+            "mutual dependence,",
+            "neither self-sufficient",
+        ]),
+        ("No self standing apart", [
+            "the process itself",
+            "accounts for the whole",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-12.65.html">SN 12.65 &mdash; The '
+        "City</a> &mdash; traces the mutual dependence of consciousness and "
+        "name-and-form this chapter's reeds image also illustrates.",
+        '<a href="../discourses/majjhima-nikaya/mn-009.html">MN 9 &mdash; Right '
+        "View</a> &mdash; a systematic canonical treatment of the kind of correct "
+        "seeing this purification aims at.",
+    ],
+)
