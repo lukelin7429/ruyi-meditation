@@ -7750,3 +7750,2091 @@ page(
         "this chapter's exploration of giving.",
     ],
 )
+
+
+VAGGA_5 = "<em>Uposathavagga</em> &mdash; the fifth chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.41 — Saṅkhittūposathasutta — opens ch.5 Uposathavagga
+# --------------------------------------------------------------------------- #
+page(
+    41, "Saṅkhittūposatha", "The Sabbath With Eight Factors, In Brief",
+    vagga=VAGGA_5,
+    meta_title="AN 8.41 — The Sabbath With Eight Factors, In Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saṅkhittūposathasutta, opening a new chapter with the brief form "
+        "of the lay eight-factored sabbath observance, each factor framed "
+        "as a temporary vow to live for one day and night as the perfected "
+        "ones live always. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_1),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight factors, each given the identical three-part "
+                 "reflection: how the perfected ones live permanently, how "
+                 "the reflector will live for one day and night, and the "
+                 "resolve that constitutes observing the sabbath"),
+        ("Length", "~2 minutes to read"),
+        ("A new chapter on lay observance", "This opens Uposathavagga, the "
+                                            "Chapter on the Sabbath, giving "
+                                            "the eight-factored lay "
+                                            "observance in its shortest "
+                                            "form before AN 8.42 expands it "
+                                            "with an extended simile"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear, repeating structure across eight factors"),
+    ],
+    why=(
+        "AN 8.41 gives the brief form of the eight-factored lay sabbath: a "
+        "noble disciple reflects on how the perfected ones live permanently "
+        "&mdash; giving up killing, stealing, unchastity, lying, "
+        "intoxicants, eating after midday, entertainment and adornment, and "
+        "luxurious beds &mdash; and resolves to live the same way for a "
+        "single day and night, undertaking each factor as a temporary "
+        "training."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight-factored sabbath, observed by reflecting on how the "
+            "perfected ones live permanently and resolving to live the same "
+            "way for a single day and night &mdash; giving up killing, "
+            "stealing, unchastity, lying, intoxicants, eating after midday, "
+            "entertainment and adornment, and luxurious beds &mdash; is "
+            "very fruitful, beneficial, dazzling, and bountiful."]),
+        ("A temporary vow modeled on a permanent one", [
+            "Each of the eight factors follows an identical three-part "
+            "pattern: first, how perfected ones live as long as they live; "
+            "second, a personal resolve to live the same way, but only for "
+            "this one day and night; third, the explicit naming of this as "
+            "how the sabbath is observed with respect to that factor. The "
+            "temporary vow is explicitly modeled on a permanent monastic "
+            "standard, not invented separately for lay practice."]),
+        ("Eight factors, in two registers", [
+            "The first five factors overlap closely with the five "
+            "precepts already met throughout this book, with the fifth "
+            "precept's usual wording slightly adjusted. The remaining "
+            "three &mdash; eating only before midday, giving up "
+            "entertainment and adornment, and giving up luxurious beds "
+            "&mdash; extend further into the register of monastic "
+            "discipline, temporarily adopted by a layperson for a single "
+            "day."]),
+        ("Opening a new chapter with lay practice", [
+            "Where the previous chapter explored giving, this new chapter "
+            "turns to the sabbath observance itself &mdash; a periodic "
+            "intensification of lay discipline that this chapter will "
+            "explore from several angles: its brief form here, its "
+            "detailed form and cosmic scale next, and its application to "
+            "several named lay disciples in the discourses that follow."]),
+    ],
+    terms=[
+        ("aṭṭhaṅgasamannāgato uposatho",
+         "&ldquo;the sabbath with its eight factors&rdquo; &mdash; this "
+         "discourse's own title-phrase and central subject."),
+        ("yāvajīvaṁ arahanto",
+         "&ldquo;as long as they live, the perfected ones&rdquo; &mdash; "
+         "the opening formula of each factor's reflection, the permanent "
+         "standard the temporary lay vow is modeled on."),
+        ("imañca rattindivaṁ",
+         "&ldquo;for this day and night&rdquo; &mdash; the temporal scope "
+         "of the lay observance, distinguishing it explicitly from the "
+         "permanent monastic standard it imitates."),
+        ("vikālabhojanā paṭivirato",
+         "&ldquo;abstaining from food at the wrong time&rdquo; &mdash; the "
+         "sixth factor, eating only in one part of the day, extending "
+         "beyond the five precepts into monastic-style discipline."),
+        ("uccāsayanamahāsayanā paṭivirato",
+         "&ldquo;giving up high and luxurious beds&rdquo; &mdash; the "
+         "eighth and final factor, sleeping in a low place, a cot or "
+         "straw mat."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight factors of the lay sabbath, each "
+        "framed as a temporary vow. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the first factor"),
+        ("p", "&sect;1", "an8.41:1.1-2.7"),
+        ("h3", "The second through fourth factors"),
+        ("p", "&sect;2", "an8.41:3.1-5.4"),
+        ("h3", "The fifth and sixth factors"),
+        ("p", "&sect;3", "an8.41:6.1-7.4"),
+        ("h3", "The seventh and eighth factors"),
+        ("p", "&sect;4", "an8.41:8.1-10.1"),
+    ],
+    quiz=[
+        {"q": "What three-part pattern does each of the eight factors "
+              "follow?",
+         "opts": [
+             "A prohibition, a punishment, and a warning",
+             "How the perfected ones live permanently, a resolve to live "
+             "the same way for one day and night, and naming this as the "
+             "sabbath observance",
+             "A story, a moral, and a summary",
+             "A question, an answer, and a verse"],
+         "correct": 1,
+         "expl": "A temporary vow explicitly modeled on a permanent "
+                 "monastic standard."},
+        {"q": "How do the first five factors relate to material already met "
+              "in this book?",
+         "opts": [
+             "They are entirely unrelated to anything met before",
+             "They overlap closely with the five precepts, with the fifth "
+             "slightly adjusted in wording",
+             "They contradict the five precepts",
+             "They apply only to monastics, never to laypeople"],
+         "correct": 1,
+         "expl": "A familiar ethical foundation, extended by three further "
+                 "factors."},
+        {"q": "What do the sixth, seventh, and eighth factors add beyond "
+              "the five precepts?",
+         "opts": [
+             "Nothing further", "Eating only before midday, giving up "
+                                 "entertainment and adornment, and giving "
+                                 "up luxurious beds",
+             "A vow of silence", "A vow never to travel"],
+         "correct": 1,
+         "expl": "Factors extending into monastic-style discipline, "
+                 "temporarily adopted for a single day."},
+        {"q": "How long is the sabbath vow undertaken for, in this "
+              "discourse's own framing?",
+         "opts": [
+             "Permanently, for the rest of one's life",
+             "For a single day and night",
+             "For one month", "For one year"],
+         "correct": 1,
+         "expl": "A temporary practice, explicitly distinguished from the "
+                 "permanent standard it's modeled on."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Dānavagga, the Chapter on Giving",
+             "Uposathavagga, the Chapter on the Sabbath",
+             "Gahapativagga, the Chapter on Householders",
+             "Rāgapeyyāla"],
+         "correct": 1,
+         "expl": "A new chapter turning from giving to periodic lay "
+                 "discipline."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, at the Great Wood",
+             "Kapilavatthu, at the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "The standard opening setting, with the full narrative "
+                 "frame."},
+    ],
+    marginalia=[
+        ("Eight factors, one pattern", [
+            "how perfected ones live always,",
+            "a vow for one day and night,",
+            "and the naming of the sabbath itself",
+        ]),
+        ("Five precepts, then three more", [
+            "the familiar ethical base,",
+            "extended into monastic register:",
+            "midday eating, no adornment, low beds",
+        ]),
+        ("A new chapter opens", [
+            "from giving to periodic",
+            "intensification of practice —",
+            "the sabbath, in its briefest form",
+        ]),
+        ("Cross-references", [
+            "AN 8.40 &middot; earlier, closing the previous chapter",
+            "AN 8.42 &middot; next, the same eight factors in full detail",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.41/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.40.html">AN 8.40 &middot; The Results of Misconduct</a> &mdash; '
+        "earlier, closing the previous chapter.",
+        '<a href="an-8.42.html">AN 8.42 &middot; The Sabbath With Eight Factors, In '
+        "Detail</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.42 — Vitthatūposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    42, "Vitthatūposatha", "The Sabbath With Eight Factors, In Detail",
+    vagga=VAGGA_5,
+    meta_title="AN 8.42 — The Sabbath With Eight Factors, In Detail | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vitthatūposathasutta, expanding AN 8.41's brief sabbath with an "
+        "extended comparison to a sixteen-kingdom empire, six ascending "
+        "tiers of heavenly lifespan, and closing verses. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 8.41's same eight factors, compressed by internal "
+                 "ellipsis, followed by an extended comparison to imperial "
+                 "wealth and six tiers of heavenly lifespan, closing in "
+                 "verse"),
+        ("Length", "~4 minutes to read"),
+        ("The same six heavens, a fourth time in this nipāta", "This "
+                                                                "discourse's "
+                                                                "six-tier "
+                                                                "heavenly "
+                                                                "sequence "
+                                                                "&mdash; "
+                                                                "four great "
+                                                                "kings, "
+                                                                "thirty-"
+                                                                "three, "
+                                                                "Yama, "
+                                                                "joyful, "
+                                                                "creating, "
+                                                                "controlling "
+                                                                "&mdash; is "
+                                                                "the same "
+                                                                "sequence "
+                                                                "already met "
+                                                                "at AN 8.35 "
+                                                                "and AN "
+                                                                "8.36, now "
+                                                                "with each "
+                                                                "tier's "
+                                                                "specific "
+                                                                "heavenly "
+                                                                "lifespan "
+                                                                "given for "
+                                                                "the first "
+                                                                "time"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "cosmological arithmetic in the middle section "
+                       "rewards reading slowly"),
+    ],
+    why=(
+        "AN 8.42 takes AN 8.41's eight-factored sabbath and, after "
+        "compressing the factors themselves by ellipsis, expands their "
+        "value dramatically: ruling all sixteen great countries with the "
+        "seven kinds of precious things wouldn't be worth a sixteenth part "
+        "of the sabbath, and the discourse then works through six "
+        "successive tiers of gods, giving each tier's specific ratio of "
+        "human to heavenly time and its total heavenly lifespan."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight-factored sabbath observed in full is worth more "
+            "than ruling all sixteen great countries of the Buddha's world "
+            "combined with all their wealth, because it can lead to "
+            "rebirth among gods whose lifespans, measured in human years, "
+            "reach into the tens of thousands."]),
+        ("An empire, found wanting", [
+            "The discourse names all sixteen great countries of its "
+            "world by name &mdash; from Aṅga and Magadha through Gandhāra "
+            "and Kamboja &mdash; and imagines ruling over every one of "
+            "them, full of the seven kinds of precious things, only to "
+            "declare this entire imperial wealth not worth a sixteenth "
+            "part of the eight-factored sabbath."]),
+        ("Six heavens, each with its own arithmetic", [
+            "The discourse then works through six tiers of gods in "
+            "ascending order, giving each one a specific conversion rate "
+            "between human and heavenly time (fifty years to one divine "
+            "day for the four great kings' realm, doubling at each "
+            "successive tier up to sixteen hundred years for the highest) "
+            "and a total heavenly lifespan calculated from that rate, from "
+            "five hundred heavenly years up to sixteen thousand."]),
+        ("The same six heavens, now with lifespans attached", [
+            "This is the fourth time this nipāta has named this identical "
+            "sequence of six heavenly tiers &mdash; after AN 8.35's giver's "
+            "settled wish and AN 8.36's degrees of giving and ethics "
+            "&mdash; but the first time their specific lifespans and time-"
+            "ratios are given, turning what was elsewhere a bare "
+            "sequence of names into a fully worked cosmology."]),
+    ],
+    terms=[
+        ("soḷasannaṁ mahājanapadānaṁ",
+         "&ldquo;these sixteen great countries&rdquo; &mdash; named in "
+         "full, from Aṅga and Magadha through Gandhāra and Kamboja, the "
+         "imperial scale the sabbath is measured against and found to "
+         "exceed."),
+        ("sattaratanasampannānaṁ",
+         "&ldquo;full of the seven kinds of precious things&rdquo; "
+         "&mdash; the wealth attributed to the imagined sixteen-country "
+         "empire, still found wanting."),
+        ("cātumahārājikānaṁ devānaṁ pañcasatāni dibbāni vassāni "
+         "āyuppamāṇaṁ",
+         "&ldquo;the lifespan of the gods of the four great kings is five "
+         "hundred of these heavenly years&rdquo; &mdash; the first and "
+         "lowest of six lifespan calculations given in ascending order."),
+        ("paranimmitavasavattīnaṁ devānaṁ soḷasa vassasahassāni "
+         "āyuppamāṇaṁ",
+         "&ldquo;the life span of the gods who control what is created by "
+         "others is sixteen thousand of these heavenly years&rdquo; "
+         "&mdash; the sixth and highest lifespan given, closing the "
+         "ascending sequence."),
+        ("appakasmiṁ hi rajje mānussake",
+         "&ldquo;human kingship is a poor thing&rdquo; &mdash; the "
+         "discourse's own refrain, repeated after each of the six "
+         "heavenly calculations, comparing human political power "
+         "unfavorably to divine happiness."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight factors compressed, an imperial "
+        "comparison, six heavenly lifespans, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The eight factors, and an empire found wanting"),
+        ("p", "&sect;1", "an8.42:1.1-3.5"),
+        ("h3", "Six heavens, each with its own arithmetic"),
+        ("p", "&sect;2", "an8.42:4.1-9.7"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.42:10.1-15.4"),
+    ],
+    quiz=[
+        {"q": "What imperial comparison does this discourse make to "
+              "measure the sabbath's worth?",
+         "opts": [
+             "Ruling a single small village",
+             "Ruling all sixteen great countries of the Buddha's world, "
+             "full of the seven kinds of precious things, still not worth "
+             "a sixteenth part of the sabbath",
+             "Owning a single precious gem",
+             "No comparison is made"],
+         "correct": 1,
+         "expl": "The largest political and material scale this book "
+                 "offers, still found wanting."},
+        {"q": "How many tiers of gods does this discourse's cosmological "
+              "sequence cover?",
+         "opts": [
+             "Three", "Six, from the four great kings up to the gods who "
+                       "control what is created by others",
+             "Twelve", "One"],
+         "correct": 1,
+         "expl": "The same six-tier sequence already met at AN 8.35 and AN "
+                 "8.36, now with lifespans attached."},
+        {"q": "What is given for each of the six heavenly tiers, for the "
+              "first time in this nipāta?",
+         "opts": [
+             "Their location on a map",
+             "A specific ratio of human to heavenly time and a total "
+             "heavenly lifespan",
+             "Their names alone, with no further detail",
+             "A description of their physical appearance"],
+         "correct": 1,
+         "expl": "Bare sequence names elsewhere become a fully worked "
+                 "cosmology here."},
+        {"q": "What refrain repeats after each of the six heavenly "
+              "calculations?",
+         "opts": [
+             "'This is impossible to verify'",
+             "'Human kingship is a poor thing compared to the happiness of "
+             "the gods'",
+             "'This applies only to monastics'",
+             "'None of this can be trusted'"],
+         "correct": 1,
+         "expl": "A comparison unfavorable to human political power, "
+                 "repeated six times."},
+        {"q": "How does this discourse handle AN 8.41's eight factors "
+              "themselves?",
+         "opts": [
+             "It restates them in full a second time",
+             "It compresses them by internal ellipsis before moving to the "
+             "extended comparison",
+             "It omits them entirely",
+             "It replaces them with a different set of factors"],
+         "correct": 1,
+         "expl": "A self-abbreviation, trusting the reader to recall AN "
+                 "8.41's fuller statement."},
+        {"q": "What is the lifespan given for the highest of the six "
+              "heavenly tiers?",
+         "opts": [
+             "Five hundred heavenly years",
+             "Sixteen thousand heavenly years",
+             "One thousand heavenly years",
+             "Two thousand heavenly years"],
+         "correct": 1,
+         "expl": "The gods who control what is created by others, closing "
+                 "the ascending sequence."},
+    ],
+    marginalia=[
+        ("An empire, still found wanting", [
+            "sixteen great countries,",
+            "full of the seven treasures —",
+            "not a sixteenth part of the sabbath",
+        ]),
+        ("Six heavens, worked in full", [
+            "four kings, thirty-three, Yama,",
+            "joyful, creating, controlling —",
+            "now with lifespans, for the first time",
+        ]),
+        ("The fourth appearance of this sequence", [
+            "after AN 8.35's settled wish,",
+            "AN 8.36's degrees of practice —",
+            "now the arithmetic itself",
+        ]),
+        ("Cross-references", [
+            "AN 8.41 &middot; previous, the same eight factors in brief",
+            "AN 8.43 &middot; next, the same detailed sabbath addressed to "
+            "Visākhā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.42/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.41.html">AN 8.41 &middot; The Sabbath With Eight Factors, In '
+        "Brief</a> &mdash; previous.",
+        '<a href="an-8.43.html">AN 8.43 &middot; With Visākhā on the Sabbath</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.43 — Visākhūposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    43, "Visākhūposatha", "With Visākhā on the Sabbath",
+    vagga=VAGGA_5,
+    meta_title="AN 8.43 — With Visākhā on the Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Visākhūposathasutta, addressing AN 8.42's detailed eight-factored "
+        "sabbath directly to the great laywoman patron Visākhā, in her own "
+        "residence, the stilt longhouse of Migāra's mother. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra's mother in "
+                    "the Eastern Monastery — Visākhā's own donated "
+                    "residence"),
+        ("Speakers", "The Buddha, addressing Visākhā directly"),
+        ("Form", "The identical content as AN 8.42, addressed to a named "
+                 "individual rather than to the mendicants generally"),
+        ("Length", "~4 minutes to read"),
+        ("Visākhā, this book's most prominent laywoman", "Visākhā, "
+                                                          "Migāra's mother, "
+                                                          "is one of the "
+                                                          "tradition's most "
+                                                          "celebrated lay "
+                                                          "donors, and this "
+                                                          "chapter will "
+                                                          "return to her by "
+                                                          "name in three "
+                                                          "further "
+                                                          "discourses"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.42, best read as a "
+                       "direct address rather than new material"),
+    ],
+    why=(
+        "The Buddha addresses Visākhā, Migāra's mother, directly with the "
+        "same detailed eight-factored sabbath and its cosmic-scale "
+        "comparisons met at AN 8.42, personalizing a teaching already given "
+        "generally to the mendicants."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Visākhā receives, addressed to her personally, the same "
+            "eight-factored sabbath teaching AN 8.42 gave in general terms: "
+            "an empire's wealth found wanting beside the sabbath, and six "
+            "tiers of heavenly lifespan reachable through its observance."]),
+        ("A teaching personalized, not altered", [
+            "Nothing in the content changes between AN 8.42 and this "
+            "discourse &mdash; the same sixteen countries, the same seven "
+            "precious things, the same six heavens with the same "
+            "lifespans. What changes is only the audience: a named "
+            "individual, in her own residence, rather than the mendicants "
+            "in general."]),
+        ("Visākhā's own place in this book", [
+            "This is the first of four discourses in this chapter "
+            "addressed to Visākhā by name &mdash; here, and again at AN "
+            "8.47 and AN 8.49, with AN 8.44 and AN 8.45 addressed to other "
+            "named lay figures using closely related material. Her "
+            "prominence in this cluster of discourses reflects her "
+            "standing as one of the tradition's most celebrated lay "
+            "donors."]),
+        ("Setting as its own detail", [
+            "The setting itself carries meaning: the stilt longhouse of "
+            "Migāra's mother in the Eastern Monastery was Visākhā's own "
+            "donation to the Saṅgha, so the Buddha teaches her this "
+            "discourse on the eight-factored sabbath inside a building she "
+            "herself provided."]),
+    ],
+    terms=[
+        ("visākhā migāramātā",
+         "Visākhā, Migāra's mother, the discourse's addressee and one of "
+         "the tradition's most celebrated lay donors."),
+        ("pubbārāme migāramātupāsāde",
+         "&ldquo;the stilt longhouse of Migāra's mother in the Eastern "
+         "Monastery&rdquo; &mdash; the setting, itself Visākhā's own gift "
+         "to the Saṅgha."),
+        ("aṭṭhaṅgasamannāgato uposatho",
+         "&ldquo;the sabbath with its eight factors&rdquo; &mdash; the "
+         "identical subject as AN 8.42, now addressed directly."),
+        ("soḷasannaṁ mahājanapadānaṁ",
+         "&ldquo;these sixteen great countries&rdquo; &mdash; the same "
+         "imperial comparison met at AN 8.42, unchanged in this "
+         "personalized address."),
+        ("cātumahārājikānaṁ ... paranimmitavasavattīnaṁ",
+         "the same six named tiers of gods, from the four great kings "
+         "through the gods who control what is created by others, "
+         "unchanged from AN 8.42."),
+    ],
+    text_intro=(
+        "The discourse in full: the same detailed sabbath teaching as AN "
+        "8.42, addressed directly to Visākhā. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the eight factors"),
+        ("p", "&sect;1", "an8.43:1.1-3.5"),
+        ("h3", "Six heavens, each with its own arithmetic"),
+        ("p", "&sect;2", "an8.43:4.1-6.10"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.43:7.1-12.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 8.42's?",
+         "opts": [
+             "Entirely different content",
+             "Identical content, addressed directly to Visākhā rather than "
+             "to the mendicants generally",
+             "A shortened summary of AN 8.42",
+             "An expanded version with new material"],
+         "correct": 1,
+         "expl": "A teaching personalized in audience, not altered in "
+                 "content."},
+        {"q": "Who is Visākhā, addressed in this discourse?",
+         "opts": [
+             "A queen ruling one of the sixteen great countries",
+             "One of the tradition's most celebrated lay donors, Migāra's "
+             "mother",
+             "A rival ascetic teacher",
+             "A member of the monastic Saṅgha"],
+         "correct": 1,
+         "expl": "A prominent laywoman this chapter addresses by name in "
+                 "several further discourses."},
+        {"q": "What is significant about this discourse's setting, "
+              "according to the guide?",
+         "opts": [
+             "It has no particular significance",
+             "The stilt longhouse of Migāra's mother was Visākhā's own "
+             "donation to the Saṅgha",
+             "It is the same location as AN 8.7's Devadatta discourse",
+             "It is Visākhā's birthplace"],
+         "correct": 1,
+         "expl": "The Buddha teaches Visākhā inside a building she herself "
+                 "provided."},
+        {"q": "How many discourses in this chapter address Visākhā by "
+              "name?",
+         "opts": [
+             "None besides this one",
+             "Four, including this one, at AN 8.43, 8.47, and 8.49",
+             "Ten", "One hundred"],
+         "correct": 1,
+         "expl": "A recurring addressee across this chapter, reflecting her "
+                 "prominence."},
+        {"q": "What imperial comparison appears in this discourse, "
+              "unchanged from AN 8.42?",
+         "opts": [
+             "A single small village",
+             "Ruling all sixteen great countries, full of the seven "
+             "precious things, still not worth a sixteenth part of the "
+             "sabbath",
+             "A single precious gem",
+             "No comparison appears"],
+         "correct": 1,
+         "expl": "The identical comparison, now addressed to Visākhā "
+                 "personally."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Sāvatthī, in the stilt longhouse of Migāra's mother in the "
+             "Eastern Monastery",
+             "Vesālī, at the Great Wood",
+             "Kapilavatthu, at the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "Visākhā's own donated residence."},
+    ],
+    marginalia=[
+        ("The same teaching, personalized", [
+            "identical content as 8.42 —",
+            "addressed now to Visākhā",
+            "by name, in her own residence",
+        ]),
+        ("A gift returned as teaching", [
+            "the longhouse she donated",
+            "becomes the very place",
+            "she receives this discourse",
+        ]),
+        ("A recurring addressee", [
+            "Visākhā appears again",
+            "at 8.47, 8.49 —",
+            "this chapter's most-named laywoman",
+        ]),
+        ("Cross-references", [
+            "AN 8.42 &middot; previous, the same teaching addressed "
+            "generally",
+            "AN 8.44 &middot; next, the layman Vāseṭṭha's own reflection "
+            "on this same sabbath",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.43/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.42.html">AN 8.42 &middot; The Sabbath With Eight Factors, In '
+        "Detail</a> &mdash; previous.",
+        '<a href="an-8.44.html">AN 8.44 &middot; With Vāseṭṭha on the Sabbath</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.44 — Vāseṭṭhūposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    44, "Vāseṭṭhūposatha", "With Vāseṭṭha on the Sabbath",
+    vagga=VAGGA_5,
+    meta_title="AN 8.44 — With Vāseṭṭha on the Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vāseṭṭhūposathasutta, in which the layman Vāseṭṭha's own response "
+        "to the sabbath teaching escalates from his family to all four "
+        "castes to the entire world, with the Buddha extending it even "
+        "further to sentient trees. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with the peaked "
+                    "roof"),
+        ("Speakers", "The layman Vāseṭṭha and the Buddha"),
+        ("Form", "The sabbath teaching heavily compressed by ellipsis, "
+                 "followed by Vāseṭṭha's own escalating reflection and the "
+                 "Buddha's confirmation, extended even further"),
+        ("Length", "~1 minute to read"),
+        ("The shortest of this chapter's sabbath discourses", "Where AN "
+                                                               "8.42 and AN "
+                                                               "8.43 spell "
+                                                               "out the full "
+                                                               "sabbath "
+                                                               "teaching, "
+                                                               "this "
+                                                               "discourse "
+                                                               "compresses "
+                                                               "nearly all "
+                                                               "of it, "
+                                                               "giving its "
+                                                               "real "
+                                                               "attention "
+                                                               "instead to "
+                                                               "Vāseṭṭha's "
+                                                               "own "
+                                                               "escalating "
+                                                               "response"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "with a memorable escalating structure in its second "
+                       "half"),
+    ],
+    why=(
+        "After the Buddha gives the eight-factored sabbath teaching to the "
+        "layman Vāseṭṭha in heavily compressed form, Vāseṭṭha responds by "
+        "wishing it first for his own relatives, then for all four castes, "
+        "prompting the Buddha to confirm and extend the wish even further "
+        "&mdash; to the whole world with its gods and humans, and even, "
+        "hypothetically, to sentient trees."),
+    guide=[
+        ("The teaching in one sentence", [
+            "If Vāseṭṭha's relatives observed the eight-factored sabbath "
+            "it would be for their lasting welfare and happiness; the "
+            "Buddha confirms this and extends it further, to all castes, "
+            "to the whole world of gods and humans, and even, "
+            "hypothetically, to sentient trees."]),
+        ("The sabbath teaching itself, barely stated", [
+            "Unusually for this cluster of sabbath discourses, this one "
+            "compresses the actual eight-factored teaching almost "
+            "entirely, jumping straight from the Buddha's opening "
+            "statement to its closing line via ellipsis. The discourse's "
+            "real interest lies not in restating the factors again but in "
+            "what happens next."]),
+        ("An escalation, moving outward from family", [
+            "Vāseṭṭha's own response builds in three steps: first his "
+            "immediate relatives and kin, then all four castes &mdash; "
+            "aristocrats, brahmins, peasants, and menials &mdash; named "
+            "explicitly rather than left implicit. Each step widens the "
+            "circle of who might benefit from the sabbath's observance."]),
+        ("The Buddha's confirmation, and a striking extension", [
+            "Rather than simply agreeing, the Buddha extends Vāseṭṭha's "
+            "own escalation even further: to the whole world with its "
+            "gods, Māras, and divinities, and then &mdash; in a "
+            "deliberately impossible hypothetical &mdash; even to the "
+            "great sal trees themselves, if they were sentient, closing "
+            "with the a fortiori conclusion: how much more, then, a human "
+            "being."]),
+    ],
+    terms=[
+        ("vāseṭṭho gahapati",
+         "the layman Vāseṭṭha, whose own reflection on the sabbath "
+         "teaching's reach is this discourse's real subject."),
+        ("ñātisālohitā",
+         "&ldquo;relatives and kin&rdquo; &mdash; the first and narrowest "
+         "circle Vāseṭṭha wishes the sabbath's benefit for."),
+        ("khattiyā ... brāhmaṇā ... vessā ... suddā",
+         "&ldquo;aristocrats, brahmins, peasants, and menials&rdquo; "
+         "&mdash; the four traditional castes, named explicitly as the "
+         "second and wider circle of Vāseṭṭha's wish."),
+        ("sadevako loko samārako sabrahmako sassamaṇabrāhmaṇī pajā "
+         "sadevamanussā",
+         "&ldquo;the whole world&mdash;with its gods, Māras, and "
+         "divinities, this population with its ascetics and brahmins, "
+         "gods and humans&rdquo; &mdash; the Buddha's own further "
+         "extension, beyond even Vāseṭṭha's four castes."),
+        ("sace sattā abhavissaṁsu",
+         "&ldquo;if they were sentient&rdquo; &mdash; the deliberately "
+         "impossible hypothetical applied to the great sal trees, closing "
+         "the discourse's escalation with an a fortiori argument for "
+         "human beings."),
+    ],
+    text_intro=(
+        "The discourse in full: the sabbath teaching compressed, and "
+        "Vāseṭṭha's own escalating reflection. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the sabbath teaching, compressed"),
+        ("p", "&sect;1", "an8.44:1.1-1.4"),
+        ("h3", "Vāseṭṭha's escalating reflection, and the Buddha's answer"),
+        ("p", "&sect;2", "an8.44:2.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse treat the actual eight-factored "
+              "sabbath teaching, compared to AN 8.42 and AN 8.43?",
+         "opts": [
+             "It restates the teaching in even greater detail",
+             "It compresses the teaching almost entirely by ellipsis, "
+             "focusing instead on what follows",
+             "It omits the teaching entirely with no mention",
+             "It contradicts the earlier teaching"],
+         "correct": 1,
+         "expl": "The shortest of this chapter's sabbath discourses, with "
+                 "its real attention elsewhere."},
+        {"q": "What three steps does Vāseṭṭha's own reflection move "
+              "through?",
+         "opts": [
+             "Himself alone, then his village, then the entire universe",
+             "His relatives and kin, then all four castes explicitly "
+             "named, prompting the Buddha's further extension",
+             "Only his immediate family, with no further extension",
+             "A single step with no escalation at all"],
+         "correct": 1,
+         "expl": "A widening circle, extended even further by the Buddha's "
+                 "own response."},
+        {"q": "How far does the Buddha's own extension of Vāseṭṭha's wish "
+              "reach?",
+         "opts": [
+             "No further than the four castes",
+             "The whole world with its gods and humans, and even, "
+             "hypothetically, the great sal trees, if they were sentient",
+             "Only to the mendicant Saṅgha",
+             "Only to Vāseṭṭha's own household"],
+         "correct": 1,
+         "expl": "An a fortiori argument, closing with 'how much more then "
+                 "a human being.'"},
+        {"q": "What four castes does Vāseṭṭha name explicitly?",
+         "opts": [
+             "Farmers, merchants, soldiers, and priests",
+             "Aristocrats, brahmins, peasants, and menials",
+             "Kings, queens, princes, and princesses",
+             "Ascetics, brahmins, laymen, and laywomen"],
+         "correct": 1,
+         "expl": "The traditional fourfold caste division, named as the "
+                 "second, wider circle of his wish."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in the stilt longhouse of Migāra's mother",
+             "Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, at the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "A setting shared with several other discourses in this "
+                 "book, including AN 8.12."},
+        {"q": "What rhetorical device closes the discourse?",
+         "opts": [
+             "A simple restatement",
+             "An a fortiori argument — if even hypothetically sentient "
+             "trees would benefit, how much more a human being",
+             "A direct contradiction of Vāseṭṭha",
+             "A refusal to answer"],
+         "correct": 1,
+         "expl": "The Buddha's own rhetorical extension, closing the "
+                 "discourse."},
+    ],
+    marginalia=[
+        ("The teaching barely stated", [
+            "compressed almost entirely —",
+            "this discourse's real interest",
+            "lies in what comes after",
+        ]),
+        ("An escalation outward", [
+            "relatives, then all castes,",
+            "then the whole world of beings,",
+            "then even sentient trees",
+        ]),
+        ("How much more, a human being", [
+            "if trees, hypothetically,",
+            "would benefit from the sabbath —",
+            "the Buddha's own closing argument",
+        ]),
+        ("Cross-references", [
+            "AN 8.43 &middot; previous, the full sabbath teaching addressed "
+            "to Visākhā",
+            "AN 8.45 &middot; next, the same teaching addressed to the "
+            "laywoman Bojjhā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.44/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.43.html">AN 8.43 &middot; With Visākhā on the Sabbath</a> &mdash; '
+        "previous.",
+        '<a href="an-8.45.html">AN 8.45 &middot; With Bojjhā on the Sabbath</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.45 — Bojjhūposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    45, "Bojjhūposatha", "With Bojjhā on the Sabbath",
+    vagga=VAGGA_5,
+    meta_title="AN 8.45 — With Bojjhā on the Sabbath | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bojjhūposathasutta, the detailed sabbath teaching addressed to "
+        "the laywoman Bojjhā, closing with a line whose English translation "
+        "diverges from the identical Pāli given at AN 8.42 and 8.43 — "
+        "noted honestly rather than silently corrected. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery"),
+        ("Speakers", "The Buddha, addressing the laywoman Bojjhā directly"),
+        ("Form", "The same detailed sabbath teaching as AN 8.42 and 8.43, "
+                 "addressed to a third named individual"),
+        ("Length", "~4 minutes to read"),
+        ("A translation discrepancy, noted honestly", "This discourse's "
+                                                       "closing verse "
+                                                       "compares the "
+                                                       "sabbath's worth to "
+                                                       "royal wealth in "
+                                                       "Pāli identical to "
+                                                       "AN 8.42 and 8.43, "
+                                                       "but the English "
+                                                       "translation in the "
+                                                       "source data reads "
+                                                       "&ldquo;the mind "
+                                                       "developed with "
+                                                       "love&rdquo; instead "
+                                                       "&mdash; almost "
+                                                       "certainly carried "
+                                                       "over from AN 8.1's "
+                                                       "own verse, and "
+                                                       "presented here as "
+                                                       "found rather than "
+                                                       "silently corrected"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.42 and 8.43, worth "
+                       "reading for its one genuine textual anomaly"),
+    ],
+    why=(
+        "The Buddha addresses the laywoman Bojjhā with the same detailed "
+        "eight-factored sabbath teaching given to Visākhā at AN 8.43, "
+        "though the closing verses in this discourse's English translation "
+        "contain a small, apparently inherited discrepancy worth noting "
+        "rather than silently smoothing over."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Bojjhā receives the same detailed sabbath teaching as "
+            "Visākhā at AN 8.43 &mdash; the sixteen-country comparison and "
+            "the six ascending tiers of heavenly lifespan &mdash; word for "
+            "word, in Pāli, even where the English translation of one "
+            "closing line appears to diverge."]),
+        ("A third named laywoman", [
+            "Where AN 8.43 addressed Visākhā and AN 8.44 addressed the "
+            "layman Vāseṭṭha, this discourse turns to a third figure, the "
+            "laywoman Bojjhā, otherwise little known elsewhere in this "
+            "collection, receiving the identical detailed teaching in the "
+            "familiar setting of Jeta's Grove."]),
+        ("A line that doesn't quite match its own source", [
+            "Checking the root Pāli against the English translation "
+            "reveals something worth flagging honestly: the line "
+            "translated elsewhere (AN 8.42, AN 8.43) as &ldquo;not worth a "
+            "sixteenth part of the sabbath with its eight factors&rdquo; "
+            "appears in this discourse's English rendering as &ldquo;not "
+            "worth a sixteenth part of the mind developed with love&rdquo; "
+            "&mdash; even though the underlying Pāli line is word-for-word "
+            "identical to AN 8.42 and 8.43's own."]),
+        ("Presented as found, not silently corrected", [
+            "This project pulls its text directly from the source "
+            "translation data without hand-editing, and this small "
+            "discrepancy is presented the same way: as an observed "
+            "anomaly, almost certainly an accidental carryover from AN "
+            "8.1's own verse about a mind developed with love, rather than "
+            "a deliberate variant reading, but reported honestly rather "
+            "than quietly fixed."]),
+    ],
+    terms=[
+        ("bojjhā upāsikā",
+         "the laywoman Bojjhā, this discourse's addressee, otherwise "
+         "little known elsewhere in this collection."),
+        ("aṭṭhaṅgasamannāgato uposatho",
+         "&ldquo;the sabbath with its eight factors&rdquo; &mdash; the "
+         "same subject as AN 8.42 and 8.43, unchanged in content here."),
+        ("kalampi te nānubhavanti soḷasiṁ",
+         "&ldquo;they're not worth a sixteenth part&rdquo; &mdash; the "
+         "Pāli line identical across AN 8.42, 8.43, and this discourse, "
+         "though its English translation here reads differently."),
+        ("mettāya cittaṁ bhāvitaṁ",
+         "&ldquo;a mind developed with love&rdquo; &mdash; the phrase this "
+         "discourse's own English translation supplies at the point where "
+         "AN 8.42 and 8.43 both read &ldquo;the sabbath with its eight "
+         "factors,&rdquo; an apparent carryover from AN 8.1."),
+        ("cātumahārājikānaṁ ... paranimmitavasavattīnaṁ",
+         "the same six named tiers of gods met at AN 8.42 and 8.43, "
+         "unchanged in this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the same detailed sabbath teaching as AN "
+        "8.42 and 8.43, addressed to Bojjhā, with one closing line "
+        "presented as found in the source translation. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the eight factors"),
+        ("p", "&sect;1", "an8.45:1.1-4.5"),
+        ("h3", "Six heavens, each with its own arithmetic"),
+        ("p", "&sect;2", "an8.45:5.1-6.11"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.45:7.1-12.4"),
+    ],
+    quiz=[
+        {"q": "Who is addressed in this discourse?",
+         "opts": [
+             "Visākhā, Migāra's mother", "The laywoman Bojjhā",
+             "The layman Vāseṭṭha", "Venerable Anuruddha"],
+         "correct": 1,
+         "expl": "A third named lay figure in this chapter's sabbath "
+                 "cluster."},
+        {"q": "What discrepancy does the guide flag in this discourse's "
+              "closing verses?",
+         "opts": [
+             "A missing paragraph",
+             "The English translation reads 'the mind developed with love' "
+             "at a point where the identical Pāli matches AN 8.42 and "
+             "8.43's 'the sabbath with its eight factors'",
+             "A different setting than stated",
+             "A missing quiz question"],
+         "correct": 1,
+         "expl": "A small, apparently inherited discrepancy in the source "
+                 "translation data."},
+        {"q": "How does the guide handle this discrepancy?",
+         "opts": [
+             "By silently correcting the translation to match AN 8.42",
+             "By noting it honestly as an observed anomaly, likely carried "
+             "over from AN 8.1, without silently fixing it",
+             "By ignoring it entirely",
+             "By claiming it as a deliberate variant reading with certainty"],
+         "correct": 1,
+         "expl": "Presented as found, consistent with this project's "
+                 "practice of not hand-editing source text."},
+        {"q": "How does the rest of this discourse's content compare to AN "
+              "8.43?",
+         "opts": [
+             "Entirely different",
+             "The same detailed sabbath teaching — sixteen countries, six "
+             "heavenly tiers — addressed to a different named individual",
+             "A much shorter summary",
+             "Contradictory in its core teaching"],
+         "correct": 1,
+         "expl": "Identical core content, personalized to a third "
+                 "addressee."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Vesālī, at the Great Wood",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, at the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "The familiar opening setting shared with many discourses "
+                 "in this book."},
+        {"q": "What is likely the true source of the discrepant line, "
+              "according to the guide?",
+         "opts": [
+             "A deliberate doctrinal revision",
+             "An accidental carryover from AN 8.1's own verse about a mind "
+             "developed with love",
+             "A scribal error unique to this discourse with no clear "
+             "origin",
+             "An intentional cross-reference"],
+         "correct": 1,
+         "expl": "A plausible but not certain explanation, offered "
+                 "honestly rather than asserted as fact."},
+    ],
+    marginalia=[
+        ("A third named laywoman", [
+            "after Visākhā, Vāseṭṭha —",
+            "Bojjhā receives the same",
+            "detailed sabbath teaching",
+        ]),
+        ("A line that doesn't quite match", [
+            "identical Pāli, but the English",
+            "reads 'mind developed with love' —",
+            "likely carried over from AN 8.1",
+        ]),
+        ("Reported, not corrected", [
+            "this project pulls text as found —",
+            "the anomaly noted honestly,",
+            "not silently smoothed over",
+        ]),
+        ("Cross-references", [
+            "AN 8.44 &middot; previous, Vāseṭṭha's own escalating "
+            "reflection",
+            "AN 8.1 &middot; earlier, the likely source of this "
+            "discourse's discrepant closing line",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.45/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.44.html">AN 8.44 &middot; With Vāseṭṭha on the Sabbath</a> &mdash; '
+        "previous.",
+        '<a href="an-8.1.html">AN 8.1 &middot; The Benefits of Love</a> &mdash; earlier, the '
+        "likely source of this discourse's discrepant line.",
+        '<a href="an-8.46.html">AN 8.46 &middot; Anuruddha and the Agreeable Deities</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.46 — Anuruddhasutta -- note: this is a DIFFERENT discourse from
+# an-8.30.html's own Pāli title (Anuruddhamahāvitakkasutta names AN 8.30's
+# "great thoughts" discourse); this discourse's own Pāli title is the
+# shorter Anuruddhasutta. Content here is a candid, patriarchal-household
+# teaching on a wife's duties; presented honestly per this project's
+# AN4.80/AN7.63 precedent, without softening or endorsing.
+# --------------------------------------------------------------------------- #
+page(
+    46, "Anuruddha", "Anuruddha and the Agreeable Deities",
+    vagga=VAGGA_5,
+    meta_title="AN 8.46 — Anuruddha and the Agreeable Deities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anuruddhasutta, opening with deities displaying their powers "
+        "to Venerable Anuruddha and vanishing in embarrassment when he "
+        "stays unmoved, then turning to eight qualities the source "
+        "attributes to a wife securing rebirth among those very gods — "
+        "presented honestly, without softening its patriarchal framing. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kosambī, in Ghosita's Monastery"),
+        ("Speakers", "Deities of the Agreeable Host, Venerable Anuruddha, "
+                     "and the Buddha"),
+        ("Form", "A narrative of deities displaying psychic power and "
+                 "vanishing in embarrassment, followed by the Buddha's own "
+                 "answer to Anuruddha's resulting question, in prose and "
+                 "verse"),
+        ("Length", "~3 minutes to read"),
+        ("Candid, patriarchal household content", "The eight qualities "
+                                                   "named here describe a "
+                                                   "wife's deference and "
+                                                   "duty toward her "
+                                                   "husband within an "
+                                                   "ancient household "
+                                                   "structure; this reading "
+                                                   "guide presents the text "
+                                                   "as it stands, following "
+                                                   "this project's practice "
+                                                   "elsewhere (AN 4.80, AN "
+                                                   "7.63) of not softening "
+                                                   "or endorsing difficult "
+                                                   "historical material"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "charming narrative opening, followed by content "
+                       "that asks careful, honest reading"),
+    ],
+    why=(
+        "Deities of the Agreeable Host visit Venerable Anuruddha in "
+        "meditation, showing off their power to change color, voice, and "
+        "pleasure at will, and perform music and dance for him &mdash; but "
+        "vanish in embarrassment when he stays unmoved; asking the Buddha "
+        "afterward what leads women to be reborn among such gods, "
+        "Anuruddha receives an answer built entirely around eight qualities "
+        "of deference and duty within marriage."),
+    guide=[
+        ("The teaching in one sentence", [
+            "According to this discourse, a wife who honors her husband's "
+            "wishes in household management, defers to those he respects, "
+            "safeguards his wealth, and adds faith, ethics, and generosity "
+            "of her own is, on this account, reborn among the Agreeable "
+            "Host of gods &mdash; the very deities who visited Anuruddha at "
+            "this discourse's opening."]),
+        ("A narrative of unmoved equanimity", [
+            "The discourse opens with something genuinely striking: "
+            "deities who can turn any color, produce any voice, and "
+            "conjure any pleasure at will perform an irresistible show for "
+            "Anuruddha, described as graceful, tantalizing, and "
+            "intoxicating &mdash; and he simply averts his senses. Finding "
+            "themselves unable to move him, the deities vanish in what the "
+            "text frames as embarrassment."]),
+        ("Eight qualities, read honestly", [
+            "Anuruddha's resulting question to the Buddha &mdash; what "
+            "leads women to be reborn among these gods &mdash; receives an "
+            "answer built around eight qualities: deference to a husband's "
+            "schedule and wishes, honoring whoever he honors, skill and "
+            "diligence in domestic management, fair oversight of "
+            "household staff, careful guarding of his income, and three "
+            "further qualities &mdash; refuge, ethical conduct, and "
+            "generosity &mdash; shared with the ethical ideals taught "
+            "elsewhere in this book to men and women alike. This reading "
+            "guide states the content plainly rather than reframing it as "
+            "timeless or universal advice."]),
+        ("A pattern this book doesn't apply symmetrically", [
+            "Unlike AN 8.17/8.18's deliberately mirrored pair on catching, "
+            "this discourse and its companions (AN 8.47, 8.48) have no "
+            "reversed counterpart addressed to husbands. The asymmetry is "
+            "itself worth noticing: this cluster of teachings, addressed "
+            "to and about women, doesn't receive the same paired treatment "
+            "this book gives some of its other gendered material."]),
+    ],
+    terms=[
+        ("manāpakāyikā devā",
+         "&ldquo;the Agreeable Host,&rdquo; or &ldquo;deities called "
+         "&lsquo;Agreeable&rsquo;&rdquo; &mdash; this discourse's own "
+         "title-figures, wielding control over color, voice, and pleasure."),
+        ("mātāpitaro dadanti atthakāmā hitesino anukampakā",
+         "&ldquo;her mother and father give her to a husband wanting "
+         "what's best for her, out of kindness and sympathy&rdquo; &mdash; "
+         "the discourse's own framing of marriage, presented here without "
+         "further comment."),
+        ("orundhati sāmikassa bhaṇḍaṁ",
+         "&ldquo;guards and protects any income her husband earns&rdquo; "
+         "&mdash; one of the eight qualities, financial stewardship on the "
+         "husband's behalf."),
+        ("upāsikā hoti, sīlavatī hoti, cāgavatī hoti",
+         "&ldquo;a lay follower who has gone for refuge... ethical... "
+         "generous&rdquo; &mdash; the final three of the eight qualities, "
+         "shared in substance with ideals taught to men elsewhere in this "
+         "book."),
+        ("cattāri ṭhānāni adhigayha",
+         "part of the phrase describing the deities' threefold power over "
+         "color, voice, and pleasure, displayed and then withdrawn once "
+         "Anuruddha shows no interest."),
+    ],
+    text_intro=(
+        "The discourse in full: deities performing for Anuruddha, then his "
+        "question and the Buddha's answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Deities of the Agreeable Host"),
+        ("p", "&sect;1", "an8.46:1.1-1.8"),
+        ("h3", "A performance, and unmoved equanimity"),
+        ("p", "&sect;2", "an8.46:2.1-5.2"),
+        ("h3", "Anuruddha's question"),
+        ("p", "&sect;3", "an8.46:9.2-9.2"),
+        ("h3", "Eight qualities"),
+        ("p", "&sect;4", "an8.46:10.1-18.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;5", "an8.46:19.1-22.4"),
+    ],
+    quiz=[
+        {"q": "What happens when the Agreeable deities perform music and "
+              "dance for Anuruddha?",
+         "opts": [
+             "He is delighted and asks for more",
+             "He averts his senses and stays unmoved, so the deities "
+             "vanish in what the text frames as embarrassment",
+             "He immediately falls asleep",
+             "He joins in the performance himself"],
+         "correct": 1,
+         "expl": "A striking demonstration of equanimity, prompting the "
+                 "deities' own reaction."},
+        {"q": "What question does Anuruddha bring to the Buddha afterward?",
+         "opts": [
+             "How to gain the same psychic powers himself",
+             "What leads women to be reborn among the Agreeable Host of "
+             "gods",
+             "Whether the deities were lying",
+             "How to summon deities at will"],
+         "correct": 1,
+         "expl": "The question that prompts the Buddha's eightfold answer."},
+        {"q": "How does the guide characterize the eight qualities named in "
+              "the Buddha's answer?",
+         "opts": [
+             "As timeless, universally applicable advice for everyone",
+             "As candid content reflecting an ancient patriarchal household "
+             "structure, presented honestly rather than softened",
+             "As entirely metaphorical, not about literal marriage",
+             "As irrelevant to understanding this discourse"],
+         "correct": 1,
+         "expl": "Stated plainly, following this project's practice with "
+                 "other difficult historical material."},
+        {"q": "What asymmetry does the guide point out about this cluster "
+              "of discourses?",
+         "opts": [
+             "None; it is perfectly symmetrical with a matching discourse "
+             "for husbands",
+             "Unlike AN 8.17/8.18's mirrored pair, this cluster addressed "
+             "to and about women has no reversed counterpart for husbands",
+             "It is addressed only to monastics",
+             "It applies equally and identically to all genders"],
+         "correct": 1,
+         "expl": "Worth noticing explicitly, unlike the deliberate mirror "
+                 "structure met elsewhere in this book."},
+        {"q": "What three of the eight qualities are shared in substance "
+              "with ideals taught to men elsewhere in this book?",
+         "opts": [
+             "Physical strength, courage, and wealth",
+             "Refuge in the triple gem, ethical conduct, and generosity",
+             "Skill in debate, patience, and wisdom",
+             "None of the eight qualities are shared with material "
+             "elsewhere"],
+         "correct": 1,
+         "expl": "The final three qualities, echoing broader ethical ideals "
+                 "in this collection."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Kosambī, in Ghosita's Monastery",
+             "Vesālī, at the Great Wood", "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "A location distinct from the sabbath cluster's usual "
+                 "settings."},
+    ],
+    marginalia=[
+        ("Unmoved by an irresistible show", [
+            "any color, any voice,",
+            "any pleasure at will —",
+            "Anuruddha simply looks away",
+        ]),
+        ("Eight qualities, read plainly", [
+            "deference, household duty,",
+            "guarding income, honoring",
+            "whoever the husband honors",
+        ]),
+        ("An asymmetry worth noting", [
+            "no mirrored discourse exists",
+            "addressed the other way —",
+            "unlike this book's paired discourses elsewhere",
+        ]),
+        ("Cross-references", [
+            "AN 8.45 &middot; previous, closing the sabbath teaching's "
+            "detailed form",
+            "AN 8.47 &middot; next, the same eight qualities addressed to "
+            "Visākhā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.46/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.45.html">AN 8.45 &middot; With Bojjhā on the Sabbath</a> &mdash; '
+        "previous.",
+        '<a href="an-8.47.html">AN 8.47 &middot; With Visākhā on the Agreeable Gods</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.47 — Visākhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    47, "Visākhā", "With Visākhā on the Agreeable Gods",
+    vagga=VAGGA_5,
+    meta_title="AN 8.47 — With Visākhā on the Agreeable Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Visākhāsutta, addressing AN 8.46's eight wifely qualities directly "
+        "to Visākhā without the deity narrative that opened it — presented "
+        "honestly, without softening its patriarchal framing. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra's mother in "
+                    "the Eastern Monastery"),
+        ("Speakers", "The Buddha, addressing Visākhā directly"),
+        ("Form", "The same eight qualities as AN 8.46, addressed directly "
+                 "without Anuruddha's deity narrative, compressed in the "
+                 "middle by internal ellipsis"),
+        ("Length", "~2 minutes to read"),
+        ("The narrative frame dropped, the content kept", "Where AN 8.46 "
+                                                           "reached its "
+                                                           "eight qualities "
+                                                           "through "
+                                                           "Anuruddha's own "
+                                                           "encounter with "
+                                                           "deities, this "
+                                                           "discourse "
+                                                           "states them "
+                                                           "directly to "
+                                                           "Visākhā with no "
+                                                           "narrative "
+                                                           "framing at all"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "best read alongside AN 8.46 for its narrative "
+                       "context"),
+    ],
+    why=(
+        "The Buddha states directly to Visākhā the same eight qualities AN "
+        "8.46 attributed to a wife securing rebirth among the Agreeable "
+        "Host of gods, dropping Anuruddha's deity narrative entirely and "
+        "delivering the teaching without any framing story."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same eight qualities named at AN 8.46 &mdash; deference "
+            "to a husband's schedule and wishes, honoring whoever he "
+            "honors, household diligence, fair management of staff, "
+            "guarding his income, and refuge, ethics, and generosity "
+            "&mdash; are stated here directly to Visākhā, without the "
+            "deity narrative that framed them before."]),
+        ("A direct address, no narrative needed", [
+            "This discourse strips away everything AN 8.46 used to "
+            "arrive at its eight qualities &mdash; the deities' display of "
+            "power, their performance, their vanishing, Anuruddha's "
+            "question &mdash; and simply states the content to Visākhā as "
+            "a direct teaching, opening with the same standard visit "
+            "formula met throughout this chapter's Visākhā discourses."]),
+        ("The same content, the same honest presentation", [
+            "This reading guide continues to present the eight qualities "
+            "as they stand in the source, without softening their "
+            "patriarchal household framing or claiming they represent "
+            "universal or timeless advice &mdash; the same approach taken "
+            "at AN 8.46, applied here to the identical content."]),
+        ("A pattern of repetition across this chapter", [
+            "This is now the fourth discourse in this chapter that repeats "
+            "substantially the same content across different addressees "
+            "&mdash; following AN 8.42/8.43/8.45's detailed sabbath "
+            "teaching &mdash; suggesting this book's compilers valued "
+            "recording which named individuals received which teachings "
+            "as much as recording the teachings' content itself."]),
+    ],
+    terms=[
+        ("visākhā migāramātā",
+         "Visākhā, Migāra's mother, addressed here without any "
+         "intervening narrative, unlike AN 8.46's deity encounter."),
+        ("aṭṭha dhammā samannāgatā",
+         "&ldquo;when they have eight qualities&rdquo; &mdash; the "
+         "discourse's own opening formula, identical to AN 8.46's."),
+        ("manāpakāyikānaṁ devānaṁ sahabyataṁ upapajjanti",
+         "&ldquo;reborn in company with the Gods of the Agreeable "
+         "Host&rdquo; &mdash; the same destination named at AN 8.46, now "
+         "reached without any narrative framing."),
+        ("sīlavatī hoti, cāgavatī hoti",
+         "&ldquo;ethical... generous&rdquo; &mdash; two of the final three "
+         "qualities, shared in substance with broader ethical ideals in "
+         "this book."),
+        ("anukampakena atthakāmena bhattu vasaṁ vattamānā",
+         "part of the discourse's own framing of a household relationship, "
+         "presented here as found rather than reinterpreted."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight qualities as AN 8.46, "
+        "addressed directly to Visākhā. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the eight qualities"),
+        ("p", "&sect;1", "an8.47:1.1-3.3"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.47:4.1-7.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content relate to AN 8.46's?",
+         "opts": [
+             "Entirely unrelated content",
+             "The identical eight qualities, without the deity narrative "
+             "that framed them at AN 8.46",
+             "A contradicting set of eight qualities",
+             "An expanded version with new content"],
+         "correct": 1,
+         "expl": "The narrative dropped, the teaching kept, addressed "
+                 "directly to Visākhā."},
+        {"q": "What does this discourse omit that AN 8.46 included?",
+         "opts": [
+             "The eight qualities themselves",
+             "The deities' display of power, their performance, and "
+             "Anuruddha's resulting question",
+             "The rebirth destination named",
+             "Nothing is omitted"],
+         "correct": 1,
+         "expl": "A direct statement, without the narrative that led to "
+                 "the teaching in AN 8.46."},
+        {"q": "According to the guide, what does this discourse's "
+              "repetition suggest about this chapter's compilers?",
+         "opts": [
+             "That they made an editing error",
+             "That recording which named individuals received which "
+             "teachings mattered as much as the content itself",
+             "That they had run out of new material",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "A pattern of repetition across named addressees, seen "
+                 "also in the sabbath cluster."},
+        {"q": "How does this reading guide handle the eight qualities' "
+              "content?",
+         "opts": [
+             "By reframing them as universal, timeless advice",
+             "By presenting them honestly as they stand, without "
+             "softening their patriarchal household framing",
+             "By omitting them from the discussion entirely",
+             "By declaring them entirely irrelevant today"],
+         "correct": 1,
+         "expl": "The same honest approach taken at AN 8.46, applied to "
+                 "identical content."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kosambī, in Ghosita's Monastery",
+             "Sāvatthī, in the stilt longhouse of Migāra's mother in the "
+             "Eastern Monastery",
+             "Vesālī, at the Great Wood",
+             "Rājagaha, on Vulture's Peak"],
+         "correct": 1,
+         "expl": "Visākhā's own donated residence, distinct from AN 8.46's "
+                 "Kosambī setting."},
+        {"q": "What destination do the eight qualities lead to, as in AN "
+              "8.46?",
+         "opts": [
+             "The Divinity's host",
+             "Rebirth in company with the Gods of the Agreeable Host",
+             "The gods of the four great kings",
+             "No specific destination is named"],
+         "correct": 1,
+         "expl": "The identical destination as AN 8.46, unchanged in this "
+                 "direct address."},
+    ],
+    marginalia=[
+        ("The narrative dropped", [
+            "no deities, no performance —",
+            "the same eight qualities",
+            "stated directly to Visākhā",
+        ]),
+        ("Read the same way, honestly", [
+            "no softening applied here",
+            "any more than at AN 8.46 —",
+            "the content presented as it stands",
+        ]),
+        ("A pattern across this chapter", [
+            "the fourth repeated teaching",
+            "to a different named addressee —",
+            "who received what seems to matter here",
+        ]),
+        ("Cross-references", [
+            "AN 8.46 &middot; previous, the same eight qualities with "
+            "Anuruddha's deity narrative",
+            "AN 8.48 &middot; next, the same teaching addressed to "
+            "Nakula's mother",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.47/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.46.html">AN 8.46 &middot; Anuruddha and the Agreeable Deities</a> '
+        "&mdash; previous.",
+        '<a href="an-8.48.html">AN 8.48 &middot; With Nakula&rsquo;s Mother on the '
+        "Agreeable Gods</a> &mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.48 — Nakulamātusutta
+# --------------------------------------------------------------------------- #
+page(
+    48, "Nakulamātu", "With Nakula&rsquo;s Mother on the Agreeable Gods",
+    vagga=VAGGA_5,
+    meta_title="AN 8.48 — With Nakula's Mother on the Agreeable Gods | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Nakulamātusutta, the same eight qualities restated in full for "
+        "the laywoman Nakula's mother, one half of this tradition's most "
+        "celebrated devoted couple. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Bhaggas, at Crocodile's Bellow, in the "
+                    "deer park at Bhesakaḷā's Wood"),
+        ("Speakers", "The Buddha, addressing the housewife Nakula's mother "
+                     "directly"),
+        ("Form", "The same eight qualities as AN 8.46 and 8.47, this time "
+                 "spelled out in full without internal ellipsis"),
+        ("Length", "~2 minutes to read"),
+        ("A third named addressee, in full detail", "Where AN 8.47 "
+                                                     "compressed the middle "
+                                                     "qualities by "
+                                                     "ellipsis, this "
+                                                     "discourse restates "
+                                                     "every one of the "
+                                                     "eight qualities in "
+                                                     "full for Nakula's "
+                                                     "mother, one half of a "
+                                                     "couple this tradition "
+                                                     "elsewhere celebrates "
+                                                     "for their devotion"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.46 and 8.47, given here "
+                       "in its fullest, most detailed form"),
+    ],
+    why=(
+        "The Buddha restates the same eight qualities met at AN 8.46 and "
+        "8.47 in full, this time for Nakula's mother, a laywoman elsewhere "
+        "in the tradition celebrated together with her husband Nakula's "
+        "father as an exemplary devoted couple."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nakula's mother receives the same eight qualities as Visākhā "
+            "at AN 8.47 and the answer given to Anuruddha at AN 8.46, "
+            "spelled out here in their fullest form without any "
+            "compressing ellipsis."]),
+        ("A third address, now given in full", [
+            "This is the third time this cluster of discourses states the "
+            "same eight qualities, and the first since AN 8.46 to spell "
+            "every one of them out in complete detail rather than "
+            "compressing the middle sections &mdash; deference to the "
+            "husband's schedule, honoring whoever he honors, household "
+            "diligence, staff management, income guarding, refuge, "
+            "ethics, and generosity, each given its full description."]),
+        ("Nakula's mother, elsewhere a celebrated figure", [
+            "Nakula's mother and her husband, Nakula's father, are "
+            "remembered elsewhere in this literature as an exemplary "
+            "devoted couple, addressed together by the Buddha in other "
+            "discourses on aging and companionship across a shared "
+            "spiritual life &mdash; a context this particular discourse "
+            "doesn't itself reference, focused instead on the same eight "
+            "qualities met twice already in this chapter."]),
+        ("Continuing this project's honest presentation", [
+            "As with AN 8.46 and 8.47, this reading guide states the "
+            "content as it stands in the source rather than reframing it "
+            "as universal counsel, maintaining the same practice across "
+            "all three discourses in this chapter's wifely-duty cluster."]),
+    ],
+    terms=[
+        ("nakulamātā gahapatānī",
+         "the housewife Nakula's mother, this discourse's addressee, "
+         "elsewhere celebrated together with her husband as a devoted "
+         "couple."),
+        ("bhagganaṁ susumāragire bhesakaḷāvane migadāye",
+         "&ldquo;the land of the Bhaggas at Crocodile's Bellow, in the "
+         "deer park at Bhesakaḷā's Wood&rdquo; &mdash; this discourse's "
+         "own distinct setting, different from AN 8.46's Kosambī and AN "
+         "8.47's Sāvatthī."),
+        ("dakkho hoti analasā tattha upāyāya",
+         "&ldquo;deft and tireless&rdquo; &mdash; part of the third "
+         "quality, household diligence, spelled out here without "
+         "compression."),
+        ("na atimaññati, na acchati, na avamaññati",
+         "part of the discourse's description of proper deference within "
+         "the marriage, given in full in this particular restatement."),
+        ("manāpakāyikānaṁ devānaṁ sahabyataṁ upapajjanti",
+         "&ldquo;reborn in company with the Gods of the Agreeable "
+         "Host&rdquo; &mdash; the same destination named at AN 8.46 and "
+         "8.47, unchanged in this fuller restatement."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight qualities as AN 8.46 and "
+        "8.47, spelled out in complete detail for Nakula's mother. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and the eight qualities in full"),
+        ("p", "&sect;1", "an8.48:1.1-10.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;2", "an8.48:11.1-14.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's presentation differ from AN "
+              "8.47's?",
+         "opts": [
+             "It has entirely different content",
+             "It spells out every one of the eight qualities in full, "
+             "without the compressing ellipsis AN 8.47 used",
+             "It has fewer qualities than AN 8.47",
+             "It contradicts AN 8.47's teaching"],
+         "correct": 1,
+         "expl": "The fullest, most detailed restatement of this "
+                 "cluster's shared content."},
+        {"q": "Who is Nakula's mother, addressed in this discourse?",
+         "opts": [
+             "A member of the Buddha's own Sakyan clan",
+             "A laywoman elsewhere in the tradition celebrated together "
+             "with her husband as an exemplary devoted couple",
+             "A rival ascetic teacher",
+             "A queen ruling one of the sixteen great countries"],
+         "correct": 1,
+         "expl": "A figure with a broader context this particular "
+                 "discourse doesn't itself reference."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Kosambī, in Ghosita's Monastery",
+             "The land of the Bhaggas at Crocodile's Bellow, in the deer "
+             "park at Bhesakaḷā's Wood",
+             "Sāvatthī, in the stilt longhouse of Migāra's mother",
+             "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A distinct setting from both AN 8.46 and AN 8.47."},
+        {"q": "How many times has this cluster of discourses now stated the "
+              "same eight qualities?",
+         "opts": [
+             "Once", "Three times — at AN 8.46, 8.47, and this discourse",
+             "Ten times", "This is the only statement of these qualities"],
+         "correct": 1,
+         "expl": "A recurring pattern of restating the same content for "
+                 "different named addressees."},
+        {"q": "How does this reading guide continue to handle the eight "
+              "qualities' content?",
+         "opts": [
+             "By reframing them as universal advice for this discourse "
+             "specifically",
+             "By continuing the same honest presentation as AN 8.46 and "
+             "8.47, without softening",
+             "By omitting discussion of the content entirely",
+             "By contradicting its own earlier treatment"],
+         "correct": 1,
+         "expl": "A consistent approach maintained across all three "
+                 "discourses in this cluster."},
+        {"q": "What destination do the eight qualities lead to?",
+         "opts": [
+             "The Divinity's host",
+             "Rebirth in company with the Gods of the Agreeable Host",
+             "The gods of the thirty-three",
+             "No destination is named"],
+         "correct": 1,
+         "expl": "The identical destination named across all three "
+                 "discourses in this cluster."},
+    ],
+    marginalia=[
+        ("The fullest restatement", [
+            "every one of the eight",
+            "spelled out without ellipsis —",
+            "the third time in this chapter",
+        ]),
+        ("A celebrated couple, elsewhere", [
+            "Nakula's mother and father",
+            "remembered for their devotion —",
+            "a context this discourse doesn't reference",
+        ]),
+        ("The same honest presentation", [
+            "no reframing as universal —",
+            "the content stated as it stands,",
+            "consistent across all three discourses",
+        ]),
+        ("Cross-references", [
+            "AN 8.47 &middot; previous, the same eight qualities addressed "
+            "to Visākhā",
+            "AN 8.49 &middot; next, a related but restructured teaching: "
+            "four qualities for this life, four for the next",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.48/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.47.html">AN 8.47 &middot; With Visākhā on the Agreeable Gods</a> '
+        "&mdash; previous.",
+        '<a href="an-8.49.html">AN 8.49 &middot; Winning in This Life (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.49 — Paṭhamaidhalokikasutta -- restructures this cluster's eight qualities
+# into 4+4 (this-life / next-life), addressed to Visākhā.
+# --------------------------------------------------------------------------- #
+page(
+    49, "Paṭhamaidhalokika", "Winning in This Life (1st)",
+    vagga=VAGGA_5,
+    meta_title="AN 8.49 — Winning in This Life (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamaidhalokikasutta, restructuring the wifely-duty material met at "
+        "AN 8.46-48 into four qualities for succeeding in this life and "
+        "four for succeeding in the next — addressed to Visākhā, presented "
+        "honestly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in the stilt longhouse of Migāra's mother in "
+                    "the Eastern Monastery"),
+        ("Speakers", "The Buddha, addressing Visākhā directly"),
+        ("Form", "Four qualities for worldly success, then four for "
+                 "spiritual success, each of the eight explained in turn, "
+                 "closing in verse"),
+        ("Length", "~3 minutes to read"),
+        ("The same territory, restructured", "Where AN 8.46-48 named eight "
+                                             "qualities as a single set "
+                                             "leading to one rebirth "
+                                             "destination, this discourse "
+                                             "reorganizes overlapping "
+                                             "material into two distinct "
+                                             "fours — this life and the "
+                                             "next — with the closing "
+                                             "verses referring to "
+                                             "&ldquo;sixteen respects&rdquo; "
+                                             "worth noting rather than "
+                                             "fully resolving"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "clear fourfold-plus-fourfold structure, with one "
+                       "numerical detail in the closing verse worth reading "
+                       "carefully"),
+    ],
+    why=(
+        "The Buddha tells Visākhā that a woman with four qualities "
+        "&mdash; well-organized at work, managing domestic help, acting "
+        "lovingly toward her husband, and preserving his earnings &mdash; "
+        "succeeds at winning in this life, and a woman with four further "
+        "qualities &mdash; faith, ethics, generosity, and wisdom &mdash; "
+        "succeeds at winning in the next, restructuring material "
+        "overlapping with AN 8.46-48 into two distinct fourfold sets."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Four qualities &mdash; organization at work, managing "
+            "domestic help, loving devotion to her husband, and guarding "
+            "his earnings &mdash; let a woman succeed in this life, and "
+            "four further qualities &mdash; faith, ethical conduct, "
+            "generosity, and wisdom &mdash; let her succeed in the next, "
+            "together forming a differently organized eight from the "
+            "single set met at AN 8.46-48."]),
+        ("This life: overlapping material, reorganized", [
+            "The first four qualities substantially overlap with items "
+            "already met in AN 8.46-48's own eight, but reorganized "
+            "explicitly under the heading of worldly rather than "
+            "spiritual success: work organization, staff management, "
+            "devotion to her husband framed as never transgressing his "
+            "wishes even at the cost of her own life, and financial "
+            "guardianship."]),
+        ("The next life: a genuinely different fourth quality", [
+            "The second four qualities &mdash; faith, ethics, generosity, "
+            "and wisdom &mdash; are the same fourfold accomplishment "
+            "pattern (saddhāsampadā, sīlasampadā, cāgasampadā, "
+            "paññāsampadā) already met in this book's discourses to men, "
+            "here applied without alteration to a woman's own path to "
+            "spiritual success, including the wisdom of arising and "
+            "passing away explicitly credited as leading to the ending of "
+            "suffering."]),
+        ("An unresolved number in the closing verse", [
+            "The closing verse describes a woman with these eight "
+            "qualities as &ldquo;accomplished in sixteen respects, "
+            "complete with the eight factors&rdquo; &mdash; a number this "
+            "reading guide notes rather than fully resolves, since the "
+            "verse doesn't itself specify what the second eight respects "
+            "consist of beyond the eight qualities already named."]),
+    ],
+    terms=[
+        ("diṭṭhadhammikatthavijayāya paṭipannā",
+         "&ldquo;practicing to win in this life&rdquo; &mdash; the "
+         "framing for the first four qualities, distinct from the "
+         "spiritual, next-life framing of the second four."),
+        ("saṁparāyikatthavijayāya paṭipannā",
+         "&ldquo;practicing to win in the next life&rdquo; &mdash; the "
+         "framing for the second four qualities, faith through wisdom."),
+        ("anaññamanā pana bhattu",
+         "&ldquo;would not transgress in any way that her husband would "
+         "not consider agreeable, even for the sake of her own life&rdquo; "
+         "&mdash; the discourse's own definition of loving devotion, "
+         "stated here without further comment."),
+        ("udayatthagāminiyā paññāya samannāgatā",
+         "&ldquo;the wisdom of arising and passing away&rdquo; &mdash; "
+         "the fourth and final quality for next-life success, explicitly "
+         "called noble, penetrative, and leading to the complete ending of "
+         "suffering."),
+        ("soḷasahi ṭhānehi samannāgatā, aṭṭhaṅgasusamāhitā",
+         "&ldquo;accomplished in sixteen respects, complete with the "
+         "eight factors&rdquo; &mdash; the closing verse's own numerical "
+         "claim, noted here rather than fully resolved."),
+    ],
+    text_intro=(
+        "The discourse in full: four qualities for this-life success, four "
+        "for next-life success, and closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The setting, and four qualities for this life"),
+        ("p", "&sect;1", "an8.49:1.1-3.3"),
+        ("h3", "Four qualities explained"),
+        ("p", "&sect;2", "an8.49:4.1-6.4"),
+        ("h3", "Four qualities for the next life"),
+        ("p", "&sect;3", "an8.49:7.1-12.1"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;4", "an8.49:13.1-16.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse structure its eight qualities, "
+              "compared to AN 8.46-48's single set of eight?",
+         "opts": [
+             "Identically, with no reorganization",
+             "As two distinct fourfold sets — four for this-life success, "
+             "four for next-life success",
+             "As a single set of sixteen items",
+             "As eight entirely unrelated qualities"],
+         "correct": 1,
+         "expl": "A restructuring of overlapping material into two "
+                 "explicitly separate fours."},
+        {"q": "What are the four qualities for succeeding in the next "
+              "life?",
+         "opts": [
+             "Wealth, status, education, and beauty",
+             "Faith, ethical conduct, generosity, and wisdom",
+             "Physical strength, courage, patience, and skill",
+             "The five precepts alone"],
+         "correct": 1,
+         "expl": "The same fourfold accomplishment pattern met elsewhere "
+                 "in this book, here applied to a woman's own path."},
+        {"q": "What numerical detail in the closing verse does the guide "
+              "note rather than fully resolve?",
+         "opts": [
+             "A miscounted list of five items",
+             "The claim of being 'accomplished in sixteen respects,' which "
+             "the verse doesn't itself explain beyond the eight qualities "
+             "named",
+             "A contradiction with AN 8.46's eight qualities",
+             "A missing quality entirely"],
+         "correct": 1,
+         "expl": "An honest acknowledgment of an unresolved detail, rather "
+                 "than a forced explanation."},
+        {"q": "How is loving devotion to her husband defined in this "
+              "discourse?",
+         "opts": [
+             "Agreeing with everything he says publicly",
+             "Not transgressing in any way he wouldn't consider agreeable, "
+             "even for the sake of her own life",
+             "Managing all family finances independently",
+             "Living separately for part of the year"],
+         "correct": 1,
+         "expl": "The discourse's own definition, stated plainly."},
+        {"q": "Who is addressed in this discourse?",
+         "opts": [
+             "Nakula's mother", "Visākhā, Migāra's mother",
+             "Bojjhā", "The layman Vāseṭṭha"],
+         "correct": 1,
+         "expl": "The fourth discourse in this chapter addressed to "
+                 "Visākhā by name."},
+        {"q": "What is the fourth quality for succeeding in the next life?",
+         "opts": [
+             "Physical beauty",
+             "The wisdom of arising and passing away, leading to the "
+             "complete ending of suffering",
+             "Political influence",
+             "Skill in household management"],
+         "correct": 1,
+         "expl": "The final and highest of the four next-life qualities."},
+    ],
+    marginalia=[
+        ("Two fours, not one eight", [
+            "this life: work, staff,",
+            "devotion, guarded wealth —",
+            "next life: faith, ethics, giving, wisdom",
+        ]),
+        ("Wisdom, closing the higher four", [
+            "arising and passing away —",
+            "noble, penetrative,",
+            "leading to suffering's end",
+        ]),
+        ("Sixteen respects, unresolved", [
+            "the verse claims sixteen —",
+            "but names only eight outright —",
+            "noted here, not forced to fit",
+        ]),
+        ("Cross-references", [
+            "AN 8.48 &middot; previous, the same wifely-duty material as a "
+            "single set of eight",
+            "AN 8.50 &middot; next, the same restructured teaching stated "
+            "impersonally, closing this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.49/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.48.html">AN 8.48 &middot; With Nakula&rsquo;s Mother on the Agreeable '
+        "Gods</a> &mdash; previous.",
+        '<a href="an-8.50.html">AN 8.50 &middot; Winning in This Life (2nd)</a> &mdash; next, '
+        "closing this chapter and the First Fifty.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.50 — Dutiyaidhalokikasutta — closes ch.5 Uposathavagga and the First Fifty
+# (Paṭhamapaṇṇāsaka, AN 8.1-50).
+# --------------------------------------------------------------------------- #
+page(
+    50, "Dutiyaidhalokika", "Winning in This Life (2nd)",
+    vagga=VAGGA_5,
+    meta_title="AN 8.50 — Winning in This Life (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyaidhalokikasutta, restating AN 8.49's eight qualities impersonally "
+        "to the mendicants rather than to Visākhā, closing this chapter and "
+        "the First Fifty of the Book of the Eights. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "AN 8.49's same eight qualities, restated to the "
+                 "mendicants generally rather than to Visākhā, compressed "
+                 "throughout by internal ellipsis"),
+        ("Length", "~2 minutes to read"),
+        ("Closing this chapter and the First Fifty", "This discourse "
+                                                      "closes both "
+                                                      "Uposathavagga and "
+                                                      "the First Fifty of "
+                                                      "the Book of the "
+                                                      "Eights (AN 8.1&ndash;"
+                                                      "50); the Second "
+                                                      "Fifty begins at AN "
+                                                      "8.51"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.49, heavily compressed "
+                       "here"),
+    ],
+    why=(
+        "AN 8.50 restates the same eight qualities met at AN 8.49 &mdash; "
+        "four for succeeding in this life, four for succeeding in the "
+        "next &mdash; this time addressed impersonally to the mendicants "
+        "rather than to Visākhā by name, closing both this chapter and the "
+        "First Fifty of the Book of the Eights."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same eight qualities as AN 8.49 &mdash; work "
+            "organization, staff management, loving devotion, and "
+            "financial guardianship for this-life success; faith, ethics, "
+            "generosity, and wisdom for next-life success &mdash; are "
+            "restated here to the mendicants generally, closing this "
+            "chapter and the First Fifty."]),
+        ("From personal address to general teaching", [
+            "Where AN 8.49 spoke to Visākhā directly, this discourse opens "
+            "with the standard address to the mendicants, &ldquo;Mendicants, "
+            "a lady who has four qualities...&rdquo; &mdash; the same "
+            "content, delivered now as general instruction rather than "
+            "personal counsel to a specific laywoman."]),
+        ("Heavy compression, trusting what came before", [
+            "This discourse compresses far more than AN 8.49 did, cutting "
+            "explanatory detail from nearly every quality via internal "
+            "ellipsis and trusting the reader to recall the fuller "
+            "explanations just given &mdash; a fitting way to close a "
+            "chapter that has repeated this material across several "
+            "addressees already."]),
+        ("Closing a chapter, and the First Fifty itself", [
+            "This discourse's significance extends beyond its own content: "
+            "it is the last discourse of Uposathavagga, and with it, the "
+            "First Fifty (Paṭhamapaṇṇāsaka) of the Book of the Eights "
+            "comes to a close. The Second Fifty, beginning at AN 8.51, "
+            "opens a new sequence of chapters."]),
+    ],
+    terms=[
+        ("diṭṭhadhammikatthavijayāya paṭipannā ... saṁparāyikatthavijayāya "
+         "paṭipannā",
+         "&ldquo;practicing to win in this life... practicing to win in "
+         "the next life&rdquo; &mdash; the identical fourfold-plus-fourfold "
+         "framing as AN 8.49, restated here impersonally."),
+        ("saddhāsampadāya samannāgatā ... paññāsampadāya samannāgatā",
+         "&ldquo;accomplished in faith... accomplished in wisdom&rdquo; "
+         "&mdash; the four next-life qualities, compressed here by "
+         "ellipsis but identical to AN 8.49's fuller statement."),
+        ("paṭhamapaṇṇāsakaṁ",
+         "&ldquo;the First Fifty&rdquo; &mdash; the structural division "
+         "this discourse closes, spanning AN 8.1 through AN 8.50."),
+        ("dutiyapaṇṇāsakaṁ",
+         "&ldquo;the Second Fifty&rdquo; &mdash; the division beginning "
+         "immediately after this discourse, at AN 8.51."),
+        ("udayatthagāminiyā paññāya samannāgatā",
+         "&ldquo;the wisdom of arising and passing away&rdquo; &mdash; "
+         "the same closing quality named at AN 8.49, unchanged here."),
+    ],
+    text_intro=(
+        "The discourse in full: the same eight qualities as AN 8.49, "
+        "restated to the mendicants, closing this chapter and the First "
+        "Fifty. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four qualities for this life"),
+        ("p", "&sect;1", "an8.50:1.1-5.4"),
+        ("h3", "Four qualities for the next life"),
+        ("p", "&sect;2", "an8.50:6.1-10.4"),
+        ("h3", "Closing verses"),
+        ("p", "&sect;3", "an8.50:11.1-14.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening address differ from AN "
+              "8.49's?",
+         "opts": [
+             "No difference; both address Visākhā directly",
+             "This discourse opens with the standard address to the "
+             "mendicants generally, rather than speaking to Visākhā by "
+             "name",
+             "This discourse addresses Nakula's mother instead",
+             "This discourse has no opening address at all"],
+         "correct": 1,
+         "expl": "The same content, delivered as general instruction "
+                 "rather than personal counsel."},
+        {"q": "How does this discourse handle the explanatory detail AN "
+              "8.49 gave for each quality?",
+         "opts": [
+             "It expands the detail further",
+             "It compresses most of it by internal ellipsis, trusting the "
+             "reader to recall AN 8.49's fuller explanations",
+             "It omits the qualities themselves entirely",
+             "It replaces the explanations with new ones"],
+         "correct": 1,
+         "expl": "Heavier compression than AN 8.49, fitting for a chapter "
+                 "closing on repeated material."},
+        {"q": "What structural division does this discourse close?",
+         "opts": [
+             "Nothing in particular",
+             "Both Uposathavagga and the First Fifty (Paṭhamapaṇṇāsaka) "
+             "of the Book of the Eights",
+             "The entire Book of the Eights",
+             "Only a single paragraph"],
+         "correct": 1,
+         "expl": "AN 8.1 through AN 8.50 complete; the Second Fifty begins "
+                 "at AN 8.51."},
+        {"q": "What are the four qualities for succeeding in this life, as "
+              "in AN 8.49?",
+         "opts": [
+             "Faith, ethics, generosity, and wisdom",
+             "Work organization, staff management, loving devotion, and "
+             "financial guardianship",
+             "Physical strength, courage, patience, and skill",
+             "Wealth, status, education, and beauty"],
+         "correct": 1,
+         "expl": "The identical four qualities as AN 8.49, here "
+                 "compressed."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī, in the stilt longhouse of Migāra's mother",
+             "No setting is stated in the source",
+             "Yes, at Kosambī, in Ghosita's Monastery",
+             "Yes, at Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A bare formula, distinct from AN 8.49's personal address "
+                 "to Visākhā in her own residence."},
+        {"q": "What quality closes the four next-life qualities, as in AN "
+              "8.49?",
+         "opts": [
+             "Physical beauty",
+             "The wisdom of arising and passing away",
+             "Political influence",
+             "Skill in debate"],
+         "correct": 1,
+         "expl": "The same closing quality named at AN 8.49, unchanged "
+                 "here."},
+    ],
+    marginalia=[
+        ("From Visākhā to the mendicants", [
+            "the same eight qualities,",
+            "no longer personal counsel —",
+            "general instruction instead",
+        ]),
+        ("Compressed, trusting what came before", [
+            "most detail cut by ellipsis —",
+            "fitting for a chapter",
+            "closing on repeated ground",
+        ]),
+        ("The First Fifty, complete", [
+            "AN 8.1 through 8.50 —",
+            "Uposathavagga closes here —",
+            "the Second Fifty begins next",
+        ]),
+        ("Cross-references", [
+            "AN 8.49 &middot; previous, the same eight qualities addressed "
+            "personally to Visākhā",
+            "AN 8.41 &middot; earlier, opening this chapter with the "
+            "sabbath's own eight factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.50/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.49.html">AN 8.49 &middot; Winning in This Life (1st)</a> &mdash; '
+        "previous.",
+        '<a href="an-8.41.html">AN 8.41 &middot; The Sabbath With Eight Factors, In Brief'
+        "</a> &mdash; earlier, opening this chapter.",
+    ],
+)
