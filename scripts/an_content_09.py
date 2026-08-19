@@ -14491,3 +14491,633 @@ page(
         '<a href="an-9.74-81.html">AN 9.74&ndash;81</a> &mdash; previous.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.9 — Iddhipadavagga (AN 9.83-92). The third and final chapter in this
+# three-chapter series (ch.7-9) reusing the identical ten obstacle-lists
+# with a third substituted remedy, the four bases of psychic power. The
+# source's own closing uddāna verse at AN 9.92 explicitly notes the parallel
+# across all three chapters.
+# --------------------------------------------------------------------------- #
+VAGGA_9 = "<em>Iddhipadavagga</em> &mdash; the ninth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.83 — Sekhasutta (Bases of Psychic Power version)
+# --------------------------------------------------------------------------- #
+page(
+    83, "Sekha", "Weaknesses in Training and the Bases of Psychic Power",
+    vagga=VAGGA_9,
+    meta_title=("AN 9.83 — Weaknesses in Training and the Bases of "
+                "Psychic Power | Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the discourse opening this chapter — the third and final "
+        "remedy substituted for ch.7's identical obstacle-lists, the "
+        "four bases of psychic power. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same five weaknesses as AN 9.63 and AN 9.73, now "
+                 "answered by the four bases of psychic power"),
+        ("Length", "~1 minute to read"),
+        ("A third and final remedy", "This chapter completes a three-"
+         "part series (ch.7-9) applying three different canonical "
+         "remedies to the identical ten obstacle-lists"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening the last chapter in this "
+                       "project's clearest three-way structural "
+                       "parallel"),
+    ],
+    why=(
+        "The same five weaknesses opening ch.7 and ch.8 &mdash; "
+        "killing, stealing, sexual misconduct, lying, and intoxicants "
+        "&mdash; recur a third time, now given up by developing the "
+        "four bases of psychic power: immersion born of enthusiasm, "
+        "energy, mental development, and inquiry, each with active "
+        "effort."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five weaknesses in training, a mendicant "
+            "should develop the four bases of psychic power: immersion "
+            "due to enthusiasm, energy, mental development, and "
+            "inquiry, each accompanied by active effort."]),
+        ("The third leg of a deliberate three-part series", [
+            "With this discourse, this project meets the third and "
+            "final remedy applied to the identical opening obstacle "
+            "across three consecutive chapters: mindfulness meditation "
+            "at AN 9.63, right effort at AN 9.73, and now the bases of "
+            "psychic power &mdash; the same structural design confirmed "
+            "explicitly by the source's own closing verse at AN 9.92, "
+            "which names all three remedies together as intentionally "
+            "parallel."]),
+        ("Four bases, each pairing a quality with immersion", [
+            "The four bases of psychic power name four distinct roads "
+            "into the same immersion: enthusiasm (chanda), energy "
+            "(vīriya), mental development or the mind itself (citta), "
+            "and inquiry or investigation (vīmaṁsā), each producing "
+            "immersion through active striving rather than through "
+            "observation (as with mindfulness) or effort alone (as "
+            "with right effort)."]),
+        ("A remedy this project has met before, in a different role", [
+            "The four bases of psychic power already appeared at AN "
+            "9.35's culmination, among the six higher knowledges a "
+            "pliable mind makes accessible after mastering all nine "
+            "progressive attainments &mdash; there as an outcome of "
+            "deep meditative mastery, here as a direct remedy for "
+            "everyday ethical weakness, a striking range for the same "
+            "fourfold practice."]),
+    ],
+    terms=[
+        ("cattāro iddhipādā",
+         "&ldquo;the four bases of psychic power&rdquo; &mdash; this "
+         "chapter's own remedy, the third substituted for ch.7's four "
+         "kinds of mindfulness meditation."),
+        ("chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ",
+         "&ldquo;the basis of psychic power that has immersion due to "
+         "enthusiasm, and active effort&rdquo; &mdash; the first of the "
+         "four bases."),
+        ("vīriyasamādhi, cittasamādhi",
+         "&ldquo;immersion due to energy... due to mental "
+         "development&rdquo; &mdash; the second and third bases, each "
+         "sharing the same active-effort structure as the first."),
+        ("vīmaṁsāsamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ",
+         "&ldquo;the basis of psychic power that has immersion due to "
+         "inquiry, and active effort&rdquo; &mdash; the fourth and "
+         "final basis, closing the formula."),
+        ("iddhividhā",
+         "&ldquo;psychic power&rdquo; &mdash; the attainment these "
+         "four bases lead toward, already named among the six higher "
+         "knowledges at AN 9.35."),
+    ],
+    text_intro=(
+        "The discourse in full: five weaknesses, and the four bases of "
+        "psychic power given as their remedy. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five weaknesses in training"),
+        ("p", "&sect;1", "an9.83:1.1-1.4"),
+        ("h3", "Four bases of psychic power"),
+        ("p", "&sect;2", "an9.83:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's obstacle-list compare to AN "
+              "9.63 and AN 9.73?",
+         "opts": [
+             "Entirely different content each time",
+             "Identical across all three — the same five weaknesses, "
+             "with a different remedy substituted each time",
+             "This discourse has twice as many items",
+             "This discourse contradicts the earlier two"],
+         "correct": 1,
+         "expl": "The third leg of a deliberate three-chapter parallel."},
+        {"q": "What third remedy does this chapter apply?",
+         "opts": [
+             "The six higher knowledges",
+             "The four bases of psychic power: enthusiasm, energy, "
+             "mental development, and inquiry",
+             "The four noble truths",
+             "The nine progressive attainments"],
+         "correct": 1,
+         "expl": "Completing a series alongside mindfulness meditation "
+                 "and right effort."},
+        {"q": "According to the guide, how does the source itself "
+              "confirm this three-chapter parallel is intentional?",
+         "opts": [
+             "It doesn't; the parallel is only the guide's own "
+             "observation",
+             "The closing verse at AN 9.92 names all three remedies "
+             "together explicitly",
+             "Each chapter contradicts the others",
+             "The source never mentions the other two chapters"],
+         "correct": 1,
+         "expl": "A deliberate structural design, acknowledged in the "
+                 "source's own closing uddāna."},
+        {"q": "Where has this project already met the four bases of "
+              "psychic power in a different role?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.35's culmination, among the six higher knowledges a "
+             "pliable mind makes accessible",
+             "Only in a completely unrelated nipāta",
+             "At AN 9.1, the opening discourse"],
+         "correct": 1,
+         "expl": "There as an outcome of deep meditative mastery, here "
+                 "as a remedy for everyday ethical weakness."},
+        {"q": "What distinguishes each of the four bases from one "
+              "another?",
+         "opts": [
+             "Nothing; they are identical",
+             "Each pairs a different quality — enthusiasm, energy, "
+             "mental development, inquiry — with the same immersion "
+             "and active effort",
+             "Each targets a different sense organ",
+             "Each is aimed at a different obstacle-list"],
+         "correct": 1,
+         "expl": "Four distinct roads into the same underlying "
+                 "immersion."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, opening this chapter "
+                 "without narrative frame."},
+    ],
+    marginalia=[
+        ("A third remedy, same obstacle", [
+            "mindfulness, effort, now",
+            "psychic power's four bases &mdash;",
+            "the same five weaknesses",
+        ]),
+        ("Enthusiasm, energy, mind, inquiry", [
+            "four roads to the same",
+            "immersion, each paired",
+            "with active effort",
+        ]),
+        ("A remedy in two roles", [
+            "at AN 9.35, an outcome;",
+            "here, applied directly",
+            "to ordinary weakness",
+        ]),
+        ("Cross-references", [
+            "AN 9.63, AN 9.73 &middot; the identical obstacle-list "
+            "under two earlier remedies",
+            "AN 9.35 &middot; the four bases of psychic power in a "
+            "different role",
+            "AN 9.82 &middot; previous chapter's closing page",
+            "AN 9.84&ndash;91 &middot; next, pointing back to ch.7's "
+            "content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.83/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.63.html">AN 9.63 &middot; Weaknesses in Training and Mindfulness '
+        "Meditation</a> &mdash; the identical obstacle-list, under the first of "
+        "three remedies.",
+        '<a href="an-9.82.html">AN 9.82 &middot; Shackles of the Heart</a> &mdash; previous.',
+        '<a href="an-9.84-91.html">AN 9.84&ndash;91</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.84-91 — the second merged page pointing back to ch.7's own content
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-9.84-91",
+    "index_pali": "(untitled)",
+    "nav_title": "Hindrances, Etc.",
+    "source": "an9/an9.84-91",
+    "crumb": "AN 9.84&ndash;91",
+    "meta_title": "AN 9.84–91 — Hindrances, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this merged page — the second in this project pointing back "
+        "to ch.7's own content, this time with the four bases of "
+        "psychic power substituted throughout. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 9.84&ndash;91",
+    "title": "Hindrances, Etc.",
+    "subtitle": "<em>Untitled in the source</em> &mdash; %s, continued" % VAGGA_9,
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single instruction, identical in kind to AN 9.74-81, "
+                 "pointing back to ch.7's own content"),
+        ("Length", "A few seconds to read the instruction itself"),
+        ("The second instance of this compression type", "The same "
+         "&lsquo;tell in full as in the chapter on mindfulness "
+         "meditation&rsquo; instruction already met at AN 9.74-81, now "
+         "closing this project's third and final application of it"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read the instruction itself"),
+    ],
+    "why": (
+        "Standing for eight separate discourses (AN 9.84 through AN "
+        "9.91), this page repeats AN 9.74-81's exact instruction "
+        "&mdash; &lsquo;tell in full as in the chapter on mindfulness "
+        "meditation&rsquo; &mdash; directing the reciter back to ch.7's "
+        "eight middle obstacle-lists once more, this time paired with "
+        "the four bases of psychic power."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same eight obstacle-lists given in full at AN 9.64 "
+            "through AN 9.71 are each given up by developing the four "
+            "bases of psychic power, exactly as AN 9.83 already showed "
+            "for the first obstacle-list shared across all three "
+            "chapters."]),
+        ("The identical instruction, a second time", [
+            "This page's own surviving text is word-for-word the same "
+            "instruction already met at AN 9.74-81: &lsquo;tell in full "
+            "as in the chapter on mindfulness meditation.&rsquo; The "
+            "source doesn't even vary its own pointer between the two "
+            "occasions, trusting the same substitution logic each time."]),
+        ("Two merged pages, three chapters, one shared source", [
+            "Both this page and AN 9.74-81 point to the identical "
+            "eight discourses in ch.7 &mdash; neither points to the "
+            "other, and neither reconstructs the content itself. Ch.7's "
+            "AN 9.64 through AN 9.71 function as this project's sole "
+            "on-record version of these eight obstacle-lists, now "
+            "referenced twice over rather than written out three "
+            "separate times."]),
+        ("Closing in on the third chapter's own final discourse", [
+            "With this page, only AN 9.92 remains to close ch.9 "
+            "&mdash; the third and final &lsquo;shackles of the "
+            "heart&rsquo; discourse in this three-chapter series, and "
+            "the point at which the source's own closing verse "
+            "explicitly names all three parallel chapters together."]),
+    ],
+    "terms": [
+        ("tesaṁyeva vitthāro satipaṭṭhānavaggasadisova kātabbo",
+         "&ldquo;tell in full as in the chapter on mindfulness "
+         "meditation&rdquo; &mdash; the identical instruction already "
+         "met at AN 9.74-81, repeated here without variation."),
+        ("cattāro iddhipādā",
+         "&ldquo;the four bases of psychic power&rdquo; &mdash; the "
+         "one substitution this instruction asks the reciter to make "
+         "throughout, in place of the four kinds of mindfulness "
+         "meditation."),
+        ("nīvaraṇā, kāmaguṇā, upādānakkhandhā",
+         "&ldquo;hindrances, sensual stimulation, grasping "
+         "aggregates&rdquo; &mdash; the first three of the eight "
+         "obstacle-lists this page stands for, given in full at AN "
+         "9.64-66."),
+        ("orambhāgiyāni saṁyojanāni, gatiyo, macchariyāni, "
+         "uddhambhāgiyāni saṁyojanāni, cetokhilā",
+         "&ldquo;lower fetters, destinations, stinginess, higher "
+         "fetters, hard-heartedness&rdquo; &mdash; the remaining five "
+         "obstacle-lists this page stands for, given in full at AN "
+         "9.67-71."),
+        ("iddhipādavaggo",
+         "&ldquo;Iddhipādavagga&rdquo; &mdash; this chapter's own "
+         "name, naming the third and final remedy in this three-"
+         "chapter series."),
+    ],
+    "text_intro": (
+        "The discourse exactly as it survives in the source: the same "
+        "instruction already met at AN 9.74-81, pointing back to ch.7's "
+        "own content once more. Nothing has been added or "
+        "reconstructed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The instruction, in full"),
+        ("p", "&sect;1", "an9.84-91:1.1-1.1"),
+    ],
+    "quiz": [
+        {"q": "How does this page's instruction compare to AN "
+              "9.74-81's?",
+         "opts": [
+             "Entirely different wording",
+             "Word-for-word identical: &lsquo;tell in full as in the "
+             "chapter on mindfulness meditation&rsquo;",
+             "This page gives full detail instead",
+             "This page points to a different chapter"],
+         "correct": 1,
+         "expl": "The same pointer, repeated without variation for the "
+                 "second time in this project."},
+        {"q": "What remedy does this page's instruction imply, "
+              "replacing ch.7's mindfulness meditation?",
+         "opts": [
+             "The four right efforts, as at AN 9.74-81",
+             "The four bases of psychic power, this chapter's own "
+             "remedy",
+             "No remedy at all",
+             "A completely new, unnamed remedy"],
+         "correct": 1,
+         "expl": "The substitution changes per chapter even though the "
+                 "instruction's wording doesn't."},
+        {"q": "How many times, across this project so far, do ch.7's "
+              "eight middle obstacle-lists get written out in full?",
+         "opts": [
+             "Three times, once per chapter",
+             "Once — at AN 9.64 through AN 9.71 — with both AN 9.74-81 "
+             "and this page pointing back to that single source",
+             "Never; the content is lost entirely",
+             "Eight separate times"],
+         "correct": 1,
+         "expl": "Ch.7 functions as the sole on-record version, "
+                 "referenced twice rather than repeated."},
+        {"q": "What remains after this page, closing ch.9?",
+         "opts": [
+             "Nothing; the chapter ends here",
+             "AN 9.92, the third and final &lsquo;shackles of the "
+             "heart&rsquo; discourse in this three-chapter series",
+             "A return to ch.7's opening discourse",
+             "Ten further discourses"],
+         "correct": 1,
+         "expl": "The chapter's closer, where the source's own verse "
+                 "names all three parallel chapters together."},
+        {"q": "What does this page's guide avoid doing, consistent with "
+              "AN 9.74-81?",
+         "opts": [
+             "Naming the obstacle-lists at all",
+             "Reconstructing all eight discourses' full text under the "
+             "new remedy, since the source itself declines to write "
+             "them out",
+             "Explaining the instruction",
+             "Pointing readers to ch.7"],
+         "correct": 1,
+         "expl": "Consistent with this project's rule against inventing "
+                 "text not in the source."},
+        {"q": "What eight obstacle-lists does this page stand for?",
+         "opts": [
+             "Eight entirely new lists",
+             "The same eight given in full at AN 9.64 through AN 9.71",
+             "Only stinginess, repeated eight times",
+             "Eight kinds of wrong view"],
+         "correct": 1,
+         "expl": "Identical to what AN 9.74-81 already pointed to, now "
+                 "referenced a second time."},
+    ],
+    "marginalia": [
+        ("The same pointer, again", [
+            "&ldquo;tell it as in the",
+            "mindfulness chapter&rdquo; &mdash;",
+            "unchanged, a second time",
+        ]),
+        ("One source, twice referenced", [
+            "ch.7's eight lists, written",
+            "out only once &mdash;",
+            "pointed to here and before",
+        ]),
+        ("Nearing the series' close", [
+            "one discourse remains &mdash;",
+            "where the source itself names",
+            "all three chapters, paired",
+        ]),
+        ("Cross-references", [
+            "AN 9.64&ndash;71 &middot; ch.7's full treatment of these "
+            "same eight obstacle-lists",
+            "AN 9.74&ndash;81 &middot; the identical instruction, first "
+            "met in ch.8",
+            "AN 9.83 &middot; previous",
+            "AN 9.92 &middot; next, Shackles of the Heart, closing this "
+            "chapter",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an9.84-91/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.64.html">AN 9.64 &middot; Hindrances</a> &mdash; ch.7’s full '
+        "treatment of the first obstacle-list this page stands for.",
+        '<a href="an-9.74-81.html">AN 9.74&ndash;81</a> &mdash; the identical instruction, '
+        "first met in ch.8.",
+        '<a href="an-9.83.html">AN 9.83 &middot; Weaknesses in Training and the Bases of '
+        "Psychic Power</a> &mdash; previous.",
+        '<a href="an-9.92.html">AN 9.92 &middot; Shackles of the Heart</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.92 — Cetasovinibandhasutta (Bases of Psychic Power version) — closes
+# ch.9 Iddhipadavagga and the three-chapter ch.7-9 series
+# --------------------------------------------------------------------------- #
+page(
+    92, "Cetasovinibandha", "Shackles of the Heart",
+    vagga=VAGGA_9,
+    meta_title="AN 9.92 — Shackles of the Heart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the discourse closing this chapter and its three-chapter "
+        "series — the identical five shackles, now answered by the "
+        "four bases of psychic power, with the source's own verse "
+        "naming all three parallel chapters together. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five shackles of the heart, then the four bases of "
+                 "psychic power given in full as the remedy"),
+        ("Length", "~2 minutes to read"),
+        ("Closing three chapters at once", "This discourse closes "
+         "<em>Iddhipadavagga</em>, and the source's own uddāna verse "
+         "explicitly names mindfulness meditation, right effort, and "
+         "the bases of psychic power together as one deliberate series"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "substantial, closing this three-chapter series "
+                       "on the most pointed shared obstacle-list"),
+    ],
+    why=(
+        "The same five shackles of the heart that closed ch.7 and ch.8 "
+        "&mdash; unresolved greed for sensual pleasures, the body, "
+        "physical form, comfort and sleep, and rebirth among the gods "
+        "sought through spiritual practice &mdash; recur a third and "
+        "final time, given up by developing the four bases of psychic "
+        "power, and the source's own closing verse confirms that all "
+        "three chapters were meant to be read as one deliberate "
+        "sequence."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five shackles of the heart, a mendicant "
+            "should develop the four bases of psychic power: immersion "
+            "due to enthusiasm, energy, mental development, and "
+            "inquiry, each with active effort &mdash; the third and "
+            "final remedy in a deliberate three-chapter series."]),
+        ("The source's own confirmation of the pattern", [
+            "Unlike the more inferential cross-referencing this project "
+            "has drawn between other discourses, the parallel across "
+            "ch.7, ch.8, and ch.9 is confirmed by the text itself: this "
+            "discourse's own closing verse states, in effect, that "
+            "&lsquo;just as the mindfulness meditations, so the [right] "
+            "efforts, and likewise the four bases of psychic power "
+            "should be combined&rsquo; with the same obstacle-lists "
+            "&mdash; an explicit acknowledgment, rare in this "
+            "collection, of a structural design spanning three separate "
+            "chapters."]),
+        ("Three chapters, one lesson made explicit", [
+            "What earlier discourses in this project could only "
+            "demonstrate through repetition, this closing verse states "
+            "outright: the identical ten obstacles this project has "
+            "traced across thirty discourses (AN 9.63 through AN 9.92) "
+            "can each be met by mindfulness meditation, by right "
+            "effort, or by the bases of psychic power, three genuinely "
+            "different approaches converging on the same ten targets."]),
+        ("Closing the chapter, and its own colophon", [
+            "This discourse closes <em>Iddhipadavagga</em>, the ninth "
+            "chapter; the source's own colophon numbers it "
+            "&lsquo;fourth&rsquo; within the Second Fifty, continuing "
+            "the restarted numbering already noted closing ch.6 and "
+            "ch.8. One chapter remains before this nipāta's own great "
+            "closing peyyāla begins."]),
+    ],
+    terms=[
+        ("cetaso vinibandhā",
+         "&ldquo;shackles of the heart&rdquo; &mdash; the identical "
+         "five items already met closing ch.7 and ch.8."),
+        ("cattāro iddhipādā",
+         "&ldquo;the four bases of psychic power&rdquo; &mdash; the "
+         "third and final remedy in this chapter series, closing it "
+         "exactly as it opened at AN 9.83."),
+        ("yatheva satipaṭṭhānā, padhānā caturopi ca, cattāro "
+         "iddhipādā ca, tatheva sampayojaye",
+         "&ldquo;just as the mindfulness meditations, so the efforts, "
+         "and likewise the four bases of psychic power should be "
+         "combined&rdquo; &mdash; the source's own closing verse, "
+         "explicitly naming the three-chapter parallel."),
+        ("dasamaṁ",
+         "&ldquo;tenth&rdquo; &mdash; the bare ordinal closing this "
+         "discourse, marking its place as the tenth and final "
+         "discourse in this chapter."),
+        ("iddhipādavaggo catuttho",
+         "&ldquo;Iddhipādavagga, fourth&rdquo; &mdash; the source's "
+         "own colophon, continuing the Second Fifty's restarted chapter "
+         "numbering already noted closing ch.6 and ch.8."),
+    ],
+    text_intro=(
+        "The discourse in full: the same five shackles of the heart as "
+        "AN 9.72 and AN 9.82, now answered by the four bases of "
+        "psychic power. The source's own closing colophon and uddāna "
+        "verse are untranslated in the English and are described "
+        "rather than quoted here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Five shackles of the heart"),
+        ("p", "&sect;1", "an9.92:1.1-1.4"),
+        ("h3", "Four bases of psychic power"),
+        ("p", "&sect;2", "an9.92:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's obstacle-list compare to AN "
+              "9.72 and AN 9.82's?",
+         "opts": [
+             "Entirely different content",
+             "Word-for-word identical across all three — the same "
+             "five shackles closing all three chapters",
+             "A shortened version",
+             "A contradiction of the earlier two"],
+         "correct": 1,
+         "expl": "The same obstacle-list closing all three chapters in "
+                 "this deliberate series."},
+        {"q": "How does this discourse's closing verse confirm the "
+              "three-chapter parallel, unlike most cross-references in "
+              "this project?",
+         "opts": [
+             "It doesn't confirm anything explicitly",
+             "The source's own uddāna verse explicitly states that "
+             "mindfulness meditation, effort, and the bases of psychic "
+             "power should all be &lsquo;combined&rsquo; with the same "
+             "obstacles",
+             "It contradicts the parallel entirely",
+             "It only mentions two of the three chapters"],
+         "correct": 1,
+         "expl": "A rare, explicit textual confirmation of a design "
+                 "this project usually has to infer."},
+        {"q": "How many discourses total does this three-chapter series "
+              "span?",
+         "opts": [
+             "Ten discourses",
+             "Thirty discourses, AN 9.63 through AN 9.92",
+             "Five discourses",
+             "The entire Second Fifty"],
+         "correct": 1,
+         "expl": "Three chapters of ten discourses each, sharing the "
+                 "identical ten obstacle-lists."},
+        {"q": "What does the source's own colophon number this "
+              "chapter, continuing which pattern?",
+         "opts": [
+             "First, breaking the established pattern",
+             "&lsquo;Fourth,&rsquo; continuing the Second Fifty's "
+             "restarted chapter numbering already noted closing ch.6 "
+             "and ch.8",
+             "Ninth, matching the continuous header numbering",
+             "No colophon exists for this discourse"],
+         "correct": 1,
+         "expl": "The same internally restarted numbering met at each "
+                 "chapter's close in the Second Fifty."},
+        {"q": "What remains after this chapter closes?",
+         "opts": [
+             "Nothing; AN 9 ends here",
+             "One further chapter before this nipāta's own great "
+             "closing peyyāla begins",
+             "A return to the First Fifty",
+             "Ten more chapters"],
+         "correct": 1,
+         "expl": "The final chapter, closing the entire Book of the "
+                 "Nines."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching AN 9.72 and AN "
+                 "9.82's closings of the earlier two chapters."},
+    ],
+    marginalia=[
+        ("The same five shackles, thrice", [
+            "sensual pleasure, body,",
+            "form, comfort, rebirth as a god &mdash;",
+            "closing all three chapters",
+        ]),
+        ("The source names its own design", [
+            "&ldquo;just as mindfulness,",
+            "so effort, so the bases &mdash;",
+            "combined the same way&rdquo;",
+        ]),
+        ("Thirty discourses, one lesson", [
+            "ten obstacles, met by",
+            "three different roads &mdash;",
+            "converging as one",
+        ]),
+        ("Cross-references", [
+            "AN 9.72, AN 9.82 &middot; the identical obstacle-list "
+            "closing the two earlier chapters in this series",
+            "AN 9.84&ndash;91 &middot; previous",
+            "AN 9.93 &middot; next, opening ch.10, Rāgapeyyāla",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.92/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.72.html">AN 9.72 &middot; Shackles of the Heart</a> &mdash; the '
+        "identical obstacle-list, closing the first of three chapters.",
+        '<a href="an-9.82.html">AN 9.82 &middot; Shackles of the Heart</a> &mdash; the '
+        "identical obstacle-list, closing the second of three chapters.",
+        '<a href="an-9.84-91.html">AN 9.84&ndash;91</a> &mdash; previous.',
+    ],
+)
