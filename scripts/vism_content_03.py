@@ -679,3 +679,216 @@ page(
         "collection on the four noble truths.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 17 -- Paccayākāraniddesa
+# --------------------------------------------------------------------------- #
+page(
+    17, "Paccayākāraniddesa", "The Soil of Understanding",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 17 — The Soil of Understanding | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 17 of the Visuddhimagga (The Path of "
+        "Purification) — the twelve links of dependent origination, why the "
+        "sequence has no fixed first cause, the middle way between eternalism and "
+        "annihilationism, and why this chapter is called understanding's own soil. "
+        "No translated text reproduced; links to the full free translation and the "
+        "Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter supplies the causal "
+                    "explanation Chapter 16 named only in outline"),
+        ("Speaker", "Buddhaghosa, treating dependent origination as demanding "
+                    "enough to warrant its own extensive chapter"),
+        ("Form", "Twelve links worked through in causal sequence, followed by "
+                 "several distinct ways of approaching the same structure and the "
+                 "wrong views it rules out"),
+        ("Length", "one of the longest and most demanding chapters in the whole "
+                   "work; this guide covers its core structure rather than every "
+                   "interpretive variant the chapter itself explores"),
+        ("Northern parallel", "Dependent origination in some form is foundational "
+                              "across virtually all Buddhist traditions; this guide "
+                              "does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; the most "
+                       "demanding chapter so far, both in content and in the "
+                       "number of interpretive angles it offers"),
+    ],
+    why=(
+        "Chapter 16 named the four noble truths as the doctrinal center of the "
+        "path but described suffering and its origin only in outline. Chapter 17 "
+        "supplies what those first two truths actually rest on: an explanation of "
+        "how suffering arises and continues to arise, link by causal link, without "
+        "requiring a fixed self behind the process at any point. Buddhaghosa's own "
+        "structure treats this chapter as the soil understanding itself grows "
+        "from &mdash; without seeing this causal account clearly, the "
+        "classification schemes Chapters 14 through 16 already covered remain, in "
+        "a sense, only sorted rather than truly understood."),
+    guide=[
+        ("Twelve links in causal sequence", [
+            "The chapter works through twelve links, each conditioning the next: "
+            "ignorance conditions formations; formations condition consciousness; "
+            "consciousness conditions name-and-form; name-and-form conditions the "
+            "six sense bases; the six sense bases condition contact; contact "
+            "conditions feeling; feeling conditions craving; craving conditions "
+            "clinging; clinging conditions becoming; becoming conditions birth; "
+            "and birth conditions aging-and-death."]),
+        ("No first cause, no fixed self", [
+            "The chapter is explicit that this sequence is not a story with an "
+            "absolute starting point &mdash; ignorance itself is not uncaused, "
+            "but part of a closed causal circle rather than a first link in a "
+            "straight line. The whole scheme is offered as an alternative to "
+            "positing either a fixed, persisting self or a self simply "
+            "annihilated at death: a middle way between those two extremes."]),
+        ("Where the chain can be broken", [
+            "While every link conditions the next, the chapter singles out where "
+            "a practitioner has the most direct practical leverage over the "
+            "sequence &mdash; typically the link between feeling and craving, "
+            "since craving is where a largely automatic response can most "
+            "plausibly be interrupted through mindfulness and understanding, even "
+            "though the earlier links remain in effect for whatever has already "
+            "arisen."]),
+        ("Multiple ways of approaching the same structure", [
+            "The chapter is notable for presenting the same twelve links through "
+            "several distinct approaches &mdash; moving forward from ignorance, "
+            "backward from aging-and-death, or focusing on particular subsets of "
+            "links &mdash; reflecting different pedagogical needs rather than "
+            "different underlying claims about how the sequence actually works."]),
+        ("Why this is called the &lsquo;soil&rsquo; of understanding", [
+            "Without this causal account, the earlier classification schemes "
+            "&mdash; the aggregates, bases, elements, and faculties &mdash; remain "
+            "descriptive rather than explanatory. Dependent origination is what "
+            "makes clear how those components actually arise and interact, which "
+            "the chapter treats as understanding's real ground rather than one "
+            "topic among many."]),
+        ("What follows", [
+            "Chapters 18 through 22 turn from this conceptual account to a "
+            "step-by-step description of the purifications that make dependent "
+            "origination and the four truths directly, experientially clear, "
+            "beginning with Chapter 18's purification of view."]),
+    ],
+    terms=[
+        ("paṭiccasamuppāda",
+         "dependent origination &mdash; this chapter's central subject, the "
+         "twelve-link causal sequence explaining how suffering arises."),
+        ("avijjā, saṅkhāra",
+         "ignorance and formations &mdash; the first two of the twelve links."),
+        ("taṇhā, upādāna",
+         "craving and clinging &mdash; the two links where the chapter says a "
+         "practitioner has the most direct practical leverage."),
+        ("sassatavāda, ucchedavāda",
+         "eternalism and annihilationism &mdash; the two extreme views dependent "
+         "origination is presented as a middle way between."),
+        ("paññābhūmi",
+         "&ldquo;soil of understanding&rdquo; &mdash; the traditional term for "
+         "this chapter's place in the overall structure of Part III."),
+    ],
+    quiz=[
+        {"q": "What does Chapter 17 supply that Chapter 16 named only in outline?",
+         "opts": [
+             "The causal explanation of how suffering actually arises",
+             "A fifth noble truth not mentioned in Chapter 16",
+             "A complete list of all forty meditation subjects again",
+             "The biography of Buddhaghosa himself"],
+         "correct": 0,
+         "expl": "The mechanics behind the first two of the four noble truths."},
+        {"q": "How many links make up dependent origination in this chapter?",
+         "opts": [
+             "Twelve",
+             "Four",
+             "Twenty-two",
+             "Eighteen"],
+         "correct": 0,
+         "expl": "From ignorance through to aging-and-death, each conditioning the next."},
+        {"q": "What are the first two links in the sequence?",
+         "opts": [
+             "Ignorance conditioning formations",
+             "Craving conditioning clinging",
+             "Birth conditioning aging-and-death",
+             "Consciousness conditioning contact"],
+         "correct": 0,
+         "expl": "The opening pair of the twelve-link chain."},
+        {"q": "What does the chapter say about whether the sequence has an absolute first cause?",
+         "opts": [
+             "No; it is a closed causal circle rather than a story with a genuine starting point",
+             "Yes; ignorance is entirely uncaused and stands outside the sequence",
+             "Yes; the six sense bases are the true first cause",
+             "The chapter declines to address the question at all"],
+         "correct": 0,
+         "expl": "Ignorance itself is conditioned, not an absolute beginning."},
+        {"q": "What two extreme views does dependent origination chart a middle way between?",
+         "opts": [
+             "Eternalism (a fixed self persists) and annihilationism (nothing continues at all)",
+             "Optimism and pessimism",
+             "Monastic life and lay life",
+             "The kasinas and the immaterial states"],
+         "correct": 0,
+         "expl": "The whole scheme is offered as an alternative to both extremes."},
+        {"q": "Where does the chapter say a practitioner has the most direct practical leverage over the chain?",
+         "opts": [
+             "The link between feeling and craving",
+             "The link between ignorance and formations",
+             "The link between birth and aging-and-death",
+             "Nowhere; the chapter says the chain cannot be interrupted at any point"],
+         "correct": 0,
+         "expl": "Craving is where a largely automatic response can most plausibly be interrupted through mindfulness and understanding."},
+        {"q": "What is notable about how the chapter presents the twelve links?",
+         "opts": [
+             "It offers several distinct approaches (forward, backward, and by subsets) reflecting different pedagogical needs",
+             "It presents the links in only one fixed order with no variation ever discussed",
+             "It presents the links purely as a poem with no analytical content",
+             "It omits several of the twelve links entirely"],
+         "correct": 0,
+         "expl": "Different approaches to the same underlying structure, not different underlying claims."},
+        {"q": "Why is this chapter traditionally called the &lsquo;soil&rsquo; of understanding?",
+         "opts": [
+             "Without it, the earlier classification schemes remain descriptive rather than explanatory",
+             "Because it was written while Buddhaghosa was gardening",
+             "Because it discusses literal agricultural soil at length",
+             "Because it is the shortest chapter in the entire work"],
+         "correct": 0,
+         "expl": "Dependent origination explains how the aggregates, bases, elements, and faculties actually arise and interact."},
+        {"q": "What do Chapters 18 through 22 do next?",
+         "opts": [
+             "Turn from this conceptual account to a step-by-step description of the purifications making it directly experientially clear",
+             "Return to the forty meditation subjects for further practice",
+             "Repeat this chapter's content without any further development",
+             "Begin an entirely new, unrelated topic with no connection to Chapter 17"],
+         "correct": 0,
+         "expl": "Beginning with Chapter 18's purification of view."},
+        {"q": "Where can a reader go for Chapter 17's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Twelve links", [
+            "ignorance to aging-and-death,",
+            "each conditioning the next",
+        ]),
+        ("No first cause", [
+            "a closed causal circle,",
+            "not a starting story",
+        ]),
+        ("A middle way", [
+            "between eternalism",
+            "and annihilationism",
+        ]),
+        ("The soil of understanding", [
+            "explaining what Chapters 14&ndash;16",
+            "only classified",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-12.1.html">SN 12.1 &mdash; '
+        "Dependent Origination</a> &mdash; the canonical source discourse for the "
+        "twelve-link sequence this chapter analyzes.",
+        '<a href="../discourses/digha-nikaya/dn-15.html">DN 15 &mdash; The Great '
+        "Discourse on Causation</a> &mdash; the canon's most extended single "
+        "treatment of dependent origination.",
+    ],
+)
