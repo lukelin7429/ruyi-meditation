@@ -1520,3 +1520,216 @@ page(
         "chapter's own title turns on: what is, and is not, the path.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 21 -- Paṭipadāñāṇadassanavisuddhiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    21, "Paṭipadāñāṇadassanavisuddhiniddesa",
+    "Purification by Knowledge and Vision of the Way",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 21 — Purification by Knowledge and Vision of the Way | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 21 of the Visuddhimagga (The Path of "
+        "Purification) — the graduated sequence of insight-knowledges from "
+        "dissolution through disenchantment to equanimity about formations, "
+        "reaching the very threshold of the supramundane path. No translated text "
+        "reproduced; links to the full free translation and the Pali original. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter traces what properly "
+                    "reoriented contemplation, per Chapter 20, actually develops "
+                    "into"),
+        ("Speaker", "Buddhaghosa, tracing the sixth of seven purifications through "
+                    "a long sequence of named stages"),
+        ("Form", "A graduated sequence of insight-knowledges, each building on the "
+                 "one before, moving toward a single threshold moment"),
+        ("Length", "one of the most detailed chapters in the work, covering many "
+                   "named stages in careful sequence; this guide traces the "
+                   "overall shape rather than every technical distinction"),
+        ("Northern parallel", "Staged models of insight maturing toward release "
+                              "appear across the wider contemplative tradition; "
+                              "this guide does not assert a specific matching "
+                              "passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; the most "
+                       "technically dense sequence of named stages in the entire "
+                       "work"),
+    ],
+    why=(
+        "Chapter 20 taught how to recognize the ten experiences that can be "
+        "mistaken for the path and return attention to the plain observation of "
+        "rise and fall. Chapter 21 opens the sixth purification by tracing what "
+        "that properly reoriented contemplation actually develops into: a "
+        "sequence of insight-knowledges, each building on the last, moving from "
+        "simply watching phenomena arise and pass to a settled equanimity mature "
+        "enough to give way to the supramundane path itself."),
+    guide=[
+        ("A sequence, not a single leap", [
+            "Rather than describing insight as one sudden event, the chapter "
+            "traces a graduated sequence of named stages, each a genuine advance "
+            "on the one before, with contemplation deepening step by step rather "
+            "than jumping directly from ordinary observation to full "
+            "realization."]),
+        ("From arising-and-passing to passing alone", [
+            "As the ten experiences from Chapter 20 settle, attention narrows: "
+            "rather than noticing both the arising and passing of phenomena, the "
+            "maturing contemplation increasingly registers dissolution "
+            "specifically &mdash; phenomena's constant breaking-up."]),
+        ("Fear, danger, disenchantment", [
+            "As this narrowed seeing of constant dissolution deepens, a related "
+            "cluster of insight-knowledges follows: seeing all conditioned "
+            "phenomena as fearful, seeing the danger inherent in them, and a "
+            "matured, dispassionate disenchantment &mdash; not despair, but a "
+            "settled seeing-through of what conditioned existence actually has "
+            "to offer."]),
+        ("The wish to be free, and looking for the way out", [
+            "This disenchantment gives rise to a genuine wish for deliverance "
+            "from the whole conditioned process, followed by a renewed, more "
+            "deliberate re-examination of the three characteristics, undertaken "
+            "specifically in search of a way out."]),
+        ("Equanimity about formations", [
+            "The sequence's peak follows: a stable, mature equanimity toward all "
+            "conditioned phenomena, neither pursuing nor pushing any of them "
+            "away, described as the furthest point ordinary, not-yet-"
+            "supramundane insight can reach on its own."]),
+        ("Conformity, and the threshold", [
+            "From that equanimity, a further knowledge arises that the chapter "
+            "describes as conforming to both everything already contemplated and "
+            "to what is about to follow &mdash; functioning as a bridge to a "
+            "single moment in which the mind, for the first time, takes Nibbāna "
+            "itself as its object: the very threshold of the supramundane path "
+            "Chapter 22 will describe."]),
+        ("What follows", [
+            "Chapter 22 turns to the seventh and final purification, describing "
+            "that threshold moment itself and the four supramundane paths and "
+            "fruits it opens onto."]),
+    ],
+    terms=[
+        ("paṭipadāñāṇadassanavisuddhi",
+         "purification by knowledge and vision of the way &mdash; this chapter's "
+         "subject, the sixth of the seven traditional purifications."),
+        ("bhaṅgañāṇa",
+         "knowledge of dissolution &mdash; where attention narrows to phenomena's "
+         "passing away specifically, rather than both arising and passing."),
+        ("nibbidāñāṇa",
+         "knowledge of disenchantment &mdash; a matured, dispassionate "
+         "seeing-through of conditioned existence, distinct from ordinary "
+         "sadness."),
+        ("saṅkhārupekkhāñāṇa",
+         "knowledge of equanimity about formations &mdash; the sequence's peak, "
+         "the furthest point ordinary insight can reach on its own."),
+        ("gotrabhū",
+         "&ldquo;change-of-lineage&rdquo; knowledge &mdash; the threshold moment "
+         "where the mind first takes Nibbāna as its object."),
+    ],
+    quiz=[
+        {"q": "What does Chapter 21 trace, in contrast to describing insight as a single sudden event?",
+         "opts": [
+             "A graduated sequence of named insight-knowledges, each building on the last",
+             "A single instantaneous transformation with no intermediate stages",
+             "A random, unpredictable series of unrelated experiences",
+             "A repeat of the ten experiences already covered in Chapter 20"],
+         "correct": 0,
+         "expl": "Contemplation deepens step by step rather than jumping directly to full realization."},
+        {"q": "As the ten experiences from Chapter 20 settle, what does attention increasingly register?",
+         "opts": [
+             "Dissolution specifically, rather than both arising and passing",
+             "Only pleasant experiences, to the exclusion of all others",
+             "The exact number of times a phenomenon has occurred",
+             "Nothing at all; observation stops entirely at this stage"],
+         "correct": 0,
+         "expl": "Phenomena's constant breaking-up becomes the dominant feature noticed."},
+        {"q": "What cluster of insight-knowledges follows this narrowed seeing of dissolution?",
+         "opts": [
+             "Fear, danger, and disenchantment regarding conditioned phenomena",
+             "Joy, celebration, and triumph",
+             "Confusion, forgetfulness, and doubt returning in full force",
+             "Physical illness and fatigue"],
+         "correct": 0,
+         "expl": "A related sequence deepening the narrowed seeing of constant dissolution."},
+        {"q": "Is the disenchantment (nibbidā) this chapter describes the same as ordinary sadness or despair?",
+         "opts": [
+             "No; it is a matured, dispassionate seeing-through of conditioned existence",
+             "Yes, identical to clinical depression",
+             "Yes, identical to grief over a specific personal loss",
+             "The chapter does not distinguish it from ordinary sadness at all"],
+         "correct": 0,
+         "expl": "A settled seeing-through, not despair."},
+        {"q": "What does disenchantment give rise to, per the chapter's sequence?",
+         "opts": [
+             "A genuine wish for deliverance from the whole conditioned process",
+             "A renewed craving for pleasant meditative experiences",
+             "A decision to abandon meditation practice permanently",
+             "Increased attachment to the ten experiences from Chapter 20"],
+         "correct": 0,
+         "expl": "Followed by a renewed, deliberate re-examination of the three characteristics."},
+        {"q": "What does the chapter describe as the furthest point ordinary insight can reach on its own?",
+         "opts": [
+             "Equanimity about formations (saṅkhārupekkhā), a stable equanimity toward all conditioned phenomena",
+             "Illumination, the first of the ten experiences from Chapter 20",
+             "Purification of virtue, covered back in Part I",
+             "The four immaterial states from Chapter 10"],
+         "correct": 0,
+         "expl": "Neither pursuing nor pushing away any conditioned phenomena."},
+        {"q": "What does conformity knowledge do, per the chapter?",
+         "opts": [
+             "Functions as a bridge between everything already contemplated and what is about to follow",
+             "Reverses all the insight gained in the previous stages",
+             "Has no function; it is mentioned only in passing",
+             "Marks the end of the entire path, with nothing further to attain"],
+         "correct": 0,
+         "expl": "Leading toward the single threshold moment that follows."},
+        {"q": "What threshold does this chapter's sequence lead to?",
+         "opts": [
+             "The moment (gotrabhū) the mind first takes Nibbāna as its object",
+             "A return to the beginning of Part I",
+             "The attainment of the four immaterial states",
+             "Ordination as a monastic"],
+         "correct": 0,
+         "expl": "The very threshold of the supramundane path Chapter 22 describes."},
+        {"q": "What does Chapter 22 turn to next?",
+         "opts": [
+             "The seventh and final purification, and the four supramundane paths and fruits",
+             "A return to the forty meditation subjects of Part II",
+             "The thirteen ascetic practices, revisited a third time",
+             "A summary of Part I alone"],
+         "correct": 0,
+         "expl": "Describing the threshold moment this chapter's sequence builds toward."},
+        {"q": "Where can a reader go for Chapter 21's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Sixth of seven purifications", [
+            "a graduated sequence,",
+            "not a single leap",
+        ]),
+        ("From arising to dissolution", [
+            "attention narrows to",
+            "phenomena's passing away",
+        ]),
+        ("Fear, danger, disenchantment", [
+            "not despair &mdash; a matured",
+            "seeing-through",
+        ]),
+        ("Equanimity, then the threshold", [
+            "the peak of ordinary insight,",
+            "then gotrabhū",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-22.59.html">SN 22.59 &mdash; The '
+        "Characteristic of Not-Self</a> &mdash; closes on the same sequence this "
+        "chapter traces: disenchantment, dispassion, and liberation.",
+        '<a href="../discourses/dhammapada/dhp-24.html">Dhammapada Chapter 24 '
+        "&mdash; Craving</a> &mdash; verses on the wish for deliverance from "
+        "conditioned existence this chapter's sequence builds toward.",
+    ],
+)
