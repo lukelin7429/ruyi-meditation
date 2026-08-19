@@ -927,3 +927,219 @@ page(
         "this chapter's subject.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 7 -- Chaanussatiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    7, "Chaanussatiniddesa", "Six Recollections",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 7 — Six Recollections | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 7 of the Visuddhimagga (The Path of "
+        "Purification) — recollection of the Buddha, the Dhamma, the Sangha, one's "
+        "own virtue, one's own generosity, and the qualities of deities, and why "
+        "these six reach confidence rather than full absorption. No translated text "
+        "reproduced; links to the full free translation and the Pali original. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter turns from the vivid material "
+                    "of Chapter 6 to a structurally different group of subjects"),
+        ("Speaker", "Buddhaghosa, continuing the survey of the forty meditation "
+                    "subjects previewed in Chapter 3"),
+        ("Form", "Six related recollections treated in turn, each built on a set of "
+                 "qualities to be called to mind rather than a fixed visual object"),
+        ("Length", "substantial; the recollections of the Buddha, the Dhamma, and "
+                   "the Sangha each carry an extended traditional formula of "
+                   "qualities explored individually"),
+        ("Northern parallel", "Recollection of the Three Jewels appears widely "
+                              "across Buddhist traditions in some form, though "
+                              "specific formulas and expansions differ; this guide "
+                              "does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; conceptually "
+                       "accessible, though the catalogued qualities of the Buddha "
+                       "and the Dhamma are numerous"),
+    ],
+    why=(
+        "Chapters 4 through 6 covered subjects built on a single object &mdash; a "
+        "kasina disk, a corpse's visible decay. Chapter 7 introduces something "
+        "structurally different: recollections built on calling to mind a set of "
+        "qualities rather than fixing attention on one simple sign. These particular "
+        "six are grouped together because each works by recalling something worthy "
+        "of confidence &mdash; the Buddha, the Dhamma, the Sangha, one's own virtue, "
+        "one's own generosity, or the qualities that account for a deity's state "
+        "&mdash; and each is presented as especially suited to a person of faithful "
+        "or devoted temperament."),
+    guide=[
+        ("A different kind of object", [
+            "Where a kasina rests attention on a single visual sign, each of these "
+            "six recollections works by calling to mind a whole set of qualities in "
+            "turn. This difference in structure matters later in the chapter, when "
+            "it becomes the reason given for why these six reach a different depth "
+            "of concentration than several of the kasinas."]),
+        ("Recollection of the Buddha", [
+            "The first recollection has a practitioner call to mind a traditional "
+            "formula of the Buddha's qualities &mdash; among them being worthy, "
+            "fully self-awakened, and accomplished in both knowledge and conduct "
+            "&mdash; reflecting on each in turn as grounds for settled confidence."]),
+        ("Recollection of the Dhamma", [
+            "The second recollection turns to qualities traditionally attributed to "
+            "the teaching itself: that it is well-expounded, visible in the present, "
+            "not delayed in its results, inviting inspection, and to be experienced "
+            "individually by the wise."]),
+        ("Recollection of the Sangha", [
+            "The third recollection reflects on qualities of the community of "
+            "accomplished practitioners &mdash; that they practice the good way, "
+            "are worthy of hospitality and offerings, and constitute what the "
+            "tradition calls an unsurpassed field for cultivating merit."]),
+        ("Recollection of one's own virtue and generosity", [
+            "The fourth and fifth recollections turn the same reflective method "
+            "inward: recalling one's own unbroken and unblemished conduct, and "
+            "recalling one's own history of giving, each as grounds for confidence "
+            "rather than self-congratulation."]),
+        ("Recollection of deities", [
+            "The sixth recollection reflects on the qualities said to account for a "
+            "deity's favorable state &mdash; faith, virtue, learning, generosity, "
+            "and wisdom &mdash; but the chapter frames its actual purpose as using "
+            "that reflection as a kind of mirror, checking whether one possesses "
+            "those same qualities oneself, rather than as devotion to deities as "
+            "such."]),
+        ("Confidence, not absorption", [
+            "Because each of these six objects is a set of qualities rather than a "
+            "single simple sign, the chapter treats all six as capable of bringing "
+            "the mind to a settled confidence and access concentration, but not to "
+            "the fuller absorption several of the kasinas were said to reach in "
+            "Chapters 4 and 5."]),
+        ("What follows", [
+            "Chapter 8 completes the set of ten recollections with four more: "
+            "death, the body, the breath, and peace &mdash; broadening the range of "
+            "objects this same reflective approach can be applied to."]),
+    ],
+    terms=[
+        ("anussati",
+         "&ldquo;recollection&rdquo; &mdash; the class of ten subjects this chapter "
+         "and the next cover; Chapter 7 treats the first six."),
+        ("Buddhānussati",
+         "recollection of the Buddha &mdash; reflecting on a traditional formula of "
+         "his qualities."),
+        ("Dhammānussati",
+         "recollection of the Dhamma &mdash; reflecting on qualities traditionally "
+         "attributed to the teaching itself."),
+        ("Saṅghānussati",
+         "recollection of the Sangha &mdash; reflecting on qualities of the "
+         "community of accomplished practitioners."),
+        ("sīlānussati, cāgānussati, devatānussati",
+         "recollection of one's own virtue, one's own generosity, and the qualities "
+         "of deities &mdash; the chapter's remaining three recollections."),
+    ],
+    quiz=[
+        {"q": "How do the six recollections in this chapter differ structurally from a kasina?",
+         "opts": [
+             "They rest on a set of qualities called to mind, rather than a single fixed visual sign",
+             "They require no mental effort of any kind",
+             "They can only be practiced in a charnel ground",
+             "They are identical in structure to a kasina, only differently colored"],
+         "correct": 0,
+         "expl": "This difference becomes the chapter's reason for their different ceiling on concentration."},
+        {"q": "Which temperament from Chapter 3 do these six recollections particularly suit?",
+         "opts": [
+             "The faithful or devoted temperament",
+             "The hating temperament",
+             "The deluded temperament",
+             "The speculative temperament"],
+         "correct": 0,
+         "expl": "Each works by calling to mind something worthy of confidence."},
+        {"q": "What is recollection of the Buddha built on?",
+         "opts": [
+             "A traditional formula of the Buddha's qualities, such as being worthy and fully self-awakened",
+             "A single visual image of the Buddha only",
+             "A physical relic that must be present",
+             "Silent repetition of the Buddha's name alone"],
+         "correct": 0,
+         "expl": "Each quality is reflected on in turn as grounds for settled confidence."},
+        {"q": "What is recollection of the Dhamma built on?",
+         "opts": [
+             "Qualities traditionally attributed to the teaching, such as being well-expounded and visible in the present",
+             "Memorizing every discourse word for word",
+             "A vow never to question the teaching",
+             "The physical books the teaching is written in"],
+         "correct": 0,
+         "expl": "Including that it invites inspection and is to be experienced individually by the wise."},
+        {"q": "What do recollection of virtue and recollection of generosity turn attention toward?",
+         "opts": [
+             "One's own unbroken conduct and one's own history of giving",
+             "The virtue and generosity of a specific named teacher only",
+             "Rules one has not yet learned",
+             "Wealth one hopes to acquire in the future"],
+         "correct": 0,
+         "expl": "Each is treated as grounds for confidence rather than self-congratulation."},
+        {"q": "What does the chapter say recollection of deities is actually for?",
+         "opts": [
+             "Using deities' qualities as a mirror to check whether one possesses the same qualities oneself",
+             "Securing direct favors and protection from deities",
+             "Proving that deities do not really exist",
+             "Preparing to be reborn as a deity as quickly as possible"],
+         "correct": 0,
+         "expl": "Framed as a check on one's own faith, virtue, learning, generosity, and wisdom, not devotion to devas as such."},
+        {"q": "What depth of concentration does the chapter say all six recollections here can reach?",
+         "opts": [
+             "Access concentration and settled confidence, but not full absorption",
+             "Full absorption through all four jhānas, exactly like the kasinas",
+             "No concentration at all; they are purely intellectual exercises",
+             "A depth beyond even the kasinas'"],
+         "correct": 0,
+         "expl": "Contrasted with several of the kasinas from Chapters 4 and 5."},
+        {"q": "Why can't these six recollections reach full absorption, per the chapter's account?",
+         "opts": [
+             "Each object is a set of multiple qualities rather than one single, simple sign",
+             "They are considered too easy to require full absorption",
+             "The Buddha explicitly forbade absorption on these subjects",
+             "They can only be practiced for a few minutes at a time"],
+         "correct": 0,
+         "expl": "The same structural difference noted early in the chapter becomes the reason given here."},
+        {"q": "What does Chapter 8 add to complete the set of ten recollections?",
+         "opts": [
+             "Death, the body, the breath, and peace",
+             "Four more kasinas",
+             "Four more stages of foulness",
+             "The four divine abidings"],
+         "correct": 0,
+         "expl": "Broadening the range of objects the same reflective approach can be applied to."},
+        {"q": "Where can a reader go for Chapter 7's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("A different kind of object", [
+            "qualities reflected on,",
+            "not a visual sign",
+        ]),
+        ("The Triple Gem", [
+            "Buddha, Dhamma,",
+            "and Sangha",
+        ]),
+        ("Turning inward, and beyond", [
+            "virtue, generosity,",
+            "and the qualities of deities",
+        ]),
+        ("Confidence, not absorption", [
+            "access concentration only,",
+            "unlike several kasinas",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/anguttara-nikaya/an-6.10.html">AN 6.10 &mdash; With '
+        "Mahānāma</a> &mdash; the Buddha's own full expansion of the six "
+        "recollections this chapter treats.",
+        '<a href="../discourses/anguttara-nikaya/an-6.25.html">AN 6.25 &mdash; '
+        "Topics for Recollection</a> &mdash; a further discourse on the same six "
+        "recollections, closing on how they purify a mind of greed.",
+    ],
+)
