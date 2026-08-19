@@ -3855,3 +3855,2026 @@ page(
         "&mdash; previous.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.3 — Mahāvagga (AN 10.21-30)
+# --------------------------------------------------------------------------- #
+VAGGA_3 = "<em>Mahāvagga</em> &mdash; the third chapter of the Tens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.21 — Sīhanādasutta — this chapter's own namesake
+# --------------------------------------------------------------------------- #
+page(
+    21, "Sīhanāda", "The Lion&rsquo;s Roar",
+    vagga=VAGGA_3,
+    meta_title="AN 10.21 — The Lion's Roar | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the famous Sīhanādasutta, naming the Buddha's ten powers "
+        "through the image of a lion emerging to hunt, opening this "
+        "chapter with one of the canon's best-known teachings. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A lion simile, then the Buddha's ten powers named in "
+                 "turn, each closing the same refrain"),
+        ("Length", "~3 minutes to read"),
+        ("Chapter's namesake, and a famous teaching", "This discourse "
+         "names the chapter and delivers one of the most cited "
+         "teachings in the entire canon, the ten Tathāgata powers"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "dense and doctrinally central, worth reading "
+                       "slowly"),
+    ],
+    why=(
+        "Just as a lion emerges from his den at evening, surveys the "
+        "four quarters, and roars three times before hunting, the "
+        "Buddha's own teaching to an assembly is his lion's roar, "
+        "grounded in ten powers &mdash; from knowing the possible and "
+        "impossible to the ending of his own defilements &mdash; that "
+        "let him claim the bull's place and turn the wheel of the "
+        "teaching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha possesses ten powers of a Realized One &mdash; "
+            "knowing the possible and impossible, the results of "
+            "deeds, where all paths of practice lead, the world's many "
+            "elements, beings' diverse convictions and faculties, the "
+            "states of meditative attainment, his own and others' past "
+            "lives, others' rebirth according to their deeds, and the "
+            "ending of his own defilements &mdash; and with these "
+            "powers claims the bull's place and roars his lion's roar."]),
+        ("A vivid animal image for a philosophical claim", [
+            "The discourse opens with unusually concrete natural "
+            "observation: a lion emerging at evening, yawning, "
+            "surveying every direction, roaring three times before the "
+            "hunt &mdash; even naming the lion's own reason, avoiding "
+            "injury to small creatures on uneven ground &mdash; before "
+            "turning this image directly onto the Buddha's own act of "
+            "teaching."]),
+        ("Ten powers, one shared refrain", [
+            "Each of the ten powers follows an identical closing "
+            "formula: since the Realized One truly understands this, "
+            "it is a power of the Realized One, and relying on it he "
+            "claims the bull's place, roars his lion's roar, and turns "
+            "the divine wheel &mdash; the same three-part authority "
+            "claimed identically ten times over."]),
+        ("This chapter's own namesake, one of the canon's most cited "
+         "teachings", [
+            "This discourse lends its own image, sīhanāda, the lion's "
+            "roar, to the chapter's name, Mahāvagga &mdash; though the "
+            "chapter's own generic title doesn't reflect it directly. "
+            "The ten powers named here are among the most frequently "
+            "cited formulas across the entire Pāli canon, marking a "
+            "Buddha's own distinctive, complete knowledge."]),
+    ],
+    terms=[
+        ("sīhanādaṁ nadati",
+         "&ldquo;roars his lion's roar&rdquo; &mdash; the discourse's "
+         "own title image, applied directly to the Buddha teaching an "
+         "assembly."),
+        ("dasa tathāgatabalāni",
+         "&ldquo;ten powers of a Realized One&rdquo; &mdash; the "
+         "discourse's own central teaching, among the most cited "
+         "formulas in the canon."),
+        ("ṭhānañca ṭhānato aṭṭhānañca aṭṭhānato yathābhūtaṁ pajānāti",
+         "&ldquo;truly understands the possible as possible and the "
+         "impossible as impossible&rdquo; &mdash; the first power, "
+         "opening the list."),
+        ("āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ",
+         "&ldquo;the undefiled freedom of heart and freedom by wisdom "
+         "... due to the ending of defilements&rdquo; &mdash; the "
+         "tenth and final power, closing the list."),
+        ("āsabhaṇṭhānaṁ paṭijānāti",
+         "&ldquo;claims the bull's place&rdquo; &mdash; the "
+         "discourse's own image of supreme confidence, repeated after "
+         "each of the ten powers."),
+    ],
+    text_intro=(
+        "The discourse in full: the lion simile, then the Buddha's ten "
+        "powers, each closing the same refrain. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A lion, emerging to hunt"),
+        ("p", "&sect;1", "an10.21:1.1-2.2"),
+        ("h3", "Ten powers of a Realized One"),
+        ("p", "&sect;2", "an10.21:3.1-3.4"),
+        ("p", "&sect;3", "an10.21:4.1-4.2"),
+        ("p", "&sect;4", "an10.21:5.1-5.2"),
+        ("p", "&sect;5", "an10.21:6.1-6.2"),
+        ("p", "&sect;6", "an10.21:7.1-7.2"),
+        ("p", "&sect;7", "an10.21:8.1-8.2"),
+        ("p", "&sect;8", "an10.21:9.1-9.2"),
+        ("p", "&sect;9", "an10.21:10.1-10.2"),
+        ("p", "&sect;10", "an10.21:11.1-11.2"),
+        ("p", "&sect;11", "an10.21:12.1-13.1"),
+    ],
+    quiz=[
+        {"q": "What image opens this discourse before applying it to "
+              "the Buddha?",
+         "opts": [
+             "A wild bull elephant",
+             "A lion emerging at evening, surveying the four "
+             "quarters, and roaring three times before the hunt",
+             "A stone post unmoved by storms",
+             "A burning pile of twigs"],
+         "correct": 1,
+         "expl": "A vivid natural observation, turned directly onto the "
+                 "Buddha's own act of teaching."},
+        {"q": "What is the first of the ten powers?",
+         "opts": [
+             "Recollecting past lives",
+             "Truly understanding the possible as possible and the "
+             "impossible as impossible",
+             "The ending of defilements",
+             "Clairvoyance regarding others' rebirth"],
+         "correct": 1,
+         "expl": "Opening the list of ten powers."},
+        {"q": "What refrain closes each of the ten powers?",
+         "opts": [
+             "A verse of praise",
+             "That relying on this power, he claims the bull's place, "
+             "roars his lion's roar, and turns the divine wheel",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "The same three-part claim of authority, repeated ten "
+                 "times."},
+        {"q": "What is the tenth and final power?",
+         "opts": [
+             "Knowledge of the world's elements",
+             "The undefiled freedom of heart and freedom by wisdom, "
+             "due to the ending of defilements",
+             "Knowledge of others' faculties",
+             "Understanding where all paths of practice lead"],
+         "correct": 1,
+         "expl": "Closing the list with the Buddha's own liberation."},
+        {"q": "What does this discourse lend to its chapter's name?",
+         "opts": [
+             "Nothing in particular", "Its own image, sīhanāda (the "
+             "lion's roar), though the chapter's title itself is "
+             "generic",
+             "A disciple's name", "A place name"],
+         "correct": 1,
+         "expl": "The chapter's own namesake, though titled generically "
+                 "as Mahāvagga."},
+        {"q": "How significant are the ten powers within the wider "
+              "canon, according to the guide?",
+         "opts": [
+             "A minor, rarely mentioned teaching",
+             "Among the most frequently cited formulas across the "
+             "entire Pāli canon",
+             "Unique to this single discourse",
+             "A teaching later superseded"],
+         "correct": 1,
+         "expl": "One of the canon's most central and widely repeated "
+                 "doctrinal formulas."},
+    ],
+    marginalia=[
+        ("A lion, at evening", [
+            "yawns, surveys all four",
+            "quarters, roars three times &mdash;",
+            "then sets out to hunt",
+        ]),
+        ("Ten powers, one refrain", [
+            "possible, results,",
+            "paths, elements, convictions,",
+            "faculties, and more",
+        ]),
+        ("A famous teaching", [
+            "cited throughout the",
+            "canon &mdash; the ten powers,",
+            "marking full awakening",
+        ]),
+        ("Cross-references", [
+            "AN 10.20 &middot; previous chapter's closing page",
+            "AN 10.22 &middot; next, the same ten powers reframed as "
+            "unsurpassable knowledge",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.20.html">AN 10.20 &middot; Abodes of the Noble Ones (2nd)</a> '
+        "&mdash; previous.",
+        '<a href="an-10.22.html">AN 10.22 &middot; Hypotheses</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.22 — Vesārajjasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, "Vesārajja", "Hypotheses",
+    vagga=VAGGA_3,
+    meta_title="AN 10.22 — Hypotheses | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vesārajjasutta, in which the Buddha tells Ānanda his "
+        "self-assurance rests on unsurpassable knowledge, then repeats "
+        "the same ten powers already met at AN 10.21. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 10.21"),
+        ("Speakers", "The Buddha, addressing Venerable Ānanda"),
+        ("Form", "A claim of unsurpassable knowledge, then the "
+                 "identical ten powers as AN 10.21"),
+        ("Length", "~2 minutes to read"),
+        ("Repeating AN 10.21's ten powers, differently framed", "The "
+         "same list, now presented as the ground of the Buddha's own "
+         "self-assurance rather than his lion's roar"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the same dense content as AN 10.21, worth "
+                       "reading for its distinct framing"),
+    ],
+    why=(
+        "Speaking to Ānanda, the Buddha claims self-assurance regarding "
+        "the various hypotheses people hold, able to teach appropriately "
+        "to different people and know each case truly &mdash; an "
+        "unsurpassable knowledge grounded in the same ten powers of a "
+        "Realized One already named at AN 10.21."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha's self-assurance in teaching Dhamma "
+            "appropriately to different people, truly knowing every "
+            "case as it is, rests on the identical ten powers of a "
+            "Realized One already named at AN 10.21."]),
+        ("A private conversation, not a public roar", [
+            "Where AN 10.21 framed these powers as the Buddha's "
+            "authority before an assembly, this discourse frames the "
+            "identical content as a private claim made directly to "
+            "Ānanda &mdash; the same ten powers, now grounding personal "
+            "self-assurance rather than public declaration."]),
+        ("Unsurpassable knowledge, named before the powers themselves", [
+            "This discourse adds a claim AN 10.21 doesn't make "
+            "explicitly: knowing whether something exists or doesn't, "
+            "is inferior or superior, is the &lsquo;unsurpassable "
+            "knowledge,&rsquo; truly knowing each and every case, with "
+            "no other knowledge said to be better or finer &mdash; a "
+            "framing statement introducing the same ten powers that "
+            "follow."]),
+        ("Identical content, worth reading as a pair", [
+            "Apart from this opening framing and its narrower "
+            "audience, this discourse's ten powers are word for word "
+            "AN 10.21's own list, right down to the shared closing "
+            "refrain &mdash; the two discourses worth reading together "
+            "for how the same teaching serves two different rhetorical "
+            "purposes."]),
+    ],
+    terms=[
+        ("nānādhimuttikānaṁ ñeyyapariyāyaṁ",
+         "&ldquo;the teachings that lead to realizing by insight the "
+         "various different hypotheses&rdquo; &mdash; the Buddha's own "
+         "opening claim to Ānanda, framing what follows."),
+        ("anuttariyaṁ ñāṇaṁ",
+         "&ldquo;the unsurpassable knowledge&rdquo; &mdash; this "
+         "discourse's own name for truly knowing each and every case, "
+         "introduced before the ten powers themselves."),
+        ("dasa tathāgatabalāni",
+         "&ldquo;ten powers of a Realized One&rdquo; &mdash; the "
+         "identical list and order as AN 10.21."),
+        ("āsabhaṇṭhānaṁ paṭijānāti, sīhanādaṁ nadati",
+         "&ldquo;claims the bull's place, roars his lion's roar&rdquo; "
+         "&mdash; the same closing refrain repeated after each power, "
+         "unchanged from AN 10.21."),
+        ("āyasmā ānando",
+         "&ldquo;Venerable Ānanda&rdquo; &mdash; this discourse's own "
+         "addressee, distinguishing it from AN 10.21's public "
+         "assembly setting."),
+    ],
+    text_intro=(
+        "The discourse in full: a claim of unsurpassable knowledge, "
+        "then the identical ten powers as AN 10.21. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Unsurpassable knowledge, claimed to Ānanda"),
+        ("p", "&sect;1", "an10.22:1.1-2.5"),
+        ("h3", "Ten powers of a Realized One"),
+        ("p", "&sect;2", "an10.22:3.1-3.4"),
+        ("p", "&sect;3", "an10.22:4.1-4.2"),
+        ("p", "&sect;4", "an10.22:5.1-5.2"),
+        ("p", "&sect;5", "an10.22:6.1-6.2"),
+        ("p", "&sect;6", "an10.22:7.1-7.2"),
+        ("p", "&sect;7", "an10.22:8.1-8.2"),
+        ("p", "&sect;8", "an10.22:9.1-9.2"),
+        ("p", "&sect;9", "an10.22:10.1-10.2"),
+        ("p", "&sect;10", "an10.22:11.1-11.2"),
+        ("p", "&sect;11", "an10.22:12.1-13.1"),
+    ],
+    quiz=[
+        {"q": "Who does the Buddha address in this discourse?",
+         "opts": [
+             "An assembly of mendicants publicly",
+             "Venerable Ānanda, privately",
+             "King Pasenadi",
+             "A group of wanderers"],
+         "correct": 1,
+         "expl": "A private conversation, unlike AN 10.21's public "
+                 "declaration."},
+        {"q": "What does the Buddha name as &lsquo;unsurpassable "
+              "knowledge&rsquo;?",
+         "opts": [
+             "Knowledge of the future alone",
+             "Truly knowing each and every case, with no other "
+             "knowledge said to be better or finer",
+             "Knowledge of monastic law",
+             "Knowledge available only to arahants"],
+         "correct": 1,
+         "expl": "A framing claim introduced before the ten powers "
+                 "themselves."},
+        {"q": "How does this discourse's ten powers compare to AN "
+              "10.21's?",
+         "opts": [
+             "Entirely different content",
+             "Word for word identical, including the shared closing "
+             "refrain",
+             "A shortened five-power version",
+             "A contradiction of AN 10.21"],
+         "correct": 1,
+         "expl": "The same list and order, framed differently."},
+        {"q": "What is the main difference between this discourse and "
+              "AN 10.21?",
+         "opts": [
+             "The content of the ten powers themselves",
+             "The framing and audience — private self-assurance to "
+             "Ānanda rather than public authority before an assembly",
+             "The number of powers named",
+             "The closing refrain"],
+         "correct": 1,
+         "expl": "Same teaching, different rhetorical purpose and "
+                 "setting."},
+        {"q": "What refrain closes each power, unchanged from AN "
+              "10.21?",
+         "opts": [
+             "A different formula entirely",
+             "Claiming the bull's place and roaring the lion's roar",
+             "A verse of thanks",
+             "A request for confirmation"],
+         "correct": 1,
+         "expl": "Identical to AN 10.21, despite the different framing "
+                 "context."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "Not restated, understood to continue from AN 10.21",
+             "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "Continuing directly from the previous discourse."},
+    ],
+    marginalia=[
+        ("A private claim", [
+            "not before the crowd,",
+            "but to Ānanda alone &mdash;",
+            "the same ten powers",
+        ]),
+        ("Unsurpassable knowledge", [
+            "truly knowing each",
+            "and every case &mdash; no finer",
+            "knowledge said to exist",
+        ]),
+        ("The same list, twice framed", [
+            "public roar, then private",
+            "assurance &mdash; one teaching,",
+            "two rhetorical uses",
+        ]),
+        ("Cross-references", [
+            "AN 10.21 &middot; the identical ten powers, there framed "
+            "as public authority",
+            "AN 10.23 &middot; next, Body",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.21.html">AN 10.21 &middot; The Lion&rsquo;s Roar</a> &mdash; the '
+        "identical ten powers, there framed as public authority.",
+        '<a href="an-10.23.html">AN 10.23 &middot; Body</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.23 — Kāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Kāya", "Body",
+    vagga=VAGGA_3,
+    meta_title="AN 10.23 — Body | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāyasutta, distinguishing what must be given up by the "
+        "body, by speech, or by wisdom alone — the latter category "
+        "including two items beyond this project's usual seventeen-"
+        "item defilement list. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Three categories of what must be given up, the third "
+                 "elaborated with two named examples"),
+        ("Length", "~3 minutes to read"),
+        ("A ten-item list that diverges from the familiar one", "This "
+         "discourse's ten things given up by wisdom alone overlap with "
+         "but don't exactly match this project's usual seventeen-item "
+         "defilement list"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "worth reading carefully for exactly which "
+                       "items appear and which don't"),
+    ],
+    why=(
+        "Some faults are given up through bodily correction, some "
+        "through verbal correction, and some &mdash; ten things "
+        "including greed, hate, delusion, and several further "
+        "corruptions, closing with nasty jealousy and corrupt wishes "
+        "&mdash; can only be given up by seeing again and again with "
+        "wisdom, never by bodily or verbal correction alone."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Some faults, once pointed out by companions, are given up "
+            "through correcting bodily or verbal conduct directly, but "
+            "ten deeper things &mdash; greed, hate, delusion, anger, "
+            "acrimony, disdain, contempt, stinginess, nasty jealousy, "
+            "and corrupt wishes &mdash; can only be given up by seeing "
+            "again and again with wisdom."]),
+        ("Correction by companions, for surface faults", [
+            "The first two categories share an identical structure: a "
+            "mendicant commits an offense by body or speech, "
+            "&lsquo;sensible spiritual companions&rsquo; point it out "
+            "after examination, and the mendicant, spoken to directly, "
+            "gives up the bad conduct and develops good conduct in its "
+            "place &mdash; correction working through social feedback."]),
+        ("A tenfold list that diverges from the familiar one", [
+            "The third category's list is worth checking carefully "
+            "against this project's usual seventeen-item defilement "
+            "list: it shares greed, hate, delusion, anger, acrimony, "
+            "disdain, contempt, and stinginess with that standard list, "
+            "but then closes with two items given their own full "
+            "definitions &mdash; nasty jealousy (issā, defined here as "
+            "resentment at others' prosperity) and corrupt wishes "
+            "(pāpicchā, wanting to be seen as possessing virtues one "
+            "lacks) &mdash; rather than continuing further down the "
+            "standard list's remaining items."]),
+        ("Corrupt wishes, defined in unusual detail", [
+            "The discourse's definition of corrupt wishes is "
+            "distinctively specific, naming nine separate false "
+            "self-presentations in turn: wanting to seem faithful, "
+            "ethical, learned, secluded, energetic, mindful, immersed, "
+            "wise, and free of defilements, when none of these is "
+            "actually true &mdash; a pointed catalogue of spiritual "
+            "pretense."]),
+    ],
+    terms=[
+        ("kāyena pahātabbā, vācāya pahātabbā",
+         "&ldquo;should be given up by the body... by speech&rdquo; "
+         "&mdash; the first two categories, each corrected through "
+         "companions' direct feedback."),
+        ("puna pappuna paññāya passitvā pahātabbā",
+         "&ldquo;given up... by seeing again and again with "
+         "wisdom&rdquo; &mdash; the third category's own distinctive "
+         "phrase, naming what correction from others cannot reach."),
+        ("issā",
+         "&ldquo;nasty jealousy&rdquo; &mdash; defined here as "
+         "resentment at another's prosperity or another ascetic's "
+         "gains, the ninth item in this discourse's own list."),
+        ("pāpicchatā",
+         "&ldquo;corrupt wishes&rdquo; &mdash; the tenth and final "
+         "item, wanting to be known for virtues one does not actually "
+         "possess, defined here through nine specific false self-"
+         "presentations."),
+        ("assaddho saddhoti ñāyaṁ icchati",
+         "&ldquo;a faithless person wishes to be known as "
+         "faithful&rdquo; &mdash; the first of nine examples "
+         "illustrating corrupt wishes."),
+    ],
+    text_intro=(
+        "The discourse in full: three categories of what must be "
+        "given up, the third elaborated with two named examples. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Given up by the body, or by speech"),
+        ("p", "&sect;1", "an10.23:1.1-3.7"),
+        ("h3", "Given up only by wisdom"),
+        ("p", "&sect;2", "an10.23:4.1-4.9"),
+        ("h3", "Nasty jealousy, and corrupt wishes"),
+        ("p", "&sect;3", "an10.23:5.1-6.13"),
+        ("h3", "Whether these things master a mendicant"),
+        ("p", "&sect;4", "an10.23:7.1-8.21"),
+    ],
+    quiz=[
+        {"q": "How are faults in the first two categories corrected, "
+              "according to this discourse?",
+         "opts": [
+             "They cannot be corrected at all",
+             "Through sensible spiritual companions pointing them out "
+             "directly, leading the mendicant to correct bodily or "
+             "verbal conduct",
+             "Only through solitary meditation",
+             "Only by the Buddha personally"],
+         "correct": 1,
+         "expl": "Social feedback working for surface-level conduct."},
+        {"q": "How does this discourse's third-category list compare to "
+              "this project's usual seventeen-item defilement list?",
+         "opts": [
+             "Identical in every item and order",
+             "It shares the first eight items but then closes with two "
+             "distinctively defined items, nasty jealousy and corrupt "
+             "wishes, rather than continuing the standard list further",
+             "It shares no items at all",
+             "It has only five items total"],
+         "correct": 1,
+         "expl": "A genuine divergence worth checking carefully, not "
+                 "simply another repetition of the familiar list."},
+        {"q": "How does this discourse define &lsquo;nasty "
+              "jealousy&rsquo;?",
+         "opts": [
+             "Wanting to travel to distant lands",
+             "Resentment at another's prosperity or another ascetic's "
+             "material gains",
+             "Fear of poverty",
+             "A desire for fame"],
+         "correct": 1,
+         "expl": "A specific, named form of ill will toward others' "
+                 "good fortune."},
+        {"q": "How many specific false self-presentations does this "
+              "discourse name under &lsquo;corrupt wishes&rsquo;?",
+         "opts": [
+             "Three", "Five", "Nine", "Twelve"],
+         "correct": 2,
+         "expl": "Wanting to seem faithful, ethical, learned, secluded, "
+                 "energetic, mindful, immersed, wise, and free of "
+                 "defilements — nine in total."},
+        {"q": "What can never correct the ten things in the third "
+              "category, according to this discourse?",
+         "opts": [
+             "Wisdom alone",
+             "Bodily or verbal correction by companions",
+             "Meditation of any kind",
+             "Nothing can correct them"],
+         "correct": 1,
+         "expl": "These deeper corruptions require seeing again and "
+                 "again with wisdom, not social feedback."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, without narrative frame."},
+    ],
+    marginalia=[
+        ("Two kinds, correctable", [
+            "body's fault, speech's fault &mdash;",
+            "pointed out, and changed",
+            "through direct correction",
+        ]),
+        ("A list that diverges", [
+            "greed through stinginess,",
+            "then jealousy, corrupt wishes &mdash;",
+            "not the usual close",
+        ]),
+        ("Nine false faces named", [
+            "faithless claiming faith,",
+            "witless claiming wisdom &mdash;",
+            "pretense, catalogued",
+        ]),
+        ("Cross-references", [
+            "AN 10.22 &middot; previous",
+            "AN 10.24 &middot; next, By Mahācunda",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.22.html">AN 10.22 &middot; Hypotheses</a> &mdash; previous.',
+        '<a href="an-10.24.html">AN 10.24 &middot; By Mahācunda</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.24 — Mahācundasutta
+# --------------------------------------------------------------------------- #
+page(
+    24, "Mahācunda", "By Mahācunda",
+    vagga=VAGGA_3,
+    meta_title="AN 10.24 — By Mahācunda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahācundasutta, testing declarations of knowledge and "
+        "meditative development against AN 10.23's ten defilements, "
+        "using a rich-versus-poor-person simile. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sahajāti, in the land of the Cetīs"),
+        ("Speakers", "Venerable Mahācunda, addressing the mendicants"),
+        ("Form", "Three kinds of declaration tested against the same "
+                 "ten defilements, twice over, closed by a wealth "
+                 "simile"),
+        ("Length", "~4 minutes to read"),
+        ("Reusing AN 10.23's own tenfold list", "The identical ten "
+         "things given up only by wisdom, here used as a test for "
+         "whether spiritual claims are genuine"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "highly repetitive by design, worth reading for "
+                       "its closing simile"),
+    ],
+    why=(
+        "A mendicant who declares knowledge, or meditative development, "
+        "or both, but is still mastered by greed, hate, or any of the "
+        "other eight things named at AN 10.23, is like a penniless "
+        "person who claims to be wealthy but cannot produce payment "
+        "when it's due; one whose declaration matches reality, unmastered "
+        "by any of these ten, is like someone genuinely rich who can "
+        "always pay."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant's declaration of knowledge, of meditative "
+            "development, or of both together is only as trustworthy "
+            "as whether they remain mastered by greed, hate, delusion, "
+            "or any of AN 10.23's other seven items &mdash; like a "
+            "declaration of wealth that proves false the moment payment "
+            "actually comes due."]),
+        ("Three kinds of declaration, each tested twice", [
+            "Mahācunda names three claims a mendicant might make: "
+            "knowing and seeing the teaching, being developed in "
+            "physical endurance, ethics, mind, and wisdom, or both "
+            "together &mdash; then tests each claim twice, once against "
+            "being mastered by the ten defilements and once against not "
+            "being mastered by them, producing six near-identical "
+            "passages before the discourse's closing simile."]),
+        ("Reusing AN 10.23's tenfold list directly", [
+            "This discourse doesn't introduce a new list of "
+            "corruptions; it applies the identical ten items just "
+            "named at AN 10.23 &mdash; greed, hate, delusion, anger, "
+            "acrimony, disdain, contempt, stinginess, nasty jealousy, "
+            "and corrupt wishes &mdash; as the direct test for whether "
+            "any of the three declarations actually holds up."]),
+        ("A debt that proves whether wealth claims are genuine", [
+            "The discourse's closing simile is precise and practical: a "
+            "penniless person who claims wealth is exposed the moment "
+            "payment comes due and they cannot produce it, while a "
+            "genuinely wealthy person always can &mdash; the test isn't "
+            "the claim itself but what happens when reality actually "
+            "demands proof, exactly paralleling whether a mendicant's "
+            "spiritual claims hold up against the ten defilements' "
+            "continued presence or absence."]),
+    ],
+    terms=[
+        ("ñāṇavādañca vadati",
+         "&ldquo;makes a declaration of knowledge&rdquo; &mdash; the "
+         "first of three claims this discourse tests, &lsquo;I know "
+         "this teaching, I see this teaching.&rsquo;"),
+        ("bhāvanāvādañca vadati",
+         "&ldquo;makes a declaration of development&rdquo; &mdash; the "
+         "second claim, development in physical endurance, ethics, "
+         "mind, and wisdom."),
+        ("rāgo taṁ bhikkhuṁ pariyādāya tiṭṭhati",
+         "&ldquo;greed masters that mendicant and keeps going&rdquo; "
+         "&mdash; the shared test applied to all three declarations, "
+         "using the identical ten items from AN 10.23."),
+        ("daliddo assako anāḷhiyo",
+         "&ldquo;poor, needy, and penniless&rdquo; &mdash; the "
+         "discourse's own closing simile, a false claim of wealth "
+         "exposed when payment comes due."),
+        ("aḍḍho mahaddhano mahābhogo",
+         "&ldquo;rich, affluent, and wealthy&rdquo; &mdash; the "
+         "simile's mirror-image half, a genuine claim confirmed when "
+         "payment can actually be made."),
+    ],
+    text_intro=(
+        "The discourse in full: three declarations tested against AN "
+        "10.23's ten items, twice each, closed by a wealth simile. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three declarations, mastered by the ten"),
+        ("p", "&sect;1", "an10.24:1.1-4.22"),
+        ("h3", "A poor person's false claim of wealth"),
+        ("p", "&sect;2", "an10.24:5.1-6.22"),
+        ("h3", "Three declarations, unmastered by the ten"),
+        ("p", "&sect;3", "an10.24:7.1-9.22"),
+        ("h3", "A rich person's genuine claim of wealth"),
+        ("p", "&sect;4", "an10.24:10.1-11.22"),
+    ],
+    quiz=[
+        {"q": "What three kinds of declaration does Mahācunda name?",
+         "opts": [
+             "Declarations of wealth, status, and lineage",
+             "Declarations of knowledge, of meditative development, "
+             "and of both together",
+             "Declarations of ordination, seniority, and merit",
+             "Only a single declaration"],
+         "correct": 1,
+         "expl": "Three distinct spiritual claims, each tested the same "
+                 "way."},
+        {"q": "What test does this discourse apply to all three "
+              "declarations?",
+         "opts": [
+             "A test of physical strength",
+             "Whether the mendicant remains mastered by AN 10.23's ten "
+             "items — greed, hate, and the rest",
+             "A test of monastic seniority",
+             "A test of teaching ability"],
+         "correct": 1,
+         "expl": "The identical tenfold list just introduced at AN "
+                 "10.23, reused directly here."},
+        {"q": "What simile closes this discourse?",
+         "opts": [
+             "A burning pile of twigs",
+             "A penniless person falsely claiming wealth, exposed when "
+             "payment comes due, versus a genuinely wealthy person who "
+             "can always pay",
+             "A tree lacking branches",
+             "A stone post unmoved by storms"],
+         "correct": 1,
+         "expl": "The test isn't the claim itself but whether it holds "
+                 "up when reality demands proof."},
+        {"q": "How many near-identical passages does this discourse "
+              "produce by testing three declarations against being "
+              "mastered and not mastered?",
+         "opts": [
+             "Two", "Three", "Six", "Twelve"],
+         "correct": 2,
+         "expl": "Six passages total, three declarations each tested "
+                 "twice."},
+        {"q": "Who speaks this discourse, and where?",
+         "opts": [
+             "The Buddha, at Sāvatthī",
+             "Venerable Mahācunda, at Sahajāti in the land of the Cetīs",
+             "Sāriputta, at Rājagaha",
+             "Ānanda, at Kosambī"],
+         "correct": 1,
+         "expl": "A senior disciple teaching independently of the "
+                 "Buddha's own presence in the narrative."},
+        {"q": "What does this discourse reuse directly from AN 10.23?",
+         "opts": [
+             "Nothing; it introduces entirely new content",
+             "The identical ten-item list — greed, hate, delusion, and "
+             "the rest — as the test for genuine versus false spiritual "
+             "claims",
+             "The three-category structure of body/speech/wisdom",
+             "The nine corrupt-wishes examples"],
+         "correct": 1,
+         "expl": "A direct application of the immediately preceding "
+                 "discourse's own tenfold list."},
+    ],
+    marginalia=[
+        ("Three claims, tested", [
+            "knowledge, development,",
+            "or both &mdash; each measured by",
+            "the same ten defilements",
+        ]),
+        ("A debt reveals the truth", [
+            "poor, claiming wealth &mdash;",
+            "exposed when payment's due;",
+            "rich, and always can pay",
+        ]),
+        ("A list reused directly", [
+            "the same ten from 10.23,",
+            "now the very test",
+            "of whether claims hold",
+        ]),
+        ("Cross-references", [
+            "AN 10.23 &middot; the same ten items this discourse tests "
+            "declarations against",
+            "AN 10.25 &middot; next, Meditation on Universals",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.23.html">AN 10.23 &middot; Body</a> &mdash; previous, the same '
+        "ten items this discourse tests declarations against.",
+        '<a href="an-10.25.html">AN 10.25 &middot; Meditation on Universals</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.25 — Kasiṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Kasiṇa", "Meditation on Universals",
+    vagga=VAGGA_3,
+    meta_title="AN 10.25 — Meditation on Universals | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kasiṇasutta, a bare list of the ten classic meditation "
+        "devices — earth, water, fire, air, four colors, space, and "
+        "consciousness — pervading without limit. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list, no narrative and no elaboration"),
+        ("Length", "~30 seconds to read"),
+        ("One of the canon's most famous meditation lists", "The "
+         "kasiṇas are among the most widely known meditation objects "
+         "in the entire Buddhist tradition, here given their fullest "
+         "canonical form"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but naming a rich meditative tradition "
+                       "worth knowing"),
+    ],
+    why=(
+        "Ten universal dimensions of meditation are perceived above, "
+        "below, across, undivided and limitless: earth, water, fire, "
+        "air, blue, yellow, red, white, space, and consciousness "
+        "&mdash; the classic kasiṇa objects of concentration practice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten universal dimensions of meditation are perceived, "
+            "each above, below, across, undivided and limitless: "
+            "earth, water, fire, air, blue, yellow, red, white, space, "
+            "and consciousness."]),
+        ("A famous meditative tradition, named in full", [
+            "The kasiṇas (universal dimensions) are among the most "
+            "widely recognized meditation objects across the whole "
+            "Buddhist tradition, later developed at great length in "
+            "commentarial meditation manuals; this discourse gives "
+            "their canonical listing in its complete tenfold form."]),
+        ("Four elements, four colors, then two further dimensions", [
+            "The list moves through a clear internal structure: the "
+            "four physical elements (earth, water, fire, air), then "
+            "four pure colors (blue, yellow, red, white), then two "
+            "further dimensions that step beyond physical qualities "
+            "entirely &mdash; space and consciousness itself."]),
+        ("Pervading without division or limit", [
+            "Each kasiṇa shares the identical qualifying phrase: "
+            "perceived above, below, and across, undivided and "
+            "limitless &mdash; not a bounded visual object held in mind, "
+            "but that object's quality expanded to fill the whole of "
+            "perceived space without interruption."]),
+    ],
+    terms=[
+        ("kasiṇāyatanāni",
+         "&ldquo;universal dimensions of meditation&rdquo; &mdash; "
+         "this discourse's own title term, naming the classic tenfold "
+         "list of meditation devices."),
+        ("pathavīkasiṇaṁ",
+         "&ldquo;the meditation on universal earth&rdquo; &mdash; the "
+         "first kasiṇa, opening the fourfold elemental group."),
+        ("nīlaṁ, pītaṁ, lohitaṁ, odātaṁ",
+         "&ldquo;blue, yellow, red, white&rdquo; &mdash; the four "
+         "color kasiṇas, following the four elements."),
+        ("uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ",
+         "&ldquo;above, below, across, undivided and limitless&rdquo; "
+         "&mdash; the shared qualifying phrase applied identically to "
+         "all ten kasiṇas."),
+        ("viññāṇakasiṇaṁ",
+         "&ldquo;the meditation on universal consciousness&rdquo; "
+         "&mdash; the tenth and final kasiṇa, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten universal dimensions of "
+        "meditation, each perceived without division or limit. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten universal dimensions"),
+        ("p", "&sect;1", "an10.25:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What ten universal dimensions does this discourse name?",
+         "opts": [
+             "Ten monastic precepts",
+             "Earth, water, fire, air, blue, yellow, red, white, "
+             "space, and consciousness",
+             "The five aggregates plus five hindrances",
+             "Ten kinds of wrong view"],
+         "correct": 1,
+         "expl": "The classic kasiṇa list, among the most widely known "
+                 "meditation objects in the tradition."},
+        {"q": "How does this discourse's list organize internally?",
+         "opts": [
+             "Randomly, with no discernible structure",
+             "Four physical elements, then four colors, then two "
+             "further dimensions (space and consciousness)",
+             "Alphabetically by Pāli term",
+             "By difficulty, easiest to hardest"],
+         "correct": 1,
+         "expl": "A clear progression from elemental to chromatic to "
+                 "abstract dimensions."},
+        {"q": "What qualifying phrase applies identically to all ten "
+              "kasiṇas?",
+         "opts": [
+             "&ldquo;Difficult to attain and rarely achieved&rdquo;",
+             "&ldquo;Above, below, across, undivided and "
+             "limitless&rdquo;",
+             "&ldquo;Reserved for advanced meditators only&rdquo;",
+             "&ldquo;Attained only in deep forest solitude&rdquo;"],
+         "correct": 1,
+         "expl": "The shared formula naming how each dimension is "
+                 "meant to fill perception without interruption."},
+        {"q": "According to the guide, how significant are the kasiṇas "
+              "within the wider Buddhist tradition?",
+         "opts": [
+             "A minor, rarely used practice",
+             "Among the most widely recognized meditation objects "
+             "across the whole tradition, later developed at length in "
+             "commentarial manuals",
+             "Unique to this single discourse",
+             "A later addition unrelated to canonical practice"],
+         "correct": 1,
+         "expl": "A foundational meditative catalogue with wide later "
+                 "influence."},
+        {"q": "What is the tenth and final kasiṇa named?",
+         "opts": [
+             "White", "Space",
+             "Consciousness", "Air"],
+         "correct": 2,
+         "expl": "Closing the list at its most abstract dimension."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare catalogue, without narrative frame."},
+    ],
+    marginalia=[
+        ("Four elements, four colors", [
+            "earth, water, fire, air,",
+            "blue, yellow, red, white &mdash;",
+            "then space, consciousness",
+        ]),
+        ("Filling perception whole", [
+            "above, below, across &mdash;",
+            "undivided, limitless,",
+            "not a bounded object",
+        ]),
+        ("A famous tradition", [
+            "the kasiṇas, later",
+            "developed at great length &mdash;",
+            "here, their full ten named",
+        ]),
+        ("Cross-references", [
+            "AN 10.24 &middot; previous",
+            "AN 10.26 &middot; next, With Kāḷī",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.24.html">AN 10.24 &middot; By Mahācunda</a> &mdash; previous.',
+        '<a href="an-10.26.html">AN 10.26 &middot; With Kāḷī</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.26 — Kāḷīsutta
+# --------------------------------------------------------------------------- #
+page(
+    26, "Kāḷī", "With Kāḷī",
+    vagga=VAGGA_3,
+    meta_title="AN 10.26 — With Kāḷī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kāḷīsutta, in which Mahākaccāna explains a cryptic Buddha "
+        "verse to a laywoman by showing how the ten kasiṇas of AN "
+        "10.25 can be mistaken for the ultimate goal. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Avantis, near Kuraraghara on "
+                    "Steep Mountain"),
+        ("Speakers", "The laywoman Kāḷī of Kurughara questioning "
+                     "Venerable Mahākaccāna"),
+        ("Form", "A quoted verse, a request for its meaning, and an "
+                 "answer built on AN 10.25's ten kasiṇas"),
+        ("Length", "~3 minutes to read"),
+        ("Putting AN 10.25's list to direct use", "The kasiṇas named "
+         "in bare form at AN 10.25 here become the concrete substance "
+         "of a philosophical explanation"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "subtle exegesis, worth reading alongside AN "
+                       "10.25 directly"),
+    ],
+    why=(
+        "The laywoman Kāḷī asks Mahākaccāna to explain a Buddha verse "
+        "about having reached peace of heart apart from other people, "
+        "and he answers by showing that some ascetics and brahmins "
+        "mistake each kasiṇa attainment, one after another, for the "
+        "ultimate goal, while the Buddha directly knew the limits of "
+        "each and saw the beginning, drawback, and escape."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Some ascetics and brahmins regard each of the ten kasiṇa "
+            "attainments as the ultimate goal and are reborn accordingly, "
+            "but the Buddha directly knew the extent of each "
+            "attainment, saw its beginning, drawback, and escape, and "
+            "so reached genuine peace of heart, unattached to any of "
+            "them."]),
+        ("A cryptic verse, requiring exegesis", [
+            "Kāḷī brings Mahākaccāna a specific quoted verse from "
+            "&lsquo;The Maidens' Questions&rsquo; &mdash; the Buddha "
+            "declaring he has conquered the army of the likable and "
+            "pleasant, awakened alone in absorption, and no longer gets "
+            "close to people nor they to him &mdash; and asks what it "
+            "actually means in detail."]),
+        ("Every kasiṇa, tested against the same standard", [
+            "Mahākaccāna's answer runs through all ten kasiṇas from AN "
+            "10.25 in turn &mdash; earth through consciousness &mdash; "
+            "applying the identical logic to each: some regard this "
+            "attainment as ultimate and are reborn thinking so, but the "
+            "Buddha saw its limits, its drawback, and the escape from "
+            "it, which is precisely how he reached true peace."]),
+        ("Peace found through seeing limits, not through greater "
+         "attainment", [
+            "The discourse's underlying claim is pointed: the Buddha's "
+            "peace of heart doesn't come from having mastered a kasiṇa "
+            "attainment beyond what others reach, but from correctly "
+            "seeing the limits, drawback, and escape of every such "
+            "attainment &mdash; recognizing what looks like an ultimate "
+            "goal as merely one more thing to see through."]),
+    ],
+    terms=[
+        ("kumārikapañhesu",
+         "&ldquo;in &lsquo;The Maidens' Questions&rsquo;&rdquo; "
+         "&mdash; the specific earlier source Kāḷī quotes the Buddha's "
+         "verse from."),
+        ("santaṁ padamajjhagamaṁ",
+         "&ldquo;I've reached the goal, peace of heart&rdquo; &mdash; "
+         "the verse's own opening line, the statement Kāḷī asks to "
+         "have explained."),
+        ("pathavīkasiṇasamāpattiṁ",
+         "&ldquo;the attainment of the meditation on universal "
+         "earth&rdquo; &mdash; the first kasiṇa this discourse tests "
+         "against the same standard, using AN 10.25's own list."),
+        ("ādiñca disvā ādīnavañca nissaraṇañca",
+         "&ldquo;he saw the beginning, the drawback, and the "
+         "escape&rdquo; &mdash; Mahākaccāna's own explanation for why "
+         "the Buddha, unlike others, reached genuine peace."),
+        ("ayamaggo, ayaṁ paṭipadā",
+         "&ldquo;what is the path and what is not the path&rdquo; "
+         "&mdash; part of the Buddha's own knowledge and vision, "
+         "distinguishing genuine liberation from mistaking attainment "
+         "for the goal."),
+    ],
+    text_intro=(
+        "The discourse in full: a quoted verse, and Mahākaccāna's "
+        "explanation built on all ten kasiṇas from AN 10.25. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A cryptic verse, quoted"),
+        ("p", "&sect;1", "an10.26:1.1-3.1"),
+        ("h3", "Every kasiṇa, tested against the same standard"),
+        ("p", "&sect;2", "an10.26:4.1-5.13"),
+        ("h3", "The verse, explained"),
+        ("p", "&sect;3", "an10.26:6.1-6.5"),
+    ],
+    quiz=[
+        {"q": "What does Kāḷī bring to Mahākaccāna?",
+         "opts": [
+             "A personal complaint",
+             "A quoted verse from &lsquo;The Maidens' Questions&rsquo; "
+             "asking for its detailed meaning",
+             "A donation of robes",
+             "A request for ordination"],
+         "correct": 1,
+         "expl": "A specific cryptic verse requiring careful exegesis."},
+        {"q": "What list does Mahākaccāna's answer run through in "
+              "full?",
+         "opts": [
+             "The five hindrances",
+             "All ten kasiṇas from AN 10.25, earth through "
+             "consciousness",
+             "The nine progressive attainments",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Putting the bare list from AN 10.25 to direct "
+                 "explanatory use."},
+        {"q": "What mistake does Mahākaccāna say some ascetics and "
+              "brahmins make regarding each kasiṇa?",
+         "opts": [
+             "They never attempt them at all",
+             "They regard each attainment as the ultimate goal and are "
+             "reborn accordingly",
+             "They abandon them too quickly",
+             "They confuse them with each other"],
+         "correct": 1,
+         "expl": "Mistaking a meditative attainment for the final goal "
+                 "itself."},
+        {"q": "According to the guide, where does the Buddha's peace "
+              "of heart actually come from?",
+         "opts": [
+             "From mastering a kasiṇa attainment beyond what others "
+             "reach",
+             "From correctly seeing the limits, drawback, and escape of "
+             "every such attainment",
+             "From avoiding meditation entirely",
+             "From social isolation alone"],
+         "correct": 1,
+         "expl": "Insight into limits, not superior attainment, is the "
+                 "discourse's real point."},
+        {"q": "What three things did the Buddha see regarding each "
+              "kasiṇa attainment?",
+         "opts": [
+             "Its beauty, its rarity, and its difficulty",
+             "Its beginning, its drawback, and the escape from it",
+             "Its cost, its duration, and its popularity",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "The specific threefold insight Mahākaccāna names as "
+                 "the difference between the Buddha and others."},
+        {"q": "Who questions whom in this discourse?",
+         "opts": [
+             "The Buddha questions Mahākaccāna",
+             "The laywoman Kāḷī questions Venerable Mahākaccāna",
+             "Ānanda questions Mahākaccāna",
+             "Sāriputta questions Kāḷī"],
+         "correct": 1,
+         "expl": "A lay follower seeking exegesis from a senior "
+                 "disciple, in the Buddha's own absence from the "
+                 "narrative."},
+    ],
+    marginalia=[
+        ("A cryptic verse", [
+            "&ldquo;I've reached the goal,",
+            "peace of heart&rdquo; &mdash; what does",
+            "this actually mean?",
+        ]),
+        ("Ten kasiṇas, one test", [
+            "earth, water, fire, air,",
+            "colors, space, consciousness &mdash;",
+            "each mistaken as final",
+        ]),
+        ("Peace through seeing limits", [
+            "not a higher rung,",
+            "but seeing the drawback",
+            "and the way out, clearly",
+        ]),
+        ("Cross-references", [
+            "AN 10.25 &middot; the same ten kasiṇas, here put to direct "
+            "explanatory use",
+            "AN 10.27 &middot; next, The Great Questions (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.25.html">AN 10.25 &middot; Meditation on Universals</a> &mdash; '
+        "previous, the same ten kasiṇas this discourse explains through.",
+        '<a href="an-10.27.html">AN 10.27 &middot; The Great Questions (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.27 — Mahāpañhāsutta (1st)
+# --------------------------------------------------------------------------- #
+page(
+    27, "Mahāpañhā", "The Great Questions (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 10.27 — The Great Questions (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Mahāpañhāsutta, the Buddha's own catechism running "
+        "one through ten — from all beings sustained by food to the "
+        "ten unskillful deeds — that outsiders could never answer. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "Several mendicants, wanderers of other "
+                     "religions, and the Buddha"),
+        ("Form", "A wanderers' challenge deferred to the Buddha, then "
+                 "ten numbered items each with its own referent"),
+        ("Length", "~3 minutes to read"),
+        ("A catechism outsiders cannot answer", "The Buddha claims no "
+         "one but himself, his disciples, or those who've heard it "
+         "from them could satisfactorily answer this one-through-ten "
+         "formula"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "compressed by the source's own peyyāla, worth "
+                       "reading for its ascending structure"),
+    ],
+    why=(
+        "Wanderers of other religions challenge some mendicants: "
+        "since both they and the Buddha teach disciples to directly "
+        "know all things, what's the difference? Brought to the "
+        "Buddha, the answer is a formula running from one thing "
+        "through ten, each with its own specific referent, that only "
+        "the Buddha, his disciples, or those who've heard it from them "
+        "could ever satisfactorily answer."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Becoming completely disillusioned, dispassionate, and "
+            "freed regarding one thing (all beings sustained by food) "
+            "through ten things (the ten ways of performing unskillful "
+            "deeds), seeing each set's limits and fully comprehending "
+            "its meaning, a mendicant makes an end of suffering in "
+            "this very life."]),
+        ("A challenge neither approved nor rejected", [
+            "When wanderers ask what distinguishes the Buddha's "
+            "teaching to &lsquo;directly know all things&rsquo; from "
+            "their own identical-sounding instruction, the mendicants "
+            "don't attempt an answer on the spot; they neither approve "
+            "nor reject the wanderers' framing, resolving instead to "
+            "learn the answer from the Buddha himself &mdash; the same "
+            "pattern of restraint already met at AN 9.12."]),
+        ("A formula only the Buddha's tradition can answer", [
+            "The Buddha's own claim is striking in its exclusivity: "
+            "questioned about this one-through-ten formula, wanderers "
+            "of other religions would be stumped and frustrated, "
+            "&lsquo;because they're out of their element&rsquo; "
+            "&mdash; no one anywhere, gods or humans, could provide a "
+            "satisfying answer except the Realized One, his disciple, "
+            "or someone who has heard it from them."]),
+        ("Ten items, each a specific referent for its number", [
+            "Each number from one to ten names a specific doctrinal "
+            "referent: one (all beings sustained by food), two (name "
+            "and form), three (three feelings), four (four foods), "
+            "five (five grasping aggregates), six (six interior sense "
+            "fields), seven (seven planes of consciousness), eight "
+            "(eight worldly conditions), nine (nine abodes of sentient "
+            "beings, the same list met at AN 9.24), and ten (ten ways "
+            "of performing unskillful deeds) &mdash; a complete "
+            "ascending survey of the tradition's own foundational "
+            "categories."]),
+    ],
+    terms=[
+        ("sabbadhammaṁ abhijānātha, sabbadhammaṁ abhiññāya",
+         "&ldquo;directly know all things... having directly known "
+         "all things&rdquo; &mdash; the wanderers' own claim to teach "
+         "identically to the Buddha, prompting this discourse's real "
+         "answer."),
+        ("na kho ahaṁ, bhikkhave, aññaṁ ekapuggalampi samanupassāmi",
+         "&ldquo;I don't see anyone... who could provide a satisfying "
+         "answer to these questions&rdquo; &mdash; the Buddha's own "
+         "exclusive claim regarding this formula."),
+        ("ekaṁ dhammaṁ... sabbe sattā āhāraṭṭhitikā",
+         "&ldquo;one thing... all sentient beings are sustained by "
+         "food&rdquo; &mdash; the first and most fully explained item "
+         "in the ascending formula."),
+        ("nava sattāvāsā",
+         "&ldquo;the nine abodes of sentient beings&rdquo; &mdash; the "
+         "ninth item, identical to the classification already met at "
+         "AN 9.24."),
+        ("dasa akusalakammapathā",
+         "&ldquo;the ten ways of performing unskillful deeds&rdquo; "
+         "&mdash; the tenth and final item, closing the ascending "
+         "formula."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: a wanderers' "
+        "challenge deferred to the Buddha, then ten numbered items, "
+        "each with its own referent. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A challenge from wanderers, deferred"),
+        ("p", "&sect;1", "an10.27:1.1-4.3"),
+        ("h3", "The Buddha's answer: one thing, fully explained"),
+        ("p", "&sect;2", "an10.27:5.1-10.8"),
+        ("h3", "Two things through three things"),
+        ("p", "&sect;3", "an10.27:11.1-12.7"),
+        ("h3", "Four things through five things"),
+        ("p", "&sect;4", "an10.27:13.1-14.7"),
+        ("h3", "Six things through seven things"),
+        ("p", "&sect;5", "an10.27:15.1-16.7"),
+        ("h3", "Eight things through nine things"),
+        ("p", "&sect;6", "an10.27:17.1-18.7"),
+        ("h3", "Ten things, fully explained"),
+        ("p", "&sect;7", "an10.27:19.1-19.8"),
+    ],
+    quiz=[
+        {"q": "What challenge do wanderers of other religions raise?",
+         "opts": [
+             "A challenge about monastic robes",
+             "That they too teach disciples to &lsquo;directly know "
+             "all things,&rsquo; asking what distinguishes this from "
+             "the Buddha's identical-sounding teaching",
+             "A challenge about almsfood",
+             "A challenge about rebirth"],
+         "correct": 1,
+         "expl": "Prompting the mendicants to defer to the Buddha "
+                 "rather than answer on the spot."},
+        {"q": "What does the Buddha claim about who can answer this "
+              "one-through-ten formula?",
+         "opts": [
+             "Anyone with sufficient education can answer it",
+             "No one anywhere could provide a satisfying answer except "
+             "the Realized One, his disciple, or someone who has heard "
+             "it from them",
+             "Only kings and nobles can answer it",
+             "The wanderers themselves can answer it easily"],
+         "correct": 1,
+         "expl": "A striking claim of exclusivity for this particular "
+                 "formula."},
+        {"q": "What is the first item in the formula, given the "
+              "fullest explanation?",
+         "opts": [
+             "The four noble truths",
+             "All sentient beings are sustained by food",
+             "The five aggregates",
+             "The eightfold path"],
+         "correct": 1,
+         "expl": "Fully spelled out before the source's own peyyāla "
+                 "compresses the remaining items."},
+        {"q": "What is the ninth item, and where has this project "
+              "already met it?",
+         "opts": [
+             "The eight worldly conditions, not met elsewhere",
+             "The nine abodes of sentient beings, identical to the "
+             "classification at AN 9.24",
+             "The seven planes of consciousness, met at AN 9.31",
+             "The six sense fields, met at AN 9.65"],
+         "correct": 1,
+         "expl": "The same nine-fold cosmological list already given "
+                 "in full earlier in this project."},
+        {"q": "What is the tenth and final item?",
+         "opts": [
+             "The ten fetters",
+             "The ten ways of performing unskillful deeds",
+             "The ten powers of a Realized One",
+             "The ten kasiṇas"],
+         "correct": 1,
+         "expl": "Closing the ascending formula from one thing to ten."},
+        {"q": "How did the mendicants respond to the wanderers' "
+              "challenge in the moment?",
+         "opts": [
+             "They argued forcefully against it",
+             "They neither approved nor rejected it, resolving to ask "
+             "the Buddha directly — the same restraint already met at "
+             "AN 9.12",
+             "They agreed with the wanderers immediately",
+             "They refused to engage at all"],
+         "correct": 1,
+         "expl": "A model of restraint this project has already met "
+                 "elsewhere."},
+    ],
+    marginalia=[
+        ("A challenge, deferred", [
+            "&ldquo;we too teach this&rdquo; &mdash;",
+            "neither approved nor argued,",
+            "but brought to the Buddha",
+        ]),
+        ("One through ten, ascending", [
+            "food, name-form, feelings,",
+            "foods, aggregates, sense fields,",
+            "consciousness, conditions",
+        ]),
+        ("A formula none else can answer", [
+            "outsiders, stumped, frustrated &mdash;",
+            "out of their own element,",
+            "facing this alone",
+        ]),
+        ("Cross-references", [
+            "AN 9.12, AN 9.24 &middot; earlier meetings with the "
+            "restraint pattern and the nine abodes list",
+            "AN 10.26 &middot; previous",
+            "AN 10.28 &middot; next, the same formula reframed "
+            "positively",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.24.html">AN 9.24 &middot; Abodes of Sentient Beings</a> &mdash; the '
+        "identical ninth item in this discourse's formula.",
+        '<a href="an-10.26.html">AN 10.26 &middot; With Kāḷī</a> &mdash; previous.',
+        '<a href="an-10.28.html">AN 10.28 &middot; The Great Questions (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.28 — Mahāpañhāsutta (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    28, "Mahāpañhā", "The Great Questions (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 10.28 — The Great Questions (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Mahāpañhāsutta, a nun's own confident answer to "
+        "lay followers, reframing AN 10.27's one-through-ten formula "
+        "around positive development, later confirmed word for word "
+        "by the Buddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Kajaṅgalā, in a bamboo grove"),
+        ("Speakers", "The nun Kajaṅgalikā, lay followers, and, at the "
+                     "close, the Buddha"),
+        ("Form", "A nun's independent explanation of the same formula "
+                 "title as AN 10.27, later confirmed by the Buddha"),
+        ("Length", "~4 minutes to read"),
+        ("The same formula, developmental rather than "
+         "disillusionment-focused", "Where AN 10.27 framed each item "
+         "as something to grow disillusioned with, this version frames "
+         "most items as something to develop"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "compressed by peyyāla, worth comparing item by "
+                       "item against AN 10.27"),
+    ],
+    why=(
+        "Lay followers bring the nun Kajaṅgalikā the same "
+        "&lsquo;Great Questions&rsquo; formula met at AN 10.27, and, "
+        "admitting she hasn't heard its explanation directly from the "
+        "Buddha, she offers her own understanding &mdash; largely "
+        "reframing the items as things to be developed rather than "
+        "grown disillusioned with &mdash; which the Buddha later "
+        "confirms he would have answered exactly the same way."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Becoming disillusioned regarding one thing (food) and "
+            "developed in items two through ten &mdash; name and form, "
+            "three feelings, the four kinds of mindfulness meditation, "
+            "the five faculties, the six elements of escape, the seven "
+            "awakening factors, the noble eightfold path, the nine "
+            "abodes of sentient beings, and the ten ways of performing "
+            "skillful deeds &mdash; a mendicant makes an end of "
+            "suffering in this very life."]),
+        ("A nun's honest disclaimer, then confident teaching", [
+            "Kajaṅgalikā doesn't claim to be repeating something heard "
+            "directly from the Buddha or senior mendicants; she states "
+            "plainly that this is &lsquo;how it seems to me,&rsquo; "
+            "then proceeds to teach the full formula with evident "
+            "confidence &mdash; honesty about her source paired with "
+            "genuine authority in the content."]),
+        ("Several items reframed around development, not just "
+         "disillusionment", [
+            "Compared to AN 10.27, this version shifts several middle "
+            "items to a developmental register: the fourth item "
+            "becomes the four kinds of mindfulness meditation, the "
+            "fifth the five faculties, the sixth the six elements of "
+            "escape, the seventh the seven awakening factors, and the "
+            "eighth the noble eightfold path &mdash; the classic "
+            "bodhipakkhiyā dhammā, qualities on the side of awakening, "
+            "replacing AN 10.27's more purely disillusionment-focused "
+            "items at these same positions."]),
+        ("Confirmed word for word by the Buddha himself", [
+            "When the lay followers bring Kajaṅgalikā's answer back to "
+            "the Buddha, his response is unqualified: &lsquo;the nun "
+            "Kajaṅgalikā is astute, she has great wisdom... I would "
+            "answer it in exactly the same way&rsquo; &mdash; the same "
+            "pattern of confirmation, rather than correction, already "
+            "met when Sāriputta taught AN 10.4's identical chain "
+            "unaltered."]),
+    ],
+    terms=[
+        ("nāhaṁ etaṁ bhagavato sammukhā sutaṁ",
+         "&ldquo;I haven't heard and learned this in the presence of "
+         "the Buddha&rdquo; &mdash; Kajaṅgalikā's own honest "
+         "disclaimer, before offering her own understanding."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the fourth item in this version, replacing AN "
+         "10.27's differently framed fourth item."),
+        ("satta bojjhaṅgā",
+         "&ldquo;the seven awakening factors&rdquo; &mdash; the "
+         "seventh item, part of this version's shift toward the "
+         "classic qualities on the side of awakening."),
+        ("dasa kusalakammapathā",
+         "&ldquo;the ten ways of performing skillful deeds&rdquo; "
+         "&mdash; the tenth and final item, the positive counterpart "
+         "to AN 10.27's ten unskillful ways."),
+        ("evameva kho ahaṁ, gahapatayo, byākareyyaṁ",
+         "&ldquo;I would answer it in exactly the same way&rdquo; "
+         "&mdash; the Buddha's own closing confirmation of "
+         "Kajaṅgalikā's independent explanation."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: a nun's own "
+        "explanation of the same formula named at AN 10.27, later "
+        "confirmed by the Buddha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A question brought to a nun"),
+        ("p", "&sect;1", "an10.28:1.1-3.5"),
+        ("h3", "One thing: sustained by food"),
+        ("p", "&sect;2", "an10.28:4.1-4.7"),
+        ("h3", "Two things through three things"),
+        ("p", "&sect;3", "an10.28:5.1-5.9"),
+        ("h3", "Four things: the four kinds of mindfulness meditation"),
+        ("p", "&sect;4", "an10.28:6.1-6.7"),
+        ("h3", "Five things through eight things"),
+        ("p", "&sect;5", "an10.28:7.1-7.13"),
+        ("h3", "Nine things: the nine abodes of sentient beings"),
+        ("p", "&sect;6", "an10.28:8.1-8.7"),
+        ("h3", "Ten things: the ten ways of performing skillful deeds"),
+        ("p", "&sect;7", "an10.28:9.1-9.7"),
+        ("h3", "Confirmed by the Buddha himself"),
+        ("p", "&sect;8", "an10.28:10.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What does Kajaṅgalikā say about the source of her "
+              "answer?",
+         "opts": [
+             "That she heard it directly from the Buddha",
+             "That she hasn't heard it from the Buddha or senior "
+             "mendicants, but offers her own understanding",
+             "That she refuses to answer at all",
+             "That only the Buddha can answer such questions"],
+         "correct": 1,
+         "expl": "Honest disclaimer paired with confident teaching."},
+        {"q": "How does this version's fourth item differ from AN "
+              "10.27's?",
+         "opts": [
+             "It is identical",
+             "This version names the four kinds of mindfulness "
+             "meditation, part of a developmental reframing of several "
+             "middle items",
+             "This version omits a fourth item entirely",
+             "This version reverses the numbering"],
+         "correct": 1,
+         "expl": "A shift toward the classic bodhipakkhiyā dhammā at "
+                 "several positions."},
+        {"q": "What happens when the lay followers bring Kajaṅgalikā's "
+              "answer to the Buddha?",
+         "opts": [
+             "He corrects several errors in her explanation",
+             "He confirms it without qualification, saying he would "
+             "have answered exactly the same way",
+             "He refuses to comment on it",
+             "He contradicts her entirely"],
+         "correct": 1,
+         "expl": "Unqualified confirmation, the same pattern already "
+                 "met when Sāriputta taught AN 10.4's chain unaltered."},
+        {"q": "What is the tenth and final item in this version?",
+         "opts": [
+             "The ten unskillful ways of acting",
+             "The ten ways of performing skillful deeds",
+             "The ten fetters",
+             "The ten powers of a Realized One"],
+         "correct": 1,
+         "expl": "The positive counterpart to AN 10.27's tenth item."},
+        {"q": "What items do this version and AN 10.27 share exactly?",
+         "opts": [
+             "None; every item differs",
+             "The first item (food) and the ninth item (nine abodes of "
+             "sentient beings)",
+             "Only the tenth item",
+             "All ten items are identical"],
+         "correct": 1,
+         "expl": "Some positions match exactly while several middle "
+                 "items are reframed developmentally."},
+        {"q": "What quality does the Buddha attribute to Kajaṅgalikā?",
+         "opts": [
+             "Excessive caution",
+             "Astuteness and great wisdom",
+             "Uncertainty about the teaching",
+             "A tendency to make errors"],
+         "correct": 1,
+         "expl": "High praise, closing the discourse with full "
+                 "confirmation."},
+    ],
+    marginalia=[
+        ("Honest, then confident", [
+            "&ldquo;I haven't heard this",
+            "from the Buddha himself&rdquo; &mdash;",
+            "then answers fully",
+        ]),
+        ("Development, not just release", [
+            "mindfulness, faculties,",
+            "escape, awakening factors,",
+            "the eightfold path itself",
+        ]),
+        ("Confirmed, not corrected", [
+            "&ldquo;exactly the same way",
+            "I would answer&rdquo; &mdash; the Buddha's",
+            "own unqualified praise",
+        ]),
+        ("Cross-references", [
+            "AN 10.4 &middot; the same confirmation-not-correction "
+            "pattern",
+            "AN 10.27 &middot; the identical formula title, there "
+            "framed around disillusionment",
+            "AN 10.29 &middot; next, Kosala (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.28/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.4.html">AN 10.4 &middot; Vital Conditions (2nd)</a> &mdash; the same '
+        "confirmation-not-correction pattern.",
+        '<a href="an-10.27.html">AN 10.27 &middot; The Great Questions (1st)</a> &mdash; '
+        "previous, the identical formula title.",
+        '<a href="an-10.29.html">AN 10.29 &middot; Kosala (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.29 — Kosalasutta (1st)
+# --------------------------------------------------------------------------- #
+page(
+    29, "Kosala", "Kosala (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 10.29 — Kosala (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the first Kosalasutta, an ascending cosmological survey from "
+        "King Pasenadi through a thousandfold galaxy to the kasiṇas, "
+        "liberations, and the Buddha's own claim to full "
+        "extinguishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A cascading series of &lsquo;foremost, yet it "
+                 "decays&rsquo; comparisons, ascending from a king to "
+                 "cosmology to meditative attainment"),
+        ("Length", "~6 minutes to read"),
+        ("This chapter's most sweeping single discourse", "Moving "
+         "from a named living king through galactic cosmology to the "
+         "kasiṇas, the eight liberations, and finally the Buddha's own "
+         "self-defense"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the densest and most wide-ranging discourse in "
+                       "this chapter"),
+    ],
+    why=(
+        "King Pasenadi is foremost within Kāsi and Kosala, yet he "
+        "decays and perishes; the Great Divinity is foremost within an "
+        "entire galaxy, yet it too decays; even the gods of streaming "
+        "radiance, the best kasiṇa, the best liberation, the best "
+        "practice, the best perception, and the best outsider view all "
+        "decay and perish &mdash; a learned noble disciple grows "
+        "disillusioned with every one of them, down to the Buddha's own "
+        "claim of full extinguishment through understanding the six "
+        "fields of contact."),
+    guide=[
+        ("The teaching in one sentence", [
+            "From a named king to the vastest cosmological scales to "
+            "the subtlest meditative attainments, everything held up "
+            "as &lsquo;the foremost&rsquo; still decays and perishes, "
+            "and a learned noble disciple grows disillusioned with "
+            "every one of them in turn, down to the Buddha's own "
+            "understanding of the six fields of contact."]),
+        ("An ascending scale, from a king to a galaxy", [
+            "The discourse's opening movement escalates deliberately: "
+            "King Pasenadi, foremost within Kāsi and Kosala; then a "
+            "thousandfold galaxy containing a thousand of everything "
+            "&mdash; moons, suns, mountains, oceans, heavens &mdash; "
+            "with the Great Divinity foremost within it; then, at "
+            "cosmic contraction, the gods of streaming radiance, "
+            "foremost of all &mdash; each level vastly exceeding the "
+            "one before, and each still subject to decay."]),
+        ("The same test applied to meditative attainment", [
+            "Having exhausted cosmological scale, the discourse turns "
+            "the identical test onto meditation itself: the best of "
+            "the ten kasiṇas (universal consciousness, already met at "
+            "AN 10.25), the best of the eight liberations (the white "
+            "kasiṇa-like attainment), the best of four ways of "
+            "practice, the best of four perceptions, the best outsider "
+            "view, and the best claim to ultimate purity of spirit "
+            "&mdash; every one still decaying, still perishing."]),
+        ("A self-defense, closing on the Buddha's own claim", [
+            "The discourse ends unexpectedly personal: the Buddha "
+            "names his own claim to full extinguishment through "
+            "understanding the six fields of contact, then directly "
+            "addresses a misrepresentation circulating against him "
+            "&mdash; that he denies advocating complete understanding "
+            "of sensual pleasures, forms, and feelings &mdash; "
+            "insisting plainly that he does advocate exactly this, and "
+            "full extinguishment through not grasping."]),
+    ],
+    terms=[
+        ("rājā pasenadi kosalo aggamakkhāyati",
+         "&ldquo;King Pasenadi is said to be the foremost&rdquo; "
+         "&mdash; the discourse's opening comparison, the smallest "
+         "scale before its cosmological ascent."),
+        ("sahassī cūḷanikā lokadhātu",
+         "&ldquo;a galaxy&rdquo; &mdash; literally a &ldquo;minor "
+         "thousandfold world-system,&rdquo; containing a thousand of "
+         "every cosmological feature."),
+        ("ābhassarā devā",
+         "&ldquo;the gods of streaming radiance&rdquo; &mdash; the "
+         "beings most sentient beings migrate to when the cosmos "
+         "contracts, foremost at that scale."),
+        ("viññāṇakasiṇaṁ",
+         "&ldquo;the meditation on universal consciousness&rdquo; "
+         "&mdash; named here as the best of the ten kasiṇas already "
+         "met in full at AN 10.25."),
+        ("channaṁ phassāyatanānaṁ samudayañca atthaṅgamañca assādañca "
+         "ādīnavañca nissaraṇañca yathābhūtaṁ viditvā",
+         "&ldquo;truly understanding the origin, disappearance, "
+         "gratification, drawback, and escape of the six fields of "
+         "contact&rdquo; &mdash; the Buddha's own basis for claiming "
+         "full extinguishment, closing the discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: an ascending series of comparisons, "
+        "from a king through cosmology to the Buddha's own claim of "
+        "extinguishment. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A king, and a galaxy"),
+        ("p", "&sect;1", "an10.29:1.1-3.7"),
+        ("h3", "The best kasiṇa, and the best liberation"),
+        ("p", "&sect;2", "an10.29:4.1-14.6"),
+        ("h3", "The best practice, perception, and outsider view"),
+        ("p", "&sect;3", "an10.29:15.1-20.7"),
+        ("h3", "The Buddha's own claim, and a misrepresentation "
+               "corrected"),
+        ("p", "&sect;4", "an10.29:21.1-21.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening comparison escalate?",
+         "opts": [
+             "It stays at a single fixed scale throughout",
+             "From King Pasenadi, foremost in Kāsi and Kosala, to a "
+             "thousandfold galaxy, to the gods of streaming radiance "
+             "at cosmic contraction",
+             "From the smallest insect to the largest animal",
+             "From one mendicant to the whole monastic community"],
+         "correct": 1,
+         "expl": "A deliberate cosmological ascent, each level vastly "
+                 "exceeding the one before."},
+        {"q": "What is said to be the best of the ten kasiṇas?",
+         "opts": [
+             "The earth kasiṇa",
+             "The meditation on universal consciousness, already met "
+             "at AN 10.25",
+             "The fire kasiṇa",
+             "The white kasiṇa"],
+         "correct": 1,
+         "expl": "Applying the same &lsquo;foremost, yet it decays"
+                 "&rsquo; test to meditative attainment."},
+        {"q": "What single claim does the Buddha make about himself, "
+              "closing the discourse?",
+         "opts": [
+             "That he has never taught about sensual pleasures",
+             "Full extinguishment through truly understanding the "
+             "origin, disappearance, gratification, drawback, and "
+             "escape of the six fields of contact",
+             "That he has surpassed the gods of streaming radiance in "
+             "power",
+             "That extinguishment is unattainable"],
+         "correct": 1,
+         "expl": "A personal claim closing an otherwise impersonal "
+                 "cosmological survey."},
+        {"q": "What misrepresentation does the Buddha address directly?",
+         "opts": [
+             "That he claims to be a god",
+             "That he doesn't advocate complete understanding of "
+             "sensual pleasures, forms, or feelings",
+             "That he has never taught the four noble truths",
+             "That he denies rebirth exists"],
+         "correct": 1,
+         "expl": "A false claim circulating against him, corrected "
+                 "plainly in the discourse's final lines."},
+        {"q": "What single refrain does this discourse repeat after "
+              "every comparison?",
+         "opts": [
+             "A verse of praise",
+             "That even the foremost decays and perishes, and a "
+             "learned noble disciple grows disillusioned, desire "
+             "fading even for the foremost",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "The same disillusionment logic applied consistently "
+                 "across every scale, from king to cosmos to meditation."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare, sweeping doctrinal survey, without narrative "
+                 "frame — unlike its companion, AN 10.30."},
+    ],
+    marginalia=[
+        ("A king, then a galaxy", [
+            "Pasenadi, foremost;",
+            "then a thousandfold cosmos,",
+            "each still decaying",
+        ]),
+        ("The same test, applied higher", [
+            "best kasiṇa, best",
+            "liberation, best practice &mdash;",
+            "all still perish, still fade",
+        ]),
+        ("A personal close", [
+            "the Buddha's own claim,",
+            "and a lie corrected &mdash;",
+            "plainly, without evasion",
+        ]),
+        ("Cross-references", [
+            "AN 10.25 &middot; the same ten kasiṇas, here ranked and "
+            "tested",
+            "AN 10.28 &middot; previous",
+            "AN 10.30 &middot; next, Kosala (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.25.html">AN 10.25 &middot; Meditation on Universals</a> &mdash; the '
+        "same ten kasiṇas, here ranked and tested.",
+        '<a href="an-10.28.html">AN 10.28 &middot; The Great Questions (2nd)</a> &mdash; '
+        "previous.",
+        '<a href="an-10.30.html">AN 10.30 &middot; Kosala (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.30 — Kosalasutta (2nd) — closes ch.3 Mahāvagga
+# --------------------------------------------------------------------------- #
+page(
+    30, "Kosala", "Kosala (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 10.30 — Kosala (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second Kosalasutta, closing this chapter with King "
+        "Pasenadi's own devoted visit after a military victory, "
+        "explaining his reverence through ten qualities he sees in the "
+        "Buddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "King Pasenadi of Kosala, and the Buddha"),
+        ("Form", "A vivid narrative visit, then ten reasons for "
+                 "devotion, each closing the same refrain"),
+        ("Length", "~4 minutes to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Mahāvagga</em>, the third chapter of the Tens; "
+         "the source's own untranslated closing verse names all ten "
+         "discourses of the chapter by their opening words"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "warm, personal narrative closing a chapter of "
+                       "otherwise abstract doctrine"),
+    ],
+    why=(
+        "Fresh from a military victory, King Pasenadi visits the "
+        "Buddha, prostrating with unusual physical affection and "
+        "announcing his own name twice over; asked why, he names ten "
+        "reasons for his devotion &mdash; the Buddha's welfare-focused "
+        "practice, his ethics, his forest dwelling, his contentment, "
+        "his worthiness of offerings, his access to elevated "
+        "conversation, his mastery of the four absorptions, and his "
+        "three knowledges."),
+    guide=[
+        ("The teaching in one sentence", [
+            "King Pasenadi explains his own deference and manifest "
+            "love for the Buddha through ten qualities he has "
+            "observed: welfare-focused practice, mature ethics, forest "
+            "dwelling, contentment with any requisites, worthiness of "
+            "offerings, access to elevated conversation, mastery of "
+            "the four absorptions, and the three knowledges."]),
+        ("A king's unguarded physical devotion", [
+            "The discourse's opening is unusually intimate: a king "
+            "fresh from military victory approaches the Buddha's own "
+            "closed door quietly, without hurrying, clears his throat "
+            "and knocks as instructed, then once inside bows with his "
+            "head at the Buddha's feet, caressing them and covering "
+            "them with kisses, announcing his own name twice as if "
+            "compelled to."]),
+        ("Ten reasons, echoing this chapter's earlier discourses", [
+            "Several of Pasenadi's ten reasons directly echo content "
+            "already met earlier in this project: worthiness of "
+            "offerings recalls AN 9.10 and AN 10.16's classifications, "
+            "and the closing sequence of four absorptions plus three "
+            "knowledges precisely matches AN 10.8 and AN 10.10's own "
+            "&lsquo;impressive all around&rsquo; formula, here voiced "
+            "not about a hypothetical mendicant but about the Buddha "
+            "himself, by a king who has personally witnessed it."]),
+        ("Closing the chapter on personal testimony", [
+            "With this discourse, <em>Mahāvagga</em> closes not on "
+            "abstract doctrine but on a specific person's specific "
+            "devotion &mdash; the source's own untranslated colophon "
+            "and chapter-summary verse name all ten discourses of the "
+            "chapter by their opening words, closing a chapter that "
+            "began with a lion's roar and ends with a king's kiss."]),
+    ],
+    terms=[
+        ("sīse añjaliṁ paṇāmetvā",
+         "&ldquo;bowed with his head at the Buddha's feet, caressing "
+         "them and covering them with kisses&rdquo; &mdash; the "
+         "discourse's own vivid image of the king's physical devotion."),
+        ("bahujanahitāya bahujanasukhāya paṭipanno",
+         "&ldquo;practicing for the welfare and happiness of the "
+         "people&rdquo; &mdash; the first of the king's ten named "
+         "reasons for his reverence."),
+        ("āraññiko",
+         "&ldquo;lives in the wilderness&rdquo; &mdash; the third "
+         "reason, echoing the same forest-dwelling quality already met "
+         "at AN 10.8-10."),
+        ("cattāro jhāne nikāmalābhī",
+         "&ldquo;gets the four absorptions... when he wants&rdquo; "
+         "&mdash; the ninth reason, matching AN 10.8's own ninth "
+         "quality exactly."),
+        ("mahāvaggo tatiyo",
+         "&ldquo;the third chapter, Mahāvagga, is finished&rdquo; "
+         "&mdash; the source's own untranslated colophon closing this "
+         "chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: King Pasenadi's devoted visit, and "
+        "ten reasons for his reverence. The source's own closing "
+        "colophon and chapter-summary verse are untranslated in the "
+        "English and are described rather than quoted here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A king's visit, after victory"),
+        ("p", "&sect;1", "an10.30:1.1-3.2"),
+        ("h3", "Ten reasons for devotion"),
+        ("p", "&sect;2", "an10.30:4.1-13.2"),
+        ("h3", "Closing"),
+        ("p", "&sect;3", "an10.30:14.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What does King Pasenadi do upon entering the Buddha's "
+              "dwelling?",
+         "opts": [
+             "He demands an audience formally",
+             "He bows with his head at the Buddha's feet, caressing "
+             "and kissing them, and announces his own name twice",
+             "He refuses to enter without an invitation",
+             "He sends a messenger instead"],
+         "correct": 1,
+         "expl": "An unusually intimate display of physical devotion "
+                 "from a reigning king."},
+        {"q": "What occasion prompts this visit?",
+         "opts": [
+             "A religious festival",
+             "Returning from combat after winning a battle",
+             "His coronation",
+             "A drought in his kingdom"],
+         "correct": 1,
+         "expl": "Fresh from military victory, the king seeks out the "
+                 "Buddha directly."},
+        {"q": "What do the king's ninth and tenth reasons for devotion "
+              "match exactly?",
+         "opts": [
+             "Nothing found elsewhere in this project",
+             "AN 10.8 and AN 10.10's own &lsquo;impressive all "
+             "around&rsquo; formula — four absorptions and the three "
+             "knowledges",
+             "AN 10.21's ten powers",
+             "AN 10.13's ten fetters"],
+         "correct": 1,
+         "expl": "The same qualities, here voiced personally about the "
+                 "Buddha by someone who has witnessed them."},
+        {"q": "What does this discourse close, and how?",
+         "opts": [
+             "Nothing; the chapter continues past it",
+             "<em>Mahāvagga</em>, the third chapter, with an "
+             "untranslated colophon and uddāna verse naming all ten "
+             "discourses",
+             "The entire nipāta",
+             "Only this single discourse, with no chapter-level effect"],
+         "correct": 1,
+         "expl": "The chapter's own closing colophon, left untranslated "
+                 "in the English."},
+        {"q": "According to the guide, what does this discourse "
+              "contribute to closing the chapter?",
+         "opts": [
+             "More abstract doctrine",
+             "Personal testimony — a specific king's specific "
+             "devotion, closing a chapter that opened with a lion's "
+             "roar",
+             "A contradiction of the chapter's earlier teachings",
+             "A repeat of AN 10.21's content"],
+         "correct": 1,
+         "expl": "From an abstract lion's roar to a concrete king's "
+                 "kiss, bracketing the chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, at the Great Wood",
+             "No setting is given"],
+         "correct": 1,
+         "expl": "A specific narrative setting, unlike AN 10.29's bare "
+                 "cosmological survey."},
+    ],
+    marginalia=[
+        ("A king's devotion", [
+            "fresh from battle, he",
+            "kisses the Buddha's feet,",
+            "names himself twice over",
+        ]),
+        ("Ten reasons, witnessed", [
+            "welfare, ethics, forest,",
+            "contentment, worthiness,",
+            "absorption, and three knowledges",
+        ]),
+        ("From roar to kiss", [
+            "the chapter opened with",
+            "a lion's roar &mdash; closes now",
+            "with a king's own tears",
+        ]),
+        ("Cross-references", [
+            "AN 10.8, AN 10.10 &middot; the same closing qualities, "
+            "there about a hypothetical mendicant",
+            "AN 10.29 &middot; previous",
+            "AN 10.31 &middot; next, opening ch.4, Upālivagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.30/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.8.html">AN 10.8 &middot; Inspiring All Around: the Absorptions</a> '
+        "&mdash; the same closing qualities, there about a hypothetical mendicant.",
+        '<a href="an-10.29.html">AN 10.29 &middot; Kosala (1st)</a> &mdash; previous.',
+    ],
+)
