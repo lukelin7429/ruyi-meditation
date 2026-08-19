@@ -2001,3 +2001,219 @@ page(
         "meditation instruction to his son.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 12 -- Iddhividhaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    12, "Iddhividhaniddesa", "The Supernormal Powers",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 12 — The Supernormal Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 12 of the Visuddhimagga (The Path of "
+        "Purification) — the four roads to power, a broad tenfold classification of "
+        "what counts as supernormal power, the traditional list of feats, and why "
+        "the chapter treats them as a secondary capacity rather than the path's "
+        "destination. No translated text reproduced; links to the full free "
+        "translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting for the exposition itself, though the "
+                    "chapter includes an account of past teachers as encouragement"),
+        ("Speaker", "Buddhaghosa, turning from the forty meditation subjects "
+                    "themselves to a byproduct concentration can additionally "
+                    "produce"),
+        ("Form", "Opens with a foundational fourfold scheme, works through an "
+                 "unusually broad tenfold classification of what counts as "
+                 "&lsquo;power&rsquo;, then the traditional list of specific feats, "
+                 "closing with cautions on their place in the path"),
+        ("Length", "substantial; one of the more elaborate chapters in Part II"),
+        ("Northern parallel", "Lists of abilities attained through meditative "
+                              "mastery appear across the wider Indian contemplative "
+                              "tradition beyond Buddhism specifically; this guide "
+                              "does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; vivid subject "
+                       "matter, with an unusually broad classification scheme to "
+                       "hold in mind"),
+    ],
+    why=(
+        "Chapter 11 completed the forty meditation subjects developed for their own "
+        "sake. Chapter 12 turns to something different: what a mind thoroughly "
+        "mastered in concentration, especially the fourth jhāna reached through the "
+        "kasinas, can additionally produce as a byproduct &mdash; a range of "
+        "abilities traditionally described as supernormal. The chapter treats these "
+        "with the same careful, technical attention given to the meditation "
+        "subjects themselves, while being equally clear that they are a secondary "
+        "capacity, not the actual destination of the path."),
+    guide=[
+        ("Roads to power", [
+            "Before turning to specific feats, the chapter introduces four "
+            "qualities traditionally described as the underlying basis for any "
+            "accomplishment, mundane or supernormal alike: desire, energy, mind, "
+            "and investigation. These four roads to power are presented as the "
+            "foundation the rest of the chapter builds on."]),
+        ("A broader category than it first appears", [
+            "The chapter's classification of what counts as &lsquo;power&rsquo; is "
+            "considerably broader than the dramatic feats usually associated with "
+            "the term. It spans some ten distinct kinds, including even the wholly "
+            "ordinary ability of certain creatures to fly as a simple result of "
+            "past kamma, alongside the deliberately cultivated abilities meditators "
+            "are traditionally said to develop through training."]),
+        ("Mastery of the kasinas as foundation", [
+            "Before describing any specific feat, the chapter insists on a prior "
+            "degree of fluency with jhāna and the kasinas: moving in and out of "
+            "absorption quickly, sustaining it at will, and directing it to any of "
+            "the ten kasinas in any order. It is this flexibility, more than raw "
+            "absorption alone, that the chapter treats as the actual precondition "
+            "for what follows."]),
+        ("The traditional list of feats", [
+            "With that foundation established, the chapter enumerates the "
+            "well-known specific abilities: multiplying the body from one into "
+            "many and back again, passing unobstructed through solid matter, "
+            "moving through earth and water as though through open space, flying, "
+            "and reaching even the most distant realms while still embodied."]),
+        ("A lineage of encouragement", [
+            "The chapter includes an account of past teachers said to have "
+            "accomplished feats of this kind, offered less as a claim demanding "
+            "belief than as encouragement that the training just described is not "
+            "merely theoretical."]),
+        ("A secondary capacity, not the destination", [
+            "Despite the careful, technical treatment these powers receive, the "
+            "chapter is clear that they are not what the path is actually for. A "
+            "practitioner already established in virtue and concentration is "
+            "expected to approach them cautiously, since liberation itself &mdash; "
+            "the training's real aim &mdash; lies elsewhere."]),
+        ("What follows", [
+            "Chapter 13 turns to the remaining forms of direct knowledge, one of "
+            "which &mdash; direct knowledge of the destruction of the taints "
+            "&mdash; is what the whole training has actually been building toward."]),
+    ],
+    terms=[
+        ("iddhi",
+         "&ldquo;supernormal power&rdquo; &mdash; this chapter's general subject, "
+         "spanning a broader range than the dramatic feats usually associated with "
+         "the term."),
+        ("iddhipāda",
+         "the four roads to power: desire, energy, mind, and investigation "
+         "&mdash; the foundational basis the chapter opens with."),
+        ("adhiṭṭhānā-iddhi",
+         "power through resolve &mdash; one traditional category, covering feats "
+         "such as becoming many from one."),
+        ("vikubbanā-iddhi",
+         "power through transformation &mdash; changing one's own form or "
+         "appearance."),
+        ("manomayā-iddhi",
+         "power of the mind-made body &mdash; projecting a duplicate form distinct "
+         "from one's physical body."),
+    ],
+    quiz=[
+        {"q": "What does Chapter 12 turn to after Chapter 11 completed the forty meditation subjects?",
+         "opts": [
+             "Supernormal powers, a byproduct mastered concentration can additionally produce",
+             "A forty-first meditation subject not previously mentioned",
+             "The beginning of Part III (Understanding)",
+             "A return to the ten kasinas for further practice"],
+         "correct": 0,
+         "expl": "Treated with the same technical care as the subjects themselves, but understood as secondary to them."},
+        {"q": "What four qualities does the chapter describe as the underlying basis for any accomplishment?",
+         "opts": [
+             "Desire, energy, mind, and investigation",
+             "Faith, virtue, generosity, and wisdom",
+             "The five hindrances",
+             "The five jhāna factors"],
+         "correct": 0,
+         "expl": "The iddhipāda, or roads to power, introduced before any specific feat is described."},
+        {"q": "How broad is the chapter's classification of what counts as &lsquo;power&rsquo;?",
+         "opts": [
+             "Broader than dramatic feats alone; it includes even a bird's natural flight as a result of past kamma",
+             "Limited strictly to the eight specific feats listed later in the chapter",
+             "Limited to abilities gained only through formal ordination",
+             "Limited to abilities that cannot be explained by any prior cause"],
+         "correct": 0,
+         "expl": "Spanning some ten distinct kinds altogether."},
+        {"q": "What prior skill does the chapter insist on before any specific feat is attempted?",
+         "opts": [
+             "Fluency moving in and out of jhāna and directing it to any of the ten kasinas at will",
+             "Formal permission from a monastic council",
+             "A minimum of twenty years as an ordained monastic",
+             "No prior skill at all; the feats can be attempted immediately"],
+         "correct": 0,
+         "expl": "This flexibility, not raw absorption alone, is treated as the actual precondition."},
+        {"q": "Which of the following is among the traditional list of feats this chapter describes?",
+         "opts": [
+             "Multiplying the body from one into many and back again",
+             "Predicting winning lottery numbers",
+             "Permanently altering another person's memory",
+             "Reversing the process of physical aging indefinitely"],
+         "correct": 0,
+         "expl": "Alongside passing through solid matter, moving through earth and water, flying, and reaching distant realms."},
+        {"q": "What does the chapter include as encouragement that this training is not merely theoretical?",
+         "opts": [
+             "An account of past teachers said to have accomplished feats of this kind",
+             "A signed certificate of authenticity",
+             "A promise that every reader will attain these powers within a year",
+             "A warning that the powers are entirely fictional"],
+         "correct": 0,
+         "expl": "Offered less as a claim demanding belief than as encouragement."},
+        {"q": "What caution does the chapter give about these supernormal powers?",
+         "opts": [
+             "They are a secondary capacity, not the path's actual destination",
+             "They should be publicly demonstrated as often as possible",
+             "They guarantee immediate full awakening once gained",
+             "They are forbidden to ever be developed under any circumstances"],
+         "correct": 0,
+         "expl": "A practitioner already established in virtue and concentration approaches them cautiously."},
+        {"q": "Why does the chapter recommend caution around these powers even for an accomplished practitioner?",
+         "opts": [
+             "Because liberation itself, the training's real aim, lies elsewhere",
+             "Because the powers are considered morally evil in themselves",
+             "Because only laypeople are permitted to use them",
+             "Because they cannot coexist with any level of virtue"],
+         "correct": 0,
+         "expl": "The powers are a byproduct of mastery, not a substitute for the path's actual goal."},
+        {"q": "What does Chapter 13 turn to next?",
+         "opts": [
+             "The remaining forms of direct knowledge, including the destruction of the taints",
+             "A second, longer list of meditation subjects",
+             "The thirteen ascetic practices, revisited",
+             "The start of Part III (Understanding)"],
+         "correct": 0,
+         "expl": "One of these remaining forms is what the whole training has actually been building toward."},
+        {"q": "Where can a reader go for Chapter 12's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("A byproduct of mastery", [
+            "not one of the",
+            "forty subjects itself",
+        ]),
+        ("Four roads to power", [
+            "desire, energy,",
+            "mind, investigation",
+        ]),
+        ("Broader than it seems", [
+            "even a bird's flight",
+            "counts, by kammic result",
+        ]),
+        ("Not the destination", [
+            "a secondary capacity,",
+            "approached with caution",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/digha-nikaya/dn-11.html">DN 11 &mdash; With '
+        "Kevaḍḍha</a> &mdash; the Buddha's own account of psychic-power "
+        "demonstrations, and why he distinguishes them from a more valued kind of "
+        "miracle.",
+        '<a href="../discourses/majjhima-nikaya/mn-006.html">MN 6 &mdash; One Might '
+        "Wish</a> &mdash; lists supernormal powers among the results a virtuous, "
+        "concentrated mind can produce.",
+    ],
+)
