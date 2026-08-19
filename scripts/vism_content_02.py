@@ -1143,3 +1143,228 @@ page(
         "recollections, closing on how they purify a mind of greed.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 8 -- Anussatikammaṭṭhānaniddesa (dutiya)
+# --------------------------------------------------------------------------- #
+page(
+    8, "Anussatikammaṭṭhānaniddesa", "Other Recollections",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 8 — Other Recollections | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 8 of the Visuddhimagga (The Path of "
+        "Purification) — recollection of death, mindfulness occupied with the body, "
+        "mindfulness of breathing, and recollection of peace, and why breathing "
+        "alone among them reaches full absorption. No translated text reproduced; "
+        "links to the full free translation and the Pali original. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter completes the ten "
+                    "recollections begun in Chapter 7"),
+        ("Speaker", "Buddhaghosa, continuing the survey of the forty meditation "
+                    "subjects previewed in Chapter 3"),
+        ("Form", "Four subjects treated in sequence, markedly different in "
+                 "character from one another despite belonging to the same "
+                 "traditional category"),
+        ("Length", "one of the longest chapters in the work, since mindfulness of "
+                   "breathing and mindfulness occupied with the body each receive "
+                   "extended, detailed treatment"),
+        ("Northern parallel", "Recollection of death, contemplation of the body's "
+                              "parts, and mindfulness of breathing all appear widely "
+                              "across Buddhist meditation literature; this guide "
+                              "does not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; four fairly "
+                       "distinct subjects covered in one chapter, with breathing's "
+                       "detailed step scheme the most technical material so far"),
+    ],
+    why=(
+        "Chapter 7 covered six of the traditional ten recollections; this chapter "
+        "completes the set with the remaining four &mdash; death, the body, "
+        "breathing, and peace. Despite sharing the recollection label, these four "
+        "differ from each other more than the six in Chapter 7 did from one "
+        "another, and one of them, mindfulness of breathing, breaks the pattern set "
+        "in the previous chapter entirely by reaching all the way to full "
+        "absorption. The chapter is worth reading as much for that contrast as for "
+        "the four techniques themselves."),
+    guide=[
+        ("Four subjects, one chapter", [
+            "The chapter groups recollection of death, mindfulness occupied with "
+            "the body, mindfulness of breathing, and recollection of peace together "
+            "because, along with Chapter 7's six, they complete the traditional "
+            "list of ten recollections &mdash; not because the four themselves are "
+            "especially alike. Their character, difficulty, and depth of "
+            "concentration all differ considerably."]),
+        ("Recollection of death", [
+            "This recollection has a practitioner reflect on death's certainty and "
+            "its unpredictable timing, using any of several traditional approaches "
+            "&mdash; among them, reflecting on how death spares no one regardless of "
+            "status or achievement, and reflecting on the body's fragility. The "
+            "intended effect is a sense of spiritual urgency rather than morbid "
+            "fear, and like most of Chapter 7's recollections, this one is said to "
+            "reach only access concentration, given the weight of its object."]),
+        ("Mindfulness occupied with the body", [
+            "This subject has a practitioner mentally divide the body into some "
+            "thirty-two anatomical parts &mdash; hair, nails, teeth, skin, sinews, "
+            "bones, and so on &mdash; reflecting on each in turn. Its purpose runs "
+            "parallel to Chapter 6's foulness meditation: undermining an "
+            "unexamined sense of the body as attractive or as a single, unified "
+            "self, but applied to the living body rather than to a corpse's visible "
+            "decay."]),
+        ("Mindfulness of breathing", [
+            "Traditionally regarded as the most highly praised of all forty "
+            "subjects, this recollection is set out through a detailed sixteen-step "
+            "scheme organized into four groups of four: attending first to the "
+            "breath itself (its length, the whole body of breathing, its "
+            "calming), then to rapture and happiness arising with it, then to the "
+            "state of mind itself, and finally to impermanence and letting go as "
+            "objects of contemplation built on that same steady attention to "
+            "breathing."]),
+        ("Why breathing stands apart", [
+            "Unlike the six recollections of Chapter 7 and the death and peace "
+            "recollections here, mindfulness of breathing is described as capable "
+            "of reaching full absorption through all four levels of jhāna, on par "
+            "with the kasinas. The chapter attributes this to breathing's nature as "
+            "a single, continuously present physical process, rather than a "
+            "complex set of qualities to be called to mind in sequence."]),
+        ("Recollection of peace", [
+            "The final recollection reflects on the qualities of Nibbāna itself as "
+            "the cessation of suffering. Like most of this chapter's other "
+            "subjects, it is said to reach only access concentration, its object "
+            "being too profound for full absorption to be reached by reflecting on "
+            "it indirectly, prior to its direct realization."]),
+        ("What follows", [
+            "Chapter 9 turns to the four divine abidings &mdash; loving-kindness, "
+            "compassion, appreciative joy, and equanimity &mdash; each capable, like "
+            "several of the kasinas and mindfulness of breathing, of reaching a "
+            "deep level of absorption."]),
+    ],
+    terms=[
+        ("maraṇānussati",
+         "recollection of death &mdash; reflecting on death's certainty and "
+         "unpredictable timing, meant to cultivate a sense of urgency."),
+        ("kāyagatāsati",
+         "mindfulness occupied with the body &mdash; reflecting in turn on some "
+         "thirty-two anatomical parts, undermining the body's apparent "
+         "attractiveness."),
+        ("ānāpānassati",
+         "mindfulness of breathing &mdash; traditionally the most highly praised of "
+         "the forty subjects, and the only recollection in this chapter capable of "
+         "reaching full absorption."),
+        ("upasamānussati",
+         "recollection of peace &mdash; reflecting on the qualities of Nibbāna as "
+         "the cessation of suffering."),
+        ("saṃvega",
+         "a sense of spiritual urgency &mdash; the quality recollection of death is "
+         "meant to cultivate, distinct from ordinary fear."),
+    ],
+    quiz=[
+        {"q": "What four subjects does this chapter cover?",
+         "opts": [
+             "Death, the body, breathing, and peace",
+             "The four kasinas of color",
+             "The four divine abidings",
+             "The four immaterial states"],
+         "correct": 0,
+         "expl": "Completing the traditional list of ten recollections begun in Chapter 7."},
+        {"q": "What is recollection of death meant to cultivate?",
+         "opts": [
+             "Saṃvega, a sense of spiritual urgency, rather than morbid fear",
+             "Complete indifference to all future events",
+             "A detailed prediction of one's own death date",
+             "Anger at the inevitability of death"],
+         "correct": 0,
+         "expl": "Reflecting on death's certainty and unpredictable timing."},
+        {"q": "What technique does mindfulness occupied with the body use?",
+         "opts": [
+             "Mentally dividing the body into some thirty-two anatomical parts, reflected on in turn",
+             "Observing the body's reflection in a mirror",
+             "Fasting until the body's structure becomes visible",
+             "Measuring the body's exact weight and height"],
+         "correct": 0,
+         "expl": "Hair, nails, teeth, skin, sinews, bones, and so on."},
+        {"q": "What is mindfulness occupied with the body meant to undermine?",
+         "opts": [
+             "An unexamined sense of the body as attractive or as a single, unified self",
+             "The ability to walk and move normally",
+             "Trust in one's teacher",
+             "The five hindrances specifically, and nothing else"],
+         "correct": 0,
+         "expl": "Its purpose runs parallel to Chapter 6's foulness meditation, applied to the living body."},
+        {"q": "How is mindfulness of breathing traditionally regarded among the forty meditation subjects?",
+         "opts": [
+             "As the most highly praised of all forty",
+             "As the least effective of all forty",
+             "As forbidden for beginners",
+             "As identical in every respect to the earth kasina"],
+         "correct": 0,
+         "expl": "Set out through a detailed sixteen-step scheme in this chapter."},
+        {"q": "How is mindfulness of breathing's method organized?",
+         "opts": [
+             "A sixteen-step scheme organized into four groups of four",
+             "A single step repeated sixteen times identically",
+             "Two steps only: inhaling and exhaling",
+             "Forty steps, one for each meditation subject"],
+         "correct": 0,
+         "expl": "Moving from the breath itself, through rapture and happiness, to the mind, and finally to impermanence and letting go."},
+        {"q": "What makes mindfulness of breathing unique among this chapter's four subjects?",
+         "opts": [
+             "It alone is described as capable of reaching full absorption through all four jhānas",
+             "It alone requires no sustained attention",
+             "It alone cannot be practiced by monastics",
+             "It alone was added to the canon after Buddhaghosa's time"],
+         "correct": 0,
+         "expl": "Attributed to breathing's nature as a single, continuously present physical process."},
+        {"q": "What does recollection of peace reflect on, and what is its ceiling on concentration?",
+         "opts": [
+             "The qualities of Nibbāna as the cessation of suffering; access concentration only",
+             "The qualities of a peaceful afternoon; full absorption",
+             "The absence of any object whatsoever; no concentration at all",
+             "The qualities of a specific historical peace treaty"],
+         "correct": 0,
+         "expl": "Its object is described as too profound for full absorption to be reached indirectly."},
+        {"q": "What does Chapter 9 turn to next?",
+         "opts": [
+             "The four divine abidings: loving-kindness, compassion, appreciative joy, and equanimity",
+             "The immaterial states",
+             "The supernormal powers",
+             "The remaining kasinas"],
+         "correct": 0,
+         "expl": "Several of which are also capable, like mindfulness of breathing, of reaching deep absorption."},
+        {"q": "Where can a reader go for Chapter 8's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Four different subjects", [
+            "death, the body,",
+            "breathing, and peace",
+        ]),
+        ("Completing the ten", [
+            "with Chapter 7's six,",
+            "the full recollection set",
+        ]),
+        ("Thirty-two parts", [
+            "undermining the body's",
+            "apparent attractiveness",
+        ]),
+        ("Breathing stands apart", [
+            "the one recollection here",
+            "reaching full absorption",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/majjhima-nikaya/mn-118.html">MN 118 &mdash; '
+        "Mindfulness of Breathing</a> &mdash; the canonical source discourse for "
+        "the sixteen-step scheme this chapter details.",
+        '<a href="../discourses/majjhima-nikaya/mn-119.html">MN 119</a> &mdash; a '
+        "discourse centered on mindfulness of the body, directly relevant to this "
+        "chapter's thirty-two-parts technique.",
+    ],
+)
