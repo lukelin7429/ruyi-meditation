@@ -15121,3 +15121,866 @@ page(
         '<a href="an-9.84-91.html">AN 9.84&ndash;91</a> &mdash; previous.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.10 — Rāgapeyyāla (AN 9.93-432), closing AN 9 (the Book of the Nines)
+# and the entire nipāta. 340 discourses across 4 pages. Unlike AN 6/7/8's
+# Rāgapeyyāla, this nipāta has only TWO foundational nine-fold sets (nine
+# perceptions, nine attainments) rather than three, since the Nines has no
+# third nava-dhamma list comparable to those earlier nipātas' three sixes/
+# sevens/eights. AN 9.93 gives the nine perceptions in full (already met at
+# AN 9.16); AN 9.94 gives the nine attainments in full (already met
+# throughout ch.4 and ch.6). AN 9.95-112 (18) = 9 verbs x 2 sets, abbreviated
+# for greed itself. AN 9.113-432 (320) = 16 further afflictions x 10 verbs
+# (abhiññā hidden in the peyyāla after the 16th) x 2 sets = the sixth time
+# this project meets the standard 17-item defilement list closing a nipāta.
+# --------------------------------------------------------------------------- #
+VAGGA_10 = "<em>Rāgapeyyāla</em> &mdash; the tenth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.93 — untitled in the source
+# --------------------------------------------------------------------------- #
+page(
+    93, "(untitled)", "Untitled Discourse on Greed (1st)",
+    vagga=VAGGA_10,
+    index_pali="(untitled)",
+    subtitle=("<em>Untitled in the source</em> &mdash; %s, opening the "
+              "great closing peyyāla" % VAGGA_10),
+    meta_title="AN 9.93 — Untitled Discourse on Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the untitled discourse opening AN 9's great closing peyyāla — "
+        "the nine perceptions already met in full at AN 9.16, now "
+        "given for insight into greed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare nine-item list, restated from AN 9.16, now "
+                 "framed as insight into greed"),
+        ("Length", "~30 seconds to read"),
+        ("Opening the great closing peyyāla", "This discourse and its "
+         "twin at AN 9.94 open the mechanism that will close AN 9 "
+         "entirely — the sixth time this project has met this "
+         "standard closing pattern"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in itself, but marks the start of this "
+                       "nipāta's largest structural feature"),
+    ],
+    why=(
+        "For insight into greed, nine things should be developed: the "
+        "perceptions of ugliness, death, repulsiveness of food, "
+        "dissatisfaction with the whole world, impermanence, suffering "
+        "in impermanence, not-self in suffering, giving up, and fading "
+        "away &mdash; the identical nine perceptions already named in "
+        "full at AN 9.16, opening the mechanism that will close this "
+        "entire nipāta."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, nine things should be developed: "
+            "the perceptions of ugliness, death, repulsiveness of food, "
+            "dissatisfaction with the whole world, impermanence, "
+            "suffering in impermanence, not-self in suffering, giving "
+            "up, and fading away."]),
+        ("The same nine perceptions already met in full", [
+            "This is not a new list. Every one of these nine "
+            "perceptions was already named, in the identical order, at "
+            "AN 9.16 &mdash; where this project's memory of this "
+            "project first flagged that this exact sequence would "
+            "resurface later in this nipāta's closing peyyāla. That "
+            "resurfacing happens here."]),
+        ("Untitled, and paired with an unnamed twin", [
+            "Like AN 8.118-120 earlier in this project, this discourse "
+            "carries no title in the source at all &mdash; not even an "
+            "untranslated one, just the bare marker &lsquo;~&rsquo; "
+            "where a Pāli name would normally stand. Its twin at AN "
+            "9.94 is equally untitled, giving the second of this "
+            "closing peyyāla's two foundational nine-fold sets."]),
+        ("Only two sets, not three, unlike earlier nipātas", [
+            "AN 6, AN 7, and AN 8's own Rāgapeyyāla sections each opened "
+            "with three foundational lists before compressing. This "
+            "nipāta has only two &mdash; nine perceptions here, nine "
+            "meditative attainments at AN 9.94 &mdash; since the Nines "
+            "has no comparable third nava-dhamma set standing "
+            "independently ready for reuse the way the Sixes, Sevens, "
+            "and Eights each did."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya nava dhammā bhāvetabbā",
+         "&ldquo;for insight into greed, nine things should be "
+         "developed&rdquo; &mdash; the discourse's own opening formula, "
+         "framing what follows as a remedy for greed specifically."),
+        ("asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā",
+         "&ldquo;the perceptions of ugliness, death, repulsiveness of "
+         "food&rdquo; &mdash; the first three of the nine, identical to "
+         "AN 9.16's own list."),
+        ("sabbaloke anabhiratasaññā",
+         "&ldquo;dissatisfaction with the whole world&rdquo; &mdash; "
+         "the fourth perception, naming comprehensive disenchantment."),
+        ("pahānasaññā, virāgasaññā",
+         "&ldquo;giving up, and fading away&rdquo; &mdash; the eighth "
+         "and ninth perceptions, closing the list exactly as at AN "
+         "9.16."),
+        ("~",
+         "the source's own bare marker where this discourse's title "
+         "would normally stand &mdash; genuinely untitled, like AN "
+         "8.118-120 earlier in this project."),
+    ],
+    text_intro=(
+        "The discourse in full: nine perceptions for insight into "
+        "greed. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine perceptions, for insight into greed"),
+        ("p", "&sect;1", "an9.93:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What nine things does this discourse say should be "
+              "developed for insight into greed?",
+         "opts": [
+             "The four absorptions plus five formless attainments",
+             "The perceptions of ugliness, death, repulsiveness of "
+             "food, dissatisfaction with the whole world, impermanence, "
+             "suffering in impermanence, not-self in suffering, giving "
+             "up, and fading away",
+             "The nine individuals found in the world",
+             "Nine kinds of wrong view"],
+         "correct": 1,
+         "expl": "The identical nine perceptions already named in full "
+                 "at AN 9.16."},
+        {"q": "Where has this project already met this exact same "
+              "nine-item list?",
+         "opts": [
+             "Nowhere before this discourse",
+             "At AN 9.16, which specifically flagged that this list "
+             "would resurface here",
+             "Only in a completely unrelated nipāta",
+             "At AN 9.1, the opening discourse"],
+         "correct": 1,
+         "expl": "A cross-nipāta callback this project anticipated when "
+                 "first meeting the list."},
+        {"q": "What is unusual about this discourse's title?",
+         "opts": [
+             "It has an unusually long title",
+             "It is genuinely untitled in the source, marked only with "
+             "a bare &lsquo;~&rsquo;, like AN 8.118-120 earlier in this "
+             "project",
+             "Its title is a proper name",
+             "It shares its title with AN 9.94"],
+         "correct": 1,
+         "expl": "No Pāli name at all, not even an untranslated one."},
+        {"q": "What does this discourse open, according to the guide?",
+         "opts": [
+             "A brand-new, unrelated section of the nipāta",
+             "This nipāta's great closing peyyāla, the mechanism that "
+             "will close AN 9 entirely",
+             "The Second Fifty's opening chapter",
+             "Nothing significant"],
+         "correct": 1,
+         "expl": "The sixth time this project has met this standard "
+                 "closing structure."},
+        {"q": "How does this nipāta's closing peyyāla differ "
+              "structurally from AN 6, AN 7, and AN 8's own versions?",
+         "opts": [
+             "No difference at all",
+             "This one opens with only two foundational nine-fold sets "
+             "rather than three, since the Nines lacks a comparable "
+             "third independent nava-dhamma list",
+             "This one has four foundational sets instead of three",
+             "This one skips the foundational sets entirely"],
+         "correct": 1,
+         "expl": "A structural difference tied to what content this "
+                 "specific nipāta happens to have available for reuse."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like AN 9.16 whose list it repeats."},
+    ],
+    marginalia=[
+        ("The same nine, resurfacing", [
+            "ugliness, death, food's",
+            "repulsiveness, the world's",
+            "dissatisfaction &mdash; met before",
+        ]),
+        ("Untitled, like AN 8.118", [
+            "no name in the source &mdash;",
+            "just a bare mark where",
+            "a title should stand",
+        ]),
+        ("Two sets, not three", [
+            "unlike the Sixes, Sevens,",
+            "Eights &mdash; this nipāta has",
+            "only two to give",
+        ]),
+        ("Cross-references", [
+            "AN 9.16 &middot; the same nine perceptions, first given in "
+            "full and flagged for this return",
+            "AN 9.92 &middot; previous chapter's closing page",
+            "AN 9.94 &middot; next, this closing peyyāla's second "
+            "foundational set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.93/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.16.html">AN 9.16 &middot; Perceptions</a> &mdash; the same nine '
+        "perceptions, first given in full.",
+        '<a href="an-9.92.html">AN 9.92 &middot; Shackles of the Heart</a> &mdash; previous.',
+        '<a href="an-9.94.html">AN 9.94 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.94 — untitled in the source, second of this peyyāla's two
+# foundational sets
+# --------------------------------------------------------------------------- #
+page(
+    94, "(untitled)", "Untitled Discourse on Greed (2nd)",
+    vagga=VAGGA_10,
+    index_pali="(untitled)",
+    subtitle=("<em>Untitled in the source</em> &mdash; %s, continued" % VAGGA_10),
+    meta_title="AN 9.94 — Untitled Discourse on Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the second untitled discourse in this closing peyyāla — the "
+        "nine meditative attainments already met throughout ch.4 and "
+        "ch.6, now given for insight into greed. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A bare nine-item list, the familiar nine progressive "
+                 "attainments, now framed as insight into greed"),
+        ("Length", "~30 seconds to read"),
+        ("This nipāta's second foundational set", "Where AN 9.93 gave "
+         "the nine perceptions, this discourse gives the nine "
+         "meditative attainments — the second and last of the two sets "
+         "this closing peyyāla will multiply against verbs"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, the most familiar list in this entire "
+                       "nipāta reappearing one final time"),
+    ],
+    why=(
+        "For insight into greed, nine things should be developed: the "
+        "first absorption, the second, third, and fourth absorptions, "
+        "the dimensions of infinite space, infinite consciousness, and "
+        "nothingness, the dimension of neither perception nor non-"
+        "perception, and the cessation of perception and feeling "
+        "&mdash; the nine progressive attainments that have structured "
+        "most of this nipāta, now closing it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, nine things should be developed: "
+            "the four absorptions, the four formless dimensions, and "
+            "the cessation of perception and feeling &mdash; the same "
+            "nine progressive attainments already met repeatedly "
+            "throughout this nipāta."]),
+        ("The most reused list in the entire nipāta, closing it", [
+            "No list in this project has been named more times under "
+            "more different framings than these nine attainments: bare "
+            "meditations at AN 9.32, elaborated formulas at AN 9.33, an "
+            "affliction-test at AN 9.34, a gradualist simile at AN "
+            "9.35, an insight-basis at AN 9.36, abodes at AN 9.24, "
+            "cessations at AN 9.31, and ten further framings across "
+            "ch.5 and ch.6. This discourse gives it a final appearance, "
+            "as the second foundational set this closing peyyāla will "
+            "multiply against verbs."]),
+        ("Untitled, matching AN 9.93 exactly", [
+            "As at AN 9.93, this discourse carries no title in the "
+            "source at all, marked only with the bare &lsquo;"
+            "~&rsquo; &mdash; the second of this peyyāla's two "
+            "untitled opening discourses, matching the precedent "
+            "already met at AN 8.118-120."]),
+        ("Two sets now established, ready for multiplication", [
+            "With this discourse, both of this closing peyyāla's "
+            "foundational sets are in place: nine perceptions (AN "
+            "9.93) and nine meditative attainments (AN 9.94). AN "
+            "9.95-112, immediately next, crosses both sets against nine "
+            "verbs of ending, still concerning greed alone, before AN "
+            "9.113-432 scales the same multiplication up to the "
+            "remaining sixteen defilements and closes the entire "
+            "nipāta."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya nava dhammā bhāvetabbā",
+         "&ldquo;for insight into greed, nine things should be "
+         "developed&rdquo; &mdash; the identical opening formula "
+         "shared with AN 9.93."),
+        ("paṭhamaṁ jhānaṁ, dutiyaṁ jhānaṁ, tatiyaṁ jhānaṁ, catutthaṁ "
+         "jhānaṁ",
+         "&ldquo;the first, second, third, and fourth absorptions&rdquo; "
+         "&mdash; the first four of the nine, identical to every other "
+         "listing of this sequence in this nipāta."),
+        ("ākāsānañcāyatanaṁ, viññāṇañcāyatanaṁ, ākiñcaññāyatanaṁ",
+         "&ldquo;the dimensions of infinite space, infinite "
+         "consciousness, and nothingness&rdquo; &mdash; the three lower "
+         "formless dimensions, closing the list's middle stretch."),
+        ("saññāvedayitanirodho",
+         "&ldquo;the cessation of perception and feeling&rdquo; "
+         "&mdash; the ninth and final attainment, this list's own "
+         "closing item as at every prior appearance in this nipāta."),
+        ("~",
+         "the source's own bare marker where this discourse's title "
+         "would normally stand, matching AN 9.93 exactly."),
+    ],
+    text_intro=(
+        "The discourse in full: the nine progressive attainments, for "
+        "insight into greed. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Nine attainments, for insight into greed"),
+        ("p", "&sect;1", "an9.94:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What nine things does this discourse say should be "
+              "developed for insight into greed?",
+         "opts": [
+             "The nine perceptions from AN 9.93",
+             "The four absorptions, the four formless dimensions, and "
+             "the cessation of perception and feeling",
+             "The nine individuals found in the world",
+             "Nine kinds of stinginess"],
+         "correct": 1,
+         "expl": "The nine progressive attainments already met "
+                 "repeatedly throughout this nipāta."},
+        {"q": "According to the guide, how many different framings has "
+              "this nine-item list already appeared under earlier in "
+              "this nipāta?",
+         "opts": [
+             "Only once, at AN 9.32",
+             "At least eight — bare meditations, elaborated formulas, "
+             "an affliction-test, a gradualist simile, an insight-"
+             "basis, abodes, cessations, and more",
+             "This is the list's first appearance",
+             "It cannot be counted"],
+         "correct": 1,
+         "expl": "The most reused list in the entire nipāta, closing "
+                 "it here one final time."},
+        {"q": "What does this discourse share exactly with AN 9.93?",
+         "opts": [
+             "Identical content, word for word",
+             "Being genuinely untitled in the source, marked only with "
+             "a bare &lsquo;~&rsquo;",
+             "The same nine-item list",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Both discourses in this peyyāla's opening pair lack "
+                 "any title at all."},
+        {"q": "What role do AN 9.93 and AN 9.94 together play in this "
+              "closing peyyāla?",
+         "opts": [
+             "They are unrelated isolated teachings",
+             "They establish this peyyāla's two foundational sets — "
+             "nine perceptions and nine attainments — ready to be "
+             "multiplied against verbs",
+             "They close the entire nipāta by themselves",
+             "They contradict each other"],
+         "correct": 1,
+         "expl": "The two building blocks AN 9.95-112 and AN 9.113-432 "
+                 "will cross against verbs."},
+        {"q": "What happens at AN 9.95-112, immediately following this "
+              "discourse?",
+         "opts": [
+             "Another full discourse in the same format",
+             "Both foundational sets are crossed against nine verbs of "
+             "ending, still concerning greed alone",
+             "The nipāta ends immediately",
+             "A return to AN 9.1"],
+         "correct": 1,
+         "expl": "The first stage of this peyyāla's multiplication "
+                 "mechanism."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 9.93 immediately before "
+                 "it."},
+    ],
+    marginalia=[
+        ("The most reused list", [
+            "four jhānas, four formless,",
+            "cessation &mdash; named under",
+            "eight framings, at least",
+        ]),
+        ("Untitled, like its twin", [
+            "no name here either &mdash;",
+            "the second bare mark",
+            "in this closing peyyāla",
+        ]),
+        ("Two sets, ready now", [
+            "perceptions, attainments &mdash;",
+            "both established, waiting",
+            "to be crossed with verbs",
+        ]),
+        ("Cross-references", [
+            "AN 9.32&ndash;41 &middot; this same nine-item list's "
+            "fullest earlier treatment",
+            "AN 9.93 &middot; previous, this peyyāla's first "
+            "foundational set",
+            "AN 9.95&ndash;112 &middot; next, both sets multiplied by "
+            "nine verbs",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.94/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.32.html">AN 9.32 &middot; Progressive Meditations</a> &mdash; the same '
+        "nine attainments, first given in full.",
+        '<a href="an-9.93.html">AN 9.93 &middot; Untitled Discourse on Greed (1st)</a> '
+        "&mdash; previous.",
+        '<a href="an-9.95-112.html">AN 9.95&ndash;112</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.95-112 — 18 discourses on greed, compressed to one page. Per the
+# an4.277-303/an6.143-169/an7.618-644/an8.121-147 precedent: nine verbs
+# (complete understanding, complete ending, giving up, ending, vanishing,
+# fading away, cessation, giving away, letting go) x the two nine-fold sets
+# established at AN 9.93-94 = 18.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-9.95-112",
+    "index_pali": "(untitled)",
+    "nav_title": "Nine Verbs on Greed",
+    "source": "an9/an9.95-112",
+    "crumb": "AN 9.95&ndash;112",
+    "meta_title": "AN 9.95–112 — Nine Verbs on Greed | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this chapter's first compression: nine verbs of ending crossed "
+        "against the two nine-fold sets established at AN 9.93-94, "
+        "compressing 18 discourses into one page. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 9.95&ndash;112",
+    "title": "Nine Verbs on Greed",
+    "subtitle": "<em>Untitled in the source</em> &mdash; %s, continued" % VAGGA_10,
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Nine verbs of ending crossed against the two nine-fold "
+                 "sets established at AN 9.93-94, compressed into a "
+                 "single peyyāla page standing for 18 individually "
+                 "numbered discourses"),
+        ("Length", "~1 minute to read the compressed text; the full "
+                   "18-discourse expansion would take much longer"),
+        ("A familiar multiplication, seen four times before", "Nine "
+         "verbs crossed against a small set of foundational lists is "
+         "the same compression pattern already met at AN 4.277-303, AN "
+         "6.143-169, AN 7.618-644, and AN 8.121-147"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "compressed text is brief; understanding what it "
+                       "stands for requires holding the multiplication "
+                       "in mind"),
+    ],
+    "why": (
+        "AN 9.95&ndash;112 takes the two nine-fold sets established at "
+        "AN 9.93&ndash;94 &mdash; the nine perceptions and the nine "
+        "progressive attainments &mdash; and multiplies each against "
+        "nine verbs of ending &mdash; complete understanding, complete "
+        "ending, giving up, ending, vanishing, fading away, cessation, "
+        "giving away, and letting go &mdash; compressing what would be "
+        "18 individually numbered discourses into a single page."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of the two nine-fold sets already established for "
+            "insight into greed &mdash; the nine perceptions, the nine "
+            "progressive attainments &mdash; should also be developed "
+            "for greed's complete understanding, complete ending, "
+            "giving up, ending, vanishing, fading away, cessation, "
+            "giving away, and letting go, nine further framings of the "
+            "same underlying practice."]),
+        ("Nine verbs, one shared structure", [
+            "The nine verbs move from cognitive grasp (complete "
+            "understanding) through active relinquishment (giving up, "
+            "giving away, letting go) to descriptions of the process "
+            "itself unfolding (ending, vanishing, fading away, "
+            "cessation) &mdash; nine angles on what amounts to the same "
+            "underlying transformation, each treated as worth stating "
+            "in the source's own accounting even though the practice "
+            "prescribed (the same two nine-fold sets) never changes."]),
+        ("Two sets times nine verbs equals eighteen", [
+            "The arithmetic is straightforward and exact: two nine-fold "
+            "sets (perceptions, attainments), each crossed against nine "
+            "verbs, produces exactly 18 &mdash; matching the discourse "
+            "range AN 9.95 through AN 9.112 this single page stands "
+            "for. This is a smaller multiplication than the "
+            "corresponding pages in AN 4, 6, 7, and 8, since this "
+            "nipāta has only two foundational sets rather than three."]),
+        ("A familiar closing mechanism, not a new discovery", [
+            "By this point in the project, this compression pattern is "
+            "well established: a small number of foundational lists, "
+            "crossed against a fixed set of verbs, standing in for a "
+            "large range of individually numbered but substantively "
+            "identical discourses. This page follows that established "
+            "mechanism exactly, scaled to this nipāta's own two "
+            "foundational sets rather than three."]),
+    ],
+    "terms": [
+        ("rāgassa pariññāya",
+         "&ldquo;for the complete understanding of greed&rdquo; "
+         "&mdash; the first of the nine verbs, opening the compressed "
+         "sequence."),
+        ("pahānāya",
+         "&ldquo;giving up&rdquo; &mdash; one of the nine verbs, "
+         "naming active relinquishment rather than passive ending."),
+        ("nirodhāya",
+         "&ldquo;cessation&rdquo; &mdash; one of the nine verbs, "
+         "echoing the same term used for the third noble truth."),
+        ("cāgāya, paṭinissaggāya",
+         "&ldquo;giving away, letting go&rdquo; &mdash; the eighth and "
+         "ninth verbs, closing the sequence with two further framings "
+         "of relinquishment."),
+        ("nava dhammā bhāvetabbā",
+         "&ldquo;nine things should be developed&rdquo; &mdash; the "
+         "shared closing formula, repeated for each of the nine verbs "
+         "crossed against each of the two nine-fold sets."),
+    ],
+    "text_intro": (
+        "The discourse in full: nine verbs of ending, each crossed "
+        "against the two nine-fold sets established at AN 9.93-94. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine verbs, compressed"),
+        ("p", "&sect;1", "an9.95-112:1.1-1.10"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "18 individually numbered discourses, produced by crossing "
+             "two nine-fold sets against nine verbs of ending",
+             "A biography of a named disciple",
+             "A set of monastic rules"],
+         "correct": 1,
+         "expl": "Two sets times nine verbs equals exactly 18, matching "
+                 "the AN 9.95-112 range."},
+        {"q": "What two nine-fold sets does this page cross against the "
+              "nine verbs?",
+         "opts": [
+             "Three unrelated topics",
+             "The nine perceptions and the nine progressive "
+             "attainments, established at AN 9.93-94",
+             "Three different sets of precepts",
+             "Three different named disciples' teachings"],
+         "correct": 1,
+         "expl": "The two sets established immediately before this "
+                 "compressed page."},
+        {"q": "Why does this page's multiplication produce a smaller "
+              "total than the equivalent pages in AN 4, 6, 7, and 8?",
+         "opts": [
+             "It doesn't; the totals are identical",
+             "This nipāta has only two foundational nine-fold sets "
+             "rather than three, since the Nines lacks a comparable "
+             "third independent list",
+             "This page uses fewer verbs",
+             "This page covers a shorter discourse range"],
+         "correct": 1,
+         "expl": "Two sets, not three, is the structural difference "
+                 "already noted at AN 9.93."},
+        {"q": "According to the guide, what do the nine verbs "
+              "collectively describe?",
+         "opts": [
+             "Nine entirely unrelated topics",
+             "Nine angles on the same underlying transformation, from "
+             "cognitive grasp through active relinquishment to the "
+             "process unfolding",
+             "Nine different meditation postures",
+             "Nine stages of physical decline"],
+         "correct": 1,
+         "expl": "Different framings of essentially the same shift, not "
+                 "nine distinct processes."},
+        {"q": "How does this compression pattern relate to earlier work "
+              "in this project?",
+         "opts": [
+             "It is entirely unprecedented",
+             "It matches the same nine-verb-times-lists multiplication "
+             "already met at AN 4.277-303, AN 6.143-169, AN 7.618-644, "
+             "and AN 8.121-147",
+             "It contradicts earlier compression patterns",
+             "It is a completely different mechanism"],
+         "correct": 1,
+         "expl": "A familiar, well-established closing mechanism, not a "
+                 "new discovery."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching the two untitled discourses "
+                 "immediately preceding it."},
+    ],
+    "marginalia": [
+        ("Nine verbs of ending", [
+            "understanding, ending, giving up,",
+            "vanishing, fading, cessation,",
+            "giving away, letting go",
+        ]),
+        ("Two sets times nine verbs", [
+            "perceptions, attainments —",
+            "each crossed nine ways —",
+            "18 discourses, one page",
+        ]),
+        ("A smaller multiplication", [
+            "two sets, not three —",
+            "this nipāta's own",
+            "structural difference",
+        ]),
+        ("Cross-references", [
+            "AN 9.94 &middot; previous, the nine attainments for "
+            "insight into greed",
+            "AN 9.113&ndash;432 &middot; next, this same mechanism "
+            "scaled up to sixteen further defilements",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an9.95-112/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-9.94.html">AN 9.94 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; previous.",
+        '<a href="an-9.113-432.html">AN 9.113&ndash;432</a> &mdash; next, closing this '
+        "chapter and the entire Book of the Nines.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.113-432 — the closing peyyāla, and the end of AN 9 (the Book of the
+# Nines) itself. 320 discourses = 16 defilements (hate through negligence,
+# the same 17-item list, minus greed already covered at AN 9.93-112) x 10
+# verbs (abhiññā, hidden in the peyyāla immediately after the sixteenth
+# defilement, plus the same nine verbs as AN 9.95-112) x 2 nine-fold sets.
+# This is the sixth time this project has met this exact 17-item defilement
+# list closing a nipāta -- after AN 3.183-352, AN 4.304-783, AN 6.170-649,
+# AN 7.645-1124, and AN 8.148-627 -- confirming once more the standard
+# editorial template for closing every nipāta in this collection. Per this
+# project's standing rule, an_content_08.py's TAIL must be updated to point
+# to an-9.1.html once this module exists (already done at the start of this
+# module's work). Once AN 9 is entirely built, an_content_09.py's own TAIL
+# should be updated once AN 10 begins, and search.json rebuilt separately.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-9.113-432",
+    "index_pali": "(untitled)",
+    "nav_title": "Sixteen Defilements, Ten Verbs",
+    "source": "an9/an9.113-432",
+    "crumb": "AN 9.113&ndash;432",
+    "meta_title": ("AN 9.113–432 — Sixteen Defilements, Ten Verbs — "
+                   "Closing the Book of the Nines | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "the closing peyyāla of the Book of the Nines — the same "
+        "seventeen-item defilement list, met for the sixth time, "
+        "compressing 320 discourses into one page and closing AN 9 "
+        "itself. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 9.113&ndash;432",
+    "title": "Sixteen Defilements, Ten Verbs",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing the "
+                "Book of the Nines" % VAGGA_10),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Sixteen further defilements crossed against ten verbs "
+                 "and the two nine-fold sets, compressed into a single "
+                 "peyyāla page standing for 320 individually numbered "
+                 "discourses"),
+        ("Length", "~2 minutes to read the compressed text; the full "
+                   "320-discourse expansion would take many hours"),
+        ("The sixth time this project has met this exact list", "The "
+         "same seventeen-item defilement list already closed AN 3, AN "
+         "4, AN 6, AN 7, and AN 8 — now confirmed a sixth time as this "
+         "collection's standard closing template, and closing AN 9 "
+         "itself"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "compressed text is brief; understanding what it "
+                       "stands for requires holding a genuinely large "
+                       "multiplication in mind"),
+    ],
+    "why": (
+        "AN 9.113&ndash;432 takes the sixteen further defilements "
+        "&mdash; hate, delusion, anger, acrimony, disdain, contempt, "
+        "jealousy, stinginess, deceitfulness, deviousness, obstinacy, "
+        "aggression, conceit, arrogance, vanity, and negligence &mdash; "
+        "and multiplies each against ten verbs (the same nine as AN "
+        "9.95&ndash;112, plus direct knowledge, abhiññā, folded into "
+        "the peyyāla) and the two nine-fold sets established at AN "
+        "9.93&ndash;94, compressing 320 discourses into a single page "
+        "and closing the entire Book of the Nines."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of the sixteen remaining defilements &mdash; hate "
+            "through negligence &mdash; should likewise be met with the "
+            "two nine-fold sets already established for greed, "
+            "developed for direct knowledge, complete understanding, "
+            "complete ending, giving up, ending, vanishing, fading "
+            "away, cessation, giving away, and letting go of each "
+            "defilement in turn."]),
+        ("The same seventeen-item list, a sixth time", [
+            "Readers of this project will recognize this list "
+            "immediately: hate, delusion, anger, acrimony, disdain, "
+            "contempt, jealousy, stinginess, deceitfulness, "
+            "deviousness, obstinacy, aggression, conceit, arrogance, "
+            "vanity, and negligence are the same sixteen items (plus "
+            "greed, already covered at AN 9.93&ndash;112) that closed "
+            "AN 3.183-352, AN 4.304-783, AN 6.170-649, AN 7.645-1124, "
+            "and AN 8.148-627 &mdash; the sixth consecutive nipāta to "
+            "close on this identical roster, now beyond any doubt this "
+            "collection's standard editorial template rather than a "
+            "coincidence."]),
+        ("A tenth verb hidden in the peyyāla", [
+            "As at AN 8.148-627, the tenth verb, abhiññā (direct "
+            "knowledge), is not spelled out as its own separate line in "
+            "the translated text but folded into the peyyāla "
+            "immediately after the sixteenth defilement, negligence "
+            "&mdash; &lsquo;pamādassa abhiññāya&rsquo; in the Pāli root, "
+            "before the same nine verbs already met at AN 9.95-112 "
+            "continue. Checked against the root text before writing "
+            "this page, not assumed from the English alone."]),
+        ("The arithmetic, and the book's own close", [
+            "16 defilements &times; 10 verbs &times; 2 nine-fold sets = "
+            "320, matching the discourse range AN 9.113 through AN "
+            "9.432 exactly. The source's own closing lines mark a "
+            "double closure: first &lsquo;Rāgapeyyālaṁ "
+            "niṭṭhitaṁ&rsquo; (&ldquo;the peyyāla beginning with greed "
+            "is finished&rdquo;, left untranslated in the English), then "
+            "&lsquo;the Book of the Nines is finished&rsquo; &mdash; "
+            "closing not just this chapter but AN 9 itself, and, with "
+            "it, this project's work through nine of the eleven nipātas "
+            "of the Aṅguttara Nikāya."]),
+    ],
+    "terms": [
+        ("dosassa, mohassa, kodhassa",
+         "&ldquo;hate, delusion, anger&rdquo; &mdash; the first three "
+         "of the sixteen defilements, opening the same standard list "
+         "met five times before in this project."),
+        ("upanāhassa, makkhassa, paḷāsassa, issāya, macchariyassa",
+         "&ldquo;acrimony, disdain, contempt, jealousy, stinginess"
+         "&rdquo; &mdash; five further defilements, matching the "
+         "identical list and order established at AN 3.183-352."),
+        ("pamādassa abhiññāya",
+         "&ldquo;for direct knowledge of negligence&rdquo; &mdash; the "
+         "hidden tenth verb, folded into the peyyāla immediately after "
+         "the sixteenth and final defilement rather than given its own "
+         "separate line."),
+        ("ime nava dhammā bhāvetabbā",
+         "&ldquo;these nine things should be developed&rdquo; &mdash; "
+         "the shared closing formula, repeated for each of the sixteen "
+         "defilements crossed against ten verbs and two nine-fold sets."),
+        ("navakanipātapāḷi niṭṭhitā",
+         "&ldquo;the Book of the Nines is finished&rdquo; &mdash; the "
+         "source's own closing declaration, ending both this chapter "
+         "and AN 9 itself."),
+    ],
+    "text_intro": (
+        "The discourse in full: sixteen defilements, crossed against "
+        "ten verbs and the two nine-fold sets, closing the Book of the "
+        "Nines. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Sixteen defilements, ten verbs, compressed"),
+        ("p", "&sect;1", "an9.113-432:1.1-1.26"),
+        ("h3", "The Book of the Nines is finished"),
+        ("p", "&sect;2", "an9.113-432:1.28-1.28"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "320 individually numbered discourses, produced by "
+             "crossing sixteen defilements against ten verbs and two "
+             "nine-fold sets",
+             "A biography of a named disciple",
+             "A set of monastic rules"],
+         "correct": 1,
+         "expl": "16 x 10 x 2 = 320, matching the AN 9.113-432 range "
+                 "exactly."},
+        {"q": "How many times has this project now met this exact "
+              "seventeen-item defilement list closing a nipāta?",
+         "opts": [
+             "This is the first time",
+             "The sixth time — after AN 3.183-352, AN 4.304-783, AN "
+             "6.170-649, AN 7.645-1124, and AN 8.148-627",
+             "The third time",
+             "It has never appeared before"],
+         "correct": 1,
+         "expl": "Confirmed well beyond coincidence as this "
+                 "collection's standard closing template."},
+        {"q": "Where is the tenth verb, abhiññā, actually located in "
+              "this page's text?",
+         "opts": [
+             "It is entirely absent",
+             "Folded into the peyyāla immediately after the sixteenth "
+             "defilement, negligence, rather than given its own "
+             "separate line",
+             "Given a full, separate paragraph of its own",
+             "It replaces one of the nine other verbs"],
+         "correct": 1,
+         "expl": "Checked against the Pāli root text before writing "
+                 "this page, matching AN 8.148-627's identical pattern."},
+        {"q": "What two things does this page's closing colophon mark?",
+         "opts": [
+             "Only the end of this single page",
+             "The end of the Rāgapeyyāla and the end of AN 9 (the Book "
+             "of the Nines) itself",
+             "The end of the entire Aṅguttara Nikāya",
+             "The beginning of a new nipāta"],
+         "correct": 1,
+         "expl": "A double closure, the first line left untranslated in "
+                 "the English."},
+        {"q": "What arithmetic produces this page's 320-discourse "
+              "range?",
+         "opts": [
+             "17 defilements x 20 verbs",
+             "16 defilements x 10 verbs x 2 nine-fold sets",
+             "9 defilements x 9 verbs x 4 sets",
+             "10 defilements x 32 verbs"],
+         "correct": 1,
+         "expl": "Fewer discourses than AN 7 or AN 8's equivalent "
+                 "closing pages, since this nipāta has only two "
+                 "foundational sets rather than three."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching every other page in this "
+                 "closing peyyāla."},
+    ],
+    "marginalia": [
+        ("Sixteen defilements, again", [
+            "hate, delusion, anger,",
+            "acrimony, disdain, contempt,",
+            "jealousy, and more",
+        ]),
+        ("The sixth time, confirmed", [
+            "the same list closes",
+            "AN 3, 4, 6, 7, 8 —",
+            "now AN 9 as well",
+        ]),
+        ("A hidden tenth verb", [
+            "abhiññā, folded",
+            "into the peyyāla's own",
+            "last defilement",
+        ]),
+        ("Cross-references", [
+            "AN 3.183-352, AN 4.304-783, AN 6.170-649, AN 7.645-1124, "
+            "AN 8.148-627 &middot; the same seventeen-item list closing "
+            "five earlier nipātas",
+            "AN 9.95&ndash;112 &middot; previous",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an9.113-432/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-9.95-112.html">AN 9.95&ndash;112</a> &mdash; previous.',
+    ],
+})

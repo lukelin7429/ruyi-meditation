@@ -15,7 +15,7 @@ INDEX_HEADING = "Aṭṭhaka Nipāta — The Eights"
 # earlier selection -- until the Nines module exists and TAIL can move to its
 # own first page.
 HEAD = ("an-7.645-1124.html", "AN 7.645&ndash;1124 &middot; Untitled Discourses on Hate, Etc.")
-TAIL = ("an-9.20.html", "AN 9.20 &middot; About Velāma")
+TAIL = ("an-9.1.html", "AN 9.1 &middot; Awakening")
 INDEX_EXTRA = [
     ("an-8.30", "Anuruddhamahāvitakkasutta", "Anuruddha and the Great Thoughts"),
     ("an-8.53", "Gotamīsutta", "Brief Advice to Gotamī"),
