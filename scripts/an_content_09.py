@@ -11940,3 +11940,1925 @@ page(
         '<a href="an-9.61.html">AN 9.61 &middot; Progressive Cessation</a> &mdash; previous.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.7 — Satipatthanavagga (AN 9.63-72). Ten discourses sharing one clean
+# template: a different well-known set of five obstacles each time, always
+# answered by the same remedy, the four kinds of mindfulness meditation.
+# This chapter's own content is what AN 9.74-81 and AN 9.84-91 later point
+# back to with "tell in full as in the chapter on mindfulness meditation."
+# --------------------------------------------------------------------------- #
+VAGGA_7 = "<em>Satipatthanavagga</em> &mdash; the seventh chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.63 — Sekhasutta — the template-setter for this whole chapter
+# --------------------------------------------------------------------------- #
+page(
+    63, "Sekha", "Weaknesses in Training and Mindfulness Meditation",
+    vagga=VAGGA_7,
+    meta_title=("AN 9.63 — Weaknesses in Training and Mindfulness "
+                "Meditation | Ru-Yi Meditation Center"),
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the discourse opening this chapter's template — five "
+        "weaknesses in training answered by the four kinds of "
+        "mindfulness meditation, a pairing repeated with a new "
+        "obstacle-list nine more times. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five weaknesses named, then the four satipaṭṭhāna "
+                 "given in full as the remedy"),
+        ("Length", "~1 minute to read"),
+        ("This chapter's template-setter", "Nine more discourses follow, "
+         "each swapping in a different well-known five-item list while "
+         "keeping the same remedy"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and clean, the clearest chapter structure "
+                       "in this nipāta"),
+    ],
+    why=(
+        "The five weaknesses that undermine training &mdash; killing, "
+        "stealing, sexual misconduct, lying, and intoxicants, the five "
+        "precepts broken &mdash; are given up by developing the four "
+        "kinds of mindfulness meditation: observing the body, feelings, "
+        "the mind, and principles, each keen, aware, mindful, and rid "
+        "of covetousness and displeasure for the world."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five weaknesses in training &mdash; "
+            "killing, stealing, sexual misconduct, lying, and "
+            "intoxicants &mdash; a mendicant should develop the four "
+            "kinds of mindfulness meditation: observing the body, "
+            "feelings, the mind, and principles."]),
+        ("Five broken precepts, named as weaknesses", [
+            "The five items named here are simply the five lay precepts "
+            "stated as their own violation &mdash; not a new list, but "
+            "a familiar one reframed as &lsquo;sekha,&rsquo; weaknesses "
+            "that undermine a trainee's own progress rather than as "
+            "external rules."]),
+        ("The four satipaṭṭhāna, spelled out in full", [
+            "Unlike most of the discourses that follow it in this "
+            "chapter, this one gives the complete four-part formula: "
+            "observing the body, feelings, the mind, and principles, "
+            "each pursued keenly, with awareness and mindfulness, rid "
+            "of covetousness and displeasure for the world &mdash; the "
+            "standard four foundations of mindfulness in their full "
+            "canonical wording."]),
+        ("A template this whole chapter will repeat", [
+            "This exact pairing &mdash; a named five-item list, "
+            "followed by the instruction to develop the four kinds of "
+            "mindfulness meditation to give it up &mdash; is the "
+            "template AN 9.64 through AN 9.72 all reuse, substituting a "
+            "different well-known obstacle-list each time. This "
+            "chapter's own content is also what two later chapters, AN "
+            "9.74-81 and AN 9.84-91, will point back to rather than "
+            "repeat."]),
+    ],
+    terms=[
+        ("sekhā pañca dhammā",
+         "&ldquo;five weaknesses when you're training&rdquo; &mdash; "
+         "this discourse's own framing of the five precepts as "
+         "obstacles to a trainee's progress."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy this entire chapter applies to ten "
+         "different obstacle-lists."),
+        ("kāye kāyānupassī",
+         "&ldquo;observing an aspect of the body&rdquo; &mdash; the "
+         "first of the four foundations, given here in its full "
+         "canonical wording."),
+        ("ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
+         "&ldquo;keen, aware, and mindful, rid of covetousness and "
+         "displeasure for the world&rdquo; &mdash; the shared refrain "
+         "closing each of the four foundations."),
+        ("dhammesu dhammānupassī",
+         "&ldquo;observing an aspect of principles&rdquo; &mdash; the "
+         "fourth and final foundation, closing the formula."),
+    ],
+    text_intro=(
+        "The discourse in full: five weaknesses, and the four kinds of "
+        "mindfulness meditation given as their remedy. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five weaknesses in training"),
+        ("p", "&sect;1", "an9.63:1.1-1.4"),
+        ("h3", "Four kinds of mindfulness meditation"),
+        ("p", "&sect;2", "an9.63:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What five weaknesses does this discourse name?",
+         "opts": [
+             "The five hindrances",
+             "Killing, stealing, sexual misconduct, lying, and "
+             "intoxicants — the five precepts stated as their own "
+             "violation",
+             "The five aggregates",
+             "Five kinds of wrong view"],
+         "correct": 1,
+         "expl": "A familiar list, reframed as obstacles to a trainee's "
+                 "own progress."},
+        {"q": "What remedy does this discourse prescribe?",
+         "opts": [
+             "The four right efforts",
+             "The four kinds of mindfulness meditation — body, "
+             "feelings, mind, and principles",
+             "The four noble truths",
+             "The four bases of psychic power"],
+         "correct": 1,
+         "expl": "The shared remedy this whole chapter applies "
+                 "repeatedly to different obstacle-lists."},
+        {"q": "How does this discourse's treatment of the four "
+              "foundations compare to most later discourses in this "
+              "chapter?",
+         "opts": [
+             "Identical brevity throughout",
+             "This one gives the complete formula in full; most later "
+             "discourses elide it after the pattern is established",
+             "This one omits the formula entirely",
+             "Later discourses give a longer formula"],
+         "correct": 1,
+         "expl": "The template-setter, spelling out what later "
+                 "discourses can then abbreviate."},
+        {"q": "According to the guide, what do two later chapters point "
+              "back to rather than repeat?",
+         "opts": [
+             "AN 9.32's nine attainments",
+             "This chapter's own content, at AN 9.74-81 and AN 9.84-91",
+             "AN 9.42's confinement discourse",
+             "Nothing; no later chapter references this one"],
+         "correct": 1,
+         "expl": "A cross-chapter reference this project will meet "
+                 "again later in AN 9."},
+        {"q": "What is the shared refrain closing each of the four "
+              "foundations?",
+         "opts": [
+             "A verse of praise",
+             "&ldquo;Keen, aware, and mindful, rid of covetousness and "
+             "displeasure for the world&rdquo;",
+             "A warning about pride",
+             "A request for further teaching"],
+         "correct": 1,
+         "expl": "The standard canonical closing formula for each "
+                 "foundation."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, opening this chapter "
+                 "without narrative frame."},
+    ],
+    marginalia=[
+        ("Five precepts, reframed", [
+            "not rules imposed, but",
+            "weaknesses that undermine",
+            "a trainee's own progress",
+        ]),
+        ("Four foundations, in full", [
+            "body, feelings, mind,",
+            "principles &mdash; keen, aware,",
+            "mindful, free of craving",
+        ]),
+        ("A template, ten times over", [
+            "a new five-item list,",
+            "the same remedy each time &mdash;",
+            "this chapter's own shape",
+        ]),
+        ("Cross-references", [
+            "AN 9.62 &middot; previous chapter's closing page",
+            "AN 9.74&ndash;81, AN 9.84&ndash;91 &middot; later chapters "
+            "that point back to this one rather than repeat it",
+            "AN 9.64 &middot; next, Hindrances",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.63/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.62.html">AN 9.62 &middot; Impossible</a> &mdash; previous.',
+        '<a href="an-9.64.html">AN 9.64 &middot; Hindrances</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.64 — Nīvaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    64, "Nīvaraṇa", "Hindrances",
+    vagga=VAGGA_7,
+    meta_title="AN 9.64 — Hindrances | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Hindrances, applying this chapter's template to the classic "
+        "five hindrances that block meditative absorption. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same template as AN 9.63, given here in full a "
+                 "second time"),
+        ("Length", "~1 minute to read"),
+        ("The most meditation-specific list in this run", "Where AN "
+         "9.63's weaknesses concern ethical conduct broadly, the five "
+         "hindrances are the standard obstacles named specifically "
+         "within meditation practice itself"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and highly familiar territory for anyone "
+                       "who has read this project's earlier discourses"),
+    ],
+    why=(
+        "The five hindrances &mdash; sensual desire, ill will, dullness "
+        "and drowsiness, restlessness and remorse, and doubt &mdash; "
+        "are given up the same way as AN 9.63's weaknesses: by "
+        "developing the four kinds of mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five hindrances &mdash; sensual desire, ill "
+            "will, dullness and drowsiness, restlessness and remorse, "
+            "and doubt &mdash; a mendicant should develop the four "
+            "kinds of mindfulness meditation, the same remedy given at "
+            "AN 9.63."]),
+        ("The most familiar list in this project so far", [
+            "Of all the obstacle-lists this chapter cycles through, the "
+            "five hindrances are the most frequently named elsewhere in "
+            "the canon and in this project itself &mdash; already met, "
+            "for instance, giving way before the four absorptions at AN "
+            "9.40's wild elephant simile."]),
+        ("A second full example, before compression begins", [
+            "This discourse still gives the complete four-foundation "
+            "formula in full, matching AN 9.63 rather than eliding it "
+            "&mdash; the last discourse in this chapter to do so before "
+            "AN 9.65 through AN 9.70 compress the remedy down to a bare "
+            "ellipsis."]),
+        ("Meditation obstacles, met with a meditative remedy", [
+            "Unlike AN 9.63's ethically framed weaknesses, this "
+            "discourse's obstacle-list belongs squarely to meditation "
+            "practice itself &mdash; a tighter, more direct fit between "
+            "problem and remedy than some of the other pairings this "
+            "chapter will offer."]),
+    ],
+    terms=[
+        ("pañca nīvaraṇā",
+         "&ldquo;the five hindrances&rdquo; &mdash; this discourse's "
+         "own title term, among the most familiar obstacle-lists in the "
+         "entire canon."),
+        ("kāmacchando, byāpādo",
+         "&ldquo;sensual desire, ill will&rdquo; &mdash; the first two "
+         "hindrances, already met giving way before absorption "
+         "elsewhere in this project."),
+        ("thinamiddhaṁ, uddhaccakukkuccaṁ, vicikicchā",
+         "&ldquo;dullness and drowsiness, restlessness and remorse, "
+         "and doubt&rdquo; &mdash; the remaining three hindrances, "
+         "closing the standard list."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the same remedy as AN 9.63, given here in full for "
+         "the last time before this chapter compresses it."),
+        ("vineyya loke abhijjhādomanassaṁ",
+         "&ldquo;rid of covetousness and displeasure for the "
+         "world&rdquo; &mdash; the shared closing phrase for each of "
+         "the four foundations."),
+    ],
+    text_intro=(
+        "The discourse in full: the five hindrances, and the four "
+        "kinds of mindfulness meditation given as their remedy. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five hindrances"),
+        ("p", "&sect;1", "an9.64:1.1-1.4"),
+        ("h3", "Four kinds of mindfulness meditation"),
+        ("p", "&sect;2", "an9.64:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What five hindrances does this discourse name?",
+         "opts": [
+             "The five precepts",
+             "Sensual desire, ill will, dullness and drowsiness, "
+             "restlessness and remorse, and doubt",
+             "The five aggregates",
+             "The five higher fetters"],
+         "correct": 1,
+         "expl": "One of the most familiar obstacle-lists in the entire "
+                 "canon."},
+        {"q": "How does this discourse's obstacle-list differ in kind "
+              "from AN 9.63's?",
+         "opts": [
+             "No difference at all",
+             "AN 9.63's weaknesses concern ethical conduct broadly; "
+             "this discourse's hindrances belong specifically to "
+             "meditation practice",
+             "This list is entirely unrelated to meditation",
+             "This list is longer than AN 9.63's"],
+         "correct": 1,
+         "expl": "A tighter, more direct fit between the obstacle and "
+                 "its meditative remedy."},
+        {"q": "How does this discourse's treatment of the four "
+              "foundations compare to AN 9.63's?",
+         "opts": [
+             "Already compressed to an ellipsis",
+             "Given in full, matching AN 9.63 — the last discourse in "
+             "this chapter to do so before compression begins",
+             "Doubled in length",
+             "Entirely different in structure"],
+         "correct": 1,
+         "expl": "The second and final full example before AN 9.65 "
+                 "onward elide the remedy."},
+        {"q": "Where has this project already met the five hindrances "
+              "giving way before absorption?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.40's wild elephant simile",
+             "Only in a completely different nipāta",
+             "AN 9.1's opening discourse"],
+         "correct": 1,
+         "expl": "A familiar list this project has met before this "
+                 "chapter."},
+        {"q": "What remedy does this discourse prescribe, matching AN "
+              "9.63?",
+         "opts": [
+             "The four right efforts",
+             "The four kinds of mindfulness meditation",
+             "The four noble truths",
+             "The four bases of psychic power"],
+         "correct": 1,
+         "expl": "The shared remedy running through this entire "
+                 "chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching AN 9.63 "
+                 "immediately before it."},
+    ],
+    marginalia=[
+        ("The most familiar five", [
+            "desire, ill will, dullness,",
+            "restlessness, doubt &mdash;",
+            "met before, in this book",
+        ]),
+        ("A second full example", [
+            "the last time this chapter",
+            "spells the remedy out &mdash;",
+            "compression starts next",
+        ]),
+        ("Obstacle meets remedy", [
+            "meditation's own",
+            "hindrances, met here by",
+            "meditation itself",
+        ]),
+        ("Cross-references", [
+            "AN 9.40 &middot; an earlier meeting with these same five "
+            "hindrances",
+            "AN 9.63 &middot; previous, this chapter's template-setter",
+            "AN 9.65 &middot; next, Kinds of Sensual Stimulation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.64/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.63.html">AN 9.63 &middot; Weaknesses in Training and Mindfulness '
+        "Meditation</a> &mdash; previous.",
+        '<a href="an-9.65.html">AN 9.65 &middot; Kinds of Sensual Stimulation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.65 — Kāmaguṇasutta — begins this chapter's compressed form
+# --------------------------------------------------------------------------- #
+page(
+    65, "Kāmaguṇa", "Kinds of Sensual Stimulation",
+    vagga=VAGGA_7,
+    meta_title="AN 9.65 — Kinds of Sensual Stimulation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kinds of Sensual Stimulation, the first discourse in this "
+        "chapter to compress the four-foundation remedy to an "
+        "ellipsis, applying the template to the standard five sense "
+        "pleasures. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five sense pleasures named in full, then the four-"
+                 "foundation remedy compressed to a single ellipsis"),
+        ("Length", "~30 seconds to read"),
+        ("Compression begins here", "This is the first discourse in "
+         "this chapter where the mindfulness-meditation formula is no "
+         "longer spelled out, relying on AN 9.63 and AN 9.64 instead"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and a familiar list from elsewhere in "
+                       "this nipāta"),
+    ],
+    why=(
+        "The five kinds of sensual stimulation &mdash; likable, "
+        "desirable sights, sounds, smells, tastes, and touches &mdash; "
+        "are given up, like every obstacle in this chapter, by "
+        "developing the four kinds of mindfulness meditation, though "
+        "this discourse no longer spells the remedy out."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five kinds of sensual stimulation &mdash; "
+            "pleasant sights, sounds, smells, tastes, and touches "
+            "&mdash; a mendicant should develop the four kinds of "
+            "mindfulness meditation, the same remedy given in full at "
+            "AN 9.63 and AN 9.64."]),
+        ("A term already familiar from this nipāta", [
+            "The five kāmaguṇā named here are the identical five sense "
+            "pleasures already met defining &lsquo;the world&rsquo; at "
+            "AN 9.38 and &lsquo;confinement&rsquo; at AN 9.42 &mdash; "
+            "the same content, applied here to a third distinct "
+            "framing within this single nipāta."]),
+        ("Where the chapter's compression begins", [
+            "This is the first discourse in this chapter where the "
+            "four-foundation formula is reduced to a bare ellipsis "
+            "rather than spelled out. Having established the pattern "
+            "twice in full at AN 9.63 and AN 9.64, the source now "
+            "trusts the reader to supply it, a compression this chapter "
+            "maintains through AN 9.70."]),
+        ("A remedy that fits its obstacle directly", [
+            "As with AN 9.64's hindrances, the pairing here is "
+            "especially apt: the four foundations' own closing phrase, "
+            "&lsquo;rid of covetousness and displeasure for the "
+            "world,&rsquo; directly answers what sensory pleasure "
+            "produces &mdash; craving for exactly the kind of pleasant "
+            "stimulation this discourse names."]),
+    ],
+    terms=[
+        ("pañca kāmaguṇā",
+         "&ldquo;the five kinds of sensual stimulation&rdquo; &mdash; "
+         "this discourse's own title term, already met at AN 9.38 and "
+         "AN 9.42 under different framings."),
+        ("cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā "
+         "kāmūpasaṁhitā rajanīyā",
+         "&ldquo;sights known by the eye, which are likable, desirable, "
+         "agreeable, pleasant, sensual, and arousing&rdquo; &mdash; the "
+         "first sense pleasure, given in its full standard description."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; marking where this chapter's four-foundation formula "
+         "is first compressed after being spelled out twice in full."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, given by name here but not in full "
+         "detail."),
+        ("vineyya loke abhijjhādomanassaṁ",
+         "&ldquo;rid of covetousness and displeasure for the "
+         "world&rdquo; &mdash; the closing phrase from AN 9.63-64's "
+         "full formula, directly answering this discourse's own "
+         "obstacle."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five sense pleasures "
+        "given in full, then the remedy compressed to an ellipsis. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of sensual stimulation"),
+        ("p", "&sect;1", "an9.65:1.1-1.8"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.65:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five kinds of sensual stimulation does this "
+              "discourse name?",
+         "opts": [
+             "The five hindrances",
+             "Pleasant sights, sounds, smells, tastes, and touches",
+             "The five aggregates",
+             "Five precepts"],
+         "correct": 1,
+         "expl": "The standard five kāmaguṇā, already met defining "
+                 "&lsquo;the world&rsquo; and &lsquo;confinement&rsquo; "
+                 "earlier in this nipāta."},
+        {"q": "Where has this exact five-item list already appeared "
+              "earlier in AN 9?",
+         "opts": [
+             "Nowhere before this discourse",
+             "Defining &lsquo;the world&rsquo; at AN 9.38 and "
+             "&lsquo;confinement&rsquo; at AN 9.42",
+             "Only in a completely unrelated nipāta",
+             "Only in AN 9.63"],
+         "correct": 1,
+         "expl": "The same content under a third distinct framing "
+                 "within this single nipāta."},
+        {"q": "What happens to the four-foundation formula in this "
+              "discourse, unlike AN 9.63 and AN 9.64?",
+         "opts": [
+             "It is given even more fully than before",
+             "It is compressed to a bare ellipsis for the first time in "
+             "this chapter",
+             "It is replaced with a different remedy entirely",
+             "It is omitted with no mention at all"],
+         "correct": 1,
+         "expl": "The pattern established, the source now trusts the "
+                 "reader to supply the rest."},
+        {"q": "According to the guide, why is the remedy especially apt "
+              "here?",
+         "opts": [
+             "It isn't apt at all",
+             "The formula's closing phrase, &lsquo;rid of covetousness "
+             "and displeasure for the world,&rsquo; directly answers "
+             "craving for pleasant sensory stimulation",
+             "The remedy has nothing to do with the obstacle",
+             "This discourse uses an entirely different remedy"],
+         "correct": 1,
+         "expl": "A tight fit between this specific obstacle and the "
+                 "shared four-foundation cure."},
+        {"q": "How long does this chapter's compressed form continue "
+              "after this discourse?",
+         "opts": [
+             "It ends immediately",
+             "Through AN 9.70, before AN 9.71 and AN 9.72 restore "
+             "fuller detail",
+             "For the rest of the entire nipāta",
+             "It cannot be determined"],
+         "correct": 1,
+         "expl": "A sustained compression covering most of this "
+                 "chapter's remaining discourses."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this whole "
+                 "chapter's method."},
+    ],
+    marginalia=[
+        ("A familiar five, again", [
+            "sights, sounds, smells, tastes,",
+            "touches &mdash; the world's own",
+            "pleasures, third framing",
+        ]),
+        ("Compression begins", [
+            "the formula, spelled",
+            "out twice, now trusted",
+            "to memory instead",
+        ]),
+        ("A tight fit", [
+            "craving for pleasure,",
+            "met by freedom from",
+            "covetousness itself",
+        ]),
+        ("Cross-references", [
+            "AN 9.38, AN 9.42 &middot; the same five sense pleasures "
+            "under two earlier framings",
+            "AN 9.64 &middot; previous",
+            "AN 9.66 &middot; next, Grasping Aggregates",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.65/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.64.html">AN 9.64 &middot; Hindrances</a> &mdash; previous.',
+        '<a href="an-9.66.html">AN 9.66 &middot; Grasping Aggregates</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.66 — Upādānakkhandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    66, "Upādānakkhandha", "Grasping Aggregates",
+    vagga=VAGGA_7,
+    meta_title="AN 9.66 — Grasping Aggregates | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Grasping Aggregates, applying this chapter's compressed "
+        "template to the five aggregates subject to clinging — form, "
+        "feeling, perception, choices, and consciousness. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five aggregates named in full, then the remedy "
+                 "compressed to an ellipsis, matching AN 9.65"),
+        ("Length", "~30 seconds to read"),
+        ("The most foundational list in this chapter", "The five "
+         "grasping aggregates are among the most basic analytical "
+         "categories in the entire tradition, describing the whole of "
+         "clung-to experience"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, but naming a genuinely "
+                       "foundational category"),
+    ],
+    why=(
+        "The five grasping aggregates &mdash; form, feeling, "
+        "perception, choices, and consciousness &mdash; are given up "
+        "the same way as every obstacle in this chapter, by developing "
+        "the four kinds of mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five grasping aggregates &mdash; form, "
+            "feeling, perception, choices, and consciousness &mdash; a "
+            "mendicant should develop the four kinds of mindfulness "
+            "meditation, the same remedy given throughout this chapter."]),
+        ("The most basic analytical category in the tradition", [
+            "Where AN 9.63's weaknesses and AN 9.64's hindrances name "
+            "specific obstacles to overcome, the five aggregates are "
+            "something more fundamental still: the standard "
+            "five-fold analysis of what a person actually is, the raw "
+            "material any clinging whatsoever must cling to."]),
+        ("Naming what is grasped, not merely what obstructs", [
+            "This shift in kind is worth noticing: most of this "
+            "chapter's other lists name specific unwholesome states "
+            "&mdash; hindrances, fetters, stinginess &mdash; but the "
+            "aggregates themselves are not inherently unwholesome. "
+            "What must be given up is the grasping (upādāna) itself, "
+            "not form, feeling, perception, choices, or consciousness "
+            "as such."]),
+        ("Continuing this chapter's compressed form", [
+            "As at AN 9.65, the four-foundation remedy is here reduced "
+            "to a bare ellipsis, relying on AN 9.63 and AN 9.64's full "
+            "treatment to supply the missing detail."]),
+    ],
+    terms=[
+        ("pañcupādānakkhandhā",
+         "&ldquo;the five grasping aggregates&rdquo; &mdash; this "
+         "discourse's own title term, one of the most foundational "
+         "analytical categories in the tradition."),
+        ("rūpupādānakkhandho, vedanupādānakkhandho",
+         "&ldquo;the grasping aggregate of form, of feeling&rdquo; "
+         "&mdash; the first two of the five, each named as an "
+         "aggregate that can be clung to."),
+        ("saññā, saṅkhārā, viññāṇa",
+         "&ldquo;perception, choices, consciousness&rdquo; &mdash; the "
+         "remaining three aggregates, closing the standard five-fold "
+         "analysis."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; marking where the four-foundation formula is "
+         "compressed, as at AN 9.65."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, named but not spelled out in this "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five grasping "
+        "aggregates given in full, then the remedy compressed to an "
+        "ellipsis. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five grasping aggregates"),
+        ("p", "&sect;1", "an9.66:1.1-1.4"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.66:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five grasping aggregates does this discourse name?",
+         "opts": [
+             "The five hindrances",
+             "Form, feeling, perception, choices, and consciousness",
+             "Five kinds of stinginess",
+             "The five precepts"],
+         "correct": 1,
+         "expl": "The most foundational analytical category in the "
+                 "tradition, describing the whole of clung-to "
+                 "experience."},
+        {"q": "How does this list differ in kind from most of this "
+              "chapter's other obstacle-lists?",
+         "opts": [
+             "No difference at all",
+             "The aggregates themselves are not inherently unwholesome "
+             "— what must be given up is the grasping, not the "
+             "aggregates as such",
+             "The aggregates are a kind of precept",
+             "This list has nothing to do with clinging"],
+         "correct": 1,
+         "expl": "A shift from naming specific unwholesome states to "
+                 "naming the raw material of experience itself."},
+        {"q": "How is the four-foundation remedy presented in this "
+              "discourse?",
+         "opts": [
+             "Given in complete detail",
+             "Compressed to a bare ellipsis, as at AN 9.65",
+             "Replaced with a different remedy",
+             "Omitted with no mention at all"],
+         "correct": 1,
+         "expl": "Continuing the compressed form begun at AN 9.65."},
+        {"q": "What must be given up, according to the guide's "
+              "reading of this discourse?",
+         "opts": [
+             "The aggregates themselves, entirely",
+             "The grasping (upādāna) attached to the aggregates, not "
+             "the aggregates as such",
+             "Only the aggregate of form",
+             "Nothing needs to be given up"],
+         "correct": 1,
+         "expl": "A precise distinction between the aggregates and the "
+                 "clinging that makes them a problem."},
+        {"q": "What remedy does this discourse prescribe, matching this "
+              "whole chapter?",
+         "opts": [
+             "The four right efforts",
+             "The four kinds of mindfulness meditation",
+             "The four noble truths",
+             "The six higher knowledges"],
+         "correct": 1,
+         "expl": "The shared remedy running through all ten discourses "
+                 "in this chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this whole "
+                 "chapter's method."},
+    ],
+    marginalia=[
+        ("The raw material itself", [
+            "form, feeling, perception,",
+            "choices, consciousness &mdash;",
+            "not evil, but clung to",
+        ]),
+        ("Grasping, not the grasped", [
+            "the aggregates aren't",
+            "the problem &mdash; clinging",
+            "to them is",
+        ]),
+        ("The same compressed form", [
+            "one line, an ellipsis &mdash;",
+            "the remedy trusted",
+            "to memory again",
+        ]),
+        ("Cross-references", [
+            "AN 9.65 &middot; previous",
+            "AN 9.67 &middot; next, Lower Fetters",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.66/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.65.html">AN 9.65 &middot; Kinds of Sensual Stimulation</a> &mdash; '
+        "previous.",
+        '<a href="an-9.67.html">AN 9.67 &middot; Lower Fetters</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.67 — Orambhāgiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    67, "Orambhāgiya", "Lower Fetters",
+    vagga=VAGGA_7,
+    meta_title="AN 9.67 — Lower Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Lower Fetters, applying this chapter's compressed template to "
+        "the five fetters ended by non-return, the same milestone met "
+        "repeatedly elsewhere in this nipāta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five fetters named in full, then the remedy "
+                 "compressed to an ellipsis, matching AN 9.65-66"),
+        ("Length", "~30 seconds to read"),
+        ("The fetters this whole nipāta has tracked", "Ending these "
+         "same five fetters is what produces a non-returner throughout "
+         "this project, from AN 9.12's detailed classification onward"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, naming a milestone this project "
+                       "has returned to repeatedly"),
+    ],
+    why=(
+        "The five lower fetters &mdash; substantialist view, doubt, "
+        "misapprehension of precepts and observances, sensual desire, "
+        "and ill will &mdash; are given up the same way as every "
+        "obstacle in this chapter, by developing the four kinds of "
+        "mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five lower fetters &mdash; substantialist "
+            "view, doubt, misapprehension of precepts and observances, "
+            "sensual desire, and ill will &mdash; a mendicant should "
+            "develop the four kinds of mindfulness meditation, the "
+            "same remedy given throughout this chapter."]),
+        ("The milestone this whole nipāta measures by", [
+            "Ending these exact five fetters is what this project has "
+            "repeatedly identified as producing non-return: AN 9.12's "
+            "detailed nine-fold classification graded non-returners "
+            "precisely by how they attain final extinguishment after "
+            "these same five fetters end, and AN 9.22's wild-colt "
+            "simile used the identical ending as its middle grade of "
+            "attainment."]),
+        ("Naming the fetters plainly, without the classification's "
+         "detail", [
+            "Unlike AN 9.12's elaborate five-way subdivision of what "
+            "happens after these fetters end, this discourse simply "
+            "names the five fetters themselves and pairs them with the "
+            "chapter's standard remedy &mdash; a plainer, more direct "
+            "treatment of territory this nipāta has already explored "
+            "in much greater depth."]),
+        ("Continuing this chapter's compressed form", [
+            "As at AN 9.65 and AN 9.66, the four-foundation formula is "
+            "reduced here to a bare ellipsis, relying on AN 9.63 and AN "
+            "9.64's earlier full treatment."]),
+    ],
+    terms=[
+        ("pañcorambhāgiyāni saṁyojanāni",
+         "&ldquo;the five lower fetters&rdquo; &mdash; this "
+         "discourse's own title term, the same milestone marking "
+         "non-return throughout this nipāta."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, misapprehension of "
+         "precepts and observances&rdquo; &mdash; the first three "
+         "fetters, shared with the standard four factors of stream-"
+         "entry's own obstacles."),
+        ("kāmacchando, byāpādo",
+         "&ldquo;sensual desire, ill will&rdquo; &mdash; the remaining "
+         "two fetters, the same first two hindrances named at AN 9.64."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; marking where the four-foundation formula is "
+         "compressed, as at AN 9.65 and AN 9.66."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, named but not spelled out in this "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five lower fetters "
+        "given in full, then the remedy compressed to an ellipsis. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five lower fetters"),
+        ("p", "&sect;1", "an9.67:1.1-1.4"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.67:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five lower fetters does this discourse name?",
+         "opts": [
+             "The five hindrances",
+             "Substantialist view, doubt, misapprehension of precepts "
+             "and observances, sensual desire, and ill will",
+             "The five aggregates",
+             "Five kinds of stinginess"],
+         "correct": 1,
+         "expl": "The same milestone this project has tracked "
+                 "repeatedly as marking non-return."},
+        {"q": "Where has this project already explored the ending of "
+              "these same five fetters in greater depth?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.12's detailed nine-fold classification of non-"
+             "returners, graded by how they attain final extinguishment",
+             "Only in a completely unrelated nipāta",
+             "AN 9.1's opening discourse"],
+         "correct": 1,
+         "expl": "A milestone examined with much finer granularity "
+                 "earlier in this nipāta."},
+        {"q": "How does this discourse's treatment compare to AN "
+              "9.12's?",
+         "opts": [
+             "Identical in every detail",
+             "Plainer and more direct — simply naming the five fetters "
+             "and pairing them with the standard remedy, without AN "
+             "9.12's elaborate subdivision",
+             "This discourse contradicts AN 9.12",
+             "This discourse is much longer"],
+         "correct": 1,
+         "expl": "The same territory, treated with far less "
+                 "elaboration here."},
+        {"q": "What two fetters does this list share with AN 9.64's "
+              "five hindrances?",
+         "opts": [
+             "Doubt and misapprehension of precepts",
+             "Sensual desire and ill will",
+             "Substantialist view and doubt",
+             "None; the lists share nothing"],
+         "correct": 1,
+         "expl": "An overlap worth noticing between two different "
+                 "standard obstacle-lists."},
+        {"q": "How is the four-foundation remedy presented in this "
+              "discourse?",
+         "opts": [
+             "Given in complete detail",
+             "Compressed to a bare ellipsis, continuing the pattern "
+             "from AN 9.65 and AN 9.66",
+             "Replaced with a different remedy",
+             "Omitted with no mention at all"],
+         "correct": 1,
+         "expl": "Continuing this chapter's sustained compression."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this whole "
+                 "chapter's method."},
+    ],
+    marginalia=[
+        ("A milestone, tracked before", [
+            "view, doubt, rites clung to,",
+            "desire, ill will &mdash; the same",
+            "five as AN 9.12",
+        ]),
+        ("Plainer, this time", [
+            "no nine-fold grading now &mdash;",
+            "just the five fetters,",
+            "named and answered",
+        ]),
+        ("An overlap noticed", [
+            "desire, ill will &mdash;",
+            "shared with the hindrances",
+            "two discourses back",
+        ]),
+        ("Cross-references", [
+            "AN 9.12 &middot; the same five fetters, explored in far "
+            "greater depth",
+            "AN 9.66 &middot; previous",
+            "AN 9.68 &middot; next, Places of Rebirth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.67/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.66.html">AN 9.66 &middot; Grasping Aggregates</a> &mdash; previous.',
+        '<a href="an-9.68.html">AN 9.68 &middot; Places of Rebirth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.68 — Gatisutta
+# --------------------------------------------------------------------------- #
+page(
+    68, "Gati", "Places of Rebirth",
+    vagga=VAGGA_7,
+    meta_title="AN 9.68 — Places of Rebirth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Places of Rebirth, applying this chapter's compressed template "
+        "to the five destinations of rebirth — the only list in this "
+        "chapter naming destinations rather than obstacles. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five destinations named in full, then the remedy "
+                 "compressed to an ellipsis, matching AN 9.65-67"),
+        ("Length", "~30 seconds to read"),
+        ("A different kind of list entirely", "Unlike every other "
+         "obstacle-list in this chapter, the five destinations aren't "
+         "unwholesome states to abandon but places one might be reborn "
+         "— themselves what mindfulness meditation ultimately ends"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, worth noticing how this list "
+                       "differs from its neighbors"),
+    ],
+    why=(
+        "The five destinations &mdash; hell, the animal realm, the "
+        "ghost realm, humanity, and the gods &mdash; are given up the "
+        "same way as every other obstacle in this chapter, by "
+        "developing the four kinds of mindfulness meditation, though "
+        "here it is rebirth itself, not a mental state, that must be "
+        "given up."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five destinations &mdash; hell, the animal "
+            "realm, the ghost realm, humanity, and the gods &mdash; a "
+            "mendicant should develop the four kinds of mindfulness "
+            "meditation, the same remedy given throughout this chapter."]),
+        ("Not an obstacle, but a consequence", [
+            "Every other list in this chapter names something a "
+            "mendicant actively does or experiences &mdash; broken "
+            "precepts, hindrances, sense-pleasures, clinging, fetters. "
+            "The five destinations are different in kind: they are "
+            "where continued rebirth leads, the consequence of not "
+            "giving up the other obstacles rather than an obstacle "
+            "themselves."]),
+        ("Giving up rebirth altogether", [
+            "Read this way, this discourse's real claim is more radical "
+            "than its neighbors: developing the four foundations "
+            "doesn't merely purify conduct or calm the mind, but ends "
+            "the entire cycle these five destinations represent "
+            "&mdash; a fitting way to describe what the culminating "
+            "ninth attainment, the cessation of perception and feeling, "
+            "accomplishes when reached in the definitive sense named "
+            "throughout ch.5 and ch.6."]),
+        ("Continuing this chapter's compressed form", [
+            "As at AN 9.65 through AN 9.67, the four-foundation formula "
+            "is reduced here to a bare ellipsis, relying on AN 9.63 and "
+            "AN 9.64's earlier full treatment."]),
+    ],
+    terms=[
+        ("pañca gatiyo",
+         "&ldquo;the five destinations&rdquo; &mdash; this discourse's "
+         "own title term, the only list in this chapter naming places "
+         "of rebirth rather than obstacles to abandon."),
+        ("nirayo, tiracchānayoni, pettivisayo",
+         "&ldquo;hell, the animal realm, the ghost realm&rdquo; "
+         "&mdash; the three lower destinations, named first."),
+        ("manussā, devā",
+         "&ldquo;humanity, the gods&rdquo; &mdash; the two higher "
+         "destinations, closing the standard fivefold list."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; marking where the four-foundation formula is "
+         "compressed, as at AN 9.65 through AN 9.67."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, here ending rebirth itself rather "
+         "than a single mental obstacle."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five destinations "
+        "given in full, then the remedy compressed to an ellipsis. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five destinations"),
+        ("p", "&sect;1", "an9.68:1.1-1.4"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.68:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five destinations does this discourse name?",
+         "opts": [
+             "Five monastic ranks",
+             "Hell, the animal realm, the ghost realm, humanity, and "
+             "the gods",
+             "Five kinds of stinginess",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "The standard fivefold cosmology of rebirth "
+                 "destinations."},
+        {"q": "How does this list differ in kind from every other "
+              "obstacle-list in this chapter?",
+         "opts": [
+             "No difference at all",
+             "It names places one might be reborn, not a mental state "
+             "or obstacle one actively holds",
+             "It is longer than the other lists",
+             "It contradicts the other lists"],
+         "correct": 1,
+         "expl": "A consequence of continued rebirth, not an obstacle "
+                 "in itself."},
+        {"q": "According to the guide, what more radical claim does "
+              "this discourse make than its neighbors?",
+         "opts": [
+             "Nothing different; it makes the same claim",
+             "That developing the four foundations ends the entire "
+             "cycle of rebirth these five destinations represent, not "
+             "merely purifying conduct or calming the mind",
+             "That rebirth cannot actually be ended",
+             "That only humans can practice mindfulness meditation"],
+         "correct": 1,
+         "expl": "A description fitting what the definitive ninth "
+                 "attainment accomplishes elsewhere in this nipāta."},
+        {"q": "How is the four-foundation remedy presented in this "
+              "discourse?",
+         "opts": [
+             "Given in complete detail",
+             "Compressed to a bare ellipsis, continuing the pattern "
+             "from AN 9.65 through AN 9.67",
+             "Replaced with a different remedy",
+             "Omitted with no mention at all"],
+         "correct": 1,
+         "expl": "Continuing this chapter's sustained compression."},
+        {"q": "What are the three lower destinations named first?",
+         "opts": [
+             "Humanity, the gods, and Brahmā",
+             "Hell, the animal realm, and the ghost realm",
+             "The formless realms",
+             "Three kinds of heaven"],
+         "correct": 1,
+         "expl": "The first three of the standard fivefold list, "
+                 "followed by humanity and the gods."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this whole "
+                 "chapter's method."},
+    ],
+    marginalia=[
+        ("Not an obstacle, but a fate", [
+            "hell, beast, ghost,",
+            "human, god &mdash; where rebirth",
+            "leads, not what causes it",
+        ]),
+        ("A more radical claim", [
+            "not just calming mind,",
+            "but ending the whole cycle",
+            "these five represent",
+        ]),
+        ("The same compressed form", [
+            "one line, an ellipsis &mdash;",
+            "the remedy, as always,",
+            "trusted to memory",
+        ]),
+        ("Cross-references", [
+            "AN 9.67 &middot; previous",
+            "AN 9.69 &middot; next, Stinginess",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.68/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.67.html">AN 9.67 &middot; Lower Fetters</a> &mdash; previous.',
+        '<a href="an-9.69.html">AN 9.69 &middot; Stinginess</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.69 — Macchariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    69, "Macchariya", "Stinginess",
+    vagga=VAGGA_7,
+    meta_title="AN 9.69 — Stinginess | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Stinginess, applying this chapter's compressed template to the "
+        "five kinds of stinginess — the most concretely social "
+        "obstacle-list in this chapter. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five kinds of stinginess named in full, then the "
+                 "remedy compressed to an ellipsis, matching AN 9.65-68"),
+        ("Length", "~30 seconds to read"),
+        ("A term already met once in this nipāta", "One of these five "
+         "kinds of stinginess, with the teaching, was already named as "
+         "the seventh of nine things rooted in craving at AN 9.23"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and among the most socially concrete "
+                       "lists in this chapter"),
+    ],
+    why=(
+        "The five kinds of stinginess &mdash; with dwellings, families, "
+        "material things, praise, and the teaching &mdash; are given "
+        "up the same way as every other obstacle in this chapter, by "
+        "developing the four kinds of mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five kinds of stinginess &mdash; with "
+            "dwellings, families, material things, praise, and the "
+            "teaching &mdash; a mendicant should develop the four kinds "
+            "of mindfulness meditation, the same remedy given "
+            "throughout this chapter."]),
+        ("Five domains of withholding", [
+            "Unlike more abstract obstacle-lists elsewhere in this "
+            "chapter, stinginess names five concrete, socially "
+            "observable domains: a monastic's own lodging, their "
+            "spiritual patrons or families, material possessions, "
+            "credit or praise, and &mdash; distinctively &mdash; the "
+            "teaching itself, withheld from those who might benefit "
+            "from hearing it."]),
+        ("Withholding the teaching, a stinginess unlike the rest", [
+            "The fifth item, stinginess with the Dhamma, stands apart "
+            "from the other four's more ordinary possessiveness: it "
+            "names a specifically monastic failure, hoarding spiritual "
+            "knowledge rather than material goods, and closes the list "
+            "on its most consequential form."]),
+        ("A term this nipāta has already touched once", [
+            "Stinginess (macchariya) itself was already named as the "
+            "seventh link in AN 9.23's nine-stage chain rooted in "
+            "craving &mdash; ownership producing stinginess, stinginess "
+            "producing safeguarding, and safeguarding eventually "
+            "producing open conflict. This discourse doesn't repeat "
+            "that chain but names the specific domains stinginess takes "
+            "when it does arise."]),
+    ],
+    terms=[
+        ("pañca macchariyāni",
+         "&ldquo;the five kinds of stinginess&rdquo; &mdash; this "
+         "discourse's own title term, naming five concrete domains of "
+         "withholding."),
+        ("āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ",
+         "&ldquo;stinginess with dwellings, families, material "
+         "things&rdquo; &mdash; the first three, ordinary forms of "
+         "monastic possessiveness."),
+        ("vaṇṇamacchariyaṁ, dhammamacchariyaṁ",
+         "&ldquo;stinginess with praise, and the teaching&rdquo; "
+         "&mdash; the remaining two, the latter a distinctively "
+         "monastic failure of withholding spiritual knowledge."),
+        ("macchariyaṁ ārakkhaṁ janeti",
+         "&ldquo;stinginess gives rise to safeguarding&rdquo; &mdash; "
+         "AN 9.23's own use of this same term, as one link in a nine-"
+         "stage chain rooted in craving."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, named but not spelled out in this "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five kinds of "
+        "stinginess given in full, then the remedy compressed to an "
+        "ellipsis. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of stinginess"),
+        ("p", "&sect;1", "an9.69:1.1-1.4"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.69:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five kinds of stinginess does this discourse name?",
+         "opts": [
+             "With food, robes, money, sleep, and speech",
+             "With dwellings, families, material things, praise, and "
+             "the teaching",
+             "The five hindrances",
+             "Five kinds of wrong view"],
+         "correct": 1,
+         "expl": "Five concrete, socially observable domains of "
+                 "withholding."},
+        {"q": "What makes the fifth item, stinginess with the teaching, "
+              "distinctive among the five?",
+         "opts": [
+             "Nothing distinguishes it from the others",
+             "It names a specifically monastic failure — hoarding "
+             "spiritual knowledge rather than material goods",
+             "It is the least serious of the five",
+             "It doesn't actually belong on this list"],
+         "correct": 1,
+         "expl": "A withholding of benefit to others, distinct from "
+                 "ordinary possessiveness."},
+        {"q": "Where has this project already met the term "
+              "&lsquo;stinginess&rsquo; (macchariya) earlier in this "
+              "nipāta?",
+         "opts": [
+             "Nowhere before this discourse",
+             "As the seventh link in AN 9.23's nine-stage chain rooted "
+             "in craving",
+             "Only in a completely unrelated nipāta",
+             "At AN 9.1, the opening discourse"],
+         "correct": 1,
+         "expl": "A single step in a causal chain there, five concrete "
+                 "domains here."},
+        {"q": "How does this discourse relate to AN 9.23's chain?",
+         "opts": [
+             "It repeats the chain in full",
+             "It doesn't repeat the chain, but names the specific "
+             "domains stinginess takes when it does arise",
+             "It contradicts AN 9.23 entirely",
+             "It has no relationship to AN 9.23"],
+         "correct": 1,
+         "expl": "Complementary treatments of the same underlying "
+                 "concept."},
+        {"q": "How is the four-foundation remedy presented in this "
+              "discourse?",
+         "opts": [
+             "Given in complete detail",
+             "Compressed to a bare ellipsis, continuing the pattern "
+             "from AN 9.65 through AN 9.68",
+             "Replaced with a different remedy",
+             "Omitted with no mention at all"],
+         "correct": 1,
+         "expl": "Continuing this chapter's sustained compression."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this whole "
+                 "chapter's method."},
+    ],
+    marginalia=[
+        ("Five domains withheld", [
+            "lodging, family, goods,",
+            "praise, and &mdash; worst of all &mdash;",
+            "the teaching itself",
+        ]),
+        ("A link, met before", [
+            "stinginess, once a step",
+            "in craving's own chain &mdash;",
+            "now, named outright",
+        ]),
+        ("Withholding what helps others", [
+            "hoarding the Dhamma",
+            "closes the list &mdash; a failure",
+            "worse than material greed",
+        ]),
+        ("Cross-references", [
+            "AN 9.23 &middot; the same term, one link in an earlier "
+            "causal chain",
+            "AN 9.68 &middot; previous",
+            "AN 9.70 &middot; next, Higher Fetters",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.69/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.68.html">AN 9.68 &middot; Places of Rebirth</a> &mdash; previous.',
+        '<a href="an-9.70.html">AN 9.70 &middot; Higher Fetters</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.70 — Uddhambhāgiyasutta — last of this chapter's compressed run
+# --------------------------------------------------------------------------- #
+page(
+    70, "Uddhambhāgiya", "Higher Fetters",
+    vagga=VAGGA_7,
+    meta_title="AN 9.70 — Higher Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Higher Fetters, closing this chapter's compressed run with "
+        "the five fetters ended only by full awakening. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five higher fetters named in full, then the remedy "
+                 "compressed to an ellipsis, the last discourse in this "
+                 "chapter to do so"),
+        ("Length", "~30 seconds to read"),
+        ("The counterpart to AN 9.67's lower fetters", "Where ending "
+         "the five lower fetters produces a non-returner, ending these "
+         "five higher fetters is what full arahantship requires"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in text, naming the final barrier to full "
+                       "awakening"),
+    ],
+    why=(
+        "The five higher fetters &mdash; desire for rebirth in the "
+        "realm of luminous form, desire for rebirth in the formless "
+        "realm, conceit, restlessness, and ignorance &mdash; are given "
+        "up the same way as every obstacle in this chapter, by "
+        "developing the four kinds of mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "To give up the five higher fetters &mdash; desire for "
+            "rebirth in the realm of luminous form, desire for rebirth "
+            "in the formless realm, conceit, restlessness, and "
+            "ignorance &mdash; a mendicant should develop the four "
+            "kinds of mindfulness meditation, the same remedy given "
+            "throughout this chapter."]),
+        ("The counterpart to AN 9.67's lower fetters", [
+            "This discourse completes a pair with AN 9.67 three "
+            "discourses earlier: where ending the five lower fetters "
+            "marks non-return, ending these five higher fetters is what "
+            "full arahantship itself requires &mdash; the standard "
+            "doctrinal division of the ten fetters into two sets of "
+            "five, named here across two separate discourses in this "
+            "same chapter."]),
+        ("Subtler obstacles for a subtler stage", [
+            "Where the lower fetters concern relatively coarse "
+            "attachments &mdash; view, doubt, ritual, sensual desire, "
+            "ill will &mdash; these higher fetters are correspondingly "
+            "subtle: desire for the very meditative attainments this "
+            "nipāta spends most of its length describing, along with "
+            "conceit, restlessness, and the final residue of ignorance "
+            "itself."]),
+        ("The last discourse in this chapter's compressed run", [
+            "This is the final discourse to use this chapter's "
+            "compressed formula; AN 9.71 and AN 9.72, closing the "
+            "chapter, both return to giving their obstacle-lists in "
+            "considerably fuller detail than the ellipsis met "
+            "throughout AN 9.65 to AN 9.70."]),
+    ],
+    terms=[
+        ("pañcuddhambhāgiyāni saṁyojanāni",
+         "&ldquo;the five higher fetters&rdquo; &mdash; this "
+         "discourse's own title term, the counterpart to AN 9.67's "
+         "lower fetters."),
+        ("rūparāgo, arūparāgo",
+         "&ldquo;desire for rebirth in the realm of luminous form, "
+         "desire for rebirth in the formless realm&rdquo; &mdash; the "
+         "first two higher fetters, naming attachment to the very "
+         "attainments this nipāta describes at length."),
+        ("māno, uddhaccaṁ, avijjā",
+         "&ldquo;conceit, restlessness, and ignorance&rdquo; &mdash; "
+         "the remaining three, closing the standard list of ten "
+         "fetters' second half."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; marking the last use of this chapter's compressed "
+         "form before AN 9.71 restores fuller detail."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, here applied to the final barrier "
+         "before full awakening."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives: five higher fetters "
+        "given in full, then the remedy compressed to an ellipsis. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The five higher fetters"),
+        ("p", "&sect;1", "an9.70:1.1-1.4"),
+        ("h3", "The remedy, compressed"),
+        ("p", "&sect;2", "an9.70:2.1-2.1"),
+    ],
+    quiz=[
+        {"q": "What five higher fetters does this discourse name?",
+         "opts": [
+             "The five hindrances",
+             "Desire for rebirth in the realm of luminous form, desire "
+             "for rebirth in the formless realm, conceit, "
+             "restlessness, and ignorance",
+             "The five aggregates",
+             "Five kinds of stinginess"],
+         "correct": 1,
+         "expl": "The standard second half of the ten fetters, ended "
+                 "only by full arahantship."},
+        {"q": "How does this discourse's list relate to AN 9.67's lower "
+              "fetters?",
+         "opts": [
+             "No relationship at all",
+             "The two together form the standard division of the ten "
+             "fetters into lower (ending in non-return) and higher "
+             "(ending in arahantship)",
+             "This list replaces AN 9.67's list entirely",
+             "They name identical fetters"],
+         "correct": 1,
+         "expl": "A completing pair, named across two separate "
+                 "discourses in this same chapter."},
+        {"q": "What do the first two higher fetters concern?",
+         "opts": [
+             "Physical possessions",
+             "Desire for the meditative attainments this nipāta "
+             "spends most of its length describing",
+             "Doubt about the teaching",
+             "Sensual pleasure"],
+         "correct": 1,
+         "expl": "Even attachment to the formless attainments "
+                 "themselves counts as a fetter to overcome."},
+        {"q": "What is this discourse's position within this chapter's "
+              "compressed run?",
+         "opts": [
+             "The first discourse to use the compressed form",
+             "The last discourse to use the compressed form, before AN "
+             "9.71 and AN 9.72 return to fuller detail",
+             "It doesn't use the compressed form at all",
+             "It falls outside the compressed run entirely"],
+         "correct": 1,
+         "expl": "Closing the run begun at AN 9.65."},
+        {"q": "What happens at AN 9.71 and AN 9.72, closing this "
+              "chapter?",
+         "opts": [
+             "Further compression, even briefer than this discourse",
+             "A return to considerably fuller detail than the "
+             "ellipsis used throughout AN 9.65 to AN 9.70",
+             "The chapter simply ends without further discourses",
+             "A repeat of AN 9.63's exact content"],
+         "correct": 1,
+         "expl": "The chapter's closing pair breaks from the "
+                 "compressed pattern."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, matching this chapter's "
+                 "compressed discourses."},
+    ],
+    marginalia=[
+        ("A completing pair", [
+            "lower fetters, non-return;",
+            "higher fetters, full",
+            "awakening required",
+        ]),
+        ("Subtler still", [
+            "desire for form, formless,",
+            "conceit, restlessness,",
+            "and ignorance itself",
+        ]),
+        ("The last compressed page", [
+            "one line, an ellipsis &mdash;",
+            "the final time this chapter",
+            "trusts memory alone",
+        ]),
+        ("Cross-references", [
+            "AN 9.67 &middot; the lower fetters this discourse's higher "
+            "fetters complete",
+            "AN 9.69 &middot; previous",
+            "AN 9.71 &middot; next, Hard-heartedness, restoring fuller "
+            "detail",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.70/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.69.html">AN 9.69 &middot; Stinginess</a> &mdash; previous.',
+        '<a href="an-9.71.html">AN 9.71 &middot; Hard-heartedness</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.71 — Cetokhilasutta — restores full detail
+# --------------------------------------------------------------------------- #
+page(
+    71, "Cetokhila", "Hard-heartedness",
+    vagga=VAGGA_7,
+    meta_title="AN 9.71 — Hard-heartedness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Hard-heartedness, restoring full detail to close this "
+        "chapter's compressed run — five ways the mind refuses to "
+        "incline toward practice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five kinds of hard-heartedness, each given its own "
+                 "explanation and shared refrain, restoring the fuller "
+                 "detail last seen at AN 9.63-64"),
+        ("Length", "~2 minutes to read"),
+        ("Fuller detail restored", "Unlike AN 9.65 through AN 9.70, "
+         "this discourse explains each item rather than merely naming "
+         "it, and gives a psychological mechanism for why it obstructs "
+         "practice"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "more substantial than its immediate "
+                       "predecessors, worth reading for its "
+                       "psychological precision"),
+    ],
+    why=(
+        "Five kinds of hard-heartedness &mdash; doubt about the "
+        "Teacher, the teaching, the Saṅgha, and the training, plus "
+        "anger and resentment toward one's spiritual companions "
+        "&mdash; each share the same mechanism: whenever present, the "
+        "mind doesn't incline toward keenness, commitment, persistence, "
+        "and striving, and are given up by developing the four kinds of "
+        "mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five kinds of hard-heartedness &mdash; doubt about the "
+            "Teacher, the teaching, the Saṅgha, and the training, and "
+            "anger toward spiritual companions &mdash; each keep the "
+            "mind from inclining toward keenness, commitment, "
+            "persistence, and striving, and are given up by developing "
+            "the four kinds of mindfulness meditation."]),
+        ("A shift back to fuller explanation", [
+            "After six discourses compressed to a bare list and an "
+            "ellipsis, this discourse restores the kind of detail last "
+            "seen at AN 9.63 and AN 9.64: each of the five items gets "
+            "its own explanation, not just a name, and the shared "
+            "mechanism connecting all five is spelled out explicitly "
+            "rather than left implicit."]),
+        ("A named mechanism, not just a list", [
+            "What makes this discourse's five items cohere as one "
+            "category isn't superficial similarity but a shared "
+            "psychological consequence: each, when present, keeps the "
+            "mind from &lsquo;inclining toward keenness, commitment, "
+            "persistence, and striving&rsquo; &mdash; hard-heartedness "
+            "named for what it does to motivation, not merely for what "
+            "it is."]),
+        ("Four doubts, then one interpersonal rupture", [
+            "The first four items form a clean set &mdash; doubt about "
+            "the Teacher, the teaching, the Saṅgha, and the training, "
+            "the same four objects of confidence met throughout this "
+            "nipāta's stream-entry formula, now viewed from their "
+            "shadow side. The fifth breaks this pattern: not doubt "
+            "about a doctrinal object at all, but anger and closed-off "
+            "resentment toward one's own spiritual companions."]),
+    ],
+    terms=[
+        ("cetokhilā",
+         "&ldquo;hard-heartedness&rdquo; &mdash; this discourse's own "
+         "title term, literally a barrenness or hardening of the heart "
+         "that blocks inclination toward practice."),
+        ("satthari kaṅkhati vicikicchati",
+         "&ldquo;has doubts about the Teacher... uncertain, undecided, "
+         "and lacking confidence&rdquo; &mdash; the first of the five, "
+         "shadowing the first factor of stream-entry."),
+        ("na namati ātappāya anuyogāya sātaccāya padhānāya",
+         "&ldquo;their mind doesn't incline toward keenness, "
+         "commitment, persistence, and striving&rdquo; &mdash; the "
+         "shared mechanism naming what all five items have in common."),
+        ("sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto",
+         "&ldquo;angry and upset with their spiritual companions, "
+         "resentful and closed off&rdquo; &mdash; the fifth item, "
+         "breaking from the doubt-pattern of the first four."),
+        ("cattāro satipaṭṭhānā",
+         "&ldquo;the four kinds of mindfulness meditation&rdquo; "
+         "&mdash; the shared remedy, once again named without full "
+         "elaboration, but following a fuller explanation of the "
+         "obstacle."),
+    ],
+    text_intro=(
+        "The discourse in full: five kinds of hard-heartedness, each "
+        "explained, and the shared mechanism connecting them. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five kinds of hard-heartedness"),
+        ("p", "&sect;1", "an9.71:1.1-2.6"),
+        ("h3", "The remedy"),
+        ("p", "&sect;2", "an9.71:3.1-3.1"),
+    ],
+    quiz=[
+        {"q": "What shared mechanism connects all five kinds of hard-"
+              "heartedness?",
+         "opts": [
+             "They each involve physical illness",
+             "Each keeps the mind from inclining toward keenness, "
+             "commitment, persistence, and striving",
+             "They each involve breaking a specific precept",
+             "They have no shared mechanism at all"],
+         "correct": 1,
+         "expl": "Named for their psychological consequence, not "
+                 "merely their surface content."},
+        {"q": "What do the first four kinds of hard-heartedness share?",
+         "opts": [
+             "They are all about physical possessions",
+             "They are doubts about the Teacher, the teaching, the "
+             "Saṅgha, and the training — the same four objects of "
+             "confidence in the stream-entry formula",
+             "They are all about sensual pleasure",
+             "They are unrelated to each other"],
+         "correct": 1,
+         "expl": "The shadow side of the four factors of stream-entry "
+                 "met earlier in this nipāta."},
+        {"q": "How does the fifth kind of hard-heartedness break from "
+              "the first four?",
+         "opts": [
+             "It doesn't break the pattern at all",
+             "It isn't doubt about a doctrinal object, but anger and "
+             "closed-off resentment toward one's own spiritual "
+             "companions",
+             "It is a repeat of the first item",
+             "It concerns only physical health"],
+         "correct": 1,
+         "expl": "An interpersonal rupture, distinct from the four "
+                 "doctrinal doubts before it."},
+        {"q": "How does this discourse's level of detail compare to AN "
+              "9.65 through AN 9.70?",
+         "opts": [
+             "Equally compressed, with a bare ellipsis",
+             "Fuller — each item gets its own explanation, restoring "
+             "the detail last seen at AN 9.63 and AN 9.64",
+             "Even more compressed than those discourses",
+             "Identical in every respect"],
+         "correct": 1,
+         "expl": "A deliberate return to fuller elaboration after six "
+                 "compressed discourses."},
+        {"q": "What remedy does this discourse prescribe, matching this "
+              "whole chapter?",
+         "opts": [
+             "The four right efforts",
+             "The four kinds of mindfulness meditation",
+             "The four noble truths",
+             "The six higher knowledges"],
+         "correct": 1,
+         "expl": "The shared remedy running through all ten discourses "
+                 "in this chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal teaching, though fuller in detail "
+                 "than its immediate predecessors."},
+    ],
+    marginalia=[
+        ("A shared mechanism", [
+            "not what each doubt is,",
+            "but what it does &mdash; blocks",
+            "keenness, striving, both",
+        ]),
+        ("Four doubts, one rupture", [
+            "Teacher, teaching, Saṅgha,",
+            "training doubted &mdash; then, anger",
+            "at one's own companions",
+        ]),
+        ("Fuller detail returns", [
+            "each item explained,",
+            "not merely named &mdash;",
+            "as at 9.63, 9.64",
+        ]),
+        ("Cross-references", [
+            "AN 9.27 &middot; the same four objects of confidence, "
+            "there as positive factors",
+            "AN 9.70 &middot; previous",
+            "AN 9.72 &middot; next, Shackles of the Heart, closing this "
+            "chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.71/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.70.html">AN 9.70 &middot; Higher Fetters</a> &mdash; previous.',
+        '<a href="an-9.72.html">AN 9.72 &middot; Shackles of the Heart</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.72 — Cetasovinibandhasutta — closes ch.7 Satipatthanavagga
+# --------------------------------------------------------------------------- #
+page(
+    72, "Cetasovinibandha", "Shackles of the Heart",
+    vagga=VAGGA_7,
+    meta_title="AN 9.72 — Shackles of the Heart | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Shackles of the Heart, closing this chapter with five ways "
+        "attachment binds a mendicant's motivation, from bodily "
+        "indulgence to seeking rebirth as a god through spiritual "
+        "practice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Five shackles of the heart, each explained, then the "
+                 "four kinds of mindfulness meditation given in full "
+                 "one final time"),
+        ("Length", "~2 minutes to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Satipatthanavagga</em>, the seventh chapter; the "
+         "source's own untranslated closing verse names all ten "
+         "discourses of the chapter by their opening words"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "substantial, closing this chapter with its most "
+                       "pointed obstacle-list"),
+    ],
+    why=(
+        "Five shackles of the heart &mdash; unresolved greed for "
+        "sensual pleasures, for the body, for physical form, for "
+        "comfort and sleep, and for rebirth among the gods sought "
+        "through spiritual practice itself &mdash; each keep the mind "
+        "from inclining toward keenness, commitment, persistence, and "
+        "striving, and are given up, closing this chapter, by "
+        "developing the four kinds of mindfulness meditation."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Five shackles of the heart &mdash; unresolved greed for "
+            "sensual pleasures, for the body, for physical form, "
+            "indulgence in comfort and sleep, and desire for rebirth "
+            "among the gods pursued through one's own spiritual "
+            "practice &mdash; each keep the mind from inclining toward "
+            "keenness, commitment, persistence, and striving, and are "
+            "given up by developing the four kinds of mindfulness "
+            "meditation."]),
+        ("The same mechanism as AN 9.71, a different content", [
+            "This discourse shares its closing mechanism exactly with "
+            "AN 9.71 &mdash; each shackle, like each kind of hard-"
+            "heartedness, is defined by keeping the mind from "
+            "&lsquo;inclining toward keenness, commitment, persistence, "
+            "and striving&rsquo; &mdash; but where hard-heartedness "
+            "named doubt and interpersonal rupture, these five shackles "
+            "all concern unresolved attachment."]),
+        ("A shackle turned against spiritual practice itself", [
+            "The fifth and final shackle is the most pointed: a "
+            "mendicant who leads the spiritual life hoping that "
+            "precepts, observances, austerity, or practice will earn "
+            "rebirth among the gods has turned the very tools of "
+            "liberation into a subtler form of the same craving those "
+            "tools exist to end &mdash; practice itself, corrupted by "
+            "an ordinary worldly aim."]),
+        ("Closing the chapter with full treatment restored", [
+            "Unlike AN 9.71, this discourse gives the complete four-"
+            "foundation formula one final time, matching AN 9.63 and AN "
+            "9.64's opening treatment and closing "
+            "<em>Satipatthanavagga</em> on the same full detail it "
+            "began with. The source's own untranslated colophon and "
+            "chapter-summary verse name all ten discourses of the "
+            "chapter by their opening words."]),
+    ],
+    terms=[
+        ("cetaso vinibandhā",
+         "&ldquo;shackles of the heart&rdquo; &mdash; this discourse's "
+         "own title term, naming five forms of unresolved attachment."),
+        ("kāmesu avītarāgo hoti",
+         "&ldquo;isn't free of greed... for sensual pleasures&rdquo; "
+         "&mdash; the first shackle, echoing the same craving named "
+         "&lsquo;confinement&rsquo; at AN 9.42 and &lsquo;the "
+         "world&rsquo; at AN 9.38."),
+        ("yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ "
+         "passasukhaṁ middhasukhaṁ anuyutto viharati",
+         "&ldquo;eat as much as they like until their belly is full, "
+         "then indulge in the pleasures of sleeping, lying down, and "
+         "drowsing&rdquo; &mdash; the fourth shackle, a vivid, concrete "
+         "image among this discourse's otherwise abstract vocabulary."),
+        ("iminā sīlena vā vatena vā tapena vā brahmacariyena vā "
+         "devo vā bhavissāmi devaññataro vā",
+         "&ldquo;by this precept or observance or fervent austerity or "
+         "spiritual practice, may I become one of the gods&rdquo; "
+         "&mdash; the fifth and final shackle, spiritual practice "
+         "corrupted by a worldly aim."),
+        ("satipaṭṭhānavaggo sattamo",
+         "&ldquo;the seventh chapter, Satipaṭṭhānavagga, is "
+         "finished&rdquo; &mdash; the source's own untranslated "
+         "colophon closing this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: five shackles of the heart, each "
+        "explained, and the four kinds of mindfulness meditation given "
+        "one final time. The source's own closing colophon and chapter-"
+        "summary verse are untranslated in the English and are "
+        "described rather than quoted here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Five shackles of the heart"),
+        ("p", "&sect;1", "an9.72:1.1-2.7"),
+        ("h3", "Four kinds of mindfulness meditation"),
+        ("p", "&sect;2", "an9.72:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What five shackles of the heart does this discourse "
+              "name?",
+         "opts": [
+             "Five monastic disciplinary offenses",
+             "Unresolved greed for sensual pleasures, the body, "
+             "physical form, indulgence in comfort and sleep, and "
+             "desire for rebirth among the gods through practice",
+             "The five hindrances",
+             "The five aggregates"],
+         "correct": 1,
+         "expl": "Five forms of unresolved attachment, closing this "
+                 "chapter's obstacle-lists."},
+        {"q": "What mechanism does this discourse share exactly with AN "
+              "9.71?",
+         "opts": [
+             "No shared mechanism",
+             "Each item, when present, keeps the mind from inclining "
+             "toward keenness, commitment, persistence, and striving",
+             "Both discourses name identical obstacles",
+             "Both discourses use the compressed ellipsis form"],
+         "correct": 1,
+         "expl": "The same psychological consequence, applied here to "
+                 "attachment rather than doubt."},
+        {"q": "What makes the fifth shackle especially pointed?",
+         "opts": [
+             "It concerns only physical comfort",
+             "It names spiritual practice itself turned into a subtler "
+             "form of craving, seeking rebirth as a god through "
+             "precepts and austerity",
+             "It is identical to the first shackle",
+             "It has nothing to do with practice"],
+         "correct": 1,
+         "expl": "The tools of liberation corrupted by an ordinary "
+                 "worldly aim."},
+        {"q": "How does this discourse's treatment of the four "
+              "foundations compare to AN 9.71's?",
+         "opts": [
+             "Equally brief, just naming the remedy",
+             "Full treatment is restored one final time, matching AN "
+             "9.63 and AN 9.64's opening detail",
+             "Even more compressed",
+             "The remedy is entirely different here"],
+         "correct": 1,
+         "expl": "Closing the chapter on the same full detail it began "
+                 "with."},
+        {"q": "What does this discourse close, and how?",
+         "opts": [
+             "Nothing; the chapter continues past it",
+             "<em>Satipatthanavagga</em>, the seventh chapter, with an "
+             "untranslated colophon and uddāna verse naming all ten "
+             "discourses",
+             "The entire nipāta",
+             "Only this single discourse, with no chapter-level effect"],
+         "correct": 1,
+         "expl": "The chapter's own closing colophon, left untranslated "
+                 "in the English."},
+        {"q": "Which shackle involves a vivid, concrete image distinct "
+              "from this discourse's otherwise abstract vocabulary?",
+         "opts": [
+             "The first, greed for sensual pleasures",
+             "The fourth, eating until full and indulging in sleep and "
+             "drowsiness",
+             "The second, greed for the body",
+             "The fifth, seeking rebirth as a god"],
+         "correct": 1,
+         "expl": "A concrete bodily image amid the chapter's otherwise "
+                 "abstract terminology."},
+    ],
+    marginalia=[
+        ("Five shackles, unresolved", [
+            "sensual pleasure, body,",
+            "form, comfort, sleep &mdash; and rebirth",
+            "as a god, sought wrongly",
+        ]),
+        ("Practice, corrupted", [
+            "precepts, austerity,",
+            "kept for a god's rebirth &mdash;",
+            "craving in disguise",
+        ]),
+        ("Closing the chapter, in full", [
+            "four foundations, spelled",
+            "out once more &mdash; the same",
+            "detail it began with",
+        ]),
+        ("Cross-references", [
+            "AN 9.38, AN 9.42 &middot; the same craving named &lsquo;"
+            "the world&rsquo; and &lsquo;confinement&rsquo; elsewhere",
+            "AN 9.71 &middot; previous",
+            "AN 9.73 &middot; next, opening ch.8, Sammappadhanavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.72/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.71.html">AN 9.71 &middot; Hard-heartedness</a> &mdash; previous.',
+    ],
+)
