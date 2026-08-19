@@ -1098,3 +1098,213 @@ page(
         "seeing this purification aims at.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 19 -- Kaṅkhāvitaraṇavisuddhiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    19, "Kaṅkhāvitaraṇavisuddhiniddesa", "Purification by Overcoming Doubt",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 19 — Purification by Overcoming Doubt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 19 of the Visuddhimagga (The Path of "
+        "Purification) — tracing mentality-materiality back to its causes, the "
+        "traditional sixteen kinds of doubt across past, present, and future, and "
+        "the informal marker known as &lsquo;lesser stream-entry&rsquo;. No "
+        "translated text reproduced; links to the full free translation and the "
+        "Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter extends Chapter 18's "
+                    "distinguishing exercise by tracing that same process back to "
+                    "its causes"),
+        ("Speaker", "Buddhaghosa, opening the fourth of the seven traditional "
+                    "purifications"),
+        ("Form", "A causal tracing exercise organized around resolving a "
+                 "traditional set of doubts spanning three time periods"),
+        ("Length", "moderate, continuous in scope with Chapter 18"),
+        ("Northern parallel", "Comparable doubt-resolving analyses of causal "
+                              "continuity appear elsewhere in Buddhist literature; "
+                              "this guide does not assert a specific matching "
+                              "passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; builds directly "
+                       "on Chapters 17 and 18, applying already-covered material "
+                       "concretely rather than introducing much that is new"),
+    ],
+    why=(
+        "Chapter 18 distinguished mentality from materiality directly, but left "
+        "open a further question: where does this ever-changing process actually "
+        "come from, and does explaining its continuity across time require "
+        "anything like a fixed self, an external creator, or an uncaused "
+        "beginning? Chapter 19 answers this by applying Chapter 17's dependent "
+        "origination concretely to the practitioner's own mentality-materiality "
+        "process, and in doing so resolves a traditional set of doubts about "
+        "one's own existence across past, present, and future."),
+    guide=[
+        ("Tracing the causes directly", [
+            "Having distinguished mentality and materiality in Chapter 18, this "
+            "chapter has a practitioner trace that same process back to its "
+            "conditions, confirming concretely, rather than only conceptually as "
+            "in Chapter 17, that each part of the process arises from "
+            "identifiable causes."]),
+        ("Sixteen kinds of doubt", [
+            "The chapter organizes the doubts it resolves around three time "
+            "periods: doubts about one's existence in the past (did I exist "
+            "before, and if so, what was I?), doubts about the future, and doubts "
+            "about the present arising of the process itself &mdash; sixteen "
+            "traditionally enumerated variations spread across these three "
+            "periods."]),
+        ("No creator, no uncaused arising", [
+            "Resolving these doubts rules out two explanations the chapter treats "
+            "as mistaken: that some external creator produces the process, or "
+            "that it simply arises without cause at all. In their place, "
+            "everything traces to identifiable, ordinary conditions, consistent "
+            "with the dependent origination Chapter 17 already laid out."]),
+        ("Discerning conditions", [
+            "The chapter names the specific insight this work produces: seeing "
+            "directly, not just conceptually, how each part of the "
+            "mentality-materiality process is conditioned by what precedes it "
+            "&mdash; a knowledge of discerning conditions distinct from, though "
+            "built on, Chapter 18's distinguishing of mentality from "
+            "materiality."]),
+        ("&lsquo;Lesser stream-entry&rsquo;", [
+            "The chapter notes that a practitioner who has reached this point, "
+            "while not yet an actual stream-enterer, is traditionally described "
+            "as having gained a kind of preliminary confidence and protection, "
+            "informally called &lsquo;lesser stream-entry&rsquo; &mdash; real "
+            "progress, though the formal attainment still lies ahead."]),
+        ("What follows", [
+            "Chapter 20 turns to the next purification: distinguishing what "
+            "actually constitutes the path forward from what does not, since a "
+            "range of experiences that can arise around this stage of practice "
+            "are not themselves signs of further progress, however impressive "
+            "they may seem."]),
+    ],
+    terms=[
+        ("kaṅkhāvitaraṇavisuddhi",
+         "purification by overcoming doubt &mdash; this chapter's subject, the "
+         "fourth of the seven traditional purifications."),
+        ("paccayapariggaha-ñāṇa",
+         "the knowledge of discerning conditions &mdash; the specific insight "
+         "this chapter's causal tracing produces."),
+        ("addhā",
+         "&ldquo;time period&rdquo; &mdash; past, present, and future, the three "
+         "periods the traditional sixteen doubts are organized around."),
+        ("cūḷasotāpanna",
+         "&ldquo;lesser stream-enterer&rdquo; &mdash; the informal term for a "
+         "practitioner who has reached this stage, short of the formal "
+         "attainment."),
+        ("paṭiccasamuppāda",
+         "dependent origination &mdash; Chapter 17's causal scheme, applied here "
+         "concretely to the practitioner's own mentality-materiality process."),
+    ],
+    quiz=[
+        {"q": "What does Chapter 19 add to Chapter 18's distinguishing of mentality and materiality?",
+         "opts": [
+             "Tracing that same process back to its causes, applying dependent origination concretely",
+             "A complete reversal of Chapter 18's conclusions",
+             "An entirely new, unrelated classification scheme",
+             "A return to the forty meditation subjects of Part II"],
+         "correct": 0,
+         "expl": "Confirming concretely, not just conceptually, that the process arises from identifiable causes."},
+        {"q": "What three time periods are the traditional doubts this chapter resolves organized around?",
+         "opts": [
+             "Past, present, and future",
+             "Morning, afternoon, and evening",
+             "Youth, middle age, and old age",
+             "Before ordination, during training, and after full awakening"],
+         "correct": 0,
+         "expl": "Doubts about one's existence spanning all three periods."},
+        {"q": "How many kinds of doubt does the traditional scheme this chapter resolves enumerate?",
+         "opts": [
+             "Sixteen",
+             "Four",
+             "Forty",
+             "Two"],
+         "correct": 0,
+         "expl": "Distributed across the three time periods."},
+        {"q": "What two explanations does this chapter's work rule out?",
+         "opts": [
+             "An external creator producing the process, and the process arising without any cause at all",
+             "Rebirth and kamma, both entirely",
+             "Virtue and concentration as valid trainings",
+             "The existence of the five aggregates"],
+         "correct": 0,
+         "expl": "Replaced by tracing everything to identifiable, ordinary conditions."},
+        {"q": "What does the chapter conclude explains the mentality-materiality process's continuity instead?",
+         "opts": [
+             "Everything traces to identifiable, ordinary conditions, consistent with dependent origination",
+             "A single unchanging self persists unchanged across all three time periods",
+             "The question is declared permanently unanswerable",
+             "Pure chance, with no discernible pattern at all"],
+         "correct": 0,
+         "expl": "Consistent with the causal scheme Chapter 17 already laid out."},
+        {"q": "What specific insight-knowledge does this chapter's causal tracing produce?",
+         "opts": [
+             "Paccayapariggaha-ñāṇa, the knowledge of discerning conditions",
+             "Nāmarūpapariccheda-ñāṇa, the knowledge of defining mentality-and-materiality",
+             "Āsavakkhaya-ñāṇa, the knowledge of the destruction of the taints",
+             "Iddhividha, supernormal power"],
+         "correct": 0,
+         "expl": "Distinct from, though built directly on, Chapter 18's distinguishing insight."},
+        {"q": "What informal term describes a practitioner who has reached this stage?",
+         "opts": [
+             "&lsquo;Lesser stream-enterer&rsquo; (cūḷasotāpanna)",
+             "A fully awakened arahant",
+             "A stream-enterer in the full, formal sense",
+             "A non-returner"],
+         "correct": 0,
+         "expl": "A marker of real progress, described in the chapter."},
+        {"q": "Is &lsquo;lesser stream-entry&rsquo; the same as actual, formal stream-entry?",
+         "opts": [
+             "No; it is a preliminary marker of progress, not yet the formal attainment",
+             "Yes, they are identical in every respect",
+             "It is a higher attainment than formal stream-entry",
+             "The chapter treats the two terms as complete synonyms"],
+         "correct": 0,
+         "expl": "Real progress, though the chapter is clear the formal attainment still lies ahead."},
+        {"q": "What does Chapter 20 turn to next?",
+         "opts": [
+             "Distinguishing what actually constitutes the path forward from what does not",
+             "A return to the ten kasinas for further practice",
+             "The thirteen ascetic practices, revisited",
+             "The end of the entire Visuddhimagga"],
+         "correct": 0,
+         "expl": "Since experiences that can arise at this stage are not all signs of genuine further progress."},
+        {"q": "Where can a reader go for Chapter 19's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Fourth of seven purifications", [
+            "tracing mentality-materiality",
+            "back to its causes",
+        ]),
+        ("Sixteen kinds of doubt", [
+            "organized across",
+            "past, present, future",
+        ]),
+        ("No creator, no uncaused arising", [
+            "everything traces to",
+            "identifiable conditions",
+        ]),
+        ("Lesser stream-entry", [
+            "real progress &mdash;",
+            "not yet the formal attainment",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/majjhima-nikaya/mn-002.html">MN 2 &mdash; All the '
+        "Defilements</a> &mdash; the canonical source for the traditional sixteen "
+        "kinds of doubt this chapter resolves.",
+        '<a href="../discourses/samyutta-nikaya/sn-12.2.html">SN 12.2 &mdash; '
+        "Analysis</a> &mdash; a detailed canonical breakdown of dependent "
+        "origination's individual links, applied concretely in this chapter.",
+    ],
+)
