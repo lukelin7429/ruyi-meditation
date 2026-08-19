@@ -17847,3 +17847,237 @@ page(
         "&mdash; earlier, opening this chapter.",
     ],
 )
+
+
+VAGGA_10 = "<em>Sāmaññavagga</em> &mdash; the tenth chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.91-117 — closing ch.10 Sāmaññavagga. bilara-data holds this entire
+# 27-sutta range as a single merged peyyāla file (an8.91-117), consisting
+# of nothing but a chain of 27 names -- the eight-factored sabbath teaching
+# already given in full at AN 8.41-45, 47-49 is peyyāla-compressed away
+# entirely, leaving only the addressee list. Per the an5.308-1152/
+# an6.170-649/an6.120-139/an7.96-614 precedent: PAGES.append({...}) with a
+# plain dict, since the slug is not purely numeric.
+#
+# The source's own colophon here reads "Dutiyo paṇṇāsako samatto" ("the
+# Second Fifty is finished") immediately after this vagga -- even though
+# Rāgapeyyāla (AN 8.118-627) still follows numerically. This structural
+# quirk is noted honestly in the guide below rather than resolved; it
+# suggests the traditional "Second Fifty" label was applied to AN 8.51-117
+# specifically, with the Rāgapeyyāla appended afterward as a separate
+# closing section, distinct from how AN 6 and AN 7's own Rāgapeyyāla
+# sections closed their nipātas directly.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-8.91-117",
+    "index_pali": "Sāmañña",
+    "nav_title": "Twenty-Seven Laywomen on the Sabbath",
+    "source": "an8/an8.91-117",
+    "crumb": "AN 8.91&ndash;117",
+    "meta_title": "AN 8.91–117 — Twenty-Seven Laywomen on the Sabbath | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for this chapter's "
+        "closing peyyāla: the eight-factored sabbath teaching, already given in full "
+        "earlier in this book, compressed here into a single chain of twenty-seven "
+        "named laywomen. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 8.91&ndash;117",
+    "title": "Twenty-Seven Laywomen on the Sabbath",
+    "subtitle": "<em>Sāmaññavagga</em> &mdash; the tenth chapter of the Eights, closing "
+                "with an entire chapter's teaching reduced to a list of names",
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single peyyāla-compressed line naming twenty-seven laywomen in "
+                 "turn, each receiving (by implication) the identical eight-factored "
+                 "sabbath teaching already spelled out in full earlier in this book"),
+        ("Length", "a few seconds to read the compressed text; the underlying "
+                   "teaching it stands for takes several minutes, as at AN 8.42"),
+        ("An entire chapter reduced to a name list", "This chapter's own name, "
+                                                      "Sāmaññavagga (&ldquo;the "
+                                                      "Chapter on Similarity&rdquo;), "
+                                                      "names exactly what's "
+                                                      "happening structurally: "
+                                                      "twenty-seven otherwise "
+                                                      "separate discourses, "
+                                                      "similar enough in content "
+                                                      "to be compressed into one"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the compressed "
+                       "text itself is trivial to read; its significance lies "
+                       "entirely in what it stands for"),
+    ],
+    "why": (
+        "AN 8.91&ndash;117 compresses twenty-seven separate discourses &mdash; each "
+        "one, by implication, an instance of the eight-factored sabbath teaching "
+        "already given in full at AN 8.41&ndash;45 and 47&ndash;49 &mdash; into a "
+        "single line naming twenty-seven laywomen in turn, from Bojjhā through "
+        "Nakula's mother, several of them well known elsewhere in this tradition."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same eight-factored sabbath already taught in full to Visākhā, "
+            "Bojjhā, and others earlier in this book was, according to this "
+            "peyyāla, taught identically to twenty-seven named laywomen in all, "
+            "the source compressing all twenty-seven repetitions into a single "
+            "chain of names rather than restating the teaching twenty-seven "
+            "times over."]),
+        ("A chapter named for what it does structurally", [
+            "This chapter's own title, Sāmaññavagga, means &ldquo;the Chapter on "
+            "Similarity&rdquo; &mdash; and that title describes its own "
+            "compression method as much as its content: twenty-seven discourses "
+            "similar enough to each other that bilara-data's source itself "
+            "holds them as a single merged file, the entire content peyyāla-"
+            "compressed to nothing but the addressee list."]),
+        ("Twenty-seven names, some famous, most otherwise unrecorded", [
+            "The list moves from largely unknown figures &mdash; Sirīmā, Padumā, "
+            "Sutanā, Manujā, and many more &mdash; to several names this "
+            "tradition remembers well: Visākhā, Migāra's mother, already met "
+            "repeatedly earlier in this book; Khujjuttarā, celebrated elsewhere "
+            "as a formerly enslaved woman who became a renowned Dhamma teacher; "
+            "Sāmāvatī, a queen; Suppavāsā the Koliyan, known elsewhere for an "
+            "unusually long pregnancy; and Nakula's mother, already met at AN "
+            "8.48."]),
+        ("A colophon that closes the Second Fifty here, not after the "
+         "Rāgapeyyāla that follows", [
+            "The source's own closing line after this chapter reads "
+            "&ldquo;the Second Fifty is finished&rdquo; &mdash; even though AN "
+            "8.118&ndash;627, the Rāgapeyyāla, still follows numerically. This "
+            "is worth noting honestly rather than smoothed over: it suggests the "
+            "traditional &ldquo;Second Fifty&rdquo; label applies specifically "
+            "to AN 8.51&ndash;117, with the enormous Rāgapeyyāla appended "
+            "afterward as its own closing section &mdash; a different structural "
+            "pattern than AN 6 and AN 7, where the Rāgapeyyāla's own colophon "
+            "closed the entire nipāta directly."]),
+    ],
+    "terms": [
+        ("sāmaññavaggo",
+         "&ldquo;the Chapter on Similarity&rdquo; &mdash; this chapter's own "
+         "title, naming its structural method as much as any shared content."),
+        ("bojjhā upāsikā ... nakulamātā gahapatānī",
+         "the compressed chain of twenty-seven names opening with the "
+         "laywoman Bojjhā, whose own sabbath teaching was already given in "
+         "full at AN 8.45, and closing with the housewife Nakula's mother, "
+         "already met earlier in this book at AN 8.48 (a different teaching, "
+         "on the eight wifely qualities leading to rebirth among the "
+         "Agreeable Gods)."),
+        ("khujjuttarā upāsikā",
+         "the laywoman Khujjuttarā, remembered elsewhere in this tradition as "
+         "a formerly enslaved woman who became a celebrated Dhamma teacher in "
+         "her own right."),
+        ("suppavāsā koliyadhītā",
+         "&ldquo;Suppavāsā the Koliyan&rdquo; &mdash; remembered elsewhere for "
+         "an unusually extended pregnancy, one of several named figures in "
+         "this list with a fuller story told in other discourses."),
+        ("dutiyo paṇṇāsako samatto",
+         "&ldquo;the Second Fifty is finished&rdquo; &mdash; the source's own "
+         "closing colophon after this chapter, despite the Rāgapeyyāla still "
+         "following at AN 8.118&ndash;627."),
+    ],
+    "text_intro": (
+        "The discourse in full: the compressed chain of twenty-seven "
+        "laywomen's names, standing for twenty-seven repetitions of the "
+        "eight-factored sabbath teaching given in full earlier in this book. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Twenty-seven laywomen, compressed to a single line"),
+        ("p", "&sect;1", "an8.91-117:1.1-1.1"),
+    ],
+    "quiz": [
+        {"q": "What does this peyyāla-compressed text stand for, according to "
+              "the guide?",
+         "opts": [
+             "A new, previously unstated teaching",
+             "Twenty-seven repetitions of the eight-factored sabbath teaching "
+             "already given in full earlier in this book",
+             "A list of monastic rules",
+             "A genealogy of the Buddha's own family"],
+         "correct": 1,
+         "expl": "The identical sabbath teaching, applied to twenty-seven "
+                 "named laywomen in turn."},
+        {"q": "What does this chapter's own title, Sāmaññavagga, mean, and "
+              "what does it describe?",
+         "opts": [
+             "'The Chapter on Wisdom' — describing doctrinal content",
+             "'The Chapter on Similarity' — describing its own compression "
+             "method, twenty-seven discourses similar enough to merge",
+             "'The Chapter on Kings' — describing royal patrons",
+             "'The Chapter on Silence' — describing a vow of quietude"],
+         "correct": 1,
+         "expl": "A title naming the chapter's structural method as much as "
+                 "any shared content."},
+        {"q": "Which named figure in this list is remembered elsewhere as a "
+              "formerly enslaved woman who became a celebrated Dhamma teacher?",
+         "opts": [
+             "Visākhā", "Khujjuttarā",
+             "Sāmāvatī", "Nakula's mother"],
+         "correct": 1,
+         "expl": "One of several figures in this compressed list with a "
+                 "fuller story told elsewhere in the tradition."},
+        {"q": "What structural quirk does the guide note about the source's "
+              "own colophon after this chapter?",
+         "opts": [
+             "There is no colophon at all",
+             "It declares 'the Second Fifty is finished' even though the "
+             "Rāgapeyyāla (AN 8.118-627) still follows numerically",
+             "It contradicts the sabbath teaching entirely",
+             "It renumbers all twenty-seven discourses"],
+         "correct": 1,
+         "expl": "A genuine structural oddity, noted honestly rather than "
+                 "smoothed over or forced to resolve."},
+        {"q": "How many laywomen are named in this compressed chain?",
+         "opts": [
+             "Ten", "Twenty-seven",
+             "Fifty", "One hundred"],
+         "correct": 1,
+         "expl": "Matching the range AN 8.91 through AN 8.117, twenty-seven "
+                 "discourses in all."},
+        {"q": "How does the guide characterize the relationship between AN "
+              "6 and AN 7's own Rāgapeyyāla closings and this chapter's own "
+              "colophon placement?",
+         "opts": [
+             "They are identical in structure",
+             "AN 6 and AN 7's Rāgapeyyāla colophons closed their entire "
+             "nipātas directly, unlike this chapter's earlier 'Second Fifty "
+             "finished' declaration",
+             "AN 6 and AN 7 have no Rāgapeyyāla sections at all",
+             "There is no meaningful difference to note"],
+         "correct": 1,
+         "expl": "A different structural pattern from the precedent set in "
+                 "earlier nipātas."},
+    ],
+    "marginalia": [
+        ("Twenty-seven names, one line", [
+            "Bojjhā, Sirīmā, Padumā —",
+            "through Suppiyā, Nakula's mother —",
+            "the same teaching, twenty-seven times",
+        ]),
+        ("A title naming its own method", [
+            "Sāmaññavagga — 'Similarity' —",
+            "twenty-seven discourses merged",
+            "because they're similar enough",
+        ]),
+        ("Famous names among the unknown", [
+            "Visākhā, Khujjuttarā the teacher,",
+            "Sāmāvatī the queen,",
+            "Suppavāsā's long pregnancy",
+        ]),
+        ("Cross-references", [
+            "AN 8.90 &middot; previous, closing the previous chapter",
+            "AN 8.45 &middot; earlier, Bojjhā's own sabbath teaching in full",
+            "AN 8.48 &middot; earlier, Nakula's mother's own sabbath teaching "
+            "in full",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an8.91-117/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-8.90.html">AN 8.90 &middot; Proper Behavior in a Case of Aggravated '
+        "Misconduct</a> &mdash; previous, closing the previous chapter.",
+        '<a href="an-8.45.html">AN 8.45 &middot; With Bojjhā on the Sabbath</a> &mdash; '
+        "earlier, this same teaching given in full.",
+        '<a href="an-8.48.html">AN 8.48 &middot; With Nakula&rsquo;s Mother on the '
+        "Agreeable Gods</a> &mdash; earlier, another laywoman from this list, met "
+        "elsewhere in this book through a different teaching.",
+    ],
+})
