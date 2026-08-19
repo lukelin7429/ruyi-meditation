@@ -11673,3 +11673,2074 @@ page(
         "this chapter.",
     ],
 )
+
+
+VAGGA_7 = "<em>Bhūmicālavagga</em> &mdash; the seventh chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.61 — Icchāsutta -- opens ch.7 Bhūmicālavagga
+# --------------------------------------------------------------------------- #
+page(
+    61, "Icchā", "Desire",
+    vagga=VAGGA_7,
+    meta_title="AN 8.61 — Desire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Icchāsutta, opening a new chapter with eight individuals sorted "
+        "by a combinatorial matrix — trying or not for material things, "
+        "getting or not getting them, reacting badly or well — only the "
+        "reaction itself deciding who has fallen from the true teaching. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A combinatorial matrix of eight individuals, crossing "
+                 "effort, outcome, and reaction, each spelled out in full "
+                 "despite the repeating pattern"),
+        ("Length", "~3 minutes to read"),
+        ("Reaction is the only variable that matters", "Of the three axes "
+                                                        "crossed in this "
+                                                        "matrix — whether "
+                                                        "one tries, "
+                                                        "whether one gets, "
+                                                        "and how one "
+                                                        "reacts — only the "
+                                                        "third actually "
+                                                        "determines "
+                                                        "whether someone "
+                                                        "has fallen from "
+                                                        "the true teaching"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "repetitive by design; the combinatorial structure "
+                       "rewards mapping out all eight cases explicitly"),
+    ],
+    why=(
+        "AN 8.61 opens a new chapter by naming eight individuals found in "
+        "the world, sorted by crossing whether a secluded mendicant tries "
+        "for material things, whether those things actually come, and "
+        "whether the mendicant then reacts with sorrow or indulgence "
+        "&mdash; with only the reaction itself, not the trying or the "
+        "getting, determining whether that individual has fallen from the "
+        "true teaching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whether a secluded mendicant tries for material things or "
+            "not, and whether those things come or not, doesn't itself "
+            "decide whether they've fallen from the true teaching &mdash; "
+            "only their reaction does: sorrow at not getting, or "
+            "indulgent negligence at getting, marks a fall, while equanimity "
+            "in either outcome does not."]),
+        ("A matrix, not a simple list", [
+            "This discourse crosses three variables &mdash; trying or not "
+            "trying, getting or not getting, reacting badly or well "
+            "&mdash; producing eight individuals rather than eight "
+            "independent qualities. The first four combinations all react "
+            "badly (sorrow when unsuccessful, indulgence when successful) "
+            "and are declared fallen; the identical four combinations of "
+            "trying and getting, but reacting with equanimity instead, "
+            "are declared not fallen."]),
+        ("Trying and getting turn out not to matter", [
+            "The discourse's real point emerges only once all eight cases "
+            "are laid out side by side: whether someone tries hard for "
+            "material things, and whether those things actually arrive, "
+            "make no difference at all to whether they've fallen from the "
+            "true teaching. A mendicant who tries and fails but stays "
+            "equanimous hasn't fallen; a mendicant who never even tries "
+            "but sorrows anyway when nothing comes has."]),
+        ("Reaction as the single load-bearing variable", [
+            "Read as a complete set, these eight cases isolate reaction "
+            "&mdash; sorrow and indulgence versus equanimity &mdash; as "
+            "the only variable that actually determines spiritual "
+            "standing. Effort and outcome are real, and both are named "
+            "explicitly in every one of the eight cases, but neither one "
+            "is what the discourse is actually testing for."]),
+    ],
+    terms=[
+        ("paṭisallīno viharanto",
+         "&ldquo;stays secluded, living independently&rdquo; &mdash; the "
+         "shared starting condition of all eight individuals, before their "
+         "differing effort, outcome, and reaction."),
+        ("vāyamati, ussahati, vāyamaṁ karoti",
+         "&ldquo;tries hard, strives, and makes an effort&rdquo; &mdash; "
+         "the first variable crossed in this discourse's matrix."),
+        ("socati kilamati paridevati, urattāḷiṁ kandati, sammohaṁ "
+         "āpajjati",
+         "&ldquo;sorrows and wails and laments, beating their breast and "
+         "falling into confusion&rdquo; &mdash; one of the two reaction "
+         "types, marking a fall from the true teaching whenever it occurs."),
+        ("mucchito pamādamāpajjati",
+         "&ldquo;becomes indulgent and falls into negligence&rdquo; "
+         "&mdash; the other bad reaction, occurring only when material "
+         "things actually arrive."),
+        ("cuto ariyassa dhammavinayā",
+         "&ldquo;fallen from the true teaching&rdquo; &mdash; the "
+         "discourse's own verdict, determined entirely by reaction rather "
+         "than by effort or outcome."),
+    ],
+    text_intro=(
+        "The discourse in full: eight individuals crossing effort, "
+        "outcome, and reaction. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Four individuals who have fallen from the true teaching"),
+        ("p", "&sect;1", "an8.61:1.1-4.6"),
+        ("h3", "Four individuals who have not fallen"),
+        ("p", "&sect;2", "an8.61:5.1-9.1"),
+    ],
+    quiz=[
+        {"q": "What three variables does this discourse's matrix cross to "
+              "produce eight individuals?",
+         "opts": [
+             "Wealth, status, and education",
+             "Whether one tries for material things, whether those things "
+             "come, and how one reacts",
+             "Age, gender, and location",
+             "Physical strength, courage, and patience"],
+         "correct": 1,
+         "expl": "A combinatorial structure, not eight independent "
+                 "qualities."},
+        {"q": "According to the guide, which variable actually determines "
+              "whether someone has fallen from the true teaching?",
+         "opts": [
+             "Whether they tried hard for material things",
+             "Only their reaction — sorrow or indulgence versus "
+             "equanimity — regardless of effort or outcome",
+             "Whether they succeeded in getting material things",
+             "Their social status"],
+         "correct": 1,
+         "expl": "Effort and outcome are named in every case but turn out "
+                 "not to be what the discourse tests for."},
+        {"q": "What happens to a mendicant who tries hard, fails to get "
+              "material things, but doesn't sorrow?",
+         "opts": [
+             "They are declared fallen from the true teaching",
+             "They are declared not fallen, since equanimity is what "
+             "matters, not the failed effort",
+             "The discourse doesn't address this case",
+             "They must try again immediately"],
+         "correct": 1,
+         "expl": "One of the four cases in the 'not fallen' half of the "
+                 "matrix."},
+        {"q": "What marks the first four individuals as 'fallen from the "
+              "true teaching'?",
+         "opts": [
+             "Their social class",
+             "Reacting with sorrow when unsuccessful, or indulgent "
+             "negligence when successful",
+             "Living in seclusion at all",
+             "Desiring material things in the first place"],
+         "correct": 1,
+         "expl": "The bad-reaction half of the matrix, regardless of "
+                 "effort or outcome."},
+        {"q": "How many individuals does this discourse name in total?",
+         "opts": [
+             "Four", "Eight, crossing three variables",
+             "Two", "Sixteen"],
+         "correct": 1,
+         "expl": "A complete matrix of eight, not a partial list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("Three variables, eight individuals", [
+            "trying or not, getting or not,",
+            "reacting with sorrow, indulgence,",
+            "or equanimity — the matrix crossed",
+        ]),
+        ("Effort and outcome don't matter", [
+            "both named in every case,",
+            "but neither decides the verdict —",
+            "only the reaction does",
+        ]),
+        ("A new chapter opens", [
+            "Bhūmicālavagga begins",
+            "with a combinatorial teaching,",
+            "not a simple eightfold list",
+        ]),
+        ("Cross-references", [
+            "AN 8.60 &middot; earlier, closing the previous chapter",
+            "AN 8.62 &middot; next, a related combinatorial teaching about "
+            "self- and other-benefit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.61/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.60.html">AN 8.60 &middot; Eight Individuals (2nd)</a> &mdash; '
+        "earlier, closing the previous chapter.",
+        '<a href="an-8.62.html">AN 8.62 &middot; Good Enough</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.62 — Alaṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    62, "Alaṁ", "Good Enough",
+    vagga=VAGGA_7,
+    meta_title="AN 8.62 — Good Enough | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Alaṁsutta, an eight-case logical teaching on which combinations "
+        "of six qualities — quick-wittedness, memory, comprehension, "
+        "practice, eloquence, and inspiring others — suffice for one's own "
+        "benefit, others' benefit, both, or neither. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight logical cases, each naming a different subset of "
+                 "six underlying qualities, cascading from six qualities "
+                 "down through two"),
+        ("Length", "~3 minutes to read"),
+        ("Eight cases, not eight qualities", "Unlike most of this book's "
+                                             "eightfold lists, this "
+                                             "discourse's underlying "
+                                             "material is six qualities, "
+                                             "not eight — the &ldquo;eight"
+                                             "&rdquo; here counts logical "
+                                             "cases built from different "
+                                             "combinations of those six"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "most logically intricate discourse in this book so "
+                       "far, rewarding a careful case-by-case comparison"),
+    ],
+    why=(
+        "AN 8.62 works through eight combinations of six underlying "
+        "qualities &mdash; quick-wittedness, memory, comprehension of "
+        "meaning, practicing accordingly, eloquent speech, and inspiring "
+        "one's companions &mdash; showing which combinations make a "
+        "mendicant good enough for their own benefit, for others' "
+        "benefit, for both, or for neither."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Six underlying qualities combine in eight different ways "
+            "across this discourse's cases, and which subset a mendicant "
+            "has determines whether they are good enough for themselves "
+            "alone, for others alone, or for both &mdash; with "
+            "comprehension-and-practice serving one function and "
+            "eloquence-and-inspiration serving the other."]),
+        ("Six qualities, not eight, underlying eight cases", [
+            "The material this discourse works with is six qualities: "
+            "quick-wittedness, ready memory, examining meaning, practicing "
+            "in line with understanding, eloquent speech, and the ability "
+            "to inspire companions. The &ldquo;eight&rdquo; in this "
+            "chapter's theme counts the cases the discourse builds from "
+            "different combinations of these six, not the qualities "
+            "themselves."]),
+        ("A pattern emerges: comprehension for self, eloquence for others", [
+            "Working through all eight cases reveals a consistent split: "
+            "memory, examining meaning, and practicing accordingly serve "
+            "one's own benefit, while eloquent speech and the ability to "
+            "inspire serve others' benefit. Quick-wittedness turns out to "
+            "be optional in every single case &mdash; its presence or "
+            "absence never changes which verdict a case reaches."]),
+        ("Not every combination is possible", [
+            "The discourse doesn't test all mathematically possible "
+            "subsets of six qualities; it selects eight specific "
+            "combinations that actually occur, revealing through their "
+            "particular pairings (comprehension without eloquence; "
+            "eloquence without comprehension; both; neither) that "
+            "self-benefit and other-benefit are functionally independent "
+            "outcomes, not two names for the same underlying "
+            "accomplishment."]),
+    ],
+    terms=[
+        ("alaṁ attano, alaṁ parassa",
+         "&ldquo;good enough for themselves... good enough for "
+         "others&rdquo; &mdash; the discourse's own two independent "
+         "verdicts, this discourse's own title term."),
+        ("khippanisanti dhammesu",
+         "&ldquo;quick-witted when it comes to skillful teachings&rdquo; "
+         "&mdash; the one quality whose presence or absence never changes "
+         "any case's verdict, appearing and disappearing without effect."),
+        ("atthaṁ upaparikkhati",
+         "&ldquo;examines the meaning of teachings they've "
+         "memorized&rdquo; &mdash; one of the qualities this discourse "
+         "consistently ties to self-benefit rather than benefiting others."),
+        ("sāvake ovadati anusāsati",
+         "&ldquo;educates, encourages, fires up, and inspires their "
+         "spiritual companions&rdquo; &mdash; one of the qualities this "
+         "discourse consistently ties to benefiting others."),
+        ("cha dhammehi samannāgato, pañcahi dhammehi samannāgato",
+         "&ldquo;with six qualities... with five qualities&rdquo; &mdash; "
+         "the discourse's own cascading count, descending from six "
+         "qualities through five, four, three, and two across its eight "
+         "cases."),
+    ],
+    text_intro=(
+        "The discourse in full: eight cases built from six underlying "
+        "qualities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Six and five qualities: good enough for both"),
+        ("p", "&sect;1", "an8.62:1.1-2.9"),
+        ("h3", "Four qualities, split two ways"),
+        ("p", "&sect;2", "an8.62:3.1-4.9"),
+        ("h3", "Three qualities, split two ways"),
+        ("p", "&sect;3", "an8.62:5.1-6.9"),
+        ("h3", "Two qualities, split two ways"),
+        ("p", "&sect;4", "an8.62:7.1-8.9"),
+    ],
+    quiz=[
+        {"q": "How many underlying qualities does this discourse's "
+              "material actually consist of, despite its place in the "
+              "Book of the Eights?",
+         "opts": [
+             "Eight qualities directly", "Six qualities, combined into "
+                                          "eight different logical cases",
+             "Four qualities", "Twelve qualities"],
+         "correct": 1,
+         "expl": "The 'eight' counts cases built from combinations of six "
+                 "underlying qualities, not the qualities themselves."},
+        {"q": "According to the guide, what consistent pattern emerges "
+              "across the eight cases?",
+         "opts": [
+             "No pattern at all; the cases are random",
+             "Comprehension, memory, and practice serve self-benefit; "
+             "eloquence and inspiring others serve other-benefit",
+             "Only wealth determines the outcome",
+             "Physical strength determines both verdicts"],
+         "correct": 1,
+         "expl": "A functional split between qualities serving different "
+                 "verdicts."},
+        {"q": "What role does quick-wittedness play across all eight "
+              "cases?",
+         "opts": [
+             "It is the single most important quality",
+             "Its presence or absence never changes any case's verdict",
+             "It alone determines other-benefit",
+             "It is required for every single case"],
+         "correct": 1,
+         "expl": "An optional quality whose presence turns out not to be "
+                 "load-bearing."},
+        {"q": "What two independent verdicts does this discourse assess?",
+         "opts": [
+             "Wealth and poverty",
+             "Being good enough for oneself, and being good enough for "
+             "others — shown to be functionally independent",
+             "Ordination and lay status",
+             "Youth and old age"],
+         "correct": 1,
+         "expl": "Two separate outcomes, not two names for the same "
+                 "accomplishment."},
+        {"q": "How does this discourse select its eight cases?",
+         "opts": [
+             "By testing every mathematically possible combination of six "
+             "qualities",
+             "By selecting eight specific combinations that actually "
+             "occur and reveal the underlying pattern",
+             "Randomly, with no logical structure",
+             "By listing only positive combinations"],
+         "correct": 1,
+         "expl": "A deliberately chosen set, not an exhaustive combinatorial "
+                 "listing."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.61's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Six qualities, eight cases", [
+            "quick wit, memory, comprehension,",
+            "practice, eloquence, inspiring —",
+            "combined into eight logical tests",
+        ]),
+        ("A consistent split emerges", [
+            "comprehension serves the self,",
+            "eloquence serves others —",
+            "two independent verdicts",
+        ]),
+        ("One quality that never matters", [
+            "quick-wittedness comes and goes",
+            "across all eight cases —",
+            "never changing the outcome",
+        ]),
+        ("Cross-references", [
+            "AN 8.61 &middot; previous, a related combinatorial matrix of "
+            "eight individuals",
+            "AN 8.63 &middot; next, a request for a teaching in brief",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.62/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.61.html">AN 8.61 &middot; Desire</a> &mdash; previous.',
+        '<a href="an-8.63.html">AN 8.63 &middot; A Teaching in Brief</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.63 — Saṅkhittasutta
+# --------------------------------------------------------------------------- #
+page(
+    63, "Saṅkhitta", "A Teaching in Brief",
+    vagga=VAGGA_7,
+    meta_title="AN 8.63 — A Teaching in Brief | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saṅkhittasutta, a mendicant's request for brief teaching met "
+        "first with suspicion, then answered with a graduated path from "
+        "steadying the mind through the four immeasurables to the four "
+        "kinds of mindfulness meditation, ending in arahantship. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "An unnamed mendicant and the Buddha"),
+        ("Form", "A request rebuffed, then granted, followed by a "
+                 "graduated meditation instruction and a narrative close "
+                 "reporting the mendicant's own awakening"),
+        ("Length", "~3 minutes to read"),
+        ("A count that doesn't reach eight explicitly", "Neither the four "
+                                                         "immeasurables nor "
+                                                         "the four kinds "
+                                                         "of mindfulness "
+                                                         "meditation named "
+                                                         "here total eight "
+                                                         "on their own; "
+                                                         "this discourse "
+                                                         "belongs to the "
+                                                         "Book of the "
+                                                         "Eights by "
+                                                         "placement rather "
+                                                         "than by naming an "
+                                                         "explicit eightfold "
+                                                         "list"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "compressed but complete meditation manual, worth "
+                       "reading slowly"),
+    ],
+    why=(
+        "A mendicant asks for brief teaching so he can go meditate alone, "
+        "and the Buddha first suspects him of merely wanting an excuse to "
+        "follow him around; once reassured, the Buddha gives a graduated "
+        "sequence &mdash; steadying the mind, then the four immeasurables, "
+        "then the four kinds of mindfulness meditation &mdash; and the "
+        "mendicant, practicing accordingly, soon becomes an arahant."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Starting from a steady, settled mind free of unskillful "
+            "qualities, a mendicant should develop each of the four "
+            "immeasurable states &mdash; love, compassion, rejoicing, and "
+            "equanimity &mdash; through seven modes of increasing "
+            "refinement, then apply the same graduated development to the "
+            "four kinds of mindfulness meditation, arriving at complete "
+            "comfort in walking, standing, sitting, and lying down."]),
+        ("A rebuff, then a sincere renewal", [
+            "The Buddha's first response to the mendicant's request isn't "
+            "teaching at all, but a pointed accusation: some people ask "
+            "for brief teaching only to use it as an excuse to keep "
+            "following him around rather than actually practicing. Only "
+            "after the mendicant repeats his request with visible "
+            "sincerity &mdash; hoping to understand the meaning and become "
+            "an heir of the teaching &mdash; does the Buddha actually "
+            "answer."]),
+        ("A count that doesn't reach eight explicitly", [
+            "Despite this discourse's place in the Book of the Eights, "
+            "neither the four immeasurables nor the four kinds of "
+            "mindfulness meditation is itself an eightfold list; this "
+            "discourse, like several others in this collection, belongs "
+            "here by placement in the source anthology rather than by "
+            "presenting a clean count of eight."]),
+        ("Seven modes, applied twice over", [
+            "Both the four immeasurables and the four kinds of "
+            "mindfulness meditation are developed through the identical "
+            "seven-mode formula: with placing the mind and keeping it "
+            "connected, without placing but keeping connected, without "
+            "either, with rapture, without rapture, with pleasure, and "
+            "with equanimity &mdash; the same refinement sequence applied "
+            "twice to two different objects of meditation."]),
+    ],
+    terms=[
+        ("santaṁ vata me cittaṁ bhavissati susaṇṭhitaṁ ajjhattaṁ",
+         "&ldquo;my mind will be steady and well settled internally"
+         "&rdquo; &mdash; the discourse's own starting point, before any "
+         "of the four immeasurables are developed."),
+        ("mettāya cetovimuttiṁ bhāvessāmi",
+         "&ldquo;I will develop the heart's release by love&rdquo; "
+         "&mdash; the first of the four immeasurables, developed with the "
+         "same seven-mode refinement applied to each of the others."),
+        ("savitakkampi savicāraṁ bhāveyya, avitakkampi vicāramattaṁ "
+         "bhāveyya, avitakkampi avicāraṁ bhāveyya",
+         "the seven-mode refinement sequence, applied identically to each "
+         "of the four immeasurables and again to the four kinds of "
+         "mindfulness meditation."),
+        ("kāye kāyānupassī vihareyya ātāpī sampajāno satimā, vineyya "
+         "loke abhijjhādomanassaṁ",
+         "&ldquo;meditate observing an aspect of the body&mdash;keen, "
+         "aware, and mindful, rid of covetousness and displeasure&rdquo; "
+         "&mdash; the first of the four kinds of mindfulness meditation, "
+         "developed the same way as the immeasurables before it."),
+        ("etadeva bahulamakāsi",
+         "the aftermath in which the mendicant, given this graduated "
+         "advice, practices it thoroughly and soon realizes arahantship."),
+    ],
+    text_intro=(
+        "The discourse in full: a rebuffed and renewed request, a "
+        "graduated meditation instruction, and the mendicant's own "
+        "awakening. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A request, rebuffed and renewed"),
+        ("p", "&sect;1", "an8.63:1.1-1.6"),
+        ("h3", "A steady mind, then love"),
+        ("p", "&sect;2", "an8.63:1.7-3.1"),
+        ("h3", "Compassion, rejoicing, and equanimity"),
+        ("p", "&sect;3", "an8.63:4.1-5.1"),
+        ("h3", "The four kinds of mindfulness meditation"),
+        ("p", "&sect;4", "an8.63:6.1-9.1"),
+        ("h3", "Comfort in every posture, and the mendicant's awakening"),
+        ("p", "&sect;5", "an8.63:10.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha first respond to the mendicant's "
+              "request for brief teaching?",
+         "opts": [
+             "He grants it immediately",
+             "He suspects the mendicant of merely wanting an excuse to "
+             "follow him around rather than actually practicing",
+             "He refuses to speak at all",
+             "He asks the mendicant to teach him instead"],
+         "correct": 1,
+         "expl": "A pointed accusation, answered only after the mendicant "
+                 "renews his request sincerely."},
+        {"q": "What is the graduated sequence the Buddha eventually gives?",
+         "opts": [
+             "A single instruction with no further development",
+             "Steadying the mind, then the four immeasurables, then the "
+             "four kinds of mindfulness meditation",
+             "A list of monastic rules",
+             "Instructions for building a shrine"],
+         "correct": 1,
+         "expl": "A complete graduated path from settling the mind to "
+                 "full mindfulness practice."},
+        {"q": "According to the guide, does this discourse's actual content "
+              "total eight of anything explicitly?",
+         "opts": [
+             "Yes, exactly eight immeasurables",
+             "No — neither the four immeasurables nor the four kinds of "
+             "mindfulness meditation is itself an eightfold list",
+             "Yes, eight kinds of mindfulness",
+             "The discourse doesn't discuss any numbered lists"],
+         "correct": 1,
+         "expl": "A discourse included by placement, like several others "
+                 "in this collection."},
+        {"q": "What seven-mode formula is applied to both the "
+              "immeasurables and the mindfulness meditations?",
+         "opts": [
+             "A count of breaths",
+             "Placing/keeping connected, without placing, without either, "
+             "with rapture, without rapture, with pleasure, with "
+             "equanimity",
+             "A recitation of precepts",
+             "A physical posture sequence"],
+         "correct": 1,
+         "expl": "The same refinement sequence applied twice, to two "
+                 "different meditation objects."},
+        {"q": "What happens to the mendicant after receiving this advice?",
+         "opts": [
+             "Nothing further is recorded",
+             "He practices it thoroughly and soon realizes arahantship",
+             "He rejects the teaching",
+             "He asks for a different teaching instead"],
+         "correct": 1,
+         "expl": "The narrative frame closes with the mendicant's own "
+                 "successful practice."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Suspicion, then sincerity", [
+            "'some ask just to follow me' —",
+            "the request renewed, sincere —",
+            "then the Buddha actually answers",
+        ]),
+        ("A graduated sequence", [
+            "steady mind, then love,",
+            "compassion, joy, equanimity —",
+            "then the four mindfulnesses",
+        ]),
+        ("Seven modes, applied twice", [
+            "placing and connecting the mind,",
+            "rapture, pleasure, equanimity —",
+            "the same refinement, two objects",
+        ]),
+        ("Cross-references", [
+            "AN 8.62 &middot; previous, a logical teaching on self- and "
+            "other-benefit",
+            "AN 8.64 &middot; next, the Buddha's own account of purifying "
+            "his knowledge of deities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.63/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.62.html">AN 8.62 &middot; Good Enough</a> &mdash; previous.',
+        '<a href="an-8.64.html">AN 8.64 &middot; At Gayā Head</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.64 — Gayāsīsasutta -- a major autobiographical account of the
+# pre-awakening period, complementary to AN 8.11's three-knowledges account.
+# --------------------------------------------------------------------------- #
+page(
+    64, "Gayāsīsa", "At Gayā Head",
+    vagga=VAGGA_7,
+    meta_title="AN 8.64 — At Gayā Head | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gayāsīsasutta, the Buddha's own first-person account of "
+        "purifying his knowledge of deities through eight escalating "
+        "rounds before he would announce his awakening — complementary to "
+        "AN 8.11's three-knowledges account. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Gayā, on Gayā Head"),
+        ("Speakers", "The Buddha, in first-person autobiographical account"),
+        ("Form", "Eight escalating rounds, each adding one further "
+                 "refinement to a single ongoing process of purification"),
+        ("Length", "~3 minutes to read"),
+        ("Complementary to AN 8.11", "Where AN 8.11 gave the Buddha's own "
+                                     "account of the three knowledges of "
+                                     "his awakening night, this discourse "
+                                     "gives a parallel first-person "
+                                     "account focused specifically on "
+                                     "deities, structured as eight "
+                                     "explicit rounds rather than three "
+                                     "watches"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "cumulative, escalating structure where each round "
+                       "adds exactly one further refinement to the last"),
+    ],
+    why=(
+        "The Buddha describes, in his own first-person voice, purifying "
+        "his &ldquo;knowledge and vision&rdquo; about deities through "
+        "eight escalating rounds &mdash; from merely perceiving light, "
+        "through seeing forms, conversing with deities, learning their "
+        "origin, their karma, their food and feelings, their lifespan, "
+        "and finally whether he had previously lived among them &mdash; "
+        "declaring that he did not announce his awakening until all "
+        "eight were fully purified."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Before his awakening, the Buddha purified his knowledge and "
+            "vision of deities through eight cumulative rounds, each "
+            "adding exactly one further refinement to what he already "
+            "knew, and declared that he would not announce his "
+            "supreme awakening to the world until this eightfold "
+            "knowledge was completely purified."]),
+        ("An escalating structure, one refinement at a time", [
+            "Each round in this account follows an identical pattern: the "
+            "Buddha notices what his current knowledge lacks, reflects "
+            "that resolving it would further purify his knowledge and "
+            "vision, then achieves it after further diligent practice "
+            "&mdash; from perceiving light without seeing forms, to "
+            "seeing forms without engaging the deities behind them, to "
+            "conversing without knowing their origin, and onward through "
+            "knowledge of their karma, their food and feelings, their "
+            "lifespan, and finally whether he had lived among them "
+            "before."]),
+        ("Complementary to AN 8.11, not a repeat", [
+            "This discourse doesn't restate AN 8.11's three knowledges "
+            "&mdash; past lives, other beings' rebirth according to their "
+            "deeds, and the ending of defilements &mdash; but offers a "
+            "parallel first-person account focused specifically and only "
+            "on deities, structured around eight explicit rounds rather "
+            "than three watches of the awakening night, giving a "
+            "different, more granular window into the same pre-awakening "
+            "period."]),
+        ("Knowledge withheld until fully purified", [
+            "The discourse's own framing carries real weight: the Buddha "
+            "states plainly that he did not announce his awakening to the "
+            "world &mdash; with its gods, Māras, and divinities &mdash; "
+            "until every one of the eight rounds concerning deities was "
+            "complete, treating this specific knowledge as a genuine "
+            "precondition for the announcement, not a minor detail."]),
+    ],
+    terms=[
+        ("obhāsañceva sañjānāmi, na ca rūpāni passāmi",
+         "&ldquo;I perceived light but did not see forms&rdquo; &mdash; "
+         "the Buddha's own starting point, before the first of the eight "
+         "rounds is completed."),
+        ("ñāṇadassanaṁ visujjheyya",
+         "&ldquo;my knowledge and vision would become even more "
+         "purified&rdquo; &mdash; the refrain closing each stage of "
+         "reflection, before the next round is achieved through further "
+         "practice."),
+        ("kismiṁ nu kho devanikāye ito cutā upapannā",
+         "part of the third round, learning which specific orders of "
+         "gods particular deities belong to, once mere conversation with "
+         "them was no longer enough."),
+        ("ahosiṁ nu kho ahaṁ tehi devehi saddhiṁ",
+         "&ldquo;whether or not I had previously lived together with "
+         "those deities&rdquo; &mdash; the eighth and final round, "
+         "closing the entire sequence."),
+        ("na tāvāhaṁ ... anuttaraṁ sammāsambodhiṁ abhisambuddhoti "
+         "paccaññāsiṁ",
+         "&ldquo;I didn't announce my supreme perfect awakening&rdquo; "
+         "&mdash; the Buddha's own statement that this eightfold "
+         "knowledge was a genuine precondition, not withheld arbitrarily."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's own first-person account of "
+        "eight escalating rounds of purified knowledge about deities. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first two rounds: light, then forms"),
+        ("p", "&sect;1", "an8.64:1.1-3.2"),
+        ("h3", "The third and fourth rounds: conversation, then origin"),
+        ("p", "&sect;2", "an8.64:4.1-7.6"),
+        ("h3", "The fifth through eighth rounds"),
+        ("p", "&sect;3", "an8.64:7.7-9.5"),
+        ("h3", "The announcement, once fully purified"),
+        ("p", "&sect;4", "an8.64:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What is the Buddha's own starting point in this account, "
+              "before any of the eight rounds is completed?",
+         "opts": [
+             "He already sees deities clearly",
+             "He perceives light but doesn't see forms",
+             "He knows nothing about deities at all",
+             "He has already completed the first round"],
+         "correct": 1,
+         "expl": "The account's own opening condition, refined "
+                 "progressively through eight rounds."},
+        {"q": "What pattern does each of the eight rounds follow?",
+         "opts": [
+             "A random, unstructured sequence",
+             "Noticing a lack, reflecting that resolving it would purify "
+             "knowledge further, then achieving it through diligent "
+             "practice",
+             "A single instantaneous realization with no development",
+             "A dialogue with another person"],
+         "correct": 1,
+         "expl": "An identical cumulative structure repeated across all "
+                 "eight rounds."},
+        {"q": "How does this discourse relate to AN 8.11's own account of "
+              "the awakening?",
+         "opts": [
+             "It simply repeats AN 8.11's three knowledges",
+             "It is complementary — a parallel first-person account "
+             "focused specifically on deities, structured around eight "
+             "rounds rather than three watches",
+             "It contradicts AN 8.11 entirely",
+             "It has no relation to AN 8.11"],
+         "correct": 1,
+         "expl": "A different, more granular window into the same "
+                 "pre-awakening period."},
+        {"q": "What is the eighth and final round of knowledge purified?",
+         "opts": [
+             "The deities' names",
+             "Whether the Buddha had previously lived together with those "
+             "deities",
+             "The deities' physical appearance",
+             "The deities' language"],
+         "correct": 1,
+         "expl": "The closing round, completing the eightfold sequence."},
+        {"q": "What does the Buddha say about announcing his awakening "
+              "before this eightfold knowledge was purified?",
+         "opts": [
+             "He announced it immediately regardless",
+             "He did not announce his supreme awakening until this "
+             "eightfold knowledge concerning deities was fully purified",
+             "The discourse doesn't address the announcement at all",
+             "He announced it before purifying any of the eight rounds"],
+         "correct": 1,
+         "expl": "A genuine precondition, stated plainly in the "
+                 "discourse's own closing lines."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove", "Gayā, on Gayā Head",
+             "Rājagaha, on Vulture's Peak", "Vesālī, at the Great Wood"],
+         "correct": 1,
+         "expl": "A location distinct from most of this book's other "
+                 "settings."},
+    ],
+    marginalia=[
+        ("Eight rounds, cumulative", [
+            "light, then forms, then speech,",
+            "origin, karma, food and feeling,",
+            "lifespan, then shared past lives",
+        ]),
+        ("Complementary to AN 8.11", [
+            "not a repeat, but a parallel —",
+            "eight rounds on deities alone,",
+            "not the three knowledges' full sweep",
+        ]),
+        ("Withheld until complete", [
+            "no announcement made",
+            "until all eight were purified —",
+            "a genuine precondition, not a detail",
+        ]),
+        ("Cross-references", [
+            "AN 8.63 &middot; previous, a mendicant's own graduated path "
+            "to awakening",
+            "AN 8.11 &middot; earlier, the Buddha's own account of the "
+            "three knowledges",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.64/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.63.html">AN 8.63 &middot; A Teaching in Brief</a> &mdash; previous.',
+        '<a href="an-8.11.html">AN 8.11 &middot; At Verañjā</a> &mdash; earlier, the '
+        "Buddha's own account of the three knowledges.",
+        '<a href="an-8.65.html">AN 8.65 &middot; Dimensions of Mastery</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.65 — Abhibhāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    65, "Abhibhāyatana", "Dimensions of Mastery",
+    vagga=VAGGA_7,
+    meta_title="AN 8.65 — Dimensions of Mastery | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Abhibhāyatanasutta, a classic list of eight meditative dimensions "
+        "of mastery over perceived form, moving from limited and "
+        "limitless external forms through the four color kasinas. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight dimensions, each following the identical "
+                 "'perceiving/not perceiving... mastering them, they "
+                 "perceive: I know and see' formula"),
+        ("Length", "~1 minute to read"),
+        ("A foundational, widely referenced meditation topic", "The eight "
+                                                                "dimensions "
+                                                                "of mastery "
+                                                                "are a "
+                                                                "classic "
+                                                                "topic in "
+                                                                "this "
+                                                                "literature's "
+                                                                "meditation "
+                                                                "typology, "
+                                                                "closely "
+                                                                "related to "
+                                                                "the eight "
+                                                                "liberations "
+                                                                "at AN "
+                                                                "8.66, "
+                                                                "immediately "
+                                                                "following"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "terse and technical, best understood by tracking "
+                       "the pattern's own internal variables"),
+    ],
+    why=(
+        "AN 8.65 names eight dimensions of meditative mastery over "
+        "perceived form &mdash; internal perception with limited or "
+        "limitless external forms, no internal perception with limited or "
+        "limitless external forms, and finally no internal perception "
+        "with each of four external colors, blue, yellow, red, and white."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight dimensions of mastery progress through combinations of "
+            "internal versus absent internal form-perception, limited "
+            "versus limitless external forms, and finally four specific "
+            "colors &mdash; blue, yellow, red, white &mdash; each "
+            "dimension marked by the meditator's own confident "
+            "declaration, &ldquo;I know and see.&rdquo;"]),
+        ("Two variables, crossed across the first four dimensions", [
+            "The first four dimensions cross two variables: whether form "
+            "is perceived internally at all, and whether the external "
+            "forms seen are limited or limitless in scope. All four "
+            "dimensions include both pretty and ugly forms within their "
+            "scope, testing whether the meditator's mastery holds across "
+            "that entire aesthetic range."]),
+        ("Four colors, closing the sequence", [
+            "The final four dimensions drop the internal/external "
+            "distinction of the first four and instead specify four pure "
+            "colors in turn &mdash; blue, yellow, red, white &mdash; each "
+            "described identically apart from its color, forming the "
+            "basis for what later tradition develops into the color "
+            "kasina meditations."]),
+        ("Mastery, not mere perception", [
+            "Every one of the eight dimensions closes with the identical "
+            "phrase, &ldquo;mastering them, they perceive: 'I know and "
+            "see,'&rdquo; distinguishing this practice from simply "
+            "perceiving forms passively &mdash; the discourse's own "
+            "emphasis falls on active mastery over what's perceived, not "
+            "merely on the perception itself."]),
+    ],
+    terms=[
+        ("abhibhāyatanāni",
+         "&ldquo;dimensions of mastery&rdquo; &mdash; this discourse's "
+         "own title term, active control over what's perceived rather "
+         "than passive perception."),
+        ("ajjhattaṁ rūpasaññī",
+         "&ldquo;perceiving form internally&rdquo; &mdash; the variable "
+         "distinguishing the first two dimensions from the third and "
+         "fourth."),
+        ("parittāni suvaṇṇadubbaṇṇāni, appamāṇāni suvaṇṇadubbaṇṇāni",
+         "&ldquo;limited, both pretty and ugly&rdquo; and &ldquo;limitless, "
+         "both pretty and ugly&rdquo; &mdash; the scope variable crossed "
+         "against internal perception in the first four dimensions."),
+        ("nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni",
+         "&ldquo;blue, with blue color and blue appearance&rdquo; "
+         "&mdash; the fifth dimension, the first of four pure-color "
+         "dimensions closing the sequence."),
+        ("abhibhuyya jānāmi passāmī'ti saññī hoti",
+         "&ldquo;mastering them, they perceive: 'I know and see'&rdquo; "
+         "&mdash; the identical closing declaration for all eight "
+         "dimensions, emphasizing active mastery."),
+    ],
+    text_intro=(
+        "The discourse in full: eight dimensions of mastery over perceived "
+        "form. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first four dimensions: internal perception crossed "
+               "with scope"),
+        ("p", "&sect;1", "an8.65:1.1-4.3"),
+        ("h3", "The final four dimensions: four pure colors"),
+        ("p", "&sect;2", "an8.65:5.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What two variables are crossed across the first four "
+              "dimensions of mastery?",
+         "opts": [
+             "Wealth and poverty",
+             "Whether form is perceived internally, and whether external "
+             "forms seen are limited or limitless",
+             "Age and gender",
+             "Physical strength and endurance"],
+         "correct": 1,
+         "expl": "A combinatorial structure similar to other 'crossed "
+                 "variable' teachings in this book."},
+        {"q": "What do the final four dimensions specify, replacing the "
+              "internal/external distinction?",
+         "opts": [
+             "Four specific sounds",
+             "Four pure colors — blue, yellow, red, and white",
+             "Four physical postures",
+             "Four monastic robes"],
+         "correct": 1,
+         "expl": "The basis for what later tradition develops into the "
+                 "color kasina meditations."},
+        {"q": "What phrase closes every one of the eight dimensions "
+              "identically?",
+         "opts": [
+             "'This is impermanent'",
+             "'Mastering them, they perceive: I know and see'",
+             "'This is not mine'",
+             "'This leads to suffering'"],
+         "correct": 1,
+         "expl": "Emphasizing active mastery over what's perceived, not "
+                 "passive perception."},
+        {"q": "According to the guide, what does this discourse emphasize "
+              "over mere perception?",
+         "opts": [
+             "Speed of perception",
+             "Active mastery over what's perceived",
+             "The number of forms perceived",
+             "The meditator's physical location"],
+         "correct": 1,
+         "expl": "The discourse's own repeated closing phrase makes this "
+                 "emphasis explicit."},
+        {"q": "What range of forms does each of the first four dimensions "
+              "cover?",
+         "opts": [
+             "Only pretty forms",
+             "Both pretty and ugly forms, testing whether mastery holds "
+             "across the entire aesthetic range",
+             "Only ugly forms",
+             "No specific range is mentioned"],
+         "correct": 1,
+         "expl": "A deliberately full aesthetic range, not a filtered "
+                 "selection."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Two variables, four dimensions", [
+            "internal or not, limited",
+            "or limitless — both pretty",
+            "and ugly forms, mastered",
+        ]),
+        ("Four colors, closing", [
+            "blue, yellow, red, white —",
+            "each identically described,",
+            "the seed of the color kasinas",
+        ]),
+        ("Mastery, not mere seeing", [
+            "'I know and see' — active",
+            "control over the perceived,",
+            "not passive observation",
+        ]),
+        ("Cross-references", [
+            "AN 8.64 &middot; previous, the Buddha's own eight rounds of "
+            "purified knowledge",
+            "AN 8.66 &middot; next, the closely related eight liberations",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.65/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.64.html">AN 8.64 &middot; At Gayā Head</a> &mdash; previous.',
+        '<a href="an-8.66.html">AN 8.66 &middot; Liberations</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.66 — Vimokkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    66, "Vimokkha", "Liberations",
+    vagga=VAGGA_7,
+    meta_title="AN 8.66 — Liberations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vimokkhasutta, the eight classic liberations, ascending from "
+        "ordinary form-perception through the four formless dimensions to "
+        "the cessation of perception and feeling. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eight liberations in strict ascending sequence, the "
+                 "first three named briefly, the remaining five each "
+                 "explicitly building on 'going totally beyond' the one "
+                 "before it"),
+        ("Length", "under 1 minute to read"),
+        ("A companion list to AN 8.65", "The eight liberations and the "
+                                        "eight dimensions of mastery at AN "
+                                        "8.65 are closely related "
+                                        "meditation topics in this "
+                                        "literature's own typology, often "
+                                        "discussed together as related but "
+                                        "distinct sequences"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; terse "
+                       "and technical, an ascending sequence worth tracing "
+                       "step by step"),
+    ],
+    why=(
+        "AN 8.66 names the eight liberations in ascending sequence: seeing "
+        "forms while having physical form, seeing external forms without "
+        "perceiving form internally, focusing only on beauty, then the "
+        "four formless dimensions &mdash; infinite space, infinite "
+        "consciousness, nothingness, neither perception nor non-perception "
+        "&mdash; and finally the cessation of perception and feeling."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight liberations ascend from ordinary embodied "
+            "perception of form, through progressively more refined "
+            "states of form-perception and pure aesthetic focus, into the "
+            "four formless meditative dimensions, culminating in the "
+            "complete cessation of perception and feeling itself."]),
+        ("Three form-based liberations, briefly stated", [
+            "The first three liberations are each named in a single "
+            "terse line: having physical form and seeing forms; not "
+            "perceiving form internally while seeing forms externally; "
+            "and being focused only on beauty. Unlike the eight "
+            "dimensions of mastery at AN 8.65, these opening liberations "
+            "receive no elaboration on scope or aesthetic range."]),
+        ("Four formless dimensions, each explicitly transcending the last", [
+            "From the fourth liberation onward, the discourse's own "
+            "language makes the ascending structure explicit: each "
+            "formless dimension is reached by &ldquo;going totally "
+            "beyond&rdquo; perceptions of the one before it &mdash; "
+            "beyond form to infinite space, beyond infinite space to "
+            "infinite consciousness, beyond that to nothingness, and "
+            "beyond that to neither perception nor non-perception."]),
+        ("The eighth liberation, beyond perception itself", [
+            "The sequence's final step goes further than any refinement "
+            "of perception: the eighth liberation is the cessation of "
+            "perception and feeling entirely, not a subtler object to be "
+            "perceived but the ending of the perceiving-and-feeling "
+            "process itself, closing a sequence that has moved "
+            "consistently toward less and less content, not more."]),
+    ],
+    terms=[
+        ("vimokkhā",
+         "&ldquo;liberations&rdquo; &mdash; this discourse's own title "
+         "term, an ascending sequence of meditative states rather than a "
+         "single moment of release."),
+        ("rūpī rūpāni passati",
+         "&ldquo;having physical form, they see forms&rdquo; &mdash; the "
+         "first liberation, ordinary embodied perception of form."),
+        ("subhanteva adhimutto hoti",
+         "&ldquo;they're focused only on beauty&rdquo; &mdash; the third "
+         "liberation, a pure aesthetic focus preceding the formless "
+         "dimensions."),
+        ("sabbaso rūpasaññānaṁ samatikkamā ... ākāsānañcāyatanaṁ "
+         "upasampajja viharati",
+         "&ldquo;going totally beyond perceptions of form... they enter "
+         "and remain in the dimension of infinite space&rdquo; &mdash; "
+         "the fourth liberation, the first of the four formless "
+         "dimensions."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati",
+         "&ldquo;they enter and remain in the cessation of perception and "
+         "feeling&rdquo; &mdash; the eighth and final liberation, going "
+         "beyond perception itself rather than refining it further."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight liberations in ascending "
+        "sequence. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three form-based liberations"),
+        ("p", "&sect;1", "an8.66:1.1-3.2"),
+        ("h3", "Four formless dimensions, each beyond the last"),
+        ("p", "&sect;2", "an8.66:4.1-7.2"),
+        ("h3", "The cessation of perception and feeling"),
+        ("p", "&sect;3", "an8.66:8.1-8.3"),
+    ],
+    quiz=[
+        {"q": "What are the first three liberations, briefly stated?",
+         "opts": [
+             "The five hindrances, negated",
+             "Having physical form and seeing forms; not perceiving form "
+             "internally while seeing forms externally; and being "
+             "focused only on beauty",
+             "The seven factors of awakening",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "Three terse form-based liberations, opening the "
+                 "ascending sequence."},
+        {"q": "What language makes the ascending structure explicit from "
+              "the fourth liberation onward?",
+         "opts": [
+             "No particular language marks the progression",
+             "Each formless dimension is reached by 'going totally "
+             "beyond' perceptions of the one before it",
+             "A count of breaths",
+             "A description of physical posture"],
+         "correct": 1,
+         "expl": "An explicit transcendence formula linking each formless "
+                 "dimension to the one preceding it."},
+        {"q": "What are the four formless dimensions in this sequence?",
+         "opts": [
+             "The four elements: earth, water, fire, air",
+             "Infinite space, infinite consciousness, nothingness, and "
+             "neither perception nor non-perception",
+             "The four noble truths",
+             "The four kinds of mindfulness meditation"],
+         "correct": 1,
+         "expl": "Four progressively more refined formless meditative "
+                 "states."},
+        {"q": "What is the eighth and final liberation?",
+         "opts": [
+             "An even more refined perception",
+             "The cessation of perception and feeling entirely",
+             "A return to ordinary form-perception",
+             "Physical death"],
+         "correct": 1,
+         "expl": "Not a subtler object to perceive, but the ending of the "
+                 "perceiving-and-feeling process itself."},
+        {"q": "How does this discourse relate to AN 8.65's eight "
+              "dimensions of mastery?",
+         "opts": [
+             "They are unrelated topics",
+             "They are closely related meditation topics in this "
+             "literature's typology, often discussed together as related "
+             "but distinct sequences",
+             "They directly contradict each other",
+             "This discourse simply repeats AN 8.65"],
+         "correct": 1,
+         "expl": "Companion lists, immediately adjacent in this chapter."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.65's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("Three form-based liberations", [
+            "seeing forms with form,",
+            "seeing without internal form,",
+            "focused only on beauty",
+        ]),
+        ("Four formless, each beyond the last", [
+            "infinite space, infinite mind,",
+            "nothingness, neither-nor —",
+            "each explicitly transcending the one before",
+        ]),
+        ("Cessation, not further refinement", [
+            "the eighth goes beyond",
+            "perception itself entirely —",
+            "less content, not more",
+        ]),
+        ("Cross-references", [
+            "AN 8.65 &middot; previous, the closely related eight "
+            "dimensions of mastery",
+            "AN 8.67 &middot; next, eight ignoble expressions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.66/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.65.html">AN 8.65 &middot; Dimensions of Mastery</a> &mdash; previous.',
+        '<a href="an-8.67.html">AN 8.67 &middot; Ignoble Expressions</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.67 — Anariyavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    67, "Anariyavohāra", "Ignoble Expressions",
+    vagga=VAGGA_7,
+    meta_title="AN 8.67 — Ignoble Expressions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anariyavohārasutta, eight ignoble expressions built from a "
+        "simple 4×2 structure: claiming to have or not have seen, heard, "
+        "thought, or known something, falsely. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A compact 4×2 combinatorial structure, stated in a "
+                 "single sentence"),
+        ("Length", "a few seconds to read"),
+        ("The most compact discourse in this chapter", "Where several "
+                                                        "discourses in "
+                                                        "this book take "
+                                                        "paragraphs to "
+                                                        "enumerate eight "
+                                                        "items, this one "
+                                                        "compresses all "
+                                                        "eight into a "
+                                                        "single sentence "
+                                                        "crossing four "
+                                                        "categories with "
+                                                        "two directions of "
+                                                        "falsehood"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and logically clean, best read alongside AN 8.68's "
+                       "own mirror-image structure"),
+    ],
+    why=(
+        "AN 8.67 names eight ignoble expressions, built from a single "
+        "compact structure: falsely claiming to have seen, heard, thought, "
+        "or known something you haven't, and falsely claiming not to have "
+        "seen, heard, thought, or known something you have."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight ignoble expressions arise from crossing four "
+            "categories of experience &mdash; seeing, hearing, thinking, "
+            "and knowing &mdash; against two directions of falsehood: "
+            "claiming something happened when it didn't, and claiming "
+            "something didn't happen when it did."]),
+        ("A 4×2 structure, not eight separate lies", [
+            "Rather than naming eight unrelated falsehoods, this "
+            "discourse crosses four categories of experience against two "
+            "directions of misrepresentation, producing exactly eight "
+            "combinations from a structure that could be stated in a "
+            "single short sentence."]),
+        ("Four categories spanning all channels of knowing", [
+            "Seeing, hearing, thinking, and knowing together cover the "
+            "full range of how a person comes to claim awareness of "
+            "something &mdash; direct sensory experience (seeing, "
+            "hearing), and internal cognitive processes (thinking, "
+            "knowing) &mdash; leaving no channel of claimed experience "
+            "untouched by the discourse's own scope."]),
+        ("Two directions, both equally ignoble", [
+            "The discourse treats false claiming and false denying as "
+            "equally ignoble, not weighting one direction as worse than "
+            "the other &mdash; overclaiming experience one doesn't have "
+            "and underclaiming experience one does have are named "
+            "together as the same category of falsehood."]),
+    ],
+    terms=[
+        ("anariyā vohārā",
+         "&ldquo;ignoble expressions&rdquo; &mdash; this discourse's own "
+         "title term, contrasted directly with AN 8.68's noble "
+         "expressions immediately following."),
+        ("adiṭṭhe diṭṭhavāditā",
+         "&ldquo;saying you've seen something, but you haven't&rdquo; "
+         "&mdash; the overclaiming direction, applied to the first of the "
+         "four categories."),
+        ("diṭṭhe adiṭṭhavāditā",
+         "&ldquo;saying you haven't seen something, and you have&rdquo; "
+         "&mdash; the underclaiming direction, the mirror image of the "
+         "first."),
+        ("suta, muta, viññāta",
+         "&ldquo;heard, thought, known&rdquo; &mdash; the remaining three "
+         "categories, each crossed against the same two directions of "
+         "falsehood as seeing."),
+        ("vohārā",
+         "&ldquo;expressions&rdquo; &mdash; a term for speech acts or "
+         "verbal claims, the discourse's own subject matter throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: eight ignoble expressions, crossing four "
+        "categories against two directions of falsehood. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight ignoble expressions"),
+        ("p", "&sect;1", "an8.67:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What structure produces this discourse's eight ignoble "
+              "expressions?",
+         "opts": [
+             "Eight entirely separate, unrelated falsehoods",
+             "Four categories of experience (seeing, hearing, thinking, "
+             "knowing) crossed against two directions of falsehood",
+             "A random list with no underlying structure",
+             "Eight different social classes"],
+         "correct": 1,
+         "expl": "A compact 4x2 combinatorial structure, not eight "
+                 "independent items."},
+        {"q": "What are the four categories of experience named?",
+         "opts": [
+             "Wealth, status, education, and beauty",
+             "Seeing, hearing, thinking, and knowing",
+             "Faith, ethics, generosity, and wisdom",
+             "Birth, aging, illness, and death"],
+         "correct": 1,
+         "expl": "Together spanning direct sensory experience and "
+                 "internal cognitive processes."},
+        {"q": "What two directions of falsehood does the discourse treat "
+              "as equally ignoble?",
+         "opts": [
+             "Only overclaiming, since underclaiming is harmless",
+             "Falsely claiming something happened, and falsely claiming "
+             "something didn't happen",
+             "Only underclaiming, since overclaiming is harmless",
+             "Neither direction is actually addressed"],
+         "correct": 1,
+         "expl": "Overclaiming and underclaiming named together as the "
+                 "same category of falsehood."},
+        {"q": "How does this discourse compare in length to most others in "
+              "this chapter?",
+         "opts": [
+             "It is the longest discourse in the chapter",
+             "It is among the most compact, stating all eight in a single "
+             "short sentence",
+             "It is of average length",
+             "It has no measurable length difference"],
+         "correct": 1,
+         "expl": "A structure compact enough to state very briefly."},
+        {"q": "How does this discourse relate to AN 8.68, immediately "
+              "following it?",
+         "opts": [
+             "No relation at all",
+             "AN 8.68 presents the mirror-image structure: noble "
+             "expressions, truthfully claiming or denying",
+             "AN 8.68 contradicts this discourse's teaching",
+             "AN 8.68 is unrelated to truth-telling"],
+         "correct": 1,
+         "expl": "A deliberately paired contrast, false versus truthful "
+                 "claims."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this chapter."},
+    ],
+    marginalia=[
+        ("Four categories, two directions", [
+            "seeing, hearing, thinking, knowing —",
+            "falsely claimed, or falsely denied —",
+            "eight from one compact structure",
+        ]),
+        ("Both directions, equally ignoble", [
+            "overclaiming what didn't happen,",
+            "underclaiming what did —",
+            "named together, not ranked",
+        ]),
+        ("This chapter's most compact teaching", [
+            "all eight in one sentence —",
+            "a structure, not a list",
+            "to be memorized item by item",
+        ]),
+        ("Cross-references", [
+            "AN 8.66 &middot; previous, the eight liberations",
+            "AN 8.68 &middot; next, the mirror-image noble expressions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.67/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.66.html">AN 8.66 &middot; Liberations</a> &mdash; previous.',
+        '<a href="an-8.68.html">AN 8.68 &middot; Noble Expressions</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.68 — Ariyavohārasutta
+# --------------------------------------------------------------------------- #
+page(
+    68, "Ariyavohāra", "Noble Expressions",
+    vagga=VAGGA_7,
+    meta_title="AN 8.68 — Noble Expressions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Ariyavohārasutta, the exact mirror image of AN 8.67: eight noble "
+        "expressions built from truthfully claiming or denying having "
+        "seen, heard, thought, or known something. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical 4×2 structure as AN 8.67, with truthful "
+                 "rather than false claims"),
+        ("Length", "a few seconds to read"),
+        ("A deliberate mirror, not a variant", "Every category and every "
+                                               "direction in this "
+                                               "discourse matches AN "
+                                               "8.67's structure exactly; "
+                                               "only truthfulness replaces "
+                                               "falsehood, a symmetry this "
+                                               "reading guide treats as "
+                                               "the pairing's own point"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "identical in structure to AN 8.67, best read "
+                       "immediately after it"),
+    ],
+    why=(
+        "AN 8.68 names eight noble expressions, the exact structural "
+        "mirror of AN 8.67's ignoble ones: truthfully claiming not to "
+        "have seen, heard, thought, or known something when you haven't, "
+        "and truthfully claiming to have when you have."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eight noble expressions arise from the same 4x2 structure as "
+            "AN 8.67's ignoble ones &mdash; four categories of experience "
+            "crossed against two directions of claim &mdash; but here "
+            "every claim matches the actual facts: denying what didn't "
+            "happen, and affirming what did."]),
+        ("An exact structural mirror", [
+            "This discourse changes nothing about AN 8.67's underlying "
+            "structure &mdash; the same four categories (seeing, hearing, "
+            "thinking, knowing), the same two directions of claim "
+            "(affirming, denying). The only change is that every claim "
+            "now accurately tracks reality rather than misrepresenting it."]),
+        ("Truthfulness as simple correspondence", [
+            "Nothing in this discourse frames noble speech as requiring "
+            "eloquence, tact, or diplomatic softening &mdash; the entire "
+            "content of &ldquo;noble expression&rdquo; here is simple "
+            "correspondence between what one claims and what actually "
+            "happened, in either direction, across all four categories of "
+            "experience."]),
+        ("A pair that makes truthfulness structurally visible", [
+            "Read together, AN 8.67 and AN 8.68 make truthfulness "
+            "visible as a structural property rather than a vague virtue: "
+            "the identical eight-slot grid can be filled with lies or "
+            "with truth, and nothing about the grid itself changes "
+            "&mdash; only whether each claim actually matches what "
+            "happened."]),
+    ],
+    terms=[
+        ("ariyā vohārā",
+         "&ldquo;noble expressions&rdquo; &mdash; this discourse's own "
+         "title term, the exact structural mirror of AN 8.67's ignoble "
+         "expressions."),
+        ("adiṭṭhe adiṭṭhavāditā",
+         "&ldquo;saying you haven't seen something, and you haven't&rdquo; "
+         "&mdash; the first noble expression, truthful denial matching "
+         "AN 8.67's first ignoble expression's false affirmation."),
+        ("diṭṭhe diṭṭhavāditā",
+         "&ldquo;saying you've seen something, and you have&rdquo; "
+         "&mdash; the mirror truthful affirmation, completing the first "
+         "pair."),
+        ("suta, muta, viññāta",
+         "&ldquo;heard, thought, known&rdquo; &mdash; the same three "
+         "remaining categories as AN 8.67, each crossed against truthful "
+         "affirmation and truthful denial."),
+        ("vohārā",
+         "&ldquo;expressions&rdquo; &mdash; the identical subject term as "
+         "AN 8.67, now applied to accurate rather than false claims."),
+    ],
+    text_intro=(
+        "The discourse in full: eight noble expressions, the mirror image "
+        "of AN 8.67. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight noble expressions"),
+        ("p", "&sect;1", "an8.68:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to AN 8.67's?",
+         "opts": [
+             "Entirely different",
+             "The identical 4x2 structure — four categories crossed "
+             "against two directions of claim — with truthfulness "
+             "replacing falsehood",
+             "This discourse has only four expressions, not eight",
+             "The two discourses share nothing"],
+         "correct": 1,
+         "expl": "An exact structural mirror, changing only whether "
+                 "claims match reality."},
+        {"q": "What does this discourse's framing of 'noble expression' "
+              "consist of?",
+         "opts": [
+             "Eloquent, diplomatically softened speech",
+             "Simple correspondence between what one claims and what "
+             "actually happened, in either direction",
+             "Speech that avoids all difficult topics",
+             "Speech given only by monastics"],
+         "correct": 1,
+         "expl": "Truthfulness as accurate correspondence, not as tact or "
+                 "eloquence."},
+        {"q": "What four categories does this discourse share with AN "
+              "8.67?",
+         "opts": [
+             "Wealth, status, education, and beauty",
+             "Seeing, hearing, thinking, and knowing",
+             "Faith, ethics, generosity, and wisdom",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "The identical four categories, now crossed against "
+                 "truthful rather than false claims."},
+        {"q": "According to the guide, what does reading AN 8.67 and AN "
+              "8.68 together make visible?",
+         "opts": [
+             "That truthfulness is an arbitrary social convention",
+             "That truthfulness is a structural property — the same "
+             "eight-slot grid filled with lies or with truth",
+             "That the two discourses contradict each other",
+             "That only some categories require truthfulness"],
+         "correct": 1,
+         "expl": "A structural, not merely moralistic, way of "
+                 "understanding truthful versus false speech."},
+        {"q": "What is the first noble expression named?",
+         "opts": [
+             "Saying you've seen something you haven't",
+             "Saying you haven't seen something, and you haven't",
+             "Refusing to speak at all",
+             "Speaking only in riddles"],
+         "correct": 1,
+         "expl": "A truthful denial, mirroring AN 8.67's first ignoble "
+                 "expression."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.67's own lack of a stated "
+                 "setting."},
+    ],
+    marginalia=[
+        ("The identical grid, truthfully filled", [
+            "seeing, hearing, thinking, knowing —",
+            "affirmed or denied, but now",
+            "matching what actually happened",
+        ]),
+        ("Truthfulness as correspondence", [
+            "not eloquence, not tact —",
+            "simply: does the claim match",
+            "what actually occurred?",
+        ]),
+        ("A pair making truth structural", [
+            "the same eight-slot grid",
+            "filled with lies, or with truth —",
+            "only the correspondence changes",
+        ]),
+        ("Cross-references", [
+            "AN 8.67 &middot; previous, the mirror-image ignoble "
+            "expressions",
+            "AN 8.69 &middot; next, the eight assemblies the Buddha "
+            "recalls approaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.68/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.67.html">AN 8.67 &middot; Ignoble Expressions</a> &mdash; previous.',
+        '<a href="an-8.69.html">AN 8.69 &middot; Assemblies</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.69 — Parisāsutta
+# --------------------------------------------------------------------------- #
+page(
+    69, "Parisā", "Assemblies",
+    vagga=VAGGA_7,
+    meta_title="AN 8.69 — Assemblies | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Parisāsutta, the Buddha's own account of approaching eight kinds "
+        "of assembly — from aristocrats to Māras to divinities — matching "
+        "his appearance and voice to each while teaching, then vanishing "
+        "leaving them uncertain whether he was god or human. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, in first-person autobiographical "
+                     "account"),
+        ("Form", "Eight assemblies named, then a single episode described "
+                 "in full for the first and compressed by ellipsis for the "
+                 "remaining seven"),
+        ("Length", "~2 minutes to read"),
+        ("Related to AN 8.64's own deity account", "This discourse "
+                                                    "extends the Buddha's "
+                                                    "own first-person "
+                                                    "account of "
+                                                    "interacting with "
+                                                    "beings beyond the "
+                                                    "human realm, met "
+                                                    "already at AN 8.64, "
+                                                    "now widened to eight "
+                                                    "kinds of assembly "
+                                                    "spanning both human "
+                                                    "society and several "
+                                                    "orders of gods and "
+                                                    "Māras"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "vivid account, notable for what it says about "
+                       "adaptability and for the deliberate ambiguity the "
+                       "Buddha leaves behind him"),
+    ],
+    why=(
+        "The Buddha recalls approaching eight kinds of assembly &mdash; "
+        "aristocrats, brahmins, householders, ascetics, the gods of the "
+        "four great kings, the gods of the thirty-three, Māras, and "
+        "divinities &mdash; in each case sitting, conversing, and "
+        "teaching until his own appearance and voice matched theirs, then "
+        "vanishing afterward so thoroughly that none of them ever knew "
+        "whether they'd been speaking with a god or a human."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The Buddha recalls approaching eight distinct kinds of "
+            "assembly &mdash; four human and four divine or demonic "
+            "&mdash; and in every single case, his own appearance and "
+            "voice became just like theirs while he taught, and he "
+            "vanished afterward leaving each assembly permanently unsure "
+            "whether they had been addressed by a god or a human."]),
+        ("Eight assemblies, spanning human and beyond", [
+            "The eight named assemblies move outward from ordinary human "
+            "society &mdash; aristocrats, brahmins, householders, "
+            "ascetics &mdash; into progressively less familiar company: "
+            "the gods of the four great kings, the gods of the "
+            "thirty-three, Māras, and finally divinities (the Brahmā "
+            "realm), together spanning the full range of beings this "
+            "literature recognizes as capable of receiving a Dhamma talk."]),
+        ("Matching appearance and voice, in every single case", [
+            "The identical detail recurs across all eight assemblies: the "
+            "Buddha's own appearance and voice became just like those of "
+            "whichever assembly he addressed &mdash; a capacity for "
+            "adaptation the discourse states plainly and without further "
+            "explanation, applied uniformly whether the audience was "
+            "human, divine, or demonic."]),
+        ("Vanishing into deliberate ambiguity", [
+            "The discourse's own emphasis falls less on the teaching "
+            "given than on what happened after: in every one of the eight "
+            "cases, once the Buddha finished speaking and vanished, the "
+            "assembly was left permanently unable to determine whether "
+            "they had just been taught by a god or a human &mdash; an "
+            "ambiguity the account presents as consistent and "
+            "intentional, not accidental."]),
+    ],
+    terms=[
+        ("khattiyaparisā, brāhmaṇaparisā, gahapatiparisā, "
+         "samaṇaparisā",
+         "&ldquo;the assemblies of aristocrats, brahmins, householders, "
+         "and ascetics&rdquo; &mdash; the four human assemblies opening "
+         "the list."),
+        ("cātumahārājikaparisā, tāvatiṁsaparisā, māraparisā, "
+         "brahmaparisā",
+         "&ldquo;an assembly of the gods of the four great kings... the "
+         "thirty-three... Māras... divinities&rdquo; &mdash; the four "
+         "non-human assemblies closing the list."),
+        ("tādisova me vaṇṇo hoti, tādisī me byappathi",
+         "&ldquo;my appearance and voice became just like theirs&rdquo; "
+         "&mdash; the identical adaptive detail recurring across all "
+         "eight assemblies."),
+        ("ko nu kho ayaṁ bhāsati devo vā manusso vā",
+         "&ldquo;who is this that speaks? Is it a god or a human?&rdquo; "
+         "&mdash; the question each assembly is left with, unresolved, "
+         "after the Buddha vanishes."),
+        ("antaradhāyāmi",
+         "&ldquo;I vanished&rdquo; &mdash; the Buddha's own action "
+         "closing each of the eight encounters, leaving the deliberate "
+         "ambiguity behind him."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's own account of approaching "
+        "eight kinds of assembly. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eight assemblies, named"),
+        ("p", "&sect;1", "an8.69:1.1-1.3"),
+        ("h3", "The first assembly, in full"),
+        ("p", "&sect;2", "an8.69:1.4-1.12"),
+        ("h3", "The remaining seven assemblies"),
+        ("p", "&sect;3", "an8.69:2.1-2.16"),
+    ],
+    quiz=[
+        {"q": "What eight assemblies does the Buddha recall approaching?",
+         "opts": [
+             "Eight different human kingdoms",
+             "Aristocrats, brahmins, householders, ascetics, the gods of "
+             "the four great kings, the gods of the thirty-three, Māras, "
+             "and divinities",
+             "The eight individuals of the noble Saṅgha",
+             "Eight different meditation teachers"],
+         "correct": 1,
+         "expl": "Four human assemblies and four non-human ones, spanning "
+                 "the full range of possible audiences."},
+        {"q": "What detail recurs identically across all eight assemblies?",
+         "opts": [
+             "The Buddha always remained silent",
+             "His own appearance and voice became just like theirs while "
+             "he taught",
+             "He always refused to teach",
+             "He always brought gifts"],
+         "correct": 1,
+         "expl": "A capacity for adaptation stated plainly across every "
+                 "single encounter."},
+        {"q": "What happens after the Buddha finishes teaching and "
+              "vanishes, in every case?",
+         "opts": [
+             "The assembly immediately recognizes him as the Buddha",
+             "The assembly is left permanently unable to determine "
+             "whether they'd been addressed by a god or a human",
+             "The assembly becomes angry",
+             "Nothing further is recorded"],
+         "correct": 1,
+         "expl": "A deliberate ambiguity the account presents as "
+                 "consistent, not accidental."},
+        {"q": "How does this discourse relate to AN 8.64, earlier in this "
+              "chapter?",
+         "opts": [
+             "No relation at all",
+             "It extends the Buddha's own first-person account of "
+             "interacting with non-human beings, now widened to eight "
+             "kinds of assembly",
+             "It directly contradicts AN 8.64",
+             "AN 8.64 doesn't mention deities at all"],
+         "correct": 1,
+         "expl": "A related first-person account, widening the earlier "
+                 "discourse's focus on deities specifically."},
+        {"q": "How does the source text handle the seven assemblies after "
+              "the first?",
+         "opts": [
+             "Each is described in full, identical detail",
+             "They are compressed by internal ellipsis, trusting the "
+             "reader to apply the same details described for the first",
+             "They are omitted entirely",
+             "They are described with entirely different details"],
+         "correct": 1,
+         "expl": "A self-abbreviation pattern met elsewhere in this book."},
+        {"q": "What question is each assembly left with?",
+         "opts": [
+             "'What is the meaning of suffering?'",
+             "'Who is this that speaks? Is it a god or a human?'",
+             "'Where did he come from?'",
+             "'When will he return?'"],
+         "correct": 1,
+         "expl": "The unresolved question closing each of the eight "
+                 "encounters."},
+    ],
+    marginalia=[
+        ("Eight assemblies, human and beyond", [
+            "aristocrats, brahmins,",
+            "householders, ascetics —",
+            "four kings' gods, thirty-three, Māras, Brahmā",
+        ]),
+        ("Matching appearance and voice", [
+            "the same detail, eight times —",
+            "adapted to whoever listens,",
+            "human, divine, or demonic",
+        ]),
+        ("Vanishing into ambiguity", [
+            "'was it a god or a human?' —",
+            "left unresolved every time,",
+            "deliberately, not by accident",
+        ]),
+        ("Cross-references", [
+            "AN 8.68 &middot; previous, noble expressions",
+            "AN 8.64 &middot; earlier, the Buddha's own account of "
+            "purifying his knowledge of deities",
+            "AN 8.70 &middot; next, closing this chapter with the great "
+            "earthquake",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.69/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.68.html">AN 8.68 &middot; Noble Expressions</a> &mdash; previous.',
+        '<a href="an-8.64.html">AN 8.64 &middot; At Gayā Head</a> &mdash; earlier, the '
+        "Buddha's own account of purifying his knowledge of deities.",
+        '<a href="an-8.70.html">AN 8.70 &middot; Earthquakes</a> &mdash; next, closing this '
+        "chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.70 — Bhūmicālasutta — closes ch.7 Bhūmicālavagga, its own namesake.
+# One of the canon's most significant narrative discourses: the Buddha's
+# decision to relinquish the life force, closely paralleling DN 16
+# (Mahāparinibbānasutta). Presented with the full weight this moment
+# carries, without sentimentalizing it.
+# --------------------------------------------------------------------------- #
+page(
+    70, "Bhūmicāla", "Earthquakes",
+    vagga=VAGGA_7,
+    meta_title="AN 8.70 — Earthquakes | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhūmicālasutta, this chapter's own namesake: the Buddha's "
+        "decision to relinquish the life force after Ānanda misses three "
+        "clear hints, Māra's request, the great earthquake, and the eight "
+        "causes and reasons for such earthquakes — closely paralleling DN "
+        "16. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, then the Cāpāla Shrine"),
+        ("Speakers", "The Buddha, Venerable Ānanda, and Māra the Wicked"),
+        ("Form", "A narrative in five movements — three missed hints, "
+                 "Ānanda's dismissal, Māra's request, the Buddha's "
+                 "decision and the earthquake, and finally the eight "
+                 "causes of earthquakes generally"),
+        ("Length", "~6 minutes to read"),
+        ("This chapter's own namesake, and a major turning point", "This "
+                                                                   "discourse "
+                                                                   "gives "
+                                                                   "the "
+                                                                   "chapter, "
+                                                                   "Bhūmicāla"
+                                                                   "vagga, "
+                                                                   "its "
+                                                                   "name, and "
+                                                                   "closely "
+                                                                   "parallels "
+                                                                   "the "
+                                                                   "opening "
+                                                                   "of DN 16, "
+                                                                   "the "
+                                                                   "Mahāparini"
+                                                                   "bbāna "
+                                                                   "Sutta, "
+                                                                   "recounting "
+                                                                   "the same "
+                                                                   "pivotal "
+                                                                   "moment "
+                                                                   "from a "
+                                                                   "different "
+                                                                   "collection"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "emotionally and doctrinally weighty; this reading "
+                       "guide presents the narrative with the full weight "
+                       "it carries, without sentimentalizing it"),
+    ],
+    why=(
+        "Three times the Buddha drops an unmistakable hint that he could, "
+        "if asked, choose to live out a full lifespan, and three times "
+        "Ānanda &mdash; his mind as if possessed by Māra &mdash; fails to "
+        "ask; once Ānanda leaves, Māra himself asks the Buddha to become "
+        "fully extinguished, and the Buddha, judging that his fourfold "
+        "community of disciples is now established, agrees to die in "
+        "three months, at which point the earth shakes with a great "
+        "earthquake, prompting the Buddha to name the eight causes and "
+        "reasons for such earthquakes in general."),
+    guide=[
+        ("The teaching in one sentence", [
+            "After Ānanda fails three times to ask the Buddha to remain "
+            "for a full lifespan despite an unmistakable hint each time, "
+            "Māra himself asks the Buddha to become fully extinguished, "
+            "and the Buddha &mdash; judging his fourfold community of "
+            "disciples now well established and his teaching successfully "
+            "spread &mdash; agrees to die in three months, an act that "
+            "triggers a great earthquake, occasioning the Buddha's own "
+            "explanation of the eight general causes of such earthquakes."]),
+        ("Three missed hints, and a mind possessed by Māra", [
+            "Three times the Buddha tells Ānanda, almost in passing, that "
+            "whoever has developed the four bases of psychic power could "
+            "choose to live out a full lifespan &mdash; and that he "
+            "himself has developed them. Three times Ānanda fails to "
+            "grasp what's being offered and doesn't beg him to remain, "
+            "the text stating plainly that his mind was &ldquo;as if "
+            "possessed by Māra&rdquo; &mdash; not a personal failing "
+            "softened or excused, but named directly."]),
+        ("Māra's request, and a decision already ready to be made", [
+            "Once Ānanda has left, Māra approaches directly and asks the "
+            "Buddha to die now, citing the Buddha's own earlier statement "
+            "that he would not do so until he had competent, established "
+            "monk, nun, layman, and laywoman disciples, and until his "
+            "spiritual path was successful and widespread &mdash; "
+            "conditions Māra argues, and the Buddha does not dispute, are "
+            "now fully met."]),
+        ("Surrendering the life force, and eight causes of earthquakes", [
+            "The Buddha's own response to Māra is measured, not "
+            "urgent: &ldquo;the full extinguishment of the Realized One "
+            "will be soon... three months from now.&rdquo; At the moment "
+            "he mindfully surrenders the life force itself, a great "
+            "earthquake occurs; when Ānanda later asks the cause, the "
+            "Buddha answers not narrowly about this one earthquake but "
+            "generally, naming eight causes and reasons for great "
+            "earthquakes &mdash; physical, meditative, and marking the "
+            "major turning points of a Buddha's own life, from conception "
+            "through final extinguishment."]),
+    ],
+    terms=[
+        ("iddhipādā",
+         "&ldquo;the bases of psychic power&rdquo; &mdash; the meditative "
+         "development the Buddha names as what would let him choose to "
+         "live out a full lifespan, the hint Ānanda fails three times to "
+         "grasp."),
+        ("māravasaṁvattiko viya",
+         "&ldquo;as if possessed by Māra&rdquo; &mdash; the text's own "
+         "description of Ānanda's mind at each of the three missed hints, "
+         "stated directly rather than softened."),
+        ("āyusaṅkhāraṁ ossajji",
+         "&ldquo;surrendered the life force&rdquo; &mdash; the Buddha's "
+         "own decisive act, at the Cāpāla Shrine, the moment that "
+         "triggers the great earthquake."),
+        ("ito tiṇṇaṁ māsānaṁ accayena tathāgato parinibbāyissati",
+         "&ldquo;three months from now the Realized One will be fully "
+         "extinguished&rdquo; &mdash; the Buddha's own measured answer to "
+         "Māra, setting the timeframe for what follows."),
+        ("aṭṭha imāni ... bhūmicālassa hetū paccayā",
+         "&ldquo;these eight causes and reasons for a great "
+         "earthquake&rdquo; &mdash; the Buddha's own generalizing answer "
+         "to Ānanda, moving from this one earthquake to the full "
+         "typology, closing both this discourse and the chapter it names."),
+    ],
+    text_intro=(
+        "The discourse in full: three missed hints, Māra's request, the "
+        "Buddha's decision and the earthquake, and the eight general "
+        "causes of earthquakes. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three missed hints"),
+        ("p", "&sect;1", "an8.70:1.1-4.8"),
+        ("h3", "Māra's request"),
+        ("p", "&sect;2", "an8.70:5.1-9.1"),
+        ("h3", "The Buddha's decision, and the earthquake"),
+        ("p", "&sect;3", "an8.70:9.2-10.7"),
+        ("h3", "Ānanda asks the cause"),
+        ("p", "&sect;4", "an8.70:11.1-13.4"),
+        ("h3", "Eight causes and reasons for a great earthquake"),
+        ("p", "&sect;5", "an8.70:14.1-21.3"),
+    ],
+    quiz=[
+        {"q": "What hint does the Buddha give Ānanda three times, and how "
+              "does Ānanda respond?",
+         "opts": [
+             "That he wants to travel; Ānanda immediately begs him not to",
+             "That whoever has developed the four bases of psychic power "
+             "could live out a full lifespan, and that he himself has "
+             "developed them; Ānanda fails to grasp the hint each time",
+             "That he is unwell; Ānanda calls for a physician",
+             "That he wants Ānanda to succeed him; Ānanda refuses"],
+         "correct": 1,
+         "expl": "An unmistakable hint, missed three times, with the text "
+                 "explicitly naming Ānanda's mind as 'possessed by Māra.'"},
+        {"q": "What does Māra ask the Buddha to do, and on what grounds?",
+         "opts": [
+             "To ordain more monks",
+             "To become fully extinguished now, since the Buddha's own "
+             "earlier conditions for doing so — established disciples, a "
+             "successful and widespread teaching — are now met",
+             "To travel to a new country",
+             "To silence Ānanda"],
+         "correct": 1,
+         "expl": "A request the Buddha does not dispute the factual basis "
+                 "of, though he sets his own timeframe."},
+        {"q": "What is the Buddha's own response to Māra's request?",
+         "opts": [
+             "He refuses outright",
+             "He agrees, setting the timeframe himself: three months from "
+             "now",
+             "He asks Māra to leave without answering",
+             "He defers the decision to Ānanda"],
+         "correct": 1,
+         "expl": "A measured, deliberate answer, not an immediate or "
+                 "urgent one."},
+        {"q": "What happens at the moment the Buddha surrenders the life "
+              "force?",
+         "opts": [
+             "Nothing observable occurs",
+             "A great earthquake, awe-inspiring and hair-raising, with "
+             "thunder cracking the sky",
+             "A rainstorm begins",
+             "Ānanda immediately understands and objects"],
+         "correct": 1,
+         "expl": "A dramatic physical sign accompanying the decisive "
+                 "moment."},
+        {"q": "How does the Buddha answer Ānanda's question about the "
+              "earthquake's cause?",
+         "opts": [
+             "He refuses to explain",
+             "He generalizes beyond this one earthquake, naming eight "
+             "causes and reasons for great earthquakes overall, including "
+             "physical causes and the major turning points of a Buddha's "
+             "life",
+             "He blames Māra entirely",
+             "He says earthquakes have no cause"],
+         "correct": 1,
+         "expl": "A move from the particular event to a general typology, "
+                 "closing this chapter."},
+        {"q": "What does this discourse's title give to the chapter it "
+              "closes, and what does it parallel elsewhere in the canon?",
+         "opts": [
+             "Nothing in particular; there is no parallel",
+             "It gives Bhūmicālavagga its own name, and closely parallels "
+             "the opening of DN 16, the Mahāparinibbāna Sutta",
+             "It parallels the Dhammapada",
+             "It has no connection to any other text"],
+         "correct": 1,
+         "expl": "A pivotal narrative recounted in more than one "
+                 "collection."},
+    ],
+    marginalia=[
+        ("Three hints, missed", [
+            "'I could live a full lifespan' —",
+            "said three times, unheard three times —",
+            "'his mind as if possessed by Māra'",
+        ]),
+        ("Māra asks, the Buddha answers", [
+            "'now is the time' — Māra says —",
+            "the Buddha doesn't dispute it,",
+            "but sets his own three months",
+        ]),
+        ("The life force surrendered", [
+            "mindful, aware — then the earth",
+            "shakes, awe-inspiring, hair-raising —",
+            "thunder cracking the sky",
+        ]),
+        ("Cross-references", [
+            "AN 8.69 &middot; previous, the eight assemblies",
+            "AN 8.61 &middot; earlier, opening this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.70/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.69.html">AN 8.69 &middot; Assemblies</a> &mdash; previous.',
+        '<a href="an-8.61.html">AN 8.61 &middot; Desire</a> &mdash; earlier, opening this '
+        "chapter.",
+    ],
+)
