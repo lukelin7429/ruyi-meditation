@@ -9592,3 +9592,1599 @@ page(
         "qualities, in their original six-item form.",
     ],
 )
+
+
+VAGGA_6 = "<em>Sacittavagga</em> &mdash; the sixth chapter of the Tens, opening the Second Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.51 — Sacittasutta
+# --------------------------------------------------------------------------- #
+page(
+    51, "Sacitta", "Your Own Mind",
+    vagga=VAGGA_6,
+    meta_title="AN 10.51 — Your Own Mind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sacittasutta, opening the Second Fifty with the famous "
+        "mirror simile: a mendicant checking their own mind against "
+        "ten qualities, the way one checks a reflection for dirt. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A simile, a ten-part checklist, and a branching "
+                 "response"),
+        ("Length", "~2 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the new chapter, <em>Sacittavagga</em>, "
+                               "the Chapter on One's Own Mind, opening "
+                               "the Second Fifty of the Tens"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid, memorable simile"),
+    ],
+    why=(
+        "If a mendicant cannot yet read another's mind, the Buddha "
+        "says, they should at least master reading their own &mdash; "
+        "checking it the way a vain young person checks their "
+        "reflection for dirt, against ten paired qualities, and "
+        "responding with urgency if anything is found wanting."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant unable to read another's mind should train "
+            "to read their own, checking it as one checks a "
+            "reflection in a mirror against ten paired qualities "
+            "&mdash; covetous or not, malicious or not, dull or not, "
+            "restless or not, doubtful or not, irritable or not, "
+            "corrupted or not, disturbed or not, lazy or energetic, "
+            "unsettled or immersed &mdash; and responding with urgency "
+            "if anything is found wanting."]),
+        ("A fallback skill, named first", [
+            "The discourse opens by naming a harder skill it is not "
+            "actually about: reading <em>another's</em> mind "
+            "(<em>paracitta</em>). Only a mendicant who lacks that "
+            "ability is instructed to fall back on the more accessible "
+            "skill this discourse actually teaches &mdash; reading "
+            "one's own."]),
+        ("The mirror, checked without vanity", [
+            "The simile deliberately borrows an image of ordinary "
+            "vanity &mdash; a young person fond of adornments checking "
+            "a mirror for blemishes &mdash; and repurposes it for "
+            "ethical self-examination: the same habitual, unselfconscious "
+            "act of checking, redirected from appearance to the state "
+            "of one's own mind."]),
+        ("Urgency modeled on catching fire", [
+            "Should the check turn up any of the five bad qualities, "
+            "the response demanded is not measured effort but the "
+            "same extraordinary urgency one would apply to "
+            "extinguishing a fire on one's own clothes or head &mdash; "
+            "one of this canon's most physical images of spiritual "
+            "urgency."]),
+    ],
+    terms=[
+        ("sacittapariyāyakusalo",
+         "&ldquo;skilled in encompassing one's own mind&rdquo; "
+         "&mdash; this discourse's own title and central skill."),
+        ("paracittapariyāyakusalo",
+         "&ldquo;skilled in encompassing another's mind&rdquo; "
+         "&mdash; the harder ability named first, whose absence "
+         "triggers this discourse's fallback instruction."),
+        ("ādittacelo vā ādittasīso vā",
+         "&ldquo;clothes or head were on fire&rdquo; &mdash; the "
+         "simile for the urgency demanded when bad qualities are "
+         "found."),
+        ("abhijjhālu, byāpannacitto, thinamiddhapariyuṭṭhito",
+         "&ldquo;covetous, malicious, overcome with dullness and "
+         "drowsiness&rdquo; &mdash; the first three of the five "
+         "paired qualities checked for."),
+        ("kodhano, saṅkiliṭṭhacitto, sāraddhakāyo",
+         "&ldquo;irritable, corrupted in mind, disturbed in "
+         "body&rdquo; &mdash; three more of the ten paired qualities "
+         "checked for."),
+    ],
+    text_intro=(
+        "The discourse in full: the setting, the fallback principle, "
+        "and the mirror simile with its ten-part checklist. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Setting, and the fallback principle"),
+        ("p", "&sect;1", "an10.51:1.1-2.1"),
+        ("h3", "The mirror simile"),
+        ("p", "&sect;2", "an10.51:3.1-3.6"),
+        ("h3", "Two branching responses"),
+        ("p", "&sect;3", "an10.51:4.1-5.2"),
+    ],
+    quiz=[
+        {"q": "What skill does this discourse actually teach?",
+         "opts": [
+             "Reading another's mind directly",
+             "Reading one's own mind, as a fallback for those who "
+             "cannot yet read another's",
+             "Predicting future events",
+             "Interpreting dreams"],
+         "correct": 1,
+         "expl": "The more accessible of two named skills, taught as "
+                 "a fallback."},
+        {"q": "What simile does the Buddha use for this "
+              "self-checking?",
+         "opts": [
+             "A ship navigating by the stars",
+             "A young person checking their reflection in a mirror "
+             "for dirt or blemish",
+             "A farmer inspecting crops",
+             "A physician diagnosing illness"],
+         "correct": 1,
+         "expl": "An image of ordinary vanity repurposed for ethical "
+                 "self-examination."},
+        {"q": "What response does the Buddha demand if the check "
+              "finds bad qualities?",
+         "opts": [
+             "A gradual, unhurried effort over many years",
+             "The same extraordinary urgency one would apply to "
+             "putting out a fire on one's own clothes or head",
+             "No response is needed",
+             "Reporting it to a senior mendicant only"],
+         "correct": 1,
+         "expl": "One of this canon's most physical images of "
+                 "spiritual urgency."},
+        {"q": "According to the guide, what harder skill is named "
+              "first in this discourse, though not actually taught?",
+         "opts": [
+             "Reading another's mind (paracitta)",
+             "Levitation",
+             "Predicting the weather",
+             "Memorizing scripture instantly"],
+         "correct": 0,
+         "expl": "This discourse's fallback instruction is triggered "
+                 "by lacking that harder ability."},
+        {"q": "What does this discourse contribute to its chapter?",
+         "opts": [
+             "Nothing in particular",
+             "Its own subject, giving the new chapter its name, "
+             "Sacittavagga, and opening the Second Fifty of the Tens",
+             "A place name",
+             "A closing colophon"],
+         "correct": 1,
+         "expl": "As with every chapter-opener in this nipāta, the "
+                 "discourse names its own chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 0,
+         "expl": "A specific, named setting, opening the new chapter."},
+    ],
+    marginalia=[
+        ("A mirror for the mind", [
+            "check your reflection &mdash;",
+            "not for dirt on skin, but",
+            "covetous or calm",
+        ]),
+        ("A fallback, named first", [
+            "reading minds is hard;",
+            "if you can't read another's,",
+            "at least read your own",
+        ]),
+        ("Urgency of fire", [
+            "clothes ablaze, head ablaze &mdash;",
+            "that same haste applied to",
+            "a mind found wanting",
+        ]),
+        ("Cross-references", [
+            "AN 10.50 &middot; previous, closing the First Fifty",
+            "AN 10.52 &middot; next, the same teaching from Sāriputta",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.51/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.50.html">AN 10.50 &middot; Fights</a> &mdash; previous, closing the '
+        "First Fifty.",
+        '<a href="an-10.52.html">AN 10.52 &middot; With Sāriputta</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.52 — Sāriputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    52, "Sāriputta", "With Sāriputta",
+    vagga=VAGGA_6,
+    meta_title="AN 10.52 — With Sāriputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāriputtasutta, in which Sāriputta teaches the assembly "
+        "the identical mirror simile just given by the Buddha in AN "
+        "10.51, in his own voice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Presumably the same as AN 10.51, though no new "
+                     "setting is stated"),
+        ("Speakers", "Sāriputta, addressing the mendicants directly"),
+        ("Form", "The identical simile and checklist from AN 10.51, "
+                 "with minor lexical variants"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar ground immediately after AN 10.51"),
+    ],
+    why=(
+        "Where AN 10.51 gave the mirror simile in the Buddha's own "
+        "voice, this discourse hands the identical teaching to "
+        "Sāriputta, who addresses the mendicants directly, "
+        "unprompted &mdash; a twin discourse illustrating a senior "
+        "disciple restating the Teacher's own words."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sāriputta gives the mendicants the same instruction just "
+            "heard from the Buddha: a mendicant unable to read "
+            "another's mind should check their own, the way one "
+            "checks a mirror for blemishes, against the same ten "
+            "paired qualities."]),
+        ("Nearly word for word, with small variants", [
+            "The content is substantially identical to AN 10.51, "
+            "down to the fire simile for urgency &mdash; but a few "
+            "words shift in translation (&ldquo;irritable&rdquo; "
+            "becomes &ldquo;angry&rdquo; in one restatement, "
+            "&ldquo;overcome with&rdquo; becomes &ldquo;rid of&rdquo; "
+            "in another), the kind of small lexical drift natural to "
+            "an independently transmitted repetition rather than a "
+            "mechanically copied one."]),
+        ("A disciple's voice, not a demotion", [
+            "Sāriputta addresses the mendicants as &ldquo;Reverends&rdquo; "
+            "rather than the Buddha's &ldquo;Mendicants,&rdquo; and "
+            "speaks entirely in his own right, with no indication the "
+            "Buddha authorized or was even present for this restatement "
+            "&mdash; the teaching's authority rests on Sāriputta's own "
+            "standing as chief disciple, not on relayed permission."]),
+    ],
+    terms=[
+        ("āvuso",
+         "&ldquo;reverend&rdquo; &mdash; Sāriputta's own form of "
+         "address to the mendicants, distinct from the Buddha's "
+         "&ldquo;bhikkhave.&rdquo;"),
+        ("sacittapariyāyakusalo",
+         "&ldquo;skilled in the ways of one's own mind&rdquo; &mdash; "
+         "the same central skill as AN 10.51, restated here by "
+         "Sāriputta."),
+        ("uddhato, vicikiccho",
+         "&ldquo;restless, doubtful&rdquo; &mdash; two more of the "
+         "ten paired qualities, identical in Pāli to AN 10.51's own "
+         "list."),
+        ("kusīto, āraddhavīriyo",
+         "&ldquo;lazy, energetic&rdquo; &mdash; another pair from the "
+         "same identical ten-item list."),
+        ("samāhito, asamāhito",
+         "&ldquo;immersed in samādhi, not immersed&rdquo; &mdash; the "
+         "tenth and final pair, closing the checklist."),
+    ],
+    text_intro=(
+        "The discourse in full, spoken by Sāriputta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta addresses the assembly"),
+        ("p", "&sect;1", "an10.52:1.1-2.1"),
+        ("h3", "The mirror simile, restated"),
+        ("p", "&sect;2", "an10.52:3.1-4.2"),
+        ("h3", "Two branching responses"),
+        ("p", "&sect;3", "an10.52:5.1-6.2"),
+    ],
+    quiz=[
+        {"q": "Who teaches in this discourse?",
+         "opts": [
+             "The Buddha, as in AN 10.51",
+             "Sāriputta, addressing the mendicants directly",
+             "Ānanda",
+             "Upāli"],
+         "correct": 1,
+         "expl": "A senior disciple restating the Buddha's own recent "
+                 "teaching."},
+        {"q": "How does this discourse's content compare to AN "
+              "10.51's?",
+         "opts": [
+             "Completely unrelated",
+             "Substantially identical, with small lexical variants "
+             "natural to an independent retelling",
+             "A contradiction of AN 10.51",
+             "A much shorter summary"],
+         "correct": 1,
+         "expl": "The same mirror simile and ten-part checklist, "
+                 "nearly word for word."},
+        {"q": "What form of address does Sāriputta use for the "
+              "mendicants, according to the guide?",
+         "opts": [
+             "The Buddha's own &ldquo;bhikkhave&rdquo;",
+             "&ldquo;Reverends&rdquo; (āvuso), his own distinct form "
+             "of address",
+             "No address is used",
+             "He addresses only Ānanda"],
+         "correct": 1,
+         "expl": "A small but telling marker of a disciple's own "
+                 "voice, not a copied script."},
+        {"q": "According to the guide, on what does the authority of "
+              "this restatement rest?",
+         "opts": [
+             "Explicit permission from the Buddha stated in the text",
+             "Sāriputta's own standing as chief disciple, with no "
+             "indication of relayed permission",
+             "A vote among the mendicants",
+             "It has no particular authority"],
+         "correct": 1,
+         "expl": "Sāriputta speaks in his own right."},
+    ],
+    marginalia=[
+        ("The same teaching, twice", [
+            "the Buddha spoke it;",
+            "now Sāriputta gives it &mdash;",
+            "nearly word for word",
+        ]),
+        ("A disciple's own voice", [
+            "&ldquo;Reverends&rdquo; not "
+            "&ldquo;Mendicants&rdquo; &mdash;",
+            "small signs of someone",
+            "speaking in their own right",
+        ]),
+        ("Identical in Pāli", [
+            "the words don't differ &mdash;",
+            "only the English's own",
+            "small, natural drift",
+        ]),
+        ("Cross-references", [
+            "AN 10.51 &middot; Your Own Mind, the identical teaching "
+            "in the Buddha's own voice",
+            "AN 10.53 &middot; next, Stagnation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.51.html">AN 10.51 &middot; Your Own Mind</a> &mdash; the identical '
+        "teaching, in the Buddha's own voice.",
+        '<a href="an-10.53.html">AN 10.53 &middot; Stagnation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.53 — Ṭhitisutta
+# --------------------------------------------------------------------------- #
+page(
+    53, "Ṭhiti", "Stagnation",
+    vagga=VAGGA_6,
+    meta_title="AN 10.53 — Stagnation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ṭhitisutta, which distinguishes decline, stagnation, and "
+        "growth in five qualities before repeating AN 10.51's mirror "
+        "simile in full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A three-way distinction, then the full mirror "
+                 "simile repeated from AN 10.51"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "new material followed by familiar ground"),
+    ],
+    why=(
+        "Before returning to the now-familiar mirror simile, the "
+        "Buddha first draws a precise three-way distinction the "
+        "chapter has not made before: growth in skillful qualities is "
+        "not the same as merely avoiding decline, and stagnation "
+        "itself is neither."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant's qualities of faith, ethics, generosity, "
+            "wisdom, and eloquence can decline, stagnate, or grow "
+            "&mdash; three genuinely distinct conditions, only the "
+            "third of which the Buddha praises &mdash; and the same "
+            "mendicant should still check their own mind by the "
+            "mirror simile already given."]),
+        ("A three-way distinction, not a simple pair", [
+            "Where much of this project's material contrasts only two "
+            "states (skillful/unskillful, decline/growth), this "
+            "discourse insists on a middle term: qualities that "
+            "neither decline nor grow are not automatically praised "
+            "for avoiding decline &mdash; stagnation gets its own "
+            "name and its own, distinctly unenthusiastic, treatment."]),
+        ("The mirror simile, folded in whole", [
+            "After establishing this distinction, the discourse pivots "
+            "directly into AN 10.51's mirror simile, reproduced here "
+            "essentially in full &mdash; the two teachings are joined "
+            "rather than merely juxtaposed, as if stagnation-avoidance "
+            "is itself one more thing the self-check should catch."]),
+    ],
+    terms=[
+        ("saddhā, sīla, cāga, paññā, paṭibhāna",
+         "faith, ethics, generosity, wisdom, and eloquence &mdash; "
+         "the five qualities whose decline, stagnation, or growth "
+         "this discourse examines."),
+        ("hāni, ṭhiti, vuddhi",
+         "&ldquo;decline, stagnation, growth&rdquo; &mdash; the "
+         "three-way distinction giving this discourse its title, "
+         "<em>ṭhiti</em>."),
+        ("neva tiṭṭhanti no vaḍḍhanti",
+         "&ldquo;those qualities neither stagnate nor grow&rdquo; "
+         "&mdash; the phrasing defining decline, one of the three "
+         "conditions this discourse distinguishes."),
+        ("bahulaṁ viharāmi",
+         "&ldquo;I often abide&rdquo; &mdash; the recurring "
+         "self-questioning frame of the mirror-simile checklist, "
+         "repeated here from AN 10.51 and 10.52."),
+        ("adhimatto chando",
+         "&ldquo;extraordinary enthusiasm&rdquo; &mdash; the urgency "
+         "demanded once the fire simile is invoked, repeated "
+         "unchanged from AN 10.51."),
+    ],
+    text_intro=(
+        "The discourse in full: the three-way distinction, followed "
+        "by the mirror simile repeated from AN 10.51. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Decline, stagnation, and growth"),
+        ("p", "&sect;1", "an10.53:1.1-4.4"),
+        ("h3", "The mirror simile, repeated"),
+        ("p", "&sect;2", "an10.53:5.1-8.2"),
+    ],
+    quiz=[
+        {"q": "What three-way distinction does this discourse draw?",
+         "opts": [
+             "Good, bad, and neutral deeds",
+             "Decline, stagnation, and growth in five qualities "
+             "&mdash; three genuinely distinct conditions",
+             "Past, present, and future",
+             "Body, speech, and mind"],
+         "correct": 1,
+         "expl": "A middle term, stagnation, distinct from both "
+                 "decline and growth."},
+        {"q": "Which five qualities does this distinction apply to?",
+         "opts": [
+             "The five aggregates",
+             "Faith, ethics, generosity, wisdom, and eloquence",
+             "The five precepts",
+             "The five hindrances"],
+         "correct": 1,
+         "expl": "A set not identical to any prior five-item list in "
+                 "this project."},
+        {"q": "How does this discourse relate to AN 10.51, according "
+              "to the guide?",
+         "opts": [
+             "It contradicts AN 10.51 entirely",
+             "After the new three-way distinction, it pivots directly "
+             "into AN 10.51's mirror simile, reproduced essentially "
+             "in full",
+             "It has no relation to AN 10.51",
+             "It replaces the mirror simile with a new one"],
+         "correct": 1,
+         "expl": "Two teachings joined into one discourse, not merely "
+                 "placed side by side."},
+        {"q": "Which condition does the Buddha praise, according to "
+              "this discourse?",
+         "opts": [
+             "Decline",
+             "Stagnation, for avoiding decline",
+             "Growth alone",
+             "All three equally"],
+         "correct": 2,
+         "expl": "Growth is praised; the Buddha explicitly states he "
+                 "does not praise mere stagnation, let alone decline."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Not just two states", [
+            "decline, growth &mdash; and a",
+            "third: standing still, praised",
+            "by no one, least of all",
+        ]),
+        ("Two teachings, joined", [
+            "a new distinction,",
+            "then the mirror simile &mdash;",
+            "folded into one",
+        ]),
+        ("A familiar refrain returns", [
+            "the same ten paired checks,",
+            "the same fire simile &mdash;",
+            "now with new framing",
+        ]),
+        ("Cross-references", [
+            "AN 10.52 &middot; previous, with Sāriputta",
+            "AN 10.51 &middot; Your Own Mind, whose mirror simile "
+            "this discourse repeats in full",
+            "AN 10.54 &middot; next, Serenity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.53/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.52.html">AN 10.52 &middot; With Sāriputta</a> &mdash; previous.',
+        '<a href="an-10.51.html">AN 10.51 &middot; Your Own Mind</a> &mdash; whose mirror '
+        "simile this discourse repeats in full.",
+        '<a href="an-10.54.html">AN 10.54 &middot; Serenity</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.54 — Samathasutta
+# --------------------------------------------------------------------------- #
+page(
+    54, "Samatha", "Serenity",
+    vagga=VAGGA_6,
+    meta_title="AN 10.54 — Serenity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samathasutta, which narrows the mirror simile to a "
+        "two-item serenity/discernment check, then pivots to a "
+        "separate teaching on which robes, food, and company to "
+        "adopt or avoid. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A narrowed two-item mirror check, then a distinct "
+                 "six-category teaching in question-and-answer form"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "two teachings in one discourse"),
+    ],
+    why=(
+        "This discourse narrows the mirror simile from ten items down "
+        "to just two &mdash; serenity and discernment &mdash; before "
+        "pivoting to something else entirely: a practical teaching, "
+        "in the Buddha's own question-and-answer style, on which "
+        "robes, food, lodging, places, and people to adopt or avoid."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant should check whether they have serenity of "
+            "heart and discernment of principles, developing whichever "
+            "is missing until both are present, then continue "
+            "meditating to end the defilements &mdash; and should "
+            "judge every robe, food, lodging, town, region, and "
+            "companion by a single test: does it grow unskillful "
+            "qualities or skillful ones?"]),
+        ("A checklist narrowed to its essentials", [
+            "Where AN 10.51&ndash;53 used a ten-item checklist, this "
+            "discourse compresses the same self-checking structure "
+            "down to the two most fundamental qualities of "
+            "meditation practice: <em>samatha</em> (serenity) and "
+            "<em>vipassanā</em>-adjacent <em>adhipaññādhammavipassanā</em> "
+            "(discernment) &mdash; with four branching cases (neither, "
+            "one only, the other only, both) rather than the ten-item "
+            "version's two."]),
+        ("A second, unrelated teaching, joined at the seam", [
+            "After the serenity/discernment teaching concludes, the "
+            "discourse continues with no narrative transition into a "
+            "structurally separate teaching: six pairs of things "
+            "(robes, almsfood, lodging, village or town, country, "
+            "individual) that should be adopted or avoided based on a "
+            "single practical test, each explained in the Buddha's "
+            "own distinctive &ldquo;that's what I said, and this is "
+            "why I said it&rdquo; self-questioning format."]),
+        ("One test applied six times", [
+            "Despite covering six very different categories, the test "
+            "itself never changes: does using this robe, eating this "
+            "food, or keeping this company cause unskillful qualities "
+            "to grow and skillful ones to decline, or the reverse? "
+            "The same question, asked six times over, turns an "
+            "abstract ethical principle into a concrete decision "
+            "procedure for daily monastic life."]),
+    ],
+    terms=[
+        ("cetosamatha",
+         "&ldquo;serenity of heart&rdquo; &mdash; the first of the "
+         "two qualities checked, giving this discourse its title."),
+        ("adhipaññādhammavipassanā",
+         "&ldquo;the higher wisdom of discernment of principles&rdquo; "
+         "&mdash; the second quality checked, paired with serenity."),
+        ("iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ",
+         "&ldquo;that's what I said, but why did I say it?&rdquo; "
+         "&mdash; the Buddha's own recurring self-questioning formula "
+         "structuring the six-part second teaching."),
+        ("lābhī, na lābhī",
+         "&ldquo;a gainer, not a gainer&rdquo; &mdash; the binary at "
+         "the heart of the narrowed two-item check, applied "
+         "separately to serenity and to discernment."),
+        ("cīvara, piṇḍapāta, senāsana",
+         "&ldquo;robes, almsfood, lodging&rdquo; &mdash; the first "
+         "three of six categories judged by the same single test in "
+         "this discourse's second half."),
+    ],
+    text_intro=(
+        "The discourse in full: the serenity/discernment check, then "
+        "the six-part teaching on what to adopt or avoid. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The mirror simile, narrowed to two qualities"),
+        ("p", "&sect;1", "an10.54:1.1-6.2"),
+        ("h3", "Six things to adopt or avoid, stated"),
+        ("p", "&sect;2", "an10.54:7.1-7.12"),
+        ("h3", "Robes and almsfood, explained"),
+        ("p", "&sect;3", "an10.54:8.1-9.10"),
+        ("h3", "Lodging, places, and company, explained"),
+        ("p", "&sect;4", "an10.54:10.1-13.10"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's mirror-simile check differ "
+              "from AN 10.51's?",
+         "opts": [
+             "It is identical, with ten items",
+             "It narrows the check to just two qualities: serenity "
+             "and discernment",
+             "It expands the check to twenty items",
+             "It removes the mirror simile entirely"],
+         "correct": 1,
+         "expl": "A compressed version of the same self-checking "
+                 "structure."},
+        {"q": "What does the discourse turn to after the serenity/"
+              "discernment teaching concludes, according to the "
+              "guide?",
+         "opts": [
+             "Nothing; the discourse ends there",
+             "A structurally separate teaching on six pairs of things "
+             "&mdash; robes, food, lodging, and more &mdash; to adopt "
+             "or avoid",
+             "A narrative about Sāriputta",
+             "A closing verse"],
+         "correct": 1,
+         "expl": "Two distinct teachings joined into a single "
+                 "discourse."},
+        {"q": "What single test determines whether to adopt or avoid "
+              "each of the six things?",
+         "opts": [
+             "Whether it is expensive",
+             "Whether it causes unskillful qualities to grow and "
+             "skillful ones to decline, or the reverse",
+             "Whether a senior mendicant approves",
+             "Whether it is popular among laypeople"],
+         "correct": 1,
+         "expl": "The same practical test applied six times, to six "
+                 "different categories."},
+        {"q": "What is the Buddha's recurring formula structuring the "
+              "second half of this discourse?",
+         "opts": [
+             "A closing verse repeated six times",
+             "&ldquo;That's what I said, but why did I say it?&rdquo; "
+             "&mdash; followed by his own explanation",
+             "A question from Ānanda each time",
+             "No formula; it is a bare list"],
+         "correct": 1,
+         "expl": "A self-questioning device repeated for each of the "
+                 "six categories."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Two, not ten", [
+            "serenity, discernment &mdash;",
+            "the whole checklist boiled",
+            "down to its two roots",
+        ]),
+        ("One test, six times", [
+            "robe, food, lodging, place,",
+            "country, company &mdash; each judged",
+            "by the same question",
+        ]),
+        ("A seam without a scene", [
+            "no story marks where",
+            "one teaching ends and the next",
+            "begins &mdash; just the seam",
+        ]),
+        ("Cross-references", [
+            "AN 10.53 &middot; previous, Stagnation",
+            "AN 10.51 &middot; Your Own Mind, the ten-item version of "
+            "this discourse's narrowed check",
+            "AN 10.55 &middot; next, Decline",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.53.html">AN 10.53 &middot; Stagnation</a> &mdash; previous.',
+        '<a href="an-10.55.html">AN 10.55 &middot; Decline</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.55 — Parihānasutta
+# --------------------------------------------------------------------------- #
+page(
+    55, "Parihāna", "Decline",
+    vagga=VAGGA_6,
+    meta_title="AN 10.55 — Decline | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parihānasutta, in which Sāriputta first defines the "
+        "individual liable to decline, then gives a positive-only "
+        "variant of the mirror simile with a three-tier response. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Sāriputta, teaching at the mendicants' request"),
+        ("Form", "A four-part definition, requested and given, then "
+                 "a positive-only mirror check with a three-tier "
+                 "response"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "two related but distinct teachings"),
+    ],
+    why=(
+        "Sāriputta returns, this time explicitly invited to speak "
+        "after raising a question the mendicants themselves ask him "
+        "to answer: what defines an individual liable to decline? "
+        "His answer then flows into yet another variant of the "
+        "mirror simile, this one checking only for the presence of "
+        "good qualities."),
+    guide=[
+        ("The teaching in one sentence", [
+            "An individual liable to decline fails to hear new "
+            "teachings, forgets what they've heard, neglects familiar "
+            "teachings, and fails to understand what was unclear; one "
+            "not liable to decline does the opposite &mdash; and every "
+            "mendicant should further check their own mind for ten "
+            "positive qualities, responding according to how many are "
+            "found."]),
+        ("A formally requested teaching", [
+            "Unlike Sāriputta's unprompted address in AN 10.52, this "
+            "discourse opens with the mendicants explicitly asking him "
+            "to clarify a question about the Buddha's own teaching "
+            "&mdash; a small but real difference in how the same "
+            "disciple's authority to speak is established from one "
+            "discourse to the next."]),
+        ("A third variant of the checklist", [
+            "This discourse's mirror-simile check differs from both "
+            "AN 10.51's ten paired items and AN 10.54's two items: it "
+            "lists ten purely positive qualities (contentment, "
+            "kind-heartedness, freedom from dullness, calm, "
+            "confidence, love, purity of mind, joy in the teaching, "
+            "serenity, and discernment) and asks only whether each is "
+            "present, not paired against its negative."]),
+        ("A three-tier response, not two", [
+            "Where AN 10.51's check branches into two responses "
+            "(found wanting, or grounded and ready to continue), this "
+            "version adds a middle case: a mendicant may see none of "
+            "the ten qualities, some of them, or all of them, with a "
+            "distinct instruction for each &mdash; the most granular "
+            "version of this recurring self-check structure so far."]),
+    ],
+    terms=[
+        ("parihānadhamma",
+         "&ldquo;liable to decline&rdquo; &mdash; this discourse's "
+         "own title, the individual type defined in its opening "
+         "section."),
+        ("assutaṁ dhammaṁ na suṇāti",
+         "&ldquo;doesn't get to hear a teaching they haven't heard "
+         "before&rdquo; &mdash; the first of four marks of decline."),
+        ("dhammapāmojja",
+         "&ldquo;joy with the teaching&rdquo; &mdash; a quality "
+         "appearing in this discourse's checklist that did not "
+         "appear in AN 10.51's."),
+        ("sutā cassa dhammā sammosaṁ gacchanti",
+         "&ldquo;they forget those teachings they have heard&rdquo; "
+         "&mdash; the second of the four marks of decline."),
+        ("santuṭṭho, mettacitto",
+         "&ldquo;contentment, loving&rdquo; &mdash; two of the ten "
+         "positive qualities in this discourse's own variant "
+         "checklist."),
+    ],
+    text_intro=(
+        "The discourse in full: the mendicants' request, Sāriputta's "
+        "definition of decline, and the positive-only mirror check. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A question, requested and answered"),
+        ("p", "&sect;1", "an10.55:1.1-3.3"),
+        ("h3", "Liable to decline, and not liable to decline"),
+        ("p", "&sect;2", "an10.55:4.1-5.3"),
+        ("h3", "The mirror simile, ten positive qualities"),
+        ("p", "&sect;3", "an10.55:6.1-7.6"),
+        ("h3", "Three branching responses"),
+        ("p", "&sect;4", "an10.55:8.1-10.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from AN "
+              "10.52's, according to the guide?",
+         "opts": [
+             "There is no difference",
+             "Here the mendicants explicitly ask Sāriputta to "
+             "clarify a question, rather than his speaking "
+             "unprompted",
+             "The Buddha personally introduces Sāriputta",
+             "Sāriputta refuses to answer"],
+         "correct": 1,
+         "expl": "A formally requested teaching, distinct from AN "
+                 "10.52's unprompted address."},
+        {"q": "What four marks define an individual liable to "
+              "decline?",
+         "opts": [
+             "Poverty, illness, old age, and low birth",
+             "Not hearing new teachings, forgetting what's heard, "
+             "neglecting familiar teachings, and failing to "
+             "understand what was unclear",
+             "Breaking the five precepts",
+             "Lacking a teacher"],
+         "correct": 1,
+         "expl": "A definition centered entirely on engagement with "
+                 "the teaching."},
+        {"q": "How does this discourse's mirror-simile checklist "
+              "differ from AN 10.51's, according to the guide?",
+         "opts": [
+             "It is identical",
+             "It lists ten purely positive qualities, asking only "
+             "whether each is present, rather than paired positive/"
+             "negative items",
+             "It has only two items, like AN 10.54",
+             "It removes the mirror simile entirely"],
+         "correct": 1,
+         "expl": "A third distinct variant of the recurring checklist "
+                 "structure."},
+        {"q": "How many response tiers does this version of the "
+              "check offer, compared to AN 10.51's two?",
+         "opts": [
+             "Still two",
+             "Three: seeing none, some, or all of the ten qualities",
+             "Five",
+             "Ten separate responses"],
+         "correct": 1,
+         "expl": "A more granular branching structure than the "
+                 "earlier versions."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Asked, not offered", [
+            "the mendicants ask;",
+            "Sāriputta answers &mdash;",
+            "invited, not unprompted",
+        ]),
+        ("Ten qualities, positive only", [
+            "not paired against their",
+            "opposites this time &mdash; just",
+            "present, or absent",
+        ]),
+        ("None, some, or all", [
+            "a third response joins",
+            "the earlier two &mdash; the most",
+            "granular check yet",
+        ]),
+        ("Cross-references", [
+            "AN 10.54 &middot; previous, Serenity",
+            "AN 10.52 &middot; With Sāriputta, the earlier, unprompted "
+            "version of this same disciple teaching the assembly",
+            "AN 10.56 &middot; next, Perceptions (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.55/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.54.html">AN 10.54 &middot; Serenity</a> &mdash; previous.',
+        '<a href="an-10.56.html">AN 10.56 &middot; Perceptions (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.56 — Paṭhamasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    56, "Paṭhamasaññā", "Perceptions (1st)",
+    vagga=VAGGA_6,
+    meta_title="AN 10.56 — Perceptions (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasaññāsutta, a bare list of ten perceptions "
+        "leading to freedom from death, opening this chapter's turn "
+        "from mind-checking to formal meditation objects. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single flat list of ten, with no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and unelaborated"),
+    ],
+    why=(
+        "After five discourses built around checking one's own mind, "
+        "the chapter pivots to something more structural: the first "
+        "of three related lists of ten <em>perceptions</em> "
+        "&mdash; formal meditation objects &mdash; that this chapter "
+        "will offer in escalating variation, all aimed at the same "
+        "goal, freedom from death."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten perceptions, developed and cultivated, are very "
+            "fruitful and lead to freedom from death: the perceptions "
+            "of ugliness, death, repulsiveness of food, dissatisfaction "
+            "with the whole world, impermanence, suffering in "
+            "impermanence, not-self in suffering, giving up, fading "
+            "away, and cessation."]),
+        ("A shift from checking to cultivating", [
+            "AN 10.51&ndash;55 all concerned checking the state of "
+            "one's own mind against a standard; this discourse turns "
+            "instead to naming ten specific objects of formal "
+            "contemplation to be actively developed, the first of a "
+            "small cluster of such lists running through the rest of "
+            "this chapter."]),
+        ("A logical chain within the list", [
+            "The final four items of the ten follow their own "
+            "internal logic rather than standing independently: "
+            "impermanence leads to seeing suffering within "
+            "impermanence, which leads to seeing not-self within that "
+            "suffering, which in turn grounds giving up, fading away, "
+            "and cessation &mdash; a compressed doctrinal chain "
+            "embedded inside a bare list."]),
+        ("The first of three related lists", [
+            "This exact list will be varied twice more before the "
+            "chapter closes: AN 10.57 keeps five of these ten items "
+            "but replaces the rest with five distinct charnel-ground "
+            "contemplations, and the chapter's final discourse "
+            "(spliced in from an earlier page) gives the tradition's "
+            "single most famous version of a ten-perception list."]),
+    ],
+    terms=[
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; a formal object of "
+         "meditative attention, this discourse's own subject."),
+        ("asubhasaññā, maraṇasaññā",
+         "&ldquo;the perception of ugliness, the perception of "
+         "death&rdquo; &mdash; the first two items on this list."),
+        ("amata",
+         "&ldquo;freedom from death,&rdquo; the deathless &mdash; "
+         "the stated objective and culmination shared by all three "
+         "of this chapter's perception-lists."),
+        ("āhāre paṭikūlasaññā",
+         "&ldquo;the perception of the repulsiveness of food&rdquo; "
+         "&mdash; the third item on this list, shared with AN "
+         "10.57."),
+        ("pahānasaññā, virāgasaññā, nirodhasaññā",
+         "&ldquo;giving up, fading away, cessation&rdquo; &mdash; the "
+         "final three items, closing the list's internal doctrinal "
+         "chain."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten perceptions, listed without "
+        "elaboration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten perceptions"),
+        ("p", "&sect;1", "an10.56:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse list?",
+         "opts": [
+             "Ten monastic offenses",
+             "Ten perceptions that, developed and cultivated, lead to "
+             "freedom from death",
+             "Ten qualities of a good teacher",
+             "Ten grounds for suspending recitation"],
+         "correct": 1,
+         "expl": "A formal list of meditation objects, not a checklist "
+                 "of mind-states."},
+        {"q": "How does this discourse mark a shift from the chapter's "
+              "earlier discourses, according to the guide?",
+         "opts": [
+             "It does not mark any shift",
+             "It moves from checking the state of one's own mind to "
+             "naming objects of formal contemplation to actively "
+             "develop",
+             "It abandons meditation entirely",
+             "It returns to monastic law"],
+         "correct": 1,
+         "expl": "A pivot from self-checking to cultivation."},
+        {"q": "According to the guide, what internal logic structures "
+              "the final four items of this list?",
+         "opts": [
+             "No logic; they are unrelated",
+             "Impermanence leads to seeing suffering within it, which "
+             "leads to not-self, which grounds giving up, fading "
+             "away, and cessation",
+             "They are ordered alphabetically",
+             "They repeat the first four items"],
+         "correct": 1,
+         "expl": "A compressed doctrinal chain embedded inside the "
+                 "bare list."},
+        {"q": "What does the guide say happens to this list in the "
+              "rest of the chapter?",
+         "opts": [
+             "It never appears again",
+             "It is varied twice more, including the tradition's most "
+             "famous version of a ten-perception list at the "
+             "chapter's close",
+             "It is immediately contradicted",
+             "It is expanded to twenty items"],
+         "correct": 1,
+         "expl": "The first of three related lists running through "
+                 "this chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief discourse."},
+    ],
+    marginalia=[
+        ("Ten objects, bare", [
+            "ugliness, death, food's",
+            "repulsion &mdash; and further still,",
+            "impermanence, self",
+        ]),
+        ("From checking to building", [
+            "no more mirror now &mdash;",
+            "these are objects to develop,",
+            "not states to detect",
+        ]),
+        ("A chain within the list", [
+            "impermanence to",
+            "suffering to not-self &mdash;",
+            "then letting go, three times",
+        ]),
+        ("Cross-references", [
+            "AN 10.55 &middot; previous, Decline",
+            "AN 10.57 &middot; next, a second, partly different "
+            "ten-perception list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.55.html">AN 10.55 &middot; Decline</a> &mdash; previous.',
+        '<a href="an-10.57.html">AN 10.57 &middot; Perceptions (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.57 — Dutiyasaññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    57, "Dutiyasaññā", "Perceptions (2nd)",
+    vagga=VAGGA_6,
+    meta_title="AN 10.57 — Perceptions (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasaññāsutta, which keeps half of AN 10.56's list "
+        "but replaces the rest with five visceral charnel-ground "
+        "corpse contemplations. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single flat list of ten, with no elaboration"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, though vivid in content"),
+    ],
+    why=(
+        "This second list of ten perceptions keeps five items from AN "
+        "10.56 but drops the doctrinal chain entirely, replacing it "
+        "with five specific, visceral stages of a decomposing corpse "
+        "&mdash; among the most graphic content in this project so "
+        "far."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A second set of ten perceptions, equally fruitful and "
+            "aimed at the same freedom from death: impermanence, "
+            "not-self, death, repulsiveness of food, dissatisfaction "
+            "with the whole world, and five successive charnel-ground "
+            "images &mdash; a skeleton, a worm-infested corpse, a "
+            "livid corpse, a split-open corpse, and a bloated "
+            "corpse."]),
+        ("Five items shared, five replaced", [
+            "This list keeps five of AN 10.56's ten items outright "
+            "(impermanence, not-self, death, food's repulsiveness, "
+            "and dissatisfaction with the world, though reordered), "
+            "but drops that discourse's closing doctrinal chain "
+            "&mdash; suffering-in-impermanence, not-self-in-suffering, "
+            "giving up, fading away, cessation &mdash; entirely."]),
+        ("The charnel ground, made concrete", [
+            "In place of that abstract chain, this discourse names "
+            "five specific stages of bodily decomposition in sequence "
+            "&mdash; a traditional set of corpse contemplations "
+            "practiced by observing an actual decaying body at "
+            "different intervals, here compressed into a bare list "
+            "with no narrative or simile to soften them."]),
+        ("Same goal, sharper method", [
+            "Despite the stark difference in content, this list "
+            "closes with the identical formula as AN 10.56: developed "
+            "and cultivated, these perceptions too have freedom from "
+            "death as their objective and culmination &mdash; two very "
+            "different routes to the same destination."]),
+    ],
+    terms=[
+        ("aṭṭhikasaññā",
+         "&ldquo;the perception of a skeleton&rdquo; &mdash; the "
+         "first of the five charnel-ground images unique to this "
+         "list."),
+        ("puḷavakasaññā",
+         "&ldquo;the perception of a worm-infested corpse&rdquo; "
+         "&mdash; the second charnel-ground image."),
+        ("uddhumātakasaññā",
+         "&ldquo;the perception of a bloated corpse&rdquo; &mdash; "
+         "the fifth and final charnel-ground image, closing the "
+         "list."),
+        ("vinīlakasaññā",
+         "&ldquo;the perception of a livid corpse&rdquo; &mdash; the "
+         "third of the five charnel-ground images."),
+        ("vicchiddakasaññā",
+         "&ldquo;the perception of a split-open corpse&rdquo; "
+         "&mdash; the fourth charnel-ground image."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten perceptions, listed without "
+        "elaboration. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten perceptions, a second list"),
+        ("p", "&sect;1", "an10.57:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many items does this list share with AN 10.56's?",
+         "opts": [
+             "None",
+             "Five, though reordered: impermanence, not-self, death, "
+             "food's repulsiveness, and dissatisfaction with the "
+             "world",
+             "All ten",
+             "Nine"],
+         "correct": 1,
+         "expl": "Half the list overlaps; the other half is entirely "
+                 "new."},
+        {"q": "What replaces AN 10.56's closing doctrinal chain in "
+              "this discourse?",
+         "opts": [
+             "A closing verse",
+             "Five successive charnel-ground images of a decomposing "
+             "corpse",
+             "A repeat of the same five items",
+             "Nothing; the list is shorter"],
+         "correct": 1,
+         "expl": "Concrete bodily imagery in place of an abstract "
+                 "logical sequence."},
+        {"q": "What kind of practice do the five new items reflect, "
+              "according to the guide?",
+         "opts": [
+             "Walking meditation",
+             "Traditional corpse contemplations, observing a "
+             "decaying body at successive stages",
+             "Breath meditation",
+             "Loving-kindness meditation"],
+         "correct": 1,
+         "expl": "A traditional, visceral meditation method distinct "
+                 "from AN 10.56's abstract chain."},
+        {"q": "Despite the different content, how does this list "
+              "close?",
+         "opts": [
+             "With a completely different goal",
+             "With the identical formula as AN 10.56: freedom from "
+             "death as the objective and culmination",
+             "Without any closing statement",
+             "By contradicting AN 10.56's stated goal"],
+         "correct": 1,
+         "expl": "Two different routes, the guide notes, to the same "
+                 "destination."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief discourse."},
+    ],
+    marginalia=[
+        ("Half kept, half new", [
+            "impermanence stays;",
+            "the chain of insight gives way",
+            "to a decaying corpse",
+        ]),
+        ("Five stages, in sequence", [
+            "skeleton, worm-eaten,",
+            "livid, split open, bloated &mdash;",
+            "watched without flinching",
+        ]),
+        ("Two routes, one destination", [
+            "abstract chain, or corpse",
+            "watched stage by stage &mdash; both lead",
+            "past death, the text says",
+        ]),
+        ("Cross-references", [
+            "AN 10.56 &middot; Perceptions (1st), sharing half this "
+            "list's items",
+            "AN 10.58 &middot; next, Rooted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.57/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.56.html">AN 10.56 &middot; Perceptions (1st)</a> &mdash; previous.',
+        '<a href="an-10.58.html">AN 10.58 &middot; Rooted</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.58 — Mūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    58, "Mūlaka", "Rooted",
+    vagga=VAGGA_6,
+    meta_title="AN 10.58 — Rooted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mūlakasutta, a rehearsed ten-part answer for when "
+        "wanderers of other religions ask what roots, produces, and "
+        "culminates all things &mdash; echoing this nipāta's opening "
+        "chain at AN 10.1. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha, rehearsing an answer with the "
+                     "mendicants"),
+        ("Form", "A hypothetical challenge, a request for guidance, "
+                 "and a ten-part scripted answer"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "abstract but tightly patterned"),
+    ],
+    why=(
+        "The Buddha poses a hypothetical: what would the mendicants "
+        "say if wanderers of other religions asked them to name the "
+        "root, source, and culmination of all things? When the "
+        "mendicants defer to him, he supplies a rehearsed, ten-part "
+        "answer for them to use."),
+    guide=[
+        ("The teaching in one sentence", [
+            "All things are rooted in desire, produced by application "
+            "of mind, originate in contact, meet in feeling, are "
+            "chiefly led by immersion, ruled by mindfulness, overseen "
+            "by wisdom, cored in freedom, aimed at freedom from death, "
+            "and culminate in extinguishment &mdash; a scripted answer "
+            "for mendicants challenged by outsiders."]),
+        ("Rehearsal, not spontaneous teaching", [
+            "Unusually, this discourse is explicitly a training "
+            "exercise: the Buddha poses the outsiders' hypothetical "
+            "question first, waits for the mendicants to admit they "
+            "cannot yet answer it and ask him directly, and only then "
+            "supplies the ten-part response &mdash; equipping them "
+            "for a future encounter rather than addressing one already "
+            "underway."]),
+        ("A ten-link chain, echoing the chapter's very first page", [
+            "This ten-part answer to &ldquo;what roots, produces, and "
+            "culminates all things&rdquo; structurally echoes AN "
+            "10.1's opening ten-link chain from ethics to the "
+            "knowledge and vision of freedom, closing this nipāta's "
+            "loop back to where the Book of the Tens itself began "
+            "&mdash; both are progressive ten-step sequences ending in "
+            "freedom, though built from entirely different material."]),
+        ("Ten questions, ten distinct answers", [
+            "Rather than a flat list, the ten items answer ten "
+            "grammatically distinct questions posed by the "
+            "hypothetical outsiders &mdash; root, producer, origin, "
+            "meeting place, chief, ruler, overseer, core, objective, "
+            "and culmination &mdash; each mapped to a different "
+            "element of practice, from raw desire through to final "
+            "extinguishment."]),
+    ],
+    terms=[
+        ("chandamūlakā sabbe dhammā",
+         "&ldquo;all things are rooted in desire&rdquo; &mdash; the "
+         "first of the ten answers, and the discourse's own title, "
+         "<em>mūlaka</em>, &ldquo;rooted.&rdquo;"),
+        ("manasikārasambhavā",
+         "&ldquo;produced by application of mind&rdquo; &mdash; the "
+         "second answer, on what brings all things into being."),
+        ("vimuttisārā",
+         "&ldquo;freedom is their core&rdquo; &mdash; the eighth "
+         "answer, naming what lies at the center of all things."),
+        ("nibbānapariyosānā",
+         "&ldquo;extinguishment is their culmination&rdquo; &mdash; "
+         "the tenth and final answer, closing the chain."),
+        ("phassasamudayā, vedanāsamosaraṇā",
+         "&ldquo;contact is their origin, feeling is their meeting "
+         "place&rdquo; &mdash; the third and fourth answers in the "
+         "ten-part chain."),
+    ],
+    text_intro=(
+        "The discourse in full: the hypothetical challenge, the "
+        "mendicants' request, and the Buddha's ten-part answer. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A hypothetical challenge from outsiders"),
+        ("p", "&sect;1", "an10.58:1.1-2.3"),
+        ("h3", "The ten-part answer"),
+        ("p", "&sect;2", "an10.58:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What hypothetical situation does the Buddha pose to "
+              "the mendicants?",
+         "opts": [
+             "A dispute within the Saṅgha",
+             "Wanderers of other religions asking what roots, "
+             "produces, and culminates all things",
+             "A king questioning the mendicants",
+             "A dying mendicant's final question"],
+         "correct": 1,
+         "expl": "A rehearsal for a possible future encounter with "
+                 "outsiders."},
+        {"q": "What is unusual about how this discourse proceeds, "
+              "according to the guide?",
+         "opts": [
+             "Nothing; it is a typical teaching",
+             "It is explicitly a training exercise: the mendicants "
+             "admit they cannot answer, then ask the Buddha to supply "
+             "the response for future use",
+             "The Buddha refuses to answer",
+             "It is answered entirely by Sāriputta"],
+         "correct": 1,
+         "expl": "Equipping the mendicants for a hypothetical future "
+                 "situation, not addressing a present one."},
+        {"q": "According to the guide, what earlier discourse does "
+              "this ten-part chain structurally echo?",
+         "opts": [
+             "AN 10.50, closing the First Fifty",
+             "AN 10.1, this nipāta's own opening ten-link chain",
+             "AN 9.1",
+             "It echoes no earlier discourse"],
+         "correct": 1,
+         "expl": "Both are progressive ten-step sequences ending in "
+                 "freedom, closing a structural loop within AN 10."},
+        {"q": "What is named as the culmination of all things in this "
+              "discourse's answer?",
+         "opts": [
+             "Wisdom", "Extinguishment (nibbāna)",
+             "Mindfulness", "Desire"],
+         "correct": 1,
+         "expl": "The tenth and final term in the chain."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A scripted answer", [
+            "not spontaneous now &mdash;",
+            "the Buddha drills a reply",
+            "for a future test",
+        ]),
+        ("Ten questions, ten terms", [
+            "root, producer, meeting",
+            "place, ruler, core, culmination &mdash;",
+            "each mapped in turn",
+        ]),
+        ("The chapter's loop, closed", [
+            "AN 10.1's",
+            "own ten-link chain, echoed here &mdash;",
+            "the book folds back",
+        ]),
+        ("Cross-references", [
+            "AN 10.57 &middot; previous, Perceptions (2nd)",
+            "AN 10.1 &middot; What's the Goal?, this nipāta's own "
+            "opening ten-link chain, echoed structurally here",
+            "AN 10.59 &middot; next, Going Forth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.57.html">AN 10.57 &middot; Perceptions (2nd)</a> &mdash; previous.',
+        '<a href="an-10.1.html">AN 10.1 &middot; What&rsquo;s the Goal?</a> &mdash; this '
+        "nipāta's own opening ten-link chain, echoed structurally here.",
+        '<a href="an-10.59.html">AN 10.59 &middot; Going Forth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.59 — Pabbajjāsutta
+# --------------------------------------------------------------------------- #
+page(
+    59, "Pabbajjā", "Going Forth",
+    vagga=VAGGA_6,
+    meta_title="AN 10.59 — Going Forth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pabbajjāsutta, closing the Sacittavagga with a third "
+        "variant ten-perception training formula, guaranteeing "
+        "enlightenment or non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single training formula, then its guaranteed "
+                 "result"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "dense but tightly parallel in structure"),
+    ],
+    why=(
+        "Closing this chapter's own discourses, the Buddha gives a "
+        "third variant of the ten-perception formula, this one framed "
+        "explicitly as a training to be undertaken and named for the "
+        "very moment of ordination, with an unusually direct "
+        "guarantee attached to its success."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Mendicants should train so their minds stay as "
+            "consolidated as they were at the moment of going forth, "
+            "never overrun by unskillful qualities, and consolidated "
+            "in ten perceptions &mdash; impermanence, not-self, "
+            "ugliness, drawbacks, fairness and unfairness in the "
+            "world, existence and nonexistence in the world, the "
+            "world's origin and disappearance, giving up, fading "
+            "away, and cessation &mdash; guaranteeing either "
+            "enlightenment in this life or non-return."]),
+        ("A third variant, partly overlapping the first two", [
+            "This list shares giving up, fading away, and cessation "
+            "with AN 10.56, and impermanence and not-self with both AN "
+            "10.56 and 10.57, but introduces genuinely new material "
+            "not seen in either: three paired perceptions about "
+            "&ldquo;the world&rdquo; itself &mdash; its fairness and "
+            "unfairness, its existence and nonexistence, its origin "
+            "and disappearance."]),
+        ("Anchored to a specific moment, not a general ideal", [
+            "Unlike AN 10.56 and 10.57's abstract lists, this "
+            "discourse names a concrete reference point: the mental "
+            "consolidation a mendicant had at the moment of "
+            "<em>pabbajjā</em>, going forth itself, giving this "
+            "discourse its title and framing the entire training as a "
+            "matter of not losing ground already won."]),
+        ("A rare explicit guarantee", [
+            "Where most of this chapter's teachings simply describe a "
+            "practice, this discourse closes with an unusually "
+            "direct promise: consolidation in these ten perceptions "
+            "guarantees one of exactly two results, full enlightenment "
+            "in this very life or, at minimum, non-return &mdash; "
+            "language echoing the guaranteed outcomes already met "
+            "elsewhere in this project, such as AN 10.46's Sakyan "
+            "teaching."]),
+    ],
+    terms=[
+        ("yathāpabbajjāparicitaṁ cittaṁ",
+         "&ldquo;minds consolidated as they were when we went "
+         "forth&rdquo; &mdash; the discourse's own reference point, "
+         "and the source of its title, <em>pabbajjā</em>."),
+        ("lokassa samañca visamañca",
+         "&ldquo;what is fair and unfair in the world&rdquo; &mdash; "
+         "one of three new paired perceptions about the world not "
+         "seen in AN 10.56 or 10.57."),
+        ("diṭṭheva dhamme aññā",
+         "&ldquo;enlightenment in this very life&rdquo; &mdash; the "
+         "first of the two guaranteed results."),
+        ("upādisese anāgāmitā",
+         "&ldquo;non-return, if there's residue left behind&rdquo; "
+         "&mdash; the second, fallback guaranteed result."),
+        ("lokassa bhavañca vibhavañca",
+         "&ldquo;existence and nonexistence in the world&rdquo; "
+         "&mdash; the second of three new paired perceptions about "
+         "the world introduced in this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the training formula and its "
+        "guaranteed result. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A training formula"),
+        ("p", "&sect;1", "an10.59:1.1-1.4"),
+        ("h3", "Its guaranteed result"),
+        ("p", "&sect;2", "an10.59:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What reference point does this discourse's training "
+              "formula name?",
+         "opts": [
+             "The moment of full ordination",
+             "The mental consolidation a mendicant had at the moment "
+             "of going forth (pabbajjā)",
+             "The moment of first meeting the Buddha",
+             "No reference point is given"],
+         "correct": 1,
+         "expl": "The discourse's own title and central image: not "
+                 "losing ground already won."},
+        {"q": "According to the guide, which three paired perceptions "
+              "are genuinely new, not seen in AN 10.56 or 10.57?",
+         "opts": [
+             "Ugliness, death, and food's repulsiveness",
+             "Fairness/unfairness, existence/nonexistence, and "
+             "origin/disappearance of the world",
+             "Giving up, fading away, and cessation",
+             "Impermanence, not-self, and death"],
+         "correct": 1,
+         "expl": "Three new pairs about the world itself, distinct "
+                 "from the shared material with the earlier two lists."},
+        {"q": "What guaranteed result does this discourse promise for "
+              "a mind consolidated in these ten perceptions?",
+         "opts": [
+             "Nothing is guaranteed",
+             "One of two results: enlightenment in this very life, "
+             "or at minimum non-return",
+             "Rebirth as a deva",
+             "Immediate physical health"],
+         "correct": 1,
+         "expl": "An unusually direct guarantee, echoing similar "
+                 "promises elsewhere in this project."},
+        {"q": "What does this discourse close, within AN 10 so far?",
+         "opts": [
+             "Nothing in particular",
+             "This chapter's own run of discourses, immediately "
+             "before the chapter's final page, the older spliced-in "
+             "AN 10.60",
+             "The entire Second Fifty",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "The last of this chapter's newly built pages, "
+                 "handing off to the existing AN 10.60."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Ground already won", [
+            "consolidated as",
+            "at going forth &mdash; the training",
+            "is not to lose it",
+        ]),
+        ("Three new pairs", [
+            "the world's own fairness,",
+            "existence, and origin &mdash;",
+            "perceptions turned outward",
+        ]),
+        ("A guarantee, stated plainly", [
+            "this life's awakening,",
+            "or at the least, no return &mdash;",
+            "one of only two",
+        ]),
+        ("Cross-references", [
+            "AN 10.58 &middot; previous, Rooted",
+            "AN 10.56 &middot; Perceptions (1st), sharing three items "
+            "with this discourse's own list",
+            "AN 10.60 &middot; next, With Girimānanda, closing this "
+            "chapter with the tradition's best-known ten-perception "
+            "list",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.58.html">AN 10.58 &middot; Rooted</a> &mdash; previous.',
+        '<a href="an-10.60.html">AN 10.60 &middot; With Girimānanda</a> &mdash; next, '
+        "closing this chapter.",
+    ],
+    next=("an-10.60.html", "AN 10.60 &middot; With Girimānanda"),
+)

@@ -15,15 +15,15 @@ page, the Threes onward one discourse to a page.
 | AN 7 | 101 | 101 | 0 | 7.1–7.645-1124 | **complete** |
 | AN 8 | 96 | 96 | 0 | 8.1–8.148-627 | **complete** |
 | AN 9 | 82 | 82 | 0 | 9.1–9.113-432 | **complete** |
-| AN 10 | 211 | 52 | 159 | 10.1–10.50 | 10.51 |
+| AN 10 | 211 | 61 | 150 | 10.1–10.60 | 10.61 |
 | AN 11 | 36 | 1 | 35 | — | 11.1 |
-| **Total** | **1408** | **1214** | **194** | | |
+| **Total** | **1408** | **1223** | **185** | | |
 
-## AN 10 — 159 still to do
+## AN 10 — 150 still to do
 
-Missing: 51–59, 61–156, 167–175, 177–199, 211–225, 229, 233, 237–240, 267
+Missing: 61–156, 167–175, 177–199, 211–225, 229, 233, 237–240, 267
 
-Already published out of order (pre-existing pages): 10.60, 10.176
+Already published out of order (pre-existing pages): 10.176
 
 ## AN 11 — 35 still to do
 
