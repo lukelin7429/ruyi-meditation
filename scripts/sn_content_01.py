@@ -22629,3 +22629,2180 @@ page(
         "the discourse opening this vagga, ten discourses back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.1 — Daharasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 1, "Dahara", "Young",
+    meta_title="SN 3.1 — Young | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Daharasutta — the opening discourse of the Kosalasaṃyutta, in "
+        "which King Pasenadi questions the newly awakened Buddha's youth "
+        "and is answered with four things too dangerous to underestimate "
+        "for being young. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove, "
+                    "Anāthapiṇḍika's monastery"),
+        ("Speakers", "The Buddha and King Pasenadi of Kosala"),
+        ("Form", "A prose dialogue, followed by a seven-stanza verse and "
+                 "a closing conversion narrative"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "long discourse whose four parallel similes "
+                       "reward careful comparison"),
+    ],
+    why=(
+        "This discourse opens a new saṃyutta and a new kind of "
+        "interlocutor: not a godling but a human king, and not a "
+        "riddle-verse but a direct, faintly skeptical question. King "
+        "Pasenadi asks whether the Buddha truly claims supreme "
+        "awakening, noting that six well-known religious founders, when "
+        "he asked them the same question, made no such claim &mdash; so "
+        "why would someone so young and newly gone forth claim it? The "
+        "Buddha's answer names four things that should never be "
+        "underestimated for their youth: an aristocrat, a serpent, a "
+        "fire, and a mendicant."),
+    guide=[
+        ("A new saṃyutta, a new kind of speaker", [
+            "Every discourse in this book's first two saṃyuttas staged "
+            "an exchange between the Buddha and a godling; this one "
+            "opens the Kosalasaṃyutta with King Pasenadi of Kosala, a "
+            "reigning human monarch, whose questions carry the "
+            "practical, sometimes political concerns of someone who "
+            "actually governs, rather than a deity's riddle or praise."]),
+        ("Six named teachers who made no such claim", [
+            "Pasenadi's skepticism is not idle: he names six specific "
+            "religious founders of his era &mdash; Pūraṇa Kassapa, "
+            "Gosāla, the Jain ascetic of the Ñātika clan, Sañjaya "
+            "Belaṭṭhiputta, Pakudha Kaccāyana, and Ajita of the hair "
+            "blanket &mdash; and reports that none of them, when asked "
+            "directly, claimed supreme awakening, making the Buddha's "
+            "own claim conspicuous by contrast."]),
+        ("Four things, one shared danger", [
+            "The Buddha's answer does not defend his youth directly but "
+            "reframes the question: an aristocrat, a serpent, a fire, "
+            "and a mendicant endowed with ethics should never be "
+            "despised for being young, because each, however young, "
+            "carries a power disproportionate to its apparent size."]),
+        ("Three dangers that pass, one that does not", [
+            "The verses develop an asymmetry among the four: a forest "
+            "burned by ordinary fire regrows &lsquo;with the passing of "
+            "days and nights&rsquo;, but one burned by a mendicant's "
+            "ethical power is left &lsquo;childless and heirless&rsquo;, "
+            "like a palm-tree stump &mdash; a consequence with no "
+            "natural recovery, marking the mendicant's power as "
+            "categorically different from the other three physical "
+            "dangers."]),
+        ("A conversion, not merely a conversation", [
+            "This discourse ends with a moment unique so far in this "
+            "book: Pasenadi does not merely depart satisfied but "
+            "explicitly goes for refuge to the Buddha, the teaching, and "
+            "the Saṅgha, asking to be remembered as a lay follower for "
+            "life &mdash; the first such formal conversion recorded in "
+            "this collection, opening what becomes a recurring "
+            "relationship across the rest of this saṃyutta."]),
+    ],
+    terms=[
+        ("anuttaraṁ sammāsambodhiṁ",
+         "&ldquo;supreme perfect awakening&rdquo; &mdash; the "
+         "attainment Pasenadi's opening question asks whether the "
+         "Buddha truly claims."),
+        ("khattiya",
+         "&ldquo;aristocrat&rdquo; &mdash; the first of the four things "
+         "not to be despised for youth, matching Pasenadi's own royal "
+         "station."),
+        ("dahara bhikkhu sīlasampanna",
+         "&ldquo;a young mendicant endowed with ethics&rdquo; &mdash; "
+         "the fourth of the four, and the discourse's own implicit "
+         "self-description."),
+        ("anapaccā anadāyādā",
+         "&ldquo;childless and heirless&rdquo; &mdash; the "
+         "consequence of being burned by a mendicant's ethical power, "
+         "with no natural regrowth."),
+        ("saraṇaṁ gata",
+         "&ldquo;gone for refuge&rdquo; &mdash; Pasenadi's closing "
+         "declaration, this collection's first formal lay conversion."),
+    ],
+    text_intro=(
+        "The discourse in full: Pasenadi's question, the Buddha's "
+        "sevenfold answering verse, and the king's conversion. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.1:1.1-1.7"),
+        ("p", "&sect;2", "sn3.1:2.1-2.4"),
+        ("p", "&sect;3", "sn3.1:3.1-3.7"),
+        ("p", "&sect;4", "sn3.1:4.1-6.6"),
+        ("p", "&sect;5", "sn3.1:7.1-8.6"),
+        ("p", "&sect;6", "sn3.1:9.1-11.4"),
+        ("p", "&sect;7", "sn3.1:12.1-13.6"),
+        ("p", "&sect;8", "sn3.1:14.1-14.5"),
+    ],
+    quiz=[
+        {"q": "What saṃyutta does this discourse open, and with what kind of speaker?",
+         "opts": [
+             "The Kosalasaṃyutta, with a human king rather than a godling",
+             "The Devaputtasaṃyutta, with another godling",
+             "The Khandhasaṃyutta, with a group of mendicants",
+             "The Bojjhaṅgasaṃyutta, with Venerable Ānanda"],
+         "correct": 0,
+         "expl": "A shift from deity exchanges to a reigning human monarch's questions."},
+        {"q": "What does King Pasenadi ask the Buddha?",
+         "opts": [
+             "Whether he truly claims supreme perfect awakening",
+             "How many lamps light up the world",
+             "Whether the end of the world can be reached by travel",
+             "What one thing, when slain, brings peace"],
+         "correct": 0,
+         "expl": "The discourse's opening question, met with an unqualified affirmative."},
+        {"q": "Why is Pasenadi skeptical of this claim?",
+         "opts": [
+             "Six named religious founders, when asked, made no such claim",
+             "He has never heard of the Buddha before",
+             "He believes awakening is impossible for anyone",
+             "He was told by his ministers that the Buddha is a fraud"],
+         "correct": 0,
+         "expl": "A specific, informed skepticism naming six contemporary teachers by name."},
+        {"q": "What four things does the Buddha say should not be despised for their youth?",
+         "opts": [
+             "An aristocrat, a serpent, a fire, and a mendicant",
+             "A king, a queen, a general, and a priest",
+             "A child, an elder, a teacher, and a student",
+             "A river, a mountain, a forest, and a desert"],
+         "correct": 0,
+         "expl": "The Buddha's direct answer, developed through matching verses for each."},
+        {"q": "What happens to a forest burned by ordinary fire?",
+         "opts": [
+             "It regrows, with the passing of days and nights",
+             "It never recovers under any circumstances",
+             "It immediately catches fire again",
+             "The verse does not address this"],
+         "correct": 0,
+         "expl": "Set up as a contrast to the mendicant's more total, non-recovering consequence."},
+        {"q": "What happens to someone burned by a mendicant's ethical power, by contrast?",
+         "opts": [
+             "They become childless and heirless, like a palm-tree stump",
+             "They recover just as the forest does",
+             "They are transformed into a godling",
+             "Nothing; the verse denies mendicants have such power"],
+         "correct": 0,
+         "expl": "A consequence with no natural recovery, marking this danger as categorically different."},
+        {"q": "How does this discourse end?",
+         "opts": [
+             "With Pasenadi formally going for refuge as a lay follower for life",
+             "With Pasenadi departing unconvinced",
+             "With a further debate that remains unresolved",
+             "With the Buddha declining to continue the conversation"],
+         "correct": 0,
+         "expl": "This collection's first formal lay conversion, opening a recurring relationship."},
+        {"q": "How many named religious founders does Pasenadi list?",
+         "opts": [
+             "Six",
+             "Three",
+             "Ten",
+             "One"],
+         "correct": 0,
+         "expl": "Pūraṇa Kassapa, Gosāla, the Jain ascetic of the Ñātika clan, Sañjaya Belaṭṭhiputta, Pakudha Kaccāyana, and Ajita of the hair blanket."},
+        {"q": "What does the fourth thing (the mendicant) in the Buddha's list correspond to in the discourse itself?",
+         "opts": [
+             "The Buddha's own implicit self-description, newly gone forth and young",
+             "King Pasenadi himself",
+             "A specific disciple named elsewhere in the discourse",
+             "It corresponds to nothing within the discourse"],
+         "correct": 0,
+         "expl": "The discourse's own subject matter reflected back in its final example."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given"],
+         "correct": 0,
+         "expl": "The familiar monastery setting used throughout much of this collection."},
+    ],
+    marginalia=[
+        ("A king, not a godling", [
+            "a new saṃyutta begins &mdash;",
+            "questions with political weight",
+        ]),
+        ("Six teachers, no such claim", [
+            "so why would you, so young? &mdash;",
+            "Pasenadi's pointed challenge",
+        ]),
+        ("Fire that regrows, fire that doesn't", [
+            "a forest recovers in time &mdash;",
+            "a mendicant's burn does not",
+        ]),
+        ("A king takes refuge", [
+            "this book's first conversion &mdash;",
+            "a relationship now begun",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-2.30.html">SN 2.30 &middot; Disciples of Various '
+        "Sectarians</a> &mdash; the discourse immediately before this "
+        "one, closing the Devaputtasaṃyutta.",
+        '<a href="sn-3.2.html">SN 3.2 &middot; A Person</a> &mdash; the '
+        "next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.2 — Purisasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 2, "Purisa", "A Person",
+    meta_title="SN 3.2 — A Person | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Purisasutta — King Pasenadi asks what harms a person from "
+        "within, and the Buddha names greed, hate, and delusion, "
+        "compared to bamboo destroyed by its own fruit. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The Buddha and King Pasenadi of Kosala"),
+        ("Form", "A direct question in prose, a threefold answer, and a "
+                 "single closing simile-verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "short, direct discourse naming a foundational "
+                       "teaching"),
+    ],
+    why=(
+        "Pasenadi asks a foundational question: how many things arise "
+        "inside a person for their harm, suffering, and discomfort? The "
+        "Buddha answers with three &mdash; greed, hate, and delusion "
+        "&mdash; the root causes named across this entire tradition's "
+        "ethical teaching, here compressed into a single brief exchange "
+        "and closed by a single vivid simile: these three destroy a "
+        "person of wicked heart just as a bamboo plant is destroyed by "
+        "its own fruit."),
+    guide=[
+        ("A direct question, seeking a count", [
+            "Unlike SN 3.1's more elaborate exchange, this discourse "
+            "opens with Pasenadi asking a plain, countable question "
+            "&mdash; how many things arise inside a person for harm "
+            "&mdash; setting up an answer that can be stated in a single "
+            "breath."]),
+        ("The three roots, named directly", [
+            "Greed, hate, and delusion (lobha, dosa, moha) are this "
+            "tradition's most fundamental naming of what generates "
+            "unwholesome action; this discourse states them without "
+            "further elaboration, trusting the terms themselves to "
+            "carry their full weight."]),
+        ("Arising inside, not imposed from outside", [
+            "The question and answer both specify that these three "
+            "&lsquo;arise inside a person&rsquo;, locating the source of "
+            "harm within rather than attributing suffering to external "
+            "circumstance &mdash; a framing this discourse shares with "
+            "SN 3.4 and SN 3.5's later distinction between interior and "
+            "exterior sources of harm and protection."]),
+        ("A bamboo destroyed by its own fruit", [
+            "The closing simile draws on a specific botanical fact: "
+            "certain bamboo species die after fruiting, their own "
+            "reproductive act becoming the cause of their destruction "
+            "&mdash; mapped directly onto how greed, hate, and delusion "
+            "destroy the very person in whom they arise."]),
+        ("A pattern this saṃyutta will repeat", [
+            "The shape of this exchange &mdash; a direct question, a "
+            "confirmed answer, a closing verse &mdash; recurs across "
+            "several of King Pasenadi's discourses with the Buddha, "
+            "establishing early in this saṃyutta a conversational rhythm "
+            "distinct from the godling exchanges of this book's earlier "
+            "saṃyuttas."]),
+    ],
+    terms=[
+        ("lobha",
+         "&ldquo;greed&rdquo; &mdash; the first of the three things "
+         "named as arising inside a person for their harm."),
+        ("dosa",
+         "&ldquo;hate&rdquo; &mdash; the second of the three."),
+        ("moha",
+         "&ldquo;delusion&rdquo; &mdash; the third and final of the "
+         "three, completing this tradition's most fundamental naming of "
+         "unwholesome roots."),
+        ("veḷu",
+         "&ldquo;bamboo&rdquo; &mdash; the plant whose self-destructive "
+         "fruiting supplies the closing verse's central image."),
+        ("pāpacitta",
+         "&ldquo;wicked heart&rdquo; &mdash; the verse's description of "
+         "the person these three things are said to harm."),
+    ],
+    text_intro=(
+        "The discourse in full: Pasenadi's question, the Buddha's "
+        "threefold answer, and the closing bamboo simile. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.2:1.1-1.3"),
+        ("p", "&sect;2", "sn3.2:2.1-2.7"),
+        ("p", "&sect;3", "sn3.2:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What does King Pasenadi ask the Buddha in this discourse?",
+         "opts": [
+             "How many things arise inside a person for their harm, suffering, and discomfort",
+             "How many lamps light up the world",
+             "Whether the end of the world can be reached by travel",
+             "How many named teachers claim awakening"],
+         "correct": 0,
+         "expl": "A direct, countable question distinct from SN 3.1's more elaborate exchange."},
+        {"q": "What three things does the Buddha name?",
+         "opts": [
+             "Greed, hate, and delusion",
+             "Fear, doubt, and pride",
+             "Old age, sickness, and death",
+             "Wealth, fame, and power"],
+         "correct": 0,
+         "expl": "This tradition's most fundamental naming of the roots of unwholesome action."},
+        {"q": "Where does the discourse locate the source of these three things?",
+         "opts": [
+             "Arising inside a person, not imposed from outside",
+             "Imposed entirely by external circumstances",
+             "Caused by other people's actions alone",
+             "The discourse does not specify their source"],
+         "correct": 0,
+         "expl": "A framing shared with SN 3.4 and SN 3.5's later interior/exterior distinction."},
+        {"q": "What simile closes this discourse?",
+         "opts": [
+             "A bamboo destroyed by its own fruit",
+             "A lamp burning out in darkness",
+             "A tree struck by lightning",
+             "A river drying up in drought"],
+         "correct": 0,
+         "expl": "Drawing on the botanical fact that certain bamboo species die after fruiting."},
+        {"q": "How does the simile map onto greed, hate, and delusion?",
+         "opts": [
+             "They destroy the very person in whom they arise, as the bamboo's own fruit destroys it",
+             "They are harmless unless acted upon by others",
+             "They only affect a person's reputation, not their wellbeing",
+             "The simile is unrelated to the three roots named earlier"],
+         "correct": 0,
+         "expl": "A direct mapping of self-destruction onto the three roots' effect on their possessor."},
+        {"q": "How does this discourse's structure compare to SN 3.1's?",
+         "opts": [
+             "Shorter and more direct: a plain question, a confirmed answer, a single verse",
+             "Identical in every respect",
+             "Longer, with additional named figures",
+             "This discourse contains no verse at all"],
+         "correct": 0,
+         "expl": "A more compressed exchange than SN 3.1's fuller dialogue and conversion narrative."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "What conversational pattern does this discourse help establish for this saṃyutta?",
+         "opts": [
+             "A direct question, a confirmed answer, and a closing verse",
+             "A riddle with several candidate answers",
+             "A four-round refrain of lament and response",
+             "A silent exchange with no words spoken"],
+         "correct": 0,
+         "expl": "A rhythm distinct from the godling exchanges of this book's earlier saṃyuttas."},
+        {"q": "What does “moha” mean?",
+         "opts": [
+             "Delusion",
+             "Greed",
+             "Fear",
+             "Pride"],
+         "correct": 0,
+         "expl": "The third of the three roots named in this discourse."},
+        {"q": "What kind of person does the closing verse say these three things harm?",
+         "opts": [
+             "A person of wicked heart",
+             "Only kings and rulers",
+             "Only those who are already wealthy",
+             "Only mendicants who have broken their precepts"],
+         "correct": 0,
+         "expl": "The verse's own description of who is destroyed by greed, hate, and delusion."},
+    ],
+    marginalia=[
+        ("How many things harm?", [
+            "a plain question, a plain count &mdash;",
+            "three roots named directly",
+        ]),
+        ("Greed, hate, delusion", [
+            "arising inside, not from without &mdash;",
+            "this tradition's foundation stated",
+        ]),
+        ("A bamboo, its own destroyer", [
+            "fruit that kills the plant that bears it &mdash;",
+            "the roots destroy their own bearer",
+        ]),
+        ("A rhythm for this saṃyutta", [
+            "question, answer, verse &mdash;",
+            "a pattern this book repeats",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.1.html">SN 3.1 &middot; Young</a> &mdash; the '
+        "discourse immediately before this one, opening this saṃyutta.",
+        '<a href="sn-3.3.html">SN 3.3 &middot; Old Age and Death</a> '
+        "&mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 3.3 — Jarāmaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 3, "Jarāmaraṇa", "Old Age and Death",
+    meta_title="SN 3.3 — Old Age and Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Jarāmaraṇasutta — King Pasenadi asks if anyone is exempt from "
+        "old age and death, and the Buddha answers that not even "
+        "perfected mendicants' bodies escape breaking up. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The Buddha and King Pasenadi of Kosala"),
+        ("Form", "A direct question in prose, an unqualified answer "
+                 "spanning three social categories, and a closing "
+                 "simile-verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain in claim, notable for including even "
+                       "arahants within its scope"),
+    ],
+    why=(
+        "Pasenadi asks whether anyone reborn is exempt from old age and "
+        "death. The Buddha's answer is unqualified and spans three "
+        "categories in ascending significance: not wealthy aristocrats, "
+        "brahmins, or householders with all their gold and property; "
+        "and &mdash; most strikingly &mdash; not even mendicants who "
+        "have ended the defilements and are rightly freed through "
+        "enlightenment. Their bodies too are liable to break up. The "
+        "closing verse distinguishes what does age from what does not: "
+        "the body ages like a king's chariot, but the truth of the good "
+        "never does."),
+    guide=[
+        ("A question with an expected but still striking answer", [
+            "Pasenadi's question invites a straightforward denial, and "
+            "the Buddha gives one, but the way the answer is structured "
+            "&mdash; building from the wealthy to the enlightened "
+            "&mdash; makes its most notable claim land last: even full "
+            "liberation does not exempt the body from aging and death."]),
+        ("Wealth offers no exemption", [
+            "The first category the Buddha names is the wealthy "
+            "&mdash; aristocrats, brahmins, householders &lsquo;with "
+            "lots of gold and silver&rsquo; &mdash; establishing that "
+            "material advantage, however extensive, has no bearing on "
+            "this particular fact of existence."]),
+        ("Even arahants' bodies break up", [
+            "The second category is the most doctrinally significant: "
+            "mendicants who have &lsquo;ended the defilements, "
+            "completed the spiritual journey&hellip;and are rightly "
+            "freed through enlightenment&rsquo; still have bodies "
+            "&lsquo;liable to break up and be laid to rest&rsquo; "
+            "&mdash; distinguishing full liberation from physical "
+            "immortality with unambiguous clarity."]),
+        ("A chariot that wears out, a truth that does not", [
+            "The closing verse's central image compares the body to a "
+            "king's &lsquo;fancy chariot&rsquo;, an object of status and "
+            "craftsmanship that nonetheless wears out with use &mdash; "
+            "a comparison pointed directly at Pasenadi's own royal "
+            "station."]),
+        ("The good proclaiming to the good", [
+            "The verse's final line &mdash; &lsquo;so the good proclaim "
+            "to the good&rsquo; &mdash; frames this teaching not as "
+            "private insight but as something transmitted between "
+            "practitioners, one generation or one person passing the "
+            "same recognition to another."]),
+    ],
+    terms=[
+        ("jarāmaraṇa",
+         "&ldquo;old age and death&rdquo; &mdash; the pair of "
+         "inevitabilities Pasenadi's question asks whether anyone is "
+         "exempt from."),
+        ("khīṇāsava",
+         "&ldquo;one who has ended the defilements&rdquo; &mdash; the "
+         "Buddha's own term for the arahants named as still subject to "
+         "bodily breakup."),
+        ("sammadaññā vimutta",
+         "&ldquo;rightly freed through enlightenment&rdquo; &mdash; "
+         "part of the fuller description of the perfected mendicants "
+         "included in the Buddha's answer."),
+        ("citta ratha",
+         "&ldquo;fancy chariot&rdquo; &mdash; the verse's image of "
+         "royal status wearing out, addressed pointedly to the king "
+         "himself."),
+        ("sataṁ dhammo",
+         "&ldquo;the truth of the good&rdquo; &mdash; what the verse "
+         "says never grows old, in contrast to the body."),
+    ],
+    text_intro=(
+        "The discourse in full: Pasenadi's question, the Buddha's "
+        "unqualified answer, and the closing chariot verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.3:1.1-1.9"),
+        ("p", "&sect;2", "sn3.3:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does King Pasenadi ask in this discourse?",
+         "opts": [
+             "Whether anyone who has been reborn is exempt from old age and death",
+             "Whether the end of the world can be reached by travel",
+             "How many things arise inside a person for harm",
+             "Whether the Buddha claims supreme awakening"],
+         "correct": 0,
+         "expl": "A direct question inviting an unqualified answer."},
+        {"q": "Does the Buddha's answer exempt the wealthy?",
+         "opts": [
+             "No; wealthy aristocrats, brahmins, and householders are explicitly included",
+             "Yes, wealth is said to grant a partial exemption",
+             "The discourse does not address wealth at all",
+             "Only kings are exempt, according to the answer"],
+         "correct": 0,
+         "expl": "Material advantage is given no special bearing on old age and death."},
+        {"q": "Does the Buddha's answer exempt fully liberated mendicants?",
+         "opts": [
+             "No; even arahants' bodies are liable to break up",
+             "Yes, arahants are said to be physically immortal",
+             "The discourse does not mention arahants",
+             "Only the Buddha himself is said to be exempt"],
+         "correct": 0,
+         "expl": "The answer's most doctrinally significant claim, distinguishing liberation from physical immortality."},
+        {"q": "What image does the closing verse use for the body?",
+         "opts": [
+             "A king's fancy chariot that wears out with use",
+             "A lamp that eventually burns out",
+             "A tree that eventually falls",
+             "A river that eventually dries up"],
+         "correct": 0,
+         "expl": "A comparison pointed directly at Pasenadi's own royal station."},
+        {"q": "What does the verse say never grows old?",
+         "opts": [
+             "The truth of the good (sataṁ dhammo)",
+             "The physical body, if properly cared for",
+             "Royal wealth and power",
+             "Nothing; the verse denies anything is exempt"],
+         "correct": 0,
+         "expl": "Distinguished directly from the aging chariot in the same verse."},
+        {"q": "What does the verse's final line say about this truth?",
+         "opts": [
+             "That the good proclaim it to the good",
+             "That it is known only to the Buddha",
+             "That it must be discovered privately, never taught",
+             "That it applies only to mendicants, not laypeople"],
+         "correct": 0,
+         "expl": "Framing the teaching as something transmitted between practitioners."},
+        {"q": "How does the structure of the Buddha's answer build toward its strongest claim?",
+         "opts": [
+             "From the wealthy to the fully enlightened, in ascending significance",
+             "From the poor to the wealthy",
+             "In no particular order",
+             "From mendicants to laypeople"],
+         "correct": 0,
+         "expl": "Making the arahant example, its most striking claim, land last."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "What term does the Buddha use for a mendicant who has ended the defilements?",
+         "opts": [
+             "Khīṇāsava",
+             "Dahara",
+             "Sappurisa",
+             "Devaputta"],
+         "correct": 0,
+         "expl": "The term specifically describing the arahants named in this discourse's answer."},
+        {"q": "What is the overall relationship between physical mortality and full liberation, according to this discourse?",
+         "opts": [
+             "They are distinct: liberation does not grant physical immortality",
+             "They are identical: liberation means the body no longer ages",
+             "Liberation reverses aging that has already occurred",
+             "The discourse denies that liberation is possible at all"],
+         "correct": 0,
+         "expl": "The discourse's central clarification, stated with unambiguous directness."},
+    ],
+    marginalia=[
+        ("No exemption, asked plainly", [
+            "old age and death, for anyone &mdash;",
+            "the answer builds toward its point",
+        ]),
+        ("Wealth offers nothing here", [
+            "gold and silver, no exception &mdash;",
+            "the first category dismissed",
+        ]),
+        ("Even arahants' bodies break", [
+            "liberation, not immortality &mdash;",
+            "the answer's sharpest claim",
+        ]),
+        ("A chariot wears, a truth does not", [
+            "aimed at the king himself &mdash;",
+            "the good proclaiming to the good",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.2.html">SN 3.2 &middot; A Person</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-3.4.html">SN 3.4 &middot; Loved</a> &mdash; the '
+        "next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.4 — Piyasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 4, "Piya", "Loved",
+    meta_title="SN 3.4 — Loved | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Piyasutta — King Pasenadi's own private reflection on who "
+        "truly loves themselves, confirmed by the Buddha's verse on what "
+        "follows a person like a shadow beyond death. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "King Pasenadi of Kosala, reporting his own private "
+                     "reflection, and the Buddha"),
+        ("Form", "A first-person reported reflection, the Buddha's "
+                 "confirmation, and a four-stanza verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "king's own reasoning is worth following as "
+                       "closely as the Buddha's confirming verse"),
+    ],
+    why=(
+        "This discourse begins not with a question but with Pasenadi "
+        "reporting his own completed reasoning: reflecting privately on "
+        "who truly loves themselves, he concludes that those who do bad "
+        "things by body, speech, and mind don't really love themselves, "
+        "whatever they may say, because they treat themselves like an "
+        "enemy &mdash; and those who do good things do love themselves, "
+        "because they treat themselves like a loved one. The Buddha "
+        "confirms this reasoning as entirely correct and adds a verse on "
+        "what a person actually takes with them at death."),
+    guide=[
+        ("A king's own reasoning, not a question", [
+            "Unlike this saṃyutta's other discourses so far, Pasenadi "
+            "does not ask a question here; he reports a chain of "
+            "reasoning he has already worked through alone in private "
+            "retreat, arriving at his own conclusion before ever "
+            "bringing it to the Buddha."]),
+        ("Self-love redefined through action, not declaration", [
+            "The king's insight turns on a distinction between what "
+            "people say and what their actions reveal: someone can say "
+            "&lsquo;I love myself&rsquo; while acting against their own "
+            "good, and someone else can say &lsquo;I don't love "
+            "myself&rsquo; while consistently acting for their own "
+            "genuine benefit &mdash; declared self-regard and actual "
+            "self-regard treated as potentially opposite."]),
+        ("Treating oneself as enemy or as loved one", [
+            "The reasoning's pivot is a single image applied two ways: "
+            "bad conduct treats oneself &lsquo;like an enemy&rsquo;, "
+            "good conduct treats oneself &lsquo;like a loved one&rsquo; "
+            "&mdash; making self-love a matter of how one is treated by "
+            "one's own actions, not a feeling reported about oneself."]),
+        ("An elided repeat before the new verse", [
+            "The Buddha's confirmation includes repeating the king's own "
+            "statement, elided as blank segments in the source following "
+            "this book's established convention, before adding new "
+            "verses that were not part of the king's original "
+            "reflection."]),
+        ("What goes with you like a shadow", [
+            "The Buddha's added verses shift from the king's frame "
+            "(self-love through conduct) to a related but distinct "
+            "question: what does a person actually take with them at "
+            "death? The answer &mdash; the good and bad they have done, "
+            "&lsquo;like a shadow that never leaves&rsquo; &mdash; "
+            "extends the king's insight into this collection's broader "
+            "concern with what follows a person beyond this life."]),
+    ],
+    terms=[
+        ("attānaṁ piyaṁ",
+         "&ldquo;loving oneself&rdquo; &mdash; the quality the king's "
+         "private reflection sets out to define, through conduct rather "
+         "than declaration."),
+        ("verūpama",
+         "&ldquo;like an enemy&rdquo; &mdash; how bad conduct is said "
+         "to treat the self, revealing a lack of genuine self-love."),
+        ("piyūpama",
+         "&ldquo;like a loved one&rdquo; &mdash; the contrasting "
+         "treatment good conduct affords the self."),
+        ("antaka",
+         "&ldquo;the terminator&rdquo; &mdash; the verse's figure for "
+         "death, who seizes a person as they give up human life."),
+        ("chāyāva anapāyinī",
+         "&ldquo;like a shadow that never leaves&rdquo; &mdash; the "
+         "verse's image for what a person's own good and bad deeds do "
+         "at death."),
+    ],
+    text_intro=(
+        "The discourse in full, with the Buddha's elided repeat of the "
+        "king's own words skipped as blank in the source. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.4:1.1-1.19"),
+        ("p", "&sect;2", "sn3.4:2.1-2.1"),
+        ("p", "&sect;3", "sn3.4:3.1-3.4"),
+        ("p", "&sect;4", "sn3.4:4.1-5.6"),
+        ("p", "&sect;5", "sn3.4:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse begin, unlike this saṃyutta's other discourses so far?",
+         "opts": [
+             "With Pasenadi reporting his own already-completed reasoning, not a question",
+             "With a godling's riddle-verse",
+             "With the Buddha asking Pasenadi a question",
+             "With a description of a violent sacrifice"],
+         "correct": 0,
+         "expl": "The king arrives at his own conclusion in private retreat before bringing it to the Buddha."},
+        {"q": "What conclusion does Pasenadi reach about those who do bad things?",
+         "opts": [
+             "They don't truly love themselves, whatever they may say",
+             "They love themselves more than most people",
+             "Self-love is irrelevant to their conduct",
+             "They cannot be reasoned about at all"],
+         "correct": 0,
+         "expl": "Distinguishing declared self-regard from what actions actually reveal."},
+        {"q": "What image does the king's reasoning use to explain bad conduct?",
+         "opts": [
+             "Treating oneself like an enemy",
+             "Treating oneself like a stranger",
+             "Treating oneself like a king",
+             "Treating oneself like a child"],
+         "correct": 0,
+         "expl": "Making self-love a matter of how one's own actions treat oneself."},
+        {"q": "What image does the king's reasoning use for good conduct?",
+         "opts": [
+             "Treating oneself like a loved one",
+             "Treating oneself like a guest",
+             "Treating oneself like a rival",
+             "Treating oneself with indifference"],
+         "correct": 0,
+         "expl": "The direct contrast to the enemy image used for bad conduct."},
+        {"q": "How does the Buddha respond to the king's reasoning?",
+         "opts": [
+             "He confirms it as entirely correct, then repeats it before adding verses",
+             "He corrects a flaw in the king's logic",
+             "He rejects the king's conclusion",
+             "He remains silent"],
+         "correct": 0,
+         "expl": "“That's so true, great king! That's so true!” followed by an elided repeat."},
+        {"q": "What new question do the Buddha's added verses address?",
+         "opts": [
+             "What a person actually takes with them at death",
+             "How many teachers claim awakening",
+             "How many lamps light the world",
+             "Whether the end of the world can be reached by travel"],
+         "correct": 0,
+         "expl": "Extending the king's frame into this collection's concern with what follows death."},
+        {"q": "What does the verse say a person takes with them at death?",
+         "opts": [
+             "The good and bad they have done, like a shadow that never leaves",
+             "Their wealth and possessions",
+             "Their family and friends",
+             "Nothing; death is described as total annihilation"],
+         "correct": 0,
+         "expl": "The verse's central answer, closing on the shadow image."},
+        {"q": "How is death itself figured in this verse?",
+         "opts": [
+             "As “the terminator,” who seizes a person as they give up human life",
+             "As a peaceful transition with no active agent",
+             "As a reward for good conduct",
+             "The verse does not personify death"],
+         "correct": 0,
+         "expl": "A figure (antaka) named directly in the verse's opening stanza."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "How does this discourse's structure handle the Buddha's repetition of the king's words?",
+         "opts": [
+             "It is elided as blank segments, following this book's established convention",
+             "It is quoted in full a second time",
+             "The Buddha paraphrases rather than repeating exactly",
+             "There is no repetition in this discourse"],
+         "correct": 0,
+         "expl": "Consistent with the elided-repeat convention used elsewhere in this collection."},
+    ],
+    marginalia=[
+        ("A king's own conclusion", [
+            "reasoned through in private retreat &mdash;",
+            "brought to the Buddha, already formed",
+        ]),
+        ("Enemy, or loved one", [
+            "the same self, treated two ways &mdash;",
+            "conduct reveals which is true",
+        ]),
+        ("So true, the Buddha says", [
+            "confirmation, then addition &mdash;",
+            "a new question follows the old",
+        ]),
+        ("A shadow that never leaves", [
+            "good and bad, carried onward &mdash;",
+            "what death cannot take away",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.3.html">SN 3.3 &middot; Old Age and Death</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-3.5.html">SN 3.5 &middot; Self-Protected</a> '
+        "&mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 3.5 — Attarakkhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 5, "Attarakkhita", "Self-Protected",
+    meta_title="SN 3.5 — Self-Protected | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Attarakkhitasutta — King Pasenadi's own reflection on what "
+        "truly protects a person, concluding that ethical restraint "
+        "outperforms even an army. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "King Pasenadi of Kosala, reporting his own private "
+                     "reflection, and the Buddha"),
+        ("Form", "A first-person reported reflection paired directly "
+                 "with SN 3.4's, confirmed by the Buddha and closed with "
+                 "a single compact verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "read directly alongside SN 3.4 for its shared "
+                       "reasoning structure"),
+    ],
+    why=(
+        "Following the same pattern as SN 3.4, Pasenadi reports a "
+        "second private reflection: who truly protects themselves, and "
+        "who doesn't? His answer distinguishes interior from exterior "
+        "protection &mdash; even a king surrounded by elephants, "
+        "cavalry, chariots, and infantry doesn't protect himself if his "
+        "conduct is bad, because that protection is exterior; someone "
+        "with no such escort at all does protect themselves through good "
+        "conduct, because that protection is interior. The Buddha "
+        "confirms this and closes with a single, tightly compressed "
+        "verse on restraint."),
+    guide=[
+        ("A second reflection, sharing SN 3.4's exact structure", [
+            "This discourse repeats SN 3.4's opening formula almost "
+            "word for word &mdash; a private reflection, a question "
+            "posed to himself, a reasoned answer &mdash; substituting "
+            "protection for love as the quality under examination, "
+            "making the two discourses a clear matched pair."]),
+        ("A king's own military escort, found insufficient", [
+            "The reflection's most pointed detail is specific to "
+            "Pasenadi's own circumstances: even &lsquo;a company of "
+            "elephants, cavalry, chariots, or infantry&rsquo; &mdash; "
+            "the literal apparatus of royal protection &mdash; is "
+            "declared insufficient if the person so guarded acts badly, "
+            "a king reasoning against the very security his own office "
+            "provides."]),
+        ("Interior versus exterior, the reasoning's hinge", [
+            "The distinction the king draws is explicit: military "
+            "escort is &lsquo;exterior&rsquo; protection, while ethical "
+            "conduct is &lsquo;interior&rsquo; &mdash; and only the "
+            "interior kind counts as genuinely protecting the person "
+            "who has it, regardless of what exterior protection "
+            "surrounds them."]),
+        ("The same elided-confirmation pattern as SN 3.4", [
+            "As with SN 3.4, the Buddha's confirmation includes an "
+            "elided repetition of the king's own words, blank in the "
+            "source, before the discourse moves to its own closing "
+            "verse rather than merely restating the king's reasoning in "
+            "verse form."]),
+        ("A four-line verse compressing the whole argument", [
+            "Where SN 3.4's closing verses ran to several stanzas "
+            "developing a related but distinct point about death, this "
+            "discourse's verse is far more compact: four lines simply "
+            "naming restraint of body, speech, and mind, and everywhere, "
+            "as what earns the name &lsquo;protected&rsquo;."]),
+    ],
+    terms=[
+        ("attarakkhita",
+         "&ldquo;self-protected&rdquo; &mdash; the quality the king's "
+         "reflection sets out to define, giving this discourse its "
+         "title."),
+        ("bāhira rakkhā",
+         "&ldquo;exterior protection&rdquo; &mdash; the king's term for "
+         "military escort, judged insufficient on its own."),
+        ("ajjhattika rakkhā",
+         "&ldquo;interior protection&rdquo; &mdash; ethical conduct, "
+         "the only protection the king's reasoning counts as genuine."),
+        ("kāyena saṁvaro",
+         "&ldquo;restraint of the body&rdquo; &mdash; the first of "
+         "three specific restraints named in the closing verse."),
+        ("sabbattha saṁvuto",
+         "&ldquo;restrained everywhere&rdquo; &mdash; the verse's final "
+         "generalization, closing the discourse's compact argument."),
+    ],
+    text_intro=(
+        "The discourse in full, with the Buddha's elided repeat of the "
+        "king's own words skipped as blank in the source. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.5:1.1-1.19"),
+        ("p", "&sect;2", "sn3.5:2.1-2.1"),
+        ("p", "&sect;3", "sn3.5:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What question does Pasenadi's private reflection address in this discourse?",
+         "opts": [
+             "Who truly protects themselves, and who doesn't",
+             "Who truly loves themselves, and who doesn't",
+             "How many teachers claim awakening",
+             "Whether anyone is exempt from old age and death"],
+         "correct": 0,
+         "expl": "A distinct question from SN 3.4's, but sharing its exact structure."},
+        {"q": "What does the king say about a company of elephants, cavalry, chariots, and infantry?",
+         "opts": [
+             "It does not truly protect someone whose own conduct is bad",
+             "It always guarantees genuine protection",
+             "It is irrelevant to the discourse's subject",
+             "It protects only the king, never his subjects"],
+         "correct": 0,
+         "expl": "A king reasoning against the very security his own office provides."},
+        {"q": "What distinction does the king's reasoning turn on?",
+         "opts": [
+             "Interior protection (ethical conduct) versus exterior protection (military escort)",
+             "Wealth versus poverty",
+             "Youth versus old age",
+             "City life versus forest life"],
+         "correct": 0,
+         "expl": "Only interior protection counts as genuinely protecting the person who has it."},
+        {"q": "How does this discourse's opening compare to SN 3.4's?",
+         "opts": [
+             "It repeats the same formula almost word for word, substituting protection for love",
+             "It is entirely unrelated in structure",
+             "It begins with a question rather than a reflection",
+             "It is spoken by a godling rather than the king"],
+         "correct": 0,
+         "expl": "Making the two discourses a clear matched pair."},
+        {"q": "How does the Buddha respond to the king's reasoning?",
+         "opts": [
+             "He confirms it, then repeats it, elided as blank in the source",
+             "He rejects the king's conclusion",
+             "He asks the king to clarify further",
+             "He remains silent"],
+         "correct": 0,
+         "expl": "The same elided-confirmation pattern used at SN 3.4."},
+        {"q": "What does the closing verse name as earning the title “protected”?",
+         "opts": [
+             "Restraint of body, speech, and mind, and everywhere",
+             "A strong company of soldiers",
+             "High city walls and a moat",
+             "Wealth sufficient to hire guards"],
+         "correct": 0,
+         "expl": "The verse's compact four-line conclusion."},
+        {"q": "How does this discourse's closing verse compare in length to SN 3.4's?",
+         "opts": [
+             "Far more compact, a single four-line stanza versus several",
+             "Considerably longer",
+             "Identical in length",
+             "This discourse has no closing verse"],
+         "correct": 0,
+         "expl": "SN 3.4 develops a related point about death across multiple stanzas; this one stays compressed."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "What kind of protection does the king say a well-guarded but badly behaved person lacks?",
+         "opts": [
+             "Interior protection",
+             "Exterior protection",
+             "Both interior and exterior protection",
+             "Neither; the discourse says such a person is fully protected"],
+         "correct": 0,
+         "expl": "Military escort alone is judged insufficient without interior, ethical protection."},
+        {"q": "What title does this discourse give to a person restrained in body, speech, and mind?",
+         "opts": [
+             "“Protected” (attarakkhita)",
+             "“Free of strife” (araṇa)",
+             "“Endowed with ethics” (sīlasampanna)",
+             "“Gone for refuge” (saraṇaṅgata)"],
+         "correct": 0,
+         "expl": "The specific term the closing verse applies to one restrained everywhere."},
+    ],
+    marginalia=[
+        ("A second private reflection", [
+            "protection, not love, examined now &mdash;",
+            "the same structure as SN 3.4",
+        ]),
+        ("Elephants, cavalry, no help", [
+            "a king's own guard, found lacking &mdash;",
+            "if the conduct beneath it is bad",
+        ]),
+        ("Interior, not exterior", [
+            "the reasoning's hinge, stated plainly &mdash;",
+            "only conduct truly protects",
+        ]),
+        ("Four lines, the whole argument", [
+            "restraint of body, speech, mind &mdash;",
+            "compressed to its essential claim",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.4.html">SN 3.4 &middot; Loved</a> &mdash; this '
+        "discourse's structurally matched predecessor.",
+        '<a href="sn-3.6.html">SN 3.6 &middot; Few</a> &mdash; the next '
+        "discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.6 — Appakasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 6, "Appaka", "Few",
+    meta_title="SN 3.6 — Few | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Appakasutta — King Pasenadi's blunt observation that few people "
+        "handle luxury without growing negligent, confirmed by the "
+        "Buddha's simile of deer caught in a trap. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "King Pasenadi of Kosala, reporting his own private "
+                     "reflection, and the Buddha"),
+        ("Form", "A first-person reported reflection, brief confirmation, "
+                 "and a single closing simile-verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "third consecutive private reflection, worth "
+                       "reading as part of a pattern"),
+    ],
+    why=(
+        "This discourse continues the pattern of SN 3.4 and SN 3.5 with "
+        "a third private reflection, this time on wealth: Pasenadi "
+        "observes that few beings, upon obtaining luxury possessions, "
+        "avoid growing indulgent and negligent, giving in to sensual "
+        "greed and wronging others &mdash; while many more do exactly "
+        "that. The Buddha confirms the observation and closes with a "
+        "simile: those infatuated with pleasure, not noticing they've "
+        "gone too far, are like deer caught in a trap that has been "
+        "set out for them."),
+    guide=[
+        ("A third private reflection, on wealth this time", [
+            "Following love (SN 3.4) and protection (SN 3.5), this "
+            "discourse's reflection turns to a third subject: what "
+            "happens to people, statistically, when they come into "
+            "luxury &mdash; completing what could be read as a loose "
+            "trilogy of the king's own private ethical observations."]),
+        ("A statistical claim, not an absolute one", [
+            "Unlike SN 3.4 and SN 3.5's binary distinctions (those who "
+            "do versus those who don't), this reflection is explicitly "
+            "comparative: &lsquo;few&rsquo; avoid negligence with "
+            "luxury, while &lsquo;many more&rsquo; succumb to it, "
+            "acknowledging exceptions exist without denying the general "
+            "pattern."]),
+        ("The shortest confirmation formula so far", [
+            "The Buddha's reply here is the most compressed of this "
+            "trio's confirmations: no additional prose commentary before "
+            "the elided repeat and the verse, letting the king's own "
+            "observation stand with minimal further elaboration."]),
+        ("Deer in a trap, not noticing", [
+            "The closing simile's key detail is not the trap itself but "
+            "the deer's failure to notice: those infatuated with "
+            "possessions and pleasure &lsquo;don't notice that they've "
+            "gone too far&rsquo;, mirroring how the king's own "
+            "observation concerns a failure of self-awareness under "
+            "luxury's influence, not a deliberate choice to do wrong."]),
+        ("A simile this saṃyutta reuses with variation", [
+            "The same closing couplet &mdash; &lsquo;it'll be bitter "
+            "later on; for the result will be bad for them&rsquo; "
+            "&mdash; recurs at SN 3.7 with a different animal (fish "
+            "rather than deer), suggesting this pairing of image and "
+            "refrain functioned as a reusable unit within this "
+            "saṃyutta, similar to the shared couplets already seen in "
+            "the Devaputtasaṃyutta."]),
+    ],
+    terms=[
+        ("santavibhava",
+         "&ldquo;luxury possessions&rdquo; &mdash; what the king's "
+         "reflection identifies as the trigger for the pattern he "
+         "observes."),
+        ("pamatta",
+         "&ldquo;negligent&rdquo; &mdash; the quality most people are "
+         "said to grow into upon obtaining such possessions."),
+        ("kāmagedha",
+         "&ldquo;greed for sensual pleasures&rdquo; &mdash; the "
+         "specific unwholesome state the reflection names as taking "
+         "hold."),
+        ("migā vāguriyā yathā baddhā",
+         "&ldquo;like deer ensnared in a trap set out&rdquo; &mdash; "
+         "the closing verse's central image, not noticing the trap "
+         "until caught."),
+        ("pacchā hi kaṭukaṁ hoti",
+         "&ldquo;it'll be bitter later on&rdquo; &mdash; the closing "
+         "refrain shared with SN 3.7's similar simile."),
+    ],
+    text_intro=(
+        "The discourse in full, with the Buddha's elided repeat of the "
+        "king's own words skipped as blank in the source. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.6:1.1-1.5"),
+        ("p", "&sect;2", "sn3.6:2.1-2.1"),
+        ("p", "&sect;3", "sn3.6:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What subject does Pasenadi's private reflection address in this discourse?",
+         "opts": [
+             "What happens to people when they obtain luxury possessions",
+             "Who truly loves themselves",
+             "Who truly protects themselves",
+             "Whether anyone is exempt from old age and death"],
+         "correct": 0,
+         "expl": "A third reflection following love (SN 3.4) and protection (SN 3.5)."},
+        {"q": "How does the king characterize the pattern he observes?",
+         "opts": [
+             "Statistically: few avoid negligence with luxury, many more succumb to it",
+             "As an absolute rule with no exceptions whatsoever",
+             "As affecting only the very wealthy, never ordinary people",
+             "As entirely unpredictable, with no discernible pattern"],
+         "correct": 0,
+         "expl": "Explicitly comparative, unlike SN 3.4 and SN 3.5's binary distinctions."},
+        {"q": "How does the Buddha's confirmation here compare to SN 3.4 and SN 3.5's?",
+         "opts": [
+             "It is the most compressed, with minimal additional commentary",
+             "It is considerably longer, with new prose added",
+             "The Buddha disagrees with the king this time",
+             "There is no confirmation in this discourse"],
+         "correct": 0,
+         "expl": "Letting the king's own observation stand with little further elaboration."},
+        {"q": "What image does the closing verse use?",
+         "opts": [
+             "Deer ensnared in a trap that has been set out",
+             "Fish caught in a swiftly cast net",
+             "Birds trapped in a cage",
+             "A moth drawn to a flame"],
+         "correct": 0,
+         "expl": "The specific animal image for this discourse, differing from SN 3.7's fish."},
+        {"q": "What key detail does the simile emphasize about the deer?",
+         "opts": [
+             "Their failure to notice they've gone too far",
+             "Their strength in resisting the trap",
+             "Their ability to escape before being caught",
+             "Their awareness of the danger beforehand"],
+         "correct": 0,
+         "expl": "Mirroring a failure of self-awareness under luxury's influence, not deliberate wrongdoing."},
+        {"q": "What closing couplet does this discourse's verse share with SN 3.7?",
+         "opts": [
+             "“It'll be bitter later on; for the result will be bad for them”",
+             "“The truth of the good never gets old”",
+             "“Like a shadow that never leaves”",
+             "“Restrained everywhere, is said to be protected”"],
+         "correct": 0,
+         "expl": "A reusable refrain paired with different animal images across the two discourses."},
+        {"q": "What does this shared refrain suggest, according to the reading guide?",
+         "opts": [
+             "That this image-and-refrain pairing functioned as a reusable unit within this saṃyutta",
+             "That SN 3.6 and SN 3.7 are actually the same discourse duplicated",
+             "That one of the two discourses is a later forgery",
+             "Nothing significant; the repetition is coincidental"],
+         "correct": 0,
+         "expl": "Similar to the shared couplets already observed in the Devaputtasaṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "What do these three consecutive discourses (SN 3.4, 3.5, 3.6) have in common structurally?",
+         "opts": [
+             "Each opens with Pasenadi reporting a private reflection rather than asking a question",
+             "Each is spoken entirely by a godling",
+             "Each contains no closing verse",
+             "Each is set in a different city"],
+         "correct": 0,
+         "expl": "A loose trilogy of the king's own private ethical observations."},
+        {"q": "What does “pamatta” mean?",
+         "opts": [
+             "Negligent",
+             "Generous",
+             "Wealthy",
+             "Restrained"],
+         "correct": 0,
+         "expl": "The quality most people are said to grow into upon obtaining luxury possessions."},
+    ],
+    marginalia=[
+        ("A third reflection, on wealth", [
+            "few resist its pull toward negligence &mdash;",
+            "many more give way to it",
+        ]),
+        ("Few, not none", [
+            "a statistical claim, not absolute &mdash;",
+            "exceptions granted, the pattern held",
+        ]),
+        ("Deer, not noticing the trap", [
+            "infatuation blinding awareness &mdash;",
+            "caught before they know it",
+        ]),
+        ("Bitter later, shared with SN 3.7", [
+            "the same refrain, a different animal &mdash;",
+            "a reusable pairing, it seems",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.5.html">SN 3.5 &middot; Self-Protected</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-3.7.html">SN 3.7 &middot; Judgment</a> &mdash; the '
+        "next discourse in this vagga, sharing this one's closing "
+        "refrain.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 3.7 — Atthakaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 7, "Atthakaraṇa", "Judgment",
+    meta_title="SN 3.7 — Judgment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Atthakaraṇasutta — King Pasenadi's own experience presiding "
+        "over court, watching the wealthy lie for sensual pleasure, "
+        "confirmed by the Buddha's simile of fish swiftly snared. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "King Pasenadi of Kosala, reporting his own "
+                     "courtroom observation, and the Buddha"),
+        ("Form", "A first-person reported observation, a fuller "
+                 "confirmation than usual, and a closing simile-verse "
+                 "shared with SN 3.6"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "grounded in the king's actual duties, not "
+                       "private philosophical reflection"),
+    ],
+    why=(
+        "Unlike SN 3.4 through SN 3.6's private reflections, this "
+        "discourse reports something Pasenadi has directly witnessed in "
+        "his official capacity: sitting in judgment, he sees wealthy "
+        "aristocrats, brahmins, and householders tell deliberate lies "
+        "for the sake of sensual pleasure, and resolves that his "
+        "dearest will now be known by the judgments he makes rather "
+        "than by wealth or status. The Buddha confirms this observation "
+        "at unusual length, naming it a cause of lasting harm, before "
+        "closing with a verse on fish swiftly snared, sharing its refrain "
+        "with SN 3.6's deer."),
+    guide=[
+        ("Direct observation, not private reflection", [
+            "This discourse breaks the pattern of SN 3.4 through SN "
+            "3.6: rather than a philosophical reflection worked out in "
+            "solitude, Pasenadi reports something he has actually "
+            "witnessed while performing one of his core royal duties, "
+            "presiding over legal judgment."]),
+        ("A king resolving to change how he judges his own favorites", [
+            "The king's conclusion is personal and practical, not "
+            "abstract: &lsquo;enough with passing judgment today&rsquo;, "
+            "he decides, resolving that from now on his own dearest "
+            "will be known by the quality of the judgments they make, "
+            "not by rank or closeness to him &mdash; a resolution about "
+            "how he himself will evaluate people going forward."]),
+        ("A fuller confirmation than this trilogy's earlier discourses", [
+            "Where SN 3.4 through SN 3.6 confirm the king briefly before "
+            "moving to an elided repeat, the Buddha's reply here "
+            "restates the substance of the observation directly &mdash; "
+            "naming lying for sensual pleasure a cause of &lsquo;lasting "
+            "harm and suffering&rsquo; &mdash; without the elision "
+            "pattern used in the three discourses immediately "
+            "preceding it."]),
+        ("Fish swiftly snared, echoing SN 3.6's deer", [
+            "The closing verse repeats SN 3.6's opening two lines and "
+            "closing couplet nearly exactly, changing only the central "
+            "image: fish &lsquo;swiftly snared&rsquo; in place of deer "
+            "caught in a trap, confirming the reading guide's earlier "
+            "observation that this pairing of refrain and animal image "
+            "functioned as a reusable unit."]),
+        ("Wealth and status as no guarantee of honesty", [
+            "The specific detail that it is the wealthy &mdash; those "
+            "with &lsquo;lots of gold and silver&rsquo; &mdash; who lie "
+            "for sensual pleasure in the king's account complicates any "
+            "assumption that material security alone produces honest "
+            "conduct, consistent with this saṃyutta's recurring "
+            "skepticism toward wealth as a moral safeguard."]),
+    ],
+    terms=[
+        ("atthakaraṇa",
+         "&ldquo;judgment, legal case&rdquo; &mdash; the royal duty "
+         "Pasenadi is performing when he makes the observation this "
+         "discourse reports."),
+        ("sampajānamusā",
+         "&ldquo;deliberate lies&rdquo; &mdash; what the king observes "
+         "wealthy litigants telling for the sake of sensual pleasure."),
+        ("dīgharattaṁ ahitāya dukkhāya",
+         "&ldquo;for their lasting harm and suffering&rdquo; &mdash; "
+         "the Buddha's own characterization of this conduct's "
+         "consequence."),
+        ("macchā yathā vāguriyā yathā baddhā",
+         "&ldquo;like fish swiftly snared&rdquo; &mdash; the closing "
+         "verse's central image, replacing SN 3.6's deer while keeping "
+         "the same refrain."),
+        ("piya",
+         "&ldquo;dearest&rdquo; &mdash; the king's own term for whom he "
+         "resolves to now judge by the quality of their judgments, not "
+         "by rank."),
+    ],
+    text_intro=(
+        "The discourse in full: the king's courtroom observation, the "
+        "Buddha's confirmation, and the closing verse shared with SN "
+        "3.6. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.7:1.1-1.5"),
+        ("p", "&sect;2", "sn3.7:2.1-2.4"),
+        ("p", "&sect;3", "sn3.7:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 3.4 through SN 3.6?",
+         "opts": [
+             "It reports something directly witnessed in an official capacity, not a private reflection",
+             "It is spoken by a godling rather than the king",
+             "It contains no confirmation from the Buddha at all",
+             "It is set in a different city entirely"],
+         "correct": 0,
+         "expl": "Breaking the pattern of private philosophical reflection used in the three preceding discourses."},
+        {"q": "What does Pasenadi observe while presiding over court?",
+         "opts": [
+             "Wealthy aristocrats, brahmins, and householders telling deliberate lies for sensual pleasure",
+             "That all litigants in his court are entirely honest",
+             "That poverty is the main cause of dishonesty in his court",
+             "That his officials are more corrupt than the litigants"],
+         "correct": 0,
+         "expl": "The specific observation this discourse reports."},
+        {"q": "What does the king resolve to do differently going forward?",
+         "opts": [
+             "Judge his own dearest by the quality of the judgments they make, not by rank",
+             "Stop presiding over legal cases entirely",
+             "Punish all litigants who lie, regardless of circumstance",
+             "Delegate all judgment to his ministers"],
+         "correct": 0,
+         "expl": "A personal, practical resolution about how he himself will evaluate people."},
+        {"q": "How does the Buddha's confirmation here compare to SN 3.4-3.6's?",
+         "opts": [
+             "It is fuller, restating the observation directly rather than using the elided-repeat pattern",
+             "It is identical in every respect",
+             "It rejects the king's observation",
+             "It is entirely silent, with no confirmation given"],
+         "correct": 0,
+         "expl": "Naming the conduct's consequence directly, without the elision used in the three preceding discourses."},
+        {"q": "What does the Buddha call this deliberate lying a cause of?",
+         "opts": [
+             "Lasting harm and suffering",
+             "Temporary embarrassment only",
+             "Wealth and further gain",
+             "Nothing significant"],
+         "correct": 0,
+         "expl": "The Buddha's own characterization, stated directly in his reply."},
+        {"q": "What image does this discourse's closing verse use, and what does it share with SN 3.6?",
+         "opts": [
+             "Fish swiftly snared, sharing SN 3.6's opening lines and closing refrain",
+             "Deer in a trap, identical to SN 3.6 in every word",
+             "A completely different image with no relation to SN 3.6",
+             "No verse closes this discourse"],
+         "correct": 0,
+         "expl": "Confirming the reading guide's observation that this refrain-and-image pairing was reused."},
+        {"q": "What detail complicates the assumption that wealth guarantees honest conduct?",
+         "opts": [
+             "It is specifically the wealthy who are observed lying for sensual pleasure",
+             "The discourse says only the poor lie in court",
+             "The discourse denies that anyone lies in court",
+             "Wealth is not mentioned in this discourse at all"],
+         "correct": 0,
+         "expl": "Consistent with this saṃyutta's recurring skepticism toward wealth as a moral safeguard."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Sāketa, in the deer park",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this collection."},
+        {"q": "What royal duty is Pasenadi performing when he makes this observation?",
+         "opts": [
+             "Sitting in judgment over legal cases",
+             "Leading his army into battle",
+             "Collecting taxes from his territories",
+             "Conducting a religious sacrifice"],
+         "correct": 0,
+         "expl": "The context (atthakaraṇa) that gives this discourse its title."},
+        {"q": "What term does the king use for whom he will now judge by their judgments?",
+         "opts": [
+             "His “dearest” (piya)",
+             "His “enemies”",
+             "His “ministers” specifically",
+             "His “subjects” in general, without distinction"],
+         "correct": 0,
+         "expl": "A personal resolution about how he evaluates those closest to him."},
+    ],
+    marginalia=[
+        ("Witnessed, not merely reasoned", [
+            "a courtroom, not a private retreat &mdash;",
+            "lies told for sensual pleasure",
+        ]),
+        ("Enough with judgment today", [
+            "a king's own resolve stated &mdash;",
+            "his dearest judged by their judgments",
+        ]),
+        ("Confirmed at fuller length", [
+            "no elision this time &mdash;",
+            "lasting harm, named directly",
+        ]),
+        ("Fish, not deer, this time", [
+            "the same refrain reused &mdash;",
+            "a pairing that travels between suttas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.6.html">SN 3.6 &middot; Few</a> &mdash; the '
+        "discourse immediately before this one, sharing its closing "
+        "refrain.",
+        '<a href="sn-3.8.html">SN 3.8 &middot; With Queen Mallikā</a> '
+        "&mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.8 — Mallikāsutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 8, "Mallikā", "With Queen Mallikā",
+    meta_title="SN 3.8 — With Queen Mallikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Mallikāsutta — King Pasenadi and Queen Mallikā's private "
+        "exchange leads to one of this canon's most famous teachings: no "
+        "one is dearer to anyone than themselves, so let no one harm "
+        "another. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the royal longhouse, then near the "
+                    "Buddha"),
+        ("Speakers", "King Pasenadi, Queen Mallikā, and the Buddha"),
+        ("Form", "A brief private dialogue reported to the Buddha, "
+                 "answered with a single, widely known verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and simple, but among the most consequential "
+                       "verses in this entire collection"),
+    ],
+    why=(
+        "This discourse's setting is domestic rather than public: King "
+        "Pasenadi asks Queen Mallikā, upstairs in their royal longhouse, "
+        "whether anyone is dearer to her than herself. She says no "
+        "&mdash; then asks the same of him, and he gives the same "
+        "answer. Pasenadi brings this exchange to the Buddha, who "
+        "confirms it with a single verse now counted among the most "
+        "famous in the entire Pali canon: having searched every "
+        "direction, one finds no one dearer than oneself; since this is "
+        "equally true for everyone, one who values themselves should "
+        "harm no other."),
+    guide=[
+        ("A private bedroom conversation, made public", [
+            "Unlike this saṃyutta's other discourses, the exchange this "
+            "one reports did not happen in the Buddha's presence at all "
+            "&mdash; it took place between husband and wife, upstairs "
+            "in their own residence, and only afterward does Pasenadi "
+            "descend to bring it to the Buddha for confirmation."]),
+        ("A question answered identically by both", [
+            "The structure is symmetrical: Mallikā answers first, "
+            "denying anyone is dearer to her than herself, then "
+            "immediately turns the same question back on Pasenadi, who "
+            "gives the identical answer &mdash; two people independently "
+            "confirming the same self-regarding truth about themselves."]),
+        ("From private confirmation to universal principle", [
+            "The Buddha's verse takes what began as two individuals' "
+            "honest self-assessment and generalizes it without "
+            "exception: not merely that Pasenadi and Mallikā hold "
+            "themselves dearest, but that &lsquo;likewise for others, "
+            "each holds themselves dear&rsquo; &mdash; universalizing a "
+            "private observation into a claim about every being."]),
+        ("A conclusion that follows logically, not merely morally", [
+            "The verse's closing line &mdash; &lsquo;so one who desires "
+            "self-knowledge would harm no other&rsquo; &mdash; presents "
+            "non-harm not as an external rule imposed on self-interest "
+            "but as what follows once self-interest is understood "
+            "clearly enough to recognize the same self-interest in "
+            "everyone else."]),
+        ("This canon's most direct statement of ethical reciprocity", [
+            "This verse is widely cited, within and beyond the "
+            "Buddhist tradition, as one of the clearest early "
+            "articulations of a golden-rule-like principle: rather than "
+            "commanding empathy as a separate virtue, it derives "
+            "non-harm directly from honest self-knowledge, made "
+            "universal."]),
+    ],
+    terms=[
+        ("Mallikā",
+         "&ldquo;Mallikā&rdquo; &mdash; King Pasenadi's queen, whose "
+         "own honest self-assessment opens this discourse's exchange."),
+        ("piyataro attanā",
+         "&ldquo;dearer than oneself&rdquo; &mdash; the specific "
+         "question both Pasenadi and Mallikā answer identically, "
+         "finding no one."),
+        ("sabbā disā anuparigamma",
+         "&ldquo;having explored every quarter&rdquo; &mdash; the "
+         "verse's own image for a thorough, universal search yielding "
+         "the same result everywhere."),
+        ("attakāmo",
+         "&ldquo;one who desires self-knowledge&rdquo; (literally, one "
+         "who loves the self) &mdash; the verse's description of who "
+         "draws the conclusion of non-harm."),
+        ("na hiṁse param",
+         "&ldquo;would harm no other&rdquo; &mdash; the verse's closing "
+         "conclusion, among the most quoted lines in this collection."),
+    ],
+    text_intro=(
+        "The discourse in full: the private exchange between king and "
+        "queen, and the Buddha's confirming verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.8:1.1-1.7"),
+        ("p", "&sect;2", "sn3.8:2.1-2.1"),
+        ("p", "&sect;3", "sn3.8:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "Where does the exchange this discourse reports actually take place?",
+         "opts": [
+             "Privately, between king and queen in their royal longhouse",
+             "In the Buddha's presence, at Jeta's Grove",
+             "In the king's courtroom",
+             "In a public assembly"],
+         "correct": 0,
+         "expl": "Only afterward does Pasenadi bring the exchange to the Buddha for confirmation."},
+        {"q": "What question does Pasenadi first ask Mallikā?",
+         "opts": [
+             "Whether anyone is dearer to her than herself",
+             "Whether she believes the Buddha is truly awakened",
+             "Whether she has ever lied in court",
+             "Whether she fears old age and death"],
+         "correct": 0,
+         "expl": "The question that opens the discourse's private exchange."},
+        {"q": "How does Mallikā answer?",
+         "opts": [
+             "No, there isn't anyone dearer to her than herself",
+             "Yes, the king is dearer to her than herself",
+             "She refuses to answer",
+             "She says the Buddha is dearer to her than herself"],
+         "correct": 0,
+         "expl": "An honest self-assessment, then turned back as a question to the king."},
+        {"q": "How does Pasenadi answer the same question about himself?",
+         "opts": [
+             "Identically: for him also, there is no one dearer than himself",
+             "Differently: he says Mallikā is dearer to him",
+             "He refuses to answer",
+             "He says his kingdom is dearer to him than himself"],
+         "correct": 0,
+         "expl": "Two people independently confirming the same self-regarding truth."},
+        {"q": "How does the Buddha's verse extend this private exchange?",
+         "opts": [
+             "It universalizes the observation to everyone, not just the king and queen",
+             "It corrects the king and queen's answers as mistaken",
+             "It limits the observation to royalty alone",
+             "It denies the observation applies to anyone at all"],
+         "correct": 0,
+         "expl": "“Likewise for others, each holds themselves dear” — generalized without exception."},
+        {"q": "What conclusion does the verse draw from this universal self-regard?",
+         "opts": [
+             "One who desires self-knowledge would harm no other",
+             "One should therefore prioritize only their own interests",
+             "One should never trust anyone else's stated feelings",
+             "The verse draws no ethical conclusion at all"],
+         "correct": 0,
+         "expl": "Non-harm presented as following logically from clear self-knowledge, universalized."},
+        {"q": "How does the reading guide characterize this verse's significance?",
+         "opts": [
+             "As one of this canon's clearest early articulations of ethical reciprocity",
+             "As a minor, rarely cited teaching",
+             "As primarily relevant only to royal couples",
+             "As contradicting this collection's other teachings on self"],
+         "correct": 0,
+         "expl": "Widely cited within and beyond the Buddhist tradition."},
+        {"q": "How does the verse derive non-harm, according to the reading guide?",
+         "opts": [
+             "From honest self-knowledge made universal, not from an externally imposed rule",
+             "From fear of punishment in a future life",
+             "From royal law and custom",
+             "From the authority of the six named teachers"],
+         "correct": 0,
+         "expl": "Non-harm as what follows once self-interest is recognized in everyone else too."},
+        {"q": "How does this discourse handle the king's report of the exchange to the Buddha?",
+         "opts": [
+             "It is elided as blank in the source before the Buddha's verse follows",
+             "It is quoted in full a second time",
+             "The king summarizes it differently the second time",
+             "There is no report to the Buddha in this discourse"],
+         "correct": 0,
+         "expl": "Following this book's established convention for such elided passages."},
+        {"q": "Where does this discourse's second scene take place?",
+         "opts": [
+             "With the Buddha, after Pasenadi comes downstairs from the longhouse",
+             "Still upstairs with Mallikā",
+             "At the royal court during a judgment session",
+             "At a public sacrifice"],
+         "correct": 0,
+         "expl": "The king descends specifically to report the exchange and receive the Buddha's confirmation."},
+    ],
+    marginalia=[
+        ("Upstairs, a private question", [
+            "is anyone dearer than yourself? &mdash;",
+            "both answer, independently, no",
+        ]),
+        ("Every quarter explored", [
+            "the same finding everywhere &mdash;",
+            "no one dearer than the self",
+        ]),
+        ("A private truth, made universal", [
+            "not just king and queen &mdash;",
+            "true of every being alike",
+        ]),
+        ("Self-knowledge, then non-harm", [
+            "not a rule imposed from outside &mdash;",
+            "a conclusion, once understood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.7.html">SN 3.7 &middot; Judgment</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-3.9.html">SN 3.9 &middot; Sacrifice</a> &mdash; the '
+        "next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 3.9 — Yaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 9, "Yañña", "Sacrifice",
+    meta_title="SN 3.9 — Sacrifice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Yaññasutta — mendicants report King Pasenadi's violent animal "
+        "sacrifice, and the Buddha answers with an unprompted critique "
+        "naming which offerings are truly fruitful. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, with the sacrifice itself taking "
+                    "place elsewhere in the kingdom"),
+        ("Speakers", "Several mendicants, reporting what they observed, "
+                     "and the Buddha"),
+        ("Form", "A prose report of a witnessed event, followed by four "
+                 "stanzas of unprompted verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "socially and historically weighted, critiquing "
+                       "an entire ritual culture"),
+    ],
+    why=(
+        "This discourse departs from this saṃyutta's pattern of direct "
+        "royal dialogue: mendicants returning from almsround report "
+        "that a massive sacrifice has been set up for King Pasenadi "
+        "&mdash; five hundred each of bulls, bullocks, heifers, goats, "
+        "and rams led to the sacrificial post, while the servants "
+        "compelled to prepare it work in tears under threat of "
+        "punishment. Without the king present to ask or be answered, "
+        "the Buddha responds with an unprompted verse naming several "
+        "named sacrificial rites as fruitless because of their "
+        "violence, and describing instead a bloodless sacrifice the "
+        "&lsquo;great sages&rsquo; do attend."),
+    guide=[
+        ("A critique delivered in the king's absence", [
+            "Unlike every discourse from SN 3.1 through SN 3.8, "
+            "Pasenadi is not present here at all &mdash; the report "
+            "comes secondhand through mendicants, and the Buddha's "
+            "response is addressed to no one in particular, an "
+            "unprompted teaching occasioned by what he has been told "
+            "rather than a reply to a direct question."]),
+        ("Suffering visible beneath a religious ceremony", [
+            "The setting note does not describe the sacrifice's ritual "
+            "significance but its human cost: bondservants and workers "
+            "performing their tasks &lsquo;under threat of punishment "
+            "and danger, weeping with tearful faces&rsquo;, framing the "
+            "event through the suffering of those compelled to prepare "
+            "it before any animal is named."]),
+        ("Named rites, judged by their violence", [
+            "The Buddha's first stanza names several specific "
+            "sacrificial rites &mdash; horse sacrifice, human sacrifice, "
+            "the &lsquo;casting of the yoke-pin&rsquo;, the &lsquo;royal "
+            "soma drinking&rsquo;, the &lsquo;unimpeded&rsquo; &mdash; "
+            "and judges all of them together as yielding &lsquo;no great "
+            "fruit&rsquo; specifically because they are "
+            "&lsquo;huge&rsquo; and &lsquo;violent&rsquo;, not because "
+            "sacrifice as such is rejected."]),
+        ("A distinction the great sages themselves observe", [
+            "The verses do not simply condemn ritual; they distinguish "
+            "which sacrifices &lsquo;the great sages of right "
+            "comportment&rsquo; attend and which they avoid, based "
+            "entirely on whether goats, sheep, and cattle are killed "
+            "&mdash; the sages' own selective attendance modeling the "
+            "distinction the teaching draws."]),
+        ("A bloodless alternative, still called sacrifice", [
+            "The closing verse does not reject the category of "
+            "sacrifice outright but redefines what counts as truly "
+            "fruitful within it: a &lsquo;clever person&rsquo; should "
+            "sacrifice in the non-violent manner described, said to be "
+            "abundant and pleasing even to the deities &mdash; keeping "
+            "the practice's name while displacing its violent content."]),
+    ],
+    terms=[
+        ("yañña",
+         "&ldquo;sacrifice&rdquo; &mdash; the ritual practice this "
+         "discourse both critiques and redefines, giving the discourse "
+         "its title."),
+        ("assamedha purisamedha",
+         "&ldquo;horse sacrifice, human sacrifice&rdquo; &mdash; two of "
+         "several named violent rites the Buddha's verse judges "
+         "fruitless."),
+        ("mahāyañña sarambhā",
+         "&ldquo;huge violent sacrifices&rdquo; &mdash; the verse's own "
+         "category for what fails to yield great fruit."),
+        ("mahesī sammadācārā",
+         "&ldquo;the great sages of right comportment&rdquo; &mdash; "
+         "whose selective attendance models the distinction the verses "
+         "draw."),
+        ("avihiṁsā",
+         "&ldquo;non-violent&rdquo; &mdash; the defining quality of the "
+         "sacrifice the closing verses recommend instead."),
+    ],
+    text_intro=(
+        "The discourse in full: the mendicants' report of the "
+        "sacrifice's human cost, and the Buddha's unprompted answering "
+        "verses. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.9:1.1-1.3"),
+        ("p", "&sect;2", "sn3.9:2.1-2.2"),
+        ("p", "&sect;3", "sn3.9:3.1-4.4"),
+        ("p", "&sect;4", "sn3.9:5.1-6.5"),
+        ("p", "&sect;5", "sn3.9:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 3.1 through SN 3.8?",
+         "opts": [
+             "King Pasenadi is not present; the report comes secondhand through mendicants",
+             "It is spoken entirely by a godling",
+             "It contains no verse at all",
+             "It takes place at Rājagaha instead of Sāvatthī"],
+         "correct": 0,
+         "expl": "An unprompted teaching rather than a reply to the king's direct question."},
+        {"q": "What does the setting note emphasize about the sacrifice's preparation?",
+         "opts": [
+             "The suffering of bondservants and workers, compelled under threat of punishment",
+             "The precise ritual procedures involved",
+             "The exact cost of the animals sacrificed",
+             "The joy of the participants"],
+         "correct": 0,
+         "expl": "Framing the event through human suffering before any animal is even named."},
+        {"q": "What does the Buddha's first stanza name?",
+         "opts": [
+             "Several specific violent sacrificial rites, including horse and human sacrifice",
+             "A single generic type of sacrifice",
+             "Only sacrifices performed by kings",
+             "Sacrifices performed exclusively by brahmins"],
+         "correct": 0,
+         "expl": "Named rites judged together as yielding no great fruit because of their violence."},
+        {"q": "Why does the verse say these named sacrifices yield no great fruit?",
+         "opts": [
+             "Because they are huge and violent",
+             "Because they are too expensive",
+             "Because only kings may perform them",
+             "Because they take too much time"],
+         "correct": 0,
+         "expl": "The verse's own stated reason, distinguishing this critique from a rejection of sacrifice as such."},
+        {"q": "Do the verses reject all sacrifice outright?",
+         "opts": [
+             "No; they distinguish sacrifices the great sages attend from those they avoid",
+             "Yes, all sacrifice is condemned without exception",
+             "The verses do not address sacrifice at all",
+             "Yes, but only sacrifices performed by non-Buddhists"],
+         "correct": 0,
+         "expl": "A selective distinction based on whether animals are killed, not a blanket rejection."},
+        {"q": "What determines which sacrifices the great sages attend, according to the verses?",
+         "opts": [
+             "Whether goats, sheep, and cattle are killed",
+             "The wealth of the person sponsoring the sacrifice",
+             "The specific deity being honored",
+             "The time of year the sacrifice is held"],
+         "correct": 0,
+         "expl": "The verses' explicit criterion for the sages' selective attendance."},
+        {"q": "What does the closing verse say about a non-violent sacrifice?",
+         "opts": [
+             "It is abundant and pleasing even to the deities",
+             "It is inferior to violent sacrifice in every respect",
+             "It cannot truly be called a sacrifice at all",
+             "It benefits only the sponsor, no one else"],
+         "correct": 0,
+         "expl": "Keeping the practice's name while displacing its violent content."},
+        {"q": "Where does the sacrifice itself take place, relative to where the Buddha speaks?",
+         "opts": [
+             "Elsewhere in the kingdom; the Buddha speaks at Sāvatthī based on the mendicants' report",
+             "Directly in front of the Buddha",
+             "Inside Jeta's Grove itself",
+             "The location of the sacrifice is not specified"],
+         "correct": 0,
+         "expl": "A secondhand report structures this entire discourse."},
+        {"q": "How many of each animal were reportedly led to the sacrificial post?",
+         "opts": [
+             "Five hundred each, of bulls, bullocks, heifers, goats, and rams",
+             "One hundred each",
+             "A single animal of each kind",
+             "The number is not specified"],
+         "correct": 0,
+         "expl": "The scale named directly in the discourse's opening setting note."},
+        {"q": "What broader cultural practice does this discourse critique?",
+         "opts": [
+             "The Vedic sacrificial culture of large-scale animal sacrifice",
+             "The practice of monastic almsround",
+             "The custom of royal court judgment",
+             "The tradition of taking refuge as a lay follower"],
+         "correct": 0,
+         "expl": "A historically significant critique of an entire ritual culture, not a private ethical matter."},
+    ],
+    marginalia=[
+        ("Weeping, before the ritual begins", [
+            "servants compelled under threat &mdash;",
+            "the human cost, named first",
+        ]),
+        ("Named rites, judged together", [
+            "horse, human, yoke-pin, soma &mdash;",
+            "fruitless for their violence",
+        ]),
+        ("Sages attend selectively", [
+            "not all sacrifice avoided &mdash;",
+            "only where creatures are killed",
+        ]),
+        ("Bloodless, still called sacrifice", [
+            "the name kept, the content changed &mdash;",
+            "pleasing even to the deities",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.8.html">SN 3.8 &middot; With Queen Mallikā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-3.10.html">SN 3.10 &middot; Shackles</a> &mdash; '
+        "the next and final discourse of this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 3.10 — Bandhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    3, 10, "Bandhana", "Shackles",
+    next=("sn-3.25.html", "SN 3.25 &middot; The Simile of the Mountain"),
+    meta_title="SN 3.10 — Shackles | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bandhanasutta — mendicants report a mass shackling ordered by "
+        "King Pasenadi, and the Buddha answers that the strongest "
+        "shackle is not iron but attachment to family and jewelry. "
+        "Closes the Bandhanavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, with the shackling itself taking "
+                    "place elsewhere in the kingdom"),
+        ("Speakers", "Several mendicants, reporting what they observed, "
+                     "and the Buddha"),
+        ("Form", "A brief prose report, followed by two stanzas of "
+                 "unprompted verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "compact discourse whose title supplies this "
+                       "vagga's own name"),
+    ],
+    why=(
+        "Like SN 3.9, this discourse begins with mendicants reporting "
+        "an observation rather than the king asking a question: a large "
+        "group of people has been placed in ropes, manacles, and chains "
+        "by King Pasenadi's order. The Buddha's unprompted response "
+        "redefines the very word this discourse is named for: the "
+        "attentive, he says, do not consider iron, wood, or rope the "
+        "strongest shackle at all &mdash; the truly binding shackle is "
+        "obsession with jeweled earrings and concern for one's partners "
+        "and children, which the wise cut when they go forth."),
+    guide=[
+        ("A second consecutive report without the king present", [
+            "Like SN 3.9, this discourse is occasioned by mendicants' "
+            "report rather than direct royal dialogue, this vagga's "
+            "final two discourses both turning from conversation with "
+            "Pasenadi to unprompted commentary on what his kingdom's "
+            "governance has produced."]),
+        ("Ropes, manacles, chains, and their prisoners", [
+            "The setting note is brief but specific, naming three "
+            "distinct kinds of physical restraint &mdash; ropes, "
+            "manacles, chains &mdash; applied to &lsquo;a large group of "
+            "people&rsquo; under the king's authority, establishing the "
+            "literal shackle the verse will immediately redefine "
+            "against."]),
+        ("A shackle judged weak, against expectation", [
+            "The verse's opening move inverts what its audience would "
+            "expect: physical restraint made of iron, wood, or knots "
+            "&mdash; exactly what the setting has just described "
+            "&mdash; is declared &lsquo;not strong&rsquo; by "
+            "&lsquo;the attentive&rsquo;, immediately undercutting the "
+            "discourse's own opening image."]),
+        ("Jeweled earrings and family as the true bond", [
+            "What the verse names instead as the strong shackle is "
+            "domestic and personal: obsession with fine possessions "
+            "and concern for one's partners and children, &lsquo;hard "
+            "to escape&rsquo; precisely because it does not feel like a "
+            "restraint from the inside, unlike visible chains."]),
+        ("The vagga's own name, drawn from its closing discourse", [
+            "This discourse gives the Bandhanavagga (&lsquo;the Chapter "
+            "on Shackles&rsquo;) its name, following the same pattern "
+            "already seen in the Devaputtasaṃyutta, where the second and "
+            "third vaggas were likewise named for their closing "
+            "discourses rather than their opening ones."]),
+    ],
+    terms=[
+        ("bandhana",
+         "&ldquo;shackle&rdquo; &mdash; the word this discourse "
+         "redefines, and the name it gives this vagga."),
+        ("rajju andu saṅkhalika",
+         "&ldquo;ropes, manacles, chains&rdquo; &mdash; the three "
+         "specific physical restraints named in the setting note."),
+        ("nāyaṁ daḷhaṁ bandhanamāhu dhīrā",
+         "&ldquo;the attentive say that shackle is not strong&rdquo; "
+         "&mdash; the verse's opening line, inverting the expected "
+         "judgment of physical restraint."),
+        ("maṇikuṇḍalesu",
+         "&ldquo;jeweled earrings&rdquo; &mdash; part of the "
+         "obsession the verse names as the truly strong shackle."),
+        ("nikkhamma",
+         "&ldquo;having gone forth&rdquo; &mdash; what the wise are "
+         "said to do only after cutting this deeper bond of family and "
+         "possessions."),
+    ],
+    text_intro=(
+        "The discourse in full: the mendicants' report of a mass "
+        "shackling, and the Buddha's unprompted redefining verses. The "
+        "closing uddāna is left blank in the source and not quoted "
+        "here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn3.10:1.1-1.1"),
+        ("p", "&sect;2", "sn3.10:2.1-2.2"),
+        ("p", "&sect;3", "sn3.10:3.1-3.1"),
+        ("p", "&sect;4", "sn3.10:4.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse report at its opening?",
+         "opts": [
+             "A large group of people shackled by King Pasenadi's order",
+             "A private conversation between the king and the Buddha",
+             "A violent sacrifice being prepared",
+             "A courtroom scene the king describes"],
+         "correct": 0,
+         "expl": "Ropes, manacles, and chains applied to a large group under the king's authority."},
+        {"q": "How does this discourse's structure compare to SN 3.9's?",
+         "opts": [
+             "Both are occasioned by mendicants' reports rather than direct royal dialogue",
+             "This discourse is spoken directly by the king",
+             "SN 3.9 has no verse while this discourse does",
+             "The two discourses are unrelated in structure"],
+         "correct": 0,
+         "expl": "Both of this vagga's final two discourses turn from conversation to unprompted commentary."},
+        {"q": "What does the verse say about shackles made of iron, wood, or knots?",
+         "opts": [
+             "That the attentive do not consider them strong",
+             "That they are the strongest possible restraint",
+             "That they cannot be escaped under any circumstances",
+             "The verse does not mention physical shackles at all"],
+         "correct": 0,
+         "expl": "Inverting the expectation set up by the discourse's own opening image."},
+        {"q": "What does the verse name as the truly strong shackle instead?",
+         "opts": [
+             "Obsession with jeweled earrings and concern for partners and children",
+             "Fear of the king's punishment",
+             "Physical illness and old age",
+             "Debt owed to another person"],
+         "correct": 0,
+         "expl": "Domestic and personal attachment, judged harder to escape than visible chains."},
+        {"q": "Why is this attachment-based shackle harder to escape, according to the reading guide?",
+         "opts": [
+             "Because it does not feel like a restraint from the inside, unlike visible chains",
+             "Because it is physically stronger than iron",
+             "Because the king enforces it directly",
+             "Because it is invisible to everyone including oneself"],
+         "correct": 0,
+         "expl": "A restraint that goes unrecognized as such by the person bound by it."},
+        {"q": "What do the wise do, according to the verse's closing lines?",
+         "opts": [
+             "Cut this deeper bond and go forth, unconcerned, having given up sensual pleasures",
+             "Accept the bond as unavoidable for all people",
+             "Replace family attachment with attachment to wealth instead",
+             "Seek to strengthen this bond rather than escape it"],
+         "correct": 0,
+         "expl": "The verse's own description of genuine renunciation."},
+        {"q": "What name does this discourse give to the vagga it closes?",
+         "opts": [
+             "The Bandhanavagga, “the Chapter on Shackles”",
+             "The Aputtakavagga, “the Chapter on the Childless”",
+             "The Kosalavagga",
+             "This discourse does not give the vagga a name"],
+         "correct": 0,
+         "expl": "Following this discourse's own central image and title."},
+        {"q": "What pattern does this naming follow, seen earlier in the Devaputtasaṃyutta?",
+         "opts": [
+             "A vagga named for its closing discourse rather than its opening one",
+             "A vagga named for its longest discourse",
+             "A vagga named alphabetically",
+             "This is the first instance of this naming pattern anywhere in this collection"],
+         "correct": 0,
+         "expl": "The same pattern already seen in SN 2's second and third vaggas."},
+        {"q": "Where is this discourse's opening scene, relative to where the shackling occurs?",
+         "opts": [
+             "At Sāvatthī; the shackling itself takes place elsewhere in the kingdom",
+             "Directly in front of the Buddha",
+             "Inside the royal court itself",
+             "The location is not specified"],
+         "correct": 0,
+         "expl": "A secondhand report, like SN 3.9's, structures this discourse."},
+        {"q": "What is left untranslated at the very close of this discourse in the source?",
+         "opts": [
+             "The uddāna, this vagga's own summary verse",
+             "The Buddha's final teaching",
+             "The mendicants' full report",
+             "King Pasenadi's response"],
+         "correct": 0,
+         "expl": "Blank in the source, consistent with how such closings are handled elsewhere in this collection."},
+    ],
+    marginalia=[
+        ("Ropes, manacles, chains", [
+            "a large group, bound by the king's order &mdash;",
+            "the literal shackle, named first",
+        ]),
+        ("Not strong, the attentive say", [
+            "iron, wood, and knots dismissed &mdash;",
+            "the verse's opening reversal",
+        ]),
+        ("Jeweled earrings, family concern", [
+            "the shackle that does not feel like one &mdash;",
+            "hardest of all to escape",
+        ]),
+        ("A vagga, named for this close", [
+            "Bandhanavagga, shackles &mdash;",
+            "the same pattern seen in SN 2",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn3.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-3.9.html">SN 3.9 &middot; Sacrifice</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-3.1.html">SN 3.1 &middot; Young</a> &mdash; the '
+        "discourse opening this vagga, nine discourses back.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
