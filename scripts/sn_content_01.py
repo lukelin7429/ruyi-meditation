@@ -13956,3 +13956,2252 @@ page(
         "that closed the previous vagga, the Jarāvagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.71 — Chetvāsutta (opens the Chetvāvagga, SN1's final vagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 71, "Chetvā", "Slain",
+    meta_title="SN 1.71 — Slain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Chetvāsutta — a deity asks what, once slain, brings ease and no sorrow, and "
+        "the Buddha names anger, poisonous at its root yet sweet at its tip. Opens "
+        "the Chetvāvagga, SN 1's final vagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove &mdash; the recurring frame, "
+                    "resumed after the previous vagga's uniformly bare riddles"),
+        ("Speakers", "An unnamed deity and the Buddha, in a single exchange of "
+                    "verses"),
+        ("Form", "A four-line question, answered by a six-line reply"),
+        ("Length", "~45 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "with a memorable closing image"),
+        ("Opening the final vagga of SN 1", "The first of eleven discourses closing "
+                                            "out the Devatāsaṃyutta, this "
+                                            "collection's entire first saṃyutta"),
+    ],
+    why=(
+        "The question is framed around killing, but not in any literal sense: when "
+        "what is slain do you sleep at ease, when what is slain is there no sorrow, "
+        "what one thing, Gotama, do you approve the killing of? The answer names "
+        "anger (<em>kodha</em>), describing it with a striking image &mdash; poisonous "
+        "at its root but sweet at its tip &mdash; before naming its killing as "
+        "something the noble ones themselves praise."),
+    guide=[
+        ("Killing reframed entirely", [
+            "The question's violent vocabulary &mdash; slaying, killing, approving "
+            "of killing &mdash; is immediately redirected away from any literal act "
+            "toward an inner quality. What deserves killing, in this discourse's "
+            "sense, is anger itself, not any living being."]),
+        ("A poisonous root, a sweet tip", [
+            "The verse's central image captures something true to how anger "
+            "actually feels: its expression can carry a real, if brief, satisfaction "
+            "&mdash; the &lsquo;sweet tip&rsquo; &mdash; even while its underlying "
+            "cause and consequence are genuinely harmful, the &lsquo;poisonous "
+            "root.&rsquo; The image doesn't deny anger's appeal; it locates that "
+            "appeal specifically at the surface, while naming the deeper danger "
+            "beneath it."]),
+        ("Praise from the noble ones, not merely personal preference", [
+            "The verse doesn't rest on the Buddha's own approval alone; it "
+            "specifically notes that &lsquo;the noble ones praise its "
+            "killing,&rsquo; framing the elimination of anger as a shared "
+            "conviction among those who have already progressed on the path, not "
+            "an idiosyncratic recommendation."]),
+        ("Opening the last stretch of SN 1", [
+            "This discourse begins the Chetvāvagga, the eighth and final vagga of "
+            "the Devatāsaṃyutta &mdash; SN 1's own closing sequence of eleven "
+            "discourses, one more than this collection's usual ten, bringing the "
+            "entire first saṃyutta to its close at SN 1.81."]),
+    ],
+    terms=[
+        ("chetvā",
+         "&ldquo;having slain, having cut&rdquo; &mdash; this discourse's title, "
+         "and its vagga's own name."),
+        ("kodha",
+         "&ldquo;anger&rdquo; &mdash; the single thing named as worth killing, "
+         "identified only in the Buddha's answer, not in the deity's question."),
+        ("visamūlo madhuraggo",
+         "&ldquo;poisonous root, sweet tip&rdquo; &mdash; the verse's central "
+         "image, naming anger's brief appeal and its deeper harm together."),
+        ("ariyā pasaṁsanti",
+         "&ldquo;the noble ones praise&rdquo; &mdash; framing anger's elimination "
+         "as a shared conviction, not merely the Buddha's own view."),
+        ("asokaṁ",
+         "&ldquo;no sorrow&rdquo; &mdash; the specific benefit both the question "
+         "and answer name as following from anger's death."),
+    ],
+    text_intro=(
+        "The discourse in full: a question about killing, redirected entirely "
+        "toward anger. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.71:1.1-1.2"),
+        ("p", "&sect;2", "sn1.71:2.1-2.4"),
+        ("p", "&sect;3", "sn1.71:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What does the opening question ask about, using violent vocabulary?",
+         "opts": [
+             "What, when slain, brings ease and no sorrow",
+             "How many lamps light the world",
+             "What overcomes everything",
+             "Who can untangle the human tangle"],
+         "correct": 0,
+         "expl": "Vocabulary of killing, immediately redirected toward an inner quality."},
+        {"q": "What does the reply name as the one thing worth killing?",
+         "opts": [
+             "Anger (kodha)",
+             "Craving",
+             "Wisdom",
+             "A deity"],
+         "correct": 0,
+         "expl": "Named only in the answer, not stated in the deity's question."},
+        {"q": "What image does the verse use to describe anger?",
+         "opts": [
+             "A poisonous root with a sweet tip",
+             "A gentle breeze",
+             "A protective shield",
+             "A source of nourishment"],
+         "correct": 0,
+         "expl": "Capturing anger's brief appeal alongside its deeper harm."},
+        {"q": "Who does the verse say approves of anger's killing, beyond the Buddha himself?",
+         "opts": [
+             "The noble ones (ariyā)",
+             "No one else approves",
+             "Only deities approve",
+             "Only kings approve"],
+         "correct": 0,
+         "expl": "A shared conviction, not an idiosyncratic personal view."},
+        {"q": "What vagga does this discourse open, and what is its significance?",
+         "opts": [
+             "The Chetvāvagga, the eighth and final vagga of the Devatāsaṃyutta",
+             "The Naḷavagga, this collection's first vagga",
+             "A vagga unrelated to the rest of this collection",
+             "The final vagga of the entire Saṃyutta Nikāya"],
+         "correct": 0,
+         "expl": "The last eleven discourses closing out SN 1's entire 81-discourse saṃyutta."},
+        {"q": "How many discourses does this final vagga contain, compared to this collection's usual ten?",
+         "opts": [
+             "Eleven, one more than usual",
+             "Exactly ten, the same as every other vagga",
+             "Five, fewer than usual",
+             "Twenty, far more than usual"],
+         "correct": 0,
+         "expl": "Bringing SN 1's total to exactly 81 discourses."},
+        {"q": "Does the verse deny that anger has any appeal at all?",
+         "opts": [
+             "No &mdash; it locates anger's appeal specifically at its surface, the 'sweet tip'",
+             "Yes, it claims anger has no appeal whatsoever",
+             "The verse makes no claim about anger's appeal",
+             "It claims anger is entirely poisonous with no sweetness at all"],
+         "correct": 0,
+         "expl": "A nuanced image acknowledging anger's brief satisfaction alongside its harm."},
+        {"q": "What does 'asokaṁ' mean?",
+         "opts": [
+             "'No sorrow'",
+             "'Great sorrow'",
+             "'Anger'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The specific benefit named as following from anger's death."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove &mdash; the recurring frame, resumed after the previous vagga's bare riddles",
+             "Near Rājagaha",
+             "Near Kapilavatthu",
+             "Near Vesālī"],
+         "correct": 0,
+         "expl": "A return to this collection's most familiar setting after the Addhavagga's uniform bareness."},
+        {"q": "What does 'chetvā' mean?",
+         "opts": [
+             "'Having slain, having cut'",
+             "'Never harming'",
+             "'Growing endlessly'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "This discourse's title, and this final vagga's own name."},
+    ],
+    marginalia=[
+        ("Killing, reframed", [
+            "not a living being &mdash;",
+            "anger itself",
+        ]),
+        ("Poison at the root", [
+            "sweet at the tip,",
+            "poisonous beneath",
+        ]),
+        ("Praised by the noble", [
+            "not one view alone &mdash;",
+            "a shared conviction",
+        ]),
+        ("The final stretch begins", [
+            "eleven discourses,",
+            "closing all of SN 1",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.71/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.70.html">SN 1.70 &middot; The World</a> &mdash; the discourse '
+        "that closed the previous vagga, the Addhavagga.",
+        '<a href="sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> &mdash; this '
+        "collection&rsquo;s opening discourse.",
+        "SN 1.72 &middot; A Chariot &mdash; the next discourse, on what a chariot, "
+        "fire, a nation, and a woman are each known by.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.72 — Rathasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 72, "Ratha", "A Chariot",
+    meta_title="SN 1.72 — A Chariot | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Rathasutta — a four-part riddle naming what a chariot, fire, a nation, and "
+        "a woman are each known by, read honestly for its dated final line. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form"),
+        ("A dated final claim", "This discourse's fourth answer names a wife's "
+                                "husband as what she is 'known by' &mdash; a claim "
+                                "spoken from the same social standpoint already "
+                                "named at SN 1.58"),
+    ],
+    why=(
+        "The question asks about outward signs of identity across four different "
+        "things: what marks a chariot, what marks fire, what marks a nation, and "
+        "what marks a woman? The answer names a visible signal for each: a banner "
+        "for a chariot, smoke for fire, its ruler for a nation, and, in the verse's "
+        "own social framework, a husband for a woman."),
+    guide=[
+        ("Outward signs, not inner essence", [
+            "Every one of this discourse's four answers names something visible "
+            "from a distance rather than an intrinsic quality: a banner "
+            "(<em>dhaja</em>) identifies a chariot before its rider is seen, smoke "
+            "identifies a fire before its flame is visible, a ruler identifies a "
+            "nation to outsiders. The question is about recognition, not "
+            "definition."]),
+        ("A social framework worth naming plainly", [
+            "The verse's fourth answer &mdash; that a woman is known by her "
+            "husband (<em>patinā</em>) &mdash; extends the same &lsquo;identifying "
+            "marker&rsquo; logic to a person, but does so from the specific social "
+            "framework of the verse's own time and setting, in which marital "
+            "status served as a visible social marker for women in a way it "
+            "typically did not for men. This reading guide names that standpoint "
+            "directly, in keeping with how it treated SN 1.58's related line."]),
+        ("A brief riddle without further elaboration", [
+            "Unlike several riddles in this collection that build to a doctrinal "
+            "point, this discourse offers no further layer beyond its four direct "
+            "answers &mdash; a simple set of observations about how identity "
+            "becomes visible, without extending the pattern into ethical or "
+            "spiritual territory."]),
+    ],
+    terms=[
+        ("ratha",
+         "&ldquo;a chariot&rdquo; &mdash; this discourse's title, and the first "
+         "item its riddle asks about."),
+        ("dhajena",
+         "&ldquo;by a banner&rdquo; &mdash; the visible marker identifying a "
+         "chariot from a distance."),
+        ("dhūmena",
+         "&ldquo;by smoke&rdquo; &mdash; the marker identifying fire before its "
+         "flame is directly seen."),
+        ("raññā",
+         "&ldquo;by its ruler&rdquo; &mdash; the marker identifying a nation to "
+         "outsiders."),
+        ("patinā",
+         "&ldquo;by her husband&rdquo; &mdash; the verse's final answer, spoken "
+         "from the specific social standpoint of its own time and setting."),
+    ],
+    text_intro=(
+        "The discourse in full, read plainly for what it is. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.72:1.1-1.4"),
+        ("p", "&sect;2", "sn1.72:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four things does the opening question ask about?",
+         "opts": [
+             "What a chariot, fire, a nation, and a woman are each known by",
+             "What overcomes everything and nothing excels",
+             "What's good in old age and hard for thieves to take",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "Four distinct things, each matched to a specific identifying marker."},
+        {"q": "What does the reply name as what identifies a chariot?",
+         "opts": [
+             "A banner",
+             "Its wheels",
+             "Its color",
+             "Its speed"],
+         "correct": 0,
+         "expl": "A visible marker seen from a distance."},
+        {"q": "What does the reply name as what identifies fire?",
+         "opts": [
+             "Smoke",
+             "Heat alone",
+             "Its color",
+             "Its sound"],
+         "correct": 0,
+         "expl": "Visible before the flame itself is directly seen."},
+        {"q": "What does the reply name as what identifies a nation?",
+         "opts": [
+             "Its ruler",
+             "Its size",
+             "Its wealth",
+             "Its army"],
+         "correct": 0,
+         "expl": "A marker visible to outsiders."},
+        {"q": "How does this reading guide treat the verse's fourth answer about a woman?",
+         "opts": [
+             "It names the specific social standpoint the claim is spoken from, as with SN 1.58",
+             "It presents the claim as a neutral, universal truth",
+             "It silently omits the line entirely",
+             "It claims the line has no relationship to any social context"],
+         "correct": 0,
+         "expl": "Consistent with this project's practice for socially weighted passages."},
+        {"q": "What common logic connects all four of this discourse's answers?",
+         "opts": [
+             "Each names a visible, outward sign of identity rather than an intrinsic quality",
+             "Each names something invisible and internal",
+             "Each answer contradicts the others",
+             "No common logic connects them"],
+         "correct": 0,
+         "expl": "A question about recognition, not definition."},
+        {"q": "Does this discourse build toward a further doctrinal point beyond its four direct answers?",
+         "opts": [
+             "No &mdash; it offers a simple set of observations without extending into ethical or spiritual territory",
+             "Yes, it closes with an extensive doctrinal teaching",
+             "Yes, it is followed by a lengthy philosophical debate",
+             "The discourse contains no answers at all"],
+         "correct": 0,
+         "expl": "A brief riddle, distinct from this collection's more doctrinally layered discourses."},
+        {"q": "What does 'dhajena' mean?",
+         "opts": [
+             "'By a banner'",
+             "'By smoke'",
+             "'By a ruler'",
+             "'By a husband'"],
+         "correct": 0,
+         "expl": "The marker identifying a chariot specifically."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What earlier discourse in this collection uses a similar honest approach to a socially weighted line?",
+         "opts": [
+             "SN 1.58, on lust, youth, and the stain of chastity",
+             "SN 1.1, on crossing the flood",
+             "SN 1.44, on one root",
+             "No earlier discourse addresses a comparable line"],
+         "correct": 0,
+         "expl": "The same practice of naming a claim's actual perspective rather than presenting it as neutral."},
+    ],
+    marginalia=[
+        ("Four things, four markers", [
+            "a banner, smoke,",
+            "a ruler, a husband",
+        ]),
+        ("Visible from a distance", [
+            "signs of identity,",
+            "not inner essence",
+        ]),
+        ("A perspective, named", [
+            "spoken from its own",
+            "social framework",
+        ]),
+        ("A simple riddle", [
+            "four answers only,",
+            "no further layer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.72/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.71.html">SN 1.71 &middot; Slain</a> &mdash; the discourse '
+        "immediately before this one, and this vagga&rsquo;s opening discourse.",
+        '<a href="sn-1.58.html">SN 1.58 &middot; Deviation</a> &mdash; the earlier '
+        "discourse sharing this discourse&rsquo;s social standpoint.",
+        "SN 1.73 &middot; Wealth &mdash; the next discourse, on a person's best "
+        "wealth, sweetest taste, and best life.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.73 — Vittasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 73, "Vitta", "Wealth",
+    meta_title="SN 1.73 — Wealth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vittasutta — a four-part riddle naming faith as a person's best wealth, "
+        "truth as the sweetest taste, and a life lived by wisdom as the best life. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form"),
+        ("A cluster of superlatives", "Four separate 'best' or 'finest' claims, "
+                                      "answered with four distinct spiritual "
+                                      "qualities"),
+    ],
+    why=(
+        "The question asks about four different superlatives: a person's best "
+        "wealth, what brings happiness when well practiced, the sweetest taste of "
+        "all, and how the one said to have the best life actually lives. The answer "
+        "names faith as wealth, the teaching as what brings happiness, truth as the "
+        "sweetest taste, and wisdom as what the best-lived life is built on."),
+    guide=[
+        ("Reframing 'wealth' entirely", [
+            "Naming faith (<em>saddhā</em>) as a person's &lsquo;best wealth&rsquo; "
+            "extends this collection's recurring move &mdash; already met at SN "
+            "1.51 and SN 1.52, naming wisdom as &lsquo;treasure&rsquo; &mdash; of "
+            "applying economic language to inner qualities rather than material "
+            "possessions."]),
+        ("The teaching as a practice, not merely information", [
+            "The verse specifies that the teaching brings happiness "
+            "&lsquo;when practiced well&rsquo; (<em>sucaritaṁ</em>), not simply "
+            "when known or believed &mdash; treating happiness as the fruit of "
+            "sustained conduct rather than of intellectual assent alone."]),
+        ("Truth named as taste, not merely as fact", [
+            "Calling truth (<em>sacca</em>) the &lsquo;sweetest taste of all&rsquo; "
+            "is an unusual sensory metaphor for something usually discussed in "
+            "purely cognitive terms &mdash; treating truthfulness as something "
+            "with its own distinctive, pleasurable quality, comparable to and "
+            "surpassing literal flavor."]),
+        ("A life defined by how it's lived, not by its length", [
+            "The question's final line, about the one said to have &lsquo;the "
+            "best life,&rsquo; is answered not with a claim about longevity or "
+            "circumstance but about method: such a person &lsquo;lives by "
+            "wisdom&rsquo; (<em>paññājīvi</em>) &mdash; the best life defined by "
+            "its governing principle rather than its duration."]),
+    ],
+    terms=[
+        ("vitta",
+         "&ldquo;wealth&rdquo; &mdash; this discourse's title, and the first "
+         "quality the riddle asks about."),
+        ("saddhīdha vittaṁ purisassa seṭṭhaṁ",
+         "&ldquo;faith here is a person's best wealth&rdquo; &mdash; the verse's "
+         "first answer, applying economic language to an inner quality."),
+        ("sucaritaṁ sukhāvahaṁ",
+         "&ldquo;brings happiness when practiced well&rdquo; &mdash; naming the "
+         "teaching's benefit as contingent on sustained practice, not mere "
+         "knowledge."),
+        ("saccaṁ ve amatavācā",
+         "&ldquo;truth is the sweetest taste of all&rdquo; &mdash; a sensory "
+         "metaphor applied to truthfulness."),
+        ("paññājīvi",
+         "&ldquo;lives by wisdom&rdquo; &mdash; the answer for who has &lsquo;the "
+         "best life,&rsquo; defined by governing principle rather than "
+         "circumstance."),
+    ],
+    text_intro=(
+        "The discourse in full: four superlatives, matched to four spiritual "
+        "qualities. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.73:1.1-1.4"),
+        ("p", "&sect;2", "sn1.73:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four superlatives does the opening question ask about?",
+         "opts": [
+             "A person's best wealth, what brings happiness, the sweetest taste, and the best life",
+             "What overcomes everything and nothing excels",
+             "What's good in old age and hard for thieves to take",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "Four separate superlative claims, each matched to a spiritual quality."},
+        {"q": "What does the reply name as a person's best wealth?",
+         "opts": [
+             "Faith (saddhā)",
+             "Gold and jewels",
+             "Land",
+             "Cattle"],
+         "correct": 0,
+         "expl": "Extending this collection's recurring move of applying economic language to inner qualities."},
+        {"q": "What does the reply name as the sweetest taste of all?",
+         "opts": [
+             "Truth (sacca)",
+             "Honey",
+             "Sugar",
+             "Fruit"],
+         "correct": 0,
+         "expl": "An unusual sensory metaphor for truthfulness."},
+        {"q": "How does the reply describe how the one with 'the best life' actually lives?",
+         "opts": [
+             "They live by wisdom (paññājīvi)",
+             "They live an unusually long life",
+             "They live in complete isolation",
+             "No description of their manner of living is given"],
+         "correct": 0,
+         "expl": "Defined by governing principle rather than by duration or circumstance."},
+        {"q": "What condition does the reply attach to the teaching bringing happiness?",
+         "opts": [
+             "That it be practiced well, not merely known or believed",
+             "That it be memorized word for word",
+             "No condition is attached at all",
+             "That it be kept entirely secret"],
+         "correct": 0,
+         "expl": "Happiness as the fruit of sustained conduct, not intellectual assent alone."},
+        {"q": "What earlier discourses in this collection already applied economic language to inner qualities?",
+         "opts": [
+             "SN 1.51 and SN 1.52, naming wisdom as 'treasure'",
+             "SN 1.1 and SN 1.2 only",
+             "No earlier discourse uses this kind of language",
+             "Only SN 1.44, on one root"],
+         "correct": 0,
+         "expl": "A recurring move this discourse extends with 'faith' as wealth."},
+        {"q": "What does 'saccaṁ ve amatavācā' mean?",
+         "opts": [
+             "'Truth is the sweetest taste of all'",
+             "'Truth is the bitterest taste of all'",
+             "'Wealth is the sweetest taste of all'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "This discourse's third answer, using a sensory metaphor for truthfulness."},
+        {"q": "What does 'paññājīvi' mean?",
+         "opts": [
+             "'Lives by wisdom'",
+             "'Lives by wealth'",
+             "'Lives by anger'",
+             "'Never lives at all'"],
+         "correct": 0,
+         "expl": "The answer given for who has 'the best life.'"},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What does 'vitta' mean?",
+         "opts": [
+             "'Wealth'",
+             "'Truth'",
+             "'Wisdom'",
+             "'Faith'"],
+         "correct": 0,
+         "expl": "This discourse's title, and the first superlative its riddle asks about."},
+    ],
+    marginalia=[
+        ("Four superlatives", [
+            "best wealth, sweetest taste,",
+            "best life, best practice",
+        ]),
+        ("Faith, as wealth", [
+            "not gold or land &mdash;",
+            "an inner quality named treasure",
+        ]),
+        ("Truth, as taste", [
+            "an unusual metaphor,",
+            "sweetness applied to honesty",
+        ]),
+        ("A life, defined by method", [
+            "not length, not circumstance &mdash;",
+            "lived by wisdom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.73/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.72.html">SN 1.72 &middot; A Chariot</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.51.html">SN 1.51 &middot; Old Age</a> &mdash; the earlier '
+        "discourse also naming wisdom as people's treasure.",
+        "SN 1.74 &middot; Rain &mdash; the next discourse, a riddle answered "
+        "twice: once literally, once transcendently.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.74 — Vuṭṭhisutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 74, "Vuṭṭhi", "Rain",
+    meta_title="SN 1.74 — Rain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vuṭṭhisutta — the same four-part riddle answered twice, first with seed, "
+        "rain, cattle, and a child, then transformed into knowledge, ignorance, "
+        "the Saṅgha, and the Buddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a single riddle answered twice, in two "
+                     "successive verses"),
+        ("Form", "A four-line question, answered by two separate four-line "
+                 "replies"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; simple in each "
+                       "individual answer, notable for how the second reframes the "
+                       "first"),
+        ("A riddle answered twice", "The first discourse in this collection to "
+                                    "give one question two complete, independent "
+                                    "answers, rather than one refined or corrected "
+                                    "version of the other"),
+    ],
+    why=(
+        "The question asks about four superlatives: the best of things that rise, "
+        "the finest thing to fall, the finest of things that go forth, and the "
+        "finest speaker. This discourse gives it two full answers in succession. "
+        "The first is entirely ordinary: a seed rises best, rain falls best, cattle "
+        "go forth best, a child is the finest speaker. The second transforms every "
+        "term: knowledge rises best, ignorance falls, the Saṅgha goes forth best, "
+        "and the Buddha is the finest speaker."),
+    guide=[
+        ("Two answers, not one corrected into another", [
+            "Unlike this collection's pattern of one verse improving or "
+            "redirecting another, this discourse simply offers both answers in "
+            "sequence, without marking either as mistaken. The literal answer "
+            "about seeds and rain isn't wrong; it's simply followed by a second, "
+            "transposed reading of the identical four questions."]),
+        ("A structural mapping between the mundane and the spiritual", [
+            "Each pair maps precisely onto the other: a seed, planted, produces a "
+            "harvest, just as knowledge produces genuine growth; rain, falling, "
+            "sustains life, just as ignorance's falling away sustains liberation; "
+            "cattle, sent out, work the land, just as the Saṅgha, gone forth, works "
+            "toward awakening; a child's speech is treasured for its freshness, "
+            "just as the Buddha's speech is treasured for its authority."]),
+        ("An echo of this discourse's structure in SN 1.54 and SN 1.80", [
+            "This discourse's opening, literal answer overlaps closely with "
+            "material already met at SN 1.54, and will be echoed again at SN 1.80, "
+            "later in this same vagga &mdash; the image of creatures sustained by "
+            "rain recurs across several discourses in this collection, always in "
+            "slightly different combinations."]),
+        ("Doubling as its own kind of emphasis", [
+            "Rather than choosing between a worldly and a spiritual register, this "
+            "discourse holds both up side by side, letting the second answer's "
+            "transformation of the first make its own point: the pattern of "
+            "growth, sustenance, purposeful action, and authoritative speech "
+            "repeats at every level, from farming to liberation."]),
+    ],
+    terms=[
+        ("vuṭṭhi",
+         "&ldquo;rain&rdquo; &mdash; this discourse's title, naming the second "
+         "item in its riddle's first, literal answer."),
+        ("bījaṁ uppatataṁ seṭṭhaṁ",
+         "&ldquo;a seed's the best of things that rise&rdquo; &mdash; the first "
+         "answer's opening claim."),
+        ("vijjā uppatataṁ seṭṭhā",
+         "&ldquo;knowledge is best of things that rise&rdquo; &mdash; the second "
+         "answer's transformed opening claim, replacing 'seed' with 'knowledge.'"),
+        ("goṇaṁ pavajataṁ",
+         "&ldquo;cattle, of things that go forth&rdquo; &mdash; the first answer's "
+         "third claim."),
+        ("saṅgho ca pavajataṁ",
+         "&ldquo;the Saṅgha, of things that go forth&rdquo; &mdash; the second "
+         "answer's transformed third claim."),
+    ],
+    text_intro=(
+        "The discourse in full: one riddle, answered twice, once literally and "
+        "once transcendently. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.74:1.1-1.4"),
+        ("p", "&sect;2", "sn1.74:2.1-2.4"),
+        ("p", "&sect;3", "sn1.74:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What four superlatives does the opening question ask about?",
+         "opts": [
+             "The best of things that rise, fall, go forth, and the finest speaker",
+             "What overcomes everything and nothing excels",
+             "What's good in old age and hard for thieves to take",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "One question, given two complete answers in succession."},
+        {"q": "What does the first, literal answer name for each of the four questions?",
+         "opts": [
+             "A seed, rain, cattle, and a child",
+             "Knowledge, ignorance, the Saṅgha, and the Buddha",
+             "Faith, wisdom, truth, and merit",
+             "Craving, the mind, delight, and desire"],
+         "correct": 0,
+         "expl": "An entirely ordinary, worldly set of answers."},
+        {"q": "What does the second answer name for each of the four questions?",
+         "opts": [
+             "Knowledge, ignorance, the Saṅgha, and the Buddha",
+             "A seed, rain, cattle, and a child",
+             "Ethics, faith, wisdom, and merit",
+             "Old age, death, craving, and desire"],
+         "correct": 0,
+         "expl": "A transformation of every term into a spiritual register."},
+        {"q": "Does the second answer mark the first as mistaken?",
+         "opts": [
+             "No &mdash; both answers are given in sequence without either being corrected",
+             "Yes, the second answer explicitly rejects the first as wrong",
+             "Yes, the first answer explicitly rejects the second as wrong",
+             "Only one of the two answers is actually given in the text"],
+         "correct": 0,
+         "expl": "Two complete, independent answers, not a correction sequence."},
+        {"q": "How do the two answers relate to each other structurally?",
+         "opts": [
+             "Each pair maps precisely onto the other, with a mundane and spiritual version of the same pattern",
+             "The two answers share no structural relationship at all",
+             "The second answer contradicts every claim in the first",
+             "The two answers are identical word for word"],
+         "correct": 0,
+         "expl": "Growth, sustenance, purposeful action, and authoritative speech, repeated at two levels."},
+        {"q": "What earlier discourse in this collection shares content with this discourse's literal answer?",
+         "opts": [
+             "SN 1.54, on what sustains earth's creatures",
+             "SN 1.44, on one root",
+             "SN 1.48, praising Sāriputta",
+             "No earlier discourse shares this content"],
+         "correct": 0,
+         "expl": "The image of creatures sustained by rain recurs across this collection."},
+        {"q": "What does 'vijjā uppatataṁ seṭṭhā' mean?",
+         "opts": [
+             "'Knowledge is best of things that rise'",
+             "'A seed is best of things that rise'",
+             "'Ignorance is best of things that rise'",
+             "'Nothing rises at all'"],
+         "correct": 0,
+         "expl": "The second answer's transformed version of the first claim."},
+        {"q": "What is this discourse's structural innovation, compared to earlier riddles in this collection?",
+         "opts": [
+             "It is the first discourse to give one question two complete, independent answers",
+             "It is the first discourse to give a question no answer at all",
+             "It is the first discourse to ask more than four questions",
+             "It repeats a technique already used many times before"],
+         "correct": 0,
+         "expl": "A genuinely new pattern within this collection's riddle discourses."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What later discourse in this same vagga echoes this discourse's imagery again?",
+         "opts": [
+             "SN 1.80, later in this vagga",
+             "SN 1.61, the previous vagga's opening discourse",
+             "SN 1.1, this collection's opening discourse",
+             "No later discourse echoes this imagery"],
+         "correct": 0,
+         "expl": "The rain-and-sustenance image recurring a third time within this collection."},
+    ],
+    marginalia=[
+        ("One riddle, twice", [
+            "the same four questions,",
+            "two complete answers",
+        ]),
+        ("Seed, rain, cattle, child", [
+            "the literal answer,",
+            "ordinary and worldly",
+        ]),
+        ("Knowledge, ignorance, Saṅgha, Buddha", [
+            "the transcendent answer,",
+            "transposed entirely",
+        ]),
+        ("Two levels, one pattern", [
+            "growth and sustenance",
+            "repeating at every level",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.74/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.73.html">SN 1.73 &middot; Wealth</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.54.html">SN 1.54 &middot; Grounds</a> &mdash; the earlier '
+        "discourse sharing this discourse&rsquo;s image of rain sustaining earth's "
+        "creatures.",
+        "SN 1.75 &middot; Afraid &mdash; the next discourse, on standing firm on "
+        "four principles to face the next world without fear.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.75 — Bhītāsutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 75, "Bhītā", "Afraid",
+    meta_title="SN 1.75 — Afraid | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bhītāsutta — a deity asks why so many fear the next world despite the "
+        "path's teaching, and the Buddha answers with four principles a "
+        "householder, not only a renunciant, can stand on. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a question addressed to Gotama by "
+                     "name, answered directly"),
+        ("Form", "A four-line question, answered by a six-line reply"),
+        ("Length", "~45 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form, notable for the life it describes as sufficient"),
+        ("A householder's path, explicitly", "The answer describes someone "
+                                              "'dwelling at home with plenty of "
+                                              "food and drink' as capable of "
+                                              "facing the next world without fear"),
+    ],
+    why=(
+        "The question is genuinely puzzling: if the path has been taught with so "
+        "many dimensions, why are so many people still afraid? Standing on what, "
+        "the deity asks Gotama directly, need one not fear the next world? The "
+        "answer doesn't describe a renunciant's life of austerity. It describes "
+        "someone with rightly directed speech and mind, doing nothing bad "
+        "physically, living at home with plenty of food and drink, and being "
+        "faithful, gentle, charitable, and bountiful."),
+    guide=[
+        ("A puzzle about fear despite instruction", [
+            "The question doesn't ask what the path is; it asks why fear persists "
+            "even though the path has already been taught &lsquo;with so many "
+            "dimensions.&rsquo; The puzzle isn't a lack of teaching but an "
+            "apparent gap between teaching received and fear overcome."]),
+        ("A life at home, named as sufficient", [
+            "Unlike discourses elsewhere in this collection that describe "
+            "wilderness solitude or renunciation as the setting for spiritual "
+            "progress, this answer explicitly names household life &mdash; "
+            "&lsquo;dwelling at home with plenty of food and drink&rsquo; &mdash; "
+            "as compatible with facing the next world without fear, so long as "
+            "four further qualities are present."]),
+        ("Four qualities, not a list of prohibitions", [
+            "The four qualities named &mdash; faithful, gentle, charitable, and "
+            "bountiful (<em>saddho, sorato, dāyako, vadaññū</em>) &mdash; are all "
+            "positive dispositions rather than restrictions. The answer describes "
+            "what to cultivate, alongside rightly directed speech, mind, and "
+            "bodily conduct, rather than what to avoid."]),
+        ("Standing on the teaching, specifically", [
+            "The verse's closing phrase, &lsquo;one who stands on these four "
+            "principles, who stands on the teaching, need not fear the next "
+            "world,&rsquo; ties the four qualities directly to the teaching "
+            "itself &mdash; not four independent virtues, but four ways the "
+            "teaching is actually lived out."]),
+    ],
+    terms=[
+        ("bhītā",
+         "&ldquo;afraid&rdquo; &mdash; this discourse's title, naming the "
+         "condition the deity's opening question asks about."),
+        ("gambhīrañāṇa",
+         "&ldquo;whose wisdom is vast&rdquo; &mdash; the deity's own description "
+         "of the Buddha, addressed directly as Gotama."),
+        ("sammā vācaṁ manañca paṇidhāya",
+         "&ldquo;when speech and mind are directed right&rdquo; &mdash; the "
+         "answer's first condition, naming inner and verbal conduct before any "
+         "restriction on lifestyle."),
+        ("bahvanne pānabhojane",
+         "&ldquo;with plenty of food and drink&rdquo; &mdash; the answer's "
+         "explicit description of ordinary household abundance, not deprivation."),
+        ("saddho sorato dāyako vadaññū",
+         "&ldquo;faithful, gentle, charitable, and bountiful&rdquo; &mdash; the "
+         "four positive qualities the answer names as what allows one to stand "
+         "without fear of the next world."),
+    ],
+    text_intro=(
+        "The discourse in full: a question about persistent fear, answered by a "
+        "life a householder can actually live. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.75:1.1-1.4"),
+        ("p", "&sect;2", "sn1.75:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What puzzle does the opening question raise?",
+         "opts": [
+             "Why so many people remain afraid even though the path has already been taught with many dimensions",
+             "What the path actually consists of",
+             "Whether the path exists at all",
+             "How many dimensions the path has"],
+         "correct": 0,
+         "expl": "A question about a gap between teaching received and fear overcome, not about the teaching's content."},
+        {"q": "What kind of life does the answer describe as compatible with facing the next world without fear?",
+         "opts": [
+             "A household life, dwelling at home with plenty of food and drink",
+             "A life of extreme austerity in the wilderness alone",
+             "A life of complete isolation from all other people",
+             "A life devoted entirely to accumulating wealth"],
+         "correct": 0,
+         "expl": "Explicit household abundance, not deprivation or renunciation."},
+        {"q": "What four qualities does the answer name as necessary alongside rightly directed conduct?",
+         "opts": [
+             "Faithful, gentle, charitable, and bountiful",
+             "Wealthy, powerful, famous, and admired",
+             "Silent, isolated, austere, and unmoving",
+             "Fearful, doubtful, anxious, and uncertain"],
+         "correct": 0,
+         "expl": "Four positive dispositions, not a list of prohibitions."},
+        {"q": "How does the answer describe speech and mind as a prerequisite?",
+         "opts": [
+             "They should be directed right",
+             "They should be entirely suppressed",
+             "They have no relevance to facing fear",
+             "Only mind matters; speech is irrelevant"],
+         "correct": 0,
+         "expl": "The answer's first named condition, alongside not doing anything bad with the body."},
+        {"q": "How does the deity address the Buddha in this discourse?",
+         "opts": [
+             "By his clan name, Gotama, and as one 'whose wisdom is vast'",
+             "By a formal royal title only",
+             "The deity does not address the Buddha directly",
+             "By calling him only 'Great Hero'"],
+         "correct": 0,
+         "expl": "A direct, informal address, as at SN 1.23 and SN 1.49."},
+        {"q": "What does the verse's closing phrase tie the four qualities to?",
+         "opts": [
+             "The teaching itself, as ways it is actually lived out",
+             "Wealth accumulated over a lifetime",
+             "Political power",
+             "Nothing; the four qualities stand alone unconnected to any teaching"],
+         "correct": 0,
+         "expl": "Four expressions of standing on the teaching, not independent virtues."},
+        {"q": "What does 'bahvanne pānabhojane' mean?",
+         "opts": [
+             "'With plenty of food and drink'",
+             "'With no food or drink at all'",
+             "'With scarce food and drink'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "An explicit description of household abundance."},
+        {"q": "Does this discourse describe wilderness solitude as necessary for facing the next world without fear?",
+         "opts": [
+             "No &mdash; it explicitly describes household life as sufficient",
+             "Yes, wilderness solitude is described as the only path",
+             "The discourse makes no claim about setting at all",
+             "It explicitly forbids household life entirely"],
+         "correct": 0,
+         "expl": "A notable contrast with discourses elsewhere in this collection emphasizing renunciation."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What does 'saddho sorato dāyako vadaññū' mean?",
+         "opts": [
+             "'Faithful, gentle, charitable, and bountiful'",
+             "'Fearful, doubtful, anxious, and stingy'",
+             "'Wealthy, powerful, famous, and admired'",
+             "'Silent, isolated, austere, and unmoving'"],
+         "correct": 0,
+         "expl": "The four qualities named as what allows standing without fear of the next world."},
+    ],
+    marginalia=[
+        ("A puzzle about fear", [
+            "the path taught fully,",
+            "yet fear persists",
+        ]),
+        ("A householder's life", [
+            "food and drink in plenty,",
+            "not deprivation",
+        ]),
+        ("Four qualities named", [
+            "faithful, gentle,",
+            "charitable, bountiful",
+        ]),
+        ("Standing on the teaching", [
+            "not independent virtues &mdash;",
+            "the teaching, lived out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.75/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.74.html">SN 1.74 &middot; Rain</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.23.html">SN 1.23 &middot; A Tangle</a> &mdash; an earlier '
+        "discourse also addressing the Buddha directly as Gotama.",
+        "SN 1.76 &middot; Getting Old &mdash; the next discourse, a dense "
+        "compilation riddle gathering several earlier themes together.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.76 — Najīratisutta (shares its English title with SN 1.52)
+# --------------------------------------------------------------------------- #
+page(
+    1, 76, "Najīrati", "Getting Old",
+    meta_title="SN 1.76 — Getting Old | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Najīratisutta — a dense, ten-part compilation riddle reprising SN 1.58's "
+        "deviation verse verbatim and adding six holes where wealth leaks away. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a long, multi-part riddle answered in "
+                     "sequence"),
+        ("Form", "Two stacked questions totaling ten parts, answered by three "
+                 "successive replies"),
+        ("Length", "~1.5 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the densest "
+                       "single riddle in this collection, gathering material from "
+                       "several earlier discourses"),
+        ("A shared English title", "This discourse's English title, &lsquo;Getting "
+                                   "Old,&rsquo; is identical to SN 1.52's, though "
+                                   "their Pali titles and content are entirely "
+                                   "different"),
+    ],
+    why=(
+        "This discourse packs ten distinct questions into two stacked verses: what "
+        "ages and what doesn't, what's a deviation, what blocks skillful qualities, "
+        "what's constantly ending, what stains celibacy, what's the waterless bath, "
+        "and how many holes leak away a person's wealth. The answers span three "
+        "replies, the second of which repeats SN 1.58's entire &lsquo;Deviation&rsquo; "
+        "verse word for word, before a third reply adds six specific holes where "
+        "wealth is lost."),
+    guide=[
+        ("A physical form that ages, a name that doesn't", [
+            "The first answer draws a distinction not made explicitly elsewhere in "
+            "this collection: the physical body of mortals ages, but their name "
+            "and clan (<em>nāmagottaṁ</em>) do not &mdash; a reputation or lineage "
+            "persisting, in a sense, beyond the body's own decline."]),
+        ("SN 1.58's verse, repeated word for word", [
+            "The second reply &mdash; lust as deviation, greed as a roadblock, "
+            "youth ending day and night, women named as the stain of chastity "
+            "&lsquo;to which this generation clings,&rsquo; and fervor with "
+            "chastity as the waterless bath &mdash; is identical to SN 1.58's "
+            "answer, with one addition (greed as a roadblock for skillful "
+            "qualities). This reading guide treats the repeated line about women "
+            "exactly as it treated it at SN 1.58: named plainly for the specific "
+            "celibate male monastic standpoint it speaks from, not softened or "
+            "erased."]),
+        ("Six holes where wealth leaks away", [
+            "The third reply answers a genuinely new question with a concrete "
+            "list: laziness, negligence, lack of initiative, lack of restraint, "
+            "sleepiness, and sloth &mdash; six specific behavioral failures named "
+            "as the &lsquo;holes&rsquo; through which a person's wealth is lost, "
+            "closing with a direct imperative to eliminate them entirely."]),
+        ("A compilation discourse, late in this vagga", [
+            "Coming this late in SN 1's overall sequence, this discourse reads "
+            "less as introducing new material than as gathering and extending "
+            "themes already established &mdash; SN 1.58's verse reprised whole, "
+            "SN 1.16's concern with sleepiness and negligence echoed in different "
+            "vocabulary, and this collection's recurring interest in what "
+            "actually erodes a person's resources given its most concrete "
+            "treatment yet."]),
+        ("A title collision worth noting", [
+            "This discourse's English title, &lsquo;Getting Old,&rsquo; is "
+            "identical to SN 1.52's, though the two share no Pali title, no "
+            "content, and no structural similarity &mdash; a reminder, alongside "
+            "this collection's two &lsquo;Stingy&rsquo;-titled and three "
+            "&lsquo;Gives Birth&rsquo;-titled discourses, that Sujato's English "
+            "titles sometimes converge even where the underlying Pali does not."]),
+    ],
+    terms=[
+        ("najīrati",
+         "&ldquo;doesn't age&rdquo; &mdash; this discourse's title, drawn from "
+         "its first answer's claim that name and clan don't age as the body "
+         "does."),
+        ("nāmagottaṁ",
+         "&ldquo;name and clan&rdquo; &mdash; what persists, according to the "
+         "first answer, even as the physical body grows old."),
+        ("mala brahmacariyassa itthiyo",
+         "&ldquo;women are the stain of chastity&rdquo; &mdash; repeated word for "
+         "word from SN 1.58, spoken from the same celibate male monastic "
+         "standpoint named there."),
+        ("lobho ca kusalānaṁ antarāyo",
+         "&ldquo;greed is a roadblock for skillful qualities&rdquo; &mdash; the "
+         "one genuinely new line within the otherwise repeated deviation verse."),
+        ("chidrāni loke",
+         "&ldquo;holes in the world&rdquo; &mdash; the third answer's central "
+         "image, naming six specific behavioral failures through which wealth is "
+         "lost."),
+    ],
+    text_intro=(
+        "The discourse in full: two stacked questions, three replies, and one "
+        "verse reprised verbatim from SN 1.58. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A six-part question"),
+        ("p", "&sect;1", "sn1.76:1.1-1.6"),
+        ("h3", "A further question: wealth's leaking holes"),
+        ("p", "&sect;2", "sn1.76:2.1-2.4"),
+        ("h3", "What ages, what doesn't"),
+        ("p", "&sect;3", "sn1.76:3.1-3.2"),
+        ("h3", "SN 1.58's verse, repeated word for word"),
+        ("p", "&sect;4", "sn1.76:3.3-4.6"),
+        ("h3", "Six holes where wealth leaks out"),
+        ("p", "&sect;5", "sn1.76:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "How many distinct questions does this discourse's two stacked verses ask in total?",
+         "opts": [
+             "Ten",
+             "Two",
+             "Four",
+             "Twenty"],
+         "correct": 0,
+         "expl": "The densest single riddle in this collection."},
+        {"q": "What does the first answer say about the physical body versus name and clan?",
+         "opts": [
+             "The physical body ages, but name and clan do not",
+             "Neither the body nor name and clan ever age",
+             "Both the body and name and clan age identically",
+             "Only name and clan age; the body never does"],
+         "correct": 0,
+         "expl": "A distinction between physical decline and a persisting reputation or lineage."},
+        {"q": "What earlier discourse's entire verse does this discourse's second reply repeat word for word?",
+         "opts": [
+             "SN 1.58, on deviation",
+             "SN 1.16, on sleepiness and sloth",
+             "SN 1.44, on one root",
+             "No earlier discourse is repeated here"],
+         "correct": 0,
+         "expl": "An exact verbatim repetition, with one line added."},
+        {"q": "How does this reading guide treat the repeated line about women?",
+         "opts": [
+             "Exactly as it treated it at SN 1.58, named plainly for its actual monastic standpoint",
+             "It is silently omitted from this reading guide",
+             "It is presented as a neutral, universal truth",
+             "It is treated completely differently from SN 1.58's treatment"],
+         "correct": 0,
+         "expl": "Consistent treatment across both appearances of the same line."},
+        {"q": "What six things does the third reply name as 'holes' where wealth leaks away?",
+         "opts": [
+             "Laziness, negligence, lack of initiative, lack of restraint, sleepiness, and sloth",
+             "Theft, taxation, fire, flood, war, and famine",
+             "Craving, delight, desire, anger, conceit, and doubt",
+             "Youth, old age, sickness, death, birth, and rebirth"],
+         "correct": 0,
+         "expl": "Six specific behavioral failures, closing with a direct imperative to eliminate them."},
+        {"q": "What English title does this discourse share, despite having no Pali or content overlap?",
+         "opts": [
+             "'Getting Old', shared with SN 1.52",
+             "'Stingy', shared with SN 1.32",
+             "'A Poet', shared with no other discourse",
+             "This discourse shares no title with any other discourse"],
+         "correct": 0,
+         "expl": "A reminder that Sujato's English titles sometimes converge where the Pali does not."},
+        {"q": "What one line is genuinely new within the otherwise repeated deviation verse?",
+         "opts": [
+             "'Greed is a roadblock for skillful qualities'",
+             "'Lust is called a deviation'",
+             "'Youth is ending day and night'",
+             "No new line is added at all"],
+         "correct": 0,
+         "expl": "The single addition distinguishing this discourse's reply from SN 1.58's original."},
+        {"q": "What does 'nāmagottaṁ' mean?",
+         "opts": [
+             "'Name and clan'",
+             "'Physical body'",
+             "'Wealth'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "What the first answer says persists even as the body ages."},
+        {"q": "What does this discourse's position late in SN 1 suggest about its function?",
+         "opts": [
+             "It reads as gathering and extending themes already established, rather than introducing entirely new material",
+             "It introduces every one of its ten questions for the first time in this collection",
+             "It has no relationship to any earlier discourse in this collection",
+             "It contradicts everything established in earlier discourses"],
+         "correct": 0,
+         "expl": "A compilation discourse, drawing together SN 1.58 and SN 1.16's earlier concerns."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+    ],
+    marginalia=[
+        ("Ten questions, stacked", [
+            "the densest riddle",
+            "in this whole collection",
+        ]),
+        ("Body ages, name endures", [
+            "physical form declines,",
+            "name and clan persist",
+        ]),
+        ("SN 1.58, repeated", [
+            "the same verse, word for word,",
+            "one line added",
+        ]),
+        ("Six holes, named plainly", [
+            "laziness, negligence,",
+            "sleepiness, sloth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.76/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.75.html">SN 1.75 &middot; Afraid</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.58.html">SN 1.58 &middot; Deviation</a> &mdash; the source '
+        "of this discourse's repeated deviation verse.",
+        "SN 1.77 &middot; Authority &mdash; the next discourse, on what holds "
+        "sway in the world and what counts as its best valuable.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.77 — Issariyasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 77, "Issariya", "Authority",
+    meta_title="SN 1.77 — Authority | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Issariyasutta — an eight-part riddle turning on a play between two kinds "
+        "of 'taking': a bandit arrested for theft, an ascetic welcomed for "
+        "accepting alms. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; two four-line questions, answered by "
+                     "two four-line replies"),
+        ("Form", "Eight questions across two verses, answered by eight matching "
+                 "claims"),
+        ("Length", "~45 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form, with a deliberate wordplay worth reading closely"),
+        ("A dated valuation, named plainly", "This discourse's second answer "
+                                             "names a woman as 'the best of "
+                                             "valuables', spoken from the same "
+                                             "perspective already named at SN 1.72"),
+    ],
+    why=(
+        "This discourse asks eight questions across two verses: what is authority, "
+        "the best valuable, a rusty sword, a pest &mdash; and who gets arrested for "
+        "taking things, who is loved for taking things, and who is welcomed back "
+        "again and again? The answer turns on a deliberate double meaning: a "
+        "bandit is arrested for taking what isn't given, while an ascetic is "
+        "welcomed and approved for the very same verb &mdash; taking, in the sense "
+        "of accepting alms freely offered."),
+    guide=[
+        ("Four unrelated superlatives, named first", [
+            "The first four answers &mdash; sway as authority, a woman as the "
+            "best valuable, anger as a rusty sword, a bandit as a pest &mdash; are "
+            "four separate observations with no obvious connecting thread, "
+            "setting up the wordplay the second half of the discourse turns on."]),
+        ("A woman named as 'the best of valuables'", [
+            "As with SN 1.72's line about a woman being known by her husband, "
+            "this discourse's claim that a woman is the best of valuables "
+            "(<em>ratanaṁ</em>) is spoken from a specific social vantage, treating "
+            "women as possessions to be valued rather than as valuing subjects "
+            "&mdash; this reading guide names that framing directly rather than "
+            "presenting it as a neutral observation."]),
+        ("One verb, two very different receptions", [
+            "The second half's real point is a play on &lsquo;taking&rsquo; "
+            "(<em>ādāya</em>): a bandit who takes things away is arrested, while "
+            "an ascetic who takes things away &mdash; meaning, accepts alms "
+            "offered &mdash; is loved and approved, welcomed back &lsquo;again "
+            "and again.&rsquo; The identical verb describes theft in one case and "
+            "willingly received generosity in the other."]),
+        ("Rusty, not merely sharp", [
+            "Naming anger a &lsquo;rusty sword&rsquo; (<em>satthaṁ malaṁ</em>) is "
+            "a specific image: not a weapon at its most dangerous and honed, but "
+            "one degraded by neglect, suggesting anger corrodes and weakens "
+            "rather than simply cutting cleanly."]),
+    ],
+    terms=[
+        ("issariya",
+         "&ldquo;authority, sway&rdquo; &mdash; this discourse's title, and the "
+         "first item its riddle asks about."),
+        ("ratanaṁ",
+         "&ldquo;a valuable&rdquo; &mdash; the term applied to a woman in this "
+         "discourse's second answer, spoken from the same social vantage already "
+         "named at SN 1.72."),
+        ("satthaṁ malaṁ",
+         "&ldquo;a rusty sword&rdquo; &mdash; the image applied to anger, "
+         "suggesting corrosion and neglect rather than sharpness."),
+        ("adinnaṁ ādāya",
+         "&ldquo;taking things away&rdquo; &mdash; the shared verb underlying "
+         "both the bandit's arrest and the ascetic's welcome, with two very "
+         "different meanings."),
+        ("punappunaṁ āgacchantaṁ",
+         "&ldquo;when they come again and again&rdquo; &mdash; describing the "
+         "ascetic's repeated, welcomed return, in direct contrast to the bandit's "
+         "single arrest."),
+    ],
+    text_intro=(
+        "The discourse in full: eight questions, turning on a single verb with "
+        "two very different meanings. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.77:1.1-1.4"),
+        ("p", "&sect;2", "sn1.77:2.1-2.4"),
+        ("p", "&sect;3", "sn1.77:3.1-3.4"),
+        ("p", "&sect;4", "sn1.77:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does the first answer name as authority in the world?",
+         "opts": [
+             "Sway",
+             "Wealth",
+             "Wisdom",
+             "A king"],
+         "correct": 0,
+         "expl": "The first of four unrelated superlatives opening this discourse."},
+        {"q": "How does this reading guide treat the answer naming a woman as 'the best of valuables'?",
+         "opts": [
+             "It names the specific social vantage the claim is spoken from, as with SN 1.72",
+             "It presents the claim as a neutral, universal truth",
+             "It silently omits the line",
+             "It claims the line has nothing to do with any social context"],
+         "correct": 0,
+         "expl": "Consistent with this project's treatment of similar lines elsewhere."},
+        {"q": "What image does the discourse use for anger?",
+         "opts": [
+             "A rusty sword",
+             "A sharp, newly forged sword",
+             "A gentle breeze",
+             "A protective shield"],
+         "correct": 0,
+         "expl": "Corrosion and neglect, not clean sharpness."},
+        {"q": "What happens to a bandit who takes things away, according to the second half of this discourse?",
+         "opts": [
+             "They get arrested",
+             "They are loved and welcomed",
+             "Nothing happens to them at all",
+             "They are approved by the astute"],
+         "correct": 0,
+         "expl": "The negative side of the discourse's central wordplay."},
+        {"q": "What happens to an ascetic who 'takes things away', in the sense the discourse intends?",
+         "opts": [
+             "They are loved and approved, welcomed back again and again",
+             "They are also arrested, exactly like a bandit",
+             "They are exiled from the community",
+             "Nothing is said about ascetics in this discourse"],
+         "correct": 0,
+         "expl": "The same verb, describing willingly received alms rather than theft."},
+        {"q": "What is the real point of this discourse's second half?",
+         "opts": [
+             "A play on the verb 'taking', describing theft in one case and accepted alms in the other",
+             "A claim that all forms of taking are equally criminal",
+             "A claim that ascetics should be arrested like bandits",
+             "A claim with no connection to the word 'taking' at all"],
+         "correct": 0,
+         "expl": "One verb, two radically different receptions depending on context."},
+        {"q": "What does 'adinnaṁ ādāya' mean?",
+         "opts": [
+             "'Taking things away'",
+             "'Giving things away'",
+             "'Refusing to take anything'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The shared phrase underlying both the bandit's crime and the ascetic's welcomed acceptance."},
+        {"q": "What does the first answer name as a 'pest' in the world?",
+         "opts": [
+             "A bandit",
+             "An ascetic",
+             "A woman",
+             "A king"],
+         "correct": 0,
+         "expl": "Set up in the first half, then developed further in the second half's wordplay."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "How many total questions does this discourse's two verses ask?",
+         "opts": [
+             "Eight",
+             "Four",
+             "Two",
+             "Twelve"],
+         "correct": 0,
+         "expl": "Four in each of the two verses, eight in total."},
+    ],
+    marginalia=[
+        ("Four superlatives", [
+            "sway, a valuable,",
+            "a rusty sword, a pest",
+        ]),
+        ("A perspective, named", [
+            "spoken from its own",
+            "social vantage",
+        ]),
+        ("One verb, two receptions", [
+            "the bandit arrested,",
+            "the ascetic welcomed",
+        ]),
+        ("Taking, redefined", [
+            "theft, or accepted alms &mdash;",
+            "the same word, different acts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.77/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.76.html">SN 1.76 &middot; Getting Old</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.72.html">SN 1.72 &middot; A Chariot</a> &mdash; the earlier '
+        "discourse sharing this discourse's social vantage on women.",
+        "SN 1.78 &middot; Desire &mdash; the next discourse, on what a mortal "
+        "should never give away or forsake.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.78 — Kāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 78, "Kāma", "Desire",
+    meta_title="SN 1.78 — Desire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kāmasutta — a compact riddle naming the self as what should never be "
+        "given away or forsaken, and speech as what should be released only when "
+        "it is good. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in "
+                       "form, its claim about the self worth reading carefully"),
+        ("A discourse about integrity, not possession", "Its title, "
+                                                         "&lsquo;Desire,&rsquo; "
+                                                         "belies content actually "
+                                                         "concerned with "
+                                                         "self-respect and "
+                                                         "restrained speech"),
+    ],
+    why=(
+        "The question asks about three things: what someone wanting what's best "
+        "should never give away, what a mortal should never forsake, and what "
+        "should be released only when it's good but held back when it's bad. The "
+        "answer is compact and pointed: a person should never give away or "
+        "forsake themselves &mdash; named twice, in nearly identical terms &mdash; "
+        "and speech specifically should be released only under the right "
+        "condition."),
+    guide=[
+        ("The self, named twice with slightly different verbs", [
+            "The answer's first two lines both concern the self "
+            "(<em>attā</em>), but use two distinct verbs: not "
+            "&lsquo;giving away&rsquo; (<em>na dajjā</em>) and not "
+            "&lsquo;forsaking&rsquo; (<em>na jaheyya</em>). Read together, the "
+            "pair suggests two different failure modes &mdash; surrendering "
+            "oneself to another's demand, and simply abandoning one's own "
+            "standards &mdash; both ruled out equally."]),
+        ("A claim best read as integrity, not selfishness", [
+            "&lsquo;Not giving away oneself&rsquo; sits within this collection's "
+            "broader ethical concerns rather than contradicting its teaching on "
+            "non-attachment: the claim is not about clinging to possessions or "
+            "status, but about not compromising one's own basic moral integrity "
+            "&mdash; a person's word, conduct, and self-respect &mdash; under "
+            "external pressure."]),
+        ("Speech singled out for conditional release", [
+            "Where the first two answers concern the self as a whole, the final "
+            "answer narrows specifically to speech: release it "
+            "(<em>muñceyya</em>) only when it is good, hold it back when it "
+            "isn't. Speech is treated as the one thing this verse addresses "
+            "requiring active, situational discernment, rather than a fixed rule "
+            "either always spoken or always withheld."]),
+        ("A title that doesn't obviously match its content", [
+            "This discourse's title, <em>kāma</em>, &lsquo;desire,&rsquo; is not "
+            "directly reflected in its content, which concerns self-respect and "
+            "speech rather than sensual desire specifically &mdash; a reminder "
+            "that Pali sutta titles are sometimes drawn from a single word within "
+            "the discourse's opening line rather than from its central theme."]),
+    ],
+    terms=[
+        ("kāma",
+         "&ldquo;desire&rdquo; &mdash; this discourse's title, though its actual "
+         "content concerns self-respect and speech rather than sensual desire "
+         "directly."),
+        ("attānaṁ na dajjā",
+         "&ldquo;shouldn't give away himself&rdquo; &mdash; the first answer, "
+         "naming a failure to maintain one's own moral integrity under pressure."),
+        ("attānaṁ na jaheyya",
+         "&ldquo;shouldn't forsake himself&rdquo; &mdash; the second answer, a "
+         "closely related but distinct failure mode."),
+        ("vācaṁ muñceyya kalyāṇiṁ",
+         "&ldquo;speech should be released when it's good&rdquo; &mdash; the "
+         "third answer, naming conditional release rather than a fixed rule."),
+        ("na ce pāpikaṁ",
+         "&ldquo;but not when it's bad&rdquo; &mdash; the qualifying clause "
+         "requiring active discernment before speech is released."),
+    ],
+    text_intro=(
+        "The discourse in full: a compact teaching on self-integrity and "
+        "discerning speech. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.78:1.1-1.4"),
+        ("p", "&sect;2", "sn1.78:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three things does the opening question ask about?",
+         "opts": [
+             "What shouldn't be given away, what shouldn't be forsaken, and what should be released only when good",
+             "What overcomes everything and nothing excels",
+             "What's good in old age and hard for thieves to take",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "Three related questions about integrity and speech."},
+        {"q": "What does the reply name as what should never be given away or forsaken?",
+         "opts": [
+             "Oneself (attā)",
+             "Wealth",
+             "Craving",
+             "A deity"],
+         "correct": 0,
+         "expl": "Named twice, with two distinct verbs, in the answer's first two lines."},
+        {"q": "How should the claim about 'not giving away oneself' best be read?",
+         "opts": [
+             "As a claim about self-respect and moral integrity, not about clinging to possessions",
+             "As a direct contradiction of this collection's teaching on non-attachment",
+             "As a claim that selfishness is always virtuous",
+             "As a claim with no ethical content at all"],
+         "correct": 0,
+         "expl": "Not compromising one's own standards under external pressure."},
+        {"q": "What does the reply say about speech specifically?",
+         "opts": [
+             "It should be released only when good, held back when bad",
+             "It should always be released regardless of content",
+             "It should never be released under any circumstances",
+             "No claim is made about speech in this discourse"],
+         "correct": 0,
+         "expl": "Conditional release requiring active discernment, not a fixed rule."},
+        {"q": "What two verbs distinguish the answer's first two lines about the self?",
+         "opts": [
+             "'Giving away' and 'forsaking'",
+             "'Buying' and 'selling'",
+             "'Creating' and 'destroying'",
+             "The two lines use identical wording with no distinction"],
+         "correct": 0,
+         "expl": "Two related but distinct failure modes, both ruled out."},
+        {"q": "Does this discourse's title, 'Desire' (kāma), directly reflect its actual content?",
+         "opts": [
+             "No &mdash; the content concerns self-respect and speech, not sensual desire directly",
+             "Yes, the entire discourse is about sensual desire",
+             "The title has no relationship to Pali sutta-naming conventions at all",
+             "The discourse never mentions any subject at all"],
+         "correct": 0,
+         "expl": "A reminder that titles are sometimes drawn from a single word rather than the central theme."},
+        {"q": "What does 'attānaṁ na jaheyya' mean?",
+         "opts": [
+             "'Shouldn't forsake himself'",
+             "'Should always forsake himself'",
+             "'Should give away himself'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The second of two closely related answers about the self."},
+        {"q": "What quality does releasing speech only when it's good require?",
+         "opts": [
+             "Active, situational discernment",
+             "No thought or judgment at all",
+             "Complete silence in every circumstance",
+             "Speaking as much as possible regardless of content"],
+         "correct": 0,
+         "expl": "A condition to be actively assessed, not a blanket rule."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What does 'vācaṁ muñceyya kalyāṇiṁ' mean?",
+         "opts": [
+             "'Speech should be released when it's good'",
+             "'Speech should never be released'",
+             "'The self should be released when it's good'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The verse's third answer, narrowing specifically to speech."},
+    ],
+    marginalia=[
+        ("Never given away", [
+            "not oneself &mdash;",
+            "not forsaken either",
+        ]),
+        ("Integrity, not clinging", [
+            "not possessions held onto,",
+            "but standards not compromised",
+        ]),
+        ("Speech, conditionally released", [
+            "when good, spoken;",
+            "when bad, held back",
+        ]),
+        ("A title, loosely matched", [
+            "&lsquo;desire&rsquo; in name,",
+            "integrity in content",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.78/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.77.html">SN 1.77 &middot; Authority</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.25.html">SN 1.25 &middot; A Perfected One</a> &mdash; an '
+        "earlier discourse in this collection also concerned with speech and "
+        "conduct.",
+        "SN 1.79 &middot; Provisions &mdash; the next discourse, on what binds "
+        "the provisions for life's journey.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.79 — Pātheyyasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 79, "Pātheyya", "Provisions",
+    meta_title="SN 1.79 — Provisions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pātheyyasutta — a five-part riddle naming faith as what binds a "
+        "journey's provisions, and desire as what drags a person around and "
+        "binds them like a bird in a snare. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a five-part riddle answered point by "
+                     "point"),
+        ("Form", "A six-line question, answered by a matching six-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form, closing on a vivid image"),
+        ("Two registers, one verse", "The first two answers use economic and "
+                                     "travel metaphors; the remaining three "
+                                     "return to this collection's recurring "
+                                     "concern with desire"),
+    ],
+    why=(
+        "This discourse's question mixes the practical and the psychological: "
+        "what binds together the provisions needed for a journey, what functions "
+        "as the vault holding one's wealth, what drags a person around, what is "
+        "hardest to give up, and with what are ordinary beings bound, like birds "
+        "caught in a snare? The answer names faith as what secures a journey's "
+        "provisions, majesty as the vault of wealth, and desire as the answer to "
+        "the remaining three questions in a row."),
+    guide=[
+        ("Faith as what binds provisions together", [
+            "The image of faith (<em>saddhā</em>) as what &lsquo;binds the "
+            "provisions for a journey&rsquo; (<em>pātheyyaṁ</em>) treats faith as "
+            "a practical necessity for travel, not merely an inner disposition "
+            "&mdash; the thing that keeps everything needed for the road properly "
+            "gathered and secure."]),
+        ("Majesty as a vault, not merely a display", [
+            "Naming majesty or glory (<em>yasa</em>) as &lsquo;the vault of "
+            "wealth&rsquo; (<em>kosaṁ</em>) treats reputation itself as a form of "
+            "stored value &mdash; something that holds and protects resources, "
+            "rather than merely being visible or admired."]),
+        ("Three questions, one answer, repeated", [
+            "Desire (<em>icchā</em>) answers the final three questions in "
+            "immediate succession: it drags a person around, it is hardest to "
+            "give up, and it is what binds ordinary beings. Unlike this "
+            "discourse's more varied opening two answers, its closing three "
+            "collapse into a single, repeated identification."]),
+        ("Birds in a snare, this collection's closing image for bondage", [
+            "The verse's final simile &mdash; ordinary beings bound &lsquo;like "
+            "birds in a snare&rsquo; (<em>sakuṇāva pāsena</em>) &mdash; gives "
+            "this collection's recurring concern with what binds the world "
+            "(already met throughout the Addhavagga) its most visually concrete "
+            "image yet: not an abstract fetter but a specific, familiar trap."]),
+    ],
+    terms=[
+        ("pātheyya",
+         "&ldquo;provisions for a journey&rdquo; &mdash; this discourse's title, "
+         "and the first item its riddle asks about."),
+        ("saddhā pātheyyaṁ bandhati",
+         "&ldquo;faith binds the provisions for a journey&rdquo; &mdash; the "
+         "first answer, treating faith as a practical necessity."),
+        ("yaso kosaṁ",
+         "&ldquo;majesty is the vault of wealth&rdquo; &mdash; the second "
+         "answer, treating reputation as a form of stored resource."),
+        ("icchā naraṁ parikassati",
+         "&ldquo;desire drags a person around&rdquo; &mdash; the first of three "
+         "consecutive answers naming desire."),
+        ("sakuṇāva pāsena",
+         "&ldquo;like birds in a snare&rdquo; &mdash; the verse's closing simile "
+         "for ordinary beings' bondage."),
+    ],
+    text_intro=(
+        "The discourse in full: two practical metaphors, then desire named three "
+        "times in succession, closing on a concrete image of bondage. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.79:1.1-1.6"),
+        ("p", "&sect;2", "sn1.79:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What five things does the opening question ask about?",
+         "opts": [
+             "What binds a journey's provisions, wealth's vault, what drags a person, what's hardest to give up, and what binds beings",
+             "What overcomes everything and nothing excels",
+             "What's good in old age and hard for thieves to take",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "Five related questions, two practical and three psychological."},
+        {"q": "What does the reply name as what binds together a journey's provisions?",
+         "opts": [
+             "Faith (saddhā)",
+             "Wealth",
+             "Craving",
+             "A caravan"],
+         "correct": 0,
+         "expl": "Treated as a practical necessity for travel, not merely an inner disposition."},
+        {"q": "What does the reply name as the vault of wealth?",
+         "opts": [
+             "Majesty or glory (yasa)",
+             "A literal building",
+             "Faith",
+             "Nothing is named"],
+         "correct": 0,
+         "expl": "Reputation treated as a form of stored value."},
+        {"q": "What single answer does the reply give to the final three questions?",
+         "opts": [
+             "Desire (icchā)",
+             "Three different answers, one for each question",
+             "Faith, repeated three times",
+             "No answer is given to the final three questions"],
+         "correct": 0,
+         "expl": "A single identification repeated across three consecutive questions."},
+        {"q": "What image closes the verse, describing ordinary beings' bondage?",
+         "opts": [
+             "Birds caught in a snare",
+             "A ship lost at sea",
+             "A tree uprooted by wind",
+             "No closing image is given"],
+         "correct": 0,
+         "expl": "A concrete, familiar image of a trap."},
+        {"q": "How does this discourse's answer structure compare between its first two and last three questions?",
+         "opts": [
+             "The first two use varied metaphors; the last three collapse into a single repeated answer",
+             "All five questions receive completely different, unrelated answers",
+             "All five questions receive the exact same answer",
+             "No pattern connects the five answers at all"],
+         "correct": 0,
+         "expl": "A shift in structure partway through the verse."},
+        {"q": "What does 'yaso kosaṁ' mean?",
+         "opts": [
+             "'Majesty is the vault of wealth'",
+             "'Wealth is the vault of majesty'",
+             "'Desire is the vault of wealth'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The second answer, treating reputation as stored resource."},
+        {"q": "How does this discourse's closing image relate to this collection's earlier concern with bondage?",
+         "opts": [
+             "It gives that recurring concern its most visually concrete image yet",
+             "It contradicts everything said about bondage in the Addhavagga",
+             "It has no relationship to any earlier discourse in this collection",
+             "It denies that anything binds ordinary beings"],
+         "correct": 0,
+         "expl": "A specific trap rather than an abstract fetter, following the Addhavagga's abstract treatments."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What does 'sakuṇāva pāsena' mean?",
+         "opts": [
+             "'Like birds in a snare'",
+             "'Like fish in the ocean'",
+             "'Like clouds in the sky'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The verse's closing simile for ordinary beings' bondage by desire."},
+    ],
+    marginalia=[
+        ("Faith, binding provisions", [
+            "not merely inner disposition &mdash;",
+            "practical necessity",
+        ]),
+        ("Majesty, as vault", [
+            "reputation itself",
+            "a stored resource",
+        ]),
+        ("Desire, named three times", [
+            "drags, hardest to give up,",
+            "and what binds",
+        ]),
+        ("Birds in a snare", [
+            "a concrete image,",
+            "not an abstract fetter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.79/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.78.html">SN 1.78 &middot; Desire</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.69.html">SN 1.69 &middot; Desire</a> &mdash; an earlier '
+        "discourse in the previous vagga, also naming desire as what binds the "
+        "world.",
+        "SN 1.80 &middot; Lamp &mdash; the next discourse, on wisdom as the "
+        "world's lamp and mindfulness as what stays wakeful.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.80 — Pajjotasutta (shares its Pali title with SN 1.26)
+# --------------------------------------------------------------------------- #
+page(
+    1, 80, "Pajjota", "Lamp",
+    meta_title="SN 1.80 — Lamp | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Pajjotasutta — wisdom as the world's lamp, mindfulness as wakeful, "
+        "cattle and the furrow as a farmer's life, and rain nurturing idle and "
+        "tireless alike. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; two stacked questions, answered by "
+                     "two matching replies"),
+        ("Form", "Eight questions across two verses, answered by eight matching "
+                 "claims"),
+        ("Length", "~45 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form, with two distinct registers, spiritual and "
+                       "agricultural"),
+        ("A second discourse sharing a title", "This discourse's Pali title, "
+                                               "Pajjotasutta, is identical to SN "
+                                               "1.26's; only the English "
+                                               "singular/plural distinguishes them "
+                                               "here"),
+    ],
+    why=(
+        "This discourse asks eight questions across two verses, four spiritual "
+        "and four agricultural: what is the world's lamp, what stays wakeful, who "
+        "are one's work colleagues, what is one's walk of life &mdash; and what "
+        "nurtures the idle and the tireless alike, like a mother her child, and "
+        "what sustains earthbound creatures? The answer moves fluidly between "
+        "registers: wisdom as lamp and mindfulness as wakeful, then cattle as "
+        "colleagues and the furrow as a farmer's walk of life, closing with rain "
+        "as the impartial nurturer of everyone alike."),
+    guide=[
+        ("Wisdom and mindfulness, named first", [
+            "The first two answers stay within this collection's familiar "
+            "vocabulary: wisdom (<em>paññā</em>) as the world's lamp, echoing SN "
+            "1.26's naming of the Buddha as the &lsquo;best of blazes,&rsquo; and "
+            "mindfulness (<em>sati</em>) as what remains wakeful even when other "
+            "things are not."]),
+        ("A sudden shift to farming life", [
+            "Without transition, the verse's third and fourth answers move "
+            "entirely into agricultural imagery: cattle as work colleagues, and "
+            "the furrow (<em>sītā</em>) itself as one's &lsquo;walk of life"
+            "&rsquo; &mdash; describing a farmer's actual daily labor rather than "
+            "continuing the spiritual register of the first two answers."]),
+        ("Rain, impartial to effort", [
+            "The verse's closing claim &mdash; that rain nurtures &lsquo;the idle "
+            "and the tireless&rsquo; alike, &lsquo;like a mother her child"
+            "&rsquo; &mdash; is a striking observation about natural provision "
+            "that doesn't discriminate by merit or effort, a notable contrast "
+            "with this collection's frequent emphasis on individual conduct "
+            "determining individual outcome."]),
+        ("Rain, again, echoing SN 1.54 and SN 1.74", [
+            "The final claim, that earthbound creatures sustain their life by "
+            "rain, repeats content already met twice earlier in this collection "
+            "&mdash; at SN 1.54 and again at SN 1.74 &mdash; the third and final "
+            "appearance of this specific image within SN 1."]),
+        ("A second title collision, worth noting alongside the others", [
+            "This discourse's Pali title, <em>Pajjotasutta</em>, is identical to "
+            "SN 1.26's; only Sujato's English rendering distinguishes the two "
+            "&mdash; &lsquo;Lamps&rsquo; there, &lsquo;Lamp&rsquo; here &mdash; "
+            "joining this collection's other title collisions (Macchari, "
+            "'Getting Old,' 'Gives Birth') as another case where identical Pali "
+            "titles cover genuinely different content."]),
+    ],
+    terms=[
+        ("pajjota",
+         "&ldquo;a lamp, a blaze&rdquo; &mdash; this discourse's title, shared "
+         "with SN 1.26 despite covering entirely different content."),
+        ("paññā pajjoto lokasmiṁ",
+         "&ldquo;wisdom is the lamp for the world&rdquo; &mdash; the first "
+         "answer, echoing SN 1.26's imagery of light with a different subject."),
+        ("sati lokasmiṁ jāgaro",
+         "&ldquo;mindfulness in the world is wakeful&rdquo; &mdash; the second "
+         "answer, naming mindfulness's characteristic alertness."),
+        ("sītā jīvitavuttiko",
+         "&ldquo;the furrow is one's walk of life&rdquo; &mdash; the fourth "
+         "answer, describing a farmer's daily labor in agricultural terms."),
+        ("mātā puttaṁva posati",
+         "&ldquo;like a mother her child&rdquo; &mdash; the simile applied to "
+         "rain's impartial nurturing of the idle and the tireless alike."),
+    ],
+    text_intro=(
+        "The discourse in full: wisdom and mindfulness first, then a shift into "
+        "farming imagery and impartial rain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.80:1.1-1.4"),
+        ("p", "&sect;2", "sn1.80:2.1-2.4"),
+        ("p", "&sect;3", "sn1.80:3.1-3.4"),
+        ("p", "&sect;4", "sn1.80:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does the reply name as the world's lamp?",
+         "opts": [
+             "Wisdom (paññā)",
+             "A literal lamp",
+             "The sun",
+             "Faith"],
+         "correct": 0,
+         "expl": "Echoing SN 1.26's imagery of light applied to a different subject."},
+        {"q": "What does the reply name as what stays wakeful in the world?",
+         "opts": [
+             "Mindfulness (sati)",
+             "Wisdom",
+             "Craving",
+             "Desire"],
+         "correct": 0,
+         "expl": "The second answer, naming mindfulness's characteristic alertness."},
+        {"q": "What imagery does the verse shift to for its third and fourth answers?",
+         "opts": [
+             "Agricultural imagery: cattle as work colleagues, the furrow as one's walk of life",
+             "It continues entirely in the spiritual register of the first two answers",
+             "It shifts to military imagery",
+             "It shifts to imagery of the ocean"],
+         "correct": 0,
+         "expl": "A notable shift from spiritual to agricultural register, without transition."},
+        {"q": "What does the verse say about rain's nurturing of the idle and the tireless?",
+         "opts": [
+             "Rain nurtures both alike, like a mother her child, without discriminating by effort",
+             "Rain nurtures only the tireless, never the idle",
+             "Rain nurtures only the idle, never the tireless",
+             "Rain has no relationship to nurturing anything"],
+         "correct": 0,
+         "expl": "An observation about impartial natural provision, contrasting with themes of merit and effort elsewhere in this collection."},
+        {"q": "How many times has the image of creatures sustained by rain now appeared in this collection?",
+         "opts": [
+             "Three times: SN 1.54, SN 1.74, and this discourse",
+             "Only once, here for the first time",
+             "Twice, but not including this discourse",
+             "This is the first and only appearance"],
+         "correct": 0,
+         "expl": "A recurring image appearing across three separate discourses within SN 1."},
+        {"q": "What earlier discourse shares this discourse's Pali title?",
+         "opts": [
+             "SN 1.26, though its English title differs ('Lamps' versus 'Lamp')",
+             "SN 1.44, on one root",
+             "SN 1.61, on name",
+             "No earlier discourse shares this Pali title"],
+         "correct": 0,
+         "expl": "A title collision, joining this collection's other repeated English titles."},
+        {"q": "What does 'sītā jīvitavuttiko' mean?",
+         "opts": [
+             "'The furrow is one's walk of life'",
+             "'Wisdom is one's walk of life'",
+             "'Cattle are one's walk of life'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The fourth answer, describing agricultural labor as a way of life."},
+        {"q": "What does the reply name as one's work colleagues?",
+         "opts": [
+             "Cattle",
+             "Other farmers only",
+             "Deities",
+             "No colleagues are named"],
+         "correct": 0,
+         "expl": "The third answer, continuing the shift into agricultural imagery."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly."},
+        {"q": "What does 'mātā puttaṁva posati' mean?",
+         "opts": [
+             "'Like a mother her child'",
+             "'Like a father his child'",
+             "'Like a stranger passing by'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The simile applied to rain's impartial nurturing."},
+    ],
+    marginalia=[
+        ("Wisdom and mindfulness", [
+            "the lamp, and what",
+            "stays wakeful",
+        ]),
+        ("A sudden shift", [
+            "cattle as colleagues,",
+            "the furrow as a life",
+        ]),
+        ("Rain, impartial", [
+            "nurturing idle and tireless",
+            "alike, like a mother",
+        ]),
+        ("A third appearance", [
+            "the same image, again &mdash;",
+            "SN 1.54, 1.74, and now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.80/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.79.html">SN 1.79 &middot; Provisions</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.54.html">SN 1.54 &middot; Grounds</a> &mdash; the first '
+        "appearance of this discourse's closing image, creatures sustained by "
+        "rain.",
+        "SN 1.81 &middot; Free of Strife &mdash; the next discourse, this "
+        "vagga's last, closing not only the Chetvāvagga but the entire "
+        "Devatāsaṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.81 — Araṇasutta (closes the Chetvāvagga and the entire Devatāsaṃyutta)
+# --------------------------------------------------------------------------- #
+page(
+    1, 81, "Araṇa", "Free of Strife",
+    meta_title="SN 1.81 — Free of Strife | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Araṇasutta — six questions about true nobility, all answered with a "
+        "single word, ascetics, closing with even the low-born bowed to by "
+        "aristocrats. The final discourse of the entire Devatāsaṃyutta, SN 1's "
+        "81 discourses complete. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text"),
+        ("Speakers", "Not named explicitly; a six-part riddle answered by a "
+                     "single, sweeping word"),
+        ("Form", "Two four-line verses of question, answered by two matching "
+                 "verses of reply"),
+        ("Length", "~45 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in "
+                       "form, carrying the full weight of closing this entire "
+                       "saṃyutta"),
+        ("Closing all of SN 1", "The eleventh and last discourse of the "
+                                "Chetvāvagga, and the 81st and final discourse "
+                                "of the entire Devatāsaṃyutta &mdash; the only "
+                                "discourse in this collection whose closing line "
+                                "is itself translated into English"),
+    ],
+    why=(
+        "The question asks about true freedom and nobility across six related "
+        "concerns: who is free of strife, whose life isn't wasted, who fully "
+        "understands desire, who always lives as their own master, to whom do "
+        "even one's own mother, father, and brothers bow, and who, though "
+        "low-born, is bowed to even by aristocrats? Every single question "
+        "receives the identical answer: ascetics (<em>samaṇā</em>) &mdash; not "
+        "by birth, wealth, or worldly rank, but by what they have actually "
+        "become."),
+    guide=[
+        ("Six questions, one sweeping answer", [
+            "This discourse's reply is the most economical in this entire "
+            "collection relative to its question's scope: six distinct concerns "
+            "&mdash; freedom from strife, a life not wasted, understanding "
+            "desire, self-mastery, filial reverence, and standing above caste "
+            "&mdash; all answered with the identical single word, "
+            "&lsquo;ascetics.&rsquo;"]),
+        ("Family reverence, reversed", [
+            "The verse's fifth claim &mdash; that a person's own mother, father, "
+            "and brothers bow to them once they are &lsquo;established&rsquo; as "
+            "an ascetic &mdash; describes a genuine reversal of ordinary "
+            "family hierarchy, where filial deference typically flows from "
+            "child to parent. Renunciation is pictured as inverting even this "
+            "most basic social relationship."]),
+        ("Birth outranked by attainment", [
+            "The closing claim is the discourse's most socially pointed: even "
+            "someone low-born (<em>jātihīna</em>) is bowed to by aristocrats "
+            "(<em>khattiyā</em>) once they have become an ascetic. This directly "
+            "echoes SN 1.48's earlier claim that purification comes &lsquo;not "
+            "by clan or wealth&rsquo; &mdash; here given its most complete "
+            "social expression, with the entire caste hierarchy explicitly "
+            "reversed."]),
+        ("The only translated closing line in this entire collection", [
+            "Every vagga-closing colophon in this collection has been left "
+            "untranslated in this edition &mdash; except this one. The final "
+            "line following this discourse, marking not merely the "
+            "Chetvāvagga's close but the completion of the entire "
+            "Devatāsaṃyutta, is rendered directly into English: "
+            "&lsquo;The Linked Discourses on Deities are complete.&rsquo; This "
+            "reading guide quotes it exactly as given, the one moment in this "
+            "collection so far where the source text's own bookkeeping breaks "
+            "through into the translation itself."]),
+        ("Eighty-one discourses, from a flood crossed to a hierarchy overturned", [
+            "This collection opened at SN 1.1 with a deity asking how the "
+            "Buddha crossed a flood &lsquo;neither standing nor swimming.&rsquo; "
+            "It closes, eighty discourses later, with a vision of ascetics who "
+            "have crossed something else entirely &mdash; the ordinary claims "
+            "of family hierarchy and inherited social rank &mdash; bowed to by "
+            "the very people birth would otherwise have placed above them. Both "
+            "discourses, in their own way, describe a crossing that ordinary "
+            "means cannot accomplish."]),
+    ],
+    terms=[
+        ("araṇa",
+         "&ldquo;free of strife&rdquo; &mdash; this discourse's title, and the "
+         "first of six qualities its riddle asks about."),
+        ("samaṇā",
+         "&ldquo;ascetics&rdquo; &mdash; the single word answering all six of "
+         "this discourse's questions."),
+        ("mātā pitā bhātā vandanti",
+         "&ldquo;mother, father, and brothers bow&rdquo; &mdash; describing a "
+         "reversal of ordinary filial deference once a family member becomes an "
+         "ascetic."),
+        ("jātihīnaṁ abhivādenti khattiyā",
+         "&ldquo;though low born, bowed to even by aristocrats&rdquo; &mdash; "
+         "this discourse's closing claim, echoing SN 1.48's rejection of clan "
+         "and wealth as what purifies."),
+        ("devatāsaṃyuttaṁ samattaṁ",
+         "&ldquo;the Devatāsaṃyutta is complete&rdquo; &mdash; the only "
+         "closing colophon line in this entire collection rendered directly "
+         "into English, marking the end of all 81 discourses."),
+    ],
+    text_intro=(
+        "The discourse in full, closing with this collection's only translated "
+        "colophon: the Devatāsaṃyutta's own completion, marked directly in the "
+        "text. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A question about true nobility"),
+        ("p", "&sect;1", "sn1.81:1.1-1.4"),
+        ("p", "&sect;2", "sn1.81:2.1-2.4"),
+        ("h3", "Ascetics, named as the answer to every question"),
+        ("p", "&sect;3", "sn1.81:3.1-3.4"),
+        ("p", "&sect;4", "sn1.81:4.1-4.4"),
+        ("h3", "The Devatāsaṃyutta is complete"),
+        ("p", "&sect;5", "sn1.81:5.5"),
+    ],
+    quiz=[
+        {"q": "How many distinct questions does this discourse's riddle ask?",
+         "opts": [
+             "Six",
+             "One",
+             "Twelve",
+             "Three"],
+         "correct": 0,
+         "expl": "Freedom from strife, a life not wasted, understanding desire, self-mastery, filial reverence, and standing above caste."},
+        {"q": "What single word answers all six questions?",
+         "opts": [
+             "Ascetics (samaṇā)",
+             "Deities",
+             "Kings",
+             "A different answer is given for each question"],
+         "correct": 0,
+         "expl": "This collection's most economical answer relative to its question's scope."},
+        {"q": "What does the discourse say happens to family hierarchy once someone becomes an ascetic?",
+         "opts": [
+             "It reverses: mother, father, and brothers bow to them",
+             "It remains completely unchanged",
+             "The ascetic is disowned entirely by their family",
+             "No claim is made about family relationships"],
+         "correct": 0,
+         "expl": "A genuine inversion of ordinary filial deference."},
+        {"q": "What does the discourse's closing claim say about someone low-born who becomes an ascetic?",
+         "opts": [
+             "They are bowed to even by aristocrats",
+             "They remain permanently below aristocrats in status",
+             "They are forbidden from becoming ascetics at all",
+             "No claim is made about their social standing"],
+         "correct": 0,
+         "expl": "Echoing SN 1.48's earlier claim that purification comes not by clan or wealth."},
+        {"q": "What makes this discourse's closing colophon unique in this entire collection?",
+         "opts": [
+             "It is the only vagga-closing colophon rendered directly into English rather than left untranslated",
+             "It is written in an entirely different language",
+             "It is the longest colophon in this collection",
+             "This discourse has no colophon at all"],
+         "correct": 0,
+         "expl": "'The Linked Discourses on Deities are complete' -- the source text's own bookkeeping breaking through into translation."},
+        {"q": "What does this final colophon actually announce?",
+         "opts": [
+             "The completion of the entire Devatāsaṃyutta, all 81 discourses",
+             "Only the completion of this single vagga",
+             "The beginning of a new collection entirely",
+             "Nothing significant; it is purely decorative"],
+         "correct": 0,
+         "expl": "The close not merely of the Chetvāvagga but of SN 1 as a whole."},
+        {"q": "How does this discourse's theme connect back to SN 1.1, this collection's opening discourse?",
+         "opts": [
+             "Both describe a kind of crossing accomplished by unusual means, not ordinary ones",
+             "The two discourses share no thematic connection at all",
+             "SN 1.81 directly contradicts SN 1.1's teaching",
+             "SN 1.1 is about ascetics and SN 1.81 is about crossing a flood"],
+         "correct": 0,
+         "expl": "SN 1.1's flood crossed 'neither standing nor swimming,' and SN 1.81's hierarchy overturned by attainment rather than ordinary means."},
+        {"q": "What does 'araṇa' mean?",
+         "opts": [
+             "'Free of strife'",
+             "'Full of conflict'",
+             "'Wealthy'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "This discourse's title, and the first quality its riddle asks about."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "No setting is given directly, consistent with most discourses in this vagga."},
+        {"q": "What position does this discourse occupy in the overall structure of SN 1?",
+         "opts": [
+             "It is the 81st and final discourse of the entire Devatāsaṃyutta",
+             "It is the first discourse of the entire collection",
+             "It is the midpoint of the collection",
+             "It belongs to a different saṃyutta entirely"],
+         "correct": 0,
+         "expl": "The true close of this collection's first and largest saṃyutta so far translated in this project."},
+    ],
+    marginalia=[
+        ("Six questions, asked", [
+            "free of strife, self-mastered,",
+            "bowed to despite low birth",
+        ]),
+        ("One word, answering all", [
+            "samaṇā &mdash;",
+            "ascetics, named six times",
+        ]),
+        ("Hierarchy, overturned", [
+            "parents bow to their child,",
+            "aristocrats to the low-born",
+        ]),
+        ("The Devatāsaṃyutta, complete", [
+            "the only translated colophon &mdash;",
+            "81 discourses finished",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.81/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.80.html">SN 1.80 &middot; Lamp</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.48.html">SN 1.48 &middot; Jeta&rsquo;s Grove</a> &mdash; '
+        "the earlier discourse this one's closing claim echoes, on purification "
+        "not by clan or wealth.",
+        '<a href="sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> &mdash; '
+        "this entire collection's opening discourse, eighty discourses back.",
+    ],
+)
