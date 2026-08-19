@@ -462,3 +462,220 @@ page(
         "scheme in action.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 16 -- Indriyasaccaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    16, "Indriyasaccaniddesa", "The Faculties and Truths",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 16 — The Faculties and Truths | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 16 of the Visuddhimagga (The Path of "
+        "Purification) — the twenty-two governing faculties and the four noble "
+        "truths, the doctrinal center the rest of Part III unpacks into direct "
+        "experiential realization. No translated text reproduced; links to the "
+        "full free translation and the Pali original. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter adds a differently oriented "
+                    "scheme before turning to the doctrinal center of the whole "
+                    "training"),
+        ("Speaker", "Buddhaghosa, continuing Part III's analytical survey"),
+        ("Form", "Two schemes: twenty-two governing faculties, then the four noble "
+                 "truths, each of the latter analyzed with Chapter 1's fourfold "
+                 "grid"),
+        ("Length", "substantial, given twenty-two individual faculties plus "
+                   "systematic treatment of each of the four truths"),
+        ("Northern parallel", "The four truths appear as a shared framework across "
+                              "virtually all Buddhist traditions; comparably broad "
+                              "faculty schemes appear in other abhidharma systems; "
+                              "this guide does not assert a specific matching "
+                              "passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the faculties "
+                       "list is long but enumerable; the four truths section "
+                       "rewards careful, slower reading"),
+    ],
+    why=(
+        "Chapters 14 and 15 analyzed experience through aggregates, bases, and "
+        "elements &mdash; schemes that dissolve a sense of self by breaking apart "
+        "what looks unified. Chapter 16 adds a differently oriented scheme, the "
+        "twenty-two faculties, describing governing functions rather than static "
+        "components, before turning to the four noble truths: the doctrinal center "
+        "the whole training has been oriented toward from the start, and the "
+        "framework the rest of Part III will spend its remaining chapters "
+        "unpacking into ever greater experiential detail."),
+    guide=[
+        ("A different kind of scheme", [
+            "Where the aggregates, bases, and elements describe components of "
+            "experience, the twenty-two faculties (<em>indriya</em>, related to a "
+            "root meaning something like &lsquo;ruling&rsquo; or "
+            "&lsquo;predominance&rsquo;) describe governing or directive "
+            "functions &mdash; each one exercising a specific kind of control "
+            "within its own domain."]),
+        ("Physical and personal faculties", [
+            "The list opens with the six sense faculties already met as bases in "
+            "Chapter 15, then adds three more governing basic physical and "
+            "personal existence: femininity, masculinity, and the life "
+            "(vitality) faculty."]),
+        ("Feeling faculties", [
+            "Five further faculties cover the varieties of feeling: bodily "
+            "pleasure, bodily pain, mental joy, mental grief, and equanimity "
+            "&mdash; mapping fairly closely onto Chapter 14's aggregate of "
+            "feeling, but organized here by governing function rather than as a "
+            "single aggregate."]),
+        ("Spiritual faculties", [
+            "Five faculties familiar from practice generally follow: faith, "
+            "energy, mindfulness, concentration, and wisdom, each governing its "
+            "own domain of development along the path."]),
+        ("Three supramundane faculties", [
+            "The final three faculties in the scheme track the progressive stages "
+            "of awakening specifically: one present at the very moment of first "
+            "realizing the path, one spanning from that realization's fruit "
+            "through the higher stages, and one present only in a practitioner "
+            "who has completed the training and has nothing further to realize."]),
+        ("The four noble truths", [
+            "The chapter then turns to what it treats as the doctrinal center of "
+            "the entire training: suffering, its origin in craving, its "
+            "cessation, and the path leading to that cessation &mdash; each "
+            "analyzed with the same fourfold grid (characteristic, function, "
+            "manifestation, proximate cause) Chapter 1 first introduced for "
+            "virtue."]),
+        ("Understanding versus realization", [
+            "This chapter's treatment of the four truths is conceptual, laying "
+            "doctrinal groundwork rather than describing the experience of "
+            "realizing them directly. The chapters that follow take up that "
+            "further task, turning this conceptual understanding into a "
+            "step-by-step account of direct realization."]),
+        ("What follows", [
+            "Chapter 17 turns to dependent origination, the causal explanation "
+            "behind the first two truths &mdash; suffering and its origin "
+            "&mdash; that the remaining chapters build directly on."]),
+    ],
+    terms=[
+        ("indriya",
+         "&ldquo;faculty&rdquo; &mdash; this chapter's first scheme, twenty-two "
+         "governing functions rather than static components."),
+        ("itthindriya, purisindriya, jīvitindriya",
+         "the femininity, masculinity, and life (vitality) faculties &mdash; three "
+         "of the faculties governing basic physical and personal existence."),
+        ("saddhindriya, viriyindriya, satindriya, samādhindriya, paññindriya",
+         "the five spiritual faculties: faith, energy, mindfulness, "
+         "concentration, and wisdom."),
+        ("cattāri ariyasaccāni",
+         "the four noble truths &mdash; this chapter's second and central scheme."),
+        ("dukkha, samudaya, nirodha, magga",
+         "suffering, origin, cessation, and path &mdash; the four truths "
+         "individually named."),
+    ],
+    quiz=[
+        {"q": "What two schemes does Chapter 16 cover?",
+         "opts": [
+             "The twenty-two faculties and the four noble truths",
+             "The ten kasinas and the ten kinds of foulness",
+             "The five aggregates and the eighteen elements",
+             "The thirteen ascetic practices and the six recollections"],
+         "correct": 0,
+         "expl": "The latter treated as the doctrinal center the rest of Part III builds toward."},
+        {"q": "How do the twenty-two faculties differ in character from the aggregates, bases, and elements of Chapters 14 and 15?",
+         "opts": [
+             "They describe governing or directive functions rather than static components",
+             "They are identical in every respect to the aggregates scheme",
+             "They apply only to fully awakened practitioners",
+             "They describe purely physical objects with no mental component"],
+         "correct": 0,
+         "expl": "Each faculty exercises a specific kind of control within its own domain."},
+        {"q": "Beyond the six sense faculties, which faculties govern basic physical and personal existence?",
+         "opts": [
+             "Femininity, masculinity, and the life (vitality) faculty",
+             "Faith, energy, and mindfulness",
+             "Bodily pleasure, bodily pain, and equanimity",
+             "The three supramundane faculties"],
+         "correct": 0,
+         "expl": "Three faculties added to the six sense faculties already met in Chapter 15."},
+        {"q": "What five faculties cover the varieties of feeling?",
+         "opts": [
+             "Bodily pleasure, bodily pain, mental joy, mental grief, and equanimity",
+             "Faith, energy, mindfulness, concentration, and wisdom",
+             "Eye, ear, nose, tongue, and body",
+             "The four noble truths plus one"],
+         "correct": 0,
+         "expl": "Mapping fairly closely onto Chapter 14's aggregate of feeling, organized here by governing function."},
+        {"q": "What five faculties are central to spiritual practice generally?",
+         "opts": [
+             "Faith, energy, mindfulness, concentration, and wisdom",
+             "Femininity, masculinity, life, pleasure, and pain",
+             "The four noble truths plus dependent origination",
+             "Eye, ear, nose, tongue, and mind"],
+         "correct": 0,
+         "expl": "Each governing its own domain of development along the path."},
+        {"q": "What do the final three faculties in the twenty-two-part scheme track?",
+         "opts": [
+             "The progressive stages of awakening, from first realization through full accomplishment",
+             "The three trainings: virtue, concentration, and understanding",
+             "Three different physical locations for meditation practice",
+             "Three grades of monastic seniority"],
+         "correct": 0,
+         "expl": "One at first realization, one through the higher stages, one in a fully accomplished practitioner."},
+        {"q": "What are the four noble truths?",
+         "opts": [
+             "Suffering, its origin, its cessation, and the path leading to cessation",
+             "Virtue, concentration, understanding, and liberation",
+             "The five aggregates, minus consciousness",
+             "Faith, effort, mindfulness, and concentration"],
+         "correct": 0,
+         "expl": "Treated as the doctrinal center of the entire training."},
+        {"q": "What analytical grid does the chapter apply to each of the four truths?",
+         "opts": [
+             "The same fourfold grid (characteristic, function, manifestation, proximate cause) from Chapter 1",
+             "A grid unique to this chapter, never used elsewhere in the work",
+             "No systematic grid at all; each truth is described only in a single sentence",
+             "The elevenfold classification from Chapter 14"],
+         "correct": 0,
+         "expl": "The same method first applied to virtue, now applied to the four truths."},
+        {"q": "How does this chapter's treatment of the four truths differ from what the following chapters do?",
+         "opts": [
+             "This chapter is conceptual groundwork; later chapters turn that understanding into direct realization",
+             "This chapter is purely narrative, with no doctrinal content at all",
+             "The following chapters simply repeat this chapter's content without change",
+             "There is no difference; the four truths are never mentioned again"],
+         "correct": 0,
+         "expl": "A step-by-step account of direct realization is still to come."},
+        {"q": "Where can a reader go for Chapter 16's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Governing functions", [
+            "22 faculties &mdash;",
+            "not static components",
+        ]),
+        ("Physical, feeling, spiritual", [
+            "three groups of faculties,",
+            "then three supramundane",
+        ]),
+        ("The doctrinal center", [
+            "suffering, origin,",
+            "cessation, path",
+        ]),
+        ("Understanding, then realization", [
+            "conceptual groundwork here &mdash;",
+            "direct realization still ahead",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-56.11.html">SN 56.11 &mdash; '
+        "Rolling Forth the Wheel of Dhamma</a> &mdash; the Buddha's first sermon, "
+        "the canonical source for the four noble truths this chapter analyzes.",
+        '<a href="../discourses/samyutta-nikaya/sn-56.31.html">SN 56.31 &mdash; In '
+        "a Rosewood Forest</a> &mdash; a further discourse from the same "
+        "collection on the four noble truths.",
+    ],
+)
