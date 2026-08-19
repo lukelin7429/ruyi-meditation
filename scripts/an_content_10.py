@@ -13032,3 +13032,1801 @@ page(
         "chapter.",
     ],
 )
+
+
+VAGGA_8 = "<em>Ākaṅkhavagga</em> &mdash; the eighth chapter of the Tens"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.71 — Ākaṅkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    71, "Ākaṅkha", "One Might Wish",
+    vagga=VAGGA_8,
+    meta_title="AN 10.71 — One Might Wish | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ākaṅkhasutta, opening the Tens' eighth chapter with nine "
+        "mendicant wishes, each answered by the same five-part "
+        "practice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Nine parallel wishes, each answered with an "
+                 "identical five-part formula"),
+        ("Length", "~2 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the chapter, <em>Ākaṅkhavagga</em>, "
+                               "the Chapter on Wishing"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a long but highly repetitive structure"),
+    ],
+    why=(
+        "For nine different things a mendicant might wish for "
+        "&mdash; from being liked by their companions to realizing "
+        "full freedom &mdash; the Buddha gives exactly the same "
+        "answer each time: fulfill your ethics, and practice serenity, "
+        "absorption, discernment, and solitude."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Whatever a mendicant might wish for &mdash; approval, "
+            "material support, benefit for donors and departed "
+            "relatives, contentment, endurance, mastery over desire "
+            "and fear, the four absorptions, or full freedom &mdash; "
+            "the way there is always the same: fulfill the precepts, "
+            "commit to inner serenity, don't neglect absorption, "
+            "develop discernment, and frequent empty huts."]),
+        ("Nine wishes, one identical prescription", [
+            "The wishes escalate from the mundane (being liked, "
+            "receiving robes and food) through the relational (donors' "
+            "generosity being fruitful, deceased relatives' memory "
+            "being blessed) to the properly spiritual (enduring "
+            "hardship, mastering fear, attaining absorption, "
+            "realizing freedom) &mdash; yet every single one receives "
+            "the identical five-part answer, unchanged from the "
+            "simplest wish to the loftiest."]),
+        ("A structural argument, not just a list", [
+            "By repeating the same five practices word for word after "
+            "nine wildly different aspirations, the discourse makes "
+            "an implicit argument: there is really only one path, "
+            "and every worthwhile outcome, however different it "
+            "appears on the surface, runs through the same five "
+            "practices."]),
+        ("Framing every wish inside ethical living", [
+            "The discourse opens and closes with the same instruction "
+            "&mdash; &ldquo;live by the ethical precepts and the "
+            "monastic code&rdquo; &mdash; bracketing all nine wishes "
+            "inside a foundation of ethical conduct that is presumed "
+            "throughout, not merely one item among the five."]),
+    ],
+    terms=[
+        ("ākaṅkheyya",
+         "&ldquo;might wish&rdquo; &mdash; the recurring conditional "
+         "opening each of the nine sections, and this discourse's own "
+         "title."),
+        ("sīlesu paripūrakārī",
+         "&ldquo;let them fulfill their precepts&rdquo; &mdash; the "
+         "first element of the five-part formula repeated after every "
+         "wish."),
+        ("ajjhattaṁ cetosamathamanuyutto",
+         "&ldquo;committed to inner serenity of the heart&rdquo; "
+         "&mdash; the second element of the recurring formula."),
+        ("anirākatajjhāno",
+         "&ldquo;not neglecting absorption&rdquo; &mdash; the third "
+         "element of the formula."),
+        ("suññāgārānaṁ brūhetā",
+         "&ldquo;one who frequents empty huts&rdquo; &mdash; the "
+         "fifth and final element of the formula, closing every one "
+         "of the nine sections."),
+    ],
+    text_intro=(
+        "The discourse in full: the opening instruction, all nine "
+        "wishes with their identical formula, and the closing "
+        "restatement. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Living by the precepts"),
+        ("p", "&sect;1", "an10.71:1.1-2.1"),
+        ("h3", "Nine wishes, one answer"),
+        ("p", "&sect;2", "an10.71:3.1-12.1"),
+        ("h3", "Closing restatement"),
+        ("p", "&sect;3", "an10.71:13.1-13.2"),
+    ],
+    quiz=[
+        {"q": "How many distinct wishes does this discourse address?",
+         "opts": ["Three", "Five", "Nine", "Twelve"],
+         "correct": 2,
+         "expl": "From being liked by companions to realizing full "
+                 "freedom."},
+        {"q": "How does the Buddha's answer change from one wish to "
+              "the next?",
+         "opts": [
+             "It doesn't change at all: the identical five-part "
+             "formula is repeated after every single wish",
+             "Each wish gets a completely different practice",
+             "The answers grow progressively longer",
+             "Later wishes receive no answer at all"],
+         "correct": 0,
+         "expl": "The same five practices, word for word, regardless "
+                 "of how the wish itself varies."},
+        {"q": "What are the five elements of the recurring formula?",
+         "opts": [
+             "Chanting, fasting, silence, robes, and almsround",
+             "Fulfilling the precepts, inner serenity, not neglecting "
+             "absorption, discernment, and frequenting empty huts",
+             "Five different meditation postures",
+             "Five monastic ranks"],
+         "correct": 1,
+         "expl": "The identical prescription answering every one of "
+                 "the nine wishes."},
+        {"q": "According to the guide, what implicit argument does "
+              "this repetition make?",
+         "opts": [
+             "That different goals require entirely different paths",
+             "That there is really only one path, and every "
+             "worthwhile outcome runs through the same five "
+             "practices",
+             "That wishing itself is unskillful",
+             "That only the final wish matters"],
+         "correct": 1,
+         "expl": "A structural argument made through repetition, not "
+                 "stated outright."},
+        {"q": "What does this discourse contribute to its chapter?",
+         "opts": [
+             "Nothing in particular",
+             "Its own subject, giving the chapter its name, "
+             "Ākaṅkhavagga, the Chapter on Wishing",
+             "A place name",
+             "A closing colophon"],
+         "correct": 1,
+         "expl": "As with every chapter-opener in this nipāta, the "
+                 "discourse names its own chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 0,
+         "expl": "A specific, named setting opening the new chapter."},
+    ],
+    marginalia=[
+        ("Nine wishes, one path", [
+            "liked, or free, or fed &mdash;",
+            "every wish, however small",
+            "or vast, meets one answer",
+        ]),
+        ("The formula, unbroken", [
+            "precepts, serenity,",
+            "absorption, discernment,",
+            "solitude &mdash; always",
+        ]),
+        ("An argument by repetition", [
+            "nine times the same words &mdash;",
+            "not laziness, but the claim",
+            "that one path suffices",
+        ]),
+        ("Cross-references", [
+            "AN 10.70 &middot; previous, closing ch.7, Yamakavagga",
+            "AN 10.72 &middot; next, what obstructs each stage of "
+            "that same path",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.71/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.70.html">AN 10.70</a> &mdash; previous, closing chapter 7, '
+        "Yamakavagga.",
+        '<a href="an-10.72.html">AN 10.72 &middot; Thorns</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.72 — Kaṇṭakasutta
+# --------------------------------------------------------------------------- #
+page(
+    72, "Kaṇṭaka", "Thorns",
+    vagga=VAGGA_8,
+    meta_title="AN 10.72 — Thorns | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kaṇṭakasutta, in which senior disciples relocate away "
+        "from noisy Licchavis and the Buddha praises them, then names "
+        "ten precise obstacles matched to ten specific stages of "
+        "practice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Vesālī, at the Great Wood, in the hall with "
+                     "the peaked roof"),
+        ("Speakers", "The Buddha, praising a group of senior "
+                     "disciples' own decision"),
+        ("Form", "A narrative of noise and relocation, then a "
+                 "ten-item list matching obstacle to practice"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid scene followed by a precise technical "
+                       "list"),
+    ],
+    why=(
+        "When a group of well-known senior disciples relocate away "
+        "from a noisy crowd of visiting Licchavi nobles without being "
+        "told to, the Buddha not only approves &mdash; he uses the "
+        "moment to name ten precise obstacles, each matched to "
+        "exactly one stage of practice it threatens."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten things are thorns, each to a specific stage of "
+            "practice: company to seclusion, beauty-focus to ugliness "
+            "meditation, shows to sense-restraint, women's company to "
+            "chastity, sound to the first absorption, thought to the "
+            "second, rapture to the third, breathing to the fourth, "
+            "perception and feeling to the cessation attainment, and "
+            "greed, hate, and delusion as thorns to everything."]),
+        ("Disciples acting rightly, unprompted", [
+            "The narrative frame is unusual in giving credit "
+            "entirely to the disciples' own initiative: without being "
+            "asked, several senior monks reason correctly from a "
+            "teaching they already knew (&ldquo;sound is a thorn to "
+            "absorption&rdquo;) and relocate on their own, and the "
+            "Buddha's first words on hearing of it are pure "
+            "praise &mdash; &ldquo;Good, good, mendicants!&rdquo;"]),
+        ("A ladder of increasingly subtle obstacles", [
+            "The ten thorns are not a flat list but a graduated "
+            "ladder: the first four concern relatively coarse "
+            "external distractions (company, visual beauty, "
+            "entertainment, women), while the next five track "
+            "obstacles at each successive depth of meditative "
+            "absorption, ending with the subtlest possible "
+            "hindrance &mdash; perception and feeling themselves "
+            "&mdash; blocking the cessation of perception and "
+            "feeling."]),
+        ("Greed, hate, and delusion as the universal thorn", [
+            "After nine highly specific, stage-matched thorns, the "
+            "list closes by naming three thorns with no specific "
+            "match at all: greed, hate, and delusion, thorns to "
+            "everything without qualification, underlying every one "
+            "of the nine more particular obstacles already named."]),
+    ],
+    terms=[
+        ("kaṇṭaka",
+         "&ldquo;thorn&rdquo; &mdash; this discourse's own title, the "
+         "recurring image for whatever obstructs a given stage of "
+         "practice."),
+        ("saddo paṭhamassa jhānassa kaṇṭako",
+         "&ldquo;sound is a thorn to the first absorption&rdquo; "
+         "&mdash; the specific teaching the senior disciples reason "
+         "from to justify their own relocation."),
+        ("vitakkavicārā dutiyassa jhānassa kaṇṭakā",
+         "&ldquo;placing the mind and keeping it connected are a "
+         "thorn to the second absorption&rdquo; &mdash; the obstacle "
+         "matched to the second stage of absorption."),
+        ("saññā ca vedanā ca kaṇṭako",
+         "&ldquo;perception and feeling are a thorn&rdquo; &mdash; "
+         "the subtlest thorn named, blocking the cessation of "
+         "perception and feeling itself."),
+        ("rāgo kaṇṭako, doso kaṇṭako, moho kaṇṭako",
+         "&ldquo;greed is a thorn, hate is a thorn, delusion is a "
+         "thorn&rdquo; &mdash; the three universal thorns closing the "
+         "list, unmatched to any single stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the senior disciples' relocation, "
+        "the Buddha's praise, and the ten thorns. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Senior disciples relocate, unprompted"),
+        ("p", "&sect;1", "an10.72:1.1-4.4"),
+        ("h3", "The Buddha's praise, and ten thorns"),
+        ("p", "&sect;2", "an10.72:5.1-6.3"),
+        ("h3", "Living free of thorns"),
+        ("p", "&sect;3", "an10.72:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "Why do the senior disciples relocate to the Gosiṅga "
+              "Sal Wood?",
+         "opts": [
+             "The Buddha orders them to",
+             "On their own initiative, reasoning that noisy visiting "
+             "Licchavis would be a thorn to their absorption",
+             "They are fleeing danger",
+             "They want better almsfood"],
+         "correct": 1,
+         "expl": "Unprompted correct reasoning from a teaching they "
+                 "already knew."},
+        {"q": "How does the Buddha respond when he learns what "
+              "happened?",
+         "opts": [
+             "He criticizes them for leaving without permission",
+             "He praises them: \"Good, good, mendicants!\"",
+             "He is indifferent",
+             "He orders them to return immediately"],
+         "correct": 1,
+         "expl": "Full endorsement of the disciples' own correct "
+                 "judgment."},
+        {"q": "According to the guide, how are the ten thorns "
+              "structured?",
+         "opts": [
+             "As a flat, unordered list",
+             "As a graduated ladder: coarse external distractions "
+             "first, then obstacles matched to each successive depth "
+             "of absorption",
+             "Alphabetically",
+             "By severity of punishment"],
+         "correct": 1,
+         "expl": "From company and shows through each jhāna to the "
+                 "cessation of perception and feeling."},
+        {"q": "What three thorns close the list with no specific "
+              "match to any single stage?",
+         "opts": [
+             "Cold, heat, and hunger",
+             "Greed, hate, and delusion",
+             "Fear, doubt, and pride",
+             "Sound, sight, and smell"],
+         "correct": 1,
+         "expl": "Universal thorns underlying all nine of the more "
+                 "specific obstacles."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Vesālī, at the Great Wood, in the hall with the peaked "
+             "roof",
+             "Rājagaha, on Vulture's Peak",
+             "No setting is stated in the source"],
+         "correct": 1,
+         "expl": "A specific setting shared with several other "
+                 "Vesālī-based discourses in this canon."},
+    ],
+    marginalia=[
+        ("A racket in the forest", [
+            "carriages, nobles, noise &mdash;",
+            "the monks move on, unasked,",
+            "toward quiet instead",
+        ]),
+        ("Praised for their own sense", [
+            "&ldquo;good, good!&rdquo; the Buddha",
+            "says &mdash; no correction needed,",
+            "just confirmation",
+        ]),
+        ("A ladder of thorns", [
+            "company, then shows,",
+            "then each jhāna's own snag &mdash;",
+            "subtler, stage by stage",
+        ]),
+        ("Cross-references", [
+            "AN 10.71 &middot; previous, One Might Wish",
+            "AN 10.73 &middot; next, Likable",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.72/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.71.html">AN 10.71 &middot; One Might Wish</a> &mdash; previous.',
+        '<a href="an-10.73.html">AN 10.73 &middot; Likable</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.73 — Iṭṭhadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    73, "Iṭṭhadhamma", "Likable",
+    vagga=VAGGA_8,
+    meta_title="AN 10.73 — Likable | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Iṭṭhadhammasutta, naming ten rare, desirable things in "
+        "life, each with its own specific roadblock and its own "
+        "specific nourishment. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A ten-item list, given three times: named, "
+                 "blocked, and nourished"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a tightly matched three-part structure"),
+    ],
+    why=(
+        "Ten things that everyone wants but few obtain &mdash; "
+        "wealth, beauty, health, ethics, the spiritual life, friends, "
+        "learning, wisdom, good qualities, and heaven &mdash; each "
+        "get their own precise diagnosis: exactly what blocks them, "
+        "and exactly what feeds them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten rare and desirable things &mdash; wealth, beauty, "
+            "health, ethics, the spiritual life, friends, learning, "
+            "wisdom, good qualities, and heaven &mdash; each have "
+            "their own specific roadblock (from laziness to wrong "
+            "practice) and their own specific nourishment (from "
+            "initiative to right practice)."]),
+        ("A worldly and spiritual list, side by side", [
+            "Unusually for this nipāta, the ten items mix frankly "
+            "worldly goods (wealth, beauty, health, friends) with "
+            "spiritual ones (ethics, the spiritual life, wisdom, good "
+            "qualities, heaven) on completely equal footing, treating "
+            "both kinds of aspiration with the same careful, "
+            "practical diagnosis rather than ranking one above the "
+            "other."]),
+        ("Precisely matched pairs, not a generic prescription", [
+            "Rather than offering one all-purpose remedy, the "
+            "discourse pairs each of the ten items with its own "
+            "distinct roadblock and its own distinct nourishment: "
+            "sloth blocks wealth specifically, while dishonesty "
+            "blocks friendship specifically, and adornment nourishes "
+            "beauty in a way that would do nothing for wisdom, which "
+            "is nourished instead by eagerness to listen and ask "
+            "questions."]),
+        ("Ordinary causes for extraordinary rarity", [
+            "The discourse's opening claim &mdash; that these ten "
+            "things are <em>rare</em> in the world &mdash; is "
+            "answered not with anything mysterious but with entirely "
+            "mundane causes: rarity comes down to sloth, dishonesty, "
+            "not listening, and similarly ordinary failures, each "
+            "reversible by its own equally ordinary remedy."]),
+    ],
+    terms=[
+        ("iṭṭhā kantā manāpā dullabhā lokasmiṁ",
+         "&ldquo;likable, desirable, and agreeable things&hellip; "
+         "rare in the world&rdquo; &mdash; the discourse's own "
+         "framing of all ten items, and the source of its title."),
+        ("bhogā, vaṇṇo, ārogya",
+         "&ldquo;wealth, beauty, health&rdquo; &mdash; the first "
+         "three, frankly worldly items on the list."),
+        ("kosajjaṁ anuṭṭhānaṁ bhogānaṁ antarāyo",
+         "&ldquo;sloth and lack of initiative are a roadblock for "
+         "wealth&rdquo; &mdash; the first of ten precisely matched "
+         "roadblocks."),
+        ("uṭṭhānaviriyādhigatā bhogā",
+         "&ldquo;application and initiative nourish wealth&rdquo; "
+         "&mdash; the corresponding nourishment, mirroring the first "
+         "roadblock."),
+        ("sotukāmatā pucchakamyatā paññāya āhāro",
+         "&ldquo;eagerness to listen and ask questions nourishes "
+         "wisdom&rdquo; &mdash; the nourishment matched specifically "
+         "to wisdom, distinct from what nourishes any other item on "
+         "the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten rare and desirable things, "
+        "their roadblocks, and their nourishments. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten rare and desirable things"),
+        ("p", "&sect;1", "an10.73:1.1-1.12"),
+        ("h3", "Ten roadblocks"),
+        ("p", "&sect;2", "an10.73:2.1-2.3"),
+        ("h3", "Ten nourishments"),
+        ("p", "&sect;3", "an10.73:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What ten things does this discourse name as rare and "
+              "desirable?",
+         "opts": [
+             "Ten meditation techniques",
+             "Wealth, beauty, health, ethics, the spiritual life, "
+             "friends, learning, wisdom, good qualities, and heaven",
+             "Ten monastic ranks",
+             "Ten kinds of food"],
+         "correct": 1,
+         "expl": "A mix of worldly and spiritual goods, treated on "
+                 "equal footing."},
+        {"q": "How does the discourse structure its treatment of "
+              "these ten things, according to the guide?",
+         "opts": [
+             "With one generic remedy for all ten",
+             "Each item gets its own precisely matched roadblock and "
+             "its own precisely matched nourishment",
+             "Only the first five items get any explanation",
+             "The items are simply listed with no further comment"],
+         "correct": 1,
+         "expl": "Ten distinct diagnoses, not a single all-purpose "
+                 "prescription."},
+        {"q": "What is named as the roadblock specifically for "
+              "wealth?",
+         "opts": [
+             "Bad friendship",
+             "Sloth and lack of initiative",
+             "Dishonesty",
+             "Not rehearsing"],
+         "correct": 1,
+         "expl": "Each roadblock is matched to exactly one of the ten "
+                 "items."},
+        {"q": "According to the guide, what kind of cause does the "
+              "discourse give for these ten things being rare?",
+         "opts": [
+             "Mysterious, unexplainable fate",
+             "Entirely mundane, ordinary failures like sloth and "
+             "dishonesty, each with an equally ordinary remedy",
+             "Karma from previous lives only",
+             "No cause is given"],
+         "correct": 1,
+         "expl": "Rarity traced to ordinary, reversible human "
+                 "failings."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Ten things everyone wants", [
+            "wealth, beauty, health,",
+            "friends, wisdom, heaven itself &mdash;",
+            "yet rarely obtained",
+        ]),
+        ("A precise diagnosis, each", [
+            "sloth blocks wealth; dishonesty",
+            "blocks friends alone &mdash;",
+            "no single remedy",
+        ]),
+        ("Ordinary causes", [
+            "not fate, not magic &mdash;",
+            "just sloth, dishonesty, and",
+            "not listening well",
+        ]),
+        ("Cross-references", [
+            "AN 10.72 &middot; previous, Thorns",
+            "AN 10.74 &middot; next, Growth",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.73/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.72.html">AN 10.72 &middot; Thorns</a> &mdash; previous.',
+        '<a href="an-10.74.html">AN 10.74 &middot; Growth</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.74 — Vaḍḍhisutta
+# --------------------------------------------------------------------------- #
+page(
+    74, "Vaḍḍhi", "Growth",
+    vagga=VAGGA_8,
+    meta_title="AN 10.74 — Growth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vaḍḍhisutta, pairing five kinds of worldly growth with "
+        "five kinds of spiritual growth as the noble disciple's own "
+        "twofold flourishing, closed with a verse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A ten-item list of two matched fives, closed with "
+                 "a two-stanza verse"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and clearly patterned"),
+    ],
+    why=(
+        "A noble disciple's growth is described here in two "
+        "completely different registers at once: five entirely "
+        "worldly measures of prosperity, and five entirely spiritual "
+        "qualities, named together as a single, integrated kind of "
+        "flourishing."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple grows nobly in ten ways: fields and "
+            "land, money and grain, spouse and children, servants and "
+            "staff, and livestock on the worldly side; faith, ethics, "
+            "learning, generosity, and wisdom on the spiritual side "
+            "&mdash; both halves named as a single, unified kind of "
+            "growth."]),
+        ("Worldly prosperity, unapologetically named", [
+            "Unlike many discourses in this project that treat "
+            "worldly wealth with suspicion or caution, this one lists "
+            "land, money, family, staff, and livestock directly "
+            "alongside faith and wisdom, without any hint that the "
+            "worldly half is lesser or merely tolerated &mdash; both "
+            "fives are called, together, growing &ldquo;nobly.&rdquo;"]),
+        ("A closing verse naming both kinds of growth explicitly", [
+            "The closing two-stanza verse makes the pairing explicit "
+            "rather than leaving it implicit in the list: the first "
+            "stanza describes someone who grows in wealth, family, "
+            "and livestock as becoming rich, famous, and respected; "
+            "the second describes someone who grows in faith, ethics, "
+            "wisdom, generosity, and learning as a good man who "
+            "&ldquo;sees clearly&rdquo; &mdash; and then names the "
+            "disciple who has both as growing &ldquo;in both "
+            "ways.&rdquo;"]),
+        ("A rare unqualified endorsement of lay flourishing", [
+            "Because the discourse never restricts its audience or "
+            "qualifies the worldly half of its list, it reads as an "
+            "endorsement of a lay disciple's ordinary flourishing "
+            "just as much as a monastic's, growth in fields and "
+            "livestock treated as no less real a form of noble growth "
+            "than growth in wisdom."]),
+    ],
+    terms=[
+        ("vaḍḍhi",
+         "&ldquo;growth&rdquo; &mdash; this discourse's own title, "
+         "applied equally to worldly and spiritual flourishing."),
+        ("khettavatthu, dhanadhañña",
+         "&ldquo;fields and lands, money and grain&rdquo; &mdash; the "
+         "first two of the five worldly measures of growth."),
+        ("saddhāya vaḍḍhati, sīlena vaḍḍhati",
+         "&ldquo;grows in faith, grows in ethics&rdquo; &mdash; the "
+         "first two of the five spiritual measures of growth."),
+        ("ubhayena vaḍḍhati",
+         "&ldquo;grows in both ways&rdquo; &mdash; the closing "
+         "verse's own phrase for the disciple who has both the "
+         "worldly and the spiritual five."),
+        ("sappuriso vicakkhaṇo",
+         "&ldquo;a good man&hellip; sees clearly&rdquo; &mdash; the "
+         "closing verse's own description of the disciple who grows "
+         "in the five spiritual qualities."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-item list, and the closing "
+        "two-stanza verse. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten kinds of noble growth"),
+        ("p", "&sect;1", "an10.74:1.1-1.4"),
+        ("h3", "Closing verse"),
+        ("p", "&sect;2", "an10.74:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What two kinds of growth does this discourse name "
+              "together?",
+         "opts": [
+             "Two different kinds of meditation",
+             "Five worldly measures (land, wealth, family, staff, "
+             "livestock) and five spiritual ones (faith, ethics, "
+             "learning, generosity, wisdom)",
+             "Physical growth and mental growth",
+             "Only spiritual growth, with no worldly component"],
+         "correct": 1,
+         "expl": "A single, integrated notion of noble flourishing "
+                 "spanning both registers."},
+        {"q": "According to the guide, how does this discourse treat "
+              "worldly prosperity, compared to many others in this "
+              "project?",
+         "opts": [
+             "With suspicion, as something to be renounced",
+             "Directly and without qualification, listed alongside "
+             "faith and wisdom as equally &ldquo;noble&rdquo; growth",
+             "As irrelevant to spiritual life",
+             "As something only for laypeople, never mentioned "
+             "elsewhere"],
+         "correct": 1,
+         "expl": "An unusually unqualified endorsement of ordinary "
+                 "prosperity."},
+        {"q": "What does the closing verse's second stanza describe?",
+         "opts": [
+             "Someone who has only worldly wealth",
+             "A good man who grows in faith, ethics, wisdom, "
+             "generosity, and learning, and so \"sees clearly\"",
+             "A king's coronation",
+             "A funeral rite"],
+         "correct": 1,
+         "expl": "The spiritual half of the pairing, given its own "
+                 "verse."},
+        {"q": "What phrase does the verse use for someone who has "
+              "both kinds of growth?",
+         "opts": [
+             "\"Doubly blessed\"",
+             "\"Grows in both ways\" (ubhayena vaḍḍhati)",
+             "\"Twice reborn\"",
+             "No such person is described"],
+         "correct": 1,
+         "expl": "An explicit closing phrase naming the combined "
+                 "ideal."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Two fives, one growth", [
+            "land, wealth, family &mdash;",
+            "faith, ethics, wisdom too &mdash;",
+            "named as a single thing",
+        ]),
+        ("Wealth, unapologized for", [
+            "no caution here, no",
+            "warning about riches &mdash;",
+            "just growth, called noble",
+        ]),
+        ("Growing in both ways", [
+            "the verse's own phrase",
+            "for the rare disciple who",
+            "has neither half alone",
+        ]),
+        ("Cross-references", [
+            "AN 10.73 &middot; previous, Likable",
+            "AN 10.75 &middot; next, With Migasālā",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.74/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.73.html">AN 10.73 &middot; Likable</a> &mdash; previous.',
+        '<a href="an-10.75.html">AN 10.75 &middot; With Migasālā</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.75 — Migasālāsutta
+# --------------------------------------------------------------------------- #
+page(
+    75, "Migasālā", "With Migasālā",
+    vagga=VAGGA_8,
+    meta_title="AN 10.75 — With Migasālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Migasālāsutta, in which a laywoman's puzzle over two "
+        "relatives' identical rebirth prompts the Buddha's famous "
+        "warning against judging individuals. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's "
+                     "monastery, and the home of the laywoman "
+                     "Migasālā"),
+        ("Speakers", "The laywoman Migasālā questioning Ānanda, then "
+                     "the Buddha answering Ānanda"),
+        ("Form", "A puzzled question, a referral, and a ten-part "
+                 "classification with a pointed moral"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuinely difficult teaching about "
+                       "judgment"),
+    ],
+    why=(
+        "A laywoman named Migasālā cannot understand how her chaste, "
+        "celibate father and her unchaste uncle both ended up reborn "
+        "in exactly the same heaven &mdash; and when even Ānanda "
+        "cannot resolve the puzzle, the Buddha's answer becomes one "
+        "of this canon's sharpest warnings against judging other "
+        "people's spiritual attainment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Ten kinds of individual exist in the world, distinguished "
+            "not simply by whether they are ethical, lustful, "
+            "irritable, or restless, but by whether they have truly "
+            "understood the freedom that ends those very qualities "
+            "&mdash; and since surface behavior alone cannot reveal "
+            "which is which, only a Realized One can judge between "
+            "them."]),
+        ("A puzzle no one but the Buddha can resolve", [
+            "Migasālā's question is not naive in the way the Buddha's "
+            "later remark suggests: her father Purāṇa was chaste and "
+            "her uncle Isidatta was not, yet both died as "
+            "once-returners reborn in the same heavenly host &mdash; "
+            "a genuine puzzle that even Ānanda, unable to answer, "
+            "must carry directly to the Buddha rather than resolve "
+            "himself."]),
+        ("Same surface trait, opposite destinations", [
+            "The ten-part classification pairs five surface "
+            "conditions (unethical, ethical, very lustful, irritable, "
+            "restless) each with two possible inner states: lacking "
+            "true understanding of the freedom that ends that trait, "
+            "or possessing it &mdash; two people who look identical "
+            "from outside can be heading to entirely different "
+            "destinations, precisely Migasālā's original puzzle "
+            "answered in full generality."]),
+        ("A sharp, twice-repeated warning against judgment", [
+            "The Buddha's conclusion is stated almost verbatim twice "
+            "within the discourse: don't be judgmental about "
+            "individuals, don't pass judgment on individuals, those "
+            "who do so harm themselves &mdash; only someone like the "
+            "Buddha himself may judge, because only he can see the "
+            "invisible inner difference that determines the "
+            "outcome."]),
+    ],
+    terms=[
+        ("Purāṇa, Isidatta",
+         "Migasālā's chaste father and unchaste uncle, both declared "
+         "once-returners reborn in the same heavenly host despite "
+         "their opposite conduct &mdash; the puzzle opening this "
+         "discourse."),
+        ("cetovimutti paññāvimutti",
+         "&ldquo;freedom of heart and freedom by wisdom&rdquo; "
+         "&mdash; the inner attainment whose presence or absence, not "
+         "surface conduct, actually determines each individual's "
+         "destination."),
+        ("mā puggalesu pamāṇikā ahuvattha",
+         "&ldquo;don't be judgmental about individuals&rdquo; "
+         "&mdash; the Buddha's central warning, repeated twice in "
+         "this discourse."),
+        ("dhammasotena vuyhati",
+         "&ldquo;the stream of the teaching carries them along&rdquo; "
+         "&mdash; the reason given for why the less obviously "
+         "virtuous individual can still be the better and finer of "
+         "the two."),
+        ("bālā abyattā ammakā",
+         "&ldquo;a foolish incompetent aunty&rdquo; &mdash; the "
+         "Buddha's own blunt, informal assessment of Migasālā's "
+         "grasp of the question, spoken to Ānanda rather than to her "
+         "directly."),
+    ],
+    text_intro=(
+        "The discourse in full: Migasālā's question to Ānanda, "
+        "Ānanda's referral, and the Buddha's ten-part answer with its "
+        "warning against judgment. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A laywoman's puzzle"),
+        ("p", "&sect;1", "an10.75:1.1-4.2"),
+        ("h3", "Ten individuals, two by two"),
+        ("p", "&sect;2", "an10.75:8.1-25.10"),
+        ("h3", "Closing: neither was complete"),
+        ("p", "&sect;3", "an10.75:26.1-27.3"),
+    ],
+    quiz=[
+        {"q": "What puzzle does Migasālā bring to Ānanda?",
+         "opts": [
+             "How to observe the sabbath correctly",
+             "How her chaste father and unchaste uncle could both be "
+             "reborn as once-returners in exactly the same heaven",
+             "How to enter a royal compound",
+             "What causes schism in the Saṅgha"],
+         "correct": 1,
+         "expl": "A genuine puzzle even Ānanda cannot resolve on his "
+                 "own."},
+        {"q": "What actually distinguishes the two individuals within "
+              "each of the discourse's five pairs?",
+         "opts": [
+             "Their wealth",
+             "Whether they have truly understood the freedom that "
+             "ends the very trait (unethical, lustful, etc.) they "
+             "share on the surface",
+             "Their social class",
+             "Their gender"],
+         "correct": 1,
+         "expl": "An invisible inner attainment, not visible conduct, "
+                 "determines the outcome."},
+        {"q": "What is the Buddha's central warning in this "
+              "discourse?",
+         "opts": [
+             "Don't associate with laypeople",
+             "Don't be judgmental about individuals &mdash; those who "
+             "pass judgment on others harm themselves",
+             "Don't practice celibacy",
+             "Don't ask questions of senior monks"],
+         "correct": 1,
+         "expl": "Repeated nearly verbatim twice within the "
+                 "discourse."},
+        {"q": "According to the guide, was Migasālā's original "
+              "question naive?",
+         "opts": [
+             "Yes, entirely; there was no real puzzle",
+             "No &mdash; it points to a genuine puzzle, one even "
+             "Ānanda could not resolve and had to bring to the Buddha",
+             "The guide takes no position on this",
+             "The question was answered instantly by Ānanda"],
+         "correct": 1,
+         "expl": "A real difficulty, not mere confusion, despite the "
+                 "Buddha's blunt remark about her."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, and the home of the "
+             "laywoman Migasālā",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "Naḷakapāna"],
+         "correct": 0,
+         "expl": "Two connected settings within the same city."},
+    ],
+    marginalia=[
+        ("Same heaven, opposite lives", [
+            "one chaste, one not &mdash;",
+            "yet both, the Buddha says, reached",
+            "the very same place",
+        ]),
+        ("Invisible to everyone else", [
+            "what actually sorts",
+            "these two apart can't be seen &mdash;",
+            "only a Buddha knows",
+        ]),
+        ("A warning, twice given", [
+            "don't judge &mdash; those who do",
+            "harm only themselves; only",
+            "one like me may judge",
+        ]),
+        ("Cross-references", [
+            "AN 10.74 &middot; previous, Growth",
+            "AN 10.76 &middot; next, Three Things",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.75/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.74.html">AN 10.74 &middot; Growth</a> &mdash; previous.',
+        '<a href="an-10.76.html">AN 10.76 &middot; Three Things</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.76 — Tayodhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    76, "Tayodhamma", "Three Things",
+    vagga=VAGGA_8,
+    meta_title="AN 10.76 — Three Things | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tayodhammasutta, a nine-level causal chain built from "
+        "triads rather than single links, echoing AN 10.61's chain in "
+        "a strikingly different architecture. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A nine-level causal chain built from triads, given "
+                 "in both a negative and positive direction"),
+        ("Length", "~4 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "long, dense, and structurally demanding"),
+    ],
+    why=(
+        "Nine levels deep, this discourse traces why a Buddha can "
+        "arise in the world at all &mdash; back through greed, hate, "
+        "and delusion, back through view and doubt, back through "
+        "faulty attention, all the way down to lack of conscience, "
+        "using triads at every single level rather than single "
+        "conditions."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without rebirth, old age, and death, no Buddha could "
+            "arise; those three cannot be given up without giving up "
+            "greed, hate, and delusion; those cannot be given up "
+            "without giving up view, doubt, and misapprehension of "
+            "precepts; and so on down nine full levels of triads, to "
+            "lack of conscience, imprudence, and negligence at the "
+            "very bottom &mdash; with the entire structure then "
+            "reversed to show how each triad, once given up, permits "
+            "giving up the one above it."]),
+        ("The Yamakavagga's own chain, built from threes", [
+            "This discourse strikingly echoes AN 10.61's nine-link "
+            "chain from the previous chapter &mdash; the same "
+            "regress-without-a-first-cause logic, the same "
+            "descending and then ascending structure &mdash; but "
+            "rebuilds it entirely from <em>triads</em> rather than "
+            "single conditions, multiplying the earlier chain's "
+            "complexity roughly threefold."]),
+        ("Why a Buddha can arise at all", [
+            "The discourse's opening framing is unusually large in "
+            "scope: it asks not what causes an individual's suffering "
+            "but what makes it possible for a Buddha to arise and "
+            "teach at all &mdash; answered, strikingly, with the "
+            "same three mundane facts that make suffering itself "
+            "possible: rebirth, old age, and death. Without them, "
+            "there would be nothing for a Buddha to address."]),
+        ("A precise inventory of what blocks liberation", [
+            "Read in full, the nine descending triads amount to a "
+            "remarkably granular inventory of obstruction, from the "
+            "coarsest (unethical conduct, bad friends) through "
+            "cognitive faults (wrong attention, a scattered mind) "
+            "down to what the discourse treats as the true "
+            "foundation: a basic lack of conscience and prudence, "
+            "which alone makes every higher-level failure possible."]),
+    ],
+    terms=[
+        ("jāti jarā maraṇaṁ",
+         "&ldquo;rebirth, old age, and death&rdquo; &mdash; the "
+         "topmost triad, whose existence alone makes a Buddha's "
+         "arising possible at all."),
+        ("rāgo, doso, moho",
+         "&ldquo;greed, hate, delusion&rdquo; &mdash; the second "
+         "triad, the classic three unwholesome roots met repeatedly "
+         "elsewhere in this project."),
+        ("sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+         "&ldquo;substantialist view, doubt, and misapprehension of "
+         "precepts and observances&rdquo; &mdash; the third triad, "
+         "the same three fetters broken at stream-entry."),
+        ("ahirikaṁ, anottappaṁ, pamādo",
+         "&ldquo;lack of conscience, imprudence, and negligence&rdquo; "
+         "&mdash; the ninth and final triad, the discourse's own "
+         "foundation beneath all the others."),
+        ("hirīmā ca kho, āvuso, ottappī ca appamatto hoti",
+         "&ldquo;someone who has conscience and prudence is "
+         "diligent&rdquo; &mdash; the pivot sentence launching the "
+         "reversed, ascending direction of the chain."),
+    ],
+    text_intro=(
+        "The discourse in full: the nine-level descending chain of "
+        "triads, then the same chain reversed and ascending. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Why a Buddha can arise"),
+        ("p", "&sect;1", "an10.76:1.1-1.5"),
+        ("h3", "Nine triads, descending"),
+        ("p", "&sect;2", "an10.76:2.1-10.4"),
+        ("h3", "The chain summarized, downward"),
+        ("p", "&sect;3", "an10.76:11.1-11.10"),
+        ("h3", "Nine triads, given up in ascending order"),
+        ("p", "&sect;4", "an10.76:12.1-20.4"),
+        ("h3", "The chain summarized, upward"),
+        ("p", "&sect;5", "an10.76:21.1-21.10"),
+    ],
+    quiz=[
+        {"q": "What does the discourse claim is necessary for a "
+              "Buddha to be able to arise in the world at all?",
+         "opts": [
+             "A specific historical era",
+             "The existence of rebirth, old age, and death",
+             "A particular geographic location",
+             "The presence of other religions to refute"],
+         "correct": 1,
+         "expl": "Without these three, there would be nothing for a "
+                 "Buddha to address."},
+        {"q": "How does this discourse relate to AN 10.61, according "
+              "to the guide?",
+         "opts": [
+             "They are unrelated",
+             "It echoes AN 10.61's regress-without-a-first-cause "
+             "structure, but rebuilds the whole chain from triads "
+             "instead of single conditions",
+             "It directly contradicts AN 10.61",
+             "It is a verbatim repeat of AN 10.61"],
+         "correct": 1,
+         "expl": "The same logic, tripled in density."},
+        {"q": "What is named as the foundation beneath all nine "
+              "descending triads?",
+         "opts": [
+             "Poverty",
+             "Lack of conscience, imprudence, and negligence",
+             "Physical illness",
+             "Lack of education"],
+         "correct": 1,
+         "expl": "The ninth and final triad, the discourse's true "
+                 "bottom level."},
+        {"q": "What happens to the chain after it is stated in full "
+              "descending order?",
+         "opts": [
+             "Nothing further; the discourse ends there",
+             "It is reversed and given ascending, showing how giving "
+             "up each triad permits giving up the one above it",
+             "It is contradicted by a second teaching",
+             "It is repeated identically without reversal"],
+         "correct": 1,
+         "expl": "A mirrored, liberating direction completing the "
+                 "structure."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Nine floors, built of threes", [
+            "not one link at a time &mdash;",
+            "greed, hate, delusion; then",
+            "view, doubt, wrong precepts",
+        ]),
+        ("Why a Buddha can appear", [
+            "birth, aging, death &mdash;",
+            "without these three, nothing left",
+            "for a Buddha to teach",
+        ]),
+        ("The floor beneath it all", [
+            "no shame, no prudence &mdash;",
+            "the discourse's own bedrock,",
+            "ninth level, holding all",
+        ]),
+        ("Cross-references", [
+            "AN 10.75 &middot; previous, With Migasālā",
+            "AN 10.61 &middot; Ignorance, the same regress-without-a-"
+            "first-cause structure, there built from single links",
+            "AN 10.77 &middot; next, A Crow",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.76/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.75.html">AN 10.75 &middot; With Migasālā</a> &mdash; previous.',
+        '<a href="an-10.61.html">AN 10.61 &middot; Ignorance</a> &mdash; the same '
+        "regress structure, there built from single links.",
+        '<a href="an-10.77.html">AN 10.77 &middot; A Crow</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.77 — Kākasutta
+# --------------------------------------------------------------------------- #
+page(
+    77, "Kāka", "A Crow",
+    vagga=VAGGA_8,
+    meta_title="AN 10.77 — A Crow | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kākasutta, the shortest discourse in this chapter, "
+        "mapping ten bad qualities of a crow directly onto a bad "
+        "mendicant. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single animal simile, its ten qualities mapped "
+                 "directly onto a human type"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and vivid"),
+    ],
+    why=(
+        "In one of the shortest discourses in this project, the "
+        "Buddha lists ten unflattering qualities of an ordinary crow "
+        "&mdash; and then simply states that a bad mendicant has "
+        "exactly the same ten, without further comment."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A crow is rude, impudent, gluttonous, voracious, cruel, "
+            "pitiless, weak, raucous, unmindful, and acquisitive "
+            "&mdash; and a bad mendicant has exactly these same ten "
+            "qualities."]),
+        ("No elaboration, no simile mechanics explained", [
+            "Unlike most animal similes in this canon, which usually "
+            "explain point by point how each feature of the animal "
+            "maps onto the human behavior it illustrates, this "
+            "discourse simply lists the crow's ten qualities, then "
+            "repeats the identical list for a bad mendicant with no "
+            "explanatory bridge at all &mdash; the comparison is left "
+            "to land on its own."]),
+        ("An unflattering catalogue, applied without softening", [
+            "The ten qualities themselves are notably unglamorous and "
+            "specific &mdash; not grand vices but small, ignoble "
+            "traits: rudeness, gluttony, cruelty, timidity, noise, "
+            "carelessness, and greed for possessions &mdash; giving "
+            "this discourse an unusually blunt, almost proverbial "
+            "tone."]),
+        ("The chapter's shortest discourse", [
+            "At just two nearly identical short lists, this is among "
+            "the briefest discourses met anywhere in this project, "
+            "its entire teaching delivered through the bare force of "
+            "the comparison itself rather than through explanation."]),
+    ],
+    terms=[
+        ("kāka",
+         "&ldquo;crow&rdquo; &mdash; this discourse's own title and "
+         "the animal whose qualities are mapped onto a bad "
+         "mendicant."),
+        ("dhaṁsī, pagabbho",
+         "&ldquo;rude, impudent&rdquo; &mdash; the first pair of the "
+         "ten qualities shared by crow and bad mendicant alike."),
+        ("mahagghaso, luddo",
+         "&ldquo;gluttonous, cruel&rdquo; &mdash; two more of the ten "
+         "shared qualities."),
+        ("muṭṭhassati, necayiko",
+         "&ldquo;unmindful, acquisitive&rdquo; &mdash; the ninth and "
+         "tenth qualities, closing the list."),
+        ("tintiṇo, dubbalo",
+         "&ldquo;voracious, weak&rdquo; &mdash; two more of the ten "
+         "shared qualities, from the middle of the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the crow's ten bad qualities, and "
+        "the bad mendicant's identical ten. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A crow's ten bad qualities, and a bad mendicant's"),
+        ("p", "&sect;1", "an10.77:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse compare a bad mendicant to?",
+         "opts": [
+             "A wounded tiger", "A crow",
+             "A stray dog", "A venomous snake"],
+         "correct": 1,
+         "expl": "This discourse's own title and central image."},
+        {"q": "How does this discourse handle the mechanics of its "
+              "comparison, according to the guide?",
+         "opts": [
+             "With a detailed, point-by-point explanation of each "
+             "parallel",
+             "With no explanatory bridge at all: the crow's list is "
+             "simply repeated for the bad mendicant",
+             "By explaining only the first quality",
+             "By using a different set of qualities for each"],
+         "correct": 1,
+         "expl": "The comparison is left to land entirely on its own "
+                 "force."},
+        {"q": "What kind of qualities does the list actually name?",
+         "opts": [
+             "Grand, dramatic vices",
+             "Small, unglamorous, almost proverbial traits like "
+             "rudeness, gluttony, and noise",
+             "Purely physical characteristics",
+             "Supernatural powers"],
+         "correct": 1,
+         "expl": "An unusually blunt catalogue of ignoble, ordinary "
+                 "faults."},
+        {"q": "How does this discourse compare in length to others in "
+              "this chapter, according to the guide?",
+         "opts": [
+             "It is the longest",
+             "It is among the shortest discourses met anywhere in "
+             "this project",
+             "It is of average length",
+             "Length is not discussed"],
+         "correct": 1,
+         "expl": "Just two nearly identical short lists, with no "
+                 "further elaboration."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief discourse."},
+    ],
+    marginalia=[
+        ("Ten crow-like faults", [
+            "rude, gluttonous, cruel,",
+            "weak, noisy, careless, greedy &mdash;",
+            "a bad mendicant, too",
+        ]),
+        ("No bridge explained", [
+            "the list repeats twice,",
+            "crow then monk &mdash; no commentary",
+            "needed in between",
+        ]),
+        ("Small faults, bluntly named", [
+            "not grand vice, but the",
+            "ordinary and ignoble &mdash;",
+            "proverb, not sermon",
+        ]),
+        ("Cross-references", [
+            "AN 10.76 &middot; previous, Three Things",
+            "AN 10.78 &middot; next, Jains",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.77/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.76.html">AN 10.76 &middot; Three Things</a> &mdash; previous.',
+        '<a href="an-10.78.html">AN 10.78 &middot; Jains</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.78 — Nigaṇṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    78, "Nigaṇṭha", "Jains",
+    vagga=VAGGA_8,
+    meta_title="AN 10.78 — Jains | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nigaṇṭhasutta, naming ten bad qualities the Buddha "
+        "attributes to Jain ascetics &mdash; a rare instance of this "
+        "canon criticizing a rival tradition by name. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A single ten-item list, named for a specific rival "
+                 "tradition"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief but historically pointed"),
+    ],
+    why=(
+        "Unlike most of this project's critical lists, which describe "
+        "an unnamed &ldquo;bad mendicant&rdquo; or generic wrong "
+        "views, this discourse names a specific rival ascetic "
+        "movement outright &mdash; the Jains &mdash; and lists ten "
+        "qualities the Buddha attributes to them."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Jain ascetics have ten bad qualities: they are "
+            "faithless, unethical, without conscience or prudence, "
+            "devoted to untrue persons, self-glorifying and "
+            "put-others-down, attached to their own views, "
+            "deceptive, and have corrupt wishes and bad friends."]),
+        ("A rare named polemic", [
+            "Most of this canon's critical material targets unnamed "
+            "&ldquo;wanderers of other religions&rdquo; or an "
+            "unspecified &ldquo;bad mendicant,&rdquo; but this "
+            "discourse names the <em>Nigaṇṭha</em>, the Jain "
+            "ascetics who followed Nāṭaputta (Mahāvīra), one of the "
+            "most historically identifiable rival traditions the "
+            "Buddha's teaching career engaged with directly."]),
+        ("An identical list transplanted", [
+            "Several of the ten items &mdash; faithless, unethical, "
+            "without conscience or prudence, devoted to untrue "
+            "persons, bad friends &mdash; are drawn from the same "
+            "stock vocabulary of failing qualities used generically "
+            "elsewhere in this project (for instance, several items "
+            "in AN 10.76's descending chain), here specifically "
+            "attributed to one named group rather than left "
+            "unnamed."]),
+        ("Read as historical record, not doctrine to adopt", [
+            "This discourse is best understood as evidence of how "
+            "early Buddhist and Jain communities related to and "
+            "characterized each other in a period of active "
+            "competition for lay support and prestige, rather than as "
+            "a teaching about any timeless spiritual principle "
+            "&mdash; a rare direct trace of interreligious rivalry "
+            "preserved in the canon itself."]),
+    ],
+    terms=[
+        ("Nigaṇṭha",
+         "&ldquo;Jain ascetic,&rdquo; literally &ldquo;one without "
+         "ties&rdquo; &mdash; the followers of Nāṭaputta (Mahāvīra), "
+         "and this discourse's own title and named subject."),
+        ("assaddhā, dussīlā",
+         "&ldquo;faithless, unethical&rdquo; &mdash; the first two of "
+         "the ten qualities attributed to Jain ascetics."),
+        ("kuhakā, pāpicchā, pāpamittā",
+         "&ldquo;deceptive, with corrupt wishes and bad friends&rdquo; "
+         "&mdash; the final three qualities closing the list."),
+        ("attukkaṁsakaparavambhakā",
+         "&ldquo;they glorify themselves and put others down&rdquo; "
+         "&mdash; one of the more socially pointed items in the "
+         "list."),
+        ("sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī",
+         "&ldquo;attached to their own views, holding them tight, "
+         "and refusing to let go&rdquo; &mdash; the item most "
+         "directly aimed at doctrinal rigidity."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten bad qualities attributed to "
+        "Jain ascetics. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten bad qualities of Jain ascetics"),
+        ("p", "&sect;1", "an10.78:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "Who does this discourse's ten-item list of bad "
+              "qualities specifically name?",
+         "opts": [
+             "An unnamed \"bad mendicant\"",
+             "Jain ascetics (Nigaṇṭha)",
+             "Wandering brahmins in general",
+             "A specific individual monk"],
+         "correct": 1,
+         "expl": "One of this project's rare instances of naming a "
+                 "specific rival tradition."},
+        {"q": "According to the guide, how is most of this canon's "
+              "critical material typically framed, by contrast?",
+         "opts": [
+             "Always naming specific rival groups",
+             "Usually targeting unnamed \"wanderers of other "
+             "religions\" or an unspecified \"bad mendicant\"",
+             "Never critical of anyone",
+             "Only critical of individual named monks"],
+         "correct": 1,
+         "expl": "This discourse's naming of the Jains outright is "
+                 "the exception, not the rule."},
+        {"q": "According to the guide, how should this discourse best "
+              "be read?",
+         "opts": [
+             "As a timeless spiritual principle to apply broadly",
+             "As historical evidence of how early Buddhist and Jain "
+             "communities characterized each other amid active "
+             "competition",
+             "As a literal description of every Jain individual",
+             "As a later forgery"],
+         "correct": 1,
+         "expl": "A trace of interreligious rivalry preserved in the "
+                 "canon, not a doctrine to generalize."},
+        {"q": "Which of these qualities is attributed to Jain "
+              "ascetics in this discourse?",
+         "opts": [
+             "Excessive generosity",
+             "Being attached to their own views, holding them tight, "
+             "and refusing to let go",
+             "Excessive learning",
+             "Too much solitude"],
+         "correct": 1,
+         "expl": "One of the ten items, aimed at doctrinal rigidity."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Named, not anonymous", [
+            "not a vague \"bad monk\" &mdash;",
+            "the Jains, named outright, in",
+            "a rare direct jab",
+        ]),
+        ("Old vocabulary, new target", [
+            "the same failing words",
+            "met elsewhere in this project,",
+            "now aimed at a rival",
+        ]),
+        ("A trace of rivalry", [
+            "not timeless doctrine,",
+            "but evidence preserved of",
+            "two traditions' clash",
+        ]),
+        ("Cross-references", [
+            "AN 10.77 &middot; previous, A Crow",
+            "AN 10.76 &middot; Three Things, sharing several of the "
+            "same failing qualities in its own descending chain",
+            "AN 10.79 &middot; next, Grounds for Resentment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.78/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.77.html">AN 10.77 &middot; A Crow</a> &mdash; previous.',
+        '<a href="an-10.79.html">AN 10.79 &middot; Grounds for Resentment</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.79 — Āghātavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    79, "Āghātavatthu", "Grounds for Resentment",
+    vagga=VAGGA_8,
+    meta_title="AN 10.79 — Grounds for Resentment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āghātavatthusutta, mapping nine grounds for resentment "
+        "across three tenses and two objects of concern, plus a "
+        "tenth: anger with no reason at all. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A nine-part grid (three tenses times three "
+                 "objects) plus one further, unreasoned ground"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clean, systematic structure"),
+    ],
+    why=(
+        "This discourse maps resentment with unusual precision: not "
+        "a vague list of grievances, but nine grounds generated by "
+        "crossing three time-frames against three kinds of concern "
+        "&mdash; plus a tenth ground that needs no justification at "
+        "all."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Resentment arises on ten grounds: thinking someone "
+            "wronged, is wronging, or will wrong you, or someone you "
+            "love, in the past, present, or future; thinking someone "
+            "helped, is helping, or will help someone you dislike; "
+            "and, tenth, getting angry for no reason at all."]),
+        ("A three-by-three grid, precisely built", [
+            "The first nine grounds are not nine separate ideas but a "
+            "single systematic grid: three time-frames (past, "
+            "present, future) crossed against three concerns (harm to "
+            "me, harm to someone I love, help given to someone I "
+            "dislike) &mdash; a rare instance in this project of a "
+            "list built by explicit combinatorial logic rather than "
+            "simple enumeration."]),
+        ("Resentment about the future, not just the past", [
+            "Unlike most discussions of grudge-holding, which "
+            "naturally focus on remembered wrongs, this grid gives "
+            "equal weight to anticipated future wrongs &mdash; "
+            "resenting someone now for something they have not yet "
+            "done, a subtler and more speculative form of the same "
+            "underlying pattern."]),
+        ("A tenth ground that breaks the pattern", [
+            "After nine grounds generated by systematic combination, "
+            "the tenth stands entirely apart: resentment with no "
+            "reason at all, no wrong done, no one harmed, no future "
+            "threat &mdash; naming a raw, groundless irritability the "
+            "grid's own logic cannot capture."]),
+    ],
+    terms=[
+        ("āghātavatthu",
+         "&ldquo;ground for resentment&rdquo; &mdash; this "
+         "discourse's own title, naming each of the ten triggers in "
+         "turn."),
+        ("anatthaṁ me acari, āghātaṁ bandhati",
+         "&ldquo;they did wrong to me, you harbor resentment&rdquo; "
+         "&mdash; the recurring formula generating the first three "
+         "grounds, in past, present, and future tense."),
+        ("piyassa manāpassa anatthaṁ",
+         "&ldquo;wrong done to someone I love&rdquo; &mdash; the "
+         "second of the three concerns crossed against the three "
+         "tenses."),
+        ("appiyassa amanāpassa atthaṁ",
+         "&ldquo;help given to someone I dislike&rdquo; &mdash; the "
+         "third of the three concerns completing the grid."),
+        ("asatiyā kopo",
+         "&ldquo;anger for no reason&rdquo; &mdash; the tenth "
+         "ground, standing outside the systematic three-by-three "
+         "grid entirely."),
+    ],
+    text_intro=(
+        "The discourse in full: all ten grounds for resentment. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten grounds for resentment"),
+        ("p", "&sect;1", "an10.79:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "How are the first nine grounds for resentment "
+              "structured, according to the guide?",
+         "opts": [
+             "As nine unrelated, separately listed grievances",
+             "As a systematic grid: three time-frames (past, "
+             "present, future) crossed against three concerns (harm "
+             "to me, harm to a loved one, help to a disliked person)",
+             "Alphabetically",
+             "By severity"],
+         "correct": 1,
+         "expl": "A rare instance of explicit combinatorial logic "
+                 "generating a list."},
+        {"q": "What does the guide note as unusual about this "
+              "discourse's treatment of time?",
+         "opts": [
+             "It only considers past wrongs",
+             "It gives equal weight to anticipated future wrongs, not "
+             "just remembered past ones",
+             "It ignores time entirely",
+             "It only considers the present moment"],
+         "correct": 1,
+         "expl": "Resentment about something not yet done, a subtler "
+                 "form of the same pattern."},
+        {"q": "What is the tenth ground for resentment?",
+         "opts": [
+             "A repeat of the ninth ground",
+             "Anger for no reason at all",
+             "Resentment toward oneself",
+             "Resentment toward the Buddha"],
+         "correct": 1,
+         "expl": "A ground standing outside the systematic grid's own "
+                 "logic."},
+        {"q": "What are the three \"concerns\" crossed against the "
+              "three tenses in this discourse's grid?",
+         "opts": [
+             "Wealth, health, and reputation",
+             "Harm done to me, harm done to someone I love, and help "
+             "given to someone I dislike",
+             "Past life, present life, future life",
+             "Body, speech, and mind"],
+         "correct": 1,
+         "expl": "Three distinct objects of concern, each crossed "
+                 "against three time-frames."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A grid of grudges", [
+            "past, present, future &mdash;",
+            "times three concerns &mdash; nine grounds,",
+            "built by combination",
+        ]),
+        ("Resenting what hasn't happened", [
+            "not just old wounds, but",
+            "wrongs merely feared, still to come &mdash;",
+            "resentment, pre-loaded",
+        ]),
+        ("A tenth, outside the grid", [
+            "no reason at all &mdash;",
+            "anger the pattern itself",
+            "cannot quite explain",
+        ]),
+        ("Cross-references", [
+            "AN 10.78 &middot; previous, Jains",
+            "AN 10.80 &middot; next, the exact antidote to each of "
+            "these same ten grounds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.79/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.78.html">AN 10.78 &middot; Jains</a> &mdash; previous.',
+        '<a href="an-10.80.html">AN 10.80 &middot; Getting Rid of Resentment</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.80 — Āghātapaṭivinayasutta
+# --------------------------------------------------------------------------- #
+page(
+    80, "Āghātapaṭivinaya", "Getting Rid of Resentment",
+    vagga=VAGGA_8,
+    meta_title="AN 10.80 — Getting Rid of Resentment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āghātapaṭivinayasutta, closing the Ākaṅkhavagga with the "
+        "exact antidote to each of AN 10.79's ten grounds: a single "
+        "disarming question. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical nine-part grid as AN 10.79, each "
+                 "ground answered with a disarming question"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter", "This discourse closes "
+                                 "<em>Ākaṅkhavagga</em>, the eighth "
+                                 "chapter, with its own untranslated "
+                                 "colophon and uddāna verse naming "
+                                 "all ten discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar structure, close mirror to AN "
+                       "10.79"),
+    ],
+    why=(
+        "Immediately following AN 10.79's precise map of resentment, "
+        "this discourse gives the exact antidote to each of the same "
+        "ten grounds &mdash; not a general instruction to let go, but "
+        "one specific disarming question fitted to each specific "
+        "ground."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Every one of AN 10.79's ten grounds for resentment is "
+            "dissolved by asking the same disarming question, "
+            "&ldquo;but what can I possibly do?&rdquo;, applied to "
+            "each of the same nine time-and-concern combinations plus "
+            "the same tenth, groundless case."]),
+        ("The identical grid, now defused", [
+            "This discourse does not introduce a new structure: it "
+            "takes AN 10.79's exact nine-part grid of tenses and "
+            "concerns, unchanged, and simply appends the same "
+            "disarming clause &mdash; &ldquo;but what can I possibly "
+            "do?&rdquo; &mdash; to each of the nine grounds in turn."]),
+        ("Acceptance of powerlessness as the antidote", [
+            "Rather than offering active countermeasures &mdash; "
+            "forgiveness rituals, loving-kindness practice, or "
+            "reasoned argument &mdash; the remedy here is a simple "
+            "acknowledgment of one's own powerlessness over what has "
+            "already happened, is happening, or might happen: since "
+            "nothing can actually be done about it, the resentment "
+            "has nothing left to hold onto."]),
+        ("Closing the chapter with a completed pair", [
+            "As the second half of this chapter's clearest matched "
+            "pair, this discourse closes <em>Ākaṅkhavagga</em> by "
+            "completing the diagnosis AN 10.79 opened &mdash; problem "
+            "and remedy given as two separate discourses rather than "
+            "combined into one &mdash; with its own colophon and "
+            "uddāna verse naming all ten discourses of the chapter."]),
+    ],
+    terms=[
+        ("āghātapaṭivinaya",
+         "&ldquo;getting rid of resentment&rdquo; &mdash; this "
+         "discourse's own title, the direct remedy to AN 10.79's "
+         "āghātavatthu."),
+        ("taṁ kutettha labbhā",
+         "&ldquo;but what can I possibly do?&rdquo; &mdash; the "
+         "single disarming clause appended to every one of the ten "
+         "grounds, dissolving resentment through acknowledged "
+         "powerlessness."),
+        ("Ākaṅkhavaggo tatiyo",
+         "&ldquo;the Wishing Chapter, the third&rdquo; &mdash; the "
+         "chapter's own closing colophon, left untranslated in the "
+         "English text."),
+        ("anatthaṁ me acari, taṁ kutettha labbhā",
+         "&ldquo;they did wrong to me, but what can I possibly "
+         "do?&rdquo; &mdash; the first ground, defused, mirroring AN "
+         "10.79's opening formula."),
+        ("uddāna",
+         "a summary verse naming, in brief, all ten discourses just "
+         "covered &mdash; here closing the chapter, left untranslated "
+         "in the English text."),
+    ],
+    text_intro=(
+        "The discourse in full: all ten grounds for resentment, each "
+        "answered with the same disarming question. The chapter's "
+        "own colophon and uddāna verse, in Pāli only, are described "
+        "but not reproduced. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Ten ways to get rid of resentment"),
+        ("p", "&sect;1", "an10.80:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to AN "
+              "10.79's?",
+         "opts": [
+             "Completely unrelated",
+             "It reuses the identical nine-part grid of tenses and "
+             "concerns, appending the same disarming clause to each "
+             "ground",
+             "It introduces an entirely new list",
+             "It has only five grounds instead of ten"],
+         "correct": 1,
+         "expl": "The same map, now paired with its own remedy."},
+        {"q": "What is the single disarming clause appended to every "
+              "ground?",
+         "opts": [
+             "\"I forgive them completely\"",
+             "\"But what can I possibly do?\"",
+             "\"They will suffer for it\"",
+             "\"I must confront them directly\""],
+         "correct": 1,
+         "expl": "A question acknowledging powerlessness, repeated "
+                 "for each of the ten grounds."},
+        {"q": "According to the guide, what kind of remedy does this "
+              "discourse offer, compared to active countermeasures "
+              "like forgiveness rituals or loving-kindness practice?",
+         "opts": [
+             "An elaborate multi-step ritual",
+             "A simple acknowledgment of one's own powerlessness over "
+             "what has happened, is happening, or might happen",
+             "A demand for an apology",
+             "No remedy is actually offered"],
+         "correct": 1,
+         "expl": "Since nothing can be done, the guide notes, "
+                 "resentment loses what it was holding onto."},
+        {"q": "What does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "Nothing in particular",
+             "Ākaṅkhavagga, the eighth chapter, completing its "
+             "clearest matched pair with AN 10.79",
+             "The entire Second Fifty",
+             "The entire nipāta"],
+         "correct": 1,
+         "expl": "Problem and remedy given as two separate, paired "
+                 "discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("The same grid, defused", [
+            "past, present, future &mdash;",
+            "nine grounds return, each now met",
+            "with one disarming line",
+        ]),
+        ("Powerless, and released", [
+            "\"what can I do?\" &mdash; not",
+            "forgiveness performed, but just",
+            "letting go of blame",
+        ]),
+        ("A pair completed", [
+            "the map, then the cure &mdash;",
+            "two discourses, not one, close",
+            "this chapter of wishes",
+        ]),
+        ("Cross-references", [
+            "AN 10.79 &middot; previous, the same ten grounds this "
+            "discourse now defuses",
+            "AN 10.71 &middot; One Might Wish, opening this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.80/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.79.html">AN 10.79 &middot; Grounds for Resentment</a> &mdash; '
+        "previous.",
+        '<a href="an-10.71.html">AN 10.71 &middot; One Might Wish</a> &mdash; opening this '
+        "chapter.",
+    ],
+)
