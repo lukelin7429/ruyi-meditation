@@ -12016,3 +12016,1943 @@ page(
         "discourse that closed the previous vagga, the Ādittavagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.61 — Nāmasutta (opens the Addhavagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 61, "Nāma", "Name",
+    meta_title="SN 1.61 — Name | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Nāmasutta — "
+        "a three-part riddle naming 'name' itself as what overcomes everything and "
+        "holds all things under its sway. Opens the Addhavagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief in form, "
+                       "dense in philosophical implication"),
+        ("Opening this vagga", "The first of ten discourses forming this collection's "
+                               "most tightly interconnected vagga, each probing what "
+                               "governs, binds, or afflicts &lsquo;the world&rsquo;"),
+    ],
+    why=(
+        "The question asks about ultimate dominance: what overcomes everything, what "
+        "does nothing excel, what single thing holds everything under its sway? The "
+        "answer names something unexpected &mdash; not craving, not death, but "
+        "&lsquo;name&rsquo; (<em>nāma</em>) itself, repeated three times across the "
+        "verse's three lines as the one thing nothing else can surpass or escape."),
+    guide=[
+        ("Naming as the ultimate power", [
+            "The claim that name overcomes everything is a claim about how naming "
+            "itself structures experience: nothing is encountered, thought about, or "
+            "related to at all except by first being named or conceptually grasped. In "
+            "this sense the verse treats <em>nāma</em> as prior to and more powerful "
+            "than any specific thing that might be named."]),
+        ("A connection to this collection's earlier riddle on 'the communicable'", [
+            "This discourse's emphasis on <em>nāma</em>'s power echoes the compressed "
+            "verses on <em>akkheyya</em>, &lsquo;the communicable&rsquo; or nameable, "
+            "already met at SN 1.20 &mdash; both discourses treat the act of naming or "
+            "describing as something with real, almost inescapable force over how "
+            "beings relate to the world."]),
+        ("Opening this collection's most tightly unified vagga", [
+            "Every discourse in this vagga, from this one through SN 1.70, circles "
+            "around a single connected question: what governs, binds, leads, or "
+            "afflicts &lsquo;the world&rsquo;? Where several earlier vaggas gather "
+            "loosely related riddles, this one reads almost as a sustained "
+            "investigation, with each discourse offering one candidate answer before "
+            "the vagga's last discourse supplies a concrete doctrinal resolution."]),
+    ],
+    terms=[
+        ("nāma",
+         "&ldquo;name&rdquo; &mdash; this discourse's title and central claim, named "
+         "as what overcomes everything and has all things under its sway."),
+        ("sabbaṁ nāmena sahati",
+         "&ldquo;name overcomes everything&rdquo; &mdash; the verse's central "
+         "assertion, repeated in different words across all three of its lines."),
+        ("sabbassa vasamanvagū",
+         "&ldquo;has everything under its sway&rdquo; &mdash; the verse's final "
+         "description of name's reach."),
+        ("akkheyya",
+         "&ldquo;the communicable, the nameable&rdquo; &mdash; the closely related "
+         "term already met at SN 1.20, describing a similar concern with naming's "
+         "power."),
+        ("addha",
+         "the vagga's own title-root, rendered by Sujato as &lsquo;Overcome,&rsquo; "
+         "naming the theme every discourse in this vagga circles around."),
+    ],
+    text_intro=(
+        "The discourse in full: a compact claim about naming's ultimate power over "
+        "everything. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.61:1.1-1.4"),
+        ("p", "&sect;2", "sn1.61:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does the opening question ask about?",
+         "opts": [
+             "What overcomes everything and has all things under its sway",
+             "What produces strength, beauty, happiness, and vision",
+             "Who can untangle the human tangle",
+             "Friendship in four situations"],
+         "correct": 0,
+         "expl": "A question about ultimate dominance over all things."},
+        {"q": "What does the reply name as what overcomes everything?",
+         "opts": [
+             "Name (nāma)",
+             "Craving",
+             "Wisdom",
+             "A deity"],
+         "correct": 0,
+         "expl": "An unexpected answer, repeated three times across the verse."},
+        {"q": "How does this discourse's claim relate to naming or conceptualization more broadly?",
+         "opts": [
+             "It treats name as prior to and more powerful than any specific thing named",
+             "It claims naming has no effect on how anything is experienced",
+             "It denies that names exist at all",
+             "It claims only deities are affected by naming"],
+         "correct": 0,
+         "expl": "Nothing is encountered or related to except by first being named or grasped conceptually."},
+        {"q": "What earlier discourse in this collection shares a related concern with naming's power?",
+         "opts": [
+             "SN 1.20, on 'the communicable' (akkheyya)",
+             "SN 1.1, on crossing the flood",
+             "SN 1.44, on one root",
+             "No earlier discourse shares this concern"],
+         "correct": 0,
+         "expl": "Both discourses treat naming or describing as having real, almost inescapable force."},
+        {"q": "What theme connects every discourse in this vagga?",
+         "opts": [
+             "What governs, binds, leads, or afflicts 'the world'",
+             "The karmic destinations of the stingy and generous",
+             "Friendship across different situations",
+             "The craft of verse-making"],
+         "correct": 0,
+         "expl": "This collection's most tightly unified vagga, building toward a concrete resolution at its close."},
+        {"q": "How many times does the verse's core claim about name repeat across its three lines?",
+         "opts": [
+             "Three times, in slightly different words each time",
+             "Once only",
+             "It never repeats",
+             "Five times"],
+         "correct": 0,
+         "expl": "Overcomes, is unexcelled, and holds sway &mdash; three restatements of the same claim."},
+        {"q": "What does 'sabbassa vasamanvagū' mean?",
+         "opts": [
+             "'Has everything under its sway'",
+             "'Has nothing under its sway'",
+             "'Is itself overcome by everything'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The verse's final description of name's total reach."},
+        {"q": "What English title does the translator, Sujato, give this vagga?",
+         "opts": [
+             "'Overcome'",
+             "'Oppressed'",
+             "'Time'",
+             "'Fetters'"],
+         "correct": 0,
+         "expl": "The rendering used consistently across the discourses in this vagga's own text."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Does this vagga's structure resemble a loose gathering of unrelated riddles, like some earlier vaggas?",
+         "opts": [
+             "No &mdash; it reads as a sustained investigation into a single connected question",
+             "Yes, exactly like several earlier vaggas in this collection",
+             "This vagga contains no riddles at all",
+             "Each discourse in this vagga is completely unrelated to the others"],
+         "correct": 0,
+         "expl": "One of the most thematically unified vaggas in this collection."},
+    ],
+    marginalia=[
+        ("A question of dominance", [
+            "what overcomes everything,",
+            "what nothing excels?",
+        ]),
+        ("An unexpected answer", [
+            "not craving, not death &mdash;",
+            "name itself",
+        ]),
+        ("An echo of SN 1.20", [
+            "akkheyya, the nameable,",
+            "already met before",
+        ]),
+        ("Opening a unified vagga", [
+            "ten discourses, one question:",
+            "what governs the world?",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.61/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.60.html">SN 1.60 &middot; A Poet</a> &mdash; the discourse that '
+        "closed the previous vagga, the Jarāvagga.",
+        '<a href="sn-1.20.html">SN 1.20 &middot; With Samiddhi</a> &mdash; the earlier '
+        "discourse sharing this discourse's concern with naming's power.",
+        "SN 1.62 &middot; Mind &mdash; the next discourse, naming the mind as what "
+        "leads and drags the world around.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.62 — Cittasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 62, "Citta", "Mind",
+    meta_title="SN 1.62 — Mind | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Cittasutta — "
+        "a three-part riddle naming the mind as what leads the world on, drags it "
+        "around, and has everything under its sway. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("A shared question, a different answer", "This discourse's question is "
+                                                   "identical to SN 1.63's, "
+                                                   "immediately following it, though "
+                                                   "the two name different answers"),
+    ],
+    why=(
+        "The question asks what leads the world on, what drags it around, and what "
+        "single thing holds everything under its sway. This discourse's answer is the "
+        "mind (<em>citta</em>) &mdash; named three times as the active agent behind the "
+        "world's movement, not merely a passive faculty but the very thing that "
+        "&lsquo;drags&rsquo; the world wherever it goes."),
+    guide=[
+        ("The mind as an active, even coercive, force", [
+            "The verb <em>nibbahati</em>, &lsquo;drags around,&rsquo; is notably "
+            "forceful &mdash; not simply guiding or influencing, but hauling the world "
+            "along in a way it may not choose for itself. The mind here is pictured as "
+            "an agent with real power over what happens, not a neutral instrument."]),
+        ("A question shared exactly with SN 1.63", [
+            "The next discourse in this vagga asks the identical question, word for "
+            "word, and answers it with craving (<em>taṇhā</em>) instead of mind. Read "
+            "together, the two discourses don't contradict each other so much as "
+            "name two facets of the same phenomenon: the mind as the agent that "
+            "moves, and craving as the force that moves it."]),
+        ("A candidate answer within this vagga's larger investigation", [
+            "Following SN 1.61's answer of &lsquo;name,&rsquo; this discourse offers a "
+            "second candidate for what ultimately governs the world. This vagga's "
+            "structure builds through several such candidates &mdash; name, mind, "
+            "craving, delight, desire &mdash; before its final discourse names a "
+            "concrete doctrinal foundation underlying all of them."]),
+    ],
+    terms=[
+        ("cittena nīyati loko",
+         "&ldquo;the mind leads the world on&rdquo; &mdash; the verse's opening "
+         "claim, and this discourse's title."),
+        ("nibbahati",
+         "&ldquo;drags around&rdquo; &mdash; a forceful verb, picturing the mind "
+         "hauling the world rather than merely influencing it."),
+        ("cittassa vasamanvagū",
+         "&ldquo;has everything under its sway&rdquo; &mdash; mirroring SN 1.61's "
+         "identical closing claim about name."),
+        ("taṇhā",
+         "&ldquo;craving&rdquo; &mdash; the answer given to this identical question "
+         "at SN 1.63, immediately following this discourse."),
+        ("eko dhammo",
+         "&ldquo;the one thing&rdquo; &mdash; the question's own phrase, seeking a "
+         "single, unified answer rather than a list."),
+    ],
+    text_intro=(
+        "The discourse in full: the mind named as the active force leading and "
+        "dragging the world along. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.62:1.1-1.4"),
+        ("p", "&sect;2", "sn1.62:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's question ask about?",
+         "opts": [
+             "What leads the world on, drags it around, and has everything under its sway",
+             "What overcomes everything and nothing excels",
+             "What binds the world and how it travels about",
+             "In what has the world arisen"],
+         "correct": 0,
+         "expl": "A question shared word for word with SN 1.63, immediately following."},
+        {"q": "What does this discourse's reply name as the answer?",
+         "opts": [
+             "The mind (citta)",
+             "Craving",
+             "Name",
+             "Desire"],
+         "correct": 0,
+         "expl": "Named three times across the verse's four lines."},
+        {"q": "What does 'nibbahati' suggest about the mind's relationship to the world?",
+         "opts": [
+             "A forceful, almost coercive dragging, not merely gentle influence",
+             "A completely passive, uninvolved relationship",
+             "No relationship at all",
+             "The mind is dragged by the world, not the reverse"],
+         "correct": 0,
+         "expl": "A notably strong verb, picturing real power rather than neutral guidance."},
+        {"q": "How does this discourse relate to SN 1.63, immediately following it?",
+         "opts": [
+             "They share an identical question but name different answers: mind here, craving there",
+             "They ask completely unrelated questions",
+             "They give the exact same answer",
+             "SN 1.63 directly contradicts this discourse"],
+         "correct": 0,
+         "expl": "Two facets of the same phenomenon: the mind as agent, craving as force."},
+        {"q": "What earlier discourse in this vagga offers a different candidate answer to a related question?",
+         "opts": [
+             "SN 1.61, naming 'name' as what overcomes everything",
+             "SN 1.1, on crossing the flood",
+             "SN 1.50, on Ghaṭīkāra",
+             "No earlier discourse in this vagga addresses a related question"],
+         "correct": 0,
+         "expl": "Part of this vagga's sustained investigation into several candidate answers."},
+        {"q": "What does 'cittena nīyati loko' mean?",
+         "opts": [
+             "'The mind leads the world on'",
+             "'The world leads the mind on'",
+             "'The mind has no effect on the world'",
+             "'Craving leads the world on'"],
+         "correct": 0,
+         "expl": "This discourse's opening claim and title."},
+        {"q": "Does this discourse claim the mind is a neutral, passive faculty?",
+         "opts": [
+             "No &mdash; it is pictured as an active agent with real power over what happens",
+             "Yes, the mind is described as entirely passive",
+             "The discourse makes no claim about the mind's nature",
+             "The mind is described as nonexistent"],
+         "correct": 0,
+         "expl": "The forceful verb 'drags around' rules out a passive reading."},
+        {"q": "What does 'eko dhammo' mean, in the question both this discourse and SN 1.63 share?",
+         "opts": [
+             "'The one thing' &mdash; seeking a single, unified answer",
+             "'Many things'",
+             "'Nothing at all'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The question's own framing, seeking one answer rather than a list."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many candidate answers does this vagga offer across its full ten discourses?",
+         "opts": [
+             "Several, including name, mind, craving, delight, and desire, before a final doctrinal resolution",
+             "Exactly one answer, repeated ten times without variation",
+             "No candidate answers are offered anywhere in this vagga",
+             "Ten completely unrelated answers with no connecting theme"],
+         "correct": 0,
+         "expl": "A sustained investigation building toward SN 1.70's concrete resolution."},
+    ],
+    marginalia=[
+        ("A shared question", [
+            "what leads the world,",
+            "what drags it around?",
+        ]),
+        ("The mind, named", [
+            "not a passive faculty &mdash;",
+            "an active, dragging force",
+        ]),
+        ("A twin discourse ahead", [
+            "SN 1.63 asks the same,",
+            "answers with craving instead",
+        ]),
+        ("A second candidate", [
+            "after name, now mind &mdash;",
+            "this vagga's ongoing search",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.62/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.61.html">SN 1.61 &middot; Name</a> &mdash; the discourse '
+        "immediately before this one, and this vagga&rsquo;s opening discourse.",
+        '<a href="sn-1.34.html">SN 1.34 &middot; There Are None</a> &mdash; an earlier '
+        "discourse also concerned with the mind's restless activity.",
+        "SN 1.63 &middot; Craving &mdash; the next discourse, sharing this one's "
+        "question exactly while naming a different answer.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.63 — Taṇhāsutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 63, "Taṇhā", "Craving",
+    meta_title="SN 1.63 — Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Taṇhāsutta — "
+        "sharing SN 1.62's question exactly, this discourse names craving, rather "
+        "than the mind, as what leads and drags the world around. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, identical to SN 1.62's, answered by a "
+                 "different four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("Completing a pair", "The second half of this vagga's mind-and-craving "
+                              "pair, naming the force rather than the agent"),
+    ],
+    why=(
+        "This discourse asks exactly what SN 1.62 asked &mdash; what leads the world "
+        "on, what drags it around, what single thing holds everything under its sway "
+        "&mdash; but answers with craving (<em>taṇhā</em>) rather than mind. Where the "
+        "previous discourse named the mind as the active agent dragging the world "
+        "along, this one names craving as what actually drives that agent to act."),
+    guide=[
+        ("The same question, a complementary answer", [
+            "Nothing in this discourse's question differs from SN 1.62's, word for "
+            "word. What changes is only the answer &mdash; and rather than treating "
+            "the two answers as competing, they read most naturally as complementary: "
+            "the mind moves the world, and craving is what moves the mind to do so."]),
+        ("Craving as motive force behind an active mind", [
+            "If SN 1.62 pictured the mind as an agent dragging the world along, this "
+            "discourse supplies the reason that agent acts at all: craving is what "
+            "gives the mind its direction and its restless energy in the first place "
+            "&mdash; not a separate, unrelated cause, but the engine behind the "
+            "engine."]),
+        ("A term already central to this collection", [
+            "Craving's role here echoes its appearance across many earlier discourses "
+            "in this collection, from SN 1.55 through SN 1.57's account of craving "
+            "giving birth to a person, to SN 1.34's tracing of suffering back to "
+            "desire. This discourse restates the same basic conviction in this "
+            "vagga's own recurring &lsquo;what governs the world&rsquo; frame."]),
+    ],
+    terms=[
+        ("taṇhāya nīyati loko",
+         "&ldquo;craving leads the world on&rdquo; &mdash; this discourse's answer, "
+         "replacing SN 1.62's 'the mind' in an otherwise identical verse."),
+        ("nibbahati",
+         "&ldquo;drags around&rdquo; &mdash; the same forceful verb used at SN 1.62, "
+         "now applied to craving instead of the mind."),
+        ("taṇhāya vasamanvagū",
+         "&ldquo;has everything under craving's sway&rdquo; &mdash; mirroring SN "
+         "1.62's identical closing structure."),
+        ("citta",
+         "&ldquo;mind&rdquo; &mdash; the answer given to this identical question at "
+         "SN 1.62, immediately before this discourse."),
+        ("eko dhammo",
+         "&ldquo;the one thing&rdquo; &mdash; the question's own framing, shared "
+         "exactly between this discourse and SN 1.62."),
+    ],
+    text_intro=(
+        "The discourse in full: the same question as SN 1.62, closing on craving "
+        "rather than the mind. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.63:1.1-1.4"),
+        ("p", "&sect;2", "sn1.63:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's question compare to SN 1.62's?",
+         "opts": [
+             "It is identical, word for word",
+             "It is completely different",
+             "It shares only the first line",
+             "It asks about an unrelated topic"],
+         "correct": 0,
+         "expl": "The exact same question, only the answer differs."},
+        {"q": "What does this discourse name as the answer?",
+         "opts": [
+             "Craving (taṇhā)",
+             "The mind",
+             "Name",
+             "Wisdom"],
+         "correct": 0,
+         "expl": "Replacing SN 1.62's 'mind' in an otherwise identical verse."},
+        {"q": "How do this discourse's answer and SN 1.62's answer relate to each other?",
+         "opts": [
+             "They read as complementary: craving as motive force, the mind as the agent it moves",
+             "They flatly contradict each other with no possible reconciliation",
+             "They are simply two unrelated, coincidental answers",
+             "This discourse explicitly rejects SN 1.62's answer as false"],
+         "correct": 0,
+         "expl": "Craving as the engine behind the mind's active dragging of the world."},
+        {"q": "What earlier discourses in this collection already established craving's central role?",
+         "opts": [
+             "SN 1.55 through SN 1.57, and SN 1.34",
+             "SN 1.1 and SN 1.2 only",
+             "No earlier discourse mentions craving",
+             "Only SN 1.62, immediately before this one"],
+         "correct": 0,
+         "expl": "A recurring conviction restated here in this vagga's own frame."},
+        {"q": "What verb does this discourse share exactly with SN 1.62?",
+         "opts": [
+             "'Drags around' (nibbahati)",
+             "'Overcomes' (sahati)",
+             "'Binds' (bandhati)",
+             "No verb is shared between the two discourses"],
+         "correct": 0,
+         "expl": "The same forceful verb, now applied to craving instead of the mind."},
+        {"q": "What does 'taṇhāya nīyati loko' mean?",
+         "opts": [
+             "'Craving leads the world on'",
+             "'The mind leads the world on'",
+             "'The world leads craving on'",
+             "'Name leads the world on'"],
+         "correct": 0,
+         "expl": "This discourse's central claim, replacing SN 1.62's answer."},
+        {"q": "Does this discourse present craving and mind as mutually exclusive answers?",
+         "opts": [
+             "No &mdash; the two discourses read most naturally as naming two related facets of the same phenomenon",
+             "Yes, only one of the two answers can be correct",
+             "The discourse explicitly states mind and craving are unrelated",
+             "This discourse denies that the mind exists"],
+         "correct": 0,
+         "expl": "Complementary rather than competing claims."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "What does this discourse's position in this vagga's sequence suggest?",
+         "opts": [
+             "It completes a pair with SN 1.62, exploring two related candidate answers to the same question",
+             "It is entirely unrelated to any other discourse in this vagga",
+             "It is the vagga's final discourse",
+             "It is the vagga's opening discourse"],
+         "correct": 0,
+         "expl": "The second half of a matched pair within this vagga's larger investigation."},
+        {"q": "What does 'eko dhammo' mean?",
+         "opts": [
+             "'The one thing' &mdash; seeking a single, unified answer",
+             "'Many things'",
+             "'Nothing at all'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The shared question's own framing, common to both this discourse and SN 1.62."},
+    ],
+    marginalia=[
+        ("The same question again", [
+            "what leads the world,",
+            "what drags it around?",
+        ]),
+        ("Craving, named this time", [
+            "not the mind alone &mdash;",
+            "what moves the mind itself",
+        ]),
+        ("Engine behind the engine", [
+            "the mind as agent,",
+            "craving as its motive force",
+        ]),
+        ("A pair completed", [
+            "SN 1.62 and this discourse,",
+            "two facets of one force",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.63/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.62.html">SN 1.62 &middot; Mind</a> &mdash; the discourse '
+        "immediately before this one, sharing its question exactly.",
+        '<a href="sn-1.57.html">SN 1.57 &middot; Gives Birth (3rd)</a> &mdash; an '
+        "earlier discourse also naming craving's central role in continued existence.",
+        "SN 1.64 &middot; Fetter &mdash; the next discourse, on what fetters the "
+        "world and how it travels about.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.64 — Saṃyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 64, "Saṃyojana", "Fetter",
+    meta_title="SN 1.64 — Fetter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saṃyojanasutta — a riddle naming delight as what fetters the world, thought "
+        "as how it travels about, and the giving up of craving as extinguishment "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "introducing a new candidate distinct from mind or craving "
+                       "alone"),
+        ("A near-twin discourse follows", "SN 1.65, immediately after, asks a nearly "
+                                          "identical question and gives the same "
+                                          "answer, framed around bonds rather than "
+                                          "fetters"),
+    ],
+    why=(
+        "This discourse asks three related questions: what fetters the world, how "
+        "does it travel about, and with the giving up of what is extinguishment "
+        "spoken of? The answer names delight (<em>nandi</em>) as the fetter, thought "
+        "(<em>vitakka</em>) as the means of the world's traveling about, and the "
+        "giving up of craving specifically as what extinguishment consists in."),
+    guide=[
+        ("Delight named as the fetter itself", [
+            "Rather than naming craving directly as the fetter, this discourse names "
+            "delight (<em>nandi</em>), a closely related but distinct term describing "
+            "the pleasure taken in something rather than the wanting of it. The two "
+            "are related closely enough that the verse's closing line shifts back to "
+            "craving as what must be given up &mdash; suggesting delight and craving "
+            "are treated here as intimately bound together rather than as separate "
+            "fetters."]),
+        ("Thought as the vehicle of the world's wandering", [
+            "The verse's second answer, that the world &lsquo;travels about by means "
+            "of thought,&rsquo; names <em>vitakka</em>, discursive or applied thought, "
+            "as the mechanism by which the mind's restless movement (already named at "
+            "SN 1.62) actually happens &mdash; thought as the vehicle, mind as the "
+            "traveler."]),
+        ("Extinguishment defined by a specific relinquishment", [
+            "The verse's closing line answers precisely: extinguishment is spoken of "
+            "specifically &lsquo;with the giving up of craving,&rsquo; not as a vague "
+            "cessation of all activity but as the direct consequence of relinquishing "
+            "one identifiable thing."]),
+        ("A discourse paired closely with the one following it", [
+            "SN 1.65, immediately after this discourse, asks almost the identical "
+            "question &mdash; framed around <em>bandhana</em>, &lsquo;bonds,&rsquo; "
+            "rather than <em>saṃyojana</em>, &lsquo;fetters&rsquo; &mdash; and answers "
+            "with the same three terms: delight, thought, and craving given up."]),
+    ],
+    terms=[
+        ("saṃyojana",
+         "&ldquo;fetter&rdquo; &mdash; this discourse's title, and the specific term "
+         "the question asks about."),
+        ("nandi saṁyojano loko",
+         "&ldquo;delight fetters the world&rdquo; &mdash; the verse's first answer, "
+         "naming pleasure taken in things rather than craving directly."),
+        ("vitakkassa vicaraṇaṁ",
+         "&ldquo;it travels about by means of thought&rdquo; &mdash; the second "
+         "answer, naming the vehicle of the world's restless movement."),
+        ("taṇhāya vippahānena",
+         "&ldquo;with the giving up of craving&rdquo; &mdash; the specific "
+         "relinquishment the verse identifies as constituting extinguishment."),
+        ("nibbāna",
+         "&ldquo;extinguishment&rdquo; &mdash; what the verse's final line names as "
+         "spoken of precisely when craving is given up."),
+    ],
+    text_intro=(
+        "The discourse in full: delight, thought, and the giving up of craving, in "
+        "three precise answers. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.64:1.1-1.4"),
+        ("p", "&sect;2", "sn1.64:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three questions does this discourse's riddle ask?",
+         "opts": [
+             "What fetters the world, how it travels about, and what its giving up produces extinguishment",
+             "What overcomes everything and nothing excels",
+             "What leads the world on and drags it around",
+             "In what has the world arisen"],
+         "correct": 0,
+         "expl": "Three related but distinct questions, answered precisely."},
+        {"q": "What does the reply name as what fetters the world?",
+         "opts": [
+             "Delight (nandi)",
+             "The mind",
+             "Name",
+             "Old age"],
+         "correct": 0,
+         "expl": "Pleasure taken in things, distinct from but closely related to craving."},
+        {"q": "What does the reply name as how the world travels about?",
+         "opts": [
+             "By means of thought (vitakka)",
+             "By means of the body alone",
+             "By means of speech alone",
+             "The world does not travel about"],
+         "correct": 0,
+         "expl": "The vehicle of the mind's restless movement already named at SN 1.62."},
+        {"q": "What does the verse name as what must be given up for extinguishment to be spoken of?",
+         "opts": [
+             "Craving",
+             "Delight, specifically distinguished from craving",
+             "Thought entirely",
+             "Nothing needs to be given up"],
+         "correct": 0,
+         "expl": "A precise, specific relinquishment rather than a vague cessation."},
+        {"q": "How are delight and craving related in this discourse?",
+         "opts": [
+             "Closely bound together: delight is named as the fetter, but craving as what must be relinquished",
+             "Completely unrelated, with no connection drawn between them",
+             "Delight is explicitly said to be the opposite of craving",
+             "The discourse denies craving exists"],
+         "correct": 0,
+         "expl": "Two closely related terms treated as intimately connected rather than separate fetters."},
+        {"q": "What does 'vitakkassa vicaraṇaṁ' mean?",
+         "opts": [
+             "'It travels about by means of thought'",
+             "'It stands still, without any movement'",
+             "'It travels about by means of craving alone'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The verse's second answer, naming thought as the mechanism of restless movement."},
+        {"q": "What discourse immediately follows this one, and how does it relate?",
+         "opts": [
+             "SN 1.65, asking an almost identical question framed around 'bonds' rather than 'fetters'",
+             "SN 1.65, asking a completely unrelated question",
+             "No discourse immediately follows this one",
+             "SN 1.65 directly contradicts this discourse's answers"],
+         "correct": 0,
+         "expl": "A closely paired discourse sharing the same three-term answer."},
+        {"q": "What does 'nibbāna' mean?",
+         "opts": [
+             "'Extinguishment'",
+             "'Fetter'",
+             "'Delight'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "What the verse's final line describes as spoken of when craving is given up."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How does this discourse's answer connect to earlier discourses in this vagga?",
+         "opts": [
+             "It builds on SN 1.62's naming of the mind as agent, by naming thought as the mind's vehicle of movement",
+             "It contradicts everything said in SN 1.62 and SN 1.63",
+             "It has no relationship to any earlier discourse in this vagga",
+             "It repeats SN 1.61's answer about name exactly"],
+         "correct": 0,
+         "expl": "Another link in this vagga's connected investigation into what governs the world."},
+    ],
+    marginalia=[
+        ("Three questions, precisely", [
+            "what fetters, how it moves,",
+            "what gives extinguishment",
+        ]),
+        ("Delight, as fetter", [
+            "pleasure taken in things,",
+            "closely bound to craving",
+        ]),
+        ("Thought, as vehicle", [
+            "the mind&rsquo;s restlessness,",
+            "carried by vitakka",
+        ]),
+        ("A near-twin ahead", [
+            "SN 1.65 asks again,",
+            "framed around bonds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.64/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.63.html">SN 1.63 &middot; Craving</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.62.html">SN 1.62 &middot; Mind</a> &mdash; the earlier '
+        "discourse naming the mind as the agent this discourse&rsquo;s vehicle, "
+        "thought, carries along.",
+        "SN 1.65 &middot; Bonds &mdash; the next discourse, an almost identical "
+        "riddle framed around bonds rather than fetters.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.65 — Bandhanasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 65, "Bandhana", "Bonds",
+    meta_title="SN 1.65 — Bonds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bandhanasutta — an almost identical companion to SN 1.64, asking what binds "
+        "the world and answering with the same three terms: delight, thought, and "
+        "craving. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, nearly identical to SN 1.64's, answered by "
+                 "the same three terms"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("A near-twin of SN 1.64", "The closest pairing in this vagga so far, "
+                                   "differing mainly in vocabulary rather than "
+                                   "content"),
+    ],
+    why=(
+        "This discourse asks almost exactly what SN 1.64 asked, immediately before "
+        "it, replacing &lsquo;fetters&rsquo; with &lsquo;binds&rsquo; and "
+        "&lsquo;extinguishment&rsquo; with &lsquo;all bonds severed&rsquo; in its "
+        "final line. The answer is the same in substance: delight binds the world, "
+        "it travels about by means of thought, and giving up craving is what severs "
+        "every bond."),
+    guide=[
+        ("Two verbs for the same underlying claim", [
+            "<em>Saṃyojana</em>, &lsquo;fetter,&rsquo; and <em>bandhana</em>, "
+            "&lsquo;bond,&rsquo; are close synonyms in Pāli, both describing something "
+            "that holds a being in place. This discourse's shift in vocabulary from "
+            "SN 1.64's doesn't introduce new content so much as offer a second word "
+            "for the identical underlying image."]),
+        ("The same three-part answer, framed differently at its close", [
+            "Delight still binds the world, thought is still the vehicle of its "
+            "restless movement, and craving given up is still what accomplishes the "
+            "resolution &mdash; only now framed as the severing of bonds rather than "
+            "as extinguishment itself. The two framings describe the same event from "
+            "two related angles: what is achieved (extinguishment) and what happens "
+            "to what previously held (bonds severed)."]),
+        ("The closest pairing yet in this vagga", [
+            "Where SN 1.62 and SN 1.63 share an identical question but genuinely "
+            "different answers, and SN 1.55 through SN 1.57 share three lines while "
+            "varying a fourth, this pair goes further still: nearly every element of "
+            "both question and answer is shared, with only the surface vocabulary "
+            "differing between the two discourses."]),
+    ],
+    terms=[
+        ("bandhana",
+         "&ldquo;bond&rdquo; &mdash; this discourse's title, a close synonym of SN "
+         "1.64's <em>saṃyojana</em>, &lsquo;fetter.&rsquo;"),
+        ("nandi bandhanaṁ loko",
+         "&ldquo;delight binds the world&rdquo; &mdash; identical in substance to SN "
+         "1.64's opening answer, with 'binds' replacing 'fetters.'"),
+        ("vitakkassa vicaraṇaṁ",
+         "&ldquo;it travels about by means of thought&rdquo; &mdash; shared exactly "
+         "with SN 1.64's second answer."),
+        ("sabbāni bandhanāni pamuccati",
+         "&ldquo;all bonds are severed&rdquo; &mdash; the closing claim, framing the "
+         "same resolution SN 1.64 called 'extinguishment' as the loosening of every "
+         "bond."),
+        ("taṇhāya vippahānena",
+         "&ldquo;with the giving up of craving&rdquo; &mdash; shared exactly with SN "
+         "1.64's closing condition."),
+    ],
+    text_intro=(
+        "The discourse in full: SN 1.64's near-identical companion, framed around "
+        "bonds rather than fetters. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.65:1.1-1.4"),
+        ("p", "&sect;2", "sn1.65:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's question compare to SN 1.64's?",
+         "opts": [
+             "Nearly identical, replacing 'fetters' with 'binds' and 'extinguishment' with 'all bonds severed'",
+             "Completely unrelated in every respect",
+             "Identical in every single word with no variation at all",
+             "The exact opposite question"],
+         "correct": 0,
+         "expl": "The closest pairing yet in this vagga."},
+        {"q": "What does this discourse name as what binds the world?",
+         "opts": [
+             "Delight (nandi), the same answer as SN 1.64's fetter",
+             "The mind alone",
+             "A completely different answer from SN 1.64",
+             "Craving directly, with no mention of delight"],
+         "correct": 0,
+         "expl": "The same substance as SN 1.64, with 'binds' replacing 'fetters.'"},
+        {"q": "What relationship do 'saṃyojana' and 'bandhana' have in Pāli?",
+         "opts": [
+             "Close synonyms, both describing something that holds a being in place",
+             "Direct opposites with no relationship at all",
+             "Unrelated technical terms from entirely different contexts",
+             "The same word spelled two different ways"],
+         "correct": 0,
+         "expl": "A shift in vocabulary, not a shift in content."},
+        {"q": "How does this discourse's closing line frame the same resolution SN 1.64 called 'extinguishment'?",
+         "opts": [
+             "As all bonds being severed",
+             "As all bonds being tightened",
+             "As nothing changing at all",
+             "This discourse doesn't address the same resolution"],
+         "correct": 0,
+         "expl": "Two related framings of the same underlying event."},
+        {"q": "What does 'vitakkassa vicaraṇaṁ' mean, shared exactly with SN 1.64?",
+         "opts": [
+             "'It travels about by means of thought'",
+             "'It stands perfectly still'",
+             "'It travels about by means of craving directly'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "Identical to SN 1.64's second answer."},
+        {"q": "How does this pair compare to SN 1.62 and SN 1.63, or SN 1.55 through SN 1.57?",
+         "opts": [
+             "It shares more between the two discourses than either of those earlier pairs",
+             "It shares less than either of those earlier pairs",
+             "It shares exactly the same amount as SN 1.62 and SN 1.63",
+             "This pair shares nothing at all, unlike those earlier examples"],
+         "correct": 0,
+         "expl": "Nearly every element shared, differing mainly in surface vocabulary."},
+        {"q": "What does 'bandhana' mean?",
+         "opts": [
+             "'Bond'",
+             "'Fetter', identical to saṃyojana with no distinction",
+             "'Freedom'",
+             "'Craving'"],
+         "correct": 0,
+         "expl": "This discourse's title, a close synonym of SN 1.64's central term."},
+        {"q": "What condition does this discourse's closing line name for severing all bonds?",
+         "opts": [
+             "The giving up of craving",
+             "The giving up of delight, distinct from craving",
+             "No condition is named",
+             "The giving up of thought entirely"],
+         "correct": 0,
+         "expl": "Shared exactly with SN 1.64's closing condition."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "What do the two framings, 'extinguishment' and 'all bonds severed', describe together?",
+         "opts": [
+             "The same event from two related angles: what is achieved, and what happens to what previously held",
+             "Two completely unrelated spiritual events",
+             "A contradiction between SN 1.64 and this discourse",
+             "Neither framing describes anything real"],
+         "correct": 0,
+         "expl": "Complementary descriptions of a single underlying resolution."},
+    ],
+    marginalia=[
+        ("A near-identical question", [
+            "fetters, or binds &mdash;",
+            "the same underlying claim",
+        ]),
+        ("The same three answers", [
+            "delight, thought,",
+            "and craving given up",
+        ]),
+        ("Two words, one image", [
+            "saṃyojana, bandhana &mdash;",
+            "close synonyms in Pāli",
+        ]),
+        ("The closest pairing yet", [
+            "nearly every element shared,",
+            "vocabulary the only shift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.65/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.64.html">SN 1.64 &middot; Fetter</a> &mdash; the discourse '
+        "immediately before this one, and this discourse&rsquo;s near-twin.",
+        '<a href="sn-1.19.html">SN 1.19 &middot; Little Hut</a> &mdash; an earlier '
+        "discourse also naming craving directly as a bandhana, 'shackle.'",
+        "SN 1.66 &middot; Beaten Down &mdash; the next discourse, on death, old age, "
+        "craving, and desire as four separate afflictions.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.66 — Attahatasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 66, "Attahata", "Beaten Down",
+    meta_title="SN 1.66 — Beaten Down | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Attahatasutta — a four-part riddle naming death, old age, craving, and "
+        "desire as four separate afflictions beating down, surrounding, wounding, "
+        "and inflaming the world. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply "
+                 "naming four separate afflictions"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "the first discourse in this vagga to name four distinct "
+                       "afflictions rather than one single governing force"),
+        ("A shift from one answer to four", "Unlike SN 1.61 through SN 1.65, each "
+                                            "naming one candidate, this discourse "
+                                            "names four separate afflictions at once"),
+    ],
+    why=(
+        "This discourse asks about the world's affliction from four separate angles: "
+        "by what is it beaten down, by what surrounded, what dart has laid it low, "
+        "and with what is it always fuming? Rather than a single unifying answer, the "
+        "reply names four distinct culprits: death beats the world down, old age "
+        "surrounds it, the dart of craving has already struck it, and desire is what "
+        "keeps it constantly inflamed."),
+    guide=[
+        ("A shift from one governing force to four separate wounds", [
+            "SN 1.61 through SN 1.65 each proposed a single answer &mdash; name, "
+            "mind, craving, delight &mdash; to a unified question about what governs "
+            "the world. This discourse changes the shape of the inquiry, asking about "
+            "four distinct kinds of affliction rather than seeking one master cause."]),
+        ("A military image: a dart already thrown", [
+            "The verse's most vivid image names craving specifically as a "
+            "&lsquo;dart&rsquo; (<em>salla</em>) that has &lsquo;laid the world "
+            "low&rsquo; &mdash; not an ongoing process but a strike already delivered, "
+            "its damage already done, distinct from old age and death's more gradual "
+            "encroachment."]),
+        ("Desire as a smoldering, continuous fire", [
+            "Where the dart of craving describes a single decisive wound, the "
+            "verse's closing image of the world &lsquo;always fuming&rsquo; with "
+            "desire (<em>icchā</em>) pictures something ongoing and low-grade rather "
+            "than a single strike &mdash; two different textures of the same broad "
+            "family of afflictions."]),
+        ("Four terms, closely related to this vagga's earlier candidates", [
+            "Craving and desire here overlap closely with terms already central to "
+            "SN 1.62 through SN 1.65's investigation, while death and old age recall "
+            "this collection's much earlier concern with impermanence, from SN 1.3 "
+            "and SN 1.4 through the whole of the Jarāvagga. This discourse gathers "
+            "several of this collection's recurring threats into one compact list."]),
+    ],
+    terms=[
+        ("attahata",
+         "&ldquo;beaten down&rdquo; &mdash; this discourse's title, describing the "
+         "world's condition under the four afflictions named."),
+        ("maccunābhihato loko",
+         "&ldquo;the world is beaten down by death&rdquo; &mdash; the first "
+         "affliction, naming death's decisive blow."),
+        ("jarāya parivārito",
+         "&ldquo;surrounded by old age&rdquo; &mdash; the second affliction, "
+         "describing a gradual encirclement rather than a single strike."),
+        ("taṇhāsallena otiṇṇo",
+         "&ldquo;the dart of craving has laid it low&rdquo; &mdash; the third "
+         "affliction, a vivid image of a wound already delivered."),
+        ("icchādhūpāyito sadā",
+         "&ldquo;always fuming with desire&rdquo; &mdash; the fourth affliction, "
+         "describing a low, continuous burning rather than a single decisive event."),
+    ],
+    text_intro=(
+        "The discourse in full: four separate afflictions, each described with a "
+        "distinct image. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.66:1.1-1.4"),
+        ("p", "&sect;2", "sn1.66:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from SN 1.61 through SN 1.65?",
+         "opts": [
+             "It names four separate afflictions rather than seeking one unifying answer",
+             "It uses exactly the same single-answer structure as those discourses",
+             "It contains no riddle at all",
+             "It repeats SN 1.61's answer about name exactly"],
+         "correct": 0,
+         "expl": "A shift in the shape of the inquiry itself."},
+        {"q": "What does the reply name as what beats the world down?",
+         "opts": [
+             "Death",
+             "Old age",
+             "Craving",
+             "Desire"],
+         "correct": 0,
+         "expl": "The first of four distinct afflictions named."},
+        {"q": "What image does the verse use for craving specifically?",
+         "opts": [
+             "A dart that has already laid the world low",
+             "A gentle breeze",
+             "A slowly rising tide",
+             "No image is used for craving"],
+         "correct": 0,
+         "expl": "A single decisive strike, its damage already done."},
+        {"q": "How does the image for desire differ from the image for craving?",
+         "opts": [
+             "Desire is described as an ongoing, low-grade fuming rather than a single decisive strike",
+             "The two images are identical with no distinction",
+             "Desire is described as entirely harmless",
+             "No image at all is given for desire"],
+         "correct": 0,
+         "expl": "Two different textures within the same broad family of afflictions."},
+        {"q": "What does the reply name as surrounding the world?",
+         "opts": [
+             "Old age",
+             "Death",
+             "Wisdom",
+             "Faith"],
+         "correct": 0,
+         "expl": "A gradual encirclement, distinct from death's more decisive blow."},
+        {"q": "How do craving and desire in this discourse relate to earlier discourses in this vagga?",
+         "opts": [
+             "They overlap closely with terms already central to SN 1.62 through SN 1.65",
+             "They are entirely new terms never mentioned before in this vagga",
+             "They directly contradict SN 1.63's treatment of craving",
+             "This discourse denies craving has any effect on the world"],
+         "correct": 0,
+         "expl": "This discourse gathers several recurring threats into one compact list."},
+        {"q": "What earlier part of this collection does the mention of old age and death recall?",
+         "opts": [
+             "SN 1.3 and SN 1.4, and the whole Jarāvagga",
+             "SN 1.44, on one root",
+             "SN 1.48, praising Sāriputta",
+             "No earlier part of this collection addresses old age or death"],
+         "correct": 0,
+         "expl": "A much earlier concern with impermanence, gathered here alongside newer threats."},
+        {"q": "What does 'attahata' mean?",
+         "opts": [
+             "'Beaten down'",
+             "'Freed, liberated'",
+             "'Untouched'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "This discourse's title, describing the world's condition."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many distinct afflictions does this discourse's reply name?",
+         "opts": [
+             "Four",
+             "One",
+             "Ten",
+             "Two"],
+         "correct": 0,
+         "expl": "Death, old age, craving, and desire, each with its own distinct image."},
+    ],
+    marginalia=[
+        ("Four afflictions, not one", [
+            "a shift in the inquiry &mdash;",
+            "no single governing force",
+        ]),
+        ("Death and old age", [
+            "beating down, surrounding &mdash;",
+            "the world&rsquo;s oldest threats",
+        ]),
+        ("A dart, already thrown", [
+            "craving&rsquo;s single strike,",
+            "damage already done",
+        ]),
+        ("A slow, constant fire", [
+            "desire, always fuming &mdash;",
+            "a different texture of harm",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.66/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.65.html">SN 1.65 &middot; Bonds</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.3.html">SN 1.3 &middot; Led On</a> &mdash; an earlier discourse '
+        "in this collection also naming old age and death as the world's peril.",
+        "SN 1.67 &middot; Ensnared &mdash; the next discourse, naming a new set of "
+        "four claims about the world, later reordered word for word at SN 1.68.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.67 — Uḍḍitasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 67, "Uḍḍita", "Ensnared",
+    meta_title="SN 1.67 — Ensnared | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Uḍḍitasutta — a four-part riddle naming craving as what ensnares the world, "
+        "old age as what surrounds it, mortality as what fastens it shut, and "
+        "suffering as its ground. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "introducing a set of four claims reused precisely in the "
+                       "discourse immediately following"),
+        ("Set up for an exact reordering", "SN 1.68, immediately after, presents "
+                                           "these same four claims with their two "
+                                           "pairs swapped in position"),
+    ],
+    why=(
+        "This discourse names four separate claims about the world's condition: "
+        "craving ensnares it, old age surrounds it, mortality fastens it shut, and "
+        "suffering is what it's grounded on. Together the four answers build a "
+        "composite picture &mdash; not one governing force, as in SN 1.61 through SN "
+        "1.65, but four distinct relationships between the world and what afflicts "
+        "it."),
+    guide=[
+        ("Four verbs, four distinct relationships", [
+            "Each answer uses a different verb to describe a different kind of "
+            "affliction: <em>uḍḍita</em>, &lsquo;ensnared,&rsquo; suggests a trap; "
+            "<em>parivārita</em>, &lsquo;surrounded,&rsquo; suggests encirclement; "
+            "<em>pihita</em>, &lsquo;fastened shut,&rsquo; suggests confinement; and "
+            "grounding (<em>patiṭṭhita</em>) suggests a foundation rather than an "
+            "external threat at all."]),
+        ("Suffering as ground, not merely as a threat", [
+            "The verse's final answer is structurally different from its first "
+            "three: rather than naming another external force acting on the world, it "
+            "names suffering as what the world is <em>grounded on</em> &mdash; treating "
+            "suffering not as one threat among several but as the very foundation "
+            "the other three afflictions operate within."]),
+        ("A set of four claims about to be precisely rearranged", [
+            "This discourse's four question-and-answer pairs recur in the next "
+            "discourse, SN 1.68, with their order changed in a specific way: rather "
+            "than a simple reversal, the two halves of the sequence swap places as "
+            "blocks &mdash; the third and fourth claims here become the first and "
+            "second there, and vice versa. This is a new kind of textual play in this "
+            "collection, distinct from single-word substitution or cumulative "
+            "addition."]),
+    ],
+    terms=[
+        ("uḍḍita",
+         "&ldquo;ensnared&rdquo; &mdash; this discourse's title, and the image "
+         "applied to craving's hold on the world."),
+        ("taṇhuḍḍito loko",
+         "&ldquo;craving has ensnared the world&rdquo; &mdash; the first answer, "
+         "picturing a trap rather than a burden or wound."),
+        ("jarāya parivārito",
+         "&ldquo;surrounded by old age&rdquo; &mdash; the second answer, shared "
+         "exactly with SN 1.66's second claim."),
+        ("maccunā pihito loko",
+         "&ldquo;the world is fastened shut by mortality&rdquo; &mdash; the third "
+         "answer, picturing confinement rather than a trap."),
+        ("dukkhe loko patiṭṭhito",
+         "&ldquo;the world is grounded on suffering&rdquo; &mdash; the fourth answer, "
+         "naming a foundation rather than an external threat."),
+    ],
+    text_intro=(
+        "The discourse in full: four distinct relationships between the world and "
+        "what afflicts it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.67:1.1-1.4"),
+        ("p", "&sect;2", "sn1.67:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four claims does this discourse's reply make about the world?",
+         "opts": [
+             "Craving ensnares it, old age surrounds it, mortality fastens it shut, and suffering grounds it",
+             "Name overcomes it, mind leads it, craving drags it, delight fetters it",
+             "Death beats it down, old age surrounds it, craving's dart strikes it, desire inflames it",
+             "The world arose in six, gets intimate with six"],
+         "correct": 0,
+         "expl": "Four distinct relationships between the world and what afflicts it."},
+        {"q": "What image does 'uḍḍita' suggest, applied to craving?",
+         "opts": [
+             "A trap that ensnares",
+             "A gentle guide",
+             "A protective shelter",
+             "A source of nourishment"],
+         "correct": 0,
+         "expl": "This discourse's title and its central image for craving's hold."},
+        {"q": "How does the fourth answer, about suffering, differ structurally from the first three?",
+         "opts": [
+             "It names suffering as a foundation the world is grounded on, not merely another external threat",
+             "It is identical in structure to the first three answers",
+             "It denies suffering has any relationship to the world at all",
+             "It repeats the first answer about craving exactly"],
+         "correct": 0,
+         "expl": "A shift from external affliction to foundational condition."},
+        {"q": "What happens to this discourse's four claims in SN 1.68, immediately following it?",
+         "opts": [
+             "They recur with the two halves of the sequence swapped as blocks",
+             "They are contradicted entirely",
+             "They are repeated in the exact same order with no change",
+             "They do not appear again anywhere in this collection"],
+         "correct": 0,
+         "expl": "A precise, structured reordering, not a simple reversal or repetition."},
+        {"q": "What does 'pihito' mean, describing the world's relationship to mortality?",
+         "opts": [
+             "'Fastened shut', suggesting confinement",
+             "'Opened wide', suggesting freedom",
+             "'Ensnared', the same image used for craving",
+             "'Surrounded', the same image used for old age"],
+         "correct": 0,
+         "expl": "A third, distinct image among this discourse's four verbs."},
+        {"q": "How many distinct verbs does this discourse use to describe the world's four afflictions?",
+         "opts": [
+             "Four, each describing a different kind of relationship",
+             "One verb repeated four times",
+             "Two verbs alternating",
+             "No verbs are used at all"],
+         "correct": 0,
+         "expl": "Ensnared, surrounded, fastened shut, and grounded &mdash; four distinct images."},
+        {"q": "What claim does this discourse share exactly with SN 1.66?",
+         "opts": [
+             "That old age surrounds the world",
+             "That craving is a dart that has struck the world",
+             "That desire keeps the world fuming",
+             "No claim is shared between the two discourses"],
+         "correct": 0,
+         "expl": "The same image of old age's encirclement appears in both discourses."},
+        {"q": "What does 'dukkhe loko patiṭṭhito' mean?",
+         "opts": [
+             "'The world is grounded on suffering'",
+             "'The world is free of all suffering'",
+             "'Suffering is grounded on the world'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The verse's fourth and final answer."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Is the reordering in SN 1.68 a simple reversal of this discourse's four claims?",
+         "opts": [
+             "No &mdash; the two halves of the sequence swap places as blocks, not a full reversal",
+             "Yes, the exact reverse order is used",
+             "SN 1.68 does not reorder these claims at all",
+             "SN 1.68 uses a completely random, unstructured order"],
+         "correct": 0,
+         "expl": "A specific, structured transformation distinct from simple reversal."},
+    ],
+    marginalia=[
+        ("Four claims, four images", [
+            "ensnared, surrounded,",
+            "fastened shut, grounded",
+        ]),
+        ("Craving, as a trap", [
+            "uḍḍita &mdash;",
+            "not a wound, a snare",
+        ]),
+        ("Suffering, as foundation", [
+            "not one threat among many,",
+            "but what the world stands on",
+        ]),
+        ("Set up for reordering", [
+            "the same four claims,",
+            "rearranged next at SN 1.68",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.67/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.66.html">SN 1.66 &middot; Beaten Down</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.27.html">SN 1.27 &middot; Streams</a> &mdash; an earlier '
+        "discourse in this collection also naming what the world is grounded in.",
+        "SN 1.68 &middot; Fastened Shut &mdash; the next discourse, this "
+        "discourse&rsquo;s four claims reordered precisely.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.68 — Pihitasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 68, "Pihita", "Fastened Shut",
+    meta_title="SN 1.68 — Fastened Shut | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pihitasutta — SN 1.67's exact four claims, reordered so its two halves "
+        "swap places, on mortality, suffering, craving, and old age. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, using SN 1.67's exact four claims in a "
+                 "rearranged order"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "notable chiefly for its precise structural relationship to "
+                       "SN 1.67"),
+        ("A block-swap, not a full reversal", "The third and fourth claims of SN "
+                                              "1.67 become this discourse's first and "
+                                              "second, with the original first and "
+                                              "second following after"),
+    ],
+    why=(
+        "This discourse asks the identical four questions as SN 1.67, immediately "
+        "before it, but in a rearranged sequence: what fastens the world shut, what "
+        "it's grounded on, what ensnares it, and what surrounds it &mdash; the third "
+        "and fourth items from SN 1.67 moved to the front, with the original first "
+        "and second following. The answers move in exactly the same rearranged "
+        "order: mortality, suffering, craving, old age."),
+    guide=[
+        ("The same four claims, precisely rearranged", [
+            "Every one of this discourse's four claims &mdash; mortality fastens the "
+            "world shut, suffering grounds it, craving ensnares it, old age surrounds "
+            "it &mdash; is word for word identical to one of SN 1.67's four claims. "
+            "Nothing new is introduced; only the sequence changes."]),
+        ("A block swap, described precisely", [
+            "The rearrangement isn't a simple reversal, which would run the four "
+            "claims backward one at a time. Instead, the second half of SN 1.67's "
+            "sequence (mortality, suffering) moves to the front as a unit, followed by "
+            "the first half (craving, old age) as a second unit &mdash; two pairs "
+            "swapping positions as blocks rather than four items being individually "
+            "reversed."]),
+        ("What this kind of exact pairing accomplishes", [
+            "Reading SN 1.67 and this discourse together demonstrates that the four "
+            "claims themselves don't depend on any particular sequence to make sense "
+            "&mdash; craving, old age, mortality, and suffering are presented as a "
+            "single interlocking picture of the world's condition, whichever order "
+            "they're recited in."]),
+        ("A distinct kind of repetition within this collection", [
+            "This exact reordering &mdash; not adding, not substituting, but "
+            "rearranging identical content &mdash; is a new variety of the "
+            "repetition this collection has used throughout, joining single-word "
+            "substitution (SN 1.7/1.8), cumulative addition (SN 1.33), and shared "
+            "questions with different answers (SN 1.62/1.63) as another way two "
+            "adjacent discourses can closely mirror each other."]),
+    ],
+    terms=[
+        ("pihita",
+         "&ldquo;fastened shut&rdquo; &mdash; this discourse's title, and its first "
+         "answer, identical to SN 1.67's third claim."),
+        ("maccunā pihito loko",
+         "&ldquo;the world is fastened shut by mortality&rdquo; &mdash; word for "
+         "word identical to SN 1.67's third answer, now moved to first position."),
+        ("dukkhe loko patiṭṭhito",
+         "&ldquo;the world is grounded on suffering&rdquo; &mdash; identical to SN "
+         "1.67's fourth answer, now moved to second position."),
+        ("taṇhuḍḍito loko",
+         "&ldquo;craving has ensnared the world&rdquo; &mdash; identical to SN "
+         "1.67's first answer, now moved to third position."),
+        ("jarāya parivārito",
+         "&ldquo;surrounded by old age&rdquo; &mdash; identical to SN 1.67's second "
+         "answer, now moved to fourth position."),
+    ],
+    text_intro=(
+        "The discourse in full: SN 1.67's exact four claims, with the sequence's "
+        "two halves swapped. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.68:1.1-1.4"),
+        ("p", "&sect;2", "sn1.68:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to SN 1.67's?",
+         "opts": [
+             "Word for word identical, but presented in a rearranged order",
+             "Completely different content with no overlap",
+             "Identical content in the exact same order",
+             "Only two of the four claims are shared"],
+         "correct": 0,
+         "expl": "Every claim is shared; only the sequence changes."},
+        {"q": "What comes first in this discourse's sequence, unlike SN 1.67's?",
+         "opts": [
+             "Mortality fastening the world shut, which was third in SN 1.67",
+             "Craving ensnaring the world, which was also first in SN 1.67",
+             "Old age surrounding the world, which was also second in SN 1.67",
+             "Nothing changes position between the two discourses"],
+         "correct": 0,
+         "expl": "SN 1.67's third and fourth claims move to first and second position here."},
+        {"q": "Is this rearrangement a simple reversal of SN 1.67's order?",
+         "opts": [
+             "No &mdash; the second half moves to the front as a block, followed by the first half as a second block",
+             "Yes, exactly the reverse order is used",
+             "The order is completely random with no discernible pattern",
+             "No rearrangement actually occurs between the two discourses"],
+         "correct": 0,
+         "expl": "A block swap, not an item-by-item reversal."},
+        {"q": "What does reading SN 1.67 and this discourse together demonstrate?",
+         "opts": [
+             "That the four claims form a single interlocking picture, coherent regardless of sequence",
+             "That the four claims contradict each other depending on order",
+             "That only one of the two orderings is actually correct",
+             "That the claims have no meaningful relationship to each other"],
+         "correct": 0,
+         "expl": "The content's coherence doesn't depend on any one particular sequence."},
+        {"q": "What other kinds of close repetition has this collection already used?",
+         "opts": [
+             "Single-word substitution, cumulative addition, and shared questions with different answers",
+             "No other kind of repetition appears anywhere in this collection",
+             "Only this exact block-swap pattern has ever appeared before",
+             "This collection never repeats content between discourses"],
+         "correct": 0,
+         "expl": "This block-swap joins several other varieties already met earlier in this collection."},
+        {"q": "What does 'pihita' mean?",
+         "opts": [
+             "'Fastened shut'",
+             "'Opened wide'",
+             "'Ensnared'",
+             "'Surrounded'"],
+         "correct": 0,
+         "expl": "This discourse's title, matching SN 1.67's third answer moved to first position."},
+        {"q": "Does this discourse introduce any new content not already present in SN 1.67?",
+         "opts": [
+             "No &mdash; every claim is identical, only the order differs",
+             "Yes, an entirely new fifth claim is added",
+             "Yes, one of the four claims is replaced with something new",
+             "The two discourses share no content at all"],
+         "correct": 0,
+         "expl": "A pure reordering, with nothing new introduced."},
+        {"q": "What position does 'craving ensnares the world' occupy in this discourse, compared to SN 1.67?",
+         "opts": [
+             "Third here, having been first in SN 1.67",
+             "First here, the same as in SN 1.67",
+             "Fourth here, having been second in SN 1.67",
+             "It doesn't appear in this discourse at all"],
+         "correct": 0,
+         "expl": "Part of the second block moved to the rear of this discourse's sequence."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many of this discourse's four claims are shared exactly with SN 1.67?",
+         "opts": [
+             "All four",
+             "None",
+             "Only two",
+             "Only one"],
+         "correct": 0,
+         "expl": "A complete overlap in content, differing only in sequence."},
+    ],
+    marginalia=[
+        ("The same four claims", [
+            "nothing new introduced,",
+            "only the order shifts",
+        ]),
+        ("A block swap", [
+            "the second half moves first,",
+            "then the first half follows",
+        ]),
+        ("Coherent, either way", [
+            "one interlocking picture,",
+            "regardless of sequence",
+        ]),
+        ("A new variety of repetition", [
+            "joining substitution, addition,",
+            "and shared questions before it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.68/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.67.html">SN 1.67 &middot; Ensnared</a> &mdash; the discourse '
+        "immediately before this one, sharing every claim in a different order.",
+        '<a href="sn-1.7.html">SN 1.7 &middot; Not Comprehending</a> &mdash; this '
+        "collection&rsquo;s earlier example of single-word substitution between "
+        "adjacent discourses.",
+        "SN 1.69 &middot; Desire &mdash; the next discourse, on desire specifically "
+        "as what binds and frees the world.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.69 — Icchāsutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 69, "Icchā", "Desire",
+    meta_title="SN 1.69 — Desire | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Icchāsutta — a three-part riddle naming desire as what binds the world, "
+        "with its removal alone naming what frees it and severs every bond. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply, "
+                 "naming the same term throughout"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "the most single-mindedly focused riddle in this vagga"),
+        ("A single term, three times", "Unlike SN 1.64 and SN 1.65's three distinct "
+                                       "terms, this discourse's question and answer "
+                                       "both use the same word throughout"),
+    ],
+    why=(
+        "This discourse asks three related questions, all pointing at the same "
+        "underlying concern: what binds the world, by removing what is it freed, and "
+        "with the giving up of what are all bonds severed? Unlike SN 1.64 and SN "
+        "1.65, which named delight as the fetter and craving as what must be "
+        "relinquished, this discourse answers all three questions with a single term: "
+        "desire (<em>icchā</em>)."),
+    guide=[
+        ("One term, not a chain of related concepts", [
+            "Where SN 1.64 and SN 1.65 distinguished delight (what fetters) from "
+            "craving (what must be given up), this discourse collapses the whole "
+            "sequence into a single term. Desire both binds the world and is what "
+            "must be removed for it to be freed &mdash; cause and cure named "
+            "identically rather than through two related but distinct concepts."]),
+        ("A term already met earlier in this vagga", [
+            "<em>Icchā</em> already appeared at SN 1.66, describing the world as "
+            "&lsquo;always fuming&rsquo; with desire. This discourse returns to the "
+            "same term and makes it the sole subject of an entire riddle, rather than "
+            "one item among several afflictions."]),
+        ("The simplest possible answer to this vagga's governing question", [
+            "Across SN 1.61 through SN 1.68, this vagga has proposed name, mind, "
+            "craving, delight, and combinations of mortality, old age, and suffering "
+            "as what binds or governs the world. This discourse's single, unadorned "
+            "answer &mdash; desire, named three times without variation &mdash; is "
+            "the most economical formulation the vagga has offered so far."]),
+    ],
+    terms=[
+        ("icchā",
+         "&ldquo;desire, wish&rdquo; &mdash; this discourse's title, and its sole "
+         "answer across all three of its questions."),
+        ("icchā loke bandhati",
+         "&ldquo;desire is what binds the world&rdquo; &mdash; the verse's first "
+         "answer, using the same verb already met at SN 1.65."),
+        ("icchāvinayena muccati",
+         "&ldquo;by the removing of desire it's freed&rdquo; &mdash; the second "
+         "answer, naming removal of the exact same term as the cause of freedom."),
+        ("icchāya vippahānena",
+         "&ldquo;with the giving up of desire&rdquo; &mdash; the third answer, "
+         "again using the identical term for what severs all bonds."),
+        ("icchādhūpāyito",
+         "&ldquo;fuming with desire&rdquo; &mdash; the earlier appearance of this "
+         "same term at SN 1.66, describing the world's ongoing affliction."),
+    ],
+    text_intro=(
+        "The discourse in full: a single term, named three times, as both the "
+        "world's bondage and its release. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.69:1.1-1.4"),
+        ("p", "&sect;2", "sn1.69:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single term does this discourse's reply use across all three of its answers?",
+         "opts": [
+             "Desire (icchā)",
+             "Craving (taṇhā)",
+             "Delight (nandi)",
+             "Mind (citta)"],
+         "correct": 0,
+         "expl": "One term, not a chain of related but distinct concepts."},
+        {"q": "How does this discourse differ from SN 1.64 and SN 1.65 in its use of terms?",
+         "opts": [
+             "It uses a single term for both what binds and what must be given up, rather than two distinct terms",
+             "It uses exactly the same three terms as those two discourses",
+             "It denies that anything binds the world at all",
+             "It uses four different terms instead of one"],
+         "correct": 0,
+         "expl": "Cause and cure named identically here, unlike SN 1.64 and SN 1.65's delight-and-craving distinction."},
+        {"q": "Where did this discourse's central term already appear earlier in this vagga?",
+         "opts": [
+             "SN 1.66, describing the world as 'always fuming' with desire",
+             "SN 1.61, naming what overcomes everything",
+             "SN 1.62, naming what leads the world on",
+             "This term appears nowhere else in this vagga"],
+         "correct": 0,
+         "expl": "One item among several afflictions there; the sole subject of an entire riddle here."},
+        {"q": "What does the reply say happens when desire is removed?",
+         "opts": [
+             "The world is freed",
+             "The world becomes more tightly bound",
+             "Nothing changes at all",
+             "A new, stronger bond forms"],
+         "correct": 0,
+         "expl": "Icchāvinayena muccati &mdash; removal of the same term named as the cause of binding."},
+        {"q": "How does this discourse compare to this vagga's earlier candidates for what governs the world?",
+         "opts": [
+             "It offers the most economical, single-term answer of any discourse in this vagga so far",
+             "It rejects every earlier candidate as false",
+             "It combines all earlier candidates into one long list",
+             "It contradicts SN 1.66's mention of desire entirely"],
+         "correct": 0,
+         "expl": "Named three times without variation, the simplest formulation offered so far."},
+        {"q": "What does 'icchā loke bandhati' mean?",
+         "opts": [
+             "'Desire is what binds the world'",
+             "'The world is what binds desire'",
+             "'Desire has no effect on the world'",
+             "'Craving is what binds the world'"],
+         "correct": 0,
+         "expl": "This discourse's opening answer."},
+        {"q": "What three questions does this discourse's riddle ask, all pointing at one concern?",
+         "opts": [
+             "What binds the world, what frees it by removal, and what severs all bonds when given up",
+             "What overcomes everything, what nothing excels, and what has everything under its sway",
+             "What is beaten down, surrounded, struck, and fuming",
+             "In what has the world arisen and with what does it get intimate"],
+         "correct": 0,
+         "expl": "Three angles on the same underlying question, all answered with 'desire.'"},
+        {"q": "What does 'icchāvinayena muccati' mean?",
+         "opts": [
+             "'By the removing of desire it's freed'",
+             "'By increasing desire it's freed'",
+             "'Nothing can ever free the world'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The second of this discourse's three parallel answers."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many distinct terms appear in this discourse's answer, compared to SN 1.64's three?",
+         "opts": [
+             "One, repeated three times",
+             "Three, matching SN 1.64 exactly",
+             "Five, more than any other discourse in this vagga",
+             "None; no answer is given"],
+         "correct": 0,
+         "expl": "The most single-minded riddle in this vagga's whole sequence."},
+    ],
+    marginalia=[
+        ("One term, three times", [
+            "icchā binds,",
+            "icchā removed frees",
+        ]),
+        ("Cause and cure, identical", [
+            "not two related concepts &mdash;",
+            "the same word for both",
+        ]),
+        ("A term returning", [
+            "already met at SN 1.66,",
+            "now the sole subject",
+        ]),
+        ("The simplest answer yet", [
+            "after name, mind, craving &mdash;",
+            "desire, unadorned",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.69/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.68.html">SN 1.68 &middot; Fastened Shut</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.66.html">SN 1.66 &middot; Beaten Down</a> &mdash; the earlier '
+        "discourse where this same term, desire, first appeared in this vagga.",
+        "SN 1.70 &middot; The World &mdash; the next discourse, this vagga's last, "
+        "answering every earlier riddle with a concrete doctrinal foundation: the "
+        "six sense bases.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.70 — Lokasutta (closes the Addhavagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 70, "Loka", "The World",
+    meta_title="SN 1.70 — The World | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Lokasutta — closing this vagga's whole sequence of riddles on what governs "
+        "the world by naming the six sense bases as where the world arises, gets "
+        "intimate, and is troubled. Closes the Addhavagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in "
+                    "this vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~20 seconds to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; brief in form, "
+                       "carrying real doctrinal weight as this vagga's closing "
+                       "resolution"),
+        ("Closing this vagga", "The tenth and last discourse of the Addhavagga, "
+                               "answering the entire vagga's sequence of riddles "
+                               "with a single concrete doctrinal foundation"),
+    ],
+    why=(
+        "This discourse asks where the world has arisen, what it gets intimate with, "
+        "what grasping produces its trouble, and in what it is troubled. Every "
+        "question receives the identical answer: six. The world has arisen in six, "
+        "gets intimate with six, is derived from six, and is troubled in six &mdash; a "
+        "direct reference to the six sense bases (<em>saḷāyatana</em>: eye, ear, "
+        "nose, tongue, body, and mind), named here as the concrete foundation "
+        "underlying every candidate this vagga has proposed."),
+    guide=[
+        ("A resolution, not another candidate", [
+            "SN 1.61 through SN 1.69 each proposed a candidate for what governs or "
+            "afflicts the world &mdash; name, mind, craving, delight, desire, "
+            "mortality, old age, suffering. This final discourse doesn't add another "
+            "item to that list; it names the concrete basis all of them actually "
+            "operate through: the six sense bases, where contact, feeling, and "
+            "craving all first arise."]),
+        ("The number 'six', repeated without variation", [
+            "Every one of the verse's four lines answers with the same number, in "
+            "the same form, applied to a different aspect of the world's condition "
+            "&mdash; its arising, its intimacy, its derivation, and its trouble all "
+            "trace back to the identical six bases, treated as a single unified "
+            "answer rather than four separate claims."]),
+        ("A preview of territory this larger collection covers at much greater length", [
+            "The six sense bases named here become the entire subject of this "
+            "collection's fourth book, the Saḷāyatanavagga, which this project has "
+            "not yet reached. This discourse's compact riddle-answer anticipates, in "
+            "four lines, a theme the fuller collection eventually treats across dozens "
+            "of discourses."]),
+        ("An untranslated close, as with earlier vaggas", [
+            "As with SN 1.10, SN 1.20, SN 1.30, SN 1.40, SN 1.50, and SN 1.60, this "
+            "discourse is followed in the source text by a closing colophon and a "
+            "mnemonic verse naming the Addhavagga as finished and listing its ten "
+            "titles &mdash; left untranslated in this edition, and described here "
+            "rather than quoted, following this project's established practice."]),
+        ("A seventh vagga closed, its investigation resolved rather than left open", [
+            "Unlike this collection's other vaggas, whose closing discourses tend to "
+            "stand out for length, vividness, or emotional weight, this vagga's close "
+            "is notable instead for functioning as an actual answer: where SN 1.61 "
+            "through SN 1.69 posed nine variations on &lsquo;what governs the "
+            "world,&rsquo; this final discourse supplies the doctrinal ground every "
+            "one of those nine answers was, in different ways, already pointing "
+            "toward."]),
+    ],
+    terms=[
+        ("loka",
+         "&ldquo;the world&rdquo; &mdash; this discourse's title and this vagga's "
+         "recurring subject across all ten of its discourses."),
+        ("saḷāyatana",
+         "the &ldquo;six sense bases&rdquo; &mdash; eye, ear, nose, tongue, body, "
+         "and mind &mdash; the concrete referent behind this discourse's repeated "
+         "answer of &lsquo;six,&rsquo; and the subject of this collection's fourth "
+         "book, not yet reached by this project."),
+        ("chasu loko samuppanno",
+         "&ldquo;the world has arisen in six&rdquo; &mdash; the verse's first "
+         "answer, naming where the world's arising is located."),
+        ("chasu santhavaṁ karoti",
+         "&ldquo;it gets intimate with six&rdquo; &mdash; the second answer, naming "
+         "where the world's engagement happens."),
+        ("chasu loko vihaññati",
+         "&ldquo;the world's troubled in six&rdquo; &mdash; the verse's closing "
+         "answer, tracing the world's affliction back to the same six bases."),
+    ],
+    text_intro=(
+        "The discourse in full, with its untranslated closing colophon and mnemonic "
+        "verse described rather than quoted, as with the vaggas before it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.70:1.1-1.4"),
+        ("p", "&sect;2", "sn1.70:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What single answer does this discourse's reply give to all four of its questions?",
+         "opts": [
+             "Six",
+             "One",
+             "Craving",
+             "The mind"],
+         "correct": 0,
+         "expl": "The same number, applied to arising, intimacy, derivation, and trouble alike."},
+        {"q": "What does 'six' refer to in this discourse's answer?",
+         "opts": [
+             "The six sense bases: eye, ear, nose, tongue, body, and mind",
+             "Six specific named deities",
+             "Six years of ascetic practice",
+             "Six different Buddhas"],
+         "correct": 0,
+         "expl": "Saḷāyatana &mdash; the concrete doctrinal referent behind the verse's repeated number."},
+        {"q": "How does this discourse relate to SN 1.61 through SN 1.69's various candidate answers?",
+         "opts": [
+             "It names the concrete basis those candidates actually operate through, rather than adding another candidate",
+             "It rejects every earlier candidate as completely false",
+             "It repeats SN 1.69's answer of 'desire' exactly",
+             "It has no relationship to any earlier discourse in this vagga"],
+         "correct": 0,
+         "expl": "A resolution rather than another item in the same list."},
+        {"q": "What later part of the wider Saṃyutta Nikāya does this discourse's subject anticipate?",
+         "opts": [
+             "The Saḷāyatanavagga, this collection's fourth book, devoted entirely to the six sense bases",
+             "The Khandhavagga, devoted to the five aggregates",
+             "The Nidānavagga, devoted to dependent origination",
+             "No later part of the collection addresses this subject"],
+         "correct": 0,
+         "expl": "A theme this discourse compresses into four lines, treated at much greater length elsewhere."},
+        {"q": "What follows this discourse in the source text, left untranslated?",
+         "opts": [
+             "A closing colophon and mnemonic verse listing the vagga's ten discourse titles",
+             "An entirely new discourse beginning immediately",
+             "A long prose commentary",
+             "Nothing follows; the source text ends abruptly"],
+         "correct": 0,
+         "expl": "The same pattern already seen at the close of every vagga since the Naḷavagga."},
+        {"q": "How does this vagga's closing discourse differ from most other vaggas' closing discourses in this collection?",
+         "opts": [
+             "It functions as an actual doctrinal answer, rather than standing out chiefly for length or emotional weight",
+             "It is identical in style to every other vagga's closing discourse",
+             "It is the shortest discourse in the entire collection",
+             "It contains no riddle at all, unlike every other closing discourse"],
+         "correct": 0,
+         "expl": "A resolution to this vagga's sustained investigation, distinct from SN 1.50's emotional reunion or SN 1.30's vivid description."},
+        {"q": "What does 'chasu loko samuppanno' mean?",
+         "opts": [
+             "'The world has arisen in six'",
+             "'The world has never arisen at all'",
+             "'Six has arisen in the world'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "This discourse's first answer, naming where the world's arising is located."},
+        {"q": "How many distinct answers does this discourse give across its four questions?",
+         "opts": [
+             "One answer, 'six', repeated across all four questions",
+             "Four completely different answers",
+             "Two answers, alternating",
+             "No answer is given to any question"],
+         "correct": 0,
+         "expl": "A single unified answer applied consistently, unlike SN 1.66's four separate afflictions."},
+        {"q": "What is this discourse's position within the Addhavagga?",
+         "opts": [
+             "It is the tenth and last discourse, closing the vagga",
+             "It is the vagga's first discourse",
+             "It belongs to the previous vagga, the Jarāvagga",
+             "It has no fixed position"],
+         "correct": 0,
+         "expl": "This discourse's own closing colophon marks the Addhavagga as finished."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+    ],
+    marginalia=[
+        ("Nine questions, answered", [
+            "name, mind, craving, delight &mdash;",
+            "now, a single ground",
+        ]),
+        ("Six, repeated four times", [
+            "arisen in six,",
+            "intimate with six",
+        ]),
+        ("The sense bases, named", [
+            "eye, ear, nose, tongue,",
+            "body, and mind",
+        ]),
+        ("A theme met again, later", [
+            "compressed here to four lines,",
+            "the future Saḷāyatanavagga&rsquo;s subject",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.70/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.69.html">SN 1.69 &middot; Desire</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.61.html">SN 1.61 &middot; Name</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, nine discourses back.",
+        '<a href="sn-1.60.html">SN 1.60 &middot; A Poet</a> &mdash; the discourse '
+        "that closed the previous vagga, the Jarāvagga.",
+    ],
+)
