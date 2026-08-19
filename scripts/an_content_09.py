@@ -9891,3 +9891,2052 @@ page(
         "&mdash; previous.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.6 — Khemavagga (AN 9.52-62), opening the Second Fifty. This chapter
+# continues ch.5's Udāyī-to-Ānanda template for its first ten discourses,
+# defining five paired safety-related terms (bare and "reaching" forms) via
+# the same nine-stage qualified-versus-definitive structure. Eight of these
+# ten (AN 9.53-60) are reduced in the source to a single elided line each,
+# the longest such run met anywhere in this project so far. AN 9.62 closes
+# the chapter with an unrelated nine-defilement teaching.
+# --------------------------------------------------------------------------- #
+VAGGA_6 = "<em>Khemavagga</em> &mdash; the sixth chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.52 — Khemasutta — this chapter's own namesake
+# --------------------------------------------------------------------------- #
+page(
+    52, "Khema", "A Safe Place",
+    vagga=VAGGA_6,
+    meta_title="AN 9.52 — A Safe Place | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for A "
+        "Safe Place, this chapter's own namesake, opening a new run of "
+        "the Udāyī-to-Ānanda template — nine safety-related terms "
+        "structured through the same nine attainments. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from the "
+                    "chapter's opening"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The same qualified-versus-definitive template met "
+                 "throughout ch.5, opening a new ten-discourse run"),
+        ("Length", "~1 minute to read"),
+        ("Chapter's namesake, opening a new run of five paired terms",
+         "This discourse names the chapter and opens five pairs of "
+         "terms — safe/reaching safety, deathless/reaching it, "
+         "fearless/reaching it, tranquility/progressive, cessation/"
+         "progressive"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening a chapter that continues ch.5's "
+                       "method almost without a break"),
+    ],
+    why=(
+        "Udāyī asks in what way the Buddha spoke of &lsquo;a safe "
+        "place,&rsquo; and Ānanda answers with the now-familiar nine-"
+        "stage formula: each of the first eight attainments offers a "
+        "safe place in a qualified sense, and only the ninth, the "
+        "cessation of perception and feeling, in a definitive sense."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;a safe place&rsquo; &mdash; in "
+            "a qualified sense at each of the first eight stages, and "
+            "in a definitive sense only upon reaching the cessation of "
+            "perception and feeling."]),
+        ("Continuing ch.5's method without a break", [
+            "This discourse opens a new chapter, but not a new method: "
+            "the identical Udāyī-to-Ānanda question-and-answer "
+            "structure, the identical nine-stage grid, and the "
+            "identical qualified-versus-definitive language carry "
+            "straight over from <em>Sāmaññavagga</em>, now applied to a "
+            "fresh cluster of terms grouped around safety."]),
+        ("A chapter's namesake, and a new run of five pairs", [
+            "This discourse's own term, khema, &ldquo;a safe place,"
+            "&rdquo; names <em>Khemavagga</em> itself. It also opens a "
+            "structured run of five term-pairs that will occupy this "
+            "chapter's first ten discourses: safety and reaching "
+            "safety, freedom from death and reaching it, freedom from "
+            "fear and reaching it, tranquility and progressive "
+            "tranquility, and cessation and progressive cessation."]),
+        ("What follows: the longest run of minimal stubs so far", [
+            "Of the nine discourses following this one, eight (AN 9.53 "
+            "through AN 9.60) are reduced in the source to a single "
+            "elided line each &mdash; the longest such run met anywhere "
+            "in this project, surpassing even the three-discourse run "
+            "at AN 9.48 through AN 9.50. Only AN 9.61, closing the run, "
+            "is given full treatment again."]),
+    ],
+    terms=[
+        ("khemaṁ",
+         "&ldquo;a safe place&rdquo; &mdash; this discourse's own title "
+         "term, naming the chapter and opening this run of five paired "
+         "safety-related terms."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; the shared term "
+         "for each of the first eight attainments, carried over "
+         "directly from ch.5's method."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment alone, as throughout this whole stretch of "
+         "the nipāta."),
+        ("khemappatta",
+         "&ldquo;reaching a safe place&rdquo; &mdash; the paired term "
+         "explored next, at AN 9.53, the first of this chapter's "
+         "minimal stubs."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa "
+         "disvā āsavā parikkhīṇā honti",
+         "&ldquo;enters and remains in the cessation of perception and "
+         "feeling... their defilements come to an end&rdquo; &mdash; "
+         "the shared closing formula for the definitive ninth stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template as "
+        "ch.5, now applied to safety. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A safe place, at each of nine stages"),
+        ("p", "&sect;1", "an9.52:1.1-2.2"),
+        ("p", "&sect;2", "an9.52:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse define, and what chapter "
+              "does it name?",
+         "opts": [
+             "Confinement, naming Sāmaññavagga",
+             "A safe place (khema), naming this chapter, "
+             "Khemavagga",
+             "Cessation, naming no chapter",
+             "Freedom from death, naming ch.7"],
+         "correct": 1,
+         "expl": "This chapter's own namesake, opening a fresh run of "
+                 "paired terms."},
+        {"q": "How does this discourse's method compare to ch.5's?",
+         "opts": [
+             "Entirely different, with a new speaker and structure",
+             "Identical — the same Udāyī-to-Ānanda dialogue and nine-"
+             "stage qualified-versus-definitive grid, applied to new "
+             "terms",
+             "Reversed, with Ānanda now asking Udāyī",
+             "Shortened to only three stages"],
+         "correct": 1,
+         "expl": "A direct continuation of the method established "
+                 "across ch.5."},
+        {"q": "What five term-pairs does this discourse open a run of?",
+         "opts": [
+             "Five unrelated topics",
+             "Safety/reaching safety, deathlessness/reaching it, "
+             "fearlessness/reaching it, tranquility/progressive, "
+             "cessation/progressive",
+             "The five aggregates and their opposites",
+             "Five monastic precepts"],
+         "correct": 1,
+         "expl": "A structured cluster of paired safety-related terms "
+                 "occupying this chapter's first ten discourses."},
+        {"q": "How many of the nine discourses following this one are "
+              "reduced to a single elided line in the source?",
+         "opts": [
+             "None; all are given full treatment",
+             "Eight — AN 9.53 through AN 9.60, the longest such run met "
+             "anywhere in this project",
+             "Only two",
+             "All nine, with no exceptions"],
+         "correct": 1,
+         "expl": "Surpassing even the three-discourse run at AN 9.48 "
+                 "through AN 9.50."},
+        {"q": "Which discourse closes this run with full treatment "
+              "restored?",
+         "opts": [
+             "AN 9.60", "AN 9.61", "AN 9.62", "AN 9.53"],
+         "correct": 1,
+         "expl": "Progressive cessation, given in full to close the "
+                 "run, matching this chapter's opener."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same speakers carried over directly from ch.5."},
+    ],
+    marginalia=[
+        ("A chapter's own name", [
+            "khema, a safe place &mdash;",
+            "naming Khemavagga,",
+            "opening five pairs",
+        ]),
+        ("Continuing without a break", [
+            "the same question, the",
+            "same nine stages &mdash; ch.5's",
+            "method, carried forward",
+        ]),
+        ("A long run of stubs ahead", [
+            "eight discourses next,",
+            "each just a single line &mdash;",
+            "the longest run yet",
+        ]),
+        ("Cross-references", [
+            "AN 9.42&ndash;51 &middot; ch.5's identical method, now "
+            "continued here",
+            "AN 9.51 &middot; previous chapter's closing page",
+            "AN 9.53 &middot; next, Reaching a Safe Place",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.52/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.51.html">AN 9.51 &middot; Extinguishment in This Life</a> &mdash; '
+        "previous.",
+        '<a href="an-9.53.html">AN 9.53 &middot; Reaching a Safe Place</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.53 — Khemappattasutta — first of this chapter's minimal stubs
+# --------------------------------------------------------------------------- #
+page(
+    53, "Khemappatta", "Reaching a Safe Place",
+    vagga=VAGGA_6,
+    meta_title="AN 9.53 — Reaching a Safe Place | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Reaching a Safe Place, "
+        "the first of this chapter's eight minimal stubs — pairing AN "
+        "9.52's bare &lsquo;safe place&rsquo; with the achievement of "
+        "actually arriving there. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.52"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, the first of "
+                 "eight discourses in this chapter reduced this far"),
+        ("Length", "A few seconds to read what exists"),
+        ("A state versus its achievement", "Where AN 9.52 named safety "
+         "itself, this discourse names the accomplishment of actually "
+         "reaching it — the first of five such paired distinctions in "
+         "this chapter"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in what it "
+                       "pairs with"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;reaching a safe place&rdquo;&rsquo; "
+        "&mdash; followed by an ellipsis, applying the same nine-stage "
+        "template as AN 9.52 to the achievement of arriving at safety "
+        "rather than to safety as a state."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;reaching a safe place&rsquo; &mdash; qualifiedly at "
+            "each of the first eight stages, definitively only at the "
+            "ninth &mdash; though the source no longer spells this out."]),
+        ("A state, and its achievement", [
+            "This discourse's relationship to AN 9.52 is not "
+            "repetition but a grammatical shift: where khema names "
+            "safety as a state or place, khemappatta names the "
+            "accomplishment of a person who has actually arrived there "
+            "&mdash; the first of five such state-versus-achievement "
+            "pairs running through this chapter's first ten discourses."]),
+        ("The same minimal treatment as the extinguishment-run", [
+            "As with AN 9.48 through AN 9.50 in the previous chapter, "
+            "this discourse's brevity is the source's own choice, not a "
+            "gap this guide fills in with invented content. What can be "
+            "said with confidence comes by inference from AN 9.52's "
+            "fully spelled-out template."]),
+        ("Opening the longest run of stubs in this project", [
+            "This is the first of eight consecutive discourses (AN 9.53 "
+            "through AN 9.60) reduced to a single surviving line, the "
+            "longest such run met anywhere so far &mdash; four more "
+            "paired terms will follow this same pattern before AN 9.61 "
+            "restores full treatment."]),
+    ],
+    terms=[
+        ("khemappattaṁ",
+         "&ldquo;reaching a safe place&rdquo; &mdash; this discourse's "
+         "own title term, naming the achievement of arriving at safety "
+         "rather than safety as a bare state."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("khemaṁ",
+         "&ldquo;a safe place&rdquo; &mdash; the paired term from AN "
+         "9.52, this discourse's own state-versus-achievement "
+         "counterpart."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.53:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's term relate grammatically to "
+              "AN 9.52's &lsquo;khema&rsquo;?",
+         "opts": [
+             "It is an unrelated new term",
+             "It names the achievement of arriving at safety, rather "
+             "than safety itself as a bare state",
+             "It contradicts AN 9.52's meaning",
+             "It is simply a Pāli synonym with no distinction"],
+         "correct": 1,
+         "expl": "A state versus its achievement, the first of five "
+                 "such pairs in this chapter."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "Only a title with no text",
+             "A three-stage abbreviated version"],
+         "correct": 1,
+         "expl": "The first of eight discourses in this chapter reduced "
+                 "this far."},
+        {"q": "What does the guide do about the missing content?",
+         "opts": [
+             "Invents the missing stages",
+             "Notes the omission honestly and supplies what can be said "
+             "by inference from AN 9.52's fully spelled-out template",
+             "Ignores the discourse",
+             "Claims it has no meaning at all"],
+         "correct": 1,
+         "expl": "Consistent with this project's rule against inventing "
+                 "text not in the source."},
+        {"q": "How long is the run of minimal stubs this discourse "
+              "opens?",
+         "opts": [
+             "Three discourses",
+             "Eight discourses, AN 9.53 through AN 9.60",
+             "Only this one discourse",
+             "The rest of the entire nipāta"],
+         "correct": 1,
+         "expl": "The longest such run met anywhere in this project so "
+                 "far."},
+        {"q": "Which discourse restores full treatment, closing this "
+              "run?",
+         "opts": [
+             "AN 9.55", "AN 9.58", "AN 9.61", "AN 9.53 itself"],
+         "correct": 2,
+         "expl": "Progressive cessation, matching AN 9.52's full "
+                 "treatment at the run's start."},
+        {"q": "Where does this discourse's implied nine-stage content "
+              "come from?",
+         "opts": [
+             "It cannot be determined at all",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated discourse",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this "
+                 "run of stubs."},
+    ],
+    marginalia=[
+        ("A state, an achievement", [
+            "khema, safety itself;",
+            "khemappatta, one who's",
+            "actually arrived",
+        ]),
+        ("One line, nothing more", [
+            "the source's own choice &mdash;",
+            "not invented, only",
+            "honestly noted",
+        ]),
+        ("The longest run begins", [
+            "eight discourses, each",
+            "a single surviving line &mdash;",
+            "four pairs, minimally told",
+        ]),
+        ("Cross-references", [
+            "AN 9.52 &middot; the full template this stub relies on by "
+            "inference",
+            "AN 9.54 &middot; next, Freedom From Death",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.53/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.52.html">AN 9.52 &middot; A Safe Place</a> &mdash; previous.',
+        '<a href="an-9.54.html">AN 9.54 &middot; Freedom From Death</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.54 — Amatasutta
+# --------------------------------------------------------------------------- #
+page(
+    54, "Amata", "Freedom From Death",
+    vagga=VAGGA_6,
+    meta_title="AN 9.54 — Freedom From Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Freedom From Death, "
+        "the second of this chapter's minimal stubs, naming the "
+        "deathless itself via the same nine-stage template applied "
+        "throughout this run. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.53"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching AN "
+                 "9.53's minimal survival"),
+        ("Length", "A few seconds to read what exists"),
+        ("A term already familiar from this chapter's neighbors", "The "
+         "deathless (amata) already appeared as the shared closing "
+         "formula at AN 9.16 and AN 9.34's own affliction-test; here it "
+         "receives its own dedicated, if minimal, discourse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in the term "
+                       "itself"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;freedom from death&rdquo;&rsquo; "
+        "&mdash; applying the same nine-stage template as AN 9.52 to "
+        "amata, the deathless, a term already met repeatedly elsewhere "
+        "in this nipāta as the culmination other teachings point toward."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;freedom from death&rsquo; &mdash; qualifiedly at "
+            "each of the first eight stages, definitively only at the "
+            "ninth."]),
+        ("A term this nipāta has already used repeatedly", [
+            "Unlike some of this chapter's other terms, amata isn't a "
+            "new introduction: it closed AN 9.16's nine perceptions as "
+            "their &lsquo;objective and culmination,&rsquo; and it "
+            "closed AN 9.14's chain of questions the same way. This "
+            "discourse gives the term its own dedicated treatment, "
+            "however minimal, rather than using it only as a closing "
+            "flourish for something else."]),
+        ("Second of four remaining paired terms", [
+            "Following AN 9.52-53's safe/reaching-safe pair, this "
+            "discourse opens the second of this chapter's five term-"
+            "pairs &mdash; deathless and reaching the deathless "
+            "&mdash; continuing the same structural rhythm."]),
+        ("The same honest minimalism", [
+            "As throughout this run, the guide does not invent content "
+            "the source omits. What can be said with confidence is "
+            "supplied by inference from AN 9.52's fully spelled-out "
+            "template, not from anything unique to this particular "
+            "discourse's own surviving text."]),
+    ],
+    terms=[
+        ("amataṁ",
+         "&ldquo;freedom from death, the deathless&rdquo; &mdash; this "
+         "discourse's own title term, already met as a closing formula "
+         "at AN 9.14 and AN 9.16."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("amatogadhā amatapariyosānā",
+         "&ldquo;their objective and culmination is freedom from "
+         "death&rdquo; &mdash; AN 9.16's own use of this same term as a "
+         "closing flourish, distinct from this discourse's dedicated "
+         "treatment."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.54:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse define?",
+         "opts": [
+             "A safe place",
+             "Freedom from death (amata, the deathless)",
+             "Progressive tranquility",
+             "Cessation"],
+         "correct": 1,
+         "expl": "A term already met elsewhere in this nipāta as a "
+                 "closing formula."},
+        {"q": "Where has this exact term already appeared earlier in "
+              "this nipāta?",
+         "opts": [
+             "Nowhere before this discourse",
+             "As the closing &lsquo;objective and culmination&rsquo; at "
+             "AN 9.16, and closing AN 9.14's chain of questions",
+             "Only in the very first discourse of AN 9",
+             "It has never appeared before in the entire canon"],
+         "correct": 1,
+         "expl": "Used there as a closing flourish; here given its own "
+                 "dedicated, if minimal, discourse."},
+        {"q": "What pair of terms does this discourse open, continuing "
+              "this chapter's structure?",
+         "opts": [
+             "Safety and reaching safety",
+             "The deathless and reaching the deathless",
+             "Tranquility and progressive tranquility",
+             "Cessation and progressive cessation"],
+         "correct": 1,
+         "expl": "The second of this chapter's five term-pairs."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching AN 9.53's equally minimal survival."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+        {"q": "At which stage alone would freedom from death be "
+              "achieved in a definitive sense, following this "
+              "chapter's pattern?",
+         "opts": [
+             "The first absorption",
+             "The dimension of nothingness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern held throughout "
+                 "this entire stretch of the nipāta."},
+    ],
+    marginalia=[
+        ("A familiar term, dedicated", [
+            "amata, already",
+            "a closing flourish twice &mdash;",
+            "now, its own discourse",
+        ]),
+        ("Second of five pairs", [
+            "safe, then deathless &mdash;",
+            "the same rhythm continues,",
+            "minimally told",
+        ]),
+        ("Inference, not invention", [
+            "one line surviving &mdash;",
+            "the rest, drawn honestly",
+            "from AN 9.52",
+        ]),
+        ("Cross-references", [
+            "AN 9.14, AN 9.16 &middot; earlier uses of amata as a "
+            "closing formula",
+            "AN 9.53 &middot; previous",
+            "AN 9.55 &middot; next, Reaching Freedom From Death",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.54/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.53.html">AN 9.53 &middot; Reaching a Safe Place</a> &mdash; previous.',
+        '<a href="an-9.55.html">AN 9.55 &middot; Reaching Freedom From Death</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.55 — Amatappattasutta
+# --------------------------------------------------------------------------- #
+page(
+    55, "Amatappatta", "Reaching Freedom From Death",
+    vagga=VAGGA_6,
+    meta_title="AN 9.55 — Reaching Freedom From Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Reaching Freedom From "
+        "Death, closing the deathless pair opened at AN 9.54 with the "
+        "same minimal treatment applied throughout this run. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.54"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching this "
+                 "chapter's other minimal stubs"),
+        ("Length", "A few seconds to read what exists"),
+        ("Closing the second pair", "This discourse pairs with AN 9.54 "
+         "exactly as AN 9.53 paired with AN 9.52 — the achievement of "
+         "arrival, following the bare state"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in its "
+                       "pairing"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;reaching freedom from "
+        "death&rdquo;&rsquo; &mdash; closing the deathless pair opened "
+        "at AN 9.54 by naming the achievement of arrival rather than "
+        "the state itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;reaching freedom from death&rsquo; &mdash; "
+            "qualifiedly at each of the first eight stages, "
+            "definitively only at the ninth."]),
+        ("The same state-versus-achievement shift as AN 9.53", [
+            "This discourse relates to AN 9.54 exactly as AN 9.53 "
+            "related to AN 9.52: amatappatta names the accomplishment "
+            "of a person who has actually reached the deathless, not "
+            "the deathless as a bare state or object &mdash; the same "
+            "grammatical pairing pattern this chapter applies "
+            "consistently across all five of its term-pairs."]),
+        ("Two pairs closed, three more discourses to go", [
+            "With this discourse, the first two of this chapter's five "
+            "term-pairs are complete: safety and reaching safety (AN "
+            "9.52-53), and the deathless and reaching the deathless (AN "
+            "9.54-55). Three further discourses in this run remain "
+            "before AN 9.61 restores full treatment."]),
+        ("Consistency across an entirely elided run", [
+            "Nothing in this discourse's own surviving text "
+            "distinguishes it structurally from AN 9.53 or AN 9.54; "
+            "its interest lies entirely in what term it names and how "
+            "that term relates to its pair, not in any unique content "
+            "of its own, since none survives."]),
+    ],
+    terms=[
+        ("amatappattaṁ",
+         "&ldquo;reaching freedom from death&rdquo; &mdash; this "
+         "discourse's own title term, naming the achievement of arrival "
+         "rather than the deathless as a bare state."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("amataṁ",
+         "&ldquo;freedom from death&rdquo; &mdash; the paired term from "
+         "AN 9.54, this discourse's own state-versus-achievement "
+         "counterpart."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.55:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's term relate to AN 9.54's "
+              "&lsquo;amata&rsquo;?",
+         "opts": [
+             "It is an unrelated new term",
+             "It names the achievement of actually reaching the "
+             "deathless, rather than the deathless as a bare state",
+             "It contradicts AN 9.54's meaning",
+             "It is used only in a completely different context"],
+         "correct": 1,
+         "expl": "The same state-versus-achievement pairing pattern as "
+                 "AN 9.52-53."},
+        {"q": "How many of this chapter's five term-pairs are complete "
+              "after this discourse?",
+         "opts": [
+             "None", "One", "Two", "All five"],
+         "correct": 2,
+         "expl": "Safety/reaching safety, and the deathless/reaching "
+                 "the deathless."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's run."},
+        {"q": "Where does this discourse's real interest lie, according "
+              "to the guide?",
+         "opts": [
+             "In unique content found only in this discourse",
+             "In what term it names and how that term pairs with AN "
+             "9.54, not in any content unique to its own text",
+             "In a narrative found nowhere else",
+             "In a contradiction of the surrounding discourses"],
+         "correct": 1,
+         "expl": "Nothing distinguishes its own surviving text from any "
+                 "other stub in this run."},
+        {"q": "How many discourses in this run of stubs remain after "
+              "this one, before full treatment is restored?",
+         "opts": [
+             "None; this is the last stub",
+             "Three — AN 9.56 through AN 9.58, before AN 9.61 restores "
+             "full treatment",
+             "Ten more discourses",
+             "It cannot be determined"],
+         "correct": 1,
+         "expl": "Fearless/reaching fearless and tranquility/progressive "
+                 "tranquility remain, plus bare cessation."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("Two pairs, now complete", [
+            "safe, and reaching it;",
+            "deathless, and reaching it &mdash;",
+            "the same shift, twice",
+        ]),
+        ("Nothing unique to find", [
+            "one line, like the rest &mdash;",
+            "interest lies only",
+            "in the pairing itself",
+        ]),
+        ("Three stubs still ahead", [
+            "fearless, tranquility,",
+            "bare cessation next &mdash;",
+            "then 9.61 restores",
+        ]),
+        ("Cross-references", [
+            "AN 9.54 &middot; the state this discourse's achievement "
+            "pairs with",
+            "AN 9.56 &middot; next, A Place Without Fear",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.55/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.54.html">AN 9.54 &middot; Freedom From Death</a> &mdash; previous.',
+        '<a href="an-9.56.html">AN 9.56 &middot; A Place Without Fear</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.56 — Abhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    56, "Abhaya", "A Place Without Fear",
+    vagga=VAGGA_6,
+    meta_title="AN 9.56 — A Place Without Fear | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for A Place Without Fear, "
+        "opening this chapter's third term-pair with the same minimal "
+        "treatment as its neighbors. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.55"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching this "
+                 "chapter's other minimal stubs"),
+        ("Length", "A few seconds to read what exists"),
+        ("Opening the third pair", "Fearlessness (abhaya) and reaching "
+         "it, the third of this chapter's five term-pairs, following "
+         "safety and the deathless"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in the "
+                       "term itself"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;a place without fear&rdquo;&rsquo; "
+        "&mdash; applying the same nine-stage template once more, this "
+        "time to fearlessness, opening this chapter's third term-pair."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;a place without fear&rsquo; &mdash; qualifiedly at "
+            "each of the first eight stages, definitively only at the "
+            "ninth."]),
+        ("A third pair, following the same rhythm", [
+            "After safety (AN 9.52-53) and the deathless (AN 9.54-55), "
+            "this discourse opens the third of this chapter's five "
+            "term-pairs: fearlessness and reaching fearlessness, "
+            "continuing the identical structural pattern without "
+            "variation."]),
+        ("A term with real resonance elsewhere in this project", [
+            "&lsquo;Abhaya,&rsquo; freedom from fear, echoes the five "
+            "fears quelled by ethical restraint at AN 9.27 and AN 9.28 "
+            "&mdash; though those discourses named specific, nameable "
+            "worldly fears overcome by precepts and confidence, while "
+            "this discourse applies the term instead to the nine "
+            "meditative attainments, in keeping with this whole "
+            "chapter's method."]),
+        ("The same honest brevity", [
+            "As throughout this run, nothing is invented to fill the "
+            "gap the source leaves. What can be said with confidence "
+            "about this discourse's likely content comes entirely by "
+            "inference from AN 9.52's fully spelled-out template."]),
+    ],
+    terms=[
+        ("abhayaṁ",
+         "&ldquo;a place without fear&rdquo; &mdash; this discourse's "
+         "own title term, opening this chapter's third pair."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("pañca bhayāni verāni vūpasantāni",
+         "&ldquo;five fears and enmities... quelled&rdquo; &mdash; AN "
+         "9.27 and AN 9.28's own, differently framed use of "
+         "fearlessness, naming specific worldly fears rather than the "
+         "nine attainments."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.56:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse open a new pair around?",
+         "opts": [
+             "Tranquility",
+             "Fearlessness (abhaya), a place without fear",
+             "Cessation",
+             "Confinement"],
+         "correct": 1,
+         "expl": "The third of this chapter's five term-pairs, "
+                 "following safety and the deathless."},
+        {"q": "How does this discourse's use of &lsquo;fearlessness&rsquo; "
+              "compare to AN 9.27 and AN 9.28's?",
+         "opts": [
+             "Identical in every respect",
+             "Those discourses named specific worldly fears overcome by "
+             "ethical restraint; this one applies the term to the nine "
+             "meditative attainments instead",
+             "This discourse contradicts those earlier ones",
+             "There is no relationship between them"],
+         "correct": 1,
+         "expl": "A different application of a term with real resonance "
+                 "earlier in this nipāta."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's run."},
+        {"q": "What is this discourse's position among this chapter's "
+              "five term-pairs?",
+         "opts": [
+             "The first pair",
+             "The third pair, following safety and the deathless",
+             "The fifth and final pair",
+             "It doesn't belong to any pair"],
+         "correct": 1,
+         "expl": "Fearlessness and reaching fearlessness, continuing "
+                 "the established rhythm."},
+        {"q": "What does the guide avoid doing with this discourse's "
+              "missing content?",
+         "opts": [
+             "Inventing plausible-sounding text to fill the gap",
+             "Discussing the term at all",
+             "Both of the above",
+             "Neither; it fabricates freely"],
+         "correct": 0,
+         "expl": "Consistent with this project's standing rule against "
+                 "inventing text not in the source."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("A third pair opens", [
+            "safe, deathless, now",
+            "fearless &mdash; the same rhythm,",
+            "the same brief treatment",
+        ]),
+        ("A term heard before", [
+            "five fears quelled once,",
+            "at AN 9.27 &mdash;",
+            "here, a new frame",
+        ]),
+        ("Honest about the gap", [
+            "one line surviving &mdash;",
+            "nothing invented to",
+            "fill what's not there",
+        ]),
+        ("Cross-references", [
+            "AN 9.27, AN 9.28 &middot; an earlier, differently framed "
+            "use of fearlessness",
+            "AN 9.55 &middot; previous",
+            "AN 9.57 &middot; next, Reaching a Place Without Fear",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.56/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.55.html">AN 9.55 &middot; Reaching Freedom From Death</a> &mdash; '
+        "previous.",
+        '<a href="an-9.57.html">AN 9.57 &middot; Reaching a Place Without Fear</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.57 — Abhayappattasutta
+# --------------------------------------------------------------------------- #
+page(
+    57, "Abhayappatta", "Reaching a Place Without Fear",
+    vagga=VAGGA_6,
+    meta_title="AN 9.57 — Reaching a Place Without Fear | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Reaching a Place "
+        "Without Fear, closing the fearlessness pair opened at AN 9.56, "
+        "with the same minimal treatment as this chapter's other "
+        "stubs. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.56"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching this "
+                 "chapter's other minimal stubs"),
+        ("Length", "A few seconds to read what exists"),
+        ("Closing the third pair", "Following the same state-versus-"
+         "achievement shift as AN 9.53 and AN 9.55, closing this "
+         "chapter's third term-pair"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in its "
+                       "pairing"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;reaching a place without "
+        "fear&rdquo;&rsquo; &mdash; closing the fearlessness pair opened "
+        "at AN 9.56 by naming the achievement of arrival rather than "
+        "the state itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;reaching a place without fear&rsquo; &mdash; "
+            "qualifiedly at each of the first eight stages, "
+            "definitively only at the ninth."]),
+        ("The third state-versus-achievement pairing", [
+            "This discourse relates to AN 9.56 exactly as AN 9.53 "
+            "related to AN 9.52, and AN 9.55 to AN 9.54: "
+            "abhayappatta names the accomplishment of a person who has "
+            "actually reached fearlessness, not fearlessness as a bare "
+            "state &mdash; the third instance of this chapter's "
+            "consistent pairing pattern."]),
+        ("Three pairs closed, two discourses left in the run", [
+            "With this discourse, three of this chapter's five term-"
+            "pairs are complete. Only tranquility and progressive "
+            "tranquility (AN 9.58-59) and bare cessation (AN 9.60) "
+            "remain before AN 9.61 restores full treatment, closing the "
+            "whole run."]),
+        ("A pattern reliable enough to predict, not merely observe", [
+            "By this point in the run, the pairing pattern is reliable "
+            "enough that a reader could predict this discourse's likely "
+            "content before opening it &mdash; a useful check on "
+            "whether the chapter's structure has actually been "
+            "understood, not just described."]),
+    ],
+    terms=[
+        ("abhayappattaṁ",
+         "&ldquo;reaching a place without fear&rdquo; &mdash; this "
+         "discourse's own title term, naming the achievement of arrival "
+         "rather than fearlessness as a bare state."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("abhayaṁ",
+         "&ldquo;a place without fear&rdquo; &mdash; the paired term "
+         "from AN 9.56, this discourse's own state-versus-achievement "
+         "counterpart."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.57:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's term relate to AN 9.56's "
+              "&lsquo;abhaya&rsquo;?",
+         "opts": [
+             "It is an unrelated new term",
+             "It names the achievement of actually reaching "
+             "fearlessness, rather than fearlessness as a bare state",
+             "It contradicts AN 9.56's meaning",
+             "It is used only in a completely different context"],
+         "correct": 1,
+         "expl": "The third instance of this chapter's consistent "
+                 "state-versus-achievement pairing pattern."},
+        {"q": "How many of this chapter's five term-pairs are complete "
+              "after this discourse?",
+         "opts": [
+             "One", "Two", "Three", "All five"],
+         "correct": 2,
+         "expl": "Safety, the deathless, and fearlessness, each with "
+                 "their reaching-counterpart."},
+        {"q": "According to the guide, what could a reader do by this "
+              "point in the run?",
+         "opts": [
+             "Nothing useful; each discourse is unpredictable",
+             "Predict this discourse's likely content before opening "
+             "it, a check on whether the chapter's structure is "
+             "actually understood",
+             "Skip the remaining discourses entirely",
+             "Assume the pattern has broken down"],
+         "correct": 1,
+         "expl": "The pairing pattern has become reliable enough to "
+                 "anticipate."},
+        {"q": "How many discourses remain in this run of stubs after "
+              "this one?",
+         "opts": [
+             "None; the run ends here",
+             "Three — AN 9.58, AN 9.59, and AN 9.60 — before AN 9.61 "
+             "restores full treatment",
+             "Ten more discourses",
+             "It cannot be determined"],
+         "correct": 1,
+         "expl": "Tranquility, progressive tranquility, and bare "
+                 "cessation remain."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's run."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("Three pairs, now complete", [
+            "safe, deathless, fearless &mdash;",
+            "each with its own reaching,",
+            "told the same brief way",
+        ]),
+        ("A predictable pattern", [
+            "by now, a reader",
+            "could guess before reading &mdash;",
+            "the structure is clear",
+        ]),
+        ("Two more stubs remain", [
+            "tranquility, then",
+            "bare cessation &mdash; then",
+            "9.61 restores",
+        ]),
+        ("Cross-references", [
+            "AN 9.56 &middot; the state this discourse's achievement "
+            "pairs with",
+            "AN 9.58 &middot; next, Tranquility",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.57/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.56.html">AN 9.56 &middot; A Place Without Fear</a> &mdash; previous.',
+        '<a href="an-9.58.html">AN 9.58 &middot; Tranquility</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.58 — Passaddhisutta — shifts the pairing pattern from bare/reaching
+# to bare/progressive
+# --------------------------------------------------------------------------- #
+page(
+    58, "Passaddhi", "Tranquility",
+    vagga=VAGGA_6,
+    meta_title="AN 9.58 — Tranquility | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Tranquility, opening "
+        "this chapter's fourth term-pair with a shift from the "
+        "bare/reaching pattern to a bare/progressive pattern. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.57"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching this "
+                 "chapter's other minimal stubs"),
+        ("Length", "A few seconds to read what exists"),
+        ("A shift in the pairing pattern", "The first three pairs "
+         "contrasted a bare state with reaching it; this pair and the "
+         "next instead contrast a bare state with a &lsquo;progressive"
+         "&rsquo; version of the same state"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, worth noticing the structural "
+                       "shift it introduces"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;tranquility&rdquo;&rsquo; &mdash; "
+        "opening this chapter's fourth term-pair with a structural "
+        "shift: rather than pairing with a &lsquo;reaching&rsquo; "
+        "counterpart, tranquility pairs with a &lsquo;progressive"
+        "&rsquo; one at AN 9.59."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;tranquility&rsquo; &mdash; qualifiedly at each of "
+            "the first eight stages, definitively only at the ninth."]),
+        ("A quiet shift in this chapter's pairing pattern", [
+            "The first three pairs in this chapter &mdash; safety, the "
+            "deathless, fearlessness &mdash; each paired a bare state "
+            "with the achievement of &lsquo;reaching&rsquo; it "
+            "(khema/khemappatta, and so on). This discourse breaks that "
+            "pattern: rather than an "
+            "&lsquo;-appatta&rsquo; counterpart, passaddhi pairs with "
+            "&lsquo;anupubbapassaddhi,&rsquo; progressive tranquility, "
+            "at AN 9.59."]),
+        ("Tranquility, echoing earlier meditative vocabulary", [
+            "Passaddhi, tranquility or calm, is standard vocabulary for "
+            "the settling of bodily and mental activity that "
+            "accompanies deepening absorption, related to but distinct "
+            "from the samatha (stillness) more commonly paired with "
+            "vipassanā (insight) elsewhere in the tradition."]),
+        ("Fourth of five pairs, one more remaining", [
+            "With this discourse, four of this chapter's five terms are "
+            "underway; only cessation, the fifth and final pair (AN "
+            "9.60-61), remains before this whole run of stubs closes "
+            "and full treatment returns."]),
+    ],
+    terms=[
+        ("passaddhi",
+         "&ldquo;tranquility&rdquo; &mdash; this discourse's own title "
+         "term, opening this chapter's fourth pair with a shift to a "
+         "bare/progressive pairing pattern."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("anupubbapassaddhi",
+         "&ldquo;progressive tranquility&rdquo; &mdash; the paired term "
+         "explored next, at AN 9.59, this discourse's own counterpart."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.58:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What structural shift does this discourse introduce to "
+              "this chapter's pairing pattern?",
+         "opts": [
+             "No shift at all; it continues identically",
+             "Rather than pairing with a &lsquo;reaching&rsquo; "
+             "counterpart, tranquility pairs with a &lsquo;"
+             "progressive&rsquo; version at AN 9.59",
+             "It abandons the pairing structure entirely",
+             "It introduces a sixth term-pair"],
+         "correct": 1,
+         "expl": "The first three pairs used bare/reaching; this pair "
+                 "and the next use bare/progressive."},
+        {"q": "What does &lsquo;passaddhi&rsquo; refer to?",
+         "opts": [
+             "A monastic robe",
+             "Tranquility or calm, the settling of bodily and mental "
+             "activity accompanying deepening absorption",
+             "A type of almsfood",
+             "A geographic location"],
+         "correct": 1,
+         "expl": "Standard meditative vocabulary, related to but "
+                 "distinct from samatha."},
+        {"q": "How many of this chapter's five term-pairs are underway "
+              "or complete after this discourse?",
+         "opts": [
+             "Two", "Three", "Four", "All five"],
+         "correct": 2,
+         "expl": "Safety, the deathless, fearlessness, and now "
+                 "tranquility (opened, awaiting its pair at AN 9.59)."},
+        {"q": "What remains after AN 9.58 and AN 9.59, before this run "
+              "of stubs closes?",
+         "opts": [
+             "Nothing; the run ends here",
+             "Bare cessation (AN 9.60), before AN 9.61 restores full "
+             "treatment",
+             "Five more term-pairs",
+             "A return to the beginning of the chapter"],
+         "correct": 1,
+         "expl": "The fifth and final pair, cessation and progressive "
+                 "cessation."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's run."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("A pattern shifts", [
+            "no longer &lsquo;reaching&rsquo; now,",
+            "but &lsquo;progressive&rsquo; instead &mdash;",
+            "a quiet structural turn",
+        ]),
+        ("A familiar meditative word", [
+            "passaddhi, calm &mdash;",
+            "settling of body and mind",
+            "as absorption deepens",
+        ]),
+        ("One pair left", [
+            "tranquility now;",
+            "cessation still to come &mdash;",
+            "the run nears its end",
+        ]),
+        ("Cross-references", [
+            "AN 9.57 &middot; previous",
+            "AN 9.59 &middot; next, Progressive Tranquility",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.58/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.57.html">AN 9.57 &middot; Reaching a Place Without Fear</a> &mdash; '
+        "previous.",
+        '<a href="an-9.59.html">AN 9.59 &middot; Progressive Tranquility</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.59 — Anupubbapassaddhisutta
+# --------------------------------------------------------------------------- #
+page(
+    59, "Anupubbapassaddhi", "Progressive Tranquility",
+    vagga=VAGGA_6,
+    meta_title="AN 9.59 — Progressive Tranquility | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Progressive "
+        "Tranquility, closing the tranquility pair opened at AN 9.58 "
+        "and echoing this project's earlier progressive-cessation and "
+        "progressive-meditation discourses by name. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.58"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, matching this "
+                 "chapter's other minimal stubs"),
+        ("Length", "A few seconds to read what exists"),
+        ("A title echoing two earlier discourses", "&lsquo;"
+         "Anupubba&rsquo;, &ldquo;progressive,&rdquo; directly echoes "
+         "the titles of AN 9.31 and AN 9.32, though this discourse's "
+         "content and method are entirely this chapter's own"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, its interest lying in the "
+                       "title's resonance"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;progressive tranquility&rdquo;"
+        "&rsquo; &mdash; closing the tranquility pair opened at AN "
+        "9.58, its title echoing &lsquo;anupubba,&rsquo; "
+        "&ldquo;progressive,&rdquo; already met in the titles of AN "
+        "9.31 and AN 9.32."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of the "
+            "nine progressive attainments is what the Buddha meant by "
+            "&lsquo;progressive tranquility&rsquo; &mdash; qualifiedly "
+            "at each of the first eight stages, definitively only at "
+            "the ninth."]),
+        ("A title that echoes, without repeating content", [
+            "&lsquo;Anupubba,&rsquo; progressive, is the same word "
+            "opening the titles of AN 9.31 (&ldquo;Progressive "
+            "Cessations&rdquo;) and AN 9.32 (&ldquo;Progressive "
+            "Meditations&rdquo;), both foundational catalogues from "
+            "ch.4. This discourse's title echoes that vocabulary, but "
+            "its own content and method belong entirely to ch.6's "
+            "Udāyī-to-Ānanda template, not to those earlier discourses' "
+            "different framing."]),
+        ("Closing the fourth pair", [
+            "This discourse completes the tranquility pair, "
+            "passaddhi and anupubbapassaddhi, the fourth of this "
+            "chapter's five term-pairs &mdash; though unlike the first "
+            "three pairs' bare/reaching structure, this one and the "
+            "next instead contrast a bare state with its own "
+            "&lsquo;progressive&rsquo; unfolding across the nine "
+            "stages."]),
+        ("One term-pair left before full treatment returns", [
+            "Only bare cessation, nirodha, remains at AN 9.60 before "
+            "its own progressive counterpart, anupubbanirodha at AN "
+            "9.61, restores full treatment and closes this entire run "
+            "of minimal stubs."]),
+    ],
+    terms=[
+        ("anupubbapassaddhi",
+         "&ldquo;progressive tranquility&rdquo; &mdash; this "
+         "discourse's own title term, closing the pair opened at AN "
+         "9.58."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("anupubbavihārā, anupubbanirodhā",
+         "&ldquo;progressive meditations, progressive cessations&rdquo; "
+         "&mdash; AN 9.32 and AN 9.31's own titles, sharing this "
+         "discourse's opening word without sharing its content or "
+         "method."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; not present in "
+         "this discourse's own text, supplied by inference from AN "
+         "9.52's template."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; likewise supplied "
+         "by inference, reserved for the ninth attainment throughout "
+         "this stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.59:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What two earlier discourses does this discourse's title "
+              "echo?",
+         "opts": [
+             "AN 9.1 and AN 9.9",
+             "AN 9.31 (&ldquo;Progressive Cessations&rdquo;) and AN "
+             "9.32 (&ldquo;Progressive Meditations&rdquo;)",
+             "AN 9.42 and AN 9.47",
+             "AN 9.16 and AN 9.34"],
+         "correct": 1,
+         "expl": "Both share the word &lsquo;anupubba,&rsquo; "
+                 "&ldquo;progressive.&rdquo;"},
+        {"q": "Does this discourse share content or method with those "
+              "two earlier discourses?",
+         "opts": [
+             "Yes, identical content",
+             "No — only the title's opening word is shared; the content "
+             "and method belong entirely to ch.6's own template",
+             "It directly contradicts them",
+             "It merges all three into one teaching"],
+         "correct": 1,
+         "expl": "A shared word, not shared content — an echo, not a "
+                 "repetition."},
+        {"q": "What pair does this discourse close?",
+         "opts": [
+             "Safety and reaching safety",
+             "Tranquility and progressive tranquility, opened at AN "
+             "9.58",
+             "Fearlessness and reaching fearlessness",
+             "Cessation and progressive cessation"],
+         "correct": 1,
+         "expl": "The fourth of this chapter's five term-pairs."},
+        {"q": "What term-pair remains after this discourse, before full "
+              "treatment returns?",
+         "opts": [
+             "None; this closes the run",
+             "Cessation and progressive cessation, at AN 9.60-61",
+             "A sixth, previously unmentioned pair",
+             "A return to the safety pair"],
+         "correct": 1,
+         "expl": "The fifth and final pair, closing this whole run of "
+                 "minimal stubs."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's run."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("A word, echoed", [
+            "&lsquo;progressive&rsquo; &mdash; the same",
+            "word as 9.31, 9.32 &mdash;",
+            "content, not shared",
+        ]),
+        ("Fourth pair, closed", [
+            "tranquility, then",
+            "its progressive form &mdash;",
+            "the same brief telling",
+        ]),
+        ("One pair left", [
+            "cessation still ahead,",
+            "then its progressive form &mdash;",
+            "the run nearly done",
+        ]),
+        ("Cross-references", [
+            "AN 9.31, AN 9.32 &middot; the earlier discourses this "
+            "title echoes without repeating",
+            "AN 9.58 &middot; previous",
+            "AN 9.60 &middot; next, Cessation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.59/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.58.html">AN 9.58 &middot; Tranquility</a> &mdash; previous.',
+        '<a href="an-9.60.html">AN 9.60 &middot; Cessation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.60 — Nirodhasutta — last of the eight minimal stubs
+# --------------------------------------------------------------------------- #
+page(
+    60, "Nirodha", "Cessation",
+    vagga=VAGGA_6,
+    meta_title="AN 9.60 — Cessation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and self-check quiz for Cessation, the last of "
+        "this chapter's eight minimal stubs, opening the fifth and "
+        "final term-pair before AN 9.61 restores full treatment. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.59"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda, by "
+                     "implication"),
+        ("Form", "A single opening line and an ellipsis, the last of "
+                 "eight discourses in this chapter reduced this far"),
+        ("Length", "A few seconds to read what exists"),
+        ("The last stub in the run", "This discourse closes the eight-"
+         "discourse run of minimal stubs begun at AN 9.53; its pair, AN "
+         "9.61, restores full treatment"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial to read, marking a turning point in the "
+                       "chapter"),
+    ],
+    why=(
+        "The source reduces this discourse to a single line &mdash; "
+        "&lsquo;they speak of &ldquo;cessation&rdquo;&rsquo; &mdash; "
+        "opening this chapter's fifth and final term-pair, the last of "
+        "eight consecutive discourses reduced to a single surviving "
+        "line."),
+    guide=[
+        ("The teaching in one sentence", [
+            "By the pattern established at AN 9.52, reaching any of "
+            "the nine progressive attainments is what the Buddha meant "
+            "by &lsquo;cessation&rsquo; &mdash; qualifiedly at each of "
+            "the first eight stages, definitively only at the ninth."]),
+        ("The last stub before full treatment returns", [
+            "This discourse closes the longest run of minimal stubs "
+            "met anywhere in this project: eight consecutive discourses "
+            "(AN 9.53 through this one) surviving as no more than a "
+            "single elided line each. Its pair, AN 9.61, breaks this "
+            "pattern and restores full treatment."]),
+        ("A term this project has met in fuller form before", [
+            "&lsquo;Nirodha,&rsquo; cessation, is one of the most "
+            "central terms in the whole tradition &mdash; the third "
+            "noble truth, and the closing term of AN 9.31's fully "
+            "elaborated &lsquo;progressive cessations.&rsquo; This "
+            "discourse names the bare term itself, minimally, before "
+            "its own progressive counterpart closes the run at AN 9.61."]),
+        ("What follows: a return to full elaboration", [
+            "AN 9.61, immediately next, is not simply the last item in "
+            "this pattern; it breaks the pattern deliberately, spelling "
+            "out the full nine-stage formula one more time to close "
+            "both this run of paired terms and, two discourses later, "
+            "this chapter itself."]),
+    ],
+    terms=[
+        ("nirodho",
+         "&ldquo;cessation&rdquo; &mdash; this discourse's own title "
+         "term, opening this chapter's fifth and final pair."),
+        ("…pe…",
+         "the Pāli peyyāla marker, left untranslated as an ellipsis "
+         "&mdash; the source's own signal to supply the omitted content."),
+        ("dukkhanirodho ariyasaccaṁ",
+         "&ldquo;the noble truth of the cessation of suffering&rdquo; "
+         "&mdash; the same root term's most famous doctrinal use, the "
+         "third noble truth, distinct from this discourse's narrower "
+         "meditative application."),
+        ("anupubbanirodho",
+         "&ldquo;progressive cessation&rdquo; &mdash; the paired term "
+         "closing this run at AN 9.61, restoring full treatment."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; supplied by "
+         "inference, reserved for the ninth attainment throughout this "
+         "stretch of the nipāta."),
+    ],
+    text_intro=(
+        "The discourse exactly as it survives in the source: one line "
+        "and an ellipsis. Nothing has been added. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The discourse in full, as it survives"),
+        ("p", "&sect;1", "an9.60:1.1-1.1"),
+    ],
+    quiz=[
+        {"q": "What position does this discourse hold in this chapter's "
+              "run of minimal stubs?",
+         "opts": [
+             "The first of the run",
+             "The last of eight consecutive discourses reduced to a "
+             "single surviving line",
+             "The only stub in the chapter",
+             "It falls outside the run entirely"],
+         "correct": 1,
+         "expl": "The longest such run met anywhere in this project, "
+                 "closing here."},
+        {"q": "What does this discourse's term, &lsquo;nirodha,&rsquo; "
+              "name in its most famous doctrinal use elsewhere?",
+         "opts": [
+             "A monastic rule",
+             "The third noble truth, the cessation of suffering",
+             "A type of meditation posture",
+             "A geographic location"],
+         "correct": 1,
+         "expl": "One of the most central terms in the whole tradition, "
+                 "applied here more narrowly to the nine attainments."},
+        {"q": "What happens at this discourse's pair, AN 9.61?",
+         "opts": [
+             "Another single-line stub, continuing the pattern",
+             "Full treatment is restored, breaking the pattern of "
+             "compression deliberately",
+             "The chapter ends without further discourses",
+             "The pairing pattern is abandoned entirely"],
+         "correct": 1,
+         "expl": "A deliberate return to complete elaboration, closing "
+                 "both this run and setting up the chapter's own close."},
+        {"q": "Where has this project already met &lsquo;nirodha&rsquo; "
+              "in fuller, elaborated form?",
+         "opts": [
+             "Nowhere before this discourse",
+             "AN 9.31's &ldquo;Progressive Cessations,&rdquo; closing "
+             "with this same term",
+             "Only in a completely different nipāta",
+             "It has never appeared before in the canon"],
+         "correct": 1,
+         "expl": "The same root term, given full nine-stage treatment "
+                 "earlier in this nipāta."},
+        {"q": "How much of this discourse survives in the source?",
+         "opts": [
+             "The full nine-stage formula",
+             "A single opening line and an ellipsis",
+             "A three-stage summary",
+             "Nothing at all"],
+         "correct": 1,
+         "expl": "Matching every other stub in this chapter's eight-"
+                 "discourse run."},
+        {"q": "Where does this discourse's implied content come from?",
+         "opts": [
+             "It cannot be inferred",
+             "By inference from AN 9.52's fully spelled-out template",
+             "From an unrelated chapter",
+             "It must be invented"],
+         "correct": 1,
+         "expl": "The same source of inference used throughout this run "
+                 "of stubs."},
+    ],
+    marginalia=[
+        ("The last stub, closing", [
+            "eight discourses, each",
+            "a single line &mdash; this, the last",
+            "before fullness returns",
+        ]),
+        ("A term met before, fuller", [
+            "the third noble truth,",
+            "and AN 9.31's own",
+            "close, named again here",
+        ]),
+        ("What comes next breaks the pattern", [
+            "not another stub &mdash;",
+            "AN 9.61 spells",
+            "the whole formula out",
+        ]),
+        ("Cross-references", [
+            "AN 9.31 &middot; this same term, given full treatment "
+            "earlier in this nipāta",
+            "AN 9.59 &middot; previous",
+            "AN 9.61 &middot; next, Progressive Cessation, restoring "
+            "full treatment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.60/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.59.html">AN 9.59 &middot; Progressive Tranquility</a> &mdash; previous.',
+        '<a href="an-9.61.html">AN 9.61 &middot; Progressive Cessation</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.61 — Anupubbanirodhasutta — restores full treatment, closing this
+# chapter's run of five term-pairs
+# --------------------------------------------------------------------------- #
+page(
+    61, "Anupubbanirodha", "Progressive Cessation",
+    vagga=VAGGA_6,
+    meta_title="AN 9.61 — Progressive Cessation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Progressive Cessation, restoring full treatment after eight "
+        "minimal stubs and closing this chapter's run of five term-"
+        "pairs. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue from AN 9.60"),
+        ("Speakers", "Venerable Udāyī questioning Venerable Ānanda"),
+        ("Form", "The full nine-stage template spelled out again, after "
+                 "eight discourses of minimal survival"),
+        ("Length", "~1 minute to read"),
+        ("Full treatment, restored deliberately", "This discourse "
+         "breaks the run of minimal stubs begun at AN 9.53, matching "
+         "AN 9.52's opening treatment to close the whole pattern"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in itself, but marks a deliberate return "
+                       "to full elaboration"),
+    ],
+    why=(
+        "Closing the longest run of minimal stubs met anywhere in this "
+        "project, Udāyī asks what &lsquo;progressive cessation&rsquo; "
+        "means and Ānanda answers in full once more: each of the first "
+        "eight attainments is progressive cessation in a qualified "
+        "sense, and only the ninth, the cessation of perception and "
+        "feeling, in a definitive sense."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Reaching any of the nine progressive attainments is what "
+            "the Buddha meant by &lsquo;progressive cessation&rsquo; "
+            "&mdash; in a qualified sense at each of the first eight "
+            "stages, and in a definitive sense only upon reaching the "
+            "cessation of perception and feeling."]),
+        ("A deliberate bookend to eight stubs", [
+            "This discourse's full treatment isn't an isolated event; "
+            "it deliberately matches AN 9.52's opening treatment, "
+            "framing the eight minimal stubs in between (AN 9.53 "
+            "through AN 9.60) as a single compressed unit bracketed by "
+            "two fully spelled-out discourses &mdash; the same "
+            "structural bracketing this project has already met, for "
+            "instance, in the peyyāla-opening pattern of full examples "
+            "before compression sets in."]),
+        ("The fifth and final pair, and this term's own history", [
+            "This discourse closes the cessation pair opened at AN "
+            "9.60 &mdash; the last of this chapter's five term-pairs "
+            "&mdash; and its own title, &lsquo;anupubbanirodha,&rsquo; "
+            "is identical to AN 9.31's title several chapters earlier, "
+            "though the two discourses share only their name and "
+            "underlying nine-stage content, not their surrounding "
+            "method or dialogue frame."]),
+        ("One discourse remains, closing the chapter differently", [
+            "AN 9.62, immediately next, doesn't continue this chapter's "
+            "Udāyī-to-Ānanda template at all; it closes "
+            "<em>Khemavagga</em> with an entirely different kind of "
+            "teaching, naming nine defilements that must be given up "
+            "before perfection can be realized."]),
+    ],
+    terms=[
+        ("anupubbanirodho",
+         "&ldquo;progressive cessation&rdquo; &mdash; this discourse's "
+         "own title term, identical to AN 9.31's title several chapters "
+         "earlier, though the two share only their name."),
+        ("pariyāyena",
+         "&ldquo;in a qualified sense&rdquo; &mdash; the shared term "
+         "for each of the first eight attainments, spelled out again "
+         "here after eight stubs relied on inference alone."),
+        ("nippariyāyena",
+         "&ldquo;in a definitive sense&rdquo; &mdash; reserved for the "
+         "ninth attainment, closing this discourse and this run of "
+         "term-pairs alike."),
+        ("nirodho",
+         "&ldquo;cessation&rdquo; &mdash; the bare term from AN 9.60, "
+         "this discourse's own state-versus-progressive counterpart."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa "
+         "disvā āsavā parikkhīṇā honti",
+         "&ldquo;enters and remains in the cessation of perception and "
+         "feeling... their defilements come to an end&rdquo; &mdash; "
+         "the shared closing formula for the definitive ninth stage."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine-stage template, spelled "
+        "out completely to close this chapter's run of five term-"
+        "pairs. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Progressive cessation, at each of nine stages"),
+        ("p", "&sect;1", "an9.61:1.1-2.2"),
+        ("p", "&sect;2", "an9.61:3.1-3.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's treatment compare to the eight "
+              "discourses immediately before it?",
+         "opts": [
+             "Equally minimal, one line and an ellipsis",
+             "Full treatment is restored, deliberately matching AN "
+             "9.52's opening treatment to bracket the eight stubs in "
+             "between",
+             "Even more compressed than the eight stubs",
+             "Missing from the source entirely"],
+         "correct": 1,
+         "expl": "A deliberate bookend, framing the compressed run as "
+                 "one structural unit."},
+        {"q": "What pair does this discourse close?",
+         "opts": [
+             "Safety and reaching safety",
+             "Cessation and progressive cessation, opened at AN 9.60",
+             "The deathless and reaching the deathless",
+             "Fearlessness and reaching fearlessness"],
+         "correct": 1,
+         "expl": "The fifth and final term-pair in this chapter's run."},
+        {"q": "How does this discourse's title relate to AN 9.31's?",
+         "opts": [
+             "Entirely unrelated titles",
+             "Identical titles, though the two discourses share only "
+             "their name and underlying nine-stage content, not their "
+             "method or dialogue frame",
+             "AN 9.31 is a direct quotation of this discourse",
+             "This discourse contradicts AN 9.31"],
+         "correct": 1,
+         "expl": "The same title reused across chapters, worth "
+                 "distinguishing from genuine content overlap."},
+        {"q": "What happens at AN 9.62, immediately following this "
+              "discourse?",
+         "opts": [
+             "Another stub in the same Udāyī-to-Ānanda template",
+             "A different kind of teaching entirely, closing the "
+             "chapter with nine defilements to be given up before "
+             "perfection can be realized",
+             "The chapter simply ends without further discourses",
+             "A return to the safety pair from the chapter's start"],
+         "correct": 1,
+         "expl": "A structural break from the template this whole "
+                 "chapter has followed so far."},
+        {"q": "At which stage alone is progressive cessation achieved "
+              "in a definitive sense?",
+         "opts": [
+             "The first absorption",
+             "The dimension of nothingness",
+             "The cessation of perception and feeling",
+             "All nine stages equally"],
+         "correct": 2,
+         "expl": "The consistent ninth-stage pattern held throughout "
+                 "this entire chapter."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The Buddha alone",
+             "Venerable Udāyī questioning Venerable Ānanda",
+             "Sāriputta questioning Mahākoṭṭhita",
+             "Two brahmin cosmologists"],
+         "correct": 1,
+         "expl": "The same two speakers continuing through this "
+                 "chapter's entire run of ten discourses."},
+    ],
+    marginalia=[
+        ("Full treatment, restored", [
+            "eight stubs, bracketed",
+            "by two full discourses &mdash;",
+            "9.52, and this",
+        ]),
+        ("A title reused, elsewhere", [
+            "the same words as",
+            "AN 9.31 &mdash;",
+            "name shared, not content",
+        ]),
+        ("A run of five pairs, closed", [
+            "safe, deathless, fearless,",
+            "tranquil, cessation &mdash;",
+            "all five, complete",
+        ]),
+        ("Cross-references", [
+            "AN 9.31 &middot; the same title, elsewhere in this nipāta",
+            "AN 9.52 &middot; the matching full treatment that opened "
+            "this run",
+            "AN 9.62 &middot; next, closing this chapter differently",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.61/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.60.html">AN 9.60 &middot; Cessation</a> &mdash; previous.',
+        '<a href="an-9.62.html">AN 9.62 &middot; Impossible</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.62 — Abhabbasutta — closes ch.6 Khemavagga
+# --------------------------------------------------------------------------- #
+page(
+    62, "Abhabba", "Impossible",
+    vagga=VAGGA_6,
+    meta_title="AN 9.62 — Impossible | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Impossible, closing this chapter with a nine-item defilement "
+        "list drawn from the first half of the project's standard "
+        "seventeen-item list. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two mirror-image statements — impossible without "
+                 "giving up, possible after giving up — naming the same "
+                 "nine defilements"),
+        ("Length", "~1 minute to read"),
+        ("A break from this chapter's template", "Unlike every "
+         "discourse since AN 9.52, this one is not an Udāyī-to-Ānanda "
+         "dialogue and does not use the qualified-versus-definitive "
+         "nine-stage grid at all"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "straightforward, notable chiefly for the list it "
+                       "shares with this project's largest peyyāla "
+                       "closings"),
+    ],
+    why=(
+        "Without giving up nine things &mdash; greed, hate, delusion, "
+        "anger, acrimony, disdain, contempt, jealousy, and stinginess "
+        "&mdash; perfection cannot be realized; giving them up, it can, "
+        "closing this chapter with a return to plain doctrinal "
+        "statement after ten discourses of the same recurring template."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Without giving up nine defilements &mdash; greed, hate, "
+            "delusion, anger, acrimony, disdain, contempt, jealousy, "
+            "and stinginess &mdash; a mendicant cannot realize "
+            "perfection; giving up these same nine, they can."]),
+        ("A structural break, closing the chapter", [
+            "After ten discourses running the Udāyī-to-Ānanda template "
+            "&mdash; nine of them defining terms through the nine "
+            "progressive attainments &mdash; this discourse abruptly "
+            "returns to the Buddha's own plain voice, addressing the "
+            "mendicants directly with no dialogue frame and no reference "
+            "to the nine attainments at all."]),
+        ("The first nine of this project's standard seventeen-item list", [
+            "Readers of this project will recognize this list "
+            "immediately: greed, hate, and delusion, followed by anger, "
+            "acrimony, disdain, contempt, jealousy, and stinginess, are "
+            "exactly the first nine items of the same seventeen-item "
+            "defilement list (greed plus sixteen more) that has closed "
+            "every nipāta's Rāgapeyyāla so far in this project &mdash; "
+            "AN 3.183-352, AN 4.304-783, AN 6.170-649, AN 7.645-1124, "
+            "and AN 8.148-627. Here, though, only the first nine are "
+            "named, stopping before deceitfulness, deviousness, "
+            "obstinacy, aggression, conceit, arrogance, vanity, and "
+            "negligence."]),
+        ("Two mirror statements, one list", [
+            "The discourse's structure is simple and symmetrical: the "
+            "same nine items are named twice, first as an obstacle "
+            "(&lsquo;without giving up&rsquo;) and then as a condition "
+            "met (&lsquo;after giving up&rsquo;), closing "
+            "<em>Khemavagga</em> on a note of plain ethical urgency "
+            "rather than another round of the chapter's meditative "
+            "vocabulary game."]),
+    ],
+    terms=[
+        ("abhabbo arahattaṁ sacchikātuṁ",
+         "&ldquo;impossible to realize perfection&rdquo; &mdash; this "
+         "discourse's own title phrase, naming what remains out of "
+         "reach without giving up the nine items."),
+        ("rāgaṁ, dosaṁ, mohaṁ",
+         "&ldquo;greed, hate, delusion&rdquo; &mdash; the first three "
+         "of this discourse's nine, the same three roots met throughout "
+         "this nipāta."),
+        ("kodhaṁ, upanāhaṁ, makkhaṁ, paḷāsaṁ, issaṁ, macchariyaṁ",
+         "&ldquo;anger, acrimony, disdain, contempt, jealousy, and "
+         "stinginess&rdquo; &mdash; the remaining six, exactly matching "
+         "the first six items of the standard seventeen-item list that "
+         "closes this project's largest peyyāla pages."),
+        ("bhabbo arahattaṁ sacchikātuṁ",
+         "&ldquo;possible to realize perfection&rdquo; &mdash; the "
+         "discourse's mirror-image second statement, naming the same "
+         "nine items as an obstacle removed."),
+        ("khemavaggo",
+         "&ldquo;Khemavagga&rdquo; &mdash; the chapter this discourse "
+         "closes; the source's own colophon here numbers it "
+         "&lsquo;paṭhamo&rsquo; (&ldquo;first&rdquo;), apparently "
+         "restarting the count for the Second Fifty rather than "
+         "continuing the running 1&ndash;10 numbering used in each "
+         "discourse's own header."),
+    ],
+    text_intro=(
+        "The discourse in full: two mirror-image statements naming the "
+        "same nine defilements. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Impossible without giving up nine things"),
+        ("p", "&sect;1", "an9.62:1.1-1.4"),
+        ("h3", "Possible after giving them up"),
+        ("p", "&sect;2", "an9.62:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's form differ from every other "
+              "discourse in this chapter since AN 9.52?",
+         "opts": [
+             "It is even more minimal than the eight stubs",
+             "It breaks from the Udāyī-to-Ānanda dialogue and the nine-"
+             "stage qualified-versus-definitive grid entirely",
+             "It repeats AN 9.52 word for word",
+             "It introduces a tenth term-pair"],
+         "correct": 1,
+         "expl": "A return to the Buddha's own plain voice, with no "
+                 "dialogue frame."},
+        {"q": "What nine items does this discourse name as obstacles to "
+              "perfection?",
+         "opts": [
+             "The five hindrances plus four more",
+             "Greed, hate, delusion, anger, acrimony, disdain, "
+             "contempt, jealousy, and stinginess",
+             "The nine progressive attainments themselves",
+             "Nine kinds of wrong speech"],
+         "correct": 1,
+         "expl": "The same three roots plus six further defilements "
+                 "familiar from elsewhere in this nipāta."},
+        {"q": "How does this list relate to the standard seventeen-item "
+              "list that closes this project's largest peyyāla pages?",
+         "opts": [
+             "It is entirely unrelated",
+             "It matches exactly the first nine items of that same "
+             "list (greed plus the first eight of sixteen further "
+             "defilements)",
+             "It reverses the order of that list completely",
+             "It doubles that list's length"],
+         "correct": 1,
+         "expl": "A partial reuse, stopping before deceitfulness, "
+                 "deviousness, and the remaining eight items."},
+        {"q": "What structure do the discourse's two statements form?",
+         "opts": [
+             "Two unrelated teachings",
+             "Mirror images: the same nine items named first as an "
+             "obstacle, then as a condition removed",
+             "A question and an unrelated answer",
+             "A narrative followed by a simile"],
+         "correct": 1,
+         "expl": "Simple symmetry, closing the chapter with plain "
+                 "ethical urgency."},
+        {"q": "What curiosity does the source's own closing colophon "
+              "show, according to the guide?",
+         "opts": [
+             "No colophon exists for this discourse",
+             "It numbers the chapter &lsquo;paṭhamo&rsquo; "
+             "(&ldquo;first&rdquo;), apparently restarting the count for "
+             "the Second Fifty, unlike each discourse's own header using "
+             "continuous 1&ndash;10 numbering",
+             "It claims this is the final chapter of the whole nipāta",
+             "It contradicts the discourse's own content"],
+         "correct": 1,
+         "expl": "An honestly noted inconsistency, not smoothed over."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare doctrinal statement, closing this chapter "
+                 "without narrative frame."},
+    ],
+    marginalia=[
+        ("A template broken", [
+            "no dialogue now &mdash;",
+            "the Buddha speaks plainly,",
+            "closing the chapter",
+        ]),
+        ("Nine of seventeen", [
+            "greed, hate, delusion,",
+            "then six more &mdash; the first half",
+            "of a familiar list",
+        ]),
+        ("Two statements, mirrored", [
+            "&ldquo;without, impossible&rdquo; &mdash;",
+            "&ldquo;having given up, possible&rdquo; &mdash;",
+            "the same nine, reversed",
+        ]),
+        ("Cross-references", [
+            "AN 3.183-352, AN 4.304-783, AN 6.170-649, AN 7.645-1124, "
+            "AN 8.148-627 &middot; the full seventeen-item list this "
+            "discourse's nine partially match",
+            "AN 9.61 &middot; previous",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.62/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.61.html">AN 9.61 &middot; Progressive Cessation</a> &mdash; previous.',
+    ],
+)
