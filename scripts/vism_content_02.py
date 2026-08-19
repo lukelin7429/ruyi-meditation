@@ -1585,3 +1585,210 @@ page(
         "its own treatment of a purified mind.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 10 -- Āruppaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    10, "Āruppaniddesa", "The Immaterial States",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 10 — The Immaterial States | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 10 of the Visuddhimagga (The Path of "
+        "Purification) — the four immaterial attainments, from the base of infinite "
+        "space through neither-perception-nor-non-perception, each built directly "
+        "on mastery of the one before. No translated text reproduced; links to the "
+        "full free translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter goes one step further than "
+                    "Chapter 9's absorption-capable subjects"),
+        ("Speaker", "Buddhaghosa, continuing the survey of the forty meditation "
+                    "subjects previewed in Chapter 3"),
+        ("Form", "Four progressively subtler attainments, each explicitly built by "
+                 "taking full mastery of the one before it as a direct basis"),
+        ("Length", "moderate; shorter than Chapters 4 or 8, though conceptually "
+                   "demanding"),
+        ("Northern parallel", "Formless absorption states appear across the wider "
+                              "meditative tradition of the Buddha's own time, not "
+                              "unique to Buddhism; this guide does not assert a "
+                              "specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; abstract by "
+                       "nature, since each stage's object becomes progressively "
+                       "harder to describe in ordinary terms"),
+    ],
+    why=(
+        "Several subjects in Chapters 4 through 9 &mdash; the kasinas, mindfulness "
+        "of breathing, three of the four divine abidings &mdash; were shown "
+        "capable of producing deep absorption while still resting on some kind of "
+        "form or physical process. Chapter 10 goes one step further, describing "
+        "four attainments that leave form behind entirely, each one built by "
+        "taking the previous attainment's own consciousness, or its absence, as "
+        "its next object. It is the most abstract material the forty-subject "
+        "survey has covered so far."),
+    guide=[
+        ("Beyond form entirely", [
+            "The chapter's basic move is this: starting from the fourth jhāna "
+            "already reached through a kasina, a practitioner reflects on the "
+            "drawback of still depending on any material sign as an object at all, "
+            "and moves to do without one &mdash; the starting point for all four "
+            "immaterial states that follow."]),
+        ("Base of infinite space", [
+            "The first immaterial state begins by expanding the kasina sign until "
+            "it seems to extend in every direction without limit, then setting "
+            "aside the sign's color or quality itself and taking the boundless "
+            "space that remains as the new object."]),
+        ("Base of infinite consciousness", [
+            "The second state does not stay with that space itself. Instead, the "
+            "awareness that had extended through the infinite space becomes the "
+            "new object &mdash; attention shifts from the space known to the "
+            "knowing of it."]),
+        ("Base of nothingness", [
+            "The third state moves further still, attending not to any positive-"
+            "seeming object but to the plain absence, the sheer nonexistence, of "
+            "that former consciousness."]),
+        ("Base of neither perception nor non-perception", [
+            "The fourth and most refined state brings perception itself to such an "
+            "attenuated point that it can no longer be firmly said to be present, "
+            "nor firmly said to be absent &mdash; described as the subtlest point "
+            "the whole scheme of forty subjects reaches."]),
+        ("A ladder, not four separate paths", [
+            "The chapter is explicit that each of these four is developed only by "
+            "taking full mastery of the one immediately before it as a direct "
+            "basis &mdash; a sequential ladder, unlike most of the forty subjects, "
+            "which for the most part can each be taken up more or less "
+            "independently of the others."]),
+        ("What follows", [
+            "Chapter 11 turns to a final small set of subjects rounding out the "
+            "concentration section: the perception of food's repulsiveness and the "
+            "analytical defining of the four elements."]),
+    ],
+    terms=[
+        ("āruppa",
+         "&ldquo;immaterial&rdquo; or &ldquo;formless&rdquo; &mdash; the general "
+         "term for this chapter's four attainments, taken up together as a "
+         "sequential group."),
+        ("ākāsānañcāyatana",
+         "base of infinite space &mdash; the first immaterial state, taking the "
+         "boundless space left after setting aside a kasina sign as its object."),
+        ("viññāṇañcāyatana",
+         "base of infinite consciousness &mdash; the second, taking the awareness "
+         "that had known that infinite space as its object."),
+        ("ākiñcaññāyatana",
+         "base of nothingness &mdash; the third, attending to the plain absence of "
+         "that former consciousness."),
+        ("nevasaññānāsaññāyatana",
+         "base of neither perception nor non-perception &mdash; the fourth and "
+         "most refined, where perception can no longer be firmly said to be "
+         "present or absent."),
+    ],
+    quiz=[
+        {"q": "What four attainments does this chapter cover?",
+         "opts": [
+             "The four immaterial states",
+             "The four kasinas of color",
+             "The four divine abidings",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Each one built by taking the previous attainment's consciousness, or its absence, as its next object."},
+        {"q": "What must a practitioner already have achieved before beginning the first immaterial state?",
+         "opts": [
+             "The fourth jhāna, reached through a kasina",
+             "Full awakening",
+             "Mastery of all thirteen ascetic practices",
+             "Nothing; the immaterial states require no prior concentration"],
+         "correct": 0,
+         "expl": "The starting point for reflecting on the drawback of depending on a material sign at all."},
+        {"q": "What is the object of the first immaterial state, the base of infinite space?",
+         "opts": [
+             "The boundless space remaining after setting aside a kasina sign's color or quality",
+             "A newly prepared, larger kasina disk",
+             "The sound of the practitioner's own breathing",
+             "A vivid image of the sky at night"],
+         "correct": 0,
+         "expl": "Reached by expanding the kasina sign until it seems to extend without limit, then setting the sign itself aside."},
+        {"q": "What is the object of the second immaterial state, the base of infinite consciousness?",
+         "opts": [
+             "The awareness that had known the infinite space of the first state",
+             "The physical body's sense of touch",
+             "A newly chosen kasina of a different color",
+             "The absence of all sound"],
+         "correct": 0,
+         "expl": "Attention shifts from the space known to the knowing of it."},
+        {"q": "What is the object of the third immaterial state, the base of nothingness?",
+         "opts": [
+             "The plain absence, the sheer nonexistence, of the second state's consciousness",
+             "A vivid sense of infinite abundance",
+             "The practitioner's own name",
+             "A returning memory of the original kasina disk"],
+         "correct": 0,
+         "expl": "Not a positive-seeming object, but attention to an absence."},
+        {"q": "What characterizes the fourth immaterial state, the base of neither perception nor non-perception?",
+         "opts": [
+             "Perception so attenuated it can no longer be firmly said to be present or absent",
+             "A perception even more vivid and distinct than ordinary waking awareness",
+             "The complete and permanent cessation of consciousness",
+             "A return to the original kasina sign in full clarity"],
+         "correct": 0,
+         "expl": "Described as the subtlest point the whole forty-subject scheme reaches."},
+        {"q": "How does each immaterial state relate to the one before it?",
+         "opts": [
+             "Each is developed only by taking full mastery of the previous one as its direct basis",
+             "Each is entirely unrelated to the others and can be developed in any order",
+             "Each requires abandoning everything learned in the previous one",
+             "They are four names for exactly the same single attainment"],
+         "correct": 0,
+         "expl": "A sequential ladder, described explicitly in the chapter."},
+        {"q": "How does this sequential structure differ from how most of the forty subjects are approached?",
+         "opts": [
+             "Most of the forty subjects can be taken up more or less independently, unlike this ladder of four",
+             "All forty subjects are always developed in one single fixed sequence",
+             "There is no difference; every subject in the whole work is sequential",
+             "The other subjects require no prior concentration at all, unlike these four"],
+         "correct": 0,
+         "expl": "This chapter's structure is unusual within the broader forty-subject survey."},
+        {"q": "What does Chapter 11 turn to next?",
+         "opts": [
+             "The perception of food's repulsiveness and the analytical defining of the four elements",
+             "The supernormal powers",
+             "The remaining kasinas",
+             "The ten kinds of foulness"],
+         "correct": 0,
+         "expl": "A final small set of subjects rounding out the concentration section."},
+        {"q": "Where can a reader go for Chapter 10's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Beyond form entirely", [
+            "four progressively",
+            "subtler attainments",
+        ]),
+        ("Space, then its knowing", [
+            "infinite space,",
+            "then infinite consciousness",
+        ]),
+        ("Absence, then its edge", [
+            "nothingness, then neither",
+            "perception nor non-perception",
+        ]),
+        ("A ladder, not four paths", [
+            "each built directly",
+            "on the one before",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/anguttara-nikaya/an-9.33.html">AN 9.33 &mdash; The '
+        "Nine Progressive Meditative Attainments</a> &mdash; the canonical source "
+        "listing for the sequence this chapter's four states belong to.",
+        '<a href="../discourses/majjhima-nikaya/mn-121.html">MN 121 &mdash; The '
+        "Shorter Discourse on Emptiness</a> &mdash; a related progressive scheme of "
+        "increasingly refined perception.",
+    ],
+)
