@@ -10063,3 +10063,1956 @@ page(
         "opening discourse, ten discourses back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.51 — Jarāsutta (opens the Jarāvagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 51, "Jarā", "Old Age",
+    meta_title="SN 1.51 — Old Age | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Jarāsutta — a "
+        "four-part riddle asking what remains good in old age, matched by four answers: "
+        "ethics, faith, wisdom, and merit. Opens the Jarāvagga. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, a "
+                       "clean four-part match"),
+        ("Opening this vagga", "The first discourse of the Jarāvagga (&lsquo;the "
+                               "Chapter on Old Age&rsquo;), whose ten discourses are the "
+                               "most uniformly bare riddle-verses in this collection"),
+    ],
+    why=(
+        "The question asks about durability across four different domains: what's "
+        "still good in old age, what's good once grounded, what counts as people's true "
+        "treasure, and what thieves find hardest to take. The answer matches each "
+        "point exactly: ethics remains good in old age, faith is good once grounded, "
+        "wisdom is people's treasure, and merit is what thieves cannot take &mdash; four "
+        "qualities chosen specifically because they resist the two things "
+        "ordinary possessions cannot resist: time and theft."),
+    guide=[
+        ("Four qualities selected for what they resist", [
+            "Each of the four answers is chosen for a specific kind of durability: "
+            "ethics doesn't decline with age the way the body does; faith, once truly "
+            "grounded, doesn't waver; wisdom can't be spent or lost the way ordinary "
+            "wealth can; merit can't be physically stolen the way possessions can. The "
+            "verse's four questions and four answers are matched precisely to test each "
+            "quality against a specific threat."]),
+        ("Opening a vagga of uniformly bare riddles", [
+            "Every discourse in this vagga, from this one through SN 1.60, presents its "
+            "riddle with no narrative frame at all &mdash; no deity arriving, no "
+            "setting named, nothing but the question and its answer. This is the most "
+            "consistently minimal presentation of any vagga in this collection so far."]),
+        ("A companion discourse immediately following", [
+            "The very next discourse, SN 1.52, asks a nearly identical question "
+            "&mdash; rephrased across all four lines rather than changed in just one "
+            "&mdash; and receives the identical four-part answer. Read together, the "
+            "two discourses show the same four qualities approached from two closely "
+            "related angles."]),
+    ],
+    terms=[
+        ("sīla",
+         "&ldquo;ethics&rdquo; &mdash; named as what remains good even in old age, "
+         "unlike physical vigor."),
+        ("saddhā patiṭṭhitā",
+         "&ldquo;faith, once grounded&rdquo; &mdash; the second quality, specifically "
+         "praised in its settled, established form rather than as a fleeting feeling."),
+        ("paññā narānaṁ ratanaṁ",
+         "&ldquo;wisdom is people's treasure&rdquo; &mdash; naming wisdom, rather than "
+         "material wealth, as what actually deserves the name &lsquo;treasure.&rsquo;"),
+        ("puññaṁ",
+         "&ldquo;merit&rdquo; &mdash; named as the one thing thieves cannot physically "
+         "take, unlike any ordinary possession."),
+        ("dukarahara",
+         "&ldquo;hard for thieves to take&rdquo; &mdash; the question's fourth "
+         "criterion, testing each candidate quality against theft specifically."),
+    ],
+    text_intro=(
+        "The discourse in full: a four-part question on durability, matched by four "
+        "precise answers. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.51:1.1-1.4"),
+        ("p", "&sect;2", "sn1.51:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four things does the opening question ask about?",
+         "opts": [
+             "What's good in old age, good when grounded, people's treasure, and hard for thieves to take",
+             "How many lamps light the world",
+             "What produces strength, beauty, happiness, and vision",
+             "Who can untangle the human tangle"],
+         "correct": 0,
+         "expl": "Four questions, each testing durability against a specific threat."},
+        {"q": "What does the reply name as good in old age?",
+         "opts": [
+             "Ethics (sīla)",
+             "Physical strength",
+             "Wealth",
+             "Youth"],
+         "correct": 0,
+         "expl": "Unlike the body, ethics doesn't decline with age."},
+        {"q": "What does the reply name as people's true treasure?",
+         "opts": [
+             "Wisdom (paññā)",
+             "Gold and jewels",
+             "Land",
+             "Cattle"],
+         "correct": 0,
+         "expl": "Distinguished from material wealth."},
+        {"q": "What does the reply name as hard for thieves to take?",
+         "opts": [
+             "Merit (puñña)",
+             "A house",
+             "Clothing",
+             "Food"],
+         "correct": 0,
+         "expl": "Unlike physical possessions, merit can't be physically stolen."},
+        {"q": "What does the reply name as good once grounded?",
+         "opts": [
+             "Faith (saddhā)",
+             "Anger",
+             "Doubt",
+             "Fear"],
+         "correct": 0,
+         "expl": "Praised specifically in its settled, established form."},
+        {"q": "How does this vagga's presentation differ from earlier vaggas in this collection?",
+         "opts": [
+             "Every discourse in it is a bare riddle with no narrative frame at all",
+             "Every discourse in it has an unusually long narrative frame",
+             "It is identical in presentation to the Naḷavagga",
+             "Only this single discourse lacks a narrative frame"],
+         "correct": 0,
+         "expl": "The most consistently minimal presentation of any vagga so far."},
+        {"q": "How does SN 1.52, immediately following, relate to this discourse?",
+         "opts": [
+             "It rephrases the question across all four lines and gives the identical answer",
+             "It gives a completely different answer to the same question",
+             "It contradicts this discourse's claims entirely",
+             "It has no relationship to this discourse"],
+         "correct": 0,
+         "expl": "The same four qualities approached from a closely related angle."},
+        {"q": "Why are these four particular qualities chosen as answers?",
+         "opts": [
+             "Each resists a specific kind of loss: aging, wavering, spending, or theft",
+             "They were chosen arbitrarily with no underlying logic",
+             "They are the four most expensive things a person can own",
+             "They are the four things easiest to lose"],
+         "correct": 0,
+         "expl": "A precise match between each question and the quality that resists it."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "The most minimal presentation of any vagga in this collection."},
+        {"q": "What gives this vagga its name?",
+         "opts": [
+             "This discourse's opening concern with old age",
+             "A recurring group of deities",
+             "A closing image from the vagga's last discourse",
+             "The name of a specific monastery"],
+         "correct": 0,
+         "expl": "Following the naming pattern already seen at SN 1.11, 1.21, and 1.41."},
+    ],
+    marginalia=[
+        ("Four questions on durability", [
+            "good in age, good grounded,",
+            "true treasure, theft-proof",
+        ]),
+        ("Four matched answers", [
+            "ethics, faith,",
+            "wisdom, merit",
+        ]),
+        ("Each resisting a specific loss", [
+            "not aging, not wavering,",
+            "not spent, not stolen",
+        ]),
+        ("A vagga of bare riddles", [
+            "no deity, no setting &mdash;",
+            "just question and answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.51/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.50.html">SN 1.50 &middot; With Ghaṭīkāra</a> &mdash; the '
+        "discourse that closed the previous vagga, the Ādittavagga.",
+        '<a href="sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> &mdash; this '
+        "collection&rsquo;s opening discourse.",
+        "SN 1.52 &middot; Getting Old &mdash; the next discourse, the same four "
+        "qualities approached from a closely related angle.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.52 — Ajarasāsutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 52, "Ajarasā", "Getting Old",
+    meta_title="SN 1.52 — Getting Old | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Ajarasāsutta — "
+        "a rephrased companion to SN 1.51, asking what never gets old, what's good when "
+        "committed, and what thieves can never take, with the identical fourfold "
+        "answer. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, answered by a matching four-line reply, "
+                 "identical to SN 1.51's"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("A near-total overlap", "Unlike this collection's usual single-word "
+                                 "substitutions, this discourse rephrases all four "
+                                 "questions while keeping the answer completely "
+                                 "unchanged"),
+    ],
+    why=(
+        "This discourse's question covers the same ground as SN 1.51, immediately "
+        "before it, but rephrases every line: instead of asking what's still good in "
+        "old age, it asks what's good because it never gets old at all; instead of what's "
+        "good when grounded, what's good when committed; the third question is "
+        "identical; instead of what thieves find hard to take, what thieves can never "
+        "take at all. The answer, despite the rephrased question, is exactly the same: "
+        "ethics, faith, wisdom, and merit."),
+    guide=[
+        ("Four lines rephrased, one line unchanged", [
+            "Three of the question's four lines shift in wording between this "
+            "discourse and SN 1.51 &mdash; from enduring old age to never aging at "
+            "all, from being grounded to being committed, from being merely hard for "
+            "thieves to being altogether impossible for them. Only the question about "
+            "people's treasure stays exactly the same in both discourses."]),
+        ("An identical answer to a rephrased question", [
+            "Where several pairs of discourses earlier in this collection share an "
+            "identical answer to an identical or near-identical question, this pair "
+            "does something slightly different: the question itself is substantially "
+            "reworded across three of its four lines, yet the same four qualities "
+            "&mdash; ethics, faith, wisdom, merit &mdash; answer it exactly as before."]),
+        ("Intensifying, not merely repeating", [
+            "Each rephrased line pushes toward a stronger claim than SN 1.51's "
+            "version: not merely enduring age but never aging at all, not merely "
+            "grounded but fully committed, not merely hard to steal but altogether "
+            "unstealable. The second discourse in this pair asks for more, and "
+            "receives the same answer regardless."]),
+    ],
+    terms=[
+        ("ajarasā",
+         "&ldquo;because it never gets old&rdquo; &mdash; this discourse's title and "
+         "its intensified rephrasing of SN 1.51's opening question."),
+        ("adhimuttassa",
+         "&ldquo;when committed&rdquo; &mdash; the rephrased second criterion, "
+         "stronger than SN 1.51's &lsquo;grounded.&rsquo;"),
+        ("na haranti corā",
+         "&ldquo;thieves can never take&rdquo; &mdash; the rephrased fourth criterion, "
+         "an absolute claim rather than SN 1.51's &lsquo;hard for.&rsquo;"),
+        ("sīlaṁ",
+         "&ldquo;ethics&rdquo; &mdash; the first of the four answers, unchanged from "
+         "SN 1.51 despite the rephrased question."),
+        ("puññaṁ",
+         "&ldquo;merit&rdquo; &mdash; the fourth answer, again unchanged, now matched "
+         "to an absolute rather than a comparative claim."),
+    ],
+    text_intro=(
+        "The discourse in full: a rephrased, intensified question, met by the same "
+        "fourfold answer as the discourse before it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.52:1.1-1.4"),
+        ("p", "&sect;2", "sn1.52:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's four question-lines are rephrased from SN 1.51?",
+         "opts": [
+             "Three of four; only the question about people's treasure stays identical",
+             "All four lines are completely different",
+             "None; every line is identical to SN 1.51",
+             "Only one line is rephrased"],
+         "correct": 0,
+         "expl": "A substantial rewording across most of the question."},
+        {"q": "What does this discourse's opening question ask, rephrased from SN 1.51?",
+         "opts": [
+             "What's good because it never gets old, rather than what's still good in old age",
+             "What's good because it always gets old",
+             "What's bad in old age",
+             "An entirely unrelated question about wealth"],
+         "correct": 0,
+         "expl": "A shift from enduring age to never aging at all."},
+        {"q": "Does the answer change along with the rephrased question?",
+         "opts": [
+             "No &mdash; the answer is exactly the same as SN 1.51's: ethics, faith, wisdom, merit",
+             "Yes, an entirely different set of four qualities is given",
+             "Only two of the four answers remain the same",
+             "No answer is given at all"],
+         "correct": 0,
+         "expl": "The identical fourfold answer, despite the reworded question."},
+        {"q": "How does this discourse's fourth question compare to SN 1.51's?",
+         "opts": [
+             "It makes an absolute claim ('never take') rather than a comparative one ('hard to take')",
+             "It is identical in every word to SN 1.51's",
+             "It asks about something entirely unrelated to theft",
+             "It is weaker than SN 1.51's claim"],
+         "correct": 0,
+         "expl": "Na haranti corā &mdash; stronger than SN 1.51's 'dukarahara.'"},
+        {"q": "What pattern does this pair of discourses illustrate, distinct from other repeated pairs in this collection?",
+         "opts": [
+             "Substantial rewording across most of the question, paired with a completely unchanged answer",
+             "A single word changed, with everything else identical",
+             "Two completely unrelated discourses that happen to be adjacent",
+             "Identical wording throughout both question and answer"],
+         "correct": 0,
+         "expl": "A different variety of repetition than this collection's usual single-word substitutions."},
+        {"q": "What does 'adhimuttassa' mean?",
+         "opts": [
+             "'When committed'",
+             "'When abandoned'",
+             "'When ignored'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The rephrased, intensified version of SN 1.51's 'grounded.'"},
+        {"q": "Which single question is identical between SN 1.51 and this discourse?",
+         "opts": [
+             "The question about people's true treasure",
+             "The question about old age",
+             "The question about being grounded or committed",
+             "The question about thieves"],
+         "correct": 0,
+         "expl": "The only line shared word for word between the two discourses."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Does the rephrased question in this discourse ask for something weaker or stronger than SN 1.51?",
+         "opts": [
+             "Stronger &mdash; each line intensifies toward a more absolute claim",
+             "Weaker in every respect",
+             "Identical in strength, only in different words",
+             "The two questions are unrelated in scope"],
+         "correct": 0,
+         "expl": "Never aging, fully committed, and altogether unstealable, rather than merely enduring, grounded, and hard to take."},
+        {"q": "What four qualities does the answer name?",
+         "opts": [
+             "Ethics, faith, wisdom, and merit",
+             "Wealth, fame, power, and status",
+             "Strength, beauty, happiness, and vision",
+             "Hell, the animal realm, Yama's world, and the human state"],
+         "correct": 0,
+         "expl": "Exactly the same four qualities as SN 1.51."},
+    ],
+    marginalia=[
+        ("A question, intensified", [
+            "not merely enduring age &mdash;",
+            "never aging at all",
+        ]),
+        ("One line unchanged", [
+            "people&rsquo;s true treasure,",
+            "asked identically",
+        ]),
+        ("The same answer, again", [
+            "ethics, faith,",
+            "wisdom, merit",
+        ]),
+        ("Rewording, not new content", [
+            "a stronger question,",
+            "the same four answers hold",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.52/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.51.html">SN 1.51 &middot; Old Age</a> &mdash; the discourse '
+        "immediately before this one, and this vagga&rsquo;s opening discourse.",
+        '<a href="sn-1.13.html">SN 1.13 &middot; There&rsquo;s Nothing Like a Child</a> '
+        "&mdash; an earlier discourse also naming wisdom as a paramount value.",
+        "SN 1.53 &middot; A Friend &mdash; the next discourse, on who is a friend while "
+        "journeying, at home, in need, and in the next life.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.53 — Mittasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 53, "Mitta", "A Friend",
+    meta_title="SN 1.53 — A Friend | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Mittasutta — "
+        "a four-part riddle on who counts as a friend while journeying, at home, in "
+        "need, and in the next life, closing on one's own good deeds. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, answered by a six-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "building to a pointed final claim"),
+        ("Four contexts, one escalating point", "Each of the first three answers names "
+                                                 "an ordinary, situational friend before "
+                                                 "the fourth names something no ordinary "
+                                                 "friendship can provide"),
+    ],
+    why=(
+        "The question asks about friendship across four different situations: on a "
+        "journey, at home, in a time of need, and in the next life. The first three "
+        "answers are entirely ordinary &mdash; a caravan while traveling, one's mother "
+        "at home, a proven ally in need &mdash; but the fourth breaks the pattern "
+        "completely: no other person, however close, can be a friend in the next life. "
+        "Only the good deeds a person has done themselves can accompany them there."),
+    guide=[
+        ("Three ordinary friendships, named specifically", [
+            "Each of the first three answers matches its situation precisely: a "
+            "caravan (<em>satthā</em>) provides safety and company on the road; a "
+            "mother is named specifically, not simply &lsquo;family,&rsquo; as the "
+            "friend at home; an ally proven reliable &lsquo;time and again&rsquo; is "
+            "named as the friend in need, defined by demonstrated loyalty rather than "
+            "mere closeness."]),
+        ("A fourth answer that no other person can fill", [
+            "The verse's structure builds toward its real point: after three answers "
+            "naming other people, the fourth names something no other person, however "
+            "devoted, can provide. Not even the mother named in the second line, or "
+            "the proven ally of the third, can accompany a person into their next "
+            "life &mdash; only their own good deeds can."]),
+        ("An echo of this collection's recurring teaching on merit", [
+            "This closing claim &mdash; that a person's own deeds are their only true "
+            "companion beyond death &mdash; echoes the broader teaching already met "
+            "across this vagga's opening pair, SN 1.51 and SN 1.52, both naming merit "
+            "as uniquely resistant to loss. Here the same idea is framed specifically "
+            "as a question of companionship rather than of durability."]),
+    ],
+    terms=[
+        ("satthā",
+         "&ldquo;a caravan&rdquo; &mdash; the answer for a friend while traveling, "
+         "providing safety in numbers on the road."),
+        ("mātā",
+         "&ldquo;mother&rdquo; &mdash; named specifically, not simply as "
+         "&lsquo;family,&rsquo; as the friend at home."),
+        ("sahāyo",
+         "&ldquo;an ally, a companion&rdquo; &mdash; the friend in need, defined by "
+         "proven reliability across repeated occasions rather than mere acquaintance."),
+        ("sayaṁkatāni puññāni",
+         "&ldquo;the good deeds you've done yourself&rdquo; &mdash; the verse's final "
+         "answer, naming what alone accompanies a person into the next life."),
+        ("mitta",
+         "&ldquo;friend&rdquo; &mdash; this discourse's title, tested across four "
+         "different situations before the verse's real point emerges."),
+    ],
+    text_intro=(
+        "The discourse in full: three ordinary friendships, and a fourth that only "
+        "one's own deeds can fill. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.53:1.1-1.4"),
+        ("p", "&sect;2", "sn1.53:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What four situations does the opening question ask about friendship in?",
+         "opts": [
+             "While journeying, at home, in need, and in the next life",
+             "In wealth, in poverty, in youth, and in old age",
+             "In the human realm, the animal realm, hell, and heaven",
+             "In speech, thought, action, and livelihood"],
+         "correct": 0,
+         "expl": "Four distinct situational tests for the same question."},
+        {"q": "Who is named as the friend while journeying?",
+         "opts": [
+             "A caravan (satthā)",
+             "A deity",
+             "A stranger met on the road",
+             "No one; travelers have no friends"],
+         "correct": 0,
+         "expl": "Safety and company on the road."},
+        {"q": "Who is named as the friend at home?",
+         "opts": [
+             "Mother, named specifically",
+             "A hired servant",
+             "A neighbor",
+             "No one is named"],
+         "correct": 0,
+         "expl": "Named specifically rather than simply as 'family.'"},
+        {"q": "What defines the friend named for a time of need?",
+         "opts": [
+             "Proven reliability, being a companion 'time and again'",
+             "Wealth alone",
+             "Physical strength alone",
+             "Being a stranger encountered only once"],
+         "correct": 0,
+         "expl": "Demonstrated loyalty across repeated occasions."},
+        {"q": "What does the verse name as the friend in the next life?",
+         "opts": [
+             "The good deeds a person has done themselves",
+             "Their mother",
+             "Their caravan companions",
+             "No friend exists in the next life"],
+         "correct": 0,
+         "expl": "Sayaṁkatāni puññāni &mdash; something no other person can provide."},
+        {"q": "How does the verse's structure build toward its final point?",
+         "opts": [
+             "Three ordinary friendships are named before a fourth breaks the pattern, naming something no person can provide",
+             "All four answers name the exact same person",
+             "The verse asks four unrelated questions with no connecting structure",
+             "The fourth answer simply repeats the third"],
+         "correct": 0,
+         "expl": "A deliberate escalation toward the verse's real claim."},
+        {"q": "What earlier discourses in this vagga does this discourse's closing claim echo?",
+         "opts": [
+             "SN 1.51 and SN 1.52, both naming merit as uniquely resistant to loss",
+             "SN 1.44, on one root",
+             "SN 1.48, praising Sāriputta",
+             "No earlier discourse shares this theme"],
+         "correct": 0,
+         "expl": "The same idea about merit, framed here as companionship rather than durability."},
+        {"q": "What does 'sahāyo' mean?",
+         "opts": [
+             "'An ally, a companion'",
+             "'An enemy'",
+             "'A stranger'",
+             "'A deity'"],
+         "correct": 0,
+         "expl": "The term used for the friend proven reliable in times of need."},
+        {"q": "Can even a devoted mother accompany a person into their next life, according to this discourse?",
+         "opts": [
+             "No &mdash; only one's own deeds are named as capable of that",
+             "Yes, mothers are explicitly named as able to do so",
+             "The discourse makes no claim about this",
+             "Only fathers, not mothers, are said to accompany a person"],
+         "correct": 0,
+         "expl": "The verse's central point: no other person, however close, can fill this role."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set on a caravan route",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+    ],
+    marginalia=[
+        ("Three ordinary friends", [
+            "a caravan, a mother,",
+            "a proven ally",
+        ]),
+        ("A fourth, unmatched", [
+            "no person at all &mdash;",
+            "only one&rsquo;s own deeds",
+        ]),
+        ("Companionship, tested", [
+            "journey, home, need,",
+            "and beyond death",
+        ]),
+        ("An echo of SN 1.51, 1.52", [
+            "merit, again,",
+            "as what truly lasts",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.53/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.52.html">SN 1.52 &middot; Getting Old</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.51.html">SN 1.51 &middot; Old Age</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, and the source of this discourse's closing theme.",
+        "SN 1.54 &middot; Grounds &mdash; the next discourse, on what is the site for "
+        "human beings, and the best comrade.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.54 — Vatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 54, "Vatthu", "Grounds",
+    meta_title="SN 1.54 — Grounds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Vatthusutta — "
+        "a three-part riddle naming children as the site for human beings, a wife as "
+        "the best comrade, and rain as what sustains earth's creatures. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part question, answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "though its three concerns sit less obviously together than "
+                       "most riddles in this vagga"),
+        ("A more heterogeneous riddle", "Unlike SN 1.51 through SN 1.53's tightly "
+                                        "unified questions, this discourse's three "
+                                        "concerns &mdash; site, comrade, and "
+                                        "sustenance &mdash; read more like separate "
+                                        "proverbs than one coherent theme"),
+    ],
+    why=(
+        "This discourse's question moves across three distinct concerns: what serves "
+        "as the &lsquo;site&rsquo; or ground for human beings, who counts as the best "
+        "comrade, and what sustains the life of creatures who live off the earth. The "
+        "answers are equally distinct: children are named as the site human beings are "
+        "grounded in, a wife as the best comrade, and rain as what sustains earthbound "
+        "creatures &mdash; three separate proverbial claims rather than three angles on "
+        "a single idea."),
+    guide=[
+        ("Children as a 'site', not merely as offspring", [
+            "The verse's image of children as the <em>vatthu</em>, the "
+            "&lsquo;site&rsquo; or ground, for human beings is unusual: rather than "
+            "describing children simply as descendants, it pictures them as the very "
+            "foundation a person's life is built on &mdash; the place, so to speak, "
+            "where a human life is grounded."]),
+        ("A wife named as the best comrade", [
+            "The second answer names a wife specifically as <em>parama sakhā</em>, the "
+            "&lsquo;best comrade,&rsquo; a claim about companionship distinct from the "
+            "children answer that precedes it &mdash; the verse names two separate "
+            "family relationships for two separate questions, rather than treating "
+            "family as a single undifferentiated category."]),
+        ("A shift to a completely different register", [
+            "The verse's final line moves entirely away from human relationships to a "
+            "broader observation about the natural world: creatures who live off the "
+            "earth are sustained by rain. This third claim doesn't obviously connect "
+            "to the first two, giving this discourse a more collected, proverb-like "
+            "quality than the tightly unified riddles surrounding it in this vagga."]),
+        ("A discourse read as separate sayings, not one argument", [
+            "Where SN 1.51 through SN 1.53 each build toward a single coherent point, "
+            "this discourse reads more naturally as three loosely gathered proverbial "
+            "claims sharing a question-and-answer form, rather than three facets of "
+            "one unified teaching."]),
+    ],
+    terms=[
+        ("vatthu",
+         "&ldquo;site, ground, foundation&rdquo; &mdash; this discourse's title, and "
+         "the image applied to children as what a human life is grounded in."),
+        ("puttā vatthu manussānaṁ",
+         "&ldquo;children are the site for human beings&rdquo; &mdash; the first "
+         "answer, treating children as a foundation rather than merely as offspring."),
+        ("bhariyā ca parama sakhā",
+         "&ldquo;a wife is the best comrade&rdquo; &mdash; the second answer, naming a "
+         "distinct relationship from the first."),
+        ("pathavissitā pāṇā",
+         "&ldquo;creatures who live off the earth&rdquo; &mdash; the subject of the "
+         "verse's final, unrelated observation."),
+        ("vuṭṭhi",
+         "&ldquo;rain&rdquo; &mdash; named as what sustains earthbound creatures, "
+         "closing the verse on a note distinct from its first two answers."),
+    ],
+    text_intro=(
+        "The discourse in full: three loosely gathered proverbial claims, sharing a "
+        "single question-and-answer form. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.54:1.1-1.4"),
+        ("p", "&sect;2", "sn1.54:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three concerns does this discourse's question move across?",
+         "opts": [
+             "The site for human beings, the best comrade, and what sustains earth's creatures",
+             "Old age, friendship, and wisdom",
+             "The four noble truths",
+             "How many lamps light the world"],
+         "correct": 0,
+         "expl": "Three distinct concerns, less tightly unified than most riddles in this vagga."},
+        {"q": "What does the reply name as the 'site' for human beings?",
+         "opts": [
+             "Children",
+             "A house",
+             "The earth itself",
+             "Wealth"],
+         "correct": 0,
+         "expl": "Puttā vatthu manussānaṁ &mdash; children pictured as a foundation."},
+        {"q": "What does the reply name as the best comrade?",
+         "opts": [
+             "A wife",
+             "A caravan",
+             "A mother",
+             "An ally proven in need"],
+         "correct": 0,
+         "expl": "A distinct relationship from the 'site' named in the first answer."},
+        {"q": "What does the reply say sustains creatures who live off the earth?",
+         "opts": [
+             "Rain",
+             "Fire",
+             "Human cultivation alone",
+             "Nothing sustains them"],
+         "correct": 0,
+         "expl": "The verse's final observation, shifting to a broader natural claim."},
+        {"q": "How does this discourse's structure compare to SN 1.51 through SN 1.53?",
+         "opts": [
+             "It reads more like three loosely gathered proverbs than one unified argument",
+             "It is even more tightly unified than those three discourses",
+             "It contains no question-and-answer structure at all",
+             "It repeats SN 1.53's answer exactly"],
+         "correct": 0,
+         "expl": "A more heterogeneous riddle than most in this vagga."},
+        {"q": "What does 'vatthu' mean?",
+         "opts": [
+             "'Site, ground, foundation'",
+             "'Friend'",
+             "'Old age'",
+             "'Wisdom'"],
+         "correct": 0,
+         "expl": "This discourse's title, and the image applied to children."},
+        {"q": "Does the verse's final line about rain connect obviously to its first two answers?",
+         "opts": [
+             "No &mdash; it shifts to a different register entirely, without an obvious connection",
+             "Yes, it directly explains the previous two answers",
+             "It contradicts the previous two answers",
+             "It repeats the previous two answers in different words"],
+         "correct": 0,
+         "expl": "A notable shift in subject within a single short verse."},
+        {"q": "What does 'parama sakhā' mean?",
+         "opts": [
+             "'The best comrade'",
+             "'The worst enemy'",
+             "'A stranger'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The description applied to a wife in the second answer."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set in a rice field",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many distinct answers does the reply give?",
+         "opts": [
+             "Three",
+             "One",
+             "Seven",
+             "Ten"],
+         "correct": 0,
+         "expl": "Children, a wife, and rain &mdash; three separate claims."},
+    ],
+    marginalia=[
+        ("Children, as ground", [
+            "the site human life",
+            "is built upon",
+        ]),
+        ("A wife, as comrade", [
+            "a distinct relationship,",
+            "a separate answer",
+        ]),
+        ("A shift, unexplained", [
+            "creatures of the earth,",
+            "sustained by rain",
+        ]),
+        ("Proverbs, gathered", [
+            "three separate claims,",
+            "one shared form",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.54/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.53.html">SN 1.53 &middot; A Friend</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.19.html">SN 1.19 &middot; Little Hut</a> &mdash; an earlier '
+        "discourse in this collection also naming a wife within a coded family image.",
+        "SN 1.55 &middot; Gives Birth (1st) &mdash; the next discourse, the first of "
+        "a three-part sequence on craving, the mind, and transmigration.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.55 — Paṭhamajanasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 55, "Paṭhamajana", "Gives Birth (1st)",
+    meta_title="SN 1.55 — Gives Birth (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the first "
+        "Paṭhamajanasutta — a four-part riddle naming craving as what gives birth to a "
+        "person, the mind as what runs about, and suffering as the greatest fear. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "naming several technical terms in quick succession"),
+        ("First of a three-part sequence", "SN 1.55 through SN 1.57 share three of "
+                                           "four lines exactly, varying only their "
+                                           "final question and answer"),
+    ],
+    why=(
+        "The question probes the mechanics of rebirth directly: what gives birth to a "
+        "person, what is it they have that runs about restlessly, what is it that "
+        "enters transmigration, and what is their greatest fear? The answer is precise: "
+        "craving (<em>taṇhā</em>) gives birth to a person, their mind is what runs "
+        "about, a sentient being is what enters transmigration, and suffering is what "
+        "they fear most of all."),
+    guide=[
+        ("Craving named as origin, not merely as a flaw", [
+            "Naming craving as what &lsquo;gives birth&rsquo; to a person "
+            "(<em>janeti</em>) treats it as more than an unfortunate tendency to be "
+            "corrected &mdash; it is named as the generative cause of continued "
+            "existence itself, the specific mechanism by which rebirth keeps "
+            "happening."]),
+        ("The restless mind, and the reborn being", [
+            "The verse distinguishes two things that might otherwise be conflated: the "
+            "mind (<em>citta</em>) is what &lsquo;runs about&rsquo; "
+            "(<em>vidhāvati</em>), restless and unsettled, while it is the "
+            "&lsquo;sentient being&rsquo; (<em>satta</em>) as a whole that is said to "
+            "enter transmigration &mdash; two related but distinct claims about what "
+            "moves and what is reborn."]),
+        ("Suffering named as the deepest fear", [
+            "The verse's closing line names suffering itself, rather than death or any "
+            "specific misfortune, as what a person fears most. This treats fear's "
+            "ultimate object as the general condition of suffering underlying "
+            "particular fears, rather than any one feared event."]),
+        ("The first of three closely related discourses", [
+            "This discourse's first three lines &mdash; on craving, the mind, and "
+            "transmigration &mdash; recur word for word in SN 1.56 and SN 1.57 "
+            "immediately following it. Only the fourth line changes across all three, "
+            "making this the first triple, rather than pair, of closely matched "
+            "discourses in this collection."]),
+    ],
+    terms=[
+        ("taṇhā janeti purisaṁ",
+         "&ldquo;craving gives birth to a person&rdquo; &mdash; the verse's first "
+         "answer, naming craving as the generative cause of rebirth."),
+        ("cittamassa vidhāvati",
+         "&ldquo;their mind is what runs about&rdquo; &mdash; the second answer, "
+         "describing the mind's characteristic restlessness."),
+        ("satto saṁsāramāpādi",
+         "&ldquo;a sentient being enters transmigration&rdquo; &mdash; the third "
+         "answer, distinguishing the being as a whole from the mind's restlessness "
+         "named just before it."),
+        ("dukkhamassa mahabbhayaṁ",
+         "&ldquo;suffering is their greatest fear&rdquo; &mdash; this discourse's own, "
+         "unique fourth answer, distinct from SN 1.56 and SN 1.57's variations."),
+        ("saṁsāra",
+         "&ldquo;transmigration, the wandering-on&rdquo; &mdash; the cycle of repeated "
+         "rebirth this discourse's whole question concerns."),
+    ],
+    text_intro=(
+        "The discourse in full: a precise four-part account of what drives and "
+        "characterizes rebirth. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.55:1.1-1.4"),
+        ("p", "&sect;2", "sn1.55:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What four things does the opening question ask about?",
+         "opts": [
+             "What gives birth to a person, what runs about, what enters transmigration, and their greatest fear",
+             "What's good in old age, what's grounded, treasure, and theft",
+             "Friendship in four situations",
+             "What sustains earth's creatures"],
+         "correct": 0,
+         "expl": "A direct probe into the mechanics of rebirth."},
+        {"q": "What does the reply name as what gives birth to a person?",
+         "opts": [
+             "Craving (taṇhā)",
+             "Wisdom",
+             "A deity",
+             "Merit"],
+         "correct": 0,
+         "expl": "Named as the generative cause of continued existence, not merely a flaw."},
+        {"q": "What does the reply name as what 'runs about'?",
+         "opts": [
+             "The mind (citta)",
+             "The body",
+             "A caravan",
+             "Nothing runs about"],
+         "correct": 0,
+         "expl": "Restless and unsettled, distinguished from the being as a whole."},
+        {"q": "What does the reply name as what enters transmigration?",
+         "opts": [
+             "A sentient being (satta)",
+             "Only the mind",
+             "Only the body",
+             "Nothing enters transmigration"],
+         "correct": 0,
+         "expl": "The being as a whole, distinct from the mind's restlessness."},
+        {"q": "What does this discourse name as a person's greatest fear?",
+         "opts": [
+             "Suffering",
+             "Death alone",
+             "Old age alone",
+             "Poverty"],
+         "correct": 0,
+         "expl": "The general condition underlying particular fears, not one feared event."},
+        {"q": "How does this discourse relate to SN 1.56 and SN 1.57, immediately following it?",
+         "opts": [
+             "They share the first three lines word for word, varying only the fourth",
+             "They share no content at all",
+             "They are identical in every line",
+             "They contradict this discourse entirely"],
+         "correct": 0,
+         "expl": "The first triple, rather than pair, of closely matched discourses in this collection."},
+        {"q": "What does 'taṇhā janeti purisaṁ' mean?",
+         "opts": [
+             "'Craving gives birth to a person'",
+             "'Wisdom gives birth to a person'",
+             "'A deity gives birth to a person'",
+             "'Nothing gives birth to anyone'"],
+         "correct": 0,
+         "expl": "The verse's first and central claim."},
+        {"q": "What distinction does the verse draw between the mind and the sentient being?",
+         "opts": [
+             "The mind is what runs about restlessly; the being as a whole is what enters transmigration",
+             "No distinction is drawn; they are treated as identical",
+             "The mind enters transmigration; the being runs about",
+             "Neither is mentioned in this discourse"],
+         "correct": 0,
+         "expl": "Two related but distinct claims within the same verse."},
+        {"q": "What does 'saṁsāra' mean?",
+         "opts": [
+             "'Transmigration, the wandering-on' &mdash; the cycle of repeated rebirth",
+             "'Liberation'",
+             "'A specific heavenly realm'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The cycle this discourse's whole question concerns."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+    ],
+    marginalia=[
+        ("Craving, as origin", [
+            "taṇhā janeti purisaṁ &mdash;",
+            "the generative cause",
+        ]),
+        ("Mind, and being", [
+            "the mind runs about,",
+            "the being transmigrates",
+        ]),
+        ("Suffering, feared most", [
+            "not death alone,",
+            "but suffering itself",
+        ]),
+        ("First of a triple", [
+            "three lines shared,",
+            "one line varying, three times",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.55/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.54.html">SN 1.54 &middot; Grounds</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.23.html">SN 1.23 &middot; A Tangle</a> &mdash; an earlier '
+        "discourse also naming craving's role in continued existence.",
+        "SN 1.56 &middot; Gives Birth (2nd) &mdash; the next discourse, sharing this "
+        "one's first three lines exactly.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.56 — Dutiyajanasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 56, "Dutiyajana", "Gives Birth (2nd)",
+    meta_title="SN 1.56 — Gives Birth (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the second "
+        "Dutiyajanasutta — sharing SN 1.55's first three lines exactly, this discourse "
+        "asks instead what a person is not free from, answered with suffering itself. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, sharing three lines exactly with SN 1.55, "
+                 "varying only its fourth"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("The middle of a three-part sequence", "This discourse's fourth line shifts "
+                                                 "from SN 1.55's fear of suffering to "
+                                                 "not being free from it"),
+    ],
+    why=(
+        "This discourse repeats SN 1.55's first three lines and answers exactly: "
+        "craving gives birth to a person, their mind runs about, and a sentient being "
+        "enters transmigration. Only the fourth question changes &mdash; rather than "
+        "asking what a person fears most, it asks what a person is not free from "
+        "&mdash; and the answer shifts to match: not fear of suffering, but freedom "
+        "from suffering itself, still unattained."),
+    guide=[
+        ("From fear to bondage", [
+            "SN 1.55 asked what a person fears most and answered "
+            "&lsquo;suffering&rsquo;; this discourse asks instead what a person is "
+            "&lsquo;not free from,&rsquo; and answers with the same word, "
+            "&lsquo;suffering,&rsquo; but in a different grammatical relationship "
+            "&mdash; not an object of dread but a condition not yet escaped."]),
+        ("The same three causes, a different consequence named", [
+            "Craving still gives birth to a person, the mind still runs about, a being "
+            "still enters transmigration &mdash; the mechanics described in SN 1.55 "
+            "remain unchanged. What shifts is only which aspect of suffering's "
+            "relationship to a person the final line asks about: being afraid of it, "
+            "versus being bound by it."]),
+        ("A meaningful, not merely cosmetic, variation", [
+            "Fear and lack of freedom are related but distinct claims: fear describes "
+            "an anticipatory attitude toward something, while lack of freedom "
+            "describes an ongoing condition regardless of attitude. This discourse's "
+            "single changed line asks about the second, having already had the first "
+            "addressed by SN 1.55 immediately before it."]),
+    ],
+    terms=[
+        ("taṇhā janeti purisaṁ",
+         "&ldquo;craving gives birth to a person&rdquo; &mdash; unchanged from SN "
+         "1.55, the first of three lines shared exactly between the two discourses."),
+        ("cittamassa vidhāvati",
+         "&ldquo;their mind is what runs about&rdquo; &mdash; the second shared line, "
+         "again unchanged."),
+        ("satto saṁsāramāpādi",
+         "&ldquo;a sentient being enters transmigration&rdquo; &mdash; the third "
+         "shared line, completing the identical opening three-quarters of both "
+         "discourses."),
+        ("dukkhā na parimuccati",
+         "&ldquo;from suffering they are not free&rdquo; &mdash; this discourse's own "
+         "unique fourth answer, distinct from SN 1.55's naming of fear."),
+        ("parimuccati",
+         "&ldquo;is freed, is released&rdquo; &mdash; the verb this discourse's "
+         "closing claim negates, describing a freedom not yet attained."),
+    ],
+    text_intro=(
+        "The discourse in full: the same three causes as SN 1.55, closing on a "
+        "different consequence. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.56:1.1-1.4"),
+        ("p", "&sect;2", "sn1.56:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How many of this discourse's four lines are shared exactly with SN 1.55?",
+         "opts": [
+             "Three of four; only the final line differs",
+             "All four lines are shared exactly",
+             "None; every line differs from SN 1.55",
+             "Only one line is shared"],
+         "correct": 0,
+         "expl": "The same pattern as SN 1.55's own opening three lines."},
+        {"q": "What does this discourse's fourth question ask, distinct from SN 1.55's?",
+         "opts": [
+             "What a person is not free from, rather than what they fear most",
+             "What produces the most wealth",
+             "Who is the best friend",
+             "How many lamps light the world"],
+         "correct": 0,
+         "expl": "A shift from fear to an ongoing condition of bondage."},
+        {"q": "What does this discourse's answer name as what a person is not free from?",
+         "opts": [
+             "Suffering",
+             "Wealth",
+             "Craving alone, distinct from suffering",
+             "Nothing; the discourse claims everyone is already free"],
+         "correct": 0,
+         "expl": "Dukkhā na parimuccati &mdash; the same underlying condition, differently framed."},
+        {"q": "Do the first three answers change between SN 1.55 and this discourse?",
+         "opts": [
+             "No &mdash; craving, the mind, and transmigration are described identically in both",
+             "Yes, all three answers change completely",
+             "Only the answer about craving changes",
+             "Only the answer about the mind changes"],
+         "correct": 0,
+         "expl": "The mechanics of rebirth remain unchanged; only the final question and answer shift."},
+        {"q": "How does 'fear of suffering' differ from 'not being free from suffering'?",
+         "opts": [
+             "Fear describes an anticipatory attitude; lack of freedom describes an ongoing condition",
+             "The two phrases mean exactly the same thing with no distinction",
+             "Fear is a stronger claim than lack of freedom",
+             "Lack of freedom has nothing to do with suffering at all"],
+         "correct": 0,
+         "expl": "Related but distinct claims, each addressed by a different discourse in this sequence."},
+        {"q": "What does 'parimuccati' mean?",
+         "opts": [
+             "'Is freed, is released'",
+             "'Is bound more tightly'",
+             "'Gives birth'",
+             "'Runs about restlessly'"],
+         "correct": 0,
+         "expl": "The verb negated in this discourse's closing claim."},
+        {"q": "What is this discourse's position in the three-part sequence it belongs to?",
+         "opts": [
+             "The second, following SN 1.55 and preceding SN 1.57",
+             "The first in the sequence",
+             "The last in the sequence",
+             "It does not belong to any sequence"],
+         "correct": 0,
+         "expl": "The middle discourse of this collection's first three-part matched sequence."},
+        {"q": "What does 'satto saṁsāramāpādi' mean?",
+         "opts": [
+             "'A sentient being enters transmigration'",
+             "'A sentient being is liberated'",
+             "'A sentient being gives birth'",
+             "'A sentient being runs about'"],
+         "correct": 0,
+         "expl": "The third of three lines shared exactly with SN 1.55."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Is this variation between SN 1.55 and SN 1.56 merely cosmetic?",
+         "opts": [
+             "No &mdash; fear and lack of freedom are meaningfully distinct claims about suffering",
+             "Yes, the two discourses mean exactly the same thing",
+             "The variation makes the two discourses contradict each other",
+             "The variation has no relationship to suffering at all"],
+         "correct": 0,
+         "expl": "Two related but genuinely different aspects of suffering's relationship to a person."},
+    ],
+    marginalia=[
+        ("Three lines, unchanged", [
+            "craving, the mind,",
+            "transmigration &mdash; as before",
+        ]),
+        ("A fourth line, shifted", [
+            "not feared most,",
+            "but not yet free from",
+        ]),
+        ("Fear, or bondage", [
+            "two different relationships",
+            "to the same suffering",
+        ]),
+        ("The middle of three", [
+            "SN 1.55, this, then 1.57 &mdash;",
+            "one line varying each time",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.56/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.55.html">SN 1.55 &middot; Gives Birth (1st)</a> &mdash; the '
+        "discourse immediately before this one, sharing its first three lines exactly.",
+        '<a href="sn-1.34.html">SN 1.34 &middot; There Are None</a> &mdash; an earlier '
+        "discourse also concerned with what a person is or isn&rsquo;t free from.",
+        "SN 1.57 &middot; Gives Birth (3rd) &mdash; the next discourse, completing "
+        "this three-part sequence.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.57 — Tatiyajanasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 57, "Tatiyajana", "Gives Birth (3rd)",
+    meta_title="SN 1.57 — Gives Birth (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the third "
+        "Tatiyajanasutta — completing the three-part sequence begun at SN 1.55, this "
+        "discourse asks a person's destiny and answers that their own deeds are their "
+        "final haven. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, sharing three lines exactly with SN 1.55 and "
+                 "SN 1.56, varying only its fourth"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("Completing a three-part sequence", "The third and final variation on SN "
+                                             "1.55's opening three lines, closing on "
+                                             "a person's destiny rather than their "
+                                             "fear or their bondage"),
+    ],
+    why=(
+        "This discourse completes the sequence begun at SN 1.55: craving still gives "
+        "birth to a person, their mind still runs about, a sentient being still enters "
+        "transmigration. Where SN 1.55 asked what a person fears most and SN 1.56 "
+        "asked what they are not free from, this final discourse asks what their "
+        "destiny actually is &mdash; and answers that a person's own deeds "
+        "(<em>kamma</em>) are their final haven, the place their trajectory ultimately "
+        "comes to rest."),
+    guide=[
+        ("From fear and bondage to destiny", [
+            "The sequence's three final lines trace a clear progression: SN 1.55 named "
+            "what a person dreads (suffering), SN 1.56 named what they remain bound by "
+            "(the same suffering, differently framed), and this discourse names where "
+            "they ultimately end up &mdash; not a place in the ordinary sense, but "
+            "their own accumulated deeds."]),
+        ("Deeds as a 'haven', not merely a cause", [
+            "Calling <em>kamma</em> a person's &lsquo;final haven&rsquo; "
+            "(<em>gati</em>, sometimes rendered &lsquo;destiny&rsquo; or "
+            "&lsquo;destination&rsquo;) is a striking image: rather than treating deeds "
+            "merely as the mechanical cause of some separate later outcome, the verse "
+            "identifies deeds themselves as the place a person's trajectory settles "
+            "into &mdash; there is no further destination behind or beyond one's own "
+            "actions."]),
+        ("A recurring theme across this vagga", [
+            "This discourse's closing claim echoes SN 1.53's earlier point that a "
+            "person's own good deeds, not any other friend, accompany them into the "
+            "next life. Read together, this vagga returns repeatedly to the same "
+            "underlying conviction: nothing outside a person's own conduct determines "
+            "what ultimately becomes of them."]),
+        ("A sequence completed, not merely repeated three times", [
+            "Read in order, SN 1.55 through SN 1.57 don't simply restate the same "
+            "point three times with cosmetic variation; they build a small "
+            "progression &mdash; fear, then bondage, then destiny &mdash; using an "
+            "identical shared frame to trace three genuinely different aspects of the "
+            "same underlying condition."]),
+    ],
+    terms=[
+        ("taṇhā janeti purisaṁ",
+         "&ldquo;craving gives birth to a person&rdquo; &mdash; unchanged for a third "
+         "time, completing this sequence's shared opening line."),
+        ("cittamassa vidhāvati",
+         "&ldquo;their mind is what runs about&rdquo; &mdash; the second shared line, "
+         "again unchanged."),
+        ("satto saṁsāramāpādi",
+         "&ldquo;a sentient being enters transmigration&rdquo; &mdash; the third "
+         "shared line, completing the identical three-quarters shared across all "
+         "three discourses in this sequence."),
+        ("kammaṁ tassa parāyanaṁ",
+         "&ldquo;deeds are their final haven&rdquo; &mdash; this discourse's own "
+         "unique closing answer, naming deeds as where a person's trajectory settles."),
+        ("gati",
+         "&ldquo;destiny, destination&rdquo; &mdash; the question this discourse asks, "
+         "distinct from SN 1.55's fear and SN 1.56's bondage."),
+    ],
+    text_intro=(
+        "The discourse in full: the same three causes as SN 1.55 and SN 1.56, closing "
+        "this sequence on the question of destiny. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.57:1.1-1.4"),
+        ("p", "&sect;2", "sn1.57:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse's fourth line ask, distinct from SN 1.55 and SN 1.56?",
+         "opts": [
+             "What a person's destiny actually is",
+             "What produces the most wealth",
+             "Who is the best friend",
+             "How many lamps light the world"],
+         "correct": 0,
+         "expl": "Completing the progression from fear, to bondage, to destiny."},
+        {"q": "What does this discourse name as a person's 'final haven'?",
+         "opts": [
+             "Their own deeds (kamma)",
+             "A specific heavenly realm",
+             "Their family",
+             "Wealth accumulated in life"],
+         "correct": 0,
+         "expl": "Kammaṁ tassa parāyanaṁ &mdash; deeds themselves as the place a trajectory settles."},
+        {"q": "How does calling deeds a 'haven' differ from treating them merely as a cause?",
+         "opts": [
+             "It identifies deeds as the destination itself, not merely the mechanism producing a separate later outcome",
+             "It denies that deeds have any effect at all",
+             "It treats deeds as identical to fear",
+             "There is no meaningful difference between the two framings"],
+         "correct": 0,
+         "expl": "A striking image: no further destination lies behind or beyond one's own actions."},
+        {"q": "What earlier discourse in this vagga does this discourse's closing claim echo?",
+         "opts": [
+             "SN 1.53, on a person's own good deeds as their friend in the next life",
+             "SN 1.44, on one root",
+             "SN 1.48, praising Sāriputta",
+             "No earlier discourse shares this theme"],
+         "correct": 0,
+         "expl": "A recurring conviction across this vagga about deeds determining outcome."},
+        {"q": "What progression do SN 1.55 through SN 1.57 trace together?",
+         "opts": [
+             "Fear, then bondage, then destiny",
+             "Wealth, then poverty, then wealth again",
+             "Youth, then middle age, then old age",
+             "No progression exists; all three are identical"],
+         "correct": 0,
+         "expl": "Three genuinely different aspects of the same underlying condition."},
+        {"q": "What does 'gati' mean?",
+         "opts": [
+             "'Destiny, destination'",
+             "'Fear'",
+             "'Bondage'",
+             "'Craving'"],
+         "correct": 0,
+         "expl": "The specific question this discourse asks, distinct from its two companions."},
+        {"q": "Are the sequence's first three lines the same across all three discourses?",
+         "opts": [
+             "Yes &mdash; craving, the mind, and transmigration are described identically in all three",
+             "No, each discourse changes all four lines completely",
+             "Only two of the three discourses share these lines",
+             "The lines contradict each other across the three discourses"],
+         "correct": 0,
+         "expl": "The shared frame that makes this a matched sequence rather than three unrelated discourses."},
+        {"q": "What does 'kammaṁ tassa parāyanaṁ' mean?",
+         "opts": [
+             "'Deeds are their final haven'",
+             "'Deeds are meaningless'",
+             "'Craving is their final haven'",
+             "'Fear is their final haven'"],
+         "correct": 0,
+         "expl": "This discourse's unique closing answer."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Is this discourse simply a third repetition of the same point as SN 1.55 and SN 1.56?",
+         "opts": [
+             "No &mdash; it completes a small progression, adding a genuinely new aspect (destiny) to fear and bondage",
+             "Yes, all three discourses make exactly the same point",
+             "This discourse contradicts SN 1.55 and SN 1.56 entirely",
+             "This discourse has no relationship to the other two"],
+         "correct": 0,
+         "expl": "A deliberate build across the three-part sequence, not mere repetition."},
+    ],
+    marginalia=[
+        ("Three lines, a third time", [
+            "craving, the mind,",
+            "transmigration &mdash; unchanged",
+        ]),
+        ("A final question", [
+            "not fear, not bondage,",
+            "but destiny itself",
+        ]),
+        ("Deeds, as haven", [
+            "kammaṁ tassa parāyanaṁ &mdash;",
+            "no further destination",
+        ]),
+        ("A progression completed", [
+            "fear, then bondage,",
+            "then where it all settles",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.57/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.56.html">SN 1.56 &middot; Gives Birth (2nd)</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.53.html">SN 1.53 &middot; A Friend</a> &mdash; the earlier '
+        "discourse already naming a person's own deeds as their friend in the next "
+        "life.",
+        "SN 1.58 &middot; Deviation &mdash; the next discourse, on lust, youth, and "
+        "the waterless bath of fervor and chastity.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.58 — Uppathasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 58, "Uppatha", "Deviation",
+    meta_title="SN 1.58 — Deviation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Uppathasutta "
+        "— a four-part riddle on lust as deviation, youth's constant ending, and a "
+        "line naming women as the stain of chastity, read honestly for what it is: a "
+        "male celibate monastic's perspective. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by point"),
+        ("Form", "A four-line question, answered by a six-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "though its third answer carries real social weight worth "
+                       "addressing honestly"),
+        ("A perspective worth naming plainly", "This discourse's third answer speaks "
+                                                "specifically from the standpoint of a "
+                                                "celibate male renunciant tradition, "
+                                                "not as a general claim about women"),
+    ],
+    why=(
+        "The question asks about four things named negatively: what counts as a "
+        "deviation from the path, what is constantly ending, what stains chastity, "
+        "and what constitutes a bath that uses no water. The answer is direct: lust is "
+        "the deviation, youth is what constantly ends, women are named as the stain of "
+        "chastity that &lsquo;this generation clings to,&rsquo; and fervor combined "
+        "with chastity is the bath that purifies without water."),
+    guide=[
+        ("Lust named as departure from a path", [
+            "<em>Uppatha</em>, this discourse's title, names a side-track or wrong "
+            "turning away from a road &mdash; the verse identifies lust "
+            "(<em>rāga</em>) specifically as this kind of deviation, a departure from "
+            "a course rather than merely an undesirable feeling in isolation."]),
+        ("Youth as something already ending", [
+            "The second answer treats youth not as a stable stage of life but as "
+            "something &lsquo;ending day and night,&rsquo; continuously passing even "
+            "while it is being lived &mdash; a claim about impermanence consistent "
+            "with this collection's recurring concern with old age and decline."]),
+        ("A line worth reading for what it actually is", [
+            "The third answer &mdash; &lsquo;women are the stain of chastity, to "
+            "which this generation clings&rsquo; &mdash; is not a general claim about "
+            "women's nature; it is spoken from the specific standpoint of a celibate "
+            "male monastic tradition, addressing an obstacle to that tradition's own "
+            "vow, not a universal moral verdict. This reading guide presents it "
+            "plainly rather than softening or erasing it, and names its actual "
+            "perspective rather than pretending the verse speaks in some neutral, "
+            "universal voice it does not occupy."]),
+        ("A bath that requires no water", [
+            "The verse's final image reframes purification entirely: not a literal "
+            "washing, but &lsquo;fervor and chastity&rsquo; (<em>ātāpo ca "
+            "brahmacariyañca</em>) together named as what actually cleanses, a "
+            "distinctly monastic answer to what, in other traditions of the same "
+            "period, might have been sought through ritual bathing instead."]),
+    ],
+    terms=[
+        ("uppatha",
+         "&ldquo;deviation, a wrong turning&rdquo; &mdash; this discourse's title, "
+         "naming a departure from a proper road."),
+        ("rāgo",
+         "&ldquo;lust&rdquo; &mdash; named as this discourse's deviation, a departure "
+         "from the path rather than merely an undesirable feeling."),
+        ("yobbanaṁ jīyati ahorattaṁ",
+         "&ldquo;youth is ending day and night&rdquo; &mdash; the second answer, "
+         "describing youth as continuously passing rather than as a stable stage."),
+        ("mala brahmacariyassa itthiyo",
+         "&ldquo;women are the stain of chastity&rdquo; &mdash; the third answer, "
+         "spoken specifically from the standpoint of a celibate male monastic "
+         "tradition rather than as a universal claim."),
+        ("ātāpo ca brahmacariyañca",
+         "&ldquo;fervor and chastity&rdquo; &mdash; named together as the "
+         "&lsquo;waterless bath,&rsquo; a monastic reframing of ritual purification."),
+    ],
+    text_intro=(
+        "The discourse in full, read plainly rather than softened. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.58:1.1-1.4"),
+        ("p", "&sect;2", "sn1.58:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "What does the verse name as a 'deviation' from the path?",
+         "opts": [
+             "Lust (rāga)",
+             "Wisdom",
+             "Faith",
+             "Old age"],
+         "correct": 0,
+         "expl": "A departure from a proper course, named directly by this discourse's title."},
+        {"q": "How does the verse describe youth?",
+         "opts": [
+             "As constantly ending, day and night, even while being lived",
+             "As a permanently stable stage of life",
+             "As something that never actually ends",
+             "As irrelevant to the discourse's concerns"],
+         "correct": 0,
+         "expl": "A claim about impermanence, not a static description."},
+        {"q": "How should this discourse's line about women be read, according to this reading guide?",
+         "opts": [
+             "As spoken from the specific standpoint of a celibate male monastic tradition, not as a universal claim",
+             "As an objective, universal truth about all women everywhere",
+             "As a line that should be silently omitted from this reading guide",
+             "As a claim with no relationship to the discourse's monastic context"],
+         "correct": 0,
+         "expl": "Named plainly for its actual perspective, neither erased nor presented as neutral."},
+        {"q": "What does the verse name as the 'waterless bath'?",
+         "opts": [
+             "Fervor and chastity together",
+             "Literal bathing in a river",
+             "Wealth and possessions",
+             "Nothing is named as the waterless bath"],
+         "correct": 0,
+         "expl": "Ātāpo ca brahmacariyañca &mdash; a monastic reframing of ritual purification."},
+        {"q": "What does 'uppatha' mean?",
+         "opts": [
+             "'Deviation, a wrong turning' &mdash; a departure from a proper road",
+             "'The correct path'",
+             "'A type of deity'",
+             "'A monastery near Sāvatthī'"],
+         "correct": 0,
+         "expl": "This discourse's title, naming the image its first answer applies to lust."},
+        {"q": "Does this reading guide claim the verse's line about women speaks in a neutral, universal voice?",
+         "opts": [
+             "No &mdash; it names the verse's actual standpoint explicitly, as a specific monastic tradition's perspective",
+             "Yes, it presents the line as a neutral, timeless truth",
+             "It claims the line has no discernible perspective at all",
+             "It refuses to discuss the line in any way"],
+         "correct": 0,
+         "expl": "An explicit naming of perspective, consistent with this project's practice for socially weighted passages."},
+        {"q": "What does 'rāgo' mean?",
+         "opts": [
+             "'Lust'",
+             "'Wisdom'",
+             "'Old age'",
+             "'Fervor'"],
+         "correct": 0,
+         "expl": "This discourse's answer to what counts as deviation."},
+        {"q": "Is 'this generation clings to' part of the verse's own wording?",
+         "opts": [
+             "Yes &mdash; it is part of the third answer's own text, describing an attachment the verse itself names",
+             "No, it is an addition invented entirely by this reading guide",
+             "It refers to a specific historical event unrelated to the verse's subject",
+             "It contradicts the rest of the third answer"],
+         "correct": 0,
+         "expl": "Part of the source text itself, describing what the verse identifies as a widespread attachment."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "How many total lines does the verse's reply run to?",
+         "opts": [
+             "Six",
+             "Two",
+             "Twelve",
+             "One"],
+         "correct": 0,
+         "expl": "Longer than most riddle-replies in this vagga, given its four separate answers."},
+    ],
+    marginalia=[
+        ("A deviation, named", [
+            "lust, a wrong turning",
+            "from the proper road",
+        ]),
+        ("Youth, already ending", [
+            "day and night,",
+            "even while lived",
+        ]),
+        ("A perspective, named plainly", [
+            "spoken from a specific",
+            "monastic standpoint",
+        ]),
+        ("A bath without water", [
+            "fervor and chastity,",
+            "purification reframed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.58/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.57.html">SN 1.57 &middot; Gives Birth (3rd)</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-1.28.html">SN 1.28 &middot; Affluent</a> &mdash; an earlier '
+        "discourse in this collection also weighing social claims honestly against "
+        "their own stated context.",
+        "SN 1.59 &middot; A Partner &mdash; the next discourse, on faith as partner "
+        "and wisdom as instructor.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.59 — Dutiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    1, 59, "Dutiya", "A Partner",
+    meta_title="SN 1.59 — A Partner | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Dutiyasutta "
+        "— a three-part riddle naming faith as a person's partner, wisdom as their "
+        "instructor, and delight in extinguishment as release from all suffering. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a three-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form"),
+        ("An uninformative title", "This discourse's Pali title, Dutiyasutta, means "
+                                   "simply &lsquo;the second discourse&rsquo; &mdash; "
+                                   "one of very few titles in this collection that "
+                                   "names no content at all"),
+    ],
+    why=(
+        "The question asks about three roles in a person's life: who is their "
+        "partner, what instructs them, and enjoying what is a mortal released from all "
+        "suffering? The answer names faith as the partner, wisdom as the instructor, "
+        "and delighting in extinguishment &mdash; not any ordinary pleasure &mdash; as "
+        "what actually releases a mortal from suffering entirely."),
+    guide=[
+        ("Faith named as partner, again", [
+            "This same image, faith as a person's <em>sahāyā</em>, already opened SN "
+            "1.36 earlier in this collection. Here it recurs as the answer to a "
+            "differently framed question, confirming the image's stability across "
+            "more than one discourse rather than being unique to either."]),
+        ("Wisdom as instructor, not merely as possession", [
+            "Where SN 1.51 and SN 1.52 named wisdom as people's &lsquo;treasure,&rsquo; "
+            "this discourse names it instead as what &lsquo;instructs&rsquo; "
+            "(<em>anusāsati</em>) a person &mdash; a shift from wisdom as something "
+            "held to wisdom as something active, actively guiding conduct rather than "
+            "simply being possessed."]),
+        ("Delight in extinguishment, not delight in general", [
+            "The verse's closing claim is specific: not merely happiness or "
+            "contentment releases a mortal from suffering, but delighting specifically "
+            "in extinguishment (<em>nibbānābhirato</em>) &mdash; a pointed distinction "
+            "between ordinary pleasure and delight directed at the cessation of "
+            "craving itself."]),
+        ("A title with no descriptive content", [
+            "Unlike almost every other discourse in this collection, whose Pali title "
+            "names its central image or theme, this discourse's title simply means "
+            "&lsquo;the second discourse&rsquo; &mdash; giving no hint at all of its "
+            "content. Sujato's English title, &lsquo;A Partner,&rsquo; supplies the "
+            "descriptive content the Pali title itself withholds."]),
+    ],
+    terms=[
+        ("sahāyā",
+         "&ldquo;a partner, companion&rdquo; &mdash; the answer for a person's "
+         "partner, the same image already met at SN 1.36's opening verse."),
+        ("paññā anusāsati",
+         "&ldquo;wisdom instructs&rdquo; &mdash; the second answer, framing wisdom as "
+         "an active guide rather than a static possession."),
+        ("nibbānābhirato",
+         "&ldquo;delighting in extinguishment&rdquo; &mdash; the specific quality the "
+         "verse's closing line names as what actually releases a mortal from "
+         "suffering."),
+        ("sabbadukkhā pamuccati",
+         "&ldquo;released from all suffering&rdquo; &mdash; the outcome the question "
+         "asks about, matched by the verse's closing answer."),
+        ("dutiya",
+         "&ldquo;the second&rdquo; &mdash; this discourse's uninformative Pali title, "
+         "naming its numerical position rather than its content."),
+    ],
+    text_intro=(
+        "The discourse in full: three roles matched to three answers, closing on a "
+        "specific kind of delight. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.59:1.1-1.4"),
+        ("p", "&sect;2", "sn1.59:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What three roles does the opening question ask about?",
+         "opts": [
+             "Partner, instructor, and what releases a mortal from suffering",
+             "Friend while journeying, friend at home, and friend in need",
+             "What's good in old age, when grounded, and hard for thieves",
+             "What gives birth to a person and what runs about"],
+         "correct": 0,
+         "expl": "Three distinct roles, each matched to a specific answer."},
+        {"q": "What does the reply name as a person's partner?",
+         "opts": [
+             "Faith (saddhā)",
+             "Wisdom",
+             "A caravan",
+             "A wife"],
+         "correct": 0,
+         "expl": "The same image already met at SN 1.36's opening verse."},
+        {"q": "What does the reply name as what instructs a person?",
+         "opts": [
+             "Wisdom (paññā)",
+             "Faith",
+             "Merit",
+             "Craving"],
+         "correct": 0,
+         "expl": "Framed as an active guide, distinct from wisdom named as mere 'treasure' at SN 1.51."},
+        {"q": "What specific quality does the verse name as releasing a mortal from all suffering?",
+         "opts": [
+             "Delighting in extinguishment specifically, not delight or pleasure in general",
+             "Any form of ordinary happiness",
+             "Wealth accumulated over a lifetime",
+             "Nothing can release a mortal from suffering"],
+         "correct": 0,
+         "expl": "Nibbānābhirato &mdash; a pointed distinction from ordinary pleasure."},
+        {"q": "What does this discourse's Pali title, Dutiyasutta, actually mean?",
+         "opts": [
+             "'The second discourse' &mdash; naming its numerical position, not its content",
+             "'A partner', matching Sujato's English title exactly",
+             "'Wisdom', naming its central theme",
+             "'Faith', naming its central theme"],
+         "correct": 0,
+         "expl": "One of very few titles in this collection with no descriptive content at all."},
+        {"q": "How does this discourse's treatment of wisdom compare to SN 1.51 and SN 1.52?",
+         "opts": [
+             "Those discourses name wisdom as 'treasure'; this discourse names it as an active 'instructor'",
+             "All three discourses use exactly the same description of wisdom",
+             "This discourse denies wisdom has any value at all",
+             "SN 1.51 and SN 1.52 don't mention wisdom at all"],
+         "correct": 0,
+         "expl": "A shift from wisdom as possession to wisdom as active guidance."},
+        {"q": "What does 'sahāyā' mean?",
+         "opts": [
+             "'A partner, companion'",
+             "'An enemy'",
+             "'A stranger'",
+             "'A type of deity'"],
+         "correct": 0,
+         "expl": "The image already established at SN 1.36 and repeated here."},
+        {"q": "What does 'nibbānābhirato' mean?",
+         "opts": [
+             "'Delighting in extinguishment'",
+             "'Fearing extinguishment'",
+             "'Ignoring extinguishment entirely'",
+             "'Delighting in wealth'"],
+         "correct": 0,
+         "expl": "The specific quality named as producing release from all suffering."},
+        {"q": "What is the setting of this discourse?",
+         "opts": [
+             "Not narrated in the source text; no discourse in this vagga carries a narrative frame",
+             "Explicitly set near Rājagaha",
+             "Explicitly set at Kapilavatthu",
+             "Explicitly set at Vesālī"],
+         "correct": 0,
+         "expl": "Like every discourse in this vagga, no setting is given directly."},
+        {"q": "Where does this discourse's English title, 'A Partner', come from, given the Pali title's lack of content?",
+         "opts": [
+             "It is Sujato's own descriptive English title, supplying what the Pali title withholds",
+             "It is a direct, word-for-word translation of the Pali title",
+             "It refers to a different discourse entirely",
+             "No English title exists for this discourse"],
+         "correct": 0,
+         "expl": "A descriptive title chosen by the translator, not inherited from the Pali."},
+    ],
+    marginalia=[
+        ("Faith, again as partner", [
+            "the same image",
+            "as SN 1.36",
+        ]),
+        ("Wisdom, as active guide", [
+            "not merely treasure held,",
+            "but instruction given",
+        ]),
+        ("A specific delight", [
+            "not pleasure in general,",
+            "but delight in extinguishment",
+        ]),
+        ("A title without content", [
+            "&ldquo;the second discourse&rdquo; &mdash;",
+            "the English title supplies the rest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.59/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.58.html">SN 1.58 &middot; Deviation</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.36.html">SN 1.36 &middot; Faith</a> &mdash; the earlier '
+        "discourse already using faith as a person's partner.",
+        "SN 1.60 &middot; A Poet &mdash; the next discourse, this vagga's last, and a "
+        "rare moment of reflection on verse-making itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 1.60 — Kavisutta (closes the Jarāvagga)
+# --------------------------------------------------------------------------- #
+page(
+    1, 60, "Kavi", "A Poet",
+    meta_title="SN 1.60 — A Poet | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the Kavisutta — a "
+        "rare moment of the canon reflecting on its own literary form, naming metre, "
+        "syllables, names, and the poet as what verses depend on. Closes the Jarāvagga "
+        "and, fittingly, this Book with Verses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not narrated in this discourse's source text; no discourse in this "
+                    "vagga carries a narrative frame at all"),
+        ("Speakers", "Not named explicitly; a four-part riddle answered point by "
+                     "point"),
+        ("Form", "A four-line question, answered by a matching four-line reply"),
+        ("Length", "~30 seconds to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; direct in form, "
+                       "unusual in subject rather than in difficulty"),
+        ("Closing this vagga", "The tenth and last discourse of the Jarāvagga, and a "
+                               "fitting close for the very book &mdash; the "
+                               "Sagāthāvagga, &lsquo;the Book with Verses&rsquo; "
+                               "&mdash; this discourse itself belongs to"),
+    ],
+    why=(
+        "Every other discourse in this vagga asks about ethics, friendship, rebirth, "
+        "or purification. This one, closing the vagga, turns instead to something no "
+        "discourse in this collection has asked about directly: what makes a verse a "
+        "verse. The question asks about the source of verses, what constitutes their "
+        "phrasing, what they depend on, and what underlies them &mdash; and the answer "
+        "names metre, syllables, names, and, finally, the poet who composes them."),
+    guide=[
+        ("A rare turn toward literary self-reflection", [
+            "Nowhere else in this collection does a discourse ask about the craft of "
+            "verse-making itself, rather than using verse as a vehicle for ethical or "
+            "doctrinal content. This discourse is a genuine outlier: its subject is "
+            "the form its own words are composed in."]),
+        ("Four components, from technical to personal", [
+            "The answer moves through four increasingly specific layers: metre "
+            "(<em>chando</em>) as the abstract structural source, syllables "
+            "(<em>akkharā</em>) as the concrete units that fill that structure, names "
+            "(<em>nāma</em>) as what verses are said to depend on, and finally the "
+            "poet (<em>kavi</em>) themselves as what underlies the whole enterprise "
+            "&mdash; moving from the most abstract element to the person actually "
+            "responsible for the verse."]),
+        ("A fitting close for the Book with Verses", [
+            "This entire first book of the Saṃyutta Nikāya is named the "
+            "Sagāthāvagga, &lsquo;the Book with Verses&rsquo; &mdash; and its sixth "
+            "vagga closes not with another ethical riddle but with a verse about "
+            "verses themselves. Read at the level of the whole book rather than only "
+            "this single vagga, the placement reads as a deliberate, self-aware note "
+            "closing out a section defined by its own poetic form."]),
+        ("An untranslated close, as with earlier vaggas", [
+            "As with SN 1.10, SN 1.20, SN 1.30, SN 1.40, and SN 1.50, this discourse "
+            "is followed in the source text by a closing colophon and a mnemonic "
+            "verse naming the Jarāvagga as finished and listing its ten titles "
+            "&mdash; left untranslated in this edition, and described here rather "
+            "than quoted, following this project's established practice."]),
+        ("Six vaggas closed, matching a consistent pattern each time", [
+            "Every vagga so far has closed on a discourse notably longer, richer, or "
+            "more distinctive than the discourses immediately preceding it &mdash; SN "
+            "1.10's reed simile, SN 1.20's unresolved philosophical verses, SN 1.30's "
+            "vivid physical description, SN 1.40's echoed verse, SN 1.50's reunion "
+            "across two Buddha-eras, and now this discourse's turn toward verse-"
+            "making itself. The pattern holds a sixth time."]),
+    ],
+    terms=[
+        ("kavi",
+         "&ldquo;a poet&rdquo; &mdash; this discourse's title, and its final, most "
+         "concrete answer, naming the person underlying every verse."),
+        ("chando",
+         "&ldquo;metre&rdquo; &mdash; the first and most abstract answer, naming "
+         "verse's structural source."),
+        ("akkharā",
+         "&ldquo;syllables&rdquo; &mdash; the second answer, the concrete units that "
+         "fill a verse's metrical structure."),
+        ("nāmasannissitā gāthā",
+         "&ldquo;verses depend on names&rdquo; &mdash; the third answer, naming what "
+         "verses rely on to carry meaning."),
+        ("gāthānamāsayo",
+         "&ldquo;what underlies verses&rdquo; &mdash; the question's final line, "
+         "answered by naming the poet themselves."),
+    ],
+    text_intro=(
+        "The discourse in full, with its untranslated closing colophon and mnemonic "
+        "verse described rather than quoted, as with the vaggas before it. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn1.60:1.1-1.4"),
+        ("p", "&sect;2", "sn1.60:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, unlike every other discourse in this vagga?",
+         "opts": [
+             "The craft of verse-making itself, rather than ethics, friendship, or rebirth",
+             "A riddle about numbers",
+             "The karmic destinations of the stingy and generous",
+             "What is good in old age"],
+         "correct": 0,
+         "expl": "A genuine outlier in subject within this vagga."},
+        {"q": "What does the reply name as the source of verses?",
+         "opts": [
+             "Metre (chando)",
+             "Wealth",
+             "A specific deity",
+             "Nothing is named as the source"],
+         "correct": 0,
+         "expl": "The most abstract of the four answers."},
+        {"q": "What does the reply name as constituting a verse's phrasing?",
+         "opts": [
+             "Syllables (akkharā)",
+             "Metre",
+             "A poet",
+             "Names"],
+         "correct": 0,
+         "expl": "The concrete units filling a verse's metrical structure."},
+        {"q": "What does the reply say verses depend on?",
+         "opts": [
+             "Names (nāma)",
+             "Wealth",
+             "A specific location",
+             "Nothing; verses depend on nothing"],
+         "correct": 0,
+         "expl": "The third answer, naming what verses rely on to carry meaning."},
+        {"q": "What does the reply name as underlying verses?",
+         "opts": [
+             "A poet (kavi)",
+             "A deity",
+             "A king",
+             "Nothing underlies verses"],
+         "correct": 0,
+         "expl": "The final, most concrete answer, naming the person responsible."},
+        {"q": "What is this entire first book of the Saṃyutta Nikāya named?",
+         "opts": [
+             "The Sagāthāvagga, 'the Book with Verses'",
+             "The Nidānavagga",
+             "The Khandhavagga",
+             "The Mahāvagga"],
+         "correct": 0,
+         "expl": "Making this discourse's subject a fitting, self-aware close for the book as a whole."},
+        {"q": "What follows this discourse in the source text, left untranslated?",
+         "opts": [
+             "A closing colophon and mnemonic verse listing the vagga's ten discourse titles",
+             "An entirely new discourse beginning immediately",
+             "A long prose commentary",
+             "Nothing follows; the source text ends abruptly"],
+         "correct": 0,
+         "expl": "The same pattern already seen at SN 1.10, SN 1.20, SN 1.30, SN 1.40, and SN 1.50."},
+        {"q": "What pattern has held across all six vaggas closed so far in this collection?",
+         "opts": [
+             "Each closes on a discourse notably longer, richer, or more distinctive than those preceding it",
+             "Each closes on the exact same discourse repeated",
+             "No pattern connects the closing discourses of different vaggas",
+             "Each vagga closes on a discourse shorter than all others in it"],
+         "correct": 0,
+         "expl": "A consistent structural feature across this collection's vaggas."},
+        {"q": "What is this discourse's position within the Jarāvagga?",
+         "opts": [
+             "It is the tenth and last discourse, closing the vagga",
+             "It is the vagga's first discourse",
+             "It belongs to the previous vagga, the Ādittavagga",
+             "It has no fixed position"],
+         "correct": 0,
+         "expl": "This discourse's own closing colophon marks the Jarāvagga as finished."},
+        {"q": "Does the answer's four components move from abstract to concrete, or the reverse?",
+         "opts": [
+             "From abstract (metre) to concrete (the poet themselves)",
+             "From concrete to abstract",
+             "There is no discernible progression",
+             "All four components are equally abstract"],
+         "correct": 0,
+         "expl": "Metre, syllables, names, then finally the person responsible."},
+    ],
+    marginalia=[
+        ("A turn toward verse itself", [
+            "not ethics or rebirth &mdash;",
+            "what makes a verse a verse",
+        ]),
+        ("Four layers, named", [
+            "metre, syllables,",
+            "names, and the poet",
+        ]),
+        ("A fitting close", [
+            "the Book with Verses,",
+            "closing on verse itself",
+        ]),
+        ("A sixth vagga, closed", [
+            "distinctive to the last,",
+            "as every vagga before it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn1.60/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.59.html">SN 1.59 &middot; A Partner</a> &mdash; the discourse '
+        "immediately before this one.",
+        '<a href="sn-1.51.html">SN 1.51 &middot; Old Age</a> &mdash; this vagga&rsquo;s '
+        "opening discourse, ten discourses back.",
+        '<a href="sn-1.50.html">SN 1.50 &middot; With Ghaṭīkāra</a> &mdash; the '
+        "discourse that closed the previous vagga, the Ādittavagga.",
+    ],
+)
