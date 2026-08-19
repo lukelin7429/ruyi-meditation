@@ -16205,3 +16205,2108 @@ page(
         "this entire collection's opening discourse, eighty discourses back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.1 — Paṭhamakassapasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 1, "Kassapa", "With Kassapa (1st)",
+    meta_title="SN 2.1 — With Kassapa (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paṭhamakassapasutta — the opening discourse of the Devaputtasaṃyutta, "
+        "in which the godling Kassapa observes that the Buddha has revealed "
+        "the mendicant but not his training, and is told to clarify the "
+        "matter himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove, late at night"),
+        ("Speakers", "The Buddha and the godling Kassapa"),
+        ("Form", "A brief prose exchange, closed with a four-line verse of "
+                 "training instructions"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, "
+                       "but the opening exchange is easy to misread as the "
+                       "Buddha declining to answer"),
+    ],
+    why=(
+        "This discourse opens the Devaputtasaṃyutta, the second book of "
+        "linked discourses, and does so with an unusual move: the godling "
+        "Kassapa observes that the Buddha has revealed the mendicant "
+        "(what one who has gone forth is) but not his instructions to a "
+        "mendicant (what one who has gone forth should do), and the Buddha, "
+        "rather than answering directly, tells Kassapa to clarify the "
+        "matter himself. Kassapa's own verse then supplies the answer: "
+        "learning well-spoken words, attending closely to ascetics, sitting "
+        "alone in hidden places, and calming the mind."),
+    guide=[
+        ("A godling named Kassapa, not the chief disciple", [
+            "This Kassapa is a deity of the same name as the Buddha's "
+            "foremost disciple in ascetic practice, Mahākassapa, but the "
+            "two are unrelated; nothing in the text identifies this "
+            "godling with any named human figure."]),
+        ("The Buddha declines to answer &mdash; almost", [
+            "&ldquo;Well then, Kassapa, clarify this matter yourself&rdquo; "
+            "reads at first like a refusal, but the verse that follows "
+            "shows it is something closer to an invitation: Kassapa "
+            "already has the answer, and the Buddha lets him give it "
+            "rather than supplying it himself."]),
+        ("The mendicant revealed, the training left open", [
+            "The godling's opening remark distinguishes two things: what a "
+            "mendicant is (already made clear, in the godling's view) and "
+            "what a mendicant should train in (not yet spelled out). The "
+            "distinction between describing a role and prescribing its "
+            "training recurs across this collection's early discourses."]),
+        ("Four trainings, no elaboration", [
+            "The closing verse names four trainings &mdash; well-spoken "
+            "words, closeness to ascetics, solitary sitting, and a calmed "
+            "mind &mdash; without ranking or explaining them further. The "
+            "discourse ends immediately after, with the Buddha's approval "
+            "and Kassapa's departure."]),
+        ("An opening discourse, paired with its sequel", [
+            "SN 2.1 and SN 2.2 are explicitly paired in the source text's "
+            "own numbering, &lsquo;With Kassapa (1st)&rsquo; and &lsquo;With "
+            "Kassapa (2nd)&rsquo;, the first title in this collection to "
+            "carry an ordinal &mdash; a pattern this book repeats several "
+            "times in its first ten discourses."]),
+    ],
+    terms=[
+        ("bhikkhu",
+         "&ldquo;mendicant&rdquo; &mdash; the role the godling says the "
+         "Buddha has already revealed, distinct from the training a "
+         "mendicant follows."),
+        ("sikkhā",
+         "&ldquo;training&rdquo; &mdash; what the godling says has not yet "
+         "been made explicit, and what his own closing verse supplies."),
+        ("subhāsitañca",
+         "&ldquo;well-spoken words&rdquo; &mdash; the first of the four "
+         "trainings named in Kassapa's verse."),
+        ("paṭisallāna",
+         "&ldquo;seclusion&rdquo; &mdash; sitting alone in hidden places, "
+         "the third training named."),
+        ("cittaṁ vūpasama",
+         "&ldquo;to calm the mind&rdquo; &mdash; the fourth and final "
+         "training, closing the verse."),
+    ],
+    text_intro=(
+        "The discourse in full: a godling's observation, the Buddha's "
+        "invitation, and a four-line answering verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.1:1.1-1.3"),
+        ("p", "&sect;2", "sn2.1:1.4-1.4"),
+        ("p", "&sect;3", "sn2.1:1.5-1.5"),
+        ("p", "&sect;4", "sn2.1:2.1-2.4"),
+        ("p", "&sect;5", "sn2.1:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What book of linked discourses does this sutta open?",
+         "opts": [
+             "The Devaputtasaṃyutta, the second book",
+             "The Devatāsaṃyutta, the first book",
+             "The Khandhasaṃyutta",
+             "The Bojjhaṅgasaṃyutta"],
+         "correct": 0,
+         "expl": "SN 2.1 opens the second saṃyutta, on godlings (devaputta) rather than deities (devatā)."},
+        {"q": "What does the godling Kassapa say the Buddha has revealed?",
+         "opts": [
+             "The mendicant, but not his instructions to a mendicant",
+             "The full training in complete detail",
+             "Nothing at all about mendicants",
+             "Only the rules of monastic discipline"],
+         "correct": 0,
+         "expl": "Kassapa's opening remark distinguishes the role from its training."},
+        {"q": "How does the Buddha respond to Kassapa's observation?",
+         "opts": [
+             "“Well then, Kassapa, clarify this matter yourself.”",
+             "He explains the training in full prose",
+             "He remains silent",
+             "He asks Kassapa to leave"],
+         "correct": 0,
+         "expl": "An invitation for Kassapa to answer his own question, not a refusal."},
+        {"q": "What is the first training named in Kassapa's verse?",
+         "opts": [
+             "Learning well-spoken words",
+             "Renouncing all possessions",
+             "Fasting after noon",
+             "Reciting the discourses daily"],
+         "correct": 0,
+         "expl": "“To learn well-spoken words” opens the four-line verse."},
+        {"q": "What is the third training named?",
+         "opts": [
+             "To sit alone in hidden places",
+             "To teach large assemblies",
+             "To travel constantly",
+             "To debate other ascetics"],
+         "correct": 0,
+         "expl": "Solitary sitting, immediately before the final training of calming the mind."},
+        {"q": "Is this Kassapa the same figure as the Buddha's disciple Mahākassapa?",
+         "opts": [
+             "No, nothing in the text identifies them as the same figure",
+             "Yes, explicitly stated in the text",
+             "The text says they are brothers",
+             "The text says Kassapa is Mahākassapa reborn as a godling"],
+         "correct": 0,
+         "expl": "A godling sharing the disciple's name, with no textual claim of identity."},
+        {"q": "How does the Buddha respond to Kassapa's closing verse?",
+         "opts": [
+             "The teacher approved",
+             "He asks a follow-up question",
+             "He corrects one of the four trainings",
+             "The text does not say"],
+         "correct": 0,
+         "expl": "“That's what the godling Kassapa said, and the teacher approved.”"},
+        {"q": "What happens to Kassapa after the exchange?",
+         "opts": [
+             "He bows, circles the Buddha respectfully, and vanishes",
+             "He stays to hear further teaching",
+             "He is reborn immediately",
+             "He argues further with the Buddha"],
+         "correct": 0,
+         "expl": "The same departure formula used throughout this collection's deity and godling discourses."},
+        {"q": "What is distinctive about this discourse's title among the book's first ten?",
+         "opts": [
+             "It is the first title in the collection to carry an ordinal, “(1st)”",
+             "It is the only title naming a place rather than a person",
+             "It is the longest title in the book",
+             "It is untitled in the source"],
+         "correct": 0,
+         "expl": "Paired explicitly with its sequel, “With Kassapa (2nd),” SN 2.2."},
+        {"q": "What distinguishes godlings (devaputta) from deities (devatā) in this collection's own terms?",
+         "opts": [
+             "The text treats them as synonyms describing the same kind of being",
+             "Godlings are exclusively female and deities exclusively male",
+             "Godlings live underground and deities live in the sky",
+             "Godlings can be reborn as humans and deities cannot"],
+         "correct": 0,
+         "expl": "SuttaCentral's own summary of this book notes devaputta and devatā are used as synonyms here."},
+    ],
+    marginalia=[
+        ("A role revealed, a training withheld", [
+            "the mendicant is named,",
+            "how to train is left open",
+        ]),
+        ("Clarify it yourself", [
+            "not a refusal &mdash;",
+            "an invitation to answer",
+        ]),
+        ("Four lines, four trainings", [
+            "words, ascetics, solitude,",
+            "a mind brought to calm",
+        ]),
+        ("A second book begins", [
+            "godlings now, not deities &mdash;",
+            "the same grove, late at night",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-1.81.html">SN 1.81 &middot; Free of Strife</a> &mdash; '
+        "the final discourse of the Devatāsaṃyutta, immediately before this "
+        "book's opening discourse.",
+        '<a href="sn-2.2.html">SN 2.2 &middot; With Kassapa (2nd)</a> '
+        "&mdash; this discourse's explicitly paired sequel.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.2 — Dutiyakassapasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 2, "Kassapa", "With Kassapa (2nd)",
+    meta_title="SN 2.2 — With Kassapa (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dutiyakassapasutta — the shortest discourse yet in this collection, "
+        "a single four-line verse on the meditator freed in mind who has "
+        "known the arising and passing of the world. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The godling Kassapa, speaking in the Buddha's presence"),
+        ("Form", "A single four-line verse, with no prose frame beyond one "
+                 "sentence of setting"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; the "
+                       "shortest and plainest discourse in the book so far"),
+    ],
+    why=(
+        "Where SN 2.1 built its point out of a prose exchange, its paired "
+        "sequel dispenses with dialogue entirely: Kassapa simply speaks one "
+        "verse in the Buddha's presence, unprompted, and the discourse "
+        "ends. The verse names the reward of the freed mind directly &mdash; "
+        "having known the arising and passing of the world, good-hearted "
+        "and independent, that is the reward &mdash; without narrative "
+        "elaboration of any kind."),
+    guide=[
+        ("No question, no answer, no departure formula", [
+            "Unlike SN 2.1 and most of this book's other discourses, this "
+            "one has no Buddha's reply, no approval formula, and no closing "
+            "departure scene. Kassapa speaks and the text simply stops."]),
+        ("Freed in mind, desiring the heart's fulfillment", [
+            "The verse opens with two conditions &mdash; being a "
+            "meditator freed in mind, and desiring the heart's fulfillment "
+            "&mdash; before naming what follows from them: knowledge of "
+            "the world's arising and passing."]),
+        ("The arising and passing of the world", [
+            "&ldquo;Having known the arising and passing of the world&rdquo; "
+            "compresses, into a single line, a theme this collection "
+            "returns to repeatedly under fuller treatment: the "
+            "impermanence of all conditioned things, viewed here from the "
+            "single vantage of one meditator's realization."]),
+        ("Good-hearted, independent: the reward named", [
+            "The verse's final line states the reward outright &mdash; "
+            "&lsquo;good-hearted, independent, that is their reward&rsquo; "
+            "&mdash; rather than describing a path toward it, a "
+            "difference in register from discourses elsewhere in this "
+            "book that dwell on the difficulty of the path itself."]),
+        ("A minimal companion to a fuller opening", [
+            "Read against SN 2.1's prose exchange and explicit training "
+            "list, this discourse's bareness reads as deliberate: the same "
+            "godling, the same book, but the answer given in the fewest "
+            "possible words."]),
+    ],
+    terms=[
+        ("jhāyī vimutto",
+         "&ldquo;a meditator, freed in mind&rdquo; &mdash; the verse's "
+         "opening description of its subject."),
+        ("hadayassa santi",
+         "&ldquo;the heart's fulfillment&rdquo; (literally, the heart's "
+         "peace or contentment) &mdash; what such a meditator desires."),
+        ("lokassa udayabbayaṁ",
+         "&ldquo;the arising and passing of the world&rdquo; &mdash; the "
+         "knowledge the verse identifies as central to its subject's "
+         "freedom."),
+        ("suvimutta",
+         "&ldquo;good-hearted&rdquo; (literally well-freed) &mdash; "
+         "describing the meditator alongside independence, in the verse's "
+         "final line."),
+        ("nirūpadhi",
+         "&ldquo;independent&rdquo; (literally without attachment) "
+         "&mdash; the verse's last descriptive term before naming the "
+         "reward."),
+    ],
+    text_intro=(
+        "The discourse in full: one setting sentence and a single four-line "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.2:1.1-1.2"),
+        ("p", "&sect;2", "sn2.2:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse differ structurally from SN 2.1?",
+         "opts": [
+             "It has no prose exchange, approval formula, or departure scene",
+             "It is spoken by the Buddha rather than a deity",
+             "It takes place in a different city",
+             "It contains no verse at all"],
+         "correct": 0,
+         "expl": "Kassapa speaks one verse and the text simply ends."},
+        {"q": "What two conditions does the verse's opening name?",
+         "opts": [
+             "Being a meditator freed in mind, and desiring the heart's fulfillment",
+             "Being wealthy and being learned",
+             "Living in a forest and eating once a day",
+             "Being ordained for many years"],
+         "correct": 0,
+         "expl": "The verse's first two lines set up what follows."},
+        {"q": "What knowledge does the verse identify as central?",
+         "opts": [
+             "The arising and passing of the world",
+             "The names of all the deities",
+             "The rules of monastic conduct",
+             "The geography of Jeta's Grove"],
+         "correct": 0,
+         "expl": "“Having known the arising and passing of the world” is the verse's pivotal line."},
+        {"q": "What is named as the reward in the verse's final line?",
+         "opts": [
+             "Being good-hearted and independent",
+             "Rebirth in a heavenly realm",
+             "Recognition by other ascetics",
+             "Freedom from physical illness"],
+         "correct": 0,
+         "expl": "“Good-hearted, independent, that is their reward.”"},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "The godling Kassapa, the same figure as in SN 2.1",
+             "A different godling entirely",
+             "The Buddha, addressing Kassapa",
+             "An unnamed group of deities"],
+         "correct": 0,
+         "expl": "The same Kassapa returns for this paired sequel."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further detail given",
+             "At Rājagaha",
+             "At Kapilavatthu",
+             "The setting is not named at all"],
+         "correct": 0,
+         "expl": "“At Sāvatthī” is the discourse's only setting note."},
+        {"q": "How does this discourse's length compare to others in the book so far?",
+         "opts": [
+             "It is the shortest discourse in the book so far",
+             "It is the longest discourse in the book so far",
+             "It is exactly the same length as SN 2.1",
+             "Length cannot be compared across discourses"],
+         "correct": 0,
+         "expl": "A single setting sentence plus a four-line verse, nothing more."},
+        {"q": "What does the verse's bareness suggest when read against SN 2.1?",
+         "opts": [
+             "A deliberate contrast: the same godling, but the fewest possible words",
+             "That the two discourses are unrelated",
+             "That this discourse is incomplete in the source",
+             "That this discourse predates SN 2.1"],
+         "correct": 0,
+         "expl": "The reading guide treats the minimalism as a deliberate companion to the fuller SN 2.1."},
+        {"q": "Does the Buddha reply to Kassapa's verse in this discourse?",
+         "opts": [
+             "No reply is recorded",
+             "Yes, in a lengthy prose passage",
+             "Yes, with a single word of approval",
+             "Yes, with a question in return"],
+         "correct": 0,
+         "expl": "The text ends immediately after the verse, without any recorded response."},
+        {"q": "What does ‘nirūpadhi’ literally mean?",
+         "opts": [
+             "Without attachment",
+             "Full of joy",
+             "Free from illness",
+             "Deeply learned"],
+         "correct": 0,
+         "expl": "Rendered ‘independent’ in the verse's final line."},
+    ],
+    marginalia=[
+        ("No question this time", [
+            "just one verse, spoken,",
+            "and the text falls silent",
+        ]),
+        ("Freed in mind, at peace", [
+            "the heart's fulfillment sought,",
+            "the world's rise and fall known",
+        ]),
+        ("The reward, named outright", [
+            "good-hearted, independent &mdash;",
+            "not a path but its end",
+        ]),
+        ("A fuller sutta's bare twin", [
+            "same godling, same book,",
+            "fewest words yet",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.1.html">SN 2.1 &middot; With Kassapa (1st)</a> '
+        "&mdash; this discourse's fuller, explicitly paired predecessor.",
+        '<a href="sn-2.3.html">SN 2.3 &middot; With Māgha</a> &mdash; '
+        "the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 2.3 — Māghasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 3, "Māgha", "With Māgha",
+    meta_title="SN 2.3 — With Māgha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Māghasutta — a riddle about what one thing, when slain, brings "
+        "sleep at ease and no sorrow, answered by the Buddha with a single "
+        "word: anger. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove, late at night"),
+        ("Speakers", "The Buddha and the godling Māgha"),
+        ("Form", "A riddle-verse question, answered in a longer verse "
+                 "naming one thing and describing it in detail"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "riddle form is simple, but the closing epithet "
+                       "addressed to Māgha rewards a second look"),
+    ],
+    why=(
+        "Māgha's question follows a riddle pattern this collection uses "
+        "repeatedly: what one thing, when killed, brings a specific "
+        "benefit? Here the benefits are sleeping at ease and being without "
+        "sorrow, and the Buddha's answer is anger &mdash; described with a "
+        "poisonous root and a sweet tip, killed not out of aversion to "
+        "killing itself but because the noble ones praise this particular "
+        "killing as the one that ends sorrow."),
+    guide=[
+        ("A riddle asked in four lines", [
+            "Māgha's verse asks the same underlying question twice, in "
+            "parallel: what is slain for ease of sleep, and what is slain "
+            "for freedom from sorrow, before asking directly what the one "
+            "thing is whose killing the Buddha approves."]),
+        ("One answer, not many", [
+            "Unlike discourses elsewhere in this collection that name "
+            "several candidate answers before settling on one, the Buddha "
+            "answers Māgha's riddle immediately and singly: anger, named "
+            "in the first line of his reply and never displaced by an "
+            "alternative."]),
+        ("A poisonous root, a sweet tip", [
+            "The Buddha's verse describes anger with a botanical image: "
+            "&lsquo;poisonous root&rsquo; and &lsquo;sweet tip&rsquo;, "
+            "capturing how anger's onset can feel gratifying even while "
+            "its source and consequence are harmful."]),
+        ("An unusual epithet: Smiter of the Constrictor", [
+            "The Buddha addresses Māgha as &lsquo;Smiter of the "
+            "Constrictor&rsquo; (vatrabhū), an epithet elsewhere applied "
+            "to Sakka, ruler of the gods &mdash; a detail this reading "
+            "guide notes without asserting a specific identification "
+            "between Māgha and any other named figure in this collection."]),
+        ("Killing praised, not condemned", [
+            "The verse's final couplet states plainly that the noble ones "
+            "praise this killing, since its result is freedom from "
+            "sorrow &mdash; a rare case in this collection of "
+            "&lsquo;killing&rsquo; used approvingly, turned entirely "
+            "toward an internal target."]),
+    ],
+    terms=[
+        ("kiṁ su chetvā",
+         "&ldquo;when what is slain&rdquo; &mdash; the riddle formula "
+         "opening Māgha's question, repeated across its first two lines."),
+        ("kodha",
+         "&ldquo;anger&rdquo; &mdash; the Buddha's one-word answer to "
+         "Māgha's riddle."),
+        ("visamūla madhuragga",
+         "&ldquo;poisonous root, sweet tip&rdquo; &mdash; the verse's "
+         "image for how anger begins pleasurably but is rooted in harm."),
+        ("vatrabhū",
+         "&ldquo;Smiter of the Constrictor&rdquo; &mdash; an epithet "
+         "addressed to Māgha in the Buddha's reply, elsewhere associated "
+         "with Sakka."),
+        ("ariyā",
+         "&ldquo;the noble ones&rdquo; &mdash; those who, the verse says, "
+         "praise the killing of anger."),
+    ],
+    text_intro=(
+        "The discourse in full: Māgha's riddle-verse and the Buddha's "
+        "answering verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.3:1.1-1.3"),
+        ("p", "&sect;2", "sn2.3:2.1-2.4"),
+        ("p", "&sect;3", "sn2.3:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "What does Māgha's riddle-verse ask?",
+         "opts": [
+             "What one thing, when slain, brings ease of sleep and no sorrow",
+             "How many deities live in Jeta's Grove",
+             "What the Buddha eats each day",
+             "How long the path to awakening takes"],
+         "correct": 0,
+         "expl": "The riddle repeats the same underlying question across its opening lines."},
+        {"q": "What single answer does the Buddha give?",
+         "opts": [
+             "Anger",
+             "Desire",
+             "Doubt",
+             "Pride"],
+         "correct": 0,
+         "expl": "Named directly in the first line of the Buddha's reply, with no alternative offered."},
+        {"q": "How does the Buddha's verse describe anger?",
+         "opts": [
+             "A poisonous root and a sweet tip",
+             "A locked door with no key",
+             "A fire that never goes out",
+             "An ocean without a shore"],
+         "correct": 0,
+         "expl": "The image captures anger's harmful root and its deceptively pleasurable onset."},
+        {"q": "What epithet does the Buddha use to address Māgha?",
+         "opts": [
+             "“Smiter of the Constrictor”",
+             "“Lord of the Sky”",
+             "“Keeper of the Grove”",
+             "“Bringer of Rain”"],
+         "correct": 0,
+         "expl": "An epithet (vatrabhū) elsewhere associated with Sakka, ruler of the gods."},
+        {"q": "Who, according to the verse, praises the killing of anger?",
+         "opts": [
+             "The noble ones",
+             "Only the Buddha himself",
+             "No one; the verse condemns all killing",
+             "Māgha alone"],
+         "correct": 0,
+         "expl": "“The noble ones praise its killing, for when it's slain there is no sorrow.”"},
+        {"q": "How many candidate answers does the Buddha offer before settling on one?",
+         "opts": [
+             "None; he answers immediately and singly",
+             "Three candidates, narrowed to one",
+             "Five candidates, narrowed to one",
+             "He offers no answer at all"],
+         "correct": 0,
+         "expl": "Unlike riddle discourses that weigh several candidates, this one answers directly."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove, late at night",
+             "At Rājagaha, during the day",
+             "At Kapilavatthu, at dawn",
+             "The setting is not given"],
+         "correct": 0,
+         "expl": "The same late-night Jeta's Grove setting used throughout this book's opening discourses."},
+        {"q": "What is unusual about “killing” as used in this verse's final couplet?",
+         "opts": [
+             "It is used approvingly, turned entirely toward an internal target",
+             "It refers to killing another person",
+             "It is condemned outright by the Buddha",
+             "It refers to the killing of animals in sacrifice"],
+         "correct": 0,
+         "expl": "A rare approving use of “killing” in this collection, aimed at anger itself."},
+        {"q": "Does this reading guide claim a specific identification between Māgha and another named figure?",
+         "opts": [
+             "No; it notes the epithet without asserting an identification",
+             "Yes, it identifies Māgha as Sakka outright",
+             "Yes, it identifies Māgha as Mahākassapa",
+             "Yes, it identifies Māgha as Vepacitti"],
+         "correct": 0,
+         "expl": "The guide flags the epithet's association with Sakka but does not assert identity."},
+        {"q": "What form does this discourse take overall?",
+         "opts": [
+             "A riddle-verse question, answered in a longer verse",
+             "A prose narrative with no verse at all",
+             "A silent exchange with no words spoken",
+             "A dialogue among three separate godlings"],
+         "correct": 0,
+         "expl": "Māgha's question in verse, met by the Buddha's answering verse."},
+    ],
+    marginalia=[
+        ("What, slain, brings ease?", [
+            "Māgha's riddle, twice-asked,",
+            "sleep at peace, no sorrow",
+        ]),
+        ("One word answers all", [
+            "anger &mdash; root of poison,",
+            "tip deceptively sweet",
+        ]),
+        ("An epithet worth a pause", [
+            "“Smiter of the Constrictor” &mdash;",
+            "elsewhere, a name for Sakka",
+        ]),
+        ("Killing, praised for once", [
+            "not of another being,",
+            "but of anger itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.2.html">SN 2.2 &middot; With Kassapa (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-2.4.html">SN 2.4 &middot; With Maghada</a> &mdash; '
+        "the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.4 — Māgadhasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 4, "Maghada", "With Maghada",
+    meta_title="SN 2.4 — With Maghada | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Māgadhasutta — a question about how many lamps light the world, "
+        "answered with four: sun, moon, fire, and the Buddha, named as the "
+        "supreme radiance among them. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The Buddha and the godling Maghada"),
+        ("Form", "A direct question in verse, answered with an enumerated "
+                 "list closed by a superlative claim"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "short, plainly structured discourse"),
+    ],
+    why=(
+        "Maghada asks a straightforward question &mdash; how many lamps "
+        "light up the world? &mdash; and the Buddha answers with a "
+        "specific count of four: the sun by day, the moon by night, fire "
+        "illuminating both, and a fifth that is not found among ordinary "
+        "sources of light. The verse then names the Buddha himself as the "
+        "best of these blazes, the supreme radiance, closing an "
+        "enumeration with a claim about its own speaker."),
+    guide=[
+        ("A counted list, not an open question", [
+            "Unlike riddles elsewhere in this book that ask &lsquo;what "
+            "one thing&rsquo;, Maghada's question asks for a count, and "
+            "the Buddha answers precisely: four lamps, with a fifth "
+            "explicitly ruled out as not found."]),
+        ("Three natural, one more", [
+            "Sun, moon, and fire are named as the three ordinary sources "
+            "of light in the world, dividing between them the day, the "
+            "night, and both together; a fourth, unnamed by any natural "
+            "category, is introduced only in the verse's final lines."]),
+        ("The Buddha as the fourth lamp", [
+            "The verse's structure builds toward its own conclusion: "
+            "having enumerated three natural lights, it names the Buddha "
+            "as a fourth and calls him the best of all four, the supreme "
+            "radiance &mdash; the discourse answering its own question "
+            "with a claim about the one giving the answer."]),
+        ("A theme echoed elsewhere in this book", [
+            "The image of the Buddha as light recurs across this "
+            "collection in different forms; here it takes the specific "
+            "shape of a numbered list, distinguishing this discourse from "
+            "purely metaphorical treatments of the same idea."]),
+        ("No narrative frame beyond the question itself", [
+            "Like several discourses in this vagga, this one gives almost "
+            "no scene-setting: a bare setting note, the question, and the "
+            "answer, with no departure formula recorded at the close."]),
+    ],
+    terms=[
+        ("pajjota",
+         "&ldquo;lamp&rdquo; or &ldquo;blaze&rdquo; &mdash; the term "
+         "Maghada's question asks the Buddha to count."),
+        ("cattāro loke pajjotā",
+         "&ldquo;four lamps in the world&rdquo; &mdash; the Buddha's "
+         "opening count, with a fifth explicitly ruled out."),
+        ("ādicca",
+         "&ldquo;sun&rdquo; &mdash; the first lamp named, blazing by day."),
+        ("canda",
+         "&ldquo;moon&rdquo; &mdash; the second lamp, radiating at night."),
+        ("aggi",
+         "&ldquo;fire&rdquo; &mdash; the third lamp, illuminating both day "
+         "and night, immediately before the Buddha names himself as the "
+         "fourth and best."),
+    ],
+    text_intro=(
+        "The discourse in full: Maghada's question and the Buddha's "
+        "answering verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.4:1.1-1.2"),
+        ("p", "&sect;2", "sn2.4:2.1-2.4"),
+        ("p", "&sect;3", "sn2.4:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does Maghada ask the Buddha?",
+         "opts": [
+             "How many lamps light up the world",
+             "How many deities live in the sky",
+             "How long the Buddha has been teaching",
+             "What one thing, when slain, brings peace"],
+         "correct": 0,
+         "expl": "A counting question, distinct from the “what one thing” riddles elsewhere in this book."},
+        {"q": "How many lamps does the Buddha say there are?",
+         "opts": [
+             "Four, with a fifth explicitly ruled out",
+             "Three, with no further comment",
+             "Seven, one for each day of the week",
+             "An uncountable number"],
+         "correct": 0,
+         "expl": "“There are four lamps in the world, a fifth is not found.”"},
+        {"q": "What are the first three lamps named?",
+         "opts": [
+             "The sun, the moon, and fire",
+             "The sun, the stars, and lightning",
+             "Fire, water, and the wind",
+             "The moon, the stars, and fire"],
+         "correct": 0,
+         "expl": "Sun by day, moon by night, fire illuminating both."},
+        {"q": "Who or what is named as the fourth and best lamp?",
+         "opts": [
+             "The Buddha himself",
+             "A great godling",
+             "The planet Venus",
+             "A sacred fire kept by brahmins"],
+         "correct": 0,
+         "expl": "“A Buddha is the best of blazes: this is the supreme radiance.”"},
+        {"q": "What does fire do, according to the verse, that sun and moon do not?",
+         "opts": [
+             "It illuminates both day and night",
+             "It illuminates only at noon",
+             "It illuminates underground spaces exclusively",
+             "It illuminates only during eclipses"],
+         "correct": 0,
+         "expl": "Sun and moon each cover one half of the cycle; fire covers both."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in a great hall",
+             "At Kapilavatthu, among the Buddha's relatives",
+             "On the summit of a mountain"],
+         "correct": 0,
+         "expl": "A bare setting note, typical of several discourses in this vagga."},
+        {"q": "Does this discourse record a closing departure formula for Maghada?",
+         "opts": [
+             "No; the text ends without one",
+             "Yes, the standard bow-and-circle formula",
+             "Yes, Maghada asks a follow-up question instead",
+             "Yes, but only after a long silence"],
+         "correct": 0,
+         "expl": "Like several discourses in this vagga, it closes without narrative elaboration."},
+        {"q": "What structural move does the verse make in its final lines?",
+         "opts": [
+             "It answers its own question with a claim about the speaker",
+             "It reverses its earlier answer entirely",
+             "It introduces a fifth lamp after all",
+             "It shifts from verse back into prose"],
+         "correct": 0,
+         "expl": "Having enumerated three natural lights, the verse names the Buddha as the fourth and best."},
+        {"q": "How does this discourse's form compare to Māgha's riddle in SN 2.3?",
+         "opts": [
+             "It asks for a count rather than “what one thing”",
+             "It uses the identical riddle formula",
+             "It contains no verse, unlike SN 2.3",
+             "It is spoken entirely by the Buddha with no question asked"],
+         "correct": 0,
+         "expl": "SN 2.3 asks “what one thing”; SN 2.4 asks “how many.”"},
+        {"q": "What recurring image in this collection does this discourse use in numbered form?",
+         "opts": [
+             "The Buddha as light",
+             "The Buddha as a physician",
+             "The Buddha as a charioteer",
+             "The Buddha as a lion"],
+         "correct": 0,
+         "expl": "Elsewhere metaphorical, here the image takes the specific shape of a counted list."},
+    ],
+    marginalia=[
+        ("How many lamps?", [
+            "a plain question, verse-asked,",
+            "answered with a count",
+        ]),
+        ("Sun, moon, fire &mdash; three", [
+            "day, night, and both together,",
+            "each its own domain",
+        ]),
+        ("A fourth, unnamed at first", [
+            "then named: the Buddha,",
+            "supreme among all blazes",
+        ]),
+        ("No scene beyond the question", [
+            "Sāvatthī, nothing more &mdash;",
+            "the verse does all the work",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.3.html">SN 2.3 &middot; With Māgha</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-2.5.html">SN 2.5 &middot; With Dāmali</a> &mdash; the '
+        "next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 2.5 — Dāmalisutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 5, "Dāmali", "With Dāmali",
+    meta_title="SN 2.5 — With Dāmali | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Dāmalisutta — a godling's claim that a true brahmin must still "
+        "strive, corrected by the Buddha with the same swimming-and-far-"
+        "shore imagery this collection opened with. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove, late at night"),
+        ("Speakers", "The Buddha and the godling Dāmali"),
+        ("Form", "A verse claim, directly corrected by a longer answering "
+                 "verse built on a swimming simile"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "disagreement is plain, but the simile rewards "
+                       "comparison with this collection's opening "
+                       "discourse"),
+    ],
+    why=(
+        "Dāmali proposes that a true brahmin must keep striving &mdash; "
+        "unrelenting effort, giving up sensual pleasures so as not to hope "
+        "for rebirth. The Buddha disagrees outright: the brahmin he means "
+        "has nothing left to do, since the task is already complete. The "
+        "correction is made through a simile of swimming that directly "
+        "echoes this collection's very first discourse, SN 1.1, where the "
+        "Buddha crossed the flood &lsquo;neither standing nor "
+        "swimming&rsquo;."),
+    guide=[
+        ("A godling corrected, not merely answered", [
+            "Unlike most exchanges in this book, where a deity's question "
+            "is answered, here a godling's positive claim is directly "
+            "contradicted: Dāmali says striving defines the brahmin, and "
+            "the Buddha says the brahmin he has in mind has nothing left "
+            "to strive for."]),
+        ("Striving toward completion, not striving forever", [
+            "The disagreement is not about whether striving matters but "
+            "about when it ends. Dāmali's verse describes an ongoing "
+            "effort; the Buddha's reply describes someone who has already "
+            "completed the task the effort was for."]),
+        ("A swimming simile, echoing this collection's opening", [
+            "The Buddha's verse pictures someone struggling in a river, "
+            "swimming with every limb because they have not yet found "
+            "footing, contrasted with someone who has reached dry land "
+            "and no longer needs to swim &mdash; a simile that directly "
+            "recalls SN 1.1's flood &lsquo;crossed neither standing nor "
+            "swimming&rsquo;, though the two similes make different "
+            "points from related imagery."]),
+        ("The far shore, reached", [
+            "Both halves of the Buddha's verse close on the same phrase, "
+            "&lsquo;for they have reached the far shore&rsquo; &mdash; "
+            "first as a general simile, then applied directly to Dāmali "
+            "as describing the brahmin, alert, a meditator who has ended "
+            "defilements."]),
+        ("Same imagery, opposite emphasis from SN 1.1", [
+            "SN 1.1's flood-crossing riddle turns on a paradox &mdash; "
+            "crossing without standing or swimming &mdash; solved by not "
+            "sinking through indulgence or being swept away through "
+            "restless striving. SN 2.5's simile instead contrasts the "
+            "unfinished swimmer with the one who has already reached "
+            "land, a complementary but distinct use of the same river "
+            "imagery."]),
+    ],
+    terms=[
+        ("brāhmaṇa",
+         "&ldquo;brahmin&rdquo; &mdash; used here, as elsewhere in this "
+         "collection, not for birth caste but for one who has completed "
+         "the spiritual task."),
+        ("padhāna",
+         "&ldquo;striving&rdquo; &mdash; the &lsquo;unrelenting "
+         "striving&rsquo; Dāmali's verse names as what a brahmin should "
+         "do."),
+        ("katakicca",
+         "&ldquo;completed their task&rdquo; &mdash; the Buddha's "
+         "description of the brahmin who has nothing left to do."),
+        ("pāraṅgata",
+         "&ldquo;reached the far shore&rdquo; &mdash; the closing phrase "
+         "of both halves of the Buddha's answering verse."),
+        ("khīṇāsava",
+         "&ldquo;one who has ended defilements&rdquo; &mdash; the final "
+         "description applied directly to the brahmin the simile "
+         "describes."),
+    ],
+    text_intro=(
+        "The discourse in full: Dāmali's claim and the Buddha's correcting "
+        "verse. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.5:1.1-1.3"),
+        ("p", "&sect;2", "sn2.5:2.1-2.4"),
+        ("p", "&sect;3", "sn2.5:3.1-3.7"),
+        ("p", "&sect;4", "sn2.5:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does Dāmali's opening verse claim a brahmin should do?",
+         "opts": [
+             "Strive unrelentingly and give up sensual pleasures",
+             "Rest without any further effort",
+             "Perform elaborate fire sacrifices",
+             "Study only with other brahmins"],
+         "correct": 0,
+         "expl": "Dāmali's verse describes an ongoing task of striving."},
+        {"q": "How does the Buddha respond to Dāmali's claim?",
+         "opts": [
+             "He disagrees: the brahmin he means has nothing left to do",
+             "He agrees completely, adding nothing",
+             "He refuses to answer",
+             "He asks Dāmali to clarify the question himself"],
+         "correct": 0,
+         "expl": "“The brahmin has nothing left to do,” said the Buddha, “for they've completed their task.”"},
+        {"q": "What simile does the Buddha use to make his point?",
+         "opts": [
+             "Swimming in a river versus standing on dry land",
+             "A lamp burning out versus one freshly lit",
+             "A tree with deep roots versus one uprooted",
+             "A bird in a cage versus one set free"],
+         "correct": 0,
+         "expl": "Someone without footing swims with every limb; someone who has gained footing need not swim."},
+        {"q": "What phrase closes both halves of the Buddha's answering verse?",
+         "opts": [
+             "“For they have reached the far shore”",
+             "“For they have crossed the flood”",
+             "“For they have found the middle way”",
+             "“For they have seen the four truths”"],
+         "correct": 0,
+         "expl": "The repeated closing phrase links the general simile to its direct application to Dāmali."},
+        {"q": "Which earlier discourse in this collection does this simile most directly echo?",
+         "opts": [
+             "SN 1.1, on crossing the flood",
+             "SN 1.50, on the potter Ghaṭīkāra",
+             "SN 1.81, the collection's other closing discourse",
+             "SN 2.1, With Kassapa (1st)"],
+         "correct": 0,
+         "expl": "SN 1.1's flood, crossed “neither standing nor swimming,” shares this discourse's river imagery."},
+        {"q": "What distinguishes SN 2.5's use of river imagery from SN 1.1's?",
+         "opts": [
+             "It contrasts an unfinished swimmer with one who has reached land, rather than posing a paradox",
+             "It uses the identical riddle wording",
+             "It denies that any crossing is possible",
+             "It replaces the river with an ocean"],
+         "correct": 0,
+         "expl": "A complementary but distinct use of the same imagery, not a repetition of SN 1.1's paradox."},
+        {"q": "What is the final description applied to the brahmin in this verse?",
+         "opts": [
+             "Alert, a meditator who has ended defilements",
+             "Wealthy and widely renowned",
+             "Young and vigorous",
+             "Skilled in ritual sacrifice"],
+         "correct": 0,
+         "expl": "The closing lines apply the simile directly: reached the end of rebirth and death, no need to swim."},
+        {"q": "Is this discourse better described as a correction or a simple answer to a question?",
+         "opts": [
+             "A correction: the Buddha directly contradicts Dāmali's claim",
+             "A simple answer to a straightforward question",
+             "Neither; Dāmali asks nothing and the Buddha says nothing",
+             "A joint statement both figures agree on from the start"],
+         "correct": 0,
+         "expl": "Unlike most exchanges in this book, a godling's positive claim is here directly contradicted."},
+        {"q": "In this collection's use, what does “brāhmaṇa” refer to?",
+         "opts": [
+             "One who has completed the spiritual task, not a birth caste",
+             "Exclusively a member of the priestly caste by birth",
+             "A title reserved for the Buddha alone",
+             "A type of deity distinct from godlings"],
+         "correct": 0,
+         "expl": "Consistent with this collection's broader reworking of brahmin as a term of attainment."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove, late at night",
+             "At Rājagaha, during a public assembly",
+             "At Kapilavatthu, near the Buddha's birthplace",
+             "The setting is not given"],
+         "correct": 0,
+         "expl": "The same late-night Jeta's Grove setting used throughout this book's opening discourses."},
+    ],
+    marginalia=[
+        ("Strive, Dāmali says", [
+            "unrelenting, until desire",
+            "no longer hopes for birth",
+        ]),
+        ("Nothing left to do", [
+            "the Buddha's correction &mdash;",
+            "the task already finished",
+        ]),
+        ("Swim, or stand on land", [
+            "one struggles with every limb,",
+            "the other need not move",
+        ]),
+        ("The far shore, twice named", [
+            "echoing this book's own opening &mdash;",
+            "a flood once crossed unswimming",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-1.1.html">SN 1.1 &middot; Crossing the Flood</a> '
+        "&mdash; this collection's opening discourse, whose river imagery "
+        "this one revisits from a different angle.",
+        '<a href="sn-2.4.html">SN 2.4 &middot; With Maghada</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-2.6.html">SN 2.6 &middot; With Kāmada</a> &mdash; the '
+        "next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.6 — Kāmadasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 6, "Kāmada", "With Kāmada",
+    meta_title="SN 2.6 — With Kāmada | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kāmadasutta — a godling's fourfold lament that the practice is "
+        "too hard, met each time with the Buddha's refrain that the noble "
+        "ones do it anyway. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The Buddha and the godling Kāmada"),
+        ("Form", "Four rounds of lament and refrain, each shorter than a "
+                 "full verse exchange"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; simple "
+                       "individually, but the four-round structure is "
+                       "worth tracking as a whole"),
+    ],
+    why=(
+        "Kāmada complains four times that the practice is too hard &mdash; "
+        "first ethics and immersion in general, then contentment, then "
+        "immersing the mind in samādhi, then the path itself, called rough "
+        "and hard to travel. Each time the Buddha answers with the same "
+        "refrain: they do it, they find it, they become immersed, even "
+        "though it's hard &mdash; closing with the observation that the "
+        "noble ones are smooth amid the rough, while the ignoble fall "
+        "headfirst on the same path."),
+    guide=[
+        ("A godling named for desire, lamenting its renunciation", [
+            "Kāmada's name shares its root with kāma, sensual desire; a "
+            "deity named after desire itself voicing the difficulty of "
+            "renouncing it is a detail this reading guide flags without "
+            "asserting the text intends the pun deliberately."]),
+        ("Four rounds, narrowing in focus", [
+            "Each round narrows the target of Kāmada's complaint: general "
+            "ethics and immersion, then specifically contentment, then "
+            "specifically immersing the mind, then the path as a whole "
+            "&mdash; a structure that moves from the broad to the "
+            "specific and back to the broad again."]),
+        ("The same refrain, varied to fit", [
+            "The Buddha's answer changes its verb each time &mdash; "
+            "&lsquo;they do it&rsquo;, &lsquo;they find it&rsquo;, "
+            "&lsquo;they become immersed&rsquo; &mdash; while keeping the "
+            "same underlying claim: difficulty does not stop those who "
+            "love the practice from succeeding at it."]),
+        ("Cutting through the net of Death", [
+            "The third round's refrain adds an image not present in the "
+            "first two: those who love calming the faculties, having cut "
+            "through the net of Death, go on their way &mdash; escalating "
+            "the stakes from personal difficulty to a struggle against "
+            "Death's own snare."]),
+        ("Smooth amid the rough: the closing image", [
+            "The final round abandons the paired lament-and-refrain "
+            "pattern for a direct statement: the ignoble fall headfirst on "
+            "a rough path, but the noble ones' path is smooth, for the "
+            "noble ones are smooth amid the rough &mdash; the difficulty "
+            "belongs to the path, not to those who have mastered walking "
+            "it."]),
+    ],
+    terms=[
+        ("dukkara",
+         "&ldquo;hard to do&rdquo; &mdash; Kāmada's recurring complaint, "
+         "repeated in some form across all four rounds."),
+        ("santuṭṭhi",
+         "&ldquo;contentment&rdquo; &mdash; the second round's specific "
+         "target, said to bring happiness to one who has gone forth."),
+        ("samādhi",
+         "&ldquo;immersion&rdquo; &mdash; the third round's target, "
+         "immersing the mind despite the difficulty Kāmada names."),
+        ("maccupāsa",
+         "&ldquo;the net of Death&rdquo; &mdash; what those who love "
+         "calming the faculties are said to cut through in the third "
+         "refrain."),
+        ("visama",
+         "&ldquo;rough, uneven&rdquo; &mdash; the path's own quality in "
+         "the final round, contrasted with the noble ones who are smooth "
+         "amid it."),
+    ],
+    text_intro=(
+        "The discourse in full: four rounds of lament and refrain. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.6:1.1-1.3"),
+        ("p", "&sect;2", "sn2.6:2.1-2.5"),
+        ("p", "&sect;3", "sn2.6:3.1-3.1"),
+        ("p", "&sect;4", "sn2.6:4.1-4.5"),
+        ("p", "&sect;5", "sn2.6:5.1-5.1"),
+        ("p", "&sect;6", "sn2.6:6.1-6.5"),
+        ("p", "&sect;7", "sn2.6:7.1-7.1"),
+        ("p", "&sect;8", "sn2.6:8.1-8.6"),
+    ],
+    quiz=[
+        {"q": "How many rounds of lament and refrain structure this discourse?",
+         "opts": [
+             "Four",
+             "Two",
+             "Six",
+             "One long exchange with no distinct rounds"],
+         "correct": 0,
+         "expl": "General ethics and immersion, then contentment, then samādhi, then the path itself."},
+        {"q": "What does Kāmada complain about in the first round?",
+         "opts": [
+             "That the practice is too hard",
+             "That the Buddha will not answer his question",
+             "That other godlings mock him",
+             "That the path is too short"],
+         "correct": 0,
+         "expl": "“It's too hard, Blessed One! It's just too hard!”"},
+        {"q": "What is the Buddha's recurring refrain across the rounds?",
+         "opts": [
+             "That the noble ones do it even though it's hard",
+             "That no one can succeed at such a difficult task",
+             "That Kāmada should give up trying",
+             "That only the Buddha himself can manage it"],
+         "correct": 0,
+         "expl": "Varied by verb each round but consistent in claim: difficulty does not stop the noble ones."},
+        {"q": "What image appears in the third round's refrain that is new to the discourse?",
+         "opts": [
+             "Cutting through the net of Death",
+             "Crossing a flood without swimming",
+             "A lamp that never goes out",
+             "A tree bearing fruit out of season"],
+         "correct": 0,
+         "expl": "Escalating from personal difficulty to a struggle against Death's own snare."},
+        {"q": "What does the final round say about the ignoble on a rough path?",
+         "opts": [
+             "They fall headfirst",
+             "They turn back before starting",
+             "They complain but eventually succeed",
+             "They are unaffected by its roughness"],
+         "correct": 0,
+         "expl": "Contrasted directly with the noble ones, who are smooth amid the rough."},
+        {"q": "What does Kāmada's name share a root with?",
+         "opts": [
+             "Kāma, sensual desire",
+             "Kamma, action",
+             "Kāla, time",
+             "Khama, patience"],
+         "correct": 0,
+         "expl": "The reading guide notes this without asserting the text intends the pun deliberately."},
+        {"q": "According to the second round, what brings happiness to one who has gone forth?",
+         "opts": [
+             "Contentment",
+             "Wealth accumulated before ordination",
+             "Frequent travel",
+             "Public recognition"],
+         "correct": 0,
+         "expl": "“For one who has entered the homeless life, contentment brings happiness.”"},
+        {"q": "How does the Buddha's refrain change across the rounds?",
+         "opts": [
+             "Its verb changes each time while its underlying claim stays constant",
+             "It reverses its meaning by the final round",
+             "It becomes a question rather than a statement",
+             "It is repeated with no variation at all"],
+         "correct": 0,
+         "expl": "“They do it,” “they find it,” “they become immersed” — varied to fit, same claim underneath."},
+        {"q": "What does the final round say makes the noble ones' path smooth?",
+         "opts": [
+             "The noble ones themselves are smooth amid the rough",
+             "The path itself changes to become smooth for them",
+             "They avoid the rough sections entirely",
+             "Other travelers clear the path ahead of them"],
+         "correct": 0,
+         "expl": "The roughness belongs to the path; smoothness belongs to how the noble ones walk it."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, in the Bamboo Grove",
+             "At Kapilavatthu, at the Buddha's family home",
+             "In a forest far from any town"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this vagga."},
+    ],
+    marginalia=[
+        ("Too hard, Kāmada says", [
+            "four times over, narrowing &mdash;",
+            "ethics, then content, then mind",
+        ]),
+        ("They do it anyway", [
+            "the same refrain, reworded,",
+            "difficulty answered plainly",
+        ]),
+        ("Cutting Death's own net", [
+            "the third round raises the stakes &mdash;",
+            "not just hard, but mortal",
+        ]),
+        ("Smooth amid the rough", [
+            "the ignoble fall headfirst,",
+            "the noble simply walk",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.5.html">SN 2.5 &middot; With Dāmali</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-2.7.html">SN 2.7 &middot; With Pañcālacaṇḍa</a> '
+        "&mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 2.7 — Pañcālacaṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 7, "Pañcālacaṇḍa", "With Pañcālacaṇḍa",
+    meta_title="SN 2.7 — With Pañcālacaṇḍa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pañcālacaṇḍasutta — a godling's praise of the Buddha for finding "
+        "an opening amid confinement, met with the Buddha's reply that "
+        "anyone with mindfulness and stillness may find the same escape. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; no further narrative detail given"),
+        ("Speakers", "The Buddha and the godling Pañcālacaṇḍa"),
+        ("Form", "A verse of praise, met with a verse that universalizes "
+                 "the praise beyond the Buddha alone"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this reading "
+                              "guide does not assert a specific matching "
+                              "sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; short, "
+                       "but the reply's universalizing move is easy to "
+                       "read past"),
+    ],
+    why=(
+        "Pañcālacaṇḍa praises the Buddha for discovering &lsquo;the "
+        "opening amid confinement&rsquo;, calling him a sage awakened to "
+        "absorption, the solitary boss bull. Rather than accepting the "
+        "praise as describing something unique to himself, the Buddha "
+        "redirects it: even amid confinement, anyone who has acquired "
+        "mindfulness and is perfectly serene in samādhi understands the "
+        "principle for attaining extinguishment &mdash; the discovery "
+        "generalized to whoever meets the same conditions."),
+    guide=[
+        ("Praise offered, then redirected", [
+            "Pañcālacaṇḍa's verse is addressed directly to the Buddha and "
+            "praises what he alone has done; the Buddha's reply opens "
+            "with &lsquo;even amid confinement they understand&rsquo;, "
+            "shifting the subject from himself to an unnamed anyone."]),
+        ("The opening amid confinement", [
+            "&lsquo;Confinement&rsquo; (sambādha) and &lsquo;opening&rsquo; "
+            "(okāsa) name a spatial metaphor for the difficulty and "
+            "possibility of liberation &mdash; a cramped condition with, "
+            "nonetheless, a way through it, discovered rather than "
+            "manufactured."]),
+        ("The solitary boss bull", [
+            "Pañcālacaṇḍa's epithet for the Buddha, &lsquo;the solitary "
+            "boss bull&rsquo;, draws on a common image in early Buddhist "
+            "verse for a leader who stands apart from the herd &mdash; "
+            "singular strength paired with singular solitude."]),
+        ("Mindfulness and samādhi, not exceptional status", [
+            "The Buddha's answering verse names two specific conditions "
+            "&mdash; acquired mindfulness and being perfectly serene in "
+            "samādhi &mdash; as sufficient for anyone to understand the "
+            "principle for attaining extinguishment, without claiming any "
+            "further requirement unique to himself."]),
+        ("A democratic move within a devotional exchange", [
+            "The pattern of a deity's praise met by the Buddha's "
+            "reframing recurs across this collection: admiration is not "
+            "refused, but is regularly redirected toward the conditions "
+            "anyone can meet, rather than left resting on the Buddha's "
+            "person alone."]),
+    ],
+    terms=[
+        ("sambādha",
+         "&ldquo;confinement&rdquo; &mdash; the cramped condition the "
+         "verse's opening image sets against the discovery that follows."),
+        ("okāsa",
+         "&ldquo;opening&rdquo; &mdash; what was discovered amid that "
+         "confinement, named in the discourse's own title image."),
+        ("jhāyī",
+         "&ldquo;awakened to absorption&rdquo; &mdash; part of "
+         "Pañcālacaṇḍa's praise, naming meditative absorption directly."),
+        ("usabha",
+         "&ldquo;boss bull&rdquo; &mdash; an epithet for a solitary "
+         "leader, used here of the Buddha."),
+        ("nibbānapattiyā",
+         "&ldquo;for attaining extinguishment&rdquo; &mdash; the goal "
+         "the Buddha's answering verse says anyone with mindfulness and "
+         "samādhi can understand the principle of."),
+    ],
+    text_intro=(
+        "The discourse in full: a godling's verse of praise and the "
+        "Buddha's answering, universalizing verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.7:1.1-1.2"),
+        ("p", "&sect;2", "sn2.7:2.1-2.4"),
+        ("p", "&sect;3", "sn2.7:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What does Pañcālacaṇḍa's verse praise the Buddha for?",
+         "opts": [
+             "Discovering the opening amid confinement",
+             "Ending a long famine",
+             "Defeating a rival ascetic in debate",
+             "Building a monastery at Sāvatthī"],
+         "correct": 0,
+         "expl": "The verse's central image, naming the discourse's central theme."},
+        {"q": "What epithet does Pañcālacaṇḍa use for the Buddha?",
+         "opts": [
+             "The solitary boss bull",
+             "The lord of the constrictor",
+             "The keeper of the grove",
+             "The bringer of rain"],
+         "correct": 0,
+         "expl": "A common image in early Buddhist verse for a leader standing apart from the herd."},
+        {"q": "How does the Buddha's answering verse begin?",
+         "opts": [
+             "“Even amid confinement they understand”",
+             "“No one else could do what I have done”",
+             "“Confinement cannot truly be escaped”",
+             "By asking Pañcālacaṇḍa a question in return"],
+         "correct": 0,
+         "expl": "Shifting the subject from the Buddha himself to an unnamed anyone."},
+        {"q": "What two conditions does the Buddha name as sufficient for understanding this principle?",
+         "opts": [
+             "Acquired mindfulness and being perfectly serene in samādhi",
+             "Noble birth and years of scriptural study",
+             "Physical strength and youth",
+             "Wealth and renunciation of it"],
+         "correct": 0,
+         "expl": "Named directly in the Buddha's answering verse, without further requirement."},
+        {"q": "What rhetorical move does the Buddha's reply make?",
+         "opts": [
+             "It universalizes the praise beyond the Buddha alone",
+             "It rejects Pañcālacaṇḍa's praise entirely",
+             "It redirects the praise toward a different deity",
+             "It postpones an answer to a later discourse"],
+         "correct": 0,
+         "expl": "Admiration is redirected toward conditions anyone can meet, not left resting on the Buddha alone."},
+        {"q": "What does “sambādha” mean in this discourse's opening image?",
+         "opts": [
+             "Confinement",
+             "Liberation",
+             "A river crossing",
+             "A type of meditation"],
+         "correct": 0,
+         "expl": "The cramped condition set against the opening discovered within it."},
+        {"q": "What goal does the Buddha's verse say mindfulness and samādhi lead to understanding?",
+         "opts": [
+             "The principle for attaining extinguishment",
+             "The names of all the deities",
+             "The rules of monastic discipline",
+             "The geography of the four continents"],
+         "correct": 0,
+         "expl": "Named directly as nibbānapattiyā, “for attaining extinguishment.”"},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, with no further narrative detail given",
+             "At Rājagaha, before a large assembly",
+             "At Kapilavatthu, near the Buddha's birthplace",
+             "The setting is not given at all"],
+         "correct": 0,
+         "expl": "A bare setting note, consistent with several discourses in this vagga."},
+        {"q": "How does this discourse's pattern of praise-then-redirection recur in this collection?",
+         "opts": [
+             "It appears elsewhere: admiration met with reframing toward shared conditions",
+             "It is unique to this single discourse",
+             "It appears only in prose discourses, never in verse",
+             "It appears only when the Buddha is silent"],
+         "correct": 0,
+         "expl": "The reading guide notes this as a recurring pattern across the collection."},
+        {"q": "What form does this discourse take overall?",
+         "opts": [
+             "A verse of praise, met by a verse that universalizes it",
+             "A prose narrative with no verse",
+             "A riddle followed by a numbered list",
+             "A silent exchange with no words spoken"],
+         "correct": 0,
+         "expl": "Two verses, praise and reframing reply, with minimal narrative frame."},
+    ],
+    marginalia=[
+        ("An opening, amid confinement", [
+            "praised as the Buddha's alone &mdash;",
+            "cramped space, a way through",
+        ]),
+        ("The solitary boss bull", [
+            "an image of strength apart,",
+            "standing outside the herd",
+        ]),
+        ("Even amid confinement", [
+            "the reply begins &mdash;",
+            "not I alone, but anyone",
+        ]),
+        ("Two conditions, no more", [
+            "mindfulness, and stillness &mdash;",
+            "the principle understood",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.6.html">SN 2.6 &middot; With Kāmada</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-2.8.html">SN 2.8 &middot; With Tāyana</a> &mdash; the '
+        "next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.8 — Tāyanasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 8, "Tāyana", "With Tāyana",
+    meta_title="SN 2.8 — With Tāyana | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tāyanasutta — verses on strenuous exertion still recited by "
+        "Theravādin monastics today, spoken by a godling formerly a "
+        "religious founder, then repeated by the Buddha himself with an "
+        "exhortation to learn them by heart. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, in Jeta&rsquo;s Grove, late at night, "
+                    "with a following-morning report to the mendicants"),
+        ("Speakers", "The godling Tāyana, then the Buddha, addressing the "
+                     "assembled mendicants"),
+        ("Form", "Six verses of exhortation, an elided verbatim repeat, "
+                 "and a closing charge to memorize"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "longest and most structurally layered discourse "
+                       "in this vagga"),
+    ],
+    why=(
+        "Tāyana, a godling identified in the text as formerly a religious "
+        "founder, recites six verses urging strenuous striving and warning "
+        "against laxity &mdash; verses still commonly recited by "
+        "Theravādin monastics. The next morning, the Buddha reports the "
+        "visit to the assembled mendicants and repeats the verses in full "
+        "(elided here as a verbatim repeat, following this book's earlier "
+        "precedent for such passages), closing with a direct charge: "
+        "learn these verses, memorize them, remember them, for they are "
+        "beneficial and relate to the fundamentals of the spiritual life."),
+    guide=[
+        ("A godling once a founder of his own teaching", [
+            "The text describes Tāyana as &lsquo;formerly a religious "
+            "founder&rsquo;, a detail found nowhere else in this vagga "
+            "&mdash; a deity whose past life, before rebirth as a "
+            "godling, involved leading his own sect."]),
+        ("Cut the stream, cast aside sensual pleasures", [
+            "The verses open with direct imperatives &mdash; cutting the "
+            "stream after striving, casting aside sensual pleasures "
+            "&mdash; before turning to two contrasted claims: a bad deed "
+            "is better left undone since it plagues you later, a good "
+            "deed is better done since it does not."]),
+        ("Kusa grass, wrongly grasped", [
+            "The verses' central simile compares the ascetic life, "
+            "wrongly taken up, to kusa grass wrongly grasped, which cuts "
+            "the hand &mdash; the same image appears in the Dhammapada "
+            "(verse 311), a cross-collection echo this book has already "
+            "noted at SN 1.5 and SN 1.22, now recurring a third time."]),
+        ("A verbatim repeat, elided in the source", [
+            "The Buddha's retelling to the mendicants repeats Tāyana's "
+            "verses word for word; the source text marks this repetition "
+            "with blank segments rather than typing the verses out twice "
+            "(sn2.8 segments 9 through 13), following the same convention "
+            "this collection's compilers used for other verbatim repeats. "
+            "This reading guide follows this book's own earlier precedent "
+            "and does not quote the elided repeat a second time."]),
+        ("A charge to memorize, unusual in this book", [
+            "The discourse closes with the Buddha directly instructing "
+            "the mendicants to learn, memorize, and remember these "
+            "verses &mdash; a closing charge not found elsewhere in this "
+            "vagga, and consistent with these verses' continued "
+            "recitation by Theravādin monastics today."]),
+    ],
+    terms=[
+        ("titthakara",
+         "&ldquo;religious founder&rdquo; &mdash; the text's description "
+         "of Tāyana's former life, before rebirth as a godling."),
+        ("padhānābhinīta",
+         "&ldquo;cut the stream after striving&rdquo; &mdash; the verses' "
+         "opening imperative."),
+        ("kusa",
+         "&ldquo;kusa grass&rdquo; &mdash; a sharp-edged grass that cuts "
+         "the hand of anyone who grasps it wrongly, the verses' central "
+         "simile for the ascetic life mishandled."),
+        ("sikkhitabbaṁ",
+         "&ldquo;to be learned&rdquo; &mdash; part of the Buddha's "
+         "closing charge to the mendicants to learn, memorize, and "
+         "remember Tāyana's verses."),
+        ("brahmacariyassa ādibhūtā",
+         "&ldquo;related to the fundamentals of the spiritual life&rdquo; "
+         "&mdash; the Buddha's own description of why these verses are "
+         "worth memorizing."),
+    ],
+    text_intro=(
+        "The discourse in full, with the Buddha's elided verbatim repeat "
+        "skipped over as blank in the source and not quoted a second "
+        "time here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.8:1.1-1.3"),
+        ("p", "&sect;2", "sn2.8:2.1-2.4"),
+        ("p", "&sect;3", "sn2.8:3.1-3.4"),
+        ("p", "&sect;4", "sn2.8:4.1-4.4"),
+        ("p", "&sect;5", "sn2.8:5.1-5.4"),
+        ("p", "&sect;6", "sn2.8:6.1-6.4"),
+        ("p", "&sect;7", "sn2.8:7.1-7.2"),
+        ("p", "&sect;8", "sn2.8:8.1-8.3"),
+        ("p", "&sect;9", "sn2.8:14.1-14.5"),
+    ],
+    quiz=[
+        {"q": "What is unusual about Tāyana's past, according to the text?",
+         "opts": [
+             "He was formerly a religious founder of his own sect",
+             "He was formerly a human king",
+             "He was formerly Mahākassapa",
+             "He was formerly an animal"],
+         "correct": 0,
+         "expl": "A detail found nowhere else in this vagga."},
+        {"q": "What do Tāyana's opening verses urge?",
+         "opts": [
+             "Cutting the stream after striving and casting aside sensual pleasures",
+             "Building temples and making offerings",
+             "Debating rival ascetics publicly",
+             "Fasting for forty days"],
+         "correct": 0,
+         "expl": "Direct imperatives opening the verses."},
+        {"q": "What simile do the verses use for the ascetic life wrongly taken up?",
+         "opts": [
+             "Kusa grass wrongly grasped, cutting the hand",
+             "A boat with a hole in its hull",
+             "A fire that consumes its own fuel",
+             "A net with torn mesh"],
+         "correct": 0,
+         "expl": "The same image found in the Dhammapada, verse 311."},
+        {"q": "How does this discourse handle the Buddha's verbatim repeat of the verses?",
+         "opts": [
+             "The source elides it as blank segments, and the reading guide does not quote it twice",
+             "The Buddha changes several words in his retelling",
+             "The Buddha summarizes the verses instead of repeating them",
+             "The repeat is quoted in full a second time"],
+         "correct": 0,
+         "expl": "Following this book's earlier precedent for handling verbatim repeats."},
+        {"q": "What does the Buddha instruct the mendicants to do with these verses?",
+         "opts": [
+             "Learn, memorize, and remember them",
+             "Forget them, since Tāyana was not a Buddhist",
+             "Debate their meaning at length",
+             "Teach them only to advanced students"],
+         "correct": 0,
+         "expl": "A closing charge unusual for this vagga."},
+        {"q": "Why does the Buddha say these verses are worth memorizing?",
+         "opts": [
+             "They are beneficial and relate to the fundamentals of the spiritual life",
+             "They are the longest verses in the collection",
+             "They were composed by the Buddha himself",
+             "They predict future events accurately"],
+         "correct": 0,
+         "expl": "The Buddha's own stated reason for the closing charge."},
+        {"q": "According to this discourse, what happens to a bad deed left undone?",
+         "opts": [
+             "Nothing plagues you later, since it was never done",
+             "It still plagues you regardless",
+             "It transforms into a good deed automatically",
+             "The text does not address this"],
+         "correct": 0,
+         "expl": "“A bad deed is better left undone, for it will plague you later on” implies the reverse for one left undone."},
+        {"q": "Where and when does Tāyana visit the Buddha?",
+         "opts": [
+             "Near Sāvatthī, in Jeta's Grove, late at night",
+             "At Rājagaha, at midday",
+             "At Kapilavatthu, at dawn",
+             "The location and time are not given"],
+         "correct": 0,
+         "expl": "The same late-night Jeta's Grove setting used throughout this book's early discourses."},
+        {"q": "When does the Buddha report Tāyana's visit to the mendicants?",
+         "opts": [
+             "The following morning, after the night had passed",
+             "Immediately, waking the mendicants that same night",
+             "He never reports it to the mendicants",
+             "A week later, at a special assembly"],
+         "correct": 0,
+         "expl": "“Then, when the night had passed, the Buddha told the mendicants all that had happened.”"},
+        {"q": "Are Tāyana's verses still used by Theravādin monastics today?",
+         "opts": [
+             "Yes, they are commonly recited",
+             "No, they fell out of use centuries ago",
+             "Only in one specific country's tradition",
+             "Only during ordination ceremonies"],
+         "correct": 0,
+         "expl": "Noted directly in this discourse's glance summary."},
+    ],
+    marginalia=[
+        ("A founder, once, elsewhere", [
+            "before this godling's rebirth &mdash;",
+            "his own sect, his own teaching",
+        ]),
+        ("Kusa grass, grasped wrong", [
+            "cuts the hand that holds it &mdash;",
+            "echoed later, Dhammapada 311",
+        ]),
+        ("Repeated, but not retyped", [
+            "the source leaves it blank &mdash;",
+            "this guide follows the same rule",
+        ]),
+        ("Learn, memorize, remember", [
+            "a charge found nowhere else here &mdash;",
+            "still recited today",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-1.5.html">SN 1.5 &middot; Cut How Many?</a> &mdash; '
+        "the first discourse in this book to share a verse verbatim with "
+        "the Dhammapada.",
+        '<a href="sn-2.7.html">SN 2.7 &middot; With Pañcālacaṇḍa</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-2.9.html">SN 2.9 &middot; The Moon</a> &mdash; the '
+        "next discourse in this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 2.9 — Candimasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 9, "Candima", "The Moon",
+    meta_title="SN 2.9 — The Moon | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Candimasutta — a lunar-eclipse myth in which the Moon God, seized "
+        "by the titan lord Rāhu, calls on the Buddha for refuge, and Rāhu "
+        "releases him rather than risk his head exploding in seven pieces. "
+        "Still recited as a protection chant today. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; the events described take place in the "
+                    "sky during a lunar eclipse"),
+        ("Speakers", "The Moon God, the Buddha, Rāhu, and Vepacitti"),
+        ("Form", "A narrative built from four short verses, moving between "
+                 "three distinct speakers"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "straightforward as myth, but tracking three "
+                       "speakers across four verses takes a careful read"),
+    ],
+    why=(
+        "This discourse narrates a lunar eclipse as myth: the Moon God, "
+        "seized by Rāhu, lord of titans, recollects the Buddha and calls "
+        "on him for refuge. The Buddha commands Rāhu, in verse, to release "
+        "the Moon, citing the Buddhas' compassion for the world. Rāhu "
+        "complies at once, then rushes to Vepacitti, another titan lord, "
+        "explaining that his head would have exploded in seven pieces had "
+        "he not released the Moon when enchanted by the Buddha's verse. "
+        "The discourse is still recited today as a protection chant "
+        "(paritta)."),
+    guide=[
+        ("A cosmological event narrated as a rescue", [
+            "Ancient Indian cosmology explained lunar eclipses as the "
+            "moon being swallowed by the titan Rāhu; this discourse takes "
+            "that shared cosmology as its setting and narrates the "
+            "eclipse's end as an act of rescue rather than an "
+            "astronomical description."]),
+        ("Refuge invoked, not merely requested", [
+            "The Moon God's verse follows the standard formula of taking "
+            "refuge &mdash; homage to the Buddha, an appeal for shelter "
+            "&mdash; used elsewhere in this collection for beings in "
+            "danger, here applied to a deity caught in a titan's grip "
+            "rather than a human seeking the Buddha's teaching."]),
+        ("The Buddha commands, does not merely ask", [
+            "Unlike most exchanges in this book, where the Buddha "
+            "answers a question or corrects a claim, here he issues a "
+            "direct imperative to a third party, Rāhu, backed by an "
+            "appeal to the Buddhas' compassion for the world rather than "
+            "to Rāhu's own self-interest."]),
+        ("A head exploding in seven pieces", [
+            "Rāhu's own account of his compliance is strikingly "
+            "physical: not compassion or persuasion but the threat, "
+            "understood by Rāhu himself, that his head would have "
+            "exploded in seven pieces had he defied a verse spoken under "
+            "the Buddha's influence &mdash; a folk-cosmological detail "
+            "the text does not soften or explain away."]),
+        ("A myth still recited as protection", [
+            "This discourse and its companion, SN 2.10 on the sun, "
+            "remain in use today as protection chants (paritta), recited "
+            "for shelter from harm &mdash; a continuity between this "
+            "collection's ancient narrative and living devotional "
+            "practice."]),
+    ],
+    terms=[
+        ("Rāhu asurinda",
+         "&ldquo;Rāhu, lord of titans&rdquo; &mdash; the figure said to "
+         "have seized the Moon God, causing the eclipse."),
+        ("Candimā",
+         "&ldquo;the Moon God&rdquo; &mdash; the deity who recollects the "
+         "Buddha and calls for refuge while seized by Rāhu."),
+        ("saraṇa",
+         "&ldquo;refuge&rdquo; &mdash; what the Moon God asks the Buddha "
+         "to be, using the same formula found elsewhere in this "
+         "collection."),
+        ("Vepacitti",
+         "&ldquo;Vepacitti&rdquo; &mdash; another titan lord, whom Rāhu "
+         "rushes to see, shocked and awestruck, after releasing the "
+         "Moon."),
+        ("paritta",
+         "&ldquo;protection chant&rdquo; &mdash; the category of "
+         "recitation this discourse and its companion on the sun "
+         "continue to serve in living practice."),
+    ],
+    text_intro=(
+        "The discourse in full: the Moon God's appeal, the Buddha's "
+        "command to Rāhu, and Rāhu's own account to Vepacitti. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.9:1.1-1.3"),
+        ("p", "&sect;2", "sn2.9:2.1-2.4"),
+        ("p", "&sect;3", "sn2.9:3.1-3.1"),
+        ("p", "&sect;4", "sn2.9:4.1-4.4"),
+        ("p", "&sect;5", "sn2.9:5.1-5.2"),
+        ("p", "&sect;6", "sn2.9:6.1-6.4"),
+        ("p", "&sect;7", "sn2.9:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What cosmological event does this discourse narrate as myth?",
+         "opts": [
+             "A lunar eclipse",
+             "A solar eclipse",
+             "A comet's passing",
+             "A meteor shower"],
+         "correct": 0,
+         "expl": "The Moon God is seized by Rāhu, explaining the eclipse."},
+        {"q": "What does the Moon God do upon being seized by Rāhu?",
+         "opts": [
+             "Recollects the Buddha and calls on him for refuge",
+             "Fights Rāhu directly",
+             "Calls on Vepacitti for help",
+             "Remains silent throughout"],
+         "correct": 0,
+         "expl": "Using the standard refuge formula found elsewhere in this collection."},
+        {"q": "How does the Buddha respond to the Moon God's appeal?",
+         "opts": [
+             "He commands Rāhu, in verse, to release the Moon",
+             "He does nothing, since the eclipse must run its course",
+             "He asks Vepacitti to intervene instead",
+             "He offers the Moon God a teaching on impermanence"],
+         "correct": 0,
+         "expl": "A direct imperative backed by an appeal to the Buddhas' compassion for the world."},
+        {"q": "What does Rāhu do immediately after the Buddha's command?",
+         "opts": [
+             "He releases the Moon and rushes to see Vepacitti",
+             "He ignores the command and keeps the Moon seized",
+             "He argues with the Buddha in return",
+             "He asks the Buddha for a teaching before complying"],
+         "correct": 0,
+         "expl": "Compliance is immediate, followed by a shocked visit to Vepacitti."},
+        {"q": "What reason does Rāhu give Vepacitti for releasing the Moon?",
+         "opts": [
+             "His head would have exploded in seven pieces otherwise",
+             "He feared the other titans would punish him",
+             "He simply forgot why he had seized the Moon",
+             "The Moon God threatened him directly"],
+         "correct": 0,
+         "expl": "A strikingly physical, folk-cosmological threat the text does not soften."},
+        {"q": "Who is Vepacitti in this discourse?",
+         "opts": [
+             "Another titan lord, whom Rāhu visits in shock",
+             "A godling who intervenes to help the Moon",
+             "A human king watching the eclipse",
+             "An epithet for the Buddha himself"],
+         "correct": 0,
+         "expl": "A second titan-lord figure distinct from Rāhu."},
+        {"q": "How is this discourse used in living Buddhist practice today?",
+         "opts": [
+             "Recited as a protection chant (paritta)",
+             "Recited only during ordination ceremonies",
+             "It has fallen entirely out of use",
+             "Recited only by laypeople, never monastics"],
+         "correct": 0,
+         "expl": "Noted directly in this discourse's glance summary, alongside its companion on the sun."},
+        {"q": "What formula does the Moon God's verse follow?",
+         "opts": [
+             "The standard formula of taking refuge",
+             "A riddle-and-answer formula",
+             "A numbered list of qualities",
+             "A direct question with no formula"],
+         "correct": 0,
+         "expl": "Homage to the Buddha, then an appeal for shelter, matching this collection's refuge formula elsewhere."},
+        {"q": "What does the Buddha appeal to when commanding Rāhu?",
+         "opts": [
+             "The Buddhas' compassion for the world",
+             "Rāhu's own self-interest",
+             "A prior agreement between them",
+             "The authority of Sakka, ruler of the gods"],
+         "correct": 0,
+         "expl": "“The Buddhas have compassion for the world — so Rāhu, release the Moon!”"},
+        {"q": "Which discourse in this vagga is this one's closest companion?",
+         "opts": [
+             "SN 2.10, on the sun and the same figures",
+             "SN 2.1, on the godling Kassapa",
+             "SN 2.5, on the godling Dāmali",
+             "SN 2.6, on the godling Kāmada"],
+         "correct": 0,
+         "expl": "SN 2.10 narrates a parallel solar eclipse with the same cast of figures."},
+    ],
+    marginalia=[
+        ("Seized by Rāhu's grip", [
+            "the Moon God calls to mind",
+            "a refuge, once recollected",
+        ]),
+        ("Compassion, not persuasion", [
+            "the Buddha's command to Rāhu &mdash;",
+            "released, without further argument",
+        ]),
+        ("A head, in seven pieces", [
+            "Rāhu's own account, unsoftened &mdash;",
+            "folk cosmology, left as is",
+        ]),
+        ("A myth, still chanted", [
+            "protection recited today,",
+            "the eclipse's ancient ending",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.8.html">SN 2.8 &middot; With Tāyana</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-2.10.html">SN 2.10 &middot; The Sun</a> &mdash; this '
+        "discourse's parallel companion, closing this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 2.10 — Sūriyasutta
+# --------------------------------------------------------------------------- #
+page(
+    2, 10, "Sūriya", "The Sun",
+    meta_title="SN 2.10 — The Sun | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sūriyasutta — a solar-eclipse companion to the preceding "
+        "discourse on the moon, closing the Paṭhamavagga, the first "
+        "sub-chapter of the Devaputtasaṃyutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī; the events described take place in the "
+                    "sky during a solar eclipse"),
+        ("Speakers", "The Sun God, the Buddha, Rāhu, and Vepacitti"),
+        ("Form", "A narrative built from verses closely paralleling the "
+                 "preceding discourse, with one added couplet"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closely parallel to SN 2.9, with one notable "
+                       "addition worth reading for"),
+    ],
+    why=(
+        "This discourse closely parallels SN 2.9, substituting a solar "
+        "eclipse for a lunar one and the Sun God for the Moon God, with "
+        "Rāhu again seizing, releasing, and explaining himself to "
+        "Vepacitti in nearly identical terms. The one clear addition is a "
+        "couplet describing the sun as a beacon in the darkness, a "
+        "blazing circle of awesome might, and the Buddha's closing appeal "
+        "naming the Sun &lsquo;my offspring&rsquo; &mdash; a term of "
+        "endearment, not a literal genealogical claim. This discourse "
+        "closes the Paṭhamavagga, the first sub-chapter of the "
+        "Devaputtasaṃyutta."),
+    guide=[
+        ("A near-repeat, not an identical one", [
+            "Most of this discourse's verses track SN 2.9's almost word "
+            "for word &mdash; the Moon God's refuge formula becomes the "
+            "Sun God's, Rāhu's fear of a head exploding in seven pieces "
+            "recurs unchanged &mdash; making the differences worth "
+            "noticing precisely because they are so few."]),
+        ("An added couplet, describing the sun itself", [
+            "Unlike SN 2.9, this discourse's version of the Buddha's "
+            "command to Rāhu adds two extra lines describing the sun "
+            "directly: a beacon in the darkness, the blazing sun, a "
+            "circle of awesome might, warning Rāhu not to swallow him as "
+            "he traverses the sky."]),
+        ("&lsquo;My offspring&rsquo;, an endearment", [
+            "The Buddha's verse calls the Sun &lsquo;my offspring&rsquo; "
+            "(putta), a term of affection common in address across early "
+            "Buddhist verse, not a claim that the Buddha and the Sun God "
+            "share any literal kinship."]),
+        ("A vagga-closing discourse without a colophon", [
+            "Unlike SN 1's vagga-closing discourses, several of which "
+            "carried distinctive closing features, this discourse's "
+            "final segments in the source are blank &mdash; the "
+            "untranslated uddāna, the chapter's own summary verse, "
+            "consistent with how this collection's compilers have "
+            "handled such closings elsewhere and not quoted here."]),
+        ("Two eclipse myths, one purpose", [
+            "Read together, SN 2.9 and SN 2.10 form a matched pair: both "
+            "cosmic bodies, both seized and released, both preserved "
+            "today as protection chants &mdash; the moon and sun treated "
+            "as parallel cases of the same underlying rescue, closing the "
+            "Paṭhamavagga on a note of shared cosmic order restored."]),
+    ],
+    terms=[
+        ("Suriya",
+         "&ldquo;the Sun God&rdquo; &mdash; the deity seized by Rāhu in "
+         "this discourse, paralleling Candimā in SN 2.9."),
+        ("obhāsati",
+         "&ldquo;a beacon in the darkness&rdquo; (literally, "
+         "illuminates) &mdash; part of the added couplet describing the "
+         "sun directly, absent from SN 2.9's parallel verse."),
+        ("teja",
+         "&ldquo;awesome might&rdquo; &mdash; describing the sun's "
+         "blazing circle in the same added couplet."),
+        ("putta",
+         "&ldquo;offspring&rdquo; &mdash; the term of endearment the "
+         "Buddha uses in addressing the Sun in his closing appeal to "
+         "Rāhu."),
+        ("uddāna",
+         "&ldquo;summary verse&rdquo; &mdash; the untranslated, blank "
+         "closing segments in the source marking the end of the "
+         "Paṭhamavagga, not quoted in this reading guide's text."),
+    ],
+    text_intro=(
+        "The discourse in full, closely paralleling SN 2.9 with one added "
+        "couplet noted in the reading guide; the closing uddāna is blank "
+        "in the source and not quoted here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn2.10:1.1-1.3"),
+        ("p", "&sect;2", "sn2.10:2.1-2.4"),
+        ("p", "&sect;3", "sn2.10:3.1-3.1"),
+        ("p", "&sect;4", "sn2.10:4.1-5.4"),
+        ("p", "&sect;5", "sn2.10:6.1-6.2"),
+        ("p", "&sect;6", "sn2.10:7.1-7.4"),
+        ("p", "&sect;7", "sn2.10:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What cosmological event does this discourse narrate as myth?",
+         "opts": [
+             "A solar eclipse",
+             "A lunar eclipse",
+             "A meteor shower",
+             "A comet's passing"],
+         "correct": 0,
+         "expl": "The Sun God is seized by Rāhu, paralleling SN 2.9's lunar eclipse."},
+        {"q": "How closely does this discourse parallel SN 2.9?",
+         "opts": [
+             "Very closely, with most verses tracking almost word for word",
+             "Only in general theme, with entirely different verses",
+             "Not at all; the two share only their titan-lord characters",
+             "Identically, with no differences whatsoever"],
+         "correct": 0,
+         "expl": "The differences are worth noticing precisely because they are so few."},
+        {"q": "What is added in this discourse's version of the Buddha's command to Rāhu?",
+         "opts": [
+             "Two extra lines describing the sun as a beacon of awesome might",
+             "A threat against Rāhu not present in SN 2.9",
+             "A request that Vepacitti intervene directly",
+             "An explanation of how eclipses occur"],
+         "correct": 0,
+         "expl": "Absent from SN 2.9's parallel verse, a notable addition worth reading for."},
+        {"q": "What does the Buddha call the Sun in his closing appeal?",
+         "opts": [
+             "“My offspring”",
+             "“My teacher”",
+             "“My equal”",
+             "“My guardian”"],
+         "correct": 0,
+         "expl": "A term of endearment (putta), not a literal genealogical claim."},
+        {"q": "What does Rāhu explain to Vepacitti after releasing the Sun?",
+         "opts": [
+             "That his head would have exploded in seven pieces otherwise",
+             "That the Sun threatened him directly",
+             "That he simply grew bored of holding the Sun",
+             "That another deity forced him to release it"],
+         "correct": 0,
+         "expl": "The same physical threat found unchanged from SN 2.9."},
+        {"q": "What is left untranslated at the close of this discourse in the source?",
+         "opts": [
+             "The uddāna, the chapter's own summary verse",
+             "The Buddha's final teaching",
+             "Rāhu's full explanation",
+             "The Sun God's opening verse"],
+         "correct": 0,
+         "expl": "Blank in the source, consistent with how such closings are handled elsewhere in this collection."},
+        {"q": "What sub-chapter does this discourse close?",
+         "opts": [
+             "The Paṭhamavagga, the first sub-chapter of the Devaputtasaṃyutta",
+             "The entire Devaputtasaṃyutta",
+             "The entire Saṃyutta Nikāya",
+             "The Sagāthāvagga in its entirety"],
+         "correct": 0,
+         "expl": "SN 2.11 opens the next sub-chapter, the Anāthapiṇḍikavagga."},
+        {"q": "How are SN 2.9 and SN 2.10 best read together?",
+         "opts": [
+             "As a matched pair, moon and sun treated as parallel cases of the same rescue",
+             "As unrelated discourses placed together by accident",
+             "As contradictory accounts of the same event",
+             "As a single discourse artificially split in two"],
+         "correct": 0,
+         "expl": "Both cosmic bodies, both seized and released, both preserved today as protection chants."},
+        {"q": "Who is Vepacitti in this discourse?",
+         "opts": [
+             "Another titan lord, whom Rāhu visits in shock",
+             "A godling who rescues the Sun directly",
+             "A human king observing the eclipse",
+             "An epithet for the Buddha"],
+         "correct": 0,
+         "expl": "The same figure as in SN 2.9, appearing here in the parallel role."},
+        {"q": "How is this discourse used in living Buddhist practice today?",
+         "opts": [
+             "Recited as a protection chant (paritta), alongside SN 2.9",
+             "It is not used in any living practice",
+             "Recited only by laypeople during eclipses",
+             "Used exclusively in ordination ceremonies"],
+         "correct": 0,
+         "expl": "Noted directly in the glance summary, matching its companion discourse on the moon."},
+    ],
+    marginalia=[
+        ("The sun, seized in turn", [
+            "Rāhu's grip closes again &mdash;",
+            "a near-repeat of the moon's rescue",
+        ]),
+        ("A beacon, awesome, blazing", [
+            "lines the moon's verse lacked &mdash;",
+            "the one clear addition here",
+        ]),
+        ("My offspring, Rāhu, release", [
+            "an endearment, not a claim of birth &mdash;",
+            "affection voiced mid-command",
+        ]),
+        ("The Paṭhamavagga, closed", [
+            "ten discourses, moon and sun last &mdash;",
+            "cosmic order restored, twice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn2.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment."
+        % SC,
+        '<a href="sn-2.9.html">SN 2.9 &middot; The Moon</a> &mdash; this '
+        "discourse's closely parallel predecessor.",
+        '<a href="sn-2.1.html">SN 2.1 &middot; With Kassapa (1st)</a> '
+        "&mdash; the discourse opening this vagga, ten discourses back.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
