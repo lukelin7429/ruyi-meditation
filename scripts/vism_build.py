@@ -25,8 +25,10 @@ touched.
 Usage:
     python3 scripts/vism_build.py vism_content_01
 """
+import hashlib
 import importlib
 import os
+import random
 import re
 import sys
 
@@ -102,6 +104,20 @@ def terms_block(page):
 NUMWORD = {8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve"}
 
 
+def _shuffled_opts(slug, i, q):
+    """Deterministically shuffle a question's four options so the correct
+    answer's position isn't always index 0 (as authored) -- otherwise every
+    quiz in the series is gameable by always picking the first, or always
+    the longest, option. Seeded per (slug, question index, question text)
+    so rebuilds are reproducible and don't churn the diff."""
+    seed = int(hashlib.sha256(("%s|%d|%s" % (slug, i, q["q"])).encode("utf-8")).hexdigest(), 16)
+    perm = list(range(4))
+    random.Random(seed).shuffle(perm)
+    opts = [q["opts"][j] for j in perm]
+    correct = perm.index(q["correct"])
+    return opts, correct
+
+
 def quiz_block(page):
     qs = page["quiz"]
     n = len(qs)
@@ -116,16 +132,17 @@ def quiz_block(page):
     for i, q in enumerate(qs, 1):
         assert len(q["opts"]) == 4, "question %d needs 4 options" % i
         assert 0 <= q["correct"] <= 3, "question %d correct out of range" % i
+        shown_opts, shown_correct = _shuffled_opts(page["slug"], i, q)
         opts = "\n".join('        <button class="opt">%s</button>' % o
-                         for o in q["opts"])
+                         for o in shown_opts)
         out.append('      <div class="q" data-correct="%d">\n'
                    '        <span class="q-num">Question %d of %d</span>\n'
                    '        <div class="q-text">%s</div>\n'
                    "%s\n"
                    '        <div class="expl"><strong>Correct: %s.</strong> %s</div>\n'
                    "      </div>\n"
-                   % (q["correct"], i, n, q["q"], opts,
-                      "ABCD"[q["correct"]], q["expl"]))
+                   % (shown_correct, i, n, q["q"], opts,
+                      "ABCD"[shown_correct], q["expl"]))
     out.append('      <div class="score-bar" id="score-bar">Answered '
                '<strong id="answered-count">0</strong> of %d &middot; Correct '
                '<strong id="correct-count">0</strong></div>' % n)
