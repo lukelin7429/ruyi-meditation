@@ -2217,3 +2217,221 @@ page(
         "concentrated mind can produce.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 13 -- Abhiññāniddesa
+# --------------------------------------------------------------------------- #
+page(
+    13, "Abhiññāniddesa", "The Other Direct-Knowledges",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 13 — The Other Direct-Knowledges | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 13 of the Visuddhimagga (The Path of "
+        "Purification) — the divine ear, penetration of minds, recollection of past "
+        "lives, and the divine eye, closing Part II with a look ahead to the sixth "
+        "and final direct knowledge Part III will actually explain. No translated "
+        "text reproduced; links to the full free translation and the Pali original. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter closes Part II by working "
+                    "through four more of the traditional six direct knowledges"),
+        ("Speaker", "Buddhaghosa, completing the concentration section before Part "
+                    "III begins"),
+        ("Form", "Four subjects covered more briefly than Chapter 12's single "
+                 "extended topic, each following a similar basis-and-method pattern, "
+                 "closing with a look ahead rather than a full treatment of the "
+                 "sixth knowledge"),
+        ("Length", "moderate; four topics share roughly the space Chapter 12 gave "
+                   "to one"),
+        ("Northern parallel", "Comparable lists of six or more forms of "
+                              "superknowledge appear elsewhere in Buddhist "
+                              "abhidharma literature; this guide does not assert a "
+                              "specific matching passage"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; each of the four "
+                       "subjects is conceptually straightforward on its own"),
+    ],
+    why=(
+        "Chapter 12 covered the first of six traditional forms of direct knowledge: "
+        "supernormal powers. Chapter 13 works through four more &mdash; the divine "
+        "ear, penetration of others' minds, recollection of past lives, and the "
+        "divine eye &mdash; each developed on the same basis of a mastered fourth "
+        "jhāna, before closing Part II with a brief look ahead to the sixth and "
+        "final direct knowledge. That sixth knowledge is what the whole eleven-"
+        "chapter concentration section has ultimately been pointing toward, but "
+        "its actual attainment depends on the analytical work Part III still has "
+        "to unfold."),
+    guide=[
+        ("Four more, from the same basis", [
+            "Just as Chapter 12's supernormal powers rested on a mastered fourth "
+            "jhāna, so do the four knowledges this chapter covers. What changes "
+            "from one to the next is not the underlying mastery but the kind of "
+            "object that same mastered mind is directed toward."]),
+        ("Divine ear", [
+            "The divine ear extends hearing beyond its ordinary range, taking in "
+            "sounds both human and celestial, near and far, in a way ordinary "
+            "hearing cannot."]),
+        ("Penetration of minds", [
+            "This knowledge has a practitioner directly know another being's "
+            "present mental state &mdash; whether a mind is affected by greed or "
+            "free of it, for instance, worked through a series of such paired, "
+            "contrasting conditions."]),
+        ("Recollection of past lives", [
+            "This knowledge extends the same recollective capacity used elsewhere "
+            "in the work, but turned toward a practitioner's own former "
+            "existences, traditionally described as beginning from a single "
+            "recent past life and extending backward from there."]),
+        ("Divine eye", [
+            "The divine eye extends sight rather than hearing, allowing a "
+            "practitioner to see other beings pass away and be reborn according "
+            "to their own actions. Among the five knowledges covered across "
+            "Chapters 12 and 13, this one is often treated as the most "
+            "significant, since it bears directly on confirming the operation of "
+            "kamma across successive lives."]),
+        ("Five mundane, one supramundane", [
+            "The chapter groups these five knowledges &mdash; supernormal powers "
+            "together with the four covered here &mdash; as attainments a "
+            "sufficiently trained mind can produce by refining faculties already "
+            "present in ordinary experience. The sixth and final knowledge, the "
+            "destruction of the taints, is categorically different: not a further "
+            "refinement of concentration, but the fruit of the insight Part III "
+            "still has to explain."]),
+        ("Closing Part II", [
+            "With this chapter complete, the eleven-chapter concentration section "
+            "closes. Unlike the five knowledges just covered, the destruction of "
+            "the taints cannot be approached directly the way a kasina or the "
+            "divine ear can &mdash; it depends on the analytical work Part III is "
+            "about to undertake."]),
+        ("What follows", [
+            "Chapter 14 opens Part III, the ten-chapter section on understanding, "
+            "beginning with the first of the five aggregates."]),
+    ],
+    terms=[
+        ("abhiññā",
+         "&ldquo;direct knowledge&rdquo; &mdash; the general term for the "
+         "traditional set of six, five covered across Chapters 12&ndash;13, the "
+         "sixth reserved for Part III."),
+        ("dibbasota",
+         "the divine ear &mdash; hearing extended beyond its ordinary range, "
+         "taking in sounds both human and celestial."),
+        ("cetopariyañāṇa",
+         "penetration of minds &mdash; directly knowing another being's present "
+         "mental state."),
+        ("pubbenivāsānussati",
+         "recollection of past lives &mdash; recollecting one's own former "
+         "existences, beginning from a recent one and extending backward."),
+        ("dibbacakkhu",
+         "the divine eye &mdash; seeing other beings pass away and be reborn "
+         "according to their own actions."),
+    ],
+    quiz=[
+        {"q": "What did Chapter 12 cover as the first of the traditional six direct knowledges?",
+         "opts": [
+             "Supernormal powers",
+             "The divine eye",
+             "Recollection of past lives",
+             "Destruction of the taints"],
+         "correct": 0,
+         "expl": "Chapter 13 works through four more of the remaining five."},
+        {"q": "What basis do the four direct knowledges in this chapter share with Chapter 12's powers?",
+         "opts": [
+             "A mastered fourth jhāna, directed toward a different kind of object each time",
+             "No basis at all; each arises spontaneously without training",
+             "A separate, unrelated form of training for each one",
+             "Ordination as a monastic specifically, with no other requirement"],
+         "correct": 0,
+         "expl": "What changes between them is the object the same mastered mind is directed toward."},
+        {"q": "What is the divine ear?",
+         "opts": [
+             "Hearing extended beyond ordinary range, taking in sounds both human and celestial",
+             "The ability to speak every human language fluently",
+             "Perfect recall of everything ever heard in this life only",
+             "Immunity to all loud or startling sounds"],
+         "correct": 0,
+         "expl": "Extending hearing near and far in a way ordinary hearing cannot."},
+        {"q": "What is penetration of minds?",
+         "opts": [
+             "Directly knowing another being's present mental state",
+             "Controlling another being's thoughts and actions",
+             "Memorizing the contents of a book instantly",
+             "Predicting a stranger's future career"],
+         "correct": 0,
+         "expl": "Worked through a series of paired, contrasting mental conditions, such as greed present or absent."},
+        {"q": "What does recollection of past lives involve?",
+         "opts": [
+             "Recollecting one's own former existences, beginning from a recent one and extending backward",
+             "Recollecting other people's past lives exclusively, never one's own",
+             "Predicting one's own future rebirths in precise detail",
+             "Recovering childhood memories from the current life only"],
+         "correct": 0,
+         "expl": "An extension of the same recollective capacity used elsewhere in the work."},
+        {"q": "What is the divine eye, and why is it often treated as especially significant?",
+         "opts": [
+             "Seeing beings pass away and be reborn according to their actions, confirming kamma's operation across lives",
+             "Perfect eyesight with no need for corrective lenses",
+             "The ability to see through solid objects at will",
+             "Seeing only events that have not yet happened"],
+         "correct": 0,
+         "expl": "Often treated as the most significant of the five knowledges covered across Chapters 12 and 13."},
+        {"q": "How does the chapter group the five knowledges covered across Chapters 12 and 13?",
+         "opts": [
+             "As attainments a trained mind can produce by refining faculties already present in ordinary experience",
+             "As entirely supernatural abilities unrelated to any ordinary faculty",
+             "As achievements available only after full awakening",
+             "As abilities the chapter says do not actually exist"],
+         "correct": 0,
+         "expl": "Distinguished from the sixth and final knowledge, which is categorically different."},
+        {"q": "How does the sixth direct knowledge, destruction of the taints, differ from the other five?",
+         "opts": [
+             "It is not a further refinement of concentration but the fruit of the insight Part III still has to explain",
+             "It requires no training of any kind and arises randomly",
+             "It is identical in method to the divine eye",
+             "It was not recognized as a direct knowledge until much later texts"],
+         "correct": 0,
+         "expl": "It cannot be approached directly the way a kasina or the divine ear can."},
+        {"q": "What does the completion of Chapter 13 mark?",
+         "opts": [
+             "The close of Part II (Concentration), the eleven-chapter section that began with Chapter 3",
+             "The end of the entire Visuddhimagga",
+             "The midpoint of Part I",
+             "The start of the ten kasinas"],
+         "correct": 0,
+         "expl": "Part III (Understanding) opens next with Chapter 14."},
+        {"q": "Where can a reader go for Chapter 13's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Four more, one basis", [
+            "the same mastered mind,",
+            "directed differently",
+        ]),
+        ("Ear, mind, memory, eye", [
+            "divine ear, mind-reading,",
+            "past lives, divine eye",
+        ]),
+        ("Five mundane knowledges", [
+            "refined ordinary faculties,",
+            "not yet liberation",
+        ]),
+        ("Closing Part II", [
+            "concentration complete &mdash;",
+            "understanding begins next",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/digha-nikaya/dn-02.html">DN 2 &mdash; The Fruits of '
+        "the Ascetic Life</a> &mdash; the canonical source for the full graduated "
+        "path from ethics through absorption to the six direct knowledges this "
+        "chapter and Chapter 12 cover.",
+        '<a href="../discourses/majjhima-nikaya/mn-006.html">MN 6 &mdash; One Might '
+        "Wish</a> &mdash; lists several of these same knowledges among the results "
+        "a trained mind can produce.",
+    ],
+)
