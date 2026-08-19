@@ -718,3 +718,212 @@ page(
         "kasinas directly among its later stages.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 6 -- Asubhakammaṭṭhānaniddesa
+# --------------------------------------------------------------------------- #
+page(
+    6, "Asubhakammaṭṭhānaniddesa", "Foulness as a Meditation Subject",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 6 — Foulness as a Meditation Subject | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 6 of the Visuddhimagga (The Path of "
+        "Purification) — the ten stages of a decaying corpse as meditation subjects, "
+        "their use as an antidote to the greedy temperament, practical cautions "
+        "about charnel grounds, and a lower ceiling on absorption than the kasinas. "
+        "No translated text reproduced; links to the full free translation and the "
+        "Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter turns from the ten kasinas "
+                    "just completed to an entirely different class of object"),
+        ("Speaker", "Buddhaghosa, continuing the systematic survey of the forty "
+                    "meditation subjects previewed in Chapter 3"),
+        ("Form", "Ten distinct objects introduced together, paired with practical "
+                 "guidance on obtaining and safely approaching such a sight, and a "
+                 "note on the level of concentration this subject can reach"),
+        ("Length", "moderate; shorter than Chapter 4, but includes practical and "
+                   "safety guidance not present in the kasina chapters"),
+        ("Northern parallel", "Contemplation of the body's impurity or decay appears "
+                              "widely elsewhere in Buddhist meditation literature as "
+                              "an antidote to bodily attachment; this guide does not "
+                              "assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the subject "
+                       "matter is vivid, though the chapter itself treats it in a "
+                       "clinical, structured way"),
+    ],
+    why=(
+        "Chapter 3 established that different meditation subjects suit different "
+        "temperaments, and having just spent two chapters on the ten kasinas, "
+        "Chapter 6 turns to a subject fitted to a specific situation those kasinas "
+        "do not directly address: strong attachment to the body's apparent "
+        "attractiveness. Ten stages of a corpse's visible decay are presented as a "
+        "direct counterweight to that attachment, continuing the forty-subject "
+        "survey into its next category while putting the temperament principle from "
+        "Chapter 3 into concrete use."),
+    guide=[
+        ("Ten stages of decay", [
+            "The chapter introduces foulness as ten separate meditation subjects, "
+            "each a distinct stage of a corpse's visible decay: the bloated, the "
+            "discolored, the festering, the cut-up, the gnawed, the scattered, the "
+            "hacked-and-scattered, the bleeding, the worm-infested, and finally the "
+            "bare skeleton. Each of the ten counts as its own entry among the forty "
+            "subjects previewed in Chapter 3, not as variations of a single "
+            "practice."]),
+        ("An antidote for a specific temperament", [
+            "The chapter connects this subject directly back to the sixfold typing "
+            "of temperament from Chapter 3, presenting sustained, unflinching "
+            "awareness of decay as a deliberate counterweight for a person whose "
+            "attachment centers on the body's beauty. It is framed less as a "
+            "universal prescription than as a targeted remedy for one particular "
+            "kind of difficulty."]),
+        ("Obtaining the sign", [
+            "Unlike a kasina disk, which can simply be prepared at will, a subject "
+            "like this depends on an actual opportunity to observe such a sight, "
+            "traditionally at a charnel ground or similar site. The chapter treats "
+            "this dependence on circumstance as a real practical difference from the "
+            "kasinas, not a minor detail."]),
+        ("Cautions and safeguards", [
+            "The chapter is notably practical about the genuine dangers and "
+            "disturbances such a setting can involve, addressing composure, caution, "
+            "and safety as seriously as it addresses the meditative instruction "
+            "itself &mdash; a level of real-world concern not called for by the "
+            "kasinas."]),
+        ("A different ceiling on absorption", [
+            "Where Chapters 4 and 5 described all ten kasinas as capable of "
+            "reaching full absorption, this chapter treats foulness differently: "
+            "the vivid, repulsive nature of the object requires a degree of "
+            "sustained applied thought that does not fully fall away the way it "
+            "does with a kasina's counterpart sign, so foulness meditation is said "
+            "to reach only the first level of jhāna, not the deeper levels the "
+            "kasinas can produce."]),
+        ("What follows", [
+            "Chapter 7 turns to gentler ground: the first group of six "
+            "recollections, beginning with recollection of the Buddha, the Dhamma, "
+            "and the Sangha."]),
+    ],
+    terms=[
+        ("asubha",
+         "&ldquo;foulness&rdquo; &mdash; this chapter's subject, both the general "
+         "meditation category and, individually, each of its ten forms."),
+        ("uddhumātaka",
+         "the bloated &mdash; the first of the ten stages of foulness."),
+        ("aṭṭhika",
+         "the skeleton &mdash; the tenth and final stage of foulness."),
+        ("rāgacarita",
+         "the greedy or lustful temperament, one of the six from Chapter 3, for "
+         "which foulness is prescribed here as a direct antidote."),
+        ("sīvathikā",
+         "cemetery or charnel ground &mdash; the traditional setting in which such "
+         "sights were directly observed."),
+    ],
+    quiz=[
+        {"q": "Which temperament from Chapter 3 is foulness meditation specifically prescribed to counter?",
+         "opts": [
+             "The greedy or lustful temperament",
+             "The hating temperament",
+             "The deluded temperament",
+             "The faithful temperament"],
+         "correct": 0,
+         "expl": "Presented as a direct counterweight to attachment centered on the body's apparent attractiveness."},
+        {"q": "How many stages of foulness does this chapter describe?",
+         "opts": [
+             "Ten",
+             "Four",
+             "Six",
+             "Forty"],
+         "correct": 0,
+         "expl": "Each stage counts as its own separate entry among the forty meditation subjects."},
+        {"q": "What is the first of the ten stages of foulness?",
+         "opts": [
+             "The bloated",
+             "The skeleton",
+             "The worm-infested",
+             "The bleeding"],
+         "correct": 0,
+         "expl": "Uddhumātaka, the earliest visible stage of decay in the chapter's sequence."},
+        {"q": "What is the tenth and final stage of foulness?",
+         "opts": [
+             "The skeleton",
+             "The bloated",
+             "The festering",
+             "The cut-up"],
+         "correct": 0,
+         "expl": "Aṭṭhika, the last of the ten stages the chapter describes."},
+        {"q": "Where would a practitioner traditionally go to observe such a sight directly?",
+         "opts": [
+             "A charnel ground or cemetery",
+             "A monastery's main shrine hall",
+             "A riverbank at dawn",
+             "Any private residence"],
+         "correct": 0,
+         "expl": "Unlike a kasina disk, this subject depends on an actual opportunity rather than a device prepared at will."},
+        {"q": "What practical concern does the chapter address alongside the meditative instruction itself?",
+         "opts": [
+             "The genuine dangers and disturbances of approaching such a site, requiring composure and caution",
+             "The cost of hiring assistants to prepare the site",
+             "Obtaining formal government permission",
+             "The chapter raises no practical concerns at all"],
+         "correct": 0,
+         "expl": "A level of real-world concern not called for by the kasinas."},
+        {"q": "How does the ceiling on absorption for foulness meditation compare to that of the kasinas?",
+         "opts": [
+             "Foulness reaches only the first level of jhāna, while the kasinas can reach full, deeper absorption",
+             "Foulness and the kasinas reach exactly the same depth of absorption",
+             "Foulness reaches deeper absorption than any of the kasinas",
+             "Neither foulness nor the kasinas can reach any level of jhāna"],
+         "correct": 0,
+         "expl": "The vivid, repulsive nature of the object keeps a degree of applied thought from fully dropping away."},
+        {"q": "Why, per this chapter, can foulness meditation not proceed beyond the first jhāna?",
+         "opts": [
+             "The object's vivid, repulsive nature requires sustained applied thought that does not fully fall away",
+             "The practice is considered too dangerous to continue past that point",
+             "No teacher has ever demonstrated it going further",
+             "The corpse itself decays too quickly for further practice"],
+         "correct": 0,
+         "expl": "Contrasted directly with the kasina's counterpart sign, where that same factor can fall away."},
+        {"q": "What does Chapter 7 turn to next?",
+         "opts": [
+             "The first group of six recollections, including the Buddha, the Dhamma, and the Sangha",
+             "The immaterial states",
+             "The remaining kasinas",
+             "The supernormal powers"],
+         "correct": 0,
+         "expl": "A gentler set of subjects following the vivid material of Chapter 6."},
+        {"q": "Where can a reader go for Chapter 6's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("A different antidote", [
+            "asubha &mdash; foulness,",
+            "for the greedy temperament",
+        ]),
+        ("Ten stages of decay", [
+            "from the bloated",
+            "to the bare skeleton",
+        ]),
+        ("Real cautions", [
+            "charnel-ground dangers",
+            "addressed directly",
+        ]),
+        ("A lower ceiling", [
+            "only the first jhāna,",
+            "unlike the kasinas",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/majjhima-nikaya/mn-010.html">MN 10 &mdash; '
+        "Mindfulness Meditation</a> &mdash; the canon's most comprehensive source "
+        "on contemplative training, including charnel-ground observation.",
+        '<a href="../discourses/majjhima-nikaya/mn-119.html">MN 119</a> &mdash; a '
+        "discourse centered on mindfulness of the body, closely related in theme to "
+        "this chapter's subject.",
+    ],
+)
