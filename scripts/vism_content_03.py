@@ -1733,3 +1733,217 @@ page(
         "conditioned existence this chapter's sequence builds toward.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 22 -- Ñāṇadassanavisuddhiniddesa
+# --------------------------------------------------------------------------- #
+page(
+    22, "Ñāṇadassanavisuddhiniddesa", "Purification by Knowledge and Vision",
+    part=PART_3,
+    meta_title="Visuddhimagga Ch. 22 — Purification by Knowledge and Vision | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 22 of the Visuddhimagga (The Path of "
+        "Purification) — the path-moment and its fruit, the ten fetters removed "
+        "across four stages from stream-entry to arahantship, and why this is the "
+        "definitive purification the whole work builds toward. No translated text "
+        "reproduced; links to the full free translation and the Pali original. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter describes what happens at "
+                    "and beyond the threshold Chapter 21 traced contemplation to"),
+        ("Speaker", "Buddhaghosa, describing the seventh and final purification"),
+        ("Form", "A single instantaneous event described across four distinct "
+                 "levels, each followed by its corresponding fruit and a period "
+                 "of reflective review"),
+        ("Length", "substantial, given the four-stage progression and the "
+                   "reviewing process this chapter traces after each stage"),
+        ("Northern parallel", "A graduated four-stage model of awakening is "
+                              "broadly shared with other early Buddhist schools' "
+                              "abhidharma systems in some form; this guide does "
+                              "not assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; the doctrinal "
+                       "culmination of the whole work, building directly on "
+                       "everything Chapters 14 through 21 established"),
+    ],
+    why=(
+        "Chapter 21 traced insight to its very threshold &mdash; a moment where "
+        "the mind first takes Nibbāna as object. Chapter 22 opens the seventh and "
+        "final purification by describing what happens at that threshold and "
+        "beyond: the path-moment itself, immediately followed by its fruit, "
+        "occurring across four distinct levels that mark the actual, definitive "
+        "elimination of specific defilements &mdash; the purification the whole "
+        "work's own title most precisely refers to."),
+    guide=[
+        ("The path-moment itself", [
+            "Following the threshold Chapter 21 described, a single instantaneous "
+            "event, the path-consciousness, arises, taking Nibbāna directly as "
+            "its object. The chapter is specific that this event occurs only "
+            "once for any given stage &mdash; it is never repeated."]),
+        ("Path and fruit", [
+            "The path-moment is immediately followed, without any gap, by a "
+            "corresponding fruition: several moments of consciousness that also "
+            "take Nibbāna as their object. Together, path and fruit at each "
+            "stage constitute what the chapter treats as the actual attainment."]),
+        ("Four stages, ten fetters removed in groups", [
+            "The chapter traces this path-and-fruit event across four levels, "
+            "each eliminating a specific subset of ten traditional fetters that "
+            "bind a being to continued suffering. Stream-entry removes the first "
+            "three: personality view, doubt, and clinging to rules and "
+            "observances. Once-returning weakens, without fully removing, "
+            "sensual desire and ill will. Non-returning eliminates those two "
+            "entirely. And arahantship removes the remaining five &mdash; desire "
+            "for fine-material and immaterial existence, conceit, restlessness, "
+            "and ignorance &mdash; completing the process."]),
+        ("What each stage guarantees", [
+            "The chapter is specific about what each level secures going "
+            "forward: a stream-enterer is guaranteed no more than seven further "
+            "lives and no rebirth in the lower realms; a once-returner, at most "
+            "one further return to this particular world; a non-returner, no "
+            "further rebirth in the sense-sphere at all; and an arahant, full "
+            "and complete liberation, with nothing further left to attain."]),
+        ("Reviewing what has been attained", [
+            "After each path-and-fruit event, the chapter describes a further "
+            "reflective knowledge in which a practitioner reviews what was just "
+            "attained, what defilements remain, and what remains to be done, "
+            "before the process, where applicable, begins again toward the next "
+            "stage."]),
+        ("Why this is the definitive purification", [
+            "Everything from purification of virtue onward has prepared the "
+            "ground for this. The four path-moments are what the chapter treats "
+            "as the actual, irreversible elimination of specific defilements, in "
+            "contrast to the earlier purifications, which readied the ground "
+            "rather than accomplishing this directly."]),
+        ("What follows", [
+            "Chapter 23, the work's closing chapter, turns from the process "
+            "itself to the benefits this entire training is said to bring, "
+            "closing the book Buddhaghosa opened by defining virtue back in "
+            "Chapter 1."]),
+    ],
+    terms=[
+        ("ñāṇadassanavisuddhi",
+         "purification by knowledge and vision &mdash; this chapter's subject, "
+         "the seventh and final of the traditional seven purifications."),
+        ("magga, phala",
+         "path and fruit &mdash; the two-part event this chapter's four stages "
+         "each consist of."),
+        ("saṃyojana",
+         "fetter &mdash; any of ten traditional bindings to continued suffering, "
+         "progressively eliminated across the four stages."),
+        ("sotāpatti, sakadāgāmi, anāgāmi, arahatta",
+         "stream-entry, once-returning, non-returning, and arahantship &mdash; "
+         "the four stages this chapter traces."),
+        ("paccavekkhaṇā-ñāṇa",
+         "reviewing knowledge &mdash; the reflective process following each "
+         "path-and-fruit event."),
+    ],
+    quiz=[
+        {"q": "What threshold does Chapter 22 pick up from where Chapter 21 left off?",
+         "opts": [
+             "Gotrabhū, the moment the mind first takes Nibbāna as its object",
+             "The first jhāna, reached through the earth kasina",
+             "Purification of virtue, from Part I",
+             "The forty meditation subjects previewed in Chapter 3"],
+         "correct": 0,
+         "expl": "Chapter 21's sequence built directly toward this single threshold moment."},
+        {"q": "What is the path-moment, and how often does it occur for a given stage?",
+         "opts": [
+             "A single instantaneous event (path-consciousness) taking Nibbāna as object, occurring only once per stage",
+             "A gradual process spanning many years for each stage",
+             "An event that repeats continuously throughout a practitioner's life",
+             "A purely conceptual idea with no actual moment of occurrence"],
+         "correct": 0,
+         "expl": "Never repeated once it has occurred for a given stage."},
+        {"q": "What immediately follows the path-moment?",
+         "opts": [
+             "Its corresponding fruition, several moments of consciousness also taking Nibbāna as object",
+             "A lengthy period of complete unconsciousness",
+             "An automatic return to the very beginning of the training",
+             "Nothing; the path-moment is described as an isolated, unconnected event"],
+         "correct": 0,
+         "expl": "Path and fruit together constitute the actual attainment at each stage."},
+        {"q": "What are fetters (saṃyojana), and how many does the traditional scheme count in total?",
+         "opts": [
+             "Traditional bindings to continued suffering; ten in total",
+             "Physical restraints used in monastic discipline; four in total",
+             "A set of forty meditation subjects; the same forty from Part II",
+             "A list of twenty-two governing faculties from Chapter 16"],
+         "correct": 0,
+         "expl": "Progressively eliminated in groups across the four stages this chapter traces."},
+        {"q": "What three fetters does stream-entry remove?",
+         "opts": [
+             "Personality view, doubt, and clinging to rules and observances",
+             "Sensual desire, ill will, and conceit",
+             "Restlessness, ignorance, and craving for immaterial existence",
+             "All ten fetters at once"],
+         "correct": 0,
+         "expl": "The first three of the ten, removed at the first of the four stages."},
+        {"q": "What does non-returning accomplish that once-returning does not?",
+         "opts": [
+             "It fully eliminates sensual desire and ill will, rather than merely weakening them",
+             "It removes all ten fetters at once, unlike once-returning",
+             "It guarantees rebirth as a deity specifically",
+             "It requires no prior stage of practice whatsoever"],
+         "correct": 0,
+         "expl": "Once-returning weakens these two fetters; non-returning eliminates them entirely."},
+        {"q": "What does arahantship accomplish, per this chapter?",
+         "opts": [
+             "Removal of the remaining five fetters, completing full and complete liberation",
+             "Removal of only one additional fetter beyond non-returning",
+             "A temporary state that can later be lost",
+             "Guaranteed rebirth in a heavenly realm, but not full liberation"],
+         "correct": 0,
+         "expl": "Desire for fine-material and immaterial existence, conceit, restlessness, and ignorance."},
+        {"q": "What is guaranteed to a stream-enterer specifically, according to this chapter?",
+         "opts": [
+             "No more than seven further lives, and no rebirth in the lower realms",
+             "Immediate and complete liberation with nothing further to attain",
+             "Rebirth exclusively as a human being in every future life",
+             "No guarantee of any kind is given at this stage"],
+         "correct": 0,
+         "expl": "Distinct from the guarantees given for the three further stages."},
+        {"q": "What reflective process does the chapter describe following each path-and-fruit event?",
+         "opts": [
+             "Reviewing knowledge (paccavekkhaṇā-ñāṇa), reviewing what was attained and what remains",
+             "A formal public ceremony announcing the attainment",
+             "A mandatory period of complete silence lasting one year",
+             "Immediate rebirth in a higher realm"],
+         "correct": 0,
+         "expl": "Preparing, where applicable, for the process to begin again toward the next stage."},
+        {"q": "Where can a reader go for Chapter 22's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Seventh and final purification", [
+            "the path-moment itself,",
+            "occurring four times",
+        ]),
+        ("Path, then fruit", [
+            "a single instant,",
+            "then its fruition",
+        ]),
+        ("Ten fetters, four stages", [
+            "removed in groups, from",
+            "stream-entry to arahantship",
+        ]),
+        ("The definitive purification", [
+            "everything before",
+            "prepared for this",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/samyutta-nikaya/sn-55.1.html">SN 55.1 &mdash; A '
+        "Wheel-Turning Monarch</a> &mdash; from the collection devoted specifically "
+        "to stream-entry, the first of this chapter's four stages.",
+        '<a href="../discourses/majjhima-nikaya/mn-006.html">MN 6 &mdash; One '
+        "Might Wish</a> &mdash; names stream-entry and the higher stages among "
+        "the results a fully trained mind can produce.",
+    ],
+)
