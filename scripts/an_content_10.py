@@ -35102,3 +35102,1920 @@ PAGES.append({
         "nearly identical peyyāla, for comparison.",
     ],
 })
+
+
+VAGGA_21 = "<em>Karajakāyavagga</em> &mdash; the twenty-first chapter of the Tens, opening the Fifth Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.211 — Paṭhamanirayasaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    211, "Paṭhamanirayasagga", "Heaven and Hell (1st)",
+    vagga=VAGGA_21,
+    meta_title="AN 10.211 — Heaven and Hell (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamanirayasaggasutta, opening the Fifth Fifty with "
+        "the ten courses of action described in full, vivid detail "
+        "as the direct cause of hell or heaven. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten unskillful and ten skillful courses of "
+                 "action, each described in full, vivid detail"),
+        ("Length", "~3 minutes to read"),
+        ("Chapter's namesake", "This chapter, <em>Karajakāyavagga</em>, "
+                               "the Chapter on the Body Born of "
+                               "Deeds, opens the Fifth Fifty (ch21"
+                               "&ndash;25), the final Fifty of the "
+                               "Tens"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "long but plainly stated"),
+    ],
+    why=(
+        "Opening the Fifth and final Fifty of the Tens, the Buddha "
+        "returns to the ten courses of action in their fullest, most "
+        "vivid form &mdash; not abbreviated with peyyāla ellipses as "
+        "in chapters 18&ndash;20, but described act by act in the "
+        "same rich detail last seen at chapters 9&ndash;12."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with the ten unskillful courses of action is "
+            "placed in hell as if delivered there; a person with the "
+            "ten skillful courses of action is placed in heaven as "
+            "if delivered there."]),
+        ("A return to full, unabbreviated description", [
+            "After three chapters (18, 19, 20) that either "
+            "peyyāla-compressed the ten courses of action or "
+            "referred to them only by bare item names, this "
+            "discourse spells out each of the ten in the same full, "
+            "vivid detail already familiar from AN 10.211's own "
+            "close cousins elsewhere in this project &mdash; violent "
+            "and bloody-handed killers, deliberate courtroom "
+            "perjurers, and the full nihilistic wrong-view formula "
+            "denying the fruit of good and bad deeds, giving, and "
+            "the afterlife."]),
+        ("&ldquo;Placed there as if delivered&rdquo;, a vivid "
+         "idiom", [
+            "The recurring phrase &ldquo;placed in hell/heaven as if "
+            "delivered there&rdquo; (<em>nikkhitto evaṁ</em>) "
+            "suggests something closer to automatic transport than "
+            "mere likelihood &mdash; not that such a person MIGHT go "
+            "to hell or heaven, but that the outcome is as certain "
+            "and direct as being physically carried there and set "
+            "down."]),
+        ("A new Fifty, a familiar core teaching", [
+            "This discourse's own content &mdash; the ten courses of "
+            "action in full detail &mdash; has already appeared "
+            "dozens of times across this nipāta; what makes this "
+            "discourse notable is its position, opening the book's "
+            "final Fifty with the same foundational ethical teaching "
+            "that has anchored so much of what came before it."]),
+    ],
+    terms=[
+        ("nikkhitto evaṁ niraye",
+         "&ldquo;placed in hell as if delivered there&rdquo; "
+         "&mdash; the discourse's own recurring phrase, suggesting "
+         "automatic and direct consequence rather than mere "
+         "likelihood."),
+        ("luddo lohitapāṇi",
+         "&ldquo;violent, bloody-handed&rdquo; &mdash; part of the "
+         "vivid description opening the killing item, among the "
+         "fullest such descriptions in this project."),
+        ("sāhasikā",
+         "&ldquo;a hardened killer&rdquo; &mdash; continuing the "
+         "same vivid description."),
+        ("natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ",
+         "&ldquo;there's no meaning in giving, sacrifice, or "
+         "offerings&rdquo; &mdash; the opening line of the full "
+         "nihilistic wrong-view formula, already met at earlier "
+         "discourses across this project denying kamma and rebirth."),
+        ("karajakāya",
+         "&ldquo;the body born of deeds&rdquo; &mdash; the term "
+         "this chapter takes its own name from, first introduced "
+         "explicitly at AN 10.219, though the underlying concern "
+         "with deeds and their embodied consequence runs through "
+         "this entire chapter from its opening discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten unskillful courses of action "
+        "described in full detail as leading to hell, and the ten "
+        "skillful as leading to heaven. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, in full detail"),
+        ("p", "&sect;1", "an10.211:1.1-11.2"),
+        ("h3", "Heaven, in full detail"),
+        ("p", "&sect;2", "an10.211:12.1-22.1"),
+    ],
+    quiz=[
+        {"q": "What does this discourse describe as leading directly "
+              "to hell or heaven?",
+         "opts": [
+             "The ten-factor path",
+             "The ten unskillful and ten skillful courses of action, "
+             "each described in full, vivid detail",
+             "A person's social class",
+             "A person's wealth"],
+         "correct": 1,
+         "expl": "A return to full description after three chapters "
+                 "of compressed or peyyāla'd treatment of the same "
+                 "content."},
+        {"q": "According to the guide, what does the phrase \"placed "
+              "there as if delivered\" suggest?",
+         "opts": [
+             "Mere possibility or likelihood",
+             "Something closer to automatic transport — as certain "
+             "and direct as being physically carried there and set "
+             "down",
+             "A punishment imposed by a judge",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "A vivid idiom for direct, near-mechanical "
+                 "consequence."},
+        {"q": "According to the guide, what makes this discourse's "
+              "position notable, even though its content has "
+              "appeared many times before?",
+         "opts": [
+             "Nothing is notable about its position",
+             "It opens the book's final Fifty with the same "
+             "foundational ethical teaching that anchored so much of "
+             "what came before",
+             "It is the first time this content ever appears",
+             "It contradicts all earlier versions"],
+         "correct": 1,
+         "expl": "A familiar core teaching given a structurally "
+                 "significant new position."},
+        {"q": "What does the wrong-view formula in this discourse "
+              "deny, according to the guide?",
+         "opts": [
+             "Nothing in particular",
+             "The fruit of good and bad deeds, giving, sacrifice, "
+             "offerings, and the afterlife",
+             "Only the existence of hell",
+             "Only the existence of heaven"],
+         "correct": 1,
+         "expl": "The full nihilistic wrong-view formula, already "
+                 "met at earlier discourses across this project."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What chapter of AN10 does this discourse open?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga, opening the Fifth and "
+             "final Fifty",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter of the Tens, opening "
+                 "chapters 21 through 25."},
+    ],
+    marginalia=[
+        ("Full detail, after three chapters of shorthand", [
+            "not \"…pe…\" this time —",
+            "every act spelled out in",
+            "the same old vivid words",
+        ]),
+        ("Delivered, not merely likely", [
+            "\"placed there\" — not \"might",
+            "go,\" but carried, set down,",
+            "as sure as gravity",
+        ]),
+        ("A new Fifty, a familiar anchor", [
+            "the final fifty",
+            "opens on the same ten acts",
+            "that ran through it all",
+        ]),
+        ("Cross-references", [
+            "AN 10.199&ndash;210 &middot; closing the Fourth Fifty, "
+            "previous",
+            "AN 10.219 &middot; The Body Born of Deeds, this "
+            "chapter's own namesake discourse",
+            "AN 10.212 &middot; next, Heaven and Hell (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.211/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.199-210.html">AN 10.199&ndash;210</a> &mdash; previous, closing '
+        "the Fourth Fifty.",
+        '<a href="an-10.212.html">AN 10.212 &middot; Heaven and Hell (2nd)</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.212 — Dutiyanirayasaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    212, "Dutiyanirayasagga", "Heaven and Hell (2nd)",
+    vagga=VAGGA_21,
+    meta_title="AN 10.212 — Heaven and Hell (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyanirayasaggasutta, restating AN 10.211's heaven "
+        "and hell teaching in compressed, bare-item form. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical content as AN 10.211, compressed to "
+                 "bare item names"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a bare restatement of AN 10.211's content"),
+    ],
+    why=(
+        "Following AN 10.211's full, vivid description, this "
+        "discourse restates the identical ten-and-ten teaching in "
+        "compressed form, keeping only the killing item's own vivid "
+        "detail and abbreviating the remaining nine."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A person with the ten unskillful courses of action is "
+            "placed in hell as if delivered there; a person with the "
+            "ten skillful courses of action is placed in heaven as "
+            "if delivered there."]),
+        ("A partial compression, not a full one", [
+            "Unlike this chapter's later bare-repeat discourses, "
+            "this one keeps the first item (killing) in AN 10.211's "
+            "own full vivid language before abbreviating items two "
+            "through ten with peyyāla ellipses &mdash; a partial "
+            "rather than total compression, checked against bilara-"
+            "data before writing rather than assumed uniform."]),
+        ("The first of this chapter's several bare-repeat pairs", [
+            "As already seen repeatedly across chapters 13 through "
+            "20, this discourse forms a narrative-then-bare pair with "
+            "AN 10.211 &mdash; the same structural device this "
+            "project has used dozens of times, here opening the "
+            "Fifth Fifty with an immediately familiar pattern."]),
+    ],
+    terms=[
+        ("nirayasagga",
+         "&ldquo;hell and heaven,&rdquo; this discourse's own root "
+         "title element, identical to AN 10.211's."),
+        ("luddo lohitapāṇi",
+         "&ldquo;violent, bloody-handed&rdquo; &mdash; kept in full "
+         "from AN 10.211 for the killing item, unlike the "
+         "abbreviated items that follow it."),
+        ("pe",
+         "the standard peyyāla ellipsis marker, used here for items "
+         "two through nine (stealing through wrong view), pointing "
+         "back to AN 10.211's own full descriptions."),
+        ("micchādiṭṭhiko hoti",
+         "&ldquo;has wrong view&rdquo; &mdash; the tenth item, also "
+         "given only as a bare name here rather than the full "
+         "nihilistic formula spelled out at AN 10.211."),
+        ("nikkhitto evaṁ sagge",
+         "&ldquo;placed in heaven as if delivered there&rdquo; "
+         "&mdash; the positive half of the discourse's recurring "
+         "closing phrase, unchanged from AN 10.211."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten courses of action leading to "
+        "hell and heaven, in compressed form. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, compressed"),
+        ("p", "&sect;1", "an10.212:1.1-2.12"),
+        ("h3", "Heaven, compressed"),
+        ("p", "&sect;2", "an10.212:3.1-4.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 10.211 "
+              "immediately preceding it?",
+         "opts": [
+             "Unrelated content",
+             "The identical ten-and-ten teaching, compressed with "
+             "peyyāla ellipses after the first item",
+             "A direct contradiction",
+             "A completely different topic"],
+         "correct": 1,
+         "expl": "A bare restatement of a teaching just delivered in "
+                 "full detail."},
+        {"q": "According to the guide, what makes this discourse's "
+              "compression \"partial rather than total\"?",
+         "opts": [
+             "Nothing; it is fully compressed",
+             "It keeps the first item (killing) in AN 10.211's own "
+             "full vivid language before abbreviating the rest",
+             "It keeps all ten items in full",
+             "It removes all ten items entirely"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing "
+                 "rather than assumed uniform."},
+        {"q": "According to the guide, what structural device does "
+              "this discourse form with AN 10.211?",
+         "opts": [
+             "No particular structure",
+             "A narrative-then-bare pair, the same device already "
+             "used dozens of times across chapters 13 through 20",
+             "A brand new structure never seen before",
+             "A contradiction of the earlier discourse"],
+         "correct": 1,
+         "expl": "An immediately familiar pattern opening the Fifth "
+                 "Fifty."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "Which single item keeps its full vivid description in "
+              "this discourse, according to the guide?",
+         "opts": [
+             "Wrong view",
+             "Killing living creatures",
+             "Stealing",
+             "Harsh speech"],
+         "correct": 1,
+         "expl": "The opening item, before the remaining nine are "
+                 "abbreviated."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter, opening the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("One item kept, nine trimmed", [
+            "killing stays vivid;",
+            "stealing through wrong view fold",
+            "into a bare \"…\"",
+        ]),
+        ("Checked, not assumed", [
+            "not fully bare, like",
+            "some other pairs — this one's mix",
+            "confirmed against the source",
+        ]),
+        ("A familiar structural move", [
+            "narrative, then bare —",
+            "the Fifth Fifty opens on",
+            "a well-worn pattern",
+        ]),
+        ("Cross-references", [
+            "AN 10.211 &middot; Heaven and Hell (1st), this "
+            "discourse's narrative twin, previous",
+            "AN 10.213 &middot; next, A Female",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.212/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.211.html">AN 10.211 &middot; Heaven and Hell (1st)</a> &mdash; '
+        "this discourse's narrative twin, previous.",
+        '<a href="an-10.213.html">AN 10.213 &middot; A Female</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.213 — Mātugāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    213, "Mātugāma", "A Female",
+    vagga=VAGGA_21,
+    meta_title="AN 10.213 — A Female | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mātugāmasutta, applying the same heaven/hell teaching "
+        "specifically to a woman, gender-neutral in every particular "
+        "except its own grammatical subject. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical ten-and-ten teaching, specified for "
+                 "a female subject"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third of this chapter's early cluster of "
+                       "closely related discourses"),
+    ],
+    why=(
+        "This discourse applies the identical heaven/hell teaching "
+        "specifically to <em>mātugāma</em>, a woman, changing "
+        "nothing about the ten courses of action themselves &mdash; "
+        "only the grammatical subject shifts, not the ethical "
+        "content."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A woman with the ten unskillful courses of action is "
+            "placed in hell as if delivered there; a woman with the "
+            "ten skillful courses of action is placed in heaven as "
+            "if delivered there."]),
+        ("The same standard, applied without alteration", [
+            "Every one of the ten items and their descriptions "
+            "remains identical to AN 10.211 and 10.212, simply "
+            "regendered from a generic &ldquo;certain person&rdquo; "
+            "to <em>mātugāma</em>; the ethical standard itself shows "
+            "no adjustment whatsoever between subjects."]),
+        ("Mātugāma, a term with a wider reach in this canon", [
+            "<em>Mātugāma</em>, literally &ldquo;mother-folk,&rdquo; "
+            "is this canon's most common general term for women or "
+            "females collectively, appearing across many contexts "
+            "far beyond this discourse; here it simply names who the "
+            "ten-item ethical standard applies to, with no further "
+            "elaboration."]),
+        ("The first of three discourses narrowing to women", [
+            "This discourse opens a short run of three consecutive "
+            "discourses (AN 10.213&ndash;215) all specifying a "
+            "female subject with increasing specificity &mdash; "
+            "first a woman in general, then a laywoman specifically, "
+            "then a laywoman's own self-assurance &mdash; before the "
+            "chapter returns to gender-unspecified teachings at AN "
+            "10.216."]),
+    ],
+    terms=[
+        ("mātugāma",
+         "literally &ldquo;mother-folk,&rdquo; this canon's most "
+         "common general term for women or females collectively "
+         "&mdash; this discourse's own title and subject."),
+        ("nikkhittā evaṁ niraye",
+         "&ldquo;placed in hell as if delivered there,&rdquo; the "
+         "feminine grammatical form of the same recurring phrase "
+         "already met at AN 10.211."),
+        ("pāṇaṁ hanati",
+         "&ldquo;she kills living creatures&rdquo; &mdash; the "
+         "opening item, grammatically feminine but ethically "
+         "identical to the male-subject version."),
+        ("adinnaṁ ādiyati",
+         "&ldquo;she steals&rdquo; &mdash; the second item, likewise "
+         "unchanged in content from the earlier discourses."),
+        ("micchādiṭṭhikā hoti",
+         "&ldquo;she has wrong view&rdquo; &mdash; the tenth and "
+         "final item, closing the list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten courses of action leading to "
+        "hell and heaven, applied to a woman. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Hell, for a woman"),
+        ("p", "&sect;1", "an10.213:1.1-1.13"),
+        ("h3", "Heaven, for a woman"),
+        ("p", "&sect;2", "an10.213:2.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What does this discourse specify about the ten-and-"
+              "ten teaching already met at AN 10.211–212?",
+         "opts": [
+             "It changes the ethical standard for women",
+             "It applies the identical, unaltered teaching "
+             "specifically to a woman (mātugāma)",
+             "It removes several items for women",
+             "It adds new items specific to women"],
+         "correct": 1,
+         "expl": "Only the grammatical subject shifts; the ethical "
+                 "content shows no adjustment."},
+        {"q": "According to the guide, what does \"mātugāma\" "
+              "literally mean, and how is it used elsewhere?",
+         "opts": [
+             "It is unique to this discourse",
+             "Literally \"mother-folk\"; it is this canon's most "
+             "common general term for women or females, used across "
+             "many contexts",
+             "It refers only to nuns",
+             "It is a proper name"],
+         "correct": 1,
+         "expl": "A general term, here simply naming who the "
+                 "standard applies to."},
+        {"q": "According to the guide, what short run of discourses "
+              "does this one open?",
+         "opts": [
+             "No particular run",
+             "Three consecutive discourses (AN 10.213–215) narrowing "
+             "with increasing specificity to women, then laywomen, "
+             "then a laywoman's own self-assurance",
+             "A run of ten discourses",
+             "A run about brahmins"],
+         "correct": 1,
+         "expl": "Before the chapter returns to gender-unspecified "
+                 "teachings at AN 10.216."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many items make up the ten unskillful courses of "
+              "action in this discourse?",
+         "opts": [
+             "Eight", "Ten", "Twelve", "Sixteen"],
+         "correct": 1,
+         "expl": "The same standard ten-item list already met "
+                 "throughout this nipāta."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter, opening the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("Same standard, new subject", [
+            "not a different rule —",
+            "just \"she\" where it once said",
+            "\"a certain person\"",
+        ]),
+        ("A term used far beyond this page", [
+            "\"mother-folk\" names",
+            "women broadly, everywhere",
+            "in this canon's pages",
+        ]),
+        ("Three discourses, narrowing", [
+            "woman, then laywoman,",
+            "then her own self-assurance —",
+            "each one steps in closer",
+        ]),
+        ("Cross-references", [
+            "AN 10.212 &middot; Heaven and Hell (2nd), previous",
+            "AN 10.214 &middot; next, A Laywoman",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.213/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.212.html">AN 10.212 &middot; Heaven and Hell (2nd)</a> &mdash; '
+        "previous.",
+        '<a href="an-10.214.html">AN 10.214 &middot; A Laywoman</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.214 — Upāsikāsutta
+# --------------------------------------------------------------------------- #
+page(
+    214, "Upāsikā", "A Laywoman",
+    vagga=VAGGA_21,
+    meta_title="AN 10.214 — A Laywoman | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upāsikāsutta, narrowing AN 10.213's general female "
+        "subject specifically to a laywoman, compressed to its "
+        "bookend items alone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical ten-and-ten teaching, specified for "
+                 "a laywoman and heavily compressed"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the most heavily compressed discourse so far "
+                       "in this chapter"),
+    ],
+    why=(
+        "Narrowing AN 10.213's general <em>mātugāma</em> to "
+        "<em>upāsikā</em>, a specifically lay Buddhist woman, this "
+        "discourse compresses the ten-item list down to its first "
+        "and last items alone, killing and wrong view, with the "
+        "eight items between simply elided."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A laywoman with the ten unskillful courses of action is "
+            "placed in hell as if delivered there; a laywoman with "
+            "the ten skillful courses of action is placed in heaven "
+            "as if delivered there."]),
+        ("Upāsikā, narrower than mātugāma", [
+            "Where <em>mātugāma</em> at AN 10.213 named women "
+            "generally, <em>upāsikā</em> specifically designates a "
+            "laywoman who has formally taken refuge in the Buddha, "
+            "teaching, and Saṅgha &mdash; a narrower, more "
+            "institutionally defined category, distinct from the "
+            "purely descriptive term used one discourse earlier."]),
+        ("The heaviest compression in this chapter so far", [
+            "Checked against bilara-data before writing, this "
+            "discourse's own source keeps only the first item "
+            "(killing) and the tenth (wrong view) named explicitly, "
+            "eliding all eight items between with a single peyyāla "
+            "ellipsis &mdash; a more aggressive compression than AN "
+            "10.212's own partial version."]),
+    ],
+    terms=[
+        ("upāsikā",
+         "&ldquo;a laywoman,&rdquo; specifically one who has "
+         "formally taken refuge in the Buddha, teaching, and "
+         "Saṅgha &mdash; a narrower category than the general "
+         "<em>mātugāma</em> used at AN 10.213."),
+        ("mātugāma",
+         "&ldquo;women&rdquo; generally, the broader term used at "
+         "AN 10.213, distinct from this discourse's more "
+         "institutionally specific <em>upāsikā</em>."),
+        ("pāṇātipātinī",
+         "&ldquo;she kills living creatures&rdquo; &mdash; the sole "
+         "unskillful item kept explicit in this discourse's heavily "
+         "compressed list."),
+        ("micchādiṭṭhikā",
+         "&ldquo;she has wrong view&rdquo; &mdash; the sole "
+         "remaining explicit item, closing the compressed list "
+         "opposite the killing item."),
+        ("nikkhittā evaṁ sagge",
+         "&ldquo;placed in heaven as if delivered there&rdquo; "
+         "&mdash; the same closing phrase already met at every "
+         "earlier discourse in this run."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten courses of action leading to "
+        "hell and heaven, applied to a laywoman and heavily "
+        "compressed. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Hell, for a laywoman"),
+        ("p", "&sect;1", "an10.214:1.1-1.5"),
+        ("h3", "Heaven, for a laywoman"),
+        ("p", "&sect;2", "an10.214:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What term does this discourse use for its subject, "
+              "narrower than AN 10.213's own \"mātugāma\"?",
+         "opts": [
+             "Bhikkhunī, a fully ordained nun",
+             "Upāsikā, a laywoman who has formally taken refuge in "
+             "the Buddha, teaching, and Saṅgha",
+             "No term is used at all",
+             "The same term as AN 10.213"],
+         "correct": 1,
+         "expl": "A narrower, more institutionally defined category "
+                 "than the purely descriptive mātugāma."},
+        {"q": "According to the guide, how heavily is this "
+              "discourse's ten-item list compressed?",
+         "opts": [
+             "Not compressed at all, given in full",
+             "Only the first item (killing) and the tenth (wrong "
+             "view) are kept explicit; all eight items between are "
+             "elided",
+             "All ten items are elided",
+             "Only five items remain"],
+         "correct": 1,
+         "expl": "The heaviest compression in this chapter so far, "
+                 "confirmed against bilara-data before writing."},
+        {"q": "According to the guide, how does \"upāsikā\" differ "
+              "from \"mātugāma\"?",
+         "opts": [
+             "They are identical in meaning",
+             "Upāsikā is a narrower, institutionally defined "
+             "category (a laywoman with formal refuge), while "
+             "mātugāma is a broader, purely descriptive term",
+             "Mātugāma is narrower than upāsikā",
+             "Neither term appears elsewhere in this canon"],
+         "correct": 1,
+         "expl": "A step toward greater specificity within this "
+                 "chapter's short run of female-subject discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "Which two items are kept explicit in this discourse's "
+              "compressed list?",
+         "opts": [
+             "Stealing and lying",
+             "Killing and wrong view",
+             "Harsh speech and covetousness",
+             "Sexual misconduct and ill will"],
+         "correct": 1,
+         "expl": "The first and tenth items, bookending the "
+                 "compressed list."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter, opening the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("A narrower word for the same subject", [
+            "not women broadly, but",
+            "one who has taken refuge —",
+            "a formal category",
+        ]),
+        ("Only the bookends kept", [
+            "killing, then wrong view —",
+            "eight items in between, gone,",
+            "folded to \"…\"",
+        ]),
+        ("The chapter's tightest compression yet", [
+            "shorter than the last",
+            "two discourses combined — this",
+            "one trims to the bone",
+        ]),
+        ("Cross-references", [
+            "AN 10.213 &middot; A Female, previous",
+            "AN 10.215 &middot; next, Assured",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.214/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.213.html">AN 10.213 &middot; A Female</a> &mdash; previous.',
+        '<a href="an-10.215.html">AN 10.215 &middot; Assured</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.215 — Visāradasutta
+# --------------------------------------------------------------------------- #
+page(
+    215, "Visārada", "Assured",
+    vagga=VAGGA_21,
+    meta_title="AN 10.215 — Assured | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Visāradasutta, closing this chapter's run of female-"
+        "subject discourses with a shift from cosmic destination to "
+        "psychological self-assurance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical ten-item list, reframed around "
+                 "psychological self-assurance rather than rebirth "
+                 "destination"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "closing this chapter's short run of female-"
+                       "subject discourses"),
+    ],
+    why=(
+        "Closing this chapter's three-discourse run narrowing toward "
+        "women, this discourse makes the most significant shift yet: "
+        "not what happens after death, but whether a laywoman living "
+        "at home can feel <em>visārada</em>, self-assured, in this "
+        "very life."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A laywoman living at home with the ten unskillful "
+            "courses of action is not self-assured; a laywoman with "
+            "the ten skillful courses of action is self-assured."]),
+        ("From cosmic destination to felt confidence", [
+            "AN 10.211 through 10.214 all framed the same ten-item "
+            "standard around where a person ends up after death "
+            "(hell or heaven); this discourse instead asks about a "
+            "present psychological state, <em>visārada</em>, "
+            "self-assurance or confidence, felt now rather than "
+            "determined for the hereafter."]),
+        ("Living at home, a specific social frame", [
+            "The phrase &ldquo;laywoman living at home&rdquo; "
+            "(<em>gharāvāsā anassāsikā</em> in negation) specifically "
+            "situates this discourse's concern within domestic, "
+            "householder life rather than monastic renunciation "
+            "&mdash; ethical conduct is framed here as the basis for "
+            "confident participation in ordinary social and family "
+            "life, not merely as a determinant of cosmic destiny."]),
+        ("A compression matching AN 10.214's own pattern", [
+            "As at AN 10.214, this discourse's own source keeps only "
+            "the first item (killing) and the tenth (wrong view) "
+            "explicit, checked directly against bilara-data rather "
+            "than assumed identical to the fuller versions at AN "
+            "10.211&ndash;213."]),
+    ],
+    terms=[
+        ("visārada",
+         "&ldquo;self-assured&rdquo; or confident &mdash; this "
+         "discourse's own title, marking a shift from cosmic "
+         "destination to present psychological state."),
+        ("anassāsikā",
+         "&ldquo;not self-assured&rdquo; &mdash; the negation, "
+         "though the discourse's own English rendering frames it "
+         "positively as lacking assurance rather than as a technical "
+         "negative compound."),
+        ("gharāvāsā",
+         "&ldquo;living at home&rdquo; &mdash; specifically framing "
+         "this discourse's concern within domestic, householder life."),
+        ("pāṇātipātinī",
+         "&ldquo;she kills living creatures&rdquo; &mdash; the sole "
+         "unskillful item kept explicit, matching AN 10.214's own "
+         "compression."),
+        ("micchādiṭṭhikā",
+         "&ldquo;she has wrong view&rdquo; &mdash; the sole "
+         "remaining explicit item, closing the compressed list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten courses of action determining "
+        "whether a laywoman living at home is self-assured. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not self-assured"),
+        ("p", "&sect;1", "an10.215:1.1-1.13"),
+        ("h3", "Self-assured"),
+        ("p", "&sect;2", "an10.215:2.1-2.13"),
+    ],
+    quiz=[
+        {"q": "What does this discourse ask about, distinct from AN "
+              "10.211–214's own framing?",
+         "opts": [
+             "Rebirth destination after death, like all the earlier "
+             "discourses",
+             "Present psychological self-assurance, felt in this "
+             "very life rather than determined for the hereafter",
+             "Monastic ordination requirements",
+             "Nothing different from the earlier discourses"],
+         "correct": 1,
+         "expl": "A shift from cosmic destination to felt confidence "
+                 "in the present."},
+        {"q": "According to the guide, what does \"living at home\" "
+              "specifically frame this discourse's concern within?",
+         "opts": [
+             "Monastic renunciation",
+             "Domestic, householder life — ethical conduct as the "
+             "basis for confident participation in ordinary social "
+             "and family life",
+             "Political life",
+             "No particular frame"],
+         "correct": 1,
+         "expl": "A concern with lived, present-life confidence "
+                 "rather than only cosmic destiny."},
+        {"q": "According to the guide, how does this discourse's "
+              "compression compare to AN 10.214's own?",
+         "opts": [
+             "It is given in full, unlike AN 10.214",
+             "It matches AN 10.214's pattern, keeping only killing "
+             "and wrong view explicit",
+             "It compresses even further, to zero items",
+             "It uses a completely different compression pattern"],
+         "correct": 1,
+         "expl": "Checked directly against bilara-data rather than "
+                 "assumed identical to the fuller earlier versions."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "According to the guide, what does this discourse close "
+              "within this chapter?",
+         "opts": [
+             "Nothing in particular",
+             "The three-discourse run (AN 10.213–215) narrowing "
+             "toward women, before the chapter returns to gender-"
+             "unspecified teachings",
+             "The entire chapter",
+             "The entire Fifth Fifty"],
+         "correct": 1,
+         "expl": "The chapter's final female-subject discourse "
+                 "before AN 10.216 returns to a general audience."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter, opening the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("Not where you'll go, but how you feel now", [
+            "not hell or heaven —",
+            "just: can she stand at ease",
+            "in her own household",
+        ]),
+        ("Ethics for daily confidence", [
+            "conduct isn't just",
+            "about the afterlife — it's",
+            "about today, too",
+        ]),
+        ("A run of three, closing here", [
+            "woman, laywoman,",
+            "now her own self-assurance —",
+            "the narrowing ends",
+        ]),
+        ("Cross-references", [
+            "AN 10.214 &middot; A Laywoman, previous",
+            "AN 10.213 &middot; A Female, opening this three-"
+            "discourse run",
+            "AN 10.216 &middot; next, Creepy Creatures",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.215/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.214.html">AN 10.214 &middot; A Laywoman</a> &mdash; previous.',
+        '<a href="an-10.216.html">AN 10.216 &middot; Creepy Creatures</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.216 — Saṁsappanīyasutta
+# --------------------------------------------------------------------------- #
+page(
+    216, "Saṁsappanīya", "Creepy Creatures",
+    vagga=VAGGA_21,
+    meta_title="AN 10.216 — Creepy Creatures | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁsappanīyasutta, the vivid image of crooked deeds "
+        "producing crooked rebirth as a creeping animal or in an "
+        "eminent wealthy family. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "An explicit teaching announcement, then the ten "
+                 "courses of action tied to crooked or virtuous "
+                 "rebirth"),
+        ("Length", "~2 minutes to read"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid, memorable central image"),
+    ],
+    why=(
+        "Returning to a general audience after the chapter's short "
+        "run of female-subject discourses, this famous discourse "
+        "gives kamma one of this project's most vivid images: "
+        "&ldquo;crooked&rdquo; deeds by body, speech, and mind "
+        "producing a &ldquo;crooked&rdquo; rebirth as one of the "
+        "creeping animals that flee at the sight of a human."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Beings are owners and heirs of their own deeds; crooked "
+            "deeds by way of the ten unskillful courses of action "
+            "lead to a crooked destiny, reborn in hell or as a "
+            "creeping animal, while virtuous deeds lead to a "
+            "virtuous destiny, reborn in heaven or an eminent, "
+            "wealthy family."]),
+        ("A named exposition, formally announced", [
+            "Unlike the immediately preceding discourses, this one "
+            "opens with the Buddha explicitly naming and announcing "
+            "&ldquo;an exposition of the teaching on creepy "
+            "creatures&rdquo; before beginning &mdash; a formal frame "
+            "signaling this discourse's own special, memorable status "
+            "within the chapter."]),
+        ("The image itself: snakes, scorpions, and centipedes", [
+            "The discourse names specific creeping animals directly "
+            "&mdash; snakes, scorpions, centipedes, mongooses, cats, "
+            "mice, owls, &ldquo;or whatever other species of animal "
+            "that creep away when they see humans&rdquo; &mdash; "
+            "linking the literal physical posture of these animals "
+            "(low, evasive, keeping to the ground) to the moral "
+            "&ldquo;crookedness&rdquo; of the deeds that produced "
+            "such a rebirth."]),
+        ("A refrain repeated for every single item", [
+            "The discourse's closing refrain &mdash; &ldquo;this is "
+            "how a being is born from a being, for your deeds "
+            "determine your rebirth, and when you're reborn contacts "
+            "strike you&rdquo; &mdash; repeats after each of the ten "
+            "unskillful items individually before the whole set "
+            "closes, and again after the ten skillful items, giving "
+            "this discourse an unusually insistent, chant-like "
+            "structure."]),
+    ],
+    terms=[
+        ("saṁsappanīya",
+         "&ldquo;creepy&rdquo; or creeping &mdash; this discourse's "
+         "own title, describing both the literal animals and the "
+         "moral quality of the deeds that lead to rebirth among them."),
+        ("kāyena vācāya manasā vaṅkaṁ katvā",
+         "&ldquo;doing crooked deeds by way of body, speech, and "
+         "mind&rdquo; &mdash; the discourse's own key phrase linking "
+         "unskillful conduct to a &ldquo;crooked&rdquo; destiny."),
+        ("kammadāyādā",
+         "&ldquo;heir to their deeds&rdquo; &mdash; part of the "
+         "discourse's own opening formula, closely related to this "
+         "chapter's namesake term, karajakāya, the body born of "
+         "deeds."),
+        ("ekantadukkhaṁ nirayaṁ",
+         "&ldquo;an exclusively painful hell&rdquo; &mdash; one of "
+         "the two rebirth destinations named for crooked deeds, "
+         "alongside the animal realm."),
+        ("uḷārāya kulāyupapajjati",
+         "&ldquo;reborn in an eminent well-to-do family&rdquo; "
+         "&mdash; one of the two positive outcomes for virtuous "
+         "deeds, alongside a heaven of perfect happiness."),
+    ],
+    text_intro=(
+        "The discourse in full: the exposition on creepy creatures, "
+        "linking the ten courses of action to crooked or virtuous "
+        "rebirth. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An exposition announced"),
+        ("p", "&sect;1", "an10.216:1.1-2.3"),
+        ("h3", "Crooked deeds, crooked rebirth"),
+        ("p", "&sect;2", "an10.216:3.1-6.10"),
+        ("h3", "Virtuous deeds, virtuous rebirth"),
+        ("p", "&sect;3", "an10.216:7.1-11.3"),
+    ],
+    quiz=[
+        {"q": "What vivid image does this discourse use for "
+              "unskillful deeds' consequence?",
+         "opts": [
+             "A burning house",
+             "\"Crooked\" deeds producing a \"crooked\" rebirth as a "
+             "creeping animal — snakes, scorpions, centipedes, and "
+             "the like",
+             "A sinking ship",
+             "A broken pot"],
+         "correct": 1,
+         "expl": "One of this project's most vivid and memorable "
+                 "kamma images."},
+        {"q": "According to the guide, how does this discourse open, "
+              "distinct from the immediately preceding discourses?",
+         "opts": [
+             "With no introduction at all",
+             "With the Buddha explicitly naming and announcing \"an "
+             "exposition of the teaching on creepy creatures\" before "
+             "beginning",
+             "With a question from a brahmin",
+             "With a narrative about a specific animal"],
+         "correct": 1,
+         "expl": "A formal frame signaling this discourse's own "
+                 "special, memorable status."},
+        {"q": "According to the guide, what link does the discourse "
+              "draw between the literal animals and the deeds that "
+              "produce rebirth among them?",
+         "opts": [
+             "No link at all",
+             "The animals' low, evasive posture (creeping away from "
+             "humans) mirrors the moral \"crookedness\" of the deeds "
+             "themselves",
+             "The animals are chosen at random",
+             "Only their color matters"],
+         "correct": 1,
+         "expl": "A physical image mapped directly onto ethical "
+                 "quality."},
+        {"q": "What refrain repeats after each item in this "
+              "discourse, according to the guide?",
+         "opts": [
+             "No refrain repeats",
+             "\"This is how a being is born from a being, for your "
+             "deeds determine your rebirth, and when you're reborn "
+             "contacts strike you\"",
+             "A verse about impermanence only",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "An unusually insistent, chant-like structure "
+                 "repeating for each of the ten items."},
+        {"q": "What two outcomes does the discourse name for virtuous "
+              "deeds, according to the guide?",
+         "opts": [
+             "Only rebirth as a happy animal",
+             "A heaven of perfect happiness, or rebirth in an "
+             "eminent, wealthy family",
+             "Only rebirth in the human realm generally",
+             "Immediate awakening"],
+         "correct": 1,
+         "expl": "Mirroring the two negative outcomes (hell or "
+                 "creeping-animal rebirth) named for unskillful deeds."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("A posture, made moral", [
+            "creeping low, evasive —",
+            "the same shape as the deeds",
+            "that led there, crooked",
+        ]),
+        ("Named, before it begins", [
+            "not a bare teaching,",
+            "but an announced \"exposition\" —",
+            "this one gets a name",
+        ]),
+        ("A refrain, chanted ten times", [
+            "\"deeds determine birth\" —",
+            "said again and again, for",
+            "each act, in its turn",
+        ]),
+        ("Cross-references", [
+            "AN 10.215 &middot; Assured, previous",
+            "AN 10.217 &middot; next, Intentional (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.216/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.215.html">AN 10.215 &middot; Assured</a> &mdash; previous.',
+        '<a href="an-10.217.html">AN 10.217 &middot; Intentional (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.217 — Paṭhamasañcetanikasutta
+# --------------------------------------------------------------------------- #
+page(
+    217, "Paṭhamasañcetanika", "Intentional (1st)",
+    vagga=VAGGA_21,
+    meta_title="AN 10.217 — Intentional (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasañcetanikasutta, the famous dice simile for "
+        "intentional kamma's certain fruit, reorganizing the ten "
+        "courses of action into a threefold body/speech/mind count. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A declaration on intentional kamma, the ten "
+                 "courses of action reorganized by body/speech/mind, "
+                 "and the dice simile"),
+        ("Length", "~3 minutes to read"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a doctrinally dense discourse worth reading "
+                       "carefully"),
+    ],
+    why=(
+        "This discourse opens with one of this canon's most quoted "
+        "statements on kamma &mdash; intentional deeds are never "
+        "eliminated without being experienced &mdash; then reorganizes "
+        "the familiar ten courses of action into a 3+4+3 count by "
+        "body, speech, and mind, closing with the memorable image of "
+        "loaded dice that always land the same way."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Intentional deeds performed and accumulated must be "
+            "experienced, whether in this life, the next, or some "
+            "later period; the ten unskillful courses of action, "
+            "counted as three bodily, four verbal, and three mental, "
+            "lead to suffering, while their ten skillful opposites "
+            "lead to happiness."]),
+        ("A doctrinal opening rare in this project", [
+            "&ldquo;I don't say that intentional deeds that have "
+            "been performed and accumulated are eliminated without "
+            "being experienced&rdquo; is a direct, quotable statement "
+            "of kammic causation's inescapability, given here as an "
+            "explicit doctrinal claim rather than embedded in a "
+            "narrative or simile."]),
+        ("The familiar ten, recounted as three, four, and three", [
+            "Rather than simply listing ten items, this discourse "
+            "explicitly groups them by their bodily, verbal, and "
+            "mental mode of action &mdash; three bodily courses "
+            "(killing, stealing, sexual misconduct), four verbal "
+            "(lying, backbiting, harsh speech, talking nonsense), and "
+            "three mental (covetousness, ill will, wrong view) "
+            "&mdash; a structural framing already implicit in this "
+            "canon's standard ten-item list but made fully explicit "
+            "here."]),
+        ("The dice simile, closing each half", [
+            "&ldquo;It's like throwing sure-bet dice: they always "
+            "fall the right side up&rdquo; closes the unskillful "
+            "half, and the same image (with &ldquo;unfailing "
+            "dice&rdquo;) closes the skillful half &mdash; a vivid "
+            "image of kammic certainty, comparing moral cause and "
+            "effect to a game rigged in advance rather than left to "
+            "chance."]),
+    ],
+    terms=[
+        ("sañcetanika",
+         "&ldquo;intentional&rdquo; &mdash; this discourse's own "
+         "title, naming the deliberate volition (<em>cetanā</em>) "
+         "this discourse identifies as what makes a deed kammically "
+         "significant."),
+        ("kammaṁ katvā upacitaṁ",
+         "&ldquo;deeds that have been performed and accumulated&rdquo; "
+         "&mdash; the discourse's own opening phrase for kamma that "
+         "must inevitably be experienced."),
+        ("kāyakammaṁ tividhaṁ, vacīkammaṁ catubbidhaṁ, manokammaṁ "
+         "tividhaṁ",
+         "&ldquo;bodily action threefold, verbal action fourfold, "
+         "mental action threefold&rdquo; &mdash; this discourse's "
+         "own explicit 3+4+3 grouping of the familiar ten courses of "
+         "action."),
+        ("kaliggahaṁ nikkhittaṁ",
+         "&ldquo;sure-bet dice&rdquo; &mdash; the discourse's own "
+         "simile for kammic certainty, closing the unskillful half "
+         "of the teaching."),
+        ("dukkhudrayaṁ, sukhudrayaṁ",
+         "&ldquo;with suffering as outcome, with happiness as "
+         "outcome&rdquo; &mdash; the same udraya vocabulary already "
+         "met at AN 10.143 and AN 10.187, here applied to the "
+         "threefold body/speech/mind grouping."),
+    ],
+    text_intro=(
+        "The discourse in full: intentional kamma's certain fruit, "
+        "the ten courses of action grouped as three bodily, four "
+        "verbal, and three mental, and the dice simile. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Intentional deeds must be experienced"),
+        ("p", "&sect;1", "an10.217:1.1-2.3"),
+        ("h3", "Corruption and failure, by body, speech, and mind"),
+        ("p", "&sect;2", "an10.217:3.1-18.3"),
+        ("h3", "Success, by body, speech, and mind"),
+        ("p", "&sect;3", "an10.217:19.1-34.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse claim about intentional "
+              "deeds that have been performed and accumulated?",
+         "opts": [
+             "They can be eliminated without being experienced",
+             "They must be experienced, whether in this life, the "
+             "next, or some later period",
+             "They only matter if witnessed by others",
+             "They have no lasting consequence"],
+         "correct": 1,
+         "expl": "A direct, quotable statement of kammic causation's "
+                 "inescapability."},
+        {"q": "How does this discourse reorganize the familiar ten "
+              "courses of action?",
+         "opts": [
+             "It doesn't reorganize them",
+             "Explicitly as three bodily, four verbal, and three "
+             "mental courses of action",
+             "As five pairs of opposites",
+             "As a single undifferentiated list"],
+         "correct": 1,
+         "expl": "A structural framing already implicit in the "
+                 "standard list, made fully explicit here."},
+        {"q": "What simile closes each half of this discourse's "
+              "teaching, according to the guide?",
+         "opts": [
+             "A burning house",
+             "Loaded dice that always fall the right side up",
+             "A flowing river",
+             "A growing tree"],
+         "correct": 1,
+         "expl": "A vivid image comparing moral cause and effect to "
+                 "a game rigged in advance."},
+        {"q": "According to the guide, what vocabulary from earlier "
+              "in this nipāta does this discourse reuse?",
+         "opts": [
+             "None",
+             "The udraya (\"outcome\") vocabulary already met at AN "
+             "10.143 and AN 10.187",
+             "The peyyāla compression convention only",
+             "The near-shore/far-shore image"],
+         "correct": 1,
+         "expl": "The same outcome-vocabulary, here applied to the "
+                 "threefold body/speech/mind grouping."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What Pali term does this discourse's own title come "
+              "from, according to the guide?",
+         "opts": [
+             "Kamma alone",
+             "Sañcetanika, naming the deliberate volition (cetanā) "
+             "that makes a deed kammically significant",
+             "Dukkha",
+             "Ariya"],
+         "correct": 1,
+         "expl": "Intention itself, identified as what makes an "
+                 "action kammically significant."},
+    ],
+    marginalia=[
+        ("A claim stated directly", [
+            "not embedded in a",
+            "story, but declared outright:",
+            "deeds must be felt out",
+        ]),
+        ("Ten items, regrouped", [
+            "not just a list of",
+            "ten, but three, four, three — body,",
+            "speech, and mind, counted",
+        ]),
+        ("Dice loaded in advance", [
+            "not a game of chance —",
+            "the dice always land the same,",
+            "kamma rigged by cause",
+        ]),
+        ("Cross-references", [
+            "AN 10.216 &middot; Creepy Creatures, previous",
+            "AN 10.143 &middot; With Suffering as Outcome, and AN "
+            "10.187 &middot; With Suffering as Outcome, the earlier "
+            "uses of this discourse's own udraya vocabulary",
+            "AN 10.218 &middot; next, Intentional (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.217/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.216.html">AN 10.216 &middot; Creepy Creatures</a> &mdash; previous.',
+        '<a href="an-10.218.html">AN 10.218 &middot; Intentional (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.218 — Dutiyasañcetanikasutta
+# --------------------------------------------------------------------------- #
+page(
+    218, "Dutiyasañcetanika", "Intentional (2nd)",
+    vagga=VAGGA_21,
+    meta_title="AN 10.218 — Intentional (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasañcetanikasutta, restating AN 10.217's dice "
+        "simile and threefold kamma teaching in compressed form, "
+        "dropping the dice image itself. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical content as AN 10.217, compressed "
+                 "with peyyāla ellipses throughout"),
+        ("Length", "~1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a bare restatement of AN 10.217's content"),
+    ],
+    why=(
+        "Following AN 10.217's full treatment, this discourse "
+        "restates the identical intentional-kamma teaching and "
+        "threefold body/speech/mind grouping in compressed form "
+        "&mdash; notably dropping the dice simile itself, the most "
+        "memorable image of its own predecessor."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Intentional deeds performed and accumulated must be "
+            "experienced; the ten unskillful courses of action, "
+            "counted as three bodily, four verbal, and three mental, "
+            "lead to suffering, while their ten skillful opposites "
+            "lead to happiness."]),
+        ("What survives compression, and what doesn't", [
+            "This discourse keeps AN 10.217's opening doctrinal "
+            "declaration and closing threefold grouping nearly "
+            "word for word, but drops the dice simile entirely "
+            "&mdash; checked against bilara-data before writing, "
+            "confirming the omission rather than assuming the bare "
+            "version simply abbreviates every element uniformly."]),
+        ("A quieter, more purely doctrinal close", [
+            "Without the dice image, this discourse ends on the bare "
+            "causal claim itself &mdash; deeds must be experienced "
+            "&mdash; without the vivid comparison that gave AN "
+            "10.217 its most memorable moment, a noticeably flatter "
+            "close for structurally identical content."]),
+    ],
+    terms=[
+        ("sañcetanika",
+         "&ldquo;intentional&rdquo; &mdash; this discourse's own "
+         "title, identical to AN 10.217's."),
+        ("kāyakammaṁ tividhaṁ, vacīkammaṁ catubbidhaṁ, manokammaṁ "
+         "tividhaṁ",
+         "&ldquo;bodily action threefold, verbal action fourfold, "
+         "mental action threefold&rdquo; &mdash; kept from AN "
+         "10.217's own explicit grouping."),
+        ("pe",
+         "the peyyāla ellipsis marker, used here for the individual "
+         "item descriptions AN 10.217 gave in full."),
+        ("kaliggahaṁ nikkhittaṁ",
+         "&ldquo;sure-bet dice&rdquo; &mdash; AN 10.217's own vivid "
+         "closing simile, notably absent from this discourse's own "
+         "compressed ending."),
+        ("dukkhudrayaṁ, sukhudrayaṁ",
+         "&ldquo;with suffering as outcome, with happiness as "
+         "outcome&rdquo; &mdash; kept from AN 10.217's own closing "
+         "vocabulary."),
+    ],
+    text_intro=(
+        "The discourse in full: intentional kamma's certain fruit and "
+        "the threefold body/speech/mind grouping, in compressed "
+        "form. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Intentional deeds must be experienced, compressed"),
+        ("p", "&sect;1", "an10.218:1.1-12.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to AN 10.217 "
+              "immediately preceding it?",
+         "opts": [
+             "Unrelated content",
+             "The identical intentional-kamma teaching and threefold "
+             "grouping, compressed with peyyāla ellipses",
+             "A direct contradiction",
+             "A completely different topic"],
+         "correct": 1,
+         "expl": "A bare restatement of a teaching just delivered in "
+                 "full detail."},
+        {"q": "According to the guide, what notable element does this "
+              "discourse's compression drop entirely?",
+         "opts": [
+             "Nothing is dropped",
+             "The dice simile itself, AN 10.217's most memorable "
+             "image",
+             "The opening doctrinal declaration",
+             "The threefold body/speech/mind grouping"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing, "
+                 "rather than assuming uniform abbreviation of every "
+                 "element."},
+        {"q": "According to the guide, what effect does dropping the "
+              "dice simile have on this discourse's ending?",
+         "opts": [
+             "No effect at all",
+             "A noticeably flatter close, ending on the bare causal "
+             "claim itself without the vivid comparison",
+             "It makes the ending more vivid",
+             "It removes the doctrinal content entirely"],
+         "correct": 1,
+         "expl": "A quieter, more purely doctrinal close than its "
+                 "predecessor."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What grouping does this discourse keep from AN 10.217, "
+              "according to the guide?",
+         "opts": [
+             "No grouping is kept",
+             "The threefold body/speech/mind grouping of the ten "
+             "courses of action",
+             "A grouping unique to this discourse",
+             "The near/far shore grouping"],
+         "correct": 1,
+         "expl": "Kept nearly word for word from its predecessor."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 20, Aparapuggalavagga",
+             "Chapter 21, Karajakāyavagga",
+             "Chapter 22",
+             "Chapter 19"],
+         "correct": 1,
+         "expl": "The twenty-first chapter, opening the Fifth Fifty."},
+    ],
+    marginalia=[
+        ("What compression leaves behind", [
+            "the claim stays whole,",
+            "the grouping stays whole, but",
+            "the dice image: gone",
+        ]),
+        ("A flatter close", [
+            "no loaded dice here —",
+            "just the bare claim, standing on",
+            "its own, unadorned",
+        ]),
+        ("Checked, not guessed", [
+            "not every element",
+            "trimmed evenly — the simile",
+            "alone was cut clean",
+        ]),
+        ("Cross-references", [
+            "AN 10.217 &middot; Intentional (1st), this discourse's "
+            "own fuller predecessor, previous",
+            "AN 10.219 &middot; next, The Body Born of Deeds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.218/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.217.html">AN 10.217 &middot; Intentional (1st)</a> &mdash; this '
+        "discourse's own fuller predecessor, previous.",
+        '<a href="an-10.219.html">AN 10.219 &middot; The Body Born of Deeds</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.219 — Karajakāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    219, "Karajakāya", "The Body Born of Deeds",
+    vagga=VAGGA_21,
+    meta_title="AN 10.219 — The Body Born of Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Karajakāyasutta, this chapter's own namesake discourse, "
+        "the four immeasurables offered as a way past deeds already "
+        "done, leading to non-return. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha questioning the mendicants"),
+        ("Form", "A declaration on kamma, then love, compassion, "
+                 "rejoicing, and equanimity offered as the way past "
+                 "deeds already done"),
+        ("Length", "~2 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the entire chapter, "
+                               "<em>Karajakāyavagga</em>, the Chapter "
+                               "on the Body Born of Deeds"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a pivotal, closely reasoned discourse"),
+    ],
+    why=(
+        "Giving this entire chapter its name, this discourse asks a "
+        "sharper question than any before it in this chapter's run: "
+        "not simply that intentional deeds must be experienced, but "
+        "whether the four immeasurable meditations &mdash; love, "
+        "compassion, rejoicing, and equanimity &mdash; can change how "
+        "old, already-done deeds actually play out."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple who develops the heart's release "
+            "through love (and compassion, rejoicing, and equanimity) "
+            "understands that limited deeds no longer remain or "
+            "persist in a mind grown limitless, so that past bad "
+            "deeds done &ldquo;with this deed-born body&rdquo; are "
+            "experienced here without following into the next life, "
+            "leading to non-return."]),
+        ("Karajakāya, the term this chapter takes its own name from", [
+            "<em>Karajakāya</em>, &ldquo;the body born of deeds,&rdquo; "
+            "appears explicitly here for the first time in this "
+            "chapter, naming the physical body itself as something "
+            "produced by past kamma &mdash; the immeasurable "
+            "meditations do not undo the deeds already committed with "
+            "this body, but they change how, and how limitedly, "
+            "their results are experienced."]),
+        ("Not erasing kamma, but outgrowing its limits", [
+            "The discourse's own child-development thought experiment "
+            "&mdash; a child who develops the heart's release by love "
+            "from childhood on would do no bad deed, and doing no bad "
+            "deed, experience no suffering &mdash; makes clear this "
+            "is not a claim that meditation cancels or erases prior "
+            "kamma; a mind grown limitless simply has no room left "
+            "for limited deeds to remain in, so their effect cannot "
+            "expand to fill an unlimited container."]),
+        ("A striking, gender-inclusive closing statement", [
+            "&ldquo;This heart's release by love should be developed "
+            "by women or men, for neither women nor men take this "
+            "body with them when they go&rdquo; explicitly closes "
+            "this chapter's own earlier run of gender-specific "
+            "discourses (AN 10.213&ndash;215) with an emphatic claim "
+            "that this particular practice belongs equally to "
+            "everyone, since the body itself is left behind at death "
+            "regardless of who inhabited it."]),
+    ],
+    terms=[
+        ("karajakāya",
+         "&ldquo;the body born of deeds&rdquo; &mdash; this "
+         "chapter's own namesake term, appearing explicitly here for "
+         "the first time, naming the physical body as a product of "
+         "past kamma."),
+        ("cetovimutti mettā",
+         "&ldquo;the heart's release by love&rdquo; &mdash; the "
+         "first of the four immeasurable meditations this discourse "
+         "offers as a way of outgrowing, without erasing, prior "
+         "deeds."),
+        ("appamāṇaṁ cittaṁ bhāvitaṁ",
+         "&ldquo;a mind that's limitless and well developed&rdquo; "
+         "&mdash; the discourse's own image for why limited past "
+         "deeds no longer &ldquo;remain or persist&rdquo; once the "
+         "mind itself has outgrown its own former limits."),
+        ("na anāgataṁ samparāyaṁ anugacchati",
+         "&ldquo;it will not follow me to my next life&rdquo; "
+         "&mdash; the discourse's own claim about deeds experienced "
+         "fully in this life rather than carrying forward."),
+        ("anāgāmitā",
+         "&ldquo;non-return&rdquo; &mdash; the third of the four "
+         "stages of awakening, named here as this practice's own "
+         "outcome for a mendicant who has not yet gone further."),
+    ],
+    text_intro=(
+        "The discourse in full: the four immeasurable meditations "
+        "offered as a way of outgrowing, without erasing, deeds "
+        "already done. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Love, and the limitless mind"),
+        ("p", "&sect;1", "an10.219:1.1-6.7"),
+        ("h3", "Equanimity, and the same teaching restated"),
+        ("p", "&sect;2", "an10.219:7.1-11.7"),
+    ],
+    quiz=[
+        {"q": "What does this discourse offer as a way of relating to "
+              "deeds already done?",
+         "opts": [
+             "Confession to a senior monk",
+             "The four immeasurable meditations — love, compassion, "
+             "rejoicing, and equanimity",
+             "Physical austerity",
+             "Silent retreat alone"],
+         "correct": 1,
+         "expl": "This chapter's own namesake discourse, giving it "
+                 "the term karajakāya, the body born of deeds."},
+        {"q": "According to the guide, what does the child-"
+              "development thought experiment clarify?",
+         "opts": [
+             "That meditation cancels or erases prior kamma "
+             "entirely",
+             "That this is not a claim of erasure — a mind grown "
+             "limitless simply has no room left for limited deeds to "
+             "remain in",
+             "That children cannot practice meditation",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "A distinction between erasing kamma and outgrowing "
+                 "its limits."},
+        {"q": "According to the guide, what does this discourse's "
+              "closing statement about women and men accomplish?",
+         "opts": [
+             "Nothing in particular",
+             "It explicitly closes this chapter's earlier gender-"
+             "specific discourses (AN 10.213–215) with a claim that "
+             "this practice belongs equally to everyone",
+             "It excludes women from this practice",
+             "It excludes men from this practice"],
+         "correct": 1,
+         "expl": "Since the body itself is left behind at death "
+                 "regardless of who inhabited it."},
+        {"q": "What outcome does this practice lead to, according to "
+              "the discourse?",
+         "opts": [
+             "Immediate full awakening",
+             "Non-return (anāgāmitā), for a wise mendicant who has "
+             "not yet penetrated to a higher freedom",
+             "Rebirth in the animal realm",
+             "No particular outcome is named"],
+         "correct": 1,
+         "expl": "The third of the four stages of awakening."},
+        {"q": "What does \"karajakāya\" mean, and what role does it "
+              "play in this chapter, according to the guide?",
+         "opts": [
+             "\"The wandering body\"; it has no special role",
+             "\"The body born of deeds\"; it gives this entire "
+             "chapter its own name, appearing explicitly here for the "
+             "first time",
+             "\"The eternal body\"; unrelated to this chapter's name",
+             "A term never explained in the guide"],
+         "correct": 1,
+         "expl": "This chapter's own namesake term, naming the "
+                 "physical body as a product of past kamma."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("Not erased, but outgrown", [
+            "old deeds don't vanish —",
+            "a mind grown limitless just",
+            "has no room for them",
+        ]),
+        ("The body, named as deed-born", [
+            "\"karajakāya\" —",
+            "this chapter's own title word,",
+            "finally spoken",
+        ]),
+        ("A body left behind by everyone", [
+            "\"neither women nor",
+            "men take this body with them\" —",
+            "the practice, shared alike",
+        ]),
+        ("Cross-references", [
+            "AN 10.218 &middot; Intentional (2nd), previous",
+            "AN 10.213&ndash;215 &middot; this chapter's earlier "
+            "gender-specific discourses, closed here with a claim of "
+            "equal practice",
+            "AN 10.220 &middot; next, Unprincipled Conduct, closing "
+            "this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.219/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.218.html">AN 10.218 &middot; Intentional (2nd)</a> &mdash; previous.',
+        '<a href="an-10.220.html">AN 10.220 &middot; Unprincipled Conduct</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.220 — Adhammacariyāsutta
+# --------------------------------------------------------------------------- #
+page(
+    220, "Adhammacariyā", "Unprincipled Conduct",
+    vagga=VAGGA_21,
+    meta_title="AN 10.220 — Unprincipled Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Adhammacariyāsutta, closing this chapter with a "
+        "brahmin's question about why beings are reborn in hell or "
+        "heaven, answered through the same threefold conduct "
+        "grouping. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha and an unnamed brahmin"),
+        ("Form", "A brahmin's question, a brief answer, a request "
+                 "for detail, then the threefold body/speech/mind "
+                 "conduct grouping explained"),
+        ("Length", "~2 minutes to read"),
+        ("Closing this chapter", "This discourse closes "
+            "<em>Karajakāyavagga</em>, the twenty-first chapter, "
+            "with its own untranslated colophon &lsquo;Karajakāyavaggo "
+            "paṭhamo&rsquo; (the first chapter of the Fifth Fifty)"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a clear question-and-answer structure"),
+    ],
+    why=(
+        "Closing this chapter, an unnamed brahmin asks the most "
+        "direct possible question &mdash; why are some beings reborn "
+        "in hell, and others in heaven? &mdash; receiving an answer "
+        "that circles back to the same threefold body/speech/mind "
+        "conduct grouping already central to AN 10.217 and 10.218."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Unprincipled and immoral conduct &mdash; threefold by "
+            "body, fourfold by speech, threefold by mind &mdash; is "
+            "the reason beings are reborn in hell; principled and "
+            "moral conduct, in the same threefold grouping, is the "
+            "reason beings are reborn in heaven."]),
+        ("A brahmin's question, answered in the summary-then-detail "
+         "pattern", [
+            "As already seen several times in this nipāta, the "
+            "brahmin's initial question receives only a brief answer "
+            "(&ldquo;unprincipled and immoral conduct&rdquo;), "
+            "prompting him to ask for the detailed meaning &mdash; the "
+            "same summary-then-unpacking structure already met "
+            "repeatedly across this project, here delivered directly "
+            "by the Buddha himself rather than through an intermediary "
+            "like Mahākaccāna at AN 10.172."]),
+        ("The same 3+4+3 grouping, closing the chapter as it opened "
+         "a key discourse within it", [
+            "This discourse's own threefold-by-body, fourfold-by-"
+            "speech, threefold-by-mind structure matches AN 10.217 "
+            "and 10.218 exactly, giving the chapter's closing "
+            "discourse the same analytical framing already "
+            "established two discourses earlier &mdash; a structural "
+            "echo closing the chapter on a note of technical "
+            "precision rather than narrative or image."]),
+        ("A now-familiar closing conversion", [
+            "As at several other brahmin-dialogue discourses across "
+            "this project (including AN 10.167 and 10.177, both in "
+            "chapter 17), this discourse closes with the brahmin's "
+            "own declaration of lifelong lay refuge &mdash; the same "
+            "conversion formula recurring at the close of this "
+            "chapter as it did at the close of an earlier one."]),
+    ],
+    terms=[
+        ("adhammacariyā visamacariyā",
+         "&ldquo;unprincipled and immoral conduct&rdquo; &mdash; "
+         "this discourse's own title term, the Buddha's brief initial "
+         "answer to the brahmin's question."),
+        ("dhammacariyā samacariyā",
+         "&ldquo;principled and moral conduct&rdquo; &mdash; the "
+         "mirrored positive term, explaining rebirth in heaven."),
+        ("tividhā kāyena, catubbidhā vācāya, tividhā manasā",
+         "&ldquo;threefold by body, fourfold by speech, threefold "
+         "by mind&rdquo; &mdash; the same grouping already met at AN "
+         "10.217 and 10.218, applied here to answer the brahmin's "
+         "own question."),
+        ("suṇātha, sādhukaṁ manasi karotha, bhāsissāmi",
+         "&ldquo;listen and apply your mind well, I will speak&rdquo; "
+         "&mdash; the Buddha's formal preparatory address before "
+         "unpacking the brief answer in detail."),
+        ("upāsakaṁ maṁ bhavaṁ gotamo dhāretu",
+         "&ldquo;may the worthy Gotama remember me as a lay "
+         "follower&rdquo; &mdash; the brahmin's own closing "
+         "declaration of lifelong refuge, closing both this "
+         "discourse and the entire chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: a brahmin's question about hell and "
+        "heaven, answered through the threefold body/speech/mind "
+        "conduct grouping. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "A brahmin's question"),
+        ("p", "&sect;1", "an10.220:1.1-3.5"),
+        ("h3", "Unprincipled conduct, explained"),
+        ("p", "&sect;2", "an10.220:4.1-7.3"),
+        ("h3", "Principled conduct, and the brahmin's conversion"),
+        ("p", "&sect;3", "an10.220:8.1-12.2"),
+    ],
+    quiz=[
+        {"q": "What question does the brahmin ask the Buddha, closing "
+              "this chapter?",
+         "opts": [
+             "What is the meaning of the near shore?",
+             "Why are some beings reborn in hell, and others in "
+             "heaven?",
+             "How should offerings be given?",
+             "What is the noble eightfold path?"],
+         "correct": 1,
+         "expl": "The most direct possible framing of this "
+                 "chapter's own recurring concern."},
+        {"q": "According to the guide, what structural pattern does "
+              "this discourse follow, already seen elsewhere in this "
+              "project?",
+         "opts": [
+             "No particular pattern",
+             "A brief summary answer followed by a request for "
+             "detailed unpacking, delivered directly by the Buddha "
+             "rather than through an intermediary like Mahākaccāna",
+             "A narrative about a specific animal",
+             "A peyyāla compression"],
+         "correct": 1,
+         "expl": "The same summary-then-detail structure met "
+                 "repeatedly across this project, here without an "
+                 "intermediary."},
+        {"q": "According to the guide, what grouping does this "
+              "discourse share with AN 10.217 and 10.218?",
+         "opts": [
+             "No shared grouping",
+             "The threefold-by-body, fourfold-by-speech, threefold-"
+             "by-mind conduct grouping",
+             "The near/far shore image",
+             "The dice simile"],
+         "correct": 1,
+         "expl": "A structural echo closing the chapter on the same "
+                 "analytical framing established two discourses "
+                 "earlier."},
+        {"q": "How does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "With the brahmin rejecting the teaching",
+             "With the brahmin's own declaration of lifelong lay "
+             "refuge, the same conversion formula met at other "
+             "brahmin-dialogue discourses like AN 10.167 and 10.177",
+             "With no resolution at all",
+             "With a dispute between two brahmins"],
+         "correct": 1,
+         "expl": "A now-familiar closing conversion recurring across "
+                 "this project's brahmin dialogues."},
+        {"q": "What does this discourse's own closing colophon "
+              "confirm, according to the guide?",
+         "opts": [
+             "Nothing about the chapter's position",
+             "\"Karajakāyavaggo paṭhamo\" — the first chapter of the "
+             "Fifth Fifty",
+             "A reference to the Fourth Fifty",
+             "\"Catuttho paṇṇāsako samatto\""],
+         "correct": 1,
+         "expl": "Confirming the Fifth Fifty restarts its own "
+                 "internal chapter numbering, as every earlier Fifty "
+                 "has done."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+    ],
+    marginalia=[
+        ("The chapter's own question, asked plainly", [
+            "not dressed in image",
+            "or simile — just: why hell?",
+            "why heaven? — asked straight",
+        ]),
+        ("A structure, echoed once more", [
+            "three, four, three again —",
+            "the same count from two discourses",
+            "back, closing the loop",
+        ]),
+        ("A conversion, recognized", [
+            "the same closing words",
+            "as other brahmins gave — a",
+            "familiar ending",
+        ]),
+        ("Cross-references", [
+            "AN 10.219 &middot; The Body Born of Deeds, previous",
+            "AN 10.217 &middot; Intentional (1st), sharing this "
+            "discourse's own threefold conduct grouping",
+            "AN 10.167 &middot; The Brahmin Ceremony of Descent, and "
+            "AN 10.177 &middot; With Jāṇussoṇi, earlier brahmin "
+            "dialogues closing on the same conversion formula",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.220/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.219.html">AN 10.219 &middot; The Body Born of Deeds</a> &mdash; '
+        "previous.",
+        '<a href="an-10.217.html">AN 10.217 &middot; Intentional (1st)</a> &mdash; sharing '
+        "this discourse's own threefold conduct grouping.",
+    ],
+)
