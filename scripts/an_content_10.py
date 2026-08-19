@@ -34836,3 +34836,269 @@ page(
         "this chapter.",
     ],
 )
+
+
+VAGGA_20 = "<em>Aparapuggalavagga</em> &mdash; the twentieth chapter of the Tens, closing the Fourth Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.199–210 — Nasevitabbādisutta (compressed peyyāla)
+# --------------------------------------------------------------------------- #
+# Checked against bilara-data before writing: root/pli/ms/sutta/an/an10/
+# an10.199-210_root-pli-ms.json is a SINGLE merged file (unlike chapter 16's
+# an10.156-166, this one also folds in the opening "should (not) be
+# associated with" discourse rather than leaving it as its own standalone
+# file). Structure confirmed: discourse 1 (10.199) is the full "should not
+# be associated with / should be associated with" pair, given in full (not
+# peyyāla-compressed); ten more discourses (10.200-209) follow the same
+# ten association-verbs already met at chapter 16 (frequent, pay homage,
+# venerate, praise, revere/defer to, success, pure, wins over conceit,
+# grows in wisdom); a twelfth and final discourse (10.210) closes with
+# "brims with much wickedness / much merit" and the chapter's own DOUBLE
+# colophon "Aparapuggalavaggo pancamo" (the fifth chapter of the Fourth
+# Fifty) + "Catuttho pannasako samatto" (the Fourth Fifty is finished) --
+# confirming chapter 20's own name is Aparapuggalavagga ("Another/Further
+# Chapter on Individuals"), NOT "Ariyapuggalavagga" as earlier misrecorded
+# in project memory; corrected here after checking the source directly.
+# Presented as a single combined page, following the same convention
+# already used for AN 9.113-432 and AN 10.156-166.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.199-210",
+    "index_pali": "(untitled)",
+    "nav_title": "Should Not Associate, Etc.",
+    "source": "an10/an10.199-210",
+    "crumb": "AN 10.199&ndash;210",
+    "meta_title": ("AN 10.199–210 — Should Not Associate, Etc. — "
+                   "Closing the Fourth Fifty | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "the closing peyyāla of Aparapuggalavagga — twelve discourses "
+        "compressed into one page, closing the Fourth Fifty. From "
+        "Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.199&ndash;210",
+    "title": "Should Not Associate, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_20),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "One full discourse (associate/not) plus ten "
+                 "association-verbs, crossed against a person with "
+                 "the ten courses of action, closing with an "
+                 "unusual twelfth discourse on wickedness and merit"),
+        ("Length", "~1 minute to read the compressed text; the full "
+                   "twelve-discourse expansion would take about ten"),
+        ("Closing the Fourth Fifty", "This page closes "
+            "<em>Aparapuggalavagga</em>, the twentieth chapter, with "
+            "a double colophon &lsquo;Aparapuggalavaggo "
+            "pañcamo&rsquo; and &lsquo;Catuttho paṇṇāsako "
+            "samatto&rsquo; &mdash; the Fourth Fifty (chapters "
+            "16&ndash;20) is finished"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the compressed text is brief, but tracking "
+                       "eleven distinct pairings takes care"),
+    ],
+    "why": (
+        "This single page stands for twelve discourses (AN 10.199 "
+        "through 10.210), closely echoing chapter 16's own "
+        "Puggalavagga peyyāla but this time folding the opening "
+        "&ldquo;should (not) be associated with&rdquo; discourse "
+        "into the same merged source file, and closing not just this "
+        "chapter but the entire Fourth Fifty."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "A person with the ten courses of unskillful action "
+            "should not be associated with, frequented, paid homage, "
+            "venerated, praised, or deferred to, is not a success, "
+            "is not pure, does not win over conceit, does not grow "
+            "in wisdom, and brims with much wickedness; a person who "
+            "avoids all ten should receive the opposite treatment "
+            "and outcome in each case, and brims with much merit."]),
+        ("A near-repeat of chapter 16's own peyyāla, one discourse "
+         "longer", [
+            "Checked against bilara-data before writing, this "
+            "chapter's compressed range spans twelve discourses "
+            "(10.199&ndash;210) rather than chapter 16's eleven "
+            "(10.156&ndash;166) &mdash; the difference is that this "
+            "chapter's opening &ldquo;should (not) be associated "
+            "with&rdquo; discourse (AN 10.199) is folded directly "
+            "into the same merged source file, where chapter 16's "
+            "equivalent (AN 10.155) was left as its own separate, "
+            "uncompressed file."]),
+        ("Ten association-verbs, the same set as chapter 16", [
+            "The ten verb-pairs crossed against the ten courses of "
+            "action match chapter 16's own list exactly: frequented, "
+            "paid homage, venerated, praised, revered/deferred to, "
+            "a success, pure, wins over conceit, and grows in wisdom "
+            "&mdash; the same association vocabulary, now applied to "
+            "a person defined by conduct (killing, stealing, and the "
+            "rest) rather than the ten-factor path."]),
+        ("A double colophon, closing chapter and Fifty together", [
+            "This page's final segment carries two closing "
+            "declarations at once: &lsquo;Aparapuggalavaggo "
+            "pañcamo&rsquo; (the Other Individuals Chapter, the "
+            "fifth [of the Fourth Fifty]) and &lsquo;Catuttho "
+            "paṇṇāsako samatto&rsquo; (the Fourth Fifty is "
+            "finished) &mdash; the same double-colophon pattern "
+            "already met closing the Second Fifty at AN 10.100 and "
+            "the Third Fifty at AN 10.154, confirming chapters "
+            "16&ndash;20 as a complete unit."]),
+        ("A naming correction, caught before writing", [
+            "This chapter's own name, confirmed directly from "
+            "bilara-data, is <em>Aparapuggalavagga</em>, "
+            "&ldquo;Another&rdquo; or &ldquo;Further Chapter on "
+            "Individuals&rdquo; &mdash; distinct from an earlier, "
+            "mistaken note in this project's own working records "
+            "that called it &ldquo;Ariyapuggalavagga&rdquo;; the "
+            "correct name is recorded here after checking the "
+            "source directly rather than trusting an unverified "
+            "prior guess."]),
+    ],
+    "terms": [
+        ("sevitabba, na sevitabba",
+         "&ldquo;should be associated with, should not be&rdquo; "
+         "&mdash; the opening discourse of this compressed range "
+         "(AN 10.199), given in full rather than peyyāla-"
+         "compressed, unlike the ten verb-pairs that follow it."),
+        ("bhajitabbo, payirupāsitabbo",
+         "&ldquo;should be frequented, should be paid homage&rdquo; "
+         "&mdash; the first two of ten association-verbs following "
+         "the opening discourse, identical to chapter 16's own list."),
+        ("ārādhako hoti, visujjhati",
+         "&ldquo;is a success, is purified&rdquo; &mdash; two "
+         "further verb-pairs, shifting from social treatment to "
+         "personal outcome, as at chapter 16."),
+        ("bahuṁ apuññaṁ pasavati, bahuṁ puññaṁ pasavati",
+         "&ldquo;brims with much wickedness, brims with much "
+         "merit&rdquo; &mdash; the closing discourse's own pairing, "
+         "identical in sense to chapter 16's AN 10.166."),
+        ("Aparapuggalavaggo pañcamo, Catuttho paṇṇāsako samatto",
+         "&ldquo;the Other Individuals Chapter, the fifth&rdquo; and "
+         "&ldquo;the Fourth Fifty is finished&rdquo; &mdash; this "
+         "page's own double closing colophon."),
+    ],
+    "text_intro": (
+        "The compressed text in full: one full discourse on "
+        "association, ten further association-verbs, and a closing "
+        "discourse on wickedness and merit, each applied to a "
+        "person defined by the ten courses of action. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Should not be associated with, and should be"),
+        ("p", "&sect;1", "an10.199-210:1.1-2.4"),
+        ("h3", "Ten further verbs, compressed"),
+        ("p", "&sect;2", "an10.199-210:3.1-3.20"),
+        ("h3", "Wickedness, and merit"),
+        ("p", "&sect;3", "an10.199-210:4.1-4.5"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "Twelve individually numbered discourses (AN "
+             "10.199–210), one full opening discourse plus ten "
+             "association-verbs plus a closing discourse",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "One discourse longer than chapter 16's own "
+                 "eleven-discourse peyyāla, since this chapter folds "
+                 "its opening discourse into the same merged file."},
+        {"q": "According to the guide, how does this chapter's "
+              "compressed range differ structurally from chapter "
+              "16's own peyyāla?",
+         "opts": [
+             "No difference at all",
+             "This chapter folds its opening \"should (not) be "
+             "associated with\" discourse into the same merged file, "
+             "where chapter 16 left its equivalent as a separate, "
+             "uncompressed page",
+             "This chapter has no opening discourse at all",
+             "This chapter uses a completely different verb set"],
+         "correct": 1,
+         "expl": "Confirmed by checking bilara-data before writing — "
+                 "twelve discourses here versus chapter 16's eleven."},
+        {"q": "What does this page's closing colophon state, "
+              "according to the guide?",
+         "opts": [
+             "Nothing about a larger structure",
+             "A double closure: \"Aparapuggalavaggo pañcamo\" and "
+             "\"Catuttho paṇṇāsako samatto\" — the Fourth Fifty is "
+             "finished",
+             "Only the chapter's own name, with no fifty-marker",
+             "A reference to the Fifth Fifty's first chapter"],
+         "correct": 1,
+         "expl": "The same double-colophon pattern already met "
+                 "closing the Second Fifty (AN 10.100) and Third "
+                 "Fifty (AN 10.154)."},
+        {"q": "What is this chapter's actual name, according to the "
+              "guide, correcting an earlier mistaken note in this "
+              "project's own records?",
+         "opts": [
+             "Ariyapuggalavagga",
+             "Aparapuggalavagga, \"Another\" or \"Further Chapter on "
+             "Individuals\"",
+             "Sādhuvagga",
+             "Karajakāyavagga"],
+         "correct": 1,
+         "expl": "Confirmed directly from bilara-data rather than "
+                 "trusting an earlier unverified guess."},
+        {"q": "How do the ten association-verbs in this chapter "
+              "compare to chapter 16's own list, according to the "
+              "guide?",
+         "opts": [
+             "Completely different verbs",
+             "Identical: frequented, paid homage, venerated, "
+             "praised, revered, a success, pure, wins over conceit, "
+             "and grows in wisdom",
+             "Only half the verbs match",
+             "This chapter has twenty verbs instead of ten"],
+         "correct": 1,
+         "expl": "The same association vocabulary, now applied to a "
+                 "person defined by the ten courses of action."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("One discourse folded in", [
+            "not left standalone, like",
+            "chapter 16's own opener —",
+            "here, part of one file",
+        ]),
+        ("The same ten verbs, once more", [
+            "frequent, praise, revere,",
+            "succeed, be pure, grow wise —",
+            "conduct judged ten ways",
+        ]),
+        ("Two closures in one breath", [
+            "\"fifth chapter,\" and then",
+            "\"fourth fifty, finished\" — both",
+            "declared at once",
+        ]),
+        ("Cross-references", [
+            "AN 10.198 &middot; Should Be Realized, closing chapter "
+            "19, previous",
+            "AN 10.155&ndash;166 &middot; chapter 16's own nearly "
+            "identical peyyāla, for comparison",
+            "AN 10.100 &middot; Not Possible, and AN 10.154 &middot; "
+            "Should Be Realized, the earlier double-colophon closures "
+            "of the Second and Third Fifty",
+            "AN 10.211 &middot; next, opening the Fifth Fifty's "
+            "ch21, Karajakāyavagga",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.199-210/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.198.html">AN 10.198</a> &mdash; previous, closing chapter 19.',
+        "<a href=\"an-10.155.html\">AN 10.155&ndash;166</a> &mdash; chapter 16's own "
+        "nearly identical peyyāla, for comparison.",
+    ],
+})
