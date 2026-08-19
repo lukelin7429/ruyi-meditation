@@ -57,7 +57,7 @@ SC_LINK = ('<a href="https://suttacentral.net/vism/pli/ms" target="_blank" '
 
 INDEX_HEADING = "Part I: Sīla — Virtue (Chapters 1&ndash;2)"
 HEAD = ("./", "Visuddhimagga guide")
-TAIL = ("./", "Visuddhimagga guide")
+TAIL = ("vism-3.html", "Taking a Meditation Subject")
 INDEX_EXTRA = []
 
 PAGES = []
