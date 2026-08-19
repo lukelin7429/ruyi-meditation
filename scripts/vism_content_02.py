@@ -1368,3 +1368,220 @@ page(
         "chapter's thirty-two-parts technique.",
     ],
 )
+
+# --------------------------------------------------------------------------- #
+# Chapter 9 -- Brahmavihāraniddesa
+# --------------------------------------------------------------------------- #
+page(
+    9, "Brahmavihāraniddesa", "The Divine Abidings",
+    part=PART_2,
+    meta_title="Visuddhimagga Ch. 9 — The Divine Abidings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "An original reading guide to Chapter 9 of the Visuddhimagga (The Path of "
+        "Purification) — loving-kindness, compassion, appreciative joy, and "
+        "equanimity, where to begin (and not begin) practice, breaking down "
+        "boundaries between beings, and why equanimity develops differently from "
+        "the other three. No translated text reproduced; links to the full free "
+        "translation and the Pali original. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "No narrative setting; the chapter turns from the ten "
+                    "recollections of Chapters 7&ndash;8 to a different four-part "
+                    "group entirely"),
+        ("Speaker", "Buddhaghosa, continuing the survey of the forty meditation "
+                    "subjects previewed in Chapter 3"),
+        ("Form", "Four related states treated as a connected group, with detailed "
+                 "practical guidance &mdash; especially for loving-kindness &mdash; "
+                 "on who to begin practice with and in what order"),
+        ("Length", "substantial, given the specificity of the guidance for loving- "
+                   "kindness in particular"),
+        ("Northern parallel", "The four divine abidings appear across virtually all "
+                              "Buddhist traditions in some form; this guide does not "
+                              "assert a specific matching passage"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the details on "
+                       "each subject's ceiling on absorption, especially "
+                       "equanimity's unusual entry point, reward careful reading"),
+    ],
+    why=(
+        "Chapters 7 and 8 covered ten recollections, most of them capped at access "
+        "concentration. Chapter 9 turns to a different four-part group: states of "
+        "heart cultivated directly toward other beings, traditionally called the "
+        "divine abidings. Three of the four can reach substantial absorption, and "
+        "the fourth, equanimity, is developed in a way that sets it apart even from "
+        "the other three &mdash; not built up from nothing, but only taking shape "
+        "once a settled base already exists."),
+    guide=[
+        ("Four related states", [
+            "Loving-kindness, compassion, appreciative joy, and equanimity are "
+            "treated together as a connected group, traditionally named the divine "
+            "abidings for the way they were said to characterize certain heavenly "
+            "states of mind, though the chapter treats them as available to any "
+            "practitioner here and now."]),
+        ("Where to begin (and where not to)", [
+            "The chapter is notably specific about how loving-kindness practice "
+            "should start: with a person one respects but does not feel romantic "
+            "attraction toward, and explicitly not with someone one is sexually "
+            "attracted to, someone intensely disliked, a neutral stranger, or "
+            "someone who has died &mdash; each of these, for different reasons, "
+            "tends to derail the practice before it can stabilize."]),
+        ("Breaking down the boundaries", [
+            "From that starting person, the practice extends outward: to a "
+            "genuinely neutral person, then eventually to someone difficult or "
+            "disliked, with the explicit goal of reaching a point where the "
+            "distinctions between dear, neutral, and hostile no longer color the "
+            "feeling at all. The chapter describes the completed practice as a "
+            "boundless pervasion extending equally in every direction."]),
+        ("Compassion and appreciative joy", [
+            "Compassion is developed by attending to other beings' suffering; "
+            "appreciative joy, by deliberately rejoicing in other beings' good "
+            "fortune and success, functioning as a direct counter to envy in much "
+            "the way compassion counters cruelty and loving-kindness counters "
+            "ill will."]),
+        ("Equanimity, developed differently", [
+            "Unlike the other three, equanimity is not built up gradually from a "
+            "beginning. The chapter treats it as only taking shape once a settled "
+            "base of concentration is already established &mdash; typically through "
+            "the other three &mdash; since a genuine, balanced equanimity toward "
+            "beings requires the same steady, unmoved quality already present at "
+            "deep absorption, rather than something a practitioner works toward "
+            "from an ordinary starting point."]),
+        ("Three ceilings, not one", [
+            "Loving-kindness, compassion, and appreciative joy are each said to "
+            "reach up to the third level of jhāna but not the fourth, since all "
+            "three retain a degree of pleasant feeling that the chapter treats as "
+            "incompatible with the fourth level's more equanimous character. "
+            "Equanimity itself belongs only to the fourth level &mdash; and only "
+            "because, as just described, it already presupposes it."]),
+        ("What follows", [
+            "Chapter 10 turns to the four immaterial states, a further set of "
+            "meditation subjects built directly on top of the base the fourth "
+            "jhāna provides."]),
+    ],
+    terms=[
+        ("brahmavihāra",
+         "&ldquo;divine abiding&rdquo; &mdash; this chapter's four subjects treated "
+         "as a group: loving-kindness, compassion, appreciative joy, and "
+         "equanimity."),
+        ("mettā",
+         "loving-kindness &mdash; the first of the four, and the one given the most "
+         "detailed practical guidance in this chapter."),
+        ("karuṇā",
+         "compassion &mdash; developed by attending to other beings' suffering."),
+        ("muditā",
+         "appreciative or sympathetic joy &mdash; developed by rejoicing in other "
+         "beings' good fortune, as a direct counter to envy."),
+        ("upekkhā",
+         "equanimity &mdash; the fourth of the divine abidings, developed "
+         "differently from the other three and belonging specifically to the "
+         "fourth level of jhāna."),
+    ],
+    quiz=[
+        {"q": "What four states make up the divine abidings this chapter covers?",
+         "opts": [
+             "Loving-kindness, compassion, appreciative joy, and equanimity",
+             "Faith, virtue, generosity, and wisdom",
+             "The four kasinas of color",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "Traditionally named for the heavenly states of mind they were said to characterize."},
+        {"q": "Who does the chapter recommend NOT starting loving-kindness practice with?",
+         "opts": [
+             "Someone one is sexually attracted to, someone intensely disliked, or a person who has died",
+             "A respected teacher one does not feel romantic attraction toward",
+             "Oneself, under any circumstances whatsoever",
+             "A stranger of exactly the same age"],
+         "correct": 0,
+         "expl": "Each of these tends to derail the practice before it can stabilize, for different reasons."},
+        {"q": "What is the goal of &ldquo;breaking down the boundaries&rdquo; in loving-kindness practice?",
+         "opts": [
+             "Reaching a point where dear, neutral, and hostile no longer color the feeling at all",
+             "Memorizing the names of every person in one's community",
+             "Avoiding all contact with disliked people permanently",
+             "Feeling loving-kindness only toward close family members"],
+         "correct": 0,
+         "expl": "Described as a boundless pervasion extending equally in every direction."},
+        {"q": "What does compassion practice focus attention on?",
+         "opts": [
+             "Other beings' suffering",
+             "One's own past achievements",
+             "The physical qualities of a kasina disk",
+             "The doctrinal qualities of the Dhamma"],
+         "correct": 0,
+         "expl": "Karuṇā, developed toward beings experiencing hardship."},
+        {"q": "What does appreciative joy (muditā) directly counter?",
+         "opts": [
+             "Envy, by deliberately rejoicing in others' good fortune",
+             "Fear of death",
+             "Attachment to the body's appearance",
+             "Doubt about the teacher's qualifications"],
+         "correct": 0,
+         "expl": "Functioning alongside compassion's counter to cruelty and loving-kindness's counter to ill will."},
+        {"q": "How does equanimity's development differ from the other three divine abidings?",
+         "opts": [
+             "It is not built up gradually; it only takes shape once a settled base of concentration already exists",
+             "It requires no concentration practice of any kind",
+             "It develops identically to loving-kindness, with no real difference",
+             "It can only be developed by monastics, never by laypeople"],
+         "correct": 0,
+         "expl": "Typically established first through the other three divine abidings."},
+        {"q": "What ceiling do loving-kindness, compassion, and appreciative joy reach?",
+         "opts": [
+             "Up to the third level of jhāna, but not the fourth",
+             "Only access concentration, never absorption",
+             "The fourth level of jhāna, exactly like equanimity",
+             "No fixed ceiling; they can exceed all four jhānas"],
+         "correct": 0,
+         "expl": "Each retains a degree of pleasant feeling the chapter treats as incompatible with the fourth level."},
+        {"q": "Why can equanimity alone reach the fourth level of jhāna?",
+         "opts": [
+             "Because it already presupposes the same steady, unmoved quality present at that level",
+             "Because it requires the least effort of the four divine abidings",
+             "Because it was taught only to advanced monastics",
+             "Because it has no connection to jhāna at all"],
+         "correct": 0,
+         "expl": "Equanimity is not worked toward from an ordinary starting point the way the other three are."},
+        {"q": "What does Chapter 10 turn to next?",
+         "opts": [
+             "The four immaterial states, built on top of the fourth jhāna's base",
+             "The remaining kasinas",
+             "The ten kinds of foulness",
+             "The supernormal powers"],
+         "correct": 0,
+         "expl": "A further set of subjects building directly on the base this chapter's fourth level provides."},
+        {"q": "Where can a reader go for Chapter 9's full translated text?",
+         "opts": [
+             "The free PDF on Access to Insight, or the Pali original on SuttaCentral, both linked in this page's further reading",
+             "Nowhere; the text is entirely unavailable to the public",
+             "Only through a specific paid edition with no free alternative",
+             "This page's own reading guide contains the full translated text"],
+         "correct": 0,
+         "expl": "As with every page in this series, since none reproduces the translation itself."},
+    ],
+    marginalia=[
+        ("Four related states", [
+            "mettā, karuṇā,",
+            "muditā, upekkhā",
+        ]),
+        ("Where to begin", [
+            "a respected person &mdash;",
+            "not a desired or hated one",
+        ]),
+        ("Breaking down boundaries", [
+            "dear, neutral, hostile &mdash;",
+            "extended equally",
+        ]),
+        ("A different fourth", [
+            "equanimity presupposes",
+            "what the others build toward",
+        ]),
+    ],
+    further=[
+        PDF_LINK,
+        SC_LINK,
+        '<a href="../discourses/khuddakapatha/kp-9.html">Kp 9 &mdash; The Discourse '
+        "on Love</a> &mdash; the canon's best-known loving-kindness text, directly "
+        "relevant to this chapter's first divine abiding.",
+        '<a href="../discourses/majjhima-nikaya/mn-007.html">MN 7 &mdash; The '
+        "Simile of the Cloth</a> &mdash; includes the four divine abidings among "
+        "its own treatment of a purified mind.",
+    ],
+)
