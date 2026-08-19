@@ -3702,3 +3702,2134 @@ page(
         "this chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.3 — Sattāvāsavagga (AN 9.21-31)
+# --------------------------------------------------------------------------- #
+VAGGA_3 = "<em>Sattāvāsavagga</em> &mdash; the third chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.21 — Tayodhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    21, "Tayodhamma", "In Three Particulars",
+    vagga=VAGGA_3,
+    prev=("an-9.20.html", "AN 9.20 &middot; About Velāma"),
+    meta_title="AN 9.21 — In Three Particulars | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Tayodhammasutta, opening this chapter with a three-way "
+        "cosmological comparison — Uttarakuru humans, the gods of the "
+        "thirty-three, and the humans of this world, each surpassing the "
+        "other two in three particulars. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Three parallel comparisons, each naming one group's own "
+                 "three advantages over the other two"),
+        ("Length", "~1 minute to read"),
+        ("Nine by multiplication, not by a single list", "Three groups, "
+         "each surpassing the others in three particulars, gives nine "
+         "particulars total — this chapter's number reached by "
+         "multiplication rather than one flat nine-item list"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "compact cosmological comparison, worth reading "
+                       "for its final twist"),
+    ],
+    why=(
+        "Three groups of beings each surpass the other two in three "
+        "particulars of their own: the humans of Uttarakuru in "
+        "selflessness, a fixed lifespan, and a distinctive nature; the "
+        "gods of the thirty-three in heavenly lifespan, beauty, and "
+        "happiness; and the humans of this world, the Black Plum Tree "
+        "Land, in bravery, mindfulness, and the fact that the spiritual "
+        "life is lived here."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Uttarakuru humans surpass the other two groups in "
+            "selflessness, fixed lifespan, and distinctive nature; the "
+            "gods of the thirty-three surpass them in heavenly lifespan, "
+            "beauty, and happiness; and the humans of this world surpass "
+            "both in bravery, mindfulness, and the fact that the "
+            "spiritual life is lived here."]),
+        ("Three comparisons, not one hierarchy", [
+            "The discourse resists ranking these three groups on a single "
+            "scale. Each of the three &mdash; a legendary northern human "
+            "realm, the heaven of the thirty-three gods, and ordinary "
+            "human life in this world &mdash; gets its own distinct set "
+            "of three advantages the other two lack, with no group "
+            "declared superior overall."]),
+        ("Long life and beauty, set against something rarer", [
+            "The gods' advantages &mdash; heavenly lifespan, beauty, "
+            "happiness &mdash; read as the most enviable at first glance. "
+            "But the discourse gives this world's ordinary humans their "
+            "own equally real advantages, closing on the one that "
+            "matters most for this whole collection's purpose."]),
+        ("Why this world wins where it counts", [
+            "The third particular named for this world's humans is not a "
+            "worldly advantage at all: &lsquo;the spiritual life is lived "
+            "here.&rsquo; Of the three groups compared, only ordinary "
+            "human life in the Black Plum Tree Land offers the conditions "
+            "for the very practice this entire collection is teaching "
+            "&mdash; a quiet argument for the value of this life, however "
+            "unglamorous next to Uttarakuru's ease or the gods' beauty."]),
+    ],
+    terms=[
+        ("uttarakurukā manussā",
+         "&ldquo;the humans of the land north of Kuru&rdquo; &mdash; a "
+         "legendary human realm of ease and longevity, one of the three "
+         "groups compared."),
+        ("tāvatiṁsā devā",
+         "&ldquo;the gods of the thirty-three&rdquo; &mdash; the second "
+         "group, surpassing the others in heavenly lifespan, beauty, and "
+         "happiness."),
+        ("jambudīpakā manussā",
+         "&ldquo;the humans of the Black Plum Tree Land&rdquo; &mdash; "
+         "this discourse's own name for the human world of ordinary "
+         "experience, the third group compared."),
+        ("sūrā satimanto idha ca brahmacariyavāso",
+         "&ldquo;bravery, mindfulness, and the spiritual life is lived "
+         "here&rdquo; &mdash; the third group's own three advantages, "
+         "closing on the discourse's real point."),
+        ("brahmacariyavāso",
+         "&ldquo;the spiritual life is lived&rdquo; &mdash; naming what "
+         "only this human world, of the three compared, actually "
+         "offers."),
+    ],
+    text_intro=(
+        "The discourse in full: three groups, each surpassing the other "
+        "two in three particulars of their own. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Three groups, three particulars each"),
+        ("p", "&sect;1", "an9.21:1.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What three groups does this discourse compare?",
+         "opts": [
+             "Three human kingdoms",
+             "The humans of Uttarakuru, the gods of the thirty-three, and "
+             "the humans of this world (the Black Plum Tree Land)",
+             "Three kinds of deity only",
+             "Three schools of wandering ascetics"],
+         "correct": 1,
+         "expl": "A legendary human realm, a heaven, and ordinary human "
+                 "life, each with its own set of advantages."},
+        {"q": "What three particulars belong to the gods of the thirty-"
+              "three?",
+         "opts": [
+             "Selflessness, fixed lifespan, distinctive nature",
+             "Heavenly lifespan, beauty, and happiness",
+             "Bravery, mindfulness, and the spiritual life",
+             "Wisdom, energy, and generosity"],
+         "correct": 1,
+         "expl": "The most conventionally enviable set, at first glance."},
+        {"q": "What is the third and final particular named for this "
+              "world's humans?",
+         "opts": [
+             "Wealth",
+             "That the spiritual life is lived here",
+             "Physical strength",
+             "Political power"],
+         "correct": 1,
+         "expl": "Not a worldly advantage, but the condition for this "
+                 "collection's own practice."},
+        {"q": "How does the discourse structure its comparison?",
+         "opts": [
+             "As a single ranking from best to worst",
+             "As three parallel comparisons, each group surpassing the "
+             "other two in its own three particulars, with no overall "
+             "winner declared",
+             "As a debate between the three groups",
+             "As a narrative journey between the three realms"],
+         "correct": 1,
+         "expl": "No single hierarchy — three distinct sets of "
+                 "advantages."},
+        {"q": "According to the guide, what does the final particular "
+              "argue for?",
+         "opts": [
+             "The superiority of heavenly rebirth",
+             "The value of this ordinary human life, however unglamorous "
+             "next to Uttarakuru's ease or the gods' beauty, since only "
+             "it offers the conditions for spiritual practice",
+             "The need to seek rebirth in Uttarakuru",
+             "That mindfulness is impossible for gods"],
+         "correct": 1,
+         "expl": "A quiet argument for practicing here and now."},
+        {"q": "How does this chapter's number nine arise in this "
+              "discourse?",
+         "opts": [
+             "From a single flat nine-item list",
+             "By multiplication: three groups, each with three "
+             "particulars of its own, totaling nine",
+             "It doesn't relate to nine at all",
+             "From nine named deities"],
+         "correct": 1,
+         "expl": "A structure this chapter reaches by multiplying three "
+                 "by three, rather than a single nine-item list."},
+    ],
+    marginalia=[
+        ("Three groups, three each", [
+            "Uttarakuru's ease,",
+            "the gods' long, beautiful lives,",
+            "this world's own three gifts",
+        ]),
+        ("No single hierarchy", [
+            "each surpasses the rest",
+            "in its own particulars &mdash;",
+            "no single winner named",
+        ]),
+        ("Why this life matters most", [
+            "bravery, mindfulness,",
+            "and the spiritual life",
+            "lived only here",
+        ]),
+        ("Cross-references", [
+            "AN 9.20 &middot; previous chapter's closing page, About "
+            "Velāma",
+            "AN 9.22 &middot; next, A Wild Colt",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.21/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.20.html">AN 9.20 &middot; About Velāma</a> &mdash; previous.',
+        '<a href="an-9.22.html">AN 9.22 &middot; A Wild Colt</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.22 — Khaḷuṅkasutta
+# --------------------------------------------------------------------------- #
+page(
+    22, "Khaḷuṅka", "A Wild Colt",
+    vagga=VAGGA_3,
+    meta_title="AN 9.22 — A Wild Colt | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Khaḷuṅkasutta, mapping three grades of horse — wild colt, "
+        "excellent horse, fine thoroughbred — each crossed against a "
+        "quality of speed, beauty, and proportion, onto the path from "
+        "stream-entry to arahantship. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A horse-training simile developed across three grades "
+                 "of animal and person, each subdivided into three "
+                 "qualities"),
+        ("Length", "~4 minutes to read"),
+        ("A three-by-three grid, not one list of nine", "Three grades of "
+         "attainment (understanding the four noble truths, non-return, "
+         "arahantship) each crossed against three qualities (fast, "
+         "beautiful, well proportioned) produces this discourse's nine"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "layered simile worth tracking carefully across "
+                       "its three grades"),
+    ],
+    why=(
+        "Three wild colts, three excellent horses, and three fine "
+        "thoroughbred horses are matched to three wild people, three "
+        "excellent people, and three fine thoroughbred people, each "
+        "grade defined by speed (spiritual attainment), beauty "
+        "(answering questions about the teaching without faltering), and "
+        "good proportion (receiving the four requisites) &mdash; moving "
+        "from a mendicant who merely understands the four noble truths, "
+        "through the non-returner, to the arahant."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as a horse may be fast alone, fast and beautiful, or "
+            "fast, beautiful, and well proportioned, a mendicant's "
+            "spiritual attainment &mdash; understanding the four noble "
+            "truths, reaching non-return, or reaching arahantship "
+            "&mdash; is likewise graded by whether it is joined by "
+            "confident teaching and by material support from the "
+            "community."]),
+        ("Three grades of attainment, one shared template", [
+            "Wild people understand the four noble truths; excellent "
+            "people, with the five lower fetters ended, are reborn "
+            "spontaneously and never return; fine thoroughbred people "
+            "have realized the undefiled freedom of heart and wisdom "
+            "&mdash; roughly stream-entry, non-return, and arahantship "
+            "&mdash; but every grade is run through the identical "
+            "three-part template of speed, beauty, and proportion."]),
+        ("Speed alone is not the whole picture", [
+            "Within each of the three attainment-grades, a further "
+            "three-way split repeats: fast but not beautiful or well "
+            "proportioned (attainment alone, without confident teaching "
+            "or material support); fast and beautiful but not well "
+            "proportioned (attainment plus confident teaching, but "
+            "without support); and all three together. Inner attainment "
+            "is necessary but, the simile insists, not by itself "
+            "sufficient to complete the picture."]),
+        ("A grid, not a ladder", [
+            "Reading this discourse as one flat nine-item list obscures "
+            "its real shape: it is a three-by-three grid, three grades "
+            "of spiritual attainment each crossed against the same three "
+            "qualities of speed, beauty, and proportion, giving nine "
+            "combinations in total &mdash; the number this chapter is "
+            "named for, reached here by multiplication rather than a "
+            "single flat enumeration."]),
+    ],
+    terms=[
+        ("khaḷuṅka",
+         "&ldquo;wild colt&rdquo; &mdash; the discourse's own title "
+         "image, the lowest of the three animal (and person) grades."),
+        ("javena samannāgato, na vaṇṇena, na saṇṭhānena",
+         "&ldquo;fast, but not beautiful or well proportioned&rdquo; "
+         "&mdash; the first and most partial of the three qualities in "
+         "each grade."),
+        ("dhammavinayaṁ puṭṭho samāno na saṁsādeti",
+         "&ldquo;when asked a question about the teaching or training, "
+         "they answer without faltering&rdquo; &mdash; this discourse's "
+         "own definition of &lsquo;beautiful&rsquo;."),
+        ("cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ labhati",
+         "&ldquo;they receive robes, almsfood, lodgings, and medicines "
+         "and supplies for the sick&rdquo; &mdash; this discourse's own "
+         "definition of &lsquo;well proportioned&rsquo;."),
+        ("assājānīya, purisājānīya",
+         "&ldquo;fine thoroughbred horse, fine thoroughbred person&rdquo; "
+         "&mdash; the third and highest grade, mapped onto arahantship."),
+    ],
+    text_intro=(
+        "The discourse in full: three grades of horse and person, each "
+        "crossed against speed, beauty, and proportion. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Wild colts and wild people"),
+        ("p", "&sect;1", "an9.22:1.1-2.5"),
+        ("p", "&sect;2", "an9.22:3.1-4.8"),
+        ("p", "&sect;3", "an9.22:5.1-6.9"),
+        ("h3", "Excellent horses and excellent people"),
+        ("p", "&sect;4", "an9.22:7.1-9.10"),
+        ("h3", "Fine thoroughbred horses and fine thoroughbred people"),
+        ("p", "&sect;5", "an9.22:10.1-12.10"),
+    ],
+    quiz=[
+        {"q": "What three qualities does this discourse cross against "
+              "each grade of horse and person?",
+         "opts": [
+             "Strength, endurance, and obedience",
+             "Fast (spiritual attainment), beautiful (answering "
+             "questions without faltering), and well proportioned "
+             "(receiving the four requisites)",
+             "Age, breed, and color",
+             "Wealth, status, and popularity"],
+         "correct": 1,
+         "expl": "Attainment alone is not enough — confident teaching and "
+                 "material support complete the picture."},
+        {"q": "What three grades of spiritual attainment does the "
+              "discourse map onto wild, excellent, and fine thoroughbred "
+              "horses?",
+         "opts": [
+             "Three grades of monastic seniority",
+             "Roughly stream-entry (understanding the four noble "
+             "truths), non-return, and arahantship",
+             "Three kinds of meditation posture",
+             "Three levels of monastic ordination"],
+         "correct": 1,
+         "expl": "From understanding the truths, through non-return, to "
+                 "full liberation."},
+        {"q": "What does &lsquo;beautiful&rsquo; mean in this "
+              "discourse's own terms?",
+         "opts": [
+             "Physical attractiveness",
+             "Answering questions about the teaching or training without "
+             "faltering",
+             "Popularity among laypeople",
+             "Fine robes"],
+         "correct": 1,
+         "expl": "Confident, capable teaching, not physical appearance."},
+        {"q": "According to the guide, how should this discourse's "
+              "structure actually be read?",
+         "opts": [
+             "As one flat list of nine unrelated items",
+             "As a three-by-three grid: three grades of attainment, each "
+             "crossed against the same three qualities",
+             "As a single ladder with nine equal rungs",
+             "As two unrelated similes stitched together"],
+         "correct": 1,
+         "expl": "Nine combinations reached by multiplication, not by a "
+                 "single enumeration."},
+        {"q": "What does the guide say the simile insists about inner "
+              "attainment alone?",
+         "opts": [
+             "That it is entirely sufficient by itself",
+             "That it is necessary but not by itself sufficient — "
+             "confident teaching and material support complete the "
+             "picture",
+             "That it is irrelevant compared to material support",
+             "That it cannot be combined with teaching ability"],
+         "correct": 1,
+         "expl": "A mendicant fast but not beautiful or well proportioned "
+                 "still falls short of the full picture."},
+        {"q": "What defines the highest grade, the fine thoroughbred "
+              "person?",
+         "opts": [
+             "Wealth and fame",
+             "Realizing the undefiled freedom of heart and wisdom, with "
+             "defilements ended",
+             "Physical beauty alone",
+             "Seniority in the monastic order"],
+         "correct": 1,
+         "expl": "Full liberation, the highest of the three attainment "
+                 "grades."},
+    ],
+    marginalia=[
+        ("Three grades, one template", [
+            "wild, excellent,",
+            "fine thoroughbred &mdash; each crossed",
+            "with speed, beauty, form",
+        ]),
+        ("Attainment is not enough", [
+            "fast alone falls short &mdash;",
+            "answer without faltering,",
+            "and be well supported",
+        ]),
+        ("A grid, not a ladder", [
+            "three times three grades &mdash;",
+            "nine combinations, this",
+            "chapter's own number",
+        ]),
+        ("Cross-references", [
+            "AN 9.21 &middot; previous, In Three Particulars",
+            "AN 9.23 &middot; next, Rooted in Craving",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.22/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.21.html">AN 9.21 &middot; In Three Particulars</a> &mdash; previous.',
+        '<a href="an-9.23.html">AN 9.23 &middot; Rooted in Craving</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.23 — Taṇhāmūlakasutta
+# --------------------------------------------------------------------------- #
+page(
+    23, "Taṇhāmūlaka", "Rooted in Craving",
+    vagga=VAGGA_3,
+    meta_title="AN 9.23 — Rooted in Craving | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Taṇhāmūlakasutta, tracing nine things rooted in craving in an "
+        "unbroken causal chain from searching through ownership and "
+        "stinginess to violence and lies. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single unbroken causal chain of nine links, each "
+                 "giving rise to the next"),
+        ("Length", "~1 minute to read"),
+        ("A chain, like AN 9.14, not a parallel list", "Each of the nine "
+         "things gives rise to the next in sequence, the same chain-"
+         "structure already met at AN 9.14, tracing craving's social and "
+         "behavioral consequences rather than its subjective ones"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "compact but socially pointed causal sequence"),
+    ],
+    why=(
+        "Craving gives rise to searching, searching to gaining material "
+        "things, gaining to evaluation, evaluation to desire and lust, "
+        "desire and lust to attachment, attachment to ownership, "
+        "ownership to stinginess, and stinginess to safeguarding "
+        "&mdash; and safeguarding in turn gives rise to violence, "
+        "quarrels, disputes, accusations, backbiting, and lies."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nine things rooted in craving unfold in an unbroken chain: "
+            "craving gives rise to searching, then gaining, evaluation, "
+            "desire and lust, attachment, ownership, stinginess, and "
+            "safeguarding &mdash; and safeguarding gives rise to taking "
+            "up the rod and the sword, quarrels, arguments, disputes, "
+            "accusations, backbiting, and lies."]),
+        ("A second chain, this time social", [
+            "Like AN 9.14's chain from name and form to freedom from "
+            "death, this discourse traces an unbroken sequence rather "
+            "than a parallel list &mdash; but where AN 9.14 traced an "
+            "individual's path toward liberation, this chain traces "
+            "craving's outward, social consequences: possession, "
+            "jealousy, and eventually open conflict."]),
+        ("From an inner state to violence between people", [
+            "The chain's middle links &mdash; evaluation, desire and "
+            "lust, attachment, ownership &mdash; stay internal to the "
+            "person doing the craving. But once ownership produces "
+            "stinginess and stinginess produces safeguarding, the "
+            "consequences turn outward and interpersonal: the discourse "
+            "names the rod and the sword, quarrels, and outright lies as "
+            "craving's final, fully socialized fruit."]),
+        ("Nine links traced back to one root", [
+            "Every one of the nine things named here, however far "
+            "downstream from the original craving, is still described "
+            "as &lsquo;rooted in craving&rsquo; &mdash; the discourse's "
+            "own title and framing insist that even open violence and "
+            "lying, several links removed, trace back to the same single "
+            "root the discourse opens with."]),
+    ],
+    terms=[
+        ("taṇhā pariyesanaṁ janeti",
+         "&ldquo;craving gives rise to searching&rdquo; &mdash; the "
+         "chain's opening link."),
+        ("lābho vinicchayaṁ janeti",
+         "&ldquo;gaining material things gives rise to evaluation&rdquo; "
+         "&mdash; the third link, where acquisition begins producing "
+         "judgment and comparison."),
+        ("ajjhosānaṁ pariggahaṁ janeti",
+         "&ldquo;attachment gives rise to ownership&rdquo; &mdash; the "
+         "point where an internal state first becomes a claim."),
+        ("macchariyaṁ ārakkhaṁ janeti",
+         "&ldquo;stinginess gives rise to safeguarding&rdquo; &mdash; "
+         "the eighth link, where craving's consequences turn outward "
+         "and defensive."),
+        ("daṇḍādānasatthādānaṁ",
+         "&ldquo;taking up the rod and the sword&rdquo; &mdash; the "
+         "first and most severe of safeguarding's own bad, unskillful "
+         "consequences."),
+    ],
+    text_intro=(
+        "The discourse in full: nine things rooted in craving, traced in "
+        "an unbroken causal chain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Nine things, one chain"),
+        ("p", "&sect;1", "an9.23:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How is this discourse structured?",
+         "opts": [
+             "As nine parallel, unrelated items",
+             "As a single unbroken causal chain, each link giving rise "
+             "to the next",
+             "As a debate between two disciples",
+             "As three groups of three"],
+         "correct": 1,
+         "expl": "The same chain-structure already met at AN 9.14, "
+                 "applied here to craving's social consequences."},
+        {"q": "What does craving give rise to first in this chain?",
+         "opts": [
+             "Ownership", "Searching",
+             "Stinginess", "Violence"],
+         "correct": 1,
+         "expl": "The chain's opening link."},
+        {"q": "What does ownership give rise to, continuing the chain?",
+         "opts": [
+             "Generosity", "Stinginess",
+             "Wisdom", "Contentment"],
+         "correct": 1,
+         "expl": "Possessiveness turning into guarding what is owned "
+                 "against others."},
+        {"q": "What final consequences does safeguarding give rise to?",
+         "opts": [
+             "Peace and contentment",
+             "Taking up the rod and the sword, quarrels, disputes, "
+             "accusations, backbiting, and lies",
+             "Renunciation of all possessions",
+             "A return to searching"],
+         "correct": 1,
+         "expl": "Craving's fully socialized, interpersonal fruit."},
+        {"q": "According to the guide, how does this chain compare to AN "
+              "9.14's chain?",
+         "opts": [
+             "They are identical in content",
+             "Both are unbroken chains rather than parallel lists, but "
+             "this one traces craving's social consequences rather than "
+             "an individual's path toward liberation",
+             "This chain has no relationship to AN 9.14",
+             "AN 9.14 is a chain; this discourse is a simple list"],
+         "correct": 1,
+         "expl": "Same chain-structure, opposite direction and subject "
+                 "matter."},
+        {"q": "What does the discourse's own title and framing insist "
+              "about all nine things named?",
+         "opts": [
+             "That they are unrelated to one another",
+             "That every one, however far downstream, is still rooted "
+             "in the same original craving",
+             "That only the first three are rooted in craving",
+             "That craving is irrelevant to the later links"],
+         "correct": 1,
+         "expl": "Even open violence and lying trace back to one root."},
+    ],
+    marginalia=[
+        ("A chain, nine links", [
+            "craving to searching,",
+            "gain, evaluation, desire,",
+            "attachment, ownership",
+        ]),
+        ("Outward, and dangerous", [
+            "stinginess to guarding &mdash;",
+            "guarding to the rod,",
+            "the sword, and open lies",
+        ]),
+        ("One root, however far", [
+            "every link downstream,",
+            "however socialized,",
+            "traced to craving still",
+        ]),
+        ("Cross-references", [
+            "AN 9.14 &middot; the same chain-structure, a different "
+            "subject and direction",
+            "AN 9.22 &middot; previous, A Wild Colt",
+            "AN 9.24 &middot; next, Abodes of Sentient Beings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.23/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.22.html">AN 9.22 &middot; A Wild Colt</a> &mdash; previous.',
+        '<a href="an-9.24.html">AN 9.24 &middot; Abodes of Sentient Beings</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.24 — Sattāvāsasutta — this chapter's own namesake
+# --------------------------------------------------------------------------- #
+page(
+    24, "Sattāvāsa", "Abodes of Sentient Beings",
+    vagga=VAGGA_3,
+    meta_title="AN 9.24 — Abodes of Sentient Beings | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sattāvāsasutta, this chapter's own namesake — a classic ninefold "
+        "cosmology of body and perception, extending AN 7.44's seven "
+        "stations of consciousness by two further abodes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare cosmological list, nine abodes each named "
+                 "with its own defining pair of qualities"),
+        ("Length", "~2 minutes to read"),
+        ("This chapter's own namesake, and a known extension", "This "
+         "discourse names the entire chapter; its nine abodes extend AN "
+         "7.44's seven stations of consciousness by two further items"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "dense cosmological catalogue, worth reading "
+                       "alongside AN 7.44 for the comparison"),
+    ],
+    why=(
+        "Nine abodes of sentient beings are catalogued by two crossed "
+        "qualities, diversity or unity of body and of perception, moving "
+        "from ordinary embodied beings through the beings of the "
+        "absorptions to those non-percipient, then through the four "
+        "formless dimensions ending at neither perception nor non-"
+        "perception."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Sentient beings inhabit nine abodes: diverse in body and "
+            "perception (humans and some gods); diverse in body, unified "
+            "in perception; unified in body, diverse in perception; "
+            "unified in both; non-percipient beings who experience "
+            "nothing; and the four formless dimensions culminating in "
+            "neither perception nor non-perception."]),
+        ("This chapter's own namesake", [
+            "As with every chapter opener elsewhere in this project, "
+            "this discourse lends its own subject &mdash; "
+            "<em>sattāvāsa</em>, abodes of sentient beings &mdash; to "
+            "the chapter's name, <em>Sattāvāsavagga</em>, though it "
+            "falls fourth rather than first within the chapter itself."]),
+        ("Four abodes built from a crossed pair of qualities", [
+            "The first four abodes are generated by crossing two "
+            "binary qualities, diversity or unity of body and of "
+            "perception: humans and some gods are diverse in both; the "
+            "gods of the Divinity's host reborn through the first "
+            "absorption are diverse in body but unified in perception; "
+            "the gods of streaming radiance are unified in body but "
+            "diverse in perception; and the gods of universal beauty are "
+            "unified in both."]),
+        ("Extending AN 7.44's seven stations by two", [
+            "This discourse's first four abodes plus its final four "
+            "formless dimensions match AN 7.44's seven stations of "
+            "consciousness almost exactly &mdash; but AN 7.44 covered "
+            "only seven, omitting the non-percipient beings and the "
+            "dimension of neither perception nor non-perception. This "
+            "discourse's ninefold scheme restores both, giving a fuller "
+            "and more complete cosmological catalogue than the sevenfold "
+            "version met earlier in this project."]),
+    ],
+    terms=[
+        ("sattāvāsā",
+         "&ldquo;abodes of sentient beings&rdquo; &mdash; this "
+         "discourse's own title term and the name it lends to the "
+         "entire chapter."),
+        ("nānattakāyā nānattasaññino",
+         "&ldquo;diverse in body and diverse in perception&rdquo; "
+         "&mdash; the first abode, describing humans and some gods and "
+         "beings in the underworld."),
+        ("asaññasattā",
+         "&ldquo;non-percipient beings&rdquo; &mdash; the fifth abode, "
+         "beings who do not experience anything at all, one of the two "
+         "items absent from AN 7.44's sevenfold version."),
+        ("ākāsānañcāyatanūpagā devā",
+         "&ldquo;reborn in the dimension of infinite space&rdquo; "
+         "&mdash; the sixth abode, the first of the four formless "
+         "dimensions."),
+        ("nevasaññānāsaññāyatanūpagā",
+         "&ldquo;the dimension of neither perception nor non-"
+         "perception&rdquo; &mdash; the ninth and final abode, the other "
+         "item absent from AN 7.44's sevenfold version."),
+    ],
+    text_intro=(
+        "The discourse in full: nine abodes of sentient beings, "
+        "catalogued by crossed qualities of body and perception. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine abodes"),
+        ("p", "&sect;1", "an9.24:1.1-10.1"),
+    ],
+    quiz=[
+        {"q": "What two qualities are crossed to generate this "
+              "discourse's first four abodes?",
+         "opts": [
+             "Height and weight",
+             "Diversity or unity of body, and diversity or unity of "
+             "perception",
+             "Wealth and poverty",
+             "Age and lifespan"],
+         "correct": 1,
+         "expl": "Four combinations from two binary qualities."},
+        {"q": "What does this discourse name its own chapter?",
+         "opts": [
+             "Nothing; it doesn't relate to the chapter title",
+             "<em>Sattāvāsavagga</em>, though this discourse falls fourth "
+             "in the chapter rather than first",
+             "It names the chapter after Uttarakuru",
+             "It names the chapter after craving"],
+         "correct": 1,
+         "expl": "This chapter's own namesake, unusually placed fourth "
+                 "rather than as the opener."},
+        {"q": "What are the fifth abode's beings like?",
+         "opts": [
+             "Beings of extraordinary beauty",
+             "Non-percipient beings who do not experience anything at "
+             "all",
+             "Beings diverse in body only",
+             "Beings unified in perception only"],
+         "correct": 1,
+         "expl": "One of the two items this ninefold scheme adds beyond "
+                 "AN 7.44's sevenfold version."},
+        {"q": "According to the guide, how does this discourse's ninefold "
+              "scheme relate to AN 7.44's seven stations of "
+              "consciousness?",
+         "opts": [
+             "They are entirely unrelated lists",
+             "This scheme extends AN 7.44's seven stations by two "
+             "further items: non-percipient beings and the dimension of "
+             "neither perception nor non-perception",
+             "This scheme is a shorter version of AN 7.44's list",
+             "AN 7.44 has more items than this discourse"],
+         "correct": 1,
+         "expl": "A fuller, nine-item cosmological catalogue compared to "
+                 "the earlier sevenfold version."},
+        {"q": "What is the ninth and final abode named?",
+         "opts": [
+             "The dimension of infinite space",
+             "The dimension of neither perception nor non-perception",
+             "The dimension of nothingness",
+             "The realm of universal beauty"],
+         "correct": 1,
+         "expl": "The most subtle of the four formless dimensions, "
+                 "closing the ninefold list."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare cosmological catalogue, without narrative "
+                 "frame."},
+    ],
+    marginalia=[
+        ("Four abodes, crossed qualities", [
+            "diverse or unified &mdash;",
+            "body and perception,",
+            "crossed to make four kinds",
+        ]),
+        ("Non-percipient, and beyond", [
+            "beings who feel nothing,",
+            "then space, consciousness,",
+            "nothingness, and neither",
+        ]),
+        ("Extending an earlier list", [
+            "AN 7.44's seven",
+            "stations, now made nine &mdash;",
+            "two abodes restored",
+        ]),
+        ("Cross-references", [
+            "AN 7.44 &middot; the earlier sevenfold version this "
+            "discourse extends",
+            "AN 9.23 &middot; previous, Rooted in Craving",
+            "AN 9.25 &middot; next, Consolidated by Wisdom",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.24/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.23.html">AN 9.23 &middot; Rooted in Craving</a> &mdash; previous.',
+        '<a href="an-9.25.html">AN 9.25 &middot; Consolidated by Wisdom</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.25 — Paññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    25, "Paññā", "Consolidated by Wisdom",
+    vagga=VAGGA_3,
+    meta_title="AN 9.25 — Consolidated by Wisdom | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Paññāsutta, naming nine kinds of self-knowledge that justify a "
+        "mendicant's declaration of full awakening — the same nine "
+        "framed by wisdom here and by heart at AN 9.26. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A declaration formula, then nine specific kinds of "
+                 "self-knowledge that justify making it"),
+        ("Length", "~1 minute to read"),
+        ("The same nine as AN 9.26, framed differently", "This "
+         "discourse's nine items of self-knowledge, framed here as a "
+         "mind &lsquo;consolidated with wisdom,&rsquo; reappear at AN "
+         "9.26 framed instead as a mind &lsquo;consolidated by "
+         "heart&rsquo;"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "precise formula, best compared directly with AN "
+                       "9.26"),
+    ],
+    why=(
+        "A mendicant whose mind is well consolidated with wisdom may "
+        "rightly declare themselves free of further rebirth, and this "
+        "consolidation is defined by nine specific items of self-"
+        "knowledge: freedom from greed, hate, and delusion; freedom from "
+        "any tendency to return to them; and freedom from any tendency "
+        "to be reborn in the sensual, form, or formless realms."),
+    guide=[
+        ("The teaching in one sentence", [
+            "When a mendicant knows &lsquo;my mind is without greed, "
+            "hate, delusion,&rsquo; &lsquo;my mind is not liable to "
+            "become greedy, hateful, deluded,&rsquo; and &lsquo;my mind "
+            "is not liable to return to rebirth in the sensual, form, or "
+            "formless realm,&rsquo; their mind is well consolidated with "
+            "wisdom, and it's appropriate for them to declare rebirth "
+            "ended."]),
+        ("Nine items, three groups of three", [
+            "The nine items of self-knowledge fall into three clean "
+            "groups: present freedom from the three roots (greed, hate, "
+            "delusion); assurance against any future return of those "
+            "same three roots; and assurance against rebirth in any of "
+            "the three realms of existence &mdash; sensual, form, and "
+            "formless."]),
+        ("Present state and future assurance, not just one moment", [
+            "The formula doesn't stop at describing the mind's current "
+            "condition. The middle three items shift explicitly to the "
+            "future tense &mdash; not liable to become greedy again, not "
+            "liable to become hateful again &mdash; distinguishing a "
+            "settled, permanent freedom from what might be only a "
+            "temporary calm."]),
+        ("Wisdom here; the same nine by heart at AN 9.26", [
+            "This discourse frames its nine items as what makes a mind "
+            "&lsquo;well consolidated with wisdom&rsquo; "
+            "(paññāya suvimuttacittaṁ). The very next discourse, AN 9.26, "
+            "gives the identical nine items but frames them instead as "
+            "what makes a mind &lsquo;well consolidated by heart&rsquo; "
+            "&mdash; the same content under two different framings, "
+            "clarified there through a famous correction of a "
+            "misquotation."]),
+    ],
+    terms=[
+        ("khīṇā jāti, vusitaṁ brahmacariyaṁ",
+         "&ldquo;rebirth is ended, the spiritual journey has been "
+         "completed&rdquo; &mdash; the arahant's declaration formula "
+         "this discourse's nine items justify making."),
+        ("suparimuṭṭhacittaṁ paññāya",
+         "&ldquo;well consolidated with wisdom&rdquo; &mdash; this "
+         "discourse's own framing for the nine-item formula, contrasted "
+         "with AN 9.26's &lsquo;consolidated by heart&rsquo;."),
+        ("vītarāgaṁ me cittanti pajānāti",
+         "&ldquo;my mind is without greed&rdquo; &mdash; the first of "
+         "the nine items, naming present freedom from the first of the "
+         "three roots."),
+        ("na rāgadhammaṁ",
+         "&ldquo;not liable to become greedy&rdquo; &mdash; the fourth "
+         "item, shifting from present state to future assurance."),
+        ("nāparaṁ itthattāyāti pajānāti",
+         "&ldquo;there is nothing further for this place&rdquo; &mdash; "
+         "the closing phrase of the declaration formula this discourse "
+         "justifies."),
+    ],
+    text_intro=(
+        "The discourse in full: the declaration formula, and nine items "
+        "of self-knowledge that justify making it. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A declaration, and what justifies it"),
+        ("p", "&sect;1", "an9.25:1.1-1.2"),
+        ("h3", "Nine items of self-knowledge"),
+        ("p", "&sect;2", "an9.25:2.1-2.12"),
+    ],
+    quiz=[
+        {"q": "What declaration does this discourse's nine items justify "
+              "making?",
+         "opts": [
+             "A vow of future practice",
+             "&lsquo;Rebirth is ended, the spiritual journey has been "
+             "completed, what had to be done has been done&rsquo;",
+             "A confession of wrongdoing",
+             "A request for ordination"],
+         "correct": 1,
+         "expl": "The standard arahant's declaration formula."},
+        {"q": "How do the nine items of self-knowledge group together?",
+         "opts": [
+             "Nine unrelated, scattered claims",
+             "Three groups of three: freedom from the three roots, "
+             "assurance against their future return, and assurance "
+             "against rebirth in the three realms",
+             "One group of nine identical statements",
+             "Five items, then four unrelated ones"],
+         "correct": 1,
+         "expl": "A cleanly structured formula, not a loose list."},
+        {"q": "What shift happens in the formula's middle three items?",
+         "opts": [
+             "A shift to a different topic entirely",
+             "A shift from describing the mind's present state to a "
+             "future-tense assurance it won't return to greed, hate, or "
+             "delusion",
+             "A shift to a different speaker",
+             "A shift to poetic verse"],
+         "correct": 1,
+         "expl": "Distinguishing settled freedom from merely temporary "
+                 "calm."},
+        {"q": "What three realms does the formula's final group of three "
+              "items name assurance against?",
+         "opts": [
+             "Hell, the animal realm, and the ghost realm",
+             "The sensual realm, the realm of luminous form, and the "
+             "formless realm",
+             "Three human kingdoms",
+             "Three heavens only"],
+         "correct": 1,
+         "expl": "The three realms of existence in Buddhist cosmology."},
+        {"q": "According to the guide, how does this discourse's "
+              "framing compare to AN 9.26's?",
+         "opts": [
+             "They present entirely different content",
+             "The identical nine items are framed here as a mind "
+             "&lsquo;consolidated with wisdom&rsquo; and at AN 9.26 as "
+             "&lsquo;consolidated by heart&rsquo;",
+             "AN 9.26 has twice as many items",
+             "This discourse has no connection to AN 9.26"],
+         "correct": 1,
+         "expl": "Same content, two different framings, worth reading "
+                 "side by side."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, unlike AN 9.26 immediately after it."},
+    ],
+    marginalia=[
+        ("Nine items, three groups", [
+            "free of greed, hate,",
+            "delusion; not liable",
+            "to their return; nor to rebirth",
+        ]),
+        ("Present state, future assurance", [
+            "&ldquo;my mind is without&rdquo; &mdash;",
+            "then &ldquo;not liable to become&rdquo; &mdash;",
+            "settled, not momentary",
+        ]),
+        ("Wisdom here, heart next", [
+            "the same nine items,",
+            "consolidated by wisdom &mdash;",
+            "by heart, at AN 9.26",
+        ]),
+        ("Cross-references", [
+            "AN 9.24 &middot; previous, Abodes of Sentient Beings",
+            "AN 9.26 &middot; next, the same nine items framed by heart",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.25/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.24.html">AN 9.24 &middot; Abodes of Sentient Beings</a> &mdash; previous.',
+        '<a href="an-9.26.html">AN 9.26 &middot; The Simile of the Stone Post</a> '
+        "&mdash; next, the same nine items framed by heart.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.26 — Indriyabhāvanāsutta / Silāyūpasutta (the Stone Post simile)
+# --------------------------------------------------------------------------- #
+page(
+    26, "Silāyūpa", "The Simile of the Stone Post",
+    vagga=VAGGA_3,
+    meta_title="AN 9.26 — The Simile of the Stone Post | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Simile of the Stone Post, in which Sāriputta corrects a "
+        "mendicant's threefold misquotation of Devadatta before giving "
+        "the same nine items as AN 9.25, framed by heart, and a famous "
+        "simile of an unshakeable mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove, the squirrels' "
+                    "feeding ground"),
+        ("Speakers", "Venerable Candikāputta, Venerable Sāriputta, and, "
+                     "by report, Devadatta"),
+        ("Form", "A threefold correction of a misquotation, then the "
+                 "same nine-item formula as AN 9.25, then the stone-post "
+                 "simile extended across all six sense doors"),
+        ("Length", "~4 minutes to read"),
+        ("A misquotation, corrected three times", "Candikāputta "
+         "misreports Devadatta's own teaching by a single word, and is "
+         "corrected identically three times before the full teaching is "
+         "given"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "rich narrative wrapped around a precise formula "
+                       "and a memorable simile"),
+    ],
+    why=(
+        "Candikāputta reports Devadatta as teaching that a mind "
+        "&lsquo;solidified by heart&rsquo; justifies the arahant's "
+        "declaration; Sāriputta corrects him three times, insisting "
+        "Devadatta actually says &lsquo;well consolidated by "
+        "heart&rsquo; &mdash; then gives the same nine items of self-"
+        "knowledge as AN 9.25, framed by heart rather than wisdom, and "
+        "closes with the simile of a deeply embedded stone post, "
+        "unmoved by storms from every direction."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mind well consolidated by heart &mdash; knowing itself "
+            "free of greed, hate, and delusion, and free of any tendency "
+            "to return to them or to rebirth in any of the three realms "
+            "&mdash; remains untainted, steady, and imperturbable even "
+            "when compelling sights, sounds, smells, tastes, touches, or "
+            "ideas come into its range, like a deeply embedded stone "
+            "post unmoved by storms from every direction."]),
+        ("A single word, corrected three times", [
+            "Candikāputta reports Devadatta's teaching using the word "
+            "&lsquo;solidified&rsquo; (a term suggesting rigidity); "
+            "Sāriputta corrects him, insisting the actual word is "
+            "&lsquo;well consolidated&rsquo; &mdash; and when "
+            "Candikāputta repeats the same misquotation twice more, "
+            "Sāriputta corrects him identically each time, a threefold "
+            "insistence on precision echoing the threefold structure "
+            "already met in Meghiya's threefold request at AN 9.3."]),
+        ("The same nine items as AN 9.25, framed by heart", [
+            "Once the correction is settled, Sāriputta gives the "
+            "identical nine-item formula met at AN 9.25 &mdash; freedom "
+            "from greed, hate, and delusion; assurance against their "
+            "return; assurance against rebirth in the three realms "
+            "&mdash; but frames it here as consolidation &lsquo;by "
+            "heart&rsquo; (cetasā) rather than AN 9.25's "
+            "&lsquo;with wisdom&rsquo; (paññāya), demonstrating that the "
+            "same liberating self-knowledge can be described through "
+            "either register."]),
+        ("A stone post, and six sense doors", [
+            "The discourse's famous close extends the formula's "
+            "consequence into a concrete image: a stone post, sixteen "
+            "feet long with half buried and half above ground, unmoved "
+            "by violent storms from all four directions because of its "
+            "deep foundation. The same imperturbability is then traced "
+            "through all six sense doors in turn &mdash; sights, sounds, "
+            "smells, tastes, touches, and ideas &mdash; none of which "
+            "can occupy a mind rightly freed like this."]),
+    ],
+    terms=[
+        ("ṭhitaṁ cittaṁ",
+         "&ldquo;solidified mind&rdquo; &mdash; Candikāputta's own "
+         "misquotation of Devadatta's teaching, corrected three times by "
+         "Sāriputta."),
+        ("suvimuttacittaṁ",
+         "&ldquo;well consolidated mind&rdquo; &mdash; Sāriputta's "
+         "insistent correction, the actual word he attributes to "
+         "Devadatta."),
+        ("cetasā suvimuttaṁ",
+         "&ldquo;well consolidated by heart&rdquo; &mdash; this "
+         "discourse's own framing for the nine-item formula, compared "
+         "with AN 9.25's &lsquo;consolidated with wisdom&rsquo;."),
+        ("asamphuṭṭhaṁyeva cittaṁ hoti",
+         "&ldquo;they don't occupy their mind&rdquo; &mdash; what "
+         "compelling sights, sounds, and other sense objects fail to do "
+         "to a mind rightly freed."),
+        ("silāyūpo soḷasakukkuko",
+         "&ldquo;a stone post, sixteen feet long&rdquo; &mdash; the "
+         "discourse's own title image, unmoved by storms from every "
+         "direction because of its deep foundation."),
+    ],
+    text_intro=(
+        "The discourse in full: a threefold correction of a "
+        "misquotation, the nine-item formula framed by heart, and the "
+        "stone-post simile extended across all six sense doors. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A misquotation, corrected three times"),
+        ("p", "&sect;1", "an9.26:1.1-1.6"),
+        ("p", "&sect;2", "an9.26:2.1-2.7"),
+        ("p", "&sect;3", "an9.26:4.1-4.11"),
+        ("h3", "Nine items, consolidated by heart"),
+        ("p", "&sect;4", "an9.26:5.1-5.12"),
+        ("h3", "The stone post, and six sense doors"),
+        ("p", "&sect;5", "an9.26:6.1-6.10"),
+        ("p", "&sect;6", "an9.26:7.1-7.6"),
+    ],
+    quiz=[
+        {"q": "What single word does Candikāputta get wrong when "
+              "reporting Devadatta's teaching?",
+         "opts": [
+             "He says &lsquo;solidified&rsquo; where Sāriputta insists "
+             "on &lsquo;well consolidated&rsquo;",
+             "He names the wrong teacher entirely",
+             "He gets the number of items wrong",
+             "He reports the opposite meaning entirely"],
+         "correct": 0,
+         "expl": "A single-word correction, insisted on three times."},
+        {"q": "How many times does Sāriputta correct the same "
+              "misquotation?",
+         "opts": [
+             "Once", "Twice", "Three times", "Four times"],
+         "correct": 2,
+         "expl": "A threefold structure echoing Meghiya's threefold "
+                 "request at AN 9.3."},
+        {"q": "How does this discourse's nine-item formula relate to AN "
+              "9.25's?",
+         "opts": [
+             "It is an entirely different formula",
+             "It is the identical nine items, framed here as "
+             "consolidation &lsquo;by heart&rsquo; rather than AN 9.25's "
+             "&lsquo;with wisdom&rsquo;",
+             "It has only five items",
+             "It adds four new items to AN 9.25's list"],
+         "correct": 1,
+         "expl": "Same content, a different framing register."},
+        {"q": "What does the stone-post simile illustrate?",
+         "opts": [
+             "The impermanence of all things",
+             "A mind rightly freed, remaining untainted, steady, and "
+             "imperturbable when compelling sense objects come into its "
+             "range, like a deeply embedded post unmoved by storms",
+             "The importance of physical strength",
+             "The dangers of pride"],
+         "correct": 1,
+         "expl": "A concrete image for the nine-item formula's practical "
+                 "consequence."},
+        {"q": "Across how many sense doors is the stone-post "
+              "imperturbability traced?",
+         "opts": [
+             "Three", "Four", "Five", "Six (sights, sounds, smells, "
+             "tastes, touches, and ideas)"],
+         "correct": 3,
+         "expl": "All six sense doors, extending the simile's reach "
+                 "fully."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, in the Bamboo Grove, the squirrels' feeding "
+             "ground",
+             "Cālikā, on the Cālikā mountain",
+             "Vesālī"],
+         "correct": 1,
+         "expl": "A different setting from most of this chapter's other "
+                 "discourses."},
+    ],
+    marginalia=[
+        ("A word, corrected thrice", [
+            "not &lsquo;solidified&rsquo; &mdash;",
+            "&lsquo;well consolidated&rsquo; &mdash;",
+            "insisted three times",
+        ]),
+        ("The same nine, by heart", [
+            "free of greed, hate,",
+            "delusion, and their return &mdash;",
+            "wisdom's twin, by heart",
+        ]),
+        ("A stone post, unmoved", [
+            "eight feet buried, eight",
+            "above &mdash; no storm from any",
+            "direction shakes it",
+        ]),
+        ("Cross-references", [
+            "AN 9.25 &middot; previous, the same nine items framed by "
+            "wisdom",
+            "AN 9.27 &middot; next, Fears and Enmities (1st)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.26/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.25.html">AN 9.25 &middot; Consolidated by Wisdom</a> &mdash; previous, '
+        "the same nine items framed by wisdom.",
+        '<a href="an-9.27.html">AN 9.27 &middot; Fears and Enmities (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.27 — Bhayasutta (1st)
+# --------------------------------------------------------------------------- #
+page(
+    27, "Bhaya", "Fears and Enmities (1st)",
+    vagga=VAGGA_3,
+    meta_title="AN 9.27 — Fears and Enmities (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "first Bhayasutta, addressed personally to Anāthapiṇḍika — the "
+        "classic stream-entry formula of five quelled fears and four "
+        "factors of confidence, totaling this chapter's own nine. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue in the same "
+                    "general setting as the chapter"),
+        ("Speakers", "The Buddha, addressing the householder "
+                     "Anāthapiṇḍika personally"),
+        ("Form", "A declaration formula, then five quelled fears drawn "
+                 "from the five precepts, then four factors of "
+                 "confidence"),
+        ("Length", "~3 minutes to read"),
+        ("Five plus four equals this chapter's nine", "Five fears and "
+         "enmities quelled through ethical restraint, plus four factors "
+         "of confidence in the Buddha, teaching, Saṅgha, and ethics, "
+         "totals the nine this chapter is named for"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; one "
+                       "of the most famous formulas in the early "
+                       "discourses, worth knowing well"),
+    ],
+    why=(
+        "Addressing Anāthapiṇḍika by name, the Buddha explains that a "
+        "noble disciple who has quelled five fears and enmities "
+        "&mdash; by refraining from killing, stealing, sexual "
+        "misconduct, lying, and intoxicants &mdash; and possesses four "
+        "factors of stream-entry &mdash; confidence in the Buddha, the "
+        "teaching, the Saṅgha, and their own ethical conduct &mdash; may "
+        "rightly declare themselves a stream-enterer, assured and "
+        "destined for awakening."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple who has quelled the five fears and "
+            "enmities that come from killing, stealing, sexual "
+            "misconduct, lying, and intoxicants, and who possesses "
+            "experiential confidence in the Buddha, the teaching, the "
+            "Saṅgha, and their own unbroken ethical conduct, may rightly "
+            "declare themselves a stream-enterer, finished with any "
+            "further rebirth in a bad place."]),
+        ("Five fears, quelled by the five precepts", [
+            "Each of the five fears follows an identical logic: anyone "
+            "who kills, steals, commits sexual misconduct, lies, or "
+            "drinks intoxicants brims with fear and enmity, both now and "
+            "in future lives, and suffers mental pain; anyone who "
+            "refrains does not. The familiar five precepts are reframed "
+            "here not as external rules but as the direct removal of a "
+            "specific, nameable fear."]),
+        ("Four factors, naming what a stream-enterer trusts", [
+            "The four factors of stream-entry name experiential "
+            "confidence, not mere belief, in the Buddha (recited through "
+            "his standard qualities), the teaching (well explained, "
+            "apparent, inviting inspection), and the Saṅgha (practicing "
+            "well, worthy of offerings), plus a noble disciple's own "
+            "ethical conduct, described as loved by the noble ones and "
+            "leading to immersion."]),
+        ("Nine total, and a personal address", [
+            "Five quelled fears plus four factors of confidence gives "
+            "exactly the nine this chapter is named for &mdash; but "
+            "unlike most nine-item formulas in this nipāta, this "
+            "discourse is addressed to a specific, named individual, "
+            "Anāthapiṇḍika, the Buddha's most famous lay donor, rather "
+            "than to the mendicants in general as at AN 9.28, its near-"
+            "identical twin."]),
+    ],
+    terms=[
+        ("pañca bhayāni verāni vūpasantāni",
+         "&ldquo;five fears and enmities... quelled&rdquo; &mdash; the "
+         "discourse's own title phrase, naming the consequence of "
+         "ethical restraint."),
+        ("cattāri ca sotāpattiyaṅgāni",
+         "&ldquo;the four factors of stream-entry&rdquo; &mdash; the "
+         "second half of this discourse's nine, naming confidence rather "
+         "than restraint."),
+        ("aveccappasāda",
+         "&ldquo;experiential confidence&rdquo; &mdash; the quality of "
+         "trust named for the Buddha, the teaching, and the Saṅgha, "
+         "distinguished from mere belief."),
+        ("cattāri pāripūrā, aṭṭha puggalā",
+         "&ldquo;the four pairs, the eight individual persons&rdquo; "
+         "&mdash; part of the confidence formula for the Saṅgha, the "
+         "same eightfold classification met at AN 9.9."),
+        ("khīṇanirayo... sotāpanno",
+         "&ldquo;finished with rebirth in hell... I am a stream-"
+         "enterer&rdquo; &mdash; the declaration this discourse's nine "
+         "items justify making."),
+    ],
+    text_intro=(
+        "The discourse in full: a declaration formula, five fears "
+        "quelled through the five precepts, and four factors of "
+        "confidence. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A declaration, addressed to Anāthapiṇḍika"),
+        ("p", "&sect;1", "an9.27:1.1-2.2"),
+        ("h3", "Five fears, quelled"),
+        ("p", "&sect;2", "an9.27:3.1-5.1"),
+        ("h3", "Four factors of confidence"),
+        ("p", "&sect;3", "an9.27:6.1-10.2"),
+    ],
+    quiz=[
+        {"q": "To whom is this discourse addressed, and how does that "
+              "make it distinctive?",
+         "opts": [
+             "To the mendicants in general, like most discourses in this "
+             "chapter",
+             "Personally to the householder Anāthapiṇḍika, unlike its "
+             "near-identical twin AN 9.28",
+             "To a wanderer of another religion",
+             "To a group of deities"],
+         "correct": 1,
+         "expl": "A personal address, distinguishing it from AN 9.28's "
+                 "general one."},
+        {"q": "What five fears does this discourse say are quelled by "
+              "ethical restraint?",
+         "opts": [
+             "Fear of the dark, animals, storms, illness, old age",
+             "Fears arising from killing, stealing, sexual misconduct, "
+             "lying, and consuming intoxicants",
+             "The five hindrances",
+             "Fear of five specific deities"],
+         "correct": 1,
+         "expl": "The five precepts, reframed as direct removal of "
+                 "nameable fears."},
+        {"q": "What four factors of stream-entry does the discourse "
+              "name?",
+         "opts": [
+             "Wisdom, energy, mindfulness, and immersion",
+             "Experiential confidence in the Buddha, the teaching, the "
+             "Saṅgha, and one's own ethical conduct",
+             "The four noble truths",
+             "The four right efforts"],
+         "correct": 1,
+         "expl": "Confidence and conduct, not meditative attainment."},
+        {"q": "How does this discourse's nine items relate to the "
+              "chapter's own number?",
+         "opts": [
+             "They have no connection to the number nine",
+             "Five quelled fears plus four factors of confidence gives "
+             "exactly nine",
+             "There are only seven items total",
+             "The nine items are unrelated to each other"],
+         "correct": 1,
+         "expl": "A clean five-plus-four structure reaching this "
+                 "chapter's nine."},
+        {"q": "What declaration may a noble disciple with these nine "
+              "make?",
+         "opts": [
+             "A vow of silence",
+             "That they are a stream-enterer, finished with rebirth in "
+             "hell, the animal realm, and the ghost realm, and assured "
+             "of awakening",
+             "A request to become a monastic",
+             "A claim to full awakening as an arahant"],
+         "correct": 1,
+         "expl": "Stream-entry specifically, not the higher fruits."},
+        {"q": "What is named as part of the confidence in the Saṅgha?",
+         "opts": [
+             "Its wealth and buildings",
+             "The four pairs, the eight individual persons — the same "
+             "classification met at AN 9.9",
+             "Its size and popularity",
+             "Its age and history"],
+         "correct": 1,
+         "expl": "A cross-reference to the eightfold noble Saṅgha "
+                 "formula met earlier in this nipāta."},
+    ],
+    marginalia=[
+        ("Five fears, five precepts", [
+            "no killing, stealing,",
+            "misconduct, lying, drink &mdash;",
+            "each fear quelled in turn",
+        ]),
+        ("Four factors of confidence", [
+            "the Buddha, the teaching,",
+            "the Saṅgha, and one's own",
+            "unbroken ethical conduct",
+        ]),
+        ("Nine, and a named address", [
+            "five plus four is nine &mdash;",
+            "spoken to Anāthapiṇḍika",
+            "himself, by name",
+        ]),
+        ("Cross-references", [
+            "AN 9.9 &middot; the same &ldquo;four pairs, eight "
+            "individuals&rdquo; Saṅgha formula",
+            "AN 9.26 &middot; previous, The Simile of the Stone Post",
+            "AN 9.28 &middot; next, the same formula addressed to "
+            "mendicants in general",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.27/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.26.html">AN 9.26 &middot; The Simile of the Stone Post</a> '
+        "&mdash; previous.",
+        '<a href="an-9.28.html">AN 9.28 &middot; Fears and Enmities (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.28 — Bhayasutta (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    28, "Bhaya", "Fears and Enmities (2nd)",
+    vagga=VAGGA_3,
+    meta_title="AN 9.28 — Fears and Enmities (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "second Bhayasutta, the same five-fears-plus-four-factors "
+        "stream-entry formula as AN 9.27, addressed here to the "
+        "mendicants generally rather than to Anāthapiṇḍika by name. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical formula as AN 9.27, without the earlier "
+                 "discourse's narrative frame"),
+        ("Length", "~2 minutes to read"),
+        ("A twin discourse, distinguished only by audience", "The "
+         "content is identical to AN 9.27; the only real difference is "
+         "that this version drops the personal address to Anāthapiṇḍika "
+         "for a general teaching to the mendicants"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "straightforward restatement, best read as a pair "
+                       "with AN 9.27"),
+    ],
+    why=(
+        "The same nine-item stream-entry formula given to Anāthapiṇḍika "
+        "at AN 9.27 &mdash; five fears and enmities quelled through the "
+        "five precepts, and four factors of confidence in the Buddha, "
+        "the teaching, the Saṅgha, and one's own ethical conduct "
+        "&mdash; is repeated here as a general teaching to the "
+        "mendicants, without the earlier discourse's narrative "
+        "occasion."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple who has quelled the same five fears and "
+            "possesses the same four factors of confidence named at AN "
+            "9.27 may, exactly as there, rightly declare themselves a "
+            "stream-enterer, finished with rebirth in any bad place."]),
+        ("A near-perfect twin", [
+            "Word for word, this discourse's content matches AN 9.27's: "
+            "the same five fears tied to the same five precepts, and the "
+            "same four factors of confidence in the Buddha, the "
+            "teaching, the Saṅgha, and ethical conduct, closing on the "
+            "identical declaration formula."]),
+        ("What actually changes: the audience, not the content", [
+            "The one real difference between the two discourses is "
+            "audience and occasion: AN 9.27 opens with Anāthapiṇḍika "
+            "approaching the Buddha in person, while this discourse "
+            "opens simply &lsquo;mendicants,&rsquo; addressed to the "
+            "assembly in general with no narrative frame at all."]),
+        ("Why a teaching would be given twice", [
+            "This project has already met several paired discourses "
+            "that repeat the same content under a different frame "
+            "&mdash; AN 9.25 and AN 9.26's wisdom-versus-heart framing "
+            "chief among them in this same chapter. This pairing is the "
+            "simplest version of that pattern: identical content, "
+            "distinguished by nothing but who is listening."]),
+    ],
+    terms=[
+        ("bhikkhave",
+         "&ldquo;mendicants&rdquo; &mdash; this discourse's own opening "
+         "address, replacing AN 9.27's personal address to "
+         "Anāthapiṇḍika."),
+        ("pañca bhayāni verāni vūpasantāni",
+         "&ldquo;five fears and enmities... quelled&rdquo; &mdash; the "
+         "identical phrase and content as AN 9.27."),
+        ("cattāri ca sotāpattiyaṅgāni",
+         "&ldquo;the four factors of stream-entry&rdquo; &mdash; "
+         "restated here without any change from AN 9.27's version."),
+        ("suraṁerayamajjapamādaṭṭhānā paṭivirato",
+         "&ldquo;refrains from consuming beer, wine, and liquor "
+         "intoxicants&rdquo; &mdash; the fifth precept and fifth quelled "
+         "fear, identical in both discourses."),
+        ("khīṇanirayo... sotāpanno",
+         "&ldquo;finished with rebirth in hell... I am a stream-"
+         "enterer&rdquo; &mdash; the shared closing declaration, word "
+         "for word the same as AN 9.27."),
+    ],
+    text_intro=(
+        "The discourse in full: the identical nine-item formula as AN "
+        "9.27, addressed here to the mendicants generally. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The same declaration, a general audience"),
+        ("p", "&sect;1", "an9.28:1.1-2.3"),
+        ("h3", "Five fears, quelled"),
+        ("p", "&sect;2", "an9.28:3.1-3.4"),
+        ("h3", "Four factors of confidence"),
+        ("p", "&sect;3", "an9.28:4.1-5.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to AN 9.27's?",
+         "opts": [
+             "Entirely different, with new items",
+             "Word for word identical — the same five fears and four "
+             "factors of confidence",
+             "Half the length, with items removed",
+             "Doubled, with additional items"],
+         "correct": 1,
+         "expl": "A near-perfect twin, differing only in audience."},
+        {"q": "What is the one real difference between AN 9.27 and this "
+              "discourse?",
+         "opts": [
+             "The number of items in the formula",
+             "The audience and occasion — AN 9.27 addresses "
+             "Anāthapiṇḍika personally, this discourse addresses the "
+             "mendicants generally with no narrative frame",
+             "The declaration each justifies",
+             "The order of the nine items"],
+         "correct": 1,
+         "expl": "Content unchanged; only who is being addressed "
+                 "differs."},
+        {"q": "According to the guide, what other pairing in this "
+              "chapter shows the same content repeated under a "
+              "different frame?",
+         "opts": [
+             "AN 9.21 and AN 9.22",
+             "AN 9.25 and AN 9.26, framed by wisdom and by heart",
+             "AN 9.11 and AN 9.12",
+             "There is no comparable pairing"],
+         "correct": 1,
+         "expl": "Though that pair changes framing register, not just "
+                 "audience."},
+        {"q": "What five precepts underlie the five quelled fears in "
+              "this discourse?",
+         "opts": [
+             "Killing, stealing, sexual misconduct, lying, and "
+             "intoxicants",
+             "Five monastic rules about robes",
+             "Five rules about almsfood",
+             "Five rules about speech alone"],
+         "correct": 0,
+         "expl": "The same five precepts as AN 9.27, unchanged."},
+        {"q": "What declaration closes this discourse?",
+         "opts": [
+             "A vow of future celibacy",
+             "The identical stream-enterer's declaration as AN 9.27, "
+             "word for word",
+             "A request for the Buddha's blessing",
+             "A confession of doubt"],
+         "correct": 1,
+         "expl": "The same closing formula, unchanged from its twin."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī, matching AN 9.27",
+             "Yes, at Rājagaha",
+             "No setting is stated in the source",
+             "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "Unlike AN 9.27's personal narrative opening, this "
+                 "version has no setting at all."},
+    ],
+    marginalia=[
+        ("A near-perfect twin", [
+            "the same five fears,",
+            "the same four factors &mdash;",
+            "word for word repeated",
+        ]),
+        ("What actually changes", [
+            "not the content, but",
+            "who is being addressed &mdash;",
+            "one man, then the many",
+        ]),
+        ("Why repeat a teaching?", [
+            "the same nine items,",
+            "given twice over &mdash;",
+            "worth hearing again",
+        ]),
+        ("Cross-references", [
+            "AN 9.27 &middot; previous, the identical formula addressed "
+            "to Anāthapiṇḍika by name",
+            "AN 9.29 &middot; next, Grounds for Resentment",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.28/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.27.html">AN 9.27 &middot; Fears and Enmities (1st)</a> &mdash; previous, '
+        "the identical formula addressed to Anāthapiṇḍika by name.",
+        '<a href="an-9.29.html">AN 9.29 &middot; Grounds for Resentment</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.29 — Āghātavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    29, "Āghātavatthu", "Grounds for Resentment",
+    vagga=VAGGA_3,
+    meta_title="AN 9.29 — Grounds for Resentment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Āghātavatthusutta, naming nine grounds for resentment generated "
+        "by crossing three time-tenses against three kinds of target — "
+        "oneself, someone loved, and someone disliked. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single list of nine, generated by crossing three "
+                 "tenses against three targets"),
+        ("Length", "~1 minute to read"),
+        ("A three-by-three grid, like AN 9.22", "Three tenses (past, "
+         "present, future) crossed against three targets (myself, "
+         "someone I love, someone I dislike) produces the nine grounds, "
+         "the same multiplication logic already met at AN 9.22"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "clear grid, worth reading alongside its direct "
+                       "antidote at AN 9.30"),
+    ],
+    why=(
+        "Nine grounds for resentment arise from crossing three "
+        "time-tenses &mdash; they did, are doing, or will do wrong "
+        "&mdash; against three targets: wrong done to oneself, wrong "
+        "done to someone loved, and help given to someone disliked, each "
+        "combination a distinct occasion on which resentment can take "
+        "root."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Resentment is harbored on nine grounds: thinking someone "
+            "did, is doing, or will do wrong to me; did, is doing, or "
+            "will do wrong to someone I love; or helped, is helping, or "
+            "will help someone I dislike."]),
+        ("A grid, not a flat list", [
+            "As with AN 9.22's horses and people, this discourse's nine "
+            "items are not nine unrelated grievances but a clean "
+            "three-by-three grid: three time-tenses (past, present, and "
+            "future wrongdoing or favoritism) crossed against three "
+            "targets (myself, someone I love, and someone I dislike)."]),
+        ("Resentment extends beyond direct harm to oneself", [
+            "Only the first three grounds concern wrong done directly "
+            "to oneself. The middle three extend resentment to wrongs "
+            "done to someone loved, and the final three extend it "
+            "further still, to simple favor shown toward someone "
+            "disliked &mdash; no direct harm required at all, only "
+            "unwelcome kindness shown to the wrong person."]),
+        ("A catalogue, without yet offering a remedy", [
+            "This discourse is purely diagnostic: it names the nine "
+            "grounds without commenting on whether resentment is "
+            "justified or how to release it. That work is left "
+            "entirely to its companion discourse immediately following, "
+            "AN 9.30, which answers each of these same nine grounds with "
+            "a specific way to let it go."]),
+    ],
+    terms=[
+        ("āghāto",
+         "&ldquo;resentment&rdquo; &mdash; the discourse's own title "
+         "term, its nine grounds catalogued without comment here."),
+        ("anatthaṁ me acari",
+         "&ldquo;they did wrong to me&rdquo; &mdash; the first ground, "
+         "opening the three-tense, three-target grid."),
+        ("piyassa me manāpassa anatthaṁ acari",
+         "&ldquo;they did wrong to someone I love&rdquo; &mdash; the "
+         "fourth ground, extending resentment beyond direct harm to "
+         "oneself."),
+        ("appiyassa me amanāpassa atthaṁ acari",
+         "&ldquo;they helped someone I dislike&rdquo; &mdash; the "
+         "seventh ground, extending resentment to simple favor shown to "
+         "an unwelcome party."),
+        ("nava āghātavatthūni",
+         "&ldquo;nine grounds for resentment&rdquo; &mdash; the "
+         "discourse's own closing count, matched item for item by AN "
+         "9.30's nine ways of letting it go."),
+    ],
+    text_intro=(
+        "The discourse in full: nine grounds for resentment, generated "
+        "by crossing three tenses against three targets. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine grounds for resentment"),
+        ("p", "&sect;1", "an9.29:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How are this discourse's nine grounds for resentment "
+              "generated?",
+         "opts": [
+             "As nine unrelated, scattered grievances",
+             "By crossing three time-tenses (past, present, future) "
+             "against three targets (myself, someone loved, someone "
+             "disliked)",
+             "As a single narrative sequence",
+             "By listing nine named individuals"],
+         "correct": 1,
+         "expl": "A three-by-three grid, the same multiplication logic "
+                 "already met at AN 9.22."},
+        {"q": "What three targets does resentment extend across, "
+              "according to this discourse?",
+         "opts": [
+             "Family, strangers, and enemies",
+             "Wrong done to oneself, wrong done to someone loved, and "
+             "help given to someone disliked",
+             "Monastics, laypeople, and deities",
+             "The past, present, and future only"],
+         "correct": 1,
+         "expl": "Resentment isn't limited to direct harm to oneself."},
+        {"q": "What does the seventh ground for resentment involve?",
+         "opts": [
+             "Direct physical harm",
+             "Simply helping someone I dislike — no direct harm required "
+             "at all",
+             "Theft of property",
+             "A broken promise"],
+         "correct": 1,
+         "expl": "Unwelcome kindness shown to the wrong person, not harm "
+                 "at all."},
+        {"q": "What does this discourse do about the nine grounds it "
+              "names?",
+         "opts": [
+             "It condemns resentment as always unjustified",
+             "It purely catalogues them, without commenting on whether "
+             "resentment is justified or how to release it",
+             "It praises resentment as a virtue",
+             "It offers a single universal remedy"],
+         "correct": 1,
+         "expl": "The remedy is left to its companion discourse, AN "
+                 "9.30."},
+        {"q": "How does AN 9.30 relate to this discourse?",
+         "opts": [
+             "It contradicts this discourse's list",
+             "It answers each of these same nine grounds with a "
+             "specific way of letting resentment go",
+             "It has no relationship to this discourse",
+             "It doubles the number of grounds"],
+         "correct": 1,
+         "expl": "A direct companion, matched item for item."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare diagnostic catalogue, like AN 9.30 immediately "
+                 "after it."},
+    ],
+    marginalia=[
+        ("A grid, three by three", [
+            "did, is doing, will do &mdash;",
+            "wrong to me, to one I love,",
+            "or help to one I dislike",
+        ]),
+        ("Beyond direct harm", [
+            "not just wrong to me &mdash;",
+            "wrong to those I love, or",
+            "kindness to a rival",
+        ]),
+        ("Diagnosis, not yet cure", [
+            "nine grounds named plainly,",
+            "no remedy offered yet &mdash;",
+            "see AN 9.30 next",
+        ]),
+        ("Cross-references", [
+            "AN 9.22 &middot; the same three-by-three grid logic",
+            "AN 9.28 &middot; previous, Fears and Enmities (2nd)",
+            "AN 9.30 &middot; next, the direct antidote to these same "
+            "nine grounds",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.29/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.28.html">AN 9.28 &middot; Fears and Enmities (2nd)</a> &mdash; previous.',
+        '<a href="an-9.30.html">AN 9.30 &middot; Getting Rid of Resentment</a> &mdash; next, '
+        "the direct antidote to these same nine grounds.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.30 — Āghātapaṭivinayasutta
+# --------------------------------------------------------------------------- #
+page(
+    30, "Āghātapaṭivinaya", "Getting Rid of Resentment",
+    vagga=VAGGA_3,
+    meta_title="AN 9.30 — Getting Rid of Resentment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Āghātapaṭivinayasutta, answering AN 9.29's nine grounds for "
+        "resentment with nine matching ways to let each one go, each "
+        "closing on the same disarming question. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same three-by-three grid as AN 9.29, each item "
+                 "closed by an identical disarming reflection"),
+        ("Length", "~1 minute to read"),
+        ("A direct answer to AN 9.29", "Every one of this discourse's "
+         "nine ways to release resentment corresponds exactly to one of "
+         "AN 9.29's nine grounds for holding it"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and practical, best read as a pair with AN "
+                       "9.29"),
+    ],
+    why=(
+        "For each of the same nine grounds named at AN 9.29 &mdash; "
+        "wrong done to oneself, to someone loved, or favor shown to "
+        "someone disliked, each across past, present, and future "
+        "&mdash; resentment is released by the same disarming "
+        "reflection: &lsquo;but what can I possibly do?&rsquo;"),
+    guide=[
+        ("The teaching in one sentence", [
+            "Resentment is released on the same nine grounds named at "
+            "AN 9.29 &mdash; harm done to me, to someone I love, or "
+            "favor shown to someone I dislike, across past, present, and "
+            "future &mdash; each time by the identical reflection: "
+            "&lsquo;they harmed me (or are harming, or will harm), but "
+            "what can I possibly do?&rsquo;"]),
+        ("The same grid, now answered item for item", [
+            "This discourse doesn't introduce a new structure; it takes "
+            "AN 9.29's exact three-by-three grid of tenses and targets "
+            "and answers every single cell with the same short "
+            "reflection, making the pairing between the two discourses "
+            "as tight as any in this collection."]),
+        ("One reflection, not nine different techniques", [
+            "Unlike teachings elsewhere that offer a distinct antidote "
+            "for each item in a list, this discourse's remedy is "
+            "strikingly uniform: the identical rhetorical question, "
+            "&lsquo;but what can I possibly do?&rsquo;, applied without "
+            "variation across all nine grounds, suggesting the release "
+            "of resentment depends less on nine different insights than "
+            "on repeating one disarming reflection consistently."]),
+        ("Acceptance of limits, not denial of harm", [
+            "The reflection doesn't deny that harm occurred, or that it "
+            "might occur again; it simply notes the limits of what can "
+            "actually be done about it now. This is a pragmatic release "
+            "of resentment's grip rather than a claim that the "
+            "resentment was never justified in the first place."]),
+    ],
+    terms=[
+        ("āghātassa paṭivinayo",
+         "&ldquo;getting rid of resentment&rdquo; &mdash; the "
+         "discourse's own title phrase, framing release rather than "
+         "diagnosis."),
+        ("kiṁ hi tattha labbhā",
+         "&ldquo;but what can I possibly do?&rdquo; &mdash; the single "
+         "reflection applied without variation to all nine grounds for "
+         "resentment."),
+        ("upahaññi maṁ",
+         "&ldquo;they harmed me&rdquo; &mdash; the first ground "
+         "answered, matching AN 9.29's opening item exactly."),
+        ("piyassa me manāpassa upahaññi",
+         "&ldquo;they harmed someone I love&rdquo; &mdash; the fourth "
+         "ground answered, matching AN 9.29's own fourth item."),
+        ("appiyassa me amanāpassa atthaṁ acari",
+         "&ldquo;they helped someone I dislike&rdquo; &mdash; the "
+         "ninth and final ground answered, closing both discourses on "
+         "the identical structure."),
+    ],
+    text_intro=(
+        "The discourse in full: the same nine grounds as AN 9.29, each "
+        "answered by the identical disarming reflection. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine ways to get rid of resentment"),
+        ("p", "&sect;1", "an9.30:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure relate to AN 9.29's?",
+         "opts": [
+             "It introduces a completely different grid",
+             "It uses the identical three-by-three grid of tenses and "
+             "targets, answering every one of AN 9.29's nine grounds "
+             "directly",
+             "It only addresses three of the nine grounds",
+             "It has no structural relationship to AN 9.29"],
+         "correct": 1,
+         "expl": "As tight a pairing as any two discourses in this "
+                 "collection."},
+        {"q": "What single reflection does this discourse apply across "
+              "all nine grounds?",
+         "opts": [
+             "A different technique for each ground",
+             "&lsquo;But what can I possibly do?&rsquo;, applied without "
+             "variation to every ground",
+             "A request for forgiveness",
+             "A vow of retaliation"],
+         "correct": 1,
+         "expl": "Uniform repetition, not nine distinct antidotes."},
+        {"q": "According to the guide, what does this uniformity "
+              "suggest about releasing resentment?",
+         "opts": [
+             "That nine different insights are required",
+             "That release depends less on varied insight than on "
+             "repeating one disarming reflection consistently",
+             "That resentment cannot actually be released",
+             "That only monastics can release resentment"],
+         "correct": 1,
+         "expl": "One reflection, applied consistently across every "
+                 "grievance."},
+        {"q": "Does the reflection deny that harm occurred?",
+         "opts": [
+             "Yes, it claims the harm was imaginary",
+             "No — it accepts the harm may have occurred and simply "
+             "notes the limits of what can be done about it now",
+             "Yes, it blames the person harboring resentment",
+             "No, it promises the harm will be avenged"],
+         "correct": 1,
+         "expl": "Pragmatic release, not denial of the original harm."},
+        {"q": "What is the ninth and final ground this discourse "
+              "answers?",
+         "opts": [
+             "Wrong done to oneself in the present",
+             "Help given to someone disliked, matching AN 9.29's own "
+             "ninth item",
+             "Wrong done to a stranger",
+             "A broken monastic rule"],
+         "correct": 1,
+         "expl": "The pairing between the two discourses holds all the "
+                 "way to the final item."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare practical formula, matching AN 9.29 immediately "
+                 "before it."},
+    ],
+    marginalia=[
+        ("The same grid, answered", [
+            "past, present, future harm &mdash;",
+            "to me, to one I love,",
+            "or favor to a rival",
+        ]),
+        ("One reflection, repeated", [
+            "&ldquo;but what can I",
+            "possibly do?&rdquo; &mdash; the same",
+            "answer, nine times over",
+        ]),
+        ("Acceptance, not denial", [
+            "the harm isn't denied &mdash;",
+            "only its grip released,",
+            "by naming its limits",
+        ]),
+        ("Cross-references", [
+            "AN 9.29 &middot; previous, the nine grounds this discourse "
+            "answers item for item",
+            "AN 9.31 &middot; next, Progressive Cessations, closing this "
+            "chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.30/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.29.html">AN 9.29 &middot; Grounds for Resentment</a> &mdash; previous, '
+        "the nine grounds this discourse answers item for item.",
+        '<a href="an-9.31.html">AN 9.31 &middot; Progressive Cessations</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.31 — Anupubbanirodhasutta — closes ch.3 Sattāvāsavagga
+# --------------------------------------------------------------------------- #
+page(
+    31, "Anupubbanirodha", "Progressive Cessations",
+    vagga=VAGGA_3,
+    meta_title="AN 9.31 — Progressive Cessations | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Anupubbanirodhasutta, closing this chapter with the classic "
+        "nine progressive cessations across the four absorptions, the "
+        "four formless dimensions, and the cessation of perception and "
+        "feeling. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list of nine, each item naming what has "
+                 "ceased at a specific meditative attainment"),
+        ("Length", "~1 minute to read"),
+        ("Closing the chapter, and its own colophon", "This discourse "
+         "closes <em>Sattāvāsavagga</em>, the third chapter of the "
+         "Nines; the source's own untranslated closing verse names all "
+         "eleven discourses of the chapter by their opening words"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "precise meditative catalogue, best read alongside "
+                       "AN 9.24's abodes"),
+    ],
+    why=(
+        "Nine progressive cessations mark each successive meditative "
+        "attainment: sensual perceptions cease at the first absorption, "
+        "placing and keeping the mind connected cease at the second, "
+        "rapture at the third, breathing at the fourth, and, through the "
+        "four formless dimensions, perception of form, of infinite "
+        "space, of infinite consciousness, and finally of nothingness, "
+        "each cease in turn, ending with the total cessation of "
+        "perception and feeling."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nine things cease in progressive order across nine "
+            "meditative attainments: sensual perceptions at the first "
+            "absorption, placing and keeping the mind connected at the "
+            "second, rapture at the third, breathing at the fourth, and "
+            "then, through the four formless dimensions and the "
+            "cessation of perception and feeling, each successively "
+            "subtler perception in turn."]),
+        ("Nine attainments, not nine practices", [
+            "Unlike most nine-item lists in this chapter, this "
+            "discourse's nine items are not nine parallel options to "
+            "choose among but nine stages of a single deepening "
+            "sequence, each attainment definitionally including "
+            "everything that ceased at the stages before it."]),
+        ("From the four absorptions through the formless dimensions", [
+            "The first four cessations track the four form-absorptions "
+            "familiar throughout this collection; the next four track "
+            "the four formless dimensions already met in full at AN "
+            "9.24's abodes of sentient beings, each one's perception "
+            "replaced by a subtler one still. The ninth and final "
+            "cessation, of perception and feeling itself, goes further "
+            "than even the abodes catalogue in AN 9.24 reaches."]),
+        ("Closing the third chapter", [
+            "With this discourse, <em>Sattāvāsavagga</em>, the third "
+            "chapter of the Nines, closes. The source's own untranslated "
+            "colophon and chapter-summary verse name all eleven "
+            "discourses of the chapter by their opening words, as with "
+            "every chapter closer met so far in this collection."]),
+    ],
+    terms=[
+        ("anupubbanirodhā",
+         "&ldquo;progressive cessations&rdquo; &mdash; the discourse's "
+         "own title term, naming nine successive stages rather than "
+         "nine parallel options."),
+        ("kāmasaññā niruddhā honti",
+         "&ldquo;sensual perceptions have ceased&rdquo; &mdash; the "
+         "first cessation, marking the first absorption."),
+        ("assāsapassāsā niruddhā honti",
+         "&ldquo;breathing has ceased&rdquo; &mdash; the fourth "
+         "cessation, marking the fourth absorption."),
+        ("ākiñcaññāyatanasaññā niruddhā honti",
+         "&ldquo;the perception of the dimension of nothingness has "
+         "ceased&rdquo; &mdash; the eighth cessation, marking the "
+         "dimension of neither perception nor non-perception."),
+        ("saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti",
+         "&ldquo;for someone who has attained the cessation of "
+         "perception and feeling, perception and feeling have "
+         "ceased&rdquo; &mdash; the ninth and final cessation, closing "
+         "the sequence and this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full: nine progressive cessations across the "
+        "four absorptions, the four formless dimensions, and the "
+        "cessation of perception and feeling. The source's own closing "
+        "colophon and chapter-summary verse are untranslated in the "
+        "English and are described rather than quoted here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine progressive cessations"),
+        ("p", "&sect;1", "an9.31:1.1-1.12"),
+    ],
+    quiz=[
+        {"q": "How do this discourse's nine cessations differ in kind "
+              "from most other nine-item lists in this chapter?",
+         "opts": [
+             "They are identical in structure to every other list",
+             "They are nine stages of a single deepening sequence, not "
+             "nine parallel options to choose among",
+             "They have no relationship to meditative attainment",
+             "They are nine unrelated similes"],
+         "correct": 1,
+         "expl": "Each attainment builds on and includes what ceased "
+                 "before it."},
+        {"q": "What ceases at the first absorption, according to this "
+              "discourse?",
+         "opts": [
+             "Breathing", "Sensual perceptions",
+             "Rapture", "The perception of form"],
+         "correct": 1,
+         "expl": "The first of nine progressive cessations."},
+        {"q": "How do the fifth through eighth cessations relate to AN "
+              "9.24?",
+         "opts": [
+             "They are entirely unrelated to AN 9.24",
+             "They track the same four formless dimensions already met "
+             "in full at AN 9.24's abodes of sentient beings",
+             "They contradict AN 9.24's classification",
+             "AN 9.24 covers ten formless dimensions, not four"],
+         "correct": 1,
+         "expl": "The same territory, reframed here as successive "
+                 "cessation rather than as an abode."},
+        {"q": "What is the ninth and final cessation, and how does it "
+              "compare to AN 9.24's reach?",
+         "opts": [
+             "The cessation of breathing, matching AN 9.24 exactly",
+             "The cessation of perception and feeling itself, going "
+             "further than even AN 9.24's abodes catalogue reaches",
+             "The cessation of rapture, a repeat of the third item",
+             "There is no ninth cessation"],
+         "correct": 1,
+         "expl": "A stage beyond even the four formless dimensions "
+                 "catalogued at AN 9.24."},
+        {"q": "What does this discourse close?",
+         "opts": [
+             "Nothing; the chapter continues past it",
+             "<em>Sattāvāsavagga</em>, the third chapter, with an "
+             "untranslated colophon and uddāna verse naming all eleven "
+             "discourses",
+             "The entire nipāta",
+             "Only this single discourse, with no chapter-level effect"],
+         "correct": 1,
+         "expl": "The chapter's own closing colophon, left untranslated "
+                 "in the English."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare meditative catalogue, closing the chapter "
+                 "without narrative frame."},
+    ],
+    marginalia=[
+        ("Nine stages, one sequence", [
+            "sensual perception,",
+            "then placing thought, rapture,",
+            "breathing, each in turn",
+        ]),
+        ("Through the formless, and beyond", [
+            "space, consciousness,",
+            "nothingness, then neither &mdash;",
+            "then feeling itself stops",
+        ]),
+        ("Closing the third chapter", [
+            "Sattāvāsavaggo",
+            "finished &mdash; eleven discourses",
+            "named in its own verse",
+        ]),
+        ("Cross-references", [
+            "AN 9.24 &middot; the same formless dimensions, there as "
+            "abodes rather than cessations",
+            "AN 9.30 &middot; previous, Getting Rid of Resentment",
+            "AN 9.32 &middot; next, opening ch.4, Mahāvagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.31/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.24.html">AN 9.24 &middot; Abodes of Sentient Beings</a> &mdash; the '
+        "same formless dimensions, there as abodes rather than cessations.",
+        '<a href="an-9.30.html">AN 9.30 &middot; Getting Rid of Resentment</a> &mdash; previous.',
+    ],
+)
