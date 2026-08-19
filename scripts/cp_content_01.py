@@ -4128,3 +4128,1231 @@ page(
         '<a href="./">Cariyapiṭaka</a> &mdash; back to the collection index.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Cp 21 — Yudhañjaya Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    21, "Yudha&ntilde;jaya Cariy&amacr;", "Yudha&ntilde;jaya&rsquo;s Conduct",
+    meta_title="Cp 21 — Yudhañjaya's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Yudhañjaya's "
+        "Conduct, opening the Cariyapitaka's third and final chapter with a prince who "
+        "renounces a kingdom over a single dewdrop. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Renunciation (1st of 5)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Prince Yudhañjaya"),
+        ("Speaker", "The Buddha, recounting his life as Yudhañjaya"),
+        ("Form", "Six four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short and direct, "
+                       "opening the collection's third and final chapter"),
+    ],
+    why=(
+        "This story opens the Cariyapitaka's third and final chapter, gathering the "
+        "remaining perfections &mdash; renunciation, resolve, truth, love, and "
+        "equanimity &mdash; across its final fifteen stories. It opens on the smallest "
+        "possible trigger: a single dewdrop, evaporating in the heat of the sun, is "
+        "enough to move a prince to give up an entire kingdom."),
+    guide=[
+        ("A third chapter, five more themes", [
+            "After ten stories on giving and ten on ethics, this final chapter covers "
+            "five different perfections across its fifteen stories: renunciation (five "
+            "stories), resolve (one), truth (six), love (two), and equanimity (one) "
+            "&mdash; opening here with renunciation."]),
+        ("A single dewdrop as the trigger", [
+            "Nothing dramatic precipitates Yudhañjaya's decision: seeing a dewdrop fall "
+            "and vanish in the sun's heat is enough to stir him with <em>saṃvega</em>, "
+            "the same sudden sense of urgency named directly in Kp 5 of the "
+            "Khuddakapatha and Cp 7's Prince Candana &mdash; here triggered by nothing "
+            "more than ordinary weather."]),
+        ("A kingdom offered back, and refused", [
+            "As Yudhañjaya prepares to leave, the citizens themselves beg him to stay "
+            "and rule &mdash; the kingdom is not lost or threatened, it is actively "
+            "being offered, making his refusal a clean renunciation rather than an "
+            "escape from difficulty."]),
+        ("The same denial-then-reason closing", [
+            "As in many stories across this collection, the ending states plainly what "
+            "the renunciation was not about: &lsquo;I had no dislike of my parents, nor "
+            "did I dislike the great fame. But because omniscience is precious to me, "
+            "that is why I forsook kingship.&rsquo;"]),
+    ],
+    terms=[
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the perfection this story illustrates, "
+         "opening this chapter's five stories on the theme."),
+        ("saṃvega",
+         "a sudden &ldquo;sense of urgency&rdquo; &mdash; the same reaction named in Kp "
+         "5 and Cp 7, here triggered by the sight of a single evaporating dewdrop."),
+        ("Yudhañjaya-vagga",
+         "&ldquo;the Chapter With Yudhañjaya&rdquo; &mdash; the traditional name of "
+         "this third and final chapter, taken from this opening story."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-first."),
+        ("pabbajjā",
+         "&ldquo;going forth&rdquo; &mdash; the formal act of renunciation Yudhañjaya "
+         "requests permission for from his parents."),
+    ],
+    text_intro=(
+        "The text in full: six verses, opening the Cariyapitaka's third chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp21:1.1-1.4"),
+        ("p", "&sect;2", "cp21:2.1-2.4"),
+        ("p", "&sect;3", "cp21:3.1-3.4"),
+        ("p", "&sect;4", "cp21:4.1-4.4"),
+        ("p", "&sect;5", "cp21:5.1-5.4"),
+        ("p", "&sect;6", "cp21:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What triggers Yudhañjaya's decision to renounce his kingdom?",
+         "opts": [
+             "A war that destroys his city",
+             "Seeing a single dewdrop evaporate in the sun's heat",
+             "The death of his father",
+             "A prophecy delivered by a seer"],
+         "correct": 1,
+         "expl": "Nothing dramatic — an ordinary moment of weather."},
+        {"q": "What perfection does this story open, and how many stories does this final chapter cover in total across five themes?",
+         "opts": [
+             "Ethics; ten stories on one theme",
+             "Renunciation; fifteen stories across five perfections",
+             "Giving; ten stories on one theme",
+             "Truth; six stories on one theme"],
+         "correct": 1,
+         "expl": "Renunciation (five stories), resolve (one), truth (six), love (two), and equanimity (one)."},
+        {"q": "How do the citizens respond to Yudhañjaya's decision to leave?",
+         "opts": [
+             "They are relieved to be rid of him",
+             "They beg him to stay and rule, actively offering him the kingdom",
+             "They immediately crown a replacement",
+             "No response from the citizens is described"],
+         "correct": 1,
+         "expl": "Making his refusal a clean renunciation, not an escape from a lost kingdom."},
+        {"q": "What term names the sudden reaction that moves Yudhañjaya to act?",
+         "opts": [
+             "Mettā",
+             "Saṃvega, a sense of urgency",
+             "Khanti",
+             "Upekkhā"],
+         "correct": 1,
+         "expl": "The same term used in Kp 5 of the Khuddakapatha and Cp 7's Prince Candana."},
+        {"q": "What does Yudhañjaya explicitly deny as his reason for leaving?",
+         "opts": [
+             "That he disliked his parents or the fame of kingship",
+             "That he was capable of ruling",
+             "That the kingdom was prosperous",
+             "Nothing is denied in this story"],
+         "correct": 0,
+         "expl": "The same denial-then-reason structure used throughout this collection."},
+        {"q": "What is the traditional name of this third and final chapter, taken from this story?",
+         "opts": [
+             "Akitti-vagga",
+             "Hatthinaga-vagga",
+             "Yudhañjaya-vagga, 'the Chapter With Yudhañjaya'",
+             "No traditional name is given"],
+         "correct": 2,
+         "expl": "Named for its opening story, as the first two chapters were."},
+        {"q": "What formal act does Yudhañjaya request permission for from his parents?",
+         "opts": [
+             "Marriage",
+             "Pabbajjā, 'going forth' into renunciation",
+             "A military campaign",
+             "A pilgrimage"],
+         "correct": 1,
+         "expl": "Bowing to them before departing."},
+        {"q": "What perfection did the second chapter of the Cariyapitaka cover?",
+         "opts": [
+             "Giving",
+             "Ethics (sīla)",
+             "Truth",
+             "Love"],
+         "correct": 1,
+         "expl": "Cp 11 through Cp 20, now followed by this final chapter's five themes."},
+        {"q": "How does this story's structure compare to Cp 7's Prince Candana?",
+         "opts": [
+             "Completely unrelated",
+             "Both name saṃvega as the trigger for a decisive renunciation",
+             "Both stories involve a cannibal",
+             "Both are the longest stories in their chapters"],
+         "correct": 1,
+         "expl": "A sudden sense of urgency, shared across otherwise very different stories."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Renunciation (nekkhamma), the first of five stories on this theme",
+             "Resolve",
+             "Equanimity",
+             "Ethics"],
+         "correct": 0,
+         "expl": "Opening the third chapter's first theme."},
+    ],
+    marginalia=[
+        ("A single dewdrop", [
+            "enough to stir",
+            "a sense of urgency"
+        ]),
+        ("A kingdom offered", [
+            "not lost —",
+            "actively refused"
+        ]),
+        ("The third chapter opens", [
+            "renunciation, resolve,",
+            "truth, love, equanimity"
+        ]),
+        ("The same closing denial", [
+            "not dislike, but",
+            "omniscience precious"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp21/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-20.html">Cp 20 &mdash; Sa&#7749;khap&amacr;la&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, closing the chapter on ethics.",
+        '<a href="cp-7.html">Cp 7 &mdash; Prince Candana&rsquo;s Conduct</a> &mdash; '
+        "another story triggered by a sudden sense of urgency (saṃvega).",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 22 — Somanassa Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    22, "Somanassa Cariy&amacr;", "Somanassa&rsquo;s Conduct",
+    meta_title="Cp 22 — Somanassa's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Somanassa's "
+        "Conduct, the Cariyapitaka's story of a prince falsely accused, nearly "
+        "executed, who forgives the king and renounces the throne. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Renunciation (2nd of 5)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Prince Somanassa of Indapatta"),
+        ("Speaker", "The Buddha, recounting his life as Somanassa, with quoted "
+                    "dialogue involving a fraudulent ascetic and a king"),
+        ("Form", "Seventeen verses of first-person narration"),
+        ("Length", "2&ndash;3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a story of false "
+                       "accusation and near-execution, resolved unexpectedly"),
+    ],
+    why=(
+        "This story's renunciation does not come from a quiet moment of reflection "
+        "like Cp 21's dewdrop; it comes after Somanassa is falsely accused by a "
+        "fraudulent ascetic, sentenced to execution by his own father, and dragged "
+        "from his mother's arms &mdash; and only afterward, having survived and "
+        "forgiven the king who condemned him, chooses to leave the throne behind "
+        "entirely."),
+    guide=[
+        ("A charlatan recognized for what he is", [
+            "Before any accusation is made, Somanassa already sees through the "
+            "ascetic his father favors: &lsquo;like a pile of chaff without grain, "
+            "like a hollow tree&rsquo;, someone who has &lsquo;left the bright "
+            "qualities of conscience for the sake of making a living&rsquo;."]),
+        ("A polite visit, met with a death threat", [
+            "Sent by his father to attend to the ascetic's needs, Somanassa's simple, "
+            "courteous offer of help is met with fury and a threat: &lsquo;I'll have "
+            "you killed right now! Or banished from the realm!&rsquo;"]),
+        ("A father's order, carried out on a lie", [
+            "The charlatan lies to the returning king, and the king &mdash; without "
+            "verifying anything &mdash; orders his own son's execution in the most "
+            "brutal terms, his body to be quartered and displayed &lsquo;from street "
+            "to street&rsquo; as a warning."]),
+        ("An unexpected reversal, then a deliberate departure", [
+            "Somanassa manages to be brought before the king in time to plead his own "
+            "case, and succeeds not only in surviving but in winning the king's "
+            "confidence entirely &mdash; the king asks his forgiveness and offers him "
+            "the kingdom outright. Somanassa's renunciation, when it comes, is chosen "
+            "freely, after both survival and reconciliation, not forced by continued "
+            "danger."]),
+    ],
+    terms=[
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the perfection this story illustrates, "
+         "the second of five stories on this theme."),
+        ("Indapatta",
+         "the capital city named as Somanassa's home, the same city named in Cp 3's "
+         "story of King Dhanañjaya."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-second."),
+        ("saññatta",
+         "not named directly in this translation, but the underlying idea behind "
+         "Somanassa &lsquo;persuading&rsquo; and &lsquo;bringing under his "
+         "influence&rsquo; the king who had just ordered his execution."),
+        ("pabbajjā",
+         "&ldquo;going forth&rdquo; &mdash; the renunciation Somanassa chooses only "
+         "after being offered, and declining, the kingdom itself."),
+    ],
+    text_intro=(
+        "The text in full: seventeen verses, including the charlatan's threat and "
+        "the king's fatal order. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A charlatan recognized"),
+        ("p", "&sect;1", "cp22:1.1-1.4"),
+        ("p", "&sect;2", "cp22:2.1-2.4"),
+        ("p", "&sect;3", "cp22:3.1-3.4"),
+        ("p", "&sect;4", "cp22:4.1-4.4"),
+        ("p", "&sect;5", "cp22:5.1-5.4"),
+        ("h3", "A death sentence on a lie"),
+        ("p", "&sect;6", "cp22:6.1-6.4"),
+        ("p", "&sect;7", "cp22:7.1-7.4"),
+        ("p", "&sect;8", "cp22:8.1-8.4"),
+        ("p", "&sect;9", "cp22:9.1-9.4"),
+        ("p", "&sect;10", "cp22:10.1-10.4"),
+        ("p", "&sect;11", "cp22:11.1-11.4"),
+        ("p", "&sect;12", "cp22:12.1-12.4"),
+        ("p", "&sect;13", "cp22:13.1-13.4"),
+        ("h3", "A reversal, then a chosen departure"),
+        ("p", "&sect;14", "cp22:14.1-14.4"),
+        ("p", "&sect;15", "cp22:15.1-15.4"),
+        ("p", "&sect;16", "cp22:16.1-16.4"),
+        ("p", "&sect;17", "cp22:17.1-17.4"),
+    ],
+    quiz=[
+        {"q": "How does Somanassa initially regard the ascetic his father favors?",
+         "opts": [
+             "With great respect and admiration",
+             "As a charlatan — 'like a pile of chaff without grain'",
+             "He has never encountered the ascetic before the crisis",
+             "As a close personal friend"],
+         "correct": 1,
+         "expl": "Recognized as fraudulent before any accusation is made."},
+        {"q": "What happens when Somanassa politely offers to help the ascetic?",
+         "opts": [
+             "The ascetic thanks him warmly",
+             "The ascetic threatens to have him killed or banished",
+             "The ascetic ignores him entirely",
+             "The ascetic reports him for good behavior"],
+         "correct": 1,
+         "expl": "Fury at what should have been an unremarkable courtesy."},
+        {"q": "What does the king order after hearing the ascetic's accusation?",
+         "opts": [
+             "An investigation into the truth of the claim",
+             "His own son's execution, without verifying anything",
+             "A public trial",
+             "Nothing; the king dismisses the accusation"],
+         "correct": 1,
+         "expl": "A brutal sentence, ordered entirely on a lie."},
+        {"q": "How does Somanassa survive the execution order?",
+         "opts": [
+             "He escapes and flees the kingdom",
+             "He manages to be brought before the king in time to plead his own case",
+             "His mother intervenes and stops the execution",
+             "The executioners refuse to carry out the order"],
+         "correct": 1,
+         "expl": "Winning the king's confidence entirely, not merely escaping punishment."},
+        {"q": "What does the king offer Somanassa after learning the truth?",
+         "opts": [
+             "Nothing; he simply apologizes",
+             "His forgiveness, and the kingdom itself",
+             "Exile to a distant province",
+             "A public ceremony of apology only"],
+         "correct": 1,
+         "expl": "A full reversal from execution order to offered throne."},
+        {"q": "When does Somanassa's renunciation actually happen?",
+         "opts": [
+             "While still under threat of execution",
+             "Only after surviving and being offered the kingdom outright",
+             "Before the false accusation is even made",
+             "He never actually renounces the throne"],
+         "correct": 1,
+         "expl": "A choice made freely, after both survival and reconciliation."},
+        {"q": "What does Somanassa explicitly deny as his reason for leaving?",
+         "opts": [
+             "That he disliked great kingship or sensual enjoyment",
+             "That he trusted his father",
+             "That the kingdom was safe",
+             "Nothing is denied in this story"],
+         "correct": 0,
+         "expl": "The same denial-then-reason structure used throughout this collection."},
+        {"q": "Where is Somanassa's home city, also named in Cp 3's story?",
+         "opts": [
+             "Mithilā",
+             "Indapatta",
+             "Varanasi",
+             "Kapilā"],
+         "correct": 1,
+         "expl": "The same capital as King Dhanañjaya's in Cp 3."},
+        {"q": "How is Somanassa treated as he is taken away for execution?",
+         "opts": [
+             "With gentle care throughout",
+             "Dragged from his mother's lap by fierce, violent, and pitiless punishers",
+             "He is allowed to say a lengthy farewell",
+             "He is not physically restrained at all"],
+         "correct": 1,
+         "expl": "A stark, sudden reversal from his life as a loved and cherished child."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Renunciation (nekkhamma), the second of five stories on this theme",
+             "Truth",
+             "Resolve"],
+         "correct": 1,
+         "expl": "Continuing the sequence of five renunciation-stories in this chapter."},
+    ],
+    marginalia=[
+        ("A charlatan exposed", [
+            "recognized before",
+            "any accusation"
+        ]),
+        ("A death sentence on a lie", [
+            "ordered by his own father,",
+            "unverified"
+        ]),
+        ("Forgiveness, then a throne offered", [
+            "survival becomes",
+            "reconciliation"
+        ]),
+        ("Renunciation freely chosen", [
+            "only after",
+            "the kingdom was his"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp22/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-21.html">Cp 21 &mdash; Yudha&ntilde;jaya&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one in the Cariyapitaka.",
+        '<a href="cp-3.html">Cp 3 &mdash; Kur&umacr;r&amacr;ja&rsquo;s Conduct</a> '
+        "&mdash; another story set in Indapatta.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 23 — Ayoghara Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    23, "Ayoghara Cariy&amacr;", "Ayoghara&rsquo;s Conduct",
+    meta_title="Cp 23 — Ayoghara's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Ayoghara's "
+        "Conduct, the Cariyapitaka's story of a prince raised in confinement who "
+        "refuses the throne offered as compensation. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Renunciation (3rd of 5)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Prince Ayoghara of Kāsi"),
+        ("Speaker", "The Buddha, recounting his life as Ayoghara, addressing a crowd "
+                    "that has just offered him the throne"),
+        ("Form", "Ten four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a reflective refusal "
+                       "built on an unusual, unexplained childhood"),
+    ],
+    why=(
+        "This prince's name states his own origin plainly: Ayoghara, &lsquo;iron "
+        "house&rsquo;, raised in confinement for reasons the text never explains. When "
+        "the kingdom is offered to him as if it were compensation for that painful "
+        "childhood, he refuses it on grounds that go further than personal history "
+        "&mdash; a reflection on the vulnerability of every living creature, "
+        "regardless of birth or rank."),
+    guide=[
+        ("A childhood the text does not explain", [
+            "Ayoghara's name and history are stated as fact &mdash; raised in an iron "
+            "house, &lsquo;scarcely lit by sun or moon&rsquo; &mdash; without the text "
+            "offering any reason why. As with several other stories in this collection, "
+            "a striking premise is presented without its backstory."]),
+        ("A throne offered as if it could compensate", [
+            "The king's offer treats kingship as recompense: &lsquo;your life has been "
+            "a painful one, as you've been raised in confinement. Today, my son, rule "
+            "the entirety of this land.&rsquo; Ayoghara's answer does not accept that "
+            "framing."]),
+        ("An argument that reaches beyond his own case", [
+            "Rather than simply declining, Ayoghara generalizes his refusal into an "
+            "observation about everyone: &lsquo;all the creatures of this earth "
+            "&mdash; low, middle, or high &mdash; are unprotected in their own home, in "
+            "which they grew up with their families.&rsquo; His own confinement becomes "
+            "an unusually literal case of a vulnerability he says is universal."]),
+        ("A body found repugnant before any suffering caused by others", [
+            "Ayoghara's disillusionment does not stop at his own biography: he recalls "
+            "entering the world &lsquo;filled with rotting carcass&rsquo; from the "
+            "womb itself, before the iron house is even mentioned again &mdash; ordinary "
+            "birth described in the same register as his unusual confinement."]),
+    ],
+    terms=[
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the perfection this story illustrates, "
+         "the third of five stories on this theme."),
+        ("Ayoghara",
+         "&ldquo;iron house&rdquo; &mdash; this prince's own name, describing the "
+         "unexplained confinement of his childhood."),
+        ("Kāsi",
+         "the kingdom Ayoghara is the true-born son of the king of, the same kingdom "
+         "named in Cp 26's story of Temiya."),
+        ("nibbāna",
+         "&ldquo;quenching&rdquo; or &ldquo;extinguishment&rdquo; &mdash; named "
+         "directly as what Ayoghara says he will seek, where death will not reach "
+         "him."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-third."),
+    ],
+    text_intro=(
+        "The text in full: ten verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp23:1.1-1.4"),
+        ("p", "&sect;2", "cp23:2.1-2.4"),
+        ("p", "&sect;3", "cp23:3.1-3.4"),
+        ("p", "&sect;4", "cp23:4.1-4.4"),
+        ("p", "&sect;5", "cp23:5.1-5.4"),
+        ("p", "&sect;6", "cp23:6.1-6.4"),
+        ("p", "&sect;7", "cp23:7.1-7.4"),
+        ("p", "&sect;8", "cp23:8.1-8.4"),
+        ("p", "&sect;9", "cp23:9.1-9.4"),
+        ("p", "&sect;10", "cp23:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What does the name 'Ayoghara' mean, and what does it describe?",
+         "opts": [
+             "'Golden throne' — a symbol of his eventual kingship",
+             "'Iron house' — the unexplained confinement of his childhood",
+             "'Wise one' — a title earned through study",
+             "'Forest wanderer' — his life after leaving the palace"],
+         "correct": 1,
+         "expl": "A striking premise the text never explains."},
+        {"q": "How does the king frame his offer of the throne to Ayoghara?",
+         "opts": [
+             "As a test of his abilities",
+             "As compensation for his painful, confined childhood",
+             "As a punishment",
+             "No offer of the throne is made"],
+         "correct": 1,
+         "expl": "'Your life has been a painful one... today, my son, rule the entirety of this land.'"},
+        {"q": "How does Ayoghara's refusal go beyond simply declining the offer?",
+         "opts": [
+             "He does not explain his refusal at all",
+             "He generalizes it into an observation about all creatures being unprotected",
+             "He blames his father directly for his confinement",
+             "He demands a different kind of compensation"],
+         "correct": 1,
+         "expl": "His own literal confinement becomes a case of a vulnerability he calls universal."},
+        {"q": "What does Ayoghara say about his birth itself?",
+         "opts": [
+             "That it was a joyous, celebrated occasion",
+             "That he escaped his mother's womb 'filled with rotting carcass'",
+             "That he does not remember his own birth",
+             "Nothing is said about his birth"],
+         "correct": 1,
+         "expl": "Ordinary birth described in the same register as his unusual confinement."},
+        {"q": "What does Ayoghara say he will seek instead of kingship?",
+         "opts": [
+             "A different kingdom to rule",
+             "Quenching (nibbāna), where death will not crush him",
+             "Revenge against those who confined him",
+             "A simple life as a farmer"],
+         "correct": 1,
+         "expl": "Named directly as his goal."},
+        {"q": "What kingdom is Ayoghara the true-born son of, also named in Cp 26?",
+         "opts": [
+             "Indapatta",
+             "Kāsi",
+             "Mithilā",
+             "Kapilā"],
+         "correct": 1,
+         "expl": "The same kingdom as Cp 26's Temiya."},
+        {"q": "How does the crowd react as Ayoghara leaves for the forest?",
+         "opts": [
+             "With indifference",
+             "Wailing, as he departs like a bull elephant bursting his ropes",
+             "With celebration",
+             "No reaction is described"],
+         "correct": 1,
+         "expl": "A dramatic departure despite the crowd's grief."},
+        {"q": "What does Ayoghara explicitly deny as his reason for leaving?",
+         "opts": [
+             "That he disliked his parents or the great fame",
+             "That he wanted to rule elsewhere",
+             "That the kingdom was too small",
+             "Nothing is denied in this story"],
+         "correct": 0,
+         "expl": "The same denial-then-reason structure used throughout this collection."},
+        {"q": "How does this story compare to Cp 21's Yudhañjaya?",
+         "opts": [
+             "Both are triggered by an ordinary dewdrop",
+             "Both renounce kingship, but this story is built on an unusual, unexplained personal history rather than a small ordinary trigger",
+             "There is no meaningful comparison possible",
+             "Ayoghara refuses to renounce anything"],
+         "correct": 1,
+         "expl": "A different route to the same chapter's theme of renunciation."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Renunciation (nekkhamma), the third of five stories on this theme",
+             "Truth",
+             "Love"],
+         "correct": 1,
+         "expl": "Continuing the sequence of five renunciation-stories in this chapter."},
+    ],
+    marginalia=[
+        ("An iron house", [
+            "confinement never",
+            "explained by the text"
+        ]),
+        ("A throne as compensation", [
+            "offered, and",
+            "refused"
+        ]),
+        ("A universal vulnerability", [
+            "'low, middle, or high' —",
+            "all unprotected"
+        ]),
+        ("Seeking what death cannot reach", [
+            "quenching,",
+            "not kingship"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp23/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-22.html">Cp 22 &mdash; Somanassa&rsquo;s Conduct</a> &mdash; the '
+        "text immediately before this one in the Cariyapitaka.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 24 — Bhisa Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    24, "Bhisa Cariy&amacr;", "The Conduct of the Lotus-eaters",
+    meta_title="Cp 24 — The Conduct of the Lotus-eaters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for The Conduct of "
+        "the Lotus-eaters, the Cariyapitaka's story of an entire family choosing "
+        "renunciation together. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Renunciation (4th of 5)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as the eldest of eight siblings in "
+                    "Kāsi"),
+        ("Speaker", "The Buddha, recounting his life as the eldest sibling, with "
+                    "quoted dialogue from his family"),
+        ("Form", "Eight four-line verses of first-person narration"),
+        ("Length", "1&ndash;2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a quiet story about "
+                       "an unusually collective decision"),
+    ],
+    why=(
+        "This story's title refers to a detail this particular verse text never "
+        "actually mentions &mdash; the lotus roots the fuller tradition has this "
+        "family living on afterward. What this text does show is unusual on its own "
+        "terms: rather than one figure renouncing alone against family objection, an "
+        "entire household &mdash; two parents, eight children &mdash; chooses "
+        "renunciation together."),
+    guide=[
+        ("A title this text doesn't fully explain", [
+            "&lsquo;The Conduct of the Lotus-eaters&rsquo; names a detail from the "
+            "fuller telling of this story &mdash; presumably how the family sustains "
+            "itself once in the forest &mdash; that this particular verse text never "
+            "actually states. As elsewhere in this collection, the title points past "
+            "what the surviving verses cover."]),
+        ("An objection raised, and firmly declined", [
+            "When the eldest sibling refuses ordinary family life, the objection is "
+            "not hostile: friends and parents simply ask him to &lsquo;maintain the "
+            "family lineage&rsquo;. His refusal is nonetheless final, described as "
+            "&lsquo;hard for me to hear, like a heated ploughshare&rsquo; &mdash; the "
+            "discomfort running in both directions."]),
+        ("A family that follows rather than mourns", [
+            "Where Cp 21 and Cp 23 both show crowds wailing at a departure, this story "
+            "takes a different turn: on hearing of their son's decision, the parents "
+            "respond not with grief but with a proposal of their own &mdash; "
+            "&lsquo;sirs, let all of us go forth!&rsquo;"]),
+        ("Renunciation as a shared decision, not a solitary one", [
+            "The story closes with the entire family &mdash; mother, father, sister, "
+            "and seven brothers &mdash; discarding their wealth and entering the "
+            "forest together, a scale of collective renunciation not seen anywhere "
+            "else in this collection's other stories on the theme."]),
+    ],
+    terms=[
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the perfection this story illustrates, "
+         "the fourth of five stories on this theme."),
+        ("bhisa",
+         "&ldquo;lotus root&rdquo; or &ldquo;lotus fibre&rdquo; &mdash; the detail "
+         "behind this story's title, referring to material not covered in this "
+         "particular verse text."),
+        ("Kāsi",
+         "the kingdom named as this family's home, the same kingdom as Cp 23's "
+         "Ayoghara and Cp 26's Temiya."),
+        ("kula-vaṁsa",
+         "&ldquo;family lineage&rdquo; &mdash; what the eldest sibling's friends and "
+         "parents initially ask him to maintain, before the family's decision to "
+         "renounce together."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-fourth."),
+    ],
+    text_intro=(
+        "The text in full: eight verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp24:1.1-1.4"),
+        ("p", "&sect;2", "cp24:2.1-2.4"),
+        ("p", "&sect;3", "cp24:3.1-3.4"),
+        ("p", "&sect;4", "cp24:4.1-4.4"),
+        ("p", "&sect;5", "cp24:5.1-5.4"),
+        ("p", "&sect;6", "cp24:6.1-6.4"),
+        ("p", "&sect;7", "cp24:7.1-7.4"),
+        ("p", "&sect;8", "cp24:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What does this story's title, 'The Conduct of the Lotus-eaters', refer to?",
+         "opts": [
+             "A detail described in full within these verses",
+             "A detail from the fuller telling of the story that this particular verse text never actually states",
+             "A type of food the family refuses to eat",
+             "The name of the family's home village"],
+         "correct": 1,
+         "expl": "The title points past what the surviving verses actually cover."},
+        {"q": "How many siblings are described in this family?",
+         "opts": [
+             "Just one child, an only child",
+             "A sister and seven brothers — eight siblings total",
+             "Three siblings",
+             "The number is not specified"],
+         "correct": 1,
+         "expl": "The eldest sibling narrates the story."},
+        {"q": "How do the family and friends initially respond to the eldest sibling's refusal of ordinary life?",
+         "opts": [
+             "With immediate hostility and threats",
+             "By simply asking him to maintain the family lineage",
+             "By disowning him on the spot",
+             "They do not respond at all"],
+         "correct": 1,
+         "expl": "A gentle objection, though his refusal is firm nonetheless."},
+        {"q": "How does the eldest sibling describe hearing about the ordinary pleasures of householder life?",
+         "opts": [
+             "As pleasant and tempting",
+             "As 'hard for me to hear, like a heated ploughshare'",
+             "As irrelevant and unremarkable",
+             "He expresses no reaction at all"],
+         "correct": 1,
+         "expl": "Discomfort running in both directions."},
+        {"q": "How do the parents respond upon learning of their son's decision?",
+         "opts": [
+             "With grief and mourning, trying to change his mind",
+             "By proposing that the whole family go forth together",
+             "By disowning him immediately",
+             "They are indifferent to the news"],
+         "correct": 1,
+         "expl": "A notable departure from the wailing crowds in Cp 21 and Cp 23."},
+        {"q": "How does this story's ending differ from Cp 21's and Cp 23's?",
+         "opts": [
+             "It ends identically, with a solitary departure amid a grieving crowd",
+             "The entire family renounces together, rather than one figure departing alone",
+             "No one actually leaves in this story",
+             "The family is forcibly separated"],
+         "correct": 1,
+         "expl": "A scale of collective renunciation unique among this chapter's stories."},
+        {"q": "What do the family members discard before entering the forest?",
+         "opts": [
+             "Nothing; they keep all their possessions",
+             "Countless riches",
+             "Only their clothing",
+             "Their family name"],
+         "correct": 1,
+         "expl": "A complete departure from their former wealth."},
+        {"q": "What kingdom is this family's home, shared with Cp 23's Ayoghara and Cp 26's Temiya?",
+         "opts": [
+             "Indapatta",
+             "Kāsi",
+             "Mithilā",
+             "Videha"],
+         "correct": 1,
+         "expl": "A kingdom that recurs across several stories in this final chapter."},
+        {"q": "What does 'kula-vaṁsa' refer to in this story?",
+         "opts": [
+             "A type of lotus plant",
+             "'Family lineage' — what the eldest sibling is initially asked to maintain",
+             "A geographic region",
+             "A ritual ceremony"],
+         "correct": 1,
+         "expl": "The request made before the family's collective decision to renounce."},
+        {"q": "What perfection does this story illustrate?",
+         "opts": [
+             "Ethics",
+             "Renunciation (nekkhamma), the fourth of five stories on this theme",
+             "Truth",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "Continuing the sequence of five renunciation-stories in this chapter."},
+    ],
+    marginalia=[
+        ("A title left unexplained", [
+            "the lotus-eating itself",
+            "not described here"
+        ]),
+        ("A gentle objection", [
+            "'maintain the",
+            "family lineage'"
+        ]),
+        ("No mourning crowd", [
+            "the parents propose",
+            "joining him instead"
+        ]),
+        ("A family, not one figure", [
+            "eight siblings",
+            "and both parents"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp24/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-23.html">Cp 23 &mdash; Ayoghara&rsquo;s Conduct</a> &mdash; the '
+        "text immediately before this one, also set in Kāsi.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 25 — Soṇa Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    25, "So&#7751;a Cariy&amacr;", "So&#7751;a the Astute&rsquo;s Conduct",
+    meta_title="Cp 25 — Soṇa the Astute's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Soṇa the "
+        "Astute's Conduct, closing the Cariyapitaka's chapter on renunciation with a "
+        "brother who follows a brother's example. From Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Renunciation (5th of 5)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Soṇa, in the city of "
+                    "Brahmavaḍḍhana"),
+        ("Speaker", "The Buddha, recounting his life as Soṇa"),
+        ("Form", "Six four-line verses of first-person narration"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a specific matching "
+                              "text for this story in other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; short, closing the "
+                       "chapter on a quieter note than most of its stories"),
+    ],
+    why=(
+        "This story closes the Cariyapitaka's chapter on renunciation without a crisis "
+        "at all &mdash; no near-execution, no unexplained confinement, only a "
+        "wealthy family's eldest son who finds the world &lsquo;smothered in "
+        "darkness&rsquo;, and a younger brother, Nanda, who simply follows his lead."),
+    guide=[
+        ("A recoil from the world itself", [
+            "Soṇa's motivation is described in general terms rather than a specific "
+            "incident: seeing the world's &lsquo;many forms of wickedness&rsquo;, his "
+            "mind recoils from rebirth &lsquo;as if harshly pricked by a goad&rsquo; "
+            "&mdash; closer to Cp 21's quiet dewdrop than to Cp 22's violent crisis."]),
+        ("An invitation declined plainly", [
+            "As in Cp 24, relatives invite Soṇa to enjoy sensual pleasures; his reply "
+            "is direct rather than argued at length: &lsquo;do not invite me to such "
+            "things!&rsquo;"]),
+        ("A younger brother who follows, not just a family that joins", [
+            "Where Cp 24 showed an entire family departing at once on the parents' own "
+            "initiative, here a single sibling, Nanda, chooses independently to follow "
+            "Soṇa's example &mdash; a smaller-scale but still notably social version of "
+            "renunciation, neither entirely solitary nor a whole household's decision."]),
+        ("A chapter of five stories, five different routes to the same theme", [
+            "Read together, this chapter's five stories show renunciation reached by "
+            "very different roads: a dewdrop, a false accusation survived, an "
+            "unexplained confinement, a family's shared decision, and here, a general "
+            "disillusionment joined by a brother &mdash; the same destination, arrived "
+            "at differently each time."]),
+    ],
+    terms=[
+        ("nekkhamma",
+         "&ldquo;renunciation&rdquo; &mdash; the perfection this story illustrates, "
+         "closing this chapter's five stories on the theme."),
+        ("Brahmavaḍḍhana",
+         "the city named as Soṇa's home."),
+        ("Nanda",
+         "Soṇa's younger brother, who follows his ethical practice and also chooses "
+         "to go forth."),
+        ("cariyā",
+         "&ldquo;conduct&rdquo; &mdash; this collection's title, and the word used for "
+         "each of its thirty-five stories, this one its twenty-fifth."),
+        ("pabbajjā",
+         "&ldquo;going forth&rdquo; &mdash; the act Soṇa, Nanda, and both their "
+         "parents undertake together at this story's close."),
+    ],
+    text_intro=(
+        "The text in full: six verses of first-person narration. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "cp25:1.1-1.4"),
+        ("p", "&sect;2", "cp25:2.1-2.4"),
+        ("p", "&sect;3", "cp25:3.1-3.4"),
+        ("p", "&sect;4", "cp25:4.1-4.4"),
+        ("p", "&sect;5", "cp25:5.1-5.4"),
+        ("p", "&sect;6", "cp25:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What motivates Soṇa's turn toward renunciation?",
+         "opts": [
+             "A specific violent crisis, like Cp 22's false accusation",
+             "A general recoil from the world's 'many forms of wickedness'",
+             "An order from his father",
+             "No motivation is given"],
+         "correct": 1,
+         "expl": "Closer to Cp 21's quiet dewdrop than to a dramatic incident."},
+        {"q": "How does Soṇa respond when relatives invite him to sensual pleasures?",
+         "opts": [
+             "He accepts, then changes his mind later",
+             "Directly: 'Do not invite me to such things!'",
+             "He says nothing and simply leaves",
+             "He argues at length about the dangers of pleasure"],
+         "correct": 1,
+         "expl": "A plain refusal rather than an extended argument."},
+        {"q": "Who is Nanda, and what does he do?",
+         "opts": [
+             "Soṇa's father, who forbids his renunciation",
+             "Soṇa's younger brother, who independently chooses to follow his example",
+             "A stranger Soṇa meets on the road",
+             "A king who offers Soṇa a kingdom"],
+         "correct": 1,
+         "expl": "Following Soṇa's ethical practice and also going forth."},
+        {"q": "How does this story's family departure differ from Cp 24's?",
+         "opts": [
+             "It is identical — the whole family departs at once, on the parents' initiative",
+             "Here a single sibling follows independently, rather than the whole family departing together at once",
+             "No one else joins Soṇa in this story",
+             "Soṇa is the only character in the text"],
+         "correct": 1,
+         "expl": "A smaller-scale, still social version of renunciation."},
+        {"q": "What is Soṇa's home city, as named in this text?",
+         "opts": [
+             "Indapatta",
+             "Brahmavaḍḍhana",
+             "Kāsi",
+             "Kapilā"],
+         "correct": 1,
+         "expl": "Named at the story's opening."},
+        {"q": "How does this story characterize the chapter's five stories on renunciation, taken together?",
+         "opts": [
+             "All five reach renunciation through an identical crisis",
+             "Five different routes arriving at the same destination",
+             "Only this story actually results in renunciation",
+             "The five stories contradict each other"],
+         "correct": 1,
+         "expl": "A dewdrop, a survived accusation, an unexplained confinement, a family decision, and a general disillusionment."},
+        {"q": "What ultimately happens to Soṇa's whole family?",
+         "opts": [
+             "They remain in the city, unchanged",
+             "Soṇa, Nanda, and both parents discard their riches and enter the forest",
+             "Only Soṇa leaves; the rest of the family stays behind",
+             "The family is separated by force"],
+         "correct": 1,
+         "expl": "The story's closing verse."},
+        {"q": "What perfection does this story illustrate, and what position does it hold in this chapter?",
+         "opts": [
+             "Ethics, opening the second chapter",
+             "Renunciation (nekkhamma), the fifth and final story of this theme",
+             "Truth, the first of six stories",
+             "Resolve, the chapter's only story on this theme"],
+         "correct": 1,
+         "expl": "Closing this chapter's five stories on renunciation."},
+        {"q": "What perfection does the next chapter section move to, beginning with Cp 26?",
+         "opts": [
+             "Giving",
+             "Resolve (adhiṭṭhāna)",
+             "Ethics",
+             "Equanimity"],
+         "correct": 1,
+         "expl": "A single story illustrating this theme, Temiya's Conduct."},
+        {"q": "What does 'pabbajjā' mean?",
+         "opts": [
+             "'Going forth' — the formal act of renunciation",
+             "'Kingship'",
+             "'False accusation'",
+             "'Family lineage'"],
+         "correct": 0,
+         "expl": "The act Soṇa, Nanda, and their parents undertake together."},
+    ],
+    marginalia=[
+        ("A general disillusionment", [
+            "no single crisis,",
+            "just a recoil"
+        ]),
+        ("A plain refusal", [
+            "'do not invite me",
+            "to such things'"
+        ]),
+        ("A brother follows", [
+            "Nanda joins",
+            "independently"
+        ]),
+        ("Five stories, one theme", [
+            "different roads,",
+            "the same destination"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp25/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-24.html">Cp 24 &mdash; The Conduct of the Lotus-eaters</a> '
+        "&mdash; the text immediately before this one, closing the chapter on "
+        "renunciation.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+        '<a href="../sutta-nipata/">Sutta Nipāta</a> &mdash; another complete Khuddaka '
+        "Nikāya collection, entirely in verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Cp 26 — Temiya Cariyā
+# --------------------------------------------------------------------------- #
+page(
+    26, "Temiya Cariy&amacr;", "Temiya&rsquo;s Conduct",
+    meta_title="Cp 26 — Temiya's Conduct | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for Temiya's "
+        "Conduct, the Cariyapitaka's sole story on the perfection of resolve — a "
+        "prince who feigns disability for sixteen years to escape a throne. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Chapter With Yudhañjaya &middot; The Perfection of Resolve (1 of 1)",
+    glance=[
+        ("Setting", "No external narrative frame; the Buddha speaks in the first "
+                    "person about his past life as Prince Temiya, also called "
+                    "Mūgapakkha, of Kāsi"),
+        ("Speaker", "The Buddha, recounting his life as Temiya, with quoted counsel "
+                    "from a goddess"),
+        ("Form", "Nineteen verses of first-person narration"),
+        ("Length", "3&ndash;4 minutes to read"),
+        ("Northern parallel", "Temiya is the subject of his own jātaka, traditionally "
+                              "counted among the same well-known set of the last ten "
+                              "jātakas as Cp 12's Bhūridatta; this reading guide does "
+                              "not assert further specific correspondences beyond that "
+                              "general association."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a long, difficult "
+                       "story sustained over sixteen years within the narrative"),
+    ],
+    why=(
+        "This is the Cariyapitaka's only story on the perfection of resolve, and it "
+        "earns the distinction: a baby prince, terrified by a vision recalling a past "
+        "life in which holding the royal umbrella led him to hell, spends sixteen "
+        "years pretending to be deaf, dumb, and crippled &mdash; maintaining the "
+        "deception through testing, public humiliation, and finally being taken out "
+        "to be buried alive, all to avoid inheriting a throne he fears will damn him "
+        "again."),
+    guide=[
+        ("A vision from a single glimpse", [
+            "Waking as an infant and seeing the pale umbrella held over his bed, "
+            "Temiya is struck with the memory &lsquo;by which I had gone to hell&rsquo; "
+            "in a previous life &mdash; the umbrella representing not comfort but the "
+            "kingship that led to his own past ruin."]),
+        ("A goddess's counsel, accepted at once", [
+            "A goddess who was once his relation advises a specific strategy: appear "
+            "as a fool, let everyone scorn him, and this will achieve his goal. Temiya "
+            "does not hesitate or negotiate; he resolves immediately on three factors "
+            "&mdash; deafness, muteness, and paralysis &mdash; and holds to them for "
+            "sixteen years."]),
+        ("Tested, and never breaking character", [
+            "The court eventually tests him physically, rubbing his limbs and senses "
+            "for any sign of feeling or awareness, and finding none, denounces him "
+            "with the epithet &lsquo;black-ear&rsquo; &mdash; a term of contempt, not "
+            "concern, met by Temiya with private elation rather than distress: his "
+            "resolve has succeeded exactly as intended."]),
+        ("Discarded, then taken to be buried alive", [
+            "Written off as unfit to inherit the throne, Temiya is first paraded "
+            "through the city for seven days &mdash; the very ceremony of an heir "
+            "apparent, performed over someone about to be discarded &mdash; then taken "
+            "by chariot to the forest, where a charioteer begins digging a pit to bury "
+            "him in the ground."]),
+        ("A resolve held to the story's very edge", [
+            "This particular verse text ends without narrating what happens once the "
+            "pit is dug: the final verses state only that Temiya, afraid of breaking "
+            "any of his many resolves, did not break this one either. As with several "
+            "other stories in this collection, the resolution &mdash; what becomes of "
+            "him at the graveside &mdash; is left to the fuller Jātaka tradition "
+            "outside this text."]),
+    ],
+    terms=[
+        ("adhiṭṭhāna",
+         "&ldquo;resolve&rdquo; or &ldquo;determination&rdquo; &mdash; the perfection "
+         "this story illustrates, the only one of the ten traditional perfections to "
+         "receive just a single dedicated story in this particular collection."),
+        ("Mūgapakkha",
+         "&ldquo;dumb cripple&rdquo; &mdash; the name given Temiya once his feigned "
+         "disability convinces the court, contrasted with &lsquo;Temiya&rsquo; itself."),
+        ("Kāsi",
+         "the kingdom Temiya is the true-born son of the king of, the same kingdom as "
+         "Cp 23's Ayoghara and Cp 24's family of lotus-eaters."),
+        ("devatā",
+         "&ldquo;goddess&rdquo; or &ldquo;deity&rdquo; &mdash; the former relation of "
+         "Temiya's who advises the strategy of feigned disability."),
+        ("Temiya Jātaka",
+         "the fuller version of this story in the separate Jātaka tradition, "
+         "traditionally counted among a well-known set of the last ten jātakas."),
+    ],
+    text_intro=(
+        "The text in full: nineteen verses, the Cariyapitaka's only story on the "
+        "perfection of resolve. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A vision from a single glimpse"),
+        ("p", "&sect;1", "cp26:1.1-1.4"),
+        ("p", "&sect;2", "cp26:2.1-2.4"),
+        ("p", "&sect;3", "cp26:3.1-3.4"),
+        ("p", "&sect;4", "cp26:4.1-4.4"),
+        ("p", "&sect;5", "cp26:5.1-5.4"),
+        ("h3", "A goddess's counsel"),
+        ("p", "&sect;6", "cp26:6.1-6.4"),
+        ("p", "&sect;7", "cp26:7.1-7.4"),
+        ("p", "&sect;8", "cp26:8.1-8.6"),
+        ("p", "&sect;9", "cp26:9.1-9.4"),
+        ("h3", "Sixteen years, and a test"),
+        ("p", "&sect;10", "cp26:10.1-10.4"),
+        ("p", "&sect;11", "cp26:11.1-11.4"),
+        ("p", "&sect;12", "cp26:12.1-12.4"),
+        ("p", "&sect;13", "cp26:13.1-13.4"),
+        ("h3", "Paraded, then taken to the forest"),
+        ("p", "&sect;14", "cp26:14.1-14.4"),
+        ("p", "&sect;15", "cp26:15.1-15.4"),
+        ("p", "&sect;16", "cp26:16.1-16.4"),
+        ("h3", "A resolve held to the edge of the story"),
+        ("p", "&sect;17", "cp26:17.1-17.4"),
+        ("p", "&sect;18", "cp26:18.1-18.4"),
+        ("p", "&sect;19", "cp26:19.1-19.4"),
+    ],
+    quiz=[
+        {"q": "What triggers Temiya's terror as an infant?",
+         "opts": [
+             "A nightmare with no clear cause",
+             "Seeing the royal umbrella, and recalling a past life in which it led him to hell",
+             "A prophecy delivered by a court astrologer",
+             "Witnessing a battle"],
+         "correct": 1,
+         "expl": "The umbrella representing the kingship that led to his own past ruin."},
+        {"q": "What strategy does the goddess advise Temiya to adopt?",
+         "opts": [
+             "Openly refuse the throne and argue his case",
+             "Appear as a fool, deaf and dumb, so everyone will scorn and discard him",
+             "Flee the kingdom immediately",
+             "Challenge his father to a contest"],
+         "correct": 1,
+         "expl": "A strategy Temiya accepts and resolves on immediately."},
+        {"q": "How long does Temiya maintain his feigned disability?",
+         "opts": [
+             "One year",
+             "Sixteen years",
+             "A single day",
+             "His whole life, without ever being tested"],
+         "correct": 1,
+         "expl": "Resolved on three factors: deafness, muteness, and paralysis."},
+        {"q": "How does the court test whether Temiya's disability is genuine?",
+         "opts": [
+             "By asking him direct questions",
+             "By physically rubbing his limbs and senses for any reaction",
+             "By observing him in secret for a single day",
+             "No test is ever performed"],
+         "correct": 1,
+         "expl": "Finding no reaction, they denounce him as 'black-ear'."},
+        {"q": "How does Temiya react to being denounced and discarded?",
+         "opts": [
+             "With visible distress and protest",
+             "With private elation — his resolve had succeeded exactly as intended",
+             "By finally revealing the truth",
+             "With no reaction described at all"],
+         "correct": 1,
+         "expl": "The scorn is precisely the outcome he had been working toward."},
+        {"q": "What happens before Temiya is taken to the forest to be buried?",
+         "opts": [
+             "He is immediately exiled with no ceremony",
+             "He is bathed, oiled, and paraded through the city for seven days as an heir apparent",
+             "He is put on trial",
+             "He escapes before any further action is taken"],
+         "correct": 1,
+         "expl": "A ceremony performed over someone about to be discarded."},
+        {"q": "What is the charioteer doing when this particular text's narrative ends?",
+         "opts": [
+             "Driving Temiya back to the palace",
+             "Digging a pit in the forest to bury Temiya in the ground",
+             "Releasing Temiya and departing",
+             "Nothing; the charioteer never appears"],
+         "correct": 1,
+         "expl": "The story's final narrative image before the closing reflection."},
+        {"q": "Does this text narrate what happens once the pit is dug?",
+         "opts": [
+             "Yes, in full detail",
+             "No — the resolution is left to the fuller Jātaka tradition outside this text",
+             "Temiya is described as dying at this point",
+             "The text explains it through a lengthy epilogue"],
+         "correct": 1,
+         "expl": "A gap consistent with several other verse-only stories in this collection."},
+        {"q": "What is Temiya's other name, given once his disability convinces the court?",
+         "opts": [
+             "Mūgapakkha, 'dumb cripple'",
+             "Kururāja",
+             "Somanassa",
+             "Ayoghara"],
+         "correct": 0,
+         "expl": "Contrasted with 'Temiya' itself."},
+        {"q": "What wider tradition is Temiya's story associated with?",
+         "opts": [
+             "No other tradition mentions this figure",
+             "His own jātaka, counted among a well-known set of the last ten jātakas",
+             "A canonical discourse to King Ajātasattu",
+             "The Petavatthu"],
+         "correct": 1,
+         "expl": "The same set that includes Cp 12's Bhūridatta."},
+    ],
+    marginalia=[
+        ("A vision from an umbrella", [
+            "a past life",
+            "that led to hell"
+        ]),
+        ("Sixteen years feigned", [
+            "deaf, dumb,",
+            "and crippled"
+        ]),
+        ("Denounced, and elated", [
+            "scorn was",
+            "the goal itself"
+        ]),
+        ("A pit being dug", [
+            "the story ends",
+            "before the resolution"
+        ]),
+    ],
+    further=[
+        '<a href="%s/cp26/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="cp-25.html">Cp 25 &mdash; So&#7751;a the Astute&rsquo;s Conduct</a> '
+        "&mdash; the text immediately before this one, closing the chapter on "
+        "renunciation.",
+        '<a href="cp-12.html">Cp 12 &mdash; The Dragon Bh&umacr;ridatta&rsquo;s '
+        "Conduct</a> &mdash; another story from the same traditional set of the last "
+        "ten jātakas.",
+        '<a href="../dhammapada/">Dhammapada</a> &mdash; another complete Khuddaka Nikāya '
+        "collection on this site.",
+    ],
+)
