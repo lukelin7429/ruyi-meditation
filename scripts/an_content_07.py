@@ -7,11 +7,10 @@ INDEX_HEADING = "Sattaka Nipāta — The Sevens"
 # an-7.6.html was published before this series began working in order, in the
 # earlier eighteen-page selection; it is listed in the index by INDEX_EXTRA
 # and is not regenerated here. HEAD points at the last page the Sixes module
-# reached. TAIL points at the nearest already-published page beyond the
-# Sevens -- an-8.30.html, from the same earlier selection -- until the
-# Eights module exists and TAIL can move to its own first page.
+# reached. TAIL now points at the Eights module's own first page, an-8.1.html,
+# since AN 8 (the Book of the Eights) is complete.
 HEAD = ("an-6.170-649.html", "AN 6.170&ndash;649 &middot; Insight into Hate, and So On")
-TAIL = ("an-8.30.html", "AN 8.30 &middot; Anuruddha and the Great Thoughts")
+TAIL = ("an-8.1.html", "AN 8.1 &middot; The Benefits of Love")
 INDEX_EXTRA = [
     ("an-7.6", "Vitthatadhana", "Wealth in Detail"),
 ]

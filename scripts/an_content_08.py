@@ -18081,3 +18081,1069 @@ PAGES.append({
         "elsewhere in this book through a different teaching.",
     ],
 })
+
+
+VAGGA_11 = "<em>Rāgapeyyāla</em> &mdash; the eleventh and final chapter of the Eights"
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.118 — Untitled Discourse on Greed (1st) -- opens ch.11 Rāgapeyyāla.
+# The three individual pages opening this closing peyyāla don't introduce
+# new content, unlike AN 6/7's own Rāgapeyyāla openers -- they call back to
+# three of this exact nipāta's own signature eightfold lists: the noble
+# eightfold path (AN 8.34), the eight dimensions of mastery (AN 8.65), and
+# the eight liberations (AN 8.66).
+# --------------------------------------------------------------------------- #
+page(
+    118, "Rāga", "Untitled Discourse on Greed (1st)",
+    vagga=VAGGA_11,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_11,
+    meta_title="AN 8.118 — Untitled Discourse on Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "discourse opening this book's final chapter: for insight into "
+        "greed, the noble eightfold path should be developed — the same "
+        "eight factors already met throughout this nipāta, now serving as "
+        "the vehicle for its own closing peyyāla. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single terse statement naming the noble eightfold path "
+                 "as what develops insight into greed"),
+        ("Length", "a few seconds to read"),
+        ("A callback, not new content", "Unlike this book's earlier "
+                                        "Rāgapeyyāla precedents in other "
+                                        "nipātas, which opened with fresh "
+                                        "material, this discourse simply "
+                                        "restates the noble eightfold "
+                                        "path already met throughout this "
+                                        "book, most recently mapped onto "
+                                        "a field simile at AN 8.34"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and entirely familiar, its significance lying in "
+                       "what it opens rather than what it says"),
+    ],
+    why=(
+        "AN 8.118 opens this book's final chapter by naming the noble "
+        "eightfold path &mdash; right view, purpose, speech, action, "
+        "livelihood, effort, mindfulness, and immersion &mdash; as what "
+        "should be developed for insight into greed, the first of three "
+        "eightfold lists this closing chapter will multiply against an "
+        "extensive peyyāla of defilements and verbs."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, the noble eightfold path &mdash; "
+            "right view, right purpose, right speech, right action, right "
+            "livelihood, right effort, right mindfulness, and right "
+            "immersion &mdash; should be developed, the same eight "
+            "factors this book has named repeatedly since AN 8.34's own "
+            "field simile."]),
+        ("Opening a chapter with familiar material, not new content", [
+            "Where this book's earlier chapters typically open with a "
+            "discourse introducing something the chapter will then "
+            "explore, this discourse and the two immediately following it "
+            "instead call back to three eightfold lists already fully "
+            "established elsewhere in this exact nipāta &mdash; the "
+            "closing peyyāla builds from what this book has already "
+            "taught, not from anything new."]),
+        ("The first of three lists this chapter will multiply", [
+            "AN 8.118, 8.119, and 8.120 each name a different eightfold "
+            "list in full &mdash; the noble eightfold path here, the "
+            "eight dimensions of mastery next, and the eight liberations "
+            "after that &mdash; establishing the three &ldquo;eights&rdquo; "
+            "that the chapter's enormous closing peyyāla will run against "
+            "a full inventory of defilements."]),
+        ("Greed, named first among the defilements to come", [
+            "This discourse's own title names greed (rāga) specifically, "
+            "the defilement that gives this entire closing chapter its "
+            "name, Rāgapeyyāla. The chapter's later merged pages will "
+            "extend the identical formula to sixteen further defilements "
+            "in turn, but greed itself opens the sequence."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the discourse's "
+         "own opening phrase, naming the defilement that gives this "
+         "entire chapter its title, Rāgapeyyāla."),
+        ("sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, "
+         "sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi",
+         "the noble eightfold path in full, the identical eight factors "
+         "already met throughout this book, most recently mapped onto a "
+         "field simile at AN 8.34."),
+        ("aṭṭha dhammā bhāvetabbā",
+         "&ldquo;eight things should be developed&rdquo; &mdash; the "
+         "discourse's own recurring formula, repeated identically across "
+         "AN 8.118, 8.119, and 8.120 with only the named eightfold list "
+         "changing."),
+        ("rāgapeyyālaṁ",
+         "&ldquo;abbreviated texts beginning with greed&rdquo; &mdash; "
+         "this chapter's own title, naming both its opening defilement "
+         "and its method of textual compression."),
+        ("ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; the standard "
+         "name for the eight factors listed here, though not used as a "
+         "single compound term within this particular discourse's own "
+         "wording."),
+    ],
+    text_intro=(
+        "The discourse in full: the noble eightfold path, named as what "
+        "develops insight into greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The noble eightfold path, for insight into greed"),
+        ("p", "&sect;1", "an8.118:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What eightfold list does this discourse name as developing "
+              "insight into greed?",
+         "opts": [
+             "The eight liberations",
+             "The noble eightfold path — right view through right "
+             "immersion",
+             "The eight dimensions of mastery",
+             "The eight worldly conditions"],
+         "correct": 1,
+         "expl": "The same eight factors already met throughout this "
+                 "book, most recently at AN 8.34."},
+        {"q": "How does this discourse's opening approach differ from "
+              "most of this book's other chapter openers?",
+         "opts": [
+             "It introduces entirely new content",
+             "It calls back to an eightfold list already fully "
+             "established elsewhere in this exact nipāta, rather than "
+             "introducing something new",
+             "It has no relation to anything else in this book",
+             "It contradicts earlier teachings"],
+         "correct": 1,
+         "expl": "A closing chapter built from material this book has "
+                 "already taught."},
+        {"q": "What does this chapter's own title, Rāgapeyyāla, name?",
+         "opts": [
+             "A location in India",
+             "The defilement (greed) that opens the sequence, and the "
+             "method of textual compression this chapter uses",
+             "A specific meditation technique",
+             "A monastic robe color"],
+         "correct": 1,
+         "expl": "Both the opening defilement and the chapter's own "
+                 "compression method."},
+        {"q": "What role do AN 8.118, 8.119, and 8.120 play together?",
+         "opts": [
+             "They contradict each other",
+             "Each names a different eightfold list in full, establishing "
+             "what the chapter's enormous closing peyyāla will later "
+             "multiply against many further defilements",
+             "They are unrelated to the rest of the chapter",
+             "Only one of the three is actually used later"],
+         "correct": 1,
+         "expl": "Three foundational eightfold lists, each fully stated "
+                 "before the peyyāla compression begins."},
+        {"q": "Which specific discourse earlier in this book most recently "
+              "mapped the noble eightfold path onto a simile?",
+         "opts": [
+             "AN 8.13, the thoroughbred simile",
+             "AN 8.34, the field simile",
+             "AN 8.66, the liberations",
+             "AN 8.11, Verañjā"],
+         "correct": 1,
+         "expl": "The field simile, mapping the eightfold path reversed "
+                 "and upright onto a gift's fruitfulness."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching several other discourses in "
+                 "this book."},
+    ],
+    marginalia=[
+        ("The eightfold path, again", [
+            "right view through right immersion —",
+            "the same eight this book",
+            "has named since AN 8.34",
+        ]),
+        ("Opening on familiar ground", [
+            "not new content, but a callback —",
+            "this closing chapter builds",
+            "from what's already been taught",
+        ]),
+        ("Three eights, before the multiplying begins", [
+            "the path, then mastery,",
+            "then the liberations —",
+            "each stated whole, before compression",
+        ]),
+        ("Cross-references", [
+            "AN 8.91&ndash;117 &middot; earlier, closing the previous "
+            "chapter",
+            "AN 8.34 &middot; earlier, this same eightfold path mapped "
+            "onto a field simile",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.118/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.91-117.html">AN 8.91&ndash;117 &middot; Twenty-Seven Laywomen on '
+        "the Sabbath</a> &mdash; earlier, closing the previous chapter.",
+        '<a href="an-8.34.html">AN 8.34 &middot; A Field</a> &mdash; earlier, this same '
+        "eightfold path mapped onto a field simile.",
+        '<a href="an-8.119.html">AN 8.119 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.119 — Untitled Discourse on Greed (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    119, "Rāga", "Untitled Discourse on Greed (2nd)",
+    vagga=VAGGA_11,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_11,
+    meta_title="AN 8.119 — Untitled Discourse on Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "second of this closing chapter's three foundational lists: the "
+        "eight dimensions of mastery, already met in full at AN 8.65, now "
+        "serving as the second vehicle for insight into greed. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The eight dimensions of mastery restated in full, "
+                 "compressed internally by ellipsis between the first and "
+                 "last of the eight"),
+        ("Length", "under 1 minute to read"),
+        ("The second of three callbacks", "Following AN 8.118's noble "
+                                          "eightfold path, this discourse "
+                                          "restates AN 8.65's eight "
+                                          "dimensions of mastery word for "
+                                          "word, the second of three "
+                                          "eightfold lists this chapter "
+                                          "will multiply against a full "
+                                          "inventory of defilements"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.65, worth reading "
+                       "alongside it rather than as new material"),
+    ],
+    why=(
+        "AN 8.119 names the eight dimensions of mastery &mdash; already "
+        "met in full at AN 8.65 &mdash; as the second eightfold list "
+        "developed for insight into greed, restating internal and "
+        "external form-perception crossed with limited and limitless "
+        "scope, then the four pure-color dimensions closing the sequence."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight dimensions of mastery over perceived form &mdash; "
+            "internal or absent internal perception crossed with limited "
+            "or limitless external forms, and the four pure colors, blue, "
+            "yellow, red, white &mdash; are named here, word for word as "
+            "at AN 8.65, as the second of three eightfold lists this "
+            "closing chapter develops for insight into greed."]),
+        ("The identical content as AN 8.65, compressed internally", [
+            "This discourse's own text spells out the first dimension "
+            "and the eighth in full, compressing the six dimensions "
+            "between them by internal ellipsis &mdash; a self-"
+            "abbreviation within a single discourse, distinct from the "
+            "chapter-level peyyāla compression that follows in AN "
+            "8.121&ndash;147 and 8.148&ndash;627."]),
+        ("The second of three foundational lists", [
+            "Alongside AN 8.118's noble eightfold path and AN 8.120's "
+            "eight liberations, this discourse's eight dimensions of "
+            "mastery complete the set of three eightfold structures this "
+            "chapter's enormous closing peyyāla will run against sixteen "
+            "further defilements in the pages immediately following."]),
+        ("Mastery as a vehicle for insight into greed specifically", [
+            "Applying the eight dimensions of mastery &mdash; a "
+            "meditation topic concerned with active control over "
+            "perceived form &mdash; specifically to insight into greed "
+            "makes a quiet point: the same disciplined mastery that lets "
+            "a meditator control what they perceive can be turned "
+            "directly toward understanding and dismantling the "
+            "defilement of greed itself."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical "
+         "opening phrase as AN 8.118, now applied to the eight dimensions "
+         "of mastery."),
+        ("ajjhattaṁ rūpasaññī bahiddhā rūpāni passati parittāni",
+         "&ldquo;perceiving form internally, they see forms externally, "
+         "limited&rdquo; &mdash; the first dimension, spelled out in full "
+         "as at AN 8.65."),
+        ("nīlāni nīlavaṇṇāni nīlanidassanāni",
+         "&ldquo;blue, with blue color and blue appearance&rdquo; "
+         "&mdash; part of the compressed color-dimension sequence, "
+         "identical to AN 8.65's own fifth through eighth dimensions."),
+        ("abhibhuyya jānāmi passāmī'ti saññī hoti",
+         "&ldquo;mastering them, they perceive: 'I know and see'&rdquo; "
+         "&mdash; the identical closing declaration as AN 8.65, "
+         "emphasizing active mastery over what's perceived."),
+        ("aṭṭha dhammā bhāvetabbā",
+         "&ldquo;eight things should be developed&rdquo; &mdash; the "
+         "shared closing formula across AN 8.118, 8.119, and 8.120 "
+         "alike."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight dimensions of mastery, "
+        "restated for insight into greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The eight dimensions of mastery, for insight into greed"),
+        ("p", "&sect;1", "an8.119:1.1-1.13"),
+    ],
+    quiz=[
+        {"q": "What eightfold list does this discourse restate, already "
+              "met in full elsewhere in this book?",
+         "opts": [
+             "The eight liberations",
+             "The eight dimensions of mastery, already met at AN 8.65",
+             "The noble eightfold path",
+             "The eight worldly conditions"],
+         "correct": 1,
+         "expl": "Word for word the same content as AN 8.65, now applied "
+                 "to insight into greed."},
+        {"q": "How does this discourse compress its own content compared "
+              "to AN 8.65?",
+         "opts": [
+             "It expands with new detail",
+             "It spells out the first and eighth dimensions in full, "
+             "compressing the six between them by internal ellipsis",
+             "It omits the color dimensions entirely",
+             "It states all eight dimensions in complete detail"],
+         "correct": 1,
+         "expl": "A self-abbreviation within a single discourse, distinct "
+                 "from the chapter-level peyyāla that follows."},
+        {"q": "What role does this discourse play among AN 8.118, 8.119, "
+              "and 8.120?",
+         "opts": [
+             "The first of three foundational lists",
+             "The second of three foundational lists this chapter's "
+             "closing peyyāla will later multiply against many "
+             "defilements",
+             "An unrelated aside",
+             "The final and largest of the three"],
+         "correct": 1,
+         "expl": "The middle of three eightfold structures established "
+                 "before the peyyāla compression begins."},
+        {"q": "According to the guide, what point does applying the eight "
+              "dimensions of mastery to greed specifically make?",
+         "opts": [
+             "That mastery and insight into greed are unrelated",
+             "That the same disciplined mastery over perceived form can "
+             "be turned directly toward understanding and dismantling "
+             "greed itself",
+             "That greed cannot actually be overcome",
+             "That mastery practices should be avoided"],
+         "correct": 1,
+         "expl": "A meditation topic concerned with control over "
+                 "perception, applied to a specific defilement."},
+        {"q": "What are the four pure colors closing the sequence, as at "
+              "AN 8.65?",
+         "opts": [
+             "Green, purple, orange, and black",
+             "Blue, yellow, red, and white",
+             "Gold, silver, bronze, and copper",
+             "Pink, brown, gray, and tan"],
+         "correct": 1,
+         "expl": "The identical four color dimensions as AN 8.65."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.118's own lack of a "
+                 "stated setting."},
+    ],
+    marginalia=[
+        ("Mastery, restated for greed", [
+            "the same eight dimensions",
+            "as AN 8.65 — internal,",
+            "external, limited, four colors",
+        ]),
+        ("Compressed within one discourse", [
+            "first and eighth spelled out,",
+            "six between them elided —",
+            "a smaller-scale abbreviation",
+        ]),
+        ("The second of three lists", [
+            "path, then mastery, then",
+            "liberation — three eights",
+            "the chapter will soon multiply",
+        ]),
+        ("Cross-references", [
+            "AN 8.118 &middot; previous, the noble eightfold path for "
+            "insight into greed",
+            "AN 8.65 &middot; earlier, this same list in its original "
+            "context",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.119/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.118.html">AN 8.118 &middot; Untitled Discourse on Greed (1st)</a> '
+        "&mdash; previous.",
+        '<a href="an-8.65.html">AN 8.65 &middot; Dimensions of Mastery</a> &mdash; earlier, '
+        "this same list in its original context.",
+        '<a href="an-8.120.html">AN 8.120 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.120 — Untitled Discourse on Greed (3rd)
+# --------------------------------------------------------------------------- #
+page(
+    120, "Rāga", "Untitled Discourse on Greed (3rd)",
+    vagga=VAGGA_11,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_11,
+    meta_title="AN 8.120 — Untitled Discourse on Greed (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "third of this closing chapter's three foundational lists: the "
+        "eight liberations, already met in full at AN 8.66, completing "
+        "the set of three eightfold structures this chapter's enormous "
+        "peyyāla will multiply. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The eight liberations restated in full, entirely "
+                 "compressed by internal ellipsis apart from the opening "
+                 "formula"),
+        ("Length", "under 1 minute to read"),
+        ("The third and final foundational callback", "Completing AN "
+                                                       "8.118's noble "
+                                                       "eightfold path and "
+                                                       "AN 8.119's eight "
+                                                       "dimensions of "
+                                                       "mastery, this "
+                                                       "discourse restates "
+                                                       "AN 8.66's eight "
+                                                       "liberations, "
+                                                       "closing the set of "
+                                                       "three lists this "
+                                                       "chapter's peyyāla "
+                                                       "will run against "
+                                                       "sixteen further "
+                                                       "defilements"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "identical content to AN 8.66, its real "
+                       "significance lying in completing this trio of "
+                       "foundational lists"),
+    ],
+    why=(
+        "AN 8.120 names the eight liberations &mdash; already met in "
+        "full at AN 8.66, from ordinary form-perception through the four "
+        "formless dimensions to the cessation of perception and feeling "
+        "&mdash; as the third and final eightfold list developed for "
+        "insight into greed, completing the trio this chapter's enormous "
+        "closing peyyāla will soon multiply."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The eight liberations &mdash; ordinary form-perception, "
+            "external form-perception, focus on beauty, and the four "
+            "formless dimensions culminating in the cessation of "
+            "perception and feeling &mdash; are restated here, "
+            "completing the set of three eightfold lists (path, mastery, "
+            "liberation) this chapter develops for insight into greed."]),
+        ("Heavily compressed, trusting AN 8.66's fuller statement", [
+            "Where AN 8.66 spelled out each of the eight liberations "
+            "individually, this discourse compresses the entire sequence "
+            "by internal ellipsis after its opening formula, trusting "
+            "the reader to recall AN 8.66's own fuller account of each "
+            "step in the ascending sequence."]),
+        ("Three lists complete, the peyyāla ready to begin", [
+            "With the noble eightfold path (AN 8.118), the eight "
+            "dimensions of mastery (AN 8.119), and now the eight "
+            "liberations all stated in full, this chapter has assembled "
+            "everything the enormous merged pages immediately following "
+            "will need: three eightfold vehicles, ready to be run against "
+            "the full inventory of defilements beginning with greed "
+            "itself and continuing through sixteen more."]),
+        ("A fitting close: liberation as the vehicle for insight into "
+         "greed", [
+            "Of the three lists, the eight liberations are the most "
+            "advanced &mdash; culminating in the complete cessation of "
+            "perception and feeling &mdash; making this discourse a "
+            "fitting third and final callback before the chapter turns to "
+            "its closing combinatorial work: not merely restraining "
+            "greed, but developing the very states that liberate from it "
+            "entirely."]),
+    ],
+    terms=[
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; the identical "
+         "opening phrase as AN 8.118 and 8.119, closing the trio of "
+         "foundational lists."),
+        ("rūpī rūpāni passati",
+         "&ldquo;having physical form, they see forms&rdquo; &mdash; "
+         "the first liberation, the only one given even partial detail "
+         "before the ellipsis compresses the rest."),
+        ("saññāvedayitanirodhaṁ upasampajja viharati",
+         "&ldquo;they enter and remain in the cessation of perception "
+         "and feeling&rdquo; &mdash; the eighth and final liberation, "
+         "identical to AN 8.66's own closing state."),
+        ("aṭṭha dhammā bhāvetabbā",
+         "&ldquo;eight things should be developed&rdquo; &mdash; the "
+         "shared closing formula across all three of this chapter's "
+         "opening discourses."),
+        ("rāgapeyyālaṁ",
+         "&ldquo;abbreviated texts beginning with greed&rdquo; &mdash; "
+         "this chapter's own title, about to be earned in full by the "
+         "enormous compressed pages that follow."),
+    ],
+    text_intro=(
+        "The discourse in full: the eight liberations, restated for "
+        "insight into greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The eight liberations, for insight into greed"),
+        ("p", "&sect;1", "an8.120:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What eightfold list does this discourse restate, completing "
+              "the set of three?",
+         "opts": [
+             "The eight worldly conditions",
+             "The eight liberations, already met at AN 8.66",
+             "The noble eightfold path",
+             "The eight dimensions of mastery"],
+         "correct": 1,
+         "expl": "The third and final of this chapter's three "
+                 "foundational lists."},
+        {"q": "How does this discourse handle the eight liberations' "
+              "content, compared to AN 8.66?",
+         "opts": [
+             "It expands with new detail",
+             "It compresses the entire sequence by internal ellipsis "
+             "after the opening formula, trusting AN 8.66's fuller "
+             "statement",
+             "It reverses the order of the eight liberations",
+             "It states all eight in complete detail"],
+         "correct": 1,
+         "expl": "Heavy compression, relying on the reader's memory of "
+                 "the fuller account."},
+        {"q": "What three lists does this chapter assemble across AN "
+              "8.118, 8.119, and 8.120?",
+         "opts": [
+             "Three unrelated topics",
+             "The noble eightfold path, the eight dimensions of mastery, "
+             "and the eight liberations",
+             "Three different sets of precepts",
+             "Three different meditation postures"],
+         "correct": 1,
+         "expl": "Three eightfold vehicles the closing peyyāla will run "
+                 "against many defilements."},
+        {"q": "According to the guide, why is the eight liberations a "
+              "fitting final callback before the peyyāla begins?",
+         "opts": [
+             "Because it's the shortest of the three lists",
+             "Because it's the most advanced of the three, culminating in "
+             "the cessation of perception and feeling — not just "
+             "restraining greed but liberating from it entirely",
+             "Because it has no connection to greed at all",
+             "Because it was never taught before"],
+         "correct": 1,
+         "expl": "A progression from restraint toward complete "
+                 "liberation."},
+        {"q": "What is the eighth and final liberation named in this "
+              "discourse?",
+         "opts": [
+             "Infinite space",
+             "The cessation of perception and feeling",
+             "Ordinary form-perception",
+             "Focus on beauty"],
+         "correct": 1,
+         "expl": "The identical closing state as AN 8.66's own eighth "
+                 "liberation."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching AN 8.118 and 8.119's own lack "
+                 "of a stated setting."},
+    ],
+    marginalia=[
+        ("Liberation, restated for greed", [
+            "the same eight liberations",
+            "as AN 8.66 — form,",
+            "formless, cessation itself",
+        ]),
+        ("Heavily compressed", [
+            "only the opening spelled out —",
+            "trusting AN 8.66's own",
+            "fuller account of each step",
+        ]),
+        ("Three lists complete", [
+            "path, mastery, liberation —",
+            "everything the peyyāla needs",
+            "before it multiplies outward",
+        ]),
+        ("Cross-references", [
+            "AN 8.119 &middot; previous, the eight dimensions of mastery "
+            "for insight into greed",
+            "AN 8.66 &middot; earlier, this same list in its original "
+            "context",
+            "AN 8.121&ndash;147 &middot; next, where the peyyāla "
+            "compression begins in earnest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an8.120/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by segment." % SC,
+        '<a href="an-8.119.html">AN 8.119 &middot; Untitled Discourse on Greed (2nd)</a> '
+        "&mdash; previous.",
+        '<a href="an-8.66.html">AN 8.66 &middot; Liberations</a> &mdash; earlier, this same '
+        "list in its original context.",
+        '<a href="an-8.121-147.html">AN 8.121&ndash;147</a> &mdash; next, where the '
+        "peyyāla compression begins in earnest.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.121-147 — 27 discourses on greed, compressed to one page. Per the
+# an4.277-303/an6.143-169/an7.618-644 precedent: nine verbs (complete
+# understanding, complete ending, giving up, ending, vanishing, fading
+# away, cessation, giving away, letting go) x the three eightfold lists
+# established at AN 8.118-120 = 27.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-8.121-147",
+    "index_pali": "(untitled)",
+    "nav_title": "Nine Verbs on Greed",
+    "source": "an8/an8.121-147",
+    "crumb": "AN 8.121&ndash;147",
+    "meta_title": "AN 8.121–147 — Nine Verbs on Greed | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for this "
+        "chapter's first major compression: nine verbs of ending — complete "
+        "understanding, ending, giving up, vanishing, fading away, cessation, "
+        "giving away, letting go — crossed against the three eightfold lists "
+        "established at AN 8.118-120, compressing 27 discourses into one page. "
+        "From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 8.121&ndash;147",
+    "title": "Nine Verbs on Greed",
+    "subtitle": "<em>Untitled in the source</em> &mdash; %s, continued" % VAGGA_11,
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Nine verbs of ending crossed against the three eightfold "
+                 "lists (path, mastery, liberation) established at AN "
+                 "8.118-120, compressed into a single peyyāla page standing "
+                 "for 27 individually numbered discourses"),
+        ("Length", "~1 minute to read the compressed text; the full "
+                   "27-discourse expansion would take much longer"),
+        ("A familiar multiplication, seen four times before", "Nine verbs "
+                                                               "crossed "
+                                                               "against a "
+                                                               "small set "
+                                                               "of "
+                                                               "eightfold "
+                                                               "lists is "
+                                                               "the same "
+                                                               "compression "
+                                                               "pattern "
+                                                               "already met "
+                                                               "at AN "
+                                                               "4.277-303, "
+                                                               "AN "
+                                                               "6.143-169, "
+                                                               "and AN "
+                                                               "7.618-644"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; the "
+                       "compressed text is brief; understanding what it "
+                       "stands for requires holding the multiplication in "
+                       "mind"),
+    ],
+    "why": (
+        "AN 8.121&ndash;147 takes the three eightfold lists established at AN "
+        "8.118&ndash;120 &mdash; the noble eightfold path, the eight dimensions "
+        "of mastery, and the eight liberations &mdash; and multiplies each "
+        "against nine verbs of ending &mdash; complete understanding, complete "
+        "ending, giving up, ending, vanishing, fading away, cessation, giving "
+        "away, and letting go &mdash; compressing what would be 27 individually "
+        "numbered discourses into a single page."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of the three eightfold lists already established for insight "
+            "into greed &mdash; the noble eightfold path, the eight dimensions "
+            "of mastery, the eight liberations &mdash; should also be developed "
+            "for greed's complete understanding, complete ending, giving up, "
+            "ending, vanishing, fading away, cessation, giving away, and "
+            "letting go, nine further framings of the same underlying "
+            "eightfold practice."]),
+        ("Nine verbs, one shared structure", [
+            "The nine verbs move from cognitive grasp (complete understanding) "
+            "through active relinquishment (giving up, giving away, letting "
+            "go) to descriptions of the process itself unfolding (ending, "
+            "vanishing, fading away, cessation) &mdash; nine angles on what "
+            "amounts to the same underlying transformation, each treated as "
+            "worth stating in the source's own accounting even though the "
+            "practice prescribed (the same three eightfold lists) never "
+            "changes."]),
+        ("Three lists times nine verbs equals twenty-seven", [
+            "The arithmetic is straightforward and exact: three eightfold "
+            "lists (path, mastery, liberation), each crossed against nine "
+            "verbs, produces exactly 27 &mdash; matching the discourse range "
+            "AN 8.121 through AN 8.147 this single page stands for, the same "
+            "multiplication logic already met at AN 4.277-303, AN 6.143-169, "
+            "and AN 7.618-644 in this project's earlier work."]),
+        ("A familiar closing mechanism, not a new discovery", [
+            "By this point in the project, this compression pattern is well "
+            "established: a small number of foundational lists, crossed "
+            "against a fixed set of verbs, standing in for a large range of "
+            "individually numbered but substantively identical discourses. "
+            "This page follows that established mechanism exactly, without "
+            "introducing anything structurally new."]),
+    ],
+    "terms": [
+        ("rāgassa pariññāya",
+         "&ldquo;for the complete understanding of greed&rdquo; &mdash; the "
+         "first of the nine verbs, opening the compressed sequence."),
+        ("pahānāya",
+         "&ldquo;giving up&rdquo; &mdash; one of the nine verbs, naming "
+         "active relinquishment rather than passive ending."),
+        ("nirodhāya",
+         "&ldquo;cessation&rdquo; &mdash; one of the nine verbs, echoing "
+         "the same term used for the third noble truth."),
+        ("cāgāya, paṭinissaggāya",
+         "&ldquo;giving away, letting go&rdquo; &mdash; the eighth and "
+         "ninth verbs, closing the sequence with two further framings of "
+         "relinquishment."),
+        ("aṭṭha dhammā bhāvetabbā",
+         "&ldquo;eight things should be developed&rdquo; &mdash; the "
+         "shared closing formula, repeated for each of the nine verbs "
+         "crossed against each of the three eightfold lists."),
+    ],
+    "text_intro": (
+        "The discourse in full: nine verbs of ending, each crossed against "
+        "the three eightfold lists established at AN 8.118-120. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine verbs, compressed"),
+        ("p", "&sect;1", "an8.121-147:1.1-1.10"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "27 individually numbered discourses, produced by crossing "
+             "three eightfold lists against nine verbs of ending",
+             "A biography of a named disciple",
+             "A set of monastic rules"],
+         "correct": 1,
+         "expl": "Three lists times nine verbs equals exactly 27, matching "
+                 "the AN 8.121-147 range."},
+        {"q": "What three eightfold lists does this page cross against the "
+              "nine verbs?",
+         "opts": [
+             "Three unrelated topics",
+             "The noble eightfold path, the eight dimensions of mastery, "
+             "and the eight liberations, established at AN 8.118-120",
+             "Three different sets of precepts",
+             "Three different named disciples' teachings"],
+         "correct": 1,
+         "expl": "The three lists established immediately before this "
+                 "compressed page."},
+        {"q": "According to the guide, what do the nine verbs collectively "
+              "describe?",
+         "opts": [
+             "Nine entirely unrelated topics",
+             "Nine angles on the same underlying transformation, from "
+             "cognitive grasp through active relinquishment to the process "
+             "unfolding",
+             "Nine different meditation postures",
+             "Nine stages of physical decline"],
+         "correct": 1,
+         "expl": "Different framings of essentially the same shift, not "
+                 "nine distinct processes."},
+        {"q": "How does this compression pattern relate to earlier work in "
+              "this project?",
+         "opts": [
+             "It is entirely unprecedented",
+             "It matches the same nine-verb-times-lists multiplication "
+             "already met at AN 4.277-303, AN 6.143-169, and AN 7.618-644",
+             "It contradicts earlier compression patterns",
+             "It is a completely different mechanism"],
+         "correct": 1,
+         "expl": "A familiar, well-established closing mechanism, not a "
+                 "new discovery."},
+        {"q": "What is the first of the nine verbs?",
+         "opts": [
+             "Letting go", "Complete understanding",
+             "Cessation", "Giving away"],
+         "correct": 1,
+         "expl": "Opening the compressed sequence with cognitive grasp "
+                 "before the verbs shift toward active relinquishment."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching the three discourses "
+                 "immediately preceding this compressed page."},
+    ],
+    "marginalia": [
+        ("Nine verbs of ending", [
+            "understanding, ending, giving up,",
+            "vanishing, fading, cessation,",
+            "giving away, letting go",
+        ]),
+        ("Three lists times nine verbs", [
+            "path, mastery, liberation —",
+            "each crossed nine ways —",
+            "27 discourses, one page",
+        ]),
+        ("A familiar mechanism, again", [
+            "the same pattern as AN 4.277-303,",
+            "AN 6.143-169, AN 7.618-644 —",
+            "nothing structurally new here",
+        ]),
+        ("Cross-references", [
+            "AN 8.120 &middot; previous, the eight liberations for insight "
+            "into greed",
+            "AN 8.148&ndash;627 &middot; next, this same mechanism scaled "
+            "up to sixteen further defilements",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an8.121-147/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-8.120.html">AN 8.120 &middot; Untitled Discourse on Greed (3rd)</a> '
+        "&mdash; previous.",
+        '<a href="an-8.148-627.html">AN 8.148&ndash;627</a> &mdash; next, closing this '
+        "chapter and the entire Book of the Eights.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 8.148-627 — the closing peyyāla, and the end of AN 8 (the Book of the
+# Eights) itself. 480 discourses = 16 defilements (hate through negligence,
+# the same 17-item list, minus greed already covered at AN 8.118-147) x 10
+# verbs (insight, understanding, ending, giving up, ending, vanishing,
+# fading away, cessation, giving away, letting go) x 3 eightfold lists.
+# This is the fifth time this project has met this exact 17-item defilement
+# list closing a nipāta with the identical mechanism -- after AN 3.183-352,
+# AN 4.304-783, AN 6.170-649, and AN 7.645-1124 -- now confirmed as the
+# standard editorial template for closing every nipāta in this collection.
+# The source's own colophon here reads "Aṭṭhakanipātapāḷi niṭṭhitā" -- "The
+# Book of the Eights is finished" -- closing not just this chapter but AN 8
+# itself. Per this project's standing rule, an_content_07.py's TAIL must be
+# updated to point to an-8.1.html once this page is built (an-8.1 already
+# exists; the AN7 module's TAIL constant is the piece that needs updating).
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-8.148-627",
+    "index_pali": "(untitled)",
+    "nav_title": "Sixteen Defilements, Ten Verbs — Closing the Book of the Eights",
+    "source": "an8/an8.148-627",
+    "crumb": "AN 8.148&ndash;627",
+    "meta_title": "AN 8.148–627 — Closing the Book of the Eights | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for the final "
+        "page of the Book of the Eights: 480 discourses compressed into one — "
+        "sixteen further defilements, ten verbs, and the same three eightfold "
+        "lists, the fifth time this project has met this exact closing "
+        "mechanism. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 8.148&ndash;627",
+    "title": "Closing the Book of the Eights",
+    "subtitle": "<em>Untitled in the source</em> &mdash; closing %s and AN 8 itself" % VAGGA_11,
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Sixteen further defilements crossed against ten verbs and "
+                 "the three eightfold lists established at AN 8.118-120, "
+                 "compressing 480 individually numbered discourses into a "
+                 "single closing page"),
+        ("Length", "~2 minutes to read the compressed text; the underlying "
+                   "480 discourses this page stands for would take far "
+                   "longer read individually"),
+        ("The end of the Book of the Eights", "This page's own closing "
+                                              "colophon declares &ldquo;the "
+                                              "Book of the Eights is "
+                                              "finished&rdquo; &mdash; the "
+                                              "final page of AN 8, and with "
+                                              "it, 1,408 discourses across "
+                                              "eleven chapters now "
+                                              "complete"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "largest single compression in this nipāta, worth "
+                       "reading slowly to see the full scale of what it "
+                       "represents"),
+    ],
+    "why": (
+        "AN 8.148&ndash;627 closes the Book of the Eights by taking sixteen "
+        "further defilements &mdash; hate, delusion, anger, acrimony, disdain, "
+        "contempt, jealousy, stinginess, deceitfulness, deviousness, "
+        "obstinacy, aggression, conceit, arrogance, vanity, and negligence "
+        "&mdash; and running each through ten verbs of insight and ending, "
+        "crossed against the same three eightfold lists (path, mastery, "
+        "liberation) established at AN 8.118&ndash;120, compressing 480 "
+        "individually numbered discourses into this single closing page."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of sixteen further defilements &mdash; from hate and "
+            "delusion through to negligence itself &mdash; should be met "
+            "with the same treatment already given to greed: insight, "
+            "complete understanding, complete ending, giving up, ending, "
+            "vanishing, fading away, cessation, giving away, and letting go, "
+            "each developed through the noble eightfold path, the eight "
+            "dimensions of mastery, and the eight liberations."]),
+        ("Sixteen defilements, completing the seventeen-item list", [
+            "Together with greed, already covered at AN 8.118&ndash;147, "
+            "this page's sixteen further defilements complete a "
+            "seventeen-item list this project has now met five times "
+            "closing a nipāta: the same defilements, in the same order, "
+            "closed AN 3, AN 4, AN 6, and AN 7 before this discourse closes "
+            "AN 8 &mdash; strong confirmation that this list is the "
+            "collection's own standard editorial template for closing a "
+            "nipāta, not a coincidence repeated by chance."]),
+        ("Ten verbs this time, not nine", [
+            "Where AN 8.121&ndash;147 crossed greed against nine verbs, "
+            "this page's own count is ten &mdash; insight into negligence "
+            "specifically named first, before the same nine verbs "
+            "(understanding, ending, giving up, ending, vanishing, fading "
+            "away, cessation, giving away, letting go) repeat for all "
+            "sixteen defilements. Sixteen defilements times ten verbs times "
+            "three eightfold lists equals exactly 480, matching the "
+            "discourse range this page compresses."]),
+        ("The end of the Book of the Eights", [
+            "This page's own closing line, following immediately after the "
+            "final compressed formula, states plainly: &ldquo;The Book of "
+            "the Eights is finished.&rdquo; With this page, AN 8's eleven "
+            "chapters and 1,408 discourses &mdash; from AN 8.1's eight "
+            "benefits of love through this closing peyyāla &mdash; are now "
+            "complete, matching the project's earlier completions of AN 1 "
+            "through AN 7."]),
+    ],
+    "terms": [
+        ("dosassa, mohassa, kodhassa, upanāhassa",
+         "&ldquo;of hate, delusion, anger, acrimony&rdquo; &mdash; the "
+         "opening four of the sixteen defilements this page runs through "
+         "the full treatment."),
+        ("makkhassa, paḷāsassa, issāya, macchariyassa",
+         "&ldquo;disdain, contempt, jealousy, stinginess&rdquo; &mdash; "
+         "four more of the sixteen, continuing the same seventeen-item "
+         "list already met four times before in this project's earlier "
+         "work."),
+        ("māyāya, sāṭheyyassa, thambhassa, sārambhassa",
+         "&ldquo;deceitfulness, deviousness, obstinacy, aggression&rdquo; "
+         "&mdash; continuing the list toward its close."),
+        ("mānassa, atimānassa, madassa, pamādassa",
+         "&ldquo;conceit, arrogance, vanity, negligence&rdquo; &mdash; "
+         "the final four defilements, negligence closing the full "
+         "seventeen-item list (with greed) that opened this chapter."),
+        ("aṭṭhakanipātapāḷi niṭṭhitā",
+         "&ldquo;the Book of the Eights is finished&rdquo; &mdash; the "
+         "closing colophon, marking the end of AN 8's own 1,408 "
+         "discourses."),
+    ],
+    "text_intro": (
+        "The discourse in full: sixteen defilements, each crossed against "
+        "ten verbs and the three eightfold lists, closing the Book of the "
+        "Eights. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Sixteen defilements, compressed"),
+        ("p", "&sect;1", "an8.148-627:1.1-1.26"),
+    ],
+    "quiz": [
+        {"q": "What does this page's compressed text stand for?",
+         "opts": [
+             "A single new discourse",
+             "480 individually numbered discourses, produced by crossing "
+             "sixteen defilements against ten verbs and three eightfold "
+             "lists",
+             "A biography of the Buddha's final days",
+             "A set of Vinaya procedures"],
+         "correct": 1,
+         "expl": "16 x 10 x 3 = 480, matching the AN 8.148-627 range "
+                 "exactly."},
+        {"q": "How does this page's defilement list relate to greed, "
+              "already covered at AN 8.118-147?",
+         "opts": [
+             "No relation at all",
+             "Together they complete a seventeen-item defilement list, the "
+             "same list that has now closed five different nipātas in this "
+             "project (AN 3, 4, 6, 7, and now 8)",
+             "This page contradicts AN 8.118-147",
+             "Greed is repeated again in this page"],
+         "correct": 1,
+         "expl": "Strong confirmation this seventeen-item list is the "
+                 "collection's own standard closing template."},
+        {"q": "How many verbs does this page cross against each "
+              "defilement, compared to AN 8.121-147's own count?",
+         "opts": [
+             "Nine, the same as AN 8.121-147",
+             "Ten — insight named first, then the same nine verbs as "
+             "AN 8.121-147",
+             "Five", "Twenty"],
+         "correct": 1,
+         "expl": "One additional verb (insight) compared to the greed "
+                 "page's own nine."},
+        {"q": "What does this page's own closing colophon declare?",
+         "opts": [
+             "That the Second Fifty is finished",
+             "That the Book of the Eights is finished — closing AN 8's "
+             "1,408 discourses across eleven chapters",
+             "That a new nipāta begins immediately",
+             "Nothing; there is no colophon"],
+         "correct": 1,
+         "expl": "The final line of AN 8 itself, not merely this chapter."},
+        {"q": "What is the last of the sixteen defilements named, closing "
+              "the full seventeen-item list?",
+         "opts": [
+             "Greed", "Negligence (pamāda)",
+             "Jealousy", "Conceit"],
+         "correct": 1,
+         "expl": "The final item, closing both this page's list and the "
+                 "seventeen-item list overall (with greed)."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, matching the compressed pages preceding "
+                 "it in this chapter."},
+    ],
+    "marginalia": [
+        ("Sixteen defilements, ten verbs", [
+            "hate, delusion, anger, disdain,",
+            "jealousy, stinginess, deceit —",
+            "through conceit, arrogance, negligence",
+        ]),
+        ("The fifth time, not a coincidence", [
+            "the same seventeen-item list",
+            "closed AN 3, 4, 6, 7 —",
+            "now confirmed as the standard template",
+        ]),
+        ("The Book of the Eights, finished", [
+            "1,408 discourses complete —",
+            "eleven chapters, from love's",
+            "eight benefits to this closing page",
+        ]),
+        ("Cross-references", [
+            "AN 8.121&ndash;147 &middot; previous, this same mechanism at "
+            "a smaller scale",
+            "AN 8.1 &middot; earlier, opening this entire nipāta with "
+            "love's eight benefits",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an8.148-627/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-8.121-147.html">AN 8.121&ndash;147 &middot; Nine Verbs on Greed</a> '
+        "&mdash; previous.",
+        '<a href="an-8.1.html">AN 8.1 &middot; The Benefits of Love</a> &mdash; earlier, '
+        "opening this entire nipāta.",
+    ],
+})
