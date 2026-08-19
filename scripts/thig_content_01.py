@@ -7116,3 +7116,211 @@ page(
         '<a href="./">Therigatha</a> &mdash; back to the collection index.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 4.1 — Bhaddā Kāpilānī
+# --------------------------------------------------------------------------- #
+page(
+    4, 1, "Bhadd&amacr; K&amacr;pil&amacr;n&imacr;", "Bhadd&amacr; "
+    "Daughter of Kapila",
+    meta_title="Thig 4.1 — Bhaddā Daughter of Kapila | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Book of the Fours' single poem, which sets Bhaddā Kāpilānī's "
+        "attainment side by side, verse for verse, with the monk "
+        "Kassapa's. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fours &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; a "
+                    "closing attribution names the speaker"),
+        ("Speaker", "The nun Bhaddā Kāpilānī, whose own attainment is "
+                    "set directly alongside the monk Kassapa's"),
+        ("Form", "Four four-line verses, the entire Book of the Fours in "
+                 "a single poem"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "notable chiefly for its structure, comparing two "
+                       "named individuals point by point"),
+    ],
+    why=(
+        "The Book of the Fours holds only one poem, and it is built "
+        "unlike anything before it in this collection: the first two "
+        "verses describe the monk Kassapa's attainment in detail, then "
+        "the third verse states directly, &lsquo;in exactly the same "
+        "way, Bhaddā daughter of Kapila is master of the three "
+        "knowledges&rsquo; &mdash; a nun's realization measured, verse "
+        "for verse, against a specific, named senior monk's, and found "
+        "identical."),
+    guide=[
+        ("A book of one poem, built on comparison", [
+            "Every other book in this collection so far gathers several "
+            "poems under one length. The Book of the Fours holds exactly "
+            "one, and its structure is unique among them: rather than "
+            "narrating Bhaddā's own path alone, it opens by describing "
+            "someone else's attainment first."]),
+        ("Kassapa's three knowledges, stated in full", [
+            "The poem's first two verses describe Kassapa &mdash; &lsquo;the "
+            "son and heir of the Buddha, whose mind is immersed in "
+            "samādhi&rsquo; &mdash; and name his three knowledges "
+            "explicitly: knowing his own past lives, seeing heaven and "
+            "places of loss, and having reached the end of rebirth."]),
+        ("The identical claim, made for Bhaddā without qualification", [
+            "&lsquo;In exactly the same way, Bhaddā daughter of Kapila is "
+            "master of the three knowledges, conqueror of death&rsquo; "
+            "&mdash; not a lesser or derivative attainment, but the same "
+            "three knowledges, the same standing, restated for a second, "
+            "named individual."]),
+        ("A shared history, spoken in 'we'", [
+            "The closing verse shifts from comparison into shared voice: "
+            "&lsquo;seeing the danger of the world, both of us went "
+            "forth... we've become cooled and quenched&rsquo; &mdash; "
+            "later tradition holds that Bhaddā Kāpilānī and Kassapa had "
+            "been a married couple before renouncing together, a "
+            "background this closing verse's &lsquo;we&rsquo; fits "
+            "without stating outright."]),
+    ],
+    terms=[
+        ("Bhadd&amacr; K&amacr;pil&amacr;n&imacr;",
+         "&ldquo;Bhaddā, daughter of Kapila&rdquo; &mdash; this poem's "
+         "speaker, whose attainment is compared directly to Kassapa's."),
+        ("Kassapa",
+         "the senior monk named in this poem's opening verses, "
+         "&ldquo;the son and heir of the Buddha&rdquo;, against whom "
+         "Bhaddā's own attainment is measured."),
+        ("tevijj&amacr;",
+         "&ldquo;master of the three knowledges&rdquo; &mdash; the "
+         "identical title this poem applies to both Kassapa and Bhaddā."),
+        ("maccuh&amacr;yin&imacr;",
+         "&ldquo;conqueror of death&rdquo; (or, by another gloss, "
+         "&ldquo;one who has abandoned death&rdquo;) &mdash; Bhaddā's own "
+         "epithet, in a martial register echoing &lsquo;having vanquished "
+         "Māra&rsquo; just below it."),
+        ("pabbajita",
+         "&ldquo;gone forth&rdquo; &mdash; the shared act named in this "
+         "poem's closing verse, spoken in the first person plural, "
+         "&lsquo;we&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: four verses, the entire Book of the Fours. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig4.1:1.1-1.4"),
+        ("p", "&sect;2", "thig4.1:2.1-2.4"),
+        ("p", "&sect;3", "thig4.1:3.1-3.4"),
+        ("p", "&sect;4", "thig4.1:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How many poems does the Book of the Fours hold?",
+         "opts": [
+             "Ten",
+             "Four",
+             "Just one",
+             "Eight"],
+         "correct": 2,
+         "expl": "The shortest book in the Therigatha so far, a single poem."},
+        {"q": "Whose attainment does this poem describe first, before turning to Bhaddā's?",
+         "opts": [
+             "The monk Kassapa's",
+             "The Buddha's own",
+             "No one else's attainment is described",
+             "Ānanda's"],
+         "correct": 0,
+         "expl": "The poem's first two verses describe Kassapa in detail."},
+        {"q": "What three things does the poem name as Kassapa's 'three knowledges'?",
+         "opts": [
+             "Chanting, discipline, and meditation",
+             "Wealth, status, and lineage",
+             "Compassion, patience, and generosity",
+             "Knowing past lives, seeing heaven and loss, and reaching the end of rebirth"],
+         "correct": 3,
+         "expl": "Named explicitly in the poem's first two verses."},
+        {"q": "How does the poem describe Bhaddā's attainment relative to Kassapa's?",
+         "opts": [
+             "As a lesser, partial version of his",
+             "'In exactly the same way' — identical, not derivative",
+             "As entirely unrelated to his",
+             "The poem does not compare the two"],
+         "correct": 1,
+         "expl": "A direct, unqualified claim of identical standing."},
+        {"q": "What epithet does the poem give Bhaddā that echoes 'having vanquished Māra' just after it?",
+         "opts": [
+             "'Daughter of the sun'",
+             "'Teacher of kings'",
+             "'Conqueror of death' — maccuhāyinī",
+             "No epithet is given"],
+         "correct": 2,
+         "expl": "A martial register, glossed by commentary as either 'abandoner' or 'conqueror' of death."},
+        {"q": "What voice does the poem's closing verse shift into?",
+         "opts": [
+             "A stranger's voice, addressing both of them",
+             "Māra's voice, taunting them both",
+             "No shift in voice occurs",
+             "The first person plural, 'we'"],
+         "correct": 3,
+         "expl": "'Both of us went forth... we've become cooled and quenched.'"},
+        {"q": "What does later tradition hold about Bhaddā Kāpilānī and Kassapa's relationship, consistent with this poem's closing 'we'?",
+         "opts": [
+             "That they were siblings",
+             "That they had been a married couple before renouncing together",
+             "That they never met before ordaining",
+             "That Kassapa was her teacher only"],
+         "correct": 1,
+         "expl": "This guide notes the tradition as background, distinct from what the verse itself states outright."},
+        {"q": "What does 'tevijjā' mean?",
+         "opts": [
+             "'Master of the three knowledges' — applied identically to both Kassapa and Bhaddā",
+             "'Gone forth'",
+             "'The danger of the world'",
+             "'A married couple'"],
+         "correct": 0,
+         "expl": "The shared title this poem gives to both figures."},
+        {"q": "What structural feature makes this poem unique among the books completed so far in this collection?",
+         "opts": [
+             "It has no structural features",
+             "It is identical in form to Thig 3.6's third-person praise",
+             "It measures a nun's attainment point by point against a specific, named senior monk's",
+             "It is the collection's shortest poem overall"],
+         "correct": 2,
+         "expl": "No earlier poem in this collection builds itself as an explicit comparison to a named monk."},
+        {"q": "What structural marker does bilara-data's underlying source place immediately after this poem, alongside an attribution stub naming Bhaddā Kāpilānī?",
+         "opts": [
+             "'Catukkanipāto niṭṭhito' — 'the Book of the Fours is finished'",
+             "A note naming the next book's first poem",
+             "No marker at all",
+             "A repeat of the poem's own text"],
+         "correct": 0,
+         "expl": "The same kind of bibliographic close seen at the end of the Book of the Threes."},
+    ],
+    marginalia=[
+        ("One book, one poem", [
+            "the shortest book",
+            "so far"
+        ]),
+        ("Kassapa, named first", [
+            "his three knowledges,",
+            "stated in full"
+        ]),
+        ("Identical, not derivative", [
+            "'in exactly the same way' —",
+            "the same standing"
+        ]),
+        ("A shared voice, closing", [
+            "'both of us went forth' —",
+            "spoken as 'we'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig4.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-3.8.html">Thig 3.8 &mdash; Som&amacr;</a> &mdash; '
+        "the poem immediately before this one, closing the Book of the "
+        "Threes.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection index.',
+    ],
+)
