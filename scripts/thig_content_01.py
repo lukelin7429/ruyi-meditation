@@ -7324,3 +7324,2455 @@ page(
         '<a href="./">Therigatha</a> &mdash; back to the collection index.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.1 — An Unnamed Nun (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    5, 1, "A&ntilde;&ntilde;atarather&imacr;", "An Unnamed Nun (2nd)",
+    meta_title="Thig 5.1 — An Unnamed Nun (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "poem opening the Book of the Fives, an anonymous nun's account "
+        "closing on the fullest enumeration yet of the six kinds of "
+        "direct knowledge. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 1 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "An unnamed nun, narrating twenty-five years of "
+                    "failure and then a teacher-guided breakthrough"),
+        ("Form", "Five verses, mostly four lines, the last extending to "
+                 "six"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes on the fullest list yet of the six kinds "
+                       "of direct knowledge"),
+    ],
+    why=(
+        "This poem opens the Book of the Fives exactly as an unnamed "
+        "voice opened the Book of the Ones in Thig 1.1, and its own "
+        "opening verses echo two poems from the book just finished: "
+        "twenty-five years of failure, as in Thig 3.1, and a teacher's "
+        "instruction in &lsquo;the aggregates, sense fields, and "
+        "elements&rsquo;, the identical phrase used for Uttamā's teacher "
+        "in Thig 3.2."),
+    guide=[
+        ("A second unnamed nun, opening a new book", [
+            "This poem's title, &lsquo;An Unnamed Nun (2nd)&rsquo;, "
+            "points directly back to Thig 1.1, the collection's very "
+            "first poem &mdash; an anonymous voice opens the Book of the "
+            "Fives just as one opened the Book of the Ones."]),
+        ("Twenty-five years, told more viscerally than before", [
+            "&lsquo;In the twenty-five years since I went forth, I have "
+            "not found peace of mind, even for as long as a "
+            "finger-snap&rsquo; echoes Thig 3.1's identical span, but "
+            "adds a physical image absent there: &lsquo;I cried with "
+            "flailing arms as I entered a dwelling&rsquo;."]),
+        ("The identical teaching phrase reused from Thig 3.2", [
+            "&lsquo;She taught me the Dhamma: the aggregates, sense "
+            "fields, and elements&rsquo; repeats, word for word, the "
+            "compound term &lsquo;khandhāyatanadhātuyo&rsquo; that "
+            "Uttamā's teacher used in Thig 3.2 &mdash; the same "
+            "instruction, given by a different trusted nun to a "
+            "different anonymous student."]),
+        ("The fullest list yet of the six direct knowledges", [
+            "Where earlier poems named three knowledges, this one's "
+            "closing verse names all six in sequence: past lives, "
+            "clairvoyance, reading others' minds, clairaudience, psychic "
+            "powers, and the ending of defilements &mdash; the most "
+            "complete enumeration of this standard list anywhere in the "
+            "collection so far."]),
+    ],
+    terms=[
+        ("cittassūpasama",
+         "&ldquo;peace of mind&rdquo; &mdash; what this nun says she "
+         "failed to find for twenty-five years, echoing Thig 3.1's "
+         "identical span."),
+        ("khandh&amacr;yatanadh&amacr;tuyo",
+         "&ldquo;the aggregates, sense fields, and elements&rdquo; "
+         "&mdash; the identical compound term used for Uttamā's teacher "
+         "in Thig 3.2."),
+        ("cetopariccañ&amacr;&#7751;a",
+         "the ability to encompass and read the minds of others, one of "
+         "the six direct knowledges named in this poem's closing verse."),
+        ("iddhi",
+         "psychic powers, another of the six direct knowledges this poem "
+         "names as realized."),
+        ("cha&#7799;abhi&ntilde;&ntilde;&amacr;",
+         "&ldquo;the six kinds of direct knowledge&rdquo; &mdash; named "
+         "as a complete set only here, more fully than in any earlier "
+         "poem in this collection."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.1:1.1-1.4"),
+        ("p", "&sect;2", "thig5.1:2.1-2.4"),
+        ("p", "&sect;3", "thig5.1:3.1-3.4"),
+        ("p", "&sect;4", "thig5.1:4.1-4.4"),
+        ("p", "&sect;5", "thig5.1:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "What does this poem's title, 'An Unnamed Nun (2nd)', point back to?",
+         "opts": [
+             "Nothing in particular",
+             "Thig 1.1, the collection's very first poem, also spoken by an unnamed nun",
+             "Thig 3.1's Sāmā",
+             "The Book of the Fours' single poem"],
+         "correct": 1,
+         "expl": "An anonymous voice opens this book just as one opened the Book of the Ones."},
+        {"q": "How does this poem describe her twenty-five years of failure?",
+         "opts": [
+             "As entirely peaceful",
+             "With no description at all",
+             "As a minor inconvenience",
+             "She had not found peace of mind, even for as long as a finger-snap"],
+         "correct": 3,
+         "expl": "An even briefer unit of time than most of this collection's confessions of failure."},
+        {"q": "What physical detail does this poem add to its confession of failure?",
+         "opts": [
+             "She cried with flailing arms as she entered a dwelling",
+             "She fainted",
+             "No physical detail is given",
+             "She fled to a distant city"],
+         "correct": 0,
+         "expl": "A vivid, embodied image absent from Thig 3.1's version of this same confession."},
+        {"q": "What phrase does this poem's teacher use, word for word identical to Thig 3.2's Uttamā's teacher?",
+         "opts": [
+             "'The victor's instructions'",
+             "'Twenty-five years'",
+             "'The aggregates, sense fields, and elements'",
+             "No phrase is shared"],
+         "correct": 2,
+         "expl": "'Khandhāyatanadhātuyo' — the identical compound term."},
+        {"q": "How many of the six direct knowledges does this poem's closing verse name?",
+         "opts": [
+             "Three",
+             "All six, in full sequence",
+             "Only one",
+             "None are named"],
+         "correct": 1,
+         "expl": "The fullest enumeration of this standard list anywhere in the collection so far."},
+        {"q": "What does 'iddhi' refer to, among the six knowledges named here?",
+         "opts": [
+             "Reading others' minds",
+             "Clairaudience",
+             "Psychic powers",
+             "Knowing past lives"],
+         "correct": 2,
+         "expl": "Named directly among the six, distinct from the other five."},
+        {"q": "What does 'cetopariccañāṇa' mean?",
+         "opts": [
+             "The ending of defilements",
+             "The ability to encompass and read the minds of others",
+             "Purified clairvoyance",
+             "A trusted teacher"],
+         "correct": 1,
+         "expl": "One of the six direct knowledges named in this poem's final verse."},
+        {"q": "What position does this poem hold in the Therigatha as a whole?",
+         "opts": [
+             "It closes the Book of the Fours",
+             "It is the final poem of the entire collection",
+             "It stands outside any book",
+             "It opens the Book of the Fives, the collection's fifth book"],
+         "correct": 3,
+         "expl": "The first of twelve poems in this new book."},
+        {"q": "What does 'khandhāyatanadhātuyo' name?",
+         "opts": [
+             "A place name",
+             "The name of this nun's teacher",
+             "The aggregates, sense fields, and elements — three analytical categories",
+             "A type of ordination"],
+         "correct": 2,
+         "expl": "The same compound term taught to Uttamā in Thig 3.2."},
+        {"q": "How does this poem's structure compare to Thig 3.1 and Thig 3.2's?",
+         "opts": [
+             "It echoes elements of both: the twenty-five-year span of 3.1 and the teacher's exact instruction from 3.2",
+             "It shares nothing with either poem",
+             "It is identical to Thig 3.1 in every line",
+             "It shares only its title with any earlier poem"],
+         "correct": 0,
+         "expl": "A poem that draws together two earlier confessions and teachings into one account."},
+    ],
+    marginalia=[
+        ("A second unnamed nun", [
+            "opening this book,",
+            "as one opened the first"
+        ]),
+        ("Failure, told more viscerally", [
+            "flailing arms,",
+            "crying aloud"
+        ]),
+        ("A teaching, reused word for word", [
+            "the same phrase",
+            "as Thig 3.2"
+        ]),
+        ("Six knowledges, named in full", [
+            "the fullest list",
+            "so far"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-4.1.html">Thig 4.1 &mdash; Bhadd&amacr; Daughter of '
+        "Kapila</a> &mdash; the poem immediately before this one, closing "
+        "the Book of the Fours.",
+        '<a href="thig-1.1.html">Thig 1.1 &mdash; An Unnamed Nun</a> '
+        "&mdash; the poem this one's title points back to, opening the "
+        "entire collection.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.2 — Vimalā, the Former Courtesan
+# --------------------------------------------------------------------------- #
+page(
+    5, 2, "Vimal&amacr;", "Vimal&amacr;, the Former Courtesan",
+    meta_title="Thig 5.2 — Vimalā, the Former Courtesan | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Vimalā's verses, the collection's most vivid account yet from a "
+        "former courtesan, contrasting her old trade with her later "
+        "freedom from thought. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 2 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "The nun Vimalā, speaking in the first person about "
+                    "her former livelihood and her present practice"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; the "
+                       "collection's most vivid account from a former "
+                       "courtesan"),
+    ],
+    why=(
+        "This poem's title states its subject directly: &lsquo;Vimalā, "
+        "the Former Courtesan&rsquo;. Where Thig 2.4's Aḍḍhakāsi named "
+        "her former price and moved quickly past it, Vimalā's own "
+        "account lingers longer on the specifics of her old trade "
+        "&mdash; vanity, seduction, a self-description as a hunter "
+        "setting a snare &mdash; before turning, in the space of a "
+        "single verse, to alms-round, a shaved head, and a mind free of "
+        "thought."),
+    guide=[
+        ("A second former courtesan, described more fully", [
+            "Thig 2.4's Aḍḍhakāsi named her former worth and moved on "
+            "quickly. Vimalā's account is longer and more specific about "
+            "the trade itself &mdash; standing &lsquo;at the brothel "
+            "door&rsquo;, adorning her body, and openly displaying "
+            "herself to draw customers in."]),
+        ("A hunter's snare, applied to herself", [
+            "&lsquo;I stood at the brothel door, like a hunter setting a "
+            "snare&rsquo; is Vimalā's own self-description, not an "
+            "outside judgment &mdash; she names her former conduct as "
+            "predatory toward the men she drew in, a harsher "
+            "self-assessment than most confessions in this collection."]),
+        ("A single verse spans the entire change", [
+            "&lsquo;Today, having wandered for alms, my head shaven, "
+            "wearing the outer robe&rsquo; opens the poem's fourth verse "
+            "with the present tense &lsquo;today&rsquo;, setting the "
+            "whole of her former trade against the whole of her new life "
+            "in one compact turn."]),
+        ("Freedom from thought, an unusual way to name attainment", [
+            "&lsquo;I've gained freedom from thought&rsquo; "
+            "(<em>avitakka</em>) is a distinctive way to describe "
+            "realization, less common in this collection than "
+            "&lsquo;peace of mind&rsquo; or &lsquo;quenching&rsquo; "
+            "&mdash; naming the cessation of discursive thought itself "
+            "as what she gained, before the closing verse's more usual "
+            "formula of defilements ended."]),
+    ],
+    terms=[
+        ("Vimal&amacr;",
+         "this poem's speaker, whose title names her former trade "
+         "directly: &lsquo;Vimalā, the Former Courtesan&rsquo;."),
+        ("vesidv&amacr;ra",
+         "&ldquo;the brothel door&rdquo; &mdash; the specific site named "
+         "in this poem's second verse."),
+        ("avitakka",
+         "&ldquo;freedom from thought&rdquo; &mdash; Vimalā's own "
+         "distinctive description of what she gained, naming the "
+         "cessation of discursive thought."),
+        ("yoga",
+         "the &ldquo;yokes&rdquo; or bonds, human and heavenly, this "
+         "poem describes as entirely severed in its closing verse."),
+        ("&amacr;sava",
+         "&ldquo;defilements&rdquo; &mdash; wiped out entirely, in the "
+         "poem's final line, before she describes herself as "
+         "&lsquo;cooled and quenched&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.2:1.1-1.4"),
+        ("p", "&sect;2", "thig5.2:2.1-2.4"),
+        ("p", "&sect;3", "thig5.2:3.1-3.4"),
+        ("p", "&sect;4", "thig5.2:4.1-4.4"),
+        ("p", "&sect;5", "thig5.2:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's title state directly about Vimalā?",
+         "opts": [
+             "Nothing about her past",
+             "That she was a queen",
+             "That she was formerly a courtesan",
+             "That she was a teacher of doctrine"],
+         "correct": 2,
+         "expl": "'Vimalā, the Former Courtesan' — the title itself names her trade."},
+        {"q": "How does Vimalā describe herself at the brothel door?",
+         "opts": [
+             "Like a hunter setting a snare",
+             "As a reluctant, unwilling participant",
+             "The poem gives no description of this scene",
+             "As indifferent to the men who came"],
+         "correct": 0,
+         "expl": "Her own self-description, naming her former conduct as predatory."},
+        {"q": "How does this poem's account compare to Thig 2.4's Aḍḍhakāsi?",
+         "opts": [
+             "Identical in every detail",
+             "Aḍḍhakāsi's account is longer and more explicit",
+             "Neither poem mentions a former trade",
+             "Vimalā's account lingers longer on the specifics of the trade itself"],
+         "correct": 3,
+         "expl": "Aḍḍhakāsi names her price and moves on quickly; Vimalā's account is fuller."},
+        {"q": "What word marks the turn to Vimalā's new life, in the poem's fourth verse?",
+         "opts": [
+             "'Tomorrow'",
+             "'Today'",
+             "'Long ago'",
+             "No specific word marks a turn"],
+         "correct": 1,
+         "expl": "'Today, having wandered for alms' — the present tense frames the whole shift."},
+        {"q": "What does Vimalā say she gained, in an unusual formulation for this collection?",
+         "opts": [
+             "Wealth",
+             "Freedom from thought",
+             "A large following of students",
+             "Nothing is named"],
+         "correct": 1,
+         "expl": "'Avitakka' — the cessation of discursive thought, distinct from this collection's more usual formulas."},
+        {"q": "What does this poem's closing verse say about the 'yokes', human and heavenly?",
+         "opts": [
+             "That they remain unresolved",
+             "That only some are cut off",
+             "All are severed",
+             "The poem does not mention them"],
+         "correct": 2,
+         "expl": "A complete, unqualified claim, closing the poem."},
+        {"q": "What does 'āsava' mean, as used in this poem's final line?",
+         "opts": [
+             "'Ornaments'",
+             "'A hunter's snare'",
+             "'The brothel door'",
+             "'Defilements' — wiped out entirely, by her own account"],
+         "correct": 3,
+         "expl": "Named directly as ended, just before she calls herself 'cooled and quenched'."},
+        {"q": "How does Vimalā describe her own former conduct toward the men she drew in?",
+         "opts": [
+             "As entirely blameless",
+             "As a predatory act, comparing herself to a hunter",
+             "As someone else's fault, not her own",
+             "The poem does not address this"],
+         "correct": 1,
+         "expl": "A harsher self-assessment than most confessions in this collection."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The last poem",
+             "It stands outside this book",
+             "The second poem, following the unnamed nun who opens the book",
+             "The first poem"],
+         "correct": 2,
+         "expl": "Following Thig 5.1, continuing the Book of the Fives."},
+        {"q": "What does 'vesidvāra' mean?",
+         "opts": [
+             "'The brothel door' — the site named in this poem's second verse",
+             "'Freedom from thought'",
+             "'A shaven head'",
+             "'The outer robe'"],
+         "correct": 0,
+         "expl": "The specific site of her former trade, named directly."},
+    ],
+    marginalia=[
+        ("A trade, named and described", [
+            "more fully than",
+            "Aḍḍhakāsi's account"
+        ]),
+        ("A hunter, a snare", [
+            "her own self-description,",
+            "not an outside verdict"
+        ]),
+        ("'Today' — the whole turn in one word", [
+            "the former trade,",
+            "set against the new life"
+        ]),
+        ("Freedom from thought", [
+            "a distinctive phrase,",
+            "naming a different kind of gain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.1.html">Thig 5.1 &mdash; An Unnamed Nun (2nd)</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-2.4.html">Thig 2.4 &mdash; A&#7693;&#7693;hak&amacr;si'
+        "</a> &mdash; another former courtesan's account, earlier in this "
+        "collection.",
+        '<a href="thig-5.3.html">Thig 5.3 &mdash; S&imacr;h&amacr;</a> '
+        "&mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.3 — Sīhā
+# --------------------------------------------------------------------------- #
+page(
+    5, 3, "S&imacr;h&amacr;", "S&imacr;h&amacr;",
+    meta_title="Thig 5.3 — Sīhā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sīhā's verses, seven years of suffering under desire's grip, "
+        "resolved at the exact moment of what should have been despair. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 3 of 12",
+    glance=[
+        ("Setting", "Seven years of struggle, then a forest, at a moment "
+                    "of extremity"),
+        ("Speaker", "The nun Sīhā, recounting seven years of failed "
+                    "effort and a sudden turn"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; one "
+                       "of this collection's starkest accounts of "
+                       "prolonged suffering"),
+    ],
+    why=(
+        "This poem recounts seven years of suffering under the grip of "
+        "desire &mdash; described in stark physical terms, &lsquo;thin, "
+        "pale, and wan&rsquo; &mdash; before Sīhā, at what the verses "
+        "present as a point of complete exhaustion, resolves to end her "
+        "life in the forest rather than continue as she had been. The "
+        "poem's turn comes at the precise moment that resolve is carried "
+        "out: her mind, the verses say, was freed."),
+    guide=[
+        ("Seven years, told in the body's own terms", [
+            "&lsquo;Thin, pale, and wan&rsquo; describes seven years of "
+            "wandering under &lsquo;irrational application of mind&rsquo; "
+            "and desire's grip &mdash; the toll measured physically, not "
+            "only as an inner report of unhappiness."]),
+        ("A resolve reached only after prolonged failure", [
+            "Sīhā's decision to end her life in the forest is not "
+            "impulsive within the poem's own account: it follows seven "
+            "full years of &lsquo;finding no happiness by day or "
+            "night&rsquo;, presented as the exhausted end of sustained, "
+            "failed effort rather than a sudden reaction."]),
+        ("A noose, echoing the poem just before it", [
+            "&lsquo;Pāsa&rsquo;, the noose Sīhā ties, is the same word "
+            "Vimalā used one poem earlier as a metaphor for her former "
+            "predatory conduct &mdash; here made literal, a striking "
+            "echo across two consecutive poems in this book."]),
+        ("The turn, at the exact moment of extremity", [
+            "&lsquo;Casting it round my neck, my mind was freed&rsquo; "
+            "places the poem's entire resolution at the single instant "
+            "of complete confrontation with death &mdash; the verses "
+            "offer no account of what shifted, only that it did, exactly "
+            "there."]),
+    ],
+    terms=[
+        ("S&imacr;h&amacr;",
+         "this poem's speaker, whose account of seven years' struggle "
+         "closes on a single, unexplained turn."),
+        ("ayoniso manasik&amacr;ra",
+         "&ldquo;irrational application of mind&rdquo; &mdash; named in "
+         "this poem's opening line as the root of her seven years of "
+         "suffering."),
+        ("k&amacr;mar&amacr;ga",
+         "desire for sensual pleasures, named twice in this poem as what "
+         "afflicted her."),
+        ("p&amacr;sa",
+         "&ldquo;noose&rdquo; or &ldquo;snare&rdquo; &mdash; the same "
+         "word Vimalā used metaphorically in Thig 5.2, here the literal "
+         "object Sīhā ties."),
+        ("cittaṁ vimucci",
+         "&ldquo;my mind was freed&rdquo; &mdash; this poem's closing "
+         "line, and its entire account of resolution."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.3:1.1-1.4"),
+        ("p", "&sect;2", "thig5.3:2.1-2.4"),
+        ("p", "&sect;3", "thig5.3:3.1-3.4"),
+        ("p", "&sect;4", "thig5.3:4.1-4.4"),
+        ("p", "&sect;5", "thig5.3:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem name as the root of Sīhā's seven years of suffering?",
+         "opts": [
+             "A specific illness",
+             "Irrational application of mind, and desire for sensual pleasures",
+             "Poverty",
+             "No cause is named"],
+         "correct": 1,
+         "expl": "Named directly in the poem's opening lines."},
+        {"q": "How does the poem describe the physical toll of these seven years?",
+         "opts": [
+             "It describes no physical toll",
+             "As a source of increased strength",
+             "As entirely unnoticeable to others",
+             "'Thin, pale, and wan' — measured in the body, not only in feeling"],
+         "correct": 3,
+         "expl": "A stark, physical description of prolonged suffering."},
+        {"q": "How does the poem present Sīhā's resolve to end her life?",
+         "opts": [
+             "As the exhausted end of seven years of failed effort, not an impulsive reaction",
+             "As a sudden, unexplained whim",
+             "As advice given to her by another nun",
+             "The poem does not describe this at all"],
+         "correct": 0,
+         "expl": "Presented as the culmination of prolonged, sustained struggle."},
+        {"q": "What word does this poem use for the noose, shared with a metaphor in the poem just before it?",
+         "opts": [
+             "Khandha",
+             "Pāsa — 'noose' or 'snare', which Vimalā used metaphorically in Thig 5.2",
+             "Āsava",
+             "No word is shared between the two poems"],
+         "correct": 1,
+         "expl": "A striking echo: metaphorical in Thig 5.2, literal here."},
+        {"q": "At what precise moment does the poem locate Sīhā's turn toward freedom?",
+         "opts": [
+             "Years afterward, in quiet reflection",
+             "Before she ever entered the forest",
+             "The poem does not specify a moment",
+             "The exact moment of casting the noose around her neck"],
+         "correct": 3,
+         "expl": "'Casting it round my neck, my mind was freed' — the resolution and the moment are identical."},
+        {"q": "Does the poem explain what caused her mind to be freed at that moment?",
+         "opts": [
+             "Yes, in extensive detail",
+             "No — the verses state only that it happened, not why",
+             "It attributes the change to another person's intervention",
+             "It says nothing changed at all"],
+         "correct": 1,
+         "expl": "The poem offers the fact of the turn without an explanation for it."},
+        {"q": "What does 'ayoniso manasikāra' mean?",
+         "opts": [
+             "'My mind was freed'",
+             "'Thin, pale, and wan'",
+             "'Irrational application of mind' — named as the root of her suffering",
+             "'A noose'"],
+         "correct": 2,
+         "expl": "Named in this poem's very first line."},
+        {"q": "How long does the poem say Sīhā wandered in this state of suffering?",
+         "opts": [
+             "One year",
+             "A single day",
+             "Seven years",
+             "The duration is not given"],
+         "correct": 2,
+         "expl": "'For seven years I wandered... finding no happiness by day or night.'"},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "It stands outside this book",
+             "The third poem, following Vimalā"],
+         "correct": 3,
+         "expl": "Following Thig 5.2, continuing the Book of the Fives."},
+        {"q": "What does 'kāmarāga' mean?",
+         "opts": [
+             "Desire for sensual pleasures — named twice as what afflicted Sīhā",
+             "A place in the forest",
+             "'Seven years'",
+             "A type of noose"],
+         "correct": 0,
+         "expl": "Named directly in this poem's opening verses as the source of her struggle."},
+    ],
+    marginalia=[
+        ("Seven years, in the body's terms", [
+            "thin, pale, wan —",
+            "the toll measured physically"
+        ]),
+        ("A resolve, not an impulse", [
+            "reached only after",
+            "years of failed effort"
+        ]),
+        ("A noose, made literal", [
+            "the same word",
+            "as Thig 5.2's metaphor"
+        ]),
+        ("The turn, unexplained", [
+            "only that it happened,",
+            "not why"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.2.html">Thig 5.2 &mdash; Vimal&amacr;, the Former '
+        "Courtesan</a> &mdash; the poem immediately before this one, "
+        "sharing the word for &lsquo;noose&rsquo; this poem makes literal.",
+        '<a href="thig-5.4.html">Thig 5.4 &mdash; Sundar&imacr;nand&amacr;'
+        "</a> &mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.4 — Sundarīnandā
+# --------------------------------------------------------------------------- #
+page(
+    5, 4, "Sundar&imacr;nand&amacr;", "Sundar&imacr;nand&amacr;",
+    meta_title="Thig 5.4 — Sundarīnandā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sundarīnandā's verses, opening with the identical instruction "
+        "given to Nandā in Thig 2.1, now followed by her own completed "
+        "realization. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 4 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "a fragmentary closing attribution names the "
+                    "speaker"),
+        ("Speaker", "Two quoted blocks: an instruction addressed to "
+                    "Nandā, then her own first-person account of "
+                    "realization"),
+        ("Form", "Five four-line verses, in two quoted blocks of three "
+                 "and two"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens with a word-for-word repetition from "
+                       "earlier in this collection"),
+    ],
+    why=(
+        "This poem's opening two verses are identical, word for word, to "
+        "Thig 2.1's instruction to the trainee nun Nandā &mdash; whose "
+        "own closing attribution notes that the Buddha &lsquo;regularly "
+        "advised&rsquo; her this way. Where Thig 2.1 stopped at the "
+        "instruction itself, this poem continues: three more verses "
+        "carry the same address into an account of the body examined, "
+        "disillusionment following, and a mind finally at peace."),
+    guide=[
+        ("An opening repeated word for word", [
+            "&lsquo;Nandā, see this bag of bones as diseased, filthy, "
+            "and rotten. With mind unified and serene, meditate on the "
+            "ugly aspects of the body&rsquo; is identical, segment for "
+            "segment, to Thig 2.1's opening instruction &mdash; the same "
+            "address to the same name."]),
+        ("An instruction given 'regularly', now shown taking root", [
+            "Thig 2.1's own closing line states that &lsquo;the Buddha "
+            "regularly advised the trainee nun Nandā with these "
+            "verses&rsquo;. This poem does not simply repeat that "
+            "instruction; it extends the same quoted address three "
+            "verses further, into the reflection it produced."]),
+        ("A first quoted block, ending inside its own reflection", [
+            "The source text's quotation marks span three full verses "
+            "here, not two &mdash; opening with the bag-of-bones "
+            "instruction and closing only after &lsquo;reflecting in "
+            "such a way, tireless all day and night, having broken "
+            "through with my own wisdom, I saw&rsquo;, the address "
+            "folding into its own outcome before the quote closes."]),
+        ("A second block, her realization made explicit", [
+            "A separate quoted block follows, unambiguously in her own "
+            "voice: &lsquo;I truly saw this body both inside and "
+            "out... growing disillusioned with the body, I became "
+            "dispassionate within... I'm quenched and at peace&rsquo; "
+            "&mdash; the instruction's completed result, stated "
+            "directly."]),
+    ],
+    terms=[
+        ("Sundar&imacr;nand&amacr;",
+         "this poem's speaker, addressed by the shorter name "
+         "&lsquo;Nandā&rsquo; within the verses, which open identically "
+         "to Thig 2.1's instruction."),
+        ("asubha",
+         "&ldquo;the unattractive&rdquo; or &ldquo;foulness&rdquo; "
+         "&mdash; the same meditation category named in Thig 2.1's "
+         "instruction, repeated here word for word."),
+        ("yoniso",
+         "&ldquo;rationally&rdquo; or &ldquo;wisely&rdquo; &mdash; how "
+         "this poem describes her own investigation of the body, in its "
+         "second quoted block."),
+        ("santarab&amacr;hira",
+         "&ldquo;inside and out&rdquo; &mdash; the completeness this "
+         "poem claims for her examination of the body."),
+        ("nibbindati",
+         "to become disillusioned or dispassionate &mdash; the state "
+         "this poem names directly before its closing description of "
+         "peace."),
+    ],
+    text_intro=(
+        "The text in full: five verses in two quoted blocks. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.4:1.1-3.4"),
+        ("p", "&sect;2", "thig5.4:4.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What do this poem's opening two verses share with Thig 2.1?",
+         "opts": [
+             "They are word-for-word identical",
+             "Nothing at all",
+             "Only the speaker's name is shared",
+             "Only the closing line is shared"],
+         "correct": 0,
+         "expl": "'Nandā, see this bag of bones...' — the identical instruction, segment for segment."},
+        {"q": "What does Thig 2.1's own closing line say about this instruction?",
+         "opts": [
+             "That it was given only once",
+             "The Buddha regularly advised Nandā with these verses",
+             "That it was written down by someone else entirely",
+             "That Nandā rejected the instruction"],
+         "correct": 1,
+         "expl": "Explaining why the same words could recur, addressed to the same name."},
+        {"q": "How many verses does this poem's opening quoted block span, according to the source text's punctuation?",
+         "opts": [
+             "One",
+             "Five",
+             "Two",
+             "Three"],
+         "correct": 3,
+         "expl": "Unlike Thig 2.1's two verses, this poem's first quoted block extends to three."},
+        {"q": "What does the poem's second quoted block describe?",
+         "opts": [
+             "A completely different, unrelated topic",
+             "Her own realization: seeing the body fully, growing disillusioned, and reaching peace",
+             "A dialogue with Māra",
+             "Advice given to yet another nun"],
+         "correct": 1,
+         "expl": "The instruction's completed result, stated directly in her own voice."},
+        {"q": "What does 'santarabāhira' mean?",
+         "opts": [
+             "'Inside and out' — the completeness of her examination of the body",
+             "'Regularly advised'",
+             "'A bag of bones'",
+             "'Disillusioned'"],
+         "correct": 0,
+         "expl": "Naming the thoroughness of her investigation."},
+        {"q": "What is this poem's relationship to Thig 2.1?",
+         "opts": [
+             "They share nothing in common",
+             "This poem is set in an entirely different book with no textual connection",
+             "This poem opens with the same instruction, then extends into an account of its result",
+             "Thig 2.1 is the later poem, referencing this one"],
+         "correct": 2,
+         "expl": "A shared opening, followed by new material unique to this poem."},
+        {"q": "What does 'nibbindati' describe?",
+         "opts": [
+             "Becoming disillusioned or dispassionate, named just before the poem's closing description of peace",
+             "The act of shaving one's head",
+             "A formal ordination",
+             "The instruction's opening line"],
+         "correct": 3,
+         "expl": "Marking the shift from investigation to release."},
+        {"q": "How does this poem close?",
+         "opts": [
+             "With a question left unanswered",
+             "Mid-instruction, without any resolution",
+             "With the 'no more future lives' formula",
+             "'I'm quenched and at peace'"],
+         "correct": 3,
+         "expl": "A direct statement of completed peace."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "The fourth poem, following Sīhā",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 5.3, continuing the Book of the Fives."},
+        {"q": "What does 'yoniso' mean, as used in this poem's second block?",
+         "opts": [
+             "'A bag of bones'",
+             "'Rationally' or 'wisely' — how she investigated the body",
+             "'The unattractive'",
+             "'Filthy and rotten'"],
+         "correct": 1,
+         "expl": "Describing the quality of her own examination, distinct from the instruction's opening imagery."},
+    ],
+    marginalia=[
+        ("An opening, repeated exactly", [
+            "the same words",
+            "as Thig 2.1"
+        ]),
+        ("'Regularly advised' — now shown taking root", [
+            "the same instruction,",
+            "finally realized"
+        ]),
+        ("One quotation, spanning three verses", [
+            "not two, as in",
+            "Thig 2.1"
+        ]),
+        ("A second block, unambiguous", [
+            "her own voice,",
+            "her own peace"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.3.html">Thig 5.3 &mdash; S&imacr;h&amacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-2.1.html">Thig 2.1 &mdash; Abhir&umacr;panand&amacr;'
+        "</a> &mdash; the poem whose opening instruction this one repeats "
+        "word for word.",
+        '<a href="thig-5.5.html">Thig 5.5 &mdash; Nanduttar&amacr;</a> '
+        "&mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.5 — Nanduttarā
+# --------------------------------------------------------------------------- #
+page(
+    5, 5, "Nanduttar&amacr;", "Nanduttar&amacr;",
+    meta_title="Thig 5.5 — Nanduttarā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Nanduttarā's verses, describing years of ascetic vows and "
+        "unresolved vanity before faith finally brought her to the "
+        "Buddha's path. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 5 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "The nun Nanduttarā, recounting a religious life "
+                    "before the Buddha's path, then her going forth"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "juxtaposes ascetic observance with unresolved "
+                       "vanity in the same account"),
+    ],
+    why=(
+        "This poem's speaker describes a religious life already underway "
+        "before she ever went forth as a Buddhist nun &mdash; worshiping "
+        "the sacred flame, the sun and moon, undertaking many vows, "
+        "sleeping on the ground &mdash; and admits, in the very next "
+        "verse, that she still &lsquo;loved ornaments and decorations&rsquo; "
+        "and pandered to her own body. Only when she &lsquo;gained "
+        "faith&rsquo; and went forth to homelessness did her account "
+        "describe an actual change."),
+    guide=[
+        ("A religious life, before this collection's own tradition", [
+            "&lsquo;In the past I worshiped the sacred flame, the moon, "
+            "the sun, and the gods&rsquo; describes devotional practice "
+            "outside the Buddha's path &mdash; vows undertaken, half her "
+            "head shaved, sleeping on bare ground, no food eaten at "
+            "night."]),
+        ("Vanity, admitted alongside the austerity", [
+            "The very next verse undercuts any sense of steady progress: "
+            "&lsquo;I loved my ornaments and decorations, and with baths "
+            "and oil-massages, I pandered to this body&rsquo; &mdash; "
+            "elaborate external observance sitting, by her own account, "
+            "beside unresolved attachment to appearance."]),
+        ("Faith named as the actual turning point", [
+            "&lsquo;But then I gained faith, and went forth to "
+            "homelessness&rsquo; marks a distinct change from everything "
+            "before it &mdash; not another vow or austerity, but "
+            "&lsquo;saddhā&rsquo;, faith, named as what actually "
+            "produced change where ritual observance alone had not."]),
+        ("Seeing the body, where austerity had not reached", [
+            "&lsquo;Truly seeing the body, desire for sensual pleasure is "
+            "eradicated&rsquo; completes the contrast: the same body "
+            "that survived years of vows and worship untransformed is "
+            "resolved not by further austerity, but by seeing it "
+            "&lsquo;as it really is&rsquo;."]),
+    ],
+    terms=[
+        ("Nanduttar&amacr;",
+         "this poem's speaker, whose account juxtaposes ascetic "
+         "observance with admitted vanity before her actual going "
+         "forth."),
+        ("vata",
+         "vows or observances &mdash; the many undertaken in this "
+         "poem's second verse, part of a religious life outside the "
+         "Buddha's path."),
+        ("vibh&#363;s&amacr;",
+         "ornaments and adornment &mdash; named directly as what she "
+         "loved, alongside baths and oil-massages, even during her "
+         "ascetic period."),
+        ("saddh&amacr;",
+         "&ldquo;faith&rdquo; &mdash; named as the specific turning "
+         "point that led to her actual going forth, distinct from her "
+         "earlier vows."),
+        ("yoga",
+         "the &ldquo;yokes&rdquo; this poem's closing verse describes as "
+         "entirely unyoked, alongside all wishes and aspirations cut "
+         "off."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.5:1.1-1.4"),
+        ("p", "&sect;2", "thig5.5:2.1-2.4"),
+        ("p", "&sect;3", "thig5.5:3.1-3.4"),
+        ("p", "&sect;4", "thig5.5:4.1-4.4"),
+        ("p", "&sect;5", "thig5.5:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's opening verse describe Nanduttarā worshiping?",
+         "opts": [
+             "No specific object of worship is described",
+             "A local king",
+             "The sacred flame, the moon, the sun, and the gods",
+             "The Buddha himself"],
+         "correct": 2,
+         "expl": "Devotional practice outside the Buddha's path, described first."},
+        {"q": "What ascetic practices does the second verse describe?",
+         "opts": [
+             "Many vows, half her head shaved, sleeping on the ground, no food at night",
+             "Nothing ascetic is described",
+             "Extensive travel abroad",
+             "Formal study of scripture only"],
+         "correct": 0,
+         "expl": "A concrete list of austere observances."},
+        {"q": "What does the third verse admit, immediately after describing this austerity?",
+         "opts": [
+             "That the austerity had already succeeded completely",
+             "That she loved ornaments and decorations, and pandered to her body with baths and oil-massages",
+             "That she abandoned all practice entirely",
+             "Nothing further is admitted"],
+         "correct": 1,
+         "expl": "Unresolved vanity, admitted alongside the austerity just described."},
+        {"q": "What does the poem name as the actual turning point toward change?",
+         "opts": [
+             "A vision in a dream",
+             "Another vow undertaken",
+             "A conversation with a king",
+             "Gaining faith, and going forth to homelessness"],
+         "correct": 3,
+         "expl": "'Saddhā' — distinct from the vows and worship described before it."},
+        {"q": "What does the poem say happened once she truly saw the body?",
+         "opts": [
+             "Desire for sensual pleasure is eradicated",
+             "Nothing changed",
+             "Her vanity increased",
+             "She returned to her earlier practices"],
+         "correct": 0,
+         "expl": "Where austerity alone had not resolved her attachment, seeing the body did."},
+        {"q": "What does 'vibhūsā' mean?",
+         "opts": [
+             "'Faith'",
+             "Ornaments and adornment — loved even during her ascetic period",
+             "'The sacred flame'",
+             "A type of vow"],
+         "correct": 1,
+         "expl": "Named directly as what she still loved, alongside baths and oil-massages."},
+        {"q": "How does this poem's structure differ from a simple story of steady progress?",
+         "opts": [
+             "It has no particular structure",
+             "It juxtaposes an already-devout life with an admission of unresolved vanity",
+             "It describes only steady, uninterrupted progress",
+             "It contains no austerity or vanity at all"],
+         "correct": 1,
+         "expl": "Ritual observance and unresolved attachment sit side by side in her own account."},
+        {"q": "What does the poem's closing verse say about 'yoga', the yokes?",
+         "opts": [
+             "That they remain, unresolved",
+             "That the poem does not mention them",
+             "That only human yokes are cut, not heavenly ones",
+             "That she is entirely unyoked, all wishes and aspirations cut off"],
+         "correct": 3,
+         "expl": "A complete, unqualified claim, closing the poem."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The fifth poem, following Sundarīnandā",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 5.4, continuing the Book of the Fives."},
+        {"q": "What does 'saddhā' mean?",
+         "opts": [
+             "'Faith' — named as the specific cause of her actual going forth",
+             "'Ornaments'",
+             "'A vow'",
+             "'The moon'"],
+         "correct": 0,
+         "expl": "Distinct from the many vows and worship described earlier in the poem."},
+    ],
+    marginalia=[
+        ("A religious life, before this path", [
+            "flame, sun, and moon —",
+            "worship outside the Buddha's teaching"
+        ]),
+        ("Vanity, admitted alongside austerity", [
+            "ornaments and oil-massages,",
+            "even during her vows"
+        ]),
+        ("Faith, named as the actual turn", [
+            "not another vow,",
+            "but saddhā itself"
+        ]),
+        ("Seeing, where austerity had not reached", [
+            "the same body,",
+            "resolved differently"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.4.html">Thig 5.4 &mdash; Sundar&imacr;nand&amacr;'
+        "</a> &mdash; the poem immediately before this one.",
+        '<a href="thig-5.6.html">Thig 5.6 &mdash; Mitt&amacr;k&amacr;&#7735;'
+        "&imacr;</a> &mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.6 — Mittākāḷī
+# --------------------------------------------------------------------------- #
+page(
+    5, 6, "Mitt&amacr;k&amacr;&#7735;&imacr;", "Mitt&amacr;k&amacr;&#7735;"
+    "&imacr;",
+    meta_title="Thig 5.6 — Mittākāḷī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Mittākāḷī's verses, a rare account of backsliding after "
+        "ordination, resolved by watching the rise and fall of the "
+        "aggregates. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 6 of 12",
+    glance=[
+        ("Setting", "A hut, where a moment of urgency strikes while "
+                    "sitting"),
+        ("Speaker", "The nun Mittākāḷī, recounting drift after her own "
+                    "ordination, then a turning point"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "rare account of failure occurring after, not "
+                       "before, going forth"),
+    ],
+    why=(
+        "Most confessions of failure in this collection describe "
+        "struggle before ordination. Mittākāḷī's account is different: "
+        "she went forth &lsquo;in faith&rsquo;, then admits to years of "
+        "&lsquo;jealous of possessions and honors&rsquo;, neglecting the "
+        "very goal she had ordained for &mdash; until a moment of sudden "
+        "urgency, sitting alone in her hut, turned her toward the "
+        "practice she had been avoiding."),
+    guide=[
+        ("Drift after ordination, not before it", [
+            "&lsquo;Having gone forth in faith... I wandered here and "
+            "there, jealous of possessions and honors&rsquo; describes "
+            "backsliding within monastic life itself &mdash; a distinct "
+            "kind of failure from Vimalā's or Sīhā's struggles, which "
+            "took place entirely before they ever went forth."]),
+        ("A verdict spoken to herself, quoted directly", [
+            "&lsquo;I'm walking the wrong path, under the sway of "
+            "craving&rsquo; is presented as her own words to herself, "
+            "quoted directly &mdash; an unusually candid piece of "
+            "internal speech, naming her own drift without excuse."]),
+        ("Mortality named as the spur to change", [
+            "&lsquo;My life is short, trampled by old age and "
+            "sickness... there is no time for me to be careless&rsquo; "
+            "gives her urgency a specific cause: not a vision or a "
+            "teacher's rebuke, but a plain recognition of how little "
+            "time remains."]),
+        ("A named method, not just a stated result", [
+            "&lsquo;I examined in line with the truth the rise and fall "
+            "of the aggregates&rsquo; names the specific practice that "
+            "followed her urgency &mdash; a stated technique, not only a "
+            "claim of liberation."]),
+    ],
+    terms=[
+        ("Mitt&amacr;k&amacr;&#7735;&imacr;",
+         "this poem's speaker, whose account of backsliding after "
+         "ordination is unusual in this collection."),
+        ("l&amacr;bhasakk&amacr;ra",
+         "&ldquo;possessions and honors&rdquo; &mdash; what she admits "
+         "to pursuing jealously, at the expense of &lsquo;the highest "
+         "goal&rsquo;."),
+        ("saṁvega",
+         "the sense of urgency that struck her while sitting in her "
+         "hut, explicitly named as her turning point."),
+        ("khandh&amacr;na&#7749; udayabbaya",
+         "&ldquo;the rise and fall of the aggregates&rdquo; &mdash; the "
+         "specific practice she names as what she examined, leading to "
+         "her liberation."),
+        ("vimuttacitt&amacr;",
+         "&ldquo;mind liberated&rdquo; &mdash; how this poem describes "
+         "her at its close, having fulfilled the Buddha's "
+         "instructions."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.6:1.1-1.4"),
+        ("p", "&sect;2", "thig5.6:2.1-2.4"),
+        ("p", "&sect;3", "thig5.6:3.1-3.4"),
+        ("p", "&sect;4", "thig5.6:4.1-4.4"),
+        ("p", "&sect;5", "thig5.6:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How did Mittākāḷī go forth, according to this poem's opening line?",
+         "opts": [
+             "Reluctantly, under pressure from her family",
+             "In faith",
+             "By accident",
+             "The poem does not describe how she went forth"],
+         "correct": 1,
+         "expl": "'Having gone forth in faith from the lay life to homelessness.'"},
+        {"q": "What does she admit to doing after ordination, rather than before it?",
+         "opts": [
+             "Nothing is admitted",
+             "Excelling immediately at meditation",
+             "Leaving the monastic order entirely",
+             "Wandering about, jealous of possessions and honors"],
+         "correct": 3,
+         "expl": "A rare account of drift occurring within monastic life itself."},
+        {"q": "What words does the poem quote her saying to herself, at her turning point?",
+         "opts": [
+             "'I'm walking the wrong path, under the sway of craving'",
+             "No words are quoted",
+             "A prayer to the gods",
+             "A complaint about her surroundings"],
+         "correct": 0,
+         "expl": "An unusually candid piece of internal speech, quoted directly."},
+        {"q": "What does the poem name as the specific cause of her urgency?",
+         "opts": [
+             "A dream",
+             "A rebuke from another nun",
+             "A plain recognition that her life is short, trampled by old age and sickness",
+             "No cause is given"],
+         "correct": 2,
+         "expl": "Mortality itself, plainly stated, rather than a vision or external event."},
+        {"q": "What specific practice does the poem name as what she examined?",
+         "opts": [
+             "The rise and fall of the aggregates",
+             "The teachings of a specific text",
+             "No specific practice is named",
+             "The behavior of other nuns"],
+         "correct": 0,
+         "expl": "A stated technique, not only a claim of liberation."},
+        {"q": "How does this poem's structure differ from Vimalā's or Sīhā's accounts?",
+         "opts": [
+             "It does not differ at all",
+             "It describes only pre-ordination struggle, like the others",
+             "It contains no struggle of any kind",
+             "Its failure takes place after ordination, not before it"],
+         "correct": 3,
+         "expl": "A distinct kind of drift, occurring within monastic life itself."},
+        {"q": "What does 'lābhasakkāra' mean?",
+         "opts": [
+             "'Possessions and honors' — what she admits to pursuing jealously",
+             "'The rise and fall'",
+             "'A sense of urgency'",
+             "'Old age and sickness'"],
+         "correct": 0,
+         "expl": "Named directly as what she pursued at the expense of the highest goal."},
+        {"q": "How does the poem describe her at its close?",
+         "opts": [
+             "Still uncertain",
+             "Standing up with mind liberated, having fulfilled the Buddha's instructions",
+             "Returning to lay life",
+             "Continuing to pursue possessions and honors"],
+         "correct": 1,
+         "expl": "A direct statement of completed liberation."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The sixth poem, following Nanduttarā",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 5.5, continuing the Book of the Fives."},
+        {"q": "What does 'saṁvega' name in this poem?",
+         "opts": [
+             "A type of ornament",
+             "A place name",
+             "'Possessions and honors'",
+             "The sense of urgency that struck her while sitting in her hut"],
+         "correct": 3,
+         "expl": "Explicitly named as her turning point."},
+    ],
+    marginalia=[
+        ("Drift, after ordination", [
+            "not before it,",
+            "unusual in this collection"
+        ]),
+        ("A verdict, spoken to herself", [
+            "'the wrong path' —",
+            "quoted directly"
+        ]),
+        ("Mortality, named as the spur", [
+            "no time left",
+            "for carelessness"
+        ]),
+        ("A method, named directly", [
+            "the rise and fall",
+            "of the aggregates"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.5.html">Thig 5.5 &mdash; Nanduttar&amacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-5.7.html">Thig 5.7 &mdash; Sakul&amacr;</a> &mdash; '
+        "the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.7 — Sakulā
+# --------------------------------------------------------------------------- #
+page(
+    5, 7, "Sakul&amacr;", "Sakul&amacr;",
+    meta_title="Thig 5.7 — Sakulā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sakulā's verses, insight arriving before renunciation, and an "
+        "explicit account of what leaving lay life actually cost her. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 7 of 12",
+    glance=[
+        ("Setting", "A lay household, where she first hears the "
+                    "teaching, before any renunciation"),
+        ("Speaker", "The nun Sakulā, narrating insight while still a "
+                    "layperson, then her subsequent going forth"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; names "
+                       "the specific cost of her renunciation without "
+                       "euphemism"),
+    ],
+    why=(
+        "This poem's sequence runs differently from most confessions in "
+        "this collection: Sakulā sees &lsquo;the stainless Dhamma, "
+        "extinguishment, the state that does not pass&rsquo; while still "
+        "&lsquo;staying at home&rsquo;, before she ever renounces "
+        "&mdash; and when she does, the poem names exactly what she left "
+        "behind: a son, a daughter, riches, and grain, stated without "
+        "softening."),
+    guide=[
+        ("Insight before renunciation, not after it", [
+            "&lsquo;While staying at home I heard the teaching from a "
+            "monk. I saw the stainless Dhamma&rsquo; places her first "
+            "moment of clear seeing before she has renounced anything "
+            "&mdash; a different sequence from poems where insight "
+            "follows years of monastic struggle."]),
+        ("A cost, itemized rather than implied", [
+            "&lsquo;Leaving behind my son and my daughter, my riches and "
+            "my grain&rsquo; states plainly, in a single line, exactly "
+            "what her going forth required &mdash; children and property "
+            "named together, without euphemism or omission."]),
+        ("Named stages, each with its own attainment", [
+            "The poem tracks her progress through named stages: as a "
+            "&lsquo;trainee nun&rsquo; she develops &lsquo;the direct "
+            "path&rsquo; and gives up greed and hate; only &lsquo;when "
+            "fully ordained&rsquo; does she recollect her past lives and "
+            "purify her clairvoyance &mdash; each attainment tied to a "
+            "specific point in her formal progress."]),
+        ("Conditions seen as 'other', closing the account", [
+            "&lsquo;Conditions are born of causes, crumbling; having "
+            "seen them as other&rsquo; closes the poem with a specific "
+            "insight into causality and impermanence, immediately before "
+            "she gives up all remaining defilements."]),
+    ],
+    terms=[
+        ("Sakul&amacr;",
+         "this poem's speaker, whose insight into the Dhamma arrives "
+         "while she is still a layperson."),
+        ("nibb&amacr;na&#7749; padamaccuta&#7749;",
+         "&ldquo;extinguishment, the state that does not pass&rdquo; "
+         "&mdash; what she says she saw even before renouncing anything."),
+        ("sikkham&amacr;n&amacr;",
+         "a &ldquo;trainee nun&rdquo; &mdash; the stage at which this "
+         "poem says she developed the direct path and gave up greed and "
+         "hate."),
+        ("upasampad&amacr;",
+         "full ordination &mdash; the later stage at which she "
+         "recollected her past lives and purified her clairvoyance."),
+        ("sa&#7749;kh&amacr;ra",
+         "&ldquo;conditions&rdquo; &mdash; named in this poem's closing "
+         "verse as born of causes and crumbling, seen as other than "
+         "self."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.7:1.1-1.4"),
+        ("p", "&sect;2", "thig5.7:2.1-2.4"),
+        ("p", "&sect;3", "thig5.7:3.1-3.4"),
+        ("p", "&sect;4", "thig5.7:4.1-4.4"),
+        ("p", "&sect;5", "thig5.7:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "When did Sakulā first see 'the stainless Dhamma', according to this poem?",
+         "opts": [
+             "While still staying at home, before renouncing anything",
+             "Only after many years as a nun",
+             "In a dream, after her ordination",
+             "The poem does not say when"],
+         "correct": 0,
+         "expl": "Insight arrives before renunciation, an unusual sequence in this collection."},
+        {"q": "What does the poem name as the specific cost of her going forth?",
+         "opts": [
+             "Nothing is named specifically",
+             "Only her wealth, not her family",
+             "Her son and daughter, her riches and grain",
+             "Only a vague sense of loss"],
+         "correct": 2,
+         "expl": "Stated plainly, in a single line, without euphemism."},
+        {"q": "What did she develop and give up as a 'trainee nun'?",
+         "opts": [
+             "Nothing is described at this stage",
+             "Recollection of past lives only",
+             "Full ordination itself",
+             "The direct path, giving up greed and hate"],
+         "correct": 3,
+         "expl": "A specific attainment tied to her trainee stage, distinct from what follows full ordination."},
+        {"q": "What happened when she was fully ordained?",
+         "opts": [
+             "She returned to lay life",
+             "She recollected her past lives and purified her clairvoyance",
+             "Nothing new is described",
+             "She lost her earlier attainments"],
+         "correct": 1,
+         "expl": "A distinct attainment marked at this later, specific stage."},
+        {"q": "What insight does the poem's closing verse describe?",
+         "opts": [
+             "That conditions are born of causes and crumbling, seen as other",
+             "That nothing can ever be known",
+             "A vision of her former family",
+             "No insight is described"],
+         "correct": 0,
+         "expl": "A specific insight into causality and impermanence, closing the poem."},
+        {"q": "What does 'sikkhamānā' mean?",
+         "opts": [
+             "'Extinguishment'",
+             "A 'trainee nun' — the stage at which she developed the direct path",
+             "'Riches and grain'",
+             "A fully ordained nun"],
+         "correct": 1,
+         "expl": "Distinct from 'upasampadā', full ordination, named later in the poem."},
+        {"q": "How does this poem's sequence differ from many other confessions in this collection?",
+         "opts": [
+             "It does not differ at all",
+             "Insight is described only after many years of monastic struggle, as usual",
+             "It describes no insight at all",
+             "Her first insight comes before she has renounced anything"],
+         "correct": 3,
+         "expl": "A different order from poems where clarity follows prolonged monastic effort."},
+        {"q": "What does 'nibbānaṁ padamaccutaṁ' mean?",
+         "opts": [
+             "'Riches and grain'",
+             "'Extinguishment, the state that does not pass' — what she saw even before renouncing",
+             "'A trainee nun'",
+             "'The direct path'"],
+         "correct": 1,
+         "expl": "Her first, lay-life glimpse of the Dhamma, named directly."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The seventh poem, following Mittākāḷī",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 5.6, continuing the Book of the Fives."},
+        {"q": "What does 'saṅkhāra' mean, as used in this poem's closing verse?",
+         "opts": [
+             "'Full ordination'",
+             "'A monk's teaching'",
+             "'Conditions' — named as born of causes and crumbling",
+             "'A son and daughter'"],
+         "correct": 2,
+         "expl": "The specific object of insight closing the poem."},
+    ],
+    marginalia=[
+        ("Insight, before renunciation", [
+            "seen while still",
+            "at home"
+        ]),
+        ("A cost, named exactly", [
+            "son, daughter,",
+            "riches, grain"
+        ]),
+        ("Stages, each with its own mark", [
+            "trainee, then",
+            "fully ordained"
+        ]),
+        ("Conditions, seen as other", [
+            "born of causes,",
+            "crumbling"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.6.html">Thig 5.6 &mdash; Mitt&amacr;k&amacr;'
+        "&#7735;&imacr;</a> &mdash; the poem immediately before this one.",
+        '<a href="thig-5.8.html">Thig 5.8 &mdash; So&ntilde;&amacr;</a> '
+        "&mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.8 — Soṇā
+# --------------------------------------------------------------------------- #
+page(
+    5, 8, "So&ntilde;&amacr;", "So&ntilde;&amacr;",
+    meta_title="Thig 5.8 — Soṇā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Soṇā's verses, ten children raised before ordination, closing "
+        "on one of this collection's most defiant single lines. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 8 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "The nun Soṇā, describing a full lay life raising "
+                    "children before her ordination in old age"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes on one of this collection's most direct, "
+                       "defiant single lines"),
+    ],
+    why=(
+        "Soṇā's account opens with an entire lay lifetime already lived: "
+        "&lsquo;I gave birth to ten sons... then, when feeble and old, I "
+        "approached a nun&rsquo;. The teaching she receives repeats, for "
+        "a third time in this collection, the exact phrase given to "
+        "Uttamā in Thig 3.2 and the unnamed nun in Thig 5.1 &mdash; and "
+        "the poem closes on a line unlike any other in the book: a "
+        "direct curse against old age itself."),
+    guide=[
+        ("A full lay life, before any renunciation", [
+            "&lsquo;I gave birth to ten sons in this form, this bag of "
+            "bones&rsquo; opens with an entire worldly lifetime already "
+            "complete &mdash; ordination arriving only &lsquo;when "
+            "feeble and old&rsquo;, later in life than most accounts in "
+            "this collection."]),
+        ("A teaching phrase used for a third time", [
+            "&lsquo;She taught me the Dhamma: the aggregates, sense "
+            "fields, and elements&rsquo; repeats, word for word, the "
+            "same compound term &mdash; &lsquo;khandhāyatanadhātuyo&rsquo; "
+            "&mdash; already used for Uttamā's teacher in Thig 3.2 and "
+            "the unnamed nun's teacher in Thig 5.1: a recurring, "
+            "formulaic instruction given across three different women's "
+            "accounts."]),
+        ("A specific term for a swift attainment", [
+            "&lsquo;I achieved the immediate liberation, quenched by not "
+            "grasping&rsquo; uses a distinctive term, "
+            "&lsquo;anantarāvimokkha&rsquo;, naming her release as "
+            "immediate rather than gradual &mdash; a specific claim "
+            "about the pace of her final breakthrough."]),
+        ("A curse against old age, unlike anything else in this book", [
+            "&lsquo;Curse you, wretched old age!&rsquo; is addressed "
+            "directly to old age itself, immediately after she states "
+            "that the five aggregates &lsquo;remain, but their root is "
+            "cut&rsquo; &mdash; one of the most vivid, unguarded single "
+            "lines anywhere in this collection."]),
+    ],
+    terms=[
+        ("So&ntilde;&amacr;",
+         "this poem's speaker, whose account of raising ten children "
+         "precedes her ordination in old age."),
+        ("khandh&amacr;yatanadh&amacr;tuyo",
+         "&ldquo;the aggregates, sense fields, and elements&rdquo; "
+         "&mdash; the same teaching phrase used in Thig 3.2 and Thig "
+         "5.1, now given for a third time."),
+        ("anantar&amacr;vimokkha",
+         "&ldquo;immediate liberation&rdquo; &mdash; a distinctive term "
+         "for her final breakthrough, naming its pace as immediate "
+         "rather than gradual."),
+        ("pa&ntilde;cakkhandh&amacr;",
+         "the five aggregates, described in this poem's closing verse as "
+         "remaining, but with their root cut."),
+        ("jar&amacr;",
+         "&ldquo;old age&rdquo; &mdash; addressed directly and cursed in "
+         "this poem's most vivid line."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.8:1.1-1.4"),
+        ("p", "&sect;2", "thig5.8:2.1-2.4"),
+        ("p", "&sect;3", "thig5.8:3.1-3.4"),
+        ("p", "&sect;4", "thig5.8:4.1-4.4"),
+        ("p", "&sect;5", "thig5.8:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this poem's opening verse describe Soṇā's earlier life?",
+         "opts": [
+             "She gave birth to ten sons",
+             "She was a wandering ascetic",
+             "She was a queen",
+             "No earlier life is described"],
+         "correct": 0,
+         "expl": "A full lay lifetime already lived, before any renunciation."},
+        {"q": "When did Soṇā approach a nun and begin her monastic path?",
+         "opts": [
+             "In her youth",
+             "Before she had any children",
+             "When feeble and old",
+             "The poem does not say"],
+         "correct": 2,
+         "expl": "Ordination arriving later in life than most accounts in this collection."},
+        {"q": "What phrase does her teacher use, identical to Thig 3.2 and Thig 5.1?",
+         "opts": [
+             "'Twenty-five years'",
+             "'The victor's instructions'",
+             "No phrase is shared with those poems",
+             "'The aggregates, sense fields, and elements'"],
+         "correct": 3,
+         "expl": "The same compound term, now given for a third time in this collection."},
+        {"q": "What distinctive term does the poem use for her final breakthrough?",
+         "opts": [
+             "'Anantarāvimokkha' — 'immediate liberation'",
+             "'Peace of heart'",
+             "'The signless'",
+             "No specific term is used"],
+         "correct": 0,
+         "expl": "Naming the pace of her release as immediate, not gradual."},
+        {"q": "What does this poem's most vivid closing line address directly?",
+         "opts": [
+             "A specific nun by name",
+             "Old age itself, cursed directly",
+             "The Buddha",
+             "Māra"],
+         "correct": 1,
+         "expl": "'Curse you, wretched old age!' — one of the most unguarded lines in this collection."},
+        {"q": "What does the poem say about the five aggregates, just before this curse?",
+         "opts": [
+             "That they have vanished entirely",
+             "That they remain, but their root is cut",
+             "That they were never real",
+             "Nothing is said about them"],
+         "correct": 1,
+         "expl": "A precise image: continued existence, without the root that once drove it."},
+        {"q": "What does 'jarā' mean?",
+         "opts": [
+             "'Immediate liberation'",
+             "'Ten sons'",
+             "'A trainee nun'",
+             "'Old age' — addressed and cursed directly in this poem's closing verse"],
+         "correct": 3,
+         "expl": "The direct object of this poem's most vivid line."},
+        {"q": "How does this poem's opening compare to most other accounts in this collection?",
+         "opts": [
+             "It is identical to most other accounts",
+             "It begins with an entire lay lifetime, including raising children, complete before ordination",
+             "It describes a childhood in a monastery",
+             "It contains no lay life at all"],
+         "correct": 1,
+         "expl": "A fuller worldly life lived first, than in most poems in this book."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The first poem",
+             "The last poem",
+             "It stands outside this book",
+             "The eighth poem, following Sakulā"],
+         "correct": 3,
+         "expl": "Following Thig 5.7, continuing the Book of the Fives."},
+        {"q": "How many times, counting this poem, has the phrase 'khandhāyatanadhātuyo' now appeared in this collection?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Three times",
+             "It has never appeared before"],
+         "correct": 2,
+         "expl": "Thig 3.2, Thig 5.1, and now this poem — a recurring, formulaic instruction."},
+    ],
+    marginalia=[
+        ("A full life, lived first", [
+            "ten sons,",
+            "before ordination"
+        ]),
+        ("A teaching, given a third time", [
+            "the same phrase",
+            "as 3.2 and 5.1"
+        ]),
+        ("Immediate, not gradual", [
+            "a distinctive term",
+            "for the final release"
+        ]),
+        ("A curse, unguarded", [
+            "'wretched old age' —",
+            "addressed directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.7.html">Thig 5.7 &mdash; Sakul&amacr;</a> &mdash; '
+        "the poem immediately before this one.",
+        '<a href="thig-5.9.html">Thig 5.9 &mdash; Bhadd&amacr; of the Curly '
+        "Hair</a> &mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.9 — Bhaddā of the Curly Hair
+# --------------------------------------------------------------------------- #
+page(
+    5, 9, "Bhadd&amacr; Ku&#7751;&#7693;alakes&amacr;", "Bhadd&amacr; of "
+    "the Curly Hair",
+    meta_title="Thig 5.9 — Bhaddā of the Curly Hair | Ru-Yi Meditation "
+                "Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bhaddā Kuṇḍalakesā's verses, a former ascetic's harsh "
+        "self-judgment, an on-the-spot ordination, and a stranger's "
+        "closing praise. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 9 of 12",
+    glance=[
+        ("Setting", "Vulture's Peak Mountain, then decades of wandering "
+                    "across several kingdoms"),
+        ("Speaker", "Three voices: Bhaddā's own retrospective account, "
+                    "her account of ordination and travels, then an "
+                    "outside voice praising a donor"),
+        ("Form", "Five four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "shifts voice twice, closing on a stranger's "
+                       "praise for someone other than the speaker"),
+    ],
+    why=(
+        "This poem opens with unusually harsh self-judgment about a "
+        "life before the Buddha's path &mdash; &lsquo;I saw fault where "
+        "there was none, and was blind to the actual fault&rsquo; "
+        "&mdash; then narrates an on-the-spot ordination echoing the "
+        "earliest days of the monastic order, decades of extensive "
+        "wandering, and closes with a voice that is not Bhaddā's own, "
+        "praising a stranger's generosity toward her."),
+    guide=[
+        ("A former ascetic's harsh verdict on herself", [
+            "&lsquo;My hair mown off, covered in mud, I used to wander "
+            "wearing just one robe&rsquo; describes a life of austere "
+            "practice outside the Buddha's path, judged afterward "
+            "without sympathy: &lsquo;I saw fault where there was none, "
+            "and was blind to the actual fault&rsquo;."]),
+        ("An ordination echoing the earliest days of the order", [
+            "&lsquo;&ldquo;Come Bhaddā,&rdquo; he said; that was my "
+            "ordination&rsquo; uses the same simple formula as the "
+            "Buddha's very first ordinations, &lsquo;come, monk&rsquo; "
+            "&mdash; Bhikkhu Sujato's own note on this line observes that "
+            "&lsquo;ehi&rsquo;, &lsquo;come&rsquo;, was itself a "
+            "recognized sign of respect."]),
+        ("Fifty years, named across five regions", [
+            "&lsquo;I've wandered among the Aṅgans and Magadhans, the "
+            "Vajjis, Kāsis, and Kosalans... free of debt for fifty "
+            "years&rsquo; gives her subsequent life a scale and "
+            "geographic specificity unusual in this collection, five "
+            "named regions across five decades."]),
+        ("A stranger's voice, closing the poem", [
+            "The final verse shifts away from Bhaddā's own voice "
+            "entirely: &lsquo;that lay follower is so very wise... he "
+            "gave a robe to Bhaddā, who is released from all "
+            "ties&rsquo; &mdash; an outside voice, like Thig 3.6's "
+            "praise of Sukkā, but here praising not the nun herself, "
+            "only the donor who supported her."]),
+    ],
+    terms=[
+        ("Bhadd&amacr; Ku&#7751;&#7693;alakes&amacr;",
+         "&ldquo;Bhaddā of the Curly Hair&rdquo; &mdash; this poem's "
+         "speaker for most of its verses, formerly a wandering ascetic "
+         "outside the Buddha's path."),
+        ("vajje c&amacr;vajjadassin&imacr;",
+         "&ldquo;blind to the actual fault&rdquo; &mdash; her own harsh "
+         "verdict on her former practice, paired with seeing "
+         "&lsquo;fault where there was none&rsquo;."),
+        ("ehi bhadde",
+         "&ldquo;Come, Bhaddā&rdquo; &mdash; the Buddha's ordination "
+         "formula for her, echoing the earliest ordinations in the "
+         "monastic order."),
+        ("ra&#7789;&#7789;hapi&#7751;&#7693;a",
+         "&ldquo;the almsfood of the nations&rdquo; &mdash; describing "
+         "her decades of wandering across several named kingdoms, free "
+         "of debt."),
+        ("gantha",
+         "&ldquo;ties&rdquo; or bonds &mdash; named in this poem's "
+         "closing verse as what Bhaddā is entirely released from, "
+         "spoken by a voice other than her own."),
+    ],
+    text_intro=(
+        "The text in full: five verses, shifting voice twice. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.9:1.1-1.4"),
+        ("p", "&sect;2", "thig5.9:2.1-2.4"),
+        ("p", "&sect;3", "thig5.9:3.1-3.4"),
+        ("p", "&sect;4", "thig5.9:4.1-4.4"),
+        ("p", "&sect;5", "thig5.9:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does the poem describe Bhaddā's appearance during her earlier ascetic life?",
+         "opts": [
+             "Hair mown off, covered in mud, wearing just one robe",
+             "Richly dressed and adorned",
+             "No physical description is given",
+             "Wearing a crown"],
+         "correct": 0,
+         "expl": "A specific, austere image of her former practice."},
+        {"q": "How does the poem judge that earlier life?",
+         "opts": [
+             "As entirely admirable",
+             "As already fully successful",
+             "As harmless but pointless",
+             "'I saw fault where there was none, and was blind to the actual fault'"],
+         "correct": 3,
+         "expl": "An unusually harsh self-verdict on her prior practice."},
+        {"q": "What words does the Buddha use to ordain her, on the spot?",
+         "opts": [
+             "A lengthy formal ceremony is described in full",
+             "'Come, Bhaddā' — a simple, direct formula",
+             "No ordination is described",
+             "She ordains herself, without the Buddha's involvement"],
+         "correct": 1,
+         "expl": "Echoing the same simple formula used in the Buddha's very first ordinations."},
+        {"q": "According to Sujato's own note, what did the word 'ehi', 'come', signify in this context?",
+         "opts": [
+             "A recognized sign of respect",
+             "A command with no particular significance",
+             "An insult",
+             "A formal legal term"],
+         "correct": 0,
+         "expl": "Cited from a Vedic-era source in the guide's discussion of this line."},
+        {"q": "Across how many named regions does the poem say she wandered over fifty years?",
+         "opts": [
+             "Just one",
+             "Five: the Aṅgans, Magadhans, Vajjis, Kāsis, and Kosalans",
+             "None are named",
+             "Ten"],
+         "correct": 1,
+         "expl": "A scale and geographic specificity unusual in this collection."},
+        {"q": "Whose voice speaks in this poem's final verse?",
+         "opts": [
+             "Bhaddā's own voice, unchanged",
+             "The Buddha's voice",
+             "Māra's voice",
+             "An outside voice, praising a lay donor who is not Bhaddā herself"],
+         "correct": 3,
+         "expl": "A shift away from Bhaddā's own first-person account entirely."},
+        {"q": "What does the poem's final verse actually praise?",
+         "opts": [
+             "Bhaddā's own attainment directly",
+             "A lay follower's wisdom, for having given Bhaddā a robe",
+             "Nothing in particular",
+             "The Buddha's teaching in general"],
+         "correct": 1,
+         "expl": "Praise directed at the donor, not at Bhaddā's own realization."},
+        {"q": "How does this poem's closing voice-shift compare to Thig 3.6's Sukkā?",
+         "opts": [
+             "The two poems are identical in every way",
+             "Neither poem contains any outside voice",
+             "It is a similar device, but here praising a supporter rather than the practitioner herself",
+             "Thig 3.6 also praises a donor, not Sukkā"],
+         "correct": 2,
+         "expl": "A related but distinct use of an outside, praising voice."},
+        {"q": "What does 'gantha' mean, as used in this poem's closing verse?",
+         "opts": [
+             "'Ties' or bonds — named as what Bhaddā is entirely released from",
+             "'Curly hair'",
+             "'An ordination formula'",
+             "'Fifty years'"],
+         "correct": 0,
+         "expl": "Named by the outside voice that closes the poem."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The ninth poem, following Soṇā",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 5.8, continuing the Book of the Fives."},
+    ],
+    marginalia=[
+        ("A harsh verdict on herself", [
+            "fault where there was none,",
+            "blind to the real fault"
+        ]),
+        ("'Come, Bhaddā' — the earliest formula", [
+            "echoing the Buddha's",
+            "very first ordinations"
+        ]),
+        ("Fifty years, five regions", [
+            "a scale unusual",
+            "in this collection"
+        ]),
+        ("A stranger's voice, closing", [
+            "praising the donor,",
+            "not Bhaddā herself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="thig-5.8.html">Thig 5.8 &mdash; So&ntilde;&amacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-3.6.html">Thig 3.6 &mdash; Sukk&amacr;</a> &mdash; '
+        "an earlier poem whose closing outside voice this one's own "
+        "closing verse resembles.",
+        '<a href="thig-5.10.html">Thig 5.10 &mdash; Pa&#7789;&amacr;c&amacr;'
+        "r&amacr;</a> &mdash; the next poem in the Book of the Fives.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.10 — Paṭācārā
+# --------------------------------------------------------------------------- #
+page(
+    5, 10, "Pa&#7789;&amacr;c&amacr;r&amacr;", "Pa&#7789;&amacr;c&amacr;"
+    "r&amacr;",
+    meta_title="Thig 5.10 — Paṭācārā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Paṭācārā's own verses, insight arriving from watching water "
+        "flow downhill and a lamp go out, not from the story later "
+        "tradition remembers her for. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 10 of 12",
+    glance=[
+        ("Setting", "A dwelling, at evening, washing feet and preparing "
+                    "to sleep"),
+        ("Speaker", "The nun Paṭācārā, questioning her own lack of "
+                    "progress, then narrating two ordinary observations"),
+        ("Form", "Five verses, mostly four lines, the fourth extending "
+                 "to six"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; ends "
+                       "on one of this collection's most quoted single "
+                       "images"),
+    ],
+    why=(
+        "Paṭācārā is remembered by later tradition for an elaborate and "
+        "tragic story; this poem itself tells none of it. Instead, her "
+        "own verses describe a precise puzzle &mdash; ethical, obedient, "
+        "&lsquo;neither lazy nor restless&rsquo;, yet still short of "
+        "quenching &mdash; resolved not by further striving but by "
+        "watching water flow downhill while washing her feet, and then "
+        "a lamp go out."),
+    guide=[
+        ("A famous name, and a spare verse that tells none of the story", [
+            "Later Buddhist tradition remembers Paṭācārā for an "
+            "elaborate account of personal loss; this poem's own verses "
+            "state none of that narrative, only the puzzle of her "
+            "practice and the two observations that resolved it."]),
+        ("A precise self-diagnosis, ruling out the usual explanations", [
+            "&lsquo;I am accomplished in ethics, and I do the Teacher's "
+            "bidding... being neither lazy nor restless &mdash; why then "
+            "do I not achieve quenching?&rsquo; rules out the obvious "
+            "causes before the poem answers its own question."]),
+        ("Water, flowing from high ground to low", [
+            "Washing her feet, she &lsquo;took note of the water... "
+            "flowing from high ground to low&rsquo; &mdash; an entirely "
+            "ordinary, domestic action, not a teaching or a vision, "
+            "becomes the first observation that settles her mind."]),
+        ("A lamp extinguished, and the poem's most quoted image", [
+            "&lsquo;The liberation of my heart was like the quenching of "
+            "the lamp&rsquo; closes the poem on a simile that has "
+            "become one of the most recognized single images in the "
+            "entire Therigatha &mdash; drawn not from doctrine recited, "
+            "but from putting out a light before sleep."]),
+    ],
+    terms=[
+        ("Pa&#7789;&amacr;c&amacr;r&amacr;",
+         "this poem's speaker, remembered by later tradition for an "
+         "elaborate story this verse itself does not narrate."),
+        ("aku&#7779;it&amacr; anuddhat&amacr;",
+         "&ldquo;neither lazy nor restless&rdquo; &mdash; her own "
+         "precise ruling-out of the usual explanations for slow "
+         "progress."),
+        ("thalato ninna&#7749;",
+         "&ldquo;from high ground to low&rdquo; &mdash; the direction of "
+         "the water she watches while washing her feet."),
+        ("sam&amacr;dhi",
+         "the settled, serene mind state named directly after this "
+         "first observation, compared to &lsquo;a fine thoroughbred "
+         "steed&rsquo;."),
+        ("vimokkha",
+         "&ldquo;liberation&rdquo; &mdash; the word at the center of "
+         "this poem's closing simile, compared to a lamp's quenching."),
+    ],
+    text_intro=(
+        "The text in full: five verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.10:1.1-1.4"),
+        ("p", "&sect;2", "thig5.10:2.1-2.4"),
+        ("p", "&sect;3", "thig5.10:3.1-3.4"),
+        ("p", "&sect;4", "thig5.10:4.1-4.6"),
+        ("p", "&sect;5", "thig5.10:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "Does this poem itself narrate the tragic story later tradition remembers Paṭācārā for?",
+         "opts": [
+             "Yes, in full detail",
+             "No — this verse states none of that narrative",
+             "Only the ending is described",
+             "The poem is entirely about that story"],
+         "correct": 1,
+         "expl": "This guide keeps the well-known later tradition distinct from what the verse itself states."},
+        {"q": "What does Paṭācārā rule out as the cause of her lack of progress?",
+         "opts": [
+             "Nothing is ruled out",
+             "Laziness and restlessness — she names herself as neither",
+             "A lack of ethical conduct only",
+             "Her teacher's instruction"],
+         "correct": 1,
+         "expl": "A precise self-diagnosis, sharpening the puzzle before it is resolved."},
+        {"q": "What is Paṭācārā doing when she first observes the water?",
+         "opts": [
+             "Bathing in a river",
+             "Cooking a meal",
+             "Washing her feet",
+             "Traveling to a distant city"],
+         "correct": 2,
+         "expl": "An entirely ordinary, domestic action."},
+        {"q": "What direction does she observe the water flowing?",
+         "opts": [
+             "In a perfect circle",
+             "Upward, against gravity",
+             "The direction is not specified",
+             "From high ground to low"],
+         "correct": 3,
+         "expl": "'Thalato ninnam āgataṁ' — the specific observation named in the text."},
+        {"q": "What does the poem compare her settled mind to, after this observation?",
+         "opts": [
+             "A fine thoroughbred steed",
+             "A still pond",
+             "Nothing is compared",
+             "A flying bird"],
+         "correct": 0,
+         "expl": "A specific simile for her mind's new serenity."},
+        {"q": "What second action leads to this poem's closing image?",
+         "opts": [
+             "Reading a text",
+             "Extinguishing a lamp before sleep",
+             "A conversation with another nun",
+             "No second action occurs"],
+         "correct": 1,
+         "expl": "The domestic act that produces the poem's most famous simile."},
+        {"q": "What is this poem's closing simile?",
+         "opts": [
+             "The liberation of her heart was like the quenching of the lamp",
+             "Her mind was like a raging fire",
+             "No simile closes the poem",
+             "Her heart was like an unlit lamp, still dark"],
+         "correct": 0,
+         "expl": "One of the most recognized single images in the entire Therigatha."},
+        {"q": "What does 'akusītā anuddhatā' mean?",
+         "opts": [
+             "'A fine thoroughbred steed'",
+             "'From high ground to low'",
+             "'Neither lazy nor restless' — her own ruling-out of usual explanations",
+             "'The quenching of the lamp'"],
+         "correct": 2,
+         "expl": "Named directly in her own opening question to herself."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The tenth poem, following Bhaddā of the Curly Hair",
+             "The first poem",
+             "The last poem",
+             "It stands outside this book"],
+         "correct": 0,
+         "expl": "Following Thig 5.9, continuing the Book of the Fives."},
+        {"q": "Where does this poem's insight come from, according to its own account?",
+         "opts": [
+             "A vision of the Buddha",
+             "A formal doctrinal recitation",
+             "A conversation with Māra",
+             "Two ordinary, domestic observations: flowing water and an extinguished lamp"],
+         "correct": 3,
+         "expl": "Not doctrine recited, but everyday actions observed closely."},
+    ],
+    marginalia=[
+        ("A famous name, a spare verse", [
+            "the tragic story",
+            "told elsewhere, not here"
+        ]),
+        ("A puzzle, precisely stated", [
+            "neither lazy",
+            "nor restless"
+        ]),
+        ("Water, flowing downhill", [
+            "an ordinary act,",
+            "watched closely"
+        ]),
+        ("A lamp, and the collection's most quoted image", [
+            "liberation, like",
+            "a light put out"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.10/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-5.9.html">Thig 5.9 &mdash; Bhadd&amacr; of the '
+        "Curly Hair</a> &mdash; the poem immediately before this one.",
+        '<a href="thig-5.11.html">Thig 5.11 &mdash; Thirty Nuns</a> '
+        "&mdash; the next poem, the fruit of Paṭācārā's subsequent "
+        "teaching.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.11 — Thirty Nuns
+# --------------------------------------------------------------------------- #
+page(
+    5, 11, "Ti&#7749;samatt&amacr;", "Thirty Nuns",
+    meta_title="Thig 5.11 — Thirty Nuns | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Therigatha's only poem of collective realization: thirty nuns' "
+        "awakening across a single night, under Paṭācārā's guidance. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Fives &middot; Poem 11 of 12",
+    glance=[
+        ("Setting", "A single night, tracked across its three watches"),
+        ("Speaker", "Paṭācārā's instruction, then a third-person account "
+                    "of thirty nuns' shared realization"),
+        ("Form", "Five verses, mostly six lines, closing on a prose "
+                 "colophon"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "collection's only account of a shared, "
+                       "collective realization"),
+    ],
+    why=(
+        "Every other poem in this collection narrates one woman's own "
+        "path. This one is different: after Paṭācārā instructs a group "
+        "of listeners directly, the poem shifts to the third person "
+        "plural and tracks thirty nuns' realization across a single "
+        "night's three watches, closing with a prose line confirming "
+        "the event plainly: &lsquo;that is how thirty senior nuns "
+        "declared their enlightenment in the presence of "
+        "Paṭācārā&rsquo;."),
+    guide=[
+        ("An instruction, addressed to a group", [
+            "Paṭācārā's own words open the poem, contrasting young men "
+            "who labor for worldly wealth with a direct call: &lsquo;do "
+            "the Buddha's bidding, you won't regret it... devoted to "
+            "serenity of heart, do the Buddha's bidding&rsquo;."]),
+        ("Three watches, three attainments, shared by all", [
+            "The poem tracks the night precisely: past lives recollected "
+            "in the first watch, clairvoyance purified in the second, "
+            "and in the third, &lsquo;they shattered the mass of "
+            "darkness&rsquo; &mdash; the same phrase closing Thig 3.2, "
+            "3.7, and 3.8, now marking a shared realization rather than "
+            "one woman's alone."]),
+        ("A comparison to the gods honoring Indra", [
+            "&lsquo;We shall abide honoring you, as the Thirty gods "
+            "honor Indra, undefeated in battle&rsquo; is an unusually "
+            "elevated, mythological image for a teacher-student bond, "
+            "closing the nuns' own declaration of mastery."]),
+        ("A prose line, confirming the event plainly", [
+            "The poem's final line drops verse entirely: &lsquo;that is "
+            "how thirty senior nuns declared their enlightenment in the "
+            "presence of Paṭācārā&rsquo; &mdash; a simple, direct "
+            "colophon, unlike anything closing another poem in this "
+            "collection so far."]),
+    ],
+    terms=[
+        ("Pa&#7789;&amacr;c&amacr;r&amacr;",
+         "the teacher whose instruction, given directly in this poem's "
+         "opening verses, leads to the collective realization that "
+         "follows."),
+        ("cetosamatha",
+         "&ldquo;serenity of heart&rdquo; &mdash; what Paṭācārā's "
+         "listeners are instructed to devote themselves to."),
+        ("tamokkhandha",
+         "&ldquo;the mass of darkness&rdquo; &mdash; shattered here for "
+         "a fourth time in this collection, echoing Thig 3.2, 3.7, and "
+         "3.8."),
+        ("tevijj&amacr;",
+         "&ldquo;masters of the three knowledges&rdquo; &mdash; how the "
+         "thirty nuns describe themselves in their own closing "
+         "declaration."),
+        ("a&ntilde;&ntilde;a&#7749; by&amacr;kari&#7749;s&#363;",
+         "&ldquo;declared their enlightenment&rdquo; &mdash; the phrase "
+         "in this poem's closing prose colophon, confirming the event "
+         "plainly."),
+    ],
+    text_intro=(
+        "The text in full: Paṭācārā's instruction, the nuns' shared "
+        "realization, and a closing prose colophon. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.11:1.1-1.4"),
+        ("p", "&sect;2", "thig5.11:2.1-2.6"),
+        ("p", "&sect;3", "thig5.11:3.1-3.6"),
+        ("p", "&sect;4", "thig5.11:4.1-4.6"),
+        ("p", "&sect;5", "thig5.11:5.1-5.6"),
+        ("p", "&sect;6", ["thig5.11:6.1"]),
+    ],
+    quiz=[
+        {"q": "How does this poem differ structurally from every other poem in this collection so far?",
+         "opts": [
+             "It narrates a collective realization shared by thirty nuns, not one woman's own path",
+             "It contains no instruction of any kind",
+             "It is identical in structure to Thig 5.10",
+             "It has no closing content of any kind"],
+         "correct": 0,
+         "expl": "The collection's only account of a shared, group realization."},
+        {"q": "What does Paṭācārā's opening instruction contrast worldly labor with?",
+         "opts": [
+             "Nothing is contrasted",
+             "A call to accumulate greater wealth",
+             "A direct call to do the Buddha's bidding, devoted to serenity of heart",
+             "A warning about specific dangers"],
+         "correct": 2,
+         "expl": "Ordinary labor for wealth, set against her direct instruction."},
+        {"q": "What happens in the first watch of the night, according to this poem?",
+         "opts": [
+             "Nothing is described",
+             "They recollect their past lives",
+             "They purify their clairvoyance",
+             "They shatter the mass of darkness"],
+         "correct": 1,
+         "expl": "The first of three watches, each marked by a specific attainment."},
+        {"q": "What happens in the third and final watch?",
+         "opts": [
+             "They purify their clairvoyance",
+             "Nothing further happens",
+             "They shatter the mass of darkness",
+             "They recollect their past lives"],
+         "correct": 2,
+         "expl": "The same phrase closing Thig 3.2, 3.7, and 3.8, now marking a shared realization."},
+        {"q": "What comparison do the nuns use to describe their devotion to Paṭācārā?",
+         "opts": [
+             "Like the Thirty gods honoring Indra, undefeated in battle",
+             "No comparison is used",
+             "Like students honoring an ordinary teacher",
+             "Like soldiers honoring a general"],
+         "correct": 0,
+         "expl": "An unusually elevated, mythological image for a teacher-student bond."},
+        {"q": "How does this poem close?",
+         "opts": [
+             "With a question left unanswered",
+             "Mid-verse, with no resolution",
+             "With a prose colophon confirming that thirty senior nuns declared their enlightenment in Paṭācārā's presence",
+             "With a dialogue with Māra"],
+         "correct": 2,
+         "expl": "A simple, direct closing line unlike any other poem's ending so far in this collection."},
+        {"q": "What does 'tevijjā' mean, as the nuns use it of themselves?",
+         "opts": [
+             "'Serenity of heart'",
+             "'Undefeated in battle'",
+             "'The mass of darkness'",
+             "'Masters of the three knowledges'"],
+         "correct": 3,
+         "expl": "Their own declared title, closing their account."},
+        {"q": "How many times, counting this poem, has 'the mass of darkness' now been shattered in this collection?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Three times",
+             "A fourth time, after Thig 3.2, 3.7, and 3.8"],
+         "correct": 3,
+         "expl": "A recurring image for decisive breakthrough, now marking a group's shared attainment."},
+        {"q": "How does this poem relate to Thig 5.10, the poem immediately before it?",
+         "opts": [
+             "It has no relationship to Thig 5.10",
+             "It shows the fruit of Paṭācārā's own teaching, following her own realization in the previous poem",
+             "It contradicts everything stated in Thig 5.10",
+             "It is spoken by an entirely different, unrelated teacher"],
+         "correct": 1,
+         "expl": "Paṭācārā's own path in 5.10 leads directly into the mass realization she inspires here."},
+        {"q": "What does 'cetosamatha' mean?",
+         "opts": [
+             "'A prose colophon'",
+             "'Serenity of heart' — what Paṭācārā's listeners are told to devote themselves to",
+             "'Thirty nuns'",
+             "'The three watches of the night'"],
+         "correct": 1,
+         "expl": "Named directly in her opening instruction."},
+    ],
+    marginalia=[
+        ("A collective realization, unique here", [
+            "not one woman's path,",
+            "but thirty together"
+        ]),
+        ("Three watches, three attainments", [
+            "shared by all,",
+            "in a single night"
+        ]),
+        ("Devotion, compared to the gods", [
+            "as the Thirty",
+            "honor Indra"
+        ]),
+        ("A colophon, confirming plainly", [
+            "'that is how',",
+            "stated directly"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.11/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-5.10.html">Thig 5.10 &mdash; Pa&#7789;&amacr;c'
+        "&amacr;r&amacr;</a> &mdash; the poem immediately before this "
+        "one, Paṭācārā's own realization.",
+        '<a href="thig-5.12.html">Thig 5.12 &mdash; Cand&amacr;</a> '
+        "&mdash; the next poem, another nun Paṭācārā personally guided.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 5.12 — Candā
+# --------------------------------------------------------------------------- #
+page(
+    5, 12, "Cand&amacr;", "Cand&amacr;",
+    meta_title="Thig 5.12 — Candā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Candā's verses, a destitute widow personally ordained by "
+        "Paṭācārā, closing the Book of the Fives. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Fives &middot; Poem 12 of 12",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "The nun Candā, recounting destitution, then "
+                    "ordination under Paṭācārā's personal guidance"),
+        ("Form", "Five four-line verses, closing the Book of the Fives"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; one "
+                       "of this collection's bleakest opening states, "
+                       "before its resolution"),
+    ],
+    why=(
+        "This poem closes the Book of the Fives with one of its bleakest "
+        "openings: a childless widow, without friends or family, unable "
+        "to secure &lsquo;food or clothes&rsquo;, begging from door to "
+        "door for seven years, burned by heat and cold. It is Paṭācārā "
+        "&mdash; named directly for a third consecutive poem in this "
+        "book &mdash; who ordains her out of sympathy, and Candā's own "
+        "closing declaration echoes, almost word for word, the thirty "
+        "nuns' declaration in the poem just before it."),
+    guide=[
+        ("Destitution, stated without softening", [
+            "&lsquo;A childless widow, bereft of friends or relatives, I "
+            "got neither food nor clothes&rsquo; opens the poem in a "
+            "state as bleak as any in this collection &mdash; seven "
+            "years spent begging from family to family, &lsquo;burned "
+            "by heat and cold&rsquo;."]),
+        ("Paṭācārā, named for a third poem running", [
+            "&lsquo;Out of sympathy for me, Paṭācārā gave me the going "
+            "forth&rsquo; makes this the third consecutive poem in the "
+            "Book of the Fives to name her directly &mdash; her own "
+            "realization in Thig 5.10, the thirty nuns she taught in "
+            "Thig 5.11, and now a single destitute widow she personally "
+            "ordains."]),
+        ("A specific request, quoted directly", [
+            "&lsquo;Approaching her, I said: &ldquo;send me forth to "
+            "homelessness&rdquo;&rsquo; preserves Candā's own words at "
+            "the moment of asking &mdash; a specific, quoted request, "
+            "not only a general account of seeking ordination."]),
+        ("A declaration echoing the poem just before it", [
+            "&lsquo;Master of the three knowledges, I am free of "
+            "defilements&rsquo; closes this poem almost word for word "
+            "as the thirty nuns closed Thig 5.11 &mdash; one woman's "
+            "declaration now matching the group's, closing the entire "
+            "book on the same formula."]),
+    ],
+    terms=[
+        ("Cand&amacr;",
+         "this poem's speaker, whose destitution before ordination is "
+         "described in stark, unsoftened terms."),
+        ("vidhav&amacr; aputtik&amacr;",
+         "&ldquo;a childless widow&rdquo; &mdash; her own description of "
+         "her situation before Paṭācārā's ordination."),
+        ("anukamp&amacr;",
+         "&ldquo;sympathy&rdquo; or compassion &mdash; named directly as "
+         "Paṭācārā's motive for ordaining her."),
+        ("paramattha",
+         "&ldquo;the ultimate goal&rdquo; &mdash; what Paṭācārā, having "
+         "ordained her, then urged her on toward."),
+        ("tevijj&amacr; an&amacr;sav&amacr;",
+         "&ldquo;master of the three knowledges, free of "
+         "defilements&rdquo; &mdash; the same declaration, almost word "
+         "for word, that closed the thirty nuns' account in Thig 5.11."),
+    ],
+    text_intro=(
+        "The text in full: five verses, closing the Book of the Fives. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig5.12:1.1-1.4"),
+        ("p", "&sect;2", "thig5.12:2.1-2.4"),
+        ("p", "&sect;3", "thig5.12:3.1-3.4"),
+        ("p", "&sect;4", "thig5.12:4.1-4.4"),
+        ("p", "&sect;5", "thig5.12:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How does this poem describe Candā's situation before ordination?",
+         "opts": [
+             "A wealthy widow with many relatives",
+             "A childless widow, bereft of friends or relatives, without food or clothes",
+             "A queen who renounced her throne",
+             "No earlier situation is described"],
+         "correct": 1,
+         "expl": "One of this collection's bleakest opening states."},
+        {"q": "How long does the poem say Candā wandered begging, burned by heat and cold?",
+         "opts": [
+             "One year",
+             "A single winter",
+             "Seven years",
+             "The duration is not given"],
+         "correct": 2,
+         "expl": "A specific span, echoing Thig 5.3's Sīhā's own seven years of suffering."},
+        {"q": "Who ordains Candā, and why, according to this poem?",
+         "opts": [
+             "The Buddha himself, for no stated reason",
+             "Paṭācārā, out of sympathy for her",
+             "A relative, out of family obligation",
+             "No one ordains her"],
+         "correct": 1,
+         "expl": "The third consecutive poem in this book to name Paṭācārā directly."},
+        {"q": "What words does the poem quote Candā saying to Paṭācārā directly?",
+         "opts": [
+             "No words are quoted",
+             "A complaint about her situation",
+             "'Send me forth to homelessness'",
+             "A question about the Dhamma"],
+         "correct": 2,
+         "expl": "A specific, quoted request at the moment of asking."},
+        {"q": "How does this poem's closing declaration compare to Thig 5.11's?",
+         "opts": [
+             "It closes on an entirely different formula",
+             "It is almost word for word the same: 'master of the three knowledges, free of defilements'",
+             "This poem has no closing declaration",
+             "It directly contradicts Thig 5.11's declaration"],
+         "correct": 1,
+         "expl": "One woman's declaration now matching the group's, closing the entire book on the same formula."},
+        {"q": "What does 'anukampā' mean?",
+         "opts": [
+             "'A childless widow'",
+             "'Send me forth'",
+             "'Sympathy' or compassion — Paṭācārā's named motive for ordaining her",
+             "'The ultimate goal'"],
+         "correct": 2,
+         "expl": "Named directly as the reason for Paṭācārā's action."},
+        {"q": "What structural marker does bilara-data's underlying source place immediately after this poem?",
+         "opts": [
+             "'Pañcakanipāto niṭṭhito' — 'the Book of the Fives is finished'",
+             "No marker at all",
+             "A note naming the next book's first poem",
+             "A repeat of the poem's own text"],
+         "correct": 0,
+         "expl": "The same kind of bibliographic close seen at the end of the Books of the Threes and Fours."},
+        {"q": "What does 'paramattha' mean?",
+         "opts": [
+             "'The ultimate goal' — what Paṭācārā urged Candā toward, once ordained",
+             "'Seven years'",
+             "'A childless widow'",
+             "'Heat and cold'"],
+         "correct": 0,
+         "expl": "Named directly in the verse describing Paṭācārā's guidance."},
+        {"q": "What position does this poem hold in the Book of the Fives?",
+         "opts": [
+             "The first poem",
+             "The eleventh poem",
+             "It stands outside this book",
+             "The twelfth and last poem, closing the book"],
+         "correct": 3,
+         "expl": "The final poem of twelve in the Book of the Fives."},
+        {"q": "How many poems in a row, counting this one, name Paṭācārā directly?",
+         "opts": [
+             "Just this one",
+             "Two",
+             "None name her directly",
+             "Three: Thig 5.10, 5.11, and this poem"],
+         "correct": 3,
+         "expl": "Her own realization, then the thirty nuns she taught, then this individually ordained widow."},
+    ],
+    marginalia=[
+        ("Destitution, unsoftened", [
+            "childless, friendless,",
+            "without food or clothes"
+        ]),
+        ("Paṭācārā, a third time running", [
+            "her own poem, the thirty,",
+            "now this one widow"
+        ]),
+        ("A request, quoted directly", [
+            "'send me forth' —",
+            "her own words"
+        ]),
+        ("A declaration, matched to the group's", [
+            "the same formula",
+            "closing the whole book"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig5.12/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-5.11.html">Thig 5.11 &mdash; Thirty Nuns</a> '
+        "&mdash; the poem immediately before this one, sharing this "
+        "poem's exact closing declaration.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
