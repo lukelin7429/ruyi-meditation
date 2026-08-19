@@ -26705,3 +26705,1855 @@ page(
         '<a href="an-10.134.html">AN 10.134 &middot; Good</a> &mdash; opening this chapter.',
     ],
 )
+
+
+VAGGA_15 = "<em>Ariyavagga</em> &mdash; the fifteenth chapter of the Tens, the Chapter on the Noble, closing the Third Fifty"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.145 — Ariyamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    145, "Ariyamagga", "The Noble Path",
+    vagga=VAGGA_15,
+    meta_title="AN 10.145 — The Noble Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ariyamaggasutta, opening the Tens' fifteenth and final "
+        "Third-Fifty chapter with the ten-factor path framed as "
+        "noble and ignoble. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A brief announcement, then the ten-factor path "
+                 "defined as noble and ignoble"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake", "This discourse gives its own name to "
+                               "the new chapter, <em>Ariyavagga</em>, "
+                               "the Chapter on the Noble &mdash; a "
+                               "third chapter in a row built from a "
+                               "single compact template, and the "
+                               "chapter that will close the entire "
+                               "Third Fifty"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "as simple as this project's vocabulary gets"),
+    ],
+    why=(
+        "Opening the Third Fifty's closing chapter, the Buddha "
+        "returns to the exact template used throughout chapters 13 "
+        "and 14, this time applying it to the most direct possible "
+        "vocabulary: the noble path and its opposite."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The ignoble path is the ten wrong factors from wrong "
+            "view to wrong freedom; the noble path is the ten right "
+            "factors from right view to right freedom."]),
+        ("A third chapter, the same template", [
+            "Following chapter 13's eleven purity-themed variations "
+            "and chapter 14's eleven value-word variations, this "
+            "chapter opens with the identical compact form: a brief "
+            "announcement, then the ten wrong factors and ten right "
+            "factors defined under a new pair of names &mdash; here, "
+            "simply <em>ariya</em> and <em>anariya</em>, noble and "
+            "ignoble."]),
+        ("A shorter run than its two predecessors", [
+            "Unlike chapters 13 and 14, which each ran to eleven "
+            "discourses, this chapter's own bilara-data source shows "
+            "only ten discourses (AN 10.145&ndash;154) &mdash; the "
+            "shortest of this project's three back-to-back "
+            "single-template chapters, and, notably, the one that "
+            "will close out the entire Third Fifty."]),
+        ("Naming what \"noble\" has meant all along", [
+            "This discourse's own title makes explicit what AN "
+            "10.135's &ldquo;teaching of the noble ones&rdquo; "
+            "already implied: the ten right factors are not merely "
+            "endorsed by noble persons, they constitute the noble "
+            "path itself, the very thing that makes a person noble "
+            "in the first place."]),
+    ],
+    terms=[
+        ("ariyamagga",
+         "&ldquo;the noble path&rdquo; &mdash; this discourse's own "
+         "title, applying the vocabulary of nobility directly to the "
+         "ten right factors as a path."),
+        ("anariyamagga",
+         "&ldquo;the ignoble path&rdquo; &mdash; the negation "
+         "applied to the ten wrong factors."),
+        ("ariya",
+         "&ldquo;noble&rdquo; &mdash; already met throughout this "
+         "nipāta naming the noble eightfold path, the noble truths, "
+         "and the noble persons of AN 10.63&ndash;64 and AN 10.135."),
+        ("micchāsati",
+         "&ldquo;wrong mindfulness&rdquo; &mdash; the seventh "
+         "factor, unchanged from every list across chapters 11 "
+         "through 15."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "one of the two extending the classical eightfold path."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "noble path and the ignoble path. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The ignoble path, and the noble path"),
+        ("p", "&sect;1", "an10.145:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Good and not good",
+             "The noble path and the ignoble path",
+             "Skillful and unskillful",
+             "Wealth and poverty"],
+         "correct": 1,
+         "expl": "The most direct possible vocabulary: noble versus "
+                 "ignoble, applied to the ten-factor path itself."},
+        {"q": "How many discourses does this chapter (Ariyavagga) "
+              "contain, according to the guide?",
+         "opts": [
+             "Eleven, like chapters 13 and 14",
+             "Ten (AN 10.145&ndash;154), the shortest of this "
+             "project's three back-to-back single-template chapters",
+             "Twenty",
+             "Five"],
+         "correct": 1,
+         "expl": "One discourse shorter than each of its two "
+                 "immediate predecessors."},
+        {"q": "According to the guide, what does this discourse make "
+              "explicit that AN 10.135 already implied?",
+         "opts": [
+             "Nothing new",
+             "That the ten right factors don't merely earn noble "
+             "persons' endorsement, they constitute the noble path "
+             "itself",
+             "That nobility is unrelated to the ten factors",
+             "That only monastics can walk this path"],
+         "correct": 1,
+         "expl": "A direct naming of what \"the teaching of the "
+                 "noble ones\" had already suggested."},
+        {"q": "What milestone will this chapter close, according to "
+              "the guide?",
+         "opts": [
+             "The entire AN10 nipāta",
+             "The entire Third Fifty (chapters 11 through 15)",
+             "Nothing in particular",
+             "The Second Fifty"],
+         "correct": 1,
+         "expl": "AN 10.154's colophon will mark the end of the "
+                 "Third Fifty as a whole."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "Who does this discourse's audience consist of, per "
+              "the glance box?",
+         "opts": [
+             "The Buddha alone, addressing the mendicants",
+             "A council of lay devotees",
+             "A group of wandering ascetics from another tradition",
+             "The Buddha in dialogue with Ānanda"],
+         "correct": 0,
+         "expl": "The same simple audience as every discourse in "
+                 "this compact chapter."},
+    ],
+    marginalia=[
+        ("What noble has meant all along", [
+            "not just endorsed by",
+            "noble ones, but the very",
+            "path that makes them noble",
+        ]),
+        ("A shorter run this time", [
+            "ten, not eleven &mdash;",
+            "the shortest of three chapters",
+            "built from one template",
+        ]),
+        ("A fifty about to close", [
+            "this chapter, opened",
+            "here, will close out the whole",
+            "Third Fifty at 154",
+        ]),
+        ("Cross-references", [
+            "AN 10.144 &middot; Result in Suffering, closing chapter "
+            "14, previous",
+            "AN 10.135 &middot; The Teaching of the Noble Ones, "
+            "whose implication this discourse makes explicit",
+            "AN 10.146 &middot; next, The Dark Path",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.145/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.144.html">AN 10.144</a> &mdash; previous, closing chapter 14, '
+        "Sādhuvagga.",
+        '<a href="an-10.135.html">AN 10.135 &middot; The Teaching of the Noble Ones</a> '
+        "&mdash; whose implication this discourse makes explicit.",
+        '<a href="an-10.146.html">AN 10.146 &middot; The Dark Path</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.146 — Kaṇhamaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    146, "Kaṇhamagga", "The Dark Path",
+    vagga=VAGGA_15,
+    meta_title="AN 10.146 — The Dark Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kaṇhamaggasutta, applying this chapter's template to a "
+        "vivid pairing of light and darkness rather than an abstract "
+        "value term. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a new word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "Where AN 10.145 used the abstract vocabulary of nobility, "
+        "this discourse reaches for a vivid sensory image instead: "
+        "not noble and ignoble in the abstract, but dark and "
+        "bright, a path one can almost see."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The dark path is the ten wrong factors from wrong view "
+            "to wrong freedom; the bright path is the ten right "
+            "factors from right view to right freedom."]),
+        ("A sensory image, not an abstract judgment", [
+            "<em>Kaṇha</em> and <em>sukka</em>, dark and bright, "
+            "trade the abstract evaluative register of "
+            "&ldquo;noble&rdquo; for something almost visual "
+            "&mdash; a path one could imagine walking, lit or "
+            "unlit, rather than a purely conceptual standard to be "
+            "judged against."]),
+        ("An echo of kamma vocabulary used elsewhere", [
+            "&ldquo;Dark and bright&rdquo; is recognizable "
+            "vocabulary from this canon's broader discussions of "
+            "kamma, where deeds themselves are classified as dark, "
+            "bright, or a mixture of both; this discourse applies "
+            "the same light-based classification not to individual "
+            "deeds but to the entire ten-factor path as a whole."]),
+        ("The second of ten, following the chapter's own template "
+         "exactly", [
+            "As with every discourse in this chapter's run, no "
+            "further structural surprise appears here beyond the "
+            "new word-pair itself &mdash; the compact template "
+            "established at AN 10.145 holds without variation."]),
+    ],
+    terms=[
+        ("kaṇhamagga",
+         "&ldquo;the dark path&rdquo; &mdash; this discourse's own "
+         "title, applying a vivid sensory image to the ten wrong "
+         "factors."),
+        ("sukkamagga",
+         "&ldquo;the bright path&rdquo; &mdash; the mirrored term "
+         "for the ten right factors."),
+        ("kaṇha",
+         "&ldquo;dark&rdquo; or black &mdash; recognizable "
+         "vocabulary from this canon's broader classification of "
+         "kamma as dark, bright, or mixed."),
+        ("micchāvāyāmo",
+         "&ldquo;wrong effort&rdquo; &mdash; the sixth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the eighth factor, "
+         "likewise identical throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "dark path and the bright path. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The dark path, and the bright path"),
+        ("p", "&sect;1", "an10.146:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Ancient and modern",
+             "Dark and bright (kaṇhamagga/sukkamagga)",
+             "Loud and quiet",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "A vivid sensory image of light and darkness, "
+                 "rather than an abstract value term."},
+        {"q": "According to the guide, where else does \"dark and "
+              "bright\" vocabulary recognizably appear in this "
+              "canon?",
+         "opts": [
+             "Nowhere else",
+             "In broader discussions of kamma, where deeds "
+             "themselves are classified as dark, bright, or a "
+             "mixture of both",
+             "Only in cosmological discourses",
+             "Only in monastic disciplinary contexts"],
+         "correct": 1,
+         "expl": "A familiar classification system applied here to "
+                 "the whole ten-factor path rather than individual "
+                 "deeds."},
+        {"q": "According to the guide, how does this discourse's "
+              "imagery differ from AN 10.145's \"noble/ignoble\"?",
+         "opts": [
+             "No difference at all",
+             "It trades an abstract evaluative register for "
+             "something almost visual, a path one could imagine "
+             "walking, lit or unlit",
+             "It removes the ten-factor content",
+             "It contradicts AN 10.145"],
+         "correct": 1,
+         "expl": "A shift from conceptual judgment to sensory image."},
+        {"q": "According to the guide, what is distinctive about "
+              "this discourse's structure compared to AN 10.145's?",
+         "opts": [
+             "A major new structural surprise",
+             "None; the compact template holds without variation "
+             "beyond the new word-pair",
+             "It adds a narrative frame",
+             "It removes the announcement"],
+         "correct": 1,
+         "expl": "The same well-established template, simply refilled "
+                 "with new vocabulary."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the fifth of the ten factors, common to "
+              "every discourse in this chapter?",
+         "opts": [
+             "Right/wrong livelihood",
+             "Right/wrong effort",
+             "Right/wrong speech",
+             "Right/wrong knowledge"],
+         "correct": 0,
+         "expl": "The fifth position in the ten-factor list, "
+                 "unchanged across this chapter."},
+    ],
+    marginalia=[
+        ("A path you could almost see", [
+            "not a judgment, but",
+            "an image: lit ground, or dark &mdash;",
+            "walk toward the light",
+        ]),
+        ("Borrowed from kamma's own language", [
+            "dark deeds, bright deeds,",
+            "mixed deeds &mdash; here the whole path",
+            "gets the same treatment",
+        ]),
+        ("The template, unbroken", [
+            "second of ten now,",
+            "no surprise in the structure,",
+            "only the new word",
+        ]),
+        ("Cross-references", [
+            "AN 10.145 &middot; The Noble Path, previous",
+            "AN 10.147 &middot; next, The True Teaching",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.146/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.145.html">AN 10.145 &middot; The Noble Path</a> &mdash; previous.',
+        '<a href="an-10.147.html">AN 10.147 &middot; The True Teaching</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.147 — Saddhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    147, "Saddhamma", "The True Teaching",
+    vagga=VAGGA_15,
+    meta_title="AN 10.147 — The True Teaching | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saddhammasutta, applying this chapter's template to the "
+        "true teaching and what is not, echoing AN 10.138's own "
+        "dhamma/adhamma pairing from the previous chapter. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a new word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the third of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "This discourse revisits territory already covered at AN "
+        "10.138 in the previous chapter, adding the intensifying "
+        "prefix <em>sad-</em>, &ldquo;true&rdquo; or "
+        "&ldquo;genuine,&rdquo; to dhamma itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "What is not the true teaching is the ten wrong factors "
+            "from wrong view to wrong freedom; the true teaching is "
+            "the ten right factors from right view to right freedom."]),
+        ("A near-repeat from the previous chapter, intensified", [
+            "AN 10.138, in chapter 14, already paired "
+            "<em>dhamma</em> and <em>adhamma</em>; this discourse "
+            "adds the prefix <em>sad-</em> to make "
+            "<em>saddhamma</em>, &ldquo;true&rdquo; or "
+            "&ldquo;genuine&rdquo; teaching &mdash; a small but "
+            "real shift, emphasizing authenticity over mere "
+            "categorical membership."]),
+        ("Saddhamma, a term with its own currency elsewhere", [
+            "<em>Saddhamma</em> is a recognizable term in its own "
+            "right across this canon, often contrasted with "
+            "<em>saddhammapatirūpaka</em>, a counterfeit of the true "
+            "teaching that superficially resembles it &mdash; a "
+            "concern with imitation and authenticity that this "
+            "discourse's stark two-way ten-factor test addresses "
+            "directly, if implicitly."]),
+        ("Two near-twin discourses, three chapters apart", [
+            "Read alongside AN 10.138, this discourse shows the same "
+            "underlying concern &mdash; what actually counts as the "
+            "teaching &mdash; returning with slightly intensified "
+            "vocabulary, a reminder that this project's repeated "
+            "themes are not confined to any single chapter's own "
+            "eleven- or ten-discourse run."]),
+    ],
+    terms=[
+        ("saddhamma",
+         "&ldquo;the true teaching,&rdquo; with the intensifying "
+         "prefix <em>sad-</em> added to <em>dhamma</em> &mdash; this "
+         "discourse's own title, echoing AN 10.138's own dhamma/"
+         "adhamma pairing."),
+        ("asaddhamma",
+         "&ldquo;what is not the true teaching&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("saddhammapatirūpaka",
+         "a counterfeit of the true teaching, superficially "
+         "resembling it &mdash; a related concept elsewhere in this "
+         "canon that this discourse's stark test implicitly "
+         "addresses."),
+        ("micchākammanto",
+         "&ldquo;wrong action&rdquo; &mdash; the fourth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing this discourse's list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as not "
+        "the true teaching, and the true teaching. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not the true teaching, and the true teaching"),
+        ("p", "&sect;1", "an10.147:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The true teaching and what is not (saddhamma/"
+             "asaddhamma)",
+             "Ancient and modern",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "A near-repeat of AN 10.138's dhamma/adhamma "
+                 "pairing, intensified with the prefix sad-."},
+        {"q": "According to the guide, what earlier discourse does "
+              "this one closely echo?",
+         "opts": [
+             "AN 10.1",
+             "AN 10.138, from the previous chapter, which already "
+             "paired dhamma and adhamma",
+             "AN 10.51",
+             "No earlier discourse is echoed"],
+         "correct": 1,
+         "expl": "The same underlying concern returning three "
+                 "chapters later with intensified vocabulary."},
+        {"q": "What related term does the guide mention, contrasted "
+              "with \"saddhamma\" elsewhere in this canon?",
+         "opts": [
+             "No related term exists",
+             "Saddhammapatirūpaka, a counterfeit of the true "
+             "teaching that superficially resembles it",
+             "Adhamma only",
+             "Vinaya"],
+         "correct": 1,
+         "expl": "A concern with imitation and authenticity that "
+                 "this discourse's test implicitly addresses."},
+        {"q": "According to the guide, what does the recurrence of "
+              "this theme across chapters suggest?",
+         "opts": [
+             "Nothing in particular",
+             "That this project's repeated themes are not confined "
+             "to any single chapter's own discourse run",
+             "That the text contains an error",
+             "That chapter 14 should be deleted"],
+         "correct": 1,
+         "expl": "A theme resurfacing across chapter boundaries, not "
+                 "just within one chapter's own template."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 14, Sādhuvagga",
+             "Chapter 15, Ariyavagga, the closing chapter of the "
+             "Third Fifty",
+             "Chapter 16",
+             "Chapter 13"],
+         "correct": 1,
+         "expl": "The fifteenth chapter of the Tens, opened by AN "
+                 "10.145."},
+    ],
+    marginalia=[
+        ("A word met before, intensified", [
+            "dhamma, adhamma, met",
+            "at 138 &mdash; now \"true\"",
+            "is added to the claim",
+        ]),
+        ("The counterfeit, unnamed here", [
+            "elsewhere a fake teaching",
+            "wears the real one's face &mdash;",
+            "this test cuts through that",
+        ]),
+        ("Themes that cross chapter lines", [
+            "not locked to one run",
+            "of ten or eleven &mdash; concerns",
+            "resurface, restated",
+        ]),
+        ("Cross-references", [
+            "AN 10.146 &middot; The Dark Path, previous",
+            "AN 10.138 &middot; The Teaching, this discourse's near-"
+            "twin from the previous chapter",
+            "AN 10.148 &middot; next, The Teaching of the True "
+            "Persons",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.147/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.146.html">AN 10.146 &middot; The Dark Path</a> &mdash; previous.',
+        '<a href="an-10.138.html">AN 10.138 &middot; The Teaching</a> &mdash; this '
+        "discourse's near-twin from the previous chapter.",
+        '<a href="an-10.148.html">AN 10.148 &middot; The Teaching of the True Persons</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.148 — Sappurisadhammasutta
+# --------------------------------------------------------------------------- #
+page(
+    148, "Sappurisadhamma", "The Teaching of the True Persons",
+    vagga=VAGGA_15,
+    meta_title="AN 10.148 — The Teaching of the True Persons | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sappurisadhammasutta, applying this chapter's template "
+        "to the teaching of true persons and untrue persons, a "
+        "social variant of AN 10.147's authenticity concern. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a new word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the fourth of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "Following directly on AN 10.147's concern with the true "
+        "teaching, this discourse personalizes the question: not "
+        "what teaching is genuine in the abstract, but what "
+        "teaching belongs to genuine persons as opposed to "
+        "counterfeit ones."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The teaching of untrue persons is the ten wrong factors "
+            "from wrong view to wrong freedom; the teaching of true "
+            "persons is the ten right factors from right view to "
+            "right freedom."]),
+        ("From teaching to teacher, a natural next step", [
+            "Where AN 10.147 asked what counts as the true teaching "
+            "itself, this discourse asks essentially the same "
+            "question through the lens of who holds it &mdash; "
+            "<em>sappurisa</em>, a true or good person, versus "
+            "<em>asappurisa</em>, its negation, are terms already "
+            "familiar from this canon's frequent classification of "
+            "people by character rather than doctrine alone."]),
+        ("Consecutive discourses now closely paired", [
+            "AN 10.147 and this discourse form the closest pair yet "
+            "in this chapter, differing only in whether the ten "
+            "factors are attributed to an abstract teaching or to "
+            "the persons who hold it &mdash; a variation of emphasis "
+            "rather than of content, similar to how AN 10.143 and "
+            "10.144 closed the previous chapter on two near-"
+            "synonymous notes."]),
+        ("Sappurisa, a term this project has met before", [
+            "&ldquo;True person&rdquo; recurs across this project in "
+            "discussions of who deserves association, respect, and "
+            "emulation; this discourse anchors that recurring social "
+            "category to the same fixed ten-factor content underlying "
+            "every other discourse in this chapter."]),
+    ],
+    terms=[
+        ("sappurisadhamma",
+         "&ldquo;the teaching of true persons&rdquo; &mdash; this "
+         "discourse's own title, personalizing AN 10.147's abstract "
+         "concern with authentic teaching."),
+        ("asappurisadhamma",
+         "&ldquo;the teaching of untrue persons&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("sappurisa",
+         "&ldquo;a true&rdquo; or good person &mdash; a recurring "
+         "social category across this project, here anchored to the "
+         "ten right factors specifically."),
+        ("micchāsaṅkappo",
+         "&ldquo;wrong purpose&rdquo; &mdash; the second factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "one of the two extending the classical eightfold path."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "teaching of untrue persons and of true persons. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The teaching of untrue persons, and of true persons"),
+        ("p", "&sect;1", "an10.148:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The teaching of true persons and untrue persons "
+             "(sappurisadhamma/asappurisadhamma)",
+             "Ancient and modern",
+             "Wealthy and poor"],
+         "correct": 1,
+         "expl": "A personalized variant of AN 10.147's concern with "
+                 "authentic teaching."},
+        {"q": "According to the guide, how does this discourse relate "
+              "to AN 10.147 immediately preceding it?",
+         "opts": [
+             "Unrelated topics",
+             "The closest pair yet in this chapter, differing only "
+             "in whether the ten factors are attributed to an "
+             "abstract teaching or to the persons who hold it",
+             "A direct contradiction",
+             "This discourse removes the ten-factor content"],
+         "correct": 1,
+         "expl": "A shift of emphasis, not content, similar to AN "
+                 "10.143 and 10.144 in the previous chapter."},
+        {"q": "According to the guide, where has \"sappurisa\" (true "
+              "person) recurred elsewhere in this project?",
+         "opts": [
+             "Nowhere before this discourse",
+             "In discussions of who deserves association, respect, "
+             "and emulation",
+             "Only in this discourse",
+             "Only in the Vinaya sections"],
+         "correct": 1,
+         "expl": "A familiar social category, here anchored to the "
+                 "ten-factor content."},
+        {"q": "According to the guide, what natural progression does "
+              "this discourse represent?",
+         "opts": [
+             "No progression at all",
+             "From asking what counts as the true teaching itself "
+             "to asking who holds it",
+             "A regression to an earlier topic",
+             "A move away from the ten-factor content entirely"],
+         "correct": 1,
+         "expl": "Teaching to teacher, doctrine to character."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the sixth of the ten factors, common to "
+              "every discourse in this chapter?",
+         "opts": [
+             "Right/wrong effort (sammāvāyāmo/micchāvāyāmo)",
+             "Right/wrong action",
+             "Right/wrong immersion",
+             "Right/wrong knowledge"],
+         "correct": 0,
+         "expl": "The sixth position in the ten-factor list, "
+                 "unchanged across this chapter."},
+    ],
+    marginalia=[
+        ("From the teaching to who holds it", [
+            "not what's true in the",
+            "abstract, but who embodies",
+            "it &mdash; person, not just claim",
+        ]),
+        ("The chapter's closest pair", [
+            "147 and this one,",
+            "same content, different lens &mdash;",
+            "teaching, then teacher",
+        ]),
+        ("A category met before", [
+            "\"true person\" named who",
+            "deserves respect elsewhere too &mdash;",
+            "now given fixed content",
+        ]),
+        ("Cross-references", [
+            "AN 10.147 &middot; The True Teaching, this discourse's "
+            "closest pair, previous",
+            "AN 10.149 &middot; next, Should Be Activated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.148/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.147.html">AN 10.147 &middot; The True Teaching</a> &mdash; previous.',
+        '<a href="an-10.149.html">AN 10.149 &middot; Should Be Activated</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.149 — Uppādetabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    149, "Uppādetabba", "Should Be Activated",
+    vagga=VAGGA_15,
+    meta_title="AN 10.149 — Should Be Activated | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uppādetabbasutta, opening a five-discourse run of "
+        "practice-oriented verbs applied to the same ten-factor "
+        "path. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a practice-verb "
+                 "word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the fifth of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "This discourse marks a shift within the chapter: after four "
+        "discourses naming what the ten factors ARE (noble, dark/"
+        "bright, the teaching, the teaching of true persons), the "
+        "final five ask instead what should be DONE with them "
+        "&mdash; beginning with whether they should be activated or "
+        "not."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to activate is the ten wrong factors "
+            "from wrong view to wrong freedom; the principle to "
+            "activate is the ten right factors from right view to "
+            "right freedom."]),
+        ("A shift from identity to instruction", [
+            "This chapter's first four discourses all asked, in "
+            "various registers, what the ten factors essentially "
+            "ARE; starting here, the remaining five discourses "
+            "instead ask what a practitioner should DO about "
+            "them &mdash; a shift from classification to "
+            "instruction that will run through activate, cultivate, "
+            "develop, make much of, and recollect."]),
+        ("Uppādetabba, a term of arousal or generation", [
+            "<em>Uppādetabba</em>, &ldquo;should be activated,&rdquo; "
+            "shares its root with <em>uppāda</em>, arising or "
+            "origination &mdash; the verb suggests deliberately "
+            "bringing something into being, an act of will rather "
+            "than passive recognition."]),
+        ("Five verbs, one chain of practical engagement", [
+            "Read together, this discourse and the four that follow "
+            "sketch an implicit progression of practical engagement "
+            "with the right factors: first arouse them, then "
+            "repeatedly engage (cultivate) with them, develop them "
+            "further, give them substantial weight (make much of), "
+            "and finally hold them in mind (recollect) &mdash; five "
+            "distinct verbs for what remains, underneath, a single "
+            "sustained practice."]),
+    ],
+    terms=[
+        ("uppādetabba",
+         "&ldquo;should be activated,&rdquo; sharing its root with "
+         "<em>uppāda</em>, arising or origination &mdash; this "
+         "discourse's own title, suggesting a deliberate act of "
+         "will."),
+        ("na uppādetabba",
+         "&ldquo;should not be activated&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("uppāda",
+         "&ldquo;arising&rdquo; or origination, the root shared by "
+         "this discourse's own key verb."),
+        ("micchāājīvo",
+         "&ldquo;wrong livelihood&rdquo; &mdash; the fifth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāsati",
+         "&ldquo;right mindfulness&rdquo; &mdash; the seventh "
+         "factor, likewise identical throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "principle to activate and not to activate. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not to be activated, and to be activated"),
+        ("p", "&sect;1", "an10.149:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to activate and not to activate "
+             "(uppādetabba/na uppādetabba)",
+             "Ancient and modern",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "The first of five closing discourses shifting from "
+                 "identity to practical instruction."},
+        {"q": "According to the guide, what shift does this discourse "
+              "mark within the chapter?",
+         "opts": [
+             "No shift; identical to the first four discourses",
+             "From asking what the ten factors essentially ARE to "
+             "asking what a practitioner should DO about them",
+             "A shift away from the ten-factor content entirely",
+             "A return to narrative framing"],
+         "correct": 1,
+         "expl": "Classification gives way to instruction for the "
+                 "chapter's remaining five discourses."},
+        {"q": "According to the guide, what root does \"uppādetabba\" "
+              "share, and what does it suggest?",
+         "opts": [
+             "No particular root",
+             "The root of uppāda, arising or origination, "
+             "suggesting a deliberate act of will",
+             "The root for \"noble\"",
+             "The root for \"teaching\""],
+         "correct": 1,
+         "expl": "An active, willed sense rather than passive "
+                 "recognition."},
+        {"q": "According to the guide, what five-verb progression do "
+              "this discourse and the next four sketch together?",
+         "opts": [
+             "No particular progression",
+             "Arouse, cultivate, develop, make much of, and "
+             "recollect the right factors",
+             "Five unrelated topics",
+             "A progression from right factors back to wrong ones"],
+         "correct": 1,
+         "expl": "Five distinct verbs for one sustained practice."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many discourses total make up this chapter, "
+              "Ariyavagga?",
+         "opts": [
+             "Eight", "Ten", "Eleven", "Twenty"],
+         "correct": 1,
+         "expl": "AN 10.145 through AN 10.154, closing the entire "
+                 "Third Fifty."},
+    ],
+    marginalia=[
+        ("From what it is to what to do", [
+            "four discourses of name,",
+            "now five of instruction &mdash;",
+            "arouse, cultivate, hold",
+        ]),
+        ("A verb of deliberate will", [
+            "not noticed, but made",
+            "to arise &mdash; an act, not a",
+            "passive recognition",
+        ]),
+        ("Five verbs, one practice", [
+            "arouse, then engage,",
+            "develop, weight, recollect &mdash;",
+            "one thing, five approaches",
+        ]),
+        ("Cross-references", [
+            "AN 10.148 &middot; The Teaching of the True Persons, "
+            "previous",
+            "AN 10.150 &middot; next, Should Be Cultivated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.149/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.148.html">AN 10.148 &middot; The Teaching of the True Persons</a> '
+        "&mdash; previous.",
+        '<a href="an-10.150.html">AN 10.150 &middot; Should Be Cultivated</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.150 — Āsevitabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    150, "Āsevitabba", "Should Be Cultivated",
+    vagga=VAGGA_15,
+    meta_title="AN 10.150 — Should Be Cultivated | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āsevitabbasutta, the second of five closing verbs in "
+        "this chapter's practical-engagement progression. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a practice-verb "
+                 "word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the sixth of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "Following AN 10.149's call to activate the right factors, "
+        "this discourse asks whether they should be repeatedly "
+        "engaged with &mdash; a verb of habitual practice rather "
+        "than a single originating act."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to cultivate is the ten wrong factors "
+            "from wrong view to wrong freedom; the principle to "
+            "cultivate is the ten right factors from right view to "
+            "right freedom."]),
+        ("From arousal to repetition", [
+            "Where AN 10.149's <em>uppādetabba</em> named a single "
+            "originating act, <em>āsevitabba</em>, &ldquo;should be "
+            "cultivated,&rdquo; shifts to ongoing, habitual "
+            "engagement &mdash; the same root familiar from "
+            "<em>sevati</em>, to frequent or associate with, "
+            "suggesting return visits rather than a one-time "
+            "beginning."]),
+        ("The second of five practice-verbs", [
+            "This discourse continues the progression flagged at AN "
+            "10.149: having been aroused, the right factors must "
+            "next be repeatedly resorted to, not merely brought into "
+            "being once and left alone."]),
+        ("A verb echoing this project's own vocabulary of "
+         "association", [
+            "<em>Āsevitabba</em>'s root recalls this project's "
+            "frequent discussions of choosing the right associates "
+            "and environments to frequent; here the same verb of "
+            "habitual resort is applied not to people or places but "
+            "to the ten right factors themselves, treated as company "
+            "worth keeping."]),
+    ],
+    terms=[
+        ("āsevitabba",
+         "&ldquo;should be cultivated&rdquo; or resorted to &mdash; "
+         "this discourse's own title, sharing its root with "
+         "<em>sevati</em>, to frequent or associate with."),
+        ("na āsevitabba",
+         "&ldquo;should not be cultivated&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("sevati",
+         "&ldquo;to frequent&rdquo; or associate with &mdash; the "
+         "root shared by this discourse's key verb, elsewhere "
+         "applied to choosing companions and environments."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the first factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammākammanto",
+         "&ldquo;right action&rdquo; &mdash; the fourth factor, "
+         "likewise identical throughout."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "principle to cultivate and not to cultivate. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not to be cultivated, and to be cultivated"),
+        ("p", "&sect;1", "an10.150:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to cultivate and not to cultivate "
+             "(āsevitabba/na āsevitabba)",
+             "Ancient and modern",
+             "Wealth and poverty"],
+         "correct": 1,
+         "expl": "The second of five practice-verbs closing this "
+                 "chapter."},
+        {"q": "According to the guide, what shift does \"āsevitabba\" "
+              "mark compared to AN 10.149's \"uppādetabba\"?",
+         "opts": [
+             "No shift at all",
+             "From a single originating act to ongoing, habitual "
+             "engagement",
+             "A shift away from the ten-factor content",
+             "A reversal of AN 10.149's claim"],
+         "correct": 1,
+         "expl": "Arousal gives way to repeated resort."},
+        {"q": "What root does \"āsevitabba\" share, according to the "
+              "guide?",
+         "opts": [
+             "No particular root",
+             "Sevati, to frequent or associate with",
+             "The root for \"noble\"",
+             "The root for \"teaching\""],
+         "correct": 1,
+         "expl": "A verb elsewhere applied to choosing companions "
+                 "and environments, here applied to the ten right "
+                 "factors."},
+        {"q": "According to the guide, what does this discourse "
+              "treat the ten right factors as?",
+         "opts": [
+             "A burden to be endured",
+             "Company worth keeping, resorted to habitually like a "
+             "good associate or environment",
+             "A one-time achievement",
+             "An abstract classification only"],
+         "correct": 1,
+         "expl": "The vocabulary of habitual association applied to "
+                 "the factors themselves."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the first of the ten wrong factors, common to "
+              "every discourse in this chapter?",
+         "opts": [
+             "Wrong effort",
+             "Wrong view (micchādiṭṭhi)",
+             "Wrong livelihood",
+             "Wrong speech"],
+         "correct": 1,
+         "expl": "The opening factor of every wrong-and-right list "
+                 "across this chapter's ten variations."},
+    ],
+    marginalia=[
+        ("Not once, but again and again", [
+            "aroused once at 149,",
+            "now resorted to, kept as",
+            "company, returned to",
+        ]),
+        ("The same root as good friends", [
+            "the word for choosing",
+            "who to frequent, applied here",
+            "to the factors themselves",
+        ]),
+        ("Second of five verbs", [
+            "arouse, then cultivate &mdash;",
+            "three more still to come: develop,",
+            "weight, and hold in mind",
+        ]),
+        ("Cross-references", [
+            "AN 10.149 &middot; Should Be Activated, previous",
+            "AN 10.151 &middot; next, Should Be Developed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.150/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.149.html">AN 10.149 &middot; Should Be Activated</a> &mdash; '
+        "previous.",
+        '<a href="an-10.151.html">AN 10.151 &middot; Should Be Developed</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.151 — Bhāvetabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    151, "Bhāvetabba", "Should Be Developed",
+    vagga=VAGGA_15,
+    meta_title="AN 10.151 — Should Be Developed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhāvetabbasutta, applying this project's own most "
+        "common cultivation verb, bhāveti, to the ten-factor path. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a practice-verb "
+                 "word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the seventh of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "This discourse applies this entire project's single most "
+        "common meditative verb, <em>bhāveti</em>, &ldquo;to "
+        "develop,&rdquo; already met constantly paired with "
+        "&ldquo;cultivated&rdquo; throughout dozens of earlier "
+        "discourses, directly to the ten-factor path itself."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to develop is the ten wrong factors "
+            "from wrong view to wrong freedom; the principle to "
+            "develop is the ten right factors from right view to "
+            "right freedom."]),
+        ("The project's single most familiar verb, finally its own "
+         "namesake", [
+            "<em>Bhāveti</em>, &ldquo;to develop,&rdquo; is "
+            "arguably the most frequently used meditative verb in "
+            "this entire project, routinely paired with "
+            "<em>bahulīkata</em>, &ldquo;cultivated,&rdquo; in "
+            "discourse after discourse describing the effect of "
+            "sustained practice; this discourse is the first to "
+            "make that verb the discourse's own explicit title and "
+            "subject."]),
+        ("The third of five practice-verbs", [
+            "Following AN 10.149's arousal and AN 10.150's habitual "
+            "resort, this discourse's &ldquo;development&rdquo; "
+            "suggests active cultivation and growth &mdash; not "
+            "merely returning to the right factors, but actively "
+            "strengthening and expanding them through practice."]),
+        ("A verb this discourse's own neighbor will soon echo", [
+            "AN 10.152, immediately following, will use "
+            "<em>bahulīkātabba</em>, &ldquo;should be made much "
+            "of,&rdquo; the very term most commonly paired with "
+            "<em>bhāveti</em> throughout this project &mdash; this "
+            "discourse and its neighbor together reproduce, as two "
+            "separate discourses, a pairing usually delivered as a "
+            "single compound phrase elsewhere."]),
+    ],
+    terms=[
+        ("bhāvetabba",
+         "&ldquo;should be developed&rdquo; &mdash; this "
+         "discourse's own title, using this project's single most "
+         "frequently used meditative verb, <em>bhāveti</em>."),
+        ("na bhāvetabba",
+         "&ldquo;should not be developed&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("bhāveti",
+         "&ldquo;to develop&rdquo; &mdash; the project's most "
+         "common meditative verb, routinely paired elsewhere with "
+         "<em>bahulīkata</em>, cultivated."),
+        ("micchāsamādhi",
+         "&ldquo;wrong immersion&rdquo; &mdash; the eighth factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāñāṇaṁ",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "one of the two extending the classical eightfold path."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "principle to develop and not to develop. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not to be developed, and to be developed"),
+        ("p", "&sect;1", "an10.151:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to develop and not to develop "
+             "(bhāvetabba/na bhāvetabba)",
+             "Ancient and modern",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "This project's single most frequently used "
+                 "meditative verb, here applied to the ten-factor "
+                 "path directly."},
+        {"q": "According to the guide, what makes \"bhāveti\" "
+              "distinctive within this entire project?",
+         "opts": [
+             "It is a rarely used, obscure term",
+             "It is arguably the most frequently used meditative "
+             "verb in the whole project, usually paired with "
+             "\"cultivated\"",
+             "It only appears in this discourse",
+             "It is a term unique to AN10"],
+         "correct": 1,
+         "expl": "A constant background verb, here finally given its "
+                 "own explicit discourse."},
+        {"q": "According to the guide, what does this discourse's "
+              "\"development\" add beyond AN 10.150's \"cultivation\"?",
+         "opts": [
+             "Nothing further",
+             "Active strengthening and expansion through practice, "
+             "not merely returning to the factors",
+             "A complete reversal of the earlier verb's meaning",
+             "Removal of the ten-factor content"],
+         "correct": 1,
+         "expl": "A verb of active growth, continuing the "
+                 "progression of practice-verbs."},
+        {"q": "According to the guide, what term will AN 10.152 use "
+              "that is often paired with \"bhāveti\" elsewhere?",
+         "opts": [
+             "Saddhamma",
+             "Bahulīkātabba, \"should be made much of\"",
+             "Ariya",
+             "Kaṇha"],
+         "correct": 1,
+         "expl": "Two discourses reproducing, separately, a pairing "
+                 "usually delivered as one compound phrase elsewhere."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the tenth and final factor in the right-"
+              "factor list, common to every discourse in this "
+              "chapter?",
+         "opts": [
+             "Right knowledge",
+             "Right freedom (sammāvimutti)",
+             "Right immersion",
+             "Right effort"],
+         "correct": 1,
+         "expl": "The classical eightfold path extended by right "
+                 "knowledge and right freedom to make ten."},
+    ],
+    marginalia=[
+        ("The project's own most-used verb", [
+            "bhāveti, said so",
+            "often elsewhere &mdash; now, at last,",
+            "its own discourse's name",
+        ]),
+        ("Beyond mere return", [
+            "not just visiting",
+            "the factors again, but growth &mdash;",
+            "strengthened by practice",
+        ]),
+        ("A compound, split in two", [
+            "\"develop, cultivate\" &mdash;",
+            "usually one phrase, here",
+            "each gets its own verse",
+        ]),
+        ("Cross-references", [
+            "AN 10.150 &middot; Should Be Cultivated, previous",
+            "AN 10.152 &middot; next, Should Be Made Much Of, this "
+            "discourse's usual compound-phrase partner",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.151/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.150.html">AN 10.150 &middot; Should Be Cultivated</a> &mdash; '
+        "previous.",
+        '<a href="an-10.152.html">AN 10.152 &middot; Should Be Made Much Of</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.152 — Bahulīkātabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    152, "Bahulīkātabba", "Should Be Made Much Of",
+    vagga=VAGGA_15,
+    meta_title="AN 10.152 — Should Be Made Much Of | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bahulīkātabbasutta, completing the bhāvetabba/"
+        "bahulīkātabba compound pairing across two separate "
+        "discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a practice-verb "
+                 "word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the eighth of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "As anticipated at AN 10.151, this discourse supplies "
+        "<em>bahulīkātabba</em>, &ldquo;should be made much "
+        "of,&rdquo; the term most commonly paired with "
+        "<em>bhāveti</em> throughout this project, here delivered as "
+        "its own separate discourse rather than half of a compound "
+        "phrase."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to make much of is the ten wrong "
+            "factors from wrong view to wrong freedom; the principle "
+            "to make much of is the ten right factors from right "
+            "view to right freedom."]),
+        ("The compound's second half, delivered separately", [
+            "Where most of this project's discourses say "
+            "&ldquo;developed and cultivated&rdquo; "
+            "(<em>bhāvitā bahulīkatā</em>) as a single fused phrase, "
+            "this chapter's structure splits the pairing across two "
+            "consecutive discourses &mdash; AN 10.151 taking "
+            "<em>bhāveti</em> alone, this discourse taking "
+            "<em>bahulīkaroti</em> alone, each given the full "
+            "ten-factor treatment independently."]),
+        ("Literally, making much or plentiful", [
+            "<em>Bahulīkātabba</em> derives from <em>bahula</em>, "
+            "abundant or plentiful &mdash; the verb suggests not "
+            "merely growing the right factors once but making them "
+            "abundant, a frequency and thoroughness of practice "
+            "beyond a single act of development."]),
+        ("Four verbs down, one to go", [
+            "With this discourse, the chapter has now supplied four "
+            "of its five closing practice-verbs (activate, "
+            "cultivate, develop, make much of); only "
+            "<em>anussaritabba</em>, &ldquo;should be "
+            "recollected,&rdquo; remains before the chapter turns to "
+            "its final, tenth discourse."]),
+    ],
+    terms=[
+        ("bahulīkātabba",
+         "&ldquo;should be made much of&rdquo; or made abundant "
+         "&mdash; this discourse's own title, deriving from "
+         "<em>bahula</em>, plentiful."),
+        ("na bahulīkātabba",
+         "&ldquo;should not be made much of&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("bhāvitā bahulīkatā",
+         "&ldquo;developed and cultivated&rdquo; &mdash; the fused "
+         "compound phrase this discourse and AN 10.151 together "
+         "split across two separate discourses."),
+        ("micchāvācā",
+         "&ldquo;wrong speech&rdquo; &mdash; the third factor, "
+         "unchanged from every earlier list in this chapter."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, closing this discourse's list."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "principle to make much of and not to make much of. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not to be made much of, and to be made much of"),
+        ("p", "&sect;1", "an10.152:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to make much of and not to make much of "
+             "(bahulīkātabba/na bahulīkātabba)",
+             "Ancient and modern",
+             "Wealth and poverty"],
+         "correct": 1,
+         "expl": "The term most commonly paired with bhāveti "
+                 "throughout this project, here given its own "
+                 "discourse."},
+        {"q": "According to the guide, what fused compound phrase do "
+              "AN 10.151 and this discourse together split across two "
+              "discourses?",
+         "opts": [
+             "\"Wrong view and right view\"",
+             "\"Developed and cultivated\" (bhāvitā bahulīkatā)",
+             "\"Noble and ignoble\"",
+             "\"Dark and bright\""],
+         "correct": 1,
+         "expl": "A phrase usually delivered as one fused unit "
+                 "elsewhere, here given to two separate discourses."},
+        {"q": "What root does \"bahulīkātabba\" derive from, "
+              "according to the guide?",
+         "opts": [
+             "No particular root",
+             "Bahula, abundant or plentiful",
+             "The root for \"noble\"",
+             "The root for \"teaching\""],
+         "correct": 1,
+         "expl": "A sense of frequency and abundance beyond a single "
+                 "act of development."},
+        {"q": "According to the guide, how many of the chapter's five "
+              "closing practice-verbs has this discourse now "
+              "supplied, counting itself?",
+         "opts": [
+             "One", "Two", "Four", "All five"],
+         "correct": 2,
+         "expl": "Activate, cultivate, develop, and make much of — "
+                 "only recollect remains before the chapter's final "
+                 "discourse."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the second of the ten factors, common to "
+              "every discourse in this chapter?",
+         "opts": [
+             "Right/wrong purpose (sammāsaṅkappo/micchāsaṅkappo)",
+             "Right/wrong speech",
+             "Right/wrong action",
+             "Right/wrong livelihood"],
+         "correct": 0,
+         "expl": "The second position in the ten-factor list, "
+                 "unchanged across this chapter."},
+    ],
+    marginalia=[
+        ("A compound, split for the second time", [
+            "\"developed, cultivated\" &mdash;",
+            "one phrase elsewhere, here two",
+            "discourses in a row",
+        ]),
+        ("Not once, but abundantly", [
+            "bahula, plenty &mdash;",
+            "not a single growth, but",
+            "made thoroughly full",
+        ]),
+        ("Four down, one to go", [
+            "arouse, resort, grow,",
+            "make abundant &mdash; only",
+            "recollect remains",
+        ]),
+        ("Cross-references", [
+            "AN 10.151 &middot; Should Be Developed, this "
+            "discourse's compound-phrase partner, previous",
+            "AN 10.153 &middot; next, Should Be Recollected",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.152/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.151.html">AN 10.151 &middot; Should Be Developed</a> &mdash; '
+        "previous.",
+        '<a href="an-10.153.html">AN 10.153 &middot; Should Be Recollected</a> &mdash; '
+        "next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.153 — Anussaritabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    153, "Anussaritabba", "Should Be Recollected",
+    vagga=VAGGA_15,
+    meta_title="AN 10.153 — Should Be Recollected | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anussaritabbasutta, the fifth and final practice-verb "
+        "in this chapter's closing progression before AN 10.154 "
+        "closes the entire Third Fifty. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a practice-verb "
+                 "word-pair"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the ninth of this chapter's ten "
+                       "near-identical variations"),
+    ],
+    why=(
+        "Closing this chapter's five-verb progression of practical "
+        "engagement, this discourse turns from active cultivation to "
+        "memory: the right factors should not only be developed but "
+        "kept in mind, recollected even after direct practice has "
+        "moved elsewhere."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to recollect is the ten wrong factors "
+            "from wrong view to wrong freedom; the principle to "
+            "recollect is the ten right factors from right view to "
+            "right freedom."]),
+        ("The fifth and final practice-verb", [
+            "This discourse completes the progression flagged at AN "
+            "10.149: arouse, resort to, develop, make abundant, and "
+            "now recollect &mdash; a shift from verbs of active "
+            "cultivation to a verb of retention, holding what has "
+            "already been cultivated in mind."]),
+        ("Anussarati, a term of recollective practice", [
+            "<em>Anussarati</em>, to recollect, is a term familiar "
+            "from this canon's broader vocabulary of recollection "
+            "practices (<em>anussati</em>) &mdash; recollection of "
+            "the Buddha, the teaching, the Saṅgha, and other objects "
+            "of contemplative memory; this discourse applies the "
+            "same recollective faculty directly to the ten-factor "
+            "path itself."]),
+        ("One discourse before the Third Fifty closes", [
+            "With this discourse, the chapter has now completed all "
+            "five of its closing practice-verbs; only AN 10.154 "
+            "remains, which will close not only this chapter but the "
+            "entire Third Fifty, ending twenty-five discourses of "
+            "steady, repetitive elaboration on a single teaching."]),
+    ],
+    terms=[
+        ("anussaritabba",
+         "&ldquo;should be recollected&rdquo; &mdash; this "
+         "discourse's own title, the fifth and final verb in this "
+         "chapter's closing practice progression."),
+        ("na anussaritabba",
+         "&ldquo;should not be recollected&rdquo; &mdash; the "
+         "negation applied to the ten wrong factors."),
+        ("anussati",
+         "&ldquo;recollection&rdquo; &mdash; the broader vocabulary "
+         "of contemplative memory practices this discourse's key "
+         "verb belongs to, elsewhere applied to the Buddha, the "
+         "teaching, and the Saṅgha."),
+        ("micchāvimutti",
+         "&ldquo;wrong freedom&rdquo; &mdash; the tenth factor in "
+         "the wrong list, unchanged from every earlier list in this "
+         "chapter."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first factor, "
+         "opening every right-factor list across this entire "
+         "nipāta."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined as the "
+        "principle to recollect and not to recollect. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Not to be recollected, and to be recollected"),
+        ("p", "&sect;1", "an10.153:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to recollect and not to recollect "
+             "(anussaritabba/na anussaritabba)",
+             "Ancient and modern",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "The fifth and final verb in this chapter's closing "
+                 "practice-verb progression."},
+        {"q": "According to the guide, what shift does \"recollect\" "
+              "represent compared to the previous four verbs?",
+         "opts": [
+             "No shift at all",
+             "From verbs of active cultivation to a verb of "
+             "retention, holding what has already been cultivated in "
+             "mind",
+             "A complete reversal of the earlier teaching",
+             "A return to narrative framing"],
+         "correct": 1,
+         "expl": "Memory and retention closing out a progression of "
+                 "active engagement verbs."},
+        {"q": "According to the guide, what broader vocabulary does "
+              "\"anussarati\" belong to in this canon?",
+         "opts": [
+             "No broader vocabulary",
+             "Anussati, recollection practices such as recollection "
+             "of the Buddha, the teaching, and the Saṅgha",
+             "Only monastic disciplinary vocabulary",
+             "Only cosmological vocabulary"],
+         "correct": 1,
+         "expl": "A familiar contemplative-memory vocabulary applied "
+                 "here to the ten-factor path itself."},
+        {"q": "What does the guide say is significant about the "
+              "discourse that comes next, AN 10.154?",
+         "opts": [
+             "Nothing significant",
+             "It will close not only this chapter but the entire "
+             "Third Fifty",
+             "It introduces an entirely new topic",
+             "It repeats AN 10.145 verbatim"],
+         "correct": 1,
+         "expl": "The end of twenty-five discourses across chapters "
+                 "11 through 15."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What is the eighth of the ten factors, common to "
+              "every discourse in this chapter?",
+         "opts": [
+             "Right/wrong immersion (sammāsamādhi/micchāsamādhi)",
+             "Right/wrong mindfulness",
+             "Right/wrong knowledge",
+             "Right/wrong freedom"],
+         "correct": 0,
+         "expl": "The eighth position in the ten-factor list, "
+                 "unchanged across this chapter."},
+    ],
+    marginalia=[
+        ("From doing to holding in mind", [
+            "arouse, grow, make full &mdash;",
+            "now simply: keep it in",
+            "memory, don't let go",
+        ]),
+        ("The same faculty as recalling the Buddha", [
+            "the word for calling",
+            "the Three Jewels to mind, here",
+            "turned on the path itself",
+        ]),
+        ("One discourse from a milestone", [
+            "five verbs now complete;",
+            "next, the chapter closes, and",
+            "twenty-five discourses end",
+        ]),
+        ("Cross-references", [
+            "AN 10.152 &middot; Should Be Made Much Of, previous",
+            "AN 10.154 &middot; next, Should Be Realized, closing "
+            "both this chapter and the entire Third Fifty",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.153/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.152.html">AN 10.152 &middot; Should Be Made Much Of</a> &mdash; '
+        "previous.",
+        '<a href="an-10.154.html">AN 10.154 &middot; Should Be Realized</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.154 — Sacchikātabbasutta
+# --------------------------------------------------------------------------- #
+page(
+    154, "Sacchikātabba", "Should Be Realized",
+    vagga=VAGGA_15,
+    meta_title="AN 10.154 — Should Be Realized | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sacchikātabbasutta, closing both Ariyavagga and the "
+        "entire Third Fifty with the ten-factor path framed as what "
+        "should, and should not, be personally realized. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The identical template, with a closing "
+                 "realization-verb"),
+        ("Length", "under 1 minute to read"),
+        ("Closing this chapter and the Third Fifty", "This "
+            "discourse closes <em>Ariyavagga</em>, the fifteenth "
+            "chapter, and with it the entire Third Fifty (chapters "
+            "11&ndash;15), with its own untranslated colophon "
+            "&ldquo;Ariyavaggo pañcamo, tatiyo paṇṇāsako "
+            "samatto&rdquo; and uddāna verse"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the final variation closing a chapter, a "
+                       "fifty, and a five-verb progression all at "
+                       "once"),
+    ],
+    why=(
+        "Closing both this chapter and the entire Third Fifty, the "
+        "Buddha delivers the strongest of the five closing verbs: "
+        "not merely arousing, resorting to, developing, making "
+        "abundant, or recollecting the right factors, but personally "
+        "realizing them &mdash; direct, experiential attainment "
+        "rather than any prior stage of practice."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The principle not to realize is the ten wrong factors "
+            "from wrong view to wrong freedom; the principle to "
+            "realize is the ten right factors from right view to "
+            "right freedom."]),
+        ("Sacchikātabba, the strongest verb in the progression", [
+            "<em>Sacchikaroti</em>, &ldquo;to realize&rdquo; or "
+            "witness directly, literally combines <em>sacchi</em>, "
+            "&ldquo;with one's own eyes,&rdquo; and <em>karoti</em>, "
+            "&ldquo;to make or do&rdquo; &mdash; unlike arousing, "
+            "cultivating, developing, or recollecting, realization "
+            "names not an ongoing practice but its consummation, "
+            "the moment the path stops being practiced and becomes "
+            "directly known."]),
+        ("A triple closure, not just one", [
+            "This single brief discourse closes three things at "
+            "once: the five-verb practice progression opened at AN "
+            "10.149, the ten-discourse Ariyavagga opened at AN "
+            "10.145, and the entire Third Fifty opened at AN 10.101 "
+            "&mdash; twenty-five discourses across five chapters, all "
+            "elaborating the same core ten-factor path first stated "
+            "bare at AN 10.103."]),
+        ("A closing colophon naming the larger structure", [
+            "This discourse's own colophon, left untranslated, "
+            "explicitly names both closures: "
+            "&ldquo;Ariyavaggo pañcamo&rdquo; (the Noble Chapter, "
+            "the fifth [of the Third Fifty]) and "
+            "&ldquo;Tatiyo paṇṇāsako samatto&rdquo; (the Third "
+            "Fifty is finished) &mdash; the same double-colophon "
+            "pattern already met at AN 10.100's closing of the "
+            "Second Fifty."]),
+    ],
+    terms=[
+        ("sacchikātabba",
+         "&ldquo;should be realized,&rdquo; from <em>sacchi</em>, "
+         "&ldquo;with one's own eyes,&rdquo; and <em>karoti</em>, "
+         "&ldquo;to make or do&rdquo; &mdash; this discourse's own "
+         "title, naming direct experiential attainment."),
+        ("na sacchikātabba",
+         "&ldquo;should not be realized&rdquo; &mdash; the negation "
+         "applied to the ten wrong factors."),
+        ("Ariyavaggo pañcamo",
+         "&ldquo;the Noble Chapter, the fifth&rdquo; &mdash; this "
+         "chapter's own closing colophon, naming it as the fifth "
+         "chapter of the Third Fifty."),
+        ("Tatiyo paṇṇāsako samatto",
+         "&ldquo;the Third Fifty is finished&rdquo; &mdash; the "
+         "second half of this discourse's closing colophon, marking "
+         "the end of chapters 11 through 15 as a unit."),
+        ("sammāñāṇaṁ, sammāvimutti",
+         "&ldquo;right knowledge&rdquo; and &ldquo;right "
+         "freedom&rdquo; &mdash; the ninth and tenth factors, "
+         "closing the final right-factor list of the Third Fifty."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path defined by what "
+        "should, and should not, be realized. The chapter's own "
+        "colophon and uddāna verse, in Pāli only, are described but "
+        "not reproduced. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Not to be realized, and to be realized"),
+        ("p", "&sect;1", "an10.154:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What pairing does this discourse apply the chapter's "
+              "template to?",
+         "opts": [
+             "Loud and quiet",
+             "The principle to realize and not to realize "
+             "(sacchikātabba/na sacchikātabba)",
+             "Ancient and modern",
+             "Rich and poor"],
+         "correct": 1,
+         "expl": "The strongest and final verb in this chapter's "
+                 "closing practice progression."},
+        {"q": "According to the guide, what does \"sacchikātabba\" "
+              "literally combine?",
+         "opts": [
+             "Two unrelated roots with no combined meaning",
+             "Sacchi, \"with one's own eyes,\" and karoti, \"to make "
+             "or do\"",
+             "Ariya and magga",
+             "Bhāveti and bahulīkata"],
+         "correct": 1,
+         "expl": "A term for direct, experiential attainment, "
+                 "distinct from the ongoing-practice verbs before it."},
+        {"q": "According to the guide, what three things does this "
+              "single discourse close at once?",
+         "opts": [
+             "Nothing in particular",
+             "The five-verb practice progression, the ten-discourse "
+             "Ariyavagga, and the entire Third Fifty",
+             "Only the chapter, nothing larger",
+             "The entire AN10 nipāta"],
+         "correct": 1,
+         "expl": "A triple closure spanning twenty-five discourses "
+                 "across five chapters."},
+        {"q": "What does this discourse's own colophon state, "
+              "according to the guide?",
+         "opts": [
+             "Nothing about the larger structure",
+             "\"Ariyavaggo pañcamo, tatiyo paṇṇāsako samatto\" "
+             "&mdash; naming both the chapter's place and the end of "
+             "the Third Fifty",
+             "Only the chapter's own name, no fifty-marker",
+             "A reference to the Fourth Fifty beginning"],
+         "correct": 1,
+         "expl": "The same double-colophon pattern already met at AN "
+                 "10.100's closing of the Second Fifty."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this brief, closing "
+                 "discourse."},
+        {"q": "What does this discourse's closing colophon say, "
+              "according to the guide?",
+         "opts": [
+             "Nothing about a larger structure",
+             "\"Ariyavaggo pañcamo, tatiyo paṇṇāsako samatto\" "
+             "&mdash; the Noble Chapter, the fifth, and the Third "
+             "Fifty is finished",
+             "\"Dutiyo paṇṇāsako samatto\" only",
+             "A reference to the Fourth Fifty's first chapter"],
+         "correct": 1,
+         "expl": "A double closure naming both the chapter and the "
+                 "larger fifty it completes."},
+    ],
+    marginalia=[
+        ("Not practiced anymore, but seen", [
+            "arouse, grow, recall &mdash;",
+            "now, with one's own eyes, known:",
+            "practice becomes sight",
+        ]),
+        ("Three closures in one breath", [
+            "five verbs, ten discourses,",
+            "five chapters &mdash; twenty-five",
+            "suttas, closing here",
+        ]),
+        ("A fifty finished", [
+            "\"tatiyo paṇṇāsako",
+            "samatto\" &mdash; the same words",
+            "that closed the second",
+        ]),
+        ("Cross-references", [
+            "AN 10.153 &middot; Should Be Recollected, previous",
+            "AN 10.100 &middot; Not Possible, whose double colophon "
+            "closing the Second Fifty this discourse's own colophon "
+            "echoes",
+            "AN 10.103 &middot; The Wrong Way, the bare statement of "
+            "the ten-factor path this entire Third Fifty has "
+            "elaborated",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.154/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.153.html">AN 10.153 &middot; Should Be Recollected</a> &mdash; '
+        "previous.",
+        '<a href="an-10.100.html">AN 10.100 &middot; Not Possible</a> &mdash; closing the '
+        "Second Fifty with the same colophon pattern.",
+        '<a href="an-10.103.html">AN 10.103 &middot; The Wrong Way</a> &mdash; the bare '
+        "statement of the ten-factor path this whole Third Fifty has "
+        "elaborated.",
+    ],
+)
