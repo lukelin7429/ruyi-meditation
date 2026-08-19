@@ -1955,3 +1955,1750 @@ page(
         "list before its ninth member changes.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# ch.2 — Sīhanādavagga (AN 9.11-20). AN 9.20 itself was published before this
+# series began working in order, in the earlier eighteen-page selection; it
+# closes this chapter and is listed by INDEX_EXTRA rather than regenerated
+# here. AN 9.19's page splices in with an explicit next= kwarg per the
+# an-6.16/an-6.63/an-7.6/an-8.30/an-8.53 precedent, and an-9.20.html itself
+# gets its prev link hand-edited once this chapter is built.
+# --------------------------------------------------------------------------- #
+VAGGA_2 = "<em>Sīhanādavagga</em> &mdash; the second chapter of the Nines"
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.11 — Sāriputtasīhanādasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Sāriputtasīhanāda", "Sāriputta&rsquo;s Lion&rsquo;s Roar",
+    vagga=VAGGA_2,
+    meta_title="AN 9.11 — Sāriputta's Lion's Roar | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sāriputta's Lion's Roar, opening this chapter with a false "
+        "accusation and Sāriputta's own answer: ten similes on a heart "
+        "like the earth, water, fire, wind, and more, free of enmity even "
+        "when struck. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "A complaining mendicant, the Buddha, and Venerable "
+                     "Sāriputta, summoned to answer the charge in the "
+                     "Buddha's presence"),
+        ("Form", "A narrative accusation, then ten similes answering it, "
+                 "then the accuser's confession and Sāriputta's own "
+                 "condition for forgiveness"),
+        ("Length", "~6 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own name to the "
+                               "chapter, <em>Sīhanādavagga</em>, the "
+                               "Chapter on the Lion's Roar"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a long "
+                       "narrative with ten cumulative similes, worth "
+                       "reading in full"),
+    ],
+    why=(
+        "A mendicant falsely accuses Sāriputta, just departed for the "
+        "countryside, of attacking him and leaving without apology; "
+        "summoned back and told of the complaint, Sāriputta answers not "
+        "with denial but with ten similes &mdash; a heart like the earth, "
+        "water, fire, wind, a rag, a humble outcaste child, a gentle "
+        "gelded bull &mdash; each showing that someone who had not "
+        "established mindfulness of the body might well act this way, "
+        "but he himself lives free of enmity and ill will."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Someone who had not established mindfulness of the body "
+            "might well attack a companion and leave without apology, but "
+            "Sāriputta lives with a heart like the earth, water, fire, "
+            "wind, and a rag &mdash; unmoved whether clean or unclean "
+            "things are thrown upon it &mdash; abundant, expansive, "
+            "limitless, free of enmity and ill will."]),
+        ("A false accusation, and a dramatic summons", [
+            "The complaint is laid the moment Sāriputta has left for the "
+            "countryside; the Buddha's terse instruction &mdash; "
+            "&ldquo;the teacher summons him&rdquo; &mdash; and "
+            "Moggallāna and Ānanda going from dwelling to dwelling "
+            "calling the mendicants to come hear &ldquo;Sāriputta roar his "
+            "lion's roar&rdquo; build real anticipation before Sāriputta "
+            "has said a single word in his own defense."]),
+        ("Ten similes, one repeated refrain", [
+            "Rather than deny the accusation outright, Sāriputta answers "
+            "with escalating images of imperturbability &mdash; earth, "
+            "water, fire, wind, and a rag, each unmoved by both clean and "
+            "unclean things; a humble outcaste child entering town; a "
+            "gentle gelded bull harming no one; and, turning inward, his "
+            "own disgust at his &ldquo;leaking and oozing&rdquo; body "
+            "&mdash; each closed by the same refrain: someone without "
+            "mindfulness of the body might well do this, but not him."]),
+        ("A confession, and a condition for forgiveness", [
+            "The accusing mendicant, moved by Sāriputta's answer, "
+            "confesses his claim was &ldquo;incorrect, hollow, false, "
+            "untruthful,&rdquo; and the Buddha warns his head will "
+            "explode into seven pieces unless Sāriputta forgives him. "
+            "Sāriputta's reply is neither refusal nor automatic pardon: he "
+            "will forgive if the mendicant himself asks to be forgiven in "
+            "turn &mdash; reconciliation offered, not simply granted."]),
+    ],
+    terms=[
+        ("sīhanādaṁ nadatu",
+         "&ldquo;roar his lion's roar&rdquo; &mdash; Moggallāna and "
+         "Ānanda's own summons, giving this discourse and its chapter "
+         "their name."),
+        ("kāyagatāsati anupaṭṭhitā",
+         "&ldquo;mindfulness of the body not established&rdquo; &mdash; "
+         "the discourse's own refrain, naming what someone lacking "
+         "might well do."),
+        ("pathavisamena cetasā",
+         "&ldquo;with a heart like the earth&rdquo; &mdash; the first of "
+         "ten similes, unmoved whether clean or unclean things are "
+         "thrown upon it."),
+        ("caṇḍālakumārakena vā caṇḍālakumārikāya vā",
+         "&ldquo;a boy or girl of a corpse-worker tribe&rdquo; &mdash; "
+         "one of the ten similes, entering town with a humble mind, "
+         "holding a pot and clad in rags."),
+        ("sattadhā tassa muddhā phalatu",
+         "&ldquo;his head will explode into seven pieces&rdquo; &mdash; "
+         "the Buddha's warning to the accusing mendicant unless "
+         "Sāriputta forgives him."),
+    ],
+    text_intro=(
+        "The discourse in full: a false accusation, a dramatic summons, "
+        "ten similes, and a confession answered with a condition for "
+        "forgiveness. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "A false accusation, and a summons"),
+        ("p", "&sect;1", "an9.11:1.1-2.6"),
+        ("h3", "Ten similes"),
+        ("p", "&sect;2", "an9.11:3.1-4.3"),
+        ("p", "&sect;3", "an9.11:5.1-5.3"),
+        ("p", "&sect;4", "an9.11:6.1-6.3"),
+        ("p", "&sect;5", "an9.11:7.1-7.3"),
+        ("p", "&sect;6", "an9.11:8.1-8.3"),
+        ("p", "&sect;7", "an9.11:9.1-9.3"),
+        ("p", "&sect;8", "an9.11:10.1-10.3"),
+        ("p", "&sect;9", "an9.11:11.1-11.3"),
+        ("p", "&sect;10", "an9.11:12.1-12.3"),
+        ("h3", "A confession, and a condition for forgiveness"),
+        ("p", "&sect;11", "an9.11:13.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What complaint is laid against Sāriputta, and when?",
+         "opts": [
+             "That he stole almsfood, laid while he was still present",
+             "That he attacked a mendicant and left without apologizing, "
+             "laid just after he departed for the countryside",
+             "That he broke a monastic rule about robes",
+             "That he taught false doctrine"],
+         "correct": 1,
+         "expl": "The accusation prompts his dramatic summons back."},
+        {"q": "How does Sāriputta answer the accusation?",
+         "opts": [
+             "By denying it outright and demanding proof",
+             "With ten cumulative similes of imperturbability, each "
+             "closing with the same refrain about mindfulness of the body",
+             "By refusing to respond at all",
+             "By accusing the mendicant in return"],
+         "correct": 1,
+         "expl": "Earth, water, fire, wind, a rag, and more, each unmoved "
+                 "by clean or unclean things."},
+        {"q": "What does the discourse's own refrain say about the "
+              "accusation?",
+         "opts": [
+             "That it is certainly true",
+             "That someone who had not established mindfulness of the "
+             "body might well act this way — implying Sāriputta himself "
+             "has",
+             "That it is impossible for anyone to act this way",
+             "That the Buddha alone can judge the matter"],
+         "correct": 1,
+         "expl": "A conditional, not a denial — establishing the standard "
+                 "rather than simply asserting innocence."},
+        {"q": "What does the accusing mendicant do once he hears "
+              "Sāriputta's answer?",
+         "opts": [
+             "He storms off unconvinced",
+             "He confesses his claim was incorrect, hollow, false, and "
+             "untruthful, and asks forgiveness",
+             "He challenges Sāriputta to a debate",
+             "He leaves the monastic order"],
+         "correct": 1,
+         "expl": "A genuine confession, met by the Buddha's warning about "
+                 "the consequences of an unforgiven wrong."},
+        {"q": "On what condition does Sāriputta agree to forgive him?",
+         "opts": [
+             "Unconditionally, the moment the Buddha asks",
+             "Only if the mendicant himself asks Sāriputta to pardon him "
+             "in turn",
+             "Never; he refuses to forgive",
+             "Only after a period of monastic probation"],
+         "correct": 1,
+         "expl": "Reconciliation offered as an exchange, not simply "
+                 "granted on request."},
+        {"q": "What does this discourse lend to its chapter's name?",
+         "opts": [
+             "Nothing in particular", "Its own image, the &ldquo;lion's "
+             "roar,&rdquo; naming <em>Sīhanādavagga</em>",
+             "A place name", "A number"],
+         "correct": 1,
+         "expl": "Moggallāna and Ānanda's own summons gives the chapter "
+                 "its name."},
+    ],
+    marginalia=[
+        ("A false charge, a summons", [
+            "&ldquo;the teacher summons him&rdquo; &mdash;",
+            "&ldquo;come hear Sāriputta",
+            "roar his lion's roar&rdquo;",
+        ]),
+        ("Ten similes of an unmoved heart", [
+            "earth, water, fire, wind,",
+            "a rag, a humble child,",
+            "a gentle gelded bull",
+        ]),
+        ("Forgiveness, not automatic", [
+            "&ldquo;I will pardon him",
+            "if he asks me too&rdquo; &mdash;",
+            "exchange, not simple grant",
+        ]),
+        ("Cross-references", [
+            "AN 9.10 &middot; previous nipāta's chapter, closing "
+            "Sambodhivagga",
+            "AN 9.12 &middot; next, With Residue",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.11/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.10.html">AN 9.10 &middot; Worthy of Offerings Dedicated to the '
+        "Gods</a> &mdash; previous.",
+        '<a href="an-9.12.html">AN 9.12 &middot; With Residue</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.12 — Sopādisesasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Sopādisesa", "With Residue",
+    vagga=VAGGA_2,
+    meta_title="AN 9.12 — With Residue | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sopādisesasutta, in which the Buddha corrects wanderers of other "
+        "religions with a detailed nine-fold classification of stream-"
+        "enterers, once-returners, and non-returners exempt from bad "
+        "rebirth. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_SAVATTHI),
+        ("Speakers", "Venerable Sāriputta and the Buddha"),
+        ("Form", "A narrative frame — an overheard claim, deferred rather "
+                 "than debated — then a detailed nine-fold classification"),
+        ("Length", "~4 minutes to read"),
+        ("Not the same nine as AN 9.9/9.10", "This nine-fold list is a "
+         "far more granular breakdown of only three of the four noble "
+         "fruits — non-return, once-return, and stream-entry — not the "
+         "four-pairs-plus-one scheme met two discourses ago"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "technical classification worth reading slowly"),
+    ],
+    why=(
+        "Overhearing wanderers of other religions claim that no-one who "
+        "dies &lsquo;with residue&rsquo; escapes a bad rebirth, Sāriputta "
+        "neither argues nor agrees but brings the question to the "
+        "Buddha, who dismisses the wanderers as incompetent to judge such "
+        "things and gives nine specific kinds of person who, dying with "
+        "residue remaining, are exempt from hell, the animal realm, and "
+        "the ghost realm."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nine kinds of person, dying with residue still remaining, "
+            "are exempt from a bad rebirth: five grades of non-returner, "
+            "a once-returner, and three grades of stream-enterer, each "
+            "defined by which fetters have ended and how much ethics, "
+            "immersion, and wisdom have been fulfilled."]),
+        ("Overheard, not argued", [
+            "Sāriputta doesn't debate the wanderers' claim on the spot. "
+            "He neither approves nor rejects it, quietly resolving "
+            "instead to learn its truth from the Buddha himself &mdash; "
+            "a model of restraint the discourse doesn't comment on "
+            "directly but plainly commends by contrast with what follows."]),
+        ("Five grades of non-returner, from one classification", [
+            "The first five individuals are all non-returners, "
+            "distinguished by how and when they attain final "
+            "extinguishment after the five lower fetters end: between "
+            "one life and the next, upon landing, without extra effort, "
+            "with extra effort, or by heading upstream to the Akaniṭṭha "
+            "realm &mdash; a finer subdivision of the same non-return "
+            "already named as a single fruit at AN 9.9 and 9.10."]),
+        ("A once-returner and three stream-enterers close the nine", [
+            "The sixth individual is a once-returner. The final three are "
+            "all stream-enterers, distinguished by how much further "
+            "rebirth remains: a one-seeder reborn just once more, one who "
+            "goes from family to family two or three times, and one with "
+            "at most seven rebirths &mdash; and the Buddha adds that he "
+            "has kept this detailed exposition largely unspoken, for fear "
+            "listeners might grow negligent on hearing it."]),
+    ],
+    terms=[
+        ("sopādiseso",
+         "&ldquo;with residue&rdquo; &mdash; the discourse's own title "
+         "term, meaning defilements not yet fully extinguished at death."),
+        ("antarāparinibbāyī",
+         "&ldquo;extinguished between one life and the next&rdquo; "
+         "&mdash; the first of the five non-returner grades."),
+        ("uddhaṁsoto akaniṭṭhagāmī",
+         "&ldquo;heading upstream, going to the Akaniṭṭha realm&rdquo; "
+         "&mdash; the fifth and most gradual of the non-returner grades."),
+        ("ekabījī",
+         "&ldquo;one-seeder&rdquo; &mdash; a stream-enterer reborn just "
+         "one more time in a human existence before making an end of "
+         "suffering."),
+        ("na cāhaṁ, sāriputta, etāvatā aññāsiṁ pariyāyaṁ",
+         "the Buddha's reason for rarely teaching this detailed "
+         "exposition &mdash; not wanting listeners to grow negligent on "
+         "hearing it, spoken here only to answer Sāriputta's question."),
+    ],
+    text_intro=(
+        "The discourse in full: an overheard claim brought to the "
+        "Buddha, and a detailed nine-fold classification of non-"
+        "returners, a once-returner, and stream-enterers. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "An overheard claim, brought to the Buddha"),
+        ("p", "&sect;1", "an9.12:1.1-2.6"),
+        ("h3", "Nine individuals, exempt from bad rebirth"),
+        ("p", "&sect;2", "an9.12:4.1-11.6"),
+    ],
+    quiz=[
+        {"q": "What claim does Sāriputta overhear from wanderers of other "
+              "religions?",
+         "opts": [
+             "That everyone who dies eventually attains awakening",
+             "That no-one who dies with residue remaining is exempt from "
+             "hell, the animal realm, or the ghost realm",
+             "That rebirth doesn't exist",
+             "That only monastics can be reborn well"],
+         "correct": 1,
+         "expl": "A claim Sāriputta neither approves nor rejects on the "
+                 "spot."},
+        {"q": "How does Sāriputta respond to the wanderers' claim in the "
+              "moment?",
+         "opts": [
+             "He argues against it immediately",
+             "He neither approves nor rejects it, and resolves to ask "
+             "the Buddha instead",
+             "He agrees with it publicly",
+             "He reports them to the authorities"],
+         "correct": 1,
+         "expl": "Restraint, and deferring to the Buddha rather than "
+                 "debating on the spot."},
+        {"q": "What does the Buddha say about the wanderers' competence "
+              "to judge this question?",
+         "opts": [
+             "That they are correct",
+             "That they are foolish and incompetent to know whether "
+             "someone has residue or not",
+             "That the question is unanswerable",
+             "That only Sāriputta can judge it"],
+         "correct": 1,
+         "expl": "A sharp dismissal before the Buddha gives his own "
+                 "detailed answer."},
+        {"q": "How does this nine-fold classification relate to the "
+              "nine individuals at AN 9.9 and 9.10?",
+         "opts": [
+             "It is the identical list, restated",
+             "It is a far more granular breakdown of only three of the "
+             "four fruits — non-return, once-return, and stream-entry — "
+             "not the four-pairs-plus-one scheme",
+             "It replaces the earlier list entirely",
+             "It adds the perfected one as a tenth grade"],
+         "correct": 1,
+         "expl": "A different, finer-grained nine, not a repeat of AN "
+                 "9.9/9.10."},
+        {"q": "Why does the Buddha say he has rarely taught this detailed "
+              "exposition before?",
+         "opts": [
+             "It is a secret teaching for the ordained only",
+             "He didn't want listeners to grow negligent on hearing it",
+             "It had not yet been formulated",
+             "It contradicts an earlier teaching"],
+         "correct": 1,
+         "expl": "Spoken here only because Sāriputta specifically asked."},
+        {"q": "What closes the nine-fold list?",
+         "opts": [
+             "Five grades of non-returner only",
+             "Five grades of non-returner, a once-returner, and three "
+             "grades of stream-enterer",
+             "Nine grades of stream-enterer",
+             "The perfected one and eight lesser grades"],
+         "correct": 1,
+         "expl": "Three fruits, subdivided to nine individuals in total."},
+    ],
+    marginalia=[
+        ("Overheard, not argued", [
+            "neither approved",
+            "nor rejected &mdash; Sāriputta",
+            "asks the Buddha instead",
+        ]),
+        ("Five grades of non-return", [
+            "between lives, on landing,",
+            "with or without effort,",
+            "or heading upstream",
+        ]),
+        ("A once-returner, three stream-enterers", [
+            "one-seeder, family",
+            "to family, seven rebirths",
+            "at most &mdash; nine in all",
+        ]),
+        ("Cross-references", [
+            "AN 9.9&ndash;10 &middot; a coarser four-pairs-plus-one "
+            "classification, for comparison",
+            "AN 9.11 &middot; previous, Sāriputta's Lion's Roar",
+            "AN 9.13 &middot; next, With Koṭṭhita",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.12/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.9.html">AN 9.9 &middot; Individuals</a> &mdash; a coarser '
+        "classification, for comparison.",
+        '<a href="an-9.11.html">AN 9.11 &middot; Sāriputta&rsquo;s Lion&rsquo;s Roar</a> '
+        "&mdash; previous.",
+        '<a href="an-9.13.html">AN 9.13 &middot; With Koṭṭhita</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.13 — Koṭṭhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Koṭṭhika", "With Koṭṭhita",
+    vagga=VAGGA_2,
+    meta_title="AN 9.13 — With Koṭṭhita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Koṭṭhikasutta, in which Mahākoṭṭhita questions Sāriputta with ten "
+        "denials, ruling out a deterministic view of karma before "
+        "Sāriputta names the real goal of the spiritual life. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue in the same "
+                    "general setting as the chapter"),
+        ("Speakers", "Venerable Mahākoṭṭhita questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "Ten paired questions, each answered &lsquo;certainly "
+                 "not,&rsquo; then a direct question and Sāriputta's own "
+                 "answer"),
+        ("Length", "~3 minutes to read"),
+        ("A negative approach to a positive answer", "Ten denials clear "
+         "away wrong reasons before the real goal — knowing the four "
+         "noble truths — is finally named"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "repetitive but philosophically pointed, worth "
+                       "reading for what it rules out"),
+    ],
+    why=(
+        "Mahākoṭṭhita puts ten paired questions to Sāriputta, each asking "
+        "whether the spiritual life is lived so that karmic results might "
+        "be rearranged &mdash; experienced in a different life, felt as "
+        "pleasant instead of painful, ripened early or late, felt more or "
+        "less than their due, or avoided altogether &mdash; and Sāriputta "
+        "answers &lsquo;certainly not&rsquo; to every one, before naming "
+        "the real goal: to know, see, attain, realize, and comprehend the "
+        "four noble truths."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The spiritual life is not lived to rearrange the results of "
+            "past deeds in any way, but to know, see, attain, realize, "
+            "and comprehend what is otherwise unknown, unseen, "
+            "unattained, unrealized, and uncomprehended: the four noble "
+            "truths."]),
+        ("Ten ways of misunderstanding karma, ruled out", [
+            "Mahākoṭṭhita's ten questions test five paired "
+            "misconceptions: that deeds ripening now might instead ripen "
+            "later or vice versa, that painful results might become "
+            "pleasant or vice versa, that ripening might be sped up or "
+            "delayed, that a large result might be reduced or a small one "
+            "magnified, and that karmic results might be avoided "
+            "altogether or invented from nothing. Sāriputta rejects every "
+            "one without qualification."]),
+        ("Clearing ground before building", [
+            "The discourse's structure is deliberately negative before "
+            "it is positive: only once all ten wrong reasons have been "
+            "explicitly ruled out does Mahākoṭṭhita ask the direct "
+            "question &mdash; what, then, is the goal? &mdash; and only "
+            "then does Sāriputta answer."]),
+        ("The four noble truths, named without being spelled out again", [
+            "Sāriputta's answer names suffering, its origin, its "
+            "cessation, and the practice leading to its cessation as "
+            "&ldquo;the unknown, unseen, unattained, unrealized, and "
+            "uncomprehended&rdquo; that the spiritual life exists to "
+            "know, see, attain, realize, and comprehend &mdash; the same "
+            "four truths spelled out in full at their most famous "
+            "setting, the first sermon, here simply named in their "
+            "standard four-part form."]),
+    ],
+    terms=[
+        ("idha vuttavedanīyaṁ kammaṁ samparāye vuttavedanīyaṁ hoti",
+         "&ldquo;deeds to be experienced in this life be experienced in "
+         "lives to come&rdquo; &mdash; the first of ten misconceptions "
+         "Mahākoṭṭhita tests and Sāriputta rejects."),
+        ("ekantadukkhavedanīyaṁ kammaṁ",
+         "&ldquo;deeds to be experienced as painful&rdquo; &mdash; part "
+         "of the second pair of questions, testing whether painful "
+         "results might become pleasant."),
+        ("bahuṁ vā vedanīyaṁ kammaṁ appaṁ vedanīyaṁ",
+         "&ldquo;deeds to be experienced a lot be experienced a "
+         "little&rdquo; &mdash; the fourth pair, testing whether the "
+         "scale of karmic results can be altered."),
+        ("aññātassa aññātaṁ, adiṭṭhassa diṭṭhaṁ",
+         "&ldquo;to know, see... that which is unknown, unseen&rdquo; "
+         "&mdash; Sāriputta's own positive answer, naming the goal in "
+         "place of the ten rejected misconceptions."),
+        ("idaṁ dukkhanti... ayaṁ dukkhanirodhagāminī paṭipadāti",
+         "the four noble truths, named in their standard form as what "
+         "the spiritual life exists to know, see, attain, realize, and "
+         "comprehend."),
+    ],
+    text_intro=(
+        "The discourse in full: ten questions each answered &lsquo;"
+        "certainly not,&rsquo; then Sāriputta's own answer naming the "
+        "four noble truths as the real goal. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten questions, ten denials"),
+        ("p", "&sect;1", "an9.13:1.1-10.2"),
+        ("p", "&sect;2", "an9.13:11.1-20.2"),
+        ("h3", "The real goal, named"),
+        ("p", "&sect;3", "an9.13:21.1-21.9"),
+    ],
+    quiz=[
+        {"q": "What does Mahākoṭṭhita's first pair of questions test?",
+         "opts": [
+             "Whether ethical conduct matters",
+             "Whether the spiritual life is lived so deeds due in this "
+             "life might instead ripen in future lives, or vice versa",
+             "Whether meditation is necessary",
+             "Whether the Buddha exists"],
+         "correct": 1,
+         "expl": "The first of five paired misconceptions about "
+                 "rearranging karmic results."},
+        {"q": "How does Sāriputta answer every one of the ten questions?",
+         "opts": [
+             "With a qualified &lsquo;sometimes&rsquo;",
+             "With an unqualified &lsquo;certainly not&rsquo;",
+             "By refusing to answer",
+             "By asking a counter-question each time"],
+         "correct": 1,
+         "expl": "Every misconception about rearranging karma is flatly "
+                 "rejected."},
+        {"q": "What structural choice does the discourse make before "
+              "revealing the real goal?",
+         "opts": [
+             "It states the goal first, then explains it",
+             "It clears away ten wrong reasons before Mahākoṭṭhita asks "
+             "directly what the goal actually is",
+             "It never states a positive goal at all",
+             "It leaves the goal for the reader to infer"],
+         "correct": 1,
+         "expl": "Negative clearing before the positive answer."},
+        {"q": "What is the real goal Sāriputta names for the spiritual "
+              "life?",
+         "opts": [
+             "Rearranging karmic results favorably",
+             "To know, see, attain, realize, and comprehend the four "
+             "noble truths",
+             "Escaping karma altogether",
+             "Accumulating merit for a better rebirth"],
+         "correct": 1,
+         "expl": "Named as &ldquo;the unknown, unseen, unattained&rdquo; "
+                 "in their standard four-part form."},
+        {"q": "According to the guide, where else are the four noble "
+              "truths spelled out in their most famous setting?",
+         "opts": [
+             "Nowhere else in the canon",
+             "The first sermon",
+             "Only in this discourse",
+             "In a later commentary only"],
+         "correct": 1,
+         "expl": "Named here in standard form rather than spelled out "
+                 "afresh."},
+        {"q": "Who questions whom in this discourse?",
+         "opts": [
+             "The Buddha questions Sāriputta",
+             "Mahākoṭṭhita questions Sāriputta",
+             "Sāriputta questions Mahākoṭṭhita",
+             "Ānanda questions the Buddha"],
+         "correct": 1,
+         "expl": "One chief disciple questioning another, without the "
+                 "Buddha present in the dialogue itself."},
+    ],
+    marginalia=[
+        ("Ten questions, one answer", [
+            "&ldquo;certainly not&rdquo; &mdash;",
+            "ten ways karma might be",
+            "rearranged, all ruled out",
+        ]),
+        ("Clearing ground first", [
+            "not this, not that &mdash;",
+            "only then the question:",
+            "what, then, is the goal?",
+        ]),
+        ("The four truths, named", [
+            "unknown, unseen, unattained &mdash;",
+            "suffering and its ending,",
+            "known here in brief",
+        ]),
+        ("Cross-references", [
+            "AN 9.12 &middot; previous, With Residue",
+            "AN 9.14 &middot; next, With Samiddhi",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.13/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.12.html">AN 9.12 &middot; With Residue</a> &mdash; previous.',
+        '<a href="an-9.14.html">AN 9.14 &middot; With Samiddhi</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.14 — Samiddhisutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Samiddhi", "With Samiddhi",
+    vagga=VAGGA_2,
+    meta_title="AN 9.14 — With Samiddhi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samiddhisutta, a nine-question catechism tracing thoughts from "
+        "name and form through contact, feeling, immersion, mindfulness, "
+        "and wisdom to freedom from death. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Not restated; understood to continue in the same "
+                    "general setting as the chapter"),
+        ("Speakers", "Venerable Sāriputta questioning Venerable Samiddhi"),
+        ("Form", "Nine successive questions and answers, each building on "
+                 "the last, closed by a caution against conceit"),
+        ("Length", "~1 minute to read"),
+        ("A chain, not a list", "Each answer becomes the ground for the "
+         "next question, tracing thought from its basis to its final "
+         "objective rather than naming nine parallel items"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "but conceptually dense, best read slowly, term by "
+                       "term"),
+    ],
+    why=(
+        "Sāriputta questions Samiddhi in a nine-step chain &mdash; what "
+        "grounds thoughts, where they diversify, what originates, meets, "
+        "chiefs, rules, oversees, and cores them, and what their "
+        "objective is &mdash; drawing out name and form, the elements, "
+        "contact, feeling, immersion, mindfulness, wisdom, freedom, and "
+        "finally freedom from death, then praises Samiddhi's answers "
+        "while warning him not to grow conceited."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Thoughts arise based on name and form, diversify in the "
+            "elements, originate from contact, meet in feeling, are "
+            "chiefed by immersion, ruled by mindfulness, overseen by "
+            "wisdom, cored by freedom, and aimed at freedom from death."]),
+        ("Nine questions, one unbroken chain", [
+            "Unlike the many nine-item lists elsewhere in this chapter, "
+            "this discourse is not a list of nine parallel items but a "
+            "single chain: each answer supplies the ground for the next "
+            "question, moving from the most basic condition for thought "
+            "to arise to its furthest and final objective."]),
+        ("From name and form to freedom from death", [
+            "The chain's two ends frame the whole spiritual project: it "
+            "begins with name and form, the basic mind-and-body "
+            "condition for any thought at all, and ends with freedom "
+            "from death, the deathless, naming what all of it is finally "
+            "for."]),
+        ("Praise, and an immediate caution", [
+            "Sāriputta confirms that Samiddhi has answered every question "
+            "correctly, calling it &ldquo;good, good&rdquo; &mdash; but "
+            "closes with a caution rather than unqualified praise: "
+            "&ldquo;don't get conceited because of that,&rdquo; a brief "
+            "reminder that correct answers are not themselves the "
+            "attainment they describe."]),
+    ],
+    terms=[
+        ("nāmarūpanissitā",
+         "&ldquo;based on name and form&rdquo; &mdash; Samiddhi's first "
+         "answer, the basic condition for thoughts to arise at all."),
+        ("dhātusu vematteyya",
+         "&ldquo;diversified in the elements&rdquo; &mdash; the second "
+         "link, naming where thoughts take on their variety."),
+        ("phassasamudayā",
+         "&ldquo;contact is their origin&rdquo; &mdash; the third link in "
+         "the chain."),
+        ("samādhippamukhā",
+         "&ldquo;immersion is their chief&rdquo; &mdash; the fifth link, "
+         "naming what governs thought once it has met in feeling."),
+        ("amatogadhā",
+         "&ldquo;their objective is freedom from death&rdquo; &mdash; "
+         "the chain's final link, naming the deathless as the whole "
+         "sequence's ultimate aim."),
+    ],
+    text_intro=(
+        "The discourse in full: nine questions tracing an unbroken chain "
+        "from name and form to freedom from death. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine questions, one chain"),
+        ("p", "&sect;1", "an9.14:1.1-10.2"),
+        ("h3", "Praise, and a caution"),
+        ("p", "&sect;2", "an9.14:11.1-11.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from most other "
+              "nine-item teachings in this chapter?",
+         "opts": [
+             "It has no structure at all",
+             "It is a single unbroken chain, each answer grounding the "
+             "next question, not a list of nine parallel items",
+             "It repeats the same question nine times",
+             "It is spoken entirely by the Buddha"],
+         "correct": 1,
+         "expl": "A chain from basis to objective, not a parallel list."},
+        {"q": "What does Samiddhi name as the basis on which thoughts "
+              "arise?",
+         "opts": [
+             "Contact", "Name and form", "Wisdom", "Immersion"],
+         "correct": 1,
+         "expl": "The chain's opening link, the basic mind-and-body "
+                 "condition for thought."},
+        {"q": "What does Samiddhi name as the chain's final objective?",
+         "opts": [
+             "Wealth and long life",
+             "Freedom from death",
+             "Rebirth in a heavenly realm",
+             "Mastery of the elements"],
+         "correct": 1,
+         "expl": "The deathless, naming what the whole sequence is "
+                 "finally for."},
+        {"q": "What links immersion, mindfulness, and wisdom in the "
+              "middle of the chain?",
+         "opts": [
+             "They are unrelated asides",
+             "Each is named chief, ruler, and overseer of thought in "
+             "turn, following from feeling",
+             "They replace the earlier links entirely",
+             "They are only mentioned once, together"],
+         "correct": 1,
+         "expl": "Three consecutive links, each naming a different kind "
+                 "of governance over thought."},
+        {"q": "How does Sāriputta respond to Samiddhi's answers?",
+         "opts": [
+             "With silence", "With praise, &lsquo;good, good,&rsquo; but "
+             "also a caution not to grow conceited",
+             "With correction of every answer",
+             "By asking Samiddhi to repeat them"],
+         "correct": 1,
+         "expl": "Genuine praise paired with an immediate check against "
+                 "pride."},
+        {"q": "Who questions whom in this discourse?",
+         "opts": [
+             "The Buddha questions Samiddhi",
+             "Sāriputta questions Samiddhi",
+             "Samiddhi questions Sāriputta",
+             "Mahākoṭṭhita questions Samiddhi"],
+         "correct": 1,
+         "expl": "A chief disciple examining a junior mendicant's "
+                 "understanding."},
+    ],
+    marginalia=[
+        ("A chain, not a list", [
+            "name-and-form, elements,",
+            "contact, feeling, immersion,",
+            "mindfulness, wisdom, freedom",
+        ]),
+        ("From basis to objective", [
+            "thought's first ground",
+            "to its final aim &mdash;",
+            "freedom from death",
+        ]),
+        ("Praise, with a caution", [
+            "&ldquo;good, good, Samiddhi&rdquo; &mdash;",
+            "but don't grow conceited",
+            "over a right answer",
+        ]),
+        ("Cross-references", [
+            "AN 9.13 &middot; previous, With Koṭṭhita",
+            "AN 9.15 &middot; next, The Simile of the Boil",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.14/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.13.html">AN 9.13 &middot; With Koṭṭhita</a> &mdash; previous.',
+        '<a href="an-9.15.html">AN 9.15 &middot; The Simile of the Boil</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.15 — Gaṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, "Gaṇḍa", "The Simile of the Boil",
+    vagga=VAGGA_2,
+    meta_title="AN 9.15 — The Simile of the Boil | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gaṇḍasutta, a brief and vivid simile comparing the body to an "
+        "old boil with nine oozing orifices, closing with a call to have "
+        "no illusion about it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single extended simile, stated once as an image and "
+                 "once applied directly to the body"),
+        ("Length", "~30 seconds to read"),
+        ("The shortest kind of discourse in this chapter", "One image, "
+         "stated and then applied, with no narrative frame and no "
+         "further teaching attached"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief "
+                       "and blunt, best read for its intended discomfort"),
+    ],
+    why=(
+        "The body is compared to an old boil with nine orifices, each a "
+        "continually open wound oozing and exuding what is filthy, "
+        "stinking, and disgusting &mdash; a body produced by mother and "
+        "father, built up from food, liable to impermanence and "
+        "breaking up, of which mendicants are told to have no illusion."),
+    guide=[
+        ("The teaching in one sentence", [
+            "&lsquo;Boil&rsquo; is a term for this body, made up of the "
+            "four principal states, produced by mother and father, and "
+            "built up from food; like an old boil with nine continually "
+            "open, oozing orifices, it is filthy, stinking, and "
+            "disgusting, and mendicants should have no illusion about "
+            "it."]),
+        ("An image, then its application", [
+            "The discourse states its simile first in the abstract "
+            "&mdash; a many-years-old boil with nine open, oozing "
+            "orifices &mdash; then applies it directly: the body itself "
+            "is the boil, its nine orifices are its own natural "
+            "openings, and what oozes from them is, by the text's own "
+            "plain word, filthy, stinking, and disgusting."]),
+        ("Nine orifices, the body's own", [
+            "The number nine names the body's own natural openings "
+            "&mdash; the standard reckoning of two eyes, two ears, two "
+            "nostrils, the mouth, and the two lower openings &mdash; "
+            "reframed here not as neutral anatomy but as continually "
+            "open wounds, tying this discourse's number to the "
+            "collection it belongs to."]),
+        ("A blunt close, without softening", [
+            "The discourse draws no further conclusion and offers no "
+            "consoling turn: it simply names the body a boil and "
+            "instructs mendicants to have no illusion about it, trusting "
+            "the image itself to do the teaching's work without further "
+            "elaboration."]),
+    ],
+    terms=[
+        ("gaṇḍo",
+         "&ldquo;boil&rdquo; &mdash; the discourse's own title term and "
+         "central image for the body."),
+        ("navahi vaṇamukhehi",
+         "&ldquo;nine orifices that were continually open wounds&rdquo; "
+         "&mdash; the boil's nine openings, applied directly to the "
+         "body's own natural orifices."),
+        ("cātumahābhūtiko",
+         "&ldquo;made up of the four principal states&rdquo; &mdash; "
+         "the standard description of the body as earth, water, fire, "
+         "and air, given here as part of the boil's own definition."),
+        ("mātāpettikasambhavo",
+         "&ldquo;produced by mother and father&rdquo; &mdash; naming the "
+         "body's ordinary biological origin as part of its unglamorous "
+         "reality."),
+        ("mā ca imasmiṁ kāye apekkhaṁ akattha",
+         "&ldquo;have no illusion about this body&rdquo; &mdash; the "
+         "discourse's own closing instruction, its only explicit call to "
+         "action."),
+    ],
+    text_intro=(
+        "The discourse in full: a single simile, stated and then applied "
+        "directly to the body. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The image, and its application"),
+        ("p", "&sect;1", "an9.15:1.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use for the body?",
+         "opts": [
+             "A lotus rising above muddy water",
+             "An old boil with nine continually open, oozing orifices",
+             "A well-tuned lute",
+             "A raft for crossing a flood"],
+         "correct": 1,
+         "expl": "A single blunt image, stated and then applied."},
+        {"q": "What do the boil's nine orifices correspond to on the "
+              "body?",
+         "opts": [
+             "Nine wounds from illness",
+             "The body's own natural openings — eyes, ears, nostrils, "
+             "mouth, and the two lower openings",
+             "Nine meditation subjects",
+             "Nine monastic robes"],
+         "correct": 1,
+         "expl": "Ordinary anatomy, reframed as continually open wounds."},
+        {"q": "What three words describe what oozes from the boil's "
+              "orifices?",
+         "opts": [
+             "Sweet, fragrant, pleasant",
+             "Filthy, stinking, and disgusting",
+             "Clear, pure, refreshing",
+             "Warm, soft, gentle"],
+         "correct": 1,
+         "expl": "The discourse's own blunt, repeated description."},
+        {"q": "What instruction closes the discourse?",
+         "opts": [
+             "Wash the body frequently",
+             "Have no illusion about this body",
+             "Avoid all physical contact",
+             "Meditate only on beautiful objects"],
+         "correct": 1,
+         "expl": "A direct call to action, without further elaboration."},
+        {"q": "How does the guide describe this discourse's overall "
+              "approach?",
+         "opts": [
+             "Gentle and consoling",
+             "Blunt, offering no softening turn and trusting the image "
+             "itself to do the teaching's work",
+             "Highly technical and abstract",
+             "Framed entirely as a narrative"],
+         "correct": 1,
+         "expl": "One stark image, applied directly, with nothing added."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, the shortest form in this chapter."},
+    ],
+    marginalia=[
+        ("An old boil", [
+            "nine orifices,",
+            "continually open wounds &mdash;",
+            "filthy, oozing, foul",
+        ]),
+        ("The image applied", [
+            "&lsquo;boil&rsquo; is a term",
+            "for this very body &mdash;",
+            "no illusion about it",
+        ]),
+        ("Nine, tied to this book", [
+            "eyes, ears, nostrils,",
+            "mouth, the lower two &mdash;",
+            "nine, this chapter's own number",
+        ]),
+        ("Cross-references", [
+            "AN 9.14 &middot; previous, With Samiddhi",
+            "AN 9.16 &middot; next, Perceptions",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.15/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.14.html">AN 9.14 &middot; With Samiddhi</a> &mdash; previous.',
+        '<a href="an-9.16.html">AN 9.16 &middot; Perceptions</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.16 — Saññāsutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Saññā", "Perceptions",
+    vagga=VAGGA_2,
+    meta_title="AN 9.16 — Perceptions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Saññāsutta, naming nine perceptions — from ugliness and death to "
+        "fading away — whose culmination is freedom from death. This same "
+        "list closes the entire Book of the Nines at AN 9.93. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "A single bare list, no narrative and no similes"),
+        ("Length", "~30 seconds to read"),
+        ("A list that reappears at the end of the book", "This exact "
+         "nine-item list of perceptions is the same list that closes the "
+         "entire Book of the Nines, applied there to insight into greed "
+         "at AN 9.93 and following"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; brief, "
+                       "but worth remembering for later in this nipāta"),
+    ],
+    why=(
+        "Nine perceptions &mdash; of ugliness, death, the repulsiveness "
+        "of food, dissatisfaction with the whole world, impermanence, "
+        "suffering in impermanence, not-self in suffering, giving up, "
+        "and fading away &mdash; are named as very fruitful and "
+        "beneficial when developed and cultivated, with freedom from "
+        "death as their objective and culmination."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Nine perceptions &mdash; ugliness, death, the repulsiveness "
+            "of food, dissatisfaction with the whole world, impermanence, "
+            "suffering in impermanence, not-self in suffering, giving up, "
+            "and fading away &mdash; are very fruitful and beneficial "
+            "when developed and cultivated, with freedom from death as "
+            "their objective and culmination."]),
+        ("A bare list, stated once", [
+            "Unlike the narrative discourses surrounding it in this "
+            "chapter, this one offers no story and no simile &mdash; just "
+            "the nine perceptions named in sequence, framed at the start "
+            "and closed at the end by the same claim about their fruit "
+            "and their final aim."]),
+        ("A list already partly met, and one to be met again", [
+            "A subset of four of these same nine perceptions has already "
+            "appeared, transformed into active practices, in the four "
+            "further things at AN 9.1 and AN 9.3: the perception of "
+            "ugliness against greed, and the perception of impermanence "
+            "to uproot the conceit &lsquo;I am,&rsquo; among them."]),
+        ("The same nine, closing the entire book", [
+            "This exact sequence of nine perceptions reappears verbatim "
+            "far later in this nipāta, at AN 9.93, as one of the two "
+            "foundational lists the entire Rāgapeyyāla &mdash; the great "
+            "closing peyyāla that ends the Book of the Nines &mdash; is "
+            "built from. Encountering it here, named plainly and in "
+            "full, is worth remembering when it resurfaces there in "
+            "compressed form."]),
+    ],
+    terms=[
+        ("nava saññā",
+         "&ldquo;nine perceptions&rdquo; &mdash; the discourse's own "
+         "title list, later reused at AN 9.93 for insight into greed."),
+        ("asubhasaññā, maraṇasaññā",
+         "&ldquo;the perception of ugliness, the perception of "
+         "death&rdquo; &mdash; the first two of the nine, both already "
+         "familiar from the four further things at AN 9.1 and AN 9.3."),
+        ("āhāre paṭikūlasaññā",
+         "&ldquo;the perception of repulsiveness of food&rdquo; &mdash; "
+         "the third perception, not previously met in this chapter."),
+        ("sabbaloke anabhiratasaññā",
+         "&ldquo;the perception of dissatisfaction with the whole "
+         "world&rdquo; &mdash; the fourth perception, naming a "
+         "comprehensive disenchantment rather than a narrower object."),
+        ("amatogadhā amatapariyosānā",
+         "&ldquo;their objective and culmination is freedom from "
+         "death&rdquo; &mdash; the same closing formula that ended the "
+         "chain of questions at AN 9.14."),
+    ],
+    text_intro=(
+        "The discourse in full: nine perceptions named in sequence, "
+        "framed by a single claim about their fruit. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine perceptions"),
+        ("p", "&sect;1", "an9.16:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What nine perceptions does this discourse name?",
+         "opts": [
+             "The nine orifices of the body",
+             "Ugliness, death, repulsiveness of food, dissatisfaction "
+             "with the whole world, impermanence, suffering in "
+             "impermanence, not-self in suffering, giving up, and fading "
+             "away",
+             "The nine individuals found in the world",
+             "Nine kinds of wrong view"],
+         "correct": 1,
+         "expl": "A bare list, stated once at the discourse's start and "
+                 "restated to close it."},
+        {"q": "What is named as the objective and culmination of these "
+              "nine perceptions?",
+         "opts": [
+             "Wealth and long life",
+             "Freedom from death",
+             "Rebirth as a deity",
+             "Monastic ordination"],
+         "correct": 1,
+         "expl": "The same deathless objective named at the end of AN "
+                 "9.14's chain of questions."},
+        {"q": "According to the guide, where have four of these nine "
+              "perceptions already appeared in this chapter?",
+         "opts": [
+             "Nowhere else in this nipāta",
+             "As active practices in the four further things at AN 9.1 "
+             "and AN 9.3",
+             "Only in the closing colophon",
+             "In AN 9.11's ten similes"],
+         "correct": 1,
+         "expl": "Ugliness and impermanence among them, already met as "
+                 "targeted practices."},
+        {"q": "Where does this exact same nine-item list reappear later "
+              "in this nipāta?",
+         "opts": [
+             "It never reappears",
+             "At AN 9.93, as one of the two foundational lists building "
+             "the great closing peyyāla of the entire Book of the Nines",
+             "At AN 9.20, the chapter's last page",
+             "In every subsequent chapter"],
+         "correct": 1,
+         "expl": "Worth remembering when this list resurfaces in "
+                 "compressed form far later in the nipāta."},
+        {"q": "How is this discourse structured?",
+         "opts": [
+             "A long narrative with several characters",
+             "A single bare list, with no story or simile attached",
+             "A dialogue between two mendicants",
+             "A series of similes"],
+         "correct": 1,
+         "expl": "The shortest and plainest form a teaching can take in "
+                 "this collection."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like AN 9.15 immediately before it."},
+    ],
+    marginalia=[
+        ("Nine perceptions", [
+            "ugliness, death, food's",
+            "repulsiveness, the whole",
+            "world's dissatisfaction",
+        ]),
+        ("Impermanence, and beyond", [
+            "suffering, not-self,",
+            "giving up, fading away &mdash;",
+            "freedom from death, their aim",
+        ]),
+        ("A list to remember", [
+            "these same nine perceptions",
+            "close the entire book &mdash;",
+            "see AN 9.93",
+        ]),
+        ("Cross-references", [
+            "AN 9.1, AN 9.3 &middot; four of these nine, already met as "
+            "active practices",
+            "AN 9.15 &middot; previous, The Simile of the Boil",
+            "AN 9.17 &middot; next, Families",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.16/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.15.html">AN 9.15 &middot; The Simile of the Boil</a> &mdash; previous.',
+        '<a href="an-9.17.html">AN 9.17 &middot; Families</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.17 — Kulasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Kula", "Families",
+    vagga=VAGGA_2,
+    meta_title="AN 9.17 — Families | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kulasutta, naming nine factors that make a family not worth "
+        "visiting and nine mirror-image factors that make one worth "
+        "visiting. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two mirror-image nine-item lists, one negative and one "
+                 "positive"),
+        ("Length", "~1 minute to read"),
+        ("A near neighbor to AN 9.19", "A very similar-sounding list of "
+         "duties appears again at AN 9.19, spoken by deities rather than "
+         "the Buddha, and does not match this list item for item"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; two "
+                       "clean parallel lists, easy to follow"),
+    ],
+    why=(
+        "Nine factors make visiting a family, or sitting down once "
+        "arrived, not worthwhile &mdash; a cold welcome, hidden "
+        "possessions, stinginess, carelessness in giving, and "
+        "inattention to the teachings &mdash; and the same nine factors, "
+        "reversed, make it worthwhile: a warm welcome, openness, "
+        "generosity, care, and genuine attention."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A family that doesn't rise politely, hide what they have, "
+            "give little even when they have much, give coarse things "
+            "even when they have fine ones, give carelessly, or listen "
+            "to the teachings is not worth visiting; a family that does "
+            "the reverse in each respect is."]),
+        ("Nine factors, then their mirror image", [
+            "The discourse states the nine unworthy factors first, in a "
+            "compact list running from a cold reception through hidden "
+            "and grudging giving to inattention during teaching, then "
+            "restates every one in reverse to name the worthy family: "
+            "warm reception, openness, generosity proportionate to "
+            "means, and genuine attentiveness."]),
+        ("Practical hospitality and generosity, not doctrine", [
+            "Unlike much of this chapter, this discourse concerns "
+            "concrete social conduct &mdash; how a household receives a "
+            "visiting mendicant, whether it shares what it has, and "
+            "whether it actually listens when the teachings are spoken "
+            "&mdash; rather than meditative attainment or philosophical "
+            "argument."]),
+        ("A near neighbor worth distinguishing from AN 9.19", [
+            "AN 9.19, three discourses on, tells of deities recounting a "
+            "similar-sounding graduated list of duties toward visiting "
+            "renunciates &mdash; rising, bowing, offering a seat, sharing, "
+            "and engaging with the teaching. The two lists overlap in "
+            "their opening gestures but are not the same list; AN 9.19's "
+            "is a narrative of deities' own past failures and successes, "
+            "not this discourse's bare double list of family factors."]),
+    ],
+    terms=[
+        ("nāsanaṁ kulaṁ upasaṅkamituṁ",
+         "&ldquo;visiting a family... is not worthwhile&rdquo; &mdash; "
+         "the discourse's own framing for the first, negative list."),
+        ("na paṭisammodanti",
+         "&ldquo;they don't politely rise&rdquo; &mdash; the first of "
+         "the nine unworthy factors, an inhospitable reception."),
+        ("paṭicchannena denti",
+         "&ldquo;they give carelessly&rdquo; &mdash; naming grudging or "
+         "inattentive giving as distinct from simply giving little."),
+        ("sāsanaṁ upasaṅkamituṁ",
+         "&ldquo;visiting a family... is worthwhile&rdquo; &mdash; the "
+         "mirror-image framing for the second, positive list."),
+        ("bhāsamānaṁ sussūsanti",
+         "&ldquo;when you're speaking, they listen well&rdquo; &mdash; "
+         "the ninth and final factor, closing both lists on genuine "
+         "attentiveness."),
+    ],
+    text_intro=(
+        "The discourse in full: nine factors that make a family not "
+        "worth visiting, then the same nine reversed. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Nine factors: not worth visiting"),
+        ("p", "&sect;1", "an9.17:1.1-1.4"),
+        ("h3", "Nine factors, reversed: worth visiting"),
+        ("p", "&sect;2", "an9.17:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What kind of family does this discourse say is not worth "
+              "visiting?",
+         "opts": [
+             "A wealthy family only",
+             "One with a cold reception, hidden possessions, stinginess, "
+             "careless giving, and inattention to the teachings",
+             "Any family with children",
+             "A family that has never met a mendicant before"],
+         "correct": 1,
+         "expl": "Nine factors, all concerning hospitality, generosity, "
+                 "and attentiveness."},
+        {"q": "How is the second, positive list of nine factors "
+              "constructed?",
+         "opts": [
+             "As an entirely new and unrelated list",
+             "As the exact reverse of the first list, factor for factor",
+             "As a shorter summary of the first list",
+             "As a list of five factors, not nine"],
+         "correct": 1,
+         "expl": "A clean mirror image, negative to positive."},
+        {"q": "What kind of concerns does this discourse address, "
+              "compared to much of this chapter?",
+         "opts": [
+             "Advanced meditative attainments",
+             "Concrete social conduct — hospitality, generosity, and "
+             "attentiveness to teaching, not philosophical argument",
+             "Monastic disciplinary rules",
+             "Cosmology"],
+         "correct": 1,
+         "expl": "Practical household conduct toward visiting "
+                 "mendicants."},
+        {"q": "According to the guide, how does this discourse's list "
+              "relate to the list of duties at AN 9.19?",
+         "opts": [
+             "They are the identical list, word for word",
+             "They overlap in their opening gestures but are not the "
+             "same list — AN 9.19 is a narrative of deities' own past "
+             "conduct",
+             "AN 9.19 replaces this discourse's list entirely",
+             "There is no relationship between them"],
+         "correct": 1,
+         "expl": "Similar-sounding but distinct lists, worth "
+                 "distinguishing carefully."},
+        {"q": "What closes both the negative and positive lists?",
+         "opts": [
+             "Ethical conduct in general",
+             "Whether the family listens well when the teachings are "
+             "being spoken",
+             "Wealth or poverty",
+             "The number of children in the household"],
+         "correct": 1,
+         "expl": "Attentiveness to the teaching is the ninth and final "
+                 "factor in both lists."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Nine factors, unworthy", [
+            "no rising, no bowing,",
+            "hidden wealth, coarse gifts,",
+            "careless, and not listening",
+        ]),
+        ("The same nine, reversed", [
+            "warm welcome, openness,",
+            "generosity in kind,",
+            "and genuine attention",
+        ]),
+        ("A near neighbor, not a twin", [
+            "AN 9.19's deities",
+            "recount a similar list &mdash;",
+            "overlapping, not the same",
+        ]),
+        ("Cross-references", [
+            "AN 9.16 &middot; previous, Perceptions",
+            "AN 9.19 &middot; a similar-sounding but distinct list of "
+            "duties",
+            "AN 9.18 &middot; next, The Sabbath with Nine Factors",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.17/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.16.html">AN 9.16 &middot; Perceptions</a> &mdash; previous.',
+        '<a href="an-9.18.html">AN 9.18 &middot; The Sabbath with Nine Factors</a> '
+        "&mdash; next.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.18 — Navaṅgauposathasutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Navaṅgauposatha", "The Sabbath with Nine Factors",
+    vagga=VAGGA_2,
+    meta_title="AN 9.18 — The Sabbath with Nine Factors | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Navaṅgauposathasutta, describing the sabbath observance built "
+        "from the standard eight precepts plus a ninth factor: the "
+        "meditation on love. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Two factors given in full, the remaining six passed "
+                 "over by the source's own peyyāla, then the ninth "
+                 "factor given in full"),
+        ("Length", "~1 minute to read what survives; the full nine-"
+                   "factor observance is longer"),
+        ("A well-known observance, one factor added", "Eight of the nine "
+         "factors are the standard lay sabbath precepts found elsewhere "
+         "in the canon; the ninth, meditation on love, is this "
+         "discourse's own addition"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; brief "
+                       "as it survives, but the guide fills in what the "
+                       "source elides"),
+    ],
+    why=(
+        "The sabbath observed with nine factors is very fruitful, "
+        "beneficial, dazzling, and bountiful &mdash; a noble disciple "
+        "reflects on living as the perfected ones do for a single day "
+        "and night, beginning with giving up killing and, after passing "
+        "through seven further factors the source itself abbreviates, "
+        "ending with giving up luxurious beds and meditating on a heart "
+        "full of love spread to the whole world."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A noble disciple who observes the sabbath with nine factors "
+            "&mdash; the eight standard precepts of giving up killing, "
+            "stealing, unchastity, lying, intoxicants, eating at the "
+            "wrong time, entertainment and adornment, and luxurious "
+            "beds, plus a heart of love spread to the whole world "
+            "&mdash; produces something very fruitful, beneficial, "
+            "dazzling, and bountiful."]),
+        ("Eight familiar precepts, only two written out here", [
+            "The source itself writes out only the first factor "
+            "(renouncing killing) and the eighth (renouncing luxurious "
+            "beds) in full, passing over the second through seventh with "
+            "its own internal peyyāla. These middle six are the "
+            "remaining standard lay sabbath precepts found in fuller form "
+            "elsewhere in the canon: giving up stealing, unchastity, "
+            "lying, intoxicants, eating after midday, and entertainment, "
+            "garlands, and adornments."]),
+        ("A ninth factor beyond the usual eight", [
+            "What makes this observance &ldquo;the sabbath with nine "
+            "factors&rdquo; rather than the more familiar eight-factor "
+            "sabbath found elsewhere is this discourse's own addition: a "
+            "ninth factor of meditation, spreading a heart full of love "
+            "in all directions, to the whole world, abundant, expansive, "
+            "limitless, free of enmity and ill will."]),
+        ("Each factor modeled on the perfected ones", [
+            "Every factor follows the same three-part pattern: first "
+            "naming what the perfected ones do for as long as they "
+            "live, then committing to do the same for this one day and "
+            "night, then naming this as observing the sabbath &lsquo;by "
+            "doing as the perfected ones do.&rsquo; The lay observance is "
+            "framed throughout as temporary imitation of a permanent "
+            "monastic standard."]),
+    ],
+    terms=[
+        ("navaṅgena uposathena",
+         "&ldquo;the sabbath with its nine factors&rdquo; &mdash; the "
+         "discourse's own title phrase, distinguishing this observance "
+         "from the more familiar eight-factor sabbath."),
+        ("daṇḍaṁ nikkhipitvā satthaṁ nikkhipitvā",
+         "&ldquo;renouncing the rod and the sword&rdquo; &mdash; part of "
+         "the first factor, giving up killing living creatures."),
+        ("uccāsayanamahāsayanaṁ",
+         "&ldquo;high and luxurious beds&rdquo; &mdash; what the eighth "
+         "factor gives up, sleeping instead on a cot or straw mat."),
+        ("arahataṁ anukaromāno",
+         "&ldquo;doing as the perfected ones do&rdquo; &mdash; the "
+         "shared closing phrase for each factor, framing lay observance "
+         "as imitation of monastic standards."),
+        ("mettāsahagatena cetasā",
+         "&ldquo;a heart full of love&rdquo; &mdash; the ninth and final "
+         "factor, this discourse's own addition beyond the standard "
+         "eight precepts."),
+    ],
+    text_intro=(
+        "The discourse in full, as it survives in the source: the first "
+        "and eighth factors given in full, the second through seventh "
+        "passed over by the source's own internal peyyāla, and the ninth "
+        "given in full. The guide names the six elided factors from the "
+        "standard sabbath precepts found elsewhere in the canon. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The first factor, in full"),
+        ("p", "&sect;1", "an9.18:1.1-1.7"),
+        ("h3", "The eighth factor (the source elides the second through "
+               "seventh)"),
+        ("p", "&sect;2", "an9.18:2.1-2.4"),
+        ("h3", "The ninth factor: a heart of love"),
+        ("p", "&sect;3", "an9.18:3.1-4.1"),
+    ],
+    quiz=[
+        {"q": "How many of this observance's nine factors does the "
+              "source write out in full, and which?",
+         "opts": [
+             "All nine, in full detail",
+             "Only the first (giving up killing) and the eighth (giving "
+             "up luxurious beds), with the second through seventh passed "
+             "over by the source's own peyyāla",
+             "Only the ninth factor",
+             "None; the whole discourse is abbreviated"],
+         "correct": 1,
+         "expl": "The guide names the six elided middle factors from the "
+                 "standard sabbath precepts found elsewhere."},
+        {"q": "What are the six middle factors this discourse's source "
+              "elides, according to the standard sabbath precepts?",
+         "opts": [
+             "Six more kinds of meditation",
+             "Giving up stealing, unchastity, lying, intoxicants, eating "
+             "after midday, and entertainment, garlands, and adornments",
+             "Six monastic robes",
+             "Six kinds of wrong view"],
+         "correct": 1,
+         "expl": "The remaining standard eight-precept sabbath factors, "
+                 "found in fuller form elsewhere in the canon."},
+        {"q": "What makes this &ldquo;the sabbath with nine factors&rdquo; "
+              "rather than the more familiar eight-factor sabbath?",
+         "opts": [
+             "It has one fewer precept than usual",
+             "A ninth factor: meditating on a heart full of love spread "
+             "to the whole world",
+             "It is observed twice as often",
+             "It replaces all eight precepts with new ones"],
+         "correct": 1,
+         "expl": "This discourse's own addition beyond the standard "
+                 "eight precepts."},
+        {"q": "What three-part pattern does each factor follow?",
+         "opts": [
+             "A question, an answer, and a simile",
+             "Naming what the perfected ones do for life, committing to "
+             "the same for one day and night, and naming this as "
+             "imitating the perfected ones",
+             "A narrative, a teaching, and a verse",
+             "A list, a warning, and a blessing"],
+         "correct": 1,
+         "expl": "Lay observance framed throughout as temporary "
+                 "imitation of a permanent monastic standard."},
+        {"q": "How is the result of this nine-factor observance "
+              "described?",
+         "opts": [
+             "Modest but sufficient",
+             "Very fruitful, beneficial, dazzling, and bountiful",
+             "Uncertain and variable",
+             "Only beneficial for monastics"],
+         "correct": 1,
+         "expl": "The discourse's own strong opening and closing claim."},
+        {"q": "Is a setting given for this discourse?",
+         "opts": [
+             "Yes, at Sāvatthī", "Yes, at Rājagaha",
+             "No setting is stated in the source", "Yes, at Vesālī"],
+         "correct": 2,
+         "expl": "A bare formula, like several other discourses in this "
+                 "chapter."},
+    ],
+    marginalia=[
+        ("Eight precepts, one day", [
+            "no killing, stealing,",
+            "unchastity, lying, drink,",
+            "wrong times, shows, soft beds",
+        ]),
+        ("A ninth factor added", [
+            "a heart full of love",
+            "spread to every direction &mdash;",
+            "beyond the usual eight",
+        ]),
+        ("Imitating the perfected", [
+            "&ldquo;as they do for life,",
+            "so I for a day and night&rdquo; &mdash;",
+            "temporary, deliberate",
+        ]),
+        ("Cross-references", [
+            "AN 9.17 &middot; previous, Families",
+            "AN 9.19 &middot; next, A Deity",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.18/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.17.html">AN 9.17 &middot; Families</a> &mdash; previous.',
+        '<a href="an-9.19.html">AN 9.19 &middot; A Deity</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 9.19 — Devatāsutta — closes ch.2 Sīhanādavagga into AN 9.20, published
+# earlier in this project's eighteen-page selection. Per the
+# an-6.16/an-6.63/an-7.6/an-8.30/an-8.53 precedent, this page's next=
+# splices straight into that existing page.
+# --------------------------------------------------------------------------- #
+page(
+    19, "Devatā", "A Deity",
+    vagga=VAGGA_2,
+    next=("an-9.20.html", "AN 9.20 &middot; About Velāma"),
+    meta_title="AN 9.19 — A Deity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Devatāsutta, in which glorious deities recount to the Buddha, in "
+        "graduated stages, their own past failures and eventual success "
+        "in fulfilling their duty toward visiting renunciates. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Jeta&rsquo;s Grove, at night, visited by several "
+                    "glorious deities lighting up the entire grove"),
+        ("Speakers", "Several groups of deities, reporting to the Buddha "
+                     "in turn"),
+        ("Form", "Four successive reports from different groups of "
+                 "deities, each stopping one step further along the same "
+                 "graduated list of duties"),
+        ("Length", "~3 minutes to read"),
+        ("A near neighbor to AN 9.17, not its twin", "This discourse's "
+         "graduated duties toward visiting renunciates overlap with AN "
+         "9.17's family factors in their opening gestures, but form a "
+         "different, more elaborate list"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "vivid nighttime visitation, worth reading for how "
+                       "the stages build"),
+    ],
+    why=(
+        "In the night, several groups of glorious deities visit the "
+        "Buddha in turn, each recounting how, as humans, they fell short "
+        "of their duty toward visiting renunciates by one further step "
+        "&mdash; rising but not bowing, bowing but not offering a seat, "
+        "offering a seat but not truly engaging with the teaching "
+        "&mdash; and were reborn in a lesser realm, until a final group "
+        "reports fulfilling every step and being reborn in a superior "
+        "realm."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Deities who, as humans, fell short of fully receiving "
+            "visiting renunciates &mdash; failing to rise, to bow, to "
+            "offer a seat, to share, to listen to and engage with the "
+            "teaching &mdash; report being reborn in a lesser realm out "
+            "of remorse, while those who fulfilled every step of the "
+            "duty were reborn in a superior one."]),
+        ("Four reports, each one step further", [
+            "The discourse structures its teaching through four "
+            "successive groups of deities, not through a single "
+            "abstract list: the first group failed at the very first "
+            "gesture (rising but not bowing), the second failed one step "
+            "later (bowing but not offering a seat), the third failed "
+            "much further along (going through the physical courtesies "
+            "but never truly engaging with the teaching itself), and the "
+            "fourth succeeded at every step."]),
+        ("From physical courtesy to genuine engagement", [
+            "The full graduated sequence moves from bodily politeness "
+            "&mdash; rising, bowing, offering a seat, sharing &mdash; "
+            "into an entirely different register: sitting nearby to "
+            "listen, actively listening, memorizing the teachings, "
+            "examining their meaning, and finally practicing in line "
+            "with what has been understood. Politeness alone, the "
+            "discourse implies, is only the beginning."]),
+        ("Overlapping with, but distinct from, AN 9.17", [
+            "This graduated list of duties shares its opening gestures "
+            "&mdash; rising, bowing, offering a seat &mdash; with AN "
+            "9.17's nine factors for a family worth visiting, but is a "
+            "longer and differently structured sequence, told here as "
+            "deities' own testimony about their past lives rather than "
+            "as a bare double list. The Buddha's closing exhortation "
+            "&mdash; practice absorption, don't be negligent, don't "
+            "regret it later like these deities &mdash; has no "
+            "counterpart in AN 9.17 at all."]),
+    ],
+    terms=[
+        ("obhāsayamānā kevalakappaṁ jetavanaṁ",
+         "&ldquo;lighting up the entire Jeta's Grove&rdquo; &mdash; how "
+         "the deities' arrival at night is described, marking their "
+         "glorious status."),
+        ("akatvā vata bho karaṇīyaṁ vippaṭisārino",
+         "&ldquo;having not fulfilled our duty, full of remorse and "
+         "regret&rdquo; &mdash; the shared refrain closing each group's "
+         "report of falling short."),
+        ("upanisīditvā dhammassavanāya",
+         "&ldquo;sat nearby to listen to the teachings&rdquo; &mdash; "
+         "the step at which the third group of deities fell short, "
+         "having managed the physical courtesies but no further."),
+        ("atthamaññāya dhammamaññāya dhammānudhammaṁ paṭipannā",
+         "&ldquo;understanding the teaching and the meaning we practiced "
+         "in line with the teaching&rdquo; &mdash; the final and highest "
+         "step, achieved only by the fourth group."),
+        ("rukkhamūlāni, suññāgārāni",
+         "&ldquo;roots of trees... empty huts&rdquo; &mdash; the "
+         "Buddha's own closing exhortation to the mendicants, pointing "
+         "to available places for absorption after the deities' account."),
+    ],
+    text_intro=(
+        "The discourse in full: four successive reports from groups of "
+        "deities, each stopping one step further along the same "
+        "graduated list of duties. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "The first group: rose, but did not bow"),
+        ("p", "&sect;1", "an9.19:1.1-1.4"),
+        ("h3", "The second group: bowed, but did not offer a seat"),
+        ("p", "&sect;2", "an9.19:2.1-2.4"),
+        ("h3", "The third group: courteous, but did not engage with the "
+               "teaching"),
+        ("p", "&sect;3", "an9.19:3.1-3.9"),
+        ("h3", "The fourth group: fulfilled every step"),
+        ("p", "&sect;4", "an9.19:4.1-4.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse present its teaching about "
+              "receiving visiting renunciates?",
+         "opts": [
+             "As a single bare list, with no narrative",
+             "Through four successive groups of deities, each reporting "
+             "how they fell short one step further along than the last",
+             "As a debate between two deities",
+             "As a monastic rule recited in full"],
+         "correct": 1,
+         "expl": "A graduated narrative, not an abstract list."},
+        {"q": "At what step did the first group of deities fall short?",
+         "opts": [
+             "They never visited renunciates at all",
+             "They politely rose but did not bow",
+             "They offered a seat but did not share generously",
+             "They listened but did not memorize the teachings"],
+         "correct": 1,
+         "expl": "The earliest possible failure, one gesture into the "
+                 "sequence."},
+        {"q": "What did the fourth group of deities do differently from "
+              "the first three?",
+         "opts": [
+             "Nothing; all four groups received the same rebirth",
+             "They fulfilled every step, from rising and bowing through "
+             "practicing in line with the teaching, and were reborn in "
+             "a superior realm",
+             "They refused to visit renunciates at all",
+             "They only bowed, nothing more"],
+         "correct": 1,
+         "expl": "Completing the full graduated sequence, unlike the "
+                 "first three groups."},
+        {"q": "According to the guide, what does the sequence's shift "
+              "from physical courtesy to genuine engagement suggest?",
+         "opts": [
+             "That politeness alone is sufficient",
+             "That physical courtesy is only the beginning; genuine "
+             "engagement with the teaching itself is a further and "
+             "higher step",
+             "That listening to teachings is optional",
+             "That the physical gestures don't matter at all"],
+         "correct": 1,
+         "expl": "The sequence moves from bodily politeness into "
+                 "listening, memorizing, examining, and practicing."},
+        {"q": "How does this discourse's list compare to AN 9.17's nine "
+              "family factors?",
+         "opts": [
+             "They are word-for-word identical",
+             "They overlap in their opening gestures but form a longer, "
+             "differently structured sequence, told as deities' own "
+             "testimony rather than a bare double list",
+             "They have nothing in common",
+             "AN 9.17 supersedes this discourse entirely"],
+         "correct": 1,
+         "expl": "A near neighbor, not a twin, as the guide notes."},
+        {"q": "How does the Buddha close this discourse?",
+         "opts": [
+             "With a question for the mendicants",
+             "With an exhortation to practice absorption, not be "
+             "negligent, and not regret it later like these deities",
+             "By dismissing the deities' account as unreliable",
+             "By promising the mendicants a heavenly rebirth"],
+         "correct": 1,
+         "expl": "A direct call to action, unique to this discourse "
+                 "among the two near-neighbor lists."},
+    ],
+    marginalia=[
+        ("Four groups, one sequence", [
+            "rose but did not bow;",
+            "bowed but no seat offered;",
+            "courteous, but no more",
+        ]),
+        ("From courtesy to engagement", [
+            "listen, memorize,",
+            "examine the meaning &mdash;",
+            "practice what is understood",
+        ]),
+        ("Remorse, and its opposite", [
+            "&ldquo;full of remorse, reborn",
+            "in a lesser realm&rdquo; &mdash; or,",
+            "fulfilled, a superior one",
+        ]),
+        ("Cross-references", [
+            "AN 9.17 &middot; a similar-sounding but distinct list of "
+            "duties",
+            "AN 9.18 &middot; previous, The Sabbath with Nine Factors",
+            "AN 9.20 &middot; next, About Velāma, closing this chapter",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an9.19/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-9.17.html">AN 9.17 &middot; Families</a> &mdash; a similar-sounding but '
+        "distinct list of duties.",
+        '<a href="an-9.18.html">AN 9.18 &middot; The Sabbath with Nine Factors</a> '
+        "&mdash; previous.",
+        '<a href="an-9.20.html">AN 9.20 &middot; About Velāma</a> &mdash; next, closing '
+        "this chapter.",
+    ],
+)
