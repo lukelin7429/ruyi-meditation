@@ -4,17 +4,17 @@
 SC = "https://suttacentral.net"
 
 INDEX_HEADING = "Ekādasaka Nipāta — The Elevens"
-# HEAD points at the last page the Tens module reached. TAIL points at the
-# nearest already-published page beyond the current build -- an-11.15.html,
-# the sole survivor of the earlier eighteen-page selection, until this
-# module's own PAGES reaches and splices past it, per the an-10.60/
-# an-10.176 precedent. an-11.15 sits inside chapter 2 (Anussativagga,
-# 11.11-21), between 11.14 and 11.16; once chapter 2 is built it is spliced
-# in with explicit prev=/next= kwargs and this TAIL constant stops being
-# needed for that purpose, moving on to whatever real page follows it.
+# HEAD points at the last page the Tens module reached. an-11.15.html, the
+# sole survivor of the earlier eighteen-page selection, sat inside chapter 2
+# (Anussativagga, 11.11-21) between 11.14 and 11.16; it is now spliced in
+# with explicit prev=/next= kwargs on those two pages, per the an-10.60/
+# an-10.176 precedent, and an-11.15.html's own prev/next were hand-edited to
+# match. TAIL is the default collection link since no already-published page
+# exists beyond this module's own PAGES until chapter 3 is built. (an_index.py
+# accesses mod.TAIL directly with no getattr default, so it must stay defined.)
 HEAD = ("an-10.267-746.html",
         "AN 10.267&ndash;746 &middot; Hate, Etc., Closing the Book of the Tens")
-TAIL = ("an-11.15.html", "AN 11.15 &middot; The Benefits of Love")
+TAIL = ("./", "Aṅguttara Nikāya selections")
 INDEX_EXTRA = [
     ("an-11.15", "Mettānisaṁsa", "The Benefits of Love"),
 ]
@@ -26,8 +26,12 @@ SETTING_SAVATTHI = "Sāvatthī, in Jeta&rsquo;s Grove, Anāthapiṇḍika&rsquo;
 SETTING_NATIKA = "Ñātika, in the brick house"
 SETTING_RAJAGAHA = ("Rājagaha, at the monastery of the wanderers in the "
                     "peacocks&rsquo; feeding ground")
+SETTING_KAPILAVATTHU = ("The land of the Sakyans, near Kapilavatthu, in "
+                        "the Banyan Tree Monastery")
+SETTING_BELUVA = "Vesālī, in the little village of Beluva"
 SETTING_NONE = "None stated in the source"
 SPEAKER = "The Buddha alone, addressing the mendicants"
+VAGGA_2 = "<em>Anussativagga</em> &mdash; the second chapter of the Elevens"
 
 
 def page(num, pali, title, **kw):
@@ -1996,5 +2000,1956 @@ page(
         "segment by segment." % SC,
         '<a href="an-11.9.html">AN 11.9</a> &mdash; previous.',
         '<a href="an-11.11.html">AN 11.11</a> &mdash; next, opening chapter 2.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.11 — Paṭhamamahānāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, "Paṭhamamahānāma", "With Mahānāma (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.11 — With Mahānāma (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamamahānāmasutta, opening chapter 2 with Mahānāma's "
+        "question and the Buddha's answer: five groundings, then six "
+        "recollections. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_KAPILAVATTHU),
+        ("Speakers", "Mahānāma the Sakyan questioning the Buddha"),
+        ("Form", "Five qualities as a base, then six recollections "
+                 "given in full, culminating in immersion"),
+        ("Length", "~3 minutes to read"),
+        ("Chapter's namesake", "This discourse gives its own subject, "
+                               "recollection (anussati), to the "
+                               "chapter it opens, Anussativagga"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a foundational teaching on the six "
+                       "recollections"),
+    ],
+    why=(
+        "Mahānāma asks the Buddha which of the many ways of living he "
+        "should practice, and the Buddha answers: grounded on faith, "
+        "energy, mindfulness, immersion, and wisdom, a noble disciple "
+        "should develop six further things &mdash; recollection of "
+        "the Buddha, the teaching, the Saṅgha, one's own ethical "
+        "conduct, one's own generosity, and the deities &mdash; each "
+        "one calming the mind and, in two of the six, leading all the "
+        "way to rapture, tranquility, bliss, and immersion."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Grounded on five qualities &mdash; faith, energy, "
+            "mindfulness, immersion, and wisdom &mdash; a noble "
+            "disciple develops six recollections: of the Buddha, the "
+            "teaching, the Saṅgha, their own ethical conduct, their "
+            "own generosity, and the deities, each clearing the mind "
+            "of greed, hate, and delusion."]),
+        ("A new chapter's own namesake", [
+            "As with every chapter before it, this discourse lends its "
+            "own subject to the chapter's name: <em>anussati</em>, "
+            "recollection, naming Anussativagga. The occasion is "
+            "concrete and specific &mdash; mendicants sewing a robe "
+            "for the Buddha ahead of his departure prompts Mahānāma "
+            "to ask how a busy lay life should be practiced."]),
+        ("Two recollections given in full", [
+            "Of the six recollections, only the first (the Buddha) and "
+            "the last (the deities) are given in full in this "
+            "discourse's source text, each culminating in the same "
+            "chain already familiar from this project's opening "
+            "chapter: an unswerving mind, inspiration, joy, rapture, "
+            "tranquility, bliss, and immersion. The middle four "
+            "&mdash; teaching, Saṅgha, ethical conduct, generosity "
+            "&mdash; are abbreviated with an ellipsis, following the "
+            "same underlying pattern."]),
+        ("Recollecting the deities, not as worship", [
+            "The recollection of deities is not devotional but "
+            "diagnostic: a disciple recalls that the deities were "
+            "reborn there through faith, ethics, learning, "
+            "generosity, and wisdom, then reflects &lsquo;I, too, have "
+            "the same kind of faith, ethics, learning, generosity, "
+            "and wisdom&rsquo; &mdash; the deities serve as a mirror "
+            "confirming one's own qualities, not an external power "
+            "appealed to."]),
+    ],
+    terms=[
+        ("anussati",
+         "&ldquo;recollection&rdquo; &mdash; this discourse's own "
+         "contribution, naming the chapter it opens."),
+        ("saddhā viriya sati samādhi paññā",
+         "&ldquo;faith, energy, mindfulness, immersion, wisdom&rdquo; "
+         "&mdash; the five qualities grounding the six recollections "
+         "that follow."),
+        ("buddhānussati",
+         "&ldquo;recollection of the Buddha&rdquo; &mdash; the first "
+         "recollection, given in full, using the standard nine-part "
+         "formula of the Buddha's qualities."),
+        ("na rāgapariyuṭṭhitena cetasā viharati",
+         "&ldquo;their mind is not full of greed, hate, and "
+         "delusion&rdquo; &mdash; the shared refrain closing each of "
+         "the six recollections."),
+        ("devatānussati",
+         "&ldquo;recollection of the deities&rdquo; &mdash; the sixth "
+         "and final recollection, used diagnostically to confirm "
+         "one's own faith, ethics, learning, generosity, and wisdom."),
+    ],
+    text_intro=(
+        "The discourse in full: Mahānāma's question, then five "
+        "groundings and six recollections. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mahānāma's question"),
+        ("p", "&sect;1", "an11.11:1.1-2.5"),
+        ("h3", "Five groundings, six recollections"),
+        ("p", "&sect;2", "an11.11:3.1-8.12"),
+    ],
+    quiz=[
+        {"q": "What prompts Mahānāma to ask his question?",
+         "opts": [
+             "A dream he had",
+             "Hearing that mendicants are sewing a robe for the "
+             "Buddha ahead of his departure",
+             "A dispute among the Sakyans",
+             "An illness in his family"],
+         "correct": 1,
+         "expl": "A concrete, specific occasion opening the discourse."},
+        {"q": "What five qualities ground the six recollections?",
+         "opts": [
+             "Ethics, immersion, wisdom, generosity, faith",
+             "Faith, energy, mindfulness, immersion, and wisdom",
+             "The four absorptions and equanimity",
+             "The six sense faculties"],
+         "correct": 1,
+         "expl": "The base on which the six recollections are "
+                 "developed."},
+        {"q": "Which two recollections are given in full in this "
+              "discourse's source text?",
+         "opts": [
+             "Teaching and Saṅgha",
+             "The Buddha (first) and the deities (last)",
+             "Ethical conduct and generosity",
+             "All six are given in full"],
+         "correct": 1,
+         "expl": "The middle four are abbreviated with an ellipsis."},
+        {"q": "According to the guide, how does recollection of the "
+              "deities function?",
+         "opts": [
+             "As an act of worship toward the deities",
+             "Diagnostically, as a mirror confirming one's own faith, "
+             "ethics, learning, generosity, and wisdom",
+             "As a request for the deities' favor",
+             "It plays no role in this discourse"],
+         "correct": 1,
+         "expl": "Not devotional appeal, but confirmation of qualities "
+                 "already present."},
+        {"q": "What does this discourse lend to its chapter's name?",
+         "opts": [
+             "Nothing in particular",
+             "Its own subject, recollection (anussati), naming "
+             "Anussativagga",
+             "A place name",
+             "A disciple's name"],
+         "correct": 1,
+         "expl": "As with every chapter's opener in this project."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "The land of the Sakyans, near Kapilavatthu, in the "
+             "Banyan Tree Monastery",
+             "Rājagaha, on Vulture's Peak",
+             "No setting is stated"],
+         "correct": 1,
+         "expl": "Mahānāma's own home region, where he approaches the "
+                 "Buddha directly."},
+    ],
+    marginalia=[
+        ("Five, then six", [
+            "faith, energy, mindful,",
+            "immersed, wise &mdash; on this base,",
+            "six recollections",
+        ]),
+        ("A mirror in the deities", [
+            "they rose by virtue &mdash;",
+            "I hold the same virtues too,",
+            "not worship, but check",
+        ]),
+        ("A robe being sewn", [
+            "mendicants at work,",
+            "the Buddha soon to leave &mdash;",
+            "prompting the question",
+        ]),
+        ("Cross-references", [
+            "AN 11.10 &middot; previous, closing chapter 1",
+            "AN 11.12 &middot; next, the same teaching for every "
+            "posture and occasion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.11/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.10.html">AN 11.10</a> &mdash; previous.',
+        '<a href="an-11.12.html">AN 11.12 &middot; With Mahānāma (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.12 — Dutiyamahānāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, "Dutiyamahānāma", "With Mahānāma (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.12 — With Mahānāma (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyamahānāmasutta, restating AN 11.11's teaching with "
+        "one addition: the six recollections belong in every posture "
+        "and occasion of daily life. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_KAPILAVATTHU),
+        ("Speakers", "Mahānāma the Sakyan questioning the Buddha, "
+                     "recently recovered from illness"),
+        ("Form", "The same five groundings and six recollections as "
+                 "AN 11.11, with one closing addition"),
+        ("Length", "~2 minutes to read"),
+        ("What's added", "Each recollection should be developed "
+         "\"while walking, standing, sitting, lying down, while "
+         "working, and while at home with your children\""),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the same content as AN 11.11, with a practical "
+                       "extension"),
+    ],
+    why=(
+        "Mahānāma, having recently recovered from an illness, asks "
+        "the Buddha the same question as before, and receives the "
+        "same answer &mdash; five groundings, six recollections "
+        "&mdash; with one addition: each recollection should be "
+        "developed not only in seated meditation but while walking, "
+        "standing, sitting, lying down, working, and at home with "
+        "one's children."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same five groundings and six recollections taught at "
+            "AN 11.11, now with an explicit instruction that each "
+            "recollection should be developed in every posture and "
+            "occasion of daily life, not reserved for formal "
+            "meditation alone."]),
+        ("A recovering man's question", [
+            "The occasion this time is personal: Mahānāma has "
+            "recently recovered from an illness when he hears the "
+            "same news of the Buddha's coming departure and asks the "
+            "same question &mdash; a small but telling detail absent "
+            "from AN 11.11, suggesting a mind newly alert to how life "
+            "should be practiced after a brush with mortality."]),
+        ("Life as the container for recollection", [
+            "The discourse's real addition is its closing phrase, "
+            "repeated for each of the six recollections: develop this "
+            "&lsquo;while walking, standing, sitting, lying down, "
+            "while working, and while at home with your "
+            "children&rsquo; &mdash; explicitly extending the practice "
+            "beyond seated retreat into a layperson's full domestic "
+            "and working life."]),
+        ("A teaching addressed to a householder", [
+            "Unlike many discourses in this project addressed to "
+            "mendicants, both Mahānāma discourses speak directly to a "
+            "lay follower with a household and children, and this "
+            "discourse in particular makes that audience explicit in "
+            "its own closing formula, treating recollection as "
+            "compatible with, not opposed to, an active family life."]),
+    ],
+    terms=[
+        ("gilānā vuṭṭhito",
+         "&ldquo;recently recovered from an illness&rdquo; &mdash; "
+         "the detail distinguishing this discourse's occasion from AN "
+         "11.11's."),
+        ("caraṁ, tiṭṭhaṁ, nisinno, sayāno, kammante payutto, "
+         "putthasaṁvāse",
+         "&ldquo;walking, standing, sitting, lying down, at work, at "
+         "home with your children&rdquo; &mdash; the six occasions "
+         "this discourse adds to each recollection's development."),
+        ("buddhānussati",
+         "&ldquo;recollection of the Buddha&rdquo; &mdash; identical "
+         "in content to AN 11.11, but now closing with the six-fold "
+         "occasion formula rather than the immersion chain alone."),
+        ("devatānussati",
+         "&ldquo;recollection of the deities&rdquo; &mdash; the sixth "
+         "and final recollection, also closing with the same "
+         "occasion formula."),
+        ("gahaṭṭha",
+         "&ldquo;householder&rdquo; &mdash; the implicit audience "
+         "this discourse's closing formula addresses directly, unlike "
+         "discourses aimed solely at renunciant mendicants."),
+    ],
+    text_intro=(
+        "The discourse in full: Mahānāma's question, recently "
+        "recovered from illness, and the same six recollections for "
+        "every posture. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Mahānāma's question, having recovered from illness"),
+        ("p", "&sect;1", "an11.12:1.1-2.8"),
+        ("h3", "Five groundings, six recollections, for every "
+               "occasion"),
+        ("p", "&sect;2", "an11.12:3.1-5.16"),
+    ],
+    quiz=[
+        {"q": "What personal detail distinguishes this discourse's "
+              "occasion from AN 11.11's?",
+         "opts": [
+             "Mahānāma has just been ordained",
+             "Mahānāma has recently recovered from an illness",
+             "Mahānāma is about to travel abroad",
+             "Mahānāma has just married"],
+         "correct": 1,
+         "expl": "A detail absent from AN 11.11's otherwise identical "
+                 "occasion."},
+        {"q": "What does this discourse add to each of the six "
+              "recollections?",
+         "opts": [
+             "A new seventh recollection",
+             "An instruction to develop it while walking, standing, "
+             "sitting, lying down, working, and at home with your "
+             "children",
+             "A prohibition on developing it while working",
+             "Nothing; the content is identical to AN 11.11"],
+         "correct": 1,
+         "expl": "Extending practice beyond seated meditation into "
+                 "daily and domestic life."},
+        {"q": "According to the guide, what does the closing formula "
+              "suggest about the discourse's audience?",
+         "opts": [
+             "It is addressed only to forest-dwelling mendicants",
+             "It explicitly addresses a householder with a family and "
+             "work",
+             "It excludes laypeople entirely",
+             "It has no bearing on the audience"],
+         "correct": 1,
+         "expl": "Treating recollection as compatible with an active "
+                 "family life."},
+        {"q": "How many groundings and recollections does this "
+              "discourse teach, in total?",
+         "opts": [
+             "Five groundings and six recollections, eleven in all",
+             "Only six recollections, no groundings",
+             "Eleven groundings, no recollections",
+             "Three groundings and eight recollections"],
+         "correct": 0,
+         "expl": "Identical structure to AN 11.11."},
+        {"q": "What triggers Mahānāma's question in both this "
+              "discourse and AN 11.11?",
+         "opts": [
+             "A famine in the region",
+             "Hearing that mendicants are sewing a robe for the "
+             "Buddha ahead of his departure",
+             "A royal decree",
+             "A dispute among the Sakyans"],
+         "correct": 1,
+         "expl": "The same triggering news in both discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "The land of the Sakyans, near Kapilavatthu, in the "
+             "Banyan Tree Monastery",
+             "Rājagaha, on Vulture's Peak",
+             "No setting is stated"],
+         "correct": 1,
+         "expl": "The same setting as AN 11.11."},
+    ],
+    marginalia=[
+        ("Recovered, and asking again", [
+            "an illness passed, then",
+            "the same question returns &mdash;",
+            "life freshly noticed",
+        ]),
+        ("Every posture, every hour", [
+            "walking, standing, sat,",
+            "lying down, at work, with your",
+            "children &mdash; all of it",
+        ]),
+        ("Recollection for householders", [
+            "not for retreat alone &mdash;",
+            "the whole busy life becomes",
+            "the practice itself",
+        ]),
+        ("Cross-references", [
+            "AN 11.11 &middot; previous, the same teaching's first "
+            "telling",
+            "AN 11.13 &middot; next, Nandiya's own six groundings and "
+            "five inner mindfulnesses",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.12/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.11.html">AN 11.11</a> &mdash; previous.',
+        '<a href="an-11.13.html">AN 11.13 &middot; With Nandiya</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.13 — Nandiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    13, "Nandiya", "With Nandiya",
+    vagga=VAGGA_2,
+    meta_title="AN 11.13 — With Nandiya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nandiyasutta, in which Nandiya the Sakyan follows the "
+        "Buddha to Sāvatthī and receives six groundings and five "
+        "inner mindfulnesses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "The land of the Sakyans, then Sāvatthī, where "
+                    "both the Buddha and Nandiya spend the rains "
+                    "residence"),
+        ("Speakers", "Nandiya the Sakyan questioning the Buddha"),
+        ("Form", "Six groundings (adding ethics to AN 11.11's five), "
+                 "then five inwardly established mindfulnesses"),
+        ("Length", "~3 minutes to read"),
+        ("A different eleven", "Six plus five here, not five plus "
+         "six, with a different recollection list and a closing "
+         "simile"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuine structural variant worth comparing "
+                       "closely with AN 11.11&ndash;12"),
+    ],
+    why=(
+        "Nandiya follows the Buddha to Sāvatthī for the rains "
+        "residence so he can see him from time to time while "
+        "attending to his own work, and when he hears the Buddha may "
+        "soon depart again, he asks the same question Mahānāma asked: "
+        "grounded on faith, ethics, energy, mindfulness, immersion, "
+        "and wisdom, a noble disciple should establish mindfulness "
+        "internally on five further things &mdash; the Buddha, the "
+        "teaching, good friends, generosity, and the deities."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Grounded on six qualities &mdash; faith, ethics, energy, "
+            "mindfulness, immersion, and wisdom &mdash; a noble "
+            "disciple establishes mindfulness internally on five "
+            "further things: the Buddha, the teaching, good friends, "
+            "generosity, and the deities, giving up unskillful "
+            "qualities the way a tipped pot drains and does not refill."]),
+        ("Six plus five, not five plus six", [
+            "This discourse's eleven items split differently from AN "
+            "11.11&ndash;12's five-plus-six: here the base list adds "
+            "ethics as a sixth grounding quality, while the five "
+            "inner mindfulnesses replace two of the earlier "
+            "discourses' six recollections (Saṅgha and one's own "
+            "ethical conduct) with a single new item, good friends "
+            "&mdash; a genuinely different eleven-item composition, "
+            "not simply a renumbering."]),
+        ("A follower who chooses to stay close", [
+            "Nandiya's own narrative frame is distinctive: rather than "
+            "simply hearing news at home, he deliberately follows the "
+            "Buddha's own choice of where to spend the rains "
+            "residence so that he can attend to his work and still "
+            "see the Buddha from time to time &mdash; a portrait of a "
+            "lay follower actively arranging his life around access "
+            "to the teacher."]),
+        ("The tipped pot and the uncontrolled fire", [
+            "The discourse closes with a doubled simile absent from "
+            "the two Mahānāma discourses: a pot of water once tipped "
+            "over drains out and does not flow back in, and an "
+            "uncontrolled fire advances through dry woodland without "
+            "turning back over what it has burned &mdash; both images "
+            "for how, once these eleven qualities are established, "
+            "unskillful qualities are given up and not returned to."]),
+    ],
+    terms=[
+        ("saddhā sīla viriya sati samādhi paññā",
+         "&ldquo;faith, ethics, energy, mindfulness, immersion, "
+         "wisdom&rdquo; &mdash; the six groundings, adding ethics to "
+         "AN 11.11's five."),
+        ("ajjhattaṁ satiṁ upaṭṭhāpetabbā",
+         "&ldquo;you should establish mindfulness internally&rdquo; "
+         "&mdash; the refrain introducing each of the five inner "
+         "mindfulnesses, distinct from AN 11.11's "
+         "&lsquo;recollection&rsquo; refrain."),
+        ("kalyāṇamittatā",
+         "&ldquo;good friends&rdquo; &mdash; the new item replacing "
+         "Saṅgha and ethical conduct among this discourse's five "
+         "inner mindfulnesses."),
+        ("manomayā kāyā",
+         "&ldquo;mind-made deities&rdquo; &mdash; the specific class "
+         "of deity recollected here, different from the general "
+         "deity list at AN 11.11."),
+        ("ambho udakumbho bhinno appaṭisandhiko",
+         "&ldquo;a pot full of water tipped over, so the water drains "
+         "out and doesn't go back in&rdquo; &mdash; the discourse's "
+         "closing simile for irreversibly giving up unskillful "
+         "qualities."),
+    ],
+    text_intro=(
+        "The discourse in full: Nandiya's move to Sāvatthī and his "
+        "question, then six groundings, five inner mindfulnesses, and "
+        "a closing simile. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("h3", "Nandiya's move to Sāvatthī, and his question"),
+        ("p", "&sect;1", "an11.13:1.1-4.8"),
+        ("h3", "Six groundings, five inner mindfulnesses"),
+        ("p", "&sect;2", "an11.13:5.1-10.5"),
+        ("h3", "Giving up unskillful qualities, like water from a "
+               "tipped pot"),
+        ("p", "&sect;3", "an11.13:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "Why does Nandiya choose to spend the rains residence at "
+              "Sāvatthī?",
+         "opts": [
+             "He is ordered to by the Buddha",
+             "So he can attend to his own work there and still see "
+             "the Buddha from time to time",
+             "To escape a famine at home",
+             "He has no particular reason"],
+         "correct": 1,
+         "expl": "A lay follower actively arranging his life around "
+                 "access to the teacher."},
+        {"q": "How does this discourse's six groundings differ from "
+              "AN 11.11's five?",
+         "opts": [
+             "They are identical",
+             "This discourse adds ethics as a sixth grounding quality",
+             "This discourse removes faith",
+             "This discourse has only four groundings"],
+         "correct": 1,
+         "expl": "A genuinely different eleven-item composition, not "
+                 "a renumbering."},
+        {"q": "What new item appears among the five inner "
+              "mindfulnesses here that AN 11.11 does not include?",
+         "opts": [
+             "The Saṅgha",
+             "Good friends (kalyāṇamittatā)",
+             "One's own ethical conduct",
+             "The four absorptions"],
+         "correct": 1,
+         "expl": "Replacing two of AN 11.11's six recollections with "
+                 "one new item."},
+        {"q": "What does the tipped pot of water illustrate?",
+         "opts": [
+             "The impermanence of all conditioned things",
+             "How, once established, unskillful qualities are given "
+             "up irreversibly, like water that drains and does not "
+             "return",
+             "A monastic almsbowl offering",
+             "The four elements"],
+         "correct": 1,
+         "expl": "Paired with the uncontrolled-fire simile for the "
+                 "same point."},
+        {"q": "What refrain introduces each of the five inner "
+              "mindfulnesses, distinct from AN 11.11's recollection "
+              "refrain?",
+         "opts": [
+             "\"When a noble disciple recollects...\"",
+             "\"You should establish mindfulness internally...\"",
+             "\"This is peaceful, this is sublime...\"",
+             "No refrain is used"],
+         "correct": 1,
+         "expl": "A distinct refrain marking this discourse's own "
+                 "structure."},
+        {"q": "Where does this discourse open, before Nandiya moves to "
+              "Sāvatthī?",
+         "opts": [
+             "Rājagaha, on Vulture's Peak",
+             "The land of the Sakyans, near Kapilavatthu",
+             "Ñātika, in the brick house",
+             "No setting is stated"],
+         "correct": 1,
+         "expl": "The same opening region as AN 11.11-12, before the "
+                 "move to Sāvatthī."},
+    ],
+    marginalia=[
+        ("Six, then five", [
+            "faith, ethics, energy,",
+            "mindful, immersed, wise &mdash; then",
+            "five held within",
+        ]),
+        ("Following the teacher", [
+            "work in one hand, and",
+            "the Buddha's presence in",
+            "the other &mdash; both kept",
+        ]),
+        ("A pot once tipped", [
+            "water drains and drains,",
+            "never flows back in again &mdash;",
+            "unskillful, let go",
+        ]),
+        ("Cross-references", [
+            "AN 11.11&ndash;12 &middot; previous, Mahānāma's own "
+            "five-plus-six version",
+            "AN 11.14 &middot; next, Subhūti tests the evidences of "
+            "faith in the mendicant Saddha",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.13/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.12.html">AN 11.12</a> &mdash; previous.',
+        '<a href="an-11.14.html">AN 11.14 &middot; With Subhūti</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.14 — Subhūtisutta
+# --------------------------------------------------------------------------- #
+page(
+    14, "Subhūti", "With Subhūti",
+    vagga=VAGGA_2,
+    meta_title="AN 11.14 — With Subhūti | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Subhūtisutta, in which the Buddha names eleven evidences "
+        "of faith and Subhūti confirms each is found in the "
+        "mendicant Saddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha and Venerable Subhūti, examining the "
+                     "mendicant Saddha"),
+        ("Form", "Eleven evidences of faith named in full, then "
+                 "confirmed one by one by Subhūti"),
+        ("Length", "~4 minutes to read"),
+        ("A named test case", "Unlike this chapter's other "
+         "discourses, this one examines a specific individual "
+         "mendicant by name"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a clear, examinable list culminating in the "
+                       "psychic attainments"),
+    ],
+    why=(
+        "Venerable Subhūti brings the mendicant Saddha to the Buddha, "
+        "who names eleven evidences of faith &mdash; from basic "
+        "ethical conduct and learning up through the four absorptions, "
+        "recollection of past lives, clairvoyance, and the ending of "
+        "defilements &mdash; and Subhūti, examining Saddha directly, "
+        "confirms that every one of them is genuinely found in him."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eleven evidences of faith mark a genuinely faithful "
+            "mendicant: ethical conduct, learning, good friends, "
+            "ease of admonishment, diligence in communal duties, love "
+            "of the teachings, energy, the four absorptions, "
+            "recollection of past lives, clairvoyance, and the "
+            "ending of defilements &mdash; and Subhūti confirms all "
+            "eleven are found in the mendicant Saddha."]),
+        ("A named test case", [
+            "Unlike this chapter's other discourses, which speak in "
+            "general terms about &lsquo;a noble disciple&rsquo;, this "
+            "discourse examines one specific, named individual: the "
+            "mendicant Saddha, son of the layman Sudatta, brought "
+            "before the Buddha by Subhūti so that his qualities can "
+            "be tested and confirmed directly."]),
+        ("From ethics to psychic power, in one list", [
+            "The eleven evidences form a clear ascending sequence: "
+            "basic ethical conduct and learning, then social qualities "
+            "(good friends, admonishability, communal diligence, love "
+            "of teachings), then energy, then the four advanced "
+            "meditative attainments &mdash; the four absorptions, "
+            "recollection of past lives, clairvoyance, and finally the "
+            "ending of defilements itself &mdash; treating faith not "
+            "as a private feeling but as something that shows up "
+            "concretely across an entire spiritual life."]),
+        ("Subhūti's own examination and confirmation", [
+            "Rather than simply accepting the Buddha's list, Subhūti "
+            "explicitly examines Saddha against each of the eleven "
+            "items and reports back that every one is found in him, "
+            "after which the Buddha instructs Subhūti to live "
+            "together with Saddha &mdash; the confirmed evidence of "
+            "faith translating directly into a concrete monastic "
+            "relationship."]),
+    ],
+    terms=[
+        ("saddhāmatta",
+         "&ldquo;evidence of faith&rdquo; &mdash; this discourse's own "
+         "title term, the eleven items the Buddha names and Subhūti "
+         "confirms."),
+        ("sīlavā hoti",
+         "&ldquo;is ethical&rdquo; &mdash; the first of the eleven "
+         "evidences, restrained in the monastic code."),
+        ("cattāro jhāne nikāmalābhī",
+         "&ldquo;gets the four absorptions... when they want, without "
+         "trouble or difficulty&rdquo; &mdash; the eighth evidence, "
+         "opening the sequence's advanced meditative attainments."),
+        ("pubbenivāsānussati",
+         "&ldquo;recollection of many kinds of past lives&rdquo; "
+         "&mdash; the ninth evidence, described here with its full "
+         "traditional formula."),
+        ("āsavānaṁ khayā",
+         "&ldquo;due to the ending of defilements&rdquo; &mdash; the "
+         "eleventh and final evidence, the ending of defilements "
+         "itself, realized with one's own insight."),
+    ],
+    text_intro=(
+        "The discourse in full: eleven evidences of faith, named by "
+        "the Buddha and confirmed one by one by Subhūti. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Introducing the mendicant Saddha"),
+        ("p", "&sect;1", "an11.14:1.1-3.3"),
+        ("h3", "Eleven evidences of faith"),
+        ("p", "&sect;2", "an11.14:4.1-14.2"),
+        ("h3", "Subhūti confirms each one"),
+        ("p", "&sect;3", "an11.14:15.1-27.3"),
+    ],
+    quiz=[
+        {"q": "Who brings the mendicant Saddha before the Buddha?",
+         "opts": [
+             "Ānanda", "Venerable Subhūti", "Sāriputta",
+             "The layman Sudatta"],
+         "correct": 1,
+         "expl": "The discourse's namesake, examining Saddha directly."},
+        {"q": "How does this discourse differ from the chapter's "
+              "other discourses, according to the guide?",
+         "opts": [
+             "It speaks only in general terms about a noble disciple",
+             "It examines one specific, named individual mendicant",
+             "It contains no list of qualities",
+             "It is spoken entirely in verse"],
+         "correct": 1,
+         "expl": "A concrete test case rather than general teaching."},
+        {"q": "What are the final three of the eleven evidences of "
+              "faith?",
+         "opts": [
+             "Ethics, learning, good friends",
+             "The four absorptions, recollection of past lives, "
+             "clairvoyance, and the ending of defilements",
+             "Generosity, wisdom, immersion",
+             "Faith, energy, mindfulness"],
+         "correct": 1,
+         "expl": "The sequence's advanced meditative and liberating "
+                 "attainments."},
+        {"q": "What does Subhūti do after the Buddha names the eleven "
+              "evidences?",
+         "opts": [
+             "Nothing further",
+             "He examines Saddha against each item and confirms all "
+             "eleven are found in him",
+             "He disputes the list",
+             "He asks for a twelfth evidence"],
+         "correct": 1,
+         "expl": "Direct examination and confirmation, not mere "
+                 "acceptance."},
+        {"q": "What does the Buddha instruct Subhūti to do at the "
+              "discourse's close?",
+         "opts": [
+             "Ordain Saddha immediately",
+             "Live together with Saddha",
+             "Send Saddha to another monastery",
+             "Nothing further is instructed"],
+         "correct": 1,
+         "expl": "The confirmed evidence of faith translates into a "
+                 "concrete monastic relationship."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "No scene is set beyond Subhūti and Saddha "
+                 "approaching the Buddha."},
+    ],
+    marginalia=[
+        ("Eleven marks of faith", [
+            "from ethics and learning",
+            "up through the four jhānas",
+            "to defilements' end",
+        ]),
+        ("A named test case", [
+            "not \"a disciple\" but",
+            "Saddha, son of Sudatta &mdash;",
+            "examined by name",
+        ]),
+        ("Confirmed, and welcomed", [
+            "every mark is found,",
+            "Subhūti reports &mdash; then live",
+            "together, the Buddha says",
+        ]),
+        ("Cross-references", [
+            "AN 11.13 &middot; previous, Nandiya's six groundings and "
+            "five inner mindfulnesses",
+            "AN 11.15 &middot; next, The Benefits of Love, a page "
+            "from this project's earlier eighteen-page selection",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.14/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.13.html">AN 11.13</a> &mdash; previous.',
+        '<a href="an-11.15.html">AN 11.15 &middot; The Benefits of Love</a> &mdash; next.',
+    ],
+    next=("an-11.15.html", "AN 11.15 &middot; The Benefits of Love"),
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.16 — Aṭṭhakanāgarasutta
+# --------------------------------------------------------------------------- #
+page(
+    16, "Aṭṭhakanāgara", "The Wealthy Citizen",
+    vagga=VAGGA_2,
+    meta_title="AN 11.16 — The Wealthy Citizen | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṭṭhakanāgarasutta, in which Venerable Ānanda gives the "
+        "householder Dasama eleven doors to the deathless, likened to "
+        "a treasure trove with eleven entrances. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", SETTING_BELUVA),
+        ("Speakers", "The householder Dasama questioning Venerable "
+                     "Ānanda"),
+        ("Form", "Eleven doors to the deathless — four absorptions, "
+                 "four divine abodes, three formless attainments — "
+                 "each paired with insight into impermanence"),
+        ("Length", "~4 minutes to read"),
+        ("A recurring fixed list", "The same eleven-item list of "
+         "meditative attainments this project will meet again at the "
+         "close of this nipāta's own Rāgapeyyāla"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "eleven distinct attainments, each requiring "
+                       "care to distinguish"),
+    ],
+    why=(
+        "The wealthy citizen Dasama, traveling on business, seeks out "
+        "Venerable Ānanda and asks for one thing taught by the Buddha "
+        "that frees the mind and ends the defilements; Ānanda answers "
+        "with eleven doors &mdash; the four absorptions, the four "
+        "divine abodes of love, compassion, rejoicing, and equanimity, "
+        "and the three lower formless attainments &mdash; each "
+        "practiced, then seen through as impermanent and liable to "
+        "cessation, ending the defilements or leading to rebirth "
+        "beyond return."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Eleven meditative attainments &mdash; the four "
+            "absorptions, the four divine abodes, and the three lower "
+            "formless dimensions &mdash; each become doors to the "
+            "deathless when a mendicant, having attained one, reflects "
+            "that it too is produced by choices and intentions and "
+            "therefore impermanent, ending the defilements or being "
+            "reborn beyond return."]),
+        ("Asked of Ānanda, not the Buddha", [
+            "This discourse's occasion is distinctive: Dasama, a "
+            "wealthy citizen from Pāṭaliputta, deliberately seeks out "
+            "Ānanda rather than the Buddha directly, and Ānanda "
+            "answers under his own authority, echoing this project's "
+            "earlier pattern of senior disciples teaching in the "
+            "Buddha's own voice."]),
+        ("The same structure, eleven times over", [
+            "Each of the eleven attainments follows an identical "
+            "shape: enter the attainment, reflect that it is "
+            "&lsquo;produced by choices and intentions&rsquo; and "
+            "therefore impermanent, and from that insight either end "
+            "the defilements outright or, failing that, be reborn "
+            "spontaneously in a pure abode from which there is no "
+            "return &mdash; a repeated formula this discourse applies "
+            "systematically across every one of the eleven doors."]),
+        ("A fixed list this project will meet again", [
+            "The eleven items themselves &mdash; four absorptions, "
+            "four divine abodes, three formless attainments (stopping "
+            "short of the fourth, neither-perception-nor-"
+            "non-perception) &mdash; form a fixed list that recurs "
+            "later in this very nipāta, at the close of its own "
+            "Rāgapeyyāla, where the same eleven things are said to be "
+            "developed for insight into greed and each defilement "
+            "after it."]),
+    ],
+    terms=[
+        ("amatadvāra",
+         "&ldquo;door to the deathless&rdquo; &mdash; Dasama's own "
+         "closing image, and the discourse's central metaphor for "
+         "each of the eleven attainments."),
+        ("saṅkhatam abhisaṅkhataṁ",
+         "&ldquo;produced by choices and intentions&rdquo; &mdash; "
+         "the reflection applied to each attainment in turn, the "
+         "pivot from meditative accomplishment to liberating insight."),
+        ("brahmavihāra",
+         "not named directly but present throughout &mdash; the four "
+         "divine abodes of love, compassion, rejoicing, and "
+         "equanimity, four of this discourse's eleven doors."),
+        ("anāgāmī",
+         "&ldquo;non-returner&rdquo; &mdash; the implicit attainment "
+         "described when the defilements are not fully ended but "
+         "rebirth beyond return still follows."),
+        ("nidhikumbhīnaṁ mukhāni",
+         "&ldquo;entrances to a treasure trove&rdquo; &mdash; "
+         "Dasama's own simile for the eleven doors, paired with a "
+         "house with eleven doors offering escape from fire."),
+    ],
+    text_intro=(
+        "The discourse in full: Dasama's question to Ānanda, the "
+        "eleven doors to the deathless, and Dasama's own gratitude. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Dasama seeks out Ānanda"),
+        ("p", "&sect;1", "an11.16:1.1-3.2"),
+        ("h3", "Eleven doors to the deathless"),
+        ("p", "&sect;2", "an11.16:4.1-9.8"),
+        ("h3", "Eleven doors, elevenfold gratitude"),
+        ("p", "&sect;3", "an11.16:10.1-11.3"),
+    ],
+    quiz=[
+        {"q": "Who does Dasama seek out with his question?",
+         "opts": [
+             "The Buddha directly",
+             "Venerable Ānanda",
+             "Venerable Sāriputta",
+             "Venerable Subhūti"],
+         "correct": 1,
+         "expl": "A disciple answering under his own authority."},
+        {"q": "What are the eleven doors to the deathless?",
+         "opts": [
+             "Eleven ethical precepts",
+             "The four absorptions, the four divine abodes, and the "
+             "three lower formless attainments",
+             "Eleven historical Buddhas",
+             "The noble eightfold path repeated"],
+         "correct": 1,
+         "expl": "Stopping short of the fourth formless attainment, "
+                 "neither-perception-nor-non-perception."},
+        {"q": "What reflection turns each attainment into a door to "
+              "the deathless?",
+         "opts": [
+             "That the attainment is permanent and reliable",
+             "That the attainment is produced by choices and "
+             "intentions, and therefore impermanent",
+             "That the attainment should be repeated forever",
+             "No reflection is needed"],
+         "correct": 1,
+         "expl": "The pivot from meditative accomplishment to "
+                 "liberating insight."},
+        {"q": "What does Dasama compare the eleven doors to?",
+         "opts": [
+             "A single locked door",
+             "Entrances to a treasure trove, and a house with eleven "
+             "doors offering escape from fire",
+             "A ladder with eleven rungs",
+             "A river with eleven crossings"],
+         "correct": 1,
+         "expl": "Dasama's own closing simile, marking his gratitude."},
+        {"q": "According to the guide, where does this project meet "
+              "the same eleven-item list again?",
+         "opts": [
+             "Nowhere else in this project",
+             "At the close of this nipāta's own Rāgapeyyāla, "
+             "developed for insight into greed and each defilement",
+             "In chapter 1 of the Elevens",
+             "In the Book of the Tens"],
+         "correct": 1,
+         "expl": "A fixed list recurring later in this very nipāta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "Vesālī, in the little village of Beluva",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "Ānanda's own location, sought out by Dasama."},
+    ],
+    marginalia=[
+        ("Eleven doors, one house", [
+            "however it burns,",
+            "any door lets you escape &mdash;",
+            "any one will do",
+        ]),
+        ("Attained, then seen through", [
+            "each state entered, then",
+            "known as made, impermanent &mdash;",
+            "that seeing frees the mind",
+        ]),
+        ("A grateful offering", [
+            "no fee for the door,",
+            "yet Dasama gives freely &mdash;",
+            "robes, food, a dwelling",
+        ]),
+        ("Cross-references", [
+            "AN 11.14 &middot; the last built page before this "
+            "chapter's splice at AN 11.15",
+            "AN 11.15 &middot; The Benefits of Love, previous, from "
+            "this project's earlier eighteen-page selection",
+            "the Rāgapeyyāla, closing this nipāta &middot; the same "
+            "eleven-item list, developed there for insight into greed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.16/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.15.html">AN 11.15</a> &mdash; previous.',
+        '<a href="an-11.17.html">AN 11.17 &middot; The Cowherd</a> &mdash; next.',
+    ],
+    prev=("an-11.15.html", "AN 11.15 &middot; The Benefits of Love"),
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.17 — Gopālasutta
+# --------------------------------------------------------------------------- #
+page(
+    17, "Gopāla", "The Cowherd",
+    vagga=VAGGA_2,
+    meta_title="AN 11.17 — The Cowherd | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gopālasutta, applying the eleven-factor cowherd simile "
+        "to a mendicant's own growth in the training — the same "
+        "simile this nipāta will use again at far greater scale. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eleven factors preventing growth, each explained in "
+                 "turn, then the same eleven reversed and explained "
+                 "again as enabling growth"),
+        ("Length", "~4 minutes to read"),
+        ("A simile this nipāta will reuse", "The identical cowherd "
+         "simile opens the massive peyyāla later in this nipāta's own "
+         "chapter 3"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "eleven distinct factors, each explained with "
+                       "its own definition"),
+    ],
+    why=(
+        "A cowherd lacking eleven skills &mdash; knowing form, "
+        "reading characteristics, removing flies' eggs, dressing "
+        "wounds, spreading smoke, knowing the ford, knowing "
+        "satisfaction, knowing the trail, skill in pastures, not "
+        "milking dry, and respecting the herd's senior bulls &mdash; "
+        "cannot maintain a herd; in the same way, a mendicant lacking "
+        "the same eleven qualities, reinterpreted for the training, "
+        "cannot grow, improve, or mature in the teaching, while a "
+        "mendicant who has them can."),
+    guide=[
+        ("The teaching in one sentence", [
+            "Just as a cowherd needs eleven practical skills to "
+            "maintain a herd, a mendicant needs eleven reinterpreted "
+            "qualities &mdash; from understanding form correctly to "
+            "restraining the senses to respecting senior mendicants "
+            "&mdash; to grow, improve, and mature in the teaching and "
+            "training."]),
+        ("A vivid simile, mapped point by point", [
+            "Unlike this project's simpler similes, this discourse "
+            "maps all eleven items of its herding vocabulary onto a "
+            "specific spiritual meaning, then explains each mapped "
+            "meaning again in its own right: not knowing form becomes "
+            "not understanding the four elements and derived matter; "
+            "not dressing wounds becomes leaving the six sense "
+            "faculties unrestrained; not knowing the ford becomes "
+            "never questioning learned elders to resolve doubts."]),
+        ("The full inventory of eleven", [
+            "The eleven qualities run: understanding form, skill in "
+            "characterizing people by their deeds, removing arisen "
+            "unskillful thoughts, sense restraint, teaching others "
+            "what one has learned, questioning learned elders, "
+            "finding inspiration in the teaching, understanding the "
+            "noble eightfold path, understanding the four "
+            "establishments of mindfulness, moderation in accepting "
+            "requisites, and respecting senior mendicants &mdash; a "
+            "genuinely comprehensive checklist spanning doctrine, "
+            "practice, and community conduct."]),
+        ("A simile this nipāta will meet again, at far greater "
+         "scale", [
+            "This same cowherd simile, down to its eleven items in "
+            "the same order, opens the massive peyyāla that will fill "
+            "most of this nipāta's chapter 3 &mdash; there stripped of "
+            "its detailed explanations and used instead as a repeated "
+            "refrain across hundreds of compressed discourses, making "
+            "this discourse worth remembering as the simile's first "
+            "and most fully explained appearance."]),
+    ],
+    terms=[
+        ("gopālaka",
+         "&ldquo;cowherd&rdquo; &mdash; the discourse's own title "
+         "figure, mapped point by point onto a mendicant's own "
+         "practice."),
+        ("makkhikāhārako",
+         "&ldquo;picks out flies' eggs&rdquo; &mdash; one of the "
+         "cowherd's eleven skills, mapped to giving up arisen "
+         "sensual, malicious, or cruel thoughts before they take "
+         "hold."),
+        ("vaṇaṁ paṭicchādetā",
+         "&ldquo;dresses wounds&rdquo; &mdash; mapped to restraining "
+         "the six sense faculties so that covetousness and "
+         "displeasure do not become overwhelming."),
+        ("titthaṁ jānāti",
+         "&ldquo;knows the ford&rdquo; &mdash; mapped to regularly "
+         "questioning learned elders to resolve doubtful points in "
+         "the teaching."),
+        ("theresu therataresu",
+         "&ldquo;senior mendicants of long standing... fathers and "
+         "leaders of the Saṅgha&rdquo; &mdash; the object of the "
+         "eleventh quality, respect shown consistently in body, "
+         "speech, and mind."),
+    ],
+    text_intro=(
+        "The discourse in full: eleven factors preventing growth, "
+        "then the same eleven reversed as enabling it. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Eleven qualities that prevent growth"),
+        ("p", "&sect;1", "an11.17:1.1-14.1"),
+        ("h3", "Eleven qualities that bring growth"),
+        ("p", "&sect;2", "an11.17:15.1-28.1"),
+    ],
+    quiz=[
+        {"q": "What does a cowherd lacking eleven skills fail to do?",
+         "opts": [
+             "Sell milk profitably",
+             "Maintain and expand a herd of cattle",
+             "Find good pastureland",
+             "Train new cowherds"],
+         "correct": 1,
+         "expl": "The simile's literal opening claim, mapped onto a "
+                 "mendicant's training."},
+        {"q": "What does \"dressing wounds\" map to in the mendicant's "
+              "eleven qualities?",
+         "opts": [
+             "Literal first aid for injured mendicants",
+             "Restraining the six sense faculties so covetousness and "
+             "displeasure don't overwhelm the mind",
+             "Repairing damaged robes",
+             "Caring for the sick in the community"],
+         "correct": 1,
+         "expl": "One of the discourse's point-by-point mappings from "
+                 "herding skill to spiritual practice."},
+        {"q": "What does \"knowing the ford\" map to?",
+         "opts": [
+             "Finding the right meditation posture",
+             "Regularly questioning learned elders to resolve doubts "
+             "in the teaching",
+             "Crossing a literal river",
+             "Knowing when to eat"],
+         "correct": 1,
+         "expl": "Another of the eleven point-by-point mappings."},
+        {"q": "According to the guide, where does this project meet "
+              "the same cowherd simile again?",
+         "opts": [
+             "Nowhere else in this project",
+             "Opening the massive peyyāla that fills most of this "
+             "nipāta's chapter 3, at far greater scale",
+             "Only in the Book of the Tens",
+             "In the chapter's very next discourse"],
+         "correct": 1,
+         "expl": "The same eleven items in the same order, reused as "
+                 "a repeated refrain."},
+        {"q": "What is the eleventh quality in the mendicant's own "
+              "list?",
+         "opts": [
+             "Moderation in accepting requisites",
+             "Respecting senior mendicants of long standing, fathers "
+             "and leaders of the Saṅgha",
+             "Understanding the four elements",
+             "Skill in characterizing people"],
+         "correct": 1,
+         "expl": "The list's closing item, mirroring the cowherd's own "
+                 "respect for the herd's senior bulls."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No scene is set; the Buddha addresses the mendicants "
+                 "directly."},
+    ],
+    marginalia=[
+        ("A cowherd's eleven skills", [
+            "know form, read the signs,",
+            "clear the wounds, spread smoke, know",
+            "the ford and the trail",
+        ]),
+        ("Mapped onto practice", [
+            "each herding skill turned",
+            "to sense restraint, questioning,",
+            "respect for elders",
+        ]),
+        ("A simile that returns", [
+            "the same eleven,",
+            "met once explained in full &mdash;",
+            "soon a bare refrain",
+        ]),
+        ("Cross-references", [
+            "AN 11.16 &middot; previous, eleven doors to the deathless",
+            "AN 11.18 &middot; next, an immersion beyond all "
+            "perception, asked by several mendicants",
+            "the Sāmaññavagga, chapter 3 &middot; this same cowherd "
+            "simile, reused as a peyyāla refrain at far greater scale",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.17/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.16.html">AN 11.16</a> &mdash; previous.',
+        '<a href="an-11.18.html">AN 11.18 &middot; Immersion (1st)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.18 — Paṭhamasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    18, "Paṭhamasamādhi", "Immersion (1st)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.18 — Immersion (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasamādhisutta, in which several mendicants ask the "
+        "Buddha about the same immersion beyond all perception first "
+        "met at AN 11.7-8. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Several mendicants questioning the Buddha"),
+        ("Form", "The same question and answer as AN 11.7-8, now "
+                 "asked by an unnamed group rather than Ānanda alone"),
+        ("Length", "~2 minutes to read"),
+        ("First of four variations", "This chapter closes with four "
+         "discourses on the identical immersion, varying only who "
+         "asks and who answers"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the same demanding immersion met earlier in "
+                       "this nipāta"),
+    ],
+    why=(
+        "Several mendicants ask the Buddha whether a mendicant might "
+        "gain a state of immersion where nothing at all is perceived "
+        "in its usual way &mdash; not the elements, the formless "
+        "dimensions, this world or another, or anything seen, heard, "
+        "thought, or known &mdash; and yet still perceive; the Buddha "
+        "confirms it, through perceiving only that &lsquo;this is "
+        "peaceful, this is sublime&rsquo;, the stilling of all "
+        "activities and the ending of craving."),
+    guide=[
+        ("The teaching in one sentence", [
+            "A mendicant can gain a state of immersion beyond every "
+            "ordinary object of perception &mdash; the elements, the "
+            "formless dimensions, either world, anything sensed "
+            "&mdash; and yet still perceive, by perceiving only the "
+            "peace of nibbāna: the stilling of all activities and the "
+            "ending of craving."]),
+        ("The same question, a different questioner", [
+            "This is the identical question and answer already met at "
+            "AN 11.7, but with the asker changed from Ānanda alone to "
+            "&lsquo;several mendicants&rsquo; unnamed, and the "
+            "follow-up dialogue with Sāriputta from AN 11.7 dropped "
+            "entirely &mdash; the shortest and plainest of this "
+            "chapter's four variations on the theme."]),
+        ("A four-part set closing this chapter", [
+            "This discourse opens a set of four that will close "
+            "chapter 2: mendicants ask the Buddha (this discourse), "
+            "the Buddha volunteers the same teaching to the "
+            "mendicants unprompted (AN 11.19), mendicants ask "
+            "Sāriputta (AN 11.20), and Sāriputta volunteers it to the "
+            "mendicants unprompted (AN 11.21) &mdash; a structural "
+            "chiasm testing the same content across every combination "
+            "of asker and teacher."]),
+        ("Why the repetition matters", [
+            "Read as a set, these four short discourses make the same "
+            "point AN 11.7 made through two direct witnesses "
+            "(Buddha and Sāriputta): whether prompted or volunteered, "
+            "asked of the Buddha or of a senior disciple, this "
+            "teaching about immersion beyond perception is delivered "
+            "identically every time, underscoring that it describes a "
+            "fixed reality rather than a personal formulation."]),
+    ],
+    terms=[
+        ("etaṁ santaṁ etaṁ paṇītaṁ",
+         "&ldquo;this is peaceful, this is sublime&rdquo; &mdash; the "
+         "sole remaining perception in this immersion, identical "
+         "across all four discourses in this closing set."),
+        ("sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo "
+         "virāgo nirodho nibbānaṁ",
+         "&ldquo;the stilling of all activities... extinguishment&rdquo; "
+         "&mdash; the same full closing formula shared with AN "
+         "11.7&ndash;8."),
+        ("sambahulā bhikkhū",
+         "&ldquo;several mendicants&rdquo; &mdash; the unnamed group "
+         "asking here, replacing AN 11.7's named questioner, Ānanda."),
+        ("siyā nu kho",
+         "&ldquo;could it be...?&rdquo; &mdash; the shared opening "
+         "formula of the question in all four discourses of this set."),
+        ("yathā kathaṁ panidaṁ",
+         "&ldquo;but how could this be?&rdquo; &mdash; the shared "
+         "follow-up question in all four, prompting the Buddha's or "
+         "Sāriputta's explanation."),
+    ],
+    text_intro=(
+        "The discourse in full: several mendicants ask about an "
+        "immersion beyond all perception, and the Buddha answers. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Several mendicants ask, and the Buddha answers"),
+        ("p", "&sect;1", "an11.18:1.1-5.3"),
+    ],
+    quiz=[
+        {"q": "Who asks the question in this discourse?",
+         "opts": [
+             "Venerable Ānanda alone",
+             "Several unnamed mendicants",
+             "Venerable Sāriputta",
+             "The householder Dasama"],
+         "correct": 1,
+         "expl": "Distinct from AN 11.7's named questioner, Ānanda."},
+        {"q": "How does this discourse's content compare to AN "
+              "11.7-8's?",
+         "opts": [
+             "Entirely different teaching",
+             "The identical question and answer, with the "
+             "Sāriputta follow-up dropped entirely",
+             "A much longer expanded version",
+             "A contradiction of the earlier teaching"],
+         "correct": 1,
+         "expl": "The shortest and plainest of this theme's four "
+                 "variations."},
+        {"q": "According to the guide, what four-part set does this "
+              "discourse open?",
+         "opts": [
+             "Four discourses on an unrelated topic",
+             "Four variations testing every combination of asker and "
+             "teacher for the same immersion teaching",
+             "A set of four unrelated similes",
+             "Four discourses spoken only by the Buddha"],
+         "correct": 1,
+         "expl": "Mendicants-to-Buddha, Buddha-to-mendicants, "
+                 "mendicants-to-Sāriputta, Sāriputta-to-mendicants."},
+        {"q": "What is perceived in this state of immersion?",
+         "opts": [
+             "Every sense object heightened",
+             "Only that \"this is peaceful, this is sublime\"",
+             "Nothing whatsoever, even in principle",
+             "A vision of past lives"],
+         "correct": 1,
+         "expl": "Identical across all four discourses in this "
+                 "closing set."},
+        {"q": "According to the guide, what does the fourfold "
+              "repetition underscore?",
+         "opts": [
+             "That the teaching changes depending on who explains it",
+             "That the teaching is delivered identically regardless "
+             "of who asks or answers, describing a fixed reality",
+             "That only the Buddha's version is authoritative",
+             "Nothing beyond simple repetition"],
+         "correct": 1,
+         "expl": "A fixed reality, not a personal formulation."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No scene is set beyond the mendicants approaching "
+                 "the Buddha."},
+    ],
+    marginalia=[
+        ("The same immersion again", [
+            "beyond earth and world,",
+            "beyond all that's seen and heard &mdash;",
+            "yet still, perceiving",
+        ]),
+        ("A group, not one voice", [
+            "no longer Ānanda",
+            "alone &mdash; several mendicants",
+            "ask the question now",
+        ]),
+        ("Four askers, one answer", [
+            "to Buddha, from Buddha,",
+            "to Sāriputta, from him &mdash;",
+            "the teaching, unchanged",
+        ]),
+        ("Cross-references", [
+            "AN 11.7&ndash;8 &middot; the fuller telling of this same "
+            "immersion, with the Sāriputta confirmation",
+            "AN 11.19 &middot; next, the Buddha volunteers this same "
+            "teaching unprompted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.18/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.17.html">AN 11.17</a> &mdash; previous.',
+        '<a href="an-11.19.html">AN 11.19 &middot; Immersion (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.19 — Dutiyasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    19, "Dutiyasamādhi", "Immersion (2nd)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.19 — Immersion (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamādhisutta, in which the Buddha himself raises "
+        "the immersion-beyond-perception question, and the mendicants "
+        "ask him to explain it in full. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha addressing the mendicants, then "
+                     "responding to their request for explanation"),
+        ("Form", "The same immersion as AN 11.18, this time raised by "
+                 "the Buddha himself rather than asked of him"),
+        ("Length", "~2 minutes to read"),
+        ("Second of four variations", "The Buddha volunteers the "
+         "teaching unprompted, reversing AN 11.18's direction"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the same demanding immersion, now offered "
+                       "rather than requested"),
+    ],
+    why=(
+        "The Buddha himself asks the mendicants whether a mendicant "
+        "might gain a state of immersion beyond all ordinary "
+        "perception, and when they ask him to clarify its meaning "
+        "himself, he explains: it is when a mendicant perceives only "
+        "that &lsquo;this is peaceful, this is sublime&rsquo;, the "
+        "stilling of all activities and the ending of craving."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same immersion beyond all ordinary perception "
+            "already met at AN 11.7-8 and AN 11.18, now raised by "
+            "the Buddha himself, who explains it as perceiving only "
+            "the peace of nibbāna: the stilling of all activities and "
+            "the ending of craving."]),
+        ("The direction reversed", [
+            "Where AN 11.18 had mendicants ask the Buddha, this "
+            "discourse reverses the direction entirely: the Buddha "
+            "addresses the mendicants first with the same question, "
+            "and they respond not by answering but by formally "
+            "requesting that he himself clarify its meaning &mdash; "
+            "&lsquo;our teachings are rooted in the Buddha... may the "
+            "Buddha himself please clarify the meaning of this&rsquo;."]),
+        ("A formal request for explanation", [
+            "The mendicants' request follows a set formula this "
+            "project has met at moments of significant teaching "
+            "elsewhere: acknowledging the Buddha as root, guide, and "
+            "refuge, and asking him to speak so they may listen and "
+            "remember &mdash; treating this repeated immersion "
+            "teaching as significant enough to warrant the same "
+            "formal deference given to major doctrinal statements."]),
+        ("Two directions, the same content", [
+            "Whether the Buddha is asked (AN 11.18) or volunteers the "
+            "teaching himself and is then formally invited to explain "
+            "it (this discourse), the substance delivered is "
+            "identical &mdash; reinforcing this closing set's larger "
+            "point that the teaching does not depend on the "
+            "circumstances of its delivery."]),
+    ],
+    terms=[
+        ("bhagavammūlakā no dhammā",
+         "&ldquo;our teachings are rooted in the Buddha&rdquo; "
+         "&mdash; the mendicants' own formal opening, acknowledging "
+         "him as source before requesting explanation."),
+        ("bhagavaṁ nissitā",
+         "&ldquo;he is our refuge&rdquo; &mdash; continuing the same "
+         "formal request, naming the Buddha as guide and refuge."),
+        ("paṭibhātu bhagavantaññeva",
+         "&ldquo;may the Buddha himself please clarify the "
+         "meaning&rdquo; &mdash; the mendicants' explicit request that "
+         "the Buddha, not another, provide the explanation."),
+        ("etaṁ santaṁ etaṁ paṇītaṁ",
+         "&ldquo;this is peaceful, this is sublime&rdquo; &mdash; the "
+         "same closing perception shared with every discourse in this "
+         "set."),
+        ("siyā nu kho bhikkhave",
+         "&ldquo;could it be, mendicants...?&rdquo; &mdash; the "
+         "Buddha's own opening here, addressed to the mendicants "
+         "rather than posed to him."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha raises the question "
+        "himself, and explains it at the mendicants' formal request. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "The Buddha raises the question himself"),
+        ("p", "&sect;1", "an11.19:1.1-6.3"),
+    ],
+    quiz=[
+        {"q": "Who raises the question in this discourse?",
+         "opts": [
+             "Several unnamed mendicants",
+             "The Buddha himself, addressing the mendicants",
+             "Venerable Sāriputta",
+             "Venerable Ānanda"],
+         "correct": 1,
+         "expl": "Reversing AN 11.18's direction, where mendicants "
+                 "asked the Buddha."},
+        {"q": "How do the mendicants respond to the Buddha's own "
+              "question?",
+         "opts": [
+             "They answer it themselves immediately",
+             "They formally request that the Buddha himself clarify "
+             "its meaning",
+             "They remain silent",
+             "They ask Sāriputta to answer instead"],
+         "correct": 1,
+         "expl": "\"Our teachings are rooted in the Buddha... may the "
+                 "Buddha himself please clarify.\""},
+        {"q": "What formula does the mendicants' request follow, "
+              "according to the guide?",
+         "opts": [
+             "A casual, informal question",
+             "A set formula acknowledging the Buddha as root, guide, "
+             "and refuge, used at moments of significant teaching",
+             "A challenge to the Buddha's authority",
+             "No particular formula"],
+         "correct": 1,
+         "expl": "Treating this teaching with the same formal "
+                 "deference given major doctrinal statements."},
+        {"q": "What is the content of the Buddha's explanation?",
+         "opts": [
+             "Entirely new content not met before",
+             "The same immersion as AN 11.7-8 and AN 11.18: "
+             "perceiving only that this is peaceful, this is sublime",
+             "A description of a different meditative state",
+             "He declines to explain"],
+         "correct": 1,
+         "expl": "Identical substance regardless of who asks or "
+                 "answers."},
+        {"q": "According to the guide, what does this discourse "
+              "reinforce about the closing set as a whole?",
+         "opts": [
+             "That different circumstances produce different "
+             "teachings",
+             "That the teaching does not depend on the circumstances "
+             "of its delivery",
+             "That only volunteered teachings are reliable",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "The substance is identical whether asked or "
+                 "volunteered."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No scene is set beyond the Buddha addressing the "
+                 "mendicants."},
+    ],
+    marginalia=[
+        ("Offered, not asked", [
+            "this time the Buddha",
+            "raises it himself &mdash; the same",
+            "question, reversed",
+        ]),
+        ("A formal request", [
+            "rooted in the Buddha,",
+            "our guide and refuge &mdash; please,",
+            "clarify it yourself",
+        ]),
+        ("The same peace, again", [
+            "this is peaceful, this",
+            "is sublime &mdash; the one thing left",
+            "when all else falls still",
+        ]),
+        ("Cross-references", [
+            "AN 11.18 &middot; previous, mendicants ask the Buddha",
+            "AN 11.20 &middot; next, mendicants ask Sāriputta the "
+            "same question",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.19/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.18.html">AN 11.18</a> &mdash; previous.',
+        '<a href="an-11.20.html">AN 11.20 &middot; Immersion (3rd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.20 — Tatiyasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    20, "Tatiyasamādhi", "Immersion (3rd)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.20 — Immersion (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasamādhisutta, in which several mendicants put the "
+        "same immersion-beyond-perception question to Venerable "
+        "Sāriputta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Several mendicants questioning Venerable "
+                     "Sāriputta"),
+        ("Form", "The same question and answer as AN 11.18, now "
+                 "addressed to Sāriputta rather than the Buddha"),
+        ("Length", "~2 minutes to read"),
+        ("Third of four variations", "The same content, this time "
+         "answered by a senior disciple rather than the Buddha"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the same demanding immersion, answered by a "
+                       "different teacher"),
+    ],
+    why=(
+        "Several mendicants approach Venerable Sāriputta and ask him "
+        "the same question already put to the Buddha: whether a "
+        "mendicant might gain a state of immersion beyond all "
+        "ordinary perception, and yet still perceive; Sāriputta "
+        "confirms it, giving the identical explanation already heard "
+        "from the Buddha in this chapter's earlier discourses."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The identical immersion beyond all ordinary perception "
+            "met throughout this chapter, here answered by Sāriputta "
+            "rather than the Buddha, in exactly the same words: "
+            "perceiving only that this is peaceful, this is sublime, "
+            "the stilling of all activities and the ending of craving."]),
+        ("Mendicants choose a disciple this time", [
+            "Where AN 11.18 had mendicants approach the Buddha "
+            "directly, this discourse has them approach Sāriputta "
+            "instead, exchanging the customary greetings before "
+            "posing the identical question &mdash; testing whether "
+            "the same teaching holds when sought from a senior "
+            "disciple rather than the source."]),
+        ("A brief, confident answer", [
+            "Sāriputta's reply is immediate and unqualified: "
+            "&lsquo;it could be, reverends&rsquo; &mdash; he does not "
+            "hedge or defer to the Buddha before answering, but "
+            "speaks with the same direct authority already "
+            "demonstrated when Ānanda tested him independently at AN "
+            "11.7."]),
+        ("Completing the chiasm", [
+            "With this discourse, three of this closing set's four "
+            "combinations are now complete: mendicants asking the "
+            "Buddha (AN 11.18), the Buddha volunteering to the "
+            "mendicants (AN 11.19), and mendicants asking Sāriputta "
+            "(this discourse) &mdash; leaving only Sāriputta "
+            "volunteering the teaching himself, which the chapter's "
+            "final discourse supplies."]),
+    ],
+    terms=[
+        ("āyasmantaṁ sāriputtaṁ upasaṅkamiṁsu",
+         "&ldquo;went up to Venerable Sāriputta&rdquo; &mdash; this "
+         "discourse's own opening move, choosing a disciple over the "
+         "Buddha as questioned teacher."),
+        ("siyā āvuso",
+         "&ldquo;it could be, reverends&rdquo; &mdash; Sāriputta's own "
+         "immediate, unqualified confirmation."),
+        ("etaṁ santaṁ etaṁ paṇītaṁ",
+         "&ldquo;this is peaceful, this is sublime&rdquo; &mdash; the "
+         "identical closing perception shared across every discourse "
+         "in this set."),
+        ("āvuso",
+         "&ldquo;reverend&rdquo; &mdash; the mendicants' own form of "
+         "address to Sāriputta, distinct from &lsquo;sir&rsquo; used "
+         "for the Buddha."),
+        ("sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā",
+         "&ldquo;exchanged greetings... when the greetings and polite "
+         "conversation were over&rdquo; &mdash; the standard courtesy "
+         "formula opening an approach to a senior disciple."),
+    ],
+    text_intro=(
+        "The discourse in full: several mendicants ask Sāriputta "
+        "about the same immersion beyond all perception. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Mendicants ask Sāriputta"),
+        ("p", "&sect;1", "an11.20:1.1-4.3"),
+    ],
+    quiz=[
+        {"q": "Who do the mendicants approach with their question in "
+              "this discourse?",
+         "opts": [
+             "The Buddha directly", "Venerable Sāriputta",
+             "Venerable Ānanda", "Venerable Subhūti"],
+         "correct": 1,
+         "expl": "Testing whether the same teaching holds from a "
+                 "senior disciple."},
+        {"q": "How does Sāriputta respond to the question?",
+         "opts": [
+             "He defers to the Buddha before answering",
+             "Immediately and unqualified: \"it could be, reverends\"",
+             "He declines to answer",
+             "He asks the mendicants to consult the Buddha instead"],
+         "correct": 1,
+         "expl": "The same direct authority shown when Ānanda tested "
+                 "him at AN 11.7."},
+        {"q": "What form of address do the mendicants use for "
+              "Sāriputta, distinct from how they address the Buddha?",
+         "opts": [
+             "\"Sir\"", "\"Reverend\" (āvuso)", "\"Teacher\"",
+             "No address is used"],
+         "correct": 1,
+         "expl": "Marking the difference between addressing a senior "
+                 "disciple and the Buddha."},
+        {"q": "According to the guide, which combination of this "
+              "closing set does this discourse complete?",
+         "opts": [
+             "The Buddha volunteering to mendicants",
+             "Mendicants asking Sāriputta",
+             "Sāriputta volunteering to mendicants",
+             "None; it repeats an earlier combination"],
+         "correct": 1,
+         "expl": "The third of four combinations, leaving only "
+                 "Sāriputta volunteering for the chapter's final "
+                 "discourse."},
+        {"q": "What is the content of Sāriputta's explanation?",
+         "opts": [
+             "A different teaching from the Buddha's own",
+             "Identical to the Buddha's: perceiving only that this is "
+             "peaceful, this is sublime",
+             "He redirects the question entirely",
+             "A shortened partial answer"],
+         "correct": 1,
+         "expl": "The identical explanation given throughout this "
+                 "chapter."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No scene is set beyond the mendicants approaching "
+                 "Sāriputta."},
+    ],
+    marginalia=[
+        ("A different door", [
+            "not to the Buddha,",
+            "but to Sāriputta this",
+            "time &mdash; the question, unchanged",
+        ]),
+        ("Confident, unqualified", [
+            "\"it could be\" &mdash; no",
+            "pause, no deferring first",
+            "to the Buddha's word",
+        ]),
+        ("Three of four complete", [
+            "asked, then offered, now",
+            "asked again of a disciple &mdash;",
+            "one combination left",
+        ]),
+        ("Cross-references", [
+            "AN 11.7 &middot; the earlier test of Sāriputta's own "
+            "independent authority",
+            "AN 11.19 &middot; previous, the Buddha volunteers the "
+            "teaching",
+            "AN 11.21 &middot; next, Sāriputta volunteers it himself, "
+            "completing this closing set and chapter 2",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.20/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.19.html">AN 11.19</a> &mdash; previous.',
+        '<a href="an-11.21.html">AN 11.21 &middot; Immersion (4th)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.21 — Catutthasamādhisutta
+# --------------------------------------------------------------------------- #
+page(
+    21, "Catutthasamādhi", "Immersion (4th)",
+    vagga=VAGGA_2,
+    meta_title="AN 11.21 — Immersion (4th) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catutthasamādhisutta, closing chapter 2 as Sāriputta "
+        "himself volunteers the same immersion teaching, completing "
+        "this closing set's full chiasm. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "Venerable Sāriputta addressing the mendicants"),
+        ("Form", "The same immersion, now volunteered by Sāriputta "
+                 "and explained at the mendicants' formal request"),
+        ("Length", "~2 minutes to read"),
+        ("Chapter's closer", "This discourse closes Anussativagga, "
+         "the chapter these ten pages have covered"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the same demanding immersion, completing this "
+                       "chapter's fourfold set"),
+    ],
+    why=(
+        "Sāriputta himself raises the same question with the "
+        "mendicants that the Buddha raised at AN 11.19, and when they "
+        "formally request that he clarify it himself, he explains: it "
+        "is when a mendicant perceives only that &lsquo;this is "
+        "peaceful, this is sublime&rsquo;, the stilling of all "
+        "activities and the ending of craving &mdash; completing this "
+        "chapter's full set of four variations on the same teaching."),
+    guide=[
+        ("The teaching in one sentence", [
+            "The same immersion beyond all ordinary perception met "
+            "four times across this chapter's closing discourses, "
+            "here volunteered by Sāriputta himself and explained at "
+            "the mendicants' request: perceiving only the peace of "
+            "nibbāna, the stilling of all activities and the ending "
+            "of craving."]),
+        ("The fourth and final combination", [
+            "This discourse completes the chiasm this chapter's "
+            "closing set has built: mendicants asked the Buddha (AN "
+            "11.18), the Buddha volunteered to the mendicants (AN "
+            "11.19), mendicants asked Sāriputta (AN 11.20), and now "
+            "Sāriputta volunteers the same teaching to the "
+            "mendicants unprompted, mirroring AN 11.19's structure "
+            "exactly but with the disciple in the Buddha's role."]),
+        ("The same formal request, given to a disciple", [
+            "The mendicants respond to Sāriputta's own question with "
+            "language echoing, but not identical to, their earlier "
+            "request of the Buddha at AN 11.19: rather than naming "
+            "him root and refuge, they say they would travel a long "
+            "way to learn this from Sāriputta specifically, asking "
+            "him to clarify it in his own presence &mdash; formal "
+            "deference calibrated to a senior disciple rather than "
+            "the teacher himself."]),
+        ("Closing the chapter, and its own colophon", [
+            "This discourse closes Anussativagga, the chapter these "
+            "ten pages have covered, with the traditional colophon "
+            "(&lsquo;Anussativaggo dutiyo&rsquo;, chapter two "
+            "finished, followed by an uddāna summary verse) left "
+            "untranslated in the English source, following this "
+            "project's established convention. With this chapter "
+            "complete, the identical eleven-doors list already met at "
+            "AN 11.16 will recur once more before this nipāta ends, "
+            "at the close of its own Rāgapeyyāla."]),
+    ],
+    terms=[
+        ("tatra kho āyasmā sāriputto bhikkhū āmantesi",
+         "&ldquo;there Sāriputta addressed the mendicants&rdquo; "
+         "&mdash; this discourse's own opening frame, mirroring AN "
+         "11.19's identical frame for the Buddha."),
+        ("dūratopi mayaṁ, āvuso, āgaccheyyāma",
+         "&ldquo;we would travel a long way... reverend&rdquo; "
+         "&mdash; the mendicants' own formal request, calibrated to "
+         "Sāriputta rather than the Buddha."),
+        ("etaṁ santaṁ etaṁ paṇītaṁ",
+         "&ldquo;this is peaceful, this is sublime&rdquo; &mdash; the "
+         "identical closing perception, shared across all four "
+         "discourses of this set and back to AN 11.7-8."),
+        ("Anussativaggo dutiyo",
+         "&ldquo;the chapter on recollection, the second&rdquo; "
+         "&mdash; the untranslated Pāli colophon closing this "
+         "chapter, left in the source without an English rendering."),
+        ("suṇātha sādhukaṁ manasi karotha",
+         "&ldquo;listen and apply your mind well&rdquo; &mdash; "
+         "Sāriputta's own version of the standard formula introducing "
+         "a substantial teaching, identical to the Buddha's own "
+         "phrasing at AN 11.19."),
+    ],
+    text_intro=(
+        "The discourse in full: Sāriputta volunteers the same "
+        "immersion teaching, closing chapter 2. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Sāriputta raises the question himself"),
+        ("p", "&sect;1", "an11.21:1.1-6.3"),
+    ],
+    quiz=[
+        {"q": "Who raises the question in this discourse?",
+         "opts": [
+             "Several unnamed mendicants",
+             "The Buddha",
+             "Venerable Sāriputta, addressing the mendicants",
+             "The householder Dasama"],
+         "correct": 2,
+         "expl": "Mirroring AN 11.19's structure, with a disciple in "
+                 "the Buddha's role."},
+        {"q": "What combination does this discourse complete, "
+              "according to the guide?",
+         "opts": [
+             "The full chiasm: asked/offered, by the Buddha and by "
+             "Sāriputta, across this chapter's closing four "
+             "discourses",
+             "Only a repetition of AN 11.18",
+             "An entirely new teaching",
+             "Nothing in particular"],
+         "correct": 0,
+         "expl": "Mendicants-Buddha, Buddha-mendicants, "
+                 "mendicants-Sāriputta, Sāriputta-mendicants."},
+        {"q": "How do the mendicants phrase their request to "
+              "Sāriputta?",
+         "opts": [
+             "Identical wording to their request of the Buddha at AN "
+             "11.19",
+             "That they would travel a long way to learn this from "
+             "Sāriputta specifically",
+             "They refuse to ask him at all",
+             "They demand he consult the Buddha first"],
+         "correct": 1,
+         "expl": "Formal deference calibrated to a senior disciple "
+                 "rather than the teacher himself."},
+        {"q": "What does this discourse close, according to the "
+              "guide?",
+         "opts": [
+             "Only this single discourse",
+             "Chapter 2, Anussativagga, with the traditional "
+             "untranslated colophon",
+             "The entire nipāta",
+             "Nothing; another chapter follows immediately with no "
+             "closure marked"],
+         "correct": 1,
+         "expl": "\"Anussativaggo dutiyo\", left untranslated per this "
+                 "project's convention."},
+        {"q": "According to the guide, what will recur once more "
+              "before this nipāta ends?",
+         "opts": [
+             "The cowherd simile only",
+             "The identical eleven-doors list met at AN 11.16, at the "
+             "close of the Rāgapeyyāla",
+             "The Mahānāma discourses",
+             "Nothing further recurs"],
+         "correct": 1,
+         "expl": "A fixed list this project has now flagged twice."},
+        {"q": "What is the content of Sāriputta's explanation?",
+         "opts": [
+             "A different teaching from the Buddha's own",
+             "Identical throughout this set: perceiving only that "
+             "this is peaceful, this is sublime",
+             "He redirects the question",
+             "A shortened partial answer"],
+         "correct": 1,
+         "expl": "The same closing formula shared across all four "
+                 "discourses and back to AN 11.7-8."},
+    ],
+    marginalia=[
+        ("The fourth and final door", [
+            "Sāriputta himself",
+            "now offers it, unasked &mdash;",
+            "the set complete at last",
+        ]),
+        ("Travel far to hear it", [
+            "not \"root and refuge\"",
+            "this time, but still a long",
+            "journey, gladly made",
+        ]),
+        ("Closing the chapter", [
+            "Anussativaggo,",
+            "the second &mdash; recollection's",
+            "chapter, now complete",
+        ]),
+        ("Cross-references", [
+            "AN 11.20 &middot; previous, mendicants ask Sāriputta",
+            "AN 11.16 &middot; the eleven-doors list, to recur once "
+            "more at this nipāta's own close",
+            "AN 11.22 &middot; next, opening chapter 3, Sāmaññavagga",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an11.21/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.20.html">AN 11.20</a> &mdash; previous.',
+        '<a href="an-11.22.html">AN 11.22</a> &mdash; next, opening chapter 3.',
     ],
 )
