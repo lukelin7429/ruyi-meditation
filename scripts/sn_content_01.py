@@ -32275,3 +32275,1180 @@ page(
         "the discourse opening this vagga, nine discourses back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.21 — Sambahulasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 21, "Sambahula", "Several",
+    meta_title="SN 4.21 — Several | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sambahulasutta — opening the third and final vagga of the "
+        "Mārasaṃyutta, Māra disguises himself as an old brahmin urging "
+        "young mendicants toward sensual pleasure, and is answered with "
+        "a precise inversion of his own logic. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "In Sakyan territory, near Silāvatī"),
+        ("Speakers", "Several mendicants and Māra the Wicked, "
+                     "disguised as an old brahmin"),
+        ("Form", "A disguised temptation, a precise rebuttal, and the "
+                 "Buddha's later confirmation and verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens this vagga with mendicants, not the "
+                       "Buddha, as Māra's direct target"),
+    ],
+    why=(
+        "This discourse opens the Mārasaṃyutta's third and final vagga "
+        "with a target shift already anticipated at SN 4.16 and SN "
+        "4.17: Māra, disguised as a decrepit old brahmin, approaches "
+        "several young meditating mendicants directly, urging them to "
+        "enjoy sensual pleasures now rather than chase a deferred "
+        "reward &mdash; don't give up what's apparent in the present "
+        "for what takes effect over time. The mendicants answer with a "
+        "precise inversion: it is sensual pleasure that takes effect "
+        "over time, bringing suffering later, while the teaching itself "
+        "is what is genuinely apparent in the present."),
+    guide=[
+        ("Mendicants as the direct target, not merely bystanders", [
+            "Unlike SN 4.16 and SN 4.17, where Māra's community-"
+            "directed tricks were still occasioned by a teaching from "
+            "the Buddha, here he approaches a group of mendicants "
+            "directly and independently, with no Buddha present at "
+            "the moment of the temptation itself."]),
+        ("An old brahmin's argument: seize the present, distrust the deferred", [
+            "Māra's disguise carries its own logic suited to the "
+            "role: an elder's worldly-wise advice, urging the young to "
+            "enjoy &lsquo;what is apparent in the present&rsquo; rather "
+            "than sacrifice youth for a reward that &lsquo;takes effect "
+            "over time&rsquo; &mdash; sensual pleasure framed as the "
+            "genuinely immediate good."]),
+        ("A precise inversion, not a simple denial", [
+            "The mendicants' reply doesn't reject Māra's framework; it "
+            "flips which side of it belongs to which experience: "
+            "sensual pleasures are what actually takes effect over "
+            "time, bringing suffering later, while the teaching is what "
+            "is truly &lsquo;apparent in the present life, immediately "
+            "effective&rsquo; &mdash; Māra's own terms turned against "
+            "his conclusion."]),
+        ("A physical tell of frustration, unusually detailed", [
+            "Unlike this saṃyutta's more common flat departure, "
+            "Māra's reaction here is described with unusual physical "
+            "specificity: shaking his head, waggling his tongue, "
+            "raising his eyebrows into three furrowed lines, before "
+            "leaving leaning on his staff &mdash; visible frustration "
+            "rather than the stock formula."]),
+        ("A verse shared with this saṃyutta's previous vagga-closing discourse", [
+            "The Buddha's closing verse here is identical to SN 4.20's "
+            "&mdash; on seeing where suffering comes from and training "
+            "to remove attachment as a chain &mdash; a repeated "
+            "teaching bridging this new vagga to the one it follows, "
+            "rather than an entirely fresh conclusion."]),
+    ],
+    terms=[
+        ("brāhmaṇavaṇṇa",
+         "&ldquo;the form of a brahmin&rdquo; &mdash; the specific "
+         "disguise Māra adopts, an elder with matted hair and an "
+         "antelope hide."),
+        ("sandiṭṭhika",
+         "&ldquo;apparent in the present&rdquo; &mdash; the contested "
+         "term both Māra and the mendicants use, disagreeing about "
+         "which experience it actually describes."),
+        ("kālika",
+         "&ldquo;taking effect over time&rdquo; &mdash; the other "
+         "contested term, similarly inverted between Māra's framing "
+         "and the mendicants' reply."),
+        ("tiko bhamukaṁ",
+         "&ldquo;three furrows&rdquo; &mdash; the specific detail of "
+         "Māra's frustrated expression, unusually vivid for this "
+         "saṃyutta."),
+        ("saṁyojana",
+         "&ldquo;chain, fetter&rdquo; &mdash; the closing verse's term "
+         "for attachment, identical to SN 4.20's closing image."),
+    ],
+    text_intro=(
+        "The discourse in full, with the mendicants' report to the "
+        "Buddha elided as blank in the source. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.21:1.1-1.4"),
+        ("p", "&sect;2", "sn4.21:1.5-1.7"),
+        ("p", "&sect;3", "sn4.21:1.8-1.11"),
+        ("p", "&sect;4", "sn4.21:1.12-1.12"),
+        ("p", "&sect;5", "sn4.21:2.1-2.1"),
+        ("p", "&sect;6", "sn4.21:3.1-3.2"),
+        ("p", "&sect;7", "sn4.21:3.3-4.4"),
+    ],
+    quiz=[
+        {"q": "What vagga does this discourse open?",
+         "opts": [
+             "The third and final vagga of the Mārasaṃyutta",
+             "The Jīvitavagga, this saṃyutta's first vagga",
+             "An entirely new saṃyutta",
+             "This discourse does not open any vagga"],
+         "correct": 0,
+         "expl": "Following the Niyamavagga (SN 4.11-20)."},
+        {"q": "Who does Māra approach directly in this discourse?",
+         "opts": [
+             "Several young mendicants, with no Buddha present",
+             "The Buddha alone",
+             "Queen Mallikā",
+             "King Pasenadi"],
+         "correct": 0,
+         "expl": "A direct target shift, distinct from SN 4.16 and SN 4.17's community-directed tricks during a Buddha-led teaching."},
+        {"q": "What disguise does Māra adopt?",
+         "opts": [
+             "An old, decrepit brahmin with matted hair and an antelope hide",
+             "An ox threatening alms bowls",
+             "A serpent king",
+             "A farmer looking for oxen"],
+         "correct": 0,
+         "expl": "A disguise suited to his argument: an elder's worldly-wise advice."},
+        {"q": "What does Māra urge the mendicants to do?",
+         "opts": [
+             "Enjoy sensual pleasures now rather than chase a deferred reward",
+             "Abandon the mendicant life immediately",
+             "Attack a rival group of ascetics",
+             "Follow him to a different teacher"],
+         "correct": 0,
+         "expl": "Seize the present, distrust what takes effect over time."},
+        {"q": "How do the mendicants respond to this argument?",
+         "opts": [
+             "By inverting it: sensual pleasures take effect over time, the teaching is truly apparent now",
+             "By agreeing with Māra's framing",
+             "By refusing to answer at all",
+             "By fleeing the scene"],
+         "correct": 0,
+         "expl": "Not rejecting Māra's framework, but flipping which experience belongs to which term."},
+        {"q": "How is Māra's reaction described, unusually for this saṃyutta?",
+         "opts": [
+             "With detailed physical specificity: shaking his head, waggling his tongue, furrowed brow",
+             "With the stock formula alone, no further detail",
+             "As immediately vanishing without any visible reaction",
+             "As laughing and applauding the mendicants' answer"],
+         "correct": 0,
+         "expl": "Visible frustration rather than the more common stock departure formula."},
+        {"q": "What does the Buddha do when the mendicants report what happened?",
+         "opts": [
+             "Confirms it was Māra, not a real brahmin",
+             "Denies that any such encounter occurred",
+             "Punishes the mendicants for engaging with the disguised figure",
+             "Sends them to find the brahmin and apologize"],
+         "correct": 0,
+         "expl": "The same pattern of direct exposure seen at SN 4.16 and SN 4.17."},
+        {"q": "What earlier discourse does this discourse's closing verse repeat?",
+         "opts": [
+             "SN 4.20, on seeing suffering's origin and removing attachment as a chain",
+             "SN 4.1, on mortification",
+             "SN 4.9, on the shortness of life",
+             "SN 4.13, on the two darts"],
+         "correct": 0,
+         "expl": "Bridging this new vagga to the one it follows rather than offering an entirely fresh conclusion."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "In Sakyan territory, near Silāvatī",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree"],
+         "correct": 0,
+         "expl": "A new location for this vagga's opening discourse."},
+        {"q": "What term do both Māra and the mendicants dispute the meaning of?",
+         "opts": [
+             "What counts as “apparent in the present” versus what “takes effect over time”",
+             "The exact number of mendicants present",
+             "The precise age of the disguised brahmin",
+             "The correct location of Silāvatī"],
+         "correct": 0,
+         "expl": "The contested terms both sides use with opposite conclusions."},
+    ],
+    marginalia=[
+        ("An elder's worldly advice", [
+            "seize the present, distrust the deferred &mdash;",
+            "aimed at mendicants, not the Buddha",
+        ]),
+        ("The same terms, flipped", [
+            "pleasure now, or teaching now? &mdash;",
+            "Māra's own framing turned back",
+        ]),
+        ("Three furrows, a visible tell", [
+            "frustration shown, not merely stated &mdash;",
+            "more vivid than the usual departure",
+        ]),
+        ("A verse borrowed from before", [
+            "the same close as SN 4.20 &mdash;",
+            "one vagga's ending, the next's opening",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.20.html">SN 4.20 &middot; Ruling</a> &mdash; the '
+        "discourse immediately before this one, closing the "
+        "Niyamavagga and sharing this discourse's closing verse.",
+        '<a href="sn-4.22.html">SN 4.22 &middot; With Samiddhi</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.22 — Samiddhisutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 22, "Samiddhi", "With Samiddhi",
+    meta_title="SN 4.22 — With Samiddhi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Samiddhisutta — a single mendicant is targeted twice by Māra's "
+        "earth-shattering noise, and on the second attempt defeats him "
+        "single-handedly with his own verse, the first ordinary "
+        "disciple to do so. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In Sakyan territory, near Silāvatī"),
+        ("Speakers", "Venerable Samiddhi, the Buddha, and Māra the "
+                     "Wicked"),
+        ("Form", "A repeated disturbance, the Buddha's first "
+                 "intervention, and a mendicant's own independent "
+                 "victory verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the first discourse in this saṃyutta where a "
+                       "named ordinary disciple, not the Buddha, "
+                       "defeats Māra directly"),
+    ],
+    why=(
+        "This discourse follows a single named mendicant, Samiddhi, "
+        "through two nearly identical encounters. Privately grateful "
+        "for his teacher, his teaching, and his companions, Samiddhi is "
+        "interrupted by Māra's now-familiar earth-shattering noise "
+        "&mdash; the same trick used against the whole community at SN "
+        "4.17. The first time, Samiddhi reports to the Buddha, who "
+        "identifies the trick and sends him back to meditate. The "
+        "second time it happens, Samiddhi doesn't report it at all "
+        "&mdash; he answers Māra directly himself, in his own verse, "
+        "becoming the first ordinary disciple in this saṃyutta to "
+        "defeat Māra independently."),
+    guide=[
+        ("A named individual, tracked across two attempts", [
+            "Unlike this saṃyutta's typical single-encounter structure, "
+            "this discourse follows one specific mendicant through a "
+            "repeated event, letting readers watch not just an outcome "
+            "but a development &mdash; from reporting to the teacher to "
+            "answering independently."]),
+        ("The same trick, reused on a different target", [
+            "The earth-shattering noise is identical to Māra's tactic "
+            "against the whole community at SN 4.17, now redeployed "
+            "against a single meditating disciple &mdash; confirming "
+            "this particular illusion as one of Māra's standard, "
+            "repeatable tools rather than a one-time invention."]),
+        ("The Buddha's first response: send him back, not fight for him", [
+            "After the first disturbance, the Buddha does not confront "
+            "Māra on Samiddhi's behalf; he simply identifies the trick "
+            "and instructs Samiddhi to return to the same spot and "
+            "meditate again &mdash; treating the disturbance as "
+            "something for the disciple himself to work through, not a "
+            "battle for the teacher to fight."]),
+        ("A second attempt, met without any report at all", [
+            "The discourse's structure makes the shift explicit: the "
+            "same private thought recurs, the same noise recurs, but "
+            "this time Samiddhi addresses Māra directly in verse "
+            "himself, without first returning to the Buddha &mdash; the "
+            "training from the first encounter visibly applied "
+            "independently."]),
+        ("A modified refrain marking this achievement", [
+            "Māra's stock closing thought elsewhere in this saṃyutta is "
+            "&lsquo;the Buddha knows me&rsquo;; here it becomes &lsquo;the "
+            "mendicant Samiddhi knows me&rsquo; &mdash; a small but "
+            "deliberate variation in the collection's own formula, "
+            "explicitly crediting an ordinary disciple with the same "
+            "recognition that elsewhere belongs only to the Buddha."]),
+    ],
+    terms=[
+        ("Samiddhi",
+         "&ldquo;Samiddhi&rdquo; &mdash; the mendicant this discourse "
+         "follows, the first ordinary disciple in this saṃyutta to "
+         "independently defeat Māra."),
+        ("bhūmicālasadisa",
+         "&ldquo;as if the earth were shattering&rdquo; &mdash; the "
+         "same illusion already used at SN 4.17, here redeployed "
+         "against a single disciple."),
+        ("saddhāya pabbajito",
+         "&ldquo;gone forth out of faith&rdquo; &mdash; the opening "
+         "phrase of Samiddhi's own answering verse."),
+        ("samāhitacitto",
+         "&ldquo;serene in immersion&rdquo; &mdash; part of Samiddhi's "
+         "self-description, the basis for his claim that Māra's "
+         "illusions won't bother him."),
+        ("Samiddhi maṁ jānāti",
+         "&ldquo;the mendicant Samiddhi knows me&rdquo; &mdash; the "
+         "modified version of this saṃyutta's stock refrain, crediting "
+         "an ordinary disciple rather than only the Buddha."),
+    ],
+    text_intro=(
+        "The discourse in full, with several structurally repeated "
+        "passages elided as blank in the source. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.22:1.1-1.9"),
+        ("p", "&sect;2", "sn4.22:1.10-1.10"),
+        ("p", "&sect;3", "sn4.22:2.1-2.1"),
+        ("p", "&sect;4", "sn4.22:3.1-3.4"),
+        ("p", "&sect;5", "sn4.22:3.5-3.7"),
+        ("p", "&sect;6", "sn4.22:3.8-3.9"),
+        ("p", "&sect;7", "sn4.22:4.1-4.6"),
+        ("p", "&sect;8", "sn4.22:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from most others in this saṃyutta?",
+         "opts": [
+             "It follows one named mendicant through two nearly identical encounters",
+             "It contains no verse at all",
+             "It is set entirely in the Buddha's absence with no report to him",
+             "It features Māra's daughters rather than Māra himself"],
+         "correct": 0,
+         "expl": "Letting readers watch development, not just a single outcome."},
+        {"q": "What was Samiddhi privately reflecting on before Māra's interruption?",
+         "opts": [
+             "His gratitude for his teacher, the teaching, and his spiritual companions",
+             "A plan to leave the mendicant life",
+             "Doubt about his own progress",
+             "A specific philosophical debate"],
+         "correct": 0,
+         "expl": "A grateful private reflection, interrupted by the familiar earth-shattering noise."},
+        {"q": "What trick does Māra use, and where has it appeared before?",
+         "opts": [
+             "The earth-shattering noise, previously used against the whole community at SN 4.17",
+             "An ox threatening alms bowls, as at SN 4.16",
+             "A serpent manifestation, as at SN 4.6",
+             "A claim of ownership over the six senses, as at SN 4.19"],
+         "correct": 0,
+         "expl": "Confirming this illusion as one of Māra's standard, repeatable tools."},
+        {"q": "How does the Buddha respond to the first disturbance?",
+         "opts": [
+             "He identifies the trick and sends Samiddhi back to meditate in the same place",
+             "He personally confronts Māra on Samiddhi's behalf",
+             "He tells Samiddhi to leave that location permanently",
+             "He ignores Samiddhi's report entirely"],
+         "correct": 0,
+         "expl": "Treating the disturbance as something for the disciple to work through himself."},
+        {"q": "How does Samiddhi respond to the second disturbance?",
+         "opts": [
+             "He addresses Māra directly himself, in his own verse, without reporting to the Buddha first",
+             "He reports to the Buddha exactly as before",
+             "He flees the location entirely",
+             "He remains silent and takes no action"],
+         "correct": 0,
+         "expl": "The training from the first encounter visibly applied independently."},
+        {"q": "What does Samiddhi's own verse claim?",
+         "opts": [
+             "That his mindfulness and wisdom are mature, and Māra's illusions won't bother him",
+             "That he is afraid and wishes the Buddha would intervene",
+             "That he doubts his own attainment",
+             "That he will report Māra to the Buddha immediately"],
+         "correct": 0,
+         "expl": "A confident, independent rebuttal in his own words."},
+        {"q": "How does Māra's stock closing thought differ here from elsewhere in this saṃyutta?",
+         "opts": [
+             "It becomes “the mendicant Samiddhi knows me,” crediting an ordinary disciple",
+             "It is identical to every other instance, crediting only the Buddha",
+             "Māra has no closing thought in this discourse",
+             "Māra explicitly denies being recognized"],
+         "correct": 0,
+         "expl": "A deliberate variation in the collection's own formula."},
+        {"q": "What significance does this discourse hold as a “first” in this saṃyutta?",
+         "opts": [
+             "The first ordinary disciple, not the Buddha, to independently defeat Māra",
+             "The first discourse to feature any verse at all",
+             "The first discourse set outside of Sāvatthī or Rājagaha",
+             "The first discourse where Māra never appears"],
+         "correct": 0,
+         "expl": "A milestone the reading guide highlights as significant to this saṃyutta's development."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "In Sakyan territory, near Silāvatī",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree"],
+         "correct": 0,
+         "expl": "The same location as SN 4.21, this vagga's opening discourse."},
+        {"q": "What does the Buddha's instruction to “go back to that same place” suggest about his approach?",
+         "opts": [
+             "That the appropriate response to disturbance is continued, disciplined practice, not avoidance",
+             "That the location itself was cursed and needed to be abandoned",
+             "That Samiddhi had misunderstood what happened",
+             "That the Buddha wanted to investigate the location himself"],
+         "correct": 0,
+         "expl": "Facing the same circumstance again rather than fleeing it."},
+    ],
+    marginalia=[
+        ("So fortunate, he reflects", [
+            "teacher, teaching, companions &mdash;",
+            "interrupted by a familiar noise",
+        ]),
+        ("Go back, meditate again", [
+            "not a rescue, but instruction &mdash;",
+            "the disciple's own work to do",
+        ]),
+        ("The second time, no report", [
+            "Samiddhi answers Māra himself &mdash;",
+            "training applied independently",
+        ]),
+        ("Samiddhi knows me", [
+            "the refrain modified for once &mdash;",
+            "an ordinary disciple, credited fully",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.17.html">SN 4.17 &middot; The Six Fields of '
+        "Contact</a> &mdash; this saṃyutta's earlier use of the same "
+        "earth-shattering illusion.",
+        '<a href="sn-4.21.html">SN 4.21 &middot; Several</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-4.23.html">SN 4.23 &middot; With Godhika</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.23 — Godhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 23, "Godhika", "With Godhika",
+    meta_title="SN 4.23 — With Godhika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Godhikasutta — after six relapses from temporary freedom of "
+        "heart, Venerable Godhika takes his own life; Māra rushes to "
+        "stop him too late, and searches in vain for a consciousness "
+        "that is no longer anywhere to be found. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove, and at the "
+                    "Black Rock on the slopes of Isigili"),
+        ("Speakers", "Venerable Godhika, the Buddha, Māra the Wicked, "
+                     "and the assembled mendicants"),
+        ("Form", "A repeated pattern of attainment and relapse, a "
+                 "suicide, Māra's plea arriving too late, and the "
+                 "Buddha's confirming visit to the site"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the most difficult and debated discourse in "
+                       "this saṃyutta, treated here without softening "
+                       "or moralizing"),
+    ],
+    why=(
+        "This is the most difficult and long-debated discourse in the "
+        "Mārasaṃyutta. Venerable Godhika attains &lsquo;temporary "
+        "freedom of heart&rsquo; through meditation six separate times, "
+        "and falls away from it six separate times. Attaining it a "
+        "seventh time, he considers taking his own life rather than "
+        "risk a seventh relapse. Māra, reading his intention, rushes "
+        "not to Godhika but to the Buddha, pleading with him to "
+        "intervene &mdash; and arrives to learn Godhika has already "
+        "died. The Buddha's own verse does not condemn the act but "
+        "affirms it: craving uprooted entirely, Godhika is "
+        "&lsquo;quenched&rsquo;. What follows is stranger still: Māra "
+        "himself, visible as a cloud of black smoke, searches every "
+        "direction for Godhika's consciousness and cannot find it "
+        "anywhere, because it has not been reestablished anywhere at "
+        "all."),
+    guide=[
+        ("A pattern of repeated attainment and repeated loss", [
+            "The opening narrative's structure &mdash; six full cycles "
+            "of attaining and falling from &lsquo;temporary freedom of "
+            "heart&rsquo; (a meditative state distinct from permanent, "
+            "irreversible liberation) &mdash; is stated with "
+            "deliberate, almost clinical repetition, establishing "
+            "Godhika's specific situation before his own reasoning is "
+            "given."]),
+        ("A choice made from a specific fear, not despair in general", [
+            "Godhika's own stated reasoning is narrow and specific: "
+            "having fallen away six times already, he considers ending "
+            "his life rather than risk falling away a seventh time from "
+            "an attainment he has just reached again &mdash; a decision "
+            "this text does not explain further or editorialize about, "
+            "presenting it as Godhika's own conclusion rather than "
+            "supplying independent commentary on it."]),
+        ("Māra's plea, arriving after the fact", [
+            "Māra's urgent appeal to the Buddha &mdash; &lsquo;stop "
+            "him, O light-bringer&rsquo; &mdash; is delivered in verse, "
+            "with real formal reverence toward the Buddha, but by the "
+            "time it is spoken, the narrative has already stated "
+            "Godhika &lsquo;had already committed suicide&rsquo; "
+            "&mdash; Māra's urgency is genuine within the story but "
+            "structurally too late to matter."]),
+        ("An affirmation, not a condemnation, in the Buddha's own verse", [
+            "The Buddha's reply to Māra does not treat Godhika's death "
+            "as a failure or a tragedy to be mourned in the ordinary "
+            "sense; it states plainly that &lsquo;the attentive act "
+            "like this, for they don't long for life&rsquo;, and that "
+            "having plucked out craving root and all, Godhika is "
+            "quenched &mdash; parinibbāna, not merely death, the "
+            "framing this discourse itself insists on."]),
+        ("A search that fails because there is nothing left to find", [
+            "The discourse's strangest image comes last: Māra, "
+            "manifest as a cloud of black smoke, searches every "
+            "direction for where Godhika's consciousness has "
+            "&lsquo;established&rsquo; itself, and the Buddha explains "
+            "that the search is futile not because Godhika is hidden "
+            "but because his consciousness is not established anywhere "
+            "&mdash; the absence of a locatable rebirth serving as its "
+            "own proof of complete quenching, closing with Māra's harp "
+            "dropping from his arm in genuine grief."]),
+    ],
+    terms=[
+        ("sāmāyika cetovimutti",
+         "&ldquo;temporary freedom of heart&rdquo; &mdash; the "
+         "meditative attainment Godhika reaches and falls from six "
+         "times, distinct from permanent liberation."),
+        ("Isigili",
+         "&ldquo;Isigili&rdquo; &mdash; the mountain slope, at the "
+         "Black Rock, where Godhika meditates and where he dies."),
+        ("satthahāraka",
+         "&ldquo;committed suicide&rdquo; (literally, brought a "
+         "blade) &mdash; the narrative's own plain term for Godhika's "
+         "act."),
+        ("parinibbuta",
+         "&ldquo;quenched&rdquo; &mdash; the Buddha's own term for "
+         "Godhika's death, framing it as complete liberation rather "
+         "than ordinary ending."),
+        ("viññāṇaṁ appatiṭṭhitaṁ",
+         "&ldquo;consciousness&hellip;not established&rdquo; &mdash; "
+         "the Buddha's explanation for why Māra's search, visible as "
+         "black smoke, finds nothing anywhere."),
+    ],
+    text_intro=(
+        "The discourse in full: Godhika's repeated attainment and "
+        "relapse, his death, Māra's too-late plea, and the Buddha's "
+        "confirming visit to the site. This reading guide presents the "
+        "discourse as the source frames it, without softening or "
+        "moralizing its most difficult content. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.23:1.1-1.16"),
+        ("p", "&sect;2", "sn4.23:2.1-2.3"),
+        ("p", "&sect;3", "sn4.23:2.4-2.4"),
+        ("p", "&sect;4", "sn4.23:3.1-3.4"),
+        ("p", "&sect;5", "sn4.23:4.1-5.4"),
+        ("p", "&sect;6", "sn4.23:6.1-6.1"),
+        ("p", "&sect;7", "sn4.23:6.2-7.4"),
+        ("p", "&sect;8", "sn4.23:8.1-9.3"),
+        ("p", "&sect;9", "sn4.23:10.1-10.6"),
+        ("p", "&sect;10", "sn4.23:10.7-11.4"),
+        ("p", "&sect;11", "sn4.23:12.1-13.4"),
+        ("p", "&sect;12", "sn4.23:14.1-14.4"),
+    ],
+    quiz=[
+        {"q": "What pattern does the discourse's opening describe for Venerable Godhika?",
+         "opts": [
+             "Attaining “temporary freedom of heart” and falling away from it, six full times",
+             "A single unbroken meditative attainment lasting many years",
+             "A gradual progression through the four jhānas without setback",
+             "A series of doctrinal debates with other mendicants"],
+         "correct": 0,
+         "expl": "Stated with deliberate, almost clinical repetition before his own reasoning is given."},
+        {"q": "What does Godhika consider after attaining the state a seventh time?",
+         "opts": [
+             "Taking his own life rather than risk a seventh relapse",
+             "Asking the Buddha for direct guidance",
+             "Abandoning meditation practice entirely",
+             "Traveling to a different location to meditate"],
+         "correct": 0,
+         "expl": "A choice made from a specific, stated fear, not despair in general."},
+        {"q": "What does Māra do upon reading Godhika's intention?",
+         "opts": [
+             "Rushes to the Buddha, pleading with him to stop Godhika",
+             "Rushes directly to Godhika to intervene himself",
+             "Ignores the situation entirely",
+             "Manifests as an animal to frighten Godhika away from the act"],
+         "correct": 0,
+         "expl": "An appeal to the Buddha, delivered in verse with genuine urgency."},
+        {"q": "By the time Māra's plea is delivered, what has already happened?",
+         "opts": [
+             "Godhika had already committed suicide",
+             "Godhika had changed his mind entirely",
+             "The Buddha had already intervened successfully",
+             "Godhika had achieved permanent liberation without dying"],
+         "correct": 0,
+         "expl": "Māra's urgency is genuine within the story but structurally too late to matter."},
+        {"q": "How does the Buddha's verse characterize Godhika's death?",
+         "opts": [
+             "As quenching (parinibbāna): craving uprooted entirely, not an ordinary loss",
+             "As a tragic failure to be mourned in the ordinary sense",
+             "As a mistake the Buddha wishes had been prevented",
+             "The Buddha declines to comment on it at all"],
+         "correct": 0,
+         "expl": "An affirmation, not a condemnation, framing the act on the text's own terms."},
+        {"q": "What does the Buddha and the mendicants see when they visit the site afterward?",
+         "opts": [
+             "Godhika's body, and a cloud of black smoke moving in every direction",
+             "An empty meditation cushion with no other trace",
+             "A group of villagers mourning Godhika's death",
+             "Māra's daughters performing a ritual"],
+         "correct": 0,
+         "expl": "The smoke is identified as Māra himself, searching for Godhika's consciousness."},
+        {"q": "Why does the Buddha say Māra's search fails?",
+         "opts": [
+             "Because Godhika's consciousness is not established anywhere at all",
+             "Because Māra is searching in the wrong location entirely",
+             "Because Godhika's consciousness has been reborn instantly and invisibly",
+             "Because the Buddha has hidden Godhika's consciousness from Māra"],
+         "correct": 0,
+         "expl": "The absence of a locatable rebirth serving as its own proof of complete quenching."},
+        {"q": "How does the discourse close?",
+         "opts": [
+             "Māra's harp drops from his arm as he vanishes, genuinely stricken with grief",
+             "Māra celebrates having finally defeated a disciple",
+             "The mendicants debate whether Godhika's act was appropriate",
+             "The Buddha delivers a lengthy prohibition against suicide"],
+         "correct": 0,
+         "expl": "Grief the text presents as real, not mocked or dismissed."},
+        {"q": "How does this reading guide approach the discourse's most difficult content?",
+         "opts": [
+             "By presenting the discourse as the source frames it, without softening or moralizing",
+             "By omitting the suicide entirely from the summary",
+             "By adding a modern ethical commentary condemning the act",
+             "By reinterpreting the death as a metaphor rather than a literal event"],
+         "correct": 0,
+         "expl": "The stated approach of this reading guide toward this discourse's difficult material."},
+        {"q": "Where is the second half of this discourse set?",
+         "opts": [
+             "At the Black Rock on the slopes of Isigili",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "Where Godhika had been meditating and where he died, visited afterward by the Buddha and the mendicants."},
+    ],
+    marginalia=[
+        ("Six times attained, six times lost", [
+            "a seventh reached, then a choice made &mdash;",
+            "stated plainly, without added judgment",
+        ]),
+        ("Māra's plea, too late", [
+            "stop him, he begs the Buddha &mdash;",
+            "already done by the time it's spoken",
+        ]),
+        ("Quenched, not merely dead", [
+            "craving uprooted entirely &mdash;",
+            "the Buddha's own word for it",
+        ]),
+        ("Smoke, searching, finding nothing", [
+            "no consciousness established anywhere &mdash;",
+            "absence itself the proof",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.22.html">SN 4.22 &middot; With Samiddhi</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-4.24.html">SN 4.24 &middot; Seven Years of '
+        "Pursuit</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.24 — Sattavassānubandhasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 24, "Sattavassānubandha", "Seven Years of Pursuit",
+    meta_title="SN 4.24 — Seven Years of Pursuit | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sattavassānubandhasutta — after seven fruitless years hunting "
+        "for a weakness, Māra admits defeat through the simile of a "
+        "crab stripped of its claws, and leaves comparing himself to a "
+        "disappointed crow. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Uruvelā, at the goatherd's banyan tree on the "
+                    "bank of the Nerañjarā River"),
+        ("Speakers", "The Buddha and Māra the Wicked"),
+        ("Form", "A retrospective confession spanning seven years, "
+                 "recycled earlier exchanges, and two new closing "
+                 "similes of total futility"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "retrospective discourse best read after this "
+                       "saṃyutta's other exchanges, which it explicitly "
+                       "recalls"),
+    ],
+    why=(
+        "Returning to Uruvelā, the very site of SN 4.1, this discourse "
+        "reveals a detail spanning this saṃyutta's entire timeline: "
+        "Māra has been pursuing the Buddha for seven years, hoping to "
+        "find a vulnerability, without success. After a probing "
+        "exchange that recycles verses already heard at SN 4.19, Māra "
+        "does something unprecedented &mdash; he explains his own "
+        "defeat directly to the Buddha, comparing himself to a crab "
+        "whose every claw has been broken off, no longer able to "
+        "retreat into the water where it once lived, before comparing "
+        "himself to a disappointed crow pecking at a stone that only "
+        "looked like food."),
+    guide=[
+        ("A return to the beginning, with an admission attached", [
+            "This discourse's Uruvelā setting deliberately recalls SN "
+            "4.1, this saṃyutta's opening confrontation at the same "
+            "location; unlike that discourse's confident taunt, this "
+            "one opens by stating outright, before any exchange begins, "
+            "that seven years of pursuit have already failed."]),
+        ("Verses recycled, not merely echoed", [
+            "The middle exchange &mdash; Māra's claim about things "
+            "called &lsquo;mine&rsquo;, the Buddha's reply that Māra "
+            "&lsquo;won't even see the path I take&rsquo; &mdash; is "
+            "not a variation but a direct repetition of SN 4.19's own "
+            "verses, this discourse explicitly drawing on the "
+            "saṃyutta's own accumulated history rather than staging a "
+            "fresh confrontation."]),
+        ("A challenge about teaching others, unique to this exchange", [
+            "Māra's question &mdash; if you've found a path safe and "
+            "leading past death, why not walk it alone rather than "
+            "teach it? &mdash; is new to this discourse, probing "
+            "whether the Buddha's compassion for others might itself "
+            "be a vulnerability, answered by the image of those "
+            "crossing to the far shore asking what lies beyond death's "
+            "domain."]),
+        ("A crab stripped of every claw", [
+            "Māra's own extended simile, addressed directly and "
+            "sincerely to the Buddha rather than as a taunt, describes "
+            "children pulling a crab from a pond and breaking off each "
+            "claw in turn until it can no longer return to the water "
+            "&mdash; mapping his own repeatedly foiled attempts onto "
+            "an image of complete, permanent disablement."]),
+        ("A crow that finds nothing tasty", [
+            "The closing simile shifts from disablement to simple "
+            "disappointment: a crow circles a stone shaped like fat, "
+            "hoping for something tender, and finds nothing, leaving "
+            "&mdash; Māra's own chosen image for his seven years of "
+            "fruitless pursuit, delivered not as anger but as "
+            "resignation."]),
+    ],
+    terms=[
+        ("sattavassāni",
+         "&ldquo;seven years&rdquo; &mdash; the span of Māra's "
+         "pursuit, stated outright at this discourse's opening."),
+        ("otāra",
+         "&ldquo;vulnerability, opening&rdquo; &mdash; what Māra has "
+         "been searching for across those seven years, without "
+         "success."),
+        ("kakkaṭaka",
+         "&ldquo;crab&rdquo; &mdash; the central image of Māra's own "
+         "extended simile, its claws broken off one by one."),
+        ("kāka",
+         "&ldquo;crow&rdquo; &mdash; the closing simile's figure, "
+         "circling a stone that only resembled food."),
+        ("nikkaṇṭaka",
+         "&ldquo;disappointed&rdquo; (literally, one from whom the "
+         "thorn has been drawn, here used ironically of frustrated "
+         "hope) &mdash; the tone of Māra's final verses in this "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full: the opening admission of seven failed "
+        "years, the recycled exchange, and Māra's own two closing "
+        "similes of defeat. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.24:1.1-1.4"),
+        ("p", "&sect;2", "sn4.24:2.1-2.5"),
+        ("p", "&sect;3", "sn4.24:3.1-3.4"),
+        ("p", "&sect;4", "sn4.24:4.1-4.4"),
+        ("p", "&sect;5", "sn4.24:5.1-5.4"),
+        ("p", "&sect;6", "sn4.24:6.1-6.4"),
+        ("p", "&sect;7", "sn4.24:7.1-7.4"),
+        ("p", "&sect;8", "sn4.24:8.1-8.8"),
+        ("p", "&sect;9", "sn4.24:9.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse reveal at its opening?",
+         "opts": [
+             "Māra has been pursuing the Buddha for seven years, hoping to find a vulnerability, without success",
+             "Māra has just begun his very first attempt to tempt the Buddha",
+             "The Buddha has decided to leave Uruvelā permanently",
+             "Māra has already succeeded in tempting a different disciple"],
+         "correct": 0,
+         "expl": "A retrospective statement spanning this saṃyutta's entire timeline."},
+        {"q": "What location does this discourse return to, and what does it recall?",
+         "opts": [
+             "Uruvelā, deliberately recalling SN 4.1, this saṃyutta's opening confrontation",
+             "Vesālī, recalling SN 4.17",
+             "Pañcasālā, recalling SN 4.18",
+             "No specific earlier discourse is recalled"],
+         "correct": 0,
+         "expl": "The same site as this saṃyutta's very first discourse, now framed by seven years of failure."},
+        {"q": "What earlier discourse's verses does the middle exchange repeat directly?",
+         "opts": [
+             "SN 4.19's verses on “mine” and the path Māra cannot even see",
+             "SN 4.13's verses on the two darts",
+             "SN 4.9's verses on lifespan",
+             "SN 4.6's verses on the earth splitting"],
+         "correct": 0,
+         "expl": "A direct repetition rather than a fresh variation, drawing explicitly on the saṃyutta's accumulated history."},
+        {"q": "What new challenge does Māra raise in this discourse?",
+         "opts": [
+             "If the Buddha has found a safe path, why teach it to others rather than walk it alone?",
+             "A claim that the Buddha's teaching is doctrinally false",
+             "A demand that the Buddha renounce all mendicant followers",
+             "A question about the exact location of Godhika's rebirth"],
+         "correct": 0,
+         "expl": "Probing whether compassion for others might itself be a vulnerability."},
+        {"q": "How does the Buddha answer this challenge about teaching others?",
+         "opts": [
+             "Those crossing to the far shore ask what lies beyond death's domain, and he explains it to them",
+             "By refusing to answer the question at all",
+             "By agreeing that he should stop teaching others",
+             "By asking Māra to propose an alternative"],
+         "correct": 0,
+         "expl": "Framing teaching as a response to others' own questions, not a vulnerability."},
+        {"q": "What simile does Māra use to describe his own repeated failures?",
+         "opts": [
+             "A crab whose claws are broken off one by one until it cannot return to the water",
+             "A fish caught in a net",
+             "A moth drawn again and again to a flame",
+             "A tree that regrows no matter how often it is cut"],
+         "correct": 0,
+         "expl": "Mapping his own foiled attempts onto an image of complete, permanent disablement."},
+        {"q": "How is this simile delivered, unusually for Māra's speech in this saṃyutta?",
+         "opts": [
+             "Directly and sincerely to the Buddha, not as a taunt",
+             "As a mocking challenge, as in most earlier discourses",
+             "Through a disguised third party",
+             "In a private thought never spoken aloud"],
+         "correct": 0,
+         "expl": "A genuine admission rather than the confrontational register typical of this saṃyutta."},
+        {"q": "What closing simile does Māra use before leaving?",
+         "opts": [
+             "A crow circling a stone shaped like fat, finding nothing tasty, and leaving",
+             "A serpent shedding its skin",
+             "An elephant trumpeting in defeat",
+             "A fire finally extinguished by rain"],
+         "correct": 0,
+         "expl": "Māra's own chosen image for his seven years of fruitless pursuit, delivered as resignation."},
+        {"q": "What tone does the reading guide attribute to Māra's final verses in this discourse?",
+         "opts": [
+             "Resignation, not anger",
+             "Continued open hostility and threat",
+             "Triumphant mockery",
+             "Complete indifference to the outcome"],
+         "correct": 0,
+         "expl": "A marked shift from this saṃyutta's more combative confrontations."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Uruvelā, at the goatherd's banyan tree on the bank of the Nerañjarā River",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same location as SN 4.1, this saṃyutta's opening discourse."},
+    ],
+    marginalia=[
+        ("Seven years, stated outright", [
+            "no vulnerability ever found &mdash;",
+            "an admission before the exchange begins",
+        ]),
+        ("Verses heard before, repeated", [
+            "mine, and the path unseen &mdash;",
+            "this saṃyutta recalling itself",
+        ]),
+        ("A crab, every claw broken", [
+            "no return to the water left &mdash;",
+            "sincere confession, not a taunt",
+        ]),
+        ("A crow, pecking a stone", [
+            "nothing tender found there &mdash;",
+            "resignation closing seven years",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.1.html">SN 4.1 &middot; Mortification</a> '
+        "&mdash; this saṃyutta's opening discourse, at the same "
+        "Uruvelā location this one returns to.",
+        '<a href="sn-4.19.html">SN 4.19 &middot; A Farmer</a> &mdash; '
+        "the earlier discourse whose verses this one repeats directly.",
+        '<a href="sn-4.23.html">SN 4.23 &middot; With Godhika</a> '
+        "&mdash; the discourse immediately before this one.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.25 — Māradhītusutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 25, "Māradhītu", "Māra's Daughters",
+    meta_title="SN 4.25 — Māra's Daughters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Māradhītusutta — Craving, Malignancy, and Lust attempt to "
+        "seduce the Buddha through every stage of feminine form, are "
+        "questioned and answered in turn, and are finally brushed off "
+        "like a fallen tuft in the wind. The Linked Discourses with "
+        "Māra are complete. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Continuing directly from SN 4.24, near where Māra "
+                    "sits in dejection"),
+        ("Speakers", "Māra the Wicked, his daughters Craving, "
+                     "Malignancy, and Lust, and the Buddha"),
+        ("Form", "A mythological grand finale: an offer, a failed "
+                 "seduction through every stage of feminine form, "
+                 "individual verse exchanges, and a closing colophon"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the longest, most mythologically developed, "
+                       "and final discourse of this entire saṃyutta"),
+    ],
+    why=(
+        "This discourse closes the Mārasaṃyutta with its richest "
+        "mythological episode: seeing their father sitting dejected, "
+        "scratching the ground with a stick after SN 4.24's admission "
+        "of defeat, Māra's three daughters &mdash; Craving, "
+        "Malignancy, and Lust &mdash; offer to capture the Buddha for "
+        "him &lsquo;like an elephant in the wild&rsquo;. Told he has "
+        "already slipped entirely free of Māra's dominion, they try "
+        "anyway, manifesting as a hundred women at every stage of "
+        "life, from young maidens to old women, and are ignored every "
+        "single time. Failing at seduction, they turn to individual "
+        "questioning, each engaging the Buddha in verse before "
+        "returning to their father, who mocks their effort as more "
+        "futile than digging a hill with fingernails. The book itself "
+        "ends here, on its own translated closing line: &lsquo;The "
+        "Linked Discourses with Māra are complete.&rsquo;"),
+    guide=[
+        ("A direct continuation, not a fresh scene", [
+            "This discourse opens exactly where SN 4.24 left off "
+            "&mdash; Māra still sitting dejected after his own admission "
+            "of seven years' failure &mdash; making this saṃyutta's "
+            "final two discourses effectively a single extended "
+            "episode split across two entries."]),
+        ("Daughters offering to succeed where the father failed", [
+            "Craving, Malignancy, and Lust propose capturing the "
+            "Buddha &lsquo;with the snare of lust, like an elephant in "
+            "the wild&rsquo;, a confident offer their own father "
+            "immediately dismisses &mdash; he already knows, from long "
+            "experience, that the Buddha has slipped entirely free of "
+            "his dominion."]),
+        ("Every stage of feminine form, exhaustively attempted", [
+            "The daughters' campaign is systematic rather than a "
+            "single attempt: young maidens, women who have never given "
+            "birth, women who have given birth once, twice, "
+            "middle-aged women, old women &mdash; an exhaustive "
+            "catalogue of feminine form across an entire lifespan, each "
+            "one met with the identical, unwavering result."]),
+        ("Ignored, not merely refused", [
+            "The refrain repeated after each failed manifestation "
+            "&mdash; the Buddha &lsquo;ignored them, since he was freed "
+            "with the supreme ending of attachments&rsquo; &mdash; is "
+            "notably different from active rejection or argument; there "
+            "is nothing in him for the offer to engage with at all."]),
+        ("Three individual questions, three precise answers", [
+            "Having exhausted seduction, each daughter shifts register "
+            "entirely, questioning the Buddha directly in verse: "
+            "Craving asks about his solitude, Malignancy asks how a "
+            "mendicant who has crossed five floods meditates while "
+            "crossing the sixth, and Lust warns that he will lead many "
+            "men away from Māra's grip &mdash; each met with a doctrinally "
+            "precise answer rather than dismissal, the Buddha engaging "
+            "seriously with questions asked seriously."]),
+        ("A father's mockery, and the collection's own final line", [
+            "Māra's closing similes for his daughters' failure &mdash; "
+            "drilling a mountain with a lotus stalk, chewing iron, "
+            "digging a hill with fingernails &mdash; escalate the "
+            "futility imagery already established at SN 4.24's crab and "
+            "crow, before the narrative's own summary line and this "
+            "collection's single translated closing colophon bring the "
+            "entire Mārasaṃyutta to its formal close."]),
+    ],
+    terms=[
+        ("Taṇhā Arati Ragā",
+         "&ldquo;Craving, Malignancy, and Lust&rdquo; &mdash; Māra's "
+         "three daughters, personifications who attempt to succeed "
+         "where their father failed."),
+        ("vasaṁ",
+         "&ldquo;sway, dominion&rdquo; &mdash; what Māra says the "
+         "Buddha has &lsquo;slipped free of&rsquo;, the reason he "
+         "doubts his daughters' plan from the start."),
+        ("upādāya vusitattā",
+         "&ldquo;freed with the supreme ending of attachments&rdquo; "
+         "&mdash; the recurring explanation for why the Buddha simply "
+         "ignores each manifestation."),
+        ("pañca ogha, chaṭṭha",
+         "&ldquo;five floods&hellip;the sixth&rdquo; &mdash; "
+         "Malignancy's specific doctrinal question, about crossing the "
+         "subtlest remaining attachment after the grosser ones."),
+        ("vātena puthulomaṁva",
+         "&ldquo;like the gale, a fallen tuft&rdquo; &mdash; the "
+         "narrative's own closing image for how easily the Teacher "
+         "brushes the daughters off."),
+    ],
+    text_intro=(
+        "The discourse in full, with several structurally repeated "
+        "manifestations elided as blank in the source, closing on the "
+        "collection's own translated colophon, quoted here verbatim "
+        "following the same practice used at SN 1.81 and SN 2.30. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.25:1.1-1.2"),
+        ("p", "&sect;2", "sn4.25:2.1-2.6"),
+        ("p", "&sect;3", "sn4.25:3.1-3.4"),
+        ("p", "&sect;4", "sn4.25:4.1-4.3"),
+        ("p", "&sect;5", "sn4.25:5.1-5.6"),
+        ("p", "&sect;6", "sn4.25:6.1-6.6"),
+        ("p", "&sect;7", "sn4.25:9.5-9.7"),
+        ("p", "&sect;8", "sn4.25:10.1-10.4"),
+        ("p", "&sect;9", "sn4.25:11.1-11.2"),
+        ("p", "&sect;10", "sn4.25:12.1-14.5"),
+        ("p", "&sect;11", "sn4.25:15.1-18.4"),
+        ("p", "&sect;12", "sn4.25:19.1-21.4"),
+        ("p", "&sect;13", "sn4.25:22.1-24.4"),
+        ("p", "&sect;14", "sn4.25:25.1-25.4"),
+        ("p", "&sect;15", "sn4.25:26.5-26.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse begin, relative to SN 4.24?",
+         "opts": [
+             "Directly continuing from where it left off, with Māra still dejected",
+             "As an entirely separate scene, unconnected to SN 4.24",
+             "Years after the events of SN 4.24",
+             "With Māra having already recovered from his defeat"],
+         "correct": 0,
+         "expl": "Making the saṃyutta's final two discourses effectively one extended episode."},
+        {"q": "What do Māra's three daughters offer to do?",
+         "opts": [
+             "Capture the Buddha for their father “like an elephant in the wild”",
+             "Debate the Buddha on points of doctrine",
+             "Warn the Buddha's disciples away from him",
+             "Physically attack the Buddha"],
+         "correct": 0,
+         "expl": "A confident offer their own father immediately doubts."},
+        {"q": "How does Māra respond to his daughters' confidence?",
+         "opts": [
+             "He explains the Buddha has already slipped entirely free of his dominion",
+             "He forbids them from attempting it",
+             "He eagerly agrees and joins their plan",
+             "He laughs and dismisses the entire idea as pointless"],
+         "correct": 0,
+         "expl": "Speaking from long experience of his own repeated failure."},
+        {"q": "How systematic is the daughters' campaign of seduction?",
+         "opts": [
+             "Exhaustive: young maidens through old women, every stage of feminine form attempted",
+             "A single attempt, quickly abandoned",
+             "Limited to only one specific age category",
+             "Entirely verbal, with no manifestation involved"],
+         "correct": 0,
+         "expl": "An exhaustive catalogue across an entire lifespan, each met with the same result."},
+        {"q": "How does the text describe the Buddha's response to each attempt?",
+         "opts": [
+             "He ignores them, since he was freed with the supreme ending of attachments",
+             "He argues against each manifestation in turn",
+             "He becomes visibly angry",
+             "He flees the location"],
+         "correct": 0,
+         "expl": "Notably different from active rejection — nothing in him for the offer to engage with."},
+        {"q": "What do the daughters do after seduction fails entirely?",
+         "opts": [
+             "Each questions the Buddha individually in verse, seriously rather than seductively",
+             "They give up and leave immediately without further attempt",
+             "They attack the Buddha physically",
+             "They return to manifesting as animals instead"],
+         "correct": 0,
+         "expl": "A shift in register from seduction to genuine doctrinal questioning."},
+        {"q": "What does Malignancy specifically ask the Buddha?",
+         "opts": [
+             "How a mendicant who has crossed five floods meditates while crossing the sixth",
+             "How many years he has been teaching",
+             "Whether he fears death",
+             "Where Godhika's consciousness has gone"],
+         "correct": 0,
+         "expl": "A precise doctrinal question, met with an equally precise answer."},
+        {"q": "How does the Buddha respond to these individual questions?",
+         "opts": [
+             "With doctrinally precise answers, engaging seriously rather than dismissing them",
+             "By refusing to answer any of them",
+             "By asking Māra to answer on his daughters' behalf",
+             "With the same ignoring response used during the seduction attempts"],
+         "correct": 0,
+         "expl": "A different register from the earlier manifestations — genuine engagement with genuine questions."},
+        {"q": "What similes does Māra use to mock his daughters' failed effort?",
+         "opts": [
+             "Drilling a mountain with a lotus stalk, chewing iron, digging a hill with fingernails",
+             "Praise for a job well attempted despite the outcome",
+             "A comparison to his own earlier crab and crow similes at SN 4.24, praising the parallel",
+             "No similes are used; he simply expresses anger"],
+         "correct": 0,
+         "expl": "Escalating the futility imagery already established at SN 4.24's crab and crow."},
+        {"q": "How does this discourse, and the entire Mārasaṃyutta, close?",
+         "opts": [
+             "With the translated colophon: “The Linked Discourses with Māra are complete”",
+             "With Māra vowing eternal revenge",
+             "With the daughters successfully seducing a different disciple",
+             "With no formal closing at all"],
+         "correct": 0,
+         "expl": "The same translated-colophon practice used at SN 1.81 and SN 2.30, formally closing this saṃyutta."},
+    ],
+    marginalia=[
+        ("Daughters, offering to succeed", [
+            "where their father just failed &mdash;",
+            "he already doubts it will work",
+        ]),
+        ("Every age, exhaustively tried", [
+            "maiden to old woman, all of them &mdash;",
+            "ignored, not merely refused",
+        ]),
+        ("Three questions, seriously asked", [
+            "five floods, a sixth still to cross &mdash;",
+            "answered with doctrine, not dismissal",
+        ]),
+        ("A lotus stalk against a mountain", [
+            "the father's own mockery of the attempt &mdash;",
+            "then the book's single closing line",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.81.html">SN 1.81 &middot; Free of Strife</a> '
+        "&mdash; the earlier discourse sharing this one's translated "
+        "closing colophon.",
+        '<a href="sn-2.30.html">SN 2.30 &middot; Disciples of Various '
+        "Sectarians</a> &mdash; this collection's other closing "
+        "colophon, ending the Devaputtasaṃyutta.",
+        '<a href="sn-4.24.html">SN 4.24 &middot; Seven Years of '
+        "Pursuit</a> &mdash; the discourse immediately before this "
+        "one, of which this is a direct continuation.",
+    ],
+)
