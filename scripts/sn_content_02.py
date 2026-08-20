@@ -7442,3 +7442,2328 @@ page(
         "&mdash; opening Gahapativagga, this book's fifth chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.41 — Pañcaverabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 41, "Pañcaverabhaya", "Fears and Enmities",
+    meta_title="SN 12.41 — Fears and Enmities | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcaverabhayasutta — opening Gahapativagga, the Buddha "
+        "gives the householder Anāthapiṇḍika a precise three-part "
+        "self-test for stream-entry: five fears quelled, four "
+        "factors possessed, and the noble system seen with wisdom. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the householder Anāthapiṇḍika"),
+        ("Form", "A structured self-test in three parts, each "
+                 "unpacked in turn, framed by an identical opening "
+                 "and closing declaration"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "structurally clear, though its three parts "
+                       "each carry real doctrinal weight"),
+    ],
+    why=(
+        "Opening Gahapativagga, this discourse gives the householder "
+        "Anāthapiṇḍika &mdash; the wealthy donor of Jeta's Grove, "
+        "encountered elsewhere in this collection both as a "
+        "first-time visitor and, after his death, as a returning "
+        "deity &mdash; one of the most widely cited checklists in "
+        "the early texts for confirming one's own attainment of "
+        "stream-entry. A noble disciple who has quelled five fears "
+        "(the anxious residue of breaking each of the five "
+        "precepts), who possesses four factors (confidence in the "
+        "Buddha, the teaching, the Saṅgha, and one's own ethical "
+        "conduct), and who has clearly seen and penetrated the noble "
+        "system &mdash; dependent origination itself, run forward "
+        "and in reverse &mdash; may, if they wish, declare of "
+        "themselves that they are a stream-enterer, finished with "
+        "rebirth in the lower realms and assured of eventual "
+        "awakening. The discourse's value lies precisely in its "
+        "structure: it doesn't ask for a feeling of confidence, but "
+        "for three independently checkable conditions."),
+    guide=[
+        ("A self-test, not an external verdict", [
+            "The declaration is something the disciple may make of "
+            "themselves &mdash; \"so ākaṅkhamāno attanāva attānaṁ "
+            "byākareyya\" &mdash; framed as self-knowledge available "
+            "to be checked, not a status conferred from outside by "
+            "the Buddha or anyone else."]),
+        ("Five fears traced to a single mechanism", [
+            "Each of the five fears follows an identical pattern: "
+            "breaking a precept brings fear and enmity both in this "
+            "life and in lives to come, along with mental pain and "
+            "sadness, and refraining from it quells exactly that "
+            "fear &mdash; the same causal shape repeated once for "
+            "each of the five precepts."]),
+        ("Four factors, three of them relational and one personal", [
+            "Three of the four factors are confidence in something "
+            "outside oneself &mdash; the Buddha, the teaching, the "
+            "Saṅgha &mdash; described in a fixed formula of "
+            "experiential confidence, while the fourth turns inward "
+            "to one's own ethical conduct, described as loved by the "
+            "noble ones and leading to immersion."]),
+        ("The noble system given its full technical content", [
+            "Where the first two parts of the test describe "
+            "confidence and conduct, the third part names something "
+            "more exacting: dependent origination itself, understood "
+            "well enough to be applied to both the arising and the "
+            "complete cessation of the whole mass of suffering, "
+            "using the language of \"applies the mind carefully and "
+            "rationally\" already seen in SN 12.37."]),
+        ("A declaration that opens and closes the discourse identically", [
+            "The discourse begins by describing the conditions under "
+            "which the declaration may be made and ends by having "
+            "the Buddha state, word for word, the same conditions and "
+            "the same declaration &mdash; a frame that lets the "
+            "three-part unpacking sit inside a stable, symmetrical "
+            "shell."]),
+    ],
+    terms=[
+        ("pañca bhayāni verāni vūpasantāni honti",
+         "&ldquo;five fears and enmities have been quelled&rdquo; "
+         "&mdash; the first of the three conditions, unpacked one "
+         "precept at a time."),
+        ("catūhi ca sotāpattiyaṅgehi samannāgato hoti",
+         "&ldquo;possesses the four factors of stream-entry&rdquo; "
+         "&mdash; the second condition, three of confidence and one "
+         "of conduct."),
+        ("ariyo cassa ñāyo paññāya sudiṭṭho hoti suppaṭividdho",
+         "&ldquo;has clearly seen and penetrated the noble system "
+         "with wisdom&rdquo; &mdash; the third condition, identified "
+         "later in the discourse as dependent origination itself."),
+        ("khīṇanirayomhi&hellip; sotāpannohamasmi avinipātadhammo "
+         "niyato sambodhiparāyano",
+         "&ldquo;I've finished with rebirth in hell&hellip; I am a "
+         "stream-enterer! I'm not liable to be reborn in the "
+         "underworld, and am assured, destined for awakening&rdquo; "
+         "&mdash; the declaration itself, given identically at the "
+         "discourse's start and close."),
+        ("ariyakantehi sīlehi samannāgato hoti",
+         "&ldquo;ethical conduct is loved by the noble ones&rdquo; "
+         "&mdash; the fourth factor, turning from confidence in "
+         "others to one's own practice."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Gahapativagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.41:1.1-1.2"),
+        ("p", "&sect;2", "sn12.41:2.1-2.2"),
+        ("p", "&sect;3", "sn12.41:3.1-3.2"),
+        ("p", "&sect;4", "sn12.41:4.1-4.1"),
+        ("p", "&sect;5", "sn12.41:5.1-5.1"),
+        ("p", "&sect;6", "sn12.41:6.1-6.1"),
+        ("p", "&sect;7", "sn12.41:7.1-7.2"),
+        ("p", "&sect;8", "sn12.41:8.1-8.3"),
+        ("p", "&sect;9", "sn12.41:9.1-9.2"),
+        ("p", "&sect;10", "sn12.41:10.1-10.2"),
+        ("p", "&sect;11", "sn12.41:11.1-11.2"),
+        ("p", "&sect;12", "sn12.41:12.1-12.11"),
+        ("p", "&sect;13", "sn12.41:13.1-13.2"),
+    ],
+    quiz=[
+        {"q": "Who does the Buddha address this teaching to?",
+         "opts": [
+             "The householder Anāthapiṇḍika",
+             "Venerable Sāriputta",
+             "A group of unnamed mendicants",
+             "King Pasenadi"],
+         "correct": 0,
+         "expl": "The donor of Jeta's Grove, encountered elsewhere in this collection too."},
+        {"q": "How is the self-declaration of stream-entry framed?",
+         "opts": [
+             "As something a disciple may declare of themselves, if they wish",
+             "As a formal title only the Buddha can confer",
+             "As a status the Saṅgha must vote on",
+             "As something that can never be known until after death"],
+         "correct": 0,
+         "expl": "Self-knowledge available to be checked, not an external verdict."},
+        {"q": "What produces each of the five fears the discourse describes?",
+         "opts": [
+             "Breaking one of the five precepts",
+             "Meditating incorrectly",
+             "Disagreeing with the Buddha's teaching",
+             "Failing to make offerings to the Saṅgha"],
+         "correct": 0,
+         "expl": "An identical causal pattern repeated once per precept."},
+        {"q": "What are three of the four factors of stream-entry?",
+         "opts": [
+             "Confidence in the Buddha, the teaching, and the Saṅgha",
+             "Wealth, status, and family lineage",
+             "Meditative absorption, insight, and equanimity",
+             "Generosity, patience, and courage"],
+         "correct": 0,
+         "expl": "Experiential confidence in the three refuges."},
+        {"q": "What is the fourth factor of stream-entry, beyond confidence in the three refuges?",
+         "opts": [
+             "One's own ethical conduct, loved by the noble ones",
+             "A vow of silence",
+             "A specific meditative attainment",
+             "Ordination as a monk or nun"],
+         "correct": 0,
+         "expl": "A turn from confidence in others to one's own practice."},
+        {"q": "What is identified as the \"noble system\" seen and penetrated with wisdom?",
+         "opts": [
+             "Dependent origination itself, applied forward and in reverse",
+             "The rules of monastic discipline",
+             "The geography of the thirty-one realms",
+             "A specific set of precepts unique to householders"],
+         "correct": 0,
+         "expl": "The third of the three conditions, given its full technical content."},
+        {"q": "How does the discourse's opening and closing declaration compare?",
+         "opts": [
+             "They are given in identical wording, framing the three-part unpacking",
+             "The closing declaration contradicts the opening one",
+             "Only the opening includes the declaration; the closing omits it",
+             "The two declarations use entirely different language"],
+         "correct": 0,
+         "expl": "A stable, symmetrical frame around the discourse's central unpacking."},
+        {"q": "What does the noble disciple declare they are finished with, in this formula?",
+         "opts": [
+             "Rebirth in hell, the animal realm, and the ghost realm",
+             "All future physical illness",
+             "The need for further meditation",
+             "Contact with other human beings"],
+         "correct": 0,
+         "expl": "The lower realms specifically, not all further experience."},
+        {"q": "What language does this discourse share with SN 12.37 for how the disciple approaches dependent origination?",
+         "opts": [
+             "\"Applies the mind carefully and rationally\" to dependent origination itself",
+             "\"Argues forcefully\" for dependent origination",
+             "\"Doubts and questions\" dependent origination",
+             "No shared language; the two discourses are unrelated"],
+         "correct": 0,
+         "expl": "The same phrase used for the learned noble disciple's approach in SN 12.37."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A test, not a feeling", [
+            "three conditions, independently checked &mdash;",
+            "not a mood of confidence alone",
+        ]),
+        ("Five fears, one mechanism", [
+            "each precept broken, its own dread &mdash;",
+            "quelled the moment it's kept",
+        ]),
+        ("Confidence outward, conduct inward", [
+            "three factors turned toward others &mdash;",
+            "the fourth turned back on oneself",
+        ]),
+        ("A declaration, framed twice", [
+            "opening and closing in the same words &mdash;",
+            "the unpacking held inside",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.41/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.40.html">SN 12.40 &middot; Intention (3rd)</a> '
+        "&mdash; the discourse closing Kaḷārakhattiyavagga, "
+        "immediately before this one.",
+        '<a href="sn-10.8.html">SN 10.8 &middot; With Sudatta</a> '
+        "&mdash; Anāthapiṇḍika's first meeting with the Buddha, "
+        "under his birth name.",
+        '<a href="sn-12.42.html">SN 12.42 &middot; Fears and Enmities (2nd)</a> '
+        "&mdash; the next discourse, the same teaching addressed "
+        "directly to the assembled mendicants.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.42 — Dutiyapañcaverabhayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 42, "Dutiyapañcaverabhaya", "Fears and Enmities (2nd)",
+    meta_title="SN 12.42 — Fears and Enmities (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyapañcaverabhayasutta — the same three-part "
+        "self-test for stream-entry as SN 12.41, addressed directly "
+        "to the assembled mendicants and compressed throughout but "
+        "for one factor left spelled out in full. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same three-part self-test as SN 12.41, "
+                 "compressed with elision throughout except for one "
+                 "factor left fully spelled out"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.41, in compressed "
+                       "form"),
+    ],
+    why=(
+        "This discourse carries the identical three-part self-test "
+        "as SN 12.41 &mdash; five fears quelled, four factors "
+        "possessed, the noble system of dependent origination seen "
+        "with wisdom &mdash; but delivered directly to the assembled "
+        "mendicants rather than to the householder Anāthapiṇḍika, "
+        "and compressed with elision through nearly every part. What "
+        "makes the compression worth noticing closely is what it "
+        "doesn't touch: of the four factors of stream-entry, three "
+        "are elided down to a single word each, while the fourth "
+        "&mdash; ethical conduct loved by the noble ones &mdash; is "
+        "left standing in full, exactly as SN 12.41 gave it. Reading "
+        "the two discourses side by side turns this asymmetry into a "
+        "small but genuine question about what the redactors judged "
+        "worth spelling out even in a compressed retelling."),
+    guide=[
+        ("The same three-part test, addressed differently", [
+            "Every substantive element of SN 12.41 reappears here "
+            "&mdash; the five fears, the four factors, the noble "
+            "system, the opening and closing declaration &mdash; but "
+            "the audience shifts from a single householder to the "
+            "assembled mendicants as a group."]),
+        ("Compression that isn't uniform", [
+            "The five fears, three of the four factors, and the "
+            "unpacking of the noble system are all elided down to "
+            "a word or phrase followed by an ellipsis, but one "
+            "factor &mdash; ethical conduct loved by the noble ones "
+            "&mdash; is left standing in full, unelided."]),
+        ("One phrase given full technical weight even here", [
+            "Despite the heavy compression elsewhere, the discourse "
+            "still spells out in full that a noble disciple "
+            "\"carefully and rationally applies the mind to "
+            "dependent origination itself,\" the same phrase used in "
+            "SN 12.37 and SN 12.41, suggesting this particular "
+            "formula was treated as too load-bearing to abbreviate."]),
+        ("A declaration carried over word for word", [
+            "Despite the compression everywhere else, the opening "
+            "and closing declaration of stream-entry itself is given "
+            "in the same full wording as SN 12.41, unelided even "
+            "though it's the longest single formula in the "
+            "discourse."]),
+        ("A pairing that shows compression is selective, not uniform", [
+            "Set beside SN 12.41, this discourse demonstrates that "
+            "compressing a teaching for a general audience doesn't "
+            "mean compressing everything equally; some formulas are "
+            "judged essential enough to survive intact while others "
+            "are trusted to elision."]),
+    ],
+    terms=[
+        ("ariyasāvakassa pañca bhayāni verāni vūpasantāni honti",
+         "&ldquo;a noble disciple has quelled five fears and "
+         "enmities&rdquo; &mdash; the first condition, stated once "
+         "before being elided through its five precepts."),
+        ("catūhi ca sotāpattiyaṅgehi samannāgato hoti",
+         "&ldquo;possesses the four factors of stream-entry&rdquo; "
+         "&mdash; the same phrase used in SN 12.41."),
+        ("ariyakantehi sīlehi samannāgato hoti",
+         "&ldquo;ethical conduct is loved by the noble ones&rdquo; "
+         "&mdash; the one factor left unelided even in this "
+         "otherwise compressed retelling."),
+        ("paṭiccasamuppādaññeva sādhukaṁ yoniso manasi karoti",
+         "&ldquo;carefully and rationally applies the mind to "
+         "dependent origination itself&rdquo; &mdash; the same "
+         "phrase used in SN 12.37 and SN 12.41, also left unelided."),
+        ("khīṇanirayomhi&hellip; avinipātadhammo niyato "
+         "sambodhiparāyano",
+         "&ldquo;I've finished with rebirth in hell&hellip; assured, "
+         "destined for awakening&rdquo; &mdash; the declaration "
+         "itself, carried over in full despite the compression "
+         "elsewhere."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.42:1.1-1.3"),
+        ("p", "&sect;2", "sn12.42:2.1-2.7"),
+        ("p", "&sect;3", "sn12.42:3.1-3.6"),
+        ("p", "&sect;4", "sn12.42:4.1-4.3"),
+        ("p", "&sect;5", "sn12.42:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "Who is this discourse addressed to, compared to SN 12.41?",
+         "opts": [
+             "The assembled mendicants, rather than a single householder",
+             "King Pasenadi, rather than a group of mendicants",
+             "Anāthapiṇḍika again, in a private setting",
+             "A group of visiting brahmins"],
+         "correct": 0,
+         "expl": "A shift in audience from SN 12.41's householder to the monastic assembly."},
+        {"q": "Which of the four factors of stream-entry is left unelided in this compressed retelling?",
+         "opts": [
+             "Ethical conduct loved by the noble ones",
+             "Confidence in the Buddha",
+             "Confidence in the teaching",
+             "Confidence in the Saṅgha"],
+         "correct": 0,
+         "expl": "The one factor spelled out in full even here, unlike the other three."},
+        {"q": "Is the compression in this discourse applied evenly across all its parts?",
+         "opts": [
+             "No — some formulas are elided while others are left standing in full",
+             "Yes, every part is compressed to exactly the same degree",
+             "No compression occurs anywhere in this discourse",
+             "Only the declaration is compressed; everything else is spelled out"],
+         "correct": 0,
+         "expl": "A selective compression, not a uniform one."},
+        {"q": "What phrase describing the noble disciple's approach to dependent origination survives uncompressed?",
+         "opts": [
+             "\"Carefully and rationally applies the mind to dependent origination itself\"",
+             "\"Argues at length against dependent origination\"",
+             "\"Memorizes dependent origination without understanding it\"",
+             "No such phrase appears in this discourse"],
+         "correct": 0,
+         "expl": "The same load-bearing phrase used in SN 12.37 and SN 12.41."},
+        {"q": "How does the opening and closing declaration of stream-entry compare to SN 12.41's?",
+         "opts": [
+             "Given in the same full wording, unelided despite the compression elsewhere",
+             "Shortened to a single sentence fragment",
+             "Omitted entirely from this discourse",
+             "Rewritten with substantially different content"],
+         "correct": 0,
+         "expl": "The longest formula in the discourse, still carried over intact."},
+        {"q": "What does comparing this discourse to SN 12.41 demonstrate about compression?",
+         "opts": [
+             "That compressing a teaching doesn't mean compressing every part of it equally",
+             "That compressed versions always contain less doctrinal content overall",
+             "That the two discourses actually teach contradictory doctrines",
+             "That elision is applied completely at random with no discernible pattern"],
+         "correct": 0,
+         "expl": "Some formulas are judged too load-bearing to abbreviate."},
+        {"q": "What are the five fears elided to in this discourse's telling?",
+         "opts": [
+             "A brief mention of killing followed by an ellipsis standing in for the other four",
+             "A completely different list of five items",
+             "Nothing; the five fears are omitted entirely",
+             "Ten fears rather than five"],
+         "correct": 0,
+         "expl": "The same five precepts as SN 12.41, elided here rather than spelled out."},
+        {"q": "What is identified as the noble system in this discourse, as in SN 12.41?",
+         "opts": [
+             "Dependent origination itself",
+             "The rules of monastic discipline",
+             "A set of precepts unique to this discourse",
+             "The geography of the thirty-one realms"],
+         "correct": 0,
+         "expl": "The same third condition as SN 12.41, compressed here but not renamed."},
+        {"q": "What is the relationship between this discourse and SN 12.41?",
+         "opts": [
+             "Identical substantive content, delivered to a different audience in more compressed form",
+             "A direct refutation of SN 12.41",
+             "An entirely unrelated teaching on a different topic",
+             "An expansion introducing several new factors"],
+         "correct": 0,
+         "expl": "Same three-part test, different audience and selective compression."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 12.41, immediately before it."},
+    ],
+    marginalia=[
+        ("The same test, a wider audience", [
+            "no longer one householder alone &mdash;",
+            "the whole assembly addressed",
+        ]),
+        ("Compression, but not evenly spread", [
+            "three factors elided to a word &mdash;",
+            "one left standing in full",
+        ]),
+        ("Too load-bearing to abbreviate", [
+            "\"applies the mind\" to origination &mdash;",
+            "spared the ellipsis given elsewhere",
+        ]),
+        ("A declaration, carried over intact", [
+            "the longest formula, unelided &mdash;",
+            "despite the shortening around it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.42/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.41.html">SN 12.41 &middot; Fears and Enmities</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the same teaching in full to Anāthapiṇḍika.",
+        '<a href="sn-12.43.html">SN 12.43 &middot; Suffering</a> '
+        "&mdash; the next discourse, turning from the three-part "
+        "test to the six sense doors' role in suffering's origin.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.43 — Dukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 43, "Dukkha", "Suffering",
+    meta_title="SN 12.43 — Suffering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dukkhasutta — the origin and disappearance of suffering "
+        "traced not through the twelve familiar links but through "
+        "each of the six sense doors, where consciousness, contact, "
+        "feeling, and craving meet. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A formal announcement followed by the origin and "
+                 "the disappearance of suffering, each run through "
+                 "all six sense doors"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a compact reframing of familiar material "
+                       "through a different entry point"),
+    ],
+    why=(
+        "Rather than starting from ignorance and running the full "
+        "twelve-link chain, this discourse enters dependent "
+        "origination at a different point: the six sense doors. Eye "
+        "consciousness arises dependent on the eye and sights, and "
+        "the meeting of the three &mdash; sense faculty, sense "
+        "object, consciousness &mdash; is contact, which conditions "
+        "feeling, which conditions craving. This is the origin of "
+        "suffering, run identically through all six doors, the eye "
+        "and the mind alike. Where craving fades away and ceases "
+        "with nothing left over, the discourse continues the chain "
+        "downstream to its familiar full ending, closing on the "
+        "cessation of the entire mass of suffering. The formal "
+        "opening &mdash; \"listen and apply your mind well, I will "
+        "speak\" &mdash; signals that what follows is meant to be "
+        "received as a distinct teaching, not a passing remark."),
+    guide=[
+        ("A different entry point, not different content", [
+            "This discourse doesn't abandon the twelve-link chain; "
+            "it enters partway through, starting from the six sense "
+            "doors' contact rather than from ignorance, and only "
+            "resumes the chain's familiar full downstream sequence "
+            "once craving's cessation is reached."]),
+        ("The same three-way meeting, six times over", [
+            "Eye consciousness dependent on the eye and sights, ear "
+            "consciousness dependent on the ear and sounds, and so "
+            "on through the mind and ideas &mdash; the identical "
+            "structure of a sense faculty, its object, and "
+            "consciousness meeting as contact, repeated for all six "
+            "doors without variation."]),
+        ("A formal announcement, not an offhand remark", [
+            "The discourse opens with the Buddha explicitly "
+            "announcing what he is about to teach and instructing "
+            "the mendicants to listen and apply their minds well "
+            "&mdash; a framing device marking this teaching as "
+            "formally significant rather than incidental."]),
+        ("Arising stated more briefly than cessation", [
+            "The arising half of the teaching stops right after "
+            "craving, closing with a simple \"this is the origin of "
+            "suffering,\" while the cessation half continues the "
+            "chain all the way down through grasping, continued "
+            "existence, rebirth, and old age and death, giving the "
+            "reversal noticeably fuller treatment than the arising."]),
+        ("Suffering as this discourse's chosen name for the process", [
+            "Naming the whole process \"the origin and disappearance "
+            "of suffering\" rather than simply describing dependent "
+            "origination in neutral terms makes explicit what the "
+            "chain of conditions actually amounts to at the sense "
+            "doors, in each moment of contact."]),
+    ],
+    terms=[
+        ("dukkhassa&hellip; samudayañca atthaṅgamañca desessāmi",
+         "&ldquo;I will teach you the origin and disappearance of "
+         "suffering&rdquo; &mdash; the discourse's formal opening "
+         "announcement."),
+        ("cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. "
+         "Tiṇṇaṁ saṅgati phasso",
+         "&ldquo;eye consciousness arises dependent on the eye and "
+         "sights. The meeting of the three is contact&rdquo; &mdash; "
+         "the formula repeated for all six sense doors."),
+        ("phassapaccayā vedanā; vedanāpaccayā taṇhā",
+         "&ldquo;contact is a requirement for feeling. Feeling is a "
+         "requirement for craving&rdquo; &mdash; where the arising "
+         "half of the teaching stops before resuming the familiar "
+         "chain."),
+        ("tassāyeva taṇhāya asesavirāganirodhā upādānanirodho",
+         "&ldquo;when that craving fades away and ceases with no "
+         "residue left behind, grasping ceases&rdquo; &mdash; the "
+         "point where the cessation half rejoins the familiar "
+         "downstream chain."),
+        ("dukkhassa samudayo&hellip; dukkhassa atthaṅgamo",
+         "&ldquo;the origin of suffering&hellip; the disappearance "
+         "of suffering&rdquo; &mdash; the discourse's own name for "
+         "the two halves of its teaching."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.43:1.1-1.5"),
+        ("p", "&sect;2", "sn12.43:2.1-2.5"),
+        ("p", "&sect;3", "sn12.43:3.1-3.8"),
+        ("p", "&sect;4", "sn12.43:4.1-4.10"),
+        ("p", "&sect;5", "sn12.43:5.1-5.13"),
+    ],
+    quiz=[
+        {"q": "Where does this discourse enter dependent origination, unlike the familiar twelve-link version?",
+         "opts": [
+             "At the six sense doors, where a sense faculty, its object, and consciousness meet as contact",
+             "At the very end, with old age and death alone",
+             "It doesn't use dependent origination at all",
+             "At rebirth, skipping everything before it"],
+         "correct": 0,
+         "expl": "A different entry point into the same underlying process."},
+        {"q": "How many sense doors does this formula run through?",
+         "opts": [
+             "All six — eye, ear, nose, tongue, body, and mind",
+             "Only the eye",
+             "Only the mind",
+             "Five, excluding the mind"],
+         "correct": 0,
+         "expl": "The identical structure repeated without variation across all six doors."},
+        {"q": "How does the Buddha open this discourse?",
+         "opts": [
+             "With a formal announcement instructing the mendicants to listen and apply their minds well",
+             "By answering a question just asked by a mendicant",
+             "With a verse quoted from an older text",
+             "In response to a visiting brahmin's challenge"],
+         "correct": 0,
+         "expl": "A framing device marking the teaching as formally significant."},
+        {"q": "Where does the arising half of the teaching stop?",
+         "opts": [
+             "Right after craving, closing simply with \"this is the origin of suffering\"",
+             "It continues all the way through to old age and death",
+             "It stops before feeling is even mentioned",
+             "It doesn't describe arising at all, only cessation"],
+         "correct": 0,
+         "expl": "A briefer treatment than the cessation half receives."},
+        {"q": "Where does the cessation half of the teaching continue to, unlike the arising half?",
+         "opts": [
+             "All the way down through grasping, continued existence, rebirth, and old age and death",
+             "It stops at the same point as the arising half",
+             "It stops even earlier than the arising half",
+             "It skips directly to old age and death with nothing in between"],
+         "correct": 0,
+         "expl": "A fuller treatment of the reversal than of the arising."},
+        {"q": "What does the discourse call the whole process it describes?",
+         "opts": [
+             "\"The origin and disappearance of suffering\"",
+             "\"The nature of consciousness\"",
+             "\"The path to awakening\"",
+             "\"The rules of monastic discipline\""],
+         "correct": 0,
+         "expl": "Naming what the chain of conditions amounts to at the sense doors."},
+        {"q": "What three things meet to produce contact, according to this discourse?",
+         "opts": [
+             "A sense faculty, its object, and consciousness",
+             "The Buddha, the teaching, and the Saṅgha",
+             "Ignorance, choices, and craving",
+             "Birth, aging, and death"],
+         "correct": 0,
+         "expl": "The recurring three-way meeting repeated at each of the six doors."},
+        {"q": "Is the six-sense-door structure in this discourse a departure from the twelve-link chain, or a variation of it?",
+         "opts": [
+             "A variation — the same underlying process, entered at a different point",
+             "A complete departure with no relationship to the twelve-link chain",
+             "An entirely separate teaching unrelated to dependent origination",
+             "A contradiction of the twelve-link chain's content"],
+         "correct": 0,
+         "expl": "The chain's familiar downstream sequence resumes once craving's cessation is reached."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A different door into the same house", [
+            "not ignorance first, but the senses &mdash;",
+            "contact where faculty meets object",
+        ]),
+        ("Six doors, one formula", [
+            "eye, ear, nose, tongue, body, mind &mdash;",
+            "the same meeting, six times over",
+        ]),
+        ("Arising brief, cessation full", [
+            "one stops at craving &mdash;",
+            "the other runs the whole chain down",
+        ]),
+        ("Suffering, named at the senses", [
+            "not abstract origination &mdash;",
+            "traced to each moment of contact",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.43/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.42.html">SN 12.42 &middot; Fears and Enmities (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.44.html">SN 12.44 &middot; The World</a> '
+        "&mdash; the next discourse, the identical sense-door "
+        "teaching under a different name.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.44 — Lokasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 44, "Loka", "The World",
+    meta_title="SN 12.44 — The World | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Lokasutta — the same six-sense-door teaching as SN "
+        "12.43, renamed \"the world\" rather than \"suffering,\" "
+        "with the arising direction spelled out in full where its "
+        "twin elides it. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same formal announcement and six-sense-door "
+                 "structure as SN 12.43, with the arising direction "
+                 "given in fuller, less elided detail"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.43, under a "
+                       "different name"),
+    ],
+    why=(
+        "This discourse teaches exactly the same content as SN "
+        "12.43 &mdash; the same six sense doors, the same three-way "
+        "meeting as contact, the same downstream chain to feeling "
+        "and craving and beyond &mdash; but calls the whole process "
+        "\"the world\" rather than \"suffering.\" The substitution is "
+        "not decorative. By using the identical formula to name both "
+        "\"the origin and disappearance of suffering\" and \"the "
+        "origin and disappearance of the world,\" the two twin "
+        "discourses together make an equation explicit: in this "
+        "teaching's technical sense, the world just is the process "
+        "by which suffering arises and ceases at the six sense "
+        "doors, not a container that suffering happens to occur "
+        "inside. This same equation of the world with the sense "
+        "doors' activity resurfaces at the very end of this chapter, "
+        "in SN 12.49 and SN 12.50's closing declaration that a noble "
+        "disciple understands how \"this world\" originates and "
+        "ceases."),
+    guide=[
+        ("The same formula, a different name for the process", [
+            "Every structural element of SN 12.43 reappears here "
+            "unchanged &mdash; the six sense doors, the three-way "
+            "meeting as contact, the downstream chain &mdash; with "
+            "only the word naming the whole process changed from "
+            "\"suffering\" to \"the world.\""]),
+        ("An equation, not a coincidence of vocabulary", [
+            "Because the same underlying process is called both "
+            "\"the origin and disappearance of suffering\" in SN "
+            "12.43 and \"the origin and disappearance of the world\" "
+            "here, the pairing amounts to a direct equation: the "
+            "world, in this technical sense, is exactly this "
+            "process at the six sense doors."]),
+        ("Arising spelled out where SN 12.43 elided it", [
+            "Where SN 12.43's arising half stopped right after "
+            "craving with a peyyāla ellipsis, this discourse spells "
+            "out the full downstream chain &mdash; grasping, "
+            "continued existence, rebirth, old age and death &mdash; "
+            "for the arising direction as well, giving both "
+            "directions equally full treatment rather than favoring "
+            "cessation."]),
+        ("A phrase that returns at the vagga's close", [
+            "The exact language of \"this world originates\" and "
+            "\"this world ceases\" used here reappears at the very "
+            "end of this chapter, in SN 12.49 and SN 12.50's closing "
+            "declaration about the noble disciple's understanding "
+            "&mdash; a deliberate thread running through the whole "
+            "vagga, not an isolated formula."]),
+        ("Two names, one teaching, told twice", [
+            "Reading SN 12.43 and this discourse together shows a "
+            "single teaching given under two names rather than two "
+            "separate teachings, inviting the reader to treat "
+            "\"suffering\" and \"the world\" as interchangeable terms "
+            "for the same conditioned process."]),
+    ],
+    terms=[
+        ("lokassa&hellip; samudayañca atthaṅgamañca desessāmi",
+         "&ldquo;I will teach you the origin and disappearance of "
+         "the world&rdquo; &mdash; the same formal opening as SN "
+         "12.43, with &ldquo;the world&rdquo; in place of "
+         "&ldquo;suffering.&rdquo;"),
+        ("cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. "
+         "Tiṇṇaṁ saṅgati phasso",
+         "&ldquo;eye consciousness arises dependent on the eye and "
+         "sights. The meeting of the three is contact&rdquo; &mdash; "
+         "the identical formula shared with SN 12.43."),
+        ("vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; "
+         "upādānapaccayā bhavo; bhavapaccayā jāti; "
+         "jātipaccayā jarāmaraṇaṁ",
+         "&ldquo;feeling is a requirement for craving. Craving is a "
+         "requirement for grasping. Grasping is a requirement for "
+         "continued existence. Continued existence is a requirement "
+         "for rebirth. Rebirth is a requirement for old age and "
+         "death&rdquo; &mdash; the full downstream chain given here "
+         "for arising, where SN 12.43 elided it."),
+        ("tassāyeva taṇhāya asesavirāganirodhā upādānanirodho",
+         "&ldquo;when that craving fades away and ceases with no "
+         "residue left behind, grasping ceases&rdquo; &mdash; the "
+         "same cessation formula shared with SN 12.43."),
+        ("lokassa samudayo&hellip; lokassa atthaṅgamo",
+         "&ldquo;the origin of the world&hellip; the ending of the "
+         "world&rdquo; &mdash; this discourse's name for what SN "
+         "12.43 calls the origin and disappearance of suffering."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.44:1.1-1.5"),
+        ("p", "&sect;2", "sn12.44:2.1-2.9"),
+        ("p", "&sect;3", "sn12.44:3.1-3.8"),
+        ("p", "&sect;4", "sn12.44:4.1-4.8"),
+        ("p", "&sect;5", "sn12.44:5.1-5.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's teaching compare structurally to SN 12.43's?",
+         "opts": [
+             "Identical structure — the same six sense doors and formula, under a different name",
+             "A completely different teaching with no shared structure",
+             "The reverse of SN 12.43's teaching",
+             "A much shorter summary with most content omitted"],
+         "correct": 0,
+         "expl": "The same underlying process, named differently."},
+        {"q": "What does this discourse call the process that SN 12.43 calls \"suffering\"?",
+         "opts": [
+             "\"The world\"",
+             "\"Consciousness\"",
+             "\"The path\"",
+             "\"Liberation\""],
+         "correct": 0,
+         "expl": "A direct substitution of terms for the identical underlying process."},
+        {"q": "What does pairing SN 12.43 and this discourse together amount to?",
+         "opts": [
+             "An equation — the world, in this technical sense, is the process of suffering's arising and ceasing",
+             "A contradiction between two incompatible teachings",
+             "Proof that one of the two discourses must be a later addition",
+             "Nothing significant; the naming difference is purely decorative"],
+         "correct": 0,
+         "expl": "Suffering and the world named as the same conditioned process."},
+        {"q": "How does this discourse's treatment of the arising direction compare to SN 12.43's?",
+         "opts": [
+             "Spelled out in full through grasping, continued existence, rebirth, and old age and death",
+             "Even more heavily elided than SN 12.43's",
+             "Omitted entirely",
+             "Identical in every detail, including the elision"],
+         "correct": 0,
+         "expl": "Fuller treatment of arising than SN 12.43 gives it."},
+        {"q": "Where does the exact phrase \"this world originates\" and \"this world ceases\" reappear later in this chapter?",
+         "opts": [
+             "In SN 12.49 and SN 12.50's closing declaration about the noble disciple's understanding",
+             "It appears nowhere else in this saṃyutta",
+             "Only in SN 12.41's declaration of stream-entry",
+             "In SN 12.31's opening verse"],
+         "correct": 0,
+         "expl": "A deliberate thread connecting this discourse to the vagga's close."},
+        {"q": "What three things meet to produce contact, according to this discourse?",
+         "opts": [
+             "A sense faculty, its object, and consciousness",
+             "The Buddha, the teaching, and the Saṅgha",
+             "Ignorance, choices, and craving",
+             "Birth, aging, and death"],
+         "correct": 0,
+         "expl": "The same three-way meeting used in SN 12.43."},
+        {"q": "How many sense doors does this discourse's formula cover?",
+         "opts": [
+             "All six — eye, ear, nose, tongue, body, and mind",
+             "Only the eye and the mind",
+             "Five, excluding the mind",
+             "Only the mind"],
+         "correct": 0,
+         "expl": "The same full six-door coverage as SN 12.43."},
+        {"q": "How does the Buddha open this discourse?",
+         "opts": [
+             "With a formal announcement instructing the mendicants to listen and apply their minds well",
+             "By answering a question just asked by a mendicant",
+             "In response to a visiting brahmin's challenge",
+             "With a verse quoted from an older text"],
+         "correct": 0,
+         "expl": "The same formal framing device used in SN 12.43."},
+        {"q": "Is this discourse best read as an unrelated teaching, or a twin of SN 12.43?",
+         "opts": [
+             "A twin — the same teaching told under a different name",
+             "An unrelated teaching sharing no content with SN 12.43",
+             "A refutation of SN 12.43",
+             "An earlier draft later replaced by SN 12.43"],
+         "correct": 0,
+         "expl": "A single teaching given twice under two different names."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 12.43, immediately before it."},
+    ],
+    marginalia=[
+        ("The same formula, a new name", [
+            "not suffering, but \"the world\" &mdash;",
+            "the identical process, retitled",
+        ]),
+        ("An equation, quietly stated", [
+            "world and suffering, one process &mdash;",
+            "paired discourses making it explicit",
+        ]),
+        ("Arising given its full due", [
+            "spelled out where SN 12.43 elided &mdash;",
+            "both directions treated equally",
+        ]),
+        ("A phrase planted for later", [
+            "\"this world originates, this world ceases\" &mdash;",
+            "echoed again at the chapter's close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.44/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.43.html">SN 12.43 &middot; Suffering</a> '
+        "&mdash; the discourse immediately before this one, the same "
+        "teaching under its other name.",
+        '<a href="sn-12.49.html">SN 12.49 &middot; A Noble Disciple</a> '
+        "&mdash; later in this chapter, where the phrase &ldquo;this "
+        "world originates&hellip; this world ceases&rdquo; returns "
+        "in the closing declaration.",
+        '<a href="sn-12.45.html">SN 12.45 &middot; At Ñātika</a> '
+        "&mdash; the next discourse, the same six-door teaching "
+        "overheard by chance during the Buddha's private retreat.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.45 — Ñātikasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 45, "Ñātika", "At Ñātika",
+    meta_title="SN 12.45 — At Ñātika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ñātikasutta — the same six-sense-door teaching as SN "
+        "12.43 and SN 12.44, spoken alone during private retreat and "
+        "preserved only because a mendicant happened to be "
+        "eavesdropping. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Ñātika, in the brick house"),
+        ("Speakers", "The Buddha, speaking alone during private "
+                     "retreat, and an unnamed mendicant who "
+                     "overhears him"),
+        ("Form", "A solitary exposition of the teaching, followed "
+                 "by a brief exchange once the Buddha notices he has "
+                 "been overheard"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "familiar content, with an unusual frame "
+                       "worth noticing"),
+    ],
+    why=(
+        "This discourse gives the same six-sense-door teaching as SN "
+        "12.43 and SN 12.44, but under a narrative frame unlike "
+        "anything else in this chapter: the Buddha isn't addressing "
+        "an audience at all. He's alone in private retreat at "
+        "Ñātika, and simply speaks the exposition aloud to himself. "
+        "It survives in the record only because a certain mendicant "
+        "happens to be standing within earshot. When the Buddha "
+        "notices him, rather than treating the moment as an "
+        "intrusion, he asks whether the mendicant heard it, and on "
+        "confirming that he did, instructs him directly to learn it, "
+        "memorize it, and remember it, calling it beneficial and "
+        "relevant to the fundamentals of the spiritual life. The "
+        "frame quietly raises a question the discourse itself never "
+        "addresses: how many teachings like this one exist only "
+        "because someone happened to be listening at the right "
+        "moment?"),
+    guide=[
+        ("Spoken to no one, at first", [
+            "Unlike every other discourse in this chapter, this "
+            "teaching doesn't open with anyone approaching the "
+            "Buddha or asking a question; he is alone in retreat and "
+            "simply speaks the exposition aloud, with no addressee "
+            "named at all."]),
+        ("The same six-door formula, given a third time", [
+            "The content itself is identical in structure to SN "
+            "12.43 and SN 12.44 &mdash; the same six sense doors, "
+            "the same three-way meeting as contact, the same "
+            "downstream chain to feeling, craving, and beyond "
+            "&mdash; making this the third telling of the same "
+            "underlying teaching in three consecutive discourses."]),
+        ("Overheard, not delivered", [
+            "The mendicant who receives this teaching does so purely "
+            "by chance, standing within earshot rather than having "
+            "sought the teaching out or been summoned to hear it, "
+            "which the discourse frames neutrally rather than as "
+            "either an accident to apologize for or a deliberate "
+            "test."]),
+        ("A triple instruction, not simple approval", [
+            "Once the Buddha confirms the mendicant heard the "
+            "exposition, he doesn't merely commend him; he gives "
+            "three distinct imperatives in sequence &mdash; learn "
+            "it, memorize it, remember it &mdash; treating what was "
+            "overheard as something now formally worth deliberate "
+            "retention."]),
+        ("A teaching's survival made visible", [
+            "By explaining how this particular teaching came to be "
+            "recorded at all, the discourse's frame quietly shows "
+            "the mechanism by which an oral tradition preserves "
+            "material never originally addressed to anyone &mdash; a "
+            "detail more discourses in this collection likely share "
+            "without stating it so plainly."]),
+    ],
+    terms=[
+        ("ñātike viharati giñjakāvasathe",
+         "&ldquo;was staying at Ñātika in the brick house&rdquo; "
+         "&mdash; the discourse's setting, distinct from the usual "
+         "Sāvatthī."),
+        ("rahogato paṭisallāno imaṁ dhammapariyāyaṁ abhāsi",
+         "&ldquo;while in private retreat he spoke this exposition "
+         "of the teaching&rdquo; &mdash; spoken alone, with no "
+         "addressee named."),
+        ("upassuti ṭhito",
+         "&ldquo;standing listening in&rdquo; &mdash; how the "
+         "discourse describes the mendicant who happens to overhear "
+         "the Buddha."),
+        ("uggaṇhāhi&hellip; pariyāpuṇāhi&hellip; dhārehi",
+         "&ldquo;learn&hellip; memorize&hellip; and remember&rdquo; "
+         "&mdash; the three imperatives the Buddha gives once he "
+         "confirms the mendicant heard the teaching."),
+        ("atthasaṁhito&hellip; dhammapariyāyo ādibrahmacariyako",
+         "&ldquo;this exposition of the teaching is beneficial and "
+         "relevant to the fundamentals of the spiritual life&rdquo; "
+         "&mdash; the Buddha's own reason for the instruction to "
+         "retain it."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.45:1.1-1.3"),
+        ("p", "&sect;2", "sn12.45:2.1-2.5"),
+        ("p", "&sect;3", "sn12.45:3.1-3.9"),
+        ("p", "&sect;4", "sn12.45:4.1-4.6"),
+        ("p", "&sect;5", "sn12.45:5.1-5.7"),
+        ("p", "&sect;6", "sn12.45:6.1-6.9"),
+    ],
+    quiz=[
+        {"q": "Where is the Buddha, and what is he doing, at the start of this discourse?",
+         "opts": [
+             "Alone at Ñātika, in private retreat, speaking the exposition aloud with no addressee",
+             "Teaching a large assembly at Sāvatthī",
+             "Answering a question from Anāthapiṇḍika",
+             "Debating a visiting brahmin"],
+         "correct": 0,
+         "expl": "An unusual frame — no audience is present when the teaching is first spoken."},
+        {"q": "How does this discourse's core teaching compare to SN 12.43 and SN 12.44?",
+         "opts": [
+             "The same six-sense-door structure, told a third time",
+             "An entirely different, unrelated teaching",
+             "A direct contradiction of the earlier two discourses",
+             "A much shorter fragment with most content missing"],
+         "correct": 0,
+         "expl": "The third consecutive telling of the same underlying teaching."},
+        {"q": "How does the mendicant come to hear this teaching?",
+         "opts": [
+             "By chance, standing within earshot while the Buddha spoke alone",
+             "He was formally summoned to receive it",
+             "He asked the Buddha directly for this teaching",
+             "He read it from a written text"],
+         "correct": 0,
+         "expl": "Overheard, not deliberately delivered to him."},
+        {"q": "How does the Buddha react upon noticing the mendicant overheard him?",
+         "opts": [
+             "He asks whether the mendicant heard it, then instructs him to learn, memorize, and remember it",
+             "He scolds the mendicant for eavesdropping",
+             "He ignores the mendicant entirely",
+             "He asks the mendicant to repeat it back immediately word for word"],
+         "correct": 0,
+         "expl": "Treated neutrally, then turned into a formal instruction to retain the teaching."},
+        {"q": "What three imperatives does the Buddha give the mendicant?",
+         "opts": [
+             "Learn it, memorize it, and remember it",
+             "Ignore it, forget it, and move on",
+             "Teach it, debate it, and refute it",
+             "Translate it, copy it, and distribute it"],
+         "correct": 0,
+         "expl": "Three distinct instructions, not a single word of approval."},
+        {"q": "Why does the Buddha say this teaching should be retained?",
+         "opts": [
+             "It's beneficial and relevant to the fundamentals of the spiritual life",
+             "It's required for admission to the Saṅgha",
+             "It's the only teaching the Buddha gave that year",
+             "The text gives no reason at all"],
+         "correct": 0,
+         "expl": "The Buddha's own stated justification for the instruction."},
+        {"q": "What does this discourse's frame quietly illustrate?",
+         "opts": [
+             "How a teaching not addressed to anyone could still come to be recorded and preserved",
+             "That private teachings are always kept secret from the wider Saṅgha",
+             "That the Buddha never taught anything while alone",
+             "That eavesdropping was formally forbidden among mendicants"],
+         "correct": 0,
+         "expl": "A visible mechanism behind an otherwise invisible process of oral preservation."},
+        {"q": "Where is this discourse set, unlike most of this chapter's other discourses?",
+         "opts": [
+             "Ñātika, in the brick house",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, at the Bamboo Grove",
+             "Kapilavatthu, the Buddha's home city"],
+         "correct": 0,
+         "expl": "A distinct setting from the usual Sāvatthī of this chapter."},
+        {"q": "What three things meet to produce contact, in this discourse's formula?",
+         "opts": [
+             "A sense faculty, its object, and consciousness",
+             "The Buddha, the teaching, and the Saṅgha",
+             "Ignorance, choices, and craving",
+             "Birth, aging, and death"],
+         "correct": 0,
+         "expl": "The same three-way meeting used in SN 12.43 and SN 12.44."},
+        {"q": "Is the mendicant in this discourse named?",
+         "opts": [
+             "No — he is described only as \"a certain mendicant\"",
+             "Yes, he is identified as Venerable Ānanda",
+             "Yes, he is identified as Venerable Sāriputta",
+             "Yes, he is identified as Kaḷāra the Aristocrat"],
+         "correct": 0,
+         "expl": "No name is given for the mendicant who overhears the teaching."},
+    ],
+    marginalia=[
+        ("Spoken to no one at first", [
+            "alone in retreat, aloud &mdash;",
+            "no audience named or summoned",
+        ]),
+        ("Overheard, not delivered", [
+            "a mendicant standing within earshot &mdash;",
+            "chance, not design",
+        ]),
+        ("Three imperatives, not one word of praise", [
+            "learn it, memorize it, remember it &mdash;",
+            "retention made a formal instruction",
+        ]),
+        ("How a teaching survives by chance", [
+            "preserved because someone was listening &mdash;",
+            "the mechanism made visible, for once",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.45/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.44.html">SN 12.44 &middot; The World</a> '
+        "&mdash; the discourse immediately before this one, the same "
+        "teaching addressed to an assembly rather than overheard.",
+        '<a href="sn-12.46.html">SN 12.46 &middot; A Certain Brahmin</a> '
+        "&mdash; the next discourse, turning from the sense doors to "
+        "a question about who acts and who experiences the result.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.46 — Aññatarabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 46, "Aññatarabrāhmaṇa", "A Certain Brahmin",
+    meta_title="SN 12.46 — A Certain Brahmin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññatarabrāhmaṇasutta — a brahmin's question about "
+        "whether the doer of a deed and the experiencer of its "
+        "result are the same person or different meets the same "
+        "middle-way formula already given for existence and "
+        "identity elsewhere in this saṃyutta. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed brahmin"),
+        ("Form", "A brief two-question dialogue, each answer named "
+                 "an extreme, followed by the middle way and a "
+                 "closing conversion"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, but its question reaches into how "
+                       "kamma is understood to work across time"),
+    ],
+    why=(
+        "A brahmin puts to the Buddha one of the oldest questions "
+        "about how moral responsibility and rebirth fit together: is "
+        "the one who performs a deed the very same person who later "
+        "experiences its result, or is the doer one person and the "
+        "experiencer another? Each answer, the Buddha says, is an "
+        "extreme. Claiming strict identity risks the same trap "
+        "already named for the soul and the body in SN 12.35 and SN "
+        "12.36; claiming strict difference would make kamma's "
+        "connection across a lifetime, or across rebirths, entirely "
+        "arbitrary. Avoiding both, the Realized One teaches by the "
+        "middle way &mdash; the same closing formula already used in "
+        "SN 12.15 for existence and non-existence, and in SN 12.35 "
+        "for the soul and the body &mdash; restating the question as "
+        "a chain of conditions rather than a claim about identity."),
+    guide=[
+        ("A question about kamma phrased as identity", [
+            "The brahmin's question isn't abstractly metaphysical; "
+            "it's the practical puzzle of how an act performed by "
+            "one person could have consequences for someone later in "
+            "time, and whether that later person can meaningfully be "
+            "called the same person at all."]),
+        ("Two extremes, each rejected outright", [
+            "Strict identity between doer and experiencer is named "
+            "one extreme, and strict difference between them the "
+            "second, with neither given as a preferred approximation "
+            "of the truth &mdash; both are simply set aside."]),
+        ("The same middle-way formula, a third confirmed use", [
+            "\"Avoiding these two extremes, the Realized One teaches "
+            "by the middle way\" is the identical closing formula "
+            "already seen in SN 12.15, for existence and "
+            "non-existence, and in SN 12.35, for the soul and the "
+            "body &mdash; now applied to a third distinct pair of "
+            "extremes, doer and experiencer."]),
+        ("A chain of conditions replacing a claim about persons", [
+            "Rather than settling whether doer and experiencer are "
+            "the same or different, the Buddha's answer simply "
+            "restates the twelve-link chain, treating the question "
+            "of personal identity across time as one dissolved by "
+            "conditionality rather than one requiring a direct "
+            "answer."]),
+        ("A conversion closing a brief, dense exchange", [
+            "Despite its brevity, the discourse ends exactly as "
+            "several other exchanges with visiting brahmins in this "
+            "chapter do, with the questioner praising the teaching "
+            "and declaring himself a lay follower gone for refuge "
+            "for life."]),
+    ],
+    terms=[
+        ("so karoti so paṭisaṁvedayati",
+         "&ldquo;he who does the deed and he who experiences the "
+         "result are one and the same&rdquo; &mdash; the first "
+         "extreme, named and set aside."),
+        ("añño karoti, añño paṭisaṁvedayati",
+         "&ldquo;he who does the deed is one and he who experiences "
+         "the result is another&rdquo; &mdash; the second extreme."),
+        ("ubho ante anupagamma majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;avoiding these two extremes, the Realized One "
+         "teaches by the middle way&rdquo; &mdash; the same formula "
+         "already used in SN 12.15 and SN 12.35, for two other pairs "
+         "of extremes."),
+        ("abhikkantaṁ, bho gotama",
+         "&ldquo;excellent, worthy Gotama!&rdquo; &mdash; the "
+         "brahmin's exclamation of praise closing the exchange."),
+        ("upāsakaṁ maṁ bhavaṁ gotamo dhāretu&hellip; pāṇupetaṁ "
+         "saraṇaṁ gataṁ",
+         "&ldquo;may the worthy Gotama remember me as a lay follower "
+         "who has gone for refuge for life&rdquo; &mdash; the "
+         "formal declaration of conversion."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.46:1.1-1.3"),
+        ("p", "&sect;2", "sn12.46:2.1-2.2"),
+        ("p", "&sect;3", "sn12.46:3.1-3.9"),
+        ("p", "&sect;4", "sn12.46:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What does the brahmin ask the Buddha?",
+         "opts": [
+             "Whether the one who does a deed and the one who experiences its result are the same person or different",
+             "Whether the world is eternal or not eternal",
+             "Whether the Buddha exists after death",
+             "Whether all things exist or nothing exists"],
+         "correct": 0,
+         "expl": "A question about personal identity across the span of kamma's effect."},
+        {"q": "How does the Buddha respond to \"the doer and the experiencer are the same\"?",
+         "opts": [
+             "He names it as one extreme",
+             "He affirms it as correct",
+             "He asks the brahmin to explain further before answering",
+             "He refuses to comment on it"],
+         "correct": 0,
+         "expl": "Set aside as an extreme, not confirmed."},
+        {"q": "How does the Buddha respond to \"the doer is one, the experiencer another\"?",
+         "opts": [
+             "He names it as the second extreme",
+             "He affirms it as correct",
+             "He says it's closer to the truth than the first claim",
+             "He says the question makes no sense at all"],
+         "correct": 0,
+         "expl": "The second extreme, likewise set aside."},
+        {"q": "What formula does the Buddha use to move past both extremes?",
+         "opts": [
+             "\"Avoiding these two extremes, the Realized One teaches by the middle way\"",
+             "\"Neither claim can ever be settled\"",
+             "\"Only a fully awakened Buddha could know the answer\"",
+             "\"The question should not be asked at all\""],
+         "correct": 0,
+         "expl": "The same formula already used for other pairs of extremes in this saṃyutta."},
+        {"q": "Where else in this saṃyutta does the identical middle-way formula appear?",
+         "opts": [
+             "SN 12.15, for existence and non-existence, and SN 12.35, for the soul and the body",
+             "Nowhere else; this is the formula's only use",
+             "Only in the discourses addressed to Anāthapiṇḍika",
+             "Only in discourses involving King Pasenadi"],
+         "correct": 0,
+         "expl": "A formula now confirmed across three distinct pairs of extremes."},
+        {"q": "What does the Buddha's answer replace the identity question with?",
+         "opts": [
+             "The twelve-link chain of dependent origination",
+             "A direct ruling that the doer and experiencer are identical",
+             "A direct ruling that they are entirely separate",
+             "A refusal to answer the question in any form"],
+         "correct": 0,
+         "expl": "Conditionality offered in place of a verdict about personal identity."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "The brahmin praises the teaching and declares himself a lay follower for life",
+             "The brahmin walks away unconvinced",
+             "The brahmin asks a further question that goes unanswered",
+             "The discourse ends without any response from the brahmin"],
+         "correct": 0,
+         "expl": "A formal conversion, matching the pattern of several other brahmin exchanges in this chapter."},
+        {"q": "Is the brahmin in this discourse named?",
+         "opts": [
+             "No — he is described only as \"a certain brahmin\"",
+             "Yes, he is identified as Jāṇussoṇi",
+             "Yes, he is identified as Kaḷāra the Aristocrat",
+             "Yes, he is identified as Bhāradvāja"],
+         "correct": 0,
+         "expl": "Left unnamed, unlike the brahmin in the very next discourse."},
+        {"q": "What practical concern underlies the brahmin's question, according to this reading guide?",
+         "opts": [
+             "How an act performed by one person could have consequences for someone later in time",
+             "Whether brahmins are superior to other castes",
+             "Whether meditation can be taught to laypeople",
+             "Whether the Buddha permits alcohol in moderation"],
+         "correct": 0,
+         "expl": "A practical puzzle about kamma and continuity, not abstract wordplay."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A question about kamma's reach", [
+            "same doer, same feeler of results &mdash;",
+            "or two people entirely?",
+        ]),
+        ("Two extremes, both set aside", [
+            "identity and difference alike &mdash;",
+            "neither claim allowed to stand",
+        ]),
+        ("A formula heard a third time", [
+            "the same middle way as SN 12.15, SN 12.35 &mdash;",
+            "now applied to doer and deed",
+        ]),
+        ("Conditions in place of a verdict", [
+            "not who, but what depends on what &mdash;",
+            "the chain restated instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.46/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.45.html">SN 12.45 &middot; At Ñātika</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.35.html">SN 12.35 &middot; Ignorance is a Condition</a> '
+        "&mdash; the earlier discourse using the same middle-way "
+        "formula for the soul and the body.",
+        '<a href="sn-12.47.html">SN 12.47 &middot; Jānussoṇi</a> '
+        "&mdash; the next discourse, the same formula applied to a "
+        "named brahmin's question about existence itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.47 — Jāṇussoṇisutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 47, "Jāṇussoṇi", "Jānussoṇi",
+    meta_title="SN 12.47 — Jānussoṇi | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jāṇussoṇisutta — the named brahmin Jānussoṇi asks "
+        "whether everything exists or nothing exists, generalizing "
+        "SN 12.15's question about the world into a question about "
+        "all things, and receiving the identical middle way. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the brahmin Jānussoṇi"),
+        ("Form", "A brief two-question dialogue, structurally "
+                 "identical to SN 12.46, closing in the same "
+                 "conversion"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, generalizing an existence question "
+                       "already met elsewhere in this saṃyutta"),
+    ],
+    why=(
+        "The brahmin Jānussoṇi &mdash; a named figure who appears "
+        "questioning the Buddha in several discourses across the "
+        "early texts &mdash; asks the broadest possible version of "
+        "an existence question already met in this saṃyutta: not "
+        "whether the world in particular exists or doesn't, as in SN "
+        "12.15, but whether everything exists, or whether nothing "
+        "does. The Buddha's answer follows exactly the same pattern "
+        "as before: each claim is named an extreme and set aside, "
+        "and the middle way is given not as a compromise between "
+        "them but as the same twelve-link chain of conditions, run "
+        "forward to suffering's arising and in reverse to its "
+        "complete cessation. Reading this discourse against SN 12.15 "
+        "shows how the same underlying teaching answers a question "
+        "however broadly or narrowly it happens to be framed."),
+    guide=[
+        ("A generalized version of an already-answered question", [
+            "Where SN 12.15 asked specifically about the existence "
+            "or non-existence of the world, Jānussoṇi's question "
+            "widens the scope to everything without restriction "
+            "&mdash; \"does all exist\" rather than \"does the world "
+            "exist\" &mdash; and receives an answer built on exactly "
+            "the same structure."]),
+        ("Two extremes named without qualification", [
+            "\"All exists\" and \"all does not exist\" are each "
+            "named an extreme in turn, with neither treated as a "
+            "safer or more defensible default position than the "
+            "other."]),
+        ("The same middle way, a fourth confirmed use", [
+            "\"Avoiding these two extremes, the Realized One teaches "
+            "by the middle way\" appears here for a fourth time in "
+            "this saṃyutta, following its use for the world's "
+            "existence in SN 12.15, the soul and the body in SN "
+            "12.35, and the doer and the experiencer in SN 12.46."]),
+        ("A named, recurring questioner", [
+            "Unlike the unnamed brahmin of SN 12.46, Jānussoṇi is "
+            "identified by name &mdash; a brahmin who appears "
+            "putting questions to the Buddha in several other "
+            "discourses across the early texts, giving this "
+            "particular exchange a slightly more documented "
+            "questioner than most of this chapter's visitors."]),
+        ("Breadth of question, sameness of answer", [
+            "The discourse's real interest lies less in Jānussoṇi's "
+            "particular question than in what it demonstrates: that "
+            "however broadly an existence question is framed, "
+            "sabbaṁ or loko alike, the teaching offered in response "
+            "doesn't change in kind, only in the words used to state "
+            "the question being set aside."]),
+    ],
+    terms=[
+        ("jāṇussoṇi brāhmaṇo",
+         "&ldquo;the brahmin Jānussoṇi&rdquo; &mdash; a named figure "
+         "who appears questioning the Buddha in several discourses "
+         "across the early texts."),
+        ("sabbamatthi&hellip; sabbaṁ natthi",
+         "&ldquo;all exists&hellip; all does not exist&rdquo; "
+         "&mdash; the two extremes named in turn, a generalized "
+         "version of SN 12.15's question about the world "
+         "specifically."),
+        ("ubho ante anupagamma majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;avoiding these two extremes, the Realized One "
+         "teaches by the middle way&rdquo; &mdash; the same formula "
+         "confirmed for a fourth distinct pair of extremes in this "
+         "saṃyutta."),
+        ("abhikkantaṁ, bho gotama",
+         "&ldquo;excellent, worthy Gotama!&rdquo; &mdash; Jānussoṇi's "
+         "exclamation of praise, identical to the unnamed brahmin's "
+         "in SN 12.46."),
+        ("pāṇupetaṁ saraṇaṁ gataṁ",
+         "&ldquo;gone for refuge for life&rdquo; &mdash; the closing "
+         "formula of conversion, shared with SN 12.46."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.47:1.1-1.2"),
+        ("p", "&sect;2", "sn12.47:2.1-2.2"),
+        ("p", "&sect;3", "sn12.47:3.1-3.9"),
+        ("p", "&sect;4", "sn12.47:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What does Jānussoṇi ask the Buddha?",
+         "opts": [
+             "Whether everything exists, or whether nothing exists",
+             "Whether the doer and experiencer of a deed are the same person",
+             "Whether the Buddha will be reborn",
+             "Whether the world is finite or infinite in extent"],
+         "correct": 0,
+         "expl": "A generalized existence question, broader than SN 12.15's question about the world specifically."},
+        {"q": "How does Jānussoṇi's question compare to SN 12.15's question about the world?",
+         "opts": [
+             "It generalizes SN 12.15's question from the world specifically to everything without restriction",
+             "It is entirely unrelated to SN 12.15's question",
+             "It narrows SN 12.15's question to a single sense faculty",
+             "It reverses SN 12.15's question into its opposite"],
+         "correct": 0,
+         "expl": "The same existence question, widened in scope."},
+        {"q": "How does the Buddha treat \"all exists\" and \"all does not exist\"?",
+         "opts": [
+             "He names each one an extreme in turn",
+             "He affirms the first and rejects the second",
+             "He affirms the second and rejects the first",
+             "He declines to respond to either claim"],
+         "correct": 0,
+         "expl": "Both set aside without either being treated as the safer default."},
+        {"q": "What formula resolves both extremes?",
+         "opts": [
+             "\"Avoiding these two extremes, the Realized One teaches by the middle way\"",
+             "\"The question cannot be answered by anyone\"",
+             "\"Both extremes are equally true\"",
+             "\"Only a stream-enterer could know the answer\""],
+         "correct": 0,
+         "expl": "The identical formula used elsewhere in this saṃyutta."},
+        {"q": "How many times has this exact middle-way formula now appeared in this saṃyutta, counting this discourse?",
+         "opts": [
+             "Four times — for the world's existence, the soul and body, doer and experiencer, and now everything",
+             "Only once, exclusively in this discourse",
+             "Twice, in this discourse and SN 12.15 alone",
+             "This is a different formula from the ones used earlier"],
+         "correct": 0,
+         "expl": "A confirmed, recurring formula across four distinct pairs of extremes."},
+        {"q": "Is Jānussoṇi named, unlike the brahmin in SN 12.46?",
+         "opts": [
+             "Yes — he is a named figure who appears in several other discourses across the early texts",
+             "No, he is also left unnamed in this discourse",
+             "He is named only in the closing verse, not the dialogue itself",
+             "His name is given but described as uncertain"],
+         "correct": 0,
+         "expl": "A more documented questioner than SN 12.46's unnamed brahmin."},
+        {"q": "What does the Buddha's answer replace the existence question with?",
+         "opts": [
+             "The twelve-link chain of dependent origination, run forward and in reverse",
+             "A direct ruling that everything exists",
+             "A direct ruling that nothing exists",
+             "A refusal to address the question at all"],
+         "correct": 0,
+         "expl": "Conditionality offered in place of a verdict about existence."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "Jānussoṇi praises the teaching and declares himself a lay follower for life",
+             "Jānussoṇi walks away unconvinced",
+             "Jānussoṇi asks a further question that goes unanswered",
+             "The discourse ends without any response from Jānussoṇi"],
+         "correct": 0,
+         "expl": "The same conversion pattern as SN 12.46."},
+        {"q": "What does this discourse demonstrate when read against SN 12.15?",
+         "opts": [
+             "That the same teaching answers an existence question however broadly or narrowly it's framed",
+             "That the Buddha gave contradictory answers to similar questions",
+             "That SN 12.15 must be a later addition to the canon",
+             "That existence questions were considered off-limits for brahmins"],
+         "correct": 0,
+         "expl": "Breadth of question, sameness of answer."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A question widened to everything", [
+            "not the world alone, but all things &mdash;",
+            "the same puzzle, broader scope",
+        ]),
+        ("Two extremes, again set aside", [
+            "all exists, or all does not &mdash;",
+            "neither claim allowed to stand",
+        ]),
+        ("A formula heard a fourth time", [
+            "the same middle way, once more &mdash;",
+            "answering however the question is framed",
+        ]),
+        ("A named questioner, for once", [
+            "Jānussoṇi, met elsewhere too &mdash;",
+            "a slightly less anonymous visitor",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.47/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.46.html">SN 12.46 &middot; A Certain Brahmin</a> '
+        "&mdash; the discourse immediately before this one, "
+        "structurally identical but for its question.",
+        '<a href="sn-12.15.html">SN 12.15 &middot; Kaccānagotta</a> '
+        "&mdash; the earlier discourse asking the same existence "
+        "question specifically about the world.",
+        '<a href="sn-12.48.html">SN 12.48 &middot; A Cosmologist</a> '
+        "&mdash; the next discourse, the same two extremes joined by "
+        "two further positions from a rival philosophical school.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.48 — Lokāyatikasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 48, "Lokāyatika", "A Cosmologist",
+    meta_title="SN 12.48 — A Cosmologist | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Lokāyatikasutta — a brahmin cosmologist names four "
+        "positions instead of the usual two, and still receives the "
+        "same twelve-link middle way already given for narrower "
+        "pairs of extremes. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and a brahmin cosmologist "
+                     "(lokāyatika)"),
+        ("Form", "Four questions in sequence, each answer named a "
+                 "distinct cosmology, followed by the middle way and "
+                 "a closing conversion"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "brief, but its four-position structure "
+                       "raises an interpretive question this guide "
+                       "doesn't try to resolve"),
+    ],
+    why=(
+        "A brahmin identified as a lokāyatika &mdash; a term "
+        "associated with a tradition of speculative natural "
+        "philosophy, later linked to positions read as materialist, "
+        "though this reading guide doesn't claim a precise "
+        "identification with any later school &mdash; puts to the "
+        "Buddha not two positions but four: everything exists, "
+        "everything doesn't exist, everything is one, and everything "
+        "is many. Each is named in turn as one of four cosmologies "
+        "&mdash; the oldest, the second, the third, the fourth "
+        "&mdash; without argument, before the Buddha responds with "
+        "the same middle-way formula used elsewhere in this saṃyutta "
+        "for narrower pairs of extremes. The discourse leaves an "
+        "honest puzzle unresolved: the closing formula names "
+        "avoiding \"these two extremes,\" yet four positions have "
+        "just been listed, and the text itself doesn't clarify "
+        "whether the middle way is meant to set aside all four or "
+        "specifically the first pair."),
+    guide=[
+        ("Four positions where other discourses give two", [
+            "Every other brahmin-question discourse in this chapter "
+            "poses a single pair of extremes; this one uniquely "
+            "poses four distinct cosmological positions in "
+            "succession, each treated as its own numbered claim "
+            "rather than folded into a binary."]),
+        ("Named without argument, oldest to newest", [
+            "Each position is introduced only to be labeled &mdash; "
+            "\"this is the oldest cosmology,\" \"this is the second "
+            "cosmology,\" and so on &mdash; with no reasoning given "
+            "for why each one might seem plausible, unlike the "
+            "brahmin's engagement in some other discourses in this "
+            "collection."]),
+        ("An honest interpretive puzzle left open", [
+            "The closing formula speaks of avoiding \"these two "
+            "extremes,\" but four positions have been named; this "
+            "reading guide doesn't resolve whether the middle way is "
+            "meant to address all four together or specifically "
+            "returns to the first pair, since the source text itself "
+            "doesn't clarify the point."]),
+        ("The same middle way, regardless of how many extremes precede it", [
+            "Whatever the resolution of that puzzle, the content of "
+            "the Buddha's answer doesn't change: the same twelve-link "
+            "chain, run forward to suffering's arising and in "
+            "reverse to its cessation, already given for the "
+            "questions in SN 12.15, SN 12.46, and SN 12.47."]),
+        ("A term worth handling with care", [
+            "Lokāyata is sometimes rendered \"cosmology\" and "
+            "sometimes associated with later materialist or "
+            "skeptical philosophy, but its precise scope in this "
+            "discourse's own context is genuinely debated among "
+            "scholars, and this reading guide doesn't assert a firm "
+            "identification beyond what the text itself states."]),
+    ],
+    terms=[
+        ("lokāyatiko brāhmaṇo",
+         "&ldquo;a brahmin cosmologist&rdquo; &mdash; lokāyatika, a "
+         "term whose precise scope and later associations with "
+         "materialist philosophy are genuinely debated."),
+        ("sabbamatthi&hellip; jeṭṭhametaṁ lokāyataṁ",
+         "&ldquo;all exists: this is the oldest cosmology&rdquo; "
+         "&mdash; the first of four positions named in turn."),
+        ("sabbamekattaṁ&hellip; tatiyametaṁ lokāyataṁ",
+         "&ldquo;all is oneness: this is the third cosmology&rdquo; "
+         "&mdash; a position not raised by the other brahmins "
+         "questioning existence elsewhere in this saṃyutta."),
+        ("sabbaṁ puthuttaṁ&hellip; catutthametaṁ lokāyataṁ",
+         "&ldquo;all is diversity: this is the fourth cosmology&rdquo; "
+         "&mdash; the fourth and final position named."),
+        ("ubho ante anupagamma majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;avoiding these two extremes, the Realized One "
+         "teaches by the middle way&rdquo; &mdash; the same recurring "
+         "formula, here following four named positions rather than "
+         "two."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.48:1.1-1.3"),
+        ("p", "&sect;2", "sn12.48:2.1-2.2"),
+        ("p", "&sect;3", "sn12.48:3.1-3.2"),
+        ("p", "&sect;4", "sn12.48:4.1-4.2"),
+        ("p", "&sect;5", "sn12.48:5.1-5.2"),
+        ("p", "&sect;6", "sn12.48:6.1-6.7"),
+        ("p", "&sect;7", "sn12.48:7.1-7.3"),
+    ],
+    quiz=[
+        {"q": "How many distinct positions does the brahmin cosmologist name, unlike most other brahmin-question discourses in this chapter?",
+         "opts": [
+             "Four, rather than the usual two",
+             "Only one",
+             "Two, exactly as in the other discourses",
+             "Six"],
+         "correct": 0,
+         "expl": "A structurally unique discourse within this chapter's pattern."},
+        {"q": "What are the four positions named in this discourse?",
+         "opts": [
+             "All exists, all doesn't exist, all is oneness, all is diversity",
+             "All is permanent, all is impermanent, all is painful, all is pleasant",
+             "The world is finite, infinite, both, and neither",
+             "The self exists, doesn't exist, both, and neither"],
+         "correct": 0,
+         "expl": "Four cosmological claims, named oldest to newest."},
+        {"q": "How does the Buddha respond to each of the four positions as they're raised?",
+         "opts": [
+             "He simply labels each one — the oldest cosmology, the second, and so on — without arguing against it",
+             "He refutes each one in detailed argument",
+             "He affirms two of the four as correct",
+             "He refuses to engage with any of them"],
+         "correct": 0,
+         "expl": "Naming without argument, unlike some other brahmin exchanges in this collection."},
+        {"q": "What interpretive puzzle does this reading guide note about the closing formula?",
+         "opts": [
+             "It speaks of \"these two extremes\" despite four positions having been named, and the text doesn't clarify the scope",
+             "The closing formula is missing from this discourse entirely",
+             "The formula explicitly names all four positions individually",
+             "There is no puzzle; the formula clearly addresses all four"],
+         "correct": 0,
+         "expl": "An honest gap the reading guide doesn't try to resolve beyond what the text states."},
+        {"q": "Does the content of the Buddha's answer change because four positions were raised instead of two?",
+         "opts": [
+             "No — the same twelve-link chain, forward and in reverse, is given regardless",
+             "Yes, an entirely different teaching is given in this discourse",
+             "Yes, the chain is given only in the forward direction here",
+             "Yes, four separate teachings are given, one per position"],
+         "correct": 0,
+         "expl": "The same middle-way content as SN 12.15, SN 12.46, and SN 12.47."},
+        {"q": "What term names the brahmin's own tradition in this discourse?",
+         "opts": [
+             "Lokāyatika",
+             "Brāhmaṇa alone, with no further qualification",
+             "Sāmaṇa",
+             "Ājīvaka"],
+         "correct": 0,
+         "expl": "A term whose precise later associations this reading guide treats with caution."},
+        {"q": "Does this reading guide assert a firm identification of lokāyata with a specific later philosophical school?",
+         "opts": [
+             "No — it notes the term's scope is genuinely debated among scholars",
+             "Yes, it identifies it definitively with a specific later school",
+             "Yes, it identifies the brahmin as a specific named historical figure",
+             "The term is not discussed at all in this reading guide"],
+         "correct": 0,
+         "expl": "A deliberately cautious, non-overreaching treatment of a contested term."},
+        {"q": "How does this discourse end?",
+         "opts": [
+             "The brahmin cosmologist praises the teaching and declares himself a lay follower for life",
+             "The brahmin walks away unconvinced",
+             "The brahmin challenges the Buddha to a formal debate",
+             "The discourse ends without any response from the brahmin"],
+         "correct": 0,
+         "expl": "The same conversion pattern as SN 12.46 and SN 12.47."},
+        {"q": "Which position among the four is unique to this discourse, not raised in SN 12.46 or SN 12.47?",
+         "opts": [
+             "That all is oneness, or that all is diversity",
+             "That all exists",
+             "That all does not exist",
+             "None of the four positions are unique to this discourse"],
+         "correct": 0,
+         "expl": "The third and fourth cosmologies, absent from the narrower two-extreme exchanges."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("Four positions, not the usual two", [
+            "existence, non-existence, oneness, diversity &mdash;",
+            "each simply labeled and set down",
+        ]),
+        ("Named, not argued against", [
+            "oldest, second, third, fourth cosmology &mdash;",
+            "no rebuttal offered to any",
+        ]),
+        ("A puzzle left honestly open", [
+            "\"these two extremes\" — but four were named &mdash;",
+            "the text itself doesn't say which",
+        ]),
+        ("The same chain, however many named before it", [
+            "twelve links, forward and reversed &mdash;",
+            "unchanged by how the question was framed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.48/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.47.html">SN 12.47 &middot; Jānussoṇi</a> '
+        "&mdash; the discourse immediately before this one, posing "
+        "the same first two positions alone.",
+        '<a href="sn-12.49.html">SN 12.49 &middot; A Noble Disciple</a> '
+        "&mdash; the next discourse, turning from a visitor's "
+        "questions to how a noble disciple's own knowledge is "
+        "independent of any such position.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.49 — Ariyasāvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 49, "Ariyasāvaka", "A Noble Disciple",
+    meta_title="SN 12.49 — A Noble Disciple | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ariyasāvakasutta — a learned noble disciple doesn't ask "
+        "the twelve-link chain as a question at all, but holds it as "
+        "knowledge independent of others, understanding this as how "
+        "the world originates and ceases. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A contrast between a question never asked and the "
+                 "independent knowledge held instead, run through "
+                 "arising and cessation in full, unelided detail"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the fullest, most explicit statement in this "
+                       "chapter of what distinguishes a noble "
+                       "disciple's knowledge from ordinary inquiry"),
+    ],
+    why=(
+        "This discourse draws a distinction easy to miss: a learned "
+        "noble disciple doesn't think through dependent origination "
+        "as a series of open questions &mdash; when what exists is "
+        "there this, due to the arising of what does that arise? "
+        "&mdash; because that framing would imply the matter is "
+        "still uncertain. Instead they hold what the discourse calls "
+        "knowledge independent of others (aparappaccayā ñāṇa), "
+        "stated directly as a chain of conditions rather than "
+        "arrived at by working through a series of hypotheticals. "
+        "The forward and reverse directions are each given in full, "
+        "unelided detail, link by link, closing with the "
+        "understanding that this is how the world originates and "
+        "how it ceases &mdash; the same equation of the world with "
+        "the sense doors' conditioned process already made in SN "
+        "12.44. The discourse ends with a cascade of honorific "
+        "epithets for the disciple who holds this understanding, "
+        "closing on the image of one who stands knocking at the door "
+        "to freedom from death."),
+    guide=[
+        ("A question the disciple doesn't ask", [
+            "The discourse opens by describing, at length, a series "
+            "of hypothetical questions a learned noble disciple does "
+            "not think &mdash; not because the questions are "
+            "forbidden, but because thinking them would imply "
+            "uncertainty about something the disciple already "
+            "understands directly."]),
+        ("Knowledge independent of others, named directly", [
+            "\"Aparappaccayā ñāṇa\" &mdash; knowledge that doesn't "
+            "depend on another for its validity &mdash; is offered "
+            "as what the disciple has instead of the unanswered "
+            "questions, a term naming a specific epistemic status "
+            "rather than simple confidence or belief."]),
+        ("The full chain, unelided in both directions", [
+            "Unlike most treatments of the twelve links elsewhere in "
+            "this saṃyutta, both the forward and reverse chains are "
+            "spelled out link by link without peyyāla compression, "
+            "giving this discourse the fullest explicit statement of "
+            "the complete formula found in this chapter."]),
+        ("The world, understood rather than debated", [
+            "Each direction closes with the disciple simply "
+            "understanding \"that is how this world originates\" or "
+            "\"ceases\" &mdash; the identical equation of the world "
+            "with the conditioned process at the sense doors already "
+            "made explicit in SN 12.44, now folded into what a noble "
+            "disciple's settled understanding actually consists of."]),
+        ("A cascade of epithets closing the discourse", [
+            "Rather than ending on a single description, the "
+            "discourse closes by naming the disciple who holds this "
+            "understanding through a sequence of honorific titles, "
+            "building to the image of one who stands knocking at the "
+            "door to freedom from death."]),
+    ],
+    terms=[
+        ("sutavato ariyasāvakassa",
+         "&ldquo;a learned noble disciple&rdquo; &mdash; the same "
+         "recurring figure already named in SN 12.37 and SN 12.41."),
+        ("aparappaccayā ñāṇaṁ",
+         "&ldquo;knowledge independent of others&rdquo; &mdash; the "
+         "discourse's key epistemological term, naming what the "
+         "disciple has instead of open questions."),
+        ("kismiṁ sati kiṁ hoti, kissuppādā kiṁ uppajjati",
+         "&ldquo;when what exists, what is? Due to the arising of "
+         "what, what arises?&rdquo; &mdash; the hypothetical "
+         "question form the disciple does not think."),
+        ("evamayaṁ loko samudayatī&hellip; nirujjhatī",
+         "&ldquo;that is how this world originates&hellip; "
+         "ceases&rdquo; &mdash; the closing understanding for each "
+         "direction, echoing SN 12.44's equation of the world with "
+         "this process."),
+        ("amatadvāraṁ āhacca tiṭṭhati",
+         "&ldquo;stands knocking at the door to freedom from "
+         "death&rdquo; &mdash; the discourse's closing image, the "
+         "last of a cascade of epithets."),
+    ],
+    text_intro=(
+        "The discourse in full, given here without the peyyāla "
+        "compression found elsewhere in this saṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.49:1.1-1.2"),
+        ("p", "&sect;2", "sn12.49:1.3-1.5"),
+        ("p", "&sect;3", "sn12.49:2.1-2.15"),
+        ("p", "&sect;4", "sn12.49:3.1-3.4"),
+        ("p", "&sect;5", "sn12.49:4.1-4.11"),
+        ("p", "&sect;6", "sn12.49:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say a learned noble disciple does not do?",
+         "opts": [
+             "Think through dependent origination as a series of open, hypothetical questions",
+             "Practice meditation at all",
+             "Speak to other mendicants",
+             "Accept any teaching from the Buddha without question"],
+         "correct": 0,
+         "expl": "Not because the questions are forbidden, but because they'd imply unresolved uncertainty."},
+        {"q": "What does the disciple have instead of these open questions?",
+         "opts": [
+             "Knowledge independent of others (aparappaccayā ñāṇa)",
+             "A written scripture to consult",
+             "A teacher who answers on their behalf",
+             "Nothing; the discourse says the disciple simply remains uncertain"],
+         "correct": 0,
+         "expl": "A specific epistemic status, not mere belief or confidence."},
+        {"q": "How is the twelve-link chain treated in this discourse, compared to most others in this saṃyutta?",
+         "opts": [
+             "Spelled out in full, unelided detail in both directions",
+             "Heavily compressed with peyyāla ellipsis throughout",
+             "Only the forward direction is given at all",
+             "The chain is not mentioned in this discourse"],
+         "correct": 0,
+         "expl": "The fullest explicit statement of the complete formula in this chapter."},
+        {"q": "What does the disciple understand at the close of each direction of the chain?",
+         "opts": [
+             "\"That is how this world originates\" or \"ceases\"",
+             "\"That is how suffering is caused by the gods\"",
+             "\"That is how the self is created\"",
+             "The discourse gives no closing understanding at all"],
+         "correct": 0,
+         "expl": "Echoing SN 12.44's equation of the world with this conditioned process."},
+        {"q": "What image closes the discourse's cascade of epithets?",
+         "opts": [
+             "One who stands knocking at the door to freedom from death",
+             "One who has crossed the ocean of birth and death",
+             "One who has extinguished all desire for food",
+             "One who sits beneath the bodhi tree"],
+         "correct": 0,
+         "expl": "The final and most vivid of the honorific titles given."},
+        {"q": "Why doesn't the disciple think the hypothetical question form at all, according to this discourse?",
+         "opts": [
+             "Because thinking it would imply uncertainty about something already understood directly",
+             "Because such questions are forbidden by monastic rule",
+             "Because the disciple has never heard of dependent origination",
+             "Because the Buddha has explicitly banned all questions"],
+         "correct": 0,
+         "expl": "A framing issue, not a prohibition."},
+        {"q": "What does \"aparappaccayā ñāṇa\" mean?",
+         "opts": [
+             "Knowledge independent of others, not dependent on another for its validity",
+             "Knowledge received directly from a teacher's authority",
+             "Knowledge gained only through years of study",
+             "A term meaning \"doubt\" or \"uncertainty\""],
+         "correct": 0,
+         "expl": "A specific term for self-verified, direct understanding."},
+        {"q": "Where does the equation of \"the world\" with this conditioned process first appear explicitly in this chapter?",
+         "opts": [
+             "SN 12.44, paired with SN 12.43's identical formula under the name \"suffering\"",
+             "This is the first discourse in the chapter to make this equation",
+             "SN 12.41, in the declaration of stream-entry",
+             "SN 12.31, in Sāriputta's threefold seeing"],
+         "correct": 0,
+         "expl": "A phrase planted earlier in this chapter and echoed here."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A question never asked", [
+            "not forbidden, but unnecessary &mdash;",
+            "already understood, not wondered at",
+        ]),
+        ("Knowledge that answers to no one else", [
+            "aparappaccayā ñāṇa &mdash;",
+            "not dependent on another's word",
+        ]),
+        ("The full chain, this time unelided", [
+            "every link spelled out, both ways &mdash;",
+            "arising and cessation alike",
+        ]),
+        ("A cascade closing on one image", [
+            "epithet after epithet &mdash;",
+            "knocking at the door to no more death",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.49/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.48.html">SN 12.48 &middot; A Cosmologist</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.44.html">SN 12.44 &middot; The World</a> '
+        "&mdash; the earlier discourse in this chapter first equating "
+        "the world with the process this discourse's disciple "
+        "understands.",
+        '<a href="sn-12.50.html">SN 12.50 &middot; A Noble Disciple (2nd)</a> '
+        "&mdash; the next discourse, closing this chapter with the "
+        "same teaching and a fuller version of its closing epithets.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.50 — Dutiyaariyasāvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 50, "Dutiyaariyasāvaka", "A Noble Disciple (2nd)",
+    meta_title="SN 12.50 — A Noble Disciple (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaariyasāvakasutta — closing Gahapativagga with the "
+        "same teaching as SN 12.49, its closing epithets spelled out "
+        "in full where its twin elides them. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same contrast and chain as SN 12.49, with the "
+                 "closing cascade of epithets given in full rather "
+                 "than elided"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "closing this chapter with its fullest single "
+                       "statement of a noble disciple's understanding"),
+    ],
+    why=(
+        "Closing Gahapativagga, this discourse repeats SN 12.49's "
+        "teaching almost word for word &mdash; the same hypothetical "
+        "question the disciple doesn't think, the same knowledge "
+        "independent of others, the same forward and reverse chain "
+        "&mdash; but reverses where the compression falls. This "
+        "discourse elides more of its middle sections with peyyāla "
+        "than SN 12.49 does, yet spells out in full something SN "
+        "12.49 elides: the complete cascade of nine epithets "
+        "describing the disciple who holds this understanding, from "
+        "\"accomplished in view\" through \"a noble one with "
+        "penetrative wisdom\" to the closing image of one who stands "
+        "at the door to freedom from death. Sujato's translation "
+        "renders that closing phrase differently in the two twin "
+        "discourses &mdash; \"knocking\" in SN 12.49, \"pressing "
+        "against\" here &mdash; despite the identical Pali underlying "
+        "both, a small, honestly noted variation in how the same "
+        "phrase has been rendered twice."),
+    guide=[
+        ("The same teaching, compression redistributed", [
+            "Every substantive element of SN 12.49 reappears here "
+            "&mdash; the unasked question, knowledge independent of "
+            "others, the full chain &mdash; but this discourse elides "
+            "more of its middle material with peyyāla than its twin, "
+            "while expanding elsewhere."]),
+        ("Nine epithets, spelled out where SN 12.49 elides them", [
+            "SN 12.49's closing cascade of titles for the "
+            "understanding disciple uses a peyyāla ellipsis partway "
+            "through; this discourse gives all nine in full &mdash; "
+            "accomplished in view, accomplished in vision, come to "
+            "the true teaching, one who sees the true teaching, "
+            "endowed with a trainee's knowledge, endowed with a "
+            "trainee's wisdom, entered the stream of the teaching, a "
+            "noble one with penetrative wisdom &mdash; before the "
+            "closing image."]),
+        ("One phrase, two different translations", [
+            "The closing phrase &ldquo;amatadvāraṁ āhacca "
+            "tiṭṭhati&rdquo; is identical in the Pali of both "
+            "discourses, yet Sujato renders it &ldquo;stands knocking "
+            "at the door to freedom from death&rdquo; in SN 12.49 and "
+            "&ldquo;stands pressing against the door to freedom from "
+            "death&rdquo; here &mdash; a small, honestly noted "
+            "translation variance between twin discourses rather "
+            "than a difference in the underlying text."]),
+        ("A chapter closing on understanding, not narrative drama", [
+            "Unlike some other vaggas in this saṃyutta, which close "
+            "on a dramatic or emotionally weighted episode, "
+            "Gahapativagga ends on a purely doctrinal note: what "
+            "exactly a noble disciple's settled understanding of "
+            "dependent origination consists of, restated once more "
+            "for emphasis."]),
+        ("The vagga's own closing verse, present but untranslated", [
+            "This discourse carries Gahapativagga's closing verse of "
+            "discourse titles, not translated in the source and not "
+            "quoted here; its ten titles are described in the "
+            "reading guide's summary of this chapter instead, "
+            "following the same convention used at the close of "
+            "Kaḷārakhattiyavagga."]),
+    ],
+    terms=[
+        ("aparappaccayā ñāṇaṁ",
+         "&ldquo;knowledge independent of others&rdquo; &mdash; the "
+         "same key term as SN 12.49."),
+        ("evamayaṁ loko samudayatī&hellip; nirujjhatī",
+         "&ldquo;that is how this world originates&hellip; "
+         "ceases&rdquo; &mdash; the same closing understanding as SN "
+         "12.49, for each direction of the chain."),
+        ("dassanasampanno&hellip; sekkhena ñāṇena samannāgato&hellip; "
+         "ariyo nibbedhikapañño",
+         "&ldquo;accomplished in vision&hellip; endowed with a "
+         "trainee's knowledge&hellip; a noble one with penetrative "
+         "wisdom&rdquo; &mdash; part of the nine-epithet cascade "
+         "this discourse spells out in full where SN 12.49 elides "
+         "it with peyyāla."),
+        ("amatadvāraṁ āhacca tiṭṭhati",
+         "&ldquo;stands pressing against the door to freedom from "
+         "death&rdquo; &mdash; the identical Pali phrase Sujato "
+         "renders as &ldquo;knocking&rdquo; in SN 12.49, translated "
+         "differently here."),
+        ("kismiṁ sati kiṁ hoti, kissuppādā kiṁ uppajjati",
+         "&ldquo;when what exists, what is? Due to the arising of "
+         "what, what arises?&rdquo; &mdash; the same hypothetical "
+         "question form the disciple does not think, shared with SN "
+         "12.49."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Gahapativagga. The "
+        "chapter's closing verse of discourse titles is not "
+        "translated in the source and is not quoted here; see the "
+        "reading guide above for its contents. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.50:1.1-1.2"),
+        ("p", "&sect;2", "sn12.50:1.3-1.4"),
+        ("p", "&sect;3", "sn12.50:2.1-2.15"),
+        ("p", "&sect;4", "sn12.50:3.1-3.3"),
+        ("p", "&sect;5", "sn12.50:4.1-4.9"),
+        ("p", "&sect;6", "sn12.50:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's teaching compare to SN 12.49's?",
+         "opts": [
+             "The same substantive teaching, with compression redistributed differently",
+             "An entirely different, unrelated teaching",
+             "A direct contradiction of SN 12.49",
+             "A much shorter fragment omitting most content"],
+         "correct": 0,
+         "expl": "Same content, differently compressed in different places."},
+        {"q": "What does this discourse spell out in full that SN 12.49 elides?",
+         "opts": [
+             "The complete cascade of nine epithets describing the understanding disciple",
+             "The twelve-link chain itself",
+             "The setting and audience",
+             "The hypothetical question the disciple doesn't think"],
+         "correct": 0,
+         "expl": "All nine epithets given here, where SN 12.49 uses an ellipsis partway through."},
+        {"q": "How does Sujato translate \"amatadvāraṁ āhacca tiṭṭhati\" in this discourse, compared to SN 12.49?",
+         "opts": [
+             "\"Pressing against\" here, versus \"knocking\" in SN 12.49, for identical Pali",
+             "The exact same English wording in both discourses",
+             "This discourse omits the phrase entirely",
+             "\"Breaking down\" here, versus \"opening\" in SN 12.49"],
+         "correct": 0,
+         "expl": "A small, honestly noted translation variance between twin discourses."},
+        {"q": "What does this discourse's closing verse of discourse titles consist of?",
+         "opts": [
+             "An untranslated uddāna listing Gahapativagga's ten discourse titles, not quoted in the text section",
+             "A fully translated poem quoted in the text section",
+             "A prose summary of the whole chapter",
+             "This discourse has no closing verse at all"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "What chapter does this discourse close?",
+         "opts": [
+             "Gahapativagga",
+             "Kaḷārakhattiyavagga",
+             "Dasabalavagga",
+             "Dukkhavagga"],
+         "correct": 0,
+         "expl": "The fifth chapter of Nidānavagga, named for its opening discourse's householder."},
+        {"q": "What does the disciple understand at the close of each direction of the chain?",
+         "opts": [
+             "\"That is how this world originates\" or \"ceases\"",
+             "\"That is how the self is created\"",
+             "\"That is how suffering is caused by fate\"",
+             "The discourse gives no closing understanding"],
+         "correct": 0,
+         "expl": "The same equation of the world with this process as SN 12.49."},
+        {"q": "Does Gahapativagga close on a dramatic narrative episode, like some other vaggas in this saṃyutta?",
+         "opts": [
+             "No — it closes on a purely doctrinal restatement of a noble disciple's understanding",
+             "Yes, it closes with the Buddha's own death",
+             "Yes, it closes with a dramatic confrontation with Māra",
+             "Yes, it closes with a monk's sudden death"],
+         "correct": 0,
+         "expl": "A quieter, doctrinally focused close than Book I's more narrative vagga endings."},
+        {"q": "What term names the epistemic status the disciple has instead of open questions?",
+         "opts": [
+             "Aparappaccayā ñāṇa, knowledge independent of others",
+             "Saddhā, faith alone",
+             "Vīmaṁsā, mere speculation",
+             "Sati, mindfulness alone"],
+         "correct": 0,
+         "expl": "The same key term used in SN 12.49."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 12.49, immediately before it."},
+    ],
+    marginalia=[
+        ("The same teaching, compression moved", [
+            "elided more here, less there &mdash;",
+            "one twin balancing the other",
+        ]),
+        ("Nine epithets, none left out", [
+            "spelled out where SN 12.49 abbreviates &mdash;",
+            "the full cascade, this time complete",
+        ]),
+        ("One phrase, two English hands", [
+            "\"knocking\" there, \"pressing against\" here &mdash;",
+            "the same Pali, rendered twice differently",
+        ]),
+        ("A chapter closed without drama", [
+            "no death, no confrontation &mdash;",
+            "only understanding, restated once more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.50/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.49.html">SN 12.49 &middot; A Noble Disciple</a> '
+        "&mdash; the discourse immediately before this one, its twin "
+        "in every substantive respect.",
+        '<a href="sn-12.41.html">SN 12.41 &middot; Fears and Enmities</a> '
+        "&mdash; opening this chapter with Anāthapiṇḍika's three-part "
+        "self-test, closed here by a purely doctrinal restatement of "
+        "a noble disciple's understanding.",
+    ],
+)
