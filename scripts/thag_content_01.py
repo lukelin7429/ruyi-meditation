@@ -9836,3 +9836,1994 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.51 — Godhika
+# --------------------------------------------------------------------------- #
+page(
+    1, 51, "Godhika", "Godhika",
+    meta_title="Thag 1.51 — Godhika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Godhika's verse, opening Chapter Six with the same rain-and-hut "
+        "image that opened the whole Theragātha, and a name shared with "
+        "the monk of the Godhika Sutta. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "A rain-sheltered hut"),
+        ("Speaker", "Godhika, addressing the rain god directly"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "familiar image, reopened to begin a new "
+                       "chapter"),
+    ],
+    why=(
+        "Sujato's note on Subhūti's opening poem (Thag 1.1) predicted "
+        "this: the rain-god-invited-from-a-hut image &lsquo;recurs many "
+        "times in the Theragātha&rsquo;. Chapter Six is where that "
+        "prediction pays off in full &mdash; Godhika's verse reopens "
+        "the same scene almost fifty poems later, and it will not be "
+        "the last time this chapter returns to it."),
+    guide=[
+        ("The collection's opening image, reopened", [
+            "Godhika's second line, &lsquo;Channā me kuṭikā sukhā "
+            "nivātā&rsquo; (&lsquo;my hut is roofed and pleasant, "
+            "sheltered from the wind&rsquo;), repeats Subhūti's opening "
+            "line word for word. The rain god is invited to fall as it "
+            "pleases in both poems &mdash; here reordered so the rain "
+            "itself opens the verse, before the hut is even "
+            "described."]),
+        ("A serene mind, stated plainly", [
+            "Where Subhūti called his mind &lsquo;serene and "
+            "freed&rsquo;, Godhika says only &lsquo;my mind is "
+            "serene&rsquo; &mdash; a smaller claim, without the "
+            "explicit word for freedom. The difference is subtle, but "
+            "worth noticing across the run of poems this one opens."]),
+        ("A name shared with a famous, harder story", [
+            "This site's Saṁyutta Nikāya collection includes SN 4.23, "
+            "&lsquo;With Godhika&rsquo;: a monk who repeatedly reached "
+            "and then fell from temporary freedom of heart, and on a "
+            "seventh fall took his own life, after which Māra searched "
+            "the sky in vain for his consciousness. That text and this "
+            "verse share only a name and a Chapter Six theme of huts "
+            "and stillness; nothing here confirms they are the same "
+            "person, and this reading guide does not assert that they "
+            "are &mdash; but the resemblance, and the contrast between "
+            "this verse's contentment and that sutta's crisis, is "
+            "worth holding side by side."]),
+        ("Four poems, one formula, about to begin", [
+            "This verse is the first of four in a row (Thag 1.51 "
+            "through 1.54) that share the same two opening lines "
+            "almost exactly, each varying only its third line before "
+            "returning to the same invitation to the rain. Watch for "
+            "what each speaker changes."]),
+    ],
+    terms=[
+        ("vassati",
+         "&ldquo;rains&rdquo; &mdash; the verb opening this verse, "
+         "describing the rain god's fall compared to a sweet song."),
+        ("ku&#7789;ik&amacr;",
+         "&ldquo;little hut&rdquo; &mdash; the same word that opened "
+         "Subhūti's verse, Thag 1.1, at the very start of the "
+         "collection."),
+        ("susam&amacr;hita",
+         "&ldquo;serene&rdquo; or &ldquo;well composed&rdquo; &mdash; "
+         "describing Godhika's mind, a smaller claim than Subhūti's "
+         "&lsquo;serene and freed&rsquo;."),
+        ("deva",
+         "&ldquo;god&rdquo;, here the rain deity Godhika invites to "
+         "fall as it wishes."),
+        ("pavassa",
+         "&ldquo;rain forth&rdquo; &mdash; the imperative closing this "
+         "verse, echoing Subhūti's own closing invitation to the sky."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.51:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What line does Godhika's verse share word for word with Subhūti's opening poem, Thag 1.1?",
+         "opts": [
+             "A line about a river crossing",
+             "A line naming the Buddha",
+             "'My hut is roofed and pleasant, sheltered from the wind'",
+             "A line about almsfood"],
+         "correct": 2,
+         "expl": "The same image reopens the collection's rain-and-hut motif."},
+        {"q": "According to Sujato's note on Thag 1.1, what does this rain-and-hut image do across the Theragātha?",
+         "opts": [
+             "It never appears again",
+             "It recurs many times",
+             "It is unique to Subhūti alone",
+             "It only appears in the Therīgātha"],
+         "correct": 1,
+         "expl": "Chapter Six is where that recurrence arrives in force."},
+        {"q": "How does Godhika describe his own mind?",
+         "opts": [
+             "Anxious",
+             "Confused",
+             "Angry",
+             "Serene"],
+         "correct": 3,
+         "expl": "A plain, smaller claim than Subhūti's 'serene and freed'."},
+        {"q": "What does the verse invite the rain god to do?",
+         "opts": [
+             "Rain forth, as it wishes",
+             "Stop raining immediately",
+             "Move to another region",
+             "Nothing — no rain god is addressed"],
+         "correct": 0,
+         "expl": "An unafraid, welcoming address to the sky, as in Thag 1.1."},
+        {"q": "What does this reading guide say about SN 4.23, 'With Godhika'?",
+         "opts": [
+             "It confirms this is definitely the same Godhika",
+             "It shares only a name and a hut-and-stillness theme with this verse, without confirmed identity",
+             "It has no connection to this collection at all",
+             "It is a poem, not a discourse"],
+         "correct": 1,
+         "expl": "A resemblance worth noting, not a claim this guide asserts as fact."},
+        {"q": "In SN 4.23, what happens to the monk named Godhika?",
+         "opts": [
+             "He becomes a teacher of many students",
+             "He travels to another kingdom",
+             "He disrobes and returns to lay life",
+             "He repeatedly falls from temporary freedom of heart and eventually takes his own life"],
+         "correct": 3,
+         "expl": "A harder story than this verse's plain contentment."},
+        {"q": "How many poems in a row, starting with this one, share nearly the same two opening lines?",
+         "opts": [
+             "Two",
+             "Four",
+             "Six",
+             "All ten in this chapter"],
+         "correct": 1,
+         "expl": "Thag 1.51 through 1.54 share the formula, each varying its third line."},
+        {"q": "What does 'pavassa' mean?",
+         "opts": [
+             "Rain forth",
+             "Stop",
+             "Depart",
+             "Listen"],
+         "correct": 0,
+         "expl": "The imperative closing this verse's invitation to the sky."},
+        {"q": "Where does this poem fall in the Theragātha?",
+         "opts": [
+             "It opens Chapter Six, the Book of the Ones' sixth chapter",
+             "It closes the entire collection",
+             "It is part of the Book of the Twos",
+             "It opens Chapter One"],
+         "correct": 0,
+         "expl": "The first of ten poems in this new chapter."},
+        {"q": "What object does Godhika's verse share with Subhūti's, at the very start of the collection?",
+         "opts": [
+             "A begging bowl",
+             "A robe",
+             "A hut",
+             "A river"],
+         "correct": 2,
+         "expl": "The same concrete image, reopened almost fifty poems later."},
+    ],
+    marginalia=[
+        ("An old image, reopened", [
+            "same hut, same rain,",
+            "fifty poems later"
+        ]),
+        ("A prediction paying off", [
+            "Sujato said it recurs;",
+            "here it is again"
+        ]),
+        ("A name, not a claim", [
+            "Godhika twice —",
+            "resemblance, not proof"
+        ]),
+        ("Four poems, one formula", [
+            "same two lines,",
+            "then each one differs"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.51/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="../samyutta-nikaya/sn-4.23.html">SN 4.23 &mdash; With '
+        "Godhika</a> &mdash; a discourse about a monk sharing this "
+        "name, its connection to this verse unconfirmed but worth "
+        "holding side by side.",
+        '<a href="thag-1.50.html">Thag 1.50 &mdash; Vimala '
+        "(1st)</a> &mdash; the poem immediately before this one, "
+        "closing Chapter Five.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.52 — Sub&amacr;hu
+# --------------------------------------------------------------------------- #
+page(
+    1, 52, "Sub&amacr;hu", "Sub&amacr;hu",
+    meta_title="Thag 1.52 — Subāhu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Subāhu's verse, the second in Chapter Six's rain-and-hut "
+        "formula, naming mindfulness immersed in the body as his one "
+        "variation. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "A rain-sheltered hut"),
+        ("Speaker", "Subāhu, addressing the rain god directly"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same formula, one word changed"),
+    ],
+    why=(
+        "Subāhu's verse repeats Godhika's opening two lines almost "
+        "exactly, then varies only its third line: instead of a "
+        "serene mind in general, Subāhu names his mind as "
+        "&lsquo;immersed in the body&rsquo; &mdash; a specific nod to "
+        "k&amacr;yagat&amacr;sati, mindfulness of the body, as his own "
+        "particular practice inside the shared formula."),
+    guide=[
+        ("The same two lines, once more", [
+            "Subāhu's first two lines &mdash; the rain falling like a "
+            "sweet song, the hut roofed and pleasant &mdash; are "
+            "identical to Godhika's, continuing the run of near-"
+            "identical openings that began this chapter."]),
+        ("One word changed: the body, not just the mind", [
+            "Where Godhika said only &lsquo;my mind is serene&rsquo;, "
+            "Subāhu specifies &lsquo;my mind is immersed in the "
+            "body&rsquo; &mdash; naming k&amacr;yagat&amacr;sati "
+            "specifically, a distinct meditative theme (mindfulness "
+            "grounded in awareness of the body) rather than a generic "
+            "description of calm."]),
+        ("A formula built for small variation", [
+            "Two poems into this run, the pattern is now visible: each "
+            "speaker keeps the shared frame and changes exactly one "
+            "line, using it to name what is most particular about "
+            "their own practice. Watch for what the next two poems "
+            "choose to name."]),
+    ],
+    terms=[
+        ("k&amacr;ye",
+         "&ldquo;in the body&rdquo; &mdash; the word Subāhu adds to "
+         "the shared formula, specifying where his mind is immersed."),
+        ("susam&amacr;hita",
+         "&ldquo;serene&rdquo; or &ldquo;well composed&rdquo; &mdash; "
+         "shared with Godhika's verse, here applied specifically to "
+         "the body."),
+        ("k&amacr;yagat&amacr;sati",
+         "&ldquo;mindfulness immersed in the body&rdquo; &mdash; the "
+         "meditative theme this verse's third line points toward, "
+         "though the compound itself is not spelled out in the "
+         "verse."),
+        ("ku&#7789;ik&amacr;",
+         "&ldquo;little hut&rdquo; &mdash; the shared setting of this "
+         "whole run of poems."),
+        ("pavassa",
+         "&ldquo;rain forth&rdquo; &mdash; the closing invitation, "
+         "identical to Godhika's."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.52:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How do Subāhu's first two lines compare to Godhika's verse just before it?",
+         "opts": [
+             "Completely different",
+             "Nearly identical",
+             "Only the setting matches",
+             "Only the rain image matches"],
+         "correct": 1,
+         "expl": "The same shared opening formula continues."},
+        {"q": "What does Subāhu specify about his mind, unlike Godhika?",
+         "opts": [
+             "That it is anxious",
+             "That it is confused",
+             "That it is immersed in the body",
+             "Nothing is said about his mind"],
+         "correct": 2,
+         "expl": "A specific nod toward mindfulness grounded in the body."},
+        {"q": "What meditative theme does this verse's third line point toward?",
+         "opts": [
+             "Loving-kindness meditation",
+             "Walking meditation",
+             "Breath counting",
+             "Mindfulness immersed in the body"],
+         "correct": 3,
+         "expl": "Kāyagatāsati, though the compound isn't spelled out directly."},
+        {"q": "What is the pattern emerging across this run of poems, according to this reading guide?",
+         "opts": [
+             "Each poem is entirely unrelated to the others",
+             "Each speaker keeps the shared frame and varies exactly one line",
+             "Every line changes each time",
+             "No pattern is visible yet"],
+         "correct": 1,
+         "expl": "A formula built for small, telling variation."},
+        {"q": "What does the verse invite the rain god to do?",
+         "opts": [
+             "Rain forth, as it wishes",
+             "Stop raining",
+             "Move elsewhere",
+             "Nothing is addressed to the rain god"],
+         "correct": 0,
+         "expl": "The same closing invitation as Godhika's verse."},
+        {"q": "What does 'kāye' mean?",
+         "opts": [
+             "In the forest",
+             "In the sky",
+             "In the village",
+             "In the body"],
+         "correct": 3,
+         "expl": "The word Subāhu adds to the shared formula."},
+        {"q": "How many poems in this chapter's opening run share nearly the same two opening lines?",
+         "opts": [
+             "Two",
+             "Six",
+             "All ten",
+             "Four"],
+         "correct": 3,
+         "expl": "Thag 1.51 through 1.54, this poem being the second."},
+        {"q": "Where does this poem fall in the chapter?",
+         "opts": [
+             "It is the first poem",
+             "It is the last poem",
+             "It is the second poem",
+             "It falls outside this chapter"],
+         "correct": 2,
+         "expl": "Poem 2 of 10 in Chapter Six."},
+        {"q": "What is the setting shared by this verse and the one before it?",
+         "opts": [
+             "A riverbank",
+             "A rain-sheltered hut",
+             "A royal court",
+             "A marketplace"],
+         "correct": 1,
+         "expl": "The same domestic, rain-proof scene."},
+        {"q": "What does 'pavassa' mean, closing this verse?",
+         "opts": [
+             "Rain forth",
+             "Stop",
+             "Depart",
+             "Listen"],
+         "correct": 0,
+         "expl": "An unafraid, welcoming address to the sky, repeated from Thag 1.51."},
+    ],
+    marginalia=[
+        ("Same frame, one word", [
+            "hut and rain unchanged,",
+            "the body named instead"
+        ]),
+        ("Mind, grounded in body", [
+            "not just serene —",
+            "immersed, specifically"
+        ]),
+        ("A formula, taking shape", [
+            "two lines held fixed,",
+            "one line free to speak"
+        ]),
+        ("Second of four", [
+            "the pattern confirmed,",
+            "two poems still to come"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.52/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.51.html">Thag 1.51 &mdash; Godhika</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.53 — Valliya (1st)
+# --------------------------------------------------------------------------- #
+page(
+    1, 53, "Valliya", "Valliya (1st)",
+    meta_title="Thag 1.53 — Valliya (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Valliya's verse, the third in Chapter Six's rain-and-hut "
+        "formula, naming diligence as his one variation. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "A rain-sheltered hut"),
+        ("Speaker", "Valliya (distinguished from a second monk of the "
+                    "same name elsewhere in this collection), "
+                    "addressing the rain god directly"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same formula, one word changed again"),
+    ],
+    why=(
+        "The formula continues into its third poem: the same rain, "
+        "the same hut, and this time a third line naming diligence "
+        "&mdash; appam&amacr;da &mdash; as what Valliya does inside "
+        "that shelter. His name carries the ordinal &lsquo;(1st)&rsquo;, "
+        "marking him as distinct from another monk sharing his name "
+        "elsewhere in the Theragātha."),
+    guide=[
+        ("Diligence, named directly", [
+            "Where Godhika named a serene mind and Subāhu named "
+            "mindfulness immersed in the body, Valliya's third line "
+            "states simply that he dwells there &lsquo;diligent&rsquo; "
+            "&mdash; appamatto, the same quality praised throughout "
+            "the Theragātha and named explicitly as the Buddha's own "
+            "final exhortation elsewhere in the canon."]),
+        ("A name that expects a namesake", [
+            "The ordinal &lsquo;(1st)&rsquo; attached to Valliya's "
+            "name signals that another elder shares it later in the "
+            "collection, following the same disambiguation pattern "
+            "already seen with Tissa, Vaccha, and Sumaṅgala earlier in "
+            "this book."]),
+        ("Three poems in, the formula's real subject", [
+            "By this third repetition, the shared frame &mdash; rain, "
+            "hut, invitation to the sky &mdash; has become almost "
+            "invisible scaffolding. What each poem is actually about "
+            "is the single word each speaker chooses for that one "
+            "open line: serenity, embodiment, now diligence."]),
+    ],
+    terms=[
+        ("appamatta",
+         "&ldquo;diligent&rdquo; or &ldquo;heedful&rdquo; &mdash; the "
+         "quality Valliya names as his own variation on the shared "
+         "formula."),
+        ("appam&amacr;da",
+         "&ldquo;diligence&rdquo; or &ldquo;heedfulness&rdquo; "
+         "&mdash; the broader quality this verse's third line "
+         "invokes, praised throughout the Theragātha."),
+        ("ku&#7789;ik&amacr;",
+         "&ldquo;little hut&rdquo; &mdash; the shared setting "
+         "continuing from the two poems before this one."),
+        ("tassa&#7745;",
+         "&ldquo;there&rdquo; &mdash; the word opening Valliya's third "
+         "line, referring back to the hut just described."),
+        ("pavassa",
+         "&ldquo;rain forth&rdquo; &mdash; the closing invitation, "
+         "identical across all four poems in this run."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.53:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What quality does Valliya name in his verse's third line?",
+         "opts": [
+             "Anger",
+             "Confusion",
+             "Fear",
+             "Diligence"],
+         "correct": 3,
+         "expl": "Appamatto, 'diligent' — his own variation on the shared formula."},
+        {"q": "What does the ordinal '(1st)' attached to Valliya's name signal?",
+         "opts": [
+             "That he was the first monk ever ordained",
+             "That another elder shares his name later in the collection",
+             "That this is his first verse of many",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "The same disambiguation pattern seen with Tissa, Vaccha, and others earlier in this book."},
+        {"q": "How do this verse's first two lines compare to the two poems before it?",
+         "opts": [
+             "Completely different",
+             "Only the rain image is shared",
+             "The same shared formula continues",
+             "Only the hut image is shared"],
+         "correct": 2,
+         "expl": "Rain, hut — the same opening, three poems running."},
+        {"q": "What did Godhika and Subāhu name in their own third lines, for comparison?",
+         "opts": [
+             "A serene mind, then mindfulness immersed in the body",
+             "Both named diligence",
+             "Neither varied the third line",
+             "Both named a distant journey"],
+         "correct": 0,
+         "expl": "Each poem names a different single quality inside the shared frame."},
+        {"q": "According to this reading guide, what has the shared frame become by this third repetition?",
+         "opts": [
+             "The main point of the poem",
+             "Almost invisible scaffolding around each speaker's one distinct word",
+             "Increasingly confusing",
+             "Entirely abandoned"],
+         "correct": 1,
+         "expl": "The real content is the single varying word, not the repeated frame."},
+        {"q": "What does 'appamāda' mean?",
+         "opts": [
+             "Wealth",
+             "Silence",
+             "Speed",
+             "Diligence or heedfulness"],
+         "correct": 3,
+         "expl": "A quality praised throughout the Theragātha."},
+        {"q": "What does the verse invite the rain god to do?",
+         "opts": [
+             "Stop raining",
+             "Rain forth, as it wishes",
+             "Move elsewhere",
+             "Nothing is addressed to it"],
+         "correct": 1,
+         "expl": "The same closing invitation shared across this run of poems."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "First",
+             "Second",
+             "Third",
+             "Last"],
+         "correct": 2,
+         "expl": "Poem 3 of 10, continuing the rain-and-hut formula."},
+        {"q": "What is the setting of this verse?",
+         "opts": [
+             "A rain-sheltered hut",
+             "A riverbank",
+             "A marketplace",
+             "A mountain peak"],
+         "correct": 0,
+         "expl": "The same domestic scene shared with the poems before it."},
+        {"q": "What does 'tassaṁ' mean, opening Valliya's third line?",
+         "opts": [
+             "There",
+             "Never",
+             "Always",
+             "Elsewhere"],
+         "correct": 0,
+         "expl": "Referring back to the hut just described."},
+    ],
+    marginalia=[
+        ("A third word, offered", [
+            "not calm, not body —",
+            "diligence, this time"
+        ]),
+        ("A name expecting company", [
+            "'(1st)' marks him,",
+            "a namesake still to come"
+        ]),
+        ("Scaffolding, made visible", [
+            "same rain, same hut,",
+            "one word carries it"
+        ]),
+        ("Three of four", [
+            "the pattern nearly complete,",
+            "one poem left"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.53/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.52.html">Thag 1.52 &mdash; Sub&amacr;hu</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.54 — Uttiya (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    1, 54, "Uttiya", "Uttiya (2nd)",
+    meta_title="Thag 1.54 — Uttiya (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Uttiya's verse, the fourth and final poem in Chapter Six's "
+        "rain-and-hut formula, naming solitude as his one variation. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "A rain-sheltered hut"),
+        ("Speaker", "Uttiya (marked '(2nd)', distinct from another "
+                    "monk of the same name), addressing the rain god "
+                    "directly"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the formula's fourth and final word"),
+    ],
+    why=(
+        "Uttiya's verse closes the run of four rain-and-hut poems that "
+        "opened this chapter. His variation is solitude: he dwells in "
+        "his hut &lsquo;without a partner&rsquo;, adutiyo &mdash; a "
+        "literal &lsquo;without a second&rsquo;, closing a sequence "
+        "that has now named a serene mind, embodied mindfulness, "
+        "diligence, and finally aloneness itself."),
+    guide=[
+        ("The fourth word: aloneness", [
+            "Adutiyo, &lsquo;without a second&rsquo; or "
+            "&lsquo;without a partner&rsquo;, is Uttiya's variation on "
+            "the shared third line &mdash; a direct statement that he "
+            "dwells in his hut alone, closing this run on the theme of "
+            "solitary practice itself."]),
+        ("Four poems, four words, one formula", [
+            "Read together, the run now reads as a small set: Godhika "
+            "named serenity, Subāhu named the body, Valliya named "
+            "diligence, and Uttiya names solitude &mdash; four "
+            "different single words filling the same fixed frame, "
+            "each pointing at a distinct facet of the same "
+            "contentment."]),
+        ("A second Uttiya, elsewhere", [
+            "The ordinal &lsquo;(2nd)&rsquo; marks this Uttiya as "
+            "distinct from another elder sharing his name, following "
+            "the same pattern already seen with Valliya just before "
+            "him and with Tissa, Vaccha, and Sumaṅgala earlier in this "
+            "book."]),
+        ("What comes after the formula breaks", [
+            "The next poem, Añjanavaniya's verse, keeps this chapter's "
+            "hut theme but drops the shared rain-and-invitation frame "
+            "entirely &mdash; the formula that has carried the "
+            "chapter's first four poems ends here."]),
+    ],
+    terms=[
+        ("adutiya",
+         "&ldquo;without a second&rdquo; or &ldquo;without a "
+         "partner&rdquo; &mdash; Uttiya's variation, naming solitude "
+         "directly."),
+        ("ku&#7789;ik&amacr;",
+         "&ldquo;little hut&rdquo; &mdash; the shared setting closing "
+         "out this four-poem run."),
+        ("tassa&#7745;",
+         "&ldquo;there&rdquo; &mdash; the word opening Uttiya's third "
+         "line, as in Valliya's verse just before it."),
+        ("pavassa",
+         "&ldquo;rain forth&rdquo; &mdash; the closing invitation, "
+         "shared across all four poems in this formula."),
+        ("Theragāthā",
+         "&ldquo;Verses of the Senior Monks&rdquo; &mdash; this "
+         "collection's own title; this run of four poems is one of "
+         "its clearest examples of a shared formula varied by "
+         "individual speakers."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.54:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does Uttiya's third line name as his own variation on the shared formula?",
+         "opts": [
+             "Wealth",
+             "Anger",
+             "Travel",
+             "Solitude, dwelling there 'without a partner'"],
+         "correct": 3,
+         "expl": "Adutiyo, 'without a second' — a direct statement of aloneness."},
+        {"q": "What four words, in order, do the four poems in this run each contribute, according to this reading guide?",
+         "opts": [
+             "Serenity, the body, diligence, solitude",
+             "Wealth, fame, power, victory",
+             "Fear, doubt, anger, grief",
+             "The four poems contribute nothing distinct"],
+         "correct": 0,
+         "expl": "Godhika, Subāhu, Valliya, and Uttiya, in sequence."},
+        {"q": "What does the ordinal '(2nd)' attached to this Uttiya's name signal?",
+         "opts": [
+             "That he is the Buddha's second disciple",
+             "That another elder shares his name elsewhere in the collection",
+             "That this is his second verse",
+             "Nothing in particular"],
+         "correct": 1,
+         "expl": "The same disambiguation pattern seen with Valliya and others in this book."},
+        {"q": "According to this reading guide, what happens with the next poem, Añjanavaniya's verse?",
+         "opts": [
+             "It repeats this exact formula a fifth time",
+             "It has nothing to do with huts at all",
+             "It returns to Chapter One",
+             "It keeps the hut theme but drops the shared rain-and-invitation frame"],
+         "correct": 3,
+         "expl": "The four-poem formula ends with this verse."},
+        {"q": "What does 'adutiya' mean?",
+         "opts": [
+             "Without a second, or without a partner",
+             "With many companions",
+             "Married",
+             "Newly ordained"],
+         "correct": 0,
+         "expl": "A literal statement of solitary dwelling."},
+        {"q": "How do this verse's first two lines compare to the three poems before it?",
+         "opts": [
+             "Entirely different",
+             "The same shared formula continues",
+             "Only the hut is mentioned",
+             "Only the rain is mentioned"],
+         "correct": 1,
+         "expl": "Rain, hut — unchanged across all four poems."},
+        {"q": "What does the verse invite the rain god to do?",
+         "opts": [
+             "Stop raining",
+             "Rain forth, as it wishes",
+             "Move elsewhere",
+             "Nothing is addressed to it"],
+         "correct": 1,
+         "expl": "The same closing invitation shared across this whole run."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "First",
+             "Second",
+             "Fourth",
+             "Last"],
+         "correct": 2,
+         "expl": "Poem 4 of 10, closing the rain-and-hut formula."},
+        {"q": "What is the setting of this verse?",
+         "opts": [
+             "A rain-sheltered hut",
+             "A riverbank",
+             "A royal court",
+             "A mountain peak"],
+         "correct": 0,
+         "expl": "The same domestic scene shared with the three poems before it."},
+        {"q": "Besides Uttiya himself, which other elder in this run is marked with a disambiguating ordinal?",
+         "opts": [
+             "Godhika",
+             "Subāhu",
+             "Valliya",
+             "None of them"],
+         "correct": 2,
+         "expl": "Valliya (1st), the poem immediately before this one."},
+    ],
+    marginalia=[
+        ("The fourth word, alone", [
+            "not calm, body, diligence —",
+            "solitude, this time"
+        ]),
+        ("Four words, one frame", [
+            "serenity, body,",
+            "diligence, solitude"
+        ]),
+        ("A second Uttiya, elsewhere", [
+            "'(2nd)' marks him,",
+            "a namesake unseen"
+        ]),
+        ("The formula ends here", [
+            "four poems complete,",
+            "the next one breaks the mold"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.54/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.53.html">Thag 1.53 &mdash; Valliya '
+        "(1st)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.55 — A&ntilde;janavaniya
+# --------------------------------------------------------------------------- #
+page(
+    1, 55, "A&ntilde;janavaniya", "A&ntilde;janavaniya",
+    meta_title="Thag 1.55 — Añjanavaniya | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Añjanavaniya's verse, named for the Añjana Wood where he "
+        "built his hut, closing with the same three-knowledges formula "
+        "as Sugandha's verse in Chapter Three. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "The Añjana Wood, where he built his hut"),
+        ("Speaker", "Añjanavaniya, named for the wood itself"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the chapter's hut theme, without the shared "
+                       "formula"),
+    ],
+    why=(
+        "Añjanavaniya's name simply means &lsquo;of the Añjana "
+        "Wood&rsquo; &mdash; a place-based name, like Sītavaniya and "
+        "Kosalavihārin elsewhere in this book, given after the "
+        "location of his own hut. His verse keeps this chapter's hut "
+        "theme but drops the rain-and-invitation frame that carried "
+        "the four poems before it, closing instead with the same "
+        "three-knowledges formula heard from Sugandha in Chapter "
+        "Three."),
+    guide=[
+        ("A name taken from the place itself", [
+            "Añjanavaniya built his hut having &lsquo;plunged into the "
+            "Añjana wood&rsquo;, and his name simply records that "
+            "location &mdash; the same place-name pattern already "
+            "seen with Sītavaniya in Chapter Two and continuing later "
+            "in this chapter with Kosalavihārin."]),
+        ("The formula breaks, but the hut remains", [
+            "Unlike the four poems before this one, Añjanavaniya's "
+            "verse does not invite the rain god or describe his hut "
+            "as roofed against the wind. The rain-and-hut formula that "
+            "opened this chapter ends with Uttiya's verse; this poem "
+            "keeps only the hut itself, now as the site of "
+            "attainment rather than shelter from weather."]),
+        ("The same closing couplet as Sugandha, three chapters back", [
+            "Añjanavaniya's final two lines &mdash; &lsquo;I've "
+            "attained the three knowledges and fulfilled the Buddha's "
+            "instructions&rsquo; &mdash; repeat Sugandha's closing "
+            "couplet from Chapter Three (Thag 1.24) word for word, a "
+            "formula this collection uses for a monk's own plain "
+            "declaration of completed practice."]),
+    ],
+    terms=[
+        ("A&ntilde;jana&#7745; vana&#7745;",
+         "&ldquo;the Añjana Wood&rdquo; &mdash; the specific forest "
+         "Añjanavaniya's name records, and where he built his hut."),
+        ("&amacr;sandi",
+         "here rendered &ldquo;plunged&rdquo; &mdash; describing how "
+         "Añjanavaniya entered the wood before building his hut."),
+        ("tisso vijj&amacr;",
+         "&ldquo;the three knowledges&rdquo; &mdash; recollection of "
+         "past lives, the divine eye, and the ending of defilements, "
+         "named as Añjanavaniya's attainment."),
+        ("ku&#7789;ika&#7745; katv&amacr;",
+         "&ldquo;having made a hut&rdquo; &mdash; this verse's only "
+         "remaining trace of the chapter's shared hut theme."),
+        ("kata&#7745; buddhassa s&amacr;sana&#7745;",
+         "&ldquo;fulfilled the Buddha's instructions&rdquo; &mdash; "
+         "the closing declaration shared word for word with Sugandha's "
+         "verse in Chapter Three."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.55:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the name Añjanavaniya mean?",
+         "opts": [
+             "A title meaning 'the wise one'",
+             "A family clan name",
+             "It has no particular meaning",
+             "A place-based name recording the Añjana Wood, where he built his hut"],
+         "correct": 3,
+         "expl": "The same place-naming pattern seen elsewhere in this book."},
+        {"q": "How does this verse compare structurally to the four poems just before it?",
+         "opts": [
+             "It repeats the same rain-and-invitation formula exactly",
+             "It keeps the chapter's hut theme but drops the rain-god invitation",
+             "It has no connection to huts at all",
+             "It is identical in every line"],
+         "correct": 1,
+         "expl": "The formula that opened the chapter ends with Uttiya's verse."},
+        {"q": "What does Añjanavaniya's closing couplet share with Sugandha's verse in Chapter Three (Thag 1.24)?",
+         "opts": [
+             "Nothing — they are unrelated",
+             "The exact same closing couplet, word for word",
+             "Only the setting",
+             "Only the speaker's name"],
+         "correct": 1,
+         "expl": "'I've attained the three knowledges and fulfilled the Buddha's instructions.'"},
+        {"q": "What are the 'three knowledges' this verse names?",
+         "opts": [
+             "Reading, writing, and arithmetic",
+             "Three monastic rules",
+             "Recollection of past lives, the divine eye, and the ending of defilements",
+             "Three types of meditation posture"],
+         "correct": 2,
+         "expl": "A standard traditional set of attainments."},
+        {"q": "What place-named elder from earlier in this book does Añjanavaniya's name resemble in pattern?",
+         "opts": [
+             "Subhūti, from Chapter One",
+             "Godhika, opening this chapter",
+             "No such pattern exists elsewhere",
+             "Sītavaniya, from Chapter Two"],
+         "correct": 3,
+         "expl": "Both named after the place where they built their huts."},
+        {"q": "What does Añjanavaniya do before attaining the three knowledges, according to the verse?",
+         "opts": [
+             "He builds a hut in the Añjana Wood",
+             "He travels to a distant kingdom",
+             "He debates another teacher",
+             "He fasts for a year"],
+         "correct": 0,
+         "expl": "The verse's opening action, before the closing declaration."},
+        {"q": "Which poem in this chapter does the rain-and-hut formula end with, according to this reading guide?",
+         "opts": [
+             "This poem, Thag 1.55",
+             "The poem before this one, Uttiya's verse (Thag 1.54)",
+             "The chapter's very first poem",
+             "The formula never ends"],
+         "correct": 1,
+         "expl": "Añjanavaniya's verse is the first in this chapter to drop it."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "First",
+             "Third",
+             "Fifth",
+             "Last"],
+         "correct": 2,
+         "expl": "Poem 5 of 10, opening the chapter's second half."},
+        {"q": "What single word from this chapter's theme survives in Añjanavaniya's verse?",
+         "opts": [
+             "Hut",
+             "Rain",
+             "Wind",
+             "Sky"],
+         "correct": 0,
+         "expl": "The hut remains, now as a site of attainment rather than shelter from weather."},
+        {"q": "What does 'tisso vijjā' mean?",
+         "opts": [
+             "The three knowledges",
+             "The three refuges",
+             "The three trainings",
+             "The three jewels"],
+         "correct": 0,
+         "expl": "Named directly as Añjanavaniya's own attainment."},
+    ],
+    marginalia=[
+        ("Named for the wood itself", [
+            "Añjana forest,",
+            "the name he carries"
+        ]),
+        ("A formula, dropped", [
+            "no rain invited here,",
+            "only the hut remains"
+        ]),
+        ("The same couplet, again", [
+            "the three knowledges,",
+            "the same words as Sugandha"
+        ]),
+        ("A place-name pattern", [
+            "Sītavaniya, then this —",
+            "named where they dwelled"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.55/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.24.html">Thag 1.24 &mdash; Sugandha</a> '
+        "&mdash; sharing this verse's closing couplet word for word, "
+        "from Chapter Three.",
+        '<a href="thag-1.54.html">Thag 1.54 &mdash; Uttiya '
+        "(2nd)</a> &mdash; the poem immediately before this one, in "
+        "the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.56 — Ku&#7789;ivih&amacr;rin (1st)
+# --------------------------------------------------------------------------- #
+page(
+    1, 56, "Ku&#7789;ivih&amacr;rin", "Ku&#7789;ivih&amacr;rin (1st)",
+    meta_title="Thag 1.56 — Kuṭivihārin (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kuṭivihārin's verse, a small dialogue asking who is in the "
+        "hut and answering that his hut was not built in vain. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "A hut, addressed from outside"),
+        ("Speaker", "An exchange framed as a question and an answer; "
+                    "the text does not specify how many voices are "
+                    "involved"),
+        ("Form", "One four-line verse, structured as dialogue"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief, but its voicing is genuinely "
+                       "ambiguous"),
+    ],
+    why=(
+        "Kuṭivihārin's name means, plainly, &lsquo;hut-dweller&rsquo; "
+        "&mdash; a name drawn directly from his verse's own subject, "
+        "not from clan or birthplace. The verse itself is built as a "
+        "small exchange: &lsquo;Who is in this hut?&rsquo; is asked "
+        "and answered, and someone then tells the monk inside that his "
+        "hut &lsquo;wasn't built in vain&rsquo;."),
+    guide=[
+        ("A name taken from the poem's own subject", [
+            "Unlike the clan names (Vaccha), place names (Sītavaniya, "
+            "Añjanavaniya), and kinship names (Siṅgālapitā) already "
+            "seen in this book, Kuṭivihārin's name is simply an "
+            "epithet describing what the verse itself is about: a "
+            "monk who dwells in a hut."]),
+        ("A question, an answer, and a voice that isn't identified", [
+            "The verse opens with &lsquo;Who is in this hut?&rsquo; "
+            "answered by &lsquo;A monk is in this hut, free of lust, "
+            "his mind serene&rsquo;, then closes with a direct address "
+            "&mdash; &lsquo;you should know this, friend: your hut "
+            "wasn't built in vain&rsquo;. The text does not say "
+            "whether the asker and the one who delivers this closing "
+            "praise are the same speaker, or whether the monk is "
+            "describing himself in the third person before being "
+            "addressed by someone else. This reading guide does not "
+            "resolve that ambiguity, only notes that it is genuinely "
+            "there."]),
+        ("A precedent for quoted speech in this book", [
+            "This is not the first verse in the collection built "
+            "around directly quoted words: the novice Sīvaka's poem in "
+            "Chapter Two opens by quoting his preceptor's own speech. "
+            "Kuṭivihārin's verse pushes the device further, quoting an "
+            "entire exchange rather than a single line."]),
+        ("A pair, about to diverge", [
+            "The next poem, spoken by a second monk also called "
+            "Kuṭivihārin, shares this poem's hut theme and its "
+            "address to &lsquo;monk&rsquo; &mdash; but carries the "
+            "opposite message, warning against wanting a new hut "
+            "rather than praising the one already built."]),
+    ],
+    terms=[
+        ("ku&#7789;ivih&amacr;rin",
+         "&ldquo;hut-dweller&rdquo; &mdash; the epithet this monk is "
+         "named for, drawn from the verse's own subject rather than "
+         "clan, place, or kin."),
+        ("v&imacr;tar&amacr;ga",
+         "&ldquo;free of lust&rdquo; &mdash; part of the answer "
+         "describing the monk inside the hut."),
+        ("susam&amacr;hitacitto",
+         "&ldquo;his mind serene&rdquo; &mdash; completing that "
+         "description, echoing this chapter's recurring vocabulary of "
+         "calm."),
+        ("&amacr;vuso",
+         "&ldquo;friend&rdquo; or &ldquo;reverend&rdquo; &mdash; the "
+         "direct address opening this verse's final two lines."),
+        ("amogh&amacr;",
+         "&ldquo;not in vain&rdquo; &mdash; the verse's closing "
+         "judgment on the hut itself."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.56:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the name Kuṭivihārin mean?",
+         "opts": [
+             "A clan name",
+             "A place name",
+             "A kinship title",
+             "'Hut-dweller' — an epithet drawn from the verse's own subject"],
+         "correct": 3,
+         "expl": "Different from the clan, place, and kinship names seen so far in this book."},
+        {"q": "How does the verse open?",
+         "opts": [
+             "With a question, 'Who is in this hut?'",
+             "With a narrative setting",
+             "With a teaching on ethics",
+             "With praise of the Buddha"],
+         "correct": 0,
+         "expl": "A small dialogue frames the whole verse."},
+        {"q": "How does the answer describe the monk in the hut?",
+         "opts": [
+             "Wealthy and respected",
+             "Free of lust, his mind serene",
+             "Fearful and doubting",
+             "Newly ordained"],
+         "correct": 1,
+         "expl": "A brief description completing the opening question."},
+        {"q": "According to this reading guide, does the text specify who delivers the closing line, 'your hut wasn't built in vain'?",
+         "opts": [
+             "Yes, it is clearly the monk's teacher",
+             "No — the text leaves this ambiguous",
+             "Yes, it is clearly the monk himself",
+             "Yes, it is clearly a deity"],
+         "correct": 1,
+         "expl": "A genuine ambiguity this reading guide does not resolve."},
+        {"q": "What earlier poem in this book also builds its verse around directly quoted speech?",
+         "opts": [
+             "Subhūti's opening poem",
+             "Godhika's verse, opening this chapter",
+             "The novice Sīvaka's poem in Chapter Two",
+             "No earlier poem does this"],
+         "correct": 2,
+         "expl": "Sīvaka quotes his preceptor; this verse quotes a whole exchange."},
+        {"q": "What does 'āvuso' mean?",
+         "opts": [
+             "Enemy",
+             "Teacher",
+             "Stranger",
+             "Friend or reverend"],
+         "correct": 3,
+         "expl": "The direct address opening this verse's final two lines."},
+        {"q": "What does the verse conclude about the hut?",
+         "opts": [
+             "That it was built in vain",
+             "That it was not built in vain",
+             "That it should be abandoned",
+             "Nothing is concluded about the hut itself"],
+         "correct": 1,
+         "expl": "Amoghā, 'not in vain' — the verse's closing judgment."},
+        {"q": "How does the next poem in this chapter relate to this one, according to this reading guide?",
+         "opts": [
+             "It is spoken by a second monk also called Kuṭivihārin, but carries the opposite message about wanting a new hut",
+             "It repeats this poem exactly",
+             "It has no connection to this poem",
+             "It abandons the hut theme entirely"],
+         "correct": 0,
+         "expl": "A matched pair with contrasting messages."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "First",
+             "Fifth",
+             "Sixth",
+             "Last"],
+         "correct": 2,
+         "expl": "Poem 6 of 10."},
+        {"q": "What does 'vītarāga' mean?",
+         "opts": [
+             "Free of lust",
+             "Wealthy",
+             "Newly arrived",
+             "Angry"],
+         "correct": 0,
+         "expl": "Part of the description answering 'who is in this hut?'"},
+    ],
+    marginalia=[
+        ("A question, from outside", [
+            "'who is in this hut?' —",
+            "an answer, then a verdict"
+        ]),
+        ("A name from the poem itself", [
+            "not clan, not place —",
+            "simply, hut-dweller"
+        ]),
+        ("Voices left unassigned", [
+            "asker and praiser —",
+            "the text does not say"
+        ]),
+        ("A pair about to split", [
+            "one hut praised,",
+            "the next one warned against"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.56/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.14.html">Thag 1.14 &mdash; The Novice '
+        "S&imacr;vaka</a> &mdash; this book's earlier verse built "
+        "around directly quoted speech.",
+        '<a href="thag-1.55.html">Thag 1.55 &mdash; A&ntilde;'
+        "janavaniya</a> &mdash; the poem immediately before this one, "
+        "in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.57 — Ku&#7789;ivih&amacr;rin (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    1, 57, "Ku&#7789;ivih&amacr;rin", "Ku&#7789;ivih&amacr;rin (2nd)",
+    meta_title="Thag 1.57 — Kuṭivihārin (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for a "
+        "second Kuṭivihārin's verse, a warning against craving a new "
+        "hut that reverses the praise of the poem just before it. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "A hut, old and already lived in"),
+        ("Speaker", "An unnamed voice addressing the monk called "
+                    "Kuṭivihārin directly, in the second person "
+                    "throughout"),
+        ("Form", "One four-line verse, entirely direct address"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "direct rebuke, reversing the poem just before "
+                       "it"),
+    ],
+    why=(
+        "A second monk sharing the name Kuṭivihārin gives his name to "
+        "this verse, yet every line addresses him in the second "
+        "person: &lsquo;this was your old hut, but you still want a "
+        "new hut&rsquo;. Where the first Kuṭivihārin's poem praised a "
+        "hut as not built in vain, this one warns against the very "
+        "wish for a new one."),
+    guide=[
+        ("An entire verse of quoted rebuke", [
+            "Unlike the first Kuṭivihārin's poem, where only part of "
+            "the verse was framed as an exchange, this entire four-"
+            "line poem is a direct address to &lsquo;monk&rsquo; "
+            "&mdash; the whole verse reads as words spoken to "
+            "Kuṭivihārin, which he then preserves as his own "
+            "Theragātha entry, continuing this chapter's device of "
+            "quoted speech seen already with the novice Sīvaka and the "
+            "first Kuṭivihārin."]),
+        ("A matched pair with opposite messages", [
+            "Both poems share a monk named Kuṭivihārin and the word "
+            "&lsquo;monk&rsquo; addressed directly, and both close on "
+            "a judgment about a hut. But the first poem's judgment is "
+            "approval &mdash; &lsquo;not built in vain&rsquo; &mdash; "
+            "while this one is a warning: wanting a new hut, the verse "
+            "says plainly, &lsquo;will only bring more suffering&rsquo;."]),
+        ("Contentment against craving, within the same theme", [
+            "Read together, the two Kuṭivihārin poems frame this "
+            "chapter's hut theme from both sides: contentment with "
+            "what one already has, and the suffering that follows "
+            "from wanting more of the same kind of thing, even "
+            "something as modest as a second hut."]),
+    ],
+    terms=[
+        ("pur&amacr;&#7751;iy&amacr;",
+         "&ldquo;old&rdquo; &mdash; describing the hut Kuṭivihārin "
+         "already has, in contrast to the new one he wants."),
+        ("patthayase",
+         "&ldquo;you long for&rdquo; or &ldquo;you want&rdquo; "
+         "&mdash; naming the craving this verse warns against."),
+        ("&amacr;sa&#7745;...vir&amacr;jaya",
+         "&ldquo;let go of hope&rdquo; &mdash; the verse's direct "
+         "instruction to Kuṭivihārin."),
+        ("dukkh&amacr;",
+         "&ldquo;suffering&rdquo; &mdash; the consequence this verse "
+         "attaches to craving a new hut."),
+        ("ku&#7789;ivih&amacr;rin",
+         "&ldquo;hut-dweller&rdquo; &mdash; the epithet shared with "
+         "the monk of the poem just before this one, here marked "
+         "&lsquo;(2nd)&rsquo; to distinguish them."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.57:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "Who does this verse address, throughout all four lines?",
+         "opts": [
+             "The monk called Kuṭivihārin, in the second person",
+             "The Buddha",
+             "A group of villagers",
+             "No one in particular"],
+         "correct": 0,
+         "expl": "An entire verse of direct address."},
+        {"q": "What does the verse say Kuṭivihārin wants, despite already having an old hut?",
+         "opts": [
+             "A new robe",
+             "A new hut",
+             "A new teacher",
+             "A new companion"],
+         "correct": 1,
+         "expl": "The craving this verse warns against."},
+        {"q": "How does this poem compare to the one immediately before it, also about a monk named Kuṭivihārin?",
+         "opts": [
+             "It repeats the same praise exactly",
+             "It has no connection to the poem before it",
+             "It reverses the message, warning against wanting a new hut instead of praising the one already built",
+             "It drops the hut theme entirely"],
+         "correct": 2,
+         "expl": "A matched pair with opposite judgments."},
+        {"q": "What consequence does the verse attach to wanting a new hut?",
+         "opts": [
+             "Wealth",
+             "Fame",
+             "Nothing — no consequence is named",
+             "More suffering"],
+         "correct": 3,
+         "expl": "Dukkhā, 'suffering' — stated plainly as the closing line."},
+        {"q": "According to this reading guide, what device does this verse continue from Sīvaka's poem and the first Kuṭivihārin's poem?",
+         "opts": [
+             "Directly quoted speech addressed to the monk himself",
+             "A place-based name",
+             "A five-fold numbered list",
+             "An animal simile"],
+         "correct": 0,
+         "expl": "The whole verse reads as words spoken to Kuṭivihārin."},
+        {"q": "What does 'purāṇiyā' mean?",
+         "opts": [
+             "New",
+             "Old",
+             "Borrowed",
+             "Broken"],
+         "correct": 1,
+         "expl": "Describing the hut Kuṭivihārin already has."},
+        {"q": "What instruction does the verse give Kuṭivihārin directly?",
+         "opts": [
+             "Build a bigger hut",
+             "Travel to another town",
+             "Let go of hope for a hut",
+             "Teach other monks"],
+         "correct": 2,
+         "expl": "Āsaṁ kuṭiyā virājaya — a direct command."},
+        {"q": "Read together, what do the two Kuṭivihārin poems frame, according to this reading guide?",
+         "opts": [
+             "Two unrelated topics",
+             "A dispute over property rights",
+             "Nothing in particular",
+             "Contentment with what one has, against the suffering of craving more of the same kind of thing"],
+         "correct": 3,
+         "expl": "The chapter's hut theme viewed from both sides."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "Seventh",
+             "Sixth",
+             "Eighth",
+             "Last"],
+         "correct": 0,
+         "expl": "Poem 7 of 10."},
+        {"q": "What does 'dukkhā' mean?",
+         "opts": [
+             "Joyful",
+             "Suffering",
+             "Peaceful",
+             "Wealthy"],
+         "correct": 1,
+         "expl": "The word closing this verse's warning."},
+    ],
+    marginalia=[
+        ("A hut already had", [
+            "old and sufficient,",
+            "yet still he wants new"
+        ]),
+        ("The same name, reversed", [
+            "one hut praised,",
+            "one craving warned against"
+        ]),
+        ("A command, not a question", [
+            "'let go of hope' —",
+            "spoken straight to him"
+        ]),
+        ("Contentment's other side", [
+            "not what is lacking,",
+            "but wanting more of enough"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.57/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.56.html">Thag 1.56 &mdash; Ku&#7789;ivih&amacr;'
+        "rin (1st)</a> &mdash; the poem immediately before this one, "
+        "in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.58 — Rama&#7751;&imacr;yaku&#7789;ika
+# --------------------------------------------------------------------------- #
+page(
+    1, 58, "Rama&#7751;&imacr;yaku&#7789;ika", "Rama&#7751;&imacr;yaku&#7789;ika",
+    meta_title="Thag 1.58 — Ramaṇīyakuṭika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Ramaṇīyakuṭika's verse, naming a hut he calls delightful and "
+        "declining a visit from women. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "A hut received as a gift given in faith"),
+        ("Speaker", "Ramaṇīyakuṭika, describing his hut and declining "
+                    "a visit"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain in its content, addressing a specific "
+                       "situation"),
+    ],
+    why=(
+        "Ramaṇīyakuṭika's name means &lsquo;pleasant little "
+        "hut&rsquo; &mdash; drawn directly from his own verse's "
+        "opening line, &lsquo;my hut is pleasing, delightful&rsquo;. "
+        "The verse's second half turns to a specific situation: women "
+        "have apparently come to see him, and he declines, sending "
+        "them &lsquo;to those in need&rsquo;."),
+    guide=[
+        ("A name that is also the verse's first line", [
+            "Where Kuṭivihārin's name was a general epithet "
+            "(&lsquo;hut-dweller&rsquo;), Ramaṇīyakuṭika's name "
+            "reproduces almost exactly the opening words of his own "
+            "verse &mdash; &lsquo;Ramaṇīyā me kuṭikā&rsquo;, "
+            "&lsquo;my hut is pleasing&rsquo; &mdash; the most literal "
+            "case in this chapter of a monk's name drawn from his own "
+            "poem's content."]),
+        ("A gift given in faith", [
+            "The verse specifies that this pleasant hut was "
+            "&lsquo;saddhādeyyā&rsquo;, given as an offering by a lay "
+            "supporter's faith, tying the hut's pleasantness directly "
+            "to the generosity that produced it, rather than to any "
+            "effort of his own."]),
+        ("A boundary stated plainly, without elaboration", [
+            "The verse's second half states, without narrative detail "
+            "or explanation, that he has no need of the women who have "
+            "come and sends them elsewhere. This reading guide reports "
+            "what the verse says on its own terms &mdash; a monk "
+            "declining a visit &mdash; without speculating about who "
+            "these women were or why they came, since the text gives "
+            "no further information."]),
+    ],
+    terms=[
+        ("rama&#7751;&imacr;y&amacr;",
+         "&ldquo;pleasing&rdquo; or &ldquo;delightful&rdquo; &mdash; "
+         "the word opening this verse and forming half of "
+         "Ramaṇīyakuṭika's own name."),
+        ("saddh&amacr;deyy&amacr;",
+         "&ldquo;a gift given in faith&rdquo; &mdash; describing how "
+         "this hut came to be his."),
+        ("kum&amacr;r&imacr;",
+         "&ldquo;girls&rdquo; or &ldquo;young women&rdquo; &mdash; "
+         "those the verse says he has no need of."),
+        ("n&amacr;riyo",
+         "&ldquo;women&rdquo; or &ldquo;ladies&rdquo; &mdash; the "
+         "word used in the verse's closing line, sending them "
+         "elsewhere."),
+        ("ku&#7789;ika",
+         "&ldquo;little hut&rdquo; &mdash; the same recurring word "
+         "anchoring this whole chapter, here embedded in the "
+         "speaker's own name."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.58:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the name Ramaṇīyakuṭika mean?",
+         "opts": [
+             "'Pleasant little hut', drawn from his own verse's opening line",
+             "'Free from doubt'",
+             "A clan name",
+             "A place name"],
+         "correct": 0,
+         "expl": "The most literal case in this chapter of a name drawn from its own poem's content."},
+        {"q": "How did Ramaṇīyakuṭika's hut come to be his, according to the verse?",
+         "opts": [
+             "He built it himself from scratch",
+             "He inherited it from his family",
+             "The text does not say",
+             "It was a gift given in faith by a lay supporter"],
+         "correct": 3,
+         "expl": "Saddhādeyyā — tying the hut's pleasantness to the generosity behind it."},
+        {"q": "What does the verse's second half address?",
+         "opts": [
+             "A dispute with another monk",
+             "A teaching on the four noble truths",
+             "Women who have apparently come to see him, whom he declines",
+             "A journey to another region"],
+         "correct": 2,
+         "expl": "A boundary stated plainly, without further narrative detail."},
+        {"q": "According to this reading guide, does the verse explain who the women are or why they came?",
+         "opts": [
+             "Yes, in full narrative detail",
+             "No — the text gives no further information, and this reading guide does not speculate",
+             "Yes, but only in the attribution line",
+             "Yes, through a Sujato comment"],
+         "correct": 1,
+         "expl": "Reporting what the verse states, without adding unstated detail."},
+        {"q": "What does 'saddhādeyyā' mean?",
+         "opts": [
+             "A gift given in faith",
+             "A stolen object",
+             "A borrowed item",
+             "A purchased item"],
+         "correct": 0,
+         "expl": "Describing how Ramaṇīyakuṭika's hut came to be his."},
+        {"q": "What word opens this verse, also forming half of the speaker's own name?",
+         "opts": [
+             "Dukkhā, 'suffering'",
+             "Vassati, 'rains'",
+             "Adutiya, 'without a partner'",
+             "Ramaṇīyā, 'pleasing' or 'delightful'"],
+         "correct": 3,
+         "expl": "The literal source of Ramaṇīyakuṭika's name."},
+        {"q": "How does Ramaṇīyakuṭika's naming compare to Kuṭivihārin's, from the two poems before this one?",
+         "opts": [
+             "Both are clan names",
+             "Kuṭivihārin's is a general epithet; Ramaṇīyakuṭika's reproduces his own verse's opening words almost exactly",
+             "Neither name has any connection to the poem's content",
+             "They are identical names"],
+         "correct": 1,
+         "expl": "A more literal case of self-naming from the poem's own content."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "Seventh",
+             "Ninth",
+             "Eighth",
+             "Last"],
+         "correct": 2,
+         "expl": "Poem 8 of 10."},
+        {"q": "What does 'nāriyo' mean?",
+         "opts": [
+             "Women",
+             "Monks",
+             "Deities",
+             "Animals"],
+         "correct": 0,
+         "expl": "The word closing the verse, sending the visitors elsewhere."},
+        {"q": "What shared word connects this verse to the rest of Chapter Six?",
+         "opts": [
+             "Rain",
+             "Hut",
+             "River",
+             "Mountain"],
+         "correct": 1,
+         "expl": "Kuṭika, embedded directly in the speaker's own name."},
+    ],
+    marginalia=[
+        ("A name from the first line", [
+            "'my hut is pleasing' —",
+            "and so, his own name"
+        ]),
+        ("A gift, not a labor", [
+            "given in faith,",
+            "not built by his own hand"
+        ]),
+        ("A boundary, stated plainly", [
+            "no need of visitors,",
+            "sent on, unexplained"
+        ]),
+        ("The chapter's word, embedded", [
+            "kuṭika again —",
+            "now inside a name"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.58/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.57.html">Thag 1.57 &mdash; Ku&#7789;ivih&amacr;'
+        "rin (2nd)</a> &mdash; the poem immediately before this one, "
+        "in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.59 — Kosalavih&amacr;rin
+# --------------------------------------------------------------------------- #
+page(
+    1, 59, "Kosalavih&amacr;rin", "Kosalavih&amacr;rin",
+    meta_title="Thag 1.59 — Kosalavihārin | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kosalavihārin's verse, a plain four-quality self-description "
+        "after building a hut in the wilderness out of faith. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "A hut he built himself in the wilderness"),
+        ("Speaker", "Kosalavihārin, named for the Kosala region"),
+        ("Form", "One four-line verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; a "
+                       "plain list of qualities, without simile or "
+                       "narrative"),
+    ],
+    why=(
+        "Kosalavihārin's name simply records where he lived &mdash; "
+        "the Kosala region &mdash; continuing this chapter's place-"
+        "name pattern alongside Añjanavaniya. His verse states his "
+        "own practice as a bare list of four qualities: heedful, "
+        "ardent, aware, and mindful, with no simile or narrative "
+        "framing at all."),
+    guide=[
+        ("A place name, matching Añjanavaniya's pattern", [
+            "Like Añjanavaniya earlier in this chapter and Sītavaniya "
+            "in Chapter Two, Kosalavihārin's name records a location "
+            "rather than a clan or a family relation &mdash; here the "
+            "Kosala region itself, rather than a single wood."]),
+        ("Built by his own hand, unlike the poem just before it", [
+            "Where Ramaṇīyakuṭika's hut was &lsquo;a gift given in "
+            "faith&rsquo;, Kosalavihārin says plainly that he built "
+            "his own hut in the wilderness after going forth &mdash; "
+            "two adjacent poems drawing a quiet contrast between a "
+            "received dwelling and a self-built one."]),
+        ("Four qualities, listed without elaboration", [
+            "Appamatto, ātāpī, sampajāno, patissato &mdash; heedful, "
+            "ardent, aware, mindful &mdash; are stated back to back as "
+            "a bare list, the same unadorned, catalog-like style "
+            "already seen in this book with Kuṇḍadhāna's numbered "
+            "categories in Chapter Two, though here the items are "
+            "named outright rather than counted."]),
+    ],
+    terms=[
+        ("saddh&amacr;ya",
+         "&ldquo;out of faith&rdquo; &mdash; why Kosalavihārin says he "
+         "went forth."),
+        ("ara&ntilde;&ntilde;e",
+         "&ldquo;in the wilderness&rdquo; &mdash; where he built his "
+         "own hut."),
+        ("&amacr;t&amacr;p&imacr;",
+         "&ldquo;ardent&rdquo; &mdash; the second of the four "
+         "qualities this verse names."),
+        ("sampajāno",
+         "&ldquo;aware&rdquo; or &ldquo;clearly comprehending&rdquo; "
+         "&mdash; the third quality named."),
+        ("patissato",
+         "&ldquo;mindful&rdquo; &mdash; the fourth and final quality "
+         "closing this verse."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.59:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the name Kosalavihārin record?",
+         "opts": [
+             "A clan lineage",
+             "A kinship relation",
+             "A personal achievement",
+             "A location — the Kosala region"],
+         "correct": 3,
+         "expl": "The same place-name pattern as Añjanavaniya and Sītavaniya."},
+        {"q": "How did Kosalavihārin's hut come to be his, unlike the poem just before it?",
+         "opts": [
+             "It was a gift given in faith",
+             "He inherited it",
+             "He built it himself in the wilderness",
+             "The text does not say"],
+         "correct": 2,
+         "expl": "A quiet contrast with Ramaṇīyakuṭika's received hut."},
+        {"q": "What four qualities does this verse list about Kosalavihārin himself?",
+         "opts": [
+             "Wealthy, famous, respected, admired",
+             "Heedful, ardent, aware, mindful",
+             "Fearful, doubting, confused, tired",
+             "Young, old, strong, weak"],
+         "correct": 1,
+         "expl": "Appamatto, ātāpī, sampajāno, patissato — a bare list."},
+        {"q": "How does this verse present its list of qualities, according to this reading guide?",
+         "opts": [
+             "With an extended simile",
+             "As a series of questions",
+             "As a dialogue between two speakers",
+             "As a bare list, without elaboration or narrative framing"],
+         "correct": 3,
+         "expl": "Named outright, one after another, with no further explanation."},
+        {"q": "What earlier poem in this book uses a similar catalog-like, unadorned style?",
+         "opts": [
+             "Kuṇḍadhāna's numbered categories in Chapter Two",
+             "Godhika's rain-and-hut verse",
+             "Subhūti's opening frame",
+             "No earlier poem resembles this one"],
+         "correct": 0,
+         "expl": "Though Kuṇḍadhāna's items are counted rather than named outright."},
+        {"q": "Why does Kosalavihārin say he went forth?",
+         "opts": [
+             "To escape debt",
+             "By royal command",
+             "Out of faith",
+             "The text does not say"],
+         "correct": 2,
+         "expl": "Saddhāya, 'out of faith' — the verse's opening reason."},
+        {"q": "What does 'sampajāno' mean?",
+         "opts": [
+             "Aware or clearly comprehending",
+             "Fearful",
+             "Wealthy",
+             "Sleepy"],
+         "correct": 0,
+         "expl": "The third of the four qualities this verse names."},
+        {"q": "Where does this poem fall in Chapter Six?",
+         "opts": [
+             "Eighth",
+             "Ninth",
+             "Tenth",
+             "First"],
+         "correct": 1,
+         "expl": "Poem 9 of 10, one before the chapter's close."},
+        {"q": "What does 'araññe' mean?",
+         "opts": [
+             "In the village",
+             "In the wilderness",
+             "By the river",
+             "In the royal court"],
+         "correct": 1,
+         "expl": "Where Kosalavihārin built his own hut."},
+        {"q": "What word links this verse to the rest of Chapter Six?",
+         "opts": [
+             "Hut",
+             "River",
+             "Mountain",
+             "Ocean"],
+         "correct": 0,
+         "expl": "Kuṭikā, continuing the chapter's shared theme."},
+    ],
+    marginalia=[
+        ("A place, not a clan", [
+            "Kosala's name,",
+            "carried as his own"
+        ]),
+        ("Built, not given", [
+            "his own hands,",
+            "unlike the poem before"
+        ]),
+        ("Four words, no simile", [
+            "heedful, ardent,",
+            "aware, mindful"
+        ]),
+        ("Nine of ten", [
+            "one poem remains,",
+            "the chapter nearly closed"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.59/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.58.html">Thag 1.58 &mdash; Rama&#7751;&imacr;'
+        "yaku&#7789;ika</a> &mdash; the poem immediately before this "
+        "one, in the same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.60 — S&imacr;vali
+# --------------------------------------------------------------------------- #
+page(
+    1, 60, "S&imacr;vali", "S&imacr;vali",
+    meta_title="Thag 1.60 — Sīvali | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sīvali's verse, closing Chapter Six — the tenth poem in a row "
+        "to mention a hut, and the chapter's only poem naming the "
+        "conceit-tendency directly. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Six &middot; Poem 10 of 10",
+    glance=[
+        ("Setting", "The hut Sīvali entered with a specific purpose"),
+        ("Speaker", "Sīvali, reporting his own fulfilled wish"),
+        ("Form", "One four-line verse, followed in the Pali by an "
+                 "untranslated chapter colophon and mnemonic summary "
+                 "verse"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a quiet, grammatically compact close to a "
+                       "unified chapter"),
+    ],
+    why=(
+        "Sīvali's verse closes Chapter Six, and closes it as the "
+        "tenth poem in a row to mention a hut &mdash; every single "
+        "poem in this chapter, from Godhika's rain-soaked opening to "
+        "this one, shares that one word. Sīvali reports that his "
+        "purpose for entering his hut came true: seeking knowledge and "
+        "liberation, he gave up the tendency to conceit."),
+    guide=[
+        ("Ten poems, one word, no exceptions", [
+            "Godhika, Subāhu, Valliya, and Uttiya invited the rain "
+            "from inside a hut; Añjanavaniya built one in the Añjana "
+            "Wood; both monks called Kuṭivihārin were named for "
+            "dwelling in one; Ramaṇīyakuṭika's own name was drawn from "
+            "his; Kosalavihārin built his own in the wilderness; and "
+            "now Sīvali closes the chapter by naming the hut he "
+            "&lsquo;entered&rsquo; for a specific purpose. No other "
+            "chapter completed so far in this book shares a single "
+            "image across all ten of its poems this consistently."]),
+        ("A grammatical note on the closing word", [
+            "Sujato's comment on this verse identifies "
+            "&lsquo;ujjahaṁ&rsquo;, the verb translated &lsquo;I gave "
+            "up&rsquo;, as a reflexive first-person aorist &mdash; a "
+            "grammatical detail confirming that Sīvali is describing "
+            "an action he did to himself, his own tendency to "
+            "conceit, rather than something done to him."]),
+        ("The conceit-tendency, named for the first time in this book", [
+            "M&amacr;n&amacr;nusaya, &lsquo;the tendency to "
+            "conceit&rsquo;, is one of the underlying tendencies "
+            "(anusaya) that recur across the wider canon as subtle, "
+            "latent defilements rather than active thoughts &mdash; "
+            "this is the first time this specific tendency is named "
+            "outright in a Theragātha poem covered so far in this "
+            "collection."]),
+        ("A name shared with a much later reputation", [
+            "This Sīvali shares his name with an elder listed "
+            "elsewhere in the canon among the Buddha's foremost "
+            "disciples for receiving gifts and offerings. Nothing in "
+            "this verse itself makes that connection, and this reading "
+            "guide does not assert they are the same person &mdash; "
+            "only that the name recurs, as Godhika's and others' names "
+            "did earlier in this same chapter."]),
+        ("A chapter's own close, left untranslated", [
+            "As at the end of Chapters One through Five, the Pali "
+            "text here carries vaggo chaṭṭho, &lsquo;the sixth "
+            "chapter is finished&rsquo;, followed by an uddāna naming "
+            "all ten monks of this chapter in sequence: Godhika, "
+            "Subāhu, Valliya, Uttiya, Añjanavaniya, the two "
+            "Kuṭivihārins, Ramaṇīyakuṭika, and Kosalavihārin together "
+            "with Sīvali, joined into one compound in the final line. "
+            "Sujato's translation leaves both untranslated, and "
+            "neither appears in this page's text below."]),
+    ],
+    terms=[
+        ("ijjhi&#7745;su",
+         "&ldquo;came true&rdquo; or &ldquo;succeeded&rdquo; &mdash; "
+         "describing Sīvali's fulfilled wish."),
+        ("vijj&amacr;vimutti&#7745;",
+         "&ldquo;knowledge and liberation&rdquo; &mdash; what Sīvali "
+         "says he sought."),
+        ("m&amacr;n&amacr;nusaya",
+         "&ldquo;the tendency to conceit&rdquo; &mdash; one of the "
+         "underlying tendencies (anusaya), named here for the first "
+         "time outright in this collection's poems so far."),
+        ("ujjaha&#7745;",
+         "&ldquo;I gave up&rdquo; &mdash; per Sujato's comment, a "
+         "reflexive first-person aorist verb."),
+        ("ku&#7789;i&#7745;",
+         "&ldquo;hut&rdquo; &mdash; the word this verse shares with "
+         "all nine poems before it in this chapter, without "
+         "exception."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.60:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What word does this verse share with every other poem in Chapter Six, without exception?",
+         "opts": [
+             "Hut",
+             "River",
+             "Mountain",
+             "Ocean"],
+         "correct": 0,
+         "expl": "Ten poems in a row, all sharing this one image."},
+        {"q": "What does Sīvali say he gave up, according to this verse?",
+         "opts": [
+             "His robe",
+             "His alms bowl",
+             "His teacher",
+             "The tendency to conceit"],
+         "correct": 3,
+         "expl": "Mānānusaya, named outright for the first time so far in this collection."},
+        {"q": "According to Sujato's comment, what grammatical form is 'ujjahaṁ'?",
+         "opts": [
+             "A future tense verb",
+             "A reflexive first-person aorist",
+             "A passive imperative",
+             "A vocative noun"],
+         "correct": 1,
+         "expl": "Confirming Sīvali gave up his own tendency, to himself."},
+        {"q": "What did Sīvali say he sought, according to the verse?",
+         "opts": [
+             "Wealth and fame",
+             "A larger hut",
+             "Companionship",
+             "Knowledge and liberation"],
+         "correct": 3,
+         "expl": "Vijjāvimuttiṁ, naming his stated purpose."},
+        {"q": "What does this reading guide say about a later elder in the canon who shares Sīvali's name?",
+         "opts": [
+             "It confirms they are definitely the same person",
+             "It notes the name recurs without asserting they are the same person",
+             "It states they cannot possibly be the same person",
+             "No such name recurs anywhere else"],
+         "correct": 1,
+         "expl": "The same cautious treatment applied to Godhika earlier in this chapter."},
+        {"q": "What does the Pali text carry immediately after this poem, left untranslated by Sujato?",
+         "opts": [
+             "A new eleventh poem",
+             "Nothing follows this poem",
+             "'Vaggo chaṭṭho' ('the sixth chapter is finished') and an uddāna naming all ten monks of the chapter",
+             "A prose narrative"],
+         "correct": 2,
+         "expl": "The same untranslated colophon pattern seen at the end of Chapters One through Five."},
+        {"q": "Does this page's text include that closing uddāna?",
+         "opts": [
+             "Yes, translated in full",
+             "No — it is absent from Sujato's translation and not included here",
+             "Yes, but only partially",
+             "It is included as an image only"],
+         "correct": 1,
+         "expl": "Consistent with how this site handles untranslated structural material."},
+        {"q": "How many monks' verses make up Chapter Six in total?",
+         "opts": [
+             "Ten",
+             "Six",
+             "Twenty",
+             "One hundred and twenty"],
+         "correct": 0,
+         "expl": "Godhika through Sīvali, named in sequence in the untranslated uddāna."},
+        {"q": "How many more chapters remain in the Book of the Ones after this one?",
+         "opts": [
+             "None — this is the final chapter",
+             "Exactly one more",
+             "Six more chapters",
+             "Twenty more chapters"],
+         "correct": 2,
+         "expl": "Twelve chapters in total make up the Book of the Ones."},
+        {"q": "What does 'vijjāvimuttiṁ' mean?",
+         "opts": [
+             "Knowledge and liberation",
+             "Wealth and power",
+             "Robes and almsbowls",
+             "Fame and honor"],
+         "correct": 0,
+         "expl": "What Sīvali says he sought upon entering his hut."},
+    ],
+    marginalia=[
+        ("Ten for ten", [
+            "every poem, one hut —",
+            "no exception, this chapter"
+        ]),
+        ("A tendency, named outright", [
+            "not just conceit —",
+            "the tendency toward it"
+        ]),
+        ("A grammatical footnote", [
+            "reflexive, first person —",
+            "done to himself"
+        ]),
+        ("A name, not a claim", [
+            "Sīvali, elsewhere too —",
+            "resemblance, not proof"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.60/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.51.html">Thag 1.51 &mdash; Godhika</a> '
+        "&mdash; opening this chapter with the same hut theme that "
+        "closes it here.",
+        '<a href="thag-1.59.html">Thag 1.59 &mdash; Kosalavih&amacr;'
+        "rin</a> &mdash; the poem immediately before this one, in the "
+        "same chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
