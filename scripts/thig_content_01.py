@@ -12675,6 +12675,221 @@ page(
         '<a href="thig-9.1.html">Thig 9.1 &mdash; Va&#7693;&#7693;ha'
         "&rsquo;s Mother</a> &mdash; the poem immediately before this "
         "one, closing the Book of the Nines.",
+        '<a href="thig-11.1.html">Thig 11.1 &mdash; Uppalava&#7751;&#7751;'
+        "&amacr;</a> &mdash; the next poem, opening the Book of the "
+        "Twelves.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 11.1 — Uppalavaṇṇā
+# --------------------------------------------------------------------------- #
+page(
+    11, 1, "Uppalava&#7751;&#7751;&amacr;", "Uppalava&#7751;&#7751;&amacr;",
+    meta_title="Thig 11.1 — Uppalavaṇṇā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Uppalavaṇṇā's verses, an unsettling family situation as the "
+        "spur to renunciation, and a vivid display of psychic power "
+        "against Māra. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twelves &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A household, then a sal tree in bloom, "
+                    "confronted by Māra"),
+        ("Speaker", "Uppalavaṇṇā, recounting her own urgency and "
+                    "attainment, then answering Māra directly"),
+        ("Form", "Twelve verses, mostly four lines, the entire Book of "
+                 "the Twelves"),
+        ("Length", "under 2 minutes to read"),
+        ("Northern parallel", "A parallel verse in the Saṃyutta "
+                              "Nikāya reads differently at one line, "
+                              "apparently punning on her own name; this "
+                              "reading guide does not assert which "
+                              "reading is more original."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; an "
+                       "unsettling catalyst, and the most vivid display "
+                       "of psychic power against Māra in this "
+                       "collection"),
+    ],
+    why=(
+        "This poem opens with a situation stated starkly, without "
+        "euphemism: &lsquo;the two of us were co-wives, though we were "
+        "mother and daughter&rsquo;. That discovery struck Uppalavaṇṇā "
+        "with urgency and drove her to renounce. Once attained, her "
+        "confrontation with Māra is the most vivid display of psychic "
+        "power against him anywhere in this collection &mdash; "
+        "vanishing, entering his belly, standing invisibly between his "
+        "eyebrows."),
+    guide=[
+        ("An unsettling catalyst, stated plainly", [
+            "&lsquo;The two of us were co-wives, though we were mother "
+            "and daughter&rsquo; opens the poem without softening "
+            "&mdash; &lsquo;I was struck with a sense of urgency, so "
+            "astonishing and hair-raising&rsquo; names the exact effect "
+            "this discovery had on her, driving her directly to "
+            "renunciation in Rājagaha."]),
+        ("A vivid, almost theatrical approach to the Buddha", [
+            "Beyond the standard six knowledges, this poem adds a "
+            "unique detail: &lsquo;I created a four-horsed chariot using "
+            "my psychic powers. Then I bowed at the feet of the "
+            "Buddha&rsquo; &mdash; a dramatic display of attainment "
+            "found nowhere else in this collection."]),
+        ("A different kind of taunt from Māra, and an extraordinary reply", [
+            "Māra questions her physical vulnerability alone at a "
+            "flowering tree, without a &lsquo;male companion&rsquo;. "
+            "Her answer escalates far past simple defiance: she "
+            "declares she would not tremble before 100,000 attackers, "
+            "then boasts of vanishing, entering his belly, or standing "
+            "invisibly between his eyebrows &mdash; power demonstrated, "
+            "not merely claimed."]),
+        ("A name, possibly echoed in a variant line", [
+            "Sujato's note on Māra's taunt observes that a parallel "
+            "verse in the Saṃyutta Nikāya reads &lsquo;there is no-one "
+            "to whom you are second in the element of beauty&rsquo; "
+            "&mdash; a probable pun on &lsquo;vaṇṇā&rsquo; in her own "
+            "name, which the note suggests may preserve an earlier "
+            "reading than this poem's own line."]),
+    ],
+    terms=[
+        ("Uppalava&#7751;&#7751;&amacr;",
+         "this poem's speaker, whose name may be echoed in a variant "
+         "line of Māra's taunt, noted by Sujato as a possible pun."),
+        ("sapatti",
+         "&ldquo;co-wife&rdquo; &mdash; the term naming the situation "
+         "she and her own daughter found themselves in, the poem's "
+         "opening catalyst."),
+        ("saṁvega",
+         "the sense of urgency this discovery struck into her, "
+         "described as &lsquo;astonishing and hair-raising&rsquo;."),
+        ("cha&#7799;abhi&ntilde;&ntilde;&amacr;",
+         "the six kinds of direct knowledge, named as a complete set, "
+         "as in several earlier poems in this collection."),
+        ("iddhi",
+         "psychic power, demonstrated here through a created chariot "
+         "and, later, an extraordinary display of evasion against "
+         "Māra."),
+    ],
+    text_intro=(
+        "The text in full: her own account and attainment, then Māra's "
+        "taunt and her reply, the entire Book of the Twelves. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig11.1:1.1-2.4"),
+        ("p", "&sect;2", "thig11.1:3.1-3.4"),
+        ("p", "&sect;3", "thig11.1:4.1-6.4"),
+        ("p", "&sect;4", "thig11.1:7.1-7.4"),
+        ("p", "&sect;5", "thig11.1:8.1-9.4"),
+        ("p", "&sect;6", "thig11.1:10.1-10.4"),
+        ("p", "&sect;7", "thig11.1:11.1-12.4"),
+    ],
+    quiz=[
+        {"q": "What situation does this poem's opening verse describe, without softening?",
+         "opts": [
+             "A dispute between two nuns",
+             "A famine in her village",
+             "No specific situation is described",
+             "That she and her own daughter were co-wives to the same man"],
+         "correct": 3,
+         "expl": "Stated plainly, the poem's opening catalyst."},
+        {"q": "What effect did this discovery have on Uppalavaṇṇā?",
+         "opts": [
+             "It struck her with a sense of urgency, 'astonishing and hair-raising'",
+             "None — she felt nothing in particular",
+             "She dismissed it as unimportant",
+             "She sought revenge"],
+         "correct": 0,
+         "expl": "The exact effect she names, driving her directly to renunciation."},
+        {"q": "What unique detail does this poem add beyond the standard six knowledges?",
+         "opts": [
+             "Nothing further is described",
+             "She traveled by foot for many years",
+             "She created a four-horsed chariot with her psychic powers to approach the Buddha",
+             "She refused to approach the Buddha at all"],
+         "correct": 2,
+         "expl": "A dramatic display found nowhere else in this collection."},
+        {"q": "What does Māra question in his taunt to Uppalavaṇṇā?",
+         "opts": [
+             "Her doctrinal views",
+             "Her physical vulnerability alone at a tree, without a male companion",
+             "Her family background",
+             "Her wealth"],
+         "correct": 1,
+         "expl": "A different kind of challenge from his temptations to other nuns in this collection."},
+        {"q": "How does Uppalavaṇṇā answer this taunt?",
+         "opts": [
+             "By fleeing the scene",
+             "By agreeing she is vulnerable",
+             "By boasting of vanishing, entering his belly, or standing invisibly between his eyebrows",
+             "By ignoring him entirely"],
+         "correct": 2,
+         "expl": "Power demonstrated, not merely claimed — the most vivid such display in this collection."},
+        {"q": "What does Sujato's note observe about a parallel verse in the Saṃyutta Nikāya?",
+         "opts": [
+             "That it is identical in every word",
+             "That no such parallel exists",
+             "That it contradicts this poem entirely",
+             "That it reads differently, apparently punning on Uppalavaṇṇā's own name"],
+         "correct": 3,
+         "expl": "A textual-critical observation this guide reports without asserting which reading is original."},
+        {"q": "What does 'sapatti' mean?",
+         "opts": [
+             "'Co-wife' — the term for the situation she and her daughter found themselves in",
+             "'Psychic power'",
+             "'A sense of urgency'",
+             "'A four-horsed chariot'"],
+         "correct": 0,
+         "expl": "Naming the poem's opening catalyst directly."},
+        {"q": "Where does Uppalavaṇṇā say she went forth?",
+         "opts": [
+             "In Sāvatthī",
+             "In Rājagaha",
+             "In Kapilavatthu",
+             "No location is given"],
+         "correct": 1,
+         "expl": "Named directly, following her decision to renounce."},
+        {"q": "How would Uppalavaṇṇā respond, by her own account, if 100,000 attackers gathered against her?",
+         "opts": [
+             "She would flee immediately",
+             "She would surrender",
+             "She would not stir a hair or tremble",
+             "She would call for help"],
+         "correct": 2,
+         "expl": "A claim of complete fearlessness, before her demonstration of psychic evasion."},
+        {"q": "How many poems does the Book of the Twelves contain?",
+         "opts": [
+             "Twelve",
+             "Just one",
+             "Three",
+             "Five"],
+         "correct": 1,
+         "expl": "Another single-poem book, following the single-poem Book of the Elevens."},
+    ],
+    marginalia=[
+        ("An unsettling catalyst, plainly stated", [
+            "mother and daughter,",
+            "co-wives together"
+        ]),
+        ("A chariot, conjured", [
+            "a unique display",
+            "of psychic power"
+        ]),
+        ("A taunt about vulnerability", [
+            "alone, without",
+            "a companion"
+        ]),
+        ("Power, demonstrated not claimed", [
+            "vanishing, entering,",
+            "standing unseen"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig11.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-10.1.html">Thig 10.1 &mdash; Kis&amacr;gotam'
+        "&imacr;</a> &mdash; the poem immediately before this one, "
+        "closing the Book of the Elevens.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
