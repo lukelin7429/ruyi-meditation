@@ -46385,3 +46385,3065 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.1 — Vivekasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 1, "Viveka", "Seclusion",
+    meta_title="SN 9.1 — Seclusion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vivekasutta — opening Vanasaṃyutta, a forest deity notices "
+        "a meditating monk's mind straying toward domestic thoughts and "
+        "rouses him with the image of a bird shaking off dust. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and an unnamed "
+                     "mendicant"),
+        ("Form", "A monk's private struggle, noticed and addressed by "
+                 "a sympathetic deity in verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new saṃyutta with a compact, "
+                       "sympathetic intervention"),
+    ],
+    why=(
+        "This discourse opens Vanasaṃyutta with a pattern distinct "
+        "from every earlier saṃyutta in this collection: an unnamed "
+        "monk, an unnamed forest deity, and no named location beyond "
+        "&lsquo;a certain forest grove&rsquo;. What makes the "
+        "encounter work isn't identity but sympathy &mdash; the "
+        "deity notices the monk's mind straying toward domestic "
+        "thoughts during meditation, and intervenes not with rebuke "
+        "but with concern, wanting, the text says plainly, "
+        "&lsquo;what's best for them&rsquo;. The verses that follow "
+        "build to a single vivid image: a bird shaking dust from its "
+        "feathers, offered as the model for how an energetic, "
+        "mindful mendicant sheds the very distractions the deity has "
+        "just named."),
+    guide=[
+        ("A saṃyutta built on anonymity rather than named encounters", [
+            "Unlike Devatāsaṃyutta's varied named speakers or "
+            "Brāhmaṇasaṃyutta's individually named brahmins, this "
+            "discourse identifies neither the monk nor the deity by "
+            "name &mdash; a pattern this reading guide expects to "
+            "recur across Vanasaṃyutta, where the setting and "
+            "situation matter more than any individual identity."]),
+        ("Intervention motivated by sympathy, not correction for its own sake", [
+            "The text states the deity's motive explicitly before any "
+            "verse is spoken: sympathy for the monk, wanting what's "
+            "best for him &mdash; framing what follows as concerned "
+            "care rather than simple criticism."]),
+        ("A precise diagnosis: seeking seclusion, yet still straying outward", [
+            "The deity's opening observation names the exact "
+            "contradiction at issue &mdash; the monk entered the "
+            "woods wanting seclusion, yet his mind keeps reaching "
+            "toward outward, domestic things &mdash; a mismatch "
+            "between physical location and mental direction."]),
+        ("A warning about difficulty, not a promise of ease", [
+            "The verse doesn't pretend the task is simple; it calls "
+            "the &lsquo;dusty abyss&rsquo; of sensual attachment "
+            "&lsquo;hard to cross&rsquo;, treating the monk's struggle "
+            "as a genuine difficulty rather than a minor lapse to "
+            "brush aside."]),
+        ("A single image carrying the entire resolution", [
+            "The closing simile &mdash; a bird strewn with dirt "
+            "shedding it with a single shake &mdash; doesn't require "
+            "further explanation; it models exactly the kind of "
+            "energetic, mindful release the deity is urging, and the "
+            "discourse ends immediately with the monk struck by a "
+            "sense of urgency in response."]),
+    ],
+    terms=[
+        ("pāpake akusale vitakke vitakketi gehanissite",
+         "&ldquo;thinking bad, unskillful thoughts to do with the "
+         "domestic life&rdquo; &mdash; the monk's private struggle "
+         "opening the discourse."),
+        ("vivekakāmosi vanaṁ paviṭṭho, atha te mano niccharati bahiddhā",
+         "&ldquo;you entered the woods desiring seclusion, yet your "
+         "mind strays to outward things&rdquo; &mdash; the deity's "
+         "precise diagnosis."),
+        ("pātālarajo hi duttaro",
+         "&ldquo;the dusty abyss is so hard to cross&rdquo; &mdash; "
+         "naming the genuine difficulty of the task."),
+        ("sakuṇo yathā paṁsukunthito, vidhunaṁ pātayati sitaṁ rajaṁ",
+         "&ldquo;just as a bird strewn with dirt sheds that clingy "
+         "dust with a shake&rdquo; &mdash; the verse's central, "
+         "resolving image."),
+        ("saṁvejito saṁvegamāpādi",
+         "&ldquo;struck with a sense of urgency&rdquo; &mdash; the "
+         "monk's immediate response, closing the discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Vanasaṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.1:1.1-1.4"),
+        ("p", "&sect;2", "sn9.1:2.1-2.4"),
+        ("p", "&sect;3", "sn9.1:3.1-3.4"),
+        ("p", "&sect;4", "sn9.1:4.1-4.4"),
+        ("p", "&sect;5", "sn9.1:5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's cast of characters differ from most earlier saṃyuttas in this collection?",
+         "opts": [
+             "Neither the monk nor the deity is named",
+             "Every character is named in full detail",
+             "The Buddha personally intervenes",
+             "No characters appear in this discourse at all"],
+         "correct": 0,
+         "expl": "Anonymity distinct from Devatāsaṃyutta's or Brāhmaṇasaṃyutta's named encounters."},
+        {"q": "What is the monk doing when the deity notices him?",
+         "opts": [
+             "Thinking bad, unskillful thoughts about domestic life during meditation",
+             "Sleeping soundly through the night",
+             "Debating another monk publicly",
+             "Traveling between villages"],
+         "correct": 0,
+         "expl": "A private mental struggle, not a public confrontation."},
+        {"q": "What motive does the text give for the deity's intervention?",
+         "opts": [
+             "Sympathy for the monk, wanting what's best for him",
+             "Anger at the monk's failure",
+             "A wish to test the monk's resolve",
+             "No motive is given"],
+         "correct": 0,
+         "expl": "Concerned care stated explicitly before any verse begins."},
+        {"q": "What contradiction does the deity's opening verse name?",
+         "opts": [
+             "The monk sought seclusion but his mind keeps straying to outward things",
+             "The monk claims to be enlightened but clearly isn't",
+             "The monk has broken a specific monastic rule",
+             "The monk refuses to meditate at all"],
+         "correct": 0,
+         "expl": "A mismatch between physical location and mental direction."},
+        {"q": "How does the verse describe the difficulty of overcoming sensual attachment?",
+         "opts": [
+             "As a \"dusty abyss\" that is hard to cross",
+             "As trivially easy for any monk",
+             "As impossible for anyone to overcome",
+             "The verse does not address difficulty at all"],
+         "correct": 0,
+         "expl": "A genuine struggle, not a minor lapse to dismiss."},
+        {"q": "What image closes the deity's verses?",
+         "opts": [
+             "A bird shaking dust from its feathers",
+             "A river flowing to the sea",
+             "A mountain unmoved by wind",
+             "A lamp lit in darkness"],
+         "correct": 0,
+         "expl": "Modeling the exact kind of energetic, mindful release being urged."},
+        {"q": "How does the monk respond to the deity's verses?",
+         "opts": [
+             "He is struck with a sense of urgency",
+             "He argues back and rejects the advice",
+             "He falls asleep immediately",
+             "He leaves the forest entirely"],
+         "correct": 0,
+         "expl": "Saṁvega — an immediate, receptive response closing the discourse."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "An unnamed forest setting, distinct from the named locations of earlier saṃyuttas."},
+        {"q": "What does the deity urge the monk to dispel, according to the second stanza?",
+         "opts": [
+             "Desire for people, to become happy and free of greed",
+             "All forms of physical activity",
+             "The practice of meditation itself",
+             "His monastic robes"],
+         "correct": 0,
+         "expl": "Redirecting attachment away from social/domestic craving."},
+        {"q": "How does this discourse establish a pattern for Vanasaṃyutta as a whole?",
+         "opts": [
+             "Setting and situation matter more than individual named identity",
+             "Every discourse must feature the Buddha directly",
+             "Only female deities appear throughout the saṃyutta",
+             "No pattern is established by this opening discourse"],
+         "correct": 0,
+         "expl": "A structural expectation this reading guide notes for what follows."},
+    ],
+    marginalia=[
+        ("No names, only situation", [
+            "an unnamed monk, an unnamed deity &mdash;",
+            "setting mattering more than identity",
+        ]),
+        ("Sympathy stated before any verse", [
+            "concern, not mere correction &mdash;",
+            "wanting what's best for him",
+        ]),
+        ("Seclusion sought, mind still straying", [
+            "the exact contradiction named &mdash;",
+            "location and direction mismatched",
+        ]),
+        ("A single shake, dust released", [
+            "the whole resolution in one image &mdash;",
+            "urgency following immediately after",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.12.html">SN 8.12 &middot; With Vaṅgīsa</a> '
+        "&mdash; the discourse closing Vaṅgīsasaṃyutta, immediately "
+        "before this one.",
+        '<a href="sn-9.2.html">SN 9.2 &middot; Application</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.2 — Upaṭṭhānasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 2, "Upaṭṭhāna", "Application",
+    meta_title="SN 9.2 — Application | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upaṭṭhānasutta — a forest deity wakes a sleeping monk "
+        "with sharp rhetorical questions, and the monk answers back "
+        "in verse rather than staying silent. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and an unnamed "
+                     "mendicant"),
+        ("Form", "A sharp rebuke in verse, answered by the monk's "
+                 "own verse in reply"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the monk's answer is genuinely ambiguous, "
+                       "and this guide treats it honestly"),
+    ],
+    why=(
+        "Where SN 9.1's monk received the deity's verses in silence, "
+        "struck by urgency, this discourse's monk does something "
+        "different: he talks back. Caught asleep during what should "
+        "be meditation, he's woken with sharp, almost biting "
+        "questions &mdash; how can the afflicted slumber, pierced by "
+        "an arrow? &mdash; and rather than simply accepting the "
+        "rebuke, he answers in kind, describing himself as already "
+        "free of desire, ignorance, and sorrow, and asking pointedly "
+        "why a renunciate in that condition should be bothered at "
+        "all. Whether this is a genuine description of real "
+        "attainment or a sleepy monk's defensive rationalization, the "
+        "text itself doesn't say &mdash; and this reading guide "
+        "resists resolving the ambiguity with false confidence."),
+    guide=[
+        ("A sharper opening rebuke than SN 9.1's", [
+            "Where the previous discourse opened with sympathetic "
+            "observation, this one opens with pointed, almost "
+            "aggressive questioning &mdash; &lsquo;get up, mendicant! "
+            "why lie down?&rsquo; &mdash; a harsher register matching "
+            "the more concrete failure of falling fully asleep."]),
+        ("An image of injury applied to ordinary drowsiness", [
+            "The deity's rhetorical question &mdash; how can the "
+            "afflicted slumber, pierced by an arrow strike? &mdash; "
+            "treats the monk's spiritual complacency with the urgency "
+            "of physical injury, a deliberately jarring comparison for "
+            "something as mundane as falling asleep."]),
+        ("A monk who answers back, rather than staying silent", [
+            "Unlike SN 9.1's monk, who says nothing and is simply "
+            "struck with urgency, this monk responds directly in "
+            "verse &mdash; a notable structural difference this "
+            "reading guide flags rather than glosses over."]),
+        ("A claim of attainment that resists easy verification", [
+            "The monk's reply describes someone free of desire, "
+            "beyond ignorance, sorrowless and unstressed, energetic "
+            "and resolute &mdash; language that could describe genuine "
+            "arahantship or could equally be a sleepy monk's "
+            "defensive self-flattery; nothing in the text settles "
+            "which, and this reading guide presents both readings "
+            "rather than choosing one."]),
+        ("A repeated refrain framed as rhetorical challenge", [
+            "&lsquo;Why bother a renunciate?&rsquo; closes each of "
+            "the monk's four stanzas, the repetition itself "
+            "functioning less as genuine inquiry than as a pointed "
+            "pushback against the deity's rebuke &mdash; whatever the "
+            "monk's actual state, his tone is clearly not fully "
+            "chastened."]),
+    ],
+    terms=[
+        ("divāvihāragato supati",
+         "&ldquo;went for the day's meditation, but fell asleep&rdquo; "
+         "&mdash; the monk's concrete lapse opening the discourse."),
+        ("āturassa hi kā niddā, sallaviddhassa ruppato",
+         "&ldquo;how can the afflicted slumber, pierced by an arrow "
+         "strike?&rdquo; &mdash; the deity's sharp rhetorical rebuke."),
+        ("yāya saddhāya pabbajito&hellip;tameva saddhaṁ brūhehi",
+         "&ldquo;the faith that led you to go forth&hellip;amplify "
+         "that same faith&rdquo; &mdash; the deity's positive "
+         "exhortation."),
+        ("kasmā pabbajitaṁ tape",
+         "&ldquo;why bother a renunciate?&rdquo; &mdash; the monk's "
+         "repeated refrain, pushing back against the rebuke."),
+        ("chandarāgassa vinayā, avijjāsamatikkamā",
+         "&ldquo;by removing desire and greed, by going beyond "
+         "ignorance&rdquo; &mdash; the state the monk claims (or "
+         "aspires to), left genuinely ambiguous by the text."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.2:1.1-1.3"),
+        ("p", "&sect;2", "sn9.2:2.1-2.4"),
+        ("p", "&sect;3", "sn9.2:3.1-3.4"),
+        ("p", "&sect;4", "sn9.2:4.1-4.4"),
+        ("p", "&sect;5", "sn9.2:5.1-5.4"),
+        ("p", "&sect;6", "sn9.2:6.1-6.4"),
+        ("p", "&sect;7", "sn9.2:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What is the monk doing when the deity confronts him?",
+         "opts": [
+             "He fell asleep during what should be meditation",
+             "He is thinking distracting thoughts while awake",
+             "He is eating outside the proper time",
+             "He is arguing with another monk"],
+         "correct": 0,
+         "expl": "A more concrete lapse than SN 9.1's wandering thoughts."},
+        {"q": "How does this discourse's opening tone compare to SN 9.1's?",
+         "opts": [
+             "Sharper and more pointed, almost aggressive in its questioning",
+             "Identical in tone and register",
+             "Gentler and more sympathetic",
+             "Entirely silent, with no verse at all"],
+         "correct": 0,
+         "expl": "\"Get up, mendicant! Why lie down?\" — a harsher register than SN 9.1's opening."},
+        {"q": "What image does the deity use to describe the monk's complacency?",
+         "opts": [
+             "Someone pierced by an arrow strike, unable to sensibly slumber",
+             "A boat drifting without a rudder",
+             "A tree with no roots",
+             "No image is used; the rebuke is entirely literal"],
+         "correct": 0,
+         "expl": "A deliberately jarring comparison applied to ordinary drowsiness."},
+        {"q": "How does this monk's response differ from SN 9.1's monk?",
+         "opts": [
+             "He answers back directly in verse, rather than remaining silent",
+             "He responds identically, struck silently with urgency",
+             "He refuses to respond in any way",
+             "He immediately leaves the forest"],
+         "correct": 0,
+         "expl": "A notable structural difference this reading guide flags directly."},
+        {"q": "What does the monk's verse claim about his own state?",
+         "opts": [
+             "That he is free of desire, beyond ignorance, sorrowless, and energetic",
+             "That he is deeply ashamed and apologizes",
+             "That he intends to disrobe immediately",
+             "That the deity has no right to speak to him"],
+         "correct": 0,
+         "expl": "A claim that could describe genuine attainment or defensive rationalization."},
+        {"q": "How does this reading guide treat the question of whether the monk's claim is genuine?",
+         "opts": [
+             "It presents both readings honestly, since the text itself doesn't resolve the ambiguity",
+             "It asserts confidently that the monk is lying",
+             "It asserts confidently that the monk is a fully realized arahant",
+             "It ignores the question entirely"],
+         "correct": 0,
+         "expl": "Resisting false confidence where the source itself leaves the matter open."},
+        {"q": "What refrain closes each of the monk's four stanzas?",
+         "opts": [
+             "\"Why bother a renunciate?\"",
+             "\"I am already free\"",
+             "\"Forgive my weakness\"",
+             "No refrain is repeated"],
+         "correct": 0,
+         "expl": "Kasmā pabbajitaṁ tape — functioning as pushback rather than genuine inquiry."},
+        {"q": "What does the deity urge the monk to do in its second stanza?",
+         "opts": [
+             "Amplify the faith that led him to go forth in the first place",
+             "Abandon monastic life entirely",
+             "Seek out a different teacher",
+             "Return to his family home"],
+         "correct": 0,
+         "expl": "A positive exhortation, not merely criticism."},
+        {"q": "How does the monk's tone come across in his reply, regardless of the truth of his claims?",
+         "opts": [
+             "Clearly not fully chastened, pushing back rather than simply accepting the rebuke",
+             "Completely apologetic and submissive",
+             "Confused and unable to respond coherently",
+             "Indifferent to the deity's presence entirely"],
+         "correct": 0,
+         "expl": "The repeated rhetorical refrain functioning as genuine pushback."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as SN 9.1."},
+    ],
+    marginalia=[
+        ("A sharper wake-up call", [
+            "\"why lie down?\" — pointed, not gentle &mdash;",
+            "matching a more concrete lapse",
+        ]),
+        ("An arrow-strike applied to drowsiness", [
+            "a deliberately jarring comparison &mdash;",
+            "urgency lent to something mundane",
+        ]),
+        ("A monk who talks back", [
+            "not silent like SN 9.1's &mdash;",
+            "verse answered with verse",
+        ]),
+        ("A claim left genuinely open", [
+            "attainment, or defensive rationalization &mdash;",
+            "the text itself doesn't decide",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.1.html">SN 9.1 &middot; Seclusion</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-9.3.html">SN 9.3 &middot; With Kassapagotta</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.3 — Kassapagottasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 3, "Kassapagotta", "With Kassapagotta",
+    meta_title="SN 9.3 — With Kassapagotta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kassapagottasutta — a monk tries teaching an unreceptive "
+        "hunter, and a forest deity tells him bluntly that ten lit "
+        "lamps wouldn't help someone with no eyes to see. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "A forest deity and Venerable Kassapagotta"),
+        ("Form", "An observed, apparently futile teaching attempt, "
+                 "commented on bluntly in verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a blunt, unsentimental commentary worth "
+                       "reading without over-endorsing its judgment"),
+    ],
+    why=(
+        "This discourse names its monk, Kassapagotta, but not the "
+        "person he's actually trying to help: a &lsquo;nimrod&rsquo;, "
+        "a rough hunter wandering the rugged hills, whom Kassapagotta "
+        "attempts to advise during his day's meditation. The forest "
+        "deity's response is strikingly blunt, calling the effort a "
+        "waste of time and the hunter unintelligent and unthinking, "
+        "someone who listens without understanding and looks without "
+        "seeing. The verse's closing image is deliberately extreme: "
+        "even ten lit lamps brought before him wouldn't help, because "
+        "&lsquo;he has no eyes to see.&rsquo; This reading guide "
+        "presents the deity's judgment as stated in the text, without "
+        "either endorsing it as timeless wisdom about human worth or "
+        "softening its genuine harshness."),
+    guide=[
+        ("A named monk, an unnamed and dismissed hunter", [
+            "The discourse gives Kassapagotta his own name while the "
+            "person he's trying to teach receives only a "
+            "generic, somewhat contemptuous label &mdash; a "
+            "narrative asymmetry worth noticing, since it shapes "
+            "whose perspective the verse ultimately centers."]),
+        ("A judgment delivered with no attempt at gentleness", [
+            "The deity doesn't soften its assessment or hedge with "
+            "qualification; &lsquo;unintelligent, unthinking&rsquo; "
+            "and &lsquo;he strikes me as an idiot&rsquo; are stated "
+            "plainly, a bluntness this reading guide notes rather "
+            "than dresses up as measured wisdom."]),
+        ("A description of imperviousness, not simple ignorance", [
+            "The second stanza doesn't describe someone who merely "
+            "hasn't yet learned; it describes someone who "
+            "&lsquo;listens without understanding, looks without "
+            "seeing&rsquo; even while the teaching is actively being "
+            "spoken &mdash; a structural incapacity, not a temporary "
+            "gap."]),
+        ("A hyperbolic image testing the limits of the claim", [
+            "Ten lit lamps is a deliberately excessive image; the "
+            "verse isn't claiming ordinary teaching would be merely "
+            "difficult, but that no conceivable amount of "
+            "illumination could help, because the capacity to see is "
+            "itself said to be entirely absent."]),
+        ("A response left without further comment or defense", [
+            "The discourse doesn't record Kassapagotta objecting, "
+            "explaining his effort, or defending the hunter; it simply "
+            "notes that he was struck with urgency, leaving open "
+            "exactly what lesson he personally drew from the "
+            "encounter."]),
+    ],
+    terms=[
+        ("chetaṁ ovadati",
+         "&ldquo;tried to advise a nimrod&rdquo; &mdash; "
+         "Kassapagotta's own effort, described neutrally before the "
+         "deity's blunt commentary."),
+        ("giriduggacaraṁ chetaṁ, appapaññaṁ acetasaṁ",
+         "&ldquo;a nimrod wandering the rugged hills is unintelligent, "
+         "unthinking&rdquo; &mdash; the deity's opening, unsoftened "
+         "assessment."),
+        ("suṇāti na vijānāti, āloketi na passati",
+         "&ldquo;he listens without understanding, looks without "
+         "seeing&rdquo; &mdash; describing a structural incapacity, "
+         "not mere temporary ignorance."),
+        ("sacepi dasa pajjote&hellip;neva dakkhati rūpāni",
+         "&ldquo;even if you lit ten lamps&hellip;he wouldn't see "
+         "anything&rdquo; &mdash; the verse's deliberately hyperbolic "
+         "image."),
+        ("cakkhu hissa na vijjati",
+         "&ldquo;he has no eyes to see&rdquo; &mdash; the closing "
+         "metaphor for an entirely absent capacity for insight."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.3:1.1-1.3"),
+        ("p", "&sect;2", "sn9.3:2.1-2.4"),
+        ("p", "&sect;3", "sn9.3:3.1-3.4"),
+        ("p", "&sect;4", "sn9.3:4.1-4.4"),
+        ("p", "&sect;5", "sn9.3:5.1"),
+    ],
+    quiz=[
+        {"q": "What is Kassapagotta attempting to do at the start of this discourse?",
+         "opts": [
+             "Advise a hunter (\"nimrod\") wandering the rugged hills",
+             "Teach a large assembly of monks",
+             "Debate a rival ascetic teacher",
+             "Convert a wealthy brahmin"],
+         "correct": 0,
+         "expl": "An apparently individual, low-key teaching effort."},
+        {"q": "How does the discourse's treatment of names create an asymmetry?",
+         "opts": [
+             "Kassapagotta is named, while the hunter receives only a generic label",
+             "Both figures are given equal, detailed names",
+             "Neither figure is named at all",
+             "Only the hunter is named, not the monk"],
+         "correct": 0,
+         "expl": "Shaping whose perspective the verse ultimately centers."},
+        {"q": "How does the deity describe the hunter?",
+         "opts": [
+             "Bluntly, as \"unintelligent, unthinking,\" with no attempt at gentleness",
+             "With careful, hedged qualification",
+             "As misunderstood but fundamentally capable",
+             "With no description at all, only questions"],
+         "correct": 0,
+         "expl": "A bluntness this reading guide notes rather than dresses up as measured wisdom."},
+        {"q": "What does the verse claim about the hunter's ability to understand the teaching?",
+         "opts": [
+             "That he listens without understanding and looks without seeing, even while it's being taught",
+             "That he understands perfectly but chooses to ignore it",
+             "That he has already mastered the teaching",
+             "The verse makes no claim about his understanding"],
+         "correct": 0,
+         "expl": "Describing a structural incapacity, not a temporary gap in knowledge."},
+        {"q": "What hyperbolic image does the verse use to emphasize its point?",
+         "opts": [
+             "Even ten lit lamps brought to him wouldn't help him see",
+             "A mountain moved by a single breath",
+             "An ocean crossed in a single step",
+             "No hyperbolic image is used"],
+         "correct": 0,
+         "expl": "Testing the limits of the claim through deliberate excess."},
+        {"q": "What does the closing line \"he has no eyes to see\" refer to?",
+         "opts": [
+             "A metaphorical incapacity for insight, not literal blindness",
+             "An actual physical disability",
+             "A temporary condition caused by darkness",
+             "The hunter's literal eyesight, unrelated to understanding"],
+         "correct": 0,
+         "expl": "A metaphor for entirely absent capacity, not a physical description."},
+        {"q": "How does this reading guide characterize its own treatment of the deity's judgment?",
+         "opts": [
+             "Presenting it as stated in the text, without endorsing or softening it",
+             "Fully endorsing the judgment as timeless wisdom",
+             "Rejecting the judgment as entirely mistaken",
+             "Ignoring the judgment's content entirely"],
+         "correct": 0,
+         "expl": "Neither dressing up the harshness nor dismissing what the text actually says."},
+        {"q": "How does Kassapagotta respond to the deity's verses?",
+         "opts": [
+             "He is struck with a sense of urgency, with no recorded objection or defense",
+             "He argues that the deity is wrong about the hunter",
+             "He immediately abandons his teaching efforts forever",
+             "He confronts the hunter directly afterward"],
+         "correct": 0,
+         "expl": "The discourse leaves open exactly what lesson he personally drew."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as SN 9.1 and SN 9.2."},
+        {"q": "What is Kassapagotta doing when the deity approaches him?",
+         "opts": [
+             "Withdrawn for his day's meditation, having just attempted to advise the hunter",
+             "Sleeping soundly",
+             "Traveling between towns",
+             "Eating his midday meal"],
+         "correct": 0,
+         "expl": "The immediate aftermath of the apparently futile teaching attempt."},
+    ],
+    marginalia=[
+        ("One name given, one withheld", [
+            "Kassapagotta named, the hunter not &mdash;",
+            "shaping whose view the verse centers",
+        ]),
+        ("No softening in the verdict", [
+            "\"unintelligent, unthinking\" &mdash;",
+            "stated plainly, not dressed up",
+        ]),
+        ("Not ignorance, but incapacity", [
+            "listening without understanding &mdash;",
+            "even while the teaching is spoken",
+        ]),
+        ("Ten lamps, still no seeing", [
+            "a deliberately excessive image &mdash;",
+            "testing the claim's outer limit",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.2.html">SN 9.2 &middot; Application</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.4.html">SN 9.4 &middot; Several Mendicants Set '
+        "Out Wandering</a> &mdash; the next discourse in this "
+        "saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.4 — Sambahulasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 4, "Sambahula", "Several Mendicants Set Out Wandering",
+    meta_title="SN 9.4 — Several Mendicants Set Out Wandering | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sambahulasutta — a forest deity mourns the departure of "
+        "monks it had grown fond of, and another deity reframes the "
+        "loss as freedom, comparing the wandering mendicants to deer "
+        "unbound by ties. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "Two forest deities, conversing with each other"),
+        ("Form", "A lament in verse, answered by a second deity's "
+                 "reframing verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a rare deity-to-deity exchange, with no "
+                       "monk directly present"),
+    ],
+    why=(
+        "No monk appears directly in this discourse at all &mdash; "
+        "the entire exchange happens between two forest deities, "
+        "after the mendicants who once occupied this forest grove "
+        "have already gone. Following the standard practice of "
+        "resuming travel once the three-month rains residence ends, "
+        "the monks have simply moved on, and the deity who'd grown "
+        "fond of their learned, articulate company finds the empty "
+        "seats genuinely upsetting, crying and asking where they've "
+        "gone. A second deity answers not with comfort exactly, but "
+        "with reframing: naming the specific regions the monks have "
+        "scattered to, and comparing their unattached wandering to "
+        "deer moving freely, unbound by ties."),
+    guide=[
+        ("An exchange with no monk present at all", [
+            "Every other discourse in this saṃyutta so far involves a "
+            "deity addressing a monk directly; here the monks have "
+            "already left, and the entire conversation happens "
+            "between two deities discussing their absence &mdash; a "
+            "genuine structural departure from the pattern."]),
+        ("Grief expressed plainly, over something ordinary", [
+            "The first deity's reaction isn't proportioned to any "
+            "unusual event; monks routinely resume wandering after "
+            "the rains residence ends, yet the deity's response "
+            "&mdash; crying, calling it dissatisfaction &mdash; treats "
+            "an entirely normal monastic practice as a real loss."]),
+        ("Admiration remembered specifically, not vaguely", [
+            "The lamenting deity doesn't just miss having company "
+            "generally; it recalls the monks specifically as "
+            "&lsquo;learned&rsquo; and &lsquo;brilliant speakers&rsquo;, "
+            "grounding the loss in particular, remembered qualities."]),
+        ("A named itinerary answering a vague question", [
+            "The second deity's reply doesn't offer abstract comfort; "
+            "it names actual places &mdash; Magadha, Kosala, the "
+            "Vajjian lands &mdash; giving the absence a concrete "
+            "geography rather than leaving it as an unanswered "
+            "mystery."]),
+        ("Freedom offered as the reframe, not mere reassurance", [
+            "The closing image &mdash; deer wandering free of ties, "
+            "mendicants living with no fixed abode &mdash; doesn't "
+            "simply comfort the grieving deity; it reinterprets the "
+            "very departure being mourned as the monks' own "
+            "freedom, turning loss into something to admire rather "
+            "than only regret."]),
+    ],
+    terms=[
+        ("vassaṁvuṭṭhā temāsaccayena cārikaṁ pakkamiṁsu",
+         "&ldquo;after completing the three months of the rainy "
+         "season residence, set out wandering&rdquo; &mdash; the "
+         "standard, unremarkable monastic custom prompting the "
+         "deity's grief."),
+        ("arati viya mejja khāyati",
+         "&ldquo;dissatisfaction, it seems to me today&rdquo; "
+         "&mdash; the lamenting deity's opening expression of loss."),
+        ("cittakathā bahussutā",
+         "&ldquo;so learned, such brilliant speakers&rdquo; &mdash; "
+         "the deity's specific, remembered admiration for the "
+         "departed monks."),
+        ("māgadhaṁ gatā kosalaṁ gatā&hellip;vajjibhūmiyā",
+         "&ldquo;gone to Magadha, gone to Kosala&hellip;in the "
+         "Vajjian lands&rdquo; &mdash; the second deity's concrete "
+         "reply, naming actual regions."),
+        ("magā viya asaṅgacārino, aniketā viharanti bhikkhavo",
+         "&ldquo;like deer that wander free of ties, the mendicants "
+         "live with no abode&rdquo; &mdash; the closing image "
+         "reframing departure as freedom."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.4:1.1-1.3"),
+        ("p", "&sect;2", "sn9.4:2.1-2.4"),
+        ("p", "&sect;3", "sn9.4:3.1"),
+        ("p", "&sect;4", "sn9.4:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "Two forest deities, conversing with each other; no monk appears directly",
+             "A single monk and a single deity",
+             "The Buddha and a group of monks",
+             "A group of brahmins and the Buddha"],
+         "correct": 0,
+         "expl": "A genuine structural departure from this saṃyutta's usual pattern."},
+        {"q": "What event prompts the first deity's grief?",
+         "opts": [
+             "Monks resuming wandering after completing the rains residence, a routine practice",
+             "The sudden death of several monks",
+             "A dispute that drove the monks away",
+             "A natural disaster destroying the forest"],
+         "correct": 0,
+         "expl": "An ordinary monastic custom treated as a genuine loss."},
+        {"q": "How does the first deity describe the departed monks?",
+         "opts": [
+             "As learned and brilliant speakers, remembered specifically",
+             "With no particular description, only general sadness",
+             "As troublesome and difficult",
+             "As strangers it barely knew"],
+         "correct": 0,
+         "expl": "Grounding the loss in particular, remembered qualities."},
+        {"q": "How does the second deity respond to the first's lament?",
+         "opts": [
+             "By naming actual regions the monks have gone to: Magadha, Kosala, and the Vajjian lands",
+             "By dismissing the first deity's grief as foolish",
+             "By claiming the monks will never return",
+             "By remaining silent"],
+         "correct": 0,
+         "expl": "A concrete geography rather than an unanswered mystery."},
+        {"q": "What image does the second deity use to reframe the monks' departure?",
+         "opts": [
+             "Deer wandering free of ties",
+             "Birds trapped in a cage",
+             "A river dammed and stagnant",
+             "A tree cut down at the root"],
+         "correct": 0,
+         "expl": "Reinterpreting the departure as the monks' own freedom."},
+        {"q": "What does this reframing accomplish, according to this reading guide?",
+         "opts": [
+             "It turns loss into something to admire rather than only regret",
+             "It simply denies that any loss occurred",
+             "It blames the first deity for its grief",
+             "It has no effect on how the departure is understood"],
+         "correct": 0,
+         "expl": "Comfort through reinterpretation, not mere reassurance."},
+        {"q": "How does this discourse's structure compare to SN 9.1–9.3?",
+         "opts": [
+             "It is the only one where no monk is present in the actual exchange",
+             "It follows the identical structure of a deity addressing a monk",
+             "It features multiple monks arguing with a deity",
+             "It has no verse content at all"],
+         "correct": 0,
+         "expl": "A genuine departure from the established pattern of the preceding discourses."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as the preceding discourses in this saṃyutta."},
+        {"q": "What specific practice prompted the monks to leave the forest?",
+         "opts": [
+             "Resuming wandering after completing the three-month rains residence",
+             "A direct order from the Buddha to relocate",
+             "A conflict with the local deities",
+             "The onset of a dangerous storm"],
+         "correct": 0,
+         "expl": "A routine, expected part of the monastic calendar."},
+        {"q": "How does the first deity's reaction compare to the ordinariness of the event itself?",
+         "opts": [
+             "Disproportionate — genuine grief over a routine, expected practice",
+             "Perfectly proportionate to an extraordinary event",
+             "The deity shows no reaction at all",
+             "The deity expresses relief rather than sadness"],
+         "correct": 0,
+         "expl": "Treating a normal monastic practice as a real, felt loss."},
+    ],
+    marginalia=[
+        ("No monk in the scene at all", [
+            "two deities, speaking to each other &mdash;",
+            "the monks already gone before it starts",
+        ]),
+        ("Grief over something routine", [
+            "an ordinary practice, felt as real loss &mdash;",
+            "empty seats mourned specifically",
+        ]),
+        ("A named itinerary, not vague comfort", [
+            "Magadha, Kosala, Vajji &mdash;",
+            "concrete geography answering the question",
+        ]),
+        ("Freedom offered instead of consolation", [
+            "deer unbound by ties &mdash;",
+            "loss reframed as something to admire",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.3.html">SN 9.3 &middot; With Kassapagotta</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.5.html">SN 9.5 &middot; With Ānanda</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.5 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 5, "Ānanda", "With Ānanda",
+    meta_title="SN 9.5 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta — a forest deity notices Ānanda spending too "
+        "much time persuading lay people, and redirects him back to "
+        "meditation with a single pointed question: what use is this "
+        "hullabaloo to you? From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and Venerable Ānanda"),
+        ("Form", "An observed imbalance, corrected with a single "
+                 "compact verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with a pointed closing question"),
+    ],
+    why=(
+        "Ānanda appears here not battling an obvious temptation like "
+        "SN 9.1's monk, but caught in something subtler: spending too "
+        "much time persuading lay people, an imbalance toward social "
+        "engagement rather than the seclusion he'd originally sought "
+        "out. The forest deity's single verse doesn't scold him for "
+        "wrongdoing exactly; it simply reminds him of his own "
+        "original intention &mdash; the jungle, the root of a tree, "
+        "extinguishment laid in his heart &mdash; and asks a pointed, "
+        "almost dismissive question about the busywork currently "
+        "occupying him: what use is this hullabaloo to you?"),
+    guide=[
+        ("A subtler imbalance than obvious temptation", [
+            "Unlike SN 9.1's lust or SN 9.2's sleep, Ānanda's issue "
+            "here isn't a conventional lapse at all; spending time "
+            "persuading lay people sounds like productive, even "
+            "admirable activity, making the deity's intervention a "
+            "correction of excess rather than of obvious wrongdoing."]),
+        ("A reminder of original intention, not a new instruction", [
+            "The verse doesn't introduce anything Ānanda hasn't "
+            "already committed to; it simply restates what he "
+            "&lsquo;used to&rsquo; do &mdash; seek the jungle, lay "
+            "extinguishment in his heart &mdash; holding up his own "
+            "earlier commitment as the standard he's currently "
+            "drifting from."]),
+        ("The vocative \"Gotama\" recurring once more", [
+            "This is at least the third time in this collection the "
+            "term &lsquo;Gotama&rsquo; is used as direct address, "
+            "here for Ānanda; since Ānanda was genuinely of the "
+            "Buddha's own Sākiya-Gotama clan, this instance continues "
+            "to support reading it as a family-name vocative rather "
+            "than confusion with the Buddha himself."]),
+        ("A dismissive closing image for well-intentioned busyness", [
+            "&lsquo;Hullabaloo&rsquo; (biḷibiḷikā) is a strikingly "
+            "unflattering word for what might otherwise be described "
+            "as valuable lay outreach; the deity's word choice itself "
+            "carries the judgment, without needing further "
+            "explanation of what's wrong with it."]),
+        ("Urgency as the only recorded response", [
+            "As in SN 9.1 and SN 9.3, the discourse ends simply with "
+            "Ānanda struck by a sense of urgency &mdash; no defense, "
+            "no argument, no further verse in reply, closing the "
+            "exchange as quickly as it began."]),
+    ],
+    terms=[
+        ("ativelaṁ gihisaññattibahulo viharati",
+         "&ldquo;spending too much time persuading lay people&rdquo; "
+         "&mdash; Ānanda's specific imbalance, an excess rather than "
+         "an obvious fault."),
+        ("rukkhamūlagahanaṁ pasakkiya",
+         "&ldquo;you've left for the jungle, the root of a tree&rdquo; "
+         "&mdash; recalling Ānanda's own original commitment."),
+        ("nibbānaṁ hadayasmiṁ opiya",
+         "&ldquo;having laid extinguishment in your heart&rdquo; "
+         "&mdash; naming what that original commitment was actually "
+         "aimed at."),
+        ("jhāya gotama mā pamādo",
+         "&ldquo;meditate, don't be negligent!&rdquo; &mdash; the "
+         "direct imperative at the verse's center."),
+        ("kiṁ te biḷibiḷikā karissati",
+         "&ldquo;what use is this hullabaloo to you?&rdquo; &mdash; "
+         "the pointed, dismissive closing question."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.5:1.1-1.3"),
+        ("p", "&sect;2", "sn9.5:2.1-2.4"),
+        ("p", "&sect;3", "sn9.5:3.1"),
+    ],
+    quiz=[
+        {"q": "What imbalance does the forest deity notice in Ānanda?",
+         "opts": [
+             "He is spending too much time persuading lay people",
+             "He has fallen asleep during meditation",
+             "He is thinking lustful thoughts",
+             "He has abandoned meditation entirely"],
+         "correct": 0,
+         "expl": "An excess of otherwise valuable activity, not an obvious lapse."},
+        {"q": "How does this discourse's issue compare to SN 9.1's or SN 9.2's?",
+         "opts": [
+             "It is subtler — an excess of admirable activity rather than a conventional fault",
+             "It is identical in every respect",
+             "It involves no deity intervention at all",
+             "It is far more severe than either earlier discourse"],
+         "correct": 0,
+         "expl": "Social engagement, not lust or sleep, drawing the deity's correction."},
+        {"q": "What does the deity's verse remind Ānanda of?",
+         "opts": [
+             "His own original commitment to seclusion and extinguishment",
+             "A specific monastic rule he has broken",
+             "A promise he made to another monk",
+             "A teaching he has forgotten entirely"],
+         "correct": 0,
+         "expl": "Restating his own earlier intention as the standard he's drifting from."},
+        {"q": "What vocative does the deity use to address Ānanda?",
+         "opts": [
+             "\"Gotama\"",
+             "\"Ānanda\" directly",
+             "\"Reverend Sir\"",
+             "No vocative is used"],
+         "correct": 0,
+         "expl": "Recurring from SN 8.3/8.4, consistent with Ānanda's actual clan membership."},
+        {"q": "What word does the verse use to describe Ānanda's lay-persuading activity?",
+         "opts": [
+             "\"Hullabaloo\" (biḷibiḷikā), a strikingly unflattering term",
+             "A neutral, purely descriptive term",
+             "A term of high praise",
+             "No specific word is used to describe it"],
+         "correct": 0,
+         "expl": "The word choice itself carrying the judgment without further explanation."},
+        {"q": "How does Ānanda respond to the deity's verse?",
+         "opts": [
+             "He is struck with a sense of urgency, with no recorded defense or argument",
+             "He argues that his activity is valuable and continues unchanged",
+             "He immediately confronts the deity",
+             "He falls asleep"],
+         "correct": 0,
+         "expl": "The same closing formula as SN 9.1 and SN 9.3."},
+        {"q": "What was Ānanda's original stated intention, according to the verse?",
+         "opts": [
+             "To seek the jungle and lay extinguishment in his heart",
+             "To become a renowned public teacher",
+             "To gather as many lay followers as possible",
+             "To travel to distant lands"],
+         "correct": 0,
+         "expl": "The commitment the deity holds up against his current drift."},
+        {"q": "How long is this discourse compared to SN 9.6?",
+         "opts": [
+             "Considerably shorter, a single compact verse",
+             "Significantly longer",
+             "Exactly the same length",
+             "The discourse contains no verse at all"],
+         "correct": 0,
+         "expl": "A brief, pointed intervention rather than an extended exchange."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as the preceding discourses in this saṃyutta."},
+        {"q": "What motivates the deity's intervention, according to the text?",
+         "opts": [
+             "Sympathy for Ānanda, wanting what's best for him",
+             "Anger at his neglect of meditation",
+             "A wish to test his patience",
+             "No motive is given"],
+         "correct": 0,
+         "expl": "The same sympathetic framing used elsewhere in this saṃyutta."},
+    ],
+    marginalia=[
+        ("An excess, not an obvious fault", [
+            "helping lay people, yet somehow too much &mdash;",
+            "correction without any wrongdoing named",
+        ]),
+        ("His own words, held up to him", [
+            "the jungle, the tree-root, once chosen &mdash;",
+            "nothing new, only a reminder",
+        ]),
+        ("\"Gotama,\" once more", [
+            "the third such address in this collection &mdash;",
+            "consistent with Ānanda's own clan",
+        ]),
+        ("One unflattering word doing the work", [
+            "\"hullabaloo\" — no further argument needed &mdash;",
+            "the judgment carried in the word itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.4.html">SN 9.4 &middot; Several Mendicants Set '
+        "Out Wandering</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-9.6.html">SN 9.6 &middot; With Anuruddha</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.6 — Anuruddhasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 6, "Anuruddha", "With Anuruddha",
+    meta_title="SN 9.6 — With Anuruddha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Anuruddhasutta — a former lover reborn as a goddess "
+        "tries to tempt Anuruddha back to heavenly pleasure, and "
+        "receives in return a direct teaching on impermanence and "
+        "final liberation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "The goddess Jālinī, Anuruddha's partner in a "
+                     "former life, and Venerable Anuruddha"),
+        ("Form", "A tempting invitation, firmly refused, escalating "
+                 "into a decisive teaching"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most dramatically developed exchange in "
+                       "this saṃyutta so far"),
+    ],
+    why=(
+        "This discourse departs from Vanasaṃyutta's usual pattern of "
+        "sympathetic correction: Jālinī, a goddess among the Thirty-"
+        "Three, isn't a stranger trying to help Anuruddha but someone "
+        "who was his partner in a former life, and her opening verse "
+        "is a genuine temptation, not a warning &mdash; return to "
+        "where you used to live, she urges, among gods whose every "
+        "desire is granted, surrounded by a retinue of divine "
+        "maidens. Anuruddha's refusal doesn't simply decline; it "
+        "escalates through two rounds of exchange into a full "
+        "teaching on impermanence, closing with his own direct "
+        "declaration that transmigration is finished for him "
+        "entirely &mdash; addressed, in a pointed final line, "
+        "directly to her by name."),
+    guide=[
+        ("An offer from someone who knows exactly what's being refused", [
+            "Unlike other discourses where a deity tries to correct a "
+            "monk's error, Jālinī has personal, intimate knowledge of "
+            "what she's offering; having genuinely shared a past life "
+            "with Anuruddha, her invitation carries a weight and "
+            "specificity that a stranger's temptation couldn't."]),
+        ("A refusal that indicts the pleasure itself, not just the offer", [
+            "Anuruddha's first response doesn't simply say "
+            "&lsquo;no, thank you&rsquo;; it reframes the entire "
+            "premise, calling divine maidens themselves &lsquo;in a "
+            "sorry state, stuck in substantial reality&rsquo;, and "
+            "extending that same judgment to anyone attached to "
+            "them."]),
+        ("Persistence met with escalating directness", [
+            "Jālinī doesn't accept the first refusal; she tries again, "
+            "praising the Garden of Delight directly, prompting "
+            "Anuruddha's response to shift register entirely, from "
+            "reframing the offer to naming her outright as failing to "
+            "understand &lsquo;the saying of the perfected "
+            "ones&rsquo;."]),
+        ("A core teaching delivered as rebuttal, not abstract doctrine", [
+            "The impermanence formula Anuruddha recites &mdash; all "
+            "conditions rise and fall, their settling is bliss "
+            "&mdash; isn't offered as general instruction; it's aimed "
+            "directly at dismantling the specific temptation just "
+            "placed before him."]),
+        ("A closing line naming her specifically, not generically", [
+            "Anuruddha's final declaration doesn't end in the "
+            "abstract; it addresses Jālinī directly by name &mdash; "
+            "&lsquo;weaver of the web&rsquo;, playing on the meaning "
+            "of her name &mdash; making his declaration of finished "
+            "rebirth a direct, personal answer rather than a general "
+            "teaching statement."]),
+    ],
+    terms=[
+        ("jālinī&hellip;purāṇadutiyikā",
+         "&ldquo;Jālinī&hellip;had been his partner in a former "
+         "life&rdquo; &mdash; identifying the deity's personal, "
+         "intimate relationship to Anuruddha."),
+        ("tāvatiṁsesu devesu, sabbakāmasamiddhisu",
+         "&ldquo;among the gods of the thirty-three, whose every "
+         "desire is granted&rdquo; &mdash; the heavenly realm Jālinī "
+         "offers to restore him to."),
+        ("duggatā devakaññāyo, sakkāyasmiṁ patiṭṭhitā",
+         "&ldquo;divine maidens are in a sorry state, stuck in "
+         "substantial reality&rdquo; &mdash; Anuruddha's firm "
+         "reframing of the entire offer."),
+        ("aniccā sabbasaṅkhārā, uppādavayadhammino",
+         "&ldquo;all conditions are impermanent, their nature is to "
+         "rise and fall&rdquo; &mdash; the core teaching aimed "
+         "directly at dismantling the temptation."),
+        ("vikkhīṇo jātisaṁsāro, natthi dāni punabbhavo",
+         "&ldquo;transmigration through births is finished, now "
+         "there'll be no more future lives&rdquo; &mdash; Anuruddha's "
+         "closing declaration, addressed directly to Jālinī by name."),
+    ],
+    text_intro=(
+        "The discourse in full. Note: the Sujato translation renders "
+        "the goddess's name, Jālinī (literally &ldquo;she of the "
+        "net&rdquo;), as &ldquo;Penelope&rdquo; in places to preserve "
+        "the closing wordplay on weaving in English; this reading "
+        "guide uses her actual name, Jālinī, throughout. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.6:1.1-1.2"),
+        ("p", "&sect;2", "sn9.6:2.1-2.6"),
+        ("p", "&sect;3", "sn9.6:3.1-3.4"),
+        ("p", "&sect;4", "sn9.6:4.1-4.4"),
+        ("p", "&sect;5", "sn9.6:5.1-5.6"),
+        ("p", "&sect;6", "sn9.6:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "Who is Jālinī, and what is her relationship to Anuruddha?",
+         "opts": [
+             "A goddess among the Thirty-Three who had been his partner in a former life",
+             "A stranger deity with no prior connection to him",
+             "Anuruddha's current attendant",
+             "A forest spirit unrelated to any past life"],
+         "correct": 0,
+         "expl": "A personal, intimate relationship distinguishing this discourse from others in this saṃyutta."},
+        {"q": "What does Jālinī's opening verse offer Anuruddha?",
+         "opts": [
+             "A return to heavenly rebirth among the gods, surrounded by divine maidens",
+             "A warning about a specific danger",
+             "Advice on correcting a meditation error",
+             "News about other departed monks"],
+         "correct": 0,
+         "expl": "A genuine temptation, not the sympathetic correction typical of this saṃyutta."},
+        {"q": "How does Anuruddha's first response address the offer?",
+         "opts": [
+             "By reframing the offer entirely, calling divine maidens themselves \"in a sorry state\"",
+             "By simply declining without further comment",
+             "By accepting the invitation",
+             "By ignoring Jālinī entirely"],
+         "correct": 0,
+         "expl": "Indicting the premise of the pleasure itself, not merely refusing the offer."},
+        {"q": "How does Jālinī respond to this first refusal?",
+         "opts": [
+             "She persists, praising the Garden of Delight directly",
+             "She immediately departs without further words",
+             "She agrees with Anuruddha's assessment",
+             "She becomes angry and threatens him"],
+         "correct": 0,
+         "expl": "Escalating rather than accepting the first refusal."},
+        {"q": "What teaching does Anuruddha recite in his final response?",
+         "opts": [
+             "The impermanence formula: all conditions rise and fall, their settling is bliss",
+             "A teaching on generosity",
+             "A teaching on right speech",
+             "No specific teaching is recited"],
+         "correct": 0,
+         "expl": "A core doctrinal statement aimed directly at dismantling the temptation."},
+        {"q": "How does Anuruddha's closing declaration conclude?",
+         "opts": [
+             "That transmigration is finished for him, with no more future lives",
+             "That he will consider her offer further",
+             "That he is uncertain about his own attainment",
+             "That he wishes to be reborn once more before deciding"],
+         "correct": 0,
+         "expl": "A direct declaration of complete liberation from rebirth."},
+        {"q": "How does Anuruddha address Jālinī in his closing line?",
+         "opts": [
+             "Directly by name, playing on the meaning of her name as \"weaver of the web\"",
+             "Without any direct address at all",
+             "Using only a generic honorific",
+             "By a completely different name"],
+         "correct": 0,
+         "expl": "A personal, direct answer rather than an abstract teaching statement."},
+        {"q": "How does this discourse's structure differ from most others in Vanasaṃyutta?",
+         "opts": [
+             "It escalates through two full rounds of exchange rather than a single verse",
+             "It contains no verse at all",
+             "It is the shortest discourse in the saṃyutta",
+             "It involves no temptation or teaching content"],
+         "correct": 0,
+         "expl": "The most dramatically developed exchange in this saṃyutta so far."},
+        {"q": "What English name does the Sujato translation sometimes use for Jālinī, and why?",
+         "opts": [
+             "\"Penelope,\" to preserve a wordplay on weaving in English translation",
+             "\"Diana,\" referencing a hunting goddess",
+             "No alternate name is ever used",
+             "\"Athena,\" referencing wisdom"],
+         "correct": 0,
+         "expl": "A translator's choice this reading guide notes while using her actual name, Jālinī."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as the preceding discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("An offer from someone who truly knows", [
+            "a former partner, not a stranger &mdash;",
+            "temptation with real specificity",
+        ]),
+        ("The pleasure itself indicted", [
+            "not merely declined, but reframed &mdash;",
+            "\"in a sorry state,\" stated plainly",
+        ]),
+        ("Persistence met with escalation", [
+            "a second attempt, a sharper answer &mdash;",
+            "reframing giving way to direct teaching",
+        ]),
+        ("A name spoken at the very end", [
+            "not abstract doctrine alone &mdash;",
+            "a personal answer, addressed to her directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.5.html">SN 9.5 &middot; With Ānanda</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.7.html">SN 9.7 &middot; With Nāgadatta</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.7 — Nāgadattasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 7, "Nāgadatta", "With Nāgadatta",
+    meta_title="SN 9.7 — With Nāgadatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nāgadattasutta — a forest deity watches a monk's daily "
+        "village timing slip further and further, and voices genuine "
+        "fear rather than simple correction: that he might fall under "
+        "Death's power. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and Venerable "
+                     "Nāgadatta"),
+        ("Form", "An observed pattern of behavior, addressed with "
+                 "concern rather than rebuke"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, notable for the deity's unusually "
+                       "emotional register"),
+    ],
+    why=(
+        "This discourse's fault is procedural rather than dramatic: "
+        "Nāgadatta has been entering the village for alms too early "
+        "and returning too late, gradually drifting into closer "
+        "involvement with lay people, sharing their joys and sorrows "
+        "as though he were one of them. What distinguishes this "
+        "encounter from several of its neighbors is the deity's tone; "
+        "rather than issuing a sharp rebuke or a dismissive question, "
+        "it states plainly, &lsquo;I'm afraid for Nāgadatta&rsquo;, "
+        "framing the concern as genuine fear for his wellbeing rather "
+        "than simple correction of a technical lapse."),
+    guide=[
+        ("A fault measured in timing, not content", [
+            "Unlike temptation, sleep, or excessive teaching, "
+            "Nāgadatta's issue is procedural &mdash; entering too "
+            "early, leaving too late &mdash; a schedule drifting out "
+            "of alignment rather than any single dramatic lapse."]),
+        ("Gradual entanglement named through shared feeling", [
+            "The verse doesn't describe Nāgadatta doing anything "
+            "improper exactly; it describes him &lsquo;sharing their "
+            "joys and sorrows&rsquo; with lay families, a subtler "
+            "kind of entanglement measured in emotional involvement "
+            "rather than any specific misconduct."]),
+        ("Fear stated directly, not implied through warning", [
+            "&lsquo;I'm afraid for Nāgadatta&rsquo; is a notably "
+            "direct statement of feeling, distinct from the more "
+            "detached observational tone of several neighboring "
+            "discourses in this saṃyutta &mdash; the deity's own "
+            "emotional stake in the outcome made explicit."]),
+        ("Recklessness and shackling as the named diagnosis", [
+            "The verse doesn't merely describe Nāgadatta's behavior; "
+            "it names what it amounts to &mdash; reckless, "
+            "&lsquo;shackled to families&rsquo; &mdash; treating "
+            "gradual social entanglement as a genuine bondage, not "
+            "mere carelessness."]),
+        ("Death named as the actual stake", [
+            "The verse's closing lines don't warn of minor "
+            "consequences; they name the King of Death's power "
+            "directly, framing sustained worldly entanglement as "
+            "something that could genuinely cost Nāgadatta his "
+            "spiritual progress, not merely his reputation."]),
+    ],
+    terms=[
+        ("atikālena gāmaṁ pavisati, atidivā paṭikkamati",
+         "&ldquo;entering the village too early, and returning too "
+         "late in the day&rdquo; &mdash; Nāgadatta's specific, "
+         "procedural fault."),
+        ("saṁsaṭṭho gahaṭṭhehi, samānasukhadukkho",
+         "&ldquo;mixes with lay people, sharing their joys and "
+         "sorrows&rdquo; &mdash; entanglement measured in emotional "
+         "involvement."),
+        ("bhāyāmi nāgadattaṁ suppagabbhaṁ",
+         "&ldquo;I'm afraid for Nāgadatta; he's reckless&rdquo; "
+         "&mdash; the deity's own direct statement of feeling."),
+        ("kulesu vinibaddhaṁ",
+         "&ldquo;shackled to families&rdquo; &mdash; naming the "
+         "entanglement as genuine bondage."),
+        ("maccurañño balavato, antakassa vasaṁ",
+         "&ldquo;the King of Death's power&hellip;the "
+         "terminator&rdquo; &mdash; the real stake named at the "
+         "verse's climax."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.7:1.1-1.3"),
+        ("p", "&sect;2", "sn9.7:2.1-2.4"),
+        ("p", "&sect;3", "sn9.7:3.1-3.4"),
+        ("p", "&sect;4", "sn9.7:4.1"),
+    ],
+    quiz=[
+        {"q": "What specific pattern does the deity notice in Nāgadatta's behavior?",
+         "opts": [
+             "Entering the village too early for alms and returning too late in the day",
+             "Falling asleep during meditation",
+             "Refusing to speak to any lay people at all",
+             "Neglecting his own robes and appearance"],
+         "correct": 0,
+         "expl": "A procedural, scheduling issue rather than a single dramatic lapse."},
+        {"q": "How does the verse describe Nāgadatta's involvement with lay people?",
+         "opts": [
+             "Sharing their joys and sorrows, as though he were one of them",
+             "Refusing all contact with them",
+             "Actively teaching them the Dhamma",
+             "Collecting donations from them improperly"],
+         "correct": 0,
+         "expl": "Entanglement measured in emotional involvement, not specific misconduct."},
+        {"q": "How does the deity's tone in this discourse compare to several neighboring discourses?",
+         "opts": [
+             "More directly emotional, stating genuine fear rather than detached observation",
+             "Identical in tone to every other discourse in this saṃyutta",
+             "Colder and more dismissive",
+             "Entirely silent, with no verse at all"],
+         "correct": 0,
+         "expl": "\"I'm afraid for Nāgadatta\" — a notably direct statement of feeling."},
+        {"q": "What does the verse name Nāgadatta's condition as, beyond simple carelessness?",
+         "opts": [
+             "Being \"shackled to families\" — genuine bondage",
+             "A minor and inconsequential habit",
+             "A sign of great spiritual progress",
+             "The verse offers no specific diagnosis"],
+         "correct": 0,
+         "expl": "Treating gradual entanglement as real bondage, not mere inattention."},
+        {"q": "What does the verse's closing warning name as the actual stake?",
+         "opts": [
+             "The King of Death's power",
+             "Loss of reputation among lay people",
+             "A minor monastic penalty",
+             "No specific stake is named"],
+         "correct": 0,
+         "expl": "Framing worldly entanglement as a threat to spiritual progress itself."},
+        {"q": "How does Nāgadatta respond to the deity's verses?",
+         "opts": [
+             "He is struck with a sense of urgency",
+             "He argues that his schedule is not a problem",
+             "He immediately leaves the forest",
+             "He asks the deity for further clarification"],
+         "correct": 0,
+         "expl": "The same closing formula used in several other discourses in this saṃyutta."},
+        {"q": "What motivates the deity's approach to Nāgadatta, according to the text?",
+         "opts": [
+             "Sympathy, wanting what's best for him",
+             "A wish to embarrass him publicly",
+             "Anger at his misconduct",
+             "No motive is given"],
+         "correct": 0,
+         "expl": "The same sympathetic framing established throughout this saṃyutta."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as the preceding discourses in this saṃyutta."},
+        {"q": "How does this discourse's fault compare to SN 9.5's (Ānanda's excessive lay-persuading)?",
+         "opts": [
+             "Both involve excessive social entanglement, though expressed differently — timing versus persuasion",
+             "The two discourses address entirely unrelated issues",
+             "SN 9.7 involves no social entanglement at all",
+             "The two faults are described in identical terms"],
+         "correct": 0,
+         "expl": "A shared underlying theme of drifting too close to lay life, in different specific forms."},
+        {"q": "What is the effect of the deity naming its own fear directly, rather than simply warning?",
+         "opts": [
+             "It frames the intervention as genuine concern for Nāgadatta's wellbeing, not mere correction",
+             "It has no particular rhetorical effect",
+             "It makes the deity's message less credible",
+             "It shifts the blame entirely onto Nāgadatta"],
+         "correct": 0,
+         "expl": "A distinctly personal, emotionally invested register."},
+    ],
+    marginalia=[
+        ("A schedule drifting, not a dramatic fall", [
+            "too early, too late — procedural, not sudden &mdash;",
+            "gradual rather than a single obvious lapse",
+        ]),
+        ("Feeling named directly", [
+            "\"I'm afraid for Nāgadatta\" &mdash;",
+            "concern stated, not just implied",
+        ]),
+        ("Shackled, not merely careless", [
+            "bondage named plainly &mdash;",
+            "entanglement taken seriously",
+        ]),
+        ("Death named as the real stake", [
+            "not reputation, but spiritual progress &mdash;",
+            "the warning's actual weight",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.6.html">SN 9.6 &middot; With Anuruddha</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.8.html">SN 9.8 &middot; The Mistress of the '
+        "House</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.8 — Kulagharaṇīsutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 8, "Kulagharaṇī", "The Mistress of the House",
+    meta_title="SN 9.8 — The Mistress of the House | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kulagharaṇīsutta — a forest deity disguises itself as "
+        "the woman a monk is entangled with to confront him with "
+        "gossip, and he passes the test with unshaken composure. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "A forest deity, disguised as a family's "
+                     "mistress, and an unnamed mendicant"),
+        ("Form", "A staged confrontation, met with calm, unshaken "
+                 "reply"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a rare test the monk actually passes on the "
+                       "spot"),
+    ],
+    why=(
+        "This discourse's deity takes a strategy unique in this "
+        "saṃyutta so far: rather than speaking as itself, it "
+        "manifests in the actual appearance of the woman whose "
+        "family the monk has become too closely involved with, and "
+        "confronts him directly with the gossip already circulating "
+        "&mdash; people talking at river banks and highways about "
+        "what's supposedly going on between them. It's a deliberately "
+        "provocative test. And unlike most of the monks encountered "
+        "elsewhere in this saṃyutta, this one doesn't need to be "
+        "struck with urgency afterward; his answer, calm and "
+        "unbothered, demonstrates he's already found the composure "
+        "the deity was testing for."),
+    guide=[
+        ("A unique method: impersonation as the test itself", [
+            "No other discourse in this saṃyutta has a deity actually "
+            "take on someone else's appearance; here the disguise "
+            "isn't incidental, it's the entire mechanism of the "
+            "test &mdash; confronting the monk with exactly the kind "
+            "of encounter his entanglement has made possible."]),
+        ("Gossip presented as already circulating, not merely hypothetical", [
+            "The verse doesn't warn the monk that people might talk; "
+            "it states plainly that they already are, gathering at "
+            "river banks, guest houses, and highways to gossip about "
+            "the two of them &mdash; the reputational damage framed "
+            "as a present fact, not a future risk."]),
+        ("A response that reframes endurance as the actual practice", [
+            "The monk's reply doesn't deny the gossip or defend "
+            "himself against it; it states instead that a fervent "
+            "ascetic must simply endure such sounds, since they don't "
+            "themselves cause defilement &mdash; locating the real "
+            "danger elsewhere entirely."]),
+        ("A named failure mode: the startled wind-deer", [
+            "The monk's closing image doesn't just describe good "
+            "practice abstractly; it names its opposite specifically "
+            "&mdash; someone startled by every little sound, like a "
+            "&lsquo;wind-deer&rsquo; in the forest, whom people "
+            "rightly call &lsquo;flighty minded&rsquo;."]),
+        ("A test passed, not merely survived", [
+            "Unlike SN 9.1 through 9.7's monks, who each end up "
+            "struck with urgency after the deity's intervention, this "
+            "discourse simply ends with the monk's composed answer "
+            "&mdash; no jolt of realization needed, because his "
+            "response already demonstrates the equanimity being "
+            "tested for."]),
+    ],
+    terms=[
+        ("aññatarasmiṁ kule ativelaṁ ajjhogāḷhappatto",
+         "&ldquo;become too closely involved in the affairs of a "
+         "certain family&rdquo; &mdash; the monk's actual "
+         "entanglement, described neutrally."),
+        ("tassā vaṇṇaṁ abhinimminitvā",
+         "&ldquo;manifested in the appearance of the mistress&rdquo; "
+         "&mdash; the deity's unique method of testing, unlike "
+         "anywhere else in this saṃyutta."),
+        ("janā saṅgamma mantenti, mañca tañca kimantaraṁ",
+         "&ldquo;people gather to gossip about what's going on "
+         "between you and me&rdquo; &mdash; the provocative "
+         "confrontation, presented as already happening."),
+        ("bahūhi saddā paccūhā, khamitabbā tapassinā",
+         "&ldquo;there are many sounds echoing that a fervent ascetic "
+         "must endure&rdquo; &mdash; the monk's composed reframing of "
+         "the danger."),
+        ("saddaparittāsī, vane vātamigo yathā",
+         "&ldquo;startled by every little sound, like a wind-deer in "
+         "the wood&rdquo; &mdash; the named failure mode the monk "
+         "avoids being."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.8:1.1-1.3"),
+        ("p", "&sect;2", "sn9.8:2.1-2.4"),
+        ("p", "&sect;3", "sn9.8:3.1-3.4"),
+        ("p", "&sect;4", "sn9.8:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What unique method does the deity use in this discourse?",
+         "opts": [
+             "It manifests in the actual appearance of the family's mistress",
+             "It appears as the Buddha himself",
+             "It remains completely invisible throughout",
+             "It speaks only through another monk"],
+         "correct": 0,
+         "expl": "The only discourse in this saṃyutta where a deity takes on someone else's appearance."},
+        {"q": "What is the monk's actual fault, according to the discourse?",
+         "opts": [
+             "Becoming too closely involved in the affairs of a certain family",
+             "Refusing to visit any lay families at all",
+             "Stealing from the family in question",
+             "Publicly insulting the family"],
+         "correct": 0,
+         "expl": "Entanglement described neutrally, without specifying particular misconduct."},
+        {"q": "How does the disguised deity confront the monk?",
+         "opts": [
+             "With gossip already circulating about what's supposedly going on between them",
+             "With a direct accusation of a specific crime",
+             "By simply asking him to leave the area",
+             "By offering him material gifts"],
+         "correct": 0,
+         "expl": "A present, already-circulating rumor, not merely a hypothetical warning."},
+        {"q": "How does the monk respond to this confrontation?",
+         "opts": [
+             "Calmly, stating that a fervent ascetic must simply endure such sounds",
+             "With panic and immediate flight",
+             "By denying the entanglement ever happened",
+             "By becoming angry at the accusation"],
+         "correct": 0,
+         "expl": "Reframing the situation rather than being destabilized by it."},
+        {"q": "What does the monk say actually causes defilement, according to his reply?",
+         "opts": [
+             "Not the gossip or sounds themselves, but something else entirely",
+             "The gossip itself directly causes defilement",
+             "Only physical contact causes defilement",
+             "The monk claims nothing can cause defilement"],
+         "correct": 0,
+         "expl": "Locating the real danger elsewhere, not in mere rumor."},
+        {"q": "What image does the monk use to describe a failure mode?",
+         "opts": [
+             "A \"wind-deer\" startled by every little sound in the forest",
+             "A river that never reaches the sea",
+             "A bird that never learns to fly",
+             "No specific image is used"],
+         "correct": 0,
+         "expl": "Naming the opposite of good practice specifically, not just abstractly."},
+        {"q": "How does this discourse's ending differ from SN 9.1 through 9.7?",
+         "opts": [
+             "The monk is not described as \"struck with urgency\"; his composed answer already demonstrates equanimity",
+             "It ends identically, with the monk struck by urgency",
+             "The monk flees the forest entirely",
+             "No response from the monk is recorded at all"],
+         "correct": 0,
+         "expl": "A test passed on the spot, not merely survived through a jolt of realization."},
+        {"q": "What term does the monk apply to someone easily startled by rumor?",
+         "opts": [
+             "\"Flighty minded\"",
+             "\"Wise and careful\"",
+             "\"Deeply devoted\"",
+             "No specific term is applied"],
+         "correct": 0,
+         "expl": "A term of mild criticism for excessive reactivity to mere sound."},
+        {"q": "What does the monk say happens to the practice of someone who is easily startled?",
+         "opts": [
+             "It won't succeed",
+             "It becomes stronger through the challenge",
+             "It remains completely unaffected",
+             "The text does not address this"],
+         "correct": 0,
+         "expl": "A direct consequence named for excessive reactivity."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general setting as the preceding discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Disguise as the test itself", [
+            "not merely a warning, but a staged encounter &mdash;",
+            "confronting him with exactly what's at stake",
+        ]),
+        ("Gossip already in motion", [
+            "not a future risk, a present fact &mdash;",
+            "river banks, highways, already talking",
+        ]),
+        ("Endurance named as the practice", [
+            "not denial, not defense &mdash;",
+            "sounds to be borne, not defiling in themselves",
+        ]),
+        ("No jolt needed this time", [
+            "the answer itself already composed &mdash;",
+            "a test passed, not merely survived",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.7.html">SN 9.7 &middot; With Nāgadatta</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.9.html">SN 9.9 &middot; A Vajji</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.9 — Vajjiputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 9, "Vajjiputta", "A Vajji",
+    meta_title="SN 9.9 — A Vajji | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vajjiputtasutta — a lonely monk complains about a "
+        "distant festival's noise, and a forest deity flips his exact "
+        "self-pitying image into a mark of enviable spiritual "
+        "standing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove near Vesālī"),
+        ("Speakers", "A Vajjian mendicant and an unnamed forest "
+                     "deity"),
+        ("Form", "A self-pitying complaint in verse, answered by the "
+                 "deity reusing its exact imagery"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "compact, with a clever structural reversal"),
+    ],
+    why=(
+        "This is the only discourse in the saṃyutta where the monk "
+        "speaks first, entirely unprompted &mdash; hearing the noise "
+        "of an all-night festival drifting from distant Vesālī, he "
+        "complains aloud, comparing himself to &lsquo;a log dumped in "
+        "the forest&rsquo;, alone and forgotten while everyone else "
+        "celebrates. The forest deity's reply doesn't offer a "
+        "different image or a gentler comfort; it repeats his own "
+        "self-pitying line back to him almost word for word, then "
+        "attaches a completely different meaning to it &mdash; not "
+        "abandonment, but an enviable position, watched with longing "
+        "by others the way beings in hell might envy those bound for "
+        "heaven."),
+    guide=[
+        ("The only monk in this saṃyutta who speaks first", [
+            "Every other discourse in Vanasaṃyutta opens with the "
+            "deity initiating contact; here the monk's own complaint, "
+            "spoken to no one in particular, comes first, and only "
+            "then does the sympathetic deity respond to what it "
+            "overhears."]),
+        ("Self-pity built from a specific, sensory trigger", [
+            "The complaint isn't abstract loneliness; it's provoked "
+            "by something concrete and audible &mdash; the sound of "
+            "musical instruments carrying from the city's all-night "
+            "celebration &mdash; giving the monk's self-pity a "
+            "precise, situational origin."]),
+        ("An image of self-abandonment: a discarded log", [
+            "&lsquo;Like a log dumped in the forest&rsquo; is a "
+            "striking, almost bitter image for the monk's own chosen "
+            "solitude, framing deliberate forest-dwelling as "
+            "involuntary discard rather than intentional practice."]),
+        ("The deity's reply reusing, not replacing, his own words", [
+            "Rather than offering a fresh image of its own, the "
+            "deity's verse repeats the monk's exact description "
+            "&mdash; alone in the wilderness, a log dumped in the "
+            "forest &mdash; word for word, before attaching an "
+            "entirely different conclusion to the same picture."]),
+        ("A reversal built on genuine envy, not mere consolation", [
+            "The closing simile doesn't simply reassure the monk that "
+            "his situation isn't so bad; it claims the opposite of "
+            "his complaint entirely &mdash; that many people envy "
+            "him, the way beings in hell might envy those bound for "
+            "heaven &mdash; turning his exact self-description into "
+            "evidence of enviable standing."]),
+    ],
+    terms=[
+        ("sabbaratticāro",
+         "&ldquo;all-night event&rdquo; &mdash; the distant festival "
+         "whose noise prompts the monk's complaint."),
+        ("ekakā mayaṁ araññe viharāma, apaviddhaṁva vanasmiṁ dārukaṁ",
+         "&ldquo;we dwell alone in the wilderness, like a log dumped "
+         "in the forest&rdquo; &mdash; the monk's own self-pitying "
+         "image, later reused by the deity."),
+        ("ko su nāmamhehi pāpiyo",
+         "&ldquo;who's worse off than me?&rdquo; &mdash; his "
+         "rhetorical, self-focused complaint."),
+        ("tassa te bahukā pihayanti",
+         "&ldquo;lots of people are jealous of you&rdquo; &mdash; "
+         "the deity's direct reversal of the monk's self-pity."),
+        ("nerayikā viya saggagāminaṁ",
+         "&ldquo;like beings in hell of those going to heaven&rdquo; "
+         "&mdash; the vivid closing simile inverting his complaint "
+         "entirely."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.9:1.1-1.3"),
+        ("p", "&sect;2", "sn9.9:2.1-2.4"),
+        ("p", "&sect;3", "sn9.9:3.1"),
+        ("p", "&sect;4", "sn9.9:4.1-4.4"),
+        ("p", "&sect;5", "sn9.9:5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from the rest of this saṃyutta?",
+         "opts": [
+             "The monk speaks first, unprompted, rather than the deity initiating contact",
+             "The deity speaks first, as in every other discourse",
+             "No monk appears in this discourse",
+             "Two deities converse without any monk present"],
+         "correct": 0,
+         "expl": "A unique structural feature within this saṃyutta."},
+        {"q": "What triggers the monk's complaint?",
+         "opts": [
+             "The sound of an all-night festival's music carrying from distant Vesālī",
+             "A visit from hostile lay people",
+             "A direct rebuke from another monk",
+             "The onset of a violent storm"],
+         "correct": 0,
+         "expl": "A concrete, sensory trigger for his self-pity."},
+        {"q": "What image does the monk use to describe himself?",
+         "opts": [
+             "A log dumped alone in the forest",
+             "A bird caged and unable to fly",
+             "A river dried up in summer",
+             "A candle burning to nothing"],
+         "correct": 0,
+         "expl": "A striking, almost bitter image for his chosen solitude."},
+        {"q": "How does the deity's reply relate to the monk's own words?",
+         "opts": [
+             "It repeats his exact description almost word for word, before reframing it",
+             "It ignores his words entirely and offers something unrelated",
+             "It directly contradicts and denies his description",
+             "It asks him to repeat his complaint more clearly"],
+         "correct": 0,
+         "expl": "Reusing rather than replacing his own imagery."},
+        {"q": "What does the deity claim about how others view the monk's solitude?",
+         "opts": [
+             "That many people envy him, comparing it to hell-beings envying those bound for heaven",
+             "That most people pity him just as he pities himself",
+             "That no one has any opinion about his situation",
+             "That people mock his choice to live alone"],
+         "correct": 0,
+         "expl": "A direct reversal claiming genuine envy, not mere reassurance."},
+        {"q": "How does the deity's response function rhetorically?",
+         "opts": [
+             "It turns the monk's own self-description into evidence of enviable standing",
+             "It simply denies that the monk is alone at all",
+             "It offers an entirely unrelated teaching",
+             "It criticizes the monk for complaining"],
+         "correct": 0,
+         "expl": "Using his exact words to reach the opposite conclusion."},
+        {"q": "How does the monk respond to the deity's verse?",
+         "opts": [
+             "He is struck with a sense of urgency",
+             "He argues that the deity is mistaken",
+             "He returns to the city to join the festival",
+             "He falls asleep"],
+         "correct": 0,
+         "expl": "The same closing formula used throughout this saṃyutta."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove near Vesālī",
+             "A forest grove in the Kosalan lands",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "A distinct location from most other discourses in this saṃyutta, which are set in Kosala."},
+        {"q": "What clan is the monk identified as belonging to?",
+         "opts": [
+             "The Vajjis",
+             "The Sākiyas",
+             "The Koliyas",
+             "No clan is specified"],
+         "correct": 0,
+         "expl": "Named in the discourse's title itself."},
+        {"q": "What emotional register dominates the monk's opening complaint?",
+         "opts": [
+             "Self-pity, comparing his own situation unfavorably to everyone else's",
+             "Anger at the festival organizers",
+             "Indifference to his surroundings",
+             "Joy at his solitary circumstances"],
+         "correct": 0,
+         "expl": "A rhetorical question assuming his own situation is the worst imaginable."},
+    ],
+    marginalia=[
+        ("The monk speaks first, for once", [
+            "no deity initiating this time &mdash;",
+            "a complaint overheard, not sought out",
+        ]),
+        ("A log dumped in the forest", [
+            "his own bitter image of solitude &mdash;",
+            "chosen practice framed as discard",
+        ]),
+        ("His exact words, repeated back", [
+            "not a new image, the same one &mdash;",
+            "reused before being reframed",
+        ]),
+        ("Envy claimed, not mere comfort", [
+            "hell-beings longing for heaven &mdash;",
+            "the complaint turned into its opposite",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.8.html">SN 9.8 &middot; The Mistress of the '
+        "House</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-9.10.html">SN 9.10 &middot; Recitation</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.10 — Sajjhāyasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 10, "Sajjhāya", "Recitation",
+    meta_title="SN 9.10 — Recitation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sajjhāyasutta — a forest deity, missing the recitation "
+        "it once heard, questions a monk's new silence, and receives "
+        "a subtle answer about what happens when practice is "
+        "genuinely superseded. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and an unnamed "
+                     "mendicant"),
+        ("Form", "A change in behavior noticed and questioned, "
+                 "answered with a subtle teaching"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most doctrinally subtle discourse in this "
+                       "saṃyutta so far"),
+    ],
+    why=(
+        "Every other correction in this saṃyutta addresses an "
+        "obvious lapse &mdash; sleep, lust, gossip, excessive "
+        "socializing. This discourse is different: the monk in "
+        "question has stopped doing something that sounds entirely "
+        "praiseworthy, reciting passages of the teaching, once "
+        "something he did to excess and now abandoned for passivity "
+        "and silence. The forest deity, missing the recitation it "
+        "used to hear, questions the change directly, framing "
+        "recitation as valuable for the confidence and praise it "
+        "brings. The monk's answer doesn't defend his old habit or "
+        "apologize for dropping it; it explains, in careful and "
+        "layered language, that what he once pursued through "
+        "recitation he has now reached by another route entirely, "
+        "making the practice's original purpose already fulfilled."),
+    guide=[
+        ("A correction aimed at abandoning something praiseworthy", [
+            "Unlike every other discourse in this saṃyutta, the "
+            "deity's concern here isn't about a monk doing something "
+            "wrong; it's about a monk who has stopped doing something "
+            "that sounds entirely good &mdash; reciting the "
+            "teaching &mdash; making this the collection's most "
+            "ambiguous case of correction."]),
+        ("A history of excess, then a swing to silence", [
+            "The discourse specifies that the monk previously "
+            "recited &lsquo;too much&rsquo;, then later became "
+            "passive and silent &mdash; a described swing between two "
+            "extremes rather than a simple, single lapse."]),
+        ("Recitation valued for confidence and reputation, by the deity's own account", [
+            "The deity's stated case for recitation is specific: "
+            "hearing the teaching brings confidence, and doing so "
+            "earns praise in this very life &mdash; practical, "
+            "communal benefits rather than an abstract claim about "
+            "recitation's inherent necessity."]),
+        ("An answer that neither defends nor apologizes", [
+            "The monk doesn't argue that recitation was wrong, nor "
+            "does he express regret for having stopped; he simply "
+            "narrates a sequence &mdash; zealous devotion to the "
+            "teaching's passages, until encountering dispassion "
+            "&mdash; treating the change as a natural progression "
+            "rather than a fault requiring justification."]),
+        ("A closing formula treating practice as something laid down, not lost", [
+            "The verse's final line &mdash; that whatever is seen, "
+            "heard, or thought is &lsquo;laid down by complete "
+            "understanding&rsquo; &mdash; frames the end of active "
+            "recitation not as neglect but as the natural conclusion "
+            "of a practice that has already accomplished what it set "
+            "out to do."]),
+    ],
+    terms=[
+        ("ativelaṁ sajjhāyabahulo viharati",
+         "&ldquo;had previously been spending too much time "
+         "rehearsing&rdquo; &mdash; the monk's earlier, excessive "
+         "devotion to recitation."),
+        ("appossukko tuṇhībhūto saṅkasāyati",
+         "&ldquo;adhered to passivity and silence&rdquo; &mdash; his "
+         "later, changed behavior that concerns the deity."),
+        ("sutvāna dhammaṁ labhatippasādaṁ",
+         "&ldquo;hearing the teaching, one garners confidence&rdquo; "
+         "&mdash; the deity's stated rationale for recitation's "
+         "value."),
+        ("ahu pure dhammapadesu chando, yāva virāgena samāgamimha",
+         "&ldquo;I used to be zealous for passages of the "
+         "teaching, until I encountered dispassion&rdquo; &mdash; the "
+         "monk's account of his own progression."),
+        ("aññāya nikkhepanamāhu santo",
+         "&ldquo;this, good people say, is the laying down by "
+         "complete understanding&rdquo; &mdash; the closing teaching "
+         "reframing the end of practice as fulfillment, not neglect."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.10:1.1-1.3"),
+        ("p", "&sect;2", "sn9.10:2.1-2.4"),
+        ("p", "&sect;3", "sn9.10:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's concern differ from most others in this saṃyutta?",
+         "opts": [
+             "It concerns a monk abandoning something that sounds entirely praiseworthy, not an obvious lapse",
+             "It concerns the exact same fault as SN 9.1",
+             "No fault or change of any kind is described",
+             "It concerns a monk's excessive generosity"],
+         "correct": 0,
+         "expl": "The most ambiguous case of correction in this saṃyutta."},
+        {"q": "What pattern does the discourse describe in the monk's behavior over time?",
+         "opts": [
+             "Previously reciting too much, then later becoming passive and silent",
+             "Consistent behavior with no change described",
+             "Gradually increasing his recitation over time",
+             "Alternating daily between two unrelated practices"],
+         "correct": 0,
+         "expl": "A swing between two extremes, not a single simple lapse."},
+        {"q": "What benefit does the deity claim recitation provides?",
+         "opts": [
+             "Confidence gained from hearing the teaching, and praise earned in this life",
+             "Protection from illness",
+             "Wealth and material prosperity",
+             "Escape from all future obligations"],
+         "correct": 0,
+         "expl": "Practical, communal benefits rather than an abstract necessity claim."},
+        {"q": "How does the monk respond to the deity's question?",
+         "opts": [
+             "He explains a progression: zealous devotion to recitation, until he encountered dispassion",
+             "He defends his old habit as the only correct practice",
+             "He apologizes for having stopped reciting",
+             "He refuses to answer the question"],
+         "correct": 0,
+         "expl": "Narrating a natural progression rather than defending or apologizing."},
+        {"q": "What does the closing line say happens to what is \"seen, heard, and thought\"?",
+         "opts": [
+             "It is \"laid down by complete understanding\"",
+             "It must be constantly repeated to remain valid",
+             "It should be forgotten entirely",
+             "It becomes increasingly important over time"],
+         "correct": 0,
+         "expl": "Framing the change as fulfillment of purpose, not simple neglect."},
+        {"q": "How does this discourse frame the end of the monk's active recitation?",
+         "opts": [
+             "As the natural conclusion of a practice that already accomplished its purpose",
+             "As a clear moral failure requiring correction",
+             "As an accident with no deeper meaning",
+             "As something the monk regrets deeply"],
+         "correct": 0,
+         "expl": "Progression rather than fault."},
+        {"q": "What word describes the state the monk says he \"encountered\"?",
+         "opts": [
+             "Dispassion (virāga)",
+             "Anger",
+             "Confusion",
+             "Exhaustion"],
+         "correct": 0,
+         "expl": "The pivotal turning point in his account of his own practice."},
+        {"q": "Why does the deity approach the monk in this discourse?",
+         "opts": [
+             "Because it is no longer hearing the teaching recited, as it used to",
+             "Because it witnessed him breaking a specific rule",
+             "Because another monk reported his behavior",
+             "Because it wants to test his composure, as in SN 9.8"],
+         "correct": 0,
+         "expl": "A change noticed through its own absence, not reported wrongdoing."},
+        {"q": "How does this discourse's difficulty compare to others in this saṃyutta, according to this reading guide?",
+         "opts": [
+             "It is the most doctrinally subtle discourse in the saṃyutta so far",
+             "It is the simplest and most straightforward",
+             "It contains no doctrinal content at all",
+             "It is identical in complexity to SN 9.1"],
+         "correct": 0,
+         "expl": "A genuinely layered teaching about practice and its fulfillment."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "A forest grove near Vesālī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "The same general setting as most discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Abandoning something praiseworthy", [
+            "not an obvious fault this time &mdash;",
+            "the collection's most ambiguous correction",
+        ]),
+        ("From excess to silence", [
+            "a swing between two extremes &mdash;",
+            "not a single simple lapse",
+        ]),
+        ("No defense, no apology", [
+            "a progression narrated plainly &mdash;",
+            "dispassion encountered, not a fault confessed",
+        ]),
+        ("Laid down, not lost", [
+            "practice fulfilled, not neglected &mdash;",
+            "the closing reframe of what change means",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.9.html">SN 9.9 &middot; A Vajji</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-9.11.html">SN 9.11 &middot; Unskillful '
+        "Thoughts</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.11 — Akusalavitakkasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 11, "Akusalavitakka", "Unskillful Thoughts",
+    meta_title="SN 9.11 — Unskillful Thoughts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akusalavitakkasutta — a forest deity diagnoses a "
+        "monk's sensual, malicious, and cruel thoughts as a problem "
+        "of attention itself, prescribing recollection of the "
+        "Teacher, teaching, and Saṅgha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and an unnamed "
+                     "mendicant"),
+        ("Form", "A precisely named struggle, diagnosed and answered "
+                 "with a specific practice"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a compact discourse naming both the problem "
+                       "and its practical remedy"),
+    ],
+    why=(
+        "This discourse returns to SN 9.1's basic situation &mdash; a "
+        "monk troubled by bad thoughts during meditation &mdash; but "
+        "names the trouble far more precisely: not vague distraction, "
+        "but specifically sensual, malicious, and cruel thoughts, a "
+        "threefold classification found throughout the canon's "
+        "analysis of unskillful thinking. The deity's response "
+        "doesn't just tell him to stop; it diagnoses the underlying "
+        "mechanism as irrational attention, and prescribes a specific "
+        "alternative practice &mdash; recollecting the Teacher, the "
+        "teaching, the Saṅgha, and his own ethical conduct &mdash; "
+        "tracing a causal chain from that reorientation through "
+        "gladness and rapture all the way to the ending of "
+        "suffering."),
+    guide=[
+        ("A struggle named with precision, not left vague", [
+            "Where SN 9.1 described &lsquo;bad, unskillful thoughts "
+            "to do with the domestic life&rsquo; in general terms, "
+            "this discourse specifies exactly three kinds &mdash; "
+            "sensual, malicious, cruel &mdash; a classification this "
+            "reading guide recognizes from elsewhere in the canon's "
+            "systematic treatment of unskillful thinking."]),
+        ("A diagnosis targeting the mechanism, not just the content", [
+            "The deity doesn't simply criticize the thoughts "
+            "themselves; it identifies &lsquo;irrational application "
+            "of mind&rsquo; as the actual cause, treating the specific "
+            "thoughts as symptoms of a deeper attentional problem "
+            "rather than isolated lapses to suppress individually."]),
+        ("A named, specific alternative practice", [
+            "Rather than simply telling the monk to think "
+            "differently, the verse names exactly what to think about "
+            "instead: the Teacher, the teaching, the Saṅgha, and his "
+            "own ethical conduct &mdash; the classic set of "
+            "recollections rather than an unspecified call to "
+            "virtue."]),
+        ("A traced causal chain, not a single promised outcome", [
+            "The verse doesn't simply promise that recollection feels "
+            "good; it traces a specific sequence &mdash; gladness, "
+            "then rapture and bliss, then, from being full of joy, the "
+            "ending of suffering itself &mdash; treating pleasant "
+            "feeling as a genuine stage on the path rather than a "
+            "distraction from it."]),
+        ("A remedy built from communal and personal reflection together", [
+            "The four objects of recollection named &mdash; Teacher, "
+            "teaching, Saṅgha, and one's own ethics &mdash; combine "
+            "external refuges with internal self-assessment, a "
+            "structure worth noticing rather than treating as an "
+            "arbitrary list."]),
+    ],
+    terms=[
+        ("kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ",
+         "&ldquo;sensual, malicious, and cruel thoughts&rdquo; "
+         "&mdash; the precisely named threefold classification of "
+         "unskillful thinking."),
+        ("ayoniso manasikārā, so vitakkehi khajjasi",
+         "&ldquo;because of irrational application of mind, you're "
+         "consumed by your thoughts&rdquo; &mdash; the deity's "
+         "diagnosis of the underlying mechanism."),
+        ("yoniso anucintaya",
+         "&ldquo;make sure your thoughts are rational&rdquo; &mdash; "
+         "the direct prescription answering the diagnosis."),
+        ("satthāraṁ dhammamārabbha, saṅghaṁ sīlāni attano",
+         "&ldquo;thinking about the Teacher, the teaching, the "
+         "Saṅgha, and your own ethics&rdquo; &mdash; the specific "
+         "recollection practice recommended."),
+        ("pāmojjabahulo, dukkhassantaṁ karissasi",
+         "&ldquo;full of joy, you'll make an end to suffering&rdquo; "
+         "&mdash; the traced causal chain's conclusion."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.11:1.1-1.4"),
+        ("p", "&sect;2", "sn9.11:2.1-2.4"),
+        ("p", "&sect;3", "sn9.11:3.1-3.6"),
+        ("p", "&sect;4", "sn9.11:4.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's naming of the monk's problem compare to SN 9.1's?",
+         "opts": [
+             "It names three specific kinds of thought — sensual, malicious, cruel — instead of vague domestic thinking",
+             "It describes an identical, equally vague problem",
+             "It describes no problem at all",
+             "It names a purely physical rather than mental issue"],
+         "correct": 0,
+         "expl": "A precise threefold classification found elsewhere in the canon's treatment of unskillful thinking."},
+        {"q": "What does the deity identify as the actual cause of the monk's troubled thoughts?",
+         "opts": [
+             "Irrational application of mind",
+             "A curse from an enemy",
+             "Physical illness",
+             "Simple lack of willpower"],
+         "correct": 0,
+         "expl": "Targeting the underlying mechanism, not just the thoughts themselves."},
+        {"q": "What specific practice does the deity prescribe as an alternative?",
+         "opts": [
+             "Recollecting the Teacher, the teaching, the Saṅgha, and his own ethical conduct",
+             "Reciting a particular mantra repeatedly",
+             "Performing physical exercise",
+             "Avoiding all human contact permanently"],
+         "correct": 0,
+         "expl": "A named, specific practice rather than a vague call to virtue."},
+        {"q": "What sequence does the verse trace from this recollection practice?",
+         "opts": [
+             "Gladness, then rapture and bliss, then the ending of suffering",
+             "Immediate and complete enlightenment with no intermediate steps",
+             "Confusion followed by clarity",
+             "No sequence is traced; the outcome is left vague"],
+         "correct": 0,
+         "expl": "A specific causal chain, not a single unexplained promise."},
+        {"q": "How does the verse treat pleasant feeling within this sequence?",
+         "opts": [
+             "As a genuine stage on the path, not a distraction from it",
+             "As something to be avoided entirely",
+             "As irrelevant to spiritual progress",
+             "As a sign of failure in practice"],
+         "correct": 0,
+         "expl": "Gladness and rapture named as steps toward, not obstacles to, the path's goal."},
+        {"q": "What combination do the four objects of recollection represent?",
+         "opts": [
+             "External refuges (Teacher, teaching, Saṅgha) combined with internal self-assessment (one's own ethics)",
+             "Four unrelated topics with no underlying structure",
+             "Only external objects, with no self-reflection involved",
+             "Only internal reflection, with no external reference"],
+         "correct": 0,
+         "expl": "A structure worth noticing rather than an arbitrary list."},
+        {"q": "How does the monk respond to the deity's verses?",
+         "opts": [
+             "He is struck with a sense of urgency",
+             "He argues against the deity's diagnosis",
+             "He falls asleep",
+             "He leaves the forest immediately"],
+         "correct": 0,
+         "expl": "The same closing formula used throughout this saṃyutta."},
+        {"q": "What motivates the deity's intervention, according to the text?",
+         "opts": [
+             "Sympathy for the monk, wanting what's best for him",
+             "Anger at his troubled thoughts",
+             "A wish to test his composure",
+             "No motive is given"],
+         "correct": 0,
+         "expl": "The same sympathetic framing established throughout this saṃyutta."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "A forest grove near Vesālī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "The same general setting as most discourses in this saṃyutta."},
+        {"q": "What is the monk doing when the deity approaches him?",
+         "opts": [
+             "Thinking sensual, malicious, and cruel thoughts during his day's meditation",
+             "Sleeping soundly",
+             "Teaching a group of lay followers",
+             "Traveling between villages"],
+         "correct": 0,
+         "expl": "A private mental struggle, precisely named."},
+    ],
+    marginalia=[
+        ("Three thoughts, named precisely", [
+            "sensual, malicious, cruel &mdash;",
+            "not left as vague distraction",
+        ]),
+        ("The mechanism, not just the symptom", [
+            "irrational attention identified &mdash;",
+            "a deeper cause than the thoughts themselves",
+        ]),
+        ("A named alternative, not vague advice", [
+            "Teacher, teaching, Saṅgha, one's own ethics &mdash;",
+            "the classic recollections, specified",
+        ]),
+        ("Joy as a stage, not a distraction", [
+            "gladness leading toward suffering's end &mdash;",
+            "pleasant feeling treated as genuine progress",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.10.html">SN 9.10 &middot; Recitation</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-9.12.html">SN 9.12 &middot; Midday</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.12 — Majjhanhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 12, "Majjhanhika", "Midday",
+    meta_title="SN 9.12 — Midday | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Majjhanhikasutta — the same silent midday forest, the "
+        "same settled birds, the same resounding stillness, described "
+        "first as terrifying and then as delightful, in the "
+        "collection's most structurally unusual pair of verses. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands, at midday"),
+        ("Speakers", "A forest deity, alone; no monk responds"),
+        ("Form", "Two nearly identical verses, differing only in "
+                 "their final emotional word"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, but genuinely puzzling in its "
+                       "structure"),
+    ],
+    why=(
+        "This is the strangest discourse in the saṃyutta so far: "
+        "there's no struggling monk, no diagnosed fault, and no "
+        "closing note of urgency. A forest deity simply speaks two "
+        "verses describing the exact same scene &mdash; the stillness "
+        "of high noon, birds settled into silence, the mighty forest "
+        "itself somehow resounding &mdash; and reaches two opposite "
+        "conclusions about it, word for word identical except for a "
+        "single term at the very end: first, that it strikes the "
+        "speaker as terrifying; then, that the very same scene "
+        "strikes as delightful. This reading guide doesn't resolve "
+        "what produces the shift, since the text itself doesn't say."),
+    guide=[
+        ("No monk, no fault, no resolution", [
+            "Every structural element expected from this saṃyutta is "
+            "missing here: there's no mendicant present to be "
+            "corrected, no described lapse, and no closing formula "
+            "about being struck with urgency &mdash; just the "
+            "deity's own two verses, standing alone."]),
+        ("An identical scene, described twice, almost word for word", [
+            "The two stanzas share three full lines verbatim &mdash; "
+            "the same midday stillness, the same settled birds, the "
+            "same resounding forest &mdash; differing only in their "
+            "final word, making the repetition itself the discourse's "
+            "central structural feature."]),
+        ("A single word carrying the entire contrast", [
+            "&lsquo;Bhaya&rsquo; (fear) in the first verse becomes "
+            "&lsquo;rati&rsquo; (delight) in the second &mdash; the "
+            "whole shift in meaning riding on this one substitution, "
+            "with nothing else in the verse changed to explain or "
+            "justify it."]),
+        ("A genuine ambiguity this reading guide doesn't resolve", [
+            "Whether these represent two different states of the same "
+            "speaker, two different ways any observer might react to "
+            "identical conditions, or something else entirely, the "
+            "text simply doesn't say &mdash; and this reading guide "
+            "resists supplying a confident answer where the source "
+            "offers none."]),
+        ("A fitting question for what this whole saṃyutta has explored", [
+            "Read alongside the other discourses in Vanasaṃyutta, "
+            "where forest settings variously prompt lust, sleep, "
+            "self-pity, and correction, this discourse's stark pairing "
+            "makes explicit what the others have implied all along: "
+            "the forest itself doesn't determine the reaction, the "
+            "mind meeting it does."]),
+    ],
+    terms=[
+        ("majjhanhike kāle, sannisīvesu pakkhisu",
+         "&ldquo;in the still of high noon, when the birds have "
+         "settled down&rdquo; &mdash; the scene-setting shared "
+         "identically by both verses."),
+        ("saṇateva brahāraññaṁ",
+         "&ldquo;the mighty forest itself resounds&rdquo; &mdash; "
+         "the ambient natural sound at the center of both stanzas."),
+        ("taṁ bhayaṁ paṭibhāti maṁ",
+         "&ldquo;that strikes me as so scary!&rdquo; &mdash; the "
+         "first verse's reaction to the described scene."),
+        ("sā rati paṭibhāti maṁ",
+         "&ldquo;that strikes me as so delightful!&rdquo; &mdash; "
+         "the second verse's opposite reaction to the identical "
+         "scene."),
+        ("adhivatthā devatā",
+         "&ldquo;the deity haunting that forest&rdquo; &mdash; the "
+         "sole speaker in this discourse, uniquely presented without "
+         "any monk present to respond."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; its entire content is these "
+        "two paired verses. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.12:1.1-1.2"),
+        ("p", "&sect;2", "sn9.12:2.1-2.4"),
+        ("p", "&sect;3", "sn9.12:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What structural elements found elsewhere in this saṃyutta are missing from this discourse?",
+         "opts": [
+             "A struggling monk, a diagnosed fault, and a closing note of urgency",
+             "Any verse content at all",
+             "A described forest setting",
+             "A speaking deity"],
+         "correct": 0,
+         "expl": "Standing apart structurally from every other discourse in Vanasaṃyutta."},
+        {"q": "How similar are the two verses in this discourse?",
+         "opts": [
+             "Nearly identical, sharing three full lines verbatim, differing only in the final word",
+             "Completely unrelated in content",
+             "Similar only in general theme, with different imagery",
+             "Identical in every single word"],
+         "correct": 0,
+         "expl": "Making the repetition itself the discourse's central structural feature."},
+        {"q": "What single word differs between the two verses?",
+         "opts": [
+             "\"Bhaya\" (fear) becomes \"rati\" (delight)",
+             "The name of the forest itself",
+             "The time of day described",
+             "The identity of the speaker"],
+         "correct": 0,
+         "expl": "The entire shift in meaning riding on this one substitution."},
+        {"q": "How does this reading guide treat the question of what causes the shift between fear and delight?",
+         "opts": [
+             "It presents the ambiguity honestly, since the text itself doesn't explain it",
+             "It confidently asserts a single definitive explanation",
+             "It claims the shift is a scribal error",
+             "It ignores the question entirely"],
+         "correct": 0,
+         "expl": "Resisting a confident answer where the source offers none."},
+        {"q": "What natural scene do both verses describe?",
+         "opts": [
+             "The still of high noon, with birds settled down and the forest resounding",
+             "A stormy night with heavy rain",
+             "Dawn breaking over the mountains",
+             "A river flooding its banks"],
+         "correct": 0,
+         "expl": "Identical scene-setting shared by both stanzas."},
+        {"q": "Who speaks in this discourse?",
+         "opts": [
+             "A forest deity alone; no monk responds or appears",
+             "A monk and a deity in dialogue",
+             "Two different deities",
+             "The Buddha himself"],
+         "correct": 0,
+         "expl": "A unique case in this saṃyutta of a deity speaking without addressing any monk present."},
+        {"q": "How does this discourse relate thematically to the rest of Vanasaṃyutta?",
+         "opts": [
+             "It makes explicit that the forest itself doesn't determine reaction — the mind meeting it does",
+             "It has no thematic connection to the rest of the saṃyutta",
+             "It contradicts the teachings given in every other discourse",
+             "It only relates to discourses featuring female deities"],
+         "correct": 0,
+         "expl": "A theme implied throughout the saṃyutta, made explicit here."},
+        {"q": "Does the discourse end with a monk being \"struck with urgency,\" as in most others in this saṃyutta?",
+         "opts": [
+             "No; there is no monk present to have such a reaction",
+             "Yes, identically to every other discourse",
+             "Yes, but only after a long delay",
+             "The text is ambiguous on this point"],
+         "correct": 0,
+         "expl": "One of several structural elements notably absent here."},
+        {"q": "What does \"saṇateva brahāraññaṁ\" describe?",
+         "opts": [
+             "The mighty forest itself resounding",
+             "A monk's own snoring",
+             "The sound of a distant festival",
+             "Birds calling loudly"],
+         "correct": 0,
+         "expl": "The central image both verses share, its resonance interpreted two opposite ways."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "A forest grove near Vesālī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "The same general setting as most discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("Every usual element missing", [
+            "no monk, no fault, no resolution &mdash;",
+            "the deity's verses standing alone",
+        ]),
+        ("The same scene, twice over", [
+            "three lines shared verbatim &mdash;",
+            "repetition as the structure itself",
+        ]),
+        ("One word carrying the whole shift", [
+            "fear becomes delight &mdash;",
+            "nothing else in the verse explains it",
+        ]),
+        ("An ambiguity left standing", [
+            "no confident answer supplied &mdash;",
+            "the source itself offers none",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.11.html">SN 9.11 &middot; Unskillful '
+        "Thoughts</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-9.13.html">SN 9.13 &middot; Undisciplined '
+        "Faculties</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.13 — Pākatindriyasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 13, "Pākatindriya", "Undisciplined Faculties",
+    meta_title="SN 9.13 — Undisciplined Faculties | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pākatindriyasutta — a forest deity confronts a group of "
+        "restless, sloppy monks with a harsh comparison to their own "
+        "earlier discipline, carefully sparing those still practicing "
+        "diligently. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed forest deity and several unnamed "
+                     "mendicants"),
+        ("Form", "A harsh collective rebuke, carefully qualified at "
+                 "its close"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the harshest collective rebuke in this "
+                       "saṃyutta, with a crucial closing qualifier"),
+    ],
+    why=(
+        "This discourse opens with an unusually long list of faults: "
+        "several monks living in a forest grove are described as "
+        "restless, insolent, fickle, scurrilous, loose-tongued, "
+        "unmindful, lacking situational awareness, with straying "
+        "minds and undisciplined faculties. The deity's response is "
+        "correspondingly harsh, contrasting their earlier disciplined "
+        "life as desireless, mindful disciples with their current "
+        "state, eating heavily and collapsing unconscious in "
+        "strangers' homes &mdash; calling them, at the verse's most "
+        "severe point, &lsquo;dregs, with no protector, just like "
+        "those who have passed away.&rsquo; But the verse doesn't end "
+        "there; its final lines carefully carve out an exception, "
+        "making clear the rebuke targets specific negligent "
+        "individuals, not every monk indiscriminately."),
+    guide=[
+        ("An unusually extensive list of faults opening the discourse", [
+            "Where most discourses in this saṃyutta name one or two "
+            "specific lapses, this one opens with a long chain of "
+            "descriptors &mdash; restless, insolent, fickle, "
+            "scurrilous, loose-tongued, and more &mdash; establishing "
+            "a genuinely serious collective decline before the "
+            "deity's verse even begins."]),
+        ("A contrast built from the monks' own former discipline", [
+            "The verse's rebuke doesn't measure the monks against an "
+            "external ideal; it measures them against their own "
+            "earlier selves, when they sought alms and lodging "
+            "desirelessly and made real progress by understanding "
+            "impermanence &mdash; making the decline personal and "
+            "specific rather than a general complaint."]),
+        ("Vivid, unflattering imagery for the current decline", [
+            "&lsquo;Eat and eat and then lie down, unconscious in the "
+            "homes of others&rsquo; doesn't describe abstract "
+            "laxity; it paints a specific, almost comic scene of "
+            "overindulgence and collapse, deliberately embarrassing "
+            "rather than gently critical."]),
+        ("The single harshest judgment anywhere in this saṃyutta", [
+            "&lsquo;Dregs, with no protector, just like those who "
+            "have passed away&rsquo; is a genuinely severe comparison "
+            "&mdash; equating living monks in decline with the dead "
+            "&mdash; a level of harshness this reading guide notes as "
+            "exceptional even within a saṃyutta that doesn't shy from "
+            "blunt language."]),
+        ("A crucial qualifier closing the verse", [
+            "The final stanza doesn't let the harsh judgment stand "
+            "unqualified; it specifies explicitly that the rebuke "
+            "concerns &lsquo;those who live negligently&rsquo;, while "
+            "&lsquo;those who live diligently&rsquo; receive the "
+            "deity's homage instead &mdash; a distinction easy to "
+            "miss if only the verse's harshest lines are remembered."]),
+    ],
+    terms=[
+        ("uddhatā unnaḷā capalā mukharā vikiṇṇavācā",
+         "&ldquo;restless, insolent, fickle, scurrilous, "
+         "loose-tongued&rdquo; &mdash; the extensive list of faults "
+         "opening the discourse."),
+        ("sukhajīvino pure āsuṁ&hellip;anicchā piṇḍamesanā",
+         "&ldquo;the mendicants used to live happily&hellip;desireless "
+         "they sought alms&rdquo; &mdash; the contrasting earlier "
+         "discipline the rebuke measures against."),
+        ("bhutvā bhutvā nipajjanti, parāgāresu mucchitā",
+         "&ldquo;they eat and eat and then lie down, unconscious in "
+         "the homes of others&rdquo; &mdash; a vivid, deliberately "
+         "unflattering image of the current decline."),
+        ("apaviddhā anāthā te, yathā petā tatheva te",
+         "&ldquo;they're dregs, with no protector, just like those "
+         "who have passed away&rdquo; &mdash; the discourse's single "
+         "harshest judgment."),
+        ("ye appamattā viharanti, namo tesaṁ karomahaṁ",
+         "&ldquo;to those who live diligently I pay homage&rdquo; "
+         "&mdash; the crucial closing qualifier sparing those still "
+         "practicing well."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.13:1.1-1.2"),
+        ("p", "&sect;2", "sn9.13:2.1-2.6"),
+        ("p", "&sect;3", "sn9.13:3.1-3.4"),
+        ("p", "&sect;4", "sn9.13:4.1-4.4"),
+        ("p", "&sect;5", "sn9.13:5.1-5.4"),
+        ("p", "&sect;6", "sn9.13:6.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening description compare to most others in this saṃyutta?",
+         "opts": [
+             "It opens with an unusually long list of faults, rather than one or two specific lapses",
+             "It names no fault at all",
+             "It describes only a single monk's minor error",
+             "It is identical to SN 9.1's opening description"],
+         "correct": 0,
+         "expl": "A genuinely serious collective decline established before the verse even begins."},
+        {"q": "What standard does the deity's rebuke measure the monks against?",
+         "opts": [
+             "Their own earlier, more disciplined selves",
+             "An abstract, external ideal they never achieved",
+             "The conduct of lay householders",
+             "No standard of comparison is given"],
+         "correct": 0,
+         "expl": "Making the decline personal and specific, not a general complaint."},
+        {"q": "How does the verse describe the monks' current behavior?",
+         "opts": [
+             "Eating heavily and collapsing unconscious in strangers' homes",
+             "Meditating with exceptional focus",
+             "Refusing all food and drink",
+             "Traveling constantly without rest"],
+         "correct": 0,
+         "expl": "A vivid, deliberately unflattering and almost comic image."},
+        {"q": "What is the discourse's single harshest judgment?",
+         "opts": [
+             "Calling the monks \"dregs, with no protector, just like those who have passed away\"",
+             "Threatening them with expulsion from the Saṅgha",
+             "Comparing them favorably to lay householders",
+             "No harsh judgment appears in this discourse"],
+         "correct": 0,
+         "expl": "A genuinely severe comparison, exceptional even within this saṃyutta's blunt style."},
+        {"q": "How does the verse qualify this harsh judgment at its close?",
+         "opts": [
+             "It specifies the rebuke concerns only those living negligently, sparing those living diligently",
+             "It withdraws the entire judgment as a mistake",
+             "It extends the judgment to every monk without exception",
+             "No qualification is given"],
+         "correct": 0,
+         "expl": "A distinction easy to miss if only the harshest lines are remembered."},
+        {"q": "What does the deity do regarding monks who live diligently?",
+         "opts": [
+             "Pays homage to them explicitly",
+             "Criticizes them equally with the negligent monks",
+             "Ignores them entirely",
+             "Demands they leave the forest as well"],
+         "correct": 0,
+         "expl": "A clear, positive acknowledgment closing the verse."},
+        {"q": "How do the monks respond to the deity's rebuke?",
+         "opts": [
+             "They are struck with a sense of urgency",
+             "They argue that the deity is mistaken",
+             "They ignore the rebuke entirely",
+             "They leave the forest permanently"],
+         "correct": 0,
+         "expl": "The same closing formula used throughout this saṃyutta, applied here to a group."},
+        {"q": "What specifically enabled the monks' earlier progress, according to the verse?",
+         "opts": [
+             "Knowing the world was impermanent",
+             "Wealth given by lay supporters",
+             "A specific ritual practice",
+             "Physical isolation from all other monks"],
+         "correct": 0,
+         "expl": "The insight underlying their earlier successful practice."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A forest grove in the Kosalan lands",
+             "A forest grove near Vesālī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "The same general setting as most discourses in this saṃyutta."},
+        {"q": "How many monks are addressed in this discourse, compared to most others in this saṃyutta?",
+         "opts": [
+             "Several, a group rebuke rather than an individual correction",
+             "A single monk, as in most other discourses",
+             "No monks are addressed at all",
+             "Exactly two monks in dialogue"],
+         "correct": 0,
+         "expl": "A collective address, distinguishing this discourse from the saṃyutta's usual individual focus."},
+    ],
+    marginalia=[
+        ("A long list, not a single fault", [
+            "restless, insolent, fickle, loose-tongued &mdash;",
+            "genuine collective decline",
+        ]),
+        ("Measured against their own past", [
+            "not an abstract ideal &mdash;",
+            "the decline made personal and specific",
+        ]),
+        ("The harshest line in this saṃyutta", [
+            "\"dregs...like those who have passed away\" &mdash;",
+            "severity rarely matched elsewhere here",
+        ]),
+        ("A careful exception at the very end", [
+            "diligent monks explicitly spared &mdash;",
+            "homage paid, not blanket condemnation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.12.html">SN 9.12 &middot; Midday</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-9.14.html">SN 9.14 &middot; The Thief of '
+        "Scent</a> &mdash; the closing discourse of this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 9.14 — Gandhatthenasutta
+# --------------------------------------------------------------------------- #
+page(
+    9, 14, "Gandhatthena", "The Thief of Scent",
+    meta_title="SN 9.14 — The Thief of Scent | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gandhatthenasutta — closing Vanasaṃyutta, a monk accused "
+        "of \"stealing\" a lotus's scent objects that a real vandal "
+        "goes unblamed, and learns why standards sharpen rather than "
+        "loosen for one seeking purity. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "A lotus pond in a forest grove in the Kosalan "
+                    "lands"),
+        ("Speakers", "An unnamed forest deity and an unnamed "
+                     "mendicant"),
+        ("Form", "An accusation, an objection, a teaching on scaled "
+                 "standards, and a request declined"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the saṃyutta's most philosophically dense "
+                       "closer, ending on self-reliance"),
+    ],
+    why=(
+        "This discourse closes Vanasaṃyutta with its most carefully "
+        "argued exchange: a monk, after almsround, wades into a lotus "
+        "pond and simply sniffs a flower &mdash; no picking, no "
+        "damage, nothing taken. The deity calls him a &lsquo;thief of "
+        "scent&rsquo; anyway, and when he objects, pointing out that "
+        "someone actually digging up roots and breaking flowers goes "
+        "unaccused, the deity doesn't back down or soften its "
+        "position. Instead it explains something genuinely striking: "
+        "it has nothing to say to a crude vandal, because such a "
+        "person is beyond the reach of fine correction, but the monk "
+        "&mdash; precisely because he is seeking purity &mdash; is "
+        "held to a standard where even a hair's-width of wrongdoing "
+        "looms as large as a storm cloud. When the grateful monk asks "
+        "the deity to keep correcting him this way, it declines, "
+        "redirecting the responsibility back to him entirely."),
+    guide=[
+        ("An accusation for an act that takes nothing at all", [
+            "The monk doesn't pick the lotus, break it, or carry it "
+            "away; he only smells it from where he's standing, making "
+            "the deity's opening accusation &mdash; &lsquo;thief of "
+            "scent&rsquo; &mdash; deliberately provocative against an "
+            "act that, by any ordinary standard, harms nothing."]),
+        ("A reasonable objection, met without concession", [
+            "The monk's counter-argument isn't weak; he points "
+            "directly at someone actually vandalizing the pond, "
+            "digging roots and breaking flowers, and asks why that "
+            "person escapes blame while he doesn't &mdash; a fair "
+            "question the deity doesn't dismiss, but doesn't concede "
+            "to either."]),
+        ("Different standards explained, not merely asserted", [
+            "The deity's answer isn't simply &lsquo;because I say "
+            "so&rsquo;; it explains the reasoning &mdash; there's "
+            "nothing to say to someone already crude and vandalizing, "
+            "since correction wouldn't reach them, while someone "
+            "genuinely seeking purity is precisely the person for "
+            "whom fine correction still matters and can still work."]),
+        ("A hair-tip made to look like a storm cloud", [
+            "The verse's central image doesn't claim small "
+            "wrongdoing is objectively larger for the purity-seeker; "
+            "it describes how such wrongdoing appears "
+            "&mdash; the same act looking enormous "
+            "precisely because the observer's own standard has "
+            "sharpened, not because the act itself has changed."]),
+        ("A request for ongoing guidance, declined outright", [
+            "The monk's grateful appeal &mdash; please keep telling "
+            "me when you see this &mdash; receives a firm refusal; "
+            "the deity states plainly it is no one's dependent or "
+            "servant, and that the monk himself must know the way to "
+            "a good place, closing the entire saṃyutta on a note of "
+            "returned responsibility rather than ongoing external "
+            "correction."]),
+    ],
+    terms=[
+        ("padumaṁ upasiṅghati",
+         "&ldquo;sniffed a pink lotus&rdquo; &mdash; the monk's "
+         "seemingly minor act opening the discourse."),
+        ("adinnaṁ upasiṅghasi&hellip;gandhatthenosi",
+         "&ldquo;you sniff what wasn't given&hellip;you are a thief "
+         "of scent!&rdquo; &mdash; the deity's provocative opening "
+         "accusation."),
+        ("yvāyaṁ bhisāni khanati, puṇḍarīkāni bhañjati",
+         "&ldquo;someone who digs up the roots, or breaks off the "
+         "flowers&rdquo; &mdash; the monk's counter-example of a real "
+         "vandal who escapes blame."),
+        ("anaṅgaṇassa posassa, niccaṁ sucigavesino, vālaggamattaṁ "
+         "pāpassa abbhāmattaṁva khāyati",
+         "&ldquo;to the man who has not a blemish, always seeking "
+         "purity, even a hair-tip of evil seems as big as a "
+         "stormcloud&rdquo; &mdash; the deity's central teaching on "
+         "how standards sharpen with genuine practice."),
+        ("neva taṁ upajīvāma, napi te bhatakāmhase; tvameva bhikkhu "
+         "jāneyya",
+         "&ldquo;we are no dependent of yours, nor are we your "
+         "servant&hellip;you yourself should know&rdquo; &mdash; the "
+         "deity's refusal of an ongoing corrective role, closing the "
+         "saṃyutta on self-reliance."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Vanasaṃyutta. The final "
+        "colophon &mdash; the only line of the closing uddāna "
+        "translated into English in the source &mdash; is quoted "
+        "verbatim below, following this site's established convention "
+        "for saṃyutta-closing lines. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn9.14:1.1-1.3"),
+        ("p", "&sect;2", "sn9.14:2.1-2.4"),
+        ("p", "&sect;3", "sn9.14:3.1-3.4"),
+        ("p", "&sect;4", "sn9.14:4.1-4.4"),
+        ("p", "&sect;5", "sn9.14:5.1-5.4"),
+        ("p", "&sect;6", "sn9.14:6.1-6.4"),
+        ("p", "&sect;7", "sn9.14:7.1-7.4"),
+        ("p", "&sect;8", "sn9.14:8.1-8.4"),
+        ("p", "&sect;9", "sn9.14:9.1"),
+        ("p", "&sect;10", "sn9.14:11.5"),
+    ],
+    quiz=[
+        {"q": "What does the monk actually do to the lotus?",
+         "opts": [
+             "He only sniffs it from where he's standing, taking or damaging nothing",
+             "He picks it and carries it away",
+             "He breaks its stem",
+             "He digs up its roots"],
+         "correct": 0,
+         "expl": "A deliberately harmless act, making the deity's accusation provocative."},
+        {"q": "How does the monk respond to being called a \"thief of scent\"?",
+         "opts": [
+             "He objects, pointing out that someone actually vandalizing the pond goes unaccused",
+             "He immediately agrees and apologizes",
+             "He denies ever touching the flower at all",
+             "He ignores the accusation entirely"],
+         "correct": 0,
+         "expl": "A reasonable, pointed counter-argument, not a weak defense."},
+        {"q": "How does the deity explain why it addresses the monk but not the actual vandal?",
+         "opts": [
+             "Correction wouldn't reach a crude vandal, while a purity-seeker is precisely who fine correction still helps",
+             "The vandal is simply too far away to be addressed",
+             "The deity claims the vandal doesn't actually exist",
+             "No explanation is given at all"],
+         "correct": 0,
+         "expl": "A reasoned distinction, not a mere assertion of double standards."},
+        {"q": "What does the verse's central image compare a hair-tip of evil to?",
+         "opts": [
+             "A storm cloud",
+             "A single grain of sand",
+             "An entire mountain",
+             "A drop in the ocean"],
+         "correct": 0,
+         "expl": "Describing how such wrongdoing appears to a sharpened standard, not claiming it is objectively larger."},
+        {"q": "What does the deity's central teaching suggest about ethical standards and spiritual progress?",
+         "opts": [
+             "Standards sharpen, not loosen, the further one progresses toward purity",
+             "Standards become irrelevant once someone is advanced enough",
+             "All standards are identical regardless of one's progress",
+             "Standards only apply to complete beginners"],
+         "correct": 0,
+         "expl": "A genuinely counterintuitive point about scrutiny increasing with sincerity, not decreasing."},
+        {"q": "What does the monk ask the deity after hearing this teaching?",
+         "opts": [
+             "To keep correcting him whenever it sees something like this again",
+             "To leave him alone permanently",
+             "To reveal its true identity",
+             "To teach the same lesson to other monks"],
+         "correct": 0,
+         "expl": "A grateful, appreciative response to the correction just received."},
+        {"q": "How does the deity respond to this request?",
+         "opts": [
+             "It declines, stating it is no one's dependent or servant, and the monk must know the way himself",
+             "It agrees enthusiastically to continue guiding him",
+             "It asks for payment in return",
+             "It refuses to answer at all"],
+         "correct": 0,
+         "expl": "Redirecting responsibility back to the monk entirely, closing the saṃyutta on self-reliance."},
+        {"q": "How does this discourse's ending compare to most others in this saṃyutta?",
+         "opts": [
+             "It explicitly refuses an ongoing corrective relationship, rather than simply concluding after one intervention",
+             "It promises continued guidance, unlike any other discourse",
+             "It ends with the monk rejecting the deity's teaching",
+             "It ends identically to every other discourse with no distinction"],
+         "correct": 0,
+         "expl": "A deliberate closing statement about where responsibility ultimately lies."},
+        {"q": "How does the discourse's closing colophon read, quoted verbatim in the text section?",
+         "opts": [
+             "\"The Linked Discourses in the Forest are completed.\"",
+             "\"The teaching of the Buddha is now complete.\"",
+             "\"Vanavagga begins here.\"",
+             "The colophon is left entirely untranslated"],
+         "correct": 0,
+         "expl": "The only line of the closing uddāna translated into English in the source."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "A lotus pond in a forest grove in the Kosalan lands",
+             "A forest grove near Vesālī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "A specific water setting, distinct from the general forest backdrop of most discourses here."},
+    ],
+    marginalia=[
+        ("An accusation for taking nothing", [
+            "no picking, no breaking, only a scent &mdash;",
+            "deliberately provocative on its face",
+        ]),
+        ("A fair question, not brushed aside", [
+            "why the real vandal goes unblamed &mdash;",
+            "answered, not dismissed",
+        ]),
+        ("A hair-tip like a storm cloud", [
+            "not objectively larger, but seen larger &mdash;",
+            "the standard itself sharpened by sincerity",
+        ]),
+        ("Guidance requested, then declined", [
+            "\"you yourself should know\" &mdash;",
+            "the saṃyutta closing on self-reliance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn9.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.13.html">SN 9.13 &middot; Undisciplined '
+        "Faculties</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
