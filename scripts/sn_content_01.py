@@ -33452,3 +33452,2233 @@ page(
         "one, of which this is a direct continuation.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.1 — Āḷavikāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 1, "Āḷavikā", "With Āḷavikā",
+    meta_title="SN 5.1 — With Āḷavikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Āḷavikāsutta — opening the Bhikkhunīsaṃyutta, Māra tells a nun "
+        "seeking seclusion that there's no escape from the world, and "
+        "is answered that she has experienced that escape herself. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Dark Forest, after almsround"),
+        ("Speakers", "The nun Āḷavikā and Māra the Wicked"),
+        ("Form", "A recognition sequence narrated from the nun's own "
+                 "reasoning, then a two-stanza rebuttal verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a saṃyutta whose women meet Māra as "
+                       "equals, without exception"),
+    ],
+    why=(
+        "This discourse opens an entirely new saṃyutta: after twenty-"
+        "five discourses in which the Buddha and, twice, individual "
+        "monks confronted Māra, this collection turns to nuns meeting "
+        "him directly and independently, with no Buddha present at "
+        "all. Āḷavikā, seeking seclusion in the Dark Forest, is told by "
+        "Māra that no escape exists and she should enjoy erotic "
+        "delights instead &mdash; and answers, from her own direct "
+        "experience, that escape does exist, and sensual pleasure now "
+        "holds nothing for her at all."),
+    guide=[
+        ("A saṃyutta of nuns meeting Māra alone", [
+            "The Bhikkhunīsaṃyutta's ten discourses share a defining "
+            "feature this opening example establishes immediately: "
+            "each nun encounters Māra entirely on her own, resolves the "
+            "confrontation herself, and only afterward, if at all, does "
+            "the matter reach anyone else &mdash; independence, not "
+            "mediation through the Buddha, is this collection's own "
+            "starting premise."]),
+        ("A named process of recognition, shown rather than assumed", [
+            "Unlike the Mārasaṃyutta's more compressed pattern, this "
+            "discourse narrates Āḷavikā's own reasoning in full: first "
+            "wondering whether a human or non-human is speaking, then "
+            "concluding it must be Māra attempting to frighten her from "
+            "seclusion &mdash; her recognition is a visible process of "
+            "thought, not an instantaneous given."]),
+        ("A claim of no escape, met with personal testimony", [
+            "Māra's claim &mdash; &lsquo;there's no escape in the "
+            "world&rsquo; &mdash; is answered not with doctrine cited "
+            "secondhand but with direct personal experience: "
+            "&lsquo;I've personally experienced it with wisdom&rsquo;, "
+            "grounding her rebuttal in what she herself has verified "
+            "rather than what she has been told."]),
+        ("Sensual pleasure recast through a violent image", [
+            "Āḷavikā's closing image is unusually severe: sensual "
+            "pleasures compared to swords and spears, the aggregates "
+            "themselves the chopping block they cut against &mdash; a "
+            "harsher metaphor than mere disinterest, framing sensuality "
+            "as actively dangerous rather than simply unappealing."]),
+        ("A stock refrain, already adapted for a new speaker", [
+            "Māra's closing thought here reads &lsquo;the nun Āḷavikā "
+            "knows me&rsquo;, following the modification already seen "
+            "at SN 4.22 for the mendicant Samiddhi &mdash; confirming "
+            "this saṃyutta continues, rather than resets, the "
+            "recognition formula extended to ordinary disciples there."]),
+    ],
+    terms=[
+        ("Āḷavikā",
+         "&ldquo;Āḷavikā&rdquo; &mdash; the nun this discourse "
+         "follows, the first woman in this collection to confront "
+         "Māra independently."),
+        ("nissaraṇa",
+         "&ldquo;escape&rdquo; &mdash; the term both Māra and Āḷavikā "
+         "dispute, she claiming direct personal verification of it."),
+        ("Andhavana",
+         "&ldquo;the Dark Forest&rdquo; &mdash; the setting near "
+         "Sāvatthī where this and several other discourses in this "
+         "saṃyutta take place."),
+        ("khandha",
+         "&ldquo;the aggregates&rdquo; &mdash; named as the "
+         "chopping block against which the verse's sword-and-spear "
+         "image of sensual pleasure cuts."),
+        ("pamattabandhu",
+         "&ldquo;kinsman of the negligent&rdquo; &mdash; Āḷavikā's own "
+         "epithet for Māra, naming his affinity with carelessness "
+         "directly."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's temptation, Āḷavikā's own "
+        "reasoning, and her two-stanza rebuttal. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.1:1.1-1.5"),
+        ("p", "&sect;2", "sn5.1:2.1-2.4"),
+        ("p", "&sect;3", "sn5.1:3.1-3.5"),
+        ("p", "&sect;4", "sn5.1:4.1-5.4"),
+        ("p", "&sect;5", "sn5.1:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What new pattern does this discourse establish, opening a new saṃyutta?",
+         "opts": [
+             "Nuns meeting Māra entirely on their own, with no Buddha present",
+             "A return to the Buddha as the sole figure who can defeat Māra",
+             "Māra abandoning verbal confrontation entirely for physical force",
+             "A shift to prose narrative with no verse exchanges at all"],
+         "correct": 0,
+         "expl": "Independence, not mediation through the Buddha, as this collection's starting premise."},
+        {"q": "How is Āḷavikā's recognition of Māra presented?",
+         "opts": [
+             "As a visible process of reasoning, narrated step by step",
+             "As instantaneous, with no reasoning shown at all",
+             "She never actually recognizes Māra in this discourse",
+             "Through a vision rather than reasoning"],
+         "correct": 0,
+         "expl": "First wondering who speaks, then concluding it must be Māra — a shown process, not an assumed given."},
+        {"q": "What does Māra claim at the discourse's opening?",
+         "opts": [
+             "That there's no escape in the world, so she should enjoy erotic delights instead",
+             "That she has already achieved full liberation",
+             "That the Buddha has abandoned his teaching",
+             "That her fellow nuns disapprove of her seclusion"],
+         "correct": 0,
+         "expl": "A direct challenge to the value of her secluded meditation."},
+        {"q": "How does Āḷavikā ground her rebuttal to this claim?",
+         "opts": [
+             "In direct personal experience: “I've personally experienced it with wisdom”",
+             "In an appeal to the Buddha's authority alone",
+             "In a purely logical argument with no experiential claim",
+             "By refusing to engage with the claim at all"],
+         "correct": 0,
+         "expl": "What she herself has verified, not merely what she has been told."},
+        {"q": "What image does Āḷavikā use to describe sensual pleasures?",
+         "opts": [
+             "Swords and spears, with the aggregates as their chopping block",
+             "A pleasant but fading flower",
+             "A locked door with no key",
+             "A gentle stream that eventually dries up"],
+         "correct": 0,
+         "expl": "An unusually severe image, framing sensuality as actively dangerous rather than merely uninteresting."},
+        {"q": "What epithet does Āḷavikā use for Māra?",
+         "opts": [
+             "“Kinsman of the negligent”",
+             "“Terminator”",
+             "“Namuci”",
+             "No epithet is used"],
+         "correct": 0,
+         "expl": "Naming his affinity with carelessness directly."},
+        {"q": "How does Māra's closing thought in this discourse compare to the Mārasaṃyutta's usual formula?",
+         "opts": [
+             "It follows the same modification as SN 4.22, crediting the specific individual by name",
+             "It reverts to crediting only the Buddha, despite Āḷavikā's own victory",
+             "It is entirely different from any formula used before",
+             "Māra has no closing thought in this discourse"],
+         "correct": 0,
+         "expl": "“The nun Āḷavikā knows me” — continuing rather than resetting the extended recognition formula."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī, in the Dark Forest, after almsround",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "A setting several other discourses in this saṃyutta will share."},
+        {"q": "What was Āḷavikā doing before Māra's approach?",
+         "opts": [
+             "Returning from her alms round and seeking seclusion for meditation",
+             "Teaching a large assembly of laypeople",
+             "Traveling between cities",
+             "Debating a rival ascetic teacher"],
+         "correct": 0,
+         "expl": "The circumstance several other discourses in this saṃyutta will also share."},
+        {"q": "What does Āḷavikā say Māra doesn't know?",
+         "opts": [
+             "The state of escape she has personally experienced",
+             "Her own personal name",
+             "The location of the Dark Forest",
+             "The Buddha's current whereabouts"],
+         "correct": 0,
+         "expl": "The direct contrast between Māra's claim of no escape and her own verified experience of it."},
+    ],
+    marginalia=[
+        ("A new saṃyutta, a new independence", [
+            "no Buddha mediating this time &mdash;",
+            "nuns meeting Māra on their own",
+        ]),
+        ("Human or non-human, she wonders", [
+            "reasoning shown step by step &mdash;",
+            "recognition as a visible process",
+        ]),
+        ("No escape, Māra claims", [
+            "personally experienced, she answers &mdash;",
+            "testimony, not secondhand doctrine",
+        ]),
+        ("Swords and spears, not mere disinterest", [
+            "sensuality framed as actively dangerous &mdash;",
+            "a harsher image than simple refusal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.25.html">SN 4.25 &middot; Māra&rsquo;s '
+        "Daughters</a> &mdash; the discourse immediately before this "
+        "one, closing the Mārasaṃyutta.",
+        '<a href="sn-5.2.html">SN 5.2 &middot; With Somā</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.2 — Somāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 2, "Somā", "With Somā",
+    meta_title="SN 5.2 — With Somā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Somāsutta — Māra claims a woman's 'two-inch wisdom' makes "
+        "awakening impossible for her, and receives one of this "
+        "canon's most quoted rebuttals: whoever thinks 'I am woman' or "
+        "'I am man' is fit for Māra to address. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Dark Forest, at the root of a "
+                    "tree"),
+        ("Speakers", "The nun Somā and Māra the Wicked"),
+        ("Form", "An explicitly sexist challenge, met by a two-stanza "
+                 "rebuttal that dismantles its premise entirely"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, but among the most frequently quoted "
+                       "discourses in the entire canon"),
+    ],
+    why=(
+        "This is one of the most famous discourses in the "
+        "Bhikkhunīsaṃyutta, and one of the most quoted in the entire "
+        "Pali canon. Māra tells Somā directly that the sages' "
+        "attainment is not possible for a woman, whose wisdom he "
+        "measures at a dismissive &lsquo;two inches&rsquo;. Rather than "
+        "arguing that women can equal men in wisdom, Somā's reply "
+        "dismantles the entire premise: what does womanhood matter when "
+        "the mind is serene and the Dhamma rightly discerned? Anyone "
+        "still caught in thinking &lsquo;I am woman&rsquo; or &lsquo;I "
+        "am man&rsquo; &mdash; or &lsquo;I am&rsquo; anything at all "
+        "&mdash; is exactly the kind of person Māra can still reach."),
+    guide=[
+        ("A challenge stated as explicit sexist doctrine", [
+            "Unlike this saṃyutta's other confrontations, which "
+            "generally attack fear, grief, or desire, Māra's claim here "
+            "is a direct assertion about women's capacity as such "
+            "&mdash; not fear-mongering but a stated belief about "
+            "gendered limitation, requiring a different kind of "
+            "rebuttal than intimidation does."]),
+        ("A reply that refuses to argue on Māra's own terms", [
+            "Somā does not respond by insisting women can, in fact, "
+            "match men's wisdom, which would implicitly accept gender "
+            "as the relevant category to measure; instead she asks what "
+            "difference womanhood makes at all when the mind is "
+            "serene, refusing the comparison Māra's challenge assumes "
+            "is meaningful."]),
+        ("A stronger claim: gender itself is not the real issue", [
+            "The verse's second stanza generalizes beyond the "
+            "immediate exchange: it isn't merely that womanhood "
+            "doesn't prevent awakening, but that anyone still invested "
+            "in any self-identification &mdash; woman, man, or "
+            "&lsquo;I am&rsquo; in any form &mdash; remains within "
+            "Māra's reach, gender identity treated as one instance of a "
+            "broader category of vulnerability."]),
+        ("Fit for Māra to address: a precise closing formulation", [
+            "&lsquo;Fit for Māra to address&rsquo; is a carefully "
+            "chosen phrase: it doesn't say such a person will "
+            "necessarily be defeated by Māra, only that they remain a "
+            "meaningful target for him at all &mdash; Somā's own "
+            "freedom from self-view is what places her, implicitly, "
+            "beyond his reach entirely."]),
+        ("A discourse whose fame reflects its argumentative precision", [
+            "This discourse's frequent citation, noted directly in "
+            "SuttaCentral's own summary of this saṃyutta, likely owes "
+            "less to its brevity than to how precisely its rebuttal "
+            "identifies self-view, rather than gender comparison, as "
+            "the actual philosophical target &mdash; a move applicable "
+            "to any claim of essential limitation, not only this "
+            "specific one."]),
+    ],
+    terms=[
+        ("dvaṅgulapaññā",
+         "&ldquo;two-inch wisdom&rdquo; (literally, two-finger-width "
+         "wisdom) &mdash; Māra's dismissive measure of women's "
+         "capacity, the challenge Somā's reply answers."),
+        ("itthibhāva",
+         "&ldquo;womanhood&rdquo; &mdash; the category Somā's opening "
+         "line questions the relevance of, rather than defending "
+         "against directly."),
+        ("cittamhi susamāhite",
+         "&ldquo;when the mind is serene&rdquo; &mdash; the actual "
+         "condition Somā names as what matters, replacing gender as "
+         "the relevant measure."),
+        ("itthāhaṁ purisoti vā",
+         "&ldquo;&lsquo;I am woman&rsquo;, or &lsquo;I am "
+         "man&rsquo;&rdquo; &mdash; the verse's phrase for gendered "
+         "self-identification, continued by &lsquo;or &lsquo;I am"
+         "&rsquo; anything at all&rsquo; as one instance of a broader "
+         "category."),
+        ("taṁ māro vattumarahati",
+         "&ldquo;is fit for Māra to address&rdquo; &mdash; the verse's "
+         "precise closing claim, naming vulnerability rather than "
+         "guaranteed defeat."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's explicit challenge and Somā's "
+        "two-stanza rebuttal. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.2:1.1-1.5"),
+        ("p", "&sect;2", "sn5.2:2.1-2.4"),
+        ("p", "&sect;3", "sn5.2:3.1-3.5"),
+        ("p", "&sect;4", "sn5.2:4.1-5.4"),
+        ("p", "&sect;5", "sn5.2:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What claim does Māra make in this discourse?",
+         "opts": [
+             "That the sages' attainment is not possible for a woman, given her “two-inch wisdom”",
+             "That Somā has already fallen away from her attainment",
+             "That her fellow nuns have abandoned her",
+             "That the Buddha's teaching is doctrinally incomplete"],
+         "correct": 0,
+         "expl": "An explicit assertion about women's capacity as such, not fear-mongering."},
+        {"q": "How does Somā's reply differ from simply insisting women can match men's wisdom?",
+         "opts": [
+             "It refuses the comparison entirely, asking what difference womanhood makes at all",
+             "It agrees with Māra's premise but disputes the specific measurement",
+             "It avoids the topic and changes the subject",
+             "It asks the Buddha to answer on her behalf"],
+         "correct": 0,
+         "expl": "Not accepting gender as the relevant category to measure in the first place."},
+        {"q": "What does the verse's second stanza generalize the point to?",
+         "opts": [
+             "Anyone still invested in self-identification of any kind — woman, man, or “I am” anything",
+             "Only the specific case of gender, with no broader claim",
+             "A claim exclusively about monastic ordination rules",
+             "A claim about the physical differences between men and women"],
+         "correct": 0,
+         "expl": "Gender identity treated as one instance of a broader category of vulnerability to Māra."},
+        {"q": "What does “fit for Māra to address” precisely claim?",
+         "opts": [
+             "That such a person remains a meaningful target for Māra, not that they are guaranteed to be defeated",
+             "That such a person has already lost to Māra",
+             "That Māra himself created the category of self-view",
+             "That only women can be “fit for Māra to address”"],
+         "correct": 0,
+         "expl": "A carefully chosen phrase naming vulnerability, not certain defeat."},
+        {"q": "According to the reading guide, what likely explains this discourse's frequent citation?",
+         "opts": [
+             "The precision with which it identifies self-view, not gender comparison, as the real target",
+             "Its unusual length compared to other discourses",
+             "Its detailed physical description of Māra's appearance",
+             "Its unique setting, unlike any other in this collection"],
+         "correct": 0,
+         "expl": "A move applicable to any claim of essential limitation, not only the specific sexist one it answers."},
+        {"q": "How does this discourse's challenge differ in kind from most others in this saṃyutta?",
+         "opts": [
+             "It is a stated belief about gendered limitation, not primarily an attempt to provoke fear",
+             "It is identical in kind to every other discourse's challenge",
+             "It involves no verse exchange at all",
+             "It is the only discourse where Māra never appears"],
+         "correct": 0,
+         "expl": "Requiring a different kind of rebuttal than intimidation-based tactics."},
+        {"q": "What is Somā doing when Māra approaches her?",
+         "opts": [
+             "Sitting at the root of a tree in the Dark Forest, meditating",
+             "Teaching a large public assembly",
+             "Traveling between towns",
+             "Debating a rival ascetic teacher"],
+         "correct": 0,
+         "expl": "The same circumstance shared with several other discourses in this saṃyutta."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in the Dark Forest",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same location as SN 5.1 and several other discourses in this saṃyutta."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Somā knows me”",
+             "“The Buddha knows me”",
+             "“The mendicant Samiddhi knows me”",
+             "Māra has no closing thought in this discourse"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's own pattern of crediting the specific nun by name."},
+        {"q": "What condition does Somā name as what actually matters for attainment?",
+         "opts": [
+             "A serene mind and rightly discerning the Dhamma",
+             "Physical strength and endurance",
+             "Years of prior scriptural study",
+             "Wealth sufficient to support monastic life"],
+         "correct": 0,
+         "expl": "Replacing gender as the relevant measure Māra's challenge assumed."},
+    ],
+    marginalia=[
+        ("Two-inch wisdom, Māra claims", [
+            "a stated belief, not mere fear-mongering &mdash;",
+            "requiring a different kind of answer",
+        ]),
+        ("What does womanhood matter?", [
+            "the comparison itself refused &mdash;",
+            "not defended against, but dismissed",
+        ]),
+        ("I am woman, I am man, I am", [
+            "self-view named as the real target &mdash;",
+            "gender one instance among many",
+        ]),
+        ("Fit for Māra to address", [
+            "vulnerability named, not certain defeat &mdash;",
+            "precision behind this discourse's fame",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.1.html">SN 5.1 &middot; With Āḷavikā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.3.html">SN 5.3 &middot; With Kisāgotamī</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 5.3 — Kisāgotamīsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 3, "Kisāgotamī", "With Kisāgotamī",
+    meta_title="SN 5.3 — With Kisāgotamī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kisāgotamīsutta — Māra mocks a grieving woman meditating alone "
+        "in the forest, not knowing her grief has already been fully "
+        "resolved. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Dark Forest, at the root of a "
+                    "tree"),
+        ("Speakers", "The nun Kisāgotamī and Māra the Wicked"),
+        ("Form", "A taunt assuming unresolved grief, met by a firm "
+                 "two-stanza declaration that the grief is already "
+                 "past"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, but carries the full weight of a "
+                       "well-known biography behind it"),
+    ],
+    why=(
+        "Kisāgotamī is one of the most well-known women in the early "
+        "Buddhist tradition, famous elsewhere for the story of "
+        "searching for a mustard seed from a household untouched by "
+        "death after her own child's death. Māra, encountering her "
+        "meditating alone, assumes her solitude signals unresolved "
+        "grief or desperation &mdash; crying as if her children died, "
+        "searching the woods for a man. Kisāgotamī's reply corrects "
+        "the assumption directly: the grief is already resolved, "
+        "resolved so completely that she describes having defeated "
+        "death's own army."),
+    guide=[
+        ("A taunt built on an outdated assumption", [
+            "Māra's mockery assumes Kisāgotamī's presence alone in the "
+            "forest signals ongoing distress &mdash; grieving children, "
+            "searching for male company &mdash; a reading that would "
+            "have been accurate about her at an earlier point in her "
+            "life, but is no longer true of the woman he is actually "
+            "addressing."]),
+        ("A biography this discourse assumes but doesn't narrate", [
+            "This discourse itself gives almost no direct account of "
+            "Kisāgotamī's earlier loss; her name and situation carry "
+            "weight from a broader biographical tradition well known "
+            "elsewhere, and this brief exchange reads differently for "
+            "someone who already knows that history than for someone "
+            "encountering her only here."]),
+        ("A correction stated as completed fact, not process", [
+            "Kisāgotamī's reply doesn't describe grief being managed or "
+            "worked through; it states outright, in the past tense, "
+            "that she has &lsquo;got over the death of children&rsquo; "
+            "and is &lsquo;finished with men&rsquo; &mdash; resolution "
+            "presented as accomplished, not ongoing."]),
+        ("Fear addressed directly and dismissed", [
+            "&lsquo;I'm not afraid of you, sir&rsquo; answers Māra's "
+            "implicit goal &mdash; provoking fear, terror, goosebumps, "
+            "as stated in this saṃyutta's recurring formula &mdash; as "
+            "directly and plainly as the grief accusation itself, "
+            "leaving neither of Māra's assumptions intact."]),
+        ("Defeating death's army: a military image for inner victory", [
+            "The verse's closing image &mdash; having &lsquo;defeated "
+            "the army of death&rsquo; &mdash; scales far beyond "
+            "personal grief resolution to a claim of total liberation, "
+            "the same martial vocabulary this collection uses "
+            "elsewhere for Māra's own forces, now claimed as already "
+            "overcome."]),
+    ],
+    terms=[
+        ("Kisāgotamī",
+         "&ldquo;Kisāgotamī&rdquo; &mdash; the nun this discourse "
+         "follows, known elsewhere in the tradition for the story of "
+         "the mustard seed after her child's death."),
+        ("mataputtā",
+         "&ldquo;one whose child has died&rdquo; &mdash; the grief "
+         "Māra assumes is still active, which Kisāgotamī states she "
+         "has already gotten entirely over."),
+        ("vihatā nandī",
+         "&ldquo;relishing is banished&rdquo; &mdash; part of the "
+         "verse's description of her completed resolution."),
+        ("tamokkhandha",
+         "&ldquo;the mass of darkness&rdquo; &mdash; what the verse "
+         "says has been shattered, alongside the ending of grief."),
+        ("maccusenā",
+         "&ldquo;the army of death&rdquo; &mdash; the martial image "
+         "closing the verse, claiming total, not merely personal, "
+         "victory."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's taunt assuming unresolved "
+        "grief, and Kisāgotamī's firm correction. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.3:1.1-1.5"),
+        ("p", "&sect;2", "sn5.3:2.1-2.4"),
+        ("p", "&sect;3", "sn5.3:3.1-4.1"),
+        ("p", "&sect;4", "sn5.3:5.1-6.4"),
+        ("p", "&sect;5", "sn5.3:7.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What does Māra assume about Kisāgotamī's solitude?",
+         "opts": [
+             "That it signals unresolved grief or desperation for male company",
+             "That she is planning to leave the mendicant life",
+             "That she is preparing to teach a large assembly",
+             "That she has already achieved full liberation"],
+         "correct": 0,
+         "expl": "An assumption that may have been accurate about her earlier life, but is no longer true."},
+        {"q": "What does this discourse assume readers already know about Kisāgotamī?",
+         "opts": [
+             "A broader biographical tradition, including the story of the mustard seed after her child's death",
+             "That she was a queen before ordaining",
+             "That she was the Buddha's own relative",
+             "Nothing; the discourse explains her full history directly"],
+         "correct": 0,
+         "expl": "This brief exchange reads differently for someone who already knows that history."},
+        {"q": "How does Kisāgotamī describe her resolution of grief?",
+         "opts": [
+             "As already accomplished fact, stated in the past tense",
+             "As an ongoing process she is still working through",
+             "She denies ever having experienced grief at all",
+             "She refuses to discuss the matter with Māra"],
+         "correct": 0,
+         "expl": "“I've got over the death of children” — resolution presented as completed, not ongoing."},
+        {"q": "How does Kisāgotamī address Māra's implicit goal of provoking fear?",
+         "opts": [
+             "Directly: “I'm not afraid of you, sir”",
+             "By ignoring the fear-provoking intent entirely",
+             "By admitting she is indeed afraid",
+             "By asking the Buddha to intervene"],
+         "correct": 0,
+         "expl": "As directly and plainly as her correction about grief."},
+        {"q": "What does the verse's closing image claim?",
+         "opts": [
+             "Having defeated the army of death, a claim of total liberation",
+             "A modest hope for eventual peace of mind",
+             "A request for the Buddha's further guidance",
+             "Uncertainty about her own attainment"],
+         "correct": 0,
+         "expl": "Scaling far beyond personal grief resolution to total victory, using this collection's martial vocabulary."},
+        {"q": "What does the verse say has been shattered alongside the ending of grief?",
+         "opts": [
+             "The mass of darkness (tamokkhandha)",
+             "Her physical possessions",
+             "Her relationships with family",
+             "Her monastic robes"],
+         "correct": 0,
+         "expl": "Part of the verse's fuller description of her completed resolution."},
+        {"q": "How does this discourse's brevity relate to its emotional weight?",
+         "opts": [
+             "Its weight comes partly from the biographical tradition surrounding Kisāgotamī, not narrated here directly",
+             "It has no particular emotional weight beyond its literal content",
+             "The discourse is actually one of the longest in this saṃyutta",
+             "Its weight comes entirely from an extended narrative given here"],
+         "correct": 0,
+         "expl": "A brief exchange carrying significance from a wider, well-known biography."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in the Dark Forest, at the root of a tree",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same location shared with several other discourses in this saṃyutta."},
+        {"q": "What is Kisāgotamī doing when Māra approaches her?",
+         "opts": [
+             "Meditating alone at the root of a tree after her alms round",
+             "Teaching a group of laypeople",
+             "Traveling to a different city",
+             "Debating a rival ascetic teacher"],
+         "correct": 0,
+         "expl": "The same circumstance shared with several other discourses in this saṃyutta."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Kisāgotamī knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("An old grief, assumed current", [
+            "crying for children, searching for a man &mdash;",
+            "an outdated reading of who she now is",
+        ]),
+        ("Got over it, stated flatly", [
+            "past tense, not still working through &mdash;",
+            "resolution as accomplished fact",
+        ]),
+        ("Not afraid of you, sir", [
+            "both assumptions answered directly &mdash;",
+            "neither grief nor fear left intact",
+        ]),
+        ("Death's army, already defeated", [
+            "far beyond personal grief resolved &mdash;",
+            "total victory claimed outright",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.2.html">SN 5.2 &middot; With Somā</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-5.4.html">SN 5.4 &middot; With Vijayā</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.4 — Vijayāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 4, "Vijayā", "With Vijayā",
+    meta_title="SN 5.4 — With Vijayā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vijayāsutta — Māra tries direct romantic seduction as a young "
+        "man in his prime, and is answered with a meditation on the "
+        "body's decay that hands the senses right back to him. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a tree, for the day's "
+                    "meditation"),
+        ("Speakers", "The nun Vijayā and Māra the Wicked"),
+        ("Form", "A direct romantic overture, met by a three-stanza "
+                 "rebuttal spanning sensory rejection, bodily "
+                 "meditation, and a claim beyond even the formless "
+                 "realms"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the most directly romantic tactic Māra "
+                       "attempts anywhere in this collection"),
+    ],
+    why=(
+        "Unlike this saṃyutta's earlier discourses, Māra here doesn't "
+        "mock grief, doubt capability, or claim escape is impossible; "
+        "he attempts direct seduction, presenting himself as a "
+        "handsome young man inviting Vijayā to enjoy music together. "
+        "Her three-stanza reply moves outward in scope: first handing "
+        "the five sense pleasures directly back to him as useless to "
+        "her, then meditating explicitly on the body's decay, and "
+        "finally claiming to have dispelled confusion about even the "
+        "most refined meditative attainments, the realms of luminous "
+        "form and formlessness."),
+    guide=[
+        ("Seduction, not mockery or doubt", [
+            "This discourse's tactic is distinct from Māra's approach "
+            "elsewhere in this saṃyutta: rather than attacking "
+            "Vijayā's capability, grief, or the possibility of escape, "
+            "he presents himself as an attractive peer offering "
+            "companionship and music &mdash; flattery and invitation "
+            "rather than challenge."]),
+        ("The senses handed back, not merely refused", [
+            "Vijayā's first stanza doesn't simply state disinterest in "
+            "sights, sounds, tastes, smells, and touches; it "
+            "&lsquo;hands them right back to&rsquo; Māra specifically, "
+            "an active image of return rather than passive rejection "
+            "&mdash; the sense pleasures framed as belonging to Māra's "
+            "domain to begin with."]),
+        ("The body's decay meditated on directly", [
+            "The second stanza turns explicitly to physical repulsion "
+            "&mdash; the body as rotting, decaying, frail &mdash; a "
+            "traditional meditation object (asubha, the "
+            "unattractive) named and applied directly against the very "
+            "premise of Māra's romantic approach."]),
+        ("A claim extending beyond sensual rejection entirely", [
+            "The verse's final stanza reaches further than refusing "
+            "seduction: it claims to have dispelled darkness "
+            "&lsquo;regarding all such peaceful attainments&rsquo;, "
+            "naming the realms of luminous form and the formless "
+            "explicitly &mdash; rejecting not just sensuality but "
+            "confusion about even the most subtle meditative states "
+            "beyond it."]),
+        ("A scope this saṃyutta will echo again", [
+            "The specific naming of luminous-form and formless realms "
+            "recurs almost identically at SN 5.6, suggesting this "
+            "particular doctrinal point &mdash; that even refined "
+            "meditative attainments can still be a subtle trap if "
+            "misunderstood &mdash; mattered enough to this saṃyutta's "
+            "compilers to state more than once."]),
+    ],
+    terms=[
+        ("Vijayā",
+         "&ldquo;Vijayā&rdquo; &mdash; the nun this discourse follows, "
+         "answering Māra's direct romantic overture."),
+        ("pañcaṅgika turiya",
+         "&ldquo;the music of a five-piece band&rdquo; &mdash; the "
+         "specific entertainment Māra invites her to share, part of "
+         "his seduction attempt."),
+        ("asubha",
+         "&ldquo;unattractive, repulsive&rdquo; &mdash; the "
+         "traditional meditation theme on the body's decay Vijayā "
+         "applies directly."),
+        ("rūpūpaga",
+         "&ldquo;gone to (fine-material) form&rdquo; &mdash; one of "
+         "the refined meditative attainments the verse's final stanza "
+         "claims to have moved beyond confusion about."),
+        ("arūpaṭṭhāyī",
+         "&ldquo;established in the formless&rdquo; &mdash; the other "
+         "refined attainment named, alongside form, in the verse's "
+         "closing claim."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's direct seduction attempt and "
+        "Vijayā's three-stanza rebuttal. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.4:1.1-1.4"),
+        ("p", "&sect;2", "sn5.4:2.1-2.4"),
+        ("p", "&sect;3", "sn5.4:3.1-3.5"),
+        ("p", "&sect;4", "sn5.4:4.1-6.4"),
+        ("p", "&sect;5", "sn5.4:7.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What tactic does Māra use in this discourse, distinct from his approach elsewhere in this saṃyutta?",
+         "opts": [
+             "Direct romantic seduction, presenting himself as a handsome young man",
+             "Mocking her as weak in wisdom",
+             "Assuming she is grieving unresolved loss",
+             "Claiming there is no escape from the world"],
+         "correct": 0,
+         "expl": "Flattery and invitation rather than challenge or doubt."},
+        {"q": "What does Vijayā's first stanza do with the five sense pleasures?",
+         "opts": [
+             "Hands them right back to Māra, as belonging to his domain",
+             "Argues that they are actually valuable and should be kept",
+             "Ignores the topic entirely",
+             "Claims she has never experienced them at all"],
+         "correct": 0,
+         "expl": "An active image of return, not merely passive disinterest."},
+        {"q": "What does Vijayā's second stanza meditate on directly?",
+         "opts": [
+             "The body's decay — rotting, decaying, and frail",
+             "The beauty of the natural world",
+             "The kindness of her fellow nuns",
+             "The teachings of the Buddha in general"],
+         "correct": 0,
+         "expl": "A traditional meditation on the unattractive (asubha), applied directly against Māra's romantic approach."},
+        {"q": "What does the verse's final stanza claim to have dispelled confusion about?",
+         "opts": [
+             "The realms of luminous form and the formless, refined meditative attainments",
+             "Only sensual pleasure, with no further claim",
+             "The exact geography of the six sense fields",
+             "The history of the Buddha's past lives"],
+         "correct": 0,
+         "expl": "Extending beyond sensual rejection to confusion about subtle meditative states as well."},
+        {"q": "What does this final claim suggest about even refined meditative attainments?",
+         "opts": [
+             "That they can still be a subtle trap if misunderstood",
+             "That they are entirely worthless and should never be pursued",
+             "That they are identical to sensual pleasure in every respect",
+             "That only Māra can access them"],
+         "correct": 0,
+         "expl": "A doctrinal point about confusion regarding subtle states, not merely gross sensuality."},
+        {"q": "Where else in this saṃyutta does similar language about luminous form and the formless recur?",
+         "opts": [
+             "SN 5.6, almost identically",
+             "Nowhere else in this saṃyutta",
+             "SN 5.1 alone",
+             "Every single discourse in this saṃyutta"],
+         "correct": 0,
+         "expl": "Suggesting this doctrinal point mattered enough to state more than once."},
+        {"q": "What music does Māra invite Vijayā to enjoy?",
+         "opts": [
+             "The music of a five-piece band",
+             "A solo flute performance",
+             "Temple chanting",
+             "No specific music is mentioned"],
+         "correct": 0,
+         "expl": "Part of the specific romantic invitation Māra offers."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a tree, for the day's meditation",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same general setting shared with several other discourses in this saṃyutta."},
+        {"q": "How does Vijayā describe her elimination of sensual craving?",
+         "opts": [
+             "As eradicated, alongside horror and repulsion toward the body",
+             "As gradually diminishing but not yet complete",
+             "She does not address sensual craving directly",
+             "As something she still struggles with"],
+         "correct": 0,
+         "expl": "Stated as a completed fact within her second stanza."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Vijayā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("A young man, in his prime", [
+            "flattery and music offered instead of fear &mdash;",
+            "a different tactic than mockery",
+        ]),
+        ("Handed right back to you", [
+            "the senses returned, not merely refused &mdash;",
+            "belonging to Māra's own domain",
+        ]),
+        ("Rotting, decaying, frail", [
+            "the body itself the meditation &mdash;",
+            "applied against the seduction directly",
+        ]),
+        ("Beyond even the formless", [
+            "confusion dispelled about subtle states &mdash;",
+            "a claim SN 5.6 will echo",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.3.html">SN 5.3 &middot; With Kisāgotamī</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.5.html">SN 5.5 &middot; With Uppalavaṇṇā</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 5.5 — Uppalavaṇṇāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 5, "Uppalavaṇṇā", "With Uppalavaṇṇā",
+    meta_title="SN 5.5 — With Uppalavaṇṇā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Uppalavaṇṇāsutta — warned about rascals threatening a "
+        "beautiful woman alone under a flowering tree, a nun famous for "
+        "psychic mastery boasts she could vanish or hide inside Māra's "
+        "own belly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a flowering sal tree"),
+        ("Speakers", "The nun Uppalavaṇṇā and Māra the Wicked"),
+        ("Form", "A warning framed as concern for her safety, met by a "
+                 "confident three-stanza display of mastery"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the most vividly imaginative reply anywhere in "
+                       "this saṃyutta"),
+    ],
+    why=(
+        "Māra's approach here disguises itself as concern: standing "
+        "alone beneath a sal tree in full flower, her beauty unmatched, "
+        "isn't this &lsquo;silly girl&rsquo; afraid of rascals who "
+        "might take advantage? Uppalavaṇṇā &mdash; traditionally "
+        "recognized as one of the two chief female disciples, foremost "
+        "in psychic power &mdash; answers not with a denial of danger "
+        "but with an escalating demonstration of exactly how "
+        "unreachable she actually is: unbothered by a hundred thousand "
+        "rascals, able to vanish entirely, or to hide standing between "
+        "his own eyebrows without being seen."),
+    guide=[
+        ("A warning that assumes vulnerability as the default", [
+            "Unlike SN 5.4's open seduction, this discourse's tactic "
+            "poses as protective concern &mdash; naming her beauty and "
+            "isolation as reasons for fear &mdash; a subtler approach "
+            "that frames Māra as looking out for her rather than "
+            "propositioning her directly."]),
+        ("A reply that escalates rather than merely reassures", [
+            "Uppalavaṇṇā doesn't simply state she isn't afraid; her "
+            "verse builds through increasingly extreme scenarios "
+            "&mdash; not one rascal but a hundred thousand, not merely "
+            "unbothered but able to vanish entirely &mdash; each line "
+            "outdoing the last in demonstrating how far beyond concern "
+            "she actually stands."]),
+        ("Hiding inside Māra's own belly", [
+            "The verse's most striking image turns the threat back on "
+            "its source directly: rather than merely evading danger, "
+            "she could enter Māra's own belly or stand invisible "
+            "between his eyebrows &mdash; not escaping his domain but "
+            "occupying it undetected, a claim of mastery over "
+            "perception itself rather than mere physical safety."]),
+        ("Psychic power named as the specific basis for fearlessness", [
+            "Unlike other discourses in this saṃyutta that ground "
+            "fearlessness in ethical or meditative attainment broadly, "
+            "Uppalavaṇṇā's closing stanza names a specific skill set "
+            "&mdash; mastery of her own mind and well-developed bases "
+            "of psychic power &mdash; consistent with her traditional "
+            "reputation as foremost among the Buddha's female "
+            "disciples in this particular capacity."]),
+        ("A discourse whose imagery outstrips its brevity", [
+            "Despite being no longer than this saṃyutta's other "
+            "discourses, the sheer inventiveness of Uppalavaṇṇā's "
+            "imagery &mdash; a hundred thousand rascals, vanishing, "
+            "hiding in Māra's belly, standing unseen between his "
+            "eyebrows &mdash; gives this exchange a memorable, almost "
+            "playful register distinct from the graver tone of "
+            "discourses like SN 5.3."]),
+    ],
+    terms=[
+        ("Uppalavaṇṇā",
+         "&ldquo;Uppalavaṇṇā&rdquo; &mdash; the nun this discourse "
+         "follows, traditionally recognized as foremost among the "
+         "Buddha's female disciples in psychic power."),
+        ("sāla",
+         "&ldquo;sal tree&rdquo; &mdash; the flowering tree at whose "
+         "root she stands, part of Māra's framing of her as "
+         "vulnerable."),
+        ("dhutta",
+         "&ldquo;rascals&rdquo; &mdash; the vague danger Māra invokes "
+         "as reason for fear."),
+        ("pakhumantarikā",
+         "&ldquo;between your eyebrows&rdquo; (literally, between the "
+         "eyelashes) &mdash; the verse's most striking image, standing "
+         "hidden within Māra's own perceptual "
+         "range."),
+        ("iddhipādā",
+         "&ldquo;the bases of psychic power&rdquo; &mdash; the "
+         "specific attainment Uppalavaṇṇā names as the basis for her "
+         "fearlessness, consistent with her traditional specialty."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's protective-sounding warning and "
+        "Uppalavaṇṇā's escalating three-stanza display of mastery. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.5:1.1-1.4"),
+        ("p", "&sect;2", "sn5.5:2.1-2.4"),
+        ("p", "&sect;3", "sn5.5:3.1-3.5"),
+        ("p", "&sect;4", "sn5.5:4.1-6.4"),
+        ("p", "&sect;5", "sn5.5:7.1-7.1"),
+    ],
+    quiz=[
+        {"q": "How does Māra's tactic in this discourse differ from SN 5.4's open seduction?",
+         "opts": [
+             "It poses as protective concern for her safety, not direct romantic invitation",
+             "It is identical to SN 5.4's approach",
+             "It involves no verse exchange at all",
+             "It is aimed at her fellow nuns, not her directly"],
+         "correct": 0,
+         "expl": "Framing Māra as looking out for her rather than propositioning her."},
+        {"q": "What reason does Māra give for why she should be afraid?",
+         "opts": [
+             "Her beauty and isolation, standing alone beneath a flowering tree",
+             "A rumor about a specific attacker in the area",
+             "Her own stated doubts about her safety",
+             "A warning from her fellow nuns"],
+         "correct": 0,
+         "expl": "Naming her circumstances as inherently dangerous."},
+        {"q": "How does Uppalavaṇṇā's reply develop across its stanzas?",
+         "opts": [
+             "It escalates through increasingly extreme scenarios, each outdoing the last",
+             "It simply repeats the same claim three times",
+             "It becomes progressively less confident",
+             "It shifts to an entirely different topic each stanza"],
+         "correct": 0,
+         "expl": "From unbothered by a hundred thousand rascals to vanishing entirely to hiding undetected."},
+        {"q": "What is the verse's most striking image?",
+         "opts": [
+             "Hiding inside Māra's own belly or standing unseen between his eyebrows",
+             "Fighting off attackers with physical strength",
+             "Calling for help from nearby villagers",
+             "Building a protective wall around herself"],
+         "correct": 0,
+         "expl": "Not escaping Māra's domain but occupying it undetected, a claim about mastery of perception itself."},
+        {"q": "What specific basis does Uppalavaṇṇā name for her fearlessness?",
+         "opts": [
+             "Mastery of her own mind and well-developed bases of psychic power",
+             "Physical strength and combat training",
+             "The protection of a large group of companions",
+             "A promise of safety from the Buddha"],
+         "correct": 0,
+         "expl": "Consistent with her traditional reputation as foremost among the Buddha's female disciples in this capacity."},
+        {"q": "What is Uppalavaṇṇā traditionally recognized as, according to the reading guide?",
+         "opts": [
+             "One of the two chief female disciples, foremost in psychic power",
+             "The first woman ever ordained as a nun",
+             "The Buddha's own sister",
+             "A queen who later renounced her throne"],
+         "correct": 0,
+         "expl": "A traditional reputation the discourse's closing claim is consistent with."},
+        {"q": "How does the reading guide characterize this discourse's tone?",
+         "opts": [
+             "Memorable and almost playful, distinct from graver discourses like SN 5.3",
+             "The most somber and serious discourse in this saṃyutta",
+             "Identical in tone to every other discourse here",
+             "Angry and confrontational throughout"],
+         "correct": 0,
+         "expl": "The sheer inventiveness of her imagery giving this exchange a distinct register."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a flowering sal tree",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "A specific tree named as the setting, distinct from the more generic locations elsewhere."},
+        {"q": "How many rascals does Uppalavaṇṇā say wouldn't disturb her?",
+         "opts": [
+             "A hundred thousand",
+             "Only a handful",
+             "A thousand",
+             "The number is not specified"],
+         "correct": 0,
+         "expl": "An extreme figure emphasizing the scale of her claimed fearlessness."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Uppalavaṇṇā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("Concern, disguised as warning", [
+            "beauty and isolation named as danger &mdash;",
+            "a subtler approach than open seduction",
+        ]),
+        ("A hundred thousand rascals", [
+            "still wouldn't stir a single hair &mdash;",
+            "escalation as the whole reply",
+        ]),
+        ("Hidden between your own eyebrows", [
+            "occupying the threat's own domain &mdash;",
+            "mastery of perception itself",
+        ]),
+        ("Psychic power, named specifically", [
+            "not general attainment, but a named skill &mdash;",
+            "matching her own traditional reputation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.4.html">SN 5.4 &middot; With Vijayā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.6.html">SN 5.6 &middot; With Cālā</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.6 — Cālāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 6, "Cālā", "With Cālā",
+    meta_title="SN 5.6 — With Cālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Cālāsutta — asked plainly what she disapproves of, a nun "
+        "answers 'rebirth,' and defends the claim through prose "
+        "dialogue rather than a riddle-verse. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a tree, for the day's "
+                    "meditation"),
+        ("Speakers", "The nun Cālā and Māra the Wicked"),
+        ("Form", "A direct prose question, a firm answer, and a "
+                 "reasoned defense in verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a family trio of sisters continued at SN "
+                       "5.7 and SN 5.8"),
+    ],
+    why=(
+        "This discourse opens with something unusual for this "
+        "saṃyutta: not a riddle-verse or seductive overture, but a "
+        "plain prose question &mdash; nun, what don't you approve of? "
+        "&mdash; and an equally plain answer: rebirth. Māra presses her "
+        "on this, assuming rebirth means enjoying sensual pleasure, and "
+        "Cālā's verse reply explains her position with doctrinal "
+        "precision: death follows birth, birth brings suffering, and "
+        "even the most refined realms of existence &mdash; luminous "
+        "form and the formless &mdash; still lead back to future lives "
+        "for those who don't understand cessation."),
+    guide=[
+        ("A conversation opening in prose, not verse", [
+            "Unlike this saṃyutta's more common pattern of an "
+            "unprompted challenging verse, this discourse begins with "
+            "a direct question and answer exchanged in plain prose "
+            "&mdash; &lsquo;what don't you approve of?&rsquo;, "
+            "&lsquo;rebirth, sir&rsquo; &mdash; verse arriving only "
+            "once Cālā is pressed to explain her position further."]),
+        ("Māra's assumption: rebirth means pleasure", [
+            "Māra's follow-up treats Cālā's rejection of rebirth as "
+            "puzzling on its own terms &mdash; being born means getting "
+            "to enjoy sensual pleasures, so why refuse it? &mdash; a "
+            "framing that takes for granted the very premise her "
+            "answer is built to reject."]),
+        ("A precise chain of consequence, not a general aversion", [
+            "Cālā's verse doesn't simply state a dislike of rebirth; it "
+            "traces a specific causal chain &mdash; birth leads to "
+            "death, and to killing, caging, and misery along the way "
+            "&mdash; naming rebirth's actual downstream consequences "
+            "rather than asserting an unexplained preference."]),
+        ("Credit given directly to the Buddha's own teaching", [
+            "Unlike several other discourses in this saṃyutta where "
+            "the nun's realization is presented as her own direct "
+            "attainment without external reference, Cālā explicitly "
+            "names the Buddha as the source: &lsquo;he settled me in "
+            "the truth&rsquo;, crediting the teaching itself for her "
+            "position rather than framing it as purely self-derived."]),
+        ("A closing warning about refined realms, shared with SN 5.4", [
+            "The verse's final stanza, naming beings &lsquo;in the "
+            "realm of luminous form&rsquo; and others &lsquo;stuck in "
+            "the formless&rsquo; who don't understand cessation and so "
+            "return to future lives, repeats almost the same language "
+            "already used at SN 5.4 &mdash; confirming this specific "
+            "warning about subtle attainment recurs deliberately across "
+            "this collection."]),
+    ],
+    terms=[
+        ("Cālā",
+         "&ldquo;Cālā&rdquo; &mdash; the nun this discourse follows, "
+         "traditionally identified as one of three sisters (with "
+         "Upacālā and Sīsupacālā) each confronted by Māra across this "
+         "saṃyutta's next three discourses."),
+        ("jāti",
+         "&ldquo;rebirth&rdquo; &mdash; what Cālā states outright she "
+         "does not approve of, the discourse's central subject."),
+        ("bandhaṁ vadhaṁ pariklesaṁ",
+         "&ldquo;killing, caging, misery&rdquo; &mdash; specific "
+         "downstream consequences of rebirth named in Cālā's causal "
+         "chain."),
+        ("sacce nivesayi",
+         "&ldquo;he settled me in the truth&rdquo; &mdash; Cālā's "
+         "explicit credit to the Buddha's teaching for her own "
+         "position."),
+        ("nirodha",
+         "&ldquo;cessation&rdquo; &mdash; what beings in refined "
+         "realms are said not to understand, causing their return to "
+         "future lives."),
+    ],
+    text_intro=(
+        "The discourse in full: the prose exchange and Cālā's "
+        "reasoned defense in verse. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.6:1.1-1.6"),
+        ("p", "&sect;2", "sn5.6:2.1-2.4"),
+        ("p", "&sect;3", "sn5.6:3.1-4.4"),
+        ("p", "&sect;4", "sn5.6:5.1-5.4"),
+        ("p", "&sect;5", "sn5.6:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse open, unlike this saṃyutta's more common pattern?",
+         "opts": [
+             "With a direct prose question and answer, not an unprompted challenging verse",
+             "With an elaborate physical manifestation",
+             "With Māra reading a private thought",
+             "With a description of a violent event"],
+         "correct": 0,
+         "expl": "Verse arriving only once Cālā is pressed to explain her position further."},
+        {"q": "What does Cālā say she doesn't approve of?",
+         "opts": [
+             "Rebirth",
+             "The Buddha's teaching",
+             "Meditation practice",
+             "Her fellow nuns"],
+         "correct": 0,
+         "expl": "A plain, direct answer to Māra's opening question."},
+        {"q": "What assumption does Māra's follow-up question make?",
+         "opts": [
+             "That rebirth means getting to enjoy sensual pleasures, so refusing it seems puzzling",
+             "That Cālā has misunderstood the Buddha's teaching entirely",
+             "That she is lying about her true feelings",
+             "That rebirth is impossible to avoid regardless of her wishes"],
+         "correct": 0,
+         "expl": "Taking for granted the very premise Cālā's answer is built to reject."},
+        {"q": "How does Cālā's verse explain her rejection of rebirth?",
+         "opts": [
+             "By tracing a specific causal chain: birth leads to death, killing, caging, and misery",
+             "By simply restating her dislike without explanation",
+             "By appealing to social custom",
+             "By denying that rebirth actually occurs"],
+         "correct": 0,
+         "expl": "Naming actual downstream consequences rather than asserting an unexplained preference."},
+        {"q": "Who does Cālā explicitly credit for her position?",
+         "opts": [
+             "The Buddha, who “settled me in the truth”",
+             "Herself alone, with no external source named",
+             "Her parents' upbringing",
+             "A different, unnamed teacher"],
+         "correct": 0,
+         "expl": "Unlike several other discourses in this saṃyutta, explicit credit given to the Buddha's teaching."},
+        {"q": "What does the verse's final stanza warn about?",
+         "opts": [
+             "Beings in luminous form or formless realms who don't understand cessation, and so return",
+             "The danger of ordinary human rebirth alone",
+             "The risk of losing one's monastic robes",
+             "A warning specific to Māra's own daughters"],
+         "correct": 0,
+         "expl": "A warning about even refined meditative attainments still leading to future lives if misunderstood."},
+        {"q": "Where else in this saṃyutta does very similar language appear?",
+         "opts": [
+             "SN 5.4, on luminous form and the formless",
+             "Nowhere else in this saṃyutta",
+             "Only in the Mārasaṃyutta, not here",
+             "Every discourse in this saṃyutta uses identical language"],
+         "correct": 0,
+         "expl": "Confirming this specific warning recurs deliberately across the collection."},
+        {"q": "What relationship does this discourse's speaker have to SN 5.7 and SN 5.8's speakers, according to tradition?",
+         "opts": [
+             "Cālā is traditionally identified as one of three sisters, with Upacālā and Sīsupacālā",
+             "No relationship; the three nuns are unrelated",
+             "Cālā is the teacher of the nuns in SN 5.7 and SN 5.8",
+             "They are all the same person using different names"],
+         "correct": 0,
+         "expl": "A traditional identification, not stated directly within these discourses themselves."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a tree, for the day's meditation",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same general setting shared with several other discourses in this saṃyutta."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Cālā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("What don't you approve of?", [
+            "asked plainly, answered plainly &mdash;",
+            "verse arrives only once pressed",
+        ]),
+        ("Birth means pleasure, Māra assumes", [
+            "the very premise her answer rejects &mdash;",
+            "puzzlement built on a false start",
+        ]),
+        ("A chain, not a mere dislike", [
+            "birth to death, to killing, caging &mdash;",
+            "consequence traced, not merely felt",
+        ]),
+        ("Settled in the truth, by another", [
+            "credit given to the Buddha directly &mdash;",
+            "not framed as purely self-derived",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.4.html">SN 5.4 &middot; With Vijayā</a> '
+        "&mdash; this saṃyutta's earlier use of similar language on "
+        "luminous form and the formless.",
+        '<a href="sn-5.5.html">SN 5.5 &middot; With Uppalavaṇṇā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.7.html">SN 5.7 &middot; With Upacālā</a> '
+        "&mdash; the next discourse, continuing this family trio.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 5.7 — Upacālāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 7, "Upacālā", "With Upacālā",
+    meta_title="SN 5.7 — With Upacālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Upacālāsutta — offered rebirth in five named heaven realms, a "
+        "nun refuses them all as still bound by Māra's sway, declaring "
+        "her mind set instead on a place that isn't shaking or burning "
+        "at all. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a tree, for the day's "
+                    "meditation"),
+        ("Speakers", "The nun Upacālā and Māra the Wicked"),
+        ("Form", "A tempting offer naming five specific heavens, "
+                 "refused wholesale, then a striking image of the "
+                 "entire world on fire"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "continues the pair traditionally identified as "
+                       "sisters alongside SN 5.6 and SN 5.8"),
+    ],
+    why=(
+        "Where SN 5.6's Cālā rejected rebirth in general terms, Māra "
+        "here tries something more specific with Upacālā, asked plainly "
+        "where she wants to be reborn: not wanting rebirth "
+        "&lsquo;anywhere&rsquo;, she is offered a tempting list of five "
+        "named heavenly realms, promised delight if she sets her heart "
+        "on them. Her refusal names each realm back to him individually "
+        "before delivering one of this saṃyutta's most striking images: "
+        "the entire world ablaze, on fire, smoldering, rocking &mdash; "
+        "with her own mind set instead on the one place Māra cannot "
+        "reach at all."),
+    guide=[
+        ("A specific offer, not a general temptation", [
+            "Unlike SN 5.6's more abstract exchange about rebirth as "
+            "such, Māra here names five distinct heavenly realms by "
+            "type &mdash; the thirty-three gods, the gods of Yama, the "
+            "Joyful Deities, and others &mdash; a concrete menu of "
+            "options rather than a vague promise, suited to Upacālā's "
+            "own equally specific opening answer that she wants "
+            "rebirth &lsquo;nowhere&rsquo;."]),
+        ("Every option refused by the same underlying logic", [
+            "Upacālā's reply doesn't evaluate each heaven separately as "
+            "more or less desirable; it repeats Māra's own list back to "
+            "him only to dismiss all five together with a single "
+            "reason &mdash; they remain &lsquo;bound with the bonds of "
+            "sensuality&rsquo; and fall back under Māra's sway "
+            "eventually, however exalted they may seem."]),
+        ("Even heaven still counted as Māra's territory", [
+            "The verse's underlying claim is significant: these are not "
+            "framed as neutral realms outside Māra's reach that simply "
+            "don't interest her, but as domains still within his "
+            "&lsquo;sway&rsquo;, meaning ordinary heavenly rebirth, "
+            "however pleasant, does not actually represent an escape "
+            "from him at all."]),
+        ("The whole world on fire: a shared image with a famous discourse", [
+            "&lsquo;All the world is on fire, all the world is "
+            "smoldering, all the world is ablaze, all the world is "
+            "rocking&rsquo; echoes the imagery of this canon's famous "
+            "Fire Sermon (Ādittapariyāya), applying that same "
+            "vocabulary of universal burning to the entire cosmos of "
+            "possible rebirths Māra has just offered, heaven included."]),
+        ("A place defined only by what it lacks", [
+            "Upacālā's own preferred destination is described entirely "
+            "negatively &mdash; not shaking, not burning, not "
+            "frequented by ordinary people, a place &lsquo;where Māra "
+            "cannot go&rsquo; &mdash; naming what it is not rather than "
+            "positively describing it, letting its distance from "
+            "everything Māra has just offered define it by contrast."]),
+    ],
+    terms=[
+        ("Upacālā",
+         "&ldquo;Upacālā&rdquo; &mdash; the nun this discourse "
+         "follows, traditionally identified alongside Cālā and "
+         "Sīsupacālā as sisters, though the discourses themselves do "
+         "not state this directly."),
+        ("Tāvatiṁsa Yāma",
+         "&ldquo;the thirty-three gods&hellip;those of Yama&rdquo; "
+         "&mdash; two of the five named heavenly realms in Māra's "
+         "offer."),
+        ("kāmabandhana",
+         "&ldquo;the bonds of sensuality&rdquo; &mdash; what Upacālā "
+         "says still binds every one of the offered realms."),
+        ("sabbo pajjālito loko",
+         "&ldquo;all the world is ablaze&rdquo; &mdash; the verse's "
+         "central image, echoing this canon's Fire Sermon."),
+        ("agati yattha mārassa",
+         "&ldquo;where Māra cannot go&rdquo; &mdash; Upacālā's own "
+         "closing description of her preferred destination, defined by "
+         "what it lacks."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's specific offer of five "
+        "heavenly realms and Upacālā's wholesale refusal. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.7:1.1-1.6"),
+        ("p", "&sect;2", "sn5.7:2.1-2.6"),
+        ("p", "&sect;3", "sn5.7:3.1-3.6"),
+        ("p", "&sect;4", "sn5.7:4.1-5.4"),
+        ("p", "&sect;5", "sn5.7:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "How does Māra's tactic here differ from SN 5.6's more general challenge?",
+         "opts": [
+             "He names five distinct heavenly realms specifically, rather than discussing rebirth abstractly",
+             "He offers no temptation at all, only threats",
+             "He claims Upacālā has already agreed to be reborn",
+             "He disguises himself as an animal"],
+         "correct": 0,
+         "expl": "A concrete menu of options suited to Upacālā's own specific answer of wanting rebirth nowhere."},
+        {"q": "How does Upacālā respond to the five named heavens?",
+         "opts": [
+             "She dismisses all five together with a single underlying reason",
+             "She accepts one of the five as acceptable",
+             "She asks for more time to consider",
+             "She claims none of the five actually exist"],
+         "correct": 0,
+         "expl": "Not evaluating each separately, but rejecting all of them on the same grounds."},
+        {"q": "What reason does Upacālā give for rejecting all five heavens?",
+         "opts": [
+             "They remain bound with the bonds of sensuality and fall back under Māra's sway",
+             "They are reserved only for men",
+             "They require too much merit to attain",
+             "They are located too far away to reach"],
+         "correct": 0,
+         "expl": "A single underlying claim applying to all five realms equally."},
+        {"q": "What does this claim suggest about ordinary heavenly rebirth?",
+         "opts": [
+             "That it does not actually represent an escape from Māra's domain at all",
+             "That it is identical to full liberation",
+             "That it is worse than any human rebirth",
+             "That only Māra himself can grant it"],
+         "correct": 0,
+         "expl": "Framing heaven as still within Māra's territory, not a neutral realm beyond his reach."},
+        {"q": "What famous discourse does the “world on fire” imagery echo?",
+         "opts": [
+             "The Fire Sermon (Ādittapariyāya)",
+             "The Buddha's first sermon on the four noble truths",
+             "The Mahāparinibbāna Sutta",
+             "No earlier discourse is echoed"],
+         "correct": 0,
+         "expl": "Applying that same vocabulary of universal burning to the entire cosmos of possible rebirths."},
+        {"q": "How is Upacālā's own preferred destination described?",
+         "opts": [
+             "Entirely negatively — not shaking, not burning, not frequented by ordinary people",
+             "In vivid positive detail, naming specific features",
+             "As identical to one of the five heavens Māra offered",
+             "She declines to describe it at all"],
+         "correct": 0,
+         "expl": "Defined by what it lacks and its distance from everything Māra has offered."},
+        {"q": "What does Upacālā say her mind is set on?",
+         "opts": [
+             "A place where Māra cannot go",
+             "A specific named heavenly palace",
+             "Returning to lay life",
+             "Rebirth as a powerful deity"],
+         "correct": 0,
+         "expl": "The closing phrase naming her actual aspiration, defined by contrast with Māra's offer."},
+        {"q": "What relationship is Upacālā traditionally said to have with the speakers of SN 5.6 and SN 5.8?",
+         "opts": [
+             "Traditionally identified as sisters, though not stated directly within the discourses themselves",
+             "No relationship of any kind",
+             "Upacālā is said to be their teacher",
+             "They are traditionally said to be rivals"],
+         "correct": 0,
+         "expl": "A traditional identification distinct from what the sutta text itself states."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a tree, for the day's meditation",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same general setting shared with several other discourses in this saṃyutta."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Upacālā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("Five heavens, offered by name", [
+            "a concrete menu, not vague promise &mdash;",
+            "matching her own specific answer",
+        ]),
+        ("All bound by the same sensuality", [
+            "no need to weigh them separately &mdash;",
+            "one reason dismisses all five",
+        ]),
+        ("The world on fire, entirely", [
+            "echoing the famous Fire Sermon &mdash;",
+            "heaven included in the blaze",
+        ]),
+        ("Where Māra cannot go", [
+            "defined only by what it lacks &mdash;",
+            "distance from everything just offered",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.6.html">SN 5.6 &middot; With Cālā</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-5.8.html">SN 5.8 &middot; With Sīsupacālā</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.8 — Sīsupacālāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 8, "Sīsupacālā", "With Sīsupacālā",
+    meta_title="SN 5.8 — With Sīsupacālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sīsupacālāsutta — asked whose creed she follows, a nun says "
+        "she approves no one's teaching, then names the single "
+        "exception: the Buddha, whom she calls the dispeller of Māra "
+        "himself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a tree, for the day's "
+                    "meditation"),
+        ("Speakers", "The nun Sīsupacālā and Māra the Wicked"),
+        ("Form", "A challenge about religious affiliation, an apparent "
+                 "contradiction raised, and its resolution naming one "
+                 "clear exception"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "closes the trio traditionally identified as "
+                       "sisters begun at SN 5.6"),
+    ],
+    why=(
+        "Māra's question here targets something different from fear, "
+        "grief, or desire: religious identity itself &mdash; whose "
+        "creed do you approve of? Sīsupacālā's answer, that she "
+        "approves no one's, seems to invite an obvious challenge: why "
+        "shave your head and dress like an ascetic if you follow no "
+        "teaching at all? Her verse resolves the apparent contradiction "
+        "by distinguishing sectarian creeds in general, which she finds "
+        "unconvincing, from the Buddha's own teaching specifically, "
+        "which she names as the sole exception &mdash; calling him, "
+        "among other titles, the &lsquo;dispeller of Māra&rsquo;."),
+    guide=[
+        ("A challenge to identity, not to capability or safety", [
+            "This discourse's confrontation targets a different "
+            "register entirely from this saṃyutta's other tactics: not "
+            "fear, grief, seduction, or doubted capability, but a "
+            "question of religious allegiance &mdash; whose "
+            "authority does she actually follow?"]),
+        ("An apparent contradiction Māra presses directly", [
+            "Māra's follow-up doesn't simply accept Sīsupacālā's "
+            "answer; he presses what looks like an inconsistency "
+            "&mdash; if she approves no creed, why does she look like "
+            "an ascetic at all, wandering &lsquo;as if lost&rsquo;? "
+            "&mdash; a pointed challenge assuming her stated position "
+            "cannot coherently explain her own visible commitment."]),
+        ("A distinction, not a retraction", [
+            "Sīsupacālā's reply doesn't walk back her original claim; "
+            "it sharpens it, explaining that &lsquo;followers of other "
+            "creeds&rsquo; are confident in views she finds unconvincing "
+            "because they are &lsquo;no experts in the Dhamma&rsquo; "
+            "&mdash; her rejection was never blanket in the sense Māra's "
+            "challenge assumed."]),
+        ("One teacher named, with a title tied to this saṃyutta's own theme", [
+            "Among several titles she gives the Buddha &mdash; "
+            "unrivaled, champion, everywhere undefeated, everywhere "
+            "freed &mdash; one stands out for this particular "
+            "saṃyutta: &lsquo;dispeller of Māra&rsquo; (māranudo), an "
+            "epithet naming exactly the "
+            "confrontation this entire collection has been staging, "
+            "spoken here by one of the very women carrying it out "
+            "herself."]),
+        ("A trio's close, if the traditional sibling reading holds", [
+            "If SN 5.6, SN 5.7, and this discourse are indeed read as a "
+            "connected set of sisters, as tradition holds outside the "
+            "sutta text itself, this closing discourse completes a "
+            "progression: general rejection of rebirth (Cālā), refusal "
+            "of every offered alternative (Upacālā), and finally a "
+            "positive statement of exactly where her actual commitment "
+            "lies (Sīsupacālā)."]),
+    ],
+    terms=[
+        ("Sīsupacālā",
+         "&ldquo;Sīsupacālā&rdquo; &mdash; the nun this discourse "
+         "follows, traditionally identified alongside Cālā and "
+         "Upacālā as sisters, though the discourses themselves do not "
+         "state this directly."),
+        ("pāsaṇḍa",
+         "&ldquo;creed&rdquo; &mdash; the term both Māra's question and "
+         "Sīsupacālā's answer turn on, naming sectarian doctrine "
+         "specifically."),
+        ("dhammassa akovidā",
+         "&ldquo;no experts in the Dhamma&rdquo; &mdash; Sīsupacālā's "
+         "specific criticism of other creeds' followers, explaining "
+         "rather than retracting her rejection."),
+        ("māranudo",
+         "&ldquo;dispeller of Māra&rdquo; &mdash; one of the titles "
+         "Sīsupacālā gives the Buddha, naming exactly the confrontation "
+         "this saṃyutta stages throughout."),
+        ("sakyakule jāto",
+         "&ldquo;born in the Sakyan clan&rdquo; &mdash; how Sīsupacālā "
+         "identifies the one teacher whose instruction she does "
+         "approve."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's challenge to her religious "
+        "identity and Sīsupacālā's resolving verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.8:1.1-1.6"),
+        ("p", "&sect;2", "sn5.8:2.1-2.4"),
+        ("p", "&sect;3", "sn5.8:3.1-3.4"),
+        ("p", "&sect;4", "sn5.8:4.1-5.6"),
+        ("p", "&sect;5", "sn5.8:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What does Māra's question in this discourse target, unlike his other tactics in this saṃyutta?",
+         "opts": [
+             "Religious identity and allegiance, rather than fear, grief, or desire",
+             "Her physical safety alone",
+             "Her capacity for wisdom",
+             "Her grief over a past loss"],
+         "correct": 0,
+         "expl": "A question of authority and affiliation, distinct from this saṃyutta's more common tactics."},
+        {"q": "How does Sīsupacālā initially answer Māra's question?",
+         "opts": [
+             "That she doesn't approve anyone's creed",
+             "That she approves every creed equally",
+             "By refusing to answer at all",
+             "By naming a specific rival teacher she follows"],
+         "correct": 0,
+         "expl": "A blunt initial answer that Māra immediately presses further."},
+        {"q": "What apparent contradiction does Māra raise?",
+         "opts": [
+             "If she approves no creed, why does she look like an ascetic and wander “as if lost”?",
+             "A claim that she has broken a specific monastic rule",
+             "A claim that she secretly still desires marriage",
+             "A claim that her fellow nuns disapprove of her"],
+         "correct": 0,
+         "expl": "Assuming her stated position cannot coherently explain her visible commitment."},
+        {"q": "How does Sīsupacālā resolve this apparent contradiction?",
+         "opts": [
+             "By distinguishing sectarian creeds in general from the Buddha's teaching specifically, as an exception",
+             "By admitting Māra is correct and abandoning her position",
+             "By denying she is actually an ascetic",
+             "By refusing to engage with the challenge further"],
+         "correct": 0,
+         "expl": "Sharpening her original claim rather than retracting it."},
+        {"q": "What criticism does she give of other creeds' followers?",
+         "opts": [
+             "That they are confident in views but are “no experts in the Dhamma”",
+             "That they are physically weak",
+             "That they lack sufficient wealth",
+             "That they are too young to understand"],
+         "correct": 0,
+         "expl": "A specific criticism explaining the basis of her general rejection."},
+        {"q": "What title does she give the Buddha that connects directly to this saṃyutta's overall theme?",
+         "opts": [
+             "“Dispeller of Māra”",
+             "“Lord of the Sky”",
+             "“Keeper of the Grove”",
+             "No title connects to this saṃyutta's theme"],
+         "correct": 0,
+         "expl": "Naming exactly the confrontation this entire collection has been staging, spoken by one of the women carrying it out."},
+        {"q": "How does the reading guide describe the traditional progression across SN 5.6, 5.7, and this discourse?",
+         "opts": [
+             "General rejection of rebirth, refusal of every alternative, then a positive statement of actual commitment",
+             "Three entirely unrelated challenges with no connecting theme",
+             "A gradual weakening of resolve across the three discourses",
+             "Three identical challenges answered identically"],
+         "correct": 0,
+         "expl": "If the traditional sibling reading holds, a coherent progression across the three discourses."},
+        {"q": "How is the relationship between these three nuns described by the sutta texts themselves?",
+         "opts": [
+             "Not stated directly; the sibling relationship is a traditional identification outside the texts",
+             "Explicitly stated as sisters within each discourse",
+             "Explicitly denied as any relationship at all",
+             "Stated as teacher and students"],
+         "correct": 0,
+         "expl": "A distinction the reading guide maintains between sutta content and later tradition."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a tree, for the day's meditation",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same general setting shared with several other discourses in this saṃyutta."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Sīsupacālā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("Whose creed? Asked directly", [
+            "identity itself the target now &mdash;",
+            "not fear, not grief, not desire",
+        ]),
+        ("Why shave your head, then?", [
+            "an apparent contradiction pressed &mdash;",
+            "sharpened, not retracted, in reply",
+        ]),
+        ("No experts in the Dhamma", [
+            "other creeds found wanting, specifically &mdash;",
+            "the rejection was never blanket",
+        ]),
+        ("Dispeller of Māra, named directly", [
+            "the very confrontation this book stages &mdash;",
+            "spoken by one who carries it out herself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.7.html">SN 5.7 &middot; With Upacālā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.9.html">SN 5.9 &middot; With Selā</a> &mdash; '
+        "the next discourse in this saṃyutta.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 5.9 — Selāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 9, "Selā", "With Selā",
+    meta_title="SN 5.9 — With Selā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Selāsutta — asked who made this puppet and where it came from, "
+        "a nun answers with dependent origination itself, comparing the "
+        "aggregates to a seed that only grows given the right "
+        "conditions. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the root of a tree, for the day's "
+                    "meditation"),
+        ("Speakers", "The nun Selā and Māra the Wicked"),
+        ("Form", "A riddle about origin and maker, answered with causal "
+                 "reasoning and an agricultural simile"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "doctrinally dense riddle, best read alongside "
+                       "its close companion at SN 5.10"),
+    ],
+    why=(
+        "Māra's riddle here doesn't threaten, mock, or tempt; it asks a "
+        "philosophical question outright: who made this puppet, where "
+        "is its maker, where has it arisen, and where does it cease? "
+        "&mdash; a challenge aimed at finding some creator or fixed "
+        "origin behind conditioned existence. Selā's reply refuses both "
+        "options the riddle assumes: the puppet is neither self-made "
+        "nor made by another, but arises because of a cause and ceases "
+        "when that cause breaks up, illustrated by a seed that grows "
+        "only given the right soil and moisture."),
+    guide=[
+        ("A philosophical riddle, not a threat or temptation", [
+            "Unlike most confrontations in this saṃyutta, Māra's "
+            "opening move here carries no emotional charge at all "
+            "&mdash; no fear, grief, or desire invoked, just a direct "
+            "metaphysical question about origins, closer to a "
+            "philosophical challenge than an attempt to disturb her "
+            "meditation."]),
+        ("A riddle assuming a false choice", [
+            "The question &lsquo;who created this puppet, where is its "
+            "maker&rsquo; assumes some external creator must exist for "
+            "the puppet to have come about at all &mdash; the very "
+            "premise Selā's reply refuses before offering any "
+            "alternative explanation."]),
+        ("Neither self-made nor made by another", [
+            "Selā's opening line rejects both horns of a common "
+            "philosophical dilemma explicitly: not self-caused, not "
+            "caused by an external agent, but &lsquo;because of a "
+            "cause&rsquo; in a more specific, conditional sense "
+            "&mdash; existence dependent on conditions rather than "
+            "traceable to any single maker."]),
+        ("A seed needing soil and moisture, not a maker", [
+            "The verse's central simile replaces the search for a "
+            "creator with an image of conditions: a seed sown in a "
+            "field grows only given the soil's nutrients and moisture "
+            "together, neither factor alone sufficient &mdash; a model "
+            "of arising through combined conditions rather than single "
+            "causation."]),
+        ("The same reasoning applied to the whole of experience", [
+            "The verse's final stanza extends the seed simile beyond "
+            "the puppet riddle's original scope to the aggregates, "
+            "elements, and six sense fields together &mdash; the "
+            "entirety of conditioned experience explained by the same "
+            "principle of dependent arising and cessation, not merely "
+            "the specific image Māra first proposed."]),
+    ],
+    terms=[
+        ("bimba",
+         "&ldquo;puppet, image&rdquo; &mdash; Māra's own term for the "
+         "riddle's subject, asking who made it and where it arose."),
+        ("attakata parakata",
+         "&ldquo;self-made&hellip;made by another&rdquo; &mdash; the "
+         "two options Selā's reply rejects before offering a third."),
+        ("hetuṁ paṭicca sambhūtaṁ",
+         "&ldquo;comes to be because of a cause&rdquo; &mdash; Selā's "
+         "actual explanation, replacing the search for a maker with "
+         "conditional arising."),
+        ("hetubhaṅgā nirujjhati",
+         "&ldquo;ceases when the cause breaks up&rdquo; &mdash; the "
+         "corresponding account of cessation, matching the verse's "
+         "account of arising."),
+        ("khandhā dhātuyo āyatanā",
+         "&ldquo;the aggregates and elements and these six sense "
+         "fields&rdquo; &mdash; the verse's closing extension of the "
+         "seed simile's logic to the whole of conditioned experience."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's riddle about the puppet's "
+        "origin and Selā's answer through dependent arising and the "
+        "seed simile. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.9:1.1-1.5"),
+        ("p", "&sect;2", "sn5.9:2.1-2.4"),
+        ("p", "&sect;3", "sn5.9:3.1-3.5"),
+        ("p", "&sect;4", "sn5.9:4.1-6.4"),
+        ("p", "&sect;5", "sn5.9:7.1-7.1"),
+    ],
+    quiz=[
+        {"q": "What kind of challenge does Māra pose in this discourse, unlike most others in this saṃyutta?",
+         "opts": [
+             "A philosophical riddle about origins, with no fear, grief, or desire invoked",
+             "A direct romantic overture",
+             "A mocking taunt about her physical appearance",
+             "A threat involving a frightening manifestation"],
+         "correct": 0,
+         "expl": "Closer to a metaphysical challenge than an attempt to disturb her emotionally."},
+        {"q": "What does Māra's riddle ask?",
+         "opts": [
+             "Who made this puppet, where is its maker, where has it arisen, and where does it cease",
+             "Whether Selā fears death",
+             "Whether she approves any religious creed",
+             "Where she wishes to be reborn"],
+         "correct": 0,
+         "expl": "A question aimed at finding some creator or fixed origin behind conditioned existence."},
+        {"q": "What false choice does the riddle assume, according to the reading guide?",
+         "opts": [
+             "That some external creator must exist for the puppet to have come about",
+             "That the puppet does not actually exist at all",
+             "That only women can answer such riddles",
+             "That the puppet was created before time began"],
+         "correct": 0,
+         "expl": "The very premise Selā's reply refuses before offering an alternative."},
+        {"q": "How does Selā's opening line respond to this assumption?",
+         "opts": [
+             "Rejecting both self-made and made-by-another, offering a third option instead",
+             "Agreeing that it must be self-made",
+             "Agreeing that it must be made by another",
+             "Refusing to answer the question at all"],
+         "correct": 0,
+         "expl": "Rejecting both horns of the dilemma explicitly."},
+        {"q": "What does Selā offer instead of a maker?",
+         "opts": [
+             "Arising because of a cause, ceasing when that cause breaks up",
+             "A claim that the puppet has always existed unchanged",
+             "A claim that the question is meaningless and should be ignored",
+             "An appeal to the Buddha's authority alone"],
+         "correct": 0,
+         "expl": "Conditional arising and cessation, replacing the search for a single maker."},
+        {"q": "What simile does the verse use to illustrate this?",
+         "opts": [
+             "A seed sown in a field, growing only given soil and moisture together",
+             "A river flowing without any source",
+             "A fire that burns without fuel",
+             "A bird that flies without wings"],
+         "correct": 0,
+         "expl": "A model of arising through combined conditions, not single causation."},
+        {"q": "What does the verse's final stanza extend this reasoning to?",
+         "opts": [
+             "The aggregates, elements, and six sense fields — the whole of conditioned experience",
+             "Only the specific puppet Māra originally asked about",
+             "Only questions about physical objects, not experience",
+             "The verse does not extend the reasoning any further"],
+         "correct": 0,
+         "expl": "The same principle of dependent arising and cessation applied beyond the original riddle."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the root of a tree, for the day's meditation",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same general setting shared with several other discourses in this saṃyutta."},
+        {"q": "What two factors does the seed need to grow, according to the simile?",
+         "opts": [
+             "The soil's nutrients and moisture, together",
+             "Sunlight and darkness, alternating",
+             "Wind and stillness",
+             "Only water is mentioned"],
+         "correct": 0,
+         "expl": "Neither factor alone sufficient, illustrating combined conditions."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Selā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name."},
+    ],
+    marginalia=[
+        ("Who made this puppet?", [
+            "no fear invoked, just a riddle &mdash;",
+            "closer to philosophy than threat",
+        ]),
+        ("Neither self-made, nor by another", [
+            "both options refused at once &mdash;",
+            "a third path offered instead",
+        ]),
+        ("A seed, needing soil and water", [
+            "no single maker required &mdash;",
+            "conditions combined, not one cause",
+        ]),
+        ("Extended to all experience", [
+            "aggregates, elements, six fields &mdash;",
+            "the same logic, applied wholesale",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.8.html">SN 5.8 &middot; With Sīsupacālā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-5.10.html">SN 5.10 &middot; With Vajirā</a> '
+        "&mdash; this discourse's close companion and this saṃyutta's "
+        "closing discourse, developing the same reasoning further.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 5.10 — Vajirāsutta
+# --------------------------------------------------------------------------- #
+page(
+    5, 10, "Vajirā", "With Vajirā",
+    meta_title="SN 5.10 — With Vajirā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Vajirāsutta — one of this canon's single most famous "
+        "teachings: just as 'chariot' names an assembly of parts, "
+        "'sentient being' is only a convention for the aggregates. "
+        "Closes the Bhikkhunīsaṃyutta. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Dark Forest, at the root of a "
+                    "tree"),
+        ("Speakers", "The nun Vajirā and Māra the Wicked"),
+        ("Form", "A riddle nearly identical to SN 5.9's, answered by "
+                 "this canon's most famous simile for non-self"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of the single most quoted passages in the "
+                       "entire Pali canon"),
+    ],
+    why=(
+        "This discourse closes the Bhikkhunīsaṃyutta with what may be "
+        "the single most quoted philosophical passage in the entire "
+        "canon. Māra asks almost the same riddle posed at SN 5.9, now "
+        "about a &lsquo;sentient being&rsquo; rather than a puppet: who "
+        "made it, where did it arise, where does it cease? Vajirā's "
+        "reply doesn't merely answer the question; it dismantles its "
+        "premise by name, comparing &lsquo;sentient being&rsquo; to "
+        "&lsquo;chariot&rsquo; &mdash; a word for an assembly of parts, "
+        "not a thing referred to independently of them &mdash; before "
+        "closing with a line stripping the entire discussion down to "
+        "its barest possible terms: only suffering comes to be, only "
+        "suffering ceases."),
+    guide=[
+        ("A near-repeat of SN 5.9's riddle, with the terms sharpened", [
+            "This discourse's opening question is structurally "
+            "identical to SN 5.9's &mdash; who made it, where is the "
+            "maker, where does it arise, where does it cease &mdash; "
+            "but shifts its subject from &lsquo;puppet&rsquo; to "
+            "&lsquo;sentient being&rsquo; specifically, escalating the "
+            "riddle's stakes from an abstract image to personal "
+            "identity itself."]),
+        ("A question turned back as a diagnosis", [
+            "Vajirā's reply opens by naming Māra's own question as "
+            "itself the problem: &lsquo;why do you believe there's such "
+            "a thing as a sentient being&hellip; is this your "
+            "theory?&rsquo; &mdash; treating the assumption embedded in "
+            "his question, not merely its content, as what needs "
+            "addressing."]),
+        ("The chariot simile: this canon's most famous analogy for non-self", [
+            "&lsquo;When the parts are assembled we use the word "
+            "&lsquo;chariot&rsquo;; so too, when the aggregates are "
+            "present, &lsquo;sentient being&rsquo; is the convention we "
+            "use&rsquo; states directly that personhood is a "
+            "linguistic convenience for describing a temporary "
+            "configuration, not a name for some further thing standing "
+            "behind or beneath that configuration."]),
+        ("A resonance with this site's Madhyamaka translations", [
+            "This same chariot analogy for conventional designation "
+            "recurs across later Buddhist philosophical literature, "
+            "including the Madhyamaka tradition already represented "
+            "elsewhere on this site &mdash; a continuity between this "
+            "early canonical source and centuries of subsequent "
+            "philosophical elaboration on the same basic insight."]),
+        ("Only suffering arises, only suffering ceases: the closing reduction", [
+            "The verse's final stanza pushes past even the chariot "
+            "simile's conventional-designation framing to something "
+            "starker: &lsquo;naught but suffering comes to be, naught "
+            "but suffering ceases&rsquo; &mdash; the entire discussion "
+            "of what a person is reduced to a claim about what "
+            "actually arises and passes, closing both this discourse "
+            "and the Bhikkhunīsaṃyutta as a whole on its own translated "
+            "colophon."]),
+    ],
+    terms=[
+        ("satta",
+         "&ldquo;sentient being&rdquo; &mdash; Māra's riddle subject, "
+         "escalated from SN 5.9's more abstract &lsquo;puppet&rsquo;."),
+        ("diṭṭhigata",
+         "&ldquo;theory&rdquo; &mdash; Vajirā's own term for the "
+         "assumption embedded in Māra's question, named directly as "
+         "the actual problem."),
+        ("suddhasaṅkhārapuñja",
+         "&ldquo;a pile of conditions&rdquo; (literally, a mere heap "
+         "of formations) &mdash; Vajirā's description of what is "
+         "actually present where Māra assumes a being."),
+        ("ratho",
+         "&ldquo;chariot&rdquo; &mdash; the verse's central analogy, a "
+         "word naming an assembly of parts rather than a separate "
+         "thing behind them."),
+        ("dukkhameva",
+         "&ldquo;only suffering&rdquo; &mdash; the verse's closing "
+         "reduction, naming what actually arises and ceases once the "
+         "language of &lsquo;being&rsquo; is set aside."),
+    ],
+    text_intro=(
+        "The discourse in full, closing on the collection's own "
+        "translated colophon, quoted here verbatim following the same "
+        "practice used at SN 1.81, SN 2.30, and SN 4.25. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn5.10:1.1-1.5"),
+        ("p", "&sect;2", "sn5.10:2.1-2.4"),
+        ("p", "&sect;3", "sn5.10:3.1-3.5"),
+        ("p", "&sect;4", "sn5.10:4.1-6.4"),
+        ("p", "&sect;5", "sn5.10:7.1-7.1"),
+        ("p", "&sect;6", "sn5.10:8.6-8.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening riddle compare to SN 5.9's?",
+         "opts": [
+             "Structurally identical, but shifting the subject from “puppet” to “sentient being”",
+             "Completely unrelated in form",
+             "Answered without any verse at all",
+             "Posed by Vajirā to Māra, reversing the usual roles"],
+         "correct": 0,
+         "expl": "Escalating the riddle's stakes from an abstract image to personal identity itself."},
+        {"q": "How does Vajirā's reply begin?",
+         "opts": [
+             "By naming Māra's own question as the actual problem: “is this your theory?”",
+             "By directly answering who made the sentient being",
+             "By refusing to engage with the riddle at all",
+             "By asking the Buddha to answer on her behalf"],
+         "correct": 0,
+         "expl": "Treating the assumption embedded in Māra's question as what needs addressing."},
+        {"q": "What does the chariot simile claim?",
+         "opts": [
+             "That “sentient being” is a convention for the aggregates, just as “chariot” names assembled parts",
+             "That chariots and sentient beings are entirely unrelated concepts",
+             "That only chariots, not people, are conventional designations",
+             "That the word “chariot” has no clear meaning at all"],
+         "correct": 0,
+         "expl": "Personhood as a linguistic convenience for a configuration, not a name for something further behind it."},
+        {"q": "Where does this same chariot analogy recur, according to the reading guide?",
+         "opts": [
+             "Across later Buddhist philosophical literature, including the Madhyamaka tradition",
+             "Nowhere else in Buddhist literature",
+             "Only in other discourses attributed to Vajirā herself",
+             "Only in non-Buddhist philosophical schools"],
+         "correct": 0,
+         "expl": "A continuity between this early canonical source and centuries of subsequent philosophical elaboration."},
+        {"q": "What does the verse's closing stanza reduce the discussion to?",
+         "opts": [
+             "Only suffering comes to be, only suffering ceases",
+             "Only pleasure comes to be, only pleasure ceases",
+             "A claim that nothing at all exists in any sense",
+             "A return to the original question, left unanswered"],
+         "correct": 0,
+         "expl": "Pushing past even the conventional-designation framing to a starker claim about what actually arises and passes."},
+        {"q": "What term does Vajirā use for what is actually present where Māra assumes a being?",
+         "opts": [
+             "A pile of conditions (suddhasaṅkhārapuñja)",
+             "A permanent, unchanging soul",
+             "Nothing whatsoever, not even conditions",
+             "A divine spark placed by a creator"],
+         "correct": 0,
+         "expl": "A mere heap of formations, not a separate underlying entity."},
+        {"q": "How does this discourse, and the entire Bhikkhunīsaṃyutta, close?",
+         "opts": [
+             "With the translated colophon: “The Linked Discourses on Nuns are completed”",
+             "With Māra vowing further pursuit",
+             "With no formal closing at all",
+             "With a debate among all ten nuns featured in this saṃyutta"],
+         "correct": 0,
+         "expl": "The same translated-colophon practice used at SN 1.81, SN 2.30, and SN 4.25."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in the Dark Forest, at the root of a tree",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "In Sakyan territory, near Silāvatī"],
+         "correct": 0,
+         "expl": "The same setting shared with several other discourses in this saṃyutta, including SN 5.1."},
+        {"q": "How does the reading guide characterize this discourse's overall significance?",
+         "opts": [
+             "As possibly the single most quoted philosophical passage in the entire canon",
+             "As a minor, rarely referenced discourse",
+             "As primarily significant only for its narrative details",
+             "As contradicting this collection's other teachings"],
+         "correct": 0,
+         "expl": "The chariot simile's enduring influence across Buddhist philosophical history."},
+        {"q": "How does Māra's closing thought in this discourse read?",
+         "opts": [
+             "“The nun Vajirā knows me”",
+             "“The Buddha knows me”",
+             "Māra has no closing thought in this discourse",
+             "“The mendicant Samiddhi knows me”"],
+         "correct": 0,
+         "expl": "Following this saṃyutta's pattern of crediting the specific nun by name, closing the collection on this same formula."},
+    ],
+    marginalia=[
+        ("The same riddle, sharpened", [
+            "puppet becomes sentient being now &mdash;",
+            "personal identity itself at stake",
+        ]),
+        ("Is this your theory, Māra?", [
+            "the question itself diagnosed &mdash;",
+            "not merely answered, but examined",
+        ]),
+        ("Chariot, from assembled parts", [
+            "the canon's most famous analogy &mdash;",
+            "convention, not a hidden thing beneath",
+        ]),
+        ("Only suffering, arising and gone", [
+            "the discussion reduced to its bones &mdash;",
+            "the Bhikkhunīsaṃyutta's own close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn5.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-5.9.html">SN 5.9 &middot; With Selā</a> &mdash; '
+        "the discourse immediately before this one, posing a nearly "
+        "identical riddle.",
+        '<a href="sn-4.25.html">SN 4.25 &middot; Māra&rsquo;s '
+        "Daughters</a> &mdash; the earlier saṃyutta's own closing "
+        "colophon, matching this one's practice.",
+        '<a href="sn-5.1.html">SN 5.1 &middot; With Āḷavikā</a> '
+        "&mdash; the discourse opening this saṃyutta, nine discourses "
+        "back.",
+    ],
+)
