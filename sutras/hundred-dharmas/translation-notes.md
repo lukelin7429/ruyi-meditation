@@ -13,6 +13,14 @@ These notes record recurring translation decisions for the Ru-Yi English transla
 
 T1614's colophon reads 天親菩薩造 ("composed by Bodhisattva Tiānqīn"); T1612's reads 世親菩薩造 ("composed by Bodhisattva Shìqīn"). Both are Vasubandhu — 天親 is the older transliteration, 世親 the newer rendering Xuánzàng generally preferred and which this site uses elsewhere (*Viṃśatikā*, *Madhyāntavibhāga*, the *Abhidharmasamuccaya*'s root author's brother). The same Taishō volume carries both names for the identical historical person. We translate both as "Vasubandhu" in running English prose and note the Chinese variant where the colophon itself is quoted.
 
+## Reading-note sourcing
+
+Per this site's commentator-vetting convention (see the note on `sutra-translation-page-conventions` for the copyright-clearance rule behind it), reading notes should be grounded in a named commentator wherever one exists, rather than presented as unattributed analysis. This collection uses three different sources, one per part, because the three texts sit at three different points in the commentarial chain:
+
+- **Part 1** (T1614): "Reading note — after Kuījī," drawing on 窺基's 大乘百法明門論解 (T1836, annotated by Kuījī, 632–682, with a Ming-dynasty revision by 普泰) — a dedicated commentary on exactly this text, matching the precedent already set for Kuījī on this site's *Viṃśatikā* pages. Both authors are many centuries past any copyright concern.
+- **Part 2** (T1612): "Reading note — after Sthiramati," treating T1613 itself as T1612's commentary — which is what it actually is: Sthiramati's own clause-by-clause expansion of Vasubandhu's shorter text, adding etymologies, function clauses, and citations T1612 omits. No further external commentary was needed or used.
+- **Part 3** (T1613): "Reading note — Ru-Yi Meditation Center." T1613 is already commentary-tier writing; no dedicated sub-commentary on it was found in the source library, so its own reading notes are the translator's own analysis, not attributed to a named patriarch. This matches the labeling already used on this site's *Ālambanaparīkṣā* (T1624) page, which carries the same honest attribution for the same reason.
+
 ## Structure
 
 | Part | Text | Length | Author | Translator |
