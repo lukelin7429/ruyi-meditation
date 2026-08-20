@@ -43743,3 +43743,2645 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.1 — Nikkhantasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 1, "Nikkhanta", "Renounced",
+    meta_title="SN 8.1 — Renounced | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nikkhantasutta — opening Vaṅgīsasaṃyutta, a young monk "
+        "left alone to guard the dwelling feels lust arise at the "
+        "sight of visiting women, and talks himself back to steadiness "
+        "through his own spontaneous verse. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Āḷavī's premier shrine, near Āḷavī"),
+        ("Speakers", "Venerable Vaṅgīsa, alone"),
+        ("Form", "A first-person account of temptation, self-diagnosis, "
+                 "and spontaneous verse"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "an intimate, self-reflective opening to a new "
+                       "saṃyutta"),
+    ],
+    why=(
+        "This discourse opens an entirely new kind of saṃyutta: where "
+        "the previous seven each gathered many different speakers "
+        "encountering the Buddha, Vaṅgīsasaṃyutta follows a single "
+        "recurring figure, the monk Vaṅgīsa, celebrated in the canon "
+        "for his gift of spontaneous verse. Here he's still junior, "
+        "left alone to guard the dwelling while his mentor is away, "
+        "when a group of finely dressed women arrive to view the "
+        "monastery and lust unexpectedly takes hold of his mind. What "
+        "makes this discourse distinctive isn't the temptation itself "
+        "but his response to it: rather than seeking help from anyone "
+        "else, Vaṅgīsa resolves on the spot to dispel his own "
+        "discontent himself, and does so through verse composed in "
+        "the moment."),
+    guide=[
+        ("A new kind of saṃyutta, built around one recurring figure", [
+            "Vaṅgīsasaṃyutta breaks from every pattern established so "
+            "far in this collection; rather than a parade of "
+            "different visitors encountering the Buddha, it follows "
+            "one monk across a series of moments in his own practice, "
+            "beginning here while he's still a junior left alone with "
+            "a real temptation."]),
+        ("Vulnerability stated without evasion", [
+            "Vaṅgīsa doesn't minimize what's happening to him; he "
+            "names it directly &mdash; dissatisfaction, lust infecting "
+            "his mind &mdash; and immediately assesses it as his own "
+            "loss and misfortune, no softer language standing between "
+            "him and the honest diagnosis."]),
+        ("A deliberate choice to rely on no one else", [
+            "The pivotal line isn't the temptation itself but "
+            "Vaṅgīsa's own question &mdash; how could someone else "
+            "possibly dispel this for me? &mdash; followed immediately "
+            "by his decision to do it himself, a self-reliance this "
+            "reading guide notes as the discourse's real subject."]),
+        ("Verse as the actual method, not just the record", [
+            "The verses aren't a summary composed after the fact; the "
+            "text presents them as the very act of dispelling his own "
+            "discontent &mdash; Vaṅgīsa doesn't calm himself and then "
+            "compose a poem about it, he calms himself by composing "
+            "it."]),
+        ("A defiant closing address to Māra by name", [
+            "The final stanza doesn't end on quiet resolve alone; it "
+            "turns to address Māra directly &mdash; called both "
+            "&lsquo;Wicked One&rsquo; and &lsquo;Death&rsquo; in the "
+            "same breath &mdash; with an outright challenge that he "
+            "won't even find the path Vaṅgīsa is walking."]),
+    ],
+    terms=[
+        ("anabhirati uppajjati, rāgo cittaṁ anuddhaṁseti",
+         "&ldquo;dissatisfaction arose, with lust infecting his "
+         "mind&rdquo; &mdash; Vaṅgīsa's own honest naming of what's "
+         "happening to him."),
+        ("yannūnāhaṁ attanāva attano anabhiratiṁ vinodetvā",
+         "&ldquo;why don't I do it myself&rdquo; &mdash; the pivotal "
+         "decision to rely on no one else."),
+        ("vitakkā upadhāvanti pagabbhā kaṇhato",
+         "&ldquo;I'm overrun by the rude thoughts of the Dark "
+         "One&rdquo; &mdash; naming the source of the temptation as "
+         "Māra's influence."),
+        ("dhamme samhi patiṭṭhitaṁ",
+         "&ldquo;for I stand firm in the teaching&rdquo; &mdash; "
+         "Vaṅgīsa's stated ground of stability against the "
+         "disturbance."),
+        ("tathā maccu karissāmi, na me maggampi dakkhasī",
+         "&ldquo;I'll make sure that you, Death, won't even see the "
+         "path I take&rdquo; &mdash; the verse's closing, defiant "
+         "address to Māra by name."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Vaṅgīsasaṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.1:1.1-1.10"),
+        ("p", "&sect;2", "sn8.1:2.1-2.4"),
+        ("p", "&sect;3", "sn8.1:3.1-3.4"),
+        ("p", "&sect;4", "sn8.1:4.1-4.4"),
+        ("p", "&sect;5", "sn8.1:5.1-5.4"),
+        ("p", "&sect;6", "sn8.1:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does Vaṅgīsasaṃyutta differ structurally from the previous seven saṃyuttas in this collection?",
+         "opts": [
+             "It follows one recurring monk across a series of moments, rather than many different visitors",
+             "It has no verses at all, only prose",
+             "It features no named individuals whatsoever",
+             "It is structured identically to Brāhmaṇasaṃyutta"],
+         "correct": 0,
+         "expl": "A new kind of saṃyutta built around a single figure's ongoing practice."},
+        {"q": "What situation prompts Vaṅgīsa's inner struggle in this discourse?",
+         "opts": [
+             "He is left alone to guard the dwelling and sees finely dressed women arrive",
+             "He is publicly insulted by a brahmin",
+             "He is challenged to a debate by Māra directly",
+             "He loses his way while traveling"],
+         "correct": 0,
+         "expl": "An unexpected temptation arising while alone, not a confrontation with another person."},
+        {"q": "How does Vaṅgīsa initially describe what has happened to him?",
+         "opts": [
+             "Directly, as dissatisfaction and lust infecting his mind, calling it his own loss",
+             "He denies anything is wrong at all",
+             "He blames the women entirely",
+             "He describes it only in vague, indirect terms"],
+         "correct": 0,
+         "expl": "Naming the difficulty honestly rather than softening or evading it."},
+        {"q": "What is the pivotal decision Vaṅgīsa makes?",
+         "opts": [
+             "To dispel his own discontent himself, rather than seeking anyone else's help",
+             "To leave the monastery immediately",
+             "To confront the women directly",
+             "To wait for his mentor to return and ask for guidance"],
+         "correct": 0,
+         "expl": "Self-reliance as the discourse's real subject."},
+        {"q": "How do the verses function within the discourse's own account?",
+         "opts": [
+             "They are presented as the actual act of dispelling his discontent, not a later summary",
+             "They are composed only after his mind had already calmed down",
+             "They are recited by someone else on his behalf",
+             "They play no functional role in resolving his difficulty"],
+         "correct": 0,
+         "expl": "Composing the verse is itself how he calms himself, not a record made afterward."},
+        {"q": "Who does Vaṅgīsa address directly in the closing stanza?",
+         "opts": [
+             "Māra, called both \"Wicked One\" and \"Death\"",
+             "The women who visited the monastery",
+             "His mentor, Nigrodhakappa",
+             "The Buddha himself"],
+         "correct": 0,
+         "expl": "A direct, defiant challenge closing the verse sequence."},
+        {"q": "What does Vaṅgīsa claim about even a thousand archers surrounding him?",
+         "opts": [
+             "He would never flee",
+             "He would immediately surrender",
+             "He would ask them to leave",
+             "The verse does not mention any archers"],
+         "correct": 0,
+         "expl": "A vivid image establishing his resolve before addressing the actual temptation he faced."},
+        {"q": "What does Vaṅgīsa credit as the source of his stability?",
+         "opts": [
+             "What he heard directly from the Buddha about the path to extinguishment",
+             "His own natural willpower alone",
+             "Advice from his mentor Nigrodhakappa",
+             "A specific ritual practice"],
+         "correct": 0,
+         "expl": "Standing firm in the teaching he heard with his own ears from the Buddha."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Āḷavī's premier shrine, near Āḷavī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The setting for this and the discourse immediately following it."},
+        {"q": "What is Vaṅgīsa's role or standing at the time of this discourse?",
+         "opts": [
+             "Junior, recently gone forth, left to guard the dwelling alone",
+             "A senior elder already renowned for his verse",
+             "A layperson not yet ordained",
+             "The abbot of the monastery"],
+         "correct": 0,
+         "expl": "Still early in his monastic life, facing a real test rather than teaching from established mastery."},
+    ],
+    marginalia=[
+        ("A temptation named honestly", [
+            "no softening, no evasion &mdash;",
+            "\"my own loss and misfortune,\" stated plainly",
+        ]),
+        ("Help sought from no one else", [
+            "\"why don't I do it myself\" &mdash;",
+            "the discourse's real turning point",
+        ]),
+        ("Verse as the method, not the record", [
+            "composed in the very act of steadying &mdash;",
+            "not a poem written after calm returned",
+        ]),
+        ("A challenge spoken straight to Death", [
+            "\"you won't even see the path I take\" &mdash;",
+            "defiance closing the sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.22.html">SN 7.22 &middot; At Khomadussa</a> '
+        "&mdash; the discourse closing Brāhmaṇasaṃyutta, immediately "
+        "before this one.",
+        '<a href="sn-8.2.html">SN 8.2 &middot; Dissatisfaction</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.2 — Aratīsutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 2, "Aratī", "Dissatisfaction",
+    meta_title="SN 8.2 — Dissatisfaction | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aratīsutta — left alone again while his mentor withdraws "
+        "into seclusion, Vaṅgīsa faces the same discontent as before "
+        "and composes a longer, more developed verse in response. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Āḷavī's premier shrine, near Āḷavī"),
+        ("Speakers", "Venerable Vaṅgīsa, alone"),
+        ("Form", "A near-repeat of SN 8.1's opening, developing into a "
+                 "longer, five-stanza verse"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a familiar situation met with a more developed "
+                       "response"),
+    ],
+    why=(
+        "This discourse opens on almost exactly the same note as SN "
+        "8.1: Vaṅgīsa alone, his mentor Nigrodhakappa withdrawn into "
+        "seclusion for the day, and discontent with lust arising in "
+        "his mind. The narrative frame repeats nearly word for word "
+        "&mdash; the same self-diagnosis, the same refusal to seek "
+        "outside help, the same resolve to dispel it himself. What "
+        "differs is the verse he produces this time: five stanzas "
+        "rather than one discourse's worth of brief defiance, moving "
+        "from a definition of what makes a real mendicant through "
+        "impermanence, non-attachment, and a rejection of sectarian "
+        "views, to a closing portrait of the settled sage awaiting his "
+        "own time."),
+    guide=[
+        ("A near-identical setup to SN 8.1, with one key variable changed", [
+            "The opening narration repeats SN 8.1's structure closely "
+            "&mdash; discontent, self-diagnosis, resolution to handle "
+            "it alone &mdash; but the trigger changes from visiting "
+            "women to his mentor's simple withdrawal into "
+            "seclusion, suggesting the underlying struggle recurs "
+            "regardless of its immediate occasion."]),
+        ("A definition of \"real mendicant\" opening the verse", [
+            "Rather than starting with defiance as SN 8.1 did, this "
+            "verse opens with a positive definition: someone who has "
+            "given up both desire and discontent, along with all "
+            "domestic thoughts, and doesn't get entangled in "
+            "anything &mdash; a mendicant defined by absence of "
+            "snarl rather than by victory over an opponent."]),
+        ("Impermanence extended across the entire physical world", [
+            "The second stanza doesn't limit its claim to personal "
+            "experience; it names everything included in form "
+            "&mdash; on earth, in the sky, in the planet's depths "
+            "&mdash; as wearing out and impermanent, a comprehensive "
+            "rather than merely personal observation."]),
+        ("Sectarian entrenchment named as a specific danger", [
+            "Where SN 8.1 addressed an external threat (Māra) and an "
+            "internal one (lust), this verse adds a third: the "
+            "&lsquo;sixty wrong views&rsquo; that trap ordinary "
+            "people fixed in their own opinions, with the true "
+            "mendicant explicitly described as refusing to join any "
+            "such faction."]),
+        ("A portrait of settled readiness closing the sequence", [
+            "The final stanza doesn't end in triumph or challenge "
+            "like SN 8.1's; it closes on a quieter image &mdash; "
+            "clever, long serene, free of deceit, without envy, having "
+            "reached the state of peace, quenched, simply awaiting his "
+            "own time."]),
+    ],
+    terms=[
+        ("nibbanatho arato sa hi bhikkhu",
+         "&ldquo;unsnarled, undesiring: that's a real mendicant&rdquo; "
+         "&mdash; the verse's opening definition, framed as absence "
+         "rather than victory."),
+        ("kiñci parijīyati sabbamaniccaṁ",
+         "&ldquo;wears out, it is all impermanent&rdquo; &mdash; the "
+         "impermanence teaching extended across the entire physical "
+         "world."),
+        ("upadhīsu janā gadhitāse",
+         "&ldquo;people are bound to their attachments&rdquo; &mdash; "
+         "naming ordinary bondage to what is seen, heard, and "
+         "thought."),
+        ("saṭṭhinissitā&hellip;adhammā niviṭṭhā",
+         "&ldquo;trapped in the sixty wrong views&hellip;fixed in "
+         "wrong principles&rdquo; &mdash; describing sectarian "
+         "entrenchment as a specific danger."),
+        ("parinibbuto kaṅkhati kālaṁ",
+         "&ldquo;quenched, he awaits his time&rdquo; &mdash; the "
+         "verse's closing image of settled readiness."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.2:1.1-1.8"),
+        ("p", "&sect;2", "sn8.2:2.1-2.4"),
+        ("p", "&sect;3", "sn8.2:3.1-3.4"),
+        ("p", "&sect;4", "sn8.2:4.1-4.4"),
+        ("p", "&sect;5", "sn8.2:5.1-5.4"),
+        ("p", "&sect;6", "sn8.2:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What triggers Vaṅgīsa's discontent in this discourse?",
+         "opts": [
+             "His mentor Nigrodhakappa's withdrawal into seclusion for the day",
+             "A visit from finely dressed women, as in SN 8.1",
+             "A public confrontation with a brahmin",
+             "News of a kinsman's death"],
+         "correct": 0,
+         "expl": "A different, simpler occasion than SN 8.1's, yet producing the same inner struggle."},
+        {"q": "How does this discourse's opening narrative compare to SN 8.1's?",
+         "opts": [
+             "It repeats the same structure of discontent, self-diagnosis, and self-reliant resolution",
+             "It is entirely unrelated in structure to SN 8.1",
+             "Vaṅgīsa seeks his mentor's help this time",
+             "No inner struggle occurs in this discourse"],
+         "correct": 0,
+         "expl": "A near-identical frame, suggesting the underlying pattern recurs regardless of its trigger."},
+        {"q": "How does this verse's opening definition of \"real mendicant\" differ in approach from SN 8.1's closing defiance?",
+         "opts": [
+             "It defines the mendicant by absence of entanglement, not by facing down an opponent",
+             "It is identical in approach to SN 8.1's closing lines",
+             "It focuses entirely on physical austerity",
+             "It makes no claim about what a mendicant is"],
+         "correct": 0,
+         "expl": "A positive definition through absence rather than through confrontation."},
+        {"q": "What does the verse's second stanza claim about all form?",
+         "opts": [
+             "That everything included in form, everywhere, wears out and is impermanent",
+             "That form is entirely illusory and does not exist",
+             "That only human bodies are impermanent",
+             "That form is permanent but consciousness is not"],
+         "correct": 0,
+         "expl": "A comprehensive claim spanning earth, sky, and depths, not limited to personal experience."},
+        {"q": "What specific danger does this verse name that SN 8.1 didn't address?",
+         "opts": [
+             "The \"sixty wrong views\" trapping ordinary people fixed in their own opinions",
+             "Physical illness",
+             "Loss of material wealth",
+             "Betrayal by a close friend"],
+         "correct": 0,
+         "expl": "Sectarian entrenchment, alongside the external and internal threats named in SN 8.1."},
+        {"q": "How does this verse describe the true mendicant's relationship to factions or sects?",
+         "opts": [
+             "They would not join any sect, nor utter lewd speech",
+             "They should join the most popular sect available",
+             "They should found their own new sect",
+             "The verse does not address this topic"],
+         "correct": 0,
+         "expl": "Explicit refusal of sectarian affiliation as part of the mendicant's description."},
+        {"q": "How does this discourse's closing image compare to SN 8.1's?",
+         "opts": [
+             "It closes on quiet, settled readiness rather than triumphant defiance",
+             "It closes with an identical challenge to Māra",
+             "It ends without any concluding image at all",
+             "It closes with a direct address to the Buddha"],
+         "correct": 0,
+         "expl": "\"Quenched, he awaits his time\" — a calmer note than SN 8.1's confrontational ending."},
+        {"q": "What qualities does the final stanza attribute to the settled sage?",
+         "opts": [
+             "Clever, long serene, free of deceit, alert, without envy",
+             "Wealthy, powerful, and widely renowned",
+             "Young, energetic, and eager for challenge",
+             "Isolated from all human contact permanently"],
+         "correct": 0,
+         "expl": "A composite portrait of inner stability rather than any external achievement."},
+        {"q": "How many stanzas does this discourse's verse contain, compared to SN 8.1's?",
+         "opts": [
+             "Five stanzas, more developed than SN 8.1's shorter sequence",
+             "Exactly the same number as SN 8.1",
+             "Only a single stanza",
+             "Ten full stanzas"],
+         "correct": 0,
+         "expl": "A longer, more elaborated response to a structurally similar situation."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Āḷavī's premier shrine, near Āḷavī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 8.1, immediately before it."},
+    ],
+    marginalia=[
+        ("A different trigger, the same pattern", [
+            "his mentor's simple withdrawal this time &mdash;",
+            "discontent recurring regardless of cause",
+        ]),
+        ("Defined by absence, not by battle", [
+            "unsnarled, undesiring — a real mendicant &mdash;",
+            "no opponent named to face down",
+        ]),
+        ("Impermanence spanning the whole world", [
+            "earth, sky, and depths together &mdash;",
+            "not a merely personal observation",
+        ]),
+        ("A third danger named: fixed views", [
+            "sixty wrong views, ordinary people trapped &mdash;",
+            "no faction joined, no lewd speech",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.1.html">SN 8.1 &middot; Renounced</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-8.3.html">SN 8.3 &middot; Good-Hearted</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.3 — Pesalasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 3, "Pesala", "Good-Hearted",
+    meta_title="SN 8.3 — Good-Hearted | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pesalasutta — Vaṅgīsa catches himself looking down on "
+        "other good-hearted monks because of his own eloquence, and "
+        "composes a verse of self-admonishment addressed to a puzzling "
+        "\"Gotama.\" From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Āḷavī's premier shrine, near Āḷavī"),
+        ("Speakers", "Venerable Vaṅgīsa, alone"),
+        ("Form", "Self-observed conceit, immediate remorse, and a "
+                 "verse of self-admonishment"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a subtler fault than lust, caught by careful "
+                       "self-observation"),
+    ],
+    why=(
+        "Where SN 8.1 and SN 8.2 showed Vaṅgīsa battling lust, this "
+        "discourse catches a quieter and arguably more insidious "
+        "fault: pride in his own gift. Vaṅgīsa was famous for his "
+        "poetic eloquence, and here he notices himself using that "
+        "very talent to look down on other monks he privately "
+        "considers good-hearted but less articulate. The self-catching "
+        "itself is the discourse's real subject &mdash; conceit is "
+        "harder to spot than lust because it can hide inside the same "
+        "gift that makes someone genuinely useful to the community "
+        "&mdash; and the verse that follows is addressed, "
+        "intriguingly, to someone named &lsquo;Gotama&rsquo;, though "
+        "Vaṅgīsa is alone at the time."),
+    guide=[
+        ("A fault harder to notice than lust", [
+            "Unlike SN 8.1's obvious external temptation, this "
+            "discourse's problem is entirely internal and easy to "
+            "mistake for a virtue &mdash; Vaṅgīsa's talent for verse "
+            "is real and valuable, which is exactly what makes the "
+            "conceit built on top of it so easy to miss."]),
+        ("Self-observation as the discourse's actual event", [
+            "Nothing external happens in this discourse at all; the "
+            "entire narrative is Vaṅgīsa noticing his own mental "
+            "habit, assessing it honestly as loss and misfortune, and "
+            "responding with remorse &mdash; an entirely interior "
+            "sequence of events."]),
+        ("A puzzling address to \"Gotama\" while alone", [
+            "The verse opens &lsquo;give up conceit, Gotama&rsquo;, "
+            "yet no one else is present in the discourse's narrative "
+            "frame; this reading guide notes the puzzle honestly "
+            "rather than resolving it with false confidence &mdash; "
+            "compare SN 8.4, where the identical vocative is genuinely "
+            "addressed to Ānanda, himself of the Gotama clan."]),
+        ("Conceit's consequence stated starkly, not softened", [
+            "The verse doesn't treat conceit as a minor lapse; it "
+            "describes people &lsquo;smeared by smears and slain by "
+            "conceit&rsquo; falling into hell and grieving there for a "
+            "long time &mdash; a severity matching how easily this "
+            "particular fault escapes notice."]),
+        ("A named contrast: the mendicant who never grieves", [
+            "The verse doesn't end on warning alone; it names the "
+            "opposite figure directly &mdash; the mendicant who "
+            "practices rightly, a &lsquo;path-victor&rsquo;, who "
+            "enjoys happiness and reputation and is rightly called a "
+            "&lsquo;Seer of Truth&rsquo; &mdash; giving Vaṅgīsa's "
+            "self-correction a positive destination, not just a "
+            "warning to avoid."]),
+    ],
+    terms=[
+        ("attano paṭibhānena aññe pesale bhikkhū atimaññati",
+         "&ldquo;looked down upon other good-hearted mendicants "
+         "because of his own eloquence&rdquo; &mdash; the specific "
+         "fault Vaṅgīsa catches in himself."),
+        ("mānaṁ pajahassu gotama",
+         "&ldquo;give up conceit, Gotama!&rdquo; &mdash; the verse's "
+         "opening address, puzzling since Vaṅgīsa is alone."),
+        ("makkhena makkhitā pajā, mānahatā nirayaṁ papatanti",
+         "&ldquo;smeared by smears and slain by conceit, people fall "
+         "into hell&rdquo; &mdash; the verse's stark warning."),
+        ("maggajino sammāpaṭipanno",
+         "&ldquo;a mendicant who practices rightly, a "
+         "path-victor&rdquo; &mdash; the contrasting figure who never "
+         "grieves."),
+        ("vijjāyantakaro samitāvī",
+         "&ldquo;the one who makes an end with knowledge is "
+         "assuaged&rdquo; &mdash; the verse's closing resolution."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.3:1.1-1.6"),
+        ("p", "&sect;2", "sn8.3:2.1-2.4"),
+        ("p", "&sect;3", "sn8.3:3.1-3.4"),
+        ("p", "&sect;4", "sn8.3:4.1-4.4"),
+        ("p", "&sect;5", "sn8.3:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What fault does Vaṅgīsa catch in himself in this discourse?",
+         "opts": [
+             "Looking down on other good-hearted monks because of his own eloquence",
+             "Lying to his mentor about his whereabouts",
+             "Stealing food from the monastery kitchen",
+             "Refusing to teach anyone else"],
+         "correct": 0,
+         "expl": "A subtler fault than lust, built on top of a genuine talent."},
+        {"q": "Why is this particular fault harder to notice than the temptation in SN 8.1?",
+         "opts": [
+             "Because it hides inside a genuine and valuable talent",
+             "Because it involves no thought process at all",
+             "Because it only happens once a year",
+             "Because it is not actually considered a fault"],
+         "correct": 0,
+         "expl": "Vaṅgīsa's poetic gift is real, making the conceit built on it easy to miss."},
+        {"q": "What happens externally in this discourse?",
+         "opts": [
+             "Nothing; the entire event is Vaṅgīsa's own internal self-observation",
+             "A group of visitors arrives at the monastery",
+             "Vaṅgīsa travels to a distant town",
+             "A debate takes place with another monk"],
+         "correct": 0,
+         "expl": "An entirely interior sequence of noticing, honest assessment, and remorse."},
+        {"q": "Who does Vaṅgīsa's verse address, and why is this puzzling?",
+         "opts": [
+             "\"Gotama\" — puzzling since no one else is present in the narrative",
+             "The Buddha, who is present in the scene",
+             "His mentor Nigrodhakappa, who is present",
+             "A group of villagers gathered nearby"],
+         "correct": 0,
+         "expl": "This reading guide notes the puzzle honestly rather than resolving it with false confidence."},
+        {"q": "How does the verse describe the consequence of conceit?",
+         "opts": [
+             "People \"smeared by smears and slain by conceit\" fall into hell and grieve there",
+             "Conceit is described as a harmless personality trait",
+             "Conceit is said to have no consequence at all",
+             "The verse claims conceit always leads to worldly success"],
+         "correct": 0,
+         "expl": "A stark severity matching how easily this fault escapes notice."},
+        {"q": "What figure does the verse name in contrast to the conceited person?",
+         "opts": [
+             "A mendicant who practices rightly, called a \"path-victor\" and \"Seer of Truth\"",
+             "A wealthy merchant",
+             "A powerful king",
+             "No contrasting figure is named"],
+         "correct": 0,
+         "expl": "Giving Vaṅgīsa's self-correction a positive destination, not only a warning."},
+        {"q": "What discourse elsewhere in this saṃyutta uses the identical vocative \"Gotama\"?",
+         "opts": [
+             "SN 8.4, where it is genuinely addressed to Ānanda",
+             "SN 8.1, addressed to a group of women",
+             "No other discourse uses this vocative",
+             "SN 7.22, addressed to a whole assembly"],
+         "correct": 0,
+         "expl": "A useful point of comparison, since Ānanda was genuinely of the Gotama clan."},
+        {"q": "How does this discourse's tone compare to SN 8.1's closing defiance?",
+         "opts": [
+             "It is more reflective and self-critical, without any external opponent to face down",
+             "It is identical in tone and structure",
+             "It is more triumphant and confident",
+             "It contains no emotional content at all"],
+         "correct": 0,
+         "expl": "Remorse and self-correction rather than defiance against an external threat."},
+        {"q": "What prompts Vaṅgīsa to compose this verse, according to the text?",
+         "opts": [
+             "The occasion of arousing remorse in himself",
+             "A direct question from another monk",
+             "An instruction from his mentor",
+             "A public accusation against him"],
+         "correct": 0,
+         "expl": "Self-generated remorse, not an external prompt."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Āḷavī's premier shrine, near Āḷavī",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 8.1 and SN 8.2."},
+    ],
+    marginalia=[
+        ("A fault hidden inside a gift", [
+            "eloquence itself becoming the trap &mdash;",
+            "harder to spot than plain temptation",
+        ]),
+        ("Nothing happens but noticing", [
+            "no visitor, no confrontation &mdash;",
+            "the whole event entirely internal",
+        ]),
+        ("An address with no one to hear it", [
+            "\"Gotama,\" spoken while alone &mdash;",
+            "a genuine puzzle, not resolved here",
+        ]),
+        ("A warning, then a destination", [
+            "hell described starkly first &mdash;",
+            "the path-victor named as where to go instead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.2.html">SN 8.2 &middot; Dissatisfaction</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.4.html">SN 8.4 &middot; With Ānanda</a> '
+        "&mdash; the next discourse, where the same vocative is used "
+        "for a genuinely present companion.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.4 — Ānandasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 4, "Ānanda", "With Ānanda",
+    meta_title="SN 8.4 — With Ānanda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ānandasutta — mid-almsround, Vaṅgīsa admits his mind is "
+        "on fire with desire and asks Ānanda directly for help, "
+        "receiving a concrete sequence of meditative instructions in "
+        "reply. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, during an almsround"),
+        ("Speakers", "Venerable Vaṅgīsa and Venerable Ānanda"),
+        ("Form", "A direct request for help in verse, answered with a "
+                 "structured sequence of meditative instructions"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a technically dense, concrete meditation "
+                       "instruction"),
+    ],
+    why=(
+        "This discourse breaks from the pattern of SN 8.1 through "
+        "8.3, where Vaṅgīsa always resolved his own difficulty alone. "
+        "Walking on almsround as Ānanda's second monk, he feels the "
+        "same lust arise as before, but this time he doesn't try to "
+        "handle it by himself; he addresses Ānanda directly, admitting "
+        "plainly that his mind is on fire and asking, out of "
+        "compassion, to be shown how to quench it. Ānanda's answering "
+        "verses aren't vague comfort; they lay out a concrete, "
+        "ordered sequence of practices &mdash; recognizing distorted "
+        "perception, seeing conditioned things as suffering and "
+        "not-self, meditating on the body's foulness, and finally "
+        "meditating on the signless to uproot the underlying tendency "
+        "to conceit."),
+    guide=[
+        ("A break from Vaṅgīsa's usual self-reliance", [
+            "SN 8.1 through 8.3 each show Vaṅgīsa resolving his own "
+            "difficulty without outside help; here, for the first "
+            "time, he turns directly to a companion and asks for "
+            "guidance, a notable shift this reading guide highlights "
+            "rather than treating as incidental."]),
+        ("A vocative that resolves SN 8.3's puzzle", [
+            "Vaṅgīsa addresses Ānanda as &lsquo;Gotama&rsquo;, the "
+            "same term used in SN 8.3's self-directed verse; here it "
+            "makes straightforward sense, since Ānanda was genuinely a "
+            "member of the Buddha's own Gotama clan, offering a "
+            "plausible (though not certain) clue to the earlier "
+            "puzzle."]),
+        ("A request stated without embarrassment or evasion", [
+            "&lsquo;My mind is on fire&rsquo; is about as direct as a "
+            "plea for help can be; Vaṅgīsa doesn't disguise his "
+            "difficulty in abstract language or minimize it, asking "
+            "outright for a remedy."]),
+        ("Perception named as the actual malfunction", [
+            "Ānanda's answer doesn't start with technique; it "
+            "diagnoses the problem first &mdash; the burning is caused "
+            "by a &lsquo;perversion of perception&rsquo;, treating the "
+            "attractive feature that provokes lust as the actual "
+            "misreading requiring correction."]),
+        ("A structured sequence, not a single fix", [
+            "The instructions build in order: reframe conditioned "
+            "phenomena as alien and not-self, meditate on the body's "
+            "foulness with unified concentration, cultivate "
+            "mindfulness immersed in the body, and finally meditate on "
+            "the signless to give up the underlying tendency to "
+            "conceit &mdash; a full practical sequence rather than a "
+            "single verse of comfort."]),
+    ],
+    terms=[
+        ("kāmarāgena ḍayhāmi, cittaṁ me pariḍayhati",
+         "&ldquo;I've got a burning desire for pleasure, my mind is "
+         "on fire&rdquo; &mdash; Vaṅgīsa's direct, unembarrassed "
+         "plea to Ānanda."),
+        ("nimittaṁ parivajjehi, subhaṁ rāgūpasaṁhitaṁ",
+         "&ldquo;turn away from the feature of things that's "
+         "attractive, provoking lust&rdquo; &mdash; Ānanda's first "
+         "instruction."),
+        ("saṅkhāre parato passa, dukkhato mā ca attato",
+         "&ldquo;see all conditioned phenomena as alien, as suffering "
+         "and not-self&rdquo; &mdash; the core reframing at the "
+         "instruction's center."),
+        ("asubhāya cittaṁ bhāvehi",
+         "&ldquo;meditate on the ugly aspects of the body&rdquo; "
+         "&mdash; the specific practice of foulness meditation "
+         "prescribed."),
+        ("animittañca bhāvehi, mānānusayamujjaha",
+         "&ldquo;meditate on the signless, give up the underlying "
+         "tendency to conceit&rdquo; &mdash; the closing instruction "
+         "toward lasting peace."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.4:1.1-1.4"),
+        ("p", "&sect;2", "sn8.4:2.1-2.4"),
+        ("p", "&sect;3", "sn8.4:3.1-3.4"),
+        ("p", "&sect;4", "sn8.4:4.1-4.4"),
+        ("p", "&sect;5", "sn8.4:5.1-5.4"),
+        ("p", "&sect;6", "sn8.4:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 8.1–8.3?",
+         "opts": [
+             "Vaṅgīsa asks a companion for help directly, rather than resolving the difficulty alone",
+             "Vaṅgīsa refuses to acknowledge any difficulty at all",
+             "No difficulty arises in this discourse",
+             "The Buddha personally intervenes to help"],
+         "correct": 0,
+         "expl": "A notable shift from Vaṅgīsa's established pattern of self-reliance."},
+        {"q": "Who does Vaṅgīsa address for help in this discourse?",
+         "opts": [
+             "Venerable Ānanda",
+             "His mentor Nigrodhakappa",
+             "The Buddha directly",
+             "A group of visiting women"],
+         "correct": 0,
+         "expl": "His companion on this particular almsround."},
+        {"q": "How does the vocative \"Gotama\" used here relate to SN 8.3's puzzle?",
+         "opts": [
+             "It makes straightforward sense here, since Ānanda was genuinely of the Gotama clan",
+             "It has no relationship to SN 8.3 at all",
+             "It is a completely different word in the original Pali",
+             "It refers to the Buddha, who is present in this scene"],
+         "correct": 0,
+         "expl": "A plausible, though not certain, clue to the earlier discourse's unresolved puzzle."},
+        {"q": "How does Vaṅgīsa describe his difficulty to Ānanda?",
+         "opts": [
+             "Directly and without embarrassment: \"my mind is on fire\"",
+             "In vague, indirect language that avoids the topic",
+             "By denying anything is wrong",
+             "By blaming Ānanda for the difficulty"],
+         "correct": 0,
+         "expl": "An unembarrassed, direct plea for a remedy."},
+        {"q": "What does Ānanda's answer identify as the actual source of the problem?",
+         "opts": [
+             "A \"perversion of perception\"",
+             "A physical illness",
+             "A curse placed by an enemy",
+             "Insufficient food during almsround"],
+         "correct": 0,
+         "expl": "Diagnosing a misreading of an attractive feature, not merely prescribing a fix."},
+        {"q": "What does Ānanda instruct Vaṅgīsa to meditate on regarding the body?",
+         "opts": [
+             "Its ugly, unattractive aspects (asubha)",
+             "Its strength and beauty",
+             "Its resemblance to a divine form",
+             "No specific meditation on the body is given"],
+         "correct": 0,
+         "expl": "Foulness meditation, paired with unified concentration."},
+        {"q": "What does Ānanda's final instruction concern?",
+         "opts": [
+             "Meditating on the signless to give up the underlying tendency to conceit",
+             "Reciting a specific mantra repeatedly",
+             "Avoiding all human contact permanently",
+             "Fasting for an extended period"],
+         "correct": 0,
+         "expl": "The instruction's culminating step, aimed at lasting peace."},
+        {"q": "How does Ānanda's reframing of conditioned phenomena go?",
+         "opts": [
+             "See them as alien, as suffering and not-self",
+             "See them as permanent and reliable",
+             "Ignore them entirely without further analysis",
+             "Treat them as identical to the self"],
+         "correct": 0,
+         "expl": "The core reframing at the center of Ānanda's structured instruction."},
+        {"q": "How does the structure of Ānanda's reply compare to a single comforting statement?",
+         "opts": [
+             "It builds a full, ordered sequence of practices rather than offering one quick fix",
+             "It consists of a single unelaborated line",
+             "It refuses to give any concrete instruction",
+             "It simply repeats Vaṅgīsa's own words back to him"],
+         "correct": 0,
+         "expl": "A complete practical sequence, moving from diagnosis to specific practices."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, during an almsround",
+             "Āḷavī's premier shrine",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "A new setting, distinct from SN 8.1–8.3's Āḷavī backdrop."},
+    ],
+    marginalia=[
+        ("Help asked for, not handled alone", [
+            "a break from three discourses of self-reliance &mdash;",
+            "Ānanda addressed directly",
+        ]),
+        ("A puzzle from before, half-resolved", [
+            "\"Gotama\" now makes sense — Ānanda's own clan &mdash;",
+            "a plausible clue, not certainty",
+        ]),
+        ("\"My mind is on fire\"", [
+            "no disguise, no minimizing &mdash;",
+            "a plea stated as plainly as possible",
+        ]),
+        ("A sequence, not a single line", [
+            "perception, reframing, foulness, the signless &mdash;",
+            "a full practice laid out in order",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.3.html">SN 8.3 &middot; Good-Hearted</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.5.html">SN 8.5 &middot; Well-Spoken Words</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.5 — Subhāsitasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 5, "Subhāsita", "Well-Spoken Words",
+    meta_title="SN 8.5 — Well-Spoken Words | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Subhāsitasutta — the Buddha teaches the four factors of "
+        "well-spoken speech, and Vaṅgīsa, moved to speak, offers his "
+        "own verses in praise, establishing this saṃyutta's recurring "
+        "\"inspired speech\" ritual. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The Buddha, addressing the mendicants; then "
+                     "Venerable Vaṅgīsa"),
+        ("Form", "A formal teaching in prose and verse, followed by a "
+                 "requested and granted poetic response"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a clear, structured teaching on right speech"),
+    ],
+    why=(
+        "This discourse marks a turn in Vaṅgīsasaṃyutta: after four "
+        "discourses of private struggle and self-correction, Vaṅgīsa's "
+        "poetic gift finally appears doing what it was famous for "
+        "&mdash; public, spontaneous praise, offered with formal "
+        "permission sought and granted. The occasion is the Buddha's "
+        "own compact teaching on well-spoken speech, defined by four "
+        "factors: well spoken, principled, pleasant, and true. Moved "
+        "by this teaching, Vaṅgīsa rises, asks &lsquo;I feel inspired "
+        "to speak&rsquo;, and upon receiving the Buddha's leave, "
+        "elaborates the same fourfold structure in his own verses "
+        "&mdash; establishing a ritual of requested, sanctioned "
+        "spontaneous verse that recurs through much of the rest of "
+        "this saṃyutta."),
+    guide=[
+        ("A formal teaching before any personal drama", [
+            "Unlike SN 8.1 through 8.4, this discourse opens with the "
+            "Buddha addressing the assembled mendicants directly on a "
+            "general topic, not responding to any individual's "
+            "private struggle &mdash; a shift toward public, "
+            "doctrinal content."]),
+        ("Four factors defining well-spoken speech precisely", [
+            "The Buddha's definition isn't a single quality but four "
+            "distinct conditions together: speech must be well "
+            "spoken, principled rather than unprincipled, pleasant "
+            "rather than unpleasant, and true rather than false "
+            "&mdash; none of the four sufficient alone."]),
+        ("Permission formally requested before speaking", [
+            "Vaṅgīsa doesn't simply start reciting; he stands, "
+            "arranges his robe, raises his palms, and explicitly asks "
+            "&lsquo;I feel inspired to speak&rsquo; before the Buddha "
+            "grants leave &mdash; a formal structure this saṃyutta "
+            "will repeat with other figures in later discourses."]),
+        ("Elaboration rather than repetition", [
+            "Vaṅgīsa's verses don't simply restate the Buddha's four "
+            "factors; they develop each one with its own image and "
+            "reasoning &mdash; speech that doesn't hurt oneself or "
+            "others, pleasing words that bring nothing bad, truth as "
+            "&lsquo;undying speech&rsquo;, an ancient teaching."]),
+        ("A closing turn to the Buddha's own speech specifically", [
+            "The final stanza doesn't end on the general principle; "
+            "it names the Buddha's own words &mdash; those leading to "
+            "sanctuary, extinguishment, and the end of suffering "
+            "&mdash; as the single best instance of everything just "
+            "described, closing the praise where it began."]),
+    ],
+    terms=[
+        ("catūhi aṅgehi samannāgatā vācā subhāsitā",
+         "&ldquo;speech with four factors is well spoken&rdquo; "
+         "&mdash; the Buddha's compact, fourfold criterion."),
+        ("dhammaṁyeva bhāsati no adhammaṁ",
+         "&ldquo;speaks what is principled, not unprincipled&rdquo; "
+         "&mdash; one of the four defining factors."),
+        ("paṭibhāti maṁ, bhagavā",
+         "&ldquo;I feel inspired to speak, Blessed One!&rdquo; "
+         "&mdash; Vaṅgīsa's formal request, establishing this "
+         "saṃyutta's recurring ritual."),
+        ("tameva vācaṁ bhāseyya, yāyattānaṁ na tāpaye",
+         "&ldquo;speak only such words as do not hurt yourself&rdquo; "
+         "&mdash; Vaṅgīsa's own elaboration of the first factor."),
+        ("saccaṁ ve amatā vācā",
+         "&ldquo;truth itself is undying speech&rdquo; &mdash; his "
+         "verse's teaching on the fourth factor, truthfulness."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.5:1.1-1.5"),
+        ("p", "&sect;2", "sn8.5:2.1-2.6"),
+        ("p", "&sect;3", "sn8.5:3.1-3.4"),
+        ("p", "&sect;4", "sn8.5:4.1-4.4"),
+        ("p", "&sect;5", "sn8.5:5.1-5.4"),
+        ("p", "&sect;6", "sn8.5:6.1-6.4"),
+        ("p", "&sect;7", "sn8.5:7.1-7.4"),
+        ("p", "&sect;8", "sn8.5:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 8.1–8.4?",
+         "opts": [
+             "It begins with a formal, public teaching rather than an individual's private struggle",
+             "It contains no teaching at all",
+             "It is addressed only to Vaṅgīsa personally",
+             "It takes place in complete silence"],
+         "correct": 0,
+         "expl": "A shift toward public, doctrinal content addressed to the whole assembly."},
+        {"q": "How many factors does the Buddha name as defining well-spoken speech?",
+         "opts": [
+             "Four",
+             "Two",
+             "Six",
+             "A single factor"],
+         "correct": 0,
+         "expl": "Well spoken, principled, pleasant, and true — none sufficient alone."},
+        {"q": "What does Vaṅgīsa do before reciting his own verses?",
+         "opts": [
+             "He formally requests permission, saying \"I feel inspired to speak\"",
+             "He simply begins speaking without any request",
+             "He asks another monk to speak on his behalf",
+             "He waits for the Buddha to ask him directly"],
+         "correct": 0,
+         "expl": "A formal ritual of requested and granted speech, established here."},
+        {"q": "How do Vaṅgīsa's verses relate to the Buddha's own teaching?",
+         "opts": [
+             "They elaborate each of the four factors with its own image and reasoning",
+             "They simply repeat the Buddha's words verbatim",
+             "They contradict the Buddha's teaching",
+             "They address an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "Development rather than mere repetition."},
+        {"q": "How does Vaṅgīsa's verse describe truth?",
+         "opts": [
+             "As \"undying speech,\" an ancient teaching",
+             "As a minor and dispensable virtue",
+             "As identical to pleasant speech",
+             "As irrelevant to right speech"],
+         "correct": 0,
+         "expl": "Saccaṁ ve amatā vācā — elevating truthfulness to a central, ancient principle."},
+        {"q": "What does the final stanza name as the best kind of speech?",
+         "opts": [
+             "The Buddha's own words, leading to sanctuary and the end of suffering",
+             "Poetry composed by skilled monks",
+             "Casual conversation among friends",
+             "Formal debate between scholars"],
+         "correct": 0,
+         "expl": "Closing the praise by returning to the Buddha's own speech specifically."},
+        {"q": "What ritual does this discourse establish for the rest of the saṃyutta?",
+         "opts": [
+             "Requesting and receiving formal permission before offering spontaneous verse",
+             "A requirement that all monks remain silent during teachings",
+             "A prohibition on any poetic speech",
+             "A daily recitation schedule"],
+         "correct": 0,
+         "expl": "A pattern recurring with other figures in later discourses."},
+        {"q": "How does the Buddha respond to Vaṅgīsa's request to speak?",
+         "opts": [
+             "He grants it directly: \"Then speak as you feel inspired\"",
+             "He refuses the request",
+             "He asks Vaṅgīsa to wait until later",
+             "He does not respond at all"],
+         "correct": 0,
+         "expl": "Immediate, straightforward permission."},
+        {"q": "What physical gesture does Vaṅgīsa make before speaking?",
+         "opts": [
+             "He stands, arranges his robe over one shoulder, and raises his cupped palms",
+             "He remains seated throughout",
+             "He bows fully to the ground",
+             "He walks in a circle around the assembly"],
+         "correct": 0,
+         "expl": "A formal gesture of respect preceding the request itself."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Āḷavī's premier shrine",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "A new setting from the Āḷavī-based opening discourses of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A teaching first, then a response", [
+            "public doctrine, not private struggle &mdash;",
+            "a shift in this saṃyutta's register",
+        ]),
+        ("Four factors, none alone sufficient", [
+            "well spoken, principled, pleasant, true &mdash;",
+            "a precise, structured definition",
+        ]),
+        ("Permission asked, then granted", [
+            "\"I feel inspired to speak\" &mdash;",
+            "a ritual this saṃyutta will repeat",
+        ]),
+        ("Elaboration, not mere echo", [
+            "each factor given its own image &mdash;",
+            "closing back on the Buddha's own words",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.4.html">SN 8.4 &middot; With Ānanda</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.6.html">SN 8.6 &middot; With Sāriputta</a> '
+        "&mdash; the next discourse, where the same ritual honors a "
+        "fellow monk.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.6 — Sāriputtasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 6, "Sāriputta", "With Sāriputta",
+    meta_title="SN 8.6 — With Sāriputta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāriputtasutta — watching Sāriputta teach with skill and "
+        "eloquence, Vaṅgīsa requests permission to speak and offers "
+        "verses of vivid praise, comparing his voice to a myna bird's "
+        "call. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "Venerable Sāriputta, teaching; Venerable "
+                     "Vaṅgīsa, offering verse in praise"),
+        ("Form", "An observed teaching scene, followed by requested "
+                 "and granted praise-verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a warm, admiring portrait using the same "
+                       "ritual as SN 8.5"),
+    ],
+    why=(
+        "This discourse extends SN 8.5's newly established ritual to "
+        "a fellow monk rather than the Buddha himself. Watching "
+        "Sāriputta teach the assembled mendicants with clear, "
+        "articulate, meaning-filled speech &mdash; and watching the "
+        "monks listen with rapt, wholehearted attention &mdash; "
+        "Vaṅgīsa feels moved to praise what he's witnessing. He asks "
+        "Sāriputta directly for permission, using the same formula "
+        "from the discourse before, and upon receiving it offers "
+        "verses that don't just praise wisdom in the abstract; they "
+        "capture the specific, sensory experience of listening to "
+        "Sāriputta speak, right down to comparing his voice to a myna "
+        "bird's call."),
+    guide=[
+        ("The same ritual, now directed at a peer", [
+            "SN 8.5 established requested-and-granted verse in praise "
+            "of the Buddha; this discourse repeats the identical "
+            "structure &mdash; the same request, the same formal "
+            "gesture &mdash; but directed at Sāriputta, a senior "
+            "fellow monk rather than the Teacher himself."]),
+        ("Praise triggered by observation, not instruction", [
+            "Unlike SN 8.5, where the Buddha's own teaching prompted "
+            "Vaṅgīsa's response, here it's simply watching Sāriputta "
+            "teach and watching the audience's attentiveness that "
+            "moves Vaṅgīsa to speak &mdash; admiration arising from "
+            "observation alone."]),
+        ("Wisdom named specifically, not generically", [
+            "The verse doesn't call Sāriputta merely wise; it names a "
+            "specific expertise &mdash; skilled in distinguishing "
+            "&lsquo;the path and what is not the path&rsquo; &mdash; "
+            "giving the praise real doctrinal content rather than "
+            "vague admiration."]),
+        ("A vivid, unexpected simile for eloquence", [
+            "Comparing Sāriputta's teaching voice to a myna bird's "
+            "call is a strikingly concrete, almost playful image "
+            "&mdash; grounding abstract praise of eloquence in a "
+            "specific, recognizable sound rather than an abstract "
+            "quality."]),
+        ("The audience's response completing the picture", [
+            "The verse doesn't end with Sāriputta himself; its final "
+            "lines turn to the listening monks, describing them as "
+            "joyful and elated, closing the praise by showing its "
+            "actual effect rather than only asserting the teacher's "
+            "quality."]),
+    ],
+    terms=[
+        ("dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti",
+         "&ldquo;educating, encouraging, firing up, and inspiring "
+         "&hellip;with a Dhamma talk&rdquo; &mdash; describing "
+         "Sāriputta's teaching style before Vaṅgīsa's praise begins."),
+        ("paṭibhāti maṁ, āvuso sāriputta",
+         "&ldquo;I feel inspired to speak, Reverend Sāriputta!&rdquo; "
+         "&mdash; the same formal request from SN 8.5, now addressed "
+         "to a fellow monk."),
+        ("gambhīrapañño medhāvī, maggāmaggassa kovido",
+         "&ldquo;deep in wisdom, intelligent, expert in the path and "
+         "what is not the path&rdquo; &mdash; specific, doctrinal "
+         "praise rather than vague admiration."),
+        ("sāḷikāyiva nigghoso",
+         "&ldquo;his call, like a myna bird&rdquo; &mdash; the "
+         "verse's vivid, concrete simile for Sāriputta's eloquence."),
+        ("udaggacittā muditā, sotaṁ odhenti bhikkhavo",
+         "&ldquo;they listen joyfully, their hearts elated&rdquo; "
+         "&mdash; the audience's response, completing the picture of "
+         "Sāriputta's teaching."),
+    ],
+    text_intro=(
+        "The discourse in full. A short recapitulating passage is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.6:1.1-1.7"),
+        ("p", "&sect;2", "sn8.6:2.1-2.4"),
+        ("p", "&sect;3", "sn8.6:3.1-3.4"),
+        ("p", "&sect;4", "sn8.6:4.1-4.4"),
+        ("p", "&sect;5", "sn8.6:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse extend the pattern established in SN 8.5?",
+         "opts": [
+             "The same requested-and-granted praise ritual, now directed at Sāriputta rather than the Buddha",
+             "It abandons the ritual entirely",
+             "It introduces an entirely new and unrelated ritual",
+             "It reverses the ritual, with Sāriputta requesting to speak"],
+         "correct": 0,
+         "expl": "An identical structure applied to a fellow monk rather than the Teacher."},
+        {"q": "What prompts Vaṅgīsa to offer praise in this discourse?",
+         "opts": [
+             "Watching Sāriputta teach and watching the audience's attentiveness",
+             "A direct instruction from the Buddha to praise Sāriputta",
+             "A formal teaching addressed to Vaṅgīsa specifically",
+             "A private conversation with Sāriputta beforehand"],
+         "correct": 0,
+         "expl": "Admiration arising from simple observation, not from being taught directly."},
+        {"q": "What specific expertise does Vaṅgīsa's verse attribute to Sāriputta?",
+         "opts": [
+             "Skill in distinguishing \"the path and what is not the path\"",
+             "Mastery of physical combat",
+             "Expertise in agriculture",
+             "Skill in astrology"],
+         "correct": 0,
+         "expl": "Specific doctrinal content rather than vague, generic admiration."},
+        {"q": "What simile does the verse use for Sāriputta's teaching voice?",
+         "opts": [
+             "A myna bird's call",
+             "The roar of a lion",
+             "The sound of thunder",
+             "A flowing river"],
+         "correct": 0,
+         "expl": "A vivid, concrete, almost playful comparison for his eloquence."},
+        {"q": "How does the verse describe the monks listening to Sāriputta?",
+         "opts": [
+             "Joyful, with elated hearts",
+             "Bored and inattentive",
+             "Confused by the content",
+             "Asleep during the teaching"],
+         "correct": 0,
+         "expl": "Completing the picture by showing the teaching's actual effect on its audience."},
+        {"q": "How does Sāriputta respond to Vaṅgīsa's request to speak?",
+         "opts": [
+             "He grants it directly, using the same formula as the Buddha in SN 8.5",
+             "He refuses the request",
+             "He asks Vaṅgīsa to wait for the Buddha's approval first",
+             "He does not respond"],
+         "correct": 0,
+         "expl": "An identical granting formula to SN 8.5's."},
+        {"q": "How does Sāriputta's teaching style vary, according to the discourse?",
+         "opts": [
+             "He teaches both in brief and at length",
+             "He only ever teaches briefly",
+             "He only ever teaches at great length",
+             "His teaching style is not described"],
+         "correct": 0,
+         "expl": "A flexibility named explicitly in Vaṅgīsa's verse."},
+        {"q": "What gesture does Vaṅgīsa make before requesting to speak, matching SN 8.5?",
+         "opts": [
+             "He stands, arranges his robe over one shoulder, and raises his cupped palms",
+             "He remains fully prostrate throughout",
+             "He claps his hands loudly",
+             "He walks a full circle around Sāriputta"],
+         "correct": 0,
+         "expl": "The identical formal gesture used in the discourse immediately before."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Āḷavī's premier shrine",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 8.4 and SN 8.5."},
+        {"q": "What does this discourse's praise focus on that a purely abstract tribute would lack?",
+         "opts": [
+             "The specific, sensory experience of listening to Sāriputta speak",
+             "A list of Sāriputta's past achievements only",
+             "A comparison to other named teachers",
+             "A prediction about Sāriputta's future rebirth"],
+         "correct": 0,
+         "expl": "Concrete imagery — the voice, the audience's reaction — rather than vague admiration."},
+    ],
+    marginalia=[
+        ("The same ritual, a different honoree", [
+            "requested and granted, as before &mdash;",
+            "now offered to a fellow monk",
+        ]),
+        ("Praise sparked by watching alone", [
+            "no teaching addressed to Vaṅgīsa directly &mdash;",
+            "admiration arising from observation",
+        ]),
+        ("A specific skill named", [
+            "path and not-path distinguished &mdash;",
+            "not vague praise, but doctrinal content",
+        ]),
+        ("A voice like a myna bird", [
+            "concrete, almost playful &mdash;",
+            "eloquence grounded in a real sound",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.5.html">SN 8.5 &middot; Well-Spoken Words</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.7.html">SN 8.7 &middot; The Invitation to '
+        "Admonish</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.7 — Pavāraṇāsutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 7, "Pavāraṇā", "The Invitation to Admonish",
+    meta_title="SN 8.7 — The Invitation to Admonish | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pavāraṇāsutta — five hundred arahants gather for the "
+        "formal invitation to criticism, the Buddha and Sāriputta "
+        "exchange praise, and Vaṅgīsa closes with verses honoring the "
+        "entire purified assembly. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, the Eastern Monastery, on the full-moon "
+                    "sabbath"),
+        ("Speakers", "The Buddha, Venerable Sāriputta, and Venerable "
+                     "Vaṅgīsa, before an assembly of 500 arahants"),
+        ("Form", "A formal ceremonial invitation to criticism, a "
+                 "mutual exchange of praise, and closing verse"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the largest, most formal assembly scene in "
+                       "this saṃyutta so far"),
+    ],
+    why=(
+        "This discourse stages one of the most significant ceremonial "
+        "moments in the early monastic calendar: the Pavāraṇā, the "
+        "formal invitation for the community to criticize any fault "
+        "in body or speech, held at the close of the rains. Five "
+        "hundred monks are present, and the text states plainly that "
+        "all of them are arahants. The Buddha opens by inviting "
+        "criticism of himself; Sāriputta responds not with criticism "
+        "but with praise, calling him the discoverer of the "
+        "previously unarisen path; the Buddha in turn praises "
+        "Sāriputta using the vivid image of a wheel-turning monarch's "
+        "son continuing his father's rule. Only after this formal "
+        "exchange, and a precise accounting of the assembly's "
+        "spiritual attainments, does Vaṅgīsa rise to close the scene "
+        "in verse."),
+    guide=[
+        ("A formal ceremony, not a spontaneous encounter", [
+            "Unlike most of this saṃyutta's discourses, this one "
+            "opens with an established ritual occasion &mdash; the "
+            "Pavāraṇā, held on the full-moon sabbath at the close of "
+            "the rains &mdash; giving the entire discourse a "
+            "structured, ceremonial weight distinct from Vaṅgīsa's "
+            "usual private struggles."]),
+        ("An invitation to criticize met with praise instead", [
+            "When the Buddha formally invites the assembly to name "
+            "any fault of body or speech, Sāriputta doesn't simply "
+            "decline the invitation; he redirects it entirely, calling "
+            "the Buddha the one who gave rise to the previously "
+            "unarisen path &mdash; turning an occasion for criticism "
+            "into one for tribute."]),
+        ("Praise returned with a vivid dynastic image", [
+            "The Buddha's response to Sāriputta doesn't simply thank "
+            "him; it compares Sāriputta to a wheel-turning monarch's "
+            "eldest son, rightly continuing to turn the wheel his "
+            "father set in motion &mdash; casting the transmission of "
+            "teaching in the language of legitimate succession."]),
+        ("An exact accounting of the assembly's attainment", [
+            "When Sāriputta asks about the other five hundred monks, "
+            "the Buddha doesn't answer in general terms; he gives a "
+            "precise breakdown &mdash; sixty with the three "
+            "knowledges, sixty with the six direct knowledges, sixty "
+            "liberated both ways, the rest liberated by wisdom "
+            "&mdash; a specificity underscoring the extraordinary "
+            "scale of what's gathered in this one place."]),
+        ("Vaṅgīsa's verse closing on unbroken confidence", [
+            "By the time Vaṅgīsa rises to speak, the discourse has "
+            "already established the assembly's purity through formal "
+            "exchange and precise numbers; his verses don't need to "
+            "argue for anything, only to honor what's already been "
+            "shown, closing with an image of five hundred untroubled "
+            "sages who will not be reborn again."]),
+    ],
+    terms=[
+        ("pavāremi vo",
+         "&ldquo;I invite you all [to criticize]&rdquo; &mdash; the "
+         "Buddha's formal opening of the Pavāraṇā ceremony."),
+        ("anuppannassa maggassa uppādetā",
+         "&ldquo;gave rise to the unarisen path&rdquo; &mdash; "
+         "Sāriputta's praise of the Buddha, redirecting an invitation "
+         "to criticize."),
+        ("rañño cakkavattissa jeṭṭhaputto&hellip;anuppavatteti",
+         "&ldquo;a wheel-turning monarch's oldest son rightly keeps "
+         "wielding the power&rdquo; &mdash; the Buddha's simile "
+         "praising Sāriputta's role continuing the teaching."),
+        ("saṭṭhi bhikkhū tevijjā, saṭṭhi bhikkhū chaḷabhiññā, saṭṭhi "
+         "bhikkhū ubhatobhāgavimuttā",
+         "&ldquo;sixty monks with the three knowledges, sixty with "
+         "the six direct knowledges, sixty liberated both ways&rdquo; "
+         "&mdash; the precise breakdown of the assembly's attainment."),
+        ("taṇhāsallassa hantāraṁ, vande ādiccabandhunaṁ",
+         "&ldquo;destroyer of the dart of craving&hellip;I bow to the "
+         "Kinsman of the Sun&rdquo; &mdash; Vaṅgīsa's closing homage."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.7:1.1-1.5"),
+        ("p", "&sect;2", "sn8.7:2.1-2.6"),
+        ("p", "&sect;3", "sn8.7:3.1-3.4"),
+        ("p", "&sect;4", "sn8.7:4.1-4.4"),
+        ("p", "&sect;5", "sn8.7:5.1-5.4"),
+        ("p", "&sect;6", "sn8.7:6.1-6.4"),
+        ("p", "&sect;7", "sn8.7:7.1-7.4"),
+        ("p", "&sect;8", "sn8.7:8.1-8.4"),
+        ("p", "&sect;9", "sn8.7:9.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What ceremonial occasion opens this discourse?",
+         "opts": [
+             "The Pavāraṇā, the formal invitation for criticism at the close of the rains",
+             "A private meal shared between the Buddha and Sāriputta",
+             "A funeral rite for a deceased monk",
+             "An ordination ceremony"],
+         "correct": 0,
+         "expl": "A structured ritual occasion, distinct from Vaṅgīsa's usual private struggles."},
+        {"q": "How many monks are present, and what is stated about their attainment?",
+         "opts": [
+             "Five hundred, all of whom are stated to be arahants",
+             "Fifty monks of mixed attainment",
+             "A thousand monks, mostly still in training",
+             "Only twelve senior disciples"],
+         "correct": 0,
+         "expl": "An unusually large and uniformly accomplished assembly."},
+        {"q": "How does Sāriputta respond to the Buddha's invitation to criticize him?",
+         "opts": [
+             "He offers praise instead, calling the Buddha the discoverer of the unarisen path",
+             "He offers a specific criticism as requested",
+             "He remains completely silent",
+             "He asks another monk to answer in his place"],
+         "correct": 0,
+         "expl": "Redirecting an occasion for criticism into one for tribute."},
+        {"q": "What image does the Buddha use to praise Sāriputta in return?",
+         "opts": [
+             "A wheel-turning monarch's eldest son continuing his father's rule",
+             "A lion protecting its cubs",
+             "A river flowing to the sea",
+             "A lamp lit from another lamp"],
+         "correct": 0,
+         "expl": "Casting the transmission of teaching in the language of legitimate succession."},
+        {"q": "What precise breakdown does the Buddha give of the assembly's attainments?",
+         "opts": [
+             "Sixty with three knowledges, sixty with six direct knowledges, sixty liberated both ways, the rest by wisdom",
+             "All five hundred attained exactly the same realization",
+             "Only ten monks had any significant attainment",
+             "The Buddha declines to specify any numbers"],
+         "correct": 0,
+         "expl": "A precise accounting underscoring the scale of what's gathered."},
+        {"q": "When does Vaṅgīsa rise to offer his verses?",
+         "opts": [
+             "Only after the formal exchange between the Buddha and Sāriputta is complete",
+             "Before the Buddha has spoken at all",
+             "Vaṅgīsa does not appear in this discourse",
+             "During the middle of Sāriputta's own praise"],
+         "correct": 0,
+         "expl": "His verses honor what has already been formally established."},
+        {"q": "What does Vaṅgīsa's closing verse say about the assembled monks?",
+         "opts": [
+             "They are untroubled sages who will not be reborn again",
+             "They are still early in their training",
+             "They are uncertain of their own attainment",
+             "Only a few of them will attain full liberation"],
+         "correct": 0,
+         "expl": "Closing on unbroken confidence in the assembly's purity."},
+        {"q": "What title does Vaṅgīsa's closing line give the Buddha?",
+         "opts": [
+             "\"Kinsman of the Sun\" and \"destroyer of the dart of craving\"",
+             "\"King of the mendicants\"",
+             "\"The silent one\"",
+             "No specific title is given"],
+         "correct": 0,
+         "expl": "Traditional epithets closing the discourse's tribute."},
+        {"q": "How does this discourse's tone compare to SN 8.1–8.4?",
+         "opts": [
+             "More formal and ceremonial, involving a large public assembly rather than private struggle",
+             "Identical in tone and structure",
+             "More hostile and confrontational",
+             "Entirely without any verse content"],
+         "correct": 0,
+         "expl": "A shift from intimate personal struggle to grand, public ceremony."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, the Eastern Monastery",
+             "Āḷavī's premier shrine",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The stilt longhouse of Migāra's mother, a specific and well-known location."},
+    ],
+    marginalia=[
+        ("A formal ceremony, not a private moment", [
+            "the Pavāraṇā, full-moon sabbath &mdash;",
+            "structured ritual weight throughout",
+        ]),
+        ("Criticism invited, praise returned", [
+            "Sāriputta redirects the entire occasion &mdash;",
+            "tribute in place of fault-finding",
+        ]),
+        ("A monarch's son, continuing the wheel", [
+            "legitimate succession, not mere thanks &mdash;",
+            "the Buddha's own image for Sāriputta",
+        ]),
+        ("Numbers given, not left vague", [
+            "sixty, sixty, sixty, and the rest &mdash;",
+            "the scale of the assembly made precise",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.6.html">SN 8.6 &middot; With Sāriputta</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.8.html">SN 8.8 &middot; Over a Thousand</a> '
+        "&mdash; the next discourse, an even larger assembly.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.8 — Parosahassasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 8, "Parosahassa", "Over a Thousand",
+    meta_title="SN 8.8 — Over a Thousand | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parosahassasutta — before 1,250 mendicants, Vaṅgīsa "
+        "offers praise-verse, and the Buddha directly tests whether "
+        "it was truly spontaneous by asking for a second, wholly "
+        "unprepared set. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha and Venerable Vaṅgīsa, before an "
+                     "assembly of 1,250 mendicants"),
+        ("Form", "A teaching, requested praise-verse, and a direct "
+                 "test of spontaneous composition"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the saṃyutta's most direct examination of "
+                       "Vaṅgīsa's poetic gift"),
+    ],
+    why=(
+        "This discourse gathers an even larger assembly than SN "
+        "8.7's already substantial five hundred &mdash; 1,250 "
+        "mendicants, the same number associated with several of the "
+        "canon's most famous scenes. Vaṅgīsa follows the by-now "
+        "familiar pattern, requesting and receiving permission to "
+        "praise the Buddha in verse. But this discourse does "
+        "something none of the others do: the Buddha directly asks "
+        "him whether the verses were composed beforehand or arose "
+        "spontaneously in the moment, and when Vaṅgīsa confirms they "
+        "were spontaneous, the Buddha puts that claim to an "
+        "immediate test, asking for a second set of verses, "
+        "explicitly unprepared, composed on the spot in front of "
+        "everyone."),
+    guide=[
+        ("The largest assembly yet in this saṃyutta", [
+            "1,250 mendicants exceeds even SN 8.7's five hundred, a "
+            "number this reading guide notes without overclaiming its "
+            "significance, though readers familiar with the canon "
+            "will recognize it as a recurring figure elsewhere."]),
+        ("A familiar ritual, up to the point it isn't", [
+            "The opening follows the exact pattern established in SN "
+            "8.5 through 8.7 &mdash; observation, request, "
+            "permission, verse &mdash; making what happens next stand "
+            "out precisely because the pattern had become so "
+            "predictable."]),
+        ("A direct question breaking the established pattern", [
+            "No earlier discourse in this saṃyutta has the Buddha "
+            "interrogate the origin of Vaṅgīsa's verses; here he asks "
+            "outright whether they were composed in advance or arose "
+            "in the moment, a question this reading guide reads as "
+            "genuine curiosity rather than suspicion."]),
+        ("A claim of spontaneity tested immediately, not simply believed", [
+            "Vaṅgīsa's answer &mdash; that the verses sprang to mind "
+            "in the moment &mdash; isn't simply accepted at face "
+            "value; the Buddha responds by asking for proof in real "
+            "time, requesting a second set explicitly not prepared in "
+            "advance."]),
+        ("A second, genuinely improvised set delivered on request", [
+            "Vaṅgīsa doesn't hesitate or ask for time; he immediately "
+            "produces a further sequence of verses, distinct in "
+            "content from the first, closing on a call to diligence "
+            "&mdash; the discourse's own structure serving as evidence "
+            "for the very claim it examines."]),
+    ],
+    terms=[
+        ("parosahassaṁ bhikkhūnaṁ, sugataṁ payirupāsati",
+         "&ldquo;over a thousand mendicants revere the Holy One&rdquo; "
+         "&mdash; the opening image of this discourse's especially "
+         "large assembly."),
+        ("nāganāmosi bhagavā, isīnaṁ isisattamo",
+         "&ldquo;your name is 'Giant', seventh of the seers&rdquo; "
+         "&mdash; a distinctive epithet in Vaṅgīsa's first set of "
+         "verses."),
+        ("kiṁ nu te, vaṅgīsa, imā gāthāyo pubbe parivitakkitā, udāhu "
+         "ṭhānasova taṁ paṭibhantī",
+         "&ldquo;had you previously composed these verses, or did "
+         "they spring to mind in the moment?&rdquo; &mdash; the "
+         "Buddha's direct question testing Vaṅgīsa's claim."),
+        ("bhiyyoso mattāya pubbe aparivitakkitā gāthāyo paṭibhantu",
+         "&ldquo;speak some more spontaneously inspired verses [not "
+         "previously composed]&rdquo; &mdash; the Buddha's immediate "
+         "request for proof."),
+        ("ummaggapathaṁ mārassa abhibhuyya",
+         "&ldquo;having overcome Māra's wrong path&rdquo; &mdash; "
+         "the opening line of Vaṅgīsa's second, genuinely improvised "
+         "set of verses."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.8:1.1-1.7"),
+        ("p", "&sect;2", "sn8.8:2.1-2.4"),
+        ("p", "&sect;3", "sn8.8:3.1-3.4"),
+        ("p", "&sect;4", "sn8.8:4.1-4.4"),
+        ("p", "&sect;5", "sn8.8:5.1-5.4"),
+        ("p", "&sect;6", "sn8.8:6.1-6.4"),
+        ("p", "&sect;7", "sn8.8:7.1-7.4"),
+        ("p", "&sect;8", "sn8.8:8.1-8.4"),
+        ("p", "&sect;9", "sn8.8:9.1-9.4"),
+        ("p", "&sect;10", "sn8.8:10.1-10.4"),
+        ("p", "&sect;11", "sn8.8:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "How large is the assembly gathered in this discourse?",
+         "opts": [
+             "1,250 mendicants, exceeding even SN 8.7's five hundred",
+             "Exactly the same five hundred as SN 8.7",
+             "A small group of only twelve monks",
+             "The size of the assembly is not specified"],
+         "correct": 0,
+         "expl": "The largest gathering explicitly numbered in this saṃyutta."},
+        {"q": "How does this discourse's opening compare to SN 8.5–8.7?",
+         "opts": [
+             "It follows the same established pattern of observation, request, permission, and verse",
+             "It introduces an entirely new and different ritual",
+             "Vaṅgīsa is refused permission to speak",
+             "No teaching precedes Vaṅgīsa's verses"],
+         "correct": 0,
+         "expl": "A now-familiar pattern, which makes what follows stand out."},
+        {"q": "What question does the Buddha ask Vaṅgīsa after his first set of verses?",
+         "opts": [
+             "Whether the verses were composed beforehand or arose spontaneously",
+             "Whether Vaṅgīsa wishes to disrobe",
+             "Whether the verses were composed by someone else",
+             "Whether Vaṅgīsa understood the teaching correctly"],
+         "correct": 0,
+         "expl": "A question with no precedent earlier in this saṃyutta."},
+        {"q": "How does Vaṅgīsa answer this question?",
+         "opts": [
+             "That the verses sprang to mind in the moment",
+             "That he had composed them the night before",
+             "That another monk had taught them to him",
+             "He refuses to answer directly"],
+         "correct": 0,
+         "expl": "A claim of genuine spontaneity, immediately put to the test."},
+        {"q": "How does the Buddha respond to this claim of spontaneity?",
+         "opts": [
+             "By requesting a second set of verses, explicitly unprepared",
+             "By simply accepting the claim without further comment",
+             "By expressing doubt and ending the exchange",
+             "By asking another monk to verify the claim"],
+         "correct": 0,
+         "expl": "A direct, real-time test rather than simple acceptance."},
+        {"q": "How does Vaṅgīsa respond to this request?",
+         "opts": [
+             "He immediately produces a further, distinct sequence of verses",
+             "He asks for time to prepare",
+             "He declines, saying he cannot compose on demand",
+             "He repeats the first set of verses again"],
+         "correct": 0,
+         "expl": "Delivering proof through the act itself, without hesitation."},
+        {"q": "What epithet does Vaṅgīsa's first set of verses give the Buddha?",
+         "opts": [
+             "\"Giant,\" seventh of the seers",
+             "\"The silent one\"",
+             "\"King of kings\"",
+             "No specific epithet is used"],
+         "correct": 0,
+         "expl": "Nāganāmosi bhagavā — a distinctive title within the verse."},
+        {"q": "What does Vaṅgīsa's second set of verses conclude with?",
+         "opts": [
+             "A call to diligence in training respectfully within the Buddha's teaching",
+             "A request to be ordained again",
+             "A criticism of the assembly's conduct",
+             "A prediction of the Buddha's future death"],
+         "correct": 0,
+         "expl": "Closing the improvised sequence on a note of practical exhortation."},
+        {"q": "What does this discourse's structure ultimately demonstrate?",
+         "opts": [
+             "The discourse's own events serve as evidence for Vaṅgīsa's claimed spontaneity",
+             "That Vaṅgīsa's verses were, in fact, memorized in advance",
+             "That spontaneous verse composition is discouraged",
+             "That the Buddha doubted Vaṅgīsa's sincerity"],
+         "correct": 0,
+         "expl": "The real-time test and its result together confirming the claim."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Āḷavī's premier shrine",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 8.4 through 8.6."},
+    ],
+    marginalia=[
+        ("An even larger assembly", [
+            "1,250, beyond SN 8.7's five hundred &mdash;",
+            "a recognizable canonical figure",
+        ]),
+        ("A pattern, right up until it breaks", [
+            "the familiar ritual, then a new question &mdash;",
+            "standing out against its own repetition",
+        ]),
+        ("Spontaneity, asked outright", [
+            "\"did they spring to mind in the moment?\" &mdash;",
+            "no earlier discourse poses this",
+        ]),
+        ("Proof requested, proof delivered", [
+            "a second set, explicitly unprepared &mdash;",
+            "the claim tested in real time, not just believed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.7.html">SN 8.7 &middot; The Invitation to '
+        "Admonish</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-8.9.html">SN 8.9 &middot; With Koṇḍañña</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.9 — Koṇḍaññasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 9, "Koṇḍañña", "With Koṇḍañña",
+    meta_title="SN 8.9 — With Koṇḍañña | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Koṇḍaññasutta — the Buddha's very first enlightened "
+        "disciple returns after a long absence and prostrates fully, "
+        "prompting Vaṅgīsa's verses honoring him as the Buddha's "
+        "heir. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "Venerable Aññāsikoṇḍañña, the Buddha, and "
+                     "Venerable Vaṅgīsa"),
+        ("Form", "An honored return, described in detail, followed "
+                 "by requested and granted praise-verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "honoring the earliest and most senior of the "
+                       "Buddha's enlightened disciples"),
+    ],
+    why=(
+        "This discourse honors a genuinely singular figure: "
+        "Aññāsikoṇḍañña, whose very epithet &mdash; &lsquo;Koṇḍañña "
+        "Who Understood&rsquo; &mdash; commemorates his place as the "
+        "first person to attain stream-entry upon hearing the "
+        "Buddha's first sermon. Returning after a long absence, he "
+        "doesn't simply greet the Buddha; he prostrates completely, "
+        "kissing his feet and announcing his own name twice, a "
+        "display of devotion striking enough that Vaṅgīsa feels moved "
+        "to compose verses on the spot. What follows honors not just "
+        "Koṇḍañña's seniority but the totality of his accomplishment, "
+        "closing with a title given to no one else so directly in "
+        "this saṃyutta: &lsquo;heir to the Buddha.&rsquo;"),
+    guide=[
+        ("An epithet that is itself a piece of history", [
+            "&lsquo;Aññāsikoṇḍañña&rsquo; isn't simply a name; it "
+            "preserves the moment of his awakening in its very form "
+            "&mdash; &lsquo;aññāsi&rsquo; meaning &lsquo;understood!&rsquo; "
+            "&mdash; commemorating him as the first disciple to grasp "
+            "the Buddha's teaching directly."]),
+        ("A physical display of devotion described in full", [
+            "The text doesn't simply say Koṇḍañña paid his respects; "
+            "it describes the prostration in detail &mdash; bowing "
+            "with his head at the Buddha's feet, kissing them, "
+            "stroking them with his hands &mdash; before he even "
+            "announces his own name."]),
+        ("A name doubled, much like SN 7.15's Mānatthaddha", [
+            "Koṇḍañña's twofold self-announcement &mdash; &lsquo;I am "
+            "Koṇḍañña, Blessed One! I am Koṇḍañña, Holy One!&rsquo; "
+            "&mdash; echoes the doubled self-naming seen elsewhere in "
+            "this collection, though here it expresses joyful "
+            "devotion rather than a conceited man's sudden reversal."]),
+        ("Attainment described as total, not partial", [
+            "Vaṅgīsa's verse doesn't list specific qualities piecemeal; "
+            "it states that whatever can be attained by a disciple "
+            "faithfully following the Teacher's instruction, Koṇḍañña "
+            "has attained all of it, through diligent training "
+            "&mdash; completeness rather than enumeration."]),
+        ("A title reserved for this discourse alone: \"heir to the Buddha\"", [
+            "The closing line names Koṇḍañña &lsquo;buddhadāyādo&rsquo;, "
+            "heir to the Buddha &mdash; a title this reading guide "
+            "hasn't encountered applied so directly to anyone else in "
+            "this saṃyutta, fitting for the disciple whose "
+            "understanding came first."]),
+    ],
+    terms=[
+        ("aññāsikoṇḍañño",
+         "&ldquo;Koṇḍañña Who Understood&rdquo; &mdash; his honorific "
+         "epithet, commemorating him as the very first disciple to "
+         "attain stream-entry."),
+        ("koṇḍaññohaṁ, bhagavā, koṇḍaññohaṁ",
+         "&ldquo;I am Koṇḍañña, Blessed One! I am Koṇḍañña!&rdquo; "
+         "&mdash; his own doubled self-announcement after "
+         "prostrating."),
+        ("buddhānubuddho so thero",
+         "&ldquo;the senior monk awakened after the Buddha&rdquo; "
+         "&mdash; Vaṅgīsa's description marking Koṇḍañña's precedence "
+         "among the disciples."),
+        ("yaṁ sāvakena pattabbaṁ&hellip;sabbassa taṁ anuppattaṁ",
+         "&ldquo;whatever can be attained by a disciple&hellip;he has "
+         "attained it all&rdquo; &mdash; his accomplishment described "
+         "as total, not partial."),
+        ("koṇḍañño buddhadāyādo",
+         "&ldquo;Koṇḍañña, the heir to the Buddha&rdquo; &mdash; the "
+         "closing, singular title given him."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.9:1.1-1.7"),
+        ("p", "&sect;2", "sn8.9:2.1-2.4"),
+        ("p", "&sect;3", "sn8.9:3.1-3.4"),
+        ("p", "&sect;4", "sn8.9:4.1-4.4"),
+        ("p", "&sect;5", "sn8.9:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What does the epithet \"Aññāsikoṇḍañña\" commemorate?",
+         "opts": [
+             "That he was the first disciple to attain stream-entry upon hearing the Buddha's first sermon",
+             "That he was the wealthiest of the Buddha's disciples",
+             "That he was the Buddha's own cousin",
+             "That he was known for his skill in debate"],
+         "correct": 0,
+         "expl": "The epithet itself, meaning \"understood!\", preserves this historic moment."},
+        {"q": "How does the text describe Koṇḍañña's greeting of the Buddha?",
+         "opts": [
+             "In full detail: bowing his head at the feet, kissing and stroking them",
+             "As a simple, brief bow",
+             "As a formal verbal greeting only, with no physical gesture",
+             "Koṇḍañña does not physically approach the Buddha at all"],
+         "correct": 0,
+         "expl": "A detailed physical display of devotion described before his self-announcement."},
+        {"q": "How many times does Koṇḍañña announce his own name?",
+         "opts": [
+             "Twice, echoing the doubled self-naming seen elsewhere in this collection",
+             "Once only",
+             "He never states his own name",
+             "Three times"],
+         "correct": 0,
+         "expl": "Compare SN 7.15's Mānatthaddha, though here expressing joy rather than reversal."},
+        {"q": "What prompts Vaṅgīsa to compose verses in this discourse?",
+         "opts": [
+             "Witnessing Koṇḍañña's devoted return after a long absence",
+             "A direct instruction from the Buddha",
+             "A personal request from Koṇḍañña himself",
+             "A formal ceremony requiring verse"],
+         "correct": 0,
+         "expl": "Moved by observation, as in several other discourses in this saṃyutta."},
+        {"q": "How does Vaṅgīsa's verse describe Koṇḍañña's attainment?",
+         "opts": [
+             "As total — everything a disciple can attain, he has attained",
+             "As only partially complete",
+             "As uncertain and still in progress",
+             "As limited to a single specific quality"],
+         "correct": 0,
+         "expl": "Completeness rather than a piecemeal list of qualities."},
+        {"q": "What distinctive title does the closing line give Koṇḍañña?",
+         "opts": [
+             "\"Heir to the Buddha\"",
+             "\"King of the mendicants\"",
+             "\"The silent sage\"",
+             "No specific title is given"],
+         "correct": 0,
+         "expl": "Buddhadāyādo — a title notably direct and singular for this figure."},
+        {"q": "What qualities does the verse attribute to Koṇḍañña alongside his seniority?",
+         "opts": [
+             "Great power, the three knowledges, and skill in reading others' minds",
+             "Wealth and social standing",
+             "Physical strength and combat skill",
+             "Skill in fire sacrifice"],
+         "correct": 0,
+         "expl": "A combination of meditative attainment and specific abilities."},
+        {"q": "How does this discourse's occasion compare to SN 8.5–8.8?",
+         "opts": [
+             "It is prompted by a single individual's devoted return, not a formal teaching or large ceremony",
+             "It follows an identical formal ceremonial structure",
+             "No verse is offered in this discourse",
+             "It takes place during an almsround"],
+         "correct": 0,
+         "expl": "A more intimate, personal occasion than the large public assemblies of the preceding discourses."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "Sāvatthī, Jeta's Grove",
+             "Āḷavī's premier shrine",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "A new setting from the Sāvatthī-based discourses immediately preceding it."},
+        {"q": "How does the Buddha respond to Vaṅgīsa's request to speak?",
+         "opts": [
+             "He grants it directly, using the now-familiar formula",
+             "He refuses the request",
+             "He asks Koṇḍañña to respond instead",
+             "He does not respond"],
+         "correct": 0,
+         "expl": "The same granting formula established across this saṃyutta."},
+    ],
+    marginalia=[
+        ("A name that records a historic moment", [
+            "\"understood!\" — the very first to grasp it &mdash;",
+            "the epithet itself preserving the event",
+        ]),
+        ("Devotion shown in full physical detail", [
+            "bowing, kissing, stroking the feet &mdash;",
+            "before a single word of self-naming",
+        ]),
+        ("A name doubled, joy not reversal", [
+            "compare Mānatthaddha's own doubled name &mdash;",
+            "here the tone is entirely different",
+        ]),
+        ("A title given to no one else so directly", [
+            "\"heir to the Buddha\" &mdash;",
+            "fitting the one whose understanding came first",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.8.html">SN 8.8 &middot; Over a Thousand</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.10.html">SN 8.10 &middot; With Moggallāna</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.10 — Moggallānasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 10, "Moggallāna", "With Moggallāna",
+    meta_title="SN 8.10 — With Moggallāna | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Moggallānasutta — watching Mahāmoggallāna scan five "
+        "hundred liberated minds with his own, Vaṅgīsa offers verses "
+        "honoring both the psychic power on display and the assembly "
+        "it surveys. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on the slopes of Isigili at the "
+                    "Black Rock"),
+        ("Speakers", "Venerable Mahāmoggallāna, silently; Venerable "
+                     "Vaṅgīsa, in verse"),
+        ("Form", "An observed feat of psychic scanning, followed by "
+                 "requested and granted praise-verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a quiet, entirely wordless act of psychic "
+                       "power made the occasion for verse"),
+    ],
+    why=(
+        "Where SN 8.9 honored Koṇḍañña's devoted return, this "
+        "discourse honors something far quieter: Mahāmoggallāna, "
+        "renowned above all the Buddha's disciples for psychic power, "
+        "using his mind to silently scan the minds of five hundred "
+        "arahants gathered on a mountain slope, checking each for "
+        "liberation and freedom from attachment. Nothing is spoken; "
+        "the entire event is an internal, invisible act of scrutiny. "
+        "Vaṅgīsa's verses don't just praise Moggallāna's power in the "
+        "abstract; they capture this specific scene &mdash; sage "
+        "seated on the mountainside, revered disciples gathered "
+        "around, and one figure quietly surveying every liberated "
+        "mind present."),
+    guide=[
+        ("A feat entirely silent and invisible", [
+            "Unlike SN 8.9's physically demonstrative devotion, this "
+            "discourse's central action produces no visible sign at "
+            "all; Moggallāna's mind-scanning happens purely "
+            "internally, and only Vaṅgīsa's attentive noticing brings "
+            "it into the discourse at all."]),
+        ("An assembly matching SN 8.7's scale, without its ceremony", [
+            "Five hundred arahants gather here as in SN 8.7's "
+            "Pavāraṇā, but without any formal ritual occasion "
+            "structuring the scene; the size alone doesn't require "
+            "ceremony to be significant."]),
+        ("Praise built around a specific, observed act", [
+            "Vaṅgīsa's verses don't praise Moggallāna's psychic power "
+            "as a general reputation; they describe the specific act "
+            "just witnessed &mdash; encompassing with his mind, "
+            "scrutinizing minds that are liberated and free of "
+            "attachment &mdash; grounding the tribute in what actually "
+            "happened."]),
+        ("A scene built in layers: the sage, the disciples, the scrutiny", [
+            "The verse structures itself in distinct layers &mdash; "
+            "the Buddha seated on the mountainside, the disciples with "
+            "the three knowledges revering him, and Moggallāna's mind "
+            "moving through their minds in turn &mdash; a nested "
+            "picture rather than a single flat image."]),
+        ("A closing return to the Buddha as the scene's true center", [
+            "Despite honoring Moggallāna specifically, the verse's "
+            "final lines return to the Buddha himself &mdash; "
+            "&lsquo;perfect in every respect&rsquo; &mdash; making "
+            "clear that even this praise of a specific disciple's "
+            "power ultimately orbits the Teacher at the center of the "
+            "whole scene."]),
+    ],
+    terms=[
+        ("cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ",
+         "&ldquo;with his mind, checked to see whose mind was "
+         "liberated and free of attachments&rdquo; &mdash; "
+         "Moggallāna's specific, silent psychic activity."),
+        ("nagassa passe āsīnaṁ, muniṁ dukkhassa pāraguṁ",
+         "&ldquo;as the sage&hellip;sits upon the mountain slope&rdquo; "
+         "&mdash; the verse's opening image of the Buddha seated."),
+        ("tevijjā maccuhāyino",
+         "&ldquo;disciples with the three knowledges, conquerors of "
+         "death&rdquo; &mdash; describing the reverent assembly "
+         "surrounding him."),
+        ("moggallāno mahiddhiko",
+         "&ldquo;Moggallāna, of great psychic power&rdquo; &mdash; "
+         "his defining epithet in the verse."),
+        ("anekākārasampannaṁ",
+         "&ldquo;perfect in every respect&rdquo; &mdash; the closing "
+         "description returning focus to the Buddha himself."),
+    ],
+    text_intro=(
+        "The discourse in full. A short recapitulating passage is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.10:1.1-1.6"),
+        ("p", "&sect;2", "sn8.10:2.1-2.4"),
+        ("p", "&sect;3", "sn8.10:3.1-3.4"),
+        ("p", "&sect;4", "sn8.10:4.1-4.4"),
+        ("p", "&sect;5", "sn8.10:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What is Mahāmoggallāna doing at the start of this discourse?",
+         "opts": [
+             "Silently scanning the minds of the assembled monks for liberation",
+             "Delivering a formal Dhamma talk",
+             "Traveling to a distant village",
+             "Publicly debating another monk"],
+         "correct": 0,
+         "expl": "An entirely internal, invisible act of psychic scrutiny."},
+        {"q": "How does this discourse's central action differ from SN 8.9's?",
+         "opts": [
+             "It is entirely silent and invisible, unlike Koṇḍañña's visible physical devotion",
+             "It is identical in visible display",
+             "It involves no monk other than Vaṅgīsa",
+             "It takes place during a formal debate"],
+         "correct": 0,
+         "expl": "Only Vaṅgīsa's attentive noticing brings the silent act into the discourse."},
+        {"q": "How many arahants are gathered in this discourse?",
+         "opts": [
+             "Five hundred, matching SN 8.7's Pavāraṇā assembly in scale",
+             "Only twelve",
+             "A single arahant besides Moggallāna",
+             "The number is not specified"],
+         "correct": 0,
+         "expl": "A large assembly, though without SN 8.7's formal ceremonial structure."},
+        {"q": "What does Vaṅgīsa's verse praise Moggallāna for specifically?",
+         "opts": [
+             "The specific act just witnessed — scanning minds that are liberated and free of attachment",
+             "His skill in physical combat",
+             "His wealth and generosity",
+             "A general, unspecified reputation for power"],
+         "correct": 0,
+         "expl": "Grounding the tribute in the specific act, not a vague abstraction."},
+        {"q": "How is the verse's imagery structured?",
+         "opts": [
+             "In layers: the Buddha seated, the disciples revering him, and Moggallāna's mind moving through theirs",
+             "As a single flat image with no distinct layers",
+             "Entirely from Moggallāna's own point of view",
+             "As a list with no descriptive imagery at all"],
+         "correct": 0,
+         "expl": "A nested picture rather than one undifferentiated scene."},
+        {"q": "Where does the verse's focus ultimately return in its closing lines?",
+         "opts": [
+             "To the Buddha himself, described as \"perfect in every respect\"",
+             "To Moggallāna alone, with no further mention of the Buddha",
+             "To Vaṅgīsa's own attainment",
+             "To the assembled disciples as a group, with no individual named"],
+         "correct": 0,
+         "expl": "Even praise of a specific disciple ultimately orbits the Teacher at the center."},
+        {"q": "What epithet does the verse give Moggallāna?",
+         "opts": [
+             "\"Of great psychic power\"",
+             "\"The silent one\"",
+             "\"Heir to the Buddha\" (the title given to Koṇḍañña)",
+             "No specific epithet is given"],
+         "correct": 0,
+         "expl": "Moggallāno mahiddhiko — his defining trait, distinct from Koṇḍañña's title in SN 8.9."},
+        {"q": "How does the assembled disciples' attainment get described in this verse?",
+         "opts": [
+             "As \"conquerors of death\" with the three knowledges",
+             "As still early in their training",
+             "As uncertain of their own realization",
+             "The verse does not describe their attainment"],
+         "correct": 0,
+         "expl": "Tevijjā maccuhāyino — a description matching the accomplished tone of this saṃyutta's assembly scenes."},
+        {"q": "What prompts Vaṅgīsa to compose verses in this discourse?",
+         "opts": [
+             "Witnessing Moggallāna's silent act of mind-scanning",
+             "A direct request from the Buddha",
+             "A formal teaching on psychic powers",
+             "A private conversation with Moggallāna"],
+         "correct": 0,
+         "expl": "Observation prompting spontaneous praise, as in several other discourses here."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, on the slopes of Isigili at the Black Rock",
+             "Sāvatthī, Jeta's Grove",
+             "Āḷavī's premier shrine",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same general Rājagaha setting as SN 8.9."},
+    ],
+    marginalia=[
+        ("A feat with no visible sign", [
+            "scanning minds, entirely silent &mdash;",
+            "only Vaṅgīsa's notice brings it forward",
+        ]),
+        ("Five hundred, without ceremony", [
+            "the scale of SN 8.7, no ritual frame &mdash;",
+            "significant without needing formality",
+        ]),
+        ("Praise for what was actually seen", [
+            "not a general reputation &mdash;",
+            "the specific act grounding the tribute",
+        ]),
+        ("Layers, not a flat scene", [
+            "sage, disciples, and a mind moving through minds &mdash;",
+            "closing back on the Buddha at the center",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.9.html">SN 8.9 &middot; With Koṇḍañña</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.11.html">SN 8.11 &middot; At Gaggarā</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.11 — Gaggarāsutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 11, "Gaggarā", "At Gaggarā",
+    meta_title="SN 8.11 — At Gaggarā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gaggarāsutta — before the saṃyutta's largest mixed "
+        "assembly of monks, laypeople, and deities, Vaṅgīsa offers a "
+        "single compact verse comparing the Buddha to the cloudless "
+        "moon and sun. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Campā, on the banks of the Gaggarā Lotus "
+                    "Pond"),
+        ("Speakers", "Venerable Vaṅgīsa, addressing the Buddha"),
+        ("Form", "A vast mixed assembly observed, then a single, "
+                 "compact verse of praise"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with the saṃyutta's most expansive "
+                       "assembly as its backdrop"),
+    ],
+    why=(
+        "This discourse gathers the widest assembly in the entire "
+        "saṃyutta: five hundred mendicants, seven hundred laymen, "
+        "seven hundred laywomen, and many thousands of deities, all "
+        "present together on the banks of a lotus pond near Campā. "
+        "Amid this vast and varied gathering &mdash; monastics, lay "
+        "supporters, and divine beings all in one place &mdash; the "
+        "text states simply that the Buddha outshines them all in "
+        "beauty and glory. Vaṅgīsa's response is correspondingly "
+        "compact: a single four-line verse, reaching for the two most "
+        "obvious images of surpassing brilliance &mdash; the "
+        "cloudless moon and the immaculate sun &mdash; to describe "
+        "what he's witnessing."),
+    guide=[
+        ("The widest assembly gathered anywhere in this saṃyutta", [
+            "SN 8.7 and SN 8.10 each gathered five hundred monastics; "
+            "this discourse adds fourteen hundred lay followers and "
+            "thousands of deities on top of that, the most varied and "
+            "numerous gathering Vaṅgīsa witnesses anywhere in these "
+            "twelve discourses."]),
+        ("Outshining stated as simple fact, not argued for", [
+            "The text doesn't build a case for the Buddha's "
+            "surpassing presence within this crowd; it states it "
+            "directly and briefly &mdash; &lsquo;he outshines them all "
+            "in beauty and glory&rsquo; &mdash; before Vaṅgīsa's verse "
+            "ever begins."]),
+        ("Two cosmic images, not one, doing the verse's entire work", [
+            "Unlike several earlier discourses' more elaborate, "
+            "multi-stanza tributes, this verse rests entirely on two "
+            "paired natural images &mdash; the moon in a cloudless "
+            "sky, the sun without blemish &mdash; letting their "
+            "obviousness carry the comparison rather than building "
+            "toward it through argument."]),
+        ("A distinctive epithet: Aṅgīrasa", [
+            "The verse addresses the Buddha as Aṅgīrasa, a "
+            "traditional epithet connoting radiance, distinct from "
+            "the more familiar clan-name &lsquo;Gotama&rsquo; used "
+            "elsewhere in this saṃyutta &mdash; a small but notable "
+            "variation in how Vaṅgīsa names the one he praises."]),
+        ("The shortest tribute for the largest occasion", [
+            "There's a deliberate contrast worth noticing between the "
+            "sheer scale of the gathered assembly and the brevity of "
+            "the response it prompts &mdash; as if the size of the "
+            "crowd required less elaboration, not more, to make the "
+            "point."]),
+    ],
+    terms=[
+        ("tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca",
+         "&ldquo;the Buddha outshone them all in beauty and "
+         "glory&rdquo; &mdash; the simple, direct occasion for the "
+         "verse."),
+        ("anekehi ca devatāsahassehi",
+         "&ldquo;many thousands of deities&rdquo; &mdash; part of "
+         "this discourse's uniquely vast, mixed assembly."),
+        ("cando yathā vigatavalāhake nabhe",
+         "&ldquo;like the moon on a cloudless night&rdquo; &mdash; "
+         "the verse's opening simile."),
+        ("vigatamalova bhāṇumā",
+         "&ldquo;like the shining immaculate sun&rdquo; &mdash; the "
+         "second, paired simile."),
+        ("aṅgīrasa",
+         "&ldquo;Aṅgīrasa&rdquo;, a traditional epithet connoting "
+         "radiance &mdash; distinct from the more familiar "
+         "&lsquo;Gotama&rsquo; used elsewhere in this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.11:1.1-1.6"),
+        ("p", "&sect;2", "sn8.11:2.1-2.4"),
+        ("p", "&sect;3", "sn8.11:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's assembly compare to the largest gatherings elsewhere in this saṃyutta?",
+         "opts": [
+             "It is the widest and most varied, adding lay followers and deities to a monastic assembly",
+             "It is the smallest gathering in the entire saṃyutta",
+             "It matches SN 8.7's assembly exactly, with no additions",
+             "No assembly is described in this discourse"],
+         "correct": 0,
+         "expl": "Fourteen hundred lay followers and thousands of deities beyond the monastic core."},
+        {"q": "How does the text describe the Buddha's presence within this crowd?",
+         "opts": [
+             "Directly and simply: he outshines them all in beauty and glory",
+             "As indistinguishable from the rest of the assembly",
+             "As deliberately hidden from view",
+             "The text does not comment on his presence"],
+         "correct": 0,
+         "expl": "A direct statement, not an argued case."},
+        {"q": "What two images structure Vaṅgīsa's verse?",
+         "opts": [
+             "The cloudless moon and the immaculate sun",
+             "A mountain and a river",
+             "A lotus and a flame",
+             "A lion and an elephant"],
+         "correct": 0,
+         "expl": "Two paired natural images carrying the entire comparison."},
+        {"q": "How does this verse's length compare to several earlier discourses in this saṃyutta?",
+         "opts": [
+             "It is notably brief, a single four-line verse, despite the assembly's large scale",
+             "It is the longest verse in the entire saṃyutta",
+             "It exactly matches the length of SN 8.8's verses",
+             "It contains no verse at all"],
+         "correct": 0,
+         "expl": "A deliberate contrast between the scale of the occasion and the brevity of the response."},
+        {"q": "What epithet does the verse use to address the Buddha?",
+         "opts": [
+             "Aṅgīrasa, a traditional epithet connoting radiance",
+             "Gotama, as in several earlier discourses",
+             "Tathāgata exclusively",
+             "No specific epithet is used"],
+         "correct": 0,
+         "expl": "A notable variation from the more familiar clan-name used elsewhere in this saṃyutta."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Campā, on the banks of the Gaggarā Lotus Pond",
+             "Sāvatthī, Jeta's Grove",
+             "Near Rājagaha, in the Bamboo Grove",
+             "Āḷavī's premier shrine"],
+         "correct": 0,
+         "expl": "A new location, distinct from every earlier discourse in this saṃyutta."},
+        {"q": "How does the Buddha respond to Vaṅgīsa's request to speak?",
+         "opts": [
+             "He grants it directly, using the now-established formula",
+             "He refuses the request",
+             "He asks Vaṅgīsa to wait until a formal occasion",
+             "He does not respond"],
+         "correct": 0,
+         "expl": "The same granting formula seen throughout this saṃyutta."},
+        {"q": "What prompts Vaṅgīsa's verse in this discourse?",
+         "opts": [
+             "Observing the vast assembly and the Buddha's surpassing presence within it",
+             "A direct teaching addressed to Vaṅgīsa personally",
+             "A private request from another monk",
+             "A formal ceremonial occasion like SN 8.7's Pavāraṇā"],
+         "correct": 0,
+         "expl": "Spontaneous admiration prompted by observation, without any formal ritual frame."},
+        {"q": "How many mendicants are specifically mentioned as part of this assembly?",
+         "opts": [
+             "Five hundred",
+             "Fifty",
+             "A thousand",
+             "The number of mendicants is not specified"],
+         "correct": 0,
+         "expl": "The same core figure as several other large assemblies in this saṃyutta, joined here by lay followers and deities."},
+        {"q": "What does this discourse's brevity suggest about how Vaṅgīsa responds to overwhelming scale?",
+         "opts": [
+             "That the sheer size of the occasion required less elaboration, not more, to make its point",
+             "That larger assemblies always prompt longer verses",
+             "That Vaṅgīsa was reluctant to speak on this occasion",
+             "That brevity indicates a lack of genuine inspiration"],
+         "correct": 0,
+         "expl": "A deliberate, notable contrast between scale and length of response."},
+    ],
+    marginalia=[
+        ("The widest gathering in this saṃyutta", [
+            "monks, laypeople, and thousands of deities &mdash;",
+            "no larger scene appears elsewhere",
+        ]),
+        ("Outshining, stated plainly", [
+            "no case built, just direct statement &mdash;",
+            "before a single verse is spoken",
+        ]),
+        ("Two images, nothing more elaborate", [
+            "moon and sun, cloudless and immaculate &mdash;",
+            "obviousness carrying the whole comparison",
+        ]),
+        ("A shorter tribute for the largest scene", [
+            "brevity against overwhelming scale &mdash;",
+            "less elaboration, not more",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.10.html">SN 8.10 &middot; With Moggallāna</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.12.html">SN 8.12 &middot; With Vaṅgīsa</a> '
+        "&mdash; the closing discourse of this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 8.12 — Vaṅgīsasutta
+# --------------------------------------------------------------------------- #
+page(
+    8, 12, "Vaṅgīsa", "With Vaṅgīsa",
+    meta_title="SN 8.12 — With Vaṅgīsa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vaṅgīsasutta — closing the saṃyutta named for him, "
+        "Vaṅgīsa, newly arahant, looks back on his life as a wandering "
+        "poet and declares the very attainments he spent this whole "
+        "collection praising in others. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "Venerable Vaṅgīsa, alone, newly arahant"),
+        ("Form", "An autobiographical verse of reflection, spoken in "
+                 "the bliss of freedom"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a satisfying, autobiographical close to the "
+                       "entire saṃyutta"),
+    ],
+    why=(
+        "This discourse closes Vaṅgīsasaṃyutta by finally revealing "
+        "what all eleven preceding discourses were building toward: "
+        "Vaṅgīsa has newly attained arahantship, and while "
+        "experiencing the bliss of that freedom, looks back over his "
+        "own life in verse. He recalls his earlier years wandering "
+        "&lsquo;drunk on poetry&rsquo; from village to village, long "
+        "before he ever met the Buddha; his growing faith on "
+        "encountering the teaching of aggregates, sense fields, and "
+        "elements; his going forth; and finally, in the verse's "
+        "closing lines, a declaration of the very attainments "
+        "&mdash; the three knowledges, psychic power, and skill in "
+        "reading others' minds &mdash; that he spent SN 8.9 and SN "
+        "8.10 praising in Koṇḍañña and Moggallāna. The struggling, "
+        "self-correcting junior monk of SN 8.1 has arrived."),
+    guide=[
+        ("A life recalled from its very beginning", [
+            "Unlike any earlier discourse in this saṃyutta, this one "
+            "reaches back before Vaṅgīsa's ordination entirely, to a "
+            "life spent wandering as an itinerant poet, &lsquo;drunk "
+            "on poetry&rsquo;, moving village to village and town to "
+            "town &mdash; establishing where his gift came from before "
+            "describing what it became."]),
+        ("Faith arising specifically from a doctrinal teaching", [
+            "The verse doesn't describe a vague or emotional "
+            "conversion; it names precisely what the Buddha taught "
+            "him &mdash; the aggregates, sense fields, and elements "
+            "&mdash; grounding his faith in specific doctrinal content "
+            "rather than charisma alone."]),
+        ("A reflection extending beyond his own personal gain", [
+            "Before returning to his own attainment, Vaṅgīsa's verse "
+            "pauses to note that the Buddha's awakening benefited "
+            "&lsquo;many&rsquo;, naming monks and nuns generally who "
+            "&lsquo;see that they've reached certainty&rsquo; &mdash; "
+            "situating his own story within a much larger one."]),
+        ("A closing list that answers the saṃyutta's earlier praise", [
+            "The final stanza's declaration &mdash; knowing his past "
+            "lives, purified clairvoyance, mastery of the three "
+            "knowledges, psychic power, skill in reading others' "
+            "minds &mdash; directly echoes the qualities Vaṅgīsa "
+            "praised in Koṇḍañña (SN 8.9) and Moggallāna (SN 8.10), "
+            "closing the arc from admirer to possessor of these same "
+            "attainments."]),
+        ("A struggling junior monk's arc completed", [
+            "Read against SN 8.1's opening, where Vaṅgīsa battled "
+            "lust as a newly ordained junior left alone to guard a "
+            "dwelling, this closing discourse completes a real "
+            "narrative arc across the saṃyutta &mdash; not merely a "
+            "collection of separate praise-poems, but the story of one "
+            "monk's path from struggle to arahantship."]),
+    ],
+    terms=[
+        ("kāveyyamattā vicarimha pubbe",
+         "&ldquo;we used to wander, drunk on poetry&rdquo; &mdash; "
+         "Vaṅgīsa's own account of his pre-monastic life as an "
+         "itinerant poet."),
+        ("khandhāyatanadhātuyo",
+         "&ldquo;the aggregates, sense fields, and elements&rdquo; "
+         "&mdash; the specific teaching that gave rise to his faith."),
+        ("bahunnaṁ vata atthāya, bodhiṁ ajjhagamā muni",
+         "&ldquo;it was truly for the benefit of many that the sage "
+         "achieved awakening&rdquo; &mdash; his reflection situating "
+         "his own story within a larger one."),
+        ("tisso vijjā anuppattā, kataṁ buddhassa sāsanaṁ",
+         "&ldquo;I've attained the three knowledges, and fulfilled "
+         "the Buddha's instructions&rdquo; &mdash; his direct "
+         "declaration of arahantship."),
+        ("cetopariyāyakovido",
+         "&ldquo;expert in encompassing the minds of others&rdquo; "
+         "&mdash; the closing quality, echoing what he praised in "
+         "both Koṇḍañña and Moggallāna earlier in this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Vaṅgīsasaṃyutta. The final "
+        "colophon &mdash; the only line of the closing uddāna "
+        "translated into English in the source &mdash; is quoted "
+        "verbatim below, following this site's established convention "
+        "for saṃyutta-closing lines. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn8.12:1.1-1.2"),
+        ("p", "&sect;2", "sn8.12:2.1-2.4"),
+        ("p", "&sect;3", "sn8.12:3.1-3.4"),
+        ("p", "&sect;4", "sn8.12:4.1-4.4"),
+        ("p", "&sect;5", "sn8.12:5.1-5.4"),
+        ("p", "&sect;6", "sn8.12:6.1-6.4"),
+        ("p", "&sect;7", "sn8.12:7.8"),
+    ],
+    quiz=[
+        {"q": "What has Vaṅgīsa just attained at the start of this discourse?",
+         "opts": [
+             "Arahantship, and he is experiencing the bliss of freedom",
+             "Ordination as a novice",
+             "A senior teaching position",
+             "The discourse does not specify any attainment"],
+         "correct": 0,
+         "expl": "The saṃyutta's culminating revelation, closing the collection."},
+        {"q": "How does the verse describe Vaṅgīsa's life before meeting the Buddha?",
+         "opts": [
+             "Wandering \"drunk on poetry,\" village to village and town to town",
+             "As a wealthy merchant",
+             "As a soldier in the king's army",
+             "As a farmer tending his own land"],
+         "correct": 0,
+         "expl": "Establishing where his poetic gift originated, before his monastic life."},
+        {"q": "What specific teaching does the verse credit for giving rise to his faith?",
+         "opts": [
+             "The aggregates, sense fields, and elements",
+             "A general sense of the Buddha's charisma alone",
+             "A miraculous vision",
+             "Advice from another wandering poet"],
+         "correct": 0,
+         "expl": "Grounding his conversion in specific doctrinal content, not vague inspiration."},
+        {"q": "What does Vaṅgīsa's verse say about the benefit of the Buddha's awakening?",
+         "opts": [
+             "That it was for the benefit of many — monks and nuns who reached certainty",
+             "That it benefited only Vaṅgīsa personally",
+             "That its benefit was uncertain",
+             "The verse does not address this topic"],
+         "correct": 0,
+         "expl": "Situating his own story within a much larger one."},
+        {"q": "What qualities does the closing stanza declare Vaṅgīsa has attained?",
+         "opts": [
+             "Knowledge of past lives, purified clairvoyance, the three knowledges, psychic power, and mind-reading skill",
+             "Only physical strength and endurance",
+             "Wealth and social standing",
+             "Skill in debate alone"],
+         "correct": 0,
+         "expl": "A full declaration of arahantship's specific attainments."},
+        {"q": "How does this closing list relate to earlier discourses in this saṃyutta?",
+         "opts": [
+             "It directly echoes the qualities Vaṅgīsa praised in Koṇḍañña (SN 8.9) and Moggallāna (SN 8.10)",
+             "It has no relationship to any earlier discourse",
+             "It contradicts what was said about Koṇḍañña and Moggallāna",
+             "It only relates to SN 8.1's opening discourse"],
+         "correct": 0,
+         "expl": "Closing the arc from admirer of these qualities to their possessor."},
+        {"q": "How does this discourse relate to SN 8.1's opening?",
+         "opts": [
+             "It completes a narrative arc, from a struggling junior monk to attained arahant",
+             "It contradicts everything established in SN 8.1",
+             "It has no connection to SN 8.1 at all",
+             "It repeats SN 8.1's content verbatim"],
+         "correct": 0,
+         "expl": "Read together, the saṃyutta tells one monk's complete path, not merely separate poems."},
+        {"q": "How does the discourse's closing colophon read, quoted verbatim in the text section?",
+         "opts": [
+             "\"The Linked Discourses with Vaṅgīsa are complete.\"",
+             "\"The teaching of the Buddha is now complete.\"",
+             "\"Vaṅgīsavagga begins here.\"",
+             "The colophon is left entirely untranslated"],
+         "correct": 0,
+         "expl": "The only line of the closing uddāna translated into English in the source."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Āḷavī's premier shrine",
+             "Near Campā, at the Gaggarā Lotus Pond",
+             "Near Rājagaha, in the Bamboo Grove"],
+         "correct": 0,
+         "expl": "A return to the same setting as several discourses earlier in this saṃyutta."},
+        {"q": "Who speaks the verses in this discourse?",
+         "opts": [
+             "Vaṅgīsa himself, alone, with no dialogue partner",
+             "The Buddha, addressing Vaṅgīsa",
+             "Sāriputta, praising Vaṅgīsa",
+             "A group of assembled monks together"],
+         "correct": 0,
+         "expl": "A solitary reflection, matching the saṃyutta's opening discourses in form though not in content."},
+    ],
+    marginalia=[
+        ("A life traced to its origin", [
+            "wandering, drunk on poetry, before any of this &mdash;",
+            "the gift's source named at last",
+        ]),
+        ("Faith grounded in specific teaching", [
+            "aggregates, sense fields, elements &mdash;",
+            "not charisma alone",
+        ]),
+        ("His own story set inside a larger one", [
+            "\"for the benefit of many\" &mdash;",
+            "monks and nuns, not himself alone",
+        ]),
+        ("From admirer to possessor", [
+            "the same qualities once praised in others &mdash;",
+            "now declared as his own",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn8.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-8.11.html">SN 8.11 &middot; At Gaggarā</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-8.1.html">SN 8.1 &middot; Renounced</a> &mdash; '
+        "the saṃyutta's opening discourse, where this same monk's "
+        "path began.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
