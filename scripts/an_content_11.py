@@ -6244,3 +6244,661 @@ PAGES.append({
         '<a href="an-11.982.html">AN 11.982</a> &mdash; next, opening the Rāgapeyyāla.',
     ],
 })
+
+
+VAGGA_4 = ("<em>Rāgapeyyāla</em> &mdash; the abbreviated texts beginning "
+          "with greed, closing this nipāta")
+ELEVEN_ATTAINMENTS = (
+    "the four absorptions, the four divine abodes of love, compassion, "
+    "rejoicing, and equanimity, and the three lower formless "
+    "attainments")
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.982 — opening the Rāgapeyyāla: insight into greed
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.982",
+    "index_pali": "(untitled)",
+    "nav_title": "For Insight Into Greed",
+    "source": "an11/an11.982",
+    "crumb": "AN 11.982",
+    "meta_title": ("AN 11.982 — For Insight Into Greed | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.982, opening this nipāta's closing Rāgapeyyāla with "
+        "the eleven things to be developed for insight into greed — "
+        "the same fixed list already met at AN 11.16. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourse 11.982",
+    "title": "For Insight Into Greed",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_4),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Eleven things that should be developed for insight "
+                 "into greed, named in full"),
+        ("Length", "~1 minute to read; a single discourse"),
+        ("Opening this nipāta's final structure", "This page opens "
+         "the Rāgapeyyāla, the last of the two peyyāla this project "
+         "has met bearing this name (the other closed AN 9 and AN "
+         "10)"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; a "
+                       "short, concrete list, easy to hold in mind"),
+    ],
+    "why": (
+        "For insight into greed, eleven things should be developed: "
+        "the four absorptions, the four divine abodes of love, "
+        "compassion, rejoicing, and equanimity, and the dimensions of "
+        "infinite space, infinite consciousness, and nothingness "
+        "&mdash; the same eleven-item list already met in full at AN "
+        "11.16, now opening this nipāta's own closing peyyāla."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Eleven meditative attainments &mdash; the four "
+            "absorptions, the four divine abodes, and the three lower "
+            "formless dimensions &mdash; should be developed for "
+            "insight (abhiññā) into greed, opening a peyyāla that "
+            "will apply the same list, crossed against ten verbs and "
+            "seventeen defilements, all the way to the close of this "
+            "entire project."]),
+        ("A list already met, now put to new work", [
+            "This same eleven-item list &mdash; %s &mdash; was "
+            "already met in full at AN 11.16, there framed as doors "
+            "to the deathless, each seen through as impermanent once "
+            "attained. Here, the framing shifts: the same eleven "
+            "things are simply what should be developed &lsquo;for "
+            "insight into greed&rsquo;, without repeating the earlier "
+            "discourse's reflection on impermanence at all." %
+            ELEVEN_ATTAINMENTS]),
+        ("A second Rāgapeyyāla in this project", [
+            "This is the second peyyāla in this project to bear the "
+            "name Rāgapeyyāla, &lsquo;abbreviated texts beginning with "
+            "greed&rsquo;: the first closed the Book of the Nines at "
+            "AN 9.113&ndash;432 and the Book of the Tens at AN "
+            "10.237&ndash;746, both built from sixteen defilements "
+            "crossed against ten verbs and either two or three "
+            "ten-item lists. This one, closing the Book of the "
+            "Elevens, uses a single fixed eleven-item list instead "
+            "&mdash; simpler in structure, though the underlying "
+            "seventeen-defilement roster (adding greed itself to the "
+            "familiar sixteen) is unchanged."]),
+        ("What this single discourse opens", [
+            "AN 11.982 covers only the first of ten verbs (insight, "
+            "abhiññā) applied to greed alone. The next page supplies "
+            "greed's remaining nine verbs, and the page after that "
+            "extends the full ten-verb treatment to the sixteen "
+            "further defilements already familiar from this "
+            "project's two earlier Rāgapeyyāla, closing not only this "
+            "nipāta but the entire 1,408-discourse project."]),
+    ],
+    "terms": [
+        ("rāgassa abhiññāya",
+         "&ldquo;for insight into greed&rdquo; &mdash; this "
+         "discourse's own opening phrase, naming both its subject and "
+         "the first of ten verbs this peyyāla will apply throughout."),
+        ("cattāri jhānāni",
+         "&ldquo;the four absorptions&rdquo; &mdash; the first four "
+         "of the eleven things to be developed."),
+        ("mettācetovimutti, karuṇācetovimutti, muditācetovimutti, "
+         "upekkhācetovimutti",
+         "&ldquo;the heart's releases by love, compassion, rejoicing, "
+         "and equanimity&rdquo; &mdash; the four divine abodes, "
+         "items five through eight."),
+        ("ākāsānañcāyatana, viññāṇañcāyatana, ākiñcaññāyatana",
+         "&ldquo;the dimensions of infinite space, infinite "
+         "consciousness, and nothingness&rdquo; &mdash; the three "
+         "lower formless attainments, items nine through eleven, "
+         "stopping short of neither-perception-nor-non-perception."),
+        ("Rāgapeyyāla",
+         "&ldquo;abbreviated texts beginning with greed&rdquo; "
+         "&mdash; this section's own name in the source, shared with "
+         "the two earlier peyyāla of the same name closing AN 9 and "
+         "AN 10."),
+    ],
+    "text_intro": (
+        "The discourse in full: eleven things to be developed for "
+        "insight into greed. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Eleven things, for insight into greed"),
+        ("p", "&sect;1", "an11.982:1.1-1.4"),
+    ],
+    "quiz": [
+        {"q": "What eleven things does this discourse say should be "
+              "developed for insight into greed?",
+         "opts": [
+             "The noble eightfold path and three additional factors",
+             "The four absorptions, the four divine abodes, and the "
+             "three lower formless attainments",
+             "The five hindrances and six sense bases",
+             "Ten verbs and one defilement"],
+         "correct": 1,
+         "expl": "The same fixed list already met in full at AN "
+                 "11.16."},
+        {"q": "Where did this project first meet this identical "
+              "eleven-item list?",
+         "opts": [
+             "AN 11.9, the thoroughbred simile",
+             "AN 11.16, the eleven doors to the deathless",
+             "AN 11.17, the cowherd simile",
+             "AN 9.113–432"],
+         "correct": 1,
+         "expl": "There framed as doors to the deathless; here, as "
+                 "developments for insight into greed."},
+        {"q": "How many Rāgapeyyāla has this project now met, "
+              "including this one?",
+         "opts": [
+             "Just this one", "Two, closing the Nines and the Tens",
+             "Three, including this one closing the Elevens",
+             "Four"],
+         "correct": 2,
+         "expl": "AN 9.113–432, AN 10.237–746, and now this one "
+                 "closing AN 11."},
+        {"q": "How does this Rāgapeyyāla's underlying list structure "
+              "differ from the earlier two, according to the guide?",
+         "opts": [
+             "It is identical in every respect",
+             "It uses a single fixed eleven-item list, rather than "
+             "two or three ten-item lists",
+             "It has no fixed list at all",
+             "It uses twenty items instead of eleven"],
+         "correct": 1,
+         "expl": "Simpler in structure, though the seventeen-"
+                 "defilement roster carries over unchanged."},
+        {"q": "What does this single discourse cover, according to "
+              "the guide?",
+         "opts": [
+             "All ten verbs applied to all seventeen defilements",
+             "Only the first of ten verbs (insight) applied to greed "
+             "alone",
+             "Nothing related to greed",
+             "The entire Rāgapeyyāla in one page"],
+         "correct": 1,
+         "expl": "The next page supplies greed's remaining nine "
+                 "verbs."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Eleven things, one purpose", [
+            "four jhānas, four hearts "
+            "released, three formless states",
+            "&mdash; all for seeing greed",
+        ]),
+        ("A list met once before", [
+            "the same eleven",
+            "that opened doors to no-death &mdash;",
+            "now applied to greed",
+        ]),
+        ("A third Rāgapeyyāla", [
+            "the Nines, the Tens, and",
+            "now the Elevens &mdash; greed's own",
+            "name, closing each book",
+        ]),
+        ("Cross-references", [
+            "AN 11.16 &middot; the eleven-item list's first full "
+            "telling, as doors to the deathless",
+            "AN 9.113&ndash;432, AN 10.237&ndash;746 &middot; the "
+            "earlier two Rāgapeyyāla",
+            "AN 11.502&ndash;981 &middot; previous, closing chapter 3",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.982/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.502-981.html">AN 11.502&ndash;981</a> &mdash; previous.',
+        '<a href="an-11.983-991.html">AN 11.983&ndash;991</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.983–991 — greed's remaining nine verbs
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.983-991",
+    "index_pali": "(untitled)",
+    "nav_title": "Greed's Remaining Nine Verbs",
+    "source": "an11/an11.983-991",
+    "crumb": "AN 11.983&ndash;991",
+    "meta_title": ("AN 11.983–991 — Greed's Remaining Nine Verbs | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.983–991, completing greed's own ten-verb treatment in "
+        "this nipāta's closing Rāgapeyyāla. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.983&ndash;991",
+    "title": "Greed's Remaining Nine Verbs",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_4),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same eleven things from AN 11.982, now "
+                 "developed for nine further verbs applied to greed"),
+        ("Length", "~1 minute to read; stands for nine discourses"),
+        ("Completing greed's own treatment", "Together with AN "
+         "11.982, this page completes the full ten-verb pattern for "
+         "greed that the next page will apply to sixteen further "
+         "defilements"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "nine verbs, compressed but individually "
+                       "distinct"),
+    ],
+    "why": (
+        "The same eleven things already named for insight into greed "
+        "at AN 11.982 should likewise be developed for greed's "
+        "complete understanding, complete ending, giving up, ending, "
+        "vanishing, fading away, cessation, giving away, and letting "
+        "go &mdash; nine further discourses (AN 11.983&ndash;991), "
+        "completing greed's own ten-verb treatment."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The same eleven attainments from AN 11.982 apply "
+            "identically to nine further verbs regarding greed "
+            "&mdash; complete understanding, complete ending, giving "
+            "up, ending, vanishing, fading away, cessation, giving "
+            "away, and letting go &mdash; completing the full "
+            "ten-verb pattern this Rāgapeyyāla will apply to every "
+            "remaining defilement."]),
+        ("Ten verbs, the same set met twice before", [
+            "Insight (abhiññā, AN 11.982) plus these nine gives the "
+            "identical ten-verb sequence already met at both earlier "
+            "Rāgapeyyāla in this project (AN 9.113&ndash;432 and AN "
+            "10.237&ndash;746): complete understanding, complete "
+            "ending, giving up, ending, vanishing, fading away, "
+            "cessation, giving away, and letting go, always in this "
+            "same order."]),
+        ("Why greed gets two pages, not one", [
+            "Greed alone receives its own dedicated ten-discourse "
+            "treatment across this page and the last (AN "
+            "11.982&ndash;991) before the next page compresses "
+            "sixteen further defilements into a single further page "
+            "&mdash; mirroring exactly how both earlier Rāgapeyyāla "
+            "singled out greed for individual treatment before "
+            "folding the remaining defilements into denser compressed "
+            "form."]),
+        ("The arithmetic so far", [
+            "One discourse for insight (AN 11.982) plus nine more for "
+            "the remaining verbs (this page) gives exactly ten "
+            "discourses for greed, matching AN 11.982 through AN "
+            "11.991 &mdash; the first tenth of this Rāgapeyyāla's full "
+            "170-discourse span."]),
+    ],
+    "terms": [
+        ("pariññāya",
+         "&ldquo;for the complete understanding&rdquo; &mdash; the "
+         "second verb, opening this page's list."),
+        ("parikkhayāya",
+         "&ldquo;complete ending&rdquo; &mdash; the third verb, "
+         "distinct from the plain &lsquo;ending&rsquo; (khaya) that "
+         "follows later in the sequence."),
+        ("pahānāya",
+         "&ldquo;giving up&rdquo; &mdash; the fourth verb, familiar "
+         "from this project's many earlier discourses on abandoning "
+         "unskillful qualities."),
+        ("cāgāya",
+         "&ldquo;giving away&rdquo; &mdash; the ninth verb, distinct "
+         "from the tenth and final &lsquo;letting go&rsquo; "
+         "(paṭinissagga) that closes the sequence."),
+        ("paṭinissaggāya",
+         "&ldquo;letting go&rdquo; &mdash; the tenth and final verb, "
+         "closing greed's own ten-verb treatment across this page and "
+         "AN 11.982."),
+    ],
+    "text_intro": (
+        "The compressed text in full: nine further verbs applied to "
+        "greed, completing its ten-verb treatment. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine further verbs, applied to greed"),
+        ("p", "&sect;1", "an11.983-991:1.1-1.10"),
+    ],
+    "quiz": [
+        {"q": "What does this page add to AN 11.982's treatment of "
+              "greed?",
+         "opts": [
+             "A twelfth attainment",
+             "Nine further verbs, completing the full ten-verb "
+             "pattern",
+             "An entirely new eleven-item list",
+             "Nothing; it repeats AN 11.982 exactly"],
+         "correct": 1,
+         "expl": "Insight plus these nine verbs gives the complete "
+                 "ten-verb sequence."},
+        {"q": "Where has this project already met this identical "
+              "ten-verb sequence?",
+         "opts": [
+             "Nowhere else",
+             "Both earlier Rāgapeyyāla, at AN 9.113–432 and AN "
+             "10.237–746",
+             "Only at AN 11.16",
+             "Only in chapter 1 of this nipāta"],
+         "correct": 1,
+         "expl": "The same ten verbs, always in the same order."},
+        {"q": "According to the guide, why does greed receive its own "
+              "dedicated two-page treatment?",
+         "opts": [
+             "By accident of the source text",
+             "Mirroring exactly how both earlier Rāgapeyyāla singled "
+             "out greed before compressing the remaining defilements",
+             "Greed is considered less important than other "
+             "defilements",
+             "There is no reason given"],
+         "correct": 1,
+         "expl": "A consistent structural choice across all three "
+                 "Rāgapeyyāla in this project."},
+        {"q": "What is the tenth and final verb, closing greed's own "
+              "treatment?",
+         "opts": [
+             "Complete understanding",
+             "Letting go (paṭinissagga)",
+             "Giving up",
+             "Insight"],
+         "correct": 1,
+         "expl": "Closing the sequence across this page and AN 11.982."},
+        {"q": "What fraction of this Rāgapeyyāla's full span does "
+              "greed's own ten-discourse treatment represent, "
+              "according to the guide?",
+         "opts": [
+             "The entire span",
+             "The first tenth (10 of 170 discourses)",
+             "Half the span",
+             "None of it"],
+         "correct": 1,
+         "expl": "AN 11.982 through AN 11.991, out of AN 11.982 "
+                 "through AN 11.1151."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Nine more verbs", [
+            "understanding, end,",
+            "giving up, ending, vanishing,",
+            "fading, ceasing, gone",
+        ]),
+        ("Ten verbs, met twice before", [
+            "the same sequence that",
+            "closed the Nines, closed the Tens &mdash;",
+            "now closing greed here",
+        ]),
+        ("Greed, given its due", [
+            "two full pages, ten",
+            "discourses, before the rest",
+            "compress into one",
+        ]),
+        ("Cross-references", [
+            "AN 11.982 &middot; previous, the first verb, insight",
+            "AN 9.113&ndash;432, AN 10.237&ndash;746 &middot; the "
+            "same ten-verb sequence in this project's two earlier "
+            "Rāgapeyyāla",
+            "AN 11.992&ndash;1151 &middot; next, sixteen further "
+            "defilements, closing the entire Aṅguttara Nikāya",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.983-991/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.982.html">AN 11.982</a> &mdash; previous.',
+        '<a href="an-11.992-1151.html">AN 11.992&ndash;1151</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.992–1151 — sixteen further defilements, ten verbs each,
+# closing this chapter, this nipāta, and the entire Aṅguttara Nikāya
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.992-1151",
+    "index_pali": "(untitled)",
+    "nav_title": "Hate, Etc., Closing the Aṅguttara Nikāya",
+    "source": "an11/an11.992-1151",
+    "crumb": "AN 11.992&ndash;1151",
+    "meta_title": ("AN 11.992–1151 — Hate, Etc. — Closing the "
+                   "Aṅguttara Nikāya | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "the final page of this entire project — sixteen further "
+        "defilements crossed against ten verbs, completing the "
+        "Rāgapeyyāla and closing the Book of the Elevens and the "
+        "whole Aṅguttara Nikāya at once. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.992&ndash;1151",
+    "title": "Hate, Etc., Closing the Aṅguttara Nikāya",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing "
+                "the entire nipāta and this project" % VAGGA_4),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "Sixteen further defilements, each crossed against "
+                 "the same ten verbs and the same eleven-item list "
+                 "already established for greed"),
+        ("Length", "~2 minutes to read the compressed text; the full "
+                   "160-discourse expansion would take many hours"),
+        ("Closing this entire project", "This page closes the "
+         "Rāgapeyyāla, chapter 3, the Book of the Elevens, and this "
+         "1,408-discourse Aṅguttara Nikāya completion project all at "
+         "once, with the source's own final colophon"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the compressed text is brief; understanding "
+                       "what it stands for, and what it closes, "
+                       "requires holding this entire project in mind"),
+    ],
+    "why": (
+        "This single page stands for 160 discourses (AN "
+        "11.992&ndash;1151), the sixteen further defilements &mdash; "
+        "hate through negligence, the identical sixteen-item list "
+        "already met at AN 9.113&ndash;432 and AN 10.267&ndash;746 "
+        "&mdash; each crossed against the same ten verbs and the same "
+        "eleven-item list established for greed, closing this "
+        "chapter, this nipāta, and this entire project."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of the sixteen remaining defilements &mdash; hate, "
+            "delusion, anger, acrimony, disdain, contempt, jealousy, "
+            "stinginess, deceitfulness, deviousness, obstinacy, "
+            "aggression, conceit, arrogance, vanity, and negligence "
+            "&mdash; should likewise be met by developing the same "
+            "eleven things for insight, complete understanding, "
+            "complete ending, giving up, ending, vanishing, fading "
+            "away, cessation, giving away, and letting go of each "
+            "defilement in turn."]),
+        ("The same sixteen-item list, met a third time", [
+            "Hate, delusion, anger, acrimony, disdain, contempt, "
+            "jealousy, stinginess, deceitfulness, deviousness, "
+            "obstinacy, aggression, conceit, arrogance, vanity, and "
+            "negligence are the identical sixteen items, in the "
+            "identical order, that closed both AN 9.113&ndash;432 and "
+            "AN 10.267&ndash;746 &mdash; the same defilement list, now "
+            "recurring a third and final time to close the Elevens as "
+            "it once closed the Nines and the Tens."]),
+        ("The arithmetic, and this project's own final closure", [
+            "16 defilements &times; 10 verbs &times; 1 eleven-item "
+            "list = 160, plus the 10 discourses already given for "
+            "greed itself (AN 11.982&ndash;991), totals exactly 170, "
+            "matching the discourse range AN 11.982 through AN "
+            "11.1151 &mdash; and with this page, all 1,151 AN11 "
+            "discourses, and with them this entire project's "
+            "translation of all 1,408 discourses across AN 1 through "
+            "AN 11, are complete."]),
+        ("A colophon closing four things at once, and translated in "
+         "full this time", [
+            "This page's own closing lines mark a fourfold closure, "
+            "and unlike this project's two earlier Rāgapeyyāla, whose "
+            "final nipāta-closing lines were left untranslated in the "
+            "English source, this time both closing declarations are "
+            "given in English: first the standard formula "
+            "&lsquo;that is what the Buddha said; satisfied, the "
+            "mendicants approved&rsquo;, then (after the untranslated "
+            "&lsquo;Rāgapeyyālaṁ niṭṭhitaṁ&rsquo; and a traditional "
+            "recitation-count verse) the source's own words, quoted "
+            "here directly: &lsquo;The Book of the Elevens is "
+            "finished. The Numbered Discourses are completed.&rsquo; "
+            "&mdash; not just this chapter, not just this nipāta, but "
+            "the entire Aṅguttara Nikāya, and with it this project's "
+            "full translation of all 1,408 discourses it set out to "
+            "cover."]),
+    ],
+    "terms": [
+        ("dosassa, mohassa, kodhassa",
+         "&ldquo;hate, delusion, anger&rdquo; &mdash; the first three "
+         "of the sixteen defilements opening this compressed range, "
+         "the same standard list met at both this project's earlier "
+         "Rāgapeyyāla."),
+        ("upanāhassa, makkhassa, paḷāsassa, issāya, macchariyassa",
+         "&ldquo;acrimony, disdain, contempt, jealousy, "
+         "stinginess&rdquo; &mdash; five further defilements, matching "
+         "the identical list and order already established at AN "
+         "3.183&ndash;352 and repeated at every nipāta-closing "
+         "peyyāla since."),
+        ("pamādassa",
+         "&ldquo;of negligence&rdquo; &mdash; the sixteenth and final "
+         "defilement, given its own full ten-verb treatment before "
+         "this page's own closing lines."),
+        ("ime ekādasa dhammā bhāvetabbā",
+         "&ldquo;these eleven things should be developed&rdquo; "
+         "&mdash; the shared closing formula, repeated for each "
+         "defilement crossed against each of the ten verbs."),
+        ("Ekādasakanipātapāḷi niṭṭhitā. Aṅguttaranikāyo samatto.",
+         "&ldquo;the Book of the Elevens is finished. The Numbered "
+         "Discourses are completed.&rdquo; &mdash; the source's own "
+         "final declaration, quoted here directly, closing this "
+         "entire nipāta and, with it, this project's full translation "
+         "of all 1,408 discourses across AN 1 through AN 11."),
+    ],
+    "text_intro": (
+        "The compressed text in full: sixteen defilements crossed "
+        "against ten verbs, then the discourse's own close and this "
+        "project's final colophon, quoted directly. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Sixteen defilements, ten verbs, compressed"),
+        ("p", "&sect;1", "an11.992-1151:1.1-1.25"),
+        ("h3", "The discourse ends, and the entire collection with it"),
+        ("p", "&sect;2", "an11.992-1151:2.1-3.6"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "160 individually numbered discourses, produced by "
+             "crossing sixteen further defilements against ten verbs "
+             "and the eleven-item list",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "16 defilements × 10 verbs = 160, completing this "
+                 "Rāgapeyyāla's full 170-discourse structure alongside "
+                 "greed's own 10."},
+        {"q": "According to the guide, what is significant about the "
+              "sixteen-item defilement list this page uses?",
+         "opts": [
+             "It is entirely new vocabulary invented for this page",
+             "It is the identical sixteen-item list, in the identical "
+             "order, that closed both AN 9.113–432 and AN "
+             "10.267–746",
+             "It has no relation to any earlier discourse",
+             "It differs completely from every earlier defilement "
+             "list"],
+         "correct": 1,
+         "expl": "The same defilement list, now recurring a third and "
+                 "final time."},
+        {"q": "How does this page's own closing colophon differ from "
+              "this project's two earlier Rāgapeyyāla, according to "
+              "the guide?",
+         "opts": [
+             "It is identical, entirely untranslated",
+             "Its final nipāta-closing declaration is given in "
+             "English and quoted directly, unlike the earlier two",
+             "It has no colophon at all",
+             "It closes only this single page, nothing more"],
+         "correct": 1,
+         "expl": "\"The Book of the Elevens is finished. The Numbered "
+                 "Discourses are completed.\" — translated this time."},
+        {"q": "What does this page mark the completion of for this "
+              "entire project, according to the guide?",
+         "opts": [
+             "Only this single compressed page",
+             "All 1,151 AN11 discourses, and with them this project's "
+             "complete translation of all 1,408 discourses across AN "
+             "1 through AN 11",
+             "Only chapter 3's own span",
+             "Nothing beyond the Rāgapeyyāla itself"],
+         "correct": 1,
+         "expl": "The final page of the entire Aṅguttara Nikāya "
+                 "completion project."},
+        {"q": "What is the arithmetic behind this Rāgapeyyāla's full "
+              "170-discourse span, according to the guide?",
+         "opts": [
+             "170 discourses with no discoverable structure",
+             "16 defilements × 10 verbs (160) plus greed's own 10 "
+             "discourses (AN 11.982–991) equals 170",
+             "17 defilements repeated 10 times each with no verb "
+             "multiplication",
+             "A single list repeated 170 times"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing, "
+                 "matching the discourse range AN 11.982 through AN "
+                 "11.1151 exactly."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("The same sixteen, met a third time", [
+            "hate through negligence &mdash;",
+            "the list that closed the Nines,",
+            "the Tens, now the Elevens",
+        ]),
+        ("One hundred sixty, compressed to one page", [
+            "sixteen times ten, plus",
+            "greed's own ten &mdash; one hundred",
+            "seventy, all told",
+        ]),
+        ("Four closures, one breath", [
+            "the peyyāla ends,",
+            "the Elevens end, and with them",
+            "the whole collection",
+        ]),
+        ("Cross-references", [
+            "AN 11.983&ndash;991 &middot; previous, greed's own "
+            "closing verbs",
+            "AN 9.113&ndash;432, AN 10.267&ndash;746 &middot; the "
+            "earlier two uses of this identical sixteen-item "
+            "defilement list, closing the Nines and the Tens",
+            "AN 11.1 &middot; the opening page of this nipāta, "
+            "reached from here by following the collection's own "
+            "sequence backward through all 1,408 discourses",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.992-1151/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.983-991.html">AN 11.983&ndash;991</a> &mdash; previous.',
+        '<a href="an-9.113-432.html">AN 9.113&ndash;432</a> &mdash; the earlier use of '
+        "this identical sixteen-item defilement list.",
+    ],
+})
