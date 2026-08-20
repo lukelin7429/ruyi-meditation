@@ -38848,3 +38848,2238 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.1 — Dhanañjānīsutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 1, "Dhanañjānī", "With Dhanañjānī",
+    meta_title="SN 7.1 — With Dhanañjānī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhanañjānīsutta — opening Brāhmaṇasaṃyutta, a devout "
+        "wife's spontaneous homage to the Buddha provokes her "
+        "husband's fury, and a single verse on anger's poisonous root "
+        "converts him entirely. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The brahmin lady Dhanañjānī, her husband the "
+                     "brahmin of the Bhāradvāja clan, and the Buddha"),
+        ("Form", "A domestic incident, an angry confrontation, a "
+                 "single exchange of verse, and a conversion"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new saṃyutta with a clear, "
+                       "self-contained pattern"),
+    ],
+    why=(
+        "This discourse opens Brāhmaṇasaṃyutta with an ordinary "
+        "domestic accident: a devout brahmin wife trips while serving "
+        "a meal and blurts out homage to the Buddha, not once but "
+        "three times. Her husband's fury at this &mdash; and his "
+        "declared intention to march off and refute the Buddha's "
+        "teaching himself &mdash; sets the pattern this saṃyutta will "
+        "repeat across many of its twenty-two discourses: a brahmin "
+        "arrives hostile, the Buddha answers with a compact verse "
+        "rather than argument, and the brahmin converts on the spot. "
+        "Here the verse concerns anger itself &mdash; described with "
+        "the memorable image of a poisonous root beneath a sweet tip "
+        "&mdash; a teaching whose relevance to the very brahmin "
+        "receiving it is impossible to miss."),
+    guide=[
+        ("A domestic accident opening a saṃyutta about brahmins", [
+            "Unlike SN 3's confrontations with King Pasenadi or SN 4's "
+            "direct challenges from Māra, this discourse begins inside "
+            "an ordinary household, with a wife's involuntary "
+            "exclamation rather than any deliberate act &mdash; the "
+            "provocation for everything that follows is essentially "
+            "an accident."]),
+        ("Contempt named specifically before the confrontation begins", [
+            "The husband's insult &mdash; calling his wife a "
+            "&lsquo;lowlife woman&rsquo; and the Buddha a &lsquo;bald "
+            "ascetic&rsquo; &mdash; establishes his hostility in his "
+            "own words before he ever meets the Buddha, making his "
+            "later conversion a genuine reversal rather than a "
+            "foregone conclusion."]),
+        ("A wife's confidence stated plainly, without deference", [
+            "Dhanañjānī's response to her husband's threat isn't "
+            "placating; she states directly that no one in the entire "
+            "world of gods and humans could refute the Buddha's "
+            "teaching, and simply tells him to go find out for "
+            "himself &mdash; a confidence the discourse doesn't temper "
+            "or soften."]),
+        ("A question about killing, answered by a teaching against violence", [
+            "The brahmin's opening verse asks what one thing, when "
+            "slain, brings ease and freedom from sorrow &mdash; "
+            "framing the question in the language of violence he "
+            "presumably expects the Buddha to reject outright; instead "
+            "the Buddha answers within that same frame, naming anger "
+            "itself as the one thing worth killing."]),
+        ("A single image doing the verse's entire work", [
+            "Anger's description as having &lsquo;a poisonous root and "
+            "a sweet tip&rsquo; needs no further explanation within "
+            "the verse itself &mdash; the image alone accounts for why "
+            "anger feels satisfying in the moment yet damages "
+            "afterward, and the brahmin's immediate, effusive praise "
+            "confirms the image landed exactly as intended."]),
+    ],
+    terms=[
+        ("namo tassa bhagavato arahato sammāsambuddhassa",
+         "&ldquo;homage to him, the blessed one, the perfected one, "
+         "the fully awakened Buddha&rdquo; &mdash; Dhanañjānī's "
+         "spontaneous exclamation, repeated three times."),
+        ("muṇḍakassa samaṇassa",
+         "&ldquo;that bald ascetic&rdquo; &mdash; the husband's "
+         "contemptuous term for the Buddha, spoken before their "
+         "meeting."),
+        ("kodhaṁ chetvā sukhaṁ seti",
+         "&ldquo;when anger's slain you sleep at ease&rdquo; &mdash; "
+         "the verse's opening line, answering the brahmin's own "
+         "question."),
+        ("kodhassa visamūlassa madhuraggassa",
+         "&ldquo;anger has a poisonous root and a sweet tip&rdquo; "
+         "&mdash; the verse's central, memorable image."),
+        ("saraṇaṁ gacchāmi",
+         "&ldquo;I go for refuge&rdquo; &mdash; the brahmin's "
+         "conversion formula, spoken immediately after the verse."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Brāhmaṇasaṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.1:1.1-1.4"),
+        ("p", "&sect;2", "sn7.1:2.1-4.1"),
+        ("p", "&sect;3", "sn7.1:5.1-5.5"),
+        ("p", "&sect;4", "sn7.1:6.1-6.3"),
+        ("p", "&sect;5", "sn7.1:7.1-7.4"),
+        ("p", "&sect;6", "sn7.1:8.1-8.6"),
+        ("p", "&sect;7", "sn7.1:9.1-9.5"),
+        ("p", "&sect;8", "sn7.1:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What provokes the entire chain of events in this discourse?",
+         "opts": [
+             "Dhanañjānī tripping and involuntarily exclaiming homage to the Buddha",
+             "A deliberate public debate arranged in advance",
+             "The Buddha visiting the brahmin's household uninvited",
+             "A dispute over inheritance"],
+         "correct": 0,
+         "expl": "An accident, not a deliberate act, sets everything in motion."},
+        {"q": "How does the husband refer to his wife and the Buddha before meeting him?",
+         "opts": [
+             "Contemptuously, calling her a \"lowlife woman\" and the Buddha a \"bald ascetic\"",
+             "With great respect for both",
+             "He refuses to mention either of them",
+             "He praises his wife but insults the Buddha"],
+         "correct": 0,
+         "expl": "Establishing genuine hostility before the confrontation even begins."},
+        {"q": "How does Dhanañjānī respond to her husband's threat to refute the Buddha?",
+         "opts": [
+             "She states plainly that no one in the world could refute the Buddha, without deference",
+             "She apologizes and begs him not to go",
+             "She agrees the Buddha's teaching is weak",
+             "She refuses to speak at all"],
+         "correct": 0,
+         "expl": "A confidence the discourse doesn't soften or temper."},
+        {"q": "What question does the brahmin pose to the Buddha in verse?",
+         "opts": [
+             "What one thing, when slain, brings ease and freedom from sorrow",
+             "How to become wealthy",
+             "Whether the gods truly exist",
+             "How long the Buddha has been teaching"],
+         "correct": 0,
+         "expl": "Framed in the language of violence, which the Buddha answers within the same frame."},
+        {"q": "What does the Buddha identify as the one thing worth \"killing\"?",
+         "opts": [
+             "Anger",
+             "Desire for wealth",
+             "The brahmin's pride",
+             "Attachment to family"],
+         "correct": 0,
+         "expl": "Kodhaṁ chetvā sukhaṁ seti — anger, named directly."},
+        {"q": "How does the verse describe anger?",
+         "opts": [
+             "As having a poisonous root and a sweet tip",
+             "As entirely without any appeal",
+             "As impossible to overcome",
+             "As a virtue in moderation"],
+         "correct": 0,
+         "expl": "A single image explaining both anger's appeal and its damage."},
+        {"q": "How does the brahmin respond to the Buddha's verse?",
+         "opts": [
+             "With immediate, effusive praise, comparing it to a lamp lit in darkness",
+             "With continued anger and rejection",
+             "With silence and no response at all",
+             "By challenging the Buddha to a second debate"],
+         "correct": 0,
+         "expl": "Confirming the verse's image landed exactly as intended."},
+        {"q": "What does the brahmin do after praising the Buddha's teaching?",
+         "opts": [
+             "He goes for refuge and requests ordination",
+             "He returns home unconvinced",
+             "He demands a written copy of the teaching",
+             "He asks to debate a different topic"],
+         "correct": 0,
+         "expl": "A genuine reversal from his opening hostility."},
+        {"q": "What does the brahmin achieve after his ordination?",
+         "opts": [
+             "He becomes an arahant, not long after ordaining",
+             "He returns to lay life within a week",
+             "He becomes a teacher but not an arahant",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "Living alone, diligent, and resolute, he realizes the goal in this very life."},
+        {"q": "What pattern does this discourse establish for much of Brāhmaṇasaṃyutta?",
+         "opts": [
+             "A hostile brahmin arrives, the Buddha answers with a compact verse, and the brahmin converts",
+             "A brahmin teaches the Buddha a new doctrine",
+             "The Buddha refuses to engage with any brahmin",
+             "Brahmins and the Buddha debate without resolution"],
+         "correct": 0,
+         "expl": "A pattern this saṃyutta will repeat across many of its twenty-two discourses."},
+    ],
+    marginalia=[
+        ("An accident, not a plan", [
+            "a trip, a blurted homage &mdash;",
+            "everything that follows starts here",
+        ]),
+        ("Contempt spoken before the meeting", [
+            "\"lowlife woman,\" \"bald ascetic\" &mdash;",
+            "hostility on the record beforehand",
+        ]),
+        ("A poisonous root, a sweet tip", [
+            "one image explaining anger whole &mdash;",
+            "why it satisfies, why it damages",
+        ]),
+        ("From threat to refuge", [
+            "a genuine reversal, not a given &mdash;",
+            "arahantship not long after",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.15.html">SN 6.15 &middot; Full '
+        "Extinguishment</a> &mdash; the discourse closing "
+        "Brahmasaṃyutta, immediately before this one.",
+        '<a href="sn-7.2.html">SN 7.2 &middot; With Bhāradvāja the '
+        "Rude</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.2 — Akkosasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 2, "Akkosa", "With Bhāradvāja the Rude",
+    meta_title="SN 7.2 — With Bhāradvāja the Rude | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akkosasutta — a brahmin hurls abuse at the Buddha, who "
+        "answers with one of the canon's most famous similes: an "
+        "unaccepted gift still belongs to the one who offered it. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The brahmin Akkosaka Bhāradvāja (\"Bhāradvāja "
+                     "the Rude\") and the Buddha"),
+        ("Form", "A hostile confrontation, a household simile, a "
+                 "verse, and a conversion"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "one of the canon's most frequently cited "
+                       "similes on how to receive hostility"),
+    ],
+    why=(
+        "This discourse follows directly from SN 7.1's conversion "
+        "with the news reaching another member of the same clan: a "
+        "different brahmin, known here simply as Bhāradvāja the Rude, "
+        "hears that a kinsman has joined the Buddha's order and "
+        "arrives already furious, hurling abuse before any exchange of "
+        "words has even happened. The Buddha's response doesn't "
+        "counter insult with insult; it asks a simple domestic "
+        "question about hospitality &mdash; if a guest declines the "
+        "food you offer, whose food is it still? &mdash; and builds "
+        "from that everyday logic one of the most widely cited "
+        "similes in the entire canon for how to receive hostility "
+        "without being changed by it."),
+    guide=[
+        ("Anger arriving before any actual exchange", [
+            "Unlike SN 7.1, where the brahmin at least states his "
+            "grievance in verse before the confrontation proper "
+            "begins, Bhāradvāja the Rude arrives already abusing the "
+            "Buddha with harsh language, provoked purely by rumor "
+            "&mdash; the hostility here is immediate rather than "
+            "built up through dialogue."]),
+        ("A question about hospitality, not retaliation", [
+            "The Buddha's first move isn't to answer the insults "
+            "directly; it's to ask about something entirely ordinary "
+            "&mdash; whether guests still visit, whether food is still "
+            "offered &mdash; establishing a shared, uncontroversial "
+            "premise before applying it to the situation at hand."]),
+        ("A gift that stays with the giver when refused", [
+            "The simile's logic is precise: if an offered gift isn't "
+            "accepted, it remains the giver's own possession, not "
+            "something transferred against the receiver's will "
+            "&mdash; applied to insult, this means abuse simply not "
+            "taken up stays entirely with the one who offered it."]),
+        ("A refrain repeated for emphasis, not elaborated further", [
+            "&lsquo;It still belongs to you, brahmin&rsquo; is stated "
+            "twice in immediate succession, the discourse trusting "
+            "repetition rather than additional argument to make the "
+            "point land, a rhetorical choice distinct from the single "
+            "unrepeated images used elsewhere in this saṃyutta."]),
+        ("A verse on not returning anger, framed as victory", [
+            "The closing verses don't simply counsel patience for its "
+            "own sake; they frame not retaliating as winning "
+            "&lsquo;a battle hard to win&rsquo;, and go further to "
+            "note that people ignorant of the teaching mistake the one "
+            "who heals both sides of a conflict for a fool &mdash; "
+            "anticipating and naming the very misreading such "
+            "restraint invites."]),
+    ],
+    terms=[
+        ("asabbhāhi pharusāhi vācāhi akkosati paribhāsati",
+         "&ldquo;abused and insulted him with rude, harsh "
+         "words&rdquo; &mdash; the brahmin's opening hostility, "
+         "arriving before any exchange."),
+        ("sace te nappaṭiggaṇhanti, kassa taṁ hoti",
+         "&ldquo;if they don't accept it, whose is it?&rdquo; "
+         "&mdash; the simile's central question, drawn from ordinary "
+         "hospitality."),
+        ("tavevetaṁ, brāhmaṇa, hoti",
+         "&ldquo;it still belongs to you, brahmin&rdquo; &mdash; the "
+         "refrain repeated twice, applying the simile directly to the "
+         "insults just spoken."),
+        ("akkodhassa kuto kodho",
+         "&ldquo;whence anger for one free of anger?&rdquo; &mdash; "
+         "the opening line of the Buddha's responding verse."),
+        ("saṅgāmaṁ jeti dujjayaṁ",
+         "&ldquo;you win a battle hard to win&rdquo; &mdash; framing "
+         "the refusal to retaliate as victory, not mere passivity."),
+    ],
+    text_intro=(
+        "The discourse in full. A short passage repeating earlier "
+        "material verbatim is left blank in the source and is not "
+        "reconstructed here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.2:1.1-2.11"),
+        ("p", "&sect;2", "sn7.2:3.1-3.7"),
+        ("p", "&sect;3", "sn7.2:4.1-4.4"),
+        ("p", "&sect;4", "sn7.2:5.1-5.4"),
+        ("p", "&sect;5", "sn7.2:6.1-6.4"),
+        ("p", "&sect;6", "sn7.2:7.1-7.4"),
+        ("p", "&sect;7", "sn7.2:8.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What prompts Bhāradvāja the Rude to confront the Buddha?",
+         "opts": [
+             "Hearing a rumor that a clansman had joined the Buddha's order",
+             "A personal debt he believes the Buddha owes him",
+             "An invitation from the Buddha himself",
+             "A direct insult from a mendicant"],
+         "correct": 0,
+         "expl": "Provoked purely by rumor, arriving already hostile."},
+        {"q": "How does the confrontation begin, compared to SN 7.1?",
+         "opts": [
+             "With immediate abuse in harsh language, before any exchange of words",
+             "With a calm, polite conversation first",
+             "With a written complaint delivered in advance",
+             "With a formal debate arranged by both parties"],
+         "correct": 0,
+         "expl": "Hostility here is immediate rather than built up through dialogue."},
+        {"q": "What is the Buddha's first move in response to the abuse?",
+         "opts": [
+             "Asking an ordinary question about hospitality and guests",
+             "Insulting the brahmin in return",
+             "Refusing to speak at all",
+             "Walking away from the confrontation"],
+         "correct": 0,
+         "expl": "Establishing a shared, uncontroversial premise before applying it."},
+        {"q": "What is the logic of the Buddha's central simile?",
+         "opts": [
+             "An unaccepted gift remains the property of the one who offered it",
+             "A gift always transfers ownership regardless of acceptance",
+             "Gifts should never be offered to strangers",
+             "Only guests of high status deserve gifts"],
+         "correct": 0,
+         "expl": "Applied to insult: abuse not taken up stays with the one who offered it."},
+        {"q": "How many times is the refrain \"it still belongs to you, brahmin\" repeated?",
+         "opts": [
+             "Twice, in immediate succession",
+             "Once only",
+             "Five times throughout the discourse",
+             "It is not repeated at all"],
+         "correct": 0,
+         "expl": "Repetition rather than additional argument drives the point home."},
+        {"q": "How does the closing verse frame not retaliating against anger?",
+         "opts": [
+             "As winning \"a battle hard to win\"",
+             "As a sign of weakness",
+             "As something only monks can achieve",
+             "As irrelevant to the situation"],
+         "correct": 0,
+         "expl": "Framing restraint as victory, not mere passivity."},
+        {"q": "According to the verse, how do people ignorant of the teaching view someone who heals both sides of a conflict?",
+         "opts": [
+             "As a fool",
+             "As a hero",
+             "As a coward",
+             "As a saint"],
+         "correct": 0,
+         "expl": "The verse anticipates and names this very misreading of restraint."},
+        {"q": "How does Bhāradvāja the Rude respond to the Buddha's teaching?",
+         "opts": [
+             "With praise, going for refuge and requesting ordination",
+             "With continued hostility and rejection",
+             "By leaving without a word",
+             "By demanding the Buddha apologize first"],
+         "correct": 0,
+         "expl": "A conversion following the same pattern as SN 7.1."},
+        {"q": "What does Bhāradvāja the Rude achieve after his ordination?",
+         "opts": [
+             "He becomes an arahant, not long after ordaining",
+             "He disrobes shortly afterward",
+             "He becomes a renowned teacher but not an arahant",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "The same outcome as the brahmin in SN 7.1."},
+        {"q": "What point does the king and his retinue raise about the Buddha, according to the brahmin?",
+         "opts": [
+             "That the Buddha is believed to be a perfected one, yet the brahmin claims he still gets angry",
+             "That the Buddha has never taught in public",
+             "That the Buddha refuses all guests",
+             "That the Buddha has broken his own precepts"],
+         "correct": 0,
+         "expl": "A challenge the Buddha's verse directly answers by describing what true freedom from anger looks like."},
+    ],
+    marginalia=[
+        ("Abuse before a single word exchanged", [
+            "hostility arriving on rumor alone &mdash;",
+            "no dialogue built up to it first",
+        ]),
+        ("A gift no one accepted", [
+            "still belongs to the one who offered it &mdash;",
+            "the same logic applied to insult",
+        ]),
+        ("Repeated, not re-argued", [
+            "\"it still belongs to you\" twice over &mdash;",
+            "the point made by repetition alone",
+        ]),
+        ("Restraint named as victory", [
+            "a battle hard to win, not mere patience &mdash;",
+            "the misreading named and set aside",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.1.html">SN 7.1 &middot; With Dhanañjānī</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-7.3.html">SN 7.3 &middot; With Bhāradvāja the '
+        "Fiend</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.3 — Asurindakasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 3, "Asurindaka", "With Bhāradvāja the Fiend",
+    meta_title="SN 7.3 — With Bhāradvāja the Fiend | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asurindakasutta — a third angry Bhāradvāja hurls abuse "
+        "and is met with silence, then taunts the Buddha for losing, "
+        "only to hear a verse that redefines what winning actually "
+        "means. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The brahmin Asurindaka Bhāradvāja (\"Bhāradvāja "
+                     "the Fiend\") and the Buddha"),
+        ("Form", "Abuse met with silence, a taunt, then a single "
+                 "verse redefining victory"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "brief, with a sharp turn on the meaning of "
+                       "winning"),
+    ],
+    why=(
+        "This is the third member of the Bhāradvāja clan in as many "
+        "discourses to arrive at the Buddha already furious over a "
+        "kinsman's ordination, and the pattern shifts here in a "
+        "telling way: rather than answering the abuse with an "
+        "immediate teaching, as in SN 7.1 and SN 7.2, the Buddha "
+        "simply says nothing. It's the brahmin's own taunt at this "
+        "silence &mdash; declaring himself the winner &mdash; that "
+        "draws out the verse, and that verse turns the taunt inside "
+        "out: the one who thinks he's won by speaking harshly is the "
+        "fool, while the real victory belongs entirely to the one who "
+        "endures without responding in kind."),
+    guide=[
+        ("Silence itself as the first response", [
+            "Where SN 7.1 and SN 7.2 both show the Buddha meeting "
+            "hostility with an immediate teaching, here he offers "
+            "nothing at all at first &mdash; the silence is itself the "
+            "response, and it's precisely this non-reaction that "
+            "provokes the brahmin's next move."]),
+        ("A taunt claiming victory over an opponent who never engaged", [
+            "&lsquo;You're beaten, ascetic, you're beaten!&rsquo; only "
+            "makes sense as a claim if silence is read as defeat "
+            "&mdash; the brahmin's triumph depends entirely on "
+            "mistaking non-engagement for concession, a "
+            "misunderstanding the verse then corrects directly."]),
+        ("Victory relocated from speech to endurance", [
+            "The verse doesn't deny that a kind of &lsquo;winning&rsquo; "
+            "happened; it relocates where the real victory lies "
+            "&mdash; not in the harsh words spoken, but in the "
+            "endurance of the one who received them without "
+            "retaliating."]),
+        ("A verse shared, with small variation, across this vagga", [
+            "Several lines here &mdash; on not returning anger, on "
+            "winning &lsquo;a battle hard to win&rsquo;, on being "
+            "mistaken for a fool by those inexpert in the teaching "
+            "&mdash; repeat almost verbatim from SN 7.2's closing "
+            "verses, suggesting a shared stock of teaching-verses "
+            "reused across different brahmins' confrontations rather "
+            "than freshly composed for each one."]),
+        ("A third conversion, told with maximal compression", [
+            "The discourse's closing lines are almost entirely "
+            "elided in the source, repeating the same conversion and "
+            "arahantship formula already given in full in SN 7.1 and "
+            "7.2 &mdash; this reading guide follows that same "
+            "compression rather than reconstructing the elided text."]),
+    ],
+    terms=[
+        ("bhagavā tuṇhī ahosi",
+         "&ldquo;the Buddha kept silent&rdquo; &mdash; the initial "
+         "response to abuse, itself meaningful rather than absent."),
+        ("jitosi, samaṇa, jitosi",
+         "&ldquo;you're beaten, ascetic, you're beaten!&rdquo; "
+         "&mdash; the brahmin's taunt, claiming victory over the "
+         "Buddha's silence."),
+        ("jayaṁ ve maññati bālo",
+         "&ldquo;the fool thinks he's won&rdquo; &mdash; the verse's "
+         "opening line, naming the taunt's error directly."),
+        ("yā titikkhā vijānato",
+         "&ldquo;that very endurance, for one who understands&rdquo; "
+         "&mdash; the verse's relocation of true victory."),
+        ("saṅgāmaṁ jeti dujjayaṁ",
+         "&ldquo;you win a battle hard to win&rdquo; &mdash; a line "
+         "shared with SN 7.2's verse, reused here almost verbatim."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to SN 7.1 and 7.2, is elided in the source and is "
+        "not reconstructed here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.3:1.1-1.6"),
+        ("p", "&sect;2", "sn7.3:2.1-2.4"),
+        ("p", "&sect;3", "sn7.3:3.1-3.4"),
+        ("p", "&sect;4", "sn7.3:4.1-4.4"),
+        ("p", "&sect;5", "sn7.3:5.1-5.4"),
+        ("p", "&sect;6", "sn7.3:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does the Buddha initially respond to Bhāradvāja the Fiend's abuse?",
+         "opts": [
+             "With silence",
+             "With an immediate teaching verse",
+             "By leaving the scene",
+             "By returning the insults"],
+         "correct": 0,
+         "expl": "A shift from the immediate-teaching pattern of SN 7.1 and 7.2."},
+        {"q": "How does the brahmin interpret the Buddha's silence?",
+         "opts": [
+             "As a defeat, taunting \"you're beaten, ascetic\"",
+             "As a sign of deep respect",
+             "As an invitation to leave",
+             "He does not react to the silence at all"],
+         "correct": 0,
+         "expl": "Mistaking non-engagement for concession."},
+        {"q": "What does the Buddha's verse say about someone who thinks they've won by speaking harshly?",
+         "opts": [
+             "That such a person is a fool",
+             "That such a person has genuinely won",
+             "That such a person deserves praise",
+             "The verse does not address this"],
+         "correct": 0,
+         "expl": "Jayaṁ ve maññati bālo — naming the taunt's error directly."},
+        {"q": "Where does the verse relocate true victory?",
+         "opts": [
+             "In the endurance of the one who receives harsh words without retaliating",
+             "In the cleverness of the harsh words themselves",
+             "In having the last word in an argument",
+             "In physical strength"],
+         "correct": 0,
+         "expl": "Not in the words spoken, but in the endurance of the one who received them."},
+        {"q": "How do several lines in this verse relate to SN 7.2's closing verses?",
+         "opts": [
+             "They repeat almost verbatim, suggesting a shared stock of teaching-verses",
+             "They directly contradict SN 7.2's teaching",
+             "They are entirely unrelated in content",
+             "SN 7.2 quotes this discourse, not the reverse"],
+         "correct": 0,
+         "expl": "Reused across different brahmins' confrontations rather than freshly composed each time."},
+        {"q": "How does this discourse's closing compare to SN 7.1 and SN 7.2?",
+         "opts": [
+             "It is heavily elided, repeating the same formula already given in full earlier",
+             "It gives an entirely new and different conversion account",
+             "This discourse has no closing at all",
+             "The brahmin refuses ordination in this discourse"],
+         "correct": 0,
+         "expl": "Maximal compression, following the source's own elision."},
+        {"q": "What prompts Bhāradvāja the Fiend's confrontation with the Buddha?",
+         "opts": [
+             "Hearing a rumor about a kinsman's ordination",
+             "A direct invitation from the Buddha",
+             "A dispute over property",
+             "Witnessing a public debate"],
+         "correct": 0,
+         "expl": "The same trigger as SN 7.1 and SN 7.2, this time producing a different response pattern."},
+        {"q": "How does this discourse's structure differ most notably from SN 7.1 and SN 7.2?",
+         "opts": [
+             "The Buddha responds with silence rather than an immediate verse",
+             "The brahmin never becomes angry at all",
+             "No verse is spoken in this discourse",
+             "The Buddha refuses to ordain the brahmin"],
+         "correct": 0,
+         "expl": "Silence itself as the first response, provoking the brahmin's taunt."},
+        {"q": "What outcome does Bhāradvāja the Fiend reach after his ordination?",
+         "opts": [
+             "He becomes an arahant, following the same pattern as SN 7.1 and 7.2",
+             "He returns to lay life shortly afterward",
+             "He remains a lay follower without ordaining",
+             "The discourse leaves this unstated"],
+         "correct": 0,
+         "expl": "The same conversion-to-arahantship arc as the two preceding discourses."},
+        {"q": "How many members of the Bhāradvāja clan have now confronted the Buddha across SN 7.1–7.3?",
+         "opts": [
+             "Three",
+             "One",
+             "Five",
+             "The discourses do not specify a clan connection"],
+         "correct": 0,
+         "expl": "Each hearing of the previous kinsman's conversion and arriving angry in turn."},
+    ],
+    marginalia=[
+        ("Silence as the first word", [
+            "no teaching offered at once &mdash;",
+            "the non-response itself meaningful",
+        ]),
+        ("A victory claimed over nothing", [
+            "\"you're beaten\" — read into silence &mdash;",
+            "concession mistaken where none was given",
+        ]),
+        ("Winning relocated", [
+            "not in the harsh words spoken &mdash;",
+            "but in bearing them without reply",
+        ]),
+        ("A verse reused, not rewritten", [
+            "lines shared with the discourse before &mdash;",
+            "a stock of teaching, redeployed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.2.html">SN 7.2 &middot; With Bhāradvāja the '
+        "Rude</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-7.4.html">SN 7.4 &middot; With Bhāradvāja the '
+        "Bitter</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.4 — Bilaṅgikasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 4, "Bilaṅgika", "With Bhāradvāja the Bitter",
+    meta_title="SN 7.4 — With Bhāradvāja the Bitter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bilaṅgikasutta — a fourth angry Bhāradvāja stands "
+        "silently seething, and the Buddha, reading his unspoken "
+        "thoughts, answers with a single image: wronging the innocent "
+        "is like throwing dust into the wind. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The brahmin Bilaṅgika Bhāradvāja (\"Bhāradvāja "
+                     "the Bitter\") and the Buddha"),
+        ("Form", "Wordless hostility, met with a single unprompted "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the shortest and most compressed of the "
+                       "Bhāradvāja confrontations so far"),
+    ],
+    why=(
+        "This fourth Bhāradvāja doesn't even speak. He arrives angry "
+        "over the same rumor that provoked his three predecessors, but "
+        "instead of abusing the Buddha or taunting him, he simply "
+        "stands silently to one side, his hostility entirely "
+        "unspoken. The Buddha's response is correspondingly unusual "
+        "for this run of discourses: rather than reacting to words or "
+        "even to silence used as a weapon, he reads the brahmin's "
+        "&lsquo;train of thought&rsquo; directly and addresses it "
+        "before it's ever voiced, offering a single image &mdash; evil "
+        "done to an innocent person is like fine dust thrown into the "
+        "wind, blowing straight back onto the one who threw it."),
+    guide=[
+        ("The quietest confrontation in this run of discourses", [
+            "SN 7.1 opens with verse, SN 7.2 with abusive speech, SN "
+            "7.3 with abuse met by silence; this discourse strips even "
+            "that down further &mdash; the brahmin himself says "
+            "nothing at all, his entire hostility carried in his "
+            "posture and unspoken thought alone."]),
+        ("A response to thought, not to speech", [
+            "The Buddha's address here isn't a reply to anything the "
+            "brahmin said, since nothing was said; the text specifies "
+            "he speaks &lsquo;knowing his train of thought&rsquo;, "
+            "responding to an anger that never found words at all."]),
+        ("Innocence and purity named explicitly, not assumed", [
+            "The verse doesn't just condemn wronging others in "
+            "general; it specifies the target as someone who has "
+            "&lsquo;done no wrong&rsquo; and is &lsquo;pure&rsquo; and "
+            "&lsquo;without blemish&rsquo; &mdash; making clear that "
+            "the teaching addresses harm directed at the innocent "
+            "specifically, not wrongdoing in general."]),
+        ("Dust thrown against the wind as the verse's entire argument", [
+            "Unlike SN 7.1's poisonous-root image or SN 7.3's "
+            "relocated-victory argument, this verse offers a single "
+            "physical image and lets it carry the whole teaching: fine "
+            "dust thrown upwind doesn't travel to its target, it blows "
+            "straight back onto the thrower, exactly as harm aimed at "
+            "an innocent person is said to return to its source."]),
+        ("The shortest exchange, the same outcome", [
+            "Despite being the most compressed of the four Bhāradvāja "
+            "confrontations so far &mdash; one verse, no dialogue at "
+            "all from the brahmin&mdash;the outcome matches the "
+            "others exactly: praise, refuge, ordination, and "
+            "arahantship, suggesting the brevity of the exchange has "
+            "no bearing on the completeness of its effect."]),
+    ],
+    terms=[
+        ("tuṇhībhūto ekamantaṁ aṭṭhāsi",
+         "&ldquo;stood silently to one side&rdquo; &mdash; the "
+         "brahmin's entire contribution to the confrontation, no "
+         "words at all."),
+        ("cetasā cetoparivitakkamaññāya",
+         "&ldquo;knowing his train of thought&rdquo; &mdash; the "
+         "Buddha's direct response to unspoken anger."),
+        ("appaduṭṭhassa narassa dussati",
+         "&ldquo;wrongs a man who has done no wrong&rdquo; &mdash; "
+         "the verse's central scenario."),
+        ("suddhassa posassa anaṅgaṇassa",
+         "&ldquo;a pure man who has not a blemish&rdquo; &mdash; "
+         "specifying the innocence of the one wronged."),
+        ("sukhumo rajo paṭivātaṁva khitto",
+         "&ldquo;like fine dust thrown upwind&rdquo; &mdash; the "
+         "verse's single central image, carrying its entire "
+         "argument."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to the preceding three discourses, is elided in "
+        "the source and is not reconstructed here. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.4:1.1-1.4"),
+        ("p", "&sect;2", "sn7.4:2.1-2.4"),
+        ("p", "&sect;3", "sn7.4:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does Bhāradvāja the Bitter express his hostility toward the Buddha?",
+         "opts": [
+             "He says nothing at all, standing silently to one side",
+             "He hurls abusive language",
+             "He taunts the Buddha directly",
+             "He asks a hostile question in verse"],
+         "correct": 0,
+         "expl": "The quietest of the four Bhāradvāja confrontations so far."},
+        {"q": "How does the Buddha know what troubles the brahmin, since nothing is said?",
+         "opts": [
+             "By directly reading his unspoken train of thought",
+             "A companion mendicant reports it to him",
+             "The brahmin eventually speaks after all",
+             "The Buddha does not respond at all"],
+         "correct": 0,
+         "expl": "Responding to an anger that never found words."},
+        {"q": "What does the Buddha's verse specify about the person being wronged?",
+         "opts": [
+             "That they have done no wrong and are pure, without blemish",
+             "That they are wealthy and powerful",
+             "That they are another mendicant",
+             "The verse does not specify any qualities"],
+         "correct": 0,
+         "expl": "Making clear the teaching addresses harm directed at the innocent specifically."},
+        {"q": "What is the verse's central image?",
+         "opts": [
+             "Fine dust thrown upwind, blowing back onto the thrower",
+             "A river flowing back to its source",
+             "A boomerang returning to the one who threw it",
+             "A fire that burns itself out"],
+         "correct": 0,
+         "expl": "A single physical image carrying the verse's entire argument."},
+        {"q": "According to the verse, what happens to evil directed at an innocent person?",
+         "opts": [
+             "It backfires onto the one who did the wrong",
+             "It permanently harms the innocent person only",
+             "It has no effect on anyone",
+             "It benefits the wrongdoer in the long run"],
+         "correct": 0,
+         "expl": "Evil pacceti (returns to) the fool who caused it, like dust thrown against the wind."},
+        {"q": "How does this discourse compare in length to SN 7.1–7.3?",
+         "opts": [
+             "It is the shortest and most compressed of the four so far",
+             "It is significantly longer than the preceding three",
+             "It is exactly the same length as SN 7.1",
+             "Length cannot be compared across these discourses"],
+         "correct": 0,
+         "expl": "One verse, no dialogue at all from the brahmin."},
+        {"q": "What outcome does Bhāradvāja the Bitter reach, despite the brevity of the exchange?",
+         "opts": [
+             "The same outcome as the other three: praise, refuge, ordination, and arahantship",
+             "He remains hostile and never converts",
+             "He converts but never becomes an arahant",
+             "The discourse leaves his outcome ambiguous"],
+         "correct": 0,
+         "expl": "The brevity of the exchange has no bearing on the completeness of its effect."},
+        {"q": "What single image does this verse rely on, compared to SN 7.1's poisonous-root image?",
+         "opts": [
+             "Dust thrown against the wind, rather than a root and a tip",
+             "Both discourses use the identical image",
+             "This discourse uses no image at all",
+             "A burning house, distinct from both"],
+         "correct": 0,
+         "expl": "A different but equally compact image, each verse carrying its argument through a single picture."},
+        {"q": "What prompts Bhāradvāja the Bitter's visit to the Buddha?",
+         "opts": [
+             "The same rumor of a kinsman's ordination that provoked his three predecessors",
+             "A direct summons from the Buddha",
+             "A dispute unrelated to the earlier discourses",
+             "Witnessing SN 7.3's confrontation in person"],
+         "correct": 0,
+         "expl": "Continuing the same trigger across this run of Bhāradvāja discourses."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Andhakavinda, in the rain",
+             "Near Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 7.1 through 7.3."},
+    ],
+    marginalia=[
+        ("No words at all", [
+            "hostility carried in posture alone &mdash;",
+            "the quietest confrontation yet",
+        ]),
+        ("A reply to thought, not speech", [
+            "nothing was said, yet something is answered &mdash;",
+            "anger addressed before it speaks",
+        ]),
+        ("Innocence named specifically", [
+            "pure, without blemish, wronged &mdash;",
+            "not wrongdoing in general",
+        ]),
+        ("Dust thrown into the wind", [
+            "one image, the whole argument carried &mdash;",
+            "harm returning to where it began",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.3.html">SN 7.3 &middot; With Bhāradvāja the '
+        "Fiend</a> &mdash; the discourse immediately before this one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.5 — Ahiṁsakasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 5, "Ahiṁsaka", "Harmless",
+    meta_title="SN 7.5 — Harmless | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ahiṁsakasutta — a brahmin proudly announces that his "
+        "name means Harmless, and the Buddha's verse asks whether the "
+        "name matches the actual conduct. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The brahmin Ahiṁsaka Bhāradvāja (\"Bhāradvāja "
+                     "the Harmless\") and the Buddha"),
+        ("Form", "A proud self-announcement, answered by a single "
+                 "conditional verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with a clean logical turn on names and "
+                       "conduct"),
+    ],
+    why=(
+        "After four discourses driven by anger over a kinsman's "
+        "ordination, this one shifts register entirely: the brahmin "
+        "here arrives calmly, exchanges the ordinary courtesies, and "
+        "simply announces his own name twice with evident pride "
+        "&mdash; &lsquo;I am Harmless, worthy Gotama, I am "
+        "Harmless!&rsquo; The Buddha's response doesn't confirm or "
+        "deny the name; it makes the name conditional on something "
+        "the brahmin hasn't yet demonstrated &mdash; a person is only "
+        "as harmless as their actual conduct in body, speech, and "
+        "mind, regardless of what they happen to be called."),
+    guide=[
+        ("A departure from the anger pattern of SN 7.1–7.4", [
+            "This is the first discourse in the saṃyutta where the "
+            "brahmin arrives without any stated anger or grievance "
+            "&mdash; no rumor, no rude language, no silent hostility "
+            "&mdash; just an ordinary greeting followed by a proud "
+            "self-introduction, a notably calmer opening than any "
+            "before it."]),
+        ("A name announced as if it were already an achievement", [
+            "The brahmin's repetition &mdash; stating his name twice "
+            "in a row &mdash; reads as genuine pride in what he takes "
+            "his name to already prove about him, treating the label "
+            "itself as sufficient evidence of the quality it names."]),
+        ("A conditional that withholds confirmation", [
+            "The verse's opening line doesn't affirm the brahmin's "
+            "claim; it states a condition &mdash; &lsquo;if you were "
+            "really like your name&rsquo; &mdash; withholding "
+            "agreement until the second half supplies what actually "
+            "needs to be true."]),
+        ("Harm defined across three specific channels", [
+            "The verse's definition of genuine harmlessness isn't "
+            "vague; it names three distinct channels &mdash; body, "
+            "speech, and mind &mdash; each of which must be free of "
+            "harm before the name can be considered earned rather than "
+            "merely worn."]),
+        ("A pattern this saṃyutta will use again for other names", [
+            "This same logical move &mdash; a name claimed, then made "
+            "conditional on matching conduct &mdash; recurs with "
+            "different names and different brahmins later in this "
+            "saṃyutta, establishing here in its clearest form a device "
+            "the collection returns to."]),
+    ],
+    terms=[
+        ("ahiṁsakāhaṁ, bho gotama, ahiṁsakāhaṁ",
+         "&ldquo;I am Harmless, worthy Gotama, I am Harmless!&rdquo; "
+         "&mdash; the brahmin's proud, doubled self-announcement."),
+        ("yathā nāmaṁ tathā cassa",
+         "&ldquo;if you were really like your name&rdquo; &mdash; "
+         "the verse's opening conditional, withholding confirmation."),
+        ("kāyena vācāya manasā ca na hiṁsati",
+         "&ldquo;does no harm by body, speech, or mind&rdquo; "
+         "&mdash; the threefold definition of genuine harmlessness."),
+        ("paraṁ na vihiṁsati",
+         "&ldquo;doesn't harm anyone else&rdquo; &mdash; the verse's "
+         "concluding criterion."),
+        ("sa ve ahiṁsako hoti",
+         "&ldquo;such a person truly is Harmless&rdquo; &mdash; the "
+         "name earned by conduct, not merely worn as a label."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to the preceding discourses in this vagga, is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.5:1.1-1.4"),
+        ("p", "&sect;2", "sn7.5:2.1-2.6"),
+        ("p", "&sect;3", "sn7.5:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 7.1–7.4?",
+         "opts": [
+             "The brahmin arrives calmly, with no stated anger or grievance",
+             "The brahmin arrives angrier than any before him",
+             "The Buddha initiates the confrontation this time",
+             "No brahmin appears in this discourse at all"],
+         "correct": 0,
+         "expl": "A notably calmer opening than any of the four preceding discourses."},
+        {"q": "What does the brahmin announce to the Buddha?",
+         "opts": [
+             "That his name means \"Harmless,\" stated twice with evident pride",
+             "That he has renounced his brahmin status",
+             "That he wishes to debate a point of doctrine",
+             "That he has come to insult the Buddha"],
+         "correct": 0,
+         "expl": "Treating the name itself as sufficient evidence of the quality it names."},
+        {"q": "How does the Buddha's verse respond to this announcement?",
+         "opts": [
+             "By making the name conditional on actual conduct, not simply confirming it",
+             "By immediately agreeing the brahmin is harmless",
+             "By denying that harmlessness is possible at all",
+             "By ignoring the announcement entirely"],
+         "correct": 0,
+         "expl": "\"If you were really like your name\" — withholding confirmation until conduct is shown."},
+        {"q": "Across how many channels does the verse define genuine harmlessness?",
+         "opts": [
+             "Three: body, speech, and mind",
+             "One: physical action alone",
+             "Five channels total",
+             "The verse does not specify any channels"],
+         "correct": 0,
+         "expl": "Each of body, speech, and mind must be free of harm before the name is earned."},
+        {"q": "What is the verse's underlying logical move?",
+         "opts": [
+             "A name claimed is made conditional on matching conduct",
+             "A name is treated as automatically true once spoken",
+             "The verse rejects the value of names entirely",
+             "The verse argues names are more important than conduct"],
+         "correct": 0,
+         "expl": "A device this saṃyutta uses again with different names and brahmins."},
+        {"q": "How many times does the brahmin state his name in this discourse?",
+         "opts": [
+             "Twice, in immediate succession",
+             "Once only",
+             "Three times",
+             "He never states his name directly"],
+         "correct": 0,
+         "expl": "A doubled, emphatic self-announcement."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Andhakavinda, in the rain",
+             "Near Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "A shift in setting from the Rājagaha-based discourses earlier in this vagga."},
+        {"q": "What outcome does the brahmin reach after this exchange?",
+         "opts": [
+             "He becomes an arahant, following the same pattern as the preceding discourses",
+             "He rejects the Buddha's teaching and leaves angry",
+             "He converts but does not seek ordination",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "The same conversion-to-arahantship arc continues despite the calmer opening."},
+        {"q": "What does this discourse's structure suggest about names in this saṃyutta?",
+         "opts": [
+             "That names are treated as claims requiring verification through conduct, not settled facts",
+             "That names have no relevance to the teaching at all",
+             "That the Buddha refuses to address anyone by name",
+             "That brahmin names are considered inherently false"],
+         "correct": 0,
+         "expl": "A pattern the collection will return to with other names later in this saṃyutta."},
+        {"q": "How does the brahmin's claim compare to the earlier discourses' pattern of hostility?",
+         "opts": [
+             "It replaces hostility with pride in a self-given label",
+             "It is simply another form of the same anger seen earlier",
+             "It contains no claim about the brahmin himself at all",
+             "It directly insults the Buddha, like SN 7.2 and 7.3"],
+         "correct": 0,
+         "expl": "A different kind of overreach — pride in a name rather than anger at a rumor."},
+    ],
+    marginalia=[
+        ("A calm arrival, for once", [
+            "no rumor, no rude words &mdash;",
+            "the gentlest opening in this run",
+        ]),
+        ("A name spoken twice", [
+            "pride standing in for proof &mdash;",
+            "the label treated as already earned",
+        ]),
+        ("\"If you were really like your name\"", [
+            "confirmation withheld, not given &mdash;",
+            "a condition, not an agreement",
+        ]),
+        ("Body, speech, mind — all three", [
+            "harmlessness defined precisely &mdash;",
+            "not a vague or partial standard",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.4.html">SN 7.4 &middot; With Bhāradvāja the '
+        "Bitter</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-7.6.html">SN 7.6 &middot; With Bhāradvāja of the '
+        "Matted Hair</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.6 — Jaṭāsutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 6, "Jaṭā", "With Bhāradvāja of the Matted Hair",
+    meta_title="SN 7.6 — With Bhāradvāja of the Matted Hair | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jaṭāsutta — a brahmin poses one of the canon's most "
+        "quoted riddles, \"who can untangle this tangle?\", and "
+        "receives a three-verse answer tracing ethics, wisdom, and "
+        "the cessation of name and form. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The brahmin Jaṭā Bhāradvāja (\"Bhāradvāja of the "
+                     "Matted Hair\") and the Buddha"),
+        ("Form", "A riddle in verse, answered across three "
+                 "progressively deeper verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the canon's most celebrated riddle "
+                       "verses, with a genuinely layered answer"),
+    ],
+    why=(
+        "This discourse's opening image &mdash; people &lsquo;tangled "
+        "within, tangled without&rsquo;, asking who can untangle the "
+        "tangle &mdash; is among the most quoted riddles in the "
+        "entire Pali canon, and this exact four-line verse appears "
+        "word for word elsewhere in this same collection, as SN 1.23. "
+        "Tradition credits this very question with prompting "
+        "Buddhaghosa's Visuddhimagga, one of Theravāda Buddhism's "
+        "most influential treatises, written centuries later "
+        "specifically as an extended answer to it. The Buddha's own "
+        "reply here builds in three stages: first naming the "
+        "practitioner qualified to untangle it, then naming those who "
+        "already have, and finally naming the exact point &mdash; the "
+        "complete cessation of name and form &mdash; where the tangle "
+        "is actually cut."),
+    guide=[
+        ("A verse identical to SN 1.23, word for word", [
+            "This discourse's opening question and the Buddha's full "
+            "answering verses match SN 1.23's Jaṭāsutta exactly, a "
+            "genuine cross-collection duplicate rather than a "
+            "coincidental shared title &mdash; the same teaching "
+            "delivered to two different audiences, or perhaps "
+            "recorded once and placed in two collections."]),
+        ("A riddle stated with deliberate ambiguity", [
+            "&lsquo;Tangled within, tangled without&rsquo; doesn't "
+            "specify what the tangle actually consists of; the "
+            "vagueness is likely deliberate, inviting the answer to "
+            "supply the content rather than restricting the question "
+            "in advance."]),
+        ("An answer that builds through three distinct stages", [
+            "The reply doesn't offer a single formula; it moves from "
+            "who is qualified to untangle it (the ethically grounded, "
+            "wise, diligent practitioner), to who already has (the "
+            "arahants, defilements ended), to where the untangling "
+            "actually occurs (the cessation of name and form) &mdash; "
+            "practitioner, achievement, and mechanism given in "
+            "sequence."]),
+        ("A tradition crediting this verse with a major treatise", [
+            "This question is traditionally associated with "
+            "prompting Buddhaghosa's Visuddhimagga (The Path of "
+            "Purification), a work this reading guide has separately "
+            "covered as a full readers' guide &mdash; connecting this "
+            "brief riddle to a commentarial tradition many centuries "
+            "later."]),
+        ("Cessation of name and form as the final, technical answer", [
+            "The verse's closing image doesn't end on a general "
+            "statement about wisdom; it names a specific technical "
+            "point &mdash; where nāma-rūpa (name and form, the basic "
+            "mind-body constituents) cease without residue &mdash; "
+            "giving the riddle's resolution a precision matching its "
+            "opening's deliberate vagueness."]),
+    ],
+    terms=[
+        ("antojaṭā bahijaṭā",
+         "&ldquo;tangled within, tangled without&rdquo; &mdash; the "
+         "riddle's opening image, identical to SN 1.23."),
+        ("ko imaṁ vijaṭaye jaṭaṁ",
+         "&ldquo;who can untangle this tangle?&rdquo; &mdash; the "
+         "question posed directly to the Buddha."),
+        ("sīle patiṭṭhāya&hellip;cittaṁ paññañca bhāvayaṁ",
+         "&ldquo;grounded in ethics&hellip;developing the mind and "
+         "wisdom&rdquo; &mdash; the first stage of the answer, "
+         "naming who is qualified to untangle it."),
+        ("khīṇāsavā arahanto",
+         "&ldquo;the perfected ones with defilements ended&rdquo; "
+         "&mdash; the second stage, naming those who already have."),
+        ("nāmañca rūpañca asesaṁ uparujjhati",
+         "&ldquo;name and form cease with no residue&rdquo; &mdash; "
+         "the final stage, the exact technical point where the "
+         "tangle is cut."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to the preceding discourses in this vagga, is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.6:1.1-1.4"),
+        ("p", "&sect;2", "sn7.6:2.1-2.4"),
+        ("p", "&sect;3", "sn7.6:3.1-3.4"),
+        ("p", "&sect;4", "sn7.6:4.1-4.4"),
+        ("p", "&sect;5", "sn7.6:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What is the riddle's opening image?",
+         "opts": [
+             "People \"tangled within, tangled without\"",
+             "A river with no visible source",
+             "A forest with no clear path",
+             "A knot that cannot be seen"],
+         "correct": 0,
+         "expl": "The verse's deliberately ambiguous central image."},
+        {"q": "How does this verse relate to SN 1.23?",
+         "opts": [
+             "It is identical, word for word — a genuine cross-collection duplicate",
+             "It shares only the title, with entirely different content",
+             "It directly contradicts SN 1.23's teaching",
+             "SN 1.23 is a much longer version of this same verse"],
+         "correct": 0,
+         "expl": "The same teaching appearing in two different collections."},
+        {"q": "What later treatise is traditionally associated with this riddle?",
+         "opts": [
+             "Buddhaghosa's Visuddhimagga (The Path of Purification)",
+             "The Abhidhammattha Saṅgaha",
+             "The Milindapañhā",
+             "No later treatise is traditionally connected to it"],
+         "correct": 0,
+         "expl": "Tradition credits this question with prompting that major commentarial work."},
+        {"q": "What is the first stage of the Buddha's three-stage answer?",
+         "opts": [
+             "Naming the practitioner qualified to untangle it: ethically grounded, wise, diligent",
+             "Naming the exact hell where untangled people are reborn",
+             "Denying that the tangle can ever be untangled",
+             "Describing the tangle's physical properties"],
+         "correct": 0,
+         "expl": "The qualified practitioner named first, before the achievement or mechanism."},
+        {"q": "Who does the second stage of the answer name?",
+         "opts": [
+             "The arahants, those whose defilements have ended",
+             "All human beings without exception",
+             "Only the Buddha himself",
+             "Brahmins specifically, as a class"],
+         "correct": 0,
+         "expl": "Khīṇāsavā arahanto — those who have already achieved the untangling."},
+        {"q": "What does the third and final stage name as the actual mechanism of untangling?",
+         "opts": [
+             "The complete cessation of name and form, without residue",
+             "A specific meditation technique alone",
+             "Study of scripture",
+             "The passage of time"],
+         "correct": 0,
+         "expl": "A precise technical point, matching the riddle's deliberate initial vagueness."},
+        {"q": "Why might the riddle's opening image be deliberately vague?",
+         "opts": [
+             "To invite the answer to supply the content, rather than restricting the question in advance",
+             "Because the original text is damaged and incomplete",
+             "Because the brahmin refused to clarify his question",
+             "The vagueness is considered a translation error"],
+         "correct": 0,
+         "expl": "Leaving room for the answer's own structure to define the tangle."},
+        {"q": "How does the structure of the Buddha's reply compare to a single formula?",
+         "opts": [
+             "It builds through three distinct, progressively deeper stages",
+             "It offers a single unified formula with no progression",
+             "It refuses to give any structured answer at all",
+             "It repeats the same line three times without variation"],
+         "correct": 0,
+         "expl": "Practitioner, achievement, and mechanism, given in sequence."},
+        {"q": "What does \"nāma-rūpa\" refer to in the verse's closing image?",
+         "opts": [
+             "Name and form, the basic mind-body constituents",
+             "A specific brahmin family name",
+             "A type of meditation posture",
+             "The title of a particular scripture"],
+         "correct": 0,
+         "expl": "A technical term for the basic mind-body constituents whose cessation is named here."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Andhakavinda, in the rain",
+             "Near Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 7.5, distinct from the earlier Rājagaha discourses in this vagga."},
+    ],
+    marginalia=[
+        ("The same verse, twice in the canon", [
+            "identical to SN 1.23 &mdash;",
+            "not a shared title, a shared text",
+        ]),
+        ("Tangled within, tangled without", [
+            "deliberately unspecified &mdash;",
+            "the answer left to supply the content",
+        ]),
+        ("Three stages, not one formula", [
+            "qualified, achieved, and where it's cut &mdash;",
+            "practitioner, arahant, cessation",
+        ]),
+        ("A riddle behind a major treatise", [
+            "tradition ties this to the Visuddhimagga &mdash;",
+            "a brief verse, a centuries-later answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-1.23.html">SN 1.23 &middot; A Tangle</a> '
+        "&mdash; the identical verse, elsewhere in this collection.",
+        '<a href="sn-7.5.html">SN 7.5 &middot; Harmless</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-7.7.html">SN 7.7 &middot; With Bhāradvāja the '
+        "Pure</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.7 — Suddhikasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 7, "Suddhika", "With Bhāradvāja the Pure",
+    meta_title="SN 7.7 — With Bhāradvāja the Pure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suddhikasutta — a brahmin claims only those accomplished "
+        "in knowledge and conduct are purified, and the Buddha "
+        "extends that purity explicitly across every caste, from "
+        "aristocrat to scavenger. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī"),
+        ("Speakers", "The brahmin Suddhika Bhāradvāja (\"Bhāradvāja "
+                     "the Pure\") and the Buddha"),
+        ("Form", "A claim in verse, answered by a verse naming every "
+                 "caste explicitly"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "compact, with an explicit caste-egalitarian "
+                       "conclusion"),
+    ],
+    why=(
+        "This brahmin's opening verse already sounds like a "
+        "correction of pure ritualism: no brahmin, he says, is ever "
+        "purified by ethics and self-mortification alone; only one "
+        "accomplished in knowledge and conduct is truly pure. It's a "
+        "claim close to something the Buddha himself might say "
+        "&mdash; the same epithet, vijjācaraṇasampanno, that a deity "
+        "used of the Buddha back in SN 6.11. But the Buddha's reply "
+        "pushes the logic further than the brahmin intended, "
+        "explicitly naming every caste in turn &mdash; aristocrat, "
+        "brahmin, peasant, menial, corpse-worker, scavenger &mdash; "
+        "and declaring that any of them, given energy and resolve, "
+        "attains the very purity the brahmin claimed as exclusively "
+        "his own."),
+    guide=[
+        ("A claim that sounds almost like agreement", [
+            "The brahmin's opening verse isn't hostile or dismissive; "
+            "it already rejects mere ritual and self-mortification in "
+            "favor of knowledge and conduct &mdash; a position close "
+            "enough to the Buddha's own teaching that the discourse's "
+            "real disagreement only becomes visible in what follows."]),
+        ("A shared epithet, recontextualized", [
+            "Vijjācaraṇasampanno &mdash; accomplished in knowledge and "
+            "conduct &mdash; is the same phrase a deity used to "
+            "describe the Buddha in SN 6.11; here a brahmin uses it "
+            "to describe an ideal, and the Buddha's answer will "
+            "determine who actually qualifies for it."]),
+        ("Birth-based brahminhood dismissed by its own hollowness", [
+            "The verse doesn't argue against brahmin birth directly; "
+            "it targets what birth alone fails to guarantee &mdash; "
+            "someone can mutter many prayers and still be &lsquo;filthy "
+            "and corrupt within&rsquo;, the ritual performance and "
+            "inner state treated as entirely separate matters."]),
+        ("Every caste named, not merely implied", [
+            "Where a vaguer statement might simply say purity is "
+            "available to anyone, this verse names the specific "
+            "castes one by one &mdash; aristocrat, brahmin, peasant, "
+            "menial, corpse-worker, scavenger &mdash; a list "
+            "deliberately built to include the castes traditional "
+            "Vedic society ranked lowest."]),
+        ("Effort named as the actual qualifying condition", [
+            "What determines access to ultimate purity, the verse "
+            "insists, is being energetic, resolute, and staunchly "
+            "vigorous &mdash; qualities available regardless of birth, "
+            "replacing an inherited category with an achievable "
+            "condition."]),
+    ],
+    terms=[
+        ("na brāhmaṇo sujjhati koci",
+         "&ldquo;no brahmin in the world is ever purified&rdquo; "
+         "&mdash; the brahmin's opening claim, denying purity by "
+         "ritual alone."),
+        ("vijjācaraṇasampanno",
+         "&ldquo;accomplished in knowledge and conduct&rdquo; "
+         "&mdash; the same epithet a deity applied to the Buddha in "
+         "SN 6.11, here used by a brahmin to define true purity."),
+        ("antokasambu saṅkiliṭṭho",
+         "&ldquo;filthy and corrupt within&rdquo; &mdash; describing "
+         "the hollowness of ritual performance without inner "
+         "purity."),
+        ("khattiyo brāhmaṇo vesso, suddo caṇḍālapukkuso",
+         "&ldquo;aristocrat, brahmin, peasant, menial, or a "
+         "corpse-worker or scavenger&rdquo; &mdash; the verse's "
+         "explicit, caste-egalitarian catalogue."),
+        ("pappoti paramaṁ suddhiṁ",
+         "&ldquo;you'll attain ultimate purity&rdquo; &mdash; the "
+         "verse's conclusion, available across every caste named."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to the preceding discourses in this vagga, is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.7:1.1-1.4"),
+        ("p", "&sect;2", "sn7.7:2.1-2.4"),
+        ("p", "&sect;3", "sn7.7:3.1-3.4"),
+        ("p", "&sect;4", "sn7.7:4.1-4.6"),
+        ("p", "&sect;5", "sn7.7:5.1-5.3"),
+    ],
+    quiz=[
+        {"q": "What does the brahmin's opening verse claim?",
+         "opts": [
+             "That no brahmin is purified by ethics and self-mortification alone",
+             "That all brahmins are automatically pure by birth",
+             "That purity is impossible for anyone to achieve",
+             "That only the Buddha himself can be pure"],
+         "correct": 0,
+         "expl": "Rejecting mere ritual in favor of knowledge and conduct."},
+        {"q": "What earlier discourse in this collection used the same epithet, \"vijjācaraṇasampanno\"?",
+         "opts": [
+             "SN 6.11, where a deity used it to describe the Buddha",
+             "SN 4.1, describing Māra",
+             "SN 1.1, describing the flood-crossing paradox",
+             "No earlier discourse uses this term"],
+         "correct": 0,
+         "expl": "The same phrase, here used by a brahmin to define his own ideal of purity."},
+        {"q": "How does the verse describe someone who mutters many prayers but is corrupt within?",
+         "opts": [
+             "\"Filthy and corrupt within,\" despite the ritual performance",
+             "As automatically purified by the prayers alone",
+             "As a true brahmin regardless of inner state",
+             "The verse does not address inner corruption"],
+         "correct": 0,
+         "expl": "Ritual performance and inner state treated as entirely separate matters."},
+        {"q": "How many castes does the verse name explicitly?",
+         "opts": [
+             "Several, from aristocrat down to corpse-worker and scavenger",
+             "Only brahmins are mentioned",
+             "Only aristocrats and brahmins",
+             "The verse refuses to name any castes"],
+         "correct": 0,
+         "expl": "A list deliberately including the castes traditional Vedic society ranked lowest."},
+        {"q": "What does the verse name as the actual qualifying condition for ultimate purity?",
+         "opts": [
+             "Being energetic, resolute, and staunchly vigorous",
+             "Being born into a specific caste",
+             "Performing a sufficient number of rituals",
+             "Wealth and social status"],
+         "correct": 0,
+         "expl": "An achievable condition, replacing an inherited category."},
+        {"q": "How does this discourse's opening tone compare to SN 7.1–7.4's confrontations?",
+         "opts": [
+             "It sounds close to agreement with the Buddha's own view, not hostile",
+             "It is the most hostile opening in the entire saṃyutta",
+             "It contains no verse at all",
+             "The brahmin refuses to speak to the Buddha directly"],
+         "correct": 0,
+         "expl": "The real disagreement only becomes visible in the Buddha's fuller answer."},
+        {"q": "What is the Buddha's response's relationship to the brahmin's opening claim?",
+         "opts": [
+             "It extends the logic further than the brahmin intended, across every caste",
+             "It directly contradicts and rejects the brahmin's claim entirely",
+             "It ignores the claim and changes the subject",
+             "It simply repeats the brahmin's own words back to him"],
+         "correct": 0,
+         "expl": "Pushing an already-sympathetic claim toward its fuller, more radical conclusion."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Andhakavinda, in the rain",
+             "Near Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The same setting as SN 7.5 and 7.6."},
+        {"q": "What outcome does Bhāradvāja the Pure reach after this exchange?",
+         "opts": [
+             "He becomes an arahant, following the pattern of the preceding discourses",
+             "He rejects the teaching and remains unconvinced",
+             "He converts but does not seek ordination",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "The same conversion-to-arahantship arc continues."},
+        {"q": "What kind of teaching does this discourse's caste-list represent?",
+         "opts": [
+             "An explicit caste-egalitarian statement, naming every social rank",
+             "A defense of traditional caste hierarchy",
+             "A teaching that applies only to brahmins",
+             "A purely metaphorical list with no social meaning"],
+         "correct": 0,
+         "expl": "Purity declared available regardless of caste, named explicitly rather than left implicit."},
+    ],
+    marginalia=[
+        ("A claim close to agreement", [
+            "not hostile, not dismissive &mdash;",
+            "the real disagreement still to come",
+        ]),
+        ("The same epithet, reused", [
+            "vijjācaraṇasampanno, once for the Buddha &mdash;",
+            "now the standard a brahmin sets himself",
+        ]),
+        ("Every caste, named outright", [
+            "aristocrat down to scavenger &mdash;",
+            "no rank left merely implied",
+        ]),
+        ("Effort in place of birth", [
+            "energetic, resolute, vigorous &mdash;",
+            "a condition anyone can meet",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.6.html">SN 7.6 &middot; With Bhāradvāja of the '
+        "Matted Hair</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-7.8.html">SN 7.8 &middot; With Bhāradvāja the '
+        "Fire-Worshiper</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.8 — Aggikasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 8, "Aggika", "With Bhāradvāja the Fire-Worshiper",
+    meta_title="SN 7.8 — With Bhāradvāja the Fire-Worshiper | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aggikasutta — a fire-sacrifice brahmin offers the Buddha "
+        "his milk-rice, but the Buddha redefines the three knowledges "
+        "in Buddhist terms, then refuses food given in exchange for a "
+        "verse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, at Bhāradvāja the Fire-Worshiper's "
+                    "home, during the Buddha's alms round"),
+        ("Speakers", "The brahmin Aggika Bhāradvāja (\"Bhāradvāja the "
+                     "Fire-Worshiper\") and the Buddha"),
+        ("Form", "An alms encounter, a verse exchange redefining a "
+                 "key term, and a pointed refusal"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A parallel exists in the Sutta Nipāta's "
+                              "Bhāradvāja discourses, and a rough "
+                              "counterpart may exist in the Chinese "
+                              "Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "layered, redefining a major Vedic concept and "
+                       "closing with a famous refusal"),
+    ],
+    why=(
+        "This discourse catches the Buddha mid-almsround, standing "
+        "silently at the door of a brahmin preparing a fire sacrifice "
+        "with milk-rice. The brahmin's opening verse offers him the "
+        "food, but conditionally &mdash; only one accomplished in the "
+        "three Vedic knowledges and good birth deserves to eat it. "
+        "The Buddha's answer performs a quiet redefinition: the "
+        "&lsquo;three knowledges&rsquo; he claims for himself aren't "
+        "the Vedic scriptures at all, but three specific insights "
+        "&mdash; memory of past lives, seeing beings' rebirth "
+        "according to their deeds, and the ending of rebirth itself. "
+        "And when the brahmin, persuaded, then offers the meal, the "
+        "Buddha refuses it on a different ground entirely: food given "
+        "in exchange for a verse recited over it isn't food a Buddha "
+        "eats."),
+    guide=[
+        ("An encounter that begins without either party seeking it", [
+            "Unlike this vagga's other discourses, no one comes "
+            "looking for the Buddha here; he simply appears on his "
+            "ordinary alms round, and the brahmin, already engaged in "
+            "sacrificial preparation, is the one who initiates the "
+            "verse exchange upon seeing him standing at the door."]),
+        ("Conditional hospitality, offered on Vedic terms", [
+            "The brahmin's opening verse isn't hostile; it's a "
+            "genuine offer, but hedged with qualification &mdash; only "
+            "someone of good birth, ample learning, and the three "
+            "knowledges may eat this milk-rice, terms drawn entirely "
+            "from traditional brahminical qualification."]),
+        ("Three knowledges, quietly redefined", [
+            "The Buddha's reply doesn't reject the framework of "
+            "&lsquo;three knowledges&rsquo; outright; it keeps the "
+            "form and replaces the content &mdash; not Vedic learning, "
+            "but memory of past lives, seeing where beings are reborn "
+            "according to their deeds, and the ending of rebirth "
+            "itself, the three insights traditionally associated with "
+            "the night of awakening."]),
+        ("An offer accepted in principle, then refused on separate grounds", [
+            "The brahmin, persuaded by the redefinition, offers the "
+            "meal &mdash; and the Buddha's refusal isn't about "
+            "worthiness at all; it turns on a different principle "
+            "entirely, that food given specifically in exchange for a "
+            "recited verse isn't food the Buddhas accept, regardless "
+            "of who's offering it."]),
+        ("Merit redirected, not simply declined", [
+            "The discourse doesn't end with a bare refusal; the "
+            "Buddha redirects the brahmin toward serving that same "
+            "food to any consummate one with defilements ended, "
+            "naming such a person &lsquo;the field for the seeker of "
+            "merit&rsquo; &mdash; the refusal reframing rather than "
+            "simply rejecting the brahmin's generosity."]),
+    ],
+    terms=[
+        ("tīhi vijjāhi sampanno",
+         "&ldquo;accomplished in the three knowledges&rdquo; &mdash; "
+         "the brahmin's opening qualification, drawn from Vedic "
+         "learning."),
+        ("pubbenivāsaṁ yo vedī",
+         "&ldquo;one who knows their past lives&rdquo; &mdash; the "
+         "first of the Buddha's redefined three knowledges."),
+        ("saggāpāyañca passati",
+         "&ldquo;sees heaven and places of loss&rdquo; &mdash; the "
+         "second redefined knowledge, seeing beings reborn according "
+         "to their deeds."),
+        ("jātikkhayaṁ patto",
+         "&ldquo;attained the ending of rebirth&rdquo; &mdash; the "
+         "third redefined knowledge, completing the Buddhist "
+         "reinterpretation of tevijjā."),
+        ("gāthābhigītaṁ me abhojaneyyaṁ",
+         "&ldquo;food enchanted by a verse isn't fit for me to "
+         "eat&rdquo; &mdash; the Buddha's refusal, on grounds separate "
+         "from the brahmin's own qualification."),
+    ],
+    text_intro=(
+        "The discourse in full. The closing conversion formula, "
+        "identical to the preceding discourses in this vagga, is "
+        "elided in the source and is not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.8:1.1-1.3"),
+        ("p", "&sect;2", "sn7.8:2.1-2.4"),
+        ("p", "&sect;3", "sn7.8:3.1-3.4"),
+        ("p", "&sect;4", "sn7.8:4.1-4.4"),
+        ("p", "&sect;5", "sn7.8:5.1-6.4"),
+        ("p", "&sect;6", "sn7.8:7.1-7.2"),
+        ("p", "&sect;7", "sn7.8:8.1-8.4"),
+        ("p", "&sect;8", "sn7.8:9.1-9.4"),
+        ("p", "&sect;9", "sn7.8:10.1-10.3"),
+    ],
+    quiz=[
+        {"q": "How does this encounter begin, compared to other discourses in this vagga?",
+         "opts": [
+             "The Buddha simply appears on his ordinary alms round, seeking nothing from the brahmin",
+             "The brahmin travels to seek out the Buddha specifically",
+             "The Buddha summons the brahmin to appear before him",
+             "A messenger arranges the meeting in advance"],
+         "correct": 0,
+         "expl": "No one comes looking for the Buddha here; the brahmin initiates the exchange upon seeing him."},
+        {"q": "What condition does the brahmin's opening verse place on eating the milk-rice?",
+         "opts": [
+             "Only someone of good birth, ample learning, and the three (Vedic) knowledges may eat it",
+             "Only someone who has fasted for a week may eat it",
+             "No conditions are placed at all",
+             "Only brahmins who reject all learning may eat it"],
+         "correct": 0,
+         "expl": "Terms drawn entirely from traditional brahminical qualification."},
+        {"q": "How does the Buddha's reply treat the framework of \"three knowledges\"?",
+         "opts": [
+             "It keeps the form but replaces the content with three different insights",
+             "It rejects the entire concept of \"three knowledges\" outright",
+             "It ignores the term completely",
+             "It agrees the Vedic three knowledges are correct as stated"],
+         "correct": 0,
+         "expl": "A quiet redefinition rather than an outright rejection."},
+        {"q": "What is the first of the Buddha's redefined three knowledges?",
+         "opts": [
+             "Knowing one's own past lives",
+             "Mastery of Vedic recitation",
+             "Skill in ritual fire sacrifice",
+             "Knowledge of astrology"],
+         "correct": 0,
+         "expl": "Pubbenivāsaṁ yo vedī — the first of three insights associated with the night of awakening."},
+        {"q": "What is the third of the Buddha's redefined three knowledges?",
+         "opts": [
+             "Attaining the ending of rebirth",
+             "Memorizing all Vedic scripture",
+             "Performing the fire sacrifice correctly",
+             "Achieving wealth and social status"],
+         "correct": 0,
+         "expl": "Jātikkhayaṁ patto — completing the Buddhist reinterpretation of tevijjā."},
+        {"q": "How does the brahmin respond once persuaded by the Buddha's redefinition?",
+         "opts": [
+             "He offers the meal to the Buddha directly",
+             "He becomes angry and withdraws the offer",
+             "He refuses to acknowledge the Buddha's answer",
+             "He asks the Buddha to leave immediately"],
+         "correct": 0,
+         "expl": "Persuaded, he extends the offer he had originally hedged with conditions."},
+        {"q": "On what grounds does the Buddha refuse the offered food?",
+         "opts": [
+             "Food given in exchange for a recited verse isn't food a Buddha eats, regardless of worthiness",
+             "He refuses because the brahmin is unworthy to give it",
+             "He refuses because the food itself is impure",
+             "He accepts the food without any refusal"],
+         "correct": 0,
+         "expl": "A separate principle from the qualification debate that preceded it."},
+        {"q": "What does the Buddha redirect the brahmin to do instead?",
+         "opts": [
+             "Serve the food to any consummate one with defilements ended",
+             "Discard the food entirely",
+             "Eat the food himself without offering it to anyone",
+             "Return the food to its original preparation"],
+         "correct": 0,
+         "expl": "Reframing the offer rather than simply rejecting the brahmin's generosity."},
+        {"q": "What later collection contains a parallel to this discourse?",
+         "opts": [
+             "The Sutta Nipāta's Bhāradvāja discourses",
+             "The Dhammapada exclusively",
+             "No parallel exists anywhere else in the canon",
+             "The Milindapañhā"],
+         "correct": 0,
+         "expl": "A cluster of related fire-sacrifice-brahmin encounters appears there as well."},
+        {"q": "What outcome does Bhāradvāja the Fire-Worshiper reach after this exchange?",
+         "opts": [
+             "He becomes an arahant, following this vagga's established pattern",
+             "He continues performing fire sacrifices as before",
+             "He rejects the Buddha's teaching entirely",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "The same conversion-to-arahantship arc as the discourses before it."},
+    ],
+    marginalia=[
+        ("An almsround, not a summons", [
+            "the Buddha simply appears at the door &mdash;",
+            "the brahmin initiates the exchange",
+        ]),
+        ("Three knowledges, kept and replaced", [
+            "the Vedic form, a different content &mdash;",
+            "past lives, rebirth, its ending",
+        ]),
+        ("Offered, then declined", [
+            "not for lack of worth &mdash;",
+            "a verse-enchanted gift, a separate refusal",
+        ]),
+        ("Merit redirected, not rejected", [
+            "\"serve that field instead\" &mdash;",
+            "generosity reframed, not simply turned away",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.7.html">SN 7.7 &middot; With Bhāradvāja the '
+        "Pure</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-7.9.html">SN 7.9 &middot; With Bhāradvāja of '
+        "Sundarikā</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.9 — Sundarikasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 9, "Sundarika", "With Bhāradvāja of Sundarikā",
+    meta_title="SN 7.9 — With Bhāradvāja of Sundarikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sundarikasutta — the vagga's richest discourse, with the "
+        "celebrated \"don't ask about birth, ask about conduct\" "
+        "verse, a hissing oblation thrown into water, and an extended "
+        "teaching on the inner flame of true purity. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "On the bank of the Sundarikā river, in the "
+                    "Kosalan lands"),
+        ("Speakers", "The brahmin Sundarika Bhāradvāja (\"Bhāradvāja "
+                     "of Sundarikā\") and the Buddha"),
+        ("Form", "An almsround-like encounter, a famous verse on "
+                 "birth and conduct, a dramatic demonstration, and an "
+                 "extended teaching in verse"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A close parallel exists as the "
+                              "Sundarikabhāradvāja Sutta in the Sutta "
+                              "Nipāta, and a rough counterpart may "
+                              "exist in the Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the richest and most celebrated discourse in "
+                       "this vagga"),
+    ],
+    why=(
+        "This discourse gives Arahantavagga its most substantial and "
+        "widely known text, closely paralleled elsewhere in the canon "
+        "as the Sutta Nipāta's own Sundarikabhāradvāja Sutta. A "
+        "brahmin performing a fire sacrifice looks for someone worthy "
+        "to eat the leftover oblation, spots the meditating Buddha, "
+        "and nearly turns back on seeing his shaven head &mdash; "
+        "before asking the question that draws out one of the "
+        "canon's most quoted lines: &lsquo;don't ask about birth, ask "
+        "about conduct.&rsquo; What follows escalates through a "
+        "refused offering, a startling physical demonstration when "
+        "the rejected oblation is discarded, and finally an extended "
+        "teaching that relocates the entire apparatus of fire "
+        "sacrifice &mdash; flame, smoke, ashes, purification &mdash; "
+        "onto the inner discipline of a well-tamed mind."),
+    guide=[
+        ("A search for worth that nearly rejects its own answer", [
+            "The brahmin's initial reaction to the Buddha's shaven "
+            "head &mdash; wanting to turn back, assuming a shaven "
+            "ascetic couldn't be the worthy recipient he's looking for "
+            "&mdash; almost derails the encounter before it begins, "
+            "caught only by his own second thought that even some "
+            "brahmins shave their heads."]),
+        ("Birth dismissed, conduct substituted, in the canon's own words", [
+            "&lsquo;Don't ask about birth, ask about conduct&rsquo; "
+            "opens the Buddha's reply with a directness matching its "
+            "later fame; the verse doesn't merely soften caste "
+            "distinctions, it redirects the entire question toward a "
+            "different, achievable criterion."]),
+        ("A refusal repeated from SN 7.8, now witnessed dramatically", [
+            "The Buddha's rejection of food &lsquo;enchanted by a "
+            "verse&rsquo; repeats SN 7.8's refusal almost verbatim, "
+            "but here the consequence of discarding the offering is "
+            "shown rather than merely stated &mdash; the leftover "
+            "oblation, dropped into water, sizzles and hisses like an "
+            "iron cauldron heated all day, a vivid, almost alarming "
+            "physical confirmation of the food's charged nature."]),
+        ("External fire named and set aside before the real teaching begins", [
+            "The Buddha's extended verses don't simply criticize fire "
+            "sacrifice in passing; they name it directly &mdash; "
+            "&lsquo;when you're kindling the wood, brahmin, don't "
+            "imagine this is purity, for it's just external&rsquo; "
+            "&mdash; clearing the ground explicitly before offering "
+            "what replaces it."]),
+        ("A full alternative vocabulary for the entire sacrificial apparatus", [
+            "Rather than simply rejecting fire sacrifice, the "
+            "teaching builds a complete internal parallel to every "
+            "element of it: conceit as the burden carried, anger as "
+            "smoke, lies as ashes, the tongue as ladle, the heart as "
+            "fireplace, and a well-tamed self as the light itself "
+            "&mdash; closing with the Dhamma imagined as a lake where "
+            "knowledge-masters bathe and cross to the far shore with "
+            "dry limbs."]),
+    ],
+    terms=[
+        ("mā jātiṁ puccha caraṇañca puccha",
+         "&ldquo;don't ask about birth, ask about conduct&rdquo; "
+         "&mdash; the discourse's most celebrated line, opening the "
+         "Buddha's reply."),
+        ("gāthābhigītaṁ me abhojaneyyaṁ",
+         "&ldquo;food enchanted by a verse isn't fit for me to "
+         "eat&rdquo; &mdash; the refusal repeated almost verbatim "
+         "from SN 7.8."),
+        ("cicciṭāyati ciṭiciṭāyati sandhūpāyati sampadhūpāyati",
+         "&ldquo;sizzled and hissed, steaming and fuming&rdquo; "
+         "&mdash; the dramatic sound of the discarded oblation "
+         "meeting water, compared to a cauldron heated all day."),
+        ("suddhiṁ amaññi bahiddhā",
+         "&ldquo;don't imagine this is purity, for it's just "
+         "external&rdquo; &mdash; naming and dismissing fire "
+         "sacrifice's claim to purify."),
+        ("ajjhattamevujjalayāmi jotiṁ",
+         "&ldquo;now I light only the inner flame&rdquo; &mdash; the "
+         "Buddha's own reinterpretation of sacred fire, replacing "
+         "external kindling entirely."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; the longest and richest text "
+        "in this vagga, closely paralleled in the Sutta Nipāta. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.9:1.1-1.11"),
+        ("p", "&sect;2", "sn7.9:2.1-2.2"),
+        ("p", "&sect;3", "sn7.9:3.1-4.4"),
+        ("p", "&sect;4", "sn7.9:5.1-6.2"),
+        ("p", "&sect;5", "sn7.9:7.1-8.4"),
+        ("p", "&sect;6", "sn7.9:9.1-9.3"),
+        ("p", "&sect;7", "sn7.9:10.1-10.4"),
+        ("p", "&sect;8", "sn7.9:11.1-11.2"),
+        ("p", "&sect;9", "sn7.9:12.1-13.4"),
+        ("p", "&sect;10", "sn7.9:14.1-16.4"),
+        ("p", "&sect;11", "sn7.9:17.1-17.3"),
+    ],
+    quiz=[
+        {"q": "What is the brahmin doing when he first notices the Buddha?",
+         "opts": [
+             "Performing a fire sacrifice and looking for someone worthy to eat the leftovers",
+             "Debating another brahmin",
+             "Traveling to a distant city",
+             "Searching for lost livestock"],
+         "correct": 0,
+         "expl": "The setup that eventually leads to the discourse's central refusal."},
+        {"q": "How does the brahmin initially react to seeing the Buddha's shaven head?",
+         "opts": [
+             "He almost turns back, assuming a shaven ascetic isn't worthy",
+             "He immediately recognizes the Buddha and bows",
+             "He becomes angry and hostile at once",
+             "He offers the food without hesitation"],
+         "correct": 0,
+         "expl": "Caught only by his own second thought that some brahmins also shave their heads."},
+        {"q": "What is the Buddha's famous opening line in response to the brahmin's question about birth?",
+         "opts": [
+             "\"Don't ask about birth, ask about conduct\"",
+             "\"Birth determines everything about a person\"",
+             "\"I refuse to answer questions about birth\"",
+             "\"Ask the fire itself about my birth\""],
+         "correct": 0,
+         "expl": "One of the canon's most quoted lines, opening the Buddha's reply directly."},
+        {"q": "How does this discourse's refusal of food compare to SN 7.8's?",
+         "opts": [
+             "It repeats SN 7.8's refusal almost verbatim, on the same grounds",
+             "It uses entirely different reasoning",
+             "The Buddha accepts the food this time",
+             "No refusal occurs in this discourse"],
+         "correct": 0,
+         "expl": "Food enchanted by a verse rejected on the same principle as before."},
+        {"q": "What happens when the rejected oblation is thrown into water?",
+         "opts": [
+             "It sizzles and hisses, steaming and fuming, like a cauldron heated all day",
+             "It dissolves silently with no reaction",
+             "It transforms into flowers",
+             "The water immediately boils away entirely"],
+         "correct": 0,
+         "expl": "A vivid, almost alarming physical demonstration, shown rather than merely stated."},
+        {"q": "How does the brahmin react to this demonstration?",
+         "opts": [
+             "Shocked and awestruck, he returns to the Buddha",
+             "He laughs and dismisses it as coincidence",
+             "He leaves angrily without speaking",
+             "He performs the sacrifice again immediately"],
+         "correct": 0,
+         "expl": "Prompting the Buddha's extended teaching that follows."},
+        {"q": "What does the Buddha's teaching say about external fire-kindling as a path to purity?",
+         "opts": [
+             "That it should not be mistaken for purity, since it is merely external",
+             "That it is the only true path to purity",
+             "That it works equally well as internal cultivation",
+             "The teaching does not address fire-kindling at all"],
+         "correct": 0,
+         "expl": "Named and dismissed explicitly before the alternative teaching is offered."},
+        {"q": "What does the Buddha offer as a replacement for external fire?",
+         "opts": [
+             "An inner flame, lit through internal cultivation rather than kindled wood",
+             "A different, more elaborate external ritual",
+             "No replacement is offered at all",
+             "A recommendation to abandon all spiritual practice"],
+         "correct": 0,
+         "expl": "Ajjhattamevujjalayāmi jotiṁ — the Buddha's own reinterpretation of sacred fire."},
+        {"q": "How does the extended teaching structure its critique of sacrifice?",
+         "opts": [
+             "By building a complete internal parallel to every element of fire sacrifice",
+             "By simply rejecting the concept of sacrifice with no further elaboration",
+             "By praising traditional fire sacrifice as equally valid",
+             "By avoiding any structured comparison"],
+         "correct": 0,
+         "expl": "Conceit as the burden, anger as smoke, lies as ashes, a tamed self as the light."},
+        {"q": "What canonical text closely parallels this discourse?",
+         "opts": [
+             "The Sutta Nipāta's Sundarikabhāradvāja Sutta",
+             "The Dhammapada exclusively",
+             "No parallel exists anywhere else in the canon",
+             "The Milindapañhā"],
+         "correct": 0,
+         "expl": "A well-known parallel text sharing much of this discourse's content."},
+    ],
+    marginalia=[
+        ("A shaven head, almost a dismissal", [
+            "worth nearly overlooked at first glance &mdash;",
+            "a second thought catching the mistake",
+        ]),
+        ("Birth set aside, conduct substituted", [
+            "the canon's own most quoted redirection &mdash;",
+            "not softened, but replaced",
+        ]),
+        ("Hissing in the water", [
+            "refusal shown, not merely stated &mdash;",
+            "a cauldron's heat, not a metaphor alone",
+        ]),
+        ("A complete inner apparatus", [
+            "conceit as burden, anger as smoke &mdash;",
+            "every element of sacrifice, relocated within",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.8.html">SN 7.8 &middot; With Bhāradvāja the '
+        "Fire-Worshiper</a> &mdash; the discourse immediately before "
+        "this one, sharing the same refusal.",
+        '<a href="sn-7.10.html">SN 7.10 &middot; Many Daughters</a> '
+        "&mdash; the closing discourse of this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 7.10 — Bahudhītarasutta
+# --------------------------------------------------------------------------- #
+page(
+    7, 10, "Bahudhītara", "Many Daughters",
+    meta_title="SN 7.10 — Many Daughters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bahudhītarasutta — closing Arahantavagga on a lighter "
+        "note, a brahmin searching for lost oxen recites a comic "
+        "litany of domestic troubles the Buddha doesn't have, and the "
+        "Buddha simply agrees, point by point. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "In a forest grove in the Kosalan lands"),
+        ("Speakers", "An unnamed brahmin of the Bhāradvāja clan and "
+                     "the Buddha"),
+        ("Form", "A comic litany of household misfortunes in verse, "
+                 "answered point by point in matching verse"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "light in tone, closing the vagga on an "
+                       "unusually comic note"),
+    ],
+    why=(
+        "After SN 7.9's dense teaching on inner and outer purity, "
+        "this discourse closes Arahantavagga with something closer to "
+        "wit than doctrine. A brahmin, distracted from his search for "
+        "fourteen missing oxen, stumbles on the meditating Buddha and "
+        "recites a list of domestic disasters he assumes the ascetic "
+        "life spares its practitioners &mdash; ruined crops, a "
+        "rat-infested barn, flea-ridden carpets, seven widowed "
+        "daughters with children to support, a quarrelsome wife, and "
+        "creditors pounding at dawn &mdash; each one closing with the "
+        "same wry refrain, &lsquo;that's why this ascetic is "
+        "happy.&rsquo; The Buddha's reply doesn't correct the "
+        "premise; it simply confirms every single item, point by "
+        "point, in matching verse."),
+    guide=[
+        ("A litany built from ordinary domestic misfortune", [
+            "Unlike this vagga's other verses, which engage directly "
+            "with caste, purity, or ritual, this one stays entirely in "
+            "the register of household complaint &mdash; livestock, "
+            "crops, vermin, in-laws, debt &mdash; a catalogue anyone "
+            "managing a household would immediately recognize."]),
+        ("A refrain repeated with mounting irony", [
+            "&lsquo;That's why this ascetic is happy&rsquo; closes "
+            "each stanza with the same conclusion, the repetition "
+            "itself building a kind of wry commentary on how much "
+            "domestic burden ordinary life carries compared to the "
+            "Buddha's apparent freedom from all of it."]),
+        ("Confirmation instead of correction", [
+            "The Buddha's reply doesn't reframe the brahmin's "
+            "assumption or point toward some deeper source of "
+            "happiness the list misses; it simply agrees with every "
+            "single line, repeating the same structure back in the "
+            "first person &mdash; a rare instance in this saṃyutta of "
+            "the Buddha's answer being agreement rather than "
+            "redirection."]),
+        ("Humor doing quiet teaching work", [
+            "Though lighter in tone than the surrounding discourses, "
+            "the litany still makes a real point: freedom from these "
+            "specific worldly entanglements &mdash; property, "
+            "dependents, debt, domestic conflict &mdash; genuinely "
+            "does contribute to the Buddha's ease, without needing to "
+            "be framed as a lofty philosophical claim to register as "
+            "true."]),
+        ("A comic close before the vagga's own summary", [
+            "The discourse ends with the same conversion and "
+            "arahantship formula used throughout this vagga, followed "
+            "immediately by the untranslated closing summary verse "
+            "listing all ten discourse titles &mdash; Arahantavagga's "
+            "first chapter complete, closing on laughter rather than "
+            "gravity."]),
+    ],
+    terms=[
+        ("balībaddā catuddasa",
+         "&ldquo;fourteen oxen&rdquo; &mdash; the missing livestock "
+         "that first sends the brahmin searching, opening the comic "
+         "litany."),
+        ("vidhavā satta dhītaro",
+         "&ldquo;seven widowed daughters&rdquo; &mdash; one item in "
+         "the catalogue of domestic burdens the Buddha is assumed to "
+         "lack."),
+        ("tenāyaṁ samaṇo sukhī",
+         "&ldquo;that's why this ascetic is happy&rdquo; &mdash; the "
+         "refrain closing each of the brahmin's stanzas."),
+        ("tenāhaṁ brāhmaṇā sukhī",
+         "&ldquo;that's why I'm happy, brahmin&rdquo; &mdash; the "
+         "Buddha's matching refrain, confirming each item in turn."),
+        ("paccūsamhi iṇāyikā",
+         "&ldquo;creditors knocking at dawn&rdquo; &mdash; the "
+         "litany's final item, financial rather than domestic "
+         "anxiety."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Arahantavagga. The vagga's "
+        "own closing summary verse, listing all ten discourse titles, "
+        "is untranslated in the source and is described in this guide "
+        "rather than quoted. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn7.10:1.1-1.4"),
+        ("p", "&sect;2", "sn7.10:2.1-8.4"),
+        ("p", "&sect;3", "sn7.10:9.1-15.4"),
+        ("p", "&sect;4", "sn7.10:16.1-16.5"),
+        ("p", "&sect;5", "sn7.10:17.1-17.4"),
+    ],
+    quiz=[
+        {"q": "What is the brahmin doing when he encounters the Buddha in this discourse?",
+         "opts": [
+             "Searching for fourteen missing oxen",
+             "Performing a fire sacrifice",
+             "Traveling to debate the Buddha",
+             "Seeking alms for himself"],
+         "correct": 0,
+         "expl": "A mundane errand that leads to an unplanned encounter."},
+        {"q": "What kind of list does the brahmin recite to the Buddha?",
+         "opts": [
+             "A comic litany of domestic misfortunes he assumes the Buddha doesn't have",
+             "A formal list of philosophical questions",
+             "A list of ritual requirements for sacrifice",
+             "A genealogy of his own brahmin ancestry"],
+         "correct": 0,
+         "expl": "Livestock, crops, vermin, in-laws, and debt — ordinary household troubles."},
+        {"q": "What refrain closes each of the brahmin's stanzas?",
+         "opts": [
+             "\"That's why this ascetic is happy\"",
+             "\"That's why this ascetic is angry\"",
+             "\"That's why this ascetic should suffer\"",
+             "There is no repeated refrain"],
+         "correct": 0,
+         "expl": "Building a wry commentary through repetition."},
+        {"q": "How does the Buddha respond to the brahmin's litany?",
+         "opts": [
+             "By confirming every single item, point by point, in matching verse",
+             "By correcting the brahmin's assumptions entirely",
+             "By refusing to respond to such a trivial list",
+             "By redirecting to a deeper philosophical point instead"],
+         "correct": 0,
+         "expl": "A rare instance of the Buddha's answer being agreement rather than redirection."},
+        {"q": "What does this discourse's tone suggest, compared to SN 7.9's?",
+         "opts": [
+             "A notably lighter, more comic register closing the vagga",
+             "An even more intense philosophical debate",
+             "A continuation of the same ritual-focused content",
+             "A return to open hostility from the brahmin"],
+         "correct": 0,
+         "expl": "Household complaint and wit rather than doctrine on purity."},
+        {"q": "What kind of burdens does the litany catalogue?",
+         "opts": [
+             "Property, dependents, debt, and domestic conflict",
+             "Only physical ailments and illness",
+             "Purely spiritual or doctrinal concerns",
+             "Political and governmental troubles"],
+         "correct": 0,
+         "expl": "Ordinary worldly entanglements anyone managing a household would recognize."},
+        {"q": "How many oxen does the brahmin mention having lost?",
+         "opts": [
+             "Fourteen",
+             "Seven",
+             "Twenty",
+             "The number is not specified"],
+         "correct": 0,
+         "expl": "Balībaddā catuddasa — the detail opening the entire litany."},
+        {"q": "How does the discourse's humor relate to its teaching content?",
+         "opts": [
+             "It still makes a real point about freedom from worldly entanglement, without needing solemn framing",
+             "The humor has no relationship to any teaching at all",
+             "It undermines the seriousness of the entire saṃyutta",
+             "It is the only purely comic discourse in the whole collection"],
+         "correct": 0,
+         "expl": "A genuine point registering as true without needing a lofty philosophical frame."},
+        {"q": "What immediately follows this discourse's closing conversion formula?",
+         "opts": [
+             "The vagga's own untranslated summary verse, listing all ten discourse titles",
+             "The opening of the next saṃyutta entirely",
+             "A second, unrelated teaching",
+             "Nothing; the text ends abruptly"],
+         "correct": 0,
+         "expl": "Arahantavagga's structural close, described rather than quoted since it is untranslated."},
+        {"q": "What outcome does the brahmin reach after this exchange?",
+         "opts": [
+             "He becomes an arahant, following this vagga's established pattern",
+             "He leaves unconvinced and continues searching for his oxen",
+             "He converts but does not seek ordination",
+             "The discourse leaves his outcome unstated"],
+         "correct": 0,
+         "expl": "The same conversion-to-arahantship arc closing the vagga's tenth and final discourse."},
+    ],
+    marginalia=[
+        ("Fourteen oxen, and a detour", [
+            "an ordinary errand, an unplanned meeting &mdash;",
+            "the search itself never resolved in the text",
+        ]),
+        ("A litany, not a lecture", [
+            "livestock, crops, vermin, debt &mdash;",
+            "wit standing in for doctrine",
+        ]),
+        ("Agreement, not correction", [
+            "every line confirmed in turn &mdash;",
+            "a rare answer that simply says yes",
+        ]),
+        ("The vagga closes on laughter", [
+            "not gravity, this final time &mdash;",
+            "ten discourses summarized, unquoted",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn7.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-7.9.html">SN 7.9 &middot; With Bhāradvāja of '
+        "Sundarikā</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
