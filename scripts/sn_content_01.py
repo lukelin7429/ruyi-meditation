@@ -37716,3 +37716,1135 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.11 — Sanaṅkumārasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 11, "Sanaṅkumāra", "With Sanaṅkumāra",
+    meta_title="SN 6.11 — With Sanaṅkumāra | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sanaṅkumārasutta — the divinity Sanaṅkumāra opens "
+        "Dutiyavagga with a single celebrated verse: knowledge and "
+        "conduct, not clan, determine what is truly best among gods "
+        "and humans. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on the bank of the Serpentine "
+                    "river, at night"),
+        ("Speakers", "The divinity Sanaṅkumāra, addressing the "
+                     "Buddha"),
+        ("Form", "A single four-line verse, approved rather than "
+                 "answered"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but its closing phrase carries weight "
+                       "far beyond this discourse"),
+    ],
+    why=(
+        "This discourse opens Dutiyavagga, the second and final "
+        "chapter of Brahmasaṃyutta, with the ancient god Sanaṅkumāra "
+        "arriving to state a single verse rather than ask a question. "
+        "The verse concedes the ordinary social standard &mdash; that "
+        "the aristocrat is considered best among people who measure by "
+        "clan &mdash; only to set a different standard above it: one "
+        "accomplished in knowledge and conduct is best among gods and "
+        "humans. That closing phrase, vijjācaraṇasampanno, is not "
+        "unique to this discourse; it is one of the nine standard "
+        "epithets recited of the Buddha himself throughout the canon, "
+        "making this brief verse a kind of definition offered from "
+        "outside, by a deity, of what that recurring epithet actually "
+        "means."),
+    guide=[
+        ("A verse offered, not a question asked", [
+            "Unlike most of this saṃyutta's discourses, Sanaṅkumāra "
+            "doesn't come with a problem, a boast, or a challenge; he "
+            "simply states a conclusion and waits to see whether the "
+            "Buddha approves &mdash; the entire discourse structured "
+            "around confirmation rather than debate."]),
+        ("A social standard conceded before being surpassed", [
+            "The verse doesn't deny that clan-based status functions "
+            "as an ordinary social measure; it grants that "
+            "premise fully in its first two lines before introducing a "
+            "different, higher standard in the second half, a "
+            "structure of concession-then-elevation rather than "
+            "outright contradiction."]),
+        ("Knowledge and conduct named as the actual standard", [
+            "The phrase vijjācaraṇasampanno &mdash; accomplished in "
+            "knowledge and conduct &mdash; sets the true measure of "
+            "worth as achievement rather than birth, restating in "
+            "compact verse what SN 3.1 and other discourses have "
+            "already argued through King Pasenadi's exchanges with the "
+            "Buddha, this time voiced by a deity rather than a "
+            "monarch."]),
+        ("An epithet recited daily, defined here by an outside voice", [
+            "Vijjācaraṇasampanno is one of the nine standard qualities "
+            "recollected of the Buddha in the traditional formula "
+            "chanted throughout the Theravāda world; this discourse is "
+            "notable for being the place where a deity, rather than "
+            "the Buddha or a disciple, articulates what that quality "
+            "actually names and why it outranks noble birth."]),
+        ("Approval closing the exchange, not further discussion", [
+            "The discourse ends simply with the Buddha's approval and "
+            "Sanaṅkumāra's departure, no elaboration offered on either "
+            "side &mdash; the verse's claim considered complete and "
+            "sufficient on its own terms, needing no further "
+            "commentary within the discourse itself."]),
+    ],
+    terms=[
+        ("khattiyo seṭṭho janetasmiṁ",
+         "&ldquo;the aristocrat is best among people&rdquo; &mdash; "
+         "the ordinary social standard, conceded in the verse's "
+         "opening line."),
+        ("gottapaṭisārino",
+         "&ldquo;who take clan as the standard&rdquo; &mdash; naming "
+         "the implicit measure being both granted and then set "
+         "aside."),
+        ("vijjācaraṇasampanno",
+         "&ldquo;accomplished in knowledge and conduct&rdquo; &mdash; "
+         "one of the nine traditional epithets of the Buddha, defined "
+         "here by a deity's own voice."),
+        ("seṭṭho devamānuse",
+         "&ldquo;best among gods and humans&rdquo; &mdash; the "
+         "verse's closing claim, elevating achievement above birth."),
+        ("samanuñño satthā ahosi",
+         "&ldquo;the teacher approved&rdquo; &mdash; the discourse's "
+         "entire resolution, offered without further comment."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.11:1.1-1.4"),
+        ("p", "&sect;2", "sn6.11:2.1-2.4"),
+        ("p", "&sect;3", "sn6.11:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "How does Sanaṅkumāra's approach to the Buddha differ from most discourses in this saṃyutta?",
+         "opts": [
+             "He states a conclusion rather than asking a question or issuing a challenge",
+             "He arrives with a group of other divinities",
+             "He refuses to speak at all",
+             "He demands the Buddha answer a riddle"],
+         "correct": 0,
+         "expl": "The discourse is structured around confirmation rather than debate."},
+        {"q": "What social standard does the verse's opening two lines concede?",
+         "opts": [
+             "That the aristocrat is considered best among people who measure by clan",
+             "That wealth alone determines worth",
+             "That only monks can be truly wise",
+             "That no social standards exist at all"],
+         "correct": 0,
+         "expl": "Granted fully before a different standard is introduced."},
+        {"q": "What standard does the verse elevate above clan and birth?",
+         "opts": [
+             "Being accomplished in knowledge and conduct",
+             "Physical strength and beauty",
+             "Wealth and material possessions",
+             "Age and seniority alone"],
+         "correct": 0,
+         "expl": "Vijjācaraṇasampanno — achievement rather than birth."},
+        {"q": "What is significant about the phrase \"vijjācaraṇasampanno\"?",
+         "opts": [
+             "It is one of the nine traditional epithets recollected of the Buddha",
+             "It appears nowhere else in the Pali canon",
+             "It is a term used exclusively for deities",
+             "It refers only to physical health"],
+         "correct": 0,
+         "expl": "Recited throughout the Theravāda tradition as part of the Buddha's standard qualities."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "With the Buddha's approval and Sanaṅkumāra's departure, no elaboration",
+             "With a lengthy debate between the two",
+             "With the Buddha rejecting the verse's claim",
+             "With Sanaṅkumāra asking a follow-up question"],
+         "correct": 0,
+         "expl": "The verse's claim treated as complete and sufficient on its own."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, on the bank of the Serpentine river, at night",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "In an unnamed realm of divinity"],
+         "correct": 0,
+         "expl": "A new setting, opening Dutiyavagga."},
+        {"q": "What position does this discourse hold in Brahmasaṃyutta's structure?",
+         "opts": [
+             "It opens Dutiyavagga, the second and final chapter",
+             "It closes the entire saṃyutta",
+             "It is the very first discourse in the collection",
+             "It stands alone, outside any vagga"],
+         "correct": 0,
+         "expl": "The first discourse of the saṃyutta's second chapter."},
+        {"q": "What structural device does the verse use to make its point?",
+         "opts": [
+             "Concession followed by elevation, rather than outright contradiction",
+             "A direct insult toward the aristocratic class",
+             "A long narrative story",
+             "A series of unanswered questions"],
+         "correct": 0,
+         "expl": "Granting the ordinary standard before introducing the higher one."},
+        {"q": "Which earlier discourse in this collection made a related argument through a different speaker?",
+         "opts": [
+             "SN 3.1, through King Pasenadi's exchanges with the Buddha",
+             "SN 1.1, through the flood-crossing paradox",
+             "SN 4.1, through Māra's challenge on asceticism",
+             "SN 5.1, through Somā's rebuttal"],
+         "correct": 0,
+         "expl": "A related theme of achievement over birth, voiced by a monarch rather than a deity."},
+        {"q": "Who speaks the verse in this discourse?",
+         "opts": [
+             "The divinity Sanaṅkumāra",
+             "The Buddha himself",
+             "King Pasenadi",
+             "Brahmā Sahampati"],
+         "correct": 0,
+         "expl": "An ancient divinity, distinct from the Sahampati and Subrahmā seen earlier in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A verse, not a question", [
+            "offered for approval, not debate &mdash;",
+            "the whole exchange complete in itself",
+        ]),
+        ("Clan conceded, then surpassed", [
+            "the ordinary standard granted first &mdash;",
+            "a higher one set above it",
+        ]),
+        ("Nine qualities, one defined here", [
+            "vijjācaraṇasampanno, spoken by a god &mdash;",
+            "an epithet given its meaning from outside",
+        ]),
+        ("Approval, and nothing more", [
+            "no elaboration on either side &mdash;",
+            "the claim considered sufficient alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.10.html">SN 6.10 &middot; With Kokālika</a> '
+        "&mdash; the discourse closing Paṭhamavagga, immediately "
+        "before this one.",
+        '<a href="sn-6.12.html">SN 6.12 &middot; About Devadatta</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.12 — Devadattasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 12, "Devadatta", "About Devadatta",
+    meta_title="SN 6.12 — About Devadatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Devadattasutta — Brahmā Sahampati marks Devadatta's "
+        "departure from the community with a single stark verse: honor "
+        "destroys a reprobate as fruit destroys its own plant. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "On Vulture's Peak, near Rājagaha, not long after "
+                    "Devadatta's departure"),
+        ("Speakers", "Brahmā Sahampati, addressing the Buddha"),
+        ("Form", "A single four-line verse, offered without further "
+                 "narrative"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with a stark image at its center"),
+    ],
+    why=(
+        "This discourse marks a real historical rupture in the "
+        "community with the barest possible narration: only the "
+        "timestamp &lsquo;not long after Devadatta had left&rsquo; "
+        "signals what has happened. No account of the schism itself "
+        "appears here; instead Brahmā Sahampati arrives and speaks a "
+        "single image-dense verse, comparing what befalls a person of "
+        "bad character who receives honor to three plants destroyed by "
+        "their own fruit, and to a mule destroyed by its own "
+        "pregnancy &mdash; the verse trusting its images to carry a "
+        "judgment the discourse never states outright."),
+    guide=[
+        ("A schism marked by absence, not narration", [
+            "The discourse's only reference to what has happened is a "
+            "single phrase &mdash; &lsquo;not long after Devadatta had "
+            "left&rsquo; &mdash; assuming the audience already knows "
+            "the larger story rather than recounting it, much as SN "
+            "6.7's brief verse assumed prior knowledge of Kokālika."]),
+        ("Three plants sharing one fate", [
+            "The verse's opening image stacks three specific plants "
+            "&mdash; banana, bamboo, reed &mdash; each one killed by "
+            "producing its own fruit, a botanical fact used as the "
+            "vehicle for the verse's real subject before that subject "
+            "is even named."]),
+        ("Honor as the destructive agent, not condemnation", [
+            "The verse's turn is precise: it isn't wrongdoing itself "
+            "that destroys a person of bad character, but honor "
+            "received &mdash; sakkāro kāpurisaṁ hanti &mdash; "
+            "suggesting the danger lay specifically in status and "
+            "acclaim outpacing character, not in ambition alone."]),
+        ("A closing image drawn from outside plant life entirely", [
+            "The verse's final line shifts registers from botany to "
+            "animal husbandry &mdash; a mule destroyed by its own "
+            "pregnancy, referencing the ancient understanding that "
+            "mules cannot safely bear offspring &mdash; broadening the "
+            "pattern from plants to a mammal, generalizing the "
+            "principle rather than repeating the same kind of image "
+            "a fourth time."]),
+        ("No verdict on Devadatta stated directly", [
+            "The discourse never names Devadatta as the reprobate in "
+            "question, nor does the Buddha respond with any recorded "
+            "verse of his own here; the application is left implicit, "
+            "trusting the timing and the verse's content together to "
+            "make the connection without requiring it to be spelled "
+            "out."]),
+    ],
+    terms=[
+        ("phalaṁ ve kadaliṁ hanti",
+         "&ldquo;the banana plant is destroyed by its own "
+         "fruit&rdquo; &mdash; the verse's opening image, the first "
+         "of three plants sharing this fate."),
+        ("sakkāro kāpurisaṁ hanti",
+         "&ldquo;honor destroys a reprobate&rdquo; &mdash; the "
+         "verse's central turn, naming acclaim rather than wrongdoing "
+         "as the destructive force."),
+        ("kāpurisa",
+         "a person of bad character, a reprobate &mdash; the verse's "
+         "term for the one honor destroys."),
+        ("gabbho assatariṁ yathā",
+         "&ldquo;as pregnancy destroys a mule&rdquo; &mdash; the "
+         "closing image, shifting from plant life to animal "
+         "husbandry."),
+        ("acirapakkante devadatte",
+         "&ldquo;not long after Devadatta had left&rdquo; &mdash; the "
+         "discourse's only direct reference to the schism it responds "
+         "to."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.12:1.1-1.4"),
+        ("p", "&sect;2", "sn6.12:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse reference Devadatta's departure?",
+         "opts": [
+             "Only through a single brief timestamp phrase, with no narration of events",
+             "With a full, detailed account of the schism",
+             "Devadatta himself appears to explain his departure",
+             "The discourse never mentions Devadatta at all"],
+         "correct": 0,
+         "expl": "Assuming the audience already knows the larger story, as SN 6.7 did with Kokālika."},
+        {"q": "What three plants does the verse's opening image name?",
+         "opts": [
+             "Banana, bamboo, and reed",
+             "Mango, coconut, and palm",
+             "Oak, pine, and cedar",
+             "No specific plants are named"],
+         "correct": 0,
+         "expl": "Each killed by producing its own fruit, setting up the verse's real subject."},
+        {"q": "According to the verse, what specifically destroys a person of bad character?",
+         "opts": [
+             "Honor and acclaim received, not wrongdoing itself",
+             "Poverty and neglect",
+             "Physical illness",
+             "Old age alone"],
+         "correct": 0,
+         "expl": "Sakkāro kāpurisaṁ hanti — the verse's precise and pointed turn."},
+        {"q": "What is the verse's closing image?",
+         "opts": [
+             "A mule destroyed by its own pregnancy",
+             "A river drying up in summer",
+             "A fire consuming a forest",
+             "A bird trapped in a cage"],
+         "correct": 0,
+         "expl": "Shifting from plant life to animal husbandry, broadening the pattern."},
+        {"q": "Does the discourse explicitly name Devadatta as the \"reprobate\" in the verse?",
+         "opts": [
+             "No, the application is left implicit",
+             "Yes, he is named directly in the verse itself",
+             "Yes, but only in the Buddha's response",
+             "The verse names a different person entirely"],
+         "correct": 0,
+         "expl": "Trusting the timing and content together to make the connection."},
+        {"q": "Who speaks the verse in this discourse?",
+         "opts": [
+             "Brahmā Sahampati",
+             "Brahmā Sanaṅkumāra",
+             "The Buddha himself",
+             "Devadatta"],
+         "correct": 0,
+         "expl": "The same divinity who reports Kokālika's death in SN 6.10."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "On Vulture's Peak, near Rājagaha",
+             "At Sāvatthī, in Jeta's Grove",
+             "On the bank of the Serpentine river",
+             "At Andhakavinda, in the rain"],
+         "correct": 0,
+         "expl": "The same mountain associated with several events in the Buddha's later ministry."},
+        {"q": "Does the Buddha offer a recorded verse of his own in response?",
+         "opts": [
+             "No, none is recorded in this discourse",
+             "Yes, a lengthy rebuttal verse",
+             "Yes, but only a single word",
+             "The Buddha refuses to acknowledge the verse"],
+         "correct": 0,
+         "expl": "The discourse ends with Sahampati's verse alone, unelaborated."},
+        {"q": "What does \"kāpurisa\" mean?",
+         "opts": [
+             "A person of bad character, a reprobate",
+             "A wise and virtuous teacher",
+             "A young child",
+             "A skilled craftsman"],
+         "correct": 0,
+         "expl": "The verse's term for the one whom honor ultimately destroys."},
+        {"q": "How does this discourse's brevity compare to a full narration of the schism?",
+         "opts": [
+             "It deliberately omits narration, relying on the verse's imagery alone",
+             "It provides more narrative detail than any other discourse in the saṃyutta",
+             "It is the longest discourse in Dutiyavagga",
+             "It repeats the schism's events three times for emphasis"],
+         "correct": 0,
+         "expl": "A brief timestamp and a four-line verse are the entire discourse."},
+    ],
+    marginalia=[
+        ("Not long after he left", [
+            "the only reference given &mdash;",
+            "the larger story left assumed",
+        ]),
+        ("Fruit that kills its own plant", [
+            "banana, bamboo, reed &mdash;",
+            "three images before the point lands",
+        ]),
+        ("Honor, not wrongdoing", [
+            "acclaim named as the destroyer &mdash;",
+            "a precise, pointed turn",
+        ]),
+        ("No verdict spoken aloud", [
+            "the application left implicit &mdash;",
+            "timing and image doing the work",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.11.html">SN 6.11 &middot; With '
+        "Sanaṅkumāra</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-6.13.html">SN 6.13 &middot; At Andhakavinda</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.13 — Andhakavindasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 13, "Andhakavinda", "At Andhakavinda",
+    meta_title="SN 6.13 — At Andhakavinda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Andhakavindasutta — meditating alone in the rain at "
+        "night, the Buddha receives Brahmā Sahampati's extended praise "
+        "of secluded practice, testifying to a thousand conquerors of "
+        "death within a single dispensation. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Andhakavinda in Magadha, outdoors at night, "
+                    "in a light rain"),
+        ("Speakers", "Brahmā Sahampati, addressing the Buddha"),
+        ("Form", "Six verses of praise and testimony, delivered "
+                 "without dialogue"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "longer than most of this vagga, with a "
+                       "striking numerical claim at its center"),
+    ],
+    why=(
+        "This discourse opens on an unusually vivid physical scene: "
+        "the Buddha meditating in the open air during a dark, rainy "
+        "night, a detail rare enough in this collection to be worth "
+        "noticing on its own. Brahmā Sahampati arrives not to correct "
+        "or warn, but to praise &mdash; six verses commending secluded "
+        "dwelling, mindful alms-gathering, and fearlessness even amid "
+        "serpents and thunder, before making a striking claim: within "
+        "a single teaching's dispensation there are a thousand who "
+        "have conquered death, more than five hundred trainees who are "
+        "stream-enterers freed from rebirth in the animal realm, and "
+        "countless others besides whom Sahampati says he cannot even "
+        "number."),
+    guide=[
+        ("A rare, concrete physical setting", [
+            "The opening detail &mdash; the Buddha meditating outdoors "
+            "in the dark, rain drizzling down &mdash; is unusually "
+            "specific for this collection, most of whose discourses "
+            "open with a bare formula; here the setting itself "
+            "prepares for a verse that later praises exactly this kind "
+            "of exposed, uncomfortable practice."]),
+        ("Praise structured as instruction, not flattery", [
+            "Sahampati's opening verses read less like compliments "
+            "than practical exhortation &mdash; frequent secluded "
+            "lodgings, seek release from fetters, fall back on the "
+            "Saṅgha if solitude proves too difficult &mdash; guidance "
+            "offered in the voice of praise rather than command."]),
+        ("Fear named specifically, then set aside", [
+            "The image of a mendicant meditating undisturbed among "
+            "&lsquo;dreadful serpents&rsquo; and thunder doesn't skip "
+            "past the fear such conditions would provoke; it names the "
+            "physical response &mdash; goosebumps &mdash; only to "
+            "describe its absence, making the fearlessness concrete "
+            "rather than abstract."]),
+        ("A claim of firsthand witness, not report", [
+            "Before giving the numbers, Sahampati insists on his own "
+            "authority to speak: &lsquo;this is ever seen by me, it "
+            "isn't just the testament of hearsay&rsquo; &mdash; framing "
+            "what follows as personal testimony rather than rumor or "
+            "tradition passed along."]),
+        ("Numbers that end in an admission of their own limit", [
+            "The verse moves from a precise-sounding count &mdash; a "
+            "thousand conquerors of death, more than five hundred "
+            "stream-enterers &mdash; to an explicit refusal to "
+            "continue counting the rest, for fear of speaking falsely "
+            "&mdash; the testimony closing not with false precision "
+            "but with an honest admission of its own limit."]),
+    ],
+    terms=[
+        ("pantāni senāsanāni",
+         "&ldquo;secluded lodgings&rdquo; &mdash; the opening "
+         "exhortation, repeated as a refrain across the verses."),
+        ("saṁyojanavippamokkhā",
+         "&ldquo;released from fetters&rdquo; &mdash; the stated "
+         "purpose of seeking such seclusion."),
+        ("vigatalomahaṁso",
+         "&ldquo;free of goosebumps&rdquo;, unafraid &mdash; the "
+         "physical marker of fearlessness named directly, then "
+         "described as absent."),
+        ("sahassaṁ maccuhāyinaṁ",
+         "&ldquo;a thousand conquerors of Death&rdquo; &mdash; "
+         "Sahampati's testimony to the scale of realization within a "
+         "single teaching's dispensation."),
+        ("sotasamāpannā",
+         "&ldquo;stream-enterers&rdquo; &mdash; the specific "
+         "attainment named for the more than five hundred trainees "
+         "counted."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.13:1.1-1.4"),
+        ("p", "&sect;2", "sn6.13:2.1-2.4"),
+        ("p", "&sect;3", "sn6.13:3.1-3.4"),
+        ("p", "&sect;4", "sn6.13:4.1-4.4"),
+        ("p", "&sect;5", "sn6.13:5.1-5.4"),
+        ("p", "&sect;6", "sn6.13:6.1-6.4"),
+        ("p", "&sect;7", "sn6.13:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What is the physical setting when this discourse opens?",
+         "opts": [
+             "The Buddha meditating outdoors at night in a light rain",
+             "The Buddha teaching a large indoor assembly",
+             "The Buddha traveling on the road with disciples",
+             "The Buddha resting in a monastery hall"],
+         "correct": 0,
+         "expl": "An unusually vivid, concrete detail for this collection."},
+        {"q": "How do Sahampati's opening verses function?",
+         "opts": [
+             "As practical exhortation, in the voice of praise",
+             "As a direct challenge to the Buddha's authority",
+             "As a request for teaching on an unrelated topic",
+             "As a formal complaint about monastic conduct"],
+         "correct": 0,
+         "expl": "Guidance offered through praise rather than command."},
+        {"q": "What does the verse suggest a mendicant do if secluded solitude proves too difficult?",
+         "opts": [
+             "Fall back on living in the Saṅgha, self-protected and mindful",
+             "Abandon the monastic life entirely",
+             "Seek out a teacher from another tradition",
+             "Return to lay life immediately"],
+         "correct": 0,
+         "expl": "A practical alternative offered within the same verse."},
+        {"q": "How does the verse handle the fear that serpents and thunder would provoke?",
+         "opts": [
+             "It names the physical response (goosebumps) and describes its absence",
+             "It ignores the topic of fear entirely",
+             "It claims fear is impossible to overcome",
+             "It recommends avoiding such conditions altogether"],
+         "correct": 0,
+         "expl": "Making the fearlessness concrete rather than abstract."},
+        {"q": "How does Sahampati frame his authority before giving the numbers?",
+         "opts": [
+             "As firsthand testimony, not hearsay",
+             "As a guess based on rumor",
+             "As something he read in ancient texts",
+             "He does not claim any particular authority"],
+         "correct": 0,
+         "expl": "\"This is ever seen by me, it isn't just the testament of hearsay.\""},
+        {"q": "How many conquerors of Death does Sahampati claim exist within a single dispensation?",
+         "opts": [
+             "A thousand",
+             "One hundred",
+             "Ten thousand",
+             "The verse gives no specific number"],
+         "correct": 0,
+         "expl": "Sahassaṁ maccuhāyinaṁ — stated as personal testimony."},
+        {"q": "What attainment does Sahampati name for the more than five hundred trainees he counts?",
+         "opts": [
+             "Stream-enterers, freed from rebirth in the animal realm",
+             "Full arahantship",
+             "Non-returner status only",
+             "No specific attainment is named"],
+         "correct": 0,
+         "expl": "Sotasamāpannā, a specific and named level of realization."},
+        {"q": "How does the verse handle counting the remaining practitioners beyond those named?",
+         "opts": [
+             "It explicitly declines to count them, for fear of speaking falsely",
+             "It gives an exact number for them as well",
+             "It claims there are no others at all",
+             "It says they are more numerous than all others combined"],
+         "correct": 0,
+         "expl": "An honest admission of the testimony's own limit, rather than false precision."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Andhakavinda, in the land of the Magadhans",
+             "Near Rājagaha, on the Serpentine river",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Vulture's Peak"],
+         "correct": 0,
+         "expl": "A location distinct from the previous two discourses in this vagga."},
+        {"q": "Who speaks the verses in this discourse?",
+         "opts": [
+             "Brahmā Sahampati",
+             "Brahmā Sanaṅkumāra",
+             "The Buddha himself",
+             "An unnamed mendicant"],
+         "correct": 0,
+         "expl": "The same divinity from SN 6.12, now delivering an extended testimony rather than a single verse."},
+    ],
+    marginalia=[
+        ("Rain, darkness, open air", [
+            "an unusually concrete setting &mdash;",
+            "preparing for what the verse will praise",
+        ]),
+        ("Praise that instructs", [
+            "seclusion, then the Saṅgha as fallback &mdash;",
+            "guidance in the voice of commendation",
+        ]),
+        ("Goosebumps, named and absent", [
+            "fear made concrete, not abstract &mdash;",
+            "amid serpents, thunder, and dark",
+        ]),
+        ("A thousand, then an honest limit", [
+            "firsthand testimony, not hearsay &mdash;",
+            "closing in an admission, not a guess",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.12.html">SN 6.12 &middot; About Devadatta</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.14 — Aruṇavatīsutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 14, "Aruṇavatī", "About Aruṇavatī",
+    meta_title="SN 6.14 — About Aruṇavatī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aruṇavatīsutta — the Buddha recounts a past Buddha "
+        "Sikhī's disciple Abhibhū teaching Dhamma with his body "
+        "alternately visible and invisible, then making his voice "
+        "heard across a thousandfold galaxy. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Sāvatthī, the Buddha recounting an episode "
+                    "from the era of a past Buddha, Sikhī"),
+        ("Speakers", "The Buddha, narrating; within the story, the "
+                     "past Buddha Sikhī and his disciple Abhibhū"),
+        ("Form", "A frame narrative told to the mendicants, containing "
+                 "a story within the story, closing in verse"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "long and structurally layered, reaching back "
+                       "to a Buddha before the historical Buddha"),
+    ],
+    why=(
+        "This discourse steps outside the Buddha's own biography "
+        "entirely, reaching back to the era of Sikhī, one of the "
+        "Buddhas of a previous age, and his chief disciple Abhibhū. "
+        "Where SN 6.5 showed the present Buddha and four disciples "
+        "seated in fire to answer a deity's boast, this discourse "
+        "shows a comparable demonstration one Buddha-era earlier: "
+        "Abhibhū teaching Dhamma to a complaining divinity's assembly "
+        "with his body alternately visible and invisible, upper and "
+        "lower halves independently shown or hidden, before finally "
+        "making his voice heard across an entire thousandfold galaxy "
+        "in verse &mdash; the same verse the Buddha then confirms his "
+        "own mendicants heard correctly, closing the loop between the "
+        "ancient story and its present retelling."),
+    guide=[
+        ("A story told by the Buddha, not witnessed directly", [
+            "Unlike most of this saṃyutta, where a deity appears "
+            "before the Buddha in real time, this discourse is framed "
+            "as the Buddha's own recollection, addressed directly to "
+            "the assembled mendicants &mdash; a story about a story, "
+            "with the present audience explicitly checked at the end "
+            "for whether they heard its embedded verse correctly."]),
+        ("A parallel structure to SN 6.5, one Buddha-era removed", [
+            "The pattern of a deity's complaint answered by a display "
+            "of psychic mastery recalls SN 6.5's four disciples seated "
+            "in fire; here it plays out under Sikhī rather than the "
+            "present Buddha, suggesting this kind of demonstration "
+            "recurs across Buddha-eras rather than belonging uniquely "
+            "to any one teacher's ministry."]),
+        ("Complaint answered by escalation, not correction", [
+            "When the Divinity's assembly grumbles that a mere "
+            "disciple teaches Dhamma in the Teacher's presence, Sikhī "
+            "doesn't reassure them or explain; he instructs Abhibhū to "
+            "&lsquo;stir them up even more&rsquo;, meeting complaint "
+            "with a still more startling demonstration rather than "
+            "with reassurance."]),
+        ("A fourfold display of visibility, precisely enumerated", [
+            "Abhibhū's teaching posture is described with careful "
+            "completeness &mdash; body visible, body invisible, lower "
+            "half visible with upper half hidden, and the reverse "
+            "&mdash; a structured enumeration rather than a vague "
+            "claim of general psychic power."]),
+        ("A verse confirmed twice: spoken, then recalled correctly", [
+            "The discourse doesn't end with Abhibhū's verse; it "
+            "continues into the present Buddha quizzing his own "
+            "mendicants on exactly what they heard, and only "
+            "explicitly approves once they recite it back "
+            "word-for-word &mdash; verbatim transmission treated as "
+            "something to be checked, not assumed."]),
+    ],
+    terms=[
+        ("sikhī bhagavā arahaṁ sammāsambuddho",
+         "&ldquo;the Buddha Sikhī, the perfected one, the fully "
+         "awakened one&rdquo; &mdash; a Buddha of a previous era, "
+         "distinct from the historical Buddha narrating this "
+         "discourse."),
+        ("abhibhusambhavaṁ nāma sāvakayugaṁ&hellip;aggaṁ bhaddayugaṁ",
+         "&ldquo;a fine pair of chief disciples named Abhibhū and "
+         "Sambhava&rdquo; &mdash; Sikhī's own chief disciple pair, "
+         "paralleling Sāriputta and Moggallāna under the present "
+         "Buddha."),
+        ("dissamānenapi kāyena&hellip;adissamānenapi kāyena",
+         "&ldquo;with his body visible&hellip;with his body "
+         "invisible&rdquo; &mdash; the fourfold, precisely enumerated "
+         "display of psychic mastery during Abhibhū's teaching."),
+        ("sahassilokadhātuṁ sarena viññāpetuṁ",
+         "&ldquo;to make my voice heard throughout the thousandfold "
+         "galaxy&rdquo; &mdash; Abhibhū's own recalled boast, then "
+         "put directly to the test."),
+        ("dhunātha maccuno senaṁ, naḷāgāraṁva kuñjaro",
+         "&ldquo;crush the army of Death, as an elephant a hut of "
+         "reeds&rdquo; &mdash; the central image of the verse spoken "
+         "across the galaxy, later confirmed word-for-word by the "
+         "present Buddha's own mendicants."),
+    ],
+    text_intro=(
+        "The discourse in full. A few short passages recapitulating "
+        "material already given verbatim are left blank in the source "
+        "and are not reconstructed here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.14:1.1-1.6"),
+        ("p", "&sect;2", "sn6.14:2.1-2.8"),
+        ("p", "&sect;3", "sn6.14:3.1-3.5"),
+        ("p", "&sect;4", "sn6.14:4.1-4.7"),
+        ("p", "&sect;5", "sn6.14:5.1-5.6"),
+        ("p", "&sect;6", "sn6.14:6.1-7.4"),
+        ("p", "&sect;7", "sn6.14:8.1-8.7"),
+        ("p", "&sect;8", "sn6.14:9.1-11.3"),
+        ("p", "&sect;9", "sn6.14:12.1"),
+    ],
+    quiz=[
+        {"q": "How is this discourse framed, compared to most of this saṃyutta?",
+         "opts": [
+             "As the Buddha's own recollection told to the mendicants, not a live encounter",
+             "As a live debate between the Buddha and a deity",
+             "As a letter the Buddha received from a past Buddha",
+             "As a dream one mendicant reports having"],
+         "correct": 0,
+         "expl": "A story about a story, checked at the end for accurate transmission."},
+        {"q": "Who is Sikhī in this discourse?",
+         "opts": [
+             "A Buddha of a previous era, distinct from the historical Buddha",
+             "A deity who challenges the Buddha",
+             "Another name for Brahmā Sahampati",
+             "A disciple of the historical Buddha"],
+         "correct": 0,
+         "expl": "The discourse reaches back to a Buddha-era before the present one."},
+        {"q": "Who is Abhibhū?",
+         "opts": [
+             "One of Sikhī's chief disciples, paired with Sambhava",
+             "Sikhī's teacher",
+             "A hostile deity Sikhī must correct",
+             "Another name for Sikhī himself"],
+         "correct": 0,
+         "expl": "Paralleling the role Sāriputta and Moggallāna hold under the present Buddha."},
+        {"q": "How does the Divinity's assembly react to Abhibhū teaching Dhamma?",
+         "opts": [
+             "They complain that a mere disciple teaches in the Teacher's presence",
+             "They immediately praise Abhibhū without reservation",
+             "They ignore the teaching entirely",
+             "They attack Abhibhū physically"],
+         "correct": 0,
+         "expl": "A complaint met not with reassurance but with an even more startling display."},
+        {"q": "How does Sikhī respond to this complaint?",
+         "opts": [
+             "By instructing Abhibhū to stir the assembly up even more",
+             "By apologizing to the assembly",
+             "By silencing Abhibhū immediately",
+             "By leaving the realm without further teaching"],
+         "correct": 0,
+         "expl": "Meeting complaint with escalation, not correction."},
+        {"q": "How is Abhibhū's fourfold display of psychic mastery described?",
+         "opts": [
+             "Body visible, body invisible, and each half independently visible or hidden",
+             "As a single, vague claim of general power",
+             "Through a lengthy verbal description with no physical demonstration",
+             "As something the text explicitly declines to describe"],
+         "correct": 0,
+         "expl": "A structured, precisely enumerated display rather than a vague claim."},
+        {"q": "What does Abhibhū claim he can do, which is then put to the test?",
+         "opts": [
+             "Make his voice heard throughout the thousandfold galaxy",
+             "Read the minds of everyone present",
+             "Become invisible permanently",
+             "Predict the future"],
+         "correct": 0,
+         "expl": "His own recalled boast, tested immediately at Sikhī's prompting."},
+        {"q": "What is the central image of the verse Abhibhū speaks across the galaxy?",
+         "opts": [
+             "Crushing the army of Death, as an elephant crushes a hut of reeds",
+             "A lotus blooming in muddy water",
+             "A river flowing endlessly to the sea",
+             "A mountain unmoved by wind"],
+         "correct": 0,
+         "expl": "The verse's central image, later confirmed word-for-word by the mendicants."},
+        {"q": "How does the discourse end?",
+         "opts": [
+             "With the present Buddha quizzing the mendicants on the verse and confirming they heard it correctly",
+             "With Abhibhū's death",
+             "With the Divinity converting to the Buddha's teaching",
+             "With no confirmation of what was heard"],
+         "correct": 0,
+         "expl": "Verbatim transmission treated as something to be checked, not assumed."},
+        {"q": "What earlier discourse in this saṃyutta shows a structurally similar demonstration?",
+         "opts": [
+             "SN 6.5, where four disciples seated in fire answer a deity's boast",
+             "SN 6.10, Kokālika's death and rebirth",
+             "SN 6.1, the request for the Buddha to teach",
+             "SN 6.9, Tudu's warning to Kokālika"],
+         "correct": 0,
+         "expl": "A comparable pattern, playing out one Buddha-era earlier under Sikhī."},
+    ],
+    marginalia=[
+        ("A story within a story", [
+            "the Buddha recalling a Buddha before him &mdash;",
+            "checked for accuracy at the very end",
+        ]),
+        ("Complaint met with more, not less", [
+            "\"stir them up even more,\" Sikhī says &mdash;",
+            "escalation instead of reassurance",
+        ]),
+        ("Visible, invisible, half and half", [
+            "four postures precisely named &mdash;",
+            "not a vague claim of power",
+        ]),
+        ("A voice across a thousandfold galaxy", [
+            "a boast, then immediately tested &mdash;",
+            "confirmed word for word by those who heard it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.13.html">SN 6.13 &middot; At Andhakavinda</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-6.15.html">SN 6.15 &middot; Full '
+        "Extinguishment</a> &mdash; the closing discourse of this "
+        "saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.15 — Parinibbānasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 15, "Parinibbāna", "Full Extinguishment",
+    meta_title="SN 6.15 — Full Extinguishment | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parinibbānasutta — closing Brahmasaṃyutta with the "
+        "Buddha's own final words, his last sequence of meditative "
+        "attainments, and four verses spoken at the moment of his "
+        "death by Sahampati, Sakka, Ānanda, and Anuruddha. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Between a pair of sal trees, in the sal forest "
+                    "of the Mallas at Upavattana near Kusinārā, at the "
+                    "time of the Buddha's full extinguishment"),
+        ("Speakers", "The Buddha; then in turn the divinity Sahampati, "
+                     "Sakka lord of gods, Venerable Ānanda, and "
+                     "Venerable Anuruddha"),
+        ("Form", "A brief final address, a precisely traced sequence "
+                 "of meditative attainments, and four commemorative "
+                 "verses"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A fuller account of the same event "
+                              "appears in the Dīgha Nikāya's "
+                              "Mahāparinibbānasutta (DN 16), and likely "
+                              "in Chinese parallels, though this "
+                              "reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the most consequential discourse in this "
+                       "saṃyutta, closing it with the Buddha's death"),
+    ],
+    why=(
+        "This discourse closes Brahmasaṃyutta, and closes it with the "
+        "single most consequential event the collection could contain: "
+        "the Buddha's own death, recorded here in its compact form "
+        "rather than the extended narrative given in the "
+        "Mahāparinibbānasutta. His literal last words open the "
+        "discourse; a precisely traced sequence through all nine "
+        "meditative attainments and back again follows; and once he "
+        "is gone, four figures each speak a single verse in "
+        "response &mdash; a divinity, the king of the gods, and two of "
+        "his own senior disciples, each finding a different register "
+        "for the same moment. This reading guide presents the "
+        "discourse exactly as the source frames it, without softening "
+        "or adding commentary beyond what the verses themselves "
+        "supply."),
+    guide=[
+        ("Last words stated, then left to stand alone", [
+            "The Buddha's final words &mdash; &lsquo;conditions fall "
+            "apart, persist with diligence&rsquo; &mdash; are given "
+            "and then explicitly marked as such: &lsquo;these were the "
+            "Realized One's last words&rsquo;, the text pausing to "
+            "confirm their significance before moving on, rather than "
+            "letting them pass unmarked."]),
+        ("A meditative sequence traced with exact, deliberate precision", [
+            "What follows isn't a summary of the Buddha entering deep "
+            "meditation; it is a full, step-by-step traversal through "
+            "all four absorptions and four formless attainments, into "
+            "the cessation of perception and feeling, back down through "
+            "the same sequence, and partway up again before death "
+            "occurs &mdash; a structure this reading guide follows "
+            "exactly as recorded rather than abbreviating."]),
+        ("Four verses, four distinct registers for the same moment", [
+            "Sahampati's verse names the historic, unrepeatable "
+            "scale of loss (&lsquo;unrivaled in the world&rsquo;); "
+            "Sakka's is doctrinal, restating impermanence as fact; "
+            "Ānanda's is the only one that admits raw feeling directly "
+            "(&lsquo;there was terror&hellip;there were "
+            "goosebumps&rsquo;); Anuruddha's is contemplative, "
+            "tracking the Buddha's composure through to its final "
+            "image."]),
+        ("Ānanda's verse as the discourse's most exposed moment", [
+            "Where the other three verses each situate the Buddha's "
+            "death within a larger frame &mdash; cosmic loss, "
+            "doctrinal fact, meditative composure &mdash; Ānanda's "
+            "alone states an unprocessed physical and emotional "
+            "reaction without immediately resolving it into teaching, "
+            "a moment of plain grief inside an otherwise composed "
+            "sequence."]),
+        ("A lamp going out, not a fire being put out", [
+            "Anuruddha's closing image &mdash; the liberation of the "
+            "Buddha's heart likened to the extinguishing of a lamp "
+            "&mdash; gives this reading guide, and the site's related "
+            "translation-method discussion, its most concrete image "
+            "for what &lsquo;nibbāna&rsquo; (literally, "
+            "quenching or extinguishing) names: not a violent ending, "
+            "but a flame that simply goes out for lack of further "
+            "fuel."]),
+    ],
+    terms=[
+        ("vayadhammā saṅkhārā, appamādena sampādetha",
+         "&ldquo;conditions fall apart, persist with diligence&rdquo; "
+         "&mdash; the Buddha's own final words, explicitly marked as "
+         "such in the text."),
+        ("saññāvedayitanirodhaṁ",
+         "&ldquo;the cessation of perception and feeling&rdquo; "
+         "&mdash; the furthest attainment reached before the Buddha's "
+         "death, within the traced meditative sequence."),
+        ("parinibbāyi",
+         "&ldquo;became fully extinguished&rdquo; &mdash; the "
+         "technical term for the Buddha's death, giving this "
+         "discourse its title."),
+        ("tadāsi yaṁ bhiṁsanakaṁ, tadāsi lomahaṁsanaṁ",
+         "&ldquo;there was terror&hellip;there were goosebumps&rdquo; "
+         "&mdash; Ānanda's verse, the discourse's only unresolved "
+         "expression of raw feeling."),
+        ("pajjotasseva nibbānaṁ, vimokkho cetaso ahū",
+         "&ldquo;the liberation of his heart was like the "
+         "extinguishing of a lamp&rdquo; &mdash; Anuruddha's closing "
+         "image, the discourse's final line."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Brahmasaṃyutta. The final "
+        "colophon &mdash; the only line of the closing uddāna "
+        "translated into English in the source &mdash; is quoted "
+        "verbatim below, following this site's established convention "
+        "for saṃyutta-closing lines. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.15:1.1-1.5"),
+        ("p", "&sect;2", "sn6.15:2.1-3.2"),
+        ("p", "&sect;3", "sn6.15:4.1-4.6"),
+        ("p", "&sect;4", "sn6.15:5.1-6.4"),
+        ("p", "&sect;5", "sn6.15:7.1-8.4"),
+        ("p", "&sect;6", "sn6.15:9.1-11.4"),
+        ("p", "&sect;7", "sn6.15:12.5"),
+    ],
+    quiz=[
+        {"q": "What are the Buddha's literal last words in this discourse?",
+         "opts": [
+             "\"Conditions fall apart. Persist with diligence.\"",
+             "\"All beings are subject to death.\"",
+             "\"Take refuge in the Dhamma alone.\"",
+             "The discourse does not record his last words"],
+         "correct": 0,
+         "expl": "Explicitly marked in the text as the Realized One's last words."},
+        {"q": "How does the discourse describe the Buddha's meditative process before death?",
+         "opts": [
+             "A precise, step-by-step traversal through all nine attainments and partway back",
+             "A single instant of unspecified meditation",
+             "The Buddha remains in ordinary conversation until the moment of death",
+             "No meditation is mentioned at all"],
+         "correct": 0,
+         "expl": "Followed exactly as recorded, not abbreviated."},
+        {"q": "What is the furthest attainment the Buddha reaches in this sequence?",
+         "opts": [
+             "The cessation of perception and feeling",
+             "The first absorption only",
+             "The dimension of infinite space",
+             "The discourse does not specify"],
+         "correct": 0,
+         "expl": "Saññāvedayitanirodhaṁ — the peak of the traced sequence."},
+        {"q": "Who speaks first among the four verses after the Buddha's death?",
+         "opts": [
+             "The divinity Sahampati",
+             "Sakka, lord of gods",
+             "Venerable Ānanda",
+             "Venerable Anuruddha"],
+         "correct": 0,
+         "expl": "Sahampati's verse names the historic scale of the loss."},
+        {"q": "What does Sakka's verse emphasize?",
+         "opts": [
+             "The doctrinal fact of impermanence",
+             "Personal grief and terror",
+             "A prediction of future Buddhas",
+             "A criticism of the assembled mendicants"],
+         "correct": 0,
+         "expl": "Restating impermanence as fact, a distinct register from the other three verses."},
+        {"q": "What makes Ānanda's verse distinct from the other three?",
+         "opts": [
+             "It is the only one that states raw, unresolved feeling directly",
+             "It is the longest of the four verses",
+             "It is spoken before the Buddha's actual death",
+             "It criticizes the Buddha's final teaching"],
+         "correct": 0,
+         "expl": "\"There was terror... there were goosebumps\" — plain grief, not immediately resolved into teaching."},
+        {"q": "What is the central image of Anuruddha's closing verse?",
+         "opts": [
+             "The liberation of the Buddha's heart likened to the extinguishing of a lamp",
+             "A river reaching the ocean",
+             "A bird flying beyond the horizon",
+             "A tree losing its final leaf"],
+         "correct": 0,
+         "expl": "A flame that simply goes out for lack of further fuel, not a violent ending."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Between a pair of sal trees near Kusinārā",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Vulture's Peak near Rājagaha",
+             "At Andhakavinda, in the rain"],
+         "correct": 0,
+         "expl": "The traditional site of the Buddha's parinibbāna."},
+        {"q": "What longer canonical account covers the same event in greater detail?",
+         "opts": [
+             "The Mahāparinibbānasutta (DN 16)",
+             "The Mahāparinibbānasutta is unrelated to this event",
+             "The Dhammacakkappavattanasutta (SN 56.11)",
+             "No other discourse covers this event"],
+         "correct": 0,
+         "expl": "This discourse gives the compact form of an event narrated at greater length elsewhere."},
+        {"q": "How does this discourse's closing colophon read, quoted verbatim in the text section?",
+         "opts": [
+             "\"The Linked Discourses on the Divinity are complete.\"",
+             "\"The Buddha's teaching is now complete.\"",
+             "\"Brahmasaṃyutta begins here.\"",
+             "The colophon is left entirely untranslated"],
+         "correct": 0,
+         "expl": "The only line of the closing uddāna translated into English in the source."},
+    ],
+    marginalia=[
+        ("Last words, marked as such", [
+            "the text pausing to confirm their weight &mdash;",
+            "not left to pass unnoticed",
+        ]),
+        ("Up through nine, back down, and up again", [
+            "a precise traversal, not a summary &mdash;",
+            "death occurring mid-sequence",
+        ]),
+        ("Four verses, four registers", [
+            "cosmic loss, doctrine, raw grief, composure &mdash;",
+            "the same moment, differently held",
+        ]),
+        ("Like a lamp going out", [
+            "no violence in the ending &mdash;",
+            "a flame simply out of fuel",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.14.html">SN 6.14 &middot; About Aruṇavatī</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
