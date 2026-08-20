@@ -56537,3 +56537,1084 @@ page(
         "final chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.21 — Chetvāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 21, "Chetvā", "Slain",
+    meta_title="SN 11.21 — Slain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Chetvāsutta — opening Tatiyavagga, Sakka asks what one "
+        "thing is good to kill, and the Buddha answers with anger, "
+        "poisonous at the root but sweet at the tip. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "Sakka and the Buddha, in a brief direct "
+                     "exchange"),
+        ("Form", "A single riddle-like question answered entirely "
+                 "in verse"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, opening this saṃyutta's "
+                       "third and final chapter"),
+    ],
+    why=(
+        "Sakka's question uses the startling language of killing: "
+        "what one thing, when slain, lets a person sleep at ease and "
+        "feel no sorrow? The Buddha's answer redirects the violent "
+        "vocabulary entirely inward &mdash; not toward any being, but "
+        "toward anger itself, described with a striking double "
+        "image: poisonous at its root, yet sweet at its tip. The "
+        "noble ones praise this particular killing, the verse "
+        "concludes, precisely because it's the one kind of slaying "
+        "that leaves no sorrow behind."),
+    guide=[
+        ("Violent language, redirected inward", [
+            "Sakka's question is phrased in terms of literal "
+            "killing, but the Buddha's answer never touches an "
+            "actual being; the entire exchange repurposes the "
+            "vocabulary of slaying for something happening entirely "
+            "within the mind."]),
+        ("A riddle answered with a single word", [
+            "Sakka doesn't ask an open-ended philosophical question; "
+            "his verse is structured as a genuine riddle, asking for "
+            "one specific thing &mdash; and the Buddha's answer names "
+            "it directly and without elaboration: anger."]),
+        ("A double-natured image, not a simple condemnation", [
+            "Rather than describing anger as purely bad, the verse "
+            "gives it two contrasting qualities at once &mdash; "
+            "poisonous at the root, sweet at the tip &mdash; "
+            "acknowledging why anger is tempting even while "
+            "condemning it."]),
+        ("A personal, informal address from Sakka", [
+            "Sakka addresses the Buddha directly by his clan name, "
+            "Gotama, in his opening question &mdash; a small detail "
+            "marking the exchange as personal rather than formally "
+            "distant."]),
+        ("A compact teaching opening a new chapter", [
+            "Like several of Dutiyavagga's later discourses, this "
+            "one delivers its entire content in a single brief "
+            "exchange, setting a similarly compact tone for the "
+            "start of Tatiyavagga."]),
+    ],
+    terms=[
+        ("kiṁsu chetvā sukhaṁ seti",
+         "&ldquo;when what is slain do you sleep at ease?&rdquo; "
+         "&mdash; Sakka's opening riddle question."),
+        ("kodhaṁ chetvā sukhaṁ seti",
+         "&ldquo;when anger's slain you sleep at ease&rdquo; "
+         "&mdash; the Buddha's direct, unelaborated answer."),
+        ("visamūlassa, madhuraggassa",
+         "&ldquo;poisonous root, and a sweet tip&rdquo; &mdash; the "
+         "vivid double-natured image describing anger's appeal and "
+         "its danger at once."),
+        ("ariyā pasaṁsanti",
+         "&ldquo;the noble ones praise its killing&rdquo; &mdash; "
+         "naming who endorses this unusual, inward-directed kind of "
+         "slaying."),
+        ("gotamā",
+         "&ldquo;Gotama&rdquo; &mdash; Sakka's direct, informal "
+         "address to the Buddha by his clan name."),
+    ],
+    text_intro=(
+        "The discourse in full, opening this saṃyutta's third and "
+        "final chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.21:1.1-1.3"),
+        ("p", "&sect;2", "sn11.21:2.1-2.4"),
+        ("p", "&sect;3", "sn11.21:3.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How is Sakka's opening question phrased?",
+         "opts": [
+             "In the language of killing — what, when slain, brings ease and no sorrow",
+             "As a request for military advice",
+             "As a question about the nature of the gods",
+             "As a challenge to a verse contest"],
+         "correct": 0,
+         "expl": "Startling, violent vocabulary redirected toward an inward target."},
+        {"q": "What does the Buddha name as the one thing whose killing he approves?",
+         "opts": [
+             "Anger",
+             "A rival deity",
+             "Physical desire",
+             "Doubt"],
+         "correct": 0,
+         "expl": "A direct, unelaborated answer to Sakka's riddle."},
+        {"q": "How does the verse describe anger's dual nature?",
+         "opts": [
+             "Poisonous at the root, sweet at the tip",
+             "Entirely harmless in every respect",
+             "Purely destructive with no appeal at all",
+             "Identical to physical hunger"],
+         "correct": 0,
+         "expl": "Acknowledging anger's temptation even while condemning it."},
+        {"q": "Who is said to praise the killing of anger?",
+         "opts": [
+             "The noble ones (ariyā)",
+             "Only Sakka himself",
+             "The titans exclusively",
+             "No one; the verse leaves this unstated"],
+         "correct": 0,
+         "expl": "A collective endorsement, not a personal opinion alone."},
+        {"q": "How does Sakka address the Buddha in his opening question?",
+         "opts": [
+             "By his clan name, Gotama, a personal and informal address",
+             "By a formal royal title only",
+             "By an epithet reserved for enemies",
+             "He does not address the Buddha by name at all"],
+         "correct": 0,
+         "expl": "A small detail marking the exchange as personal rather than formally distant."},
+        {"q": "Does the Buddha's answer involve harming any actual being?",
+         "opts": [
+             "No — the entire exchange repurposes violent language for an inward mental process",
+             "Yes, it recommends killing a specific enemy",
+             "Yes, it recommends killing an animal in sacrifice",
+             "The text is ambiguous on this point"],
+         "correct": 0,
+         "expl": "Violent vocabulary redirected entirely inward."},
+        {"q": "How is Sakka's question structured?",
+         "opts": [
+             "As a genuine riddle, asking for one specific thing",
+             "As an open-ended philosophical inquiry with no single answer expected",
+             "As a rhetorical statement requiring no response",
+             "As a series of unrelated questions"],
+         "correct": 0,
+         "expl": "A riddle answered with a single, precise word."},
+        {"q": "What does killing anger result in, according to the verse?",
+         "opts": [
+             "Sleeping at ease and feeling no sorrow",
+             "Increased social status",
+             "Victory in battle",
+             "Greater wealth"],
+         "correct": 0,
+         "expl": "The direct benefit named in both Sakka's question and the Buddha's answer."},
+        {"q": "How does this discourse's length compare to many of this saṃyutta's other discourses?",
+         "opts": [
+             "Notably brief, delivering its content in a single compact exchange",
+             "Considerably longer than average",
+             "Exactly the same length as SN 11.3",
+             "It contains no verse content at all"],
+         "correct": 0,
+         "expl": "A compact tone matching several of Dutiyavagga's shorter discourses."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The setting for this brief exchange opening Tatiyavagga."},
+    ],
+    marginalia=[
+        ("Killing, redirected inward", [
+            "no being harmed at all &mdash;",
+            "the vocabulary repurposed entirely",
+        ]),
+        ("A riddle, answered in one word", [
+            "\"anger\" &mdash; nothing more elaborated",
+            "the question already precise",
+        ]),
+        ("Sweet at the tip, poison at the root", [
+            "not condemned as simply bad &mdash;",
+            "its appeal acknowledged, its danger named",
+        ]),
+        ("A personal address, not a formal one", [
+            "\"Gotama\" &mdash; Sakka speaks by name",
+            "closeness within reverence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.20.html">SN 11.20 &middot; Who Sakka Worships</a> '
+        "&mdash; the discourse closing Dutiyavagga, immediately "
+        "before this one.",
+        '<a href="sn-11.22.html">SN 11.22 &middot; Ugly</a> '
+        "&mdash; the next discourse, dramatizing this same teaching "
+        "on anger as a vivid allegorical fable.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.22 — Dubbaṇṇiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 22, "Dubbaṇṇiya", "Ugly",
+    meta_title="SN 11.22 — Ugly | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dubbaṇṇiyasutta — an ugly spirit occupying Sakka's own "
+        "throne grows more attractive with every complaint against "
+        "it, until Sakka's calm, humble self-identification makes it "
+        "vanish entirely. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, the gods of the Thirty-Three and "
+                     "Sakka"),
+        ("Form", "An allegorical fable dramatizing SN 11.21's "
+                 "teaching, closed with Sakka's own verse"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid fable that rewards reading alongside "
+                       "SN 11.21"),
+    ],
+    why=(
+        "An ugly, deformed spirit sits down uninvited on Sakka's own "
+        "throne, and the gods of the Thirty-Three react exactly as "
+        "expected &mdash; with outrage and complaint. But the more "
+        "they complain, the more attractive and lovely the spirit "
+        "becomes, until Sakka recognizes what's happening: this is "
+        "the anger-eating spirit, one that literally feeds and grows "
+        "on hostility directed at it. Rather than joining the "
+        "complaints, Sakka approaches with humility, kneels, and "
+        "simply announces his own identity three times &mdash; and "
+        "with each calm, undefensive repetition, the spirit shrinks "
+        "and uglies, until it vanishes altogether."),
+    guide=[
+        ("A teaching dramatized, not merely explained", [
+            "Where SN 11.21 states the value of killing anger "
+            "directly, this discourse turns the same idea into a "
+            "vivid, almost fairy-tale scene, with an actual creature "
+            "whose growth and shrinkage make the abstract point "
+            "concrete and visible."]),
+        ("A reaction that makes the problem worse", [
+            "The gods' complaints aren't neutral or ineffective; the "
+            "text states explicitly that the spirit becomes more "
+            "attractive the more they object &mdash; their own "
+            "hostility is what's actively feeding what they're "
+            "trying to reject."]),
+        ("A diagnosis that names the mechanism directly", [
+            "Sakka doesn't simply guess at a solution; he correctly "
+            "identifies the spirit's actual nature &mdash; an "
+            "anger-eating spirit &mdash; understanding the specific "
+            "mechanism before choosing how to respond to it."]),
+        ("Humility as the literal antidote, not just good advice", [
+            "Sakka's response isn't a lecture to the other gods about "
+            "controlling their tempers; it's a physical demonstration "
+            "&mdash; kneeling, cupped palms, calmly announcing his "
+            "own name &mdash; that directly and visibly starves the "
+            "spirit until it disappears."]),
+        ("A closing verse that models the mechanism as personal practice", [
+            "Sakka's final verse doesn't just describe what happened; "
+            "it generalizes into his own standing character &mdash; "
+            "not easily upset, anger not lasting, restraint "
+            "maintained even when angry &mdash; turning the fable's "
+            "lesson into an ongoing personal discipline."]),
+    ],
+    terms=[
+        ("dubbaṇṇo okoṭimako",
+         "&ldquo;ugly and deformed&rdquo; &mdash; the spirit's "
+         "described appearance, central to the fable's visual logic."),
+        ("yathā yathā&hellip; ujjhāyanti&hellip; tathā tathā so yakkho abhirūpataro",
+         "&ldquo;the more the gods complained&hellip; the more "
+         "attractive that spirit became&rdquo; &mdash; the fable's "
+         "central mechanic, growing on hostility."),
+        ("kodhabhakkho yakkho",
+         "&ldquo;the anger-eating spirit&rdquo; &mdash; Sakka's "
+         "diagnosis, naming exactly what the spirit is and how it "
+         "feeds."),
+        ("tikkhattuṁ nāmaṁ sāveti",
+         "&ldquo;pronounced his name three times&rdquo; &mdash; "
+         "Sakka's calm, humble counter-action, replacing complaint "
+         "with simple, undefensive self-identification."),
+        ("na sūpahatacittomhi&hellip; kodho mayi nāvatiṭṭhati",
+         "&ldquo;my mind isn't easily upset&hellip; anger doesn't "
+         "last in me&rdquo; &mdash; Sakka's closing self-description, "
+         "generalizing the fable into personal practice."),
+    ],
+    text_intro=(
+        "The discourse in full. A short passage of dialogue is "
+        "elided in the source (marked by peyyāla) and not "
+        "reconstructed here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.22:1.3-1.7"),
+        ("p", "&sect;2", "sn11.22:2.1-2.7"),
+        ("p", "&sect;3", "sn11.22:3.1-3.4"),
+        ("p", "&sect;4", "sn11.22:4.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What happens at the discourse's opening?",
+         "opts": [
+             "An ugly, deformed spirit sits uninvited on Sakka's own throne",
+             "Sakka loses a battle against the titans",
+             "A group of seers approach Sakka for protection",
+             "The Buddha delivers a direct teaching to the monks"],
+         "correct": 0,
+         "expl": "The scene that sets the fable's allegory in motion."},
+        {"q": "How do the gods of the Thirty-Three initially react to this spirit?",
+         "opts": [
+             "With outrage and complaint",
+             "With immediate acceptance and welcome",
+             "With complete indifference",
+             "By attacking the spirit directly"],
+         "correct": 0,
+         "expl": "An expected reaction that turns out to have an unexpected effect."},
+        {"q": "What happens to the spirit as the gods' complaints continue?",
+         "opts": [
+             "It becomes more attractive and lovely, not less",
+             "It becomes even more ugly and deformed",
+             "It leaves immediately without incident",
+             "It transforms into a different creature entirely"],
+         "correct": 0,
+         "expl": "The fable's central, counterintuitive mechanic."},
+        {"q": "What does Sakka correctly identify the spirit as?",
+         "opts": [
+             "The anger-eating spirit",
+             "A disguised titan",
+             "A minor local deity with no special nature",
+             "A representation of Vepacitti himself"],
+         "correct": 0,
+         "expl": "A diagnosis naming the specific mechanism at work."},
+        {"q": "How does Sakka approach the spirit, in contrast to the other gods' complaints?",
+         "opts": [
+             "With humility — kneeling, cupped palms, calmly announcing his own name",
+             "By attacking it with a weapon",
+             "By ignoring it entirely",
+             "By ordering the other gods to attack it"],
+         "correct": 0,
+         "expl": "A physical demonstration of restraint rather than a lecture."},
+        {"q": "What happens to the spirit as Sakka repeats his calm self-identification?",
+         "opts": [
+             "It shrinks and uglies further, until it vanishes entirely",
+             "It grows even more attractive and powerful",
+             "It remains completely unchanged",
+             "It transforms into Sakka's own likeness"],
+         "correct": 0,
+         "expl": "The direct opposite effect of the gods' earlier complaints."},
+        {"q": "How does this discourse relate to SN 11.21?",
+         "opts": [
+             "It dramatizes the same teaching on anger as a vivid allegorical fable",
+             "It directly contradicts SN 11.21's teaching",
+             "It shares no thematic connection with SN 11.21",
+             "It repeats SN 11.21's verses word for word"],
+         "correct": 0,
+         "expl": "Turning an abstract statement into a concrete, visible story."},
+        {"q": "What does Sakka's closing verse describe about his own character?",
+         "opts": [
+             "That his mind isn't easily upset and anger doesn't last in him",
+             "That he never feels anger under any circumstance",
+             "That he relies on others to control his temper",
+             "That he intentionally provokes anger in others"],
+         "correct": 0,
+         "expl": "Generalizing the fable's lesson into an ongoing personal discipline."},
+        {"q": "According to Sakka's verse, what does he do even when he does get angry?",
+         "opts": [
+             "He doesn't speak harshly or advertise his own virtues",
+             "He immediately punishes the source of his anger",
+             "He withdraws from all social contact permanently",
+             "He seeks revenge at the earliest opportunity"],
+         "correct": 0,
+         "expl": "Restraint maintained even when anger does briefly arise."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("A throne occupied, uninvited", [
+            "an ugly spirit, sitting where Sakka sits &mdash;",
+            "outrage the immediate response",
+        ]),
+        ("Complaint that feeds what it fights", [
+            "the more the gods object, the lovelier it grows &mdash;",
+            "hostility itself as the spirit's food",
+        ]),
+        ("A diagnosis before a cure", [
+            "\"the anger-eating spirit\" &mdash;",
+            "understanding the mechanism first",
+        ]),
+        ("Humility as literal antidote", [
+            "kneeling, calm, simply his own name &mdash;",
+            "the spirit starved, then gone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.21.html">SN 11.21 &middot; Slain</a> '
+        "&mdash; the discourse immediately before this one, stating "
+        "directly the teaching this fable dramatizes.",
+        '<a href="sn-11.23.html">SN 11.23 &middot; The Sambari Sorcery</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.23 — Sambarimāyāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 23, "Sambarimāyā", "The Sambari Sorcery",
+    meta_title="SN 11.23 — The Sambari Sorcery | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sambarimāyāsutta — visiting his gravely ill enemy, "
+        "Sakka asks to be taught a forbidden sorcery, and the "
+        "titans' refusal turns out to spare him a terrible fate. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and Vepacitti"),
+        ("Form", "A brief narrated episode ending on an "
+                 "unresolved note, closed with a warning verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a compact episode whose ending this guide "
+                       "reads honestly as left open"),
+    ],
+    why=(
+        "Learning that his enemy Vepacitti is gravely ill, Sakka goes "
+        "to see him &mdash; not to gloat, but to ask after his "
+        "health, echoing the same commitment to decency toward an "
+        "enemy already seen in SN 11.7. Vepacitti asks Sakka to heal "
+        "him; Sakka's condition is unusual &mdash; teach me the "
+        "Sambari sorcery. The titans forbid it, and Vepacitti's "
+        "closing verse reveals why: whoever practices sorcery like "
+        "Sambara falls into a terrible hell for a full century. What "
+        "looks like a simple refusal turns out to be, in effect, "
+        "Vepacitti sparing his enemy from a catastrophic fate."),
+    guide=[
+        ("Compassion extended without being asked for anything back", [
+            "Sakka's visit isn't framed as a strategic calculation; "
+            "he simply goes to ask after a gravely ill enemy's "
+            "health, the same instinct toward decency already shown "
+            "toward Vepacitti in SN 11.7."]),
+        ("An unusual price attached to healing", [
+            "Rather than offering to heal Vepacitti freely, Sakka "
+            "names a specific condition &mdash; teach me the Sambari "
+            "sorcery &mdash; making the exchange transactional in a "
+            "way the rest of the scene doesn't fully resolve."]),
+        ("A refusal decided collectively, not by Vepacitti alone", [
+            "Vepacitti doesn't simply decide on his own whether to "
+            "share this knowledge; he consults the other titans "
+            "first, and it's their collective judgment that blocks "
+            "the request."]),
+        ("A warning that reframes the refusal entirely", [
+            "Vepacitti's closing verse doesn't merely explain the "
+            "titans' decision; it reveals that learning this sorcery "
+            "carries a horrific karmic cost, turning what read as a "
+            "simple denial into something closer to protection."]),
+        ("An ending this guide reads honestly as unresolved", [
+            "The text as it survives doesn't say whether Vepacitti "
+            "was ultimately healed, or by what means; rather than "
+            "inventing a resolution, this reading guide leaves that "
+            "question exactly where the source text leaves it."]),
+    ],
+    terms=[
+        ("ābādhiko ahosi dukkhito bāḷhagilāno",
+         "&ldquo;was sick, suffering, gravely ill&rdquo; &mdash; "
+         "Vepacitti's condition, prompting Sakka's visit."),
+        ("gilānapucchako",
+         "&ldquo;to ask after his illness&rdquo; &mdash; Sakka's "
+         "stated, compassionate motive for visiting his enemy."),
+        ("vācehi maṁ, vepacitti, sambarimāyaṁ",
+         "&ldquo;teach me, Vepacitti, the Sambari sorcery&rdquo; "
+         "&mdash; Sakka's unusual condition attached to healing."),
+        ("mā kho tvaṁ, mārisa, vācesi sakkaṁ devānamindaṁ sambarimāyaṁ",
+         "&ldquo;do not teach the Sambari sorcery to Sakka&rdquo; "
+         "&mdash; the titans' collective refusal, decided together "
+         "rather than by Vepacitti alone."),
+        ("sambarova sataṁ samaṁ (upeti nirayaṁ ghoraṁ)",
+         "&ldquo;falls into the terrible hell for a full century, "
+         "like Sambara&rdquo; &mdash; the warning verse revealing "
+         "the refusal as protective rather than merely obstructive."),
+    ],
+    text_intro=(
+        "The discourse in full, exactly as the source preserves it "
+        "&mdash; the text ends on Vepacitti's warning verse, with no "
+        "further resolution given. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.23:1.3-1.7"),
+        ("p", "&sect;2", "sn11.23:1.8-1.13"),
+        ("p", "&sect;3", "sn11.23:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "Why does Sakka visit Vepacitti at the discourse's opening?",
+         "opts": [
+             "To ask after his health, since Vepacitti is gravely ill",
+             "To finish him off while he's weak",
+             "To demand his surrender",
+             "To celebrate his suffering"],
+         "correct": 0,
+         "expl": "A gesture of decency toward an enemy, echoing SN 11.7."},
+        {"q": "What does Vepacitti ask of Sakka?",
+         "opts": [
+             "To heal him",
+             "To spare his life in an upcoming battle",
+             "To release him from captivity",
+             "To teach him a verse"],
+         "correct": 0,
+         "expl": "Vepacitti's direct request, prompting Sakka's unusual condition."},
+        {"q": "What condition does Sakka attach to healing Vepacitti?",
+         "opts": [
+             "That Vepacitti teach him the Sambari sorcery",
+             "That Vepacitti swear permanent loyalty to him",
+             "That Vepacitti surrender all his titan armies",
+             "That Vepacitti apologize publicly"],
+         "correct": 0,
+         "expl": "An unusual, transactional condition that drives the rest of the story."},
+        {"q": "How does Vepacitti decide whether to grant this request?",
+         "opts": [
+             "By consulting the other titans first, rather than deciding alone",
+             "By deciding immediately on his own",
+             "By asking Sakka to prove his worthiness",
+             "By refusing without any consultation"],
+         "correct": 0,
+         "expl": "A collective decision, not Vepacitti's alone."},
+        {"q": "What do the titans decide?",
+         "opts": [
+             "Not to teach the Sambari sorcery to Sakka",
+             "To teach it freely and without hesitation",
+             "To teach it only in exchange for a ransom",
+             "To let Vepacitti decide however he wishes"],
+         "correct": 0,
+         "expl": "A collective refusal that shapes the discourse's ending."},
+        {"q": "What does Vepacitti's closing verse reveal about the Sambari sorcery?",
+         "opts": [
+             "That practicing it leads to a terrible hell for a full century",
+             "That it is a harmless form of entertainment",
+             "That only titans are capable of learning it",
+             "That it has already been forgotten entirely"],
+         "correct": 0,
+         "expl": "A warning reframing the refusal as protective rather than merely obstructive."},
+        {"q": "How does this reading guide treat the discourse's ending?",
+         "opts": [
+             "Honestly, as unresolved — the text doesn't say whether Vepacitti was healed",
+             "By inventing a resolution not present in the source",
+             "By assuming Vepacitti died from his illness",
+             "By assuming the sorcery was taught after all"],
+         "correct": 0,
+         "expl": "Leaving the question exactly where the source text leaves it."},
+        {"q": "Who is named as a reference point for the fate of sorcerers, in the closing verse?",
+         "opts": [
+             "Sambara, the titan lord encountered earlier in SN 11.10",
+             "Vepacitti himself",
+             "Sakka",
+             "Mātali"],
+         "correct": 0,
+         "expl": "A callback to the figure who cursed and was cursed in an earlier discourse."},
+        {"q": "What earlier discourse does Sakka's compassionate visit toward an enemy echo?",
+         "opts": [
+             "SN 11.7, on keeping faith with even a sworn enemy",
+             "SN 11.1, on Suvīra's negligence",
+             "SN 11.15, on what makes a place delightful",
+             "SN 11.9, on the wilderness seers"],
+         "correct": 0,
+         "expl": "A recurring theme of decency toward Vepacitti specifically."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("A visit with no ulterior motive named", [
+            "an enemy, gravely ill &mdash;",
+            "Sakka simply asks after his health",
+        ]),
+        ("An unusual price for healing", [
+            "not gratitude, but a teaching &mdash;",
+            "the sorcery itself the asking price",
+        ]),
+        ("A refusal decided together", [
+            "not Vepacitti's choice alone &mdash;",
+            "the titans consulted first",
+        ]),
+        ("Denial reframed as protection", [
+            "a century in hell, the actual cost &mdash;",
+            "what looked like refusal, a kindness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.22.html">SN 11.22 &middot; Ugly</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.10.html">SN 11.10 &middot; Seers by the Ocean</a> '
+        "&mdash; the earlier discourse featuring the same sorcerer, "
+        "Sambara, in a different episode entirely.",
+        '<a href="sn-11.24.html">SN 11.24 &middot; Transgression</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.24 — Accayasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 24, "Accaya", "Transgression",
+    meta_title="SN 11.24 — Transgression | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Accayasutta — when a monk refuses to accept another's "
+        "sincere confession, the Buddha names two mirrored kinds of "
+        "fool, and quotes Sakka's own verse on controlling anger. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, a monastery &mdash; a present-day "
+                    "dispute among the monks themselves"),
+        ("Speakers", "The Buddha, addressing a group of mendicants "
+                     "who report a conflict; Sakka's verse is quoted "
+                     "within the teaching"),
+        ("Form", "A direct teaching responding to a real dispute, "
+                 "closed with a quoted verse from Sakka"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "grounded in an ordinary community dispute "
+                       "rather than a mythic episode"),
+    ],
+    why=(
+        "Unlike almost every other discourse in this saṃyutta, this "
+        "one doesn't recount a story about gods and titans; it "
+        "responds to an actual dispute among the monks themselves. "
+        "One mendicant transgresses against another, confesses "
+        "sincerely, and is refused &mdash; the other simply won't "
+        "accept the confession. The Buddha's response names two "
+        "mirrored kinds of fool, one who can't recognize their own "
+        "fault and one who won't accept another's honest admission of "
+        "fault, before quoting Sakka's own verse on controlling anger "
+        "as the underlying remedy for exactly this kind of impasse."),
+    guide=[
+        ("A real dispute, not a mythic episode", [
+            "Nearly every discourse in this saṃyutta narrates events "
+            "among gods and titans; this one instead responds "
+            "directly to a conflict between two ordinary mendicants, "
+            "grounding Sakka's teaching in the monastic community's "
+            "actual present-day life."]),
+        ("Fault symmetrically distributed, not placed on one side", [
+            "The Buddha doesn't simply side with the transgressor who "
+            "confessed or the one who was wronged; he identifies a "
+            "specific failure on each side &mdash; one failing to "
+            "recognize their own fault, the other failing to accept "
+            "a sincere confession."]),
+        ("Two pairs of fools and wise, precisely mirrored", [
+            "The teaching's structure is deliberately symmetrical: "
+            "each kind of foolishness names is answered by exactly "
+            "one corresponding kind of astuteness, with nothing left "
+            "asymmetric between the two categories."]),
+        ("Refusing a confession named as its own kind of fault", [
+            "The discourse doesn't treat only the original "
+            "transgression as blameworthy; refusing a properly "
+            "offered confession is named as an equally serious "
+            "failure, not merely an understandable reaction to being "
+            "wronged."]),
+        ("A borrowed verse applied to a new situation", [
+            "Sakka's verse on controlling anger wasn't composed for "
+            "this dispute; the Buddha recalls it from an earlier "
+            "occasion among the gods and applies it here, showing the "
+            "same teaching reaching across entirely different "
+            "audiences."]),
+    ],
+    terms=[
+        ("accayaṁ accayato deseti&hellip; nappaṭiggaṇhāti",
+         "&ldquo;confessed&hellip; but they didn't accept it&rdquo; "
+         "&mdash; the monastic dispute at the discourse's center."),
+        ("yo ca accayaṁ accayato na passati",
+         "&ldquo;one who doesn't recognize when they've made a "
+         "mistake&rdquo; &mdash; the first of two mirrored kinds of "
+         "fool."),
+        ("yo ca accayaṁ desentassa yathādhammaṁ nappaṭiggaṇhāti",
+         "&ldquo;one who doesn't properly accept the confession of "
+         "someone who's made a mistake&rdquo; &mdash; the second "
+         "fool, refusing a sincere admission of fault."),
+        ("kodho vo vasamāyātu",
+         "&ldquo;control your anger&rdquo; &mdash; the opening line "
+         "of Sakka's quoted verse."),
+        ("atha pāpajanaṁ kodho, pabbatovābhimaddati",
+         "&ldquo;anger crushes bad people like a mountain&rdquo; "
+         "&mdash; the verse's closing image, on anger's destructive "
+         "weight."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.24:1.2-1.6"),
+        ("p", "&sect;2", "sn11.24:1.7-1.8"),
+        ("p", "&sect;3", "sn11.24:2.1-2.6"),
+        ("p", "&sect;4", "sn11.24:3.1-4.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's setting differ from most others in this saṃyutta?",
+         "opts": [
+             "It responds to a real dispute among monks, not a mythic story about gods",
+             "It is the only discourse set outside Sāvatthī",
+             "It features no verse content whatsoever",
+             "It is narrated entirely by Sakka rather than the Buddha"],
+         "correct": 0,
+         "expl": "Grounded in the monastic community's present-day life."},
+        {"q": "What happens between the two mendicants at the discourse's opening?",
+         "opts": [
+             "One transgresses against the other, confesses, and is refused",
+             "They resolve their dispute without incident",
+             "One physically attacks the other",
+             "They agree to bring the matter before Sakka directly"],
+         "correct": 0,
+         "expl": "The real dispute prompting the Buddha's teaching."},
+        {"q": "How does the Buddha distribute fault in this situation?",
+         "opts": [
+             "Symmetrically — naming a specific failure on each side",
+             "Entirely on the monk who transgressed",
+             "Entirely on the monk who refused the confession",
+             "He declines to assign any fault at all"],
+         "correct": 0,
+         "expl": "Neither side is treated as simply blameless."},
+        {"q": "What is the first kind of fool the Buddha names?",
+         "opts": [
+             "One who doesn't recognize when they've made a mistake",
+             "One who apologizes too frequently",
+             "One who never speaks in assemblies",
+             "One who avoids all conflict entirely"],
+         "correct": 0,
+         "expl": "The first half of a deliberately mirrored pair."},
+        {"q": "What is the second kind of fool the Buddha names?",
+         "opts": [
+             "One who doesn't properly accept another's sincere confession",
+             "One who confesses too readily",
+             "One who reports disputes to the Buddha",
+             "One who avoids monastic assemblies"],
+         "correct": 0,
+         "expl": "The precise mirror of the first kind of fool."},
+        {"q": "How does the discourse treat refusing a sincere confession?",
+         "opts": [
+             "As its own serious failure, not merely an understandable reaction",
+             "As entirely justified under any circumstance",
+             "As a minor issue not worth addressing",
+             "As something only Sakka is qualified to judge"],
+         "correct": 0,
+         "expl": "Named as equally blameworthy as the original transgression."},
+        {"q": "Where does Sakka's quoted verse originally come from, according to the text?",
+         "opts": [
+             "An earlier occasion when Sakka addressed the gods of the Thirty-Three",
+             "A verse composed specifically for this dispute",
+             "A verse taught to Sakka by the Buddha personally",
+             "An anonymous source with no attribution given"],
+         "correct": 0,
+         "expl": "A teaching recalled from a separate context and applied here."},
+        {"q": "What does Sakka's verse instruct regarding friendships?",
+         "opts": [
+             "Not to let friendships decay through anger",
+             "To avoid forming friendships entirely",
+             "To end friendships at the first sign of conflict",
+             "The verse makes no mention of friendships"],
+         "correct": 0,
+         "expl": "One of several practical instructions within the verse."},
+        {"q": "What image closes Sakka's verse, describing anger's effect on bad people?",
+         "opts": [
+             "Anger crushes them like a mountain",
+             "Anger purifies them like fire",
+             "Anger elevates them like a rising tide",
+             "No closing image is given"],
+         "correct": 0,
+         "expl": "A vivid image of anger's destructive weight."},
+        {"q": "What kind of person does the discourse call astute (paṇḍita)?",
+         "opts": [
+             "One who recognizes their own mistakes and one who properly accepts confessions",
+             "One who never makes a mistake at all",
+             "One who avoids all disputes entirely",
+             "Only Sakka himself qualifies as astute"],
+         "correct": 0,
+         "expl": "The precise mirror of the two kinds of fool."},
+    ],
+    marginalia=[
+        ("A dispute among the living, not the gods", [
+            "an actual conflict between two monks &mdash;",
+            "grounded in present community life",
+        ]),
+        ("Fault on both sides, not one", [
+            "not recognizing, and not accepting &mdash;",
+            "two failures, precisely mirrored",
+        ]),
+        ("Refusal named as its own fault", [
+            "not just an understandable reaction &mdash;",
+            "a failure in its own right",
+        ]),
+        ("An old verse, newly applied", [
+            "spoken once among the gods &mdash;",
+            "now addressed to a dispute among monks",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.23.html">SN 11.23 &middot; The Sambari Sorcery</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.25.html">SN 11.25 &middot; Don&rsquo;t Be Angry</a> '
+        "&mdash; the next and final discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.25 — Akkodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 25, "Akkodha", "Don’t Be Angry",
+    meta_title="SN 11.25 — Don’t Be Angry | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Akkodhasutta — a brief closing verse on anger completes "
+        "Sakkasaṃyutta and, with it, all of Sagāthāvagga, Book I of "
+        "the Saṃyutta Nikāya. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka addressing the gods of the "
+                     "Thirty-Three in the Sudhamma assembly hall"),
+        ("Form", "A single closing verse, sealed by two nested "
+                 "colophons"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief in content, but closing two levels of "
+                       "structure at once"),
+    ],
+    why=(
+        "This is the final discourse of Sakkasaṃyutta &mdash; and, "
+        "with it, of all eleven saṃyuttas making up Sagāthāvagga, "
+        "the Saṃyutta Nikāya's first book. Its content is modest: one "
+        "more verse from Sakka on refusing to let anger take command, "
+        "closing on the same image of anger crushing bad people like "
+        "a mountain already given in SN 11.24. But the discourse "
+        "carries two colophons where most carry one &mdash; \"The "
+        "Linked Discourses with Sakka are complete\" and, "
+        "immediately after, \"The Book With Verses is finished\" "
+        "&mdash; marking the end of a chapter and the end of an "
+        "entire book in the same breath."),
+    guide=[
+        ("A brief verse doing the work of a capstone", [
+            "Nothing about the verse itself announces that anything "
+            "is ending; its content is a modest, familiar teaching "
+            "on anger, and only the colophons that follow reveal how "
+            "much structural weight this short discourse actually "
+            "carries."]),
+        ("A deliberate echo of the discourse just before it", [
+            "The verse's closing image &mdash; anger crushing bad "
+            "people like a mountain &mdash; repeats SN 11.24's own "
+            "closing line nearly word for word, a reprise rather "
+            "than a coincidence, tying the chapter's last two "
+            "discourses together explicitly."]),
+        ("An anger theme completing its own arc across this chapter", [
+            "Tatiyavagga opened with SN 11.21's direct instruction to "
+            "kill anger and SN 11.22's fable of an anger-eating "
+            "spirit starved by calm humility; this closing verse "
+            "returns to the same theme one final time, bringing the "
+            "chapter's own thread full circle."]),
+        ("Two colophons, not one", [
+            "Most discourses closing a saṃyutta in this collection "
+            "carry a single translated closing line; this one carries "
+            "two in sequence &mdash; first sealing Sakkasaṃyutta "
+            "itself, then immediately sealing the entire Sagāthāvagga "
+            "that Sakkasaṃyutta completes."]),
+        ("A summary verse naming all eleven saṃyuttas by name", [
+            "The source text's closing uddāna doesn't only list "
+            "Tatiyavagga's five discourse titles; a second summary "
+            "verse names all eleven saṃyuttas of this entire book in "
+            "order &mdash; deities, godlings, the king, Māra, nuns, "
+            "Brahmā, brahmins, Vaṅgīsa, the forest, native spirits, "
+            "and Vāsava &mdash; a structural index this reading guide "
+            "describes rather than reproduces verbatim, matching "
+            "this site's established practice for untranslated "
+            "peyyāla passages."]),
+    ],
+    terms=[
+        ("mā vo kodho ajjhabhavi",
+         "&ldquo;don't let anger be your master&rdquo; &mdash; the "
+         "closing verse's opening instruction."),
+        ("mā ca kujjhittha kujjhataṁ",
+         "&ldquo;don't get angry at angry people&rdquo; &mdash; "
+         "directly addressing the temptation of reciprocal anger."),
+        ("akkodho avihiṁsā ca, ariyesu ca paṭipadā",
+         "&ldquo;kindness and harmlessness are always present in "
+         "the noble ones&rdquo; &mdash; the positive counterpart, "
+         "naming what actually characterizes the noble."),
+        ("atha pāpajanaṁ kodho, pabbatovābhimaddati",
+         "&ldquo;anger crushes bad people like a mountain&rdquo; "
+         "&mdash; the same closing image already given in SN 11.24, "
+         "deliberately echoed here."),
+        ("sakkasaṁyuttaṁ samattaṁ&hellip; sagāthāvaggasaṁyuttapāḷi niṭṭhitā",
+         "&ldquo;the Linked Discourses with Sakka are complete&hellip; "
+         "the Book With Verses is finished&rdquo; &mdash; two nested "
+         "colophons, closing a chapter and a book in the same "
+         "breath."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Sakkasaṃyutta and all of "
+        "Sagāthāvagga. Both closing colophons are quoted verbatim, as "
+        "this site does whenever the translation itself renders "
+        "them; the closing uddāna verses (Tatiyavagga's five titles, "
+        "and the full eleven-saṃyutta summary) are structural indexes "
+        "and are described in the guide rather than reproduced here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.25:1.1-1.4"),
+        ("p", "&sect;2", "sn11.25:2.1-2.6"),
+        ("p", "&sect;3", "sn11.25:3.5"),
+        ("p", "&sect;4", "sn11.25:4.5"),
+    ],
+    quiz=[
+        {"q": "What does this discourse's content actually consist of?",
+         "opts": [
+             "A single verse from Sakka on not letting anger take command",
+             "An extended narrative involving a battle",
+             "A formal verse contest before judges",
+             "A dialogue between the Buddha and Vepacitti"],
+         "correct": 0,
+         "expl": "A modest teaching whose structural weight comes from what follows it."},
+        {"q": "What closing image does this verse share with SN 11.24?",
+         "opts": [
+             "Anger crushing bad people like a mountain",
+             "A spirit vanishing when confronted with calm",
+             "A chariot turning back to protect bird nests",
+             "A curse causing someone to wake in alarm"],
+         "correct": 0,
+         "expl": "A deliberate echo rather than a coincidence."},
+        {"q": "How many colophons does this discourse carry, and why?",
+         "opts": [
+             "Two — one closing Sakkasaṃyutta, one closing all of Sagāthāvagga",
+             "One, identical to every other saṃyutta-closing discourse",
+             "None; this discourse has no colophon at all",
+             "Three, one for each level of the text's structure"],
+         "correct": 0,
+         "expl": "Sealing a chapter and an entire book in the same breath."},
+        {"q": "What does the first colophon state?",
+         "opts": [
+             "\"The Linked Discourses with Sakka are complete.\"",
+             "\"The Linked Discourses with the Forest are complete.\"",
+             "\"The Linked Discourses with Brahmins are complete.\"",
+             "No first colophon is given."],
+         "correct": 0,
+         "expl": "Sealing Sakkasaṃyutta specifically, the twenty-five discourses just completed."},
+        {"q": "What does the second colophon state?",
+         "opts": [
+             "\"The Book With Verses is finished.\"",
+             "\"The Book of Causation is finished.\"",
+             "\"The Book of the Aggregates is finished.\"",
+             "No second colophon is given."],
+         "correct": 0,
+         "expl": "Marking the completion of Sagāthāvagga, this collection's entire first book."},
+        {"q": "What theme does this closing discourse bring full circle across Tatiyavagga?",
+         "opts": [
+             "The theme of anger, opened by SN 11.21 and SN 11.22",
+             "The theme of homage, from Dutiyavagga's trilogy",
+             "The theme of Sakka's seven vows",
+             "The theme of wilderness seers"],
+         "correct": 0,
+         "expl": "Returning to the chapter's opening subject one final time."},
+        {"q": "What does the verse instruct regarding anger directed at oneself by others?",
+         "opts": [
+             "Not to get angry at angry people in return",
+             "To match anger with equal anger",
+             "To avoid all contact with angry people",
+             "The verse gives no such instruction"],
+         "correct": 0,
+         "expl": "Addressing the specific temptation of reciprocal anger."},
+        {"q": "What qualities does the verse say are always present in the noble ones?",
+         "opts": [
+             "Kindness and harmlessness",
+             "Wealth and status",
+             "Physical strength",
+             "Eloquence in debate"],
+         "correct": 0,
+         "expl": "The positive counterpart to the instruction against anger."},
+        {"q": "Besides Tatiyavagga's five titles, what does the source text's closing uddāna also list?",
+         "opts": [
+             "All eleven saṃyutta names making up Sagāthāvagga, in order",
+             "A list of every deity mentioned across the whole book",
+             "A count of total verses in the collection",
+             "Nothing further; only Tatiyavagga's titles are listed"],
+         "correct": 0,
+         "expl": "A structural index summarizing the entire book by chapter name."},
+        {"q": "Where does the Buddha narrate this closing story to the monks?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The same setting used to open this entire saṃyutta in SN 11.1."},
+    ],
+    marginalia=[
+        ("A modest verse, a major ending", [
+            "nothing in the words themselves announces it &mdash;",
+            "the colophons carry the weight",
+        ]),
+        ("An echo, not a coincidence", [
+            "the same mountain image as SN 11.24 &mdash;",
+            "the chapter closing on a reprise",
+        ]),
+        ("Anger's arc, completed", [
+            "killed in 11.21, starved in 11.22 &mdash;",
+            "now simply refused mastery",
+        ]),
+        ("Two endings in one breath", [
+            "a saṃyutta complete, a book finished &mdash;",
+            "Sagāthāvagga's last word",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.24.html">SN 11.24 &middot; Transgression</a> '
+        "&mdash; the discourse immediately before this one, sharing "
+        "its closing image of anger crushing bad people like a "
+        "mountain.",
+        '<a href="sn-11.1.html">SN 11.1 &middot; With Suvīra</a> '
+        "&mdash; the discourse opening Sakkasaṃyutta, twenty-five "
+        "discourses and three chapters before this one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index. Sagāthāvagga, Book I, is now complete; "
+        "Nidānavagga, Book II, begins at SN 12.",
+    ],
+)
