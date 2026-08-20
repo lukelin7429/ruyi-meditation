@@ -52144,3 +52144,2208 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.1 — Suvīrasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 1, "Suvīra", "With Suvīra",
+    meta_title="SN 11.1 — With Suvīra | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Suvīrasutta — opening Sakkasaṃyutta, a battle-shy godling "
+        "wishes for happiness without effort, and Sakka's escalating "
+        "reply reveals that not even extinguishment comes free of "
+        "work. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka, lord of gods, and the "
+                     "godling Suvīra"),
+        ("Form", "A retold myth in prose and verse, escalating "
+                 "through repeated exchanges, closed with a moral "
+                 "drawn for the monks"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new saṃyutta with a cleverly ironic "
+                       "teaching device"),
+    ],
+    why=(
+        "This discourse opens Sakkasaṃyutta with something distinct "
+        "from every previous saṃyutta in this collection: rather than "
+        "a deity or spirit visiting the Buddha directly, the Buddha "
+        "himself narrates a story from the world of the gods to his "
+        "assembled mendicants. The godling Suvīra, ordered three "
+        "times by Sakka to march against invading titans, simply "
+        "fails to act each time. Rather than punishing him directly, "
+        "Sakka turns Suvīra's evident wish &mdash; happiness without "
+        "effort &mdash; into the subject of an escalating verse "
+        "exchange, one that arrives, almost as a trap sprung on its "
+        "own premise, at the conclusion that even extinguishment "
+        "itself would require a path if such effortless happiness "
+        "existed anywhere at all."),
+    guide=[
+        ("A story told, not an encounter witnessed", [
+            "Unlike SN 1 through SN 10, where a deity or spirit "
+            "appears directly before the Buddha, this discourse is "
+            "narrated retrospectively, the Buddha recounting a past "
+            "event among the gods to his own assembled community "
+            "&mdash; a structural shift opening this saṃyutta."]),
+        ("Failure repeated three times, without escalating punishment", [
+            "Suvīra doesn't refuse Sakka's order outright; he agrees "
+            "each time and then simply fails to follow through, three "
+            "times running &mdash; and Sakka's response isn't anger "
+            "or discipline, but a different kind of address entirely, "
+            "delivered in verse."]),
+        ("A wish taken at face value, then followed to its conclusion", [
+            "Rather than lecturing Suvīra about duty, Sakka's verses "
+            "engage directly with what Suvīra actually seems to want "
+            "&mdash; a place where happiness comes without effort "
+            "&mdash; treating the wish as worth investigating on its "
+            "own terms rather than dismissing it."]),
+        ("An escalating exchange arriving at its own punchline", [
+            "Each verse builds on the last: Suvīra names his wish "
+            "more precisely, Sakka restates the offer to find such a "
+            "place, until the final exchange lands on the conclusion "
+            "that only extinguishment could possibly answer the "
+            "description &mdash; and extinguishment itself requires a "
+            "path, undermining the very premise of effortless "
+            "happiness."]),
+        ("A moral drawn explicitly for the monks listening", [
+            "The Buddha doesn't leave the story to speak for itself "
+            "without application; he closes by noting that even "
+            "Sakka, already enjoying the fruits of good deeds and "
+            "ruling over the gods, still praises initiative and "
+            "energy &mdash; making the point directly relevant to "
+            "monks who have every reason to strive for what remains "
+            "unattained."]),
+    ],
+    terms=[
+        ("asurā deve abhiyaṁsu",
+         "&ldquo;the titans marched against the gods&rdquo; &mdash; "
+         "the cosmic mythological setup opening the story."),
+        ("pamādaṁ āpādesi",
+         "&ldquo;fell into negligence&rdquo; &mdash; Suvīra's "
+         "repeated failure to act, despite agreeing each time."),
+        ("anuṭṭhahaṁ avāyāmaṁ, sukhaṁ yatrādhigacchati",
+         "&ldquo;where you can achieve happiness without working for "
+         "it or trying hard&rdquo; &mdash; Sakka's ironic, leading "
+         "question, restated with escalation across the exchange."),
+        ("nibbānassa hi so maggo",
+         "&ldquo;that surely would be extinguishment's path&rdquo; "
+         "&mdash; the punchline revealing that not even nibbāna comes "
+         "without effort."),
+        ("uṭṭhānavīriyassa vaṇṇavādī",
+         "&ldquo;will speak in praise of initiative and energy&rdquo; "
+         "&mdash; the moral the Buddha draws explicitly for the "
+         "monks."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Sakkasaṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.1:1.1-1.6"),
+        ("p", "&sect;2", "sn11.1:2.1-2.14"),
+        ("p", "&sect;3", "sn11.1:3.1-3.4"),
+        ("p", "&sect;4", "sn11.1:4.1-4.4"),
+        ("p", "&sect;5", "sn11.1:5.1-5.4"),
+        ("p", "&sect;6", "sn11.1:6.1-6.4"),
+        ("p", "&sect;7", "sn11.1:7.1-7.5"),
+        ("p", "&sect;8", "sn11.1:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from SN 1 through SN 10?",
+         "opts": [
+             "The Buddha narrates a past story to the monks, rather than a deity appearing before him directly",
+             "It is identical in structure to every prior saṃyutta",
+             "No deity or godling appears anywhere in this discourse",
+             "It features a direct debate between the Buddha and Sakka"],
+         "correct": 0,
+         "expl": "A structural shift opening Sakkasaṃyutta."},
+        {"q": "What task does Sakka give to the godling Suvīra?",
+         "opts": [
+             "To march against invading titans threatening the gods",
+             "To compose a verse of praise",
+             "To teach the Dhamma to other gods",
+             "To retrieve a lost treasure"],
+         "correct": 0,
+         "expl": "A defensive military task within the story's mythological setup."},
+        {"q": "How many times does Suvīra fail to carry out this order?",
+         "opts": [
+             "Three times, agreeing each time but then falling into negligence",
+             "He never agrees to the order at all",
+             "Only once",
+             "He succeeds on the first attempt"],
+         "correct": 0,
+         "expl": "Repeated agreement followed by repeated failure to act."},
+        {"q": "How does Sakka respond to this repeated failure?",
+         "opts": [
+             "Not with anger or punishment, but with an escalating verse exchange",
+             "By immediately banishing Suvīra",
+             "By taking on the task himself without comment",
+             "By ignoring the failure entirely"],
+         "correct": 0,
+         "expl": "A different mode of address entirely, engaging with what Suvīra actually wants."},
+        {"q": "What does Sakka's verse exchange investigate?",
+         "opts": [
+             "Suvīra's evident wish for happiness without effort",
+             "The proper strategy for military combat",
+             "The history of the gods and titans",
+             "A completely unrelated philosophical topic"],
+         "correct": 0,
+         "expl": "Taking the wish at face value rather than simply criticizing it."},
+        {"q": "What conclusion does the escalating exchange arrive at?",
+         "opts": [
+             "That only extinguishment could match such a description, and even that requires a path",
+             "That effortless happiness definitely exists somewhere",
+             "That Suvīra should be punished severely",
+             "That Sakka himself doesn't believe in the goal"],
+         "correct": 0,
+         "expl": "Undermining the very premise of effortless happiness."},
+        {"q": "What moral does the Buddha draw for the monks at the discourse's close?",
+         "opts": [
+             "That even Sakka, already prosperous, still praises initiative and energy",
+             "That monks should abandon all effort entirely",
+             "That the gods are superior to all monks",
+             "No moral is explicitly drawn"],
+         "correct": 0,
+         "expl": "Making the story directly relevant to the monks' own striving."},
+        {"q": "What term does the moral use for the quality Sakka praises?",
+         "opts": [
+             "Uṭṭhānavīriya — initiative and energy",
+             "Wealth and prosperity",
+             "Physical strength",
+             "Social status"],
+         "correct": 0,
+         "expl": "The specific quality Sakka is said to value, applied to the monks' own practice."},
+        {"q": "Where does this discourse's narration take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Rājagaha, in the Bamboo Grove",
+             "Near Gayā, on the cut-stone ledge",
+             "Near Āḷavī, in Āḷavaka's own domain"],
+         "correct": 0,
+         "expl": "The setting where the Buddha tells this story to the assembled monks."},
+        {"q": "What title does Sakka hold within the story?",
+         "opts": [
+             "Lord of the gods, ruling over the gods of the Thirty-Three",
+             "A minor local spirit",
+             "A human king",
+             "A brahmin ascetic"],
+         "correct": 0,
+         "expl": "The chief deity of the Tāvatiṃsa heaven, central to this entire saṃyutta."},
+    ],
+    marginalia=[
+        ("A story recounted, not witnessed", [
+            "the Buddha narrating to his own monks &mdash;",
+            "a shift from this collection's usual pattern",
+        ]),
+        ("Agreement three times, action never", [
+            "\"yes, lord\" — then negligence each time &mdash;",
+            "no punishment follows, only verse",
+        ]),
+        ("A wish taken seriously, then tested", [
+            "happiness without effort, investigated &mdash;",
+            "not dismissed outright",
+        ]),
+        ("Even nibbāna needs a path", [
+            "the punchline undoing the premise &mdash;",
+            "no effortless happiness anywhere",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.12.html">SN 10.12 &middot; With Āḷavaka</a> '
+        "&mdash; the discourse closing Yakkhasaṃyutta, immediately "
+        "before this one.",
+        '<a href="sn-11.2.html">SN 11.2 &middot; With Susīma</a> '
+        "&mdash; the next discourse, an almost identical companion "
+        "with only the godling's name changed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.2 — Susīmasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 2, "Susīma", "With Susīma",
+    meta_title="SN 11.2 — With Susīma | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Susīmasutta — an almost exact repetition of SN 11.1, "
+        "with only the godling's name changed, worth reading for what "
+        "the substitution itself suggests. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating the same story "
+                    "from the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and the godling Susīma"),
+        ("Form", "A near-verbatim repetition of SN 11.1's structure, "
+                 "differing only in the godling's name"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "structurally simple, its interest lying "
+                       "chiefly in what it repeats"),
+    ],
+    why=(
+        "This discourse tells the identical story as SN 11.1, with "
+        "the single substitution of Susīma's name for Suvīra's: the "
+        "same threefold order, the same threefold negligence, the "
+        "same escalating verse exchange arriving at the same "
+        "conclusion about extinguishment requiring a path, and the "
+        "same moral drawn for the monks. Rather than treating this as "
+        "mere redundancy, this reading guide takes the near-exact "
+        "repetition itself as worth noticing: whatever lesson Sakka's "
+        "exchange teaches, it isn't tied to any one particular "
+        "godling's individual character, but applies just as "
+        "precisely to a second, differently named figure facing "
+        "exactly the same test."),
+    guide=[
+        ("A near-total repetition, not a variation", [
+            "Unlike this collection's more common pattern of "
+            "single-word substitutions within an otherwise identical "
+            "verse, this discourse repeats SN 11.1's entire structure "
+            "&mdash; prose framing, threefold failure, full verse "
+            "exchange, and closing moral &mdash; changing only the "
+            "name of the godling addressed."]),
+        ("A lesson that doesn't depend on individual character", [
+            "Because the substitution changes nothing about the "
+            "content or outcome, the discourse implicitly suggests "
+            "that Sakka's point isn't really about Suvīra or Susīma "
+            "specifically; the same wish for effortless happiness, "
+            "and the same revealing response to it, could apply to "
+            "any godling placed in the same position."]),
+        ("Elision in the source, not full restatement", [
+            "The Pali source itself doesn't fully spell out the "
+            "second and third repetitions of Sakka's command; it uses "
+            "an elision marker, trusting the reader to recall the "
+            "pattern already established in the discourse "
+            "immediately before it."]),
+        ("A structural device found elsewhere in this collection", [
+            "Twin discourses differing only by a substituted name or "
+            "single word appear at various points across this "
+            "site's coverage of the Saṃyutta Nikāya; this pairing "
+            "continues that pattern rather than introducing something "
+            "new to it."]),
+        ("Best read as a pair, not read twice for new content", [
+            "This reading guide recommends approaching SN 11.1 and "
+            "SN 11.2 together as a single teaching told twice, rather "
+            "than expecting this discourse to offer content genuinely "
+            "distinct from its companion."]),
+    ],
+    terms=[
+        ("susīmaṁ devaputtaṁ",
+         "&ldquo;the godling Susīma&rdquo; &mdash; the single "
+         "substantive difference from SN 11.1's Suvīra."),
+        ("pamādaṁ āpādesi",
+         "&ldquo;fell into negligence&rdquo; &mdash; the identical "
+         "repeated failure, unchanged from the companion discourse."),
+        ("anuṭṭhahaṁ avāyāmaṁ, sukhaṁ yatrādhigacchati",
+         "&ldquo;where you can achieve happiness without working for "
+         "it or trying hard&rdquo; &mdash; Sakka's identical leading "
+         "question, restated exactly as before."),
+        ("nibbānassa hi so maggo",
+         "&ldquo;that surely would be extinguishment's path&rdquo; "
+         "&mdash; the same conclusion, reached through the same "
+         "escalation."),
+        ("uṭṭhānavīriyassa vaṇṇavādī",
+         "&ldquo;will speak in praise of initiative and energy&rdquo; "
+         "&mdash; the identical closing moral applied to the monks."),
+    ],
+    text_intro=(
+        "The discourse in full. The second and third repetitions of "
+        "Sakka's command are elided in the source, following the "
+        "pattern already given in full in SN 11.1, and are not "
+        "reconstructed here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.2:1.1-1.5"),
+        ("p", "&sect;2", "sn11.2:2.1-2.10"),
+        ("p", "&sect;3", "sn11.2:3.1-3.4"),
+        ("p", "&sect;4", "sn11.2:4.1-4.4"),
+        ("p", "&sect;5", "sn11.2:5.1-5.4"),
+        ("p", "&sect;6", "sn11.2:6.1-6.4"),
+        ("p", "&sect;7", "sn11.2:7.1-7.5"),
+        ("p", "&sect;8", "sn11.2:8.1-8.2"),
+    ],
+    quiz=[
+        {"q": "What is the single substantive difference between this discourse and SN 11.1?",
+         "opts": [
+             "The name of the godling: Susīma instead of Suvīra",
+             "The identity of Sakka himself",
+             "The outcome of the story",
+             "The moral drawn at the close"],
+         "correct": 0,
+         "expl": "Every other element of the story remains unchanged."},
+        {"q": "How does this discourse's repetition compare to the single-word substitutions seen elsewhere in this collection?",
+         "opts": [
+             "It repeats the entire structure, not just a single word or line",
+             "It changes nothing at all, including the name",
+             "It introduces an entirely new verse sequence",
+             "It only repeats the closing moral, changing everything else"],
+         "correct": 0,
+         "expl": "A more extensive repetition than the typical single-word variant technique."},
+        {"q": "What does the near-total repetition suggest about Sakka's teaching?",
+         "opts": [
+             "That the lesson doesn't depend on any one godling's individual character",
+             "That the lesson only applies to Suvīra specifically",
+             "That the story is entirely fictional with no teaching value",
+             "That Susīma is somehow different in kind from Suvīra"],
+         "correct": 0,
+         "expl": "The same wish and the same response applying regardless of which godling faces it."},
+        {"q": "How does the Pali source handle the second and third repetitions of Sakka's command?",
+         "opts": [
+             "It elides them, trusting the reader to recall the pattern from SN 11.1",
+             "It spells them out in full detail",
+             "It omits them entirely with no indication",
+             "It changes their content substantially"],
+         "correct": 0,
+         "expl": "A structural shorthand relying on the immediately preceding discourse."},
+        {"q": "How does this reading guide recommend approaching SN 11.1 and SN 11.2?",
+         "opts": [
+             "Together, as a single teaching told twice, rather than expecting distinct new content",
+             "As completely unrelated, separate teachings",
+             "Only SN 11.2 should be read, since it is more complete",
+             "Only SN 11.1 should be read, since SN 11.2 adds nothing"],
+         "correct": 0,
+         "expl": "Reading them as a pair rather than seeking new content in the repetition."},
+        {"q": "What conclusion does this discourse's verse exchange reach?",
+         "opts": [
+             "The same conclusion as SN 11.1: only extinguishment could match the description of effortless happiness",
+             "A completely different conclusion",
+             "No conclusion is reached in this version",
+             "The opposite conclusion from SN 11.1"],
+         "correct": 0,
+         "expl": "Identical content leading to an identical resolution."},
+        {"q": "What broader pattern in this collection does this pairing continue?",
+         "opts": [
+             "Twin discourses differing only by a substituted name or word, seen elsewhere in this site's coverage",
+             "A pattern found nowhere else in this collection",
+             "A unique, one-time structural device",
+             "The pattern of a deity impersonating another figure"],
+         "correct": 0,
+         "expl": "A recognizable structural device this site has encountered before in other saṃyuttas."},
+        {"q": "What task does Sakka assign to Susīma, as in SN 11.1?",
+         "opts": [
+             "To march against invading titans threatening the gods",
+             "To compose a hymn of praise",
+             "To guard a treasure",
+             "To negotiate with the titans directly"],
+         "correct": 0,
+         "expl": "The same defensive military task from the companion discourse."},
+        {"q": "What moral closes this discourse, matching SN 11.1's?",
+         "opts": [
+             "That even Sakka, already prosperous, still praises initiative and energy",
+             "That effort is ultimately pointless",
+             "That only gods can achieve genuine happiness",
+             "No moral is given in this version"],
+         "correct": 0,
+         "expl": "The identical closing application to the monks' own striving."},
+        {"q": "Where does this discourse's narration take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha, in the Bamboo Grove",
+             "Near Gayā, on the cut-stone ledge",
+             "Near Āḷavī, in Āḷavaka's own domain"],
+         "correct": 0,
+         "expl": "The same setting as SN 11.1, immediately before it."},
+    ],
+    marginalia=[
+        ("One name changed, nothing else", [
+            "Susīma standing in for Suvīra &mdash;",
+            "every other element unchanged",
+        ]),
+        ("A repetition worth noticing, not skipping", [
+            "the lesson not tied to one figure &mdash;",
+            "applying just as precisely to a second",
+        ]),
+        ("Elided, not retold in full", [
+            "the source trusting the prior discourse &mdash;",
+            "a structural shorthand, not an omission",
+        ]),
+        ("Best read as a pair", [
+            "one teaching, told twice &mdash;",
+            "not two separate lessons",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.1.html">SN 11.1 &middot; With Suvīra</a> '
+        "&mdash; the discourse immediately before this one, told in "
+        "full.",
+        '<a href="sn-11.3.html">SN 11.3 &middot; The Banner’s Crest</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.3 — Dhajaggasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 3, "Dhajagga", "The Banner’s Crest",
+    meta_title="SN 11.3 — The Banner’s Crest | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhajaggasutta — the source of the classic recollection "
+        "of the Buddha, the teaching, and the Saṅgha as protection "
+        "against fear, contrasted against Sakka's own unreliable "
+        "advice to his troops. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka addressing the gods of the "
+                     "Thirty-Three"),
+        ("Form", "A retold myth in prose, turned into a direct "
+                 "teaching on recollection, closed with verse"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "one of this collection's most widely "
+                       "recited and practically applied teachings"),
+    ],
+    why=(
+        "This discourse tells of Sakka instructing his troops, when "
+        "afraid in battle, to look up at his own banner's crest for "
+        "courage &mdash; and then the Buddha immediately points out "
+        "that this method is unreliable, since Sakka himself is not "
+        "free of greed, hatred, and delusion. In its place, the "
+        "Buddha offers the monks a method he claims never fails: "
+        "recollecting the Buddha, the teaching, or the Saṅgha, each "
+        "one entirely free of those defilements. This is the "
+        "canonical source of what became one of Buddhist practice's "
+        "most widespread techniques &mdash; the recollections "
+        "(anussati) still chanted and relied upon by practitioners "
+        "today, given here in the very words the tradition traces "
+        "them to."),
+    guide=[
+        ("A king's advice, offered and then undercut", [
+            "The discourse doesn't simply present Sakka's "
+            "banner-crest instruction as sound advice; it stages it "
+            "first, in Sakka's own voice, only for the Buddha to "
+            "immediately explain why it cannot be fully trusted."]),
+        ("The reason given is character, not power", [
+            "The Buddha's objection to Sakka's method isn't that "
+            "Sakka lacks strength or status as lord of the gods; it's "
+            "that Sakka himself is still fearful, scared, nervous, "
+            "and quick to flee, being not yet free of greed, hatred, "
+            "and delusion &mdash; a source of protection can only be "
+            "as reliable as the character behind it."]),
+        ("Three objects offered, not one", [
+            "The Buddha's replacement teaching doesn't rest on a "
+            "single recollection; it offers three in sequence "
+            "&mdash; the Buddha, the teaching, and the Saṅgha "
+            "&mdash; each introduced with its own traditional formula "
+            "still recited in full today."]),
+        ("A claim of full reliability, explicitly justified", [
+            "Unlike the qualified language used for Sakka's method, "
+            "the Buddha states plainly that recollecting him removes "
+            "fear, and explains why: the Realized One is entirely "
+            "free of greed, hatred, and delusion, fearless, brave, "
+            "bold, and standing his ground."]),
+        ("A teaching meant for solitary practice, not battle", [
+            "The setting the Buddha specifies for this recollection "
+            "&mdash; a wilderness, the root of a tree, an empty hut "
+            "&mdash; reframes the entire teaching away from Sakka's "
+            "battlefield context and toward the monks' own solitary "
+            "meditation practice, where fear can also arise."]),
+    ],
+    terms=[
+        ("dhajaggaṁ ullokeyyātha",
+         "&ldquo;look up at my banner's crest&rdquo; &mdash; Sakka's "
+         "instruction to frightened gods, offered as protection."),
+        ("avītarāgo avītadoso avītamoho",
+         "&ldquo;not free of greed, hate, and delusion&rdquo; "
+         "&mdash; the Buddha's stated reason why Sakka's method "
+         "cannot be fully relied upon."),
+        ("itipi so bhagavā arahaṁ sammāsambuddho&hellip;",
+         "&ldquo;that Blessed One is perfected, a fully awakened "
+         "Buddha&hellip;&rdquo; &mdash; the traditional formula for "
+         "recollecting the Buddha, given here in full."),
+        ("vītarāgo vītadoso vītamoho",
+         "&ldquo;free of greed, hate, and delusion&rdquo; &mdash; the "
+         "Realized One's actual character, directly contrasted with "
+         "Sakka's, explaining why this recollection works."),
+        ("bhayaṁ vā chambhitattaṁ vā lomahaṁso vā",
+         "&ldquo;fear, terror, or goosebumps&rdquo; &mdash; the "
+         "recurring triad naming exactly what each recollection is "
+         "said to dispel."),
+    ],
+    text_intro=(
+        "The discourse in full, one of this collection's most widely "
+        "known and recited teachings. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.3:1.1-1.5"),
+        ("p", "&sect;2", "sn11.3:2.1-2.2"),
+        ("p", "&sect;3", "sn11.3:3.1-6.2"),
+        ("p", "&sect;4", "sn11.3:7.1-8.2"),
+        ("p", "&sect;5", "sn11.3:9.1-9.4"),
+        ("p", "&sect;6", "sn11.3:10.1-10.3"),
+        ("p", "&sect;7", "sn11.3:11.1-11.3"),
+        ("p", "&sect;8", "sn11.3:12.1-12.4"),
+        ("p", "&sect;9", "sn11.3:13.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What does Sakka instruct the gods to do if frightened in battle?",
+         "opts": [
+             "Look up at his banner's crest",
+             "Flee the battlefield immediately",
+             "Recollect the Buddha",
+             "Chant a protective verse of their own"],
+         "correct": 0,
+         "expl": "Sakka's own instruction, staged first before being undercut."},
+        {"q": "Why does the Buddha say Sakka's method is unreliable?",
+         "opts": [
+             "Because Sakka himself is not free of greed, hate, and delusion",
+             "Because the banner's crest was destroyed in battle",
+             "Because the gods no longer trust Sakka",
+             "Because Sakka refuses to give this advice anymore"],
+         "correct": 0,
+         "expl": "The objection rests on character, not power or status."},
+        {"q": "What three objects does the Buddha offer as reliable recollections?",
+         "opts": [
+             "The Buddha, the teaching, and the Saṅgha",
+             "Sakka, Pajāpati, and Varuṇa",
+             "The banner's crest, the citadel, and the hall",
+             "Fear, terror, and goosebumps"],
+         "correct": 0,
+         "expl": "The Three Refuges given in sequence, each with its own formula."},
+        {"q": "Where does the Buddha specify this recollection is meant for use?",
+         "opts": [
+             "A wilderness, the root of a tree, or an empty hut",
+             "Only in the heat of battle",
+             "Only within the monastery walls",
+             "Only in the presence of Sakka"],
+         "correct": 0,
+         "expl": "Reframed toward solitary meditation practice, not warfare."},
+        {"q": "Why does the Buddha say recollecting him reliably removes fear?",
+         "opts": [
+             "Because he is entirely free of greed, hate, and delusion",
+             "Because he commands a large army",
+             "Because he is physically the strongest being",
+             "Because he defeated Sakka in battle"],
+         "correct": 0,
+         "expl": "A direct contrast with Sakka's own unresolved defilements."},
+        {"q": "What quality does the Buddha attribute to himself, contrasting with Sakka's fearfulness?",
+         "opts": [
+             "Fearless, brave, bold, and standing his ground",
+             "Wealthy, powerful, and widely worshipped",
+             "Youthful and untested in battle",
+             "Cautious and quick to retreat"],
+         "correct": 0,
+         "expl": "The explicit character contrast underlying the whole teaching."},
+        {"q": "What recurring triad of symptoms does each recollection address?",
+         "opts": [
+             "Fear, terror, and goosebumps",
+             "Hunger, thirst, and fatigue",
+             "Anger, pride, and envy",
+             "Doubt, boredom, and restlessness"],
+         "correct": 0,
+         "expl": "The same three symptoms named for both Sakka's method and the Buddha's replacement."},
+        {"q": "How many banner's crests does Sakka name in his original instruction?",
+         "opts": [
+             "Four — his own, and those of three other divine kings",
+             "Just one, his own",
+             "Two, his and Vepacitti's",
+             "None; he names no specific banners"],
+         "correct": 0,
+         "expl": "Sakka's, then Pajāpati's, Varuṇa's, and Īsāna's, in sequence."},
+        {"q": "What does the closing verse instruct mendicants to do in the wilderness?",
+         "opts": [
+             "Recollect the Buddha, the teaching, and the Saṅgha, in that order",
+             "Look up at a banner's crest",
+             "Call out for Sakka's protection",
+             "Recite the names of the four divine kings"],
+         "correct": 0,
+         "expl": "The verse restates the same sequence given in the prose teaching."},
+        {"q": "What is this discourse traditionally regarded as the canonical source of?",
+         "opts": [
+             "The recollections (anussati) of the Buddha, the teaching, and the Saṅgha",
+             "The monastic code of discipline",
+             "The doctrine of dependent origination",
+             "The story of the Buddha's enlightenment"],
+         "correct": 0,
+         "expl": "A widely recited teaching still relied upon by practitioners today."},
+    ],
+    marginalia=[
+        ("A method offered, then undercut", [
+            "Sakka's banner's crest, staged and questioned &mdash;",
+            "protection only as reliable as its source",
+        ]),
+        ("Character, not status, is the measure", [
+            "even lord of the gods, still fearful &mdash;",
+            "not yet free of greed, hate, delusion",
+        ]),
+        ("Three refuges, one formula each", [
+            "Buddha, teaching, Saṅgha, in sequence &mdash;",
+            "recited in full, word for word",
+        ]),
+        ("From battlefield to empty hut", [
+            "the setting shifts entirely &mdash;",
+            "solitary practice, not warfare",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.2.html">SN 11.2 &middot; With Susīma</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.4.html">SN 11.4 &middot; With Vepacitti</a> '
+        "&mdash; the next discourse, on Sakka's patience toward a "
+        "bound and insulting enemy.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.4 — Vepacittisutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 4, "Vepacitti", "With Vepacitti",
+    meta_title="SN 11.4 — With Vepacitti | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vepacittisutta — Sakka's captive enemy hurls abuse at "
+        "him, and Sakka's reasoned reply on why patience toward a "
+        "fool is not weakness became a classic canonical teaching on "
+        "nonretaliation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Mātali the charioteer, Sakka, and "
+                     "verses attributed to both"),
+        ("Form", "Narrated prose framing an extended verse dialogue "
+                 "on patience, closed with a moral drawn for the "
+                 "monks"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a dense verse argument repaying careful, "
+                       "line-by-line reading"),
+    ],
+    why=(
+        "After defeating Vepacitti, lord of the titans, in battle and "
+        "bringing him bound to the Hall of Clear Right, Sakka simply "
+        "endures a stream of abuse from his captive rather than "
+        "retaliating. When his own charioteer Mātali questions "
+        "whether this restraint comes from fear or weakness, Sakka "
+        "answers with a chain of verses arguing that patience toward "
+        "a fool is a deliberate, considered choice rather than an "
+        "admission of inferiority &mdash; a case made with enough "
+        "care and counter-argument that this discourse has long "
+        "served as a classic canonical source on patience and "
+        "nonretaliation, even toward someone with every reason to "
+        "provoke."),
+    guide=[
+        ("Power held, but withheld", [
+            "Sakka has already won: Vepacitti is bound and in his "
+            "custody, with no ability to retaliate physically "
+            "&mdash; making Sakka's restraint toward ongoing verbal "
+            "abuse a matter of choice, not necessity."]),
+        ("The challenge comes from an ally, not an enemy", [
+            "It's not Vepacitti who questions Sakka's forbearance, "
+            "but his own charioteer Mātali, voicing a suspicion that "
+            "many readers might share &mdash; that patience under "
+            "insult could simply be a polite name for fear."]),
+        ("An argument built across multiple exchanges, not asserted once", [
+            "Sakka doesn't simply deny the charge and move on; the "
+            "verses develop into a genuine back-and-forth, with "
+            "Mātali pressing a real counter-argument &mdash; that "
+            "unanswered abuse only encourages more of it &mdash; "
+            "before Sakka's fuller reasoning is given."]),
+        ("A distinction between two kinds of strength", [
+            "Sakka's central claim reframes what counts as strength "
+            "in the first place: enduring a weaker opponent's abuse "
+            "is named the truer strength, while retaliating in kind "
+            "is treated as a kind of weakness dressed up as power."]),
+        ("The same closing pattern as SN 11.1 and SN 11.2", [
+            "This discourse ends with the same structural move used "
+            "to open Sakkasaṃyutta &mdash; the Buddha noting that "
+            "even Sakka, already living off his own accumulated "
+            "merit, still speaks in praise of a virtue the monks "
+            "have every reason to cultivate, here patience and "
+            "gentleness rather than initiative and energy."]),
+    ],
+    terms=[
+        ("kaṇṭhapañcamehi bandhanehi",
+         "&ldquo;bound by his limbs and neck&rdquo; &mdash; the "
+         "five-point binding describing Vepacitti's captivity "
+         "throughout the story."),
+        ("asabbhāhi pharusāhi vācāhi akkosati paribhāsati",
+         "&ldquo;abused and insulted him with rude, harsh "
+         "words&rdquo; &mdash; Vepacitti's ongoing provocation "
+         "despite being bound and defeated."),
+        ("kathañhi mādiso viññū, bālena paṭisaṁyuje",
+         "&ldquo;how can a sensible person like me get in a fight "
+         "with a fool?&rdquo; &mdash; Sakka's pivotal line reframing "
+         "restraint as discernment rather than weakness."),
+        ("sadatthaparamā atthā, khantyā bhiyyo na vijjati",
+         "&ldquo;for the highest goal, one's own, naught better than "
+         "patience is found&rdquo; &mdash; the verses' central claim "
+         "about what patience actually accomplishes."),
+        ("khantisoraccassa vaṇṇavādī",
+         "&ldquo;will speak in praise of patience and "
+         "gentleness&rdquo; &mdash; the closing moral, echoing SN "
+         "11.1 and SN 11.2's parallel phrase about initiative and "
+         "energy."),
+    ],
+    text_intro=(
+        "The discourse in full, a classic canonical source on "
+        "patience under provocation. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.4:1.1-1.10"),
+        ("p", "&sect;2", "sn11.4:2.1-2.4"),
+        ("p", "&sect;3", "sn11.4:3.1-3.4"),
+        ("p", "&sect;4", "sn11.4:4.1-4.4"),
+        ("p", "&sect;5", "sn11.4:5.1-5.4"),
+        ("p", "&sect;6", "sn11.4:6.1-6.6"),
+        ("p", "&sect;7", "sn11.4:7.1-7.4"),
+        ("p", "&sect;8", "sn11.4:8.1-9.4"),
+        ("p", "&sect;9", "sn11.4:10.1-12.4"),
+        ("p", "&sect;10", "sn11.4:13.1-13.2"),
+    ],
+    quiz=[
+        {"q": "What condition is Vepacitti in throughout most of this discourse?",
+         "opts": [
+             "Bound by his limbs and neck, held captive after losing the battle",
+             "Freely wandering the battlefield",
+             "Hiding in the citadel of the titans",
+             "Negotiating terms of surrender with Sakka"],
+         "correct": 0,
+         "expl": "Defeated and bound, yet still able to hurl abuse."},
+        {"q": "What does Vepacitti do to Sakka despite being bound and defeated?",
+         "opts": [
+             "Abuses and insults him with rude, harsh words",
+             "Begs for mercy repeatedly",
+             "Offers to switch sides",
+             "Remains completely silent"],
+         "correct": 0,
+         "expl": "Ongoing verbal provocation from a powerless position."},
+        {"q": "Who questions whether Sakka's restraint comes from fear or weakness?",
+         "opts": [
+             "Mātali, Sakka's own charioteer",
+             "Vepacitti himself",
+             "The Buddha, addressing Sakka directly",
+             "One of the other divine kings"],
+         "correct": 0,
+         "expl": "The challenge comes from an ally, not the enemy."},
+        {"q": "How does Sakka justify his restraint toward Vepacitti's abuse?",
+         "opts": [
+             "That a sensible person shouldn't get in a fight with a fool",
+             "That he genuinely fears Vepacitti's power",
+             "That the Buddha ordered him not to retaliate",
+             "That he has no interest in the outcome either way"],
+         "correct": 0,
+         "expl": "Restraint framed as discernment, not fear."},
+        {"q": "What counter-argument does Mātali raise against Sakka's patience?",
+         "opts": [
+             "That unanswered abuse only encourages a fool to push further",
+             "That patience is always the wrong choice",
+             "That Vepacitti deserves immediate execution",
+             "That the gods will lose respect for Sakka regardless"],
+         "correct": 0,
+         "expl": "A real counter-argument developed across the verse exchange."},
+        {"q": "How do the verses ultimately reframe the concept of strength?",
+         "opts": [
+             "Enduring a weaker opponent's abuse is named the truer strength",
+             "Physical force is affirmed as the only real strength",
+             "Strength is declared irrelevant to the whole situation",
+             "Retaliation is praised as the strongest response"],
+         "correct": 0,
+         "expl": "A deliberate redefinition running through Sakka's argument."},
+        {"q": "What does the discourse conclude about the highest personal goal and patience?",
+         "opts": [
+             "That nothing surpasses patience for achieving one's own highest goal",
+             "That patience is irrelevant to personal goals",
+             "That wealth surpasses patience in value",
+             "That victory in battle is the highest goal"],
+         "correct": 0,
+         "expl": "The verses' central claim about patience's practical value."},
+        {"q": "What closing pattern does this discourse share with SN 11.1 and SN 11.2?",
+         "opts": [
+             "Noting that even prosperous Sakka still praises a virtue relevant to the monks",
+             "A threefold repetition of the same order given to a godling",
+             "An identical battle against the same titan army",
+             "No shared pattern; the endings are unrelated"],
+         "correct": 0,
+         "expl": "The same structural closing move, applied to a different virtue."},
+        {"q": "What virtue does this discourse's closing moral specifically praise?",
+         "opts": [
+             "Patience and gentleness",
+             "Initiative and energy",
+             "Wealth and generosity",
+             "Physical strength and courage"],
+         "correct": 0,
+         "expl": "Distinct from SN 11.1 and SN 11.2's praise of initiative and energy."},
+        {"q": "Where is Vepacitti brought after his defeat?",
+         "opts": [
+             "The Hall of Clear Right, in Sakka's presence",
+             "The citadel of the titans",
+             "A remote wilderness",
+             "The court of Pajāpati"],
+         "correct": 0,
+         "expl": "The setting for the entire verse exchange that follows."},
+    ],
+    marginalia=[
+        ("Bound, defeated, still abusive", [
+            "words as the only weapon left &mdash;",
+            "Vepacitti provokes from captivity",
+        ]),
+        ("An ally's honest challenge", [
+            "Mātali asks what many might think &mdash;",
+            "is this patience, or fear in disguise?",
+        ]),
+        ("A fight not worth entering", [
+            "\"how can a sensible person&hellip;\" &mdash;",
+            "restraint reframed as discernment",
+        ]),
+        ("Strength redefined", [
+            "enduring the weak, called the truer strength &mdash;",
+            "retaliation, the weakness in disguise",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.3.html">SN 11.3 &middot; The Banner’s Crest</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.5.html">SN 11.5 &middot; Victory by Good Speech</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.5 — Subhāsitajayasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 5, "Subhāsitajaya", "Victory by Good Speech",
+    meta_title="SN 11.5 — Victory by Good Speech | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Subhāsitajayasutta — Sakka and Vepacitti stage a formal "
+        "verse contest judged by both sides, and the judges' own "
+        "stated criterion settles who really wins. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Vepacitti and Sakka, reciting verses "
+                     "before a mixed panel of judges"),
+        ("Form", "Narrated prose framing a formal verse contest, "
+                 "closed with the judges' explicit ruling"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "restages SN 11.4's verses as a judged contest "
+                       "with its own distinct payoff"),
+    ],
+    why=(
+        "This discourse takes nearly the same verses exchanged in SN "
+        "11.4 and restages them as something new: a formal contest, "
+        "proposed by Vepacitti himself and agreed to by Sakka, judged "
+        "by a mixed panel of gods and titans who applaud each verse "
+        "in turn along partisan lines. What makes the restaging worth "
+        "reading on its own terms is the ending &mdash; the judges "
+        "don't declare a winner by popularity or force, but by naming "
+        "the actual criterion they used: Vepacitti's verses evoke "
+        "punishment and violence, Sakka's don't, and that difference "
+        "alone is offered as the entire basis for victory."),
+    guide=[
+        ("A contest proposed by the losing side", [
+            "It's Vepacitti, not Sakka, who first proposes deciding "
+            "the matter by fine words rather than by force &mdash; a "
+            "detail worth noticing given how the contest ultimately "
+            "turns out for him."]),
+        ("Courtesy observed even between enemies", [
+            "Before the verses begin, Sakka defers to Vepacitti to "
+            "speak first, addressing him as one of the elder gods "
+            "&mdash; a small procedural courtesy maintained even "
+            "within open hostility between the two sides."]),
+        ("A judged contest, not a private exchange", [
+            "Unlike SN 11.4's dialogue between Sakka and his own "
+            "charioteer, this version stages the same content before "
+            "an explicit panel of judges drawn from both gods and "
+            "titans, whose reactions are recorded verse by verse."]),
+        ("Applause splits cleanly along partisan lines", [
+            "Each side's judges applaud only their own champion's "
+            "verse and fall silent for the other's, all the way "
+            "through &mdash; a detail that makes the judges' final, "
+            "unified ruling all the more notable by contrast."]),
+        ("A ruling that names its own criterion", [
+            "Rather than simply declaring Sakka the winner, the "
+            "judges spell out exactly why: Vepacitti's verses lead to "
+            "punishment and conflict, Sakka's don't &mdash; making "
+            "the standard for victory explicit rather than left for "
+            "readers to infer."]),
+    ],
+    terms=[
+        ("subhāsitena jayo",
+         "&ldquo;victory by fine words&rdquo; &mdash; the framing "
+         "device proposed by Vepacitti and agreed to by Sakka, "
+         "naming this discourse."),
+        ("pārisajje ṭhapesuṁ",
+         "&ldquo;appointed a panel of judges&rdquo; &mdash; the "
+         "formal procedure both sides agree to before the verses "
+         "begin."),
+        ("tumhe khvettha, vepacitti, pubbadevā",
+         "&ldquo;Vepacitti, you are the elder gods here&rdquo; "
+         "&mdash; Sakka's courteous deference in inviting Vepacitti "
+         "to recite first."),
+        ("sadaṇḍāvacarā sasatthāvacarā",
+         "&ldquo;evoke punishment and violence&rdquo; &mdash; the "
+         "judges' stated criterion against Vepacitti's verses."),
+        ("adaṇḍāvacarā asatthāvacarā",
+         "&ldquo;don't evoke punishment and violence&rdquo; &mdash; "
+         "the same criterion applied in Sakka's favor, deciding the "
+         "contest."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.5:1.1-1.13"),
+        ("p", "&sect;2", "sn11.5:2.1-2.4"),
+        ("p", "&sect;3", "sn11.5:3.1-4.4"),
+        ("p", "&sect;4", "sn11.5:5.1-6.6"),
+        ("p", "&sect;5", "sn11.5:7.1-9.4"),
+        ("p", "&sect;6", "sn11.5:10.1-13.4"),
+        ("p", "&sect;7", "sn11.5:14.1-14.8"),
+    ],
+    quiz=[
+        {"q": "Who first proposes settling the matter by a contest of fine words?",
+         "opts": [
+             "Vepacitti, lord of the titans",
+             "Sakka, lord of the gods",
+             "Mātali, the charioteer",
+             "The panel of judges"],
+         "correct": 0,
+         "expl": "A detail worth noticing given the contest's eventual outcome for him."},
+        {"q": "Who is invited to recite the first verse, and why?",
+         "opts": [
+             "Vepacitti, out of courtesy since the titans are the elder gods",
+             "Sakka, because he proposed the contest",
+             "Neither; both recite simultaneously",
+             "A judge, to set the standard"],
+         "correct": 0,
+         "expl": "A small procedural courtesy maintained despite open hostility."},
+        {"q": "How does this discourse's staging differ from SN 11.4's exchange?",
+         "opts": [
+             "It is judged by a formal panel of gods and titans, not a private exchange with a charioteer",
+             "It contains no verses at all",
+             "It takes place on a different battlefield entirely",
+             "Sakka refuses to participate"],
+         "correct": 0,
+         "expl": "A public, judged contest rather than a private dialogue."},
+        {"q": "How does the applause split as each verse is recited?",
+         "opts": [
+             "Along partisan lines — each side applauds only its own champion",
+             "Both sides applaud every verse equally",
+             "Neither side applauds at any point",
+             "Only the judges applaud, never the gods or titans themselves"],
+         "correct": 0,
+         "expl": "A pattern broken only by the judges' final, unified ruling."},
+        {"q": "What criterion do the judges state for declaring Sakka the winner?",
+         "opts": [
+             "His verses don't evoke punishment and violence, unlike Vepacitti's",
+             "His verses are simply more poetic",
+             "He is more physically powerful",
+             "He recited more verses in total"],
+         "correct": 0,
+         "expl": "An explicit standard, not left for readers to infer."},
+        {"q": "What do the judges say about Vepacitti's verses?",
+         "opts": [
+             "That they evoke punishment and violence, leading to fights and quarrels",
+             "That they are technically flawless",
+             "That they are too short to judge fairly",
+             "That they agree with Sakka's completely"],
+         "correct": 0,
+         "expl": "The stated reason his verses are judged the loser."},
+        {"q": "What phrase names the ultimate outcome of this discourse?",
+         "opts": [
+             "Victory by fine words (subhāsitena jayo)",
+             "Victory by force (balena jayo)",
+             "Victory by wealth (dhanena jayo)",
+             "No victory is declared"],
+         "correct": 0,
+         "expl": "The framing device that gives this discourse its title."},
+        {"q": "What role does the panel of judges play in the story?",
+         "opts": [
+             "They are appointed by both sides to understand the good and bad statements made",
+             "They fight the actual battle",
+             "They compose the verses themselves",
+             "They have no formal role"],
+         "correct": 0,
+         "expl": "An agreed-upon procedure established before the verses begin."},
+        {"q": "How does this discourse relate in content to SN 11.4?",
+         "opts": [
+             "It restages nearly the same verses in a new, judged contest format",
+             "It shares no content with SN 11.4 at all",
+             "It directly contradicts SN 11.4's teaching",
+             "It is a prose summary with no verse content"],
+         "correct": 0,
+         "expl": "The same core verses, given a new frame and a new payoff."},
+        {"q": "Where does the Buddha narrate this story?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's opening discourses."},
+    ],
+    marginalia=[
+        ("The loser proposes the contest", [
+            "Vepacitti's own idea, in the end &mdash;",
+            "worth remembering as it plays out",
+        ]),
+        ("Courtesy amid hostility", [
+            "\"you are the elder gods here\" &mdash;",
+            "small formality between enemies",
+        ]),
+        ("Applause split clean down the middle", [
+            "each side cheering only its own &mdash;",
+            "until the judges rule as one",
+        ]),
+        ("A criterion named, not left implied", [
+            "punishment and violence, versus their absence &mdash;",
+            "the actual standard for victory",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.4.html">SN 11.4 &middot; With Vepacitti</a> '
+        "&mdash; the discourse sharing nearly the same verses, staged "
+        "there as a private exchange with Mātali.",
+        '<a href="sn-11.6.html">SN 11.6 &middot; Bird Nests</a> '
+        "&mdash; the next discourse, on a different kind of victory "
+        "entirely.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.6 — Kulāvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 6, "Kulāvaka", "Bird Nests",
+    meta_title="SN 11.6 — Bird Nests | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kulāvakasutta — fleeing a lost battle, Sakka turns his "
+        "chariot back rather than crush a tree full of bird nests, "
+        "and the gesture alone routs a pursuing army. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka addressing his charioteer "
+                     "Mātali"),
+        ("Form", "A short narrated episode built around a single "
+                 "verse and a single decisive gesture"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "short, vivid, and among this saṃyutta's most "
+                       "loved episodes"),
+    ],
+    why=(
+        "For once in this saṃyutta, the gods actually lose the "
+        "battle and flee, with the titans in pursuit &mdash; yet the "
+        "discourse doesn't dwell on defeat. Fleeing by chariot, Sakka "
+        "notices a tree full of bird nests directly in his escape "
+        "path and orders his charioteer to turn back rather than "
+        "destroy them, declaring he'd rather give up their lives to "
+        "the titans than deprive the birds of their homes. The "
+        "gesture, meant purely as an act of care with no strategic "
+        "intent, makes the pursuing titans believe the gods are "
+        "counterattacking, and they flee in terror &mdash; a victory "
+        "won, the discourse insists, by principle rather than force."),
+    guide=[
+        ("A rare admission of defeat", [
+            "Unlike most of this saṃyutta's episodes, which open with "
+            "Sakka already victorious or actively winning, this "
+            "discourse opens with the gods genuinely losing and "
+            "fleeing &mdash; a detail that makes what follows land "
+            "differently."]),
+        ("A small, undramatic concern amid a rout", [
+            "In full flight from a pursuing army, Sakka's attention "
+            "goes to something easy to overlook entirely &mdash; a "
+            "tree full of bird nests standing in the chariot's "
+            "path &mdash; rather than to anything about the battle "
+            "itself."]),
+        ("A stated willingness to pay the full cost", [
+            "Sakka doesn't frame turning back as a calculated risk; "
+            "he states plainly that he would rather give up their "
+            "lives to the titans than harm the birds, naming the "
+            "actual stakes of the choice before making it."]),
+        ("An effect achieved without any intended strategy", [
+            "The victory that follows isn't the result of any plan "
+            "on Sakka's part; the titans misread the turned chariot "
+            "as the start of a renewed attack, and their own fear "
+            "does the rest of the work entirely on its own."]),
+        ("A different phrase for a different kind of win", [
+            "Where SN 11.4 and SN 11.5 both close on variations of "
+            "victory won through speech, this discourse closes "
+            "instead on victory won dhammena &mdash; by principle "
+            "&mdash; naming a third, distinct way Sakka is remembered "
+            "as prevailing."]),
+    ],
+    terms=[
+        ("apāyaṁsveva uttarenamukhā",
+         "&ldquo;fled north&rdquo; &mdash; the unusual opening "
+         "admission that the gods have actually lost this particular "
+         "battle."),
+        ("kulāvakā&hellip; simbalismiṁ",
+         "&ldquo;bird nests&hellip; in the Red Silk-Cotton "
+         "Woods&rdquo; &mdash; the small, easily overlooked concern "
+         "at the center of the entire episode."),
+        ("kāmaṁ cajāma asuresu pāṇaṁ",
+         "&ldquo;I'd rather give up our lives to the titans&rdquo; "
+         "&mdash; Sakka naming the actual stakes of his choice before "
+         "making it."),
+        ("paccudāvattesi",
+         "&ldquo;turned back&rdquo; &mdash; the chariot's reversal, "
+         "meant purely as care for the birds, that the titans "
+         "misread as a counterattack."),
+        ("dhammena jayo",
+         "&ldquo;victory by principle&rdquo; &mdash; this "
+         "discourse's closing phrase, distinct from SN 11.4 and SN "
+         "11.5's victory won through speech."),
+    ],
+    text_intro=(
+        "The discourse in full, one of this saṃyutta's shortest and "
+        "most vivid episodes. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.6:1.1-1.5"),
+        ("p", "&sect;2", "sn11.6:2.1-2.4"),
+        ("p", "&sect;3", "sn11.6:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this battle turn out for the gods, unlike most other episodes in this saṃyutta?",
+         "opts": [
+             "The gods actually lose and flee, with the titans in pursuit",
+             "The gods win decisively from the start",
+             "The battle ends in an immediate truce",
+             "No battle takes place in this discourse"],
+         "correct": 0,
+         "expl": "A rare admission of defeat opening the episode."},
+        {"q": "What does Sakka notice in the chariot's escape path?",
+         "opts": [
+             "A tree full of bird nests",
+             "A hidden enemy ambush",
+             "A fallen comrade",
+             "A sacred shrine"],
+         "correct": 0,
+         "expl": "A small, easily overlooked concern amid a full retreat."},
+        {"q": "What does Sakka say he would rather do than harm the birds?",
+         "opts": [
+             "Give up their lives to the pursuing titans",
+             "Abandon the chariot and flee on foot",
+             "Surrender immediately to Vepacitti",
+             "Order Mātali to fight the titans directly"],
+         "correct": 0,
+         "expl": "Naming the actual stakes of the choice before making it."},
+        {"q": "What effect does turning the chariot back have on the pursuing titans?",
+         "opts": [
+             "They believe the gods are counterattacking and flee in terror",
+             "They continue the pursuit without any change",
+             "They immediately surrender formally",
+             "They attack the chariot directly"],
+         "correct": 0,
+         "expl": "An outcome achieved without any intended strategy on Sakka's part."},
+        {"q": "Was Sakka's turn back a calculated military strategy?",
+         "opts": [
+             "No, it was meant purely as care for the birds",
+             "Yes, it was a deliberate tactic to fool the titans",
+             "It was ordered by Mātali, not Sakka",
+             "It was demanded by the panel of judges"],
+         "correct": 0,
+         "expl": "The victory follows from an unintended effect, not a plan."},
+        {"q": "What phrase closes this discourse, naming the kind of victory won?",
+         "opts": [
+             "Victory by principle (dhammena jayo)",
+             "Victory by fine words (subhāsitena jayo)",
+             "Victory by force (balena jayo)",
+             "No victory phrase closes this discourse"],
+         "correct": 0,
+         "expl": "Distinct from the closing phrase used in SN 11.4 and SN 11.5."},
+        {"q": "Who does Sakka give the order to turn back?",
+         "opts": [
+             "Mātali, his charioteer",
+             "Vepacitti directly",
+             "The panel of judges",
+             "A group of frightened gods"],
+         "correct": 0,
+         "expl": "The same charioteer who also appears in SN 11.4."},
+        {"q": "How many thoroughbreds pull Sakka's chariot, as specified in the text?",
+         "opts": [
+             "A team of a thousand",
+             "A team of four",
+             "A single horse",
+             "The number is not given"],
+         "correct": 0,
+         "expl": "A detail marking the chariot's grandeur even mid-retreat."},
+        {"q": "How does this discourse's length compare to SN 11.4 and SN 11.5?",
+         "opts": [
+             "It is notably shorter, built around a single verse and gesture",
+             "It is considerably longer",
+             "It is exactly the same length",
+             "It contains no narrative at all, only verse"],
+         "correct": 0,
+         "expl": "A compact episode among this saṃyutta's most vivid and loved."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's opening discourses."},
+    ],
+    marginalia=[
+        ("Defeat, admitted plainly", [
+            "the gods actually lose, for once &mdash;",
+            "fleeing north with titans in pursuit",
+        ]),
+        ("A tree full of nests, mid-retreat", [
+            "attention turning small amid chaos &mdash;",
+            "not to the battle, but to the birds",
+        ]),
+        ("The stakes named before the choice", [
+            "\"I'd rather give up our lives\" &mdash;",
+            "no hedging, no calculation",
+        ]),
+        ("A victory no one planned", [
+            "care mistaken for a counterattack &mdash;",
+            "the titans' own fear does the rest",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.5.html">SN 11.5 &middot; Victory by Good Speech</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.7.html">SN 11.7 &middot; Not Betray</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.7 — Nadubbhiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 7, "Nadubbhiya", "Not Betray",
+    meta_title="SN 11.7 — Not Betray | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nadubbhiyasutta — Sakka privately resolves never to "
+        "betray even a sworn enemy, and his enemy, reading his mind, "
+        "arrives to encourage him to keep the resolve. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and Vepacitti"),
+        ("Form", "A very short narrated episode built almost "
+                 "entirely around a brief exchange and a closing "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but its irony rewards a careful "
+                       "second read"),
+    ],
+    why=(
+        "Alone in private retreat, Sakka resolves never to betray "
+        "even a sworn enemy &mdash; and Vepacitti, who has the power "
+        "to read his mind, immediately arrives to investigate. What "
+        "makes this brief episode memorable isn't a confrontation but "
+        "its absence: rather than exploiting what he's learned, "
+        "Vepacitti encourages Sakka to hold onto the very resolve he "
+        "overheard, and Sakka's own reply plays on that irony before "
+        "asking his enemy to swear the same commitment back to him, "
+        "closing on a curse-formula invoking the fates of liars and "
+        "betrayers against whichever of them breaks the oath first."),
+    guide=[
+        ("A resolve formed with no audience in mind", [
+            "Sakka's thought arises while he is alone in private "
+            "retreat, with no one present to witness it or be "
+            "impressed by it &mdash; the discourse frames this as "
+            "genuine private character, not a performance."]),
+        ("A power that could easily be used for harm, and isn't", [
+            "Vepacitti's ability to read Sakka's mind gives him a "
+            "clear opening to catch his enemy off guard or exploit "
+            "what he's learned; the discourse doesn't dwell on the "
+            "danger of that power so much as on what he chooses to "
+            "do with it instead."]),
+        ("A greeting that plays on its own irony", [
+            "Sakka's line &mdash; \"Stop, Vepacitti, you're "
+            "caught!\" &mdash; sounds like a threat on first reading, "
+            "but the actual \"catch\" is Vepacitti walking straight "
+            "into confirming Sakka's virtuous private resolve, not "
+            "any wrongdoing on Vepacitti's part."]),
+        ("An enemy who encourages rather than undermines", [
+            "Vepacitti's reply doesn't mock or dismiss the resolve he "
+            "overheard; he explicitly tells Sakka not to give it up "
+            "&mdash; a small, unexpected moment of goodwill crossing "
+            "an otherwise adversarial relationship."]),
+        ("A mutual oath, not a one-sided promise", [
+            "The discourse doesn't end with Sakka simply keeping his "
+            "own resolve privately; he asks Vepacitti to swear the "
+            "same commitment back to him, turning a private thought "
+            "into a spoken, mutual oath sealed with a curse-formula "
+            "against whichever of them breaks it."]),
+    ],
+    terms=[
+        ("rahogatassa paṭisallīnassa",
+         "&ldquo;in private retreat&rdquo; &mdash; the solitary "
+         "setting in which Sakka's resolve first arises, unwitnessed."),
+        ("yopi me assa supaccatthiko tassapāhaṁ na dubbheyyaṁ",
+         "&ldquo;I should never betray even a sworn enemy&rdquo; "
+         "&mdash; Sakka's private resolve, the discourse's entire "
+         "subject."),
+        ("cetasā cetoparivitakkamaññāya",
+         "&ldquo;knowing [his] train of thought&rdquo; &mdash; "
+         "Vepacitti's mind-reading power, the detail that sets the "
+         "whole episode in motion."),
+        ("tiṭṭha, vepacitti, gahitosī",
+         "&ldquo;Stop, Vepacitti, you're caught!&rdquo; &mdash; "
+         "Sakka's ironic greeting, playing on what Vepacitti is "
+         "actually caught doing."),
+        ("sujampatī",
+         "&ldquo;Sujā's husband&rdquo; &mdash; an epithet for Sakka "
+         "appearing in the closing curse-verse, naming him by his "
+         "marriage to the asura maiden Sujā."),
+    ],
+    text_intro=(
+        "The discourse in full, one of this saṃyutta's shortest "
+        "episodes. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.7:1.1-1.7"),
+        ("p", "&sect;2", "sn11.7:2.1"),
+        ("p", "&sect;3", "sn11.7:3.1"),
+        ("p", "&sect;4", "sn11.7:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "Where and how does Sakka's resolve first arise?",
+         "opts": [
+             "Alone, in private retreat, with no one present to witness it",
+             "During the heat of battle against the titans",
+             "In a public assembly of the gods",
+             "While Vepacitti was already standing beside him"],
+         "correct": 0,
+         "expl": "Framed as genuine private character, not a performance."},
+        {"q": "What is Sakka's private resolve?",
+         "opts": [
+             "That he should never betray even a sworn enemy",
+             "That he should defeat Vepacitti at any cost",
+             "That he should abandon the throne of the gods",
+             "That he should never speak to Vepacitti again"],
+         "correct": 0,
+         "expl": "The entire subject of this brief discourse."},
+        {"q": "How does Vepacitti learn of Sakka's private thought?",
+         "opts": [
+             "Through his power to read Sakka's mind",
+             "Sakka announces it publicly",
+             "Mātali reports it to him",
+             "He overhears Sakka speaking aloud"],
+         "correct": 0,
+         "expl": "A supernatural ability that sets the whole episode in motion."},
+        {"q": "What does Sakka's greeting \"you're caught!\" actually refer to?",
+         "opts": [
+             "Vepacitti walking into confirming Sakka's virtuous resolve, not any wrongdoing",
+             "Vepacitti being physically trapped by Sakka's forces",
+             "Vepacitti admitting to a plot against Sakka",
+             "Vepacitti being caught in a lie"],
+         "correct": 0,
+         "expl": "An ironic line that plays against first-reading expectations."},
+        {"q": "How does Vepacitti respond to Sakka's overheard resolve?",
+         "opts": [
+             "He encourages Sakka not to give up the idea",
+             "He mocks Sakka for such weakness",
+             "He immediately attacks Sakka",
+             "He denies having heard anything"],
+         "correct": 0,
+         "expl": "An unexpected moment of goodwill from an adversary."},
+        {"q": "What does Sakka ask of Vepacitti after this exchange?",
+         "opts": [
+             "To swear that he too won't betray Sakka",
+             "To surrender formally as lord of titans",
+             "To reveal the secret of his mind-reading power",
+             "To leave the gods' realm permanently"],
+         "correct": 0,
+         "expl": "Turning a private resolve into a spoken, mutual oath."},
+        {"q": "What form does the discourse's closing statement take?",
+         "opts": [
+             "A curse-formula invoking bad fates upon whoever betrays the oath",
+             "A formal treaty between gods and titans",
+             "A simple restatement of Sakka's original resolve",
+             "A question left unanswered"],
+         "correct": 0,
+         "expl": "Naming the fates of liars, slanderers, and betrayers of friends."},
+        {"q": "What epithet is used for Sakka in the closing verse?",
+         "opts": [
+             "Sujā's husband",
+             "Lord of the titans",
+             "The Progenitor",
+             "The elder god"],
+         "correct": 0,
+         "expl": "A naming convention tied to Sakka's marriage to the asura maiden Sujā."},
+        {"q": "Does this discourse frame Vepacitti's mind-reading power as primarily dangerous?",
+         "opts": [
+             "No — the focus is on what he chooses to do with it rather than its danger",
+             "Yes — it is condemned outright as a threat",
+             "The power is never actually used in this discourse",
+             "It is described as a power only Sakka possesses"],
+         "correct": 0,
+         "expl": "The discourse centers on Vepacitti's unexpectedly good use of the power."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's opening discourses."},
+    ],
+    marginalia=[
+        ("A resolve with no witness", [
+            "formed alone, in private retreat &mdash;",
+            "no audience to perform for",
+        ]),
+        ("A power that could easily harm", [
+            "reading thoughts, yet choosing goodwill &mdash;",
+            "the danger left unexploited",
+        ]),
+        ("\"You're caught\" — but caught doing what?", [
+            "an ironic greeting, not a threat &mdash;",
+            "caught confirming virtue, not wrongdoing",
+        ]),
+        ("A private thought, made a mutual oath", [
+            "resolve turned into spoken vow &mdash;",
+            "sealed with a curse against betrayal",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.6.html">SN 11.6 &middot; Bird Nests</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.8.html">SN 11.8 &middot; Verocana, Lord of Titans</a> '
+        "&mdash; the next discourse, the first in this saṃyutta "
+        "where a deity visits the Buddha directly rather than being "
+        "recalled in a past story.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.8 — Verocanaasurindasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 8, "Verocana", "Verocana, Lord of Titans",
+    meta_title="SN 11.8 — Verocana, Lord of Titans | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Verocanaasurindasutta — Sakka and Verocana visit the "
+        "meditating Buddha in person and trade competing verses on "
+        "effort, accomplishment, and patience. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove — the Buddha in "
+                    "seclusion for the day's meditation"),
+        ("Speakers", "Sakka and Verocana, lord of the titans, both "
+                     "visiting the Buddha directly and reciting "
+                     "verses in his presence"),
+        ("Form", "A live visit rather than a narrated story, built "
+                 "around two pairs of matched, competing verses"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "compact verses that reward comparing line "
+                       "against line"),
+    ],
+    why=(
+        "For the first time in this saṃyutta, a deity doesn't merely "
+        "appear in a story the Buddha narrates to his monks; Sakka "
+        "and Verocana, lord of the titans, actually visit the "
+        "meditating Buddha in person, standing at his doorposts, and "
+        "recite competing verses directly in his presence. Verocana "
+        "praises effort aimed at accomplishing a goal; Sakka answers "
+        "with the identical opening two lines, but swaps the "
+        "conclusion to patience &mdash; the same phrase used to close "
+        "SN 11.4 &mdash; turning a shared premise about striving into "
+        "a pointed disagreement about what actually completes it."),
+    guide=[
+        ("A live visit, not a recalled story", [
+            "Unlike every discourse so far in this saṃyutta, which "
+            "the Buddha narrates as something that already happened, "
+            "this one stages Sakka and Verocana actually arriving and "
+            "speaking &mdash; a structural shift back toward this "
+            "collection's more familiar pattern from earlier "
+            "saṃyuttas."]),
+        ("The Buddha present, but silent", [
+            "Notably, the Buddha himself never speaks in this "
+            "discourse; he remains the setting and the audience for "
+            "an exchange conducted entirely between the two visiting "
+            "deities."]),
+        ("Agreement on the premise, disagreement on the conclusion", [
+            "Verocana's and Sakka's verses share their opening lines "
+            "almost word for word &mdash; both affirm that a person "
+            "should strive until the goal is accomplished &mdash; "
+            "before diverging sharply on what actually completes that "
+            "accomplishment."]),
+        ("A phrase echoed from earlier in this saṃyutta", [
+            "Sakka's closing line, that nothing surpasses patience, "
+            "repeats verbatim the conclusion of his own verses in SN "
+            "11.4, tying this discourse back to that earlier "
+            "argument about what genuine strength consists of."]),
+        ("A second round restating the same disagreement differently", [
+            "Rather than resolving after one exchange, the pattern "
+            "repeats: Verocana names harnessed work as the highest "
+            "value for all beings, and Sakka's reply again redirects "
+            "the claim toward patience, restating the same underlying "
+            "disagreement in a new form."]),
+    ],
+    terms=[
+        ("paccekaṁ dvārabāhaṁ nissāya aṭṭhaṁsu",
+         "&ldquo;stationed themselves one by each door-post&rdquo; "
+         "&mdash; the physical staging of both deities visiting the "
+         "meditating Buddha in person."),
+        ("vāyametheva puriso, yāva atthassa nipphadā",
+         "&ldquo;a man should make an effort until his goal is "
+         "accomplished&rdquo; &mdash; Verocana's opening claim, "
+         "echoed nearly verbatim in Sakka's reply."),
+        ("nipphannasobhano attho",
+         "&ldquo;a goal is splendid when accomplished&rdquo; "
+         "&mdash; the premise both figures actually share, before "
+         "their conclusions diverge."),
+        ("khantyā bhiyyo na vijjati",
+         "&ldquo;naught better than patience is found&rdquo; "
+         "&mdash; Sakka's repeated counter-conclusion, echoing his "
+         "own verse from SN 11.4 word for word."),
+        ("saṁyogaparamā tveva, sambhogā sabbapāṇinaṁ",
+         "&ldquo;harnessed work is the highest thing of value for "
+         "all living creatures&rdquo; &mdash; Verocana's second "
+         "claim, directly contested by Sakka's patience-focused "
+         "reply."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.8:1.1-1.4"),
+        ("p", "&sect;2", "sn11.8:2.1-2.4"),
+        ("p", "&sect;3", "sn11.8:3.1-3.4"),
+        ("p", "&sect;4", "sn11.8:4.1-4.6"),
+        ("p", "&sect;5", "sn11.8:5.1-5.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from SN 11.1 through SN 11.7?",
+         "opts": [
+             "It stages a live visit to the Buddha rather than a story he narrates retrospectively",
+             "It is the only discourse in this saṃyutta with no verses at all",
+             "It takes place during an active battle",
+             "It features Vepacitti rather than Verocana"],
+         "correct": 0,
+         "expl": "A structural shift back toward this collection's more familiar visiting-deity pattern."},
+        {"q": "Where do Sakka and Verocana position themselves upon arriving?",
+         "opts": [
+             "One by each door-post, near the meditating Buddha",
+             "Directly in front of the Buddha, blocking his path",
+             "At a distance, refusing to approach closely",
+             "Inside the meditation hut itself"],
+         "correct": 0,
+         "expl": "The physical staging of the visit."},
+        {"q": "Does the Buddha speak at any point in this discourse?",
+         "opts": [
+             "No — he remains silent throughout, present only as setting and audience",
+             "Yes, he delivers the final verdict between the two verses",
+             "Yes, he rebukes both deities for arguing",
+             "Yes, he asks Verocana to leave"],
+         "correct": 0,
+         "expl": "The exchange is conducted entirely between the two visiting deities."},
+        {"q": "What premise do Verocana's and Sakka's opening verses share?",
+         "opts": [
+             "That a person should strive until the goal is accomplished",
+             "That effort is ultimately pointless",
+             "That patience alone accomplishes every goal",
+             "That harnessed work should be abandoned entirely"],
+         "correct": 0,
+         "expl": "Nearly identical opening lines before their conclusions diverge."},
+        {"q": "What does Sakka's verse offer as the true completion of a splendid, accomplished goal?",
+         "opts": [
+             "Patience — naught better than patience is found",
+             "Wealth and material reward",
+             "Fame and public recognition",
+             "The verdict of a formal panel of judges"],
+         "correct": 0,
+         "expl": "Sakka's consistent conclusion, echoing his own earlier verses."},
+        {"q": "Where else in this saṃyutta does Sakka use the identical phrase about patience?",
+         "opts": [
+             "SN 11.4, in his exchange with Vepacitti",
+             "SN 11.1, in his exchange with Suvīra",
+             "SN 11.6, in the bird-nest episode",
+             "Nowhere else; the phrase is unique to this discourse"],
+         "correct": 0,
+         "expl": "A direct verbal echo tying this discourse back to SN 11.4."},
+        {"q": "What does Verocana claim is the highest thing of value for all living creatures in the second exchange?",
+         "opts": [
+             "Harnessed work",
+             "Patience",
+             "Wealth accumulated over time",
+             "Military victory"],
+         "correct": 0,
+         "expl": "Verocana's second claim, directly contested by Sakka's reply."},
+        {"q": "How does the second round of verses relate to the first?",
+         "opts": [
+             "It restates the same underlying disagreement about effort versus patience in a new form",
+             "It resolves the disagreement definitively",
+             "It introduces an entirely unrelated topic",
+             "It repeats the first round word for word with no change"],
+         "correct": 0,
+         "expl": "The pattern repeats rather than resolving after one exchange."},
+        {"q": "What is the Buddha doing when Sakka and Verocana arrive?",
+         "opts": [
+             "In seclusion for the day's meditation",
+             "Teaching a large assembly of monks",
+             "Traveling between towns",
+             "Resolving a dispute among other deities"],
+         "correct": 0,
+         "expl": "The setting that frames the entire visit."},
+        {"q": "Who is Verocana within this discourse's mythological framework?",
+         "opts": [
+             "Lord of the titans",
+             "Lord of the gods",
+             "A minor local spirit",
+             "A human king"],
+         "correct": 0,
+         "expl": "A titan-side counterpart figure to Sakka in this exchange."},
+    ],
+    marginalia=[
+        ("A visit, not a recollection", [
+            "Sakka and Verocana, arriving in person &mdash;",
+            "a shift back to this collection's usual pattern",
+        ]),
+        ("Present, but silent", [
+            "the Buddha as setting, not speaker &mdash;",
+            "the exchange belongs to the two deities",
+        ]),
+        ("Same opening, different ending", [
+            "effort praised by both, almost word for word &mdash;",
+            "then patience, breaking the agreement",
+        ]),
+        ("An echo from three discourses back", [
+            "\"naught better than patience is found\" &mdash;",
+            "the identical line from SN 11.4",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.7.html">SN 11.7 &middot; Not Betray</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.4.html">SN 11.4 &middot; With Vepacitti</a> '
+        "&mdash; the earlier discourse whose closing line on "
+        "patience is echoed verbatim here.",
+        '<a href="sn-11.9.html">SN 11.9 &middot; Seers in the Wilderness</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.9 — Araññāyatanaisisutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 9, "Araññāyatanaisi", "Seers in the Wilderness",
+    meta_title="SN 11.9 — Seers in the Wilderness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Araññāyatanaisisutta — Vepacitti strides past wilderness "
+        "ascetics in full regalia while Sakka humbly divests himself "
+        "and stands downwind in reverence, and the seers' teasing "
+        "verse draws out his reply. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, a group of ethical seers, Vepacitti, "
+                     "and Sakka"),
+        ("Form", "A narrated episode contrasting two visitors' "
+                 "conduct, closed with a brief verse exchange"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a vivid contrast in conduct, its full weight "
+                       "resting on one culturally loaded detail"),
+    ],
+    why=(
+        "When Sakka and Vepacitti both visit a group of ethical seers "
+        "settled in the wilderness, their conduct on arrival couldn't "
+        "differ more: Vepacitti strides in wearing his sandals, sword "
+        "strapped on, sunshade held aloft, walking straight past the "
+        "seers and keeping them at arm's length, while Sakka removes "
+        "his sandals, hands off his sword, lowers his sunshade, and "
+        "deliberately stands downwind of the ascetics, revering them "
+        "with cupped palms &mdash; a position that would carry their "
+        "unwashed body odor directly to him. When the seers test this "
+        "with a teasing verse suggesting he'd rather leave, Sakka's "
+        "reply reframes what counts as unclean altogether."),
+    guide=[
+        ("Two arrivals, staged side by side", [
+            "The discourse doesn't describe Vepacitti's and Sakka's "
+            "visits separately; it places them back to back so the "
+            "contrast in conduct is immediate and unmissable, each "
+            "detail of one visit answered by its opposite in the "
+            "other."]),
+        ("Regalia kept, or deliberately set aside", [
+            "Every item Vepacitti keeps on entering &mdash; sandals, "
+            "sword, sunshade &mdash; is precisely what Sakka removes "
+            "or hands off before stepping through the same gate, "
+            "making the contrast a matter of specific, itemized "
+            "choices rather than a vague difference in attitude."]),
+        ("A position chosen for what it costs, not despite it", [
+            "Sakka doesn't merely stand nearby; he specifically "
+            "positions himself downwind of the seers, a choice that "
+            "would carry their body odor toward him rather than away "
+            "&mdash; reverence expressed through willingly accepting "
+            "something unpleasant rather than avoiding it."]),
+        ("A test posed as if for Sakka's benefit", [
+            "The seers' verse frames itself as a courtesy, suggesting "
+            "the king of gods would prefer to leave rather than "
+            "endure their odor &mdash; a gentle probe of whether his "
+            "humble conduct reflects genuine regard or mere "
+            "performance."]),
+        ("A reply that reframes the question entirely", [
+            "Sakka doesn't answer by insisting he can tolerate the "
+            "odor; he says outright that he yearns for it, comparing "
+            "it to a colorful garland of flowers, and states plainly "
+            "that the gods don't consider it repulsive at all."]),
+    ],
+    terms=[
+        ("paṭaliyo upāhanā ārohitvā khaggaṁ olaggetvā chattena",
+         "&ldquo;put on his lined sandals, strapped on his sword, "
+         "carrying a sunshade&rdquo; &mdash; Vepacitti's full regalia "
+         "kept on entering the hermitage."),
+        ("apabyāmato karitvā atikkami",
+         "&ldquo;walked right past&hellip; keeping them at arm's "
+         "length&rdquo; &mdash; Vepacitti's dismissive treatment of "
+         "the seers."),
+        ("paṭaliyo upāhanā orohitvā&hellip; chattaṁ apanāmetvā",
+         "&ldquo;took off his sandals&hellip; putting down his "
+         "sunshade&rdquo; &mdash; Sakka's itemized, deliberate "
+         "divestment, item for item the opposite of Vepacitti's."),
+        ("anuvātaṁ pañjaliko namassamāno aṭṭhāsi",
+         "&ldquo;stood downwind&hellip; revering them with cupped "
+         "palms&rdquo; &mdash; the culturally loaded detail of "
+         "Sakka positioning himself to receive the ascetics' odor "
+         "directly."),
+        ("na hettha devā paṭikūlasaññino",
+         "&ldquo;the gods don't see it as repulsive&rdquo; &mdash; "
+         "Sakka's closing reply, reframing what counts as unclean."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.9:1.1-1.4"),
+        ("p", "&sect;2", "sn11.9:1.5-1.6"),
+        ("p", "&sect;3", "sn11.9:2.1-2.4"),
+        ("p", "&sect;4", "sn11.9:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "How does Vepacitti conduct himself upon entering the seers' hermitage?",
+         "opts": [
+             "He keeps his sandals, sword, and sunshade, walking right past the seers",
+             "He removes all his regalia before entering",
+             "He refuses to enter at all",
+             "He bows deeply before every seer he passes"],
+         "correct": 0,
+         "expl": "Full regalia kept on, treating the visit as unremarkable."},
+        {"q": "What does Sakka do differently before entering the same hermitage?",
+         "opts": [
+             "He removes his sandals, hands off his sword, and lowers his sunshade",
+             "He arrives with even more elaborate regalia than Vepacitti",
+             "He sends a messenger ahead instead of entering himself",
+             "He refuses to acknowledge the seers exist"],
+         "correct": 0,
+         "expl": "An itemized, deliberate divestment answering Vepacitti's conduct point for point."},
+        {"q": "Where does Sakka specifically choose to stand among the seers?",
+         "opts": [
+             "Downwind of them, so their odor would reach him directly",
+             "Upwind, to avoid any unpleasant odor",
+             "At the hermitage's main gate, without entering fully",
+             "Directly behind Vepacitti"],
+         "correct": 0,
+         "expl": "A position chosen for what it costs, not despite it."},
+        {"q": "What does Sakka's downwind position signify in the discourse?",
+         "opts": [
+             "Genuine reverence, expressed by willingly accepting something unpleasant",
+             "A tactical error in judgment",
+             "Indifference to the seers' presence",
+             "A challenge to the seers' authority"],
+         "correct": 0,
+         "expl": "Reverence through acceptance rather than avoidance."},
+        {"q": "What does the seers' verse suggest Sakka should do?",
+         "opts": [
+             "Leave, since the odor of long-initiated seers is said to be unclean",
+             "Remain permanently in the hermitage",
+             "Fight Vepacitti on their behalf",
+             "Take off even more of his royal regalia"],
+         "correct": 0,
+         "expl": "Framed as a courteous suggestion, testing Sakka's sincerity."},
+        {"q": "How does Sakka respond to this suggestion?",
+         "opts": [
+             "He says he yearns for the odor, comparing it to a garland of flowers",
+             "He agrees and leaves immediately",
+             "He becomes angry at the seers",
+             "He asks Vepacitti to answer instead"],
+         "correct": 0,
+         "expl": "A reply reframing the entire question of what counts as unclean."},
+        {"q": "What does Sakka's closing line state about the gods generally?",
+         "opts": [
+             "That they don't see the seers' odor as repulsive at all",
+             "That they consider all ascetics unclean",
+             "That they avoid wilderness hermitages entirely",
+             "That only Sakka personally holds this view"],
+         "correct": 0,
+         "expl": "A generalized claim extending beyond Sakka's own reply."},
+        {"q": "How does the discourse structure the contrast between the two visitors?",
+         "opts": [
+             "By placing their visits back to back, detail answering detail",
+             "By describing only Sakka's visit in detail",
+             "By describing only Vepacitti's visit in detail",
+             "By having them arrive together as a single group"],
+         "correct": 0,
+         "expl": "An immediate, itemized contrast rather than a vague difference in tone."},
+        {"q": "What kind of people are the seers described as, at the discourse's opening?",
+         "opts": [
+             "Ethical, of good character, settled in wilderness leaf huts",
+             "Wealthy merchants living in a nearby town",
+             "Former soldiers turned hermits",
+             "Disciples of Sakka specifically"],
+         "correct": 0,
+         "expl": "Setting up the moral weight of how each visitor treats them."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's opening discourses."},
+    ],
+    marginalia=[
+        ("Two visits, staged side by side", [
+            "regalia kept, or deliberately shed &mdash;",
+            "the contrast immediate, itemized",
+        ]),
+        ("Downwind by choice", [
+            "reverence that accepts the cost &mdash;",
+            "not avoiding, but receiving",
+        ]),
+        ("A gentle test disguised as courtesy", [
+            "\"you'd better leave\" &mdash;",
+            "probing sincerity, not just politeness",
+        ]),
+        ("Unclean, reframed as treasured", [
+            "\"like a colorful crown of flowers\" &mdash;",
+            "the gods finding nothing repulsive",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.8.html">SN 11.8 &middot; Verocana, Lord of Titans</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.10.html">SN 11.10 &middot; Seers by the Ocean</a> '
+        "&mdash; the next discourse, closing this saṃyutta's first "
+        "chapter with a very different encounter between seers and "
+        "an asura lord.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.10 — Samuddakasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 10, "Samuddaka", "Seers by the Ocean",
+    meta_title="SN 11.10 — Seers by the Ocean | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samuddakasutta — ocean-shore seers correctly judge the "
+        "titans as unprincipled, beg the asura lord Sambara for "
+        "safety anyway, and answer his harsh refusal with a curse "
+        "grounded in the law of karma. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, a group of ethical seers and "
+                     "Sambara, lord of the titans"),
+        ("Form", "A narrated episode built around a request refused "
+                 "and a curse answered in kind"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes Paṭhamavagga with a sharper, less "
+                       "gentle episode than most of this chapter"),
+    ],
+    why=(
+        "Watching a war break out between gods and titans, a group of "
+        "ocean-shore seers make an explicit moral judgment &mdash; "
+        "the gods are principled, the titans are not &mdash; and, "
+        "expecting danger from the unprincipled side, approach "
+        "Sambara, lord of the titans, to beg for a pledge of safety "
+        "anyway. Sambara's answer is blunt cruelty: no safety for "
+        "seers who associate with Sakka, only fear. The seers' "
+        "reply doesn't plead further; it curses him in return, "
+        "grounding the curse explicitly in the law that whatever "
+        "seed is sown returns as its matching fruit &mdash; and the "
+        "closing line shows that curse taking effect."),
+    guide=[
+        ("A judgment stated outright, not left implicit", [
+            "The seers don't quietly hope for the best from either "
+            "side; they explicitly reason through the situation "
+            "&mdash; gods principled, titans not &mdash; before "
+            "deciding to act, making their moral assessment part of "
+            "the story rather than something readers must infer."]),
+        ("Approaching the danger directly, not avoiding it", [
+            "Having judged the titans as the greater risk, the seers "
+            "don't retreat further into hiding; they go straight to "
+            "Sambara himself to request safety, a choice that puts "
+            "them in front of exactly the figure they have reason to "
+            "fear."]),
+        ("A refusal with no diplomatic softening", [
+            "Sambara doesn't decline evasively or offer partial "
+            "terms; his answer is total and pointed, naming the "
+            "seers as hated specifically for their association with "
+            "Sakka before promising them only fear."]),
+        ("A curse framed as a teaching, not just an outburst", [
+            "The seers' response to this refusal isn't simply an "
+            "angry retort; it's built around an explicit statement of "
+            "the law of karma &mdash; that whatever seed is sown "
+            "returns as its matching fruit &mdash; making the curse "
+            "itself an application of a stated principle."]),
+        ("A closing chapter, its structure now visible", [
+            "This discourse closes Paṭhamavagga, the saṃyutta's "
+            "first chapter of ten; the closing summary verse lists "
+            "all ten discourse titles in sequence, confirming the "
+            "chapter's full shape from Suvīra's negligence through "
+            "this closing curse."]),
+    ],
+    terms=[
+        ("dhammikā kho devā, adhammikā asurā",
+         "&ldquo;the gods are principled, the titans are "
+         "unprincipled&rdquo; &mdash; the seers' explicit moral "
+         "judgment, stated before they act on it."),
+        ("abhayadakkhiṇaṁ yāceyyāma",
+         "&ldquo;beg for a pledge of safety&rdquo; &mdash; the "
+         "seers' direct request to Sambara, approaching the danger "
+         "rather than avoiding it."),
+        ("seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya",
+         "&ldquo;as easily as a strong person would extend or "
+         "contract their arm&rdquo; &mdash; the vivid simile "
+         "describing the seers' instantaneous travel."),
+        ("isīnaṁ abhayaṁ natthi&hellip; bhayameva dadāmi vo",
+         "&ldquo;there is no safety for seers&hellip; I'll only give "
+         "you fear&rdquo; &mdash; Sambara's blunt, total refusal."),
+        ("yādisaṁ vapate bījaṁ, tādisaṁ harate phalaṁ",
+         "&ldquo;whatever kind of seed you sow, that is the fruit "
+         "you reap&rdquo; &mdash; the law of karma the seers invoke "
+         "in cursing Sambara."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Paṭhamavagga. The chapter's "
+        "closing summary verse, listing all ten discourse titles, is "
+        "a structural index and is not reproduced as running prose "
+        "here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.10:1.1-1.7"),
+        ("p", "&sect;2", "sn11.10:1.8-1.9"),
+        ("p", "&sect;3", "sn11.10:2.1-2.4"),
+        ("p", "&sect;4", "sn11.10:3.1-3.4"),
+        ("p", "&sect;5", "sn11.10:4.1-5.6"),
+        ("p", "&sect;6", "sn11.10:6.1-6.2"),
+    ],
+    quiz=[
+        {"q": "What moral judgment do the seers make about gods and titans?",
+         "opts": [
+             "That the gods are principled and the titans are unprincipled",
+             "That both sides are equally unprincipled",
+             "That the titans are more trustworthy than the gods",
+             "They make no judgment and remain neutral"],
+         "correct": 0,
+         "expl": "An explicit assessment stated outright, not left implicit."},
+        {"q": "What do the seers decide to do after this judgment?",
+         "opts": [
+             "Approach Sambara, lord of titans, directly to beg for a pledge of safety",
+             "Flee further into hiding, avoiding all contact",
+             "Approach Sakka instead for protection",
+             "Do nothing and wait for the battle to end"],
+         "correct": 0,
+         "expl": "Approaching the danger directly rather than avoiding it."},
+        {"q": "How do the seers travel to Sambara's presence?",
+         "opts": [
+             "Instantaneously, as easily as a strong person extends or contracts an arm",
+             "By a long overland journey",
+             "By sea, using a boat",
+             "They send a messenger instead of going themselves"],
+         "correct": 0,
+         "expl": "A vivid simile describing their instantaneous travel."},
+        {"q": "How does Sambara respond to the seers' request for safety?",
+         "opts": [
+             "With a blunt, total refusal, promising them only fear",
+             "He grants their request without hesitation",
+             "He offers partial protection in exchange for a favor",
+             "He refers the decision to Vepacitti"],
+         "correct": 0,
+         "expl": "No diplomatic softening in his answer."},
+        {"q": "Why does Sambara say he refuses to grant the seers safety?",
+         "opts": [
+             "Because they are associates of Sakka",
+             "Because they refused to pay tribute",
+             "Because they trespassed on his territory",
+             "Because they insulted him directly"],
+         "correct": 0,
+         "expl": "Named specifically as the reason for his hostility."},
+        {"q": "What principle do the seers invoke in cursing Sambara?",
+         "opts": [
+             "That whatever seed one sows, one reaps the matching fruit",
+             "That titans always lose in the end",
+             "That seers are inherently superior to titans",
+             "That curses always fail against the powerful"],
+         "correct": 0,
+         "expl": "An explicit statement of the law of karma underlying the curse."},
+        {"q": "What effect does the seers' curse have on Sambara, according to the closing line?",
+         "opts": [
+             "He wakes in alarm three times that night",
+             "He is destroyed immediately",
+             "He apologizes and reverses his refusal",
+             "No effect is described"],
+         "correct": 0,
+         "expl": "A concrete sign the curse takes hold."},
+        {"q": "What does this discourse close, structurally, within Sakkasaṃyutta?",
+         "opts": [
+             "Paṭhamavagga, the saṃyutta's first chapter of ten discourses",
+             "The entire saṃyutta of twenty-five discourses",
+             "Only a minor sub-section with no larger significance",
+             "Nothing; more discourses in this chapter follow"],
+         "correct": 0,
+         "expl": "Confirmed by the chapter's closing summary verse listing all ten titles."},
+        {"q": "Where are these seers settled, distinguishing them from SN 11.9's seers?",
+         "opts": [
+             "On the ocean shore, rather than in a wilderness region",
+             "In a large city",
+             "On a mountain peak",
+             "In the same location as SN 11.9's seers"],
+         "correct": 0,
+         "expl": "A different setting from the wilderness hermitage of the previous discourse."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's opening discourses."},
+    ],
+    marginalia=[
+        ("A verdict stated before acting", [
+            "principled gods, unprincipled titans &mdash;",
+            "judgment made explicit, not assumed",
+        ]),
+        ("Walking toward the danger", [
+            "seeking safety from the very source of risk &mdash;",
+            "no retreat into hiding",
+        ]),
+        ("A refusal with nothing softened", [
+            "\"I'll only give you fear\" &mdash;",
+            "no diplomatic hedge at all",
+        ]),
+        ("A curse grounded in a stated law", [
+            "seed sown, fruit returned &mdash;",
+            "not mere anger, but a principle applied",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.9.html">SN 11.9 &middot; Seers in the Wilderness</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.11.html">SN 11.11 &middot; Vows</a> '
+        "&mdash; opening Dutiyavagga, this saṃyutta's second chapter.",
+    ],
+)
