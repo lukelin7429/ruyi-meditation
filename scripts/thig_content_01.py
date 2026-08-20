@@ -14417,6 +14417,226 @@ page(
         '<a href="thig-13.5.html">Thig 13.5 &mdash; Subh&amacr;, the '
         "Smith&rsquo;s Daughter</a> &mdash; the poem immediately before "
         "this one, sharing this poem's speaker's name.",
+        '<a href="thig-15.1.html">Thig 15.1 &mdash; Isid&amacr;s&imacr;'
+        "</a> &mdash; the next poem, opening the Book of the Forties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 15.1 — Isidāsī
+# --------------------------------------------------------------------------- #
+page(
+    15, 1, "Isid&amacr;s&imacr;", "Isid&amacr;s&imacr;",
+    meta_title="Thig 15.1 — Isidāsī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Isidāsī's verses, three husbands' rejection traced back "
+        "through seven past lives to a single act, in one of this "
+        "collection's most elaborate narratives. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Forties &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A private conversation between two nuns, "
+                    "recounting a personal history spanning this life "
+                    "and seven past ones"),
+        ("Speaker", "Isidāsī, answering her friend Bodhī's question at "
+                    "length"),
+        ("Form", "Forty-eight verses, the entire Book of the Forties"),
+        ("Length", "under 4 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of the most elaborate single narratives "
+                       "anywhere in this collection"),
+    ],
+    why=(
+        "Two nuns sit talking after their almsround, and Bodhī asks "
+        "Isidāsī, still young and lovely, what drove her to "
+        "renunciation. The answer unfolds in two parts: first, three "
+        "successive husbands who rejected her outright despite "
+        "flawless devotion, each leaving faster than the last; then, "
+        "after her own ordination, an account of seven past lives "
+        "tracing that rejection back to a single act she herself once "
+        "committed."),
+    guide=[
+        ("An escalating pattern of rejection, despite flawless conduct", [
+            "Isidāsī describes serving each husband &lsquo;like a "
+            "mother her only child&rsquo;, doing his makeup herself, "
+            "bowing to his parents morning and evening &mdash; yet her "
+            "first husband demands to leave outright; her second "
+            "household rejects her after only a month; her third "
+            "husband, a renunciant her father specifically recruited "
+            "by asking him to set aside his begging bowl and robe, "
+            "wants them back after only two weeks."]),
+        ("A turning point, then a fast attainment", [
+            "At her lowest point, resolving &lsquo;either to die or to "
+            "go forth&rsquo;, the nun Jinadattā happens to visit for "
+            "alms. Isidāsī's father ultimately blesses her request "
+            "to ordain, and just seven days later, she attains the "
+            "three knowledges."]),
+        ("Seven lives, traced back to a single act", [
+            "Isidāsī then recounts her own past lives in sequence: as "
+            "a wealthy young goldsmith, &lsquo;drunk on the pride of "
+            "youth&rsquo;, she committed adultery with another man's "
+            "wife &mdash; then burned in hell, then was reborn and "
+            "castrated as a monkey, a goat, and a calf in succession, "
+            "each rebirth explicitly named as &lsquo;the fruit of that "
+            "deed&rsquo;."]),
+        ("A human birth without genitals, carefully clarified", [
+            "One rebirth is described as &lsquo;neither woman nor "
+            "man&rsquo;. Sujato's own note clarifies that, given the "
+            "surrounding verses' repeated theme of castration, this "
+            "means lacking genitals specifically, not a description of "
+            "non-binary identity in a modern sense. The very next life "
+            "&mdash; in which she herself wronged another man's loyal "
+            "wife &mdash; is what she identifies as the immediate cause "
+            "of this life's repeated rejection."]),
+    ],
+    terms=[
+        ("Isid&amacr;s&imacr;",
+         "this poem's speaker, whose personal history spans one "
+         "present life and seven recounted past ones."),
+        ("Jinadatt&amacr;",
+         "the nun whose chance visit for alms becomes the turning "
+         "point toward Isidāsī's own ordination."),
+        ("parad&amacr;ra",
+         "&ldquo;another's wife&rdquo; &mdash; the adultery Isidāsī "
+         "names as the root act her later lives' sufferings trace back "
+         "to."),
+        ("nillacchita",
+         "&ldquo;castrated&rdquo; &mdash; the punishment recurring "
+         "across three successive animal rebirths, each explicitly "
+         "tied back to that single act."),
+        ("dvij&amacr;t&imacr;",
+         "&ldquo;twice-born&rdquo;, an epithet for brahmins &mdash; "
+         "used by Isidāsī's father, in what Sujato's note suggests may "
+         "be this idiom's earliest recorded use."),
+    ],
+    text_intro=(
+        "The text in full: the frame between two nuns, three "
+        "marriages, ordination, and seven past lives traced to their "
+        "cause. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig15.1:1.1-5.4"),
+        ("p", "&sect;2", "thig15.1:6.1-10.4"),
+        ("p", "&sect;3", "thig15.1:11.1-14.4"),
+        ("p", "&sect;4", "thig15.1:15.1-20.4"),
+        ("p", "&sect;5", "thig15.1:21.1-27.4"),
+        ("p", "&sect;6", "thig15.1:28.1-34.4"),
+        ("p", "&sect;7", "thig15.1:35.1-38.4"),
+        ("p", "&sect;8", "thig15.1:39.1-42.4"),
+        ("p", "&sect;9", "thig15.1:43.1-48.4"),
+    ],
+    quiz=[
+        {"q": "What does Bodhī ask Isidāsī at the poem's opening?",
+         "opts": [
+             "What problem she saw that made her dedicate her life to renunciation",
+             "Why she chose a particular meal",
+             "Where she was born",
+             "Nothing specific is asked"],
+         "correct": 0,
+         "expl": "Framing the extended personal history that follows."},
+        {"q": "How does Isidāsī describe her devotion to her first husband?",
+         "opts": [
+             "As minimal and reluctant",
+             "As nonexistent",
+             "As thorough — cooking, cleaning, even doing his makeup herself, like a mother to an only child",
+             "The poem does not describe this"],
+         "correct": 2,
+         "expl": "Total devotion, met nonetheless with rejection."},
+        {"q": "How quickly did each of Isidāsī's second and third husbands reject her?",
+         "opts": [
+             "After many years each time",
+             "Never — both marriages lasted her whole life",
+             "After a month, then after just two weeks",
+             "The poem does not specify"],
+         "correct": 2,
+         "expl": "An escalating, faster pattern each time."},
+        {"q": "What led Isidāsī to seek ordination?",
+         "opts": [
+             "Despair after her third rejection, and a chance visit from the nun Jinadattā",
+             "A direct order from her father",
+             "A dream with no other cause",
+             "She had always planned to ordain"],
+         "correct": 0,
+         "expl": "A turning point arriving at her lowest point."},
+        {"q": "How quickly did Isidāsī attain the three knowledges after ordaining?",
+         "opts": [
+             "After many years",
+             "Seven days",
+             "Immediately, with no practice described",
+             "The poem does not specify"],
+         "correct": 1,
+         "expl": "One of this collection's fastest explicitly dated attainments."},
+        {"q": "What single act does Isidāsī trace her later sufferings back to?",
+         "opts": [
+             "A theft",
+             "A broken promise",
+             "No specific act is named",
+             "Adultery with another man's wife, committed as a wealthy young goldsmith"],
+         "correct": 3,
+         "expl": "The root cause named directly at the start of her account of past lives."},
+        {"q": "What happens across three of Isidāsī's animal rebirths?",
+         "opts": [
+             "Nothing notable occurs",
+             "She becomes wealthy in each",
+             "She is worshipped as a deity",
+             "She is castrated in each, explicitly named as the fruit of her past deed"],
+         "correct": 3,
+         "expl": "A recurring, explicitly explained karmic consequence."},
+        {"q": "How does Sujato's note clarify the human rebirth described as 'neither woman nor man'?",
+         "opts": [
+             "It offers no clarification",
+             "That, given the surrounding castration theme, this means lacking genitals specifically, not describing non-binary identity in a modern sense",
+             "That this is a scribal error with no clear meaning",
+             "That it definitely describes a non-binary identity as understood today"],
+         "correct": 1,
+         "expl": "A careful, sourced clarification this guide reports faithfully."},
+        {"q": "What does Isidāsī identify as the immediate cause of this life's rejections?",
+         "opts": [
+             "Nothing in particular is identified",
+             "A curse from a stranger",
+             "Pure chance, with no specific cause",
+             "Wronging another man's loyal wife in the life just before this one"],
+         "correct": 3,
+         "expl": "The final link in her chain of seven past lives."},
+        {"q": "How does this poem's length compare to most other poems in this collection?",
+         "opts": [
+             "It is shorter than average",
+             "It is exactly average length",
+             "It is one of the most elaborate single narratives in the entire collection",
+             "Length cannot be compared across poems"],
+         "correct": 2,
+         "expl": "Forty-eight verses spanning one present life and seven past ones."},
+    ],
+    marginalia=[
+        ("Devotion, met with rejection", [
+            "three husbands,",
+            "each faster than the last"
+        ]),
+        ("A turning point, then seven days", [
+            "despair, then",
+            "a fast attainment"
+        ]),
+        ("Seven lives, one root cause", [
+            "adultery,",
+            "traced through rebirths"
+        ]),
+        ("A note, carefully clarifying", [
+            "castration, not",
+            "modern non-binary identity"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig15.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-14.1.html">Thig 14.1 &mdash; Subh&amacr; of '
+        "J&imacr;vaka&rsquo;s Mango Grove</a> &mdash; the poem "
+        "immediately before this one, closing the Book of the "
+        "Thirties.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
