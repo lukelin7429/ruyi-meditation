@@ -12890,6 +12890,223 @@ page(
         '<a href="thig-10.1.html">Thig 10.1 &mdash; Kis&amacr;gotam'
         "&imacr;</a> &mdash; the poem immediately before this one, "
         "closing the Book of the Elevens.",
+        '<a href="thig-12.1.html">Thig 12.1 &mdash; Pu&#7751;&#7751;ik'
+        "&amacr;</a> &mdash; the next poem, opening the Book of the "
+        "Sixteens.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 12.1 — Puṇṇikā
+# --------------------------------------------------------------------------- #
+page(
+    12, 1, "Pu&#7751;&#7751;&amacr;", "Pu&#7751;&#7751;ik&amacr;",
+    meta_title="Thig 12.1 — Puṇṇikā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Puṇṇikā's verses, a water-carrier's logical demolition of "
+        "ritual purification, closing on a brahmin's own conversion "
+        "declaration. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sixteens &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A river, where a water-carrier meets a brahmin "
+                    "performing ritual ablutions"),
+        ("Speaker", "Puṇṇikā and a brahmin, in extended dialogue "
+                    "across the entire poem"),
+        ("Form", "Sixteen verses, mostly four lines, the entire Book "
+                 "of the Sixteens"),
+        ("Length", "under 2 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "logical rebuttal in a sharper, wittier register "
+                       "than most poems in this collection"),
+    ],
+    why=(
+        "This poem's speaker names her own former position directly: "
+        "&lsquo;I used to be a water-carrier... afraid of my masters' "
+        "beatings&rsquo;. When she questions a brahmin plunging into "
+        "cold water beside her, his answer &mdash; that ritual ablution "
+        "washes away wickedness &mdash; draws not a doctrinal lecture "
+        "but a string of sharp, logical objections. The poem's own "
+        "final words, remarkably, are his: a declaration that he has "
+        "become &lsquo;a true brahmin&rsquo; at last."),
+    guide=[
+        ("A speaker in explicit servitude, unlike earlier poems", [
+            "&lsquo;I used to be a water-carrier. Even when it was "
+            "cold, I would always plunge into the water, afraid of my "
+            "masters' beatings, harassed by fear of abuse and "
+            "anger&rsquo; names a social position &mdash; servitude "
+            "under masters who beat her &mdash; distinct from the "
+            "courtesans, widows, and laywomen speaking elsewhere in "
+            "this collection."]),
+        ("A logical demolition, not a doctrinal reply", [
+            "Puṇṇikā's rebuttal to the brahmin's ritual belief is "
+            "witty and relentless: if water washed away wickedness, "
+            "&lsquo;would not they all go to heaven, then: all the "
+            "frogs and the turtles, dragons, dolphins&rsquo;, and "
+            "&lsquo;butchers of sheep and pigs... bandits, "
+            "executioners&rsquo; too &mdash; and if rivers carry away "
+            "bad deeds, they would carry away good deeds just as "
+            "easily."]),
+        ("A timing left honestly unresolved", [
+            "Sujato's own note flags a genuine puzzle: the verb tense "
+            "suggests she is recalling this as a past event, which "
+            "commentary reads as happening before she ordained &mdash; "
+            "yet the brahmin's respectful address to her and the "
+            "boldness of her teaching suggest she may already have "
+            "been a nun. This guide reports the puzzle rather than "
+            "resolving it."]),
+        ("A poem named for her, closing on his words", [
+            "After Puṇṇikā refuses his gift of an ablution cloth and "
+            "instructs him toward real ethical practice and refuge, "
+            "the poem's own final verses are his: &lsquo;I used to be a "
+            "brahmin only by kin, today I truly am a brahmin&rsquo; "
+            "&mdash; an unusual structural choice for a poem attributed "
+            "to and named for a nun."]),
+    ],
+    terms=[
+        ("Pu&#7751;&#7751;ik&amacr;",
+         "this poem's speaker, called &lsquo;Puṇṇā&rsquo; in the "
+         "title but addressed as &lsquo;Puṇṇikā&rsquo; within the "
+         "dialogue itself, an affectionate form of her name."),
+        ("udah&amacr;r&imacr;",
+         "&ldquo;water-carrier&rdquo; &mdash; the occupation she names "
+         "for herself, under masters who beat her."),
+        ("dak&amacr;bhisecana",
+         "&ldquo;ablution in water&rdquo; &mdash; the ritual belief "
+         "she systematically dismantles across several verses."),
+        ("bhoti",
+         "a respectful form of address, &lsquo;Madam&rsquo;, used by "
+         "the brahmin toward her &mdash; cited by Sujato as one clue "
+         "in an unresolved question about when this exchange took "
+         "place."),
+        ("saccabr&amacr;hma&#7751;o",
+         "&ldquo;a true brahmin&rdquo; &mdash; the brahmin's own "
+         "closing self-description, redefining the word away from "
+         "birth and toward attainment."),
+    ],
+    text_intro=(
+        "The text in full: her narration and question, his reply, her "
+        "rebuttal, his confession, her instruction, and his closing "
+        "declaration. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig12.1:1.1-2.4"),
+        ("p", "&sect;2", "thig12.1:3.1-4.4"),
+        ("p", "&sect;3", "thig12.1:5.1-9.4"),
+        ("p", "&sect;4", "thig12.1:10.1-10.4"),
+        ("p", "&sect;5", "thig12.1:11.1-14.4"),
+        ("p", "&sect;6", "thig12.1:15.1-16.4"),
+    ],
+    quiz=[
+        {"q": "What occupation does Puṇṇikā name for herself, in this poem's opening verse?",
+         "opts": [
+             "A water-carrier, afraid of her masters' beatings",
+             "A queen",
+             "A merchant",
+             "No occupation is named"],
+         "correct": 0,
+         "expl": "A social position of servitude, distinct from most other speakers in this collection."},
+        {"q": "Why does the brahmin say he plunges into cold water?",
+         "opts": [
+             "For pleasure",
+             "To catch fish",
+             "No reason is given",
+             "To wash away wickedness, believing ablution frees one from bad deeds"],
+         "correct": 3,
+         "expl": "A stated ritual belief, which Puṇṇikā then systematically challenges."},
+        {"q": "What creatures does Puṇṇikā say would go to heaven, if water alone washed away wickedness?",
+         "opts": [
+             "No creatures are mentioned",
+             "Only birds",
+             "Frogs, turtles, dragons, and dolphins — all water-dwellers",
+             "Only fish"],
+         "correct": 2,
+         "expl": "A reductio ad absurdum extending the brahmin's own logic."},
+        {"q": "What does Puṇṇikā say would happen to good deeds, if rivers could carry away bad ones?",
+         "opts": [
+             "Nothing — good deeds are unaffected",
+             "They would be carried away too, leaving him with nothing",
+             "They would multiply",
+             "The poem does not address this"],
+         "correct": 1,
+         "expl": "A logical extension the brahmin cannot easily escape."},
+        {"q": "What does Sujato's note say about when this exchange might have taken place?",
+         "opts": [
+             "It states with certainty that she was already a nun",
+             "It states with certainty that she was still enslaved",
+             "It flags a genuine, unresolved puzzle, citing conflicting clues in the verse's grammar and the brahmin's address",
+             "The note does not address this question at all"],
+         "correct": 2,
+         "expl": "This guide reports the puzzle rather than resolving it, following Sujato's own caution."},
+        {"q": "What does the brahmin offer Puṇṇikā after being persuaded?",
+         "opts": [
+             "His ablution cloth",
+             "A large sum of money",
+             "Nothing is offered",
+             "A marriage proposal"],
+         "correct": 0,
+         "expl": "A gift she then refuses, offering real instruction instead."},
+        {"q": "How does Puṇṇikā respond to this gift?",
+         "opts": [
+             "She accepts it gladly",
+             "She demands a larger gift",
+             "She does not respond at all",
+             "She refuses it and instructs him toward ethical practice and refuge instead"],
+         "correct": 3,
+         "expl": "Turning the exchange from ritual object to genuine teaching."},
+        {"q": "Whose words close this entire poem?",
+         "opts": [
+             "Puṇṇikā's own final attainment statement",
+             "The brahmin's own declaration of becoming 'a true brahmin'",
+             "An unnamed narrator's summary",
+             "The poem ends mid-sentence"],
+         "correct": 1,
+         "expl": "An unusual structural choice for a poem named for and attributed to a nun."},
+        {"q": "How does the brahmin redefine himself in the poem's final verse?",
+         "opts": [
+             "As still a brahmin only by birth",
+             "As 'a true brahmin' at last, master of the three knowledges rather than by kin alone",
+             "As having abandoned his identity entirely",
+             "No redefinition occurs"],
+         "correct": 1,
+         "expl": "Redefining the word 'brahmin' away from birth and toward attainment."},
+        {"q": "What does 'dakābhisecana' mean?",
+         "opts": [
+             "'A water-carrier'",
+             "'A true brahmin'",
+             "'Ablution in water' — the ritual belief challenged throughout this poem",
+             "'The three knowledges'"],
+         "correct": 2,
+         "expl": "The central concept this entire dialogue turns on."},
+    ],
+    marginalia=[
+        ("A speaker in servitude", [
+            "a water-carrier,",
+            "under masters who beat her"
+        ]),
+        ("Logic, not doctrine", [
+            "frogs, turtles,",
+            "and dolphins in heaven"
+        ]),
+        ("A timing left open", [
+            "Sujato's own note",
+            "flags the puzzle"
+        ]),
+        ("A poem closing on his words", [
+            "not hers,",
+            "though named for her"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig12.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-11.1.html">Thig 11.1 &mdash; Uppalava&#7751;&#7751;'
+        "&amacr;</a> &mdash; the poem immediately before this one, "
+        "closing the Book of the Twelves.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
