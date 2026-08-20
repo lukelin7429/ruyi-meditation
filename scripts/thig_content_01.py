@@ -11410,3 +11410,836 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 7.1 — Uttarā (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    7, 1, "Uttar&amacr;", "Uttar&amacr; (2nd)",
+    meta_title="Thig 7.1 — Uttarā (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the poem opening the Book of the Sevens, reusing Paṭācārā's "
+        "instruction to the thirty nuns for a single disciple. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Poem 1 of 3",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "no closing attribution"),
+        ("Speaker", "The nun Uttarā, quoting Paṭācārā's instruction, "
+                    "then narrating her own night's progress"),
+        ("Form", "Seven verses, mostly four lines"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "reuses an entire earlier poem's template for a "
+                       "single individual"),
+    ],
+    why=(
+        "This poem opens the Book of the Sevens with material this "
+        "collection has already used once: the same mundane simile "
+        "about young men pounding grain, the same instruction "
+        "attributed to Paṭācārā, and the same three-watch structure "
+        "that marked the thirty nuns' collective realization in Thig "
+        "5.11 &mdash; here applied to one individual disciple, with "
+        "&lsquo;the Thirty gods honor Sakka&rsquo; replacing that "
+        "poem's &lsquo;honor Indra&rsquo;, two names for the same "
+        "deity."),
+    guide=[
+        ("An instruction reused from Thig 5.11", [
+            "&lsquo;Taking a pestle, young men pound grain... work at "
+            "the Buddha's bidding, you won't regret it&rsquo; opens this "
+            "poem with the identical mundane simile and instruction "
+            "already given collectively in Thig 5.11 &mdash; here "
+            "explicitly credited to Paṭācārā once again."]),
+        ("The same three watches, for one nun instead of thirty", [
+            "&lsquo;In the first watch of the night, I recollected my "
+            "past lives... in the last watch, I shattered the mass of "
+            "darkness&rsquo; tracks the identical progression given to "
+            "the group in Thig 5.11, now narrated by a single "
+            "individual, Uttarā."]),
+        ("A closing image, the same deity by a different name", [
+            "&lsquo;I shall abide honoring you as the Thirty gods honor "
+            "Sakka, undefeated in battle&rsquo; matches Thig 5.11's "
+            "closing image of the Thirty gods honoring Indra almost "
+            "exactly &mdash; Sakka and Indra are two names for the same "
+            "figure."]),
+        ("A second Uttarā, distinguished only by number", [
+            "This poem's title, &lsquo;Uttarā (2nd)&rsquo;, marks her as "
+            "a different individual from the Uttarā of Thig 1.15 "
+            "&mdash; the collection's established convention for two "
+            "women sharing one name, continued here across a much "
+            "greater distance in the collection."]),
+    ],
+    terms=[
+        ("Uttar&amacr;",
+         "this poem's speaker, distinguished from the earlier Uttarā of "
+         "Thig 1.15 by the numeral in her title."),
+        ("Pa&#7789;&amacr;c&amacr;r&amacr;",
+         "the teacher explicitly credited with this poem's opening "
+         "instruction, as in Thig 5.11."),
+        ("sa&#7749;kh&amacr;re parato",
+         "&ldquo;conditions as alien&rdquo; &mdash; the specific object "
+         "of examination named in Paṭācārā's instruction here."),
+        ("tamokkhandha",
+         "&ldquo;the mass of darkness&rdquo; &mdash; shattered in the "
+         "third watch, echoing several earlier poems in this "
+         "collection."),
+        ("Sakka",
+         "a name for the deity also called Indra &mdash; honored by the "
+         "Thirty gods in this poem's closing simile, matching Thig "
+         "5.11's image exactly."),
+    ],
+    text_intro=(
+        "The text in full: seven verses, opening the Book of the "
+        "Sevens. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig7.1:1.1-1.4"),
+        ("p", "&sect;2", "thig7.1:2.1-2.4"),
+        ("p", "&sect;3", "thig7.1:3.1-3.4"),
+        ("p", "&sect;4", "thig7.1:4.1-4.4"),
+        ("p", "&sect;5", "thig7.1:5.1-5.4"),
+        ("p", "&sect;6", "thig7.1:6.1-6.4"),
+        ("p", "&sect;7", "thig7.1:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What simile does this poem's opening verse share with Thig 5.11?",
+         "opts": [
+             "No simile is shared",
+             "Young men pounding grain to acquire wealth",
+             "The elephant simile",
+             "A description of a cremation ground"],
+         "correct": 1,
+         "expl": "The identical mundane image opens both poems."},
+        {"q": "Who does this poem credit with the opening instruction?",
+         "opts": [
+             "The Buddha directly",
+             "An unnamed nun",
+             "Paṭācārā, as in Thig 5.11",
+             "No teacher is credited"],
+         "correct": 2,
+         "expl": "The same teacher named in the collective realization of the thirty nuns."},
+        {"q": "What structure does this poem's account of a single night share with Thig 5.11?",
+         "opts": [
+             "No shared structure",
+             "The same three-watch progression, now for one individual",
+             "Both describe the same group of thirty nuns",
+             "Neither poem describes a night at all"],
+         "correct": 1,
+         "expl": "Past lives, then clairvoyance, then the mass of darkness shattered."},
+        {"q": "What deity does this poem's closing simile name, in place of Thig 5.11's Indra?",
+         "opts": [
+             "Sakka — a different name for the same deity",
+             "Māra",
+             "Brahmā",
+             "No deity is named"],
+         "correct": 0,
+         "expl": "Two names for the same figure, in an otherwise nearly identical image."},
+        {"q": "What does this poem's title, 'Uttarā (2nd)', signal?",
+         "opts": [
+             "That this poem predates Thig 1.15",
+             "Nothing in particular",
+             "A different individual from the Uttarā of Thig 1.15, sharing only a name",
+             "That she is the sister of the Uttarā in Thig 1.15"],
+         "correct": 2,
+         "expl": "This collection's established convention for two women sharing one name."},
+        {"q": "What does Paṭācārā's instruction tell its listener to examine conditions as?",
+         "opts": [
+             "As beautiful",
+             "As permanent",
+             "As identical to the self",
+             "As alien, not as self"],
+         "correct": 3,
+         "expl": "Named directly in the instruction's third verse."},
+        {"q": "How does this poem's use of earlier material compare to most other poems in this collection?",
+         "opts": [
+             "It introduces entirely new material with no precedent",
+             "It shares nothing with any earlier poem",
+             "It reuses an entire earlier poem's template — simile, instruction, and structure — for one individual",
+             "It is identical in every way to Thig 1.15"],
+         "correct": 2,
+         "expl": "A more extensive reuse than most cross-references elsewhere in this collection."},
+        {"q": "What position does this poem hold in the Therigatha?",
+         "opts": [
+             "It closes the Book of the Sixes",
+             "It is the final poem of the entire collection",
+             "It stands outside any book",
+             "It opens the Book of the Sevens, the collection's seventh book"],
+         "correct": 3,
+         "expl": "The first of three poems in this short book."},
+        {"q": "What does this poem say happened before Uttarā began this practice?",
+         "opts": [
+             "She washed her feet and retired to a discreet place",
+             "She traveled to a distant kingdom",
+             "Nothing preceded her practice",
+             "She confronted Māra directly"],
+         "correct": 0,
+         "expl": "A specific preparatory action, shared with the instruction's own wording."},
+        {"q": "How many poems does the Book of the Sevens contain in total?",
+         "opts": [
+             "Ten",
+             "Just three",
+             "Eight",
+             "One"],
+         "correct": 1,
+         "expl": "One of the shortest books in the Therigatha, alongside the single-poem Book of the Fours."},
+    ],
+    marginalia=[
+        ("An instruction, reused entirely", [
+            "the same simile,",
+            "the same teacher"
+        ]),
+        ("Three watches, for one this time", [
+            "the same progression",
+            "as the thirty nuns"
+        ]),
+        ("Sakka, or Indra", [
+            "two names,",
+            "the same closing image"
+        ]),
+        ("A second Uttarā", [
+            "distinguished",
+            "only by number"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig7.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-5.11.html">Thig 5.11 &mdash; Thirty Nuns</a> '
+        "&mdash; the poem whose instruction, simile, and structure this "
+        "one reuses for a single disciple.",
+        '<a href="thig-7.2.html">Thig 7.2 &mdash; C&amacr;l&amacr;</a> '
+        "&mdash; the next poem in the Book of the Sevens.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 7.2 — Cālā
+# --------------------------------------------------------------------------- #
+page(
+    7, 2, "C&amacr;l&amacr;", "C&amacr;l&amacr;",
+    meta_title="Thig 7.2 — Cālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Cālā's verses, confronted by Māra over doctrinal rootlessness "
+        "and replying that the Dhamma's purpose is going beyond views "
+        "entirely. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Poem 2 of 3",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "the addressee is named only as Māra, the Wicked "
+                    "One"),
+        ("Speaker", "Two voices: Māra, questioning her apparent lack of "
+                    "any creed, then Cālā's reply"),
+        ("Form", "Seven four-line verses"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "confrontation over doctrine itself, not desire "
+                       "or rebirth"),
+    ],
+    why=(
+        "Where Māra's temptations elsewhere in this collection appeal "
+        "to pleasure or beauty, his approach to Cālā is different: he "
+        "questions her apparent lack of any creed at all, asking why "
+        "she &lsquo;wanders as if lost&rsquo;. Her reply does not name "
+        "a competing doctrine; it reframes the Buddha's teaching itself "
+        "as something aimed at going beyond views entirely, distinct "
+        "from the &lsquo;followers of other creeds&rsquo; who merely "
+        "rely on theirs."),
+    guide=[
+        ("A taunt about doctrine, not desire", [
+            "&lsquo;In whose name did you shave your head? You look "
+            "like an ascetic, but you don't approve any creed. Why do "
+            "you wander as if lost?&rsquo; is a different kind of "
+            "temptation from Māra &mdash; not an appeal to pleasure, but "
+            "a challenge to her apparent rootlessness."]),
+        ("Other creeds, critiqued for relying on views", [
+            "&lsquo;Followers of other creeds rely on their views. They "
+            "don't understand the Dhamma, for they're no experts in the "
+            "Dhamma&rsquo; draws a specific contrast: not superior "
+            "doctrine against inferior doctrine, but genuine "
+            "understanding against mere reliance on a position."]),
+        ("The Dhamma framed as going beyond views itself", [
+            "&lsquo;He taught me the Dhamma for going beyond "
+            "views&rsquo; characterizes the Buddha's teaching in a way "
+            "distinct from most other descriptions in this collection "
+            "&mdash; not one view among competing views, but a path "
+            "aimed past the entire category."]),
+        ("The four truths, then the shared victory formula", [
+            "&lsquo;Suffering, suffering's origin, suffering's "
+            "transcendence, and the noble eightfold path&rsquo; "
+            "precedes the same closing quatrain already used in Thig "
+            "3.7, 3.8, and 6.3 &mdash; a fourth appearance of this "
+            "collection's recurring victory-over-Māra formula."]),
+    ],
+    terms=[
+        ("C&amacr;l&amacr;",
+         "this poem's speaker, whose confrontation with Māra concerns "
+         "doctrine rather than pleasure."),
+        ("p&amacr;sa&#7751;&#7693;a",
+         "&ldquo;creeds&rdquo; or sects &mdash; named as what "
+         "&lsquo;followers of other&rsquo; paths rely on, in contrast "
+         "to the Dhamma."),
+        ("di&#7789;&#7789;h&imacr;na&#7749; samatikkama&#7749;",
+         "&ldquo;going beyond views&rdquo; &mdash; Cālā's own "
+         "characterization of what the Buddha taught her."),
+        ("momuh&amacr;",
+         "&ldquo;as if lost&rdquo; or confused &mdash; Māra's taunting "
+         "description of her, in his opening question."),
+        ("ariya&#7749; a&#7789;&#7789;ha&#7749;gika magga",
+         "the noble eightfold path, named alongside the four truths in "
+         "Cālā's own account of the teaching."),
+    ],
+    text_intro=(
+        "The text in full: Māra's question, and Cālā's reply. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig7.2:1.1-1.4"),
+        ("p", "&sect;2", "thig7.2:2.1-2.4"),
+        ("p", "&sect;3", "thig7.2:3.1-3.4"),
+        ("p", "&sect;4", "thig7.2:4.1-4.4"),
+        ("p", "&sect;5", "thig7.2:5.1-5.4"),
+        ("p", "&sect;6", "thig7.2:6.1-6.4"),
+        ("p", "&sect;7", "thig7.2:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What does Māra question about Cālā, in this poem's opening verse?",
+         "opts": [
+             "Her physical appearance only",
+             "Her apparent lack of any creed, asking why she 'wanders as if lost'",
+             "Her family background",
+             "Nothing is questioned"],
+         "correct": 1,
+         "expl": "A challenge about doctrine and rootlessness, not desire."},
+        {"q": "How does Cālā characterize 'followers of other creeds'?",
+         "opts": [
+             "As relying on their views, without understanding the Dhamma",
+             "As equally enlightened",
+             "As entirely absent from this poem",
+             "As superior to her own path"],
+         "correct": 0,
+         "expl": "A contrast between mere reliance on a view and genuine understanding."},
+        {"q": "How does Cālā describe the purpose of the Buddha's teaching?",
+         "opts": [
+             "As one competing view among many",
+             "As a way to acquire wealth",
+             "For going beyond views entirely",
+             "The poem does not describe its purpose"],
+         "correct": 2,
+         "expl": "A distinct framing from most other descriptions of the Dhamma in this collection."},
+        {"q": "What does the poem name alongside the four noble truths?",
+         "opts": [
+             "The five lower fetters",
+             "The noble eightfold path",
+             "The three knowledges only",
+             "Nothing further is named"],
+         "correct": 1,
+         "expl": "Named together in this poem's fifth verse."},
+        {"q": "What quatrain closes this poem, shared with Thig 3.7, 3.8, and 6.3?",
+         "opts": [
+             "'Though subject to so many painful things...'",
+             "'I go for refuge to that sage, the Buddha'",
+             "No closing quatrain is shared with other poems",
+             "'Relishing is banished in every respect... you're beaten, terminator!'"],
+         "correct": 3,
+         "expl": "A fourth appearance of this collection's recurring victory formula."},
+        {"q": "What does 'pāsaṇḍa' mean?",
+         "opts": [
+             "'Going beyond views'",
+             "'As if lost'",
+             "'The eightfold path'",
+             "'Creeds' or sects — what followers of other paths rely on"],
+         "correct": 3,
+         "expl": "Named directly in Cālā's contrast with the Dhamma."},
+        {"q": "How does Māra's approach to Cālā differ from his temptations to Selā or Somā?",
+         "opts": [
+             "It does not differ at all",
+             "He questions her apparent doctrinal rootlessness, rather than appealing to pleasure",
+             "He offers her wealth instead",
+             "He does not speak to her at all"],
+         "correct": 1,
+         "expl": "A confrontation over doctrine itself, distinct from earlier temptations."},
+        {"q": "What does 'momuhā' mean?",
+         "opts": [
+             "'As if lost' or confused — Māra's taunting description of Cālā",
+             "'Going beyond views'",
+             "'A creed'",
+             "'The four noble truths'"],
+         "correct": 0,
+         "expl": "Part of his opening taunt, questioning her apparent aimlessness."},
+        {"q": "What position does this poem hold in the Book of the Sevens?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The second poem, following Uttarā (2nd)",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 7.1, continuing the Book of the Sevens."},
+        {"q": "Who does this poem say taught Cālā the Dhamma?",
+         "opts": [
+             "A follower of another creed",
+             "Paṭācārā",
+             "One born in the Sakyan clan, the unrivaled Buddha",
+             "No teacher is named"],
+         "correct": 2,
+         "expl": "Named directly in her reply's fourth verse."},
+    ],
+    marginalia=[
+        ("A taunt about doctrine", [
+            "not pleasure,",
+            "but rootlessness"
+        ]),
+        ("Other creeds, critiqued precisely", [
+            "reliance on views,",
+            "not understanding"
+        ]),
+        ("Beyond views, not another view", [
+            "a distinct",
+            "characterization"
+        ]),
+        ("A formula, a fourth time", [
+            "the same victory,",
+            "word for word"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig7.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-7.1.html">Thig 7.1 &mdash; Uttar&amacr; (2nd)</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-7.3.html">Thig 7.3 &mdash; Upac&amacr;l&amacr;</a> '
+        "&mdash; the next poem, sharing this poem's name and structure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 7.3 — Upacālā
+# --------------------------------------------------------------------------- #
+page(
+    7, 3, "Upac&amacr;l&amacr;", "Upac&amacr;l&amacr;",
+    meta_title="Thig 7.3 — Upacālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Upacālā's verses, closing the Book of the Sevens with a vivid "
+        "catalog of birth's dangers, answering Māra's case for "
+        "rebirth's pleasures. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Sevens &middot; Poem 3 of 3",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "the addressee is named only as Māra, the Wicked "
+                    "One"),
+        ("Speaker", "Two voices: Māra, arguing for the pleasures "
+                    "rebirth allows, then Upacālā's reply"),
+        ("Form", "Seven four-line verses, closing the Book of the "
+                 "Sevens"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "answers a case for rebirth with an unusually "
+                       "graphic catalog of its dangers"),
+    ],
+    why=(
+        "This poem closes the Book of the Sevens with a third variation "
+        "on Māra's confrontations in this book: here he argues directly "
+        "for rebirth itself, since &lsquo;when you're born, you get to "
+        "enjoy sensual pleasures&rsquo;. Upacālā's reply does not "
+        "dispute this claim abstractly; it answers with a specific, "
+        "vivid catalog of what birth actually exposes a being to."),
+    guide=[
+        ("A case made for rebirth, not against renunciation generally", [
+            "&lsquo;Why don't you approve of rebirth? When you're born, "
+            "you get to enjoy sensual pleasures. Enjoy erotic delights; "
+            "don't regret it later&rsquo; is a more specific argument "
+            "than Māra's usual appeal &mdash; rebirth itself as the "
+            "gateway to pleasure worth wanting."]),
+        ("A catalog of birth's dangers, unusually graphic", [
+            "&lsquo;Death comes to those who are born... the chopping "
+            "off of hands and feet, killing, caging, misery&rsquo; "
+            "answers Māra's case with specific, bodily images of harm "
+            "&mdash; among the most graphic catalogs of suffering "
+            "anywhere in this collection."]),
+        ("The Dhamma framed as transcending rebirth itself", [
+            "&lsquo;He taught me the Dhamma for transcending "
+            "rebirth&rsquo; gives this poem's own characterization of "
+            "the teaching's purpose &mdash; distinct from Thig 7.2's "
+            "&lsquo;going beyond views&rsquo;, though the two poems "
+            "otherwise share nearly identical structure."]),
+        ("A book closed, in the source text itself", [
+            "This poem's closing quatrain repeats the same "
+            "victory-over-Māra formula as Thig 3.7, 3.8, 6.3, and 7.2, "
+            "and bilara-data's underlying source marks the line "
+            "immediately after with &lsquo;Sattakanipāto niṭṭhito&rsquo;, "
+            "&lsquo;the Book of the Sevens is finished&rsquo;."]),
+    ],
+    terms=[
+        ("Upac&amacr;l&amacr;",
+         "this poem's speaker, whose reply to Māra catalogs birth's "
+         "dangers in unusually specific, bodily terms."),
+        ("j&amacr;ti",
+         "&ldquo;birth&rdquo; or rebirth &mdash; what Māra argues she "
+         "should not disapprove of, in his opening question."),
+        ("hatthap&amacr;d&amacr;na chedana&#7749;",
+         "&ldquo;the chopping off of hands and feet&rdquo; &mdash; one "
+         "of the specific dangers Upacālā names as following from "
+         "birth."),
+        ("j&amacr;tiy&amacr; samatikkama&#7749;",
+         "&ldquo;transcending rebirth&rdquo; &mdash; this poem's own "
+         "characterization of the Buddha's teaching, distinct from Thig "
+         "7.2's &lsquo;going beyond views&rsquo;."),
+        ("antaka",
+         "&ldquo;terminator&rdquo; or death itself &mdash; the word "
+         "closing this poem, addressed to Māra, shared with several "
+         "earlier confrontations."),
+    ],
+    text_intro=(
+        "The text in full: Māra's argument, and Upacālā's reply, "
+        "closing the Book of the Sevens. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig7.3:1.1-1.4"),
+        ("p", "&sect;2", "thig7.3:2.1-2.4"),
+        ("p", "&sect;3", "thig7.3:3.1-3.4"),
+        ("p", "&sect;4", "thig7.3:4.1-4.4"),
+        ("p", "&sect;5", "thig7.3:5.1-5.4"),
+        ("p", "&sect;6", "thig7.3:6.1-6.4"),
+        ("p", "&sect;7", "thig7.3:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What case does Māra make for rebirth, in this poem's opening?",
+         "opts": [
+             "That rebirth allows one to enjoy sensual pleasures",
+             "That rebirth is entirely painless",
+             "No case is made",
+             "That rebirth guarantees wealth"],
+         "correct": 0,
+         "expl": "A specific argument for pleasure as the gateway rebirth opens."},
+        {"q": "How does Upacālā's reply answer this argument?",
+         "opts": [
+             "By agreeing with Māra entirely",
+             "With a specific, graphic catalog of birth's dangers: death, dismemberment, killing, caging",
+             "By ignoring the question",
+             "With an abstract, general statement only"],
+         "correct": 1,
+         "expl": "One of the most graphic catalogs of suffering in this collection."},
+        {"q": "How does this poem characterize the purpose of the Buddha's teaching?",
+         "opts": [
+             "As a way to enjoy sensual pleasures more fully",
+             "As identical to 'going beyond views', Thig 7.2's phrase",
+             "As transcending rebirth",
+             "No characterization is given"],
+         "correct": 2,
+         "expl": "Distinct from Thig 7.2's framing, though the poems otherwise share structure."},
+        {"q": "What structural marker does bilara-data's underlying source place immediately after this poem?",
+         "opts": [
+             "No marker at all",
+             "A note naming the next book's first poem",
+             "'Sattakanipāto niṭṭhito' — 'the Book of the Sevens is finished'",
+             "A repeat of the poem's own text"],
+         "correct": 2,
+         "expl": "The same kind of bibliographic close seen at the end of earlier books."},
+        {"q": "What quatrain closes this poem, shared with Thig 3.7, 3.8, 6.3, and 7.2?",
+         "opts": [
+             "'Though subject to so many painful things...'",
+             "'Relishing is banished in every respect... you're beaten, terminator!'",
+             "'I go for refuge to that sage, the Buddha'",
+             "No closing quatrain is shared"],
+         "correct": 1,
+         "expl": "A fifth appearance of this collection's recurring victory formula."},
+        {"q": "What does 'jāti' mean?",
+         "opts": [
+             "'Birth' or rebirth — what Māra argues she should not disapprove of",
+             "'Hands and feet'",
+             "'The eightfold path'",
+             "'A creed'"],
+         "correct": 0,
+         "expl": "The central topic of Māra's argument in this poem."},
+        {"q": "How does this poem's structure compare to Thig 7.2's?",
+         "opts": [
+             "Entirely unrelated in every respect",
+             "This poem has no confrontation with Māra at all",
+             "Thig 7.2 has no reply from its speaker",
+             "Nearly identical in structure, though Māra's specific argument and the Dhamma's framing differ"],
+         "correct": 3,
+         "expl": "Two poems sharing a template, with distinct specific content."},
+        {"q": "What position does this poem hold in the Book of the Sevens?",
+         "opts": [
+             "The first poem",
+             "The third and last poem, closing the book",
+             "It stands outside this book",
+             "The second poem"],
+         "correct": 1,
+         "expl": "The final poem of three in the Book of the Sevens."},
+        {"q": "What does 'hatthapādāna chedanaṁ' name?",
+         "opts": [
+             "'The chopping off of hands and feet' — one of birth's dangers Upacālā names",
+             "A meditation technique",
+             "'Transcending rebirth'",
+             "A type of ordination"],
+         "correct": 0,
+         "expl": "Part of her specific, graphic catalog of suffering."},
+        {"q": "What does 'antaka' mean, as this poem's closing word?",
+         "opts": [
+             "'Birth'",
+             "'The four noble truths'",
+             "'A catalog'",
+             "'Terminator' or death itself, addressed to Māra"],
+         "correct": 3,
+         "expl": "Shared with several earlier confrontations with Māra in this collection."},
+    ],
+    marginalia=[
+        ("A case for rebirth itself", [
+            "pleasure, Māra says,",
+            "as the gateway"
+        ]),
+        ("A catalog, unusually graphic", [
+            "death, dismemberment,",
+            "killing, caging"
+        ]),
+        ("Transcending rebirth, named directly", [
+            "distinct from",
+            "Thig 7.2's framing"
+        ]),
+        ("A book, closed in the source", [
+            "'the Book of the Sevens",
+            "is finished'"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig7.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-7.2.html">Thig 7.2 &mdash; C&amacr;l&amacr;</a> '
+        "&mdash; the poem immediately before this one, sharing its "
+        "structure.",
+        '<a href="thig-8.1.html">Thig 8.1 &mdash; S&imacr;s&umacr;pac'
+        "&amacr;l&amacr;</a> &mdash; the next poem, opening the Book of "
+        "the Eights with a related name and structure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 8.1 — Sīsūpacālā
+# --------------------------------------------------------------------------- #
+page(
+    8, 1, "S&imacr;s&umacr;pac&amacr;l&amacr;", "S&imacr;s&umacr;pac"
+    "&amacr;l&amacr;",
+    meta_title="Thig 8.1 — Sīsūpacālā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Book of the Eights' single poem, Māra tempting with "
+        "nostalgia for past heavenly rebirth, answered by a vision of "
+        "the whole world ablaze. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Eights &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "the addressee is named only as Māra, the Wicked "
+                    "One"),
+        ("Speaker", "Two voices: Sīsūpacālā's own opening declaration, "
+                    "then Māra's tempting reply, then her extended "
+                    "response"),
+        ("Form", "Eight verses, mostly four lines, the entire Book of "
+                 "the Eights"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "third distinct strategy from Māra, answered "
+                       "with a vision of a world on fire"),
+    ],
+    why=(
+        "The Book of the Eights holds only one poem, and it completes a "
+        "third distinct approach from Māra across these two short "
+        "books. Sīsūpacālā opens by declaring the peace she has already "
+        "realized; Māra's reply, not a taunt but a temptation, names "
+        "five specific heavenly realms and urges her, &lsquo;set your "
+        "heart on such places, where you used to live&rsquo;. Her "
+        "extended answer meets nostalgia not with argument alone, but "
+        "with a vision of the entire world ablaze."),
+    guide=[
+        ("An opening declaration, then a third strategy from Māra", [
+            "&lsquo;A nun accomplished in ethics... would realize the "
+            "peaceful state&rsquo; is Sīsūpacālā's own opening "
+            "statement, not Māra's. His reply &mdash; &lsquo;there are "
+            "the gods of the thirty-three, and those of Yama... set "
+            "your heart on such places, where you used to live&rsquo; "
+            "&mdash; is his most specific temptation across this pair "
+            "of books, naming five realms and appealing to her own "
+            "prior existence in them."]),
+        ("Her reply, repeating his own list back at him", [
+            "Sīsūpacālā's extended response opens by restating the "
+            "identical five realms Māra just named, before dismissing "
+            "them together: &lsquo;time after time, life after life, "
+            "are governed by substantial reality... those who "
+            "transmigrate through birth and death&rsquo; &mdash; even "
+            "the most exalted heavens remain within the same cycle."]),
+        ("A world on fire, not an argument alone", [
+            "&lsquo;All the world is on fire, all the world is alight, "
+            "all the world is ablaze, all the world is rocking&rsquo; "
+            "answers nostalgia with a cosmic image rather than further "
+            "reasoning &mdash; one of the most vivid pictures of "
+            "instability anywhere in this collection."]),
+        ("The Dhamma named against that image directly", [
+            "&lsquo;The Buddha taught me the Dhamma, unshakable, "
+            "incomparable, not frequented by ordinary people&rsquo; sets "
+            "the teaching's stability directly against the burning, "
+            "rocking world just described &mdash; closing both this "
+            "poem and, with it, the Book of the Eights."]),
+    ],
+    terms=[
+        ("S&imacr;s&umacr;pac&amacr;l&amacr;",
+         "this poem's speaker, whose reply to Māra's nostalgia closes "
+         "the Book of the Eights."),
+        ("T&amacr;vati&#7749;s&amacr;",
+         "&ldquo;the gods of the thirty-three&rdquo;, the first of five "
+         "heavenly realms Māra names, urging her to set her heart on "
+         "them."),
+        ("sakk&amacr;ya",
+         "&ldquo;substantial reality&rdquo; or personal existence "
+         "&mdash; what Sīsūpacālā says even these heavenly beings have "
+         "not passed beyond."),
+        ("&amacr;d&imacr;pita loka",
+         "&ldquo;the world on fire&rdquo; &mdash; this poem's central "
+         "cosmic image, describing all existence as ablaze and rocking."),
+        ("akampiya atuliya",
+         "&ldquo;unshakable, incomparable&rdquo; &mdash; Sīsūpacālā's "
+         "own description of the Dhamma, set directly against that "
+         "burning world."),
+    ],
+    text_intro=(
+        "The text in full: Sīsūpacālā's opening declaration, Māra's "
+        "temptation, and her extended reply, the entire Book of the "
+        "Eights. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig8.1:1.1-1.4"),
+        ("p", "&sect;2", "thig8.1:2.1-2.6"),
+        ("p", "&sect;3", "thig8.1:3.1-4.4"),
+        ("p", "&sect;4", "thig8.1:5.1-5.4"),
+        ("p", "&sect;5", "thig8.1:6.1-6.4"),
+        ("p", "&sect;6", "thig8.1:7.1-7.4"),
+        ("p", "&sect;7", "thig8.1:8.1-8.4"),
+    ],
+    quiz=[
+        {"q": "What does Māra urge Sīsūpacālā to do, naming five heavenly realms?",
+         "opts": [
+             "Set her heart on such places, where she used to live",
+             "Abandon the Dhamma entirely",
+             "Return to lay life",
+             "Nothing specific is urged"],
+         "correct": 0,
+         "expl": "An appeal to nostalgia for her own prior existence in these realms."},
+        {"q": "How does Sīsūpacālā's reply begin?",
+         "opts": [
+             "By ignoring Māra's list entirely",
+             "By repeating the same five heavenly realms he just named",
+             "By naming entirely different realms",
+             "By refusing to answer"],
+         "correct": 1,
+         "expl": "Restating his own list before dismissing it."},
+        {"q": "What does Sīsūpacālā say about even these heavenly beings?",
+         "opts": [
+             "That they are governed by substantial reality, still transmigrating through birth and death",
+             "That they have fully transcended the cycle of existence",
+             "That they do not exist",
+             "Nothing is said about them"],
+         "correct": 0,
+         "expl": "Even the most exalted heavens remain within the same cycle."},
+        {"q": "What image does this poem use to answer Māra's nostalgia?",
+         "opts": [
+             "A gentle, calm garden",
+             "No image is used",
+             "The whole world on fire, alight, ablaze, and rocking",
+             "A peaceful ocean"],
+         "correct": 2,
+         "expl": "One of the most vivid pictures of instability in this collection."},
+        {"q": "How does Sīsūpacālā describe the Dhamma, in contrast to that image?",
+         "opts": [
+             "As equally unstable",
+             "As identical to the heavenly realms",
+             "As unshakable and incomparable",
+             "No description is given"],
+         "correct": 2,
+         "expl": "Stability set directly against a burning, rocking world."},
+        {"q": "How does Māra's approach to Sīsūpacālā differ from his approach to Cālā and Upacālā?",
+         "opts": [
+             "It does not differ at all",
+             "He does not speak to her at all",
+             "He offers her wealth instead",
+             "He appeals to nostalgia for her own past existence in named heavenly realms"],
+         "correct": 3,
+         "expl": "A third distinct strategy across this pair of short books."},
+        {"q": "How many poems does the Book of the Eights contain?",
+         "opts": [
+             "Eight",
+             "Three",
+             "Ten",
+             "Just one"],
+         "correct": 3,
+         "expl": "The shortest book in the Therigatha, alongside the single-poem Book of the Fours."},
+        {"q": "What does 'sakkāya' mean?",
+         "opts": [
+             "'Substantial reality' or personal existence, what even heavenly beings have not passed beyond",
+             "'The world on fire'",
+             "'Unshakable'",
+             "A specific heavenly realm's name"],
+         "correct": 0,
+         "expl": "Named as what governs beings 'time after time, life after life'."},
+        {"q": "What does this poem's title suggest about its speaker's relationship to Cālā and Upacālā?",
+         "opts": [
+             "No relationship is suggested by the names",
+             "A shared name pattern (Cālā, Upacālā, Sīsūpacālā) across two consecutive books",
+             "That she predates both of them by centuries",
+             "That she is unrelated to either poem"],
+         "correct": 1,
+         "expl": "A striking naming pattern this guide notes without asserting a specific family claim."},
+        {"q": "What does 'Tāvatiṁsā' name?",
+         "opts": [
+             "The Dhamma itself",
+             "A type of meditation",
+             "'The gods of the thirty-three' — the first of five heavenly realms Māra names",
+             "Sīsūpacālā's home village"],
+         "correct": 2,
+         "expl": "Part of Māra's specific, named temptation."},
+    ],
+    marginalia=[
+        ("Nostalgia, precisely named", [
+            "five realms,",
+            "'where you used to live'"
+        ]),
+        ("His own list, repeated back", [
+            "then dismissed",
+            "together"
+        ]),
+        ("A world on fire", [
+            "one of the most vivid",
+            "images in this collection"
+        ]),
+        ("Stability, named against instability", [
+            "unshakable,",
+            "incomparable"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig8.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-7.3.html">Thig 7.3 &mdash; Upac&amacr;l&amacr;</a> '
+        "&mdash; the poem immediately before this one, closing the Book "
+        "of the Sevens.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
