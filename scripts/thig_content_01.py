@@ -12239,6 +12239,220 @@ page(
         '<a href="thig-7.3.html">Thig 7.3 &mdash; Upac&amacr;l&amacr;</a> '
         "&mdash; the poem immediately before this one, closing the Book "
         "of the Sevens.",
+        '<a href="thig-9.1.html">Thig 9.1 &mdash; Va&#7693;&#7693;ha'
+        "&rsquo;s Mother</a> &mdash; the next poem, opening the Book of "
+        "the Nines.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 9.1 — Vaḍḍha's Mother
+# --------------------------------------------------------------------------- #
+page(
+    9, 1, "Va&#7693;&#7693;ham&amacr;t&amacr;", "Va&#7693;&#7693;ha"
+    "&rsquo;s Mother",
+    meta_title="Thig 9.1 — Vaḍḍha's Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Book of the Nines' single poem, a mother-son dialogue "
+        "whose second half continues, unclosed, into her son's own "
+        "poem in the Theragāthā. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Nines &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses state; "
+                    "a fragmentary closing attribution names the "
+                    "speaker"),
+        ("Speaker", "Two voices throughout: a mother addressing her son "
+                    "Vaḍḍha, and Vaḍḍha's own extended reply"),
+        ("Form", "Nine verses, mostly four lines, the entire Book of "
+                 "the Nines"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "sustained dialogue whose second half is shared, "
+                       "by the source text's own note, with a poem "
+                       "outside this collection entirely"),
+    ],
+    why=(
+        "This poem's title names its speaker only through her son: "
+        "&lsquo;Vaḍḍha's Mother&rsquo;, not by any name of her own. "
+        "Their exchange runs both directions at length &mdash; she "
+        "urges him toward the path, he marvels at her assurance, she "
+        "confirms her own complete attainment, and he then speaks at "
+        "length of the urgency her teaching struck in him and the "
+        "peace he found &mdash; verses that Bhikkhu Sujato's own note "
+        "identifies as continuing, without a closing quotation mark, "
+        "into Vaḍḍha's own poem in the Theragāthā, the companion "
+        "collection for monks."),
+    guide=[
+        ("A title naming her only through her son", [
+            "Every other poem in this collection so far names its "
+            "speaker by her own name or an epithet of her own qualities. "
+            "This one is different: &lsquo;Vaḍḍhamātā&rsquo;, "
+            "&lsquo;Vaḍḍha's Mother&rsquo;, identifies her purely "
+            "through her relationship to him."]),
+        ("A real exchange, not one address and a brief reply", [
+            "The mother's opening urging &mdash; &lsquo;Vaḍḍha, please "
+            "never ever get snarled in the world&rsquo; &mdash; draws "
+            "an actual reply: Vaḍḍha marvels that she speaks &lsquo;with "
+            "such assurance&rsquo; and wonders aloud whether she herself "
+            "has any entanglement left. She confirms directly: "
+            "&lsquo;not a jot or a skerrick... is found in me&rsquo;."]),
+        ("An excellent goad, and the son's own extended testimony", [
+            "&lsquo;Oh so excellent was the goad my mother spurred me "
+            "with!&rsquo; opens Vaḍḍha's own account of what her words "
+            "produced in him &mdash; a struck sense of &lsquo;righteous "
+            "urgency&rsquo;, sustained effort, and finally, in his own "
+            "words, &lsquo;I realized supreme peace&rsquo;."]),
+        ("A quotation deliberately left open, into another collection", [
+            "Sujato's own note on this poem's final line states "
+            "plainly: &lsquo;these verses continue in Thag 5.5, so I "
+            "leave off the close quote&rsquo; &mdash; confirming that "
+            "Vaḍḍha's own testimony here is shared, word for word, with "
+            "his own poem in the Theragāthā, not yet part of this "
+            "site's collection."]),
+    ],
+    terms=[
+        ("Va&#7693;&#7693;ham&amacr;t&amacr;",
+         "&ldquo;Vaḍḍha's Mother&rdquo; &mdash; this poem's title, "
+         "naming its speaker only through her son, unlike any other "
+         "poem in this collection so far."),
+        ("vanatha",
+         "&ldquo;entanglement&rdquo; or being &lsquo;snarled&rsquo; "
+         "&mdash; the central image both mother and son use repeatedly "
+         "throughout this exchange."),
+        ("dhammasa&#7749;vega",
+         "&ldquo;righteous urgency&rdquo; &mdash; the specific term "
+         "Vaḍḍha uses for what his mother's teaching struck into him."),
+        ("yogakkhema",
+         "&ldquo;sanctuary from the yoke&rdquo; &mdash; what Vaḍḍha "
+         "says he sought, once struck with that urgency."),
+        ("Thag 5.5",
+         "the poem in the Theragāthā, the companion collection for "
+         "monks, that Sujato's own note says this poem's closing verses "
+         "continue into."),
+    ],
+    text_intro=(
+        "The text in full: a mother's address, her son's reply, her "
+        "confirmation, and his own extended testimony, closing without "
+        "a formal quotation mark. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig9.1:1.1-3.4"),
+        ("p", "&sect;2", "thig9.1:4.1-4.4"),
+        ("p", "&sect;3", "thig9.1:5.1-6.4"),
+        ("p", "&sect;4", "thig9.1:7.1-9.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's title name its speaker by?",
+         "opts": [
+             "Her own personal name",
+             "An epithet describing her own qualities",
+             "Only her relationship to her son: 'Vaḍḍha's Mother'",
+             "A place name"],
+         "correct": 2,
+         "expl": "Unlike every other poem in this collection so far, which names speakers by their own name or qualities."},
+        {"q": "How does Vaḍḍha respond to his mother's opening urging?",
+         "opts": [
+             "He does not respond at all",
+             "He marvels at her assurance and wonders if she herself has any entanglement left",
+             "He rejects her advice outright",
+             "He asks her to stop speaking"],
+         "correct": 1,
+         "expl": "A genuine reply, not silence, opening a real exchange."},
+        {"q": "How does the mother answer her son's question about her own attainment?",
+         "opts": [
+             "She avoids the question",
+             "She confirms directly that not a jot of entanglement remains in her",
+             "She admits she still struggles",
+             "She changes the subject"],
+         "correct": 1,
+         "expl": "A complete, direct claim of her own attainment."},
+        {"q": "What image does Vaḍḍha use for his mother's teaching?",
+         "opts": [
+             "A gentle breeze",
+             "A locked door",
+             "An excellent goad that spurred him on",
+             "No image is used"],
+         "correct": 2,
+         "expl": "'Oh so excellent was the goad my mother spurred me with!'"},
+        {"q": "What does Sujato's own note say about this poem's closing verses?",
+         "opts": [
+             "That they are entirely original to this poem alone",
+             "That they continue, without a closing quote, into Vaḍḍha's own poem in the Theragāthā",
+             "That they are corrupted and unreadable",
+             "That they were added by a later editor"],
+         "correct": 1,
+         "expl": "A confirmed textual connection to the companion collection for monks."},
+        {"q": "What does 'dhammasaṁvega' mean?",
+         "opts": [
+             "'Entanglement'",
+             "'A goad'",
+             "'Supreme peace'",
+             "'Righteous urgency' — what Vaḍḍha says his mother's words struck into him"],
+         "correct": 3,
+         "expl": "His own term for the effect of her teaching."},
+        {"q": "What does Vaḍḍha say he achieved by the poem's end?",
+         "opts": [
+             "Nothing is achieved",
+             "A return to lay life",
+             "Supreme peace",
+             "A promise to try again later"],
+         "correct": 2,
+         "expl": "'I realized supreme peace' — his own stated result."},
+        {"q": "What does 'vanatha' mean?",
+         "opts": [
+             "'Entanglement' or being 'snarled' — the central image both speakers use repeatedly",
+             "'A goad'",
+             "'The Theragāthā'",
+             "'Righteous urgency'"],
+         "correct": 0,
+         "expl": "Used by both mother and son throughout this exchange."},
+        {"q": "How many poems does the Book of the Nines contain?",
+         "opts": [
+             "Just one",
+             "Nine",
+             "Three",
+             "Five"],
+         "correct": 0,
+         "expl": "Another of this collection's single-poem books, like the Fours, Sevens, and Eights before it."},
+        {"q": "What makes this poem's structure distinctive compared to most others in this collection?",
+         "opts": [
+             "It contains no dialogue at all",
+             "It is identical in structure to Thig 6.1",
+             "The mother never speaks in her own voice",
+             "It gives the son's own voice extended space, not just a brief reply, within a poem attributed to his mother"],
+         "correct": 3,
+         "expl": "A substantial male relative's own testimony, embedded within a nun's attributed poem."},
+    ],
+    marginalia=[
+        ("A name, given only through her son", [
+            "unlike every other",
+            "poem so far"
+        ]),
+        ("A real exchange, both ways", [
+            "he questions,",
+            "she confirms"
+        ]),
+        ("An excellent goad", [
+            "his own image",
+            "for her teaching"
+        ]),
+        ("Left open, into another collection", [
+            "continuing, unclosed,",
+            "into Thag 5.5"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig9.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-8.1.html">Thig 8.1 &mdash; S&imacr;s&umacr;pac'
+        "&amacr;l&amacr;</a> &mdash; the poem immediately before this "
+        "one, closing the Book of the Eights.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
