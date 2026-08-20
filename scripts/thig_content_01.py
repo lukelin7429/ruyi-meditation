@@ -14203,6 +14203,220 @@ page(
         '<a href="thig-11.1.html">Thig 11.1 &mdash; Uppalava&#7751;&#7751;'
         "&amacr;</a> &mdash; Subhā's own named teacher's poem, earlier "
         "in this collection.",
+        '<a href="thig-14.1.html">Thig 14.1 &mdash; Subh&amacr; of '
+        "J&imacr;vaka&rsquo;s Mango Grove</a> &mdash; the next poem, "
+        "opening the Book of the Thirties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 14.1 — Subhā of Jīvaka's Mango Grove
+# --------------------------------------------------------------------------- #
+page(
+    14, 1, "Subh&amacr; J&imacr;vakambavanik&amacr;", "Subh&amacr; of "
+    "J&imacr;vaka&rsquo;s Mango Grove",
+    meta_title="Thig 14.1 — Subhā of Jīvaka's Mango Grove | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Book of the Thirties' single poem, an escalating "
+        "roadside temptation answered with one of this collection's "
+        "most startling acts. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Thirties &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A path through Jīvaka's mango grove, where a man "
+                    "blocks Subhā's way"),
+        ("Speaker", "A man attempting to seduce Subhā, and her own "
+                    "extended reply"),
+        ("Form", "Thirty-four verses, the entire Book of the Thirties"),
+        ("Length", "under 4 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of this collection's most famous and "
+                       "startling single acts"),
+    ],
+    why=(
+        "This poem opens the Book of the Thirties with a second Subhā "
+        "&mdash; distinguished from Thig 13.5's smith's daughter only "
+        "by the place named in her fuller title. A man blocks her path "
+        "through a mango grove and presses an elaborate, sustained "
+        "seduction, fixating especially on her eyes. When reasoned "
+        "argument fails to make him leave, Subhā answers with an act "
+        "that has made this one of the most discussed poems in the "
+        "entire collection."),
+    guide=[
+        ("A second Subhā, distinguished only by place", [
+            "This poem's fuller title, &lsquo;Subhā of Jīvaka's Mango "
+            "Grove&rsquo;, marks her as a different individual from "
+            "Thig 13.5's &lsquo;Subhā, the Smith's Daughter&rsquo;, "
+            "closing the book just before this one &mdash; two women "
+            "sharing a name, one book apart."]),
+        ("A sustained, escalating seduction", [
+            "The man's temptation runs far longer than most in this "
+            "collection: spring blossoms, jewels, silk clothing, a "
+            "scented bed &mdash; and a repeated fixation specifically on "
+            "her eyes, &lsquo;seeing them, erotic delight swells in me "
+            "all the more&rsquo;, said nearly word for word twice."]),
+        ("Reasoned argument, then an act beyond argument", [
+            "Subhā first answers with a sustained philosophical "
+            "rebuttal &mdash; the body as illusion, a painted doll, "
+            "parts that could not hold together without borrowed "
+            "conditions &mdash; and when this fails to end the "
+            "confrontation, she plucks out her own eye and holds it "
+            "out to him directly: &lsquo;Come now, take this "
+            "eye&rsquo;."]),
+        ("Instant remorse, then restoration", [
+            "The man's lust vanishes immediately, and he begs her "
+            "forgiveness, comparing what he attempted to &lsquo;holding "
+            "on to a blazing fire&rsquo;. Subhā, released, goes "
+            "directly to the Buddha &mdash; and on seeing him, her eye "
+            "is restored exactly as it was before, closing this poem "
+            "and the entire Book of the Thirties."]),
+    ],
+    terms=[
+        ("Subh&amacr; J&imacr;vakambavanik&amacr;",
+         "&ldquo;Subhā of Jīvaka's Mango Grove&rdquo; &mdash; this "
+         "poem's speaker, distinguished by place from Thig 13.5's "
+         "Subhā, the smith's daughter."),
+        ("dhuttaka",
+         "&ldquo;a rascal&rdquo; &mdash; the unnamed man who blocks "
+         "Subhā's path and presses his seduction."),
+        ("kinnar&imacr;",
+         "a mythical woodland nymph-spirit, used by the man as a "
+         "flattering comparison for Subhā's eyes &mdash; per Sujato's "
+         "note, the only appearance of this figure in early Pali "
+         "quite this way."),
+        ("c&amacr;rudassan&amacr;",
+         "&ldquo;the fair-eyed lady&rdquo; &mdash; Subhā's own epithet "
+         "at the poem's climactic turn."),
+        ("uddha&#7789;asall&amacr;",
+         "&ldquo;the dart pulled out&rdquo; &mdash; Subhā's own "
+         "description of her freedom, stated just before the "
+         "confrontation reaches its peak."),
+    ],
+    text_intro=(
+        "The text in full: the confrontation, Subhā's extended reply, "
+        "the poem's central act, and its resolution. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig14.1:1.1-4.4"),
+        ("p", "&sect;2", "thig14.1:5.1-9.4"),
+        ("p", "&sect;3", "thig14.1:10.1-14.4"),
+        ("p", "&sect;4", "thig14.1:15.1-18.4"),
+        ("p", "&sect;5", "thig14.1:19.1-24.4"),
+        ("p", "&sect;6", "thig14.1:25.1-30.4"),
+        ("p", "&sect;7", "thig14.1:31.1-34.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's fuller title distinguish Subhā from?",
+         "opts": [
+             "Nothing — the title is generic",
+             "Thig 13.5's Subhā, the smith's daughter, by naming her specific place",
+             "A male disciple of the same name",
+             "The poem asserts they are the same person"],
+         "correct": 1,
+         "expl": "Two women sharing a name, one book apart in this collection."},
+        {"q": "What does the man's seduction include, across many verses?",
+         "opts": [
+             "A brief, single request",
+             "No specific appeals are made",
+             "Only a threat of violence",
+             "Spring blossoms, jewels, silk clothing, and a scented bed, among other appeals"],
+         "correct": 3,
+         "expl": "One of the most sustained temptations in this collection."},
+        {"q": "What does the man repeatedly fixate on, saying nearly the same words twice?",
+         "opts": [
+             "Her voice",
+             "Her hands",
+             "Her eyes",
+             "Her family's wealth"],
+         "correct": 2,
+         "expl": "'Seeing them, erotic delight swells in me all the more.'"},
+        {"q": "What does Subhā do when reasoned argument fails to end the confrontation?",
+         "opts": [
+             "She flees the scene",
+             "She calls for help from others",
+             "She plucks out her own eye and offers it to him directly",
+             "She agrees to his request"],
+         "correct": 2,
+         "expl": "One of the most startling single acts in this collection."},
+        {"q": "How does the man respond to this act?",
+         "opts": [
+             "He is unmoved",
+             "His lust vanishes immediately, and he begs her forgiveness",
+             "He becomes angrier",
+             "He does not react at all"],
+         "correct": 1,
+         "expl": "An immediate, complete reversal, comparing his attempt to grasping a blazing fire."},
+        {"q": "What happens to Subhā's eye after she is released and goes to the Buddha?",
+         "opts": [
+             "It remains as it was",
+             "Nothing further happens",
+             "It is restored exactly as before, on seeing him",
+             "She receives a replacement eye from another source"],
+         "correct": 2,
+         "expl": "Closing the poem, and the entire Book of the Thirties, on this resolution."},
+        {"q": "What philosophical argument does Subhā offer before her climactic act?",
+         "opts": [
+             "None — she offers no argument at all",
+             "That the man is correct and she should reconsider",
+             "A purely emotional appeal only",
+             "That the body is like a painted doll, held together only by borrowed conditions"],
+         "correct": 3,
+         "expl": "A sustained rebuttal, offered before the confrontation's turning point."},
+        {"q": "What does 'dhuttaka' mean?",
+         "opts": [
+             "'A rascal' — the unnamed man who blocks Subhā's path",
+             "'The fair-eyed lady'",
+             "'A mango grove'",
+             "'A dart pulled out'"],
+         "correct": 0,
+         "expl": "Named directly in the poem's opening line."},
+        {"q": "What structural marker does bilara-data's underlying source place immediately after this poem?",
+         "opts": [
+             "No marker at all",
+             "'Tiṁsanipāto niṭṭhito' — 'the Book of the Thirties is finished'",
+             "A note naming the next book's first poem",
+             "A repeat of the poem's own text"],
+         "correct": 1,
+         "expl": "This poem is both the book's only poem and its close."},
+        {"q": "What does 'kinnarī' refer to?",
+         "opts": [
+             "A mythical woodland nymph-spirit, used as a flattering comparison for Subhā's eyes",
+             "'The fair-eyed lady'",
+             "A type of monastic robe",
+             "The name of the mango grove"],
+         "correct": 0,
+         "expl": "Per Sujato's note, the only appearance of this figure in early Pali quite this way."},
+    ],
+    marginalia=[
+        ("A second Subhā, one book later", [
+            "distinguished",
+            "only by place"
+        ]),
+        ("A seduction, sustained and escalating", [
+            "spring, jewels,",
+            "a scented bed"
+        ]),
+        ("Beyond argument, an act", [
+            "'come now,",
+            "take this eye'"
+        ]),
+        ("Remorse, then restoration", [
+            "the eye returned,",
+            "seeing the Buddha"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig14.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-13.5.html">Thig 13.5 &mdash; Subh&amacr;, the '
+        "Smith&rsquo;s Daughter</a> &mdash; the poem immediately before "
+        "this one, sharing this poem's speaker's name.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
