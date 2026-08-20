@@ -5182,3 +5182,894 @@ page(
         "chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.31 — Bhūtasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 31, "Bhūta", "What Has Come to Be",
+    meta_title="SN 12.31 — What Has Come to Be | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhūtasutta — opening Kaḷārakhattiyavagga, Sāriputta's "
+        "three silences give way to a precise unpacking of an ancient "
+        "verse from the Pārāyanavagga, distinguishing the trainee "
+        "from the fully freed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and Venerable Sāriputta"),
+        ("Form", "A terse verse quoted, met with silence three "
+                 "times, then unpacked in careful detail once the "
+                 "question is reframed"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new chapter by reaching back to an "
+                       "older text"),
+    ],
+    why=(
+        "The Buddha quotes a terse verse from the Pārāyanavagga, the "
+        "closing chapter of the Sutta Nipāta, and asks Sāriputta to "
+        "explain its detailed meaning. Three times Sāriputta stays "
+        "silent. Only when the Buddha reframes the question directly "
+        "&mdash; do you see that this has come to be? &mdash; does "
+        "Sāriputta answer, unpacking the verse's cryptic reference to "
+        "trainees and those who have appraised the teaching into a "
+        "precise threefold analysis: seeing what has come to be, "
+        "seeing what it depends on for its origin, and seeing that "
+        "it will cease when that dependency ceases. This distinction, "
+        "applied at two depths, separates the trainee still "
+        "practicing from the one already fully freed."),
+    guide=[
+        ("An old verse, given new commentary", [
+            "Rather than teaching something entirely new, this "
+            "discourse takes a genuinely older text &mdash; a verse "
+            "from the Pārāyanavagga &mdash; and has Sāriputta supply "
+            "the detailed explanation its terse original language "
+            "leaves compressed."]),
+        ("Three silences, left honestly unexplained", [
+            "The text doesn't say why Sāriputta stays silent three "
+            "times before answering; this reading guide doesn't "
+            "invent a motive for it, whether caution, humility, or "
+            "genuine uncertainty, and leaves the silence as the "
+            "source presents it."]),
+        ("A question reframed, not simply repeated", [
+            "Rather than asking a fourth time in the same words, the "
+            "Buddha shifts to a more direct, concrete question "
+            "&mdash; do you see that this has come to be? &mdash; and "
+            "this reframing is what finally draws out Sāriputta's "
+            "answer."]),
+        ("A threefold pattern applied at two distinct depths", [
+            "The same three-part seeing &mdash; what has come to be, "
+            "its fuel, and its cessation &mdash; is applied first to "
+            "describe a trainee still practicing toward "
+            "disillusionment, and then again, in slightly stronger "
+            "language, to describe one who has already appraised the "
+            "teaching and is freed."]),
+        ("Confirmation given word for word", [
+            "The Buddha doesn't merely approve of Sāriputta's answer "
+            "in passing; he repeats it in full, affirming that this "
+            "is exactly how the verse's brief statement should be "
+            "understood in detail."]),
+    ],
+    terms=[
+        ("saṅkhātadhammāse&hellip; sekkhā puthū idha",
+         "&ldquo;those who have appraised the teaching&hellip; many "
+         "kinds of trainees&rdquo; &mdash; the Pārāyanavagga verse's "
+         "own compressed vocabulary, quoted before being unpacked."),
+        ("tuṇhī ahosi",
+         "&ldquo;kept silent&rdquo; &mdash; Sāriputta's repeated "
+         "response, given three times before he finally answers."),
+        ("bhūtamidanti&hellip; yathābhūtaṁ sammappaññāya passati",
+         "&ldquo;do you see that this has come to be?&hellip; truly "
+         "sees with right wisdom&rdquo; &mdash; the Buddha's "
+         "reframed, more direct question that finally draws out an "
+         "answer."),
+        ("tadāhārasambhavaṁ&hellip; tadāhāranirodhā",
+         "&ldquo;originated with that as fuel&hellip; when that fuel "
+         "ceases&rdquo; &mdash; the threefold analytical structure "
+         "applied to what has come to be."),
+        ("sekho&hellip; saṅkhātadhammo",
+         "&ldquo;trainee&hellip; one who has appraised the "
+         "teaching&rdquo; &mdash; the two levels distinguished, the "
+         "second marked by complete freedom through non-grasping."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Kaḷārakhattiyavagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.31:1.1-1.3"),
+        ("p", "&sect;2", "sn12.31:2.1-3.1"),
+        ("p", "&sect;3", "sn12.31:3.2-6.2"),
+        ("p", "&sect;4", "sn12.31:7.1-7.8"),
+        ("p", "&sect;5", "sn12.31:8.1-8.9"),
+        ("p", "&sect;6", "sn12.31:9.1-10.1"),
+        ("p", "&sect;7", "sn12.31:11.1-11.7"),
+        ("p", "&sect;8", "sn12.31:12.1-14.1"),
+    ],
+    quiz=[
+        {"q": "Where does the verse the Buddha quotes to Sāriputta originally come from?",
+         "opts": [
+             "The Pārāyanavagga, the closing chapter of the Sutta Nipāta",
+             "A verse composed by Sāriputta himself for this occasion",
+             "An earlier discourse in this same saṃyutta",
+             "The verse has no identified source"],
+         "correct": 0,
+         "expl": "Reaching back to a genuinely older text for new commentary."},
+        {"q": "How many times does Sāriputta stay silent before answering?",
+         "opts": [
+             "Three times",
+             "Once",
+             "He never stays silent; he answers immediately",
+             "Five times"],
+         "correct": 0,
+         "expl": "A notable narrative beat this reading guide leaves unexplained."},
+        {"q": "Does this reading guide invent a reason for Sāriputta's silence?",
+         "opts": [
+             "No — it leaves the silence honestly unexplained, as the source presents it",
+             "Yes, it claims Sāriputta was asleep",
+             "Yes, it claims Sāriputta was testing the Buddha",
+             "Yes, it claims the silence was a scribal error"],
+         "correct": 0,
+         "expl": "An honest refusal to fill a gap the text itself leaves open."},
+        {"q": "What question finally draws out Sāriputta's answer?",
+         "opts": [
+             "\"Do you see that this has come to be?\" — a more direct reframing",
+             "The exact same question repeated a fourth time",
+             "A question about an entirely different topic",
+             "The Buddha never asks a further question; Sāriputta volunteers the answer"],
+         "correct": 0,
+         "expl": "A shift in approach, not mere repetition."},
+        {"q": "What threefold pattern does Sāriputta's answer apply?",
+         "opts": [
+             "Seeing what has come to be, its fuel, and its cessation",
+             "Seeing the past, present, and future separately",
+             "Seeing the four noble truths as a single unit",
+             "No pattern is applied; the answer is unstructured"],
+         "correct": 0,
+         "expl": "The same three-part seeing applied at two depths of understanding."},
+        {"q": "What distinguishes a trainee from one who has appraised the teaching, in this discourse?",
+         "opts": [
+             "The trainee still practices toward freedom; the one who has appraised it is already freed",
+             "The trainee is younger in age",
+             "The trainee has taken fewer vows",
+             "There is no meaningful distinction between the two"],
+         "correct": 0,
+         "expl": "Two depths of the same threefold seeing, one still in progress, one complete."},
+        {"q": "How does the Buddha respond to Sāriputta's explanation?",
+         "opts": [
+             "He repeats it in full, confirming it word for word",
+             "He rejects it as incomplete",
+             "He offers a completely different explanation instead",
+             "He declines to comment on it"],
+         "correct": 0,
+         "expl": "Full, explicit confirmation, not passing approval."},
+        {"q": "What is \"fuel\" (āhāra) used to describe in this discourse?",
+         "opts": [
+             "What something has come to be dependent on for its origin",
+             "Literal food eaten by monks",
+             "A type of ritual offering",
+             "The discourse doesn't use this term at all"],
+         "correct": 0,
+         "expl": "A term already introduced in SN 12.11, now applied more generally."},
+        {"q": "Who are the only two speakers in this discourse?",
+         "opts": [
+             "The Buddha and Sāriputta",
+             "The Buddha and Ānanda",
+             "Sāriputta and Kaḷāra the Aristocrat",
+             "The Buddha and a group of unnamed monks"],
+         "correct": 0,
+         "expl": "A direct exchange between teacher and disciple."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "Near Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The setting opening this fourth chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("An old verse, freshly unpacked", [
+            "quoted from the Pārāyanavagga &mdash;",
+            "its compression given room to breathe",
+        ]),
+        ("Three silences, left as they are", [
+            "no invented reason supplied &mdash;",
+            "the gap honestly left open",
+        ]),
+        ("A question reshaped, not repeated", [
+            "\"do you see this has come to be?\" &mdash;",
+            "directness where repetition had failed",
+        ]),
+        ("Two depths, one threefold pattern", [
+            "trainee, and one already freed &mdash;",
+            "the same seeing, carried further",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.31/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.30.html">SN 12.30 &middot; Ascetics and Brahmins (2nd)</a> '
+        "&mdash; the discourse closing Dasabalavagga, immediately "
+        "before this one.",
+        '<a href="sn-12.32.html">SN 12.32 &middot; With Kaḷāra the Aristocrat</a> '
+        "&mdash; the next discourse, where Sāriputta's own attainment "
+        "is tested and confirmed in vivid, dramatic detail.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.32 — Kaḷārasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 32, "Kaḷāra", "With Kaḷāra the Aristocrat",
+    meta_title="SN 12.32 — With Kaḷāra the Aristocrat | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kaḷārasutta — news of one monk's quiet departure sets up "
+        "another's understated declaration, tested by the Buddha "
+        "question by question until Sāriputta's own confident "
+        "seven-day boast. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Kaḷāra the Aristocrat, Sāriputta, the Buddha, "
+                     "and a group of mendicants"),
+        ("Form", "A narrated episode in three movements &mdash; a "
+                 "quiet exchange, a rigorous interrogation, and a "
+                 "closing boast confirmed as genuine"),
+        ("Length", "~7 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "one of this saṃyutta's most vivid, "
+                       "characterful discourses"),
+    ],
+    why=(
+        "This discourse opens with news that could easily read as "
+        "discouraging: Phagguna, the monk who once questioned the "
+        "Buddha about who consumes consciousness as fuel back in SN "
+        "12.12, has disrobed and returned to lay life. Sāriputta's "
+        "response is cool and understated, and when pressed about his "
+        "own progress, he answers just as indirectly &mdash; no "
+        "formal declaration, just two spare phrases: no uncertainty, "
+        "no doubt. What follows is the Buddha testing that "
+        "understatement rigorously, question by question, until "
+        "Sāriputta closes with a genuinely confident claim: he could "
+        "answer the same questions, in ever-different words, for "
+        "seven full days and nights."),
+    guide=[
+        ("A departure setting up a very different outcome", [
+            "News of Phagguna's disrobing isn't simply background; it "
+            "frames everything that follows by contrast, one monk's "
+            "quiet departure from the training set directly against "
+            "another's quiet but unmistakable attainment within it."]),
+        ("A declaration made without declaring", [
+            "When Kaḷāra asks Sāriputta directly whether he has found "
+            "solace in the teaching, Sāriputta doesn't use anything "
+            "resembling the standard formula for announcing "
+            "enlightenment; his answer is just two spare phrases, no "
+            "uncertainty and no doubt."]),
+        ("A report that outpaces what was actually said", [
+            "Kaḷāra rushes to tell the Buddha that Sāriputta has "
+            "formally declared enlightenment in the standard words, "
+            "when Sāriputta never actually used that formula at "
+            "all &mdash; a small but meaningful gap between what was "
+            "said and how it was reported."]),
+        ("An interrogation that tests substance, not phrasing", [
+            "Rather than correcting Kaḷāra's misreport, the Buddha "
+            "questions Sāriputta directly and rigorously, tracing "
+            "back through the chain link by link and asking exactly "
+            "how he knows what he claims to know &mdash; testing "
+            "whether the understanding is genuine, regardless of what "
+            "words were or weren't used to express it."]),
+        ("A boast made in private, then confirmed in public", [
+            "Sāriputta's remarkable claim &mdash; that he could "
+            "answer the same question in different words for seven "
+            "days and nights straight &mdash; is made privately to "
+            "the other monks after the Buddha has already left, and "
+            "only becomes public when Kaḷāra reports it back; the "
+            "Buddha's confirmation that this is no exaggeration closes "
+            "the discourse."]),
+    ],
+    terms=[
+        ("sikkhaṁ paccakkhāya hīnāyāvatto",
+         "&ldquo;resigned the training and returned to a lesser "
+         "life&rdquo; &mdash; the news of Phagguna's disrobing, "
+         "opening the discourse by contrast."),
+        ("na khvāhaṁ kaṅkhāmi&hellip; na vicikicchāmi",
+         "&ldquo;I have no uncertainty&hellip; I have no doubt&rdquo; "
+         "&mdash; Sāriputta's understated, indirect response when "
+         "asked about his own attainment."),
+        ("na kho, bhante, etehi padehi etehi byañjanehi attho vutto",
+         "&ldquo;I did not state the matter in these words and "
+         "phrases&rdquo; &mdash; Sāriputta's insistence that Kaḷāra's "
+         "report used language he himself never actually spoke."),
+        ("yaṁ kiñci vedayitaṁ taṁ dukkhasmiṁ",
+         "&ldquo;suffering includes whatever is felt&rdquo; &mdash; "
+         "the Buddha's compact restatement of Sāriputta's reasoning "
+         "on the impermanence of feeling."),
+        ("divasañcepi maṁ bhagavā&hellip; satta rattindivānipāhaṁ byākareyyaṁ",
+         "&ldquo;even for seven days and nights I could answer in "
+         "different words and ways&rdquo; &mdash; Sāriputta's "
+         "confident private boast, confirmed by the Buddha as his "
+         "genuine &ldquo;lion's roar.&rdquo;"),
+    ],
+    text_intro=(
+        "The discourse in full, one of this saṃyutta's most vivid "
+        "and characterful. Several passages repeating earlier content "
+        "are elided in the source exactly as bilara-data preserves "
+        "them. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.32:1.2-1.5"),
+        ("p", "&sect;2", "sn12.32:2.1-4.1"),
+        ("p", "&sect;3", "sn12.32:5.1-5.3"),
+        ("p", "&sect;4", "sn12.32:6.1-6.12"),
+        ("p", "&sect;5", "sn12.32:7.1-8.8"),
+        ("p", "&sect;6", "sn12.32:9.1-11.10"),
+        ("p", "&sect;7", "sn12.32:12.1-13.3"),
+        ("p", "&sect;8", "sn12.32:14.1-15.5"),
+        ("p", "&sect;9", "sn12.32:16.1-16.17"),
+        ("p", "&sect;10", "sn12.32:17.1-17.13"),
+        ("p", "&sect;11", "sn12.32:18.1-18.9"),
+    ],
+    quiz=[
+        {"q": "What news opens this discourse?",
+         "opts": [
+             "That the monk Phagguna has disrobed and returned to lay life",
+             "That a great battle has ended",
+             "That the Buddha is gravely ill",
+             "That a new monastery has been built"],
+         "correct": 0,
+         "expl": "Setting up a deliberate contrast with what follows."},
+        {"q": "How does Sāriputta answer when Kaḷāra asks about his own progress?",
+         "opts": [
+             "Indirectly — just two spare phrases, no uncertainty and no doubt",
+             "With the full, formal declaration of enlightenment",
+             "By refusing to answer at all",
+             "By claiming he has made no progress whatsoever"],
+         "correct": 0,
+         "expl": "An understated declaration, not the standard formula."},
+        {"q": "What does Kaḷāra report to the Buddha about Sāriputta?",
+         "opts": [
+             "That Sāriputta formally declared enlightenment in the standard words, though he hadn't",
+             "That Sāriputta had also disrobed",
+             "That Sāriputta refused to speak with him",
+             "Nothing; Kaḷāra never speaks to the Buddha in this discourse"],
+         "correct": 0,
+         "expl": "A gap between what was actually said and how it was reported."},
+        {"q": "How does Sāriputta respond when the Buddha asks him to confirm the declaration?",
+         "opts": [
+             "He says he didn't state the matter in those exact words and phrases",
+             "He confirms he used exactly those words",
+             "He denies any attainment at all",
+             "He refuses to respond to the Buddha"],
+         "correct": 0,
+         "expl": "Insisting on the gap between the report and his own actual words."},
+        {"q": "How does the Buddha respond to this insistence on precise wording?",
+         "opts": [
+             "He says however a gentleman declares enlightenment, it should be regarded as such",
+             "He agrees Sāriputta has not actually attained anything",
+             "He dismisses the whole matter as unimportant",
+             "He punishes Sāriputta for imprecise speech"],
+         "correct": 0,
+         "expl": "Substance over exact phrasing, while still proceeding to test the substance itself."},
+        {"q": "What method does the Buddha use to test Sāriputta's understanding?",
+         "opts": [
+             "A series of hypothetical questions tracing back through the chain link by link",
+             "A written examination",
+             "A public debate with other monks",
+             "No testing occurs; the Buddha simply accepts the claim"],
+         "correct": 0,
+         "expl": "Rigorous questioning of substance, not just acceptance of a claim."},
+        {"q": "What compact restatement does the Buddha offer for Sāriputta's reasoning about feeling?",
+         "opts": [
+             "\"Suffering includes whatever is felt\"",
+             "\"Feeling is entirely separate from suffering\"",
+             "\"Only painful feeling is suffering\"",
+             "No restatement is offered"],
+         "correct": 0,
+         "expl": "A briefer version of the same point about feeling's impermanence."},
+        {"q": "What confident claim does Sāriputta make privately to the other monks?",
+         "opts": [
+             "That he could answer the same question in different words for seven days and nights",
+             "That he intends to disrobe like Phagguna",
+             "That he doubts his own attainment after all",
+             "That he will never speak of this matter again"],
+         "correct": 0,
+         "expl": "A remarkable claim of total command over the teaching's underlying principle."},
+        {"q": "How does the Buddha respond when Kaḷāra reports Sāriputta's boast?",
+         "opts": [
+             "He confirms it as true — Sāriputta has clearly penetrated the principle of the teaching",
+             "He rebukes Sāriputta for arrogance",
+             "He declines to comment",
+             "He says the claim is exaggerated"],
+         "correct": 0,
+         "expl": "Full confirmation, calling it a genuine \"lion's roar\" rather than a boast."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting for this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A departure, framing a very different story", [
+            "one monk leaves, quietly &mdash;",
+            "another's attainment set against it",
+        ]),
+        ("A declaration without the formula", [
+            "\"no uncertainty... no doubt\" &mdash;",
+            "understated, not the standard words",
+        ]),
+        ("A report ahead of what was said", [
+            "Kaḷāra's account outpacing Sāriputta's own &mdash;",
+            "substance tested regardless",
+        ]),
+        ("A boast made private, confirmed public", [
+            "seven days and nights, in different words &mdash;",
+            "the Buddha calling it genuine",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.32/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.31.html">SN 12.31 &middot; What Has Come to Be</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.12.html">SN 12.12 &middot; Phagguna of the Top-Knot</a> '
+        "&mdash; the earlier discourse featuring the monk whose "
+        "disrobing opens this one.",
+        '<a href="sn-12.33.html">SN 12.33 &middot; Grounds for Knowledge</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.33 — Ñāṇavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 33, "Ñāṇavatthu", "Grounds for Knowledge",
+    meta_title="SN 12.33 — Grounds for Knowledge | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ñāṇavatthusutta — forty-four specific grounds for "
+        "knowledge, and a distinction between direct knowledge of "
+        "the teaching and inferential knowledge extending it across "
+        "all time. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A numbered enumeration of knowledge-grounds, "
+                 "followed by a distinction between two kinds of "
+                 "knowing"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "introduces a genuinely new epistemological "
+                       "distinction into this book's terminology"),
+    ],
+    why=(
+        "This discourse names a precise figure &mdash; forty-four "
+        "grounds for knowledge, eleven links each examined fourfold "
+        "&mdash; but its real contribution lies in a distinction "
+        "introduced partway through: knowledge of the teaching "
+        "(direct, present understanding of a given link) is separated "
+        "from inferential knowledge (the further step of recognizing "
+        "that whoever understood this in the past understood it "
+        "exactly the same way, and whoever will understand it in the "
+        "future will understand it exactly the same way too). "
+        "Genuine mastery, the discourse insists, requires both kinds "
+        "purified together, not direct insight alone."),
+    guide=[
+        ("A precise count, not a loose estimate", [
+            "The discourse names forty-four specifically, not "
+            "\"many\" or \"numerous\"; eleven links, each examined "
+            "through the same fourfold lens of thing, origin, "
+            "cessation, and path, giving the number its exact "
+            "structural basis."]),
+        ("Two kinds of knowledge distinguished, not treated as one", [
+            "Rather than describing understanding as a single "
+            "achievement, the discourse separates knowledge of the "
+            "teaching &mdash; direct comprehension of a link here and "
+            "now &mdash; from inferential knowledge, a further step "
+            "extending that comprehension across time."]),
+        ("Inference reaching both backward and forward", [
+            "The inferential knowledge described isn't limited to "
+            "confirming the past; it extends with equal confidence "
+            "into the future, claiming that anyone who will come to "
+            "understand this link will understand it in exactly the "
+            "same way, not a different one."]),
+        ("Purification required of both kinds together", [
+            "The discourse doesn't treat either kind of knowledge as "
+            "sufficient alone; genuine accomplishment requires both "
+            "knowledge of the teaching and inferential knowledge "
+            "purified and cleansed together."]),
+        ("The same closing titles, now earned through two knowledges", [
+            "The nine honorific titles already familiar from SN 12.27 "
+            "reappear here, but this time explicitly earned through "
+            "the combination of direct and inferential knowledge, "
+            "rather than through direct understanding alone."]),
+    ],
+    terms=[
+        ("catucattārīsaṁ ñāṇavatthūni",
+         "&ldquo;forty-four grounds for knowledge&rdquo; &mdash; the "
+         "precise total, eleven links examined fourfold."),
+        ("dhamme ñāṇaṁ",
+         "&ldquo;knowledge of the teaching&rdquo; &mdash; direct, "
+         "present-tense understanding of a given link's fourfold "
+         "nature."),
+        ("anvaye ñāṇaṁ",
+         "&ldquo;inferential knowledge&rdquo; &mdash; extending that "
+         "direct understanding by inference to all who knew, or will "
+         "know, it identically across time."),
+        ("sabbete evameva abbhaññaṁsu, seyyathāpāhaṁ etarahi",
+         "&ldquo;all of them directly knew these things in exactly "
+         "the same way that I do now&rdquo; &mdash; the specific "
+         "inferential claim extending confidently into the past."),
+        ("dhamme ñāṇañca anvaye ñāṇañca&hellip; parisuddhāni honti pariyodātāni",
+         "&ldquo;knowledge of the teaching and inferential "
+         "knowledge&hellip; purified and cleansed&rdquo; &mdash; both "
+         "kinds required together, not either alone."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.33:1.2-2.2"),
+        ("p", "&sect;2", "sn12.33:3.1-4.4"),
+        ("p", "&sect;3", "sn12.33:5.1-5.2"),
+        ("p", "&sect;4", "sn12.33:6.1-7.2"),
+        ("p", "&sect;5", "sn12.33:8.1-8.3"),
+    ],
+    quiz=[
+        {"q": "How many grounds for knowledge does this discourse name?",
+         "opts": [
+             "Forty-four, from eleven links examined fourfold",
+             "Twelve, one for each link",
+             "A vague, unspecified number",
+             "Four, one for each noble truth"],
+         "correct": 0,
+         "expl": "A precise count with a clear structural basis."},
+        {"q": "What two kinds of knowledge does this discourse distinguish?",
+         "opts": [
+             "Knowledge of the teaching, and inferential knowledge",
+             "Knowledge gained by study, and knowledge gained by meditation",
+             "Knowledge of the past, and knowledge of the present, with no mention of the future",
+             "No distinction is made; only one kind of knowledge is discussed"],
+         "correct": 0,
+         "expl": "Direct, present comprehension separated from a further inferential step."},
+        {"q": "What does knowledge of the teaching (dhamme ñāṇa) refer to?",
+         "opts": [
+             "Direct, present-tense understanding of a link's fourfold nature",
+             "Knowledge gained secondhand from a teacher's report",
+             "Knowledge limited only to the future",
+             "A synonym for inferential knowledge, with no real difference"],
+         "correct": 0,
+         "expl": "Understanding grounded in one's own direct comprehension, here and now."},
+        {"q": "What does inferential knowledge (anvaye ñāṇa) extend to?",
+         "opts": [
+             "Both the past and the future, claiming the same understanding held and will hold for others",
+             "Only the past, with no claim about the future",
+             "Only the future, with no claim about the past",
+             "Only the present moment, with no extension in time"],
+         "correct": 0,
+         "expl": "Reaching backward and forward with equal confidence."},
+        {"q": "Does the discourse treat either kind of knowledge as sufficient alone?",
+         "opts": [
+             "No — both must be purified and cleansed together",
+             "Yes, knowledge of the teaching alone is sufficient",
+             "Yes, inferential knowledge alone is sufficient",
+             "The discourse doesn't address whether one alone suffices"],
+         "correct": 0,
+         "expl": "Genuine accomplishment requires both kinds combined."},
+        {"q": "How is old age defined in this discourse's detailed treatment?",
+         "opts": [
+             "Broken teeth, grey hair, wrinkled skin, and failing faculties",
+             "The discourse leaves old age undefined",
+             "Only in relation to animals, not humans",
+             "As identical in meaning to death"],
+         "correct": 0,
+         "expl": "The same vivid definition already familiar from SN 12.27."},
+        {"q": "What is named as the practice leading to each link's cessation?",
+         "opts": [
+             "The noble eightfold path",
+             "A vow of silence",
+             "No practice is named",
+             "A different practice unique to this discourse"],
+         "correct": 0,
+         "expl": "Matching SN 12.27's explicit naming of the path."},
+        {"q": "How many honorific titles close this discourse, matching SN 12.27?",
+         "opts": [
+             "Nine",
+             "Only one",
+             "Three",
+             "Forty-four, matching the number of knowledge-grounds"],
+         "correct": 0,
+         "expl": "The identical string of titles, now earned through two combined knowledges."},
+        {"q": "What is the last of the eleven links this discourse's fourfold treatment is applied to?",
+         "opts": [
+             "Choices (saṅkhārā)",
+             "Ignorance (avijjā)",
+             "Rebirth (jāti)",
+             "Feeling (vedanā)"],
+         "correct": 0,
+         "expl": "Closing the enumeration exactly where SN 12.27 and SN 12.28 close it."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A precise number, not a loose estimate", [
+            "forty-four, structurally derived &mdash;",
+            "eleven links, four aspects each",
+        ]),
+        ("Two knowledges, not one", [
+            "direct understanding, and inference beyond it &mdash;",
+            "a genuinely new distinction",
+        ]),
+        ("Inference reaching both directions", [
+            "confident about the past and the future alike &mdash;",
+            "not limited to confirming history",
+        ]),
+        ("Both required, neither sufficient alone", [
+            "purified together, not separately &mdash;",
+            "the standard this discourse actually sets",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.33/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.32.html">SN 12.32 &middot; With Kaḷāra the Aristocrat</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.34.html">SN 12.34 &middot; Grounds for Knowledge (2nd)</a> '
+        "&mdash; the next discourse, further intensifying this same "
+        "count to seventy-seven.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.34 — Dutiyañāṇavatthusutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 34, "Dutiyañāṇavatthu", "Grounds for Knowledge (2nd)",
+    meta_title="SN 12.34 — Grounds for Knowledge (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyañāṇavatthusutta — seventy-seven grounds for "
+        "knowledge, closing on the striking reflexive point that even "
+        "knowledge of the stable principle is itself impermanent. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A further-intensified enumeration of "
+                 "knowledge-grounds, closing on a reflexive claim "
+                 "about knowledge itself"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a dense, precisely structured discourse "
+                       "closing on a genuinely subtle point"),
+    ],
+    why=(
+        "This discourse takes SN 12.33's project of counting "
+        "knowledge-grounds and multiplies it: seventy-seven this "
+        "time, built from eleven conditioning relationships, each "
+        "examined through knowledge of what conditions what, "
+        "knowledge of its absence, and both extended across past and "
+        "future, plus one further addition. That addition is the "
+        "discourse's real point: even the knowledge of this stable, "
+        "reliable natural principle is itself impermanent, liable to "
+        "end, vanish, fade away, and cease &mdash; a reflexive "
+        "caution against treating the principle of dependent "
+        "origination as some kind of permanent, exempt truth standing "
+        "outside the very impermanence it describes."),
+    guide=[
+        ("A number built from a precise, countable structure", [
+            "Seventy-seven isn't an arbitrary intensification of "
+            "forty-four; it's built from eleven relationships, each "
+            "contributing seven distinct items of knowledge, giving "
+            "the total figure exact structural grounding."]),
+        ("Presence and absence paired at every step", [
+            "Each relationship isn't examined only for what conditions "
+            "what; it's paired with the mirror knowledge of what "
+            "happens in that condition's absence &mdash; not just "
+            "that rebirth conditions old age and death, but that "
+            "without rebirth there is no old age and death."]),
+        ("The same pairing repeated across all three times", [
+            "This paired knowledge isn't confined to the present; the "
+            "discourse extends it explicitly across the past and the "
+            "future as well, tripling the basic pair into a "
+            "sixfold structure before its final addition."]),
+        ("A seventh item added to each set of six", [
+            "Beyond the six items already covering presence, "
+            "absence, and their extension across past and future, "
+            "each relationship receives one further, reflexive "
+            "addition, bringing the total for each relationship to "
+            "seven."]),
+        ("A caution against treating the principle as permanently exempt", [
+            "That seventh addition is the discourse's real weight: "
+            "even knowledge of this reliable, stable natural "
+            "principle is itself impermanent and liable to cease, "
+            "preventing the principle of dependent origination from "
+            "being quietly exempted from the very impermanence it "
+            "describes."]),
+    ],
+    terms=[
+        ("sattasattari ñāṇavatthūni",
+         "&ldquo;seventy-seven grounds for knowledge&rdquo; &mdash; "
+         "the further-intensified count, eleven relationships each "
+         "contributing seven items."),
+        ("jātipaccayā jarāmaraṇanti ñāṇaṁ; asati jātiyā natthi jarāmaraṇanti ñāṇaṁ",
+         "&ldquo;knowledge that rebirth is a requirement for old age "
+         "and death&hellip; knowledge that without rebirth there is "
+         "no old age and death&rdquo; &mdash; the paired presence "
+         "and absence forming the basic unit."),
+        ("atītampi addhānaṁ&hellip; anāgatampi addhānaṁ",
+         "&ldquo;also regarding the past&hellip; also regarding the "
+         "future&rdquo; &mdash; extending the same paired knowledge "
+         "across all three times."),
+        ("dhammaṭṭhitiñāṇaṁ",
+         "&ldquo;knowledge of the stability of natural "
+         "principles&rdquo; &mdash; the technical term for insight "
+         "into the law's regularity, echoing SN 12.20."),
+        ("tampi khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammanti ñāṇaṁ",
+         "&ldquo;the knowledge that even this&hellip; is liable to "
+         "end, vanish, fade away, and cease&rdquo; &mdash; the "
+         "crucial reflexive point that even knowledge of the stable "
+         "principle is itself impermanent."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.34:1.2-2.6"),
+        ("p", "&sect;2", "sn12.34:3.10-3.14"),
+    ],
+    quiz=[
+        {"q": "How many grounds for knowledge does this discourse name?",
+         "opts": [
+             "Seventy-seven, from eleven relationships each contributing seven",
+             "Forty-four, identical to SN 12.33",
+             "Twelve, one for each link",
+             "An unspecified, open-ended number"],
+         "correct": 0,
+         "expl": "A further intensification of SN 12.33's count, with its own precise structure."},
+        {"q": "What two things are paired for each conditioning relationship?",
+         "opts": [
+             "Knowledge of the condition's presence, and knowledge of its absence",
+             "Knowledge of the past only, with no present knowledge",
+             "Knowledge of feeling and knowledge of perception",
+             "No pairing occurs; each relationship gets only one kind of knowledge"],
+         "correct": 0,
+         "expl": "Both what conditions what, and what happens without that condition."},
+        {"q": "Across how many times is this paired knowledge extended?",
+         "opts": [
+             "Three — present, past, and future",
+             "Only the present",
+             "Only the past and present, with no future extension",
+             "Five distinct time periods"],
+         "correct": 0,
+         "expl": "Tripling the basic pair before the discourse's final addition."},
+        {"q": "What is the seventh item added to each relationship's set of six?",
+         "opts": [
+             "The knowledge that even this stable principle's own knowledge is impermanent",
+             "A prayer for long life",
+             "A description of the relevant deity",
+             "No seventh item is added; each set contains only six"],
+         "correct": 0,
+         "expl": "The discourse's real, reflexive weight."},
+        {"q": "What does this reflexive seventh item guard against?",
+         "opts": [
+             "Treating the principle of dependent origination as permanently exempt from impermanence",
+             "Monks forgetting the twelve links entirely",
+             "Excessive pride in monastic achievement",
+             "Nothing specific; it's simply decorative"],
+         "correct": 0,
+         "expl": "Preventing the principle from being quietly exempted from what it describes."},
+        {"q": "What technical term names insight into the law's regularity?",
+         "opts": [
+             "Dhammaṭṭhitiñāṇa, \"knowledge of the stability of natural principles\"",
+             "Samādhi, \"immersion\"",
+             "Vimutti, \"freedom\"",
+             "No such technical term appears in this discourse"],
+         "correct": 0,
+         "expl": "A term echoing SN 12.20's earlier description of dependent origination as a discovered law."},
+        {"q": "What is the first relationship examined in this discourse's structure?",
+         "opts": [
+             "Rebirth as a requirement for old age and death",
+             "Ignorance as a requirement for choices",
+             "Consciousness as a requirement for name and form",
+             "Craving as a requirement for grasping"],
+         "correct": 0,
+         "expl": "The starting point before the pattern extends through all eleven relationships."},
+        {"q": "What is the final relationship closing the enumeration?",
+         "opts": [
+             "Ignorance as a requirement for choices",
+             "Rebirth as a requirement for old age and death",
+             "Feeling as a requirement for craving",
+             "Consciousness as a requirement for choices"],
+         "correct": 0,
+         "expl": "The chain's root condition, closing the backward sequence."},
+        {"q": "How does this discourse relate to SN 12.33?",
+         "opts": [
+             "It intensifies the same project of counting knowledge-grounds to a higher, precisely structured total",
+             "It contradicts SN 12.33's teaching entirely",
+             "It shares no relationship with SN 12.33",
+             "It reduces SN 12.33's count to a smaller number"],
+         "correct": 0,
+         "expl": "A further development of the same enumerative approach."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A number built from precise parts", [
+            "seventy-seven, not arbitrary &mdash;",
+            "eleven relationships, seven items each",
+        ]),
+        ("Presence and absence, always paired", [
+            "not just what conditions what &mdash;",
+            "but what happens without it",
+        ]),
+        ("Extended across all three times", [
+            "present, past, future alike &mdash;",
+            "tripling the basic pair",
+        ]),
+        ("Even this knowledge, impermanent", [
+            "no exemption for the principle itself &mdash;",
+            "the reflexive caution closing each set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.34/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.33.html">SN 12.33 &middot; Grounds for Knowledge</a> '
+        "&mdash; the discourse immediately before this one, whose "
+        "count of forty-four this discourse intensifies to "
+        "seventy-seven.",
+        '<a href="sn-12.20.html">SN 12.20 &middot; Conditions</a> '
+        "&mdash; the earlier discourse whose description of "
+        "dependent origination as a discovered natural law this "
+        "discourse's technical term echoes.",
+        '<a href="sn-12.35.html">SN 12.35 &middot; Ignorance is a Condition</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
