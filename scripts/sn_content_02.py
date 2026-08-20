@@ -21,9 +21,11 @@ TAIL = ("sn-12.61.html", "SN 12.61 &middot; Unlearned")
 # module's SN 12.14 and SN 12.16 (confirmed by Āhāravagga's own closing
 # uddāna, which lists it fifth of ten); it is not itself in PAGES, so
 # sn_build.py's auto-chain naturally skips over it when linking 12.14 to
-# 12.16. As with sn_content_01.py's INDEX_EXTRA nav-link fragility, the
-# three-way junction at 12.14/12.15/12.16 needs a one-time manual nav fix
-# after each build that touches this stretch.
+# 12.16. As with sn_content_01.py's sn-4.1/sn-5.10/sn-6.2 fragility, this
+# is a STABLE, RECURRING regression, confirmed to reset on every full
+# build of this module (not just the first time 12.16 was added) --
+# 12.14's next and 12.16's prev must be manually re-patched to route
+# through 12.15 after every single sn_build.py run.
 INDEX_EXTRA = [
     ("sn-12.1", "Paṭiccasamuppāda", "Dependent Origination"),
     ("sn-12.2", "Vibhaṅga", "Analysis"),
@@ -2973,5 +2975,2210 @@ page(
         "&mdash; the discourse immediately before this one.",
         '<a href="sn-12.21.html">SN 12.21 &middot; The Ten Powers</a> '
         "&mdash; opening Dasabalavagga, this book's third chapter.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.21 — Dasabalasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 21, "Dasabala", "The Ten Powers",
+    meta_title="SN 12.21 — The Ten Powers | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dasabalasutta — opening Dasabalavagga, the Buddha's own "
+        "authority to teach is grounded in mastery of the five "
+        "aggregates' arising and ending, generalized into the "
+        "twelve-link chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A declaration of authority followed by an "
+                 "analytical statement applied first to the five "
+                 "aggregates, then generalized into the familiar "
+                 "twelve-link chain"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "connects dependent origination directly to "
+                       "the five aggregates for the first time in "
+                       "this book"),
+    ],
+    why=(
+        "Opening a new chapter, this discourse doesn't simply repeat "
+        "the twelve-link chain; it first grounds the Buddha's "
+        "authority to teach it at all &mdash; ten powers, four kinds "
+        "of self-assurance, the confidence to roar a lion's roar in "
+        "any assembly &mdash; and then applies a causal template not "
+        "to old age and death first, but to each of the five "
+        "aggregates in turn: such is form, such is its origin, such "
+        "is its ending, and so through feeling, perception, choices, "
+        "and consciousness. Only after this does the discourse state "
+        "the abstract principle of conditionality in general terms "
+        "and then give the familiar twelve-link chain as its concrete "
+        "instance, connecting dependent origination explicitly to the "
+        "aggregates for the first time in this book."),
+    guide=[
+        ("Authority established before content is taught", [
+            "The discourse doesn't move directly into doctrine; it "
+            "first names what grounds the Buddha's confidence to "
+            "teach it at all &mdash; ten powers and four kinds of "
+            "self-assurance, framed in the vivid imagery of a bull's "
+            "place, a lion's roar, and a turning wheel."]),
+        ("The aggregates addressed before old age and death", [
+            "Rather than opening with the twelve-link chain's usual "
+            "starting point, this discourse first applies its causal "
+            "template to the five aggregates individually, a "
+            "connection not made explicitly anywhere earlier in this "
+            "book."]),
+        ("The same threefold formula, run five times", [
+            "Each aggregate receives an identical treatment &mdash; "
+            "what it is, what its origin is, what its ending is "
+            "&mdash; applied in turn to form, feeling, perception, "
+            "choices, and consciousness, before the discourse moves "
+            "on to anything else."]),
+        ("An abstract principle stated before its concrete case", [
+            "Rather than moving straight from the aggregates into the "
+            "twelve-link chain, the discourse pauses to state "
+            "conditionality in its most general, abstract form "
+            "&mdash; when this exists, this comes to be &mdash; "
+            "before showing the familiar chain as one specific "
+            "instance of that general principle."]),
+        ("Two frameworks united in a single discourse", [
+            "By its close, this discourse has connected three "
+            "distinct teachings &mdash; the aggregates, the abstract "
+            "principle of conditionality, and the specific twelve-link "
+            "chain &mdash; showing they describe the same underlying "
+            "structure from three different angles."]),
+    ],
+    terms=[
+        ("dasabalasamannāgato&hellip; catūhi ca vesārajjehi",
+         "&ldquo;endowed with ten powers and four kinds of "
+         "self-assurance&rdquo; &mdash; what grounds the Buddha's "
+         "authority to teach what follows."),
+        ("āsabhaṁ ṭhānaṁ paṭijānāti, parisāsu sīhanādaṁ nadati, brahmacakkaṁ pavatteti",
+         "&ldquo;claims the bull's place, roars his lion's roar in "
+         "the assemblies, and turns the divine wheel&rdquo; &mdash; "
+         "the vivid triple image of proclaimed authority opening the "
+         "discourse."),
+        ("iti rūpaṁ iti rūpassa samudayo iti rūpassa atthaṅgamo",
+         "&ldquo;such is form, such is the origin of form, such is "
+         "the ending of form&rdquo; &mdash; the causal template "
+         "applied to each of the five aggregates in turn."),
+        ("imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati",
+         "&ldquo;when this exists, this comes to be; due to the "
+         "arising of this, this arises&rdquo; &mdash; the abstract, "
+         "general statement of conditionality preceding its specific "
+         "instance."),
+        ("yadidaṁ avijjāpaccayā saṅkhārā",
+         "&ldquo;that is: ignorance is a requirement for "
+         "choices&rdquo; &mdash; the familiar twelve-link chain given "
+         "as the concrete case of the abstract principle just stated."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Dasabalavagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.21:1.2-1.7"),
+        ("p", "&sect;2", "sn12.21:1.8-1.15"),
+    ],
+    quiz=[
+        {"q": "What does this discourse establish before teaching any specific content?",
+         "opts": [
+             "The Buddha's own authority to teach, grounded in ten powers and four kinds of self-assurance",
+             "A list of monastic rules",
+             "The names of all his chief disciples",
+             "A history of previous Buddhas"],
+         "correct": 0,
+         "expl": "Authority established before content follows."},
+        {"q": "What imagery does the discourse use to describe this authority?",
+         "opts": [
+             "A bull's place, a lion's roar, and a turning wheel",
+             "A blazing fire and a flowing river",
+             "A ship crossing the ocean",
+             "A tree growing from a seed"],
+         "correct": 0,
+         "expl": "A vivid triple image opening the discourse."},
+        {"q": "What does this discourse apply its causal template to before reaching old age and death?",
+         "opts": [
+             "The five aggregates — form, feeling, perception, choices, consciousness",
+             "The four great elements",
+             "The six sense fields alone",
+             "Nothing; it begins directly with old age and death"],
+         "correct": 0,
+         "expl": "A connection to the aggregates not made explicitly elsewhere in this book."},
+        {"q": "What threefold formula is applied to each aggregate?",
+         "opts": [
+             "What it is, what its origin is, what its ending is",
+             "Its color, its weight, its location",
+             "Its name in three different languages",
+             "No formula is applied; each aggregate is simply named"],
+         "correct": 0,
+         "expl": "An identical treatment run five times, once per aggregate."},
+        {"q": "What does the discourse state before giving the twelve-link chain as a specific case?",
+         "opts": [
+             "The abstract, general principle of conditionality",
+             "A list of the Buddha's past lives",
+             "A description of the monastic robe",
+             "Nothing; the chain is given with no preceding principle"],
+         "correct": 0,
+         "expl": "The general principle stated before its concrete instance."},
+        {"q": "How many distinct frameworks does this discourse connect together?",
+         "opts": [
+             "Three — the aggregates, the abstract principle, and the specific twelve-link chain",
+             "Only one, repeated three times with no variation",
+             "Five, one for each aggregate treated as fully separate",
+             "None; the frameworks remain entirely disconnected"],
+         "correct": 0,
+         "expl": "Showing they describe the same underlying structure from different angles."},
+        {"q": "What is the first aggregate addressed in the discourse's fivefold treatment?",
+         "opts": [
+             "Form",
+             "Consciousness",
+             "Feeling",
+             "Choices"],
+         "correct": 0,
+         "expl": "The first of five aggregates given identical causal treatment."},
+        {"q": "What is the final aggregate addressed?",
+         "opts": [
+             "Consciousness",
+             "Form",
+             "Perception",
+             "Craving"],
+         "correct": 0,
+         "expl": "Closing the fivefold sequence before the abstract principle is stated."},
+        {"q": "What phrase closes this discourse, matching the standard chain formula?",
+         "opts": [
+             "That is how this entire mass of suffering ceases",
+             "That is how the four great elements combine",
+             "That is how the monastic robe should be worn",
+             "No closing formula is given"],
+         "correct": 0,
+         "expl": "The standard cessation-sequence closing already familiar from Buddhavagga."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The setting opening this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("Authority named before doctrine taught", [
+            "ten powers, four assurances &mdash;",
+            "the ground for what follows",
+        ]),
+        ("The aggregates, addressed first", [
+            "form, feeling, perception, choices, consciousness &mdash;",
+            "a connection new to this book",
+        ]),
+        ("One formula, run five times", [
+            "what it is, its origin, its ending &mdash;",
+            "identical treatment for each",
+        ]),
+        ("Principle before instance", [
+            "the abstract rule, stated first &mdash;",
+            "the familiar chain as one concrete case",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.21/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.20.html">SN 12.20 &middot; Conditions</a> '
+        "&mdash; the discourse closing Āhāravagga, immediately "
+        "before this one.",
+        '<a href="sn-12.22.html">SN 12.22 &middot; The Ten Powers (2nd)</a> '
+        "&mdash; the next discourse, repeating this same content "
+        "before adding a famous exhortation to vigorous effort.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.22 — Dutiyadasabalasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 22, "Dutiyadasabala", "The Ten Powers (2nd)",
+    meta_title="SN 12.22 — The Ten Powers (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyadasabalasutta — SN 12.21's teaching repeated, then "
+        "followed by the famous vow to let only skin, sinews, and "
+        "tendons remain rather than give up before the goal is "
+        "reached. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 12.21's content repeated in full, followed by an "
+                 "extended exhortation to vigorous effort"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the added exhortation is one of this "
+                       "collection's most vivid calls to effort"),
+    ],
+    why=(
+        "This discourse opens by repeating SN 12.21 word for word "
+        "&mdash; the ten powers, the fivefold treatment of the "
+        "aggregates, the twelve-link chain &mdash; but doesn't stop "
+        "there. Having declared the teaching fully clarified, "
+        "revealed, and illuminated, the Buddha issues one of this "
+        "collection's most vivid calls to effort: let only skin, "
+        "sinews, and tendons remain, let flesh and blood waste away, "
+        "rather than stop trying before what's humanly achievable is "
+        "achieved. What follows is a tightly reasoned case for "
+        "diligence &mdash; the lazy live in suffering, the energetic "
+        "live happily, and the best is reached only by the best "
+        "effort, not by half measures."),
+    guide=[
+        ("Repetition establishing the ground for what follows", [
+            "The discourse's first half isn't padding; repeating SN "
+            "12.21's content in full establishes that what follows "
+            "is a response to a fully explained teaching, not an "
+            "exhortation issued in a vacuum."]),
+        ("A teaching declared complete before the call to action", [
+            "Before urging effort, the Buddha explicitly states that "
+            "the teaching has been clarified, revealed, illuminated, "
+            "and stripped of patchwork &mdash; there's nothing left "
+            "unexplained standing between the listener and practice."]),
+        ("A vow stated in the most extreme possible terms", [
+            "The famous image of letting only skin, sinews, and "
+            "tendons remain while flesh and blood waste away doesn't "
+            "describe a moderate commitment; it names the most "
+            "extreme level of persistence imaginable, refusing to "
+            "stop short of what's humanly possible."]),
+        ("A maxim connecting quality of effort to quality of outcome", [
+            "The discourse doesn't simply praise effort in general; "
+            "it states a specific principle &mdash; the best isn't "
+            "reached by the worst, the best is reached by the best "
+            "&mdash; making a direct link between the caliber of "
+            "one's effort and what that effort can actually achieve."]),
+        ("Diligence justified three separate ways", [
+            "Rather than giving a single reason to practice "
+            "diligently, the discourse closes with three distinct "
+            "justifications &mdash; one's own good, others' good, and "
+            "both together &mdash; any one of which the Buddha says "
+            "is sufficient on its own."]),
+    ],
+    terms=[
+        ("evaṁ svākkhāto&hellip; uttāno vivaṭo pakāsito chinnapilotiko",
+         "&ldquo;well-explained&hellip; clarified, revealed, "
+         "illuminated, and stripped of patchwork&rdquo; &mdash; "
+         "marking the teaching as complete before the call to effort "
+         "begins."),
+        ("kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu",
+         "&ldquo;gladly, let only skin, sinews, and tendons "
+         "remain&rdquo; &mdash; the famous, extreme vow of total "
+         "effort."),
+        ("na hīnena aggassa patti hoti. aggena ca kho aggassa patti hoti",
+         "&ldquo;the best isn't reached by the worst; the best is "
+         "reached by the best&rdquo; &mdash; the maxim linking the "
+         "quality of effort to the quality of its outcome."),
+        ("maṇḍapeyyamidaṁ brahmacariyaṁ, satthā sammukhībhūto",
+         "&ldquo;this spiritual life is the cream&hellip; the "
+         "Teacher is before you&rdquo; &mdash; naming the rare value "
+         "of the present opportunity."),
+        ("attatthaṁ vā&hellip; paratthaṁ vā&hellip; ubhayatthaṁ vā",
+         "&ldquo;for one's own good&hellip; for others' good&hellip; "
+         "for both&rdquo; &mdash; the threefold justification "
+         "closing the discourse, any one sufficient on its own."),
+    ],
+    text_intro=(
+        "The discourse in full. The opening content, repeating SN "
+        "12.21, is given here again in full as the source itself "
+        "repeats it. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.22:1.2-1.9"),
+        ("p", "&sect;2", "sn12.22:1.10-1.15"),
+        ("p", "&sect;3", "sn12.22:2.1-2.3"),
+        ("p", "&sect;4", "sn12.22:3.1-3.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening compare to SN 12.21's content?",
+         "opts": [
+             "It repeats SN 12.21 word for word before adding new material",
+             "It contradicts SN 12.21 entirely",
+             "It shares no content at all with SN 12.21",
+             "It only briefly summarizes SN 12.21 in one sentence"],
+         "correct": 0,
+         "expl": "Full repetition establishing the ground for what follows."},
+        {"q": "What does the Buddha declare about the teaching before issuing his call to effort?",
+         "opts": [
+             "That it has been clarified, revealed, illuminated, and stripped of patchwork",
+             "That it remains partially unexplained",
+             "That only advanced monks can understand it",
+             "That it will be explained further in a future discourse"],
+         "correct": 0,
+         "expl": "Nothing left unexplained standing between the listener and practice."},
+        {"q": "What famous image does the Buddha use to describe total effort?",
+         "opts": [
+             "Letting only skin, sinews, and tendons remain while flesh and blood waste away",
+             "Climbing to the top of a mountain",
+             "Crossing an ocean in a small boat",
+             "Planting a single seed and waiting patiently"],
+         "correct": 0,
+         "expl": "One of this collection's most vivid and extreme calls to persistence."},
+        {"q": "What maxim connects the quality of effort to the quality of outcome?",
+         "opts": [
+             "The best isn't reached by the worst; the best is reached by the best",
+             "Any effort at all, regardless of quality, guarantees success",
+             "Effort is irrelevant to the outcome achieved",
+             "Only inherited talent determines the outcome"],
+         "correct": 0,
+         "expl": "A direct link between caliber of effort and what it can achieve."},
+        {"q": "How does the discourse describe the spiritual life, using a vivid image?",
+         "opts": [
+             "As \"the cream,\" with the Teacher present before the listener",
+             "As a burden to be endured reluctantly",
+             "As identical to ordinary lay life",
+             "As something to be postponed until later in life"],
+         "correct": 0,
+         "expl": "Naming the rare value of the present opportunity."},
+        {"q": "How does a lazy person live, according to this discourse?",
+         "opts": [
+             "In suffering, mixed up with bad, unskillful qualities",
+             "In perfect happiness with no drawbacks",
+             "Exactly the same as an energetic person",
+             "The discourse doesn't address laziness at all"],
+         "correct": 0,
+         "expl": "Contrasted directly with the energetic person's happy, secluded life."},
+        {"q": "How many separate justifications for diligence does the discourse give at its close?",
+         "opts": [
+             "Three — one's own good, others' good, and both together",
+             "Only one, with no alternatives given",
+             "Five separate justifications",
+             "None; diligence is commanded without justification"],
+         "correct": 0,
+         "expl": "Any one of the three said to be sufficient on its own."},
+        {"q": "What does the discourse say about the fruitfulness of one's going-forth if diligence is maintained?",
+         "opts": [
+             "That it will not be barren, but fruitful and fertile",
+             "That fruitfulness is impossible to achieve",
+             "That only ordained monks can achieve fruitfulness",
+             "The discourse doesn't address fruitfulness"],
+         "correct": 0,
+         "expl": "Connected directly to the benefit received by those who support the monastic community."},
+        {"q": "What five aggregates does this discourse's opening half address, matching SN 12.21?",
+         "opts": [
+             "Form, feeling, perception, choices, and consciousness",
+             "Earth, water, fire, and air",
+             "Sight, sound, smell, taste, and touch",
+             "Faith, ethics, learning, generosity, and wisdom"],
+         "correct": 0,
+         "expl": "The identical fivefold treatment repeated from SN 12.21."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting shared with SN 12.21."},
+    ],
+    marginalia=[
+        ("The same teaching, repeated in full", [
+            "not a summary, but the whole content again &mdash;",
+            "grounding what follows in something explained",
+        ]),
+        ("A vow at the furthest extreme", [
+            "skin, sinews, tendons alone &mdash;",
+            "flesh and blood allowed to waste away",
+        ]),
+        ("Effort matched to outcome", [
+            "the best reached only by the best &mdash;",
+            "not by half measures",
+        ]),
+        ("Three reasons, any one enough", [
+            "one's own good, others', or both &mdash;",
+            "no single justification required alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.22/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.21.html">SN 12.21 &middot; The Ten Powers</a> '
+        "&mdash; the discourse immediately before this one, whose "
+        "content this one repeats in full before adding the "
+        "exhortation to effort.",
+        '<a href="sn-12.23.html">SN 12.23 &middot; Vital Conditions</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.23 — Upanisasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 23, "Upanisa", "Vital Conditions",
+    meta_title="SN 12.23 — Vital Conditions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upanisasutta — the standard chain of suffering continues "
+        "past its own arising into an ascending chain from faith "
+        "through joy, immersion, and disillusionment all the way to "
+        "final freedom. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A backward-questioning chain extending well beyond "
+                 "the familiar twelve links, illustrated by a "
+                 "cascading simile"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the most doctrinally significant "
+                       "discourses in the entire collection"),
+    ],
+    why=(
+        "Every earlier account of dependent origination in this book "
+        "has stopped at the same point: suffering. This discourse "
+        "doesn't stop there. Using the identical backward-questioning "
+        "method already familiar from Buddhavagga, it asks what "
+        "suffering itself is a vital condition for &mdash; and the "
+        "answer opens an entirely new ascending sequence: faith, "
+        "then joy, rapture, tranquility, bliss, immersion, true "
+        "knowledge and vision, disillusionment, dispassion, freedom, "
+        "and finally the knowledge of the ending of defilements "
+        "itself. The familiar chain of suffering turns out to be only "
+        "half the picture; suffering rightly met becomes the very "
+        "condition that makes liberation possible."),
+    guide=[
+        ("A question extended past its usual stopping point", [
+            "Every prior discourse in this book treats suffering, or "
+            "old age and death, as the chain's natural endpoint; this "
+            "discourse keeps asking the same backward question one "
+            "step further, revealing that suffering itself has "
+            "something depending on it."]),
+        ("The same rigor applied to the path as to the problem", [
+            "The discourse doesn't shift into vague inspirational "
+            "language once it reaches faith and joy; it maintains "
+            "the identical, precise conditional formula &mdash; this "
+            "has a vital condition, it doesn't lack a vital condition "
+            "&mdash; all the way through to final freedom."]),
+        ("Suffering as a genuine turning point, not merely an endpoint", [
+            "Rather than treating suffering as purely negative, the "
+            "discourse names it as the specific condition for faith "
+            "&mdash; suggesting that suffering, properly recognized, "
+            "is what actually turns a person toward the path rather "
+            "than away from it."]),
+        ("An unbroken chain from ignorance to liberation", [
+            "By the discourse's end, the entire sequence &mdash; from "
+            "ignorance at one extreme to the knowledge of ending at "
+            "the other &mdash; is stated as a single, continuous "
+            "chain, with no gap or discontinuity where the familiar "
+            "twelve links stop and the new sequence begins."]),
+        ("A cascading simile making the whole shape visible at once", [
+            "The discourse closes with an image of heavy rain on a "
+            "mountaintop, filling crevices, then pools, then lakes, "
+            "streams, rivers, and finally the ocean itself &mdash; "
+            "each stage overflowing into the next until the whole "
+            "cascade reaches its natural conclusion."]),
+    ],
+    terms=[
+        ("jānato&hellip; passato āsavānaṁ khayaṁ vadāmi",
+         "&ldquo;for one who knows and sees&hellip; I say the ending "
+         "of defilements&rdquo; &mdash; grounding liberation in "
+         "genuine knowledge, not blind faith alone."),
+        ("saupanisaṁ&hellip; no anupanisaṁ",
+         "&ldquo;has a vital condition&hellip; does not lack a vital "
+         "condition&rdquo; &mdash; the recurring formula insisting "
+         "nothing in the sequence, not even liberation's own "
+         "approach, arises groundlessly."),
+        ("dukkhūpanisā saddhā",
+         "&ldquo;suffering is the vital condition for faith&rdquo; "
+         "&mdash; the pivotal turn where the familiar chain of "
+         "suffering becomes the spur for the ascending sequence."),
+        ("saddhūpanisaṁ pāmojjaṁ&hellip; virāgūpanisā vimutti",
+         "&ldquo;faith is the vital condition for joy&hellip; "
+         "dispassion is the vital condition for freedom&rdquo; "
+         "&mdash; the ascending chain itself, faith through freedom, "
+         "in unbroken sequence."),
+        ("uparipabbate thullaphusitake deve vassante&hellip; mahāsamuddaṁ paripūrenti",
+         "&ldquo;when the heavens rain heavily on a mountain "
+         "top&hellip; fill up the ocean&rdquo; &mdash; the cascading "
+         "simile closing the discourse, each stage overflowing into "
+         "the next."),
+    ],
+    text_intro=(
+        "The discourse in full, one of the most doctrinally "
+        "significant in this entire collection. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Knowing and seeing the ending of defilements"),
+        ("p", "&sect;1", "sn12.23:1.2-1.9"),
+        ("h3", "The ascending chain, questioned backward"),
+        ("p", "&sect;2", "sn12.23:2.1-2.16"),
+        ("p", "&sect;3", "sn12.23:3.1-3.15"),
+        ("p", "&sect;4", "sn12.23:4.1-4.15"),
+        ("p", "&sect;5", "sn12.23:5.1-5.10"),
+        ("h3", "The full chain, stated in sequence"),
+        ("p", "&sect;6", "sn12.23:6.1-6.22"),
+        ("h3", "The cascading simile"),
+        ("p", "&sect;7", "sn12.23:7.1-8.1"),
+    ],
+    quiz=[
+        {"q": "Where do most earlier discourses in this book treat the twelve-link chain as ending?",
+         "opts": [
+             "At suffering, or old age and death",
+             "At the six sense fields",
+             "At consciousness",
+             "There is no consistent stopping point in earlier discourses"],
+         "correct": 0,
+         "expl": "The point every prior account in this book has stopped at."},
+        {"q": "What does this discourse ask, extending past that usual stopping point?",
+         "opts": [
+             "What suffering itself is a vital condition for",
+             "Whether suffering can be avoided entirely",
+             "How many kinds of suffering exist",
+             "Whether suffering is real at all"],
+         "correct": 0,
+         "expl": "The same backward-questioning method pushed one step further."},
+        {"q": "What does the discourse name as the vital condition arising from suffering?",
+         "opts": [
+             "Faith",
+             "Ignorance",
+             "Craving",
+             "Consciousness"],
+         "correct": 0,
+         "expl": "The pivotal turn opening the ascending sequence."},
+        {"q": "What formula does the discourse maintain consistently, even once it reaches faith and joy?",
+         "opts": [
+             "That each stage has a vital condition, not lacking one",
+             "A shift into purely poetic, non-technical language",
+             "A claim that these stages require no further explanation",
+             "A denial that these stages are actually conditioned at all"],
+         "correct": 0,
+         "expl": "The identical precision applied to the path as to the problem."},
+        {"q": "What is the final term in the ascending chain?",
+         "opts": [
+             "The knowledge of the ending of defilements",
+             "Faith",
+             "Rapture",
+             "Ignorance"],
+         "correct": 0,
+         "expl": "The chain's ultimate destination, full liberation itself."},
+        {"q": "What comes immediately after immersion (samādhi) in the ascending sequence?",
+         "opts": [
+             "True knowledge and vision",
+             "Rapture",
+             "Faith",
+             "Grasping"],
+         "correct": 0,
+         "expl": "One step in the precise, ordered ascending chain."},
+        {"q": "What simile closes the discourse?",
+         "opts": [
+             "Rain on a mountaintop cascading through pools, lakes, streams, and rivers into the ocean",
+             "A lamp lit in a dark room",
+             "A tree growing from a small seed",
+             "A chariot assembled from many parts"],
+         "correct": 0,
+         "expl": "Each stage overflowing into the next, reaching the ocean at last."},
+        {"q": "Does the discourse treat suffering as purely negative?",
+         "opts": [
+             "No — it names suffering as the specific condition for faith",
+             "Yes — suffering is described as having no further consequence",
+             "Yes — the discourse recommends avoiding suffering entirely",
+             "The discourse takes no position on the nature of suffering"],
+         "correct": 0,
+         "expl": "Suffering rightly met becomes a genuine turning point, not merely an endpoint."},
+        {"q": "How is the entire sequence from ignorance to liberation described by the discourse's close?",
+         "opts": [
+             "As a single, continuous, unbroken chain",
+             "As two entirely separate and unrelated chains",
+             "As a chain with several unexplained gaps",
+             "As a sequence that resets partway through"],
+         "correct": 0,
+         "expl": "No discontinuity between the familiar twelve links and the ascending sequence."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("Past the usual stopping point", [
+            "suffering, questioned one step further &mdash;",
+            "not the chain's actual end after all",
+        ]),
+        ("The same rigor, applied upward", [
+            "faith and joy, no less conditioned &mdash;",
+            "than ignorance and craving",
+        ]),
+        ("Suffering as a turning, not a dead end", [
+            "the specific condition for faith &mdash;",
+            "properly met, not merely endured",
+        ]),
+        ("One unbroken chain, start to finish", [
+            "ignorance to final freedom &mdash;",
+            "no gap, no separate sequence",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.22.html">SN 12.22 &middot; The Ten Powers (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.24.html">SN 12.24 &middot; Followers of Other Religions</a> '
+        "&mdash; the next discourse, where Sāriputta reduces an "
+        "entire philosophical debate to a single word: contact.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.24 — Aññatitthiyasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 24, "Aññatitthiya", "Followers of Other Religions",
+    meta_title="SN 12.24 — Followers of Other Religions | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aññatitthiyasutta — Sāriputta reduces a four-way "
+        "philosophical debate about suffering to a single dependent "
+        "condition, contact, confirmed by the Buddha and matched by "
+        "Ānanda's own mastery. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove &mdash; opening at a "
+                    "monastery of wanderers from other traditions"),
+        ("Speakers", "Sāriputta, wanderers of other religions, "
+                     "Ānanda, and finally the Buddha himself"),
+        ("Form", "A philosophical challenge answered twice over "
+                 "&mdash; once by Sāriputta, once confirmed and "
+                 "retold by the Buddha &mdash; closing with Ānanda's "
+                 "own demonstration"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "an elegant philosophical move worth reading "
+                       "carefully"),
+    ],
+    why=(
+        "Wanderers of other traditions press Sāriputta with the same "
+        "four-way question already seen from Kassapa and Timbaruka: "
+        "is suffering self-made, other-made, both, or neither? "
+        "Rather than picking a side, Sāriputta reframes the entire "
+        "debate around a single word: suffering, the Buddha teaches, "
+        "is dependent on contact. And crucially, every one of the "
+        "four positions the wanderers name still depends on contact "
+        "to be experienced at all &mdash; none of them can claim to "
+        "feel what they're theorizing about apart from it. The "
+        "Buddha confirms Sāriputta's answer as exactly right, then "
+        "invites Ānanda to demonstrate the same understanding in "
+        "fuller detail, which he does by walking the entire chain "
+        "himself."),
+    guide=[
+        ("A question posed to a disciple, not to the Buddha directly", [
+            "Unlike SN 12.17 and SN 12.18, where the same tetralemma "
+            "was put directly to the Buddha, here it's addressed to "
+            "Sāriputta, testing whether his understanding matches his "
+            "teacher's without the Buddha present to answer it "
+            "himself."]),
+        ("A single word answering a four-way debate", [
+            "Rather than engaging with each of the four positions in "
+            "turn, Sāriputta collapses the whole question into one "
+            "phrase &mdash; suffering is dependent on contact &mdash; "
+            "sidestepping the debate's own terms entirely."]),
+        ("Every position shown to share the same hidden dependency", [
+            "The elegance of the answer lies in what it does to all "
+            "four positions at once: whether someone claims suffering "
+            "is self-made, other-made, both, or neither, none of them "
+            "could actually experience what they're describing apart "
+            "from contact &mdash; the debate itself rests on ground "
+            "none of the debaters have examined."]),
+        ("An answer confirmed, not merely accepted", [
+            "The Buddha doesn't simply approve of Sāriputta's answer "
+            "in passing; he explicitly recounts facing the identical "
+            "question from the same wanderers and giving the "
+            "identical reply, making the confirmation personal and "
+            "specific rather than generic praise."]),
+        ("A second demonstration, freely offered rather than tested", [
+            "When Ānanda marvels that so much could be captured in a "
+            "single word, the Buddha doesn't simply explain further "
+            "himself; he invites Ānanda to clarify the matter in his "
+            "own words, and Ānanda proves equal to the task, walking "
+            "the full chain from old age and death back to the six "
+            "sense fields and forward again through its cessation."]),
+    ],
+    terms=[
+        ("sayaṅkataṁ dukkhaṁ&hellip; paraṅkataṁ dukkhaṁ",
+         "&ldquo;suffering made by oneself&hellip; made by "
+         "another&rdquo; &mdash; the same fourfold question already "
+         "seen from Kassapa and Timbaruka, now posed to Sāriputta."),
+        ("paṭiccasamuppannaṁ kho dukkhaṁ vuttaṁ bhagavatā. kiṁ paṭicca? phassaṁ paṭicca",
+         "&ldquo;the Buddha has said that suffering is dependently "
+         "originated. Dependent on what? Dependent on contact&rdquo; "
+         "&mdash; Sāriputta's single-phrase reframing of the entire "
+         "debate."),
+        ("te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati",
+         "&ldquo;it's impossible that they will experience that "
+         "without contact&rdquo; &mdash; the point that all four "
+         "philosophical positions equally depend on contact to be "
+         "experienced at all."),
+        ("sādhu sādhu, ānanda&hellip; yathā taṁ sāriputto sammā byākaramāno byākareyya",
+         "&ldquo;good, good, Ānanda!&hellip; it's just as Sāriputta "
+         "has so rightly explained&rdquo; &mdash; the Buddha's "
+         "specific, personal confirmation, matched by his own "
+         "identical account facing the same question."),
+        ("taññevettha paṭibhātu",
+         "&ldquo;clarify this matter yourself&rdquo; &mdash; the "
+         "Buddha inviting Ānanda to demonstrate his own understanding "
+         "rather than explaining it for him."),
+    ],
+    text_intro=(
+        "The discourse in full. Several passages repeating earlier "
+        "content are elided in the source exactly as bilara-data "
+        "preserves them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.24:1.2-2.2"),
+        ("p", "&sect;2", "sn12.24:3.1-3.6"),
+        ("p", "&sect;3", "sn12.24:4.1-6.4"),
+        ("p", "&sect;4", "sn12.24:7.1-8.5"),
+        ("p", "&sect;5", "sn12.24:17.1-17.3"),
+        ("p", "&sect;6", "sn12.24:18.1-18.6"),
+        ("p", "&sect;7", "sn12.24:19.1-19.5"),
+        ("p", "&sect;8", "sn12.24:20.1-20.5"),
+        ("p", "&sect;9", "sn12.24:21.1-21.17"),
+    ],
+    quiz=[
+        {"q": "Who do the wanderers of other religions initially address their fourfold question to?",
+         "opts": [
+             "Sāriputta, rather than the Buddha directly",
+             "The Buddha himself, in person",
+             "Ānanda alone",
+             "A group of unnamed junior monks"],
+         "correct": 0,
+         "expl": "Testing whether a disciple's understanding matches the teacher's."},
+        {"q": "How does Sāriputta answer the four-way question about suffering?",
+         "opts": [
+             "By reframing it entirely: suffering is dependent on contact",
+             "By picking the first of the four positions as correct",
+             "By refusing to answer at all",
+             "By claiming the question is entirely meaningless"],
+         "correct": 0,
+         "expl": "Sidestepping the debate's own terms with a single reframing word."},
+        {"q": "What does Sāriputta point out that all four positions share?",
+         "opts": [
+             "None of them could be experienced apart from contact",
+             "All four are equally correct simultaneously",
+             "All four were invented by the same teacher",
+             "None of the four positions actually mention suffering"],
+         "correct": 0,
+         "expl": "A hidden dependency none of the four debaters have examined."},
+        {"q": "How does the Buddha respond when he learns of Sāriputta's answer?",
+         "opts": [
+             "He confirms it specifically, recounting having given the identical answer himself",
+             "He corrects Sāriputta's answer as mistaken",
+             "He declines to comment on the exchange",
+             "He punishes Sāriputta for speaking without permission"],
+         "correct": 0,
+         "expl": "A personal, specific confirmation rather than generic praise."},
+        {"q": "Who first reports the exchange between Sāriputta and the wanderers to the Buddha?",
+         "opts": [
+             "Ānanda, who overheard the discussion",
+             "Sāriputta himself, immediately afterward",
+             "One of the wanderers, dissatisfied with the answer",
+             "No one reports it; the Buddha already knew"],
+         "correct": 0,
+         "expl": "Ānanda's overhearing sets up the discourse's second half."},
+        {"q": "What does Ānanda marvel at regarding Sāriputta's answer?",
+         "opts": [
+             "That so much could be captured in a single word",
+             "That the wanderers accepted the answer without argument",
+             "That the Buddha had never taught this before",
+             "That Sāriputta spoke without being asked"],
+         "correct": 0,
+         "expl": "The elegance of the single-word reframing."},
+        {"q": "How does the Buddha respond to Ānanda's request for a fuller explanation?",
+         "opts": [
+             "He invites Ānanda to clarify the matter himself",
+             "He refuses to allow any further explanation",
+             "He explains it fully himself without involving Ānanda",
+             "He tells Ānanda the question cannot be answered further"],
+         "correct": 0,
+         "expl": "A demonstration freely offered to Ānanda, not simply given by the Buddha."},
+        {"q": "What does Ānanda do when asked to clarify the matter?",
+         "opts": [
+             "He walks the full twelve-link chain from old age and death back to the six sense fields",
+             "He declines, saying he is unable to explain further",
+             "He repeats only the single word \"contact\" without elaboration",
+             "He asks a different monk to answer in his place"],
+         "correct": 0,
+         "expl": "Proving equal to the task the Buddha set for him."},
+        {"q": "What triggers Sāriputta's decision to visit the monastery of other wanderers in the first place?",
+         "opts": [
+             "It being too early to wander for alms in Rājagaha",
+             "A formal invitation from the wanderers",
+             "An order from the Buddha to investigate their teachings",
+             "A dispute that needed mediating"],
+         "correct": 0,
+         "expl": "An ordinary, practical reason opening the discourse."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "A setting distinct from most of this chapter's Sāvatthī backdrop."},
+    ],
+    marginalia=[
+        ("A question tested on a disciple", [
+            "not put to the Buddha directly &mdash;",
+            "does the student's answer match?",
+        ]),
+        ("One word, answering four positions", [
+            "\"dependent on contact\" &mdash;",
+            "sidestepping the debate's own terms",
+        ]),
+        ("A shared blind spot, named", [
+            "none of the four escape contact &mdash;",
+            "the ground none of them examined",
+        ]),
+        ("Confirmed twice, then demonstrated a third time", [
+            "Sāriputta, then the Buddha, then Ānanda &mdash;",
+            "the same understanding, independently shown",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.23.html">SN 12.23 &middot; Vital Conditions</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.25.html">SN 12.25 &middot; With Bhūmija</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.25 — Bhūmijasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 25, "Bhūmija", "With Bhūmija",
+    meta_title="SN 12.25 — With Bhūmija | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhūmijasutta — the same reduction of a philosophical "
+        "debate to contact, now extended into a detailed taxonomy of "
+        "how pleasure and pain actually arise through body, speech, "
+        "and mind. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "Bhūmija, Sāriputta, Ānanda, and finally the "
+                     "Buddha himself"),
+        ("Form", "The same pattern as SN 12.24, extended with a "
+                 "detailed taxonomy of bodily, verbal, and mental "
+                 "action"),
+        ("Length", "~5.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "repeats SN 12.24's structure before extending "
+                       "it into genuinely new material"),
+    ],
+    why=(
+        "This discourse opens by retracing SN 12.24's exact pattern "
+        "&mdash; a monk poses the same fourfold question, this time "
+        "about pleasure and pain rather than suffering alone, "
+        "Sāriputta reduces it to a single word, contact, Ānanda "
+        "overhears and reports it, and the Buddha confirms the "
+        "answer as his own. But this discourse doesn't stop where SN "
+        "12.24 did. The Buddha goes on to break down exactly how "
+        "pleasure and pain actually arise: through bodily, verbal, "
+        "and mental action, each of which can be self-instigated or "
+        "instigated by others, done with deliberation or without "
+        "&mdash; and every single one of these channels, the "
+        "discourse insists, still has ignorance fallen into it, "
+        "unless that ignorance has genuinely ceased."),
+    guide=[
+        ("A familiar pattern retraced before new ground is broken", [
+            "The discourse's first half is a close repetition of SN "
+            "12.24's structure &mdash; the fourfold question, "
+            "Sāriputta's reduction to contact, Ānanda's report, the "
+            "Buddha's confirmation &mdash; establishing continuity "
+            "before the discourse moves into genuinely new territory."]),
+        ("Three channels named, not left as one general category", [
+            "Rather than speaking of action in general, the Buddha "
+            "distinguishes bodily, verbal, and mental action "
+            "specifically, each identified as its own distinct "
+            "channel through which pleasure and pain can arise "
+            "internally."]),
+        ("A further distinction within each channel", [
+            "Each of the three channels is further split by two "
+            "additional questions: was the action self-instigated or "
+            "instigated by another, and was it done with deliberation "
+            "or without &mdash; producing a genuinely detailed map of "
+            "how experience actually comes about."]),
+        ("Ignorance found in every branch of the map", [
+            "No matter which combination of channel, source, and "
+            "deliberation is in play, the discourse states plainly "
+            "that ignorance is included in all of them &mdash; even "
+            "self-instigated, carefully deliberated action remains "
+            "conditioned by ignorance unless that ignorance has "
+            "actually ceased."]),
+        ("A conclusion stated in terms of absence, not just presence", [
+            "The discourse doesn't only describe how pleasure and "
+            "pain arise while ignorance persists; it closes by "
+            "describing what happens when ignorance fully fades away "
+            "&mdash; the entire basis for such arising simply ceases "
+            "to exist, described fourfold as no field, no ground, no "
+            "basis, no foundation remaining."]),
+    ],
+    terms=[
+        ("sayaṅkataṁ sukhadukkhaṁ",
+         "&ldquo;pleasure and pain made by oneself&rdquo; &mdash; "
+         "the same fourfold question already seen in SN 12.17, SN "
+         "12.18, and SN 12.24, now posed to Sāriputta by Bhūmija."),
+        ("phassaṁ paṭicca",
+         "&ldquo;dependent on contact&rdquo; &mdash; Sāriputta's "
+         "identical reduction of the debate, confirmed again by the "
+         "Buddha."),
+        ("kāyasañcetanāhetu&hellip; vacīsañcetanāhetu&hellip; manosañcetanāhetu",
+         "&ldquo;the intention that gives rise to bodily&hellip; "
+         "verbal&hellip; mental action&rdquo; &mdash; the threefold "
+         "breakdown of channels through which pleasure and pain "
+         "actually arise, genuinely new content beyond SN 12.24."),
+        ("sāmaṁ vā&hellip; pare vā&hellip; sampajāno vā&hellip; asampajāno vā",
+         "&ldquo;by oneself&hellip; or by others&hellip; with "
+         "deliberation&hellip; or without deliberation&rdquo; "
+         "&mdash; the further fourfold matrix applied to each of the "
+         "three channels."),
+        ("imesu dhammesu avijjā anupatitā",
+         "&ldquo;ignorance is included in all these things&rdquo; "
+         "&mdash; the point that even self-instigated, deliberate "
+         "action remains conditioned by underlying ignorance."),
+    ],
+    text_intro=(
+        "The discourse in full. Several passages repeating earlier "
+        "content are elided in the source exactly as bilara-data "
+        "preserves them. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.25:1.2-2.6"),
+        ("p", "&sect;2", "sn12.25:3.1-5.4"),
+        ("p", "&sect;3", "sn12.25:6.1-7.5"),
+        ("p", "&sect;4", "sn12.25:10.1-10.3"),
+        ("p", "&sect;5", "sn12.25:11.1-11.4"),
+        ("p", "&sect;6", "sn12.25:14.1-14.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's first half compare to SN 12.24's structure?",
+         "opts": [
+             "It closely retraces the same pattern, now concerning pleasure and pain rather than suffering alone",
+             "It shares no similarity with SN 12.24 at all",
+             "It directly contradicts SN 12.24's conclusion",
+             "It is told entirely in verse, unlike SN 12.24's prose"],
+         "correct": 0,
+         "expl": "Continuity established before the discourse moves into new territory."},
+        {"q": "Who poses the fourfold question to Sāriputta in this discourse?",
+         "opts": [
+             "Bhūmija",
+             "Ānanda",
+             "The Buddha himself",
+             "Timbaruka"],
+         "correct": 0,
+         "expl": "A different questioner than SN 12.24's wanderers, though the pattern matches."},
+        {"q": "What three channels does the Buddha distinguish for how pleasure and pain arise?",
+         "opts": [
+             "Bodily, verbal, and mental action",
+             "Sight, sound, and smell",
+             "Past, present, and future",
+             "Only one channel is named, not three"],
+         "correct": 0,
+         "expl": "Genuinely new content extending beyond SN 12.24's single-word reduction."},
+        {"q": "What further distinction is applied to each of these three channels?",
+         "opts": [
+             "Whether self-instigated or instigated by another, and whether deliberate or not",
+             "Whether performed in daylight or at night",
+             "Whether performed by a monk or a layperson",
+             "No further distinction is applied"],
+         "correct": 0,
+         "expl": "A detailed map of how experience actually comes about."},
+        {"q": "What does the discourse say is present in every combination of channel, source, and deliberation?",
+         "opts": [
+             "Ignorance",
+             "Craving alone, with no role for ignorance",
+             "Nothing; each combination is entirely independent",
+             "Wisdom, in every single case"],
+         "correct": 0,
+         "expl": "Even self-instigated, deliberate action remains conditioned by ignorance."},
+        {"q": "What happens to the basis for pleasure and pain's arising when ignorance fully ceases?",
+         "opts": [
+             "It ceases entirely — no field, ground, basis, or foundation for it remains",
+             "It continues exactly as before",
+             "It only partially diminishes",
+             "The discourse doesn't address what happens when ignorance ceases"],
+         "correct": 0,
+         "expl": "A conclusion stated in terms of complete absence, not partial reduction."},
+        {"q": "How does the Buddha respond when he learns of Sāriputta's answer to Bhūmija?",
+         "opts": [
+             "He confirms it, matching his own confirmation in SN 12.24",
+             "He corrects Sāriputta's answer as mistaken",
+             "He declines to comment",
+             "He punishes Sāriputta for answering without permission"],
+         "correct": 0,
+         "expl": "The same pattern of confirmation seen in SN 12.24."},
+        {"q": "Who reports the exchange between Sāriputta and Bhūmija to the Buddha?",
+         "opts": [
+             "Ānanda, who overheard the discussion",
+             "Bhūmija himself",
+             "Sāriputta immediately afterward",
+             "No one reports it"],
+         "correct": 0,
+         "expl": "Matching the identical structural role Ānanda plays in SN 12.24."},
+        {"q": "Does this discourse address pleasure and pain together, or suffering alone?",
+         "opts": [
+             "Pleasure and pain together, broader than SN 12.24's focus on suffering",
+             "Only suffering, identical to SN 12.24's scope",
+             "Only pleasure, with no mention of pain",
+             "Neither; the topic is unrelated to feeling"],
+         "correct": 0,
+         "expl": "A broader framing than SN 12.24's narrower topic."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this chapter."},
+    ],
+    marginalia=[
+        ("A familiar pattern, then new ground", [
+            "the same reduction to contact &mdash;",
+            "before the discourse goes further",
+        ]),
+        ("Three channels, not one general category", [
+            "body, speech, and mind, each distinct &mdash;",
+            "a detailed map, not a single word",
+        ]),
+        ("A further split within each channel", [
+            "self or other, deliberate or not &mdash;",
+            "the map growing more precise",
+        ]),
+        ("Ignorance found in every branch", [
+            "even deliberate, self-chosen action &mdash;",
+            "still conditioned, until it ceases entirely",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.24.html">SN 12.24 &middot; Followers of Other Religions</a> '
+        "&mdash; the discourse whose pattern this one retraces before "
+        "extending it.",
+        '<a href="sn-12.26.html">SN 12.26 &middot; With Upavāṇa</a> '
+        "&mdash; the next discourse, a third and more compact "
+        "iteration of the same reduction to contact.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.26 — Upavāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 26, "Upavāṇa", "With Upavāṇa",
+    meta_title="SN 12.26 — With Upavāṇa | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upavāṇasutta — a third, most compact iteration of the "
+        "reduction of a philosophical debate about suffering to a "
+        "single dependent condition, asked this time directly of the "
+        "Buddha. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the monk Upavāṇa"),
+        ("Form", "The same fourfold question and single-word "
+                 "reduction as SN 12.24, asked directly rather than "
+                 "mediated through Sāriputta"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the most compact of three closely related "
+                       "discourses, worth reading for its economy"),
+    ],
+    why=(
+        "This is the third time in close succession that this "
+        "collection reduces the same fourfold debate about suffering "
+        "to a single word: contact. Where SN 12.24 staged the "
+        "question through Sāriputta and a group of wanderers, "
+        "confirmed later by the Buddha, and SN 12.25 extended the "
+        "same pattern into a detailed taxonomy of action, this "
+        "discourse strips the exchange down to its simplest form "
+        "&mdash; the monk Upavāṇa asks the Buddha directly, and "
+        "receives the identical answer with none of the surrounding "
+        "narrative framing."),
+    guide=[
+        ("The third iteration of a now-familiar pattern", [
+            "By this point in the chapter, the fourfold question and "
+            "its reduction to contact has appeared in close succession "
+            "across several discourses; this reading guide treats "
+            "this repetition honestly rather than searching for a "
+            "distinction the text itself doesn't draw."]),
+        ("Asked directly, without a relayed conversation", [
+            "Unlike SN 12.24 and SN 12.25, where the question first "
+            "passes through Sāriputta and is only later confirmed by "
+            "the Buddha via Ānanda's report, here Upavāṇa poses the "
+            "question directly to the Buddha, with no intermediary "
+            "narrative at all."]),
+        ("Suffering specifically, not the broader pleasure and pain", [
+            "This discourse returns to SN 12.24's narrower topic of "
+            "suffering alone, rather than SN 12.25's broader framing "
+            "around pleasure and pain together."]),
+        ("No extended taxonomy this time", [
+            "Where SN 12.25 went on to distinguish bodily, verbal, "
+            "and mental channels of action, this discourse ends "
+            "immediately after the core reduction, without extending "
+            "into that further analysis."]),
+        ("Economy itself as the point worth noticing", [
+            "Read after its two companions, this discourse's real "
+            "interest lies in its brevity: the same insight, "
+            "stripped down to its barest form, still lands with the "
+            "same force."]),
+    ],
+    terms=[
+        ("sayaṅkataṁ dukkhaṁ",
+         "&ldquo;suffering made by oneself&rdquo; &mdash; the same "
+         "fourfold question, here posed directly to the Buddha."),
+        ("phassaṁ paṭicca",
+         "&ldquo;dependent on contact&rdquo; &mdash; the identical "
+         "single-word reduction given in SN 12.24 and SN 12.25."),
+        ("te vata aññatra phassā paṭisaṁvedissantīti netaṁ ṭhānaṁ vijjati",
+         "&ldquo;it's impossible that they will experience that "
+         "without contact&rdquo; &mdash; the same point about all "
+         "four positions sharing a hidden dependency."),
+        ("upavāṇa",
+         "&ldquo;Upavāṇa&rdquo; &mdash; the monk who poses this "
+         "question directly, without the mediating role Sāriputta "
+         "plays in SN 12.24 and SN 12.25."),
+        ("na ca bhagavantaṁ abhūtena abbhācikkheyya",
+         "&ldquo;and not misrepresent him with an untruth&rdquo; "
+         "&mdash; Upavāṇa's own stated concern for accuracy, echoing "
+         "the wanderers' and Bhūmija's identical wording."),
+    ],
+    text_intro=(
+        "The discourse in full, the most compact of three closely "
+        "related discourses. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.26:1.2-2.5"),
+        ("p", "&sect;2", "sn12.26:3.1-3.4"),
+        ("p", "&sect;3", "sn12.26:4.1-5.4"),
+    ],
+    quiz=[
+        {"q": "How many times in close succession does this reduction of suffering to contact now appear in this chapter?",
+         "opts": [
+             "Three times, across SN 12.24, SN 12.25, and this discourse",
+             "Only once, in this discourse alone",
+             "Five separate times with major variations each time",
+             "This is the first appearance of the pattern"],
+         "correct": 0,
+         "expl": "A now-familiar pattern this reading guide treats honestly as repetition."},
+        {"q": "How does Upavāṇa pose his question, unlike SN 12.24 and SN 12.25?",
+         "opts": [
+             "Directly to the Buddha, with no intermediary narrative",
+             "Through a formal written petition",
+             "Through Sāriputta, exactly as in the companion discourses",
+             "He does not pose a question at all"],
+         "correct": 0,
+         "expl": "No relayed conversation through Sāriputta and Ānanda this time."},
+        {"q": "What topic does this discourse address, matching SN 12.24 rather than SN 12.25?",
+         "opts": [
+             "Suffering specifically, not the broader pleasure and pain",
+             "Pleasure and pain together",
+             "An entirely unrelated topic",
+             "The topic is left unspecified"],
+         "correct": 0,
+         "expl": "A return to SN 12.24's narrower framing."},
+        {"q": "Does this discourse extend into the taxonomy of bodily, verbal, and mental action seen in SN 12.25?",
+         "opts": [
+             "No — it ends immediately after the core reduction",
+             "Yes, in even greater detail than SN 12.25",
+             "Yes, but only for bodily action",
+             "The discourse addresses only mental action"],
+         "correct": 0,
+         "expl": "A more compact discourse without the extended analysis."},
+        {"q": "What does the Buddha name as suffering's dependent condition?",
+         "opts": [
+             "Contact",
+             "Ignorance directly, bypassing contact",
+             "Craving directly",
+             "No condition is named"],
+         "correct": 0,
+         "expl": "The identical single-word answer given across all three related discourses."},
+        {"q": "What do all four of the wanderers' positions share, according to the Buddha's explanation?",
+         "opts": [
+             "None of them could be experienced apart from contact",
+             "All four are equally endorsed by the Buddha",
+             "None of the four positions mention suffering at all",
+             "They share nothing in common"],
+         "correct": 0,
+         "expl": "The same underlying point already established in SN 12.24 and SN 12.25."},
+        {"q": "What is worth noticing about this discourse's brevity, according to this reading guide?",
+         "opts": [
+             "That the same insight, stripped to its barest form, still lands with the same force",
+             "That brevity indicates the teaching is less important",
+             "That the discourse is incomplete and missing content",
+             "That brevity makes the teaching harder to understand"],
+         "correct": 0,
+         "expl": "Economy itself treated as worth noticing, not as a deficiency."},
+        {"q": "How does Upavāṇa frame his concern about the answer he receives?",
+         "opts": [
+             "Wanting to avoid misrepresenting the Buddha with an untruth",
+             "Wanting to win a public debate",
+             "Wanting to challenge the Buddha's authority",
+             "No such concern is expressed"],
+         "correct": 0,
+         "expl": "Echoing the same concern for accuracy already voiced in the companion discourses."},
+        {"q": "Who is the sole interlocutor addressing the Buddha in this discourse?",
+         "opts": [
+             "Upavāṇa",
+             "Sāriputta",
+             "Ānanda",
+             "Bhūmija"],
+         "correct": 0,
+         "expl": "A different, direct questioner from the companion discourses."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this chapter."},
+    ],
+    marginalia=[
+        ("A third telling, honestly named as such", [
+            "the same reduction, once more &mdash;",
+            "not searching for a difference not there",
+        ]),
+        ("No relay this time", [
+            "asked straight to the Buddha &mdash;",
+            "no Sāriputta, no Ānanda between",
+        ]),
+        ("Back to suffering alone", [
+            "not the broader pleasure and pain &mdash;",
+            "matching SN 12.24's narrower scope",
+        ]),
+        ("Brevity as the actual point", [
+            "stripped to its barest form &mdash;",
+            "still landing with the same force",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.26/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.25.html">SN 12.25 &middot; With Bhūmija</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.27.html">SN 12.27 &middot; Dependency</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.27 — Paccayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 27, "Paccaya", "Dependency",
+    meta_title="SN 12.27 — Dependency | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paccayasutta — each link of the chain given a precise "
+        "definition and, for the first time, explicitly connected to "
+        "the noble eightfold path as the specific practice for its "
+        "cessation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A detailed definitional treatment of each link, "
+                 "closing on a string of honorific titles"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the first discourse in this book to name the "
+                       "eightfold path explicitly as the chain's own "
+                       "practice"),
+    ],
+    why=(
+        "This discourse doesn't just name the twelve links; it "
+        "defines each one precisely, in language vivid enough that "
+        "old age becomes broken teeth, grey hair, and failing "
+        "faculties, and death becomes the breaking up of the "
+        "aggregates and the laying to rest of the corpse. But its "
+        "real significance lies elsewhere: for the first time in this "
+        "book, the practice leading to each link's cessation is "
+        "named explicitly &mdash; not left as a vague reference to "
+        "spiritual effort, but identified specifically as the noble "
+        "eightfold path, spelled out in full. Understanding the "
+        "chain this way, the discourse closes, earns a noble "
+        "disciple nine distinct honorific titles, ending on a "
+        "striking image: standing pressed against the door to "
+        "freedom from death."),
+    guide=[
+        ("Definitions given, not merely names listed", [
+            "Rather than simply naming old age and death as the "
+            "chain's starting point, the discourse defines each "
+            "precisely and vividly &mdash; broken teeth, grey hair, "
+            "wrinkled skin, and failing faculties for old age; "
+            "passing away, disintegration, and the laying to rest of "
+            "the corpse for death."]),
+        ("The eightfold path named explicitly, for the first time", [
+            "Every prior discourse in this book that addresses a "
+            "link's cessation leaves the practice leading to it "
+            "unspecified or generic; this discourse names it directly "
+            "as the noble eightfold path, spelled out component by "
+            "component."]),
+        ("The same fourfold structure applied to choices specifically", [
+            "Choices, like every other link, receive their own "
+            "precise definition &mdash; three kinds, by way of body, "
+            "speech, and mind &mdash; before the same origin, "
+            "cessation, and eightfold-path treatment already given to "
+            "old age and death."]),
+        ("Nine titles, not one, for genuine understanding", [
+            "The discourse doesn't settle for a single label to "
+            "describe the noble disciple who understands the chain "
+            "this way; it offers nine distinct honorific titles in "
+            "sequence, each naming a different facet of the same "
+            "accomplishment."]),
+        ("A closing image of physical proximity to liberation", [
+            "The final title doesn't describe understanding in "
+            "abstract terms; it pictures the disciple standing "
+            "pressed directly against the door to freedom from death "
+            "&mdash; liberation described as immediately, physically "
+            "close, not a distant future prospect."]),
+    ],
+    terms=[
+        ("khaṇḍiccaṁ pāliccaṁ valittacatā",
+         "&ldquo;broken teeth, grey hair, wrinkly skin&rdquo; "
+         "&mdash; the vivid physical definition given for old age."),
+        ("cuti cavanatā bhedo&hellip; kaḷevarassa nikkhepo",
+         "&ldquo;passing away, disintegration&hellip; laying to rest "
+         "of the corpse&rdquo; &mdash; the equally vivid definition "
+         "given for death."),
+        ("ayameva ariyo aṭṭhaṅgiko maggo&hellip; nirodhagāminī paṭipadā",
+         "&ldquo;this noble eightfold path&hellip; the practice "
+         "leading to cessation&rdquo; &mdash; the first explicit "
+         "naming of the eightfold path as the specific practice for "
+         "each link's cessation."),
+        ("kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro",
+         "&ldquo;choices by way of body, speech, and mind&rdquo; "
+         "&mdash; the threefold definition given specifically for "
+         "choices."),
+        ("amatadvāraṁ āhacca tiṭṭhati",
+         "&ldquo;stands pressing against the door to freedom from "
+         "death&rdquo; &mdash; the final, vivid epithet closing the "
+         "string of nine honorific titles."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.27:1.2-1.4"),
+        ("p", "&sect;2", "sn12.27:2.1-2.11"),
+        ("p", "&sect;3", "sn12.27:4.1-4.8"),
+        ("p", "&sect;4", "sn12.27:5.1-5.2"),
+    ],
+    quiz=[
+        {"q": "How does this discourse treat old age, compared to simply naming it?",
+         "opts": [
+             "It defines it precisely — broken teeth, grey hair, wrinkled skin, failing faculties",
+             "It leaves old age entirely undefined",
+             "It defines old age only in relation to animals, not humans",
+             "It denies that old age is a real phenomenon"],
+         "correct": 0,
+         "expl": "A vivid, precise definition, not merely a name."},
+        {"q": "What is named for the first time in this book as the practice leading to a link's cessation?",
+         "opts": [
+             "The noble eightfold path, spelled out component by component",
+             "A vow of complete silence",
+             "A specific mantra to be recited",
+             "No practice is named at all"],
+         "correct": 0,
+         "expl": "Previously left generic or unspecified in earlier discourses."},
+        {"q": "How many components make up the eightfold path as named here?",
+         "opts": [
+             "Eight — right view, purpose, speech, action, livelihood, effort, mindfulness, and immersion",
+             "Four, matching the four noble truths alone",
+             "Twelve, matching the twelve links",
+             "The path is mentioned but not enumerated"],
+         "correct": 0,
+         "expl": "Spelled out in full rather than left as a vague reference."},
+        {"q": "How are choices specifically defined in this discourse?",
+         "opts": [
+             "As three kinds: by way of body, speech, and mind",
+             "As a single, undifferentiated category",
+             "As five kinds, matching the five aggregates",
+             "Choices are not defined in this discourse"],
+         "correct": 0,
+         "expl": "Given the same precise, fourfold treatment as old age and death."},
+        {"q": "How many honorific titles does the discourse give for the noble disciple who understands the chain this way?",
+         "opts": [
+             "Nine distinct titles",
+             "Only one title",
+             "Three titles",
+             "No titles are given"],
+         "correct": 0,
+         "expl": "Each naming a different facet of the same accomplishment."},
+        {"q": "What is the final, closing image among these titles?",
+         "opts": [
+             "Standing pressed against the door to freedom from death",
+             "Sitting quietly in a forest hut",
+             "Walking slowly through a marketplace",
+             "No closing image is given"],
+         "correct": 0,
+         "expl": "Liberation pictured as immediately, physically close."},
+        {"q": "What is named as the origin of old age and death?",
+         "opts": [
+             "Rebirth",
+             "Craving directly, bypassing rebirth",
+             "Ignorance directly, bypassing all intermediate links",
+             "No origin is given"],
+         "correct": 0,
+         "expl": "Matching the standard chain already familiar from Buddhavagga."},
+        {"q": "What is named as the origin of choices specifically?",
+         "opts": [
+             "Ignorance",
+             "Craving",
+             "Consciousness",
+             "Old age and death"],
+         "correct": 0,
+         "expl": "The chain's final link, closing the backward sequence."},
+        {"q": "Does the discourse's definition of death mention the breaking up of the aggregates?",
+         "opts": [
+             "Yes, explicitly, alongside the laying to rest of the corpse",
+             "No, the aggregates are never mentioned in this discourse",
+             "Only implicitly, with no direct reference",
+             "The discourse avoids describing death at all"],
+         "correct": 0,
+         "expl": "Part of the vivid, precise definition given for death."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this chapter."},
+    ],
+    marginalia=[
+        ("Defined, not merely named", [
+            "broken teeth, grey hair, failing faculties &mdash;",
+            "old age given precise, vivid content",
+        ]),
+        ("The path, finally spelled out", [
+            "not vague effort, but eight named steps &mdash;",
+            "the first explicit naming in this book",
+        ]),
+        ("Choices, defined threefold", [
+            "body, speech, mind &mdash;",
+            "the same rigor applied throughout",
+        ]),
+        ("Nine titles, one closing image", [
+            "pressed against the door to death's end &mdash;",
+            "liberation pictured as immediately close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.27/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.26.html">SN 12.26 &middot; With Upavāṇa</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.28.html">SN 12.28 &middot; A Mendicant</a> '
+        "&mdash; the next discourse, restating this same content "
+        "reframed around a mendicant's own direct comprehension.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.28 — Bhikkhusutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 28, "Bhikkhu", "A Mendicant",
+    meta_title="SN 12.28 — A Mendicant | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhikkhusutta — SN 12.27's definitions and eightfold-path "
+        "connection restated, reframed around a mendicant's own "
+        "direct comprehension of each link individually. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 12.27's content restated, reframed around a "
+                 "single mendicant's direct comprehension of each "
+                 "link"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a close companion to SN 12.27, worth reading "
+                       "for the shift in framing"),
+    ],
+    why=(
+        "This discourse gives the identical definitions, the "
+        "identical connection to the eightfold path, and the "
+        "identical string of nine honorific titles already given in "
+        "SN 12.27. What changes is the frame: rather than describing "
+        "a generic noble disciple who understands dependency as an "
+        "abstract whole, this discourse opens by describing a "
+        "mendicant who understands each of the twelve links "
+        "individually, one by one, before the same detailed "
+        "definitions follow. A small shift in emphasis, from the "
+        "general principle to the practitioner's own direct, "
+        "itemized comprehension."),
+    guide=[
+        ("Identical content, a different opening frame", [
+            "Every definition, every connection to the eightfold "
+            "path, and every closing title in this discourse matches "
+            "SN 12.27 precisely; only the discourse's opening framing "
+            "differs."]),
+        ("A mendicant's comprehension, itemized link by link", [
+            "Where SN 12.27 opens by naming dependency as a single "
+            "concept to be understood, this discourse opens by "
+            "listing each of the twelve links individually as "
+            "something the mendicant comes to understand one at a "
+            "time."]),
+        ("The same fourfold formula, still intact", [
+            "Despite this shift in opening frame, the fourfold "
+            "pattern &mdash; understanding a thing, its origin, its "
+            "cessation, and the practice leading to cessation "
+            "&mdash; remains exactly as SN 12.27 gives it, applied to "
+            "every link in turn."]),
+        ("A closing that names the practitioner directly", [
+            "Where SN 12.27 closes describing a noble disciple in "
+            "general terms, this discourse closes naming this "
+            "mendicant specifically, with the identical nine titles "
+            "attached to the individual practitioner rather than to "
+            "the category of noble disciple."]),
+        ("A pairing worth reading together, not separately", [
+            "Given how closely these two discourses match in "
+            "substance, this reading guide treats them as a pair best "
+            "understood together, with SN 12.27 supplying the fuller "
+            "context for what this discourse restates in a more "
+            "itemized form."]),
+    ],
+    terms=[
+        ("bhikkhu jarāmaraṇaṁ pajānāti",
+         "&ldquo;a mendicant understands old age and death&rdquo; "
+         "&mdash; the discourse's opening frame, naming a specific "
+         "practitioner rather than a general category."),
+        ("jātiṁ pajānāti&hellip; saṅkhāre pajānāti",
+         "&ldquo;they understand rebirth&hellip; they understand "
+         "choices&rdquo; &mdash; each link named individually as "
+         "something to be understood one at a time."),
+        ("khaṇḍiccaṁ pāliccaṁ valittacatā",
+         "&ldquo;broken teeth, grey hair, wrinkly skin&rdquo; "
+         "&mdash; the identical vivid definition of old age already "
+         "given in SN 12.27."),
+        ("ayameva ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;this noble eightfold path&rdquo; &mdash; the "
+         "identical connection to the path's cessation-practice, "
+         "unchanged from SN 12.27."),
+        ("ayaṁ vuccati, bhikkhave, bhikkhu diṭṭhisampanno itipi&hellip;",
+         "&ldquo;this mendicant is called: &lsquo;one accomplished "
+         "in view&rsquo;&hellip;&rdquo; &mdash; the identical string "
+         "of nine titles, now attached to this individual "
+         "practitioner rather than to noble disciples in general."),
+    ],
+    text_intro=(
+        "The discourse in full. The middle links are elided in the "
+        "source exactly as bilara-data preserves them, following "
+        "patterns already established throughout this chapter. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.28:1.3-1.12"),
+        ("p", "&sect;2", "sn12.28:2.1-2.11"),
+        ("p", "&sect;3", "sn12.28:4.1-4.8"),
+        ("p", "&sect;4", "sn12.28:5.14"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to SN 12.27's?",
+         "opts": [
+             "Identical definitions, eightfold-path connection, and closing titles",
+             "Completely different content with no overlap",
+             "A direct contradiction of SN 12.27's teaching",
+             "Focused on an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "The same substantive teaching, differently framed."},
+        {"q": "How does this discourse's opening differ from SN 12.27's?",
+         "opts": [
+             "It describes a mendicant understanding each link individually, one by one",
+             "It opens with an entirely new topic unrelated to the twelve links",
+             "It omits the twelve links entirely",
+             "It opens with a narrated story rather than direct teaching"],
+         "correct": 0,
+         "expl": "A shift from dependency as a single concept to itemized comprehension."},
+        {"q": "Does the fourfold formula (thing, origin, cessation, path) remain intact in this discourse?",
+         "opts": [
+             "Yes — applied to every link exactly as in SN 12.27",
+             "No — only the origin is addressed, not cessation or path",
+             "No — the formula is reduced to twofold",
+             "No — an entirely new fivefold formula replaces it"],
+         "correct": 0,
+         "expl": "Unchanged despite the shift in opening frame."},
+        {"q": "How does this discourse's closing differ from SN 12.27's?",
+         "opts": [
+             "The titles are attached to this specific mendicant, rather than to noble disciples in general",
+             "No closing titles are given at all",
+             "A completely different set of titles is given",
+             "The closing is identical in every respect, including framing"],
+         "correct": 0,
+         "expl": "A subtle shift from general category to individual practitioner."},
+        {"q": "How many honorific titles does this discourse give, matching SN 12.27?",
+         "opts": [
+             "Nine",
+             "Only one",
+             "Three",
+             "Twelve, matching the number of links"],
+         "correct": 0,
+         "expl": "The identical string of titles already seen in SN 12.27."},
+        {"q": "How is old age defined in this discourse?",
+         "opts": [
+             "Identically to SN 12.27 — broken teeth, grey hair, wrinkled skin, failing faculties",
+             "With an entirely different definition than SN 12.27",
+             "Old age is left undefined in this version",
+             "Only death is defined, not old age"],
+         "correct": 0,
+         "expl": "The identical vivid definition carried over unchanged."},
+        {"q": "What is named as the practice leading to each link's cessation?",
+         "opts": [
+             "The noble eightfold path, matching SN 12.27 exactly",
+             "A vow of silence",
+             "A different practice than SN 12.27's",
+             "No practice is named in this version"],
+         "correct": 0,
+         "expl": "Unchanged from SN 12.27's explicit naming."},
+        {"q": "How does this reading guide recommend approaching these two discourses?",
+         "opts": [
+             "As a pair best read together, with SN 12.27 supplying fuller context",
+             "As entirely unrelated and best read separately",
+             "As contradictory teachings requiring reconciliation",
+             "Only this discourse should be read; SN 12.27 is redundant"],
+         "correct": 0,
+         "expl": "Given how closely the two discourses match in substance."},
+        {"q": "How are choices defined in this discourse?",
+         "opts": [
+             "As three kinds: by way of body, speech, and mind",
+             "As a single undifferentiated category",
+             "As five kinds",
+             "Choices are not addressed in this discourse"],
+         "correct": 0,
+         "expl": "Matching SN 12.27's identical threefold definition."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting shared with SN 12.27."},
+    ],
+    marginalia=[
+        ("Same content, a different opening", [
+            "not dependency as a concept &mdash;",
+            "a mendicant's own itemized comprehension",
+        ]),
+        ("The fourfold formula, unchanged", [
+            "thing, origin, cessation, path &mdash;",
+            "carried over intact",
+        ]),
+        ("Titles, now individually attached", [
+            "not noble disciples in general &mdash;",
+            "this specific practitioner, named",
+        ]),
+        ("Best read as a pair", [
+            "SN 12.27's fuller context alongside &mdash;",
+            "not two separate teachings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.28/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.27.html">SN 12.27 &middot; Dependency</a> '
+        "&mdash; the discourse immediately before this one, sharing "
+        "identical content in a different frame.",
+        '<a href="sn-12.29.html">SN 12.29 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.29 — Samaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 29, "Samaṇabrāhmaṇa", "Ascetics and Brahmins",
+    meta_title="SN 12.29 — Ascetics and Brahmins | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samaṇabrāhmaṇasutta — SN 12.13's test for genuine "
+        "ascetic or brahmin status returns with a single intensified "
+        "verb, complete rather than ordinary understanding. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same fourfold test as SN 12.13 and SN 12.14, "
+                 "reprised with a single intensified verb"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a small verbal shift on already-familiar "
+                       "content, worth noting rather than overreading"),
+    ],
+    why=(
+        "This discourse returns to territory this chapter has already "
+        "covered twice: the same fourfold test of each link, the same "
+        "verdict distinguishing true ascetics and brahmins from those "
+        "in name only. What's different this time is a single word "
+        "&mdash; where SN 12.13 and SN 12.14 asked whether someone "
+        "understands (pajānāti) each link, this discourse asks "
+        "whether they completely understand (parijānāti) it, a "
+        "slightly intensified standard for the same underlying test."),
+    guide=[
+        ("A third pass over already-familiar ground", [
+            "Rather than treating this discourse as introducing new "
+            "content, this reading guide names it honestly as a third "
+            "iteration of the same test already given in SN 12.13 and "
+            "SN 12.14, distinguished by a single verbal shift rather "
+            "than substantive new teaching."]),
+        ("A single intensified verb carrying the whole difference", [
+            "Where the earlier pair used pajānāti, a general term for "
+            "understanding, this discourse consistently uses "
+            "parijānāti, suggesting a fuller, more complete grasp "
+            "&mdash; the only substantive change from the earlier "
+            "discourses' wording."]),
+        ("The same verdict, the same stakes", [
+            "Despite this verbal shift, the discourse's conclusion "
+            "matches its predecessors precisely: failing this test on "
+            "any link means the Buddha doesn't deem someone a true "
+            "ascetic or brahmin, regardless of title."]),
+        ("The same two-part symmetry preserved once more", [
+            "As in SN 12.13 and SN 12.14, this discourse gives equal, "
+            "parallel treatment to both failure and success, closing "
+            "with the identical positive verdict for those who meet "
+            "the standard."]),
+        ("A reprise placed deliberately near this chapter's close", [
+            "Returning to this theme so close to Dasabalavagga's end "
+            "suggests a deliberate echo rather than coincidence, "
+            "tying this chapter's closing material back to a question "
+            "already raised early in Āhāravagga."]),
+    ],
+    terms=[
+        ("na parijānanti",
+         "&ldquo;don't completely understand&rdquo; &mdash; the "
+         "intensified verb distinguishing this discourse's wording "
+         "from SN 12.13's plainer pajānāti."),
+        ("jarāmaraṇaṁ na parijānanti, jarāmaraṇasamudayaṁ na parijānanti",
+         "&ldquo;don't completely understand old age and death, "
+         "their origin&rdquo; &mdash; the fourfold test's first "
+         "application, matching SN 12.13's structure exactly."),
+        ("na mete&hellip; samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā",
+         "&ldquo;I don't deem them as true ascetics and "
+         "brahmins&rdquo; &mdash; the identical verdict already given "
+         "in SN 12.13 and SN 12.14."),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ&hellip; sayaṁ abhiññā sacchikatvā",
+         "&ldquo;the goal of life as an ascetic or brahmin&hellip; "
+         "realized with their own insight&rdquo; &mdash; the same "
+         "standard of personal realization already established in "
+         "SN 12.13."),
+        ("te kho me&hellip; samaṇasammatā",
+         "&ldquo;I deem them as true ascetics and brahmins&rdquo; "
+         "&mdash; the positive counterpart verdict, closing the "
+         "discourse exactly as its predecessors close."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.29:1.3-1.16"),
+        ("p", "&sect;2", "sn12.29:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 12.13 and SN 12.14?",
+         "opts": [
+             "It returns to the same fourfold test, distinguished mainly by a single intensified verb",
+             "It introduces an entirely new, unrelated teaching",
+             "It directly contradicts the earlier discourses' verdict",
+             "It replaces the twelve-link chain with a different framework"],
+         "correct": 0,
+         "expl": "A third pass over already-familiar ground, named honestly as such."},
+        {"q": "What verb does this discourse use, differing from SN 12.13's wording?",
+         "opts": [
+             "Parijānāti, \"completely understand,\" rather than the plainer pajānāti",
+             "An entirely unrelated verb with no connection to understanding",
+             "The identical verb with no change at all",
+             "A verb meaning \"to forget\""],
+         "correct": 0,
+         "expl": "A slightly intensified standard for the same underlying test."},
+        {"q": "Does this verbal shift change the discourse's fundamental verdict?",
+         "opts": [
+             "No — the verdict and stakes match SN 12.13 and SN 12.14 precisely",
+             "Yes — it reverses the entire verdict",
+             "Yes — it introduces a third, intermediate category",
+             "Yes — it removes any verdict from the discourse entirely"],
+         "correct": 0,
+         "expl": "The same conclusion, only the wording intensified."},
+        {"q": "What happens to someone who fails this test on even one link?",
+         "opts": [
+             "The Buddha doesn't deem them a true ascetic or brahmin, regardless of title",
+             "They are given a probationary period to improve",
+             "The discourse offers no verdict for partial failure",
+             "They are still deemed genuine if they fail only one link"],
+         "correct": 0,
+         "expl": "Matching the uncompromising standard from the earlier pair."},
+        {"q": "Does the discourse give equal treatment to both failure and success?",
+         "opts": [
+             "Yes — the same two-part symmetry as SN 12.13 and SN 12.14",
+             "No — only failure is addressed",
+             "No — only success is addressed",
+             "The discourse addresses neither failure nor success"],
+         "correct": 0,
+         "expl": "The identical balanced structure preserved once more."},
+        {"q": "Where in Dasabalavagga does this reprise of the theme appear?",
+         "opts": [
+             "Near the chapter's close, suggesting a deliberate echo",
+             "At the very opening of the chapter",
+             "Exactly in the chapter's middle with no significance to placement",
+             "This is actually the first appearance of the theme in the whole book"],
+         "correct": 0,
+         "expl": "Tying the chapter's closing material back to earlier content."},
+        {"q": "What is the first link the fourfold test is applied to?",
+         "opts": [
+             "Old age and death",
+             "Ignorance",
+             "Consciousness",
+             "Craving"],
+         "correct": 0,
+         "expl": "Matching the standard starting point already familiar from this chapter."},
+        {"q": "What is the standard given for genuine ascetic or brahmin status?",
+         "opts": [
+             "Realizing the goal with one's own insight, matching SN 12.13 exactly",
+             "A different, more lenient standard than SN 12.13's",
+             "A different, stricter standard entirely replacing SN 12.13's",
+             "No standard is specified in this version"],
+         "correct": 0,
+         "expl": "Identical substantive content to the earlier discourses."},
+        {"q": "What is the twelfth and final link closing the enumeration?",
+         "opts": [
+             "Choices (saṅkhārā)",
+             "Ignorance (avijjā)",
+             "Rebirth (jāti)",
+             "Feeling (vedanā)"],
+         "correct": 0,
+         "expl": "The consistent closing link across this chapter's related discourses."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this chapter."},
+    ],
+    marginalia=[
+        ("A third pass, named honestly", [
+            "not new content, but a familiar test again &mdash;",
+            "distinguished by one intensified word",
+        ]),
+        ("Complete understanding, not just understanding", [
+            "parijānāti, not pajānāti &mdash;",
+            "the whole difference from SN 12.13",
+        ]),
+        ("The same verdict, unmoved", [
+            "true or not, regardless of title &mdash;",
+            "no softer standard offered here",
+        ]),
+        ("A deliberate echo near the chapter's end", [
+            "returning to Āhāravagga's own theme &mdash;",
+            "not coincidence, but reprise",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.29/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.13.html">SN 12.13 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the earlier discourse this one reprises with a "
+        "single intensified verb.",
+        '<a href="sn-12.28.html">SN 12.28 &middot; A Mendicant</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.30.html">SN 12.30 &middot; Ascetics and Brahmins (2nd)</a> '
+        "&mdash; the next and final discourse in this chapter, "
+        "closing Dasabalavagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.30 — Dutiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 30, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    meta_title="SN 12.30 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta — closing Dasabalavagga, the "
+        "familiar test shifts from a verdict on title to a statement "
+        "of what's actually possible: transcending each link, or "
+        "not. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The familiar fourfold test, now framed around "
+                 "possibility and impossibility rather than title"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closes Dasabalavagga with a meaningful shift "
+                       "in framing"),
+    ],
+    why=(
+        "Closing Dasabalavagga, this discourse takes the same "
+        "fourfold test already given three times in this chapter and "
+        "reframes its conclusion. Rather than asking whether someone "
+        "counts as a true ascetic or brahmin, it asks something more "
+        "concrete: is it even possible for them to abide having "
+        "transcended each link? For those lacking understanding, the "
+        "answer is a flat impossibility &mdash; they simply cannot "
+        "get beyond old age and death, or any other link, without "
+        "understanding it fully. For those who understand, "
+        "transcendence becomes genuinely possible. A shift from "
+        "conferring or withholding a title to stating a plain fact "
+        "about what can and cannot actually happen."),
+    guide=[
+        ("A familiar test, reframed around outcome rather than title", [
+            "Where SN 12.13, SN 12.14, and SN 12.29 all conclude by "
+            "granting or withholding the title of true ascetic or "
+            "brahmin, this discourse instead states directly whether "
+            "transcending each link is even possible."]),
+        ("Impossibility stated as a plain fact, not a judgment", [
+            "The language here isn't evaluative in the way a title "
+            "verdict is; it states as a simple fact that it's "
+            "impossible for someone lacking understanding to abide "
+            "having transcended old age and death, or any other link."]),
+        ("Possibility given equally direct, factual treatment", [
+            "The positive case receives the same treatment in "
+            "reverse: for those who understand each link fully, "
+            "transcending it is stated as genuinely possible, with "
+            "the same flat, factual phrasing."]),
+        ("A closing chapter, its full shape now visible", [
+            "This discourse closes Dasabalavagga, and the source's "
+            "own closing summary verse lists all ten discourse titles "
+            "in sequence &mdash; the two Ten Powers discourses, Vital "
+            "Conditions, the contact-reduction trio, Dependency, A "
+            "Mendicant, and the two Ascetics-and-Brahmins pairs "
+            "closing the chapter."]),
+        ("A fitting final note for a chapter grounding authority in understanding", [
+            "Dasabalavagga opened by grounding the Buddha's own "
+            "authority in mastery of this same material; closing on a "
+            "statement of what genuine understanding actually makes "
+            "possible brings the chapter's own concern with "
+            "grounded, demonstrable knowledge full circle."]),
+    ],
+    terms=[
+        ("te vata jarāmaraṇaṁ samatikkamma ṭhassantīti netaṁ ṭhānaṁ vijjati",
+         "&ldquo;it's impossible that they will abide having "
+         "transcended old age and death&rdquo; &mdash; the shift from "
+         "a title verdict to a statement of plain impossibility."),
+        ("te vata jarāmaraṇaṁ samatikkamma ṭhassantīti ṭhānametaṁ vijjati",
+         "&ldquo;it's possible that they will abide having "
+         "transcended old age and death&rdquo; &mdash; the positive "
+         "counterpart, equally direct and factual."),
+        ("saṅkhāre samatikkamma ṭhassanti",
+         "&ldquo;abide having transcended choices&rdquo; &mdash; the "
+         "same possibility-or-impossibility framing applied to the "
+         "chain's final link."),
+        ("dasabalavaggo tatiyo",
+         "&ldquo;Dasabalavagga, the third [chapter]&rdquo; &mdash; "
+         "the untranslated closing marker naming the chapter this "
+         "discourse completes."),
+        ("dve dasabalā upanisā ca&hellip; dve ca samaṇabrāhmaṇāti",
+         "&ldquo;two Ten Powers discourses, and Vital "
+         "Conditions&hellip; and two Ascetics-and-Brahmins&rdquo; "
+         "&mdash; the closing summary verse naming this chapter's ten "
+         "discourses in sequence."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Dasabalavagga. The chapter's "
+        "closing summary verse, listing all ten discourse titles, is "
+        "a structural index and is not reproduced as running prose "
+        "here. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.30:1.3-1.13"),
+        ("p", "&sect;2", "sn12.30:2.1-2.12"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's framing differ from SN 12.13, SN 12.14, and SN 12.29?",
+         "opts": [
+             "It states possibility or impossibility of transcending each link, rather than granting a title",
+             "It abandons the fourfold test entirely",
+             "It introduces an entirely new set of twelve links",
+             "It reverses the verdict given in the earlier discourses"],
+         "correct": 0,
+         "expl": "A shift from conferring or withholding a title to stating a plain fact."},
+        {"q": "What does the discourse say about someone lacking understanding of old age and death?",
+         "opts": [
+             "It's impossible that they will abide having transcended it",
+             "It's still possible, though difficult",
+             "The discourse offers no statement either way",
+             "They will transcend it automatically over time"],
+         "correct": 0,
+         "expl": "A flat statement of impossibility, not a graded judgment."},
+        {"q": "What does the discourse say about someone who does understand each link fully?",
+         "opts": [
+             "It's possible that they will abide having transcended it",
+             "Transcendence remains impossible regardless of understanding",
+             "The discourse gives no positive case",
+             "Understanding alone guarantees transcendence with no further practice needed"],
+         "correct": 0,
+         "expl": "Equally direct, factual treatment for the positive case."},
+        {"q": "What does this discourse close, structurally, within Nidānavagga?",
+         "opts": [
+             "Dasabalavagga, this book's third chapter of ten discourses",
+             "The entire Nidānavagga book",
+             "Only a minor sub-section with no larger significance",
+             "Nothing; more discourses in this chapter follow"],
+         "correct": 0,
+         "expl": "Confirmed by the chapter's closing summary verse listing all ten titles."},
+        {"q": "How does this discourse's closing theme connect back to Dasabalavagga's opening?",
+         "opts": [
+             "Both concern grounding authority or transcendence in genuine, demonstrable understanding",
+             "There is no thematic connection between the opening and closing discourses",
+             "The opening and closing discourses directly contradict each other",
+             "The chapter's opening and closing address entirely unrelated topics"],
+         "correct": 0,
+         "expl": "Bringing the chapter's concern with grounded knowledge full circle."},
+        {"q": "What is the language used to describe impossibility, according to this reading guide?",
+         "opts": [
+             "Plain and factual, not evaluative in the way a title verdict is",
+             "Highly poetic and metaphorical",
+             "Deliberately vague and ambiguous",
+             "Framed as a personal opinion rather than a stated fact"],
+         "correct": 0,
+         "expl": "A statement of what can and cannot happen, not a judgment of worth."},
+        {"q": "What is the first link addressed in this discourse's fourfold test?",
+         "opts": [
+             "Old age and death",
+             "Ignorance",
+             "Craving",
+             "Consciousness"],
+         "correct": 0,
+         "expl": "The consistent starting point across this chapter's related discourses."},
+        {"q": "What is the final link closing the enumeration?",
+         "opts": [
+             "Choices (saṅkhārā)",
+             "Ignorance (avijjā)",
+             "Rebirth (jāti)",
+             "Feeling (vedanā)"],
+         "correct": 0,
+         "expl": "Matching the standard closing point already established in this chapter."},
+        {"q": "What does the chapter's closing summary verse list?",
+         "opts": [
+             "All ten discourse titles of Dasabalavagga in sequence",
+             "A list of every past Buddha mentioned in this book",
+             "A count of total verses in the chapter",
+             "Nothing further; only this discourse's own title is given"],
+         "correct": 0,
+         "expl": "A structural index summarizing the entire chapter by title."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this chapter."},
+    ],
+    marginalia=[
+        ("A title verdict, replaced by a plain fact", [
+            "not \"true\" or not &mdash;",
+            "possible to transcend, or not",
+        ]),
+        ("Impossibility, stated flatly", [
+            "not a harsh judgment &mdash;",
+            "simply what cannot happen without understanding",
+        ]),
+        ("A chapter's concern, come full circle", [
+            "authority grounded in understanding, at the opening &mdash;",
+            "transcendence grounded in it, at the close",
+        ]),
+        ("Ten titles, named in one closing verse", [
+            "the whole chapter's shape, summarized &mdash;",
+            "not reproduced verbatim here",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.30/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.29.html">SN 12.29 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.31.html">SN 12.31 &middot; What Has Come to Be</a> '
+        "&mdash; opening Kaḷārakhattiyavagga, this book's fourth "
+        "chapter.",
     ],
 )
