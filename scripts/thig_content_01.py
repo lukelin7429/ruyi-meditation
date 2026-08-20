@@ -12453,6 +12453,228 @@ page(
         '<a href="thig-8.1.html">Thig 8.1 &mdash; S&imacr;s&umacr;pac'
         "&amacr;l&amacr;</a> &mdash; the poem immediately before this "
         "one, closing the Book of the Eights.",
+        '<a href="thig-10.1.html">Thig 10.1 &mdash; Kis&amacr;gotam&imacr;'
+        "</a> &mdash; the next poem, opening the Book of the Elevens.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 10.1 — Kisāgotamī
+# --------------------------------------------------------------------------- #
+page(
+    10, 1, "Kis&amacr;gotam&imacr;", "Kis&amacr;gotam&imacr;",
+    meta_title="Thig 10.1 — Kisāgotamī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Kisāgotamī's verses, the Book of the Elevens' single poem, "
+        "recounting a far more extensive tragedy than the mustard-seed "
+        "story most readers know. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Elevens &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses "
+                    "state; a closing line names the speaker inside "
+                    "the quotation itself"),
+        ("Speaker", "Kisāgotamī, quoting the Buddha's teaching twice, "
+                    "then narrating her own catastrophic losses"),
+        ("Form", "Eleven four-line verses, the entire Book of the "
+                 "Elevens"),
+        ("Length", "under 2 minutes to read"),
+        ("Northern parallel", "Later tradition and popular retelling "
+                              "know Kisāgotamī chiefly through the "
+                              "mustard-seed parable about a single "
+                              "child's death; this reading guide notes "
+                              "that this verse itself tells a "
+                              "different, more extensive story."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of the most extensive catalogs of loss "
+                       "anywhere in this collection"),
+    ],
+    why=(
+        "This poem is cited as Thig 10.1, but its own title names it "
+        "&lsquo;the Book of the Elevens&rsquo; &mdash; the traditional "
+        "collection has no separate &lsquo;Book of the Tens&rsquo; at "
+        "all, its books named by each poet's own verse count rather "
+        "than by sequential number. Kisāgotamī's own account here is "
+        "far more extensive than the single-child mustard-seed story "
+        "many readers may already know: a husband found dead on the "
+        "road, two children lost, and her parents and brother all "
+        "burning on one funeral pyre."),
+    guide=[
+        ("A citation number with no matching book name", [
+            "&lsquo;Thig 10.1&rsquo; might suggest a &lsquo;Book of the "
+            "Tens&rsquo;, but this poem's own second line names it "
+            "&lsquo;Ekādasakanipāta&rsquo;, the Book of the Elevens "
+            "&mdash; the traditional collection's books skip directly "
+            "from the Nines to the Elevens, then the Twelves, the "
+            "Sixteens, the Twenties, and beyond, named by verse count "
+            "rather than sequential number."]),
+        ("Two teachings, quoted before her own account begins", [
+            "Kisāgotamī opens by quoting a general teaching on good "
+            "friendship leading to the four noble truths, then a "
+            "second, more specific teaching &mdash; &lsquo;a woman's "
+            "life is painful... after giving birth just once, some "
+            "women even cut their own throat&rsquo; &mdash; which "
+            "Sujato's own note identifies as her quoting or paraphrasing "
+            "the Buddha directly."]),
+        ("A catalog of loss more extensive than the familiar story", [
+            "&lsquo;I saw my husband dead... my two children have died... "
+            "mother, father, and brother all burning up on the same "
+            "pyre&rsquo; describes a cascading tragedy far beyond the "
+            "single child's death most readers associate with her "
+            "&mdash; that popular mustard-seed parable belongs to later "
+            "commentary, not to what this verse itself states."]),
+        ("Realization found in a charnel ground, not despite the horror but within it", [
+            "&lsquo;While staying in the charnel ground, I saw my son's "
+            "flesh being eaten... and my husband dead, I realized "
+            "freedom from death&rsquo; places her breakthrough at the "
+            "site of the worst of it, closing with a third-person line "
+            "&mdash; &lsquo;the senior nun Kisāgotamī, her mind "
+            "released, said this&rsquo; &mdash; folded inside the same "
+            "quotation as her own final first-person words."]),
+    ],
+    terms=[
+        ("Kis&amacr;gotam&imacr;",
+         "this poem's speaker, whose own account describes a far more "
+         "extensive tragedy than the single-child story later "
+         "tradition made famous."),
+        ("kaly&amacr;&#7751;amittat&amacr;",
+         "&ldquo;good friendship&rdquo; &mdash; the theme of the "
+         "teaching this poem opens by quoting."),
+        ("purisadammas&amacr;rathi",
+         "&ldquo;guide for those who wish to train&rdquo;, an epithet "
+         "for the Buddha, marking the second teaching this poem quotes "
+         "as specifically his."),
+        ("dhamm&amacr;d&amacr;sa",
+         "&ldquo;the mirror of the Dhamma&rdquo; &mdash; the specific "
+         "image Kisāgotamī uses for how she verified her own "
+         "extinguishment."),
+        ("amata",
+         "&ldquo;freedom from death&rdquo; or the deathless &mdash; "
+         "named twice as what she achieved, amid a poem saturated with "
+         "death."),
+    ],
+    text_intro=(
+        "The text in full: two quoted teachings, her own account of "
+        "loss, a reply, and her realization, closing with a "
+        "third-person line inside the same quotation. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig10.1:1.1-3.4"),
+        ("p", "&sect;2", "thig10.1:4.1-5.4"),
+        ("p", "&sect;3", "thig10.1:6.1-7.4"),
+        ("p", "&sect;4", "thig10.1:8.1-8.4"),
+        ("p", "&sect;5", "thig10.1:9.1-9.4"),
+        ("p", "&sect;6", "thig10.1:10.1-10.4"),
+        ("p", "&sect;7", "thig10.1:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What does this poem's own title name its book, despite being cited as Thig 10.1?",
+         "opts": [
+             "The Book of the Tens",
+             "The Book of the Twelves",
+             "No book name is given",
+             "The Book of the Elevens"],
+         "correct": 3,
+         "expl": "The traditional collection has no separate Book of the Tens at all."},
+        {"q": "What two teachings does Kisāgotamī quote before her own account begins?",
+         "opts": [
+             "No teachings are quoted",
+             "Only a teaching on generosity",
+             "Good friendship leading to the four noble truths, and a specific teaching on women's suffering",
+             "A teaching about farming"],
+         "correct": 2,
+         "expl": "Two distinct quoted teachings, the second explicitly identified as the Buddha's own words."},
+        {"q": "How does this poem's account of loss compare to the popular mustard-seed story?",
+         "opts": [
+             "It describes a far more extensive tragedy — husband, two children, and her parents and brother all lost",
+             "It is identical to that story",
+             "It describes no loss at all",
+             "The mustard-seed story appears directly in this verse"],
+         "correct": 0,
+         "expl": "The popular story belongs to later commentary, not to what this verse itself states."},
+        {"q": "Where does Kisāgotamī say she realized freedom from death?",
+         "opts": [
+             "In a royal palace",
+             "In a quiet garden",
+             "While staying in the charnel ground, having seen her son's flesh being eaten",
+             "The location is not given"],
+         "correct": 2,
+         "expl": "Breakthrough located at the site of the worst of her grief, not apart from it."},
+        {"q": "What happens to her mother, father, and brother, according to this poem?",
+         "opts": [
+             "Nothing is said about them",
+             "They abandon her",
+             "They survive unharmed",
+             "They all burn up on the same funeral pyre"],
+         "correct": 3,
+         "expl": "Named directly as part of her cascading losses."},
+        {"q": "What does 'dhammādāsa' mean?",
+         "opts": [
+             "'Good friendship'",
+             "'The mirror of the Dhamma' — how she verified her own extinguishment",
+             "'A charnel ground'",
+             "'A funeral pyre'"],
+         "correct": 1,
+         "expl": "Her own specific image for confirming her realization."},
+        {"q": "How does this poem's final lines describe Kisāgotamī, while still inside the same quotation as her own words?",
+         "opts": [
+             "In the third person: 'the senior nun Kisāgotamī, her mind released, said this'",
+             "The poem gives no further description",
+             "As still grieving, unresolved",
+             "As returning to lay life"],
+         "correct": 0,
+         "expl": "A structural peculiarity: third-person narration folded inside the same quotation mark."},
+        {"q": "What does 'purisadammasārathi' refer to?",
+         "opts": [
+             "Kisāgotamī's own husband",
+             "An epithet for the Buddha, marking the teaching he is quoted as giving on women's suffering",
+             "A charioteer with no further significance",
+             "A place name"],
+         "correct": 1,
+         "expl": "Naming the source of the second quoted teaching specifically."},
+        {"q": "What position does this poem hold in the Therigatha?",
+         "opts": [
+             "It closes the Book of the Nines",
+             "It is the final poem of the entire collection",
+             "It opens the Book of the Elevens, following the single-poem Book of the Nines",
+             "It stands outside any book"],
+         "correct": 2,
+         "expl": "The sole poem in this book, following Thig 9.1."},
+        {"q": "What does 'amata' mean?",
+         "opts": [
+             "'Freedom from death' or the deathless — named twice as what she achieved",
+             "'A funeral pyre'",
+             "'Good friendship'",
+             "'A charnel ground'"],
+         "correct": 0,
+         "expl": "A pointed word choice, given how much death this poem describes."},
+    ],
+    marginalia=[
+        ("A number with no matching book", [
+            "cited as 10.1,",
+            "named the Elevens"
+        ]),
+        ("Two teachings, quoted first", [
+            "good friendship,",
+            "then women's suffering"
+        ]),
+        ("A tragedy beyond the familiar story", [
+            "husband, children,",
+            "parents, brother"
+        ]),
+        ("Realized within the horror, not apart", [
+            "the charnel ground",
+            "itself"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig10.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-9.1.html">Thig 9.1 &mdash; Va&#7693;&#7693;ha'
+        "&rsquo;s Mother</a> &mdash; the poem immediately before this "
+        "one, closing the Book of the Nines.",
         '<a href="./">Therigatha</a> &mdash; back to the collection '
         "index.",
     ],
