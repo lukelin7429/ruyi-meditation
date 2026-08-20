@@ -30083,3 +30083,2195 @@ page(
         "back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.11 — Pāsāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 11, "Pāsāṇa", "Boulders",
+    meta_title="SN 4.11 — Boulders | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pāsāṇasutta — opening the second vagga of the Mārasaṃyutta, "
+        "Māra abandons shape-shifting for a direct physical act, "
+        "crushing boulders beside the Buddha on Vulture's Peak. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on Vulture's Peak Mountain, during "
+                    "a rainy night"),
+        ("Speakers", "The Buddha and Māra the Wicked"),
+        ("Form", "A direct physical act of intimidation, met by a "
+                 "single four-line verse"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, opening this vagga with the most "
+                       "physically direct tactic Māra has used yet"),
+    ],
+    why=(
+        "This discourse opens the second vagga of the Mārasaṃyutta with "
+        "a departure from shape-shifting: rather than manifesting as an "
+        "elephant, serpent, or rainbow of colors, Māra simply crushes "
+        "large boulders near the meditating Buddha, a real physical "
+        "act rather than an illusory form. The Buddha's reply matches "
+        "the physical scale of the provocation directly: even shaking "
+        "the entire mountain would leave the rightly released "
+        "unshaken."),
+    guide=[
+        ("A shift from illusion to actual physical force", [
+            "Every intimidation attempt in this vagga's first ten "
+            "discourses relied on manifestation &mdash; a form Māra "
+            "took on, whether elephant, serpent, or abstract color; "
+            "here he instead performs a real physical act on the "
+            "actual environment, crushing boulders rather than "
+            "appearing as one."]),
+        ("A named, specific location", [
+            "Vulture's Peak Mountain (Gijjhakūṭa) is named directly, a "
+            "location historically significant across the wider canon "
+            "as a frequent site of the Buddha's teaching, grounding "
+            "this confrontation in a specific and recognizable place "
+            "rather than a generic wilderness setting."]),
+        ("A reply scaled to match the provocation exactly", [
+            "The verse's logic is proportional: Māra crushes boulders, "
+            "and the Buddha's reply doesn't merely dismiss this "
+            "specific act but extends the hypothetical to its maximum "
+            "&mdash; even shaking the entire mountain, not just some "
+            "rocks near it, would still leave the awakened unmoved."]),
+        ("Unshaken as a physical and psychological claim at once", [
+            "&lsquo;Unshaken&rsquo; carries a double meaning here that "
+            "this brief verse doesn't need to spell out: physically "
+            "unmoved by the literal shaking of a mountain, and "
+            "psychologically unmoved by the fear such shaking might "
+            "otherwise provoke, both claims collapsed into one word."]),
+        ("The shortest confrontation to open a vagga in this saṃyutta", [
+            "Compared to SN 4.1's fuller exchange opening the previous "
+            "vagga, this discourse's brevity &mdash; a single "
+            "provocation, a single four-line reply &mdash; suggests "
+            "this second vagga may favor more compressed confrontations "
+            "than its predecessor, a pattern worth watching across the "
+            "discourses that follow."]),
+    ],
+    terms=[
+        ("Gijjhakūṭa",
+         "&ldquo;Vulture's Peak&rdquo; &mdash; the specific mountain "
+         "named as this discourse's setting, a frequent site of the "
+         "Buddha's teaching across the wider canon."),
+        ("pāsāṇa",
+         "&ldquo;boulders&rdquo; &mdash; what Māra crushes near the "
+         "Buddha, giving this discourse its title."),
+        ("bhayabheravaromahaṁsa",
+         "&ldquo;fear, terror, and goosebumps&rdquo; &mdash; the "
+         "reaction Māra wants to provoke, the same stated intent as "
+         "at SN 4.2 and SN 4.6."),
+        ("sammāvimutta",
+         "&ldquo;rightly released&rdquo; &mdash; the Buddha's own "
+         "description of himself in the verse's reply."),
+        ("akampiya",
+         "&ldquo;unshaken&rdquo; &mdash; the verse's closing claim, "
+         "carrying both physical and psychological meaning at once."),
+    ],
+    text_intro=(
+        "The discourse in full: the boulder-crushing provocation and "
+        "the Buddha's proportional reply. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.11:1.1-1.3"),
+        ("p", "&sect;2", "sn4.11:2.1-2.1"),
+        ("p", "&sect;3", "sn4.11:3.1-3.4"),
+        ("p", "&sect;4", "sn4.11:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What tactic does Māra use in this discourse, unlike the previous vagga's discourses?",
+         "opts": [
+             "A direct physical act — crushing boulders — rather than shape-shifting into a form",
+             "A verbal accusation about mortification",
+             "Possessing a villager to refuse the Buddha alms",
+             "Denying that time passes at all"],
+         "correct": 0,
+         "expl": "A departure from the illusory manifestations of elephants, serpents, and colors."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha, on Vulture's Peak Mountain",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Varanasi, in the deer park"],
+         "correct": 0,
+         "expl": "A named, historically significant location for the Buddha's teaching across the wider canon."},
+        {"q": "How does the Buddha's reply relate in scale to Māra's provocation?",
+         "opts": [
+             "It extends the hypothetical to the maximum: shaking the entire mountain, not just some boulders",
+             "It ignores the provocation's scale entirely",
+             "It responds with an equally small, understated claim",
+             "It asks Māra to demonstrate a larger act first"],
+         "correct": 0,
+         "expl": "A reply proportional to and exceeding the provocation's own scale."},
+        {"q": "What double meaning does the reading guide identify in “unshaken”?",
+         "opts": [
+             "Both physically unmoved and psychologically unmoved by fear",
+             "Only a physical claim, with no psychological dimension",
+             "Only a psychological claim, unrelated to physical stability",
+             "A claim about moral rather than physical or mental steadiness"],
+         "correct": 0,
+         "expl": "Both claims collapsed into a single word in this brief verse."},
+        {"q": "How does this discourse's length compare to SN 4.1's, which opened the previous vagga?",
+         "opts": [
+             "Considerably shorter and more compressed",
+             "Considerably longer",
+             "Exactly the same length",
+             "This discourse contains no verse at all"],
+         "correct": 0,
+         "expl": "Suggesting this second vagga may favor more compressed confrontations."},
+        {"q": "What mountain is named as this discourse's setting?",
+         "opts": [
+             "Vulture's Peak (Gijjhakūṭa)",
+             "Mount Sineru",
+             "Mount Vipula",
+             "No specific mountain is named"],
+         "correct": 0,
+         "expl": "A frequent site of the Buddha's teaching across the wider canon."},
+        {"q": "What does Māra want to provoke in the Buddha, according to the setting note?",
+         "opts": [
+             "Fear, terror, and goosebumps",
+             "Anger and retaliation",
+             "Curiosity about the boulders",
+             "A change in teaching location"],
+         "correct": 0,
+         "expl": "The same stated intent as at SN 4.2 and SN 4.6."},
+        {"q": "How does Māra react at the end of this discourse?",
+         "opts": [
+             "Realizing he has been recognized, he vanishes miserable and sad",
+             "He crushes additional boulders",
+             "He argues further before leaving",
+             "He remains and continues the confrontation"],
+         "correct": 0,
+         "expl": "The stock reaction established across this saṃyutta's discourses."},
+        {"q": "What vagga does this discourse open?",
+         "opts": [
+             "This saṃyutta's second vagga, following the Jīvitavagga",
+             "The third and final vagga of this saṃyutta",
+             "An entirely new saṃyutta",
+             "This discourse does not open any vagga"],
+         "correct": 0,
+         "expl": "The Jīvitavagga (SN 4.1-10) having just closed with the paired Lifespan discourses."},
+        {"q": "What term describes the Buddha in the verse's reply?",
+         "opts": [
+             "“The rightly released” (sammāvimutta)",
+             "“The great hero”",
+             "“The lion among ascetics”",
+             "No self-description is given"],
+         "correct": 0,
+         "expl": "The specific term used in the Buddha's brief answering verse."},
+    ],
+    marginalia=[
+        ("Boulders crushed, not a form taken", [
+            "real force, not illusion this time &mdash;",
+            "a new tactic opens this vagga",
+        ]),
+        ("Shake the whole mountain", [
+            "the reply exceeds the provocation &mdash;",
+            "proportional, then beyond",
+        ]),
+        ("Unshaken, twice over", [
+            "physically and psychologically at once &mdash;",
+            "one word carrying both claims",
+        ]),
+        ("A vagga's brief opening", [
+            "shorter than SN 4.1's fuller exchange &mdash;",
+            "compression as this section's own register",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.10.html">SN 4.10 &middot; Lifespan (2nd)</a> '
+        "&mdash; the discourse immediately before this one, closing "
+        "the Jīvitavagga.",
+        '<a href="sn-4.12.html">SN 4.12 &middot; Lion</a> &mdash; the '
+        "next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.12 — Sīhasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 12, "Sīha", "Lion",
+    meta_title="SN 4.12 — Lion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sīhasutta — teaching before a large assembly, the Buddha is "
+        "challenged over his own confidence, and this vagga reveals for "
+        "the first time Māra's private motive: to deceive the crowd. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in Jeta&rsquo;s Grove, before a large "
+                    "assembly"),
+        ("Speakers", "The Buddha, teaching an assembly, and Māra the "
+                     "Wicked"),
+        ("Form", "Māra's private thought revealed, then a challenging "
+                 "verse met by a confident reply"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the first discourse in this vagga to show "
+                       "readers Māra's reasoning before he acts"),
+    ],
+    why=(
+        "This discourse introduces a narrative device this vagga will "
+        "use repeatedly: readers are shown Māra's private thought "
+        "before he acts, watching him calculate &lsquo;why don't I go "
+        "and pull the wool over their eyes&rsquo; while the Buddha "
+        "teaches an assembled crowd. His challenge questions the "
+        "Buddha's self-assurance directly &mdash; why roar so "
+        "confidently, when someone could still defeat you? &mdash; met "
+        "by a reply that reframes the roar itself as simply what great "
+        "heroes do, unafraid, having already crossed over worldly "
+        "attachment."),
+    guide=[
+        ("The reader let in on Māra's calculation", [
+            "Unlike this vagga's opening discourse, where Māra's "
+            "motive is never stated, this one opens a window directly "
+            "into his reasoning: he sees a large, attentive assembly "
+            "and decides deception is worth attempting precisely "
+            "because the audience is substantial &mdash; a strategic "
+            "calculation, not blind aggression."]),
+        ("An attack on confidence itself, not conduct or doctrine", [
+            "Māra's challenge does not accuse the Buddha of impurity or "
+            "claim he remains bound; it targets something more social "
+            "&mdash; his self-assurance before a crowd &mdash; framing "
+            "confidence itself as presumptuous, vulnerable to an "
+            "unnamed challenger who might yet defeat him."]),
+        ("The lion's roar as a shared image, not private boast", [
+            "The Buddha's reply does not deny roaring confidently; it "
+            "reclaims the image entirely, describing it as what "
+            "&lsquo;great heroes&rsquo; do in general, plural, "
+            "collectivizing what Māra tried to frame as isolated, "
+            "vulnerable self-assertion."]),
+        ("Attained to power, crossed over clinging", [
+            "The verse's closing description &mdash; &lsquo;attained to "
+            "power&rsquo;, having &lsquo;crossed over clinging to the "
+            "world&rsquo; &mdash; locates the Buddha's confidence not in "
+            "personal bravado but in a specific, describable "
+            "accomplishment, answering Māra's challenge about "
+            "self-assurance with a claim about actual attainment."]),
+        ("A public confrontation compressed as tightly as a private one", [
+            "Despite the large assembly present as an audience, the "
+            "exchange itself remains as compact as this vagga's more "
+            "private confrontations &mdash; the crowd's presence "
+            "matters to Māra's motive but does not expand the verses "
+            "themselves beyond this vagga's characteristic brevity."]),
+    ],
+    terms=[
+        ("sīhanāda",
+         "&ldquo;lion's roar&rdquo; &mdash; the confident teaching "
+         "voice Māra challenges, giving this discourse its title."),
+        ("vippalambheyyaṁ",
+         "&ldquo;pull the wool over their eyes&rdquo; &mdash; Māra's "
+         "own stated plan, part of this vagga's recurring formula for "
+         "revealing his private calculation."),
+        ("visārada",
+         "&ldquo;self-assured&rdquo; &mdash; the quality Māra's "
+         "challenge specifically targets."),
+        ("mahāvīra",
+         "&ldquo;great heroes&rdquo; &mdash; the Buddha's collectivizing "
+         "term, reframing his own confidence as shared rather than "
+         "isolated."),
+        ("vusitavā",
+         "&ldquo;attained to power&rdquo; &mdash; part of the verse's "
+         "closing description of the Realized One's actual "
+         "accomplishment."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's revealed calculation, his "
+        "challenge, and the Buddha's confident reply. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.12:1.1-1.2"),
+        ("p", "&sect;2", "sn4.12:2.1-2.4"),
+        ("p", "&sect;3", "sn4.12:3.1-3.4"),
+        ("p", "&sect;4", "sn4.12:4.1-4.4"),
+        ("p", "&sect;5", "sn4.12:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "What narrative device does this discourse introduce, used repeatedly across this vagga?",
+         "opts": [
+             "Showing readers Māra's private thought before he acts",
+             "A dialogue between Māra and a mendicant, not the Buddha",
+             "A flashback to Māra's own past life",
+             "A written letter Māra sends to the Buddha"],
+         "correct": 0,
+         "expl": "Watching Māra calculate his strategy rather than acting without explanation."},
+        {"q": "What does Māra's revealed thought show about his motive?",
+         "opts": [
+             "A strategic calculation, deciding deception is worth attempting because the audience is large",
+             "Pure blind aggression with no reasoning at all",
+             "A wish to genuinely learn from the Buddha's teaching",
+             "Fear that the Buddha will attack him first"],
+         "correct": 0,
+         "expl": "Motivated specifically by the size and attentiveness of the assembly."},
+        {"q": "What does Māra's challenge target?",
+         "opts": [
+             "The Buddha's self-assurance before the crowd, not his conduct or doctrine",
+             "A claim that the Buddha remains bound by snares",
+             "An accusation of abandoning true purification",
+             "A physical intimidation through shape-shifting"],
+         "correct": 0,
+         "expl": "Framing confidence itself as presumptuous and vulnerable."},
+        {"q": "How does the Buddha's reply reframe the lion's roar?",
+         "opts": [
+             "As what great heroes do in general, not an isolated personal boast",
+             "By denying that he roared confidently at all",
+             "By apologizing for appearing overconfident",
+             "By asking the assembly to judge the matter themselves"],
+         "correct": 0,
+         "expl": "Collectivizing what Māra tried to frame as vulnerable self-assertion."},
+        {"q": "What does the verse's closing description locate the Buddha's confidence in?",
+         "opts": [
+             "A specific, describable attainment — having crossed over clinging to the world",
+             "Personal bravado unrelated to any attainment",
+             "The size of the assembly supporting him",
+             "Māra's own inability to defeat him in argument"],
+         "correct": 0,
+         "expl": "Answering Māra's challenge about self-assurance with a claim about actual accomplishment."},
+        {"q": "How does the crowd's presence affect the verses themselves?",
+         "opts": [
+             "It matters to Māra's motive but doesn't expand the verses beyond this vagga's typical brevity",
+             "It causes the exchange to become much longer than usual",
+             "The crowd actively participates in the verses",
+             "The verses are addressed to the crowd rather than to Māra"],
+         "correct": 0,
+         "expl": "The exchange remains as compact as this vagga's more private confrontations."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove, before a large assembly",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "At Varanasi, in the deer park"],
+         "correct": 0,
+         "expl": "A public teaching setting, distinct from SN 4.11's solitary mountain confrontation."},
+        {"q": "What is Māra's stated plan in his private thought?",
+         "opts": [
+             "To “pull the wool over their eyes”",
+             "To physically attack the assembly",
+             "To offer the Buddha a kingdom",
+             "To debate doctrine publicly and openly"],
+         "correct": 0,
+         "expl": "A recurring formula this vagga uses for Māra's revealed calculation."},
+        {"q": "How does Māra react at the end of this discourse?",
+         "opts": [
+             "Realizing he has been recognized, he vanishes miserable and sad",
+             "He continues challenging the Buddha before the crowd",
+             "He turns to address the assembly directly",
+             "He physically attacks the Buddha"],
+         "correct": 0,
+         "expl": "The stock reaction established across this saṃyutta's discourses."},
+        {"q": "What claim does Māra's challenge specifically make about a potential opponent?",
+         "opts": [
+             "That “someone will wrestle with you,” questioning the Buddha's assumed victory",
+             "That the assembly itself will turn against the Buddha",
+             "That a specific named rival teacher will arrive",
+             "That the Buddha's own disciples doubt him"],
+         "correct": 0,
+         "expl": "The specific content of Māra's challenge to the Buddha's self-assurance."},
+    ],
+    marginalia=[
+        ("A calculation, shown to the reader", [
+            "why not deceive so large a crowd? &mdash;",
+            "strategy revealed before the act",
+        ]),
+        ("Why roar so self-assured?", [
+            "confidence itself made the target &mdash;",
+            "not conduct, not doctrine",
+        ]),
+        ("Great heroes roar, plural", [
+            "not one man's private boast &mdash;",
+            "the image reclaimed, collectivized",
+        ]),
+        ("Attained to power, named specifically", [
+            "not bravado, but accomplishment &mdash;",
+            "confidence answered with substance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.11.html">SN 4.11 &middot; Boulders</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-4.13.html">SN 4.13 &middot; A Splinter</a> '
+        "&mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.13 — Sakalikasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 13, "Sakalika", "A Splinter",
+    meta_title="SN 4.13 — A Splinter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Sakalikasutta — genuinely wounded and in real pain, the Buddha "
+        "lies down mindfully, and answers Māra's mockery with one of "
+        "this vagga's most moving verses on sympathy for all living "
+        "creatures. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Maddakucchi deer park"),
+        ("Speakers", "The Buddha, physically wounded, and Māra the "
+                     "Wicked"),
+        ("Form", "A real physical injury endured, a mocking taunt, and "
+                 "an extended, emotionally rich answering verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most emotionally weighted discourse in this "
+                       "vagga so far"),
+    ],
+    why=(
+        "Unlike every prior confrontation, this one begins with a real "
+        "physical wound: the Buddha's foot has been cut by a wooden "
+        "splinter, causing him harrowing, sharp, severe pain, which he "
+        "endures with mindfulness before lying down deliberately in the "
+        "lion's posture. Māra mocks this as feebleness or "
+        "self-indulgence &mdash; are you drunk on poetry, sleepyhead? "
+        "&mdash; and receives one of this vagga's most moving replies: "
+        "not a claim of immunity to pain, but of lying down &lsquo;full "
+        "of sympathy for all living creatures&rsquo;, at ease precisely "
+        "because the dart of craving, unlike the physical splinter, has "
+        "already been drawn out."),
+    guide=[
+        ("Genuine injury, not illusion or metaphor", [
+            "Every earlier confrontation in this vagga involved Māra's "
+            "manifestations or claims; here the provoking circumstance "
+            "is entirely real &mdash; an actual wound, described with "
+            "unusual clinical precision as &lsquo;painful, sharp, "
+            "severe, acute, unpleasant, and disagreeable&rsquo; &mdash; "
+            "grounding this discourse in genuine physical suffering "
+            "rather than a contest of images."]),
+        ("Mockery aimed at weakness, not doctrine or bondage", [
+            "Māra's taunt targets something almost petty given the "
+            "circumstances: not the Buddha's teaching or his claimed "
+            "freedom, but the simple fact of lying down, questioning "
+            "whether it signals feebleness, self-indulgent poetry, or "
+            "unsatisfied ambition &mdash; kicking at someone already "
+            "in pain."]),
+        ("Two kinds of dart, distinguished precisely", [
+            "The verse's central image separates physical pain from "
+            "existential suffering with unusual clarity: even those "
+            "with an actual dart piercing their heart moment by moment "
+            "can still find some sleep, so why not the Buddha, whose "
+            "dart &mdash; craving, not the literal splinter &mdash; has "
+            "already been drawn out entirely?"]),
+        ("Sympathy as the stated reason for rest, not merely its result", [
+            "The verse does not simply claim the Buddha rests despite "
+            "pain; it names sympathy for all living creatures as the "
+            "actual content of what fills his mind while lying down, "
+            "turning what could read as private endurance into "
+            "something outward-facing and compassionate."]),
+        ("No decline seen, days and nights undisturbing", [
+            "The verse's closing claim &mdash; seeing &lsquo;no decline "
+            "for myself in the world&rsquo; &mdash; answers this "
+            "vagga's earlier temptations around lifespan and "
+            "impermanence (SN 4.9, SN 4.10) from a different angle: not "
+            "denying that decline exists, but describing a state in "
+            "which decline no longer registers as personal loss."]),
+    ],
+    terms=[
+        ("sakalikā",
+         "&ldquo;splinter&rdquo; &mdash; the wooden fragment that "
+         "wounds the Buddha's foot, giving this discourse its title."),
+        ("sīhaseyya",
+         "&ldquo;the lion's posture&rdquo; &mdash; the same deliberate "
+         "resting position adopted at SN 4.7, here taken up while "
+         "genuinely wounded."),
+        ("kaṇṭaka",
+         "&ldquo;dart&rdquo; &mdash; the verse's central image, "
+         "distinguishing physical pain from the dart of craving "
+         "already drawn out."),
+        ("sabbabhūtānukampī",
+         "&ldquo;full of sympathy for all living creatures&rdquo; "
+         "&mdash; the stated content of the Buddha's mind while lying "
+         "down, named twice in the verse."),
+        ("parihāniṁ",
+         "&ldquo;decline&rdquo; &mdash; what the Buddha says he sees "
+         "none of for himself, closing the verse's final stanza."),
+    ],
+    text_intro=(
+        "The discourse in full: the genuine injury endured mindfully, "
+        "Māra's mocking taunt, and the extended, emotionally rich "
+        "reply. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.13:1.1-1.7"),
+        ("p", "&sect;2", "sn4.13:2.1-2.4"),
+        ("p", "&sect;3", "sn4.13:3.1-3.4"),
+        ("p", "&sect;4", "sn4.13:4.1-4.4"),
+        ("p", "&sect;5", "sn4.13:5.1-5.4"),
+        ("p", "&sect;6", "sn4.13:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What circumstance opens this discourse, unlike earlier confrontations in this vagga?",
+         "opts": [
+             "A genuine physical injury — the Buddha's foot cut by a wooden splinter",
+             "An illusory manifestation Māra creates",
+             "A verbal claim about the Buddha's bondage",
+             "A private reflection Māra overhears"],
+         "correct": 0,
+         "expl": "Real pain, described with unusual clinical precision, rather than a contest of images."},
+        {"q": "What does the Buddha do despite this real pain?",
+         "opts": [
+             "Endures it mindfully and lies down deliberately in the lion's posture",
+             "Cries out and calls for help",
+             "Refuses to move at all",
+             "Immediately heals the wound through psychic power"],
+         "correct": 0,
+         "expl": "A composed, deliberate response to genuine suffering."},
+        {"q": "What does Māra's taunt target?",
+         "opts": [
+             "The simple fact of lying down — questioning feebleness or self-indulgence",
+             "The Buddha's claimed freedom from bondage",
+             "The Buddha's teaching to the assembly",
+             "The Buddha's physical appearance"],
+         "correct": 0,
+         "expl": "A petty target given the circumstances, kicking at someone already in pain."},
+        {"q": "How does the verse distinguish physical pain from existential suffering?",
+         "opts": [
+             "Even those with an actual dart in the heart can sleep, but the Buddha's dart of craving is already drawn out",
+             "It denies that physical pain exists for the awakened",
+             "It claims all suffering is identical regardless of source",
+             "It does not draw any such distinction"],
+         "correct": 0,
+         "expl": "The verse's central image, separating the physical splinter from the deeper dart of craving."},
+        {"q": "What does the verse name as the actual content of the Buddha's mind while resting?",
+         "opts": [
+             "Sympathy for all living creatures",
+             "Anger at Māra's mockery",
+             "Anxiety about the wound's severity",
+             "Indifference to all beings"],
+         "correct": 0,
+         "expl": "Turning private endurance into something outward-facing and compassionate."},
+        {"q": "What does the verse's closing claim about decline mean?",
+         "opts": [
+             "Not that decline doesn't exist, but that it no longer registers as personal loss",
+             "That the Buddha is now physically immortal",
+             "That decline only affects ordinary people, not arahants",
+             "That decline has been permanently reversed"],
+         "correct": 0,
+         "expl": "Answering this vagga's earlier temptations around lifespan and impermanence from a new angle."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Rājagaha, in the Maddakucchi deer park",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Varanasi, in the deer park at Isipatana"],
+         "correct": 0,
+         "expl": "A specific location distinct from this vagga's earlier settings."},
+        {"q": "How does this discourse's emotional register compare to most others in this vagga?",
+         "opts": [
+             "More emotionally weighted, given the genuine physical suffering involved",
+             "Identical in tone to the more spectacular confrontations",
+             "More comedic, similar to some earlier taunts",
+             "Entirely without emotional content"],
+         "correct": 0,
+         "expl": "The reading guide's assessment given the real injury at its center."},
+        {"q": "What specific words does Māra use to mock the Buddha?",
+         "opts": [
+             "Asking if he is feeble, drunk on poetry, or a “sleepyhead”",
+             "Directly accusing him of cowardice in battle",
+             "Claiming he has broken a specific monastic rule",
+             "Denying that any injury occurred at all"],
+         "correct": 0,
+         "expl": "A series of dismissive, almost petty jabs given the circumstances."},
+        {"q": "How does this discourse's posture detail compare to SN 4.7's?",
+         "opts": [
+             "The same lion's posture, but here adopted while genuinely wounded rather than after ordinary meditation",
+             "A completely different posture, unrelated to SN 4.7",
+             "No posture is described in this discourse",
+             "The Buddha stands throughout this entire discourse"],
+         "correct": 0,
+         "expl": "The identical deliberate resting position, now given added weight by real physical pain."},
+    ],
+    marginalia=[
+        ("A real wound, not illusion", [
+            "sharp, severe, genuinely painful &mdash;",
+            "endured with mindfulness, not denial",
+        ]),
+        ("Feeble? Drunk on poetry?", [
+            "mockery aimed at someone already hurting &mdash;",
+            "the pettiest taunt yet",
+        ]),
+        ("Two darts, carefully distinguished", [
+            "one in the heart, one already drawn &mdash;",
+            "physical pain apart from craving",
+        ]),
+        ("Sympathy, named as the content", [
+            "not mere endurance, but compassion outward &mdash;",
+            "no decline seen, nothing left to lose",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.7.html">SN 4.7 &middot; Sleeping</a> &mdash; '
+        "this vagga's earlier discourse sharing the same lion's "
+        "posture, there without physical injury.",
+        '<a href="sn-4.12.html">SN 4.12 &middot; Lion</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-4.14.html">SN 4.14 &middot; Appropriate</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.14 — Patirūpasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 14, "Patirūpa", "Appropriate",
+    meta_title="SN 4.14 — Appropriate | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Patirūpasutta — teaching a village assembly of laypeople, the "
+        "Buddha is told it isn't proper for him to instruct others, and "
+        "answers by naming the compassion behind his teaching. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In Kosalan territory, near the brahmin village of "
+                    "Ekasālā, before a large lay assembly"),
+        ("Speakers", "The Buddha, teaching laypeople, and Māra the "
+                     "Wicked"),
+        ("Form", "Māra's calculation revealed, a challenge to the "
+                 "Buddha's role, and a reply naming its true motive"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "best read directly against SN 4.12 for a "
+                       "second version of the same underlying tactic"),
+    ],
+    why=(
+        "This discourse repeats SN 4.12's structure &mdash; Māra's "
+        "private calculation revealed, then a challenge to the Buddha's "
+        "public teaching &mdash; aimed this time not at his confidence "
+        "but at his role itself: it isn't appropriate for you to "
+        "instruct others, and in doing so, don't get caught up in "
+        "favoring and opposing. The Buddha's reply names what actually "
+        "motivates his teaching, compassion for others' welfare, and "
+        "claims to be already free of the very trap Māra warns him "
+        "against."),
+    guide=[
+        ("A challenge to legitimacy, not confidence this time", [
+            "Where SN 4.12's Māra questioned the Buddha's self-assured "
+            "manner, here he questions something more fundamental: "
+            "whether teaching others is appropriate for him at all "
+            "&mdash; a challenge to role and standing rather than tone "
+            "or demeanor."]),
+        ("A warning framed as concern, not open hostility", [
+            "Māra's second line &mdash; don't get caught up in "
+            "favoring and opposing &mdash; reads almost like friendly "
+            "advice rather than an attack, warning the Buddha against a "
+            "genuine spiritual pitfall (partiality) even while "
+            "questioning his right to teach at all."]),
+        ("A reply naming motive before claiming freedom", [
+            "The Buddha's answer does not simply deny Māra's warning is "
+            "relevant; it first states the actual reason he teaches "
+            "&mdash; compassion for others' welfare &mdash; before "
+            "claiming he is already liberated from the specific fault "
+            "Māra warned against."]),
+        ("Favoring and opposing named as the trap, not teaching itself", [
+            "The exchange implicitly agrees on what the real danger "
+            "would be: not instruction as such, but partiality within "
+            "it &mdash; Māra warns against falling into it, and the "
+            "Buddha claims to have already transcended it, rather than "
+            "denying it as a genuine concern."]),
+        ("A second instance of a repeating pattern, worth comparing", [
+            "Read against SN 4.12, this discourse shows the &lsquo;Māra "
+            "calculates, then challenges a public teaching&rsquo; "
+            "pattern applied to a different target &mdash; role instead "
+            "of confidence &mdash; demonstrating the pattern's "
+            "flexibility across this vagga's middle discourses."]),
+    ],
+    terms=[
+        ("Ekasālā",
+         "&ldquo;Ekasālā&rdquo; &mdash; the Kosalan brahmin village "
+         "near which this discourse's lay assembly gathers."),
+        ("patirūpa",
+         "&ldquo;appropriate&rdquo; &mdash; the quality Māra denies the "
+         "Buddha's teaching has, giving this discourse its title."),
+        ("anuddayā",
+         "&ldquo;compassion&rdquo; &mdash; the actual motive the "
+         "Buddha names for instructing others."),
+        ("anunaya paṭigha",
+         "&ldquo;favoring and opposing&rdquo; &mdash; the specific "
+         "fault Māra warns against, and the one the Buddha claims to "
+         "be free of."),
+        ("vippalambheyyaṁ",
+         "&ldquo;pull the wool over their eyes&rdquo; &mdash; Māra's "
+         "own stated plan, repeated from SN 4.12's formula."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's revealed calculation, his "
+        "challenge to the Buddha's role, and the reply naming true "
+        "motive. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.14:1.1-1.2"),
+        ("p", "&sect;2", "sn4.14:2.1-2.4"),
+        ("p", "&sect;3", "sn4.14:3.1-3.4"),
+        ("p", "&sect;4", "sn4.14:4.1-4.4"),
+        ("p", "&sect;5", "sn4.14:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "What structural pattern does this discourse repeat from SN 4.12?",
+         "opts": [
+             "Māra's private calculation revealed, then a challenge to a public teaching",
+             "A genuine physical injury endured mindfully",
+             "A private reflection the Buddha has, later overheard",
+             "An elaborate shape-shifting manifestation"],
+         "correct": 0,
+         "expl": "Applied here to a different target than SN 4.12's challenge to confidence."},
+        {"q": "What does Māra's challenge target this time?",
+         "opts": [
+             "Whether teaching others is appropriate for the Buddha at all",
+             "The Buddha's self-assured manner before a crowd",
+             "The Buddha's physical endurance of pain",
+             "The Buddha's claimed freedom from all snares"],
+         "correct": 0,
+         "expl": "A challenge to role and standing rather than tone or demeanor."},
+        {"q": "How does Māra's second line — “don't get caught up in favoring and opposing” — read?",
+         "opts": [
+             "Almost like friendly advice, warning against a genuine spiritual pitfall",
+             "As open, undisguised hostility",
+             "As a direct threat of violence",
+             "As an unrelated non sequitur"],
+         "correct": 0,
+         "expl": "Framed as concern even while questioning the Buddha's right to teach at all."},
+        {"q": "What does the Buddha's reply state first, before claiming freedom from the fault?",
+         "opts": [
+             "The actual reason he teaches: compassion for others' welfare",
+             "A denial that he teaches at all",
+             "A counter-accusation against Māra",
+             "A request for Māra to leave immediately"],
+         "correct": 0,
+         "expl": "Naming motive before addressing the specific warning."},
+        {"q": "Does the exchange treat partiality (favoring and opposing) as a genuine concern?",
+         "opts": [
+             "Yes; both figures implicitly agree it would be the real danger, if present",
+             "No; the Buddha dismisses it as an irrelevant fabrication",
+             "No; Māra never actually names this specific fault",
+             "The text does not address partiality at all"],
+         "correct": 0,
+         "expl": "Māra warns against it, and the Buddha claims to have already transcended it, not denying its relevance."},
+        {"q": "What does comparing this discourse to SN 4.12 demonstrate?",
+         "opts": [
+             "The flexibility of the “calculation then challenge” pattern applied to different targets",
+             "That the two discourses are actually identical in every respect",
+             "That SN 4.14 contradicts SN 4.12's teaching",
+             "That only one of the two discourses is authentic"],
+         "correct": 0,
+         "expl": "Role instead of confidence, showing the pattern's range across this vagga's middle discourses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "In Kosalan territory, near the brahmin village of Ekasālā",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree"],
+         "correct": 0,
+         "expl": "A different location from SN 4.12's Sāvatthī setting, though the same underlying pattern."},
+        {"q": "Who makes up the assembly in this discourse, specifically?",
+         "opts": [
+             "A large assembly of laypeople",
+             "A gathering of mendicants only",
+             "A group of rival ascetic teachers",
+             "No assembly is present in this discourse"],
+         "correct": 0,
+         "expl": "Distinct from SN 4.12's more general 'large assembly.'"},
+        {"q": "How does Māra react at the end of this discourse?",
+         "opts": [
+             "Realizing he has been recognized, he vanishes miserable and sad",
+             "He continues challenging the Buddha's teaching",
+             "He apologizes for the interruption",
+             "He turns to address the lay assembly directly"],
+         "correct": 0,
+         "expl": "The stock reaction established across this saṃyutta's discourses."},
+        {"q": "What term describes Māra's stated plan in his private thought?",
+         "opts": [
+             "To “pull the wool over their eyes”",
+             "To “test their faith”",
+             "To “reveal the truth”",
+             "To “protect the villagers”"],
+         "correct": 0,
+         "expl": "The same recurring formula used at SN 4.12 for Māra's revealed calculation."},
+    ],
+    marginalia=[
+        ("Not appropriate, Māra claims", [
+            "role questioned, not merely tone &mdash;",
+            "a challenge to standing itself",
+        ]),
+        ("Advice disguised as warning", [
+            "favoring and opposing, named as danger &mdash;",
+            "concern masking the real challenge",
+        ]),
+        ("Compassion, stated first", [
+            "the actual motive named before defense &mdash;",
+            "then freedom from the fault claimed",
+        ]),
+        ("The same pattern, retargeted", [
+            "confidence, then role &mdash;",
+            "one tactic, applied twice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.12.html">SN 4.12 &middot; Lion</a> &mdash; this '
+        "vagga's earlier use of the same calculation-then-challenge "
+        "pattern.",
+        '<a href="sn-4.13.html">SN 4.13 &middot; A Splinter</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-4.15.html">SN 4.15 &middot; A Mental Snare</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.15 — Manasikārasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 15, "Manasikāra", "A Mental Snare",
+    meta_title="SN 4.15 — A Mental Snare | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Manasikārasutta — Māra claims an invisible mental snare "
+        "wandering in midair will bind the Buddha, and receives the "
+        "plainest possible answer: desire for the five senses is "
+        "simply gone. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in Jeta&rsquo;s Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha and Māra the Wicked"),
+        ("Form", "A single threatening claim, met by a single plain "
+                 "denial"),
+        ("Length", "Under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "among the shortest discourses in this vagga, "
+                       "its abstraction worth sitting with"),
+    ],
+    why=(
+        "This discourse offers no manifestation, no revealed "
+        "calculation, no elaborate setting &mdash; just Māra's bare "
+        "claim that a &lsquo;mental snare, wandering in midair&rsquo; "
+        "will bind the Buddha inescapably, and the Buddha's equally "
+        "bare reply: desire for sights, sounds, tastes, smells, and "
+        "touches, however delightful, is simply gone from him. No "
+        "argument, no simile, just a direct statement of absence "
+        "answering a direct claim of capture."),
+    guide=[
+        ("An invisible weapon, unlike this vagga's physical or visual threats", [
+            "Where SN 4.11's boulders and SN 4.2's elephant offered "
+            "something concrete to picture, this discourse's "
+            "&lsquo;mental snare wandering in midair&rsquo; is "
+            "deliberately abstract &mdash; a threat with no describable "
+            "shape, location, or mechanism, existing only as a claim."]),
+        ("A threat that names the target as escape itself", [
+            "&lsquo;You won't escape me, ascetic&rsquo; makes explicit "
+            "what several earlier confrontations implied: Māra's real "
+            "claim across this vagga is one of inescapable reach, here "
+            "stated as directly and simply as the pattern allows."]),
+        ("The five senses named exhaustively, then dismissed together", [
+            "The Buddha's reply lists all five sense objects &mdash; "
+            "sights, sounds, tastes, smells, touches &mdash; explicitly "
+            "acknowledging their delightfulness before stating, in a "
+            "single clause, that desire for all of them together is "
+            "gone, rather than addressing each individually."]),
+        ("No simile, no elaboration: the shortest possible answer", [
+            "Unlike SN 4.6's cosmic imagery or SN 4.13's extended "
+            "meditation on two kinds of dart, this discourse's reply "
+            "offers nothing beyond the bare claim itself &mdash; if a "
+            "snare requires desire to catch its target, and desire is "
+            "simply absent, there is nothing further to argue."]),
+        ("A minimalist counterpart to this vagga's most elaborate discourses", [
+            "Read against SN 4.19's extended, escalating exchange over "
+            "ownership of the six sense fields, this discourse handles "
+            "the same underlying territory &mdash; the senses as "
+            "Māra's domain &mdash; in the fewest possible words, "
+            "showing this vagga's range between minimal and maximal "
+            "treatments of a shared theme."]),
+    ],
+    terms=[
+        ("manasikāra",
+         "&ldquo;mental&rdquo; (literally, attention or "
+         "mental engagement) &mdash; qualifying the snare Māra claims, "
+         "giving this discourse its title."),
+        ("pāsa",
+         "&ldquo;snare&rdquo; &mdash; the same image already used at "
+         "SN 4.4 and SN 4.5, here made explicitly abstract rather than "
+         "physical."),
+        ("rūpā saddā rasā gandhā phoṭṭhabbā",
+         "&ldquo;sights, sounds, tastes, smells, and touches&rdquo; "
+         "&mdash; the five sense objects named exhaustively in the "
+         "Buddha's reply."),
+        ("chando vigato",
+         "&ldquo;desire&hellip;is gone&rdquo; &mdash; the reply's "
+         "central and only claim, stated once, without elaboration."),
+        ("antaka",
+         "&ldquo;terminator&rdquo; &mdash; the closing epithet shared "
+         "with several other discourses in this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full: Māra's bare claim and the equally bare "
+        "reply. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.15:1.1-1.3"),
+        ("p", "&sect;2", "sn4.15:2.1-2.4"),
+        ("p", "&sect;3", "sn4.15:3.1-3.4"),
+        ("p", "&sect;4", "sn4.15:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What does Māra claim in this discourse?",
+         "opts": [
+             "That an invisible mental snare, wandering in midair, will bind the Buddha inescapably",
+             "That the Buddha remains attached to a physical possession",
+             "That the Buddha's teaching is doctrinally false",
+             "That the Buddha will soon die"],
+         "correct": 0,
+         "expl": "A deliberately abstract threat with no describable shape or mechanism."},
+        {"q": "How does this threat compare to SN 4.11's boulders or SN 4.2's elephant?",
+         "opts": [
+             "It is abstract, with nothing concrete to picture, unlike those physical or visual threats",
+             "It is identical in form to those earlier threats",
+             "It is even more physically described than those threats",
+             "This discourse contains no threat at all"],
+         "correct": 0,
+         "expl": "A claim with no location, shape, or mechanism, existing only as an assertion."},
+        {"q": "What does Māra's line “you won't escape me” make explicit?",
+         "opts": [
+             "The claim of inescapable reach implied across several earlier confrontations",
+             "A specific timeline for when the Buddha will be captured",
+             "The exact location where the escape attempt will occur",
+             "A new claim never suggested elsewhere in this vagga"],
+         "correct": 0,
+         "expl": "Stated as directly and simply as this vagga's pattern allows."},
+        {"q": "How does the Buddha's reply address the five sense objects?",
+         "opts": [
+             "Lists them exhaustively, then dismisses desire for all of them together in one clause",
+             "Addresses each sense in a separate, lengthy stanza",
+             "Denies that the senses exist at all",
+             "Claims the senses are illusions created by Māra"],
+         "correct": 0,
+         "expl": "Acknowledging their delightfulness before stating desire for them is simply gone."},
+        {"q": "How does this discourse's reply compare in length to SN 4.6's or SN 4.13's?",
+         "opts": [
+             "Far shorter, offering the bare claim with no simile or elaboration",
+             "Considerably longer",
+             "Exactly the same length",
+             "This discourse contains no reply at all"],
+         "correct": 0,
+         "expl": "No cosmic imagery or extended meditation, just a direct statement of absence."},
+        {"q": "What logic underlies the Buddha's brief answer, according to the reading guide?",
+         "opts": [
+             "If a snare requires desire to catch its target, and desire is absent, there is nothing to argue",
+             "The snare is dismissed as physically impossible to construct",
+             "Māra himself is declared to be an illusion",
+             "The reply does not follow any particular logic"],
+         "correct": 0,
+         "expl": "The brevity itself reflects the completeness of the claimed absence."},
+        {"q": "How does this discourse compare to SN 4.19's treatment of similar territory?",
+         "opts": [
+             "It handles the senses-as-Māra's-domain theme in far fewer words than SN 4.19's extended exchange",
+             "The two discourses address entirely unrelated topics",
+             "SN 4.19 is shorter than this discourse",
+             "The two discourses contradict each other directly"],
+         "correct": 0,
+         "expl": "Showing this vagga's range between minimal and maximal treatments of a shared theme."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "In Kosalan territory, near Ekasālā"],
+         "correct": 0,
+         "expl": "The same location as several other discourses in this vagga."},
+        {"q": "What closing epithet does the Buddha use for Māra?",
+         "opts": [
+             "“Terminator” (antaka)",
+             "“Namuci”",
+             "“Wicked footman”",
+             "No closing epithet is used"],
+         "correct": 0,
+         "expl": "Shared with several other discourses across this saṃyutta."},
+        {"q": "How does Māra react at the end of this discourse?",
+         "opts": [
+             "Realizing he has been recognized, he vanishes miserable and sad",
+             "He produces the mental snare visibly to prove his claim",
+             "He continues arguing at length",
+             "He offers a compromise instead"],
+         "correct": 0,
+         "expl": "The stock reaction established across this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("A snare with no shape", [
+            "wandering in midair, unpictured &mdash;",
+            "abstraction as the whole threat",
+        ]),
+        ("You won't escape me", [
+            "inescapability stated plainly &mdash;",
+            "what earlier confrontations implied",
+        ]),
+        ("Five senses, named, then dismissed", [
+            "delightful, and still let go &mdash;",
+            "one clause, no elaboration needed",
+        ]),
+        ("The shortest possible answer", [
+            "no simile, no cosmic imagery &mdash;",
+            "absence stated, nothing left to argue",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.4.html">SN 4.4 &middot; Māra&rsquo;s Snares '
+        "(1st)</a> &mdash; this vagga's earlier use of the same snare "
+        "image, in a more physical register.",
+        '<a href="sn-4.14.html">SN 4.14 &middot; Appropriate</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-4.16.html">SN 4.16 &middot; The Alms Bowls</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.16 — Pattasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 16, "Patta", "The Alms Bowls",
+    meta_title="SN 4.16 — The Alms Bowls | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Pattasutta — Māra manifests as an ox threatening the "
+        "mendicants' bowls, nearly fooling the community itself, until "
+        "the Buddha names the deception aloud. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, during a Dhamma talk on the five "
+                    "grasping aggregates"),
+        ("Speakers", "The Buddha, a mendicant, and Māra the Wicked, "
+                     "manifested as an ox"),
+        ("Form", "A manifestation that nearly deceives the community "
+                 "itself, exposed directly by the Buddha, then answered "
+                 "in verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "first discourse where Māra's target shifts from "
+                       "the Buddha to the community around him"),
+    ],
+    why=(
+        "This discourse marks a shift in Māra's actual target: while "
+        "the Buddha teaches the mendicants about the five grasping "
+        "aggregates, with the assembly listening intently, Māra "
+        "manifests as an ox and approaches some alms bowls left in the "
+        "open &mdash; and it is a mendicant, not the Buddha, who is "
+        "nearly fooled, warning a companion the ox will break the "
+        "bowls. Only the Buddha's direct intervention &mdash; "
+        "&lsquo;that's no ox, that's Māra&rsquo; &mdash; exposes the "
+        "trick before it can distract the community from the teaching "
+        "in progress."),
+    guide=[
+        ("A deception aimed at the community, not the teacher", [
+            "Unlike every earlier discourse in this vagga, where Māra's "
+            "manifestation or challenge is directed at the Buddha "
+            "himself, here the actual target is the mendicants' "
+            "attention &mdash; an attempt to disrupt the community's "
+            "concentration on the teaching rather than to challenge the "
+            "teacher directly."]),
+        ("A mendicant nearly fooled, caught by the Buddha's intervention", [
+            "The detail that a mendicant actually warns a companion "
+            "about the supposed ox is significant: unlike the Buddha, "
+            "who recognizes Māra immediately in every other discourse, "
+            "an ordinary practitioner here is briefly deceived, "
+            "requiring the Buddha to name the trick aloud rather than "
+            "letting it resolve on its own."]),
+        ("A teaching on the five aggregates, interrupted mid-lesson", [
+            "The specific subject the Buddha was teaching when "
+            "interrupted &mdash; the five grasping aggregates (form, "
+            "feeling, perception, consciousness, and volitional "
+            "formations) &mdash; directly supplies the content of his "
+            "answering verse, which addresses exactly this topic rather "
+            "than responding only to the ox manifestation itself."]),
+        ("Not this and not mine: the verse's core teaching", [
+            "The verse's central formula &mdash; &lsquo;I am not this&rsquo; "
+            "and &lsquo;this is not mine&rsquo;, applied to each of the "
+            "five aggregates &mdash; states directly the non-self "
+            "teaching that the ox-distraction had briefly threatened to "
+            "eclipse, continuing the very lesson Māra tried to "
+            "interrupt."]),
+        ("Māra's army, unable to find someone with no fetters left", [
+            "The verse's closing image &mdash; Māra and his army "
+            "chasing everywhere but never finding someone detached and "
+            "secure &mdash; scales the confrontation beyond this single "
+            "ox up to Māra's larger forces, framing this particular "
+            "trick as one instance of a much broader, ultimately futile "
+            "pursuit."]),
+    ],
+    terms=[
+        ("patta",
+         "&ldquo;alms bowl&rdquo; &mdash; what Māra's ox manifestation "
+         "threatens, giving this discourse its title."),
+        ("pañcupādānakkhandha",
+         "&ldquo;the five grasping aggregates&rdquo; &mdash; the "
+         "subject of the Buddha's interrupted teaching, supplying the "
+         "content of his answering verse."),
+        ("nāhaṁ etaṁ, na mesa attā",
+         "&ldquo;I am not this&rdquo; and &ldquo;this is not "
+         "mine&rdquo; &mdash; the verse's core non-self formula, "
+         "applied to each aggregate in turn."),
+        ("saṁyojana",
+         "&ldquo;fetters&rdquo; &mdash; what the verse says are "
+         "entirely transcended by one who is detached and secure."),
+        ("Mārasenā",
+         "&ldquo;Māra and his army&rdquo; &mdash; the larger force "
+         "named in the verse's closing image, scaling beyond this "
+         "single manifestation."),
+    ],
+    text_intro=(
+        "The discourse in full: the ox manifestation, the mendicant's "
+        "near-deception, the Buddha's direct exposure, and the "
+        "answering verse. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.16:1.1-1.3"),
+        ("p", "&sect;2", "sn4.16:2.1-2.4"),
+        ("p", "&sect;3", "sn4.16:3.1-3.8"),
+        ("p", "&sect;4", "sn4.16:4.1-4.4"),
+        ("p", "&sect;5", "sn4.16:5.1-5.4"),
+        ("p", "&sect;6", "sn4.16:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What is Māra's actual target in this discourse, unlike earlier discourses in this vagga?",
+         "opts": [
+             "The community's attention, not the Buddha directly",
+             "The Buddha's physical safety",
+             "A rival ascetic teacher present in the assembly",
+             "Queen Mallikā, who is visiting that day"],
+         "correct": 0,
+         "expl": "An attempt to disrupt the mendicants' concentration on the teaching, not to challenge the teacher."},
+        {"q": "What form does Māra manifest as?",
+         "opts": [
+             "An ox, approaching some alms bowls left in the open",
+             "An elephant, repeating SN 4.2",
+             "A serpent, repeating SN 4.6",
+             "A farmer carrying a plough"],
+         "correct": 0,
+         "expl": "Threatening to break bowls left in the open air."},
+        {"q": "Who is nearly fooled by this manifestation?",
+         "opts": [
+             "A mendicant, who warns a companion the ox will break the bowls",
+             "The Buddha himself",
+             "No one; everyone recognizes Māra immediately",
+             "Queen Mallikā"],
+         "correct": 0,
+         "expl": "Unlike the Buddha's immediate recognition elsewhere, an ordinary practitioner is briefly deceived here."},
+        {"q": "What was the Buddha teaching when this interruption occurred?",
+         "opts": [
+             "The five grasping aggregates",
+             "The noble eightfold path",
+             "The rules of monastic discipline",
+             "The history of past Buddhas"],
+         "correct": 0,
+         "expl": "A subject that directly supplies the content of the Buddha's answering verse."},
+        {"q": "What core formula does the verse apply to each of the five aggregates?",
+         "opts": [
+             "“I am not this” and “this is not mine”",
+             "“This belongs to Māra” and “I reject it”",
+             "“This is eternal” and “this is unchanging”",
+             "No formula is given; the verse simply lists the aggregates"],
+         "correct": 0,
+         "expl": "The central non-self teaching continuing the very lesson Māra tried to interrupt."},
+        {"q": "What does the verse's closing image describe?",
+         "opts": [
+             "Māra and his army chasing everywhere but never finding someone detached and secure",
+             "A final physical battle between the Buddha and Māra",
+             "The mendicants defeating Māra through collective effort",
+             "Māra's permanent departure from the world"],
+         "correct": 0,
+         "expl": "Scaling this single trick up to Māra's larger, ultimately futile pursuit."},
+        {"q": "How does the Buddha expose Māra's trick?",
+         "opts": [
+             "By directly telling the mendicant, “that's no ox, that's Māra the Wicked”",
+             "By ignoring the situation entirely",
+             "By asking the ox to identify itself",
+             "By fleeing the scene with the bowls"],
+         "correct": 0,
+         "expl": "Direct intervention naming the deception aloud, rather than letting it resolve on its own."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, during a Dhamma talk on the five grasping aggregates",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "In Kosalan territory, near Ekasālā"],
+         "correct": 0,
+         "expl": "The setting for this particular teaching and interruption."},
+        {"q": "What does this discourse's structure suggest about Māra's evolving tactics?",
+         "opts": [
+             "That he can target the wider community, not only the teacher, to disrupt a teaching",
+             "That he has abandoned manifestation entirely in favor of argument",
+             "That he only ever targets the Buddha, never the assembly",
+             "That his tactics remain completely unchanged across this vagga"],
+         "correct": 0,
+         "expl": "A new dimension to his approach, distinct from the direct Buddha-focused confrontations earlier in this vagga."},
+        {"q": "What are the five grasping aggregates named in the verse?",
+         "opts": [
+             "Form, what is felt, perception, consciousness, and what is chosen",
+             "Ethics, immersion, wisdom, freedom, and knowledge of freedom",
+             "Greed, hate, delusion, pride, and doubt",
+             "Sights, sounds, tastes, smells, and touches"],
+         "correct": 0,
+         "expl": "The specific list the verse addresses, matching the Buddha's interrupted teaching topic."},
+    ],
+    marginalia=[
+        ("An ox, threatening the bowls", [
+            "a mendicant nearly fooled this time &mdash;",
+            "not the Buddha, but the community targeted",
+        ]),
+        ("That's no ox, that's Māra", [
+            "named aloud before the trick lands &mdash;",
+            "direct intervention, not left to resolve",
+        ]),
+        ("Not this, not mine", [
+            "the interrupted lesson continued &mdash;",
+            "the five aggregates, answered directly",
+        ]),
+        ("An army, chasing, never finding", [
+            "one ox scaled to a whole pursuit &mdash;",
+            "futile, against someone with no fetters",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.2.html">SN 4.2 &middot; In the Form of an '
+        "Elephant King</a> &mdash; this saṃyutta's earlier animal "
+        "manifestation, there aimed at the Buddha directly.",
+        '<a href="sn-4.15.html">SN 4.15 &middot; A Mental Snare</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-4.17.html">SN 4.17 &middot; The Six Fields of '
+        "Contact</a> &mdash; the next discourse in this vagga.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.17 — Chaphassāyatanasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 17, "Chaphassāyatana", "The Six Fields of Contact",
+    meta_title="SN 4.17 — The Six Fields of Contact | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Chaphassāyatanasutta — Māra makes a noise like the earth "
+        "itself shattering during a teaching at Vesālī, and the Buddha "
+        "names the six sense fields as the true bait the world is "
+        "infatuated by. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Vesālī, at the Great Wood, in the hall with "
+                    "the peaked roof, during a Dhamma talk on the six "
+                    "fields of contact"),
+        ("Speakers", "The Buddha, a mendicant, and Māra the Wicked"),
+        ("Form", "A frightening auditory disturbance, exposed directly "
+                 "by the Buddha, then answered in verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "close structural companion to SN 4.16, worth "
+                       "reading as a matched pair"),
+    ],
+    why=(
+        "This discourse closely parallels SN 4.16's structure at a new "
+        "location: while the Buddha teaches the mendicants about the "
+        "six fields of contact, Māra produces a terrifyingly loud "
+        "noise that sounds like the earth itself shattering, causing a "
+        "mendicant to cry out in alarm before the Buddha names the "
+        "trick directly. The answering verse identifies exactly what "
+        "the noise was meant to distract from: the sense objects "
+        "themselves, &lsquo;the terrible bait the world's infatuated "
+        "by&rsquo;, which a mindful disciple transcends entirely."),
+    guide=[
+        ("A second instance of the community-targeted deception", [
+            "Following SN 4.16's ox almost immediately, this discourse "
+            "confirms that trick was not an isolated case: Māra again "
+            "targets the mendicants' attention rather than the Buddha "
+            "directly, this time through sound rather than sight, "
+            "suggesting a deliberate shift in tactics across this "
+            "stretch of the vagga."]),
+        ("Sound mistaken for the earth itself", [
+            "The specific illusion &mdash; a noise so loud &lsquo;it "
+            "seemed as if the earth were shattering&rsquo; &mdash; is "
+            "cosmic in scale despite being, like the ox, a fabrication "
+            "aimed at breaking concentration rather than a real "
+            "physical event, echoing the earth-quaking imagery already "
+            "used at SN 4.6 but now as illusion rather than "
+            "hypothetical."]),
+        ("The lesson's own subject supplying the reply", [
+            "As at SN 4.16, the Buddha's answering verse addresses "
+            "exactly the topic he had been teaching when interrupted "
+            "&mdash; here the six sense fields &mdash; turning the "
+            "disruption itself into an occasion to continue, rather "
+            "than abandon, the lesson in progress."]),
+        ("Bait as the verse's central image for the senses", [
+            "&lsquo;The terrible bait that the world's infatuated "
+            "by&rsquo; names sights, sounds, tastes, smells, touches, "
+            "and ideas together as something that lures rather than "
+            "merely exists, a framing this collection has used before "
+            "(the lokāmisa, &lsquo;world's bait&rsquo;, at SN 2.19, SN "
+            "2.27, and SN 2.30) now applied specifically to sensory "
+            "experience as a category."]),
+        ("Shining like the sun: an image of visible transcendence", [
+            "The verse's closing image &mdash; a disciple who has "
+            "slipped free of Māra's dominion &lsquo;shines like the "
+            "sun&rsquo; &mdash; offers something more affirmative than "
+            "this vagga's more common closing formula of mere defeat, "
+            "picturing freedom as radiant and visible rather than "
+            "simply as an absence of bondage."]),
+    ],
+    terms=[
+        ("chaphassāyatana",
+         "&ldquo;the six fields of contact&rdquo; &mdash; the subject "
+         "of the Buddha's interrupted teaching, giving this discourse "
+         "its title."),
+        ("bhūmicālasadisa",
+         "&ldquo;as if the earth were shattering&rdquo; &mdash; the "
+         "specific illusion Māra produces through sound alone."),
+        ("ghoraṁ āmisaṁ",
+         "&ldquo;the terrible bait&rdquo; &mdash; the verse's image "
+         "for the sense objects, echoing this collection's lokāmisa "
+         "image used earlier in the Devaputtasaṃyutta."),
+        ("Mārassa visayaṁ",
+         "&ldquo;Māra's dominion&rdquo; &mdash; what a mindful "
+         "disciple is said to have slipped free of."),
+        ("ādiccova virocati",
+         "&ldquo;shines like the sun&rdquo; &mdash; the verse's "
+         "closing image of radiant, visible transcendence."),
+    ],
+    text_intro=(
+        "The discourse in full: the earth-shattering illusion, the "
+        "Buddha's direct exposure, and the answering verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.17:1.1-1.3"),
+        ("p", "&sect;2", "sn4.17:2.1-2.10"),
+        ("p", "&sect;3", "sn4.17:3.1-3.4"),
+        ("p", "&sect;4", "sn4.17:4.1-4.4"),
+        ("p", "&sect;5", "sn4.17:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to SN 4.16's?",
+         "opts": [
+             "Closely parallel: another community-targeted deception exposed directly by the Buddha",
+             "Completely unrelated in structure",
+             "This discourse contains no verse, unlike SN 4.16",
+             "It is spoken entirely by a mendicant, not the Buddha"],
+         "correct": 0,
+         "expl": "Confirming SN 4.16's ox trick was not an isolated case."},
+        {"q": "What illusion does Māra produce in this discourse?",
+         "opts": [
+             "A terrifyingly loud noise that sounds like the earth itself shattering",
+             "A manifestation as an ox",
+             "A rainbow of bright colors",
+             "A physical act of crushing boulders"],
+         "correct": 0,
+         "expl": "Sound rather than sight this time, targeting the mendicants' attention."},
+        {"q": "What was the Buddha teaching when this interruption occurred?",
+         "opts": [
+             "The six fields of contact",
+             "The five grasping aggregates",
+             "The noble eightfold path",
+             "Moderation in eating"],
+         "correct": 0,
+         "expl": "A subject that directly supplies the content of the Buddha's answering verse."},
+        {"q": "What image does the verse use for the sense objects?",
+         "opts": [
+             "“The terrible bait that the world's infatuated by”",
+             "“A locked door with no key”",
+             "“A fire that never goes out”",
+             "“A river with no far shore”"],
+         "correct": 0,
+         "expl": "Echoing this collection's earlier lokāmisa image from the Devaputtasaṃyutta."},
+        {"q": "Where has this collection used similar “bait” imagery before?",
+         "opts": [
+             "SN 2.19, SN 2.27, and SN 2.30",
+             "Only in this single discourse",
+             "SN 1.1 and SN 1.50",
+             "SN 3.19 and SN 3.20"],
+         "correct": 0,
+         "expl": "The lokāmisa, 'world's bait,' image recurring across the Devaputtasaṃyutta."},
+        {"q": "What does the verse's closing image describe?",
+         "opts": [
+             "A disciple who has slipped free of Māra's dominion shines like the sun",
+             "Māra's permanent departure from the world",
+             "A physical battle between the Buddha and Māra",
+             "The mendicants collectively defeating Māra"],
+         "correct": 0,
+         "expl": "A more affirmative image than this vagga's more common closing formula of mere defeat."},
+        {"q": "How does this closing image differ from most of this vagga's discourses?",
+         "opts": [
+             "It pictures freedom as radiant and visible, not merely as an absence of bondage",
+             "It is identical to every other closing verse in this vagga",
+             "It denies that Māra was ever truly defeated",
+             "It contains no reference to freedom at all"],
+         "correct": 0,
+         "expl": "Something more affirmative than the more common formula of mere defeat."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Near Vesālī, at the Great Wood, in the hall with the peaked roof",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree"],
+         "correct": 0,
+         "expl": "A new location for this vagga, distinct from SN 4.16's Sāvatthī setting."},
+        {"q": "How does the Buddha expose Māra's trick in this discourse?",
+         "opts": [
+             "By directly telling the mendicant, “that's not the earth shattering, that's Māra”",
+             "By ignoring the noise entirely",
+             "By asking the mendicants to investigate the source themselves",
+             "By fleeing the hall with the peaked roof"],
+         "correct": 0,
+         "expl": "Direct intervention, matching the pattern established at SN 4.16."},
+        {"q": "What earlier discourse in this vagga does the earth-shattering imagery echo?",
+         "opts": [
+             "SN 4.6, where the verse hypothesized the sky splitting and earth quaking",
+             "SN 4.11, where boulders were crushed",
+             "SN 4.9, on the shortness of life",
+             "SN 4.1, on mortification"],
+         "correct": 0,
+         "expl": "Here presented as illusion rather than hypothetical test of equanimity."},
+    ],
+    marginalia=[
+        ("A noise, mistaken for the earth", [
+            "cosmic in scale, but fabricated &mdash;",
+            "sound this time, not sight",
+        ]),
+        ("Bait, the world's own infatuation", [
+            "the six sense fields, named directly &mdash;",
+            "echoing lokāmisa from an earlier book",
+        ]),
+        ("The interrupted lesson continues", [
+            "the topic itself supplies the reply &mdash;",
+            "disruption turned into occasion",
+        ]),
+        ("Shines like the sun", [
+            "freedom pictured as radiant, not merely absent &mdash;",
+            "a rarer, more affirmative close",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.16.html">SN 4.16 &middot; The Alms Bowls</a> '
+        "&mdash; this discourse's close structural companion.",
+        '<a href="sn-4.6.html">SN 4.6 &middot; A Serpent</a> &mdash; '
+        "the earlier discourse whose hypothetical earthquake imagery "
+        "this one echoes as illusion.",
+        '<a href="sn-4.18.html">SN 4.18 &middot; Alms Food</a> &mdash; '
+        "the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.18 — Piṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 18, "Piṇḍa", "Alms Food",
+    meta_title="SN 4.18 — Alms Food | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Piṇḍasutta — Māra possesses an entire village to deny the "
+        "Buddha alms, then mockingly offers to fix it, met by the "
+        "famous verse on feeding on rapture like the gods of streaming "
+        "radiance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In Magadhan territory, near the brahmin village "
+                    "of Pañcasālā"),
+        ("Speakers", "The Buddha and Māra the Wicked"),
+        ("Form", "A real social consequence — an empty alms bowl — "
+                 "followed by a taunting offer and a defiant, joyful "
+                 "verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most materially consequential confrontation "
+                       "in this vagga, its resolution purely internal"),
+    ],
+    why=(
+        "This discourse shows Māra's most direct interference yet in "
+        "the physical world: rather than manifesting an illusion, he "
+        "possesses the brahmins and householders of Pañcasālā "
+        "themselves, ensuring the Buddha receives no alms at all on his "
+        "morning round. Confronted afterward, Māra taunts him about the "
+        "empty bowl, then offers, almost mockingly, to guarantee alms "
+        "if the Buddha tries again &mdash; met not with anger but with "
+        "a verse of undiminished contentment: living happily with "
+        "nothing, feeding on rapture like the gods of streaming "
+        "radiance."),
+    guide=[
+        ("Possession, not illusion: Māra's most direct intervention", [
+            "Unlike every manifestation or claim elsewhere in this "
+            "vagga, this discourse describes Māra actually possessing "
+            "human beings &mdash; the villagers of Pañcasālā &mdash; to "
+            "produce a real, material consequence: the Buddha's bowl "
+            "returns from alms round completely empty."]),
+        ("A taunt that assumes triumph, then an offer that assumes control", [
+            "Māra's question &mdash; &lsquo;did you get any alms?"
+            "&rsquo; &mdash; already knows the answer and savors it; "
+            "his follow-up offer to &lsquo;make sure&rsquo; alms are "
+            "given on a second attempt compounds the provocation, "
+            "presenting himself as controlling access to something as "
+            "basic as food."]),
+        ("A direct accusation, unusually explicit", [
+            "The Buddha's own opening line in reply &mdash; &lsquo;Māra "
+            "has produced wickedness in attacking the Realized "
+            "One&rsquo; &mdash; names the act as wickedness outright, a "
+            "more explicit moral accusation than this vagga's more "
+            "common pattern of simply denying Māra's claims."]),
+        ("A warning about consequence, not merely a rebuke", [
+            "&lsquo;Do you imagine that your wickedness won't bear "
+            "fruit?&rsquo; introduces the logic of karmic consequence "
+            "directly into the confrontation, suggesting Māra's "
+            "interference carries its own cost regardless of whether "
+            "it succeeds in its immediate aim."]),
+        ("Nothing to lose, and rapture instead of food", [
+            "The verse's closing claim &mdash; living happily with "
+            "nothing, feeding on rapture &lsquo;like the gods of "
+            "streaming radiance&rsquo; &mdash; answers the material "
+            "deprivation directly but on entirely different terms, "
+            "naming a sustenance Māra's control over alms-giving "
+            "villagers has no power to withhold."]),
+    ],
+    terms=[
+        ("Pañcasālā",
+         "&ldquo;Pañcasālā&rdquo; &mdash; the Magadhan brahmin village "
+         "whose people Māra possesses to deny the Buddha alms."),
+        ("piṇḍa",
+         "&ldquo;alms food&rdquo; &mdash; what the Buddha is denied, "
+         "giving this discourse its title."),
+        ("pāpaṁ",
+         "&ldquo;wickedness&rdquo; &mdash; the Buddha's own explicit "
+         "term for Māra's act, more direct than this vagga's usual "
+         "pattern of simple denial."),
+        ("akiñcana",
+         "&ldquo;having nothing&rdquo; &mdash; the condition the verse "
+         "describes living happily within, despite the empty bowl."),
+        ("ābhassara",
+         "&ldquo;the gods of streaming radiance&rdquo; &mdash; the "
+         "verse's image for beings said to feed on rapture alone, "
+         "applied to the Buddha's own contentment."),
+    ],
+    text_intro=(
+        "The discourse in full: the possession and empty bowl, Māra's "
+        "taunting offer, and the defiant, joyful verse. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.18:1.1-1.5"),
+        ("p", "&sect;2", "sn4.18:2.1-2.6"),
+        ("p", "&sect;3", "sn4.18:3.1-3.4"),
+        ("p", "&sect;4", "sn4.18:4.1-4.4"),
+        ("p", "&sect;5", "sn4.18:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "What does Māra do in this discourse, unlike his manifestations elsewhere in this vagga?",
+         "opts": [
+             "Possesses actual villagers to ensure the Buddha receives no alms",
+             "Manifests as an animal to frighten the assembly",
+             "Crushes boulders near the Buddha",
+             "Makes a loud noise like the earth shattering"],
+         "correct": 0,
+         "expl": "A real, material consequence rather than an illusion or manifestation."},
+        {"q": "What is the result of this possession?",
+         "opts": [
+             "The Buddha's alms bowl returns from his round completely empty",
+             "The villagers attack the Buddha directly",
+             "The Buddha is forced to leave the village permanently",
+             "The villagers offer the Buddha too much food"],
+         "correct": 0,
+         "expl": "A genuine social and material consequence, not an illusion."},
+        {"q": "What does Māra offer after the empty bowl?",
+         "opts": [
+             "To “make sure” the Buddha gets alms if he tries a second time",
+             "To personally provide food himself",
+             "To apologize and leave permanently",
+             "To possess the villagers again to help this time"],
+         "correct": 0,
+         "expl": "A taunting offer that presents Māra as controlling access to something as basic as food."},
+        {"q": "How does the Buddha's reply characterize Māra's act?",
+         "opts": [
+             "Directly as “wickedness,” a more explicit accusation than usual",
+             "As a harmless prank not worth mentioning",
+             "As proof that Māra has finally given up",
+             "As an act the Buddha claims not to have noticed"],
+         "correct": 0,
+         "expl": "More explicit than this vagga's more common pattern of simply denying Māra's claims."},
+        {"q": "What logic does the Buddha introduce with “do you imagine your wickedness won't bear fruit”?",
+         "opts": [
+             "The logic of karmic consequence, suggesting the act carries its own cost",
+             "A direct threat of physical retaliation",
+             "A promise that the villagers will be punished",
+             "A claim that wickedness has no consequences at all"],
+         "correct": 0,
+         "expl": "Māra's interference carries its own cost regardless of its immediate success."},
+        {"q": "How does the verse answer the material deprivation of the empty bowl?",
+         "opts": [
+             "By naming a different sustenance entirely: feeding on rapture, like the gods of streaming radiance",
+             "By promising the villagers will eventually relent",
+             "By denying that the bowl was actually empty",
+             "By demanding Māra personally provide food"],
+         "correct": 0,
+         "expl": "A sustenance Māra's control over the villagers has no power to withhold."},
+        {"q": "What condition does the verse say the Buddha lives happily within?",
+         "opts": [
+             "Having nothing (akiñcana)",
+             "Having secured a guaranteed food supply",
+             "Having defeated Māra permanently",
+             "Having left the village entirely"],
+         "correct": 0,
+         "expl": "Contentment independent of material provision."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "In Magadhan territory, near the brahmin village of Pañcasālā",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "The specific village whose people Māra possesses."},
+        {"q": "How does this discourse's stakes compare to most others in this vagga?",
+         "opts": [
+             "Higher: a real material consequence (hunger) rather than an illusion or verbal claim",
+             "Lower: this discourse has no real consequence at all",
+             "Identical to every other discourse in this vagga",
+             "This is the only discourse in this vagga without a verse"],
+         "correct": 0,
+         "expl": "The most materially consequential confrontation in this vagga, resolved entirely internally."},
+        {"q": "What gods does the verse's closing image reference?",
+         "opts": [
+             "The gods of streaming radiance (ābhassara)",
+             "The gods of the Third Heaven (Tāvatiṁsa)",
+             "The Pure Abode gods (Suddhāvāsa)",
+             "No specific gods are referenced"],
+         "correct": 0,
+         "expl": "A specific class of deity said to feed on rapture alone, applied to the Buddha's own state."},
+    ],
+    marginalia=[
+        ("Possession, not illusion", [
+            "villagers themselves turned against giving &mdash;",
+            "a real bowl, genuinely empty",
+        ]),
+        ("Did you get any alms?", [
+            "the taunt already knowing its answer &mdash;",
+            "then an offer that assumes control",
+        ]),
+        ("Wickedness, named outright", [
+            "more explicit than the usual denial &mdash;",
+            "and warned it will bear its own fruit",
+        ]),
+        ("Rapture, not bread", [
+            "sustenance Māra cannot withhold &mdash;",
+            "contentment answering hunger directly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.17.html">SN 4.17 &middot; The Six Fields of '
+        "Contact</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-4.19.html">SN 4.19 &middot; A Farmer</a> &mdash; '
+        "the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 4.19 — Kassakasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 19, "Kassaka", "A Farmer",
+    meta_title="SN 4.19 — A Farmer | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kassakasutta — disguised as a muddy farmer looking for oxen, "
+        "Māra claims outright ownership of all six senses, and is told "
+        "he'll never even see the path the Buddha takes. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, during a Dhamma talk on "
+                    "extinguishment"),
+        ("Speakers", "The Buddha and Māra the Wicked, disguised as a "
+                     "farmer"),
+        ("Form", "An elaborate disguise, an escalating territorial "
+                 "claim over all six senses, and a matched, then "
+                 "surpassing, denial"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the longest and most argumentatively developed "
+                       "exchange in this vagga so far"),
+    ],
+    why=(
+        "This discourse gives Māra his most elaborate disguise yet: a "
+        "farmer with a large plough, a long goad, messy hair, hemp "
+        "clothing, and muddy feet, asking whether the Buddha has seen "
+        "any oxen. When the Buddha turns the question back on him, "
+        "Māra drops the pretense entirely and makes an extraordinary "
+        "claim: the eye, sights, ear, sounds, and every other sense "
+        "field, all six of them, belong to him alone, so where could "
+        "the Buddha possibly escape? The Buddha's reply matches this "
+        "claim structurally before surpassing it &mdash; conceding the "
+        "senses as Māra's domain, then locating himself entirely "
+        "outside where any of them exist at all."),
+    guide=[
+        ("A disguise this vagga's most detailed yet", [
+            "The farmer's description &mdash; plough, goad, messy hair, "
+            "hemp clothing, muddy feet &mdash; is unusually specific "
+            "and mundane compared to this vagga's elephants, serpents, "
+            "or oxen, a convincingly ordinary figure rather than "
+            "something overtly supernatural or frightening."]),
+        ("A question that drops its own pretense", [
+            "The Buddha's counter-question &mdash; &lsquo;what have you "
+            "to do with oxen, Wicked One?&rsquo; &mdash; doesn't merely "
+            "expose the disguise; it prompts Māra to abandon the "
+            "farmer pretense entirely and escalate straight into his "
+            "real claim, as though the disguise had already served its "
+            "purpose simply by getting close enough to speak."]),
+        ("Ownership claimed over all six senses, exhaustively", [
+            "Māra's claim runs through every sense field in turn "
+            "&mdash; eye, ear, nose, tongue, body, mind &mdash; each "
+            "declared his alone, along with their objects and the "
+            "consciousness arising from contact, an exhaustive "
+            "territorial assertion rather than a single vague threat."]),
+        ("A reply that concedes before it transcends", [
+            "Unlike this vagga's more common flat denials, the Buddha's "
+            "answer initially agrees with Māra's claim entirely "
+            "&mdash; yes, the eye and sights and eye-consciousness are "
+            "indeed yours &mdash; before adding the decisive turn: "
+            "where none of these exist at all, you have no place "
+            "there, conceding the territory while stepping outside it."]),
+        ("A path Māra cannot even perceive, not merely cannot follow", [
+            "The verse's final claim &mdash; &lsquo;you won't even see "
+            "the path I take&rsquo; &mdash; goes further than simple "
+            "escape; it denies Māra even the perceptual access needed "
+            "to track an attempt at escape, the strongest claim of "
+            "separation offered anywhere in this vagga."]),
+    ],
+    terms=[
+        ("kassaka",
+         "&ldquo;farmer&rdquo; &mdash; the disguise Māra adopts, "
+         "giving this discourse its title."),
+        ("cakkhu rūpā cakkhuviññāṇāyatana",
+         "&ldquo;the eye, sights, the field of eye contact "
+         "consciousness&rdquo; &mdash; the formula repeated for each "
+         "of the six senses in Māra's territorial claim."),
+        ("mama",
+         "&ldquo;mine&rdquo; &mdash; the possessive claim Māra "
+         "repeats across all six senses, exhaustively."),
+        ("yattha natthi",
+         "&ldquo;where there is no&hellip;&rdquo; &mdash; the "
+         "Buddha's structural pivot, conceding Māra's domain before "
+         "locating himself entirely outside it."),
+        ("na dakkhisi",
+         "&ldquo;you won't even see&rdquo; &mdash; the verse's final "
+         "claim, denying Māra perceptual access to the Buddha's path "
+         "at all."),
+    ],
+    text_intro=(
+        "The discourse in full: the farmer's disguise, the escalating "
+        "territorial claim, and the matched, surpassing denial. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.19:1.1-1.3"),
+        ("p", "&sect;2", "sn4.19:2.1-2.14"),
+        ("p", "&sect;3", "sn4.19:3.1-3.10"),
+        ("p", "&sect;4", "sn4.19:4.1-4.4"),
+        ("p", "&sect;5", "sn4.19:5.1-5.4"),
+        ("p", "&sect;6", "sn4.19:6.1-6.1"),
+    ],
+    quiz=[
+        {"q": "What disguise does Māra adopt in this discourse?",
+         "opts": [
+             "A farmer, with a plough, goad, messy hair, hemp clothing, and muddy feet",
+             "An ox, as at SN 4.16",
+             "A serpent king, as at SN 4.6",
+             "A rainbow of colors, as at SN 4.3"],
+         "correct": 0,
+         "expl": "This vagga's most detailed and convincingly mundane disguise so far."},
+        {"q": "What does the Buddha's counter-question prompt Māra to do?",
+         "opts": [
+             "Drop the farmer pretense entirely and escalate to a direct territorial claim",
+             "Immediately vanish without further exchange",
+             "Continue playing the farmer role for the rest of the discourse",
+             "Ask the Buddha a series of unrelated questions"],
+         "correct": 0,
+         "expl": "As though the disguise had already served its purpose by getting close enough to speak."},
+        {"q": "What does Māra claim ownership over?",
+         "opts": [
+             "All six sense fields — eye, ear, nose, tongue, body, and mind — exhaustively",
+             "Only the Buddha's alms bowl",
+             "Only the physical location where they stand",
+             "Only the Buddha's past deeds"],
+         "correct": 0,
+         "expl": "An exhaustive territorial assertion, not a single vague threat."},
+        {"q": "How does the Buddha's reply differ from this vagga's more common flat denials?",
+         "opts": [
+             "It initially concedes Māra's claim before adding a decisive turn",
+             "It denies Māra's claim immediately and completely",
+             "It ignores the claim and changes the subject",
+             "It agrees with Māra's claim without qualification"],
+         "correct": 0,
+         "expl": "Yes, the senses are yours — but where none of them exist, you have no place there."},
+        {"q": "What is the verse's final claim about the path the Buddha takes?",
+         "opts": [
+             "That Māra won't even see it, not merely fail to follow it",
+             "That the path leads directly back to Pañcasālā",
+             "That the path is identical to Māra's own domain",
+             "That no such path actually exists"],
+         "correct": 0,
+         "expl": "Denying Māra even the perceptual access needed to track an attempt at escape."},
+        {"q": "What was the Buddha teaching when this disguised encounter began?",
+         "opts": [
+             "A Dhamma talk about extinguishment",
+             "The five grasping aggregates",
+             "The six fields of contact",
+             "Moderation in eating"],
+         "correct": 0,
+         "expl": "The topic in progress when Māra's farmer disguise first appears."},
+        {"q": "How many times does the sense-field formula repeat in Māra's claim?",
+         "opts": [
+             "Six times, once for each sense",
+             "Only once, for the eye alone",
+             "Three times",
+             "The formula is not repeated at all"],
+         "correct": 0,
+         "expl": "Eye, ear, nose, tongue, body, and mind, each claimed in turn."},
+        {"q": "What does Māra say after the Buddha's first reply, before the final exchange?",
+         "opts": [
+             "That if the Buddha's mind still remains among “mine” claims, he won't escape",
+             "That he accepts defeat immediately",
+             "That he will return with a different disguise",
+             "Nothing further; the discourse ends there"],
+         "correct": 0,
+         "expl": "A further attempt, pressing the point before the Buddha's final, decisive reply."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, during a Dhamma talk on extinguishment",
+             "At Rājagaha, on Vulture's Peak",
+             "In Magadhan territory, near Pañcasālā",
+             "Near Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "The setting for this teaching and Māra's elaborate disguise."},
+        {"q": "How does this discourse's argumentative development compare to most others in this vagga?",
+         "opts": [
+             "The longest and most developed exchange, with claim and counter-claim building across several turns",
+             "The shortest exchange in this entire vagga",
+             "Identical in structure to every other discourse here",
+             "The only discourse in this vagga with no closing verse"],
+         "correct": 0,
+         "expl": "A multi-stage escalation distinct from this vagga's more typical single provocation and reply."},
+    ],
+    marginalia=[
+        ("A farmer, muddy and ordinary", [
+            "no monster, no cosmic noise this time &mdash;",
+            "convincing precisely by being mundane",
+        ]),
+        ("What's that to you, oxen?", [
+            "the pretense dropped at once &mdash;",
+            "straight to the real claim beneath it",
+        ]),
+        ("Mine, six times over", [
+            "eye, ear, nose, tongue, body, mind &mdash;",
+            "an exhaustive territory claimed",
+        ]),
+        ("Conceded, then transcended", [
+            "yours indeed, where it exists at all &mdash;",
+            "and I am simply not there",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.15.html">SN 4.15 &middot; A Mental Snare</a> '
+        "&mdash; this vagga's minimalist counterpart to this "
+        "discourse's extended senses-as-territory exchange.",
+        '<a href="sn-4.18.html">SN 4.18 &middot; Alms Food</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-4.20.html">SN 4.20 &middot; Ruling</a> &mdash; '
+        "the next and final discourse of this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 4.20 — Rajjasutta
+# --------------------------------------------------------------------------- #
+page(
+    4, 20, "Rajja", "Ruling",
+    meta_title="SN 4.20 — Ruling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Rajjasutta — Māra reads the Buddha's private wondering about "
+        "righteous rule and eagerly urges him toward kingship, offering "
+        "to turn the Himalayas to gold. Closes the vagga that takes its "
+        "name from this discourse. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In Kosalan territory, in a wilderness hut on the "
+                    "slopes of the Himalayas"),
+        ("Speakers", "The Buddha, in private reflection, and Māra the "
+                     "Wicked"),
+        ("Form", "A private hypothetical overheard, an eager "
+                 "temptation toward power, and a verse rejecting wealth "
+                 "itself as ever sufficient"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the closing discourse of this vagga and one of "
+                       "this collection's most famous renunciation "
+                       "teachings"),
+    ],
+    why=(
+        "This discourse closes the vagga that takes its name directly "
+        "from it: alone in a wilderness hut, the Buddha privately "
+        "wonders whether it might be possible to rule legitimately, "
+        "without killing, conquering, or causing sorrow. Māra, reading "
+        "this thought exactly as at SN 4.1, seizes on it eagerly "
+        "&mdash; urging the Buddha toward kingship rather than away "
+        "from it, and revealing he believes the Buddha's mastery of "
+        "psychic power could turn the Himalayas themselves to gold. The "
+        "Buddha's reply does not evaluate whether righteous rule is "
+        "possible at all; it dismisses the entire premise of wealth as "
+        "sufficient, however vast."),
+    guide=[
+        ("A private hypothetical, not a settled ambition", [
+            "The Buddha's wondering is framed explicitly as a question "
+            "&mdash; &lsquo;I wonder if it's possible&rsquo; &mdash; "
+            "not a decision or a desire, a nuance Māra's eager response "
+            "does not respect, treating a tentative reflection as an "
+            "opening to be exploited rather than a question still under "
+            "consideration."]),
+        ("Temptation toward power, not away from the teaching", [
+            "Unlike every other confrontation in this vagga, Māra here "
+            "is not trying to stop a teaching, mock a posture, or "
+            "claim territory; he is actively encouraging the Buddha "
+            "toward an alternative path entirely &mdash; worldly rule "
+            "&mdash; a temptation of ambition rather than an attack on "
+            "an existing position."]),
+        ("A reason given, unusually, for the temptation", [
+            "Where this vagga's other discourses simply present Māra's "
+            "challenge, here he explains why he thinks kingship is "
+            "achievable: the Buddha's own developed psychic powers, "
+            "which Māra claims could transform the Himalaya, king of "
+            "mountains, into solid gold at a mere act of will."]),
+        ("Not a debate about method, but about sufficiency", [
+            "The Buddha's answering verse does not dispute whether "
+            "righteous, non-violent rule is achievable, or whether he "
+            "could indeed produce a golden mountain; it bypasses that "
+            "question entirely to make a different claim: even a "
+            "golden mountain doubled would still not be enough for a "
+            "single person's desire."]),
+        ("A closing discourse naming the entire vagga", [
+            "This discourse's title, Rajja (&lsquo;ruling&rsquo;), "
+            "gives the &lsquo;2. Rule&rsquo; vagga its name, following "
+            "the same closing-discourse naming pattern already observed "
+            "across the Devaputtasaṃyutta, Kosalasaṃyutta, and this "
+            "saṃyutta's own first vagga."]),
+    ],
+    terms=[
+        ("rajja",
+         "&ldquo;ruling, kingship&rdquo; &mdash; the subject of the "
+         "Buddha's private wondering, giving this discourse and its "
+         "vagga their shared title."),
+        ("iddhipāda",
+         "&ldquo;bases for psychic power&rdquo; &mdash; what Māra says "
+         "the Buddha has developed, the stated reason for his belief "
+         "that transforming a mountain to gold is achievable."),
+        ("Himavā pabbatarājā",
+         "&ldquo;the Himalaya, king of mountains&rdquo; &mdash; what "
+         "Māra claims could be turned to gold, the temptation's "
+         "specific, extravagant scale."),
+        ("na alameva ekassa",
+         "&ldquo;not enough for one&rdquo; &mdash; the verse's central "
+         "claim, that even a doubled golden mountain would not satisfy "
+         "a single person."),
+        ("upadhi saṁyojana",
+         "&ldquo;attachment&hellip;a chain&rdquo; &mdash; the verse's "
+         "closing identification of what should actually be trained "
+         "away, redirecting the entire question from rule to renunciation."),
+    ],
+    text_intro=(
+        "The discourse in full, with the closing uddāna left blank in "
+        "the source and not quoted here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn4.20:1.1-1.3"),
+        ("p", "&sect;2", "sn4.20:2.1-2.6"),
+        ("p", "&sect;3", "sn4.20:3.1-3.4"),
+        ("p", "&sect;4", "sn4.20:4.1-4.4"),
+        ("p", "&sect;5", "sn4.20:5.1-5.1"),
+    ],
+    quiz=[
+        {"q": "What does the Buddha privately wonder in this discourse?",
+         "opts": [
+             "Whether it is possible to rule legitimately, without killing, conquering, or causing sorrow",
+             "Whether he should return to lay life entirely",
+             "Whether the mendicants still trust his teaching",
+             "Whether Māra can ever be permanently defeated"],
+         "correct": 0,
+         "expl": "A tentative reflection, not a settled ambition, that Māra seizes on immediately."},
+        {"q": "How does Māra's response differ from most of his tactics elsewhere in this vagga?",
+         "opts": [
+             "He actively encourages the Buddha toward kingship, rather than attacking an existing position",
+             "He mocks the Buddha's physical posture",
+             "He manifests as a frightening animal",
+             "He claims ownership over the six senses"],
+         "correct": 0,
+         "expl": "A temptation of ambition, urging the Buddha toward an alternative path entirely."},
+        {"q": "What reason does Māra give for believing kingship is achievable?",
+         "opts": [
+             "The Buddha's developed psychic powers, which could turn the Himalayas to gold",
+             "The size of the Buddha's existing following",
+             "A prophecy Māra claims to have received",
+             "The weakness of neighboring kings"],
+         "correct": 0,
+         "expl": "An unusually explicit justification, compared to this vagga's more typical unexplained challenges."},
+        {"q": "How does the Buddha's reply address Māra's temptation?",
+         "opts": [
+             "It bypasses the question of method entirely, claiming even doubled gold wouldn't be enough for one person",
+             "It disputes whether the Buddha actually has such psychic powers",
+             "It accepts the offer and asks for details",
+             "It argues that righteous rule is impossible in principle"],
+         "correct": 0,
+         "expl": "A claim about sufficiency, not about whether the golden mountain could actually be produced."},
+        {"q": "What does the verse's closing lines redirect the question toward?",
+         "opts": [
+             "Removing attachment, described as a chain, rather than acquiring rule or wealth",
+             "A more detailed plan for legitimate kingship",
+             "A negotiation with Māra over terms",
+             "An appeal to the mendicants for their opinion"],
+         "correct": 0,
+         "expl": "Renunciation rather than acquisition, however righteously framed."},
+        {"q": "What vagga does this discourse close, and how does it get its name?",
+         "opts": [
+             "The “Rule” vagga, named directly for this discourse's own title",
+             "The Jīvitavagga, named for an unrelated pair",
+             "The Bandhanavagga",
+             "This discourse does not close any vagga"],
+         "correct": 0,
+         "expl": "Following the same closing-discourse naming pattern seen across earlier saṃyuttas."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "In Kosalan territory, in a wilderness hut on the slopes of the Himalayas",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "A solitary setting matching the private nature of the Buddha's reflection."},
+        {"q": "How does the Buddha initially respond to Māra's encouragement?",
+         "opts": [
+             "By asking what Māra sees that makes him say this",
+             "By immediately agreeing to attempt kingship",
+             "By refusing to speak with Māra at all",
+             "By asking the mendicants to weigh in"],
+         "correct": 0,
+         "expl": "Probing Māra's reasoning before the verse's ultimate rejection of the premise."},
+        {"q": "What is left untranslated at the very close of this discourse in the source?",
+         "opts": [
+             "The uddāna, this vagga's own summary verse",
+             "The Buddha's final teaching",
+             "Māra's full offer",
+             "The description of the wilderness hut"],
+         "correct": 0,
+         "expl": "Blank in the source, consistent with how such closings are handled elsewhere in this collection."},
+        {"q": "What broader teaching does this discourse's famous verse express?",
+         "opts": [
+             "That desire is never satisfied by any quantity of wealth, however vast",
+             "That kingship is morally superior to renunciation",
+             "That psychic powers should never be developed",
+             "That Māra is ultimately more powerful than the Buddha"],
+         "correct": 0,
+         "expl": "A renunciation teaching that bypasses the specific method to address sufficiency itself."},
+    ],
+    marginalia=[
+        ("A private wondering, overheard", [
+            "righteous rule, without violence &mdash;",
+            "still a question, not yet a decision",
+        ]),
+        ("Rule, Māra urges eagerly", [
+            "temptation toward power, not away &mdash;",
+            "the Himalayas offered in gold",
+        ]),
+        ("Doubled gold, still not enough", [
+            "sufficiency itself the real question &mdash;",
+            "not whether the mountain could be made",
+        ]),
+        ("A vagga named for its own close", [
+            "Rule, the title given directly &mdash;",
+            "the pattern seen across this whole book",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn4.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-4.1.html">SN 4.1 &middot; Mortification</a> '
+        "&mdash; this saṃyutta's opening discourse, sharing the "
+        "same device of Māra reading a private thought.",
+        '<a href="sn-4.19.html">SN 4.19 &middot; A Farmer</a> &mdash; '
+        "the discourse immediately before this one.",
+        '<a href="sn-4.11.html">SN 4.11 &middot; Boulders</a> &mdash; '
+        "the discourse opening this vagga, nine discourses back.",
+    ],
+)
