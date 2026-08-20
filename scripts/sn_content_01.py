@@ -35682,3 +35682,2037 @@ page(
         "back.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.2 — Gāravasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 2, "Gārava", "Respect",
+    meta_title="SN 6.2 — Respect | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Gāravasutta — just after his awakening, the Buddha searches for "
+        "someone more accomplished to honor, finds no one, and resolves "
+        "to honor the Dhamma itself, affirmed by the divinity Sahampati. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Uruvelā, at the root of the goatherd's banyan "
+                    "tree, in the days just after the Buddha's "
+                    "awakening"),
+        ("Speakers", "The Buddha, in private reflection, and the "
+                     "divinity Sahampati"),
+        ("Form", "A five-part private search through named "
+                 "attainments, a resolution, and Sahampati's confirming "
+                 "verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; the "
+                       "first discourse to systematically write beyond "
+                       "the already-published SN 6.1, best read as its "
+                       "companion"),
+    ],
+    why=(
+        "Systematic coverage of this saṃyutta begins here, immediately "
+        "following SN 6.1's already-published account of Brahmā "
+        "Sahampati's original appeal for the Buddha to teach. This "
+        "discourse returns to that same early period: alone at "
+        "Uruvelā, the newly awakened Buddha reflects that living "
+        "without anyone to honor and rely on is itself a kind of "
+        "suffering, and searches, category by category &mdash; ethics, "
+        "immersion, wisdom, freedom, and the knowledge and vision of "
+        "freedom &mdash; for any ascetic or brahmin more accomplished "
+        "than himself. Finding none, he resolves to honor the very "
+        "Dhamma he awakened to, a decision Sahampati immediately "
+        "appears to confirm as the pattern followed by every Buddha, "
+        "past, present, and future."),
+    guide=[
+        ("A companion to the already-published appeal", [
+            "This discourse is best read alongside SN 6.1, this book's "
+            "pre-existing page: both are set in the same early period "
+            "at Uruvelā and involve the same divinity, Sahampati, "
+            "though this one concerns the Buddha's relationship to the "
+            "Dhamma itself rather than his decision to teach others."]),
+        ("A search through five named categories, not a vague feeling", [
+            "The Buddha's reflection is systematic rather than "
+            "impressionistic: he considers, one at a time, whether "
+            "anyone surpasses him in ethics, immersion, wisdom, "
+            "freedom, or the knowledge and vision of freedom, only "
+            "concluding after all five have been checked that no such "
+            "person exists."]),
+        ("A conclusion reached through elimination, not assumption", [
+            "The Buddha does not begin by declaring himself supreme; "
+            "each category opens with a conditional &mdash; he would "
+            "honor another if one were found more accomplished &mdash; "
+            "making the eventual conclusion the result of an honest "
+            "search rather than a starting premise."]),
+        ("The Dhamma as what remains to be honored", [
+            "Having found no person to rely on, the Buddha's resolution "
+            "&mdash; to honor and rely on &lsquo;the same Dhamma to "
+            "which I was awakened&rsquo; &mdash; redirects reverence "
+            "away from any individual entirely, toward the teaching "
+            "itself as an object worthy of respect independent of any "
+            "teacher."]),
+        ("A universal pattern, not a one-time decision", [
+            "Sahampati's confirming verse doesn't merely approve of "
+            "this particular choice; it generalizes it into a "
+            "permanent law &mdash; &lsquo;this is the nature of the "
+            "Buddhas&rsquo; &mdash; past, present, and future Buddhas "
+            "alike honoring the true teaching, framing this as "
+            "something inherent to Buddhahood itself rather than a "
+            "personal preference of this one Buddha."]),
+    ],
+    terms=[
+        ("gārava",
+         "&ldquo;respect&rdquo; &mdash; the quality the Buddha's "
+         "opening reflection identifies as necessary, giving this "
+         "discourse its title."),
+        ("sīla samādhi paññā vimutti vimuttiñāṇadassana",
+         "&ldquo;ethics, immersion, wisdom, freedom, and the knowledge "
+         "and vision of freedom&rdquo; &mdash; the five categories "
+         "systematically checked in the Buddha's search."),
+        ("Sahampati",
+         "&ldquo;Sahampati&rdquo; &mdash; the divinity who appears to "
+         "confirm the Buddha's resolution, already familiar from SN "
+         "6.1."),
+        ("dhammaṁyeva sakkatvā",
+         "&ldquo;honor&hellip;the Dhamma itself&rdquo; &mdash; the "
+         "Buddha's own resolution, redirecting reverence from any "
+         "person to the teaching."),
+        ("esā buddhāna dhammatā",
+         "&ldquo;this is the nature of the Buddhas&rdquo; &mdash; "
+         "Sahampati's verse generalizing the resolution into a "
+         "permanent law for all Buddhas."),
+    ],
+    text_intro=(
+        "The discourse in full: the Buddha's systematic search, his "
+        "resolution, and Sahampati's confirming appearance and verse. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.2:1.1-1.4"),
+        ("p", "&sect;2", "sn6.2:2.1-2.2"),
+        ("p", "&sect;3", "sn6.2:3.1-3.1"),
+        ("p", "&sect;4", "sn6.2:4.1-4.1"),
+        ("p", "&sect;5", "sn6.2:5.1-5.1"),
+        ("p", "&sect;6", "sn6.2:6.1-6.3"),
+        ("p", "&sect;7", "sn6.2:7.1-7.6"),
+        ("p", "&sect;8", "sn6.2:7.7-8.4"),
+        ("p", "&sect;9", "sn6.2:9.1-10.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 6.1, this book's already-published page?",
+         "opts": [
+             "Both are set in the same early Uruvelā period and involve the same divinity, Sahampati",
+             "They are entirely unrelated, set in different eras",
+             "SN 6.2 directly contradicts SN 6.1's account",
+             "SN 6.1 is a later summary of this discourse's events"],
+         "correct": 0,
+         "expl": "Best read as companions, though concerning different aspects of the Buddha's relationship to the Dhamma."},
+        {"q": "What five categories does the Buddha's reflection systematically check?",
+         "opts": [
+             "Ethics, immersion, wisdom, freedom, and the knowledge and vision of freedom",
+             "Wealth, birth, fame, strength, and beauty",
+             "Compassion, patience, generosity, courage, and humility",
+             "Only ethics and wisdom are checked"],
+         "correct": 0,
+         "expl": "A systematic search rather than an impressionistic feeling."},
+        {"q": "How does the Buddha's reasoning reach its conclusion?",
+         "opts": [
+             "Through elimination: each category opens with a conditional willingness to honor someone more accomplished",
+             "By simply declaring himself supreme from the outset",
+             "By asking his disciples to judge for him",
+             "By consulting other ascetics directly"],
+         "correct": 0,
+         "expl": "The conclusion is the result of an honest search, not a starting premise."},
+        {"q": "What does the Buddha resolve to honor, having found no person more accomplished?",
+         "opts": [
+             "The Dhamma itself, the teaching he awakened to",
+             "His own past teachers from before his ordination",
+             "The god Brahmā specifically",
+             "A physical object representing awakening"],
+         "correct": 0,
+         "expl": "Redirecting reverence from any individual to the teaching itself."},
+        {"q": "How does Sahampati's verse characterize this resolution?",
+         "opts": [
+             "As “the nature of the Buddhas” — a universal pattern, not a one-time personal choice",
+             "As an unusual decision unique to this particular Buddha",
+             "As a temporary measure until a worthy teacher is found",
+             "As something Sahampati himself suggested first"],
+         "correct": 0,
+         "expl": "Generalizing the choice into a permanent law followed by all Buddhas, past, present, and future."},
+        {"q": "How does Sahampati appear before the Buddha?",
+         "opts": [
+             "As easily as a strong person would extend or contract their arm",
+             "Walking slowly from a great distance",
+             "Descending gradually over several days",
+             "The text does not describe his arrival"],
+         "correct": 0,
+         "expl": "A stock formula for divine, instantaneous travel used elsewhere in this collection."},
+        {"q": "What does Sahampati say about past and future Buddhas?",
+         "opts": [
+             "That all of them honored, honor, and will honor this same teaching",
+             "That only the present Buddha follows this pattern",
+             "That past Buddhas did not honor the Dhamma this way",
+             "Sahampati makes no claim about other Buddhas"],
+         "correct": 0,
+         "expl": "Extending the pattern across all three times, not just the present occasion."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Uruvelā, at the root of the goatherd's banyan tree",
+             "At Sāvatthī, in Jeta's Grove",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "The same early post-awakening location shared with several other discourses across this collection."},
+        {"q": "What does the Buddha say living without respect and reverence leads to?",
+         "opts": [
+             "Suffering",
+             "Immediate rebirth in hell",
+             "Loss of psychic power",
+             "The text does not specify a consequence"],
+         "correct": 0,
+         "expl": "The Buddha's own opening reflection, prompting the entire search that follows."},
+        {"q": "What does Sahampati's closing verse advise for someone who desires self-knowledge?",
+         "opts": [
+             "To respect the true teaching, remembering the instructions of the Buddhas",
+             "To seek out a living human teacher above all else",
+             "To avoid all forms of reverence entirely",
+             "To pursue psychic power as the primary goal"],
+         "correct": 0,
+         "expl": "The verse's closing practical instruction, drawn from the pattern it has just described."},
+    ],
+    marginalia=[
+        ("No one found, category by category", [
+            "ethics, immersion, wisdom checked in turn &mdash;",
+            "conclusion earned, not assumed",
+        ]),
+        ("The Dhamma itself, honored", [
+            "reverence redirected from any person &mdash;",
+            "a decision without famous precedent",
+        ]),
+        ("So true, Sahampati confirms", [
+            "vanishing and reappearing at once &mdash;",
+            "instant travel, familiar by now",
+        ]),
+        ("The nature of the Buddhas", [
+            "past, present, future, all the same &mdash;",
+            "a universal pattern, not one choice",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.1.html">SN 6.1 &middot; The Appeal of the '
+        "Divinity</a> &mdash; this book's already-published companion "
+        "discourse, on the same divinity's original appeal to teach.",
+        '<a href="sn-6.3.html">SN 6.3 &middot; With Brahmadeva</a> '
+        "&mdash; the next discourse in this vagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.3 — Brahmadevasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 3, "Brahmadeva", "With Brahmadeva",
+    meta_title="SN 6.3 — With Brahmadeva | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Brahmadevasutta — a mother makes offerings to a distant god "
+        "while her own newly liberated son stands unrecognized at her "
+        "door, until the divinity Sahampati redirects her devotion "
+        "toward him. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, at the home of Venerable Brahmadeva's "
+                    "mother"),
+        ("Speakers", "Venerable Brahmadeva, his mother, and the "
+                     "divinity Sahampati"),
+        ("Form", "A narrative of unrecognized attainment, corrected by "
+                 "a divine intervention delivered in verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; an "
+                       "ironic domestic scene given cosmic stakes by "
+                       "Sahampati's intervention"),
+    ],
+    why=(
+        "This discourse turns on an irony its central figures don't "
+        "notice until Sahampati points it out: Brahmadeva, newly "
+        "become one of the perfected, wanders for alms indiscriminately "
+        "and happens to reach his own mother's house &mdash; where she "
+        "is, at that very moment, making a regular offering to a "
+        "distant divinity she has never seen. Sahampati appears in the "
+        "air above her and redirects her devotion bluntly: the "
+        "divinity she prays to doesn't eat that kind of food, but the "
+        "liberated son standing at her door, worthy of offerings from "
+        "gods and men alike, does."),
+    guide=[
+        ("A son's attainment, unknown to his own mother", [
+            "The discourse's setup is quietly poignant: Brahmadeva has "
+            "already become one of the perfected before this scene "
+            "begins, but nothing in the narrative suggests his mother "
+            "knows this &mdash; she encounters him only as one "
+            "mendicant among many, wandering indiscriminately for alms."]),
+        ("A regular devotion, aimed at the wrong distance", [
+            "The mother's oblation to &lsquo;the Divinity&rsquo; is "
+            "presented as an established practice, not a one-time "
+            "event &mdash; a &lsquo;regular oblation&rsquo; to a being "
+            "Sahampati says is genuinely &lsquo;far from here&rsquo;, "
+            "in contrast to the person actually standing in front of "
+            "her."]),
+        ("A god correcting devotion to gods", [
+            "The discourse's structure carries its own quiet irony: "
+            "Sahampati, himself a divinity, is the one who tells a "
+            "human worshipper that the distant divinity she honors "
+            "&lsquo;doesn't eat that kind of food&rsquo; &mdash; a "
+            "correction about the futility of certain devotional "
+            "practice delivered by exactly the kind of being such "
+            "practice targets."]),
+        ("Recognition built through cumulative praise", [
+            "Sahampati's verses don't simply state that Brahmadeva "
+            "deserves offerings; they build the case through several "
+            "specific qualities in sequence &mdash; free of "
+            "attachments, having banished all evils, at peace, without "
+            "hope, having laid down violence toward all creatures "
+            "&mdash; a portrait assembled piece by piece rather than "
+            "asserted in a single claim."]),
+        ("A redirection that succeeds, unlike some in this saṃyutta", [
+            "Unlike SN 6.4 and SN 6.6's more resistant divine figures, "
+            "this discourse's human recipient responds immediately: "
+            "with unwavering confidence, she presents her offering to "
+            "her own son, the narrative closing on her merit-making "
+            "rather than on any further resistance to correct."]),
+    ],
+    terms=[
+        ("Brahmadeva",
+         "&ldquo;Brahmadeva&rdquo; &mdash; the newly perfected "
+         "mendicant this discourse follows, unrecognized by his own "
+         "mother when this scene begins."),
+        ("āhuti",
+         "&ldquo;oblation&rdquo; &mdash; the regular offering "
+         "Brahmadeva's mother presents to a distant divinity, before "
+         "Sahampati's intervention."),
+        ("netādiso brahmabhakkho",
+         "&ldquo;not like this is the Divinity's food&rdquo; &mdash; "
+         "Sahampati's blunt correction of the oblation's actual "
+         "futility."),
+        ("dakkhiṇeyyo",
+         "&ldquo;worthy of offerings&rdquo; &mdash; the term applied "
+         "directly to Brahmadeva, redirecting the mother's devotion "
+         "toward the one actually present."),
+        ("nirūpadhika",
+         "&ldquo;free of attachments&rdquo; &mdash; the first quality "
+         "Sahampati's verses name in his portrait of Brahmadeva, "
+         "standing at the door."),
+    ],
+    text_intro=(
+        "The discourse in full: Brahmadeva's unrecognized attainment, "
+        "Sahampati's corrective verses, and the mother's redirected "
+        "offering. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.3:1.1-1.3"),
+        ("p", "&sect;2", "sn6.3:2.1-2.3"),
+        ("p", "&sect;3", "sn6.3:3.1-3.8"),
+        ("p", "&sect;4", "sn6.3:4.1-4.4"),
+        ("p", "&sect;5", "sn6.3:5.1-6.4"),
+        ("p", "&sect;6", "sn6.3:7.1-8.4"),
+        ("p", "&sect;7", "sn6.3:9.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What has Brahmadeva already achieved before this discourse's central scene begins?",
+         "opts": [
+             "He has become one of the perfected (an arahant)",
+             "He has just been ordained as a novice",
+             "He has renounced monastic life",
+             "He has become a teacher with many students"],
+         "correct": 0,
+         "expl": "An attainment his own mother does not appear to know about."},
+        {"q": "What is Brahmadeva's mother doing when he arrives at her house?",
+         "opts": [
+             "Presenting a regular oblation to a distant divinity",
+             "Preparing a meal specifically for her son",
+             "Leaving to visit a temple elsewhere",
+             "Arguing with a neighbor"],
+         "correct": 0,
+         "expl": "An established devotional practice Sahampati will soon correct."},
+        {"q": "What does Sahampati tell the mother about the divinity she worships?",
+         "opts": [
+             "That the divinity doesn't eat that kind of food and is far from where she is",
+             "That the divinity is actually pleased with her offering",
+             "That the divinity has instructed her to stop entirely",
+             "That the divinity is her own son in disguise"],
+         "correct": 0,
+         "expl": "A blunt correction of the oblation's futility."},
+        {"q": "What irony does the reading guide identify in Sahampati's intervention?",
+         "opts": [
+             "A divinity is the one correcting devotion aimed at another divinity",
+             "Sahampati is revealed to actually be Brahmadeva's father",
+             "The oblation turns out to have worked perfectly all along",
+             "There is no irony identified in this discourse"],
+         "correct": 0,
+         "expl": "A correction about devotional futility delivered by exactly the kind of being such practice targets."},
+        {"q": "How do Sahampati's verses build the case for Brahmadeva's worthiness?",
+         "opts": [
+             "Through several specific qualities named in sequence, building a portrait piece by piece",
+             "Through a single blanket assertion with no supporting detail",
+             "By comparing him unfavorably to the distant divinity",
+             "By listing his family lineage and social status"],
+         "correct": 0,
+         "expl": "Free of attachments, banished all evils, at peace, without hope, having laid down violence."},
+        {"q": "How does the mother respond to Sahampati's correction?",
+         "opts": [
+             "Immediately, presenting her offering to her son with unwavering confidence",
+             "She refuses to believe Sahampati and continues her original practice",
+             "She asks Brahmadeva to prove his attainment first",
+             "She becomes angry at the interruption"],
+         "correct": 0,
+         "expl": "A successful redirection, unlike some more resistant figures elsewhere in this saṃyutta."},
+        {"q": "How does this discourse's outcome compare to SN 6.4 and SN 6.6?",
+         "opts": [
+             "It succeeds quickly, unlike those discourses' more resistant divine figures",
+             "It fails entirely, unlike those discourses' quick successes",
+             "It is identical in outcome to both of those discourses",
+             "This discourse has no comparable outcome to discuss"],
+         "correct": 0,
+         "expl": "A contrast the reading guide draws with this vagga's more resistant figures."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "At Sāvatthī, at the home of Brahmadeva's mother",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak",
+             "Near Vesālī, at the Great Wood"],
+         "correct": 0,
+         "expl": "A specific domestic setting, distinct from the more cosmic locations elsewhere in this saṃyutta."},
+        {"q": "How is Brahmadeva described wandering for alms?",
+         "opts": [
+             "Indiscriminately, without seeking out his mother's house specifically",
+             "Deliberately targeting his mother's house first",
+             "Only visiting wealthy households",
+             "Refusing to enter any household at all"],
+         "correct": 0,
+         "expl": "His arrival at his mother's door is presented as circumstance, not intention."},
+        {"q": "What image does Sahampati use for how he travels to reach the mother's house?",
+         "opts": [
+             "As easily as a strong person would extend or contract their arm",
+             "By walking a long distance on foot",
+             "By riding a celestial chariot",
+             "The text does not describe his travel"],
+         "correct": 0,
+         "expl": "The same stock formula for divine travel used elsewhere in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A son, unrecognized at the door", [
+            "already perfected, still just a mendicant to her &mdash;",
+            "wandering indiscriminately for alms",
+        ]),
+        ("An oblation, aimed too far", [
+            "the divinity doesn't eat that food &mdash;",
+            "correction from a divinity itself",
+        ]),
+        ("A portrait built in pieces", [
+            "free of attachment, evils banished &mdash;",
+            "not one claim, but several stacked",
+        ]),
+        ("Unwavering confidence, given at once", [
+            "the offering redirected successfully &mdash;",
+            "unlike some more resistant figures nearby",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.2.html">SN 6.2 &middot; Respect</a> &mdash; the '
+        "discourse immediately before this one.",
+        '<a href="sn-6.4.html">SN 6.4 &middot; With Baka the '
+        "Divinity</a> &mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.4 — Bakabrahmasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 4, "Bakabrahma", "With Baka the Divinity",
+    meta_title="SN 6.4 — With Baka the Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Bakabrahmasutta — a Brahmā deity insists his realm is eternal "
+        "and death-free, and the Buddha proves superior knowledge not "
+        "by argument alone but by recounting Baka's own forgotten past "
+        "deeds. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, then in Baka's own realm of "
+                    "divinity"),
+        ("Speakers", "The Buddha and Baka the Divinity"),
+        ("Form", "A wrong view stated and corrected, then proven "
+                 "through direct verse recollection of the deity's own "
+                 "past lives"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "direct confrontation with eternalism, this "
+                       "book's central philosophical target"),
+    ],
+    why=(
+        "Baka the Divinity holds a wrong view rarely stated so "
+        "explicitly elsewhere in this collection: his realm is "
+        "permanent, everlasting, eternal, whole, with no birth, aging, "
+        "death, or rebirth, and no escape needed beyond it. The Buddha "
+        "visits directly to correct him &mdash; not merely denying the "
+        "claim, but naming it &lsquo;lost in ignorance&rsquo; point by "
+        "point. When Baka resists, boasting of his and his fellow "
+        "deities' power, the Buddha doesn't simply argue further; he "
+        "proves his own superior knowledge concretely, reciting four "
+        "specific meritorious deeds from Baka's own forgotten past "
+        "lives, each &lsquo;recollected like one who has wakened from "
+        "sleep&rsquo;."),
+    guide=[
+        ("Eternalism stated as explicitly as anywhere in this collection", [
+            "Baka's wrong view is given in full, precise formula "
+            "&mdash; permanent, everlasting, eternal, whole, not "
+            "liable to pass away, with no birth, aging, death, passing "
+            "away, or rebirth, and no escape beyond it &mdash; a "
+            "textbook statement of the eternalist position this "
+            "canon repeatedly targets."]),
+        ("A correction repeating the claim back, negated clause by clause", [
+            "The Buddha's reply doesn't offer a new argument from "
+            "scratch; it takes Baka's own five-part formula and negates "
+            "each element in turn &mdash; what is impermanent he calls "
+            "permanent, what is unstable he calls stable &mdash; naming "
+            "&lsquo;lost in ignorance&rsquo; the specific mismatch "
+            "between Baka's words and how things actually are."]),
+        ("A status claim met with a lifespan correction, not a status dispute", [
+            "Baka's response doesn't defend his view philosophically; "
+            "he cites status &mdash; seventy-two merit-makers, wielders "
+            "of power, having passed rebirth and old age &mdash; and "
+            "the Buddha's reply doesn't dispute the achievement, only "
+            "the scale: however vast, this lifespan is still short, "
+            "not endless, a specific figure the Buddha states plainly."]),
+        ("Proof through memory, not further assertion", [
+            "When Baka, unconvinced, asks for evidence of his own past "
+            "conduct, the Buddha doesn't repeat the philosophical "
+            "correction; he switches registers entirely, naming four "
+            "concrete deeds &mdash; giving water to the thirsty, "
+            "freeing captives at Deer River Bank, rescuing a boat from "
+            "a dragon on the Ganges, and (revealed last, almost "
+            "intimately) having once been Baka's own loyal footman "
+            "Kappa."]),
+        ("Recollected like waking from sleep: a striking repeated image", [
+            "Each of the four deeds closes with the identical line, "
+            "&lsquo;I recollect it like one who has wakened from "
+            "sleep&rsquo;, an image treating memory across countless "
+            "lifetimes not as effortful research but as something "
+            "already present, simply requiring the right kind of "
+            "attention to surface &mdash; a claim of knowledge Baka "
+            "cannot match, and finally concedes."]),
+    ],
+    terms=[
+        ("pāpakaṁ diṭṭhigataṁ",
+         "&ldquo;harmful misconception&rdquo; &mdash; the narrator's "
+         "own term for Baka's eternalist view."),
+        ("niccaṁ dhuvaṁ sassataṁ kevalaṁ acavanadhammaṁ",
+         "&ldquo;permanent, everlasting, eternal, whole, not liable to "
+         "pass away&rdquo; &mdash; the exact fivefold formula of "
+         "Baka's wrong view, later negated clause by clause."),
+        ("avijjāgato",
+         "&ldquo;lost in ignorance&rdquo; &mdash; the Buddha's "
+         "diagnosis of Baka's error, repeated for emphasis."),
+        ("dvāsattati puññakammā vasavattino",
+         "&ldquo;seventy-two merit-makers&hellip;wielders of "
+         "power&rdquo; &mdash; Baka's own claim of status among his "
+         "fellow deities."),
+        ("suttappabuddhova anussarāmi",
+         "&ldquo;I recollect it like one who has wakened from "
+         "sleep&rdquo; &mdash; the refrain closing each of the four "
+         "recounted past deeds."),
+    ],
+    text_intro=(
+        "The discourse in full: Baka's wrong view, the Buddha's "
+        "correction, and the four recollected past deeds that finally "
+        "convince him. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.4:1.1-1.4"),
+        ("p", "&sect;2", "sn6.4:2.1-2.6"),
+        ("p", "&sect;3", "sn6.4:3.1-3.6"),
+        ("p", "&sect;4", "sn6.4:4.1-4.4"),
+        ("p", "&sect;5", "sn6.4:5.1-5.4"),
+        ("p", "&sect;6", "sn6.4:6.1-6.4"),
+        ("p", "&sect;7", "sn6.4:7.1-10.4"),
+        ("p", "&sect;8", "sn6.4:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What wrong view does Baka the Divinity hold?",
+         "opts": [
+             "That his realm is permanent, eternal, and free of birth, death, or rebirth",
+             "That the Buddha's teaching is entirely false",
+             "That he himself will soon cease to exist",
+             "That no escape from suffering is possible for anyone"],
+         "correct": 0,
+         "expl": "A textbook statement of eternalism, given in full precise formula."},
+        {"q": "How does the Buddha's correction proceed?",
+         "opts": [
+             "By negating Baka's own five-part formula clause by clause",
+             "By ignoring Baka's claim entirely",
+             "By agreeing with Baka's view",
+             "By asking another deity to explain instead"],
+         "correct": 0,
+         "expl": "Naming the specific mismatch between Baka's words and how things actually are."},
+        {"q": "How does Baka respond to this correction?",
+         "opts": [
+             "By citing his status: seventy-two merit-makers, wielders of power",
+             "By immediately admitting his error",
+             "By attacking the Buddha physically",
+             "By refusing to speak further"],
+         "correct": 0,
+         "expl": "Defending through status rather than philosophical argument."},
+        {"q": "How does the Buddha respond to this status claim?",
+         "opts": [
+             "By stating Baka's lifespan is still short, not endless, however vast",
+             "By disputing that Baka has achieved anything at all",
+             "By agreeing that Baka's status makes him correct",
+             "By refusing to address the lifespan question"],
+         "correct": 0,
+         "expl": "Not disputing the achievement, only the scale of its permanence."},
+        {"q": "What does Baka ask for when still unconvinced?",
+         "opts": [
+             "Evidence of his own past conduct that the Buddha claims to know",
+             "A demonstration of the Buddha's physical strength",
+             "A debate with other deities present",
+             "Permission to leave the conversation"],
+         "correct": 0,
+         "expl": "Shifting the Buddha's proof from philosophical argument to concrete memory."},
+        {"q": "What four deeds does the Buddha recount from Baka's past lives?",
+         "opts": [
+             "Giving water to the thirsty, freeing captives, rescuing a boat from a dragon, and being a loyal footman",
+             "Building temples, giving to the poor, teaching children, and healing the sick",
+             "Winning battles, ruling wisely, judging fairly, and defending the weak",
+             "Studying scripture, meditating, fasting, and taking vows"],
+         "correct": 0,
+         "expl": "Four specific, concrete acts of merit from Baka's own forgotten history."},
+        {"q": "What refrain closes each of the four recounted deeds?",
+         "opts": [
+             "“I recollect it like one who has wakened from sleep”",
+             "“You are beaten, terminator”",
+             "“This is the nature of the Buddhas”",
+             "No refrain closes the deeds"],
+         "correct": 0,
+         "expl": "Treating memory across countless lifetimes as something already present, not effortful research."},
+        {"q": "How does Baka finally respond to this recollection?",
+         "opts": [
+             "He concedes the Buddha's superior knowledge, noting his radiance lights up the whole realm",
+             "He denies the deeds ever happened",
+             "He continues to insist on his eternalist view",
+             "He challenges the Buddha to a contest of power"],
+         "correct": 0,
+         "expl": "Acknowledging what the Buddha's recollection proves about his knowledge."},
+        {"q": "What was the fourth and final deed revealed about Baka's past?",
+         "opts": [
+             "He had once been the Buddha's own loyal footman, named Kappa",
+             "He had once been a wealthy king",
+             "He had once been a rival ascetic teacher",
+             "He had once been Baka's own son"],
+         "correct": 0,
+         "expl": "Revealed last, an almost intimate detail closing the sequence of recollections."},
+        {"q": "Where does this discourse's confrontation take place?",
+         "opts": [
+             "In Baka's own realm of divinity, which the Buddha travels to directly",
+             "At Sāvatthī, with Baka summoned there",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak"],
+         "correct": 0,
+         "expl": "The Buddha visiting the deity's own domain to correct him."},
+    ],
+    marginalia=[
+        ("Permanent, eternal, whole", [
+            "the wrong view stated in full formula &mdash;",
+            "textbook eternalism, named outright",
+        ]),
+        ("Negated, clause by clause", [
+            "not a new argument, but Baka's own words &mdash;",
+            "lost in ignorance, repeated for weight",
+        ]),
+        ("Seventy-two merit-makers", [
+            "status claimed instead of philosophy &mdash;",
+            "met with a correction of scale, not worth",
+        ]),
+        ("Waking from sleep, four times", [
+            "deeds Baka himself had forgotten &mdash;",
+            "proof through memory, not more argument",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.3.html">SN 6.3 &middot; With Brahmadeva</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-6.5.html">SN 6.5 &middot; A Certain Divinity</a> '
+        "&mdash; the next discourse in this vagga, confronting a "
+        "similar wrong view.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.5 — Aññatarabrahmasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 5, "Aññatarabrahma", "A Certain Divinity",
+    meta_title="SN 6.5 — A Certain Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Aññatarabrahmasutta — a deity boasts no ascetic can reach his "
+        "realm, and the Buddha arrives seated in fire above him, joined "
+        "by four great disciples positioned in the four directions. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, then in an unnamed deity's own realm "
+                    "of divinity"),
+        ("Speakers", "The Buddha, four great disciples, and an "
+                     "unnamed divinity and a member of his retinue"),
+        ("Form", "A boast of inaccessibility, refuted by a coordinated "
+                 "arrival of five figures, then a verse exchange and a "
+                 "relayed message"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most visually elaborate display of psychic "
+                       "mastery in this vagga so far"),
+    ],
+    why=(
+        "This unnamed deity's wrong view is a boast of exclusivity: no "
+        "ascetic or brahmin can reach here. The Buddha's refutation is "
+        "not verbal at all &mdash; he simply appears, seated cross-"
+        "legged in the air directly above the deity, having entered "
+        "the fire element. What follows escalates further: four great "
+        "disciples &mdash; Mahāmoggallāna, Mahākassapa, Mahākappina, "
+        "and Anuruddha &mdash; each independently sense where the "
+        "Buddha is and arrive to take up position below him in each of "
+        "the four cardinal directions, also seated in fire, an "
+        "unmistakable demonstration that the deity's realm is not "
+        "remotely as inaccessible as he believed."),
+    guide=[
+        ("A boast refuted by presence, not by argument", [
+            "Unlike SN 6.4's careful verbal dismantling of Baka's "
+            "eternalist formula, this deity's claim &mdash; that no "
+            "ascetic or brahmin can arrive here &mdash; is answered "
+            "purely by demonstration: the Buddha simply shows up, "
+            "seated in the fire element directly above him, the "
+            "refutation complete before a single word is spoken."]),
+        ("Four disciples, each independently sensing where the Buddha is", [
+            "The four great disciples don't arrive together as a "
+            "planned group; each is described separately wondering "
+            "&lsquo;where is the Buddha staying at present&rsquo;, "
+            "locating him through clairvoyance, and then travelling "
+            "independently &mdash; the same discovery made four times "
+            "over, emphasizing how many of the Buddha's students "
+            "possess this capacity, not merely one exceptional case."]),
+        ("A formation with real spatial precision", [
+            "The four disciples don't simply cluster near the Buddha; "
+            "the text places them with geometric specificity &mdash; "
+            "Moggallāna east, Kassapa south, Kappina west, Anuruddha "
+            "north &mdash; each seated lower than the Buddha, "
+            "constructing a deliberate mandala-like arrangement rather "
+            "than an incidental gathering."]),
+        ("A view already changing, before the exchange even concludes", [
+            "Moggallāna's verse question asks whether the deity still "
+            "holds his old view; the deity's own answer admits it has "
+            "already shifted &mdash; he now sees &lsquo;the radiance "
+            "surpassing the realm of divinity&rsquo; &mdash; the "
+            "demonstration itself, not further persuasion, having done "
+            "the actual work of correction."]),
+        ("A closing exchange that measures the deity's own progress", [
+            "After the Buddha departs, the deity's own question to "
+            "Moggallāna &mdash; are there others with power comparable "
+            "to you four? &mdash; is answered not with a competitive "
+            "ranking but with a simple affirmation that many of the "
+            "Buddha's disciples share these qualities, a response the "
+            "deity receives with evident satisfaction rather than "
+            "further resistance."]),
+    ],
+    terms=[
+        ("natthi so samaṇo vā brāhmaṇo vā yo idha āgaccheyya",
+         "&ldquo;no ascetic or brahmin can come here&rdquo; &mdash; "
+         "the deity's own boast, refuted entirely by demonstration."),
+        ("tejodhātuṁ samāpajjitvā",
+         "&ldquo;having entered upon the fire element&rdquo; &mdash; "
+         "the specific meditative attainment both the Buddha and all "
+         "four disciples display while seated in the air."),
+        ("brahmapārisajja",
+         "&ldquo;a member of the retinue of Divinity&rdquo; &mdash; "
+         "the intermediary the deity sends to question Moggallāna "
+         "after the Buddha's departure."),
+        ("pabhassara",
+         "&ldquo;radiance&rdquo; &mdash; what the deity now sees "
+         "surpassing the realm of divinity, marking his changed view."),
+        ("tevijjā iddhipattā khīṇāsavā arahanto",
+         "&ldquo;the three knowledges&hellip;attained psychic "
+         "power&hellip;perfected ones with defilements ended&rdquo; "
+         "&mdash; Moggallāna's description of the many disciples "
+         "comparable to the four named here."),
+    ],
+    text_intro=(
+        "The discourse in full, with several structurally repeated "
+        "passages describing each disciple's arrival elided as blank "
+        "in the source. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.5:1.1-1.5"),
+        ("p", "&sect;2", "sn6.5:2.1-2.5"),
+        ("p", "&sect;3", "sn6.5:3.1-5.5"),
+        ("p", "&sect;4", "sn6.5:6.1-8.6"),
+        ("p", "&sect;5", "sn6.5:9.1-9.1"),
+        ("p", "&sect;6", "sn6.5:9.2-9.6"),
+        ("p", "&sect;7", "sn6.5:10.1-10.4"),
+        ("p", "&sect;8", "sn6.5:11.1-13.2"),
+    ],
+    quiz=[
+        {"q": "What boast does the unnamed deity make in this discourse?",
+         "opts": [
+             "That no ascetic or brahmin can reach his realm",
+             "That his lifespan is infinite",
+             "That he alone among deities has psychic power",
+             "That the Buddha's teaching is false"],
+         "correct": 0,
+         "expl": "A claim of exclusivity, refuted purely by the Buddha's arrival."},
+        {"q": "How does the Buddha refute this boast?",
+         "opts": [
+             "By simply appearing, seated in the fire element directly above the deity",
+             "By sending a written message",
+             "By debating the point verbally at length",
+             "By asking another deity to intervene"],
+         "correct": 0,
+         "expl": "The refutation is complete before a single word is spoken."},
+        {"q": "How do the four great disciples arrive?",
+         "opts": [
+             "Each independently senses the Buddha's location through clairvoyance and travels separately",
+             "All four travel together as a single planned group",
+             "The Buddha personally summons each one by name",
+             "They arrive only after the deity requests them"],
+         "correct": 0,
+         "expl": "The same discovery made four times over, emphasizing how many disciples share this capacity."},
+        {"q": "How are the four disciples positioned relative to the Buddha and the deity?",
+         "opts": [
+             "In the four cardinal directions — east, south, west, north — each seated lower than the Buddha",
+             "All clustered together in one spot",
+             "Standing on the ground below the deity",
+             "Positioned randomly with no particular arrangement"],
+         "correct": 0,
+         "expl": "A deliberate, geometrically precise formation rather than an incidental gathering."},
+        {"q": "What does the deity's own answer to Moggallāna's verse reveal?",
+         "opts": [
+             "That his view has already changed, seeing radiance surpassing the realm of divinity",
+             "That he still firmly holds his original view",
+             "That he refuses to answer the question",
+             "That he has never actually held any view at all"],
+         "correct": 0,
+         "expl": "The demonstration itself, not further persuasion, having already done the work of correction."},
+        {"q": "What does the deity ask through his retinue member after the Buddha departs?",
+         "opts": [
+             "Whether other disciples have power comparable to the four named ones",
+             "Whether the Buddha will return again",
+             "Whether he himself can attain the same powers",
+             "Whether the four disciples are angry with him"],
+         "correct": 0,
+         "expl": "A question measuring the scope of what he has just witnessed."},
+        {"q": "How does Moggallāna answer this question?",
+         "opts": [
+             "That many of the Buddha's disciples share these same qualities, not just the four present",
+             "That only these four disciples possess such power",
+             "That the deity himself could never attain such power",
+             "By refusing to answer the question"],
+         "correct": 0,
+         "expl": "An affirmation of breadth rather than a competitive ranking."},
+        {"q": "How does the deity receive this answer?",
+         "opts": [
+             "With evident satisfaction, rather than further resistance",
+             "With anger and denial",
+             "By demanding proof",
+             "By ignoring the message entirely"],
+         "correct": 0,
+         "expl": "Closing the discourse on a note of acceptance rather than continued dispute."},
+        {"q": "What specific meditative attainment do the Buddha and all four disciples share in this discourse?",
+         "opts": [
+             "Having entered upon the fire element while seated in the air",
+             "Having achieved the four formless attainments",
+             "Having mastered only mindfulness of breathing",
+             "No specific attainment is named"],
+         "correct": 0,
+         "expl": "The shared basis for their dramatic aerial display."},
+        {"q": "Where does this discourse's central confrontation take place?",
+         "opts": [
+             "In the unnamed deity's own realm of divinity",
+             "At Sāvatthī, with the deity summoned there",
+             "At Uruvelā, at the goatherd's banyan tree",
+             "At Rājagaha, on Vulture's Peak"],
+         "correct": 0,
+         "expl": "The Buddha and disciples traveling directly to the deity's own domain."},
+    ],
+    marginalia=[
+        ("No ascetic can reach here", [
+            "refuted by simple arrival &mdash;",
+            "seated in fire, no words needed",
+        ]),
+        ("Four disciples, four directions", [
+            "each sensing independently where he sits &mdash;",
+            "a mandala, not a mere gathering",
+        ]),
+        ("Radiance, already seen", [
+            "the view changed before the question ends &mdash;",
+            "demonstration doing the actual work",
+        ]),
+        ("Many, not merely these four", [
+            "the deity's question answered generously &mdash;",
+            "satisfaction, not further resistance",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.4.html">SN 6.4 &middot; With Baka the '
+        "Divinity</a> &mdash; the discourse immediately before this "
+        "one, confronting a similar wrong view.",
+        '<a href="sn-6.6.html">SN 6.6 &middot; The Negligent '
+        "Divinity</a> &mdash; the next discourse in this vagga.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.6 — Brahmalokasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 6, "Brahmaloka", "The Negligent Divinity",
+    meta_title="SN 6.6 — The Negligent Divinity | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Brahmalokasutta — two independent divinities travel to rouse a "
+        "complacent deity boasting of his shining palace, answering his "
+        "pride with a verse on the trembling, strife-filled nature of "
+        "form. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, then in a distant, unnamed realm of "
+                    "divinity"),
+        ("Speakers", "The independent divinities Subrahmā and "
+                     "Suddhāvāsa, and a complacent, unnamed deity"),
+        ("Form", "A rescue mission narrated in prose, resolved through "
+                 "an escalating contest of psychic display and a "
+                 "closing verse exchange"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; a "
+                       "vivid narrative with a compact closing verse"),
+    ],
+    why=(
+        "Not every deity in this saṃyutta needs correcting by the "
+        "Buddha directly. Here two independent divinities, Subrahmā "
+        "and Suddhāvāsa, notice while the Buddha is in retreat that "
+        "another deity elsewhere is living negligently, absorbed in "
+        "the success of his own realm, and decide between themselves "
+        "to go rouse him rather than troubling the Buddha. What "
+        "follows is an escalating, almost comic contest of psychic "
+        "display &mdash; the complacent deity multiplying himself a "
+        "thousand times, then Subrahmā doubling that figure &mdash; "
+        "before the discourse pivots to its real point in four lines "
+        "of verse: however brilliantly a palace shines, a clever "
+        "person takes no pleasure in form, seeing the constant strife "
+        "and trembling underneath its surface."),
+    guide=[
+        ("A rescue mission the Buddha never personally undertakes", [
+            "Unlike SN 6.4 and SN 6.5, where the Buddha himself travels "
+            "to correct a deity's wrong view, here two other divinities "
+            "take the initiative entirely on their own, noticing the "
+            "problem while the Buddha is simply in retreat and deciding "
+            "between themselves to act &mdash; the correction of wrong "
+            "view distributed beyond the Buddha alone."]),
+        ("Negligence framed as living too well, not living badly", [
+            "The deity's fault isn't misconduct in any ordinary sense; "
+            "his realm is &lsquo;successful and prosperous&rsquo;, and "
+            "he is simply absorbed in that success, comfortable enough "
+            "to feel no need to attend on the Buddha at all &mdash; "
+            "negligence here meaning complacency, not vice."],),
+        ("A contest of scale that answers nothing by itself", [
+            "When urged to visit the Buddha, the deity refuses and "
+            "instead multiplies himself a thousand times to demonstrate "
+            "his own power; Subrahmā responds by doubling that figure "
+            "to two thousand, then pointing out that the Buddha's power "
+            "exceeds them both &mdash; the display proving nothing on "
+            "its own except that there is always a greater display "
+            "possible."]),
+        ("A boast in verse, answered by a correction in verse", [
+            "The deity's own verse, cataloguing his palace's imagery "
+            "&mdash; phoenixes, swans, tigerhawks, its light reaching "
+            "the northern quarter &mdash; is met not with a prose "
+            "rebuke but with a matching verse, shifting register to "
+            "meet the deity on his own poetic terms rather than simply "
+            "lecturing him."]),
+        ("Strife and trembling underneath a shining surface", [
+            "The closing line's image &mdash; seeing the strife in "
+            "form, its chronic trembling &mdash; names precisely what "
+            "the deity's pride overlooks: that even a magnificent, "
+            "successful appearance is built on something unstable, a "
+            "diagnosis the discourse trusts a single quatrain to "
+            "deliver without further explanation."]),
+    ],
+    terms=[
+        ("pamādavihāraṁ viharati",
+         "&ldquo;living negligently&rdquo; &mdash; the deity's "
+         "described fault, complacency rather than misconduct."),
+        ("sahassakkhattuṁ&hellip;dvisahassakkhattuṁ attānaṁ "
+         "abhinimminitvā",
+         "&ldquo;multiplied himself a thousand times&hellip;two "
+         "thousand times&rdquo; &mdash; the escalating contest of "
+         "psychic display."),
+        ("iddhānubhāva",
+         "&ldquo;psychic power and might&rdquo; &mdash; what each "
+         "figure in turn asks the other to acknowledge seeing."),
+        ("vimāna",
+         "&ldquo;palace&rdquo; &mdash; the deity's own shining "
+         "mansion, the object of his verse of pride."),
+        ("rūpe raṇaṁ disvā sadā pavedhitaṁ",
+         "&ldquo;seeing the strife in form, its chronic "
+         "trembling&rdquo; &mdash; the closing verse's diagnosis, "
+         "answering the deity's boast."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.6:1.1-1.8"),
+        ("p", "&sect;2", "sn6.6:2.1-2.5"),
+        ("p", "&sect;3", "sn6.6:3.1-3.4"),
+        ("p", "&sect;4", "sn6.6:4.1-4.6"),
+        ("p", "&sect;5", "sn6.6:5.1-5.4"),
+        ("p", "&sect;6", "sn6.6:6.1-6.4"),
+        ("p", "&sect;7", "sn6.6:7.1-7.2"),
+    ],
+    quiz=[
+        {"q": "What prompts Subrahmā and Suddhāvāsa to act in this discourse?",
+         "opts": [
+             "They notice another deity living negligently while the Buddha is in retreat",
+             "The Buddha personally instructs them to intervene",
+             "The negligent deity asks them for help",
+             "They are punished unless they act"],
+         "correct": 0,
+         "expl": "Two divinities acting entirely on their own initiative."},
+        {"q": "How is the deity's \"negligence\" described in this discourse?",
+         "opts": [
+             "Living complacently, absorbed in his realm's success and prosperity",
+             "Committing serious misconduct against others",
+             "Refusing to eat or sleep",
+             "Actively harming the Buddha's followers"],
+         "correct": 0,
+         "expl": "Negligence here means complacency, not vice or misconduct."},
+        {"q": "How does the deity respond when urged to visit the Buddha?",
+         "opts": [
+             "He refuses and multiplies himself a thousand times to display his power",
+             "He agrees immediately without hesitation",
+             "He attacks the two divinities",
+             "He falls asleep"],
+         "correct": 0,
+         "expl": "Demonstrating power in place of accepting the advice."},
+        {"q": "How does Subrahmā respond to this display?",
+         "opts": [
+             "He multiplies himself two thousand times, doubling the figure",
+             "He immediately gives up and leaves",
+             "He asks the Buddha to intervene directly",
+             "He ignores the display entirely"],
+         "correct": 0,
+         "expl": "Escalating the contest before pointing out the Buddha's greater power."},
+        {"q": "What does Subrahmā point out after this exchange of displays?",
+         "opts": [
+             "That the Buddha's psychic power and might exceed them both",
+             "That the deity's palace is not actually impressive",
+             "That the deity should attack the Buddha instead",
+             "That psychic power does not exist"],
+         "correct": 0,
+         "expl": "The contest proving only that a greater display is always possible."},
+        {"q": "What does the deity boast of in his verse?",
+         "opts": [
+             "His shining palace, decorated with phoenixes, swans, and tigerhawks",
+             "His army of followers",
+             "His wealth in gold and jewels",
+             "His victory over the Buddha in debate"],
+         "correct": 0,
+         "expl": "A palace whose light reaches the northern quarter, described in vivid imagery."},
+        {"q": "How is the deity's boastful verse answered?",
+         "opts": [
+             "With a matching verse, not a prose rebuke",
+             "With complete silence",
+             "With a threat of punishment",
+             "With laughter and mockery"],
+         "correct": 0,
+         "expl": "Meeting the deity on his own poetic terms rather than simply lecturing him."},
+        {"q": "What does the closing verse say a clever person sees in form?",
+         "opts": [
+             "Strife and chronic trembling beneath its surface",
+             "Nothing worth noticing at all",
+             "Only beauty and stability",
+             "A path to permanent happiness"],
+         "correct": 0,
+         "expl": "The diagnosis underlying the deity's pride in his shining palace."},
+        {"q": "What does the deity do after being roused by this exchange?",
+         "opts": [
+             "He eventually goes to attend on the Buddha",
+             "He remains in his palace permanently",
+             "He challenges Subrahmā to further contests",
+             "He destroys his own palace in anger"],
+         "correct": 0,
+         "expl": "The rescue mission's intended outcome, achieved after some time."},
+        {"q": "Who are the two divinities who carry out this rescue mission?",
+         "opts": [
+             "Subrahmā and Suddhāvāsa",
+             "Sahampati and Baka",
+             "Moggallāna and Kassapa",
+             "Sāriputta and Ānanda"],
+         "correct": 0,
+         "expl": "Described in the text as independent divinities, acting together."},
+    ],
+    marginalia=[
+        ("Negligent, meaning too comfortable", [
+            "success and prosperity, not misconduct &mdash;",
+            "complacency as the actual fault",
+        ]),
+        ("A thousand times, then two thousand", [
+            "power answered with greater power &mdash;",
+            "proving only that more is possible",
+        ]),
+        ("Phoenixes, swans, tigerhawks", [
+            "a boast rendered in careful imagery &mdash;",
+            "met with a verse, not a lecture",
+        ]),
+        ("Strife beneath the shine", [
+            "trembling under a magnificent surface &mdash;",
+            "form's real nature, named in four lines",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.5.html">SN 6.5 &middot; A Certain Divinity</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-6.7.html">SN 6.7 &middot; About Kokālika</a> '
+        "&mdash; the next discourse in this vagga, a single compact "
+        "verse.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.7 — Kokālikasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 7, "Kokālika", "About Kokālika",
+    meta_title="SN 6.7 — About Kokālika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Kokālikasutta — the shortest discourse yet in this saṃyutta, a "
+        "single four-line verse warning against measuring the "
+        "immeasurable, spoken in the Buddha's presence about the monk "
+        "Kokālika. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Buddha's presence"),
+        ("Speakers", "The independent divinity Subrahmā, addressing "
+                     "the Buddha"),
+        ("Form", "A single four-line verse, with almost no narrative "
+                 "frame beyond its occasion"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but its target and full context lie "
+                       "outside this discourse itself"),
+    ],
+    why=(
+        "This is the shortest discourse in the saṃyutta so far: "
+        "Subrahmā and Suddhāvāsa arrive at the Buddha's door as usual, "
+        "but instead of narrative, Subrahmā simply speaks a single "
+        "verse about the monk Kokālika &mdash; a warning against "
+        "presuming to measure what cannot be measured, calling anyone "
+        "who does so an ordinary person, shrouded in darkness. The "
+        "discourse names no specific incident and offers no story; "
+        "Kokālika's fuller history &mdash; his slander of two chief "
+        "disciples, recounted at length elsewhere in the canon &mdash; "
+        "is simply presumed as background the audience would "
+        "recognize, making this compact verse a pointed reference "
+        "rather than a self-contained teaching."),
+    guide=[
+        ("A discourse built almost entirely around its title", [
+            "Beyond the shared opening &mdash; Subrahmā and Suddhāvāsa "
+            "arriving at the Buddha's door &mdash; there is no "
+            "narrative here at all; the entire content is a single "
+            "verse named for the monk it concerns, presuming the "
+            "audience already knows who Kokālika is and why he "
+            "warranted mention."]),
+        ("Measuring the immeasurable as the verse's actual target", [
+            "The verse's key image is judgment applied where it "
+            "doesn't belong &mdash; presuming to measure "
+            "&lsquo;the immeasurable&rsquo; &mdash; a warning against "
+            "confidently sizing up qualities, likely the depth of "
+            "another person's realization, that exceed ordinary "
+            "assessment."]),
+        ("A harsh verdict delivered without elaboration", [
+            "The verse doesn't soften its conclusion: anyone who "
+            "presumes this kind of measurement is called simply an "
+            "&lsquo;ordinary person, shrouded in darkness&rsquo; "
+            "&mdash; a blunt classification offered with no further "
+            "explanation of what specifically prompted it here."]),
+        ("Named for Kokālika, without narrating his story", [
+            "This reading guide does not supply the fuller account of "
+            "who Kokālika was or what he specifically did, since "
+            "nothing in this discourse itself narrates it; the title "
+            "and occasion point toward a figure and episode developed "
+            "at greater length elsewhere in the canon, not reconstructed "
+            "here."]),
+        ("A vagga built from short interventions rather than long debates", [
+            "Read alongside SN 6.6, this discourse suggests a pattern "
+            "for the vagga's remaining texts: brief, pointed "
+            "interventions by independent divinities, sometimes barely "
+            "longer than their occasion, rather than extended "
+            "philosophical exchanges."]),
+    ],
+    terms=[
+        ("appameyyaṁ paminanto",
+         "&ldquo;measuring the immeasurable&rdquo; &mdash; the verse's "
+         "central image of judgment applied where it doesn't belong."),
+        ("kodha vidvā vikappaye",
+         "&ldquo;who having known would judge&rdquo; &mdash; the "
+         "verse's opening rhetorical question."),
+        ("nivutaṁ",
+         "&ldquo;shrouded&rdquo; &mdash; describing the darkness "
+         "covering the person who presumes such judgment."),
+        ("puthujjana",
+         "&ldquo;ordinary person&rdquo; &mdash; the verse's blunt "
+         "classification for anyone who measures the immeasurable."),
+        ("kokālikaṁ bhikkhuṁ ārabbha",
+         "&ldquo;about the mendicant Kokālika&rdquo; &mdash; the "
+         "discourse's stated occasion, naming its subject without "
+         "narrating his story."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; its entire content, beyond the "
+        "shared opening, is this single verse. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.7:1.1-1.4"),
+        ("p", "&sect;2", "sn6.7:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's length compare to others in the saṃyutta so far?",
+         "opts": [
+             "It is the shortest discourse yet, a single four-line verse",
+             "It is the longest discourse yet",
+             "It is roughly average length",
+             "It has no verse at all, only prose"],
+         "correct": 0,
+         "expl": "Almost no narrative beyond the shared opening."},
+        {"q": "Who speaks the verse in this discourse?",
+         "opts": [
+             "The independent divinity Subrahmā",
+             "The Buddha himself",
+             "Kokālika directly",
+             "Suddhāvāsa"],
+         "correct": 0,
+         "expl": "Subrahmā speaks the verse in the Buddha's presence."},
+        {"q": "What is the verse's central warning?",
+         "opts": [
+             "Against presuming to measure what cannot be measured",
+             "Against speaking in the Buddha's presence",
+             "Against traveling to distant realms",
+             "Against multiplying oneself psychically"],
+         "correct": 0,
+         "expl": "A warning against confidently judging what exceeds ordinary assessment."},
+        {"q": "What does the verse call anyone who presumes this kind of judgment?",
+         "opts": [
+             "An ordinary person, shrouded in darkness",
+             "A future Buddha",
+             "A wise and clever teacher",
+             "A divinity of great power"],
+         "correct": 0,
+         "expl": "A blunt classification offered without further explanation."},
+        {"q": "Does this discourse narrate the fuller story of who Kokālika was?",
+         "opts": [
+             "No, it only names him as the verse's occasion",
+             "Yes, in full narrative detail",
+             "Yes, but only in a footnote",
+             "The discourse never mentions Kokālika at all"],
+         "correct": 0,
+         "expl": "The title and occasion point toward a figure developed elsewhere in the canon."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī, in the Buddha's presence",
+             "In a distant realm of divinity",
+             "At Rājagaha, on Vulture's Peak",
+             "At Uruvelā, at the goatherd's banyan tree"],
+         "correct": 0,
+         "expl": "Unlike several nearby discourses, this one stays at Sāvatthī throughout."},
+        {"q": "How does the verse open?",
+         "opts": [
+             "With a rhetorical question about who, having known, would judge",
+             "With a direct accusation against Kokālika",
+             "With praise for Kokālika's wisdom",
+             "With a description of a shining palace"],
+         "correct": 0,
+         "expl": "Framing the warning as a rhetorical question before its conclusion."},
+        {"q": "What structural pattern does this discourse suggest for the rest of the vagga?",
+         "opts": [
+             "Brief, pointed interventions by independent divinities",
+             "Long philosophical debates only",
+             "Exclusively narrative discourses with no verse",
+             "Discourses spoken only by the Buddha"],
+         "correct": 0,
+         "expl": "Read alongside SN 6.6, suggesting variety in length and form within the vagga."},
+        {"q": "Who arrives at the Buddha's door in this discourse's shared opening?",
+         "opts": [
+             "Subrahmā and Suddhāvāsa",
+             "Baka and Sahampati",
+             "Moggallāna and Kassapa",
+             "Kokālika himself"],
+         "correct": 0,
+         "expl": "The same pair of independent divinities as in SN 6.6."},
+        {"q": "Does this reading guide reconstruct the fuller Kokālika story from other sources?",
+         "opts": [
+             "No, it deliberately does not narrate what isn't in this discourse itself",
+             "Yes, it provides a complete account from the Sutta Nipāta",
+             "Yes, it provides a complete account from the Aṅguttara Nikāya",
+             "The guide claims Kokālika is a fictional figure"],
+         "correct": 0,
+         "expl": "The guide points toward the fuller story elsewhere without importing it here."},
+    ],
+    marginalia=[
+        ("A verse, and almost nothing else", [
+            "the shortest discourse in the saṃyutta so far &mdash;",
+            "named for its subject, not narrated",
+        ]),
+        ("Measuring the immeasurable", [
+            "judgment reaching past its proper limit &mdash;",
+            "the verse's actual warning",
+        ]),
+        ("Shrouded in darkness", [
+            "a blunt classification, no elaboration &mdash;",
+            "delivered and left standing",
+        ]),
+        ("A story presumed, not told", [
+            "Kokālika's fuller history lies elsewhere &mdash;",
+            "this verse only points toward it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.6.html">SN 6.6 &middot; The Negligent '
+        "Divinity</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.8 — Katamodakatissasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 8, "Katamodakatissa", "About Katamorakatissaka",
+    meta_title="SN 6.8 — About Katamorakatissaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Katamodakatissasutta — a near-repeat of SN 6.7's compact verse "
+        "against measuring the immeasurable, this time spoken by "
+        "Suddhāvāsa about a different mendicant, with one telling word "
+        "changed. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the Buddha's presence"),
+        ("Speakers", "The independent divinity Suddhāvāsa, addressing "
+                     "the Buddha"),
+        ("Form", "A single four-line verse, almost identical to SN "
+                 "6.7's, with its final descriptive word changed"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, best read alongside SN 6.7 for the "
+                       "contrast"),
+    ],
+    why=(
+        "This discourse is almost a twin of SN 6.7: the same opening, "
+        "the same near-identical four-line verse warning against "
+        "presuming to measure the immeasurable &mdash; but here it is "
+        "Suddhāvāsa who speaks rather than Subrahmā, the mendicant "
+        "named is Katamorakatissaka rather than Kokālika, and the "
+        "verse's final word shifts from &lsquo;ordinary person&rsquo; "
+        "to &lsquo;ignoramus&rsquo;. Reading the two side by side "
+        "shows the collection's method plainly: a single warning, "
+        "reused nearly verbatim, applied to more than one figure who "
+        "drew the same criticism."),
+    guide=[
+        ("A deliberate near-repeat, not a copying error", [
+            "Every element of SN 6.7 recurs here almost exactly "
+            "&mdash; the setting, the divinities' arrival, the verse's "
+            "first three lines word for word &mdash; making the "
+            "differences that do appear stand out precisely because "
+            "the surrounding structure is unchanged."]),
+        ("Suddhāvāsa speaks this time, not Subrahmā", [
+            "In SN 6.7 it was Subrahmā who spoke the verse; here it is "
+            "his companion Suddhāvāsa, the two independent divinities "
+            "apparently sharing this kind of pointed commentary "
+            "between them rather than either one owning it alone."]),
+        ("A different mendicant, the same criticism", [
+            "The verse now concerns Katamorakatissaka rather than "
+            "Kokālika &mdash; a different named figure, otherwise "
+            "unintroduced here, receiving the identical warning "
+            "against presuming to measure the immeasurable."]),
+        ("One word changed: ignoramus instead of ordinary person", [
+            "The verse's closing line swaps &lsquo;puthujjana&rsquo; "
+            "(ordinary person) for &lsquo;akissava&rsquo; "
+            "(ignoramus, one who has heard nothing) &mdash; a small "
+            "shift in register, sharpening the earlier verse's "
+            "classification into something closer to an insult."]),
+        ("Two verses that reward reading together", [
+            "Neither SN 6.7 nor SN 6.8 narrates why its named mendicant "
+            "drew this warning; read as a pair, they suggest a small "
+            "cluster of monks who shared a tendency toward the same "
+            "presumptuous kind of judgment, addressed here as a "
+            "recurring theme rather than a single incident."]),
+    ],
+    terms=[
+        ("appameyyaṁ paminanto",
+         "&ldquo;measuring the immeasurable&rdquo; &mdash; identical "
+         "to SN 6.7's opening image."),
+        ("vikappaye",
+         "&ldquo;would judge&rdquo; &mdash; unchanged from SN 6.7's "
+         "verse."),
+        ("nivutaṁ",
+         "&ldquo;shrouded&rdquo; &mdash; unchanged, describing the "
+         "darkness covering such a person."),
+        ("akissava",
+         "&ldquo;ignoramus&rdquo;, one who has heard nothing &mdash; "
+         "the single word that differs from SN 6.7's "
+         "&lsquo;puthujjana&rsquo;, sharpening the verse's tone."),
+        ("katamodakatissakaṁ bhikkhuṁ ārabbha",
+         "&ldquo;about the mendicant Katamorakatissaka&rdquo; &mdash; "
+         "the discourse's stated occasion, naming a different figure "
+         "than SN 6.7's."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; nearly identical to SN 6.7's, "
+        "with the differences noted above. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.8:1.1-1.4"),
+        ("p", "&sect;2", "sn6.8:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to SN 6.7's?",
+         "opts": [
+             "Nearly identical, with a few small but deliberate differences",
+             "Completely unrelated in form and content",
+             "Much longer, with an extended narrative",
+             "Entirely in prose, with no verse at all"],
+         "correct": 0,
+         "expl": "The same setting, arrival, and verse structure, applied with small variations."},
+        {"q": "Who speaks the verse in this discourse?",
+         "opts": [
+             "Suddhāvāsa",
+             "Subrahmā",
+             "The Buddha himself",
+             "Katamorakatissaka directly"],
+         "correct": 0,
+         "expl": "Unlike SN 6.7, where Subrahmā spoke; here it is his companion Suddhāvāsa."},
+        {"q": "Which mendicant does this discourse's verse concern?",
+         "opts": [
+             "Katamorakatissaka",
+             "Kokālika",
+             "Sāriputta",
+             "Moggallāna"],
+         "correct": 0,
+         "expl": "A different named figure than SN 6.7's Kokālika."},
+        {"q": "What single word changes in the verse's final line, compared to SN 6.7?",
+         "opts": [
+             "\"Ignoramus\" replaces \"ordinary person\"",
+             "\"Wise one\" replaces \"fool\"",
+             "\"Divinity\" replaces \"mendicant\"",
+             "No word changes at all"],
+         "correct": 0,
+         "expl": "A small shift sharpening the verse's tone, from puthujjana to akissava."},
+        {"q": "What is the verse's central warning, shared with SN 6.7?",
+         "opts": [
+             "Against presuming to measure what cannot be measured",
+             "Against traveling to distant realms of divinity",
+             "Against speaking in the Buddha's presence at all",
+             "Against practicing psychic displays"],
+         "correct": 0,
+         "expl": "The identical warning carried over from SN 6.7's verse."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At Sāvatthī, in the Buddha's presence",
+             "In a distant realm of divinity",
+             "At Rājagaha",
+             "In Kokālika's sickroom"],
+         "correct": 0,
+         "expl": "The same setting as SN 6.7, unchanged."},
+        {"q": "What does reading SN 6.7 and SN 6.8 together suggest?",
+         "opts": [
+             "A small cluster of monks who shared a tendency toward the same presumptuous judgment",
+             "That the two discourses are unrelated in subject",
+             "That Kokālika and Katamorakatissaka are the same person",
+             "That only one of the two verses is authentic"],
+         "correct": 0,
+         "expl": "The recurring warning addressed as a theme, not a single incident."},
+        {"q": "How is Katamorakatissaka introduced in this discourse?",
+         "opts": [
+             "He is named as the verse's occasion but not otherwise introduced",
+             "With a full biography of his monastic career",
+             "As a rival teacher to the Buddha",
+             "As a divinity rather than a mendicant"],
+         "correct": 0,
+         "expl": "The discourse names him without narrating any further story."},
+        {"q": "What does \"akissava\" mean?",
+         "opts": [
+             "Ignoramus, one who has heard nothing",
+             "Wise sage",
+             "Loyal follower",
+             "Skilled meditator"],
+         "correct": 0,
+         "expl": "A sharper classification than SN 6.7's more neutral \"ordinary person.\""},
+        {"q": "What remains unchanged between SN 6.7 and SN 6.8's verses?",
+         "opts": [
+             "The first three lines, word for word",
+             "Every single word, with no differences at all",
+             "Only the setting, with an entirely different verse",
+             "Nothing at all is shared between them"],
+         "correct": 0,
+         "expl": "Making the deliberate final-word change stand out precisely because the rest is unchanged."},
+    ],
+    marginalia=[
+        ("Nearly a twin of SN 6.7", [
+            "same setting, same arrival, same verse &mdash;",
+            "differences standing out by contrast",
+        ]),
+        ("Suddhāvāsa speaks this time", [
+            "the companion divinity takes a turn &mdash;",
+            "not owned by Subrahmā alone",
+        ]),
+        ("Ignoramus, not ordinary person", [
+            "one word sharpened in the final line &mdash;",
+            "a small shift, deliberately made",
+        ]),
+        ("Two verses, one recurring theme", [
+            "different mendicants, the same warning &mdash;",
+            "read together, not in isolation",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.7.html">SN 6.7 &middot; About Kokālika</a> '
+        "&mdash; the nearly identical discourse immediately before "
+        "this one.",
+        '<a href="sn-6.9.html">SN 6.9 &middot; With the Divinity '
+        "Tudu</a> &mdash; the next discourse, returning to Kokālika's "
+        "story directly.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.9 — Turūbrahmasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 9, "Turūbrahma", "With the Divinity Tudu",
+    meta_title="SN 6.9 — With the Divinity Tudu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for the "
+        "Turūbrahmasutta — gravely ill, the monk Kokālika dismisses a "
+        "night visitor's warning to trust Sāriputta and Moggallāna, "
+        "answered with the canon's starkest verses on slander's cosmic "
+        "cost. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, in the mendicant Kokālika's "
+                    "sickroom, late at night"),
+        ("Speakers", "The independent divinity Tudu and the gravely "
+                     "ill mendicant Kokālika"),
+        ("Form", "A brief bedside exchange in prose, followed by four "
+                 "verses of escalating severity"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though this "
+                              "reading guide does not assert a specific "
+                              "matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most consequential discourse in the vagga "
+                       "so far, naming what SN 6.7 and 6.8 only implied"),
+    ],
+    why=(
+        "SN 6.7 and SN 6.8 warned, in compact verse, against measuring "
+        "the immeasurable &mdash; without saying what the named monks "
+        "had actually done. This discourse returns to Kokālika "
+        "directly, now gravely ill, and supplies the missing context: "
+        "the independent divinity Tudu visits him at night, urging him "
+        "to trust Sāriputta and Moggallāna. Kokālika's dismissive "
+        "reply &mdash; questioning why a declared non-returner would "
+        "even be here to say so &mdash; refuses the warning outright. "
+        "What follows is delivered as consequence rather than further "
+        "persuasion: the image of an axe born in every person's mouth, "
+        "the gambling metaphor of a losing hand, and a hell-duration "
+        "measured in numbers so vast the verse itself seems to strain "
+        "under them."),
+    guide=[
+        ("A bedside visit, not a philosophical debate", [
+            "Unlike this vagga's earlier discourses, staged as visits "
+            "to distant realms or exchanges before the Buddha, this "
+            "one takes place at Kokālika's own sickbed, late at night, "
+            "the setting itself signaling that something more urgent "
+            "than doctrine is at stake."]),
+        ("A warning refused before it can even be explained", [
+            "Tudu's message is simple and direct &mdash; have "
+            "confidence in Sāriputta and Moggallāna &mdash; but "
+            "Kokālika doesn't engage with it at all; he questions "
+            "Tudu's own credibility instead, pointing out that a "
+            "declared non-returner has no business being here, "
+            "dismissing the messenger rather than considering the "
+            "message."]),
+        ("An axe born in every mouth: unavoidable, not exceptional", [
+            "The first verse's image doesn't describe Kokālika as "
+            "uniquely dangerous; it describes every person as born "
+            "with the capacity to injure themselves through speech "
+            "&mdash; the fool is simply the one who uses what "
+            "everyone carries."]),
+        ("A losing hand at dice, escalated past all proportion", [
+            "The verses build a deliberate contrast: losing money and "
+            "even oneself at dice is called only a trivial loss, "
+            "against which corrupting one's mind toward the noble "
+            "ones is named the truly terrible hand &mdash; measuring "
+            "slander not against ordinary misfortune but against the "
+            "worst outcome the metaphor can offer."]),
+        ("Numbers built to overwhelm rather than inform", [
+            "The closing verse's hell-duration figures &mdash; nested "
+            "units of hundred-thousands and ten-millions &mdash; are "
+            "not meant to be calculated precisely; their function is "
+            "to communicate a scale of consequence too large for "
+            "ordinary comprehension, matching the gravity of what "
+            "provoked it."]),
+    ],
+    terms=[
+        ("anāgāmī",
+         "&ldquo;non-returner&rdquo; &mdash; the attainment the "
+         "Buddha declared for Tudu, which Kokālika cites skeptically "
+         "to dismiss his warning."),
+        ("kuṭhārī jāyate mukhe",
+         "&ldquo;an axe is born in the mouth&rdquo; &mdash; the "
+         "first verse's image of speech's inherent danger, present in "
+         "every person."),
+        ("kali",
+         "a losing throw at dice, ill fortune &mdash; the recurring "
+         "metaphor structuring the verses' escalating comparison."),
+        ("sugatesu manaṁ padosaye",
+         "&ldquo;to corrupt the mind against the fortunate "
+         "ones&rdquo; &mdash; named as the one truly terrible losing "
+         "hand, worse than any material loss."),
+        ("sataṁ sahassānaṁ nirabbudānaṁ",
+         "&ldquo;a hundred thousand times a hundred million&rdquo; "
+         "&mdash; the opening figure of the closing verse's "
+         "deliberately overwhelming hell-duration count."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.9:1.1-1.9"),
+        ("p", "&sect;2", "sn6.9:2.1-2.4"),
+        ("p", "&sect;3", "sn6.9:3.1-3.4"),
+        ("p", "&sect;4", "sn6.9:4.1-4.5"),
+        ("p", "&sect;5", "sn6.9:5.1-5.4"),
+    ],
+    quiz=[
+        {"q": "What is Kokālika's condition at the start of this discourse?",
+         "opts": [
+             "He is gravely ill, suffering, in his sickroom",
+             "He is in perfect health, meditating peacefully",
+             "He is traveling to a distant realm of divinity",
+             "He has already died"],
+         "correct": 0,
+         "expl": "The setting itself, at his bedside late at night, signals urgency."},
+        {"q": "What message does the divinity Tudu bring to Kokālika?",
+         "opts": [
+             "To have confidence in Sāriputta and Moggallāna",
+             "To renounce the monastic life immediately",
+             "To seek out the Buddha for healing",
+             "To multiply himself psychically"],
+         "correct": 0,
+         "expl": "A simple, direct message urging trust in two named senior monks."},
+        {"q": "How does Kokālika respond to this message?",
+         "opts": [
+             "He questions Tudu's credibility instead of engaging with the message",
+             "He immediately accepts the advice",
+             "He thanks Tudu warmly",
+             "He asks Tudu to summon the Buddha"],
+         "correct": 0,
+         "expl": "Dismissing the messenger rather than considering what was said."},
+        {"q": "What does Kokālika point out about Tudu specifically?",
+         "opts": [
+             "That a declared non-returner shouldn't be here to say this",
+             "That Tudu has no name",
+             "That Tudu is lying about being a divinity",
+             "That Tudu has never met the Buddha"],
+         "correct": 0,
+         "expl": "Kokālika uses Tudu's own attainment against the credibility of his warning."},
+        {"q": "What does the first verse's \"axe born in the mouth\" image describe?",
+         "opts": [
+             "A capacity for self-injury through speech present in every person, not just Kokālika",
+             "A literal weapon Kokālika is said to carry",
+             "A punishment inflicted by the divinity Tudu",
+             "A metaphor unrelated to speech"],
+         "correct": 0,
+         "expl": "The fool is simply the one who uses what everyone already carries."},
+        {"q": "How do the verses use the metaphor of a losing hand at dice?",
+         "opts": [
+             "To contrast trivial material loss with the far worse loss of corrupting one's mind toward noble ones",
+             "To argue that gambling itself is the discourse's main concern",
+             "To praise Kokālika's skill at games of chance",
+             "To describe Tudu's own past life as a gambler"],
+         "correct": 0,
+         "expl": "Measuring slander against the worst outcome the metaphor can offer, not ordinary misfortune."},
+        {"q": "What is the function of the closing verse's vast hell-duration figures?",
+         "opts": [
+             "To communicate a scale of consequence too large for ordinary comprehension",
+             "To provide an exact, calculable number of years",
+             "To describe the duration of the Buddha's own life",
+             "To measure how long Kokālika has already been ill"],
+         "correct": 0,
+         "expl": "Numbers built to overwhelm rather than inform, matching the gravity of the offense."},
+        {"q": "What connection does this discourse have to SN 6.7 and SN 6.8?",
+         "opts": [
+             "It supplies context for the earlier warnings, which named Kokālika without explaining why",
+             "It has no connection to either discourse",
+             "It contradicts the warnings given in SN 6.7 and 6.8",
+             "It is spoken by the same divinity as both earlier discourses"],
+         "correct": 0,
+         "expl": "Returning to Kokālika directly and showing the warning being refused in real time."},
+        {"q": "How does this discourse's setting differ from the vagga's earlier discourses?",
+         "opts": [
+             "It takes place at a sickbed rather than before the Buddha or in a distant realm",
+             "It takes place in a completely unnamed location",
+             "It is the only discourse set outside Sāvatthī entirely",
+             "It takes place during a public assembly"],
+         "correct": 0,
+         "expl": "The bedside setting signals something more urgent than doctrine is at stake."},
+        {"q": "What is named as the truly terrible \"losing hand,\" worse than losing everything at dice?",
+         "opts": [
+             "Corrupting one's mind against the noble ones",
+             "Losing a game of dice",
+             "Falling gravely ill",
+             "Being visited by a divinity at night"],
+         "correct": 0,
+         "expl": "The verses' deliberate escalation past ordinary misfortune to its worst possible form."},
+    ],
+    marginalia=[
+        ("A sickbed, not an assembly", [
+            "urgency signaled by setting alone &mdash;",
+            "something more than doctrine at stake",
+        ]),
+        ("A warning refused outright", [
+            "the messenger questioned, not the message &mdash;",
+            "credibility used as a shield",
+        ]),
+        ("An axe everyone is born with", [
+            "not exceptional, but universal &mdash;",
+            "the fool merely uses what all carry",
+        ]),
+        ("Numbers meant to overwhelm", [
+            "not a sum to calculate &mdash;",
+            "a scale matching the offense",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.8.html">SN 6.8 &middot; About '
+        "Katamorakatissaka</a> &mdash; the discourse immediately "
+        "before this one.",
+        '<a href="sn-6.10.html">SN 6.10 &middot; With Kokālika</a> '
+        "&mdash; the next discourse, closing this vagga with "
+        "Kokālika's fuller story.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 6.10 — Kokālikasutta
+# --------------------------------------------------------------------------- #
+page(
+    6, 10, "Kokālika", "With Kokālika",
+    meta_title="SN 6.10 — With Kokālika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Kokālikasutta — the full narrative behind SN 6.7–6.9's "
+        "warnings, closing Paṭhamavagga: Kokālika's threefold slander "
+        "of Sāriputta and Moggallāna, his death, and the Buddha's vast "
+        "hell-duration simile. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "At Sāvatthī, then Jeta's Grove at night"),
+        ("Speakers", "The mendicant Kokālika, the Buddha, the "
+                     "divinity Sahampati, and an unnamed mendicant"),
+        ("Form", "A threefold refused warning, a graphic account of "
+                 "illness and death, a divinity's night report, and an "
+                 "extended simile answering a question about time"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), and this "
+                              "narrative is also found at Sutta Nipāta "
+                              "3.10, though this reading guide does not "
+                              "assert specific matching sutra numbers"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the most graphic and consequential discourse "
+                       "in this vagga, closing it in full"),
+    ],
+    why=(
+        "This discourse supplies what SN 6.7, SN 6.8, and SN 6.9 each "
+        "withheld or only gestured toward: Kokālika's own words, "
+        "spoken directly to the Buddha, accusing Sāriputta and "
+        "Moggallāna of corrupt wishes &mdash; repeated three times, "
+        "refused three times by the Buddha in identical language. What "
+        "follows is recounted without softening: a graphic, escalating "
+        "illness, death, and rebirth in a hell named for its "
+        "unbearable duration, a scale the Buddha then measures not "
+        "with a number but with a simile built from grains of sesame "
+        "and ten nested hell-names, each twenty times longer than the "
+        "last. This reading guide presents the discourse as the source "
+        "frames it, without softening or moralizing its most difficult "
+        "content, and closes Paṭhamavagga, this saṃyutta's first "
+        "chapter of ten discourses."),
+    guide=[
+        ("A threefold accusation, met with identical refusal each time", [
+            "Kokālika's charge against Sāriputta and Moggallāna is "
+            "repeated verbatim three times, and the Buddha's response "
+            "&mdash; &lsquo;don't say that&rsquo;, urging confidence "
+            "in the two monks &mdash; is repeated in exactly the same "
+            "words each time, the discourse's formal structure itself "
+            "conveying that nothing new is being offered or heard on "
+            "either side."]),
+        ("Illness described with unflinching, escalating specificity", [
+            "The boils that erupt across Kokālika's body are traced "
+            "through seven distinct size-comparisons &mdash; mustard "
+            "seed, mung bean, chickpea, jujube seed, jujube, unripe "
+            "wood-apple, ripe wood-apple &mdash; before bursting; this "
+            "reading guide follows the source's own choice to narrate "
+            "the physical consequence in full rather than summarizing "
+            "past it."]),
+        ("A named hell, tied explicitly to a named cause", [
+            "Kokālika's rebirth is not left vague; he is placed "
+            "specifically in the Pink Lotus hell, and the text repeats "
+            "twice, almost as a formula, that this rebirth follows "
+            "&lsquo;because of his resentment for Sāriputta and "
+            "Moggallāna&rsquo; &mdash; cause and consequence stated "
+            "together each time, not left for the reader to infer."]),
+        ("A question about duration answered by simile, not by number", [
+            "When asked how long a lifetime in the Pink Lotus hell "
+            "lasts, the Buddha doesn't offer a figure; he builds an "
+            "image instead &mdash; a cart of twenty packs of sesame "
+            "seed, one seed removed every hundred years &mdash; and "
+            "then states that this cart would empty faster than a "
+            "single lifetime in the least of ten nested hells, each "
+            "twenty times the last, with Kokālika's own hell named "
+            "only at the very end of the ascending list."]),
+        ("Verses shared with SN 6.9, now placed in their full context", [
+            "The same four verses that closed SN 6.9 &mdash; the axe "
+            "born in the mouth, the losing hand at dice, the "
+            "overwhelming hell-duration figures &mdash; recur here "
+            "verbatim, but now follow the complete narrative rather "
+            "than a bedside warning alone, closing both this discourse "
+            "and the vagga's first ten discourses together."]),
+    ],
+    terms=[
+        ("pāpicchā pāpikānaṁ icchānaṁ vasaṁ gatā",
+         "&ldquo;corrupt wishes&hellip;fallen under the sway of "
+         "corrupt wishes&rdquo; &mdash; Kokālika's threefold accusation "
+         "against Sāriputta and Moggallāna."),
+        ("sāsapamattīhi pīḷakāhi&hellip;pabhijjiṁsu",
+         "&ldquo;boils the size of mustard seeds&hellip;burst "
+         "open&rdquo; &mdash; the graphic, escalating physical "
+         "consequence narrated in full."),
+        ("padumaṁ nirayaṁ",
+         "&ldquo;the Pink Lotus hell&rdquo; &mdash; Kokālika's named "
+         "destination, tied explicitly and repeatedly to his "
+         "resentment as cause."),
+        ("vīsatikhāriko kosalako tilavāho",
+         "&ldquo;a Kosalan load of twenty packs of sesame seed&rdquo; "
+         "&mdash; the simile's opening image, measuring time no "
+         "number could state directly."),
+        ("abbudo&hellip;nirabbudo&hellip;padumo nirayo",
+         "the ten nested hell-names, each twenty times the duration "
+         "of the last, ending in Kokālika's own Pink Lotus hell at "
+         "the top of the ascending scale."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Paṭhamavagga. A few short "
+        "passages recapitulating material already given verbatim are "
+        "left blank in the source and are not reconstructed here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn6.10:1.1-1.6"),
+        ("p", "&sect;2", "sn6.10:1.7-1.16"),
+        ("p", "&sect;3", "sn6.10:2.1-2.5"),
+        ("p", "&sect;4", "sn6.10:3.1-3.5"),
+        ("p", "&sect;5", "sn6.10:5.1-5.7"),
+        ("p", "&sect;6", "sn6.10:6.1-6.12"),
+        ("p", "&sect;7", "sn6.10:7.1-7.4"),
+        ("p", "&sect;8", "sn6.10:8.1-8.4"),
+        ("p", "&sect;9", "sn6.10:9.1-9.5"),
+        ("p", "&sect;10", "sn6.10:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "How many times does Kokālika repeat his accusation against Sāriputta and Moggallāna?",
+         "opts": [
+             "Three times, met with identical refusal each time",
+             "Once only",
+             "Five times, with escalating detail each time",
+             "He never states it directly"],
+         "correct": 0,
+         "expl": "The Buddha's response is repeated in exactly the same words each time."},
+        {"q": "What does Kokālika accuse Sāriputta and Moggallāna of?",
+         "opts": [
+             "Having corrupt wishes, fallen under the sway of corrupt wishes",
+             "Stealing from the monastic community",
+             "Refusing to teach the Dharma",
+             "Abandoning the monastic life"],
+         "correct": 0,
+         "expl": "A charge repeated verbatim three times."},
+        {"q": "How does this discourse narrate the illness that follows Kokālika's departure?",
+         "opts": [
+             "With unflinching, escalating specificity through seven size-comparisons",
+             "With no physical detail at all",
+             "As a brief, vague mention of sickness",
+             "As a dream Kokālika has, not an actual illness"],
+         "correct": 0,
+         "expl": "From mustard-seed-sized boils through to ripe wood-apple size, before bursting."},
+        {"q": "Where is Kokālika reborn after his death?",
+         "opts": [
+             "The Pink Lotus hell, tied explicitly to his resentment for the two monks",
+             "A realm of divinity",
+             "The human realm as a poor laborer",
+             "The text leaves his rebirth unstated"],
+         "correct": 0,
+         "expl": "Named specifically and repeated as a near-formula with its stated cause."},
+        {"q": "Who reports Kokālika's death and rebirth to the Buddha?",
+         "opts": [
+             "The divinity Sahampati, arriving at night",
+             "Kokālika himself, before dying",
+             "Sāriputta and Moggallāna directly",
+             "No one reports it; the Buddha already knows"],
+         "correct": 0,
+         "expl": "Sahampati lights up Jeta's Grove and delivers the news, then vanishes."},
+        {"q": "How does the Buddha answer the question of how long a lifetime in the Pink Lotus hell lasts?",
+         "opts": [
+             "With an extended simile, not a direct number",
+             "With an exact figure in years",
+             "By refusing to answer the question",
+             "By saying the question cannot be asked"],
+         "correct": 0,
+         "expl": "Building an image from sesame seeds and nested hell-durations instead."},
+        {"q": "What is the simile's opening image?",
+         "opts": [
+             "A cart of twenty packs of sesame seed, one seed removed every hundred years",
+             "A mountain worn away by a passing cloth once a century",
+             "A river drained one drop at a time",
+             "A forest cleared one tree per lifetime"],
+         "correct": 0,
+         "expl": "This cart would empty faster than a single lifetime in the least of the ten hells."},
+        {"q": "How do the ten nested hell-durations relate to one another?",
+         "opts": [
+             "Each is twenty times the duration of the one before it",
+             "Each is exactly the same length",
+             "Each is half the length of the one before it",
+             "They have no fixed relationship"],
+         "correct": 0,
+         "expl": "An ascending scale ending in Kokālika's own Pink Lotus hell at the top."},
+        {"q": "What verses close this discourse?",
+         "opts": [
+             "The same four verses that closed SN 6.9, now in their full narrative context",
+             "An entirely new set of verses not found elsewhere",
+             "No verses at all, only prose",
+             "A verse spoken by Kokālika himself in his defense"],
+         "correct": 0,
+         "expl": "The axe in the mouth, the losing hand at dice, and the vast hell-duration figures, recurring verbatim."},
+        {"q": "What does this discourse close, according to the vagga's summary verse?",
+         "opts": [
+             "Paṭhamavagga, this saṃyutta's first chapter of ten discourses",
+             "The entire Saṃyutta Nikāya",
+             "Only this single discourse, with no larger structure",
+             "The Dutiyavagga, the second chapter"],
+         "correct": 0,
+         "expl": "The uddāna at the end lists all ten discourse titles of this first vagga."},
+    ],
+    marginalia=[
+        ("Three times, word for word", [
+            "accusation and refusal both unchanged &mdash;",
+            "nothing new offered, nothing new heard",
+        ]),
+        ("Mustard seed to bursting wood-apple", [
+            "narrated without turning away &mdash;",
+            "the source's own choice, followed here",
+        ]),
+        ("Named hell, named cause", [
+            "resentment stated each time as reason &mdash;",
+            "consequence never left to inference",
+        ]),
+        ("Sesame seeds, not a number", [
+            "time measured by image, twenty-fold ten times over &mdash;",
+            "a scale beyond ordinary counting",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn6.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-6.9.html">SN 6.9 &middot; With the Divinity '
+        "Tudu</a> &mdash; the discourse immediately before this one, "
+        "the same warning refused at Kokālika's bedside.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
