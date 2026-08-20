@@ -6073,3 +6073,1372 @@ page(
         "&mdash; the next discourse in this saṃyutta.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.35 — Avijjāpaccayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 35, "Avijjāpaccaya", "Ignorance is a Condition",
+    meta_title="SN 12.35 — Ignorance is a Condition | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Avijjāpaccayasutta — a mendicant's question about old "
+        "age and death is rejected as malformed four times over, "
+        "each rejection unpacking the identity view baked into "
+        "asking who a link in the chain belongs to. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed mendicant"),
+        ("Form", "A recurring four-beat pattern &mdash; a question "
+                 "rejected as malformed, the identity view it "
+                 "conceals exposed, and the middle way restated "
+                 "&mdash; run four times, then mirrored in four "
+                 "matching cessation paragraphs"),
+        ("Length", "~6 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "repetitive in structure, but each repetition "
+                       "makes a precise philosophical point"),
+    ],
+    why=(
+        "A mendicant asks what old age and death are, and who they "
+        "belong to. The Buddha refuses the question outright: asking "
+        "who a link belongs to smuggles in the assumption that there "
+        "is an owner standing behind it, and any such assumption "
+        "collapses into one of two views &mdash; that the soul and "
+        "the body are the same thing, or that they are two different "
+        "things &mdash; both of which make the spiritual life "
+        "impossible to live. Avoiding both, the Buddha restates the "
+        "link in its proper conditional form: rebirth is a "
+        "requirement for old age and death. The mendicant asks the "
+        "same kind of question three more times, moving back through "
+        "rebirth, continued existence, and choices, and receives the "
+        "same rejection and the same restatement each time, before "
+        "the discourse closes by showing that all four of these "
+        "malformed questions are simply cut off, root and all, once "
+        "ignorance itself has faded away."),
+    guide=[
+        ("A question refused, not merely answered", [
+            "The Buddha doesn't correct the mendicant's premise while "
+            "answering it; he declares the question itself not fit "
+            "to be asked, because any answer to \"who does this "
+            "belong to\" already assumes the thing it's trying to "
+            "establish."]),
+        ("Two extremes named as views about the body", [
+            "The identity view is spelled out in two mirrored forms "
+            "&mdash; the soul and the body are one and the same, or "
+            "the soul is one thing and the body another &mdash; and "
+            "both, without exception, are said to make it impossible "
+            "to live the spiritual life."]),
+        ("The same rejection, run four times", [
+            "The mendicant asks about old age and death, then "
+            "rebirth, then continued existence, then choices, and "
+            "each time receives an identical structure of rejection, "
+            "diagnosis, and restatement &mdash; a deliberate, "
+            "unhurried repetition rather than a single illustration."]),
+        ("A middle way that is a form of speech, not a compromise", [
+            "\"Avoiding these two extremes, the Realized One teaches "
+            "by the middle way\" doesn't describe splitting the "
+            "difference between the two identity views; it describes "
+            "replacing the whole framework of ownership with a "
+            "purely conditional statement &mdash; this being a "
+            "requirement for that."]),
+        ("Four cessation paragraphs mirroring the four questions", [
+            "Rather than simply asserting that ignorance's ending "
+            "resolves all confusion, the discourse closes by walking "
+            "back through the same four questions one at a time, "
+            "confirming for each that its \"twists, ducks, and "
+            "dodges\" are cut off at the root once ignorance fades "
+            "away with nothing left over."]),
+    ],
+    terms=[
+        ("no kallo pañho",
+         "&ldquo;not a fit question&rdquo; &mdash; the Buddha's "
+         "outright rejection, given identically before each of the "
+         "four restatements."),
+        ("taṁ jīvaṁ taṁ sarīraṁ&hellip; aññaṁ jīvaṁ aññaṁ sarīraṁ",
+         "&ldquo;the soul and the body are one and the same&hellip; "
+         "the soul is one thing, the body another&rdquo; &mdash; the "
+         "two extremes of identity view exposed inside the rejected "
+         "question."),
+        ("ubho ante anupagamma majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;avoiding these two extremes, the Realized One "
+         "teaches by the middle way&rdquo; &mdash; the same closing "
+         "formula used in SN 12.15's teaching on existence and "
+         "non-existence."),
+        ("visūkāyikāni visevitāni vipphanditāni",
+         "&ldquo;twists, ducks, and dodges&rdquo; &mdash; the "
+         "discourse's vivid term for the malformed questions "
+         "themselves, given up once ignorance ceases."),
+        ("ucchinnamūlāni tālāvatthukatāni anabhāvaṅkatāni "
+         "āyatiṁ anuppādadhammāni",
+         "&ldquo;cut off at the root, made like a palm stump, "
+         "obliterated, and unable to arise in the future&rdquo; "
+         "&mdash; the strong, repeated description of how completely "
+         "these questions are dissolved."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.35:1.1-1.1"),
+        ("p", "&sect;2", "sn12.35:1.2-1.4"),
+        ("p", "&sect;3", "sn12.35:1.5-1.11"),
+        ("p", "&sect;4", "sn12.35:2.1-2.6"),
+        ("p", "&sect;5", "sn12.35:3.1-3.13"),
+        ("p", "&sect;6", "sn12.35:4.1-4.6"),
+        ("p", "&sect;7", "sn12.35:5.1-5.3"),
+        ("p", "&sect;8", "sn12.35:6.1-6.3"),
+        ("p", "&sect;9", "sn12.35:7.1-7.9"),
+        ("p", "&sect;10", "sn12.35:8.1-8.3"),
+    ],
+    quiz=[
+        {"q": "What does the mendicant first ask about?",
+         "opts": [
+             "What old age and death are, and who they belong to",
+             "What consciousness is made of",
+             "Whether the Buddha has attained awakening",
+             "How long the path to liberation takes"],
+         "correct": 0,
+         "expl": "The first of four rounds of the same kind of question."},
+        {"q": "How does the Buddha respond to the question?",
+         "opts": [
+             "He declares it not a fit question, rather than answering it directly",
+             "He answers it in full detail immediately",
+             "He asks another mendicant to answer instead",
+             "He remains silent and changes the subject"],
+         "correct": 0,
+         "expl": "A refusal of the question's premise, not a direct answer."},
+        {"q": "What two views does the Buddha say the question conceals?",
+         "opts": [
+             "That the soul and body are the same, or that they are two different things",
+             "That the world is eternal, or that it is not eternal",
+             "That the Buddha exists after death, or does not",
+             "That suffering is caused by the gods, or by chance"],
+         "correct": 0,
+         "expl": "Two mirrored forms of identity view, both said to make the spiritual life impossible."},
+        {"q": "How does the Buddha restate the link instead of answering \"who it belongs to\"?",
+         "opts": [
+             "As a purely conditional statement — rebirth is a requirement for old age and death",
+             "By naming a specific person to whom it belongs",
+             "By declaring that no answer is possible at all",
+             "By quoting an older verse from the Sutta Nipāta"],
+         "correct": 0,
+         "expl": "Replacing ownership with conditionality — the middle way's actual content here."},
+        {"q": "How many times is this same question-and-rejection pattern repeated?",
+         "opts": [
+             "Four times, moving back through old age and death, rebirth, continued existence, and choices",
+             "Once only",
+             "Twelve times, once for each link in the chain",
+             "Three times"],
+         "correct": 0,
+         "expl": "A deliberate, unhurried repetition across four links."},
+        {"q": "What happens to these malformed questions once ignorance fades away completely?",
+         "opts": [
+             "They are cut off at the root, made like a palm stump, and unable to arise again",
+             "They become easier to answer correctly",
+             "They are replaced by a new set of questions",
+             "The discourse doesn't say what happens to them"],
+         "correct": 0,
+         "expl": "A strong description of complete dissolution, not mere improvement."},
+        {"q": "How many matching cessation paragraphs close the discourse?",
+         "opts": [
+             "Four, mirroring the four questions examined earlier",
+             "One general summary paragraph",
+             "Twelve, one for each link",
+             "Two"],
+         "correct": 0,
+         "expl": "A structural mirror of the four-part examination."},
+        {"q": "What does the middle way avoid, according to this discourse's closing formula?",
+         "opts": [
+             "The two extremes of identity view named earlier in the discourse",
+             "The extremes of pleasure and pain",
+             "The extremes of eternalism and annihilationism about the cosmos",
+             "The extremes of silence and speech"],
+         "correct": 0,
+         "expl": "The same formula used elsewhere in this saṃyutta for a related but distinct pair of extremes."},
+        {"q": "Who asks the questions in this discourse?",
+         "opts": [
+             "An unnamed mendicant",
+             "Venerable Sāriputta",
+             "Venerable Ānanda",
+             "A group of brahmins"],
+         "correct": 0,
+         "expl": "No name is given for the questioner."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A question refused, not answered", [
+            "\"not a fit question\" &mdash;",
+            "the premise itself rejected",
+        ]),
+        ("Two extremes, named precisely", [
+            "same soul and body, or two apart &mdash;",
+            "both close off the spiritual life",
+        ]),
+        ("Four questions, one pattern", [
+            "old age, rebirth, existence, choices &mdash;",
+            "the same rejection each time",
+        ]),
+        ("Cut off at the root", [
+            "made like a palm stump &mdash;",
+            "unable to arise again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.35/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.34.html">SN 12.34 &middot; Grounds for Knowledge (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.15.html">SN 12.15 &middot; Kaccānagotta</a> '
+        "&mdash; the earlier discourse using the same closing formula "
+        "for a related but distinct pair of extremes, about "
+        "existence and non-existence rather than identity.",
+        '<a href="sn-12.36.html">SN 12.36 &middot; Ignorance is a Condition (2nd)</a> '
+        "&mdash; the next discourse, restating this same teaching as "
+        "a direct address to the assembled mendicants.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.36 — Dutiyaavijjāpaccayasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 36, "Dutiyaavijjāpaccaya", "Ignorance is a Condition (2nd)",
+    meta_title="SN 12.36 — Ignorance is a Condition (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyaavijjāpaccayasutta — the same identity-view "
+        "teaching as SN 12.35, recast as a direct address to the "
+        "assembled mendicants rather than an answer to a question. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same four-question, four-cessation structure "
+                 "as SN 12.35, but delivered as direct instruction "
+                 "rather than triggered by a question"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.35, in more "
+                       "compressed form"),
+    ],
+    why=(
+        "This discourse carries the identical teaching as SN 12.35 "
+        "&mdash; the same two extremes of identity view, the same "
+        "middle way, the same four questions run back through old "
+        "age and death, rebirth, continued existence, and choices, "
+        "and the same four matching cessation paragraphs &mdash; but "
+        "delivered in a different narrative shape. There is no "
+        "mendicant asking a question that gets rejected; instead the "
+        "Buddha tells the assembled mendicants directly what they "
+        "might say and why saying it would rest on identity view. "
+        "Reading the two discourses side by side shows how much of "
+        "SN 12.35's dramatic shape &mdash; the question-and-rejection "
+        "rhythm &mdash; is a narrative choice layered onto a content "
+        "that stands perfectly well without it."),
+    guide=[
+        ("The same content, a different frame", [
+            "Every substantive claim in SN 12.35 reappears here "
+            "&mdash; the two identity-view extremes, the middle way "
+            "formula, the four questions, the four cessation "
+            "paragraphs &mdash; but the frame of an individual "
+            "mendicant asking and being corrected is gone."]),
+        ("Hypothetical speech instead of an actual question", [
+            "Rather than a mendicant asking \"what is old age and "
+            "death,\" the Buddha tells the group directly, \"you "
+            "might say\" this, describing the malformed question as "
+            "a hypothetical possibility to be headed off in advance "
+            "rather than a mistake actually made and corrected."]),
+        ("No opening rejection formula needed", [
+            "Because no one has actually asked the malformed "
+            "question, the discourse skips SN 12.35's repeated "
+            "\"that's not a fit question\" and moves straight to "
+            "diagnosing what such a question would rest on."]),
+        ("A more compressed middle section", [
+            "The middle four links &mdash; continued existence, "
+            "grasping, craving, feeling, contact, the six sense "
+            "fields, name and form, consciousness &mdash; are run "
+            "through with elision here, where SN 12.35 spelled each "
+            "one out as its own question-and-answer round."]),
+        ("A pairing that rewards reading both together", [
+            "Set beside SN 12.35, this discourse functions less as "
+            "new content than as a demonstration of how the same "
+            "teaching can be delivered defensively, correcting an "
+            "error already made, or preemptively, as instruction "
+            "given before the error arises."]),
+    ],
+    terms=[
+        ("bhikkhave, yo vadeyya",
+         "&ldquo;mendicants, whoever might say&rdquo; &mdash; the "
+         "hypothetical framing (rendered by Sujato as &ldquo;you "
+         "might say&rdquo;) that replaces SN 12.35's actual question "
+         "from an individual mendicant."),
+        ("taṁ jīvaṁ taṁ sarīraṁ&hellip; aññaṁ jīvaṁ aññaṁ sarīraṁ",
+         "&ldquo;the soul and the body are one and the same&hellip; "
+         "the soul is one thing, the body another&rdquo; &mdash; the "
+         "same two extremes of identity view named in SN 12.35."),
+        ("ubho ante anupagamma majjhena tathāgato dhammaṁ deseti",
+         "&ldquo;avoiding these two extremes, the Realized One "
+         "teaches by the middle way&rdquo; &mdash; the identical "
+         "closing formula carried over from SN 12.35."),
+        ("visūkāyikāni visevitāni vipphanditāni",
+         "&ldquo;twists, ducks, and dodges&rdquo; &mdash; the same "
+         "term for the malformed questions, given up once ignorance "
+         "ceases."),
+        ("kevalassa dukkhakkhandhassa samudayo",
+         "&ldquo;this entire mass of suffering originates&rdquo; "
+         "&mdash; the closing phrase of the opening formula, "
+         "identical to its use throughout this saṃyutta."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.36:1.1-1.1"),
+        ("p", "&sect;2", "sn12.36:1.2-1.4"),
+        ("p", "&sect;3", "sn12.36:2.1-2.5"),
+        ("p", "&sect;4", "sn12.36:3.1-3.14"),
+        ("p", "&sect;5", "sn12.36:4.1-4.3"),
+        ("p", "&sect;6", "sn12.36:5.1-5.12"),
+    ],
+    quiz=[
+        {"q": "How is this discourse's teaching delivered, compared to SN 12.35?",
+         "opts": [
+             "As a direct address to the assembled mendicants, not triggered by a question",
+             "As a private conversation with Sāriputta alone",
+             "As a verse quoted from an older text",
+             "As a dialogue with a visiting brahmin"],
+         "correct": 0,
+         "expl": "The same content, recast without the question-and-rejection frame."},
+        {"q": "Does this discourse use SN 12.35's \"that's not a fit question\" formula?",
+         "opts": [
+             "No — because no one actually asks the malformed question here",
+             "Yes, it repeats the formula four times exactly as SN 12.35 does",
+             "Yes, but only once at the very end",
+             "The discourse never mentions questions at all"],
+         "correct": 0,
+         "expl": "There is no actual question to reject in this version."},
+        {"q": "What two extremes does this discourse name, just as SN 12.35 does?",
+         "opts": [
+             "That the soul and body are the same, or that they are two different things",
+             "That the world had a beginning, or that it did not",
+             "That the Buddha will be reborn, or will not",
+             "That suffering can be ended, or cannot"],
+         "correct": 0,
+         "expl": "The identical pair of identity-view extremes carried over from SN 12.35."},
+        {"q": "How are the middle links of the chain treated in this discourse compared to SN 12.35?",
+         "opts": [
+             "More compressed, run through with elision rather than spelled out one by one",
+             "Expanded with additional detail not found in SN 12.35",
+             "Omitted entirely",
+             "Replaced with an entirely different set of links"],
+         "correct": 0,
+         "expl": "A more compact restatement of the same material."},
+        {"q": "How many matching cessation paragraphs does this discourse contain?",
+         "opts": [
+             "Two, covering old age and death, and the remaining links together",
+             "Four, exactly matching SN 12.35's structure",
+             "None; the discourse ends without describing cessation",
+             "Twelve, one for each link"],
+         "correct": 0,
+         "expl": "A more compressed cessation section than SN 12.35's four separate paragraphs."},
+        {"q": "What phrase introduces the hypothetical malformed statement in this discourse?",
+         "opts": [
+             "\"Mendicants, you might say\"",
+             "\"A certain mendicant asked\"",
+             "\"Sāriputta declared\"",
+             "\"It was heard by the assembly\""],
+         "correct": 0,
+         "expl": "Framing the error as a possibility to be headed off, not an actual mistake made."},
+        {"q": "What is the relationship between this discourse and SN 12.35's content?",
+         "opts": [
+             "Identical substantive teaching, delivered in a different narrative shape",
+             "A completely unrelated teaching on an unrelated topic",
+             "A direct refutation of SN 12.35",
+             "An expansion introducing several new doctrinal points"],
+         "correct": 0,
+         "expl": "Same teaching, defensive correction replaced with preemptive instruction."},
+        {"q": "What does reading these two discourses together demonstrate?",
+         "opts": [
+             "How much of a discourse's dramatic shape is a narrative choice layered onto stable content",
+             "That the two discourses actually teach contradictory doctrines",
+             "That one of the two discourses must be a later forgery",
+             "Nothing useful; the repetition serves no purpose"],
+         "correct": 0,
+         "expl": "A demonstration of narrative framing as distinct from doctrinal content."},
+        {"q": "Who is the audience for this discourse?",
+         "opts": [
+             "The assembled mendicants as a group",
+             "A single unnamed mendicant",
+             "King Pasenadi and his court",
+             "A gathering of brahmins"],
+         "correct": 0,
+         "expl": "Addressed collectively, unlike SN 12.35's one-on-one exchange."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The same setting as SN 12.35, immediately before it."},
+    ],
+    marginalia=[
+        ("The same teaching, no question asked", [
+            "\"you might say\" &mdash; a hypothetical,",
+            "not a mistake actually made",
+        ]),
+        ("Correction offered before the fall", [
+            "heading off an error in advance &mdash;",
+            "rather than repairing one already made",
+        ]),
+        ("The chain's middle, run through briefer", [
+            "elided where SN 12.35 spelled it out &mdash;",
+            "the same links, less unfolded",
+        ]),
+        ("Two discourses, one teaching", [
+            "narrative shape set aside &mdash;",
+            "the content stands without it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.36/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.35.html">SN 12.35 &middot; Ignorance is a Condition</a> '
+        "&mdash; the discourse immediately before this one, carrying "
+        "identical content as an answer to an actual question.",
+        '<a href="sn-12.37.html">SN 12.37 &middot; Not Yours</a> '
+        "&mdash; the next discourse, turning from identity view about "
+        "the chain's links to identity view about the body itself.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.37 — Natumhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 37, "Natumha", "Not Yours",
+    meta_title="SN 12.37 — Not Yours | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Natumhasutta — the body belongs neither to you nor to "
+        "anyone else, being old kamma to be felt, and the learned "
+        "noble disciple turns instead to dependent origination "
+        "itself, applied both forward and in reverse. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A short, direct teaching in two parts &mdash; a "
+                 "claim about the body's ownership, followed by the "
+                 "chain applied forward and in reverse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, but its opening claim is easy to "
+                       "misread"),
+    ],
+    why=(
+        "Coming directly after two discourses dismantling the "
+        "identity view built into asking who a link in the chain "
+        "belongs to, this discourse turns the same question onto the "
+        "body itself and gives a striking, easily misread answer: "
+        "the body doesn't belong to you, but it doesn't belong to "
+        "anyone else either. It is old kamma, produced by past "
+        "choices and intentions, simply something to be felt. Having "
+        "cleared away both the idea that the body is a self one owns "
+        "and the idea that it belongs to some other agent, the "
+        "discourse redirects attention entirely: rather than asking "
+        "whose the body is, the learned noble disciple applies the "
+        "mind carefully to dependent origination itself, running the "
+        "chain forward to suffering's arising and in reverse to its "
+        "complete cessation."),
+    guide=[
+        ("Not yours, but not anyone else's either", [
+            "The opening claim is easy to hear as simply denying "
+            "personal ownership of the body, but the discourse is "
+            "careful to deny both halves at once: it doesn't belong "
+            "to you, and it doesn't belong to anyone else."]),
+        ("Old kamma, not a fresh creation", [
+            "The body is described as something already produced "
+            "&mdash; old deeds, formed by past choices and intentions "
+            "&mdash; framing it as a result to be felt rather than a "
+            "possession currently being claimed by any owner."]),
+        ("A redirection, not a further argument", [
+            "Rather than continuing to argue about ownership, the "
+            "discourse simply changes the subject: the learned noble "
+            "disciple's attention moves to dependent origination "
+            "itself, addressed directly by name rather than through "
+            "any question about who possesses what."]),
+        ("The this/that conditionality formula stated in full", [
+            "This discourse gives the compact, general statement of "
+            "conditionality &mdash; when this exists, this comes to "
+            "be; due to the arising of this, this arises &mdash; "
+            "before applying it to the familiar twelve-link chain, "
+            "making explicit the principle the chain is a specific "
+            "case of."]),
+        ("Both directions given in full, side by side", [
+            "The discourse doesn't stop at describing how suffering "
+            "arises; it immediately restates the entire chain in "
+            "reverse, link by link, so that arising and complete "
+            "cessation appear as two halves of the same short "
+            "teaching."]),
+    ],
+    terms=[
+        ("nāyaṁ, bhikkhave, kāyo tumhākaṁ napi aññesaṁ",
+         "&ldquo;this body doesn't belong to you or to anyone "
+         "else&rdquo; &mdash; the discourse's opening claim, denying "
+         "ownership in both directions at once."),
+        ("purāṇamidaṁ, bhikkhave, kammaṁ abhisaṅkhataṁ "
+         "abhisañcetayitaṁ vedaniyaṁ",
+         "&ldquo;old deeds, produced by choices and intentions, "
+         "as something to be felt&rdquo; &mdash; how the body is "
+         "described instead of as an owned possession."),
+        ("sutavā ariyasāvako",
+         "&ldquo;a learned noble disciple&rdquo; &mdash; the figure "
+         "whose careful, rational attention is described turning to "
+         "dependent origination itself."),
+        ("paṭiccasamuppādaññeva sādhukaṁ yoniso manasi karoti",
+         "&ldquo;carefully and rationally applies the mind to "
+         "dependent origination itself&rdquo; &mdash; the "
+         "redirection away from questions of ownership."),
+        ("iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati",
+         "&ldquo;when this exists, this comes to be; due to the "
+         "arising of this, this arises&rdquo; &mdash; the general "
+         "this/that conditionality formula stated before the "
+         "familiar chain is run through it."),
+    ],
+    text_intro=(
+        "The discourse in full. The middle of the twelve-link chain "
+        "is elided in both directions, exactly as bilara-data "
+        "preserves it, trusting the reader's familiarity with SN "
+        "12.1&ndash;2. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.37:1.1-1.3"),
+        ("p", "&sect;2", "sn12.37:2.1-2.6"),
+        ("p", "&sect;3", "sn12.37:2.7-2.9"),
+    ],
+    quiz=[
+        {"q": "What does the discourse say about who the body belongs to?",
+         "opts": [
+             "It belongs neither to you nor to anyone else",
+             "It belongs entirely to the individual who carries it",
+             "It belongs to one's parents",
+             "The discourse declines to say"],
+         "correct": 0,
+         "expl": "Ownership denied in both directions at once."},
+        {"q": "How is the body described instead of as an owned possession?",
+         "opts": [
+             "As old deeds, produced by past choices and intentions, to be felt",
+             "As a gift freely given by the gods",
+             "As an illusion with no basis in past action",
+             "As something created anew at each moment with no history"],
+         "correct": 0,
+         "expl": "A result of prior kamma, not a currently claimed possession."},
+        {"q": "What does the learned noble disciple turn their attention to?",
+         "opts": [
+             "Dependent origination itself, applied carefully and rationally",
+             "A renewed search for who truly owns the body",
+             "The question of when the body was first created",
+             "A debate with other ascetics about ownership"],
+         "correct": 0,
+         "expl": "A redirection away from ownership questions entirely."},
+        {"q": "What general formula does this discourse state before applying the twelve-link chain?",
+         "opts": [
+             "\"When this exists, this comes to be; due to the arising of this, this arises\"",
+             "\"All conditioned things are impermanent\"",
+             "\"Whatever has a beginning has an ending\"",
+             "The discourse states no general formula"],
+         "correct": 0,
+         "expl": "The compact this/that conditionality principle underlying the specific chain."},
+        {"q": "In which directions is the twelve-link chain given in this discourse?",
+         "opts": [
+             "Both forward, toward suffering's arising, and in reverse, toward its cessation",
+             "Only forward, toward suffering's arising",
+             "Only in reverse, toward cessation",
+             "Neither direction is given; only the general formula appears"],
+         "correct": 0,
+         "expl": "Arising and complete cessation given as two halves of one short teaching."},
+        {"q": "What immediately precedes this discourse in the saṃyutta?",
+         "opts": [
+             "Two discourses examining identity view built into asking who a chain-link belongs to",
+             "A long narrative about King Pasenadi",
+             "A discourse on the four noble truths unrelated to this one's theme",
+             "Nothing; this is the saṃyutta's opening discourse"],
+         "correct": 0,
+         "expl": "This discourse extends the same identity-view critique to the body itself."},
+        {"q": "How does the discourse describe the body's origin?",
+         "opts": [
+             "As produced by past choices and intentions",
+             "As arising without any cause",
+             "As created directly by consciousness in the present moment",
+             "As inherited unchanged from a prior life without modification"],
+         "correct": 0,
+         "expl": "Explicitly the product of prior volitional action."},
+        {"q": "Is the middle of the twelve-link chain spelled out in full in this discourse's source text?",
+         "opts": [
+             "No — it's elided in both directions, trusting familiarity from earlier discourses",
+             "Yes, every link is spelled out twice",
+             "Only the forward direction is spelled out in full",
+             "Only the reverse direction is spelled out in full"],
+         "correct": 0,
+         "expl": "Preserved exactly as bilara-data elides it, in keeping with earlier discourses in this book."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "Kaḷāra the Aristocrat"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("Not yours &mdash; nor anyone else's", [
+            "ownership denied both ways &mdash;",
+            "the body claimed by no one",
+        ]),
+        ("Old kamma, not a fresh possession", [
+            "formed by past choices &mdash;",
+            "something to be felt, not owned",
+        ]),
+        ("A question set aside entirely", [
+            "attention turns to what conditions what &mdash;",
+            "not to who stands behind it",
+        ]),
+        ("Arising and ceasing, side by side", [
+            "the chain run forward, then reversed &mdash;",
+            "one short teaching, both halves given",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.37/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.36.html">SN 12.36 &middot; Ignorance is a Condition (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.38.html">SN 12.38 &middot; Intention</a> '
+        "&mdash; the next discourse, turning from the body's "
+        "ownership to what sustains consciousness across rebirth.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.38 — Cetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 38, "Cetanā", "Intention",
+    meta_title="SN 12.38 — Intention | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cetanāsutta — what one intends, plans, or merely has "
+        "underlying tendencies for becomes a support for "
+        "consciousness's continuation, feeding rebirth even when no "
+        "active intending is present. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Three parallel cases, run through an identical "
+                 "mechanism &mdash; a support for consciousness, "
+                 "establishment, regeneration, and the arising of "
+                 "the whole mass of suffering &mdash; with the third "
+                 "case reversing every step into cessation"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a compact but doctrinally dense account of "
+                       "how kamma sustains rebirth"),
+    ],
+    why=(
+        "This discourse gives one of the most precise accounts in "
+        "this saṃyutta of how volitional activity actually feeds "
+        "rebirth. What one intends, plans, or has underlying "
+        "tendencies for becomes a support on which consciousness can "
+        "become established; once established and grown, it "
+        "regenerates into a new state of existence, bringing future "
+        "rebirth, old age, death, and the whole train of grief in "
+        "its wake. What makes the discourse's structure worth "
+        "attending to closely is its second case: even where active "
+        "intending and planning are absent, underlying tendencies "
+        "alone are still enough to provide the same support and set "
+        "the same process going. Only where none of the three &mdash; "
+        "intending, planning, or underlying tendency &mdash; remains "
+        "at all does the entire chain fail to get a foothold, and "
+        "the whole mass of suffering ceases."),
+    guide=[
+        ("Three ingredients, not one", [
+            "The discourse names three distinct things &mdash; "
+            "intending, planning, and underlying tendency &mdash; "
+            "rather than treating volition as a single undifferentiated "
+            "activity, and then examines what happens when each "
+            "combination is present or absent."]),
+        ("A support, not a cause in isolation", [
+            "What is intended, planned, or latent doesn't directly "
+            "produce rebirth; it becomes an ārammaṇa, an object or "
+            "support, on which consciousness can become established "
+            "&mdash; a more precise, mechanical image than simple "
+            "causation."]),
+        ("The second case is the discourse's real point", [
+            "The first case, where active intending and planning are "
+            "both present, is unsurprising; the second case, where "
+            "neither is present but underlying tendency remains, "
+            "shows that dormant tendency alone is sufficient &mdash; "
+            "liberation can't be achieved by merely suspending active "
+            "volition while tendencies remain unresolved."]),
+        ("Only the third case breaks the chain entirely", [
+            "It's only when intending, planning, and underlying "
+            "tendency are all three absent that consciousness gains "
+            "no support, fails to become established, and the entire "
+            "sequence toward future rebirth simply doesn't occur."]),
+        ("A compressed final step, unlike SN 12.39", [
+            "Once consciousness is established and grows, this "
+            "discourse moves straight to regeneration into a new "
+            "existence and the arising of old age and death, without "
+            "spelling out the intervening links of name and form, the "
+            "six sense fields, contact, and the rest &mdash; a "
+            "compression the very next discourse, SN 12.39, doesn't "
+            "make."]),
+    ],
+    terms=[
+        ("ceteti&hellip; pakappeti&hellip; anuseti",
+         "&ldquo;intends&hellip; plans&hellip; has underlying "
+         "tendencies for&rdquo; &mdash; the three distinct volitional "
+         "ingredients the discourse examines in combination."),
+        ("ārammaṇametaṁ hoti viññāṇassa ṭhitiyā",
+         "&ldquo;this becomes a support for the continuation of "
+         "consciousness&rdquo; &mdash; the precise mechanical image "
+         "linking intention to consciousness's persistence."),
+        ("patiṭṭhā viññāṇassa",
+         "&ldquo;consciousness becomes established&rdquo; &mdash; "
+         "the step that follows once a support is present."),
+        ("āyatiṁ punabbhavābhinibbatti",
+         "&ldquo;regeneration into a new state of existence in the "
+         "future&rdquo; &mdash; what follows once consciousness is "
+         "established and grows."),
+        ("anuseti",
+         "&ldquo;has underlying tendencies for&rdquo; &mdash; the "
+         "one ingredient of the three that alone, even without active "
+         "intending or planning, is still sufficient to sustain the "
+         "whole process, as the discourse's second case shows."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.38:1.1-1.1"),
+        ("p", "&sect;2", "sn12.38:1.2-1.6"),
+        ("p", "&sect;3", "sn12.38:2.1-2.5"),
+        ("p", "&sect;4", "sn12.38:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What three things does the discourse examine as possible supports for consciousness?",
+         "opts": [
+             "Intending, planning, and having underlying tendencies",
+             "Seeing, hearing, and touching",
+             "Craving, grasping, and continued existence",
+             "Ignorance, choices, and consciousness alone"],
+         "correct": 0,
+         "expl": "Three distinct volitional ingredients, examined in combination."},
+        {"q": "What does an intention or underlying tendency become, according to this discourse?",
+         "opts": [
+             "A support (ārammaṇa) for the continuation of consciousness",
+             "An immediate, direct cause of physical illness",
+             "A permanent, unchanging feature of the mind",
+             "The discourse doesn't describe what it becomes"],
+         "correct": 0,
+         "expl": "A precise, mechanical image of support rather than simple causation."},
+        {"q": "In the discourse's second case, what is present and what is absent?",
+         "opts": [
+             "Underlying tendency is present, but active intending and planning are absent",
+             "All three — intending, planning, and underlying tendency — are present",
+             "None of the three is present",
+             "Only planning is present, with intending and underlying tendency both absent"],
+         "correct": 0,
+         "expl": "The case that shows dormant tendency alone is sufficient."},
+        {"q": "What does the second case show about liberation?",
+         "opts": [
+             "That suspending active volition alone isn't enough if underlying tendencies remain",
+             "That underlying tendencies are harmless once intending stops",
+             "That liberation requires only stopping active planning",
+             "That the discourse says nothing relevant to liberation"],
+         "correct": 0,
+         "expl": "Dormant tendency alone is enough to sustain the process toward rebirth."},
+        {"q": "What must be entirely absent for consciousness to gain no support at all?",
+         "opts": [
+             "Intending, planning, and underlying tendency, all three",
+             "Only intending",
+             "Only underlying tendency",
+             "Physical contact with the world"],
+         "correct": 0,
+         "expl": "Only the third case, with all three absent, breaks the chain entirely."},
+        {"q": "What happens once consciousness is established and grows, in this discourse's account?",
+         "opts": [
+             "Regeneration into a new state of existence in the future",
+             "Consciousness immediately ceases on its own",
+             "The mendicant achieves awakening automatically",
+             "Nothing further is described"],
+         "correct": 0,
+         "expl": "The step leading toward future rebirth, old age, and death."},
+        {"q": "How does this discourse's final step compare to SN 12.39's account?",
+         "opts": [
+             "It is more compressed, skipping the intervening links SN 12.39 spells out",
+             "It is more detailed, adding links SN 12.39 omits",
+             "The two discourses give identical final steps with no difference",
+             "This discourse has no final step at all"],
+         "correct": 0,
+         "expl": "SN 12.39 spells out name and form, the six sense fields, and the rest explicitly."},
+        {"q": "What closes the description of both the arising cases in this discourse?",
+         "opts": [
+             "\"This entire mass of suffering originates\"",
+             "\"The mendicant is praised by the assembly\"",
+             "\"The Buddha smiles and falls silent\"",
+             "\"This is called right view\""],
+         "correct": 0,
+         "expl": "The recurring closing phrase marking suffering's arising."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "Kaḷāra the Aristocrat"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("Three ingredients, not one", [
+            "intending, planning, latent tendency &mdash;",
+            "examined each in combination",
+        ]),
+        ("A support, precisely named", [
+            "not cause alone, but a foothold &mdash;",
+            "consciousness given somewhere to stand",
+        ]),
+        ("Dormant alone is still enough", [
+            "no active intending required &mdash;",
+            "the second case, quietly decisive",
+        ]),
+        ("Only all three absent breaks it", [
+            "no foothold, no establishment &mdash;",
+            "the whole mass of suffering ceases",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.38/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.37.html">SN 12.37 &middot; Not Yours</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.39.html">SN 12.39 &middot; Intention (2nd)</a> '
+        "&mdash; the next discourse, spelling out the same mechanism "
+        "through the full chain from name and form onward.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.39 — Dutiyacetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 39, "Dutiyacetanā", "Intention (2nd)",
+    meta_title="SN 12.39 — Intention (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyacetanāsutta — the same intention-as-support "
+        "mechanism as SN 12.38, this time spelled out through the "
+        "full twelve-link chain from name and form's descent onward. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same three-case structure as SN 12.38, but "
+                 "with consciousness's establishment connected "
+                 "explicitly to the full downstream chain rather "
+                 "than compressed into a single step"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the same density as SN 12.38, extended "
+                       "across more links"),
+    ],
+    why=(
+        "This discourse repeats SN 12.38's three-case structure "
+        "&mdash; intending and planning present, only underlying "
+        "tendency present, none of the three present &mdash; but "
+        "fills in what the previous discourse compressed. Where SN "
+        "12.38 moved directly from consciousness's establishment to "
+        "regeneration into a new existence, this discourse spells "
+        "out the specific mechanism: once consciousness is "
+        "established, name and form are conceived, and from there "
+        "the familiar chain runs forward exactly as in SN 12.1 "
+        "&mdash; the six sense fields, contact, feeling, craving, "
+        "grasping, continued existence, rebirth, and old age and "
+        "death. Reading the two discourses together shows a single "
+        "teaching given at two different resolutions, one naming the "
+        "outcome directly and the other naming the specific links "
+        "that produce it."),
+    guide=[
+        ("The same three cases, the same conclusion", [
+            "Exactly as in SN 12.38, intending and planning present "
+            "leads to suffering's arising, underlying tendency alone "
+            "is equally sufficient, and only the complete absence of "
+            "all three breaks the chain &mdash; nothing about the "
+            "three-case logic itself has changed."]),
+        ("Name and form's descent named explicitly", [
+            "Where SN 12.38 skipped straight to regeneration, this "
+            "discourse names the specific step in between: once "
+            "consciousness is established and grows, name and form "
+            "are conceived, connecting intention's role directly to "
+            "the language used elsewhere for a being's descent into "
+            "a new existence."]),
+        ("The familiar chain resumed from its usual point", [
+            "From name and form onward, the discourse runs through "
+            "exactly the links familiar from SN 12.1 and SN 12.2 "
+            "&mdash; the six sense fields, contact, feeling, craving, "
+            "grasping, continued existence, rebirth, old age and "
+            "death &mdash; elided here just as it is elsewhere, "
+            "trusting the reader's familiarity."]),
+        ("Two discourses at two resolutions", [
+            "SN 12.38 and this discourse aren't presenting different "
+            "teachings; they're the same account of how intention "
+            "sustains rebirth, one compressed to name only the "
+            "outcome, the other expanded to show the specific chain "
+            "of links that produces it."]),
+        ("The same reversal governs cessation here too", [
+            "Exactly as in SN 12.38, it's the complete absence of "
+            "intending, planning, and underlying tendency together "
+            "&mdash; not merely two of the three &mdash; that removes "
+            "consciousness's support and brings the entire downstream "
+            "chain, now spelled out in full, to cessation."]),
+    ],
+    terms=[
+        ("ceteti&hellip; pakappeti&hellip; anuseti",
+         "&ldquo;intends&hellip; plans&hellip; has underlying "
+         "tendencies for&rdquo; &mdash; the same three volitional "
+         "ingredients examined in SN 12.38."),
+        ("ārammaṇametaṁ hoti viññāṇassa ṭhitiyā",
+         "&ldquo;this becomes a support for the continuation of "
+         "consciousness&rdquo; &mdash; the identical mechanical image "
+         "carried over from SN 12.38."),
+        ("nāmarūpassa avakkanti",
+         "&ldquo;name and form are conceived&rdquo; &mdash; literally "
+         "name and form's descent, the specific step this discourse "
+         "names where SN 12.38 skipped straight to regeneration."),
+        ("nāmarūpapaccayā saḷāyatanaṁ",
+         "&ldquo;name and form are requirements for the six sense "
+         "fields&rdquo; &mdash; the point where the familiar "
+         "twelve-link chain resumes and is elided onward as usual."),
+        ("nāmarūpanirodhā saḷāyatananirodho",
+         "&ldquo;when name and form cease, the six sense fields "
+         "cease&rdquo; &mdash; the reverse direction, given once all "
+         "three volitional ingredients are entirely absent."),
+    ],
+    text_intro=(
+        "The discourse in full. The chain from name and form onward "
+        "is elided in the source exactly as bilara-data preserves "
+        "it, trusting the reader's familiarity with SN 12.1&ndash;2. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.39:1.1-1.1"),
+        ("p", "&sect;2", "sn12.39:1.2-1.14"),
+        ("p", "&sect;3", "sn12.39:2.1-2.5"),
+        ("p", "&sect;4", "sn12.39:3.1-3.5"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse share with SN 12.38?",
+         "opts": [
+             "The same three cases — intending and planning present, tendency alone present, none present",
+             "A completely different structure with no shared cases",
+             "A single case rather than three",
+             "Five cases rather than three"],
+         "correct": 0,
+         "expl": "The identical three-case logic governing suffering's arising and cessation."},
+        {"q": "What specific step does this discourse name that SN 12.38 skipped over?",
+         "opts": [
+             "Name and form's descent, once consciousness is established and grows",
+             "The Buddha's own past lives",
+             "The precise location of Sāvatthī",
+             "The names of the mendicants present"],
+         "correct": 0,
+         "expl": "The link SN 12.38 compressed by moving straight to regeneration."},
+        {"q": "From name and form onward, which links does this discourse run through?",
+         "opts": [
+             "The familiar twelve-link chain — six sense fields, contact, feeling, craving, and onward",
+             "An entirely different sequence not found elsewhere in this saṃyutta",
+             "Only two further links before stopping",
+             "No further links; the discourse ends at name and form"],
+         "correct": 0,
+         "expl": "The chain familiar from SN 12.1 and SN 12.2, elided here as elsewhere."},
+        {"q": "What must be absent for the entire chain, now spelled out in full, to cease?",
+         "opts": [
+             "Intending, planning, and underlying tendency, all three together",
+             "Only intending, regardless of the other two",
+             "Only underlying tendency, regardless of the other two",
+             "Physical contact alone"],
+         "correct": 0,
+         "expl": "The same complete-absence requirement as SN 12.38's third case."},
+        {"q": "How do SN 12.38 and this discourse relate to each other?",
+         "opts": [
+             "The same teaching given at two resolutions, one compressed and one expanded",
+             "Contradictory teachings that cannot both be correct",
+             "Entirely unrelated discourses on different topics",
+             "This discourse replaces and supersedes SN 12.38"],
+         "correct": 0,
+         "expl": "One names the outcome directly, the other spells out the specific links producing it."},
+        {"q": "What does \"nāmarūpassa avakkanti\" literally mean?",
+         "opts": [
+             "Name and form's descent",
+             "The cessation of all suffering",
+             "The arising of ignorance",
+             "The Buddha's enlightenment"],
+         "correct": 0,
+         "expl": "Language elsewhere associated with a being's entry into a new existence."},
+        {"q": "Is the underlying-tendency-alone case in this discourse sufficient to sustain the chain?",
+         "opts": [
+             "Yes — exactly as in SN 12.38, tendency alone is enough even without active intending",
+             "No, this discourse says tendency alone is never sufficient",
+             "The discourse doesn't address this case at all",
+             "Only if combined with active planning"],
+         "correct": 0,
+         "expl": "The same conclusion as SN 12.38's second case, now run through the full chain."},
+        {"q": "How is the middle of the chain treated in this discourse's source text?",
+         "opts": [
+             "Elided, trusting the reader's familiarity from SN 12.1 and SN 12.2",
+             "Spelled out in complete, unelided detail",
+             "Omitted entirely with no trace",
+             "Replaced with a different formula altogether"],
+         "correct": 0,
+         "expl": "Preserved exactly as bilara-data elides it."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "Kaḷāra the Aristocrat"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("The same three cases, again", [
+            "intending, tendency alone, neither &mdash;",
+            "unchanged from the discourse before",
+        ]),
+        ("A step named, not skipped this time", [
+            "name and form's descent &mdash;",
+            "spelled out where SN 12.38 compressed it",
+        ]),
+        ("The familiar chain, resumed", [
+            "six fields, contact, feeling, craving &mdash;",
+            "run forward exactly as before",
+        ]),
+        ("One teaching, two resolutions", [
+            "compressed once, expanded once &mdash;",
+            "the same mechanism, seen at each scale",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.39/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.38.html">SN 12.38 &middot; Intention</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the same mechanism in compressed form.",
+        '<a href="sn-12.40.html">SN 12.40 &middot; Intention (3rd)</a> '
+        "&mdash; the next discourse, closing this chapter with a "
+        "still more detailed account of the steps toward rebirth.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.40 — Tatiyacetanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 40, "Tatiyacetanā", "Intention (3rd)",
+    meta_title="SN 12.40 — Intention (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyacetanāsutta — the same intention-as-support "
+        "mechanism as SN 12.38 and SN 12.39, this time naming an "
+        "inclination, a coming and going, and a passing away and "
+        "reappearing between consciousness and rebirth, closing "
+        "Kaḷārakhattiyavagga. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same three-case structure as SN 12.38 and SN "
+                 "12.39, this time naming three intermediate steps "
+                 "&mdash; inclination, coming and going, passing "
+                 "away and reappearing &mdash; not spelled out in "
+                 "either earlier discourse"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "closes this chapter with its most granular "
+                       "account of rebirth's mechanics"),
+    ],
+    why=(
+        "Closing Kaḷārakhattiyavagga, this third and final discourse "
+        "on intention repeats the same three-case structure as SN "
+        "12.38 and SN 12.39, but names a set of intermediate steps "
+        "neither earlier discourse spelled out. Once consciousness "
+        "is established and grows, this discourse says, there is an "
+        "inclination; where there is inclination, there is a coming "
+        "and going; where there is coming and going, there is a "
+        "passing away and reappearing; and only then does future "
+        "rebirth, old age, and death follow. These three terms "
+        "&mdash; leaning, transit, and the death-and-rebirth "
+        "transition itself &mdash; give the most granular picture in "
+        "this trio of discourses of what actually happens between "
+        "consciousness's establishment and a new life's beginning, "
+        "closing the vagga on its most mechanically detailed note."),
+    guide=[
+        ("A third variation on a stable pattern", [
+            "The same three cases governing arising and cessation "
+            "&mdash; intending and planning present, tendency alone "
+            "present, none of the three present &mdash; return here "
+            "unchanged for a third time, confirming this is the "
+            "stable frame the trio of discourses shares."]),
+        ("An inclination named where the others named nothing", [
+            "Between consciousness's growth and what follows, this "
+            "discourse inserts nati, an inclination or leaning "
+            "&mdash; a term neither SN 12.38 nor SN 12.39 uses, "
+            "describing something like a tilt toward a coming "
+            "existence before that existence has taken any further "
+            "shape."]),
+        ("Coming and going, then passing away and reappearing", [
+            "From that inclination, the discourse names a coming and "
+            "going (āgatigati) and then a passing away and "
+            "reappearing (cutūpapāta) &mdash; the second term the "
+            "same one used elsewhere in the canon for the divine "
+            "eye's knowledge of beings passing away and re-arising "
+            "according to their deeds."]),
+        ("Three discourses, one mechanism, three levels of detail", [
+            "Set beside SN 12.38's single compressed step and SN "
+            "12.39's full twelve-link chain from name and form "
+            "onward, this discourse's three intermediate terms give "
+            "a third, still more granular way of describing the same "
+            "underlying process, none of them contradicting the "
+            "others."]),
+        ("Closing the vagga on rebirth's fine mechanics", [
+            "Ending Kaḷārakhattiyavagga here, on the most detailed of "
+            "the three intention discourses, leaves the chapter's "
+            "close focused not on a dramatic narrative but on the "
+            "precise, unglamorous steps by which volition actually "
+            "carries a being from one existence into the next."]),
+    ],
+    terms=[
+        ("ceteti&hellip; pakappeti&hellip; anuseti",
+         "&ldquo;intends&hellip; plans&hellip; has underlying "
+         "tendencies for&rdquo; &mdash; the same three volitional "
+         "ingredients examined in SN 12.38 and SN 12.39."),
+        ("nati",
+         "&ldquo;an inclination&rdquo; &mdash; the leaning toward a "
+         "coming existence named here where the two earlier "
+         "discourses in this trio name nothing between consciousness "
+         "and what follows."),
+        ("āgatigati",
+         "&ldquo;coming and going&rdquo; &mdash; the movement that "
+         "follows from inclination, before rebirth itself occurs."),
+        ("cutūpapāto",
+         "&ldquo;passing away and reappearing&rdquo; &mdash; the "
+         "same term used elsewhere in the canon for the divine eye's "
+         "direct knowledge of beings' deaths and rebirths."),
+        ("āyatiṁ jāti jarāmaraṇaṁ",
+         "&ldquo;future rebirth, old age, and death&rdquo; &mdash; "
+         "what follows only after inclination, coming and going, and "
+         "passing away and reappearing have all occurred."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Kaḷārakhattiyavagga. The "
+        "chapter's closing verse of discourse titles is not "
+        "translated in the source and is not quoted here; see the "
+        "reading guide above for its contents. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.40:1.1-1.1"),
+        ("p", "&sect;2", "sn12.40:1.2-1.8"),
+        ("p", "&sect;3", "sn12.40:2.1-2.7"),
+        ("p", "&sect;4", "sn12.40:3.1-3.7"),
+    ],
+    quiz=[
+        {"q": "What structure does this discourse share with SN 12.38 and SN 12.39?",
+         "opts": [
+             "The same three cases — intending and planning present, tendency alone present, none present",
+             "A structure with only one case, unlike the other two discourses",
+             "A structure with five cases rather than three",
+             "No shared structure at all"],
+         "correct": 0,
+         "expl": "The stable three-case frame running through all three intention discourses."},
+        {"q": "What does this discourse name once consciousness is established and grows, that the other two don't?",
+         "opts": [
+             "An inclination (nati)",
+             "A vision of a past life",
+             "A conversation with another mendicant",
+             "A journey to a specific named city"],
+         "correct": 0,
+         "expl": "A term unique to this third discourse in the trio."},
+        {"q": "What follows the inclination, according to this discourse?",
+         "opts": [
+             "A coming and going (āgatigati)",
+             "Immediate final liberation",
+             "A return to the inclination itself in an endless loop",
+             "The discourse names nothing further"],
+         "correct": 0,
+         "expl": "The next of three intermediate steps unique to this discourse."},
+        {"q": "What does cutūpapāta refer to, and where else does the term appear in the canon?",
+         "opts": [
+             "Passing away and reappearing — the same term used for the divine eye's knowledge of rebirth",
+             "A type of meditative absorption unrelated to rebirth",
+             "A geographic location near Sāvatthī",
+             "A ritual offering made by lay followers"],
+         "correct": 0,
+         "expl": "Language shared with descriptions of the divine eye elsewhere in the canon."},
+        {"q": "How do this discourse's three intermediate terms compare to SN 12.38 and SN 12.39?",
+         "opts": [
+             "They give a third, more granular way of describing the same underlying process",
+             "They directly contradict what SN 12.38 and SN 12.39 describe",
+             "They describe an entirely unrelated process",
+             "They are identical in wording to SN 12.39's account"],
+         "correct": 0,
+         "expl": "Three discourses, one mechanism, three different levels of descriptive detail."},
+        {"q": "What must be absent for this entire sequence to cease, according to the third case?",
+         "opts": [
+             "Intending, planning, and underlying tendency, all three together",
+             "Only the inclination, regardless of the other two ingredients",
+             "Only coming and going, regardless of the rest",
+             "Physical contact alone"],
+         "correct": 0,
+         "expl": "The same complete-absence requirement shared with SN 12.38 and SN 12.39."},
+        {"q": "What chapter does this discourse close?",
+         "opts": [
+             "Kaḷārakhattiyavagga",
+             "Buddhavagga",
+             "Dasabalavagga",
+             "Gahapativagga"],
+         "correct": 0,
+         "expl": "The fourth chapter of Nidānavagga, named for SN 12.32's aristocrat."},
+        {"q": "Is the chapter's closing verse of discourse titles quoted in this reading guide's text section?",
+         "opts": [
+             "No — it isn't translated in the source, and its contents are described in the reading guide instead",
+             "Yes, it's quoted in full at the end of the text section",
+             "Yes, but only its first line is quoted",
+             "The discourse has no closing verse at all"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "Kaḷāra the Aristocrat"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Kapilavatthu"],
+         "correct": 0,
+         "expl": "The consistent setting across this chapter of Nidānavagga."},
+    ],
+    marginalia=[
+        ("A third variation, still stable", [
+            "the same three cases return &mdash;",
+            "unchanged for a third telling",
+        ]),
+        ("An inclination, newly named", [
+            "nati &mdash; a leaning toward becoming &mdash;",
+            "absent from the two discourses before",
+        ]),
+        ("Coming and going, then passing on", [
+            "āgatigati, then cutūpapāta &mdash;",
+            "the same term used for the divine eye",
+        ]),
+        ("A chapter closed on fine mechanics", [
+            "not narrative, but precise steps &mdash;",
+            "how volition carries a being onward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.40/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.39.html">SN 12.39 &middot; Intention (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.31.html">SN 12.31 &middot; What Has Come to Be</a> '
+        "&mdash; the discourse opening this chapter, Sāriputta's "
+        "threefold seeing standing beside this discourse's threefold "
+        "mechanics as two different ways this book examines how "
+        "existence takes hold.",
+        '<a href="sn-12.41.html">SN 12.41 &middot; Fears and Enmities</a> '
+        "&mdash; opening Gahapativagga, this book's fifth chapter.",
+    ],
+)
