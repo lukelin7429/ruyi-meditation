@@ -5,16 +5,15 @@ SC = "https://suttacentral.net"
 
 INDEX_HEADING = "Dasaka Nipāta — The Tens"
 # HEAD points at the last page the Nines module reached. TAIL points at the
-# nearest already-published page beyond the Tens -- an-11.15.html, from the
-# earlier eighteen-page selection -- until the Elevens module exists and
-# TAIL can move to its own first page. an-10.60.html and an-10.176.html,
-# also from that earlier selection, sit inside this module's own range
-# (an-10.60 closes ch.6 Sacittavagga; an-10.176 sits mid-chapter in ch.12
+# Elevens module's own first page, an-11.1.html, now that an_content_11.py
+# exists and covers it. an-10.60.html and an-10.176.html, from the earlier
+# eighteen-page selection, sit inside this module's own range (an-10.60
+# closes ch.6 Sacittavagga; an-10.176 sits mid-chapter in ch.12
 # Janussonivagga) and are spliced in with explicit prev=/next= kwargs, per
 # the an-6.16/an-6.63/an-7.6/an-8.30/an-8.53/an-9.20 precedent.
 HEAD = ("an-9.113-432.html",
         "AN 9.113&ndash;432 &middot; Sixteen Defilements, Ten Verbs")
-TAIL = ("an-11.15.html", "AN 11.15 &middot; The Benefits of Love")
+TAIL = ("an-11.1.html", "AN 11.1 &middot; What&rsquo;s the Goal?")
 INDEX_EXTRA = [
     ("an-10.60", "Girimānandasutta", "With Girimānanda"),
     ("an-10.176", "Cundasutta", "With Cunda"),

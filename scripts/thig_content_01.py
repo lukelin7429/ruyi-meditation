@@ -14641,3 +14641,283 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 16.1 — Sumedhā
+# --------------------------------------------------------------------------- #
+page(
+    16, 1, "Sumedh&amacr;", "Sumedh&amacr;",
+    meta_title="Thig 16.1 — Sumedhā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sumedhā's verses, the Therīgāthā's longest poem and its "
+        "closing declaration, a princess's refusal of marriage traced "
+        "through this life and a distant one to nibbāna. From Ru-Yi "
+        "Meditation Center."),
+    vagga="The Great Book &middot; Poem 1 of 1",
+    glance=[
+        ("Setting", "A royal household in Mant&amacr;vat&imacr;, then "
+                    "the longhouse as Anīkaratta arrives from "
+                    "V&amacr;ra&#7751;avat&imacr; for the wedding"),
+        ("Speaker", "Sumedhā throughout, addressing her parents, then "
+                    "her betrothed, then recounting her own past "
+                    "lives"),
+        ("Form", "Seventy-five verses of narrative and teaching, the "
+                 "entire Great Book, closing the collection's "
+                 "seventy-three poems"),
+        ("Length", "under 10 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the longest poem in the entire collection, "
+                       "closing both the Great Book and the "
+                       "Therīgāthā itself"),
+    ],
+    why=(
+        "Sumedhā closes the Therīgāthā with its longest poem by far: a "
+        "princess in Mantāvatī refuses an arranged marriage to King "
+        "Anīkaratta, first persuading her grieving parents and then, "
+        "as he arrives in person for the wedding, persuading her "
+        "betrothed himself &mdash; through an extended teaching on "
+        "impermanence, the body's foulness, and the endless danger of "
+        "transmigration. Released to ordain, she attains the six "
+        "direct knowledges while still a trainee, and on her deathbed "
+        "traces this attainment back to a single act in a distant past "
+        "life: a dwelling given to the Saṅgha in the time of the "
+        "Buddha Koṇāgamana. The poem's closing lines then mark not "
+        "only the end of the Great Book but the end of the entire "
+        "seventy-three-poem collection."),
+    guide=[
+        ("A two-part poem: extended drama, then a compact declaration", [
+            "At 306 segments, this is by far the longest poem in the "
+            "Therīgāthā &mdash; the entire book named for it, the "
+            "Mahānipāta or &lsquo;Great Book&rsquo;, consists of this "
+            "single poem. Its first three-quarters unfold as an "
+            "extended narrative drama: Sumedhā's exchange with her "
+            "parents, then with her betrothed, in verse. Its final "
+            "section compresses an entirely different scale of time "
+            "into a few verses: an account of her own past lives, "
+            "reaching back to a Buddha who lived long before the "
+            "historical Buddha Gotama."]),
+        ("An escalating double refusal, staged with dramatic timing", [
+            "Sumedhā's parents refuse her request to ordain and "
+            "instead reveal she is already betrothed to King "
+            "Anīkaratta; she refuses marriage outright, threatening to "
+            "starve rather than comply. As she finishes making her "
+            "case to her father, the poem cuts directly to "
+            "Anīkaratta's arrival for the wedding &mdash; and while he "
+            "climbs the stairs to find her, Sumedhā has shut herself "
+            "in alone, cut off her own hair, and entered deep "
+            "absorption. He arrives to find her already gone from him "
+            "in every sense but the physical, and pleads with her in "
+            "nearly the same language her parents used, about royal "
+            "wealth and youth. She answers him with the same teaching, "
+            "extended even further."]),
+        ("A word Sumedhā favors, almost nowhere else in early Pali", [
+            "Sujato's notes flag Sumedhā's own signature vocabulary: "
+            "she uses the term bhavagata, &lsquo;state of "
+            "life&rsquo;, seven times across this one poem &mdash; a "
+            "term otherwise essentially unattested in early Pali "
+            "literature, found, per Sujato, only once elsewhere, in "
+            "the much later Peṭakopadesa. Whether this reflects an "
+            "individual voice preserved across centuries of oral "
+            "transmission, or simply this poem's own stylistic habit, "
+            "the repetition is unusual enough that the collection's "
+            "own translator thought it worth flagging."]),
+        ("Teaching through catalogues: body, pleasure, and the scale of transmigration", [
+            "Sumedhā's persuasion leans on accumulation rather than a "
+            "single argument. Refusing marriage, she itemizes the "
+            "body's foulness &mdash; a carcass smeared with flesh and "
+            "blood, oozing filth, food for birds and worms &mdash; a "
+            "passage that echoes a simile at SN 22.95 per Sujato's "
+            "note. Refusing Anīkaratta, she strings together more than "
+            "a dozen similes for sensual pleasure in succession: a "
+            "snake's head, a butcher's block, a firebrand, a skeleton, "
+            "a hot iron ball, borrowed goods, a pit of coals, a grass "
+            "torch, a hound on a chain, a catfish on a hook. And "
+            "teaching her parents the scale of saṃsāra, she reaches "
+            "for cosmic measures: oceans of tears, milk, and blood "
+            "larger than the four oceans combined; bones piled higher "
+            "than Mount Vipula; and the canon's own image for how rare "
+            "a human rebirth is &mdash; a blind turtle in a vast "
+            "ocean, surfacing once a century, happening to put its "
+            "head through the single hole in a floating yoke."]),
+        ("A closing declaration, and a colophon that closes far more than one poem", [
+            "Sumedhā's final words shift from teaching to testimony: "
+            "on her deathbed she recounts a shared gift of a "
+            "newly-built dwelling to the Saṅgha, given together with "
+            "two friends in the time of a Buddha who lived ages before "
+            "Gotama, Koṇāgamana &mdash; a single act of generosity she "
+            "traces forward through thousands of rebirths among the "
+            "gods, a life as queen with the seven treasures, and "
+            "finally this life's meeting with the teaching and its "
+            "result. The Pali text's closing lines then mark two "
+            "endings at once: &lsquo;the Great Book is finished&rsquo;, "
+            "followed by an untranslated tally verse recording that "
+            "this collection holds four hundred and seventy-four "
+            "verses spoken by one hundred and one senior nuns, all of "
+            "whom attained the ending of the defilements &mdash; and "
+            "finally, &lsquo;the text of the Verses of the Senior Nuns "
+            "is finished&rsquo;. Sumedhā's poem does not just close the "
+            "Great Book; in the Pali text itself, it closes the entire "
+            "Therīgāthā."]),
+    ],
+    terms=[
+        ("bhavagata",
+         "&ldquo;state of life&rdquo; &mdash; used seven times in "
+         "this poem, a term Sujato's note calls almost unattested "
+         "elsewhere in early Pali."),
+        ("k&amacr;&#7751;akacchapa",
+         "the &ldquo;blind turtle&rdquo; of Sumedhā's simile for how "
+         "rare a human rebirth is, surfacing once a century to find "
+         "the single hole in a floating yoke."),
+        ("Ko&#7751;&amacr;gamana",
+         "a Buddha of a distant past age, in whose time Sumedhā and "
+         "two friends gave a dwelling to the Saṅgha &mdash; the root "
+         "cause she traces this life's attainment back to."),
+        ("cha abhi&ntilde;&ntilde;&amacr;",
+         "the &ldquo;six direct knowledges&rdquo; Sumedhā realizes "
+         "while still sikkham&amacr;n&amacr;, a trainee, rather than "
+         "after long practice as a fully ordained nun."),
+        ("Mah&amacr;nip&amacr;ta",
+         "&ldquo;the Great Book&rdquo; &mdash; this book's own Pali "
+         "name, and the closing colophon marking the end of the "
+         "entire Therīgāthā."),
+    ],
+    text_intro=(
+        "The text in full: Sumedhā's plea to her parents, her refusal "
+        "of marriage to Anīkaratta, her ordination, and her account of "
+        "past lives reaching back to a distant Buddha. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig16.1:1.1-2.4"),
+        ("p", "&sect;2", "thig16.1:3.1-9.4"),
+        ("p", "&sect;3", "thig16.1:10.1-12.4"),
+        ("p", "&sect;4", "thig16.1:13.1-14.4"),
+        ("p", "&sect;5", "thig16.1:15.1-17.4"),
+        ("p", "&sect;6", "thig16.1:18.1-22.4"),
+        ("p", "&sect;7", "thig16.1:23.1-27.4"),
+        ("p", "&sect;8", "thig16.1:28.1-31.4"),
+        ("p", "&sect;9", "thig16.1:32.1-35.4"),
+        ("p", "&sect;10", "thig16.1:36.1-41.4"),
+        ("p", "&sect;11", "thig16.1:42.1-46.4"),
+        ("p", "&sect;12", "thig16.1:47.1-53.4"),
+        ("p", "&sect;13", "thig16.1:54.1-59.4"),
+        ("p", "&sect;14", "thig16.1:60.1-66.4"),
+        ("p", "&sect;15", "thig16.1:67.1-69.4"),
+        ("p", "&sect;16", "thig16.1:70.1-75.4"),
+        ("p", "&sect;17", ["thig16.1:76.1", "thig16.1:77.5"]),
+    ],
+    quiz=[
+        {"q": "Who is Sumedhā, and where does she live?",
+         "opts": [
+             "The daughter of King Koñca's chief queen, in Mantāvatī",
+             "A wandering ascetic with no fixed home",
+             "A palace servant, not of royal birth",
+             "The poem does not say"],
+         "correct": 0,
+         "expl": "Established in the poem's opening verses."},
+        {"q": "What news arrives just as Sumedhā finishes making her case to her father?",
+         "opts": [
+             "Word that her mother has died",
+             "Anīkaratta, her royal betrothed, arriving from Vāraṇavatī for the wedding",
+             "News of a war",
+             "Nothing — the scene simply ends"],
+         "correct": 1,
+         "expl": "A sharp narrative cut, timed against her own actions."},
+        {"q": "What does Sumedhā do the moment she is left alone in the longhouse?",
+         "opts": [
+             "She falls asleep",
+             "She writes a letter to the Buddha",
+             "She cuts off her own hair and enters deep absorption",
+             "She flees the city"],
+         "correct": 2,
+         "expl": "Already gone from Anīkaratta before he even arrives."},
+        {"q": "What vow does Sumedhā make to her parents to force the issue of ordination?",
+         "opts": [
+             "She threatens to run away",
+             "She appeals to the king directly",
+             "She says nothing further, only weeps",
+             "She refuses to eat any food until she either goes forth or dies"],
+         "correct": 3,
+         "expl": "An ultimatum that leaves her parents no comfortable option."},
+        {"q": "According to Sujato's note, what is unusual about the term bhavagata (‘state of life’) in this poem?",
+         "opts": [
+             "It is used seven times here, almost unattested anywhere else in early Pali",
+             "It appears nowhere in this poem at all",
+             "It is a common term used in every book of the Therīgāthā",
+             "It is a technical term for a type of meditation"],
+         "correct": 0,
+         "expl": "A flagged stylistic signature, unique to this poem."},
+        {"q": "What does Sumedhā say she would endure to reach the end of suffering?",
+         "opts": [
+             "A single sword-strike",
+             "Nothing — she says suffering cannot be ended",
+             "Three hundred sword-strikes a day, for a hundred years",
+             "A year of fasting"],
+         "correct": 2,
+         "expl": "One of this collection's most extreme rhetorical images."},
+        {"q": "What simile does Sumedhā use for how rare a human rebirth is?",
+         "opts": [
+             "A lotus blooming once a year",
+             "A blind turtle surfacing once a century and finding the single hole in a floating yoke",
+             "A star falling from the sky",
+             "No simile is given for this"],
+         "correct": 1,
+         "expl": "A famous canonical image, deployed here to teach her parents."},
+        {"q": "How does Anīkaratta respond after hearing Sumedhā's teaching?",
+         "opts": [
+             "He forces her to marry him anyway",
+             "He leaves without a word",
+             "He himself begs her parents to release her, so she may go forth",
+             "He challenges her teaching point by point"],
+         "correct": 3,
+         "expl": "Persuaded rather than merely refused."},
+        {"q": "What does Sumedhā declare on her deathbed, tracing this life's outcome to a distant cause?",
+         "opts": [
+             "An account of past lives, beginning with a dwelling she and two friends gave to the Saṅgha in the time of the Buddha Koṇāgamana",
+             "A warning about the dangers of wealth",
+             "Nothing further is recorded",
+             "A prophecy about a future Buddha"],
+         "correct": 0,
+         "expl": "The poem's final turn, from teaching to testimony."},
+        {"q": "What does the poem's closing colophon mark, beyond the end of this single poem?",
+         "opts": [
+             "Nothing beyond this poem",
+             "The end of only the Book of the Twenties",
+             "The beginning of the Theragāthā",
+             "The end of the Great Book and the entire seventy-three-poem Therīgāthā collection"],
+         "correct": 3,
+         "expl": "A double ending, marked directly in the Pali text."},
+    ],
+    marginalia=[
+        ("A double refusal, staged with dramatic timing", [
+            "hair cut, absorption entered",
+            "as he climbs the stairs"
+        ]),
+        ("A word used seven times", [
+            "bhavagata,",
+            "almost nowhere else"
+        ]),
+        ("Similes piled on similes", [
+            "snake, firebrand,",
+            "hound, catfish, coal-pit"
+        ]),
+        ("A colophon that closes it all", [
+            "not one poem, but",
+            "the entire collection"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig16.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-15.1.html">Thig 15.1 &mdash; Isid&amacr;s&imacr;'
+        "</a> &mdash; the poem immediately before this one, closing "
+        "the Book of the Forties.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
