@@ -38401,3 +38401,1082 @@ PAGES.append({
         "this chapter's first base statement.",
     ],
 })
+
+
+VAGGA_23 = "<em>Rāgapeyyāla</em> &mdash; the twenty-third and final chapter of the Tens, closing the entire nipāta"
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.237 — Untitled Discourse on Greed (1st)
+# --------------------------------------------------------------------------- #
+# Checked against bilara-data before writing, per standing instruction, not
+# assumed from AN9's own precedent: this chapter (23. Ragapeyyala) is a
+# single 17 x 10 x 3 multiplication spanning 510 discourses (10.237-746) --
+# NOT the "two ninefold sets" structure used at AN9.113-432. The three
+# factors are (1) SEVENTEEN defilements -- raga/greed itself, given its own
+# three individual discourses (237-239) plus a 27-discourse merged range
+# (240-266) for its remaining nine verbs, then SIXTEEN further defilements
+# (dosa/hate through pamada/negligence, the identical 16-item list already
+# met at AN9.113-432) compressed into a single 480-discourse merged range
+# (267-746); (2) TEN verbs -- abhinna/insight (spelled out for greed only,
+# at 237-239), pariñña/complete understanding, parikkhaya/complete ending,
+# pahana/giving up, khaya/ending, vaya/vanishing, viraga/fading away,
+# nirodha/cessation, caga/giving away, patinissagga/letting go; (3) THREE
+# distinct ten-item lists, each given in full at 237/238/239 respectively
+# (a perception-based list built around ugliness/death/food/impermanence;
+# a second perception-based list built around impermanence/not-self/the
+# nine charnel-ground corpse stages; and the ten-factor path itself). 17 x
+# 10 x 3 = 510, matching the discourse range exactly. The closing colophon
+# triple-closes chapter 23, the Fifth Fifty, and the entire Book of the
+# Tens (Dasakanipatapali) at once -- the same three-part closure pattern
+# already met at AN9.113-432's own closing peyyala, one nipata later.
+# Presented as five pages: three individual pages for 10.237-239 (each
+# giving one of the three ten-item lists in full, for the "insight" verb),
+# then two combined pages for the remaining 483 discourses (10.240-266 and
+# 10.267-746), following this project's established convention.
+# --------------------------------------------------------------------------- #
+page(
+    237, "", "Greed (1st)",
+    vagga=VAGGA_23,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_23,
+    meta_title="AN 10.237 — Greed (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse opening the Rāgapeyyāla, this "
+        "project's final chapter, with the first of three ten-item "
+        "perception lists developed for insight into greed. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Ten perceptions to be developed for insight into "
+                 "greed"),
+        ("Length", "under 1 minute to read"),
+        ("Chapter's namesake", "This chapter, <em>Rāgapeyyāla</em>, "
+                               "&ldquo;the peyyāla beginning with "
+                               "greed,&rdquo; is this project's "
+                               "final chapter, closing not only "
+                               "chapter 23 but the entire Book of "
+                               "the Tens"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "simple in itself, but the opening move of a "
+                       "510-discourse structure worth understanding "
+                       "clearly"),
+    ],
+    why=(
+        "Opening this project's final chapter, this discourse gives "
+        "the first of three complete ten-item lists that will be "
+        "multiplied, across the next 509 discourses, against ten "
+        "verbs and seventeen defilements &mdash; a structure "
+        "checked directly against bilara-data before writing, "
+        "confirmed to differ from AN9's own closing peyyāla rather "
+        "than assumed identical to it."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, ten things should be developed: "
+            "the perceptions of ugliness, death, the repulsiveness of "
+            "food, dissatisfaction with the whole world, "
+            "impermanence, suffering in impermanence, not-self in "
+            "suffering, giving up, fading away, and cessation."]),
+        ("The confirmed structure of this project's final chapter", [
+            "Checked against bilara-data before writing rather than "
+            "assumed from AN9's own precedent, this chapter multiplies "
+            "seventeen defilements (greed itself, given its own "
+            "discourses here, plus the sixteen further defilements "
+            "already met at AN9.113&ndash;432) against ten verbs "
+            "(insight, complete understanding, complete ending, "
+            "giving up, ending, vanishing, fading away, cessation, "
+            "giving away, letting go) and three distinct ten-item "
+            "lists &mdash; 17 &times; 10 &times; 3 = 510 discourses, "
+            "matching the range AN 10.237 through AN 10.746 exactly."]),
+        ("The first of three ten-item lists, given here in full", [
+            "This discourse states the first of the three lists that "
+            "will recur throughout the entire chapter: a set of ten "
+            "perceptions moving from the specifically repulsive "
+            "(ugliness, death, food) through progressively "
+            "wider-reaching insight (dissatisfaction with the whole "
+            "world, impermanence, suffering, not-self) to the "
+            "process of release itself (giving up, fading away, "
+            "cessation)."]),
+        ("Abhiññā, the first of ten verbs, spelled out only here", [
+            "<em>Abhiññā</em>, insight or direct knowledge, is the "
+            "first of the chapter's ten verbs, and the only one given "
+            "its own three full, unabbreviated discourses (AN "
+            "10.237&ndash;239) before the remaining nine verbs are "
+            "compressed into the merged range AN 10.240&ndash;266."]),
+    ],
+    terms=[
+        ("rāga",
+         "&ldquo;greed&rdquo; or lust &mdash; the first and "
+         "namesake defilement of this entire chapter, "
+         "<em>Rāgapeyyāla</em>."),
+        ("abhiññā",
+         "&ldquo;insight&rdquo; or direct knowledge &mdash; the "
+         "first of this chapter's ten verbs, given its own three "
+         "full discourses before compression begins."),
+        ("asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā",
+         "&ldquo;the perceptions of ugliness, death, the "
+         "repulsiveness of food&rdquo; &mdash; the first three items "
+         "of this discourse's own ten-item list, the first of three "
+         "such lists in this chapter."),
+        ("sabbaloke anabhiratasaññā",
+         "&ldquo;the perception of dissatisfaction with the whole "
+         "world&rdquo; &mdash; the fourth item, widening from "
+         "specific objects of repulsion to a global orientation."),
+        ("pahānasaññā, virāgasaññā, nirodhasaññā",
+         "&ldquo;the perceptions of giving up, fading away, "
+         "cessation&rdquo; &mdash; the final three items, closing "
+         "this discourse's list on the process of release itself."),
+    ],
+    text_intro=(
+        "The discourse in full: the first of three ten-item lists "
+        "developed for insight into greed. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten perceptions, for insight into greed"),
+        ("p", "&sect;1", "an10.237:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse list as things to be "
+              "developed for insight into greed?",
+         "opts": [
+             "The ten-factor path",
+             "Ten perceptions: ugliness, death, repulsiveness of "
+             "food, dissatisfaction with the world, impermanence, "
+             "suffering, not-self, giving up, fading away, cessation",
+             "Ten monastic rules",
+             "Ten historical events"],
+         "correct": 1,
+         "expl": "The first of three ten-item lists this chapter's "
+                 "entire structure is built from."},
+        {"q": "According to the guide, what is this chapter's "
+              "confirmed structure, checked against bilara-data "
+              "before writing?",
+         "opts": [
+             "Identical to AN9's own closing peyyāla",
+             "Seventeen defilements × ten verbs × three ten-item "
+             "lists = 510 discourses, distinct from AN9's own "
+             "structure",
+             "A single undifferentiated list repeated 510 times",
+             "No discoverable structure"],
+         "correct": 1,
+         "expl": "Confirmed directly from the source rather than "
+                 "assumed from precedent."},
+        {"q": "According to the guide, why is this discourse and its "
+              "two immediate siblings (AN 10.238–239) given in full, "
+              "unlike most of the chapter?",
+         "opts": [
+             "No reason; the whole chapter is given in full",
+             "They state the three ten-item lists in full for the "
+             "first verb, abhiññā, before compression begins with the "
+             "remaining nine verbs",
+             "They are unrelated to the rest of the chapter",
+             "They are the only discourses in the chapter"],
+         "correct": 1,
+         "expl": "The base content that the entire remaining 507 "
+                 "discourses reference through peyyāla ellipses."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What chapter of AN10 does this discourse open, and "
+              "what is its significance for this project?",
+         "opts": [
+             "Chapter 22, with no special significance",
+             "Chapter 23, Rāgapeyyāla, this project's final chapter, "
+             "closing the entire Book of the Tens",
+             "Chapter 24",
+             "Chapter 21"],
+         "correct": 1,
+         "expl": "The twenty-third and final chapter of the Tens."},
+        {"q": "Does this discourse have its own distinct title?",
+         "opts": [
+             "Yes, a unique title",
+             "No — untitled in both the English translation and the "
+             "Pāli root, matching the pattern already seen at chapter "
+             "22's own untitled discourses",
+             "Only the Pāli root gives it a title",
+             "Only the English translation gives it a title"],
+         "correct": 1,
+         "expl": "Marked only by number and content, as at several "
+                 "other compact discourses across this nipāta."},
+    ],
+    marginalia=[
+        ("Ten perceptions, moving outward", [
+            "ugly, dying, food's",
+            "disgust — then the whole world's",
+            "weight, then letting go",
+        ]),
+        ("A structure, checked not assumed", [
+            "not AN9's own shape —",
+            "17 times 10 times 3;",
+            "checked before writing",
+        ]),
+        ("The base content, stated once", [
+            "three lists, given here",
+            "in full — five hundred more",
+            "discourses will point back",
+        ]),
+        ("Cross-references", [
+            "AN 10.233&ndash;236 &middot; closing chapter 22, "
+            "previous",
+            "AN 9.113&ndash;432 &middot; the earlier, differently "
+            "structured closing peyyāla of the Book of the Nines",
+            "AN 10.238 &middot; next, Greed (2nd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.237/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.233-236.html">AN 10.233&ndash;236</a> &mdash; previous, closing '
+        "chapter 22.",
+        "<a href=\"an-9.113-432.html\">AN 9.113&ndash;432</a> &mdash; the earlier closing "
+        "peyyāla of the Book of the Nines, differently structured.",
+        '<a href="an-10.238.html">AN 10.238 &middot; Greed (2nd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.238 — Untitled Discourse on Greed (2nd)
+# --------------------------------------------------------------------------- #
+page(
+    238, "", "Greed (2nd)",
+    vagga=VAGGA_23,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_23,
+    meta_title="AN 10.238 — Greed (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse, the second of three ten-item "
+        "lists developed for insight into greed, built around the "
+        "nine classical charnel-ground corpse perceptions. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "A second set of ten perceptions to be developed "
+                 "for insight into greed"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the second of three foundational lists "
+                       "opening this chapter"),
+    ],
+    why=(
+        "This discourse gives the second of this chapter's three "
+        "ten-item lists, built around the classical nine-stage "
+        "charnel-ground meditation on a decomposing corpse &mdash; "
+        "among the most vivid and traditionally significant "
+        "perception-sequences in this entire canon."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, ten things should be developed: "
+            "the perceptions of impermanence, not-self, the "
+            "repulsiveness of food, dissatisfaction with the whole "
+            "world, and the nine progressive stages of a decomposing "
+            "corpse."]),
+        ("Sharing four items with AN 10.237, differing in the rest", [
+            "This list shares its first four items' general "
+            "territory with AN 10.237 (impermanence-adjacent "
+            "perceptions, food's repulsiveness, dissatisfaction with "
+            "the world), though reordered, before diverging sharply "
+            "into the nine specific corpse-stages that give this "
+            "list its own distinct character."]),
+        ("The nine corpse perceptions, a classical sequence", [
+            "Skeleton, worm-infested corpse, livid corpse, festering "
+            "corpse, split-open corpse, and bloated corpse are drawn "
+            "from the traditional charnel-ground observation "
+            "sequence &mdash; though this list gives only six of the "
+            "traditional nine stages explicitly, the sequence is "
+            "among the most concretely visual and unflinching "
+            "meditation objects in the entire canon, designed to "
+            "cut through desire by direct confrontation with bodily "
+            "decay."]),
+        ("Two lists, two strategies toward the same insight", [
+            "Where AN 10.237's list moved from specific repulsion "
+            "toward increasingly abstract and philosophical insight "
+            "(impermanence, suffering, not-self), this list stays "
+            "concretely embodied throughout &mdash; both aim at "
+            "insight into greed, but through markedly different "
+            "meditative strategies."]),
+    ],
+    terms=[
+        ("aniccasaññā, anattasaññā",
+         "&ldquo;the perceptions of impermanence, not-self&rdquo; "
+         "&mdash; the opening two items of this discourse's list, "
+         "reordered relative to AN 10.237's own placement of these "
+         "themes."),
+        ("aṭṭhikasaññā",
+         "&ldquo;the perception of a skeleton&rdquo; &mdash; the "
+         "first of this discourse's charnel-ground corpse "
+         "perceptions."),
+        ("puḷavakasaññā",
+         "&ldquo;the perception of a worm-infested corpse&rdquo; "
+         "&mdash; the second corpse stage in this discourse's list."),
+        ("vinīlakasaññā, vipubbakasaññā",
+         "&ldquo;the perceptions of a livid corpse, a festering "
+         "corpse&rdquo; &mdash; two further stages in the same "
+         "charnel-ground sequence."),
+        ("vicchiddakasaññā, uddhumātakasaññā",
+         "&ldquo;the perceptions of a split-open corpse, a bloated "
+         "corpse&rdquo; &mdash; the final two stages closing this "
+         "discourse's list."),
+    ],
+    text_intro=(
+        "The discourse in full: the second of three ten-item lists "
+        "developed for insight into greed. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten perceptions, the second list"),
+        ("p", "&sect;1", "an10.238:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What distinguishes this discourse's list from AN "
+              "10.237's own?",
+         "opts": [
+             "No difference at all",
+             "This list diverges into six specific charnel-ground "
+             "corpse perceptions (skeleton, worm-infested, livid, "
+             "festering, split-open, bloated), unlike AN 10.237's own "
+             "more abstract closing items",
+             "This list has no perceptions at all",
+             "This list is entirely unrelated to greed"],
+         "correct": 1,
+         "expl": "A concretely embodied meditative strategy, "
+                 "distinct from AN 10.237's more abstract progression."},
+        {"q": "According to the guide, what is the traditional "
+              "purpose of the charnel-ground corpse perceptions?",
+         "opts": [
+             "Purely historical documentation",
+             "Cutting through desire by direct confrontation with "
+             "bodily decay",
+             "Entertainment for mendicants",
+             "No stated purpose"],
+         "correct": 1,
+         "expl": "Among the most concretely visual and unflinching "
+                 "meditation objects in the entire canon."},
+        {"q": "According to the guide, how do this discourse's and AN "
+              "10.237's lists relate to each other overall?",
+         "opts": [
+             "They are identical",
+             "Both aim at insight into greed, but through markedly "
+             "different meditative strategies — one abstract and "
+             "philosophical, one concretely embodied",
+             "They contradict each other",
+             "They have nothing in common"],
+         "correct": 1,
+         "expl": "Two strategies toward the same underlying goal."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "How many of this chapter's three foundational ten-item "
+              "lists have now been given in full after this "
+              "discourse?",
+         "opts": [
+             "One", "Two", "Three", "Zero"],
+         "correct": 1,
+         "expl": "Only AN 10.239's ten-factor path list remains "
+                 "before compression begins."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23, Rāgapeyyāla",
+             "Chapter 24",
+             "Chapter 21"],
+         "correct": 1,
+         "expl": "The twenty-third and final chapter of the Tens."},
+    ],
+    marginalia=[
+        ("A concrete image, not an abstraction", [
+            "not \"suffering,\" but",
+            "a bloated corpse, split open —",
+            "desire, confronted",
+        ]),
+        ("Two paths to the same insight", [
+            "one list climbs toward the",
+            "abstract; this one stays with",
+            "the body, decaying",
+        ]),
+        ("Second of three, one to go", [
+            "perceptions given",
+            "twice now — the ten-factor path",
+            "still waits at 239",
+        ]),
+        ("Cross-references", [
+            "AN 10.237 &middot; Greed (1st), previous, this "
+            "discourse's own companion list",
+            "AN 10.239 &middot; next, Greed (3rd)",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.238/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.237.html">AN 10.237 &middot; Greed (1st)</a> &mdash; previous.',
+        '<a href="an-10.239.html">AN 10.239 &middot; Greed (3rd)</a> &mdash; next.',
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.239 — Untitled Discourse on Greed (3rd)
+# --------------------------------------------------------------------------- #
+page(
+    239, "", "Greed (3rd)",
+    vagga=VAGGA_23,
+    index_pali="(untitled)",
+    subtitle="<em>Untitled in the source</em> &mdash; %s" % VAGGA_23,
+    meta_title="AN 10.239 — Greed (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "this untitled discourse, the third of three foundational "
+        "lists, the ten-factor path itself given as the third "
+        "content this entire chapter's multiplication is built from. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The ten-factor path given as the third set of ten "
+                 "things developed for insight into greed"),
+        ("Length", "under 1 minute to read"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the most familiar content in this chapter, "
+                       "closing its foundational three-list opening"),
+    ],
+    why=(
+        "Closing this chapter's three-list opening, this discourse "
+        "supplies the most familiar content in the entire nipāta "
+        "&mdash; the ten-factor path itself, already met dozens of "
+        "times since AN 10.103 &mdash; as the third and final base "
+        "list this chapter's 510-discourse multiplication will run "
+        "through."),
+    guide=[
+        ("The teaching in one sentence", [
+            "For insight into greed, ten things should be developed: "
+            "right view, right purpose, right speech, right action, "
+            "right livelihood, right effort, right mindfulness, "
+            "right immersion, right knowledge, and right freedom."]),
+        ("The ten-factor path, given one final role", [
+            "This same list &mdash; the classical eightfold path "
+            "extended by right knowledge and right freedom &mdash; "
+            "has anchored chapters 11 through 15 and reappeared "
+            "constantly since AN 10.103; here it takes on one final "
+            "role, as the third of three base contents multiplied "
+            "across this chapter's entire 510-discourse structure."]),
+        ("Three lists, closing this chapter's foundational triad", [
+            "With this discourse, all three of the ten-item lists "
+            "this chapter's multiplication will run through are now "
+            "complete: AN 10.237's perception-list moving from "
+            "specific repulsion to abstract insight, AN 10.238's "
+            "charnel-ground corpse sequence, and this discourse's own "
+            "familiar ten-factor path &mdash; three genuinely "
+            "distinct contents, unified only by the shared "
+            "10-verb/17-defilement multiplication that follows."]),
+        ("What comes next: compression begins", [
+            "Beginning with AN 10.240, the chapter shifts from "
+            "giving full content to peyyāla-compressed ranges, each "
+            "one standing for many discourses that repeat these "
+            "same three lists against a new verb or defilement "
+            "&mdash; the three foundational discourses just "
+            "completed (AN 10.237&ndash;239) are the last full, "
+            "unabbreviated text this chapter will show."]),
+    ],
+    terms=[
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the first item of this "
+         "discourse's list, the same opening factor of the ten-"
+         "factor path already met throughout this entire nipāta."),
+        ("sammāñāṇaṁ, sammāvimutti",
+         "&ldquo;right knowledge, right freedom&rdquo; &mdash; the "
+         "ninth and tenth items, the two factors extending the "
+         "classical eightfold path to ten."),
+        ("dasa dhammā bhāvetabbā",
+         "&ldquo;ten things should be developed&rdquo; &mdash; the "
+         "shared closing formula common to all three of this "
+         "chapter's foundational lists."),
+        ("abhiññā",
+         "&ldquo;insight&rdquo; &mdash; the verb this and the two "
+         "preceding discourses all apply their own list to, before "
+         "compression to the remaining nine verbs begins at AN "
+         "10.240."),
+        ("rāgassa",
+         "&ldquo;of greed&rdquo; &mdash; the defilement all three "
+         "foundational lists are developed &ldquo;for insight "
+         "into,&rdquo; before the chapter's own multiplication "
+         "extends to sixteen further defilements."),
+    ],
+    text_intro=(
+        "The discourse in full: the ten-factor path as the third of "
+        "three ten-item lists developed for insight into greed. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("h3", "Ten perceptions, the third list: the ten-factor path"),
+        ("p", "&sect;1", "an10.239:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What third list does this discourse supply, closing "
+              "this chapter's foundational opening?",
+         "opts": [
+             "A new, previously unseen list",
+             "The ten-factor path — right view through right freedom "
+             "— already familiar from throughout this nipāta",
+             "The nine charnel-ground corpse perceptions",
+             "A list of monastic offenses"],
+         "correct": 1,
+         "expl": "The most familiar content in the entire nipāta, "
+                 "given one final structural role."},
+        {"q": "According to the guide, what are the three distinct "
+              "ten-item lists this chapter's entire multiplication "
+              "runs through, now that this discourse completes them?",
+         "opts": [
+             "Three identical lists repeated with different names",
+             "AN 10.237's perception-list, AN 10.238's charnel-"
+             "ground corpse sequence, and this discourse's own ten-"
+             "factor path",
+             "Only one list, given three different titles",
+             "Lists that have no relation to each other whatsoever"],
+         "correct": 1,
+         "expl": "Three genuinely distinct contents, unified only by "
+                 "the shared verb/defilement multiplication that "
+                 "follows."},
+        {"q": "According to the guide, what happens starting at AN "
+              "10.240?",
+         "opts": [
+             "The chapter ends entirely",
+             "The chapter shifts from full content to peyyāla-"
+             "compressed ranges, each standing for many discourses "
+             "repeating these same three lists",
+             "A completely new topic begins",
+             "The three lists are abandoned"],
+         "correct": 1,
+         "expl": "AN 10.237–239 are the last full, unabbreviated "
+                 "text this chapter will show."},
+        {"q": "Where is this discourse set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this discourse."},
+        {"q": "What role has the ten-factor path played throughout "
+              "this project, according to the guide?",
+         "opts": [
+             "It has never appeared before this discourse",
+             "It anchored chapters 11 through 15 and has reappeared "
+             "constantly since AN 10.103",
+             "It appeared only once, at AN 10.1",
+             "It is unique to this chapter"],
+         "correct": 1,
+         "expl": "One of this project's most recurring core "
+                 "teachings, given one final role here."},
+        {"q": "What chapter of AN10 does this discourse belong to?",
+         "opts": [
+             "Chapter 22, Sāmaññavagga",
+             "Chapter 23, Rāgapeyyāla, this project's final chapter",
+             "Chapter 24",
+             "Chapter 21"],
+         "correct": 1,
+         "expl": "The twenty-third and final chapter of the Tens."},
+    ],
+    marginalia=[
+        ("The most familiar content, one last time", [
+            "view to freedom, met",
+            "so many times before — now",
+            "given one more role",
+        ]),
+        ("Three lists, now complete", [
+            "repulsion's ladder,",
+            "the corpse's nine stages, and",
+            "the path — all present",
+        ]),
+        ("The last full text for a while", [
+            "no more spelled-out lists",
+            "after this — five hundred more",
+            "discourses, compressed",
+        ]),
+        ("Cross-references", [
+            "AN 10.238 &middot; Greed (2nd), previous, this "
+            "discourse's own companion list",
+            "AN 10.103 &middot; The Wrong Way, the bare statement "
+            "of the ten-factor path this discourse reuses",
+            "AN 10.240&ndash;266 &middot; next, where compression "
+            "begins",
+        ]),
+    ],
+    further=[
+        '<a href="%s/an10.239/en/sujato" target="_blank" rel="noopener">Full Sujato translation '
+        "on SuttaCentral</a> &mdash; with Pāli alongside, segment by "
+        "segment." % SC,
+        '<a href="an-10.238.html">AN 10.238 &middot; Greed (2nd)</a> &mdash; previous.',
+        '<a href="an-10.103.html">AN 10.103 &middot; The Wrong Way</a> &mdash; the bare '
+        "statement of the ten-factor path this discourse reuses.",
+        '<a href="an-10.240-266.html">AN 10.240&ndash;266</a> &mdash; next, where '
+        "compression begins.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.240–266 — Untitled Discourses on Greed (the remaining nine verbs)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.240-266",
+    "index_pali": "(untitled)",
+    "nav_title": "Greed, Continued",
+    "source": "an10/an10.240-266",
+    "crumb": "AN 10.240&ndash;266",
+    "meta_title": ("AN 10.240–266 — Greed, Continued | Ru-Yi "
+                   "Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "this compressed peyyāla, twenty-seven discourses completing "
+        "greed's own share of this chapter's multiplication with "
+        "nine more verbs across three ten-item lists. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.240&ndash;266",
+    "title": "Greed, Continued",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_23),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "The remaining nine verbs (beyond insight), each "
+                 "crossed against the three ten-item lists already "
+                 "given in full at AN 10.237&ndash;239, all applied "
+                 "to greed"),
+        ("Length", "~1 minute to read the compressed text; the full "
+                   "twenty-seven-discourse expansion would take "
+                   "about twenty minutes"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "compact text, standing for a genuinely large "
+                       "span of discourses"),
+    ],
+    "why": (
+        "This single page stands for twenty-seven discourses (AN "
+        "10.240&ndash;266), completing greed's own portion of this "
+        "chapter's multiplication: the remaining nine verbs (complete "
+        "understanding through letting go), each crossed against the "
+        "three ten-item lists already stated in full at AN 10.237"
+        "&ndash;239 &mdash; 9 &times; 3 = 27, matching the range "
+        "exactly."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "For the complete understanding, complete ending, giving "
+            "up, ending, vanishing, fading away, cessation, giving "
+            "away, and letting go of greed, the same three ten-item "
+            "lists (already given in full at AN 10.237&ndash;239) "
+            "should each be developed."]),
+        ("Nine verbs, checked individually against the root", [
+            "Confirmed against bilara-data before writing, the nine "
+            "verbs compressed into this range are: <em>pariññā</em> "
+            "(complete understanding), <em>parikkhaya</em> (complete "
+            "ending), <em>pahāna</em> (giving up), <em>khaya</em> "
+            "(ending), <em>vaya</em> (vanishing), <em>virāga</em> "
+            "(fading away), <em>nirodha</em> (cessation), "
+            "<em>cāga</em> (giving away), and <em>paṭinissagga</em> "
+            "(letting go) &mdash; nine distinct verbs, not a single "
+            "repeated term, even though the compressed text renders "
+            "most of them as brief peyyāla ellipses."]),
+        ("A near-identical verb list to AN 9.113–432's own set", [
+            "Eight of these nine verbs (all but the first, "
+            "<em>pariññā</em>) closely match the nine verbs already "
+            "used at AN 9.113&ndash;432's own closing peyyāla "
+            "(<em>abhiññā, pariññā, parikkhaya, pahāna, khaya, vaya, "
+            "virāga, nirodha, cāga</em>, with <em>paṭinissagga</em> "
+            "added here as a tenth) &mdash; confirming this chapter's "
+            "verb-vocabulary is not invented fresh but drawn from the "
+            "same recurring editorial toolkit already met one nipāta "
+            "earlier."]),
+        ("27 discourses, a fraction of what remains", [
+            "At twenty-seven discourses, this compressed page is a "
+            "small fraction of this chapter's own eventual total: "
+            "greed's own complete share (AN 10.237&ndash;266) comes "
+            "to thirty discourses out of 510, with the sixteen "
+            "further defilements and their own 480 discourses still "
+            "to come at AN 10.267&ndash;746."]),
+    ],
+    "terms": [
+        ("pariññā",
+         "&ldquo;complete understanding&rdquo; &mdash; the second "
+         "of this chapter's ten verbs, the first of the nine "
+         "compressed into this range."),
+        ("khaya, vaya",
+         "&ldquo;ending, vanishing&rdquo; &mdash; two further verbs "
+         "in this range's own nine-verb sequence, both already "
+         "familiar from this project's frequent use of impermanence "
+         "vocabulary."),
+        ("virāga, nirodha",
+         "&ldquo;fading away, cessation&rdquo; &mdash; two more "
+         "verbs, matching the same terms already used as items "
+         "within AN 10.237's own perception-list, here instead used "
+         "as verbs applied to greed itself."),
+        ("cāga",
+         "&ldquo;giving away&rdquo; &mdash; the ninth verb in this "
+         "range, sharing its root with the generosity vocabulary met "
+         "constantly throughout this project's discourses on giving."),
+        ("paṭinissagga",
+         "&ldquo;letting go&rdquo; &mdash; the tenth and final verb "
+         "of this chapter's own list, not present at AN 9.113"
+         "&ndash;432's nine-verb version, confirming this chapter's "
+         "own ten-verb structure is not simply copied from its "
+         "predecessor."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the remaining nine verbs "
+        "applied to greed, each crossed against the three ten-item "
+        "lists already given in full. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Nine verbs, completing greed's own share"),
+        ("p", "&sect;1", "an10.240-266:1.1-1.10"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "Twenty-seven discourses (AN 10.240–266), completing "
+             "greed's own portion of this chapter's multiplication",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "Nine remaining verbs × three ten-item lists = 27, "
+                 "matching the discourse range exactly."},
+        {"q": "According to the guide, what nine verbs does this "
+              "range compress, confirmed against bilara-data before "
+              "writing?",
+         "opts": [
+             "A single verb repeated nine times",
+             "Complete understanding, complete ending, giving up, "
+             "ending, vanishing, fading away, cessation, giving away, "
+             "and letting go",
+             "Nine entirely unrelated topics",
+             "The nine charnel-ground corpse perceptions"],
+         "correct": 1,
+         "expl": "Nine distinct verbs, not a single repeated term, "
+                 "even though most appear as brief ellipses."},
+        {"q": "According to the guide, how does this chapter's verb "
+              "list compare to AN 9.113–432's own nine-verb set?",
+         "opts": [
+             "Completely unrelated",
+             "Eight of the nine verbs closely match AN 9.113–432's "
+             "own set, with paṭinissagga added as a tenth",
+             "Identical in every respect, with no additions",
+             "Entirely different, sharing no verbs at all"],
+         "correct": 1,
+         "expl": "Drawn from the same recurring editorial toolkit "
+                 "already met one nipāta earlier, with one addition."},
+        {"q": "According to the guide, what fraction of this "
+              "chapter's total 510 discourses does greed's own "
+              "complete share (AN 10.237–266) represent?",
+         "opts": [
+             "All 510 discourses",
+             "Thirty discourses, with the sixteen further "
+             "defilements and their 480 discourses still to come",
+             "Half of the total",
+             "None; greed is not part of the total count"],
+         "correct": 1,
+         "expl": "A small opening fraction before the chapter's much "
+                 "larger remaining span."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+        {"q": "What three ten-item lists does each of these nine "
+              "verbs get crossed against, according to the guide?",
+         "opts": [
+             "Three entirely new lists not seen before",
+             "The same three lists already given in full at AN "
+             "10.237–239",
+             "Only one list, repeated three times",
+             "No lists are used in this range"],
+         "correct": 1,
+         "expl": "The perception-list, the corpse sequence, and the "
+                 "ten-factor path, each reused nine more times."},
+    ],
+    "marginalia": [
+        ("Nine verbs, not one repeated", [
+            "understand, end, give",
+            "up, end again, vanish, fade,",
+            "cease, give away, let go",
+        ]),
+        ("A toolkit borrowed, then extended", [
+            "eight verbs match AN 9's",
+            "own closing peyyāla —",
+            "one more verb, added",
+        ]),
+        ("Thirty of five hundred ten", [
+            "greed's own share, done now —",
+            "sixteen more defilements wait,",
+            "480 strong",
+        ]),
+        ("Cross-references", [
+            "AN 10.239 &middot; Greed (3rd), previous, closing this "
+            "chapter's three-list opening",
+            "AN 9.113&ndash;432 &middot; the earlier nine-verb "
+            "sequence this range's own verbs closely echo",
+            "AN 10.267&ndash;746 &middot; next, this chapter's final "
+            "and largest page, closing the entire nipāta",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.240-266/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.239.html">AN 10.239 &middot; Greed (3rd)</a> &mdash; previous.',
+        "<a href=\"an-9.113-432.html\">AN 9.113&ndash;432</a> &mdash; the earlier nine-verb "
+        "sequence this range's own verbs closely echo.",
+        '<a href="an-10.267-746.html">AN 10.267&ndash;746</a> &mdash; next, this '
+        "chapter's final page, closing the entire nipāta.",
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 10.267–746 — Untitled Discourses on Hate, Etc. (closing the nipāta)
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-10.267-746",
+    "index_pali": "(untitled)",
+    "nav_title": "Hate, Etc., Closing the Book of the Tens",
+    "source": "an10/an10.267-746",
+    "crumb": "AN 10.267&ndash;746",
+    "meta_title": ("AN 10.267–746 — Hate, Etc. — Closing the Book of "
+                   "the Tens | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "the final page of this entire project — 480 discourses "
+        "compressed into one page, completing the Rāgapeyyāla and "
+        "closing the Book of the Tens itself. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 10.267&ndash;746",
+    "title": "Hate, Etc., Closing the Book of the Tens",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing "
+                "the entire nipāta" % VAGGA_23),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", "The Buddha alone, addressing the mendicants"),
+        ("Form", "Sixteen further defilements, each crossed against "
+                 "the same ten verbs and three ten-item lists already "
+                 "established for greed"),
+        ("Length", "~2 minutes to read the compressed text; the full "
+                   "480-discourse expansion would take many hours"),
+        ("Closing this project", "This page closes "
+            "<em>Rāgapeyyāla</em>, chapter 23, the Fifth Fifty, and "
+            "the entire Book of the Tens at once, with a triple "
+            "colophon &mdash; and with it, this entire 1,408-"
+            "discourse Aṅguttara Nikāya completion project"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the compressed text is brief; understanding "
+                       "what it stands for requires holding a "
+                       "genuinely large multiplication in mind"),
+    ],
+    "why": (
+        "This single page stands for 480 discourses (AN 10.267"
+        "&ndash;746), the sixteen further defilements &mdash; hate "
+        "through negligence, the identical sixteen-item list already "
+        "met at AN 9.113&ndash;432 &mdash; each crossed against the "
+        "same ten verbs and three ten-item lists established for "
+        "greed, closing this chapter, this nipāta, and this entire "
+        "project."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Each of the sixteen remaining defilements &mdash; hate, "
+            "delusion, anger, acrimony, disdain, contempt, jealousy, "
+            "stinginess, deceitfulness, deviousness, obstinacy, "
+            "aggression, conceit, arrogance, vanity, and negligence "
+            "&mdash; should likewise be met with the same three "
+            "ten-item lists, developed for insight, complete "
+            "understanding, complete ending, giving up, ending, "
+            "vanishing, fading away, cessation, giving away, and "
+            "letting go of each defilement in turn."]),
+        ("The same sixteen-item list, met a second time in this "
+         "project", [
+            "Hate, delusion, anger, acrimony, disdain, contempt, "
+            "jealousy, stinginess, deceitfulness, deviousness, "
+            "obstinacy, aggression, conceit, arrogance, vanity, and "
+            "negligence are the identical sixteen items, in the "
+            "identical order, that closed AN 9.113&ndash;432 &mdash; "
+            "the same defilement list, now recurring one nipāta "
+            "later to close the Tens as it once closed the Nines."]),
+        ("The arithmetic, and this project's own final closure", [
+            "16 defilements &times; 10 verbs &times; 3 ten-item "
+            "lists = 480, plus the 30 discourses already given for "
+            "greed itself (AN 10.237&ndash;266), totals exactly 510, "
+            "matching the discourse range AN 10.237 through AN "
+            "10.746 &mdash; and with this page, all 211 AN10 "
+            "discourses this project set out to translate are "
+            "complete."]),
+        ("A triple colophon, closing three things at once", [
+            "This page's own closing lines mark a triple closure: "
+            "first &lsquo;Rāgapeyyālaṁ niṭṭhitaṁ&rsquo; (&ldquo;the "
+            "peyyāla beginning with greed is finished&rdquo;, left "
+            "untranslated in the English), then &lsquo;Pañcamo "
+            "paṇṇāsako samatto&rsquo; (&ldquo;the Fifth Fifty is "
+            "finished&rdquo;), and finally &lsquo;Dasakanipātapāḷi "
+            "niṭṭhitā&rsquo; (&ldquo;the Book of the Tens is "
+            "finished&rdquo;) &mdash; closing not just this chapter "
+            "but the entire nipāta, and with it, this project's "
+            "complete translation of all 1,408 discourses across "
+            "AN 1 through AN 11."]),
+    ],
+    "terms": [
+        ("dosassa, mohassa, kodhassa",
+         "&ldquo;hate, delusion, anger&rdquo; &mdash; the first "
+         "three of the sixteen defilements opening this compressed "
+         "range, the same standard list met once before at AN 9.113"
+         "&ndash;432."),
+        ("upanāhassa, makkhassa, paḷāsassa, issāya, macchariyassa",
+         "&ldquo;acrimony, disdain, contempt, jealousy, "
+         "stinginess&rdquo; &mdash; five further defilements, "
+         "matching the identical list and order already established "
+         "at AN 3.183-352 and repeated at every nipāta-closing "
+         "peyyāla since."),
+        ("pamādassa",
+         "&ldquo;of negligence&rdquo; &mdash; the sixteenth and "
+         "final defilement, given its own full nine-verb treatment "
+         "before this page's own closing lines."),
+        ("ime dasa dhammā bhāvetabbā",
+         "&ldquo;these ten things should be developed&rdquo; "
+         "&mdash; the shared closing formula, repeated for each "
+         "defilement crossed against each verb and each of the "
+         "three ten-item lists."),
+        ("Dasakanipātapāḷi niṭṭhitā",
+         "&ldquo;the Book of the Tens is finished&rdquo; &mdash; "
+         "the source's own final declaration, closing this entire "
+         "nipāta and, with it, this project's full translation of "
+         "all 1,408 discourses across AN 1 through AN 11."),
+    ],
+    "text_intro": (
+        "The compressed text in full: sixteen defilements, crossed "
+        "against ten verbs and the three ten-item lists, closing the "
+        "Book of the Tens. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Sixteen defilements, ten verbs, compressed"),
+        ("p", "&sect;1", "an10.267-746:1.1-1.25"),
+        ("h3", "The Book of the Tens is finished"),
+        ("p", "&sect;2", "an10.267-746:1.26-1.26"),
+    ],
+    "quiz": [
+        {"q": "What does this compressed page stand for?",
+         "opts": [
+             "A single new discourse",
+             "480 individually numbered discourses, produced by "
+             "crossing sixteen further defilements against ten verbs "
+             "and three ten-item lists",
+             "A biography of a named disciple",
+             "A monastic disciplinary case"],
+         "correct": 1,
+         "expl": "16 defilements × 10 verbs × 3 lists = 480, "
+                 "completing this chapter's full 510-discourse "
+                 "structure alongside greed's own 30."},
+        {"q": "According to the guide, what is significant about the "
+              "sixteen-item defilement list this page uses?",
+         "opts": [
+             "It is entirely new vocabulary invented for this page",
+             "It is the identical sixteen-item list, in the "
+             "identical order, that closed AN 9.113–432 one nipāta "
+             "earlier",
+             "It has no relation to any earlier discourse",
+             "It differs completely from every earlier defilement "
+             "list"],
+         "correct": 1,
+         "expl": "The same defilement list recurring to close the "
+                 "Tens as it once closed the Nines."},
+        {"q": "What does this page's own closing colophon state, "
+              "according to the guide?",
+         "opts": [
+             "Nothing beyond this chapter's own name",
+             "A triple closure: the peyyāla is finished, the Fifth "
+             "Fifty is finished, and the Book of the Tens is finished",
+             "Only that the Fifth Fifty is finished, with nothing "
+             "about the whole nipāta",
+             "A reference to an eleventh nipāta beginning"],
+         "correct": 1,
+         "expl": "Closing chapter, Fifty, and the entire nipāta all "
+                 "at once."},
+        {"q": "What does this page mark the completion of for this "
+              "entire project, according to the guide?",
+         "opts": [
+             "Only this single compressed page",
+             "All 211 AN10 discourses this project set out to "
+             "translate, and with them this project's complete "
+             "translation of all 1,408 discourses across AN 1 "
+             "through AN 11",
+             "Only the Fifth Fifty's own five chapters",
+             "Nothing beyond chapter 23 itself"],
+         "correct": 1,
+         "expl": "The final page of the entire Aṅguttara Nikāya "
+                 "completion project."},
+        {"q": "What is the arithmetic behind this chapter's full "
+              "510-discourse span, according to the guide?",
+         "opts": [
+             "510 discourses with no discoverable structure",
+             "16 defilements × 10 verbs × 3 lists (480) plus greed's "
+             "own 30 discourses (AN 10.237–266) equals 510",
+             "17 defilements repeated 30 times each with no verb "
+             "multiplication",
+             "A single list repeated 510 times"],
+         "correct": 1,
+         "expl": "Confirmed against bilara-data before writing, "
+                 "matching the discourse range AN 10.237 through AN "
+                 "10.746 exactly."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, at the Great Wood",
+             "No setting is stated in the source"],
+         "correct": 3,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("The same sixteen, met again", [
+            "hate through negligence —",
+            "the list that closed the Nines",
+            "now closes the Tens",
+        ]),
+        ("Four hundred eighty, compressed to one page", [
+            "sixteen times ten times",
+            "three — a whole book's ending",
+            "held in one short page",
+        ]),
+        ("Three closures, one breath", [
+            "the peyyāla ends,",
+            "the fifth fifty ends, the whole",
+            "Book of the Tens ends",
+        ]),
+        ("Cross-references", [
+            "AN 10.240&ndash;266 &middot; Greed, Continued, previous",
+            "AN 9.113&ndash;432 &middot; the earlier use of this "
+            "identical sixteen-item defilement list, closing the "
+            "Book of the Nines",
+            "AN 11.1 &middot; the Book of the Elevens, this "
+            "project's own next and final nipāta after AN10's own "
+            "completion",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an10.267-746/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-10.240-266.html">AN 10.240&ndash;266</a> &mdash; previous.',
+        "<a href=\"an-9.113-432.html\">AN 9.113&ndash;432</a> &mdash; the earlier use of "
+        "this identical sixteen-item defilement list.",
+    ],
+})
