@@ -54349,3 +54349,2191 @@ page(
         "&mdash; opening Dutiyavagga, this saṃyutta's second chapter.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.11 — Vatapadasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 11, "Vatapada", "Vows",
+    meta_title="SN 11.11 — Vows | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vatapadasutta — opening Dutiyavagga, the Buddha reveals "
+        "that Sakka's rise to lord of the gods came entirely from "
+        "seven ethical vows kept as an ordinary human being. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha addressing the mendicants "
+                    "directly"),
+        ("Speakers", "The Buddha alone; no visiting deity appears in "
+                     "this discourse"),
+        ("Form", "A direct teaching in prose, listing seven vows, "
+                 "closed with a summary verse"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a plain, memorable list opening this "
+                       "saṃyutta's second chapter"),
+    ],
+    why=(
+        "After ten discourses built around Sakka's conduct in myth "
+        "&mdash; battles, verse contests, encounters with ascetics "
+        "&mdash; this discourse steps back to explain the actual "
+        "origin of his exalted status: not birth, not power, but "
+        "seven specific ethical vows he kept as an ordinary human "
+        "being. The vows themselves are unglamorous and entirely "
+        "practical &mdash; supporting parents, speaking gently, "
+        "giving generously, telling the truth, managing anger "
+        "&mdash; grounding this saṃyutta's mythic figure in conduct "
+        "any listener could actually undertake."),
+    guide=[
+        ("A direct teaching, not another episode", [
+            "Unlike every discourse so far in Paṭhamavagga, this one "
+            "isn't a narrated story or a visiting deity's encounter; "
+            "the Buddha simply states a teaching directly to the "
+            "monks, with no mythic scene-setting at all."]),
+        ("Status traced to conduct, not birth or power", [
+            "The discourse's central claim reframes everything "
+            "readers have seen Sakka do across the previous ten "
+            "discourses: his position wasn't inherited or seized, but "
+            "earned through seven vows kept during an entirely human "
+            "life."]),
+        ("A list built from the ordinary, not the extraordinary", [
+            "None of the seven vows involve anything mythic or "
+            "heroic; they're the kind of commitments available to any "
+            "person &mdash; supporting parents, honoring family "
+            "elders, speaking gently, avoiding backbiting, telling "
+            "the truth."]),
+        ("One vow given far more elaboration than the rest", [
+            "While six of the seven vows are stated in a single "
+            "line each, the vow concerning generosity receives a "
+            "noticeably longer, more detailed formulation &mdash; "
+            "rid of stinginess, open-handed, committed to charity "
+            "&mdash; suggesting particular weight placed on this "
+            "quality."]),
+        ("A realistic final vow, not an impossible standard", [
+            "The seventh vow doesn't demand that anger never arise "
+            "at all; it allows for anger's arising and commits only "
+            "to getting rid of it quickly &mdash; a notably practical "
+            "standard rather than an idealized claim of permanent "
+            "equanimity."]),
+    ],
+    terms=[
+        ("satta vatapadāni",
+         "&ldquo;seven vows&rdquo; &mdash; the central list this "
+         "discourse identifies as the actual source of Sakka's "
+         "status."),
+        ("yāvajīvaṁ mātāpettibharo assaṁ",
+         "&ldquo;as long as I live, may I support my parents&rdquo; "
+         "&mdash; the first and structurally paradigmatic vow, "
+         "framing the whole set."),
+        ("vigatamalamaccherena cetasā&hellip; dānasaṁvibhāgarato",
+         "&ldquo;rid of the stain of stinginess&hellip; loving to "
+         "give and to share&rdquo; &mdash; the longest and most "
+         "elaborated of the seven vows, on generosity."),
+        ("sacepi me kodho uppajjeyya, khippameva naṁ paṭivineyya",
+         "&ldquo;should anger arise, may I quickly get rid of "
+         "it&rdquo; &mdash; the realistic seventh vow, allowing for "
+         "anger's arising rather than demanding its absence."),
+        ("sappuriso",
+         "&ldquo;a true person&rdquo; &mdash; the closing verse's "
+         "summary term for anyone who keeps these seven "
+         "commitments."),
+    ],
+    text_intro=(
+        "The discourse in full, opening this saṃyutta's second "
+        "chapter. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.11:1.1-1.3"),
+        ("p", "&sect;2", "sn11.11:1.4-1.11"),
+        ("p", "&sect;3", "sn11.11:2.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's form differ from every discourse in Paṭhamavagga so far?",
+         "opts": [
+             "It's a direct teaching with no narrated story or visiting deity",
+             "It is the only discourse with no verse content at all",
+             "It takes place during an active battle",
+             "It features a debate between two deities"],
+         "correct": 0,
+         "expl": "A structural shift away from mythic scene-setting."},
+        {"q": "According to this discourse, how did Sakka achieve his exalted status?",
+         "opts": [
+             "By keeping seven ethical vows as an ordinary human being",
+             "By inheriting the position from his father",
+             "By defeating all rivals in battle",
+             "By performing a thousand sacrifices"],
+         "correct": 0,
+         "expl": "Status traced to conduct, not birth or power."},
+        {"q": "What is the first vow listed?",
+         "opts": [
+             "To support one's parents for as long as one lives",
+             "To defeat the titans in battle",
+             "To never speak at all",
+             "To renounce family life entirely"],
+         "correct": 0,
+         "expl": "The paradigmatic first vow, framing the whole set."},
+        {"q": "Which vow receives noticeably more elaboration than the others?",
+         "opts": [
+             "The vow concerning generosity",
+             "The vow concerning truthfulness",
+             "The vow concerning gentle speech",
+             "The vow concerning anger"],
+         "correct": 0,
+         "expl": "Stated at much greater length than the other six single-line vows."},
+        {"q": "What does the seventh vow, on anger, actually commit to?",
+         "opts": [
+             "Getting rid of anger quickly if it arises, not preventing it from ever arising",
+             "Never feeling anger under any circumstance",
+             "Expressing anger openly whenever it arises",
+             "Avoiding all contact with people who cause anger"],
+         "correct": 0,
+         "expl": "A realistic standard rather than an idealized claim of permanent equanimity."},
+        {"q": "What kind of person do the gods of the Thirty-Three declare, according to the closing verse?",
+         "opts": [
+             "One who keeps all seven vows — respecting parents, generous, truthful, free of anger",
+             "One who has defeated the most enemies",
+             "One who possesses the greatest wealth",
+             "One who has never spoken to a titan"],
+         "correct": 0,
+         "expl": "The verse's summary term is sappurisa, \"a true person.\""},
+        {"q": "Are the seven vows described as extraordinary or heroic feats?",
+         "opts": [
+             "No — they are ordinary commitments available to any person",
+             "Yes — they require supernatural ability",
+             "Yes — only gods can undertake them",
+             "The discourse doesn't characterize them either way"],
+         "correct": 0,
+         "expl": "A list built from the ordinary, not the extraordinary."},
+        {"q": "What does the vow on speech specifically prohibit?",
+         "opts": [
+             "Backbiting",
+             "Speaking in public",
+             "Speaking to titans",
+             "Speaking about the Dhamma"],
+         "correct": 0,
+         "expl": "One of the seven vows, on avoiding malicious talk about others."},
+        {"q": "Who is the sole speaker throughout this discourse?",
+         "opts": [
+             "The Buddha, addressing the mendicants directly",
+             "Sakka, addressing the gods",
+             "A group of unnamed deities",
+             "Vepacitti, addressing the titans"],
+         "correct": 0,
+         "expl": "No visiting deity appears in this discourse at all."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("A teaching, not an episode", [
+            "no story, no visiting deity &mdash;",
+            "the Buddha speaks plainly to the monks",
+        ]),
+        ("Status earned, not inherited", [
+            "seven vows, an ordinary human life &mdash;",
+            "reframing everything seen so far",
+        ]),
+        ("One vow given more weight", [
+            "generosity, elaborated at length &mdash;",
+            "the other six, a single line each",
+        ]),
+        ("A realistic standard, not a perfect one", [
+            "anger allowed to arise &mdash;",
+            "only asked to pass quickly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.10.html">SN 11.10 &middot; Seers by the Ocean</a> '
+        "&mdash; the discourse closing Paṭhamavagga, immediately "
+        "before this one.",
+        '<a href="sn-11.12.html">SN 11.12 &middot; Sakka&rsquo;s Names</a> '
+        "&mdash; the next discourse, which explains several of "
+        "Sakka's epithets already used unexplained earlier in this "
+        "saṃyutta, and repeats this same list of seven vows.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.12 — Sakkanāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 12, "Sakkanāma", "Sakka’s Names",
+    meta_title="SN 11.12 — Sakka’s Names | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakkanāmasutta — the Buddha explains the origin of "
+        "seven epithets used for Sakka throughout this saṃyutta, "
+        "including one already used unexplained several discourses "
+        "earlier. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove — the Buddha addressing "
+                    "the mendicants directly"),
+        ("Speakers", "The Buddha alone; no visiting deity appears in "
+                     "this discourse"),
+        ("Form", "A direct teaching explaining seven epithets in "
+                 "turn, then repeating SN 11.11's seven vows in full"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a satisfying payoff for names already "
+                       "encountered earlier in this saṃyutta"),
+    ],
+    why=(
+        "Several of Sakka's epithets have already appeared "
+        "unexplained earlier in this saṃyutta &mdash; Vāsava "
+        "addressed directly in SN 11.4 and SN 11.5's verses, "
+        "Sujampati closing SN 11.7's curse-formula &mdash; and this "
+        "discourse finally supplies their origins, one by one, each "
+        "traced to a specific act from Sakka's human past life: a "
+        "student named Magha, the first to give gifts, one who gave "
+        "ably, one who gave a guest house, one who thinks quickly, "
+        "one married to the titan maiden Sujā, one who rules the "
+        "gods of the Thirty-Three. The discourse then closes by "
+        "repeating, word for word, the same seven vows given in SN "
+        "11.11, tying the etymology directly back to the ethical "
+        "conduct that earned each name."),
+    guide=[
+        ("Names explained, not merely used", [
+            "Throughout Paṭhamavagga, Sakka's epithets appeared "
+            "without comment &mdash; readers were left to absorb "
+            "titles like Vāsava or Sujampati as simply part of his "
+            "identity; this discourse is the first to stop and "
+            "explain where each one actually comes from."]),
+        ("A payoff for careful readers of earlier discourses", [
+            "Sujampati, used in SN 11.7's closing curse-formula with "
+            "no explanation at the time, is finally given its full "
+            "origin here &mdash; Sakka's wife, the titan maiden Sujā "
+            "&mdash; rewarding attention paid to earlier, unexplained "
+            "details."]),
+        ("Each epithet traced to a specific human act", [
+            "None of the seven explanations rest on divine nature or "
+            "raw power; each one is grounded in something Sakka "
+            "actually did as a human being &mdash; a name earned, not "
+            "simply held from the start."]),
+        ("Generosity as the most repeated theme across the names", [
+            "Three of the seven epithets &mdash; Purindada, Sakka "
+            "itself, and Vāsava &mdash; all trace back to different "
+            "aspects of giving, making generosity the single most "
+            "represented quality in the entire naming sequence."]),
+        ("The same seven vows, now given full context", [
+            "Rather than introducing new ethical content, the "
+            "discourse's closing section repeats SN 11.11's seven "
+            "vows verbatim, now framed explicitly as what stands "
+            "behind every one of the names just explained."]),
+    ],
+    terms=[
+        ("māṇavo&hellip; maghavā",
+         "&ldquo;a student&hellip; Maghavā&rdquo; &mdash; the "
+         "etymology of one of Sakka's most frequently used epithets, "
+         "from his human name Magha."),
+        ("purindado",
+         "&ldquo;Purindada, the Firstgiver&rdquo; &mdash; an epithet "
+         "traced to Sakka being first to give gifts as a human "
+         "being."),
+        ("sakko",
+         "&ldquo;Sakka, the Able&rdquo; &mdash; the etymology of "
+         "Sakka's own core name, from giving gifts ably."),
+        ("sujampatī",
+         "&ldquo;Sujā's Husband&rdquo; &mdash; the explicit origin "
+         "of the epithet already used, unexplained, in SN 11.7's "
+         "closing curse."),
+        ("devānamindo",
+         "&ldquo;Lord of Gods&rdquo; &mdash; the final epithet "
+         "explained, from Sakka's rule over the gods of the "
+         "Thirty-Three."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.12:1.1-1.3"),
+        ("p", "&sect;2", "sn11.12:2.1-2.1"),
+        ("p", "&sect;3", "sn11.12:3.1-3.1"),
+        ("p", "&sect;4", "sn11.12:4.1-4.1"),
+        ("p", "&sect;5", "sn11.12:5.1-5.1"),
+        ("p", "&sect;6", "sn11.12:6.1-6.1"),
+        ("p", "&sect;7", "sn11.12:7.1-7.1"),
+        ("p", "&sect;8", "sn11.12:8.1-8.10"),
+        ("p", "&sect;9", "sn11.12:9.1-10.4"),
+    ],
+    quiz=[
+        {"q": "What does this discourse explain about several of Sakka's epithets?",
+         "opts": [
+             "Their origins, each traced to a specific act from his human past life",
+             "That they are entirely meaningless titles",
+             "That only titans are permitted to use them",
+             "That they were invented by Mātali"],
+         "correct": 0,
+         "expl": "A payoff discourse explaining names used unexplained earlier."},
+        {"q": "Which epithet, used earlier in SN 11.7 without explanation, is finally explained here?",
+         "opts": [
+             "Sujampati, from his marriage to the titan maiden Sujā",
+             "Vepacitti",
+             "Verocana",
+             "Mātali"],
+         "correct": 0,
+         "expl": "A satisfying payoff for readers who noticed the earlier unexplained title."},
+        {"q": "What is the origin of the epithet Maghavā?",
+         "opts": [
+             "Sakka's human name was Magha, a student",
+             "It refers to a mountain he once climbed",
+             "It is the name of his chariot",
+             "It comes from a battle he won"],
+         "correct": 0,
+         "expl": "The first epithet explained in this discourse."},
+        {"q": "What theme connects Purindada, Sakka, and Vāsava, three of the seven epithets?",
+         "opts": [
+             "All three trace back to different aspects of giving",
+             "All three refer to military victories",
+             "All three are titles used only by titans",
+             "All three were given to him by Vepacitti"],
+         "correct": 0,
+         "expl": "Generosity is the most represented theme across the naming sequence."},
+        {"q": "What does the epithet Sahassakkha refer to?",
+         "opts": [
+             "Sakka thinking of a thousand needs in a single hour",
+             "A thousand eyes granted by Brahmā",
+             "A thousand battles fought and won",
+             "A thousand gifts given in one day"],
+         "correct": 0,
+         "expl": "An epithet describing Sakka's quick, thorough thinking."},
+        {"q": "What does the epithet Devānaminda mean, and where does it come from?",
+         "opts": [
+             "\"Lord of Gods,\" from ruling over the gods of the Thirty-Three",
+             "\"Firstgiver,\" from an act of charity",
+             "\"The Able,\" from skillful giving",
+             "\"Houser,\" from providing a guest house"],
+         "correct": 0,
+         "expl": "The final epithet explained in the sequence."},
+        {"q": "What does the discourse do after explaining all seven epithets?",
+         "opts": [
+             "It repeats the same seven vows given in SN 11.11, word for word",
+             "It introduces an entirely new set of teachings",
+             "It ends immediately with no further content",
+             "It lists seven additional epithets"],
+         "correct": 0,
+         "expl": "Tying the etymology explicitly back to the ethical conduct behind each name."},
+        {"q": "According to this discourse, are these epithets grounded in divine nature or in human conduct?",
+         "opts": [
+             "Human conduct — each traced to something Sakka actually did as a human being",
+             "Divine nature, present from birth",
+             "Random assignment with no explanation",
+             "Titles bestowed by other gods with no connection to conduct"],
+         "correct": 0,
+         "expl": "Each name earned through action, not simply held from the start."},
+        {"q": "What kind of person do the gods of the Thirty-Three declare, echoing SN 11.11's closing verse?",
+         "opts": [
+             "A true person (sappurisa), one who keeps all seven vows",
+             "The wealthiest person in the assembly",
+             "The most powerful warrior among the gods",
+             "Only Sakka himself qualifies"],
+         "correct": 0,
+         "expl": "The identical closing verse from SN 11.11, repeated here."},
+        {"q": "Where does the Buddha deliver this teaching to the monks?",
+         "opts": [
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Rājagaha",
+             "Near Gayā",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("A name finally explained", [
+            "Sujampati, unglossed since SN 11.7 &mdash;",
+            "the origin supplied at last",
+        ]),
+        ("Seven names, one theme repeating", [
+            "giving, giving ably, giving shelter &mdash;",
+            "generosity threaded through three epithets",
+        ]),
+        ("Earned, not simply held", [
+            "each title traced to a human act &mdash;",
+            "nothing assumed from birth or nature",
+        ]),
+        ("The same vows, now in full context", [
+            "repeated word for word from SN 11.11 &mdash;",
+            "the ethics behind every name",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.11.html">SN 11.11 &middot; Vows</a> '
+        "&mdash; the discourse immediately before this one, whose "
+        "seven vows are repeated here in full.",
+        '<a href="sn-11.7.html">SN 11.7 &middot; Not Betray</a> '
+        "&mdash; the earlier discourse whose closing curse uses the "
+        "epithet Sujampati, explained here for the first time.",
+        '<a href="sn-11.13.html">SN 11.13 &middot; With Mahāli</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.13 — Mahālisutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 13, "Mahāli", "With Mahāli",
+    meta_title="SN 11.13 — With Mahāli | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahālisutta — a skeptical Licchavi doubts the Buddha "
+        "really saw Sakka, and the Buddha's answer quietly redefines "
+        "what it means to truly see someone. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Vesālī, the Great Wood, the hall with the "
+                    "peaked roof &mdash; a setting distinct from "
+                    "this saṃyutta's usual Sāvatthī backdrop"),
+        ("Speakers", "Mahāli the Licchavi and the Buddha"),
+        ("Form", "A dialogue opening on a pointed challenge, "
+                 "answered with the same etymology and vows given in "
+                 "SN 11.12"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "familiar content reframed by a genuinely "
+                       "sharp opening question"),
+    ],
+    why=(
+        "When Mahāli the Licchavi asks the Buddha directly whether "
+        "he has actually seen Sakka, and then doubts the answer "
+        "&mdash; surely, he suggests, the Buddha saw a mere lookalike, "
+        "since Sakka is famously hard to see &mdash; the Buddha "
+        "doesn't argue the point of literal visual perception at all. "
+        "He answers instead that he understands Sakka, and understands "
+        "exactly what Sakka undertook to become who he is, before "
+        "repeating the same etymology of Sakka's seven names and the "
+        "same seven vows already given in SN 11.12. The redirection "
+        "itself is the teaching: real knowledge of someone isn't a "
+        "matter of eyesight."),
+    guide=[
+        ("A challenge posed directly, not a story recalled", [
+            "Unlike most of this saṃyutta's episodes, this discourse "
+            "opens with a named, historical interlocutor putting a "
+            "pointed question to the Buddha in person, in a setting "
+            "distinct from the saṃyutta's usual Sāvatthī backdrop."]),
+        ("Skepticism stated plainly, not softened", [
+            "Mahāli doesn't merely ask for clarification; he directly "
+            "suggests the Buddha must have mistaken a lookalike for "
+            "Sakka, since Sakka is proverbially hard to see &mdash; a "
+            "genuine challenge to the Buddha's claim, not a polite "
+            "formality."]),
+        ("A question about sight, answered with understanding", [
+            "Rather than defending or elaborating on the literal act "
+            "of seeing, the Buddha reframes the entire question: what "
+            "matters is that he understands Sakka and understands "
+            "what made him who he is &mdash; sidestepping the "
+            "visual claim entirely."]),
+        ("Familiar content, put to new use", [
+            "The etymology of Sakka's seven names and the seven vows "
+            "that follow are identical to SN 11.12's content, but "
+            "here they serve a different rhetorical purpose "
+            "&mdash; not simply informing the monks, but substantiating "
+            "a specific claim to genuine understanding against a "
+            "skeptic's doubt."]),
+        ("A minor variation worth noticing", [
+            "The order in which the seven epithets are explained "
+            "here differs slightly from SN 11.12's sequence &mdash; "
+            "Sakka's own name-epithet is explained before Purindada "
+            "rather than after &mdash; a small textual variation "
+            "between two otherwise near-identical passages."]),
+    ],
+    terms=[
+        ("diṭṭho kho, bhante, bhagavatā sakko devānamindo",
+         "&ldquo;sir, have you seen Sakka, lord of gods?&rdquo; "
+         "&mdash; Mahāli's opening question, direct and pointed."),
+        ("sakkapatirūpako&hellip; duddaso hi&hellip; sakko",
+         "&ldquo;someone who looked like Sakka&hellip; Sakka is hard "
+         "to see&rdquo; &mdash; Mahāli's skeptical follow-up, "
+         "doubting the Buddha's claim outright."),
+        ("sakkañca khvāhaṁ, mahāli, pajānāmi sakkakaraṇe ca dhamme",
+         "&ldquo;I understand Sakka, and I understand the things "
+         "that enabled him to achieve the status of Sakka&rdquo; "
+         "&mdash; the Buddha's redirection from seeing to "
+         "understanding."),
+        ("mahāli licchavī",
+         "&ldquo;Mahāli the Licchavi&rdquo; &mdash; a named "
+         "historical interlocutor, distinct from the anonymous monks "
+         "addressed in SN 11.11 and SN 11.12."),
+        ("vesāliyaṁ&hellip; mahāvane kūṭāgārasālāyaṁ",
+         "&ldquo;near Vesālī, at the Great Wood, in the hall with "
+         "the peaked roof&rdquo; &mdash; a distinct setting from this "
+         "saṃyutta's usual Sāvatthī backdrop."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.13:1.1-1.3"),
+        ("p", "&sect;2", "sn11.13:2.1-4.2"),
+        ("p", "&sect;3", "sn11.13:5.1-5.1"),
+        ("p", "&sect;4", "sn11.13:6.1-12.1"),
+        ("p", "&sect;5", "sn11.13:13.1-13.10"),
+        ("p", "&sect;6", "sn11.13:14.1-15.4"),
+    ],
+    quiz=[
+        {"q": "What question does Mahāli the Licchavi ask the Buddha?",
+         "opts": [
+             "Whether he has actually seen Sakka, lord of the gods",
+             "Whether Sakka has ever visited Vesālī",
+             "Whether the titans still threaten the gods",
+             "Whether Mahāli himself may become a god"],
+         "correct": 0,
+         "expl": "A direct, pointed question opening the discourse."},
+        {"q": "How does Mahāli respond when the Buddha confirms he has seen Sakka?",
+         "opts": [
+             "He suggests the Buddha must have seen a mere lookalike",
+             "He immediately believes and asks no further questions",
+             "He accuses the Buddha of lying",
+             "He changes the subject entirely"],
+         "correct": 0,
+         "expl": "Genuine skepticism, not a polite formality."},
+        {"q": "How does the Buddha respond to this skepticism?",
+         "opts": [
+             "He reframes the question toward understanding Sakka, not literally seeing him",
+             "He insists on the literal accuracy of his visual claim",
+             "He refuses to answer further",
+             "He asks Mahāli to describe Sakka himself"],
+         "correct": 0,
+         "expl": "A redirection from sight to genuine understanding."},
+        {"q": "What content does the Buddha then give to substantiate his understanding of Sakka?",
+         "opts": [
+             "The same etymology of Sakka's seven names and seven vows given in SN 11.12",
+             "An entirely new set of teachings never given before",
+             "A description of Sakka's physical appearance",
+             "A list of Sakka's military victories"],
+         "correct": 0,
+         "expl": "Familiar content, now serving a different rhetorical purpose."},
+        {"q": "Where does this discourse take place, distinct from most of this saṃyutta?",
+         "opts": [
+             "Near Vesālī, at the Great Wood",
+             "At Sāvatthī, as in most other discourses here",
+             "Near Rājagaha",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "A setting distinct from the saṃyutta's usual Sāvatthī backdrop."},
+        {"q": "What minor variation exists between this discourse's epithet sequence and SN 11.12's?",
+         "opts": [
+             "The order of two epithets — Sakka and Purindada — is slightly different",
+             "This discourse omits Sujampati entirely",
+             "This discourse adds an eighth new epithet",
+             "The vows are entirely different in content"],
+         "correct": 0,
+         "expl": "A small textual variation between two otherwise near-identical passages."},
+        {"q": "Who is Mahāli, as identified in the discourse?",
+         "opts": [
+             "A Licchavi, a named historical interlocutor",
+             "A titan lord",
+             "An anonymous mendicant",
+             "A different name for Sakka himself"],
+         "correct": 0,
+         "expl": "Distinct from the anonymous monks addressed elsewhere in this saṃyutta."},
+        {"q": "Does the Buddha ever directly refute Mahāli's suggestion about a lookalike?",
+         "opts": [
+             "No — he sidesteps it by shifting to a claim of understanding instead",
+             "Yes, with a detailed physical description proving it was Sakka",
+             "Yes, by producing a witness",
+             "Yes, by demonstrating a supernatural power"],
+         "correct": 0,
+         "expl": "The redirection itself is the teaching, not a direct rebuttal."},
+        {"q": "What is the final vow among the seven repeated in this discourse?",
+         "opts": [
+             "Being free of anger, or quickly getting rid of it if it arises",
+             "Never speaking at all",
+             "Renouncing all family ties",
+             "Fasting completely"],
+         "correct": 0,
+         "expl": "The same seventh vow given in SN 11.11 and SN 11.12."},
+        {"q": "What term does the closing verse use for one who keeps these vows?",
+         "opts": [
+             "Sappurisa, \"a true person\"",
+             "Devarāja, \"king of gods\"",
+             "Asurinda, \"lord of titans\"",
+             "Licchavī, matching Mahāli's own title"],
+         "correct": 0,
+         "expl": "The same closing term used in SN 11.11 and SN 11.12."},
+    ],
+    marginalia=[
+        ("A pointed question, not small talk", [
+            "\"have you seen Sakka?\" &mdash;",
+            "skepticism stated plainly",
+        ]),
+        ("Seeing, reframed as understanding", [
+            "not defending the eyes &mdash;",
+            "substantiating a different kind of knowing",
+        ]),
+        ("The same content, new purpose", [
+            "names and vows recited again &mdash;",
+            "this time to answer a doubter",
+        ]),
+        ("A different city, a familiar teaching", [
+            "Vesālī's Great Wood, not Sāvatthī &mdash;",
+            "the content persists across settings",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.12.html">SN 11.12 &middot; Sakka&rsquo;s Names</a> '
+        "&mdash; the discourse whose etymology and vows are repeated "
+        "here in answer to Mahāli's skepticism.",
+        '<a href="sn-11.14.html">SN 11.14 &middot; Poor</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.14 — Daliddasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 14, "Dalidda", "Poor",
+    meta_title="SN 11.14 — Poor | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daliddasutta — a formerly destitute person outshines "
+        "wealthier-born gods after death, and Sakka silences the "
+        "other gods' complaints with a verse redefining what real "
+        "poverty is. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, the Bamboo Grove, the squirrels' "
+                    "feeding ground"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, the complaining gods of the "
+                     "Thirty-Three and Sakka"),
+        ("Form", "A narrated episode of status reversal, closed with "
+                 "a verse that plays directly on the discourse's own "
+                 "title"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "a clear, satisfying reversal echoing themes "
+                       "from earlier in this collection"),
+    ],
+    why=(
+        "A formerly poor, destitute, and pitiful person takes up "
+        "faith, ethics, learning, generosity, and wisdom in the "
+        "Buddha's teaching, and is reborn among the gods of the "
+        "Thirty-Three &mdash; outshining the other gods in beauty "
+        "and glory. Rather than celebrating this, the other gods "
+        "complain about the unfairness of someone so lowly-born "
+        "surpassing them. Sakka's response doesn't merely defend the "
+        "newcomer; his closing verse redefines poverty itself, "
+        "declaring that whoever has genuine faith, ethics, and "
+        "insight is truly prosperous &mdash; a direct pun on the "
+        "discourse's own title, dalidda, \"poor.\""),
+    guide=[
+        ("A reversal stated plainly, then challenged", [
+            "The discourse doesn't merely report the formerly poor "
+            "person's rebirth among the gods as a happy outcome; it "
+            "immediately shows the other gods reacting with "
+            "complaint, giving the status reversal real friction "
+            "rather than treating it as automatically accepted."]),
+        ("Prejudice given voice, not glossed over", [
+            "The other gods' grumbling is quoted in full, naming "
+            "exactly what bothers them &mdash; that someone poor and "
+            "pitiful in human life now outshines gods who presumably "
+            "never suffered such lowly origins."]),
+        ("Sakka defending a stranger, not a personal ally", [
+            "Unlike SN 11.6's bird nests or SN 11.9's seers, where "
+            "Sakka's compassion has an immediate, visible object "
+            "before him, here he defends a godling with no prior "
+            "connection to him at all, simply on the basis of what "
+            "is fair."]),
+        ("A verse that puns directly on the discourse's title", [
+            "Sakka's closing verse names whoever has faith, ethics, "
+            "and insight as adalidda &mdash; not poor &mdash; a "
+            "direct wordplay against the title dalidda that the "
+            "discourse itself carries, turning material poverty into "
+            "a deliberate contrast with the wealth that actually "
+            "counts."]),
+        ("A theme echoing much earlier in this collection", [
+            "This discourse's insistence that genuine worth comes "
+            "from conduct and insight rather than birth or material "
+            "circumstance echoes a theme this collection first "
+            "developed in Devatāsaṃyutta's own closing episodes, now "
+            "restated here through Sakka's own voice."]),
+    ],
+    terms=[
+        ("manussadaliddo&hellip; manussakapaṇo&hellip; manussavarāko",
+         "&ldquo;poor, destitute, and pitiful&rdquo; &mdash; the "
+         "description of the person's origin, giving this discourse "
+         "its title."),
+        ("saddhaṁ&hellip; sīlaṁ&hellip; sutaṁ&hellip; cāgaṁ&hellip; paññaṁ samādiyi",
+         "&ldquo;took up faith, ethics, learning, generosity, and "
+         "wisdom&rdquo; &mdash; the fivefold spiritual undertaking "
+         "that leads to the surprising rebirth."),
+        ("aññe deve atirocati vaṇṇena ceva yasasā ca",
+         "&ldquo;outshone the other gods in beauty and glory&rdquo; "
+         "&mdash; the status-inverting outcome that triggers the "
+         "other gods' complaint."),
+        ("ujjhāyanti khiyyanti vipācenti",
+         "&ldquo;complained, grumbled, and objected&rdquo; &mdash; "
+         "the other gods' prejudice, quoted directly rather than "
+         "glossed over."),
+        ("adaliddoti taṁ āhu, amoghaṁ tassa jīvitaṁ",
+         "&ldquo;they're said to be prosperous, their life is not "
+         "in vain&rdquo; &mdash; Sakka's closing pun, directly "
+         "reversing the discourse's own title."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.14:1.1-1.5"),
+        ("p", "&sect;2", "sn11.14:2.1-2.4"),
+        ("p", "&sect;3", "sn11.14:2.5-2.9"),
+        ("p", "&sect;4", "sn11.14:3.1-3.5"),
+        ("p", "&sect;5", "sn11.14:3.6-4.4"),
+        ("p", "&sect;6", "sn11.14:5.1-6.4"),
+    ],
+    quiz=[
+        {"q": "What was the reborn godling's condition in their previous human life?",
+         "opts": [
+             "Poor, destitute, and pitiful",
+             "Extremely wealthy and powerful",
+             "A respected religious teacher",
+             "A member of the royal family"],
+         "correct": 0,
+         "expl": "The origin that gives this discourse its title."},
+        {"q": "What five things did this person take up in the Buddha's teaching?",
+         "opts": [
+             "Faith, ethics, learning, generosity, and wisdom",
+             "Wealth, status, power, fame, and pleasure",
+             "Only faith and nothing else",
+             "Military skill and strategy"],
+         "correct": 0,
+         "expl": "The fivefold undertaking leading to their rebirth among the gods."},
+        {"q": "How does this person's rebirth compare to the other gods of the Thirty-Three?",
+         "opts": [
+             "They outshine the other gods in beauty and glory",
+             "They are reborn as the lowest-ranking god",
+             "They are barely noticed by the other gods",
+             "They are reborn outside the heavenly realm entirely"],
+         "correct": 0,
+         "expl": "A striking status reversal given real narrative weight."},
+        {"q": "How do the other gods initially react to this outcome?",
+         "opts": [
+             "They complain, grumble, and object",
+             "They celebrate immediately without objection",
+             "They ignore the newcomer entirely",
+             "They demand the newcomer be expelled"],
+         "correct": 0,
+         "expl": "Prejudice given voice rather than glossed over."},
+        {"q": "How does Sakka respond to the other gods' complaint?",
+         "opts": [
+             "He defends the newcomer, explaining their spiritual undertakings",
+             "He agrees the newcomer doesn't belong",
+             "He remains silent and takes no position",
+             "He punishes the newcomer for causing controversy"],
+         "correct": 0,
+         "expl": "Defending a stranger with no prior personal connection to him."},
+        {"q": "What does Sakka's closing verse call anyone with faith, ethics, and insight?",
+         "opts": [
+             "Adalidda — not poor, truly prosperous",
+             "Devaputta — a godling",
+             "Sappurisa only, with no reference to poverty",
+             "Nothing specific; the verse makes no such claim"],
+         "correct": 0,
+         "expl": "A direct pun reversing the discourse's own title, dalidda."},
+        {"q": "How does this discourse's theme relate to material poverty and spiritual worth?",
+         "opts": [
+             "It reframes true poverty as a matter of spiritual qualities, not material circumstance",
+             "It insists material wealth is the only true measure of worth",
+             "It argues poverty and wealth are both irrelevant to rebirth",
+             "It makes no connection between the two at all"],
+         "correct": 0,
+         "expl": "The core reversal underlying the entire discourse."},
+        {"q": "Where does this discourse's earlier echo in this collection's themes come from?",
+         "opts": [
+             "Devatāsaṃyutta's closing episodes on worth over birth or wealth",
+             "A theme first introduced in this exact discourse with no precedent",
+             "A teaching found only in the monastic code of discipline",
+             "A theme unique to Sakkasaṃyutta with no earlier parallel"],
+         "correct": 0,
+         "expl": "A theme this collection developed much earlier, restated here through Sakka."},
+        {"q": "Does Sakka in this discourse defend someone he has a personal relationship with, as in SN 11.6 or SN 11.9?",
+         "opts": [
+             "No — the godling has no prior connection to him at all",
+             "Yes, the godling is a close relative of Sakka",
+             "Yes, the godling had previously served as Sakka's charioteer",
+             "The relationship is never specified either way"],
+         "correct": 0,
+         "expl": "A defense grounded in fairness rather than personal connection."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "Near Rājagaha, at the Bamboo Grove",
+             "At Sāvatthī",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "A distinct setting from several other discourses in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A reversal, met with complaint", [
+            "outshining gods, from a poor human life &mdash;",
+            "fairness questioned, not assumed",
+        ]),
+        ("Prejudice, quoted in full", [
+            "\"how incredible, how amazing\" &mdash;",
+            "grumbling given its own words",
+        ]),
+        ("A stranger defended on principle", [
+            "no prior bond, only fairness &mdash;",
+            "unlike Sakka's other, personal causes",
+        ]),
+        ("A pun that reverses the title", [
+            "\"dalidda\" becomes \"adalidda\" &mdash;",
+            "not poor, truly prosperous",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.13.html">SN 11.13 &middot; With Mahāli</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.15.html">SN 11.15 &middot; Delightful</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.15 — Rāmaṇeyyakasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 15, "Rāmaṇeyyaka", "Delightful",
+    meta_title="SN 11.15 — Delightful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Rāmaṇeyyakasutta — Sakka asks what makes a place "
+        "delightful, and the Buddha's brief verse answers that no "
+        "scenery outweighs the presence of an accomplished person. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove"),
+        ("Speakers", "Sakka and the Buddha, in a brief direct "
+                     "exchange"),
+        ("Form", "A single question answered entirely in verse, with "
+                 "no narrative framing beyond the exchange itself"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, among this saṃyutta's "
+                       "shortest discourses"),
+    ],
+    why=(
+        "Sakka's question is simple and direct: what makes a place "
+        "delightful? The Buddha's answer doesn't describe scenery at "
+        "all &mdash; it dismisses it. Shrines in parks and forests, "
+        "even the finest lotus ponds, aren't worth a sixteenth part "
+        "of a single delightful human being, and any location "
+        "whatsoever &mdash; village or wilderness, valley or upland "
+        "&mdash; becomes delightful simply because a perfected one "
+        "lives there. In a handful of lines, the discourse relocates "
+        "what makes a place worth valuing from its physical qualities "
+        "entirely onto the character of whoever inhabits it."),
+    guide=[
+        ("A question about place, answered about people", [
+            "Sakka's question names physical qualities of landscape "
+            "&mdash; what makes ground delightful &mdash; but the "
+            "Buddha's answer pivots immediately away from geography "
+            "and toward the presence of a particular kind of person "
+            "instead."]),
+        ("Beauty named specifically before being outweighed", [
+            "The verse doesn't dismiss scenic beauty vaguely; it "
+            "names concrete, valued things &mdash; park shrines, "
+            "forest shrines, well-made lotus ponds &mdash; before "
+            "declaring them worth only a small fraction of what a "
+            "delightful person offers."]),
+        ("A precise proportion, not a vague preference", [
+            "The comparison isn't phrased as simple superiority; it's "
+            "given an exact fraction &mdash; not worth even a "
+            "sixteenth part &mdash; a specificity that makes the "
+            "claim feel measured rather than merely rhetorical."]),
+        ("Delightfulness relocated entirely", [
+            "By the verse's final lines, delightfulness has stopped "
+            "being a property of land at all; any terrain whatsoever "
+            "becomes delightful purely because of who lives there, "
+            "with no exception made for wilderness or low ground."]),
+        ("A teaching compact enough to remember whole", [
+            "Unlike many of this saṃyutta's longer episodes, this "
+            "discourse offers its entire teaching in two brief "
+            "verses &mdash; short enough to hold in mind complete, "
+            "rather than requiring a story to carry its point."]),
+    ],
+    terms=[
+        ("bhūmirāmaṇeyyakaṁ",
+         "&ldquo;a delightful place&rdquo; &mdash; Sakka's direct, "
+         "simple opening question."),
+        ("ārāmacetyā vanacetyā, pokkharaññosunimmitā",
+         "&ldquo;shrines in parks and forests, well-made lotus "
+         "ponds&rdquo; &mdash; the scenic beauty named specifically "
+         "before being outweighed."),
+        ("kalaṁ nāgghanti soḷasiṁ",
+         "&ldquo;not worth a sixteenth part&rdquo; &mdash; the "
+         "precise proportional comparison, more measured than a "
+         "vague claim of superiority."),
+        ("manussarāmaṇeyyassa",
+         "&ldquo;a delightful human being&rdquo; &mdash; what "
+         "actually outweighs even the finest scenery."),
+        ("yattha arahanto viharanti, taṁ bhūmirāmaṇeyyakaṁ",
+         "&ldquo;wherever the perfected ones live is a delightful "
+         "place&rdquo; &mdash; the verse's closing redefinition, "
+         "relocating delightfulness from land to person."),
+    ],
+    text_intro=(
+        "The discourse in full, one of this saṃyutta's shortest. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.15:1.1-1.3"),
+        ("p", "&sect;2", "sn11.15:2.1-2.4"),
+        ("p", "&sect;3", "sn11.15:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "What question does Sakka ask the Buddha?",
+         "opts": [
+             "What makes a place delightful",
+             "How to defeat the titans",
+             "Where the Buddha was born",
+             "What food is most delicious"],
+         "correct": 0,
+         "expl": "A simple, direct question opening this brief discourse."},
+        {"q": "How does the Buddha's answer initially engage with Sakka's question?",
+         "opts": [
+             "By naming specific scenic qualities before outweighing them",
+             "By refusing to answer the question at all",
+             "By describing his own birthplace in detail",
+             "By asking Sakka to answer his own question"],
+         "correct": 0,
+         "expl": "Concrete examples of valued scenery are named first."},
+        {"q": "What examples of scenic beauty does the verse name?",
+         "opts": [
+             "Park shrines, forest shrines, and well-made lotus ponds",
+             "Mountains and rivers",
+             "Palaces and treasuries",
+             "Battlefields and fortresses"],
+         "correct": 0,
+         "expl": "Specific, valued physical features named before being outweighed."},
+        {"q": "How much are these scenic features said to be worth compared to a delightful person?",
+         "opts": [
+             "Not even a sixteenth part",
+             "Exactly half as much",
+             "They are said to be worth more",
+             "They are said to be equally valuable"],
+         "correct": 0,
+         "expl": "A precise proportion, not a vague claim of superiority."},
+        {"q": "According to the verse's conclusion, what makes any location delightful?",
+         "opts": [
+             "The presence of a perfected one (an arahant) living there",
+             "Its natural scenic beauty alone",
+             "Its proximity to a major city",
+             "Its historical significance"],
+         "correct": 0,
+         "expl": "Delightfulness relocated entirely from land to person."},
+        {"q": "Does the verse make an exception for wilderness or low ground?",
+         "opts": [
+             "No — any terrain whatsoever becomes delightful given the right inhabitant",
+             "Yes, only villages can become delightful",
+             "Yes, only high ground can become delightful",
+             "Yes, wilderness is explicitly excluded"],
+         "correct": 0,
+         "expl": "The claim applies without exception across all terrain types."},
+        {"q": "How long is this discourse compared to many others in this saṃyutta?",
+         "opts": [
+             "Notably brief — the entire teaching fits in two short verses",
+             "Considerably longer, spanning many verses",
+             "Exactly the same length as SN 11.14",
+             "It contains no verse content at all"],
+         "correct": 0,
+         "expl": "Compact enough to hold in mind as a complete whole."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The setting for this brief exchange between Sakka and the Buddha."},
+        {"q": "Who initiates this exchange?",
+         "opts": [
+             "Sakka, approaching the Buddha and asking the question directly",
+             "The Buddha, calling Sakka to him",
+             "A group of monks, on Sakka's behalf",
+             "Vepacitti, on Sakka's behalf"],
+         "correct": 0,
+         "expl": "A direct, unmediated approach and question."},
+        {"q": "What broader shift does this discourse's teaching represent?",
+         "opts": [
+             "From valuing a place's physical qualities to valuing the character of its inhabitants",
+             "From valuing people to valuing physical geography",
+             "A rejection of the value of any location whatsoever",
+             "No shift; the teaching affirms only scenic beauty"],
+         "correct": 0,
+         "expl": "The core relocation of value at the heart of the verse."},
+    ],
+    marginalia=[
+        ("A question about land", [
+            "\"what is a delightful place?\" &mdash;",
+            "answered by pointing elsewhere",
+        ]),
+        ("Beauty named, then outweighed", [
+            "lotus ponds, shrines in the forest &mdash;",
+            "not worth a sixteenth part",
+        ]),
+        ("A precise fraction, not a vague claim", [
+            "measured, not merely rhetorical &mdash;",
+            "specificity giving the point weight",
+        ]),
+        ("Delightfulness, relocated entirely", [
+            "any ground, given the right person &mdash;",
+            "no exception for wilderness",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.14.html">SN 11.14 &middot; Poor</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.16.html">SN 11.16 &middot; Sponsoring Sacrifice</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.16 — Yajamānasutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 16, "Yajamāna", "Sponsoring Sacrifice",
+    meta_title="SN 11.16 — Sponsoring Sacrifice | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Yajamānasutta — Sakka asks where a merit-seeking gift "
+        "is most fruitful, and the Buddha's answer points to the "
+        "Saṅgha's eight kinds of persons rather than any ritual "
+        "sacrifice. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, Vulture's Peak Mountain"),
+        ("Speakers", "Sakka and the Buddha, in a brief direct "
+                     "exchange"),
+        ("Form", "A single question answered entirely in verse, "
+                 "mirroring SN 11.15's compact structure"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and direct, echoing the recollection "
+                       "formula from SN 11.3"),
+    ],
+    why=(
+        "Sakka's question is framed in the language of Vedic "
+        "sacrificial religion &mdash; where should merit-seeking "
+        "humans direct a gift for the greatest fruit? &mdash; and "
+        "the Buddha's answer quietly redirects the entire premise. "
+        "Rather than naming a ritual, a god, or a sacred site, he "
+        "names the Saṅgha itself: four practicing the path and four "
+        "established in the fruit, the same eight-person formula "
+        "already given in SN 11.3's recollection of the Saṅgha. What "
+        "a merit-seeker actually needs, the verse suggests, isn't a "
+        "better sacrifice but a better understanding of where "
+        "genuine spiritual accomplishment is actually found."),
+    guide=[
+        ("A question framed in sacrificial language", [
+            "Sakka doesn't ask an abstract philosophical question; he "
+            "uses the vocabulary of ritual sacrifice directly "
+            "&mdash; merit-seeking humans who sponsor sacrifices "
+            "&mdash; grounding the exchange in a religious practice "
+            "already familiar to his audience."]),
+        ("An answer that redirects rather than rejects", [
+            "The Buddha doesn't dismiss the premise of seeking "
+            "merit through giving; he redirects it toward a "
+            "specific, concrete recipient rather than arguing against "
+            "the practice of giving itself."]),
+        ("A formula recognizable from earlier in this saṃyutta", [
+            "The description of the Saṅgha as four practicing the "
+            "path and four established in the fruit repeats, almost "
+            "word for word, the same eight-person formula already "
+            "given in SN 11.3's recollection of the Saṅgha."]),
+        ("Three qualities named as the Saṅgha's foundation", [
+            "The verse doesn't simply assert the Saṅgha's worthiness; "
+            "it grounds that claim in three specific qualities "
+            "&mdash; wisdom, ethics, and immersion &mdash; naming "
+            "exactly what makes this particular recipient "
+            "exceptional."]),
+        ("A structure mirroring the discourse immediately before it", [
+            "Like SN 11.15, this discourse consists of a single "
+            "question and a brief verse answer, with no narrated "
+            "story &mdash; two short, paired discourses standing "
+            "back to back in this chapter."]),
+    ],
+    terms=[
+        ("yajamānānaṁ&hellip; puññapekkhāna pāṇinaṁ",
+         "&ldquo;merit-seeking creatures who sponsor "
+         "sacrifices&rdquo; &mdash; Sakka's question, framed in the "
+         "vocabulary of ritual sacrifice."),
+        ("kattha dinnaṁ mahapphalaṁ",
+         "&ldquo;where is a gift very fruitful?&rdquo; &mdash; the "
+         "practical question of where generosity is best directed."),
+        ("cattāro ca paṭipannā, cattāro ca phale ṭhitā",
+         "&ldquo;four practicing the path, and four established in "
+         "the fruit&rdquo; &mdash; the eight-person formula defining "
+         "the Saṅgha, echoing SN 11.3's recollection verbatim."),
+        ("esa saṅgho ujubhūto, paññāsīlasamāhito",
+         "&ldquo;this is the upright Saṅgha, with wisdom, ethics, "
+         "and immersion&rdquo; &mdash; the three qualities grounding "
+         "the Buddha's answer."),
+        ("saṅghe dinnaṁ mahapphalaṁ",
+         "&ldquo;what is given to the Saṅgha is very fruitful&rdquo; "
+         "&mdash; the verse's closing conclusion."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.16:1.1-1.3"),
+        ("p", "&sect;2", "sn11.16:2.1-2.4"),
+        ("p", "&sect;3", "sn11.16:3.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How does Sakka frame his question to the Buddha?",
+         "opts": [
+             "In the vocabulary of ritual sacrifice, asking where a gift is most fruitful",
+             "As a question about military strategy",
+             "As a question about the nature of the gods",
+             "As a challenge to the Buddha's authority"],
+         "correct": 0,
+         "expl": "Grounded in a religious practice already familiar to his audience."},
+        {"q": "Does the Buddha's answer reject the practice of giving for merit?",
+         "opts": [
+             "No — it redirects the giving toward a specific recipient rather than rejecting the practice",
+             "Yes, he condemns all forms of giving",
+             "Yes, he says merit cannot be gained through giving at all",
+             "He refuses to answer the question"],
+         "correct": 0,
+         "expl": "A redirection rather than an outright rejection of the premise."},
+        {"q": "What recipient does the Buddha name as most fruitful for giving?",
+         "opts": [
+             "The Saṅgha",
+             "A specific deity",
+             "Sakka himself",
+             "A sacred natural site"],
+         "correct": 0,
+         "expl": "The concrete answer replacing the premise of ritual sacrifice."},
+        {"q": "How is the Saṅgha described in this discourse's verse?",
+         "opts": [
+             "Four practicing the path and four established in the fruit",
+             "A single enlightened teacher",
+             "An assembly open only to gods",
+             "A group defined purely by wealth"],
+         "correct": 0,
+         "expl": "The eight-person formula echoing SN 11.3's recollection verbatim."},
+        {"q": "Where else in this saṃyutta does this exact eight-person formula appear?",
+         "opts": [
+             "SN 11.3, in the recollection of the Saṅgha",
+             "SN 11.1, in Sakka's exchange with Suvīra",
+             "SN 11.9, among the wilderness seers",
+             "Nowhere else; the formula is unique to this discourse"],
+         "correct": 0,
+         "expl": "A direct echo of the Dhajaggasutta's recollection formula."},
+        {"q": "What three qualities does the verse attribute to the Saṅgha?",
+         "opts": [
+             "Wisdom, ethics, and immersion",
+             "Wealth, status, and fame",
+             "Strength, courage, and speed",
+             "Age, seniority, and lineage"],
+         "correct": 0,
+         "expl": "The specific foundation grounding the Saṅgha's exceptional worthiness."},
+        {"q": "How does this discourse's structure compare to SN 11.15's?",
+         "opts": [
+             "Nearly identical — a single question answered by a brief verse, with no narrated story",
+             "Completely different, with an extended prose narrative",
+             "This discourse has no verse content at all",
+             "This discourse features multiple speakers debating"],
+         "correct": 0,
+         "expl": "Two short, structurally paired discourses standing back to back."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "Near Rājagaha, on Vulture's Peak Mountain",
+             "At Sāvatthī",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "A distinct setting from SN 11.15's Sāvatthī backdrop."},
+        {"q": "Who initiates this exchange?",
+         "opts": [
+             "Sakka, approaching the Buddha and asking directly",
+             "The Buddha, summoning Sakka",
+             "A group of merit-seeking humans, sending Sakka as messenger",
+             "Vepacitti, on Sakka's behalf"],
+         "correct": 0,
+         "expl": "A direct, unmediated approach, matching SN 11.15's pattern."},
+        {"q": "What does this discourse ultimately suggest a merit-seeker actually needs?",
+         "opts": [
+             "A better understanding of where genuine spiritual accomplishment is found, not a better ritual",
+             "A more elaborate sacrificial ceremony",
+             "A larger quantity of material wealth to give",
+             "Permission from Sakka before giving"],
+         "correct": 0,
+         "expl": "The core redirection underlying the Buddha's answer."},
+    ],
+    marginalia=[
+        ("A question in sacrificial language", [
+            "merit-seekers, sponsoring sacrifices &mdash;",
+            "familiar vocabulary, redirected",
+        ]),
+        ("Not rejected, but redirected", [
+            "giving affirmed, its target reconsidered &mdash;",
+            "toward a concrete, named recipient",
+        ]),
+        ("A formula echoed from three discourses back", [
+            "four on the path, four in the fruit &mdash;",
+            "the same eight persons as SN 11.3",
+        ]),
+        ("Two short discourses, one structure", [
+            "question, verse, nothing more &mdash;",
+            "mirroring SN 11.15 exactly",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.15.html">SN 11.15 &middot; Delightful</a> '
+        "&mdash; the discourse immediately before this one, sharing "
+        "the same compact question-and-verse structure.",
+        '<a href="sn-11.3.html">SN 11.3 &middot; The Banner&rsquo;s Crest</a> '
+        "&mdash; the earlier discourse whose recollection of the "
+        "Saṅgha uses the identical eight-person formula.",
+        '<a href="sn-11.17.html">SN 11.17 &middot; Homage to the Buddha</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.17 — Buddhavandanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 17, "Buddhavandanā", "Homage to the Buddha",
+    meta_title="SN 11.17 — Homage to the Buddha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Buddhavandanāsutta — Sakka offers a verse of praise for "
+        "the Buddha's liberation, and the Buddha corrects it, "
+        "redirecting homage into a request to teach for others' "
+        "benefit. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove — the Buddha in "
+                    "seclusion for the day's meditation"),
+        ("Speakers", "Sakka and the divinity Brahmā Sahampati, "
+                     "visiting the Buddha directly; the Buddha "
+                     "speaks as well, correcting Sakka's verse"),
+        ("Form", "A live visit built around two versions of the same "
+                 "verse of homage, one offered and one corrected"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a small change in wording carries the "
+                       "discourse's entire point"),
+    ],
+    why=(
+        "Sakka's verse of praise for the meditating Buddha is "
+        "generous and admiring &mdash; rise, victor, your mind fully "
+        "liberated like the full moon &mdash; the kind of homage "
+        "that seems, on its face, hard to improve on. Yet the Buddha "
+        "corrects it directly: that's not how the Realized Ones "
+        "should be honored. The revised verse changes only its final "
+        "two lines, but the change is the entire point &mdash; where "
+        "Sakka's version marveled at the Buddha's own private "
+        "accomplishment, the corrected version asks him to teach, "
+        "because there will be those who understand. Genuine homage, "
+        "the discourse suggests, requests something for others, not "
+        "just admiration for the one being praised."),
+    guide=[
+        ("A silence broken from an earlier discourse", [
+            "In SN 11.8, the Buddha remained entirely silent while "
+            "Sakka and Verocana traded competing verses in his "
+            "presence; here, faced with a verse offered specifically "
+            "in his own honor, he speaks up directly to correct it."]),
+        ("Praise that isn't rejected as false, only as incomplete", [
+            "The Buddha doesn't say Sakka's original verse is wrong "
+            "about anything &mdash; his mind genuinely is fully "
+            "liberated &mdash; the correction isn't about accuracy "
+            "but about what proper homage should actually "
+            "accomplish."]),
+        ("A minimal edit carrying the discourse's entire weight", [
+            "The two verses share their first two lines nearly word "
+            "for word; the substance of the Buddha's correction lives "
+            "entirely in the final two lines, where admiration for "
+            "his liberated mind is replaced with a direct request "
+            "that he teach."]),
+        ("Homage redirected from the giver's benefit outward", [
+            "Sakka's original version centers entirely on the "
+            "Buddha's own accomplished state; the corrected version "
+            "reframes homage as something that should produce a "
+            "benefit for others &mdash; those who will come to "
+            "understand through his teaching."]),
+        ("Two visitors present, but only one speaks", [
+            "Brahmā Sahampati stands at the Buddha's side throughout "
+            "this exchange without a single recorded word, present "
+            "as a witness to Sakka's correction rather than a "
+            "participant in it."]),
+    ],
+    terms=[
+        ("paccekaṁ dvārabāhaṁ nissāya aṭṭhaṁsu",
+         "&ldquo;stationed themselves one by each door-post&rdquo; "
+         "&mdash; the same staging used in SN 11.8, here with "
+         "Sahampati rather than Verocana."),
+        ("uṭṭhehi vīra vijitasaṅgāma&hellip; cittañca te suvimuttaṁ, cando yathā pannarasāya rattiṁ",
+         "&ldquo;rise, hero, victor in battle&hellip; your mind is "
+         "fully liberated, like the moon on the fifteenth night&rdquo; "
+         "&mdash; Sakka's original, admiring but incomplete verse."),
+        ("na kho, devānaminda, tathāgatā evaṁ vanditabbā",
+         "&ldquo;lord of gods, that's not how to pay homage to the "
+         "Realized Ones&rdquo; &mdash; the Buddha's direct correction, "
+         "breaking his silence from SN 11.8."),
+        ("satthavāha",
+         "&ldquo;caravan leader&rdquo; &mdash; a term the Buddha "
+         "substitutes into the corrected verse's opening lines."),
+        ("desassu bhagavā dhammaṁ, aññātāro bhavissanti",
+         "&ldquo;let the Blessed One teach the Dhamma! There will "
+         "be those who understand!&rdquo; &mdash; the corrected "
+         "verse's actual point, redirecting homage toward others' "
+         "benefit."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.17:1.1-1.4"),
+        ("p", "&sect;2", "sn11.17:2.1-2.4"),
+        ("p", "&sect;3", "sn11.17:3.1-3.2"),
+        ("p", "&sect;4", "sn11.17:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's Buddha differ from the Buddha in SN 11.8's similar visit?",
+         "opts": [
+             "Here he speaks directly to correct Sakka's verse, rather than remaining silent",
+             "Here he refuses to acknowledge either visitor",
+             "Here he leaves before the exchange concludes",
+             "There is no difference; both discourses are identical"],
+         "correct": 0,
+         "expl": "A silence broken from the earlier discourse's pattern."},
+        {"q": "What does Sakka's original verse praise about the Buddha?",
+         "opts": [
+             "His fully liberated mind, compared to the full moon",
+             "His physical strength in battle",
+             "His wealth and possessions",
+             "His skill in debate"],
+         "correct": 0,
+         "expl": "Genuine, admiring praise for the Buddha's own accomplished state."},
+        {"q": "Does the Buddha say Sakka's original verse is factually wrong?",
+         "opts": [
+             "No — the correction is about what proper homage should accomplish, not accuracy",
+             "Yes, he denies his mind is liberated",
+             "Yes, he denies being a victor in any sense",
+             "He refuses to address the verse's content at all"],
+         "correct": 0,
+         "expl": "Praise rejected as incomplete, not as false."},
+        {"q": "How much of the verse does the Buddha's correction actually change?",
+         "opts": [
+             "Only the final two lines; the opening lines remain nearly identical",
+             "The entire verse, with no lines shared between versions",
+             "Only a single word",
+             "The correction adds an entirely new verse rather than editing the original"],
+         "correct": 0,
+         "expl": "A minimal edit carrying the discourse's entire weight."},
+        {"q": "What does the corrected verse ask the Buddha to do, replacing Sakka's admiration of his liberated mind?",
+         "opts": [
+             "Teach the Dhamma, so that others will come to understand",
+             "Return to the Palace of Victory with Sakka",
+             "Demonstrate a supernatural power",
+             "Remain silent permanently"],
+         "correct": 0,
+         "expl": "Homage redirected toward a benefit for others."},
+        {"q": "Who else is present during this exchange, alongside Sakka?",
+         "opts": [
+             "The divinity Brahmā Sahampati, who says nothing throughout",
+             "Vepacitti, who objects to Sakka's verse",
+             "Mātali, who suggests the correction himself",
+             "A group of unnamed seers"],
+         "correct": 0,
+         "expl": "A silent witness to Sakka's correction rather than a participant."},
+        {"q": "What broader point does the discourse make about proper homage?",
+         "opts": [
+             "That it should produce a benefit for others, not just admire the one being praised",
+             "That homage should never be offered under any circumstances",
+             "That only Sakka is qualified to offer homage to a Buddha",
+             "That homage should focus exclusively on physical description"],
+         "correct": 0,
+         "expl": "The central teaching underlying the Buddha's correction."},
+        {"q": "What term does the corrected verse use in place of comparing the Buddha's mind to the moon?",
+         "opts": [
+             "Caravan leader (satthavāha)",
+             "King of the gods",
+             "Lord of titans",
+             "No replacement term is used"],
+         "correct": 0,
+         "expl": "A term shifting the focus from private accomplishment to guiding others."},
+        {"q": "What is the Buddha doing when Sakka and Sahampati arrive?",
+         "opts": [
+             "In seclusion for the day's meditation",
+             "Teaching a large assembly",
+             "Traveling between towns",
+             "Resolving a dispute between deities"],
+         "correct": 0,
+         "expl": "The same setting used in SN 11.8's similar visit."},
+        {"q": "Where does this exchange take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting for this saṃyutta's live-visit discourses."},
+    ],
+    marginalia=[
+        ("A silence broken this time", [
+            "unlike SN 11.8's quiet witness &mdash;",
+            "here, a direct correction",
+        ]),
+        ("Not false, just incomplete", [
+            "the mind truly is liberated &mdash;",
+            "praise alone isn't enough",
+        ]),
+        ("Two lines changed, the whole point shifted", [
+            "admiration replaced with a request &mdash;",
+            "teach, so others may understand",
+        ]),
+        ("A witness who never speaks", [
+            "Sahampati present, silent throughout &mdash;",
+            "the correction belongs to Sakka alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.16.html">SN 11.16 &middot; Sponsoring Sacrifice</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-11.8.html">SN 11.8 &middot; Verocana, Lord of Titans</a> '
+        "&mdash; the earlier live-visit discourse where the Buddha "
+        "remained entirely silent, unlike here.",
+        '<a href="sn-11.18.html">SN 11.18 &middot; Who Sakka Worships</a> '
+        "&mdash; the next discourse, on homage offered in the "
+        "opposite direction.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.18 — Gahaṭṭhavandanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 18, "Gahaṭṭhavandanā", "Who Sakka Worships",
+    meta_title="SN 11.18 — Who Sakka Worships | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gahaṭṭhavandanāsutta — worshipped by brahmins, "
+        "aristocrats, and gods alike, Sakka pauses before a pleasure "
+        "outing to reveal who he himself reveres. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and his charioteer Mātali"),
+        ("Form", "A narrated episode built around a single question "
+                 "and Sakka's verse reply"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "pairs naturally with SN 11.17 on the same "
+                       "theme of homage, from the opposite direction"),
+    ],
+    why=(
+        "Before setting out for a simple pleasure outing to see the "
+        "scenery, Sakka pauses to bow toward the four directions with "
+        "cupped palms &mdash; a private habit that puzzles Mātali "
+        "enough to ask directly: brahmins, aristocrats, even the "
+        "great kings and gods all worship you, Sakka, so what spirit "
+        "do you yourself worship? Sakka's answer names two groups "
+        "&mdash; those who have rightly gone forth for the spiritual "
+        "life, and ethical householders who provide for their "
+        "families in a principled way &mdash; revealing that even "
+        "the figure worshipped by literally everyone still directs "
+        "his own reverence downward and outward, not upward toward "
+        "no one at all."),
+    guide=[
+        ("An ordinary occasion framing an unexpected question", [
+            "The setting couldn't be more casual &mdash; Sakka simply "
+            "wants to go see some scenery &mdash; making the depth "
+            "of what follows land with more weight for how "
+            "unassuming its context is."]),
+        ("A private habit noticed and questioned", [
+            "Mātali doesn't ask Sakka to explain himself out of "
+            "nowhere; he notices a specific, repeated gesture "
+            "&mdash; cupped palms toward the four directions &mdash; "
+            "and asks about it directly, prompting the discourse's "
+            "actual content."]),
+        ("A question that names Sakka's own status first", [
+            "Mātali's question doesn't simply ask who Sakka worships; "
+            "it first lists everyone who worships Sakka himself "
+            "&mdash; brahmins, aristocrats, the four great kings, the "
+            "gods of the Thirty-Three &mdash; making the question's "
+            "implicit puzzle explicit before asking it."]),
+        ("Two groups named, not one", [
+            "Sakka's answer doesn't single out only the fully "
+            "ordained; he explicitly includes ethical lay "
+            "householders who provide for their families in a "
+            "principled way, extending his reverence beyond the "
+            "monastic community alone &mdash; the detail that gives "
+            "this discourse its title."]),
+        ("A companion piece to the discourse before it", [
+            "Where SN 11.17 concerns how homage should properly be "
+            "offered to a Buddha, this discourse turns the same "
+            "theme in the opposite direction &mdash; not how Sakka "
+            "should be worshipped, but who Sakka himself chooses to "
+            "worship despite being worshipped by everyone."]),
+    ],
+    terms=[
+        ("uyyānabhūmiṁ gacchāma subhūmiṁ dassanāya",
+         "&ldquo;we will go to a park and see the scenery&rdquo; "
+         "&mdash; the light, ordinary occasion framing the "
+         "discourse's actual depth."),
+        ("añjaliṁ katvā&hellip; puthuddisā namassati",
+         "&ldquo;raised his cupped palms&hellip; revered the various "
+         "quarters&rdquo; &mdash; Sakka's private habitual gesture, "
+         "prompting Mātali's question."),
+        ("ko nāma so yakkho, yaṁ tvaṁ sakka namassasi",
+         "&ldquo;what's the name of the spirit that you worship, "
+         "Sakka?&rdquo; &mdash; Mātali's question, posed only after "
+         "naming everyone who worships Sakka himself."),
+        ("sīlasampanne&hellip; sammāpabbajite&hellip; brahmacariyaparāyane",
+         "&ldquo;those accomplished in ethics&hellip; who have "
+         "rightly gone forth&hellip; for the culmination of spiritual "
+         "life&rdquo; &mdash; the first group Sakka names."),
+        ("ye gahaṭṭhā puññakarā, sīlavanto upāsakā",
+         "&ldquo;householders who make merit, ethical lay "
+         "followers&rdquo; &mdash; the second group, giving this "
+         "discourse its title."),
+    ],
+    text_intro=(
+        "The discourse in full. The prose opening is abbreviated in "
+        "the source with the standard framing formula, elided here "
+        "as in the original. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.18:1.3-1.9"),
+        ("p", "&sect;2", "sn11.18:2.1-2.6"),
+        ("p", "&sect;3", "sn11.18:3.1-4.4"),
+        ("p", "&sect;4", "sn11.18:5.1-5.4"),
+        ("p", "&sect;5", "sn11.18:6.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What ordinary occasion frames this discourse's opening?",
+         "opts": [
+             "Sakka setting out on a pleasure outing to see the scenery",
+             "A battle against the titans",
+             "A formal verse contest",
+             "A visit to the meditating Buddha"],
+         "correct": 0,
+         "expl": "A casual setting that makes what follows land with more weight."},
+        {"q": "What does Mātali notice that prompts his question?",
+         "opts": [
+             "Sakka's habit of bowing with cupped palms toward the four directions",
+             "Sakka refusing to enter the chariot",
+             "Sakka arguing with an unseen figure",
+             "Sakka weeping before departing"],
+         "correct": 0,
+         "expl": "A private, repeated gesture that draws Mātali's curiosity."},
+        {"q": "How does Mātali's question frame the puzzle before asking it?",
+         "opts": [
+             "By first listing everyone who worships Sakka himself",
+             "By first accusing Sakka of hypocrisy",
+             "By first asking Sakka to name his greatest enemy",
+             "By first describing the scenery they are traveling to see"],
+         "correct": 0,
+         "expl": "Making the implicit puzzle explicit before posing the direct question."},
+        {"q": "Who does Mātali say worships Sakka?",
+         "opts": [
+             "Brahmins versed in the Vedas, aristocrats, the four great kings, and the gods",
+             "Only the gods of the Thirty-Three",
+             "Only human beings",
+             "No one; Mātali claims Sakka is worshipped by nobody"],
+         "correct": 0,
+         "expl": "A comprehensive list spanning humans and gods alike."},
+        {"q": "What first group does Sakka name as objects of his own reverence?",
+         "opts": [
+             "Those accomplished in ethics who have rightly gone forth for the spiritual life",
+             "Wealthy merchants",
+             "Fellow gods of the Thirty-Three",
+             "Titans who have surrendered"],
+         "correct": 0,
+         "expl": "The fully ordained monastic community."},
+        {"q": "What second group does Sakka also name, giving this discourse its title?",
+         "opts": [
+             "Ethical householders who provide for their families in a principled way",
+             "Kings and aristocrats",
+             "Brahmins versed in the Vedas",
+             "No second group is named"],
+         "correct": 0,
+         "expl": "Extending reverence beyond the monastic community alone."},
+        {"q": "How does Mātali respond to Sakka's answer?",
+         "opts": [
+             "He declares he too will worship whoever Sakka worships",
+             "He dismisses the answer as unsatisfying",
+             "He argues Sakka should worship no one",
+             "He remains silent with no response"],
+         "correct": 0,
+         "expl": "An endorsement of Sakka's chosen objects of reverence."},
+        {"q": "How does this discourse relate to SN 11.17?",
+         "opts": [
+             "It turns the same theme of homage in the opposite direction",
+             "It shares no thematic connection with SN 11.17",
+             "It directly contradicts SN 11.17's teaching",
+             "It repeats SN 11.17's verses word for word"],
+         "correct": 0,
+         "expl": "A companion piece exploring who Sakka worships, rather than how he should be worshipped."},
+        {"q": "What epithet is used for Sakka in the discourse's closing lines?",
+         "opts": [
+             "Sujā's husband",
+             "Lord of the titans",
+             "The Progenitor",
+             "The elder god"],
+         "correct": 0,
+         "expl": "A familiar epithet, explained earlier in SN 11.12."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("An ordinary errand, not a crisis", [
+            "just a trip to see the scenery &mdash;",
+            "depth arriving unannounced",
+        ]),
+        ("A private gesture, publicly questioned", [
+            "cupped palms toward the four directions &mdash;",
+            "Mātali finally asks why",
+        ]),
+        ("Worshipped by all, still bowing outward", [
+            "brahmins, kings, gods &mdash; and yet &mdash;",
+            "reverence still flows from Sakka too",
+        ]),
+        ("Two groups, not one", [
+            "the ordained, and ethical householders &mdash;",
+            "reverence not reserved for monastics alone",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.17.html">SN 11.17 &middot; Homage to the Buddha</a> '
+        "&mdash; the discourse immediately before this one, on the "
+        "same theme of homage from the opposite direction.",
+        '<a href="sn-11.19.html">SN 11.19 &middot; Ungrateful</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.19 — Satthāravandanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 19, "Satthāravandanā", "Who Sakka Worships",
+    meta_title="SN 11.19 — Who Sakka Worships | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Satthāravandanāsutta — a close companion to SN 11.18, "
+        "sharing its English title by translator's choice but "
+        "narrowing the object of Sakka's reverence to the Buddha, "
+        "arahants, and trainees specifically. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and his charioteer Mātali"),
+        ("Form", "A narrated episode built around a single question "
+                 "and Sakka's verse reply, closely paralleling SN "
+                 "11.18's structure"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "closely related to SN 11.18, worth reading "
+                       "for exactly what differs"),
+    ],
+    why=(
+        "This discourse shares its English title with SN 11.18 "
+        "&mdash; a translator's choice, since the two carry distinct "
+        "Pali titles &mdash; and follows nearly the same scene: Sakka "
+        "pausing before a pleasure outing to bow in reverence, "
+        "prompting Mātali's question about who could possibly command "
+        "the worship of one worshipped by everyone. But where SN "
+        "11.18 has Sakka bow generally toward the four directions and "
+        "name two broad groups, here he bows specifically toward the "
+        "Buddha and answers with a precise three-tier hierarchy: the "
+        "Buddha himself, then arahants whose defilements have ended, "
+        "then trainees still diligently pursuing the path."),
+    guide=[
+        ("A shared English title, but not a shared Pali one", [
+            "Sujato's translation gives this discourse the identical "
+            "English title as SN 11.18, \"Who Sakka Worships\"; the "
+            "underlying Pali titles differ &mdash; Satthāravandanāsutta "
+            "here, \"homage to the teacher,\" versus Gahaṭṭhavandanāsutta "
+            "there &mdash; a naming coincidence worth flagging rather "
+            "than treating the two as identical."]),
+        ("A specific object of reverence, not a general gesture", [
+            "SN 11.18 has Sakka bow toward the four directions "
+            "generally; here he bows specifically toward the Buddha "
+            "&mdash; a small but meaningful narrowing of the scene's "
+            "focus from the outset."]),
+        ("Three tiers named, not two broad groups", [
+            "Rather than SN 11.18's two categories &mdash; the "
+            "ordained and ethical householders &mdash; this "
+            "discourse's answer specifies three distinct tiers: the "
+            "Buddha himself, arahants whose defilements have fully "
+            "ended, and trainees still pursuing the path."]),
+        ("The Buddha named first and separately", [
+            "Where SN 11.18's answer began with monastics in general, "
+            "here the Buddha is named as his own distinct, first "
+            "category &mdash; placed above even the fully perfected "
+            "arahants who follow in the second tier."]),
+        ("Precise technical language for those still training", [
+            "The third tier uses the specific term sekkha, denoting "
+            "someone still in training on the path rather than "
+            "already perfected &mdash; a degree of technical "
+            "precision absent from SN 11.18's more general phrasing."]),
+    ],
+    terms=[
+        ("bhagavantaṁ namassati",
+         "&ldquo;revered the Buddha&rdquo; &mdash; Sakka's gesture "
+         "directed specifically at the Buddha, unlike SN 11.18's "
+         "general bow toward the four directions."),
+        ("yañhi devā manussā ca, taṁ namassanti vāsava",
+         "&ldquo;gods and men worship you, Vāsava&rdquo; &mdash; "
+         "Mātali's question, more concise than SN 11.18's fuller "
+         "list of worshippers."),
+        ("yo idha sammāsambuddho&hellip; anomanāmaṁ satthāraṁ",
+         "&ldquo;the fully awakened Buddha, the Teacher of peerless "
+         "name&rdquo; &mdash; Sakka's first and most specific answer, "
+         "naming the Buddha as his own distinct category."),
+        ("khīṇāsavā arahanto",
+         "&ldquo;perfected ones with defilements ended&rdquo; "
+         "&mdash; the second tier, using precise technical language "
+         "absent from SN 11.18."),
+        ("sekkhā apacayārāmā, appamattānusikkhare",
+         "&ldquo;trainees who enjoy reducing suffering, diligently "
+         "pursuing the training&rdquo; &mdash; the third tier, "
+         "naming those still on the path rather than already "
+         "perfected."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.19:1.1-1.6"),
+        ("p", "&sect;2", "sn11.19:1.7-1.8"),
+        ("p", "&sect;3", "sn11.19:2.1-2.4"),
+        ("p", "&sect;4", "sn11.19:3.1-5.5"),
+        ("p", "&sect;5", "sn11.19:6.1-7.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's English title relate to SN 11.18's?",
+         "opts": [
+             "It's identical by translator's choice, though the underlying Pali titles differ",
+             "It is completely unrelated in wording",
+             "It directly contradicts SN 11.18's title",
+             "This discourse has no English title at all"],
+         "correct": 0,
+         "expl": "A naming coincidence worth flagging rather than treating the two as identical."},
+        {"q": "Toward what does Sakka direct his reverence at the discourse's opening, unlike SN 11.18?",
+         "opts": [
+             "Specifically the Buddha, rather than the four directions generally",
+             "His own charioteer, Mātali",
+             "The titan lord Vepacitti",
+             "A distant mountain peak"],
+         "correct": 0,
+         "expl": "A narrowing of focus from SN 11.18's more general gesture."},
+        {"q": "How many tiers does Sakka's answer specify, compared to SN 11.18's two groups?",
+         "opts": [
+             "Three distinct tiers",
+             "Exactly the same two groups as SN 11.18",
+             "A single, undifferentiated group",
+             "Five separate tiers"],
+         "correct": 0,
+         "expl": "A more precise hierarchy than SN 11.18's broader categories."},
+        {"q": "Who does Sakka name as the first and most specific object of his worship?",
+         "opts": [
+             "The Buddha himself, named as a distinct category",
+             "Mātali, his own charioteer",
+             "The four great kings",
+             "Ethical householders generally"],
+         "correct": 0,
+         "expl": "Placed above even the arahants who follow in the second tier."},
+        {"q": "What term describes the second tier, those with defilements ended?",
+         "opts": [
+             "Khīṇāsava arahanto — perfected ones with defilements ended",
+             "Sekkha — trainees still on the path",
+             "Yakkha — spirits",
+             "Devaputta — godlings"],
+         "correct": 0,
+         "expl": "Precise technical language for the fully perfected."},
+        {"q": "What term describes the third tier, those still pursuing the path?",
+         "opts": [
+             "Sekkha — trainees still in training",
+             "Arahanto — fully perfected ones",
+             "Brahmā — a specific class of deity",
+             "Yakkha — spirits"],
+         "correct": 0,
+         "expl": "A degree of technical precision absent from SN 11.18's more general phrasing."},
+        {"q": "How does Mātali respond to Sakka's threefold answer?",
+         "opts": [
+             "He declares he too will worship whoever Sakka worships",
+             "He argues the hierarchy is incorrect",
+             "He remains silent with no reply",
+             "He challenges Sakka to a debate"],
+         "correct": 0,
+         "expl": "The same endorsement given in SN 11.18's closing."},
+        {"q": "What is the underlying Pali title of this discourse?",
+         "opts": [
+             "Satthāravandanāsutta, \"homage to the teacher\"",
+             "Gahaṭṭhavandanāsutta, the same as SN 11.18",
+             "Buddhavandanāsutta, the same as SN 11.17",
+             "This discourse has no Pali title recorded"],
+         "correct": 0,
+         "expl": "Distinct from SN 11.18's Gahaṭṭhavandanāsutta despite the shared English rendering."},
+        {"q": "What ordinary occasion frames this discourse, as in SN 11.18?",
+         "opts": [
+             "Sakka setting out on a pleasure outing to see the scenery",
+             "A formal verse contest before judges",
+             "A battle against the titans",
+             "A visit to the meditating Buddha"],
+         "correct": 0,
+         "expl": "The same casual framing device used in SN 11.18."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("Same title, different discourse", [
+            "Sujato's English coincides, Pali doesn't &mdash;",
+            "worth reading as companions, not duplicates",
+        ]),
+        ("A bow narrowed to one object", [
+            "not the four directions this time &mdash;",
+            "the Buddha specifically",
+        ]),
+        ("Three tiers, precisely named", [
+            "Buddha, then arahants, then trainees &mdash;",
+            "more exact than SN 11.18's broader groups",
+        ]),
+        ("The Buddha placed first, on his own", [
+            "above even the perfected arahants &mdash;",
+            "a category not named at all in SN 11.18",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.18.html">SN 11.18 &middot; Who Sakka Worships</a> '
+        "&mdash; the closely related discourse immediately before "
+        "this one, sharing its English title but not its Pali one.",
+        '<a href="sn-11.20.html">SN 11.20 &middot; Who Sakka Worships</a> '
+        "&mdash; the next discourse, closing this saṃyutta's second "
+        "chapter with a third variation on the same title, this time "
+        "on homage to the Saṅgha.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 11.20 — Saṅghavandanāsutta
+# --------------------------------------------------------------------------- #
+page(
+    11, 20, "Saṅghavandanā", "Who Sakka Worships",
+    meta_title="SN 11.20 — Who Sakka Worships | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṅghavandanāsutta — closing Dutiyavagga, Mātali "
+        "mocks the mendicant life as wretched and asks why Sakka "
+        "envies it, and Sakka's reply is the fullest defense of "
+        "monastic non-attachment in this trilogy. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī — the Buddha narrating a story from "
+                    "the world of the gods"),
+        ("Speakers", "The Buddha, addressing the mendicants; within "
+                     "the story, Sakka and his charioteer Mātali"),
+        ("Form", "A narrated episode closing this saṃyutta's second "
+                 "chapter, the third and most pointed installment "
+                 "of the \"Who Sakka Worships\" trilogy"),
+        ("Length", "~3.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the sharpest challenge and fullest answer in "
+                       "the trilogy it closes"),
+    ],
+    why=(
+        "Where SN 11.18 and SN 11.19 have Mātali question Sakka's "
+        "reverence with curiosity, this closing installment sharpens "
+        "the challenge into something closer to mockery: the "
+        "mendicants, Mātali says, are humans stuck in putrid bodies, "
+        "sunk in a carcass, stricken by hunger and thirst &mdash; so "
+        "why does Sakka envy their homeless life at all? Sakka's "
+        "answer doesn't deflect the description; it directly reclaims "
+        "it, praising exactly the non-attachment, the freedom from "
+        "storerooms and possessions, and the refusal to fight even "
+        "amid a world of conflict, that Mātali had just called "
+        "wretched."),
+    guide=[
+        ("The sharpest challenge in the trilogy", [
+            "SN 11.18 and SN 11.19 have Mātali ask his question with "
+            "simple curiosity; here his framing is openly "
+            "unflattering, describing the mendicants' bodies in "
+            "blunt, unpleasant terms before asking why Sakka would "
+            "envy such a life at all."]),
+        ("Envy named explicitly, not merely reverence", [
+            "Unlike the earlier two discourses, Mātali doesn't just "
+            "ask who Sakka worships; he specifically accuses Sakka of "
+            "envy toward the homeless, a sharper and more personal "
+            "framing of the same underlying question."]),
+        ("A description reclaimed rather than denied", [
+            "Sakka doesn't dispute Mātali's unflattering physical "
+            "description or soften it; he simply answers with what "
+            "actually earns his admiration &mdash; qualities of "
+            "conduct and freedom, not physical comfort."]),
+        ("Non-attachment described in concrete, specific terms", [
+            "Sakka's praise isn't abstract; he names precisely what "
+            "he admires &mdash; leaving a village without concern, "
+            "hoarding nothing in storerooms or baskets, living on "
+            "food prepared by others while keeping their vows."]),
+        ("A closing image of non-violence amid universal conflict", [
+            "The discourse's final image widens the frame beyond "
+            "personal virtue: gods fight titans and mortals fight "
+            "each other, yet the mendicants Sakka praises remain "
+            "unfighting even among those who fight &mdash; a fitting "
+            "closing note for the chapter and for the trilogy it "
+            "completes."]),
+    ],
+    terms=[
+        ("bhikkhusaṅghaṁ namassati",
+         "&ldquo;revered the mendicant Saṅgha&rdquo; &mdash; the "
+         "third and most specific object of reverence across this "
+         "trilogy of discourses."),
+        ("pūtidehasayā narā&hellip; khuppipāsasamappitā",
+         "&ldquo;humans stuck in their putrid bodies&hellip; "
+         "stricken by hunger and thirst&rdquo; &mdash; Mātali's "
+         "unusually blunt, unflattering description of the "
+         "mendicants."),
+        ("kiṁ nu tesaṁ pihayasi, anāgārāna vāsava",
+         "&ldquo;why then do you envy those who are homeless, "
+         "Vāsava?&rdquo; &mdash; Mātali's pointed challenge, framing "
+         "Sakka's reverence as envy rather than mere admiration."),
+        ("yamhā gāmā pakkamanti, anapekkhā vajanti te",
+         "&ldquo;when they leave a village, they proceed without "
+         "concern&rdquo; &mdash; the core of Sakka's admiring "
+         "description, on freedom from attachment."),
+        ("aviruddhā viruddhesu, attadaṇḍesu nibbutā",
+         "&ldquo;not fighting among those who fight, quenched among "
+         "those who have taken up arms&rdquo; &mdash; the climactic "
+         "description, on non-violence amid a world of conflict."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Dutiyavagga's three-part "
+        "&ldquo;Who Sakka Worships&rdquo; trilogy and this chapter. "
+        "The chapter's closing summary verse, listing all ten "
+        "discourse titles, is a structural index and is not "
+        "reproduced as running prose here. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn11.20:1.3-1.7"),
+        ("p", "&sect;2", "sn11.20:1.8-1.9"),
+        ("p", "&sect;3", "sn11.20:2.1-3.4"),
+        ("p", "&sect;4", "sn11.20:4.1-5.4"),
+        ("p", "&sect;5", "sn11.20:6.1-7.4"),
+        ("p", "&sect;6", "sn11.20:8.1-9.4"),
+    ],
+    quiz=[
+        {"q": "How does Mātali's challenge in this discourse differ from SN 11.18 and SN 11.19?",
+         "opts": [
+             "It is sharper, framed with an unflattering physical description of the mendicants",
+             "It is identical in tone to the earlier two discourses",
+             "Mātali asks no question at all in this version",
+             "Mātali praises the mendicants before Sakka speaks"],
+         "correct": 0,
+         "expl": "The sharpest challenge across the trilogy."},
+        {"q": "How does Mātali describe the mendicants' bodies?",
+         "opts": [
+             "As putrid, sunk in a carcass, stricken by hunger and thirst",
+             "As radiant and beautiful",
+             "As indistinguishable from the gods' own bodies",
+             "He offers no physical description at all"],
+         "correct": 0,
+         "expl": "An unusually blunt, unflattering framing."},
+        {"q": "What specific accusation does Mātali level at Sakka in this discourse?",
+         "opts": [
+             "That Sakka envies the homeless mendicant life",
+             "That Sakka has broken his own vows",
+             "That Sakka secretly worships Vepacitti",
+             "That Sakka has abandoned the gods entirely"],
+         "correct": 0,
+         "expl": "A sharper, more personal framing than the earlier two discourses' simple curiosity."},
+        {"q": "How does Sakka respond to Mātali's unflattering description?",
+         "opts": [
+             "He doesn't dispute it; he answers with what actually earns his admiration instead",
+             "He angrily denies the description is accurate",
+             "He admits Mātali is correct and withdraws his reverence",
+             "He refuses to answer the question"],
+         "correct": 0,
+         "expl": "A description reclaimed rather than denied or softened."},
+        {"q": "What specific behavior does Sakka name as admirable about leaving a village?",
+         "opts": [
+             "Proceeding without concern, free of attachment",
+             "Taking as many possessions as possible",
+             "Never returning to that village again",
+             "Demanding formal farewells from residents"],
+         "correct": 0,
+         "expl": "Concrete, specific praise rather than abstract admiration."},
+        {"q": "What do the mendicants NOT do, according to Sakka's description?",
+         "opts": [
+             "Hoard goods in storerooms, pots, or baskets",
+             "Practice meditation",
+             "Speak to one another",
+             "Travel between villages"],
+         "correct": 0,
+         "expl": "A concrete marker of their non-attachment to possessions."},
+        {"q": "What closing image widens this discourse's frame beyond personal virtue?",
+         "opts": [
+             "Gods fighting titans and mortals fighting each other, while the mendicants remain unfighting",
+             "A description of the four great kings",
+             "A list of Sakka's seven vows",
+             "A description of the titan citadel"],
+         "correct": 0,
+         "expl": "A fitting closing image for both this discourse and the trilogy it completes."},
+        {"q": "What does this discourse close, structurally, within Sakkasaṃyutta?",
+         "opts": [
+             "Dutiyavagga, the saṃyutta's second chapter of ten discourses",
+             "The entire saṃyutta of twenty-five discourses",
+             "Only Paṭhamavagga, which actually closed earlier",
+             "Nothing; more discourses in this chapter follow"],
+         "correct": 0,
+         "expl": "Confirmed by the chapter's closing summary verse."},
+        {"q": "What is the underlying Pali title of this discourse?",
+         "opts": [
+             "Saṅghavandanāsutta, \"homage to the Saṅgha\"",
+             "Gahaṭṭhavandanāsutta, the same as SN 11.18",
+             "Satthāravandanāsutta, the same as SN 11.19",
+             "This discourse has no distinct Pali title"],
+         "correct": 0,
+         "expl": "Distinct from SN 11.18 and SN 11.19 despite sharing their English rendering."},
+        {"q": "Where does the Buddha narrate this story to the monks?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "Near Āḷavī"],
+         "correct": 0,
+         "expl": "The consistent setting across most of this saṃyutta's discourses."},
+    ],
+    marginalia=[
+        ("Mockery, not mere curiosity", [
+            "\"putrid bodies... sunk in a carcass\" &mdash;",
+            "the sharpest framing of the trilogy",
+        ]),
+        ("Envy named outright", [
+            "\"why do you envy the homeless?\" &mdash;",
+            "a more personal accusation than before",
+        ]),
+        ("Reclaimed, not denied", [
+            "the description accepted, its meaning flipped &mdash;",
+            "wretchedness reread as freedom",
+        ]),
+        ("Unfighting, amid a world at war", [
+            "gods against titans, mortals against each other &mdash;",
+            "the mendicants remain apart from it all",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn11.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-11.19.html">SN 11.19 &middot; Who Sakka Worships</a> '
+        "&mdash; the discourse immediately before this one, the "
+        "second installment of the same trilogy.",
+        '<a href="sn-11.21.html">SN 11.21 &middot; Slain</a> '
+        "&mdash; opening Tatiyavagga, this saṃyutta's third and "
+        "final chapter.",
+    ],
+)
