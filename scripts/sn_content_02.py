@@ -9767,3 +9767,2292 @@ page(
         "a noble disciple's understanding.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.51 — Parivīmaṁsanasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 51, "Parivīmaṁsana", "An Inquiry",
+    meta_title="SN 12.51 — An Inquiry | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Parivīmaṁsanasutta — opening Dukkhavagga, a systematic "
+        "inquiry traces suffering back through the whole chain, the "
+        "kammic mechanism of rebirth, the arahant's personal "
+        "extinguishment, and a closing catechism climaxing in the "
+        "Buddha's most emphatic single line in this saṃyutta. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A long, multi-movement discourse: a systematic "
+                 "backward inquiry through the chain, the mechanism "
+                 "of kammic rebirth, a description of the arahant's "
+                 "extinguishment, and a closing catechism"),
+        ("Length", "~9 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; "
+                       "&mdash; the longest and most structurally "
+                       "ambitious discourse in this chapter"),
+    ],
+    why=(
+        "Opening Dukkhavagga, this discourse asks what it actually "
+        "means to inquire for the complete ending of suffering, and "
+        "answers by walking through the whole exercise from the "
+        "start: a mendicant traces old age and death back to "
+        "rebirth, rebirth back to continued existence, and onward "
+        "through the chain to ignorance, understanding each link's "
+        "origin, cessation, and the practice leading to that "
+        "cessation. The discourse then turns to the mechanism itself "
+        "&mdash; how an unenlightened person's good, bad, or "
+        "imperturbable choices each carry consciousness forward into "
+        "a corresponding rebirth, and how someone who has given up "
+        "ignorance makes none of these choices at all, grasps at "
+        "nothing, and \"personally becomes extinguished.\" A vivid "
+        "simile of a hot clay pot cooling on level ground illustrates "
+        "what happens to feeling at the end of such a life. The "
+        "discourse closes with a rapid catechism reversing through "
+        "every link in turn, and the Buddha's own unusually emphatic "
+        "confirmation: trust this, have no doubts, this is simply "
+        "the end of suffering."),
+    guide=[
+        ("Inquiry defined by what it accomplishes, not just its method", [
+            "The discourse opens by asking how a mendicant's inquiry "
+            "should be defined, and answers not with a description "
+            "of technique but with what the inquiry is for: the "
+            "complete ending of suffering, named as the standard "
+            "against which the whole exercise that follows is "
+            "measured."]),
+        ("A four-part question asked at every link", [
+            "At each stage the mendicant asks the same fourfold "
+            "question &mdash; what is this suffering's source, "
+            "origin, birthplace, and inception &mdash; a slightly "
+            "more elaborate formula than the simpler \"when this "
+            "exists, this comes to be\" used elsewhere in this "
+            "saṃyutta, repeated at every link before the chain is "
+            "elided with peyyāla for the middle links."]),
+        ("A precise account of how choices carry consciousness forward", [
+            "Rather than speaking abstractly about kamma and "
+            "rebirth, the discourse specifies three kinds of choice "
+            "&mdash; good, bad, and imperturbable &mdash; each said "
+            "to carry consciousness forward \"by means of\" that "
+            "same quality, giving a mechanically precise account "
+            "before describing what happens when none of the three "
+            "are made at all."]),
+        ("Extinguishment described as personal, not abstract", [
+            "\"Paccattaññeva parinibbāyati\" &mdash; becoming "
+            "extinguished personally, for oneself &mdash; resists "
+            "being read as a merely doctrinal outcome; the phrase "
+            "insists on this being something that happens to a "
+            "particular person, not a category shift."]),
+        ("A closing catechism that reverses the entire chain in miniature", [
+            "Rather than restating the reverse chain as a single "
+            "declarative passage, the discourse closes by having the "
+            "Buddha ask, link by link, whether each downstream "
+            "phenomenon would still be found in the complete absence "
+            "of what precedes it, met each time with a simple \"no, "
+            "sir\" before the Buddha's own unusually emphatic "
+            "confirmation closes the exchange."]),
+    ],
+    terms=[
+        ("parivīmaṁsamāno parivīmaṁseyya sabbaso sammā "
+         "dukkhakkhayāya",
+         "&ldquo;a mendicant inquiring, for the complete ending of "
+         "suffering&rdquo; &mdash; the standard the whole discourse "
+         "measures its inquiry against."),
+        ("kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ",
+         "&ldquo;what is its source, origin, birthplace, and "
+         "inception?&rdquo; &mdash; the fourfold question asked at "
+         "every link, more elaborate than this saṃyutta's usual "
+         "conditionality formula."),
+        ("avijjāgato&hellip; puññañce saṅkhāraṁ abhisaṅkharoti, "
+         "puññūpagaṁ hoti viññāṇaṁ",
+         "&ldquo;an ignoramus&hellip; if they make a good choice, "
+         "consciousness passes on by means of goodness&rdquo; "
+         "&mdash; the precise mechanism linking choice to rebirth."),
+        ("anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva "
+         "parinibbāyati",
+         "&ldquo;not grasping, they're not anxious. Not being "
+         "anxious, they personally become extinguished&rdquo; "
+         "&mdash; extinguishment insisted on as something happening "
+         "to a particular person."),
+        ("sādhu sādhu&hellip; saddahatha me taṁ&hellip; esevanto "
+         "dukkhassa",
+         "&ldquo;good, good!&hellip; trust me on this&hellip; just "
+         "this is the end of suffering&rdquo; &mdash; the closing "
+         "catechism's unusually emphatic confirmation."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Dukkhavagga. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.51:1.1-1.6"),
+        ("p", "&sect;2", "sn12.51:2.1-2.5"),
+        ("p", "&sect;3", "sn12.51:3.1-3.7"),
+        ("p", "&sect;4", "sn12.51:4.1-4.2"),
+        ("p", "&sect;5", "sn12.51:5.1-5.5"),
+        ("p", "&sect;6", "sn12.51:6.1-6.2"),
+        ("p", "&sect;7", "sn12.51:7.1-7.14"),
+        ("p", "&sect;8", "sn12.51:8.1-8.2"),
+        ("p", "&sect;9", "sn12.51:9.1-9.7"),
+        ("p", "&sect;10", "sn12.51:10.1-10.6"),
+        ("p", "&sect;11", "sn12.51:11.1-11.2"),
+        ("p", "&sect;12", "sn12.51:12.1-12.4"),
+        ("p", "&sect;13", "sn12.51:13.1-23.2"),
+        ("p", "&sect;14", "sn12.51:24.1-24.3"),
+    ],
+    quiz=[
+        {"q": "What standard does the discourse use to define a mendicant's inquiry?",
+         "opts": [
+             "The complete ending of suffering",
+             "Success in monastic examinations",
+             "Approval from a senior teacher",
+             "The ability to recite scripture from memory"],
+         "correct": 0,
+         "expl": "What the entire exercise that follows is measured against."},
+        {"q": "What fourfold question is asked at every link of the chain in this discourse?",
+         "opts": [
+             "What is its source, origin, birthplace, and inception?",
+             "Is it permanent, painful, pleasant, or neutral?",
+             "Who created it, when, why, and for whom?",
+             "Is it visible, audible, tangible, or conceptual?"],
+         "correct": 0,
+         "expl": "A more elaborate formula than the simpler conditionality question used elsewhere."},
+        {"q": "According to the discourse, what happens when an unenlightened person makes a good, bad, or imperturbable choice?",
+         "opts": [
+             "Consciousness passes on by means of that same quality",
+             "Nothing happens; choices have no effect on rebirth",
+             "Only bad choices affect future rebirth",
+             "The choice is immediately erased by meditation"],
+         "correct": 0,
+         "expl": "A mechanically precise account of how choice carries consciousness forward."},
+        {"q": "What does someone who has given up ignorance no longer do, according to this discourse?",
+         "opts": [
+             "Make good, bad, or imperturbable choices, or grasp at anything in the world",
+             "Eat, sleep, or breathe",
+             "Speak to other mendicants",
+             "Feel any sensation whatsoever"],
+         "correct": 0,
+         "expl": "The absence of choice-making and grasping that leads to personal extinguishment."},
+        {"q": "What image illustrates what happens to feeling at the end of such a life?",
+         "opts": [
+             "A hot clay pot removed from a kiln, cooling on level ground",
+             "A river flowing endlessly into the sea",
+             "A lamp burning until its oil runs out",
+             "A tree growing new branches each spring"],
+         "correct": 0,
+         "expl": "A vivid image for feeling cooling once no longer taken pleasure in."},
+        {"q": "How does the discourse phrase the arahant's extinguishment?",
+         "opts": [
+             "\"They personally become extinguished\" (paccattaññeva parinibbāyati)",
+             "\"They vanish into an abstract state\"",
+             "\"They are reborn in a higher heaven\"",
+             "\"They achieve fame among mendicants\""],
+         "correct": 0,
+         "expl": "Insisted on as something happening to a particular person, not a category shift."},
+        {"q": "How does the closing catechism proceed?",
+         "opts": [
+             "The Buddha asks, link by link, whether each phenomenon would be found without what precedes it, met with \"no, sir\"",
+             "The mendicants ask the Buddha a series of unrelated questions",
+             "The catechism consists of a single long question with no reply",
+             "There is no catechism; the discourse ends with the hot clay pot simile"],
+         "correct": 0,
+         "expl": "A rapid reversal of the entire chain in miniature."},
+        {"q": "How does the Buddha respond once the catechism is complete?",
+         "opts": [
+             "With unusually emphatic confirmation, urging the mendicants to trust him and have no doubts",
+             "By asking the mendicants to repeat the catechism a second time",
+             "With silence",
+             "By introducing an entirely new teaching"],
+         "correct": 0,
+         "expl": "\"Good, good!... just this is the end of suffering.\""},
+        {"q": "What do the mendicants say before the Buddha begins his teaching?",
+         "opts": [
+             "That their teachings are rooted in the Buddha, and ask him to clarify the meaning himself",
+             "That they already understand the answer",
+             "That they would prefer a different topic",
+             "Nothing; the Buddha begins without any response from them"],
+         "correct": 0,
+         "expl": "A deferential request that the Buddha supply the meaning directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The usual Sāvatthī setting, distinct from a later discourse in this same chapter."},
+    ],
+    marginalia=[
+        ("Inquiry defined by its aim", [
+            "not method, but purpose &mdash;",
+            "the complete ending of suffering",
+        ]),
+        ("Choice carrying consciousness forward", [
+            "good, bad, or imperturbable &mdash;",
+            "each one its own momentum",
+        ]),
+        ("Extinguished personally, not abstractly", [
+            "paccattaññeva parinibbāyati &mdash;",
+            "happening to someone, not a category",
+        ]),
+        ("A catechism ending in trust", [
+            "\"no, sir\" through every link &mdash;",
+            "then, \"just this is the end of suffering\"",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.51/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.50.html">SN 12.50 &middot; A Noble Disciple (2nd)</a> '
+        "&mdash; the discourse closing Gahapativagga, immediately "
+        "before this one.",
+        '<a href="sn-12.52.html">SN 12.52 &middot; Grasping</a> '
+        "&mdash; the next discourse, opening a run of similes "
+        "illustrating the same craving fed or starved.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.52 — Upādānasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 52, "Upādāna", "Grasping",
+    meta_title="SN 12.52 — Grasping | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Upādānasutta — craving grows or ceases depending on "
+        "whether attention dwells on gratification or drawbacks, "
+        "illustrated by a great mass of fire fed or starved of fuel. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two matched pairs, each a direct statement "
+                 "followed by a fire simile, for arising and then "
+                 "for cessation"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a run of similes sharing this "
+                       "chapter's central image"),
+    ],
+    why=(
+        "This discourse locates the lever that determines whether "
+        "craving grows or dies down: not the things that fuel "
+        "grasping themselves, but where attention settles on them. "
+        "Concentrating on their gratification makes craving grow, "
+        "setting the familiar chain in motion toward the whole mass "
+        "of suffering; concentrating on their drawbacks makes "
+        "craving cease, and the chain unwinds in reverse. A great "
+        "mass of fire, burning on ten, twenty, thirty, or forty "
+        "loads of wood, illustrates both directions: fed from time "
+        "to time with dry grass, dung, or wood, it burns on "
+        "indefinitely; left unfed, once its original fuel is used "
+        "up, it simply goes out. The discourse opens a run of "
+        "similes running through much of the rest of this chapter, "
+        "each returning to some version of this same image of "
+        "feeding and starving."),
+    guide=[
+        ("Attention as the actual variable, not the fuel itself", [
+            "The things that fuel grasping don't change between the "
+            "two halves of the teaching; what changes is whether "
+            "attention dwells on their gratification or their "
+            "drawbacks, locating the real lever in how something is "
+            "attended to rather than in the object itself."]),
+        ("A fire sustained by ordinary, unremarkable fuel", [
+            "The simile's fire isn't stoked by anything exotic "
+            "&mdash; dry grass, cow dung, and wood, added from time "
+            "to time &mdash; making the point that craving's "
+            "continuation doesn't require dramatic input, only "
+            "small, repeated feeding."]),
+        ("A concrete scale given to an otherwise abstract image", [
+            "Specifying ten, twenty, thirty, or forty loads of wood "
+            "gives the fire's initial size a concrete, almost "
+            "mundane precision, grounding what could otherwise read "
+            "as a purely poetic image."]),
+        ("Extinguishment through simple absence, not active suppression", [
+            "The fire doesn't need to be put out by force; once no "
+            "more fuel is added and the original supply is used up, "
+            "it goes out on its own &mdash; a model for craving's "
+            "cessation as the natural result of withdrawn feeding "
+            "rather than a struggle against it."]),
+        ("The first of a chain of similes running through this chapter", [
+            "This fire simile is the first of several images "
+            "&mdash; an oil lamp, a great tree, a sapling &mdash; "
+            "that recur through the rest of Dukkhavagga, each "
+            "restating the same feeding-and-starving structure "
+            "through a different concrete picture."]),
+    ],
+    terms=[
+        ("upādāniyesu&hellip; dhammesu assādānupassino viharato "
+         "taṇhā pavaḍḍhati",
+         "&ldquo;there are things that fuel grasping. When you "
+         "concentrate on the gratification provided by these "
+         "things, your craving grows&rdquo; &mdash; the discourse's "
+         "opening statement of the arising half."),
+        ("dasannaṁ vā kaṭṭhavāhānaṁ&hellip; cattārīsāya vā "
+         "kaṭṭhavāhānaṁ",
+         "&ldquo;ten, twenty, thirty, or forty loads of wood&rdquo; "
+         "&mdash; the concrete scale given to the simile's fire."),
+        ("mahāaggikkhandho tadāhāro tadupādāno ciraṁ dīghamaddhānaṁ "
+         "jaleyya",
+         "&ldquo;the great mass of fire would burn for a long "
+         "time&rdquo; &mdash; fed and fuelled, the standard formula "
+         "for what sustains the simile's image."),
+        ("upādāniyesu&hellip; dhammesu ādīnavānupassino viharato "
+         "taṇhā nirujjhati",
+         "&ldquo;there are things that fuel grasping. When you "
+         "concentrate on the drawbacks of these things, your "
+         "craving ceases&rdquo; &mdash; the mirrored statement "
+         "opening the cessation half."),
+        ("purimassa ca upādānassa pariyādānā aññassa ca anupahārā "
+         "anāhāro nibbāyeyya",
+         "&ldquo;as the original fuel is used up and no more is "
+         "added, the great mass of fire would be extinguished due "
+         "to not being fed&rdquo; &mdash; cessation through "
+         "withdrawn feeding, not active suppression."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.52:1.1-1.7"),
+        ("p", "&sect;2", "sn12.52:2.1-2.6"),
+        ("p", "&sect;3", "sn12.52:3.1-3.6"),
+        ("p", "&sect;4", "sn12.52:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What determines whether craving grows or ceases, according to this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The specific object being grasped",
+             "How much wealth a person has",
+             "Whether the person is ordained or a layperson"],
+         "correct": 0,
+         "expl": "Attention, not the object itself, is the real variable."},
+        {"q": "What fuels the simile's fire?",
+         "opts": [
+             "Ordinary, unremarkable materials — dry grass, cow dung, and wood",
+             "A rare and exotic incense",
+             "Oil poured continuously from a large vessel",
+             "The fire requires no fuel at all in this simile"],
+         "correct": 0,
+         "expl": "Craving's continuation doesn't require dramatic input, only small, repeated feeding."},
+        {"q": "What concrete scale is given to the fire's initial size?",
+         "opts": [
+             "Ten, twenty, thirty, or forty loads of wood",
+             "A single small twig",
+             "An entire forest",
+             "No scale is given; the fire's size is left vague"],
+         "correct": 0,
+         "expl": "A mundane precision grounding what could otherwise be purely poetic."},
+        {"q": "How does the fire go out in the cessation half of the simile?",
+         "opts": [
+             "Simply by not being fed, once the original fuel is used up",
+             "By someone actively dousing it with water",
+             "By a sudden storm extinguishing it",
+             "It never goes out in this simile"],
+         "correct": 0,
+         "expl": "Cessation through withdrawn feeding, not active suppression."},
+        {"q": "What role does this discourse play within the rest of Dukkhavagga?",
+         "opts": [
+             "It opens a run of similes — an oil lamp, a great tree, a sapling — sharing the same structure",
+             "It is the chapter's final discourse",
+             "It stands alone with no connection to the discourses around it",
+             "It contradicts the teaching given in the discourses that follow it"],
+         "correct": 0,
+         "expl": "The first of several images restating the same feeding-and-starving structure."},
+        {"q": "What does the discourse call the things that determine craving's growth?",
+         "opts": [
+             "Things that fuel grasping",
+             "Things that cause physical illness",
+             "Things forbidden by monastic rule",
+             "Things unrelated to the twelve-link chain"],
+         "correct": 0,
+         "expl": "Named directly, framing the object of grasping rather than a separate category."},
+        {"q": "How is the arising half of the teaching structured?",
+         "opts": [
+             "A direct statement followed by the fire simile applied to the same content",
+             "Only the simile is given, with no direct statement",
+             "Only the direct statement is given, with no simile",
+             "The arising half is entirely absent from this discourse"],
+         "correct": 0,
+         "expl": "A matched pair, statement then simile, repeated for cessation as well."},
+        {"q": "What happens to the chain of conditions once craving ceases in this discourse?",
+         "opts": [
+             "It unwinds in reverse, through grasping, continued existence, rebirth, to the ending of suffering",
+             "It has no further effect on anything downstream",
+             "It reverses only partway, stopping at grasping",
+             "The discourse doesn't describe what follows craving's cessation"],
+         "correct": 0,
+         "expl": "The familiar reverse chain, closing on suffering's complete cessation."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("Attention, the real lever", [
+            "not the object, but where the mind rests &mdash;",
+            "gratification, or its drawbacks",
+        ]),
+        ("Ordinary fuel, steadily added", [
+            "dry grass, dung, wood &mdash;",
+            "nothing exotic sustains the fire",
+        ]),
+        ("A scale given to the image", [
+            "ten loads, forty loads &mdash;",
+            "precision grounding the poetry",
+        ]),
+        ("Extinguished by simple absence", [
+            "no force needed to put it out &mdash;",
+            "just no more feeding it",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.52/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.51.html">SN 12.51 &middot; An Inquiry</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.53.html">SN 12.53 &middot; Fetters</a> '
+        "&mdash; the next discourse, the same structure retold with "
+        "an oil lamp in place of a fire.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.53 — Saṁyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 53, "Saṁyojana", "Fetters",
+    meta_title="SN 12.53 — Fetters | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Saṁyojanasutta — the same attention-driven growth and "
+        "cessation of craving as SN 12.52, now framed around what "
+        "tightens the fetters, illustrated by an oil lamp fed or "
+        "left unattended. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same two matched pairs as SN 12.52, with an "
+                 "oil lamp in place of a fire and a shift from "
+                 "\"grasping\" to \"fetters\" in the framing"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.52, in a "
+                       "different image"),
+    ],
+    why=(
+        "This discourse repeats SN 12.52's structure exactly &mdash; "
+        "attention on gratification growing craving, attention on "
+        "drawbacks ending it, each half paired with a fire-family "
+        "simile &mdash; but changes two things at once. The framing "
+        "shifts from \"things that fuel grasping\" (upādāniyesu "
+        "dhammesu) to \"things that tighten the fetters\" "
+        "(saṁyojaniyesu dhammesu), and the simile shifts from a "
+        "great mass of fire to a small oil lamp, kept burning by "
+        "someone pouring in oil and adjusting the wick from time to "
+        "time, or left to go out once its fuel is used up and "
+        "nothing more is added. The change in scale, from a great "
+        "blaze to a single household lamp, doesn't change the "
+        "underlying mechanism at all."),
+    guide=[
+        ("Two changes at once, one structure unchanged", [
+            "Both the vocabulary naming what's at stake (fetters "
+            "rather than grasping) and the simile's image (a lamp "
+            "rather than a fire) change together, while the "
+            "underlying two-part, attention-driven structure carries "
+            "over from SN 12.52 without modification."]),
+        ("Fetters as a different lens on the same danger", [
+            "\"Saṁyojana\" names the same underlying things named "
+            "\"upādāniya\" in SN 12.52, but foregrounds their "
+            "binding, restraining function rather than their role "
+            "as fuel for grasping &mdash; two names for the same "
+            "hazard, each emphasizing a different aspect of it."]),
+        ("A smaller, more domestic image than SN 12.52's blaze", [
+            "Where SN 12.52's fire was scaled up to ten or forty "
+            "loads of wood, this discourse's oil lamp is a modest, "
+            "everyday object, tended by pouring in oil and adjusting "
+            "the wick &mdash; a smaller image making the same point "
+            "about ordinary, unremarkable maintenance sustaining "
+            "craving."]),
+        ("The same maintenance, the same neglect", [
+            "Just as SN 12.52's fire needed only periodic feeding to "
+            "keep burning, this discourse's lamp needs only "
+            "occasional attention &mdash; pouring oil, adjusting the "
+            "wick &mdash; and its extinguishing likewise requires "
+            "nothing more dramatic than simply withholding that "
+            "attention."]),
+        ("A pairing that confirms the mechanism, not just the image", [
+            "Because the underlying structure is identical to SN "
+            "12.52's, reading the two discourses together confirms "
+            "that the mechanism being taught doesn't depend on any "
+            "particular image &mdash; fire or lamp, grasping or "
+            "fetters &mdash; but on attention itself."]),
+    ],
+    terms=[
+        ("saṁyojaniyesu&hellip; dhammesu assādānupassino viharato "
+         "taṇhā pavaḍḍhati",
+         "&ldquo;there are things that tighten the fetters. When "
+         "you concentrate on the gratification provided by these "
+         "things, your craving grows&rdquo; &mdash; the same "
+         "structure as SN 12.52, with fetters in place of "
+         "grasping."),
+        ("telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya",
+         "&ldquo;an oil lamp depended on oil and a wick to "
+         "burn&rdquo; &mdash; the simile's image, in place of SN "
+         "12.52's great mass of fire."),
+        ("kālena kālaṁ telaṁ āsiñceyya vaṭṭiṁ upasaṁhareyya",
+         "&ldquo;from time to time someone would pour oil in and "
+         "adjust the wick&rdquo; &mdash; the small, periodic "
+         "maintenance sustaining the lamp."),
+        ("purimassa ca upādānassa pariyādānā aññassa ca anupahārā "
+         "anāhāro nibbāyeyya",
+         "&ldquo;as the original fuel is used up and no more is "
+         "added, the oil lamp would be extinguished due to not "
+         "being fed&rdquo; &mdash; the same extinguishing formula "
+         "as SN 12.52, applied to the lamp."),
+        ("assādānupassino&hellip; ādīnavānupassino",
+         "&ldquo;concentrating on gratification&hellip; "
+         "concentrating on drawbacks&rdquo; &mdash; the recurring "
+         "contrast underlying every discourse in this chapter."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.53:1.1-1.7"),
+        ("p", "&sect;2", "sn12.53:2.1-2.9"),
+        ("p", "&sect;3", "sn12.53:3.1-3.6"),
+        ("p", "&sect;4", "sn12.53:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to SN 12.52's?",
+         "opts": [
+             "Identical two-part, attention-driven structure, with different vocabulary and a different simile",
+             "A completely different, unrelated structure",
+             "The reverse of SN 12.52's structure",
+             "A much shorter summary omitting the simile entirely"],
+         "correct": 0,
+         "expl": "The same underlying mechanism, restated through new terms and image."},
+        {"q": "What term does this discourse use in place of SN 12.52's \"things that fuel grasping\"?",
+         "opts": [
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "\"Things that cause illness\"",
+             "\"Things forbidden to laypeople\"",
+             "The same exact phrase as SN 12.52, unchanged"],
+         "correct": 0,
+         "expl": "A different name foregrounding the binding, restraining function of the same hazard."},
+        {"q": "What simile replaces SN 12.52's great mass of fire?",
+         "opts": [
+             "An oil lamp, fed with oil and an adjusted wick",
+             "A river in flood",
+             "A tree bearing fruit",
+             "A storm cloud"],
+         "correct": 0,
+         "expl": "A smaller, more domestic image making the same point."},
+        {"q": "How is the oil lamp kept burning, according to this discourse?",
+         "opts": [
+             "By someone pouring in oil and adjusting the wick from time to time",
+             "By constant, uninterrupted attention around the clock",
+             "It burns forever without any maintenance",
+             "By adding wood rather than oil"],
+         "correct": 0,
+         "expl": "Small, periodic maintenance, echoing SN 12.52's periodic feeding of the fire."},
+        {"q": "How does the lamp go out, in the cessation half of this discourse?",
+         "opts": [
+             "Simply by not being fed, once its original fuel is used up",
+             "By someone deliberately blowing it out",
+             "By a sudden gust of wind",
+             "It never goes out in this discourse"],
+         "correct": 0,
+         "expl": "The same extinguishing-through-absence formula as SN 12.52."},
+        {"q": "What does reading this discourse together with SN 12.52 confirm?",
+         "opts": [
+             "That the teaching's mechanism doesn't depend on any particular image or vocabulary",
+             "That the two discourses teach contradictory doctrines",
+             "That one of the two discourses must be a later addition",
+             "That fire and oil lamps have different effects on craving"],
+         "correct": 0,
+         "expl": "The mechanism being taught is attention itself, not the specific image used."},
+        {"q": "What determines whether craving grows or ceases in this discourse, as in SN 12.52?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The specific type of fetter involved",
+             "Whether the lamp is made of clay or metal",
+             "How much oil is available"],
+         "correct": 0,
+         "expl": "The same lever as SN 12.52, unchanged by the shift in vocabulary and image."},
+        {"q": "What happens to the chain of conditions once craving ceases in this discourse?",
+         "opts": [
+             "It unwinds in reverse, through grasping, continued existence, rebirth, to suffering's complete cessation",
+             "Nothing further is described",
+             "It reverses only partway",
+             "A new, unrelated chain begins"],
+         "correct": 0,
+         "expl": "The same reverse chain as SN 12.52 and elsewhere in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("Two changes, one mechanism", [
+            "new name, new image &mdash;",
+            "the same lever underneath",
+        ]),
+        ("Fetters, not fuel for grasping", [
+            "the same hazard, differently named &mdash;",
+            "binding rather than feeding",
+        ]),
+        ("A smaller flame, the same lesson", [
+            "oil and a wick, not a blazing pyre &mdash;",
+            "ordinary upkeep, ordinary neglect",
+        ]),
+        ("Confirmed by repetition, not undermined", [
+            "the image changes, the point doesn't &mdash;",
+            "attention was always the real subject",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.53/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.52.html">SN 12.52 &middot; Grasping</a> '
+        "&mdash; the discourse immediately before this one, the same "
+        "structure told with a great mass of fire.",
+        '<a href="sn-12.54.html">SN 12.54 &middot; Fetters (2nd)</a> '
+        "&mdash; the next discourse, this same oil-lamp simile "
+        "retold in more compressed form.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.54 — Dutiyasaṁyojanasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 54, "Dutiyasaṁyojana", "Fetters (2nd)",
+    meta_title="SN 12.54 — Fetters (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasaṁyojanasutta — the same oil-lamp teaching as SN "
+        "12.53, folded from four movements into two by embedding the "
+        "simile directly into each statement rather than restating "
+        "it separately. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same oil-lamp teaching as SN 12.53, compressed "
+                 "from four movements into two by folding the simile "
+                 "directly into each statement"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.53, more tightly "
+                       "compressed"),
+    ],
+    why=(
+        "This discourse carries exactly the same content as SN "
+        "12.53 &mdash; the oil lamp fed by occasional oil and a "
+        "tended wick, or left to go out once its fuel runs dry, "
+        "illustrating craving's growth or cessation depending on "
+        "attention &mdash; but restructures how that content is "
+        "delivered. Where SN 12.53 gave a direct statement of the "
+        "teaching first and only then introduced the simile as a "
+        "second, separate movement, this discourse folds the simile "
+        "directly into the opening statement from the start, "
+        "collapsing what took four movements in SN 12.53 into just "
+        "two. The change is purely a matter of arrangement: no "
+        "content is added or removed, only the order and grouping in "
+        "which the same material is presented."),
+    guide=[
+        ("The same content, a tighter arrangement", [
+            "Every element present in SN 12.53 &mdash; the fetters "
+            "framing, the oil lamp, the periodic feeding, the "
+            "extinguishing through withheld fuel &mdash; reappears "
+            "here unchanged; only the sequencing is different."]),
+        ("Simile folded in from the start, not added afterward", [
+            "SN 12.53 states the teaching plainly, then restates it "
+            "a second time with the simile attached; this discourse "
+            "opens directly with \"suppose an oil lamp,\" building "
+            "the simile into the very first sentence rather than "
+            "introducing it as a separate step."]),
+        ("Four movements collapsed into two", [
+            "SN 12.53's structure runs arising-alone, "
+            "arising-with-simile, cessation-alone, "
+            "cessation-with-simile; this discourse compresses that "
+            "into arising-with-simile-already-included and "
+            "cessation-with-simile-already-included, halving the "
+            "number of distinct movements."]),
+        ("A second confirmed instance of this specific compression style", [
+            "This same fold-the-simile-in-from-the-start compression "
+            "reappears later in this chapter for the great tree "
+            "simile as well, in SN 12.56 relative to SN 12.55 "
+            "&mdash; a recognizable pattern for how a \"(2nd)\" "
+            "discourse in this chapter typically relates to its "
+            "predecessor."]),
+        ("Arrangement changed, substance untouched", [
+            "Because no doctrinal content is gained or lost between "
+            "the two discourses, this pairing demonstrates that this "
+            "chapter's redactors treated the four-part and two-part "
+            "arrangements as equally valid ways of presenting the "
+            "identical teaching, not as different teachings in their "
+            "own right."]),
+    ],
+    terms=[
+        ("telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya",
+         "&ldquo;suppose an oil lamp depended on oil and a wick to "
+         "burn&rdquo; &mdash; the same simile as SN 12.53, now "
+         "opening the discourse directly."),
+        ("tadāhāro tadupādāno ciraṁ dīghamaddhānaṁ jaleyya",
+         "&ldquo;fed and fuelled by that, the oil lamp would burn "
+         "for a long time&rdquo; &mdash; the standard formula for "
+         "what sustains the simile's image."),
+        ("na kālena kālaṁ telaṁ āsiñceyya na vaṭṭiṁ upasaṁhareyya",
+         "&ldquo;no-one would pour oil in and adjust the wick from "
+         "time to time&rdquo; &mdash; the negated version of SN "
+         "12.53's maintenance formula, opening this discourse's "
+         "cessation half."),
+        ("purimassa ca upādānassa pariyādānā aññassa ca anupahārā "
+         "anāhāro nibbāyeyya",
+         "&ldquo;as the original fuel is used up and no more is "
+         "added, the oil lamp would be extinguished due to not "
+         "being fed&rdquo; &mdash; the same extinguishing formula "
+         "as SN 12.53."),
+        ("saṁyojaniyesu&hellip; dhammesu",
+         "&ldquo;things that tighten the fetters&rdquo; &mdash; "
+         "the same framing as SN 12.53, carried over unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.54:1.1-1.7"),
+        ("p", "&sect;2", "sn12.54:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's content compare to SN 12.53's?",
+         "opts": [
+             "Identical content, restructured into a more compressed arrangement",
+             "Entirely different content on an unrelated topic",
+             "A contradiction of SN 12.53's teaching",
+             "An expansion adding new material not found in SN 12.53"],
+         "correct": 0,
+         "expl": "No content added or removed, only the sequencing changed."},
+        {"q": "How does this discourse open, unlike SN 12.53?",
+         "opts": [
+             "Directly with the oil lamp simile, folded into the first statement",
+             "With a direct statement and no simile at all",
+             "With a question from a mendicant",
+             "With a description of King Pasenadi's court"],
+         "correct": 0,
+         "expl": "The simile built into the opening sentence rather than introduced afterward."},
+        {"q": "How many movements does this discourse compress SN 12.53's four movements into?",
+         "opts": [
+             "Two",
+             "One",
+             "Six",
+             "The number of movements is unchanged"],
+         "correct": 0,
+         "expl": "Arising-with-simile and cessation-with-simile, each already combined."},
+        {"q": "Where else in this chapter does this same compression style reappear?",
+         "opts": [
+             "SN 12.56, relative to SN 12.55's great tree simile",
+             "Nowhere else in this chapter",
+             "Only in the discourses addressed to brahmins",
+             "In SN 12.51's opening inquiry"],
+         "correct": 0,
+         "expl": "A recognizable pattern for how a \"(2nd)\" discourse in this chapter relates to its predecessor."},
+        {"q": "What does this pairing with SN 12.53 demonstrate?",
+         "opts": [
+             "That the four-part and two-part arrangements were treated as equally valid ways of presenting the same teaching",
+             "That one of the two discourses must be doctrinally incorrect",
+             "That the oil lamp simile was later replaced by a tree simile",
+             "That compression always removes some doctrinal content"],
+         "correct": 0,
+         "expl": "Arrangement changed, substance untouched."},
+        {"q": "What determines whether craving grows or ceases in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The type of oil used in the lamp",
+             "How large the wick is",
+             "Whether the lamp is indoors or outdoors"],
+         "correct": 0,
+         "expl": "The same lever as SN 12.52 and SN 12.53, unchanged by the compression."},
+        {"q": "How does the lamp go out in this discourse's cessation half?",
+         "opts": [
+             "Simply by not being fed, once its original fuel is used up",
+             "By someone deliberately extinguishing it",
+             "By a strong wind",
+             "The lamp never goes out in this discourse"],
+         "correct": 0,
+         "expl": "The same extinguishing-through-absence formula as SN 12.53."},
+        {"q": "What framing vocabulary does this discourse share with SN 12.53?",
+         "opts": [
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu)",
+             "An entirely new, unrelated term",
+             "No shared vocabulary at all"],
+         "correct": 0,
+         "expl": "Carried over unchanged from SN 12.53, distinguishing it from SN 12.52's grasping framing."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("The same lamp, differently arranged", [
+            "no new content added &mdash;",
+            "only the order rearranged",
+        ]),
+        ("Simile built in from the first word", [
+            "not attached afterward &mdash;",
+            "present from the opening sentence",
+        ]),
+        ("Four movements folded to two", [
+            "arising and cessation, simile included &mdash;",
+            "a tighter shape, the same substance",
+        ]),
+        ("A pattern confirmed a second time", [
+            "the same fold seen again at SN 12.56 &mdash;",
+            "how a \"(2nd)\" discourse tends to compress",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.54/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.53.html">SN 12.53 &middot; Fetters</a> '
+        "&mdash; the discourse immediately before this one, the same "
+        "teaching in its four-movement form.",
+        '<a href="sn-12.55.html">SN 12.55 &middot; A Great Tree</a> '
+        "&mdash; the next discourse, shifting from an oil lamp to a "
+        "tree fed by its own roots.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.55 — Mahārukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 55, "Mahārukkha", "A Great Tree",
+    meta_title="SN 12.55 — A Great Tree | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mahārukkhasutta — the same attention-driven arising and "
+        "cessation of craving as SN 12.52, now pictured as a great "
+        "tree drawing sap through its own roots, or felled, "
+        "uprooted, and reduced to scattered ash. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same four-movement structure as SN 12.52 and "
+                 "SN 12.53, with a great tree in place of a fire or "
+                 "lamp, its felling given in unusually vivid detail"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the most visually elaborate simile in this "
+                       "chapter so far"),
+    ],
+    why=(
+        "This discourse returns to SN 12.52's \"grasping\" framing "
+        "and full four-movement structure, but replaces the fire "
+        "with an image this chapter, and Sujato's English title for "
+        "the whole chapter, is named after: a great tree, its roots "
+        "reaching down and spreading sideways to draw sap upward, "
+        "standing for a long time as long as it's fed. The felling "
+        "half of the simile is given in unusually vivid, step-by-step "
+        "detail &mdash; cut down at the roots, the roots dug up to "
+        "the last fiber, the trunk chopped into splinters, dried in "
+        "wind and sun, burned to ash, and the ash itself scattered "
+        "in a strong wind or floated down a swift stream &mdash; a "
+        "far more elaborate destruction sequence than the simpler "
+        "extinguishing formulas used for the fire and the lamp."),
+    guide=[
+        ("The image the chapter is named for", [
+            "Sujato's English title for this whole chapter, \"A "
+            "Tree,\" most plausibly draws on this discourse and its "
+            "close companions rather than on the chapter's literal "
+            "Pali name, Dukkhavagga, which names suffering rather "
+            "than any image at all."]),
+        ("Roots reaching both down and sideways", [
+            "The tree's feeding mechanism is described with unusual "
+            "specificity &mdash; roots going downward and roots "
+            "spreading across all draw sap upward together &mdash; "
+            "giving the image a more complete botanical picture than "
+            "the fire or lamp similes needed."]),
+        ("A felling sequence far more elaborate than extinguishing a fire", [
+            "Where the fire and lamp similes ended with a brief "
+            "formula about fuel running out unfed, this discourse "
+            "walks through cutting, digging up every root down to "
+            "the fibers, chopping into splinters, drying, burning, "
+            "and finally scattering the ashes &mdash; a full "
+            "sequence of deliberate, effortful destruction rather "
+            "than passive neglect."]),
+        ("Destruction as active work, not simple withholding", [
+            "Unlike the fire or lamp, which went out simply by not "
+            "being fed, the tree requires someone to actively arrive "
+            "with a spade and basket and carry out its felling "
+            "step by step &mdash; cessation here is pictured as "
+            "deliberate effort, not passive absence."]),
+        ("A formula of totality closing the felling", [
+            "\"Cut off at the root, made like a palm stump, "
+            "obliterated, and unable to arise in the future\" is a "
+            "stronger, more absolute description of finality than "
+            "the fire and lamp similes' simple \"extinguished due to "
+            "not being fed,\" matching the greater effort just "
+            "described."]),
+    ],
+    terms=[
+        ("seyyathāpi&hellip; mahārukkho",
+         "&ldquo;suppose there was a great tree&rdquo; &mdash; the "
+         "image this discourse and its companions are built "
+         "around."),
+        ("yāni ceva mūlāni adhogamāni, yāni ca tiriyaṅgamāni, "
+         "sabbāni tāni uddhaṁ ojaṁ abhiharanti",
+         "&ldquo;its roots going downwards and across all draw the "
+         "sap upwards&rdquo; &mdash; the tree's feeding mechanism, "
+         "described with unusual botanical detail."),
+        ("mūle chindeyya&hellip; mūlāni uddhareyya antamaso "
+         "usīranāḷimattānipi",
+         "&ldquo;cut down at the roots, dig them up, and pull them "
+         "out, down to the fibers and stems&rdquo; &mdash; the "
+         "start of the felling sequence's unusual detail."),
+        ("sakalikaṁ sakalikaṁ kareyya&hellip; agginā ḍaheyya&hellip; "
+         "nadiyā vā sīghasotāya pavāheyya",
+         "&ldquo;chop it into splinters&hellip; burn them with "
+         "fire&hellip; float them away down a swift stream&rdquo; "
+         "&mdash; the full destruction sequence, far more elaborate "
+         "than the fire or lamp similes' endings."),
+        ("ucchinnamūlo assa tālāvatthukato anabhāvaṅkato āyatiṁ "
+         "anuppādadhammo",
+         "&ldquo;cut off at the root, made like a palm stump, "
+         "obliterated, and unable to arise in the future&rdquo; "
+         "&mdash; a stronger, more absolute formula of finality "
+         "than this chapter's earlier similes use."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.55:1.1-1.5"),
+        ("p", "&sect;2", "sn12.55:2.1-2.6"),
+        ("p", "&sect;3", "sn12.55:3.1-3.4"),
+        ("p", "&sect;4", "sn12.55:4.1-4.10"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use, replacing SN 12.52's fire and SN 12.53's lamp?",
+         "opts": [
+             "A great tree, fed by its own roots",
+             "A river flowing to the sea",
+             "A mountain being worn down by rain",
+             "A candle in a windowless room"],
+         "correct": 0,
+         "expl": "The image this whole chapter's English title likely draws its name from."},
+        {"q": "How does the tree's feeding mechanism get described?",
+         "opts": [
+             "Roots going downward and roots spreading sideways together draw sap upward",
+             "The tree needs no roots at all in this simile",
+             "It is fed only by rainfall from above",
+             "It draws nutrients directly from sunlight alone"],
+         "correct": 0,
+         "expl": "An unusually specific botanical picture compared to the fire and lamp similes."},
+        {"q": "How does the felling sequence in this discourse compare to the fire and lamp similes' endings?",
+         "opts": [
+             "Far more elaborate — cutting, digging up roots, chopping, drying, burning, and scattering ashes",
+             "Much briefer, using only a single short phrase",
+             "Identical in every detail to the fire simile's ending",
+             "This discourse describes no felling or destruction at all"],
+         "correct": 0,
+         "expl": "A full sequence of deliberate, effortful destruction."},
+        {"q": "How does the tree's destruction differ from the fire's or lamp's extinguishing?",
+         "opts": [
+             "It requires active, deliberate work rather than simple withholding of fuel",
+             "It also happens through simple neglect, identically to the fire",
+             "The tree cannot be destroyed at all in this simile",
+             "It happens instantly with no described process"],
+         "correct": 0,
+         "expl": "Someone must actively arrive with a spade and basket to carry it out."},
+        {"q": "What formula closes the description of the tree's destruction?",
+         "opts": [
+             "\"Cut off at the root, made like a palm stump, obliterated, and unable to arise in the future\"",
+             "\"Extinguished due to not being fed\"",
+             "\"The tree simply disappears without explanation\"",
+             "No closing formula is given"],
+         "correct": 0,
+         "expl": "A stronger, more absolute statement of finality than the fire and lamp similes use."},
+        {"q": "What framing does this discourse use, matching SN 12.52 rather than SN 12.53 or SN 12.54?",
+         "opts": [
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu)",
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "An entirely new framing not used elsewhere",
+             "No framing vocabulary is used at all"],
+         "correct": 0,
+         "expl": "A return to SN 12.52's grasping framing rather than SN 12.53's fetters framing."},
+        {"q": "How many movements structure this discourse?",
+         "opts": [
+             "Four — arising alone, arising with simile, cessation alone, cessation with simile",
+             "Two, folded together like SN 12.54",
+             "Six",
+             "One continuous statement with no distinct movements"],
+         "correct": 0,
+         "expl": "The same four-part structure as SN 12.52 and SN 12.53, not the compressed two-part style."},
+        {"q": "What determines whether craving grows or ceases in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The species of tree involved",
+             "How deep the roots grow",
+             "The season in which the tree is examined"],
+         "correct": 0,
+         "expl": "The same lever as every other discourse in this chapter so far."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("The tree the chapter is named for", [
+            "roots down, roots sideways &mdash;",
+            "drawing sap upward together",
+        ]),
+        ("A felling given full detail", [
+            "cut, dug up, chopped, dried, burned &mdash;",
+            "far more than a fire going out",
+        ]),
+        ("Destruction as effort, not neglect", [
+            "someone must arrive with spade and basket &mdash;",
+            "not simply withheld fuel",
+        ]),
+        ("A stronger formula for the ending", [
+            "\"like a palm stump\" &mdash; unable to arise again",
+            "more absolute than \"extinguished, unfed\"",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.55/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.54.html">SN 12.54 &middot; Fetters (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.56.html">SN 12.56 &middot; A Great Tree (2nd)</a> '
+        "&mdash; the next discourse, this same tree simile "
+        "compressed into a shorter, more elided retelling.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.56 — Dutiyamahārukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 56, "Dutiyamahārukkha", "A Great Tree (2nd)",
+    meta_title="SN 12.56 — A Great Tree (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyamahārukkhasutta — SN 12.55's great tree retold "
+        "with two layers of compression at once, folding the simile "
+        "into a single statement and eliding much of the felling "
+        "sequence's own detail. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 12.55's great tree teaching compressed into two "
+                 "movements, with the felling sequence itself also "
+                 "elided partway through"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the same content as SN 12.55, compressed "
+                       "twice over"),
+    ],
+    why=(
+        "This discourse relates to SN 12.55 exactly as SN 12.54 "
+        "relates to SN 12.53: the same tree, drawing sap through "
+        "roots reaching down and sideways, standing so long as it's "
+        "fed, or felled and reduced to scattered ash once it isn't "
+        "&mdash; but folded from four movements into two by building "
+        "the simile into each statement from the start. This "
+        "discourse goes a step further than SN 12.54 did, however: "
+        "not only is the overall four-part structure compressed, but "
+        "the felling sequence's own elaborate detail &mdash; cutting, "
+        "digging, chopping, drying, burning, scattering &mdash; is "
+        "itself elided with a peyyāla ellipsis partway through, "
+        "leaving only its first and last steps stated in full. The "
+        "result is a discourse compressed on two independent axes at "
+        "once, not just one."),
+    guide=[
+        ("The same fold seen at SN 12.54, applied here", [
+            "Exactly as SN 12.54 embedded the oil lamp simile "
+            "directly into a single statement rather than restating "
+            "it separately, this discourse embeds the great tree "
+            "simile the same way, collapsing SN 12.55's four "
+            "movements into two."]),
+        ("A second, independent layer of compression", [
+            "Beyond the structural fold shared with SN 12.54, this "
+            "discourse also elides the felling sequence's own "
+            "internal detail with a peyyāla ellipsis, jumping "
+            "directly from cutting down the roots to floating the "
+            "ashes downstream, where SN 12.55 spelled out every "
+            "intervening step."]),
+        ("Two compressions that don't have to travel together", [
+            "SN 12.54 compressed its overall structure without "
+            "eliding any of the oil lamp simile's own detail, since "
+            "the lamp simile was already brief; this discourse shows "
+            "that when the underlying simile is itself elaborate, "
+            "both kinds of compression can be applied at once, "
+            "independently of each other."]),
+        ("What survives the double compression intact", [
+            "Despite both layers of elision, the discourse still "
+            "preserves the tree's feeding mechanism in full and the "
+            "closing formula of finality &mdash; cut off at the "
+            "root, made like a palm stump, obliterated &mdash; "
+            "suggesting these two elements were judged too "
+            "load-bearing to abbreviate even under heavy "
+            "compression."]),
+        ("A confirmed pattern across two pairs of \"2nd\" discourses", [
+            "Between SN 12.53/12.54 and SN 12.55/12.56, this "
+            "chapter now shows two separate confirmed cases of a "
+            "\"(2nd)\" discourse folding its predecessor's simile "
+            "into a tighter statement, with this second case adding "
+            "an extra layer of internal elision the first case "
+            "didn't need."]),
+    ],
+    terms=[
+        ("yāni ceva mūlāni adhogamāni, yāni ca tiriyaṅgamāni, "
+         "sabbāni tāni uddhaṁ ojaṁ abhiharanti",
+         "&ldquo;its roots going downwards and across all draw the "
+         "sap upwards&rdquo; &mdash; the same feeding mechanism as "
+         "SN 12.55, preserved in full despite the compression "
+         "elsewhere."),
+        ("tadāhāro tadupādāno ciraṁ dīghamaddhānaṁ tiṭṭheyya",
+         "&ldquo;fed and fuelled by that, the great tree would "
+         "stand for a long time&rdquo; &mdash; the standard formula "
+         "carried over unchanged from SN 12.55."),
+        ("mūle chindeyya&hellip; mūlāni uddhareyya&hellip;pe&hellip; "
+         "nadiyā vā sīghasotāya pavāheyya",
+         "&ldquo;cut down at the roots, dig them up&hellip; float "
+         "them away down a swift stream&rdquo; &mdash; the felling "
+         "sequence's own internal detail elided here with a peyyāla "
+         "ellipsis, unlike SN 12.55's full step-by-step version."),
+        ("ucchinnamūlo assa tālāvatthukato anabhāvaṅkato āyatiṁ "
+         "anuppādadhammo",
+         "&ldquo;cut off at the root, made like a palm stump, "
+         "obliterated, and unable to arise in the future&rdquo; "
+         "&mdash; the closing formula of finality, preserved "
+         "intact despite the compression around it."),
+        ("upādāniyesu&hellip; dhammesu",
+         "&ldquo;things that fuel grasping&rdquo; &mdash; the same "
+         "framing as SN 12.55, carried over unchanged."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.56:1.1-1.7"),
+        ("p", "&sect;2", "sn12.56:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "How does this discourse relate to SN 12.55, structurally?",
+         "opts": [
+             "The same content, folded from four movements into two, as SN 12.54 does for SN 12.53",
+             "An entirely different, unrelated teaching",
+             "A direct contradiction of SN 12.55",
+             "An expansion adding new content not found in SN 12.55"],
+         "correct": 0,
+         "expl": "The same fold-the-simile-in compression pattern seen at SN 12.54."},
+        {"q": "What additional compression does this discourse apply, beyond the structural fold?",
+         "opts": [
+             "Eliding the felling sequence's own internal detail with a peyyāla ellipsis",
+             "Removing the tree's feeding mechanism entirely",
+             "Changing the framing from grasping to fetters",
+             "No additional compression is applied"],
+         "correct": 0,
+         "expl": "A second, independent layer of compression not present in SN 12.54's relationship to SN 12.53."},
+        {"q": "What does this discourse's felling sequence jump directly between?",
+         "opts": [
+             "Cutting down the roots and floating the ashes downstream, skipping the intervening steps",
+             "Planting a new tree and watering it",
+             "Two entirely different similes",
+             "There is no felling sequence in this discourse at all"],
+         "correct": 0,
+         "expl": "A peyyāla ellipsis where SN 12.55 spelled out every step."},
+        {"q": "What does this discourse demonstrate about compression that SN 12.54 alone didn't show?",
+         "opts": [
+             "That structural folding and internal elision can be applied independently of each other",
+             "That compression always removes doctrinal content",
+             "That SN 12.54's compression style was incorrect",
+             "That similes can never be compressed at all"],
+         "correct": 0,
+         "expl": "Two compressions that don't have to travel together, shown here to co-occur."},
+        {"q": "What survives this discourse's double compression intact?",
+         "opts": [
+             "The tree's feeding mechanism and the closing formula of finality",
+             "Nothing; the entire teaching is reduced to a single sentence",
+             "Only the setting and audience",
+             "Only the framing vocabulary"],
+         "correct": 0,
+         "expl": "Elements judged too load-bearing to abbreviate even under heavy compression."},
+        {"q": "How many confirmed cases of a \"(2nd)\" discourse folding its predecessor's simile does this chapter now show?",
+         "opts": [
+             "Two — SN 12.53/12.54 and SN 12.55/12.56",
+             "Only one, this discourse alone",
+             "None; this is not actually a compression",
+             "Four separate cases"],
+         "correct": 0,
+         "expl": "A confirmed, recurring pattern across two separate pairs."},
+        {"q": "What framing does this discourse use?",
+         "opts": [
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu), matching SN 12.55",
+             "\"Things that tighten the fetters\", matching SN 12.53",
+             "An entirely new framing",
+             "No framing vocabulary at all"],
+         "correct": 0,
+         "expl": "Carried over unchanged from SN 12.55."},
+        {"q": "What determines whether craving grows or ceases in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The size of the tree involved",
+             "The season of the year",
+             "How many people witness the felling"],
+         "correct": 0,
+         "expl": "The same lever as every other discourse in this chapter."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("The same fold, a second time", [
+            "four movements into two &mdash;",
+            "matching SN 12.54's earlier pattern",
+        ]),
+        ("A second layer of compression", [
+            "the felling itself elided now &mdash;",
+            "not just the overall shape",
+        ]),
+        ("Two compressions, independent of each other", [
+            "structure folded, detail elided &mdash;",
+            "neither one requiring the other",
+        ]),
+        ("What survives even so", [
+            "the roots, the closing formula &mdash;",
+            "too load-bearing to cut",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.56/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.55.html">SN 12.55 &middot; A Great Tree</a> '
+        "&mdash; the discourse immediately before this one, the same "
+        "simile in its full, unelided form.",
+        '<a href="sn-12.57.html">SN 12.57 &middot; A Sapling</a> '
+        "&mdash; the next discourse, a new image of a young tree "
+        "nurtured to maturity rather than a mature tree already "
+        "standing.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.57 — Taruṇarukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 57, "Taruṇarukkha", "A Sapling",
+    meta_title="SN 12.57 — A Sapling | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Taruṇarukkhasutta — the same fetters teaching as SN "
+        "12.53, now pictured through a young sapling actively "
+        "nurtured toward maturity rather than a mature tree simply "
+        "standing. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same four-movement structure as SN 12.53 and "
+                 "SN 12.55, with a young sapling in place of a "
+                 "mature tree"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a small but genuine shift in the tree "
+                       "image's meaning"),
+    ],
+    why=(
+        "This discourse returns to the fetters framing shared with "
+        "SN 12.53, but introduces a new variation on this chapter's "
+        "tree image: not a great tree already standing, drawing sap "
+        "through established roots, but a sapling &mdash; a young "
+        "tree still being brought toward maturity by someone who "
+        "clears around its roots, supplies soil, and waters it from "
+        "time to time. Fed this way, the sapling doesn't merely "
+        "stand for a long time, as the great tree does; it grows, "
+        "increases, and matures. The shift from a mature tree's "
+        "static persistence to a young tree's active growth adds a "
+        "genuinely new dimension to this chapter's central image, "
+        "suggesting that what craving does when fed isn't only "
+        "sustain itself but actively develop and expand."),
+    guide=[
+        ("A young tree, not a mature one already standing", [
+            "Where SN 12.55's great tree was already fully grown and "
+            "simply persisted so long as it was fed, this discourse's "
+            "sapling is explicitly still developing, introducing a "
+            "growth stage this chapter's tree imagery hadn't yet "
+            "used."]),
+        ("Active cultivation, not passive feeding", [
+            "The sapling's care is described with more deliberate, "
+            "gardener-like verbs &mdash; clearing around the roots, "
+            "supplying soil, watering &mdash; than the simpler "
+            "\"feeding\" language used for the fire, lamp, or "
+            "mature tree, matching the more hands-on relationship a "
+            "young plant requires."]),
+        ("Growth as the outcome, not mere persistence", [
+            "\"Vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya\" &mdash; grow, "
+            "increase, and mature &mdash; describes an actively "
+            "developing outcome, distinct from the great tree's "
+            "simple \"stand for a long time\" or the fire and lamp's "
+            "simple continued burning."]),
+        ("A suggestion the tree simile alone hadn't made explicit", [
+            "By showing craving's growth through a plant that is "
+            "itself growing, this discourse makes a point the "
+            "mature-tree and fire similes leave only implicit: fed "
+            "craving doesn't just persist unchanged, it develops and "
+            "expands over time."]),
+        ("The same felling, applied to something still young", [
+            "The cessation half applies this chapter's now-familiar "
+            "felling sequence &mdash; cut down, dug up, chopped, "
+            "dried, burned, scattered &mdash; to the sapling exactly "
+            "as it was applied to the mature tree, showing that a "
+            "young, still-developing growth is no more resistant to "
+            "being uprooted than an established one."]),
+    ],
+    terms=[
+        ("taruṇo rukkho",
+         "&ldquo;a sapling&rdquo; &mdash; literally a young tree, "
+         "introducing a growth stage this chapter's tree imagery "
+         "hadn't yet used."),
+        ("mūlāni palimajjeyya&hellip; paṁsuṁ dadeyya&hellip; udakaṁ "
+         "dadeyya",
+         "&ldquo;clear around the roots, supply soil, and water "
+         "it&rdquo; &mdash; more deliberate, gardener-like care than "
+         "this chapter's other similes describe."),
+        ("vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya",
+         "&ldquo;grow, increase, and mature&rdquo; &mdash; an "
+         "actively developing outcome, distinct from the mature "
+         "tree's simple persistence."),
+        ("saṁyojaniyesu&hellip; dhammesu",
+         "&ldquo;things that tighten the fetters&rdquo; &mdash; the "
+         "same framing as SN 12.53."),
+        ("ucchinnamūlo assa tālāvatthukato anabhāvaṅkato āyatiṁ "
+         "anuppādadhammo",
+         "&ldquo;cut off at the root, made like a palm stump, "
+         "obliterated, and unable to arise in the future&rdquo; "
+         "&mdash; the same formula of finality applied here to a "
+         "young sapling rather than a mature tree."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.57:1.1-1.4"),
+        ("p", "&sect;2", "sn12.57:2.1-2.6"),
+        ("p", "&sect;3", "sn12.57:3.1-3.3"),
+        ("p", "&sect;4", "sn12.57:4.1-4.7"),
+    ],
+    quiz=[
+        {"q": "What new image does this discourse introduce to this chapter's tree simile?",
+         "opts": [
+             "A sapling — a young tree still being brought toward maturity",
+             "A tree already dead and rotting",
+             "A tree bearing fruit for the first time",
+             "A tree struck by lightning"],
+         "correct": 0,
+         "expl": "A growth stage this chapter's imagery hadn't yet used."},
+        {"q": "How is the sapling's care described, compared to the fire, lamp, or mature tree similes?",
+         "opts": [
+             "With more deliberate, gardener-like verbs — clearing roots, supplying soil, watering",
+             "With identical language to the fire simile",
+             "The sapling requires no care at all in this discourse",
+             "Only with a single generic word for \"feeding\""],
+         "correct": 0,
+         "expl": "A more hands-on relationship matching what a young plant requires."},
+        {"q": "What outcome does the sapling reach when fed, unlike the mature tree's simple persistence?",
+         "opts": [
+             "It grows, increases, and matures",
+             "It stops growing entirely and remains fixed in size",
+             "It withers despite being fed",
+             "It transforms into a different kind of plant"],
+         "correct": 0,
+         "expl": "An actively developing outcome, distinct from mere standing."},
+        {"q": "What point does this discourse make that the mature-tree and fire similes leave only implicit?",
+         "opts": [
+             "That fed craving doesn't just persist unchanged, but develops and expands over time",
+             "That craving cannot grow under any circumstances",
+             "That only mature practitioners experience craving",
+             "That craving is entirely unrelated to attention"],
+         "correct": 0,
+         "expl": "Growth shown through a plant that is itself growing."},
+        {"q": "What happens to the sapling in the cessation half of this discourse?",
+         "opts": [
+             "The same felling sequence used for the mature tree — cut down, dug up, chopped, burned, scattered",
+             "It is left to grow indefinitely with no cessation described",
+             "It is transplanted to a different location",
+             "It simply stops growing without being felled"],
+         "correct": 0,
+         "expl": "A young, still-developing growth proves no more resistant to being uprooted than a mature one."},
+        {"q": "What framing does this discourse use?",
+         "opts": [
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu)",
+             "An entirely new framing not used elsewhere",
+             "No framing vocabulary at all"],
+         "correct": 0,
+         "expl": "The same fetters framing as SN 12.53, matching this discourse to that side of the chapter's pairing."},
+        {"q": "How many movements structure this discourse?",
+         "opts": [
+             "Four — arising alone, arising with simile, cessation alone, cessation with simile",
+             "Two, folded together like SN 12.54 and SN 12.56",
+             "Six",
+             "One continuous statement with no distinct movements"],
+         "correct": 0,
+         "expl": "The full four-part structure, not the compressed two-part style used for this chapter's \"(2nd)\" discourses."},
+        {"q": "What determines whether craving grows or ceases in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The age of the tree involved",
+             "The type of soil used",
+             "How much water is available"],
+         "correct": 0,
+         "expl": "The same lever as every other discourse in this chapter."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("A young tree, not one already grown", [
+            "still being brought toward maturity &mdash;",
+            "a new stage in the chapter's imagery",
+        ]),
+        ("Cultivation, not just feeding", [
+            "cleared roots, soil, water &mdash;",
+            "a gardener's hands-on care",
+        ]),
+        ("Growth as the outcome this time", [
+            "not merely standing, but maturing &mdash;",
+            "craving shown actively developing",
+        ]),
+        ("No more resistant for being young", [
+            "the same felling applies &mdash;",
+            "a sapling uprooted as easily as a great tree",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.57/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.56.html">SN 12.56 &middot; A Great Tree (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.58.html">SN 12.58 &middot; Name and Form</a> '
+        "&mdash; the next discourse, shifting from craving's growth "
+        "to the conception of name and form itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.58 — Nāmarūpasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 58, "Nāmarūpa", "Name and Form",
+    meta_title="SN 12.58 — Name and Form | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nāmarūpasutta — this chapter's tree simile applied not "
+        "to craving's growth but to the conception of name and form "
+        "itself, moving the point of feeding one full step earlier "
+        "in the chain. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same four-movement, great-tree structure as "
+                 "SN 12.55, with name and form's conception in place "
+                 "of craving's growth"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a genuine shift in what the tree simile is "
+                       "applied to, not just a new image"),
+    ],
+    why=(
+        "Every discourse in this chapter so far has applied its "
+        "simile to craving's growth or cessation. This discourse "
+        "moves the point of application one full step earlier in "
+        "the chain: rather than concentrating on gratification "
+        "making craving grow, it says concentrating on gratification "
+        "makes name and form be conceived (nāmarūpassa avakkanti "
+        "hoti) &mdash; the same language of a being's \"descent\" "
+        "into a new existence already used in SN 12.39. The great "
+        "tree simile returns unchanged, but what it now illustrates "
+        "isn't craving's persistence but the very entry point of a "
+        "new existence taking shape, tying this chapter's central "
+        "image directly back to the mechanics of rebirth examined "
+        "earlier in this book."),
+    guide=[
+        ("The tree simile, redirected to a different target", [
+            "The great tree's feeding mechanism &mdash; roots "
+            "reaching down and sideways, drawing sap upward &mdash; "
+            "is repeated here word for word from SN 12.55, but what "
+            "it now illustrates has shifted from craving's growth to "
+            "name and form's conception."]),
+        ("A phrase reaching back to SN 12.39", [
+            "\"Nāmarūpassa avakkanti\" &mdash; name and form's "
+            "descent &mdash; is the identical phrase already used in "
+            "SN 12.39's account of what happens once consciousness "
+            "is established and grows, tying this discourse directly "
+            "to that earlier discourse's mechanics of rebirth."]),
+        ("One step earlier in the chain than this chapter's other similes", [
+            "Where SN 12.52 through SN 12.57 all locate the tree "
+            "simile's lesson at the level of craving, this discourse "
+            "moves it upstream to name and form itself, the point at "
+            "which a new existence's basic constituents first take "
+            "shape."]),
+        ("Fetters framing carried over, not grasping", [
+            "This discourse shares SN 12.53, SN 12.54, and SN "
+            "12.57's \"things that tighten the fetters\" framing "
+            "rather than SN 12.52 and SN 12.55's \"things that fuel "
+            "grasping,\" a detail worth tracking alongside which "
+            "simile is used, since the two variables don't always "
+            "move together."]),
+        ("A tree simile applied to something more abstract than craving", [
+            "Craving is at least experientially familiar as "
+            "something that grows or fades; name and form's "
+            "conception is a more abstract, structural event, and "
+            "applying the same concrete tree image to it suggests "
+            "the simile's real subject was always the general "
+            "mechanism of conditioned arising, not craving "
+            "specifically."]),
+    ],
+    terms=[
+        ("nāmarūpassa avakkanti hoti",
+         "&ldquo;name and form are conceived&rdquo; &mdash; "
+         "literally name and form's descent, the same phrase used "
+         "in SN 12.39 for what follows consciousness's "
+         "establishment."),
+        ("nāmarūpapaccayā saḷāyatanaṁ",
+         "&ldquo;name and form are requirements for the six sense "
+         "fields&rdquo; &mdash; where the familiar downstream chain "
+         "resumes after this discourse's point of entry."),
+        ("nāmarūpassa avakkanti na hoti",
+         "&ldquo;name and form are not conceived&rdquo; &mdash; the "
+         "negated version opening the cessation half."),
+        ("nāmarūpanirodhā saḷāyatananirodho",
+         "&ldquo;when name and form cease, the six sense fields "
+         "cease&rdquo; &mdash; the reverse chain resuming from this "
+         "discourse's point of entry."),
+        ("saṁyojaniyesu&hellip; dhammesu",
+         "&ldquo;things that tighten the fetters&rdquo; &mdash; the "
+         "framing shared with SN 12.53, SN 12.54, and SN 12.57, "
+         "distinct from the grasping framing of the tree similes in "
+         "SN 12.55 and SN 12.56."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.58:1.1-1.4"),
+        ("p", "&sect;2", "sn12.58:2.1-2.4"),
+        ("p", "&sect;3", "sn12.58:3.1-3.3"),
+        ("p", "&sect;4", "sn12.58:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say happens when attention concentrates on gratification, unlike this chapter's earlier discourses?",
+         "opts": [
+             "Name and form are conceived, rather than craving simply growing",
+             "The tree immediately dies",
+             "Nothing at all; this discourse describes no arising",
+             "The mendicant achieves awakening automatically"],
+         "correct": 0,
+         "expl": "The point of application shifted one step earlier in the chain."},
+        {"q": "What earlier discourse in this saṃyutta uses the identical phrase \"nāmarūpassa avakkanti\"?",
+         "opts": [
+             "SN 12.39, describing what follows consciousness's establishment",
+             "SN 12.1, the opening statement of dependent origination",
+             "SN 12.15, on existence and non-existence",
+             "No earlier discourse uses this phrase"],
+         "correct": 0,
+         "expl": "A direct textual link back to the Intention discourses' rebirth mechanics."},
+        {"q": "Which tree simile does this discourse reuse?",
+         "opts": [
+             "The great tree simile from SN 12.55, word for word",
+             "An entirely new simile not used elsewhere",
+             "The sapling simile from SN 12.57",
+             "The oil lamp simile from SN 12.53"],
+         "correct": 0,
+         "expl": "The same feeding mechanism, redirected to a different target."},
+        {"q": "What framing does this discourse use?",
+         "opts": [
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu)",
+             "An entirely new framing not seen elsewhere",
+             "No framing vocabulary at all"],
+         "correct": 0,
+         "expl": "Matching SN 12.53, SN 12.54, and SN 12.57 rather than the grasping framing of the tree similes."},
+        {"q": "What does applying the tree simile to name and form's conception suggest about the simile's real subject?",
+         "opts": [
+             "That the simile was always about the general mechanism of conditioned arising, not craving specifically",
+             "That the simile only ever applies to craving and nothing else",
+             "That name and form and craving are entirely unrelated concepts",
+             "That this discourse is a scribal error unrelated to the rest of the chapter"],
+         "correct": 0,
+         "expl": "A more abstract, structural event illustrated by the same concrete image."},
+        {"q": "Where does the downstream chain resume after this discourse's point of entry?",
+         "opts": [
+             "At the six sense fields, conditioned by name and form",
+             "At old age and death directly",
+             "At ignorance",
+             "The chain does not resume; the discourse ends at name and form"],
+         "correct": 0,
+         "expl": "The familiar chain continuing from where this discourse enters it."},
+        {"q": "How many movements structure this discourse?",
+         "opts": [
+             "Four — arising alone, arising with simile, cessation alone, cessation with simile",
+             "Two, folded together",
+             "Six",
+             "One continuous statement"],
+         "correct": 0,
+         "expl": "The same four-part structure as SN 12.55 and SN 12.57."},
+        {"q": "What determines whether name and form are conceived or not, in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The species of tree used in the simile",
+             "Whether the mendicant is ordained or a layperson",
+             "The time of day the teaching is given"],
+         "correct": 0,
+         "expl": "The same attention-driven lever as every other discourse in this chapter."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("The same tree, a different target", [
+            "not craving's growth this time &mdash;",
+            "but name and form conceived",
+        ]),
+        ("A phrase reaching back", [
+            "nāmarūpassa avakkanti &mdash;",
+            "the same words as SN 12.39",
+        ]),
+        ("One step earlier in the chain", [
+            "upstream of craving altogether &mdash;",
+            "at the point a new existence takes shape",
+        ]),
+        ("The simile's real subject revealed", [
+            "not craving alone, but conditioning itself &mdash;",
+            "the tree standing for the mechanism, not the feeling",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.58/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.57.html">SN 12.57 &middot; A Sapling</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.39.html">SN 12.39 &middot; Intention (2nd)</a> '
+        "&mdash; the earlier discourse using the identical phrase "
+        "for name and form's descent.",
+        '<a href="sn-12.59.html">SN 12.59 &middot; Consciousness</a> '
+        "&mdash; the next discourse, moving the same tree simile "
+        "one further step upstream to consciousness itself.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.59 — Viññāṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 59, "Viññāṇa", "Consciousness",
+    meta_title="SN 12.59 — Consciousness | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Viññāṇasutta — this chapter's tree simile pushed one "
+        "further step upstream than SN 12.58, now applied to "
+        "consciousness's own conception rather than name and form's. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same four-movement, great-tree structure as "
+                 "SN 12.58, with consciousness's conception in place "
+                 "of name and form's"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the furthest upstream this chapter's tree "
+                       "simile is pushed"),
+    ],
+    why=(
+        "This discourse takes the shift SN 12.58 made and pushes it "
+        "one step further. Where SN 12.58 applied the tree simile to "
+        "name and form's conception, this discourse applies it to "
+        "consciousness's own conception (viññāṇassa avakkanti hoti) "
+        "&mdash; the very earliest point in the downstream chain the "
+        "tree simile is used for anywhere in this saṃyutta. The "
+        "downstream chain then resumes with consciousness "
+        "conditioning name and form, exactly reversing SN 12.58's "
+        "entry point one link further back. Heavily elided even by "
+        "this chapter's compressed standards, the discourse reads "
+        "almost as a template: the same tree, the same "
+        "attention-driven mechanism, moved one more notch toward the "
+        "chain's root."),
+    guide=[
+        ("One further step upstream than SN 12.58", [
+            "Exactly as SN 12.58 moved the tree simile's target from "
+            "craving to name and form, this discourse moves it again "
+            "from name and form to consciousness itself, the "
+            "earliest point in the chain this simile is applied to "
+            "anywhere in this saṃyutta."]),
+        ("The downstream chain resuming one link earlier", [
+            "Where SN 12.58 continued with name and form conditioning "
+            "the six sense fields, this discourse continues with "
+            "consciousness conditioning name and form, showing the "
+            "same reverse-chain logic simply shifted one position "
+            "back."]),
+        ("The most heavily elided discourse in this pairing", [
+            "Even the tree's own feeding mechanism, spelled out in "
+            "SN 12.55 and SN 12.58 alike, is elided here with a "
+            "peyyāla ellipsis, making this the most compressed member "
+            "of the great-tree family of similes in this chapter."]),
+        ("A small variant in the reverse formula's wording", [
+            "The reverse chain's opening phrase appears in two "
+            "slightly different forms across this discourse &mdash; "
+            "\"viññāṇanirodhā\" in one place and \"viññāṇassa "
+            "nirodhā\" in another &mdash; a minor wording variation "
+            "this reading guide notes rather than silently "
+            "smoothing over."]),
+        ("Three discourses, one simile, three points of entry", [
+            "Read together, SN 12.55, SN 12.58, and this discourse "
+            "show the same great tree simile applied at three "
+            "distinct points &mdash; craving, name and form, and "
+            "consciousness &mdash; confirming that the image itself "
+            "was never tied to any single link, only to the general "
+            "shape of something fed or starved by attention."]),
+    ],
+    terms=[
+        ("viññāṇassa avakkanti hoti",
+         "&ldquo;consciousness is conceived&rdquo; &mdash; the "
+         "earliest point in the chain this chapter's tree simile is "
+         "applied to, one step upstream of SN 12.58's name and "
+         "form."),
+        ("viññāṇapaccayā nāmarūpaṁ",
+         "&ldquo;consciousness is a requirement for name and "
+         "form&rdquo; &mdash; where the downstream chain resumes, "
+         "one link earlier than SN 12.58's entry point."),
+        ("viññāṇassa avakkanti na hoti",
+         "&ldquo;consciousness is not conceived&rdquo; &mdash; the "
+         "negated version opening the cessation half."),
+        ("viññāṇanirodhā nāmarūpanirodho",
+         "&ldquo;when consciousness ceases, name and form "
+         "cease&rdquo; &mdash; appearing later in the discourse in "
+         "the slightly different form &ldquo;viññāṇassa "
+         "nirodhā,&rdquo; a minor wording variation this guide notes "
+         "rather than smooths over."),
+        ("saṁyojaniyesu&hellip; dhammesu",
+         "&ldquo;things that tighten the fetters&rdquo; &mdash; the "
+         "same framing as SN 12.58."),
+    ],
+    text_intro=(
+        "The discourse in full, heavily elided even by this "
+        "chapter's compressed standards. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.59:1.1-1.4"),
+        ("p", "&sect;2", "sn12.59:2.1-2.3"),
+        ("p", "&sect;3", "sn12.59:3.1-3.3"),
+        ("p", "&sect;4", "sn12.59:4.1-4.6"),
+    ],
+    quiz=[
+        {"q": "What does this discourse apply the tree simile to, one step earlier than SN 12.58?",
+         "opts": [
+             "Consciousness's own conception",
+             "Old age and death directly",
+             "The six sense fields",
+             "Ignorance itself"],
+         "correct": 0,
+         "expl": "The earliest point in the chain this simile is applied to anywhere in this saṃyutta."},
+        {"q": "Where does the downstream chain resume after this discourse's point of entry?",
+         "opts": [
+             "At name and form, conditioned by consciousness",
+             "At the six sense fields directly",
+             "At craving",
+             "At rebirth"],
+         "correct": 0,
+         "expl": "One link earlier than SN 12.58's entry point at name and form."},
+        {"q": "How does this discourse's use of elision compare to SN 12.55 and SN 12.58?",
+         "opts": [
+             "More heavily elided, even eliding the tree's own feeding mechanism",
+             "Less elided, spelling out every detail in full",
+             "Identically elided, with no difference at all",
+             "This discourse contains no elision whatsoever"],
+         "correct": 0,
+         "expl": "The most compressed member of the great-tree family of similes in this chapter."},
+        {"q": "What minor wording variation does this reading guide note in the reverse formula?",
+         "opts": [
+             "\"Viññāṇanirodhā\" appears in one place and \"viññāṇassa nirodhā\" in another",
+             "The discourse uses two completely different words for consciousness",
+             "The Pali and English versions contradict each other",
+             "No variation is noted; the wording is perfectly consistent"],
+         "correct": 0,
+         "expl": "Noted honestly rather than silently smoothed over."},
+        {"q": "What do SN 12.55, SN 12.58, and this discourse together demonstrate about the great tree simile?",
+         "opts": [
+             "That it was never tied to any single link, only to the general shape of something fed or starved by attention",
+             "That the simile only ever applies to consciousness",
+             "That the three discourses teach contradictory doctrines",
+             "That the tree simile was abandoned after SN 12.55"],
+         "correct": 0,
+         "expl": "The same image applied at three distinct points in the chain."},
+        {"q": "What framing does this discourse use?",
+         "opts": [
+             "\"Things that tighten the fetters\" (saṁyojaniyesu dhammesu)",
+             "\"Things that fuel grasping\" (upādāniyesu dhammesu)",
+             "An entirely new framing",
+             "No framing vocabulary at all"],
+         "correct": 0,
+         "expl": "The same framing as SN 12.58, immediately before it."},
+        {"q": "How many movements structure this discourse?",
+         "opts": [
+             "Four — arising alone, arising with simile, cessation alone, cessation with simile",
+             "Two, folded together",
+             "Six",
+             "One continuous statement"],
+         "correct": 0,
+         "expl": "The same four-part structure as SN 12.58, though each movement is more heavily elided."},
+        {"q": "What determines whether consciousness is conceived or not, in this discourse?",
+         "opts": [
+             "Whether attention dwells on gratification or on drawbacks",
+             "The height of the tree in the simile",
+             "Whether the mendicant has taken formal ordination",
+             "The season of the year"],
+         "correct": 0,
+         "expl": "The same attention-driven lever running through every discourse in this chapter."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with most of this chapter's discourses."},
+    ],
+    marginalia=[
+        ("One step further upstream still", [
+            "not name and form, but consciousness &mdash;",
+            "the earliest point this simile reaches",
+        ]),
+        ("The chain resumed one link earlier", [
+            "consciousness conditioning name and form &mdash;",
+            "the same reversal, shifted back",
+        ]),
+        ("The most compressed telling yet", [
+            "even the tree's own detail elided &mdash;",
+            "a template more than a full picture",
+        ]),
+        ("Three points, one recurring image", [
+            "craving, name and form, consciousness &mdash;",
+            "the tree standing for the shape, not the link",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.59/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.58.html">SN 12.58 &middot; Name and Form</a> '
+        "&mdash; the discourse immediately before this one, applying "
+        "the same simile one link later in the chain.",
+        '<a href="sn-12.60.html">SN 12.60 &middot; Causation</a> '
+        "&mdash; the next discourse, closing this chapter with "
+        "Ānanda's famous remark and the Buddha's equally famous "
+        "reply.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.60 — Nidānasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 60, "Nidāna", "Causation",
+    meta_title="SN 12.60 — Causation | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nidānasutta — closing Dukkhavagga, Ānanda's offhand "
+        "remark that dependent origination seems plain as day meets "
+        "the Buddha's famous rebuke and the image of humanity "
+        "tangled like a knotted ball of thread. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Kammāsadamma, a town among the Kurus"),
+        ("Speakers", "The Buddha and Venerable Ānanda"),
+        ("Form", "A famous opening exchange, followed by this "
+                 "chapter's now-familiar great-tree teaching in its "
+                 "full four-movement form"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "a famous opening exchange closing this "
+                       "chapter on its most quoted note"),
+    ],
+    why=(
+        "Closing Dukkhavagga, this discourse opens with one of the "
+        "most quoted exchanges in the early texts. Ānanda remarks to "
+        "the Buddha that dependent origination, despite being deep "
+        "and appearing deep, seems to him as plain as can be. The "
+        "Buddha's reply is immediate and emphatic: not so, Ānanda, "
+        "not so &mdash; this teaching is genuinely deep, and it's "
+        "precisely because people fail to understand and penetrate "
+        "it that humanity remains tangled like string, knotted like "
+        "a ball of thread, matted like rushes and reeds, unable to "
+        "escape the lower realms and the whole cycle of transmigration. "
+        "Only after this exchange does the discourse turn to "
+        "material this chapter has made familiar &mdash; the great "
+        "tree fed by its own roots, felled and scattered when "
+        "starved &mdash; set here not at the usual Sāvatthī but among "
+        "the Kurus, at Kammāsadamma."),
+    guide=[
+        ("An admission, not a boast", [
+            "Ānanda's remark isn't framed as arrogance; it reads as "
+            "an honest, almost puzzled admission that a teaching "
+            "everyone describes as profound doesn't strike him that "
+            "way, making the Buddha's correction land as a genuine "
+            "clarification rather than a public rebuke."]),
+        ("A doubled denial for emphasis", [
+            "\"Mā hevaṁ, ānanda, mā hevaṁ, ānanda\" &mdash; not so, "
+            "Ānanda, not so, Ānanda &mdash; repeats the same denial "
+            "twice in immediate succession, a level of emphasis this "
+            "saṃyutta rarely uses elsewhere."]),
+        ("A three-part image of human entanglement", [
+            "Tangled like string, knotted like a ball of thread, "
+            "matted like rushes and reeds &mdash; three distinct "
+            "images of confusion and binding, stacked together "
+            "rather than relying on any single metaphor to carry the "
+            "point."]),
+        ("Real stakes named directly, not left abstract", [
+            "The consequence of failing to understand this teaching "
+            "isn't described as mere confusion; it's named directly "
+            "as not escaping the places of loss, the bad places, the "
+            "underworld, and transmigration &mdash; the same lower "
+            "realms named in SN 12.41's declaration of stream-entry."]),
+        ("A familiar teaching, given weight by an unfamiliar setting", [
+            "Once the exchange with Ānanda ends, the discourse "
+            "delivers the same great-tree teaching already given in "
+            "SN 12.55, in the same full four-movement form, but "
+            "relocates it to Kammāsadamma among the Kurus rather than "
+            "the chapter's usual Sāvatthī, a rare change of setting "
+            "that gives even this familiar material a distinct "
+            "occasion."]),
+    ],
+    terms=[
+        ("acchariyaṁ, bhante, abbhutaṁ, bhante",
+         "&ldquo;it's incredible, sir! It's amazing&rdquo; &mdash; "
+         "Ānanda's opening exclamation, framing an honest remark "
+         "rather than a challenge."),
+        ("gambhīro cāyaṁ paṭiccasamuppādo gambhīrāvabhāso ca, "
+         "atha ca pana me uttānakuttānako viya khāyati",
+         "&ldquo;this dependent origination is deep and appears "
+         "deep, yet to me it seems as plain as can be&rdquo; "
+         "&mdash; the remark that draws the Buddha's famous "
+         "correction."),
+        ("mā hevaṁ, ānanda, mā hevaṁ, ānanda",
+         "&ldquo;not so, Ānanda! Not so, Ānanda!&rdquo; &mdash; a "
+         "doubled denial, an unusual degree of emphasis in this "
+         "saṃyutta."),
+        ("tantākulakajātā kulagaṇṭhikajātā muñjapabbajabhūtā",
+         "&ldquo;tangled like string, knotted like a ball of "
+         "thread, and matted like rushes and reeds&rdquo; &mdash; "
+         "three stacked images of human entanglement."),
+        ("apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati",
+         "&ldquo;doesn't escape the places of loss, the bad places, "
+         "the underworld, transmigration&rdquo; &mdash; the "
+         "consequence of not understanding this teaching, named "
+         "directly rather than left abstract."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Dukkhavagga. The chapter's "
+        "closing verse of discourse titles is not translated in the "
+        "source and is not quoted here; see the reading guide above "
+        "for its contents. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.60:1.1-1.4"),
+        ("p", "&sect;2", "sn12.60:2.1-2.3"),
+        ("p", "&sect;3", "sn12.60:3.1-3.6"),
+        ("p", "&sect;4", "sn12.60:4.1-4.7"),
+        ("p", "&sect;5", "sn12.60:5.1-5.4"),
+        ("p", "&sect;6", "sn12.60:6.1-6.13"),
+    ],
+    quiz=[
+        {"q": "What does Ānanda remark to the Buddha at the start of this discourse?",
+         "opts": [
+             "That dependent origination, though called deep, seems to him as plain as can be",
+             "That he has fully understood the four noble truths",
+             "That he wishes to disrobe and return to lay life",
+             "That he disagrees with the Buddha's teaching on rebirth"],
+         "correct": 0,
+         "expl": "An honest admission, not a boast or a challenge."},
+        {"q": "How does the Buddha respond to Ānanda's remark?",
+         "opts": [
+             "With a doubled denial — \"not so, Ānanda! Not so, Ānanda!\"",
+             "By agreeing that it is indeed simple",
+             "By remaining silent",
+             "By asking another mendicant to respond instead"],
+         "correct": 0,
+         "expl": "An unusual level of emphasis for this saṃyutta."},
+        {"q": "What three images does the Buddha use to describe humanity's confusion?",
+         "opts": [
+             "Tangled like string, knotted like a ball of thread, matted like rushes and reeds",
+             "Lost like a traveler without a map",
+             "Blind like someone born without sight",
+             "Drowning like a swimmer caught in a current"],
+         "correct": 0,
+         "expl": "Three distinct images stacked together rather than a single metaphor."},
+        {"q": "What consequence does the Buddha name for failing to understand this teaching?",
+         "opts": [
+             "Not escaping the places of loss, the bad places, the underworld, and transmigration",
+             "Losing the respect of other mendicants",
+             "Being unable to recite scripture correctly",
+             "The discourse names no specific consequence"],
+         "correct": 0,
+         "expl": "The same lower realms named in SN 12.41's declaration of stream-entry."},
+        {"q": "What teaching does the discourse turn to after the exchange with Ānanda?",
+         "opts": [
+             "The great tree simile already given in SN 12.55, in its full form",
+             "An entirely new teaching not found elsewhere in this chapter",
+             "The catechism from SN 12.51",
+             "No further teaching follows; the discourse ends with the exchange"],
+         "correct": 0,
+         "expl": "Familiar material given weight by the exchange preceding it."},
+        {"q": "Where is this discourse set, unlike most of this chapter's other discourses?",
+         "opts": [
+             "Kammāsadamma, a town among the Kurus",
+             "Sāvatthī, in Jeta's Grove",
+             "Rājagaha, at the Bamboo Grove",
+             "Kapilavatthu, the Buddha's home city"],
+         "correct": 0,
+         "expl": "A rare change of setting from this chapter's usual Sāvatthī."},
+        {"q": "How is the great tree teaching's structure in this discourse, compared to SN 12.55?",
+         "opts": [
+             "The same full four-movement form",
+             "Compressed into two movements, unlike SN 12.55",
+             "Reduced to a single sentence",
+             "Expanded with additional new movements not in SN 12.55"],
+         "correct": 0,
+         "expl": "The full, unelided structure rather than the compressed style of this chapter's \"(2nd)\" discourses."},
+        {"q": "How does this discourse handle its closing verse of discourse titles?",
+         "opts": [
+             "It is untranslated in the source and not quoted in the text section",
+             "It is fully translated and quoted in the text section",
+             "This discourse has no closing verse at all",
+             "The closing verse is translated but placed in a footnote"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "What chapter does this discourse close?",
+         "opts": [
+             "Dukkhavagga",
+             "Gahapativagga",
+             "Kaḷārakhattiyavagga",
+             "Mahāvagga"],
+         "correct": 0,
+         "expl": "The sixth chapter of Nidānavagga, named for suffering though Sujato's English title calls it \"A Tree.\""},
+        {"q": "Who are the two speakers in this discourse?",
+         "opts": [
+             "The Buddha and Venerable Ānanda",
+             "The Buddha and Venerable Sāriputta",
+             "The Buddha and a visiting brahmin",
+             "The Buddha and King Pasenadi"],
+         "correct": 0,
+         "expl": "A direct exchange between teacher and attendant, unusual for this chapter."},
+    ],
+    marginalia=[
+        ("An honest remark, not a boast", [
+            "\"it seems plain to me\" &mdash;",
+            "puzzlement, not arrogance",
+        ]),
+        ("A denial doubled for weight", [
+            "\"not so, Ānanda! Not so!\" &mdash;",
+            "emphasis rare in this saṃyutta",
+        ]),
+        ("Three images of the same tangle", [
+            "string, thread, matted reeds &mdash;",
+            "no single metaphor enough",
+        ]),
+        ("A familiar tree, an unfamiliar place", [
+            "Kammāsadamma, not Sāvatthī &mdash;",
+            "old material, new occasion",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.60/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.59.html">SN 12.59 &middot; Consciousness</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-12.55.html">SN 12.55 &middot; A Great Tree</a> '
+        "&mdash; the earlier discourse giving the same tree teaching "
+        "this discourse repeats, without the exchange with Ānanda.",
+        '<a href="sn-12.41.html">SN 12.41 &middot; Fears and Enmities</a> '
+        "&mdash; opening the previous chapter with the same lower "
+        "realms this discourse warns of escaping.",
+    ],
+)
