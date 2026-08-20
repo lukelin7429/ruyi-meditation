@@ -13763,3 +13763,447 @@ page(
         "&mdash; the next poem in the Book of the Twenties.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thig 13.4 — Sundarī
+# --------------------------------------------------------------------------- #
+page(
+    13, 4, "Sundar&imacr;", "Sundar&imacr;",
+    meta_title="Thig 13.4 — Sundarī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Sundarī's verses, a four-generation family saga that only "
+        "arrives at its own titled speaker in its second half. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Poem 4 of 5",
+    glance=[
+        ("Setting", "A brahmin household, then Mithilā, then a journey "
+                    "to Sāvatthī to meet the Buddha directly"),
+        ("Speaker", "A mother, a father, a charioteer, and finally "
+                    "Sundarī herself, each in turn"),
+        ("Form", "Twenty-six verses, mostly four lines, several "
+                 "extending further"),
+        ("Length", "under 3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "four-generation family saga condensed into one "
+                       "poem"),
+    ],
+    why=(
+        "This poem is attributed to Sundarī, but more than half of it "
+        "passes before she ever appears: her mother's grief "
+        "transcended, her father's own swift attainment as a monk, "
+        "even a charioteer's mid-errand conversion, all told first. "
+        "Unlike Thig 13.3's Cāpā, though, Sundarī's own realization is "
+        "directly stated in her own words, climaxing in a journey to "
+        "the Buddha himself to &lsquo;roar my lion's roar&rsquo; before "
+        "him."),
+    guide=[
+        ("A funeral custom, not literal eating", [
+            "The poem opens with an image that can read strangely in "
+            "translation &mdash; &lsquo;feeding your departed "
+            "children&rsquo; &mdash; but this refers, as Sujato's own "
+            "note explains, to an ancient rite of ritually provisioning "
+            "the dead for their journey to the next life, not literal "
+            "consumption."]),
+        ("A mother's transcendence, a father's swift attainment", [
+            "Vāseṭṭhī explains her freedom from grief by &lsquo;knowing "
+            "the escape from rebirth and death&rsquo;, learned from the "
+            "Buddha at Mithilā &mdash; the same city named in this "
+            "collection's earlier Vāseṭṭhī poem, Thig 6.2, a striking "
+            "parallel this guide notes without asserting they are the "
+            "same figure. Her husband, moved by her account, goes "
+            "himself and attains the three knowledges after only three "
+            "days."]),
+        ("A conversion in the middle of an errand", [
+            "Sent to deliver news of her husband's attainment, the "
+            "charioteer instead refuses Vāseṭṭhī's gift of the "
+            "carriage and coins outright: &lsquo;I too shall go forth "
+            "in his presence, the one of such outstanding "
+            "wisdom&rsquo; &mdash; a conversion that happens entirely "
+            "within a single errand."]),
+        ("Sundarī's own declaration, stated directly", [
+            "Where Cāpā's poem never states her own path, Sundarī's "
+            "does: &lsquo;I've attained the three knowledges, and "
+            "fulfilled the Buddha's instructions&rsquo;, followed by a "
+            "request to travel to Sāvatthī and &lsquo;roar my lion's "
+            "roar before the best of Buddhas&rsquo; &mdash; closing "
+            "with her own address to him as his &lsquo;rightful "
+            "daughter, born of your mouth&rsquo;."]),
+    ],
+    terms=[
+        ("Sundar&imacr;",
+         "this poem's titled speaker, whose own attainment is stated "
+         "directly, unlike Cāpā's poem just before this one."),
+        ("V&amacr;se&#7789;&#7789;h&imacr;",
+         "Sundarī's mother, whose freedom from grief and account of "
+         "the Buddha at Mithilā opens this poem &mdash; sharing a name "
+         "and city with Thig 6.2's Vāseṭṭhī, a parallel this guide "
+         "notes without asserting identity."),
+        ("kh&amacr;dam&amacr;n&amacr;",
+         "&ldquo;feeding&rdquo; &mdash; referring to an ancient funeral "
+         "rite of ritually provisioning the departed, not literal "
+         "eating."),
+        ("s&imacr;han&amacr;da",
+         "&ldquo;lion's roar&rdquo; &mdash; Sundarī's own vivid image "
+         "for the declaration she intends to make before the Buddha."),
+        ("orasā mukhato jātā",
+         "&ldquo;rightful daughter, born of your mouth&rdquo; &mdash; "
+         "Sundarī's own description of her spiritual lineage, addressed "
+         "directly to the Buddha."),
+    ],
+    text_intro=(
+        "The text in full: a mother's transcendence, a father's swift "
+        "attainment, a charioteer's conversion, and finally Sundarī's "
+        "own path to the Buddha. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig13.4:1.1-2.4"),
+        ("p", "&sect;2", "thig13.4:3.1-4.4"),
+        ("p", "&sect;3", "thig13.4:5.1-7.4"),
+        ("p", "&sect;4", "thig13.4:8.1-8.4"),
+        ("p", "&sect;5", "thig13.4:9.1-11.4"),
+        ("p", "&sect;6", "thig13.4:12.1-13.6"),
+        ("p", "&sect;7", "thig13.4:14.1-15.4"),
+        ("p", "&sect;8", "thig13.4:16.1-17.6"),
+        ("p", "&sect;9", "thig13.4:18.1-18.6"),
+        ("p", "&sect;10", "thig13.4:19.1-21.4"),
+        ("p", "&sect;11", "thig13.4:22.1-25.4"),
+        ("p", "&sect;12", "thig13.4:26.1-26.6"),
+    ],
+    quiz=[
+        {"q": "What does 'feeding your departed children' actually refer to, per Sujato's note?",
+         "opts": [
+             "An ancient funeral rite of ritually provisioning the dead for the next life",
+             "Literal consumption",
+             "A metaphor with no specific ritual meaning",
+             "A type of monastic almsgiving"],
+         "correct": 0,
+         "expl": "Citing the Śatapatha Brāhmaṇa's account of funeral duties."},
+        {"q": "How does Vāseṭṭhī explain her freedom from grief?",
+         "opts": [
+             "She refuses to explain",
+             "She claims she never grieved at all",
+             "Through wealth and status",
+             "By knowing the escape from rebirth and death, learned from the Buddha at Mithilā"],
+         "correct": 3,
+         "expl": "Naming a specific source for her transcendence."},
+        {"q": "What does her account share with Thig 6.2's Vāseṭṭhī, without this guide asserting they are the same figure?",
+         "opts": [
+             "Nothing in particular",
+             "A shared name and the same city, Mithilā",
+             "An identical profession",
+             "A shared closing formula only"],
+         "correct": 1,
+         "expl": "A striking parallel, reported without claiming certainty."},
+        {"q": "How quickly does Sundarī's father attain the three knowledges, once ordained?",
+         "opts": [
+             "After many years",
+             "Immediately, with no practice described",
+             "After three days",
+             "The poem does not specify"],
+         "correct": 2,
+         "expl": "A swift, specific timeframe named directly."},
+        {"q": "What does the charioteer do when offered a gift for delivering the news?",
+         "opts": [
+             "He refuses it and resolves to go forth himself",
+             "He accepts it gladly",
+             "He demands a larger payment",
+             "He is not offered anything"],
+         "correct": 0,
+         "expl": "A conversion happening in the middle of a single errand."},
+        {"q": "Why does Sundarī say she wishes to go forth?",
+         "opts": [
+             "To inherit the family wealth",
+             "Racked by grief for her brother",
+             "At her mother's command only",
+             "No reason is given"],
+         "correct": 1,
+         "expl": "Echoing her father's own grief that first set this family's path in motion."},
+        {"q": "How does this poem's own titled speaker's realization compare to Thig 13.3's Cāpā?",
+         "opts": [
+             "Neither poem states its speaker's realization",
+             "Both state it identically",
+             "Cāpā's is stated in detail; Sundarī's is not",
+             "Sundarī's is directly stated in her own words; Cāpā's is never stated"],
+         "correct": 3,
+         "expl": "A direct contrast between the two poems' closing structures."},
+        {"q": "What does Sundarī ask permission to do, once she has attained the three knowledges?",
+         "opts": [
+             "To return to lay life",
+             "To remain silent permanently",
+             "Nothing further is requested",
+             "To travel to Sāvatthī and 'roar my lion's roar' before the Buddha"],
+         "correct": 3,
+         "expl": "A vivid, confident image closing her own account."},
+        {"q": "How does Sundarī describe herself to the Buddha directly?",
+         "opts": [
+             "As an unrelated stranger",
+             "As his 'rightful daughter, born of your mouth'",
+             "As still uncertain of her path",
+             "She does not address him directly"],
+         "correct": 1,
+         "expl": "A striking image of spiritual lineage, closing the poem."},
+        {"q": "What position does this poem hold in the Book of the Twenties?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The fourth poem, following Cāpā",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 13.3, continuing the Book of the Twenties."},
+    ],
+    marginalia=[
+        ("A funeral rite, not literal eating", [
+            "an ancient custom,",
+            "clarified by the note"
+        ]),
+        ("A mother, a father, a charioteer", [
+            "three conversions",
+            "before Sundarī appears"
+        ]),
+        ("Her own declaration, stated directly", [
+            "unlike Cāpā's poem",
+            "just before it"
+        ]),
+        ("A lion's roar, and a rightful daughter", [
+            "confident images,",
+            "closing the poem"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig13.4/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-13.3.html">Thig 13.3 &mdash; C&amacr;p&amacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-6.2.html">Thig 6.2 &mdash; V&amacr;se&#7789;&#7789;'
+        "&imacr;</a> &mdash; an earlier poem sharing this one's mother's "
+        "name and city.",
+        '<a href="thig-13.5.html">Thig 13.5 &mdash; Subh&amacr;, the '
+        "Smith&rsquo;s Daughter</a> &mdash; the next poem, closing the "
+        "Book of the Twenties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 13.5 — Subhā, the Smith's Daughter
+# --------------------------------------------------------------------------- #
+page(
+    13, 5, "Subh&amacr; Kamm&amacr;radh&imacr;t&amacr;", "Subh&amacr;, "
+    "the Smith&rsquo;s Daughter",
+    meta_title="Thig 13.5 — Subhā, the Smith's Daughter | Ru-Yi "
+                "Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Subhā's verses, a sustained discourse on the dangers of "
+        "sensual pleasure, closing the Book of the Twenties with "
+        "Sakka's own homage. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Poem 5 of 5",
+    glance=[
+        ("Setting", "No narrative setting for most of the poem; a "
+                    "closing frame names the speaker and describes her "
+                    "circumstances"),
+        ("Speaker", "Subhā, addressing her own family directly within "
+                    "an extended discourse, then an outside voice "
+                    "praising her"),
+        ("Form", "Twenty-nine verses, closing the Book of the Twenties"),
+        ("Length", "under 3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; one "
+                       "of the longest sustained single discourses in "
+                       "this collection"),
+    ],
+    why=(
+        "This poem closes the Book of the Twenties with Subhā's own "
+        "extended meditation on the dangers of sensual pleasure "
+        "&mdash; some twenty verses addressed in part directly to her "
+        "own family, who pressed her to return to lay life. The "
+        "closing frame then names her teacher directly as Uppalavaṇṇā, "
+        "whose own poem appears earlier in this collection, states "
+        "that Subhā reached full attainment just eight days after "
+        "going forth, and describes Sakka, king of the gods, coming "
+        "personally to honor her."),
+    guide=[
+        ("A sustained discourse, not a brief confession", [
+            "From &lsquo;I comprehended the truth&rsquo; in the "
+            "opening verse through roughly twenty further verses "
+            "cataloging sensual pleasure's dangers &mdash; "
+            "&lsquo;enemies and killers&rsquo;, &lsquo;a snake's "
+            "head&rsquo;, &lsquo;a mass of fire&rsquo; &mdash; this "
+            "poem sustains a single extended argument longer than most "
+            "other poems in this collection."]),
+        ("Family addressed directly, twice, as if enemies", [
+            "&lsquo;My family, why do you urge me on to pleasures, as "
+            "if you were my enemies? You know I've gone forth, seeing "
+            "fear in sensual pleasures&rsquo; repeats nearly word for "
+            "word &mdash; a specific, personal address embedded within "
+            "the broader doctrinal argument."]),
+        ("A named teacher, connecting to an earlier poem", [
+            "&lsquo;Guided by Uppalavaṇṇā, she is master of the three "
+            "knowledges&rsquo; names Subhā's teacher directly as the "
+            "nun whose own poem, celebrated for its vivid display of "
+            "psychic power against Māra, appears earlier in this "
+            "collection at Thig 11.1."]),
+        ("An attainment dated to eight days, and homage from the king of the gods", [
+            "&lsquo;It's just eight days since she went forth&rsquo; "
+            "marks an unusually fast, precisely dated attainment, and "
+            "the poem's final verse describes Sakka, &lsquo;lord of "
+            "all creatures&rsquo;, coming with a host of gods by their "
+            "own psychic powers specifically to honor her &mdash; "
+            "closing the Book of the Twenties on an exceptional note."]),
+    ],
+    terms=[
+        ("Subh&amacr; Kamm&amacr;radh&imacr;t&amacr;",
+         "&ldquo;Subhā, the smith's daughter&rdquo; &mdash; this "
+         "poem's speaker, named by her father's trade in her own "
+         "title."),
+        ("k&amacr;ma",
+         "sensual pleasures &mdash; the central subject of this "
+         "poem's extended discourse, cataloged through many distinct "
+         "images of danger."),
+        ("Uppalava&#7751;&#7751;&amacr;",
+         "Subhā's own named teacher, whose own poem earlier in this "
+         "collection, Thig 11.1, describes a vivid display of psychic "
+         "power against Māra."),
+        ("ajja&#7789;&#7789;ham&imacr;",
+         "&ldquo;eight days&rdquo; &mdash; how recently Subhā had gone "
+         "forth at the time of this poem's closing praise, an "
+         "unusually fast, precisely dated attainment."),
+        ("Sakka",
+         "the king of the gods, who comes personally with a host of "
+         "deities to honor Subhā in this poem's final verse."),
+    ],
+    text_intro=(
+        "The text in full: Subhā's extended discourse, then an outside "
+        "voice praising her attainment and Sakka's own homage. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig13.5:1.1-4.4"),
+        ("p", "&sect;2", "thig13.5:5.1-9.4"),
+        ("p", "&sect;3", "thig13.5:10.1-13.4"),
+        ("p", "&sect;4", "thig13.5:14.1-18.4"),
+        ("p", "&sect;5", "thig13.5:19.1-22.4"),
+        ("p", "&sect;6", "thig13.5:23.1-25.4"),
+        ("p", "&sect;7", "thig13.5:26.1-28.4"),
+        ("p", "&sect;8", "thig13.5:29.1-29.4"),
+    ],
+    quiz=[
+        {"q": "What is the central subject of Subhā's extended discourse?",
+         "opts": [
+             "The dangers of sensual pleasure",
+             "The history of her father's trade",
+             "A dispute with another nun",
+             "No particular subject is sustained"],
+         "correct": 0,
+         "expl": "Roughly twenty verses cataloging danger after danger."},
+        {"q": "Who does Subhā address directly, calling them as if her enemies?",
+         "opts": [
+             "Māra",
+             "Her own family",
+             "A group of strangers",
+             "No one is directly addressed"],
+         "correct": 1,
+         "expl": "A specific, personal address repeated nearly word for word within the poem."},
+        {"q": "What images does Subhā use to describe sensual pleasure's dangers?",
+         "opts": [
+             "Gentle, comforting images",
+             "No images are used",
+             "Only abstract philosophical terms",
+             "Enemies and killers, a snake's head, a mass of fire"],
+         "correct": 3,
+         "expl": "Vivid, forceful imagery sustained across many verses."},
+        {"q": "Who does the poem's closing frame name as Subhā's teacher?",
+         "opts": [
+             "Paṭācārā",
+             "Uppalavaṇṇā, whose own poem appears earlier in this collection",
+             "No teacher is named",
+             "Mahāpajāpati Gotamī"],
+         "correct": 1,
+         "expl": "Connecting this poem directly to Thig 11.1."},
+        {"q": "How long after going forth had Subhā reached full attainment?",
+         "opts": [
+             "Many years",
+             "A single day",
+             "Just eight days",
+             "The duration is not given"],
+         "correct": 2,
+         "expl": "An unusually fast, precisely dated attainment."},
+        {"q": "Who comes to honor Subhā in this poem's final verse?",
+         "opts": [
+             "A group of local villagers",
+             "Sakka, king of the gods, with a host of deities",
+             "No one comes to honor her",
+             "Only the Buddha himself"],
+         "correct": 1,
+         "expl": "An exceptional closing note for the Book of the Twenties."},
+        {"q": "What does Subhā say about gold and currency for an ascetic?",
+         "opts": [
+             "That they are essential for practice",
+             "That the poem does not address wealth",
+             "That she wishes to acquire more",
+             "That they don't lead to peace and awakening, and are not the wealth of the noble ones"],
+         "correct": 3,
+         "expl": "Rejected directly, early in her discourse."},
+        {"q": "What position does this poem hold in the Book of the Twenties?",
+         "opts": [
+             "The first poem",
+             "The third poem",
+             "The fifth and last poem, closing the book",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "The final poem of five in the Book of the Twenties."},
+        {"q": "What does 'kāma' mean?",
+         "opts": [
+             "'Sensual pleasures' — the central subject of this poem's discourse",
+             "'Eight days'",
+             "'A smith'",
+             "'The king of the gods'"],
+         "correct": 0,
+         "expl": "Named and examined from many angles across this poem."},
+        {"q": "How does this poem's structure compare to most other poems in this collection?",
+         "opts": [
+             "It is identical in length to most others",
+             "It contains no sustained argument at all",
+             "It is among the shortest poems in the collection",
+             "It sustains one of the longest single discourses in this collection, roughly twenty verses on one theme"],
+         "correct": 3,
+         "expl": "An unusually extended, single-themed meditation."},
+    ],
+    marginalia=[
+        ("A sustained discourse, not brief", [
+            "twenty verses,",
+            "one argument"
+        ]),
+        ("Family, addressed as enemies", [
+            "'why do you urge",
+            "me on to pleasures?'"
+        ]),
+        ("A teacher, named directly", [
+            "Uppalavaṇṇā,",
+            "from Thig 11.1"
+        ]),
+        ("Eight days, then the king of the gods", [
+            "a fast attainment,",
+            "an exceptional homage"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig13.5/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-13.4.html">Thig 13.4 &mdash; Sundar&imacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-11.1.html">Thig 11.1 &mdash; Uppalava&#7751;&#7751;'
+        "&amacr;</a> &mdash; Subhā's own named teacher's poem, earlier "
+        "in this collection.",
+        '<a href="./">Therigatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
