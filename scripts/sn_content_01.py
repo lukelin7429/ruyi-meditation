@@ -49447,3 +49447,2700 @@ page(
         "collection index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.1 — Indakasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 1, "Indaka", "With Indaka",
+    meta_title="SN 10.1 — With Indaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Indakasutta — opening Yakkhasaṃyutta, a native spirit "
+        "asks how a body forms in the womb if form isn't the soul, "
+        "and receives one of the canon's detailed embryological "
+        "accounts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on Mount Indra's Peak, the "
+                    "yakkha Indaka's own domain"),
+        ("Speakers", "The native spirit (yakkha) Indaka and the "
+                     "Buddha"),
+        ("Form", "A philosophical question about embodiment, "
+                 "answered with a staged developmental account"),
+        ("Length", "~2.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "opens a new saṃyutta with genuine "
+                       "philosophical content"),
+    ],
+    why=(
+        "This discourse opens Yakkhasaṃyutta with something distinct "
+        "from a moral challenge or a personal struggle: a genuine "
+        "philosophical puzzle, raised by the native spirit Indaka on "
+        "his own home mountain. If the Buddhas teach that form isn't "
+        "the soul, Indaka asks, how does &lsquo;this one&rsquo; "
+        "&mdash; a person &mdash; end up with a body at all? Where do "
+        "bones and organs come from, and how does someone coalesce "
+        "in the womb? Rather than a metaphysical deflection, the "
+        "Buddha's answer is concretely developmental, tracing "
+        "conception through named stages of growth to limb formation, "
+        "hair, and nails, closing with the simple observation that "
+        "the mother's own food and drink nourish the person growing "
+        "within her."),
+    guide=[
+        ("A question asked on the questioner's own ground", [
+            "Indaka doesn't seek the Buddha out elsewhere; the "
+            "mountain itself, Indakūṭa, is named for him and described "
+            "as his own haunt &mdash; the discourse taking place on "
+            "the yakkha's home territory rather than the Buddha's own "
+            "usual settings."]),
+        ("A puzzle built from the Buddha's own teaching", [
+            "Indaka's question isn't hostile or skeptical of the "
+            "teaching generally; it takes the specific claim that "
+            "form isn't the soul as its starting premise, and asks a "
+            "genuinely difficult follow-up: if that's true, how does "
+            "embodiment happen at all?"]),
+        ("An answer given in concrete, staged terms", [
+            "Rather than a purely abstract or doctrinal response, the "
+            "Buddha's reply moves through a specific developmental "
+            "sequence &mdash; named stages of early growth, then limb "
+            "buds, then hair and nails &mdash; treating the question "
+            "as one that deserves a concrete, descriptive answer."]),
+        ("Ancient developmental terms, not modern embryology", [
+            "The translation renders the four early stages using "
+            "terms borrowed from modern embryology (zygote, "
+            "blastocyst, gastrula, embryonic mass); this reading guide "
+            "notes that the ancient Pali terms (kalala, abbuda, pesi, "
+            "ghana) describe a traditional staged model of gestation, "
+            "not a claim of precise correspondence with contemporary "
+            "biological science."]),
+        ("Nourishment named as the final, grounding detail", [
+            "The account doesn't end with anatomical formation alone; "
+            "it closes on something plainly observable &mdash; "
+            "whatever the mother eats and drinks nourishes the person "
+            "growing within her &mdash; anchoring an otherwise "
+            "technical account in ordinary experience."]),
+    ],
+    terms=[
+        ("rūpaṁ na jīvanti vadanti buddhā",
+         "&ldquo;the Buddhas say that form is not the soul&rdquo; "
+         "&mdash; Indaka's philosophical starting premise."),
+        ("kalalaṁ&hellip;abbudaṁ&hellip;pesi&hellip;ghano",
+         "the four named early stages of gestation (rendered by the "
+         "translation as zygote, blastocyst, gastrula, and embryonic "
+         "mass) &mdash; the core content of the Buddha's answer."),
+        ("pasākhā jāyanti, kesā lomā nakhāpi ca",
+         "&ldquo;limb buds appear, the head hair, body hair, and "
+         "nails&rdquo; &mdash; the developmental sequence continuing "
+         "past the earliest stages."),
+        ("yañcassa bhuñjatī mātā, annaṁ pānañca bhojanaṁ",
+         "&ldquo;whatever the mother eats&hellip;nourishes them "
+         "there&rdquo; &mdash; the account's closing, ordinary-life "
+         "grounding detail."),
+        ("indakassa yakkhassa bhavane",
+         "&ldquo;the haunt of the native spirit Indaka&rdquo; "
+         "&mdash; the setting itself, on the questioner's own "
+         "mountain."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Yakkhasaṃyutta. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.1:1.1-1.3"),
+        ("p", "&sect;2", "sn10.1:2.1-2.4"),
+        ("p", "&sect;3", "sn10.1:3.1-3.6"),
+        ("p", "&sect;4", "sn10.1:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "On Mount Indra's Peak, described as Indaka's own haunt",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Vesālī, in a forest grove",
+             "At Kusinārā, among the sal trees"],
+         "correct": 0,
+         "expl": "The yakkha's own home territory, not the Buddha's usual settings."},
+        {"q": "What premise does Indaka's question start from?",
+         "opts": [
+             "The Buddhist teaching that form is not the soul",
+             "A rejection of the Buddha's teaching entirely",
+             "A claim that no body exists at all",
+             "A question unrelated to any prior teaching"],
+         "correct": 0,
+         "expl": "Taking a specific Buddhist claim as its starting point, not challenging it directly."},
+        {"q": "What does Indaka specifically ask about?",
+         "opts": [
+             "How a person obtains a body and coalesces in the womb, if form isn't the soul",
+             "How to achieve enlightenment quickly",
+             "Why the Buddha lives in the forest",
+             "How to overcome fear of death"],
+         "correct": 0,
+         "expl": "A genuinely difficult philosophical follow-up question about embodiment."},
+        {"q": "How does the Buddha's answer proceed?",
+         "opts": [
+             "Through a specific, staged developmental sequence, not a purely abstract response",
+             "By refusing to answer the question",
+             "By denying that bodies exist",
+             "With a single, unelaborated statement"],
+         "correct": 0,
+         "expl": "Concrete and descriptive rather than purely doctrinal."},
+        {"q": "How does the translation render the four early stages of gestation named in the verse?",
+         "opts": [
+             "Using modern embryological terms: zygote, blastocyst, gastrula, embryonic mass",
+             "Using only vague, unspecified terms",
+             "Using no specific terminology at all",
+             "Using terms for fully formed organs only"],
+         "correct": 0,
+         "expl": "A translation choice this reading guide notes without claiming precise scientific correspondence."},
+        {"q": "What developmental details does the account include after the earliest stages?",
+         "opts": [
+             "Limb buds, head hair, body hair, and nails",
+             "Only the formation of the brain",
+             "Only the formation of internal organs",
+             "No further details are given"],
+         "correct": 0,
+         "expl": "Continuing the staged, descriptive account of growth."},
+        {"q": "What grounding detail closes the Buddha's account?",
+         "opts": [
+             "That whatever the mother eats and drinks nourishes the person growing within her",
+             "A warning about the dangers of childbirth",
+             "A prediction about the child's future",
+             "No closing detail is given"],
+         "correct": 0,
+         "expl": "Anchoring a technical account in ordinary, observable experience."},
+        {"q": "What kind of being is Indaka?",
+         "opts": [
+             "A native spirit (yakkha)",
+             "A brahmin ascetic",
+             "A deity of the Thirty-Three",
+             "A human king"],
+         "correct": 0,
+         "expl": "Opening the new saṃyutta named for beings of this type."},
+        {"q": "How does this discourse's opening tone compare to Vanasaṃyutta's typical pattern?",
+         "opts": [
+             "It poses a genuine philosophical question rather than correcting a personal struggle",
+             "It follows an identical pattern of correcting a monk's fault",
+             "It contains no dialogue at all",
+             "It features a deity impersonating another person"],
+         "correct": 0,
+         "expl": "A shift toward doctrinal inquiry rather than personal moral correction."},
+        {"q": "What is the name of the mountain where this discourse takes place?",
+         "opts": [
+             "Indakūṭa (Mount Indra's Peak), named for Indaka himself",
+             "Vulture's Peak",
+             "Isigili",
+             "The mountain is not named"],
+         "correct": 0,
+         "expl": "A location tied directly to the questioner's own identity."},
+    ],
+    marginalia=[
+        ("A question asked on his own mountain", [
+            "Indakūṭa, named for the questioner himself &mdash;",
+            "the Buddha visiting yakkha territory",
+        ]),
+        ("A puzzle built from the teaching itself", [
+            "not hostile, but genuinely curious &mdash;",
+            "form not the soul, so how does a body form?",
+        ]),
+        ("Named stages, not vague description", [
+            "zygote, blastocyst, gastrula, mass &mdash;",
+            "a concrete developmental sequence",
+        ]),
+        ("Nourishment grounding the technical account", [
+            "what the mother eats reaches the child &mdash;",
+            "ordinary experience closing the answer",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-9.14.html">SN 9.14 &middot; The Thief of '
+        "Scent</a> &mdash; the discourse closing Vanasaṃyutta, "
+        "immediately before this one.",
+        '<a href="sn-10.2.html">SN 10.2 &middot; Sakka In Name '
+        "Only</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.2 — Sakkanāmasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 2, "Sakkanāma", "Sakka In Name Only",
+    meta_title="SN 10.2 — Sakka In Name Only | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sakkanāmasutta — a spirit who merely shares a name with "
+        "the god Sakka challenges the Buddha's decision to teach at "
+        "all, and learns why compassion doesn't create the "
+        "attachment it seems to require. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, on Vulture's Peak Mountain"),
+        ("Speakers", "A spirit \"Sakka in name only\" and the "
+                     "Buddha"),
+        ("Form", "A philosophical challenge about teaching after "
+                 "liberation, met with a precise distinction"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "compact, addressing a genuine tension in the "
+                       "idea of a liberated teacher"),
+    ],
+    why=(
+        "This spirit's very name carries a built-in qualification: "
+        "the text identifies him explicitly as &lsquo;Sakka in name "
+        "only&rsquo;, distinct from the actual deity-king Sakka who "
+        "appears elsewhere in this collection. His challenge to the "
+        "Buddha raises a genuine philosophical tension: if you've "
+        "given up all ties and are fully free, why would it make "
+        "sense for you to keep instructing others at all? Doesn't "
+        "teaching imply some remaining investment, some tie not yet "
+        "cut? The Buddha's answer doesn't deny the premise of his own "
+        "freedom; it draws a precise distinction between the kind of "
+        "engagement that creates bondage and the kind that doesn't, "
+        "identifying compassion itself as capable of operating "
+        "without attachment."),
+    guide=[
+        ("A name that pre-emptively qualifies its own bearer", [
+            "The discourse's title and opening line both specify "
+            "&lsquo;Sakka in name only&rsquo;, a detail this reading "
+            "guide takes as a deliberate signal distinguishing this "
+            "spirit from the actual Sakka, ruler of the Thirty-Three "
+            "gods, appearing elsewhere in this collection."]),
+        ("A challenge with real philosophical bite", [
+            "The question isn't a simple provocation; it names a "
+            "genuine tension found across contemplative traditions "
+            "&mdash; if liberation means being free of all ties, how "
+            "does continued engagement with others, especially "
+            "through active teaching, fit that description?"]),
+        ("A reply that doesn't dispute the premise of freedom", [
+            "The Buddha's answer doesn't argue that he's somehow not "
+            "fully free; it accepts the framing of complete "
+            "liberation and locates the resolution elsewhere entirely "
+            "&mdash; in the specific nature of the engagement itself, "
+            "not in denying the underlying freedom."]),
+        ("Sympathy named as an obligation, not an optional extra", [
+            "The verse's first response doesn't merely permit "
+            "compassion for others; it states that failing to feel "
+            "sympathy for those one encounters is &lsquo;unworthy for "
+            "a wise person&rsquo;, treating such sympathy as basic to "
+            "wisdom rather than a separate, additional virtue."]),
+        ("A precise mechanism distinguishing compassion from attachment", [
+            "The closing lines don't just assert that teaching is "
+            "fine; they specify the actual condition under which it "
+            "avoids creating bondage &mdash; a mind that is clear and "
+            "confident, where compassion and empathy themselves "
+            "&lsquo;don't create attachments&rsquo;, locating the "
+            "difference in the quality of mind behind the action "
+            "rather than the action itself."]),
+    ],
+    terms=[
+        ("sakkanāmako yakkho",
+         "&ldquo;a spirit who was Sakka in name only&rdquo; &mdash; "
+         "explicitly distinguishing this figure from the actual deity "
+         "Sakka."),
+        ("sabbaganthappahīnassa, vippamuttassa",
+         "&ldquo;given up all ties, and fully freed&rdquo; &mdash; "
+         "the spirit's own premise about the Buddha's attainment."),
+        ("samaṇassa na taṁ sādhu, yadaññamanusāsasi",
+         "&ldquo;it's not a good idea for you, ascetic, to be "
+         "instructing others&rdquo; &mdash; the challenge itself."),
+        ("na taṁ arahati sappañño, manasā anukampituṁ",
+         "&ldquo;it's unworthy for a wise person not to think of the "
+         "other with sympathy&rdquo; &mdash; the Buddha's counter-"
+         "principle."),
+        ("na tena hoti saṁyutto, yānukampā anuddayā",
+         "&ldquo;your compassion and empathy don't create "
+         "attachments&rdquo; &mdash; the precise mechanism resolving "
+         "the challenge."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.2:1.1-1.2"),
+        ("p", "&sect;2", "sn10.2:2.1-2.4"),
+        ("p", "&sect;3", "sn10.2:3.1-3.4"),
+        ("p", "&sect;4", "sn10.2:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does the discourse specify about the spirit who challenges the Buddha?",
+         "opts": [
+             "He is \"Sakka in name only,\" distinct from the actual deity Sakka",
+             "He is the actual ruler of the Thirty-Three gods",
+             "He is a human disguised as a spirit",
+             "His identity is left completely unspecified"],
+         "correct": 0,
+         "expl": "A deliberate distinction from the Sakka who appears elsewhere in this collection."},
+        {"q": "What challenge does this spirit raise?",
+         "opts": [
+             "If the Buddha has given up all ties, why does it make sense for him to instruct others?",
+             "That the Buddha's teaching is factually incorrect",
+             "That the Buddha should abandon meditation entirely",
+             "That the Buddha should return to lay life"],
+         "correct": 0,
+         "expl": "A genuine philosophical tension about liberation and continued engagement."},
+        {"q": "How does the Buddha's reply handle the premise that he is fully free?",
+         "opts": [
+             "It accepts the premise fully and locates the resolution elsewhere",
+             "It denies that he is actually free at all",
+             "It refuses to address the premise",
+             "It claims freedom is impossible to achieve"],
+         "correct": 0,
+         "expl": "Not disputing the underlying claim of complete liberation."},
+        {"q": "How does the Buddha characterize failing to feel sympathy for others?",
+         "opts": [
+             "As unworthy for a wise person",
+             "As a sign of advanced wisdom",
+             "As irrelevant to spiritual attainment",
+             "As something only laypeople need concern themselves with"],
+         "correct": 0,
+         "expl": "Treating sympathy as basic to wisdom itself, not an optional addition."},
+        {"q": "What condition does the Buddha specify for teaching to avoid creating attachment?",
+         "opts": [
+             "A mind that is clear and confident",
+             "Complete silence and withdrawal from all others",
+             "Teaching only a select few chosen disciples",
+             "No condition is specified"],
+         "correct": 0,
+         "expl": "Locating the difference in the quality of mind behind the action."},
+        {"q": "What does the Buddha claim about compassion and empathy specifically?",
+         "opts": [
+             "That they don't create attachments",
+             "That they always create some degree of attachment",
+             "That they are identical to attachment itself",
+             "That they are irrelevant to the question of attachment"],
+         "correct": 0,
+         "expl": "The precise mechanism resolving the spirit's challenge."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, on Vulture's Peak Mountain",
+             "On Mount Indra's Peak",
+             "At Sāvatthī, in Jeta's Grove",
+             "Near Vesālī, in a forest grove"],
+         "correct": 0,
+         "expl": "A different Rājagaha-area location from SN 10.1's Indakūṭa."},
+        {"q": "How does this discourse's challenge compare to a common tension in contemplative traditions?",
+         "opts": [
+             "It directly addresses whether liberation and continued teaching engagement can coexist",
+             "It has no relationship to any broader philosophical tension",
+             "It only concerns a narrow, technical monastic rule",
+             "It concerns a purely historical dispute unrelated to doctrine"],
+         "correct": 0,
+         "expl": "A genuine question found across traditions about the liberated teacher."},
+        {"q": "Does the Buddha's reply deny that teaching involves any relationship with others?",
+         "opts": [
+             "No; it acknowledges the relationship but distinguishes it from attachment",
+             "Yes, it claims no relationship exists in teaching",
+             "Yes, it denies the Buddha teaches at all",
+             "The reply does not address the nature of the relationship"],
+         "correct": 0,
+         "expl": "Accepting the engagement while distinguishing its quality from binding attachment."},
+        {"q": "What is the structural relationship between this discourse and SN 10.1?",
+         "opts": [
+             "Both are early discourses in Yakkhasaṃyutta, addressing genuine philosophical questions from spirits",
+             "This discourse contradicts everything established in SN 10.1",
+             "The two discourses share identical content",
+             "SN 10.2 closes the entire saṃyutta"],
+         "correct": 0,
+         "expl": "Continuing the saṃyutta's opening pattern of substantive philosophical inquiry from yakkhas."},
+    ],
+    marginalia=[
+        ("A name that qualifies itself", [
+            "\"Sakka in name only\" &mdash;",
+            "distinct from the actual god of that name",
+        ]),
+        ("A real tension, not a cheap shot", [
+            "if fully free, why keep teaching? &mdash;",
+            "a question worth taking seriously",
+        ]),
+        ("Freedom accepted, not disputed", [
+            "the premise granted in full &mdash;",
+            "the resolution found elsewhere",
+        ]),
+        ("Compassion without the tie it seems to require", [
+            "clear mind, no attachment created &mdash;",
+            "the quality of mind, not the act itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.1.html">SN 10.1 &middot; With Indaka</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.3.html">SN 10.3 &middot; With Spiky</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.3 — Sūcilomasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 3, "Sūciloma", "With Spiky",
+    meta_title="SN 10.3 — With Spiky | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sūcilomasutta — a needle-bodied spirit leans his painful "
+        "touch against the Buddha and threatens violence over an "
+        "unanswered question, receiving instead calm composure and a "
+        "teaching on where craving begins. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Near Gayā, on the cut-stone ledge, the yakkha "
+                    "Sūciloma's own domain"),
+        ("Speakers", "The native spirits Khara (\"Shaggy\") and "
+                     "Sūciloma (\"Spiky\"), and the Buddha"),
+        ("Form", "A physical test, a violent threat, calm refusal, "
+                 "and a substantial teaching in verse"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most physically dramatic confrontation in "
+                       "this saṃyutta"),
+    ],
+    why=(
+        "This discourse escalates further than anything encountered "
+        "so far in Yakkhasaṃyutta: overhearing a fellow spirit call "
+        "the Buddha an ascetic, Sūciloma disputes it outright, "
+        "calling him a &lsquo;faker&rsquo;, and sets out to test him "
+        "physically &mdash; leaning his own body, evidently sharp or "
+        "needle-covered given his name, directly against the Buddha, "
+        "who pulls away. When Sūciloma then threatens outright "
+        "violence unless his question is answered &mdash; driving the "
+        "Buddha insane, exploding his heart, or throwing him across "
+        "the Ganges &mdash; the response isn't fear or defiance but "
+        "calm, matter-of-fact composure, followed by an invitation to "
+        "simply ask. What follows is a genuine philosophical exchange "
+        "about where craving, hatred, and mental agitation actually "
+        "originate."),
+    guide=[
+        ("Skepticism voiced before any encounter begins", [
+            "The confrontation starts with two spirits disputing the "
+            "Buddha's authenticity from a distance, Sūciloma flatly "
+            "calling him a &lsquo;faker&rsquo; before ever "
+            "approaching &mdash; establishing genuine hostility, not "
+            "curiosity, as the discourse's starting point."]),
+        ("A physical test with real, described discomfort", [
+            "Sūciloma's approach isn't merely symbolic; leaning his "
+            "body against the Buddha causes an actual unpleasant "
+            "sensation, and the Buddha's own honest admission "
+            "&mdash; &lsquo;your touch is nasty&rsquo; &mdash; "
+            "doesn't pretend otherwise, distinguishing discomfort "
+            "from fear rather than denying the discomfort itself."]),
+        ("A threat of real violence, met without escalation", [
+            "Sūciloma's threefold threat is vivid and specific "
+            "&mdash; insanity, a burst heart, or being hurled across "
+            "the Ganges &mdash; and the Buddha's reply doesn't "
+            "counter-threaten or plead; it simply states, as fact, "
+            "that no being in the entire world could actually do "
+            "that to him, then moves straight to inviting the "
+            "question."]),
+        ("A question about the mind's own restlessness", [
+            "Sūciloma's actual question, once he finally asks it, "
+            "isn't a trick or a trap; it's a genuine inquiry into the "
+            "origin of greed, hatred, discontent, desire, and mental "
+            "agitation, vividly compared to &lsquo;a crow let loose "
+            "by boys&rsquo; &mdash; startled, scattering in every "
+            "direction."]),
+        ("Self-propagating imagery for craving's actual source", [
+            "The Buddha's answer doesn't locate these mental states "
+            "outside the person experiencing them; it describes them "
+            "as &lsquo;born of affection, originating in "
+            "oneself&rsquo;, using two vivid botanical images "
+            "&mdash; prop roots sprouting from a banyan, a creeper "
+            "spreading unchecked through the woods &mdash; for how "
+            "self-generated attachment multiplies on its own."]),
+    ],
+    terms=[
+        ("bhagavato kāyaṁ upanāmesi",
+         "&ldquo;leaned up against his body&rdquo; &mdash; Sūciloma's "
+         "physically uncomfortable test of the Buddha."),
+        ("te samphasso pāpako",
+         "&ldquo;your touch is nasty&rdquo; &mdash; the Buddha's "
+         "honest admission of discomfort, distinct from fear."),
+        ("cittaṁ vā te khipissāmi, hadayaṁ vā te phālessāmi, pādesu "
+         "vā gahetvā pāragaṅgāya khipissāmi",
+         "&ldquo;I'll drive you insane, or explode your heart, or "
+         "grab you by the feet and throw you to the far shore of the "
+         "Ganges&rdquo; &mdash; Sūciloma's vivid threefold threat."),
+        ("kuto samuṭṭhāya manovitakkā, kumārakā dhaṅkamivossajanti",
+         "&ldquo;where do the mind's thoughts originate, like a crow "
+         "let loose by boys?&rdquo; &mdash; the philosophical "
+         "question's striking central simile."),
+        ("snehajā attasambhūtā, nigrodhasseva khandhajā; puthū "
+         "visattā kāmesu, māluvāva vitatā vane",
+         "&ldquo;born of affection, originating in oneself, like "
+         "prop roots sprouting from a banyan&hellip;like camel's foot "
+         "creeper creeping through the woods&rdquo; &mdash; the "
+         "answer's central self-propagating imagery."),
+    ],
+    text_intro=(
+        "The discourse in full. A short passage repeating earlier "
+        "material verbatim is elided in the source and is not "
+        "reconstructed here. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.3:1.1-1.6"),
+        ("p", "&sect;2", "sn10.3:2.1-2.10"),
+        ("p", "&sect;3", "sn10.3:3.1-3.4"),
+        ("p", "&sect;4", "sn10.3:4.1-4.4"),
+        ("p", "&sect;5", "sn10.3:5.1-5.4"),
+        ("p", "&sect;6", "sn10.3:6.1-6.4"),
+    ],
+    quiz=[
+        {"q": "How does the confrontation begin in this discourse?",
+         "opts": [
+             "Sūciloma disputes another spirit's claim that the Buddha is a genuine ascetic, calling him a \"faker\"",
+             "Sūciloma immediately bows in respect",
+             "The Buddha initiates the encounter",
+             "No confrontation occurs; the discourse opens with a formal teaching"],
+         "correct": 0,
+         "expl": "Genuine hostility and skepticism established from a distance, before any direct approach."},
+        {"q": "How does Sūciloma physically test the Buddha?",
+         "opts": [
+             "By leaning his own body, evidently sharp or needle-covered, directly against the Buddha",
+             "By striking him with a weapon",
+             "By offering him food and observing his reaction",
+             "By setting a fire near him"],
+         "correct": 0,
+         "expl": "A real, described physical discomfort, not merely symbolic."},
+        {"q": "How does the Buddha respond to being asked if he's afraid?",
+         "opts": [
+             "He denies fear but honestly admits the touch itself is unpleasant",
+             "He denies any discomfort whatsoever",
+             "He admits to being deeply afraid",
+             "He refuses to answer the question"],
+         "correct": 0,
+         "expl": "Distinguishing discomfort from fear rather than denying the discomfort."},
+        {"q": "What does Sūciloma threaten if his question goes unanswered?",
+         "opts": [
+             "Driving the Buddha insane, exploding his heart, or throwing him across the Ganges",
+             "Publicly humiliating him",
+             "Reporting him to the local authorities",
+             "Simply leaving without further conversation"],
+         "correct": 0,
+         "expl": "A vivid, specific threefold threat of violence."},
+        {"q": "How does the Buddha respond to this threat?",
+         "opts": [
+             "Calmly, stating that no being in the world could actually do that to him, then inviting the question",
+             "By counter-threatening Sūciloma",
+             "By fleeing the scene",
+             "By pleading for mercy"],
+         "correct": 0,
+         "expl": "Composure without escalation or fear-based pleading."},
+        {"q": "What does Sūciloma's actual question concern?",
+         "opts": [
+             "The origin of greed, hatred, discontent, desire, and mental agitation",
+             "The proper way to perform a ritual",
+             "The Buddha's personal history",
+             "How to become a powerful spirit"],
+         "correct": 0,
+         "expl": "A genuine philosophical inquiry, not a trick or trap."},
+        {"q": "What simile does the question use for scattered mental thoughts?",
+         "opts": [
+             "A crow let loose by boys, startled and scattering",
+             "A river overflowing its banks",
+             "A fire spreading through dry grass",
+             "No simile is used"],
+         "correct": 0,
+         "expl": "A vivid image for restless, agitated mental activity."},
+        {"q": "Where does the Buddha's answer locate the origin of these mental states?",
+         "opts": [
+             "Within the person experiencing them, born of self-affection",
+             "In external spirits and demons",
+             "In the food one eats",
+             "In random, uncaused chance"],
+         "correct": 0,
+         "expl": "Self-generated rather than externally imposed."},
+        {"q": "What two botanical images does the Buddha use to describe how attachment multiplies?",
+         "opts": [
+             "Prop roots sprouting from a banyan, and a creeper spreading through the woods",
+             "A single seed and a fully grown tree",
+             "A flower blooming and then wilting",
+             "No botanical images are used"],
+         "correct": 0,
+         "expl": "Vivid images for self-generated, self-propagating attachment."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Gayā, on the cut-stone ledge, Sūciloma's own domain",
+             "On Mount Indra's Peak",
+             "Near Rājagaha, on Vulture's Peak",
+             "At Sāvatthī, in Jeta's Grove"],
+         "correct": 0,
+         "expl": "The confrontation occurs on the hostile spirit's own home territory."},
+    ],
+    marginalia=[
+        ("\"That's no ascetic, he's a faker\"", [
+            "hostility voiced before any approach &mdash;",
+            "skepticism, not curiosity, opening the scene",
+        ]),
+        ("A touch honestly called nasty", [
+            "discomfort admitted, fear denied &mdash;",
+            "the two kept carefully distinct",
+        ]),
+        ("A threat of real violence", [
+            "insanity, a burst heart, the far shore &mdash;",
+            "met with plain, unshaken fact",
+        ]),
+        ("A crow scattered by boys", [
+            "the mind's own restlessness pictured &mdash;",
+            "prop roots and creeper vines explaining why",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.3/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.2.html">SN 10.2 &middot; Sakka In Name '
+        "Only</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-10.4.html">SN 10.4 &middot; With Maṇibhadda</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.4 — Maṇibhaddasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 4, "Maṇibhadda", "With Maṇibhadda",
+    meta_title="SN 10.4 — With Maṇibhadda | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Maṇibhaddasutta — a spirit praises mindfulness as the "
+        "key to freedom from enmity, and the Buddha corrects a single "
+        "word: mindfulness alone isn't enough, only harmlessness and "
+        "love truly are. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "In the land of the Magadhans, at the Maṇimālika "
+                    "Shrine, the yakkha Maṇibhadda's own domain"),
+        ("Speakers", "The native spirit Maṇibhadda and the Buddha"),
+        ("Form", "A verse of praise, repeated back with a single "
+                 "word changed"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, with a precise doctrinal correction "
+                       "riding on a single negation"),
+    ],
+    why=(
+        "Maṇibhadda's opening verse sounds like a complete and "
+        "correct teaching: mindfulness is always auspicious, the "
+        "mindful prosper in happiness, each day gets better, and they "
+        "are freed from enmity. The Buddha's reply repeats the first "
+        "three lines back almost verbatim &mdash; then changes the "
+        "fourth by a single word, from &lsquo;freed from "
+        "enmity&rsquo; to &lsquo;not freed from enmity&rsquo;. The "
+        "correction isn't a rejection of mindfulness's value; it's a "
+        "precise clarification that mindfulness alone, however "
+        "genuinely beneficial, doesn't by itself accomplish what "
+        "actually requires a specific additional quality: a mind that "
+        "delights in harmlessness and holds love for every living "
+        "creature."),
+    guide=[
+        ("A verse that sounds finished, until it isn't", [
+            "Maṇibhadda's praise of mindfulness reads as a complete "
+            "statement, each line building naturally toward the "
+            "conclusion that mindfulness itself secures freedom from "
+            "enmity &mdash; making the Buddha's correction genuinely "
+            "surprising rather than an expected rebuttal."]),
+        ("A correction made through negation, not replacement", [
+            "Rather than composing an entirely different verse, the "
+            "Buddha's reply keeps three full lines identical and "
+            "changes only the fourth from an affirmation to its "
+            "negation &mdash; a minimal but decisive edit, similar in "
+            "technique to the single-word substitutions seen "
+            "elsewhere in this collection."]),
+        ("Mindfulness's genuine benefits left fully intact", [
+            "The correction doesn't diminish anything mindfulness "
+            "actually accomplishes; auspiciousness, happiness, and "
+            "daily improvement are all left standing exactly as "
+            "Maṇibhadda described them &mdash; only the specific claim "
+            "about enmity is revised."]),
+        ("A distinct, additional quality named as what's actually needed", [
+            "Having removed the false claim, the Buddha's verse "
+            "doesn't leave a gap; it supplies what actually does "
+            "produce freedom from enmity &mdash; a mind that delights "
+            "in harmlessness continuously, day and night, holding "
+            "love for all living creatures without exception."]),
+        ("A precise distinction between two genuinely different practices", [
+            "This reading guide notes the teaching's real subtlety: "
+            "mindfulness (sati) and loving-kindness or harmlessness "
+            "(mettā, ahiṃsā) are related but distinct qualities, and "
+            "the verse insists on keeping that distinction clear "
+            "rather than treating them as interchangeable."]),
+    ],
+    terms=[
+        ("satīmato sadā bhaddaṁ, satimā sukhamedhati",
+         "&ldquo;it's always auspicious for the mindful, the mindful "
+         "prosper in happiness&rdquo; &mdash; Maṇibhadda's opening "
+         "praise, repeated identically in the Buddha's reply."),
+        ("verā ca parimuccati",
+         "&ldquo;they are freed from enmity&rdquo; &mdash; "
+         "Maṇibhadda's original, uncorrected fourth line."),
+        ("verā na parimuccati",
+         "&ldquo;they're not freed from enmity&rdquo; &mdash; the "
+         "Buddha's corrected fourth line, differing by a single "
+         "negation."),
+        ("ahiṁsāya rato mano",
+         "&ldquo;a mind delights in harmlessness&rdquo; &mdash; the "
+         "actual quality the Buddha identifies as necessary."),
+        ("mettaṁso sabbabhūtesu",
+         "&ldquo;love for all living creatures&rdquo; &mdash; the "
+         "specific practice named as what genuinely secures freedom "
+         "from enmity."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.4:1.1-1.2"),
+        ("p", "&sect;2", "sn10.4:2.1-2.4"),
+        ("p", "&sect;3", "sn10.4:3.1-3.4"),
+        ("p", "&sect;4", "sn10.4:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What does Maṇibhadda's opening verse claim about mindfulness?",
+         "opts": [
+             "That it is auspicious, brings happiness, improves each day, and frees one from enmity",
+             "That it is entirely worthless",
+             "That it only benefits spirits, not humans",
+             "That it causes enmity rather than freedom from it"],
+         "correct": 0,
+         "expl": "A verse that reads as a complete, positive statement about mindfulness."},
+        {"q": "How does the Buddha's reply relate to Maṇibhadda's original verse?",
+         "opts": [
+             "It repeats three lines identically and changes only the fourth, from affirmation to negation",
+             "It rejects the entire verse and offers something completely different",
+             "It repeats every line exactly with no changes at all",
+             "It ignores Maṇibhadda's verse entirely"],
+         "correct": 0,
+         "expl": "A minimal, precise edit rather than a wholesale rebuttal."},
+        {"q": "What specific claim does the Buddha's correction target?",
+         "opts": [
+             "That mindfulness alone frees one from enmity",
+             "That mindfulness brings happiness",
+             "That mindfulness is auspicious",
+             "That each day gets better through mindfulness"],
+         "correct": 0,
+         "expl": "Only the enmity claim is revised; the other benefits are left intact."},
+        {"q": "Does the Buddha's correction diminish mindfulness's other stated benefits?",
+         "opts": [
+             "No; auspiciousness, happiness, and daily improvement are all left standing as described",
+             "Yes, it denies all of mindfulness's benefits",
+             "Yes, it claims mindfulness is actively harmful",
+             "The verse does not address mindfulness's other benefits"],
+         "correct": 0,
+         "expl": "Only the specific claim about enmity is revised, not mindfulness's value generally."},
+        {"q": "What quality does the Buddha name as what actually secures freedom from enmity?",
+         "opts": [
+             "A mind that delights in harmlessness and holds love for all living creatures",
+             "Physical strength and combat skill",
+             "Wealth and social status",
+             "Isolation from all other beings"],
+         "correct": 0,
+         "expl": "Harmlessness and universal loving-kindness, distinct from mindfulness itself."},
+        {"q": "How does this reading guide characterize the relationship between mindfulness and loving-kindness in this teaching?",
+         "opts": [
+             "As related but distinct qualities that shouldn't be treated as interchangeable",
+             "As completely identical and interchangeable",
+             "As entirely unrelated to one another",
+             "As mutually exclusive practices"],
+         "correct": 0,
+         "expl": "A precise doctrinal distinction the verse insists on maintaining."},
+        {"q": "What technique does this discourse share with other parts of this collection?",
+         "opts": [
+             "A single-word substitution used to correct a claim, similar to techniques seen elsewhere",
+             "A completely unique technique found nowhere else",
+             "A lengthy multi-stanza rebuttal",
+             "No verse technique is used at all"],
+         "correct": 0,
+         "expl": "A minimal edit achieving a precise doctrinal correction."},
+        {"q": "Over what time period does the Buddha say harmlessness should be practiced?",
+         "opts": [
+             "All day and all night, continuously",
+             "Only during formal meditation sessions",
+             "Only when directly confronted with hostility",
+             "No time period is specified"],
+         "correct": 0,
+         "expl": "Sabbamahorattaṁ — a continuous, not occasional, quality of mind."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "At the Maṇimālika Shrine in Magadha, Maṇibhadda's own domain",
+             "Near Gayā, on the cut-stone ledge",
+             "On Mount Indra's Peak",
+             "Near Rājagaha, on Vulture's Peak"],
+         "correct": 0,
+         "expl": "The spirit's own haunt, as with several other discourses in this saṃyutta."},
+        {"q": "What is Maṇibhadda's role in this discourse, compared to Sūciloma's in SN 10.3?",
+         "opts": [
+             "He offers genuine praise rather than hostility or a threatening test",
+             "He is equally hostile and threatening",
+             "He refuses to speak to the Buddha at all",
+             "He is identical in every respect to Sūciloma"],
+         "correct": 0,
+         "expl": "A notably gentler tone than the immediately preceding discourse."},
+    ],
+    marginalia=[
+        ("A verse that sounds already complete", [
+            "each line building toward a natural conclusion &mdash;",
+            "the correction genuinely surprising",
+        ]),
+        ("One word changed, not one line rewritten", [
+            "\"freed\" becomes \"not freed\" &mdash;",
+            "a minimal, decisive edit",
+        ]),
+        ("Nothing else in the verse diminished", [
+            "auspiciousness, happiness left standing &mdash;",
+            "only the enmity claim revised",
+        ]),
+        ("A named quality filling the gap", [
+            "harmlessness, love for every creature &mdash;",
+            "mindfulness and loving-kindness kept distinct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.3.html">SN 10.3 &middot; With Spiky</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.5.html">SN 10.5 &middot; With Sānu</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.5 — Sānusutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 5, "Sānu", "With Sānu",
+    meta_title="SN 10.5 — With Sānu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sānusutta — a mother weeps over her spirit-afflicted "
+        "son, then, once he recovers, delivers one of the canon's "
+        "most piercing images for spiritual regression: rescued from "
+        "the coals, wanting to jump back in. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "An unnamed lay woman, a native spirit, and her "
+                     "son Sānu"),
+        ("Form", "A mother's lament, a spirit's confirming reply, and "
+                 "a mother-son dialogue on the meaning of grief"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "the most emotionally direct discourse in this "
+                       "saṃyutta, handled with the source's own "
+                       "restraint"),
+    ],
+    why=(
+        "This discourse begins with an ordinary human crisis, not a "
+        "philosophical puzzle: a lay woman's son, Sānu, has been "
+        "seized by a native spirit, and she weeps, reciting what "
+        "she'd always believed &mdash; that spirits leave alone "
+        "anyone observing the sabbath and leading a spiritual life. "
+        "A spirit confirms her belief was correct and offers ethical "
+        "advice for Sānu once he recovers. But the discourse's real "
+        "weight lands afterward, in the exchange between mother and "
+        "recovered son: confused why she wept for him while he's "
+        "plainly alive, Sānu receives an answer that redefines what "
+        "&lsquo;alive&rsquo; and &lsquo;dead&rsquo; actually mean, "
+        "closing with images of rescue refused and danger deliberately "
+        "chosen again."),
+    guide=[
+        ("A crisis framed in ordinary, human terms first", [
+            "Before any teaching begins, this discourse presents a "
+            "recognizable domestic emergency &mdash; a mother's child "
+            "afflicted, her genuine grief &mdash; grounding the "
+            "exchange that follows in real emotional stakes rather "
+            "than abstract inquiry."]),
+        ("A belief confirmed, not corrected", [
+            "Unlike several other discourses in this collection built "
+            "around correcting a mistaken view, the spirit's reply "
+            "here simply affirms that what the woman heard from the "
+            "arahants was accurate &mdash; her distress isn't from "
+            "having believed something false, but from watching that "
+            "true teaching seemingly fail in her own son's case."]),
+        ("Practical ethical advice offered for after recovery", [
+            "The spirit's message for Sānu isn't abstract comfort; it "
+            "is direct and simple &mdash; don't do bad deeds, openly "
+            "or in secret &mdash; paired with the plain warning that "
+            "such deeds bring suffering regardless of any attempt to "
+            "escape."]),
+        ("A son's honest confusion, met with a redefinition of death", [
+            "Sānu's question is entirely reasonable: people weep for "
+            "the dead or the missing, and he's neither, so why does "
+            "his mother cry? Her answer doesn't dismiss the "
+            "question; it expands what death can mean, describing "
+            "someone who abandons a genuine spiritual commitment to "
+            "return to worldly pursuit as &lsquo;though still alive, "
+            "really dead.&rsquo;"]),
+        ("Rescue imagery carrying the discourse's final, urgent warning", [
+            "The closing lines don't argue further; they pile up "
+            "images of danger already escaped and then deliberately "
+            "re-entered &mdash; hot coals, an abyss, a fire &mdash; "
+            "each one asking, without needing to say so directly, why "
+            "anyone would choose to return to what they were "
+            "fortunate enough to leave."]),
+    ],
+    terms=[
+        ("yakkhena gahito",
+         "&ldquo;seized by a native spirit&rdquo; &mdash; Sānu's "
+         "affliction, framed in the ancient idiom of spirit "
+         "possession."),
+        ("uposathaṁ upavasanti, brahmacariyaṁ caranti",
+         "&ldquo;observing the sabbath&hellip;leading the spiritual "
+         "life&rdquo; &mdash; the practice the mother believed "
+         "protected against such affliction, later confirmed as "
+         "accurate."),
+        ("mākāsi pāpakaṁ kammaṁ, āvi vā yadi vā raho",
+         "&ldquo;don't do bad deeds, either openly or in secret&rdquo; "
+         "&mdash; the spirit's direct ethical advice for Sānu once he "
+         "recovers."),
+        ("yo ca kāme cajitvāna, punarāgacchate idha&hellip;puna jīvaṁ "
+         "mato hi so",
+         "&ldquo;someone who has given up sensual pleasures, only to "
+         "come back here again&hellip;though still alive they're "
+         "really dead&rdquo; &mdash; the mother's redefinition of "
+         "death around spiritual regression."),
+        ("kukkuḷā ubbhato&hellip;narakā ubbhato&hellip;puna "
+         "patitumicchasi",
+         "&ldquo;rescued from hot coals&hellip;rescued from the "
+         "abyss&hellip;you want to plunge right back&rdquo; &mdash; "
+         "the discourse's vivid closing images of danger chosen "
+         "again."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.5:1.1-1.3"),
+        ("p", "&sect;2", "sn10.5:2.1-3.6"),
+        ("p", "&sect;3", "sn10.5:4.1-5.4"),
+        ("p", "&sect;4", "sn10.5:6.1-7.4"),
+        ("p", "&sect;5", "sn10.5:8.1-8.4"),
+        ("p", "&sect;6", "sn10.5:9.1-9.6"),
+        ("p", "&sect;7", "sn10.5:10.1-10.4"),
+        ("p", "&sect;8", "sn10.5:11.1-11.4"),
+    ],
+    quiz=[
+        {"q": "What crisis opens this discourse?",
+         "opts": [
+             "A lay woman's son, Sānu, has been seized by a native spirit",
+             "A monk is being tested by a hostile spirit",
+             "A philosophical dispute between two spirits",
+             "A famine affecting an entire village"],
+         "correct": 0,
+         "expl": "A recognizable domestic emergency grounding the exchange in real emotional stakes."},
+        {"q": "What did the mother believe about spirits and sabbath observance?",
+         "opts": [
+             "That spirits leave alone anyone observing the sabbath and leading a spiritual life",
+             "That spirits only attack those who observe the sabbath",
+             "That sabbath observance has no effect on spirits",
+             "She held no particular belief about this"],
+         "correct": 0,
+         "expl": "A belief her son's affliction seems to contradict, prompting her grief."},
+        {"q": "How does the spirit's reply relate to the mother's stated belief?",
+         "opts": [
+             "It confirms the belief was accurate, rather than correcting a mistake",
+             "It declares the belief entirely false",
+             "It refuses to address the belief at all",
+             "It claims the belief only applies to spirits, not humans"],
+         "correct": 0,
+         "expl": "Her distress comes from a true teaching's apparent failure, not from a false belief."},
+        {"q": "What ethical advice does the spirit give for Sānu once he recovers?",
+         "opts": [
+             "Don't do bad deeds, either openly or in secret",
+             "Avoid all contact with other people",
+             "Perform elaborate purification rituals",
+             "Seek revenge against the spirit that afflicted him"],
+         "correct": 0,
+         "expl": "Direct, simple guidance rather than abstract comfort."},
+        {"q": "What question does Sānu ask his mother once he recovers?",
+         "opts": [
+             "Why she weeps for him when he is plainly alive",
+             "Why the spirit attacked him in the first place",
+             "Whether he will fully recover",
+             "Where the spirit has gone"],
+         "correct": 0,
+         "expl": "A reasonable question, since people typically weep only for the dead or missing."},
+        {"q": "How does the mother's answer redefine \"death\"?",
+         "opts": [
+             "Someone who abandons a genuine spiritual commitment to return to worldly pursuit is \"though still alive, really dead\"",
+             "She claims death is purely a physical, biological event",
+             "She denies that death has any real meaning",
+             "She refuses to answer his question"],
+         "correct": 0,
+         "expl": "Expanding what death can mean beyond the purely physical."},
+        {"q": "What images does the discourse's closing section use?",
+         "opts": [
+             "Hot coals, an abyss, and a fire — danger already escaped and then chosen again",
+             "A garden in full bloom",
+             "A calm, untroubled river",
+             "No specific images are used"],
+         "correct": 0,
+         "expl": "Vivid warnings against deliberately returning to what one was fortunate to escape."},
+        {"q": "How does this discourse's structure compare to most others in this saṃyutta?",
+         "opts": [
+             "It grounds its teaching in ordinary human emotional stakes before any doctrinal content appears",
+             "It opens with a purely abstract philosophical question",
+             "It contains no dialogue at all",
+             "It features a hostile physical confrontation, like SN 10.3"],
+         "correct": 0,
+         "expl": "A recognizable domestic crisis, not a philosophical puzzle or a threat."},
+        {"q": "What does the ancient idiom \"seized by a native spirit\" describe in this context?",
+         "opts": [
+             "Sānu's affliction, likely some form of illness or altered state understood through the framework of spirit possession",
+             "A literal theological claim this reading guide asserts as objectively true",
+             "A purely metaphorical expression with no connection to Sānu's actual condition",
+             "A punishment for a specific crime Sānu committed"],
+         "correct": 0,
+         "expl": "An ancient framework for understanding affliction, presented as the text frames it."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Gayā, on the cut-stone ledge",
+             "On Mount Indra's Peak",
+             "In the land of the Magadhans"],
+         "correct": 0,
+         "expl": "A setting shared with several other discourses in this collection."},
+    ],
+    marginalia=[
+        ("An ordinary crisis, not a puzzle", [
+            "a mother's grief, a son afflicted &mdash;",
+            "real stakes before any teaching begins",
+        ]),
+        ("A belief confirmed, not corrected", [
+            "her distress from a true teaching's failure &mdash;",
+            "not from having believed wrongly",
+        ]),
+        ("A reasonable question about tears", [
+            "\"I'm alive, why do you weep?\" &mdash;",
+            "met with an expanded meaning of death",
+        ]),
+        ("Coals, an abyss, a fire", [
+            "danger already escaped, chosen again &mdash;",
+            "the discourse's final, piercing images",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.4.html">SN 10.4 &middot; With Maṇibhadda</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.6.html">SN 10.6 &middot; With Piyaṅkara</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.6 — Piyaṅkarasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 6, "Piyaṅkara", "With Piyaṅkara",
+    meta_title="SN 10.6 — With Piyaṅkara | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Piyaṅkarasutta — a spirit mother hushes her crying "
+        "infant so both can listen to Anuruddha's dawn recitation, "
+        "hoping the teaching might free them from the goblin realm. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery, at dawn"),
+        ("Speakers", "The native spirit Piyaṅkara's Mother, "
+                     "addressing her child; Venerable Anuruddha "
+                     "recites nearby, unaware"),
+        ("Form", "A tender lullaby-like verse, overheard rather than "
+                 "addressed to any monk"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief and tender, a small, complete scene"),
+    ],
+    why=(
+        "This is the gentlest discourse in Yakkhasaṃyutta so far, and "
+        "structurally the most unusual: Anuruddha never knows this "
+        "exchange happened at all. Reciting passages of the teaching "
+        "before dawn, he becomes the unwitting occasion for a mother "
+        "spirit to hush her crying child, explaining, in simple and "
+        "affectionate language, why the noise needs to stop &mdash; "
+        "not out of duty or fear, but because understanding even a "
+        "single passage might let them practice for their own good. "
+        "The little resolution she then recites, aimed at herself and "
+        "her child rather than at any listener, closes with a hope "
+        "rarely voiced so plainly elsewhere in this collection: "
+        "release from what the text calls the &lsquo;goblin "
+        "realm.&rsquo;"),
+    guide=[
+        ("A monk who never learns he was overheard", [
+            "Unlike every other encounter in this saṃyutta, Anuruddha "
+            "doesn't address the spirit, respond to her, or even "
+            "know she's there; the entire discourse is something "
+            "witnessed, not exchanged, a scene the text simply records "
+            "as having happened nearby."]),
+        ("Tenderness as the discourse's actual register", [
+            "&lsquo;Don't make a sound, Piyaṅkara!&rsquo; is a "
+            "mother's ordinary, affectionate hush, not a doctrinal "
+            "pronouncement &mdash; grounding this discourse's teaching "
+            "content inside a completely recognizable parental "
+            "moment."]),
+        ("A stated reason for wanting quiet, not just an instruction", [
+            "The mother doesn't simply demand silence; she explains "
+            "why it matters &mdash; understanding even a single "
+            "passage of the teaching could let them practice for "
+            "their own genuine benefit &mdash; treating her child as "
+            "someone worth explaining reasons to, not just commanding."]),
+        ("Ethical resolutions recited for herself and her child together", [
+            "The verse's middle lines aren't addressed outward as "
+            "advice for someone else; they're a shared resolution "
+            "&mdash; &lsquo;let us restrain ourselves&hellip;we should "
+            "train ourselves&rsquo; &mdash; a spirit including herself "
+            "fully in the ethical aspiration she's voicing."]),
+        ("A closing hope naming a specific, lower rebirth", [
+            "The discourse's final line doesn't end on vague piety; "
+            "it names exactly what she hopes to escape &mdash; the "
+            "&lsquo;goblin realm&rsquo; (pisācayoni) &mdash; making "
+            "explicit that even beings in less fortunate existences "
+            "are understood in this canon as capable of hearing "
+            "teaching and aspiring toward something better."]),
+    ],
+    terms=[
+        ("dhammapadāni bhāsati",
+         "&ldquo;recited passages of the teaching&rdquo; &mdash; "
+         "Anuruddha's dawn recitation, the scene's unwitting occasion."),
+        ("mā saddaṁ kari piyaṅkara",
+         "&ldquo;don't make a sound, Piyaṅkara!&rdquo; &mdash; the "
+         "mother's tender, ordinary hush opening the verse."),
+        ("dhammapadaṁ vijāniya, paṭipajjema hitāya no siyā",
+         "&ldquo;when we understand a passage, we can practice for "
+         "our welfare&rdquo; &mdash; her stated reason for wanting "
+         "quiet, not merely an instruction."),
+        ("pāṇesu ca saṁyamāmase, sampajānamusā na bhaṇāmase",
+         "&ldquo;let us restrain ourselves from harming living "
+         "creatures, and speak no lying words&rdquo; &mdash; the "
+         "shared ethical resolutions she recites for both of them."),
+        ("muccema pisācayoniyā",
+         "&ldquo;hopefully we'll be freed from the goblin realm&rdquo; "
+         "&mdash; the specific, named aspiration closing the verse."),
+    ],
+    text_intro=(
+        "The discourse in full &mdash; a single overheard verse, "
+        "complete in itself. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.6:1.1-1.3"),
+        ("p", "&sect;2", "sn10.6:2.1-2.4"),
+        ("p", "&sect;3", "sn10.6:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure differ from every other encounter in this saṃyutta?",
+         "opts": [
+             "The monk involved, Anuruddha, never addresses or even knows about the spirit's presence",
+             "It is the only discourse with no verse content at all",
+             "It is the only discourse where the Buddha himself appears",
+             "It is identical in structure to every other discourse here"],
+         "correct": 0,
+         "expl": "A scene witnessed and recorded, not an actual exchange between speaker and monk."},
+        {"q": "What is Anuruddha doing when this scene takes place?",
+         "opts": [
+             "Reciting passages of the teaching at the crack of dawn",
+             "Sleeping soundly",
+             "Traveling between villages",
+             "Confronting a hostile spirit directly"],
+         "correct": 0,
+         "expl": "The unwitting occasion for the entire scene."},
+        {"q": "What does the mother spirit say to her child?",
+         "opts": [
+             "\"Don't make a sound, Piyaṅkara!\" — a tender, ordinary hush",
+             "A harsh threat of punishment",
+             "A formal doctrinal pronouncement",
+             "Nothing; the child is not addressed at all"],
+         "correct": 0,
+         "expl": "Grounding the discourse in a recognizable parental moment."},
+        {"q": "Why does she want quiet, according to her own explanation?",
+         "opts": [
+             "Understanding even a single passage of the teaching could let them practice for their own benefit",
+             "She fears punishment if the monk notices them",
+             "She simply dislikes noise in general",
+             "No reason is given"],
+         "correct": 0,
+         "expl": "Explaining her reasoning rather than merely issuing a command."},
+        {"q": "Who does the mother's ethical resolution include?",
+         "opts": [
+             "Both herself and her child together, as a shared aspiration",
+             "Only her child, excluding herself",
+             "Only Anuruddha, as advice for him",
+             "All spirits everywhere, without personal application"],
+         "correct": 0,
+         "expl": "\"Let us restrain ourselves... we should train ourselves\" — fully inclusive language."},
+        {"q": "What specific ethical commitments does she name?",
+         "opts": [
+             "Restraining from harming living creatures and speaking no lying words",
+             "Fasting completely for a full month",
+             "Renouncing all speech permanently",
+             "No specific commitments are named"],
+         "correct": 0,
+         "expl": "Concrete resolutions in restraint from harm and truthful speech."},
+        {"q": "What does the verse's closing line hope for?",
+         "opts": [
+             "Freedom from the \"goblin realm\" (pisācayoni)",
+             "Wealth and material prosperity",
+             "A powerful position among other spirits",
+             "No specific hope is expressed"],
+         "correct": 0,
+         "expl": "A specific, named lower rebirth she hopes to escape through ethical practice."},
+        {"q": "What does this discourse suggest about beings in less fortunate existences?",
+         "opts": [
+             "That they too are understood as capable of hearing teaching and aspiring to something better",
+             "That such beings are incapable of any ethical improvement",
+             "That such beings cannot hear or benefit from any teaching",
+             "The discourse makes no claim about this"],
+         "correct": 0,
+         "expl": "Even a spirit mother in the goblin realm hopes for release through the Dhamma."},
+        {"q": "How is the discourse's tone best described?",
+         "opts": [
+             "Tender and affectionate, closer to a lullaby than a doctrinal statement",
+             "Harsh and confrontational",
+             "Coldly abstract and impersonal",
+             "Threatening and violent"],
+         "correct": 0,
+         "expl": "A small, complete, and gentle scene."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery, at dawn",
+             "Near Gayā, on the cut-stone ledge",
+             "On Mount Indra's Peak",
+             "In the land of the Magadhans"],
+         "correct": 0,
+         "expl": "The same general setting as SN 10.5, immediately before it."},
+    ],
+    marginalia=[
+        ("A monk who never knows", [
+            "overheard, not exchanged &mdash;",
+            "the whole scene simply witnessed",
+        ]),
+        ("An ordinary hush, not a doctrine", [
+            "\"don't make a sound\" &mdash;",
+            "tenderness grounding the teaching",
+        ]),
+        ("A reason given, not just a command", [
+            "one passage understood, practice possible &mdash;",
+            "explanation, not mere instruction",
+        ]),
+        ("A hope named specifically", [
+            "freedom from the goblin realm &mdash;",
+            "even a lower rebirth can aspire upward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.5.html">SN 10.5 &middot; With Sānu</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.7.html">SN 10.7 &middot; With '
+        "Punabbasu</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.7 — Punabbasusutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 7, "Punabbasu", "With Punabbasu",
+    meta_title="SN 10.7 — With Punabbasu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Punabbasusutta — a spirit mother hushes her two children "
+        "to hear the Buddha's own teaching, her son offers his own "
+        "precocious insight, and she declares her own attainment of "
+        "the noble truths. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The native spirit Punabbasu's Mother and her "
+                     "two children, Uttarā and Punabbasu"),
+        ("Form", "A mother's hushing verse, her son's reassuring "
+                 "reply, and her own closing declaration of "
+                 "attainment"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "a warm companion piece to SN 10.6, ending in "
+                       "genuine spiritual attainment"),
+    ],
+    why=(
+        "This discourse extends SN 10.6's tender scene into something "
+        "richer: this time the Buddha himself is teaching directly, "
+        "on the subject of extinguishment, and Punabbasu's Mother "
+        "hushes not one child but two, Uttarā and her brother "
+        "Punabbasu, by name. What follows isn't a monologue; her son "
+        "answers her, reassuring her that neither he nor his sister "
+        "is making noise, and adds his own striking observation about "
+        "the Buddha as a beacon for the lost. The mother's response to "
+        "her son's insight is delighted pride &mdash; and the "
+        "discourse closes with her own declaration, addressed to both "
+        "children, that she has risen today and seen the noble truths "
+        "for herself."),
+    guide=[
+        ("Two children hushed by name, not one", [
+            "Where SN 10.6 addressed a single child, this discourse "
+            "names both Uttarā and Punabbasu individually in the "
+            "opening lines, a small detail establishing a fuller "
+            "family scene than the earlier, simpler companion piece."]),
+        ("A striking ranking of love, stated without hesitation", [
+            "The mother doesn't merely say the teaching matters to "
+            "her; she explicitly ranks it above her love for her own "
+            "child and her own husband &mdash; both named as genuinely "
+            "dear &mdash; a comparison stated plainly rather than "
+            "softened or qualified."]),
+        ("A reason given for why the teaching outranks even family love", [
+            "The comparison isn't left as bare preference; the "
+            "following verse explains it &mdash; neither son nor "
+            "husband, however dear, can actually free someone from "
+            "suffering, while listening to the true teaching can "
+            "&mdash; grounding the ranking in a specific claim about "
+            "what each is actually capable of."]),
+        ("A child who answers back with insight of his own", [
+            "Unlike SN 10.6's silent infant, Punabbasu doesn't simply "
+            "comply; he responds with reassurance and then adds an "
+            "observation of real substance &mdash; describing the "
+            "Buddha as a &lsquo;beacon for those who are lost among "
+            "gods and humans&rsquo; &mdash; showing genuine "
+            "engagement with the teaching rather than mere obedience."]),
+        ("A mother's own attainment closing the discourse", [
+            "The final stanzas don't simply praise the son's insight "
+            "and end there; the mother declares her own realization "
+            "directly &mdash; &lsquo;today, I rise&hellip;I have seen "
+            "the noble truths!&rsquo; &mdash; making this discourse, "
+            "unlike SN 10.6, one that ends in an explicit, stated "
+            "spiritual accomplishment."]),
+    ],
+    terms=[
+        ("tuṇhī uttarike hohi, tuṇhī hohi punabbasu",
+         "&ldquo;hush, little Uttarā! hush, Punabbasu!&rdquo; "
+         "&mdash; the mother's opening address to both her children "
+         "by name."),
+        ("piyo loke sako putto&hellip;tato piyatarā mayhaṁ, assa "
+         "dhammassa magganā",
+         "&ldquo;your own child is dear&hellip;but even greater is "
+         "my love for this teaching's quest&rdquo; &mdash; the "
+         "mother's striking, unhedged ranking of the teaching above "
+         "family love."),
+        ("saddhammassavanaṁ, dukkhā moceti pāṇinaṁ",
+         "&ldquo;listening to the true teaching&hellip;frees living "
+         "creatures from suffering&rdquo; &mdash; the stated reason "
+         "grounding that ranking."),
+        ("esa devamanussānaṁ, sammūḷhānaṁ pabhaṅkaro",
+         "&ldquo;he is a beacon for those who are lost among gods and "
+         "humans&rdquo; &mdash; Punabbasu's own precocious insight "
+         "about the Buddha."),
+        ("diṭṭhāni ariyasaccāni",
+         "&ldquo;I have seen the noble truths!&rdquo; &mdash; the "
+         "mother's closing declaration of her own attainment."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.7:1.1-1.4"),
+        ("p", "&sect;2", "sn10.7:2.1-2.4"),
+        ("p", "&sect;3", "sn10.7:3.1-3.4"),
+        ("p", "&sect;4", "sn10.7:4.1-4.4"),
+        ("p", "&sect;5", "sn10.7:5.1-5.4"),
+        ("p", "&sect;6", "sn10.7:6.1-6.6"),
+        ("p", "&sect;7", "sn10.7:7.1-7.6"),
+        ("p", "&sect;8", "sn10.7:8.1-8.4"),
+        ("p", "&sect;9", "sn10.7:9.1-9.4"),
+        ("p", "&sect;10", "sn10.7:10.1-10.4"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's opening differ from SN 10.6's?",
+         "opts": [
+             "The mother names and addresses two children, Uttarā and Punabbasu, rather than one",
+             "No children are present in this discourse",
+             "The Buddha is not teaching at all in this discourse",
+             "The mother is silent throughout"],
+         "correct": 0,
+         "expl": "A fuller family scene than SN 10.6's simpler companion piece."},
+        {"q": "What comparison does the mother make regarding her love for the teaching?",
+         "opts": [
+             "She ranks it above her love for her own child and her own husband",
+             "She claims the teaching means nothing to her personally",
+             "She refuses to compare it to anything else",
+             "She says it matters less than her family"],
+         "correct": 0,
+         "expl": "A striking ranking stated plainly, not softened."},
+        {"q": "What reason does she give for this ranking?",
+         "opts": [
+             "Neither son nor husband can free someone from suffering, but listening to the true teaching can",
+             "She simply prefers the teaching without any stated reason",
+             "Her husband instructed her to value the teaching more",
+             "No reason is given"],
+         "correct": 0,
+         "expl": "Grounding the comparison in a specific claim about capability, not mere preference."},
+        {"q": "How does Punabbasu respond to his mother's hushing?",
+         "opts": [
+             "He reassures her he's already quiet and adds his own insight about the Buddha",
+             "He begins crying loudly",
+             "He argues that the teaching isn't worth hearing",
+             "He remains completely unresponsive"],
+         "correct": 0,
+         "expl": "Genuine engagement rather than mere silent compliance."},
+        {"q": "What insight does Punabbasu offer about the Buddha?",
+         "opts": [
+             "That he is a beacon for those who are lost among gods and humans",
+             "That he is simply an ordinary teacher",
+             "That his teaching is too difficult to understand",
+             "No specific insight is offered"],
+         "correct": 0,
+         "expl": "A striking observation for a child, showing real engagement with the teaching."},
+        {"q": "How does the mother react to her son's insight?",
+         "opts": [
+             "With delighted pride at his astuteness",
+             "With disappointment",
+             "With indifference",
+             "She does not react to his statement at all"],
+         "correct": 0,
+         "expl": "Genuine parental pride in his demonstrated understanding."},
+        {"q": "How does this discourse's ending differ from SN 10.6's?",
+         "opts": [
+             "It ends with the mother explicitly declaring her own spiritual attainment",
+             "It ends identically, with only a hope expressed",
+             "It ends without any resolution at all",
+             "It ends with the children being punished"],
+         "correct": 0,
+         "expl": "An explicit, stated accomplishment rather than merely a hope for the future."},
+        {"q": "What does the mother declare at the discourse's close?",
+         "opts": [
+             "\"Today, I rise... I have seen the noble truths!\"",
+             "\"I have failed to understand anything\"",
+             "\"We must leave immediately\"",
+             "No declaration is made"],
+         "correct": 0,
+         "expl": "A direct statement of stream-entry or comparable realization."},
+        {"q": "What subject is the Buddha teaching on in this discourse?",
+         "opts": [
+             "Extinguishment (nibbāna)",
+             "The rules of monastic discipline",
+             "The history of past Buddhas",
+             "Agricultural techniques"],
+         "correct": 0,
+         "expl": "The specific teaching topic mentioned at the discourse's opening."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "Near Gayā, on the cut-stone ledge",
+             "In the land of the Magadhans",
+             "Near Rājagaha, on Vulture's Peak"],
+         "correct": 0,
+         "expl": "The same setting as SN 10.6, immediately before it."},
+    ],
+    marginalia=[
+        ("Two children, named individually", [
+            "Uttarā and Punabbasu both addressed &mdash;",
+            "a fuller family scene than before",
+        ]),
+        ("A ranking stated without hedging", [
+            "the teaching valued above child and husband &mdash;",
+            "and a reason given for why",
+        ]),
+        ("A child who answers, not just complies", [
+            "reassurance, then real insight &mdash;",
+            "\"a beacon for those who are lost\"",
+        ]),
+        ("An attainment declared outright", [
+            "\"I have seen the noble truths\" &mdash;",
+            "not a hope, but a stated realization",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.6.html">SN 10.6 &middot; With Piyaṅkara</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.8.html">SN 10.8 &middot; With Sudatta</a> '
+        "&mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.8 — Sudattasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 8, "Sudatta", "With Sudatta",
+    meta_title="SN 10.8 — With Sudatta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sudattasutta — the famous first meeting of Anāthapiṇḍika "
+        "and the Buddha, walking through fear and darkness on an "
+        "invisible spirit's urging, to be greeted by his own "
+        "birth name. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Between Rājagaha and the Cool Grove, before "
+                    "dawn"),
+        ("Speakers", "The householder Anāthapiṇḍika (Sudatta), the "
+                     "invisible spirit Sivaka, and the Buddha"),
+        ("Form", "A sleepless night of anticipation, a fearful "
+                 "journey encouraged three times, and a greeting by "
+                 "name"),
+        ("Length", "~4.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the canon's most historically "
+                       "significant first encounters"),
+    ],
+    why=(
+        "This discourse tells one of the most consequential first "
+        "meetings in the entire canon: the householder Sudatta, "
+        "better known by his epithet Anāthapiṇḍika (&lsquo;feeder of "
+        "the destitute&rsquo;), later the Buddha's great lay patron "
+        "and donor of Jeta's Grove itself, hearing for the very first "
+        "time that a Buddha has arisen in the world. His excitement "
+        "is almost comic in its intensity &mdash; he goes to bed "
+        "thinking of the Buddha and gets up three times in the night "
+        "mistaking darkness for dawn &mdash; before setting out early "
+        "and being overcome by genuine fear at the city's edge, not "
+        "once but three times, each time nearly turning back, each "
+        "time urged forward by an invisible spirit's vivid "
+        "encouragement. The discourse closes with the Buddha greeting "
+        "a man he has never met by his actual birth name."),
+    guide=[
+        ("Anticipation described with genuine warmth and specificity", [
+            "The discourse doesn't simply state that Sudatta was "
+            "eager; it shows it &mdash; going to bed thinking of the "
+            "Buddha, rising three separate times in the night "
+            "mistaking darkness for approaching dawn &mdash; a "
+            "specific, almost tender picture of someone too excited "
+            "to sleep properly."]),
+        ("A mysterious, unexplained assistance at the city gate", [
+            "Non-human beings open the city gate for him without any "
+            "explanation offered in the text &mdash; a small "
+            "supernatural detail the discourse simply reports, "
+            "treating it as part of the extraordinary nature of this "
+            "particular journey."]),
+        ("Fear returning three times, honestly described", [
+            "Sudatta's terror isn't a single moment overcome once; "
+            "the darkness, fear, and goosebumps recur three separate "
+            "times as he tries to leave the city, and each time he "
+            "genuinely wants to turn back &mdash; the discourse not "
+            "smoothing over how close he came to abandoning the "
+            "journey."]),
+        ("An identical, unwavering encouragement each time", [
+            "Sivaka's response doesn't vary or escalate; the same "
+            "vivid comparison &mdash; a hundred elephants, horses, "
+            "chariots, and jeweled maidens all together not worth a "
+            "sixteenth part of a single forward step &mdash; and the "
+            "same simple exhortation, &lsquo;forward, "
+            "householder&rsquo;, repeat exactly each of the three "
+            "times fear returns."]),
+        ("A greeting that reveals knowledge before any introduction", [
+            "The Buddha addresses Sudatta by his actual birth name "
+            "&mdash; not his epithet, not a generic title &mdash; "
+            "before the two have ever formally met, and the "
+            "discourse records Sudatta's own delighted astonishment "
+            "at being known this way, closing the encounter's drama "
+            "with a small, personal moment of recognition."]),
+    ],
+    terms=[
+        ("buddho kira loke uppanno",
+         "&ldquo;a rumor that a Buddha had arisen in the world&rdquo; "
+         "&mdash; the news that sets the entire discourse in motion."),
+        ("buddhagatāya satiyā nipajji",
+         "&ldquo;he went to bed thinking of the Buddha&rdquo; "
+         "&mdash; the specific, warm detail of his anticipation, "
+         "rising three times mistaking darkness for dawn."),
+        ("sataṁ hatthī sataṁ assā&hellip;ekassa padavītihārassa, "
+         "kalaṁ nāgghanti soḷasiṁ",
+         "&ldquo;a hundred elephants, a hundred horses&hellip;not "
+         "worth a sixteenth part of a single forward stride&rdquo; "
+         "&mdash; Sivaka's vivid encouraging verse, repeated "
+         "identically three times."),
+        ("ehi, sudattā",
+         "&ldquo;Come, Sudatta&rdquo; &mdash; the Buddha addressing "
+         "him by his actual birth name before any formal "
+         "introduction."),
+        ("sabbadā ve sukhaṁ seti, brāhmaṇo parinibbuto",
+         "&ldquo;a brahmin who is fully quenched always sleeps at "
+         "ease&rdquo; &mdash; the Buddha's closing teaching-verse on "
+         "peaceful sleep."),
+    ],
+    text_intro=(
+        "The discourse in full. Repeated passages recounting the "
+        "second and third instances of fear are elided in the source "
+        "and are not reconstructed here. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.8:1.1-1.9"),
+        ("p", "&sect;2", "sn10.8:1.10-1.12"),
+        ("p", "&sect;3", "sn10.8:2.1-3.4"),
+        ("p", "&sect;4", "sn10.8:4.1-4.1"),
+        ("p", "&sect;5", "sn10.8:6.3-7.1"),
+        ("p", "&sect;6", "sn10.8:9.3-10.2"),
+        ("p", "&sect;7", "sn10.8:11.1-11.7"),
+        ("p", "&sect;8", "sn10.8:12.1-13.4"),
+    ],
+    quiz=[
+        {"q": "Who is the main figure in this discourse, and what is he later known for?",
+         "opts": [
+             "Sudatta, later known as Anāthapiṇḍika, the Buddha's great lay patron and donor of Jeta's Grove",
+             "A minor merchant with no lasting significance",
+             "A hostile brahmin who never converts",
+             "A monk already ordained for many years"],
+         "correct": 0,
+         "expl": "One of the most consequential first meetings in the entire canon."},
+        {"q": "How does the discourse show Sudatta's excitement upon hearing about the Buddha?",
+         "opts": [
+             "He goes to bed thinking of the Buddha and rises three times in the night mistaking darkness for dawn",
+             "He immediately falls asleep and forgets about it",
+             "He expresses skepticism and doubt",
+             "He decides to wait several months before investigating"],
+         "correct": 0,
+         "expl": "A specific, warm picture of eager anticipation."},
+        {"q": "What unexplained detail occurs at the city gate?",
+         "opts": [
+             "Non-human beings open the gate for him",
+             "The gate is locked and he cannot proceed",
+             "A crowd of people blocks his way",
+             "The gate has been destroyed"],
+         "correct": 0,
+         "expl": "A small supernatural detail the text simply reports without explanation."},
+        {"q": "How many times does Sudatta experience fear and darkness on his journey?",
+         "opts": [
+             "Three times, each time nearly turning back",
+             "Only once",
+             "He experiences no fear at all",
+             "Five separate times"],
+         "correct": 0,
+         "expl": "The discourse honestly describes how close he came to abandoning the journey each time."},
+        {"q": "How does the spirit Sivaka respond each time Sudatta's fear returns?",
+         "opts": [
+             "With an identical, unwavering verse of encouragement each time",
+             "With a different, escalating threat each time",
+             "By remaining silent",
+             "By physically dragging him forward"],
+         "correct": 0,
+         "expl": "The same comparison and the same simple exhortation, repeated exactly three times."},
+        {"q": "What does Sivaka's verse compare to the value of a single forward step?",
+         "opts": [
+             "A hundred elephants, horses, chariots, and jeweled maidens combined",
+             "A single gold coin",
+             "A modest meal",
+             "Nothing of value at all"],
+         "correct": 0,
+         "expl": "A deliberately extravagant comparison emphasizing the step's true worth."},
+        {"q": "How does the Buddha greet Sudatta upon their first meeting?",
+         "opts": [
+             "By his actual birth name, \"Sudatta,\" before any formal introduction",
+             "With a generic, impersonal greeting",
+             "By ignoring him initially",
+             "By testing him with a difficult question first"],
+         "correct": 0,
+         "expl": "A moment revealing knowledge Sudatta didn't expect, delighting him."},
+        {"q": "What question does Sudatta ask the Buddha after this greeting?",
+         "opts": [
+             "Whether the Buddha slept well",
+             "How to become enlightened immediately",
+             "Why the journey was so frightening",
+             "How much wealth he should donate"],
+         "correct": 0,
+         "expl": "A simple, courteous question prompting the closing teaching."},
+        {"q": "What does the Buddha's answering verse describe?",
+         "opts": [
+             "The peaceful sleep of one who is fully quenched, free of attachment",
+             "The dangers of sleeping outdoors",
+             "A prophecy about Sudatta's future",
+             "Instructions for proper bedtime rituals"],
+         "correct": 0,
+         "expl": "A teaching connecting inner freedom to genuine ease, prompted by an ordinary courteous question."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Between Rājagaha and the Cool Grove, before dawn",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Mount Indra's Peak",
+             "Near Vesālī, in a forest grove"],
+         "correct": 0,
+         "expl": "The specific journey and destination central to this historic first meeting."},
+    ],
+    marginalia=[
+        ("Too excited to properly sleep", [
+            "rising three times, mistaking dark for dawn &mdash;",
+            "anticipation shown, not merely stated",
+        ]),
+        ("Fear returning, not overcome once", [
+            "three times nearly turning back &mdash;",
+            "honestly described, not smoothed over",
+        ]),
+        ("The same encouragement, unwavering", [
+            "elephants, horses, maidens — still not worth one step &mdash;",
+            "identical each of the three times",
+        ]),
+        ("Known by name before any introduction", [
+            "\"Come, Sudatta\" &mdash;",
+            "delight at being recognized this way",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.7.html">SN 10.7 &middot; With Punabbasu</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.9.html">SN 10.9 &middot; With the Nun Sukkā '
+        "(1st)</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.9 — Paṭhamasukkāsutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 9, "Paṭhamasukkā", "With the Nun Sukkā (1st)",
+    meta_title="SN 10.9 — With the Nun Sukkā (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Paṭhamasukkāsutta — a spirit so moved by the nun Sukkā's "
+        "teaching that he wanders Rājagaha's streets publicly chiding "
+        "the indifferent and praising the wise who drink in her "
+        "words. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha's streets and squares, with the "
+                    "occasion set at the Bamboo Grove"),
+        ("Speakers", "A native spirit devoted to the nun Sukkā, "
+                     "addressing the general public"),
+        ("Form", "A public proclamation in verse, praising a "
+                 "teacher and chiding an indifferent crowd"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, notable for its female teaching "
+                       "authority"),
+    ],
+    why=(
+        "This discourse centers not on the Buddha directly but on the "
+        "nun Sukkā, teaching Dhamma to a large assembly in Rājagaha. "
+        "A spirit, moved to genuine devotion by what he's witnessed, "
+        "doesn't simply praise her privately; he walks the city's "
+        "streets and squares, proclaiming his verse publicly, "
+        "chiding the ordinary residents of Rājagaha for sleeping "
+        "through her teaching &lsquo;like they've been drinking "
+        "mead&rsquo; while the wise, by contrast, drink her words in "
+        "eagerly, like thirsty travelers finding a cool cloud."),
+    guide=[
+        ("A discourse centering a nun's teaching authority", [
+            "Unlike most of this saṃyutta, where the Buddha himself "
+            "is either present or the implicit reference point, this "
+            "discourse's entire occasion is the nun Sukkā teaching "
+            "independently to a large assembly, her authority as a "
+            "teacher taken as simply given."]),
+        ("Devotion expressed through public proclamation, not private prayer", [
+            "The spirit's response to Sukkā's teaching isn't quiet "
+            "personal admiration; he actively travels &lsquo;from "
+            "street to street and from square to square&rsquo;, "
+            "making his praise a deliberately public act rather than "
+            "a private sentiment."]),
+        ("Ordinary indifference named without gentleness", [
+            "The verse's opening line doesn't merely note that "
+            "people aren't attending her teaching; it mocks their "
+            "indifference directly, comparing their inattention to "
+            "the stupor of people who've been drinking mead &mdash; a "
+            "sharp, almost comic image of missed opportunity."]),
+        ("The teaching itself named as the state free of death", [
+            "Sukkā's subject isn't left vague; the verse specifies "
+            "she teaches &lsquo;the state free of death&rsquo; "
+            "(amata), the same term used elsewhere in this collection "
+            "for the goal of the entire path, treating her teaching "
+            "as carrying the same weight as any other genuine "
+            "exposition of the Dhamma."]),
+        ("A closing image contrasting the wise with the indifferent", [
+            "The final lines don't end on criticism alone; they "
+            "balance the opening's mockery with genuine admiration "
+            "for those who do attend, describing the wise as drinking "
+            "in her teaching the way travelers relish a cool cloud "
+            "&mdash; irresistible, delectable, and nutritious all at "
+            "once."]),
+    ],
+    terms=[
+        ("sukkā bhikkhunī mahatiyā parisāya parivutā dhammaṁ deseti",
+         "&ldquo;the nun Sukkā was teaching Dhamma, surrounded by a "
+         "large assembly&rdquo; &mdash; establishing her independent "
+         "teaching authority as the discourse's occasion."),
+        ("rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ",
+         "&ldquo;from street to street and from square to "
+         "square&rdquo; &mdash; the spirit's deliberately public "
+         "mode of expressing devotion."),
+        ("kiṁ me katā rājagahe manussā, madhupītāva seyare",
+         "&ldquo;what's up with these people in Rājagaha? they sleep "
+         "like they've been drinking mead!&rdquo; &mdash; the "
+         "verse's sharp mockery of public indifference."),
+        ("desentiṁ amataṁ padaṁ",
+         "&ldquo;teaching the state free of death&rdquo; &mdash; "
+         "naming Sukkā's teaching subject with the canon's own term "
+         "for the path's ultimate goal."),
+        ("pivanti maññe sappaññā, valāhakamiva panthagū",
+         "&ldquo;the wise drink it up&hellip;like travelers enjoying "
+         "a cool cloud&rdquo; &mdash; the closing image of the "
+         "teaching's genuine, refreshing value."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.9:1.1-1.3"),
+        ("p", "&sect;2", "sn10.9:2.1-2.4"),
+        ("p", "&sect;3", "sn10.9:3.1-3.4"),
+    ],
+    quiz=[
+        {"q": "Who is teaching Dhamma at the discourse's occasion?",
+         "opts": [
+             "The nun Sukkā, teaching independently to a large assembly",
+             "The Buddha himself",
+             "A senior monk of the Saṅgha",
+             "A visiting brahmin scholar"],
+         "correct": 0,
+         "expl": "Her authority as a teacher is simply taken as given by the discourse."},
+        {"q": "How does the spirit express his devotion to Sukkā's teaching?",
+         "opts": [
+             "By publicly proclaiming a verse throughout Rājagaha's streets and squares",
+             "By privately meditating alone",
+             "By offering her material gifts",
+             "By silently listening without any outward expression"],
+         "correct": 0,
+         "expl": "A deliberately public act, not a quiet private sentiment."},
+        {"q": "How does the verse describe the ordinary residents of Rājagaha?",
+         "opts": [
+             "As sleeping through her teaching \"like they've been drinking mead\"",
+             "As eagerly attending in large numbers",
+             "As actively hostile to her teaching",
+             "As entirely unaware that she exists"],
+         "correct": 0,
+         "expl": "A sharp, almost comic image of indifference and missed opportunity."},
+        {"q": "What does the verse specify Sukkā is teaching?",
+         "opts": [
+             "\"The state free of death\" (amata)",
+             "Rules of proper conduct only",
+             "A history of past teachers",
+             "The verse leaves her subject unspecified"],
+         "correct": 0,
+         "expl": "The same term used elsewhere in this collection for the path's ultimate goal."},
+        {"q": "How does the verse describe those who do pay attention?",
+         "opts": [
+             "As drinking in her teaching like travelers enjoying a cool cloud",
+             "As equally indifferent as everyone else",
+             "As confused by what they hear",
+             "No description is given of attentive listeners"],
+         "correct": 0,
+         "expl": "A refreshing, vivid image contrasting with the opening's mockery of indifference."},
+        {"q": "What does this discourse suggest about teaching authority in this tradition?",
+         "opts": [
+             "That a nun's independent teaching to a large assembly is treated with the same weight as any Dhamma exposition",
+             "That only the Buddha himself could ever teach authentically",
+             "That women were barred from teaching entirely",
+             "That nuns could only teach other nuns"],
+         "correct": 0,
+         "expl": "Sukkā's teaching authority presented without qualification or special pleading."},
+        {"q": "Where does this discourse's occasion take place?",
+         "opts": [
+             "Near Rājagaha, at the Bamboo Grove, with the spirit's proclamation spreading through the city",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Mount Indra's Peak",
+             "Near Vesālī, in a forest grove"],
+         "correct": 0,
+         "expl": "The same general Rājagaha setting shared with several other discourses in this saṃyutta."},
+        {"q": "What tone does the verse's opening line take toward the indifferent crowd?",
+         "opts": [
+             "Sharp and unsoftened mockery",
+             "Gentle sympathy",
+             "Complete indifference",
+             "Fearful hesitation"],
+         "correct": 0,
+         "expl": "Direct criticism without gentleness or hedging."},
+        {"q": "How is this discourse structurally related to SN 10.10?",
+         "opts": [
+             "It is the first of a paired set, both featuring the same devoted spirit and the nun Sukkā",
+             "It has no relationship to SN 10.10",
+             "It directly contradicts SN 10.10's content",
+             "It is an exact word-for-word repetition of SN 10.10"],
+         "correct": 0,
+         "expl": "A companion piece sharing the same figures and general framing."},
+        {"q": "What genre or type of content does this discourse represent?",
+         "opts": [
+             "A public verse of praise and admonishment, spoken by a devoted onlooker",
+             "A formal doctrinal debate",
+             "A first-person autobiographical account",
+             "A set of monastic disciplinary rules"],
+         "correct": 0,
+         "expl": "Spontaneous public praise rather than structured teaching or debate."},
+    ],
+    marginalia=[
+        ("A nun's authority, simply given", [
+            "no qualification needed &mdash;",
+            "Sukkā teaching a large assembly outright",
+        ]),
+        ("Devotion made public, not kept quiet", [
+            "street to street, square to square &mdash;",
+            "praise proclaimed, not privately felt",
+        ]),
+        ("\"Like they've been drinking mead\"", [
+            "indifference mocked sharply &mdash;",
+            "no gentleness in the criticism",
+        ]),
+        ("A cool cloud for thirsty travelers", [
+            "the wise drinking in her words &mdash;",
+            "balancing mockery with genuine praise",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.8.html">SN 10.8 &middot; With Sudatta</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-10.10.html">SN 10.10 &middot; With the Nun '
+        "Sukkā (2nd)</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.10 — Dutiyasukkāsutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 10, "Dutiyasukkā", "With the Nun Sukkā (2nd)",
+    meta_title="SN 10.10 — With the Nun Sukkā (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasukkāsutta — the same devoted spirit publicly "
+        "praises a lay follower's gift of food to the nun Sukkā, "
+        "naming her own liberation as what makes the offering "
+        "especially meritorious. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha's streets and squares, with the "
+                    "occasion set at the Bamboo Grove"),
+        ("Speakers", "The same native spirit devoted to the nun "
+                     "Sukkā, addressing the general public"),
+        ("Form", "A brief public proclamation praising an act of "
+                 "generosity"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the briefest discourse in this saṃyutta so "
+                       "far"),
+    ],
+    why=(
+        "This companion discourse returns to the same devoted spirit "
+        "and the same nun Sukkā, but shifts the occasion entirely: "
+        "rather than witnessing her teach, the spirit sees an "
+        "ordinary lay follower give her food, and is moved to the "
+        "same public proclamation as before. The verse doesn't praise "
+        "the food itself or the act of giving in the abstract; it "
+        "specifies exactly why this particular gift carries such "
+        "weight &mdash; because the recipient, Sukkā, is herself "
+        "&lsquo;released from all ties&rsquo;, making an ordinary act "
+        "of generosity into something the spirit considers "
+        "genuinely significant merit."),
+    guide=[
+        ("The same spirit, a different occasion entirely", [
+            "This discourse doesn't repeat SN 10.9's scene; it shifts "
+            "from Sukkā teaching to Sukkā simply receiving alms, "
+            "showing the spirit's devotion extending to ordinary "
+            "moments of her life, not only her more visible public "
+            "teaching."]),
+        ("An entirely ordinary act made the occasion for public praise", [
+            "Giving food to a nun on alms round is about as "
+            "unremarkable an event as this saṃyutta records; the "
+            "spirit's decision to proclaim it publicly through the "
+            "city's streets treats this everyday generosity as "
+            "genuinely praiseworthy rather than routine."]),
+        ("Merit specified as substantial, not vaguely positive", [
+            "The verse doesn't simply say the donor did something "
+            "nice; it opens with an exclamation about how much merit "
+            "he's made, treating the act's spiritual significance as "
+            "something worth quantifying rather than a generic "
+            "compliment."]),
+        ("Wisdom attributed to the giver, not just generosity", [
+            "The donor isn't praised only for kindness or "
+            "generosity; the verse specifically calls him "
+            "&lsquo;very wise&rsquo;, crediting him with a kind of "
+            "discernment in recognizing who was worth giving to, not "
+            "merely a generous impulse."]),
+        ("The recipient's liberation named as the actual reason", [
+            "The verse's closing line doesn't leave the gift's "
+            "significance unexplained; it states directly that Sukkā "
+            "is &lsquo;released from all ties&rsquo;, making her "
+            "specifically the reason this act of giving carries such "
+            "weight &mdash; the merit tied to who received the gift, "
+            "not only the act of giving itself."]),
+    ],
+    terms=[
+        ("sukkāya bhikkhuniyā bhojanaṁ adāsi",
+         "&ldquo;gave food to the nun Sukkā&rdquo; &mdash; the "
+         "ordinary act of generosity that becomes this discourse's "
+         "occasion."),
+        ("abhippasanno yakkho",
+         "&ldquo;a native spirit so devoted&rdquo; &mdash; the same "
+         "figure from SN 10.9, extending his devotion to this "
+         "everyday moment."),
+        ("puññaṁ vata pasavi bahuṁ",
+         "&ldquo;he has made so much merit!&rdquo; &mdash; the "
+         "verse's opening exclamation, treating the merit as "
+         "substantial rather than vaguely positive."),
+        ("sappañño vatāyaṁ upāsako",
+         "&ldquo;that lay follower is so very wise&rdquo; &mdash; "
+         "crediting the donor with discernment, not only generosity."),
+        ("sabbaganthehi vippamuttiyā",
+         "&ldquo;released from all ties&rdquo; &mdash; naming "
+         "Sukkā's own liberation as the actual reason the gift "
+         "carries such weight."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.10:1.1-1.3"),
+        ("p", "&sect;2", "sn10.10:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What occasion prompts this discourse, compared to SN 10.9's?",
+         "opts": [
+             "An ordinary lay follower giving food to Sukkā, rather than her teaching a crowd",
+             "The identical scene of Sukkā teaching, repeated verbatim",
+             "Sukkā's own funeral",
+             "A dispute between two lay followers"],
+         "correct": 0,
+         "expl": "A shift from her public teaching to an everyday moment of receiving alms."},
+        {"q": "How does the spirit respond to witnessing this act of giving?",
+         "opts": [
+             "With the same public proclamation through the city's streets as before",
+             "With complete indifference",
+             "By personally intervening to stop it",
+             "By remaining silent this time"],
+         "correct": 0,
+         "expl": "The same devoted spirit, extending his public praise to this ordinary occasion."},
+        {"q": "How does the verse characterize the merit made by this act?",
+         "opts": [
+             "As substantial, opening with an exclamation about how much merit was made",
+             "As trivial and barely worth mentioning",
+             "As uncertain and unclear",
+             "As entirely absent"],
+         "correct": 0,
+         "expl": "Treating the act's spiritual significance as something worth emphasizing directly."},
+        {"q": "What quality does the verse attribute to the donor, beyond generosity?",
+         "opts": [
+             "Wisdom, specifically discernment in choosing who to give to",
+             "Wealth and high social status",
+             "Physical strength",
+             "No additional quality is attributed"],
+         "correct": 0,
+         "expl": "Crediting a kind of discernment, not merely a generous impulse."},
+        {"q": "What does the verse name as the actual reason this gift carries such weight?",
+         "opts": [
+             "That Sukkā herself is \"released from all ties\"",
+             "That the food given was especially valuable",
+             "That the donor gave publicly for recognition",
+             "No specific reason is given"],
+         "correct": 0,
+         "expl": "The merit tied to who received the gift, not only the act of giving itself."},
+        {"q": "How does this discourse's length compare to others in this saṃyutta?",
+         "opts": [
+             "It is the briefest discourse in this saṃyutta so far",
+             "It is the longest discourse in this saṃyutta",
+             "It is exactly the same length as SN 10.8",
+             "It contains no verse content at all"],
+         "correct": 0,
+         "expl": "A single, compact verse, shorter even than SN 10.9's."},
+        {"q": "What does this pair of discourses (SN 10.9 and 10.10) together suggest about Sukkā?",
+         "opts": [
+             "That her significance extends to both her public teaching and her personal liberation",
+             "That she was only ever recognized for her teaching, never her attainment",
+             "That the two discourses present contradictory views of her",
+             "That she was not actually respected by anyone"],
+         "correct": 0,
+         "expl": "Two complementary occasions honoring different aspects of who she is."},
+        {"q": "Who is the recurring figure across both this discourse and SN 10.9?",
+         "opts": [
+             "The same devoted native spirit",
+             "Two entirely different spirits",
+             "The Buddha himself",
+             "No figure recurs between the two discourses"],
+         "correct": 0,
+         "expl": "The spirit's devotion to Sukkā spans both occasions."},
+        {"q": "Where does this discourse's occasion take place?",
+         "opts": [
+             "Near Rājagaha, at the Bamboo Grove, with the proclamation spreading through the city",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Mount Indra's Peak",
+             "Near Vesālī, in a forest grove"],
+         "correct": 0,
+         "expl": "The same setting as SN 10.9, immediately before it."},
+        {"q": "What kind of act does this discourse treat as worthy of public celebration?",
+         "opts": [
+             "An entirely ordinary, everyday act of generosity",
+             "A dramatic act of self-sacrifice",
+             "A public debate victory",
+             "A rare and unusual ritual"],
+         "correct": 0,
+         "expl": "Treating routine generosity as genuinely praiseworthy, not merely unremarkable."},
+    ],
+    marginalia=[
+        ("Teaching, then simply receiving alms", [
+            "the same devotion, a different moment &mdash;",
+            "extending to ordinary daily life",
+        ]),
+        ("An ordinary act, proclaimed publicly", [
+            "food given, praised through the streets &mdash;",
+            "routine generosity made significant",
+        ]),
+        ("Wisdom credited, not just kindness", [
+            "\"so very wise,\" the verse says &mdash;",
+            "discernment in the choice of recipient",
+        ]),
+        ("Her liberation naming the real reason", [
+            "\"released from all ties\" &mdash;",
+            "the merit tied to who received the gift",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.9.html">SN 10.9 &middot; With the Nun Sukkā '
+        "(1st)</a> &mdash; the discourse immediately before this "
+        "one.",
+        '<a href="sn-10.11.html">SN 10.11 &middot; With the Nun '
+        "Cīrā</a> &mdash; the next discourse in this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.11 — Cīrāsutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 11, "Cīrā", "With the Nun Cīrā",
+    meta_title="SN 10.11 — With the Nun Cīrā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Cīrāsutta — a third near-identical devoted-spirit verse, "
+        "this time praising a robe given to the nun Cīrā, closing a "
+        "small triptych of public praise for liberated nuns. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha's streets and squares, with the "
+                    "occasion set at the Bamboo Grove"),
+        ("Speakers", "A native spirit devoted to the nun Cīrā, "
+                     "addressing the general public"),
+        ("Form", "A near-identical repetition of SN 10.10's structure, "
+                 "with the specific gift and recipient changed"),
+        ("Length", "~1.5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, best read alongside SN 10.9 and 10.10 "
+                       "as a set"),
+    ],
+    why=(
+        "This discourse completes a small triptych begun in SN 10.9 "
+        "and SN 10.10: a devoted spirit publicly celebrating a "
+        "liberated nun, now applied to a third figure, Cīrā, and a "
+        "third occasion, a lay follower's gift of a robe. The "
+        "structure is almost entirely identical to SN 10.10's &mdash; "
+        "the same opening exclamation, the same praise of the "
+        "donor's wisdom &mdash; differing chiefly in the specific "
+        "gift and a single closing word, &lsquo;yokes&rsquo; "
+        "replacing &lsquo;ties&rsquo; as the bondage Cīrā has been "
+        "released from. Read together, these three discourses "
+        "suggest a small, recognizable genre within this saṃyutta: "
+        "public verses honoring liberated nuns and the lay people who "
+        "support them."),
+    guide=[
+        ("The third of a recognizable small set", [
+            "SN 10.9, SN 10.10, and this discourse together form a "
+            "clear mini-sequence, each one a devoted spirit publicly "
+            "celebrating a nun's teaching or attainment &mdash; a "
+            "pattern this reading guide notes as a deliberate "
+            "grouping rather than three unrelated coincidences."]),
+        ("A gift changed, the structure otherwise preserved", [
+            "Where SN 10.10 celebrated a gift of food, this discourse "
+            "celebrates a robe &mdash; a small but meaningful "
+            "variation, since the robe is one of the small set of "
+            "requisites explicitly permitted to monastics, giving "
+            "this gift its own specific significance."]),
+        ("A single word substitution closing the verse", [
+            "&lsquo;Sabbayogehi vippamuttiyā&rsquo; (released from "
+            "all yokes) replaces SN 10.10's &lsquo;sabbaganthehi "
+            "vippamuttiyā&rsquo; (released from all ties) &mdash; two "
+            "closely related Pali terms for bondage, substituted for "
+            "each other much as this collection elsewhere varies a "
+            "single word across otherwise identical verses."]),
+        ("The same wisdom attributed to the donor once more", [
+            "As in SN 10.10, the verse doesn't praise generosity "
+            "alone; it credits the lay follower with wisdom "
+            "specifically, treating the discernment to give "
+            "appropriately as itself a mark of spiritual maturity, "
+            "not merely a kind impulse."]),
+        ("A recurring reminder that liberation, not status, grounds the merit", [
+            "Across all three discourses in this small set, the "
+            "actual justification for celebrating the gift is never "
+            "the recipient's social position; it's specifically that "
+            "she is liberated &mdash; the same underlying principle "
+            "restated three times with different names and different "
+            "gifts."]),
+    ],
+    terms=[
+        ("cīraṁ adāsi",
+         "&ldquo;gave a robe&rdquo; &mdash; the specific gift "
+         "occasioning this discourse, distinct from SN 10.10's food."),
+        ("abhippasanno yakkho",
+         "&ldquo;a native spirit so devoted&rdquo; &mdash; the "
+         "recurring framing device shared across this small set of "
+         "discourses."),
+        ("puññaṁ vata pasavi bahuṁ",
+         "&ldquo;he has made so much merit!&rdquo; &mdash; the "
+         "verse's opening exclamation, identical to SN 10.10's."),
+        ("sappañño vatāyaṁ upāsako",
+         "&ldquo;that lay follower is so very wise&rdquo; &mdash; "
+         "attributing discernment to the donor, not merely "
+         "generosity."),
+        ("sabbayogehi vippamuttiyā",
+         "&ldquo;released from all yokes&rdquo; &mdash; the single "
+         "word substituted for SN 10.10's &lsquo;ties&rsquo;, a "
+         "closely related term for bondage."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.11:1.1-1.4"),
+        ("p", "&sect;2", "sn10.11:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What gift occasions this discourse?",
+         "opts": [
+             "A robe given to the nun Cīrā",
+             "A meal given to the nun Cīrā",
+             "A dwelling built for the nun Cīrā",
+             "No specific gift is mentioned"],
+         "correct": 0,
+         "expl": "A robe, one of the small set of items explicitly permitted to monastics."},
+        {"q": "How does this discourse relate to SN 10.9 and SN 10.10?",
+         "opts": [
+             "It completes a small triptych of devoted-spirit verses honoring liberated nuns",
+             "It has no relationship to either discourse",
+             "It directly contradicts what SN 10.10 states",
+             "It is an exact word-for-word repetition of SN 10.9"],
+         "correct": 0,
+         "expl": "A deliberate grouping this reading guide notes as a recognizable small set."},
+        {"q": "What single word differs between this discourse's closing line and SN 10.10's?",
+         "opts": [
+             "\"Yokes\" replaces \"ties\" as the bondage Cīrā is released from",
+             "The recipient's name is the only difference",
+             "No word differs; the verses are completely identical",
+             "The entire final line is replaced with something unrelated"],
+         "correct": 0,
+         "expl": "Two closely related Pali terms for bondage, substituted for each other."},
+        {"q": "What quality does the verse attribute to the donor?",
+         "opts": [
+             "Wisdom, specifically in the discernment to give appropriately",
+             "Wealth and high social status",
+             "Physical strength",
+             "No specific quality is attributed"],
+         "correct": 0,
+         "expl": "The same attribution of wisdom seen in SN 10.10."},
+        {"q": "What underlying principle recurs across all three discourses in this set?",
+         "opts": [
+             "That the merit of the gift comes from the recipient's liberation, not her social status",
+             "That only wealthy donors can make meaningful gifts",
+             "That gifts to nuns are less meritorious than gifts to monks",
+             "That the specific item given matters more than anything else"],
+         "correct": 0,
+         "expl": "The same core justification restated three times with different names and gifts."},
+        {"q": "How does the spirit express its devotion in this discourse?",
+         "opts": [
+             "By publicly proclaiming a verse through Rājagaha's streets and squares",
+             "By remaining completely silent",
+             "By directly confronting the donor",
+             "By intervening physically to stop the gift"],
+         "correct": 0,
+         "expl": "The same public mode of expression as SN 10.9 and SN 10.10."},
+        {"q": "How does this discourse's length compare to SN 10.9's?",
+         "opts": [
+             "It is shorter, comparable to SN 10.10's brevity",
+             "It is significantly longer",
+             "It is exactly the same length",
+             "It contains no verse at all"],
+         "correct": 0,
+         "expl": "A compact verse, matching SN 10.10's brief structure."},
+        {"q": "What discourse comes immediately after this one, closing the entire saṃyutta?",
+         "opts": [
+             "SN 10.12, With Āḷavaka",
+             "SN 10.1, With Indaka, repeated",
+             "No further discourse follows",
+             "SN 9.14, from the previous saṃyutta"],
+         "correct": 0,
+         "expl": "The saṃyutta's dramatic, famous closing discourse."},
+        {"q": "Where does this discourse's occasion take place?",
+         "opts": [
+             "Near Rājagaha, at the Bamboo Grove, with the proclamation spreading through the city",
+             "At Sāvatthī, in Jeta's Grove",
+             "On Mount Indra's Peak",
+             "Near Vesālī, in a forest grove"],
+         "correct": 0,
+         "expl": "The same setting as SN 10.9 and SN 10.10."},
+        {"q": "What kind of act does this discourse treat as worthy of public celebration?",
+         "opts": [
+             "An ordinary act of generosity — giving a robe to a liberated nun",
+             "A dramatic act of self-sacrifice",
+             "A public debate victory",
+             "A rare and unusual ritual"],
+         "correct": 0,
+         "expl": "Routine generosity, made significant by who receives it."},
+    ],
+    marginalia=[
+        ("A third figure, a third occasion", [
+            "Cīrā, a robe, the same devoted spirit &mdash;",
+            "completing a small recognizable set",
+        ]),
+        ("Almost identical, one word changed", [
+            "\"yokes\" in place of \"ties\" &mdash;",
+            "the same pattern of near-repetition seen elsewhere",
+        ]),
+        ("Wisdom credited once more", [
+            "not generosity alone &mdash;",
+            "discernment in the choice of recipient",
+        ]),
+        ("The same principle, restated a third time", [
+            "liberation, not status, grounding the merit &mdash;",
+            "three names, three gifts, one underlying point",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.10.html">SN 10.10 &middot; With the Nun '
+        "Sukkā (2nd)</a> &mdash; the discourse immediately before "
+        "this one.",
+        '<a href="sn-10.12.html">SN 10.12 &middot; With Āḷavaka</a> '
+        "&mdash; the closing discourse of this saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 10.12 — Āḷavakasutta
+# --------------------------------------------------------------------------- #
+page(
+    10, 12, "Āḷavaka", "With Āḷavaka",
+    meta_title="SN 10.12 — With Āḷavaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Āḷavakasutta — closing Yakkhasaṃyutta, the canon's most "
+        "famous confrontation with a hostile spirit: bizarre "
+        "in-and-out commands, a violent threat, and one of Buddhism's "
+        "most quoted teachings on faith, truth, and wisdom. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Āḷavī, in the yakkha Āḷavaka's own domain"),
+        ("Speakers", "The native spirit Āḷavaka and the Buddha"),
+        ("Form", "A bizarre test of compliance, a violent threat, and "
+                 "an extended, celebrated verse teaching"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A close parallel exists as the "
+                              "Āḷavaka Sutta in the Sutta Nipāta (Sn "
+                              "1.10), and a rough counterpart may "
+                              "exist in the Chinese Saṃyukta-āgama "
+                              "(T99), though this reading guide does "
+                              "not assert a specific matching sutra "
+                              "number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "the most famous single discourse in this "
+                       "saṃyutta, closing it on a note of complete "
+                       "transformation"),
+    ],
+    why=(
+        "This discourse closes Yakkhasaṃyutta with its most "
+        "celebrated and dramatic confrontation. Āḷavaka's opening "
+        "move is genuinely strange: he orders the Buddha out of his "
+        "dwelling, then back in, four times over, with no explanation "
+        "given &mdash; and the Buddha complies each time without "
+        "objection, until the fourth command, when he simply refuses "
+        "and tells Āḷavaka to do as he must. What follows is the same "
+        "threefold violent threat encountered in SN 10.3, met with "
+        "the same calm invitation to ask. The philosophical exchange "
+        "that follows &mdash; on wealth, happiness, taste, crossing "
+        "the flood, and the qualities of a faithful householder "
+        "&mdash; is among the most widely quoted teachings in the "
+        "entire canon, and it ends not merely in Āḷavaka's conversion "
+        "but in his own vow to spend his life honoring the Buddha, "
+        "echoing almost exactly the itinerant devotion Vaṅgīsa "
+        "described of his own pre-monastic life."),
+    guide=[
+        ("An opening test with no stated purpose", [
+            "Āḷavaka's repeated in-and-out commands aren't explained "
+            "or justified anywhere in the text; the Buddha simply "
+            "complies four times, an unusual display of pure "
+            "obedience to an apparently arbitrary demand, testing "
+            "something the discourse never names directly."]),
+        ("Compliance ending not in defiance but in redirection", [
+            "When the Buddha finally declines the fourth command, he "
+            "doesn't argue or resist; he simply states he won't "
+            "leave and invites Āḷavaka to do whatever he intends "
+            "&mdash; a refusal delivered without confrontation."]),
+        ("The identical threat and reply already seen in this saṃyutta", [
+            "Āḷavaka's threat &mdash; insanity, a burst heart, or "
+            "being thrown across the Ganges &mdash; and the Buddha's "
+            "calm dismissal of it are word-for-word identical to SN "
+            "10.3's exchange with Sūciloma, this reading guide notes, "
+            "a formulaic passage this collection reuses rather than "
+            "recomposing."]),
+        ("A teaching built entirely from paired questions and answers", [
+            "The extended exchange doesn't wander; it proceeds "
+            "through a tightly structured sequence of paired "
+            "questions and answers &mdash; on wealth, happiness, "
+            "taste, and the best way to live; on crossing the flood, "
+            "the deluge, suffering, and purification; on gaining "
+            "wisdom, wealth, reputation, and dying without grief "
+            "&mdash; each answer building toward the final summary of "
+            "four qualities: truth, principle, steadfastness, and "
+            "generosity."]),
+        ("A conversion that becomes a vow to wander in devotion", [
+            "Āḷavaka's closing declaration doesn't simply express "
+            "gratitude; it commits him to a specific future life "
+            "&mdash; traveling village to village, town to town, "
+            "honoring the Buddha and the Dhamma &mdash; language "
+            "this reading guide notes as strikingly close to Vaṅgīsa's "
+            "own description of his pre-monastic wandering in SN "
+            "8.12, closing this saṃyutta with an image of devoted "
+            "itinerancy that echoes the collection's earlier close."]),
+    ],
+    terms=[
+        ("nikkhama, samaṇā&hellip;pavisa, samaṇā",
+         "&ldquo;get out, ascetic!&hellip;get in, ascetic!&rdquo; "
+         "&mdash; Āḷavaka's bizarre, unexplained repeated command, "
+         "tested four times over."),
+        ("cittaṁ vā te khipissāmi, hadayaṁ vā te phālessāmi, pādesu "
+         "vā gahetvā pāragaṅgāya khipissāmi",
+         "&ldquo;I'll drive you insane, or explode your heart, or "
+         "grab you by the feet and throw you to the far shore of the "
+         "Ganges&rdquo; &mdash; the identical threefold threat from "
+         "SN 10.3, reused here."),
+        ("saddhīdha vittaṁ purisassa seṭṭhaṁ&hellip;paññājīviṁ "
+         "jīvitamāhu seṭṭhaṁ",
+         "&ldquo;faith is a person's best wealth&hellip;the best "
+         "life is lived by wisdom&rdquo; &mdash; the teaching's "
+         "celebrated opening answer."),
+        ("saccaṁ dhammo dhiti cāgo, sa ve pecca na socati",
+         "&ldquo;truth, principle, steadfastness, and generosity "
+         "&hellip;one does not grieve after passing away&rdquo; "
+         "&mdash; the summarizing fourfold formula for a faithful "
+         "householder."),
+        ("so ahaṁ vicarissāmi, gāmā gāmaṁ purā puraṁ; namassamāno "
+         "sambuddhaṁ",
+         "&ldquo;I myself will journey village to village, town to "
+         "town, paying homage to the Buddha&rdquo; &mdash; Āḷavaka's "
+         "closing vow, echoing Vaṅgīsa's own former wandering life "
+         "described in SN 8.12."),
+    ],
+    text_intro=(
+        "The discourse in full, closing Yakkhasaṃyutta. A passage "
+        "identical to material already given verbatim in SN 10.3 is "
+        "elided in the source and is not reconstructed here. The "
+        "final colophon &mdash; the only line of the closing uddāna "
+        "translated into English in the source &mdash; is quoted "
+        "verbatim below, following this site's established convention "
+        "for saṃyutta-closing lines. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn10.12:1.1-1.21"),
+        ("p", "&sect;2", "sn10.12:1.22-1.25"),
+        ("p", "&sect;3", "sn10.12:2.1-2.4"),
+        ("p", "&sect;4", "sn10.12:3.1-3.4"),
+        ("p", "&sect;5", "sn10.12:4.1-4.4"),
+        ("p", "&sect;6", "sn10.12:5.1-5.4"),
+        ("p", "&sect;7", "sn10.12:6.1-6.6"),
+        ("p", "&sect;8", "sn10.12:7.1-7.4"),
+        ("p", "&sect;9", "sn10.12:8.1-8.6"),
+        ("p", "&sect;10", "sn10.12:9.1-9.4"),
+        ("p", "&sect;11", "sn10.12:10.1-10.4"),
+        ("p", "&sect;12", "sn10.12:11.1-11.4"),
+        ("p", "&sect;13", "sn10.12:12.1-12.4"),
+        ("p", "&sect;14", "sn10.12:13.1-13.4"),
+        ("p", "&sect;15", "sn10.12:14.5"),
+    ],
+    quiz=[
+        {"q": "What is Āḷavaka's opening test of the Buddha?",
+         "opts": [
+             "Repeatedly ordering him out of and back into his dwelling, four times over",
+             "Asking him a series of trick questions",
+             "Refusing to let him speak at all",
+             "Offering him food and observing his reaction"],
+         "correct": 0,
+         "expl": "A bizarre, unexplained demand the Buddha complies with each time until the fourth."},
+        {"q": "How does the Buddha eventually respond to the fourth command?",
+         "opts": [
+             "He simply declines and tells Āḷavaka to do as he must, without confrontation",
+             "He argues forcefully against the command",
+             "He leaves the area entirely",
+             "He continues complying indefinitely"],
+         "correct": 0,
+         "expl": "A refusal delivered calmly, not as defiance."},
+        {"q": "How does Āḷavaka's threat compare to SN 10.3's Sūciloma?",
+         "opts": [
+             "It is word-for-word identical — a formulaic passage reused across this saṃyutta",
+             "It is completely different in content",
+             "It is far milder than Sūciloma's threat",
+             "No threat is made in this discourse"],
+         "correct": 0,
+         "expl": "The same threefold violent threat, reused rather than recomposed."},
+        {"q": "What does the teaching identify as a person's best wealth?",
+         "opts": [
+             "Faith",
+             "Gold and silver",
+             "Land and property",
+             "Political power"],
+         "correct": 0,
+         "expl": "The opening answer of the extended, celebrated verse sequence."},
+        {"q": "What four qualities does the summarizing verse name for a faithful householder who doesn't grieve at death?",
+         "opts": [
+             "Truth, principle, steadfastness, and generosity",
+             "Wealth, status, power, and fame",
+             "Silence, solitude, fasting, and austerity",
+             "No specific qualities are named"],
+         "correct": 0,
+         "expl": "Saccaṁ dhammo dhiti cāgo — the teaching's culminating fourfold formula."},
+        {"q": "How does the teaching structure its content?",
+         "opts": [
+             "Through a tightly structured sequence of paired questions and answers",
+             "As a single unstructured monologue",
+             "Through a series of unrelated anecdotes",
+             "As a list with no question-and-answer format"],
+         "correct": 0,
+         "expl": "Wealth, happiness, crossing the flood, and dying without grief, each addressed in turn."},
+        {"q": "What does Āḷavaka vow to do at the discourse's close?",
+         "opts": [
+             "Travel village to village, town to town, honoring the Buddha and the Dhamma",
+             "Remain permanently in his own dwelling",
+             "Seek out other ascetics to test them the same way",
+             "Renounce all interest in the teaching"],
+         "correct": 0,
+         "expl": "A specific commitment to a life of devoted wandering."},
+        {"q": "How does Āḷavaka's closing vow relate to an earlier discourse in this collection?",
+         "opts": [
+             "It echoes Vaṅgīsa's own description of his pre-monastic wandering life in SN 8.12",
+             "It has no relationship to any earlier discourse",
+             "It directly contradicts SN 8.12's content",
+             "It only relates to SN 10.1's opening discourse"],
+         "correct": 0,
+         "expl": "A striking structural echo this reading guide notes, closing the saṃyutta on transformation."},
+        {"q": "What does the discourse's closing colophon say, quoted verbatim in the text section?",
+         "opts": [
+             "\"The Linked Discourses with Native Spirits are complete.\"",
+             "\"The teaching of the Buddha is now complete.\"",
+             "\"Indakavagga begins here.\"",
+             "The colophon is left entirely untranslated"],
+         "correct": 0,
+         "expl": "The only line of the closing uddāna translated into English in the source."},
+        {"q": "What well-known canonical parallel exists for this discourse?",
+         "opts": [
+             "The Āḷavaka Sutta in the Sutta Nipāta (Sn 1.10)",
+             "The Dhammacakkappavattanasutta (SN 56.11)",
+             "No parallel exists anywhere else in the canon",
+             "The Mahāparinibbānasutta (DN 16)"],
+         "correct": 0,
+         "expl": "A close parallel making this among the most widely known texts in this saṃyutta."},
+    ],
+    marginalia=[
+        ("A test with no stated reason", [
+            "out, then in, four times over &mdash;",
+            "obedience to an unexplained demand",
+        ]),
+        ("The same threat as before", [
+            "word for word from SN 10.3 &mdash;",
+            "a formula reused, not recomposed",
+        ]),
+        ("Faith, truth, wisdom — in sequence", [
+            "paired questions building toward one answer &mdash;",
+            "not a wandering monologue",
+        ]),
+        ("A vow to wander in devotion", [
+            "village to village, honoring the Buddha &mdash;",
+            "echoing Vaṅgīsa's own former life",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn10.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-10.11.html">SN 10.11 &middot; With the Nun '
+        "Cīrā</a> &mdash; the discourse immediately before this one.",
+        '<a href="sn-8.12.html">SN 8.12 &middot; With Vaṅgīsa</a> '
+        "&mdash; where the same language of village-to-village "
+        "wandering first appears in this collection.",
+        '<a href="./">Saṃyutta Nikāya</a> &mdash; back to the '
+        "collection index.",
+    ],
+)
