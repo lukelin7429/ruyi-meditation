@@ -111,7 +111,12 @@ def verify(page):
         check(ok, "%s: dead link %s" % (slug, href))
 
     # --- text fidelity --------------------------------------------------
-    src = sn_build.load_source(page["source"])
+    if "sources" in page:
+        src = {}
+        for rel in page["sources"]:
+            src.update(sn_build.load_source(rel))
+    else:
+        src = sn_build.load_source(page["source"])
     expected = [sn_build.joined(src, sn_build.segments(src, spec))
                 for kind, _, spec in
                 [i for i in page["text"] if i[0] == "p"]]

@@ -319,7 +319,19 @@ TABS = """  <div class="tabs" role="tablist">
 
 def build(page, shell):
     head, tail = shell
-    src = load_source(page["source"])
+    if "sources" in page:
+        # A handful of Nidānavagga discourses (the repeated "past Buddha"
+        # stubs of SN 12.5-9) are each their own bilara-data file rather
+        # than one merged peyyāla file; "sources" lets a single page pull
+        # segments from several such files at once. Keys already carry
+        # their own uid prefix (e.g. "sn12.6:1.1"), so a plain dict merge
+        # cannot collide. "source" (singular) is unaffected and remains
+        # the normal path for every other page.
+        src = {}
+        for rel in page["sources"]:
+            src.update(load_source(rel))
+    else:
+        src = load_source(page["source"])
 
     header = (
         '\n  <div class="pv-header">\n\n'
