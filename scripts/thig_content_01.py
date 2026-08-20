@@ -13107,7 +13107,659 @@ page(
         '<a href="thig-11.1.html">Thig 11.1 &mdash; Uppalava&#7751;&#7751;'
         "&amacr;</a> &mdash; the poem immediately before this one, "
         "closing the Book of the Twelves.",
-        '<a href="./">Therigatha</a> &mdash; back to the collection '
-        "index.",
+        '<a href="thig-13.1.html">Thig 13.1 &mdash; Ambap&amacr;l&imacr;'
+        "</a> &mdash; the next poem, opening the Book of the Twenties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 13.1 — Ambapālī
+# --------------------------------------------------------------------------- #
+page(
+    13, 1, "Ambap&amacr;l&imacr;", "Ambap&amacr;l&imacr;",
+    meta_title="Thig 13.1 — Ambapālī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Ambapālī's verses, a systematic, head-to-toe inventory of "
+        "beauty lost to age, each verse confirming the Buddha's word "
+        "on impermanence. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Poem 1 of 5",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses "
+                    "state; a fragmentary closing attribution names "
+                    "the speaker"),
+        ("Speaker", "Ambapālī, addressing no one but stating her own "
+                    "body's changes directly, verse by verse"),
+        ("Form", "Nineteen four-line verses, each following an "
+                 "identical pattern and shared refrain"),
+        ("Length", "under 3 minutes to read"),
+        ("Northern parallel", "Ambapālī's donation of her mango grove "
+                              "to the Buddha is told elsewhere in the "
+                              "wider canonical tradition; this verse "
+                              "itself contains none of that narrative, "
+                              "only the body inventory that follows."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; "
+                       "one of the most systematic single meditations "
+                       "on aging anywhere in Buddhist literature"),
+    ],
+    why=(
+        "This poem moves through eighteen parts of the body in strict "
+        "sequence &mdash; hair, head, eyebrows, eyes, nose, teeth, "
+        "neck, arms, breasts, thighs, feet &mdash; each verse stating "
+        "what that part once was, what age has made of it, and closing "
+        "on the same refrain: &lsquo;the word of the truthful one is "
+        "confirmed&rsquo;. Ambapālī's own body becomes, verse after "
+        "verse, the proof of the Buddha's teaching on impermanence."),
+    guide=[
+        ("A fixed pattern, repeated eighteen times over", [
+            "Each verse follows the identical structure: a simile for "
+            "how a body part once looked &mdash; hair &lsquo;as black "
+            "as bees&rsquo;, eyes &lsquo;brilliant as gems&rsquo;, a "
+            "neck &lsquo;like a polished shell of conch&rsquo; &mdash; "
+            "followed immediately by what age has made of it, then the "
+            "same closing line."]),
+        ("A refrain that turns lament into confirmation", [
+            "&lsquo;The word of the truthful one is confirmed&rsquo; "
+            "closes all nineteen verses without variation &mdash; not "
+            "simply mourning what is lost, but treating each specific "
+            "change as living evidence that the Buddha's teaching on "
+            "impermanence holds true."]),
+        ("Precision over generality, verse after verse", [
+            "The similes for decay are exact, not vague: hair "
+            "&lsquo;like hemp bark&rsquo;, a nose &lsquo;shriveled "
+            "like a pepper&rsquo;, hands &lsquo;like red radishes&rsquo;, "
+            "calves &lsquo;like sesame sticks&rsquo; &mdash; each "
+            "comparison specific enough to picture exactly."]),
+        ("A story this verse itself does not tell", [
+            "Ambapālī's donation of her mango grove to the Buddha, "
+            "later the site of some of his final teaching before his "
+            "passing, belongs to the wider canonical narrative "
+            "tradition &mdash; this poem itself narrates none of it, "
+            "only the body examined, part by part, in old age."]),
+    ],
+    terms=[
+        ("Ambap&amacr;l&imacr;",
+         "this poem's speaker, whose name means roughly &lsquo;keeper "
+         "of the mango grove&rsquo;."),
+        ("saccav&amacr;divacana&#7749; ana&ntilde;&ntilde;ath&amacr;",
+         "&ldquo;the word of the truthful one is confirmed&rdquo; "
+         "&mdash; the refrain closing every one of this poem's "
+         "nineteen verses without exception."),
+        ("jar&amacr;",
+         "&ldquo;old age&rdquo; &mdash; the single subject every verse "
+         "in this poem returns to."),
+        ("samussaya",
+         "&ldquo;this bag of bones&rdquo; &mdash; the summarizing "
+         "image for the whole body, in the poem's final verse."),
+        ("jar&amacr;ghara",
+         "&ldquo;a house in decay&rdquo; &mdash; the poem's last "
+         "simile, comparing the aged body to a building with its "
+         "plaster crumbling."),
+    ],
+    text_intro=(
+        "The text in full: nineteen verses, each following the same "
+        "pattern. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig13.1:1.1-1.4"),
+        ("p", "&sect;2", "thig13.1:2.1-2.4"),
+        ("p", "&sect;3", "thig13.1:3.1-3.4"),
+        ("p", "&sect;4", "thig13.1:4.1-4.4"),
+        ("p", "&sect;5", "thig13.1:5.1-5.4"),
+        ("p", "&sect;6", "thig13.1:6.1-6.4"),
+        ("p", "&sect;7", "thig13.1:7.1-7.4"),
+        ("p", "&sect;8", "thig13.1:8.1-8.4"),
+        ("p", "&sect;9", "thig13.1:9.1-9.4"),
+        ("p", "&sect;10", "thig13.1:10.1-10.4"),
+        ("p", "&sect;11", "thig13.1:11.1-11.4"),
+        ("p", "&sect;12", "thig13.1:12.1-12.4"),
+        ("p", "&sect;13", "thig13.1:13.1-13.4"),
+        ("p", "&sect;14", "thig13.1:14.1-14.4"),
+        ("p", "&sect;15", "thig13.1:15.1-15.4"),
+        ("p", "&sect;16", "thig13.1:16.1-16.4"),
+        ("p", "&sect;17", "thig13.1:17.1-17.4"),
+        ("p", "&sect;18", "thig13.1:18.1-18.4"),
+        ("p", "&sect;19", "thig13.1:19.1-19.4"),
+    ],
+    quiz=[
+        {"q": "How many body parts does this poem move through in sequence?",
+         "opts": [
+             "Three",
+             "Eighteen, followed by a closing verse on the whole body",
+             "Just one",
+             "The poem does not describe the body"],
+         "correct": 1,
+         "expl": "A systematic, head-to-toe inventory, each part given its own verse."},
+        {"q": "What refrain closes every one of this poem's nineteen verses?",
+         "opts": [
+             "'The word of the truthful one is confirmed'",
+             "'No more future lives'",
+             "'I go for refuge to the Buddha'",
+             "Each verse closes differently"],
+         "correct": 0,
+         "expl": "Repeated without variation across all nineteen verses."},
+        {"q": "What does this refrain do, rather than simply mourning loss?",
+         "opts": [
+             "It expresses only grief",
+             "It denies that any change has occurred",
+             "It treats each specific change as evidence confirming the Buddha's teaching on impermanence",
+             "It has no particular function"],
+         "correct": 2,
+         "expl": "Lament turned into confirmation, verse after verse."},
+        {"q": "How does this poem describe her hair, once and now?",
+         "opts": [
+             "Once black as bees, now like hemp bark",
+             "No description of hair is given",
+             "Unchanged throughout her life",
+             "Only described as 'old'"],
+         "correct": 0,
+         "expl": "A specific, vivid pair of images, typical of this poem's precision."},
+        {"q": "What kind of similes does this poem use for aging, overall?",
+         "opts": [
+             "Vague, generic descriptions of decline",
+             "Specific and exact — hemp bark, a shriveled pepper, sesame sticks, red radishes",
+             "No similes are used at all",
+             "Only abstract philosophical terms"],
+         "correct": 1,
+         "expl": "Concrete, precise comparisons rather than generalized language."},
+        {"q": "What famous episode from Ambapālī's life does this poem itself narrate?",
+         "opts": [
+             "Her donation of a mango grove to the Buddha",
+             "Her first meeting with the Buddha",
+             "Her decision to become a courtesan",
+             "None of it — this poem contains only the body inventory"],
+         "correct": 3,
+         "expl": "That story belongs to the wider canonical tradition, not to this verse."},
+        {"q": "What image closes the poem's final verse, describing the whole body?",
+         "opts": [
+             "A blooming garden",
+             "A house in decay, with its plaster crumbling",
+             "A polished jewel",
+             "No closing image is given"],
+         "correct": 1,
+         "expl": "'This bag of bones... a house in decay with plaster crumbling.'"},
+        {"q": "What does 'jarā' mean?",
+         "opts": [
+             "'Old age' — the single subject every verse returns to",
+             "'A mango grove'",
+             "'The word of the truthful one'",
+             "'A house'"],
+         "correct": 0,
+         "expl": "The poem's central and only subject, verse after verse."},
+        {"q": "What position does this poem hold in the Book of the Twenties?",
+         "opts": [
+             "The last poem",
+             "The third poem",
+             "It stands outside this book",
+             "The first poem, opening the book"],
+         "correct": 3,
+         "expl": "The first of five poems in this book."},
+        {"q": "What structural pattern does each of this poem's eighteen body-part verses share?",
+         "opts": [
+             "No shared pattern",
+             "A description of the present only, with no reference to the past",
+             "A stated former beauty, then its present decay, then the same closing refrain",
+             "A question and answer format"],
+         "correct": 2,
+         "expl": "An identical structure, repeated with only the specific body part and images changing."},
+    ],
+    marginalia=[
+        ("Eighteen parts, one by one", [
+            "hair to feet,",
+            "in strict sequence"
+        ]),
+        ("A refrain, unchanging", [
+            "nineteen times,",
+            "the same close"
+        ]),
+        ("Precision, not vagueness", [
+            "hemp bark,",
+            "sesame sticks, red radishes"
+        ]),
+        ("A famous story, untold here", [
+            "the mango grove",
+            "belongs elsewhere"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig13.1/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-12.1.html">Thig 12.1 &mdash; Pu&#7751;&#7751;ik'
+        "&amacr;</a> &mdash; the poem immediately before this one, "
+        "closing the Book of the Sixteens.",
+        '<a href="thig-13.2.html">Thig 13.2 &mdash; Rohin&imacr;</a> '
+        "&mdash; the next poem in the Book of the Twenties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 13.2 — Rohinī
+# --------------------------------------------------------------------------- #
+page(
+    13, 2, "Rohin&imacr;", "Rohin&imacr;",
+    meta_title="Thig 13.2 — Rohinī | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Rohinī's verses, a daughter's point-by-point defense of "
+        "ascetics against her father's accusations, closing on his own "
+        "conversion. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Poem 2 of 5",
+    glance=[
+        ("Setting", "No narrative setting beyond what the verses "
+                    "state; a fragmentary closing attribution names "
+                    "the speaker"),
+        ("Speaker", "A father accusing, Rohinī defending at length, "
+                    "then the father's own conversion"),
+        ("Form", "Twenty-one verses, mostly four lines, closing on the "
+                 "father's own declaration"),
+        ("Length", "under 3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; &mdash; a "
+                       "sustained, itemized rebuttal across a dozen "
+                       "verses"),
+    ],
+    why=(
+        "This poem opens with an accusation: Rohinī's father claims "
+        "ascetics are &lsquo;lazy&rsquo; and &lsquo;live on "
+        "charity&rsquo;, and asks pointedly why she likes them. Her "
+        "reply is not a single retort but twelve verses of systematic "
+        "rebuttal, reframing every accusation in turn &mdash; and the "
+        "poem closes, as Thig 12.1 did two poems into this collection "
+        "before it, on her father's own conversion, in nearly "
+        "identical closing words."),
+    guide=[
+        ("An accusation, stated plainly by a respectful father", [
+            "&lsquo;They don't like to work, they're lazy, they live "
+            "on charity... always on the lookout, greedy for "
+            "sweets&rsquo; opens the poem as a father's direct "
+            "challenge to his daughter, addressed to her respectfully "
+            "as &lsquo;bhoti&rsquo; even while accusing the ascetics "
+            "she favors."]),
+        ("A rebuttal, one accusation at a time", [
+            "Rohinī answers systematically: their &lsquo;laziness&rsquo; "
+            "is &lsquo;the best kind of work&rsquo;, giving up greed "
+            "and hate; their reliance on charity means they hoard "
+            "&lsquo;no goods in storerooms&rsquo; and take &lsquo;no "
+            "gold coins, or gold or silver&rsquo; &mdash; each verse "
+            "closing on the same refrain, &lsquo;that's why I like "
+            "ascetics&rsquo;."]),
+        ("A father moved to redirect his own devotion", [
+            "&lsquo;It was truly for our benefit that you were born in "
+            "our family&rsquo; marks his turn &mdash; not abstract "
+            "agreement, but a concrete resolve: &lsquo;these ascetics "
+            "will henceforth receive our religious donation, too&rsquo;."]),
+        ("A closing formula shared with Thig 12.1, two poems before it", [
+            "&lsquo;I used to be brahmin only by kin, now I genuinely "
+            "am a brahmin. Master of the three knowledges... a bathed "
+            "initiate&rsquo; closes this poem in language nearly "
+            "identical to the brahmin's conversion closing Thig 12.1 "
+            "&mdash; a second poem, two books apart, ending on a "
+            "father-figure's own declaration rather than the nun's."]),
+    ],
+    terms=[
+        ("Rohin&imacr;",
+         "this poem's speaker, whose extended defense of ascetics "
+         "answers her father's opening accusation point by point."),
+        ("sama&#7751;a",
+         "&ldquo;ascetics&rdquo; &mdash; the subject of the entire "
+         "debate this poem records."),
+        ("paradatt&#363;paj&imacr;vino",
+         "&ldquo;living on charity&rdquo; &mdash; the father's initial "
+         "accusation, which Rohinī reframes as freedom from hoarding "
+         "rather than dependency."),
+        ("pu&ntilde;&ntilde;akkhetta",
+         "&ldquo;field of merit&rdquo; &mdash; how the father comes to "
+         "describe the ascetics, once persuaded."),
+        ("tevijjo... nh&amacr;tako",
+         "&ldquo;master of the three knowledges... a bathed "
+         "initiate&rdquo; &mdash; the closing phrase shared almost "
+         "word for word with the brahmin's conversion in Thig 12.1."),
+    ],
+    text_intro=(
+        "The text in full: the father's accusation, Rohinī's extended "
+        "defense, his turn toward devotion, and his own closing "
+        "declaration. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig13.2:1.1-3.4"),
+        ("p", "&sect;2", "thig13.2:4.1-6.4"),
+        ("p", "&sect;3", "thig13.2:7.1-9.4"),
+        ("p", "&sect;4", "thig13.2:10.1-12.4"),
+        ("p", "&sect;5", "thig13.2:13.1-15.4"),
+        ("p", "&sect;6", "thig13.2:16.1-18.2"),
+        ("p", "&sect;7", "thig13.2:18.3-19.4"),
+        ("p", "&sect;8", "thig13.2:20.1-21.4"),
+    ],
+    quiz=[
+        {"q": "What accusation does Rohinī's father make against ascetics, opening this poem?",
+         "opts": [
+             "That they are lazy and live on charity",
+             "That they are dangerous criminals",
+             "That they are wealthy and greedy for gold",
+             "No accusation is made"],
+         "correct": 0,
+         "expl": "His opening challenge, addressed respectfully to his daughter."},
+        {"q": "How does Rohinī reframe the ascetics' supposed 'laziness'?",
+         "opts": [
+             "She agrees they are lazy",
+             "She avoids the question",
+             "As 'the best kind of work' — giving up greed and hate",
+             "As a minor, unimportant flaw"],
+         "correct": 2,
+         "expl": "The first of twelve systematic reframings."},
+        {"q": "What does Rohinī say about ascetics and hoarding?",
+         "opts": [
+             "They hoard extensively",
+             "The poem does not address this",
+             "They demand payment for teaching",
+             "They hoard no goods in storerooms, pots, or baskets, and take no gold or silver"],
+         "correct": 3,
+         "expl": "Reframing the charge of dependency as freedom from possessions."},
+        {"q": "What refrain closes each of Rohinī's twelve verses of defense?",
+         "opts": [
+             "'No more future lives'",
+             "'That's why I like ascetics'",
+             "'The word of the truthful one is confirmed'",
+             "Each verse closes differently"],
+         "correct": 1,
+         "expl": "A steady, repeated refrain across her entire rebuttal."},
+        {"q": "What does the father resolve to do, once persuaded?",
+         "opts": [
+             "Nothing changes for him",
+             "He disowns his daughter",
+             "He redirects the family's religious donations to these ascetics",
+             "He forbids her from associating with them further"],
+         "correct": 2,
+         "expl": "A concrete decision, not just abstract agreement."},
+        {"q": "How does this poem's closing declaration compare to Thig 12.1's?",
+         "opts": [
+             "Nearly identical language, both spoken by a converted male figure declaring himself 'a true brahmin'",
+             "It has no relationship to that poem",
+             "It directly contradicts Thig 12.1's closing",
+             "Thig 12.1 has no closing declaration to compare"],
+         "correct": 0,
+         "expl": "Two books apart, this poem's ending echoes Puṇṇikā's poem almost word for word."},
+        {"q": "What does 'puññakkhetta' mean?",
+         "opts": [
+             "'Ascetics'",
+             "'Laziness'",
+             "'A bathed initiate'",
+             "'Field of merit' — how the father comes to describe the ascetics once persuaded"],
+         "correct": 3,
+         "expl": "Marking his shift from accusation to devotion."},
+        {"q": "Whose words close this entire poem?",
+         "opts": [
+             "Rohinī's own final attainment statement",
+             "The father's own declaration of becoming a true brahmin",
+             "An unnamed narrator's summary",
+             "The poem ends mid-argument"],
+         "correct": 1,
+         "expl": "As in Thig 12.1, the poem's final words belong to the male figure who was persuaded."},
+        {"q": "What position does this poem hold in the Book of the Twenties?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The second poem, following Ambapālī",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 13.1, continuing the Book of the Twenties."},
+        {"q": "What does 'samaṇa' mean?",
+         "opts": [
+             "'A field of merit'",
+             "'Ascetics' — the subject of the entire debate this poem records",
+             "'A bathed initiate'",
+             "'Laziness'"],
+         "correct": 1,
+         "expl": "The central topic of the father-daughter exchange throughout."},
+    ],
+    marginalia=[
+        ("An accusation, plainly stated", [
+            "lazy, greedy,",
+            "living on charity"
+        ]),
+        ("Twelve verses, one by one", [
+            "each accusation",
+            "reframed in turn"
+        ]),
+        ("A father, moved to redirect devotion", [
+            "born for our benefit,",
+            "he says"
+        ]),
+        ("A closing echo of Thig 12.1", [
+            "nearly identical",
+            "words, two books apart"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig13.2/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-13.1.html">Thig 13.1 &mdash; Ambap&amacr;l&imacr;'
+        "</a> &mdash; the poem immediately before this one.",
+        '<a href="thig-12.1.html">Thig 12.1 &mdash; Pu&#7751;&#7751;ik'
+        "&amacr;</a> &mdash; the earlier poem whose closing declaration "
+        "this one's own ending nearly repeats.",
+        '<a href="thig-13.3.html">Thig 13.3 &mdash; C&amacr;p&amacr;</a> '
+        "&mdash; the next poem in the Book of the Twenties.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thig 13.3 — Cāpā
+# --------------------------------------------------------------------------- #
+page(
+    13, 3, "C&amacr;p&amacr;", "C&amacr;p&amacr;",
+    meta_title="Thig 13.3 — Cāpā | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Cāpā's verses, a poem attributed to a senior nun that narrates "
+        "almost entirely her former partner's own path to awakening. "
+        "From Ru-Yi Meditation Center."),
+    vagga="The Book of the Twenties &middot; Poem 3 of 5",
+    glance=[
+        ("Setting", "A dialogue at home, then a third-person account "
+                    "following Kāḷa alone to the Nerañjarā River"),
+        ("Speaker", "Cāpā and Kāḷa in extended confrontation, closing "
+                    "in third-person narration of his own path"),
+        ("Form", "Twenty-one verses, mostly four lines, several "
+                 "extending to six"),
+        ("Length", "under 3 minutes to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&starf; &mdash; "
+                       "one of this collection's most dramatically "
+                       "intense confrontations, and its own speaker's "
+                       "attainment is never stated"),
+    ],
+    why=(
+        "This poem is attributed to Cāpā, a senior nun &mdash; yet it "
+        "narrates almost entirely someone else's story. Her former "
+        "partner Kāḷa announces he is returning to ascetic life; she "
+        "fights to keep him with every appeal she has, including a "
+        "threat against their own son; he refuses completely; and the "
+        "poem's final verses, in the third person, follow only his "
+        "arrival at full awakening. No statement of Cāpā's own path "
+        "appears anywhere in the text."),
+    guide=[
+        ("A poem named for her, narrating his story instead", [
+            "Kāḷa's opening declaration &mdash; &lsquo;having cut "
+            "Cāpā's bond, I'll go forth once again&rsquo; &mdash; opens "
+            "a poem that will track his return to the path in detail, "
+            "while Cāpā's own eventual realization, though the "
+            "colophon names her a senior nun, is never directly stated "
+            "in the verses themselves."]),
+        ("An escalating series of appeals, and their most extreme point", [
+            "Cāpā's attempts to hold him move from persuasion to "
+            "beauty (&lsquo;when I am so very beautiful, how can you "
+            "abandon me?&rsquo;) to their child, and finally to a "
+            "direct threat: &lsquo;I'll strike him to the ground right "
+            "here, with a stick or with a knife!&rsquo; Kāḷa's reply is "
+            "unflinching &mdash; he will not return, &lsquo;not even "
+            "for the child's sake&rsquo;."]),
+        ("A single act of devotion, amid total confrontation", [
+            "After every appeal fails, Cāpā's own final words in the "
+            "poem ask Kāḷa to carry her respects to the Buddha and "
+            "&lsquo;dedicate my religious donation&rsquo; &mdash; her "
+            "one explicit act of faith, entrusted entirely to the man "
+            "she could not keep."]),
+        ("A third-person close, following only his path to the end", [
+            "The poem's last verses shift to plain narration: Kāḷa "
+            "reaches the Nerañjarā River, hears the Buddha teach the "
+            "four noble truths, goes forth, and &lsquo;attained the "
+            "three knowledges, and fulfilled the Buddha's "
+            "instructions&rsquo; &mdash; a poem attributed to a nun, "
+            "closing entirely on a man's completed journey."]),
+    ],
+    terms=[
+        ("C&amacr;p&amacr;",
+         "this poem's attributed speaker, whose own path to "
+         "realization is never directly stated within the verses "
+         "themselves."),
+        ("K&amacr;&#7799;a",
+         "Cāpā's former partner, a onetime ascetic turned hunter, "
+         "whose return to the path and full attainment this poem "
+         "actually follows to its conclusion."),
+        ("itthir&umacr;pa",
+         "&ldquo;a woman's figure&rdquo; or beauty &mdash; named by "
+         "Kāḷa as the kind of trap that catches righteous ascetics, in "
+         "his own words to Cāpā."),
+        ("amata pada&#7749;",
+         "&ldquo;the state free of death&rdquo; &mdash; what Kāḷa "
+         "hears the Buddha teaching at the Nerañjarā River."),
+        ("dakkhi&#7751;a",
+         "a religious donation or dedication &mdash; the single act of "
+         "devotion Cāpā asks Kāḷa to carry to the Buddha on her "
+         "behalf."),
+    ],
+    text_intro=(
+        "The text in full: their extended confrontation, her single "
+        "act of devotion, and a third-person account of his path to "
+        "full attainment. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thig13.3:1.1-2.4"),
+        ("p", "&sect;2", "thig13.3:3.1-4.4"),
+        ("p", "&sect;3", "thig13.3:5.1-6.4"),
+        ("p", "&sect;4", "thig13.3:7.1-8.4"),
+        ("p", "&sect;5", "thig13.3:9.1-10.4"),
+        ("p", "&sect;6", "thig13.3:11.1-12.4"),
+        ("p", "&sect;7", "thig13.3:13.1-14.4"),
+        ("p", "&sect;8", "thig13.3:15.1-16.6"),
+        ("p", "&sect;9", "thig13.3:17.1-18.6"),
+        ("p", "&sect;10", "thig13.3:19.1-21.6"),
+    ],
+    quiz=[
+        {"q": "What does Kāḷa announce at the start of this poem?",
+         "opts": [
+             "That he is returning to ascetic life, having cut his bond with Cāpā",
+             "That he is marrying Cāpā",
+             "That he is leaving on a trading journey",
+             "Nothing specific is announced"],
+         "correct": 0,
+         "expl": "Opening the confrontation the rest of the poem follows."},
+        {"q": "What does Cāpā say when persuasion by beauty fails?",
+         "opts": [
+             "She gives up entirely",
+             "She appeals to their child, and finally threatens to kill him",
+             "She agrees to let him go peacefully",
+             "She threatens Kāḷa himself"],
+         "correct": 1,
+         "expl": "The confrontation's most extreme point, met with an unflinching refusal."},
+        {"q": "How does Kāḷa respond to Cāpā's threat against their son?",
+         "opts": [
+             "He immediately agrees to stay",
+             "He begs her not to carry out the threat",
+             "The poem does not describe his response",
+             "He refuses completely, saying he will not return even for the child's sake"],
+         "correct": 3,
+         "expl": "A complete, unwavering refusal."},
+        {"q": "What is Cāpā's own final act within this poem?",
+         "opts": [
+             "She follows Kāḷa to become a nun herself, described directly",
+             "She asks Kāḷa to carry her respects and dedicate a religious donation to the Buddha",
+             "She curses the Buddha",
+             "No further action from her is described"],
+         "correct": 1,
+         "expl": "Her one explicit act of devotion, entrusted to the man she could not keep."},
+        {"q": "Whose path does this poem's closing verses actually follow, in the third person?",
+         "opts": [
+             "Cāpā's own ordination and attainment",
+             "Neither figure — the poem ends with the confrontation",
+             "An unrelated third character",
+             "Kāḷa's arrival at the Nerañjarā River and his own full attainment"],
+         "correct": 3,
+         "expl": "The poem closes entirely on his completed journey, not hers."},
+        {"q": "Is Cāpā's own realization directly stated anywhere in this poem's text?",
+         "opts": [
+             "Yes, in extensive detail",
+             "Yes, but only in a single brief line",
+             "No — this guide notes that no such statement appears in the verses themselves",
+             "The question cannot be determined from the text"],
+         "correct": 2,
+         "expl": "Despite being attributed to a 'senior nun', the poem never states her own path directly."},
+        {"q": "What does Kāḷa say women's beauty does to righteous ascetics?",
+         "opts": [
+             "It traps them, in his own words to Cāpā",
+             "Nothing — beauty is never mentioned",
+             "It has no effect on genuine ascetics",
+             "It strengthens their resolve"],
+         "correct": 0,
+         "expl": "His own framing, offered as his reason for leaving."},
+        {"q": "What does the Buddha teach, according to this poem's closing verses, at the Nerañjarā River?",
+         "opts": [
+             "Nothing specific is described",
+             "The four noble truths and the noble eightfold path",
+             "Only rules of monastic discipline",
+             "A story about Cāpā"],
+         "correct": 1,
+         "expl": "The standard teaching Kāḷa hears and then acts on directly."},
+        {"q": "What position does this poem hold in the Book of the Twenties?",
+         "opts": [
+             "The last poem",
+             "The first poem",
+             "The third poem, following Rohinī",
+             "It stands outside this book"],
+         "correct": 2,
+         "expl": "Following Thig 13.2, continuing the Book of the Twenties."},
+        {"q": "What does 'dakkhiṇa' mean?",
+         "opts": [
+             "'A woman's figure'",
+             "'The state free of death'",
+             "A place name",
+             "A religious donation or dedication — Cāpā's single act of devotion in this poem"],
+         "correct": 3,
+         "expl": "Her one explicit gesture of faith within the entire poem."},
+    ],
+    marginalia=[
+        ("A poem named for her, about him", [
+            "his path followed,",
+            "hers never stated"
+        ]),
+        ("Appeals, escalating to a threat", [
+            "beauty, then a child,",
+            "then violence"
+        ]),
+        ("One act of devotion", [
+            "amid total",
+            "confrontation"
+        ]),
+        ("A close that follows only his path", [
+            "third person,",
+            "his attainment alone"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thig13.3/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thig-13.2.html">Thig 13.2 &mdash; Rohin&imacr;</a> '
+        "&mdash; the poem immediately before this one.",
+        '<a href="thig-13.4.html">Thig 13.4 &mdash; Sundar&imacr;</a> '
+        "&mdash; the next poem in the Book of the Twenties.",
     ],
 )
