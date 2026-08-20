@@ -32,6 +32,10 @@ SETTING_BELUVA = "Vesālī, in the little village of Beluva"
 SETTING_NONE = "None stated in the source"
 SPEAKER = "The Buddha alone, addressing the mendicants"
 VAGGA_2 = "<em>Anussativagga</em> &mdash; the second chapter of the Elevens"
+VAGGA_3 = "<em>Sāmaññavagga</em> &mdash; the third chapter of the Elevens"
+EIGHT_CONTEMPLATIONS = (
+    "impermanence, suffering, not-self, ending, vanishing, fading away, "
+    "cessation, and letting go")
 
 
 def page(num, pali, title, **kw):
@@ -3950,6 +3954,2293 @@ page(
         "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
         "segment by segment." % SC,
         '<a href="an-11.20.html">AN 11.20</a> &mdash; previous.',
-        '<a href="an-11.22.html">AN 11.22</a> &mdash; next, opening chapter 3.',
+        '<a href="an-11.22-29.html">AN 11.22&ndash;29</a> &mdash; next, opening chapter 3.',
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.22–29 — opening Sāmaññavagga: the cowherd simile, the eye,
+# and the eight contemplations, spelled out in full
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.22-29",
+    "index_pali": "(untitled)",
+    "nav_title": "The Cowherd, and Eight Contemplations",
+    "source": "an11/an11.22-29",
+    "crumb": "AN 11.22&ndash;29",
+    "meta_title": ("AN 11.22–29 — The Cowherd, and Eight Contemplations "
+                   "| Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.22–29, opening this nipāta's massive closing peyyāla "
+        "with the cowherd simile from AN 11.17 applied to the eye "
+        "and eight ways of meditating on it. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.22&ndash;29",
+    "title": "The Cowherd, and Eight Contemplations",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, opening "
+                "the chapter's own peyyāla" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The eleven-factor cowherd simile from AN 11.17, "
+                 "now applied to a mendicant's meditation on the eye, "
+                 "crossed against eight ways of observing it"),
+        ("Length", "~2 minutes to read; stands for eight discourses"),
+        ("Opening this nipāta's largest structure", "This page opens "
+         "chapter 3, a single sprawling peyyāla that will run all the "
+         "way to AN 11.981 &mdash; 960 discourses compressed into "
+         "just twelve pages"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the individual content is simple; the scale "
+                       "it represents is what takes getting used to"),
+    ],
+    "why": (
+        "A mendicant lacking the same eleven qualities already met at "
+        "AN 11.17's cowherd simile cannot meditate observing "
+        "impermanence, suffering, not-self, ending, vanishing, fading "
+        "away, cessation, or letting go in the eye &mdash; eight "
+        "discourses (AN 11.22&ndash;29), one for each way of "
+        "observing, all built from the identical eleven-factor "
+        "template."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Just as a cowherd lacking eleven skills cannot maintain a "
+            "herd, a mendicant lacking the same eleven qualities "
+            "cannot meditate observing the eye as impermanent, "
+            "suffering, not-self, ending, vanishing, fading away, "
+            "ceasing, or being let go of &mdash; eight variations on "
+            "one template, one discourse each."]),
+        ("A simile reused, not reinvented", [
+            "This page's opening lines are word for word AN 11.17's "
+            "own cowherd simile, already given in full detail there. "
+            "Rather than re-explain the eleven qualities, this page "
+            "and everything that follows in this chapter simply "
+            "invokes the simile by name and moves straight to what "
+            "changes: what the mendicant fails to meditate observing, "
+            "and in what way."]),
+        ("Eight ways of observing, spelled out once", [
+            "The eight contemplations &mdash; %s &mdash; are named "
+            "individually across AN 11.22 through AN 11.29, each its "
+            "own discourse in the source. This is the only place in "
+            "the entire chapter where these eight are spelled out one "
+            "at a time rather than compressed with an ellipsis; every "
+            "later page in this peyyāla assumes the reader already "
+            "has this list in mind." % EIGHT_CONTEMPLATIONS]),
+        ("What this page opens", [
+            "AN 11.22 gives this chapter its own namesake, "
+            "<em>Sāmaññavagga</em>, the Chapter on Similarity &mdash; "
+            "named for how each of its discourses shares an identical "
+            "underlying pattern. What follows across the next eleven "
+            "pages is the same pattern applied first to the other "
+            "five sense faculties, then systematically to nine "
+            "further categories, before a final page mirrors the "
+            "whole structure as its positive counterpart."]),
+    ],
+    "terms": [
+        ("gopālaka",
+         "&ldquo;cowherd&rdquo; &mdash; the simile inherited whole "
+         "from AN 11.17, invoked here by reference rather than "
+         "re-explained."),
+        ("cakkhusmiṁ aniccānupassī",
+         "&ldquo;meditate observing impermanence in the eye&rdquo; "
+         "&mdash; the first of eight contemplations, and the pattern "
+         "every later page in this chapter will vary only by "
+         "category."),
+        ("khayānupassī, vayānupassī",
+         "&ldquo;observing ending&rdquo;, &ldquo;observing "
+         "vanishing&rdquo; &mdash; two closely related contemplations, "
+         "the fourth and fifth of the eight, worth distinguishing "
+         "from each other."),
+        ("paṭinissaggānupassī",
+         "&ldquo;observing letting go&rdquo; &mdash; the eighth and "
+         "final contemplation, closing the sequence this page "
+         "establishes."),
+        ("sāmañña",
+         "&ldquo;similarity&rdquo; &mdash; the term giving this "
+         "chapter its name, Sāmaññavagga, for the identical pattern "
+         "repeated across every discourse within it."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the cowherd simile, then eight "
+        "ways of meditating on the eye, named one by one. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The cowherd simile, applied to the eye"),
+        ("p", "&sect;1", ["an11.22:1.1", "an11.22:1.2", "an11.22:1.3",
+                          "an11.22:1.4", "an11.22:2.1"]),
+        ("h3", "Eight contemplations, named in turn"),
+        ("p", "&sect;2", ["an11.22:3.1", "an11.23:1.1", "an11.24:1.1",
+                          "an11.25:1.1", "an11.26:1.1", "an11.27:1.1",
+                          "an11.28:1.1", "an11.29:1.1"]),
+    ],
+    "quiz": [
+        {"q": "What simile does this page's opening reuse?",
+         "opts": [
+             "A new simile invented for this chapter",
+             "The eleven-factor cowherd simile already given in full "
+             "at AN 11.17",
+             "The thoroughbred and wild colt from AN 11.9",
+             "The branchless tree from AN 11.3"],
+         "correct": 1,
+         "expl": "Invoked by reference, not re-explained."},
+        {"q": "How many discourses does this single page stand for?",
+         "opts": [
+             "One", "Eight (AN 11.22–29), one per contemplation",
+             "Forty", "Four hundred eighty"],
+         "correct": 1,
+         "expl": "One discourse for each of the eight ways of "
+                 "observing the eye."},
+        {"q": "What are the eight ways of observing named across "
+              "these eight discourses?",
+         "opts": [
+             "Impermanence, suffering, not-self, ending, vanishing, "
+             "fading away, cessation, and letting go",
+             "The four elements and four formless dimensions",
+             "The five hindrances and three unwholesome roots",
+             "The seven factors of awakening"],
+         "correct": 0,
+         "expl": "Spelled out here in full for the only time in this "
+                 "chapter."},
+        {"q": "What does this chapter's name, Sāmaññavagga, refer to?",
+         "opts": [
+             "A specific place name",
+             "\"Similarity\" — the identical underlying pattern "
+             "shared across every discourse in the chapter",
+             "A disciple's name",
+             "A type of ascetic practice"],
+         "correct": 1,
+         "expl": "Naming the chapter's own defining structural feature."},
+        {"q": "According to the guide, what makes this page unique "
+              "within the whole chapter?",
+         "opts": [
+             "It is the only page with a narrative story",
+             "It is the only place where the eight contemplations are "
+             "spelled out one at a time rather than compressed with "
+             "an ellipsis",
+             "It is the shortest page in the chapter",
+             "It introduces an entirely new simile not used again"],
+         "correct": 1,
+         "expl": "Every later page assumes this list already "
+                 "established."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("A simile, reused", [
+            "eleven factors,",
+            "met once at AN 11.17 &mdash;",
+            "now simply invoked",
+        ]),
+        ("Eight ways of seeing", [
+            "impermanence,",
+            "suffering, not-self, and on",
+            "to letting go itself",
+        ]),
+        ("A chapter's own name", [
+            "sāmañña, likeness &mdash;",
+            "every page in this chapter",
+            "shares one pattern",
+        ]),
+        ("Cross-references", [
+            "AN 11.17 &middot; the cowherd simile's first full telling",
+            "AN 11.21 &middot; previous, closing chapter 2",
+            "AN 11.30&ndash;69 &middot; next, the same eight applied "
+            "to the remaining five senses",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.22-29/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.21.html">AN 11.21</a> &mdash; previous.',
+        '<a href="an-11.30-69.html">AN 11.30&ndash;69</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.30–69 — the ear, nose, tongue, body, and mind
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.30-69",
+    "index_pali": "(untitled)",
+    "nav_title": "The Ear, Etc.",
+    "source": "an11/an11.30-69",
+    "crumb": "AN 11.30&ndash;69",
+    "meta_title": "AN 11.30–69 — The Ear, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.30–69, extending AN 11.22–29's cowherd simile and "
+        "eight contemplations to the ear, nose, tongue, body, and "
+        "mind. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.30&ndash;69",
+    "title": "The Ear, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The identical cowherd simile and eight "
+                 "contemplations from AN 11.22–29, now applied to "
+                 "the remaining five sense faculties"),
+        ("Length", "~1 minute to read; stands for forty discourses"),
+        ("First fully-compressed page", "The first page in this "
+         "chapter to use bare ellipsis rather than spell out its "
+         "content in full"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "trivial once AN 11.22&ndash;29's pattern is "
+                       "understood"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and the same eight "
+        "contemplations already given in full at AN 11.22&ndash;29 "
+        "for the eye apply identically to the ear, nose, tongue, "
+        "body, and mind &mdash; five more sense faculties times eight "
+        "contemplations, forty further discourses (AN "
+        "11.30&ndash;69), compressed onto a single page."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "Everything already established at AN 11.22&ndash;29 for "
+            "the eye &mdash; the cowherd simile, the eight "
+            "contemplations &mdash; applies without change to the "
+            "remaining five sense faculties: ear, nose, tongue, body, "
+            "and mind."]),
+        ("The first fully compressed page", [
+            "Where AN 11.22&ndash;29 spelled out all eight "
+            "contemplations across eight separate discourses, this "
+            "page compresses the same content into a single short "
+            "passage using bare ellipsis: &lsquo;&hellip; ear &hellip; "
+            "nose &hellip; tongue &hellip; body &hellip; mind&rsquo;, "
+            "trusting the reader to supply both the cowherd simile "
+            "and all eight contemplations from the previous page."]),
+        ("The arithmetic", [
+            "Five remaining sense faculties, each crossed against the "
+            "same eight contemplations, gives forty discourses &mdash; "
+            "matching the range AN 11.30 through AN 11.69 exactly, "
+            "and completing the first of this chapter's ten "
+            "categories: the six sense faculties in full (one eye "
+            "page plus this one), fifty-six words of Pāli standing "
+            "for forty-eight actual discourses across the two pages."]),
+        ("How to read a page this compressed", [
+            "From here through AN 11.454&ndash;501, most pages in "
+            "this chapter will follow this same extremely compressed "
+            "form: a category list swapped in place of the eye, "
+            "eight contemplations left entirely implicit. The reading "
+            "guide for each such page will name the arithmetic and "
+            "the category being crossed, rather than re-explain a "
+            "structure already established here."]),
+    ],
+    "terms": [
+        ("sotasmiṁ, ghānasmiṁ, jivhāya, kāyasmiṁ, manasmiṁ",
+         "&ldquo;in the ear, in the nose, in the tongue, in the body, "
+         "in the mind&rdquo; &mdash; the five remaining sense "
+         "faculties this page substitutes for AN 11.22&ndash;29's "
+         "eye, in the standard six-sense-faculty order."),
+        ("pe",
+         "the Pāli ellipsis marker (peyyāla) &mdash; not itself part "
+         "of the English translation, but the underlying convention "
+         "this and most later pages in this chapter render as "
+         "&lsquo;&hellip;&rsquo;."),
+        ("cakkhusmiṁ, sotasmiṁ",
+         "&ldquo;in the eye, in the ear&rdquo; &mdash; the first two "
+         "of the six sense faculties, together spanning this page and "
+         "its immediate predecessor."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations named in full at AN "
+         "11.22&ndash;29, here left entirely implicit."),
+        ("chaḷāyatana",
+         "not named directly here, but the traditional term for the "
+         "six sense faculties (āyatana) this page and its predecessor "
+         "together complete."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same cowherd simile and "
+        "eight contemplations, now applied to five more sense "
+        "faculties. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Five more sense faculties, the same pattern"),
+        ("p", "&sect;1", "an11.30-69:1.1-1.6"),
+    ],
+    "quiz": [
+        {"q": "What does this page apply to the remaining five sense "
+              "faculties?",
+         "opts": [
+             "An entirely new simile",
+             "The identical cowherd simile and eight contemplations "
+             "already given in full at AN 11.22–29",
+             "Only the cowherd simile, without the contemplations",
+             "A shortened five-item list"],
+         "correct": 1,
+         "expl": "The same pattern, unchanged, applied to new content."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty (five sense faculties times eight "
+             "contemplations)",
+             "Forty-eight", "Four hundred eighty"],
+         "correct": 1,
+         "expl": "5 × 8 = 40, matching AN 11.30 through AN 11.69."},
+        {"q": "How does this page's own text differ from AN "
+              "11.22–29's?",
+         "opts": [
+             "It is longer and more detailed",
+             "It uses bare ellipsis, compressing everything into a "
+             "single short passage rather than spelling content out",
+             "It removes the cowherd simile entirely",
+             "It introduces a ninth contemplation"],
+         "correct": 1,
+         "expl": "The first fully compressed page in this chapter."},
+        {"q": "What five sense faculties does this page name?",
+         "opts": [
+             "Sights, sounds, smells, tastes, touches",
+             "Ear, nose, tongue, body, and mind",
+             "Consciousness, contact, feeling, perception, intention",
+             "Craving, thought, consideration, view, intention"],
+         "correct": 1,
+         "expl": "Completing the six sense faculties alongside AN "
+                 "11.22–29's eye."},
+        {"q": "According to the guide, what should a reader expect "
+              "from most later pages in this chapter?",
+         "opts": [
+             "Full narrative detail, re-explained each time",
+             "Extremely compressed form, naming only the category "
+             "swapped in and the arithmetic behind it",
+             "A return to spelling out all eight contemplations",
+             "No further compression at all"],
+         "correct": 1,
+         "expl": "This page sets the pattern the rest of the chapter "
+                 "follows."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Five more doors", [
+            "ear, nose, tongue, and",
+            "body, mind &mdash; the same eight",
+            "ways, applied again",
+        ]),
+        ("Compression begins", [
+            "no longer spelled out,",
+            "just named and passed over &mdash;",
+            "the pattern, assumed",
+        ]),
+        ("Six senses complete", [
+            "one page for the eye,",
+            "one page for the other five &mdash;",
+            "forty-eight in all",
+        ]),
+        ("Cross-references", [
+            "AN 11.22&ndash;29 &middot; previous, the eye and all "
+            "eight contemplations spelled out",
+            "AN 11.70&ndash;117 &middot; next, the six sense objects",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.30-69/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.22-29.html">AN 11.22&ndash;29</a> &mdash; previous.',
+        '<a href="an-11.70-117.html">AN 11.70&ndash;117</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.70–117 — sights, sounds, smells, tastes, touches, and ideas
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.70-117",
+    "index_pali": "(untitled)",
+    "nav_title": "Sights, Etc.",
+    "source": "an11/an11.70-117",
+    "crumb": "AN 11.70&ndash;117",
+    "meta_title": "AN 11.70–117 — Sights, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.70–117, moving this chapter's peyyāla from the six "
+        "sense faculties to the six sense objects: sights, sounds, "
+        "smells, tastes, touches, and ideas. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.70&ndash;117",
+    "title": "Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six sense objects"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("A new category, the standard scale", "The first of nine "
+         "remaining categories in this chapter, each contributing "
+         "forty-eight discourses"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations already established move from the six sense "
+        "faculties to the six sense objects &mdash; sights, sounds, "
+        "smells, tastes, touches, and ideas &mdash; six categories "
+        "times eight contemplations, forty-eight further discourses "
+        "(AN 11.70&ndash;117)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six sense objects &mdash; sights, "
+            "sounds, smells, tastes, touches, and ideas &mdash; the "
+            "second of this chapter's ten categories."]),
+        ("From faculty to object", [
+            "Having completed the six sense faculties (the eye and "
+            "its five companions) across the previous two pages, this "
+            "page moves to what those faculties perceive: the sense "
+            "objects themselves. This shift &mdash; from the sensing "
+            "organ to the thing sensed &mdash; is the first step of a "
+            "systematic analytical sequence this chapter will now "
+            "carry through eight further steps."]),
+        ("The arithmetic, now standard", [
+            "Six sense objects times eight contemplations gives "
+            "forty-eight discourses, exactly matching AN 11.70 "
+            "through AN 11.117. From this page onward, forty-eight "
+            "is the standard unit this chapter's remaining categories "
+            "will each contribute, until the final compressed page "
+            "changes the pattern entirely."]),
+        ("A familiar analytical sequence", [
+            "Sense faculty, then sense object, then (as the following "
+            "pages will show) consciousness, contact, feeling, "
+            "perception, intention, craving, thought, and "
+            "consideration &mdash; this ten-step progression will be "
+            "recognizable to readers familiar with the analytical "
+            "method found elsewhere in the canon's treatment of the "
+            "six sense bases, systematically applied here to insight "
+            "into impermanence."]),
+    ],
+    "terms": [
+        ("rūpesu, saddesu, gandhesu, rasesu, phoṭṭhabbesu, dhammesu",
+         "&ldquo;in sights, in sounds, in smells, in tastes, in "
+         "touches, in ideas&rdquo; &mdash; the six sense objects, "
+         "paired with the six sense faculties in the standard order."),
+        ("rūpa",
+         "&ldquo;sight&rdquo;, form &mdash; the first sense object, "
+         "paired with the eye as its faculty."),
+        ("dhamma",
+         "&ldquo;idea&rdquo;, mental object &mdash; the sixth sense "
+         "object, paired with the mind, completing the standard "
+         "six-object list."),
+        ("bāhira āyatana",
+         "not named directly here, but the traditional term for the "
+         "six external sense bases (objects) this page addresses, "
+         "distinct from the six internal bases (faculties) of the "
+         "previous two pages."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six sense objects. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Six sense objects, the same pattern"),
+        ("p", "&sect;1", "an11.70-117:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page move to, after the six "
+              "sense faculties?",
+         "opts": [
+             "The six sense objects: sights, sounds, smells, tastes, "
+             "touches, and ideas",
+             "The five hindrances",
+             "The four elements",
+             "The eight contemplations themselves"],
+         "correct": 0,
+         "expl": "From the sensing organ to the thing sensed."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight (six objects times eight "
+             "contemplations)", "Four hundred eighty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.70 through AN 11.117."},
+        {"q": "What is the sixth and final sense object named here?",
+         "opts": [
+             "Touches", "Sounds", "Ideas (dhamma)", "Smells"],
+         "correct": 2,
+         "expl": "Paired with the mind, completing the six-object "
+                 "list."},
+        {"q": "According to the guide, what does forty-eight become "
+              "from this page onward?",
+         "opts": [
+             "An irrelevant number",
+             "The standard unit each of this chapter's remaining "
+             "categories will contribute",
+             "A number never repeated again",
+             "The total for the whole chapter"],
+         "correct": 1,
+         "expl": "Six items times eight contemplations, repeated "
+                 "category by category."},
+        {"q": "According to the guide, what larger sequence does this "
+              "page begin?",
+         "opts": [
+             "A random assortment of unrelated topics",
+             "A systematic ten-step analytical sequence — faculty, "
+             "object, consciousness, contact, and so on",
+             "A sequence that abandons the eight contemplations",
+             "Nothing beyond this single page"],
+         "correct": 1,
+         "expl": "Recognizable from the canon's broader treatment of "
+                 "the six sense bases."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("From organ to object", [
+            "not the eye itself now,",
+            "but what it sees &mdash; sights, sounds,",
+            "smells, tastes, touch, thought",
+        ]),
+        ("Forty-eight, the new unit", [
+            "six objects, eight ways",
+            "of seeing each &mdash; this number",
+            "will recur again",
+        ]),
+        ("A sequence begins", [
+            "faculty then object,",
+            "soon consciousness, contact,",
+            "feeling, and beyond",
+        ]),
+        ("Cross-references", [
+            "AN 11.30&ndash;69 &middot; previous, the remaining five "
+            "sense faculties",
+            "AN 11.118&ndash;165 &middot; next, the six "
+            "consciousnesses",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.70-117/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.30-69.html">AN 11.30&ndash;69</a> &mdash; previous.',
+        '<a href="an-11.118-165.html">AN 11.118&ndash;165</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.118–165 — the six consciousnesses
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.118-165",
+    "index_pali": "(untitled)",
+    "nav_title": "Eye Consciousness, Etc.",
+    "source": "an11/an11.118-165",
+    "crumb": "AN 11.118&ndash;165",
+    "meta_title": ("AN 11.118–165 — Eye Consciousness, Etc. | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.118–165, moving this chapter's peyyāla to the six "
+        "kinds of sense consciousness. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.118&ndash;165",
+    "title": "Eye Consciousness, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of consciousness"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Third of ten categories", "Consciousness, the third step "
+         "in this chapter's ten-part analytical sequence"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of consciousness that "
+        "arise from each sense faculty and its object &mdash; eye "
+        "consciousness, ear consciousness, nose consciousness, "
+        "tongue consciousness, body consciousness, and mind "
+        "consciousness &mdash; forty-eight further discourses (AN "
+        "11.118&ndash;165)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of consciousness &mdash; eye, "
+            "ear, nose, tongue, body, and mind consciousness &mdash; "
+            "the third of this chapter's ten categories."]),
+        ("What consciousness adds to the sequence", [
+            "Having covered the sense faculty (what perceives) and "
+            "the sense object (what is perceived), this page moves to "
+            "consciousness &mdash; the awareness that arises "
+            "specifically when a given faculty meets its "
+            "corresponding object, the third link in the causal chain "
+            "this chapter's sequence is tracing."]),
+        ("Named for its faculty, not its object", [
+            "Each of the six consciousnesses in this page's list "
+            "takes its name from the sense faculty it arises through "
+            "&mdash; &lsquo;eye consciousness&rsquo;, not "
+            "&lsquo;sight consciousness&rsquo; &mdash; a naming "
+            "convention consistent throughout the canon's treatment "
+            "of the six sense bases."]),
+        ("The same forty-eight", [
+            "Six kinds of consciousness times eight contemplations "
+            "gives forty-eight discourses, matching AN 11.118 through "
+            "AN 11.165 exactly &mdash; the same arithmetic already "
+            "established at AN 11.70&ndash;117, now the third of "
+            "eight remaining categories to repeat it."]),
+    ],
+    "terms": [
+        ("cakkhuviññāṇe, sotaviññāṇe, ghānaviññāṇe, jivhāviññāṇe, "
+         "kāyaviññāṇe, manoviññāṇe",
+         "&ldquo;eye, ear, nose, tongue, body, and mind "
+         "consciousness&rdquo; &mdash; the six kinds of consciousness, "
+         "each named for its corresponding sense faculty."),
+        ("viññāṇa",
+         "&ldquo;consciousness&rdquo;, awareness &mdash; the third "
+         "step in this chapter's analytical sequence, arising when "
+         "faculty meets object."),
+        ("cakkhuviññāṇa",
+         "&ldquo;eye consciousness&rdquo; &mdash; the first of the "
+         "six, arising specifically when the eye meets a sight."),
+        ("manoviññāṇa",
+         "&ldquo;mind consciousness&rdquo; &mdash; the sixth and "
+         "final kind, completing the list."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of consciousness. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six consciousnesses, the same pattern"),
+        ("p", "&sect;1", "an11.118-165:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six sense objects",
+             "The six kinds of consciousness — eye, ear, nose, "
+             "tongue, body, and mind consciousness",
+             "The six kinds of contact",
+             "The six kinds of feeling"],
+         "correct": 1,
+         "expl": "The third step in this chapter's analytical "
+                 "sequence."},
+        {"q": "What convention names each of the six consciousnesses, "
+              "according to the guide?",
+         "opts": [
+             "Named for the object perceived",
+             "Named for the sense faculty it arises through, e.g. "
+             "\"eye consciousness\", not \"sight consciousness\"",
+             "Named randomly with no consistent pattern",
+             "Named for the contemplation applied to it"],
+         "correct": 1,
+         "expl": "Consistent throughout the canon's treatment of the "
+                 "six sense bases."},
+        {"q": "When does eye consciousness specifically arise, "
+              "according to the guide?",
+         "opts": [
+             "At birth, permanently",
+             "When the eye meets a sight",
+             "Only during meditation",
+             "It never arises"],
+         "correct": 1,
+         "expl": "Consciousness is the awareness arising when faculty "
+                 "meets object."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "Four hundred eighty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.118 through AN 11.165."},
+        {"q": "What is the sixth and final consciousness named here?",
+         "opts": [
+             "Body consciousness", "Tongue consciousness",
+             "Mind consciousness (manoviññāṇa)", "Nose consciousness"],
+         "correct": 2,
+         "expl": "Completing the six-consciousness list."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("When faculty meets object", [
+            "eye meets sight, and then",
+            "eye consciousness arises &mdash;",
+            "the third link, traced here",
+        ]),
+        ("Named for the door", [
+            "not for what is seen,",
+            "but for the seeing itself &mdash;",
+            "eye, ear, nose, and on",
+        ]),
+        ("The same forty-eight", [
+            "six kinds, eight ways each",
+            "of seeing them fall away &mdash;",
+            "the pattern repeats",
+        ]),
+        ("Cross-references", [
+            "AN 11.70&ndash;117 &middot; previous, the six sense "
+            "objects",
+            "AN 11.166&ndash;213 &middot; next, the six kinds of "
+            "contact",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.118-165/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.70-117.html">AN 11.70&ndash;117</a> &mdash; previous.',
+        '<a href="an-11.166-213.html">AN 11.166&ndash;213</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.166–213 — the six kinds of contact
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.166-213",
+    "index_pali": "(untitled)",
+    "nav_title": "Eye Contact, Etc.",
+    "source": "an11/an11.166-213",
+    "crumb": "AN 11.166&ndash;213",
+    "meta_title": "AN 11.166–213 — Eye Contact, Etc. | Ru-Yi Meditation Center",
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.166–213, moving this chapter's peyyāla to the six "
+        "kinds of contact. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.166&ndash;213",
+    "title": "Eye Contact, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of contact"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Fourth of ten categories", "Contact, the fourth step in "
+         "this chapter's ten-part analytical sequence"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of contact &mdash; eye "
+        "contact, ear contact, nose contact, tongue contact, body "
+        "contact, and mind contact &mdash; forty-eight further "
+        "discourses (AN 11.166&ndash;213)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of contact &mdash; eye, ear, "
+            "nose, tongue, body, and mind contact &mdash; the fourth "
+            "of this chapter's ten categories."]),
+        ("What contact adds to the sequence", [
+            "Contact (phassa) is the meeting itself of faculty, "
+            "object, and consciousness together &mdash; not merely "
+            "physical touch, but the technical convergence that "
+            "the canon treats as the necessary condition for feeling "
+            "to arise, the fourth link in this chapter's traced "
+            "sequence."]),
+        ("A term familiar from dependent origination", [
+            "Contact is also a familiar link from the twelve-factor "
+            "chain of dependent origination (paṭicca samuppāda), "
+            "where contact conditions feeling, feeling conditions "
+            "craving, and so on &mdash; the same causal ordering this "
+            "chapter's own sequence will continue to trace through "
+            "its remaining categories."]),
+        ("The same forty-eight, continuing", [
+            "Six kinds of contact times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.166 through AN "
+            "11.213 exactly &mdash; the fourth category in a row to "
+            "repeat this chapter's now-familiar arithmetic."]),
+    ],
+    "terms": [
+        ("cakkhusamphasse, sotasamphasse, ghānasamphasse, "
+         "jivhāsamphasse, kāyasamphasse, manosamphasse",
+         "&ldquo;eye, ear, nose, tongue, body, and mind contact&rdquo; "
+         "&mdash; the six kinds of contact, named for their "
+         "corresponding sense faculties."),
+        ("phassa",
+         "&ldquo;contact&rdquo; &mdash; the fourth step in this "
+         "chapter's sequence, the convergence of faculty, object, and "
+         "consciousness."),
+        ("cakkhusamphassa",
+         "&ldquo;eye contact&rdquo; &mdash; the first of the six, "
+         "opening this page's list."),
+        ("paṭicca samuppāda",
+         "not named directly here, but the twelve-factor chain of "
+         "dependent origination in which contact is also a familiar "
+         "link, conditioning feeling."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of contact. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of contact, the same pattern"),
+        ("p", "&sect;1", "an11.166-213:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of consciousness",
+             "The six kinds of contact — eye, ear, nose, tongue, "
+             "body, and mind contact",
+             "The six kinds of feeling",
+             "The six kinds of perception"],
+         "correct": 1,
+         "expl": "The fourth step in this chapter's analytical "
+                 "sequence."},
+        {"q": "What does \"contact\" (phassa) technically refer to, "
+              "according to the guide?",
+         "opts": [
+             "Physical touch alone",
+             "The convergence of faculty, object, and consciousness "
+             "together",
+             "A type of monastic greeting",
+             "An unrelated meditative state"],
+         "correct": 1,
+         "expl": "Not merely physical touch, but a technical "
+                 "convergence."},
+        {"q": "What familiar chain also includes contact as a link, "
+              "according to the guide?",
+         "opts": [
+             "The noble eightfold path",
+             "The twelve-factor chain of dependent origination "
+             "(paṭicca samuppāda)",
+             "The five hindrances",
+             "The seven factors of awakening"],
+         "correct": 1,
+         "expl": "Where contact conditions feeling, and feeling "
+                 "conditions craving."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.166 through AN 11.213."},
+        {"q": "What is the first kind of contact named in this page's "
+              "list?",
+         "opts": [
+             "Mind contact", "Eye contact", "Ear contact",
+             "Body contact"],
+         "correct": 1,
+         "expl": "Opening the list in the standard sense-faculty "
+                 "order."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Where three meet", [
+            "faculty, object,",
+            "and consciousness together &mdash;",
+            "contact, the fourth link",
+        ]),
+        ("A familiar chain", [
+            "the same phassa that",
+            "conditions feeling, craving &mdash;",
+            "dependent origin",
+        ]),
+        ("Forty-eight, again", [
+            "six kinds of touching,",
+            "eight ways each fall away &mdash;",
+            "the pattern, unbroken",
+        ]),
+        ("Cross-references", [
+            "AN 11.118&ndash;165 &middot; previous, the six kinds of "
+            "consciousness",
+            "AN 11.214&ndash;261 &middot; next, feeling born of "
+            "contact",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.166-213/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.118-165.html">AN 11.118&ndash;165</a> &mdash; previous.',
+        '<a href="an-11.214-261.html">AN 11.214&ndash;261</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.214–261 — feeling born of contact
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.214-261",
+    "index_pali": "(untitled)",
+    "nav_title": "Feeling Born of Eye Contact, Etc.",
+    "source": "an11/an11.214-261",
+    "crumb": "AN 11.214&ndash;261",
+    "meta_title": ("AN 11.214–261 — Feeling Born of Eye Contact, Etc. "
+                   "| Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.214–261, moving this chapter's peyyāla to the six "
+        "kinds of feeling born of contact. From Ru-Yi Meditation "
+        "Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.214&ndash;261",
+    "title": "Feeling Born of Eye Contact, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of feeling born "
+                 "of contact"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Fifth of ten categories", "Feeling, the fifth step in this "
+         "chapter's ten-part analytical sequence, and the point "
+         "dependent origination flags as decisive"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of feeling that arise "
+        "specifically from contact &mdash; feeling born of eye "
+        "contact, ear contact, nose contact, tongue contact, body "
+        "contact, and mind contact &mdash; forty-eight further "
+        "discourses (AN 11.214&ndash;261)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of feeling born of contact "
+            "&mdash; through the eye, ear, nose, tongue, body, and "
+            "mind &mdash; the fifth of this chapter's ten categories."]),
+        ("Why feeling matters more than the others", [
+            "In the dependent origination chain this sequence echoes, "
+            "feeling is the specific link where craving takes hold or "
+            "does not: contact conditions feeling, and feeling "
+            "conditions craving, making the contemplations applied "
+            "here &mdash; especially observing feeling as impermanent "
+            "&mdash; a point of real leverage, not simply one more "
+            "category in a mechanical series."]),
+        ("Named for its cause, not itself", [
+            "Each of the six feelings in this page's list is named "
+            "for the contact that gives rise to it &mdash; "
+            "&lsquo;feeling born of eye contact&rsquo;, not simply "
+            "&lsquo;eye feeling&rsquo; &mdash; making explicit the "
+            "causal link between the fourth category (contact) and "
+            "this fifth one."]),
+        ("The same forty-eight, at the sequence's midpoint", [
+            "Six kinds of feeling times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.214 through AN "
+            "11.261 exactly &mdash; the fifth of ten categories, "
+            "marking roughly the midpoint of this chapter's full "
+            "ten-category sequence."]),
+    ],
+    "terms": [
+        ("cakkhusamphassajā vedanāya, sotasamphassajā vedanāya",
+         "&ldquo;feeling born of eye contact&rdquo;, &ldquo;feeling "
+         "born of ear contact&rdquo; &mdash; the first two of the six "
+         "feelings, each explicitly named for its causal source."),
+        ("vedanā",
+         "&ldquo;feeling&rdquo; &mdash; the fifth step in this "
+         "chapter's sequence, and the pivotal link in dependent "
+         "origination where craving may or may not take hold."),
+        ("manosamphassajā vedanāya",
+         "&ldquo;feeling born of mind contact&rdquo; &mdash; the "
+         "sixth and final feeling, completing the list."),
+        ("taṇhā",
+         "not named directly here, but &ldquo;craving&rdquo;, the "
+         "link feeling conditions in the dependent origination chain "
+         "this category echoes."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of feeling born of contact. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of feeling, the same pattern"),
+        ("p", "&sect;1", "an11.214-261:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of contact",
+             "The six kinds of feeling born of contact",
+             "The six kinds of perception",
+             "The six kinds of craving"],
+         "correct": 1,
+         "expl": "The fifth step in this chapter's analytical "
+                 "sequence."},
+        {"q": "According to the guide, why does feeling carry special "
+              "significance in this sequence?",
+         "opts": [
+             "It does not; it is just one more category",
+             "In dependent origination, feeling is the specific link "
+             "where craving takes hold or does not",
+             "Feeling is unrelated to the other categories",
+             "Feeling is the final category in the sequence"],
+         "correct": 1,
+         "expl": "A point of real leverage, not merely a mechanical "
+                 "step."},
+        {"q": "How is each of the six feelings named?",
+         "opts": [
+             "Randomly, with no naming pattern",
+             "For the contact that gives rise to it — \"feeling born "
+             "of eye contact\", not simply \"eye feeling\"",
+             "For the object perceived",
+             "For the contemplation applied to it"],
+         "correct": 1,
+         "expl": "Making explicit the causal link between contact and "
+                 "feeling."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.214 through AN 11.261."},
+        {"q": "Where does this category fall in this chapter's "
+              "ten-category sequence, according to the guide?",
+         "opts": [
+             "First", "Fifth, roughly the midpoint", "Last",
+             "It is not part of the sequence"],
+         "correct": 1,
+         "expl": "The fifth of ten categories in the full sequence."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Where craving takes hold", [
+            "contact gives feeling,",
+            "feeling gives craving room &mdash;",
+            "or does not, seen through",
+        ]),
+        ("Named for its source", [
+            "not \"eye feeling\", but",
+            "feeling born of eye contact &mdash;",
+            "the cause, kept explicit",
+        ]),
+        ("Halfway through ten", [
+            "five categories down,",
+            "five more to come &mdash; the same",
+            "forty-eight, again",
+        ]),
+        ("Cross-references", [
+            "AN 11.166&ndash;213 &middot; previous, the six kinds of "
+            "contact",
+            "AN 11.262&ndash;309 &middot; next, the six kinds of "
+            "perception",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.214-261/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.166-213.html">AN 11.166&ndash;213</a> &mdash; previous.',
+        '<a href="an-11.262-309.html">AN 11.262&ndash;309</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.262–309 — perception of sights, etc.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.262-309",
+    "index_pali": "(untitled)",
+    "nav_title": "Perception of Sights, Etc.",
+    "source": "an11/an11.262-309",
+    "crumb": "AN 11.262&ndash;309",
+    "meta_title": ("AN 11.262–309 — Perception of Sights, Etc. | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.262–309, moving this chapter's peyyāla to the six "
+        "kinds of perception. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.262&ndash;309",
+    "title": "Perception of Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of perception"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Sixth of ten categories", "Perception, returning this "
+         "sequence to the six sense objects rather than the sense "
+         "faculties"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of perception &mdash; "
+        "perception of sights, sounds, smells, tastes, touches, and "
+        "ideas &mdash; forty-eight further discourses (AN "
+        "11.262&ndash;309)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of perception &mdash; of "
+            "sights, sounds, smells, tastes, touches, and ideas "
+            "&mdash; the sixth of this chapter's ten categories."]),
+        ("A return to the sense objects, not the faculties", [
+            "Unlike consciousness, contact, and feeling, which this "
+            "sequence has been naming for their originating sense "
+            "faculty (eye, ear, and so on), this category names each "
+            "perception for its sense object instead &mdash; "
+            "&lsquo;perception of sights&rsquo;, not &lsquo;eye "
+            "perception&rsquo; &mdash; echoing AN 11.70&ndash;117's "
+            "own naming convention rather than the faculty-based "
+            "naming of the three categories in between."]),
+        ("What perception adds", [
+            "Perception (saññā) is what recognizes and labels a sense "
+            "object once feeling has already registered it &mdash; "
+            "the mind's act of identifying &lsquo;this is a "
+            "sight&rsquo;, distinct from the bare feeling that arose "
+            "moments before, and itself a well-known aggregate "
+            "(khandha) in the canon's standard fivefold analysis of a "
+            "person."]),
+        ("The same forty-eight, continuing", [
+            "Six kinds of perception times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.262 through AN "
+            "11.309 exactly &mdash; the sixth of ten categories to "
+            "repeat this chapter's now-familiar arithmetic."]),
+    ],
+    "terms": [
+        ("rūpasaññāya, saddasaññāya, gandhasaññāya, rasasaññāya, "
+         "phoṭṭhabbasaññāya, dhammasaññāya",
+         "&ldquo;perception of sights, sounds, smells, tastes, "
+         "touches, and ideas&rdquo; &mdash; the six kinds of "
+         "perception, named for their sense objects."),
+        ("saññā",
+         "&ldquo;perception&rdquo; &mdash; the sixth step in this "
+         "chapter's sequence, and one of the five aggregates "
+         "(khandha) in the canon's standard analysis of a person."),
+        ("rūpasaññā",
+         "&ldquo;perception of sights&rdquo; &mdash; the first of the "
+         "six, opening this page's list."),
+        ("khandha",
+         "not named directly here, but the five aggregates "
+         "&mdash; form, feeling, perception, choices, and "
+         "consciousness &mdash; of which perception (saññā) is one."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of perception. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of perception, the same pattern"),
+        ("p", "&sect;1", "an11.262-309:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of feeling",
+             "The six kinds of perception — of sights, sounds, "
+             "smells, tastes, touches, and ideas",
+             "The six kinds of contact",
+             "The six kinds of craving"],
+         "correct": 1,
+         "expl": "The sixth step in this chapter's analytical "
+                 "sequence."},
+        {"q": "According to the guide, how does this category's "
+              "naming convention differ from the three before it?",
+         "opts": [
+             "It names each item for its sense object, echoing AN "
+             "11.70–117, rather than for the sense faculty",
+             "It uses no naming convention at all",
+             "It introduces an entirely new set of names",
+             "It is identical to the feeling category's naming"],
+         "correct": 0,
+         "expl": "Consciousness, contact, and feeling were named for "
+                 "their sense faculty; perception returns to naming "
+                 "by object."},
+        {"q": "What does perception (saññā) do, according to the "
+              "guide?",
+         "opts": [
+             "Nothing; it plays no active role",
+             "Recognizes and labels a sense object once feeling has "
+             "already registered it",
+             "Physically touches the sense object",
+             "Replaces feeling entirely"],
+         "correct": 1,
+         "expl": "The mind's act of identifying what has been felt."},
+        {"q": "What broader category does perception belong to, "
+              "according to the guide?",
+         "opts": [
+             "The four elements",
+             "The five aggregates (khandha)",
+             "The seven factors of awakening",
+             "The three unwholesome roots"],
+         "correct": 1,
+         "expl": "One of the five khandhas in the canon's standard "
+                 "analysis of a person."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.262 through AN 11.309."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Naming by object again", [
+            "not eye but sight now,",
+            "not ear but sound &mdash; the object",
+            "gives its name back",
+        ]),
+        ("What labels the felt", [
+            "feeling registers,",
+            "then perception names it &mdash;",
+            "\"this is a sight\", seen",
+        ]),
+        ("One of five heaps", [
+            "saññā, one heap",
+            "among form, feeling, choices,",
+            "consciousness &mdash; and this",
+        ]),
+        ("Cross-references", [
+            "AN 11.214&ndash;261 &middot; previous, feeling born of "
+            "contact",
+            "AN 11.310&ndash;357 &middot; next, intention regarding "
+            "sights",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.262-309/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.214-261.html">AN 11.214&ndash;261</a> &mdash; previous.',
+        '<a href="an-11.310-357.html">AN 11.310&ndash;357</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.310–357 — intention regarding sights, etc.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.310-357",
+    "index_pali": "(untitled)",
+    "nav_title": "Intention Regarding Sights, Etc.",
+    "source": "an11/an11.310-357",
+    "crumb": "AN 11.310&ndash;357",
+    "meta_title": ("AN 11.310–357 — Intention Regarding Sights, Etc. "
+                   "| Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.310–357, moving this chapter's peyyāla to the six "
+        "kinds of intention. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.310&ndash;357",
+    "title": "Intention Regarding Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of intention"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Seventh of ten categories", "Intention, the mental factor "
+         "this chapter's sequence treats as following perception"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of intention regarding "
+        "each sense object &mdash; sights, sounds, smells, tastes, "
+        "touches, and ideas &mdash; forty-eight further discourses "
+        "(AN 11.310&ndash;357)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of intention regarding sense "
+            "objects &mdash; sights, sounds, smells, tastes, touches, "
+            "and ideas &mdash; the seventh of this chapter's ten "
+            "categories."]),
+        ("From recognizing to intending", [
+            "Where perception (the previous category) simply "
+            "recognizes and labels a sense object, intention "
+            "(sañcetanā) is the mind's active response to it &mdash; "
+            "the volitional movement that, in the canon's broader "
+            "analysis, shapes karma itself, since intention is what "
+            "the Buddha elsewhere identifies as action (kamma) in its "
+            "most fundamental sense."]),
+        ("Named for the object, continuing", [
+            "Like perception before it, this category names each "
+            "intention for its sense object &mdash; &lsquo;intention "
+            "regarding sights&rsquo;, not &lsquo;eye "
+            "intention&rsquo; &mdash; maintaining the object-based "
+            "naming this sequence returned to at AN 11.262&ndash;309."]),
+        ("The same forty-eight, continuing", [
+            "Six kinds of intention times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.310 through AN "
+            "11.357 exactly &mdash; the seventh of ten categories to "
+            "repeat this chapter's now-familiar arithmetic."]),
+    ],
+    "terms": [
+        ("rūpasañcetanāya, saddasañcetanāya, gandhasañcetanāya, "
+         "rasasañcetanāya, phoṭṭhabbasañcetanāya, dhammasañcetanāya",
+         "&ldquo;intention regarding sights, sounds, smells, tastes, "
+         "touches, and ideas&rdquo; &mdash; the six kinds of "
+         "intention, named for their sense objects."),
+        ("sañcetanā",
+         "&ldquo;intention&rdquo; &mdash; the seventh step in this "
+         "chapter's sequence, the mind's active, volitional response "
+         "to a recognized sense object."),
+        ("kamma",
+         "not named directly here, but &ldquo;action&rdquo; itself "
+         "&mdash; elsewhere in the canon the Buddha identifies "
+         "intention as kamma in its most fundamental sense."),
+        ("rūpasañcetanā",
+         "&ldquo;intention regarding sights&rdquo; &mdash; the first "
+         "of the six, opening this page's list."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of intention. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of intention, the same pattern"),
+        ("p", "&sect;1", "an11.310-357:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of perception",
+             "The six kinds of intention regarding sense objects",
+             "The six kinds of craving",
+             "The six kinds of thought"],
+         "correct": 1,
+         "expl": "The seventh step in this chapter's analytical "
+                 "sequence."},
+        {"q": "How does intention (sañcetanā) differ from perception, "
+              "according to the guide?",
+         "opts": [
+             "There is no difference",
+             "Perception recognizes and labels; intention is the "
+             "mind's active, volitional response",
+             "Intention comes before perception",
+             "Intention is unrelated to the sense objects"],
+         "correct": 1,
+         "expl": "The shift from recognition to volitional response."},
+        {"q": "What does the Buddha elsewhere identify intention "
+              "with, according to the guide?",
+         "opts": [
+             "Nothing significant",
+             "Action (kamma) in its most fundamental sense",
+             "The five hindrances",
+             "The four noble truths"],
+         "correct": 1,
+         "expl": "A well-known identification from elsewhere in the "
+                 "canon."},
+        {"q": "How is each of the six intentions named?",
+         "opts": [
+             "For the sense faculty, like consciousness and contact",
+             "For the sense object, like perception before it",
+             "Randomly",
+             "For the contemplation applied"],
+         "correct": 1,
+         "expl": "Maintaining the object-based naming from the "
+                 "previous category."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.310 through AN 11.357."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("From labeling to acting", [
+            "perception just names,",
+            "intention moves toward or",
+            "away &mdash; the will, stirred",
+        ]),
+        ("Intention itself is kamma", [
+            "not the deed alone,",
+            "but the will behind it &mdash;",
+            "action, at its root",
+        ]),
+        ("Named for the object, still", [
+            "sights, sounds, smells, and touch,",
+            "tastes, and ideas &mdash; the will",
+            "toward each, in turn",
+        ]),
+        ("Cross-references", [
+            "AN 11.262&ndash;309 &middot; previous, the six kinds of "
+            "perception",
+            "AN 11.358&ndash;405 &middot; next, craving for sights",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.310-357/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.262-309.html">AN 11.262&ndash;309</a> &mdash; previous.',
+        '<a href="an-11.358-405.html">AN 11.358&ndash;405</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.358–405 — craving for sights, etc.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.358-405",
+    "index_pali": "(untitled)",
+    "nav_title": "Craving for Sights, Etc.",
+    "source": "an11/an11.358-405",
+    "crumb": "AN 11.358&ndash;405",
+    "meta_title": ("AN 11.358–405 — Craving for Sights, Etc. | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.358–405, moving this chapter's peyyāla to the six "
+        "kinds of craving — the link dependent origination names as "
+        "feeling's own consequence. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.358&ndash;405",
+    "title": "Craving for Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of craving"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Eighth of ten categories, closing the circle", "Craving, "
+         "the very link that AN 11.214&ndash;261's feeling was "
+         "flagged as conditioning"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of craving for each "
+        "sense object &mdash; sights, sounds, smells, tastes, "
+        "touches, and ideas &mdash; forty-eight further discourses "
+        "(AN 11.358&ndash;405)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of craving &mdash; for "
+            "sights, sounds, smells, tastes, touches, and ideas "
+            "&mdash; the eighth of this chapter's ten categories."]),
+        ("The link this sequence has been building toward", [
+            "AN 11.214&ndash;261's guide flagged feeling as the point "
+            "where craving takes hold or does not. This page names "
+            "that very consequence directly: craving (taṇhā), the "
+            "link dependent origination identifies as arising from "
+            "feeling and, left unchecked, driving the entire cycle of "
+            "further becoming and rebirth."]),
+        ("Three kinds of craving, though compressed here", [
+            "Elsewhere in the canon craving is analyzed into three "
+            "kinds &mdash; for sensual pleasure, for continued "
+            "existence, and for non-existence &mdash; a finer "
+            "distinction this compressed page does not draw out, "
+            "treating craving here simply by its six sense-object "
+            "categories rather than by its underlying motivations."]),
+        ("The same forty-eight, two categories from the close", [
+            "Six kinds of craving times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.358 through AN "
+            "11.405 exactly &mdash; the eighth of ten categories, "
+            "with only thought and consideration remaining before "
+            "this chapter's massive mirror page closes the whole "
+            "structure."]),
+    ],
+    "terms": [
+        ("rūpataṇhāya, saddataṇhāya, gandhataṇhāya, rasataṇhāya, "
+         "phoṭṭhabbataṇhāya, dhammataṇhāya",
+         "&ldquo;craving for sights, sounds, smells, tastes, touches, "
+         "and ideas&rdquo; &mdash; the six kinds of craving, named "
+         "for their sense objects."),
+        ("taṇhā",
+         "&ldquo;craving&rdquo; &mdash; the eighth step in this "
+         "chapter's sequence, and the link dependent origination "
+         "identifies as arising directly from feeling."),
+        ("rūpataṇhā",
+         "&ldquo;craving for sights&rdquo; &mdash; the first of the "
+         "six, opening this page's list."),
+        ("kāmataṇhā, bhavataṇhā, vibhavataṇhā",
+         "&ldquo;craving for sensual pleasure, for continued "
+         "existence, for non-existence&rdquo; &mdash; the canon's own "
+         "finer threefold analysis of craving, not drawn out in this "
+         "compressed page's six-object treatment."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of craving. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of craving, the same pattern"),
+        ("p", "&sect;1", "an11.358-405:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of intention",
+             "The six kinds of craving — for sights, sounds, smells, "
+             "tastes, touches, and ideas",
+             "The six kinds of thought",
+             "The six kinds of consideration"],
+         "correct": 1,
+         "expl": "The eighth step in this chapter's analytical "
+                 "sequence."},
+        {"q": "According to the guide, what earlier page flagged this "
+              "category's own significance in advance?",
+         "opts": [
+             "AN 11.70–117, the sense objects",
+             "AN 11.214–261, feeling born of contact",
+             "AN 11.22–29, the eye",
+             "AN 11.118–165, consciousness"],
+         "correct": 1,
+         "expl": "Feeling was flagged as the point where craving "
+                 "takes hold or does not."},
+        {"q": "What threefold analysis of craving does the canon "
+              "offer elsewhere, not drawn out in this compressed "
+              "page?",
+         "opts": [
+             "Craving for food, shelter, and companionship",
+             "Craving for sensual pleasure, for continued existence, "
+             "and for non-existence",
+             "Craving for wealth, fame, and power",
+             "There is no such analysis"],
+         "correct": 1,
+         "expl": "A finer distinction this page treats only by sense "
+                 "object instead."},
+        {"q": "How many categories remain after this one, before the "
+              "chapter's closing mirror page, according to the "
+              "guide?",
+         "opts": [
+             "None; this is the last category",
+             "Two — thought and consideration",
+             "Five", "Eight"],
+         "correct": 1,
+         "expl": "The eighth of ten categories."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.358 through AN 11.405."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("What feeling gives rise to", [
+            "the very craving",
+            "flagged pages back &mdash; now named",
+            "directly, at last",
+        ]),
+        ("A finer analysis, elsewhere", [
+            "sensual, for being,",
+            "for ending &mdash; three kinds unnamed",
+            "in this compressed page",
+        ]),
+        ("Two categories left", [
+            "thought and consideration",
+            "still to come, then the mirror &mdash;",
+            "the structure, nearly closed",
+        ]),
+        ("Cross-references", [
+            "AN 11.310&ndash;357 &middot; previous, the six kinds of "
+            "intention",
+            "AN 11.214&ndash;261 &middot; where feeling's role in "
+            "conditioning this very craving was first flagged",
+            "AN 11.406&ndash;453 &middot; next, thoughts about sights",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.358-405/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.310-357.html">AN 11.310&ndash;357</a> &mdash; previous.',
+        '<a href="an-11.406-453.html">AN 11.406&ndash;453</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.406–453 — thoughts about sights, etc.
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.406-453",
+    "index_pali": "(untitled)",
+    "nav_title": "Thoughts About Sights, Etc.",
+    "source": "an11/an11.406-453",
+    "crumb": "AN 11.406&ndash;453",
+    "meta_title": ("AN 11.406–453 — Thoughts About Sights, Etc. | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.406–453, moving this chapter's peyyāla to the six "
+        "kinds of thought, vitakka. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.406&ndash;453",
+    "title": "Thoughts About Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile and eight contemplations, "
+                 "now crossed against the six kinds of thought "
+                 "(vitakka)"),
+        ("Length", "~1 minute to read; stands for forty-eight "
+                   "discourses"),
+        ("Ninth of ten categories", "Thought (vitakka), the mental "
+         "factor familiar from the first absorption's own five "
+         "factors"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "the same established pattern, one category "
+                       "over"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile and eight "
+        "contemplations apply to the six kinds of thought about each "
+        "sense object &mdash; sights, sounds, smells, tastes, "
+        "touches, and ideas &mdash; forty-eight further discourses "
+        "(AN 11.406&ndash;453)."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The identical cowherd simile and eight contemplations "
+            "now apply to the six kinds of thought about sense "
+            "objects &mdash; sights, sounds, smells, tastes, touches, "
+            "and ideas &mdash; the ninth of this chapter's ten "
+            "categories."]),
+        ("A familiar term from meditation itself", [
+            "Vitakka, translated here as &lsquo;thought&rsquo;, is "
+            "the same term naming the first of the first absorption's "
+            "five factors &mdash; the initial application of the "
+            "mind to an object &mdash; here applied not to a "
+            "meditation object specifically but to any of the six "
+            "ordinary sense objects a mendicant might think about."]),
+        ("The penultimate category", [
+            "With thought in place, only consideration (vicāra, "
+            "vitakka's own frequent pair in the description of the "
+            "first absorption) remains before this chapter's "
+            "ten-category cycle through the &lsquo;can't&rsquo; "
+            "version completes and the massive mirror page begins."]),
+        ("The same forty-eight, nearly through", [
+            "Six kinds of thought times eight contemplations gives "
+            "forty-eight discourses, matching AN 11.406 through AN "
+            "11.453 exactly &mdash; the ninth of ten categories, with "
+            "only one more to go before this chapter's structure "
+            "turns to its mirror image."]),
+    ],
+    "terms": [
+        ("rūpavitakke, saddavitakke, gandhavitakke, rasavitakke, "
+         "phoṭṭhabbavitakke, dhammavitakke",
+         "&ldquo;thoughts about sights, sounds, smells, tastes, "
+         "touches, and ideas&rdquo; &mdash; the six kinds of thought, "
+         "named for their sense objects."),
+        ("vitakka",
+         "&ldquo;thought&rdquo;, the initial application of the mind "
+         "&mdash; the ninth step in this chapter's sequence, and also "
+         "the first of the first absorption's five factors elsewhere "
+         "in the canon."),
+        ("rūpavitakka",
+         "&ldquo;thought about sights&rdquo; &mdash; the first of the "
+         "six, opening this page's list."),
+        ("vicāra",
+         "not treated here but named at the very next page, "
+         "&ldquo;consideration&rdquo;, vitakka's own frequent "
+         "pairing term in describing the first absorption's five "
+         "factors."),
+        ("aniccānupassī...paṭinissaggānupassī",
+         "the same eight contemplations from AN 11.22&ndash;29, again "
+         "left entirely implicit."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the same pattern, now applied "
+        "to the six kinds of thought. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of thought, the same pattern"),
+        ("p", "&sect;1", "an11.406-453:1.1-1.7"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of craving",
+             "The six kinds of thought (vitakka) about sense objects",
+             "The six kinds of consideration",
+             "The six kinds of feeling"],
+         "correct": 1,
+         "expl": "The ninth step in this chapter's analytical "
+                 "sequence."},
+        {"q": "Where else does the term vitakka appear in the canon, "
+              "according to the guide?",
+         "opts": [
+             "Nowhere else",
+             "As the first of the first absorption's five factors",
+             "Only in monastic disciplinary rules",
+             "As a synonym for craving"],
+         "correct": 1,
+         "expl": "The initial application of the mind to an object, "
+                 "familiar from jhāna descriptions."},
+        {"q": "What category remains after this one, according to "
+              "the guide?",
+         "opts": [
+             "None; this is the last category",
+             "Consideration (vicāra), vitakka's own frequent pairing "
+             "term",
+             "Craving", "Perception"],
+         "correct": 1,
+         "expl": "The tenth and final category of the ten-part "
+                 "sequence."},
+        {"q": "How many discourses does this page stand for?",
+         "opts": [
+             "Eight", "Forty", "Forty-eight", "One hundred sixty"],
+         "correct": 2,
+         "expl": "6 × 8 = 48, matching AN 11.406 through AN 11.453."},
+        {"q": "What is the first kind of thought named in this "
+              "page's list?",
+         "opts": [
+             "Thought about sights", "Thought about ideas",
+             "Thought about sounds", "Thought about touches"],
+         "correct": 0,
+         "expl": "Opening the list in the standard sense-object order."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Ñātika, in the brick house"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("The mind's first touch", [
+            "vitakka, thought's",
+            "initial reach toward an object &mdash;",
+            "met again in jhāna",
+        ]),
+        ("Nine of ten, now done", [
+            "one category",
+            "left &mdash; consideration, then",
+            "the mirror opens",
+        ]),
+        ("A term from meditation", [
+            "the same word that names",
+            "the first absorption's own",
+            "first factor, applied here",
+        ]),
+        ("Cross-references", [
+            "AN 11.358&ndash;405 &middot; previous, the six kinds of "
+            "craving",
+            "AN 11.454&ndash;501 &middot; next, considerations, "
+            "closing the ten-category cycle",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.406-453/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.358-405.html">AN 11.358&ndash;405</a> &mdash; previous.',
+        '<a href="an-11.454-501.html">AN 11.454&ndash;501</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.454–501 — considerations regarding sights, etc., closing the
+# ten-category "can't" cycle with the eight contemplations spelled out
+# a second time
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.454-501",
+    "index_pali": "(untitled)",
+    "nav_title": "Considerations Regarding Sights, Etc.",
+    "source": "an11/an11.454-501",
+    "crumb": "AN 11.454&ndash;501",
+    "meta_title": ("AN 11.454–501 — Considerations Regarding Sights, "
+                   "Etc. | Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.454–501, closing this chapter's ten-category "
+        "\"can't\" cycle with the six kinds of consideration and the "
+        "eight contemplations spelled out a second time. From Ru-Yi "
+        "Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.454&ndash;501",
+    "title": "Considerations Regarding Sights, Etc.",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing "
+                "the ten-category cycle" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The same cowherd simile, now crossed against the "
+                 "six kinds of consideration, with the eight "
+                 "contemplations spelled out in full a second time"),
+        ("Length", "~2 minutes to read; stands for forty-eight "
+                   "discourses"),
+        ("Closing the cycle, matching the opening", "This page "
+         "bookends AN 11.22&ndash;29 by spelling out the eight "
+         "contemplations one more time, closing the ten-category "
+         "\"can't\" sequence"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "the arithmetic and the bookend structure are "
+                       "worth holding in mind together"),
+    ],
+    "why": (
+        "The same eleven-factor cowherd simile applies to the six "
+        "kinds of consideration regarding each sense object &mdash; "
+        "sights, sounds, smells, tastes, touches, and ideas &mdash; "
+        "and this page, alone among the nine compressed pages since "
+        "AN 11.22&ndash;29, spells out the eight contemplations again "
+        "in full, closing this chapter's entire ten-category "
+        "&lsquo;can't&rsquo; cycle at exactly AN 11.501."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The tenth and final category of this chapter's "
+            "&lsquo;can't&rsquo; sequence, consideration (vicāra) "
+            "regarding each of the six sense objects, closes with the "
+            "eight contemplations spelled out one more time, "
+            "bookending AN 11.22&ndash;29's own opening full "
+            "treatment."]),
+        ("A deliberate bookend", [
+            "Every one of the eight pages between AN 11.70&ndash;117 "
+            "and AN 11.406&ndash;453 compressed its eight "
+            "contemplations into a bare ellipsis, trusting the reader "
+            "to hold the list in mind from AN 11.22&ndash;29. This "
+            "page breaks that pattern deliberately, naming all eight "
+            "&mdash; impermanence, suffering, not-self, ending, "
+            "vanishing, fading away, cessation, letting go &mdash; "
+            "one final time as this immense compressed structure "
+            "closes."]),
+        ("Vitakka's frequent partner", [
+            "Consideration (vicāra) is the sustained application of "
+            "the mind that, together with the previous page's thought "
+            "(vitakka), forms two of the first absorption's five "
+            "factors &mdash; initial and sustained attention, here "
+            "applied to ordinary sense objects rather than a "
+            "meditation subject."]),
+        ("The full arithmetic of the ten-category cycle", [
+            "Ten categories &mdash; six sense faculties, six sense "
+            "objects, six consciousnesses, six contacts, six "
+            "feelings, six perceptions, six intentions, six cravings, "
+            "six thoughts, six considerations &mdash; each times "
+            "eight contemplations, gives 480 discourses total, "
+            "exactly matching AN 11.22 through AN 11.501. What "
+            "follows next mirrors this entire structure as its "
+            "positive counterpart, in a single further page."]),
+    ],
+    "terms": [
+        ("rūpavicāre, saddavicāre, gandhavicāre, rasavicāre, "
+         "phoṭṭhabbavicāre, dhammavicāre",
+         "&ldquo;considerations regarding sights, sounds, smells, "
+         "tastes, touches, and ideas&rdquo; &mdash; the six kinds of "
+         "consideration, named for their sense objects, closing the "
+         "ten-category cycle."),
+        ("vicāra",
+         "&ldquo;consideration&rdquo;, sustained attention &mdash; "
+         "the tenth and final step in this chapter's sequence, "
+         "vitakka's own frequent partner in the first absorption's "
+         "five factors."),
+        ("aniccānupassī",
+         "&ldquo;observing impermanence&rdquo; &mdash; the first "
+         "of the eight contemplations, spelled out here for the "
+         "second and final time in this chapter."),
+        ("paṭinissaggānupassī",
+         "&ldquo;observing letting go&rdquo; &mdash; the eighth and "
+         "final contemplation, closing both this page and the entire "
+         "480-discourse \"can't\" cycle it completes."),
+        ("dhammavicāra",
+         "&ldquo;consideration regarding ideas&rdquo; &mdash; the "
+         "sixth and final of the six considerations, completing the "
+         "list before the eight contemplations are spelled out."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the six kinds of consideration, "
+        "then all eight contemplations spelled out once more, closing "
+        "the ten-category cycle. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    "text": [
+        ("h3", "Six kinds of consideration"),
+        ("p", "&sect;1", "an11.454-501:1.1-1.6"),
+        ("h3", "Eight contemplations, spelled out a second time"),
+        ("p", "&sect;2", "an11.454-501:1.7-1.14"),
+    ],
+    "quiz": [
+        {"q": "What category does this page address?",
+         "opts": [
+             "The six kinds of thought (vitakka)",
+             "The six kinds of consideration (vicāra) regarding "
+             "sense objects",
+             "The six kinds of craving",
+             "The six sense faculties"],
+         "correct": 1,
+         "expl": "The tenth and final category in this chapter's "
+                 "\"can't\" cycle."},
+        {"q": "What makes this page different from the eight pages "
+              "immediately before it, according to the guide?",
+         "opts": [
+             "Nothing; it is equally compressed",
+             "It spells out the eight contemplations in full a "
+             "second time, rather than compressing them with an "
+             "ellipsis",
+             "It removes the cowherd simile",
+             "It introduces a ninth contemplation"],
+         "correct": 1,
+         "expl": "Bookending AN 11.22–29's own opening full treatment."},
+        {"q": "What is vicāra's frequent partner in describing the "
+              "first absorption's five factors?",
+         "opts": [
+             "Rapture (pīti)",
+             "Thought (vitakka), from the previous page",
+             "Immersion (samādhi)",
+             "Equanimity (upekkhā)"],
+         "correct": 1,
+         "expl": "Initial and sustained attention, named consecutively "
+                 "across these two pages."},
+        {"q": "What is the full arithmetic of this chapter's entire "
+              "ten-category \"can't\" cycle, according to the guide?",
+         "opts": [
+             "48 discourses total",
+             "Ten categories × six items × eight contemplations = "
+             "480 discourses, matching AN 11.22 through AN 11.501",
+             "160 discourses total",
+             "1,151 discourses total"],
+         "correct": 1,
+         "expl": "The full scope of the structure this page closes."},
+        {"q": "What comes immediately after this page, according to "
+              "the guide?",
+         "opts": [
+             "The Rāgapeyyāla directly",
+             "A single further page mirroring this entire structure "
+             "as its positive counterpart",
+             "Nothing; the chapter ends here",
+             "A return to chapter 2's content"],
+         "correct": 1,
+         "expl": "AN 11.502–981, the massive mirror page."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Kapilavatthu, in the Banyan Tree Monastery"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("The cycle's own bookend", [
+            "eight ways, spelled out",
+            "once at the start, once again",
+            "here, closing the loop",
+        ]),
+        ("Vitakka's steady partner", [
+            "thought applies itself,",
+            "consideration sustains it &mdash;",
+            "two factors, paired here",
+        ]),
+        ("Four hundred eighty", [
+            "ten times six times eight &mdash;",
+            "the whole \"can't\" cycle, complete",
+            "at eleven fifty-one",
+        ]),
+        ("Cross-references", [
+            "AN 11.22&ndash;29 &middot; the opening page this one "
+            "bookends, spelling out the same eight contemplations",
+            "AN 11.406&ndash;453 &middot; previous, the six kinds of "
+            "thought",
+            "AN 11.502&ndash;981 &middot; next, the entire structure "
+            "mirrored as its positive counterpart",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.454-501/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.406-453.html">AN 11.406&ndash;453</a> &mdash; previous.',
+        '<a href="an-11.502-981.html">AN 11.502&ndash;981</a> &mdash; next.',
+    ],
+})
+
+
+# --------------------------------------------------------------------------- #
+# AN 11.502–981 — the entire ten-category structure mirrored as its
+# positive ("can") counterpart, compressed onto a single page
+# --------------------------------------------------------------------------- #
+PAGES.append({
+    "slug": "an-11.502-981",
+    "index_pali": "(untitled)",
+    "nav_title": "The Mirror: Can, Not Can't",
+    "source": "an11/an11.502-981",
+    "crumb": "AN 11.502&ndash;981",
+    "meta_title": ("AN 11.502–981 — The Mirror: Can, Not Can't | "
+                   "Ru-Yi Meditation Center"),
+    "meta_desc": (
+        "A reading guide, full English text, and self-check quiz for "
+        "AN 11.502–981, closing this chapter's peyyāla by mirroring "
+        "its entire 480-discourse \"can't\" cycle as its positive "
+        "counterpart on a single page. From Ru-Yi Meditation Center."),
+    "number_line": "Aṅguttara Nikāya &middot; Discourses 11.502&ndash;981",
+    "title": "The Mirror: Can, Not Can't",
+    "subtitle": ("<em>Untitled in the source</em> &mdash; %s, closing "
+                "the chapter" % VAGGA_3),
+    "glance": [
+        ("Setting", SETTING_NONE),
+        ("Speakers", SPEAKER),
+        ("Form", "The entire ten-category, eight-contemplation "
+                 "structure from AN 11.22&ndash;501, flipped from "
+                 "\"can't\" to \"can\", compressed onto a single "
+                 "page representing only the eye"),
+        ("Length", "~1 minute to read; stands for 480 discourses, "
+                   "the largest ratio of text to discourse count in "
+                   "this entire project"),
+        ("Closing this chapter", "This page closes Sāmaññavagga and "
+         "the 960-discourse peyyāla it opened at AN 11.22"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; &mdash; "
+                       "the text itself is brief; holding the full "
+                       "480-discourse multiplication in mind is the "
+                       "real work"),
+    ],
+    "why": (
+        "Everything just established across AN 11.22&ndash;501 "
+        "&mdash; the eleven-factor cowherd simile and eight "
+        "contemplations, crossed against ten categories of six items "
+        "each &mdash; is restated here in its positive form: a "
+        "cowherd <em>with</em> eleven skilful factors <em>can</em> "
+        "maintain a herd, and a mendicant with the same eleven "
+        "qualities <em>can</em> meditate observing all eight "
+        "contemplations, across all ten categories, closing this "
+        "chapter's entire 960-discourse peyyāla at AN 11.981."),
+    "guide": [
+        ("The teaching in one sentence", [
+            "The mirror image of everything AN 11.22&ndash;501 "
+            "established: a cowherd with eleven skilful factors can "
+            "maintain a herd, and a mendicant with the same eleven "
+            "qualities can meditate observing impermanence, "
+            "suffering, not-self, ending, vanishing, fading away, "
+            "cessation, and letting go, across all ten categories "
+            "this chapter has built."]),
+        ("The most compressed page in this entire project", [
+            "Where the &lsquo;can't&rsquo; cycle took nine full pages "
+            "just for its middle compressed categories, this page "
+            "represents the identical 480-discourse mirror &mdash; "
+            "every one of the same ten categories, flipped positive "
+            "&mdash; using only ten short segments, naming just the "
+            "eye as a single representative example before trailing "
+            "into an unexpanded &lsquo;pe&rsquo; ellipsis for "
+            "everything else."]),
+        ("Why the source itself is this brief", [
+            "Having spent nearly five hundred discourses "
+            "establishing every category and every contemplation in "
+            "full negative form, the source text trusts its reader "
+            "entirely: reversing &lsquo;can't&rsquo; to "
+            "&lsquo;can&rsquo; and &lsquo;doesn't know form&rsquo; to "
+            "&lsquo;knows form&rsquo; requires no further "
+            "elaboration, since every other term in the structure "
+            "carries over unchanged from what came before."]),
+        ("The complete arithmetic, and this chapter's own close", [
+            "480 discourses (the mirror) plus 480 discourses (the "
+            "original &lsquo;can't&rsquo; cycle, AN 11.22&ndash;501) "
+            "totals exactly 960, matching this chapter's full span "
+            "from AN 11.22 through AN 11.981 &mdash; closing "
+            "Sāmaññavagga, the chapter this page and its eleven "
+            "predecessors have built. What remains in this nipāta is "
+            "only the Rāgapeyyāla, AN 11.982&ndash;1151, and with it "
+            "the entire Aṅguttara Nikāya."]),
+    ],
+    "terms": [
+        ("bhabbo",
+         "&ldquo;can&rdquo;, capable &mdash; the single word this "
+         "page flips from AN 11.22&ndash;501's repeated "
+         "&lsquo;abhabbo&rsquo;, &ldquo;can't&rdquo;, reversing the "
+         "entire structure's polarity."),
+        ("rūpaññū hoti",
+         "&ldquo;knows form&rdquo; &mdash; the positive mirror of AN "
+         "11.17's &lsquo;na rūpaññū hoti&rsquo;, &ldquo;doesn't know "
+         "form&rdquo;, the cowherd's first skill restated "
+         "affirmatively."),
+        ("cakkhusmiṁ aniccānupassī viharituṁ",
+         "&ldquo;meditate observing impermanence in the eye&rdquo; "
+         "&mdash; the same phrase from AN 11.22, now following "
+         "&lsquo;can&rsquo; rather than &lsquo;can't&rsquo;."),
+        ("pe",
+         "the Pāli ellipsis marker, here doing the heaviest work in "
+         "this entire project: standing in for the other nine "
+         "categories and all six items each, none of them spelled "
+         "out even once on this page."),
+        ("Sāmaññavaggo",
+         "&ldquo;the chapter on similarity&rdquo; &mdash; not stated "
+         "as an explicit colophon on this page in the source, unlike "
+         "chapters 1 and 2's own closing formulas, but the chapter "
+         "this page nonetheless closes."),
+    ],
+    "text_intro": (
+        "The compressed text in full: the cowherd simile's positive "
+        "form, and the eye standing for all ten categories. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    "text": [
+        ("h3", "The cowherd simile, reversed to the positive"),
+        ("p", "&sect;1", "an11.502-981:1.1-2.3"),
+    ],
+    "quiz": [
+        {"q": "What does this page do to the entire structure built "
+              "across AN 11.22–501?",
+         "opts": [
+             "Repeats it unchanged",
+             "Mirrors it as its positive counterpart, flipping "
+             "\"can't\" to \"can\"",
+             "Contradicts and rejects it",
+             "Ignores it and introduces new content"],
+         "correct": 1,
+         "expl": "A cowherd WITH the eleven factors can maintain a "
+                 "herd; a mendicant with the same eleven qualities "
+                 "can meditate observing all eight contemplations."},
+        {"q": "How many discourses does this single page stand for?",
+         "opts": [
+             "Forty-eight", "One hundred sixty",
+             "480, mirroring the entire \"can't\" cycle",
+             "Only one"],
+         "correct": 2,
+         "expl": "The largest ratio of text to discourse count in "
+                 "this entire project."},
+        {"q": "How does this page represent all ten categories, "
+              "according to the guide?",
+         "opts": [
+             "By spelling out each one in full, as AN 11.454–501 did",
+             "By naming only the eye as a single representative "
+             "example, then trailing into an unexpanded ellipsis",
+             "By listing all ten in a table",
+             "It does not represent all ten; it covers only the eye"],
+         "correct": 1,
+         "expl": "The most compressed page in the entire project."},
+        {"q": "What is the full arithmetic this page's guide gives "
+              "for the whole chapter?",
+         "opts": [
+             "480 discourses total",
+             "480 (mirror) plus 480 (\"can't\" cycle) equals 960, "
+             "matching AN 11.22 through AN 11.981",
+             "1,151 discourses total",
+             "36 discourses total"],
+         "correct": 1,
+         "expl": "Closing Sāmaññavagga, the chapter these twelve "
+                 "pages have built."},
+        {"q": "What remains in this nipāta after this page, according "
+              "to the guide?",
+         "opts": [
+             "Nothing; the nipāta ends here",
+             "Only the Rāgapeyyāla, AN 11.982–1151, closing the "
+             "entire Aṅguttara Nikāya",
+             "Three more full chapters",
+             "A return to chapter 1's content"],
+         "correct": 1,
+         "expl": "The final structure remaining before this project's "
+                 "own completion."},
+        {"q": "Where is this compressed passage set?",
+         "opts": [
+             "Sāvatthī, in Jeta's Grove",
+             "No setting is stated in the source",
+             "Rājagaha, on Vulture's Peak",
+             "Vesālī, in the little village of Beluva"],
+         "correct": 1,
+         "expl": "No location is given for this compressed passage."},
+    ],
+    "marginalia": [
+        ("Can, not can't", [
+            "one word reversed, and",
+            "the whole four hundred eighty",
+            "flips to the positive",
+        ]),
+        ("The eye stands for all", [
+            "just one sense named here,",
+            "nine more categories left",
+            "to a bare \"etc.\"",
+        ]),
+        ("Nine hundred sixty", [
+            "can't plus can, both full &mdash;",
+            "one chapter's entire span,",
+            "closed on this one page",
+        ]),
+        ("Cross-references", [
+            "AN 11.22&ndash;29 &middot; the chapter's opening page, "
+            "spelling out the \"can't\" version this page mirrors",
+            "AN 11.454&ndash;501 &middot; previous, closing the "
+            "\"can't\" cycle",
+            "AN 11.982&ndash;1151 &middot; next, the Rāgapeyyāla, "
+            "closing the entire Aṅguttara Nikāya",
+        ]),
+    ],
+    "further": [
+        '<a href="%s/an11.502-981/en/sujato" target="_blank" rel="noopener">Full Sujato '
+        "translation on SuttaCentral</a> &mdash; with Pāli alongside, "
+        "segment by segment." % SC,
+        '<a href="an-11.454-501.html">AN 11.454&ndash;501</a> &mdash; previous.',
+        '<a href="an-11.982.html">AN 11.982</a> &mdash; next, opening the Rāgapeyyāla.',
+    ],
+})
