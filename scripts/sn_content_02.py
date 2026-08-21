@@ -13991,3 +13991,479 @@ page(
         "saṃyutta.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.71 — Jarāmaraṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 71, "Jarāmaraṇa", "Old Age and Death",
+    meta_title="SN 12.71 — Old Age and Death | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Jarāmaraṇasutta — opening Samaṇabrāhmaṇavagga, "
+        "understanding a single link's origin and cessation, not "
+        "title or lineage, is what makes someone a true ascetic or "
+        "brahmin. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A brief two-part statement, negative then "
+                 "positive, applying an already-familiar test to a "
+                 "single link"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief, opening a chapter whose "
+                       "structure this discourse itself names"),
+    ],
+    why=(
+        "This discourse opens Samaṇabrāhmaṇavagga &mdash; a chapter "
+        "named for exactly the test this discourse performs. Any "
+        "ascetic or brahmin who doesn't understand old age and death, "
+        "its origin, its cessation, and the practice leading to that "
+        "cessation, the Buddha says, doesn't count as a true ascetic "
+        "or brahmin at all, however they're regarded by their peers, "
+        "because they haven't realized the goal of that life for "
+        "themselves. This same test, applied to the whole chain at "
+        "once, already appeared twice earlier in this saṃyutta, in "
+        "Āhāravagga's SN 12.13 and SN 12.14 and again in "
+        "Dasabalavagga's SN 12.29 and SN 12.30; this discourse "
+        "narrows the test to a single link before the chapter's next "
+        "discourse widens it back out across the remaining nine, one "
+        "at a time."),
+    guide=[
+        ("A test of understanding, not a test of title", [
+            "Being called \"ascetic\" or \"brahmin\" by others isn't "
+            "what the discourse cares about; what makes the title "
+            "genuine is understanding a specific thing &mdash; here, "
+            "old age and death's origin and cessation &mdash; for "
+            "oneself."]),
+        ("A recurring formula, narrowed to one link", [
+            "The same fourfold test &mdash; understanding a "
+            "phenomenon, its origin, its cessation, and the path to "
+            "its cessation &mdash; already structured SN 12.13, SN "
+            "12.14, SN 12.29, and SN 12.30 applied to the whole "
+            "chain; this discourse applies exactly the same structure "
+            "to old age and death alone."]),
+        ("Realized with one's own insight, not received secondhand", [
+            "The discourse specifies that true ascetics and brahmins "
+            "\"realize the goal of life as an ascetic or brahmin, and "
+            "live having realized it with their own insight\" "
+            "&mdash; a standard of personal, direct understanding "
+            "rather than correct recitation or public reputation."]),
+        ("A negative half and a positive half, mirrored exactly", [
+            "The discourse states its claim once as a denial, for "
+            "those who don't understand, and once as an affirmation, "
+            "for those who do, using nearly identical wording in both "
+            "halves so the contrast falls entirely on the single "
+            "word negating each verb."]),
+        ("A discourse that names the chapter it opens", [
+            "Coming first in Samaṇabrāhmaṇavagga, this discourse's "
+            "very subject &mdash; who counts as a genuine ascetic or "
+            "brahmin &mdash; gives the whole chapter its name, before "
+            "the next discourse runs the identical test through the "
+            "rest of the chain."]),
+    ],
+    terms=[
+        ("jarāmaraṇaṁ nappajānanti, jarāmaraṇasamudayaṁ "
+         "nappajānanti, jarāmaraṇanirodhaṁ nappajānanti, "
+         "jarāmaraṇanirodhagāminiṁ paṭipadaṁ nappajānanti",
+         "&ldquo;don't understand old age and death, their origin, "
+         "their cessation, and the practice that leads to their "
+         "cessation&rdquo; &mdash; the fourfold test, here applied "
+         "to a single link."),
+        ("na me te&hellip; samaṇā vā brāhmaṇā vā samaṇesu vā "
+         "samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā",
+         "&ldquo;I don't deem them as true ascetics and "
+         "brahmins&rdquo; &mdash; the verdict for those who lack "
+         "this understanding, regardless of outside reputation."),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme "
+         "sayaṁ abhiññā sacchikatvā upasampajja viharanti",
+         "&ldquo;realize the goal of life as an ascetic or brahmin, "
+         "and live having realized it with their own insight&rdquo; "
+         "&mdash; the standard of personal, direct understanding."),
+        ("ye ca kho keci&hellip; jarāmaraṇaṁ pajānanti&hellip; "
+         "paṭipadaṁ pajānanti",
+         "&ldquo;there are ascetics and brahmins who do "
+         "understand old age and death&hellip; the practice&rdquo; "
+         "&mdash; the positive mirror of the opening denial."),
+        ("te ca panāyasmanto sāmaññatthañca brahmaññatthañca&hellip; "
+         "upasampajja viharantī",
+         "&ldquo;those venerables realize the goal of life as an "
+         "ascetic or brahmin&hellip; and live having realized "
+         "it&rdquo; &mdash; the positive mirror closing the "
+         "discourse."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Samaṇabrāhmaṇavagga. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.71:1.1-1.5"),
+        ("p", "&sect;2", "sn12.71:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What test does this discourse apply to being a true ascetic or brahmin?",
+         "opts": [
+             "Understanding old age and death, their origin, cessation, and the path to that cessation",
+             "Correctly reciting the Buddha's teachings from memory",
+             "Being formally recognized as such by other ascetics and brahmins",
+             "Practicing austerities for a set number of years"],
+         "correct": 0,
+         "expl": "A test of understanding, applied here to a single link."},
+        {"q": "Where else in this saṃyutta has the same fourfold test structure already appeared, applied to the whole chain?",
+         "opts": [
+             "SN 12.13, SN 12.14, SN 12.29, and SN 12.30",
+             "Nowhere else; this discourse introduces the structure for the first time",
+             "Only in SN 12.1, the saṃyutta's opening discourse",
+             "Only in discourses addressed to brahmins by name"],
+         "correct": 0,
+         "expl": "A recurring formula, here narrowed from the whole chain to a single link."},
+        {"q": "What standard does the discourse set for genuine realization?",
+         "opts": [
+             "Realizing the goal with one's own insight, not receiving it secondhand",
+             "Being publicly declared enlightened by the Buddha",
+             "Memorizing a fixed set of scriptures",
+             "Achieving a specific meditative absorption"],
+         "correct": 0,
+         "expl": "Personal, direct understanding rather than correct recitation or reputation."},
+        {"q": "How does the discourse treat outside reputation as an ascetic or brahmin?",
+         "opts": [
+             "It doesn't count on its own; the Buddha withholds the title regardless of how peers regard someone",
+             "It is treated as sufficient on its own",
+             "It automatically confers the understanding described",
+             "The discourse doesn't mention outside reputation at all"],
+         "correct": 0,
+         "expl": "Being regarded as an ascetic or brahmin by peers doesn't substitute for actual understanding."},
+        {"q": "How is the discourse structured?",
+         "opts": [
+             "A negative half for those who don't understand, mirrored by a positive half for those who do",
+             "A single continuous statement with no contrast",
+             "A dialogue between the Buddha and a named brahmin",
+             "A series of similes with no direct statement"],
+         "correct": 0,
+         "expl": "Nearly identical wording in both halves, with the contrast falling on a single negation."},
+        {"q": "What chapter does this discourse open, and how does its subject relate to the chapter's name?",
+         "opts": [
+             "Samaṇabrāhmaṇavagga, named for exactly the test this discourse performs",
+             "Dukkhavagga, unrelated to this discourse's subject",
+             "Mahāvagga, this discourse's closing episode",
+             "Gahapativagga, addressed to a householder"],
+         "correct": 0,
+         "expl": "The chapter takes its name from the ascetic-or-brahmin test given here."},
+        {"q": "What does the discourse's next chapter-mate (SN 12.72–81) do with this same test?",
+         "opts": [
+             "Runs the identical test through the remaining nine links, one at a time",
+             "Abandons the test entirely for a new topic",
+             "Applies the test only to brahmins, not ascetics",
+             "Reverses the test's logic entirely"],
+         "correct": 0,
+         "expl": "This discourse narrows the test to one link; the next widens it back out."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with much of this saṃyutta."},
+        {"q": "How long is this discourse, compared to most others in this saṃyutta?",
+         "opts": [
+             "Very brief — a two-part statement of only a few lines",
+             "Among the longest in the entire saṃyutta",
+             "Roughly average, with an extended simile",
+             "The discourse has no fixed length; it varies by manuscript"],
+         "correct": 0,
+         "expl": "A compact opening before the chapter's next discourse expands the same test considerably."},
+    ],
+    marginalia=[
+        ("A title that has to be earned", [
+            "not conferred by peers &mdash;",
+            "understanding, or nothing",
+        ]),
+        ("A familiar test, narrowed for now", [
+            "the whole chain, once, twice before &mdash;",
+            "here just one link alone",
+        ]),
+        ("Insight that has to be one's own", [
+            "not secondhand, not recited &mdash;",
+            "realized personally, or not at all",
+        ]),
+        ("A chapter named by its opening line", [
+            "the test itself gives the vagga its title &mdash;",
+            "before the next page widens it out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.71/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.70.html">SN 12.70 &middot; The Wanderer Susīma</a> '
+        "&mdash; the discourse closing Mahāvagga, immediately before "
+        "this one.",
+        '<a href="sn-12.13.html">SN 12.13 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the earlier discourse applying the identical "
+        "fourfold test to the whole chain at once.",
+        '<a href="sn-12.72-81.html">SN 12.72&ndash;81 &middot; A Set of Ten on Rebirth, Etc.</a> '
+        "&mdash; the next page, running this same test through the "
+        "remaining nine links.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.72–81 — Jātisuttādidasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    12, 72, 81, "Jātisuttādidasaka", "A Set of Ten on Rebirth, Etc.",
+    meta_title="SN 12.72–81 — A Set of Ten on Rebirth, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 12.72 through "
+        "12.81 — ten discourses, preserved in the source as a single "
+        "peyyāla block, running SN 12.71's ascetic-and-brahmin test "
+        "through the remaining nine links of the chain. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, each an elided one-line application "
+                 "of SN 12.71's test to a further link"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; ten discourses of pure elided "
+                       "repetition, read here honestly as such"),
+    ],
+    why=(
+        "SN 12.71 tested whether an ascetic or brahmin understands "
+        "old age and death, its origin, its cessation, and the path "
+        "to that cessation. These ten discourses take that identical "
+        "test and run it through the rest of the chain, one link at "
+        "a time: rebirth, continued existence, grasping, craving, "
+        "feeling, contact, the six sense fields, name and form, "
+        "consciousness, and choices. Bilara-data itself preserves "
+        "each of these ten as a single elided line naming only the "
+        "link in question, trusting the reader to supply SN 12.71's "
+        "full sentence structure around it &mdash; and rather than "
+        "expand each one into ten separately fabricated pages, this "
+        "reading guide keeps them together on a single page, exactly "
+        "as elided, following the same principle of honest "
+        "compression already used for SN 12.5 through 12.9's five "
+        "past Buddhas earlier in this book."),
+    guide=[
+        ("Ten discourses, one shared sentence", [
+            "Each of these ten items in the source names only the "
+            "link being tested &mdash; rebirth, continued existence, "
+            "and so on &mdash; leaving the full \"don't understand "
+            "its origin, its cessation, and the path to its "
+            "cessation, so I don't deem them true ascetics or "
+            "brahmins\" structure to be supplied from SN 12.71, "
+            "exactly as bilara-data elides it."]),
+        ("Choices given in full where the rest are stubs", [
+            "Nine of the ten links are compressed to a bare named "
+            "phrase, but the tenth, choices, is spelled out with its "
+            "complete fourfold formula before the closing peyyāla "
+            "&mdash; the one point in this set where the source "
+            "pauses to state the pattern in full rather than trust "
+            "elision alone."]),
+        ("The same test, unchanged in substance across all ten", [
+            "Nothing about the underlying claim shifts from link to "
+            "link; what changes is only which phenomenon is being "
+            "tested, confirming that SN 12.71's opening test was "
+            "never specific to old age and death but a template "
+            "meant to be run across the whole chain."]),
+        ("A milestone the source itself marks", [
+            "The closing material carries not only this chapter's "
+            "own summary verse but a second, higher-level verse "
+            "listing all eight chapter names completed so far in "
+            "this book &mdash; Buddhavagga, Āhāravagga, Dasabalavagga, "
+            "Kaḷārakhattiyavagga, Gahapativagga, Dukkhavagga, "
+            "Mahāvagga, and Samaṇabrāhmaṇavagga &mdash; marking the "
+            "completion of Nidānasaṃyutta's first half before its "
+            "much larger closing section begins. Neither verse is "
+            "translated in the source and neither is quoted here."]),
+        ("A smaller-scale version of a familiar editorial choice", [
+            "This set of ten is far shorter than the roughly five "
+            "hundred consecutive discourses of near-identical wording "
+            "compressed elsewhere in this collection's companion "
+            "project on the Aṅguttara Nikāya, but the underlying "
+            "editorial judgment is the same: honor genuine elision "
+            "as elision, rather than manufacture content the source "
+            "itself doesn't provide."]),
+    ],
+    terms=[
+        ("jātiṁ nappajānanti",
+         "&ldquo;they don't understand rebirth&rdquo; &mdash; the "
+         "first of the nine links given as a bare stub, SN 12.71's "
+         "structure implied around it."),
+        ("vedanaṁ nappajānanti",
+         "&ldquo;they don't understand feeling&rdquo; &mdash; one "
+         "of the nine links compressed identically."),
+        ("nāmarūpaṁ nappajānanti",
+         "&ldquo;they don't understand name and form&rdquo; "
+         "&mdash; another of the nine, unpacked no further than its "
+         "name."),
+        ("saṅkhāre nappajānanti, saṅkhārasamudayaṁ nappajānanti, "
+         "saṅkhāranirodhaṁ nappajānanti, saṅkhāranirodhagāminiṁ "
+         "paṭipadaṁ nappajānanti",
+         "&ldquo;they don't understand choices, their origin, "
+         "their cessation, and the practice that leads to their "
+         "cessation&rdquo; &mdash; the tenth and final link, given "
+         "in full rather than stubbed like the other nine."),
+        ("jātisuttādidasaka",
+         "&ldquo;a set of ten on rebirth, etc.&rdquo; &mdash; the "
+         "source's own name for this block, naming the set by its "
+         "first member rather than listing all ten."),
+    ],
+    text_intro=(
+        "The full text of all ten discourses, exactly as elided in "
+        "the source. Each stub implies SN 12.71's complete sentence "
+        "structure, not reproduced here since the source itself "
+        "doesn't reproduce it. The chapter's own closing verse and "
+        "the higher-level verse naming this book's first eight "
+        "chapters are not translated in the source and are not "
+        "quoted here; see the reading guide above for their "
+        "contents. Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; SN 12.72", "sn12.72-81:1.1-1.2"),
+        ("p", "&sect;2 &middot; SN 12.73", "sn12.72-81:2.1-2.1"),
+        ("p", "&sect;3 &middot; SN 12.74", "sn12.72-81:3.1-3.1"),
+        ("p", "&sect;4 &middot; SN 12.75", "sn12.72-81:4.1-4.1"),
+        ("p", "&sect;5 &middot; SN 12.76", "sn12.72-81:5.1-5.1"),
+        ("p", "&sect;6 &middot; SN 12.77", "sn12.72-81:6.1-6.1"),
+        ("p", "&sect;7 &middot; SN 12.78", "sn12.72-81:7.1-7.1"),
+        ("p", "&sect;8 &middot; SN 12.79", "sn12.72-81:8.1-8.1"),
+        ("p", "&sect;9 &middot; SN 12.80", "sn12.72-81:9.1-9.1"),
+        ("p", "&sect;10 &middot; SN 12.81", "sn12.72-81:10.1-10.2"),
+    ],
+    quiz=[
+        {"q": "What test do these ten discourses apply, one link at a time?",
+         "opts": [
+             "SN 12.71's ascetic-and-brahmin test, already applied there to old age and death alone",
+             "An entirely new test not found in SN 12.71",
+             "A test of monastic seniority",
+             "A test of correct pronunciation of Pali"],
+         "correct": 0,
+         "expl": "The same test run through the remaining nine links of the chain."},
+        {"q": "How does the source preserve most of these ten discourses?",
+         "opts": [
+             "As a single elided line naming only the link in question",
+             "As ten complete, independently written accounts",
+             "As ten verses composed specifically for this set",
+             "As a single dialogue with ten separate speakers"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply SN 12.71's full structure around each bare name."},
+        {"q": "Which link among the ten is given in full rather than as a bare stub?",
+         "opts": [
+             "Choices, the tenth and final link in this set",
+             "Rebirth, the first link in this set",
+             "Feeling",
+             "None of the ten links is given in full"],
+         "correct": 0,
+         "expl": "The one point where the source pauses to state the pattern in full."},
+        {"q": "Why does this reading guide keep all ten discourses on a single page rather than expanding each into its own page?",
+         "opts": [
+             "To honor the source's genuine elision as elision, rather than manufacture content it doesn't provide",
+             "Because the ten discourses are too unimportant to treat separately",
+             "Because bilara-data forbids splitting merged files",
+             "Because no English translation of any kind exists for this material"],
+         "correct": 0,
+         "expl": "The same principle already applied to SN 12.5 through 12.9's five past Buddhas."},
+        {"q": "What milestone does the closing material of this set mark?",
+         "opts": [
+             "The completion of this book's first eight chapters, listed in a higher-level summary verse",
+             "The end of the entire Saṃyutta Nikāya",
+             "The beginning of a completely unrelated collection",
+             "Nothing significant; the closing material is purely decorative"],
+         "correct": 0,
+         "expl": "A verse naming Buddhavagga through Samaṇabrāhmaṇavagga, marking Nidānasaṃyutta's first half complete."},
+        {"q": "Is either of the two closing verses translated in the source?",
+         "opts": [
+             "No — neither is translated, and neither is quoted in this reading guide's text section",
+             "Yes, both are fully translated and quoted",
+             "Only the higher-level verse is translated",
+             "Only the chapter's own closing verse is translated"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "Does the underlying claim change from link to link across these ten discourses?",
+         "opts": [
+             "No — only which phenomenon is being tested changes, not the claim itself",
+             "Yes, each link receives a substantively different teaching",
+             "Yes, the later links reverse the position taken in the earlier ones",
+             "The discourses don't share any common claim at all"],
+         "correct": 0,
+         "expl": "Confirming SN 12.71's test was always meant as a template for the whole chain."},
+        {"q": "How does the scale of this compressed set compare to similar compression in this collection's companion project on the Aṅguttara Nikāya?",
+         "opts": [
+             "Far smaller — ten discourses here, versus roughly five hundred there",
+             "Much larger — this set covers more discourses than any Aṅguttara compression",
+             "Exactly the same scale in both cases",
+             "The two collections have never used comparable compression"],
+         "correct": 0,
+         "expl": "The same editorial judgment applied at a much smaller scale."},
+        {"q": "What does \"Jātisuttādidasaka,\" this set's own name, mean?",
+         "opts": [
+             "\"A set of ten beginning with the discourse on rebirth\"",
+             "\"Ten discourses on the nature of death\"",
+             "\"A set of ten on ascetics alone\"",
+             "\"The final teaching before awakening\""],
+         "correct": 0,
+         "expl": "Named by its first member rather than by listing all ten link names."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with SN 12.71 and much of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Ten discourses, one shared sentence", [
+            "each stub implying SN 12.71's shape &mdash;",
+            "elided, not rewritten in full",
+        ]),
+        ("One link spelled out among nine stubs", [
+            "choices given its complete formula &mdash;",
+            "the pattern stated once in full",
+        ]),
+        ("The same claim, nine times over", [
+            "only the tested link changes &mdash;",
+            "the template runs unaltered",
+        ]),
+        ("A milestone marked by the source itself", [
+            "eight chapters named in one verse &mdash;",
+            "half of Nidānasaṃyutta complete",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.72/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation of SN 12.72 on SuttaCentral</a> &mdash; "
+        "with Pāli alongside, segment by segment; SN 12.73 through "
+        "12.81 can be reached from the same site's navigation."
+        % SC,
+        '<a href="sn-12.71.html">SN 12.71 &middot; Old Age and Death</a> '
+        "&mdash; the discourse immediately before this set, giving "
+        "the full sentence structure these ten discourses elide.",
+        '<a href="sn-12.5-9.html">SN 12.5&ndash;9 &middot; Five More Buddhas</a> '
+        "&mdash; the earlier page in this book following the same "
+        "principle of honest, unexpanded elision.",
+    ],
+)
