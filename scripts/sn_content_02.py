@@ -14467,3 +14467,728 @@ page_range(
         "principle of honest, unexpanded elision.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 12.82 — Satthusutta
+# --------------------------------------------------------------------------- #
+page(
+    12, 82, "Satthu", "The Teacher",
+    meta_title="SN 12.82 — The Teacher | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Satthusutta — opening Antarapeyyāla, not knowing old "
+        "age and death firsthand is itself the reason to seek a "
+        "teacher, the first of twelve motivating attitudes this "
+        "chapter runs through the whole chain. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single fourfold statement, applied to one link, "
+                 "with an explicit editorial note that the pattern "
+                 "should be told in full for everything that follows"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief, opening a chapter built "
+                       "entirely from short, repeated formulas"),
+    ],
+    why=(
+        "This discourse opens Antarapeyyāla &mdash; \"the "
+        "abbreviation series in between\" &mdash; the chapter "
+        "closing Nidānasaṃyutta, built from twelve short attitudes "
+        "toward practice, each run mechanically through all eleven "
+        "links of the chain. The first of these twelve is simple: "
+        "not knowing or seeing old age and death, its origin, its "
+        "cessation, and the path to its cessation, is itself the "
+        "reason to go seek a teacher who can supply that knowledge. "
+        "What makes this brief discourse worth pausing on is its own "
+        "closing instruction, preserved by the source itself: \"all "
+        "the abbreviated texts should be told in full\" &mdash; an "
+        "explicit acknowledgment that everything compressed in the "
+        "pages that follow was originally meant to be spoken out "
+        "completely, not merely implied."),
+    guide=[
+        ("Not knowing as its own motivation", [
+            "The discourse doesn't frame ignorance of old age and "
+            "death as a failing to be corrected through willpower "
+            "alone; it frames that same not-knowing as the precise "
+            "reason to go seek out someone who does know &mdash; a "
+            "teacher &mdash; making the gap itself the practical "
+            "starting point."]),
+        ("The first of twelve motivating attitudes", [
+            "Across this entire chapter, twelve short attitudes "
+            "toward practice are each run through all eleven links "
+            "of the chain in turn; seeking a teacher is the first of "
+            "these twelve, with training, meditation, enthusiasm, "
+            "vigorous effort, and eight further attitudes to follow."]),
+        ("A single link standing in for the whole chain", [
+            "This discourse itself covers only old age and death, "
+            "in full fourfold detail; the remaining ten links, from "
+            "rebirth back to choices, are covered by SN 12.83 "
+            "through SN 12.92, a merged set of ten immediately "
+            "following this discourse."]),
+        ("An explicit note on how to read everything that follows", [
+            "\"All the abbreviated texts should be told in full\" "
+            "isn't decorative; it's a direct instruction from the "
+            "source confirming that the extreme compression used "
+            "throughout the rest of this chapter represents a "
+            "deliberate recitation convention, not a judgment that "
+            "the material itself is less complete or less "
+            "important."]),
+        ("A quiet hinge before the chapter's largest block", [
+            "Brief as it is, this discourse sets up the scale of "
+            "what follows: twelve attitudes times eleven links "
+            "produces a hundred and thirty-two discourses total "
+            "across this one chapter, almost all of them compressed "
+            "down to a single phrase in the source, exactly as this "
+            "discourse's own closing note anticipates."]),
+    ],
+    terms=[
+        ("jarāmaraṇaṁ&hellip; ajānatā apassatā yathābhūtaṁ",
+         "&ldquo;one who does not truly know or see old age and "
+         "death&rdquo; &mdash; the condition that motivates seeking "
+         "a teacher, named for each of the four aspects in turn."),
+        ("yathābhūtaṁ ñāṇāya satthā pariyesitabbo",
+         "&ldquo;should seek the Teacher so as to truly know&rdquo; "
+         "&mdash; the discourse's single recurring instruction, "
+         "repeated for old age and death, its origin, its cessation, "
+         "and the path to its cessation."),
+        ("jarāmaraṇanirodhagāminiṁ paṭipadaṁ ajānatā apassatā&hellip; "
+         "satthā pariyesitabbo",
+         "&ldquo;one who does not truly know or see the practice "
+         "that leads to the cessation of old age and death should "
+         "seek the Teacher&rdquo; &mdash; the fourth and final "
+         "application within this single link."),
+        ("(suttanto eko.)",
+         "&ldquo;(one discourse.)&rdquo; &mdash; the source's own "
+         "editorial note marking this as a single, self-contained "
+         "teaching before the compressed material that follows."),
+        ("(sabbesaṁ peyyālo evaṁ vitthāretabbo.)",
+         "&ldquo;(all the abbreviated texts should be told in "
+         "full.)&rdquo; &mdash; an explicit instruction confirming "
+         "the compression throughout this chapter is a recitation "
+         "convention, not a judgment of lesser importance."),
+    ],
+    text_intro=(
+        "The discourse in full, opening Antarapeyyāla. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn12.82:1.1-1.5"),
+        ("p", "&sect;2", "sn12.82:1.6-1.8"),
+    ],
+    quiz=[
+        {"q": "What does this discourse say not knowing or seeing old age and death should motivate?",
+         "opts": [
+             "Seeking a teacher, so as to truly know it",
+             "Abandoning the spiritual path entirely",
+             "Waiting passively for understanding to arise on its own",
+             "Debating the matter publicly with other ascetics"],
+         "correct": 0,
+         "expl": "Not-knowing itself framed as the practical starting point, not a failure to overcome alone."},
+        {"q": "How many attitudes toward practice structure this entire chapter, each run through all eleven links?",
+         "opts": [
+             "Twelve",
+             "Four",
+             "Two",
+             "One hundred"],
+         "correct": 0,
+         "expl": "Seeking a teacher is the first of twelve, with training, meditation, and further attitudes to follow."},
+        {"q": "How many of the eleven links does this particular discourse cover?",
+         "opts": [
+             "One — old age and death, in full fourfold detail",
+             "All eleven links",
+             "Ten links, excluding old age and death",
+             "None; the discourse is purely introductory"],
+         "correct": 0,
+         "expl": "The remaining ten links are covered by the merged set SN 12.83 through SN 12.92."},
+        {"q": "What does the discourse's closing note, \"all the abbreviated texts should be told in full,\" confirm?",
+         "opts": [
+             "That the extreme compression used later in this chapter is a recitation convention, not reduced content",
+             "That the rest of this chapter should be skipped entirely",
+             "That only this single discourse matters in the whole chapter",
+             "That the compressed material contradicts this discourse"],
+         "correct": 0,
+         "expl": "A direct instruction from the source about how to read what follows."},
+        {"q": "How many total discourses does this chapter's structure of twelve attitudes times eleven links produce?",
+         "opts": [
+             "One hundred and thirty-two",
+             "Twelve",
+             "Eleven",
+             "One thousand"],
+         "correct": 0,
+         "expl": "Twelve attitudes, eleven links each, almost all compressed to a single phrase in the source."},
+        {"q": "What chapter does this discourse open?",
+         "opts": [
+             "Antarapeyyāla, \"the abbreviation series in between\"",
+             "Mahāvagga",
+             "Dukkhavagga",
+             "Gahapativagga"],
+         "correct": 0,
+         "expl": "The ninth and final chapter of Nidānavagga, closing Nidānasaṃyutta."},
+        {"q": "What are the four aspects of old age and death this discourse applies its instruction to?",
+         "opts": [
+             "Old age and death itself, its origin, its cessation, and the practice leading to that cessation",
+             "Its cause, its color, its duration, and its location",
+             "Only its origin and cessation, with no other aspects",
+             "The discourse names no specific aspects"],
+         "correct": 0,
+         "expl": "The same fourfold structure used throughout this saṃyutta's ascetic-and-brahmin tests."},
+        {"q": "What editorial note does this discourse's source text include, marking it as complete in itself?",
+         "opts": [
+             "\"(One discourse.)\"",
+             "\"(This teaching is incomplete.)\"",
+             "\"(To be continued in the next chapter.)\"",
+             "No such note appears"],
+         "correct": 0,
+         "expl": "A brief marker distinguishing this from the merged, multi-discourse pages that follow."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Sāriputta",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visiting figure appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with much of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Not knowing, itself a starting point", [
+            "the gap becomes the reason to seek &mdash;",
+            "not a failure, but a direction",
+        ]),
+        ("First of twelve attitudes", [
+            "seek a teacher, then train, then more &mdash;",
+            "each run through the whole chain",
+        ]),
+        ("One link now, ten more to follow", [
+            "old age and death alone, in full &mdash;",
+            "the rest compressed on the next page",
+        ]),
+        ("A note explaining the silence ahead", [
+            "\"should be told in full\" &mdash;",
+            "compression as convention, not omission",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.82/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-12.72-81.html">SN 12.72&ndash;81 &middot; A Set of Ten on Rebirth, Etc.</a> '
+        "&mdash; the discourse closing Samaṇabrāhmaṇavagga, "
+        "immediately before this one.",
+        '<a href="sn-12.83-92.html">SN 12.83&ndash;92 &middot; The Teacher (2nd)</a> '
+        "&mdash; the next page, running this same instruction "
+        "through the remaining ten links.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.83–92 — Dutiyasatthusuttādidasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    12, 83, 92, "Dutiyasatthusuttādidasaka", "The Teacher (2nd)",
+    meta_title="SN 12.83–92 — The Teacher (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 12.83 through "
+        "12.92 — ten discourses, preserved in the source as a single "
+        "peyyāla block, running SN 12.82's seek-the-Teacher "
+        "instruction through the remaining ten links of the chain. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Ten discourses compressed by bilara-data into a "
+                 "single file, each an elided one-line application "
+                 "of SN 12.82's instruction to a further link"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; ten discourses of pure elided "
+                       "repetition, read here honestly as such"),
+    ],
+    why=(
+        "SN 12.82 taught that not knowing or seeing old age and "
+        "death, its origin, cessation, and the path to that "
+        "cessation, is itself reason to seek out a teacher. These "
+        "ten discourses run that identical instruction through the "
+        "rest of the chain, one link at a time: rebirth, continued "
+        "existence, grasping, craving, feeling, contact, the six "
+        "sense fields, name and form, consciousness, and choices. "
+        "Bilara-data preserves nine of these ten as a single elided "
+        "line naming only the link in question, and gives the tenth "
+        "&mdash; choices &mdash; in its complete fourfold form, "
+        "exactly the pattern already seen in SN 12.72 through "
+        "12.81's identical structure earlier in this book. Together "
+        "with SN 12.82, this completes the first of this chapter's "
+        "twelve motivating attitudes, applied now to the whole "
+        "eleven-link chain."),
+    guide=[
+        ("Completing the chain SN 12.82 began", [
+            "SN 12.82 covered only old age and death; these ten "
+            "discourses supply the remaining ten links, so that "
+            "together the two pages give the seek-the-Teacher "
+            "instruction its full run across the entire chain, "
+            "exactly as SN 12.82's own closing note anticipated."]),
+        ("The same elision pattern already established", [
+            "Nine of these ten links are compressed to a bare named "
+            "phrase, leaving the reader to supply the full "
+            "\"one who does not truly know or see X&hellip; should "
+            "seek the Teacher\" structure from SN 12.82, precisely "
+            "how SN 12.5 through 12.9 and SN 12.72 through 12.81 "
+            "handled comparable compression earlier in this book."]),
+        ("Choices given in full, closing the set", [
+            "As in SN 12.72 through 12.81, the final link in this "
+            "set, choices, is spelled out with its complete fourfold "
+            "formula rather than left as a stub, marking the close "
+            "of this particular set of eleven discourses (SN 12.82 "
+            "plus this page's ten) with the same structural signal "
+            "used before."]),
+        ("A note on method, not merely a formula", [
+            "The closing instruction \"all should be treated "
+            "according to the four truths\" makes explicit what the "
+            "elision assumes: origin, cessation, and path aren't "
+            "incidental details tacked onto each link, but the "
+            "structural lens &mdash; the four truths themselves "
+            "&mdash; through which every link in this chain is meant "
+            "to be examined."]),
+        ("The first of twelve themes, now complete", [
+            "With this page, the \"seek the Teacher\" theme has now "
+            "been run through all eleven links, completing the first "
+            "of this chapter's twelve motivating attitudes before "
+            "the next theme, training, begins the same eleven-link "
+            "sequence again in SN 12.93 through 12.103."]),
+    ],
+    terms=[
+        ("dutiyasatthusuttādidasaka",
+         "&ldquo;the second teacher-discourse set of ten&rdquo; "
+         "&mdash; the source's own name for this block, marking it "
+         "as SN 12.82's direct continuation."),
+        ("jātiṁ, bhikkhave, ajānatā apassatā yathābhūtaṁ",
+         "&ldquo;mendicants, one who does not truly know or see "
+         "rebirth&rdquo; &mdash; the first of the nine links given "
+         "as a bare stub."),
+        ("vedanaṁ, bhikkhave, ajānatā apassatā yathābhūtaṁ",
+         "&ldquo;one who does not truly know or see feeling&rdquo; "
+         "&mdash; another of the nine, compressed identically."),
+        ("saṅkhāre, bhikkhave, ajānatā apassatā yathābhūtaṁ "
+         "saṅkhāresu yathābhūtaṁ ñāṇāya satthā pariyesitabbo",
+         "&ldquo;one who does not truly know or see choices should "
+         "seek the Teacher so as to truly know choices&rdquo; "
+         "&mdash; the tenth and final link, given in full rather "
+         "than stubbed like the other nine."),
+        ("(sabbesaṁ catusaccikaṁ kātabbaṁ.)",
+         "&ldquo;(all should be treated according to the four "
+         "truths.)&rdquo; &mdash; the closing instruction naming "
+         "the structural lens &mdash; origin, cessation, path "
+         "&mdash; every link in this set is meant to be examined "
+         "through."),
+    ],
+    text_intro=(
+        "The full text of all ten discourses, exactly as elided in "
+        "the source. Each stub implies SN 12.82's complete sentence "
+        "structure, not reproduced here since the source itself "
+        "doesn't reproduce it. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; SN 12.83", "sn12.83:1.1-1.1"),
+        ("p", "&sect;2 &middot; SN 12.84", "sn12.84:1.1-1.1"),
+        ("p", "&sect;3 &middot; SN 12.85", "sn12.85:1.1-1.1"),
+        ("p", "&sect;4 &middot; SN 12.86", "sn12.86:1.1-1.1"),
+        ("p", "&sect;5 &middot; SN 12.87", "sn12.87:1.1-1.1"),
+        ("p", "&sect;6 &middot; SN 12.88", "sn12.88:1.1-1.1"),
+        ("p", "&sect;7 &middot; SN 12.89", "sn12.89:1.1-1.1"),
+        ("p", "&sect;8 &middot; SN 12.90", "sn12.90:1.1-1.1"),
+        ("p", "&sect;9 &middot; SN 12.91", "sn12.91:1.1-1.1"),
+        ("p", "&sect;10 &middot; SN 12.92", "sn12.92:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What instruction do these ten discourses apply, one link at a time?",
+         "opts": [
+             "SN 12.82's seek-the-Teacher instruction, already applied there to old age and death alone",
+             "An entirely new instruction not found in SN 12.82",
+             "A test of monastic rank",
+             "A test of correct Pali grammar"],
+         "correct": 0,
+         "expl": "The same instruction run through the remaining ten links of the chain."},
+        {"q": "How does the source preserve most of these ten discourses?",
+         "opts": [
+             "As a single elided line naming only the link in question",
+             "As ten complete, independently written accounts",
+             "As ten verses composed specifically for this set",
+             "As a dialogue with ten separate speakers"],
+         "correct": 0,
+         "expl": "Trusting the reader to supply SN 12.82's full structure around each bare name."},
+        {"q": "Which link among the ten is given in full rather than as a bare stub?",
+         "opts": [
+             "Choices, the tenth and final link in this set",
+             "Rebirth, the first link in this set",
+             "Feeling",
+             "None of the ten links is given in full"],
+         "correct": 0,
+         "expl": "The same structural signal used at the close of SN 12.72 through 12.81."},
+        {"q": "What does this page complete, together with SN 12.82?",
+         "opts": [
+             "The \"seek the Teacher\" theme's full run across all eleven links",
+             "The entire Antarapeyyāla chapter",
+             "A completely unrelated teaching",
+             "Nothing; this page stands alone with no connection to SN 12.82"],
+         "correct": 0,
+         "expl": "The first of this chapter's twelve motivating attitudes, now complete."},
+        {"q": "What does the closing instruction \"all should be treated according to the four truths\" clarify?",
+         "opts": [
+             "That origin, cessation, and path are the structural lens every link is meant to be examined through",
+             "That only four of the eleven links matter",
+             "That the four truths are unrelated to this set of discourses",
+             "That this set should be read only four times"],
+         "correct": 0,
+         "expl": "Making explicit what the elision throughout this set assumes."},
+        {"q": "What theme begins next, once this page's \"seek the Teacher\" sequence is complete?",
+         "opts": [
+             "Training, run through the same eleven links starting at SN 12.93",
+             "The chapter ends here with no further themes",
+             "The same \"seek the Teacher\" theme repeats a third time",
+             "A return to the ascetic-and-brahmin test from the previous chapter"],
+         "correct": 0,
+         "expl": "The second of this chapter's twelve motivating attitudes."},
+        {"q": "Where does this set of discourses fit relative to SN 12.72 through 12.81's compression pattern?",
+         "opts": [
+             "It follows the identical pattern — nine stubs, one link spelled out in full at the close",
+             "It uses a completely different compression scheme",
+             "It contains no compression at all",
+             "It compresses even the final link into a stub"],
+         "correct": 0,
+         "expl": "The same editorial approach applied consistently across this book's merged pages."},
+        {"q": "What is this set's own name in the source?",
+         "opts": [
+             "\"The second teacher-discourse set of ten\"",
+             "\"The final teaching on death\"",
+             "\"Ten discourses on brahmins alone\"",
+             "The source gives this set no name"],
+         "correct": 0,
+         "expl": "Marking it explicitly as SN 12.82's direct continuation."},
+        {"q": "Does the underlying claim change from link to link across these ten discourses?",
+         "opts": [
+             "No — only which phenomenon is being tested changes, not the claim itself",
+             "Yes, each link receives a substantively different teaching",
+             "Yes, the later links reverse the position taken in the earlier ones",
+             "The discourses don't share any common claim at all"],
+         "correct": 0,
+         "expl": "The same template applied consistently across all eleven links."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with SN 12.82 and much of this saṃyutta."},
+    ],
+    marginalia=[
+        ("Ten discourses, one shared sentence", [
+            "each stub implying SN 12.82's shape &mdash;",
+            "elided, not rewritten in full",
+        ]),
+        ("One link spelled out among nine stubs", [
+            "choices given its complete formula &mdash;",
+            "the same signal seen before, at 72&ndash;81",
+        ]),
+        ("A lens named explicitly", [
+            "origin, cessation, path &mdash;",
+            "the four truths underneath every link",
+        ]),
+        ("One theme finished, eleven still to come", [
+            "seek the Teacher, now complete &mdash;",
+            "training begins the sequence again",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.83/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation of SN 12.83 on SuttaCentral</a> &mdash; "
+        "with Pāli alongside, segment by segment; SN 12.84 through "
+        "12.92 can be reached from the same site's navigation."
+        % SC,
+        '<a href="sn-12.82.html">SN 12.82 &middot; The Teacher</a> '
+        "&mdash; the discourse immediately before this set, giving "
+        "the full sentence structure these ten discourses elide.",
+        '<a href="sn-12.93-213.html">SN 12.93&ndash;213 &middot; Sets of Eleven on Training, Etc.</a> '
+        "&mdash; the next page, closing this chapter and the entire "
+        "saṃyutta with eleven further themes run through the same "
+        "chain.",
+    ],
+)
+
+# --------------------------------------------------------------------------- #
+# SN 12.93–213 — Sikkhāsuttādipeyyālaekādasaka
+# --------------------------------------------------------------------------- #
+page_range(
+    12, 93, 213, "Sikkhāsuttādipeyyālaekādasaka", "Sets of Eleven on Training, Etc.",
+    meta_title="SN 12.93–213 — Sets of Eleven on Training, Etc. | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide and full English text for SN 12.93 through "
+        "12.213 — 121 discourses compressed by the source into eleven "
+        "phrases, eleven further motivating attitudes run through the "
+        "whole chain, closing Antarapeyyāla and the entire "
+        "Nidānasaṃyutta with its one translated colophon. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Eleven further motivating attitudes, each "
+                 "compressed by bilara-data to a single phrase, each "
+                 "implicitly run through all eleven links exactly as "
+                 "SN 12.82 and SN 12.83&ndash;92 modeled in full"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the most compressed page in this "
+                       "entire book, closing on its single most "
+                       "consequential line"),
+    ],
+    why=(
+        "This page holds the largest concentration of discourses "
+        "anywhere in this saṃyutta: 121 of them, numbered "
+        "consecutively from SN 12.93 to SN 12.213, compressed by "
+        "bilara-data into just eleven short phrases. Having already "
+        "modeled \"seek the Teacher\" in full across SN 12.82 and SN "
+        "12.83 through 92, the source trusts the reader to supply the "
+        "same eleven-link structure eleven more times, swapping in a "
+        "new motivating attitude each time: train, practice "
+        "meditation, rouse up enthusiasm, try vigorously, persevere, "
+        "be keen, rouse up energy, persist, be mindful, use "
+        "situational awareness, be diligent. Rather than manufacture "
+        "121 individually written pages the source itself never "
+        "provides, this reading guide follows the same principle "
+        "used earlier in this book for SN 12.5 through 12.9 and SN "
+        "12.72 through 12.81, presenting all eleven phrases together, "
+        "honestly, on a single page &mdash; a page that also happens "
+        "to close with the one sentence in this entire saṃyutta's "
+        "closing material that survives translation: \"The Linked "
+        "Discourses on causality are complete.\""),
+    guide=[
+        ("A checklist of attitudes, not a checklist of arguments", [
+            "Read together rather than as isolated mechanical stubs, "
+            "the eleven motivating attitudes on this page form a "
+            "coherent practical sequence &mdash; find a teacher, "
+            "train, meditate, want it, push hard, don't quit, be "
+            "ardent, be energetic, keep at it, stay aware, be "
+            "diligent &mdash; less a set of separate doctrines than "
+            "a single attitude toward practice, restated eleven "
+            "different ways."]),
+        ("The same eleven-link structure, trusted rather than repeated", [
+            "None of these eleven phrases spells out the full "
+            "sentence &mdash; not knowing a given link, therefore "
+            "this attitude is called for, run through all eleven "
+            "links &mdash; because SN 12.82 and SN 12.83 through 92 "
+            "already modeled that structure completely; the source "
+            "assumes the reader carries it forward rather than "
+            "restating it 121 more times."]),
+        ("A scale comparable to, but smaller than, this project's largest known compression", [
+            "121 discourses is a genuinely large block, but it "
+            "remains considerably smaller than the roughly five "
+            "hundred consecutive discourses of near-identical wording "
+            "compressed in this collection's companion project on "
+            "the Aṅguttara Nikāya, and the underlying editorial "
+            "judgment is the same in both cases: honor genuine "
+            "elision as elision."]),
+        ("The chapter's own close, marked but left untranslated", [
+            "The source's Pali closes this chapter with two "
+            "colophons of its own &mdash; one naming Antarapeyyāla "
+            "complete, one summarizing its twelve attitudes and their "
+            "total discourse count &mdash; and closes this book's "
+            "ninth and final chapter with its own uddāna; none of "
+            "this material is translated, and none of it is quoted "
+            "here."]),
+        ("One sentence that survives translation, closing everything", [
+            "Immediately after that untranslated material, a single "
+            "line is translated: &ldquo;the Linked Discourses on "
+            "causality are complete&rdquo; &mdash; not merely this "
+            "chapter's close but Nidānasaṃyutta's own, the formal end "
+            "of all 213 discourses making up the whole book this "
+            "series has been working through since SN 12.3, and the "
+            "only closing line in this entire saṃyutta's final "
+            "material given in English at all."]),
+    ],
+    terms=[
+        ("jarāmaraṇaṁ, bhikkhave, ajānatā apassatā yathābhūtaṁ "
+         "jarāmaraṇe yathābhūtaṁ ñāṇāya sikkhā karaṇīyā",
+         "&ldquo;one who does not truly know or see old age and "
+         "death should train so as to truly know old age and "
+         "death&rdquo; &mdash; the first of eleven attitudes, given "
+         "in its one fully spelled-out instance."),
+        ("yogo karaṇīyo&hellip; chando karaṇīyo&hellip; ussoḷhī "
+         "karaṇīyā&hellip; sati karaṇīyā",
+         "&ldquo;practice meditation&hellip; rouse up "
+         "enthusiasm&hellip; try vigorously&hellip; be mindful&rdquo; "
+         "&mdash; four of the eleven attitudes, each compressed to a "
+         "single verb."),
+        ("appamādo karaṇīyo",
+         "&ldquo;be diligent&rdquo; &mdash; the eleventh and final "
+         "attitude, closing the whole sequence of twelve begun back "
+         "in SN 12.82."),
+        ("sikkhāsuttādipeyyālaekādasaka",
+         "&ldquo;the elided set of eleven beginning with the "
+         "training discourse&rdquo; &mdash; the source's own name "
+         "for this block, naming it by its first member."),
+        ("nidānasaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses on causality are "
+         "complete&rdquo; &mdash; the single translated line closing "
+         "this entire saṃyutta, all 213 discourses from SN 12.1 "
+         "through SN 12.213."),
+    ],
+    text_intro=(
+        "The full text of all eleven abbreviated blocks, exactly as "
+        "elided in the source, closing this page with the single "
+        "line of closing material that is translated. Each stub "
+        "implies the same eleven-link structure spelled out in full "
+        "in SN 12.82 and SN 12.83&ndash;92, not reproduced here since "
+        "the source itself doesn't reproduce it. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1 &middot; SN 12.93&ndash;103", "sn12.93-103:1.1-1.1"),
+        ("p", "&sect;2 &middot; SN 12.104&ndash;114", "sn12.104-114:1.1-1.2"),
+        ("p", "&sect;3 &middot; SN 12.115&ndash;125", "sn12.115-125:1.1-1.2"),
+        ("p", "&sect;4 &middot; SN 12.126&ndash;136", "sn12.126-136:1.1-1.2"),
+        ("p", "&sect;5 &middot; SN 12.137&ndash;147", "sn12.137-147:1.1-1.2"),
+        ("p", "&sect;6 &middot; SN 12.148&ndash;158", "sn12.148-158:1.1-1.2"),
+        ("p", "&sect;7 &middot; SN 12.159&ndash;169", "sn12.159-169:1.1-1.2"),
+        ("p", "&sect;8 &middot; SN 12.170&ndash;180", "sn12.170-180:1.1-1.2"),
+        ("p", "&sect;9 &middot; SN 12.181&ndash;191", "sn12.181-191:1.1-1.2"),
+        ("p", "&sect;10 &middot; SN 12.192&ndash;202", "sn12.192-202:1.1-1.2"),
+        ("p", "&sect;11 &middot; SN 12.203&ndash;213", "sn12.203-213:1.1-3.6"),
+    ],
+    quiz=[
+        {"q": "How many discourses does this single page compress, and into how many phrases?",
+         "opts": [
+             "121 discourses, compressed into eleven short phrases",
+             "Eleven discourses, compressed into one phrase",
+             "121 discourses, each given its own full page",
+             "Twelve discourses, matching the twelve attitudes"],
+         "correct": 0,
+         "expl": "The largest concentration of discourses anywhere in this saṃyutta, on a single page."},
+        {"q": "Why doesn't this reading guide expand these 121 discourses into 121 separate pages?",
+         "opts": [
+             "To honor the source's genuine elision as elision, following the same principle as SN 12.5–9 and SN 12.72–81",
+             "Because bilara-data forbids splitting merged files under any circumstances",
+             "Because these discourses are considered unimportant",
+             "Because no translation exists for any of this material"],
+         "correct": 0,
+         "expl": "A consistent editorial principle applied across this book's merged pages."},
+        {"q": "What structure does each of the eleven phrases on this page implicitly carry, without restating it?",
+         "opts": [
+             "The full eleven-link sentence structure already modeled in SN 12.82 and SN 12.83–92",
+             "An entirely new structure unrelated to earlier pages",
+             "No structure at all; the phrases are freestanding",
+             "A structure found only in the Aṅguttara Nikāya"],
+         "correct": 0,
+         "expl": "The source trusts the reader to carry the established pattern forward."},
+        {"q": "What is the eleventh and final motivating attitude in this sequence?",
+         "opts": [
+             "\"Be diligent\" (appamādo karaṇīyo)",
+             "\"Seek the Teacher\"",
+             "\"Abandon all effort\"",
+             "\"Recite the scriptures daily\""],
+         "correct": 0,
+         "expl": "Closing the full sequence of twelve attitudes begun in SN 12.82."},
+        {"q": "What single sentence survives translation in this page's closing material?",
+         "opts": [
+             "\"The Linked Discourses on causality are complete\"",
+             "A full English rendering of the chapter's own uddāna",
+             "A complete translation of both closing colophons",
+             "No sentence in the closing material is translated"],
+         "correct": 0,
+         "expl": "The one line of closing material given in English, marking a major structural milestone."},
+        {"q": "What does that one translated sentence actually mark?",
+         "opts": [
+             "The completion of the entire Nidānasaṃyutta — all 213 discourses from SN 12.1 through SN 12.213",
+             "Only the completion of this single page",
+             "The completion of the entire Saṃyutta Nikāya",
+             "Nothing of structural significance"],
+         "correct": 0,
+         "expl": "The formal close of the whole book this series has worked through since SN 12.3."},
+        {"q": "How does this page's scale of compression compare to the largest compression in this collection's companion Aṅguttara Nikāya project?",
+         "opts": [
+             "Smaller — roughly 121 discourses here versus roughly five hundred there",
+             "Larger — this page compresses more discourses than any Aṅguttara block",
+             "Identical in scale in both cases",
+             "The two projects have never used comparable compression"],
+         "correct": 0,
+         "expl": "A genuinely large block, but not the largest example of this editorial principle across the two projects."},
+        {"q": "How does this reading guide characterize the eleven attitudes when read together, rather than as isolated stubs?",
+         "opts": [
+             "As a coherent practical sequence — one attitude toward practice restated eleven different ways",
+             "As eleven unrelated, contradictory teachings",
+             "As a list with no discernible internal logic",
+             "As eleven separate doctrines requiring separate practice"],
+         "correct": 0,
+         "expl": "Find a teacher, train, meditate, want it, push hard, don't quit, and so on, forming one throughline."},
+        {"q": "Are the chapter's own closing colophon and its uddāna translated in the source?",
+         "opts": [
+             "No — neither is translated, and neither is quoted in this reading guide",
+             "Yes, both are fully translated and quoted here",
+             "Only the uddāna is translated",
+             "Only the colophon is translated"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this saṃyutta."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "Near Vesālī",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The consistent setting shared with SN 12.82, SN 12.83–92, and much of this saṃyutta."},
+    ],
+    marginalia=[
+        ("A checklist, not a pile of stubs", [
+            "teacher, training, meditation, effort &mdash;",
+            "one attitude, said eleven ways",
+        ]),
+        ("Structure trusted, not repeated", [
+            "the same eleven links, unstated &mdash;",
+            "carried forward from the pages before",
+        ]),
+        ("Large, but not the largest", [
+            "121 discourses on one page &mdash;",
+            "smaller than this project's biggest block",
+        ]),
+        ("One sentence that survives", [
+            "\"the Linked Discourses on causality are complete\" &mdash;",
+            "213 discourses, closed on a single line",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn12.93/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation of SN 12.93 on SuttaCentral</a> &mdash; "
+        "with Pāli alongside, segment by segment; the remaining "
+        "blocks through SN 12.213 can be reached from the same "
+        "site's navigation."
+        % SC,
+        '<a href="sn-12.83-92.html">SN 12.83&ndash;92 &middot; The Teacher (2nd)</a> '
+        "&mdash; the page immediately before this one.",
+        '<a href="sn-12.72-81.html">SN 12.72&ndash;81 &middot; A Set of Ten on Rebirth, Etc.</a> '
+        "&mdash; the earlier page in this book following the same "
+        "principle of honest, unexpanded elision.",
+    ],
+)
