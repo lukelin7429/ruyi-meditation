@@ -16,7 +16,7 @@ INDEX_HEADING = "II. Nidānavagga — The Book of Causation"
 # moved forward as later vaggas are completed, exactly as sn_content_01.py's
 # TAIL was moved across the course of Book I.
 HEAD = ("sn-12.2.html", "SN 12.2 &middot; Analysis")
-TAIL = ("sn-15.3.html", "SN 15.3 &middot; Tears")
+TAIL = ("sn-22.1.html", "SN 22.1 &middot; Nakula&rsquo;s Father")
 # SN 12.15 (Kaccānagotta) is a pre-existing page sitting between this
 # module's SN 12.14 and SN 12.16 (confirmed by Āhāravagga's own closing
 # uddāna, which lists it fifth of ten); it is not itself in PAGES, so
@@ -36,9 +36,17 @@ TAIL = ("sn-15.3.html", "SN 15.3 &middot; Tears")
 # to 12.66 (skipping 12.65) -- both junctions need the identical manual
 # re-patch as 12.14/12.16 after every single sn_build.py run: fix 12.60's
 # next and 12.62's prev to route through 12.61, and fix 12.64's next and
-# 12.66's prev to route through 12.65. TAIL is now sn-15.3.html rather
-# than sn-12.61.html, since 12.61 no longer sits at this module's leading
-# edge once Mahāvagga's own new pages are appended.
+# 12.66's prev to route through 12.65.
+#
+# SN 15.3 (Tears) has the SAME fragility as 12.15, once Anamataggasaṃyutta's
+# own pages are appended: it sits between this module's SN 15.2 and SN 15.4
+# (confirmed by Paṭhamavagga's own closing uddāna, third of ten), not itself
+# in PAGES, so every full build routes 15.2 straight to 15.4 (skipping
+# 15.3) -- 15.2's next and 15.4's prev must be manually re-patched to route
+# through 15.3 after every single sn_build.py run, identically to 12.14/16.
+# TAIL is now sn-22.1.html rather than sn-15.3.html, since 15.3 no longer
+# sits at this module's leading edge once Anamataggasaṃyutta's own new
+# pages are appended.
 INDEX_EXTRA = [
     ("sn-12.1", "Paṭiccasamuppāda", "Dependent Origination"),
     ("sn-12.2", "Vibhaṅga", "Analysis"),
@@ -26078,5 +26086,1943 @@ page(
         '<a href="sn-15.1.html">SN 15.1 &middot; Grass and Sticks</a> '
         "&mdash; the first discourse of Anamataggasaṃyutta, this "
         "saṃyutta's next successor in the Nidānavagga.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.1 — Tiṇakaṭṭhasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 1, "Tiṇakaṭṭha", "Grass and Sticks",
+    meta_title="SN 15.1 — Grass and Sticks | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tiṇakaṭṭhasutta — opening Anamataggasaṃyutta, all the "
+        "grass and wood of the known world, cut into four-inch "
+        "pieces for every past mother, would run out first. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The full formal opening (&ldquo;so I have "
+                 "heard&rdquo;), then a refrain, a single vivid "
+                 "parable, the refrain repeated, and a closing "
+                 "exhortation"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "opens a saṃyutta built entirely around one "
+                       "recurring claim and a rotating cast of vivid "
+                       "images"),
+    ],
+    why=(
+        "Opening Anamataggasaṃyutta &mdash; the saṃyutta named for "
+        "anamatagga, &ldquo;without a known beginning&rdquo; &mdash; "
+        "this discourse states the claim the entire collection will "
+        "illustrate again and again: transmigration has no "
+        "discoverable first point, no beginning where beings, "
+        "shrouded by ignorance and bound by craving, first started "
+        "wandering. To make this abstraction vivid, the Buddha "
+        "offers an image: strip every blade of grass, every stick, "
+        "branch, and leaf from the entire known world, chop it all "
+        "into four-inch pieces, and lay each piece down for a "
+        "mother, a grandmother, a great-grandmother. The wood would "
+        "run out long before the mothers did. This single, exact "
+        "measure &mdash; four-inch pieces of every plant on the "
+        "continent &mdash; makes the number of past lives feel real "
+        "rather than merely large."),
+    guide=[
+        ("A full formal opening, unusual for this collection", [
+            "This discourse begins with &ldquo;evaṁ me sutaṁ,&rdquo; "
+            "&ldquo;so I have heard,&rdquo; the complete traditional "
+            "formula marking a discourse's opening &mdash; a fuller "
+            "introduction than the simple &ldquo;at Sāvatthī&rdquo; "
+            "most discourses elsewhere in this collection use, "
+            "appropriate to a saṃyutta's very first page."]),
+        ("Anamatagga, this saṃyutta's own namesake word", [
+            "&ldquo;Anamataggoyaṁ, bhikkhave, saṁsāro,&rdquo; "
+            "&ldquo;this transmigration has no known beginning,&rdquo; "
+            "opens and closes the discourse's central claim, giving "
+            "the whole saṃyutta its name before a single parable is "
+            "told."]),
+        ("A measure exact enough to feel real", [
+            "Rather than simply saying past lives are "
+            "&ldquo;countless,&rdquo; the parable specifies four-inch "
+            "pieces of every plant in Jambudīpa, the known continent "
+            "&mdash; a concrete unit of measurement applied to "
+            "something the discourse then declares still "
+            "insufficient."]),
+        ("Mothers and grandmothers, not a random category", [
+            "The specific relationship named &mdash; every wood "
+            "piece labeled as a past mother, in an unbroken maternal "
+            "line &mdash; makes the claim personal rather than "
+            "abstract; every hearer has necessarily had mothers "
+            "reaching back this same incalculable distance."]),
+        ("A parable meant to produce a specific response", [
+            "The discourse doesn't end with the image itself; it "
+            "closes by naming the intended effect directly &mdash; "
+            "this is &ldquo;quite enough&rdquo; to become "
+            "disillusioned, dispassionate, and freed regarding all "
+            "conditioned things, the template closing line this "
+            "whole saṃyutta will repeat."]),
+    ],
+    terms=[
+        ("anamataggoyaṁ … saṁsāro",
+         "&ldquo;this transmigration has no known beginning&rdquo; "
+         "&mdash; this saṃyutta's own namesake refrain, opening and "
+         "closing this discourse."),
+        ("pubbā koṭi na paññāyati",
+         "&ldquo;no first point is found&rdquo; &mdash; the "
+         "refrain's companion clause, specifying exactly what "
+         "&ldquo;beginningless&rdquo; means: no discoverable origin "
+         "point, not merely a very distant one."),
+        ("jambudīpa",
+         "&ldquo;the Black Plum Tree Land,&rdquo; the known "
+         "continent (roughly the Indian subcontinent in early "
+         "Buddhist geography) &mdash; the entire physical scope of "
+         "this parable's grass and wood."),
+        ("caturaṅgulaṁ ghaṭikaṁ",
+         "&ldquo;four-inch pieces&rdquo; &mdash; the parable's exact "
+         "unit of measure, turning an abstraction into something "
+         "countable."),
+        ("alaṁ nibbindituṁ, alaṁ virajjituṁ, alaṁ vimuccituṁ",
+         "&ldquo;enough to become disillusioned, enough to become "
+         "dispassionate, enough to become freed&rdquo; &mdash; the "
+         "closing exhortation this saṃyutta will repeat after nearly "
+         "every parable."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.1:1.1-1.15"),
+    ],
+    quiz=[
+        {"q": "What does anamatagga, this saṃyutta's namesake word, mean?",
+         "opts": [
+             "\"Without a known beginning\"",
+             "\"Without any end\"",
+             "\"Free from suffering\"",
+             "\"Bound by craving\""],
+         "correct": 0,
+         "expl": "The central claim opening and closing this discourse."},
+        {"q": "What does the parable ask a person to do with all the grass and wood in the known world?",
+         "opts": [
+             "Strip it, gather it, and chop it into four-inch pieces, one for each past mother",
+             "Burn it all in a single great fire",
+             "Plant it all in a single unified forest",
+             "Weigh it against the person's own body"],
+         "correct": 0,
+         "expl": "A concrete, countable measure applied to an otherwise abstract claim."},
+        {"q": "What does the discourse conclude would happen first: the wood running out, or the mothers running out?",
+         "opts": [
+             "The wood would run out before the mothers did",
+             "The mothers would run out before the wood did",
+             "Both would run out at exactly the same moment",
+             "Neither would ever run out"],
+         "correct": 0,
+         "expl": "Illustrating that past lives outnumber even this vast physical measure."},
+        {"q": "What does this discourse's full opening formula (\"so I have heard\") signal?",
+         "opts": [
+             "A fuller traditional introduction, fitting for this saṃyutta's very first page",
+             "That this discourse was spoken by someone other than the Buddha",
+             "That the discourse's content is uncertain or disputed",
+             "Nothing in particular; this formula appears identically in every discourse"],
+         "correct": 0,
+         "expl": "A more complete opening than the simple \"at Sāvatthī\" used elsewhere in this collection."},
+        {"q": "What specific relationship does the parable label each piece of wood with?",
+         "opts": [
+             "A past mother, in an unbroken maternal line",
+             "A past teacher",
+             "A stranger with no relationship to the hearer",
+             "A future rebirth, not a past one"],
+         "correct": 0,
+         "expl": "Making the claim personal, not merely abstract."},
+        {"q": "What response does the discourse say this parable should be \"quite enough\" to produce?",
+         "opts": [
+             "Becoming disillusioned, dispassionate, and freed regarding all conditioned things",
+             "Becoming afraid of nature and the physical world",
+             "Becoming devoted to accumulating merit through donations of wood",
+             "No specific response is named"],
+         "correct": 0,
+         "expl": "The template closing line this saṃyutta will repeat after nearly every parable."},
+        {"q": "What two things does the discourse say beings are shrouded and bound by, while transmigrating?",
+         "opts": [
+             "Ignorance and craving",
+             "Wealth and poverty",
+             "Youth and old age",
+             "Praise and blame"],
+         "correct": 0,
+         "expl": "Avijjā and taṇhā, named in the opening refrain."},
+        {"q": "What geographic scope does the parable's grass and wood cover?",
+         "opts": [
+             "Jambudīpa, the entire known continent",
+             "Only Sāvatthī and its immediate surroundings",
+             "The entire physical universe, including other world systems",
+             "No specific geographic scope is given"],
+         "correct": 0,
+         "expl": "Roughly the Indian subcontinent in early Buddhist geography."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new saṃyutta."},
+    ],
+    marginalia=[
+        ("A word that names an entire saṃyutta", [
+            "anamatagga, &ldquo;no known beginning&rdquo; &mdash;",
+            "stated here before a single parable is told",
+        ]),
+        ("Every leaf, every stick, cut to one measure", [
+            "four-inch pieces, one per mother &mdash;",
+            "a number made countable, not left abstract",
+        ]),
+        ("The forest runs out; the mothers don't", [
+            "the whole known world reduced to pieces &mdash;",
+            "still fewer than one person's ancestral line",
+        ]),
+        ("A parable aimed at a specific response", [
+            "not just wonder, but release &mdash;",
+            "disillusioned, dispassionate, freed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.1/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.39.html">SN 14.39 &middot; Ascetics and Brahmins (3rd)</a> '
+        "&mdash; the discourse closing Dhātusaṃyutta, immediately "
+        "before this one.",
+        '<a href="sn-15.2.html">SN 15.2 &middot; The Earth</a> '
+        "&mdash; the next discourse, the same claim illustrated with "
+        "a different vast measure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.2 — Pathavīsutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 2, "Pathavī", "The Earth",
+    meta_title="SN 15.2 — The Earth | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pathavīsutta — the whole earth rolled into jujube-seed-"
+        "sized clay balls, one for each past father, would still run "
+        "out first. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same refrain-parable-refrain-exhortation "
+                 "template as SN 15.1, with a new image and the "
+                 "paternal line in place of the maternal one"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a direct companion to SN 15.1, worth reading "
+                       "immediately after it"),
+    ],
+    why=(
+        "This discourse repeats SN 15.1's exact structure with a new "
+        "image: roll the entire earth into clay balls the size of "
+        "jujube seeds, and lay each one down for a father, a "
+        "grandfather, a great-grandfather. The whole earth would run "
+        "out before the paternal line did. Where SN 15.1 used the "
+        "known continent's plant matter to count mothers, this "
+        "discourse uses the planet itself, reduced to a much finer "
+        "unit &mdash; a jujube seed being considerably smaller than "
+        "a four-inch stick &mdash; to count fathers, extending the "
+        "same beginningless-transmigration claim to the paternal side "
+        "of the family line."),
+    guide=[
+        ("A direct structural twin of SN 15.1", [
+            "Every element of this discourse's shape &mdash; opening "
+            "refrain, single parable, closing refrain, standard "
+            "exhortation &mdash; matches SN 15.1 precisely; only the "
+            "specific image and relationship named have changed."]),
+        ("A finer unit than SN 15.1's, for an even larger mass", [
+            "A jujube seed is considerably smaller than a four-inch "
+            "stick, and the whole earth is a far larger mass than "
+            "plant matter alone &mdash; this discourse's measure is "
+            "simultaneously finer-grained and drawn from something "
+            "vaster."]),
+        ("The paternal line, completing what SN 15.1 began", [
+            "Where SN 15.1 named mothers and grandmothers, this "
+            "discourse names fathers and grandfathers, together "
+            "covering both sides of the family line across this "
+            "saṃyutta's first two discourses."]),
+        ("Brevity as a sign of an established pattern", [
+            "This discourse omits the full &ldquo;so I have "
+            "heard&rdquo; opening SN 15.1 used, returning to the "
+            "simpler &ldquo;at Sāvatthī&rdquo; &mdash; a small but "
+            "clear signal that the reader is now expected to recognize "
+            "the pattern rather than be introduced to it fresh."]),
+        ("A pattern this saṃyutta will vary at least eight more times", [
+            "The refrain-image-refrain-exhortation shape established "
+            "across these first two discourses recurs, with a new "
+            "image substituted each time, through most of the "
+            "remaining discourses in this vagga."]),
+    ],
+    terms=[
+        ("mahāpathaviṁ",
+         "&ldquo;the whole earth&rdquo; &mdash; this discourse's "
+         "title subject and the physical scope of its parable, "
+         "larger than SN 15.1's continent-only measure."),
+        ("kolaṭṭhimattaṁ mattikāguḷikaṁ",
+         "&ldquo;clay balls the size of jujube seeds&rdquo; &mdash; "
+         "the parable's exact, fine-grained unit of measure."),
+        ("pitā, pitāmaha",
+         "&ldquo;father, grandfather&rdquo; &mdash; the paternal "
+         "line this discourse's clay balls are laid down for, "
+         "completing SN 15.1's maternal counterpart."),
+        ("anamataggoyaṁ … saṁsāro",
+         "&ldquo;this transmigration has no known beginning&rdquo; "
+         "&mdash; the same opening and closing refrain as SN 15.1, "
+         "unchanged."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.2:1.1-1.10"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse use, in place of SN 15.1's grass and wood?",
+         "opts": [
+             "The whole earth, rolled into jujube-seed-sized clay balls",
+             "The waters of every river and ocean combined",
+             "Every star visible in the night sky",
+             "Every grain of sand on a single beach"],
+         "correct": 0,
+         "expl": "A new image, following the same structural template as SN 15.1."},
+        {"q": "What relationship does this discourse's clay balls represent, completing SN 15.1's maternal line?",
+         "opts": [
+             "Fathers and grandfathers",
+             "Mothers and grandmothers, identical to SN 15.1",
+             "Siblings",
+             "Teachers and students"],
+         "correct": 0,
+         "expl": "The paternal side, covering the family line SN 15.1 didn't address."},
+        {"q": "How does this discourse's unit of measure compare to SN 15.1's four-inch stick pieces?",
+         "opts": [
+             "Considerably finer-grained, while drawn from an even larger total mass",
+             "Identical in size to SN 15.1's unit",
+             "Much larger, using entire trees rather than small pieces",
+             "This discourse specifies no particular size at all"],
+         "correct": 0,
+         "expl": "A jujube seed is smaller than a four-inch stick, applied to the whole earth rather than just plant matter."},
+        {"q": "What structural element does this discourse omit, compared to SN 15.1?",
+         "opts": [
+             "The full \"so I have heard\" opening formula, using the simpler \"at Sāvatthī\" instead",
+             "The closing exhortation to become disillusioned and free",
+             "The opening anamatagga refrain",
+             "This discourse omits nothing; it is identical to SN 15.1 in every respect"],
+         "correct": 0,
+         "expl": "A signal that the reader now recognizes the established pattern."},
+        {"q": "What does this discourse conclude would run out first: the earth, or the fathers?",
+         "opts": [
+             "The earth would run out before the fathers did",
+             "The fathers would run out before the earth did",
+             "Both would run out simultaneously",
+             "Neither would ever run out"],
+         "correct": 0,
+         "expl": "The same conclusion structure as SN 15.1, applied to the paternal line."},
+        {"q": "How many more times, roughly, does this saṃyutta vary this same refrain-image-refrain-exhortation pattern?",
+         "opts": [
+             "At least eight more times through most of the remaining discourses in this vagga",
+             "Never again; this pattern is unique to SN 15.1 and 15.2",
+             "Exactly once more, in the saṃyutta's final discourse only",
+             "This reading guide makes no claim about later discourses"],
+         "correct": 0,
+         "expl": "A recurring template with a new image substituted each time."},
+        {"q": "What is a jujube seed, in the context this discourse uses it?",
+         "opts": [
+             "A small seed providing this discourse's fine-grained unit of measure",
+             "A type of coin used as currency",
+             "A unit of time, not of size",
+             "A specific kind of stone used in construction"],
+         "correct": 0,
+         "expl": "A genuinely small object, emphasizing how immense the resulting count still is."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this saṃyutta's first vagga."},
+    ],
+    marginalia=[
+        ("A new image, the same exact shape", [
+            "clay balls now, not grass and sticks &mdash;",
+            "the pattern already familiar from SN 15.1",
+        ]),
+        ("Smaller pieces, an even larger mass", [
+            "a jujube seed, not a four-inch stick &mdash;",
+            "the whole earth, not just its plant life",
+        ]),
+        ("Fathers now join the mothers before them", [
+            "both sides of the family line counted &mdash;",
+            "across just these first two discourses",
+        ]),
+        ("A shorter opening, a pattern now assumed", [
+            "no more \"so I have heard\" this time &mdash;",
+            "the reader trusted to recognize the shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.2/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.1.html">SN 15.1 &middot; Grass and Sticks</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "direct structural twin.",
+        '<a href="sn-15.4.html">SN 15.4 &middot; Mother’s Milk</a> '
+        "&mdash; the next new discourse in this vagga (SN 15.3 "
+        "already exists as a published page), continuing the same "
+        "pattern with a different vast measure.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.4 — Khīrasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 4, "Khīra", "Mother's Milk",
+    meta_title="SN 15.4 — Mother's Milk | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Khīrasutta — a question, not a declared parable: which "
+        "is more, the mother's milk you've drunk across countless "
+        "lives, or the water in all four oceans? From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and the assembled mendicants, in "
+                     "direct question and answer"),
+        ("Form", "A question posed to the mendicants, their correct "
+                 "answer, and the Buddha's confirmation"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a genuine dialogue, distinct in form from SN "
+                       "15.1-2's declared parables"),
+    ],
+    why=(
+        "Where SN 15.1 and 15.2 simply declared their measures, this "
+        "discourse asks the mendicants to reason it out themselves: "
+        "which is more, the mother's milk each of them has drunk "
+        "across their own countless past lives, or the water "
+        "contained in all four oceans? The mendicants answer "
+        "correctly without hesitation &mdash; the milk is more "
+        "&mdash; and the Buddha confirms it, praising their "
+        "understanding directly. The measure itself is smaller in "
+        "scale than SN 15.1's continent of wood or SN 15.2's whole "
+        "earth, but no less startling: an ordinary bodily substance, "
+        "consumed daily in infancy, outweighing the largest bodies "
+        "of water known."),
+    guide=[
+        ("A question, not a declaration", [
+            "This is the first discourse in this saṃyutta to ask the "
+            "mendicants to work out the answer themselves, rather "
+            "than simply telling them the conclusion &mdash; a "
+            "genuine dialogue rather than a one-way teaching."]),
+        ("The mendicants answer correctly, unprompted", [
+            "Their response &mdash; &ldquo;the milk we've drunk is "
+            "more than the water in the four oceans&rdquo; &mdash; "
+            "comes immediately and without qualification, and the "
+            "Buddha's reply, &ldquo;good, good,&rdquo; explicitly "
+            "praises their grasp of the teaching."]),
+        ("A smaller-scale image than the discourses before it", [
+            "Neither a whole continent's wood nor an entire planet's "
+            "worth of clay, mother's milk is an ordinary, intimate "
+            "substance &mdash; making the discourse's claim land "
+            "differently, through familiarity rather than sheer "
+            "physical vastness."]),
+        ("The four oceans as a fixed unit of comparison", [
+            "Catūsu mahāsamuddesu, the four oceans, appears here as "
+            "early Buddhist cosmology's standard reference for an "
+            "immense body of water, the natural counterpart to SN "
+            "15.1's continent and SN 15.2's whole earth."]),
+        ("A pattern of Q&A that recurs through this vagga", [
+            "This discourse's question-and-answer structure &mdash; "
+            "distinct from SN 15.1-2's flat declarations &mdash; "
+            "reappears in several of the discourses that follow, "
+            "particularly those asking how long or how numerous "
+            "eons are."]),
+    ],
+    terms=[
+        ("mātuthaññaṁ pītaṁ",
+         "&ldquo;the mother's milk you've drunk&rdquo; &mdash; this "
+         "discourse's title subject and its measure of accumulated "
+         "past lives."),
+        ("catūsu mahāsamuddesu udakaṁ",
+         "&ldquo;the water in the four oceans&rdquo; &mdash; the "
+         "fixed cosmological unit this discourse's milk is measured "
+         "against."),
+        ("taṁ kiṁ maññatha",
+         "&ldquo;what do you think?&rdquo; &mdash; the question "
+         "formula opening this discourse's dialogue, distinct from "
+         "SN 15.1-2's declarative opening."),
+        ("sādhu sādhu",
+         "&ldquo;good, good!&rdquo; &mdash; the Buddha's direct "
+         "praise for the mendicants' correct answer."),
+        ("anamataggoyaṁ … saṁsāro",
+         "&ldquo;this transmigration has no known beginning&rdquo; "
+         "&mdash; the same refrain opening and closing this "
+         "discourse, unchanged from SN 15.1-2."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the refrain's repeated middle clause. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.4:1.1-1.5"),
+        ("p", "&sect;2", "sn15.4:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What question does the Buddha put to the mendicants in this discourse?",
+         "opts": [
+             "Which is more: the mother's milk they've drunk across countless lives, or the water in the four oceans?",
+             "Which is more: the grass on earth, or the sand in the Ganges?",
+             "How long does a single eon last?",
+             "How many eons have already passed?"],
+         "correct": 0,
+         "expl": "A question posed directly, not a declared parable."},
+        {"q": "How do the mendicants answer, and how quickly?",
+         "opts": [
+             "Correctly and without hesitation — the milk is more",
+             "Incorrectly, requiring the Buddha's correction",
+             "They refuse to answer, saying the question is unanswerable",
+             "They answer that both are exactly equal"],
+         "correct": 0,
+         "expl": "An immediate, unqualified correct response."},
+        {"q": "How does the Buddha respond to the mendicants' answer?",
+         "opts": [
+             "He praises them directly, saying \"good, good\"",
+             "He corrects their answer as mistaken",
+             "He remains silent and gives no response",
+             "He asks them to reconsider their answer"],
+         "correct": 0,
+         "expl": "Sādhu sādhu, explicit praise for their grasp of the teaching."},
+        {"q": "How does this discourse's structure differ from SN 15.1 and 15.2?",
+         "opts": [
+             "It poses a question for the mendicants to answer, rather than simply declaring the conclusion",
+             "It contains no refrain at all, unlike SN 15.1-2",
+             "It is spoken by a mendicant instead of the Buddha",
+             "There is no structural difference between them"],
+         "correct": 0,
+         "expl": "A genuine dialogue, distinct from the earlier discourses' one-way declarations."},
+        {"q": "What fixed cosmological unit does this discourse compare mother's milk against?",
+         "opts": [
+             "The water in the four oceans",
+             "The grass and wood of the known continent",
+             "The whole earth reduced to clay balls",
+             "The sand between the Ganges and the sea"],
+         "correct": 0,
+         "expl": "Catūsu mahāsamuddesu udakaṁ, a standard cosmological reference point."},
+        {"q": "How does this discourse's measure compare in scale to SN 15.1 and 15.2's images?",
+         "opts": [
+             "Smaller in scale, but landing through familiarity rather than sheer physical vastness",
+             "Vastly larger, exceeding both earlier discourses combined",
+             "Identical in scale to SN 15.2's whole-earth image",
+             "This discourse offers no comparison in scale at all"],
+         "correct": 0,
+         "expl": "An ordinary, intimate substance rather than a continent or a planet."},
+        {"q": "What pattern does this discourse's question-and-answer structure set up for later discourses in this vagga?",
+         "opts": [
+             "Several later discourses, especially those about eons, also use direct Q&A rather than flat declaration",
+             "No later discourse uses this structure again",
+             "Every remaining discourse abandons the refrain entirely",
+             "This discourse's structure is never repeated anywhere in this saṃyutta"],
+         "correct": 0,
+         "expl": "A recurring dialogue format, particularly for the eon-length discourses ahead."},
+        {"q": "Who is the sole speaker in this discourse besides the mendicants themselves?",
+         "opts": [
+             "The Buddha",
+             "Venerable Ānanda",
+             "A visiting brahmin",
+             "No one else speaks in this discourse"],
+         "correct": 0,
+         "expl": "The Buddha poses the question and confirms the mendicants' answer."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this vagga (SN 15.3 already exists as a published page)."},
+    ],
+    marginalia=[
+        ("A question, where SN 15.1-2 simply declared", [
+            "\"what do you think?\" asked directly &mdash;",
+            "the mendicants left to reason it out",
+        ]),
+        ("An answer given without hesitation", [
+            "\"the milk is more,\" they say at once &mdash;",
+            "and the Buddha confirms it plainly",
+        ]),
+        ("An intimate measure, not a vast one", [
+            "not a continent, not a planet &mdash;",
+            "just milk, drunk in infancy, life after life",
+        ]),
+        ("A dialogue pattern about to recur", [
+            "several eon-length discourses ahead &mdash;",
+            "will use this same question-and-answer shape",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.4/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.2.html">SN 15.2 &middot; The Earth</a> '
+        "&mdash; the discourse immediately before this one (SN 15.3 "
+        "already exists as a published page).",
+        '<a href="sn-15.5.html">SN 15.5 &middot; A Mountain</a> '
+        "&mdash; the next discourse, turning from accumulated "
+        "substance to the length of a single eon.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.5 — Pabbatasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 5, "Pabbata", "A Mountain",
+    meta_title="SN 15.5 — A Mountain | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pabbatasutta — a mendicant asks how long an eon lasts, "
+        "and the Buddha answers with one of the canon's most famous "
+        "images: a solid mountain worn away by a cloth's touch once "
+        "a century. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed mendicant"),
+        ("Form", "A question, a request for a simile, and the "
+                 "simile itself, applied to the immensity of past "
+                 "transmigration"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "one of the best-known images in the "
+                       "collection, worth reading slowly"),
+    ],
+    why=(
+        "This discourse turns from measuring accumulated substance "
+        "to measuring time itself. A mendicant asks how long a "
+        "single kappa, an eon, actually lasts, and the Buddha "
+        "answers first that it's simply too long to calculate in "
+        "years, then offers what may be the most famous image in "
+        "this entire saṃyutta: a solid stone mountain, a league in "
+        "every dimension, with no cracks or hollows, stroked once "
+        "every century by a piece of fine cloth. The mountain would "
+        "be worn away to nothing before a single eon ended &mdash; "
+        "and beings have transmigrated through many such eons, not "
+        "merely one."),
+    guide=[
+        ("A shift from substance to duration", [
+            "Every discourse before this one measured an "
+            "accumulated quantity &mdash; wood, earth, milk; this "
+            "discourse instead measures how long a single unit of "
+            "time, one eon, actually lasts."]),
+        ("A precise, almost architectural image", [
+            "The mountain is specified with exact dimensions "
+            "&mdash; a league long, a league wide, a league high, "
+            "solid with no cracks or hollows &mdash; giving the "
+            "simile a concreteness that makes the erosion that "
+            "follows feel genuinely physical."]),
+        ("Erosion by the gentlest possible touch", [
+            "The mountain isn't blasted or carved; it's stroked with "
+            "a fine cloth, once per century &mdash; the almost "
+            "imperceptible gentleness of the method makes the "
+            "eventual total erosion even more striking than a "
+            "violent one would."]),
+        ("An eon exceeding even this exhausted mountain", [
+            "The punchline isn't simply that the mountain wears "
+            "away; it's that the mountain would be completely gone "
+            "before the eon itself comes to an end &mdash; the eon "
+            "outlasts even total geological erosion."]),
+        ("Many eons, not merely the one just measured", [
+            "The discourse's final move extends beyond a single "
+            "eon's length to the sheer number of eons already "
+            "transmigrated through &mdash; setting up SN 15.6 and "
+            "15.7's direct treatment of that even larger question."]),
+    ],
+    terms=[
+        ("kappo",
+         "&ldquo;an eon&rdquo; &mdash; the unit of time this "
+         "discourse's mendicant asks about, and this discourse's "
+         "central subject."),
+        ("mahāselo pabbato",
+         "&ldquo;a huge stone mountain&rdquo; &mdash; the discourse's "
+         "central image, specified as a league in every dimension "
+         "with no cracks or hollows."),
+        ("kāsikena vatthena",
+         "&ldquo;a fine cloth from Kāsi&rdquo; &mdash; the "
+         "gentlest possible instrument of erosion, applied once "
+         "every century."),
+        ("vassasatassa vassasatassa accayena",
+         "&ldquo;as each century passed&rdquo; &mdash; the "
+         "extraordinarily slow interval at which the cloth's single "
+         "stroke is applied."),
+        ("sakkā pana … upamaṁ kātuṁ",
+         "&ldquo;but is it possible to give a simile?&rdquo; "
+         "&mdash; the mendicant's follow-up question, opening the "
+         "way for the mountain image itself."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the standard setting and closing refrain. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.5:1.1-1.5"),
+        ("p", "&sect;2", "sn15.5:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "What question does the mendicant ask, opening this discourse?",
+         "opts": [
+             "How long is an eon?",
+             "How many eons have passed?",
+             "How much water is in the four oceans?",
+             "How many past mothers has each being had?"],
+         "correct": 0,
+         "expl": "A question about a single eon's duration, not the total number of eons."},
+        {"q": "What image does the Buddha use to illustrate an eon's length?",
+         "opts": [
+             "A solid stone mountain, stroked once a century with a fine cloth, wearing away before the eon ends",
+             "A heap of mustard seeds removed one at a time",
+             "A river's sand grains from source to sea",
+             "A stick tossed into the air"],
+         "correct": 0,
+         "expl": "One of this saṃyutta's most famous images."},
+        {"q": "How is the mountain specified in this discourse?",
+         "opts": [
+             "A league long, a league wide, a league high, with no cracks or hollows",
+             "No specific dimensions are given",
+             "As small as a single boulder",
+             "As large as the entire known continent"],
+         "correct": 0,
+         "expl": "Precise, almost architectural specificity."},
+        {"q": "How often is the mountain stroked with the cloth?",
+         "opts": [
+             "Once every century",
+             "Once every day",
+             "Continuously, without pause",
+             "Only a single time, at the very start"],
+         "correct": 0,
+         "expl": "An extraordinarily slow interval, emphasizing the eon's true length."},
+        {"q": "What happens to the mountain before the eon ends, according to this discourse?",
+         "opts": [
+             "It would be completely worn away",
+             "It would grow larger over time",
+             "It would remain completely unchanged",
+             "The discourse doesn't say what happens to the mountain"],
+         "correct": 0,
+         "expl": "Total erosion, achieved before a single eon concludes."},
+        {"q": "How does this discourse's focus differ from SN 15.1-4?",
+         "opts": [
+             "It measures the duration of time itself, rather than an accumulated substance",
+             "It is identical in focus to all four earlier discourses",
+             "It abandons the beginningless-transmigration theme entirely",
+             "It measures space rather than either time or substance"],
+         "correct": 0,
+         "expl": "A shift from quantity to duration."},
+        {"q": "What does this discourse's final move extend to, beyond a single eon's length?",
+         "opts": [
+             "The sheer number of eons already transmigrated through",
+             "The exact date transmigration will end",
+             "The number of mendicants present at this teaching",
+             "No further extension is made"],
+         "correct": 0,
+         "expl": "Setting up SN 15.6-7's direct treatment of how many eons have passed."},
+        {"q": "Who asks the Buddha whether a simile can be given?",
+         "opts": [
+             "The same unnamed mendicant who asked the opening question",
+             "A different mendicant altogether",
+             "A visiting brahmin",
+             "No one asks; the Buddha offers the simile unprompted"],
+         "correct": 0,
+         "expl": "A natural follow-up within the same exchange."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("From substance to duration", [
+            "not wood, earth, or milk this time &mdash;",
+            "the length of one single unit of time",
+        ]),
+        ("An almost architectural precision", [
+            "a league in every dimension &mdash;",
+            "no cracks, no hollows, one solid mass",
+        ]),
+        ("Erosion by the gentlest possible touch", [
+            "a fine cloth, once a century &mdash;",
+            "gentleness making the total wearing-away more striking",
+        ]),
+        ("A mountain outlasted by a single eon", [
+            "worn to nothing before the eon ends &mdash;",
+            "and many such eons already passed",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.5/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.4.html">SN 15.4 &middot; Mother’s Milk</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.6.html">SN 15.6 &middot; A Mustard Seed</a> '
+        "&mdash; the next discourse, the same eon-length question "
+        "answered with a second, complementary image.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.6 — Sāsapasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 6, "Sāsapa", "A Mustard Seed",
+    meta_title="SN 15.6 — A Mustard Seed | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāsapasutta — SN 15.5's mountain answered a second way: "
+        "an iron citadel packed with mustard seeds, one removed each "
+        "century, exhausted before a single eon ends. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and an unnamed mendicant"),
+        ("Form", "The same question-simile structure as SN 15.5, "
+                 "with a new image measuring the same eon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "best read directly alongside SN 15.5, its "
+                       "closest companion in this vagga"),
+    ],
+    why=(
+        "This discourse asks the identical question SN 15.5 asked "
+        "&mdash; how long is an eon? &mdash; and answers it with a "
+        "second, complementary image: an iron citadel a league in "
+        "every dimension, packed solid with mustard seeds, from "
+        "which a single seed is removed once every century. The "
+        "entire citadel would be emptied before the eon came to an "
+        "end. Where SN 15.5 measured an eon against something being "
+        "worn away, this discourse measures it against something "
+        "being depleted one unit at a time &mdash; two different "
+        "physical processes converging on the identical conclusion: "
+        "an eon outlasts both."),
+    guide=[
+        ("A near-exact structural echo of SN 15.5", [
+            "The same mendicant, the same opening question, the same "
+            "request for a simile, and the same closing conclusion "
+            "&mdash; this discourse is best understood as SN 15.5's "
+            "direct pair, not a separate teaching."]),
+        ("Erosion versus depletion, two different processes", [
+            "SN 15.5's mountain wears away continuously under a "
+            "cloth's touch; this discourse's citadel empties one "
+            "discrete mustard seed at a time &mdash; a meaningfully "
+            "different physical process reaching the same "
+            "conclusion about an eon's length."]),
+        ("An enclosed, countable image rather than an open one", [
+            "A mountain's erosion is continuous and hard to "
+            "quantify at any given moment; an iron citadel packed "
+            "with mustard seeds is, at least in principle, "
+            "countable &mdash; making this image's depletion feel "
+            "more precisely measurable, even as the total count "
+            "remains impossibly large."]),
+        ("The same identical wording carried through", [
+            "Beyond the swapped image, this discourse's surrounding "
+            "language &mdash; the century-long interval, the "
+            "\"why is that\" transition, the closing refrain &mdash; "
+            "matches SN 15.5 almost word for word."]),
+        ("Two images, one settled point", [
+            "Having now measured an eon's length twice, by two "
+            "genuinely different physical means, this saṃyutta turns "
+            "in its next discourse to a different question entirely: "
+            "not how long one eon lasts, but how many eons have "
+            "already passed."]),
+    ],
+    terms=[
+        ("āyasaṁ nagaraṁ",
+         "&ldquo;an iron citadel&rdquo; &mdash; this discourse's "
+         "central container, matching SN 15.5's mountain in size but "
+         "differing entirely in substance and process."),
+        ("sāsapānaṁ guḷikābaddhaṁ",
+         "&ldquo;mustard seeds pressed into balls&rdquo; &mdash; the "
+         "citadel's contents, packed solid rather than loose."),
+        ("ekamekaṁ sāsapaṁ uddhareyya",
+         "&ldquo;would remove a single mustard seed&rdquo; &mdash; "
+         "the depletion process, one discrete unit removed per "
+         "century."),
+        ("mahāsāsaparāsi",
+         "&ldquo;the huge heap of mustard seeds&rdquo; &mdash; the "
+         "discourse's term for the citadel's contents once it's "
+         "described as being used up."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the opening exchange shared with SN 15.5. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.6:1.1-1.5"),
+        ("p", "&sect;2", "sn15.6:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse ask, identical to SN 15.5?",
+         "opts": [
+             "How long is an eon?",
+             "How many eons have passed?",
+             "How much water is in the four oceans?",
+             "How many mustard seeds exist in the world?"],
+         "correct": 0,
+         "expl": "The same question, answered with a second, different image."},
+        {"q": "What image does this discourse use, in place of SN 15.5's mountain?",
+         "opts": [
+             "An iron citadel packed with mustard seeds, one removed each century",
+             "A river's sand grains from source to sea",
+             "A heap of bones the size of a mountain",
+             "A stick tossed into the air"],
+         "correct": 0,
+         "expl": "A complementary image measuring the same eon a second way."},
+        {"q": "How does this discourse's process differ from SN 15.5's continuous erosion?",
+         "opts": [
+             "It depletes one discrete unit (a single mustard seed) at a time, rather than eroding continuously",
+             "It is identical in every respect to SN 15.5's process",
+             "It involves no removal or reduction of any kind",
+             "The citadel grows larger over time instead of emptying"],
+         "correct": 0,
+         "expl": "A meaningfully different physical process reaching the same conclusion."},
+        {"q": "What happens to the citadel's contents before the eon ends, according to this discourse?",
+         "opts": [
+             "The huge heap of mustard seeds would be completely used up",
+             "The citadel would remain completely full",
+             "The citadel would double in size",
+             "The discourse doesn't specify what happens"],
+         "correct": 0,
+         "expl": "Total depletion, achieved before a single eon concludes, mirroring SN 15.5's mountain."},
+        {"q": "How does this reading guide characterize the relationship between this discourse and SN 15.5?",
+         "opts": [
+             "A direct structural pair, best read alongside each other rather than as separate teachings",
+             "Completely unrelated discourses with no connection",
+             "A direct contradiction of SN 15.5's conclusion",
+             "An entirely different topic unrelated to eons"],
+         "correct": 0,
+         "expl": "Near-identical structure and wording, differing only in the central image."},
+        {"q": "What does this reading guide say about the countability of this discourse's image, compared to SN 15.5's?",
+         "opts": [
+             "The mustard seeds are, in principle, countable, unlike a mountain's continuous erosion",
+             "Neither image is countable in any sense",
+             "Both images are equally impossible to conceptualize as countable",
+             "This reading guide draws no such distinction"],
+         "correct": 0,
+         "expl": "A discrete depletion process, even though the total remains impossibly large."},
+        {"q": "What does this saṃyutta turn to in the discourse immediately following this one?",
+         "opts": [
+             "Not how long one eon lasts, but how many eons have already passed",
+             "An entirely unrelated topic, abandoning the eon theme",
+             "A third measurement of a single eon's length",
+             "The saṃyutta ends immediately after this discourse"],
+         "correct": 0,
+         "expl": "SN 15.7 shifts the question from duration to sheer quantity."},
+        {"q": "Who asks the opening question in this discourse?",
+         "opts": [
+             "An unnamed mendicant",
+             "Several mendicants together",
+             "A visiting brahmin",
+             "No question is asked; the Buddha speaks unprompted"],
+         "correct": 0,
+         "expl": "The same format as SN 15.5's individual questioner."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("The same question, a second answer", [
+            "not erosion this time, but depletion &mdash;",
+            "a citadel of mustard seeds, one removed per century",
+        ]),
+        ("Continuous wearing-away versus discrete removal", [
+            "a cloth's stroke, or a single seed taken &mdash;",
+            "two different processes, one shared conclusion",
+        ]),
+        ("A container that could, in principle, be counted", [
+            "unlike a mountain's gradual erosion &mdash;",
+            "though the true count stays impossibly large",
+        ]),
+        ("Two measures of one eon, now complete", [
+            "mountain and mustard seeds both exhausted first &mdash;",
+            "the next discourse asks how many eons, not how long",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.6/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.5.html">SN 15.5 &middot; A Mountain</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "direct structural pair.",
+        '<a href="sn-15.7.html">SN 15.7 &middot; Disciples</a> '
+        "&mdash; the next discourse, turning from an eon's length to "
+        "the total number of eons that have passed.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.7 — Sāvakasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 7, "Sāvaka", "Disciples",
+    meta_title="SN 15.7 — Disciples | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sāvakasutta — four disciples living a hundred years "
+        "each, each recollecting a hundred thousand eons every "
+        "single day, would still die with eons left uncounted. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha and several unnamed mendicants"),
+        ("Form", "A question-simile structure matching SN 15.5-6, "
+                 "now asking about the total number of eons rather "
+                 "than one eon's length"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a genuine escalation from SN 15.5-6, "
+                       "worth noticing exactly how the question has "
+                       "changed"),
+    ],
+    why=(
+        "SN 15.5 and 15.6 both asked how long a single eon lasts; "
+        "this discourse asks something larger: how many eons have "
+        "already passed? The Buddha's image imagines four disciples "
+        "each living a full hundred years, and each of them, every "
+        "single day of that century, recollecting a hundred thousand "
+        "eons. Even at that extraordinary rate, sustained daily for "
+        "an entire human lifetime, all four disciples would die with "
+        "eons still left unrecollected. The shift in scale is "
+        "significant: SN 15.5-6 measured one unit of time against a "
+        "physical process; this discourse measures the sheer count "
+        "of accumulated time against the very limits of a human "
+        "lifespan applied to recollection itself."),
+    guide=[
+        ("A question of quantity, not duration", [
+            "Kīvabahukā kappā abbhatītā, \"how many eons have "
+            "passed,\" replaces SN 15.5-6's kīvadīgho kappo, \"how "
+            "long is an eon\" &mdash; a genuinely different question, "
+            "moving from measuring one unit to counting how many "
+            "have accumulated."]),
+        ("Recollection itself as the unit of measure", [
+            "Rather than physical erosion or depletion, this "
+            "discourse's image uses a cognitive act &mdash; "
+            "recollecting eons &mdash; as its unit, pushing that "
+            "act to an extreme rate: a hundred thousand eons "
+            "recalled every single day."]),
+        ("Four disciples, a full human lifespan each", [
+            "The image specifies four separate disciples, each "
+            "living a complete hundred-year lifespan devoted "
+            "entirely to this recollection &mdash; even multiplying "
+            "the effort fourfold across four full lives doesn't "
+            "exhaust the count."]),
+        ("Death arriving before the counting does", [
+            "The discourse's precise conclusion isn't that the "
+            "disciples eventually finish; it's that they die first, "
+            "with eons still left unrecollected &mdash; the "
+            "recollection is cut short by mortality, not completed."]),
+        ("The question this vagga's remaining discourses will keep returning to", [
+            "Having shifted from duration to quantity here, this "
+            "vagga's next two discourses (SN 15.8's brahmin dialogue "
+            "and its Ganges-sand image) continue asking exactly this "
+            "same how-many-eons question from a new angle."]),
+    ],
+    terms=[
+        ("kīvabahukā … kappā abbhatītā atikkantā",
+         "&ldquo;how many eons have passed?&rdquo; &mdash; this "
+         "discourse's opening question, distinct from SN 15.5-6's "
+         "question about a single eon's length."),
+        ("cattāro sāvakā",
+         "&ldquo;four disciples&rdquo; &mdash; this discourse's "
+         "title subject, the imagined figures whose lifelong "
+         "recollection still falls short."),
+        ("vassasatāyukā vassasatajīvino",
+         "&ldquo;with a lifespan of a hundred years, living for a "
+         "hundred years&rdquo; &mdash; the disciples' full human "
+         "lifespan, entirely devoted to this task."),
+        ("divase divase kappasatasahassaṁ anussareyyuṁ",
+         "&ldquo;each day they would recollect a hundred thousand "
+         "eons&rdquo; &mdash; the extreme daily rate this discourse's "
+         "image imagines."),
+        ("ananussaritāva … kālaṁ kareyyuṁ",
+         "&ldquo;there would still be eons they haven't recollected "
+         "… they would pass away&rdquo; &mdash; the discourse's "
+         "precise conclusion: death arrives before the count "
+         "finishes."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.7:1.1-1.6"),
+        ("p", "&sect;2", "sn15.7:2.1-2.11"),
+    ],
+    quiz=[
+        {"q": "What question does this discourse ask, distinct from SN 15.5-6?",
+         "opts": [
+             "How many eons have passed, rather than how long one eon lasts",
+             "The identical question as SN 15.5-6, with no change",
+             "How much water is in the four oceans",
+             "How many mothers has each being had"],
+         "correct": 0,
+         "expl": "A shift from measuring duration to counting accumulated quantity."},
+        {"q": "What image does the Buddha use to answer this question?",
+         "opts": [
+             "Four disciples, each living a hundred years, recollecting a hundred thousand eons daily",
+             "A mountain worn away by a cloth's touch",
+             "A citadel of mustard seeds depleted one at a time",
+             "A stick tossed into the air"],
+         "correct": 0,
+         "expl": "A cognitive act — recollection — used as the unit of measure this time."},
+        {"q": "What is the discourse's precise conclusion about the four disciples?",
+         "opts": [
+             "They would die with eons still left unrecollected",
+             "They would successfully recollect every eon before dying",
+             "They would live forever, never needing to stop",
+             "They would forget everything they had recollected"],
+         "correct": 0,
+         "expl": "Death arrives before the count is complete, not after."},
+        {"q": "How does this discourse's unit of measure differ from SN 15.5-6's?",
+         "opts": [
+             "It uses a cognitive act (recollection) rather than a physical process (erosion or depletion)",
+             "It uses the identical physical process as SN 15.5",
+             "It uses no unit of measure at all",
+             "It measures water rather than time"],
+         "correct": 0,
+         "expl": "Recollecting eons, pushed to an extreme daily rate, rather than a physical image."},
+        {"q": "How many disciples does this discourse's image involve, and for how long does each live?",
+         "opts": [
+             "Four disciples, each living a full hundred years",
+             "One disciple, living a thousand years",
+             "A hundred disciples, each living one year",
+             "The discourse specifies no particular number"],
+         "correct": 0,
+         "expl": "Four separate full human lifespans, all devoted to this single task."},
+        {"q": "At what rate does each disciple recollect eons, according to this discourse?",
+         "opts": [
+             "A hundred thousand eons every single day",
+             "One eon per year",
+             "A single eon across their entire lifetime",
+             "The discourse gives no specific rate"],
+         "correct": 0,
+         "expl": "An extraordinary daily rate, still insufficient to complete the count."},
+        {"q": "What do the two discourses immediately following this one continue to ask about?",
+         "opts": [
+             "The same how-many-eons question, from a new angle",
+             "An entirely unrelated topic, abandoning eons altogether",
+             "Only the length of a single eon, returning to SN 15.5-6's question",
+             "This is the saṃyutta's final discourse; nothing follows it"],
+         "correct": 0,
+         "expl": "SN 15.8's Ganges-sand image continues the same quantity question."},
+        {"q": "Who asks the opening question in this discourse?",
+         "opts": [
+             "Several unnamed mendicants together",
+             "A single unnamed mendicant, as in SN 15.5-6",
+             "A visiting brahmin",
+             "No question is asked; the Buddha speaks unprompted"],
+         "correct": 0,
+         "expl": "Sambahulā bhikkhū, several mendicants, distinct from the single questioner of SN 15.5-6."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this vagga."},
+    ],
+    marginalia=[
+        ("Duration gives way to quantity", [
+            "not how long, but how many &mdash;",
+            "eons counted, not merely measured",
+        ]),
+        ("Recollection itself as the unit", [
+            "a hundred thousand eons, every day &mdash;",
+            "for a full hundred years, four times over",
+        ]),
+        ("Death comes before the counting ends", [
+            "not completion, but interruption &mdash;",
+            "the tally still unfinished at the moment of dying",
+        ]),
+        ("A question this vagga isn't done asking", [
+            "how many eons, still to be answered again &mdash;",
+            "the Ganges sand waits two discourses ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.7/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.6.html">SN 15.6 &middot; A Mustard Seed</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.8.html">SN 15.8 &middot; The Ganges</a> '
+        "&mdash; the next discourse, the same how-many-eons question "
+        "put to a brahmin and answered with the Ganges' sand grains.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.8 — Gaṅgāsutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 8, "Gaṅgā", "The Ganges",
+    meta_title="SN 15.8 — The Ganges | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Gaṅgāsutta — a brahmin asks how many eons have passed; "
+        "the eons that have passed outnumber even every grain of "
+        "sand between the Ganges' source and the sea, and he takes "
+        "refuge on the spot. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Near Rājagaha, in the Bamboo Grove &mdash; a "
+                    "new setting for this vagga"),
+        ("Speakers", "The Buddha and an unnamed brahmin"),
+        ("Form", "A formal greeting, a question, a simile, and a "
+                 "closing conversion narrative"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; the most narratively developed "
+                       "discourse in this vagga so far"),
+    ],
+    why=(
+        "This discourse asks SN 15.7's same question &mdash; how "
+        "many eons have passed? &mdash; but shifts setting, "
+        "questioner, and image all at once. For the first time in "
+        "this vagga, the scene moves to Rājagaha's Bamboo Grove, and "
+        "the questioner is a brahmin rather than a mendicant, "
+        "greeting the Buddha formally before asking. The Buddha's "
+        "answer uses the Ganges: consider the river from where it "
+        "rises to where it meets the ocean, and the number of sand "
+        "grains between those two points is already impossible to "
+        "calculate &mdash; yet the eons that have passed exceed even "
+        "that count. Unlike every other discourse in this vagga, "
+        "this one doesn't end with the standard exhortation alone; "
+        "it closes with the brahmin, visibly moved, taking refuge as "
+        "a lay follower on the spot."),
+    guide=[
+        ("A new setting, breaking this vagga's pattern", [
+            "Every discourse from SN 15.1 through 15.7 was set at "
+            "Sāvatthī; this one alone moves to Rājagaha's Bamboo "
+            "Grove, a location associated with several other major "
+            "discourses elsewhere in the canon."]),
+        ("A brahmin, not a mendicant, asking the question", [
+            "Where SN 15.5-7 were internal exchanges within the "
+            "monastic community, this discourse is addressed to an "
+            "outsider &mdash; opening with the formal greeting and "
+            "polite conversation conventionally used when a brahmin "
+            "visitor approaches the Buddha."]),
+        ("A river measured by what it carries, not by size alone", [
+            "The Ganges' sand grains, from source to sea, are "
+            "already described as impossible to calculate before "
+            "the Buddha even states his conclusion &mdash; the "
+            "eons that have passed are then said to exceed even "
+            "this already-incalculable count."]),
+        ("The full standard refrain, restored in full", [
+            "Unlike SN 15.5-7's abbreviated closings, this discourse "
+            "restores the complete anamatagga refrain and the "
+            "\"swelling the cemeteries\" line from SN 15.1-2, giving "
+            "it the fullest closing treatment since this vagga's "
+            "opening discourses."]),
+        ("A conversion, unique in this vagga", [
+            "No other discourse in this vagga closes with its "
+            "listener's explicit response; here the brahmin declares "
+            "himself moved (&ldquo;excellent, excellent!&rdquo;) and "
+            "formally takes refuge as a lay follower for life, a "
+            "narrative outcome none of the mendicant-focused "
+            "discourses around it include."]),
+    ],
+    terms=[
+        ("gaṅgā nadī",
+         "&ldquo;the Ganges river&rdquo; &mdash; this discourse's "
+         "title subject and its measuring image, taken from source "
+         "to ocean."),
+        ("vālikā",
+         "&ldquo;grains of sand&rdquo; &mdash; the specific unit "
+         "this discourse counts, already impossible to calculate "
+         "before eons are compared against it."),
+        ("tato bahutarā kho … kappā",
+         "&ldquo;the eons that have passed are more than this&rdquo; "
+         "&mdash; the discourse's precise conclusion, exceeding even "
+         "the incalculable sand count."),
+        ("abhikkantaṁ, bho gotama",
+         "&ldquo;excellent, worthy Gotama!&rdquo; &mdash; the "
+         "brahmin's exclamation opening the closing conversion "
+         "passage, unique to this discourse in the vagga."),
+        ("upāsakaṁ maṁ … saraṇaṁ gataṁ",
+         "&ldquo;[remember] me as a lay follower who has gone for "
+         "refuge&rdquo; &mdash; the brahmin's formal declaration "
+         "closing this discourse."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.8:1.1-1.7"),
+        ("p", "&sect;2", "sn15.8:2.1-2.12"),
+        ("p", "&sect;3", "sn15.8:3.1-3.3"),
+    ],
+    quiz=[
+        {"q": "What setting does this discourse use, breaking a pattern held since SN 15.1?",
+         "opts": [
+             "Rājagaha's Bamboo Grove, rather than Sāvatthī",
+             "Ñātika's brick house",
+             "The Vulture's Peak Mountain",
+             "The discourse gives no specific setting"],
+         "correct": 0,
+         "expl": "The first setting change in this vagga since it began."},
+        {"q": "Who asks the question in this discourse, unlike SN 15.5-7?",
+         "opts": [
+             "An unnamed brahmin, formally greeting the Buddha",
+             "An unnamed mendicant, identical to SN 15.5-6",
+             "Several mendicants together, identical to SN 15.7",
+             "No one asks a question in this discourse"],
+         "correct": 0,
+         "expl": "An outsider's visit, not an internal monastic exchange."},
+        {"q": "What image does the Buddha use to answer how many eons have passed?",
+         "opts": [
+             "The grains of sand in the Ganges river, from its source to the sea",
+             "A mountain worn away by a cloth's touch",
+             "A citadel of mustard seeds",
+             "Four disciples recollecting eons daily"],
+         "correct": 0,
+         "expl": "A count already incalculable, exceeded by the number of eons passed."},
+        {"q": "How does this discourse's closing differ from every other discourse in this vagga?",
+         "opts": [
+             "It ends with the brahmin's explicit conversion, taking refuge as a lay follower",
+             "It has no closing exhortation at all",
+             "It ends mid-sentence, incomplete",
+             "There is no difference; every discourse in this vagga ends identically"],
+         "correct": 0,
+         "expl": "A unique narrative outcome not found in the mendicant-focused discourses around it."},
+        {"q": "What does this discourse restore in its closing refrain, compared to SN 15.5-7's abbreviated versions?",
+         "opts": [
+             "The full anamatagga refrain and the \"swelling the cemeteries\" line from SN 15.1-2",
+             "Nothing; this discourse's refrain is even shorter than SN 15.5-7's",
+             "An entirely new refrain never used elsewhere in this saṃyutta",
+             "The refrain is omitted entirely in this discourse"],
+         "correct": 0,
+         "expl": "The fullest closing treatment since this vagga's opening two discourses."},
+        {"q": "What formal exchange opens this discourse, distinct from the mendicant-focused discourses around it?",
+         "opts": [
+             "A greeting and polite conversation, conventional when a brahmin visitor approaches",
+             "A direct question with no preliminary greeting at all",
+             "A dispute between the Buddha and the brahmin",
+             "No exchange occurs before the main question is asked"],
+         "correct": 0,
+         "expl": "Standard courtesy conventions for an outsider's formal visit."},
+        {"q": "What does the brahmin exclaim upon hearing the Buddha's teaching?",
+         "opts": [
+             "\"Excellent, worthy Gotama! Excellent!\"",
+             "A statement of doubt and disagreement",
+             "A request to hear a different teaching instead",
+             "He says nothing; the discourse ends with the teaching alone"],
+         "correct": 0,
+         "expl": "Abhikkantaṁ, bho gotama, opening the closing conversion passage."},
+        {"q": "What does this reading guide conclude the eons that have passed exceed?",
+         "opts": [
+             "Even the already-incalculable number of sand grains between the Ganges' source and the sea",
+             "Only a small, easily countable number",
+             "The number of mendicants in the assembly",
+             "Nothing; the discourse makes no such comparison"],
+         "correct": 0,
+         "expl": "An incalculable measure exceeded by an even larger one."},
+        {"q": "How does the brahmin formally close his response to the Buddha?",
+         "opts": [
+             "By declaring himself a lay follower who has gone for refuge for life",
+             "By requesting ordination as a mendicant",
+             "By politely declining to comment further",
+             "By challenging the Buddha to a debate"],
+         "correct": 0,
+         "expl": "A formal declaration of lay refuge, unique to this discourse in the vagga."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A setting change, the first in this whole vagga", [
+            "Rājagaha's Bamboo Grove, not Sāvatthī &mdash;",
+            "a break held since SN 15.1",
+        ]),
+        ("A visitor, not an internal exchange", [
+            "a brahmin greets, then asks &mdash;",
+            "formal courtesy opening the discourse",
+        ]),
+        ("Sand already incalculable, exceeded further still", [
+            "the Ganges' full length, grain by grain &mdash;",
+            "and even that count falls short",
+        ]),
+        ("A conversion, found nowhere else in this vagga", [
+            "\"excellent, excellent!\" then refuge taken &mdash;",
+            "a response none of the other discourses include",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.8/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.7.html">SN 15.7 &middot; Disciples</a> '
+        "&mdash; the discourse immediately before this one, asking "
+        "the same how-many-eons question of the monastic community "
+        "instead.",
+        '<a href="sn-15.9.html">SN 15.9 &middot; A Stick</a> '
+        "&mdash; the next discourse, returning to Sāvatthī and a "
+        "new kind of image entirely.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.9 — Daṇḍasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 9, "Daṇḍa", "A Stick",
+    meta_title="SN 15.9 — A Stick | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Daṇḍasutta — a stick tossed in the air lands sometimes "
+        "on one end, sometimes the other, sometimes the middle, just "
+        "as beings sometimes pass from this world to another and "
+        "back again. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The refrain-parable-refrain-exhortation template "
+                 "from SN 15.1-2, applied to a new, non-numerical "
+                 "image"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "a genuinely different kind of image from "
+                       "every discourse before it in this vagga"),
+    ],
+    why=(
+        "After five consecutive discourses (SN 15.4&ndash;8) "
+        "measuring quantity or duration, this discourse returns to "
+        "SN 15.1-2's declarative template but with a genuinely "
+        "different kind of image: not a count or a measure, but "
+        "unpredictable direction. A stick tossed into the air lands "
+        "sometimes on its base, sometimes its middle, sometimes its "
+        "tip &mdash; with no way to predict which. In the same way, "
+        "beings roaming and transmigrating, shrouded by ignorance "
+        "and bound by craving, sometimes pass from this world to "
+        "another, and sometimes come from another world to this one, "
+        "with no fixed pattern governing which direction comes next."),
+    guide=[
+        ("A shift from quantity to unpredictability", [
+            "Every discourse since SN 15.4 measured something "
+            "&mdash; how much, how long, how many; this discourse "
+            "instead illustrates something structurally different: "
+            "the sheer unpredictability of which direction "
+            "transmigration takes at any given moment."]),
+        ("A return to SN 15.1-2's declarative shape", [
+            "This discourse drops the question-and-answer format SN "
+            "15.4-8 used, returning to the flat, one-way declaration "
+            "SN 15.1 and 15.2 opened this vagga with."]),
+        ("Three landing positions, no privileged outcome", [
+            "The stick's three possible landings &mdash; base, "
+            "middle, tip &mdash; are given with no suggestion that "
+            "any one is more likely or more significant than the "
+            "others, mirroring the parable's point that no direction "
+            "of transmigration is privileged over another."]),
+        ("Coming and going, not simply accumulating", [
+            "Where the earlier parables all emphasized how much has "
+            "accumulated over time, this discourse's language of "
+            "going from this world to another and coming back again "
+            "emphasizes ongoing movement, a continuing process rather "
+            "than a settled total."]),
+        ("A brief discourse before this vagga's substantial close", [
+            "Short and image-driven rather than argued or "
+            "dialogued, this discourse functions as a final "
+            "variation before SN 15.10 closes the vagga with its "
+            "longest and most structurally elaborate discourse yet."]),
+    ],
+    terms=[
+        ("daṇḍo uparivehāsaṁ khitto",
+         "&ldquo;a stick tossed up in the air&rdquo; &mdash; this "
+         "discourse's central image, its title subject."),
+        ("sakimpi mūlena … sakimpi majjhena … sakimpi antena",
+         "&ldquo;sometimes on its base … sometimes the middle … "
+         "sometimes the end&rdquo; &mdash; the stick's three "
+         "unpredictable landing positions."),
+        ("asmā lokā paraṁ lokaṁ gacchanti",
+         "&ldquo;they go from this world to the other world&rdquo; "
+         "&mdash; one direction of the transmigration the stick "
+         "illustrates."),
+        ("parasmā lokā imaṁ lokaṁ āgacchanti",
+         "&ldquo;they come from the other world to this world&rdquo; "
+         "&mdash; the opposite direction, given equal weight in the "
+         "parable."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.9:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What kind of image does this discourse use, distinct from SN 15.4-8?",
+         "opts": [
+             "An image of unpredictable direction, not a count or duration",
+             "The identical mountain image from SN 15.5",
+             "A dialogue with a brahmin, identical to SN 15.8",
+             "No image is used in this discourse"],
+         "correct": 0,
+         "expl": "A structurally different kind of illustration than the preceding measurement-focused discourses."},
+        {"q": "What three positions can the tossed stick land in, according to this discourse?",
+         "opts": [
+             "Its base, its middle, or its end",
+             "Only two positions: base or end",
+             "Standing perfectly upright",
+             "The discourse specifies no particular positions"],
+         "correct": 0,
+         "expl": "Three possible landings, with no privileged outcome among them."},
+        {"q": "What does this discourse's parable illustrate about transmigration?",
+         "opts": [
+             "That beings sometimes pass to another world and sometimes come back, with no fixed pattern",
+             "That transmigration always moves in a single fixed direction",
+             "That transmigration has now definitively ended",
+             "That beings never leave this world at all"],
+         "correct": 0,
+         "expl": "Unpredictability of direction, mirroring the stick's random landing."},
+        {"q": "How does this discourse's structure compare to SN 15.4-8?",
+         "opts": [
+             "It returns to SN 15.1-2's flat declarative shape, dropping the question-and-answer format",
+             "It is identical in form to SN 15.8's brahmin dialogue",
+             "It introduces an entirely new structure never seen before",
+             "There is no structural difference among any of these discourses"],
+         "correct": 0,
+         "expl": "A return to declaration rather than dialogue."},
+        {"q": "What does this reading guide say distinguishes this discourse's emphasis from the earlier parables' emphasis?",
+         "opts": [
+             "Ongoing movement and unpredictability, rather than accumulated total",
+             "An even larger numerical measure than any discourse before it",
+             "A focus on time's duration rather than any other factor",
+             "No distinction is drawn between this discourse and the earlier ones"],
+         "correct": 0,
+         "expl": "Coming and going, not simply accumulating a vast quantity."},
+        {"q": "What role does this discourse play just before the vagga's close?",
+         "opts": [
+             "A brief, image-driven variation before SN 15.10's longer, more elaborate closing discourse",
+             "The vagga's own closing discourse",
+             "An unrelated aside with no connection to the vagga's structure",
+             "The longest discourse in the entire vagga"],
+         "correct": 0,
+         "expl": "Short and focused, setting up SN 15.10's more substantial close."},
+        {"q": "Are the stick's three landing positions given differing significance in this discourse?",
+         "opts": [
+             "No — none is presented as more likely or significant than the others",
+             "Yes, landing on the tip is described as most significant",
+             "Yes, landing on the base is described as most common",
+             "The discourse doesn't mention landing positions at all"],
+         "correct": 0,
+         "expl": "An equal, unprivileged treatment of all three outcomes."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "An unnamed brahmin",
+             "An unnamed mendicant",
+             "Several mendicants together"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A return to Sāvatthī after SN 15.8's Rājagaha setting."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this vagga, one before its close."},
+    ],
+    marginalia=[
+        ("A different kind of image entirely", [
+            "not a count this time, but a toss &mdash;",
+            "unpredictable, not accumulated",
+        ]),
+        ("Three landings, none more likely", [
+            "base, middle, or end &mdash;",
+            "no privileged outcome among them",
+        ]),
+        ("Coming as well as going", [
+            "not just piling up over time &mdash;",
+            "movement in both directions, equally weighted",
+        ]),
+        ("A short discourse before a long close", [
+            "brief, image-driven, uncomplicated &mdash;",
+            "SN 15.10 will close this vagga at greater length",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.9/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.8.html">SN 15.8 &middot; The Ganges</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.10.html">SN 15.10 &middot; A Single Individual</a> '
+        "&mdash; the next and closing discourse of this vagga, "
+        "ending in verse.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.10 — Puggalasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 10, "Puggala", "A Single Individual",
+    meta_title="SN 15.10 — A Single Individual | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Puggalasutta — closing Paṭhamavagga, one person's bones "
+        "from a single eon would rival Mount Vepulla, and the "
+        "discourse closes in verse with the four noble truths and "
+        "the path beyond even this vastness. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture's Peak Mountain"),
+        ("Speakers", "The Buddha alone, closing in verse addressed "
+                     "to the assembled mendicants"),
+        ("Form", "The refrain-parable-refrain-exhortation prose "
+                 "template, followed by four verses moving from "
+                 "cosmic scale to the actual path beyond it"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; closes the vagga with its most "
+                       "structurally rich discourse, worth reading "
+                       "slowly through to the verses"),
+    ],
+    why=(
+        "Closing Paṭhamavagga, this discourse narrows the "
+        "saṃyutta's scale from countless beings' accumulated "
+        "substance down to a single individual: one person's bones, "
+        "gathered from just one eon of their own personal "
+        "transmigration, would form a heap the size of Mount "
+        "Vepulla, a real, specific mountain near Rājagaha the "
+        "audience could actually see. The prose section closes the "
+        "way most discourses in this vagga have; but the discourse "
+        "doesn't end there. Four verses follow, moving from the bone "
+        "heap's cosmic scale to the four noble truths and the noble "
+        "eightfold path, closing on the stream-enterer's promise: at "
+        "most seven more lives before this entire, vast cycle ends "
+        "for good."),
+    guide=[
+        ("From countless beings to a single person", [
+            "Every earlier discourse in this vagga measured "
+            "something belonging to sentient beings collectively; "
+            "this one narrows the frame to just one individual's own "
+            "bones, from just one eon &mdash; making the scale "
+            "somehow more, not less, striking."]),
+        ("A real, visible mountain, not an abstraction", [
+            "Vepullo pabbato, Mount Vepulla, is named specifically "
+            "and located precisely &mdash; higher than the Vulture's "
+            "Peak itself, in the Magadhan mountain range &mdash; "
+            "grounding the image in a landmark the assembled "
+            "mendicants, gathered at Rājagaha, could have looked "
+            "toward directly."]),
+        ("A closing that moves into genuine verse", [
+            "Unlike every other discourse in this vagga, the prose "
+            "teaching here is followed by &ldquo;the Holy One, the "
+            "Teacher, went on to say,&rdquo; introducing four full "
+            "verses that restate and then transcend the bone-heap "
+            "image entirely."]),
+        ("The four noble truths arriving inside the verse itself", [
+            "The third verse names suffering, its origin, its "
+            "transcendence, and the noble eightfold path directly "
+            "&mdash; the first explicit appearance of this core "
+            "formula anywhere in this saṃyutta, arriving precisely "
+            "at the point where cosmic scale gives way to the "
+            "actual way out."]),
+        ("A formula echoing back to Abhisamayasaṃyutta", [
+            "The closing verse's &ldquo;after roaming on seven times "
+            "at most&rdquo; is the identical stream-enterer's bound "
+            "given in SN 13.1's fingernail-and-earth comparison "
+            "&mdash; the same measured hope for an end to this vast "
+            "cycle, now arriving as this vagga's own closing note."]),
+    ],
+    terms=[
+        ("aṭṭhikaṅkalo aṭṭhipuñjo aṭṭhirāsi",
+         "&ldquo;a heap of bones, a pile of bones, a mound of "
+         "bones&rdquo; &mdash; the discourse's central image, one "
+         "individual's remains from a single eon of transmigration."),
+        ("vepullo pabbato",
+         "&ldquo;Mount Vepulla&rdquo; &mdash; a real, named mountain "
+         "near Rājagaha, higher than the Vulture's Peak, giving this "
+         "discourse's image concrete geographic scale."),
+        ("cattāri ariyasaccāni",
+         "&ldquo;the four noble truths&rdquo; &mdash; named "
+         "explicitly in the third verse, this discourse's turn from "
+         "measuring saṃsāra's vastness to naming the way beyond it."),
+        ("ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;the noble eightfold path&rdquo; &mdash; named "
+         "alongside the four noble truths, completing the verse's "
+         "core doctrinal statement."),
+        ("sattakkhattuṁparamaṁ",
+         "&ldquo;at most seven times&rdquo; &mdash; the "
+         "stream-enterer's bound on remaining rebirths, the same "
+         "formula used in SN 13.1's fingernail-and-earth comparison."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing verses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.10:1.1-1.5"),
+        ("p", "&sect;2", "sn15.10:2.1-2.5"),
+        ("p", "&sect;3", "sn15.10:3.1-3.2"),
+        ("p", "&sect;4", "sn15.10:4.1-4.4"),
+        ("p", "&sect;5", "sn15.10:5.1-5.4"),
+        ("p", "&sect;6", "sn15.10:6.1-6.6"),
+        ("p", "&sect;7", "sn15.10:7.1-7.4"),
+    ],
+    quiz=[
+        {"q": "What image does this discourse's prose section use?",
+         "opts": [
+             "One individual's bones from a single eon of their own transmigration, forming a heap the size of a mountain",
+             "The bones of every being who has ever lived, combined",
+             "A river's sand grains from source to sea",
+             "A stick tossed into the air"],
+         "correct": 0,
+         "expl": "A narrowed frame — one person, one eon — rather than countless beings collectively."},
+        {"q": "What specific mountain does this discourse name for scale?",
+         "opts": [
+             "Mount Vepulla, higher than the Vulture's Peak, in the Magadhan mountain range",
+             "The Himalayas, without further specification",
+             "Mount Sineru, the cosmic axis-mountain",
+             "No specific mountain is named"],
+         "correct": 0,
+         "expl": "A real, precisely located landmark near Rājagaha."},
+        {"q": "What does this discourse do that no earlier discourse in this vagga does?",
+         "opts": [
+             "It closes with four full verses, following the prose teaching",
+             "It omits the closing exhortation entirely",
+             "It is spoken by someone other than the Buddha",
+             "It contains no parable or image of any kind"],
+         "correct": 0,
+         "expl": "A genuine verse close, unique to this discourse in the vagga."},
+        {"q": "What core doctrinal formula appears explicitly in this discourse's third verse?",
+         "opts": [
+             "The four noble truths and the noble eightfold path",
+             "The seven factors of awakening",
+             "The five precepts",
+             "No doctrinal formula appears in the verses"],
+         "correct": 0,
+         "expl": "The first explicit appearance of this formula anywhere in this saṃyutta."},
+        {"q": "What formula does this discourse's closing verse share with SN 13.1?",
+         "opts": [
+             "\"At most seven times\" — the stream-enterer's bound on remaining rebirths",
+             "The fingernail-and-dirt comparison itself",
+             "The name of a specific mountain",
+             "No formula is shared between the two discourses"],
+         "correct": 0,
+         "expl": "The identical bound given in SN 13.1's fingernail-and-earth comparison, from Abhisamayasaṃyutta."},
+        {"q": "How does this discourse's overall movement proceed, according to this reading guide?",
+         "opts": [
+             "From cosmic-scale measurement toward the actual path that ends the cycle being measured",
+             "From the path itself back toward pure cosmic measurement",
+             "The discourse makes no such movement; it simply repeats one image",
+             "From verse back into prose, reversing the usual order"],
+         "correct": 0,
+         "expl": "Bone-heap imagery giving way to the four noble truths and the eightfold path."},
+        {"q": "What phrase introduces the shift from prose teaching to verse in this discourse?",
+         "opts": [
+             "\"The Holy One, the Teacher, went on to say\"",
+             "\"A brahmin then approached and asked\"",
+             "\"Several mendicants then departed\"",
+             "No transitional phrase appears"],
+         "correct": 0,
+         "expl": "A standard formula marking a shift into verse elsewhere in the canon as well."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "An unnamed brahmin",
+             "An unnamed mendicant",
+             "Several mendicants together"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha both teaches and closes in verse."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "Rājagaha, on the Vulture's Peak Mountain",
+             "Sāvatthī, Jeta's Grove",
+             "Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting that lets the mendicants see Mount Vepulla directly, grounding the image."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth and closing discourse of Paṭhamavagga."},
+    ],
+    marginalia=[
+        ("One person, one eon, still a mountain of bone", [
+            "not countless beings this time &mdash;",
+            "a single individual's own remains alone",
+        ]),
+        ("A mountain the audience could actually see", [
+            "Vepulla, named and located precisely &mdash;",
+            "higher than the Vulture's Peak itself",
+        ]),
+        ("Prose gives way to verse, for the first time", [
+            "the Teacher goes on to speak in verse &mdash;",
+            "unique to this discourse in the whole vagga",
+        ]),
+        ("Measurement ends where the path begins", [
+            "the four truths, the eightfold path, named directly &mdash;",
+            "at most seven lives, and the cycle ends",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.10/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.9.html">SN 15.9 &middot; A Stick</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.11.html">SN 15.11 &middot; In a Sorry State</a> '
+        "&mdash; the next discourse, opening this saṃyutta's second "
+        "and final vagga.",
     ],
 )
