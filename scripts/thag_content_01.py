@@ -20197,3 +20197,2063 @@ page(
         "index.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.101 — Bela&#7789;&#7789;h&amacr;nika
+# --------------------------------------------------------------------------- #
+page(
+    1, 101, "Bela&#7789;&#7789;h&amacr;nika", "Bela&#7789;&#7789;h&amacr;nika",
+    meta_title="Thag 1.101 — Belaṭṭhānika | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Belaṭṭhānika's verse, opening Chapter Eleven with a warning "
+        "about incomplete renunciation, closing on the same hog "
+        "simile as an earlier poem, Thag 1.17. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 1 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a critical description of "
+                    "incomplete renunciation"),
+        ("Speaker", "An unnamed voice describing, in the third "
+                    "person, someone who has gone forth without being "
+                    "transformed by it"),
+        ("Form", "One four-line verse, closing on a simile shared "
+                 "with an earlier poem"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one vivid image"),
+    ],
+    why=(
+        "Chapter Eleven opens not with a declaration but a warning: "
+        "someone who has &lsquo;given up the household life, but is "
+        "far from perfect&rsquo;, lazy and living for his belly, "
+        "compared to a hog stuffed with grain, &lsquo;reborn again "
+        "and again&rsquo;. Its closing two lines are word for word "
+        "identical to Thag 1.17 (Dāsaka), much earlier in this "
+        "collection."),
+    guide=[
+        ("Renunciation without transformation", [
+            "Anavositatto, &lsquo;not yet accomplished&rsquo; or "
+            "&lsquo;far from perfect&rsquo;, sets the verse's terms "
+            "immediately after describing the outward act of going "
+            "forth: leaving the household life is not, by itself, the "
+            "same as completing the path. What follows &mdash; "
+            "mukhanaṅgalī (&lsquo;one who uses his snout as a "
+            "plow&rsquo;), odariko (&lsquo;big-bellied&rsquo;), "
+            "kusīto (&lsquo;lazy&rsquo;) &mdash; describes ordination "
+            "that changed a person's robes but not their habits."]),
+        ("The same hog, two chapters apart", [
+            "Mahāvarāhova nivāpapuṭṭho, punappunaṁ gabbhamupeti "
+            "mando, this verse's closing two lines, match Thag 1.17 "
+            "exactly, word for word. The two verses reach the same "
+            "image by different roads, though: Thag 1.17 built up to "
+            "it through drowsiness and gluttony &mdash; sleeping, "
+            "turning over in bed &mdash; while this verse arrives at "
+            "the same hog through belly-attachment and a distinctly "
+            "unpleasant image of its own, a snout used as a plow. "
+            "Only the shared punchline is identical; each verse's own "
+            "path to it differs."]),
+    ],
+    terms=[
+        ("gihitta",
+         "&ldquo;household life, lay life&rdquo; &mdash; what has "
+         "been given up, though not enough by itself."),
+        ("anavosita",
+         "&ldquo;not yet accomplished, imperfect&rdquo; &mdash; an "
+         "(negation) plus avosita (&lsquo;completed, "
+         "accomplished&rsquo;)."),
+        ("mukhanaṅgalī",
+         "&ldquo;one who uses his snout as a plow&rdquo; &mdash; a "
+         "vivid image unique to this verse, not shared with Thag "
+         "1.17."),
+        ("mahāvarāha",
+         "&ldquo;great hog, great boar&rdquo; &mdash; the shared "
+         "image closing both this verse and Thag 1.17."),
+        ("manda",
+         "&ldquo;dullard, slow-witted&rdquo; &mdash; the verse's "
+         "final word for the person it describes."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.101:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this verse say about the person it describes, despite having given up household life?",
+         "opts": [
+             "He is far from perfect, or 'not yet accomplished'",
+             "He has fully completed the path",
+             "He never actually went forth",
+             "He has become a great teacher"],
+         "correct": 0,
+         "expl": "Anavositatto, the verse's key qualifying word."},
+        {"q": "What earlier poem in this collection does this verse's closing two lines match, word for word?",
+         "opts": [
+             "Thag 1.5 Dabba",
+             "Thag 1.17 Dāsaka",
+             "Thag 1.61 Vappa",
+             "Thag 1.84 Nīta"],
+         "correct": 1,
+         "expl": "Mahāvarāhova nivāpapuṭṭho, punappunaṁ gabbhamupeti mando, identical in both."},
+        {"q": "Do the two verses reach this shared image the same way?",
+         "opts": [
+             "Yes, every line is identical between the two verses",
+             "No — the two verses share no wording at all",
+             "Yes, but only the first lines match, not the closing ones",
+             "No — Thag 1.17 builds up through drowsiness and gluttony; this verse arrives through belly-attachment and a unique snout-as-plow image"],
+         "correct": 3,
+         "expl": "Only the closing couplet is identical; each verse's own path to it differs."},
+        {"q": "What does 'mukhanaṅgalī' describe?",
+         "opts": [
+             "One who uses his snout as a plow",
+             "One who sleeps all day",
+             "One who never eats",
+             "One who travels constantly"],
+         "correct": 0,
+         "expl": "A vivid image unique to this verse."},
+        {"q": "What does 'anavosita' mean?",
+         "opts": [
+             "Fully completed",
+             "Not yet accomplished, imperfect",
+             "Newly ordained",
+             "Extremely wise"],
+         "correct": 1,
+         "expl": "An (negation) plus avosita ('completed')."},
+        {"q": "According to the verse, what happens to this dullard?",
+         "opts": [
+             "He is reborn again and again",
+             "He attains liberation immediately",
+             "He becomes a renowned teacher",
+             "He is expelled from the Saṅgha"],
+         "correct": 0,
+         "expl": "Punappunaṁ gabbhamupeti mando, the verse's closing declaration."},
+        {"q": "What does 'kusīta' mean?",
+         "opts": [
+             "Diligent, energetic",
+             "Generous",
+             "Fearless",
+             "Lazy"],
+         "correct": 3,
+         "expl": "Describing the person's habits despite having gone forth."},
+        {"q": "What kind of verse is this, according to this reading guide?",
+         "opts": [
+             "A first-person testimony of the speaker's own attainment",
+             "A dialogue between two speakers",
+             "A critical, third-person description of incomplete renunciation",
+             "A homage to the Buddha"],
+         "correct": 2,
+         "expl": "A warning rather than a declaration, opening the chapter."},
+        {"q": "What does 'mahāvarāha' mean?",
+         "opts": [
+             "Great teacher",
+             "Great river",
+             "Great mountain",
+             "Great hog, great boar"],
+         "correct": 3,
+         "expl": "The image shared with Thag 1.17."},
+        {"q": "What chapter does this poem open?",
+         "opts": [
+             "Chapter Ten",
+             "Chapter Twelve",
+             "Chapter Eleven",
+             "The Great Book"],
+         "correct": 2,
+         "expl": "The first of ten poems in this new chapter."},
+    ],
+    marginalia=[
+        ("Robes changed, habits not", [
+            "given up the house —",
+            "not yet accomplished"
+        ]),
+        ("The same hog, again", [
+            "two chapters apart —",
+            "the same closing line"
+        ]),
+        ("A different road to it", [
+            "sleep, once; belly, now —",
+            "the punchline, unchanged"
+        ]),
+        ("A snout, plowing", [
+            "an image all its own —",
+            "not borrowed from before"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.101/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.17.html">Thag 1.17 &mdash; D&amacr;saka</a> '
+        "&mdash; an earlier poem sharing this verse's exact closing "
+        "couplet.",
+        '<a href="thag-1.100.html">Thag 1.100 &mdash; Devasabha (2nd)</a> '
+        "&mdash; the poem immediately before this one, closing "
+        "Chapter Ten.",
+        '<a href="thag-1.102.html">Thag 1.102 &mdash; Setuccha</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.102 — Setuccha
+# --------------------------------------------------------------------------- #
+page(
+    1, 102, "Setuccha", "Setuccha",
+    meta_title="Thag 1.102 — Setuccha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Setuccha's verse, naming three obstacles that keep people "
+        "from reaching immersion: conceit, defilement, and gain and "
+        "loss. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 2 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a general teaching on "
+                    "obstacles to concentration"),
+        ("Speaker", "An unnamed voice describing, in the plural, "
+                    "those who fail to reach immersion"),
+        ("Form", "One four-line verse, naming three obstacles"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, three named obstacles"),
+    ],
+    why=(
+        "This verse names three things that keep people from "
+        "reaching samādhi: being deceived by conceit, defiled among "
+        "conditions, and &lsquo;oppressed by gain and loss&rsquo;. No "
+        "narrative or simile carries the point &mdash; the verse "
+        "simply lists what stands in the way."),
+    guide=[
+        ("Three obstacles to immersion", [
+            "Māna (&lsquo;conceit&rsquo;), saṅkilesa "
+            "(&lsquo;defilement&rsquo;) among saṅkhāra "
+            "(&lsquo;conditions, formations&rsquo;), and lābhālābha "
+            "(&lsquo;gain and loss&rsquo;) are named in sequence, "
+            "each contributing to the same failure: samādhiṁ "
+            "nādhigacchanti, &lsquo;they don't reach immersion&rsquo;. "
+            "The verse doesn't rank the three or explain how they "
+            "interact &mdash; it simply lists them as a set of "
+            "obstacles."]),
+        ("Gain and loss, from a well-known set of eight", [
+            "Lābhālābha, &lsquo;gain and loss&rsquo;, is one pair "
+            "from the traditional eight worldly conditions "
+            "(lokadhamma): gain and loss, fame and disrepute, praise "
+            "and blame, pleasure and pain &mdash; four pairs the wider "
+            "canon commonly names together as what an unshakeable "
+            "mind remains equally unmoved by. This verse names only "
+            "the first pair, without invoking the full set."]),
+    ],
+    terms=[
+        ("māna",
+         "&ldquo;conceit&rdquo; &mdash; the first obstacle this "
+         "verse names."),
+        ("saṅkhāra",
+         "&ldquo;conditions, formations&rdquo; &mdash; the domain in "
+         "which defilement is said to arise."),
+        ("lābhālābha",
+         "&ldquo;gain and loss&rdquo; &mdash; one pair from the "
+         "traditional eight worldly conditions."),
+        ("lokadhamma",
+         "&ldquo;worldly conditions&rdquo; &mdash; the traditional "
+         "set of eight: gain/loss, fame/disrepute, praise/blame, "
+         "pleasure/pain."),
+        ("samādhi",
+         "&ldquo;immersion, concentration&rdquo; &mdash; what this "
+         "verse says these three obstacles prevent."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.102:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What three obstacles does this verse name?",
+         "opts": [
+             "Conceit, defilement among conditions, and gain and loss",
+             "Old age, sickness, and death",
+             "Sleep, food, and idle talk",
+             "Doubt, restlessness, and dullness"],
+         "correct": 0,
+         "expl": "The verse's own three-part list."},
+        {"q": "What does the verse say these three obstacles prevent?",
+         "opts": [
+             "Reaching immersion (samādhi)",
+             "Gaining wealth",
+             "Making friends",
+             "Traveling safely"],
+         "correct": 0,
+         "expl": "Samādhiṁ nādhigacchanti, the verse's closing declaration."},
+        {"q": "What does 'lābhālābha' mean?",
+         "opts": [
+             "Praise and blame",
+             "Pleasure and pain",
+             "Gain and loss",
+             "Fame and disrepute"],
+         "correct": 2,
+         "expl": "One pair from the traditional eight worldly conditions."},
+        {"q": "How many pairs make up the traditional eight worldly conditions (lokadhamma)?",
+         "opts": [
+             "Two",
+             "Three",
+             "Four",
+             "Six"],
+         "correct": 2,
+         "expl": "Gain/loss, fame/disrepute, praise/blame, pleasure/pain."},
+        {"q": "Does this verse name all four pairs of the eight worldly conditions?",
+         "opts": [
+             "Yes, all four pairs are named",
+             "It names three of the four pairs",
+             "It replaces them with a different list entirely",
+             "No — it names only the gain/loss pair"],
+         "correct": 3,
+         "expl": "Only lābhālābha is named here, not the full traditional set."},
+        {"q": "What does 'māna' mean?",
+         "opts": [
+             "Conceit",
+             "Doubt",
+             "Sloth",
+             "Generosity"],
+         "correct": 0,
+         "expl": "The first obstacle this verse names."},
+        {"q": "What does 'saṅkhāra' mean in this context?",
+         "opts": [
+             "Robes",
+             "Alms bowls",
+             "Monasteries",
+             "Conditions, formations"],
+         "correct": 3,
+         "expl": "The domain in which defilement is said to arise."},
+        {"q": "Does this verse explain how its three named obstacles interact with each other?",
+         "opts": [
+             "Yes, in detail",
+             "No — it simply lists them without ranking or explaining them",
+             "It explains only two of the three",
+             "It denies any of them are real obstacles"],
+         "correct": 1,
+         "expl": "A plain list, not an analysis."},
+        {"q": "What does 'samādhi' mean?",
+         "opts": [
+             "Generosity",
+             "Homage",
+             "A type of robe",
+             "Immersion, concentration"],
+         "correct": 3,
+         "expl": "What the three obstacles are said to prevent."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The second poem",
+             "The closing poem",
+             "The sixth poem"],
+         "correct": 1,
+         "expl": "Immediately after Belaṭṭhānika's verse."},
+    ],
+    marginalia=[
+        ("Three, named plainly", [
+            "conceit, defilement, gain and loss —",
+            "no immersion reached"
+        ]),
+        ("A pair, from a set of four", [
+            "gain and loss, named —",
+            "three more pairs, unnamed"
+        ]),
+        ("A list, not an analysis", [
+            "three obstacles, stated —",
+            "no ranking offered"
+        ]),
+        ("What immersion needs", [
+            "none of these three —",
+            "the verse implies, by their absence"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.102/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.101.html">Thag 1.101 &mdash; '
+        "Bela&#7789;&#7789;h&amacr;nika</a> &mdash; the poem "
+        "immediately before this one, in the same chapter.",
+        '<a href="thag-1.103.html">Thag 1.103 &mdash; Bandhura</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.103 — Bandhura
+# --------------------------------------------------------------------------- #
+page(
+    1, 103, "Bandhura", "Bandhura",
+    meta_title="Thag 1.103 — Bandhura | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Bandhura's verse, declaring satisfaction with the "
+        "'supreme nectar' of the teaching and refusal to go near "
+        "poison. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 3 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a declaration built on a "
+                    "taste metaphor"),
+        ("Speaker", "Bandhura, in the first person"),
+        ("Form", "One four-line verse, contrasting nectar and "
+                 "poison"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one taste metaphor"),
+    ],
+    why=(
+        "Bandhura declares himself &lsquo;happy and satisfied with "
+        "the sweet teaching&rsquo;, having &lsquo;drunk the best, the "
+        "supreme nectar&rsquo; &mdash; and on that basis, refuses to "
+        "&lsquo;go near poison&rsquo;. The verse never says what the "
+        "opening &lsquo;this&rsquo; (etena) that he has no need of "
+        "actually refers to."),
+    guide=[
+        ("Nectar and poison, two tastes", [
+            "Dhammarasa (&lsquo;the flavor of the teaching&rsquo;) "
+            "and rasagga (&lsquo;the best flavor, the supreme "
+            "nectar&rsquo;) build one half of the verse's taste "
+            "metaphor; visa (&lsquo;poison&rsquo;) supplies its "
+            "opposite. Having tasted the best, the verse reasons, "
+            "there's no reason to seek out its opposite &mdash; "
+            "santhavaṁ, &lsquo;close association&rsquo;, with poison. "
+            "The logic is simple: satisfaction with the best removes "
+            "any pull toward its opposite."]),
+        ("What is 'this'?", [
+            "Nāhaṁ etena atthiko, &lsquo;I have no need of "
+            "this&rsquo;, opens the verse with a demonstrative "
+            "pronoun whose referent is never specified. Whether "
+            "&lsquo;this&rsquo; points to worldly pleasures, a "
+            "specific temptation, or something implied by a context "
+            "now lost to the verse alone, this reading guide does not "
+            "resolve &mdash; the poem itself supplies no antecedent."]),
+        ("A second taste image for the Dhamma", [
+            "Thag 1.91 (Paripuṇṇaka), which opened Chapter Ten, "
+            "compared the Dhamma to food &mdash; something "
+            "&lsquo;consumed&rsquo; and found better than a feast. "
+            "This verse reaches for a related but distinct image: not "
+            "solid food but nectar, paired with its opposite, poison. "
+            "Both verses draw on ingestion and taste to describe "
+            "encountering the teaching, without repeating each "
+            "other's specific wording."]),
+    ],
+    terms=[
+        ("dhammarasa",
+         "&ldquo;the flavor of the teaching&rdquo; &mdash; dhamma "
+         "plus rasa (&lsquo;taste, flavor&rsquo;)."),
+        ("rasagga",
+         "&ldquo;the best flavor, supreme nectar&rdquo; &mdash; rasa "
+         "plus agga (&lsquo;best, highest&rsquo;)."),
+        ("visa",
+         "&ldquo;poison&rdquo; &mdash; the opposite of the nectar "
+         "this verse describes drinking."),
+        ("santhava",
+         "&ldquo;close association, familiarity&rdquo; &mdash; what "
+         "the verse says it will not form with poison."),
+        ("etena",
+         "&ldquo;with this&rdquo; &mdash; a demonstrative pronoun "
+         "opening the verse, whose referent is never specified."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.103:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse say the speaker has drunk?",
+         "opts": [
+             "The best, the supreme nectar",
+             "A bitter medicine",
+             "Ordinary water",
+             "Nothing at all"],
+         "correct": 0,
+         "expl": "Pitvā rasaggamuttamaṁ, the verse's central claim."},
+        {"q": "What does the verse say the speaker will not go near?",
+         "opts": [
+             "Poison",
+             "The Buddha",
+             "Other monks",
+             "The forest"],
+         "correct": 0,
+         "expl": "Na ca kāhāmi visena santhavaṁ, the verse's closing line."},
+        {"q": "Does the verse specify what 'this' (etena), which the speaker has no need of, refers to?",
+         "opts": [
+             "Yes, it names a specific temptation",
+             "No — the verse supplies no antecedent for the pronoun",
+             "Yes, it refers explicitly to wealth",
+             "Yes, it refers explicitly to fame"],
+         "correct": 1,
+         "expl": "A genuine ambiguity this reading guide does not resolve."},
+        {"q": "What earlier poem does this reading guide compare to this verse, as another taste-based image for the Dhamma?",
+         "opts": [
+             "Thag 1.71 Vacchapāla",
+             "Thag 1.61 Vappa",
+             "Thag 1.91 Paripuṇṇaka",
+             "Thag 1.81 Samitigutta"],
+         "correct": 2,
+         "expl": "Both use ingestion imagery, though with different specific wording."},
+        {"q": "What does 'dhammarasa' mean?",
+         "opts": [
+             "The flavor of the teaching",
+             "A type of alms bowl",
+             "A monastic rule",
+             "A place of pilgrimage"],
+         "correct": 0,
+         "expl": "Dhamma plus rasa ('taste, flavor')."},
+        {"q": "What does 'rasagga' mean?",
+         "opts": [
+             "The worst flavor",
+             "The best flavor, supreme nectar",
+             "A bland flavor",
+             "No flavor at all"],
+         "correct": 1,
+         "expl": "Rasa plus agga ('best, highest')."},
+        {"q": "What does 'santhava' mean?",
+         "opts": [
+             "Complete separation",
+             "A formal ceremony",
+             "Close association, familiarity",
+             "A type of meditation"],
+         "correct": 2,
+         "expl": "What the verse says it will not form with poison."},
+        {"q": "What logic does the verse's taste metaphor rest on?",
+         "opts": [
+             "One must taste poison before appreciating nectar",
+             "Nectar and poison taste identical",
+             "The verse rejects both nectar and poison equally",
+             "Having tasted the best removes any pull toward its opposite"],
+         "correct": 3,
+         "expl": "Satisfaction with the supreme removes any need for its opposite."},
+        {"q": "What does 'visa' mean?",
+         "opts": [
+             "Nectar",
+             "Water",
+             "Medicine",
+             "Poison"],
+         "correct": 3,
+         "expl": "The opposite of the nectar this verse describes."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The closing poem",
+             "The seventh poem",
+             "The third poem"],
+         "correct": 3,
+         "expl": "Immediately after Setuccha's verse."},
+    ],
+    marginalia=[
+        ("Nectar, already drunk", [
+            "the best, the supreme —",
+            "no need for what comes after"
+        ]),
+        ("This, unnamed", [
+            "'I have no need of this' —",
+            "the verse does not say what"
+        ]),
+        ("A second taste, a chapter later", [
+            "food, once; nectar, now —",
+            "both, the same teaching"
+        ]),
+        ("Poison, kept at a distance", [
+            "no closeness formed —",
+            "satisfaction enough"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.103/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.91.html">Thag 1.91 &mdash; Paripu&#7751;&#7751;aka</a> '
+        "&mdash; an earlier verse also using an ingestion metaphor for "
+        "the Dhamma.",
+        '<a href="thag-1.102.html">Thag 1.102 &mdash; Setuccha</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="thag-1.104.html">Thag 1.104 &mdash; Khitaka</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.104 — Khitaka
+# --------------------------------------------------------------------------- #
+page(
+    1, 104, "Khitaka", "Khitaka",
+    meta_title="Thag 1.104 — Khitaka | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Khitaka's verse, an exclamatory account of a body made "
+        "light with rapture, floating like cotton in a gale. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 4 of 10",
+    glance=[
+        ("Setting", "A first-person, exclamatory account of "
+                    "meditative rapture"),
+        ("Speaker", "Khitaka, in the first person"),
+        ("Form", "One four-line verse, opening with an interjection"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one vivid physical image"),
+    ],
+    why=(
+        "Khitaka describes his own body as light, &lsquo;full of so "
+        "much rapture and happiness&rsquo;, floating &lsquo;like "
+        "cotton in a gale&rsquo;. The verse opens with vata, an "
+        "exclamation &mdash; &lsquo;Hey!&rsquo; &mdash; giving it a "
+        "more exuberant tone than the measured teaching or "
+        "retrospective testimony found in most of this collection's "
+        "verses."),
+    guide=[
+        ("An exclamation, not a declaration", [
+            "Lahuko vata me kāyo, &lsquo;Hey, my body is light!&rsquo;, "
+            "opens with vata, an interjection of surprise or delight "
+            "rather than a flat statement. Where most verses in this "
+            "collection open with a measured claim &mdash; a "
+            "teaching, a retrospective account, an address &mdash; "
+            "this one opens with something closer to an exclamation, "
+            "caught in the moment of the experience itself."]),
+        ("Rapture and happiness, a familiar pairing", [
+            "Pītisukhena, &lsquo;rapture and happiness&rsquo;, names "
+            "two qualities the wider canon standardly pairs together "
+            "as factors of meditative absorption. This verse doesn't "
+            "explain the pairing or place it within a larger "
+            "framework &mdash; it simply reports the felt experience "
+            "of both, filling the body to the point of feeling "
+            "weightless."]),
+        ("Cotton in a gale", [
+            "Tūlamiva eritaṁ mālutena, &lsquo;like cotton stirred by "
+            "the wind&rsquo;, gives the verse its central image: not "
+            "a doctrinal point but a physical sensation, rendered "
+            "concrete. Khitaka's own name may relate to khitta "
+            "(&lsquo;thrown, tossed&rsquo;, from khipati), which would "
+            "make an interesting fit with a verse about a body that "
+            "feels tossed and floating &mdash; though this reading "
+            "guide notes the connection only as a possibility, not "
+            "something confirmed."]),
+    ],
+    terms=[
+        ("vata",
+         "an interjection of surprise or delight &mdash; "
+         "&ldquo;hey!&rdquo; or &ldquo;how...!&rdquo;, opening this "
+         "verse."),
+        ("pīti",
+         "&ldquo;rapture&rdquo; &mdash; paired with sukha as a "
+         "standard description of meditative absorption."),
+        ("sukha",
+         "&ldquo;happiness&rdquo; &mdash; the second of the two "
+         "qualities named together in this verse."),
+        ("lahuka",
+         "&ldquo;light&rdquo; &mdash; describing the felt weight of "
+         "the body."),
+        ("tūla",
+         "&ldquo;cotton, cotton-fluff&rdquo; &mdash; the verse's "
+         "closing image for a weightless, floating body."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.104:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse's opening word, 'vata', signal?",
+         "opts": [
+             "A measured, flat statement",
+             "An exclamation of surprise or delight",
+             "A formal address to a listener",
+             "A rhetorical question"],
+         "correct": 1,
+         "expl": "'Hey!' or 'how...!', an unusually exuberant opening for this collection."},
+        {"q": "What two qualities does the verse say fill the speaker's body?",
+         "opts": [
+             "Rapture and happiness",
+             "Doubt and fear",
+             "Anger and pride",
+             "Hunger and thirst"],
+         "correct": 0,
+         "expl": "Pītisukhena, a standard pairing describing meditative absorption."},
+        {"q": "What image does the verse close on?",
+         "opts": [
+             "A bird crossing the sky",
+             "A river reaching the sea",
+             "Cotton stirred by the wind",
+             "A tree growing on a mountain"],
+         "correct": 2,
+         "expl": "Tūlamiva eritaṁ mālutena, the verse's closing simile."},
+        {"q": "What does the name Khitaka possibly relate to, according to this reading guide?",
+         "opts": [
+             "Khitta ('thrown, tossed'), from khipati",
+             "Cakkhu ('eye')",
+             "Deva ('god')",
+             "Sāmī ('lord, master')"],
+         "correct": 0,
+         "expl": "Noted only as a possible fit, not a confirmed connection."},
+        {"q": "How does this verse's tone compare to most other verses in this collection?",
+         "opts": [
+             "Identical — most verses share this exclamatory tone",
+             "More exuberant and exclamatory than most, which favor measured teaching or retrospective testimony",
+             "More subdued than every other verse in the collection",
+             "This reading guide finds no difference in tone at all"],
+         "correct": 1,
+         "expl": "Caught in the moment of experience, rather than a flat statement or teaching."},
+        {"q": "What does 'pīti' mean?",
+         "opts": [
+             "Rapture",
+             "Doubt",
+             "Anger",
+             "Fear"],
+         "correct": 0,
+         "expl": "Paired with sukha as a standard factor of meditative absorption."},
+        {"q": "What does 'lahuka' mean?",
+         "opts": [
+             "Heavy",
+             "Solid",
+             "Light",
+             "Broken"],
+         "correct": 2,
+         "expl": "Describing the felt weight of the body."},
+        {"q": "What does 'tūla' mean?",
+         "opts": [
+             "A monastic robe",
+             "A begging bowl",
+             "A river",
+             "Cotton, cotton-fluff"],
+         "correct": 3,
+         "expl": "The verse's closing image."},
+        {"q": "Does this verse explain meditative absorption within a larger doctrinal framework?",
+         "opts": [
+             "Yes, in detail",
+             "It explains only half of the framework",
+             "It denies that absorption produces any physical sensation",
+             "No — it simply reports the felt experience directly"],
+         "correct": 3,
+         "expl": "A physical sensation rendered concrete, not a doctrinal analysis."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The closing poem",
+             "The eighth poem",
+             "The fourth poem"],
+         "correct": 3,
+         "expl": "Immediately after Bandhura's verse."},
+    ],
+    marginalia=[
+        ("An exclamation, mid-experience", [
+            "'Hey, my body is light!' —",
+            "caught in the moment itself"
+        ]),
+        ("Rapture, filling the body", [
+            "pīti and sukha, together —",
+            "no framework offered"
+        ]),
+        ("Cotton, in a gale", [
+            "tossed, floating —",
+            "a body made weightless"
+        ]),
+        ("A name, perhaps matching", [
+            "thrown, tossed —",
+            "the same word, maybe, as his own"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.104/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.103.html">Thag 1.103 &mdash; Bandhura</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="thag-1.105.html">Thag 1.105 &mdash; Malitavambha</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.105 — Malitavambha
+# --------------------------------------------------------------------------- #
+page(
+    1, 105, "Malitavambha", "Malitavambha",
+    meta_title="Thag 1.105 — Malitavambha | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Malitavambha's verse, a paradox about leaving a place "
+        "whether dissatisfied or happy — feeling isn't the point, "
+        "the goal is. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 5 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a general teaching about "
+                    "when to leave a place"),
+        ("Speaker", "An unnamed voice giving general instruction"),
+        ("Form", "One four-line verse, built on a paradox"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "compact, but its logic rewards a careful "
+                       "read"),
+    ],
+    why=(
+        "This verse states a paradox: dissatisfied, one shouldn't "
+        "stay; but even happy, one should still leave. The point "
+        "isn't how a place makes you feel &mdash; it's whether the "
+        "place actually serves &lsquo;the goal&rsquo;."),
+    guide=[
+        ("Leave regardless of feeling", [
+            "The verse deliberately removes emotional state as the "
+            "deciding factor: ukkaṇṭhitopi na vase, &lsquo;dissatisfied, "
+            "one should not stay&rsquo;; ramamānopi pakkame, "
+            "&lsquo;even if happy, one should leave&rsquo;. Both "
+            "conditions &mdash; the negative and the positive "
+            "&mdash; lead to the same instruction, which only makes "
+            "sense once the verse reveals what the real criterion "
+            "is."]),
+        ("The real criterion: does it serve the goal?", [
+            "Anatthasaṁhita, &lsquo;not conducive to the "
+            "goal&rsquo;, names what actually decides whether to "
+            "stay or leave &mdash; not dissatisfaction, not "
+            "happiness, but whether a place serves attha (&lsquo;the "
+            "goal, the benefit&rsquo;). Vicakkhaṇa, &lsquo;one who "
+            "sees clearly&rsquo;, is the one credited with applying "
+            "this criterion correctly, regardless of how the place "
+            "happens to feel."]),
+        ("A structural cousin to an earlier paradox", [
+            "Thag 1.76 (Piyañjaha), earlier in this collection, built "
+            "an entire verse from four paired contrasts with no "
+            "stated reason for any of them. This verse uses a similar "
+            "structural move &mdash; instructing the same action "
+            "under opposite conditions &mdash; but, unlike Thag 1.76, "
+            "supplies its own reason: the goal, not the feeling, is "
+            "what matters. Two poems using the same rhetorical "
+            "pattern to opposite effect, one withholding an "
+            "explanation and one supplying it."]),
+    ],
+    terms=[
+        ("ukkaṇṭhita",
+         "&ldquo;dissatisfied, discontented&rdquo; &mdash; the "
+         "verse's first named condition."),
+        ("ramamāna",
+         "&ldquo;delighting, happy&rdquo; &mdash; the verse's second, "
+         "opposite condition."),
+        ("anatthasaṁhita",
+         "&ldquo;not conducive to the goal&rdquo; &mdash; an "
+         "(negation) plus atthasaṁhita, describing what actually "
+         "decides whether to stay."),
+        ("attha",
+         "&ldquo;the goal, the benefit&rdquo; &mdash; what the verse "
+         "says matters more than how a place feels."),
+        ("vicakkhaṇa",
+         "&ldquo;one who sees clearly, discerning&rdquo; &mdash; the "
+         "verse's term for someone who applies this criterion "
+         "correctly."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.105:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse say one should do if dissatisfied with a place?",
+         "opts": [
+             "Stay anyway",
+             "Not stay there",
+             "Wait a year before deciding",
+             "Complain to the community"],
+         "correct": 1,
+         "expl": "Ukkaṇṭhitopi na vase, the verse's first instruction."},
+        {"q": "What does the verse say one should do even if happy in a place?",
+         "opts": [
+             "Stay forever",
+             "Build a permanent dwelling there",
+             "Leave anyway, if it isn't conducive to the goal",
+             "Invite others to join"],
+         "correct": 2,
+         "expl": "Ramamānopi pakkame — feeling happy doesn't override the real criterion."},
+        {"q": "What does the verse identify as the actual criterion for staying or leaving?",
+         "opts": [
+             "Whether the place is beautiful",
+             "Whether other monks live there",
+             "Whether the place is conducive to the goal (attha)",
+             "Whether food is plentiful"],
+         "correct": 2,
+         "expl": "Anatthasaṁhitaṁ vase vāsaṁ vicakkhaṇo, the verse's key phrase."},
+        {"q": "What does 'vicakkhaṇa' mean?",
+         "opts": [
+             "One who sees clearly, discerning",
+             "One who is easily deceived",
+             "One who never travels",
+             "One who is newly ordained"],
+         "correct": 0,
+         "expl": "The verse's term for someone who applies the real criterion correctly."},
+        {"q": "What earlier poem does this reading guide compare to this verse's paradoxical structure?",
+         "opts": [
+             "Thag 1.61 Vappa",
+             "Thag 1.76 Piyañjaha",
+             "Thag 1.91 Paripuṇṇaka",
+             "Thag 1.5 Dabba"],
+         "correct": 1,
+         "expl": "Both instruct the same action under opposite conditions."},
+        {"q": "Does Thag 1.76 supply a stated reason for its own paradoxical instructions, the way this verse does?",
+         "opts": [
+             "Yes, an identical reason",
+             "Both verses withhold any reason",
+             "Thag 1.76 gives a completely different reason",
+             "No — Thag 1.76 gives no stated reason at all, unlike this verse"],
+         "correct": 3,
+         "expl": "This verse explicitly names the goal as its criterion; Thag 1.76 does not explain itself."},
+        {"q": "What does 'ukkaṇṭhita' mean?",
+         "opts": [
+             "Dissatisfied, discontented",
+             "Overjoyed",
+             "Completely calm",
+             "Newly arrived"],
+         "correct": 0,
+         "expl": "The first of the verse's two named conditions."},
+        {"q": "What does 'attha' mean, as used in this verse?",
+         "opts": [
+             "A monastic robe",
+             "A type of food",
+             "A place of pilgrimage",
+             "The goal, the benefit"],
+         "correct": 3,
+         "expl": "What actually matters, according to the verse's own logic."},
+        {"q": "What does 'ramamāna' mean?",
+         "opts": [
+             "Delighting, happy",
+             "Grieving, sorrowful",
+             "Sleeping",
+             "Fasting"],
+         "correct": 0,
+         "expl": "The second, opposite condition named in the verse."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The ninth poem",
+             "The closing poem",
+             "The fifth poem"],
+         "correct": 3,
+         "expl": "Immediately after Khitaka's verse."},
+    ],
+    marginalia=[
+        ("Leave, either way", [
+            "unhappy, or happy —",
+            "the same instruction"
+        ]),
+        ("The real question", [
+            "not how it feels —",
+            "whether it serves the goal"
+        ]),
+        ("A paradox, explained", [
+            "unlike an earlier one —",
+            "this one gives its reason"
+        ]),
+        ("One who sees clearly", [
+            "past feeling, to purpose —",
+            "the discerning one"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.105/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.76.html">Thag 1.76 &mdash; Piya&ntilde;jaha</a> '
+        "&mdash; an earlier verse using a similar paradoxical "
+        "structure, but withholding any stated reason.",
+        '<a href="thag-1.104.html">Thag 1.104 &mdash; Khitaka</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="thag-1.106.html">Thag 1.106 &mdash; Suhemanta</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.106 — Suhemanta
+# --------------------------------------------------------------------------- #
+page(
+    1, 106, "Suhemanta", "Suhemanta",
+    meta_title="Thag 1.106 — Suhemanta | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Suhemanta's verse, contrasting the simpleton who sees only "
+        "one facet of meaning with the sage who sees a hundred. From "
+        "Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 6 of 10",
+    glance=[
+        ("Setting", "No narrative setting; a wisdom teaching "
+                    "contrasting two kinds of perception"),
+        ("Speaker", "An unnamed voice giving general instruction"),
+        ("Form", "One four-line verse, building to a numeric "
+                 "contrast"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, a clean numeric structure"),
+    ],
+    why=(
+        "This verse builds toward a stark contrast: though a single "
+        "meaning has &lsquo;a hundred facets&rsquo; and &lsquo;a "
+        "hundred characteristics&rsquo;, the simpleton "
+        "(ekaṅgadassin) sees only one factor, while the sage "
+        "(satadassin) sees all hundred."),
+    guide=[
+        ("One facet versus a hundred", [
+            "Sata (&lsquo;hundred&rsquo;) appears three times in this "
+            "compact verse &mdash; sataliṅga, satalakkhaṇa, "
+            "satadassin &mdash; building up to its final, sharpest "
+            "contrast: ekaṅgadassī dummedho, satadassī ca paṇḍito, "
+            "&lsquo;the simpleton sees only one factor, while the "
+            "sage sees a hundred&rsquo;. The numeric repetition itself "
+            "does the argument's work &mdash; three hundreds "
+            "building toward the one line where the number actually "
+            "matters."]),
+        ("Two more words for 'seeing', in one verse", [
+            "Both ekaṅgadassin and satadassin end in dassin, "
+            "&lsquo;one who sees&rsquo; &mdash; the same word root "
+            "already noted opening or appearing near several earlier "
+            "chapters (Thag 1.61, Thag 1.71, Thag 1.75). This verse "
+            "packs two instances of the root into a single line, its "
+            "own densest concentration of this recurring vocabulary "
+            "found anywhere in the collection so far."]),
+        ("A third appearance of the same word for 'fool'", [
+            "Dummedho, &lsquo;simpleton&rsquo;, is the exact word "
+            "Thag 1.84 (Nīta) used for the same kind of figure. This "
+            "chapter's own opener, Thag 1.101, used a related but "
+            "different word, mando (&lsquo;dullard&rsquo;), for a "
+            "similar figure. Across the collection, a recognizable "
+            "type &mdash; someone lacking the wisdom the verses "
+            "praise &mdash; keeps recurring under closely related "
+            "vocabulary."]),
+    ],
+    terms=[
+        ("liṅga",
+         "&ldquo;facet, mark&rdquo; &mdash; here counted as a "
+         "hundred, describing the richness of a single meaning."),
+        ("lakkhaṇa",
+         "&ldquo;characteristic, feature&rdquo; &mdash; paired with "
+         "liṅga in this verse's build-up."),
+        ("ekaṅgadassin",
+         "&ldquo;seeing only one factor&rdquo; &mdash; eka "
+         "(&lsquo;one&rsquo;) plus aṅga (&lsquo;factor&rsquo;) plus "
+         "dassin (&lsquo;one who sees&rsquo;)."),
+        ("satadassin",
+         "&ldquo;seeing a hundred&rdquo; &mdash; sata "
+         "(&lsquo;hundred&rsquo;) plus dassin, describing the sage's "
+         "perception."),
+        ("paṇḍita",
+         "&ldquo;sage, wise person&rdquo; &mdash; the verse's closing "
+         "contrast to dummedha, &lsquo;simpleton&rsquo;."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.106:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "How many times does 'sata' ('hundred') appear in this compact verse?",
+         "opts": [
+             "Once",
+             "Twice",
+             "Three times",
+             "Not at all"],
+         "correct": 2,
+         "expl": "Sataliṅga, satalakkhaṇa, and satadassin."},
+        {"q": "What does the verse say the simpleton sees, compared to the sage?",
+         "opts": [
+             "Nothing at all, versus everything",
+             "Only one factor, versus a hundred",
+             "Exactly half, versus the whole",
+             "The same amount, but with less confidence"],
+         "correct": 1,
+         "expl": "Ekaṅgadassī dummedho, satadassī ca paṇḍito, the verse's closing contrast."},
+        {"q": "What root do both 'ekaṅgadassin' and 'satadassin' share?",
+         "opts": [
+             "Dassin, 'one who sees', already noted in several earlier chapters",
+             "Kāma, 'sensual pleasure'",
+             "Dukkha, 'suffering'",
+             "Ogha, 'flood'"],
+         "correct": 0,
+         "expl": "The densest concentration of this recurring root found anywhere in the collection so far."},
+        {"q": "What earlier poem uses the exact same word, 'dummedha', for a similar figure?",
+         "opts": [
+             "Thag 1.61 Vappa",
+             "Thag 1.91 Paripuṇṇaka",
+             "Thag 1.84 Nīta",
+             "Thag 1.5 Dabba"],
+         "correct": 2,
+         "expl": "The same word, not merely a related concept."},
+        {"q": "What word does this chapter's own opener, Thag 1.101, use for a similar figure?",
+         "opts": [
+             "Dummedha, the identical word",
+             "Paṇḍita, meaning 'sage'",
+             "No such word appears in Thag 1.101",
+             "Manda, a related but different word"],
+         "correct": 3,
+         "expl": "A closely related but distinct term for the same general figure."},
+        {"q": "What does 'liṅga' mean, as used in this verse?",
+         "opts": [
+             "Facet, mark",
+             "A monastic robe",
+             "A begging bowl",
+             "A river"],
+         "correct": 0,
+         "expl": "Describing the richness of a single meaning."},
+        {"q": "What does 'paṇḍita' mean?",
+         "opts": [
+             "Simpleton",
+             "A young child",
+             "A lay donor",
+             "Sage, wise person"],
+         "correct": 3,
+         "expl": "The verse's closing contrast to dummedha."},
+        {"q": "What does 'lakkhaṇa' mean?",
+         "opts": [
+             "Characteristic, feature",
+             "A type of meditation",
+             "A monastic rule",
+             "A place of pilgrimage"],
+         "correct": 0,
+         "expl": "Paired with liṅga in this verse's build-up."},
+        {"q": "What structural device does the verse use to build toward its final contrast?",
+         "opts": [
+             "A narrative with several characters",
+             "A dialogue between two speakers",
+             "A series of unrelated images",
+             "Repeating the number 'hundred' three times before its sharpest point"],
+         "correct": 3,
+         "expl": "The repetition itself does the argument's work."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The sixth poem",
+             "The closing poem",
+             "The tenth poem"],
+         "correct": 1,
+         "expl": "Immediately after Malitavambha's verse."},
+    ],
+    marginalia=[
+        ("A hundred, three times over", [
+            "facets, marks, and sight —",
+            "then, the sharpest line"
+        ]),
+        ("One factor, or a hundred", [
+            "the simpleton sees little —",
+            "the sage sees everything"
+        ]),
+        ("Seeing, twice in one line", [
+            "one who sees one; one who sees a hundred —",
+            "the same root, doubled"
+        ]),
+        ("A recurring type, renamed", [
+            "dummedha, then manda —",
+            "the same fool, different words"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.106/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.84.html">Thag 1.84 &mdash; N&imacr;ta</a> '
+        "&mdash; an earlier poem using the identical word dummedha "
+        "for a similar figure.",
+        '<a href="thag-1.105.html">Thag 1.105 &mdash; Malitavambha</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="thag-1.107.html">Thag 1.107 &mdash; Dhammasava</a> '
+        "&mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.107 — Dhammasava
+# --------------------------------------------------------------------------- #
+page(
+    1, 107, "Dhammasava", "Dhammasava",
+    meta_title="Thag 1.107 — Dhammasava | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Dhammasava's verse, a considered decision to go forth, "
+        "closing with this collection's most frequently repeated "
+        "formula. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 7 of 10",
+    glance=[
+        ("Setting", "A retrospective account of a carefully "
+                    "considered decision to go forth"),
+        ("Speaker", "Dhammasava, in the first person"),
+        ("Form", "One four-line verse, closing on a formula shared "
+                 "with several earlier poems"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one well-established "
+                       "formula"),
+    ],
+    why=(
+        "Dhammasava says he went forth &lsquo;after "
+        "investigating&rsquo; &mdash; a deliberate, considered choice "
+        "rather than an impulsive one &mdash; and closes with a "
+        "formula, &lsquo;I've attained the three knowledges and "
+        "fulfilled the Buddha's instructions&rsquo;, that has now "
+        "appeared more times than any other closing line found in "
+        "this collection."),
+    guide=[
+        ("Investigated, then went forth", [
+            "Tulayitvāna, &lsquo;having weighed&rsquo; or "
+            "&lsquo;having investigated&rsquo;, comes from tulā, "
+            "&lsquo;a balance, a scale&rsquo; &mdash; the same image "
+            "underlying the English &lsquo;weighing up&rsquo; a "
+            "decision. The verse frames Dhammasava's going forth as a "
+            "considered act, deliberately measured, rather than a "
+            "sudden or impulsive departure from lay life."]),
+        ("The collection's most-repeated closing formula", [
+            "Tisso vijjā anuppattā, kataṁ buddhassa sāsanan, "
+            "&lsquo;I've attained the three knowledges and fulfilled "
+            "the Buddha's instructions&rsquo;, now appears five times "
+            "across this collection: Thag 1.24, Thag 1.55, Thag 1.66, "
+            "this verse, and (identically) the poem immediately after "
+            "it, Thag 1.108. That makes it the single most-repeated "
+            "exact formula found in this collection so far, surpassing "
+            "even the three appearances of &lsquo;Vikkhīṇo "
+            "jātisaṁsāro, natthi dāni punabbhavo&rsquo; found earlier "
+            "(Thag 1.67, Thag 1.87, Thag 1.90)."]),
+        ("A name that may fit its own verse", [
+            "Dhammasava reads as dhamma plus sava, related to suṇāti "
+            "(&lsquo;hears&rsquo;) &mdash; &lsquo;hearer of the "
+            "Dhamma&rsquo;. Set against a verse whose opening word is "
+            "about carefully weighing something before acting, this "
+            "reading guide notes the name as a plausible fit, without "
+            "asserting the connection was deliberate."]),
+    ],
+    terms=[
+        ("tulayati",
+         "&ldquo;weighs, considers, investigates&rdquo; &mdash; from "
+         "tulā (&lsquo;a balance, a scale&rsquo;)."),
+        ("agārasmā anagāriyaṁ",
+         "&ldquo;from the household to homelessness&rdquo; &mdash; a "
+         "standard phrase for going forth."),
+        ("tisso vijjā",
+         "&ldquo;the three knowledges&rdquo; &mdash; the standard set "
+         "traditionally comprising recollection of past lives, "
+         "knowledge of beings' rebirth, and knowledge of the ending "
+         "of defilements."),
+        ("anuppatta",
+         "&ldquo;attained, reached&rdquo; &mdash; describing the "
+         "three knowledges as accomplished."),
+        ("Dhammasava",
+         "&ldquo;hearer of the Dhamma&rdquo; &mdash; dhamma plus "
+         "sava, related to suṇāti (&lsquo;hears&rsquo;)."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.107:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does the verse say Dhammasava did before going forth?",
+         "opts": [
+             "Investigated, weighed the decision carefully",
+             "Acted on a sudden impulse",
+             "Was ordered to by his family",
+             "Consulted an oracle"],
+         "correct": 0,
+         "expl": "Tulayitvāna, 'having weighed', from tulā, 'a balance'."},
+        {"q": "How many times has this verse's closing formula ('Tisso vijjā anuppattā, kataṁ buddhassa sāsanan') now appeared in this collection?",
+         "opts": [
+             "Twice",
+             "Three times",
+             "Five times",
+             "Once, only here"],
+         "correct": 2,
+         "expl": "Thag 1.24, 1.55, 1.66, this verse, and Thag 1.108."},
+        {"q": "How does this count compare to the 'Vikkhīṇo jātisaṁsāro' formula found in Thag 1.67, 1.87, and 1.90?",
+         "opts": [
+             "It appears fewer times than that formula",
+             "It appears the same number of times",
+             "It appears more times than that formula, making it the most-repeated found so far",
+             "The two formulas have never been compared"],
+         "correct": 2,
+         "expl": "Five appearances versus three."},
+        {"q": "What does 'tulayati' literally relate to?",
+         "opts": [
+             "Tulā, 'a balance, a scale'",
+             "A type of tree",
+             "A river crossing",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "The image underlying 'weighing up' a decision."},
+        {"q": "What does 'tisso vijjā' mean?",
+         "opts": [
+             "The three roots of unwholesomeness",
+             "The three jewels",
+             "The three trainings",
+             "The three knowledges"],
+         "correct": 3,
+         "expl": "Recollection of past lives, knowledge of beings' rebirth, and knowledge of the ending of defilements."},
+        {"q": "What does the name Dhammasava possibly mean?",
+         "opts": [
+             "Given by the lord",
+             "Ram's head",
+             "Son of an elephant-rider",
+             "Hearer of the Dhamma"],
+         "correct": 3,
+         "expl": "Dhamma plus sava, related to suṇāti ('hears')."},
+        {"q": "How does this reading guide characterize the fit between this name and this verse?",
+         "opts": [
+             "A confirmed, certain connection",
+             "A plausible fit, noted without asserting it was deliberate",
+             "A direct contradiction",
+             "No connection is discussed at all"],
+         "correct": 1,
+         "expl": "The same cautious treatment given to other possible name/verse connections in this collection."},
+        {"q": "What does 'agārasmā anagāriyaṁ' mean?",
+         "opts": [
+             "From the household to homelessness",
+             "From homelessness back to the household",
+             "From one monastery to another",
+             "From poverty to wealth"],
+         "correct": 0,
+         "expl": "A standard phrase for going forth."},
+        {"q": "What does 'anuppatta' mean?",
+         "opts": [
+             "Abandoned, given up",
+             "Forgotten",
+             "Postponed",
+             "Attained, reached"],
+         "correct": 3,
+         "expl": "Describing the three knowledges as accomplished."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The seventh poem",
+             "The closing poem",
+             "The third poem"],
+         "correct": 1,
+         "expl": "Immediately after Suhemanta's verse."},
+    ],
+    marginalia=[
+        ("Weighed, then decided", [
+            "a balance, not an impulse —",
+            "then, homelessness"
+        ]),
+        ("A formula, five times spoken", [
+            "the three knowledges attained —",
+            "the most-repeated line yet"
+        ]),
+        ("More than the other formula", [
+            "five, against three —",
+            "the record now stands"
+        ]),
+        ("A hearer, weighing well", [
+            "Dhammasava, by name —",
+            "fitting, perhaps, not certain"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.107/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.24.html">Thag 1.24 &mdash; Sugandha</a> '
+        "&mdash; the collection's first appearance of this closing "
+        "formula.",
+        '<a href="thag-1.67.html">Thag 1.67 &mdash; '
+        "Ekadhammasavan&imacr;ya</a> &mdash; the collection's other "
+        "much-repeated closing formula, appearing three times.",
+        '<a href="thag-1.106.html">Thag 1.106 &mdash; Suhemanta</a> '
+        "&mdash; the poem immediately before this one, in the same "
+        "chapter.",
+        '<a href="thag-1.108.html">Thag 1.108 &mdash; '
+        "Dhammasavapitu</a> &mdash; the next poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.108 — Dhammasavapitu
+# --------------------------------------------------------------------------- #
+page(
+    1, 108, "Dhammasavapitu", "Dhammasavapitu",
+    meta_title="Thag 1.108 — Dhammasavapitu | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Dhammasavapitu's verse, going forth at 120 years old — a "
+        "monk named only for being 'Dhammasava's father', placed "
+        "right after his son's own verse. From Ru-Yi Meditation "
+        "Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 8 of 10",
+    glance=[
+        ("Setting", "A retrospective account of going forth at an "
+                    "extraordinary age"),
+        ("Speaker", "Dhammasavapitu, in the first person"),
+        ("Form", "One four-line verse, closing on the identical "
+                 "formula as the poem immediately before it"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one striking detail"),
+    ],
+    why=(
+        "Dhammasavapitu declares that he went forth at 120 years old "
+        "&mdash; the most extreme specific age named anywhere in this "
+        "collection &mdash; closing with the exact same formula as "
+        "the poem immediately before his own, Thag 1.107. His own "
+        "name doesn't describe him at all: it names him only as "
+        "&lsquo;Dhammasava's father&rsquo;."),
+    guide=[
+        ("A name that names a relationship, not a person", [
+            "Dhammasavapitu reads as Dhammasava plus pitu "
+            "(&lsquo;father&rsquo;) &mdash; &lsquo;Dhammasava's "
+            "father&rsquo;. Unlike every other name in this "
+            "collection so far, built from a quality, a deed, a clan, "
+            "a place, or an occupation, this elder is identified "
+            "purely through his relationship to his son, who appears "
+            "in the poem immediately before his own."]),
+        ("An inverted order: the son's poem comes first", [
+            "Thag 1.107 (Dhammasava, the son) precedes Thag 1.108 "
+            "(his father) in the collection's sequence &mdash; the "
+            "reverse of the generational order a reader might expect. "
+            "Combined with Thag 1.107's emphasis on a carefully "
+            "&lsquo;weighed&rsquo; decision to go forth and this "
+            "verse's extreme age at ordination, the juxtaposition "
+            "suggests a plausible story: the son investigated and "
+            "went forth first, and the father, perhaps following his "
+            "example, converted much later in life. This reading "
+            "guide presents that only as a reasonable inference from "
+            "how the two poems are placed together, not as something "
+            "either verse states directly."]),
+        ("120 years old, the most extreme age named in this collection", [
+            "Sa vīsavassasatiko, &lsquo;at 120 years old&rsquo;, is "
+            "the only specific human age named anywhere in this "
+            "collection so far &mdash; a striking, concrete detail in "
+            "a collection that otherwise measures time in vague "
+            "spans (&lsquo;countless rebirths&rsquo;) or, in one "
+            "earlier case (Thag 1.96, Khaṇḍasumana), an equally "
+            "striking cosmic number of years spent in the heavens."]),
+        ("The same formula, shared within the pair itself", [
+            "Beyond the collection-wide repetition already noted in "
+            "Thag 1.107's guide &mdash; five appearances across the "
+            "whole collection &mdash; this verse and its immediate "
+            "predecessor share the identical closing couplet with "
+            "each other specifically, giving the father-son pair its "
+            "own internal echo on top of the wider pattern."]),
+    ],
+    terms=[
+        ("pitu",
+         "&ldquo;father&rdquo; &mdash; the second element of this "
+         "elder's name."),
+        ("vīsavassasatika",
+         "&ldquo;120 years old&rdquo;, literally &ldquo;having a "
+         "hundred and twenty years&rdquo; &mdash; vīsa "
+         "(&lsquo;twenty&rsquo;) plus vassasata "
+         "(&lsquo;hundred years&rsquo;)."),
+        ("anagāriya",
+         "&ldquo;homelessness&rdquo; &mdash; what this elder went "
+         "forth to, at an unusually late stage of life."),
+        ("Dhammasavapitu",
+         "&ldquo;Dhammasava's father&rdquo; &mdash; a name built "
+         "entirely from a relationship, not a personal quality."),
+        ("tisso vijjā anuppattā",
+         "&ldquo;I've attained the three knowledges&rdquo; &mdash; "
+         "the closing phrase shared word for word with Thag 1.107, "
+         "his son's verse."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.108:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What age does this verse say the speaker went forth at?",
+         "opts": [
+             "20 years old",
+             "60 years old",
+             "120 years old",
+             "The verse gives no specific age"],
+         "correct": 2,
+         "expl": "Sa vīsavassasatiko, the verse's opening detail."},
+        {"q": "What does the name Dhammasavapitu mean?",
+         "opts": [
+             "Dhammasava's father",
+             "One who has given up what is dear",
+             "Ram's head",
+             "Given by the lord"],
+         "correct": 0,
+         "expl": "Dhammasava plus pitu ('father')."},
+        {"q": "How does this name differ from every other name in this collection so far, according to this reading guide?",
+         "opts": [
+             "It is built from a quality, like most other names",
+             "It is built from a deed, like several other names",
+             "It is built entirely from a relationship to another person, not a personal quality, deed, clan, place, or occupation",
+             "It is a place name, like several other names"],
+         "correct": 2,
+         "expl": "A new naming category, distinct from all the patterns seen so far."},
+        {"q": "In what order do the son's and father's poems appear in the collection?",
+         "opts": [
+             "The son's poem comes first, then the father's — the reverse of expected generational order",
+             "The father's poem comes first, then the son's",
+             "Both poems are combined into one",
+             "The two poems are separated by several chapters"],
+         "correct": 0,
+         "expl": "Thag 1.107 (the son) precedes Thag 1.108 (the father)."},
+        {"q": "Does either verse directly state that the father converted after or because of his son?",
+         "opts": [
+             "Yes, Thag 1.108 states this explicitly",
+             "Yes, Thag 1.107 states this explicitly",
+             "Both verses explicitly deny any connection between them",
+             "No — this reading guide presents it only as a reasonable inference from how the poems are placed together"],
+         "correct": 3,
+         "expl": "An inference from juxtaposition, not a stated fact in either verse."},
+        {"q": "What other verse in this collection names a specific striking number, similar in kind to this verse's age?",
+         "opts": [
+             "Thag 1.71 Vacchapāla",
+             "Thag 1.96 Khaṇḍasumana, naming 800 million years",
+             "Thag 1.61 Vappa",
+             "Thag 1.5 Dabba"],
+         "correct": 1,
+         "expl": "Both are unusually concrete numbers in a collection that otherwise favors vague spans."},
+        {"q": "What does 'vīsavassasatika' literally mean?",
+         "opts": [
+             "Having twenty years",
+             "Having a hundred years",
+             "Having sixty years",
+             "Having a hundred and twenty years"],
+         "correct": 3,
+         "expl": "Vīsa ('twenty') plus vassasata ('hundred years')."},
+        {"q": "What does this verse's closing formula share with Thag 1.107, beyond both belonging to the wider five-time pattern?",
+         "opts": [
+             "Nothing beyond the wider pattern",
+             "The two verses actually use different closing formulas",
+             "Only the Pali matches; the English differs",
+             "An internal echo specific to this father-son pair"],
+         "correct": 3,
+         "expl": "The pair shares the exact formula with each other, on top of the broader collection-wide repetition."},
+        {"q": "What does 'anagāriya' mean?",
+         "opts": [
+             "Homelessness",
+             "Household life",
+             "Wealth",
+             "A monastic robe"],
+         "correct": 0,
+         "expl": "What this elder went forth to, at an unusually advanced age."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The eighth poem",
+             "The closing poem",
+             "The fourth poem"],
+         "correct": 1,
+         "expl": "Immediately after Dhammasava's verse."},
+    ],
+    marginalia=[
+        ("A name, only a relationship", [
+            "Dhammasava's father —",
+            "nothing more claimed"
+        ]),
+        ("Son first, father after", [
+            "the order reversed —",
+            "a story, only suggested"
+        ]),
+        ("One hundred twenty years", [
+            "the latest ordination —",
+            "named nowhere else"
+        ]),
+        ("The same formula, twice in a row", [
+            "father and son, identical words —",
+            "an echo within the echo"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.108/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.107.html">Thag 1.107 &mdash; Dhammasava</a> '
+        "&mdash; the poem immediately before this one, belonging to "
+        "this elder's own son.",
+        '<a href="thag-1.96.html">Thag 1.96 &mdash; '
+        "Kha&#7751;&#7693;asumana</a> &mdash; an earlier verse with "
+        "its own striking, specific number.",
+        '<a href="thag-1.109.html">Thag 1.109 &mdash; '
+        "Sa&#7749;gharakkhita</a> &mdash; the next poem in this "
+        "chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.109 — Sa&#7749;gharakkhita
+# --------------------------------------------------------------------------- #
+page(
+    1, 109, "Sa&#7749;gharakkhita", "Sa&#7749;gharakkhita",
+    meta_title="Thag 1.109 — Saṅgharakkhita | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Saṅgharakkhita's verse, an unresolved critical portrait of "
+        "someone who ignores compassionate counsel even alone on "
+        "retreat. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 9 of 10",
+    glance=[
+        ("Setting", "No narrative frame; a critical description, "
+                    "left without resolution"),
+        ("Speaker", "An unnamed voice describing, in the third "
+                    "person, someone who ignores counsel"),
+        ("Form", "One four-line verse, closing on an animal simile"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, an unresolved tone"),
+    ],
+    why=(
+        "This verse describes someone who, even alone on retreat, "
+        "doesn't heed the counsel of &lsquo;the one with supreme "
+        "compassion for his welfare&rsquo;, living instead with "
+        "&lsquo;unrestrained faculties, like a young deer in the "
+        "woods&rsquo;. Unlike most verses in this collection, it "
+        "offers no turn toward correction or redemption &mdash; the "
+        "failure is simply left standing."),
+    guide=[
+        ("A critical portrait, left unresolved", [
+            "Most verses in this collection that describe failure "
+            "also resolve it, whether through a later declaration of "
+            "attainment or an implied corrective. This one doesn't: "
+            "it states the problem &mdash; ignoring compassionate "
+            "counsel, living with unguarded faculties &mdash; and "
+            "stops there, without any turn toward improvement within "
+            "the verse itself."]),
+        ("Whose failure is this?", [
+            "This reading guide does not resolve whether the verse "
+            "describes Saṅgharakkhita's own past, recalled from "
+            "before he took the path seriously (a pattern already "
+            "seen elsewhere in this collection), or a general "
+            "third-person warning about a type of practitioner. The "
+            "verse's grammar doesn't distinguish between the two "
+            "readings, and no comment survives to settle it."]),
+        ("The one with supreme compassion", [
+            "Paramahitānukampin, &lsquo;one with supreme compassion "
+            "for [someone's] welfare&rsquo;, is almost certainly the "
+            "Buddha, though the verse doesn't name him directly "
+            "&mdash; an epithet-style reference rather than an "
+            "explicit one."]),
+        ("A young deer, a new animal in this collection", [
+            "Migī yathā taruṇajātikā vane, &lsquo;like a young deer "
+            "in the woods&rsquo;, closes the verse with an image of "
+            "natural, undisciplined wildness. This collection has "
+            "reached for other animals before &mdash; a hog (Thag "
+            "1.17, Thag 1.101), an elephant (Thag 1.77), a bird (Thag "
+            "1.92) &mdash; each carrying its own distinct connotation; "
+            "the young deer, associated here with freedom rather than "
+            "gluttony or power, is a new addition to that set."]),
+    ],
+    terms=[
+        ("paramahitānukampin",
+         "&ldquo;one with supreme compassion for [someone's] "
+         "welfare&rdquo; &mdash; almost certainly referring to the "
+         "Buddha, without naming him."),
+        ("rahogata",
+         "&ldquo;gone into solitude, on retreat&rdquo; &mdash; "
+         "describing where this failure is said to occur."),
+        ("pākatindriya",
+         "&ldquo;unrestrained faculties&rdquo; &mdash; pākata "
+         "(&lsquo;ordinary, unguarded&rsquo;) plus indriya "
+         "(&lsquo;faculties&rsquo;)."),
+        ("migī",
+         "&ldquo;a deer&rdquo; &mdash; the verse's closing image, new "
+         "to this collection's set of animal similes."),
+        ("taruṇajātika",
+         "&ldquo;young, of a young kind&rdquo; &mdash; taruṇa "
+         "(&lsquo;young&rsquo;) plus jātika (&lsquo;by nature, by "
+         "kind&rsquo;)."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.109:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What does this verse say about the person it describes, even while on retreat?",
+         "opts": [
+             "He heeds counsel closely",
+             "He doesn't heed the counsel of one with supreme compassion for his welfare",
+             "He returns to household life",
+             "He becomes a renowned teacher"],
+         "correct": 1,
+         "expl": "Na nūnāyaṁ paramahitānukampino, rahogato anuvigaṇeti sāsanaṁ."},
+        {"q": "Does this verse resolve the failure it describes, the way most verses in this collection do?",
+         "opts": [
+             "Yes, with a declaration of later attainment",
+             "Yes, with an explicit corrective instruction",
+             "No — it states the problem and stops there, without resolution",
+             "Yes, the person is expelled from the Saṅgha"],
+         "correct": 2,
+         "expl": "An unusually unresolved verse for this collection."},
+        {"q": "Does this reading guide resolve whether this describes Saṅgharakkhita's own past or a general third-person warning?",
+         "opts": [
+             "Yes, definitively his own past",
+             "Yes, definitively a general warning about others",
+             "No — the verse's grammar doesn't distinguish, and no comment survives to settle it",
+             "The verse explicitly states both readings are wrong"],
+         "correct": 2,
+         "expl": "A genuine ambiguity left open."},
+        {"q": "Who does 'paramahitānukampin' almost certainly refer to, without being named directly?",
+         "opts": [
+             "The Buddha",
+             "The speaker's own father",
+             "A rival teacher",
+             "A local king"],
+         "correct": 0,
+         "expl": "An epithet-style reference rather than an explicit name."},
+        {"q": "What image does the verse close on?",
+         "opts": [
+             "A hog stuffed with grain",
+             "A young deer in the woods",
+             "An elephant in rut",
+             "A bird crossing the sky"],
+         "correct": 1,
+         "expl": "Migī yathā taruṇajātikā vane, a new animal image for this collection."},
+        {"q": "What other animals has this collection already used in similes, according to this reading guide?",
+         "opts": [
+             "A hog, an elephant, and a bird",
+             "Only a hog",
+             "Only a bird",
+             "No animals have appeared before this verse"],
+         "correct": 0,
+         "expl": "Thag 1.17/1.101 (hog), Thag 1.77 (elephant), Thag 1.92 (bird)."},
+        {"q": "What does 'pākatindriya' mean?",
+         "opts": [
+             "Unrestrained faculties",
+             "Fully controlled faculties",
+             "Absent faculties",
+             "Sharpened faculties"],
+         "correct": 0,
+         "expl": "Pākata ('ordinary, unguarded') plus indriya ('faculties')."},
+        {"q": "What does 'rahogata' mean?",
+         "opts": [
+             "Surrounded by a crowd",
+             "Traveling to a distant city",
+             "Newly ordained",
+             "Gone into solitude, on retreat"],
+         "correct": 3,
+         "expl": "Describing where this failure is said to occur."},
+        {"q": "What does 'taruṇajātika' mean?",
+         "opts": [
+             "Ancient, aged",
+             "Fierce, dangerous",
+             "Domesticated",
+             "Young, of a young kind"],
+         "correct": 3,
+         "expl": "Taruṇa ('young') plus jātika ('by nature')."},
+        {"q": "Where does this poem fall in Chapter Eleven?",
+         "opts": [
+             "The opening poem",
+             "The fifth poem",
+             "The closing poem",
+             "The ninth poem"],
+         "correct": 3,
+         "expl": "Immediately after Dhammasavapitu's verse."},
+    ],
+    marginalia=[
+        ("Counsel, ignored", [
+            "even alone, on retreat —",
+            "the compassionate one unheeded"
+        ]),
+        ("No turn toward resolution", [
+            "the failure stated —",
+            "then, the verse stops"
+        ]),
+        ("Whose failure, unclear", [
+            "his own past, or a warning —",
+            "the text does not say"
+        ]),
+        ("A deer, new to the menagerie", [
+            "young, wild, unguarded —",
+            "a different animal, this time"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.109/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.108.html">Thag 1.108 &mdash; '
+        "Dhammasavapitu</a> &mdash; the poem immediately before this "
+        "one, in the same chapter.",
+        '<a href="thag-1.110.html">Thag 1.110 &mdash; Usabha (1st)</a> '
+        "&mdash; the next and final poem in this chapter.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# Thag 1.110 — Usabha (1st)
+# --------------------------------------------------------------------------- #
+page(
+    1, 110, "Usabha", "Usabha (1st)",
+    meta_title="Thag 1.110 — Usabha (1st) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "Usabha's verse, closing Chapter Eleven on mountain trees "
+        "flourishing under rain, paralleled with goodness flourishing "
+        "through seclusion. From Ru-Yi Meditation Center."),
+    vagga="The Book of the Ones &middot; Chapter Eleven &middot; Poem 10 of 10",
+    glance=[
+        ("Setting", "A nature scene paralleled with spiritual "
+                    "flourishing, closing this chapter's tenth and "
+                    "final poem"),
+        ("Speaker", "An unnamed voice, naming Usabha within the "
+                    "verse itself"),
+        ("Form", "One four-line verse, followed by the chapter's "
+                 "formulaic double closing"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "This reading guide does not assert a "
+                              "specific matching text for this poem in "
+                              "other Buddhist literatures."),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; &mdash; "
+                       "plain vocabulary, one extended nature image"),
+    ],
+    why=(
+        "Mountain trees, &lsquo;freshly sprinkled by towering "
+        "clouds&rsquo;, have grown tall &mdash; and for Usabha, "
+        "&lsquo;who loves seclusion, and who thinks only of "
+        "wilderness&rsquo;, goodness flourishes the same way, "
+        "&lsquo;more and more&rsquo;. It closes a chapter that has "
+        "spent much of its length on warnings and unresolved "
+        "failures, on a purely flourishing note."),
+    guide=[
+        ("Rain and trees, goodness and seclusion", [
+            "Nagā nagaggesu susaṁvirūḷhā plays on a genuine Pali "
+            "double meaning: naga can mean both &lsquo;tree&rsquo; "
+            "and &lsquo;mountain&rsquo;, so the line reads literally "
+            "as &lsquo;trees, on the mountain-tops, well-grown&rsquo;, "
+            "with the same root supplying both halves of the image. "
+            "The parallel that follows &mdash; kalyāṇa, "
+            "&lsquo;goodness&rsquo;, growing bhiyyo, &lsquo;more and "
+            "more&rsquo;, the way rain-fed trees grow taller "
+            "&mdash; is a rarer, gentler kind of image for this "
+            "collection, which has more often reached for warning "
+            "similes (a stuffed hog, an unrestrained young deer) than "
+            "for straightforward flourishing."]),
+        ("Named again, within its own verse", [
+            "Usabhassa kalyatan, &lsquo;Usabha's goodness&rsquo;, "
+            "names its own subject inside the verse itself, joining "
+            "Thag 1.83 (Sīha) and Thag 1.93 (Eraka) as poems in this "
+            "collection that build the elder's own name directly "
+            "into their text rather than leaving it only in the "
+            "attribution line."]),
+        ("A chapter that closes gently after a critical run", [
+            "Chapter Eleven opened with a warning about incomplete "
+            "renunciation (Thag 1.101) and included several other "
+            "verses naming obstacles, failures, and unresolved "
+            "critique (Thag 1.102, Thag 1.105, Thag 1.109). This "
+            "closing poem shifts that tone entirely: no warning, no "
+            "obstacle, only flourishing &mdash; a chapter that spends "
+            "much of its length pointing at what goes wrong closes by "
+            "simply describing what goes right."]),
+        ("The chapter's double closing", [
+            "As in every chapter so far, two more lines follow the "
+            "poem itself, both left untranslated by Sujato: vaggo "
+            "ekādasamo (&lsquo;the eleventh chapter [ends]&rsquo;), "
+            "then an uddāna listing all ten names. This uddāna adds "
+            "two more epithets not found in either elder's own verse: "
+            "Khitaka becomes khitako isi (&lsquo;Khitaka the "
+            "sage&rsquo;), and Usabha himself becomes usabho "
+            "mahāmuni (&lsquo;Usabha the great sage&rsquo;) &mdash; "
+            "continuing the same pattern already seen in the uddānas "
+            "closing Chapters Eight, Nine, and Ten."]),
+    ],
+    terms=[
+        ("naga",
+         "a Pali word meaning both &ldquo;tree&rdquo; and "
+         "&ldquo;mountain&rdquo;, played on in this verse's opening "
+         "line."),
+        ("udagga",
+         "&ldquo;towering, exultant&rdquo; &mdash; describing the "
+         "clouds that water the trees."),
+        ("viveka",
+         "&ldquo;seclusion&rdquo; &mdash; what this verse says Usabha "
+         "loves."),
+        ("kalyāṇa",
+         "&ldquo;goodness&rdquo; &mdash; what the verse says "
+         "flourishes &lsquo;more and more&rsquo; in him."),
+        ("vaggo ekādasamo",
+         "&ldquo;the eleventh chapter [ends]&rdquo; &mdash; the "
+         "untranslated closing marker for this chapter."),
+    ],
+    text_intro=(
+        "The text in full: one verse, with no separate attribution "
+        "line in this chapter. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "thag1.110:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What double meaning does 'naga' carry, played on in this verse's opening line?",
+         "opts": [
+             "Both 'river' and 'ocean'",
+             "Both 'tree' and 'mountain'",
+             "Both 'sun' and 'moon'",
+             "Both 'fire' and 'water'"],
+         "correct": 1,
+         "expl": "The same root supplies both halves of the opening image."},
+        {"q": "What does the verse say flourishes 'more and more' in Usabha?",
+         "opts": [
+             "Wealth",
+             "Fame",
+             "Goodness",
+             "Followers"],
+         "correct": 2,
+         "expl": "Kalyāṇa, paralleled with the rain-fed trees growing taller."},
+        {"q": "What two earlier poems does this reading guide compare to this verse, as poems that name their own subject within the verse itself?",
+         "opts": [
+             "Thag 1.71 Vacchapāla and Thag 1.91 Paripuṇṇaka",
+             "Thag 1.83 Sīha and Thag 1.93 Eraka",
+             "Thag 1.61 Vappa and Thag 1.76 Piyañjaha",
+             "Thag 1.5 Dabba and Thag 1.8 Vīra"],
+         "correct": 1,
+         "expl": "Both build the elder's name directly into the poem's own text."},
+        {"q": "How does this poem's tone compare to much of the rest of Chapter Eleven?",
+         "opts": [
+             "Identical — the whole chapter is uniformly warning-focused",
+             "It continues the same warning tone as Thag 1.101",
+             "This reading guide finds no shift in tone at all",
+             "It shifts from a critical run of warnings and unresolved failures to pure flourishing"],
+         "correct": 3,
+         "expl": "A gentle close after Thag 1.101, 1.102, 1.105, and 1.109."},
+        {"q": "What two untranslated lines follow this verse, as in every chapter so far?",
+         "opts": [
+             "A dedication to the Buddha",
+             "A second verse by the same elder",
+             "A list of monastic rules",
+             "A chapter-closing marker and a summary verse (uddāna) listing all ten names"],
+         "correct": 3,
+         "expl": "Vaggo ekādasamo, then the uddāna."},
+        {"q": "What epithet does the chapter's uddāna add to Khitaka's name?",
+         "opts": [
+             "'Isi', the sage",
+             "'Mahā', the great",
+             "'Muni', the sage",
+             "No epithet is added"],
+         "correct": 0,
+         "expl": "Khitako isi, not found in his own verse."},
+        {"q": "What epithet does the uddāna add to Usabha's own name?",
+         "opts": [
+             "'Isi', the sage",
+             "'Mahāpañño', of great wisdom",
+             "'Mahāmuni', the great sage",
+             "No epithet is added"],
+         "correct": 2,
+         "expl": "Usabho mahāmuni, not found in his own verse."},
+        {"q": "What does 'viveka' mean?",
+         "opts": [
+             "Seclusion",
+             "Wealth",
+             "Anger",
+             "Doubt"],
+         "correct": 0,
+         "expl": "What this verse says Usabha loves."},
+        {"q": "What does 'udagga' mean?",
+         "opts": [
+             "Towering, exultant",
+             "Sinking, collapsing",
+             "Silent, still",
+             "Ancient, decayed"],
+         "correct": 0,
+         "expl": "Describing the clouds that water the trees."},
+        {"q": "Where does this poem fall in the Theragātha?",
+         "opts": [
+             "The opening poem of Chapter Eleven",
+             "The first poem of Chapter Twelve",
+             "A poem in the Book of the Twos",
+             "The tenth and final poem of Chapter Eleven"],
+         "correct": 3,
+         "expl": "Closing this chapter's set of ten."},
+    ],
+    marginalia=[
+        ("One word, two meanings", [
+            "tree, or mountain —",
+            "the same root, either way"
+        ]),
+        ("Rain, then growth", [
+            "clouds towering, water falling —",
+            "goodness, growing taller"
+        ]),
+        ("A name, spoken within", [
+            "Usabha's own goodness —",
+            "named inside the verse"
+        ]),
+        ("A chapter ends gently", [
+            "after warnings, unresolved —",
+            "flourishing, at last"
+        ]),
+    ],
+    further=[
+        '<a href="%s/thag1.110/en/sujato" target="_blank" rel="noopener">'
+        "Full Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment." % SC,
+        '<a href="thag-1.109.html">Thag 1.109 &mdash; '
+        "Sa&#7749;gharakkhita</a> &mdash; the poem immediately before "
+        "this one, in the same chapter.",
+        '<a href="thag-1.83.html">Thag 1.83 &mdash; S&imacr;ha</a> '
+        "&mdash; an earlier poem also naming its own subject within "
+        "the verse itself.",
+        '<a href="thag-1.101.html">Thag 1.101 &mdash; '
+        "Bela&#7789;&#7789;h&amacr;nika</a> &mdash; this chapter's "
+        "opening poem.",
+        '<a href="./">Theragatha</a> &mdash; back to the collection '
+        "index.",
+    ],
+)
