@@ -28026,3 +28026,2115 @@ page(
         "and final vagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.11 — Duggatasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 11, "Duggata", "In a Sorry State",
+    meta_title="SN 15.11 — In a Sorry State | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Duggatasutta — opening Dutiyavagga, seeing anyone in "
+        "distress becomes an occasion to recognize: across this long "
+        "time, we too have undergone exactly this. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The refrain, followed by a direct instruction for "
+                 "how to respond to a specific present-moment "
+                 "encounter"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief, and a practical application "
+                       "rather than a measurement of vast scale"),
+    ],
+    why=(
+        "Opening this saṃyutta's second vagga, this discourse turns "
+        "from measuring vast quantities to something immediately "
+        "usable: whenever you see someone in a sorry state, in "
+        "distress, you should conclude, &ldquo;across this long "
+        "time, we too have undergone the same thing.&rdquo; Where "
+        "Paṭhamavagga's parables asked listeners to imagine "
+        "continents of wood or oceans of milk, this discourse asks "
+        "for something far more ordinary: to look at an actual "
+        "suffering person in front of you and recognize your own "
+        "beginningless past reflected in their present condition."),
+    guide=[
+        ("A shift from measurement to encounter", [
+            "Paṭhamavagga's ten discourses each measured some vast "
+            "quantity against beginningless time; this discourse "
+            "instead gives a direct instruction for an ordinary, "
+            "recurring situation &mdash; seeing a suffering "
+            "stranger."]),
+        ("A conclusion to draw, not a fact to memorize", [
+            "The instruction isn't simply informational; it's "
+            "phrased as something to actively conclude in the "
+            "moment (niṭṭhamettha gantabbaṁ, &ldquo;you should "
+            "conclude&rdquo;), turning the teaching into a live "
+            "practice rather than a stored fact."]),
+        ("Empathy grounded in shared history, not mere sentiment", [
+            "The recognition isn't generic compassion for a "
+            "stranger's suffering; it's specifically grounded in the "
+            "claim that you yourself have already been in exactly "
+            "that same sorry state, sometime across your own "
+            "beginningless past."]),
+        ("A discourse that will be immediately mirrored", [
+            "This teaching's structure &mdash; see a specific "
+            "condition, conclude you've experienced it too &mdash; "
+            "is repeated in the very next discourse with the "
+            "opposite condition, happiness rather than distress."]),
+        ("A brief opening for a vagga about relationship", [
+            "Where Paṭhamavagga opened with grand physical "
+            "measurements, this vagga opens with something "
+            "interpersonal &mdash; fitting for a collection that "
+            "will go on to address mothers, fathers, brothers, "
+            "sisters, sons, and daughters directly."]),
+    ],
+    terms=[
+        ("duggataṁ durūpetaṁ",
+         "&ldquo;someone in a sorry state, in distress&rdquo; "
+         "&mdash; this discourse's title condition, the specific "
+         "encounter it addresses."),
+        ("niṭṭhamettha gantabbaṁ",
+         "&ldquo;you should conclude&rdquo; &mdash; the discourse's "
+         "instruction to actively draw a conclusion, not merely "
+         "absorb information."),
+        ("amhehipi evarūpaṁ paccanubhūtaṁ",
+         "&ldquo;we too have undergone the same thing&rdquo; "
+         "&mdash; the exact conclusion this discourse instructs the "
+         "listener to reach."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the temporal "
+         "frame grounding the claim, the same beginningless span "
+         "invoked throughout this saṃyutta."),
+        ("anamataggoyaṁ … saṁsāro",
+         "&ldquo;this transmigration has no known beginning&rdquo; "
+         "&mdash; the saṃyutta's core refrain, opening and closing "
+         "this discourse as in every discourse before it."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the standard setting formula. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.11:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What instruction does this discourse give for encountering someone in distress?",
+         "opts": [
+             "To conclude that you yourself have undergone the same thing, across this long time",
+             "To immediately offer them material assistance",
+             "To avoid looking at them directly",
+             "To recite the four noble truths to them"],
+         "correct": 0,
+         "expl": "A conclusion to actively draw, grounded in shared beginningless history."},
+        {"q": "How does this discourse's approach differ from Paṭhamavagga's parables?",
+         "opts": [
+             "It applies to an ordinary present-moment encounter, rather than measuring a vast imagined quantity",
+             "It measures an even larger quantity than any Paṭhamavagga discourse",
+             "It abandons the anamatagga refrain entirely",
+             "There is no difference in approach"],
+         "correct": 0,
+         "expl": "A shift from grand measurement to a practical, recurring situation."},
+        {"q": "What kind of empathy does this discourse ground its instruction in?",
+         "opts": [
+             "Specifically grounded in having personally experienced the same condition across one's own past",
+             "Generic sentiment unconnected to any personal history",
+             "Empathy is explicitly discouraged in this discourse",
+             "No form of empathy is discussed"],
+         "correct": 0,
+         "expl": "Not mere compassion, but recognition of shared personal history."},
+        {"q": "What does this discourse's structure anticipate in the discourse immediately following it?",
+         "opts": [
+             "The same structure applied to the opposite condition, happiness rather than distress",
+             "A complete abandonment of this discourse's approach",
+             "An identical repetition with no variation at all",
+             "This is the vagga's final discourse; nothing follows it"],
+         "correct": 0,
+         "expl": "SN 15.12 mirrors this discourse with a happy person instead of a suffering one."},
+        {"q": "How does this reading guide connect this discourse's opening to the rest of this vagga?",
+         "opts": [
+             "An interpersonal opening fitting a vagga that goes on to address specific family relationships",
+             "No connection is drawn to the rest of the vagga",
+             "This discourse contradicts the vagga's later family-focused discourses",
+             "The vagga has no unifying theme at all"],
+         "correct": 0,
+         "expl": "Setting up the mother, father, brother, sister, son, and daughter discourses ahead."},
+        {"q": "What phrase marks this as an active instruction, not mere information?",
+         "opts": [
+             "Niṭṭhamettha gantabbaṁ, \"you should conclude\"",
+             "Sādhu sādhu, \"good, good\"",
+             "Idamavoca bhagavā, \"that is what the Buddha said\"",
+             "No such phrase appears in this discourse"],
+         "correct": 0,
+         "expl": "A live, actionable instruction rather than a stored fact."},
+        {"q": "What condition does this discourse specifically address?",
+         "opts": [
+             "Seeing someone in a sorry state, in distress",
+             "Seeing someone celebrating a happy occasion",
+             "Hearing a teaching from a visiting brahmin",
+             "Witnessing a natural disaster"],
+         "correct": 0,
+         "expl": "Duggataṁ durūpetaṁ, this discourse's specific title condition."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this saṃyutta's second and final vagga."},
+    ],
+    marginalia=[
+        ("From measuring the vast to noticing the near", [
+            "no continent of wood this time &mdash;",
+            "just one suffering stranger, right in front of you",
+        ]),
+        ("A conclusion drawn, not a fact stored", [
+            "\"you should conclude\" &mdash;",
+            "an instruction for the moment itself",
+        ]),
+        ("Empathy with a specific ground", [
+            "not sentiment alone, but shared history &mdash;",
+            "you have already been exactly there",
+        ]),
+        ("An opening built for what follows", [
+            "interpersonal, not physical, in scale &mdash;",
+            "setting up a vagga about family itself",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.11/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.10.html">SN 15.10 &middot; A Single Individual</a> '
+        "&mdash; the discourse closing Paṭhamavagga, immediately "
+        "before this one.",
+        '<a href="sn-15.12.html">SN 15.12 &middot; In a Good Way</a> '
+        "&mdash; the next discourse, the identical instruction "
+        "applied to seeing someone happy instead of suffering.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.12 — Sukhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 12, "Sukhita", "In a Good Way",
+    meta_title="SN 15.12 — In a Good Way | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sukhitasutta — SN 15.11's instruction mirrored exactly: "
+        "seeing someone happy and thriving is also an occasion to "
+        "recognize, we too have undergone this. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The exact structural mirror of SN 15.11, with the "
+                 "opposite condition"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a direct companion to SN 15.11, best "
+                       "read immediately alongside it"),
+    ],
+    why=(
+        "This discourse repeats SN 15.11's exact instruction with "
+        "the opposite condition: whenever you see someone in a good "
+        "way, thriving and happy, you should conclude the identical "
+        "thing &mdash; across this long time, we too have undergone "
+        "the same thing. The pairing matters. This saṃyutta doesn't "
+        "reserve its recognition of shared history for suffering "
+        "alone; someone else's happiness is treated as equally "
+        "revealing of your own beginningless past, not merely as "
+        "something to envy or admire from a distance."),
+    guide=[
+        ("A precise structural mirror of SN 15.11", [
+            "Every element of this discourse &mdash; the refrain, "
+            "the instruction's phrasing, the closing exhortation "
+            "&mdash; matches SN 15.11 exactly, with only the "
+            "condition itself reversed from suffering to happiness."]),
+        ("Happiness included, not treated as a separate category", [
+            "It would be easy for a teaching about beginningless "
+            "suffering to focus only on distress; this discourse "
+            "deliberately extends the same recognition to good "
+            "fortune, refusing to let happiness sit outside the "
+            "pattern."]),
+        ("Neither state kept at a distance", [
+            "Read together, SN 15.11 and this discourse insist that "
+            "neither suffering nor happiness in another person is "
+            "something foreign to you &mdash; both are conditions "
+            "your own beginningless past has already included."]),
+        ("A completed pair before the vagga's most dramatic discourse", [
+            "Having addressed both distress and happiness in "
+            "ordinary encounters, this vagga's next discourse shifts "
+            "dramatically to a specific, named group of thirty "
+            "mendicants and a genuinely visceral image."]),
+        ("Brevity as its own kind of completeness", [
+            "Neither this discourse nor SN 15.11 needs elaboration "
+            "beyond its single instruction &mdash; the pairing itself "
+            "does the work of showing the teaching applies evenly, "
+            "without requiring further argument."]),
+    ],
+    terms=[
+        ("sukhitaṁ susajjitaṁ",
+         "&ldquo;someone in a good way, in a happy state&rdquo; "
+         "&mdash; this discourse's title condition, the exact "
+         "opposite of SN 15.11's duggataṁ."),
+        ("niṭṭhamettha gantabbaṁ",
+         "&ldquo;you should conclude&rdquo; &mdash; the identical "
+         "instruction phrase carried over unchanged from SN 15.11."),
+        ("amhehipi evarūpaṁ paccanubhūtaṁ",
+         "&ldquo;we too have undergone the same thing&rdquo; "
+         "&mdash; the same conclusion, now applied to happiness "
+         "rather than distress."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "temporal frame from SN 15.11, unchanged."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the refrain's repeated middle clauses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.12:1.1-1.8"),
+    ],
+    quiz=[
+        {"q": "What condition does this discourse address, mirroring SN 15.11?",
+         "opts": [
+             "Seeing someone in a good way, thriving and happy",
+             "Seeing someone in distress, identical to SN 15.11",
+             "Hearing a teaching from a visiting brahmin",
+             "Witnessing a natural disaster"],
+         "correct": 0,
+         "expl": "The exact opposite condition from SN 15.11's suffering stranger."},
+        {"q": "How does this discourse's structure compare to SN 15.11's?",
+         "opts": [
+             "An exact structural mirror, differing only in the condition addressed",
+             "Completely different in every respect",
+             "Twice as long, with additional teaching added",
+             "It omits the closing exhortation entirely"],
+         "correct": 0,
+         "expl": "Same refrain, same instruction phrasing, same closing, only the condition reversed."},
+        {"q": "What point does pairing SN 15.11 and this discourse together make?",
+         "opts": [
+             "That neither suffering nor happiness in another person is foreign to your own beginningless past",
+             "That happiness is entirely unrelated to this saṃyutta's teaching",
+             "That only suffering deserves this kind of recognition",
+             "That the two conditions cannot be compared in any way"],
+         "correct": 0,
+         "expl": "Both conditions are treated as equally revealing of shared history."},
+        {"q": "Does this discourse treat happiness as something to envy from a distance?",
+         "opts": [
+             "No — it treats another's happiness as revealing your own past experience, not as something separate to admire",
+             "Yes, envy is explicitly recommended",
+             "The discourse makes no comment on how to relate to another's happiness",
+             "It instructs the listener to actively avoid happy people"],
+         "correct": 0,
+         "expl": "Happiness included in the same recognition pattern as distress, not set apart."},
+        {"q": "What discourse follows this pair, shifting the vagga's tone dramatically?",
+         "opts": [
+             "SN 15.13, involving a specific group of thirty mendicants and a visceral image",
+             "SN 15.20, the vagga's own closing discourse",
+             "This is the vagga's final discourse; nothing follows it",
+             "SN 15.1, returning to the previous vagga"],
+         "correct": 0,
+         "expl": "A dramatic shift in both scale and specificity."},
+        {"q": "What does this reading guide say about the brevity shared by SN 15.11 and this discourse?",
+         "opts": [
+             "The pairing itself demonstrates the teaching applies evenly, without needing further elaboration",
+             "The brevity is described as a flaw needing correction",
+             "No comment is made about either discourse's length",
+             "Both discourses are described as unusually long"],
+         "correct": 0,
+         "expl": "Completeness achieved through the paired structure, not through added argument."},
+        {"q": "What temporal frame does this discourse invoke, unchanged from SN 15.11?",
+         "opts": [
+             "Iminā dīghena addhunā, \"in all this long time\"",
+             "A single specific lifetime only",
+             "The current day alone",
+             "No temporal frame is mentioned"],
+         "correct": 0,
+         "expl": "The same beginningless span invoked throughout this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of this vagga."},
+    ],
+    marginalia=[
+        ("The same instruction, the opposite condition", [
+            "not distress this time, but thriving happiness &mdash;",
+            "every other element held exactly constant",
+        ]),
+        ("Happiness kept inside the pattern", [
+            "not set apart as something separate &mdash;",
+            "equally revealing of your own past",
+        ]),
+        ("Neither state left foreign to you", [
+            "someone else's joy, someone else's grief &mdash;",
+            "both already part of your own history",
+        ]),
+        ("A pair complete without further argument", [
+            "two brief discourses, one point made twice &mdash;",
+            "the pairing itself doing the work",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.12/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.11.html">SN 15.11 &middot; In a Sorry State</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "exact structural mirror.",
+        '<a href="sn-15.13.html">SN 15.13 &middot; Thirty Mendicants</a> '
+        "&mdash; the next discourse, shifting dramatically to a "
+        "specific narrative and a visceral image of shed blood.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.13 — Tiṁsamattasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 13, "Tiṁsamatta", "Thirty Mendicants",
+    meta_title="SN 15.13 — Thirty Mendicants | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tiṁsamattasutta — thirty ascetic mendicants, disciplined "
+        "but still fettered, hear the blood they've shed as human, "
+        "beast, and executed criminal exceeds the four oceans, and "
+        "all thirty are freed on the spot. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Rājagaha, in the Bamboo Grove"),
+        ("Speakers", "The Buddha and thirty named mendicants from "
+                     "Pāvā"),
+        ("Form", "A narrative frame, a question-and-answer "
+                 "exchange, an extended list, and a closing "
+                 "attainment narrative"),
+        ("Length", "~4 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the most visceral and narratively "
+                       "dramatic discourse in this saṃyutta"),
+    ],
+    why=(
+        "Thirty mendicants from Pāvā arrive &mdash; wilderness "
+        "dwellers, alms-eaters, rag-robe wearers, owning only three "
+        "robes each &mdash; and despite this rigorous discipline, the "
+        "text states plainly that they &ldquo;still had fetters.&rdquo; "
+        "Seeing this, the Buddha resolves to teach them in a way "
+        "that frees their minds on the spot. He asks the same "
+        "which-is-more question SN 15.4 asked about mother's milk, "
+        "now with a far more visceral measure: the blood shed when "
+        "your head was cut off, across countless past executions, "
+        "exceeds the water in the four oceans. Then the list "
+        "expands &mdash; as cattle, buffalo, sheep, goats, deer, "
+        "chickens, pigs, and as bandits executed for raiding "
+        "villages, highway robbery, and adultery, the blood shed "
+        "always exceeds the oceans. While this discourse was being "
+        "spoken, all thirty mendicants' minds were freed."),
+    guide=[
+        ("Discipline without result, named directly", [
+            "The discourse doesn't soften the problem: despite every "
+            "external mark of serious practice &mdash; wilderness "
+            "dwelling, strict almsfood, rag robes, minimal "
+            "possessions &mdash; these thirty mendicants are stated "
+            "outright to still have fetters, an honest acknowledgment "
+            "that rigor alone hasn't finished the job."]),
+        ("A visceral escalation from SN 15.4's milk", [
+            "Mother's milk was intimate but gentle; blood shed at "
+            "execution is neither &mdash; the measure has "
+            "deliberately intensified, and the discourse doesn't "
+            "flinch from naming decapitation directly, repeatedly, "
+            "across the entire list."]),
+        ("An extended list crossing species and crime", [
+            "Beyond human executions, the list runs through cattle, "
+            "buffalo, sheep, goats, deer, chickens, and pigs, then "
+            "returns to specifically human crimes &mdash; village "
+            "raiding, highway robbery, adultery &mdash; each carrying "
+            "the death penalty, treating animal slaughter and human "
+            "capital punishment as continuous points on the same "
+            "beginningless timeline."]),
+        ("A discourse that names its own outcome", [
+            "Unlike most discourses in this saṃyutta, which close on "
+            "the standard exhortation alone, this one states directly "
+            "what happened next: the mendicants approved what was "
+            "said, and while the discourse was still being spoken, "
+            "their minds were freed from defilements."]),
+        ("The Buddha's own private intention, stated openly", [
+            "Before teaching begins, the text reports the Buddha's "
+            "internal reasoning &mdash; his wish to teach them "
+            "&ldquo;in such a way that their minds are freed&hellip; "
+            "in this very seat&rdquo; &mdash; giving readers rare "
+            "access to the pedagogical intention behind a teaching, "
+            "not just the teaching itself."]),
+    ],
+    terms=[
+        ("sasaṁyojanā",
+         "&ldquo;still had fetters&rdquo; &mdash; the discourse's "
+         "honest acknowledgment that the thirty mendicants' rigorous "
+         "external discipline hasn't yet freed them."),
+        ("sīsacchinnānaṁ lohitaṁ",
+         "&ldquo;the blood shed when your head was cut off&rdquo; "
+         "&mdash; this discourse's central, visceral measure, "
+         "repeated across every item in its extended list."),
+        ("corā gāmaghātā, pāripanthikā, pāradārikā",
+         "&ldquo;bandits [arrested] for raiding villages, highway "
+         "robbery, adultery&rdquo; &mdash; the three specifically "
+         "human crimes closing this discourse's list, each carrying "
+         "capital punishment."),
+        ("anupādāya āsavehi cittāni vimucceyyuṁ",
+         "&ldquo;minds freed from defilements by not grasping&rdquo; "
+         "&mdash; the Buddha's stated aim before teaching, and the "
+         "actual outcome the discourse reports at its close."),
+        ("imasmiñca … veyyākaraṇasmiṁ bhaññamāne",
+         "&ldquo;while this discourse was being spoken&rdquo; "
+         "&mdash; marking that liberation occurred during the "
+         "teaching itself, not afterward through separate practice."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the extended list's repeated clauses. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.13:1.1-1.9"),
+        ("p", "&sect;2", "sn15.13:2.1-2.4"),
+        ("p", "&sect;3", "sn15.13:3.1-3.15"),
+        ("p", "&sect;4", "sn15.13:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What is stated directly about the thirty mendicants, despite their rigorous practice?",
+         "opts": [
+             "They still had fetters",
+             "They had already attained full liberation",
+             "They had never practiced any form of discipline",
+             "The discourse makes no comment on their spiritual state"],
+         "correct": 0,
+         "expl": "An honest acknowledgment that external rigor alone hasn't finished the task."},
+        {"q": "What question does the Buddha ask, echoing SN 15.4's structure?",
+         "opts": [
+             "Which is more: the blood shed at execution across countless lives, or the water in the four oceans?",
+             "Which is more: the grass on earth, or the mustard seeds in a citadel?",
+             "How long does a single eon last?",
+             "How many past mothers has each being had?"],
+         "correct": 0,
+         "expl": "A visceral escalation from SN 15.4's mother's-milk comparison."},
+        {"q": "What categories does this discourse's extended list cover, beyond a single human execution?",
+         "opts": [
+             "Various animals (cattle, buffalo, sheep, goats, deer, chickens, pigs) and specific human crimes (village raiding, highway robbery, adultery)",
+             "Only different human occupations, with no animals mentioned",
+             "Only royal executions, with no ordinary crimes",
+             "The list contains only one single item, repeated"],
+         "correct": 0,
+         "expl": "Animal slaughter and human capital punishment treated as continuous points on one timeline."},
+        {"q": "What happens to the thirty mendicants by the end of this discourse?",
+         "opts": [
+             "Their minds were freed from defilements while the discourse was still being spoken",
+             "They left dissatisfied with the teaching",
+             "They requested a different teaching instead",
+             "The discourse doesn't report any outcome for them"],
+         "correct": 0,
+         "expl": "A stated attainment, not merely the standard closing exhortation."},
+        {"q": "What does the text report about the Buddha's private intention before he begins teaching?",
+         "opts": [
+             "His wish to teach in a way that frees their minds on the spot, in that very seat",
+             "No internal reasoning is reported at all",
+             "His uncertainty about whether to teach them",
+             "His decision to send them away without teaching"],
+         "correct": 0,
+         "expl": "Rare direct access to the pedagogical intention behind a teaching."},
+        {"q": "Where are these thirty mendicants from, and what specific practices do they follow?",
+         "opts": [
+             "From Pāvā; wilderness dwelling, alms-only eating, rag robes, and owning just three robes",
+             "From Sāvatthī; no specific practices are described",
+             "From Kapilavatthu; they are described as wealthy laypeople",
+             "Their origin and practices are not specified"],
+         "correct": 0,
+         "expl": "Rigorous external discipline, named specifically before the discourse states it wasn't yet enough."},
+        {"q": "How does this discourse's measure compare in intensity to SN 15.4's mother's-milk comparison?",
+         "opts": [
+             "Considerably more visceral, naming decapitation directly and repeatedly",
+             "Identical in tone and intensity",
+             "Gentler and less direct than SN 15.4",
+             "This discourse uses no comparative measure at all"],
+         "correct": 0,
+         "expl": "A deliberate escalation in the vividness of the image."},
+        {"q": "Who confirms the mendicants' correct answer, and how?",
+         "opts": [
+             "The Buddha, saying \"good, good\" before extending the list further",
+             "No confirmation is given in this discourse",
+             "A different, unnamed mendicant confirms the answer",
+             "The mendicants confirm their own answer without the Buddha's input"],
+         "correct": 0,
+         "expl": "Sādhu sādhu, then an extended elaboration across many further categories."},
+        {"q": "Where does this discourse take place?",
+         "opts": [
+             "Near Rājagaha, in the Bamboo Grove",
+             "Sāvatthī, Jeta's Grove",
+             "Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting shared with SN 15.8's brahmin dialogue, distinct from most discourses in this vagga."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of this vagga."},
+    ],
+    marginalia=[
+        ("Discipline named honestly as not yet enough", [
+            "wilderness, almsfood, rag robes, three robes &mdash;",
+            "and still, the text says plainly, fettered",
+        ]),
+        ("A measure with real visceral weight", [
+            "not milk this time, but blood at the block &mdash;",
+            "named directly, again and again",
+        ]),
+        ("Beast and bandit, the same timeline", [
+            "cattle, buffalo, sheep, goats, chickens, pigs &mdash;",
+            "then raiders, robbers, adulterers, all counted",
+        ]),
+        ("Freedom arriving mid-sentence, not after", [
+            "while the discourse was still being spoken &mdash;",
+            "thirty minds released before it even ended",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.13/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.12.html">SN 15.12 &middot; In a Good Way</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.14.html">SN 15.14 &middot; Mother</a> '
+        "&mdash; the next discourse, turning to the first of six "
+        "family relationships this vagga addresses in turn.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.14 — Mātusutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 14, "Mātu", "Mother",
+    meta_title="SN 15.14 — Mother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Mātusutta — not a measurement this time, but a "
+        "universal claim: it's not easy to find a being who hasn't "
+        "previously been your mother, across this long time. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The refrain, followed by one direct universal "
+                 "claim rather than a measured comparison"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the briefest possible form, opening "
+                       "a six-discourse set on family relationships"),
+    ],
+    why=(
+        "SN 15.1 measured mothers by comparing them to a continent's "
+        "worth of grass and wood; this discourse instead makes a "
+        "direct universal claim, with no comparison at all: it's not "
+        "easy to find a single sentient being who, somewhere across "
+        "this long, beginningless time, hasn't previously been your "
+        "mother. Opening the first of six consecutive discourses on "
+        "family relationships, this claim shifts the teaching's "
+        "target from &ldquo;how many&rdquo; to &ldquo;how few "
+        "exceptions&rdquo; &mdash; nearly every being you could ever "
+        "meet has, at some point, already stood in this specific "
+        "relationship to you."),
+    guide=[
+        ("A claim, not a measurement", [
+            "Where SN 15.1 needed an elaborate physical image to "
+            "make its point about mothers, this discourse states its "
+            "claim directly and without any comparison at all "
+            "&mdash; a different rhetorical strategy for a related "
+            "idea."]),
+        ("Nearly universal, phrased as a rare exception", [
+            "&ldquo;It's not easy to find a being who hasn't&rdquo; "
+            "is a double negative construction that emphasizes just "
+            "how close to universal this claim is &mdash; not "
+            "&ldquo;most beings,&rdquo; but almost all of them, with "
+            "exceptions being the genuinely hard-to-find case."]),
+        ("Opening a six-part set", [
+            "This is the first of six consecutive discourses (SN "
+            "15.14&ndash;19) each applying this identical structure "
+            "to a different family relationship &mdash; mother "
+            "first, establishing the pattern the following five "
+            "will repeat."]),
+        ("A companion, not a duplicate, of SN 15.1", [
+            "Though both discourses concern mothers, they make "
+            "genuinely different claims: SN 15.1 says the count of "
+            "past mothers exceeds an entire continent's wood; this "
+            "discourse says nearly every being has already been your "
+            "mother at some point &mdash; quantity versus near-total "
+            "coverage."]),
+        ("A universal claim grounding real-world regard", [
+            "Taken seriously, this claim reframes how one might "
+            "regard any stranger &mdash; not as unrelated, but as "
+            "someone who has, somewhere in beginningless time, "
+            "already occupied this most intimate of relationships."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the discourse's "
+         "framing, emphasizing how rare an exception to this claim "
+         "would actually be."),
+        ("namātābhūtapubbo",
+         "&ldquo;has not previously been your mother&rdquo; &mdash; "
+         "this discourse's specific claim, applied to nearly every "
+         "sentient being."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "beginningless temporal frame used throughout this "
+         "saṃyutta."),
+        ("anamataggoyaṁ … saṁsāro",
+         "&ldquo;this transmigration has no known beginning&rdquo; "
+         "&mdash; the refrain opening and closing this discourse."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the standard refrain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.14:1.1-1.6"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about mothers?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your mother",
+             "The number of past mothers exceeds a continent's worth of wood",
+             "Only a small handful of beings have ever been your mother",
+             "No being has ever been your mother more than once"],
+         "correct": 0,
+         "expl": "A direct universal claim, without any comparative measurement."},
+        {"q": "How does this discourse's approach differ from SN 15.1's treatment of mothers?",
+         "opts": [
+             "It states a direct claim with no comparison, rather than measuring against a physical quantity",
+             "It is identical in every respect to SN 15.1",
+             "It denies SN 15.1's claim entirely",
+             "It doesn't mention mothers at all"],
+         "correct": 0,
+         "expl": "Two genuinely different rhetorical strategies for related ideas."},
+        {"q": "What does the double-negative phrasing (\"not easy to find a being who hasn't\") emphasize?",
+         "opts": [
+             "How close to universal the claim actually is, with exceptions being genuinely rare",
+             "That the claim applies to almost no beings at all",
+             "Complete uncertainty about the claim's truth",
+             "No particular emphasis; the phrasing is purely stylistic"],
+         "correct": 0,
+         "expl": "Nearly all beings, not merely most, have occupied this relationship."},
+        {"q": "What set of discourses does this one open?",
+         "opts": [
+             "Six consecutive discourses (SN 15.14-19), each addressing a different family relationship",
+             "A set of ten discourses about physical measurements",
+             "A single standalone discourse with no connection to any others",
+             "Three discourses about brahmins and their conversion"],
+         "correct": 0,
+         "expl": "Establishing a pattern that father, brother, sister, son, and daughter will each repeat."},
+        {"q": "How does this reading guide suggest the claim might reframe how one regards a stranger?",
+         "opts": [
+             "Not as unrelated, but as someone who has already occupied this intimate relationship at some point",
+             "As someone to be avoided entirely",
+             "As entirely disconnected from one's own history",
+             "The reading guide draws no such connection"],
+         "correct": 0,
+         "expl": "A practical reframing grounded in the universal claim."},
+        {"q": "What temporal frame does this discourse's claim rest on?",
+         "opts": [
+             "Iminā dīghena addhunā, \"in all this long time\" — the beginningless span of transmigration",
+             "Only the events of a single lifetime",
+             "A specific, dated historical period",
+             "No temporal frame is specified"],
+         "correct": 0,
+         "expl": "The same beginningless frame used throughout this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What relationship does the discourse immediately following this one address?",
+         "opts": [
+             "Father",
+             "Brother",
+             "Son",
+             "This is the vagga's final discourse; nothing follows it"],
+         "correct": 0,
+         "expl": "SN 15.15 applies the identical structure to fathers."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A claim, where SN 15.1 needed an image", [
+            "no continent of wood required this time &mdash;",
+            "the point made directly, without comparison",
+        ]),
+        ("An exception harder to find than the rule", [
+            "\"not easy to find one who hasn't\" &mdash;",
+            "nearly universal, phrased as a rarity",
+        ]),
+        ("The first of six family relationships", [
+            "mother named first, the pattern set &mdash;",
+            "father, brother, sister, son, daughter to follow",
+        ]),
+        ("A stranger reframed by beginningless time", [
+            "not unrelated, but once your own mother &mdash;",
+            "somewhere in a past too vast to trace",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.14/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.13.html">SN 15.13 &middot; Thirty Mendicants</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.15.html">SN 15.15 &middot; Father</a> '
+        "&mdash; the next discourse, the identical claim applied to "
+        "fathers.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.15 — Pitusutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 15, "Pitu", "Father",
+    meta_title="SN 15.15 — Father | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pitusutta — SN 15.14's claim repeated exactly for "
+        "fathers: it's not easy to find a being who hasn't "
+        "previously stood in this relationship to you. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The exact structural repetition of SN 15.14, with "
+                 "the relationship swapped"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a direct companion to SN 15.14, best "
+                       "read immediately alongside it"),
+    ],
+    why=(
+        "This discourse repeats SN 15.14's exact claim with fathers "
+        "in place of mothers: it's not easy to find a being who "
+        "hasn't previously been your father, across this long time. "
+        "Together, the two discourses complete the parental pair "
+        "this saṃyutta's family-relationship set opens with, "
+        "mirroring how SN 15.1 and 15.2 opened Paṭhamavagga with "
+        "exactly the same maternal-then-paternal sequence, though "
+        "using measurement there instead of this discourse's direct "
+        "universal claim."),
+    guide=[
+        ("An exact repetition, one word changed", [
+            "Every element of this discourse matches SN 15.14 "
+            "precisely; only mātā, mother, becomes pitā, father, "
+            "throughout."]),
+        ("Completing a pair this saṃyutta has drawn twice now", [
+            "SN 15.1 and 15.2 opened Paṭhamavagga with grass-and-wood "
+            "for mothers, then earth-for-fathers; this discourse and "
+            "SN 15.14 open a comparable pair here, using a different "
+            "rhetorical form for the same relationship pairing."]),
+        ("The parental relationships given first, deliberately", [
+            "Of the six family relationships this set addresses, "
+            "mother and father come first &mdash; the two "
+            "relationships from which every other family bond in "
+            "the set (brother, sister, son, daughter) ultimately "
+            "extends."]),
+        ("A universal claim requiring no further argument", [
+            "As with SN 15.14, this discourse offers its claim "
+            "directly and moves on, trusting the mother discourse's "
+            "logic to transfer without needing to be restated in "
+            "different terms."]),
+        ("The pattern about to shift to lateral relationships", [
+            "Having addressed both parents, this saṃyutta's next "
+            "pair turns to siblings &mdash; brother and sister "
+            "&mdash; before finally addressing children in the set's "
+            "final two discourses."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the same framing "
+         "phrase as SN 15.14, unchanged."),
+        ("napitābhūtapubbo",
+         "&ldquo;has not previously been your father&rdquo; &mdash; "
+         "this discourse's claim, differing from SN 15.14 only in "
+         "the relationship named."),
+        ("mātā, pitā",
+         "&ldquo;mother, father&rdquo; &mdash; the two parental "
+         "relationships this pair of discourses addresses, opening "
+         "the set of six."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "temporal frame as every discourse in this saṃyutta."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the standard refrain. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.15:1.1-1.4"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make, mirroring SN 15.14?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your father",
+             "The number of past fathers exceeds the whole earth's mass",
+             "No being has ever been your father more than once",
+             "Fathers are entirely unrelated to this saṃyutta's teaching"],
+         "correct": 0,
+         "expl": "The identical structure as SN 15.14, with father replacing mother."},
+        {"q": "How does this discourse's relationship to SN 15.14 compare to SN 15.1 and 15.2's relationship?",
+         "opts": [
+             "Both pairs address mother-then-father, but using different rhetorical forms (measurement versus direct claim)",
+             "There is no meaningful parallel between these two pairs",
+             "SN 15.1-2 address siblings, not parents, unlike this pair",
+             "This pair contradicts what SN 15.1-2 claimed"],
+         "correct": 0,
+         "expl": "The same relationship sequence, expressed through a different teaching style."},
+        {"q": "Why are mother and father addressed first in this six-discourse set?",
+         "opts": [
+             "They are the relationships from which every other family bond in the set ultimately extends",
+             "They are considered less important than the other four relationships",
+             "The order is entirely arbitrary with no significance",
+             "Mother and father are actually addressed last, not first"],
+         "correct": 0,
+         "expl": "A deliberate ordering, not a random sequence."},
+        {"q": "What relationship pair does this saṃyutta turn to immediately after mother and father?",
+         "opts": [
+             "Siblings — brother and sister",
+             "Children — son and daughter",
+             "This is the final discourse in the entire saṃyutta",
+             "The saṃyutta returns to physical measurement discourses"],
+         "correct": 0,
+         "expl": "SN 15.16-17 address brother and sister next, before children in SN 15.18-19."},
+        {"q": "Does this discourse restate SN 15.14's logic in different terms?",
+         "opts": [
+             "No — it simply repeats the identical claim, trusting the logic to transfer without restatement",
+             "Yes, it gives an entirely new argument for fathers specifically",
+             "It explicitly refutes SN 15.14's reasoning",
+             "This discourse contains no reasoning of any kind"],
+         "correct": 0,
+         "expl": "A direct repetition rather than a fresh argument."},
+        {"q": "What word changes between SN 15.14 and this discourse, with everything else held constant?",
+         "opts": [
+             "Mātā (mother) becomes pitā (father)",
+             "The entire discourse's structure changes completely",
+             "The refrain is removed entirely",
+             "No word changes; the two discourses are word-for-word identical"],
+         "correct": 0,
+         "expl": "A single substitution, otherwise an exact match."},
+        {"q": "What temporal frame grounds this discourse's claim?",
+         "opts": [
+             "Iminā dīghena addhunā, \"in all this long time\"",
+             "A single specific lifetime",
+             "Only the recent past",
+             "No temporal frame is given"],
+         "correct": 0,
+         "expl": "The same beginningless span as SN 15.14 and every discourse in this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("One word changed, everything else held constant", [
+            "mother becomes father, nothing more &mdash;",
+            "the same claim, the same exact form",
+        ]),
+        ("A pair completed a second time", [
+            "grass-and-wood then earth, back in Paṭhamavagga &mdash;",
+            "now claim then claim, here in Dutiyavagga",
+        ]),
+        ("The relationships every other bond extends from", [
+            "mother and father named first &mdash;",
+            "before siblings, before children",
+        ]),
+        ("A logic trusted to transfer without restating", [
+            "no new argument built for fathers &mdash;",
+            "the mother discourse's reasoning simply carried over",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.15/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.14.html">SN 15.14 &middot; Mother</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "exact structural twin.",
+        '<a href="sn-15.16.html">SN 15.16 &middot; Brother</a> '
+        "&mdash; the next discourse, turning from parents to "
+        "siblings.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.16 — Bhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 16, "Bhātu", "Brother",
+    meta_title="SN 15.16 — Brother | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhātusutta — the same universal claim as SN 15.14-15, "
+        "now applied to brothers, turning from parents to lateral "
+        "family relationships. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same universal claim as SN 15.14-15, in its "
+                 "most compressed form yet"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the most compressed discourse in "
+                       "this entire family-relationship set"),
+    ],
+    why=(
+        "Having addressed both parents, this discourse turns to the "
+        "first lateral relationship in this set: it's not easy to "
+        "find a being who hasn't previously been your brother, "
+        "across this long time. Where mother and father named "
+        "relationships in which the other person stood in a "
+        "generation above you, brother marks this saṃyutta's shift "
+        "toward peer relationships &mdash; and the source itself "
+        "marks the shift with even heavier compression than SN "
+        "15.14-15 used, trusting the pattern to be fully "
+        "established by now."),
+    guide=[
+        ("The most compressed discourse in the set so far", [
+            "Where SN 15.14 spelled out the full refrain and "
+            "closing exhortation, this discourse elides nearly "
+            "everything except the one clause that actually "
+            "changes &mdash; a sign of how firmly established the "
+            "pattern has become after two full discourses."]),
+        ("A shift from generational to lateral relationship", [
+            "Mother and father named relationships where the other "
+            "person stood a generation above you; brother is this "
+            "set's first lateral relationship, someone standing "
+            "beside you rather than above."]),
+        ("The identical claim, applied without modification", [
+            "As with SN 15.15's shift from mother to father, no new "
+            "argument is built here; the same universal claim "
+            "simply substitutes bhātā, brother, for the relationship "
+            "in question."]),
+        ("The middle of a six-part set", [
+            "This is the third of six discourses in this "
+            "relationship series, with sister immediately following "
+            "to complete the sibling pair, then son and daughter "
+            "closing the set."]),
+        ("Compression as its own kind of confidence", [
+            "By eliding so much of the standard formula, the source "
+            "signals that a reader who has followed this saṃyutta "
+            "this far needs no further explanation &mdash; the "
+            "pattern itself has become the teaching."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the same framing "
+         "phrase carried through unchanged from SN 15.14-15."),
+        ("nabhātābhūtapubbo",
+         "&ldquo;has not previously been your brother&rdquo; "
+         "&mdash; this discourse's specific claim."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "beginningless temporal frame used throughout."),
+        ("bhātā",
+         "&ldquo;brother&rdquo; &mdash; this discourse's title "
+         "relationship, the first lateral (rather than generational) "
+         "bond addressed in this set."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own heavy "
+        "elision of the standard refrain. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.16:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about brothers?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your brother",
+             "Brothers are excluded from this saṃyutta's teaching",
+             "Only a small number of beings have ever been your brother",
+             "The discourse makes no specific claim about brothers"],
+         "correct": 0,
+         "expl": "The same universal claim used for mother and father, now applied to brother."},
+        {"q": "How does this discourse's compression compare to SN 15.14-15?",
+         "opts": [
+             "Considerably heavier, eliding nearly everything except the one changed clause",
+             "Identical in length to SN 15.14",
+             "Longer and more elaborate than SN 15.14-15",
+             "This discourse contains no elision at all"],
+         "correct": 0,
+         "expl": "A sign of how firmly established the pattern has become."},
+        {"q": "What kind of relationship does \"brother\" represent, compared to mother and father?",
+         "opts": [
+             "A lateral, peer relationship, rather than a generational one",
+             "An identical generational relationship to mother and father",
+             "A relationship entirely unrelated to family",
+             "This reading guide draws no distinction between them"],
+         "correct": 0,
+         "expl": "Someone standing beside you, not above you in generation."},
+        {"q": "What position does this discourse hold within the six-discourse family-relationship set?",
+         "opts": [
+             "The third of six, with sister immediately following to complete the sibling pair",
+             "The first discourse in the set",
+             "The final discourse in the set",
+             "This discourse is not part of the family-relationship set"],
+         "correct": 0,
+         "expl": "Mother and father precede it; sister, son, and daughter follow."},
+        {"q": "Does this discourse offer a new argument specific to brothers?",
+         "opts": [
+             "No — it applies the identical claim used for mother and father, without modification",
+             "Yes, an entirely new line of reasoning is developed",
+             "It explicitly denies the claim made in SN 15.14-15",
+             "This discourse contains no claim of any kind"],
+         "correct": 0,
+         "expl": "A direct substitution, not a fresh argument."},
+        {"q": "What does this reading guide say heavy compression signals about the reader at this point?",
+         "opts": [
+             "That a reader who has followed the saṃyutta this far needs no further explanation",
+             "That the reader is expected to have skipped all earlier discourses",
+             "That this discourse's content is less important than earlier ones",
+             "No particular signal is intended by the compression"],
+         "correct": 0,
+         "expl": "The pattern itself has become the teaching by this point."},
+        {"q": "What temporal frame grounds this discourse's claim?",
+         "opts": [
+             "Iminā dīghena addhunā, \"in all this long time\"",
+             "A single specific lifetime",
+             "Only the present moment",
+             "No temporal frame is given"],
+         "correct": 0,
+         "expl": "The same beginningless span used throughout this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("A pattern trusted to speak for itself", [
+            "barely a sentence long now &mdash;",
+            "the fullest form given two discourses ago",
+        ]),
+        ("From above you to beside you", [
+            "mother, father, generation above &mdash;",
+            "brother, the first relationship standing level",
+        ]),
+        ("No new case built, only substituted", [
+            "the identical claim, one word changed &mdash;",
+            "brother stepping into mother and father's place",
+        ]),
+        ("The middle of six, not yet the close", [
+            "sister waits immediately after &mdash;",
+            "then son and daughter to finish the set",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.16/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.15.html">SN 15.15 &middot; Father</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.17.html">SN 15.17 &middot; Sister</a> '
+        "&mdash; the next discourse, completing the sibling pair.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.17 — Bhaginisutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 17, "Bhagini", "Sister",
+    meta_title="SN 15.17 — Sister | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Bhaginisutta — SN 15.16's claim repeated exactly for "
+        "sisters, completing this set's sibling pair before it turns "
+        "to children. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The exact structural repetition of SN 15.16, with "
+                 "the relationship swapped"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; a direct companion to SN 15.16, "
+                       "completing this set's sibling pair"),
+    ],
+    why=(
+        "This discourse repeats SN 15.16's exact claim with sister "
+        "in place of brother: it's not easy to find a being who "
+        "hasn't previously been your sister, across this long time. "
+        "Together, the two discourses complete the sibling pair, "
+        "positioned between the parental pair (mother, father) "
+        "before it and the pair of children (son, daughter) after "
+        "it &mdash; this set's middle relationships, the ones "
+        "standing beside rather than above or below."),
+    guide=[
+        ("An exact repetition, one word changed", [
+            "As with SN 15.15's shift from mother to father, this "
+            "discourse changes only bhātā, brother, to bhaginī, "
+            "sister, leaving every other element of SN 15.16 "
+            "unchanged."]),
+        ("The sibling pair, now complete", [
+            "With brother and sister both addressed, this "
+            "saṃyutta has now given equal, identically structured "
+            "treatment to both the male and female forms of every "
+            "relationship in this six-part set."]),
+        ("A position at the set's structural center", [
+            "Sister is the fourth of six discourses, standing "
+            "exactly between the parental pair before it and the "
+            "children's pair still to come &mdash; the lateral, "
+            "peer relationships occupying the set's middle."]),
+        ("Consistent gender pairing across the whole set", [
+            "Mother/father, brother/sister, and the coming son/"
+            "daughter each pair a female and male form of the same "
+            "relationship, giving this six-discourse set a "
+            "consistent, deliberate internal structure rather than "
+            "an arbitrary list."]),
+        ("Two relationships remaining before this vagga's close", [
+            "After this discourse, only son and daughter remain in "
+            "the family-relationship set, before SN 15.20 closes the "
+            "entire saṃyutta with its most elaborate discourse."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the same framing "
+         "phrase carried through unchanged."),
+        ("nabhaginibhūtapubbo",
+         "&ldquo;has not previously been your sister&rdquo; "
+         "&mdash; this discourse's specific claim."),
+        ("bhaginī",
+         "&ldquo;sister&rdquo; &mdash; this discourse's title "
+         "relationship, completing the sibling pair with SN 15.16's "
+         "brother."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "beginningless temporal frame used throughout this "
+         "saṃyutta."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own heavy "
+        "elision of the standard refrain. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.17:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make, mirroring SN 15.16?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your sister",
+             "Sisters are treated differently from brothers in this saṃyutta",
+             "No being has ever been your sister more than once",
+             "The discourse makes no claim about sisters"],
+         "correct": 0,
+         "expl": "The identical structure as SN 15.16, with sister replacing brother."},
+        {"q": "What pair does this discourse complete?",
+         "opts": [
+             "The sibling pair, brother and sister",
+             "The parental pair, mother and father",
+             "The children's pair, son and daughter",
+             "No pair is completed by this discourse"],
+         "correct": 0,
+         "expl": "Equal, identically structured treatment for both siblings."},
+        {"q": "Where does this discourse fall within the six-part relationship set?",
+         "opts": [
+             "The fourth, at the structural center between parents and children",
+             "The first discourse in the set",
+             "The final discourse in the set",
+             "This discourse is not part of the relationship set"],
+         "correct": 0,
+         "expl": "Standing between the parental pair before it and the children's pair still to come."},
+        {"q": "What structural pattern does this reading guide identify across the whole six-discourse set?",
+         "opts": [
+             "A consistent pairing of female and male forms of each relationship",
+             "A completely random, unstructured list of relationships",
+             "Only male relationships are addressed anywhere in the set",
+             "No structural pattern is identified"],
+         "correct": 0,
+         "expl": "Mother/father, brother/sister, and the coming son/daughter, each a deliberate pair."},
+        {"q": "How many relationships remain in this set after this discourse?",
+         "opts": [
+             "Two — son and daughter",
+             "None; this is the set's final discourse",
+             "Four remain",
+             "The set has no fixed number of relationships"],
+         "correct": 0,
+         "expl": "Son and daughter close the set before SN 15.20's elaborate finale."},
+        {"q": "What single word changes between SN 15.16 and this discourse?",
+         "opts": [
+             "Bhātā (brother) becomes bhaginī (sister)",
+             "The entire structure changes completely",
+             "The refrain is removed entirely",
+             "No word changes at all"],
+         "correct": 0,
+         "expl": "A single substitution, otherwise an exact structural match."},
+        {"q": "What temporal frame grounds this discourse's claim?",
+         "opts": [
+             "Iminā dīghena addhunā, \"in all this long time\"",
+             "A single specific lifetime",
+             "Only recent history",
+             "No temporal frame is given"],
+         "correct": 0,
+         "expl": "The same beginningless span used throughout this saṃyutta."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of this vagga."},
+    ],
+    marginalia=[
+        ("One word changed, the sibling pair complete", [
+            "brother, then sister, matched exactly &mdash;",
+            "the same claim, twice, evenly applied",
+        ]),
+        ("The set's structural midpoint", [
+            "parents behind, children still ahead &mdash;",
+            "siblings occupying the center",
+        ]),
+        ("A deliberate pattern, not a random list", [
+            "female and male, paired each time &mdash;",
+            "mother/father, brother/sister, son/daughter to come",
+        ]),
+        ("Two relationships left before the close", [
+            "son and daughter still to be named &mdash;",
+            "then this whole saṃyutta's final discourse",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.17/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.16.html">SN 15.16 &middot; Brother</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "exact structural twin.",
+        '<a href="sn-15.18.html">SN 15.18 &middot; Son</a> '
+        "&mdash; the next discourse, turning from siblings to "
+        "children.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.18 — Puttasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 18, "Putta", "Son",
+    meta_title="SN 15.18 — Son | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Puttasutta — the same universal claim, now reversing "
+        "direction: it's not easy to find a being who hasn't "
+        "previously been your own son. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The same compressed universal claim as SN "
+                 "15.16-17, with the relational direction reversed"),
+        ("Length", "under 1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; brief in form, but marks a genuine "
+                       "shift in relational direction worth noticing"),
+    ],
+    why=(
+        "Having addressed two relationships where the other person "
+        "stood above you (mother, father) and two where they stood "
+        "beside you (brother, sister), this discourse reverses "
+        "direction entirely: it's not easy to find a being who "
+        "hasn't previously been your son, someone who stood below "
+        "you, dependent on you, in a role you yourself occupied. The "
+        "claim's form is identical to every discourse since SN "
+        "15.14, but its direction has genuinely changed &mdash; this "
+        "set has now covered every possible position in a family "
+        "structure relative to the listener."),
+    guide=[
+        ("A reversal in relational direction", [
+            "Mother, father, brother, and sister all named "
+            "relationships where the other being occupied a "
+            "position above or beside you; son is the first "
+            "relationship in this set where the other being "
+            "occupied a position below you, as your own dependent."]),
+        ("The identical claim, in its now-familiar compressed form", [
+            "As with SN 15.16-17, this discourse elides nearly "
+            "everything except the single changed term, trusting "
+            "the pattern established since SN 15.14 to carry the "
+            "full meaning."]),
+        ("Completing the set's coverage of family structure", [
+            "With son added to mother, father, brother, and sister, "
+            "this set has now addressed every generational and "
+            "lateral position within an ordinary family, missing "
+            "only daughter to complete the full picture."]),
+        ("A claim that implicates the listener differently", [
+            "Where being told you've had countless mothers positions "
+            "you as the one who received care, being told you've had "
+            "countless sons positions you as the one who once gave "
+            "it &mdash; the same beginningless history, seen from "
+            "the other side of the relationship."]),
+        ("One relationship remaining before this vagga's finale", [
+            "Only daughter remains to complete this six-part set "
+            "before SN 15.20 closes both this vagga and the entire "
+            "saṃyutta with its most elaborate discourse."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the same framing "
+         "phrase carried through from every discourse in this set."),
+        ("naputtabhūtapubbo",
+         "&ldquo;has not previously been your son&rdquo; &mdash; "
+         "this discourse's specific claim, reversing the direction "
+         "of every relationship named before it."),
+        ("putta",
+         "&ldquo;son&rdquo; &mdash; this discourse's title "
+         "relationship, the first in this set naming someone who "
+         "stood as your own dependent."),
+        ("iminā dīghena addhunā",
+         "&ldquo;in all this long time&rdquo; &mdash; the same "
+         "beginningless temporal frame used throughout this "
+         "saṃyutta."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own heavy "
+        "elision of the standard refrain. Translation: Bhikkhu "
+        "Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.18:1.1-1.3"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about sons?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your son",
+             "Sons are excluded from this saṃyutta's teaching",
+             "No being has ever been your son more than once",
+             "The discourse makes no specific claim about sons"],
+         "correct": 0,
+         "expl": "The same universal claim used throughout this set, now applied to son."},
+        {"q": "How does this discourse's direction differ from mother, father, brother, and sister?",
+         "opts": [
+             "It reverses direction — naming a relationship where the other being was your dependent, not your senior or peer",
+             "There is no directional difference among any of these relationships",
+             "It is identical in direction to mother and father",
+             "It reverses only compared to brother and sister, not to mother and father"],
+         "correct": 0,
+         "expl": "The first relationship in this set naming someone positioned below, not above or beside, the listener."},
+        {"q": "What does this reading guide say about how this claim implicates the listener differently?",
+         "opts": [
+             "It positions the listener as the one who once gave care, rather than received it",
+             "It has no bearing on how the listener is positioned",
+             "It positions the listener identically to the mother discourse",
+             "It removes the listener from the claim entirely"],
+         "correct": 0,
+         "expl": "The same beginningless history, now seen from the caregiving side of the relationship."},
+        {"q": "What does this discourse complete, together with the four discourses before it?",
+         "opts": [
+             "Coverage of every generational and lateral position in an ordinary family, missing only daughter",
+             "The entire six-discourse set, with nothing remaining afterward",
+             "Only the parental pair, unrelated to siblings or children",
+             "This discourse doesn't relate to the set's overall coverage"],
+         "correct": 0,
+         "expl": "Mother, father, brother, sister, and now son — only daughter remains to finish the set."},
+        {"q": "How compressed is this discourse's presentation, compared to SN 15.14?",
+         "opts": [
+             "Heavily compressed, matching SN 15.16-17's terse form rather than SN 15.14's fuller one",
+             "Identical in length to SN 15.14",
+             "Considerably longer and more elaborate than SN 15.14",
+             "This discourse is not compressed in any way"],
+         "correct": 0,
+         "expl": "Continuing the pattern of increasing brevity established by SN 15.16-17."},
+        {"q": "What relationship remains after this discourse, before the set is complete?",
+         "opts": [
+             "Daughter",
+             "Mother",
+             "Brother",
+             "No relationship remains; this is the final discourse in the set"],
+         "correct": 0,
+         "expl": "SN 15.19 closes the six-part set before SN 15.20's grand finale."},
+        {"q": "What single word changes between this discourse and its immediate predecessor's structure?",
+         "opts": [
+             "Bhaginī (sister) becomes putta (son)",
+             "No word changes at all",
+             "The entire refrain is rewritten",
+             "The setting changes to a different location"],
+         "correct": 0,
+         "expl": "A direct substitution within the same established formula."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of this vagga."},
+    ],
+    marginalia=[
+        ("The direction finally turns", [
+            "no longer above or beside you &mdash;",
+            "now someone who was once your own dependent",
+        ]),
+        ("The same claim, seen from the other side", [
+            "not who cared for you, but who you cared for &mdash;",
+            "the same beginningless history, reversed",
+        ]),
+        ("Five relationships covered, one left", [
+            "mother, father, brother, sister, son &mdash;",
+            "only daughter completes the full family",
+        ]),
+        ("Brevity holding steady", [
+            "barely more than a single clause &mdash;",
+            "the pattern needing no further spelling out",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.18/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.17.html">SN 15.17 &middot; Sister</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.19.html">SN 15.19 &middot; Daughter</a> '
+        "&mdash; the next discourse, completing this six-part "
+        "family-relationship set.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 15.19 — Dhītusutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 19, "Dhītu", "Daughter",
+    meta_title="SN 15.19 — Daughter | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dhītusutta — closing this saṃyutta's family-relationship "
+        "set with daughter, restored to the fuller form SN 15.14 "
+        "opened with. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A return to the full, unelided refrain and "
+                 "closing exhortation, closing this six-part set"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; closes a six-discourse set, worth "
+                       "noticing how it returns to fuller form"),
+    ],
+    why=(
+        "This discourse closes the family-relationship set with "
+        "daughter: it's not easy to find a being who hasn't "
+        "previously been your daughter, across this long time. "
+        "Unlike SN 15.16&ndash;18's heavily compressed middle "
+        "discourses, this one restores the full refrain and the "
+        "complete &ldquo;swelling the cemeteries&rdquo; closing "
+        "exhortation last given in full at SN 15.14 &mdash; the same "
+        "kind of bracketing fullness this saṃyutta has used before, "
+        "spelling a set's opening and closing discourses out in full "
+        "while compressing the ones between them."),
+    guide=[
+        ("A return to the set's fuller opening form", [
+            "Where SN 15.16-18 elided nearly everything, this "
+            "discourse restores the complete refrain and closing "
+            "exhortation, matching SN 15.14's mother discourse "
+            "almost segment for segment."]),
+        ("Bracketing fullness around a compressed middle", [
+            "Mother (full) opens the set, brother through son "
+            "(compressed) occupy its middle, and daughter (full "
+            "again) closes it &mdash; a shape this reading guide has "
+            "noted elsewhere in this collection, where a set's first "
+            "and last items receive fuller treatment than those "
+            "between."]),
+        ("The sixth and final family relationship named", [
+            "With daughter, this set has now addressed all six "
+            "ordinary family relationships &mdash; two generations "
+            "above (mother, father), two lateral (brother, sister), "
+            "and two below (son, daughter) &mdash; a complete "
+            "picture of family position relative to the listener."]),
+        ("The same claim, closing a set built entirely from it", [
+            "No new argument appears here; the discourse's content "
+            "is identical in substance to all five before it, only "
+            "restored to fuller form as the set's closing note."]),
+        ("A final, brief discourse before the saṃyutta's grand close", [
+            "With this six-part relationship set complete, SN 15.20 "
+            "closes both this vagga and the entire saṃyutta with by "
+            "far its longest and most narratively developed "
+            "discourse."]),
+    ],
+    terms=[
+        ("na … sulabharūpo",
+         "&ldquo;not easy to find&rdquo; &mdash; the same framing "
+         "phrase used throughout this six-discourse set."),
+        ("na dhītābhūtapubbo",
+         "&ldquo;has not previously been your daughter&rdquo; "
+         "&mdash; this discourse's specific claim, closing the set."),
+        ("dhītā",
+         "&ldquo;daughter&rdquo; &mdash; this discourse's title "
+         "relationship, the sixth and final one addressed."),
+        ("kaṭasī vaḍḍhitā",
+         "&ldquo;swelling the cemeteries&rdquo; &mdash; the "
+         "full closing exhortation's vivid phrase, restored here "
+         "after being elided throughout SN 15.16-18."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.19:1.1-1.9"),
+    ],
+    quiz=[
+        {"q": "What claim does this discourse make about daughters?",
+         "opts": [
+             "It's not easy to find a being who hasn't previously been your daughter",
+             "Daughters are treated differently from sons in this saṃyutta",
+             "No being has ever been your daughter more than once",
+             "The discourse makes no claim about daughters"],
+         "correct": 0,
+         "expl": "The same universal claim closing this six-part set."},
+        {"q": "How does this discourse's form compare to SN 15.16-18?",
+         "opts": [
+             "It restores the full refrain and closing exhortation, unlike the heavily compressed middle discourses",
+             "It is even more compressed than SN 15.16-18",
+             "It is identical in compression level to SN 15.16-18",
+             "This discourse contains no refrain at all"],
+         "correct": 0,
+         "expl": "A return to the fuller form last seen at SN 15.14."},
+        {"q": "What shape does this reading guide identify across the whole six-discourse set?",
+         "opts": [
+             "Bracketing fullness — full form at the opening (mother) and close (daughter), compressed in between",
+             "Uniform compression across all six discourses with no variation",
+             "Uniform fullness across all six discourses with no variation",
+             "No consistent shape is identified"],
+         "correct": 0,
+         "expl": "A pattern noted elsewhere in this collection as well."},
+        {"q": "What does daughter complete, together with the five relationships before it?",
+         "opts": [
+             "A full picture of family position — two generations above, two lateral, two below the listener",
+             "Only the parental pair, with siblings and children left incomplete",
+             "Nothing; daughter is unrelated to the other five relationships",
+             "The set is left incomplete even after this discourse"],
+         "correct": 0,
+         "expl": "Mother, father, brother, sister, son, and daughter — every ordinary family position covered."},
+        {"q": "What phrase is restored in this discourse, absent from SN 15.16-18?",
+         "opts": [
+             "\"Swelling the cemeteries,\" from the full closing exhortation",
+             "\"Not easy to find,\" the set's core framing phrase",
+             "The Buddha's name",
+             "No phrase is restored; the discourse remains compressed"],
+         "correct": 0,
+         "expl": "Part of the complete exhortation last given in full at SN 15.14."},
+        {"q": "What discourse immediately follows this one?",
+         "opts": [
+             "SN 15.20, closing both this vagga and the entire saṃyutta",
+             "SN 15.14, restarting the relationship set from the beginning",
+             "This is the saṃyutta's final discourse; nothing follows it",
+             "SN 15.1, returning to Paṭhamavagga"],
+         "correct": 0,
+         "expl": "By far the vagga's longest and most narratively developed discourse."},
+        {"q": "Does this discourse introduce any new argument beyond what SN 15.14-18 already established?",
+         "opts": [
+             "No — it is identical in substance, only restored to fuller form as the set's closing note",
+             "Yes, an entirely new line of reasoning specific to daughters",
+             "It explicitly contradicts the earlier five discourses",
+             "This discourse contains no argument of any kind"],
+         "correct": 0,
+         "expl": "A closing restatement, not a fresh claim."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Ānanda",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "Near Rājagaha",
+             "At Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of this vagga, one before its close."},
+    ],
+    marginalia=[
+        ("Fullness restored, closing what it opened", [
+            "the complete refrain, back in full &mdash;",
+            "matching mother's discourse almost segment for segment",
+        ]),
+        ("A shape bracketing the whole set", [
+            "full at the start, full at the close &mdash;",
+            "compressed only in the middle four",
+        ]),
+        ("Every position in the family, now covered", [
+            "above, beside, below &mdash;",
+            "mother, father, siblings, children, all named",
+        ]),
+        ("One brief discourse from the saṃyutta's grand finale", [
+            "the family set now complete &mdash;",
+            "Mount Vepulla waits one page ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.19/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.18.html">SN 15.18 &middot; Son</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.20.html">SN 15.20 &middot; Mount Vepulla</a> '
+        "&mdash; the next and closing discourse of this saṃyutta.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 15.20 — Vepullapabbatasutta
+# --------------------------------------------------------------------------- #
+page(
+    15, 20, "Vepullapabbata", "Mount Vepulla",
+    meta_title="SN 15.20 — Mount Vepulla | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Vepullapabbatasutta — closing Anamataggasaṃyutta, one "
+        "mountain renamed across four Buddhas' eras while human "
+        "lifespans collapse from 40,000 years to a hundred, ending "
+        "in the canon's most famous verse on impermanence. From "
+        "Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Rājagaha, on the Vulture's Peak Mountain"),
+        ("Speakers", "The Buddha alone, closing in verse addressed "
+                     "to the assembled mendicants"),
+        ("Form", "Four parallel eras of the same mountain's history, "
+                 "a narrative transition, two closing verses, and "
+                 "this saṃyutta's own formal colophon"),
+        ("Length", "~5 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&starf;&#9734; "
+                       "&mdash; the longest and most structurally "
+                       "elaborate discourse in this saṃyutta, "
+                       "closing on one of the canon's best-known "
+                       "verses"),
+    ],
+    why=(
+        "Closing both this vagga and Anamataggasaṃyutta itself, this "
+        "discourse takes a single mountain visible from where the "
+        "Buddha is speaking and traces it across four successive "
+        "eras. Once it was Pācīnavaṁsa, when people called themselves "
+        "Tivaras and lived 40,000 years, taking four days to climb "
+        "it; that was the era of the Buddha Kakusandha. Then it was "
+        "Vaṅkaka, Rohitassas living 30,000 years, three days to "
+        "climb, the era of Koṇāgamana. Then Supassa, Suppiyas living "
+        "20,000 years, two days to climb, the era of Kassapa. Now "
+        "it's Vepulla, the Magadhans live perhaps a hundred years, "
+        "and it takes only an hour to climb &mdash; the present era, "
+        "the Buddha Gotama's own. Each era closes identically: the "
+        "mountain's name has vanished, those people have died, and "
+        "that Buddha has been fully extinguished. Then the Buddha "
+        "states plainly that his own name, his own people, and his "
+        "own life will meet the identical fate, before closing in "
+        "verse with a line recited at funerals throughout the "
+        "Buddhist world to this day."),
+    guide=[
+        ("One constant, everything else changing around it", [
+            "The mountain itself never moves; only its name, the "
+            "name of the people living near it, their lifespan, and "
+            "the Buddha of their era change &mdash; using geographic "
+            "permanence to make cosmic-scale impermanence "
+            "concrete and visible."]),
+        ("A collapsing measure making decline undeniable", [
+            "40,000 years, then 30,000, then 20,000, then roughly "
+            "100 &mdash; the lifespan collapses by orders of "
+            "magnitude across just four eras, and the climbing time "
+            "collapses in exact proportion, from four days down to a "
+            "single hour."]),
+        ("Four Buddhas named, the present speaker among them", [
+            "Kakusandha, Koṇāgamana, Kassapa, and finally the Buddha "
+            "speaking this very discourse are named as a direct "
+            "sequence &mdash; the same figure recounting the "
+            "extinction of three predecessors before naming his own "
+            "extinction as equally certain, not exempting himself "
+            "from the pattern he's describing."]),
+        ("A refrain repeated four times, then applied to the speaker himself", [
+            "&ldquo;See, mendicants! This mountain's name has "
+            "vanished, those people have died, and that Buddha has "
+            "become fully quenched&rdquo; recurs after each of the "
+            "first three eras; the fourth time, the same fate is "
+            "stated in future tense, about the Buddha delivering the "
+            "teaching."]),
+        ("A verse recited at funerals throughout the Buddhist world", [
+            "&ldquo;Aniccā vata saṅkhārā&hellip;&rdquo;, &ldquo;oh, "
+            "conditions are impermanent&hellip;&rdquo;, closing this "
+            "discourse is among the most widely known verses in the "
+            "entire Pali canon, still recited at funeral rites across "
+            "the Theravāda world today &mdash; landing here as the "
+            "final word of an entire saṃyutta built on beginningless "
+            "time."]),
+    ],
+    terms=[
+        ("vepullo pabbato",
+         "&ldquo;Mount Vepulla&rdquo; &mdash; the one constant "
+         "across this discourse's four eras, already named in SN "
+         "15.10's bone-heap comparison earlier in this saṃyutta."),
+        ("kakusandho, koṇāgamano, kassapo",
+         "the three Buddhas of past eras named in this discourse, "
+         "predecessors of the present Buddha within the traditional "
+         "reckoning of Buddhas arising in this world age."),
+        ("āyuppamāṇaṁ",
+         "&ldquo;lifespan&rdquo; &mdash; the collapsing measure "
+         "running through all four eras, from 40,000 years down to "
+         "roughly a hundred."),
+        ("evaṁ aniccā … saṅkhārā",
+         "&ldquo;so impermanent are conditions&rdquo; &mdash; the "
+         "refrain closing each of the four eras before the "
+         "discourse turns to its closing verses."),
+        ("aniccā vata saṅkhārā",
+         "&ldquo;oh, conditions are impermanent&rdquo; &mdash; the "
+         "opening line of this discourse's final verse, among the "
+         "most widely recited lines in the entire Pali canon."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing verses and "
+        "this saṃyutta's own formal closing line. The vagga's "
+        "closing verse of discourse titles is not translated in the "
+        "source and is not quoted here, but the saṃyutta's own "
+        "closing colophon is translated and is quoted below. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn15.20:1.1-1.5"),
+        ("p", "&sect;2", "sn15.20:2.1-2.13"),
+        ("p", "&sect;3", "sn15.20:3.1-3.9"),
+        ("p", "&sect;4", "sn15.20:4.1-4.10"),
+        ("p", "&sect;5", "sn15.20:5.1-5.12"),
+        ("p", "&sect;6", "sn15.20:6.1-6.2"),
+        ("p", "&sect;7", "sn15.20:7.1-7.4"),
+        ("p", "&sect;8", "sn15.20:8.1-8.4"),
+        ("p", "&sect;9", "sn15.20:9.5-9.5"),
+    ],
+    quiz=[
+        {"q": "What single element stays constant across this discourse's four eras?",
+         "opts": [
+             "The mountain itself, Mount Vepulla, though its name and everything around it changes",
+             "The lifespan of the people living nearby",
+             "The name of the Buddha present in each era",
+             "Nothing stays constant; everything changes with each era"],
+         "correct": 0,
+         "expl": "Geographic permanence used to make cosmic impermanence concrete."},
+        {"q": "How does the human lifespan change across the four eras this discourse describes?",
+         "opts": [
+             "It collapses from 40,000 years down to roughly a hundred",
+             "It steadily increases across each era",
+             "It remains exactly the same in every era",
+             "No specific lifespans are given"],
+         "correct": 0,
+         "expl": "40,000, then 30,000, then 20,000, then roughly 100 — an order-of-magnitude collapse."},
+        {"q": "How many Buddhas, including the one speaking, does this discourse name?",
+         "opts": [
+             "Four — Kakusandha, Koṇāgamana, Kassapa, and the present speaker",
+             "Only one, the present speaker alone",
+             "Seven, the traditional full count of Buddhas in this age",
+             "No specific Buddhas are named"],
+         "correct": 0,
+         "expl": "Three predecessors plus the Buddha delivering this very discourse."},
+        {"q": "What does the Buddha say will eventually happen to himself, his era's mountain-name, and his people?",
+         "opts": [
+             "The identical fate as the three earlier eras: the name will vanish, the people will die, and he will be fully extinguished",
+             "He states that his own era is uniquely permanent, unlike the earlier three",
+             "He declines to comment on his own eventual fate",
+             "He claims his teaching will prevent this pattern from repeating"],
+         "correct": 0,
+         "expl": "Not exempting himself from the very pattern he describes."},
+        {"q": "What is significant about this discourse's closing verse, \"aniccā vata saṅkhārā\"?",
+         "opts": [
+             "It is among the most widely recited verses in the Pali canon, still used at funeral rites today",
+             "It appears nowhere else in Buddhist literature or practice",
+             "It is a verse unique to this specific discourse with no wider use",
+             "It contradicts the discourse's earlier teaching on impermanence"],
+         "correct": 0,
+         "expl": "A verse landing far beyond this single discourse, into ongoing ritual use."},
+        {"q": "How long did it take the Tivaras to climb the mountain in its first named era, compared to the present-day Magadhans?",
+         "opts": [
+             "Four days for the Tivaras, versus one hour for the Magadhans",
+             "Both took exactly the same amount of time",
+             "The Magadhans took longer than the Tivaras",
+             "No climbing times are given for either group"],
+         "correct": 0,
+         "expl": "The climbing time collapses in exact proportion to the collapsing lifespan."},
+        {"q": "What does this saṃyutta's own closing colophon state, quoted directly in this discourse's text section?",
+         "opts": [
+             "\"The Linked Discourses on the unknown beginning are complete\"",
+             "A dedication of merit to all beings",
+             "An untranslated line, described but not quoted",
+             "No colophon appears in this discourse"],
+         "correct": 0,
+         "expl": "Translated content, quoted directly per this site's established practice for such lines."},
+        {"q": "Who are named as the chief disciples of the present Buddha, in this discourse's fourth era?",
+         "opts": [
+             "Sāriputta and Moggallāna",
+             "Vidhura and Sañjīva",
+             "Tissa and Bhāradvāja",
+             "No chief disciples are named for the present era"],
+         "correct": 0,
+         "expl": "Paralleling each earlier era's own named pair of chief disciples."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "Rājagaha, on the Vulture's Peak Mountain",
+             "Sāvatthī, Jeta's Grove",
+             "Ñātika, in the brick house",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "A setting near Mount Vepulla itself, consistent with SN 15.10's earlier reference."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth and final discourse of Dutiyavagga, and of this entire saṃyutta."},
+    ],
+    marginalia=[
+        ("A mountain that outlasts every name given it", [
+            "Pācīnavaṁsa, Vaṅkaka, Supassa, Vepulla &mdash;",
+            "one mountain, four names, four vanished eras",
+        ]),
+        ("Lifespans collapsing by orders of magnitude", [
+            "forty thousand years, down to a hundred &mdash;",
+            "the climb itself shrinking from days to an hour",
+        ]),
+        ("A speaker who doesn't exempt himself", [
+            "three Buddhas already gone, he says &mdash;",
+            "and I too will be fully extinguished",
+        ]),
+        ("A verse still spoken at funerals today", [
+            "\"conditions are impermanent\" &mdash;",
+            "closing this saṃyutta, and still recited now",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn15.20/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-15.19.html">SN 15.19 &middot; Daughter</a> '
+        "&mdash; the discourse immediately before this one, closing "
+        "the family-relationship set.",
+        '<a href="sn-15.10.html">SN 15.10 &middot; A Single Individual</a> '
+        "&mdash; the earlier discourse in this saṃyutta that first "
+        "named Mount Vepulla, closing Paṭhamavagga.",
+    ],
+)
