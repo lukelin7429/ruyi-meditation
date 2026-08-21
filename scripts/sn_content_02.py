@@ -22410,3 +22410,1509 @@ page(
         "saṃyutta's third vagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.23 — Asamāhitasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 23, "Asamāhita", "Lacking Immersion",
+    meta_title="SN 14.23 — Lacking Immersion | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Asamāhitasutta — opening Kammapathavagga, a five-item "
+        "convergence chain bridging Dutiyavagga's mental-quality "
+        "vocabulary toward this vagga's turn to concrete ethical "
+        "conduct. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single five-item convergence chain, negative "
+                 "then positive, in the same formula this saṃyutta "
+                 "has used since SN 14.14"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and a direct continuation of "
+                       "Dutiyavagga's convergence formula"),
+    ],
+    why=(
+        "Opening the third vagga of Dhātusaṃyutta, this discourse "
+        "doesn't immediately turn to the &ldquo;ways of performing "
+        "deeds&rdquo; (kammapatha) the vagga is named for. Instead "
+        "it extends Dutiyavagga's familiar three-item opening "
+        "&mdash; faithless, shameless, imprudent &mdash; with a new "
+        "fourth term, lacking immersion, before closing on witless "
+        "as always. Read alongside SN 14.24 immediately after it, "
+        "this discourse functions as a bridge: still using the "
+        "mental-quality vocabulary this saṃyutta has built since SN "
+        "14.17, but pointed now toward the concrete ethical and "
+        "meditative territory the rest of this vagga will occupy."),
+    guide=[
+        ("A familiar three-item opening, extended", [
+            "Faithless, shameless, and imprudent, the first three "
+            "terms of SN 14.17's original septet, open this "
+            "discourse's chain exactly as they've opened several "
+            "discourses before it."]),
+        ("A genuinely new fourth term", [
+            "Asamāhitā, lacking immersion (samādhi), doesn't appear "
+            "anywhere in Dutiyavagga's septet; it's introduced here "
+            "specifically, foreshadowing the vagga's later turn to "
+            "the eightfold path, where right immersion is the "
+            "path's final factor."]),
+        ("Witless, still closing every chain", [
+            "As in every convergence discourse since SN 14.18, "
+            "duppaññā, witless, remains the fixed final term, "
+            "unbroken across the transition from one vagga to the "
+            "next."]),
+        ("A short discourse doing a structural job", [
+            "This discourse is brief and doesn't introduce new "
+            "doctrine so much as extend an existing pattern by one "
+            "term &mdash; its main function is transitional, easing "
+            "the reader from Dutiyavagga's abstract territory into "
+            "Kammapathavagga's more concrete concerns."]),
+        ("A vagga named for what hasn't yet appeared", [
+            "Kammapathavagga takes its name from kammapatha, ways of "
+            "performing deeds, a term that doesn't actually appear "
+            "until SN 14.26; this discourse and the one after it "
+            "both precede the vagga's own namesake topic."]),
+    ],
+    terms=[
+        ("asamāhitā",
+         "&ldquo;lacking immersion,&rdquo; without samādhi &mdash; "
+         "this discourse's title term and its one genuinely new "
+         "addition to the convergence chain."),
+        ("samāhitā",
+         "&ldquo;possessing immersion&rdquo; &mdash; the positive "
+         "counterpart, closing the second half of this discourse's "
+         "chain."),
+        ("assaddhā, ahirikā, anottappino",
+         "&ldquo;faithless, shameless, imprudent&rdquo; &mdash; the "
+         "same first three terms opening this chain as in several "
+         "discourses of Dutiyavagga."),
+        ("saddhā, hirimanā, ottappino",
+         "&ldquo;faithful, conscientious, prudent&rdquo; &mdash; "
+         "the positive mirror of the first three terms."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse as Kammapathavagga's opener."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.23:1.1-1.7"),
+        ("p", "&sect;2", "sn14.23:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What genuinely new term does this discourse add to a familiar three-item opening?",
+         "opts": [
+             "Asamāhitā, \"lacking immersion\"",
+             "Assaddhā, \"faithless,\" appearing for the first time",
+             "Duppaññā, \"witless,\" appearing for the first time",
+             "No new term is added"],
+         "correct": 0,
+         "expl": "A term not found in Dutiyavagga's original septet."},
+        {"q": "What three terms open this discourse's chain, matching several Dutiyavagga discourses?",
+         "opts": [
+             "Faithless, shameless, imprudent",
+             "Lazy, unlearned, unmindful",
+             "Faithful, conscientious, prudent",
+             "None of the terms match any earlier discourse"],
+         "correct": 0,
+         "expl": "The same opening sequence SN 14.17's septet established."},
+        {"q": "What term closes this discourse's chain, unbroken since SN 14.18?",
+         "opts": [
+             "Duppaññā, witless",
+             "Asamāhitā, lacking immersion",
+             "Assaddhā, faithless",
+             "No fixed final term is used"],
+         "correct": 0,
+         "expl": "The one constant carried forward from Dutiyavagga's descending sequence."},
+        {"q": "What does this discourse's vagga, Kammapathavagga, take its name from?",
+         "opts": [
+             "Kammapatha, \"ways of performing deeds,\" a term not appearing until SN 14.26",
+             "Asamāhita, this discourse's own title term",
+             "A term that appears in this very discourse",
+             "The vagga's name has no connection to any term used within it"],
+         "correct": 0,
+         "expl": "This discourse precedes the vagga's own namesake topic by several discourses."},
+        {"q": "What role does this discourse play for the vagga overall?",
+         "opts": [
+             "A transitional bridge from Dutiyavagga's abstract vocabulary toward more concrete ethical territory",
+             "The vagga's doctrinal centerpiece",
+             "An unrelated aside with no connection to what follows",
+             "A direct restatement of the noble eightfold path"],
+         "correct": 0,
+         "expl": "Brief and structurally transitional rather than introducing major new doctrine."},
+        {"q": "What later topic does \"lacking immersion\" foreshadow?",
+         "opts": [
+             "The eightfold path, where right immersion is the final factor",
+             "The five precepts",
+             "The ten unwholesome ways of performing deeds",
+             "No later connection exists"],
+         "correct": 0,
+         "expl": "Samādhi returns as sammāsamādhi, right immersion, in SN 14.28."},
+        {"q": "How many items make up this discourse's full chain, faithless through witless?",
+         "opts": [
+             "Five",
+             "Seven, matching SN 14.17's full septet",
+             "Three, omitting the closing term",
+             "Ten"],
+         "correct": 0,
+         "expl": "Faithless, shameless, imprudent, lacking immersion, witless."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new vagga, restarting the internal numbering."},
+    ],
+    marginalia=[
+        ("A familiar opening, one new term added", [
+            "faithless, shameless, imprudent &mdash;",
+            "then lacking immersion, genuinely new",
+        ]),
+        ("Witless still holds the closing position", [
+            "unbroken across the vagga boundary &mdash;",
+            "the one constant carried forward",
+        ]),
+        ("A vagga named for what's still to come", [
+            "kammapatha doesn't appear here yet &mdash;",
+            "three discourses still stand before it",
+        ]),
+        ("A bridge, not a destination", [
+            "brief, transitional, easing the turn &mdash;",
+            "from abstract quality toward concrete conduct",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.23/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.22.html">SN 14.22 &middot; Beginning With the Lazy</a> '
+        "&mdash; the discourse closing Dutiyavagga, immediately "
+        "before this one.",
+        '<a href="sn-14.24.html">SN 14.24 &middot; Unethical</a> '
+        "&mdash; the next discourse, swapping in a different fourth "
+        "term on the same chain structure.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.24 — Dussīlasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 24, "Dussīla", "Unethical",
+    meta_title="SN 14.24 — Unethical | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dussīlasutta — SN 14.23's chain structure repeated with "
+        "a new fourth term, unethical conduct, closing this vagga's "
+        "brief transitional pair before it turns to the five "
+        "precepts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A single five-item convergence chain, negative "
+                 "then positive, matching SN 14.23's structure "
+                 "exactly with one term swapped"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "brief, and best read as SN 14.23's direct "
+                       "companion"),
+    ],
+    why=(
+        "This discourse repeats SN 14.23's exact chain structure "
+        "&mdash; faithless, shameless, imprudent, [X], witless "
+        "&mdash; with unethical (dussīlā) filling the fourth "
+        "position instead of lacking immersion. The two discourses "
+        "form a matched pair, each extending the familiar "
+        "three-item opening with a single distinct term before this "
+        "vagga turns, in its next discourse, to concrete named "
+        "precepts rather than general character qualities. Sīla, "
+        "ethical conduct, is a term with wide reach in the "
+        "tradition, and its appearance here anticipates the "
+        "specific behaviors &mdash; killing, stealing, and the rest "
+        "&mdash; the next several discourses will name explicitly."),
+    guide=[
+        ("A matched pair with SN 14.23", [
+            "Identical opening three terms, identical closing term, "
+            "and an identical five-item length &mdash; the only "
+            "difference between this discourse and the one before "
+            "it is the single term filling the fourth position."]),
+        ("Sīla as a general term, not yet specific behaviors", [
+            "Dussīlā, unethical, and sīlavanto, ethical, are broad "
+            "character descriptions here, not yet cashed out into "
+            "the specific list of actions the next discourse will "
+            "name."]),
+        ("The last of this vagga's abstract-quality discourses", [
+            "After this discourse, Kammapathavagga leaves behind the "
+            "faithless-shameless-imprudent opening entirely; every "
+            "remaining discourse in this vagga names specific, "
+            "concrete behaviors instead of general dispositions."]),
+        ("A hinge word bridging character and conduct", [
+            "Sīla sits conceptually between the purely internal "
+            "qualities of Dutiyavagga (faith, conscience, learning) "
+            "and the purely behavioral list about to follow (killing, "
+            "stealing, lying) &mdash; ethical conduct as the pivot "
+            "connecting who someone is to what they actually do."]),
+        ("Still bookended by the same fixed pair", [
+            "Witless closes this chain exactly as it has since SN "
+            "14.18, the eighth consecutive discourse to end this "
+            "way."]),
+    ],
+    terms=[
+        ("dussīlā",
+         "&ldquo;unethical,&rdquo; lacking sīla &mdash; this "
+         "discourse's title term, filling the fourth position in "
+         "place of SN 14.23's lacking immersion."),
+        ("sīlavanto",
+         "&ldquo;ethical,&rdquo; possessing sīla &mdash; the "
+         "positive counterpart, closing the second half of this "
+         "discourse's chain."),
+        ("sīla",
+         "&ldquo;ethical conduct,&rdquo; a term with wide reach in "
+         "the tradition, sitting conceptually between internal "
+         "character and specific outward behavior."),
+        ("assaddhā, ahirikā, anottappino",
+         "&ldquo;faithless, shameless, imprudent&rdquo; &mdash; the "
+         "same three opening terms as SN 14.23 and several "
+         "Dutiyavagga discourses."),
+        ("dutiyaṁ",
+         "&ldquo;the second&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.24:1.1-1.7"),
+        ("p", "&sect;2", "sn14.24:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's structure compare to SN 14.23's?",
+         "opts": [
+             "Identical, except for the single term filling the fourth position",
+             "Completely different in every respect",
+             "Twice as long, with twice as many items",
+             "It omits the closing witless term"],
+         "correct": 0,
+         "expl": "A matched pair, differing only in one swapped term."},
+        {"q": "What term fills the fourth position in this discourse's chain?",
+         "opts": [
+             "Dussīlā, unethical",
+             "Asamāhitā, lacking immersion, identical to SN 14.23",
+             "Duppaññā, witless",
+             "Pāṇātipātino, those who kill living creatures"],
+         "correct": 0,
+         "expl": "Unethical conduct, replacing SN 14.23's lacking immersion."},
+        {"q": "What happens to this vagga's abstract-quality opening after this discourse?",
+         "opts": [
+             "It is left behind entirely; every remaining discourse names concrete behaviors instead",
+             "It continues unchanged through every remaining discourse",
+             "It is immediately repeated a third time in SN 14.25",
+             "This discourse is the vagga's final one"],
+         "correct": 0,
+         "expl": "SN 14.25 onward turns to specific, named actions rather than general dispositions."},
+        {"q": "How does this reading guide describe sīla's conceptual position?",
+         "opts": [
+             "A hinge word sitting between internal character and specific outward behavior",
+             "A term entirely unrelated to anything discussed elsewhere in this vagga",
+             "A synonym for witlessness",
+             "A term used only in this single discourse"],
+         "correct": 0,
+         "expl": "Connecting Dutiyavagga's internal qualities to the concrete precepts about to follow."},
+        {"q": "What term closes this discourse's chain?",
+         "opts": [
+             "Duppaññā, witless",
+             "Dussīlā, unethical",
+             "Sīlavanto, ethical",
+             "No fixed closing term is used"],
+         "correct": 0,
+         "expl": "The same fixed final term as SN 14.23 and every discourse since SN 14.18."},
+        {"q": "What three terms open this discourse's chain?",
+         "opts": [
+             "Faithless, shameless, imprudent",
+             "Killing, stealing, lying",
+             "Right view, right speech, right action",
+             "Lacking immersion, unethical, witless"],
+         "correct": 0,
+         "expl": "The same opening sequence as SN 14.23."},
+        {"q": "How many items make up this discourse's full chain?",
+         "opts": [
+             "Five",
+             "Seven",
+             "Three",
+             "Ten"],
+         "correct": 0,
+         "expl": "Faithless, shameless, imprudent, unethical, witless."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Kammapathavagga."},
+    ],
+    marginalia=[
+        ("The same chain, one term swapped", [
+            "unethical, not lacking immersion &mdash;",
+            "everything else held exactly constant",
+        ]),
+        ("The last of this vagga's abstract pair", [
+            "faithless-shameless-imprudent, ending here &mdash;",
+            "concrete behavior takes over next",
+        ]),
+        ("A word between character and conduct", [
+            "sīla, ethical &mdash; neither purely internal",
+            "nor yet a specific named action",
+        ]),
+        ("Eight discourses, one unbroken ending", [
+            "witless, since SN 14.18 &mdash;",
+            "still holding here, across a vagga boundary",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.24/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.23.html">SN 14.23 &middot; Lacking Immersion</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "direct structural match.",
+        '<a href="sn-14.25.html">SN 14.25 &middot; The Five Precepts</a> '
+        "&mdash; the next discourse, turning from general character "
+        "to specific, named ethical conduct.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.25 — Pañcasikkhāpadasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 25, "Pañcasikkhāpada", "The Five Precepts",
+    meta_title="SN 14.25 — The Five Precepts | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pañcasikkhāpadasutta — the convergence formula applied "
+        "for the first time to named, specific conduct: those who "
+        "kill, steal, and break the five precepts converge with "
+        "their own kind, and so do those who keep them. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The convergence formula applied to the five "
+                 "precepts, broken and kept"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the most universally familiar "
+                       "content in this vagga, needing little "
+                       "background"),
+    ],
+    why=(
+        "After two transitional discourses working with general "
+        "character qualities, this discourse turns decisively to "
+        "named, specific conduct: the five precepts every lay "
+        "Buddhist takes on formally, and every mendicant is bound by "
+        "as a floor beneath stricter monastic training &mdash; not "
+        "killing living creatures, not stealing, not committing "
+        "sexual misconduct, not lying, and not consuming intoxicants "
+        "that cause carelessness. The convergence formula now sorts "
+        "beings not by inner disposition but by actual behavior: "
+        "those who break each precept converge with others who "
+        "break it, and those who keep each precept converge with "
+        "others who keep it."),
+    guide=[
+        ("From character to conduct, fully arrived", [
+            "Where SN 14.23&ndash;24 still spoke in terms of "
+            "faithlessness and lack of ethics generally, this "
+            "discourse names five specific, concrete actions with "
+            "no ambiguity about what counts as breaking or keeping "
+            "each one."]),
+        ("The five precepts in their standard order", [
+            "Killing living creatures, stealing, sexual misconduct, "
+            "lying, and consuming intoxicants that lead to "
+            "carelessness &mdash; the same five, in the same order, "
+            "given in lay ethical instruction throughout the "
+            "tradition."]),
+        ("A structural shift: two groups, not five plus five", [
+            "Unlike the faithless-to-witless chains, this discourse "
+            "doesn't link the five precepts into one sequence; each "
+            "precept-breaker converges only with other breakers of "
+            "that same precept, not with breakers of the other four "
+            "&mdash; five separate, parallel convergences rather "
+            "than one connected chain."]),
+        ("Refraining named directly, not just as an absence", [
+            "The positive half doesn't simply say the opposite of "
+            "killing; it uses paṭivirata, actively refraining "
+            "&mdash; a deliberate abstention, not merely the passive "
+            "absence of an action."]),
+        ("A foundation for the next two discourses", [
+            "This five-item list becomes the base the next two "
+            "discourses build outward from &mdash; SN 14.26 adds two "
+            "more verbal misconducts to reach seven, and SN 14.27 "
+            "adds three mental ones to reach the classic ten."]),
+    ],
+    terms=[
+        ("pañca sikkhāpadāni",
+         "&ldquo;the five precepts,&rdquo; literally &ldquo;five "
+         "training rules&rdquo; &mdash; this discourse's title "
+         "subject, the foundational ethical undertaking for lay "
+         "Buddhists."),
+        ("pāṇātipāta",
+         "&ldquo;killing living creatures&rdquo; &mdash; the first "
+         "precept, opening both the negative and positive halves of "
+         "this discourse's list."),
+        ("kāmesumicchācāra",
+         "&ldquo;sexual misconduct&rdquo; &mdash; the third "
+         "precept, among the five most directly concerned with "
+         "specific relational conduct."),
+        ("surāmerayamajjappamādaṭṭhāna",
+         "&ldquo;consuming beer, wine, and liquor intoxicants that "
+         "are a basis for carelessness&rdquo; &mdash; the fifth "
+         "precept, notably the only one framed around a substance "
+         "rather than a direct action toward another being."),
+        ("paṭivirata",
+         "&ldquo;refraining,&rdquo; actively abstaining &mdash; the "
+         "term marking each positive counterpart as a deliberate "
+         "choice, not merely an absence of wrongdoing."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.25:1.1-1.7"),
+        ("p", "&sect;2", "sn14.25:2.1-2.5"),
+    ],
+    quiz=[
+        {"q": "What five items does this discourse's convergence formula apply to?",
+         "opts": [
+             "The five precepts: killing, stealing, sexual misconduct, lying, and intoxicants",
+             "The five formless meditative attainments from SN 14.11",
+             "Five mental qualities identical to SN 14.17's septet",
+             "Five named elders, as in SN 14.15"],
+         "correct": 0,
+         "expl": "The standard lay ethical undertaking, in its usual order."},
+        {"q": "How does this discourse's structure differ from the faithless-to-witless chains?",
+         "opts": [
+             "Each precept converges separately with its own kind, rather than forming one connected chain",
+             "It is identical in every respect to those chains",
+             "It reverses the order of negative and positive entirely",
+             "It applies to only one precept instead of five"],
+         "correct": 0,
+         "expl": "Five parallel, independent convergences rather than a single sequential chain."},
+        {"q": "What term marks the positive counterpart to each precept, and what does it emphasize?",
+         "opts": [
+             "Paṭivirata, \"refraining\" — an active, deliberate abstention",
+             "Sammā, \"right\" — identical to the eightfold path's terminology",
+             "Kusala, \"skillful\" — a term not used in this discourse",
+             "No specific term marks the positive counterpart"],
+         "correct": 0,
+         "expl": "A deliberate choice, not merely the passive absence of wrongdoing."},
+        {"q": "Which precept is framed around a substance rather than a direct action toward another being?",
+         "opts": [
+             "The fifth, consuming intoxicants that are a basis for carelessness",
+             "The first, killing living creatures",
+             "The third, sexual misconduct",
+             "None of the five precepts involves a substance"],
+         "correct": 0,
+         "expl": "Distinct in kind from the other four, which concern direct harm or dishonesty toward others."},
+        {"q": "What role does this discourse's five-item list play for the two discourses following it?",
+         "opts": [
+             "A foundation that SN 14.26 and 14.27 build outward from, adding more items",
+             "It has no connection to any later discourse",
+             "It is immediately contradicted by SN 14.26",
+             "It is repeated verbatim with no addition in every later discourse"],
+         "correct": 0,
+         "expl": "SN 14.26 adds two verbal items to reach seven; SN 14.27 adds three more to reach ten."},
+        {"q": "What is the first precept named in this discourse's list?",
+         "opts": [
+             "Not killing living creatures",
+             "Not stealing",
+             "Not lying",
+             "Not consuming intoxicants"],
+         "correct": 0,
+         "expl": "Pāṇātipāta, opening both halves of the list."},
+        {"q": "How does this discourse's content compare to earlier discourses in familiarity to most readers?",
+         "opts": [
+             "Among the most universally familiar content in this whole vagga",
+             "Among the most obscure and technical content in this whole vagga",
+             "Entirely unfamiliar, appearing nowhere else in Buddhist teaching",
+             "Identical in familiarity to SN 14.11's meditative attainments"],
+         "correct": 0,
+         "expl": "The five precepts are foundational lay ethical instruction across the tradition."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Kammapathavagga."},
+    ],
+    marginalia=[
+        ("Character gives way to named conduct", [
+            "no more faithless, shameless, imprudent &mdash;",
+            "now killing, stealing, lying, named directly",
+        ]),
+        ("Five separate convergences, not one chain", [
+            "each precept-breaker meets only their own kind &mdash;",
+            "not linked step to step like the earlier septet",
+        ]),
+        ("Refraining as a choice, not an absence", [
+            "paṭivirata, actively abstaining &mdash;",
+            "not simply failing to do wrong",
+        ]),
+        ("A base for two discourses still to come", [
+            "five now, seven next, ten after that &mdash;",
+            "the same list, steadily built outward",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.25/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.24.html">SN 14.24 &middot; Unethical</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.26.html">SN 14.26 &middot; Seven Ways of Performing Deeds</a> '
+        "&mdash; the next discourse, extending this same five-item "
+        "list with two more verbal precepts.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.26 — Sattakammapathasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 26, "Sattakammapatha", "Seven Ways of Performing Deeds",
+    meta_title="SN 14.26 — Seven Ways of Performing Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Sattakammapathasutta — the five precepts extended with "
+        "two more verbal misconducts, backbiting and harsh speech, "
+        "giving this vagga's namesake term, kammapatha, its first "
+        "appearance. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The convergence formula applied to seven ways of "
+                 "performing deeds, broken and kept"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; builds directly on SN 14.25's five "
+                       "precepts, extending rather than replacing "
+                       "them"),
+    ],
+    why=(
+        "This discourse extends SN 14.25's five precepts with two "
+        "additional items, both concerning speech: pisuṇavācā, "
+        "backbiting or divisive speech, and pharusavācā, harsh "
+        "speech. Together with lying, already present in the "
+        "five-precept list, and samphappalāpa, talking nonsense, "
+        "added at the very end, this gives four distinct verbal "
+        "misdeeds alongside the three bodily ones (killing, "
+        "stealing, sexual misconduct), for a total of seven &mdash; "
+        "the first appearance in this vagga of kammapatha, "
+        "&ldquo;way of performing deeds,&rdquo; the term "
+        "Kammapathavagga itself is named for."),
+    guide=[
+        ("This vagga's namesake term finally appears", [
+            "Kammapatha, way of performing deeds, gives this vagga "
+            "its name but doesn't appear in either of the two "
+            "discourses before it; here, three discourses in, the "
+            "term this whole vagga is named for is finally used."]),
+        ("Three bodily, four verbal", [
+            "The seven ways split cleanly: killing, stealing, and "
+            "sexual misconduct are bodily; lying, backbiting, harsh "
+            "speech, and talking nonsense are all verbal &mdash; "
+            "speech-related misconduct outnumbering bodily misconduct "
+            "in this particular list."]),
+        ("Two genuinely new items, one already familiar", [
+            "Backbiting and harsh speech are new to this discourse; "
+            "talking nonsense (samphappalāpa) closes the list, while "
+            "lying, already established in SN 14.25, simply carries "
+            "forward unchanged."]),
+        ("Still five separate convergences, not merged into one", [
+            "As in SN 14.25, each of the seven items converges "
+            "independently with its own kind; the discourse doesn't "
+            "chain them together sequentially the way the "
+            "faithless-to-witless discourses did."]),
+        ("A recognizable subset of the classic ten", [
+            "Readers familiar with the traditional ten unwholesome "
+            "kammapatha will recognize these seven as its bodily and "
+            "verbal portion; the three remaining mental items "
+            "&mdash; covetousness, ill will, wrong view &mdash; "
+            "arrive in the very next discourse."]),
+    ],
+    terms=[
+        ("kammapatha",
+         "&ldquo;way of performing deeds&rdquo; &mdash; this "
+         "discourse's title term and this vagga's namesake, "
+         "appearing here for the first time in Kammapathavagga."),
+        ("pisuṇavācā",
+         "&ldquo;backbiting,&rdquo; or divisive speech &mdash; the "
+         "first of two verbal items new to this discourse."),
+        ("pharusavācā",
+         "&ldquo;harsh speech&rdquo; &mdash; the second new verbal "
+         "item, speech intended to wound."),
+        ("samphappalāpa",
+         "&ldquo;talking nonsense,&rdquo; or idle chatter &mdash; "
+         "the seventh and final item, closing the verbal portion of "
+         "this list."),
+        ("catutthaṁ",
+         "&ldquo;the fourth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the middle items shared with SN 14.25. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.26:1.1-1.9"),
+        ("p", "&sect;2", "sn14.26:2.1-2.7"),
+    ],
+    quiz=[
+        {"q": "What term appears in this discourse for the first time in Kammapathavagga?",
+         "opts": [
+             "Kammapatha, \"way of performing deeds,\" the vagga's own namesake term",
+             "Sīla, ethical conduct, appearing here for the first time",
+             "Duppaññā, witless",
+             "Dhātu, element"],
+         "correct": 0,
+         "expl": "Not used in SN 14.23-25, despite naming the whole vagga."},
+        {"q": "What two items does this discourse add to SN 14.25's five precepts?",
+         "opts": [
+             "Backbiting and harsh speech",
+             "Covetousness and ill will",
+             "Wrong view and wrong livelihood",
+             "No items are added; the list is identical to SN 14.25"],
+         "correct": 0,
+         "expl": "Two verbal misdeeds, extending the list from five to seven."},
+        {"q": "How do the seven ways split between bodily and verbal misconduct?",
+         "opts": [
+             "Three bodily, four verbal",
+             "Seven bodily, none verbal",
+             "None bodily, seven verbal",
+             "Five bodily, two verbal"],
+         "correct": 0,
+         "expl": "Killing, stealing, sexual misconduct (bodily); lying, backbiting, harsh speech, talking nonsense (verbal)."},
+        {"q": "What item closes this discourse's list of seven?",
+         "opts": [
+             "Samphappalāpa, talking nonsense",
+             "Pisuṇavācā, backbiting",
+             "Pāṇātipāta, killing living creatures",
+             "Duppaññā, witless"],
+         "correct": 0,
+         "expl": "Idle chatter, the seventh and final item."},
+        {"q": "What do the three remaining items of the classic ten kammapatha concern, arriving in the next discourse?",
+         "opts": [
+             "Mental states: covetousness, ill will, and wrong view",
+             "Three more bodily actions",
+             "Three more forms of speech",
+             "No further items are added in any later discourse"],
+         "correct": 0,
+         "expl": "SN 14.27 completes the classic ten with these three mental items."},
+        {"q": "Does this discourse chain its seven items into one sequential list, like the faithless-to-witless discourses?",
+         "opts": [
+             "No — each item converges independently with its own kind",
+             "Yes, identical in structure to those chains",
+             "Only the first three items are chained; the rest are independent",
+             "The discourse contains no convergence structure at all"],
+         "correct": 0,
+         "expl": "Following SN 14.25's pattern of separate, parallel convergences."},
+        {"q": "What happens to lying in this discourse, compared to SN 14.25?",
+         "opts": [
+             "It carries forward unchanged, already established in the five-precept list",
+             "It is removed from this discourse's list entirely",
+             "It is redefined with a completely different meaning",
+             "It becomes the discourse's newly introduced item"],
+         "correct": 0,
+         "expl": "Already present in SN 14.25; only backbiting and harsh speech are genuinely new here."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Kammapathavagga."},
+    ],
+    marginalia=[
+        ("A vagga's own name, finally spoken", [
+            "kammapatha, first used here &mdash;",
+            "three discourses into its own namesake vagga",
+        ]),
+        ("Speech outnumbers the body this time", [
+            "four verbal misdeeds, three bodily &mdash;",
+            "lying, backbiting, harshness, nonsense",
+        ]),
+        ("Seven now, ten still to come", [
+            "mind's three remain unlisted &mdash;",
+            "covetousness, ill will, wrong view, next discourse",
+        ]),
+        ("Extension, not replacement", [
+            "the five precepts carried forward whole &mdash;",
+            "two new items simply added on",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.26/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.25.html">SN 14.25 &middot; The Five Precepts</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the base list this discourse extends.",
+        '<a href="sn-14.27.html">SN 14.27 &middot; Ten Ways of Performing Deeds</a> '
+        "&mdash; the next discourse, completing the classic ten "
+        "kammapatha with three mental items.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.27 — Dasakammapathasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 27, "Dasakammapatha", "Ten Ways of Performing Deeds",
+    meta_title="SN 14.27 — Ten Ways of Performing Deeds | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dasakammapathasutta — the classic ten unwholesome and "
+        "ten wholesome ways of performing deeds, completing SN "
+        "14.26's seven with three mental items: covetousness, ill "
+        "will, and wrong view. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The convergence formula applied to the complete, "
+                 "traditional ten ways of performing deeds, broken "
+                 "and kept"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "assumes SN 14.25&ndash;26's build-up as "
+                       "background, completing a widely known "
+                       "traditional list"),
+    ],
+    why=(
+        "This discourse completes the progression SN 14.25 and "
+        "14.26 have been building: to the seven bodily and verbal "
+        "ways of performing deeds already given, it adds three "
+        "purely mental ones &mdash; covetousness, ill will, and "
+        "wrong view &mdash; arriving at the complete traditional "
+        "list of ten unwholesome kammapatha (dasa akusala "
+        "kammapatha) widely known throughout the tradition, mirrored "
+        "by their ten wholesome counterparts. Where the seven "
+        "items before this were entirely actions a person does "
+        "&mdash; killing, stealing, lying, and the rest &mdash; "
+        "these final three are states of mind that don't necessarily "
+        "issue in any outward act at all."),
+    guide=[
+        ("The classic ten, now complete", [
+            "Three bodily, four verbal, and now three mental items "
+            "&mdash; this is the traditional list most widely "
+            "referenced across the canon under the name dasa akusala "
+            "kammapatha, the ten unwholesome ways of performing "
+            "deeds."]),
+        ("A shift from action to intention alone", [
+            "Covetousness, ill will, and wrong view don't require "
+            "any outward act to count as kammapatha; unlike killing "
+            "or lying, these three can be fully present in someone's "
+            "mind without a single visible action following from "
+            "them."]),
+        ("Wrong view as the list's final, most consequential item", [
+            "Micchādiṭṭhi, wrong view, closes the negative list "
+            "&mdash; and its positive counterpart, sammādiṭṭhi, "
+            "right view, will reappear as the very first factor of "
+            "the eightfold path in the discourse immediately after "
+            "this one."]),
+        ("A list this vagga has now fully assembled", [
+            "Read together, SN 14.25, 14.26, and this discourse form "
+            "a single three-stage build: five precepts, then seven "
+            "kammapatha, then the complete traditional ten &mdash; "
+            "each discourse's list is a strict superset of the one "
+            "before it."]),
+        ("A bridge into the path that follows", [
+            "With wrong view named here, and right view about to "
+            "open the eightfold path in SN 14.28, this discourse "
+            "functions as the final hinge connecting ethical conduct "
+            "to the path structure the vagga turns to next."]),
+    ],
+    terms=[
+        ("dasa kammapathā",
+         "&ldquo;the ten ways of performing deeds&rdquo; &mdash; "
+         "this discourse's title subject, the complete traditional "
+         "list widely referenced across the canon."),
+        ("abhijjhā",
+         "&ldquo;covetousness&rdquo; &mdash; the eighth item, the "
+         "first of three purely mental additions to the seven "
+         "already given."),
+        ("byāpannacitta",
+         "&ldquo;malicious&rdquo; or &ldquo;ill will,&rdquo; "
+         "literally &ldquo;a corrupted mind&rdquo; &mdash; the "
+         "ninth item, mental hostility toward others."),
+        ("micchādiṭṭhi",
+         "&ldquo;wrong view&rdquo; &mdash; the tenth and final "
+         "item, whose positive counterpart, right view, opens the "
+         "eightfold path in the very next discourse."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the seven items shared with SN 14.25&ndash;26. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.27:1.1-1.12"),
+        ("p", "&sect;2", "sn14.27:2.1-2.10"),
+    ],
+    quiz=[
+        {"q": "What three items does this discourse add to SN 14.26's seven, completing the classic ten?",
+         "opts": [
+             "Covetousness, ill will, and wrong view",
+             "Killing, stealing, and lying",
+             "Backbiting, harsh speech, and idle chatter",
+             "No items are added; this discourse repeats SN 14.26 unchanged"],
+         "correct": 0,
+         "expl": "Three purely mental items, completing dasa akusala kammapatha."},
+        {"q": "What distinguishes the three items added here from the seven given before them?",
+         "opts": [
+             "They are mental states that don't necessarily require any outward action",
+             "They are entirely unrelated to the concept of kammapatha",
+             "They apply only to mendicants, not lay Buddhists",
+             "They are identical in kind to the seven bodily and verbal items"],
+         "correct": 0,
+         "expl": "Covetousness, ill will, and wrong view can be fully present without any visible act."},
+        {"q": "What item closes this discourse's negative list?",
+         "opts": [
+             "Micchādiṭṭhi, wrong view",
+             "Pāṇātipāta, killing living creatures",
+             "Abhijjhā, covetousness",
+             "Samphappalāpa, talking nonsense"],
+         "correct": 0,
+         "expl": "The tenth and final item, whose reversal opens the next discourse's path."},
+        {"q": "How does this discourse's list relate structurally to SN 14.25 and 14.26?",
+         "opts": [
+             "Each list is a strict superset of the one before it — five, then seven, then ten",
+             "Each discourse's list is entirely unrelated to the others",
+             "This discourse's list is shorter than SN 14.26's",
+             "The three lists contradict one another"],
+         "correct": 0,
+         "expl": "A single three-stage build across three consecutive discourses."},
+        {"q": "What connection does this discourse's final item have to SN 14.28?",
+         "opts": [
+             "Wrong view's positive counterpart, right view, opens the eightfold path in the very next discourse",
+             "No connection exists between this discourse and SN 14.28",
+             "SN 14.28 directly contradicts this discourse's teaching on wrong view",
+             "Wrong view is never mentioned again after this discourse"],
+         "correct": 0,
+         "expl": "Sammādiṭṭhi becomes the eightfold path's first factor."},
+        {"q": "What is the traditional name for the complete list this discourse gives?",
+         "opts": [
+             "Dasa akusala kammapatha, the ten unwholesome ways of performing deeds",
+             "The noble eightfold path",
+             "The seven factors of awakening",
+             "The four noble truths"],
+         "correct": 0,
+         "expl": "A widely referenced traditional list across the canon."},
+        {"q": "What item is added as the ninth, describing mental hostility?",
+         "opts": [
+             "Byāpannacitta, ill will",
+             "Abhijjhā, covetousness",
+             "Pharusavācā, harsh speech",
+             "Adinnādāna, stealing"],
+         "correct": 0,
+         "expl": "Literally \"a corrupted mind,\" the second of the three mental additions."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Kammapathavagga."},
+    ],
+    marginalia=[
+        ("Three more items, and the list is complete", [
+            "covetousness, ill will, wrong view &mdash;",
+            "the classic ten, finally assembled",
+        ]),
+        ("Mind alone, no action required", [
+            "these three need no visible act &mdash;",
+            "a shift from doing to simply holding",
+        ]),
+        ("Five, then seven, then ten", [
+            "each list containing the one before it &mdash;",
+            "three discourses, one steady build",
+        ]),
+        ("Wrong view closes here, right view opens next", [
+            "the tenth item, and a hinge to the path &mdash;",
+            "SN 14.28 picks up exactly where this ends",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.27/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.26.html">SN 14.26 &middot; Seven Ways of Performing Deeds</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the seven-item base this discourse completes.",
+        '<a href="sn-14.28.html">SN 14.28 &middot; The Eightfold Path</a> '
+        "&mdash; the next discourse, turning from ethical conduct "
+        "to the noble eightfold path.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.28 — Aṭṭhaṅgikasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 28, "Aṭṭhaṅgika", "The Eightfold Path",
+    meta_title="SN 14.28 — The Eightfold Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Aṭṭhaṅgikasutta — the convergence formula applied to "
+        "the noble eightfold path itself, wrong view through wrong "
+        "immersion converging with their own kind, and so do their "
+        "eight right counterparts. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The convergence formula applied to the eight "
+                 "factors of the noble eightfold path, wrong and "
+                 "right"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; &mdash; "
+                       "assumes basic familiarity with the noble "
+                       "eightfold path's eight factors"),
+    ],
+    why=(
+        "Taking up directly where SN 14.27 left off, this discourse "
+        "applies the convergence formula to the tradition's most "
+        "central practical teaching: the noble eightfold path. "
+        "Wrong view, the item that closed SN 14.27's list, opens "
+        "this discourse's negative half, followed by wrong purpose, "
+        "wrong speech, wrong action, wrong livelihood, wrong effort, "
+        "wrong mindfulness, and wrong immersion &mdash; each "
+        "converging with its own kind &mdash; mirrored exactly by "
+        "the eight right factors that make up the actual path "
+        "itself. Unlike SN 14.25&ndash;27's ethical lists, which "
+        "named specific actions, this discourse names a structured "
+        "path of practice, view through immersion in a fixed, "
+        "cumulative order."),
+    guide=[
+        ("A direct continuation from SN 14.27's final item", [
+            "Wrong view closed the previous discourse's list; this "
+            "discourse opens with the identical term, making the "
+            "transition between the two discourses almost "
+            "seamless."]),
+        ("Eight factors in the path's traditional order", [
+            "View, purpose, speech, action, livelihood, effort, "
+            "mindfulness, immersion &mdash; the standard sequence "
+            "given throughout the canon wherever the eightfold path "
+            "is taught in full."]),
+        ("A path, not a checklist of unrelated actions", [
+            "Unlike the ten kammapatha, which are ten independent "
+            "actions any of which a person might or might not "
+            "commit, the eightfold path's factors are traditionally "
+            "understood as mutually supporting parts of a single, "
+            "unified practice."]),
+        ("Right immersion completing an echo from SN 14.23", [
+            "Sammāsamādhi, right immersion, closes the positive "
+            "list here, calling back to asamāhitā, lacking "
+            "immersion, the very first new term this vagga "
+            "introduced five discourses earlier."]),
+        ("A path with two more factors still to come", [
+            "This eight-factor path isn't the vagga's final word on "
+            "the topic; the next and closing discourse extends it "
+            "to ten factors, adding right knowledge and right "
+            "freedom beyond the eightfold path itself."]),
+    ],
+    terms=[
+        ("ariyo aṭṭhaṅgiko maggo",
+         "&ldquo;the noble eightfold path,&rdquo; though not named "
+         "in full in this discourse's own text &mdash; this "
+         "discourse's title subject, the tradition's central "
+         "structured path of practice."),
+        ("sammādiṭṭhi",
+         "&ldquo;right view&rdquo; &mdash; the path's first factor, "
+         "opening the positive list and directly continuing SN "
+         "14.27's closing item."),
+        ("sammāvācā, sammākammanta, sammāājīva",
+         "&ldquo;right speech, right action, right livelihood&rdquo; "
+         "&mdash; the path's ethical core, factors three through "
+         "five."),
+        ("sammāsamādhi",
+         "&ldquo;right immersion&rdquo; &mdash; the path's eighth "
+         "and final factor, echoing back to asamāhitā, lacking "
+         "immersion, introduced in SN 14.23."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the path's middle factors. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.28:1.1-1.10"),
+        ("p", "&sect;2", "sn14.28:2.1-2.8"),
+    ],
+    quiz=[
+        {"q": "What item does this discourse open with, directly continuing SN 14.27?",
+         "opts": [
+             "Micchādiṭṭhi, wrong view — the same term closing the previous discourse",
+             "Pāṇātipāta, killing living creatures",
+             "Sammāsamādhi, right immersion",
+             "A term entirely unrelated to SN 14.27"],
+         "correct": 0,
+         "expl": "An almost seamless transition between the two discourses."},
+        {"q": "In what order does this discourse give the eightfold path's factors?",
+         "opts": [
+             "View, purpose, speech, action, livelihood, effort, mindfulness, immersion",
+             "Immersion, mindfulness, effort, livelihood, action, speech, purpose, view",
+             "A random, non-standard order unique to this discourse",
+             "Only four of the eight factors are named"],
+         "correct": 0,
+         "expl": "The standard sequence given throughout the canon."},
+        {"q": "How does this discourse describe the eightfold path's factors, compared to the ten kammapatha?",
+         "opts": [
+             "As mutually supporting parts of a single, unified practice, not independent actions",
+             "As entirely unrelated to one another, exactly like the ten kammapatha",
+             "As ten separate independent actions, identical to SN 14.27",
+             "The discourse draws no distinction between the two lists"],
+         "correct": 0,
+         "expl": "A structured path, not a checklist of unrelated behaviors."},
+        {"q": "What earlier discourse does sammāsamādhi, right immersion, call back to?",
+         "opts": [
+             "SN 14.23, which introduced asamāhitā, lacking immersion",
+             "SN 14.11, which discussed the four formless dimensions",
+             "SN 14.17, which introduced the original septet",
+             "No earlier discourse is echoed by this term"],
+         "correct": 0,
+         "expl": "The vagga's very first new term, now completing an echo five discourses later."},
+        {"q": "What happens to the eightfold path in the discourse immediately following this one?",
+         "opts": [
+             "It is extended to ten factors with the addition of right knowledge and right freedom",
+             "It is contradicted and replaced with an entirely different path",
+             "This discourse is the vagga's final one",
+             "The path is shortened to only four factors"],
+         "correct": 0,
+         "expl": "SN 14.29 closes the vagga with the ten-factored path."},
+        {"q": "What factor comes immediately after right view in this discourse's list?",
+         "opts": [
+             "Right purpose (sammāsaṅkappa)",
+             "Right immersion (sammāsamādhi)",
+             "Right livelihood (sammāājīva)",
+             "Right mindfulness (sammāsati)"],
+         "correct": 0,
+         "expl": "The path's second factor, following the standard order."},
+        {"q": "What three factors make up the path's ethical core, according to this reading guide?",
+         "opts": [
+             "Right speech, right action, right livelihood",
+             "Right view, right purpose, right effort",
+             "Right mindfulness, right immersion, right effort",
+             "No specific grouping is identified"],
+         "correct": 0,
+         "expl": "Factors three through five, traditionally grouped as sīla."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Kammapathavagga, one before its close."},
+    ],
+    marginalia=[
+        ("A seamless hinge from the discourse before", [
+            "wrong view closes SN 14.27 &mdash;",
+            "and opens this discourse without a break",
+        ]),
+        ("Eight factors, one unified path", [
+            "not independent actions, like the ten &mdash;",
+            "parts meant to support each other",
+        ]),
+        ("An echo completed, five discourses later", [
+            "lacking immersion, back at SN 14.23 &mdash;",
+            "right immersion, closing the path here",
+        ]),
+        ("Not yet the vagga's final word", [
+            "eight factors now, ten still to come &mdash;",
+            "one more discourse extends this path further",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.28/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.27.html">SN 14.27 &middot; Ten Ways of Performing Deeds</a> '
+        "&mdash; the discourse immediately before this one, closing "
+        "on the same term this discourse opens with.",
+        '<a href="sn-14.29.html">SN 14.29 &middot; Ten Factored Path</a> '
+        "&mdash; the next and closing discourse of this vagga, "
+        "extending the eightfold path to ten factors.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.29 — Dasaṅgasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 29, "Dasaṅga", "Ten Factored Path",
+    meta_title="SN 14.29 — Ten Factored Path | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dasaṅgasutta — closing Kammapathavagga, the eightfold "
+        "path extended to ten factors with right knowledge and right "
+        "freedom, confirmed by the vagga's own closing verse to "
+        "total seven discourses. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The convergence formula applied to a ten-factor "
+                 "path, followed by a reciter's instruction and the "
+                 "vagga's closing verse"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; extends SN 14.28's eight factors with "
+                       "two further ones worth understanding "
+                       "precisely"),
+    ],
+    why=(
+        "This discourse closes Kammapathavagga by extending SN "
+        "14.28's eightfold path with two further factors: "
+        "micchāñāṇa/sammāñāṇa, wrong or right knowledge, and "
+        "micchāvimutti/sammāvimutti, wrong or right freedom. This "
+        "ten-factor path (dasaṅga) is the same list found describing "
+        "the arahant, the one beyond training, whose path is "
+        "complete rather than still being cultivated. A reciter's "
+        "instruction and the vagga's own closing verse follow, the "
+        "latter confirming this vagga's seven discourses by name and "
+        "closing with &ldquo;Kammapathavaggo tatiyo,&rdquo; "
+        "&ldquo;the third chapter is told.&rdquo;"),
+    guide=[
+        ("Two factors beyond the eightfold path", [
+            "Right knowledge and right freedom don't appear in the "
+            "standard eightfold path formula; they belong to a "
+            "distinct, less commonly cited ten-factor list "
+            "traditionally associated with the arahant's completed "
+            "path rather than the trainee still practicing toward "
+            "it."]),
+        ("Knowledge and freedom as the path's own fruit", [
+            "Where the eight factors describe practice still "
+            "underway, right knowledge and right freedom describe "
+            "what that practice culminates in &mdash; direct "
+            "knowing and full liberation, not further steps of "
+            "cultivation but the path's own outcome folded back into "
+            "its list of factors."]),
+        ("A second reciter's instruction, echoing SN 14.22", [
+            "&ldquo;Tell all in full for the past, future, and "
+            "present&rdquo; closes this discourse exactly as it "
+            "closed SN 14.22, confirming the three-time-frame "
+            "expansion applies here too, though the present-tense "
+            "chain given is the only one actually spelled out."]),
+        ("The vagga's own closing verse, confirmed in Pali", [
+            "Untranslated but readable, this vagga's uddāna names "
+            "all seven discourses by their opening words &mdash; "
+            "asamāhitaṁ, dussīlaṁ, pañca sikkhāpadāni, satta "
+            "kammapathā, dasakammapathena, aṭṭhaṅgiko, dasaṅgena "
+            "&mdash; before closing with &ldquo;Kammapathavaggo "
+            "tatiyo,&rdquo; &ldquo;the third chapter is told,&rdquo; "
+            "confirming this vagga's place as Dhātusaṃyutta's third."]),
+        ("A vagga that climbed steadily toward completion", [
+            "Looking back across all seven discourses, Kammapathavagga "
+            "moved from two brief transitional chains (SN "
+            "14.23&ndash;24) through an ethical list built up in "
+            "three stages (SN 14.25&ndash;27) to a path built up in "
+            "two (SN 14.28&ndash;29) &mdash; each pair or trio "
+            "compounding toward a more complete structure than the "
+            "one before it."]),
+    ],
+    terms=[
+        ("dasaṅga",
+         "&ldquo;ten factors&rdquo; &mdash; this discourse's title "
+         "term, extending the eightfold path with two further "
+         "factors traditionally associated with the arahant's "
+         "completed path."),
+        ("sammāñāṇa",
+         "&ldquo;right knowledge&rdquo; &mdash; the ninth factor, "
+         "direct knowing that goes beyond the eight factors of "
+         "practice still underway."),
+        ("sammāvimutti",
+         "&ldquo;right freedom&rdquo; &mdash; the tenth and final "
+         "factor, full liberation itself folded into the path's own "
+         "list."),
+        ("sabbattha atītānāgatapaccuppannaṁ kātabbaṁ",
+         "&ldquo;tell all in full for the past, future, and "
+         "present&rdquo; &mdash; the reciter's instruction closing "
+         "this discourse, echoing the identical line at the end of "
+         "SN 14.22."),
+        ("kammapathavaggo tatiyo",
+         "&ldquo;the third chapter on ways of performing deeds is "
+         "told&rdquo; &mdash; the untranslated line formally closing "
+         "this vagga, confirming its place as Dhātusaṃyutta's "
+         "third."),
+    ],
+    text_intro=(
+        "The discourse in full, including its closing reciter's "
+        "instruction. The vagga's closing verse of discourse titles "
+        "is not translated in the source and is not quoted here. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.29:1.1-1.12"),
+        ("p", "&sect;2", "sn14.29:2.1-2.10"),
+        ("p", "&sect;3", "sn14.29:2.12-2.12"),
+    ],
+    quiz=[
+        {"q": "What two factors does this discourse add to SN 14.28's eightfold path?",
+         "opts": [
+             "Right knowledge and right freedom",
+             "Right view and right purpose, repeating SN 14.28's first two factors",
+             "Two entirely new bodily precepts",
+             "No factors are added; this discourse repeats SN 14.28 unchanged"],
+         "correct": 0,
+         "expl": "Sammāñāṇa and sammāvimutti, extending the path to ten factors."},
+        {"q": "What does this reading guide say about the ten-factor path's traditional association?",
+         "opts": [
+             "It is traditionally associated with the arahant's completed path, not ongoing training",
+             "It applies only to lay Buddhists, never to mendicants",
+             "It has no traditional association beyond this single discourse",
+             "It replaces the eightfold path entirely in later teaching"],
+         "correct": 0,
+         "expl": "A less commonly cited list describing the one beyond training."},
+        {"q": "How do right knowledge and right freedom differ in kind from the original eight factors?",
+         "opts": [
+             "They describe the path's own outcome, not further steps of practice still underway",
+             "They are identical in function to the original eight factors",
+             "They describe practices that precede right view",
+             "They have no meaningful relationship to the original eight"],
+         "correct": 0,
+         "expl": "Direct knowing and full liberation, the fruit rather than the cultivation."},
+        {"q": "What reciter's instruction closes this discourse, echoing an earlier discourse?",
+         "opts": [
+             "\"Tell all in full for the past, future, and present,\" echoing SN 14.22",
+             "\"This discourse should never be recited in full\"",
+             "\"Omit the positive half of this chain entirely\"",
+             "No reciter's instruction appears in this discourse"],
+         "correct": 0,
+         "expl": "The identical line closing both SN 14.22 and this discourse."},
+        {"q": "What does the vagga's own closing verse confirm about this vagga's place in Dhātusaṃyutta?",
+         "opts": [
+             "\"Kammapathavaggo tatiyo\" — confirming it as the third vagga",
+             "That it is the final vagga of the entire saṃyutta",
+             "That it is the first vagga, contradicting Nānattavagga",
+             "The closing verse gives no indication of the vagga's position"],
+         "correct": 0,
+         "expl": "\"The third chapter on ways of performing deeds is told.\""},
+        {"q": "How does this reading guide characterize Kammapathavagga's overall structure?",
+         "opts": [
+             "A steady climb — two transitional chains, an ethical list built in three stages, then a path built in two",
+             "Seven entirely unrelated, independent discourses with no connecting structure",
+             "A single unbroken narrative with no formula repetition",
+             "An exact repetition of Dutiyavagga's structure"],
+         "correct": 0,
+         "expl": "Each pair or trio compounding toward a more complete structure than the one before it."},
+        {"q": "Is the vagga's closing verse of discourse titles translated in the source?",
+         "opts": [
+             "No — it is untranslated, though readable in Pali and not quoted in the text section",
+             "Yes, and it is quoted in full",
+             "Only half of it is translated",
+             "No closing verse exists for this vagga"],
+         "correct": 0,
+         "expl": "Following the same convention used for untranslated closing material elsewhere in this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh and closing discourse of Kammapathavagga."},
+    ],
+    marginalia=[
+        ("Two factors beyond the familiar eight", [
+            "right knowledge, right freedom &mdash;",
+            "the path's own fruit, folded into its list",
+        ]),
+        ("An instruction repeated from three discourses back", [
+            "the same line as SN 14.22's close &mdash;",
+            "past, future, present, told in full",
+        ]),
+        ("A vagga naming its own place", [
+            "\"the third chapter is told\" &mdash;",
+            "confirmed in Pali, not left to inference",
+        ]),
+        ("Seven discourses, a steady climb", [
+            "transition, then a threefold ethical build &mdash;",
+            "then a path completed in two more steps",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.29/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.28.html">SN 14.28 &middot; The Eightfold Path</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the eight factors this discourse extends to ten.",
+        '<a href="sn-14.30.html">SN 14.30 &middot; Four Elements</a> '
+        "&mdash; the next discourse, opening Catutthavagga, this "
+        "saṃyutta's fourth and final vagga.",
+    ],
+)
