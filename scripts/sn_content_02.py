@@ -23916,3 +23916,2167 @@ page(
         "saṃyutta's fourth and final vagga.",
     ],
 )
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.30 — Catudhātusutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 30, "Catudhātu", "Four Elements",
+    meta_title="SN 14.30 — Four Elements | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Catudhātusutta — opening this saṃyutta's final vagga "
+        "with the simplest possible definition: earth, water, fire, "
+        "and air, the four elements every remaining discourse will "
+        "investigate. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's "
+                    "monastery"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A bare definition, the shortest and simplest "
+                 "discourse form used throughout this saṃyutta"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&#9734;&#9734;&#9734;&#9734; "
+                       "&mdash; the simplest possible opening, "
+                       "naming a base every later discourse in this "
+                       "vagga returns to"),
+    ],
+    why=(
+        "Opening Catutthavagga, Dhātusaṃyutta's fourth and final "
+        "vagga, this discourse gives the shortest possible "
+        "definition: four elements, earth, water, fire, and air "
+        "&mdash; the four &ldquo;great elements&rdquo; (mahābhūta) "
+        "that appear throughout the canon as the basic physical "
+        "constituents of matter. Unlike SN 14.1's eighteen-element "
+        "list or SN 14.11's seven meditative attainments, this base "
+        "is deliberately minimal: no sense doors, no consciousness, "
+        "just the four physical elements themselves. Every "
+        "discourse for the rest of this vagga investigates these "
+        "same four elements from a different analytical angle, "
+        "making this brief opening the foundation the whole vagga "
+        "is built on."),
+    guide=[
+        ("The simplest opening in this vagga", [
+            "As bare as SN 14.1's opening definition, this "
+            "discourse offers no causal chain, no narrative, and no "
+            "dialogue &mdash; just a four-item list answering the "
+            "Buddha's own question."]),
+        ("The four great elements, physical rather than sensory", [
+            "Earth, water, fire, and air (pathavī, āpo, tejo, vāyo) "
+            "are the mahābhūta, the four great elements treated "
+            "throughout the canon as matter's basic constituents "
+            "&mdash; distinct from SN 14.1's eighteen sense-related "
+            "elements."]),
+        ("A base for nine more discourses of investigation", [
+            "Every remaining discourse in this vagga takes these "
+            "same four elements and applies a different analytical "
+            "lens &mdash; gratification and drawback, arising and "
+            "cessation, what makes a true ascetic or brahmin &mdash; "
+            "without ever adding a fifth element or dropping one of "
+            "these four."]),
+        ("No sense doors, no consciousness, matter alone", [
+            "Where SN 14.1 paired each element with an organ and a "
+            "consciousness, this discourse's four elements are "
+            "purely physical, with no accompanying sense-faculty or "
+            "cognitive component attached."]),
+        ("A minimal opening before a rich investigation", [
+            "The brevity here is deliberate contrast: this vagga's "
+            "very next discourse expands dramatically into a full "
+            "first-person account of the Buddha's own pre-awakening "
+            "reflection on these same four elements."]),
+    ],
+    terms=[
+        ("catasso dhātuyo",
+         "&ldquo;the four elements&rdquo; &mdash; this discourse's "
+         "title subject and the base every later discourse in this "
+         "vagga investigates."),
+        ("pathavīdhātu",
+         "&ldquo;the earth element&rdquo; &mdash; the first of the "
+         "four, traditionally associated with solidity and "
+         "resistance."),
+        ("āpodhātu",
+         "&ldquo;the water element&rdquo; &mdash; the second, "
+         "traditionally associated with cohesion and fluidity."),
+        ("tejodhātu, vāyodhātu",
+         "&ldquo;the fire element, the air element&rdquo; &mdash; "
+         "the third and fourth, traditionally associated with heat "
+         "and movement respectively."),
+        ("paṭhamaṁ",
+         "&ldquo;the first&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse as the vagga's opener."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.30:1.1-1.5"),
+    ],
+    quiz=[
+        {"q": "What four elements does this discourse name?",
+         "opts": [
+             "Earth, water, fire, and air",
+             "The eighteen elements from SN 14.1",
+             "The seven meditative attainments from SN 14.11",
+             "Light, beauty, and the four formless dimensions"],
+         "correct": 0,
+         "expl": "The four \"great elements\" (mahābhūta), matter's basic constituents."},
+        {"q": "How does this discourse's element list differ from SN 14.1's eighteen-element list?",
+         "opts": [
+             "It is purely physical, with no accompanying sense organ or consciousness",
+             "It contains exactly the same eighteen items",
+             "It includes consciousness but omits the physical elements",
+             "It is a list of seven meditative attainments instead"],
+         "correct": 0,
+         "expl": "No sense doors or cognitive components, just the four physical elements themselves."},
+        {"q": "What role does this discourse's four-item list play in the rest of the vagga?",
+         "opts": [
+             "It is the base every remaining discourse in this vagga investigates from a different angle",
+             "It has no connection to any later discourse",
+             "It is contradicted and replaced by SN 14.31",
+             "A fifth element is added in each subsequent discourse"],
+         "correct": 0,
+         "expl": "Gratification, arising, legitimacy criteria — nine more discourses, one shared base."},
+        {"q": "What does this discourse's form consist of?",
+         "opts": [
+             "A bare definition, with no narrative or dialogue",
+             "An extended first-person narrative",
+             "A dialogue between the Buddha and a named mendicant",
+             "A set of verses"],
+         "correct": 0,
+         "expl": "The shortest possible discourse form, matching SN 14.1's opening style."},
+        {"q": "What contrast does this reading guide draw between this discourse and the one immediately after it?",
+         "opts": [
+             "This discourse is minimal, while SN 14.31 expands into a rich first-person account",
+             "Both discourses are identical in length and content",
+             "SN 14.31 is shorter than this discourse",
+             "No contrast is drawn between the two discourses"],
+         "correct": 0,
+         "expl": "A deliberate brevity before the vagga's investigation deepens considerably."},
+        {"q": "What is traditionally associated with the earth element?",
+         "opts": [
+             "Solidity and resistance",
+             "Heat and combustion",
+             "Cohesion and fluidity",
+             "Movement and expansion"],
+         "correct": 0,
+         "expl": "The first of the four elements' traditional associations."},
+        {"q": "What are the four great elements collectively called in the tradition?",
+         "opts": [
+             "Mahābhūta",
+             "Kammapatha",
+             "Ariya sacca",
+             "Bojjhaṅga"],
+         "correct": 0,
+         "expl": "A term used throughout the canon for matter's basic physical constituents."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "Given in full here, the fuller version of the setting formula used elsewhere in this saṃyutta."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Paṭhamaṁ, \"the first\"",
+             "Dutiyaṁ, \"the second\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The first discourse of this new, final vagga."},
+    ],
+    marginalia=[
+        ("As bare as this saṃyutta's very first page", [
+            "no chain, no story, just four names &mdash;",
+            "earth, water, fire, air",
+        ]),
+        ("Matter alone, nothing sensory attached", [
+            "no organ, no consciousness paired here &mdash;",
+            "unlike SN 14.1's eighteen elements",
+        ]),
+        ("A base for everything still to come", [
+            "nine more discourses, one shared foundation &mdash;",
+            "gratification, arising, true understanding",
+        ]),
+        ("Minimal now, rich just one page later", [
+            "the shortest opening in this vagga &mdash;",
+            "SN 14.31 expands it dramatically",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.30/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.29.html">SN 14.29 &middot; Ten Factored Path</a> '
+        "&mdash; the discourse closing Kammapathavagga, immediately "
+        "before this one.",
+        '<a href="sn-14.31.html">SN 14.31 &middot; Before Awakening</a> '
+        "&mdash; the next discourse, the Buddha's own first-person "
+        "account of investigating these same four elements before "
+        "his awakening.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.31 — Pubbesambodhasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 31, "Pubbesambodha", "Before Awakening",
+    meta_title="SN 14.31 — Before Awakening | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Pubbesambodhasutta — the Buddha's own first-person "
+        "account of investigating the four elements' gratification, "
+        "drawback, and escape before his awakening, closing on the "
+        "arahant's classic declaration. From Ru-Yi Meditation "
+        "Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, recounting his own "
+                     "pre-awakening reflection in the first person"),
+        ("Form", "Autobiographical narrative: a question the "
+                 "unawakened bodhisatta asked himself, the answer he "
+                 "found, and the awakening that followed"),
+        ("Length", "~3 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; introduces the gratification-drawback-escape "
+                       "framework this whole vagga investigates"),
+    ],
+    why=(
+        "This discourse is one of the few places in this saṃyutta "
+        "where the Buddha speaks autobiographically, recalling a "
+        "specific question he asked himself before his own "
+        "awakening, while still an unawakened bodhisatta: what is "
+        "the gratification, the drawback, and the escape when it "
+        "comes to each of the four elements? He answers his own "
+        "question &mdash; gratification is the pleasure that arises "
+        "from each element, drawback is that each element is "
+        "impermanent and perishable, escape is removing desire and "
+        "greed for it &mdash; and states plainly that his awakening "
+        "itself depended on genuinely understanding this three-part "
+        "structure, closing with the arahant's classic declaration "
+        "of unshakable freedom."),
+    guide=[
+        ("A rare first-person retrospective", [
+            "Most discourses in this saṃyutta are the Buddha "
+            "teaching mendicants directly; this one instead recalls "
+            "his own internal question from before his awakening, a "
+            "genuinely different register within the collection."]),
+        ("Gratification, drawback, and escape, defined precisely", [
+            "This discourse doesn't just name the three-part "
+            "framework; it defines each term exactly &mdash; "
+            "gratification is the pleasure and happiness an element "
+            "gives rise to, drawback is the element's impermanence "
+            "and perishability, and escape is removing desire and "
+            "greed for it."]),
+        ("Awakening made conditional on this specific understanding", [
+            "The discourse states directly that the Buddha didn't "
+            "announce his awakening until he had genuinely "
+            "understood all three aspects of all four elements "
+            "&mdash; making this investigation, not merely one "
+            "teaching among many, a condition of awakening itself."]),
+        ("The same closing declaration used elsewhere in the canon", [
+            "\"My freedom is unshakable; this is my last rebirth; "
+            "now there'll be no more future lives\" is the standard "
+            "formula marking a definitive claim to arahantship, used "
+            "in comparable \"before my awakening\" discourses "
+            "elsewhere concerning other topics."]),
+        ("A framework this whole vagga will now test from every angle", [
+            "Having introduced gratification, drawback, and escape "
+            "here in autobiographical form, the discourses that "
+            "follow apply the same three-part structure "
+            "declaratively (SN 14.32), logically (SN 14.33&ndash;34), "
+            "and as a criterion for genuine spiritual attainment (SN "
+            "14.37&ndash;38)."]),
+    ],
+    terms=[
+        ("assādo, ādīnavo, nissaraṇaṁ",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the "
+         "three-part analytical framework this discourse introduces "
+         "and this whole vagga investigates."),
+        ("bodhisatta",
+         "&ldquo;awakening-being&rdquo; &mdash; the term the "
+         "discourse uses for the Buddha's own pre-awakened self, "
+         "still intent on but not yet possessing awakening."),
+        ("chandarāgavinayo",
+         "&ldquo;removing desire and greed&rdquo; &mdash; the "
+         "discourse's precise definition of escape (nissaraṇa) for "
+         "each element."),
+        ("aniccā dukkhā vipariṇāmadhammā",
+         "&ldquo;impermanent, suffering, and perishable&rdquo; "
+         "&mdash; the discourse's precise definition of drawback "
+         "(ādīnava) for each element."),
+        ("akuppā me vimutti",
+         "&ldquo;my freedom is unshakable&rdquo; &mdash; the "
+         "opening line of the closing declaration, the standard "
+         "formula marking a definitive claim to arahantship."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.31:1.1-1.6"),
+        ("p", "&sect;2", "sn14.31:2.1-2.9"),
+        ("p", "&sect;3", "sn14.31:3.1-3.1"),
+        ("p", "&sect;4", "sn14.31:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "What question did the unawakened bodhisatta ask himself, according to this discourse?",
+         "opts": [
+             "What is the gratification, drawback, and escape for each of the four elements?",
+             "What is the origin of suffering itself?",
+             "How many elements exist in total?",
+             "Who was his teacher before his awakening?"],
+         "correct": 0,
+         "expl": "The three-part question this whole vagga will go on to investigate further."},
+        {"q": "How does this discourse define \"drawback\" (ādīnava) for each element?",
+         "opts": [
+             "That the element is impermanent, suffering, and perishable",
+             "That the element is entirely absent of any pleasure",
+             "That the element cannot be perceived by the senses",
+             "The discourse gives no specific definition"],
+         "correct": 0,
+         "expl": "A precise, stated definition, not left vague."},
+        {"q": "How does this discourse define \"escape\" (nissaraṇa) for each element?",
+         "opts": [
+             "Removing and giving up desire and greed for the element",
+             "Physically avoiding contact with the element",
+             "Denying that the element exists at all",
+             "The discourse gives no specific definition"],
+         "correct": 0,
+         "expl": "Chandarāgavinayo, a precise, stated definition."},
+        {"q": "What does the discourse say was required before the Buddha announced his awakening?",
+         "opts": [
+             "Genuinely understanding all three aspects — gratification, drawback, escape — of all four elements",
+             "Simply reaching a certain number of years in meditation practice",
+             "Receiving confirmation from another awakened teacher",
+             "No specific condition is mentioned"],
+         "correct": 0,
+         "expl": "The investigation is stated as a direct condition of the awakening itself."},
+        {"q": "What formula closes this discourse?",
+         "opts": [
+             "\"My freedom is unshakable; this is my last rebirth; now there'll be no more future lives\"",
+             "A dedication of merit to all beings",
+             "A question left deliberately unanswered",
+             "A verse in praise of the four elements"],
+         "correct": 0,
+         "expl": "The standard formula marking a definitive claim to arahantship."},
+        {"q": "What term does this discourse use for the Buddha's own pre-awakened self?",
+         "opts": [
+             "Bodhisatta, \"awakening-being\"",
+             "Arahant, \"worthy one\"",
+             "Tathāgata, \"thus-gone one\"",
+             "No specific term is used"],
+         "correct": 0,
+         "expl": "Still intent on but not yet possessing awakening."},
+        {"q": "How does this discourse's register differ from most discourses in this saṃyutta?",
+         "opts": [
+             "It is autobiographical, recalling a personal pre-awakening reflection rather than teaching mendicants directly",
+             "It is identical in register to every other discourse in this saṃyutta",
+             "It is spoken entirely by a mendicant, not the Buddha",
+             "It contains no first-person narration at all"],
+         "correct": 0,
+         "expl": "A genuinely rare retrospective voice within this collection."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha recounts his own memory directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dutiyaṁ, \"the second\"",
+             "Paṭhamaṁ, \"the first\"",
+             "Tatiyaṁ, \"the third\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The second discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A memory, not a teaching to others", [
+            "before awakening, a question to himself &mdash;",
+            "a rare first-person register in this collection",
+        ]),
+        ("Three terms, precisely defined", [
+            "pleasure, impermanence, letting go of desire &mdash;",
+            "gratification, drawback, escape, spelled out exactly",
+        ]),
+        ("Awakening made conditional on this understanding", [
+            "not announced until all three were seen &mdash;",
+            "for every one of the four elements",
+        ]),
+        ("A framework the whole vagga will now test", [
+            "declared, argued, and used as a criterion &mdash;",
+            "from many angles, across the discourses ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.31/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.30.html">SN 14.30 &middot; Four Elements</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the base list this discourse investigates.",
+        '<a href="sn-14.32.html">SN 14.32 &middot; In Search of Gratification</a> '
+        "&mdash; the next discourse, restating this same "
+        "investigation in a more declarative form.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.32 — Acariṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 32, "Acariṁ", "In Search of Gratification",
+    meta_title="SN 14.32 — In Search of Gratification | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Acariṁsutta — the same investigation as SN 14.31, "
+        "restated as a direct declaration: I searched, and I found, "
+        "for gratification, drawback, and escape, across all four "
+        "elements. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, declaring his own completed "
+                     "investigation"),
+        ("Form", "A direct first-person declaration, twelve short "
+                 "statements of search and discovery, closing with "
+                 "the same awakening formula as SN 14.31"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; a direct restatement of SN 14.31's "
+                       "investigation in more compressed form"),
+    ],
+    why=(
+        "Where SN 14.31 recalled a question the young bodhisatta "
+        "asked himself, this discourse states the same investigation "
+        "as accomplished fact, twelve times over: for each of the "
+        "four elements, in each of the three categories &mdash; "
+        "gratification, drawback, escape &mdash; the Buddha declares "
+        "&ldquo;I went in search of it, and I found it. I've seen "
+        "clearly with wisdom the full extent of it.&rdquo; The "
+        "content is identical to SN 14.31; the register has shifted "
+        "from a recalled question to a settled, declarative claim, "
+        "closing on the same awakening formula and the same "
+        "arahant's declaration of unshakable freedom."),
+    guide=[
+        ("Same content, declarative rather than narrative", [
+            "SN 14.31 narrated a process of questioning and "
+            "discovering; this discourse states the outcome directly "
+            "&mdash; &ldquo;I went in search of it, and I found "
+            "it&rdquo; &mdash; twelve consecutive times, without "
+            "revisiting the original question."]),
+        ("Twelve declarations: four elements, three categories each", [
+            "Gratification, drawback, and escape are each declared "
+            "found for earth, then (in elided form) for water and "
+            "fire, then in full again for air &mdash; the same "
+            "structure SN 14.31 used, now compressed into pure "
+            "assertion."]),
+        ("A repeated phrase marking certainty", [
+            "&ldquo;Yāvatā … paññāya me so sudiṭṭho,&rdquo; "
+            "&ldquo;I've seen clearly with wisdom the full extent of "
+            "it,&rdquo; recurs after every single declaration, "
+            "emphasizing thoroughness rather than a single moment of "
+            "insight."]),
+        ("The identical closing formula as SN 14.31", [
+            "Both the awakening-conditional statement and the final "
+            "&ldquo;my freedom is unshakable&rdquo; declaration "
+            "reappear here word for word, confirming this discourse "
+            "as SN 14.31's direct companion rather than a distinct "
+            "teaching."]),
+        ("Confidence following recollection", [
+            "Read together, SN 14.31 and this discourse trace a "
+            "shift from &ldquo;this is what I once wondered and "
+            "found&rdquo; to &ldquo;this is what I now declare "
+            "outright&rdquo; &mdash; the same content, but voiced "
+            "with the settled certainty of someone long past the "
+            "original search."]),
+    ],
+    terms=[
+        ("assādapariyesanaṁ acariṁ",
+         "&ldquo;I went in search of gratification&rdquo; &mdash; "
+         "this discourse's title phrase and its recurring opening "
+         "clause for each of the twelve declarations."),
+        ("tadajjhagamaṁ",
+         "&ldquo;I found it&rdquo; &mdash; the second half of each "
+         "declaration, confirming the search's completion."),
+        ("paññāya me so sudiṭṭho",
+         "&ldquo;I've seen it clearly with wisdom&rdquo; &mdash; the "
+         "phrase closing each declaration, emphasizing thorough "
+         "rather than partial understanding."),
+        ("assādo, ādīnavo, nissaraṇaṁ",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the "
+         "same three categories introduced in SN 14.31, restated "
+         "here as accomplished discoveries."),
+        ("tatiyaṁ",
+         "&ldquo;the third&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.32:1.1-1.4"),
+        ("p", "&sect;2", "sn14.32:2.1-2.5"),
+        ("p", "&sect;3", "sn14.32:3.1-3.1"),
+        ("p", "&sect;4", "sn14.32:4.1-4.3"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's register differ from SN 14.31's?",
+         "opts": [
+             "Declarative rather than narrative — stating the investigation as accomplished fact rather than recalling a question",
+             "This discourse introduces an entirely new topic unrelated to SN 14.31",
+             "This discourse is spoken by a mendicant instead of the Buddha",
+             "There is no difference; the two discourses are identical in every respect"],
+         "correct": 0,
+         "expl": "The same content, shifted from recalled question to settled declaration."},
+        {"q": "How many times does the \"I went in search of it, and I found it\" declaration recur?",
+         "opts": [
+             "Twelve — four elements times three categories each",
+             "Once, covering all elements and categories at once",
+             "Four times, once per element only",
+             "Three times, once per category only"],
+         "correct": 0,
+         "expl": "Gratification, drawback, and escape, declared for each of the four elements."},
+        {"q": "What phrase closes each of the twelve declarations, emphasizing thoroughness?",
+         "opts": [
+             "\"I've seen clearly with wisdom the full extent of it\"",
+             "\"This remains uncertain to this day\"",
+             "\"Others have confirmed this independently\"",
+             "No closing phrase recurs across the declarations"],
+         "correct": 0,
+         "expl": "Paññāya me so sudiṭṭho, recurring after every declaration."},
+        {"q": "How does this discourse's closing formula compare to SN 14.31's?",
+         "opts": [
+             "Identical, word for word, including the awakening-conditional statement and unshakable-freedom declaration",
+             "Entirely different, with no shared wording",
+             "Only the opening lines match; the closing differs completely",
+             "This discourse has no closing formula at all"],
+         "correct": 0,
+         "expl": "Confirming this discourse as SN 14.31's direct declarative companion."},
+        {"q": "What shift does this reading guide identify between SN 14.31 and this discourse?",
+         "opts": [
+             "From \"this is what I once wondered and found\" to \"this is what I now declare outright\"",
+             "From declarative certainty back to an unresolved question",
+             "From the Buddha speaking to a mendicant speaking instead",
+             "No meaningful shift is identified between the two discourses"],
+         "correct": 0,
+         "expl": "Recollection giving way to settled, confident assertion."},
+        {"q": "What does tadajjhagamaṁ mean, appearing after each search is described?",
+         "opts": [
+             "\"I found it\"",
+             "\"I never found it\"",
+             "\"Others found it before me\"",
+             "\"It cannot be found\""],
+         "correct": 0,
+         "expl": "Confirming the completion of each search declared."},
+        {"q": "Are gratification, drawback, and escape given new definitions in this discourse, compared to SN 14.31?",
+         "opts": [
+             "No — the same three categories from SN 14.31 are restated as accomplished discoveries",
+             "Yes, entirely new definitions are given",
+             "Only gratification is redefined; the other two are dropped",
+             "This discourse doesn't mention any of the three categories"],
+         "correct": 0,
+         "expl": "Identical content to SN 14.31, in declarative rather than narrative form."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha speaks directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Tatiyaṁ, \"the third\"",
+             "Dutiyaṁ, \"the second\"",
+             "Catutthaṁ, \"the fourth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The third discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A question becomes a declaration", [
+            "no longer wondering, but stating outright &mdash;",
+            "the same search, now spoken as settled fact",
+        ]),
+        ("Twelve times, the same shape repeated", [
+            "four elements, three categories each &mdash;",
+            "searched for, and found, every single time",
+        ]),
+        ("A phrase marking thoroughness, not a glimpse", [
+            "\"seen clearly with wisdom, the full extent\" &mdash;",
+            "not partial insight, but complete understanding",
+        ]),
+        ("The identical close as the discourse before it", [
+            "unshakable freedom, word for word &mdash;",
+            "confirming these two discourses as one pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.32/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.31.html">SN 14.31 &middot; Before Awakening</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "direct narrative companion.",
+        '<a href="sn-14.33.html">SN 14.33 &middot; If There Was No</a> '
+        "&mdash; the next discourse, turning the same three "
+        "categories into a logical argument.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.33 — Nocedaṁsutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 33, "Nocedaṁ", "If There Was No",
+    meta_title="SN 14.33 — If There Was No | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Nocedaṁsutta — the gratification-drawback-escape "
+        "framework turned into a logical argument: if an element had "
+        "no gratification, beings wouldn't be aroused by it; but "
+        "they are, so it does. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A logical argument in six paired steps, moving "
+                 "from hypothetical absence to observed reality"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; a genuine logical structure, worth "
+                       "reading carefully step by step"),
+    ],
+    why=(
+        "SN 14.31 and 14.32 stated that gratification, drawback, and "
+        "escape exist for each element; this discourse argues for "
+        "it. For each of the three categories, it reasons from a "
+        "counterfactual: if the earth element had no gratification, "
+        "sentient beings wouldn't be aroused by it &mdash; but they "
+        "are, so it does; if it had no drawback, beings wouldn't "
+        "grow disillusioned with it &mdash; but they do, so it does; "
+        "if it had no escape, beings couldn't escape from it "
+        "&mdash; but they can, so it does. The argument moves from "
+        "observed human behavior (arousal, disillusionment, escape) "
+        "back to what must be true about the elements themselves for "
+        "that behavior to make sense."),
+    guide=[
+        ("An argument, not just an assertion", [
+            "Unlike SN 14.31&ndash;32, which state that gratification, "
+            "drawback, and escape exist, this discourse reasons "
+            "toward that conclusion from observable facts about how "
+            "beings actually behave."]),
+        ("Three matched counterfactuals, one per category", [
+            "Each category gets the identical two-step treatment: a "
+            "hypothetical denial (\"if there were no X\"), followed "
+            "immediately by the observed reality that refutes it "
+            "(\"but since there is X\")."]),
+        ("Arousal, disillusionment, and escape as the evidence", [
+            "The argument's actual evidence isn't abstract "
+            "philosophy but ordinary observable behavior: people "
+            "clearly do get attracted to, disillusioned with, and "
+            "sometimes free themselves from things &mdash; and each "
+            "behavior requires a corresponding real feature in what "
+            "it responds to."]),
+        ("A closing statement about the cost of not understanding", [
+            "The discourse's final two sections shift from "
+            "individual elements to sentient beings generally, "
+            "stating that without this three-part understanding, "
+            "beings remain caught in the world rather than living "
+            "\"detached, liberated, with mind free of boundaries.\""]),
+        ("A companion discourse for SN 14.34's variant", [
+            "This exact style of paired counterfactual reasoning "
+            "reappears in the very next discourse with a different "
+            "premise &mdash; not the presence or absence of "
+            "gratification and drawback, but whether an element is "
+            "exclusively one or the other."]),
+    ],
+    terms=[
+        ("no cedaṁ … abhavissa",
+         "&ldquo;if there were no … &rdquo; &mdash; this discourse's "
+         "title phrase and its recurring hypothetical opening for "
+         "each counterfactual."),
+        ("sārajjanti",
+         "&ldquo;are aroused,&rdquo; or become attached &mdash; the "
+         "observed behavior proving gratification exists."),
+        ("nibbindanti",
+         "&ldquo;grow disillusioned&rdquo; &mdash; the observed "
+         "behavior proving drawback exists."),
+        ("nissaranti",
+         "&ldquo;escape&rdquo; &mdash; the observed behavior proving "
+         "escape genuinely exists as a real possibility."),
+        ("vimariyādikatena cetasā",
+         "&ldquo;with mind free of boundaries&rdquo; &mdash; part of "
+         "the discourse's closing description of a being who has "
+         "genuinely understood all three categories."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.33:1.1-1.7"),
+        ("p", "&sect;2", "sn14.33:2.1-2.8"),
+        ("p", "&sect;3", "sn14.33:3.1-3.1"),
+        ("p", "&sect;4", "sn14.33:4.1-4.1"),
+    ],
+    quiz=[
+        {"q": "What logical structure does this discourse use for each of the three categories?",
+         "opts": [
+             "A counterfactual denial followed by the observed reality that refutes it",
+             "A simple list with no argumentative structure",
+             "A dialogue between the Buddha and a questioning mendicant",
+             "A narrative recounting a specific historical event"],
+         "correct": 0,
+         "expl": "\"If there were no X\" followed by \"but since there is X.\""},
+        {"q": "What observed behavior does this discourse cite as evidence that gratification exists?",
+         "opts": [
+             "That sentient beings are aroused by (attached to) the elements",
+             "That sentient beings never interact with the elements at all",
+             "That sentient beings always avoid the elements entirely",
+             "No observed behavior is cited as evidence"],
+         "correct": 0,
+         "expl": "Sārajjanti, being aroused, only makes sense if there's something to be aroused by."},
+        {"q": "What observed behavior does this discourse cite as evidence that drawback exists?",
+         "opts": [
+             "That sentient beings grow disillusioned with the elements",
+             "That sentient beings remain permanently attached with no change",
+             "That sentient beings are entirely unaware of the elements",
+             "No observed behavior is cited for this category"],
+         "correct": 0,
+         "expl": "Nibbindanti, growing disillusioned, requires something disillusioning to respond to."},
+        {"q": "How does this discourse's final two sections shift in scope?",
+         "opts": [
+             "From individual elements to sentient beings generally and what full understanding requires",
+             "The discourse never shifts scope at all",
+             "From sentient beings back to a single named individual",
+             "From elements to an entirely unrelated topic"],
+         "correct": 0,
+         "expl": "A closing statement about the cost of not understanding this three-part structure."},
+        {"q": "What does this discourse say about beings who haven't understood gratification, drawback, and escape?",
+         "opts": [
+             "They haven't escaped from the world and don't live with mind free of boundaries",
+             "They are automatically guaranteed a good rebirth regardless",
+             "They cannot ever attain understanding under any circumstances",
+             "The discourse makes no claim about such beings"],
+         "correct": 0,
+         "expl": "A direct consequence stated for lacking this understanding."},
+        {"q": "What discourse immediately follows this one, using a similar but distinct counterfactual style?",
+         "opts": [
+             "SN 14.34, using \"exclusively painful\" or \"exclusively pleasurable\" as its premise instead",
+             "SN 14.30, repeating the vagga's opening definition",
+             "SN 14.39, closing the entire saṃyutta",
+             "No later discourse uses a similar structure"],
+         "correct": 0,
+         "expl": "A variant on the same paired-counterfactual reasoning technique."},
+        {"q": "What is the discourse's argumentative starting point in each of its three cases?",
+         "opts": [
+             "A hypothetical denial of the category in question",
+             "A direct citation of the Buddha's own pre-awakening experience",
+             "A question posed by a named mendicant",
+             "An appeal to a rival teacher's doctrine"],
+         "correct": 0,
+         "expl": "Reasoning from what would follow if gratification, drawback, or escape didn't exist."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Catutthaṁ, \"the fourth\"",
+             "Tatiyaṁ, \"the third\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fourth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("An argument, not just a claim repeated", [
+            "if there were none, beings wouldn't respond &mdash;",
+            "but they do, so something real is there",
+        ]),
+        ("Ordinary behavior as the evidence", [
+            "arousal, disillusionment, escape &mdash;",
+            "not abstract proof, but what people actually do",
+        ]),
+        ("Three matched steps, one shape repeated", [
+            "hypothetical denial, then observed fact &mdash;",
+            "gratification, drawback, escape, each argued the same way",
+        ]),
+        ("A cost named for not understanding", [
+            "still caught in the world, not free &mdash;",
+            "the stakes of missing this three-part structure",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.33/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.32.html">SN 14.32 &middot; In Search of Gratification</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.34.html">SN 14.34 &middot; Exclusively Painful</a> '
+        "&mdash; the next discourse, applying a similar counterfactual "
+        "argument to a different premise.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.34 — Ekantadukkhasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 34, "Ekantadukkha", "Exclusively Painful",
+    meta_title="SN 14.34 — Exclusively Painful | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Ekantadukkhasutta — a variant counterfactual argument: "
+        "if an element were exclusively painful or exclusively "
+        "pleasurable, beings couldn't respond to it the way they "
+        "actually do. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A variant counterfactual argument in two halves, "
+                 "applied only to arousal and disillusionment, not "
+                 "escape"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; best read directly alongside SN "
+                       "14.33 to notice exactly how the two "
+                       "arguments differ"),
+    ],
+    why=(
+        "This discourse takes SN 14.33's counterfactual style and "
+        "changes its premise: instead of asking whether gratification "
+        "or drawback exist at all, it asks whether an element could "
+        "be exclusively one or the other. If the earth element were "
+        "exclusively painful, soaked and steeped in pain with no "
+        "pleasure at all, beings wouldn't be aroused by it; if it "
+        "were exclusively pleasurable, with no pain at all, beings "
+        "wouldn't grow disillusioned with it. Since beings clearly "
+        "do both, the earth element must be genuinely mixed &mdash; "
+        "not pure of either quality. Notably, this discourse doesn't "
+        "carry the argument through to escape, addressing only "
+        "arousal and disillusionment."),
+    guide=[
+        ("A different premise from SN 14.33", [
+            "SN 14.33 asked whether gratification and drawback exist "
+            "at all; this discourse instead asks whether an element "
+            "could be purely one quality with none of the other "
+            "&mdash; a subtler, more specific claim."]),
+        ("Only two arguments, not three", [
+            "Unlike SN 14.33's three-part structure covering "
+            "gratification, drawback, and escape, this discourse "
+            "addresses only arousal and disillusionment, leaving "
+            "escape untouched &mdash; a genuine structural "
+            "difference worth noticing."]),
+        ("Elements as genuinely mixed, not purely one thing", [
+            "The conclusion this discourse reaches is that each "
+            "element must contain both pleasure and pain in some "
+            "measure, since a purely one-sided element couldn't "
+            "produce the mixed responses &mdash; both arousal and "
+            "disillusionment &mdash; that beings actually display."]),
+        ("Vivid, physical language for both extremes", [
+            "&ldquo;Soaked and steeped in pain and not steeped in "
+            "pleasure&rdquo; and its positive mirror use unusually "
+            "concrete, almost tactile imagery for a discourse this "
+            "brief, emphasizing total saturation rather than mere "
+            "presence."]),
+        ("A precise variation, not a looser repetition", [
+            "Reading this discourse straight after SN 14.33 makes "
+            "the difference in scope immediately clear &mdash; not a "
+            "vague restatement, but a distinct argument narrowed to "
+            "a more specific claim about purity versus mixture."]),
+    ],
+    terms=[
+        ("ekantadukkhā",
+         "&ldquo;exclusively painful&rdquo; &mdash; this "
+         "discourse's title term and the hypothetical premise of "
+         "its first half."),
+        ("ekantasukhā",
+         "&ldquo;exclusively pleasurable,&rdquo; or perfectly "
+         "pleasurable &mdash; the mirrored premise of the second "
+         "half."),
+        ("dukkhānupatitā dukkhāvakkantā anavakkantā sukhena",
+         "&ldquo;soaked and steeped in pain and not steeped in "
+         "pleasure&rdquo; &mdash; the vivid physical language "
+         "describing total saturation in one quality."),
+        ("sārajjanti, nibbindanti",
+         "&ldquo;are aroused, grow disillusioned&rdquo; &mdash; the "
+         "same two observed behaviors from SN 14.33, though this "
+         "discourse doesn't extend the argument to escape."),
+        ("pañcamaṁ",
+         "&ldquo;the fifth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.34:1.1-1.2"),
+        ("p", "&sect;2", "sn14.34:2.1-2.4"),
+        ("p", "&sect;3", "sn14.34:3.1-3.2"),
+        ("p", "&sect;4", "sn14.34:4.1-4.4"),
+    ],
+    quiz=[
+        {"q": "What premise does this discourse test, differing from SN 14.33?",
+         "opts": [
+             "Whether an element could be exclusively painful or exclusively pleasurable, not whether gratification or drawback exist at all",
+             "The identical premise as SN 14.33, with no variation",
+             "Whether elements exist at all",
+             "Whether beings can ever be aroused by anything"],
+         "correct": 0,
+         "expl": "A subtler question about purity versus mixture, not mere existence."},
+        {"q": "How many of SN 14.33's three categories does this discourse's argument address?",
+         "opts": [
+             "Two — arousal and disillusionment, leaving escape untouched",
+             "All three, identical in scope to SN 14.33",
+             "Only one — escape alone",
+             "None; this discourse addresses an entirely different topic"],
+         "correct": 0,
+         "expl": "A genuine structural difference from SN 14.33's full three-part treatment."},
+        {"q": "What conclusion does this discourse reach about the nature of each element?",
+         "opts": [
+             "Each element must be genuinely mixed, containing both pleasure and pain",
+             "Each element is purely and exclusively painful",
+             "Each element is purely and exclusively pleasurable",
+             "The discourse reaches no conclusion about the elements' nature"],
+         "correct": 0,
+         "expl": "A purely one-sided element couldn't produce the mixed responses beings actually show."},
+        {"q": "What kind of language does this discourse use to describe total saturation in one quality?",
+         "opts": [
+             "Vivid, physical imagery — \"soaked and steeped\"",
+             "Purely abstract, technical philosophical terminology only",
+             "No descriptive language is used at all",
+             "Poetic verse exclusively"],
+         "correct": 0,
+         "expl": "Unusually concrete, almost tactile phrasing for a brief discourse."},
+        {"q": "What would follow, according to this discourse, if the earth element were exclusively painful?",
+         "opts": [
+             "Sentient beings wouldn't be aroused by it",
+             "Sentient beings would be aroused by it even more strongly",
+             "Sentient beings would immediately achieve escape from it",
+             "Nothing would change in how beings respond to it"],
+         "correct": 0,
+         "expl": "Arousal requires some genuine pleasure to respond to."},
+        {"q": "What would follow, according to this discourse, if the earth element were exclusively pleasurable?",
+         "opts": [
+             "Sentient beings wouldn't grow disillusioned with it",
+             "Sentient beings would grow disillusioned with it even faster",
+             "Sentient beings would never be aroused by it at all",
+             "Nothing would change in how beings respond to it"],
+         "correct": 0,
+         "expl": "Disillusionment requires some genuine drawback to respond to."},
+        {"q": "How does this reading guide recommend reading this discourse?",
+         "opts": [
+             "Directly alongside SN 14.33, to notice exactly how the arguments differ",
+             "In complete isolation, with no reference to any other discourse",
+             "Only after finishing the entire saṃyutta",
+             "As a direct contradiction of SN 14.33's claims"],
+         "correct": 0,
+         "expl": "A precise variation, best appreciated in comparison with its companion discourse."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Pañcamaṁ, \"the fifth\"",
+             "Catutthaṁ, \"the fourth\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The fifth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A sharper question than SN 14.33's", [
+            "not whether pleasure exists, but whether it's pure &mdash;",
+            "a genuinely different, narrower claim",
+        ]),
+        ("Only two arguments, not three", [
+            "arousal and disillusionment addressed &mdash;",
+            "escape left untouched this time",
+        ]),
+        ("Elements shown to be mixed, not pure", [
+            "both responses require both qualities &mdash;",
+            "neither exclusively painful nor pleasurable",
+        ]),
+        ("Language with real physical weight", [
+            "\"soaked and steeped,\" not merely present &mdash;",
+            "total saturation, vividly described",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.34/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.33.html">SN 14.33 &middot; If There Was No</a> '
+        "&mdash; the discourse immediately before this one, its "
+        "closest structural companion.",
+        '<a href="sn-14.35.html">SN 14.35 &middot; Taking Pleasure</a> '
+        "&mdash; the next discourse, turning from argument to direct "
+        "ethical exhortation.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.35 — Abhinandasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 35, "Abhinanda", "Taking Pleasure",
+    meta_title="SN 14.35 — Taking Pleasure | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Abhinandasutta — the gratification-drawback-escape "
+        "framework turned directly toward the listener: take "
+        "pleasure in an element, and you take pleasure in suffering "
+        "itself. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants in direct second person"),
+        ("Form", "Two matched conditional statements, negative then "
+                 "positive, addressed directly to the listener"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; brief and direct, a change of "
+                       "address from the discourses before it"),
+    ],
+    why=(
+        "After three discourses reasoning about elements in the "
+        "abstract, this discourse turns directly to the listener: "
+        "if you take pleasure in the earth element, you take "
+        "pleasure in suffering itself, and if you take pleasure in "
+        "suffering, you aren't free from it. The logic compresses "
+        "SN 14.31&ndash;33's whole investigation into a single, "
+        "pointed equation &mdash; pleasure in an element equals "
+        "pleasure in suffering &mdash; before reversing it "
+        "completely: don't take pleasure in an element, and you're "
+        "free. Brief and stark, this discourse trades argument for "
+        "direct address."),
+    guide=[
+        ("A shift from third person to direct address", [
+            "Every discourse since SN 14.30 has spoken about "
+            "elements in general terms; this one uses &ldquo;you,"
+            "&rdquo; addressing the listener's own potential response "
+            "directly rather than describing sentient beings in the "
+            "abstract."]),
+        ("An equation compressed to two clauses", [
+            "Taking pleasure in an element is equated directly with "
+            "taking pleasure in suffering, and taking pleasure in "
+            "suffering is equated directly with not being free from "
+            "it &mdash; two clean equivalences, stated without "
+            "elaboration."]),
+        ("The same structure, exactly mirrored in reverse", [
+            "The positive half doesn't introduce new content; it "
+            "simply negates every clause of the first half, "
+            "producing not-taking-pleasure as the exact photographic "
+            "negative of the warning that opens the discourse."]),
+        ("Dukkha standing in for both drawback and consequence", [
+            "Suffering (dukkha) does double duty here: it's both "
+            "what pleasure in an element amounts to and the very "
+            "thing one remains bound to by taking that pleasure "
+            "&mdash; the term doing more work than in the more "
+            "analytical discourses before it."]),
+        ("The shortest ethical exhortation in this vagga", [
+            "Where SN 14.31&ndash;34 built arguments and "
+            "autobiographical accounts, this discourse offers "
+            "almost no elaboration at all &mdash; a stark, "
+            "memorable claim meant to be carried directly rather "
+            "than reasoned through."]),
+    ],
+    terms=[
+        ("abhinandati",
+         "&ldquo;takes pleasure in,&rdquo; delights in &mdash; this "
+         "discourse's title term and its central verb, applied to "
+         "each of the four elements in turn."),
+        ("dukkhaṁ so abhinandati",
+         "&ldquo;you take pleasure in suffering&rdquo; &mdash; the "
+         "discourse's central equation, collapsing pleasure in an "
+         "element directly into pleasure in suffering itself."),
+        ("aparimutto so dukkhasmā",
+         "&ldquo;you're not free from suffering&rdquo; &mdash; the "
+         "consequence the Buddha states directly, in his own "
+         "voice (\"I say\")."),
+        ("nābhinandati",
+         "&ldquo;doesn't take pleasure in&rdquo; &mdash; the "
+         "negated form opening the discourse's positive, mirrored "
+         "second half."),
+        ("chaṭṭhaṁ",
+         "&ldquo;the sixth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.35:1.1-1.7"),
+        ("p", "&sect;2", "sn14.35:2.1-2.6"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's mode of address differ from the discourses immediately before it?",
+         "opts": [
+             "It speaks directly to \"you,\" rather than describing elements or beings in the abstract",
+             "It is spoken entirely by a mendicant instead of the Buddha",
+             "It uses no second-person address at all, identical to SN 14.33-34",
+             "There is no difference in address between this discourse and the ones before it"],
+         "correct": 0,
+         "expl": "A shift to direct, personal address."},
+        {"q": "What does this discourse equate with taking pleasure in an element?",
+         "opts": [
+             "Taking pleasure in suffering itself",
+             "Achieving immediate escape from suffering",
+             "Gaining true wisdom about the four elements",
+             "No equation is stated; the discourse only describes the elements"],
+         "correct": 0,
+         "expl": "The discourse's central, compressed claim."},
+        {"q": "What follows from taking pleasure in suffering, according to this discourse?",
+         "opts": [
+             "You're not free from suffering",
+             "You immediately achieve full liberation",
+             "You gain clairvoyant powers",
+             "Nothing follows; the discourse states no consequence"],
+         "correct": 0,
+         "expl": "Aparimutto so dukkhasmā, stated directly in the Buddha's own voice."},
+        {"q": "How does this discourse's positive half relate to its negative half?",
+         "opts": [
+             "It exactly mirrors the negative half with every clause negated",
+             "It introduces entirely new, unrelated content",
+             "It contradicts the negative half's claims",
+             "There is no positive half in this discourse"],
+         "correct": 0,
+         "expl": "A photographic negative of the opening warning, not a new argument."},
+        {"q": "How does this reading guide describe this discourse compared to SN 14.31-34?",
+         "opts": [
+             "The shortest ethical exhortation in the vagga, offering almost no elaboration",
+             "The longest and most elaborately argued discourse in the vagga",
+             "Identical in length and structure to SN 14.31",
+             "An entirely unrelated discourse with no connection to the others"],
+         "correct": 0,
+         "expl": "Stark and memorable rather than built on extended argument."},
+        {"q": "What double role does dukkha (suffering) play in this discourse?",
+         "opts": [
+             "Both what pleasure in an element amounts to, and the thing one remains bound to by that pleasure",
+             "It appears only once, with a single narrow meaning",
+             "It refers exclusively to physical pain, not suffering generally",
+             "The term dukkha doesn't appear in this discourse"],
+         "correct": 0,
+         "expl": "A term doing more compressed work here than in the more analytical discourses before it."},
+        {"q": "What verb does this discourse apply to each of the four elements in turn?",
+         "opts": [
+             "Abhinandati, \"takes pleasure in\"",
+             "Pajānāti, \"understands\"",
+             "Nissarati, \"escapes from\"",
+             "Uppajjati, \"arises\""],
+         "correct": 0,
+         "expl": "The discourse's central, repeated verb."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha speaks directly to \"you.\""},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Pañcamaṁ, \"the fifth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The sixth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("Suddenly, the address turns personal", [
+            "\"you,\" not beings in general &mdash;",
+            "a direct shift from the discourses before it",
+        ]),
+        ("An equation with no elaboration", [
+            "pleasure in an element, pleasure in suffering &mdash;",
+            "two clauses, stated flat, unadorned",
+        ]),
+        ("A mirror, not a new argument", [
+            "the positive half negates every clause &mdash;",
+            "nothing added, only reversed",
+        ]),
+        ("The whole investigation, compressed to a warning", [
+            "SN 14.31-34's reasoning, distilled &mdash;",
+            "meant to be carried, not worked through",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.35/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.34.html">SN 14.34 &middot; Exclusively Painful</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.36.html">SN 14.36 &middot; Arising</a> '
+        "&mdash; the next discourse, turning from pleasure and "
+        "suffering to arising and cessation directly.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.36 — Uppādasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 36, "Uppāda", "Arising",
+    meta_title="SN 14.36 — Arising | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Uppādasutta — leaving gratification-drawback-escape "
+        "behind for a new pairing: an element's arising is "
+        "suffering's arising, its cessation is suffering's "
+        "cessation. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "Two matched statements, arising then cessation, "
+                 "each equating an element's state with suffering's "
+                 "own state"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&#9734;&#9734;&#9734; "
+                       "&mdash; introduces a genuinely new pairing "
+                       "distinct from every discourse before it in "
+                       "this vagga"),
+    ],
+    why=(
+        "After five discourses working the gratification-drawback-escape "
+        "framework from multiple angles, this discourse introduces a "
+        "different pairing entirely: uppāda and nirodha, arising and "
+        "cessation. The arising, continuation, and manifestation of "
+        "each element is directly equated with the arising of "
+        "suffering, the continuation of diseases, and the "
+        "manifestation of old age and death; the cessation of each "
+        "element is equated with the cessation of exactly the same "
+        "three things. Rather than analyzing an element's internal "
+        "qualities, this discourse identifies the element's own "
+        "coming-to-be and passing-away with the coming-to-be and "
+        "passing-away of the whole of embodied suffering."),
+    guide=[
+        ("A genuinely new pairing, not a variant of the earlier one", [
+            "Gratification, drawback, and escape don't appear here "
+            "at all; this discourse works instead with uppāda and "
+            "nirodha, arising and cessation, a distinct analytical "
+            "lens not used elsewhere in this vagga."]),
+        ("Three terms mapped directly onto three others", [
+            "Arising, continuation, and manifestation of an element "
+            "map exactly onto the arising of suffering, the "
+            "continuation of disease, and the manifestation of old "
+            "age and death &mdash; not analogous processes, but "
+            "identical ones, stated as a direct equation."]),
+        ("Disease and old age given specific, vivid mention", [
+            "Where earlier discourses spoke of dukkha broadly, this "
+            "one names rogā, diseases, and jarāmaraṇa, old age and "
+            "death, specifically &mdash; grounding suffering in "
+            "concrete bodily experience rather than leaving it "
+            "abstract."]),
+        ("Cessation mirrored with equal precision", [
+            "The positive half doesn't just say suffering "
+            "\"decreases\"; it names cessation, settling, and "
+            "disappearance as the exact mirror of arising, "
+            "continuation, and manifestation, term for term."]),
+        ("A discourse best read as a bridge, not an isolated claim", [
+            "Positioned between SN 14.35's direct ethical exhortation "
+            "and SN 14.37's return to a criterion for genuine "
+            "understanding, this discourse's arising-cessation "
+            "framework offers yet another angle on why the earlier "
+            "investigations matter."]),
+    ],
+    terms=[
+        ("uppādo ṭhiti abhinibbatti pātubhāvo",
+         "&ldquo;arising, continuation, and manifestation and "
+         "regeneration&rdquo; &mdash; the four-part description of "
+         "an element's coming-to-be, equated directly with "
+         "suffering's own arising."),
+        ("rogā",
+         "&ldquo;diseases&rdquo; &mdash; named specifically as part "
+         "of what an element's arising amounts to, grounding "
+         "suffering in concrete bodily experience."),
+        ("jarāmaraṇa",
+         "&ldquo;old age and death&rdquo; &mdash; the third "
+         "specific consequence named, completing the vivid, bodily "
+         "framing of this discourse's claim."),
+        ("nirodho vūpasamo atthaṅgamo",
+         "&ldquo;cessation, settling, and disappearance&rdquo; "
+         "&mdash; the exact positive mirror of the arising formula, "
+         "equated with suffering's own cessation."),
+        ("sattamaṁ",
+         "&ldquo;the seventh&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own elision "
+        "of the water and fire elements' repeated clauses. "
+        "Translation: Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.36:1.1-1.5"),
+        ("p", "&sect;2", "sn14.36:2.1-2.4"),
+    ],
+    quiz=[
+        {"q": "What analytical pairing does this discourse introduce, distinct from every earlier discourse in this vagga?",
+         "opts": [
+             "Arising and cessation (uppāda and nirodha)",
+             "Gratification and drawback, identical to SN 14.31-34",
+             "Ascetics and brahmins, identical to SN 14.37",
+             "No new pairing is introduced"],
+         "correct": 0,
+         "expl": "A genuinely distinct analytical lens not used elsewhere in this vagga."},
+        {"q": "What does this discourse equate an element's arising with?",
+         "opts": [
+             "The arising of suffering, the continuation of diseases, and the manifestation of old age and death",
+             "The arising of gratification alone",
+             "The complete cessation of suffering",
+             "No specific equation is made"],
+         "correct": 0,
+         "expl": "A direct, term-for-term equation, not a loose analogy."},
+        {"q": "What two specific consequences does this discourse name, grounding suffering concretely?",
+         "opts": [
+             "Diseases and old age/death",
+             "Wealth and poverty",
+             "Praise and blame",
+             "No specific consequences are named"],
+         "correct": 0,
+         "expl": "Rogā and jarāmaraṇa, naming concrete bodily experience rather than leaving suffering abstract."},
+        {"q": "How does the discourse's cessation half relate to its arising half?",
+         "opts": [
+             "An exact mirror, term for term — cessation, settling, and disappearance matching arising, continuation, and manifestation",
+             "An entirely unrelated new claim",
+             "A direct contradiction of the arising half",
+             "The discourse has no cessation half"],
+         "correct": 0,
+         "expl": "Precise mirroring, not a vague reversal."},
+        {"q": "How does this reading guide characterize this discourse's position in the vagga?",
+         "opts": [
+             "A bridge between SN 14.35's direct exhortation and SN 14.37's return to a criterion for genuine understanding",
+             "The vagga's opening discourse",
+             "An isolated claim with no connection to any other discourse",
+             "A direct repetition of SN 14.30's bare definition"],
+         "correct": 0,
+         "expl": "Offering yet another angle within the vagga's broader investigation."},
+        {"q": "Does this discourse use the terms gratification, drawback, or escape?",
+         "opts": [
+             "No — it works with a different pairing entirely, arising and cessation",
+             "Yes, all three terms appear extensively",
+             "Only gratification appears; the other two are omitted",
+             "Only escape appears; the other two are omitted"],
+         "correct": 0,
+         "expl": "A distinct framework, not a variant of the earlier one."},
+        {"q": "What does \"ṭhiti\" mean within this discourse's arising formula?",
+         "opts": [
+             "\"Continuation\"",
+             "\"Cessation\"",
+             "\"Escape\"",
+             "\"Gratification\""],
+         "correct": 0,
+         "expl": "One of the four terms describing an element's coming-to-be."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Sattamaṁ, \"the seventh\"",
+             "Chaṭṭhaṁ, \"the sixth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The seventh discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("A different pair, after five discourses of one", [
+            "not gratification and drawback now &mdash;",
+            "arising and cessation, a genuinely new lens",
+        ]),
+        ("Suffering named in the body itself", [
+            "not abstract dukkha alone &mdash;",
+            "disease, old age, death, named specifically",
+        ]),
+        ("A mirror as precise as the claim it reverses", [
+            "cessation, settling, disappearance &mdash;",
+            "matching arising term for term",
+        ]),
+        ("A hinge between exhortation and criterion", [
+            "SN 14.35's warning behind it &mdash;",
+            "SN 14.37's test for genuine understanding ahead",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.36/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.35.html">SN 14.35 &middot; Taking Pleasure</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.37.html">SN 14.37 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the next discourse, returning to gratification, "
+        "drawback, and escape as a criterion for genuine spiritual "
+        "attainment.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.37 — Samaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 37, "Samaṇabrāhmaṇa", "Ascetics and Brahmins",
+    meta_title="SN 14.37 — Ascetics and Brahmins | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Samaṇabrāhmaṇasutta — gratification, drawback, and "
+        "escape return as a criterion: only those who truly "
+        "understand all three, for all four elements, count as "
+        "genuine ascetics or brahmins. From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "A definition, followed by a strict criterion "
+                 "applied negatively then positively"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; assumes SN 14.31's gratification, "
+                       "drawback, and escape framework as background"),
+    ],
+    why=(
+        "This discourse restates SN 14.30's bare four-element "
+        "definition, then puts gratification, drawback, and escape "
+        "&mdash; absent since SN 14.34 &mdash; to a new, pointed use: "
+        "as a strict criterion for who counts as a genuine ascetic "
+        "or brahmin at all. Ascetics and brahmins who don't truly "
+        "understand these four elements' gratification, drawback, "
+        "and escape don't earn that title from the Buddha, however "
+        "they may be regarded by their own communities; those who do "
+        "understand are recognized as genuine, having realized for "
+        "themselves the very goal their religious life is meant to "
+        "reach."),
+    guide=[
+        ("A return to the framework, after one discourse's absence", [
+            "SN 14.36 worked with arising and cessation instead; this "
+            "discourse brings gratification, drawback, and escape "
+            "back, now applied not to individual understanding in "
+            "general but to a specific social category."]),
+        ("A definition restated before the criterion is applied", [
+            "The four elements are named again in full, exactly as "
+            "in SN 14.30, before the discourse turns to who does and "
+            "doesn't genuinely understand them."]),
+        ("A title the Buddha withholds, not merely criticizes", [
+            "The Buddha doesn't say such ascetics or brahmins are "
+            "doing something wrong; he says he doesn't deem them "
+            "ascetics or brahmins at all, a stronger and more "
+            "specific claim than ordinary criticism."]),
+        ("Self-realization named as the actual measure", [
+            "The distinguishing mark isn't external status or "
+            "reputation within one's own community, but whether one "
+            "has \"realized the goal of life as an ascetic or "
+            "brahmin\" through one's own direct insight, diṭṭheva "
+            "dhamme sayaṁ abhiññā sacchikatvā."]),
+        ("A pattern this vagga will use twice more, in expanding form", [
+            "This exact true-ascetic-or-brahmin criterion returns in "
+            "the next two discourses, each time applying it to a "
+            "larger and more demanding set of things to be "
+            "understood."]),
+    ],
+    terms=[
+        ("samaṇā vā brāhmaṇā vā",
+         "&ldquo;ascetics or brahmins&rdquo; &mdash; this "
+         "discourse's title subject, the social category whose "
+         "legitimacy the criterion tests."),
+        ("na me te … samaṇasammatā",
+         "&ldquo;I don't deem them&hellip;&rdquo; &mdash; the "
+         "Buddha's own explicit withholding of the title, not merely "
+         "a criticism of their conduct."),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā",
+         "&ldquo;the goal of life as an ascetic or brahmin&rdquo; "
+         "&mdash; the specific attainment genuine understanding is "
+         "measured against."),
+        ("diṭṭheva dhamme sayaṁ abhiññā sacchikatvā",
+         "&ldquo;realized with their own insight, in this very "
+         "life&rdquo; &mdash; the discourse's precise standard for "
+         "genuine attainment, as opposed to inherited status or "
+         "reputation."),
+        ("aṭṭhamaṁ",
+         "&ldquo;the eighth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. Translation: Bhikkhu Sujato (CC0, "
+        "SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.37:1.1-1.6"),
+        ("p", "&sect;2", "sn14.37:2.1-2.2"),
+    ],
+    quiz=[
+        {"q": "What framework does this discourse bring back, after SN 14.36's different pairing?",
+         "opts": [
+             "Gratification, drawback, and escape",
+             "Arising and cessation, identical to SN 14.36",
+             "The eightfold path",
+             "The five precepts"],
+         "correct": 0,
+         "expl": "Absent from SN 14.36, now returning as a criterion for legitimacy."},
+        {"q": "What does this discourse use gratification, drawback, and escape as a criterion for?",
+         "opts": [
+             "Who genuinely counts as an ascetic or brahmin, according to the Buddha",
+             "How to properly meditate on the breath",
+             "How many rebirths remain before liberation",
+             "No specific use is made of this framework"],
+         "correct": 0,
+         "expl": "A social and spiritual legitimacy test, not merely a doctrinal teaching."},
+        {"q": "How does the Buddha describe those who don't understand gratification, drawback, and escape?",
+         "opts": [
+             "He doesn't deem them ascetics or brahmins at all",
+             "He praises them as advanced practitioners regardless",
+             "He says they will attain understanding automatically over time",
+             "He makes no judgment about them whatsoever"],
+         "correct": 0,
+         "expl": "An explicit withholding of the title, stronger than ordinary criticism."},
+        {"q": "What is the actual measure of genuine attainment, according to this discourse?",
+         "opts": [
+             "Realizing the goal through one's own direct insight, in this very life",
+             "Being recognized as legitimate by one's own religious community",
+             "Having studied under a famous teacher",
+             "Simply reaching old age while practicing"],
+         "correct": 0,
+         "expl": "Diṭṭheva dhamme sayaṁ abhiññā sacchikatvā, self-realization rather than external status."},
+        {"q": "What happens to this discourse's four-element definition, compared to SN 14.30?",
+         "opts": [
+             "It is restated in full before the criterion is applied",
+             "It is entirely omitted from this discourse",
+             "It is replaced with a completely different list",
+             "It is shortened to only two elements"],
+         "correct": 0,
+         "expl": "The same base list from SN 14.30, given again before the discourse's main point."},
+        {"q": "What happens to this discourse's exact criterion in the two discourses that follow it?",
+         "opts": [
+             "It returns, applied to a larger and more demanding set of things to be understood",
+             "It is directly contradicted and abandoned",
+             "It is never mentioned again in this saṃyutta",
+             "This is the vagga's final discourse; nothing follows it"],
+         "correct": 0,
+         "expl": "SN 14.38 and 14.39 expand the same true-ascetic-or-brahmin test."},
+        {"q": "How does the Buddha's stance toward those lacking this understanding compare to ordinary criticism?",
+         "opts": [
+             "It's a stronger, more specific claim — an outright denial of the title itself",
+             "It's identical to mild, generic criticism",
+             "It is entirely absent; no judgment is expressed",
+             "It applies only to brahmins, never to ascetics"],
+         "correct": 0,
+         "expl": "Denying the category applies to them at all, not merely faulting their practice."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Sattamaṁ, \"the seventh\"",
+             "Navamaṁ, \"the ninth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The eighth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("The framework returns, put to new use", [
+            "gratification, drawback, escape, once more &mdash;",
+            "now a test, not just an analysis",
+        ]),
+        ("A title withheld, not merely criticized", [
+            "\"I don't deem them\" &mdash;",
+            "a stronger claim than ordinary disapproval",
+        ]),
+        ("Insight over inherited status", [
+            "not community recognition, but self-realization &mdash;",
+            "in this very life, by one's own direct seeing",
+        ]),
+        ("A test that will grow more demanding", [
+            "this same criterion, twice more &mdash;",
+            "applied to larger and larger sets of understanding",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.37/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.36.html">SN 14.36 &middot; Arising</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-14.38.html">SN 14.38 &middot; Ascetics and Brahmins (2nd)</a> '
+        "&mdash; the next discourse, expanding the same criterion "
+        "with two further categories.",
+    ],
+)
+# --------------------------------------------------------------------------- #
+# SN 14.38 — Dutiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 38, "Dutiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (2nd)",
+    meta_title="SN 14.38 — Ascetics and Brahmins (2nd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Dutiyasamaṇabrāhmaṇasutta — SN 14.37's criterion "
+        "expanded from three categories to five, origin and "
+        "disappearance now joining gratification, drawback, and "
+        "escape, compressed by an explicit reciter's instruction. "
+        "From Ru-Yi Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "SN 14.37's true-ascetic-or-brahmin criterion, "
+                 "expanded to five categories and heavily compressed"),
+        ("Length", "~1 minute to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; brief on the page, but assumes SN "
+                       "14.37's criterion as necessary background"),
+    ],
+    why=(
+        "This discourse takes SN 14.37's criterion and adds two "
+        "further categories: samudaya and atthaṅgama, origin and "
+        "disappearance, joining gratification, drawback, and escape "
+        "to make five things a genuine ascetic or brahmin must "
+        "understand about each of the four elements. Rather than "
+        "spelling out this five-part list in full the way SN 14.37 "
+        "spelled out three, the source compresses almost the entire "
+        "discourse, inserting an explicit editorial note &mdash; "
+        "&ldquo;tell all in full&rdquo; &mdash; exactly where the "
+        "complete elaboration has been omitted, trusting the reader "
+        "to reconstruct it from the pattern SN 14.37 already "
+        "established."),
+    guide=[
+        ("Three categories become five", [
+            "Samudaya (origin) and atthaṅgama (disappearance) join "
+            "assāda, ādīnava, and nissaraṇa (gratification, drawback, "
+            "escape), expanding SN 14.37's three-part criterion into "
+            "a five-part one."]),
+        ("Heavy compression, unlike SN 14.37's full spelling-out", [
+            "Where SN 14.37 gave its negative and positive halves in "
+            "complete detail, this discourse compresses almost "
+            "everything, relying on elision markers and a single "
+            "explicit instruction rather than repeating the full "
+            "formula."]),
+        ("An editorial note standing in for the missing text", [
+            "\"(Vitthāretabbaṁ)\", \"tell all in full,\" appears "
+            "directly in the source at the exact point the "
+            "complete five-category elaboration has been left out "
+            "&mdash; a plain instruction rather than a bare "
+            "&hellip;pe&hellip; marker."]),
+        ("Origin and disappearance, distinct from arising and cessation", [
+            "Samudaya and atthaṅgama are worth distinguishing from "
+            "SN 14.36's uppāda and nirodha (arising and cessation); "
+            "though related in meaning, this discourse pairs them "
+            "specifically with the gratification-drawback-escape "
+            "framework rather than introducing a wholly separate "
+            "analysis."]),
+        ("The criterion's second, expanding stage", [
+            "Read across SN 14.37, this discourse, and SN 14.39, the "
+            "true-ascetic-or-brahmin test grows at each step: three "
+            "categories, then five, then a fourth and final "
+            "reformulation entirely."]),
+    ],
+    terms=[
+        ("samudaya",
+         "&ldquo;origin&rdquo; &mdash; the first of two new "
+         "categories this discourse adds to SN 14.37's three-part "
+         "criterion."),
+        ("atthaṅgama",
+         "&ldquo;disappearance&rdquo; &mdash; the second new "
+         "category, paired with samudaya to complete the five-part "
+         "list."),
+        ("vitthāretabbaṁ",
+         "&ldquo;it should be told in full&rdquo; &mdash; the "
+         "explicit editorial instruction embedded in the source, "
+         "marking exactly where the complete elaboration is omitted."),
+        ("assāda, ādīnava, nissaraṇa",
+         "&ldquo;gratification, drawback, escape&rdquo; &mdash; the "
+         "three categories carried forward unchanged from SN 14.37, "
+         "now joined by two more."),
+        ("navamaṁ",
+         "&ldquo;the ninth&rdquo; &mdash; the closing numbering "
+         "tag, marking this discourse's place in the vagga."),
+    ],
+    text_intro=(
+        "The discourse in full, including the source's own heavy "
+        "elision and its explicit reciter's instruction. Translation: "
+        "Bhikkhu Sujato (CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.38:1.1-1.7"),
+    ],
+    quiz=[
+        {"q": "What two categories does this discourse add to SN 14.37's criterion?",
+         "opts": [
+             "Samudaya and atthaṅgama, origin and disappearance",
+             "Two more elements beyond earth, water, fire, and air",
+             "Two new ethical precepts",
+             "No categories are added; this discourse repeats SN 14.37 unchanged"],
+         "correct": 0,
+         "expl": "Expanding the criterion from three categories to five."},
+        {"q": "How does this discourse's presentation compare to SN 14.37's?",
+         "opts": [
+             "Heavily compressed, relying on elision rather than full spelling-out",
+             "Identical in length and level of detail",
+             "Even longer and more elaborated than SN 14.37",
+             "This discourse contains no elision at all"],
+         "correct": 0,
+         "expl": "Trusting the reader to reconstruct the full formula from SN 14.37's pattern."},
+        {"q": "What explicit instruction appears directly in this discourse's source text?",
+         "opts": [
+             "\"(Vitthāretabbaṁ)\" — \"it should be told in full\"",
+             "\"This discourse should never be recited\"",
+             "\"Omit the positive half entirely\"",
+             "No instruction appears in the source"],
+         "correct": 0,
+         "expl": "A plain instruction marking exactly where the full elaboration is omitted."},
+        {"q": "How does this reading guide distinguish samudaya/atthaṅgama from SN 14.36's uppāda/nirodha?",
+         "opts": [
+             "Related in meaning but paired specifically with the gratification-drawback-escape framework here, not introduced as a separate analysis",
+             "They are described as completely identical concepts with no distinction",
+             "SN 14.36's terms are said to be unrelated to this discourse in any way",
+             "This reading guide draws no distinction between the two pairs"],
+         "correct": 0,
+         "expl": "A careful, honest distinction rather than treating the terms as interchangeable."},
+        {"q": "What stage does this discourse represent in the true-ascetic-or-brahmin criterion's development?",
+         "opts": [
+             "The second, expanding stage — three categories becoming five",
+             "The final stage, with no further development after it",
+             "The first stage, preceding SN 14.37",
+             "An entirely unrelated criterion with no connection to SN 14.37"],
+         "correct": 0,
+         "expl": "SN 14.39 will reformulate the criterion once more."},
+        {"q": "How many total categories must a genuine ascetic or brahmin understand about each element, according to this discourse?",
+         "opts": [
+             "Five",
+             "Three, unchanged from SN 14.37",
+             "Ten",
+             "Only one"],
+         "correct": 0,
+         "expl": "Origin, disappearance, gratification, drawback, and escape."},
+        {"q": "Are gratification, drawback, and escape dropped in this discourse's expanded criterion?",
+         "opts": [
+             "No — they are carried forward unchanged, joined by two additional categories",
+             "Yes, they are entirely removed and replaced",
+             "Only gratification is retained; the other two are dropped",
+             "The discourse doesn't mention these three categories at all"],
+         "correct": 0,
+         "expl": "All three original categories remain, now alongside origin and disappearance."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Navamaṁ, \"the ninth\"",
+             "Aṭṭhamaṁ, \"the eighth\"",
+             "Dasamaṁ, \"the tenth\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The ninth discourse of Catutthavagga."},
+    ],
+    marginalia=[
+        ("Three categories, now five", [
+            "origin and disappearance join the set &mdash;",
+            "the criterion grows more demanding",
+        ]),
+        ("An instruction standing in for the missing text", [
+            "\"tell all in full,\" the source says plainly &mdash;",
+            "rather than a bare elision marker",
+        ]),
+        ("Compression trusting an established pattern", [
+            "SN 14.37's full form, not repeated here &mdash;",
+            "the reader expected to carry it forward",
+        ]),
+        ("Terms distinguished, not blurred together", [
+            "origin and disappearance, not arising and cessation &mdash;",
+            "a related but genuinely separate pair",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.38/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.37.html">SN 14.37 &middot; Ascetics and Brahmins</a> '
+        "&mdash; the discourse immediately before this one, giving "
+        "the three-part criterion this discourse expands.",
+        '<a href="sn-14.39.html">SN 14.39 &middot; Ascetics and Brahmins (3rd)</a> '
+        "&mdash; the next and closing discourse, reformulating the "
+        "criterion once more and closing this entire saṃyutta.",
+    ],
+)
+
+
+# --------------------------------------------------------------------------- #
+# SN 14.39 — Tatiyasamaṇabrāhmaṇasutta
+# --------------------------------------------------------------------------- #
+page(
+    14, 39, "Tatiyasamaṇabrāhmaṇa", "Ascetics and Brahmins (3rd)",
+    meta_title="SN 14.39 — Ascetics and Brahmins (3rd) | Ru-Yi Meditation Center",
+    meta_desc=(
+        "A reading guide, full English text, and self-check quiz for "
+        "the Tatiyasamaṇabrāhmaṇasutta — closing Catutthavagga and "
+        "Dhātusaṃyutta itself, the criterion reformulated in a "
+        "four-noble-truths shape: each element, its origin, its "
+        "cessation, and the path to its cessation. From Ru-Yi "
+        "Meditation Center."),
+    glance=[
+        ("Setting", "Sāvatthī"),
+        ("Speakers", "The Buddha alone, addressing the assembled "
+                     "mendicants"),
+        ("Form", "The true-ascetic-or-brahmin criterion "
+                 "reformulated a third time, closing with this "
+                 "saṃyutta's own formal colophon"),
+        ("Length", "~2 minutes to read"),
+        ("Northern parallel", "A rough counterpart may exist in the "
+                              "Chinese Saṃyukta-āgama (T99), though "
+                              "this reading guide does not assert a "
+                              "specific matching sutra number"),
+        ("Difficulty", "&starf;&starf;&starf;&#9734;&#9734; "
+                       "&mdash; closes the whole saṃyutta, worth "
+                       "reading against SN 14.37&ndash;38's earlier "
+                       "versions of the same criterion"),
+    ],
+    why=(
+        "This discourse closes both Catutthavagga and Dhātusaṃyutta "
+        "itself, reformulating the true-ascetic-or-brahmin criterion "
+        "a third time &mdash; not by adding more categories to "
+        "gratification, drawback, and escape, but by switching to an "
+        "entirely different four-part structure recognizable from "
+        "the four noble truths: understanding each element itself, "
+        "its origin, its cessation, and the practice that leads to "
+        "its cessation. Genuine ascetics and brahmins are those who "
+        "understand all four, for each of the four elements; those "
+        "who don't, however they are regarded by their own "
+        "communities, don't earn the title from the Buddha. The "
+        "discourse closes with this saṃyutta's own colophon: "
+        "&ldquo;the Linked Discourses on the elements are complete.&rdquo;"),
+    guide=[
+        ("A third reformulation, not a third expansion", [
+            "SN 14.38 expanded SN 14.37's three categories to five; "
+            "this discourse doesn't expand further but switches "
+            "structure entirely, to element, origin, cessation, and "
+            "path &mdash; four terms in a genuinely different shape."]),
+        ("A structure recognizable from the four noble truths", [
+            "Dukkha, samudaya, nirodha, magga &mdash; suffering, its "
+            "origin, its cessation, and the path to its cessation "
+            "&mdash; is the four noble truths' own shape, applied "
+            "here specifically to each of the four elements rather "
+            "than to suffering as a whole."]),
+        ("The criterion's third and final version in this saṃyutta", [
+            "Read across all three &ldquo;ascetics and "
+            "brahmins&rdquo; discourses, the test for genuine "
+            "attainment has now been stated three different ways "
+            "&mdash; three categories, five categories, and finally "
+            "this four-part path structure &mdash; without any of "
+            "the three ever being declared the single correct "
+            "version."]),
+        ("A formal close, translated and quoted directly", [
+            "Unlike the untranslated uddāna verses closing earlier "
+            "vaggas in this saṃyutta, this final line &mdash; "
+            "&ldquo;Dhātusaṁyuttaṁ samattaṁ,&rdquo; &ldquo;the "
+            "Linked Discourses on the elements are complete&rdquo; "
+            "&mdash; is itself translated, and is quoted here "
+            "directly as meaningful closing content, not merely "
+            "described."]),
+        ("Thirty-nine discourses, four vaggas, one saṃyutta complete", [
+            "From SN 14.1's bare eighteen-element list through this "
+            "discourse's four-noble-truths-shaped criterion, "
+            "Dhātusaṃyutta has moved through formula chains, "
+            "meditative attainments, named historical figures, "
+            "combinatorial ethics, and finally this repeated "
+            "gratification-and-path investigation of the four "
+            "physical elements &mdash; a genuinely wide-ranging "
+            "saṃyutta for a single organizing word, dhātu, element."]),
+    ],
+    terms=[
+        ("pathavīdhātuṁ pajānanti",
+         "&ldquo;they understand the earth element&rdquo; &mdash; "
+         "the first of this discourse's four-part criterion, "
+         "understanding the element itself directly."),
+        ("pathavīdhātusamudayaṁ",
+         "&ldquo;the earth element's origin&rdquo; &mdash; the "
+         "second part, distinct from SN 14.38's samudaya in being "
+         "embedded in this specific four-truths-shaped structure."),
+        ("pathavīdhātunirodhagāminiṁ paṭipadaṁ",
+         "&ldquo;the practice that leads to the cessation of the "
+         "earth element&rdquo; &mdash; the fourth and final part, "
+         "giving this criterion its distinctly path-shaped "
+         "structure."),
+        ("sāmaññatthaṁ vā brahmaññatthaṁ vā",
+         "&ldquo;the goal of life as an ascetic or brahmin&rdquo; "
+         "&mdash; the same standard from SN 14.37, carried through "
+         "unchanged into this final reformulation."),
+        ("dhātusaṁyuttaṁ samattaṁ",
+         "&ldquo;the Linked Discourses on the elements are "
+         "complete&rdquo; &mdash; the translated colophon closing "
+         "this entire saṃyutta, not merely this vagga."),
+    ],
+    text_intro=(
+        "The discourse in full. The vagga's closing verse of "
+        "discourse titles is not translated in the source and is not "
+        "quoted here, but the saṃyutta's own formal closing line is "
+        "translated and is quoted below. Translation: Bhikkhu Sujato "
+        "(CC0, SuttaCentral)."),
+    text=[
+        ("p", "&sect;1", "sn14.39:1.1-1.6"),
+        ("p", "&sect;2", "sn14.39:2.1-2.5"),
+        ("p", "&sect;3", "sn14.39:3.5-3.5"),
+    ],
+    quiz=[
+        {"q": "How does this discourse's criterion differ structurally from SN 14.38's?",
+         "opts": [
+             "It switches to a four-part structure (element, origin, cessation, path) rather than expanding the five-category list further",
+             "It is word-for-word identical to SN 14.38",
+             "It drops the criterion entirely and introduces an unrelated topic",
+             "It reduces the criterion to a single category"],
+         "correct": 0,
+         "expl": "A reformulation in shape, not simply another expansion in number."},
+        {"q": "What well-known structure does this discourse's four-part criterion resemble?",
+         "opts": [
+             "The four noble truths — suffering, origin, cessation, path",
+             "The noble eightfold path's eight factors",
+             "The five precepts",
+             "No recognizable structure is invoked"],
+         "correct": 0,
+         "expl": "Dukkha, samudaya, nirodha, magga, applied here to each element specifically."},
+        {"q": "How many times, across SN 14.37-39, is the true-ascetic-or-brahmin criterion reformulated?",
+         "opts": [
+             "Three distinct versions — three categories, five categories, and this four-part structure",
+             "Only once, unchanged across all three discourses",
+             "Five separate times",
+             "The criterion never changes across these three discourses"],
+         "correct": 0,
+         "expl": "None declared the single correct version; three genuinely different formulations."},
+        {"q": "What happens to this saṃyutta's final closing line, unlike the untranslated uddāna verses before it?",
+         "opts": [
+             "It is itself translated and is quoted directly in the text section",
+             "It is also left untranslated and only described",
+             "It is omitted from the source entirely",
+             "It is translated but not quoted anywhere in this reading guide"],
+         "correct": 0,
+         "expl": "\"The Linked Discourses on the elements are complete\" — meaningful translated content, quoted directly."},
+        {"q": "What does this discourse's closing colophon confirm about the scope of what has ended?",
+         "opts": [
+             "The entire saṃyutta (Dhātusaṃyutta), not merely this single vagga",
+             "Only this one discourse has ended, with more of the saṃyutta still to come",
+             "Only Catutthavagga has ended, with no implication for the whole saṃyutta",
+             "The colophon makes no claim about scope"],
+         "correct": 0,
+         "expl": "Dhātusaṁyuttaṁ samattaṁ, naming the saṃyutta itself as complete."},
+        {"q": "How does this reading guide summarize Dhātusaṃyutta's overall range across all four vaggas?",
+         "opts": [
+             "Formula chains, meditative attainments, named historical figures, combinatorial ethics, and repeated element investigation",
+             "A single unchanging topic repeated identically in all thirty-nine discourses",
+             "Only meditative attainments, with no other subject matter",
+             "This reading guide offers no summary of the saṃyutta's overall range"],
+         "correct": 0,
+         "expl": "A genuinely wide-ranging saṃyutta organized around one word, dhātu."},
+        {"q": "What is the fourth and final part of this discourse's criterion?",
+         "opts": [
+             "The practice that leads to the cessation of each element",
+             "The element's gratification",
+             "The element's drawback",
+             "No fourth part exists in this discourse's criterion"],
+         "correct": 0,
+         "expl": "Paṭipadā, giving this final criterion its distinctly path-shaped structure."},
+        {"q": "Who is the sole speaker in this discourse?",
+         "opts": [
+             "The Buddha, addressing the assembled mendicants",
+             "Venerable Kaccāna",
+             "An unnamed mendicant",
+             "A visiting brahmin"],
+         "correct": 0,
+         "expl": "No interlocutor or visitor appears; the Buddha teaches directly."},
+        {"q": "Where does the Buddha deliver this teaching?",
+         "opts": [
+             "At Sāvatthī",
+             "At Ñātika, in the brick house",
+             "Near Rājagaha, on the Vulture's Peak",
+             "In the land of the Kurus"],
+         "correct": 0,
+         "expl": "The setting shared with most discourses in this collection."},
+        {"q": "What numbering tag closes this discourse?",
+         "opts": [
+             "Dasamaṁ, \"the tenth\"",
+             "Navamaṁ, \"the ninth\"",
+             "Ekādasamaṁ, \"the eleventh\"",
+             "No numbering tag is given"],
+         "correct": 0,
+         "expl": "The tenth and final discourse of Catutthavagga, and of Dhātusaṃyutta itself."},
+    ],
+    marginalia=[
+        ("A third shape, not a third expansion", [
+            "element, origin, cessation, path &mdash;",
+            "the four truths' own structure, applied here",
+        ]),
+        ("Three tests, none declared the only one", [
+            "three categories, then five, then four &mdash;",
+            "each a genuine reformulation, not a correction",
+        ]),
+        ("A closing line actually translated", [
+            "\"the Linked Discourses on the elements are complete\" &mdash;",
+            "quoted directly, not merely described",
+        ]),
+        ("Thirty-nine discourses, one word holding them together", [
+            "chains, attainments, named elders, ethics, elements &mdash;",
+            "dhātu, spanning all four vaggas",
+        ]),
+    ],
+    further=[
+        '<a href="%s/sn14.39/en/sujato" target="_blank" rel="noopener">Full '
+        "Sujato translation on SuttaCentral</a> &mdash; with Pāli "
+        "alongside, segment by segment."
+        % SC,
+        '<a href="sn-14.38.html">SN 14.38 &middot; Ascetics and Brahmins (2nd)</a> '
+        "&mdash; the discourse immediately before this one.",
+        '<a href="sn-15.1.html">SN 15.1 &middot; Grass and Sticks</a> '
+        "&mdash; the first discourse of Anamataggasaṃyutta, this "
+        "saṃyutta's next successor in the Nidānavagga.",
+    ],
+)
